@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: ""
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP28]] 🌐 [[BU-NP30]] ►
 
-# Monks - Nissaggiya Pacittiya - Relinquish with confession
+# bhikkhus - Nissaggiya Pacittiya - Relinquish with confession
 ## Pattavagga - Bowl
 ## BU-NP29 - Sāsaṅka - Robes while Staying in Risky Places
 
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Upavassaṁ kho pana kattikapuṇṇamaṁ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno tiṇṇaṁ cīvarānaṁ aññataraṁ cīvaraṁ antaraghare nikkhipeyya, siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāya. Chārattaparamaṁ tena bhikkhunā tena cīvarena vippavasitabbaṁ. Tato ce uttari vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṁ pācittiyan | There are wilderness dwellings that are considered risky and dangerous. After observing the Kattika full moon that ends the rainy season, a monk who is staying in such a dwelling may, if he so desires, store one of his three robes in an inhabited area so long as he has a reason for staying apart from that robe. He should stay apart from that robe for six days at the most. If he stays apart from it longer than that, except if the monks have agreed, he commits an offense entailing relinquishment and confession |
+| Upavassaṁ kho pana kattikapuṇṇamaṁ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno tiṇṇaṁ cīvarānaṁ aññataraṁ cīvaraṁ antaraghare nikkhipeyya, siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāya. Chārattaparamaṁ tena bhikkhunā tena cīvarena vippavasitabbaṁ. Tato ce uttari vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṁ pācittiyan | There are wilderness dwellings that are considered risky and dangerous. After observing the Kattika full moon that ends the rainy season, a monk who is staying in such a dwelling may, if he so desires, store one of his three robes in an inhabited area so long as he has a reason for staying apart from that robe. He should stay apart from that robe for six days at the most. If he stays apart from it longer than that, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession |
 
 
 > [!Info] Analisis of the rule
@@ -49,7 +49,7 @@ vin_gender-corr: ""
 > > [!info]- No Offence 
 > > > From Vibhanga
 > > 
-> > If he is away, separated for six nights; if he is away, separated for less than six nights; if, being away, separated for six nights, entering the village-boundary and staying (there) he departs again; if, within six nights, the (robe) is taken away, bestowed, lost, destroyed, burnt, if they tear it from him, if they take it on trust; if there is the agreement of the monks; if he is mad, if he is the first wrong-doer
+> > If he is away, separated for six nights; if he is away, separated for less than six nights; if, being away, separated for six nights, entering the village-boundary and staying (there) he departs again; if, within six nights, the (robe) is taken away, bestowed, lost, destroyed, burnt, if they tear it from him, if they take it on trust; if there is the agreement of the bhikkhus; if he is mad, if he is the first wrong-doer
 > 
 > > [!info]- Useful Notes
 > > > From various authors
@@ -74,7 +74,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-NP29 |  | Vin.3.1–3.40 |
 

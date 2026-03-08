@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these three people are found in the world. What three? Someone easy to measure, someone hard to measure, and someone who is immeasurable.
+1“bhikkhus, these three people are found in the world. What three? Someone easy to measure, someone hard to measure, and someone who is immeasurable.
 
 And who is the person easy to measure?
 
@@ -34,7 +34,7 @@ It’s a person who is not restless, insolent, fickle, gossipy, or loose-tongued
 
 3And who is the immeasurable person?
 
-It’s a mendicant who is perfected, and has ended defilements. This is called ‘an immeasurable person’.
+It’s a bhikkhu who is perfected, and has ended defilements. This is called ‘an immeasurable person’.
 
 These are the three people found in the world.”
 

@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC99"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC2]] 🌐 [[BU-PC4]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 1 Musāvāda-Vaggo - 1 Lies
 ## BU-PC3 - Pesuñña - Divisive Talebearing
 
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC99"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhupesuññe pācittiyaṃ | If a monk engages in malicious talebearing between monks, he commits an offense entailing confession |
+| Bhikkhupesuññe pācittiyaṃ | If a monk engages in malicious talebearing between bhikkhus, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-PC99"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC3 | [[BNI-PC99]] | Vin.3.1–3.40 |
 

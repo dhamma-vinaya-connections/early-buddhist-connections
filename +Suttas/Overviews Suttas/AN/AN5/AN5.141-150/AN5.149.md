@@ -44,7 +44,7 @@ parallels_partilal: "[[AN5.150]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Things don’t lead to the decline of a mendicant who is temporarily free
+> Things don’t lead to the decline of a bhikkhu who is temporarily free
 
 > [!info] Key Excerpts 
 > Don’t relish work, talk, sleep, and company. And they review the extent of their mind’s freedom.

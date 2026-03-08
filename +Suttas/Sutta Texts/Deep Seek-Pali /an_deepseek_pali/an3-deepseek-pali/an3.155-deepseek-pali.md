@@ -76,7 +76,7 @@ He wears hemp robes, coarse hemp robes, shrouds, cast-off rags, bark robes, ante
 
 ‘‘Katamā ca, bhikkhave, majjhimā paṭipadā? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; vedanāsu…pe… citte…pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. Ayaṃ vuccati, bhikkhave, majjhimā paṭipadā. Imā kho, bhikkhave, tisso paṭipadā’’ti.
 
-"And what, monks, is the middle course of conduct? Here, monks, a monk dwells contemplating the body in the body, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in the world. He dwells contemplating feelings in feelings... mind in mind... phenomena in phenomena, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in the world. This, monks, is called the middle course of conduct. These, monks, are the three courses of conduct."
+"And what, monks, is the middle course of conduct? Here, monks, a monk ![[Satipatthanas]]. He ![[Satipatthanas]]. This, monks, is called the middle course of conduct. These, monks, are the three courses of conduct."
 
 ‘‘Tisso imā, bhikkhave, paṭipadā. Katamā tisso? Āgāḷhā paṭipadā, nijjhāmā paṭipadā, majjhimā paṭipadā. Katamā ca, bhikkhave, āgāḷhā paṭipadā…pe… ayaṃ vuccati, bhikkhave, āgāḷhā paṭipadā.
 

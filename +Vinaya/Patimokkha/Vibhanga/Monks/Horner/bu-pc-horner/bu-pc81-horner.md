@@ -7,27 +7,27 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC81]]
 > ◄  [[bu-pc80-horner]] 📜  [[bu-pc82-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 81
+# bhikkhus’ Expiation (_Pācittiya_) 81
 
-*Bu-Pc.81.1.1* *BD.3.64* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding-place. Now at that time the venerable Dabba the Mallian assigned lodgings to the Order and distributed meals.[^1] And the venerable one’s robe became worn thin. Now at that time one robe accrued to the Order. Then the Order gave this robe to the venerable Dabba the Mallian. The group of six monks looked down upon, criticised, spread it about, saying: “The monks are appropriating a benefit belonging to the Order[^2] according to acquaintanceship.”[^3]
+*Bu-Pc.81.1.1* *BD.3.64* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding-place. Now at that time the venerable Dabba the Mallian assigned lodgings to the Order and distributed meals.[^1] And the venerable one’s robe became worn thin. Now at that time one robe accrued to the Order. Then the Order gave this robe to the venerable Dabba the Mallian. The group of six bhikkhus looked down upon, criticised, spread it about, saying: “The bhikkhus are appropriating a benefit belonging to the Order[^2] according to acquaintanceship.”[^3]
 
-Those who were modest monks … spread it about, saying: “How can this group of six monks, having given away a robe by means of a complete Order,[^4] afterwards engage in criticism?”[^5] …
+Those who were modest bhikkhus … spread it about, saying: “How can this group of six bhikkhus, having given away a robe by means of a complete Order,[^4] afterwards engage in criticism?”[^5] …
 
-“Is it true, as is said, that you, monks, having given away a robe … afterwards engaged in criticism?”
+“Is it true, as is said, that you, bhikkhus, having given away a robe … afterwards engaged in criticism?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, having given away a robe … afterwards engage in criticism? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, having given away a robe … afterwards engage in criticism? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
 *BD.3.65*
 
-“Whatever monk, having given away a robe by means of a complete Order, should afterwards engage in criticism, saying: “The monks are appropriating a benefit belonging to the Order according to acquaintanceship,” there is an offence of expiation.”
+“Whatever bhikkhu, having given away a robe by means of a complete Order, should afterwards engage in criticism, saying: “The bhikkhus are appropriating a benefit belonging to the Order according to acquaintanceship,” there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.81.2.1* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.81.2.1* Whatever means: … bhikkhu is to be understood in this case.
 
 Complete Order means: belonging to the same communion,[^6] staying within the same boundary.[^7]
 
@@ -55,7 +55,7 @@ The Eleventh[^19]
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

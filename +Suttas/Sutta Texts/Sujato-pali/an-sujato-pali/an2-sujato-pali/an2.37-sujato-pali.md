@@ -58,7 +58,7 @@ Then the brahmin Ārāmadaṇḍa went up to Mahākaccāna, and exchanged greeti
 
 9He who has gone beyond the insistence on sensual desire and the insistence on views.
 
-10Excellent, Master Kaccāna! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Kaccāna has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Kaccāna remember me as a lay follower who has gone for refuge for life.”
+10Excellent, Master Kaccāna! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Kaccāna has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Kaccāna remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

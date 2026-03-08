@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a king’s frontier citadel is well provided with seven essentials and gets four kinds of sustenance when needed, without trouble or difficulty, it is then called a king’s frontier citadel that cannot be overrun by external foes and enemies.
+1“bhikkhus, when a king’s frontier citadel is well provided with seven essentials and gets four kinds of sustenance when needed, without trouble or difficulty, it is then called a king’s frontier citadel that cannot be overrun by external foes and enemies.
 
 
 2With what seven essentials is a citadel well provided?

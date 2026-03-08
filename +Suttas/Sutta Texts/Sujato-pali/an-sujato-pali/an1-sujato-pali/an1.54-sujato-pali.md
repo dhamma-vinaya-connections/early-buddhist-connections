@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“If, mendicants, a mendicant develops a mind of love even as long as a finger snap, they’re called a mendicant who does not lack jhāna, who follows the Teacher’s instructions, who responds to advice, and who does not eat the country’s alms in vain. How much more so those who make much of it!”
+1“If, bhikkhus, a bhikkhu develops a mind of love even as long as a finger snap, they’re called a bhikkhu who does not lack jhāna, who follows the Teacher’s instructions, who responds to advice, and who does not eat the country’s alms in vain. How much more so those who make much of it!”
 
 1"Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettācittaṁ bhāveti; ayaṁ vuccati, bhikkhave:  ‘bhikkhu arittajjhāno viharati satthusāsanakaro ovādapatikaro, amoghaṁ raṭṭhapiṇḍaṁ bhuñjati’. Ko pana vādo ye naṁ bahulīkarontī"ti.
 

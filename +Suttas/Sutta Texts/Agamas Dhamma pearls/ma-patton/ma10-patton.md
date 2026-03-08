@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma10note01) One time, the Buddha traveled to Kuru and was staying at the Kuru town of Kalmāṣadamya.[2](#^ma10note02) ^ma10note01-ref ^ma10note02-ref
 
-2. It was then that the Bhagavān addressed the monks, “It’s because of knowing and seeing that the contaminants can be ended, not by not knowing and not seeing. How can the contaminants be ended because of knowing and seeing?
+2. It was then that the Bhagavān addressed the bhikkhus, “It’s because of knowing and seeing that the contaminants can be ended, not by not knowing and not seeing. How can the contaminants be ended because of knowing and seeing?
 
 #### Correct Contemplation
 
@@ -65,17 +65,17 @@ language: "English"
 
 ##### 2. Guarding
 
-21. “How are the contaminants stopped by guarding? Monks, someone who guards the eye faculty when they see things will observe what’s impure with correct contemplation. Someone who doesn’t guard the eye faculty will observe what’s pure with incorrect contemplation. If someone doesn’t guard their faculties, then affliction and grief will arise. When they guard their faculties, affliction and grief won’t arise.
+21. “How are the contaminants stopped by guarding? bhikkhus, someone who guards the eye faculty when they see things will observe what’s impure with correct contemplation. Someone who doesn’t guard the eye faculty will observe what’s pure with incorrect contemplation. If someone doesn’t guard their faculties, then affliction and grief will arise. When they guard their faculties, affliction and grief won’t arise.
 
 22. “So it is when someone’s ear … nose … tongue … body … mind faculty perceives things. Someone who guards their mind faculty will observe what’s impure with correct contemplation. Someone who doesn’t guard the mind faculty will observe what’s pure with incorrect contemplation. If someone doesn’t guard their faculties, then affliction and grief will arise. When they guard them, affliction and grief won’t arise. This is called stopping the contaminants by guarding.
 
 ##### 3. Avoiding
 
-23. “How are the contaminants stopped by avoiding? Monks, someone who sees a dangerous elephant will avoid it. Dangerous horses, cattle, dogs, vipers, paths, ditches, pits, hedges, rivers, deep springs, mountains, cliffs and bad associates, friends, heretics, villages, and homes should all be avoided by a monk. If other religious practitioners sharing the same dwelling would cause people without doubts to become doubtful [of him, a monk avoids them, too].[4](#^ma10note04) If someone doesn’t avoid these things, then affliction and grief will arise. When they avoid them, affliction and grief won’t arise. This is called stopping the contaminants by avoiding. ^ma10note04-ref
+23. “How are the contaminants stopped by avoiding? bhikkhus, someone who sees a dangerous elephant will avoid it. Dangerous horses, cattle, dogs, vipers, paths, ditches, pits, hedges, rivers, deep springs, mountains, cliffs and bad associates, friends, heretics, villages, and homes should all be avoided by a monk. If other religious practitioners sharing the same dwelling would cause people without doubts to become doubtful [of him, a monk avoids them, too].[4](#^ma10note04) If someone doesn’t avoid these things, then affliction and grief will arise. When they avoid them, affliction and grief won’t arise. This is called stopping the contaminants by avoiding. ^ma10note04-ref
 
 ##### 4. Using
 
-24. “How are the contaminants stopped by using? Monks, suppose someone uses robes not for profit, not because of pride, and not for ornamentation but only because of insects, wind, rain, cold, heat, and modesty.
+24. “How are the contaminants stopped by using? bhikkhus, suppose someone uses robes not for profit, not because of pride, and not for ornamentation but only because of insects, wind, rain, cold, heat, and modesty.
 
 25. “Suppose someone uses food not for profit, not because of pride, and not for the rich pleasure of it but only to make his body long-lasting, to remove affliction and grief, to practice the religious life, to end an illness and prevent new illnesses, and to abide in comfort and without illness for a long time.
 
@@ -85,21 +85,21 @@ language: "English"
 
 ##### 5. Tolerating
 
-28. “How are the contaminants stopped by tolerating? Monks, someone makes effort to end what’s bad and unskillful and cultivate good qualities, so he always has the idea of rising [early]. They concentrate their mind and endeavor. Their skin, muscles, sinews, bones, blood, and marrow may wither, but they don’t abandon their effort. Only when they obtain what they seek will they abandon their effort.
+28. “How are the contaminants stopped by tolerating? bhikkhus, someone makes effort to end what’s bad and unskillful and cultivate good qualities, so he always has the idea of rising [early]. They concentrate their mind and endeavor. Their skin, muscles, sinews, bones, blood, and marrow may wither, but they don’t abandon their effort. Only when they obtain what they seek will they abandon their effort.
 
-29. “Again, monks, they can tolerate hunger, thirst, cold, heat, biting and stinging insects, the oppression of wind and sun, and harsh sounds. They can even tolerate being caned. When they encounter illness, extreme pain, or their life is about to end, they’re capable of tolerating such unpleasantness. If someone doesn’t tolerate these things, affliction and grief will arise. When they tolerate them, affliction and grief won’t arise. This is called stopping the contaminants by tolerating.
+29. “Again, bhikkhus, they can tolerate hunger, thirst, cold, heat, biting and stinging insects, the oppression of wind and sun, and harsh sounds. They can even tolerate being caned. When they encounter illness, extreme pain, or their life is about to end, they’re capable of tolerating such unpleasantness. If someone doesn’t tolerate these things, affliction and grief will arise. When they tolerate them, affliction and grief won’t arise. This is called stopping the contaminants by tolerating.
 
 ##### 6. Removing
 
-30. “How are the contaminants stopped by removing? Monks, suppose someone gives rise to thoughts of desire that haven’t been removed and abandoned. They give rise to thoughts of anger and harmfulness that haven’t been removed and abandoned. If someone doesn’t remove these things, affliction and grief will arise. When they remove them, affliction and grief won’t arise. This is called stopping the contaminants by removing.
+30. “How are the contaminants stopped by removing? bhikkhus, suppose someone gives rise to thoughts of desire that haven’t been removed and abandoned. They give rise to thoughts of anger and harmfulness that haven’t been removed and abandoned. If someone doesn’t remove these things, affliction and grief will arise. When they remove them, affliction and grief won’t arise. This is called stopping the contaminants by removing.
 
 ##### 7. Contemplating
 
-31. “How are the contaminants stopped by contemplating? Monks, suppose someone contemplates the first awakening factor of mindfulness with the support of seclusion, lack of desire, and cessation which lead to escape. He contemplates teachings … effort … joy … calm … samādhi … the seventh awakening factor of equanimity with the support of seclusion, lack of desire, and cessation which lead to escape. If someone doesn’t contemplate these things, affliction and grief will arise. When they contemplate them, affliction and grief won’t arise. This is called stopping the contaminants by contemplating.
+31. “How are the contaminants stopped by contemplating? bhikkhus, suppose someone contemplates the first awakening factor of mindfulness with the support of seclusion, lack of desire, and cessation which lead to escape. He contemplates teachings … effort … joy … calm … samādhi … the seventh awakening factor of equanimity with the support of seclusion, lack of desire, and cessation which lead to escape. If someone doesn’t contemplate these things, affliction and grief will arise. When they contemplate them, affliction and grief won’t arise. This is called stopping the contaminants by contemplating.
 
-32. “Monks, suppose someone sets out to stop the contaminants by seeing, and they are stopped because of seeing … to stop the contaminants by guarding, and they are stopped because of guarding … to stop the contaminants by avoiding, and they are stopped because of avoiding … to stop the contaminants by using, and they are stopped because of using … to stop the contaminants by tolerating, and they are stopped because of tolerating … to stop the contaminants by removing, and they are stopped because of removing … to stop the contaminants by contemplating, and they are stopped because of contemplating. This is called a monk who was once bound by all the contaminants and who’s now free. He can reach the end of suffering with right knowledge.”
+32. “bhikkhus, suppose someone sets out to stop the contaminants by seeing, and they are stopped because of seeing … to stop the contaminants by guarding, and they are stopped because of guarding … to stop the contaminants by avoiding, and they are stopped because of avoiding … to stop the contaminants by using, and they are stopped because of using … to stop the contaminants by tolerating, and they are stopped because of tolerating … to stop the contaminants by removing, and they are stopped because of removing … to stop the contaminants by contemplating, and they are stopped because of contemplating. This is called a monk who was once bound by all the contaminants and who’s now free. He can reach the end of suffering with right knowledge.”
 
-33. This is what the Buddha said. The monks who heard what the Buddha taught rejoiced and approved.
+33. This is what the Buddha said. The bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

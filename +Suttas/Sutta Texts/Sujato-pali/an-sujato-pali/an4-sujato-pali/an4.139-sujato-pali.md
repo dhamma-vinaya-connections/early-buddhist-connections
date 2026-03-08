@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four Dhamma speakers. What four?
+1“bhikkhus, there are these four Dhamma speakers. What four?
 
 
 One Dhamma speaker speaks little and off topic. And their assembly can’t tell what’s on topic and what’s off topic. Such an assembly regards such a Dhamma speaker simply as a Dhamma speaker.

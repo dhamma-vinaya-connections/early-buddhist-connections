@@ -44,7 +44,7 @@ parallels_partilal: "[[SA-2.251]], [[SA1216]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> As a renowned poet, vaṅgīsa looked down on less skilled mendicants. Ashamed of his conceit, he exhorted himself in verse to be humble and at peace.
+> As a renowned poet, vaṅgīsa looked down on less skilled bhikkhus. Ashamed of his conceit, he exhorted himself in verse to be humble and at peace.
 
 > [!info] Key Excerpts 
 > Completely abandon the different kinds of conceit!

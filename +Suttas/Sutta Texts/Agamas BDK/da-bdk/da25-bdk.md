@@ -272,7 +272,7 @@ O Kāśyapa, do you say that when the Tathāgata valiantly and fearlessly
 expresses the lion’s roar and so forth, [those who have come to the assem-
 bly] and faithfully received the teaching and established an occasion to
 make offerings do not then shave their hair and beards, or don the three
-robes of a mendicant, or renounce domestic life for the path of religion?
+robes of a bhikkhu, or renounce domestic life for the path of religion?
 Do not dare to think so. Why? Because when the Tathāgata valiantly and
 fearlessly expresses the lion’s roar and so forth, [those who have come
 to the assembly] shave their hair and beards, don the three robes of a men-

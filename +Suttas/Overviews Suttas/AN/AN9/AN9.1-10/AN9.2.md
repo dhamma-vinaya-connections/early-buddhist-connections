@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> The things that a mendicant relies on as supports in spiritual practice
+> The things that a bhikkhu relies on as supports in spiritual practice
 
 > [!info] Key Excerpts 
 > Faith, conscience, prudence, energy, and wisdom, after reflection, use, endures, avoids, and gets rid of some things

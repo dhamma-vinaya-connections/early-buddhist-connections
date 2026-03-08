@@ -21,10 +21,10 @@ contribution:
 >  
 
 > [!example]- 🌐[[EA9.5]] - 📜[Available texts](obsidian://search?query=file:ea9.5-) - EA 9.5 – Downfall 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[EA9.6]] - 📜[Available texts](obsidian://search?query=file:ea9.6-) - EA 9.6 – Birth in Heaven 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[EA9.7]] - 📜[Available texts](obsidian://search?query=file:ea9.7-) - EA 9.7 – A Man’s Perception 
 >  Most attractive things

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, without giving up six things you can’t realize perfection. What six? Dullness, drowsiness, restlessness, remorse, lack of faith, and negligence. Without giving up these six things you can’t realize perfection.
+1“bhikkhus, without giving up six things you can’t realize perfection. What six? Dullness, drowsiness, restlessness, remorse, lack of faith, and negligence. Without giving up these six things you can’t realize perfection.
 
 2After giving up six things you can realize perfection. What six? Dullness, drowsiness, restlessness, remorse, lack of faith, and negligence. After giving up these six things you can realize perfection.”
 

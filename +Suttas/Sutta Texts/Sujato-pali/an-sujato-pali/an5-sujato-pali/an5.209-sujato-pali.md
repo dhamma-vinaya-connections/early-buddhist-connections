@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks in reciting with a drawn-out singing sound. What five? You relish the sound of your own voice. Others relish the sound of your voice. Householders complain: ‘These ascetics, followers of the Sakyan, sing just like us!’ When you’re enjoying the melody, your immersion breaks up. Those who come after follow your example. These are the five drawbacks in reciting with a drawn-out singing sound.”
+1“bhikkhus, there are these five drawbacks in reciting with a drawn-out singing sound. What five? You relish the sound of your own voice. Others relish the sound of your voice. Householders complain: ‘These ascetics, followers of the Sakyan, sing just like us!’ When you’re enjoying the melody, your immersion breaks up. Those who come after follow your example. These are the five drawbacks in reciting with a drawn-out singing sound.”
 
 1"Pañcime, bhikkhave, ādīnavā āyatakena gītassarena dhammaṁ bhaṇantassa. Katame pañca? Attanāpi tasmiṁ sare sārajjati, parepi tasmiṁ sare sārajjanti, gahapatikāpi ujjhāyanti:  ‘yatheva mayaṁ gāyāma, evamevaṁ kho samaṇā sakyaputtiyā gāyantī’ti, sarakuttimpi nikāmayamānassa samādhissa bhaṅgo hoti, pacchimā janatā diṭṭhānugatiṁ āpajjati. Ime kho, bhikkhave, pañca ādīnavā āyatakena gītassarena dhammaṁ bhaṇantassā"ti.
 

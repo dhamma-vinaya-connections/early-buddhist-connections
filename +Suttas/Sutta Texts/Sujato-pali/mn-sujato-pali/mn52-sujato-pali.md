@@ -20,7 +20,7 @@ language: "English - Pali"
 
 1So I have heard. At one time Venerable Ānanda was staying near Vesālī in the little village of Beluva.
 
-2Now at that time the householder Dasama from the city of Aṭṭhaka had arrived at Pāṭaliputta on some business. He went to the Chicken Monastery, approached a certain mendicant, bowed, sat down to one side, and said to him: “Sir, where is Venerable Ānanda now staying? For I want to see him.”
+2Now at that time the householder Dasama from the city of Aṭṭhaka had arrived at Pāṭaliputta on some business. He went to the Chicken Monastery, approached a certain bhikkhu, bowed, sat down to one side, and said to him: “Sir, where is Venerable Ānanda now staying? For I want to see him.”
 
 “Householder, Venerable Ānanda is staying near Vesālī in the little village of Beluva.”
 
@@ -30,7 +30,7 @@ language: "English - Pali"
 
 4He bowed, sat down to one side, and said to Ānanda:
 
-“Sir, Ānanda, is there one thing that has been rightly explained by the Blessed One — who knows and sees, the perfected one, the fully awakened Buddha — practicing which a diligent, keen, and resolute mendicant’s mind is freed, their defilements are ended, and they arrive at the supreme sanctuary?”
+“Sir, Ānanda, is there one thing that has been rightly explained by the Blessed One — who knows and sees, the perfected one, the fully awakened Buddha — practicing which a diligent, keen, and resolute bhikkhu’s mind is freed, their defilements are ended, and they arrive at the supreme sanctuary?”
 
 
 5“There is, householder.”
@@ -39,32 +39,32 @@ language: "English - Pali"
 6“And what is that one thing?”
 
 
-7“Householder, it’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. Then they reflect: ‘Even this first jhāna is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ Abiding in that they attain the ending of defilements. If they don’t attain the ending of defilements, with the ending of the five lower fetters they’re reborn spontaneously, because of their passion and love for that meditation. They are extinguished there, and are not liable to return from that world.
+7“Householder, it’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. Then they reflect: ‘Even this first jhāna is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ Abiding in that they attain the ending of defilements. If they don’t attain the ending of defilements, with the ending of the five lower fetters they’re reborn spontaneously, because of their passion and love for that meditation. They are extinguished there, and are not liable to return from that world.
 
-This is one thing that has been rightly explained by the Blessed One — who knows and sees, the perfected one, the fully awakened Buddha — practicing which a diligent, keen, and resolute mendicant’s mind is freed, their defilements are ended, and they arrive at the supreme sanctuary.
+This is one thing that has been rightly explained by the Blessed One — who knows and sees, the perfected one, the fully awakened Buddha — practicing which a diligent, keen, and resolute bhikkhu’s mind is freed, their defilements are ended, and they arrive at the supreme sanctuary.
 
 
 8-10Furthermore, as the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna … third jhāna … fourth jhāna …
 
 
-11Furthermore, a mendicant meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. Then they reflect: ‘Even this heart’s release by love is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ …
+11Furthermore, a bhikkhu meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. Then they reflect: ‘Even this heart’s release by love is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ …
 
 
-12Furthermore, a mendicant meditates spreading a heart full of compassion … rejoicing … equanimity …
+12Furthermore, a bhikkhu meditates spreading a heart full of compassion … rejoicing … equanimity …
 
 
-13Furthermore, householder, a mendicant, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. Then they reflect: ‘Even this attainment of the dimension of infinite space is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ …
+13Furthermore, householder, a bhikkhu, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. Then they reflect: ‘Even this attainment of the dimension of infinite space is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ …
 
 
-14Furthermore, a mendicant, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness. …
+14Furthermore, a bhikkhu, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness. …
 
 
-15Furthermore, a mendicant, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. Then they reflect: ‘Even this attainment of the dimension of nothingness is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ Abiding in that they attain the ending of defilements. If they don’t attain the ending of defilements, with the ending of the five lower fetters they’re reborn spontaneously because of their passion and love for that meditation. They are extinguished there, and are not liable to return from that world. This too is one thing that has been rightly explained by the Blessed One — who knows and sees, the perfected one, the fully awakened Buddha — practicing which a diligent, keen, and resolute mendicant’s mind is freed, their defilements are ended, and they arrive at the supreme sanctuary.”
+15Furthermore, a bhikkhu, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. Then they reflect: ‘Even this attainment of the dimension of nothingness is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ Abiding in that they attain the ending of defilements. If they don’t attain the ending of defilements, with the ending of the five lower fetters they’re reborn spontaneously because of their passion and love for that meditation. They are extinguished there, and are not liable to return from that world. This too is one thing that has been rightly explained by the Blessed One — who knows and sees, the perfected one, the fully awakened Buddha — practicing which a diligent, keen, and resolute bhikkhu’s mind is freed, their defilements are ended, and they arrive at the supreme sanctuary.”
 
 16When he said this, the householder Dasama said to Venerable Ānanda: “Sir, suppose a person was looking for an entrance to a hidden treasure. And all at once they’d come across eleven entrances! In the same way, I was searching for the door to the deathless. And all at once I got to hear of eleven doors to the deathless. Suppose a person had a house with eleven doors. If the house caught fire they’d be able to flee to safety through any one of those doors. In the same way, I’m able to flee to safety through any one of these eleven doors to the deathless. Sir, those who follow other paths seek a fee for the teacher. Why shouldn’t I make an offering to Venerable Ānanda?”
 
 
-17Then the householder Dasama, having assembled the Saṅgha from Vesālī and Pāṭaliputta, served and satisfied them with his own hands with a variety of delicious foods. He clothed each and every mendicant in a pair of garments, with a set of three robes for Ānanda. And he had a dwelling worth five hundred built for Ānanda.
+17Then the householder Dasama, having assembled the Saṅgha from Vesālī and Pāṭaliputta, served and satisfied them with his own hands with a variety of delicious foods. He clothed each and every bhikkhu in a pair of garments, with a set of three robes for Ānanda. And he had a dwelling worth five hundred built for Ānanda.
 
 #### Pali
 

@@ -20,25 +20,25 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“A mendicant with seven qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What seven? It’s when a mendicant knows the teachings, knows the meaning, has self-knowledge, knows moderation, knows the right time, knows assemblies, and knows people high and low.
+1“A bhikkhu with seven qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What seven? It’s when a bhikkhu knows the teachings, knows the meaning, has self-knowledge, knows moderation, knows the right time, knows assemblies, and knows people high and low.
 
-2And how is a mendicant one who knows the teachings? It’s when a mendicant knows the teachings: statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. If a mendicant did not know these teachings, they would not be called ‘one who knows the teachings’. But because they do know these teachings, they are called ‘one who knows the teachings’. Such is the one who knows the teachings.
+2And how is a bhikkhu one who knows the teachings? It’s when a bhikkhu knows the teachings: statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. If a bhikkhu did not know these teachings, they would not be called ‘one who knows the teachings’. But because they do know these teachings, they are called ‘one who knows the teachings’. Such is the one who knows the teachings.
 
-3And how are they one who knows the meaning? It’s when a mendicant knows the meaning of this or that statement: ‘This is what that statement means; that is what this statement means.’ If a mendicant did not know the meaning of this or that statement, they would not be called ‘one who knows the meaning’. But because they do know the meaning of this or that statement, they are called ‘one who knows the meaning’. Such is the one who knows the teachings and the one who knows the meaning.
+3And how are they one who knows the meaning? It’s when a bhikkhu knows the meaning of this or that statement: ‘This is what that statement means; that is what this statement means.’ If a bhikkhu did not know the meaning of this or that statement, they would not be called ‘one who knows the meaning’. But because they do know the meaning of this or that statement, they are called ‘one who knows the meaning’. Such is the one who knows the teachings and the one who knows the meaning.
 
-4And how are they one who has self-knowledge? It’s when a mendicant has self-knowledge: ‘This is the extent of my faith, ethics, learning, generosity, wisdom, and eloquence.’ If a mendicant did not have self-knowledge, they would not be called ‘one who has self-knowledge’. But because they do have self-knowledge, they are called ‘one who has self-knowledge’. Such is the one who knows the teachings, the one who knows the meaning, and the one who has self-knowledge.
+4And how are they one who has self-knowledge? It’s when a bhikkhu has self-knowledge: ‘This is the extent of my faith, ethics, learning, generosity, wisdom, and eloquence.’ If a bhikkhu did not have self-knowledge, they would not be called ‘one who has self-knowledge’. But because they do have self-knowledge, they are called ‘one who has self-knowledge’. Such is the one who knows the teachings, the one who knows the meaning, and the one who has self-knowledge.
 
-5And how are they one who knows moderation? It’s when a mendicant knows moderation when receiving robes, alms-food, lodgings, and medicines and supplies for the sick. If a mendicant did not know moderation, they would not be called ‘one who knows moderation’. But because they do know moderation, they are called ‘one who knows moderation’. Such is the one who knows the teachings, the one who knows the meaning, the one who has self-knowledge, and the one who knows moderation.
+5And how are they one who knows moderation? It’s when a bhikkhu knows moderation when receiving robes, alms-food, lodgings, and medicines and supplies for the sick. If a bhikkhu did not know moderation, they would not be called ‘one who knows moderation’. But because they do know moderation, they are called ‘one who knows moderation’. Such is the one who knows the teachings, the one who knows the meaning, the one who has self-knowledge, and the one who knows moderation.
 
-6And how are they one who knows the right time? It’s when a mendicant knows the right time: ‘This is the time for recitation; this is the time for questioning; this is the time for meditation; this is the time for retreat.’ If a mendicant did not know the right time, they would not be called ‘one who knows the right time’. But because they do know the right time, they are called ‘one who knows the right time’. Such is the one who knows the teachings, the one who knows the meaning, the one who has self-knowledge, the one who knows moderation, and the one who knows the right time.
+6And how are they one who knows the right time? It’s when a bhikkhu knows the right time: ‘This is the time for recitation; this is the time for questioning; this is the time for meditation; this is the time for retreat.’ If a bhikkhu did not know the right time, they would not be called ‘one who knows the right time’. But because they do know the right time, they are called ‘one who knows the right time’. Such is the one who knows the teachings, the one who knows the meaning, the one who has self-knowledge, the one who knows moderation, and the one who knows the right time.
 
 
-7And how are they one who knows assemblies? It’s when a mendicant knows assemblies: ‘This is an assembly of aristocrats, of brahmins, of householders, or of ascetics. This one should be approached in this way. This is how to stand, to act, to sit, to speak, or to stay silent when there.’ If a mendicant did not know assemblies, they would not be called ‘one who knows assemblies’. But because they do know assemblies, they are called ‘one who knows assemblies’. Such is the one who knows the teachings, the one who knows the meaning, the one who has self-knowledge, the one who knows moderation, the one who knows the right time, and the one who knows assemblies.
+7And how are they one who knows assemblies? It’s when a bhikkhu knows assemblies: ‘This is an assembly of aristocrats, of brahmins, of householders, or of ascetics. This one should be approached in this way. This is how to stand, to act, to sit, to speak, or to stay silent when there.’ If a bhikkhu did not know assemblies, they would not be called ‘one who knows assemblies’. But because they do know assemblies, they are called ‘one who knows assemblies’. Such is the one who knows the teachings, the one who knows the meaning, the one who has self-knowledge, the one who knows moderation, the one who knows the right time, and the one who knows assemblies.
 
 
 8And how are they one who knows people high and low?
 
-It’s when a mendicant understands people in terms of pairs. Two people: one likes to see the noble ones, one does not. The person who doesn’t like to see the noble ones is reprehensible in that respect. The person who does like to see the noble ones is praiseworthy in that respect.
+It’s when a bhikkhu understands people in terms of pairs. Two people: one likes to see the noble ones, one does not. The person who doesn’t like to see the noble ones is reprehensible in that respect. The person who does like to see the noble ones is praiseworthy in that respect.
 
 9Two people like to see the noble ones: one likes to hear the true teaching, one does not. The person who doesn’t like to hear the true teaching is reprehensible in that respect. The person who does like to hear the true teaching is praiseworthy in that respect.
 
@@ -52,12 +52,12 @@ It’s when a mendicant understands people in terms of pairs. Two people: one li
 
 14Two people understand the meaning and the teaching and practice accordingly: one practices to benefit themselves but not others, and one practices to benefit both themselves and others. The person who practices to benefit themselves but not others is reprehensible in that respect. The person who practices to benefit both themselves and others is praiseworthy in that respect.
 
-15That’s how a mendicant understands people in terms of pairs.
+15That’s how a bhikkhu understands people in terms of pairs.
 
 
-16That’s how a mendicant is one who knows people high and low.
+16That’s how a bhikkhu is one who knows people high and low.
 
-A mendicant with these seven factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
+A bhikkhu with these seven factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
 
 1"Sattahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti … pe … anuttaraṁ puññakkhettaṁ lokassa. Katamehi sattahi? Idha, bhikkhave, bhikkhu dhammaññū ca hoti atthaññū ca attaññū ca mattaññū ca kālaññū ca parisaññū ca puggalaparoparaññū ca.
 

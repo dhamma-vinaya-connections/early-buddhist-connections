@@ -13,13 +13,13 @@ language: "English"
 
 “How can the lady Thullanandā, being quick tempered, abuse a group?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā, being quick tempered, abused a group?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā, being quick tempered, abused a group?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā … abuse a group? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā … abuse a group? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, being quick tempered, should abuse a group, there is an offence of expiation.”
 

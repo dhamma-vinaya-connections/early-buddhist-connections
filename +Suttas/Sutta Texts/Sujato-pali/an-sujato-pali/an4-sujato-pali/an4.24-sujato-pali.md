@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Sāketa, in Kāḷaka’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1At one time the Buddha was staying near Sāketa, in Kāḷaka’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 
 “Venerable sir,” they replied. The Buddha said this:

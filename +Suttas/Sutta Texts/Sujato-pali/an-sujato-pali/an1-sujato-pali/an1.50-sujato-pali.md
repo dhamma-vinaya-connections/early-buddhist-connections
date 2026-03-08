@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“This mind, mendicants, is radiant. And it is freed from passing corruptions.”
+1“This mind, bhikkhus, is radiant. And it is freed from passing corruptions.”
 
 1"Pabhassaramidaṁ, bhikkhave, cittaṁ. Tañca kho āgantukehi upakkilesehi vippamuttan"ti.
 

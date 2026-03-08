@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are two kinds of Buddhas. What two? The Realized One, the perfected one, the fully awakened Buddha; and the Buddha awakened for themselves. These are the two kinds of Buddhas.”
+1“bhikkhus, there are two kinds of Buddhas. What two? The Realized One, the perfected one, the fully awakened Buddha; and the Buddha awakened for themselves. These are the two kinds of Buddhas.”
 
 1"Dveme, bhikkhave, buddhā. Katame dve? Tathāgato ca arahaṁ sammāsambuddho, paccekabuddho ca. Ime kho, bhikkhave, dve buddhā"ti.
 

@@ -24,24 +24,24 @@ language: "English - Pali"
 > "VIN-MV6.1" file:bmc2 -queryblock
 > ```
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks were afflicted with autumn illness, and they could not keep down either rice porridge or other food. As a result, they became thin, haggard, and pale, with veins protruding all over their body. The Buddha noticed this and asked Venerable Ānanda why they were looking so sickly.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus were afflicted with autumn illness, and they could not keep down either rice porridge or other food. As a result, they became thin, haggard, and pale, with veins protruding all over their body. The Buddha noticed this and asked Venerable Ānanda why they were looking so sickly.
 
 Ānanda told him.
 
-2Then, while reflecting in private, the Buddha thought: “What tonics might I allow the monks that are generally regarded as tonics, would serve as nourishment, but aren’t considered as substantial food?” It then occurred to him: “There are these five tonics ghee, butter, oil, honey, and syrup that are generally regarded as tonics, serve as nourishment, but are not considered as substantial food. Why don’t I allow them these five tonics, to be received and consumed before midday?”
+2Then, while reflecting in private, the Buddha thought: “What tonics might I allow the bhikkhus that are generally regarded as tonics, would serve as nourishment, but aren’t considered as substantial food?” It then occurred to him: “There are these five tonics ghee, butter, oil, honey, and syrup that are generally regarded as tonics, serve as nourishment, but are not considered as substantial food. Why don’t I allow them these five tonics, to be received and consumed before midday?”
 
 
-3In the evening, when the Buddha had come out from seclusion, he gave a teaching and then told the monks what he had thought, adding:
+3In the evening, when the Buddha had come out from seclusion, he gave a teaching and then told the bhikkhus what he had thought, adding:
 
 “I allow these five tonics, to be received and consumed before midday.”
 
 
-4The monks then received and consumed the five tonics before midday. But even ordinary food did not agree with them, let alone greasy food. As result of both the autumn illness and the food not agreeing with them, they became even more thin, haggard, and pale. Once again the Buddha noticed this and asked Venerable Ānanda why they were looking even worse. Ānanda told him. The Buddha then gave a teaching, and addressed the monks:
+4The bhikkhus then received and consumed the five tonics before midday. But even ordinary food did not agree with them, let alone greasy food. As result of both the autumn illness and the food not agreeing with them, they became even more thin, haggard, and pale. Once again the Buddha noticed this and asked Venerable Ānanda why they were looking even worse. Ānanda told him. The Buddha then gave a teaching, and addressed the bhikkhus:
 
 
 “I allow the five tonics to be received and consumed both before and after midday.”
 
-5At that time the sick monks needed fat as a tonic. They told the Buddha.
+5At that time the sick bhikkhus needed fat as a tonic. They told the Buddha.
 
 
 “I allow these fats as tonics: bear fat, fish fat, alligator fat, pig fat, and donkey fat. They should be received, melted, and mixed with oil before midday, and then used.
@@ -62,52 +62,52 @@ If you receive and melt them before midday, but mix them with oil after midday, 
 > ```
 
 
-6At that time the sick monks needed medicinal roots.
+6At that time the sick bhikkhus needed medicinal roots.
 
 “I allow these medicinal roots: turmeric, ginger, sweet flag, white sweet flag, atis root, black hellebore, Vetiver root, nut grass, and whatever other medicinal roots there are that don’t serve as fresh or cooked food. After receiving them, you may keep them for life and use them when there’s a reason. If you use them when there’s no reason, you commit an offense of wrong conduct.”
 
 
-7Soon afterwards the sick monks needed medicinal root flour.
+7Soon afterwards the sick bhikkhus needed medicinal root flour.
 
 “I allow a grinding stone.”
 
 
-8The sick monks needed bitter medicines.
+8The sick bhikkhus needed bitter medicines.
 
 “I allow bitter medicines from these plants: neem tree, arctic snow, pointed gourd, rumph’s fig, Indian beech, and whatever other bitter medicines there are that don’t serve as fresh or cooked food. After receiving them, you may keep them for life and use them when there’s a reason. If you use them when there’s no reason, you commit an offense of wrong conduct.”
 
 
-9The sick monks needed medicinal leaves.
+9The sick bhikkhus needed medicinal leaves.
 
 “I allow medicinal leaves from these plants: neem tree, arctic snow, golden rumph’s fig, holy basil, cotton-plant, and whatever other leaf medicines there are that don’t serve as fresh or cooked food. After receiving them, you may keep them for life and use them when there’s a reason. If you use them when there’s no reason, you commit an offense of wrong conduct.”
 
 
-10The sick monks needed medicinal fruits.
+10The sick bhikkhus needed medicinal fruits.
 
 “I allow medicinal fruits from these plants: false pepper, long pepper, black pepper, chebulic myrobalan, belleric myrobalan, emblic myrobalan, crepe ginger, and whatever other medicinal fruits there are that don’t serve as fresh or cooked food. After receiving them, you may keep them for life and use them when there’s a reason. If you use them when there’s no reason, you commit an offense of wrong conduct.”
 
 
-11The sick monks needed medicinal gum.
+11The sick bhikkhus needed medicinal gum.
 
 
 “I allow the following medicinal gums: gum exuded from the asafoetida shrub, gum from the twigs and leaves of the asafoetida shrub, gum from the leaves of the asafoetida shrub, _taka_ gum, _taka_-leaf gum, gum from heated _taka_ foliage, resin, and whatever other medicinal gums there are that don’t serve as fresh or cooked food. After receiving them, you may keep them for life and use them when there’s a reason. If you use them when there’s no reason, you commit an offense of wrong conduct.”
 
 
-12The sick monks needed medicinal salts.
+12The sick bhikkhus needed medicinal salts.
 
 “I allow the following medicinal salts: sea salt, black salt, hill salt, soil salt, red salt, and whatever other medicinal salts there are that don’t serve as fresh or cooked food. After receiving them, you may keep them for life and use them when there’s a reason. If you use them when there’s no reason, you commit an offense of wrong conduct.”
 
-13At this time Venerable Ānanda’s preceptor, Venerable Belaṭṭhasīsa, had carbuncles, the pus making his robes adhere to his body. The monks kept on wetting his robes to remove the pus. As the Buddha was walking about the dwellings, he noticed this. He went up to them and said: “What sickness does this monk have?”
+13At this time Venerable Ānanda’s preceptor, Venerable Belaṭṭhasīsa, had carbuncles, the pus making his robes adhere to his body. The bhikkhus kept on wetting his robes to remove the pus. As the Buddha was walking about the dwellings, he noticed this. He went up to them and said: “What sickness does this monk have?”
 
 “He has carbuncles, Sir. That’s why we’re doing this.”
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 
 “For anyone who has an itch, a boil, a running sore, a carbuncle, or whose body smells, I allow medicinal powders. If you’re not sick, I allow detergent, soap, and cleaning agents. And I allow a mortar and pestle.”
 
 
-14Soon afterwards the sick monks needed strained medicinal powders.
+14Soon afterwards the sick bhikkhus needed strained medicinal powders.
 
 “I allow a powder sieve.”
 
@@ -121,12 +121,12 @@ They needed finely sifted powder.
 “For one who is possessed, I allow raw meat and raw blood.”
 
 
-16At that time a monk was afflicted with an eye-disease. The monks had to hold him while he urinated and defecated. Just then, as the Buddha was walking about the dwellings, he noticed this. He then went up to them and said:
+16At that time a monk was afflicted with an eye-disease. The bhikkhus had to hold him while he urinated and defecated. Just then, as the Buddha was walking about the dwellings, he noticed this. He then went up to them and said:
 
 “What sickness does this monk have?”
 
 
-“He has an eye-disease, Sir. That’s why we do this for him.” Soon afterwards the Buddha gave a teaching and addressed the monks:
+“He has an eye-disease, Sir. That’s why we do this for him.” Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow these ointments: black ointment, mixed ointment, river ointment, red ocher, and soot.”
 
@@ -134,12 +134,12 @@ They needed scented ointments.
 
 “I allow sandal, crape jasmine, Indian valerian, coffee plum, and nut grass.”
 
-At that time the monks put their ointment in pots and scoops. The ointment was contaminated with grass, dust, and dirt.
+At that time the bhikkhus put their ointment in pots and scoops. The ointment was contaminated with grass, dust, and dirt.
 
 “I allow an ointment box.”
 
 
-17Soon afterwards the monks from the group of six used luxurious ointment boxes made with gold or silver. People complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
+17Soon afterwards the bhikkhus from the group of six used luxurious ointment boxes made with gold or silver. People complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
 
 “You should not use luxurious ointment boxes. If you do, you commit an offense of wrong conduct.
 
@@ -160,23 +160,23 @@ The ointment boxes split.
 
 “I allow you to sew it together with a thread.”
 
-19At that time the monks put the ointment on with their fingers. As a result their eyes hurt.
+19At that time the bhikkhus put the ointment on with their fingers. As a result their eyes hurt.
 
 “I allow an ointment stick.”
 
 
-20Soon afterwards the monks from the group of six used luxurious ointment sticks made with gold or silver. People complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
+20Soon afterwards the bhikkhus from the group of six used luxurious ointment sticks made with gold or silver. People complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
 
 “You should not use luxurious ointment sticks. If you do, you commit an offense of wrong conduct.
 
 I allow ointment sticks made of bone, ivory, horn, reed, bamboo, wood, resin, fruit, metal, and shell.”
 
 
-21The monks dropped the ointment sticks on the ground. The sticks became rough.
+21The bhikkhus dropped the ointment sticks on the ground. The sticks became rough.
 
 “I allow a case for the ointment stick.”
 
-22The monks carried the ointment boxes and sticks in their hands.
+22The bhikkhus carried the ointment boxes and sticks in their hands.
 
 “I allow a bag for the ointment box.”
 
@@ -198,7 +198,7 @@ The oil dripped from the nose.
 “I allow a nose dropper.”
 
 
-24Soon afterwards the monks from the group of six used luxurious nose droppers made with gold or silver. People complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
+24Soon afterwards the bhikkhus from the group of six used luxurious nose droppers made with gold or silver. People complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
 
 “You should not use luxurious nose droppers. If you do, you commit an offense of wrong conduct.
 
@@ -217,7 +217,7 @@ They just lit the wick and inhaled the smoke. They burned their throat.
 “I allow a tube.”
 
 
-25Soon the monks from the group of six used luxurious tubes made with gold or silver. People complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
+25Soon the bhikkhus from the group of six used luxurious tubes made with gold or silver. People complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
 
 “You should not use luxurious tubes. If you do, you commit an offense of wrong conduct.
 
@@ -229,7 +229,7 @@ I allow tubes made of bone, ivory, horn, reed, bamboo, wood, resin, fruit, metal
 “I allow a lid.”
 
 
-27At that time the monks carried the tubes in their hands.
+27At that time the bhikkhus carried the tubes in their hands.
 
 
 “I allow a bag for the tubes.”
@@ -251,13 +251,13 @@ They wanted to add alcohol to that concoction.
 
 “I allow alcohol in a heated concoction of oil.”
 
-29Soon afterwards the monks from the group of six heated oil with too much alcohol. They drank it and became drunk.
+29Soon afterwards the bhikkhus from the group of six heated oil with too much alcohol. They drank it and became drunk.
 
 “You should not drink heated oil with too much alcohol. If you do, you should be dealt with according to the rule.
 
 I allow you to drink heated oil if there is no discernible color, smell, or taste of alcohol.”
 
-30The monks had heated much oil with too much alcohol. They did not know what to do with it.
+30The bhikkhus had heated much oil with too much alcohol. They did not know what to do with it.
 
 “I allow you to determine it for external use.”
 
@@ -355,7 +355,7 @@ The oil dripped off.
 
 “I allow you to give him the four filthy edibles: feces, urine, ash, and clay.”
 
-The monks thought: “Do they need to be received or not?”
+The bhikkhus thought: “Do they need to be received or not?”
 
 “They should be received if there is an attendant. If there isn’t, I allow you to take them yourself and then eat them.”
 
@@ -365,7 +365,7 @@ The monks thought: “Do they need to be received or not?”
 “I allow you to give him feces to drink.”
 
 
-The monks thought: “Does it need to be received or not?”
+The bhikkhus thought: “Does it need to be received or not?”
 
 “I allow the one who is excreting it to receive it. When he’s received it, it doesn’t need to be received again.”
 
@@ -436,9 +436,9 @@ He needed meat broth.
 Pilindavaccha instructed, inspired, and gladdened King Bimbisāra with a teaching, after which the King got up from his seat, bowed down, circumambulated Pilindavaccha with his right side toward him, and left.
 
 
-44Soon afterwards Pilindavaccha sent a message to the Buddha: “Venerable Sir, King Seniya Bimbisāra of Magadha wishes to provide a monastery worker. What should I tell him?” The Buddha then gave a teaching and addressed the monks:
+44Soon afterwards Pilindavaccha sent a message to the Buddha: “Venerable Sir, King Seniya Bimbisāra of Magadha wishes to provide a monastery worker. What should I tell him?” The Buddha then gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow monastery workers.”
+“bhikkhus, I allow monastery workers.”
 
 
 Once again King Bimbisāra went to Pilindavaccha, bowed, sat down, and said:
@@ -504,16 +504,16 @@ Pilindavaccha then focused his mind on turning King Bimbisāra’s stilt house i
 
 48People said: “They say Venerable Pilindavaccha has performed a superhuman feat, a wonder of supernormal power, for the king and his court!” Delighted, and gaining confidence in Pilindavaccha, they brought him the five tonics: ghee, butter, oil, honey, and syrup. Ordinarily, too, Pilindavaccha was getting the five tonics. Since he was getting so much, he gave it away to his followers, who ended up with an abundance of tonics. After filling up basins and water pots and setting these aside, they filled their water filters and bags and hung these in the windows. But as the tonics dripped, the dwellings became infested with rats. When people walking about the dwellings noticed this, they complained and criticized them: “These Sakyan monastics are hoarding goods indoors, just like King Seniya Bimbisāra of Magadha!”
 
-49The monks heard the complaints of those people and the monks of few desires complained and criticized those monks: “How can these monks choose to live with such abundance?”
+49The bhikkhus heard the complaints of those people and the bhikkhus of few desires complained and criticized those bhikkhus: “How can these bhikkhus choose to live with such abundance?”
 
-After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks:
+After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that there are monks who live like this?”
+“Is it true, bhikkhus, that there are bhikkhus who live like this?”
 
-“It’s true, Sir.” … After rebuking them, the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking them, the Buddha gave a teaching and addressed the bhikkhus:
 
 
-“After being received, the tonics allowable for sick monks—that is, ghee, butter, oil, honey, and syrup—should be used from storage for at most seven days. If you use them longer than that, you should be dealt with according to the rule.”
+“After being received, the tonics allowable for sick bhikkhus—that is, ghee, butter, oil, honey, and syrup—should be used from storage for at most seven days. If you use them longer than that, you should be dealt with according to the rule.”
 
 50The first section for recitation on allowable medicines is finished.
 
@@ -557,12 +557,12 @@ After rebuking those monks in many ways, they told the Buddha. Soon afterwards h
 
 Soon afterwards the Buddha had a stomach ache. Venerable Ānanda thought: “Previously, when the Buddha had a stomach ache, he was comfortable after drinking the threefold pungent rice porridge.” He then asked for sesame seeds, rice, and mung beans, stored them indoors, cooked them himself indoors, and brought them to the Buddha, saying: “Sir, please drink the threefold pungent rice porridge.”
 
-When Buddhas know what is going on, sometimes they ask and sometimes not. They know the right time to ask and when not to ask. Buddhas ask when it is beneficial, otherwise not, for Buddhas are incapable of doing what is unbeneficial. Buddhas question the monks for two reasons: to give a teaching or to lay down a training rule.
+When Buddhas know what is going on, sometimes they ask and sometimes not. They know the right time to ask and when not to ask. Buddhas ask when it is beneficial, otherwise not, for Buddhas are incapable of doing what is unbeneficial. Buddhas question the bhikkhus for two reasons: to give a teaching or to lay down a training rule.
 
 
 55So he said to Ānanda: “Ānanda, where does this rice porridge come from?” Ānanda told him.
 
-The Buddha rebuked him: “It’s not suitable, Ānanda, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you be so indulgent? What’s been stored indoors in a monastery is unallowable; what’s been cooked indoors in a monastery is unallowable; what’s been cooked by oneself is unallowable. This will affect people’s confidence …” After rebuking him, he gave a teaching and addressed the monks:
+The Buddha rebuked him: “It’s not suitable, Ānanda, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you be so indulgent? What’s been stored indoors in a monastery is unallowable; what’s been cooked indoors in a monastery is unallowable; what’s been cooked by oneself is unallowable. This will affect people’s confidence …” After rebuking him, he gave a teaching and addressed the bhikkhus:
 
 
 “You should not eat what’s been stored indoors in a monastery, what’s been cooked indoors in a monastery, or what you have cooked yourself. If you do, you commit an offense of wrong conduct.
@@ -583,21 +583,21 @@ If you eat what’s been stored outside, and cooked outside, but cooked by yours
 
 If you eat what’s been stored outside, and cooked outside, and cooked by others, there is no offense.”
 
-56When the monks heard that the Buddha had prohibited cooking, being afraid of wrongdoing, they did not reheat.
+56When the bhikkhus heard that the Buddha had prohibited cooking, being afraid of wrongdoing, they did not reheat.
 
 “I allow you to reheat what’s already been cooked.”
 
 
-57At that time Rājagaha was short of food. People brought salt, oil, rice, and fresh food to the monastery. The monks stored it outdoors, but it was eaten by vermin and stolen by thieves.
+57At that time Rājagaha was short of food. People brought salt, oil, rice, and fresh food to the monastery. The bhikkhus stored it outdoors, but it was eaten by vermin and stolen by thieves.
 
 “I allow you to store food indoors.”
 
-The monks stored it indoors, but it was cooked outside. They were surrounded by scrap-eaters, and the monks ate in fear.
+The bhikkhus stored it indoors, but it was cooked outside. They were surrounded by scrap-eaters, and the bhikkhus ate in fear.
 
 “I allow cooking indoors.”
 
 
-Because of the famine, the attendants took more for themselves and gave less to the monks.
+Because of the famine, the attendants took more for themselves and gave less to the bhikkhus.
 
 “I allow you to cook. I allow you to store food indoors in a monastery, to cook indoors in a monastery, and to cook yourselves.”
 
@@ -611,38 +611,38 @@ Because of the famine, the attendants took more for themselves and gave less to 
 > ```
 
 
-58On one occasion a number of monks who had completed the rainy-season residence in Kāsī were traveling to Rājagaha to visit the Buddha. While on their way, they did not receive sufficient food, whether fine or coarse. Yet there was much fruit, but no attendant to offer it.
+58On one occasion a number of bhikkhus who had completed the rainy-season residence in Kāsī were traveling to Rājagaha to visit the Buddha. While on their way, they did not receive sufficient food, whether fine or coarse. Yet there was much fruit, but no attendant to offer it.
 
-When the monks arrived at Rājagaha, they were exhausted. They went to the Bamboo Grove, approached the Buddha, bowed, and sat down. Since it is the custom for Buddhas to greet newly arrived monks, he said to them: “I hope you’re keeping well, monks, I hope you’re getting by. I hope you’re not tired from traveling. And where have you come from?”
+When the bhikkhus arrived at Rājagaha, they were exhausted. They went to the Bamboo Grove, approached the Buddha, bowed, and sat down. Since it is the custom for Buddhas to greet newly arrived bhikkhus, he said to them: “I hope you’re keeping well, bhikkhus, I hope you’re getting by. I hope you’re not tired from traveling. And where have you come from?”
 
 “We’re keeping well, Venerable Sir, we’re getting by,” and they told him what had happened.
 
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “If there is no attendant, but you see fruit, I allow you to pick it up yourself. You should then carry it until you see an attendant, put it on the ground, and have it received. You may then eat it. I allow you to receive what you have picked up.”
 
-59On one occasion a certain brahmin had obtained fresh sesame seed and fresh honey. He thought: “Why don’t I give this to the Saṅgha of monks headed by the Buddha?”
+59On one occasion a certain brahmin had obtained fresh sesame seed and fresh honey. He thought: “Why don’t I give this to the Saṅgha of bhikkhus headed by the Buddha?”
 
-He then went to the Buddha, exchanged pleasantries with him, and said: “Please accept tomorrow’s meal from me together with the Saṅgha of monks.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, the brahmin left.
+He then went to the Buddha, exchanged pleasantries with him, and said: “Please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, the brahmin left.
 
 The following morning that brahmin had various kinds of fine food prepared. He then had the Buddha informed that the meal was ready.
 
 
-60The Buddha robed up, took his bowl and robe, and went to that brahmin’s house, where he sat down on the prepared seat. That brahmin personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal, the brahmin sat down to one side. The Buddha then instructed, inspired, and gladdened him with a teaching, after which he got up and left.
+60The Buddha robed up, took his bowl and robe, and went to that brahmin’s house, where he sat down on the prepared seat. That brahmin personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal, the brahmin sat down to one side. The Buddha then instructed, inspired, and gladdened him with a teaching, after which he got up and left.
 
-61Soon after the Buddha had left, that brahmin thought: “I invited the Saṅgha of monks headed by the Buddha to give them the fresh sesame seed and honey, but I forgot. Why don’t I take the sesame seed and honey to the monastery in basins and water pots?”
+61Soon after the Buddha had left, that brahmin thought: “I invited the Saṅgha of bhikkhus headed by the Buddha to give them the fresh sesame seed and honey, but I forgot. Why don’t I take the sesame seed and honey to the monastery in basins and water pots?”
 
 And he did just that. He then went up to the Buddha and said:
 
 “When I invited you for a meal, I forgot to give you these fresh sesame seeds and this honey. Please accept it.”
 
-“Well then, brahmin, give it to the monks.”
+“Well then, brahmin, give it to the bhikkhus.”
 
 
-62At this time, food was scarce, and the monks refused an invitation to eat more even after taking just a little. After reflection, they even declined altogether. Yet now the whole saṅgha was being invited. And so, being afraid of wrongdoing, they did not accept.
+62At this time, food was scarce, and the bhikkhus refused an invitation to eat more even after taking just a little. After reflection, they even declined altogether. Yet now the whole saṅgha was being invited. And so, being afraid of wrongdoing, they did not accept.
 
-“Accept, monks, and eat. I allow one who has finished his meal and refused an invitation to eat more to eat non-leftovers that have been brought out.”
+“Accept, bhikkhus, and eat. I allow one who has finished his meal and refused an invitation to eat more to eat non-leftovers that have been brought out.”
 
 #### 7. The allowance for what has been received, etc. ^7
 
@@ -661,14 +661,14 @@ And he did just that. He then went up to the Buddha and said:
 
 They said: “Venerables, after showing it to Venerable Upananda, this fresh food is to be given to the Saṅgha.”
 
-The monks told the Buddha. He said: “Well then, receive it and put it aside until Upananda returns.”
+The bhikkhus told the Buddha. He said: “Well then, receive it and put it aside until Upananda returns.”
 
 
 But because Upananda visited families before eating, he returned late to the monastery.
 
-At this time, food was scarce, and the monks refused an invitation to eat more even after taking just a little. After reflection, they even declined altogether. Yet now the whole saṅgha was being invited. And so, being afraid of wrongdoing, they did not accept.
+At this time, food was scarce, and the bhikkhus refused an invitation to eat more even after taking just a little. After reflection, they even declined altogether. Yet now the whole saṅgha was being invited. And so, being afraid of wrongdoing, they did not accept.
 
-“Accept, monks, and eat. I allow one who has finished his meal and refused an invitation to eat more to eat non-leftovers that were received before the meal.”
+“Accept, bhikkhus, and eat. I allow one who has finished his meal and refused an invitation to eat more to eat non-leftovers that were received before the meal.”
 
 
 64When the Buddha had stayed at Rājagaha for as long as he liked, he set out wandering toward Sāvatthī. When he eventually arrived, he stayed in the Jeta Grove, Anāthapiṇḍika’s Monastery.
@@ -697,11 +697,11 @@ An elephant saw Mahāmoggallāna coming and said to him:
 Then, just as a strong man might bend or stretch his arm, Mahāmoggallāna disappeared from the banks of the Mandākinī lotus pond and reappeared in the Jeta Grove. And that elephant did the same. It had the roots and tubers offered to Mahāmoggallāna, before returning to the Mandākinī lotus pond in the same manner. Mahāmoggallāna then brought those lotus roots and tubers to Sāriputta. When he had eaten them, his fever subsided. But there was much leftover.
 
 
-At this time, food was scarce, and the monks refused an invitation to eat more even after taking just a little. After reflection, they even declined altogether. Yet now the whole saṅgha was being invited. And so, being afraid of wrongdoing, they did not accept.
+At this time, food was scarce, and the bhikkhus refused an invitation to eat more even after taking just a little. After reflection, they even declined altogether. Yet now the whole saṅgha was being invited. And so, being afraid of wrongdoing, they did not accept.
 
-“Accept, monks, and eat. I allow one who has finished his meal and refused an invitation to eat more to eat non-leftovers coming from the forest or a lotus pond.”
+“Accept, bhikkhus, and eat. I allow one who has finished his meal and refused an invitation to eat more to eat non-leftovers coming from the forest or a lotus pond.”
 
-66On one occasion in Sāvatthī, much fruit had been given, but there was no attendant. Being afraid of wrongdoing, the monks did not eat it.
+66On one occasion in Sāvatthī, much fruit had been given, but there was no attendant. Being afraid of wrongdoing, the bhikkhus did not eat it.
 
 “I allow you to eat fruit that hasn’t been made allowable if it’s seedless or the seeds have been removed.”
 
@@ -721,7 +721,7 @@ At that time the doctor Ākāsagotta performed surgery on a certain monk who had
 
 Ākāsagotta saw the Buddha coming and said to him: “Good Gotama, please come and see this monk’s anus. It’s just like the mouth of a lizard.”
 
-The Buddha thought: “This foolish man is mocking me,” and he turned around right there. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is there a sick monk in such-and-such a dwelling?”
+The Buddha thought: “This foolish man is mocking me,” and he turned around right there. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is there a sick monk in such-and-such a dwelling?”
 
 
 “There is, Sir.”
@@ -731,15 +731,15 @@ The Buddha thought: “This foolish man is mocking me,” and he turned around r
 
 “He has hemorrhoids, and the doctor Ākāsagotta is performing surgery.”
 
-The Buddha rebuked him: “It’s not suitable, monks, for that foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can he have surgery on the private parts? The skin is delicate in that area, sores heel with difficulty, and a scalpel is hard to wield there. This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him: “It’s not suitable, bhikkhus, for that foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can he have surgery on the private parts? The skin is delicate in that area, sores heel with difficulty, and a scalpel is hard to wield there. This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 “You should not have surgery on the private parts. If you do, you commit a serious offense.”
 
-68When they heard that the Buddha had prohibited surgery, the monks from the group of six had enemas. The monks of few desires complained and criticized them: “How can the monks from the group of six have enemas?” They told the Buddha what had happened.
+68When they heard that the Buddha had prohibited surgery, the bhikkhus from the group of six had enemas. The bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six have enemas?” They told the Buddha what had happened.
 
-“Is it true, monks, that the monks from the group of six are having enemas?”
+“Is it true, bhikkhus, that the bhikkhus from the group of six are having enemas?”
 
-“It’s true, Sir.” … After rebuking them, the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking them, the Buddha gave a teaching and addressed the bhikkhus:
 
 “You should not get surgery within 3.5 centimeters of the private parts or have enemas. If you do, you commit a serious offense.”
 
@@ -757,7 +757,7 @@ The Buddha rebuked him: “It’s not suitable, monks, for that foolish man, it�
 
 At that time in Benares there were two lay-followers, Suppiya and Suppiyā, husband and wife, both with confidence in Buddhism. They were donors and benefactors, and they attended on the Saṅgha.
 
-On one occasion Suppiyā went to the monastery. She walked from dwelling to dwelling, from yard to yard, asking the monks:
+On one occasion Suppiyā went to the monastery. She walked from dwelling to dwelling, from yard to yard, asking the bhikkhus:
 
 “Is anyone sick? What may I bring?”
 
@@ -785,12 +785,12 @@ The slave told him.
 
 He then went to see her, and she told him what had happened. He thought: “It’s astonishing and amazing how much faith and confidence Suppiyā has, in that she gives up even her own flesh. Is there anything she would not give?”
 
-Delighted and joyful he went to the Buddha. He bowed, sat down, and said: “Venerable Sir, please accept tomorrow’s meal from me together with the Saṅgha of monks.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, Suppiya got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
+Delighted and joyful he went to the Buddha. He bowed, sat down, and said: “Venerable Sir, please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, Suppiya got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
 
 The following morning Suppiya had various kinds of fine food prepared. He then had the Buddha informed that the meal was ready.
 
 
-72The Buddha robed up, took his bowl and robe, and went to Suppiya’s house, where he sat down on the prepared seat together with the Saṅgha of monks.
+72The Buddha robed up, took his bowl and robe, and went to Suppiya’s house, where he sat down on the prepared seat together with the Saṅgha of bhikkhus.
 
 Suppiya approached the Buddha and bowed down to him.
 
@@ -802,10 +802,10 @@ When the Buddha asked him where Suppiyā was, he replied that she was sick.
 
 “Well then, carry her in here.” And they did. The moment Suppiyā saw the Buddha that great wound healed and was perfectly covered with skin and hairs.
 
-Suppiya and Suppiyā exclaimed: “The great power and might of the Buddha is truly astonishing and amazing!” Delighted and joyful, they personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal, they sat down to one side. The Buddha instructed, inspired, and gladdened them with a teaching, after which he got up from his seat and left.
+Suppiya and Suppiyā exclaimed: “The great power and might of the Buddha is truly astonishing and amazing!” Delighted and joyful, they personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal, they sat down to one side. The Buddha instructed, inspired, and gladdened them with a teaching, after which he got up from his seat and left.
 
 
-73Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks: “Who asked Suppiyā for meat?” The responsible monk told the Buddha.
+73Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus: “Who asked Suppiyā for meat?” The responsible monk told the Buddha.
 
 “Did you get the meat?”
 
@@ -820,7 +820,7 @@ Suppiya and Suppiyā exclaimed: “The great power and might of the Buddha is tr
 “No, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how can you eat meat without circumspection? You have eaten human flesh. This will affect people’s confidence …” After rebuking him, he gave a teaching and addressed the monks:
+The Buddha rebuked him … “Foolish man, how can you eat meat without circumspection? You have eaten human flesh. This will affect people’s confidence …” After rebuking him, he gave a teaching and addressed the bhikkhus:
 
 “There are people who have faith and confidence, even to the point of giving up their own flesh. You should not eat human flesh. If you do, you commit a serious offense.
 
@@ -836,41 +836,41 @@ You should not eat flesh without being circumspect. If you do, you commit an off
 > ```
 
 
-74At one time the King’s elephants had died. Because there was a shortage of food, people ate the elephant meat. They also gave elephant meat to monks who were walking for alms. When the monks ate it, people complained and criticized them:
+74At one time the King’s elephants had died. Because there was a shortage of food, people ate the elephant meat. They also gave elephant meat to bhikkhus who were walking for alms. When the bhikkhus ate it, people complained and criticized them:
 
-“How can the Sakyan monastics eat elephant meat? Elephants are an attribute of kingship. If the King knew, he would not be pleased with those monks.” They told the Buddha.
+“How can the Sakyan monastics eat elephant meat? Elephants are an attribute of kingship. If the King knew, he would not be pleased with those bhikkhus.” They told the Buddha.
 
 “You should not eat elephant meat. If you do, you commit an offense of wrong conduct.”
 
-75At one time the King’s horses had died. Because there was a shortage of food, people ate the horse meat. They also gave horse meat to monks who were walking for alms. When the monks ate it, people complained and criticized them:
+75At one time the King’s horses had died. Because there was a shortage of food, people ate the horse meat. They also gave horse meat to bhikkhus who were walking for alms. When the bhikkhus ate it, people complained and criticized them:
 
-“How can the Sakyan monastics eat horse meat? Horses are an attribute of kingship. If the King knew, he would not be pleased with those monks.” They told the Buddha.
+“How can the Sakyan monastics eat horse meat? Horses are an attribute of kingship. If the King knew, he would not be pleased with those bhikkhus.” They told the Buddha.
 
 “You should not eat horse meat. If you do, you commit an offense of wrong conduct.”
 
-76At one time when there was a shortage of food, people ate dog meat. They also gave dog meat to monks who were walking for alms. When the monks ate it, people complained and criticized them: “How can the Sakyan monastics eat dog meat? Dogs are disgusting and repulsive.” They told the Buddha.
+76At one time when there was a shortage of food, people ate dog meat. They also gave dog meat to bhikkhus who were walking for alms. When the bhikkhus ate it, people complained and criticized them: “How can the Sakyan monastics eat dog meat? Dogs are disgusting and repulsive.” They told the Buddha.
 
 “You should not eat dog meat. If you do, you commit an offense of wrong conduct.”
 
 
-77At one time when there was a shortage of food, people ate snake meat. They also gave snake meat to monks who were walking for alms. When the monks ate it, people complained and criticized them:
+77At one time when there was a shortage of food, people ate snake meat. They also gave snake meat to bhikkhus who were walking for alms. When the bhikkhus ate it, people complained and criticized them:
 
 “How can the Sakyan monastics eat snake meat? Snakes are disgusting and repulsive.”
 
 Even Supassa the king of dragons went to see the Buddha. He bowed down to the Buddha and said:
 
 
-“Sir, there are dragons without faith and confidence. They might harm the monks even over small matters. Please ask the venerables not to eat snake meat.”
+“Sir, there are dragons without faith and confidence. They might harm the bhikkhus even over small matters. Please ask the venerables not to eat snake meat.”
 
-The Buddha instructed, inspired, and gladdened him with a teaching, after which Supassa bowed down, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+The Buddha instructed, inspired, and gladdened him with a teaching, after which Supassa bowed down, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “You should not eat snake meat. If you do, you commit an offense of wrong conduct.”
 
-78On one occasion hunters killed a lion and ate the lion meat. They also gave lion meat to monks who were walking for alms. After eating it, those monks returned to the wilderness. And because of the smell of lion meat, lions attacked them.
+78On one occasion hunters killed a lion and ate the lion meat. They also gave lion meat to bhikkhus who were walking for alms. After eating it, those bhikkhus returned to the wilderness. And because of the smell of lion meat, lions attacked them.
 
 “You should not eat lion meat. If you do, you commit an offense of wrong conduct.”
 
-79On one occasion hunters killed a tiger … a leopard … a bear … a hyena and ate the hyena meat. They also gave hyena meat to monks who were walking for alms. After eating it, those monks returned to the wilderness. And because of the smell of hyena meat, hyenas attacked them.
+79On one occasion hunters killed a tiger … a leopard … a bear … a hyena and ate the hyena meat. They also gave hyena meat to bhikkhus who were walking for alms. After eating it, those bhikkhus returned to the wilderness. And because of the smell of hyena meat, hyenas attacked them.
 
 “You should not eat tiger meat, leopard meat, bear meat, or hyena meat. If you do, you commit an offense of wrong conduct.”
 
@@ -886,9 +886,9 @@ The Buddha instructed, inspired, and gladdened him with a teaching, after which 
 > ```
 
 
-81When the Buddha had stayed at Benares for as long as he liked, he set out wandering toward Andhakavinda together with a large saṅgha of twelve-hundred and fifty monks. On this occasion the country people had loaded large quantities of salt, oil, rice, and fresh food onto carts, and were following behind the Saṅgha of monks headed by the Buddha, thinking: “When our turn comes, we’ll prepare a meal.” Five hundred people living on leftovers were also following along.
+81When the Buddha had stayed at Benares for as long as he liked, he set out wandering toward Andhakavinda together with a large saṅgha of twelve-hundred and fifty bhikkhus. On this occasion the country people had loaded large quantities of salt, oil, rice, and fresh food onto carts, and were following behind the Saṅgha of bhikkhus headed by the Buddha, thinking: “When our turn comes, we’ll prepare a meal.” Five hundred people living on leftovers were also following along.
 
-Eventually the Buddha arrived at Andhakavinda and stayed there. Soon afterwards a certain brahmin whose turn to offer a meal had not yet come, thought: “I’ve been following the Saṅgha of monks headed by the Buddha for two months waiting to offer them a meal, and I’m still waiting. Moreover, I am all alone, and all my household business is being neglected. Why don’t I inspect the dining hall and prepare whatever is lacking?” When he did, he saw that two things were missing: rice porridge and honey balls. He then went to Venerable Ānanda and told what he had been thinking, adding: “Good Ānanda, if I were to prepare rice porridge and honey balls, would Good Gotama accept it?”
+Eventually the Buddha arrived at Andhakavinda and stayed there. Soon afterwards a certain brahmin whose turn to offer a meal had not yet come, thought: “I’ve been following the Saṅgha of bhikkhus headed by the Buddha for two months waiting to offer them a meal, and I’m still waiting. Moreover, I am all alone, and all my household business is being neglected. Why don’t I inspect the dining hall and prepare whatever is lacking?” When he did, he saw that two things were missing: rice porridge and honey balls. He then went to Venerable Ānanda and told what he had been thinking, adding: “Good Ānanda, if I were to prepare rice porridge and honey balls, would Good Gotama accept it?”
 
 
 “Well, brahmin, let me ask the Buddha.” Venerable Ānanda told the Buddha, who said: “Allow it to be prepared, Ānanda.” Ānanda passed the message on to the brahmin.
@@ -896,11 +896,11 @@ Eventually the Buddha arrived at Andhakavinda and stayed there. Soon afterwards 
 
 83The following morning that brahmin prepared much rice porridge and many honey balls and brought it to the Buddha, saying: “Good Gotama, please accept the rice porridge and the honey balls.”
 
-“Well then, brahmin, give it to the monks.”
+“Well then, brahmin, give it to the bhikkhus.”
 
-But being afraid of wrongdoing, the monks did not accept. The Buddha said: “Accept, monks, and eat.”
+But being afraid of wrongdoing, the bhikkhus did not accept. The Buddha said: “Accept, bhikkhus, and eat.”
 
-That brahmin then personally served much rice porridge and many honey balls to the Saṅgha of monks headed by the Buddha.
+That brahmin then personally served much rice porridge and many honey balls to the Saṅgha of bhikkhus headed by the Buddha.
 
 When the Buddha had finished his meal, the brahmin sat down to one side. And the Buddha said this to him:
 
@@ -922,7 +922,7 @@ One wishing for heavenly bliss
 Or desiring human prosperity  
 It’s appropriate to give rice porridge regularly.”
 
-88The Buddha then got up from his seat and left. Soon afterwards he gave a teaching and addressed the monks:
+88The Buddha then got up from his seat and left. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
 “I allow rice porridge and honey balls.”
 
@@ -936,22 +936,22 @@ It’s appropriate to give rice porridge regularly.”
 > ```
 
 
-89When people heard that the Buddha had allowed rice porridge and honey balls, they prepared thick rice porridge and honey balls early in the morning. After eating thick rice porridge and honey balls to their satisfaction in the morning, the monks did not eat as much as they had intended in the dining hall.
+89When people heard that the Buddha had allowed rice porridge and honey balls, they prepared thick rice porridge and honey balls early in the morning. After eating thick rice porridge and honey balls to their satisfaction in the morning, the bhikkhus did not eat as much as they had intended in the dining hall.
 
-At this time a certain government official who had recently acquired faith in Buddhism had invited the Saṅgha of monks headed by the Buddha for the meal on the following day. He thought: “Why don’t I prepare twelve hundred and fifty bowls of meat for the twelve hundred and fifty monks? I can then give one bowl to each and every monk.”
+At this time a certain government official who had recently acquired faith in Buddhism had invited the Saṅgha of bhikkhus headed by the Buddha for the meal on the following day. He thought: “Why don’t I prepare twelve hundred and fifty bowls of meat for the twelve hundred and fifty bhikkhus? I can then give one bowl to each and every monk.”
 
-The following morning that official had various kinds of fine food prepared, as well as twelve hundred and fifty bowls of meat. He then had the Buddha informed that the meal was ready. The Buddha robed up, took his bowl and robe, and went to that brahmin’s house, where he sat down on the prepared seat together with the Saṅgha of monks.
+The following morning that official had various kinds of fine food prepared, as well as twelve hundred and fifty bowls of meat. He then had the Buddha informed that the meal was ready. The Buddha robed up, took his bowl and robe, and went to that brahmin’s house, where he sat down on the prepared seat together with the Saṅgha of bhikkhus.
 
-That official then served the monks in the dining hall. As he did so, the monks said: “Only a little, thanks.”
+That official then served the bhikkhus in the dining hall. As he did so, the bhikkhus said: “Only a little, thanks.”
 
 “Please don’t say that because I’ve only recently acquired faith in Buddhism. I’ve prepared much food of various kinds, as well as twelve-hundred and fifty bowls of meat. I’ll bring one bowl of meat to each and every one of you. Venerables, please accept as much as you like.”
 
 “We’re not taking so little because of that, but because we ate thick rice porridge and honey balls to our satisfaction early in the morning.”
 
 
-The official complained and criticized them: “When the venerables have been invited by me, how can they eat someone else’s thick rice porridge? Am I incapable of giving them as much as they like?” Angry and aiming to criticize, he walked around filling the monks’ almsbowls, saying: “Eat it or take it away.”
+The official complained and criticized them: “When the venerables have been invited by me, how can they eat someone else’s thick rice porridge? Am I incapable of giving them as much as they like?” Angry and aiming to criticize, he walked around filling the bhikkhus’ almsbowls, saying: “Eat it or take it away.”
 
-When he had personally served the various kinds of fine food to the Saṅgha of monks headed by the Buddha, and the Buddha had finished his meal, the official sat down to one side. The Buddha instructed, inspired, and gladdened him with a teaching, after which he got up from his seat and left.
+When he had personally served the various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha, and the Buddha had finished his meal, the official sat down to one side. The Buddha instructed, inspired, and gladdened him with a teaching, after which he got up from his seat and left.
 
 90Soon after the Buddha had left, that official felt anxiety and remorse, thinking: “It’s bad for me, truly bad, that I acted like this. I wonder, did I make much merit or demerit?”
 
@@ -959,16 +959,16 @@ When he had personally served the various kinds of fine food to the Saṅgha of 
 He then went to the Buddha, bowed, sat down, and told him what he had been thinking, adding, “How is it, Sir, did I make much merit or demerit?”
 
 
-“When you invited the Saṅgha of monks headed by the Buddha for a meal on the following day, you made much merit. When each and every monk received rice from you, you made much merit. You are heading for heaven.”
+“When you invited the Saṅgha of bhikkhus headed by the Buddha for a meal on the following day, you made much merit. When each and every monk received rice from you, you made much merit. You are heading for heaven.”
 
 When the official heard this, he was joyful and elated. He got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
 
-Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks: “Is it true, monks, that monks who had been invited for a meal ate someone else’s thick rice porridge beforehand?”
+Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that bhikkhus who had been invited for a meal ate someone else’s thick rice porridge beforehand?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them … “How can those foolish men eat someone else’s thick rice porridge beforehand when they have been invited for a meal? This will affect people’s confidence …” After rebuking them, he gave a teaching and addressed the monks:
+The Buddha rebuked them … “How can those foolish men eat someone else’s thick rice porridge beforehand when they have been invited for a meal? This will affect people’s confidence …” After rebuking them, he gave a teaching and addressed the bhikkhus:
 
 “When you have been invited to a meal, you shouldn’t eat someone else’s thick rice porridge beforehand. If you do, you should be dealt with according to the rule.”
 
@@ -982,7 +982,7 @@ The Buddha rebuked them … “How can those foolish men eat someone else’s th
 > ```
 
 
-91When the Buddha had stayed at Andhakavinda for as long as he liked, he set out wandering toward Rājagaha together with a large saṅgha of twelve-hundred and fifty monks. Just then Belaṭṭha Kaccāna was traveling from Rājagaha to Andhakavinda with five hundred carts, all of them filled with jars of sugar. When the Buddha saw Belaṭṭha Kaccāna coming, he stepped off the road and sat down at the foot of a tree.
+91When the Buddha had stayed at Andhakavinda for as long as he liked, he set out wandering toward Rājagaha together with a large saṅgha of twelve-hundred and fifty bhikkhus. Just then Belaṭṭha Kaccāna was traveling from Rājagaha to Andhakavinda with five hundred carts, all of them filled with jars of sugar. When the Buddha saw Belaṭṭha Kaccāna coming, he stepped off the road and sat down at the foot of a tree.
 
 
 92Belaṭṭha Kaccāna went up to the Buddha, bowed, and said:
@@ -996,21 +996,21 @@ The Buddha rebuked them … “How can those foolish men eat someone else’s th
 Saying: “Yes, sir,” he got a jar of sugar, returned to the Buddha, and said: “Here is the jar. What should I do next?”
 
 
-“Now give sugar to the monks.”
+“Now give sugar to the bhikkhus.”
 
-Saying: “Yes, sir,” he did just that. He then said to the Buddha: “I’ve given sugar to the monks, but there’s much left over. What should I do with that?”
+Saying: “Yes, sir,” he did just that. He then said to the Buddha: “I’ve given sugar to the bhikkhus, but there’s much left over. What should I do with that?”
 
-“Give the monks as much sugar as they need.”
+“Give the bhikkhus as much sugar as they need.”
 
 Saying: “Yes, sir,” he did as requested. He then said to the Buddha:
 
-“I’ve given the monks as much sugar as they need, but there’s much left over. What should I do with that?”
+“I’ve given the bhikkhus as much sugar as they need, but there’s much left over. What should I do with that?”
 
-“Give the monks as much sugar as they want.”
+“Give the bhikkhus as much sugar as they want.”
 
-Saying: “Yes, sir,” he again did as requested. Some monks filled their almsbowls and even their water filters and bags.
+Saying: “Yes, sir,” he again did as requested. Some bhikkhus filled their almsbowls and even their water filters and bags.
 
-When he was finished, he said to the Buddha: “I’ve given the monks as much sugar as they want, but there’s much left over. What should I do with that?”
+When he was finished, he said to the Buddha: “I’ve given the bhikkhus as much sugar as they want, but there’s much left over. What should I do with that?”
 
 “Give to those who live on scraps.”
 
@@ -1042,9 +1042,9 @@ The Buddha then gave him a progressive talk on generosity, morality, and heaven;
 
 He had seen the Truth, had reached, understood, and penetrated it. He had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. He then said to the Buddha,
 
-“Wonderful, Venerable Sir, wonderful! Just as one might set upright what’s overturned, or reveal what’s hidden, or show the way to one who’s lost, or bring a lamp into the darkness so that one with eyes might see what’s there just so have you made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of monks. Please accept me as a lay follower who’s gone for refuge for life.”
+“Wonderful, Venerable Sir, wonderful! Just as one might set upright what’s overturned, or reveal what’s hidden, or show the way to one who’s lost, or bring a lamp into the darkness so that one with eyes might see what’s there just so have you made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of bhikkhus. Please accept me as a lay follower who’s gone for refuge for life.”
 
-94The Buddha then continued wandering toward Rājagaha. When he eventually arrived, he stayed in the Bamboo Grove, the squirrel sanctuary. At that time there was an abundance of sugar in Rājagaha. The monks thought: “The Buddha has only allowed sugar for the sick,” and being afraid of wrongdoing, they did not eat it.
+94The Buddha then continued wandering toward Rājagaha. When he eventually arrived, he stayed in the Bamboo Grove, the squirrel sanctuary. At that time there was an abundance of sugar in Rājagaha. The bhikkhus thought: “The Buddha has only allowed sugar for the sick,” and being afraid of wrongdoing, they did not eat it.
 
 “I allow you to take sugar when you’re sick and sugar mixed in water when you’re not.”
 
@@ -1058,16 +1058,16 @@ He had seen the Truth, had reached, understood, and penetrated it. He had gone b
 > ```
 
 
-95When the Buddha had stayed at Rājagaha for as long as he liked, he set out wandering toward Pāṭaligāma with a large saṅgha of twelve-hundred and fifty monks. When he eventually arrived, he stayed there.
+95When the Buddha had stayed at Rājagaha for as long as he liked, he set out wandering toward Pāṭaligāma with a large saṅgha of twelve-hundred and fifty bhikkhus. When he eventually arrived, he stayed there.
 
 When the lay followers of Pāṭaligāma heard that he had arrived, they went to see him, bowed, and sat down on one side. The Buddha instructed, inspired, and gladdened them with a teaching.
 
-They then said to the Buddha: “Please visit our guesthouse together with the Saṅgha of monks.” The Buddha consented by remaining silent. Knowing that he had consented, they got up from their seats, bowed down, and circumambulated him with their right side toward him.
+They then said to the Buddha: “Please visit our guesthouse together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent. Knowing that he had consented, they got up from their seats, bowed down, and circumambulated him with their right side toward him.
 
 They then went to the guesthouse, spread mats on the floor, prepared seats, put out a large water pot, and hung up an oil lamp, after which they returned to the Buddha, bowed, and told him that everything was prepared, adding: “Sir, please come when you’re ready.”
 
 
-96The Buddha robed up, took his bowl and robe, and went to the guesthouse together with the Saṅgha of monks. He washed his feet, entered the guesthouse, and sat down facing the east, leaning on the central pillar. The monks washed their feet too, entered the guesthouse, and sat down facing east with the Buddha in front of them, leaning against the western wall. The lay followers of Pāṭaligāma followed suit and sat down facing west with the Buddha in front of them, leaning against the eastern wall.
+96The Buddha robed up, took his bowl and robe, and went to the guesthouse together with the Saṅgha of bhikkhus. He washed his feet, entered the guesthouse, and sat down facing the east, leaning on the central pillar. The bhikkhus washed their feet too, entered the guesthouse, and sat down facing east with the Buddha in front of them, leaning against the western wall. The lay followers of Pāṭaligāma followed suit and sat down facing west with the Buddha in front of them, leaning against the eastern wall.
 
 The Buddha then addressed those lay followers:
 
@@ -1122,9 +1122,9 @@ Saying: “Yes, Sir,” they got up from their seats, bowed down, circumambulate
 “They are building the fortress, Ānanda, as if they had consulted with the Tāvatiṁsa gods.” The Buddha told Ānanda what he had seen, adding: “As far, Ānanda, as the extent of the Indian realm, as far as the routes of commerce, Pāṭaliputta will be the chief city, the destination for merchandise. And there will be three dangers for Pāṭaliputta: fire, water, and internal dissent.”
 
 
-102Sunidha and Vassakāra then went to the Buddha and exchanged pleasantries with him, adding: “Please accept tomorrow’s meal from us together with the Saṅgha of monks.” The Buddha consented by remaining silent. Knowing that he had consented, they left.
+102Sunidha and Vassakāra then went to the Buddha and exchanged pleasantries with him, adding: “Please accept tomorrow’s meal from us together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent. Knowing that he had consented, they left.
 
-Having had various kinds of fine food prepared, they had the Buddha informed that the meal was ready. The Buddha robed up, took his bowl and robe, and went to Sunidha’s and Vassakāra’s meal offering, where he sat down on the prepared seat together with the Saṅgha of monks. Sunidha and Vassakāra then personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal, they sat down to one side. And the Buddha expressed his appreciation with these verses:
+Having had various kinds of fine food prepared, they had the Buddha informed that the meal was ready. The Buddha robed up, took his bowl and robe, and went to Sunidha’s and Vassakāra’s meal offering, where he sat down on the prepared seat together with the Saṅgha of bhikkhus. Sunidha and Vassakāra then personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal, they sat down to one side. And the Buddha expressed his appreciation with these verses:
 
 
 103“In whatever place  
@@ -1149,7 +1149,7 @@ Always has good fortune.”
 
 108And so the gate though which he left was named the Gotama Gate. The Buddha then went to the river Ganges. At that time the river was full to the brim. Among the people who wanted to cross, some were looking for a boat, some for a barge, and some were putting together a raft.
 
-109The Buddha saw this. Then, just as a strong man might bend or stretch his arm, the Buddha disappeared on the near shore of the river and reappeared on the far shore together with the Saṅgha of monks.
+109The Buddha saw this. Then, just as a strong man might bend or stretch his arm, the Buddha disappeared on the near shore of the river and reappeared on the far shore together with the Saṅgha of bhikkhus.
 
 110Seeing the significance of this, the Buddha uttered a heartfelt exclamation:
 
@@ -1169,11 +1169,11 @@ The wise have crossed already.”
 > ```
 
 
-112The Buddha then went to Koṭigāma and stayed there. And he addressed the monks:
+112The Buddha then went to Koṭigāma and stayed there. And he addressed the bhikkhus:
 
 “It’s because of not awakening to or penetrating these four noble truths that you and I have wandered on and transmigrated for such a long time: the noble truth of suffering, the noble truth of the origin of suffering, the noble truth of the end of suffering, the noble truth of the path leading to the end of suffering.
 
-But now, monks, the noble truth of suffering has been awakened to and penetrated, likewise the noble truth of the origin of suffering, the noble truth of the end of suffering, and the noble truth of the path leading to the end of suffering. Craving for existence has been cut off; the passage to existence has been destroyed; now there is no further existence.
+But now, bhikkhus, the noble truth of suffering has been awakened to and penetrated, likewise the noble truth of the origin of suffering, the noble truth of the end of suffering, and the noble truth of the path leading to the end of suffering. Craving for existence has been cut off; the passage to existence has been destroyed; now there is no further existence.
 
 
 113Because of not properly seeing  
@@ -1198,7 +1198,7 @@ And there is no further existence.”
 
 115The courtesan Ambapālī heard that the Buddha had arrived at Koṭigāma. She had her best carriages harnessed, mounted one of them, and left Vesālī to visit the Buddha. She went by carriage as far as the ground would allow, dismounted, and then approached the Buddha on foot.
 
-After bowing down to the Buddha, she sat down, and the Buddha instructed, inspired, and gladdened her with a teaching. She then said to the Buddha: “Sir, please accept tomorrow’s meal from me together with the Saṅgha of monks.” The Buddha consented by remaining silent. Knowing that he had consented, she got up from her seat, bowed down, circumambulated him with her right side toward him, and left.
+After bowing down to the Buddha, she sat down, and the Buddha instructed, inspired, and gladdened her with a teaching. She then said to the Buddha: “Sir, please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent. Knowing that he had consented, she got up from her seat, bowed down, circumambulated him with her right side toward him, and left.
 
 #### 18. The account of the Licchavīs ^18
 
@@ -1217,7 +1217,7 @@ When Ambapālī met the young Licchavīs, she turned her carriage around and dro
 The Licchavīs said: “What on earth are you doing?” and she replied:
 
 
-“Because, sirs, I’ve invited the Buddha and the Saṅgha of monks for tomorrow’s meal.”
+“Because, sirs, I’ve invited the Buddha and the Saṅgha of bhikkhus for tomorrow’s meal.”
 
 “We’ll give you a hundred thousand for this meal, Ambapālī.”
 
@@ -1228,12 +1228,12 @@ The Licchavīs snapped their fingers in dismay, saying: “Damn it, we’ve been
 
 And they continued on their way to the Buddha.
 
-When the Buddha saw them coming, he said to the monks: “Those of you who haven’t seen the Tāvatiṁsa gods look at the Licchavīs. The Licchavīs are similar to the Tāvatiṁsa gods.”
+When the Buddha saw them coming, he said to the bhikkhus: “Those of you who haven’t seen the Tāvatiṁsa gods look at the Licchavīs. The Licchavīs are similar to the Tāvatiṁsa gods.”
 
 
 117The Licchavīs went by carriage as far as the ground would allow, dismounted, and then approached the Buddha on foot. After bowing down to the Buddha, they sat down, and the Buddha instructed, inspired, and gladdened them with a teaching.
 
-They then said to the Buddha: “Sir, please accept tomorrow’s meal from us together with the Saṅgha of monks.”
+They then said to the Buddha: “Sir, please accept tomorrow’s meal from us together with the Saṅgha of bhikkhus.”
 
 “I have already accepted tomorrow’s meal from Ambapālī.”
 
@@ -1246,7 +1246,7 @@ After rejoicing in the Buddha’s words, they got up from their seats, bowed dow
 
 118When the Buddha had stayed at Koṭigāma for as long as he liked, he went to Nātikā, where he stayed in the brick house.
 
-The following morning Ambapālī had various kinds of fine food prepared in her own park. She then had the Buddha informed that the meal was ready. The Buddha robes up, took his bowl and robe, and went to Ambapālī’s meal offering, where he sat down on the prepared seat together with the Saṅgha of monks. Ambapālī personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal, she sat down to one side and said: “Venerable Sir, I give this mango grove to the Saṅgha of monks headed by the Buddha.”
+The following morning Ambapālī had various kinds of fine food prepared in her own park. She then had the Buddha informed that the meal was ready. The Buddha robes up, took his bowl and robe, and went to Ambapālī’s meal offering, where he sat down on the prepared seat together with the Saṅgha of bhikkhus. Ambapālī personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal, she sat down to one side and said: “Venerable Sir, I give this mango grove to the Saṅgha of bhikkhus headed by the Buddha.”
 
 The Buddha accepted the park. After instructing, inspiring, and gladdening her with a teaching, he got up from his seat and went to the Great Wood near Vesālī, where he stayed in the hall with the peaked roof.
 
@@ -1303,38 +1303,38 @@ He then went to Nigaṇṭha Nāṭaputta and said: “Sir, I wish to visit the 
 132There’s a way one could rightly say of me that I’m at ease, that I teach for the sake of ease, and that I train my disciples in that. What’s that way? I’m at ease in the highest sense, I proclaim my Teaching for sake of ease, and I train my disciples in that.”
 
 
-133When the Buddha had finished, Sīha exclaimed: “Wonderful, Venerable Sir, wonderful! Just as one might set upright what’s overturned, or reveal what’s hidden, or show the way to one who’s lost, or bring a lamp into the darkness so that one with eyes might see what’s there—just so have you made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of monks. Please accept me as a lay follower who’s gone for refuge for life.”
+133When the Buddha had finished, Sīha exclaimed: “Wonderful, Venerable Sir, wonderful! Just as one might set upright what’s overturned, or reveal what’s hidden, or show the way to one who’s lost, or bring a lamp into the darkness so that one with eyes might see what’s there—just so have you made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of bhikkhus. Please accept me as a lay follower who’s gone for refuge for life.”
 
 
 “Consider it carefully, Sīha. It’s good for well-known people such as yourself to reflect carefully.”
 
 
-“Now I’m even more pleased with you, Sir. Had I become a lay follower of another religion, they would’ve carried a banner all over Vesālī to proclaim it. But you tell me to consider it carefully. For the second time I go for refuge to the Buddha, the Teaching, and the Saṅgha of monks. Please accept me as a lay follower who’s gone for refuge for life.”
+“Now I’m even more pleased with you, Sir. Had I become a lay follower of another religion, they would’ve carried a banner all over Vesālī to proclaim it. But you tell me to consider it carefully. For the second time I go for refuge to the Buddha, the Teaching, and the Saṅgha of bhikkhus. Please accept me as a lay follower who’s gone for refuge for life.”
 
 “For a long time, Sīha, your family has been a wellspring of support for the Jain ascetics. When they come to you, you should still consider giving them almsfood.”
 
-“Now I’m even more pleased with you, Sir. I had heard that you say that offerings should only be given to you and your disciples, not to anyone else, and only offerings given to you and your disciples are fruitful, not what’s given to others. But in reality you encourage me to give to the Jain ascetics. Indeed, I shall know the right time for that. For the third time I go for refuge to the Buddha, the Teaching, and the Saṅgha of monks. Please accept me as a lay follower who’s gone for refuge for life.”
+“Now I’m even more pleased with you, Sir. I had heard that you say that offerings should only be given to you and your disciples, not to anyone else, and only offerings given to you and your disciples are fruitful, not what’s given to others. But in reality you encourage me to give to the Jain ascetics. Indeed, I shall know the right time for that. For the third time I go for refuge to the Buddha, the Teaching, and the Saṅgha of bhikkhus. Please accept me as a lay follower who’s gone for refuge for life.”
 
 
 134The Buddha then gave Sīha a progressive talk on generosity, morality, and heaven; on the danger, degradation, and defilement of worldly pleasures; and he revealed the benefits of renunciation. When the Buddha knew that his mind was ready, supple, without hindrances, joyful, and confident, he revealed the teaching unique to the Buddhas: suffering, its origin, its end, and the path. And just as a clean and stainless cloth absorbs dye properly, so too, while he was sitting right there, Sīha experienced the stainless vision of the Truth: “Anything that has a beginning has an end.” He had seen the Truth, had reached, understood, and penetrated it. He had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction.
 
-He then said to the Buddha: “Please accept tomorrow’s meal from me together with the Saṅgha of monks.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, Sīha got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
+He then said to the Buddha: “Please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, Sīha got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
 
 
 135Sīha then told a man: “Go and get some ready meat.” The following morning Sīha had various kinds of fine food prepared. He then had the Buddha informed that the meal was ready.
 
-The Buddha robed up, took his bowl and robe, and went to General Sīha’s house, where he sat down on the prepared seat together with the Saṅgha of monks.
+The Buddha robed up, took his bowl and robe, and went to General Sīha’s house, where he sat down on the prepared seat together with the Saṅgha of bhikkhus.
 
 136Just then a number of Jain ascetics were walking around Vesālī, from street to street, from intersection to intersection, waiving their arms and calling out: “General Sīha has killed a large animal and made a meal for the ascetic Gotama. The ascetic Gotama is eating that meat, knowing that the animal was killed for his sake!”
 
 A certain man went up to Sīha and whispered to him what the Jains were doing.
 
-Sīha said: “Forget about it. For a long time those venerables have wanted to disparage the Buddha, the Teaching, and the Saṅgha of monks. They’ll grow old and still keep on misrepresenting the Buddha with lies. Besides, I wouldn’t kill a living being even for the sake of my life.”
+Sīha said: “Forget about it. For a long time those venerables have wanted to disparage the Buddha, the Teaching, and the Saṅgha of bhikkhus. They’ll grow old and still keep on misrepresenting the Buddha with lies. Besides, I wouldn’t kill a living being even for the sake of my life.”
 
 
-Sīha then personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal, Sīha sat down to one side. The Buddha instructed, inspired, and gladdened him with a teaching. He then got up from his seat and left.
+Sīha then personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal, Sīha sat down to one side. The Buddha instructed, inspired, and gladdened him with a teaching. He then got up from his seat and left.
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 
 “You shouldn’t eat meat when you know the animal was killed for your sake. If you do, you commit an offense of wrong conduct. I allow you to eat meat and fish that’s pure in three respects: you haven’t seen, heard, or suspected that the animal was killed for your sake.”
@@ -1349,7 +1349,7 @@ Soon afterwards the Buddha gave a teaching and addressed the monks:
 > ```
 
 
-137Some time later in Vesālī, there was plenty of food, the crops were abundant, and there was no problem getting by on almsfood. Then, while the Buddha was reflecting in private, he thought: “Those things I allowed the monks when there was a shortage of food, the crops were meager, and it was hard to get by on alms—that is, what’s been stored indoors in a monastery, what’s been cooked indoors in a monastery, what’s been cooked by the monks themselves, what’s been received after picking it up, what’s been brought out, what’s been received before the meal, what’s come from the forest or a lotus pond—do the monks still make use of these?”
+137Some time later in Vesālī, there was plenty of food, the crops were abundant, and there was no problem getting by on almsfood. Then, while the Buddha was reflecting in private, he thought: “Those things I allowed the bhikkhus when there was a shortage of food, the crops were meager, and it was hard to get by on alms—that is, what’s been stored indoors in a monastery, what’s been cooked indoors in a monastery, what’s been cooked by the bhikkhus themselves, what’s been received after picking it up, what’s been brought out, what’s been received before the meal, what’s come from the forest or a lotus pond—do the bhikkhus still make use of these?”
 
 
 When the Buddha had come out from seclusion, he asked Venerable Ānanda about this. He replied:
@@ -1357,7 +1357,7 @@ When the Buddha had come out from seclusion, he asked Venerable Ānanda about th
 “They do, Sir.”
 
 
-138Soon afterwards the Buddha gave a teaching and addressed the monks: “Those things I allowed you when there was a shortage of food, the crops were meager, and it was hard to get by on alms, I prohibit from today onward.
+138Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “Those things I allowed you when there was a shortage of food, the crops were meager, and it was hard to get by on alms, I prohibit from today onward.
 
 
 You shouldn’t eat what’s been stored indoors in a monastery, what’s been cooked indoors in a monastery, what’s been cooked by yourselves, or what’s been received after picking it up. If you do, you commit an offense of wrong conduct.
@@ -1379,13 +1379,13 @@ Those people went to Venerable Ānanda and told him what was happening, adding: 
 142The Saṅgha has designated such-and-such a dwelling as a food-storage area. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
 
-143Soon afterwards people used the designated food-storage area for various purposes: to cook rice porridge and rice, to prepare curries, to chop meat, and to split firewood. Getting up early in the morning, the Buddha heard loud noises, like the cawing of crows. He asked Venerable Ānanda what was going on, and Ānanda told him. Soon afterwards the Buddha gave a teaching and addressed the monks:
+143Soon afterwards people used the designated food-storage area for various purposes: to cook rice porridge and rice, to prepare curries, to chop meat, and to split firewood. Getting up early in the morning, the Buddha heard loud noises, like the cawing of crows. He asked Venerable Ānanda what was going on, and Ānanda told him. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 
 “You should not use a designated food-storage area. If you do, you commit an offense of wrong conduct. I allow three places as food-storage areas: a building made according to a proclamation, a place where cows rest, and a place given for the purpose by a householder.”
 
 
-144Soon afterwards Venerable Yasoja was sick. People brought him tonics and the monks stored them outside. Vermin ate them and thieves stole them.
+144Soon afterwards Venerable Yasoja was sick. People brought him tonics and the bhikkhus stored them outside. Vermin ate them and thieves stole them.
 
 “I allow you to use a designated food-storage area. I allow four places as food-storage areas: a building made according to a proclamation, a cow stall, a building given for the purpose by a householder, and a building designated by the Saṅgha.”
 
@@ -1432,9 +1432,9 @@ When he eventually arrived, he went up to Meṇḍaka and said: “I’ve been t
 That official then returned to Rājagaha with the fourfold army and told the King what had happened.
 
 
-150When the Buddha had stayed at Vesālī for as long as he liked, he set out wandering toward Bhaddiya with a large saṅgha of twelve-hundred and fifty monks. When he eventually arrived, he stayed in the Jātiyā Grove.
+150When the Buddha had stayed at Vesālī for as long as he liked, he set out wandering toward Bhaddiya with a large saṅgha of twelve-hundred and fifty bhikkhus. When he eventually arrived, he stayed in the Jātiyā Grove.
 
-Meṇḍaka heard: “Sir, the ascetic Gotama, the Sakyan, who has gone forth from the Sakyan clan, has arrived at Bhaddiya and is staying in the Jātiyā Grove with a large saṅgha of twelve-hundred and fifty monks. That good Gotama has a fine reputation:
+Meṇḍaka heard: “Sir, the ascetic Gotama, the Sakyan, who has gone forth from the Sakyan clan, has arrived at Bhaddiya and is staying in the Jātiyā Grove with a large saṅgha of twelve-hundred and fifty bhikkhus. That good Gotama has a fine reputation:
 
 
 ‘He is a Buddha, perfected and fully awakened, complete in insight and conduct, happy, knower of the world, supreme leader of trainable people, teacher of gods and humans, awakened, a Buddha. With his own insight he has seen this world with its gods, its lords of death, and its supreme beings, this society with its monastics and brahmins, its gods and humans, and he makes it known to others. He has a Teaching that’s good in the beginning, good in the middle, and good in the end. It has a true goal and is well articulated. He sets out a perfectly complete and pure spiritual life.’ It’s good to see such perfected ones.”
@@ -1451,7 +1451,7 @@ Meṇḍaka heard: “Sir, the ascetic Gotama, the Sakyan, who has gone forth fr
 Meṇḍaka thought: “No doubt he must be a Buddha, a perfected and fully Awakened One, since these monastics of other religions are jealous.” He then went by carriage as far as the ground would allow, dismounted, and then approached the Buddha on foot. After bowing down to the Buddha, he sat down, and the Buddha gave him a progressive talk on generosity, morality, and heaven; on the danger, degradation, and defilement of worldly pleasures; and he revealed the benefits of renunciation. When the Buddha knew that his mind was ready, supple, without hindrances, joyful, and confident, he revealed the teaching unique to the Buddhas: suffering, its origin, its end, and the path. And just as a clean and stainless cloth absorbs dye properly, so too, while he was sitting right there, Meṇḍaka experienced the stainless vision of the Truth: “Anything that has a beginning has an end.” He had seen the Truth, had reached, understood, and penetrated it. He had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction.
 
 
-He then said to the Buddha: “Wonderful, Venerable Sir, wonderful! Just as one might set upright what’s overturned, or reveal what’s hidden, or show the way to one who’s lost, or bring a lamp into the darkness so that one with eyes might see what’s there—just so have you made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of monks. Please accept me as a lay follower who’s gone for refuge for life. And please accept tomorrow’s meal from me together with the Saṅgha of monks.” The Buddha consented by remaining silent.
+He then said to the Buddha: “Wonderful, Venerable Sir, wonderful! Just as one might set upright what’s overturned, or reveal what’s hidden, or show the way to one who’s lost, or bring a lamp into the darkness so that one with eyes might see what’s there—just so have you made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of bhikkhus. Please accept me as a lay follower who’s gone for refuge for life. And please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent.
 
 
 Knowing that the Buddha had consented, Meṇḍaka got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
@@ -1459,14 +1459,14 @@ Knowing that the Buddha had consented, Meṇḍaka got up from his seat, bowed d
 
 152The following morning Meṇḍaka had various kinds of fine food prepared and then had the Buddha informed that the meal was ready.
 
-The Buddha robes up, took his bowl and robe, and went to Meṇḍaka’s house, where he sat down on the prepared seat together with the Saṅgha of monks.
+The Buddha robes up, took his bowl and robe, and went to Meṇḍaka’s house, where he sat down on the prepared seat together with the Saṅgha of bhikkhus.
 
 Then Meṇḍaka’s wife, son, daughter-in-law, and slave approached the Buddha, bowed, and sat down. the Buddha gave them a progressive talk, just as he had done to Meṇḍaka. They, too, experienced the stainless vision of the Truth, and they expressed their appreciation in the same way and became lay followers.
 
 
-Meṇḍaka then personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal, Meṇḍaka sat down to one side and said:
+Meṇḍaka then personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal, Meṇḍaka sat down to one side and said:
 
-“Sir, as long as you’re staying in Bhaddiya, I would like to offer a regular meal to the Saṅgha of monks headed by the Buddha.” The Buddha then instructed, inspired, and gladdened him with a teaching, after which he got up from his seat and left.
+“Sir, as long as you’re staying in Bhaddiya, I would like to offer a regular meal to the Saṅgha of bhikkhus headed by the Buddha.” The Buddha then instructed, inspired, and gladdened him with a teaching, after which he got up from his seat and left.
 
 #### 22. The allowance for the five products of a cow, etc. ^22
 
@@ -1478,23 +1478,23 @@ Meṇḍaka then personally served various kinds of fine food to the Saṅgha of
 > ```
 
 
-153When the Buddha had stayed at Bhaddiya for as long as he liked, he set out wandering toward Aṅguttarāpa with a large saṅgha of twelve-hundred and fifty monks. He had not informed Meṇḍaka. When Meṇḍaka heard about it, he told his slaves and workers: “Load lots of salt, oil, rice, and fresh food onto the carts, and bring along twelve-hundred and fifty cowherds and twelve-hundred and fifty dairy cows. We’ll give the Buddha fresh milk wherever we see him.”
+153When the Buddha had stayed at Bhaddiya for as long as he liked, he set out wandering toward Aṅguttarāpa with a large saṅgha of twelve-hundred and fifty bhikkhus. He had not informed Meṇḍaka. When Meṇḍaka heard about it, he told his slaves and workers: “Load lots of salt, oil, rice, and fresh food onto the carts, and bring along twelve-hundred and fifty cowherds and twelve-hundred and fifty dairy cows. We’ll give the Buddha fresh milk wherever we see him.”
 
-Meṇḍaka caught up with the Buddha while he was traversing a wilderness area. Meṇḍaka approached the Buddha, bowed down, and said: “Sir, please accept tomorrow’s meal from me together with the Saṅgha of monks.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, Meṇḍaka bowed down, circumambulated the Buddha with his right side toward him, and left.
+Meṇḍaka caught up with the Buddha while he was traversing a wilderness area. Meṇḍaka approached the Buddha, bowed down, and said: “Sir, please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, Meṇḍaka bowed down, circumambulated the Buddha with his right side toward him, and left.
 
 
 154The following morning Meṇḍaka had various kinds of fine food prepared and then had the Buddha informed that the meal was ready.
 
-The Buddha robed up, took his bowl and robe, and went to Meṇḍaka’s meal offering, where he sat down on the prepared seat together with the Saṅgha of monks. Meṇḍaka told the twelve-hundred and fifty cowherds: “Listen, bring one cow for each and every monk and give them fresh milk.”
+The Buddha robed up, took his bowl and robe, and went to Meṇḍaka’s meal offering, where he sat down on the prepared seat together with the Saṅgha of bhikkhus. Meṇḍaka told the twelve-hundred and fifty cowherds: “Listen, bring one cow for each and every monk and give them fresh milk.”
 
-Meṇḍaka then personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha, and he gave them fresh milk.
+Meṇḍaka then personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha, and he gave them fresh milk.
 
-Being afraid of wrongdoing, the monks did not accept. The Buddha said: “Accept, monks, and drink.” When the Buddha had finished his meal, Meṇḍaka sat down to one side, and said,
+Being afraid of wrongdoing, the bhikkhus did not accept. The Buddha said: “Accept, bhikkhus, and drink.” When the Buddha had finished his meal, Meṇḍaka sat down to one side, and said,
 
 “Sir, there are wilderness roads where there is little water and little food, where it’s not easy to travel without provisions. It would be good, Sir, if you would allow provisions.” The Buddha then instructed, inspired, and gladdened Meṇḍaka with a teaching, after which he got up from his seat and left.
 
 
-155Soon afterwards the Buddha gave a teaching and addressed the monks:
+155Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow five products from cows: milk, curd, buttermilk, butter, and ghee.
 
@@ -1518,11 +1518,11 @@ And it occurred to him: “There are those ancient sages of the brahmins, the cr
 
 The ascetic Gotama also abstains from eating at night and at the wrong time. It would be appropriate for him to consent to the same drinks.” He then had a large quantity of drinks prepared. Lifting them with carrying poles, he went to the Buddha. He exchanged pleasantries with the Buddha and said: “Good Gotama, please accept these drinks.”
 
-“Please give them to the monks, Keṇiya.”
+“Please give them to the bhikkhus, Keṇiya.”
 
-He did, but being afraid of wrongdoing, the monks did not accept them. The Buddha said: “Accept, monks, and drink.” Keṇiya then personally served that large quantity of drinks to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal, Keṇiya sat down to one side. The Buddha instructed, inspired, and gladdened him with a teaching, and Keṇiya said: “Good Gotama, please accept tomorrow’s meal from me together with the Saṅgha of monks.”
+He did, but being afraid of wrongdoing, the bhikkhus did not accept them. The Buddha said: “Accept, bhikkhus, and drink.” Keṇiya then personally served that large quantity of drinks to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal, Keṇiya sat down to one side. The Buddha instructed, inspired, and gladdened him with a teaching, and Keṇiya said: “Good Gotama, please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.”
 
-“The Saṅgha is large, Keṇiya. There are twelve hundred and fifty monks. And you have faith in the brahmins.”
+“The Saṅgha is large, Keṇiya. There are twelve hundred and fifty bhikkhus. And you have faith in the brahmins.”
 
 
 157Keṇiya acknowledged what the Buddha had said, but repeated his invitation a second time.
@@ -1532,7 +1532,7 @@ The Buddha replied as before, and Keṇiya repeated his invitation a third time.
 The Buddha then consented by remaining silent. Knowing that the Buddha had consented, Keṇiya got up from his seat and left.
 
 
-158Soon afterwards the Buddha gave a teaching and addressed the monks:
+158Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow eight kinds of drinks: mango drinks, rose-apple drinks, drinks from bananas with seeds, drinks from seedless bananas, licorice drinks, grape drinks, drinks made from lotus tubers, and falsa fruit drinks.
 
@@ -1540,7 +1540,7 @@ I allow juice from all fruits, except grain. I allow juice from all leaves, exce
 
 159The following morning Keṇiya had various kinds of fine food prepared in his own hermitage and then had the Buddha informed that the meal was ready.
 
-The Buddha robed up, took his bowl and robe, and went to Keṇiya’s hermitage, where he sat down on the prepared seat together with the Saṅgha of monks. Keṇiya then served various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal
+The Buddha robed up, took his bowl and robe, and went to Keṇiya’s hermitage, where he sat down on the prepared seat together with the Saṅgha of bhikkhus. Keṇiya then served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal
 
 Keṇiya sat down to one side, and the Buddha expressed his appreciation with these verses:
 
@@ -1567,7 +1567,7 @@ The Saṅgha is indeed the best.”
 > ```
 
 
-163When the Buddha had stayed at Āpaṇa for as long as he liked, he set out wandering toward Kusinārā with a large saṅgha of twelve-hundred and fifty monks. When the Mallians of Kusinārā heard that the Buddha was coming, they made an agreement that whoever did not go out to meet the Buddha would be fined five hundred coins.
+163When the Buddha had stayed at Āpaṇa for as long as he liked, he set out wandering toward Kusinārā with a large saṅgha of twelve-hundred and fifty bhikkhus. When the Mallians of Kusinārā heard that the Buddha was coming, they made an agreement that whoever did not go out to meet the Buddha would be fined five hundred coins.
 
 At that time Venerable Ānanda had a friend called Roja the Mallian. As the Buddha was approaching Kusinārā, the Mallians, including Roja, went out to meet him. Roja then went to Ānanda and bowed, and Ānanda said to him: “It’s noble of you to come out to meet the Buddha.”
 
@@ -1592,7 +1592,7 @@ Roja did just that, and the Buddha opened the door for him. He entered the dwell
 He then said to the Buddha: “Venerable Sir, it would be good if the venerables would accept robe-cloth, almsfood, dwellings, and medicinal supplies from me, and not from others.”
 
 
-“Roja, those who have seen the Truth with a trainee’s knowledge and vision, as you have, think like this. But listen, Roja, the monks will have to receive both from you and others.”
+“Roja, those who have seen the Truth with a trainee’s knowledge and vision, as you have, think like this. But listen, Roja, the bhikkhus will have to receive both from you and others.”
 
 
 165At this time in Kusinārā there was a succession of fine meals. Not being able to get a turn, Roja thought: “Why don’t I inspect the dining hall and then prepare whatever is lacking?” When he did, he saw that two things were missing: potherbs and fresh foods made of flour.
@@ -1609,9 +1609,9 @@ Venerable Ānanda told the Buddha, who said:
 The following morning Roja prepared much potherb and fresh food made with flour and brought it to the Buddha, saying: “Venerable Sir, please accept the potherb and the fresh food made with flour.”
 
 
-“Well then, Roja, give it to the monks.” He did, but being afraid of wrongdoing, they did not accept. The Buddha said: “Accept, monks, and eat.”
+“Well then, Roja, give it to the bhikkhus.” He did, but being afraid of wrongdoing, they did not accept. The Buddha said: “Accept, bhikkhus, and eat.”
 
-Roja then personally served much potherb and fresh food made with flour to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal, Roja sat down to one side. The Buddha instructed, inspired, and gladdened him with a teaching, after which he got up from his seat and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+Roja then personally served much potherb and fresh food made with flour to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal, Roja sat down to one side. The Buddha instructed, inspired, and gladdened him with a teaching, after which he got up from his seat and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow all potherbs and all fresh foods made of flour.”
 
@@ -1625,27 +1625,27 @@ Roja then personally served much potherb and fresh food made with flour to the S
 > ```
 
 
-166When the Buddha had stayed at Kusinārā for as long as he liked, he set out wandering toward Ātumā with a large saṅgha of twelve-hundred and fifty monks. At that time at Ātumā there was a monk who was previously a barber and who had gone forth when old. He had two boys, sweet-voiced and articulate, who were skilled barbers, their own teacher’s trade.
+166When the Buddha had stayed at Kusinārā for as long as he liked, he set out wandering toward Ātumā with a large saṅgha of twelve-hundred and fifty bhikkhus. At that time at Ātumā there was a monk who was previously a barber and who had gone forth when old. He had two boys, sweet-voiced and articulate, who were skilled barbers, their own teacher’s trade.
 
-The monk who had gone forth when old heard that the Buddha was coming to Ātumā, and he said to those boys: “The Buddha is coming to Ātumā with a large saṅgha of twelve-hundred and fifty monks. Now go and get the barber equipment, and then go from house to house with a box and collect salt, oil, rice, and fresh food. When the Buddha has arrived, we’ll make a rice-porridge drink.”
+The monk who had gone forth when old heard that the Buddha was coming to Ātumā, and he said to those boys: “The Buddha is coming to Ātumā with a large saṅgha of twelve-hundred and fifty bhikkhus. Now go and get the barber equipment, and then go from house to house with a box and collect salt, oil, rice, and fresh food. When the Buddha has arrived, we’ll make a rice-porridge drink.”
 
 Saying: “Yes,” they did just that. When people saw those sweet-voiced and articulate boys, they used their services even if they did not really want to. And they gave much in return. Soon the boys had collected a large amount of salt, oil, rice, and fresh food.
 
 
 167When the Buddha eventually arrived at Ātumā, he stayed in a dwelling made of husk. The following morning that monk who had gone forth when old had much rice porridge prepared and brought it to the Buddha, saying: “Venerable Sir, please accept the rice porridge.”
 
-When Buddhas know what is going on, sometimes they ask and sometimes not. They know the right time to ask and when not to ask. Buddhas ask when it is beneficial, otherwise not, for Buddhas are incapable of doing what is unbeneficial. Buddhas question the monks for two reasons: to give a teaching or to lay down a training rule.
+When Buddhas know what is going on, sometimes they ask and sometimes not. They know the right time to ask and when not to ask. Buddhas ask when it is beneficial, otherwise not, for Buddhas are incapable of doing what is unbeneficial. Buddhas question the bhikkhus for two reasons: to give a teaching or to lay down a training rule.
 
 
 The Buddha then said to him:
 
 “Where does this rice porridge come from?” He told him, and the Buddha rebuked him:
 
-“It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you who have gone forth encourage others in what’s unallowable? This will affect people’s confidence …” After rebuking him, he gave a teaching and addressed the monks:
+“It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you who have gone forth encourage others in what’s unallowable? This will affect people’s confidence …” After rebuking him, he gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t encourage others to do what’s unallowable. If you do, you commit an offense of wrong conduct. And if you were previously a barber, you shouldn’t carry the barber equipment around. If you do, you commit an offense of wrong conduct.”
 
-168When the Buddha had stayed at Ātumā for as long as he liked, he set out wandering toward Sāvatthī. When he eventually arrived, he stayed in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time in Sāvatthī there was much fruit. The monks thought: “Which fruits has the Buddha allowed and which not?” They told the Buddha.
+168When the Buddha had stayed at Ātumā for as long as he liked, he set out wandering toward Sāvatthī. When he eventually arrived, he stayed in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time in Sāvatthī there was much fruit. The bhikkhus thought: “Which fruits has the Buddha allowed and which not?” They told the Buddha.
 
 “I allow all fruits.”
 
@@ -1664,11 +1664,11 @@ The Buddha then said to him:
 > ```
 
 
-170At that time the monks were anxious about all sorts of matters, thinking: “What has the Buddha allowed and what hasn’t he allowed?” They told the Buddha.
+170At that time the bhikkhus were anxious about all sorts of matters, thinking: “What has the Buddha allowed and what hasn’t he allowed?” They told the Buddha.
 
 “If I haven’t specifically prohibited something, then it’s unallowable to you if it’s similar to what’s unallowable and opposed to what’s allowable. If I haven’t specifically prohibited something, then it’s allowable to you if it’s similar to what’s allowable and opposed to what’s unallowable. If I haven’t specifically allowed something, then it’s unallowable to you if it’s similar to what’s unallowable and opposed to what’s allowable. If I haven’t specifically allowed something, then it’s allowable to you if it’s similar to what’s allowable and opposed to what’s unallowable.”
 
-171Then the monks thought: “Are post-midday tonics mixed with ordinary food allowable or unallowable? Are seven-day tonics mixed with ordinary food allowable or unallowable? Are lifetime tonics mixed with ordinary food allowable or unallowable? Are seven-day tonics mixed with post-midday tonics allowable or unallowable? Are lifetime tonics mixed with post-midday tonics allowable or unallowable? Are lifetime tonics mixed with seven-day tonics allowable or unallowable?” They told the Buddha.
+171Then the bhikkhus thought: “Are post-midday tonics mixed with ordinary food allowable or unallowable? Are seven-day tonics mixed with ordinary food allowable or unallowable? Are lifetime tonics mixed with ordinary food allowable or unallowable? Are seven-day tonics mixed with post-midday tonics allowable or unallowable? Are lifetime tonics mixed with post-midday tonics allowable or unallowable? Are lifetime tonics mixed with seven-day tonics allowable or unallowable?” They told the Buddha.
 
 
 172“When mixed with ordinary food, post-midday tonics are allowable before midday on the day they are received, but not after midday. When mixed with ordinary food, seven-day tonics are allowable before midday on the day they are received, but not after midday. When mixed with ordinary food, lifetime tonics are allowable before midday on the day they are received, but not after midday. When mixed with post-midday tonics, seven-day tonics are allowable after midday on the day they are received, but not beyond dawn. When mixed with post-midday tonics, lifetime tonics are allowable after midday on the day they are received, but not beyond dawn. When mixed with seven-day tonics, lifetime tonics are allowable for seven days, but not beyond.”

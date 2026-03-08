@@ -68,7 +68,7 @@ vin_gender-corr: "BU-PJ2"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-PJ2 | [[BU-PJ2]] | Vin.4.211-4.222 |
 

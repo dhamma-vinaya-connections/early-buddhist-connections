@@ -11,7 +11,7 @@ language: "Pali"
 > ◄  [[thag20-pali-sc]] 📜  [[]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 ### Chapter 21: The Great Group of Verses
 
 ##### 21.1 Vaṅgīsattheragāthā

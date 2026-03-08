@@ -16,11 +16,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Suppose, mendicants, there was a cloth that was dirty and soiled. No matter what dye the dyer applied — whether yellow or red or magenta — it would look poorly dyed and impure in color. Why is that? Because of the impurity of the cloth.
+2“Suppose, bhikkhus, there was a cloth that was dirty and soiled. No matter what dye the dyer applied — whether yellow or red or magenta — it would look poorly dyed and impure in color. Why is that? Because of the impurity of the cloth.
 
 In the same way, when the mind is corrupt, a bad destiny is to be expected. Suppose there was a cloth that was pure and clean. No matter what dye the dyer applied — whether yellow or red or magenta — it would look well dyed and pure in color. Why is that? Because of the purity of the cloth.
 
@@ -30,7 +30,7 @@ In the same way, when the mind isn’t corrupt, a good destiny is to be expected
 3And what are the corruptions of the mind? Covetousness and immoral greed, ill will, anger, hostility, offensiveness, contempt, jealousy, stinginess, deceit, deviousness, obstinacy, aggression, conceit, arrogance, vanity, and negligence are corruptions of the mind.
 
 
-4-5A mendicant who understands that covetousness and immoral greed are corruptions of the mind gives them up. A mendicant who understands that ill will … negligence is a corruption of the mind gives it up.When they have understood these corruptions of the mind for what they are, and have given them up …
+4-5A bhikkhu who understands that covetousness and immoral greed are corruptions of the mind gives them up. A bhikkhu who understands that ill will … negligence is a corruption of the mind gives it up.When they have understood these corruptions of the mind for what they are, and have given them up …
 
 
 6 … they have experiential confidence in the Buddha: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’
@@ -40,10 +40,10 @@ They have experiential confidence in the teaching: ‘The teaching is well expla
 They have experiential confidence in the Saṅgha: ‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, straightforward, methodical, and proper. It consists of the four pairs, the eight individuals. This is the Saṅgha of the Buddha’s disciples that is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and is the supreme field of merit for the world.’
 
 
-7When a mendicant has discarded, eliminated, released, given up, and relinquished to this extent, thinking, ‘I have experiential confidence in the Buddha … the teaching … the Saṅgha,’ they find joy in the meaning and the teaching, and find joy connected with the teaching. Thinking: ‘I have discarded, eliminated, released, given up, and relinquished to this extent,’ they find joy in the meaning and the teaching, and find joy connected with the teaching. When they’re joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when they’re blissful, the mind becomes immersed in samādhi.
+7When a bhikkhu has discarded, eliminated, released, given up, and relinquished to this extent, thinking, ‘I have experiential confidence in the Buddha … the teaching … the Saṅgha,’ they find joy in the meaning and the teaching, and find joy connected with the teaching. Thinking: ‘I have discarded, eliminated, released, given up, and relinquished to this extent,’ they find joy in the meaning and the teaching, and find joy connected with the teaching. When they’re joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when they’re blissful, the mind becomes immersed in samādhi.
 
 
-8When a mendicant of such ethics, such qualities, and such wisdom eats boiled fine rice with the dark grains picked out and served with many soups and sauces, that is no obstacle for them. Compare with cloth that is dirty and soiled; it can be made pure and clean by pure water. Or unrefined gold, which can be made pure and bright by a forge. In the same way, when a mendicant of such ethics, such qualities, and such wisdom eats boiled fine rice with the dark grains picked out and served with many soups and sauces, that is no obstacle for them.
+8When a bhikkhu of such ethics, such qualities, and such wisdom eats boiled fine rice with the dark grains picked out and served with many soups and sauces, that is no obstacle for them. Compare with cloth that is dirty and soiled; it can be made pure and clean by pure water. Or unrefined gold, which can be made pure and bright by a forge. In the same way, when a bhikkhu of such ethics, such qualities, and such wisdom eats boiled fine rice with the dark grains picked out and served with many soups and sauces, that is no obstacle for them.
 
 
 9They meditate spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of compassion to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of compassion to the whole world — abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of rejoicing to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of rejoicing to the whole world — abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will.
@@ -53,7 +53,7 @@ They have experiential confidence in the Saṅgha: ‘The Saṅgha of the Buddha
 
 Knowing and seeing like this, their mind is freed from the defilements of sensuality, desire to be reborn, and ignorance. When they’re freed, they know they’re freed.
 
-They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’ This is called a mendicant who is bathed with the inner bathing.”
+They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’ This is called a bhikkhu who is bathed with the inner bathing.”
 
 
 11Now, at that time the brahmin Sundarika Bhāradvāja was sitting not far from the Buddha. He said to the Buddha: “But does Master Gotama go to the river Bāhuka to bathe?”
@@ -92,7 +92,7 @@ what’s the point of going to Gaya?
 For any well will be your Gaya!”
 
 
-16When he had spoken, the brahmin Sundarika Bhāradvāja said to the Buddha: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
+16When he had spoken, the brahmin Sundarika Bhāradvāja said to the Buddha: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
 
 And the brahmin Sundarika Bhāradvāja received the going forth, the ordination in the Buddha’s presence. Not long after his ordination, Venerable Bhāradvāja, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme end of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, without giving up six things you can’t become accomplished in view. What six? Identity view, doubt, misapprehension of precepts and observances, and forms of greed, hate, and delusion that lead to rebirth in places of loss. Without giving up these six things you can’t become accomplished in view.
+1“bhikkhus, without giving up six things you can’t become accomplished in view. What six? Identity view, doubt, misapprehension of precepts and observances, and forms of greed, hate, and delusion that lead to rebirth in places of loss. Without giving up these six things you can’t become accomplished in view.
 
 2After giving up six things you can become accomplished in view. What six? Identity view, doubt, misapprehension of precepts and observances, and forms of greed, hate, and delusion that lead to rebirth in places of loss. After giving up these six things you can become accomplished in view.”
 

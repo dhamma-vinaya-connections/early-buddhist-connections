@@ -22,13 +22,13 @@ When this was said, the Venerable Citta Hatthisāriputta’s bhikkhu friends sai
 
 \[The Venerable Mahākoṭṭhita said:\] “It’s difficult, friends, for those who don’t know the course of another’s mind to know this.
 
-(1) “Here, friends, some person appears to be extremely mild, humble, and calm so long as he is staying near the Teacher or a fellow monk in the position of a teacher. But when he leaves the Teacher and fellow monks in the position of a teacher, he bonds with \[other\] bhikkhus, bhikkhunīs, male and female lay followers, kings and royal ministers, sectarian teachers and the disciples of sectarian teachers. As he bonds with them and becomes intimate with them, as he loosens up and talks with them, lust invades his mind. With his mind invaded by lust, he gives up the training and reverts to the lower life.
+(1) “Here, friends, some person appears to be extremely mild, humble, and calm so long as he is staying near the Teacher or a fellow monk in the position of a teacher. But when he leaves the Teacher and fellow bhikkhus in the position of a teacher, he bonds with \[other\] bhikkhus, bhikkhunīs, male and female lay followers, kings and royal ministers, sectarian teachers and the disciples of sectarian teachers. As he bonds with them and becomes intimate with them, as he loosens up and talks with them, lust invades his mind. With his mind invaded by lust, he gives up the training and reverts to the lower life.
 
 “Suppose a crop-eating bull was bound by a rope or shut up in a pen. Could one rightly say: ‘Now this crop-eating bull will never again enter among the crops’?”
 
 “Certainly not, friend. For it is possible that this crop-eating bull will break the rope or burst out of the pen and again enter among the crops.”
 
-“So too, some \[394\] person here is extremely mild…. But when he leaves the Teacher and fellow monks in the position of a teacher, he bonds with \[other\] bhikkhus … he gives up the training and reverts to the lower life.
+“So too, some \[394\] person here is extremely mild…. But when he leaves the Teacher and fellow bhikkhus in the position of a teacher, he bonds with \[other\] bhikkhus … he gives up the training and reverts to the lower life.
 
 (2) “Then, friends, secluded from sensual pleasures … some person enters and dwells in the first jhāna. \[Thinking,\] ‘I am one who gains the first jhāna,’ he bonds with \[other\] bhikkhus, bhikkhunīs, male and female lay followers, kings and royal ministers, sectarian teachers and their disciples. As he bonds with them and becomes intimate with them, as he loosens up and talks with them, lust invades his mind. With his mind invaded by lust, he gives up the training and reverts to the lower life.
 

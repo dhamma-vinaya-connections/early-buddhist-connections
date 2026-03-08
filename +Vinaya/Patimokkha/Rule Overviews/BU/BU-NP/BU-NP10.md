@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-NP20"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP9]] 🌐 [[BU-NP11]] ►
 
-# Monks - Nissaggiya Pacittiya - Relinquish with confession
+# bhikkhus - Nissaggiya Pacittiya - Relinquish with confession
 ## Kathinavagga - Robes
 ## BU-NP10 - Rāja - Robe Fund Excessive Prompting
 
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-NP20"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-NP10 | [[BNI-NP20]] | Vin.3.1–3.40 |
 

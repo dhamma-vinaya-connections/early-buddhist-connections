@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants when he arrived at a town of the Kālāmas named Kesamutta. The Kālāmas of Kesamutta heard:
+1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of bhikkhus when he arrived at a town of the Kālāmas named Kesamutta. The Kālāmas of Kesamutta heard:
 
 “It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — has arrived at Kesamutta. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha …’ It’s good to see such perfected ones.”
 
@@ -146,7 +146,7 @@ They meditate spreading a heart full of equanimity to one direction, and to the 
 48-52“That’s so true, Blessed One! That’s so true, Holy One! When that noble disciple has a mind that’s free of enmity and ill will, undefiled and purified, they’ve won these four consolations in the present life. …
 
 
-53Excellent, sir! Excellent! … We go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember us as lay followers who have gone for refuge for life.”
+53Excellent, sir! Excellent! … We go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember us as lay followers who have gone for refuge for life.”
 
 #### Pali
 

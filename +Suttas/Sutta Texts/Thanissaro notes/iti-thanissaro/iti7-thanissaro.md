@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 7
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, one who has not fully known & fully understood the All,[1](#^iti7note01) whose mind has not been cleansed of passion for it, has not abandoned it, is incapable of putting an end to stress. But one who has fully known & fully understood the All, whose mind has been cleansed of passion for it and has abandoned it, is capable of putting an end to stress.” ^iti7note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, one who has not fully known & fully understood the All,[1](#^iti7note01) whose mind has not been cleansed of passion for it, has not abandoned it, is incapable of putting an end to stress. But one who has fully known & fully understood the All, whose mind has been cleansed of passion for it and has abandoned it, is capable of putting an end to stress.” ^iti7note01-ref
 
 Knowing the All
 

@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 11: The Group of Eleven Verses
 
@@ -37,11 +37,11 @@ based on dispassion for the body.
 
 600Not protected by others,  
 nor protecting others:  
-such a monk sleeps at ease,  
+such a bhikkhu sleeps at ease,  
 without concern for sensual pleasures.
 
 601The water’s clear and the rocks are broad,  
-monkeys and deer are all around;  
+bhikkhueys and deer are all around;  
 festooned with dewy moss,  
 these rocky crags delight me!
 

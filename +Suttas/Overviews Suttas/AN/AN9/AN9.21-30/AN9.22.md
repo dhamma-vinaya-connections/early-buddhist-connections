@@ -47,7 +47,7 @@ parallels_partilal: "[[AN3.140]], [[SA-2.143]], [[SA917]], [[AN3.141]], [[SA-2.1
 > Nine kinds of horses are compared with nine kinds of monks
 
 > [!info] Key Excerpts 
-> A mendicant truly understands 4 noble truths, one with the ending of the five lower fetters, and Arahant can answers questions of dhamma, and receive requisites
+> A bhikkhu truly understands 4 noble truths, one with the ending of the five lower fetters, and Arahant can answers questions of dhamma, and receive requisites
 > 
 > This is how a fine thoroughbred person is fast, beautiful, and well proportioned
 > 

@@ -47,7 +47,7 @@ parallels_partilal: "[[EA19.4]]"
 > Arise in the world for the welfare and happiness of the people
 
 > [!info] Key Excerpts 
-> Fully awakened Buddha ; and the wheel-turning monarch, Buddha  awakened for themselves, mendicant who has ended defilements
+> Fully awakened Buddha ; and the wheel-turning monarch, Buddha  awakened for themselves, bhikkhu who has ended defilements
 > 
 > Whose death is regretted by many people
 > 

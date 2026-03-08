@@ -99,39 +99,39 @@ When the Buddha had spoken, Vassakāra said to him: “Master Gotama, if the Vaj
 
 “Please, brahmin, go at your convenience.” Then Vassakāra the brahmin, having approved and agreed with what the Buddha said, got up from his seat and left.
 
-#### 3. Principles That Prevent Decline Among the Mendicants
+#### 3. Principles That Prevent Decline Among the bhikkhus
 
-6Soon after he had left, the Buddha said to Ānanda: “Go, Ānanda, gather all the mendicants staying in the vicinity of Rājagaha together in the assembly hall.”
-
-
-“Yes, sir,” replied Ānanda. He did what the Buddha asked. Then he went back, bowed, stood to one side, and said to him: “Sir, the mendicant Saṅgha has assembled. Please, sir, go at your convenience.”
+6Soon after he had left, the Buddha said to Ānanda: “Go, Ānanda, gather all the bhikkhus staying in the vicinity of Rājagaha together in the assembly hall.”
 
 
-Then the Buddha went to the assembly hall, where he sat on the seat spread out and addressed the mendicants: “Mendicants, I will teach you these seven principles that prevent decline. Listen and pay close attention, I will speak.”
+“Yes, sir,” replied Ānanda. He did what the Buddha asked. Then he went back, bowed, stood to one side, and said to him: “Sir, the bhikkhu Saṅgha has assembled. Please, sir, go at your convenience.”
+
+
+Then the Buddha went to the assembly hall, where he sat on the seat spread out and addressed the bhikkhus: “bhikkhus, I will teach you these seven principles that prevent decline. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
 
-“As long as the mendicants meet frequently and have many meetings, they can expect growth, not decline.
+“As long as the bhikkhus meet frequently and have many meetings, they can expect growth, not decline.
 
-As long as the mendicants meet in harmony, leave in harmony, and carry on their business in harmony, they can expect growth, not decline.
+As long as the bhikkhus meet in harmony, leave in harmony, and carry on their business in harmony, they can expect growth, not decline.
 
-As long as the mendicants don’t make new decrees or abolish existing decrees, but undertake and follow the training rules as they have been decreed, they can expect growth, not decline.
+As long as the bhikkhus don’t make new decrees or abolish existing decrees, but undertake and follow the training rules as they have been decreed, they can expect growth, not decline.
 
-As long as the mendicants honor, respect, esteem, and venerate the senior mendicants — of long standing, long gone forth, fathers and leaders of the Saṅgha — and think them worth listening to, they can expect growth, not decline.
+As long as the bhikkhus honor, respect, esteem, and venerate the senior bhikkhus — of long standing, long gone forth, fathers and leaders of the Saṅgha — and think them worth listening to, they can expect growth, not decline.
 
-As long as the mendicants don’t fall under the sway of arisen craving for future lives, they can expect growth, not decline.
+As long as the bhikkhus don’t fall under the sway of arisen craving for future lives, they can expect growth, not decline.
 
-As long as the mendicants take care to live in wilderness lodgings, they can expect growth, not decline.
+As long as the bhikkhus take care to live in wilderness lodgings, they can expect growth, not decline.
 
-As long as the mendicants individually establish mindfulness, so that more good-hearted spiritual companions might come, and those that have already come may live comfortably, they can expect growth, not decline.
+As long as the bhikkhus individually establish mindfulness, so that more good-hearted spiritual companions might come, and those that have already come may live comfortably, they can expect growth, not decline.
 
-As long as these seven principles that prevent decline last among the mendicants, and as long as the mendicants are seen following them, they can expect growth, not decline.
+As long as these seven principles that prevent decline last among the bhikkhus, and as long as the bhikkhus are seen following them, they can expect growth, not decline.
 
 
 7I will teach you seven more principles that prevent decline. …
 
-As long as the mendicants don’t relish work, loving it and liking to relish it, they can expect growth, not decline.
+As long as the bhikkhus don’t relish work, loving it and liking to relish it, they can expect growth, not decline.
 
 As long as they don’t enjoy talk …
 
@@ -145,56 +145,56 @@ As long as they don’t enjoy talk …
 
 … they don’t stop half-way after achieving some insignificant distinction, they can expect growth, not decline.
 
-As long as these seven principles that prevent decline last among the mendicants, and as long as the mendicants are seen following them, they can expect growth, not decline.
+As long as these seven principles that prevent decline last among the bhikkhus, and as long as the bhikkhus are seen following them, they can expect growth, not decline.
 
 
-8I will teach you seven more principles that prevent decline. … As long as the mendicants are faithful … conscientious … prudent … learned … energetic … mindful … wise, they can expect growth, not decline. As long as these seven principles that prevent decline last among the mendicants, and as long as the mendicants are seen following them, they can expect growth, not decline.
+8I will teach you seven more principles that prevent decline. … As long as the bhikkhus are faithful … conscientious … prudent … learned … energetic … mindful … wise, they can expect growth, not decline. As long as these seven principles that prevent decline last among the bhikkhus, and as long as the bhikkhus are seen following them, they can expect growth, not decline.
 
 
 9I will teach you seven more principles that prevent decline. …
 
-As long as the mendicants develop the awakening factors of mindfulness … investigation of principles … energy … rapture … tranquility … immersion … equanimity, they can expect growth, not decline.
+As long as the bhikkhus develop the awakening factors of mindfulness … investigation of principles … energy … rapture … tranquility … immersion … equanimity, they can expect growth, not decline.
 
-As long as these seven principles that prevent decline last among the mendicants, and as long as the mendicants are seen following them, they can expect growth, not decline.
+As long as these seven principles that prevent decline last among the bhikkhus, and as long as the bhikkhus are seen following them, they can expect growth, not decline.
 
 
 10I will teach you seven more principles that prevent decline. …
 
-As long as the mendicants develop the perceptions of impermanence … not-self … ugliness … drawbacks … giving up … fading away … cessation, they can expect growth, not decline.
+As long as the bhikkhus develop the perceptions of impermanence … not-self … ugliness … drawbacks … giving up … fading away … cessation, they can expect growth, not decline.
 
-As long as these seven principles that prevent decline last among the mendicants, and as long as the mendicants are seen following them, they can expect growth, not decline.
+As long as these seven principles that prevent decline last among the bhikkhus, and as long as the bhikkhus are seen following them, they can expect growth, not decline.
 
 
 11I will teach you six principles that prevent decline. …
 
 
-As long as the mendicants consistently treat their spiritual companions with bodily kindness … verbal kindness … and mental kindness both in public and in private, they can expect growth, not decline.
+As long as the bhikkhus consistently treat their spiritual companions with bodily kindness … verbal kindness … and mental kindness both in public and in private, they can expect growth, not decline.
 
 
-As long as the mendicants share without reservation any material possessions they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions, they can expect growth, not decline.
+As long as the bhikkhus share without reservation any material possessions they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions, they can expect growth, not decline.
 
-As long as the mendicants live according to the precepts shared with their spiritual companions, both in public and in private — such precepts as are unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion — they can expect growth, not decline.
+As long as the bhikkhus live according to the precepts shared with their spiritual companions, both in public and in private — such precepts as are unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion — they can expect growth, not decline.
 
-As long as the mendicants live according to the view shared with their spiritual companions, both in public and in private — the view that is noble and emancipating, and leads one who practices it to the complete end of suffering — they can expect growth, not decline.
+As long as the bhikkhus live according to the view shared with their spiritual companions, both in public and in private — the view that is noble and emancipating, and leads one who practices it to the complete end of suffering — they can expect growth, not decline.
 
-As long as these six principles that prevent decline last among the mendicants, and as long as the mendicants are seen following them, they can expect growth, not decline.”
+As long as these six principles that prevent decline last among the bhikkhus, and as long as the bhikkhus are seen following them, they can expect growth, not decline.”
 
 
-12And while staying there at the Vulture’s Peak the Buddha often gave this Dhamma talk to the mendicants: “Such is ethics, such is immersion, such is wisdom. When immersion is imbued with ethics it’s very fruitful and beneficial. When wisdom is imbued with immersion it’s very fruitful and beneficial. When the mind is imbued with wisdom it is rightly freed from the defilements, namely, the defilements of sensuality, desire to be reborn, and ignorance.”
+12And while staying there at the Vulture’s Peak the Buddha often gave this Dhamma talk to the bhikkhus: “Such is ethics, such is immersion, such is wisdom. When immersion is imbued with ethics it’s very fruitful and beneficial. When wisdom is imbued with immersion it’s very fruitful and beneficial. When the mind is imbued with wisdom it is rightly freed from the defilements, namely, the defilements of sensuality, desire to be reborn, and ignorance.”
 
 
 13When the Buddha had stayed in Rājagaha as long as he wished, he addressed Venerable Ānanda: “Come, Ānanda, let’s go to Ambalaṭṭhikā.”
 
-“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of mendicants arrived at Ambalaṭṭhikā, where he stayed in the royal rest-house.
+“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of bhikkhus arrived at Ambalaṭṭhikā, where he stayed in the royal rest-house.
 
-And while staying there, too, he often gave this Dhamma talk to the mendicants:
+And while staying there, too, he often gave this Dhamma talk to the bhikkhus:
 
 “Such is ethics, such is immersion, such is wisdom. When immersion is imbued with ethics it’s very fruitful and beneficial. When wisdom is imbued with immersion it’s very fruitful and beneficial. When the mind is imbued with wisdom it is rightly freed from the defilements, namely, the defilements of sensuality, desire to be reborn, and ignorance.”
 
 
 14When the Buddha had stayed in Ambalaṭṭhikā as long as he wished, he addressed Venerable Ānanda: “Come, Ānanda, let’s go to Nāḷandā.”
 
-“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of mendicants arrived at Nāḷandā, where he stayed in Pāvārika’s mango grove.
+“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of bhikkhus arrived at Nāḷandā, where he stayed in Pāvārika’s mango grove.
 
 #### 4. Sāriputta’s Lion’s Roar
 
@@ -228,7 +228,7 @@ Suppose there was a king’s frontier citadel with fortified embankments, rampar
 In the same way, I understand this by inference from the teaching: ‘All the perfected ones, fully awakened Buddhas — whether past, future, or present — give up the five hindrances, corruptions of the heart that weaken wisdom. Their mind is firmly established in the four kinds of mindfulness meditation. They correctly develop the seven awakening factors. And they wake up to the supreme perfect awakening.’”
 
 
-17And while staying at Nāḷandā, too, the Buddha often gave this Dhamma talk to the mendicants:
+17And while staying at Nāḷandā, too, the Buddha often gave this Dhamma talk to the bhikkhus:
 
 “Such is ethics, such is immersion, such is wisdom. When immersion is imbued with ethics it’s very fruitful and beneficial. When wisdom is imbued with immersion it’s very fruitful and beneficial. When the mind is imbued with wisdom it is rightly freed from the defilements, namely, the defilements of sensuality, desire to be reborn, and ignorance.”
 
@@ -237,13 +237,13 @@ In the same way, I understand this by inference from the teaching: ‘All the pe
 18When the Buddha had stayed in Nāḷandā as long as he wished, he addressed Venerable Ānanda: “Come, Ānanda, let’s go to Pāṭaligāma.”
 
 
-“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of mendicants arrived at Pāṭaligāma.
+“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of bhikkhus arrived at Pāṭaligāma.
 
 The lay followers of Pāṭaligāma heard that he had arrived. So they went to see him, bowed, sat down to one side, and said to him: “Sir, please consent to come to our guest house.” The Buddha consented in silence.
 
 Then, knowing that the Buddha had consented, the lay followers of Pāṭaligāma got up from their seat, bowed, and respectfully circled the Buddha, keeping him on their right. Then they went to the guest house, where they spread carpets all over, prepared seats, set up a water jar, and placed a lamp. Then they went back to the Buddha, bowed, stood to one side, and told him of their preparations, saying: “Please, sir, come at your convenience.”
 
-In the morning, the Buddha robed up and, taking his bowl and robe, went to the guest house together with the Saṅgha of mendicants. Having washed his feet he entered the guest house and sat against the central column facing east. The Saṅgha of mendicants also washed their feet, entered the guest house, and sat against the west wall facing east, with the Buddha right in front of them. The lay followers of Pāṭaligāma also washed their feet, entered the guest house, and sat against the east wall facing west, with the Buddha right in front of them.
+In the morning, the Buddha robed up and, taking his bowl and robe, went to the guest house together with the Saṅgha of bhikkhus. Having washed his feet he entered the guest house and sat against the central column facing east. The Saṅgha of bhikkhus also washed their feet, entered the guest house, and sat against the west wall facing east, with the Buddha right in front of them. The lay followers of Pāṭaligāma also washed their feet, entered the guest house, and sat against the east wall facing west, with the Buddha right in front of them.
 
 
 19Then the Buddha addressed them:
@@ -298,11 +298,11 @@ With clairvoyance that is purified and superhuman, the Buddha saw those deities 
 “It’s as if they were building the citadel in consultation with the gods of the Thirty-Three. With clairvoyance that is purified and superhuman, I saw those deities taking possession of building sites. Illustrious rulers or royal ministers inclined to build houses at sites possessed by illustrious deities. Middling rulers or royal ministers inclined to build houses at sites possessed by middling deities. Lesser rulers or royal ministers inclined to build houses at sites possessed by lesser deities. As far as the civilized region extends, as far as the trading zone extends, this will be the chief city: the Pāṭaliputta trade center. But Pāṭaliputta will face three threats: from fire, flood, and dissension.”
 
 
-23Then the Magadhan ministers Sunidha and Vassakāra approached the Buddha, and exchanged greetings with him. When the greetings and polite conversation were over, they stood to one side and said: “Would Master Gotama together with the mendicant Saṅgha please accept today’s meal from me?” The Buddha consented in silence.
+23Then the Magadhan ministers Sunidha and Vassakāra approached the Buddha, and exchanged greetings with him. When the greetings and polite conversation were over, they stood to one side and said: “Would Master Gotama together with the bhikkhu Saṅgha please accept today’s meal from me?” The Buddha consented in silence.
 
 Then, knowing that the Buddha had consented, they went to their own guest house, where they had a variety of delicious foods prepared. Then they had the Buddha informed of the time, saying: “It’s time, Master Gotama, the meal is ready.”
 
-Then the Buddha robed up in the morning and, taking his bowl and robe, went to their guest house together with the mendicant Saṅgha, where he sat on the seat spread out. Then Sunidha and Vassakāra served and satisfied the mendicant Saṅgha headed by the Buddha with their own hands with a variety of delicious foods.
+Then the Buddha robed up in the morning and, taking his bowl and robe, went to their guest house together with the bhikkhu Saṅgha, where he sat on the seat spread out. Then Sunidha and Vassakāra served and satisfied the bhikkhu Saṅgha headed by the Buddha with their own hands with a variety of delicious foods.
 
 When the Buddha had eaten and washed his hand and bowl, Sunidha and Vassakāra took a low seat and sat to one side.
 
@@ -333,7 +333,7 @@ Then the gate through which the Buddha departed was named the Gotama Gate.
 
 Then the Buddha came to the Ganges River.
 
-Now at that time the Ganges was full to the brim so a crow could drink from it. Wanting to cross from the near to the far shore, some people were seeking a boat, some a dinghy, while some were tying up a raft. But, as easily as a strong person would extend or contract their arm, the Buddha, together with the mendicant Saṅgha, vanished from the near shore and landed on the far shore.
+Now at that time the Ganges was full to the brim so a crow could drink from it. Wanting to cross from the near to the far shore, some people were seeking a boat, some a dinghy, while some were tying up a raft. But, as easily as a strong person would extend or contract their arm, the Buddha, together with the bhikkhu Saṅgha, vanished from the near shore and landed on the far shore.
 
 He saw all those people wanting to cross over.
 
@@ -349,11 +349,11 @@ intelligent people have crossed over.”
 
 25Then the Buddha said to Venerable Ānanda: “Come, Ānanda, let’s go to Koṭigāma.”
 
-“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of mendicants arrived at Koṭigāma, and stayed there.
+“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of bhikkhus arrived at Koṭigāma, and stayed there.
 
-There he addressed the mendicants:
+There he addressed the bhikkhus:
 
-“Mendicants, not understanding and not penetrating four noble truths, both you and I have wandered and transmigrated for such a very long time. What four? The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering. These noble truths of suffering, origin, cessation, and the path have been understood and comprehended. Craving for continued existence has been cut off; the attachment to continued existence is ended; now there are no more future lives.”
+“bhikkhus, not understanding and not penetrating four noble truths, both you and I have wandered and transmigrated for such a very long time. What four? The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering. These noble truths of suffering, origin, cessation, and the path have been understood and comprehended. Craving for continued existence has been cut off; the attachment to continued existence is ended; now there are no more future lives.”
 
 That is what the Buddha said. Then the Holy One, the Teacher, went on to say:
 
@@ -368,7 +368,7 @@ the attachment to rebirth is eradicated.
 The root of suffering is cut off,  
 now there are no more future lives.”
 
-And while staying at Koṭigāma, too, the Buddha often gave this Dhamma talk to the mendicants:
+And while staying at Koṭigāma, too, the Buddha often gave this Dhamma talk to the bhikkhus:
 
 “Such is ethics, such is immersion, such is wisdom. When immersion is imbued with ethics it’s very fruitful and beneficial. When wisdom is imbued with immersion it’s very fruitful and beneficial. When the mind is imbued with wisdom it is rightly freed from the defilements, namely, the defilements of sensuality, desire to be reborn, and ignorance.”
 
@@ -376,11 +376,11 @@ And while staying at Koṭigāma, too, the Buddha often gave this Dhamma talk to
 
 When the Buddha had stayed in Koṭigāma as long as he wished, he said to Ānanda: “Come, Ānanda, let’s go to Nādika.”
 
-“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of mendicants arrived at Nādika, where he stayed in the brick house.
+“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of bhikkhus arrived at Nādika, where he stayed in the brick house.
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and said to him:
 
-“Sir, the monk named Sāḷha has passed away in Nādika. Where has he been reborn in his next life?
+“Sir, the bhikkhu named Sāḷha has passed away in Nādika. Where has he been reborn in his next life?
 
 
 The nun named Nandā, the layman named Sudatta, and the laywoman named Sujātā have passed away in Nādika. Where have they been reborn in the next life?
@@ -388,7 +388,7 @@ The nun named Nandā, the layman named Sudatta, and the laywoman named Sujātā 
 The laymen named Kakkaṭa, Kaḷibha, Nikata, Kaṭissaha, Tuṭṭha, Santuṭṭha, Bhadda, and Subhadda have passed away in Nādika. Where have they been reborn in the next life?”
 
 
-27“Ānanda, the monk Sāḷha had realized the undefiled freedom of heart and freedom by wisdom in this very life, having realized it with his own insight due to the ending of defilements.
+27“Ānanda, the bhikkhu Sāḷha had realized the undefiled freedom of heart and freedom by wisdom in this very life, having realized it with his own insight due to the ending of defilements.
 
 The nun Nandā had ended the five lower fetters. She’s been reborn spontaneously, and will be extinguished there, not liable to return from that world.
 
@@ -436,25 +436,25 @@ And a noble disciple’s ethical conduct is loved by the noble ones, unbroken, i
 This is that mirror of the teaching.”
 
 
-And while staying there in Nādika the Buddha often gave this Dhamma talk to the mendicants: “Such is ethics, such is immersion, such is wisdom. When immersion is imbued with ethics it’s very fruitful and beneficial. When wisdom is imbued with immersion it’s very fruitful and beneficial. When the mind is imbued with wisdom it is rightly freed from the defilements, namely, the defilements of sensuality, desire to be reborn, and ignorance.”
+And while staying there in Nādika the Buddha often gave this Dhamma talk to the bhikkhus: “Such is ethics, such is immersion, such is wisdom. When immersion is imbued with ethics it’s very fruitful and beneficial. When wisdom is imbued with immersion it’s very fruitful and beneficial. When the mind is imbued with wisdom it is rightly freed from the defilements, namely, the defilements of sensuality, desire to be reborn, and ignorance.”
 
 
 30When the Buddha had stayed in Nādika as long as he wished, he addressed Venerable Ānanda: “Come, Ānanda, let’s go to Vesālī.”
 
-“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of mendicants arrived at Vesālī, where he stayed in Ambapālī’s mango grove.
+“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of bhikkhus arrived at Vesālī, where he stayed in Ambapālī’s mango grove.
 
-There the Buddha addressed the mendicants:
+There the Buddha addressed the bhikkhus:
 
 
-“Mendicants, a mendicant should live mindful and aware. This is my instruction to you.
+“bhikkhus, a bhikkhu should live mindful and aware. This is my instruction to you.
 
-And how is a mendicant mindful? It’s when a mendicant meditates by observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. That’s how a mendicant is mindful.
+And how is a bhikkhu mindful? It’s when a bhikkhu ![[Satipatthanas]]. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. That’s how a bhikkhu is mindful.
 
-And how is a mendicant aware?
+And how is a bhikkhu aware?
 
-It’s when a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent.
+It’s when a bhikkhu acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent.
 
-That’s how a mendicant is aware. A mendicant should live mindful and aware. This is my instruction to you.”
+That’s how a bhikkhu is aware. A bhikkhu should live mindful and aware. This is my instruction to you.”
 
 #### 11. Ambapālī the Courtesan
 
@@ -463,7 +463,7 @@ That’s how a mendicant is aware. A mendicant should live mindful and aware. Th
 She had the finest carriages harnessed. Then she mounted a fine carriage and, along with other fine carriages, set out from Vesālī for her own park. She went by carriage as far as the terrain allowed, then descended and approached the Buddha on foot. She bowed and sat down to one side. The Buddha educated, encouraged, fired up, and inspired her with a Dhamma talk.
 
 
-Then she said to the Buddha: “Sir, may the Buddha together with the mendicant Saṅgha please accept tomorrow’s meal from me.” The Buddha consented in silence.
+Then she said to the Buddha: “Sir, may the Buddha together with the bhikkhu Saṅgha please accept tomorrow’s meal from me.” The Buddha consented in silence.
 
 Then, knowing that the Buddha had consented, Ambapālī got up from her seat, bowed, and respectfully circled the Buddha, keeping him on her right, before leaving.
 
@@ -476,7 +476,7 @@ They had the finest carriages harnessed. Then they mounted a fine carriage and, 
 Then Ambapālī the courtesan collided with those Licchavi youths, axle to axle, wheel to wheel, yoke to yoke. The Licchavis said to her: “What the hell, Ambapālī, are you doing colliding with us axle to axle, wheel to wheel, yoke to yoke?”
 
 
-“Well, my lords, it’s because I’ve invited the Buddha for tomorrow’s meal together with the mendicant Saṅgha.”
+“Well, my lords, it’s because I’ve invited the Buddha for tomorrow’s meal together with the bhikkhu Saṅgha.”
 
 “Girl, give us that meal for a hundred thousand!”
 
@@ -487,12 +487,12 @@ Then the Licchavis snapped their fingers, saying: “We’ve been beaten by the 
 
 Then they continued on to Ambapālī’s grove.
 
-The Buddha saw them coming off in the distance, and addressed the mendicants: “Any of the mendicants who’ve never seen the gods of the Thirty-Three, just have a look at the assembly of Licchavis. See the assembly of Licchavis, check them out: they’re just like the Thirty-Three!”
+The Buddha saw them coming off in the distance, and addressed the bhikkhus: “Any of the bhikkhus who’ve never seen the gods of the Thirty-Three, just have a look at the assembly of Licchavis. See the assembly of Licchavis, check them out: they’re just like the Thirty-Three!”
 
 
 The Licchavis went by carriage as far as the terrain allowed, then descended and approached the Buddha on foot. They bowed to the Buddha, sat down to one side, and the Buddha educated, encouraged, fired up, and inspired them with a Dhamma talk.
 
-Then they said to the Buddha: “Sir, may the Buddha together with the mendicant Saṅgha please accept tomorrow’s meal from us.”
+Then they said to the Buddha: “Sir, may the Buddha together with the bhikkhu Saṅgha please accept tomorrow’s meal from us.”
 
 
 Then the Buddha said to the Licchavis: “I have already accepted tomorrow’s meal from Ambapālī the courtesan.”
@@ -504,9 +504,9 @@ And then those Licchavis approved and agreed with what the Buddha said. They got
 
 32And when the night had passed Ambapālī had a variety of delicious foods prepared in her own park. Then she had the Buddha informed of the time, saying: “Sir, it’s time. The meal is ready.”
 
-Then the Buddha robed up in the morning and, taking his bowl and robe, went to the home of Ambapālī together with the mendicant Saṅgha, where he sat on the seat spread out. Then Ambapālī served and satisfied the mendicant Saṅgha headed by the Buddha with her own hands with a variety of delicious foods.
+Then the Buddha robed up in the morning and, taking his bowl and robe, went to the home of Ambapālī together with the bhikkhu Saṅgha, where he sat on the seat spread out. Then Ambapālī served and satisfied the bhikkhu Saṅgha headed by the Buddha with her own hands with a variety of delicious foods.
 
-When the Buddha had eaten and washed his hands and bowl, Ambapālī took a low seat, sat to one side, and said to the Buddha: “Sir, I present this park to the mendicant Saṅgha headed by the Buddha.”
+When the Buddha had eaten and washed his hands and bowl, Ambapālī took a low seat, sat to one side, and said to the Buddha: “Sir, I present this park to the bhikkhu Saṅgha headed by the Buddha.”
 
 The Buddha accepted the park.
 
@@ -514,7 +514,7 @@ The Buddha accepted the park.
 Then the Buddha educated, encouraged, fired up, and inspired her with a Dhamma talk, after which he got up from his seat and left.
 
 
-And while staying at Vesālī, too, the Buddha often gave this Dhamma talk to the mendicants:
+And while staying at Vesālī, too, the Buddha often gave this Dhamma talk to the bhikkhus:
 
 “Such is ethics, such is immersion, such is wisdom. When immersion is imbued with ethics it’s very fruitful and beneficial. When wisdom is imbued with immersion it’s very fruitful and beneficial. When the mind is imbued with wisdom it is rightly freed from the defilements, namely, the defilements of sensuality, desire to be reborn, and ignorance.”
 
@@ -522,13 +522,13 @@ And while staying at Vesālī, too, the Buddha often gave this Dhamma talk to th
 
 33When the Buddha had stayed in Ambapālī’s grove as long as he wished, he addressed Venerable Ānanda: “Come, Ānanda, let’s go to the little village of Beluva.”
 
-“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of mendicants arrived at the little village of Beluva, and stayed there. There the Buddha addressed the mendicants:
+“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of bhikkhus arrived at the little village of Beluva, and stayed there. There the Buddha addressed the bhikkhus:
 
-“Mendicants, please enter the rainy season residence with whatever friends or acquaintances you have around Vesālī. I’ll commence the rainy season residence right here in the little village of Beluva.”
+“bhikkhus, please enter the rainy season residence with whatever friends or acquaintances you have around Vesālī. I’ll commence the rainy season residence right here in the little village of Beluva.”
 
-“Yes, sir,” those mendicants replied. They did as the Buddha said, while the Buddha commenced the rainy season residence right there in the little village of Beluva.
+“Yes, sir,” those bhikkhus replied. They did as the Buddha said, while the Buddha commenced the rainy season residence right there in the little village of Beluva.
 
-After the Buddha had commenced the rainy season residence, he fell severely ill, struck by dreadful pains, close to death. But he endured with mindfulness and situational awareness, without worrying. Then it occurred to the Buddha: “It would not be appropriate for me to become fully extinguished before informing my attendants and taking leave of the mendicant Saṅgha. Why don’t I forcefully suppress this illness, stabilize the life force, and live on?”
+After the Buddha had commenced the rainy season residence, he fell severely ill, struck by dreadful pains, close to death. But he endured with mindfulness and situational awareness, without worrying. Then it occurred to the Buddha: “It would not be appropriate for me to become fully extinguished before informing my attendants and taking leave of the bhikkhu Saṅgha. Why don’t I forcefully suppress this illness, stabilize the life force, and live on?”
 
 
 34So that is what he did. Then the Buddha’s illness died down.
@@ -538,12 +538,12 @@ Soon after the Buddha had recovered from that sickness, he came out from his dwe
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and said to him:
 
-“Sir, it’s fantastic that the Buddha is comfortable and well. Because when the Buddha was sick, my body felt like it was drugged. I was disorientated, and the teachings weren’t clear to me. Still, at least I was consoled by the thought that the Buddha won’t become fully extinguished without making some statement regarding the Saṅgha of mendicants.”
+“Sir, it’s fantastic that the Buddha is comfortable and well. Because when the Buddha was sick, my body felt like it was drugged. I was disorientated, and the teachings weren’t clear to me. Still, at least I was consoled by the thought that the Buddha won’t become fully extinguished without making some statement regarding the Saṅgha of bhikkhus.”
 
 
-35“But what could the mendicant Saṅgha expect from me, Ānanda? I’ve taught the Dhamma without making any distinction between secret and public teachings. The Realized One doesn’t have the closed fist of a teacher when it comes to the teachings.
+35“But what could the bhikkhu Saṅgha expect from me, Ānanda? I’ve taught the Dhamma without making any distinction between secret and public teachings. The Realized One doesn’t have the closed fist of a teacher when it comes to the teachings.
 
-If there’s anyone who thinks: ‘I’ll take charge of the Saṅgha of mendicants,’ or ‘the Saṅgha of mendicants is meant for me,’ let them make a statement regarding the Saṅgha. But the Realized One doesn’t think like this, so why should he make some statement regarding the Saṅgha?
+If there’s anyone who thinks: ‘I’ll take charge of the Saṅgha of bhikkhus,’ or ‘the Saṅgha of bhikkhus is meant for me,’ let them make a statement regarding the Saṅgha. But the Realized One doesn’t think like this, so why should he make some statement regarding the Saṅgha?
 
 I’m now old, elderly and senior. I’m advanced in years and have reached the final stage of life. I’m currently eighty years old. Just as a decrepit cart keeps going by relying on straps, in the same way, the Realized One’s body keeps going by relying on straps, or so you’d think.
 
@@ -551,14 +551,14 @@ Sometimes the Realized One, not focusing on any signs, and with the cessation of
 
 So Ānanda, be your own island, your own refuge, with no other refuge. Let the teaching be your island and your refuge, with no other refuge.
 
-And how does a mendicant do this?
+And how does a bhikkhu do this?
 
 
-It’s when a mendicant meditates by observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world.
+It’s when a bhikkhu ![[Satipatthanas]]. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world.
 
-That’s how a mendicant is their own island, their own refuge, with no other refuge. That’s how the teaching is their island and their refuge, with no other refuge.
+That’s how a bhikkhu is their own island, their own refuge, with no other refuge. That’s how the teaching is their island and their refuge, with no other refuge.
 
-Whether now or after I have passed, any who shall live as their own island, their own refuge, with no other refuge; with the teaching as their island and their refuge, with no other refuge — those mendicants of mine who want to train shall be among the best of the best.”
+Whether now or after I have passed, any who shall live as their own island, their own refuge, with no other refuge; with the teaching as their island and their refuge, with no other refuge — those bhikkhus of mine who want to train shall be among the best of the best.”
 
 #### 13. An Obvious Hint
 
@@ -596,10 +596,10 @@ Then the Buddha got up and said to Venerable Ānanda: “Go now, Ānanda, at you
 
 Sir, you once made this statement:
 
-‘Wicked One, I will not become fully extinguished until I have monk disciples who are competent, educated, assured, learned, have memorized the teachings, and practice in line with the teachings. Not until they practice properly, living in line with the teaching. Not until they’ve learned their tradition, and explain, teach, assert, establish, disclose, analyze, and make it clear. Not until they can legitimately and completely refute the doctrines of others that come up, and teach with a demonstrable basis.’
+‘Wicked One, I will not become fully extinguished until I have bhikkhu disciples who are competent, educated, assured, learned, have memorized the teachings, and practice in line with the teachings. Not until they practice properly, living in line with the teaching. Not until they’ve learned their tradition, and explain, teach, assert, establish, disclose, analyze, and make it clear. Not until they can legitimately and completely refute the doctrines of others that come up, and teach with a demonstrable basis.’
 
 
-Today you do have such monk disciples. May the Blessed One now become fully extinguished! May the Holy One now become fully extinguished! Now is the time for the Buddha to become fully extinguished.
+Today you do have such bhikkhu disciples. May the Blessed One now become fully extinguished! May the Holy One now become fully extinguished! Now is the time for the Buddha to become fully extinguished.
 
 
 Sir, you once made this statement:
@@ -736,7 +736,7 @@ These are the eight liberations.
 ‘Sir, may the Blessed One now become fully extinguished! May the Holy One now become fully extinguished! Now is the time for the Buddha to become fully extinguished.’ When he had spoken, I said to Māra:
 
 
-‘Wicked One, I will not become fully extinguished until I have monk disciples … nun disciples … layman disciples … laywoman disciples who are competent, educated, assured, learned.  
+‘Wicked One, I will not become fully extinguished until I have bhikkhu disciples … nun disciples … layman disciples … laywoman disciples who are competent, educated, assured, learned.  
   
 Not until my spiritual life is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans.’
 
@@ -804,14 +804,14 @@ Come, Ānanda, let’s go to the Great Wood, the hall with the peaked roof.”
 
 So the Buddha went with Ānanda to the hall with the peaked roof, and said to him:
 
-“Go, Ānanda, gather all the mendicants staying in the vicinity of Vesālī together in the assembly hall.”
+“Go, Ānanda, gather all the bhikkhus staying in the vicinity of Vesālī together in the assembly hall.”
 
-“Yes, sir,” replied Ānanda. He did what the Buddha asked, went up to him, bowed, stood to one side, and said to him: “Sir, the mendicant Saṅgha has assembled. Please, sir, go at your convenience.”
+“Yes, sir,” replied Ānanda. He did what the Buddha asked, went up to him, bowed, stood to one side, and said to him: “Sir, the bhikkhu Saṅgha has assembled. Please, sir, go at your convenience.”
 
 
-54Then the Buddha went to the assembly hall, where he sat on the seat spread out and addressed the mendicants:
+54Then the Buddha went to the assembly hall, where he sat on the seat spread out and addressed the bhikkhus:
 
-“So, mendicants, having carefully memorized those things I have taught you from my direct knowledge, you should cultivate, develop, and make much of them so that this spiritual practice may last for a long time.
+“So, bhikkhus, having carefully memorized those things I have taught you from my direct knowledge, you should cultivate, develop, and make much of them so that this spiritual practice may last for a long time.
 
 That would be for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans. And what are those things I have taught from my direct knowledge?
 
@@ -828,9 +828,9 @@ and the noble eightfold path.
 
 These are the things I have taught from my direct knowledge. Having carefully memorized them, you should cultivate, develop, and make much of them so that this spiritual practice may last for a long time. That would be for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”
 
-55Then the Buddha said to the mendicants:
+55Then the Buddha said to the bhikkhus:
 
-“Come now, mendicants, I say to you all: ‘Conditions fall apart. Persist with diligence.’ The final extinguishment of the Realized One will be soon. Three months from now the Realized One will finally be extinguished.”
+“Come now, bhikkhus, I say to you all: ‘Conditions fall apart. Persist with diligence.’ The final extinguishment of the Realized One will be soon. Three months from now the Realized One will finally be extinguished.”
 
 That is what the Buddha said. Then the Holy One, the Teacher, went on to say:
 
@@ -841,7 +841,7 @@ Having given it up, I’ll depart;
 I’ve made a refuge for myself.
 
 Diligent and mindful,  
-be of good virtues, mendicants!  
+be of good virtues, bhikkhus!  
 With well-settled thoughts,  
 take good care of your minds.
 
@@ -856,12 +856,12 @@ will make an end to suffering.”
 
 “Yes, sir,” Ānanda replied.
 
-Then the Buddha together with a large Saṅgha of mendicants arrived at Bhaṇḍagāma, and stayed there.
+Then the Buddha together with a large Saṅgha of bhikkhus arrived at Bhaṇḍagāma, and stayed there.
 
 
-There the Buddha addressed the mendicants:  
+There the Buddha addressed the bhikkhus:  
   
-“Mendicants, not understanding and not penetrating four things, both you and I have wandered and transmigrated for such a very long time.
+“bhikkhus, not understanding and not penetrating four things, both you and I have wandered and transmigrated for such a very long time.
 
 What four?
 
@@ -877,11 +877,11 @@ these things have been understood
 by Gotama the renowned.
 
 And so the Buddha, having insight,  
-explained this teaching to the mendicants.  
+explained this teaching to the bhikkhus.  
 The teacher made an end of suffering,  
 seeing clearly, he is extinguished.”
 
-And while staying there, too, he often gave this Dhamma talk to the mendicants:
+And while staying there, too, he often gave this Dhamma talk to the bhikkhus:
 
 “Such is ethics, such is immersion, such is wisdom. When immersion is imbued with ethics it’s very fruitful and beneficial. When wisdom is imbued with immersion it’s very fruitful and beneficial. When the mind is imbued with wisdom it is rightly freed from the defilements, namely, the defilements of sensuality, desire to be reborn, and ignorance.”
 
@@ -889,33 +889,33 @@ And while staying there, too, he often gave this Dhamma talk to the mendicants:
 
 57When the Buddha had stayed in Bhaṇḍagāma as long as he wished, he addressed Ānanda: “Come, Ānanda, let’s go to Hatthigāma.”… “Let’s go to Ambagāma.”… “Let’s go to Jambugāma.”… “Let’s go to Bhoganagara.”“Yes, sir,” Ānanda replied.
 
-Then the Buddha together with a large Saṅgha of mendicants arrived at Bhoganagara, where he stayed at the Ānanda shrine.
+Then the Buddha together with a large Saṅgha of bhikkhus arrived at Bhoganagara, where he stayed at the Ānanda shrine.
 
 
-There the Buddha addressed the mendicants: “Mendicants, I will teach you the four great references. Listen and pay close attention, I will speak.”
+There the Buddha addressed the bhikkhus: “bhikkhus, I will teach you the four great references. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
-58“Take a mendicant who says: ‘Reverend, I have heard and learned this in the presence of the Buddha: this is the teaching, this is the training, this is the Teacher’s instruction.’ You should neither approve nor dismiss that mendicant’s statement. Instead, you should carefully memorize those words and phrases, then check if they’re included in the discourses or found in the texts on monastic training.
+58“Take a bhikkhu who says: ‘Reverend, I have heard and learned this in the presence of the Buddha: this is the teaching, this is the training, this is the Teacher’s instruction.’ You should neither approve nor dismiss that bhikkhu’s statement. Instead, you should carefully memorize those words and phrases, then check if they’re included in the discourses or found in the texts on monastic training.
 
-If they’re not included in the discourses or found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is not the word of the Buddha. It has been incorrectly memorized by that mendicant.’ And so you should reject it. If they are included in the discourses or found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is the word of the Buddha. It has been correctly memorized by that mendicant.’ You should remember it. This is the first great reference.
+If they’re not included in the discourses or found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is not the word of the Buddha. It has been incorrectly memorized by that bhikkhu.’ And so you should reject it. If they are included in the discourses or found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is the word of the Buddha. It has been correctly memorized by that bhikkhu.’ You should remember it. This is the first great reference.
 
-Take another mendicant who says: ‘In such-and-such monastery lives a Saṅgha with seniors and leaders. I’ve heard and learned this in the presence of that Saṅgha: this is the teaching, this is the training, this is the Teacher’s instruction.’ You should neither approve nor dismiss that mendicant’s statement. Instead, you should carefully memorize those words and phrases, then check if they’re included in the discourses or found in the texts on monastic training.
+Take another bhikkhu who says: ‘In such-and-such monastery lives a Saṅgha with seniors and leaders. I’ve heard and learned this in the presence of that Saṅgha: this is the teaching, this is the training, this is the Teacher’s instruction.’ You should neither approve nor dismiss that bhikkhu’s statement. Instead, you should carefully memorize those words and phrases, then check if they’re included in the discourses or found in the texts on monastic training.
 
 If they’re not included in the discourses or found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is not the word of the Buddha. It has been incorrectly memorized by that Saṅgha.’ And so you should reject it. If they are included in the discourses or found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is the word of the Buddha. It has been correctly memorized by that Saṅgha.’ You should remember it. This is the second great reference.
 
-Take another mendicant who says: ‘In such-and-such monastery there are several senior mendicants who are very learned, knowledgeable in the scriptures, who have memorized the teachings, the texts on monastic training, and the outlines. I’ve heard and learned this in the presence of those senior mendicants: this is the teaching, this is the training, this is the Teacher’s instruction.’ You should neither approve nor dismiss that mendicant’s statement. Instead, you should carefully memorize those words and phrases, then check if they’re included in the discourses or found in the texts on monastic training.
+Take another bhikkhu who says: ‘In such-and-such monastery there are several senior bhikkhus who are very learned, knowledgeable in the scriptures, who have memorized the teachings, the texts on monastic training, and the outlines. I’ve heard and learned this in the presence of those senior bhikkhus: this is the teaching, this is the training, this is the Teacher’s instruction.’ You should neither approve nor dismiss that bhikkhu’s statement. Instead, you should carefully memorize those words and phrases, then check if they’re included in the discourses or found in the texts on monastic training.
 
-If they’re not included in the discourses or found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is not the word of the Buddha. It has not been correctly memorized by those senior mendicants.’ And so you should reject it. If they are included in the discourses and found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is the word of the Buddha. It has been correctly memorized by those senior mendicants.’ You should remember it. This is the third great reference.
+If they’re not included in the discourses or found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is not the word of the Buddha. It has not been correctly memorized by those senior bhikkhus.’ And so you should reject it. If they are included in the discourses and found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is the word of the Buddha. It has been correctly memorized by those senior bhikkhus.’ You should remember it. This is the third great reference.
 
-Take another mendicant who says: ‘In such-and-such monastery there is a single senior mendicant who is very learned and knowledgeable in the scriptures, who has memorized the teachings, the texts on monastic training, and the outlines. I’ve heard and learned this in the presence of that senior mendicant: this is the teaching, this is the training, this is the Teacher’s instruction.’ You should neither approve nor dismiss that mendicant’s statement. Instead, you should carefully memorize those words and phrases, then check if they’re included in the discourses or found in the texts on monastic training.
+Take another bhikkhu who says: ‘In such-and-such monastery there is a single senior bhikkhu who is very learned and knowledgeable in the scriptures, who has memorized the teachings, the texts on monastic training, and the outlines. I’ve heard and learned this in the presence of that senior bhikkhu: this is the teaching, this is the training, this is the Teacher’s instruction.’ You should neither approve nor dismiss that bhikkhu’s statement. Instead, you should carefully memorize those words and phrases, then check if they’re included in the discourses or found in the texts on monastic training.
 
-If they’re not included in the discourses or found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is not the word of the Buddha. It has been incorrectly memorized by that senior mendicant.’ And so you should reject it. If they are included in the discourses and found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is the word of the Buddha. It has been correctly memorized by that senior mendicant.’ You should remember it. This is the fourth great reference.
+If they’re not included in the discourses or found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is not the word of the Buddha. It has been incorrectly memorized by that senior bhikkhu.’ And so you should reject it. If they are included in the discourses and found in the texts on monastic training, you should draw the conclusion: ‘Clearly this is the word of the Buddha. It has been correctly memorized by that senior bhikkhu.’ You should remember it. This is the fourth great reference.
 
 
 These are the four great references. You should remember them.”
 
-And while staying at the Ānanda shrine, too, the Buddha often gave this Dhamma talk to the mendicants:
+And while staying at the Ānanda shrine, too, the Buddha often gave this Dhamma talk to the bhikkhus:
 
 “Such is ethics, such is immersion, such is wisdom. When immersion is imbued with ethics it’s very fruitful and beneficial. When wisdom is imbued with immersion it’s very fruitful and beneficial. When the mind is imbued with wisdom it is rightly freed from the defilements, namely, the defilements of sensuality, desire to be reborn, and ignorance.”
 
@@ -923,16 +923,16 @@ And while staying at the Ānanda shrine, too, the Buddha often gave this Dhamma 
 
 59When the Buddha had stayed in Bhoganagara as long as he wished, he addressed Ānanda: “Come, Ānanda, let’s go to Pāvā.”
 
-“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of mendicants arrived at Pāvā, where he stayed in Cunda the smith’s mango grove.
+“Yes, sir,” Ānanda replied. Then the Buddha together with a large Saṅgha of bhikkhus arrived at Pāvā, where he stayed in Cunda the smith’s mango grove.
 
-Cunda heard that the Buddha had arrived and was staying in his mango grove. Then he went to the Buddha, bowed, and sat down to one side. The Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk. Then Cunda said to the Buddha: “Sir, may the Buddha together with the mendicant Saṅgha please accept tomorrow’s meal from me.”
+Cunda heard that the Buddha had arrived and was staying in his mango grove. Then he went to the Buddha, bowed, and sat down to one side. The Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk. Then Cunda said to the Buddha: “Sir, may the Buddha together with the bhikkhu Saṅgha please accept tomorrow’s meal from me.”
 
 
 The Buddha consented in silence. Then, knowing that the Buddha had consented, Cunda got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 
 And when the night had passed Cunda had a variety of delicious foods prepared in his own home, and plenty of pork on the turn. Then he had the Buddha informed of the time, saying: “Sir, it’s time. The meal is ready.”
 
-Then the Buddha robed up in the morning and, taking his bowl and robe, went to the home of Cunda together with the mendicant Saṅgha, where he sat on the seat spread out and addressed Cunda: “Cunda, please serve me with the pork on the turn that you’ve prepared. And serve the mendicant Saṅgha with the other foods.”
+Then the Buddha robed up in the morning and, taking his bowl and robe, went to the home of Cunda together with the bhikkhu Saṅgha, where he sat on the seat spread out and addressed Cunda: “Cunda, please serve me with the pork on the turn that you’ve prepared. And serve the bhikkhu Saṅgha with the other foods.”
 
 
 “Yes, sir,” replied Cunda, and did as he was asked.
@@ -1052,7 +1052,7 @@ Now at that time I came out of the threshing-hut and was walking meditation in t
 
 When he said this, Pukkusa said to him: “Any confidence I had in Āḷāra Kālāma I sweep away as in a strong wind, or float away as down a swift stream. Excellent, sir!
 
-Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
+Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
 
 Then Pukkusa addressed a certain man: “Please, my man, fetch a pair of ready to wear polished golden garments.”
 
@@ -1089,7 +1089,7 @@ was presented by Pukkusa;
 when the teacher was clothed with them,  
 his golden skin glowed bright.
 
-66Then the Buddha together with a large Saṅgha of mendicants went to the Kakutthā River. He plunged into the river and bathed and drank. And when he had emerged, he went to the mango grove, where he addressed Venerable Cundaka: “Please, Cundaka, fold my outer robe in four and spread it out for me. I am tired and will lie down.”
+66Then the Buddha together with a large Saṅgha of bhikkhus went to the Kakutthā River. He plunged into the river and bathed and drank. And when he had emerged, he went to the mango grove, where he addressed Venerable Cundaka: “Please, Cundaka, fold my outer robe in four and spread it out for me. I am tired and will lie down.”
 
 “Yes, sir,” replied Cundaka, and did as he was asked. And then the Buddha laid down in the lion’s posture — on the right side, placing one foot on top of the other — mindful and aware, and focused on the time of getting up. But Cundaka sat down right there in front of the Buddha.
 
@@ -1099,11 +1099,11 @@ the Teacher, being tired, plunged in,
 the Realized One, without compare in the world.
 
 And after bathing and drinking the Teacher emerged.  
-Before the group of mendicants, in the middle, the Buddha,  
+Before the group of bhikkhus, in the middle, the Buddha,  
 the Teacher who rolled forth the present dispensation,  
 the great hermit went to the mango grove.
 
-He addressed the mendicant named Cundaka:  
+He addressed the bhikkhu named Cundaka:  
 “Spread out my folded robe so I can lie down.”  
 The self-developed one urged Cunda,  
 who quickly spread the folded robe.  
@@ -1144,17 +1144,17 @@ with the end of greed, hate, and delusion, they’re extinguished.”
 Now at that time the twin sal trees were in full blossom with flowers out of season. They sprinkled and bestrewed the Realized One’s body in honor of the Realized One. And the flowers of the heavenly Flame Tree fell from the sky, and they too sprinkled and bestrewed the Realized One’s body in honor of the Realized One. And heavenly sandalwood powder fell from the sky, and it too sprinkled and bestrewed the Realized One’s body in honor of the Realized One. And heavenly music played in the sky in honor of the Realized One. And heavenly choirs sang in the sky in honor of the Realized One.
 
 
-69Then the Buddha pointed out to Ānanda what was happening, adding: “That’s not how the Realized One is honored, respected, revered, venerated, and esteemed. Any monk or nun or male or female lay follower who practices in line with the teachings, practicing properly, living in line with the teachings — they honor, respect, revere, venerate, and esteem the Realized One with the highest honor. So Ānanda, you should train like this: ‘We shall practice in line with the teachings, practicing properly, living in line with the teaching.’
+69Then the Buddha pointed out to Ānanda what was happening, adding: “That’s not how the Realized One is honored, respected, revered, venerated, and esteemed. Any bhikkhu or nun or male or female lay follower who practices in line with the teachings, practicing properly, living in line with the teachings — they honor, respect, revere, venerate, and esteem the Realized One with the highest honor. So Ānanda, you should train like this: ‘We shall practice in line with the teachings, practicing properly, living in line with the teaching.’
 
-#### 27. The Monk Upavāṇa
+#### 27. The bhikkhu Upavāṇa
 
-70Now at that time Venerable Upavāṇa was standing in front of the Buddha fanning him. Then the Buddha made him move: “Move over, mendicant, don’t stand in front of me.”
+70Now at that time Venerable Upavāṇa was standing in front of the Buddha fanning him. Then the Buddha made him move: “Move over, bhikkhu, don’t stand in front of me.”
 
-Ānanda thought: “This Venerable Upavāṇa has been the Buddha’s attendant for a long time, close to him, living in his presence. Yet in his final hour the Buddha makes him move, saying: ‘Move over, mendicant, don’t stand in front of me.’ What is the cause, what is the reason for this?”
+Ānanda thought: “This Venerable Upavāṇa has been the Buddha’s attendant for a long time, close to him, living in his presence. Yet in his final hour the Buddha makes him move, saying: ‘Move over, bhikkhu, don’t stand in front of me.’ What is the cause, what is the reason for this?”
 
-Then Ānanda said to the Buddha: “This Venerable Upavāṇa has been the Buddha’s attendant for a long time, close to him, living in his presence. Yet in his final hour the Buddha makes him move, saying: ‘Move over, mendicant, don’t stand in front of me.’ What is the cause, sir, what is the reason for this?”
+Then Ānanda said to the Buddha: “This Venerable Upavāṇa has been the Buddha’s attendant for a long time, close to him, living in his presence. Yet in his final hour the Buddha makes him move, saying: ‘Move over, bhikkhu, don’t stand in front of me.’ What is the cause, sir, what is the reason for this?”
 
-“Most of the deities from ten solar systems have gathered to see the Realized One. For twelve leagues all around this sal grove there’s no spot, not even a fraction of a hair’s tip, that’s not crowded full of illustrious deities. The deities are complaining: ‘We’ve come such a long way to see the Realized One! Only rarely do Realized Ones arise in the world, perfected ones, fully awakened Buddhas. This very day, in the last watch of the night, the Realized One will become fully extinguished. And this illustrious mendicant is standing in front of the Buddha blocking the view. We won’t get to see the Realized One in his final hour!’”
+“Most of the deities from ten solar systems have gathered to see the Realized One. For twelve leagues all around this sal grove there’s no spot, not even a fraction of a hair’s tip, that’s not crowded full of illustrious deities. The deities are complaining: ‘We’ve come such a long way to see the Realized One! Only rarely do Realized Ones arise in the world, perfected ones, fully awakened Buddhas. This very day, in the last watch of the night, the Realized One will become fully extinguished. And this illustrious bhikkhu is standing in front of the Buddha blocking the view. We won’t get to see the Realized One in his final hour!’”
 
 
 71“But sir, what kind of deities are you thinking of?”
@@ -1165,7 +1165,7 @@ But the deities who are free of desire endure, mindful and aware, thinking: ‘C
 
 #### 28. The Four Inspiring Places
 
-72“Previously, sir, when mendicants had completed the rainy season residence in various districts they came to see the Realized One. We got to see the esteemed mendicants, and to pay homage to them. But when the Buddha has passed, we won’t get to see the esteemed mendicants or to pay homage to them.”
+72“Previously, sir, when bhikkhus had completed the rainy season residence in various districts they came to see the Realized One. We got to see the esteemed bhikkhus, and to pay homage to them. But when the Buddha has passed, we won’t get to see the esteemed bhikkhus or to pay homage to them.”
 
 “Ānanda, a faithful gentleman should go to see these four inspiring places. What four?
 
@@ -1180,7 +1180,7 @@ Thinking: ‘Here the Realized One became fully extinguished through the natural
 These are the four inspiring places that a faithful gentleman should go to see.
 
 
-Faithful monks, nuns, laymen, and laywomen will come, and think: ‘Here the Realized One was born!’ and ‘Here the Realized One became awakened as a supreme fully awakened Buddha!’ and ‘Here the supreme Wheel of Dhamma was rolled forth by the Realized One!’ and ‘Here the Realized One became fully extinguished through the natural principle of extinguishment, without anything left over!’ Anyone who passes away while on pilgrimage to these shrines will, when their body breaks up, after death, be reborn in a good place, a heavenly realm.”
+Faithful bhikkhus, nuns, laymen, and laywomen will come, and think: ‘Here the Realized One was born!’ and ‘Here the Realized One became awakened as a supreme fully awakened Buddha!’ and ‘Here the supreme Wheel of Dhamma was rolled forth by the Realized One!’ and ‘Here the Realized One became fully extinguished through the natural principle of extinguishment, without anything left over!’ Anyone who passes away while on pilgrimage to these shrines will, when their body breaks up, after death, be reborn in a good place, a heavenly realm.”
 
 #### 29. Ānanda’s Questions
 
@@ -1236,13 +1236,13 @@ These four are worthy of a monument.”
 77Then Venerable Ānanda entered a dwelling, and stood there leaning against the door-jamb and crying: “Oh! I’m still only a trainee with work left to do; and my Teacher’s about to become fully extinguished, he who is so kind to me!”
 
 
-Then the Buddha said to the mendicants: “Mendicants, where is Ānanda?”
+Then the Buddha said to the bhikkhus: “bhikkhus, where is Ānanda?”
 
 “Sir, Ānanda has entered a dwelling, and stands there leaning against the door-jamb and crying: ‘Oh! I’m still only a trainee with work left to do; and my Teacher’s about to become fully extinguished, he who is so kind to me!’”
 
-So the Buddha said to a certain monk: “Please, monk, in my name tell Ānanda that the teacher summons him.”
+So the Buddha said to a certain bhikkhu: “Please, bhikkhu, in my name tell Ānanda that the teacher summons him.”
 
-“Yes, sir,” that monk replied. He went to Ānanda and said to him:
+“Yes, sir,” that bhikkhu replied. He went to Ānanda and said to him:
 
 “Reverend Ānanda, the teacher summons you.”
 
@@ -1254,17 +1254,17 @@ So the Buddha said to a certain monk: “Please, monk, in my name tell Ānanda t
 For a long time, Ānanda, you’ve treated the Realized One with deeds of body, speech, and mind that are loving, beneficial, pleasant, whole-hearted, and limitless. You have done good deeds, Ānanda. Devote yourself to meditation, and you will soon be free of defilements.”
 
 
-78Then the Buddha said to the mendicants:
+78Then the Buddha said to the bhikkhus:
 
 “The Buddhas of the past or the future have attendants who are no better than Ānanda is for me.
 
-Ānanda is astute, he is intelligent. He knows the time for monks, nuns, laymen, laywomen, king’s ministers, religious founders, and the disciples of religious founders to visit the Realized One.
+Ānanda is astute, he is intelligent. He knows the time for bhikkhus, nuns, laymen, laywomen, king’s ministers, religious founders, and the disciples of religious founders to visit the Realized One.
 
 
 79There are these four incredible and amazing things about Ānanda. What four?
 
 
-If an assembly of monks goes to see Ānanda, they’re uplifted by seeing him and uplifted by hearing him speak. And when he falls silent, they’ve never had enough. If an assembly of nuns … laymen … or laywomen goes to see Ānanda, they’re uplifted by seeing him and uplifted by hearing him speak. And when he falls silent, they’ve never had enough. These are the four incredible and amazing things about Ānanda.
+If an assembly of bhikkhus goes to see Ānanda, they’re uplifted by seeing him and uplifted by hearing him speak. And when he falls silent, they’ve never had enough. If an assembly of nuns … laymen … or laywomen goes to see Ānanda, they’re uplifted by seeing him and uplifted by hearing him speak. And when he falls silent, they’ve never had enough. These are the four incredible and amazing things about Ānanda.
 
 
 There are these four incredible and amazing things about a wheel-turning monarch. What four?
@@ -1338,7 +1338,7 @@ In whatever teaching and training the noble eightfold path is found, there is a 
 
 In this teaching and training the noble eightfold path is found. Only here is there a true ascetic, here a second ascetic, here a third ascetic, and here a fourth ascetic. Other sects are empty of ascetics.
 
-Were these mendicants to practice well, the world would not be empty of perfected ones.
+Were these bhikkhus to practice well, the world would not be empty of perfected ones.
 
 I was twenty-nine years of age, Subaddha,  
 when I went forth to discover what is skilful.  
@@ -1347,13 +1347,13 @@ since I went forth.
 I am the one who points out the proper teaching:  
 Outside of here there is no true ascetic.
 
-Were these mendicants to practice well, the world would not be empty of perfected ones.”
+Were these bhikkhus to practice well, the world would not be empty of perfected ones.”
 
-85When he had spoken, Subhadda said to the Buddha: “Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
+85When he had spoken, Subhadda said to the Buddha: “Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
 
-“Subhadda, if someone formerly ordained in another sect wishes to take the going forth, the ordination in this teaching and training, they must spend four months on probation. When four months have passed, if the mendicants are satisfied, they’ll give the going forth, the ordination into monkhood. However, I have recognized individual differences in this matter.”
+“Subhadda, if someone formerly ordained in another sect wishes to take the going forth, the ordination in this teaching and training, they must spend four months on probation. When four months have passed, if the bhikkhus are satisfied, they’ll give the going forth, the ordination into bhikkhuhood. However, I have recognized individual differences in this matter.”
 
-“Sir, if four months probation are required in such a case, I’ll spend four years on probation. When four years have passed, if the mendicants are satisfied, let them give me the going forth, the ordination into monkhood.”
+“Sir, if four months probation are required in such a case, I’ll spend four years on probation. When four years have passed, if the bhikkhus are satisfied, let them give me the going forth, the ordination into bhikkhuhood.”
 
 Then the Buddha said to Ānanda: “Well then, Ānanda, give Subhadda the going forth.”
 
@@ -1377,35 +1377,35 @@ And Venerable Subhadda became one of the perfected. He was the last personal dis
 
 “Now, Ānanda, some of you might think: ‘The teacher’s dispensation has passed. Now we have no Teacher.’ But you should not see it like this. The teaching and training that I have taught and pointed out for you shall be your Teacher after my passing.
 
-After my passing, mendicants ought not address each other as ‘reverend’, as they do today. A more senior mendicant ought to address a more junior mendicant by name or clan, or by saying ‘reverend’. A more junior mendicant ought to address a more senior mendicant using ‘sir’ or ‘venerable’.
+After my passing, bhikkhus ought not address each other as ‘reverend’, as they do today. A more senior bhikkhu ought to address a more junior bhikkhu by name or clan, or by saying ‘reverend’. A more junior bhikkhu ought to address a more senior bhikkhu using ‘sir’ or ‘venerable’.
 
 If it wishes, after my passing the Saṅgha may abolish the lesser and minor training rules.
 
 
-After my passing, give the prime punishment to the mendicant Channa.”
+After my passing, give the prime punishment to the bhikkhu Channa.”
 
 “But sir, what is the prime punishment?”
 
-“Channa may say what he likes, but the mendicants should not advise or instruct him.”
+“Channa may say what he likes, but the bhikkhus should not advise or instruct him.”
 
-87Then the Buddha said to the mendicants: “Perhaps even a single mendicant has doubt or uncertainty regarding the Buddha, the teaching, the Saṅgha, the path, or the practice. So ask, mendicants! Don’t regret it later, thinking: ‘We were in the Teacher’s presence and we weren’t able to ask the Buddha a question.’”
+87Then the Buddha said to the bhikkhus: “Perhaps even a single bhikkhu has doubt or uncertainty regarding the Buddha, the teaching, the Saṅgha, the path, or the practice. So ask, bhikkhus! Don’t regret it later, thinking: ‘We were in the Teacher’s presence and we weren’t able to ask the Buddha a question.’”
 
-When this was said, the mendicants kept silent.
+When this was said, the bhikkhus kept silent.
 
-For a second time, and a third time the Buddha addressed the mendicants: “Perhaps even a single mendicant has doubt or uncertainty regarding the Buddha, the teaching, the Saṅgha, the path, or the practice. So ask, mendicants! Don’t regret it later, thinking: ‘We were in the Teacher’s presence and we weren’t able to ask the Buddha a question.’”
+For a second time, and a third time the Buddha addressed the bhikkhus: “Perhaps even a single bhikkhu has doubt or uncertainty regarding the Buddha, the teaching, the Saṅgha, the path, or the practice. So ask, bhikkhus! Don’t regret it later, thinking: ‘We were in the Teacher’s presence and we weren’t able to ask the Buddha a question.’”
 
-For a third time, the mendicants kept silent. Then the Buddha said to the mendicants,
+For a third time, the bhikkhus kept silent. Then the Buddha said to the bhikkhus,
 
-“Mendicants, perhaps you don’t ask out of respect for the Teacher. So let a friend tell a friend.”
+“bhikkhus, perhaps you don’t ask out of respect for the Teacher. So let a friend tell a friend.”
 
-When this was said, the mendicants kept silent.
+When this was said, the bhikkhus kept silent.
 
 
-Then Venerable Ānanda said to the Buddha: “It’s incredible, sir, it’s amazing! I am quite confident that there’s not even a single mendicant in this Saṅgha who has doubt or uncertainty regarding the Buddha, the teaching, the Saṅgha, the path, or the practice.”
+Then Venerable Ānanda said to the Buddha: “It’s incredible, sir, it’s amazing! I am quite confident that there’s not even a single bhikkhu in this Saṅgha who has doubt or uncertainty regarding the Buddha, the teaching, the Saṅgha, the path, or the practice.”
 
-“Ānanda, you speak from faith. But the Realized One knows that there’s not even a single mendicant in this Saṅgha who has doubt or uncertainty regarding the Buddha, the teaching, the Saṅgha, the path, or the practice. Even the last of these five hundred mendicants is a stream-enterer, not liable to be reborn in the underworld, bound for awakening.”
+“Ānanda, you speak from faith. But the Realized One knows that there’s not even a single bhikkhu in this Saṅgha who has doubt or uncertainty regarding the Buddha, the teaching, the Saṅgha, the path, or the practice. Even the last of these five hundred bhikkhus is a stream-enterer, not liable to be reborn in the underworld, bound for awakening.”
 
-88Then the Buddha said to the mendicants: “Come now, mendicants, I say to you all: ‘Conditions fall apart. Persist with diligence.’”
+88Then the Buddha said to the bhikkhus: “Come now, bhikkhus, I say to you all: ‘Conditions fall apart. Persist with diligence.’”
 
 These were the Realized One’s last words.
 
@@ -1457,9 +1457,9 @@ When the Buddha, endowed with all fine qualities,
 became fully extinguished.”
 
 
-94When the Buddha became fully extinguished, some of the mendicants there, with arms raised, falling down like their feet were chopped off, rolling back and forth, lamented: “Too soon the Blessed One has become fully extinguished! Too soon the Holy One has become fully extinguished! Too soon the seer has vanished from the world!” But the mendicants who were free of desire endured, mindful and aware, thinking: “Conditions are impermanent. How could it possibly be otherwise?”
+94When the Buddha became fully extinguished, some of the bhikkhus there, with arms raised, falling down like their feet were chopped off, rolling back and forth, lamented: “Too soon the Blessed One has become fully extinguished! Too soon the Holy One has become fully extinguished! Too soon the seer has vanished from the world!” But the bhikkhus who were free of desire endured, mindful and aware, thinking: “Conditions are impermanent. How could it possibly be otherwise?”
 
-95Then Anuruddha addressed the mendicants: “Enough, reverends, do not grieve or lament. Did the Buddha not prepare us for this when he explained that we must be parted and separated from all we hold dear and beloved? How could it possibly be so that what is born, created, conditioned, and liable to fall apart should not fall apart? The deities are complaining.”
+95Then Anuruddha addressed the bhikkhus: “Enough, reverends, do not grieve or lament. Did the Buddha not prepare us for this when he explained that we must be parted and separated from all we hold dear and beloved? How could it possibly be so that what is born, created, conditioned, and liable to fall apart should not fall apart? The deities are complaining.”
 
 “But sir, what kind of deities are you thinking of?”
 
@@ -1523,7 +1523,7 @@ So the Mallas wrapped the Buddha’s corpse, and placed it in an iron case fille
 
 #### 38. Mahākassapa’s Arrival
 
-101Now at that time Venerable Mahākassapa was traveling along the road from Pāvā to Kusinārā together with a large Saṅgha of around five hundred mendicants. Then he left the road and sat at the root of a tree.
+101Now at that time Venerable Mahākassapa was traveling along the road from Pāvā to Kusinārā together with a large Saṅgha of around five hundred bhikkhus. Then he left the road and sat at the root of a tree.
 
 Now at that time a certain _ājīvaka_ ascetic had picked up a Flame Tree flower in Kusinārā and was traveling along the road to Pāvā.
 
@@ -1531,14 +1531,14 @@ Mahākassapa saw him coming off in the distance and said to him: “Reverend, mi
 
 “Yes, reverend. Seven days ago the ascetic Gotama became fully extinguished. From there I picked up this Flame Tree flower.”
 
-Some of the mendicants there, with arms raised, falling down like their feet were chopped off, rolling back and forth, lamented: “Too soon the Blessed One has become fully extinguished! Too soon the Holy One has become fully extinguished! Too soon the seer has vanished from the world!”
+Some of the bhikkhus there, with arms raised, falling down like their feet were chopped off, rolling back and forth, lamented: “Too soon the Blessed One has become fully extinguished! Too soon the Holy One has become fully extinguished! Too soon the seer has vanished from the world!”
 
-But the mendicants who were free of desire endured, mindful and aware, thinking: “Conditions are impermanent. How could it possibly be otherwise?”
+But the bhikkhus who were free of desire endured, mindful and aware, thinking: “Conditions are impermanent. How could it possibly be otherwise?”
 
 
-102Now at that time a monk named Subhadda, who had gone forth when old, was sitting in that assembly. He said to those mendicants: “Enough, reverends, do not grieve or lament. We’re well rid of that Great Ascetic harassing us: ‘This is allowable for you; this is not allowable for you.’ Well, now we shall do what we want and not do what we don’t want.”
+102Now at that time a bhikkhu named Subhadda, who had gone forth when old, was sitting in that assembly. He said to those bhikkhus: “Enough, reverends, do not grieve or lament. We’re well rid of that Great Ascetic harassing us: ‘This is allowable for you; this is not allowable for you.’ Well, now we shall do what we want and not do what we don’t want.”
 
-Then Venerable Mahākassapa addressed the mendicants: “Enough, reverends, do not grieve or lament. Did the Buddha not prepare us for this when he explained that we must be parted and separated from all we hold dear and beloved? How could it possibly be so that what is born, created, conditioned, and liable to fall apart should not fall apart, even the Realized One’s body?”
+Then Venerable Mahākassapa addressed the bhikkhus: “Enough, reverends, do not grieve or lament. Did the Buddha not prepare us for this when he explained that we must be parted and separated from all we hold dear and beloved? How could it possibly be so that what is born, created, conditioned, and liable to fall apart should not fall apart, even the Realized One’s body?”
 
 103Now at that time four of the leading Mallas, having bathed their heads and dressed in unworn clothes, said: “We shall light the Buddha’s funeral pyre.” But they were unable to do so. The Mallas said to Anuruddha:
 
@@ -1548,17 +1548,17 @@ Then Venerable Mahākassapa addressed the mendicants: “Enough, reverends, do n
 
 “But sir, what is the deities’ plan?”
 
-“The deities’ plan is this: Venerable Mahākassapa is traveling along the road from Pāvā to Kusinārā together with a large Saṅgha of around five hundred mendicants. The Buddha’s funeral pyre shall not burn until he bows with his head at the Buddha’s feet.”
+“The deities’ plan is this: Venerable Mahākassapa is traveling along the road from Pāvā to Kusinārā together with a large Saṅgha of around five hundred bhikkhus. The Buddha’s funeral pyre shall not burn until he bows with his head at the Buddha’s feet.”
 
 “Sir, let it be as the deities plan.”
 
 
 104Then Venerable Mahākassapa came to the Mallian shrine named Makuṭabandhana at Kusinārā and approached the Buddha’s funeral pyre. Arranging his robe over one shoulder and raising his joined palms, he respectfully circled the Buddha three times, keeping him on his right, and bowed with his head to the Buddha’s feet.
 
-And the five hundred mendicants did likewise.
+And the five hundred bhikkhus did likewise.
 
 
-And when Mahākassapa and the five hundred mendicants bowed the Buddha’s funeral pyre burst into flames all by itself.
+And when Mahākassapa and the five hundred bhikkhus bowed the Buddha’s funeral pyre burst into flames all by itself.
 
 
 105And when the Buddha’s corpse was cremated no ash or soot was found from outer or inner skin, flesh, sinews, or synovial fluid. Only the relics remained. It’s like when ghee or oil blaze and burn, and neither ashes nor soot are found. In the same way, when the Buddha’s corpse was cremated no ash or soot was found from outer or inner skin, flesh, sinews, or synovial fluid. Only the relics remained. And of those five hundred pairs of garments only two were not burnt: the innermost and the outermost.

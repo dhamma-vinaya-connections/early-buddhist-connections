@@ -14,7 +14,7 @@ language: "English"
 
 > **Division:** III. FUTURE PERILS
 
-“Bhikkhus, these five things, when developed and cultivated, have liberation of mind as their fruit, liberation of mind as their fruit and benefit; they have liberation by wisdom as their fruit, liberation by wisdom as their fruit and benefit. What five? Here, a bhikkhu dwells contemplating the unattractiveness of the body, perceiving the repulsiveness of food, perceiving nondelight in the entire world, contemplating impermanence in all conditioned phenomena; and he has the perception of death well established internally. These five things, when developed and cultivated, have liberation of mind as their fruit, liberation of mind as their fruit and benefit; they have liberation by wisdom as their fruit, liberation by wisdom as their fruit and benefit.
+“Bhikkhus, these five things, when developed and cultivated, have liberation of mind as their fruit, liberation of mind as their fruit and benefit; they have liberation by wisdom as their fruit, liberation by wisdom as their fruit and benefit. What five? Here, a bhikkhu ![[Satipatthanas]], contemplating impermanence in all conditioned phenomena; and he has the perception of death well established internally. These five things, when developed and cultivated, have liberation of mind as their fruit, liberation of mind as their fruit and benefit; they have liberation by wisdom as their fruit, liberation by wisdom as their fruit and benefit.
 
 “When a bhikkhu is liberated in mind and liberated by wisdom, he is called a bhikkhu who has removed the crossbar, filled in the moat, pulled out the pillar, a boltless one, a noble one with banner lowered, with burden dropped, detached.
 

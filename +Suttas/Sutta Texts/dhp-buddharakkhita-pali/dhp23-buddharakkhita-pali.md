@@ -41,7 +41,7 @@ language: "Pali"
 
 331Good are friends when need arises; good is contentment with just what one has; good is merit when life is at an end, and good is the abandoning of all suffering (through Arahantship).
 
-332In this world, good it is to serve one's mother, good it is to serve one's father, good it is to serve the monks, and good it is to serve the holy men.
+332In this world, good it is to serve one's mother, good it is to serve one's father, good it is to serve the bhikkhus, and good it is to serve the holy men.
 
 333Good is virtue until life's end, good is faith that is steadfast, good is the acquisition of wisdom, and good is the avoidance of evil.
 

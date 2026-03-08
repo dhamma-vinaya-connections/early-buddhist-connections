@@ -15,7 +15,7 @@ language: "English"
 ## ## Assāda Sutta
 
 
-“Monks, I set out in search of the allure of the cosmos. Whatever allure there is in the cosmos, that I found. However far the allure of the cosmos extends, that I have seen well with discernment.
+“bhikkhus, I set out in search of the allure of the cosmos. Whatever allure there is in the cosmos, that I found. However far the allure of the cosmos extends, that I have seen well with discernment.
 
 “I set out in search of the drawback of the cosmos. Whatever drawback there is in the cosmos, that I found. However far the drawback of the cosmos extends, that I have seen well with discernment.
 

@@ -32,12 +32,12 @@ That nun described a dildo to her. The other nun then used a dildo. But she forg
 
 2The nuns of few desires complained and criticized her, “How could a nun use a dildo?” …
 
-“Is it true, monks, that a nun did this?”
+“Is it true, bhikkhus, that a nun did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her, “How could a nun use a dildo? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her, “How could a nun use a dildo? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

@@ -16,9 +16,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-“Mendicants, a mendicant who abuses and insults their spiritual companions, speaking ill of the noble ones, can expect these five drawbacks. What five?
+“bhikkhus, a bhikkhu who abuses and insults their spiritual companions, speaking ill of the noble ones, can expect these five drawbacks. What five?
 
-They’re expelled, cut off, shut out; or they commit a corrupt offense; or they contract a severe illness. They die confused. And when their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell. A mendicant who abuses and insults their spiritual companions, speaking ill of the noble ones, can expect these five drawbacks.”
+They’re expelled, cut off, shut out; or they commit a corrupt offense; or they contract a severe illness. They die confused. And when their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell. A bhikkhu who abuses and insults their spiritual companions, speaking ill of the noble ones, can expect these five drawbacks.”
 
 1"Yo so, bhikkhave, bhikkhu akkosakaparibhāsako ariyūpavādī sabrahmacārīnaṁ, tassa pañca ādīnavā pāṭikaṅkhā. Katame pañca?
 

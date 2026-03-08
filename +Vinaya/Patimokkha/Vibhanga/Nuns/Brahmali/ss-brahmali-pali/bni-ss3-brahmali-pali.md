@@ -32,14 +32,14 @@ The nuns went there, and when they saw her, they said to her, “Why did you go 
 
 2The nuns of few desires complained and criticized her, “How could a nun walk to the next village by herself?” …
 
-“Is it true, monks, that a nun did this?”
+“Is it true, bhikkhus, that a nun did this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“How could a nun do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How could a nun do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 3‘If a nun walks to the next inhabited area by herself, then that nun too has committed an immediate offense entailing sending away and suspension.’”
 
@@ -61,16 +61,16 @@ The Buddha rebuked her …
 
 6They then continued on to Sāvatthī and told the nuns there what had happened. The nuns of few desires complained and criticized them:
 
-“How could a nun cross a river by herself?” They told the monks, who in turn told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks:
+“How could a nun cross a river by herself?” They told the bhikkhus, who in turn told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that a nun did this?”
+“Is it true, bhikkhus, that a nun did this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked them …
 
-“How could a nun do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How could a nun do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 7‘If a nun walks to the next inhabited area by herself or crosses a river by herself, then that nun too has committed an immediate offense entailing sending away and suspension.’”
 
@@ -87,12 +87,12 @@ When night arrived, that man went searching for that nun, and as he did so he bu
 
 She then told the nuns what had happened. The nuns of few desires complained and criticized her, “How could a nun spend the night apart by herself?” …
 
-“Is it true, monks, that a nun did this?”
+“Is it true, bhikkhus, that a nun did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could a nun do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could a nun do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 11‘If a nun walks to the next inhabited area by herself or crosses a river by herself or spends the night apart by herself, then that nun too has committed an immediate offense entailing sending away and suspension.’”
 
@@ -106,12 +106,12 @@ The Buddha rebuked her … “How could a nun do this? This will affect people�
 
 14The nuns of few desires complained and criticized her, “How could a nun lag behind her companions by herself?” …
 
-“Is it true, monks, that a nun did this?”
+“Is it true, bhikkhus, that a nun did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could a nun do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could a nun do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

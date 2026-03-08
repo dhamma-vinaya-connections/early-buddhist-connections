@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a faithful monk would rightly aspire: ‘May I be like Sāriputta and Moggallāna!’ These are a standard and a measure for my monk disciples, that is, Sāriputta and Moggallāna.
+1“bhikkhus, a faithful bhikkhu would rightly aspire: ‘May I be like Sāriputta and Moggallāna!’ These are a standard and a measure for my bhikkhu disciples, that is, Sāriputta and Moggallāna.
 
 2A faithful nun would rightly aspire: ‘May I be like the nuns Khemā and Uppalavaṇṇā!’ These are a standard and a measure for my nun disciples, that is, the nuns Khemā and Uppalavaṇṇā.
 

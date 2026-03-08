@@ -184,19 +184,19 @@ _śūdra_ class, commits good or bad physical, verbal, or mental conduct,
 when his body comes to dissolution and his life ends he is bound to  
 receive either the reward of happiness or the retribution of suffering.  
 If someone of the _kṣatriya_ class shaves his hair and beard, dons the  
-mendicant robe, and practices the path, and if he is engaged in the prac-  
+bhikkhu robe, and practices the path, and if he is engaged in the prac-  
 tice of the seven auxiliary practices of enlightenment, it will not be long  
 before he realizes the path. Why is that so? When someone of the _kṣatriya_  
-class decides to wear the mendicant robe, renounce family life, and  
+class decides to wear the bhikkhu robe, renounce family life, and  
 practice foremost austerity, he is certain to experience directly in the  
 present life the exhaustion of the cause of birth and death, the accom-  
 plishment of the practice of austerity, the accomplishment of what should  
 be done [for religious salvation], and freedom from further rebirth. In  
 the same way, when someone, whether he belongs to the _brāhmaṇa,  
 vaiśya,_ or _śūdra_ class, decides to shave his hair and beard, wear the  
-mendicant robe, and practice the seven auxiliary practices of enlight-  
+bhikkhu robe, and practice the seven auxiliary practices of enlight-  
 enment, it will not be long before he realizes the path. Why? Because  
-if he wears the mendicant robe, renounces family life, and practices  
+if he wears the bhikkhu robe, renounces family life, and practices  
 foremost austerity, he is certain to experience directly in the present life
 
 the exhaustion of the cause of birth and death, the accomplishment of  

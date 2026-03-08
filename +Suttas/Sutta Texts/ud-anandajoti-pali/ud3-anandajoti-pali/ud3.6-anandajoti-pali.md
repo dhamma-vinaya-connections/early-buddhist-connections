@@ -18,28 +18,28 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Rājagaha, in Bamboo Wood, at the Squirrels’ Feeding Place. Then at that time venerable Pilindivaccha accosted monks with words of contempt.
+1Thus I heard: At one time the Gracious One was dwelling near Rājagaha, in Bamboo Wood, at the Squirrels’ Feeding Place. Then at that time venerable Pilindivaccha accosted bhikkhus with words of contempt.
 
-Then many monks went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those monks said this to the Gracious One: "Venerable Pilindivaccha, reverend Sir, accosts monks with words of contempt."
+Then many bhikkhus went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those bhikkhus said this to the Gracious One: "Venerable Pilindivaccha, reverend Sir, accosts bhikkhus with words of contempt."
 
-2Then the Gracious One addressed a certain monk, saying: "Please go, monk, and with my word address the monk Pilindivaccha, saying: ‘The Teacher, friend Pilindivaccha, calls you.’ "
+2Then the Gracious One addressed a certain bhikkhu, saying: "Please go, bhikkhu, and with my word address the bhikkhu Pilindivaccha, saying: ‘The Teacher, friend Pilindivaccha, calls you.’ "
 
-"Yes, reverend Sir," said that monk, and after replying to the Gracious One, he went to venerable Pilindivaccha, and after going, he said this to venerable Pilindivaccha: "The Teacher, venerable friend, calls you."
+"Yes, reverend Sir," said that bhikkhu, and after replying to the Gracious One, he went to venerable Pilindivaccha, and after going, he said this to venerable Pilindivaccha: "The Teacher, venerable friend, calls you."
 
-3"Yes, friend," said venerable Pilindivaccha, and after replying to that monk, he went to the Gracious One, after going and worshipping the Gracious One, he sat down on one side. While sat on one side the Gracious One said this to venerable Pilindivaccha: "Is it true, as it seems, Vaccha, that you accost monks with words of contempt?"
+3"Yes, friend," said venerable Pilindivaccha, and after replying to that bhikkhu, he went to the Gracious One, after going and worshipping the Gracious One, he sat down on one side. While sat on one side the Gracious One said this to venerable Pilindivaccha: "Is it true, as it seems, Vaccha, that you accost bhikkhus with words of contempt?"
 
 "Yes, reverend Sir."
 
 ---
 
-4Then the Gracious One, after applying his mind to venerable Pilindivaccha's previous lives, addressed the monks, saying: "You should not be offended, monks, at the monk Vaccha, it is not with hatred on the inside, monks, that Vaccha accosts the monks with words of contempt. For the monk Vaccha, monks, for five hundred lives has been reborn in a brāhmaṇa family without interruption, for a long time he has been one who has accosted others with words of contempt, because of this Vaccha accosted the monks with words of contempt."
+4Then the Gracious One, after applying his mind to venerable Pilindivaccha's previous lives, addressed the bhikkhus, saying: "You should not be offended, bhikkhus, at the bhikkhu Vaccha, it is not with hatred on the inside, bhikkhus, that Vaccha accosts the bhikkhus with words of contempt. For the bhikkhu Vaccha, bhikkhus, for five hundred lives has been reborn in a brāhmaṇa family without interruption, for a long time he has been one who has accosted others with words of contempt, because of this Vaccha accosted the bhikkhus with words of contempt."
 
 5Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 
 6"In whom dwells no deceit and no conceit,  
 He who is free from lust, unselfish, not yearning,  
 Who has dispelled anger, who is himself completely emancipated,  
-He is a brāhmaṇa, he is an ascetic, he is a monk."
+He is a brāhmaṇa, he is an ascetic, he is a bhikkhu."
 
 1Evaṁ me sutaṁ—​   ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena āyasmā pilindavaccho bhikkhū vasalavādena samudācarati.
 

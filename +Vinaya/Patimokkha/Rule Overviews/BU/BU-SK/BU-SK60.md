@@ -22,12 +22,12 @@ vin_severity:
   - "Wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-SK60"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BNI-SK60]] 🌐 [[BNI-SK61]] ►
 
-# Monks - Sekhiya - Training
+# bhikkhus - Sekhiya - Training
 ## Surusuruvaggo - Slurping sound
 ## BU-SK60 - Āvudhapāṇi - Holding Weapon
 
@@ -52,7 +52,7 @@ vin_gender-corr: "BNI-SK60"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-SK60 | [[BNI-SK60]] | Vin.3.1–3.40 |
 

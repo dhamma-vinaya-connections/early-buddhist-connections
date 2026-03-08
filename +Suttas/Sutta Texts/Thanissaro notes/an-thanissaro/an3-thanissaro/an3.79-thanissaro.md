@@ -25,7 +25,7 @@ Then Ven. Ānanda went to the Blessed One and, on arrival, having bowed down to 
 
 That is what Ven. Ānanda said, and the Teacher approved. Then Ven. Ānanda, (realizing,) “The Teacher approves of me,” got up from his seat and, having bowed down to the Blessed One and circumambulating him, left.
 
-Then not long after Ven. Ānanda had left, the Blessed One said to the monks, “Monks, Ānanda is still in training, but it would not be easy to find his equal in discernment.”
+Then not long after Ven. Ānanda had left, the Blessed One said to the bhikkhus, “bhikkhus, Ānanda is still in training, but it would not be easy to find his equal in discernment.”
 
 See also: [[dn16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.68-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.73-thanissaro]]; [[an4.42-thanissaro]]; [[an4.192-thanissaro]]; [[an10.94-thanissaro]]
 

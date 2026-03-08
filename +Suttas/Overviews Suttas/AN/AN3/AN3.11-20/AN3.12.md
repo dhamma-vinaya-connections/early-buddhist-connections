@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Places that should be commemorated by kings and mendicants
+> Places that should be commemorated by kings and bhikkhus
 
 > [!info] Key Excerpts 
 > Place where he went forth, where he truly understands noble truths, and where he realized   the undefiled freedom of heart

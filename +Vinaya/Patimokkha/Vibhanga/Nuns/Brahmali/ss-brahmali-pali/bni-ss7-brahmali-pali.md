@@ -79,7 +79,7 @@ He replied, “When I first went, they just dismissed me. Go yourself; I’m not
 12But those women who were happy with their in-laws wished him well, saying, “May Venerable Udāyī be happy and well, just as we are happy and well because of our good mothers-in-law, fathers-in-law, and husbands.”
 
 
-13The monks heard that some women were criticizing him whereas others were wishing him well. And the monks of few desires complained and criticized him, “How could Venerable Udāyī act as a matchmaker?”
+13The bhikkhus heard that some women were criticizing him whereas others were wishing him well. And the bhikkhus of few desires complained and criticized him, “How could Venerable Udāyī act as a matchmaker?”
 
 14They told the Buddha. The Buddha had the Sangha gathered and questioned Udāyī:
 
@@ -89,12 +89,12 @@ He replied, “When I first went, they just dismissed me. Go yourself; I’m not
 “It’s true, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
-15‘If a monk acts as a matchmaker, conveying a man’s intention to a woman or a woman’s intention to a man, for marriage or for an affair, he commits an offense entailing suspension.’”
+15‘If a bhikkhu acts as a matchmaker, conveying a man’s intention to a woman or a woman’s intention to a man, for marriage or for an affair, he commits an offense entailing suspension.’”
 
-16In this way the Buddha laid down this training rule for the monks.
+16In this way the Buddha laid down this training rule for the bhikkhus.
 
 17Soon afterwards a number of scoundrels who were enjoying themselves in a park sent a messenger to a sex worker, saying, “Please come, let’s enjoy ourselves in the park.”
 
@@ -121,7 +121,7 @@ She told him why.
 Then that lay follower complained and criticized him, “How could Venerable Udāyī act as a matchmaker for a brief affair?”
 
 
-21The monks heard it, and the monks of few desires complained and criticized him, “How could Venerable Udāyī act as a matchmaker for a brief affair?”
+21The bhikkhus heard it, and the bhikkhus of few desires complained and criticized him, “How could Venerable Udāyī act as a matchmaker for a brief affair?”
 
 22They rebuked Udāyī in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned Udāyī:
 
@@ -130,15 +130,15 @@ Then that lay follower complained and criticized him, “How could Venerable Ud�
 “It’s true, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And so, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-23‘If a monk acts as a matchmaker, conveying a man’s intention to a woman or a woman’s intention to a man, for marriage or for an affair, even if just a brief one, he commits an offense entailing suspension.’”
+23‘If a bhikkhu acts as a matchmaker, conveying a man’s intention to a woman or a woman’s intention to a man, for marriage or for an affair, even if just a brief one, he commits an offense entailing suspension.’”
 
 #### Definitions
 
-24**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+24**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
 25**Acts as a matchmaker, conveying:** sent by a woman he goes to a man, or sent by a man he goes to a woman.
@@ -210,33 +210,33 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 #### Acting as a matchmaker for a man and a single bought wife
 
-54A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+54A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-55A man sends a monk, saying, “Sir, go to so-and-so protected by her father and say … so-and-so protected by her parents and say … so-and-so protected by her brother and say … so-and-so protected by her sister and say … so-and-so protected by her relatives and say … so-and-so protected by her family and say … so-and-so protected by her religion and say … so-and-so otherwise protected and say … so-and-so protected by the threat of punishment and say, ‘Please be the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+55A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her father and say … so-and-so protected by her parents and say … so-and-so protected by her brother and say … so-and-so protected by her sister and say … so-and-so protected by her relatives and say … so-and-so protected by her family and say … so-and-so protected by her religion and say … so-and-so otherwise protected and say … so-and-so protected by the threat of punishment and say, ‘Please be the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 56The setting out of the steps is finished.
 
 #### Acting as a matchmaker for a man and two bought wives
 
-57A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+57A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-58A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her parents … so-and-so protected by her mother and so-and-so protected by her brother … so-and-so protected by her mother and so-and-so protected by her sister … so-and-so protected by her mother and so-and-so protected by her relatives … so-and-so protected by her mother and so-and-so protected by her family … so-and-so protected by her mother and so-and-so protected by her religion … so-and-so protected by her mother and so-and-so otherwise protected … so-and-so protected by her mother and so-and-so protected by the threat of punishment and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+58A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her parents … so-and-so protected by her mother and so-and-so protected by her brother … so-and-so protected by her mother and so-and-so protected by her sister … so-and-so protected by her mother and so-and-so protected by her relatives … so-and-so protected by her mother and so-and-so protected by her family … so-and-so protected by her mother and so-and-so protected by her religion … so-and-so protected by her mother and so-and-so otherwise protected … so-and-so protected by her mother and so-and-so protected by the threat of punishment and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 
 59The unconnected permutation series is finished.
 
-60A man sends a monk, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her parents and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+60A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her parents and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-61A man sends a monk, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her brother … so-and-so protected by her father and so-and-so protected by her sister … so-and-so protected by her father and so-and-so protected by her relatives … so-and-so protected by her father and so-and-so protected by her family … so-and-so protected by her father and so-and-so protected by her religion … so-and-so protected by her father and so-and-so otherwise protected … so-and-so protected by her father and so-and-so protected by the threat of punishment and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+61A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her brother … so-and-so protected by her father and so-and-so protected by her sister … so-and-so protected by her father and so-and-so protected by her relatives … so-and-so protected by her father and so-and-so protected by her family … so-and-so protected by her father and so-and-so protected by her religion … so-and-so protected by her father and so-and-so otherwise protected … so-and-so protected by her father and so-and-so protected by the threat of punishment and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-62A man sends a monk, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her mother and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+62A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her mother and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 
 63The linked permutation series with the basis in brief is finished.
 
-64… A man sends a monk, saying, “Sir, go to so-and-so protected by the threat of punishment and so-and-so protected by her mother and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+64… A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by the threat of punishment and so-and-so protected by her mother and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-65A man sends a monk, saying, “Sir, go to so-and-so protected by the threat of punishment and so-and-so protected by her father … so-and-so protected by the threat of punishment and so-and-so protected by her parents … so-and-so protected by the threat of punishment and so-and-so protected by her brother … so-and-so protected by the threat of punishment and so-and-so protected by her sister … so-and-so protected by the threat of punishment and so-and-so protected by her relatives … so-and-so protected by the threat of punishment and so-and-so protected by her family … so-and-so protected by the threat of punishment and so-and-so protected by her religion … so-and-so protected by the threat of punishment and so-and-so otherwise protected and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+65A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by the threat of punishment and so-and-so protected by her father … so-and-so protected by the threat of punishment and so-and-so protected by her parents … so-and-so protected by the threat of punishment and so-and-so protected by her brother … so-and-so protected by the threat of punishment and so-and-so protected by her sister … so-and-so protected by the threat of punishment and so-and-so protected by her relatives … so-and-so protected by the threat of punishment and so-and-so protected by her family … so-and-so protected by the threat of punishment and so-and-so protected by her religion … so-and-so protected by the threat of punishment and so-and-so otherwise protected and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 66The section based on one item is finished.
 
@@ -248,39 +248,39 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 68This is the section based on ten items:
 
-69A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and so-and-so protected by her parents and so-and-so protected by her brother and so-and-so protected by her sister and so-and-so protected by her relatives and so-and-so protected by her family and so-and-so protected by her religion and so-and-so otherwise protected and so-and-so protected by the threat of punishment and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+69A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and so-and-so protected by her parents and so-and-so protected by her brother and so-and-so protected by her sister and so-and-so protected by her relatives and so-and-so protected by her family and so-and-so protected by her religion and so-and-so otherwise protected and so-and-so protected by the threat of punishment and say, ‘Please be the bought wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 70The permutation series on bought wives is finished.
 
 #### Acting as a matchmaker for a man and other kinds of wives
 
-71A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the wife by choice of so-and-so.’” … the wife through property of so-and-so.’” … the wife through clothes of so-and-so.’” … the wife through the bowl-of-water ritual of so-and-so.’” … the wife through removing the head pad of so-and-so.’” … the slave wife of so-and-so.’” … the servant wife of so-and-so.’” … the captured wife of so-and-so.’” … the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+71A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the wife by choice of so-and-so.’” … the wife through property of so-and-so.’” … the wife through clothes of so-and-so.’” … the wife through the bowl-of-water ritual of so-and-so.’” … the wife through removing the head pad of so-and-so.’” … the slave wife of so-and-so.’” … the servant wife of so-and-so.’” … the captured wife of so-and-so.’” … the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 #### Acting as a matchmaker for a man and a single momentary wife
 
-72A man sends a monk, saying, “Sir, go to so-and-so protected by her father and say … so-and-so protected by her parents … so-and-so protected by her brother … so-and-so protected by her sister … so-and-so protected by her relatives … so-and-so protected by her family … so-and-so protected by her religion … so-and-so otherwise protected … so-and-so protected by the threat of punishment and say, ‘Please be the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+72A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her father and say … so-and-so protected by her parents … so-and-so protected by her brother … so-and-so protected by her sister … so-and-so protected by her relatives … so-and-so protected by her family … so-and-so protected by her religion … so-and-so otherwise protected … so-and-so protected by the threat of punishment and say, ‘Please be the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 73The setting out of the steps is finished.
 
 #### Acting as a matchmaker for a man and two momentary wives
 
-74A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+74A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-75A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her parents … so-and-so protected by her mother and so-and-so protected by the threat of punishment and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+75A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her parents … so-and-so protected by her mother and so-and-so protected by the threat of punishment and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 76The unconnected permutation series is finished.
 
-77A man sends a monk, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her parents and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+77A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her parents and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-78A man sends a monk, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her brother … so-and-so protected by her father and so-and-so protected by the threat of punishment and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+78A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her brother … so-and-so protected by her father and so-and-so protected by the threat of punishment and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-79A man sends a monk, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her mother and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+79A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her father and so-and-so protected by her mother and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 80The linked permutation series with the basis in brief is finished.
 
-81A man sends a monk, saying, “Sir, go to so-and-so protected by the threat of punishment and so-and-so protected by her mother and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+81A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by the threat of punishment and so-and-so protected by her mother and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-82A man sends a monk, saying, “Sir, go to so-and-so protected by the threat of punishment and so-and-so protected by her father … so-and-so protected by the threat of punishment and so-and-so otherwise protected and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+82A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by the threat of punishment and so-and-so protected by her father … so-and-so protected by the threat of punishment and so-and-so otherwise protected and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 83The section based on one item is finished.
 
@@ -292,32 +292,32 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 85This is the section based on ten items:
 
-86A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and so-and-so protected by her parents and so-and-so protected by her brother and so-and-so protected by her sister and so-and-so protected by her relatives and so-and-so protected by her family and so-and-so protected by her religion and so-and-so otherwise protected and so-and-so protected by the threat of punishment and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+86A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and so-and-so protected by her parents and so-and-so protected by her brother and so-and-so protected by her sister and so-and-so protected by her relatives and so-and-so protected by her family and so-and-so protected by her religion and so-and-so otherwise protected and so-and-so protected by the threat of punishment and say, ‘Please be the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 87The permutation series on momentary wives is finished.
 
 #### Acting as a matchmaker for a man and one protected by her mother: a single motive
 
-88A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+88A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-89A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the wife by choice of so-and-so.’” … the wife through property of so-and-so.’” … the wife through clothes of so-and-so.’” … the wife through the bowl-of-water ritual of so-and-so.’” … the wife through removing the head pad of so-and-so.’” … the slave wife of so-and-so.’” … the servant wife of so-and-so.’” … the captured wife of so-and-so.’” … the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+89A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the wife by choice of so-and-so.’” … the wife through property of so-and-so.’” … the wife through clothes of so-and-so.’” … the wife through the bowl-of-water ritual of so-and-so.’” … the wife through removing the head pad of so-and-so.’” … the slave wife of so-and-so.’” … the servant wife of so-and-so.’” … the captured wife of so-and-so.’” … the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 90The setting out of the steps is finished.
 
 #### Acting as a matchmaker for a man and one protected by her mother: combinations of two motives
 
-91A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife and the wife by choice of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+91A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife and the wife by choice of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-92A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife and the wife through property of so-and-so.’” … the bought wife and the wife through clothes of so-and-so.’” … the bought wife and the wife through the bowl-of-water ritual of so-and-so.’” … the bought wife and the wife through removing the head pad of so-and-so.’” … the bought wife and the slave wife of so-and-so.’” … the bought wife and the servant wife of so-and-so.’” … the bought wife and the captured wife of so-and-so.’” … the bought wife and the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+92A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife and the wife through property of so-and-so.’” … the bought wife and the wife through clothes of so-and-so.’” … the bought wife and the wife through the bowl-of-water ritual of so-and-so.’” … the bought wife and the wife through removing the head pad of so-and-so.’” … the bought wife and the slave wife of so-and-so.’” … the bought wife and the servant wife of so-and-so.’” … the bought wife and the captured wife of so-and-so.’” … the bought wife and the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 
 93The unconnected permutation series is finished.
 
-94A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the wife by choice and the wife through property of so-and-so.’” … the wife by choice and the momentary wife of so-and-so.’” … the wife by choice and the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+94A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the wife by choice and the wife through property of so-and-so.’” … the wife by choice and the momentary wife of so-and-so.’” … the wife by choice and the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 95The linked permutation series with the basis in brief is finished.
 
-96A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the momentary wife so and the bought wife of so-and-so.’” … the momentary wife and the wife by choice of so-and-so.’” … the momentary wife and the captured wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+96A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the momentary wife so and the bought wife of so-and-so.’” … the momentary wife and the wife by choice of so-and-so.’” … the momentary wife and the captured wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 97The section based on one item is finished.
 
@@ -329,33 +329,33 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 99This is the section based on ten items:
 
-100A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife and the wife by choice and the wife through property and the wife through clothes and the wife through the bowl-of-water ritual and the wife through removing the head pad and the slave wife and the servant wife and the captured wife and the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+100A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife and the wife by choice and the wife through property and the wife through clothes and the wife through the bowl-of-water ritual and the wife through removing the head pad and the slave wife and the servant wife and the captured wife and the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 101The permutation series on the one guarded by her mother is finished.
 
 #### Acting as a matchmaker for a man and one protected in various ways: a single motive
 
-102A man sends a monk, saying, “Sir, go to so-and-so protected by her father … so-and-so protected by her parents … so-and-so protected by her brother … so-and-so protected by her sister … so-and-so protected by her relatives … so-and-so protected by her family … so-and-so protected by her religion … so-and-so otherwise protected … so-and-so protected by the threat of punishment and say, ‘Please be the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+102A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her father … so-and-so protected by her parents … so-and-so protected by her brother … so-and-so protected by her sister … so-and-so protected by her relatives … so-and-so protected by her family … so-and-so protected by her religion … so-and-so otherwise protected … so-and-so protected by the threat of punishment and say, ‘Please be the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 #### Acting as a matchmaker for a man and one protected by the threat of punishment: a single motive
 
-103A man sends a monk, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the wife by choice of so-and-so.’” … the wife through property of so-and-so.’” … the wife through clothes of so-and-so.’” … the wife through the bowl-of-water ritual of so-and-so.’” … the wife through removing the head pad of so-and-so.’” … the slave wife of so-and-so.’” … the servant wife of so-and-so.’” … the captured wife of so-and-so.’” … the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+103A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the wife by choice of so-and-so.’” … the wife through property of so-and-so.’” … the wife through clothes of so-and-so.’” … the wife through the bowl-of-water ritual of so-and-so.’” … the wife through removing the head pad of so-and-so.’” … the slave wife of so-and-so.’” … the servant wife of so-and-so.’” … the captured wife of so-and-so.’” … the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 104The setting out of the steps is finished.
 
 #### Acting as a matchmaker for a man and one protected by the threat of punishment: combinations of two motives
 
-105A man sends a monk, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the bought wife and the wife by choice of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+105A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the bought wife and the wife by choice of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-106A man sends a monk, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the bought wife and the wife through property of so-and-so … the bought wife and the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+106A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the bought wife and the wife through property of so-and-so … the bought wife and the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 107The unconnected permutation series is finished.
 
-108A man sends a monk, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the wife by choice and the wife through property of so-and-so.’” … the wife by choice and the momentary wife of so-and-so.’” … the wife by choice and the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+108A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the wife by choice and the wife through property of so-and-so.’” … the wife by choice and the momentary wife of so-and-so.’” … the wife by choice and the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 109The linked permutation series with the basis in brief is finished.
 
-110A man sends a monk, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the momentary wife and the bought wife of so-and-so.’” … the momentary wife and the wife by choice of so-and-so.’” … the momentary wife and the captured wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+110A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the momentary wife and the bought wife of so-and-so.’” … the momentary wife and the wife by choice of so-and-so.’” … the momentary wife and the captured wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 111The section based on one item is finished.
 
@@ -367,28 +367,28 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 112This is the section based on ten items:
 
-114A man sends a monk, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the bought wife and the wife by choice and the wife through property and the wife through clothes and the wife through the bowl-of-water ritual and the wife through removing the head pad and the slave wife and the servant wife and the captured wife and the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+114A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by the threat of punishment and say, ‘Please be the bought wife and the wife by choice and the wife through property and the wife through clothes and the wife through the bowl-of-water ritual and the wife through removing the head pad and the slave wife and the servant wife and the captured wife and the momentary wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 115The permutation series for the one protected by the threat of punishment is finished.
 
 #### Incremental increase in both wives and motives
 
-116A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+116A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and say, ‘Please be the bought wife of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-117A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and say, ‘Please be the bought wives and the wives by choice of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+117A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and say, ‘Please be the bought wives and the wives by choice of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-118A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and so-and-so protected by her parents and say, ‘Please be the bought wives and the wives by choice and the wives through property of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+118A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and so-and-so protected by her parents and say, ‘Please be the bought wives and the wives by choice and the wives through property of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 
 119In this way the increase of both items is to be done.
 
-120A man sends a monk, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and so-and-so protected by her parents and so-and-so protected by her brother and so-and-so protected by her sister and so-and-so protected by her relatives and so-and-so protected by her family and so-and-so protected by her religion and so-and-so otherwise protected and so-and-so protected by the threat of punishment and say, ‘Please be the bought wives and the wives by choice and the wives through property and the wives through clothes and the wives through the bowl-of-water ritual and the wives through removing the head pad and the slave wives and the servant wives and the captured wives and the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+120A man sends a bhikkhu, saying, “Sir, go to so-and-so protected by her mother and so-and-so protected by her father and so-and-so protected by her parents and so-and-so protected by her brother and so-and-so protected by her sister and so-and-so protected by her relatives and so-and-so protected by her family and so-and-so protected by her religion and so-and-so otherwise protected and so-and-so protected by the threat of punishment and say, ‘Please be the bought wives and the wives by choice and the wives through property and the wives through clothes and the wives through the bowl-of-water ritual and the wives through removing the head pad and the slave wives and the servant wives and the captured wives and the momentary wives of so-and-so.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 121The increase of both items is finished.
 
 #### Relationships arranged for a man
 
-122A man’s mother sends a monk … A man’s father sends a monk … A man’s parents send a monk … A man’s brother sends a monk … A man’s sister sends a monk … A man’s relatives send a monk … A man’s family sends a monk … A man’s fellow believers send a monk …
+122A man’s mother sends a bhikkhu … A man’s father sends a bhikkhu … A man’s parents send a bhikkhu … A man’s brother sends a bhikkhu … A man’s sister sends a bhikkhu … A man’s relatives send a bhikkhu … A man’s family sends a bhikkhu … A man’s fellow believers send a bhikkhu …
 
 123To be expanded as for the successive series on a man.
 
@@ -397,23 +397,23 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 #### Relationships arranged by the mother: a single motive
 
-125The mother of one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+125The mother of one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-126The mother of one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your wife by choice.’” … your wife through property.’” … your wife through clothes.’” … your wife through the bowl-of-water ritual.’” … your wife through removing the head pad.’” … your slave wife.’” … your servant wife.’” … your captured wife.’” … your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+126The mother of one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your wife by choice.’” … your wife through property.’” … your wife through clothes.’” … your wife through the bowl-of-water ritual.’” … your wife through removing the head pad.’” … your slave wife.’” … your servant wife.’” … your captured wife.’” … your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 127The setting out of the steps is finished.
 
 #### Relationships arranged by the mother: combinations of two motives
 
-128The mother of one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife and your wife by choice.’” … your bought wife and your wife through property.’” … your bought wife and your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+128The mother of one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife and your wife by choice.’” … your bought wife and your wife through property.’” … your bought wife and your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 129The unconnected permutation series is finished.
 
-130The mother of one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your wife by choice and your wife through property.’” … your wife by choice and your momentary wife.’” … your wife by choice and your bought wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+130The mother of one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your wife by choice and your wife through property.’” … your wife by choice and your momentary wife.’” … your wife by choice and your bought wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 131The linked permutation series with the basis in brief is finished.
 
-132The mother of one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your momentary wife and your bought wife.’” … your momentary wife and your wife by choice.’” … your momentary wife and your captured wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+132The mother of one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your momentary wife and your bought wife.’” … your momentary wife and your wife by choice.’” … your momentary wife and your captured wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 133The section based on one item is finished.
 
@@ -425,31 +425,31 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 135This is the section based on ten items:
 
-136The mother of one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife and your wife by choice and your wife through property and your wife through clothes and your wife through the bowl-of-water ritual and your wife through removing the head pad and your slave wife and your servant wife and your captured wife and your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+136The mother of one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife and your wife by choice and your wife through property and your wife through clothes and your wife through the bowl-of-water ritual and your wife through removing the head pad and your slave wife and your servant wife and your captured wife and your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 137The permutation series on the mother is finished.
 
 #### Relationships arranged by various people: a single motive
 
-138The father of one protected by her father sends a monk … The parents of one protected by her parents send a monk … The brother of one protected by her brother sends a monk … The sister of one protected by her sister sends a monk … The relatives of one protected by her relatives send a monk … The family of one protected by her family sends a monk … The fellow believers of one protected by her religion send a monk … The master of one otherwise protected sends a monk … The one who punishes in relation to one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+138The father of one protected by her father sends a bhikkhu … The parents of one protected by her parents send a bhikkhu … The brother of one protected by her brother sends a bhikkhu … The sister of one protected by her sister sends a bhikkhu … The relatives of one protected by her relatives send a bhikkhu … The family of one protected by her family sends a bhikkhu … The fellow believers of one protected by her religion send a bhikkhu … The master of one otherwise protected sends a bhikkhu … The one who punishes in relation to one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 #### Relationships arranged by the one who punishes: a single motive
 
-139The one who punishes in relation to one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your wife by choice.’” … your wife through property.’” … your wife through clothes.’” … your wife through the bowl-of-water ritual.’” … your wife through removing the head pad.’” … your slave wife.’” … your servant wife.’” … your captured wife.’” … your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+139The one who punishes in relation to one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your wife by choice.’” … your wife through property.’” … your wife through clothes.’” … your wife through the bowl-of-water ritual.’” … your wife through removing the head pad.’” … your slave wife.’” … your servant wife.’” … your captured wife.’” … your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 140The setting out of the steps is finished.
 
 #### Relationships arranged by the one who punishes: two motives
 
-141The one who punishes in relation to one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife and your wife by choice.’” … your bought wife and your wife through property.’” … your bought wife and your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+141The one who punishes in relation to one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife and your wife by choice.’” … your bought wife and your wife through property.’” … your bought wife and your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 142The unconnected permutation series is finished.
 
-143The one who punishes in relation to one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your wife by choice and your wife through property.’” … your wife by choice and your momentary wife.’” … your wife by choice and your bought wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+143The one who punishes in relation to one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your wife by choice and your wife through property.’” … your wife by choice and your momentary wife.’” … your wife by choice and your bought wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 144The linked permutation series with the basis in brief is finished.
 
-145The one who punishes in relation to one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your momentary wife and your bought wife.’” … who can be your momentary wife and your wife by choice.’” … who can be your momentary wife and your captured wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+145The one who punishes in relation to one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your momentary wife and your bought wife.’” … who can be your momentary wife and your wife by choice.’” … who can be your momentary wife and your captured wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 146The section based on one item is finished.
 
@@ -461,31 +461,31 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 148This is the section based on ten items:
 
-149The one who punishes in relation to one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife and your wife by choice and your wife through property and your wife through clothes and your wife through the bowl-of-water ritual and your wife through removing the head pad and your slave wife and your servant wife and your captured wife and your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+149The one who punishes in relation to one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say, ‘I have a wife for you who can be your bought wife and your wife by choice and your wife through property and your wife through clothes and your wife through the bowl-of-water ritual and your wife through removing the head pad and your slave wife and your servant wife and your captured wife and your momentary wife.’” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 150The permutation series on the one who punishes is finished.
 
 #### The one protected by her mother taking the initiative: a single motive
 
-151The one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his bought wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+151The one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his bought wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-152The one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his wife by choice.” … his wife through property.” … his wife through clothes.” … his wife through the bowl-of-water ritual.” … his wife through removing the head pad.” … his slave wife.” … his servant wife.” … his captured wife.” … his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+152The one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his wife by choice.” … his wife through property.” … his wife through clothes.” … his wife through the bowl-of-water ritual.” … his wife through removing the head pad.” … his slave wife.” … his servant wife.” … his captured wife.” … his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 153The setting out of the steps is finished.
 
 #### The one protected by her mother taking the initiative: two motives
 
-154The one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his bought wife and his wife by choice.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+154The one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his bought wife and his wife by choice.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-155The one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his bought wife and his wife through property.” … his bought wife and his wife through clothes.” … his bought wife and his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+155The one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his bought wife and his wife through property.” … his bought wife and his wife through clothes.” … his bought wife and his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 156The unconnected permutation series is finished.
 
-157The one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his wife by choice and his wife though property.” … his wife by choice and his momentary wife.” … his wife by choice and his bought wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+157The one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his wife by choice and his wife though property.” … his wife by choice and his momentary wife.” … his wife by choice and his bought wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 158The linked permutation series with the basis in brief is finished.
 
-159The one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his momentary wife and his bought wife.” … his momentary wife and his wife by choice.” … his momentary wife and his captured wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+159The one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his momentary wife and his bought wife.” … his momentary wife and his wife by choice.” … his momentary wife and his captured wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 160The section based on one item is finished.
 
@@ -497,31 +497,31 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 162This is the section based on ten items:
 
-163The one protected by her mother sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his bought wife and his wife by choice and his wife through property and his wife through clothes and his wife through the bowl-of-water ritual and his wife through removing the head pad and his slave wife and his servant wife and his captured wife and his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+163The one protected by her mother sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his bought wife and his wife by choice and his wife through property and his wife through clothes and his wife through the bowl-of-water ritual and his wife through removing the head pad and his slave wife and his servant wife and his captured wife and his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 164The further permutation series on the one guarded by her mother is finished.
 
 #### The ones protected by various people taking the initiative: a single motive
 
-165The one protected by her father sends a monk … The one protected by her parents sends a monk … The one protected by her brother sends a monk … The one protected by her sister sends a monk … The one protected by her relatives sends a monk … The one protected by her family sends a monk … The one protected by her religion sends a monk … The one otherwise protected sends a monk … The one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his bought wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+165The one protected by her father sends a bhikkhu … The one protected by her parents sends a bhikkhu … The one protected by her brother sends a bhikkhu … The one protected by her sister sends a bhikkhu … The one protected by her relatives sends a bhikkhu … The one protected by her family sends a bhikkhu … The one protected by her religion sends a bhikkhu … The one otherwise protected sends a bhikkhu … The one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his bought wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 #### The one protected by the threat of punishment taking the initiative: a single motive
 
-166The one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his wife by choice.” … his wife through property.” … his wife through clothes.” … his wife through the bowl-of-water ritual.” … his wife through removing the head pad.” … his slave wife.” … his servant wife.” … his captured wife.” … his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+166The one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his wife by choice.” … his wife through property.” … his wife through clothes.” … his wife through the bowl-of-water ritual.” … his wife through removing the head pad.” … his slave wife.” … his servant wife.” … his captured wife.” … his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 167The setting out of the steps is finished.
 
 #### The one protected by the threat of punishment taking the initiative: two motives
 
-168The one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his bought wife and his wife by choice.” … his bought wife and his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+168The one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his bought wife and his wife by choice.” … his bought wife and his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 169The unconnected permutation series is finished.
 
-170The one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his wife by choice and his wife though property.” … his wife by choice and his momentary wife.” … his wife by choice and his bought wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+170The one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his wife by choice and his wife though property.” … his wife by choice and his momentary wife.” … his wife by choice and his bought wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 171The linked permutation series with the basis in brief is finished.
 
-172The one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his momentary wife and his bought wife.” … his momentary wife and his wife by choice.” … his momentary wife and his captured wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+172The one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his momentary wife and his bought wife.” … his momentary wife and his wife by choice.” … his momentary wife and his captured wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 173The section based on one item is finished.
 
@@ -533,7 +533,7 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 175This is the section based on ten items:
 
-176The one protected by the threat of punishment sends a monk, saying, “Sir, go to so-and-so and say that I’ll be his bought wife and his wife by choice and his wife through property and his wife through clothes and his wife through the bowl-of-water ritual and his wife through removing the head pad and his slave wife and his servant wife and his captured wife and his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+176The one protected by the threat of punishment sends a bhikkhu, saying, “Sir, go to so-and-so and say that I’ll be his bought wife and his wife by choice and his wife through property and his wife through clothes and his wife through the bowl-of-water ritual and his wife through removing the head pad and his slave wife and his servant wife and his captured wife and his momentary wife.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
 
 177The further permutation series on the one protected by the threat of punishment is finished.  
@@ -542,21 +542,21 @@ The whole successive permutation series is finished.
 178If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension. If he accepts the mission, and finds out the response, but does not report back, he commits a serious offense. If he accepts the mission, but does not find out the response, yet reports back, he commits a serious offense. If he accepts the mission, but neither finds out the response, nor reports back, he commits an offense of wrong conduct. If he does not accept the mission, yet finds out the response and reports back, he commits a serious offense. If he does not accept the mission, yet finds out the response, but does not report back, he commits an offense of wrong conduct. If he neither accepts the mission, nor finds out the response, yet reports back, he commits an offense of wrong conduct. If he does not accept the mission, nor finds out the response, nor reports back, there is no offense.
 
 
-179A man tells a number of monks, “Venerables, find out about such-and-such a woman.” If they all accept the mission, all find out the response, and all report back, they all commit an offense entailing suspension.
+179A man tells a number of bhikkhus, “Venerables, find out about such-and-such a woman.” If they all accept the mission, all find out the response, and all report back, they all commit an offense entailing suspension.
 
-180A man tells a number of monks, “Venerables, find out about such-and-such a woman.” If they all accept the mission, all find out the response, but only one reports back, they all commit an offense entailing suspension.
+180A man tells a number of bhikkhus, “Venerables, find out about such-and-such a woman.” If they all accept the mission, all find out the response, but only one reports back, they all commit an offense entailing suspension.
 
-181A man tells a number of monks, “Venerables, find out about such-and-such a woman.” If they all accept the mission, but only one finds out the response, yet all report back, they all commit an offense entailing suspension.
+181A man tells a number of bhikkhus, “Venerables, find out about such-and-such a woman.” If they all accept the mission, but only one finds out the response, yet all report back, they all commit an offense entailing suspension.
 
-182A man tells a number of monks, “Venerables, find out about such-and-such a woman.” If they all accept the mission, but only one finds out the response, and only one reports back, they all commit an offense entailing suspension.
+182A man tells a number of bhikkhus, “Venerables, find out about such-and-such a woman.” If they all accept the mission, but only one finds out the response, and only one reports back, they all commit an offense entailing suspension.
 
-183A man tells a monk, “Sir, find out about such-and-such a woman.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
+183A man tells a bhikkhu, “Sir, find out about such-and-such a woman.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 
-184A man tells a monk, “Sir, find out about such-and-such a woman.” If he accepts the mission, finds out the response, but gets a pupil to report back, he commits an offense entailing suspension.
+184A man tells a bhikkhu, “Sir, find out about such-and-such a woman.” If he accepts the mission, finds out the response, but gets a pupil to report back, he commits an offense entailing suspension.
 
-185A man tells a monk, “Sir, find out about such-and-such a woman.” If he accepts the mission, but gets a pupil to find out the response, and then reports back himself, he commits an offense entailing suspension.
+185A man tells a bhikkhu, “Sir, find out about such-and-such a woman.” If he accepts the mission, but gets a pupil to find out the response, and then reports back himself, he commits an offense entailing suspension.
 
-186A man tells a monk, “Sir, find out about such-and-such a woman.” If he accepts the mission, but gets a pupil to find out the response, and the pupil then reports back on his own initiative, they both commit a serious offense.
+186A man tells a bhikkhu, “Sir, find out about such-and-such a woman.” If he accepts the mission, but gets a pupil to find out the response, and the pupil then reports back on his own initiative, they both commit a serious offense.
 
 187If he fulfills the agreement when he goes, but not when he returns, he commits a serious offense.
 
@@ -579,9 +579,9 @@ And he was a matchmaker for _paṇḍakas_.”
 
 #### Case studies
 
-193At one time a man told a monk, “Sir, please find out about such-and-such a woman.”
+193At one time a man told a bhikkhu, “Sir, please find out about such-and-such a woman.”
 
-When the monk got there, he asked some people, “Where’s so-and-so?”
+When the bhikkhu got there, he asked some people, “Where’s so-and-so?”
 
 
 “She’s asleep, Venerable.”
@@ -591,7 +591,7 @@ He became anxious, thinking, “The Buddha has laid down a training rule. Could 
 
 “There’s no offense entailing suspension, but there’s an offense of wrong conduct.”
 
-194At one time a man told a monk, “Sir, please find out about such-and-such a woman.” When the monk got there, he asked some people:
+194At one time a man told a bhikkhu, “Sir, please find out about such-and-such a woman.” When the bhikkhu got there, he asked some people:
 
 “Where’s so-and-so?”
 
@@ -600,9 +600,9 @@ He became anxious, thinking, “The Buddha has laid down a training rule. Could 
 
 He became anxious … “There’s no offense entailing suspension, but there’s an offense of wrong conduct.”
 
-195At one time a certain woman quarreled with her husband and went to her mother’s house. A monk who associated with that family reconciled them. He became anxious …
+195At one time a certain woman quarreled with her husband and went to her mother’s house. A bhikkhu who associated with that family reconciled them. He became anxious …
 
-“Were they divorced, monk?”
+“Were they divorced, bhikkhu?”
 
 
 “No, Sir.”
@@ -610,7 +610,7 @@ He became anxious … “There’s no offense entailing suspension, but there’
 
 “There’s no offense if they’re not divorced.”
 
-196At one time a monk acted as a matchmaker for _paṇḍakas_. He became anxious … “There’s no offense entailing suspension, but there’s a serious offense.”
+196At one time a bhikkhu acted as a matchmaker for _paṇḍakas_. He became anxious … “There’s no offense entailing suspension, but there’s a serious offense.”
 
 197The training rule on matchmaking, the fifth, is finished.
 

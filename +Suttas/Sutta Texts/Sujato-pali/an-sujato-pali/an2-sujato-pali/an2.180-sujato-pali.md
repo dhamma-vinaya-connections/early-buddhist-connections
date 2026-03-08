@@ -28,9 +28,9 @@ language: "English - Pali"
 
 (195-199)“Anyone who has these two things lives happily. What two? Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … conscience and prudence. Anyone who has these two things lives happily.”
 
-(200-204)“These two things lead to the decline of a mendicant trainee. What two? Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of conscience and prudence. These two things lead to the decline of a mendicant trainee.”
+(200-204)“These two things lead to the decline of a bhikkhu trainee. What two? Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of conscience and prudence. These two things lead to the decline of a bhikkhu trainee.”
 
-(205-209)“These two things don’t lead to the decline of a mendicant trainee. What two? Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … conscience and prudence. These two things don’t lead to the decline of a mendicant trainee.”
+(205-209)“These two things don’t lead to the decline of a bhikkhu trainee. What two? Freedom from anger and hostility … freedom from disdain and contempt … freedom from jealousy and stinginess … freedom from deceit and deviousness … conscience and prudence. These two things don’t lead to the decline of a bhikkhu trainee.”
 
 (210-214)“Anyone who has two things is cast down to hell. What two? Anger and hostility … disdain and contempt … jealousy and stinginess … deceit and deviousness … lack of conscience and prudence. Anyone who has these two things is cast down to hell.”
 

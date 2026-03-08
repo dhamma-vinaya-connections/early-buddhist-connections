@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - "Motion-1announcement"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-NP24"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP21]] 🌐 [[BU-NP23]] ►
 
-# Monks - Nissaggiya Pacittiya - Relinquish with confession
+# bhikkhus - Nissaggiya Pacittiya - Relinquish with confession
 ## Pattavagga - Bowl
 ## BU-NP22 - Ūnapañcabandhana - Bowl With Fewer Than 5 Mends
 
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-NP24"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu ūnapañcabandhanena pattena aññaṁ navaṁ pattaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ. Tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo. Yo ca tassā bhikkhuparisāya pattapariyanto so tassa bhikkhuno padātabbo— ‘ayaṁ te, bhikkhu, patto yāva bhedanāya dhāretabbo’ti. Ayaṁ tattha sāmīcī | If a monk exchanges an almsbowl with fewer than five mends for a new almsbowl, he commits an offense entailing relinquishment and confession. That monk should relinquish that almsbowl to a gathering of monks. He should then be given the last almsbowl belonging to that gathering: “Monk, this bowl is yours. Keep it until it breaks.” This is the proper procedure |
+| Yo pana bhikkhu ūnapañcabandhanena pattena aññaṁ navaṁ pattaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ. Tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo. Yo ca tassā bhikkhuparisāya pattapariyanto so tassa bhikkhuno padātabbo— ‘ayaṁ te, bhikkhu, patto yāva bhedanāya dhāretabbo’ti. Ayaṁ tattha sāmīcī | If a monk exchanges an almsbowl with fewer than five mends for a new almsbowl, he commits an offense entailing relinquishment and confession. That monk should relinquish that almsbowl to a gathering of bhikkhus. He should then be given the last almsbowl belonging to that gathering: “Monk, this bowl is yours. Keep it until it breaks.” This is the proper procedure |
 
 
 > [!Info] Analisis of the rule
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-NP24"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-NP22 | [[BNI-NP24]] | Vin.3.1–3.40 |
 

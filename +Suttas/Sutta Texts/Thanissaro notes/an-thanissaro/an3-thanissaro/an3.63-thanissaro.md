@@ -15,7 +15,7 @@ language: "English"
 ## ## Bhaya Sutta
 
 
-“Monks, uneducated run-of-the-mill people describe three things as mother-&-child-separating dangers. Which three?
+“bhikkhus, uneducated run-of-the-mill people describe three things as mother-&-child-separating dangers. Which three?
 
 “There comes a time when a great fire-conflagration breaks out. When a great fire-conflagration breaks out, it burns villages, towns, & cities. When it is burning villages, towns, & cities, a mother there can’t get to her child, and the child can’t get to its mother. This is the first thing that uneducated run-of-the-mill people describe as a mother-&-child-separating danger.
 
@@ -47,7 +47,7 @@ language: "English"
 
 “There is a path, there is a practice, that leads to the abandoning and overcoming of these three mother-&-child-uniting dangers and these three mother-&-child-separating dangers.
 
-“And which is that path, which is that practice…? Just this very noble eightfold path, i.e., right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“And which is that path, which is that practice…? Just this very ![[Noble Path]].
 
 “This is the path, this the practice, that leads to the abandoning and overcoming of these three mother-&-child-uniting dangers and these three mother-&-child-separating dangers.”
 

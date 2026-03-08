@@ -90,9 +90,9 @@ Then the layman Visākha went to see the nun Dhammadinnā, bowed, sat down to on
 
 25“But ma’am, how does someone attain the cessation of perception and feeling?”
 
-26“A mendicant who is entering such an attainment does not think: ‘I will enter the cessation of perception and feeling’ or ‘I am entering the cessation of perception and feeling’ or ‘I have entered the cessation of perception and feeling.’ Rather, their mind has been previously developed so as to lead to such a state.”
+26“A bhikkhu who is entering such an attainment does not think: ‘I will enter the cessation of perception and feeling’ or ‘I am entering the cessation of perception and feeling’ or ‘I have entered the cessation of perception and feeling.’ Rather, their mind has been previously developed so as to lead to such a state.”
 
-27“But ma’am, which cease first for a mendicant who is entering the cessation of perception and feeling: physical, verbal, or mental processes?”
+27“But ma’am, which cease first for a bhikkhu who is entering the cessation of perception and feeling: physical, verbal, or mental processes?”
 
 28“Verbal processes cease first, then physical, then mental.”
 
@@ -100,18 +100,18 @@ Then the layman Visākha went to see the nun Dhammadinnā, bowed, sat down to on
 29“But ma’am, how does someone emerge from the cessation of perception and feeling?”
 
 
-30“A mendicant who is emerging from such an attainment does not think: ‘I will emerge from the cessation of perception and feeling’ or ‘I am emerging from the cessation of perception and feeling’ or ‘I have emerged from the cessation of perception and feeling.’ Rather, their mind has been previously developed so as to lead to such a state.”
+30“A bhikkhu who is emerging from such an attainment does not think: ‘I will emerge from the cessation of perception and feeling’ or ‘I am emerging from the cessation of perception and feeling’ or ‘I have emerged from the cessation of perception and feeling.’ Rather, their mind has been previously developed so as to lead to such a state.”
 
-31“But ma’am, which arise first for a mendicant who is emerging from the cessation of perception and feeling: physical, verbal, or mental processes?”
+31“But ma’am, which arise first for a bhikkhu who is emerging from the cessation of perception and feeling: physical, verbal, or mental processes?”
 
 32“Mental processes arise first, then physical, then verbal.”
 
 
-33“But ma’am, when a mendicant has emerged from the attainment of the cessation of perception and feeling, how many kinds of contact do they experience?”
+33“But ma’am, when a bhikkhu has emerged from the attainment of the cessation of perception and feeling, how many kinds of contact do they experience?”
 
 34“They experience three kinds of contact: emptiness, signless, and undirected contacts.”
 
-35“But ma’am, when a mendicant has emerged from the attainment of the cessation of perception and feeling, what does their mind slant, slope, and incline to?”
+35“But ma’am, when a bhikkhu has emerged from the attainment of the cessation of perception and feeling, what does their mind slant, slope, and incline to?”
 
 36“Their mind slants, slopes, and inclines to seclusion.”
 
@@ -150,13 +150,13 @@ Then the layman Visākha went to see the nun Dhammadinnā, bowed, sat down to on
 50“No, not in all instances.
 
 
-Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. With this they give up greed, and the underlying tendency to greed does not lie within that.
+Take a bhikkhu who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. With this they give up greed, and the underlying tendency to greed does not lie within that.
 
-And take a mendicant who reflects: ‘Oh, when will I enter and remain in the same dimension that the noble ones enter and remain in today?’ Nursing such a longing for the supreme liberations gives rise to sadness due to longing.
+And take a bhikkhu who reflects: ‘Oh, when will I enter and remain in the same dimension that the noble ones enter and remain in today?’ Nursing such a longing for the supreme liberations gives rise to sadness due to longing.
 
 With this they give up repulsion, and the underlying tendency to repulsion does not lie within that.
 
-Take a mendicant who, giving up pleasure and pain, and ending former happiness and sadness, enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. With this they give up ignorance, and the underlying tendency to ignorance does not lie within that.”
+Take a bhikkhu who, giving up pleasure and pain, and ending former happiness and sadness, enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. With this they give up ignorance, and the underlying tendency to ignorance does not lie within that.”
 
 
 51“But ma’am, what is the counterpart of pleasant feeling?”

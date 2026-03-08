@@ -20,19 +20,19 @@ language: "English - Pali"
 
 1Thus I heard: At one time the Gracious One was dwelling near Anupiyā, in the Mango Wood. Then at that time venerable Bhaddiya, Kāḷigodhā's son, having gone to the wilderness, to the root of a tree, to an empty place, was frequently uttering this exclamation: "Ah, happiness! Ah, happiness!"
 
-2Many monks heard that when venerable Bhaddiya, Kāḷigodhā's son, had gone to the wilderness, to the root of a tree, to an empty place, was frequently uttering this exclamation: "Ah, happiness! Ah, happiness!" And after hearing this, it occured to them:
+2Many bhikkhus heard that when venerable Bhaddiya, Kāḷigodhā's son, had gone to the wilderness, to the root of a tree, to an empty place, was frequently uttering this exclamation: "Ah, happiness! Ah, happiness!" And after hearing this, it occured to them:
 
 "Undoubtedly, friends, venerable Bhaddiya, Kāḷigodhā's son, has no great delight living the spiritual life, and remembering the royal happiness he had formerly in the home life, having gone to the wilderness, to the root of a tree, to an empty place, he is frequently uttering this exclamation: ‘Ah, happiness! Ah, happiness!’ "
 
-3Then many monks went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those monks said this to the Gracious One:
+3Then many bhikkhus went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those bhikkhus said this to the Gracious One:
 
 "Venerable Bhaddiya, reverend Sir, Kāḷigodhā's son, having gone to the wilderness, to the root of a tree, to an empty place, is frequently uttering this exclamation: ‘Ah, happiness! Ah, happiness!’ Undoubtedly, reverend Sir, venerable Bhaddiya, Kāḷigodhā's son, has no great delight living the spiritual life, and remembering the royal happiness he had formerly in the home life, having gone to the wilderness, to the root of a tree, to an empty place, he is frequently uttering this exclamation: ‘Ah, happiness! Ah, happiness!’ "
 
-4Then the Gracious One addressed a certain monk, saying: "Please go, monk, and with my word address the monk Bhaddiya, saying: ‘The Teacher, friend Bhaddiya, calls you.’ "
+4Then the Gracious One addressed a certain bhikkhu, saying: "Please go, bhikkhu, and with my word address the bhikkhu Bhaddiya, saying: ‘The Teacher, friend Bhaddiya, calls you.’ "
 
-5"Yes, reverend Sir," said that monk, and after replying to the Gracious One, he went to venerable Bhaddiya, Kāḷigodhā's son, and after going, he said this to venerable Bhaddiya, Kāḷigodhā's son: "The Teacher, friend Bhaddiya, calls you."
+5"Yes, reverend Sir," said that bhikkhu, and after replying to the Gracious One, he went to venerable Bhaddiya, Kāḷigodhā's son, and after going, he said this to venerable Bhaddiya, Kāḷigodhā's son: "The Teacher, friend Bhaddiya, calls you."
 
-"Yes, friend," said venerable Bhaddiya, Kāḷigodhā's son, and after replying to that monk, he went to the Gracious One, after going and worshipping the Gracious One, he sat down on one side. While sat on one side the Gracious One said this to venerable Bhaddiya, Kāḷigodhā's son:
+"Yes, friend," said venerable Bhaddiya, Kāḷigodhā's son, and after replying to that bhikkhu, he went to the Gracious One, after going and worshipping the Gracious One, he sat down on one side. While sat on one side the Gracious One said this to venerable Bhaddiya, Kāḷigodhā's son:
 
 6"Is it true, as it seems, Bhaddiya, that you, having gone to the wilderness, to the root of a tree, to an empty place, frequently utter this exclamation: ‘Ah, happiness! Ah, happiness!’?"
 

@@ -18,9 +18,9 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Kusinārā, at Upavattana, in the Mallas’ Sāl Wood. Then at that time many monks were dwelling in a little forest hut not far from the Gracious One, agitated, arrogant, fickle, garrulous, of loose speech, unmindful, not fully understanding, uncomposed, with minds very unsteady, and with faculties uncontrolled.
+1Thus I heard: At one time the Gracious One was dwelling near Kusinārā, at Upavattana, in the Mallas’ Sāl Wood. Then at that time many bhikkhus were dwelling in a little forest hut not far from the Gracious One, agitated, arrogant, fickle, garrulous, of loose speech, unmindful, not fully understanding, uncomposed, with minds very unsteady, and with faculties uncontrolled.
 
-2The Gracious One saw those many monks dwelling in a little forest hut not far away, agitated, arrogant, fickle, garrulous, of loose speech, unmindful, not fully understanding, uncomposed, with minds very unsteady, and with faculties uncontrolled.
+2The Gracious One saw those many bhikkhus dwelling in a little forest hut not far away, agitated, arrogant, fickle, garrulous, of loose speech, unmindful, not fully understanding, uncomposed, with minds very unsteady, and with faculties uncontrolled.
 
 3Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 
@@ -29,7 +29,7 @@ Through being overcome by sloth and torpor one goes under the power of Māra.
 
 5"Therefore one should be of protected mind, one whose resort is right thought,  
 Devoted to right view, having come to know rise and fall.  
-The monk who overcomes sloth and torpor will give up all bad destinies."
+The bhikkhu who overcomes sloth and torpor will give up all bad destinies."
 
 1Evaṁ me sutaṁ—​   ekaṁ samayaṁ bhagavā kusinārāyaṁ viharati upavattane mallānaṁ sālavane. Tena kho pana samayena sambahulā bhikkhū bhagavato avidūre araññakuṭikāyaṁ viharanti uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā.
 

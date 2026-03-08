@@ -18,12 +18,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, suppose there were two houses with doors. A person with good eyesight standing in between them would see people entering and leaving a house and wandering to and fro.
+2“bhikkhus, suppose there were two houses with doors. A person with good eyesight standing in between them would see people entering and leaving a house and wandering to and fro.
 
 In the same way, with clairvoyance that is purified and superhuman, I see sentient beings passing away and being reborn — inferior and superior, beautiful and ugly, in a good place or a bad place. I understand how sentient beings are reborn according to their deeds: ‘These dear beings did good things by way of body, speech, and mind. They never spoke ill of the noble ones; they had right view; and they chose to act out of that right view. When their body breaks up, after death, they’re reborn in a good place, a heavenly realm, or among humans. These dear beings did bad things by way of body, speech, and mind. They spoke ill of the noble ones; they had wrong view; and they chose to act out of that wrong view. When their body breaks up, after death, they’re reborn in the ghost realm, the animal realm, or in a lower realm, a bad destination, a world of misery, hell.’
 

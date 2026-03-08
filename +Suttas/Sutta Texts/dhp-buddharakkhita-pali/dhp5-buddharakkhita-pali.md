@@ -43,11 +43,11 @@ language: "Pali"
 
 72To his own ruin the fool gains knowledge, for it cleaves his head and destroys his innate goodness.
 
-73The fool seeks undeserved reputation, precedence among monks, authority over monasteries, and honor among householders.
+73The fool seeks undeserved reputation, precedence among bhikkhus, authority over monasteries, and honor among householders.
 
-74"Let both laymen and monks think that it was done by me. In every work, great and small, let them follow me"—such is the ambition of the fool; thus his desire and pride increase.
+74"Let both laymen and bhikkhus think that it was done by me. In every work, great and small, let them follow me"—such is the ambition of the fool; thus his desire and pride increase.
 
-75One is the quest for worldly gain, and quite another is the path to Nibbāna. Clearly understanding this, let not the monk, the disciple of the Buddha, be carried away by worldly acclaim, but develop detachment instead.
+75One is the quest for worldly gain, and quite another is the path to Nibbāna. Clearly understanding this, let not the bhikkhu, the disciple of the Buddha, be carried away by worldly acclaim, but develop detachment instead.
 
 60Dīghā jāgarato ratti,  
 dīghaṁ santassa yojanaṁ;  

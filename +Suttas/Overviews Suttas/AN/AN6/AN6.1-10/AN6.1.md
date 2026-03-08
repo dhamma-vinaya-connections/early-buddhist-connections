@@ -44,7 +44,7 @@ parallels_partilal: "[[DN33]], [[MN140]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant is worthy of gifts because of equanimity for the six senses
+> A bhikkhu is worthy of gifts because of equanimity for the six senses
 
 > [!info] Key Excerpts 
 > Equanimity for the six senses.

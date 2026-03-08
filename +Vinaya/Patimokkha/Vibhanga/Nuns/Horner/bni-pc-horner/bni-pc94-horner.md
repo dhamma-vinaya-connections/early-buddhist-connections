@@ -9,15 +9,15 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 94
 
-*Bi-Pc.94.1.1* *BD.3.413* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns sat down on a seat in front of a monk[^1] without asking (for permission). Monks … spread it about, saying: “How can these nuns … without asking (for permission)?” …
+*Bi-Pc.94.1.1* *BD.3.413* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns sat down on a seat in front of a monk[^1] without asking (for permission). bhikkhus … spread it about, saying: “How can these nuns … without asking (for permission)?” …
 
-“Is it true, as is said, monks, that nuns … without asking (for permission)?”
+“Is it true, as is said, bhikkhus, that nuns … without asking (for permission)?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns … without asking (for permission)? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns … without asking (for permission)? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should sit down on a seat in front of a monk without asking (for permission), there is an offence of expiation.”
 

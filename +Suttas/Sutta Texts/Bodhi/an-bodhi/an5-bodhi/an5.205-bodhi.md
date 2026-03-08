@@ -24,7 +24,7 @@ language: "English"
 
 (4) “Again, a bhikkhu is perplexed about the training, doubts it, is not convinced about it, and does not place confidence in it. When a bhikkhu is perplexed about the training, doubts it, is not convinced about it, and does not place confidence in it, his mind does not incline to ardor, effort, perseverance, and striving. Since his mind does not incline to ardor … and striving, this is the fourth kind of mental barrenness.
 
-(5) “Again, a bhikkhu is irritated by his fellow monks, displeased with them, resentful toward them, ill disposed toward them. When a bhikkhu is irritated by his fellow monks, displeased with them, resentful toward them, ill disposed toward them, his mind does not incline to ardor, effort, perseverance, and striving. Since his mind does not incline to ardor … and striving, this is the fifth kind of mental barrenness.
+(5) “Again, a bhikkhu is irritated by his fellow bhikkhus, displeased with them, resentful toward them, ill disposed toward them. When a bhikkhu is irritated by his fellow bhikkhus, displeased with them, resentful toward them, ill disposed toward them, his mind does not incline to ardor, effort, perseverance, and striving. Since his mind does not incline to ardor … and striving, this is the fifth kind of mental barrenness.
 
 “These, bhikkhus, are the five kinds of mental barrenness.”
 

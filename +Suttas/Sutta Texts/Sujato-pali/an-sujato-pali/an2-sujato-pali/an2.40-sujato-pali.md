@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I don’t praise wrong practice for these two, for laypeople and renunciates. Because of wrong practice, neither laypeople nor renunciates succeed in completing the procedure of the skillful teaching.
+1“bhikkhus, I don’t praise wrong practice for these two, for laypeople and renunciates. Because of wrong practice, neither laypeople nor renunciates succeed in completing the procedure of the skillful teaching.
 
 2I praise right practice for these two, for laypeople and renunciates. Because of right practice, both laypeople and renunciates succeed in completing the procedure of the skillful teaching.”
 

@@ -22,12 +22,12 @@ vin_severity:
   - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-SS8"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-SS7]] 🌐 [[BU-SS9]] ►
 
-# Monks - Sanghadisesa - Suspension
+# bhikkhus - Sanghadisesa - Suspension
 ##  - 1 Admonition
 ## BU-SS8 - Duṭṭhadosa - Groundless Out of Anger
 
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-SS8"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-SS8 | [[BNI-SS8]] | Vin.3.1–3.40 |
 

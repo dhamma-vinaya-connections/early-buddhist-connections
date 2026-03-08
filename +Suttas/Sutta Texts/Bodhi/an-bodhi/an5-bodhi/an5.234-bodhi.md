@@ -2,7 +2,7 @@
 sutta_code: "AN5.234"
 sutta_title:
   - "Āvāsika "
-  - "Resident Mendicant"
+  - "Resident bhikkhu"
 sutta-version: "Ven. Bodhi"
 language: "English"
 ---

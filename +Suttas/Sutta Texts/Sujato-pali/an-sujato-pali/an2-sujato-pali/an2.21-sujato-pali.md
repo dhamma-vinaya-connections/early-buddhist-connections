@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are two fools. What two? One who doesn’t recognize when they’ve made a mistake. And one who doesn’t properly accept the confession of someone who’s made a mistake. These are the two fools.
+1“bhikkhus, there are two fools. What two? One who doesn’t recognize when they’ve made a mistake. And one who doesn’t properly accept the confession of someone who’s made a mistake. These are the two fools.
 
 2There are two who are astute. What two? One who recognizes when they’ve made a mistake. And one who properly accepts the confession of someone who’s made a mistake. These are the two who are astute.”
 

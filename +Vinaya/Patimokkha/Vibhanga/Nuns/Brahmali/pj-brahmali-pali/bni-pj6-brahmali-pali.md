@@ -31,19 +31,19 @@ The nuns said to the nun Thullanandā, “Venerable, Sundarīnandā gave birth s
 The nuns of few desires complained and criticized her, “How could Venerable Thullanandā, knowing that a nun had committed an offense entailing expulsion, neither confront her herself nor tell a group of nuns?”
 
 
-2Then those nuns told the monks what had happened, and the monks in turn told the Buddha.
+2Then those nuns told the bhikkhus what had happened, and the bhikkhus in turn told the Buddha.
 
 
-Soon afterwards the Buddha had the Sangha gathered and questioned the monks:
+Soon afterwards the Buddha had the Sangha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the nun Thullanandā acted like this?”
+“Is it true, bhikkhus, that the nun Thullanandā acted like this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“How could the nun Thullanandā, knowing that a nun had committed an offense entailing expulsion, neither confront her herself nor tell a group of nuns? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How could the nun Thullanandā, knowing that a nun had committed an offense entailing expulsion, neither confront her herself nor tell a group of nuns? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

@@ -16,20 +16,20 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were arguing with and speaking abusively to the good monks. They reviled and insulted them about their caste, name, family, occupation, profession, illnesses, physical traits, defilements, and offenses, and by calling them names. The monks of few desires complained and criticized them:
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were arguing with and speaking abusively to the good bhikkhus. They reviled and insulted them about their caste, name, family, occupation, profession, illnesses, physical traits, defilements, and offenses, and by calling them names. The bhikkhus of few desires complained and criticized them:
 
-“How can the monks from the group of six argue with and abuse good monks? How can they revile and insult them about these things?”
+“How can the bhikkhus from the group of six argue with and abuse good bhikkhus? How can they revile and insult them about these things?”
 
-2After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks:
+2After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that you’re doing this?”
+“Is it true, bhikkhus, that you’re doing this?”
 
 
 “It’s true, Sir.”
 
-2-3The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+2-3The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
-4“Once upon a time, monks, there was a brahmin in Takkasilā who had an ox called Nandivisāla. On one occasion the ox said to that brahmin, ‘Go, brahmin, and bet a thousand coins with the wealthy merchant that your ox will pull one hundred carts tied together.’
+4“Once upon a time, bhikkhus, there was a brahmin in Takkasilā who had an ox called Nandivisāla. On one occasion the ox said to that brahmin, ‘Go, brahmin, and bet a thousand coins with the wealthy merchant that your ox will pull one hundred carts tied together.’
 
 And that brahmin did just that. Then, after tying one hundred carts together and yoking Nandivisāla to them, he said, ‘Go, you fraud! Pull, you liar!’ But Nandivisāla didn’t budge.
 
@@ -48,7 +48,7 @@ Heavy loads were pulled,
 And he obtained wealth;  
 And he was delighted with that.’
 
-6Even at that time, monks, reviling and insulting was unpleasant to me. How then could reviling and insulting be pleasant now? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+6Even at that time, bhikkhus, reviling and insulting was unpleasant to me. How then could reviling and insulting be pleasant now? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

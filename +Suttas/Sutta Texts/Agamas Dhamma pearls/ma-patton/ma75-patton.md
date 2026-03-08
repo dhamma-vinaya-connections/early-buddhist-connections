@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma75note01) One time, the Buddha traveled to Kuru and stayed at the Kuru town of Kalmāṣadamya. ^ma75note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “Desires are impermanent, fake, and false. These falsehoods then are illusory, deceptive, and foolish. Whether it’s desires in the present life, desires in the afterlife, forms in the present life, or forms in the afterlife, they are all the domain of Māra. They are Māra’s bait. As a result of them, the mind is affected by measureless bad and unskillful things like longing, anger, and fighting, which become obstacles when the noble disciple trains.
+2. It was then that the Bhagavān addressed the bhikkhus, “Desires are impermanent, fake, and false. These falsehoods then are illusory, deceptive, and foolish. Whether it’s desires in the present life, desires in the afterlife, forms in the present life, or forms in the afterlife, they are all the domain of Māra. They are Māra’s bait. As a result of them, the mind is affected by measureless bad and unskillful things like longing, anger, and fighting, which become obstacles when the noble disciple trains.
 
 3. “The well-versed noble disciple will perform this contemplation about what the Bhagavān has taught: ‘Desires are impermanent, fake, and false. These falsehoods then are illusory, deceptive, and foolish. Whether it’s desires in the present life, desires in the afterlife, forms in the present life, or forms in the afterlife, they are all the domain of Māra. They are Māra’s bait. As a result of them, the mind is affected by measureless bad and unskillful things, such as longing, anger, and fighting, which become obstacles when the noble disciple trains.’
 
@@ -77,7 +77,7 @@ The Bhagavān told him, “Ānanda, if a monk accepts nothing, he’ll surely at
 
 23. “Ānanda, I’ve now described for you the pure way to the imperturbable, described the pure way to the abode of nothingness, described the pure way to no conceptions, described nirvāṇa without remainder, and described the noble liberation. As an honored teacher produces great sympathy, protective mindfulness, and pity, seeks meaning, benefit, well-being, and happiness for his disciples, I’ve done that now. You should go on to do this yourselves. Go somewhere there’s no worldly affairs and sit under a tree in a grove or in an empty and peaceful dwelling. Sitting in reflection, don’t become careless, but diligently apply effort. Don’t let yourself regret it later. This is my instruction. This is my admonition.”
 
-24. The Buddha thus spoke. Venerable Ānanda and the monks who heard what the Buddha taught rejoiced and approved.
+24. The Buddha thus spoke. Venerable Ānanda and the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

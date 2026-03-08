@@ -28,12 +28,12 @@ Soon afterwards the house of that family burned down. They then complained and c
 
 “How could Venerable Thullanandā create an obstacle for a group to get robe-cloth?” …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

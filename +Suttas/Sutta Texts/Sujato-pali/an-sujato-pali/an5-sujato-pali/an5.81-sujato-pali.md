@@ -14,15 +14,15 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### IX. Senior Mendicants — AN 5.81: Desirable
+### IX. Senior bhikkhus — AN 5.81: Desirable
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a senior mendicant with five qualities is unlikable and unlovable to their spiritual companions, not respected or admired. What five? They desire the desirable, they hate the hateful, they’re deluded by the delusory, they’re annoyed by the annoying, and they’re intoxicated by the intoxicating. A senior mendicant with these five qualities is unlikable and unlovable by their spiritual companions, not respected or admired.
+1“bhikkhus, a senior bhikkhu with five qualities is unlikable and unlovable to their spiritual companions, not respected or admired. What five? They desire the desirable, they hate the hateful, they’re deluded by the delusory, they’re annoyed by the annoying, and they’re intoxicated by the intoxicating. A senior bhikkhu with these five qualities is unlikable and unlovable by their spiritual companions, not respected or admired.
 
-2A senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired. What five? They don’t desire the desirable, they don’t hate the hateful, they’re not deluded by the delusory, they’re not annoyed by the annoying, and they’re not intoxicated by the intoxicating. A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
+2A senior bhikkhu with five qualities is dear and beloved to their spiritual companions, respected and admired. What five? They don’t desire the desirable, they don’t hate the hateful, they’re not deluded by the delusory, they’re not annoyed by the annoying, and they’re not intoxicated by the intoxicating. A senior bhikkhu with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṁ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca. Katamehi pañcahi? Rajanīye rajjati, dussanīye dussati, mohanīye muyhati, kuppanīye kuppati, madanīye majjati – imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṁ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.
 

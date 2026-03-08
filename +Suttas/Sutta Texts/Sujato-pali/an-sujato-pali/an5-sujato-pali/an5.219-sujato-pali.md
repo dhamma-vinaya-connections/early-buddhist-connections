@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks of a fire. What five? It’s bad for your eyes. It’s bad for your complexion. It makes you weak. It draws in groups. And it encourages unworthy talk. These are the five drawbacks of a fire.”
+1“bhikkhus, there are these five drawbacks of a fire. What five? It’s bad for your eyes. It’s bad for your complexion. It makes you weak. It draws in groups. And it encourages unworthy talk. These are the five drawbacks of a fire.”
 
 1"Pañcime, bhikkhave, ādīnavā aggismiṁ. Katame pañca? Acakkhusso, dubbaṇṇakaraṇo, dubbalakaraṇo, saṅgaṇikāpavaḍḍhano, tiracchānakathāpavattaniko hoti. Ime kho, bhikkhave, pañca ādīnavā aggismin"ti.
 

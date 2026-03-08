@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“For insight into greed, four things should be developed. What four? Firstly, a mendicant meditates by observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. For insight into greed, these four things should be developed.”
+1“For insight into greed, four things should be developed. What four? Firstly, a bhikkhu ![[Satipatthanas]]. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. For insight into greed, these four things should be developed.”
 
 1"Rāgassa, bhikkhave, abhiññāya cattāro dhammā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ; vedanāsu … pe … citte … pe … dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ. Rāgassa, bhikkhave, abhiññāya ime cattāro dhammā bhāvetabbā"ti.
 

@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> The Buddha  encourages venerable Sāriputta to teach the mendicants, and he offers an extended listing of buddhist doctrines arranged in numerical sequence.
+> The Buddha  encourages venerable Sāriputta to teach the bhikkhus, and he offers an extended listing of buddhist doctrines arranged in numerical sequence.
 
 > [!info] Key Excerpts 
 > Extended index and summary of the Buddha 's teachings classified numerically

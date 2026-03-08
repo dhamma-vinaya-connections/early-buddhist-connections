@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four people are found in the world. What four? The greedy, the hateful, the delusional, and the conceited.
+1“bhikkhus, these four people are found in the world. What four? The greedy, the hateful, the delusional, and the conceited.
 
 These are the four people found in the world.
 

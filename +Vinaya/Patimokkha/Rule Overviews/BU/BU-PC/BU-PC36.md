@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: ""
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC35]] 🌐 [[BU-PC37]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 4 Bhojana-Vaggo - 4 Food
 ## BU-PC36 - Dutiyapavāraṇā - Eating More After Refusing an Invitation Encourage Another Bhikkhu
 
@@ -68,7 +68,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC36 |  | Vin.3.1–3.40 |
 

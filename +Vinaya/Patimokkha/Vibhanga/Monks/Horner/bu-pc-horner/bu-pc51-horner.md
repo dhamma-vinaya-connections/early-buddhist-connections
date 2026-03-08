@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
 > ◄  [[bu-pc50-horner]] 📜  [[bu-pc52-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 51
+# bhikkhus’ Expiation (_Pācittiya_) 51
 
 *Bu-Pc.51.1.1* *BD.2.382* … touring for alms in the Cetiya country,[^1] set out for Bhaddavatikā.[^2] Cowherds, goatherds, yeomen farmers, travellers saw the lord coming from afar, and seeing him they spoke thus to the lord: “Do not, lord, let the lord go to Ambatittha[^3]; lord, in Ambatittha a serpent[^4] lives in a matted-haired ascetic’s hermitage; he has psychic potency, he is a terribly venomous snake; do not let him hurt the lord.”[^5] When they had spoken thus, the lord became silent. And a second time … And a third time cowherds, goatherds, yeomen farmers, travellers spoke thus to the lord:
 
@@ -21,41 +21,41 @@ Then the lay-followers of Kosambī, having met the lord, approached the venerabl
 
 “Honoured sir, what is hard for the masters to obtain, and liked (by them)? What may we give?”
 
-When they had spoken thus, the group of six monks spoke thus to the lay-followers of Kosambī:
+When they had spoken thus, the group of six bhikkhus spoke thus to the lay-followers of Kosambī:
 
-“There is, your reverences, a spirituous liquor called white spirits[^11]; it is hard for the monks to obtain, and liked (by them). Give that.”
+“There is, your reverences, a spirituous liquor called white spirits[^11]; it is hard for the bhikkhus to obtain, and liked (by them). Give that.”
 
 Then the lay-followers of Kosambī having given the *BD.2.384* spirituous liquor, white spirits, in house after house, seeing that the venerable Sāgata had entered for alms-food, spoke thus to the venerable Sāgata:
 
 “Honoured sir, let master Sāgata drink the spirituous liquor, white spirits; honoured sir, let master Sāgata drink the spirituous liquor, white spirits.”
 
-Then the venerable Sagata, having drunk the spirituous liquor, white spirits, in house after house, as he was departing from the town fell down at the town-gate. Then the lord, departing from the town with a great company of monks, saw the venerable Sāgata fallen down at the town-gate; seeing him, he addressed the monks, saying:
+Then the venerable Sagata, having drunk the spirituous liquor, white spirits, in house after house, as he was departing from the town fell down at the town-gate. Then the lord, departing from the town with a great company of bhikkhus, saw the venerable Sāgata fallen down at the town-gate; seeing him, he addressed the bhikkhus, saying:
 
-“Monks, take up Sāgata.”
+“bhikkhus, take up Sāgata.”
 
-“Yes, lord,” and these monks having answered the lord, having led the venerable Sāgata to the monastery, made him lie down with his head towards the lord. Then the venerable Sāgata, having turned round, went to sleep[^12] with his feet towards the lord. Then the lord addressed the monks, saying:
+“Yes, lord,” and these bhikkhus having answered the lord, having led the venerable Sāgata to the monastery, made him lie down with his head towards the lord. Then the venerable Sāgata, having turned round, went to sleep[^12] with his feet towards the lord. Then the lord addressed the bhikkhus, saying:
 
-“Monks, formerly was not Sāgata respectful, deferential towards the Tathāgata?” *Vin.4.110*
-
-“Yes, lord.”
-
-“But monks, is Sāgata respectful, deferential towards the Tathāgata now?”
-
-“No, lord.”
-
-“Monks, did not Sāgata come into conflict with the serpent of Ambatittha?”
+“bhikkhus, formerly was not Sāgata respectful, deferential towards the Tathāgata?” *Vin.4.110*
 
 “Yes, lord.”
 
-“But, monks, is Sāgata able to come into conflict with the serpent of Ambatittha now?”
+“But bhikkhus, is Sāgata respectful, deferential towards the Tathāgata now?”
 
 “No, lord.”
 
-“But, monks, could he become unconscious, having drunk that which may be drunk?”
+“bhikkhus, did not Sāgata come into conflict with the serpent of Ambatittha?”
+
+“Yes, lord.”
+
+“But, bhikkhus, is Sāgata able to come into conflict with the serpent of Ambatittha now?”
 
 “No, lord.”
 
-“Monks, it is not fitting for Sāgata, it is not becoming, it is not suitable, it is not worthy of a recluse, it is not allowable, it is not to be done. How, monks, can *BD.2.385* Sāgata drink strong drink?[^13] It is not, monks, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“But, bhikkhus, could he become unconscious, having drunk that which may be drunk?”
+
+“No, lord.”
+
+“bhikkhus, it is not fitting for Sāgata, it is not becoming, it is not suitable, it is not worthy of a recluse, it is not allowable, it is not to be done. How, bhikkhus, can *BD.2.385* Sāgata drink strong drink?[^13] It is not, bhikkhus, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
 “In drinking fermented liquor[^14] and spirits[^15] there is an offence of expiation.”
 
@@ -81,7 +81,7 @@ The First
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

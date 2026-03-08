@@ -132,13 +132,13 @@ contribution:
 >  
 
 > [!example]- 🌐[[SA421]] - 📜[Available texts](obsidian://search?query=file:sa421-) - SA 4.3 – ? 
->  The Buddha takes the mendicants to a steep precipice, and points out that those who do not understand the four noble truths fall into a still deeper precipice
+>  The Buddha takes the bhikkhus to a steep precipice, and points out that those who do not understand the four noble truths fall into a still deeper precipice
 
 > [!example]- 🌐[[SA422]] - 📜[Available texts](obsidian://search?query=file:sa422-) - SA 4.4 – ? 
->  The Buddha takes the mendicants to a steep precipice, and points out that those who do not understand the four noble truths fall into a still deeper precipice
+>  The Buddha takes the bhikkhus to a steep precipice, and points out that those who do not understand the four noble truths fall into a still deeper precipice
 
 > [!example]- 🌐[[SA423]] - 📜[Available texts](obsidian://search?query=file:sa423-) - SA 4.5 – ? 
->  The Buddha takes the mendicants to a steep precipice, and points out that those who do not understand the four noble truths fall into a still deeper precipice
+>  The Buddha takes the bhikkhus to a steep precipice, and points out that those who do not understand the four noble truths fall into a still deeper precipice
 
 > [!example]- 🌐[[SA424]] - 📜[Available texts](obsidian://search?query=file:sa424-) - SA 4.6 – ? 
 >  
@@ -153,10 +153,10 @@ contribution:
 >  
 
 > [!example]- 🌐[[SA428]] - 📜[Available texts](obsidian://search?query=file:sa428-) - SA 4.10 – ? 
->  Mendicants should develop immersion and seclusion  so as to understand the four noble truths: suffering, its origin, its cessation, and the path.
+>  bhikkhus should develop immersion and seclusion  so as to understand the four noble truths: suffering, its origin, its cessation, and the path.
 
 > [!example]- 🌐[[SA429]] - 📜[Available texts](obsidian://search?query=file:sa429-) - SA 4.1 – ? 
->  Mendicants should develop immersion and seclusion  so as to understand the four noble truths: suffering, its origin, its cessation, and the path.
+>  bhikkhus should develop immersion and seclusion  so as to understand the four noble truths: suffering, its origin, its cessation, and the path.
 
 > [!example]- 🌐[[SA430]] - 📜[Available texts](obsidian://search?query=file:sa430-) - SA 4.2 – ? 
 >  The small creatures in the ocean are greater in number than all the foliage in the jungles of India. Still, your rebirths are more than this.

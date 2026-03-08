@@ -17,19 +17,19 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a shopkeeper who has three factors is unable to acquire more wealth or to increase the wealth they’ve already acquired. What three? It’s when a shopkeeper doesn’t carefully apply themselves to their work in the morning, at midday, and in the afternoon. A shopkeeper who has these three factors is unable to acquire more wealth or to increase the wealth they’ve already acquired.
+1“bhikkhus, a shopkeeper who has three factors is unable to acquire more wealth or to increase the wealth they’ve already acquired. What three? It’s when a shopkeeper doesn’t carefully apply themselves to their work in the morning, at midday, and in the afternoon. A shopkeeper who has these three factors is unable to acquire more wealth or to increase the wealth they’ve already acquired.
 
-2In the same way, a mendicant who has three factors is unable to acquire more skillful qualities or to increase the skillful qualities they’ve already acquired. What three? It’s when a mendicant doesn’t carefully apply themselves to a meditation subject as a foundation of immersion in the morning, at midday, and in the afternoon.
+2In the same way, a bhikkhu who has three factors is unable to acquire more skillful qualities or to increase the skillful qualities they’ve already acquired. What three? It’s when a bhikkhu doesn’t carefully apply themselves to a meditation subject as a foundation of immersion in the morning, at midday, and in the afternoon.
 
-A mendicant who has these three factors is unable to acquire more skillful qualities or to increase the skillful qualities they’ve already acquired.
+A bhikkhu who has these three factors is unable to acquire more skillful qualities or to increase the skillful qualities they’ve already acquired.
 
 3A shopkeeper who has three factors is able to acquire more wealth or to increase the wealth they’ve already acquired. What three? It’s when a shopkeeper carefully applies themselves to their work in the morning, at midday, and in the afternoon.
 
 A shopkeeper who has these three factors is able to acquire more wealth or to increase the wealth they’ve already acquired.
 
-4In the same way, a mendicant who has three factors is able to acquire more skillful qualities or to increase the skillful qualities they’ve already acquired. What three? It’s when a mendicant carefully applies themselves to a meditation subject as a foundation of immersion in the morning, at midday, and in the afternoon.
+4In the same way, a bhikkhu who has three factors is able to acquire more skillful qualities or to increase the skillful qualities they’ve already acquired. What three? It’s when a bhikkhu carefully applies themselves to a meditation subject as a foundation of immersion in the morning, at midday, and in the afternoon.
 
-A mendicant who has these three factors is able to acquire more skillful qualities or to increase the skillful qualities they’ve already acquired.”
+A bhikkhu who has these three factors is able to acquire more skillful qualities or to increase the skillful qualities they’ve already acquired.”
 
 1"Tīhi, bhikkhave, aṅgehi samannāgato pāpaṇiko abhabbo anadhigataṁ vā bhogaṁ adhigantuṁ, adhigataṁ vā bhogaṁ phātiṁ kātuṁ. Katamehi tīhi? Idha, bhikkhave, pāpaṇiko pubbaṇhasamayaṁ na sakkaccaṁ kammantaṁ adhiṭṭhāti, majjhanhikasamayaṁ na sakkaccaṁ kammantaṁ adhiṭṭhāti, sāyanhasamayaṁ na sakkaccaṁ kammantaṁ adhiṭṭhāti. Imehi kho, bhikkhave, tīhi aṅgehi samannāgato pāpaṇiko abhabbo anadhigataṁ vā bhogaṁ adhigantuṁ, adhigataṁ vā bhogaṁ phātiṁ kātuṁ.
 

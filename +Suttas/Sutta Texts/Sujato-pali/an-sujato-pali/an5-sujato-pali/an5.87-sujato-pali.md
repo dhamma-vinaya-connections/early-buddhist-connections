@@ -14,13 +14,13 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### IX. Senior Mendicants — AN 5.87: Ethical
+### IX. Senior bhikkhus — AN 5.87: Ethical
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“A senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired. What five?
+1“A senior bhikkhu with five qualities is dear and beloved to their spiritual companions, respected and admired. What five?
 
 They’re ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
@@ -32,7 +32,7 @@ They get the four jhānas — blissful meditations in the present life that belo
 
 They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 
-A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
+A senior bhikkhu with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṁ piyo ca hoti manāpo ca garu ca bhāvanīyo ca. Katamehi pañcahi?
 

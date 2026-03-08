@@ -47,9 +47,9 @@ parallels_partilal: ""
 > Qualities leading to happiness and qualities for gaining and strengthening good qualities.
 
 > [!info] Key Excerpts 
-> Enjoys the teaching, meditation, giving up, seclusion, kindness, and non-proliferation. When A mendicant has these six things they’re full of joy and happiness in the present life,
+> Enjoys the teaching, meditation, giving up, seclusion, kindness, and non-proliferation. When A bhikkhu has these six things they’re full of joy and happiness in the present life,
 > 
-> Who is skilled in profit, loss, and in means. They generate enthusiasm to achieve skillful qualities not yet achieved. They protect those achieved. And they try to persevere in the task. A Mendicant who has these six factors is able to acquire more skillful qualities
+> Who is skilled in profit, loss, and in means. They generate enthusiasm to achieve skillful qualities not yet achieved. They protect those achieved. And they try to persevere in the task. A bhikkhu who has these six factors is able to acquire more skillful qualities
 > 
 
 

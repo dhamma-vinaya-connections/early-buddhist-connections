@@ -40,14 +40,14 @@ I have come seeking with a question
 to that Buddha, unattached and impartial,  
 free of deceit, come to lead a community.
 
-958 Suppose a mendicant who loathes attachment  
+958 Suppose a bhikkhu who loathes attachment  
 frequents a lonely lodging—  
 the root of a tree, a charnel ground,  
 on mountains, or in caves.
 
 959In these many different lodgings,  
 how many dangers are there  
-at which a mendicant in their silent lodging  
+at which a bhikkhu in their silent lodging  
 ought not tremble?
 
 960 On their journey to the untrodden place,  
@@ -58,7 +58,7 @@ in their remote lodging?
 961 What ways of speech should they have?  
 Of what kind is their alms resort?  
 What precepts and vows  
-should a resolute mendicant uphold?
+should a resolute bhikkhu uphold?
 
 962 Having undertaken what training,  
 unified, alert, and mindful,  
@@ -75,7 +75,7 @@ said the Buddha to Sāriputta,
 I shall tell you, as I understand it,  
 what is comfortable for them.
 
-964 A wise one, a mindful mendicant living on the periphery  
+964 A wise one, a mindful bhikkhu living on the periphery  
 should not be afraid of five perils:  
 flies, mosquitoes, snakes,  
 human contact, or four-legged creatures.
@@ -133,7 +133,7 @@ vanquishing desire for sights,
 sounds, flavors, smells, and touches.
 
 975 Having removed desire for these things,  
-a mindful mendicant, their heart well freed,  
+a mindful bhikkhu, their heart well freed,  
 rightly investigating the Dhamma in good time,  
 unified, would banish the darkness.”
 

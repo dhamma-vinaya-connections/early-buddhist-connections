@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five people are found in the world. What five? One gives then scorns, one lives together then scorns, one is gullible for gossip, one is impulsive, and one is dull and stupid.
+1“bhikkhus, these five people are found in the world. What five? One gives then scorns, one lives together then scorns, one is gullible for gossip, one is impulsive, and one is dull and stupid.
 
 2And how does a person give then scorn? It’s when a person gives someone robes, alms-food, lodgings, and medicines and supplies for the sick. They think: ‘I give; this one receives.’ They give to that person, then they scorn them. That’s how a person gives then scorns.
 

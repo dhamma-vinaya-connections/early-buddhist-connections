@@ -18,12 +18,12 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, Venerable Udāyī’s ex-wife became a nun. She often went to see Udāyī, and he often went to see her. And Udāyī would sit in private alone with that nun.
 
-2The monks of few desires complained and criticized him, “How can Venerable Udāyī sit in private alone with a nun?” … “Is it true, Udāyī, that you do this?”
+2The bhikkhus of few desires complained and criticized him, “How can Venerable Udāyī sit in private alone with a nun?” … “Is it true, Udāyī, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

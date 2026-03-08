@@ -20,24 +20,24 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Now at that time a mendicant called Ariṭtha, who had previously been a vulture trapper, had the following harmful misconception: “As I understand the Buddha’s teachings, the acts that he says are obstructions are not really obstructions for the one who performs them.”
+Now at that time a bhikkhu called Ariṭtha, who had previously been a vulture trapper, had the following harmful misconception: “As I understand the Buddha’s teachings, the acts that he says are obstructions are not really obstructions for the one who performs them.”
 
-2Several mendicants heard about this. They went up to Ariṭṭha and said to him: “Is it really true, Reverend Ariṭṭha, that you have such a harmful misconception: ‘As I understand the Buddha’s teachings, the acts that he says are obstructions are not really obstructions for the one who performs them’?”
+2Several bhikkhus heard about this. They went up to Ariṭṭha and said to him: “Is it really true, Reverend Ariṭṭha, that you have such a harmful misconception: ‘As I understand the Buddha’s teachings, the acts that he says are obstructions are not really obstructions for the one who performs them’?”
 
 “Absolutely, reverends. As I understand the Buddha’s teachings, the acts that he says are obstructions are not really obstructions for the one who performs them.”
 
 
-3Then, wishing to dissuade Ariṭṭha from his view, the mendicants pursued, pressed, and grilled him: “Don’t say that, Ariṭṭha! Don’t misrepresent the Buddha, for misrepresentation of the Buddha is not good. And the Buddha would not say that. In many ways the Buddha has said that obstructive acts are obstructive, and that they really do obstruct the one who performs them. The Buddha says that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks. With the similes of a skeleton … a lump of meat … a grass torch … a pit of glowing coals … a dream … borrowed goods … fruit on a tree … a butcher’s knife and chopping block … a staking sword … a snake’s head, the Buddha says that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks.”
+3Then, wishing to dissuade Ariṭṭha from his view, the bhikkhus pursued, pressed, and grilled him: “Don’t say that, Ariṭṭha! Don’t misrepresent the Buddha, for misrepresentation of the Buddha is not good. And the Buddha would not say that. In many ways the Buddha has said that obstructive acts are obstructive, and that they really do obstruct the one who performs them. The Buddha says that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks. With the similes of a skeleton … a lump of meat … a grass torch … a pit of glowing coals … a dream … borrowed goods … fruit on a tree … a butcher’s knife and chopping block … a staking sword … a snake’s head, the Buddha says that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks.”
 
-4But even though the mendicants pursued, pressed, and grilled him in this way, Ariṭṭha obstinately stuck to his misconception and insisted on stating it.
-
-
-5-8When they weren’t able to dissuade Ariṭṭha from his view, the mendicants went to the Buddha, bowed, sat down to one side, and told him what had happened.
+4But even though the bhikkhus pursued, pressed, and grilled him in this way, Ariṭṭha obstinately stuck to his misconception and insisted on stating it.
 
 
-9So the Buddha said to a certain monk: “Please, monk, in my name tell the mendicant Ariṭṭha, formerly a vulture trapper, that the teacher summons him.”
+5-8When they weren’t able to dissuade Ariṭṭha from his view, the bhikkhus went to the Buddha, bowed, sat down to one side, and told him what had happened.
 
-“Yes, sir,” that monk replied. He went to Ariṭṭha and said to him:
+
+9So the Buddha said to a certain bhikkhu: “Please, bhikkhu, in my name tell the bhikkhu Ariṭṭha, formerly a vulture trapper, that the teacher summons him.”
+
+“Yes, sir,” that bhikkhu replied. He went to Ariṭṭha and said to him:
 
 “Reverend Ariṭṭha, the teacher summons you.”
 
@@ -53,26 +53,26 @@ Now at that time a mendicant called Ariṭtha, who had previously been a vulture
 10“Silly man, who on earth have you ever known me to teach in that way? Haven’t I said in many ways that obstructive acts are obstructive, and that they really do obstruct the one who performs them? I’ve said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks. With the similes of a skeleton … a lump of meat … a grass torch … a pit of glowing coals … a dream … borrowed goods … fruit on a tree … a butcher’s knife and chopping block … a staking sword … a snake’s head, I’ve said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks. But still you misrepresent me by your wrong grasp, harm yourself, and make much bad karma. This will be for your lasting harm and suffering.”
 
 
-11Then the Buddha said to the mendicants: “What do you think, mendicants? Has this mendicant Ariṭṭha kindled even a spark of wisdom in this teaching and training?”
+11Then the Buddha said to the bhikkhus: “What do you think, bhikkhus? Has this bhikkhu Ariṭṭha kindled even a spark of wisdom in this teaching and training?”
 
 “How could that be, sir? No, sir.”
 
 
 When this was said, Ariṭṭha sat silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say.
 
-Knowing this, the Buddha said: “Silly man, you will be known by your own harmful misconception. I’ll question the mendicants about this.”
+Knowing this, the Buddha said: “Silly man, you will be known by your own harmful misconception. I’ll question the bhikkhus about this.”
 
 
-12Then the Buddha said to the mendicants: “Mendicants, do you understand my teachings as Ariṭṭha does, when he misrepresents me by his wrong grasp, harms himself, and makes much bad karma?”
+12Then the Buddha said to the bhikkhus: “bhikkhus, do you understand my teachings as Ariṭṭha does, when he misrepresents me by his wrong grasp, harms himself, and makes much bad karma?”
 
 “No, sir. For in many ways the Buddha has said that obstructive acts are obstructive, and that they really do obstruct the one who performs them. The Buddha has said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks. With the similes of a skeleton … a snake’s head, the Buddha has said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks.”
 
-13“Good, good, mendicants! It’s good that you understand my teaching like this. For in many ways I have said that obstructive acts are obstructive …
+13“Good, good, bhikkhus! It’s good that you understand my teaching like this. For in many ways I have said that obstructive acts are obstructive …
 
 
 14I’ve said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks. But still this Ariṭṭha misrepresents me by his wrong grasp, harms himself, and makes much bad karma. This will be for his lasting harm and suffering.
 
-Truly, mendicants, it’s not possible to perform sensual acts without sensual pleasures, sensual perceptions, and sensual thoughts.
+Truly, bhikkhus, it’s not possible to perform sensual acts without sensual pleasures, sensual perceptions, and sensual thoughts.
 
 
 15Take a foolish person who memorizes the teaching — statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. But they don’t examine the meaning of those teachings with wisdom, and so don’t come to a reflective acceptance of them. They just memorize the teaching for the sake of finding fault and winning debates. They don’t realize the goal for which they memorized them. Because they’re wrongly grasped, those teachings lead to their lasting harm and suffering. Why is that? Because of their wrong grasp of the teachings.
@@ -92,10 +92,10 @@ In the same way, a foolish person memorizes the teaching … and those teachings
 In the same way, a gentleman memorizes the teaching … and those teachings lead to their lasting welfare and happiness. Why is that? Because of their correct grasp of the teachings.
 
 
-So, mendicants, when you understand what I’ve said, you should remember it accordingly. But if I’ve said anything that you don’t understand, you should ask me about it, or some competent mendicants.
+So, bhikkhus, when you understand what I’ve said, you should remember it accordingly. But if I’ve said anything that you don’t understand, you should ask me about it, or some competent bhikkhus.
 
 
-19Mendicants, I will teach you how the Dhamma is similar to a raft: it’s for crossing over, not for holding on. Listen and pay close attention, I will speak.”
+19bhikkhus, I will teach you how the Dhamma is similar to a raft: it’s for crossing over, not for holding on. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
@@ -103,12 +103,12 @@ So, mendicants, when you understand what I’ve said, you should remember it acc
 20“Suppose there was a person traveling along the road. They’d see a large deluge, whose near shore was dubious and perilous, while the far shore was a sanctuary free of peril. But there was no ferryboat or bridge for crossing over. They’d think, ‘Why don’t I gather grass, sticks, branches, and leaves and make a raft? Riding on the raft, and paddling with my hands and feet, I can safely reach the far shore.’ And so they’d do exactly that. And when they’d crossed over to the far shore, they’d think, ‘This raft has been very helpful to me. Riding on the raft, and paddling with my hands and feet, I have safely crossed over to the far shore. Why don’t I hoist it on my head or pick it up on my shoulder and go wherever I want?’
 
 
-What do you think, mendicants? Would that person be doing what should be done with that raft?”
+What do you think, bhikkhus? Would that person be doing what should be done with that raft?”
 
 
 21“No, sir.”
 
-“And what, mendicants, should that person do with the raft? When they’d crossed over they should think, ‘This raft has been very helpful to me. … Why don’t I beach it on dry land or set it adrift on the water and go wherever I want?’ That’s what that person should do with the raft.
+“And what, bhikkhus, should that person do with the raft? When they’d crossed over they should think, ‘This raft has been very helpful to me. … Why don’t I beach it on dry land or set it adrift on the water and go wherever I want?’ That’s what that person should do with the raft.
 
 
 In the same way, I have taught how the teaching is similar to a raft: it’s for crossing over, not for holding on.
@@ -116,24 +116,24 @@ In the same way, I have taught how the teaching is similar to a raft: it’s for
 By understanding the simile of the raft, you will even give up the teachings, let alone what is against the teachings.
 
 
-22Mendicants, there are these six grounds for views. What six? Take an uneducated ordinary person who has not seen the noble ones, and is neither skilled nor trained in the teaching of the noble ones. They’ve not seen good persons, and are neither skilled nor trained in the teaching of the good persons. They regard form like this: ‘This is mine, I am this, this is my self.’ They also regard feeling … perception … choices … whatever is seen, heard, thought, known, sought, and explored by the mind like this: ‘This is mine, I am this, this is my self.’ And the same for this ground for views: ‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’ They also regard this: ‘This is mine, I am this, this is my self.’
+22bhikkhus, there are these six grounds for views. What six? Take an uneducated ordinary person who has not seen the noble ones, and is neither skilled nor trained in the teaching of the noble ones. They’ve not seen good persons, and are neither skilled nor trained in the teaching of the good persons. They regard form like this: ‘This is mine, I am this, this is my self.’ They also regard feeling … perception … choices … whatever is seen, heard, thought, known, sought, and explored by the mind like this: ‘This is mine, I am this, this is my self.’ And the same for this ground for views: ‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’ They also regard this: ‘This is mine, I am this, this is my self.’
 
 23But an educated noble disciple has seen the noble ones, and is skilled and trained in the teaching of the noble ones. They’ve seen good persons, and are skilled and trained in the teaching of the good persons. They regard form like this: ‘This is not mine, I am not this, this is not my self.’ They also regard feeling … perception … choices … whatever is seen, heard, thought, known, sought, and explored by the mind like this: ‘This is not mine, I am not this, this is not my self.’ And the same for this ground for views: ‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’ They also regard this: ‘This is not mine, I am not this, this is not my self.’
 
 Seeing in this way they’re not anxious about what doesn’t exist.”
 
 
-24When he said this, one of the mendicants asked the Buddha: “Sir, can there be anxiety about what doesn’t exist externally?”
+24When he said this, one of the bhikkhus asked the Buddha: “Sir, can there be anxiety about what doesn’t exist externally?”
 
-“There can, mendicant,” said the Buddha. “It’s when someone thinks, ‘Oh, but it used to be mine, and it is mine no more. Oh, but it could be mine, and I will get it no more.’ They sorrow and pine and lament, beating their breast and falling into confusion. That’s how there is anxiety about what doesn’t exist externally.”
+“There can, bhikkhu,” said the Buddha. “It’s when someone thinks, ‘Oh, but it used to be mine, and it is mine no more. Oh, but it could be mine, and I will get it no more.’ They sorrow and pine and lament, beating their breast and falling into confusion. That’s how there is anxiety about what doesn’t exist externally.”
 
 25“But can there be no anxiety about what doesn’t exist externally?”
 
-“There can, mendicant,” said the Buddha. “It’s when someone doesn’t think, ‘Oh, but it used to be mine, and it is mine no more. Oh, but it could be mine, and I will get it no more.’ They don’t sorrow and pine and lament, beating their breast and falling into confusion. That’s how there is no anxiety about what doesn’t exist externally.”
+“There can, bhikkhu,” said the Buddha. “It’s when someone doesn’t think, ‘Oh, but it used to be mine, and it is mine no more. Oh, but it could be mine, and I will get it no more.’ They don’t sorrow and pine and lament, beating their breast and falling into confusion. That’s how there is no anxiety about what doesn’t exist externally.”
 
 26“But can there be anxiety about what doesn’t exist internally?”
 
-“There can, mendicant,” said the Buddha. “It’s when someone has such a view: ‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’ They hear the Realized One or their disciple teaching Dhamma for the uprooting of all grounds, fixations, obsessions, insistences, and underlying tendencies regarding views; for the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. They think, ‘Whoa, I’m going to be annihilated and destroyed! I won’t exist any more!’ They sorrow and pine and lament, beating their breast and falling into confusion. That’s how there is anxiety about what doesn’t exist internally.”
+“There can, bhikkhu,” said the Buddha. “It’s when someone has such a view: ‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’ They hear the Realized One or their disciple teaching Dhamma for the uprooting of all grounds, fixations, obsessions, insistences, and underlying tendencies regarding views; for the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. They think, ‘Whoa, I’m going to be annihilated and destroyed! I won’t exist any more!’ They sorrow and pine and lament, beating their breast and falling into confusion. That’s how there is anxiety about what doesn’t exist internally.”
 
 
 27“But can there be no anxiety about what doesn’t exist internally?”
@@ -141,19 +141,19 @@ Seeing in this way they’re not anxious about what doesn’t exist.”
 “There can,” said the Buddha. “It’s when someone doesn’t have such a view: ‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’ They hear the Realized One or their disciple teaching Dhamma for the uprooting of all grounds, fixations, obsessions, insistences, and underlying tendencies regarding views; for the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. It never occurs to them, ‘Whoa, I’m going to be annihilated and destroyed! I won’t exist any more!’ They don’t sorrow and pine and lament, beating their breast and falling into confusion. That’s how there is no anxiety about what doesn’t exist internally.
 
 
-28Mendicants, it would make sense to be possessive about something that’s permanent, everlasting, eternal, imperishable, and will last forever and ever. But do you see any such possession?”
+28bhikkhus, it would make sense to be possessive about something that’s permanent, everlasting, eternal, imperishable, and will last forever and ever. But do you see any such possession?”
 
 “No, sir.”
 
 
-“Good, mendicants! I also can’t see any such possession.
+“Good, bhikkhus! I also can’t see any such possession.
 
 
 29It would make sense to grasp at a doctrine of self that didn’t give rise to sorrow, lamentation, pain, sadness, and distress. But do you see any such doctrine of self?”
 
 “No, sir.”
 
-“Good, mendicants! I also can’t see any such doctrine of self.
+“Good, bhikkhus! I also can’t see any such doctrine of self.
 
 
 30It would make sense to rely on a view that didn’t give rise to sorrow, lamentation, pain, sadness, and distress. But do you see any such view to rely on?”
@@ -161,10 +161,10 @@ Seeing in this way they’re not anxious about what doesn’t exist.”
 “No, sir.”
 
 
-“Good, mendicants! I also can’t see any such view to rely on.
+“Good, bhikkhus! I also can’t see any such view to rely on.
 
 
-31Mendicants, were a self to exist, would there be the thought, ‘Belonging to my self’?”
+31bhikkhus, were a self to exist, would there be the thought, ‘Belonging to my self’?”
 
 
 32“Yes, sir.”
@@ -178,7 +178,7 @@ Seeing in this way they’re not anxious about what doesn’t exist.”
 
 35“What else could it be, sir? It’s a totally foolish teaching.”
 
-36“What do you think, mendicants? Is form permanent or impermanent?”
+36“What do you think, bhikkhus? Is form permanent or impermanent?”
 
 37“Impermanent, sir.”
 
@@ -190,7 +190,7 @@ Seeing in this way they’re not anxious about what doesn’t exist.”
 
 41“No, sir.”
 
-42“What do you think, mendicants? Is feeling … perception … choices … consciousness permanent or impermanent?”
+42“What do you think, bhikkhus? Is feeling … perception … choices … consciousness permanent or impermanent?”
 
 43“Impermanent, sir.”
 
@@ -203,27 +203,27 @@ Seeing in this way they’re not anxious about what doesn’t exist.”
 47“No, sir.”
 
 
-48“So, mendicants, you should truly see any kind of form at all — past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form — with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling … perception … choices … consciousness at all — past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* consciousness — with right understanding: ‘This is not mine, I am not this, this is not my self.’
+48“So, bhikkhus, you should truly see any kind of form at all — past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form — with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling … perception … choices … consciousness at all — past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* consciousness — with right understanding: ‘This is not mine, I am not this, this is not my self.’
 
 
 49Seeing this, a learned noble disciple grows disillusioned with form, feeling, perception, choices, and consciousness. Being disillusioned, desire fades away. When desire fades away they’re freed. When they’re freed, they know they’re freed.
 
 They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’
 
-This is called a mendicant who has lifted up the cross-bar, filled in the trench, and pulled up the pillar; who is unbarred, a noble one with banner and burden put down, detached.
+This is called a bhikkhu who has lifted up the cross-bar, filled in the trench, and pulled up the pillar; who is unbarred, a noble one with banner and burden put down, detached.
 
-50And how has a mendicant lifted the cross-bar? It’s when a mendicant has given up ignorance, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a mendicant has lifted the cross-bar.
+50And how has a bhikkhu lifted the cross-bar? It’s when a bhikkhu has given up ignorance, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a bhikkhu has lifted the cross-bar.
 
-51And how has a mendicant filled in the trench? It’s when a mendicant has given up transmigrating through births in future lives, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a mendicant has filled in the trench.
+51And how has a bhikkhu filled in the trench? It’s when a bhikkhu has given up transmigrating through births in future lives, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a bhikkhu has filled in the trench.
 
-52And how has a mendicant pulled up the pillar? It’s when a mendicant has given up craving, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a mendicant has pulled up the pillar.
+52And how has a bhikkhu pulled up the pillar? It’s when a bhikkhu has given up craving, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a bhikkhu has pulled up the pillar.
 
-53And how is a mendicant unbarred? It’s when a mendicant has given up the five lower fetters, cut them off at the root, made them like a palm stump, obliterated them, so they’re unable to arise in the future. That’s how a mendicant is unbarred.
+53And how is a bhikkhu unbarred? It’s when a bhikkhu has given up the five lower fetters, cut them off at the root, made them like a palm stump, obliterated them, so they’re unable to arise in the future. That’s how a bhikkhu is unbarred.
 
-54And how is a mendicant a noble one with banner and burden put down, detached? It’s when a mendicant has given up the conceit ‘I am’, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a mendicant is a noble one with banner and burden put down, detached.
+54And how is a bhikkhu a noble one with banner and burden put down, detached? It’s when a bhikkhu has given up the conceit ‘I am’, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a bhikkhu is a noble one with banner and burden put down, detached.
 
 
-55When a mendicant’s mind is freed like this, the gods together with Indra, Brahmā, and Pajāpati, search as they may, will not find anything that such a Realized One’s consciousness depends on. Why is that? Because even in the present life the Realized One is undiscoverable, I say.
+55When a bhikkhu’s mind is freed like this, the gods together with Indra, Brahmā, and Pajāpati, search as they may, will not find anything that such a Realized One’s consciousness depends on. Why is that? Because even in the present life the Realized One is undiscoverable, I say.
 
 Though I speak and explain like this, certain ascetics and brahmins misrepresent me with the false, hollow, lying, untruthful claim: ‘The ascetic Gotama is an exterminator. He advocates the annihilation, eradication, and obliteration of an existing being.’
 
@@ -233,10 +233,10 @@ I have been falsely misrepresented as being what I am not, and saying what I do 
 
 56Or if others honor, respect, revere, or venerate him, he doesn’t get thrilled, elated, and emotionally excited. He just thinks, ‘They do such things for what has already been completely understood.’
 
-So, mendicants, if others abuse, attack, harass, and trouble you, don’t make yourselves resentful, bitter, and emotionally exasperated. Or if others honor, respect, revere, or venerate you, don’t make yourselves thrilled, elated, and emotionally excited. Just think, ‘They do such things for what has already been completely understood.’
+So, bhikkhus, if others abuse, attack, harass, and trouble you, don’t make yourselves resentful, bitter, and emotionally exasperated. Or if others honor, respect, revere, or venerate you, don’t make yourselves thrilled, elated, and emotionally excited. Just think, ‘They do such things for what has already been completely understood.’
 
 
-57So, mendicants, give up what isn't yours. Giving it up will be for your lasting welfare and happiness.
+57So, bhikkhus, give up what isn't yours. Giving it up will be for your lasting welfare and happiness.
 
 And what isn’t yours? Form isn’t yours: give it up. Giving it up will be for your lasting welfare and happiness.
 
@@ -244,31 +244,31 @@ And what isn’t yours? Form isn’t yours: give it up. Giving it up will be for
 Feeling … perception … choices … consciousness isn’t yours: give it up. Giving it up will be for your lasting welfare and happiness.
 
 
-What do you think, mendicants? Suppose a person was to carry off the grass, sticks, branches, and leaves in this Jeta’s Grove, or burn them, or do what they want with them.
+What do you think, bhikkhus? Suppose a person was to carry off the grass, sticks, branches, and leaves in this Jeta’s Grove, or burn them, or do what they want with them.
 
 Would you think, ‘This person is carrying us off, burning us, or doing what they want with us?’”
 
 “No, sir. Why is that? Because that’s neither self nor belonging to self.”
 
 
-“In the same way, mendicants, give up what isn't yours. Giving it up will be for your lasting welfare and happiness. And what isn’t yours? Form … feeling … perception … choices … consciousness isn’t yours: give it up. Giving it up will be for your lasting welfare and happiness.
+“In the same way, bhikkhus, give up what isn't yours. Giving it up will be for your lasting welfare and happiness. And what isn’t yours? Form … feeling … perception … choices … consciousness isn’t yours: give it up. Giving it up will be for your lasting welfare and happiness.
 
 
-58Thus the teaching has been well explained by me, made clear, opened, illuminated, and stripped of patchwork. In this teaching there are mendicants who are perfected, who have ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment. For them, there is no cycle of rebirths to be found. …
+58Thus the teaching has been well explained by me, made clear, opened, illuminated, and stripped of patchwork. In this teaching there are bhikkhus who are perfected, who have ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment. For them, there is no cycle of rebirths to be found. …
 
-59In this teaching there are mendicants who have given up the five lower fetters. All of them are reborn spontaneously. They are extinguished there, and are not liable to return from that world. …
+59In this teaching there are bhikkhus who have given up the five lower fetters. All of them are reborn spontaneously. They are extinguished there, and are not liable to return from that world. …
 
-60In this teaching there are mendicants who, having given up three fetters, and weakened greed, hate, and delusion, are once-returners. All of them come back to this world once only, then make an end of suffering. …
+60In this teaching there are bhikkhus who, having given up three fetters, and weakened greed, hate, and delusion, are once-returners. All of them come back to this world once only, then make an end of suffering. …
 
 
-61In this teaching there are mendicants who have ended three fetters. All of them are stream-enterers, not liable to be reborn in the underworld, bound for awakening. …
+61In this teaching there are bhikkhus who have ended three fetters. All of them are stream-enterers, not liable to be reborn in the underworld, bound for awakening. …
 
-62In this teaching there are mendicants who are followers of principles, or followers by faith. All of them are bound for awakening.
+62In this teaching there are bhikkhus who are followers of principles, or followers by faith. All of them are bound for awakening.
 
 63Thus the teaching has been well explained by me, made clear, opened, illuminated, and stripped of patchwork. In this teaching there are those who have a degree of faith and love for me. All of them are bound for heaven.”
 
 
-64That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+64That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

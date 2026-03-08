@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-NP27"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP25]] 🌐 [[BU-NP27]] ►
 
-# Monks - Nissaggiya Pacittiya - Relinquish with confession
+# bhikkhus - Nissaggiya Pacittiya - Relinquish with confession
 ## Pattavagga - Bowl
 ## BU-NP26 - Suttaviññatti - Thread Asking
 
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-NP27"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-NP26 | [[BNI-NP27]] | Vin.3.1–3.40 |
 

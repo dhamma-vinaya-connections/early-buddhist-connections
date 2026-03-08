@@ -20,17 +20,17 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, live by the ethical precepts and the monastic code. Live restrained in the code of conduct, conducting yourselves well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken. When you’ve done this, what more is there to do?
+1“bhikkhus, live by the ethical precepts and the monastic code. Live restrained in the code of conduct, conducting yourselves well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken. When you’ve done this, what more is there to do?
 
-2Suppose a mendicant has got rid of desire and ill will while walking, and has given up dullness and drowsiness, restlessness and remorse, and doubt. Their energy is roused up and unflagging, their mindfulness is established and lucid, their body is tranquil and undisturbed, and their mind is immersed in samādhi. Such a mendicant is said to be ‘keen and prudent, always energetic and determined’ when walking.
+2Suppose a bhikkhu has got rid of desire and ill will while walking, and has given up dullness and drowsiness, restlessness and remorse, and doubt. Their energy is roused up and unflagging, their mindfulness is established and lucid, their body is tranquil and undisturbed, and their mind is immersed in samādhi. Such a bhikkhu is said to be ‘keen and prudent, always energetic and determined’ when walking.
 
 
-3-5Suppose a mendicant has got rid of desire and ill will while standing … sitting … and when lying down while awake, and has given up dullness and drowsiness, restlessness and remorse, and doubt. Their energy is roused up and unflagging, their mindfulness is established and lucid, their body is tranquil and undisturbed, and their mind is immersed in samādhi. Such a mendicant is said to be ‘keen and prudent, always energetic and determined’ when lying down while awake.
+3-5Suppose a bhikkhu has got rid of desire and ill will while standing … sitting … and when lying down while awake, and has given up dullness and drowsiness, restlessness and remorse, and doubt. Their energy is roused up and unflagging, their mindfulness is established and lucid, their body is tranquil and undisturbed, and their mind is immersed in samādhi. Such a bhikkhu is said to be ‘keen and prudent, always energetic and determined’ when lying down while awake.
 
 
 6Carefully walking, carefully standing,  
 carefully sitting, carefully lying;  
-a mendicant carefully bends their limbs,  
+a bhikkhu carefully bends their limbs,  
 and carefully extends them.
 
 7Above, below, and all around,  
@@ -40,7 +40,7 @@ of phenomena such as the aggregates.
 
 8Training in what leads to serenity of heart,  
 always staying mindful;  
-they call such a mendicant  
+they call such a bhikkhu  
 ‘always determined’.”
 
 1"Sampannasīlā, bhikkhave, viharatha sampannapātimokkhā, pātimokkhasaṁvarasaṁvutā viharatha ācāragocarasampannā, aṇumattesu vajjesu bhayadassāvino samādāya sikkhatha sikkhāpadesu. Sampannasīlānaṁ vo, bhikkhave, viharataṁ sampannapātimokkhānaṁ pātimokkhasaṁvarasaṁvutānaṁ viharataṁ ācāragocarasampannānaṁ aṇumattesu vajjesu bhayadassāvīnaṁ samādāya sikkhataṁ sikkhāpadesu, kimassa uttari karaṇīyaṁ?

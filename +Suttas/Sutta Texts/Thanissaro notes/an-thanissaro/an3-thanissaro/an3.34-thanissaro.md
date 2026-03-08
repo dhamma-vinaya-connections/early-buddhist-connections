@@ -19,7 +19,7 @@ _An action (kamma) performed by an arahant bears no kammic fruit. This sutta exp
 
 * * *
 
-“Monks, these three are causes for the origination of actions. Which three? Greed is a cause for the origination of actions. Aversion is a cause for the origination of actions. Delusion is a cause for the origination of actions.
+“bhikkhus, these three are causes for the origination of actions. Which three? Greed is a cause for the origination of actions. Aversion is a cause for the origination of actions. Delusion is a cause for the origination of actions.
 
 “Any action performed with greed—born of greed, caused by greed, originating from greed: Wherever one’s selfhood _[atta-bhāva]_ turns up, there that action will ripen. Where that action ripens, there one will experience its fruit, either in this very life that has arisen or further along in the sequence.
 
@@ -43,7 +43,7 @@ _An action (kamma) performed by an arahant bears no kammic fruit. This sutta exp
 
 “In the same way, any action performed with non-greed… performed with non-aversion… performed with non-delusion—born of non-delusion, caused by non-delusion, originating from non-delusion: When delusion is gone, that action is thus abandoned, its root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising.
 
-“These, monks, are three causes for the origination of action.”
+“These, bhikkhus, are three causes for the origination of action.”
 
 A person unknowing:
 
@@ -59,7 +59,7 @@ are experienced right here:
 
 No other ground is found.[1](#^[[an3-thanissaro]].34note01) ^[[an3-thanissaro]].34note01-ref
 
-So a monk, knowing,
+So a bhikkhu, knowing,
 
 sheds
 

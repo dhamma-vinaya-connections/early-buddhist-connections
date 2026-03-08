@@ -75,7 +75,7 @@ The Blessed One said: “Suppose an elephant hunter were to enter an elephant fo
 
 ## Virtue
 
-“When he has thus gone forth, endowed with the monks’ training & livelihood, then—abandoning the taking of life—he abstains from the taking of life. He dwells with his rod laid down, his knife laid down, scrupulous, merciful, compassionate for the welfare of all living beings.
+“When he has thus gone forth, endowed with the bhikkhus’ training & livelihood, then—abandoning the taking of life—he abstains from the taking of life. He dwells with his rod laid down, his knife laid down, scrupulous, merciful, compassionate for the welfare of all living beings.
 
 “Abandoning the taking of what is not given, he abstains from taking what is not given. He takes only what is given, accepts only what is given, lives not by stealth but by means of a self that has become pure. This, too, is part of his virtue.
 
@@ -153,7 +153,7 @@ The Blessed One said: “Suppose an elephant hunter were to enter an elephant fo
 
 “This, too, is called a footprint of the Tathāgata, a scratch mark of the Tathāgata, a tusk slash of the Tathāgata, but a disciple of the noble ones would not yet come to the conclusion, ‘The Blessed One is rightly self-awakened; the Dhamma is well-taught by the Blessed One; the Saṅgha of the Blessed One’s disciples has practiced rightly.’
 
-“With his mind thus collected, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, the monk directs and inclines it to the knowledge of the ending of the mental effluents. He discerns, as it has come to be, that ‘This is stress... This is the origination of stress... This is the cessation of stress... This is the way leading to the cessation of stress... These are effluents... This is the origination of effluents... This is the cessation of effluents... This is the way leading to the cessation of effluents.’
+“With his mind thus collected, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, the bhikkhu directs and inclines it to the knowledge of the ending of the mental effluents. He discerns, as it has come to be, that ‘This is stress... This is the origination of stress... This is the cessation of stress... This is the way leading to the cessation of stress... These are effluents... This is the origination of effluents... This is the cessation of effluents... This is the way leading to the cessation of effluents.’
 
 “This, too, is called a footprint of the Tathāgata, a scratch mark of the Tathāgata, a tusk slash of the Tathāgata. A disciple of the noble ones has not yet come to conclusion, but he comes to the conclusion,[3](#^mn27note03) ‘The Blessed One is rightly self-awakened; the Dhamma is well-taught by the Blessed One; the Saṅgha of the Blessed One’s disciples has practiced rightly.’[4](#^mn27note04) ^mn27note03-ref ^mn27note04-ref
 
@@ -161,7 +161,7 @@ The Blessed One said: “Suppose an elephant hunter were to enter an elephant fo
 
 “This, too, is called a footprint of the Tathāgata, a scratch mark of the Tathāgata, a tusk slash of the Tathāgata, and it is here that a disciple of the noble ones has come to conclusion: ‘The Blessed One is rightly self-awakened; the Dhamma is well-taught by the Blessed One; the Saṅgha of the Blessed One’s disciples has practiced rightly.’”
 
-When this was said, Jāṇussoṇin the brahman said to the Blessed One: “Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of monks. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
+When this was said, Jāṇussoṇin the brahman said to the Blessed One: “Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
 ### Notes
 

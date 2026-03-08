@@ -2,7 +2,7 @@
 sutta_code: "AN7.85"
 sutta_title:
   - "Bhikkhu "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -14,13 +14,13 @@ language: "English - Pali"
 
 ## 7: The Book of the Sevens
 
-### IX. An Ascetic — AN 7.85: A Mendicant
+### IX. An Ascetic — AN 7.85: A bhikkhu
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, it’s because of breaking seven things that you become a mendicant. What seven? Identity view, doubt, misapprehension of precepts and observances, greed, hate, delusion, and conceit. It’s because of breaking these seven things that you become a mendicant.”
+1“bhikkhus, it’s because of breaking seven things that you become a bhikkhu. What seven? Identity view, doubt, misapprehension of precepts and observances, greed, hate, delusion, and conceit. It’s because of breaking these seven things that you become a bhikkhu.”
 
 1"Sattannaṁ, bhikkhave, dhammānaṁ bhinnattā bhikkhu hoti. Katamesaṁ sattannaṁ? Sakkāyadiṭṭhi bhinnā hoti, vicikicchā bhinnā hoti, sīlabbataparāmāso bhinno hoti, rāgo bhinno hoti, doso bhinno hoti, moho bhinno hoti, māno bhinno hoti. Imesaṁ kho, bhikkhave, sattannaṁ dhammānaṁ bhinnattā bhikkhu hotī"ti.
 

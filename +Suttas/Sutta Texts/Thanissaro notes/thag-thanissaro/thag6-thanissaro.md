@@ -340,7 +340,7 @@ He runs now here
 
 as if looking for fruit:
 
-a monkey in the forest.
+a bhikkhuey in the forest.
 
 If this sticky, uncouth craving
 
@@ -502,7 +502,7 @@ supreme, foremost of charioteers,
 
 like a blazing sun,
 
-arrayed with a squadron of monks—
+arrayed with a squadron of bhikkhus—
 
 casting away pride & intoxication
 

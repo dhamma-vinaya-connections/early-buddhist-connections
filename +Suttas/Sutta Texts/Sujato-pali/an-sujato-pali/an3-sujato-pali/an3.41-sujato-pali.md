@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when three things are present, a faithful gentleman makes much merit. What three? When faith is present, when a gift to give is present, and when those worthy of a religious donation are present. When these three things are present, a faithful gentleman makes much merit.”
+1“bhikkhus, when three things are present, a faithful gentleman makes much merit. What three? When faith is present, when a gift to give is present, and when those worthy of a religious donation are present. When these three things are present, a faithful gentleman makes much merit.”
 
 1"Tiṇṇaṁ, bhikkhave, sammukhībhāvā saddho kulaputto bahuṁ puññaṁ pasavati. Katamesaṁ tiṇṇaṁ? Saddhāya, bhikkhave, sammukhībhāvā saddho kulaputto bahuṁ puññaṁ pasavati. Deyyadhammassa, bhikkhave, sammukhībhāvā saddho kulaputto bahuṁ puññaṁ pasavati. Dakkhiṇeyyānaṁ, bhikkhave, sammukhībhāvā saddho kulaputto bahuṁ puññaṁ pasavati. Imesaṁ kho, bhikkhave, tiṇṇaṁ sammukhībhāvā saddho kulaputto bahuṁ puññaṁ pasavatī"ti.
 

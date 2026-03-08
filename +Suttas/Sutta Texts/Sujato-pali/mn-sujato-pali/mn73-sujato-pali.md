@@ -34,49 +34,49 @@ Then the wanderer Vacchagotta went up to the Buddha and exchanged greetings with
 3Killing living creatures, stealing, and sexual misconduct; speech that’s false, divisive, harsh, or nonsensical; covetousness, ill will, and wrong view: these things are unskillful. Refraining from killing living creatures, stealing, and sexual misconduct; refraining from speech that’s false, divisive, harsh, or nonsensical; contentment, kind-heartedness, and right view: these things are skillful. So there are these ten unskillful things and ten that are skillful.
 
 
-4When a mendicant has given up craving so it is cut off at the root, made like a palm stump, obliterated, and unable to arise in the future, that mendicant is perfected. They’ve ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment.”
+4When a bhikkhu has given up craving so it is cut off at the root, made like a palm stump, obliterated, and unable to arise in the future, that bhikkhu is perfected. They’ve ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment.”
 
 
-5“Leaving aside Master Gotama, is there even a single monk disciple of Master Gotama who has realized the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements?”
+5“Leaving aside Master Gotama, is there even a single bhikkhu disciple of Master Gotama who has realized the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements?”
 
-“There are not just one hundred such monks who are my disciples, Vaccha, or two or three or four or five hundred, but many more than that.”
+“There are not just one hundred such bhikkhus who are my disciples, Vaccha, or two or three or four or five hundred, but many more than that.”
 
 
-6“Leaving aside Master Gotama and the monks, is there even a single nun disciple of Master Gotama who has realized the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements?”
+6“Leaving aside Master Gotama and the bhikkhus, is there even a single nun disciple of Master Gotama who has realized the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements?”
 
 “There are not just one hundred such nuns who are my disciples, Vaccha, or two or three or four or five hundred, but many more than that.”
 
-7“Leaving aside Master Gotama, the monks, and the nuns, is there even a single layman disciple of Master Gotama — white-clothed and celibate — who, with the ending of the five lower fetters, is reborn spontaneously, to be extinguished there, not liable to return from that world?”
+7“Leaving aside Master Gotama, the bhikkhus, and the nuns, is there even a single layman disciple of Master Gotama — white-clothed and celibate — who, with the ending of the five lower fetters, is reborn spontaneously, to be extinguished there, not liable to return from that world?”
 
 “There are not just one hundred such celibate laymen who are my disciples, Vaccha, or two or three or four or five hundred, but many more than that.”
 
-8“Leaving aside Master Gotama, the monks, the nuns, and the celibate laymen, is there even a single layman disciple of Master Gotama — white-clothed, enjoying sensual pleasures, following instructions, and responding to advice — who has gone beyond doubt, got rid of indecision, and lives self-assured and independent of others regarding the Teacher’s instruction?”
+8“Leaving aside Master Gotama, the bhikkhus, the nuns, and the celibate laymen, is there even a single layman disciple of Master Gotama — white-clothed, enjoying sensual pleasures, following instructions, and responding to advice — who has gone beyond doubt, got rid of indecision, and lives self-assured and independent of others regarding the Teacher’s instruction?”
 
 “There are not just one hundred such laymen enjoying sensual pleasures who are my disciples, Vaccha, or two or three or four or five hundred, but many more than that.”
 
-9“Leaving aside Master Gotama, the monks, the nuns, the celibate laymen, and the laymen enjoying sensual pleasures, is there even a single laywoman disciple of Master Gotama — white-clothed and celibate — who, with the ending of the five lower fetters, is reborn spontaneously, to be extinguished there, not liable to return from that world?”
+9“Leaving aside Master Gotama, the bhikkhus, the nuns, the celibate laymen, and the laymen enjoying sensual pleasures, is there even a single laywoman disciple of Master Gotama — white-clothed and celibate — who, with the ending of the five lower fetters, is reborn spontaneously, to be extinguished there, not liable to return from that world?”
 
 “There are not just one hundred such celibate laywomen who are my disciples, Vaccha, or two or three or four or five hundred, but many more than that.”
 
-10“Leaving aside Master Gotama, the monks, the nuns, the celibate laymen, the laymen enjoying sensual pleasures, and the celibate laywomen, is there even a single laywoman disciple of Master Gotama — white-clothed, enjoying sensual pleasures, following instructions, and responding to advice — who has gone beyond doubt, got rid of indecision, and lives self-assured and independent of others regarding the Teacher’s instruction?”
+10“Leaving aside Master Gotama, the bhikkhus, the nuns, the celibate laymen, the laymen enjoying sensual pleasures, and the celibate laywomen, is there even a single laywoman disciple of Master Gotama — white-clothed, enjoying sensual pleasures, following instructions, and responding to advice — who has gone beyond doubt, got rid of indecision, and lives self-assured and independent of others regarding the Teacher’s instruction?”
 
 “There are not just one hundred such laywomen enjoying sensual pleasures who are my disciples, Vaccha, or two or three or four or five hundred, but many more than that.”
 
-11“If Master Gotama was the only one to succeed in this teaching, not any monks, then this spiritual path would be incomplete in that respect. But because both Master Gotama and monks have succeeded in this teaching, this spiritual path is complete in that respect.
+11“If Master Gotama was the only one to succeed in this teaching, not any bhikkhus, then this spiritual path would be incomplete in that respect. But because both Master Gotama and bhikkhus have succeeded in this teaching, this spiritual path is complete in that respect.
 
-12If Master Gotama and the monks were the only ones to succeed in this teaching, not any nuns … celibate laymen … laymen enjoying sensual pleasures … celibate laywomen …
+12If Master Gotama and the bhikkhus were the only ones to succeed in this teaching, not any nuns … celibate laymen … laymen enjoying sensual pleasures … celibate laywomen …
 
 
-13-16laywomen enjoying sensual pleasures, then this spiritual path would be incomplete in that respect. But because Master Gotama, monks, nuns, celibate laymen, laymen enjoying sensual pleasures, celibate laywomen, and laywomen enjoying sensual pleasures have all succeeded in this teaching, this spiritual path is complete in that respect.
+13-16laywomen enjoying sensual pleasures, then this spiritual path would be incomplete in that respect. But because Master Gotama, bhikkhus, nuns, celibate laymen, laymen enjoying sensual pleasures, celibate laywomen, and laywomen enjoying sensual pleasures have all succeeded in this teaching, this spiritual path is complete in that respect.
 
 
 17Just as the Ganges river slants, slopes, and inclines towards the ocean, and keeps pushing into the ocean, in the same way Master Gotama’s assembly — with both laypeople and renunciates — slants, slopes, and inclines towards extinguishment, and keeps pushing into extinguishment.
 
-Excellent, Master Gotama! … I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
+Excellent, Master Gotama! … I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
 
-“Vaccha, if someone formerly ordained in another sect wishes to take the going forth, the ordination in this teaching and training, they must spend four months on probation. When four months have passed, if the mendicants are satisfied, they’ll give the going forth, the ordination into monkhood. However, I have recognized individual differences in this matter.”
+“Vaccha, if someone formerly ordained in another sect wishes to take the going forth, the ordination in this teaching and training, they must spend four months on probation. When four months have passed, if the bhikkhus are satisfied, they’ll give the going forth, the ordination into bhikkhuhood. However, I have recognized individual differences in this matter.”
 
-“Sir, if four months probation are required in such a case, I’ll spend four years on probation. When four years have passed, if the mendicants are satisfied, let them give me the going forth, the ordination into monkhood.” And the wanderer Vaccha received the going forth, the ordination in the Buddha’s presence.
+“Sir, if four months probation are required in such a case, I’ll spend four years on probation. When four years have passed, if the bhikkhus are satisfied, let them give me the going forth, the ordination into bhikkhuhood.” And the wanderer Vaccha received the going forth, the ordination in the Buddha’s presence.
 
 
 18Not long after his ordination, a fortnight later, Venerable Vacchagotta went to the Buddha, bowed, sat down to one side, and said to him: “Sir, I’ve reached as far as possible with the knowledge and understanding of a trainee. Please teach me further.”
@@ -105,19 +105,19 @@ Then Vacchagotta, living alone, withdrawn, diligent, keen, and resolute, soon re
 He understood: “Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is no return to any state of existence.” And Venerable Vacchagotta became one of the perfected.
 
 
-27Now at that time several mendicants were going to see the Buddha. Vacchagotta saw them coming off in the distance, went up to them, and said: “Hello venerables, where are you going?”
+27Now at that time several bhikkhus were going to see the Buddha. Vacchagotta saw them coming off in the distance, went up to them, and said: “Hello venerables, where are you going?”
 
 “Reverend, we are going to see the Buddha.”
 
 
-“Well then, reverends, in my name please bow with your head to the Buddha’s feet and say: ‘Sir, the mendicant Vacchagotta bows with his head to your feet and says: “I have served the Blessed One! I have served the Holy One!”’”
+“Well then, reverends, in my name please bow with your head to the Buddha’s feet and say: ‘Sir, the bhikkhu Vacchagotta bows with his head to your feet and says: “I have served the Blessed One! I have served the Holy One!”’”
 
-“Yes, reverend,” they replied. Then those mendicants went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, the mendicant Vacchagotta bows with his head to your feet and says: ‘I have served the Blessed One! I have served the Holy One!’”
+“Yes, reverend,” they replied. Then those bhikkhus went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, the bhikkhu Vacchagotta bows with his head to your feet and says: ‘I have served the Blessed One! I have served the Holy One!’”
 
 “I’ve already comprehended Vacchagotta’s mind and understood that he has the three knowledges, and is very mighty and powerful. And deities also told me about this.”
 
 
-28That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+28That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

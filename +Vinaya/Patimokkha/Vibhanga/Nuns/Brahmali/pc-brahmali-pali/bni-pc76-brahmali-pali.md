@@ -24,12 +24,12 @@ Soon afterwards the Sangha of nuns gave approval to other nuns to give the full 
 
 2The nuns of few desires complained and criticized her, “How could Venerable Caṇḍakāḷī consent to not being approved to give the full admission, and then criticize it afterwards?” …
 
-“Is it true, monks, that the nun Caṇḍakāḷī did this?”
+“Is it true, bhikkhus, that the nun Caṇḍakāḷī did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Caṇḍakāḷī do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Caṇḍakāḷī do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

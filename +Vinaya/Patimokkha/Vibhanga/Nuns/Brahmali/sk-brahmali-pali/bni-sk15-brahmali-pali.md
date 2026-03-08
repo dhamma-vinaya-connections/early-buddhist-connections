@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were swaying and leaning their bodies while walking in inhabited areas. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were swaying and leaning their bodies while walking in inhabited areas. …
 
 #### Final ruling
 
 2“‘I will not sway my body while walking in inhabited areas,’ this is how you should train.”
 
-3One should not sway one’s body while walking in an inhabited area; one should walk keeping one’s body straight. If a monk, out of disrespect, sways and leans his body while walking in an inhabited area, he commits an offense of wrong conduct.
+3One should not sway one’s body while walking in an inhabited area; one should walk keeping one’s body straight. If a bhikkhu, out of disrespect, sways and leans his body while walking in an inhabited area, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

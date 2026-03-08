@@ -19,11 +19,11 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “Suppose a monk’s right view is pure, cleansed, without fault, and free of afflictions. This never happens except when he’s disciplined by a buddha (12.20) _or_ a sugata (12.21) … [right samādhi is pure, cleansed, without fault, and free of afflictions. This never happens except when he’s disciplined by a Buddha.]
+2. It was then that the Bhagavān addressed the bhikkhus, “Suppose a monk’s right view is pure, cleansed, without fault, and free of afflictions. This never happens except when he’s disciplined by a buddha (12.20) _or_ a sugata (12.21) … [right samādhi is pure, cleansed, without fault, and free of afflictions. This never happens except when he’s disciplined by a Buddha.]
 
 3. “Suppose a monk’s right view is pure, cleansed, without fault, and free of afflictions. This can only happen when he’s [disciplined by a buddha _or_ a sugata … right samādhi is pure, cleansed, without fault, and free of afflictions. This can only happen when he’s disciplined by a buddha.]” <a id="fnref2"></a>[^2]
 
-4. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+4. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

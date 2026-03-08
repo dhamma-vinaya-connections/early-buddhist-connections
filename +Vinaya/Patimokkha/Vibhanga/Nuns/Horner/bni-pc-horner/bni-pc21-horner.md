@@ -9,9 +9,9 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 21
 
-*Bi-Pc.21.1.1* *BD.3.283* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time several nuns bathed naked with prostitutes at the same ford of the river Aciravatī.[^1] The prostitutes made fun of the nuns, saying: “Why in the world, ladies, is the Brahma-life led by you when you are young? Surely the pleasures of the senses should be enjoyed. When you are old, then you can lead the Brahma-life; thus will both extremes be experienced[^2] by you.” The nuns, being made fun of by these prostitutes, became ashamed.[^3] Then these nuns, having gone to a dwelling, told this matter to the nuns. The nuns told this matter to the monks. The monks told this matter to the lord. Then the lord on this occasion, in this connection, having given reasoned talk, addressed the monks, saying:
+*Bi-Pc.21.1.1* *BD.3.283* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time several nuns bathed naked with prostitutes at the same ford of the river Aciravatī.[^1] The prostitutes made fun of the nuns, saying: “Why in the world, ladies, is the Brahma-life led by you when you are young? Surely the pleasures of the senses should be enjoyed. When you are old, then you can lead the Brahma-life; thus will both extremes be experienced[^2] by you.” The nuns, being made fun of by these prostitutes, became ashamed.[^3] Then these nuns, having gone to a dwelling, told this matter to the nuns. The nuns told this matter to the bhikkhus. The bhikkhus told this matter to the lord. Then the lord on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying:
 
-“Because of this, monks, I will lay down a rule of training for nuns founded on ten reasons: for the excellence of the Order … for following the discipline.[^4] And thus, monks, the nuns should set forth this rule of training:
+“Because of this, bhikkhus, I will lay down a rule of training for nuns founded on ten reasons: for the excellence of the Order … for following the discipline.[^4] And thus, bhikkhus, the nuns should set forth this rule of training:
 
 “Whatever nun should bathe naked, there is an offence of expiation.”
 

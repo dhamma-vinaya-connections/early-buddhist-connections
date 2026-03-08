@@ -19,17 +19,17 @@ language: "English - Pali"
 
 #### 1. Taking Refuge in Oneself
 
-1So I have heard. At one time the Buddha was staying in the land of the Magadhans at Mātulā. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying in the land of the Magadhans at Mātulā. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Mendicants, be your own island, your own refuge, with no other refuge. Let the teaching be your island and your refuge, with no other refuge. And how does a mendicant do this? They meditate observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. That’s how a mendicant is their own island, their own refuge, with no other refuge. That’s how they let the teaching be their island and their refuge, with no other refuge.
+2“bhikkhus, be your own island, your own refuge, with no other refuge. Let the teaching be your island and your refuge, with no other refuge. And how does a bhikkhu do this? They meditate observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. That’s how a bhikkhu is their own island, their own refuge, with no other refuge. That’s how they let the teaching be their island and their refuge, with no other refuge.
 
 3You should roam inside your own territory, the domain of your fathers. If you roam inside your own territory, the domain of your fathers, Māra won’t catch you or get hold of you. It is due to undertaking skillful qualities that this merit grows.
 
 #### 2. King Daḷhanemi
 
-4Once upon a time, mendicants, there was a king named Daḷhanemi who was a wheel-turning monarch, a just and principled king. His dominion extended to all four sides, he achieved stability in the country, and he possessed the seven treasures. He had the following seven treasures: the wheel, the elephant, the horse, the jewel, the woman, the treasurer, and the counselor as the seventh treasure. He had over a thousand sons who were valiant and heroic, crushing the armies of his enemies. After conquering this land girt by sea, he reigned by principle, without rod or sword.
+4Once upon a time, bhikkhus, there was a king named Daḷhanemi who was a wheel-turning monarch, a just and principled king. His dominion extended to all four sides, he achieved stability in the country, and he possessed the seven treasures. He had the following seven treasures: the wheel, the elephant, the horse, the jewel, the woman, the treasurer, and the counselor as the seventh treasure. He had over a thousand sons who were valiant and heroic, crushing the armies of his enemies. After conquering this land girt by sea, he reigned by principle, without rod or sword.
 
 5Then, after many years, many hundred years, many thousand years had passed, King Daḷhanemi addressed one of his men, ‘My good man, when you see that the heavenly wheel-treasure has receded back from its place, please tell me.’
 
@@ -146,7 +146,7 @@ Then he ordered his men, ‘Well then, my men, tie this man’s arms tightly beh
 
 23People heard about this: ‘It seems the king is chopping the head off anyone who steals from others!’ It occurred to them, ‘We’d better have sharp swords made. Then when we steal from others, we’ll make an end of them, finish them off, and chop off their heads.’ They had sharp swords made. Then they started to make raids on villages, towns, and cities, and to infest the highways. And they chopped the heads off anyone they stole from.
 
-24And so, mendicants, from not paying money to the penniless, poverty became widespread. When poverty was widespread, theft became widespread. When theft was widespread, swords became widespread. When swords were widespread, killing living creatures became widespread. And for the sentient beings among whom killing was widespread, their lifespan and beauty declined. Those people lived for 80, 000 years, but their children lived for 40, 000 years.
+24And so, bhikkhus, from not paying money to the penniless, poverty became widespread. When poverty was widespread, theft became widespread. When theft was widespread, swords became widespread. When swords were widespread, killing living creatures became widespread. And for the sentient beings among whom killing was widespread, their lifespan and beauty declined. Those people lived for 80, 000 years, but their children lived for 40, 000 years.
 
 25Among the people who lived for 40, 000 years, a certain person stole something from others. They arrested him and presented him to the king, saying, ‘Your Majesty, this person stole from others.’
 
@@ -155,16 +155,16 @@ The king said to that person, ‘Is it really true, mister, that you stole from 
 ‘No, sire,’ he said, deliberately lying.
 
 
-26And so, mendicants, from not paying money to the penniless, poverty, theft, swords, and killing became widespread. When killing was widespread, lying became widespread. And for the sentient beings among whom lying was widespread, their lifespan and beauty declined. Those people who lived for 40, 000 years had children who lived for 20, 000 years.
+26And so, bhikkhus, from not paying money to the penniless, poverty, theft, swords, and killing became widespread. When killing was widespread, lying became widespread. And for the sentient beings among whom lying was widespread, their lifespan and beauty declined. Those people who lived for 40, 000 years had children who lived for 20, 000 years.
 
 27Among the people who lived for 20, 000 years, a certain person stole something from others. Someone else reported this to the king, ‘Your Majesty, such-and-such person stole from others,’ he said, going behind his back.
 
-28And so, mendicants, from not paying money to the penniless, poverty, theft, swords, killing, and lying became widespread. When lying was widespread, backbiting became widespread. And for the sentient beings among whom backbiting was widespread, their lifespan and beauty declined. Those people who lived for 20, 000 years had children who lived for 10, 000 years.
+28And so, bhikkhus, from not paying money to the penniless, poverty, theft, swords, killing, and lying became widespread. When lying was widespread, backbiting became widespread. And for the sentient beings among whom backbiting was widespread, their lifespan and beauty declined. Those people who lived for 20, 000 years had children who lived for 10, 000 years.
 
 
 29Among the people who lived for 10, 000 years, some were more beautiful than others. And the ugly beings, coveting the beautiful ones, committed adultery with others’ wives.
 
-30And so, mendicants, from not paying money to the penniless, poverty, theft, swords, killing, lying, and backbiting became widespread. When backbiting was widespread, sexual misconduct became widespread. And for the sentient beings among whom sexual misconduct was widespread, their lifespan and beauty declined. Those people who lived for 10, 000 years had children who lived for 5, 000 years.
+30And so, bhikkhus, from not paying money to the penniless, poverty, theft, swords, killing, lying, and backbiting became widespread. When backbiting was widespread, sexual misconduct became widespread. And for the sentient beings among whom sexual misconduct was widespread, their lifespan and beauty declined. Those people who lived for 10, 000 years had children who lived for 5, 000 years.
 
 
 31Among the people who lived for 5, 000 years, two things became widespread: harsh speech and talking nonsense. For the sentient beings among whom these two things were widespread, their lifespan and beauty declined. Those people who lived for 5, 000 years had some children who lived for 2, 500 years, while others lived for 2, 000 years.
@@ -178,11 +178,11 @@ The king said to that person, ‘Is it really true, mister, that you stole from 
 35Among the people who lived for two hundred and fifty years, three things became widespread: lack of due respect for mother and father, ascetics and brahmins, and failure to honor the elders in the family.
 
 
-36And so, mendicants, from not paying money to the penniless, all these things became widespread — poverty, theft, swords, killing, lying, backbiting, sexual misconduct, harsh speech and talking nonsense, desire and ill will, wrong view, illicit desire, immoral greed, and wrong thoughts, and lack of due respect for mother and father, ascetics and brahmins, and failure to honor the elders in the family. For the sentient beings among whom these things were widespread, their lifespan and beauty declined. Those people who lived for two hundred and fifty years had children who lived for a hundred years.
+36And so, bhikkhus, from not paying money to the penniless, all these things became widespread — poverty, theft, swords, killing, lying, backbiting, sexual misconduct, harsh speech and talking nonsense, desire and ill will, wrong view, illicit desire, immoral greed, and wrong thoughts, and lack of due respect for mother and father, ascetics and brahmins, and failure to honor the elders in the family. For the sentient beings among whom these things were widespread, their lifespan and beauty declined. Those people who lived for two hundred and fifty years had children who lived for a hundred years.
 
 #### 5. When People Live for Ten Years
 
-37There will come a time, mendicants, when these people will have children who live for ten years. Among the people who live for ten years, girls will be marriageable at five. The following flavors will disappear: ghee, butter, oil, honey, molasses, and salt. The best kind of food will be finger millet, just as fine rice with meat is the best kind of food today.
+37There will come a time, bhikkhus, when these people will have children who live for ten years. Among the people who live for ten years, girls will be marriageable at five. The following flavors will disappear: ghee, butter, oil, honey, molasses, and salt. The best kind of food will be finger millet, just as fine rice with meat is the best kind of food today.
 
 38The ten ways of doing skillful deeds will totally disappear, and the ten ways of doing unskillful deeds will explode in popularity. Those people will not even have the word ‘skillful’, still less anyone who does what is skillful. And anyone who disrespects mother and father, ascetics and brahmins, and fails to honor the elders in the family will be venerated and praised, just as the opposite is venerated and praised today.
 
@@ -214,30 +214,30 @@ And in the royal capital of Ketumati a king named Saṅkha will arise, a wheel-t
 
 #### 8. The Arising of the Buddha Metteyya
 
-47And the Blessed One named Metteyya will arise in the world — perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed — just as I have arisen today. He will realize with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and make it known to others, just as I do today. He will teach the Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he will reveal a spiritual practice that’s entirely full and pure, just as I do today. He will look after a Saṅgha of many thousand mendicants, just as I look after a Saṅgha of many hundreds today.
+47And the Blessed One named Metteyya will arise in the world — perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed — just as I have arisen today. He will realize with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and make it known to others, just as I do today. He will teach the Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he will reveal a spiritual practice that’s entirely full and pure, just as I do today. He will look after a Saṅgha of many thousand bhikkhus, just as I look after a Saṅgha of many hundreds today.
 
 48Then King Saṅkha will have the sacrificial post that had been built by King Mahāpanāda raised up. After staying there, he will give it away to ascetics and brahmins, paupers, vagrants, travelers, and beggars. Then, having shaved off his hair and beard and dressed in ocher robes, he will go forth from the lay life to homelessness in the Buddha Metteyya’s presence. Soon after going forth, living withdrawn, diligent, keen, and resolute, he will realize the supreme end of the spiritual path in this very life. He will live having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
 
-49Mendicants, be your own island, your own refuge, with no other refuge. Let the teaching be your island and your refuge, with no other refuge. And how does a mendicant do this? It’s when a mendicant meditates by observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. That’s how a mendicant is their own island, their own refuge, with no other refuge. That’s how they let the teaching be their island and their refuge, with no other refuge.
+49bhikkhus, be your own island, your own refuge, with no other refuge. Let the teaching be your island and your refuge, with no other refuge. And how does a bhikkhu do this? It’s when a bhikkhu ![[Satipatthanas]]. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. That’s how a bhikkhu is their own island, their own refuge, with no other refuge. That’s how they let the teaching be their island and their refuge, with no other refuge.
 
-#### 9. On Long Life and Beauty for Mendicants
+#### 9. On Long Life and Beauty for bhikkhus
 
-50Mendicants, you should roam inside your own territory, the domain of your fathers. Doing so, you will grow in life span, beauty, happiness, wealth, and power.
+50bhikkhus, you should roam inside your own territory, the domain of your fathers. Doing so, you will grow in life span, beauty, happiness, wealth, and power.
 
-51And what is long life for a mendicant? It’s when a mendicant develops the basis of psychic power that has immersion due to enthusiasm, and active effort. They develop the basis of psychic power that has immersion due to energy, and active effort. They develop the basis of psychic power that has immersion due to mental development, and active effort. They develop the basis of psychic power that has immersion due to inquiry, and active effort. Having developed and cultivated these four bases of psychic power they may, if they wish, live on for the eon or what’s left of the eon. This is long life for a mendicant.
+51And what is long life for a bhikkhu? It’s when a bhikkhu develops the ![[Iddhipadas]] that has immersion due to energy, and active effort. They develop the ![[Iddhipadas]] that has immersion due to inquiry, and active effort. Having developed and cultivated these four bases of psychic power they may, if they wish, live on for the eon or what’s left of the eon. This is long life for a bhikkhu.
 
-52And what is beauty for a mendicant? It’s when a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is beauty for a mendicant.
+52And what is beauty for a bhikkhu? It’s when a bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is beauty for a bhikkhu.
 
-53And what is happiness for a mendicant? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna … third jhāna … fourth jhāna. This is happiness for a mendicant.
+53And what is happiness for a bhikkhu? It’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna … third jhāna … fourth jhāna. This is happiness for a bhikkhu.
 
-54And what is wealth for a mendicant? It’s when a monk meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of compassion … rejoicing … equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will. This is wealth for a mendicant.
+54And what is wealth for a bhikkhu? It’s when a bhikkhu meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of compassion … rejoicing … equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will. This is wealth for a bhikkhu.
 
-55And what is power for a mendicant? It’s when a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. This is power for a mendicant.
+55And what is power for a bhikkhu? It’s when a bhikkhu realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. This is power for a bhikkhu.
 
-56Mendicants, I do not see a single power so hard to defeat as the power of Māra. It is due to undertaking skillful qualities that this merit grows.”
+56bhikkhus, I do not see a single power so hard to defeat as the power of Māra. It is due to undertaking skillful qualities that this merit grows.”
 
 
-57That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+57That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### 1. Attadīpasaraṇatā
 

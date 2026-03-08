@@ -18,12 +18,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, a trapper doesn’t cast bait for deer thinking, ‘May the deer, enjoying this bait, be healthy and in good condition. May they live long and prosper!’ A trapper casts bait for deer thinking, ‘When these deer intrude on where I cast the bait, they’ll recklessly enjoy eating it. They’ll become indulgent, then they’ll become negligent, and then they’ll be vulnerable on account of this bait.’
+2“bhikkhus, a trapper doesn’t cast bait for deer thinking, ‘May the deer, enjoying this bait, be healthy and in good condition. May they live long and prosper!’ A trapper casts bait for deer thinking, ‘When these deer intrude on where I cast the bait, they’ll recklessly enjoy eating it. They’ll become indulgent, then they’ll become negligent, and then they’ll be vulnerable on account of this bait.’
 
 3And indeed, the first herd of deer intruded on where the trapper cast the bait and recklessly enjoyed eating it. They became indulgent, then they became negligent, and then they were vulnerable to the trapper on account of that bait. And that’s how the first herd of deer failed to get free from the trapper’s power.
 
@@ -70,26 +70,26 @@ language: "English - Pali"
 And that’s just what they did. And that’s how the fourth group of ascetics and brahmins got free from Māra’s power. This fourth group of ascetics and brahmins is just like the fourth herd of deer, I say.
 
 
-18And where is it that Māra and his assembly can’t go? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see.
+18And where is it that Māra and his assembly can’t go? It’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is called a bhikkhu who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see.
 
-19Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is called a mendicant who has blinded Māra …
+19Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is called a bhikkhu who has blinded Māra …
 
-20Furthermore, with the fading away of rapture, a mendicant enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is called a mendicant who has blinded Māra …
+20Furthermore, with the fading away of rapture, a bhikkhu enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is called a bhikkhu who has blinded Māra …
 
-21Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. This is called a mendicant who has blinded Māra …
+21Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a bhikkhu enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. This is called a bhikkhu who has blinded Māra …
 
-22Furthermore, a mendicant, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. This is called a mendicant who has blinded Māra …
+22Furthermore, a bhikkhu, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. This is called a bhikkhu who has blinded Māra …
 
-23Furthermore, a mendicant, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness. This is called a mendicant who has blinded Māra …
+23Furthermore, a bhikkhu, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness. This is called a bhikkhu who has blinded Māra …
 
-24Furthermore, a mendicant, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. This is called a mendicant who has blinded Māra …
+24Furthermore, a bhikkhu, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. This is called a bhikkhu who has blinded Māra …
 
-25Furthermore, a mendicant, going totally beyond the dimension of nothingness, enters and remains in the dimension of neither perception nor non-perception. This is called a mendicant who has blinded Māra …
+25Furthermore, a bhikkhu, going totally beyond the dimension of nothingness, enters and remains in the dimension of neither perception nor non-perception. This is called a bhikkhu who has blinded Māra …
 
-26Furthermore, a mendicant, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end. This is called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see. And they’ve crossed over clinging to the world.”
+26Furthermore, a bhikkhu, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end. This is called a bhikkhu who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see. And they’ve crossed over clinging to the world.”
 
 
-27That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+27That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

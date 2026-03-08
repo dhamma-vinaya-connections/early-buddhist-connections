@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four people are found in the world. What four?
+1“bhikkhus, these four people are found in the world. What four?
 
 
 Firstly, a person, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … They contemplate the phenomena there—included in form, feeling, perception, choices, and consciousness—as impermanent, as suffering, as diseased, as an abscess, as a dart, as misery, as an affliction, as alien, as falling apart, as empty, as not-self. When their body breaks up, after death, they’re reborn in the company of the gods of the pure abodes. This rebirth is not shared with ordinary people.

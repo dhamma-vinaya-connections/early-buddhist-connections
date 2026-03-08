@@ -46,33 +46,33 @@ At that time Kakusandha, the Blessed One, the perfected one, the fully awakened 
 
 Then, when the night had passed, Sañjīva emerged from that attainment, shook out his robes, and, since it was morning, he put on his outer robe and entered the village for alms. Those cowherds, shepherds, farmers, and passers-by saw him wandering for alms and said, ‘It’s incredible, it’s amazing! This ascetic passed away while sitting, and now he has come back to life!’ And that’s how he came to be known as Sañjīva.
 
-8Then it occurred to Māra Dūsī, ‘I don’t know the course of rebirth of these ethical mendicants of good character. Why don’t I take possession of these brahmins and householders and say: “Come, all of you, abuse, attack, harass, and trouble the ethical mendicants of good character. Hopefully by doing this we can upset their minds so that Māra Dūsī can find a vulnerability.”’ And that’s exactly what he did.
+8Then it occurred to Māra Dūsī, ‘I don’t know the course of rebirth of these ethical bhikkhus of good character. Why don’t I take possession of these brahmins and householders and say: “Come, all of you, abuse, attack, harass, and trouble the ethical bhikkhus of good character. Hopefully by doing this we can upset their minds so that Māra Dūsī can find a vulnerability.”’ And that’s exactly what he did.
 
 
-9Then those brahmins and householders abused, attacked, harassed, and troubled the ethical mendicants of good character: ‘These shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, say, ‘We practice jhāna meditation! We practice jhāna meditation!’ And they meditate and concentrate and contemplate and ruminate. They’re just like an owl on a branch, which meditates and concentrates and contemplates and ruminates as it hunts a mouse. They’re just like a jackal on a river-bank, which meditates and concentrates and contemplates and ruminates as it hunts a fish. They’re just like a cat by an alley or a drain or a dustbin, which meditates and concentrates and contemplates and ruminates as it hunts a mouse. They’re just like an unladen donkey by an alley or a drain or a dustbin, which meditates and concentrates and contemplates and ruminates. In the same way, these shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, say, ‘We practice jhāna meditation! We practice jhāna meditation!’ And they meditate and concentrate and contemplate and ruminate.’
+9Then those brahmins and householders abused, attacked, harassed, and troubled the ethical bhikkhus of good character: ‘These shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, say, ‘We practice jhāna meditation! We practice jhāna meditation!’ And they meditate and concentrate and contemplate and ruminate. They’re just like an owl on a branch, which meditates and concentrates and contemplates and ruminates as it hunts a mouse. They’re just like a jackal on a river-bank, which meditates and concentrates and contemplates and ruminates as it hunts a fish. They’re just like a cat by an alley or a drain or a dustbin, which meditates and concentrates and contemplates and ruminates as it hunts a mouse. They’re just like an unladen donkey by an alley or a drain or a dustbin, which meditates and concentrates and contemplates and ruminates. In the same way, these shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, say, ‘We practice jhāna meditation! We practice jhāna meditation!’ And they meditate and concentrate and contemplate and ruminate.’
 
 
 10Most of the people who died at that time — when their body broke up, after death — were reborn in a place of loss, a bad place, the underworld, hell.
 
-11Then Kakusandha the Blessed One, the perfected one, the fully awakened Buddha, addressed the mendicants: ‘Mendicants, the brahmins and householders have been possessed by Māra Dūsī. He told them to abuse you in the hope of upsetting your minds so that he can find a vulnerability. Come, all of you mendicants, meditate spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. Meditate spreading a heart full of compassion … Meditate spreading a heart full of rejoicing … Meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will.’
+11Then Kakusandha the Blessed One, the perfected one, the fully awakened Buddha, addressed the bhikkhus: ‘bhikkhus, the brahmins and householders have been possessed by Māra Dūsī. He told them to abuse you in the hope of upsetting your minds so that he can find a vulnerability. Come, all of you bhikkhus, meditate spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. Meditate spreading a heart full of compassion … Meditate spreading a heart full of rejoicing … Meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will.’
 
 
-12When those mendicants were instructed and advised by the Buddha Kakusandha in this way, they went to a wilderness, or to the root of a tree, or to an empty hut, where they meditated spreading a heart full of love … compassion … rejoicing … equanimity.
+12When those bhikkhus were instructed and advised by the Buddha Kakusandha in this way, they went to a wilderness, or to the root of a tree, or to an empty hut, where they meditated spreading a heart full of love … compassion … rejoicing … equanimity.
 
 
-13Then it occurred to Māra Dūsī, ‘Even when I do this I don’t know the course of rebirth of these ethical mendicants of good character. Why don’t I take possession of these brahmins and householders and say: “Come, all of you, honor, respect, esteem, and venerate the ethical mendicants of good character. Hopefully by doing this we can upset their minds so that Māra Dūsī can find a vulnerability.”’
+13Then it occurred to Māra Dūsī, ‘Even when I do this I don’t know the course of rebirth of these ethical bhikkhus of good character. Why don’t I take possession of these brahmins and householders and say: “Come, all of you, honor, respect, esteem, and venerate the ethical bhikkhus of good character. Hopefully by doing this we can upset their minds so that Māra Dūsī can find a vulnerability.”’
 
-14And that’s exactly what he did. Then those brahmins and householders honored, respected, esteemed, and venerated the ethical mendicants of good character.
+14And that’s exactly what he did. Then those brahmins and householders honored, respected, esteemed, and venerated the ethical bhikkhus of good character.
 
 
 15Most of the people who died at that time — when their body broke up, after death — were reborn in a good place, a heavenly realm.
 
-16Then Kakusandha the Blessed One, the perfected one, the fully awakened Buddha, addressed the mendicants: ‘Mendicants, the brahmins and householders have been possessed by Māra Dūsī. He told them to venerate you in the hope of upsetting your minds so that he can find a vulnerability. Come, all you mendicants, meditate observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and observing the impermanence of all conditions.’
+16Then Kakusandha the Blessed One, the perfected one, the fully awakened Buddha, addressed the bhikkhus: ‘bhikkhus, the brahmins and householders have been possessed by Māra Dūsī. He told them to venerate you in the hope of upsetting your minds so that he can find a vulnerability. Come, all you bhikkhus, meditate observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and observing the impermanence of all conditions.’
 
-17When those mendicants were instructed and advised by the Buddha Kakusandha in this way, they went to a wilderness, or to the root of a tree, or to an empty hut, where they meditated observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and observing the impermanence of all conditions.
+17When those bhikkhus were instructed and advised by the Buddha Kakusandha in this way, they went to a wilderness, or to the root of a tree, or to an empty hut, where they meditated observing the ugliness of the body, perceiving the repulsiveness of food, perceiving dissatisfaction with the whole world, and observing the impermanence of all conditions.
 
 
-18Then the Buddha Kakusandha put on his outer robe in the morning and, taking this bowl and robe, entered the village for alms with Venerable Vidhura as his second monk.
+18Then the Buddha Kakusandha put on his outer robe in the morning and, taking this bowl and robe, entered the village for alms with Venerable Vidhura as his second bhikkhu.
 
 Then Māra Dūsī took possession of a certain boy, picked up a rock, and hit Vidhura on the head, cracking it open. Then Vidhura, with blood pouring from his cracked skull, still followed behind the Buddha Kakusandha. Then the Buddha Kakusandha turned his whole body, the way that elephants do, to look back, saying, ‘This Māra Dūsī knows no bounds.’ And with that look Māra Dūsī fell from that place and was reborn in the Great Hell.
 
@@ -94,7 +94,7 @@ after attacking the disciple Vidhura
 along with the brahmin Kakusandha.
 
 23Dark One, if you attack  
-a mendicant who directly knows this,  
+a bhikkhu who directly knows this,  
 a disciple of the Buddha,  
 you’ll fall into suffering.
 
@@ -106,17 +106,17 @@ Dancing there are nymphs
 shining in all different colors.
 
 25Dark One, if you attack  
-a mendicant who directly knows this,  
+a bhikkhu who directly knows this,  
 a disciple of the Buddha,  
 you’ll fall into suffering.
 
 26I’m the one who, encouraged by the Buddha,  
 shook the stilt longhouse of Migāra’s mother  
 with his big toe  
-as the Saṅgha of mendicants watched.
+as the Saṅgha of bhikkhus watched.
 
 27Dark One, if you attack  
-a mendicant who directly knows this,  
+a bhikkhu who directly knows this,  
 a disciple of the Buddha,  
 you’ll fall into suffering.
 
@@ -126,7 +126,7 @@ owing to psychic power,
 inspiring deities to awe.
 
 29Dark One, if you attack  
-a mendicant who directly knows this,  
+a bhikkhu who directly knows this,  
 a disciple of the Buddha,  
 you’ll fall into suffering.
 
@@ -139,7 +139,7 @@ admitted the truth when asked.
 
 
 31Dark One, if you attack  
-a mendicant who directly knows this,  
+a bhikkhu who directly knows this,  
 a disciple of the Buddha,  
 you’ll fall into suffering.
 
@@ -161,7 +161,7 @@ So how could I say today
 that I am permanent and eternal?’
 
 35Dark One, if you attack  
-a mendicant who directly knows this,  
+a bhikkhu who directly knows this,  
 a disciple of the Buddha,  
 you’ll fall into suffering.
 
@@ -171,7 +171,7 @@ I’ve visited the forests of the people
 who dwell in the Eastern Continent.
 
 37Dark One, if you attack  
-a mendicant who directly knows this,  
+a bhikkhu who directly knows this,  
 a disciple of the Buddha,  
 you’ll fall into suffering.
 
@@ -194,11 +194,11 @@ your wickedness won’t bear fruit?
 41Your deeds heap up wickedness  
 that will last a long time, terminator!  
 Forget about the Buddha, Māra!  
-And give up your hopes for the mendicants!”
+And give up your hopes for the bhikkhus!”
 
 
 42That is how, in the Bhesekaḷā grove,  
-the mendicant rebuked Māra.  
+the bhikkhu rebuked Māra.  
 That spirit, downcast,  
 disappeared right there!
 

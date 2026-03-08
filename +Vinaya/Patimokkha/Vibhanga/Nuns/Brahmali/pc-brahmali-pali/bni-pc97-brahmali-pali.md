@@ -24,22 +24,22 @@ language: "Pali - English"
 
 3At one time when the Buddha was staying at Sāvatthī in the Jeta grove, Anāthapiṇḍika’s Monastery, Hatthaka the Sakyan had been beaten in debate. While talking with the monastics of other religions, he would assert things after denying them, and he would deny things after asserting them. He evaded the issues, lied, and made sham appointments. The monastics of other religions complained and criticized him, “When Hatthaka talks with us, how can he assert things after denying them, deny things after asserting them, evade the issues, lie, and make sham appointments?”
 
-4The monks heard the complaints of those monastics of other religions. They then went to Hatthaka and said, “Is it true, Hatthaka, that you’re doing this?”
+4The bhikkhus heard the complaints of those monastics of other religions. They then went to Hatthaka and said, “Is it true, Hatthaka, that you’re doing this?”
 
 “These monastics of other religions should be beaten, whatever it takes! They shouldn’t be allowed to win.”
 
-The monks of few desires complained and criticized him, “When Hatthaka talks with the monastics of other religions, how can he assert things after denying them, deny things after asserting them, evade the issues, lie, and make sham appointments?”
+The bhikkhus of few desires complained and criticized him, “When Hatthaka talks with the monastics of other religions, how can he assert things after denying them, deny things after asserting them, evade the issues, lie, and make sham appointments?”
 
 5After rebuking Hatthaka in many ways, they told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned Hatthaka: “Is it true, Hatthaka, that you’re doing this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-6‘If a monk lies in full awareness, he commits an offense entailing confession.’”
+6‘If a bhikkhu lies in full awareness, he commits an offense entailing confession.’”
 
 #### Definitions
 

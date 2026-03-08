@@ -15,9 +15,9 @@ language: "English"
 ## ## Ānanda Sutta
 
 
-On one occasion Ven. Ānanda was staying near Kosambī at Ghosita’s monastery. There he addressed the monks, “Friend monks!”
+On one occasion Ven. Ānanda was staying near Kosambī at Ghosita’s monastery. There he addressed the bhikkhus, “Friend bhikkhus!”
 
-“Yes, friend,” the monks responded to him.
+“Yes, friend,” the bhikkhus responded to him.
 
 Ven. Ānanda said, “It’s amazing, friends, it’s astounding, how the Blessed One who knows & sees, the worthy one, rightly self-awakened, has attained & awakened to an opening [in a confining place][1](#^[[an9-thanissaro]].37note01) for the purification of beings, for the overcoming of sorrow & lamentation, for the disappearance of pain & distress, for the attainment of the right method, & for the realization of unbinding, where the eye will be, and those forms, and yet one will not be sensitive to that dimension; where the ear will be, and those sounds… where the nose will be, and those aromas… where the tongue will be, and those flavors… where the body will be, and those tactile sensations, and yet one will not be sensitive to that dimension.” ^[[an9-thanissaro]].37note01-ref
 

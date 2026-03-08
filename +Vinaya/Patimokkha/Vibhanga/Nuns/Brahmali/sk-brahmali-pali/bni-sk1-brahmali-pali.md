@@ -18,26 +18,26 @@ language: "Pali - English"
 
 #### Origin
 
-2At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six wore their sarongs hanging down in front and behind. People complained and criticized them:
+2At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six wore their sarongs hanging down in front and behind. People complained and criticized them:
 
 “How can the Sakyan monastics wear their sarongs hanging down in front and behind? They’re just like householders who indulge in worldly pleasures!”
 
-3The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks:“How can the monks from the group of six wear their sarongs hanging down in front and behind?”
+3The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus:“How can the bhikkhus from the group of six wear their sarongs hanging down in front and behind?”
 
-4After rebuking those monks in many ways, they told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned the monks from the group of six:
+4After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned the bhikkhus from the group of six:
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
 5‘“I will wear my sarong evenly all around,” this is how you should train.’”
 
-5One should wear one’s sarong evenly all around, covering the navel and the knees. If a monk, out of disrespect, wears his sarong hanging down in front or behind, he commits an offense of wrong conduct.
+5One should wear one’s sarong evenly all around, covering the navel and the knees. If a bhikkhu, out of disrespect, wears his sarong hanging down in front or behind, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

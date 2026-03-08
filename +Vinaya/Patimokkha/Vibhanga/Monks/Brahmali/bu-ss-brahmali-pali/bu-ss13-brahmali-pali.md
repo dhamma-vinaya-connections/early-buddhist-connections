@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bad and shameless monks Assaji and Punabbasuka were staying at Kīṭāgiri. They were misbehaving in many ways.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bad and shameless bhikkhus Assaji and Punabbasuka were staying at Kīṭāgiri. They were misbehaving in many ways.
 
 They planted flowering trees, watered and plucked them, and then tied the flowers together. They made the flowers into garlands, garlands with stalks on one side and garlands with stalks on both sides. They made flower arrangements, wreaths, ornaments for the head, ornaments for the ears, and ornaments for the chest. And they had others do the same. They then took these things, or sent them, to the women, the daughters, the girls, the daughters-in-law, and the female slaves of good families.
 
@@ -42,54 +42,54 @@ He took that monk to his house and gave him a meal. He then said, “Where are y
 “I’m going to Sāvatthī to see the Buddha.”
 
 
-“Well then, would you please pay respect at the Buddha’s feet in my name and say, ‘Sir, the monastery at Kīṭāgiri has been corrupted. The bad and shameless monks Assaji and Punabbasuka are staying there. And they’re misbehaving in a many ways. They plant flowering trees, water them … And they misbehave in a variety of ways. Those who previously had faith and confidence have now lost it, and there’s no longer any support for the Sangha. The good monks have left and the bad monks are staying on. Venerable Sir, please send monks to stay at the monastery at Kīṭāgiri.’”
+“Well then, would you please pay respect at the Buddha’s feet in my name and say, ‘Sir, the monastery at Kīṭāgiri has been corrupted. The bad and shameless bhikkhus Assaji and Punabbasuka are staying there. And they’re misbehaving in a many ways. They plant flowering trees, water them … And they misbehave in a variety of ways. Those who previously had faith and confidence have now lost it, and there’s no longer any support for the Sangha. The good bhikkhus have left and the bad bhikkhus are staying on. Venerable Sir, please send bhikkhus to stay at the monastery at Kīṭāgiri.’”
 
 
-4The monk consented, got up, and set out for Sāvatthī. When he eventually arrived, he went to the Buddha in Anāthapiṇḍika’s Monastery. He bowed to the Buddha and sat down. Since it is the custom for Buddhas to greet newly arrived monks, the Buddha said to him, “I hope you’re keeping well, monk, I hope you’re getting by? I hope you’re not tired from traveling? And where have you come from?”
+4The monk consented, got up, and set out for Sāvatthī. When he eventually arrived, he went to the Buddha in Anāthapiṇḍika’s Monastery. He bowed to the Buddha and sat down. Since it is the custom for Buddhas to greet newly arrived bhikkhus, the Buddha said to him, “I hope you’re keeping well, monk, I hope you’re getting by? I hope you’re not tired from traveling? And where have you come from?”
 
 
 “I’m keeping well, Sir, I’m getting by. I’m not tired from traveling.” He then told the Buddha all that had happened at Kīṭāgiri, adding, “That’s where I’ve come from, Sir.”
 
 
-5Soon afterwards the Buddha had the Sangha gathered and questioned the monks: “Is it true, monks, that the bad and shameless monks Assaji and Punabbasuka are staying at Kīṭāgiri and misbehaving in like this? And is it true that those people who previously had faith and confidence have now lost it, that there’s no longer any support for the Sangha, and that the good monks have left and the bad monks are staying on?”
+5Soon afterwards the Buddha had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the bad and shameless bhikkhus Assaji and Punabbasuka are staying at Kīṭāgiri and misbehaving in like this? And is it true that those people who previously had faith and confidence have now lost it, that there’s no longer any support for the Sangha, and that the good bhikkhus have left and the bad bhikkhus are staying on?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them … “Monks, how can those foolish men misbehave in this way?
+The Buddha rebuked them … “bhikkhus, how can those foolish men misbehave in this way?
 
-This will affect people’s confidence …” He then gave a teaching and addressed Sāriputta and Moggallāna: “Go to Kīṭāgiri and do a legal procedure of banishing the monks Assaji and Punabbasuka. They’re your students.”
-
-
-6“Sir, how can we do a procedure of banishing these monks from Kīṭāgiri? They’re temperamental and harsh.”
+This will affect people’s confidence …” He then gave a teaching and addressed Sāriputta and Moggallāna: “Go to Kīṭāgiri and do a legal procedure of banishing the bhikkhus Assaji and Punabbasuka. They’re your students.”
 
 
-“Well then, take many monks.”
+6“Sir, how can we do a procedure of banishing these bhikkhus from Kīṭāgiri? They’re temperamental and harsh.”
+
+
+“Well then, take many bhikkhus.”
 
 “Yes, sir.”
 
 
-“And, monks, this is how it should be done. First you should accuse the monks Assaji and Punabbasuka. They should then be reminded of what they have done, before they are charged with an offense. A competent and capable monk should then inform the Sangha:
+“And, bhikkhus, this is how it should be done. First you should accuse the bhikkhus Assaji and Punabbasuka. They should then be reminded of what they have done, before they are charged with an offense. A competent and capable monk should then inform the Sangha:
 
-7‘Please, Venerables, I ask the Sangha to listen. These monks, Assaji and Punabbasuka, are corrupters of families and badly behaved. Their bad behavior has been seen and heard about, and the families corrupted by them have been seen and heard about. If it seems appropriate to the Sangha, the Sangha should do a legal procedure of banishing them, prohibiting the monks Assaji and Punabbasuka from staying at Kīṭāgiri. This is the motion.
+7‘Please, Venerables, I ask the Sangha to listen. These bhikkhus, Assaji and Punabbasuka, are corrupters of families and badly behaved. Their bad behavior has been seen and heard about, and the families corrupted by them have been seen and heard about. If it seems appropriate to the Sangha, the Sangha should do a legal procedure of banishing them, prohibiting the bhikkhus Assaji and Punabbasuka from staying at Kīṭāgiri. This is the motion.
 
-8Please, Venerables, I ask the Sangha to listen. These monks, Assaji and Punabbasuka, are corrupters of families and badly behaved. Their bad behavior has been seen and heard about, and the families corrupted by them have been seen and heard about. The Sangha does a legal procedure of banishing them, prohibiting the monks Assaji and Punabbasuka from staying at Kīṭāgiri. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+8Please, Venerables, I ask the Sangha to listen. These bhikkhus, Assaji and Punabbasuka, are corrupters of families and badly behaved. Their bad behavior has been seen and heard about, and the families corrupted by them have been seen and heard about. The Sangha does a legal procedure of banishing them, prohibiting the bhikkhus Assaji and Punabbasuka from staying at Kīṭāgiri. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
 
 9For the second time … For the third time I speak on this matter. Please, Venerables, I ask the Sangha to listen. … should speak up.
 
-10The Sangha has done a legal procedure of banishing them, prohibiting the monks Assaji and Punabbasuka from staying at Kīṭāgiri. The Sangha approves and is therefore silent. I’ll remember it thus.’”
+10The Sangha has done a legal procedure of banishing them, prohibiting the bhikkhus Assaji and Punabbasuka from staying at Kīṭāgiri. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
-11Soon afterwards a saṅgha of monks, headed by Sāriputta and Moggallāna, went to Kīṭāgiri and did the procedure of banishing Assaji and Punabbasuka, prohibiting them from staying at Kīṭāgiri. After the Sangha had done the procedure, those monks did not conduct themselves properly or suitably so as to deserve to be released, nor did they ask the monks for forgiveness. Instead they abused and reviled them, and they slandered them as acting from desire, ill will, confusion, and fear. And they left and they disrobed. The monks of few desires complained and criticized them, “How can these monks act in this way when the Sangha has done a legal procedure of banishing them?”
+11Soon afterwards a saṅgha of bhikkhus, headed by Sāriputta and Moggallāna, went to Kīṭāgiri and did the procedure of banishing Assaji and Punabbasuka, prohibiting them from staying at Kīṭāgiri. After the Sangha had done the procedure, those bhikkhus did not conduct themselves properly or suitably so as to deserve to be released, nor did they ask the bhikkhus for forgiveness. Instead they abused and reviled them, and they slandered them as acting from desire, ill will, confusion, and fear. And they left and they disrobed. The bhikkhus of few desires complained and criticized them, “How can these bhikkhus act in this way when the Sangha has done a legal procedure of banishing them?”
 
-12They rebuked the monks Assaji and Punabbasuka in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that the monks Assaji and Punabbasuka acted in this way?”
+12They rebuked the bhikkhus Assaji and Punabbasuka in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the bhikkhus Assaji and Punabbasuka acted in this way?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-13‘If a monk who lives supported by a village or town is a corrupter of families and badly behaved, and his bad behavior has been seen and heard about, and the families corrupted by him have been seen and heard about, then the monks should correct him like this: “Venerable, you’re a corrupter of families and badly behaved. Your bad behavior has been seen and heard about, and the families corrupted by you have been seen and heard about. Leave this monastery; you’ve stayed here long enough.” If he replies, “You’re acting out of desire, ill will, confusion, and fear. Because of this sort of offense, you only banish some, but not others,” the monks should correct him like this: “No, Venerable, the monks are not acting out of desire, ill will, confusion, and fear. Venerable, you’re a corrupter of families and badly behaved. Your bad behavior has been seen and heard about, and the families corrupted by you have been seen and heard about. Leave this monastery; you’ve stayed here long enough.” If that monk continues as before, the monks should press him up to three times to make him stop. If he then stops, all is well. If he does not stop, he commits an offense entailing suspension.’”
+13‘If a monk who lives supported by a village or town is a corrupter of families and badly behaved, and his bad behavior has been seen and heard about, and the families corrupted by him have been seen and heard about, then the bhikkhus should correct him like this: “Venerable, you’re a corrupter of families and badly behaved. Your bad behavior has been seen and heard about, and the families corrupted by you have been seen and heard about. Leave this monastery; you’ve stayed here long enough.” If he replies, “You’re acting out of desire, ill will, confusion, and fear. Because of this sort of offense, you only banish some, but not others,” the bhikkhus should correct him like this: “No, Venerable, the bhikkhus are not acting out of desire, ill will, confusion, and fear. Venerable, you’re a corrupter of families and badly behaved. Your bad behavior has been seen and heard about, and the families corrupted by you have been seen and heard about. Leave this monastery; you’ve stayed here long enough.” If that monk continues as before, the bhikkhus should press him up to three times to make him stop. If he then stops, all is well. If he does not stop, he commits an offense entailing suspension.’”
 
 #### Definitions
 
@@ -112,33 +112,33 @@ The Buddha rebuked them … “And, monks, this training rule should be recited 
 
 22**Him:** that monk who is a corrupter of families.
 
-23**The monks:** Other monks. Those who see it or hear about it. They should correct him like this: “Venerable, you’re a corrupter of families and badly behaved. Your bad behavior has been seen and heard about, and the families corrupted by you have been seen and heard about. Leave this monastery; you’ve stayed here long enough.”
+23**The bhikkhus:** Other bhikkhus. Those who see it or hear about it. They should correct him like this: “Venerable, you’re a corrupter of families and badly behaved. Your bad behavior has been seen and heard about, and the families corrupted by you have been seen and heard about. Leave this monastery; you’ve stayed here long enough.”
 
 24If he replies, “You’re acting out of desire, ill will, confusion, and fear. Because of this sort of offense, you only banish some, but not others.”
 
 
 25**Him:** that monk who is having a legal procedure done against him.
 
-26**The monks:** Other monks
+26**The bhikkhus:** Other bhikkhus
 
-27Those who see it or hear about it. They should correct him like this: “No, Venerable, the monks are not acting out of desire, ill will, confusion, and fear. Venerable, you’re a corrupter of families and badly behaved. Your bad behavior has been seen and heard about, and the families corrupted by you have been seen and heard about. Leave this monastery; you’ve stayed here long enough.” And they should correct him a second and a third time.
+27Those who see it or hear about it. They should correct him like this: “No, Venerable, the bhikkhus are not acting out of desire, ill will, confusion, and fear. Venerable, you’re a corrupter of families and badly behaved. Your bad behavior has been seen and heard about, and the families corrupted by you have been seen and heard about. Leave this monastery; you’ve stayed here long enough.” And they should correct him a second and a third time.
 
 
 28If he stops, all is well. If he does not stop, he commits an offense of wrong conduct.
 
 If those who hear about it do not say anything, they commit an offense of wrong conduct.
 
-That monk, even if he has to be pulled into the Sangha, should be corrected like this: “No, Venerable, the monks are not acting out of desire, ill will, confusion, and fear. Venerable, you’re a corrupter of families and badly behaved. Your bad behavior has been seen and heard about, and the families corrupted by you have been seen and heard about. Leave this monastery; you’ve stayed here long enough.” They should correct him a second and a third time.
+That monk, even if he has to be pulled into the Sangha, should be corrected like this: “No, Venerable, the bhikkhus are not acting out of desire, ill will, confusion, and fear. Venerable, you’re a corrupter of families and badly behaved. Your bad behavior has been seen and heard about, and the families corrupted by you have been seen and heard about. Leave this monastery; you’ve stayed here long enough.” They should correct him a second and a third time.
 
 If he stops, all is well. If he does not stop, he commits an offense of wrong conduct.
 
 Should press him:
 
-29“And, monks, he should be pressed like this. A competent and capable monk should inform the Sangha:
+29“And, bhikkhus, he should be pressed like this. A competent and capable monk should inform the Sangha:
 
-30‘Please, Venerables, I ask the Sangha to listen. The monk so-and-so, who has had a legal procedure of banishment done against himself, is slandering the monks as acting out of desire, ill will, confusion, and fear. And he keeps on doing it. If it seems appropriate to the Sangha, the Sangha should press him to make him stop. This is the motion.
+30‘Please, Venerables, I ask the Sangha to listen. The monk so-and-so, who has had a legal procedure of banishment done against himself, is slandering the bhikkhus as acting out of desire, ill will, confusion, and fear. And he keeps on doing it. If it seems appropriate to the Sangha, the Sangha should press him to make him stop. This is the motion.
 
-31Please, Venerables, I ask the Sangha to listen. The monk so-and-so, who has had a legal procedure of banishment done against himself, is slandering the monks as acting out of desire, ill will, confusion, and fear. And he keeps on doing it. The Sangha presses him to make him stop. Any monk who approves of pressing him to make him stop should remain silent. Any monk who doesn’t approve should speak up.
+31Please, Venerables, I ask the Sangha to listen. The monk so-and-so, who has had a legal procedure of banishment done against himself, is slandering the bhikkhus as acting out of desire, ill will, confusion, and fear. And he keeps on doing it. The Sangha presses him to make him stop. Any monk who approves of pressing him to make him stop should remain silent. Any monk who doesn’t approve should speak up.
 
 
 32For the second time I speak on this matter … For the third time I speak on this matter …
@@ -147,7 +147,7 @@ Should press him:
 
 34After the motion, he commits an offense of wrong conduct. After each of the first two announcements, he commits a serious offense. When the last announcement is finished, he commits an offense entailing suspension. For one who commits the offense entailing suspension, the offense of wrong conduct and the serious offenses are annulled.
 
-35**He commits an offense entailing suspension:** Only the Sangha gives probation for that offense, sends back to the beginning, gives the trial period, and rehabilitates—not several monks, not an individual. Therefore it is called “an offense entailing suspension”. This is the name and designation of this class of offense. Therefore, too, it is called “an offense entailing suspension”.
+35**He commits an offense entailing suspension:** Only the Sangha gives probation for that offense, sends back to the beginning, gives the trial period, and rehabilitates—not several bhikkhus, not an individual. Therefore it is called “an offense entailing suspension”. This is the name and designation of this class of offense. Therefore, too, it is called “an offense entailing suspension”.
 
 #### Permutations
 
@@ -171,7 +171,7 @@ Should press him:
 
 44“Venerables, the thirteen rules on suspension have been recited, nine being immediate offenses, four after the third announcement.
 
-If a monk commits any one of them, he is to undergo probation for the same number of days as he knowingly concealed that offense. When this is completed, he must undertake the trial period for a further six days. When this is completed, he is to be rehabilitated wherever there is a saṅgha of at least twenty monks. If that monk is rehabilitated by a saṅgha of even one less than twenty, that monk is not rehabilitated and those monks are at fault. This is the proper procedure.
+If a monk commits any one of them, he is to undergo probation for the same number of days as he knowingly concealed that offense. When this is completed, he must undertake the trial period for a further six days. When this is completed, he is to be rehabilitated wherever there is a saṅgha of at least twenty bhikkhus. If that monk is rehabilitated by a saṅgha of even one less than twenty, that monk is not rehabilitated and those bhikkhus are at fault. This is the proper procedure.
 
 In regard to this I ask you, ‘Are you pure in this?’ A second time I ask, ‘Are you pure in this?’ A third time I ask, ‘Are you pure in this?’ You are pure in this and therefore silent. I’ll remember it thus.”
 

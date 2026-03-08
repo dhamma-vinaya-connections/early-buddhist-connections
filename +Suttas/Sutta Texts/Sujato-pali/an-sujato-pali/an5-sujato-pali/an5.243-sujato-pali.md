@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks in bad verbal conduct … benefits in good verbal conduct …”
+1“bhikkhus, there are these five drawbacks in bad verbal conduct … benefits in good verbal conduct …”
 
 1"Pañcime, bhikkhave, ādīnavā vacīduccarite … pe … ānisaṁsā vacīsucarite … pe … .
 

@@ -7,15 +7,15 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC87]]
 > ◄  [[bu-pc86-horner]] 📜  [[bu-pc88-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 87
+# bhikkhus’ Expiation (_Pācittiya_) 87
 
-*Bu-Pc.87.1.1* *BD.3.90* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, was lying down on a high couch. Then the lord, as he was touring the lodgings together with several monks, came up to the dwelling-place of the venerable Upananda, the son of the Sakyans. The venerable Upananda, the son of the Sakyans, saw the lord coming from afar, and seeing him, he spoke thus to the lord: “Lord, let the lord come, let him lie down on my bed.”
+*Bu-Pc.87.1.1* *BD.3.90* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, was lying down on a high couch. Then the lord, as he was touring the lodgings together with several bhikkhus, came up to the dwelling-place of the venerable Upananda, the son of the Sakyans. The venerable Upananda, the son of the Sakyans, saw the lord coming from afar, and seeing him, he spoke thus to the lord: “Lord, let the lord come, let him lie down on my bed.”
 
-Then the lord, having turned back from there, addressed the monks, saying: “Monks, the foolish man should be spoken to about his abode.”
+Then the lord, having turned back from there, addressed the bhikkhus, saying: “bhikkhus, the foolish man should be spoken to about his abode.”
 
-Then the lord, having in many a figure rebuked the venerable Upananda, the son of the Sakyans, for his difficulty in maintaining himself … “… And thus, monks, this rule of training should be set forth:
+Then the lord, having in many a figure rebuked the venerable Upananda, the son of the Sakyans, for his difficulty in maintaining himself … “… And thus, bhikkhus, this rule of training should be set forth:
 
-“When a new couch or chair is being made for a monk,[^1] the legs should be made eight finger-breadths[^2] (high) according to the accepted finger-breadth,[^3] except for the knotched ends below.[^4] In exceeding this (measure), there is an offence of expiation involving cutting down.”[^5]
+“When a new couch or chair is being made for a bhikkhu,[^1] the legs should be made eight finger-breadths[^2] (high) according to the accepted finger-breadth,[^3] except for the knotched ends below.[^4] In exceeding this (measure), there is an offence of expiation involving cutting down.”[^5]
 
 * * *
 
@@ -41,7 +41,7 @@ The Fifth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

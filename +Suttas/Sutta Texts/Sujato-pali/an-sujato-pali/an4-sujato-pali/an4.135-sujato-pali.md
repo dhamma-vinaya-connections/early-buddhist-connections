@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four people are found in the world. What four? The blameworthy, the mostly blameworthy, the slightly blameworthy, and the blameless.
+1“bhikkhus, these four people are found in the world. What four? The blameworthy, the mostly blameworthy, the slightly blameworthy, and the blameless.
 
 2And how is a person blameworthy? It’s when a person does things by way of body, speech, and mind that are blameworthy. That’s how a person is blameworthy.
 

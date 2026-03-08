@@ -31,54 +31,54 @@ Then in the late afternoon, Udāyī came out of retreat and went to the Buddha. 
 
 2“Just now, sir, as I was in private retreat this thought came to mind: ‘The Buddha has rid us of so many things that bring suffering and gifted us so many things that bring happiness! He has rid us of so many unskillful things and gifted us so many skillful things!’
 
-For we used to eat in the evening, the morning, and at the wrong time of day. But then there came a time when the Buddha addressed the mendicants, saying, ‘Please, mendicants, give up that meal at the wrong time of day.’ At that, sir, we became sad and upset, ‘But these faithful householders give us a variety of delicious foods at the wrong time of day. And the Blessed One tells us to give it up! The Holy One tells us to let it go!’ But when we considered our love and respect for the Buddha, and our sense of conscience and prudence, we gave up that meal at the wrong time of day. Then we ate in the evening and the morning.
+For we used to eat in the evening, the morning, and at the wrong time of day. But then there came a time when the Buddha addressed the bhikkhus, saying, ‘Please, bhikkhus, give up that meal at the wrong time of day.’ At that, sir, we became sad and upset, ‘But these faithful householders give us a variety of delicious foods at the wrong time of day. And the Blessed One tells us to give it up! The Holy One tells us to let it go!’ But when we considered our love and respect for the Buddha, and our sense of conscience and prudence, we gave up that meal at the wrong time of day. Then we ate in the evening and the morning.
 
-But then there came a time when the Buddha addressed the mendicants, saying, ‘Please, mendicants, give up that meal at the wrong time of night.’ At that, sir, we became sad and upset, ‘But that’s considered the more delicious of the two meals. And the Blessed One tells us to give it up! The Holy One tells us to let it go!’ Once it so happened that a certain person got some soup during the day. He said: ‘Come, let’s set this aside; we’ll enjoy it together this evening.’ Nearly all meals are prepared at night, only a few in the day. But when we considered our love and respect for the Buddha, and our sense of conscience and prudence, we gave up that meal at the wrong time of night.
+But then there came a time when the Buddha addressed the bhikkhus, saying, ‘Please, bhikkhus, give up that meal at the wrong time of night.’ At that, sir, we became sad and upset, ‘But that’s considered the more delicious of the two meals. And the Blessed One tells us to give it up! The Holy One tells us to let it go!’ Once it so happened that a certain person got some soup during the day. He said: ‘Come, let’s set this aside; we’ll enjoy it together this evening.’ Nearly all meals are prepared at night, only a few in the day. But when we considered our love and respect for the Buddha, and our sense of conscience and prudence, we gave up that meal at the wrong time of night.
 
-In the past, mendicants went wandering for alms in the dark of the night. They walked into a swamp, or fell into a sewer, or collided with a thorn bush, or collided with a sleeping cow, or encountered youths escaping a crime or on their way to commit one, or were invited by a female to commit a lewd act.
+In the past, bhikkhus went wandering for alms in the dark of the night. They walked into a swamp, or fell into a sewer, or collided with a thorn bush, or collided with a sleeping cow, or encountered youths escaping a crime or on their way to commit one, or were invited by a female to commit a lewd act.
 
 Once it so happened that I wandered for alms in the dark of the night. A woman washing a pot saw me by a flash of lightning. Startled, she cried out, ‘Bloody hell! A goblin’s upon me!’
 
-When she said this, I said to her, ‘Sister, I am no goblin. I’m a mendicant waiting for alms.’
+When she said this, I said to her, ‘Sister, I am no goblin. I’m a bhikkhu waiting for alms.’
 
-‘Then it’s a mendicant whose ma died and pa died! You’d be better off having your belly sliced open with a meat cleaver than to wander for alms in the dark of night for the sake of your belly.’
+‘Then it’s a bhikkhu whose ma died and pa died! You’d be better off having your belly sliced open with a meat cleaver than to wander for alms in the dark of night for the sake of your belly.’
 
 Recollecting that, I thought, ‘The Buddha has rid us of so many things that bring suffering and gifted us so many things that bring happiness! He has rid us of so many unskillful things and gifted us so many skillful things!’”
 
 
-3“This is exactly what happens when some foolish people are told by me to give something up. They say, ‘What, such a trivial, insignificant thing as this? This ascetic is much too strict!’ They don’t give it up, and they nurse bitterness towards me; and for the mendicants who want to train, that becomes a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke.
+3“This is exactly what happens when some foolish people are told by me to give something up. They say, ‘What, such a trivial, insignificant thing as this? This ascetic is much too strict!’ They don’t give it up, and they nurse bitterness towards me; and for the bhikkhus who want to train, that becomes a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke.
 
 Suppose a quail was tied with a rotten creeper, and was waiting there to be injured, caged, or killed. Would it be right to say that, for that quail, that rotten creeper is weak, feeble, rotten, and insubstantial?”
 
 
 4“No, sir. For that quail, that rotten creeper is a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke.”
 
-5“In the same way, when some foolish people are told by me to give something up, they say, ‘What, such a trivial, insignificant thing as this? This ascetic is much too strict!’ They don’t give it up, and they nurse bitterness towards me; and for the mendicants who want to train, that becomes a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke.
+5“In the same way, when some foolish people are told by me to give something up, they say, ‘What, such a trivial, insignificant thing as this? This ascetic is much too strict!’ They don’t give it up, and they nurse bitterness towards me; and for the bhikkhus who want to train, that becomes a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke.
 
-6But when some gentlemen are told by me to give something up, they say, ‘What, we just have to give up such a trivial, insignificant thing as this, when the Blessed One tells us to give it up, the Holy One tells us to let it go?’ They give it up, and they don’t nurse bitterness towards me; and when the mendicants who want to train have given that up, they live relaxed, unruffled, surviving on charity, their hearts free as a wild deer. For them, that bond is weak, feeble, rotten, and insubstantial.
+6But when some gentlemen are told by me to give something up, they say, ‘What, we just have to give up such a trivial, insignificant thing as this, when the Blessed One tells us to give it up, the Holy One tells us to let it go?’ They give it up, and they don’t nurse bitterness towards me; and when the bhikkhus who want to train have given that up, they live relaxed, unruffled, surviving on charity, their hearts free as a wild deer. For them, that bond is weak, feeble, rotten, and insubstantial.
 
 Suppose there was a royal bull elephant with tusks like plows, able to draw a heavy load, pedigree and battle-hardened. And it was bound with a strong harness. But just by twisting its body a little, it would break apart its bonds and go wherever it wants. Would it be right to say that, for that bull elephant, that strong harness is a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke?”
 
 7“No, sir. For that bull elephant, that strong harness is weak, feeble, rotten, and insubstantial.”
 
 
-8“In the same way, when some gentlemen are told by me to give something up, they say, ‘What, we just have to give up such a trivial, insignificant thing as this, when the Blessed One tells us to give it up, the Holy One tells us to let it go?’ They give it up, and they don’t nurse bitterness towards me; and when the mendicants who want to train have given that up, they live relaxed, unruffled, surviving on charity, their hearts free as a wild deer. For them, that bond is weak, feeble, rotten, and insubstantial.
+8“In the same way, when some gentlemen are told by me to give something up, they say, ‘What, we just have to give up such a trivial, insignificant thing as this, when the Blessed One tells us to give it up, the Holy One tells us to let it go?’ They give it up, and they don’t nurse bitterness towards me; and when the bhikkhus who want to train have given that up, they live relaxed, unruffled, surviving on charity, their hearts free as a wild deer. For them, that bond is weak, feeble, rotten, and insubstantial.
 
-9Suppose there was a poor man, with few possessions and little wealth. He had a single broken-down hovel open to the crows, not the best sort; a single broken-down couch, not the best sort; a single pot for storing grain, not the best sort; and a single wifey, not the best sort. He’d see a mendicant sitting in meditation in the cool shade, their hands and feet well washed after eating a delectable meal. He’d think, ‘The ascetic life is so very pleasant! The ascetic life is so very skillful! If only I could shave off my hair and beard, dress in ocher robes, and go forth from the lay life to homelessness.’ But he’s not able to give up his broken-down hovel, his broken-down couch, his pot for storing grain, or his wifey — none of which are the best sort — in order to go forth. Would it be right to say that, for that man, those bonds are weak, feeble, rotten, and insubstantial?”
+9Suppose there was a poor man, with few possessions and little wealth. He had a single broken-down hovel open to the crows, not the best sort; a single broken-down couch, not the best sort; a single pot for storing grain, not the best sort; and a single wifey, not the best sort. He’d see a bhikkhu sitting in meditation in the cool shade, their hands and feet well washed after eating a delectable meal. He’d think, ‘The ascetic life is so very pleasant! The ascetic life is so very skillful! If only I could shave off my hair and beard, dress in ocher robes, and go forth from the lay life to homelessness.’ But he’s not able to give up his broken-down hovel, his broken-down couch, his pot for storing grain, or his wifey — none of which are the best sort — in order to go forth. Would it be right to say that, for that man, those bonds are weak, feeble, rotten, and insubstantial?”
 
 
 10“No, sir. For that man, they are a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke.”
 
 
-11“In the same way, when some foolish people are told by me to give something up, they say, ‘What, such a trivial, insignificant thing as this? This ascetic is much too strict!’ They don’t give it up, and they nurse bitterness towards me; and for the mendicants who want to train, that becomes a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke.
+11“In the same way, when some foolish people are told by me to give something up, they say, ‘What, such a trivial, insignificant thing as this? This ascetic is much too strict!’ They don’t give it up, and they nurse bitterness towards me; and for the bhikkhus who want to train, that becomes a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke.
 
-12Suppose there was a rich man, affluent, and wealthy. He had a vast amount of gold coin, grain, fields, lands, wives, and male and female bondservants. He’d see a mendicant sitting in meditation in the cool shade, their hands and feet well washed after eating a delectable meal. He’d think, ‘The ascetic life is so very pleasant! The ascetic life is so very skillful! If only I could shave off my hair and beard, dress in ocher robes, and go forth from the lay life to homelessness.’ And he is able to give up his vast amount of gold coin, grain, fields, lands, wives, and male and female bondservants in order to go forth. Would it be right to say that, for that man, they are a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke?”
+12Suppose there was a rich man, affluent, and wealthy. He had a vast amount of gold coin, grain, fields, lands, wives, and male and female bondservants. He’d see a bhikkhu sitting in meditation in the cool shade, their hands and feet well washed after eating a delectable meal. He’d think, ‘The ascetic life is so very pleasant! The ascetic life is so very skillful! If only I could shave off my hair and beard, dress in ocher robes, and go forth from the lay life to homelessness.’ And he is able to give up his vast amount of gold coin, grain, fields, lands, wives, and male and female bondservants in order to go forth. Would it be right to say that, for that man, they are a strong, firm, stout bond, a tie that has not rotted, and a heavy yoke?”
 
 
 13“No, sir. For that man, those bonds are weak, feeble, rotten, and insubstantial.”
 
 
-“In the same way, when some gentlemen are told by me to give something up, they say, ‘What, we just have to give up such a trivial, insignificant thing as this, when the Blessed One tells us to give it up, the Holy One tells us to let it go?’ They give it up, and they don’t nurse bitterness towards me; and when the mendicants who want to train have given that up, they live relaxed, unruffled, surviving on charity, their hearts free as a wild deer. For them, that bond is weak, feeble, rotten, and insubstantial.
+“In the same way, when some gentlemen are told by me to give something up, they say, ‘What, we just have to give up such a trivial, insignificant thing as this, when the Blessed One tells us to give it up, the Holy One tells us to let it go?’ They give it up, and they don’t nurse bitterness towards me; and when the bhikkhus who want to train have given that up, they live relaxed, unruffled, surviving on charity, their hearts free as a wild deer. For them, that bond is weak, feeble, rotten, and insubstantial.
 
 
 14Udāyī, these four people are found in the world. What four?
@@ -98,36 +98,36 @@ Take a certain person practicing to give up and let go of attachments. As they d
 The pleasure and happiness that arise from these five kinds of sensual stimulation is called sensual pleasure — a filthy, ordinary, ignoble pleasure. Such pleasure should not be cultivated or developed, but should be feared, I say.
 
 
-20Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna.
+20Take a bhikkhu who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna.
 
 This is called the pleasure of renunciation, the pleasure of seclusion, the pleasure of peace, the pleasure of awakening. Such pleasure should be cultivated and developed, and should not be feared, I say.
 
 
-21Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna. This belongs to the perturbable, I say. And what there belongs to the perturbable? Whatever placing of the mind and keeping it connected has not ceased there is what belongs to the perturbable.
+21Take a bhikkhu who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna. This belongs to the perturbable, I say. And what there belongs to the perturbable? Whatever placing of the mind and keeping it connected has not ceased there is what belongs to the perturbable.
 
-Take a mendicant who, as the placing of the mind and keeping it connected are stilled, enters and remains in the second jhāna. This belongs to the perturbable, I say. And what there belongs to the perturbable? Whatever rapture and bliss has not ceased there is what belongs to the perturbable.
+Take a bhikkhu who, as the placing of the mind and keeping it connected are stilled, enters and remains in the second jhāna. This belongs to the perturbable, I say. And what there belongs to the perturbable? Whatever rapture and bliss has not ceased there is what belongs to the perturbable.
 
-Take a mendicant who, with the fading away of rapture, enters and remains in the third jhāna. This belongs to the perturbable. And what there belongs to the perturbable? Whatever equanimous bliss has not ceased there is what belongs to the perturbable.
+Take a bhikkhu who, with the fading away of rapture, enters and remains in the third jhāna. This belongs to the perturbable. And what there belongs to the perturbable? Whatever equanimous bliss has not ceased there is what belongs to the perturbable.
 
-Take a mendicant who, giving up pleasure and pain, enters and remains in the fourth jhāna. This belongs to the imperturbable.
+Take a bhikkhu who, giving up pleasure and pain, enters and remains in the fourth jhāna. This belongs to the imperturbable.
 
-22Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna. But this is not enough, I say: give it up, go beyond it. And what goes beyond it?
+22Take a bhikkhu who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna. But this is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, as the placing of the mind and keeping it connected are stilled, enters and remains in the second jhāna. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
+Take a bhikkhu who, as the placing of the mind and keeping it connected are stilled, enters and remains in the second jhāna. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, with the fading away of rapture, enters and remains in the third jhāna. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
+Take a bhikkhu who, with the fading away of rapture, enters and remains in the third jhāna. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, giving up pleasure and pain, enters and remains in the fourth jhāna. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
+Take a bhikkhu who, giving up pleasure and pain, enters and remains in the fourth jhāna. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
+Take a bhikkhu who, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
+Take a bhikkhu who, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
+Take a bhikkhu who, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, going totally beyond the dimension of nothingness, enters and remains in the dimension of neither perception nor non-perception. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
+Take a bhikkhu who, going totally beyond the dimension of nothingness, enters and remains in the dimension of neither perception nor non-perception. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. That goes beyond it.
+Take a bhikkhu who, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. That goes beyond it.
 
 So, Udāyī, I even recommend giving up the dimension of neither perception nor non-perception. Do you see any fetter, large or small, that I don’t recommend giving up?”
 

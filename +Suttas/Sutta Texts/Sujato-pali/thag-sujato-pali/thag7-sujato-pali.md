@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 7: Groups of Seven Verses
 
@@ -152,7 +152,7 @@ I answered the teacher.
 
 483When all his questions were answered,  
 the Realized One congratulated me.  
-Looking around the mendicant Saṅgha,  
+Looking around the bhikkhu Saṅgha,  
 he said the following:
 
 484“It is a blessing for the people of Aṅga and Magadha  

@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> With eight qualities, a mendicant is worthy
+> With eight qualities, a bhikkhu is worthy
 
 > [!info] Key Excerpts 
 > Ethical, learned, with good friends, with right views, get 4 jhanas without difficulty, recollect previous lifes, see beings rebirths and realize the undefiled freedom of heart and freedom by wisdom

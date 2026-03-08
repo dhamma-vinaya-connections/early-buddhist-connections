@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a faithful gentleman gets five benefits. What five? The good persons in the world show compassion first to the faithful, not so much to the unfaithful. They first approach the faithful, not so much the unfaithful. They first receive alms from the faithful, not so much the unfaithful. They first teach Dhamma to the faithful, not so much the unfaithful. When their body breaks up, after death, the faithful are reborn in a good place, a heavenly realm. A faithful gentleman gets these five benefits.
+1“bhikkhus, a faithful gentleman gets five benefits. What five? The good persons in the world show compassion first to the faithful, not so much to the unfaithful. They first approach the faithful, not so much the unfaithful. They first receive alms from the faithful, not so much the unfaithful. They first teach Dhamma to the faithful, not so much the unfaithful. When their body breaks up, after death, the faithful are reborn in a good place, a heavenly realm. A faithful gentleman gets these five benefits.
 
-2Suppose there was a great banyan tree at a level crossroads. It would become a refuge for birds from all around. In the same way, a faithful gentleman becomes a refuge for many people—monks, nuns, laywomen, and laymen.
+2Suppose there was a great banyan tree at a level crossroads. It would become a refuge for birds from all around. In the same way, a faithful gentleman becomes a refuge for many people—bhikkhus, nuns, laywomen, and laymen.
 
 
 3With its branches, leaves, and fruit,  

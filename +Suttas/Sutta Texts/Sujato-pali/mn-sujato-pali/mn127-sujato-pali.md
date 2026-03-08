@@ -20,14 +20,14 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-And then the master builder Pañcakaṅga addressed a man: “Please, mister, go to Venerable Anuruddha, and in my name bow with your head to his feet. Say to him, ‘Sir, the master builder Pañcakaṅga bows with his head to your feet.’ And then ask him whether he might accept tomorrow’s meal from Pañcakaṅga together with the mendicant Saṅgha. And ask whether he might please come earlier than usual, for Pañcakaṅga has many duties, and much work to do for the king.”
+And then the master builder Pañcakaṅga addressed a man: “Please, mister, go to Venerable Anuruddha, and in my name bow with your head to his feet. Say to him, ‘Sir, the master builder Pañcakaṅga bows with his head to your feet.’ And then ask him whether he might accept tomorrow’s meal from Pañcakaṅga together with the bhikkhu Saṅgha. And ask whether he might please come earlier than usual, for Pañcakaṅga has many duties, and much work to do for the king.”
 
 “Yes, sir,” that man replied. He did as Pañcakaṅga asked, and Venerable Anuruddha consented in silence.
 
 
 2Then when the night had passed, Anuruddha put on his outer robe in the morning and, taking his bowl and robe, went to Pañcakaṅga’s home, where he sat on the seat spread out. Then Pañcakaṅga served and satisfied Anuruddha with his own hands with a variety of delicious foods. When Anuruddha had eaten and washed his hands and bowl, Pañcakaṅga took a low seat, sat to one side, and said to him:
 
-3“Sir, some senior mendicants have come to me and said, ‘Householder, develop the limitless release of heart.’ Others have said, ‘Householder, develop the expansive release of heart.’ Now, the limitless release of the heart and the expansive release of the heart: do these things differ in both meaning and phrasing? Or do they mean the same thing, and differ only in the phrasing?”
+3“Sir, some senior bhikkhus have come to me and said, ‘Householder, develop the limitless release of heart.’ Others have said, ‘Householder, develop the expansive release of heart.’ Now, the limitless release of the heart and the expansive release of the heart: do these things differ in both meaning and phrasing? Or do they mean the same thing, and differ only in the phrasing?”
 
 “Well then, householder, let me know what you think about this. Afterwards you’ll get it for sure.”
 
@@ -36,10 +36,10 @@ And then the master builder Pañcakaṅga addressed a man: “Please, mister, go
 “The limitless release of the heart and the expansive release of the heart differ in both meaning and phrasing. This is a way to understand how these things differ in both meaning and phrasing.
 
 
-4And what is the limitless release of the heart? It’s when a mendicant meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of compassion … They meditate spreading a heart full of rejoicing … They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will. This is called the limitless release of the heart.
+4And what is the limitless release of the heart? It’s when a bhikkhu meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of compassion … They meditate spreading a heart full of rejoicing … They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will. This is called the limitless release of the heart.
 
 
-5And what is the expansive release of the heart? It’s when a mendicant meditates determined on pervading the extent of a single tree root as expansive. This is called the expansive release of the heart. Also, a mendicant meditates determined on pervading the extent of two or three tree roots … a single village district … two or three village districts … a single kingdom … two or three kingdoms … this land surrounded by ocean. This too is called the expansive release of the heart. This is a way to understand how these things differ in both meaning and phrasing.
+5And what is the expansive release of the heart? It’s when a bhikkhu meditates determined on pervading the extent of a single tree root as expansive. This is called the expansive release of the heart. Also, a bhikkhu meditates determined on pervading the extent of two or three tree roots … a single village district … two or three village districts … a single kingdom … two or three kingdoms … this land surrounded by ocean. This too is called the expansive release of the heart. This is a way to understand how these things differ in both meaning and phrasing.
 
 
 6Householder, there are these four kinds of rebirth in a future life. What four? Take someone who meditates determined on pervading ‘limited radiance’. When their body breaks up, after death, they’re reborn in the company of the gods of limited radiance. Next, take someone who meditates determined on pervading ‘limitless radiance’. When their body breaks up, after death, they’re reborn in the company of the gods of limitless radiance. Next, take someone who meditates determined on pervading ‘corrupted radiance’. When their body breaks up, after death, they’re reborn in the company of the gods of corrupted radiance. Next, take someone who meditates determined on pervading ‘pure radiance’. When their body breaks up, after death, they’re reborn in the company of the gods of pure radiance. These are the four kinds of rebirth in a future life.
@@ -60,13 +60,13 @@ And then the master builder Pañcakaṅga addressed a man: “Please, mister, go
 “What is the cause, Venerable Anuruddha, what is the reason why, when those deities have been reborn in a single order of gods, some deities there have limited radiance, while some have limitless radiance?”
 
 
-11-16“Well then, Reverend Kaccāna, I’ll ask you about this in return, and you can answer as you like. What do you think, Reverend Kaccāna? Which of these two kinds of mental development is more expansive: when a mendicant meditates determined on pervading as expansive the extent of a single tree root, or two or three tree roots?”  
+11-16“Well then, Reverend Kaccāna, I’ll ask you about this in return, and you can answer as you like. What do you think, Reverend Kaccāna? Which of these two kinds of mental development is more expansive: when a bhikkhu meditates determined on pervading as expansive the extent of a single tree root, or two or three tree roots?”  
   
-“When a mendicant meditates on two or three tree roots.”  
+“When a bhikkhu meditates on two or three tree roots.”  
   
-“What do you think, Reverend Kaccāna? Which of these two kinds of mental development is more expansive: when a mendicant meditates determined on pervading as expansive the extent of two or three tree roots, or a single village district … two or three village districts … a single kingdom … two or three kingdoms … this land surrounded by ocean?”  
+“What do you think, Reverend Kaccāna? Which of these two kinds of mental development is more expansive: when a bhikkhu meditates determined on pervading as expansive the extent of two or three tree roots, or a single village district … two or three village districts … a single kingdom … two or three kingdoms … this land surrounded by ocean?”  
   
-“When a mendicant meditates on this land surrounded by ocean.”  
+“When a bhikkhu meditates on this land surrounded by ocean.”  
   
 “This is the cause, Reverend Kaccāna, this is the reason why, when those deities have been reborn in a single order of gods, some deities there have limited radiance, while some have limitless radiance.”
 
@@ -80,11 +80,11 @@ And then the master builder Pañcakaṅga addressed a man: “Please, mister, go
 
 18“Well then, Reverend Kaccāna, I shall give you a simile. For by means of a simile some sensible people understand the meaning of what is said. Suppose an oil lamp was burning with impure oil and impure wick. Because of the impurity of the oil and the wick it burns dimly, as it were.
 
-In the same way, take some mendicant who meditates determined on pervading ‘corrupted radiance’. Their physical discomfort is not completely settled, their dullness and drowsiness is not completely eradicated, and their restlessness and remorse is not completely eliminated. Because of this they practice jhāna dimly, as it were. When their body breaks up, after death, they’re reborn in the company of the gods of corrupted radiance.
+In the same way, take some bhikkhu who meditates determined on pervading ‘corrupted radiance’. Their physical discomfort is not completely settled, their dullness and drowsiness is not completely eradicated, and their restlessness and remorse is not completely eliminated. Because of this they practice jhāna dimly, as it were. When their body breaks up, after death, they’re reborn in the company of the gods of corrupted radiance.
 
 Suppose an oil lamp was burning with pure oil and pure wick. Because of the purity of the oil and the wick it doesn’t burn dimly, as it were.
 
-In the same way, take some mendicant who meditates determined on pervading ‘pure radiance’. Their physical discomfort is completely settled, their dullness and drowsiness is completely eradicated, and their restlessness and remorse is completely eliminated. Because of this they don’t practice jhāna dimly, as it were. When their body breaks up, after death, they’re reborn in the company of the gods of pure radiance.
+In the same way, take some bhikkhu who meditates determined on pervading ‘pure radiance’. Their physical discomfort is completely settled, their dullness and drowsiness is completely eradicated, and their restlessness and remorse is completely eliminated. Because of this they don’t practice jhāna dimly, as it were. When their body breaks up, after death, they’re reborn in the company of the gods of pure radiance.
 
 “This is the cause, Reverend Kaccāna, this is the reason why, when those deities have been reborn in a single order of gods, some deities there have corrupted radiance, while some have pure radiance.”
 

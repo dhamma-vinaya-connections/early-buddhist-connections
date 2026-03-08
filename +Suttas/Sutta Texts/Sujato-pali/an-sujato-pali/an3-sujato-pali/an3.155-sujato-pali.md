@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those sentient beings who do good things in the morning by way of body, speech, and mind have a good morning.
+1“bhikkhus, those sentient beings who do good things in the morning by way of body, speech, and mind have a good morning.
 
 2Those sentient beings who do good things at midday by way of body, speech, and mind have a good midday.
 

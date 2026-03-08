@@ -7,41 +7,41 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC9]]
 > ◄  [[bu-pc8-horner]] 📜  [[bu-pc10-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 9
+# bhikkhus’ Expiation (_Pācittiya_) 9
 
-*Bu-Pc.9.1.1* *BD.2.219* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, came to be making a quarrel with the group of six monks. He, having fallen into the offence of intentional emission of semen,[^1] begged the Order for probation on account of this offence. The Order granted him probation on account of this offence. At that time a certain guild at Sāvatthī had food for the Order. He, being under probation, sat down in the refectory at the end of a seat. The group of six monks said to these lay-followers:
+*Bu-Pc.9.1.1* *BD.2.219* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, came to be making a quarrel with the group of six bhikkhus. He, having fallen into the offence of intentional emission of semen,[^1] begged the Order for probation on account of this offence. The Order granted him probation on account of this offence. At that time a certain guild at Sāvatthī had food for the Order. He, being under probation, sat down in the refectory at the end of a seat. The group of six bhikkhus said to these lay-followers:
 
 “Your reverences, this venerable Upananda, the son of the Sakyans, an esteemed dependent of yours, is eating the gift of faith with the very same hand as that which he used to emit semen. He, *Vin.4.31* falling into the offence of intentional emission, begged the Order for probation on account of that offence. The Order granted him probation on account of that offence, so that being under probation, he is sitting at the end of a seat.”
 
-Those who were modest monks looked down upon, criticised, spread it about, saying:
+Those who were modest bhikkhus looked down upon, criticised, spread it about, saying:
 
-“How can this group of six monks speak of a very bad offence[^2] of a monk to one who is not ordained?”
+“How can this group of six bhikkhus speak of a very bad offence[^2] of a bhikkhu to one who is not ordained?”
 
-“Is it true, as is said, that you, monks, spoke of a very bad offence of a monk to one who is not ordained?”
+“Is it true, as is said, that you, bhikkhus, spoke of a very bad offence of a bhikkhu to one who is not ordained?”
 
 “It is true, lord.”
 
 *BD.2.220* The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, speak of a monk’s very bad offence to one who is not ordained? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, speak of a bhikkhu’s very bad offence to one who is not ordained? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should speak of a monk’s very bad offence to one who is not ordained, except on the agreement of the monks,[^3] there is an offence of expiation.”
+“Whatever bhikkhu should speak of a bhikkhu’s very bad offence to one who is not ordained, except on the agreement of the bhikkhus,[^3] there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.9.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.9.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
-Of a monk’s means: of another monk’s.
+Of a bhikkhu’s means: of another bhikkhu’s.
 
 Very bad offence means: both the four involving defeat and the thirteen involving a formal meeting of the Order.[^4]
 
-Not ordained means: setting aside monk and nun, the rest are called not ordained.[^5]
+Not ordained means: setting aside bhikkhu and nun, the rest are called not ordained.[^5]
 
 Should speak of means: should speak of to a woman or to a man or to one who leads the household life[^6] or to one who has gone forth.
 
-Except on the agreement of the monks means: setting aside the agreement of the monks.
+Except on the agreement of the bhikkhus means: setting aside the agreement of the bhikkhus.
 
-There is agreement of the monks limited to offences,[^7] not limited to families; there is agreement of the monks limited to families, not limited to offences; there is agreement of the monks limited to offences and limited to families; there is agreement of the monks neither limited to offences nor limited to families.
+There is agreement of the bhikkhus limited to offences,[^7] not limited to families; there is agreement of the bhikkhus limited to families, not limited to offences; there is agreement of the bhikkhus limited to offences and limited to families; there is agreement of the bhikkhus neither limited to offences nor limited to families.
 
 Limited to offences means: if he says: “he should be spoken to concerning just those offences,”[^8] offences come to be taken up.[^9]
 
@@ -55,11 +55,11 @@ In “limited to offences,” if setting aside those offences which come to be o
 
 * * *
 
-*Bu-Pc.9.2.2* If he thinks that it is a very bad offence when it is a very bad offence (and) tells one who is not ordained, except on the agreement of the monks, there is an offence of expiation. If he is in doubt as to whether it is a very bad offence (and) tells one who is not ordained, except on the agreement of the monks, there is an offence of expiation. If he thinks that it is not a very bad offence when it is a very bad offence (and) tells one who is not ordained, except on the agreement of the monks, there is an offence of expiation. If he tells of an offence that is not very bad, there is an offence of wrong-doing. If he tells one who is not ordained of a transgression[^10] which is very bad or which is not very *BD.2.222* bad, there is an offence of wrong-doing. If he thinks that it is a very bad offence when it is not a very bad offence, there is an offence of wrong-doing. If he is in doubt as to whether it is not a very bad offence, there is an offence of wrong-doing. If he thinks that it is not a very bad offence when it is not a very bad offence there is an offence of wrong-doing.[^11]
+*Bu-Pc.9.2.2* If he thinks that it is a very bad offence when it is a very bad offence (and) tells one who is not ordained, except on the agreement of the bhikkhus, there is an offence of expiation. If he is in doubt as to whether it is a very bad offence (and) tells one who is not ordained, except on the agreement of the bhikkhus, there is an offence of expiation. If he thinks that it is not a very bad offence when it is a very bad offence (and) tells one who is not ordained, except on the agreement of the bhikkhus, there is an offence of expiation. If he tells of an offence that is not very bad, there is an offence of wrong-doing. If he tells one who is not ordained of a transgression[^10] which is very bad or which is not very *BD.2.222* bad, there is an offence of wrong-doing. If he thinks that it is a very bad offence when it is not a very bad offence, there is an offence of wrong-doing. If he is in doubt as to whether it is not a very bad offence, there is an offence of wrong-doing. If he thinks that it is not a very bad offence when it is not a very bad offence there is an offence of wrong-doing.[^11]
 
 * * *
 
-*Bu-Pc.9.2.3* There is no offence if he speaks of an example but not of an offence; if he speaks of an offence but not of an example[^12]; if there is the agreement of the monks; if he is mad, if he is the first wrong-doer.
+*Bu-Pc.9.2.3* There is no offence if he speaks of an example but not of an offence; if he speaks of an offence but not of an example[^12]; if there is the agreement of the bhikkhus; if he is mad, if he is the first wrong-doer.
 
 The Ninth
 
@@ -67,7 +67,7 @@ The Ninth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“In three situations, mendicants, you should be keen. What three? You should be keen to prevent bad, unskillful qualities from arising. You should be keen to give rise to skillful qualities. And you should be keen to endure physical pain—sharp, severe, acute, unpleasant, disagreeable, life-threatening. In these three situations, you should be keen.
+1“In three situations, bhikkhus, you should be keen. What three? You should be keen to prevent bad, unskillful qualities from arising. You should be keen to give rise to skillful qualities. And you should be keen to endure physical pain—sharp, severe, acute, unpleasant, disagreeable, life-threatening. In these three situations, you should be keen.
 
-2It’s a mendicant who is keen to prevent bad, unskillful qualities from arising. They’re keen to give rise to skillful qualities. And they’re keen to endure physical pain—sharp, severe, acute, unpleasant, disagreeable, life-threatening. This is called a mendicant who is keen, alert, and mindful so as to rightly make an end of suffering.”
+2It’s a bhikkhu who is keen to prevent bad, unskillful qualities from arising. They’re keen to give rise to skillful qualities. And they’re keen to endure physical pain—sharp, severe, acute, unpleasant, disagreeable, life-threatening. This is called a bhikkhu who is keen, alert, and mindful so as to rightly make an end of suffering.”
 
 1"Tīhi, bhikkhave, ṭhānehi ātappaṁ karaṇīyaṁ. Katamehi tīhi? Anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya ātappaṁ karaṇīyaṁ, anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya ātappaṁ karaṇīyaṁ, uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ adhivāsanāya ātappaṁ karaṇīyaṁ. Imehi tīhi, bhikkhave, ṭhānehi ātappaṁ karaṇīyaṁ.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these eight gifts of a good person. What eight? Their gift is pure, good quality, timely, appropriate, intelligent, and regular. While giving their heart is confident, and afterwards they’re uplifted. These are the eight gifts of a good person.
+1“bhikkhus, there are these eight gifts of a good person. What eight? Their gift is pure, good quality, timely, appropriate, intelligent, and regular. While giving their heart is confident, and afterwards they’re uplifted. These are the eight gifts of a good person.
 
 
 2He gives pure, good quality, and timely gifts  

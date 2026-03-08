@@ -44,7 +44,7 @@ parallels_partilal: "[[SA-2.170]], [[SA586]], [[SN2.16]], [[THAG1]].39, [[THAG1]
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant should live as if their head was on fire.
+> bhikkhu should live as if their head was on fire.
 
 > [!info] Key Excerpts 
 > Give up sensual desire and identity view

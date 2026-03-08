@@ -20,32 +20,32 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him:
+1Then a bhikkhu went up to the Buddha, bowed, sat down to one side, and said to him:
 
-“Sir, how many occasions are there for going to see an esteemed mendicant?”
-
-
-“Mendicant, there are six occasions for going to see an esteemed mendicant.
+“Sir, how many occasions are there for going to see an esteemed bhikkhu?”
 
 
-2What six? Firstly, there’s a time when a mendicant’s heart is overcome and mired in sensual desire, and they don’t truly understand the escape from sensual desire that has arisen. On that occasion they should go to an esteemed mendicant and say: ‘My heart is overcome and mired in sensual desire, and I don’t truly understand the escape from sensual desire that has arisen. Venerable, please teach me how to give up sensual desire.’ Then that esteemed mendicant teaches them how to give up sensual desire. This is the first occasion for going to see an esteemed mendicant.
+“bhikkhu, there are six occasions for going to see an esteemed bhikkhu.
 
 
-3Furthermore, there’s a time when a mendicant’s heart is overcome and mired in ill will … This is the second occasion for going to see an esteemed mendicant.
+2What six? Firstly, there’s a time when a bhikkhu’s heart is overcome and mired in sensual desire, and they don’t truly understand the escape from sensual desire that has arisen. On that occasion they should go to an esteemed bhikkhu and say: ‘My heart is overcome and mired in sensual desire, and I don’t truly understand the escape from sensual desire that has arisen. Venerable, please teach me how to give up sensual desire.’ Then that esteemed bhikkhu teaches them how to give up sensual desire. This is the first occasion for going to see an esteemed bhikkhu.
 
 
-4Furthermore, there’s a time when a mendicant’s heart is overcome and mired in dullness and drowsiness … This is the third occasion for going to see an esteemed mendicant.
-
-5Furthermore, there’s a time when a mendicant’s heart is overcome and mired in restlessness and remorse … This is the fourth occasion for going to see an esteemed mendicant.
+3Furthermore, there’s a time when a bhikkhu’s heart is overcome and mired in ill will … This is the second occasion for going to see an esteemed bhikkhu.
 
 
-6Furthermore, there’s a time when a mendicant’s heart is overcome and mired in doubt … This is the fifth occasion for going to see an esteemed mendicant.
+4Furthermore, there’s a time when a bhikkhu’s heart is overcome and mired in dullness and drowsiness … This is the third occasion for going to see an esteemed bhikkhu.
+
+5Furthermore, there’s a time when a bhikkhu’s heart is overcome and mired in restlessness and remorse … This is the fourth occasion for going to see an esteemed bhikkhu.
 
 
-7Furthermore, there’s a time when a mendicant doesn’t understand what kind of meditation they need to focus on in order to end the defilements in the present life. On that occasion they should go to an esteemed mendicant and say: ‘I don’t understand what kind of meditation to focus on in order to end the defilements in the present life. Venerable, please teach me how to end the defilements.’ Then that esteemed mendicant teaches them how to end the defilements. This is the sixth occasion for going to see an esteemed mendicant.
+6Furthermore, there’s a time when a bhikkhu’s heart is overcome and mired in doubt … This is the fifth occasion for going to see an esteemed bhikkhu.
 
 
-8These are the six occasions for going to see an esteemed mendicant.”
+7Furthermore, there’s a time when a bhikkhu doesn’t understand what kind of meditation they need to focus on in order to end the defilements in the present life. On that occasion they should go to an esteemed bhikkhu and say: ‘I don’t understand what kind of meditation to focus on in order to end the defilements in the present life. Venerable, please teach me how to end the defilements.’ Then that esteemed bhikkhu teaches them how to end the defilements. This is the sixth occasion for going to see an esteemed bhikkhu.
+
+
+8These are the six occasions for going to see an esteemed bhikkhu.”
 
 #### Pali
 

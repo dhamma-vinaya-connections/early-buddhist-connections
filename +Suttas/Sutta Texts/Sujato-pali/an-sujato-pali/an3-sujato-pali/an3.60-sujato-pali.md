@@ -50,7 +50,7 @@ For a third time Saṅgārava said to Ānanda: “Those such as the masters Gota
 
 So the Buddha said to Saṅgārava: “Brahmin, what came up in the conversation among the king’s retinue today, sitting together in the royal compound?”
 
-“Master Gotama, this came up: ‘Formerly, it seems, there were fewer mendicants, but more of them displayed superhuman demonstrations of psychic power; while these days, there are more mendicants, but fewer display superhuman demonstrations of psychic power.’ This is what came up in the conversation among the king’s retinue today, while sitting together in the royal compound.”
+“Master Gotama, this came up: ‘Formerly, it seems, there were fewer bhikkhus, but more of them displayed superhuman demonstrations of psychic power; while these days, there are more bhikkhus, but fewer display superhuman demonstrations of psychic power.’ This is what came up in the conversation among the king’s retinue today, while sitting together in the royal compound.”
 
 
 8“Brahmin, there are three kinds of demonstration. What three? A demonstration of psychic power, a demonstration of revealing, and a demonstration of instruction.
@@ -82,16 +82,16 @@ These are the three kinds of demonstration. Of these three kinds of demonstratio
 
 18“Your words are clearly invasive and intrusive, brahmin. Nevertheless, I will answer you. For I do wield the many kinds of psychic power … controlling the body as far as the Brahmā realm. And I do comprehend the mind of another person who has attained the immersion that is free of thinking and considering. I understand: ‘Judging by the way this person’s intentions are directed, immediately after this mind state they’ll think this thought.’ And I do instruct others like this: ‘Think like this, not like that. Focus your mind like this, not like that. Give up this, and live having achieved that.’”
 
-19“But Master Gotama, is there even one other mendicant who possesses these three kinds of demonstration, apart from Master Gotama?”
+19“But Master Gotama, is there even one other bhikkhu who possesses these three kinds of demonstration, apart from Master Gotama?”
 
-“There’s not just one hundred mendicants, brahmin, who possess these three kinds of demonstration, nor two, three, four, or five hundred, but many more than that.”
+“There’s not just one hundred bhikkhus, brahmin, who possess these three kinds of demonstration, nor two, three, four, or five hundred, but many more than that.”
 
-“But where are these mendicants now staying?”
+“But where are these bhikkhus now staying?”
 
-“Right here, brahmin, in this Saṅgha of mendicants.”
+“Right here, brahmin, in this Saṅgha of bhikkhus.”
 
 
-20“Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
+20“Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

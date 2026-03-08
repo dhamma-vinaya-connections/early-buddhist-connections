@@ -9,19 +9,19 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 5
 
-*Bi-Pc.5.1.1* *BD.3.250* … among the Sakyans at Kapilavatthu in the Banyan monastery. Then Mahāpajāpatī the Gotamid approached the lord; having approached, having greeted the lord, she stood to windward, saying: “Lord, the women smell nasty.” Then the lord, saying: “Then let the nuns take an ablution with water,” roused … delighted Mahāpajāpatī the Gotamid with _dhamma_\-talk. Then Mahāpajāpatī the Gotamid, having been roused … delighted with _dhamma_\-talk by the lord, having greeted the lord, departed keeping her right side towards him. Then the lord on this occasion, in this connection, having given reasoned talk, addressed the monks, saying: “I allow, monks, an ablution with water for the nuns.”
+*Bi-Pc.5.1.1* *BD.3.250* … among the Sakyans at Kapilavatthu in the Banyan monastery. Then Mahāpajāpatī the Gotamid approached the lord; having approached, having greeted the lord, she stood to windward, saying: “Lord, the women smell nasty.” Then the lord, saying: “Then let the nuns take an ablution with water,” roused … delighted Mahāpajāpatī the Gotamid with _dhamma_\-talk. Then Mahāpajāpatī the Gotamid, having been roused … delighted with _dhamma_\-talk by the lord, having greeted the lord, departed keeping her right side towards him. Then the lord on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying: “I allow, bhikkhus, an ablution with water for the nuns.”
 
 * * *
 
 *Bi-Pc.5.1.2* Now at that time a certain nun, saying: “An ablution with water is allowed by the lord,” taking a very deep ablution with water, got a sore on her private parts. Then this nun told this matter to the nuns. Those who were modest nuns … spread it about, saying: “How can this nun take a very deep ablution with water?” …
 
-“Is it true, as is said, monks, that a nun took a very deep ablution with water?”
+“Is it true, as is said, bhikkhus, that a nun took a very deep ablution with water?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can a nun take a very deep ablution with water? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can a nun take a very deep ablution with water? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “If a nun is taking an ablution with water, she may take at most (a measure of) two finger-joints. For whoever exceeds this, there is an offence of expiation.”
 

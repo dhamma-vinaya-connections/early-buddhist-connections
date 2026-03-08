@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four mangoes. What four?
+1“bhikkhus, there are these four mangoes. What four?
 
 1. One is unripe but seems ripe,
 2. one is ripe but seems unripe,

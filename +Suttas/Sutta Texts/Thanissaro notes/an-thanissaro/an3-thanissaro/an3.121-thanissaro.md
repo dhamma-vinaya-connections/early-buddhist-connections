@@ -15,7 +15,7 @@ language: "English"
 ## ## Soceyya Sutta
 
 
-Monks, there are these three purities. Which three? Bodily purity, verbal purity, & mental purity.
+bhikkhus, there are these three purities. Which three? Bodily purity, verbal purity, & mental purity.
 
 “And what is bodily purity? There is the case where a certain person abstains from taking life, abstains from theft, abstains from sexual misconduct. This is called bodily purity.
 
@@ -23,7 +23,7 @@ Monks, there are these three purities. Which three? Bodily purity, verbal purity
 
 “And what is mental purity? There is the case where a certain person is one who is not covetous, is one whose mind is devoid of ill will, and is one with right view. This is called mental purity.
 
-“These, monks, are the three purities.”
+“These, bhikkhus, are the three purities.”
 
 See also: [[an10.165-thanissaro]]
 

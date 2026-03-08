@@ -17,8 +17,8 @@ language: "English"
 
 80 (207). Truly Knowing (2)
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying in Doctor Jīvaka Kumāra’s Mango Park of Vaiśālī.
-2. It was then that the Bhagavān addressed the monks, “You should cultivate a measureless _samādhi_ and earnestly tie your thoughts to it. Why is that? Having cultivated a measureless _samādhi_ and earnestly tied one’s thoughts to it, then things appear as they really are. What truly appears? The eye truly appears … _and so on as in [previous sūtra](SA2_79.html#p2)_ … These things truly appear as impermanent and created.”
-3. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+2. It was then that the Bhagavān addressed the bhikkhus, “You should cultivate a measureless _samādhi_ and earnestly tie your thoughts to it. Why is that? Having cultivated a measureless _samādhi_ and earnestly tied one’s thoughts to it, then things appear as they really are. What truly appears? The eye truly appears … _and so on as in [previous sūtra](SA2_79.html#p2)_ … These things truly appear as impermanent and created.”
+3. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

@@ -15,9 +15,9 @@ language: "English"
 ## ## Khaḷuṅka Sutta
 
 
-“Monks, I will teach you the eight unruly horses and eight faults in horses, the eight unruly men and eight faults in men. Listen and pay close attention. I will speak.”
+“bhikkhus, I will teach you the eight unruly horses and eight faults in horses, the eight unruly men and eight faults in men. Listen and pay close attention. I will speak.”
 
-“As you say, lord,” the monks responded to him.
+“As you say, lord,” the bhikkhus responded to him.
 
 The Blessed One said: “Now, which are the eight unruly horses and eight faults in horses?
 
@@ -37,27 +37,27 @@ The Blessed One said: “Now, which are the eight unruly horses and eight faults
 
 “Then again, some unruly horses—when goaded, ordered, and told ‘Go!‘ by the charioteer—draw in their forefeet, draw in their hindfeet, and sit down right there on their four feet. Some unruly horses are like this. This is the eighth fault in a horse.
 
-“These, monks, are the eight unruly horses and eight faults in horses.”
+“These, bhikkhus, are the eight unruly horses and eight faults in horses.”
 
 “And which are the eight unruly men and eight faults in men?
 
-“There is the case where the monks accuse a monk of an offense. He, being accused of an offense by the monks, denies the offense, (saying,) ‘I don’t remember. I don’t remember.’ He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—backs up and pushes the chariot back with its hindquarters. Some unruly men are like this. This is the first fault in a man.
+“There is the case where the bhikkhus accuse a bhikkhu of an offense. He, being accused of an offense by the bhikkhus, denies the offense, (saying,) ‘I don’t remember. I don’t remember.’ He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—backs up and pushes the chariot back with its hindquarters. Some unruly men are like this. This is the first fault in a man.
 
-“Then again, the monks accuse a monk of an offense. He, being accused of an offense by the monks, attacks the accuser: ‘What use is there in your speaking, you incompetent fool! Think of yourself as worthy to be spoken to.’ He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—jumps back and hits the carriage railing, breaking the triple bar. Some unruly men are like this. This is the second fault in a man.
+“Then again, the bhikkhus accuse a bhikkhu of an offense. He, being accused of an offense by the bhikkhus, attacks the accuser: ‘What use is there in your speaking, you incompetent fool! Think of yourself as worthy to be spoken to.’ He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—jumps back and hits the carriage railing, breaking the triple bar. Some unruly men are like this. This is the second fault in a man.
 
-“Then again, the monks accuse a monk of an offense. He, being accused of an offense by the monks, accuses the accuser in return: ‘You, too, have committed an offense of this name. You make amends for it first.’ He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—kicks the chariot pole and stomps on it. Some unruly men are like this. This is the third fault in a man.
+“Then again, the bhikkhus accuse a bhikkhu of an offense. He, being accused of an offense by the bhikkhus, accuses the accuser in return: ‘You, too, have committed an offense of this name. You make amends for it first.’ He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—kicks the chariot pole and stomps on it. Some unruly men are like this. This is the third fault in a man.
 
-“Then again, the monks accuse a monk of an offense. He, being accused of an offense by the monks, wanders from one thing to another, straying outside the topic, displaying anger, irritation, & sulkiness. He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—goes off the road and makes the chariot turn over. Some unruly men are like this. This is the fourth fault in a man.
+“Then again, the bhikkhus accuse a bhikkhu of an offense. He, being accused of an offense by the bhikkhus, wanders from one thing to another, straying outside the topic, displaying anger, irritation, & sulkiness. He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—goes off the road and makes the chariot turn over. Some unruly men are like this. This is the fourth fault in a man.
 
-“Then again, the monks accuse a monk of an offense. He, being accused of an offense by the monks, speaks waving his arms around in the midst of the Saṅgha. He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—rears up and paws the air. Some unruly men are like this. This is the fifth fault in a man.
+“Then again, the bhikkhus accuse a bhikkhu of an offense. He, being accused of an offense by the bhikkhus, speaks waving his arms around in the midst of the Saṅgha. He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—rears up and paws the air. Some unruly men are like this. This is the fifth fault in a man.
 
-“Then again, the monks accuse a monk of an offense. He, being accused of an offense by the monks, not heeding the Saṅgha, not heeding his accuser, goes off where he will, still an offender. He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—not heeding the goad, bites through the bit with its teeth and goes where it wills. Some unruly men are like this. This is the sixth fault in a man.
+“Then again, the bhikkhus accuse a bhikkhu of an offense. He, being accused of an offense by the bhikkhus, not heeding the Saṅgha, not heeding his accuser, goes off where he will, still an offender. He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—not heeding the goad, bites through the bit with its teeth and goes where it wills. Some unruly men are like this. This is the sixth fault in a man.
 
-“Then again, the monks accuse a monk of an offense. He, being accused of an offense by the monks, (after saying,) ‘I’ve neither committed an offense nor have I not committed an offense,’ vexes the Saṅgha by falling silent. He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—goes neither forward nor back, but stands right there like a post. Some unruly men are like this. This is the seventh fault in a man.
+“Then again, the bhikkhus accuse a bhikkhu of an offense. He, being accused of an offense by the bhikkhus, (after saying,) ‘I’ve neither committed an offense nor have I not committed an offense,’ vexes the Saṅgha by falling silent. He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—goes neither forward nor back, but stands right there like a post. Some unruly men are like this. This is the seventh fault in a man.
 
-“Then again, the monks accuse a monk of an offense. He, being accused of an offense by the monks, says this: ‘Why do you venerable ones persecute me so much? I’ll disavow the training and return to the lower life.’ On having disavowed the training and returned to the lower life he says, ‘I hope you venerable ones are gratified now!’ He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—draws in its forefeet, draws in its hind feet, and sits down right there on its four feet. Some unruly men are like this. This is the eighth fault in a man.
+“Then again, the bhikkhus accuse a bhikkhu of an offense. He, being accused of an offense by the bhikkhus, says this: ‘Why do you venerable ones persecute me so much? I’ll disavow the training and return to the lower life.’ On having disavowed the training and returned to the lower life he says, ‘I hope you venerable ones are gratified now!’ He, I tell you, is just like the unruly horse who—when goaded, ordered, and told ‘Go!‘ by the charioteer—draws in its forefeet, draws in its hind feet, and sits down right there on its four feet. Some unruly men are like this. This is the eighth fault in a man.
 
-“These, monks, are the eight unruly men and eight faults in men.”
+“These, bhikkhus, are the eight unruly men and eight faults in men.”
 
 See also: [[an4.111-thanissaro]]; [[an5.75-thanissaro]]; [[an5.139-thanissaro]]; [[an11.10-thanissaro]]
 

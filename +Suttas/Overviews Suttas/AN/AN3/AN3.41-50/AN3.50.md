@@ -44,12 +44,12 @@ parallels_partilal: "[[AN5.103]], [[PLI-TV-BU-VB-PJ4]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Why a bad mendicant is like a thief
+> Why a bad bhikkhu is like a thief
 
 > [!info] Key Excerpts 
-> A bad mendicant relies on uneven ground, on thick cover, and on powerful individuals
+> A bad bhikkhu relies on uneven ground, on thick cover, and on powerful individuals
 > 
-> When a bad mendicant has three factors, they keep themselves broken and damaged. They deserve to be blamed and criticized by sensible people, and they make much bad karma
+> When a bad bhikkhu has three factors, they keep themselves broken and damaged. They deserve to be blamed and criticized by sensible people, and they make much bad karma
 > 
 
 > [!info] Similes

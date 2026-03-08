@@ -6,7 +6,7 @@ vin_type:
   - "Confession"
 vin_title:
   - "Bhikkhuakkosana"
-  - "Abusing Monks"
+  - "Abusing bhikkhus"
 vin_chapter:
   - "6 Ārāmavaggo"
   - "6 Monastery"
@@ -29,7 +29,7 @@ vin_gender-corr: ""
 
 # Nuns - Pacittiya - Confession
 ## 6 Ārāmavaggo - 6 Monastery
-## BNI-PC52 - Bhikkhuakkosana - Abusing Monks
+## BNI-PC52 - Bhikkhuakkosana - Abusing bhikkhus
 
 ### 🌐Overview
 
@@ -52,7 +52,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-PC52 |  | Vin.4.258-4.345 |
 

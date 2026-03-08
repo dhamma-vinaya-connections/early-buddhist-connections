@@ -36,7 +36,7 @@ contribution:
 >  
 
 > [!example]- 🌐[[SA197]] - 📜[Available texts](obsidian://search?query=file:sa197-) - SA 2.40 – Burning 
->  When sakka sets out on a pleasure jaunt, he begins by lifting his joined palms to the Buddha . His charioteer mātali points out that sakka is venerated by gods and men, and asks who he is venerating. Sakka replies that he venerates the Buddha , the perfected mendicants as well as trainees on the path.
+>  When sakka sets out on a pleasure jaunt, he begins by lifting his joined palms to the Buddha . His charioteer mātali points out that sakka is venerated by gods and men, and asks who he is venerating. Sakka replies that he venerates the Buddha , the perfected bhikkhus as well as trainees on the path.
 
 > [!example]- 🌐[[SA198]] - 📜[Available texts](obsidian://search?query=file:sa198-) - SA 2.41-48 – Rāhula (1-8) 
 >  The Buddha  answers rāhula’s request by teaching on links of dependent origination in light of the three characteristics.
@@ -72,16 +72,16 @@ contribution:
 >  In the past, future, and present the six interior and exterior sense fields are impermanent, suffering, and not-self.
 
 > [!example]- 🌐[[SA209]] - 📜[Available texts](obsidian://search?query=file:sa209-) - SA 2.93 – The Sense Fields of Contact 
->  One who does not understand the six senses’ origin, ending, gratification, drawback, and escape is no true mendicant. A mendicant speaks up, saying that he does not truly understand these things, so the Buddha  teaches him further.
+>  One who does not understand the six senses’ origin, ending, gratification, drawback, and escape is no true bhikkhu. A bhikkhu speaks up, saying that he does not truly understand these things, so the Buddha  teaches him further.
 
 > [!example]- 🌐[[SA210]] - 📜[Available texts](obsidian://search?query=file:sa210-) - SA 2.94 – Don’t Be Pleased or Suffer 
 >  A brahmin believes that by bathing he can wash away his sins. But the Buddha  speaks of the Dhamma as a lake for true purification
 
 > [!example]- 🌐[[SA211]] - 📜[Available texts](obsidian://search?query=file:sa211-) - SA 2.95 – Become Aware of the Sense Fields 
->  While practicing for awakening, the Buddha  reflected that he should be diligent when his mind strayed to sense pleasures of the past, future, or present. He urges the mendicants to realize that place where the senses completely cease, and they ask Ānanda to explain this to them
+>  While practicing for awakening, the Buddha  reflected that he should be diligent when his mind strayed to sense pleasures of the past, future, or present. He urges the bhikkhus to realize that place where the senses completely cease, and they ask Ānanda to explain this to them
 
 > [!example]- 🌐[[SA212]] - 📜[Available texts](obsidian://search?query=file:sa212-) - SA 2.96 – The Careful Practice 
->  Not all mendicants have completed their work with regards to the six senses, but some of them have
+>  Not all bhikkhus have completed their work with regards to the six senses, but some of them have
 
 > [!example]- 🌐[[SA213]] - 📜[Available texts](obsidian://search?query=file:sa213-) - SA 2.97 – Two Things 
 >  Consciousness arises from the dyad of the interior sense organ with its corresponding exterior sense stimulus. All these things are conditioned, impermanent, and constantly falling apart.
@@ -111,13 +111,13 @@ contribution:
 >  Four eyewitness accounts of the passing away of the Buddha 
 
 > [!example]- 🌐[[SA222]] - 📜[Available texts](obsidian://search?query=file:sa222-) - SA 2.111 – Understanding 
->  Kassapa is content with robes, alms-food, lodging, and medicines.  While some mendicants approach families in the hope of receiving fine gifts or respect
+>  Kassapa is content with robes, alms-food, lodging, and medicines.  While some bhikkhus approach families in the hope of receiving fine gifts or respect
 
 > [!example]- 🌐[[SA223]] - 📜[Available texts](obsidian://search?query=file:sa223-) - SA 2.112 – Understanding (2) 
->  Kassapa is content with robes, alms-food, lodging, and medicines.  While some mendicants approach families in the hope of receiving fine gifts or respect
+>  Kassapa is content with robes, alms-food, lodging, and medicines.  While some bhikkhus approach families in the hope of receiving fine gifts or respect
 
 > [!example]- 🌐[[SA224]] - 📜[Available texts](obsidian://search?query=file:sa224-) - SA 2.113 – Abandoning 
->  The Buddha  invites Kassapa to teach the mendicants, but he is reluctant, saying that the mendicants have become stubborn and their good qualities are declining
+>  The Buddha  invites Kassapa to teach the bhikkhus, but he is reluctant, saying that the bhikkhus have become stubborn and their good qualities are declining
 
 > [!example]- 🌐[[SA225]] - 📜[Available texts](obsidian://search?query=file:sa225-) - SA 2.114 – Abandoning (2) 
 >  Without understanding the “all” consisting of the six interior and exterior sense fields and becoming dispassionate towards it, it is impossible to be free of suffering.
@@ -138,7 +138,7 @@ contribution:
 >  Venerable samiddhi asks the Buddha  what a “sentient being” is. The Buddha  says that that Māra is present so long as the senses exist.
 
 > [!example]- 🌐[[SA231]] - 📜[Available texts](obsidian://search?query=file:sa231-) - SA 2.126 – Samṛddhi (4) 
->  Some mendicants check with the Buddha  that it’s correct to say that the spiritual life is lived to end suffering. The Buddha  answers that it is, and explains what that suffering is: the process of sense experience
+>  Some bhikkhus check with the Buddha  that it’s correct to say that the spiritual life is lived to end suffering. The Buddha  answers that it is, and explains what that suffering is: the process of sense experience
 
 > [!example]- 🌐[[SA232]] - 📜[Available texts](obsidian://search?query=file:sa232-) - SA 2.127 – Samṛddhi (5) 
 >  The Buddha  attained perfect enlightenment by abandoning the two extremes and by following the middle way, does not criticize or praise all enjoyers of sensual pleasures or all ascetics.
@@ -147,7 +147,7 @@ contribution:
 >  The oneness of all being is sometimes taught as a basic buddhist principle, but this discourse shows that the Buddha  himself rejected the idea. It is simply one of the extremes that he avoided by teaching dependent co-arising.
 
 > [!example]- 🌐[[SA234]] - 📜[Available texts](obsidian://search?query=file:sa234-) - SA 2.129 – The End of the World 
->  The Buddha  states that the end of the world cannot be reached by traveling, yet it is impossible to end suffering without reaching the end of the world. The mendicants ask Ānanda to explain this enigmatic statement
+>  The Buddha  states that the end of the world cannot be reached by traveling, yet it is impossible to end suffering without reaching the end of the world. The bhikkhus ask Ānanda to explain this enigmatic statement
 
 > [!example]- 🌐[[SA235]] - 📜[Available texts](obsidian://search?query=file:sa235-) - SA 2.130 – Having a Teacher and a Disciple 
 >  One with no “student” and no “teacher” dwells in suffering. Here the Buddha  plays with the pali words such that “student” means “one who dwells within” and “teacher” means “one who assails”

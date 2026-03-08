@@ -44,7 +44,7 @@ parallels_partilal: "[[ITI108]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicants who are deceivers, stubborn, flatterers, frauds, insolent, and scattered: they are no mendicants of the Buddha
+> bhikkhus who are deceivers, stubborn, flatterers, frauds, insolent, and scattered: they are no bhikkhus of the Buddha
 
 > [!info] Key Excerpts 
 > Those who are genuine, not flatterers, wise, 

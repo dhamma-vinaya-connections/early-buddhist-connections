@@ -127,7 +127,7 @@ The Bhagavān replied, “May you, Lord Śakra, and the Trāyastriṃśa gods ha
 
 22. “Here, there was the Śākyan woman Gopikā who had purely cultivated the Bhagavān’s religious life. She was born in the Trāyastriṃśa Heaven’s palace as my son after her body broke up and her life ended. The Trāyastriṃśa gods all praised him, ‘The great godling Gopaka has great virtue and majesty!’
 
-23. “There were another three monks who had purely cultivated the Bhagavān’s religious life. They were born as inferior gandharva spirits after their bodies broke up and their lives ended. Every day, they came to serve us as messengers. When Gopaka saw them, he harassed them with these verses:
+23. “There were another three bhikkhus who had purely cultivated the Bhagavān’s religious life. They were born as inferior gandharva spirits after their bodies broke up and their lives ended. Every day, they came to serve us as messengers. When Gopaka saw them, he harassed them with these verses:
 
 - “‘Were you disciples of the Buddha 
  When I was living at home in the past? 

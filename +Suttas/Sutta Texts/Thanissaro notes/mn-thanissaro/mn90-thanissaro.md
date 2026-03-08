@@ -65,7 +65,7 @@ Then King Pasenadi Kosala said to the Blessed One, “Could it be that something
 
 “Great king, there are these five factors for exertion. Which five?
 
-“There is the case where a monk has conviction, is convinced of the Tathāgata’s awakening: ‘Indeed, the Blessed One is worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed.’
+“There is the case where a bhikkhu has conviction, is convinced of the Tathāgata’s awakening: ‘Indeed, the Blessed One is worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed.’
 
 “He is free from illness & discomfort, endowed with good digestion—not too cold, not too hot, of moderate strength—fit for exertion.
 
@@ -127,7 +127,7 @@ Then the thought occurred to Ven. Ānanda, “This General Viḍūḍabha is the
 
 “In the same way, general, afflicted devas, who will come back to this life, can’t even see the unafflicted devas who don’t come back to this life. How could they oust or expel them from that place?”
 
-Then King Pasenadi Kosala said to the Blessed One, “Lord, what is the name of this monk?”
+Then King Pasenadi Kosala said to the Blessed One, “Lord, what is the name of this bhikkhu?”
 
 “His name is Ānanda [Joy], great king.”
 
@@ -157,7 +157,7 @@ Then King Pasenadi Kosala, delighting in and approving of the Blessed One’s wo
 
 ### Notes
 
-1. According to the Commentary, Somā and Sakulā were two wives of the king. The Commentary’s treatment of this incident as a whole, however, seems aimed at taking the teeth out of the satire, perhaps to appease the royal patrons of the monks who compiled the Commentary. It insists that the two sisters did not barge in on the king as his meal was being served, but were actually taking part in the meal-serving ceremony. However, the sisters’ tone of voice in delivering their request to the king is anything but servile. So perhaps the Commentary is mistaken about their identity as well. [↩︎](#^mn90note01-ref) ^mn90note01
+1. According to the Commentary, Somā and Sakulā were two wives of the king. The Commentary’s treatment of this incident as a whole, however, seems aimed at taking the teeth out of the satire, perhaps to appease the royal patrons of the bhikkhus who compiled the Commentary. It insists that the two sisters did not barge in on the king as his meal was being served, but were actually taking part in the meal-serving ceremony. However, the sisters’ tone of voice in delivering their request to the king is anything but servile. So perhaps the Commentary is mistaken about their identity as well. [↩︎](#^mn90note01-ref) ^mn90note01
 
 2. According to the Commentary, “afflicted” here means still subject to suffering; “unafflicted” means free from the roots of suffering. [↩︎](#^mn90note02-ref) ^mn90note02
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four perversions of perception, mind, and view. What four?
+1“bhikkhus, there are these four perversions of perception, mind, and view. What four?
 
 1. Taking impermanence as permanence.
 2. Taking suffering as happiness.

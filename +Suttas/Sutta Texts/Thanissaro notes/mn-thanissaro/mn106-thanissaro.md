@@ -15,11 +15,11 @@ language: "English"
 ## ## Āneñja-sappāya Sutta
 
 
-I have heard that on one occasion the Blessed One was staying among the Kurus. Now there is a town of the Kurus called Kammāsadhamma. There the Blessed One addressed the monks, “Monks!”
+I have heard that on one occasion the Blessed One was staying among the Kurus. Now there is a town of the Kurus called Kammāsadhamma. There the Blessed One addressed the bhikkhus, “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said: “Monks, sensuality is inconstant, hollow, vain, deceptive. It is illusory, the babble of fools. Sensuality here & now; sensuality in lives to come; sensual perceptions here & now; sensual perceptions in lives to come: both are Māra’s realm, Māra’s domain, Māra’s bait, Māra’s range. They lead to these evil, unskillful mental states: greed, ill will, & contentiousness. They arise for the obstruction of a disciple of the noble ones here in training.
+The Blessed One said: “bhikkhus, sensuality is inconstant, hollow, vain, deceptive. It is illusory, the babble of fools. Sensuality here & now; sensuality in lives to come; sensual perceptions here & now; sensual perceptions in lives to come: both are Māra’s realm, Māra’s domain, Māra’s bait, Māra’s range. They lead to these evil, unskillful mental states: greed, ill will, & contentiousness. They arise for the obstruction of a disciple of the noble ones here in training.
 
 “In that case, the disciple of the noble ones considers this: ‘Sensuality here & now; sensuality in lives to come; sensual perceptions here & now; sensual perceptions in lives to come: Both are Māra’s realm, Māra’s domain, Māra’s bait, Māra’s range. They lead to these evil, unskillful mental states: greed, ill will, & contentiousness. They arise for the obstruction of a disciple of the noble ones here in training. What if I—overpowering the world [of the five senses] and having determined my mind—were to dwell with an awareness that was abundant & enlarged? Having done so, these evil, unskillful mental states—greed, ill will, & contentiousness—would not come into being. With their abandoning, my mind would become unlimited, immeasurable, & well developed.’ Practicing & frequently abiding in this way, his mind acquires confidence in that dimension. There being full confidence, he either attains the imperturbable[1](#^mn106note01) now or else is committed to discernment. With the break-up of the body, after death, it’s possible that this leading-on consciousness of his will go to the imperturbable. This is declared to be the first practice conducive to the imperturbable. ^mn106note01-ref
 
@@ -35,21 +35,21 @@ The Blessed One said: “Monks, sensuality is inconstant, hollow, vain, deceptiv
 
 “Then again, the disciple of the noble ones considers this: ‘Sensuality here & now; sensuality in lives to come; sensual perceptions here & now; sensual perceptions in lives to come; forms here & now; forms in lives to come; form-perceptions here & now; form-perceptions in lives to come; perceptions of the imperturbable; perceptions of the dimension of nothingness: All are perceptions. Where they cease without remainder: That is peaceful, that is exquisite, i.e., the dimension of neither perception nor non-perception.’ Practicing & frequently abiding in this way, his mind acquires confidence in that dimension. There being full confidence, he either attains the dimension of neither perception nor non-perception now or else is committed to discernment. With the break-up of the body, after death, it’s possible that this leading-on consciousness of his will go to the dimension of neither perception nor non-perception. This is declared to be the practice conducive to the dimension of neither perception nor non-perception.
 
-When this was said, Ven. Ānanda said to the Blessed One: “There is the case, lord, where a monk, having practiced in this way—‘It should not be, it should not occur to me; it will not be, it will not occur to me. What is, what has come to be, that I abandon’—obtains equanimity. Now, would this monk be totally unbound, or not?”
+When this was said, Ven. Ānanda said to the Blessed One: “There is the case, lord, where a bhikkhu, having practiced in this way—‘It should not be, it should not occur to me; it will not be, it will not occur to me. What is, what has come to be, that I abandon’—obtains equanimity. Now, would this bhikkhu be totally unbound, or not?”
 
-“A certain such monk might, Ānanda, and another might not.’
+“A certain such bhikkhu might, Ānanda, and another might not.’
 
 “What is the cause, what is the reason, lord, whereby one might and another might not?”
 
-“There is the case, Ānanda, where a monk, having practiced in this way—(thinking) ‘It should not be, it should not occur to me; it will not be, it will not occur to me. What is, what has come to be, that I abandon’—obtains equanimity. He relishes that equanimity, welcomes it, remains fastened to it. As he relishes that equanimity, welcomes it, remains fastened to it, his consciousness is dependent on it, is sustained by it [clings to it]. With clinging/sustenance, Ānanda, a monk is not totally unbound.”
+“There is the case, Ānanda, where a bhikkhu, having practiced in this way—(thinking) ‘It should not be, it should not occur to me; it will not be, it will not occur to me. What is, what has come to be, that I abandon’—obtains equanimity. He relishes that equanimity, welcomes it, remains fastened to it. As he relishes that equanimity, welcomes it, remains fastened to it, his consciousness is dependent on it, is sustained by it [clings to it]. With clinging/sustenance, Ānanda, a bhikkhu is not totally unbound.”
 
-“Being sustained, lord, where is that monk sustained?”
+“Being sustained, lord, where is that bhikkhu sustained?”
 
 “The dimension of neither perception nor non-perception.”
 
 “Then, indeed, being sustained, he is sustained by the supreme sustenance.”
 
-“Being sustained, Ānanda, he _is_ sustained by the supreme sustenance; for this—the dimension of neither perception nor non-perception—is the supreme sustenance. There is (however) the case where a monk, having practiced in this way—‘It should not be, it should not occur to me; it will not be, it will not occur to me. What is, what has come to be, that I abandon’—obtains equanimity. He does not relish that equanimity, does not welcome it, does not remain fastened to it. As he does not relish that equanimity, does not welcome it, does not remain fastened to it, his consciousness is not dependent on it, is not sustained by it [does not cling to it]. Without clinging/sustenance, Ānanda, a monk is totally unbound.”
+“Being sustained, Ānanda, he _is_ sustained by the supreme sustenance; for this—the dimension of neither perception nor non-perception—is the supreme sustenance. There is (however) the case where a bhikkhu, having practiced in this way—‘It should not be, it should not occur to me; it will not be, it will not occur to me. What is, what has come to be, that I abandon’—obtains equanimity. He does not relish that equanimity, does not welcome it, does not remain fastened to it. As he does not relish that equanimity, does not welcome it, does not remain fastened to it, his consciousness is not dependent on it, is not sustained by it [does not cling to it]. Without clinging/sustenance, Ānanda, a bhikkhu is totally unbound.”
 
 “It’s amazing, lord. It’s astounding. For truly, the Blessed One has declared to us the way to cross over the flood by going from one support to the next. But what is the noble liberation?”
 

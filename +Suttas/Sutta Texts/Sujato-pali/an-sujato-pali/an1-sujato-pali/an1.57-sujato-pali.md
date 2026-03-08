@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, whatever qualities are skillful, part of the skillful, on the side of the skillful, all of them are preceded by the mind. Mind arises first, and skillful qualities follow right behind.”
+1“bhikkhus, whatever qualities are skillful, part of the skillful, on the side of the skillful, all of them are preceded by the mind. Mind arises first, and skillful qualities follow right behind.”
 
 1"Ye keci, bhikkhave, dhammā kusalā kusalabhāgiyā kusalapakkhikā, sabbe te manopubbaṅgamā. Mano tesaṁ dhammānaṁ paṭhamaṁ uppajjati, anvadeva kusalā dhammā"ti.
 

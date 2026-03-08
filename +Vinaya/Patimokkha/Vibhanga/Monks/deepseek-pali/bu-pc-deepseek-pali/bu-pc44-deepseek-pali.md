@@ -15,15 +15,15 @@ language: "Pali - English"
 
 284. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto sahāyakassa gharaṃ gantvā tassa pajāpatiyā saddhiṃ raho paṭicchanne āsane nisajjaṃ kappesi. Atha kho so puriso ujjhāyati khiyyati vipāceti – ‘‘kathañhi nāma ayyo upanando mayhaṃ pajāpatiyā saddhiṃ raho paṭicchanne āsane nisajjaṃ kappessatī’’ti! Assosuṃ kho bhikkhū tassa purisassa ujjhāyantassa khiyyantassa vipācentassa. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – kathañhi nāma āyasmā upanando sakyaputto mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappessatīti…pe… saccaṃ kira tvaṃ, upananda, mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappesīti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tvaṃ, moghapurisa, mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappessasi! Netaṃ, moghapurisa, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-284.At one time the Blessed One was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. At that time, Venerable Upananda the Sakyan went to the house of a friend and sat down on a secluded and concealed seat with that man's wife. That man complained, grumbled, and denounced, saying, “How could Venerable Upananda sit on a secluded and concealed seat with my wife?” The monks heard that man complaining, grumbling, and denouncing. Those monks who were of few desires… criticized him, saying, “How could Venerable Upananda the Sakyan sit on a secluded and concealed seat with a woman?” … “Is it true, Upananda, that you sat on a secluded and concealed seat with a woman?” “It’s true, Blessed One.” The Blessed One rebuked him … “Foolish man, how could you sit on a secluded and concealed seat with a woman! This will not inspire confidence in those without it …” … “And so, monks, this training rule should be recited:
+284.At one time the Blessed One was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. At that time, Venerable Upananda the Sakyan went to the house of a friend and sat down on a secluded and concealed seat with that man's wife. That man complained, grumbled, and denounced, saying, “How could Venerable Upananda sit on a secluded and concealed seat with my wife?” The bhikkhus heard that man complaining, grumbling, and denouncing. Those bhikkhus who were of few desires… criticized him, saying, “How could Venerable Upananda the Sakyan sit on a secluded and concealed seat with a woman?” … “Is it true, Upananda, that you sat on a secluded and concealed seat with a woman?” “It’s true, Blessed One.” The Blessed One rebuked him … “Foolish man, how could you sit on a secluded and concealed seat with a woman! This will not inspire confidence in those without it …” … “And so, bhikkhus, this training rule should be recited:
 
 285. ‘‘Yo pana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiya’’nti.
 
-285.“Should any monk sit down on a secluded and concealed seat with a woman, it is an offense entailing expiation.”
+285.“Should any bhikkhu sit down on a secluded and concealed seat with a woman, it is an offense entailing expiation.”
 
 286. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-286.“Any” (yo pana): whoever, of whatever kind… “Monk” (bhikkhu): …here, ‘monk’ is the monk intended in this context.
+286.“Any” (yo pana): whoever, of whatever kind… “bhikkhu” (bhikkhu): …here, ‘bhikkhu’ is the bhikkhu intended in this context.
 
 Mātugāmo nāma manussitthī, na yakkhī na petī na tiracchānagatā, antamaso tadahujātāpi dārikā, pageva mahattarī.
 
@@ -43,7 +43,7 @@ Saddhinti ekato.
 
 Nisajjaṃ kappeyyāti mātugāme nisinne bhikkhu upanisinno vā hoti upanipanno vā, āpatti pācittiyassa. Bhikkhu nisinne mātugāmo upanisinno vā hoti upanipanno vā, āpatti pācittiyassa. Ubho vā nisinnā honti ubho vā nipannā, āpatti pācittiyassa.
 
-“Sits down” (nisajjaṃ kappeyya): If a woman is sitting and the monk sits down or lies down close to her, it is an offense entailing expiation. If the monk is sitting and a woman sits down or lies down close to him, it is an offense entailing expiation. If both are sitting or both are lying down, it is an offense entailing expiation.
+“Sits down” (nisajjaṃ kappeyya): If a woman is sitting and the bhikkhu sits down or lies down close to her, it is an offense entailing expiation. If the bhikkhu is sitting and a woman sits down or lies down close to him, it is an offense entailing expiation. If both are sitting or both are lying down, it is an offense entailing expiation.
 
 287. Mātugāme mātugāmasaññī raho paṭicchanne āsane nisajjaṃ kappeti, āpatti pācittiyassa. Mātugāme vematiko raho paṭicchanne āsane nisajjaṃ kappeti, āpatti pācittiyassa. Mātugāme amātugāmasaññī raho paṭicchanne āsane nisajjaṃ kappeti, āpatti pācittiyassa.
 

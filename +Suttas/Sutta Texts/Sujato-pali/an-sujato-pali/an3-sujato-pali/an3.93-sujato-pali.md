@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, wanderers who follow other paths advocate three kinds of seclusion. What three? Seclusion in robes, alms-food, and lodgings.
+1“bhikkhus, wanderers who follow other paths advocate three kinds of seclusion. What three? Seclusion in robes, alms-food, and lodgings.
 
 2Wanderers who follow other paths advocate this kind of seclusion in robes. They wear robes of sunn hemp, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. This is what wanderers who follow other paths advocate for seclusion in robes.
 
@@ -31,16 +31,16 @@ language: "English - Pali"
 These are the three kinds of seclusion that wanderers who follow other paths advocate.
 
 
-5In this teaching and training, there are three kinds of seclusion for a mendicant. What three?
+5In this teaching and training, there are three kinds of seclusion for a bhikkhu. What three?
 
-Firstly, a mendicant is ethical, giving up unethical conduct, being secluded from it. They have right view, giving up wrong view, being secluded from it. They’ve ended defilements, giving up defilements, being secluded from them.
+Firstly, a bhikkhu is ethical, giving up unethical conduct, being secluded from it. They have right view, giving up wrong view, being secluded from it. They’ve ended defilements, giving up defilements, being secluded from them.
 
-When a mendicant has these three kinds of seclusion, they’re called a mendicant who has reached the peak and the pith, being pure and grounded in the essential.
+When a bhikkhu has these three kinds of seclusion, they’re called a bhikkhu who has reached the peak and the pith, being pure and grounded in the essential.
 
 
 6When a farmer’s rice field is ripe, they’d have the rice cut swiftly, gathered swiftly, transported swiftly, made into heaps swiftly, threshed swiftly, the straw and chaff removed swiftly, winnowed swiftly, brought over swiftly, threshed swiftly, and have the husks removed swiftly. In this way that farmer’s crop would reach the peak and the pith, being pure and consisting only of what is essential.
 
-7In the same way, when a mendicant is ethical, giving up unethical conduct, being secluded from it; when they have right view, giving up wrong view, being secluded from it; when they’ve ended defilements, giving up defilements, being secluded from them: they’re called a mendicant who has reached the peak and the pith, being pure and grounded in the essential.”
+7In the same way, when a bhikkhu is ethical, giving up unethical conduct, being secluded from it; when they have right view, giving up wrong view, being secluded from it; when they’ve ended defilements, giving up defilements, being secluded from them: they’re called a bhikkhu who has reached the peak and the pith, being pure and grounded in the essential.”
 
 1"Tīṇimāni, bhikkhave, aññatitthiyā paribbājakā pavivekāni paññāpenti. Katamāni tīṇi? Cīvarapavivekaṁ, piṇḍapātapavivekaṁ, senāsanapavivekaṁ.
 

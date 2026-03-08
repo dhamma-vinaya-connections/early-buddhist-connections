@@ -19,7 +19,7 @@ As she was standing there, the devatā recited this verse in the Blessed One’s
 
 “As if struck by a sword,
 as if his head were on fire,
-a monk should live the wandering life
+a bhikkhu should live the wandering life
 	—mindful—
 for the abandoning of sensual passion.”
 
@@ -27,7 +27,7 @@ The Buddha:
 
 “As if struck by a sword,
 as if his head were on fire,
-a monk should live the wandering life
+a bhikkhu should live the wandering life
 	—mindful—
 for the abandoning of self-identity.”
 

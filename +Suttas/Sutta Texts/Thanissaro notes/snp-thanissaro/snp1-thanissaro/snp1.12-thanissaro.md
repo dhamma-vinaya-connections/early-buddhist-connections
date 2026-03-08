@@ -218,7 +218,7 @@ in speed,
 
 even so the householder
 
-never keeps up with the monk—
+never keeps up with the bhikkhu—
 
 the sage secluded
 
@@ -250,7 +250,7 @@ vv. 207–221
 
 10. SnA: Straight as a shuttle = Having a mind unprejudiced by desire, aversion, delusion, or fear. See [[an4.19-thanissaro]]. [↩︎](#^snp1-12-10-ref) ^snp1-12-10
 
-11. Consonant and discordant _(sama_ and _visama):_ Throughout ancient cultures, the terminology of music was used to describe the moral quality of people and acts. Discordant intervals or poorly-tuned musical instruments were metaphors for evil; harmonious intervals and well-tuned instruments were metaphors for good. In Pali, the term _sama_—”even”—described an instrument tuned on-pitch. [[an6.55-thanissaro]] contains a famous passage in which the Buddha reminds Ven. Soṇa Kolivisa—who had been over-exerting himself in the practice—that a lute sounds appealing only if the strings are neither too taut nor too lax, but “evenly” tuned. This image would have special resonances with the Buddha’s teaching on the middle way. It also adds meaning to the term _samaṇa_—monk or contemplative—which the texts frequently mention as being derived from _sama._ The word _sāmañña_—”evenness,” the quality of being concordant and in tune—also means the quality of being a contemplative. The true contemplative is always in tune with what is proper and good. See also [[dn2-thanissaro]], [[mn61-thanissaro]], [[mn97-thanissaro]]. Nd II, in commenting on [[/snp4.2-thanissaro]], equates discordant conduct with the ten types of misconduct described in [[mn41-thanissaro]]. [↩︎](#^snp1-12-11-ref) ^snp1-12-11
+11. Consonant and discordant _(sama_ and _visama):_ Throughout ancient cultures, the terminology of music was used to describe the moral quality of people and acts. Discordant intervals or poorly-tuned musical instruments were metaphors for evil; harmonious intervals and well-tuned instruments were metaphors for good. In Pali, the term _sama_—”even”—described an instrument tuned on-pitch. [[an6.55-thanissaro]] contains a famous passage in which the Buddha reminds Ven. Soṇa Kolivisa—who had been over-exerting himself in the practice—that a lute sounds appealing only if the strings are neither too taut nor too lax, but “evenly” tuned. This image would have special resonances with the Buddha’s teaching on the middle way. It also adds meaning to the term _samaṇa_—bhikkhu or contemplative—which the texts frequently mention as being derived from _sama._ The word _sāmañña_—”evenness,” the quality of being concordant and in tune—also means the quality of being a contemplative. The true contemplative is always in tune with what is proper and good. See also [[dn2-thanissaro]], [[mn61-thanissaro]], [[mn97-thanissaro]]. Nd II, in commenting on [[/snp4.2-thanissaro]], equates discordant conduct with the ten types of misconduct described in [[mn41-thanissaro]]. [↩︎](#^snp1-12-11-ref) ^snp1-12-11
 
 12. Intoxication: The three intoxications are intoxication with youth, with good health, and with life. See [[an3.39-thanissaro]]. [↩︎](#^snp1-12-12-ref) ^snp1-12-12
 

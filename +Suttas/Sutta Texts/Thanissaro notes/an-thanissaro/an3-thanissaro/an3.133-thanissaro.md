@@ -15,7 +15,7 @@ language: "English"
 ## ## Lekha Sutta
 
 
-“Monks, there are these three types of individuals to be found existing in the world. Which three? An individual like an inscription in rock, an individual like an inscription in soil, and an individual like an inscription in water.
+“bhikkhus, there are these three types of individuals to be found existing in the world. Which three? An individual like an inscription in rock, an individual like an inscription in soil, and an individual like an inscription in water.
 
 “And how is an individual like an inscription in rock? There is the case where a certain individual is often angered and his anger stays with him a long time. Just as an inscription in rock is not quickly effaced by wind or water and lasts a long time, in the same way a certain individual is often angered, and his anger stays with him a long time. This is called an individual like an inscription in rock.
 

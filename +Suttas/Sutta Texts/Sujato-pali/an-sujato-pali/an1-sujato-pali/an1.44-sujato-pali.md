@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when I’ve comprehended the mind of a person whose mind is confident, I understand: ‘If this person were to die right now, they would be raised up to heaven.’ Why is that? Because their mind is clear. Clarity of mind is the reason why some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm.”
+1“bhikkhus, when I’ve comprehended the mind of a person whose mind is confident, I understand: ‘If this person were to die right now, they would be raised up to heaven.’ Why is that? Because their mind is clear. Clarity of mind is the reason why some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm.”
 
 1"Idhāhaṁ, bhikkhave, ekaccaṁ puggalaṁ pasannacittaṁ evaṁ cetasā ceto paricca pajānāmi:  ‘imamhi ce ayaṁ samaye puggalo kālaṁ kareyya, yathābhataṁ nikkhitto evaṁ sagge’. Taṁ kissa hetu? Cittaṁ hissa, bhikkhave, pasannaṁ. Cetopasādahetu pana, bhikkhave, evamidhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī"ti.
 

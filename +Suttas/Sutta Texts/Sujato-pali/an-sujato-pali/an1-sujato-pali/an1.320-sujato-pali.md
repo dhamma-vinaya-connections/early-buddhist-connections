@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the one who encourages someone in a poorly explained teaching and training, the one who they encourage, and the one who practices accordingly all make much bad karma. Why is that? Because the teaching is poorly explained.”
+1“bhikkhus, the one who encourages someone in a poorly explained teaching and training, the one who they encourage, and the one who practices accordingly all make much bad karma. Why is that? Because the teaching is poorly explained.”
 
 1"Durakkhāte, bhikkhave, dhammavinaye yo ca samādapeti yañca samādapeti yo ca samādapito tathattāya paṭipajjati sabbe te bahuṁ apuññaṁ pasavanti. Taṁ kissa hetu? Durakkhātattā, bhikkhave, dhammassā"ti.
 

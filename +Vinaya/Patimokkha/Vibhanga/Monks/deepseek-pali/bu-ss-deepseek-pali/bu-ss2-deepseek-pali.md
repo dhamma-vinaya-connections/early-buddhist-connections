@@ -23,15 +23,15 @@ When this was said, that brahmin woman said to the brahmin: "Where is his excell
 
 Assosuṃ kho bhikkhu tassa brāhmaṇassa ujjhāyantassa khiyyantassa vipācentassa. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma āyasmā udāyī mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjissatī’’ti! Atha kho te bhikkhū āyasmantaṃ udāyiṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ. Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṅghaṃ sannipātāpetvā āyasmantaṃ udāyiṃ paṭipucchi – ‘‘saccaṃ kira tvaṃ, udāyi, mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjasī’’ti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā – ‘‘ananucchavikaṃ, moghapurisa, ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ. Kathañhi nāma tvaṃ, moghapurisa, mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjissasi! Nanu mayā, moghapurisa, anekapariyāyena virāgāya dhammo desito no sarāgāya…pe… kāmapariḷāhānaṃ vūpasamo akkhāto. Netaṃ, moghapurisa, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-The monks heard that brahmin complaining, grumbling, and criticizing. Those monks who were modest… complained, grumbled, and criticized: “How could Venerable Udāyī engage in physical contact with a woman?” Then those monks, after rebuking Venerable Udāyī in many ways, reported the matter to the Blessed One. Then the Blessed One, on this occasion and in this matter, had the Sangha of monks assembled and questioned Venerable Udāyī: “Is it true, Udāyī, that you engaged in physical contact with a woman?” “It is true, Blessed One.” The Blessed One rebuked him: “Foolish man, this is improper, unsuitable, unbecoming, unworthy of an ascetic, not allowable, and not to be done. How could you, foolish man, engage in physical contact with a woman? Foolish man, have I not taught the Dhamma in many ways for dispassion, not for passion… for the subsiding of the fever of sensual desires? This will not inspire confidence in those without it… And so, monks, this training rule should be recited:
+The bhikkhus heard that brahmin complaining, grumbling, and criticizing. Those bhikkhus who were modest… complained, grumbled, and criticized: “How could Venerable Udāyī engage in physical contact with a woman?” Then those bhikkhus, after rebuking Venerable Udāyī in many ways, reported the matter to the Blessed One. Then the Blessed One, on this occasion and in this matter, had the Sangha of bhikkhus assembled and questioned Venerable Udāyī: “Is it true, Udāyī, that you engaged in physical contact with a woman?” “It is true, Blessed One.” The Blessed One rebuked him: “Foolish man, this is improper, unsuitable, unbecoming, unworthy of an ascetic, not allowable, and not to be done. How could you, foolish man, engage in physical contact with a woman? Foolish man, have I not taught the Dhamma in many ways for dispassion, not for passion… for the subsiding of the fever of sensual desires? This will not inspire confidence in those without it… And so, bhikkhus, this training rule should be recited:
 
 270. ‘‘Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjeyya hatthaggāhaṃ vā veṇiggāhaṃ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṃ, saṅghādiseso’’ti.
 
-270.Whatever monk, overcome with lust, with a perverted mind, engages in physical contact with a woman—such as grasping her hand, grasping her braid of hair, or touching any part of her body—commits an offense entailing suspension.
+270.Whatever bhikkhu, overcome with lust, with a perverted mind, engages in physical contact with a woman—such as grasping her hand, grasping her braid of hair, or touching any part of her body—commits an offense entailing suspension.
 
 271. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-271.“Whatever” means whatever kind of person… “monk” means the monk intended in this case.
+271.“Whatever” means whatever kind of person… “bhikkhu” means the bhikkhu intended in this case.
 
 Otiṇṇo nāma sāratto apekkhavā paṭibaddhacitto.
 
@@ -123,59 +123,59 @@ Saṅghādisesoti…pe… tenapi vuccati saṅghādisesoti.
 
 273. Itthī ca hoti itthisaññī sāratto ca bhikkhu ca. Naṃ itthiyā kāyena kāyaṃ āmasati parāmasati omasati ummasati olaṅgheti ullaṅgheti ākaḍḍhati patikaḍḍhati abhiniggaṇhāti abhinippīḷeti gaṇhāti chupati, āpatti saṅghādisesassa.
 
-273.If it is a woman, he perceives her as a woman, and the monk is lustful, and he touches her body with his body—whether by touching, stroking, pressing down, raising up, bending down, lifting up, pulling, pushing back, firmly grasping, squeezing, grasping, or touching—he commits a Saṅghādisesa offense.
+273.If it is a woman, he perceives her as a woman, and the bhikkhu is lustful, and he touches her body with his body—whether by touching, stroking, pressing down, raising up, bending down, lifting up, pulling, pushing back, firmly grasping, squeezing, grasping, or touching—he commits a Saṅghādisesa offense.
 
 Itthī ca hoti vematiko sāratto ca. Bhikkhu ca naṃ itthiyā kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayassa.
 
-If it is a woman, he is uncertain, and the monk is lustful, and he touches her body with his body—whether by touching, stroking… or grasping, touching—he commits a grave offense.
+If it is a woman, he is uncertain, and the bhikkhu is lustful, and he touches her body with his body—whether by touching, stroking… or grasping, touching—he commits a grave offense.
 
 Itthī ca hoti paṇḍakasaññī sāratto ca. Bhikkhu ca naṃ itthiyā kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayassa.
 
-If it is a woman, he perceives her as a eunuch, and the monk is lustful, and he touches her body with his body—whether by touching, stroking… or grasping, touching—he commits a grave offense.
+If it is a woman, he perceives her as a eunuch, and the bhikkhu is lustful, and he touches her body with his body—whether by touching, stroking… or grasping, touching—he commits a grave offense.
 
 Itthī ca hoti purisasaññī sāratto ca. Bhikkhu ca naṃ itthiyā kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayassa.
 
-If it is a woman, he perceives her as a man, and the monk is lustful, and he touches her body with his body—whether by touching, stroking… or grasping, touching—he commits a grave offense.
+If it is a woman, he perceives her as a man, and the bhikkhu is lustful, and he touches her body with his body—whether by touching, stroking… or grasping, touching—he commits a grave offense.
 
 Itthī ca hoti tiracchānagatasaññī sāratto ca. Bhikkhu ca naṃ itthiyā kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayassa.
 
-If it is a woman, he perceives her as an animal, and the monk is lustful, and he touches her body with his body—whether by touching, stroking… or grasping, touching—he commits a grave offense.
+If it is a woman, he perceives her as an animal, and the bhikkhu is lustful, and he touches her body with his body—whether by touching, stroking… or grasping, touching—he commits a grave offense.
 
 Paṇḍako ca hoti paṇḍakasaññī sāratto ca. Bhikkhu ca naṃ paṇḍakassa kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayassa.
 
-If it is a eunuch, he perceives him as a eunuch, and the monk is lustful, and he touches the eunuch’s body with his body—whether by touching, stroking… or grasping, touching—he commits a grave offense.
+If it is a eunuch, he perceives him as a eunuch, and the bhikkhu is lustful, and he touches the eunuch’s body with his body—whether by touching, stroking… or grasping, touching—he commits a grave offense.
 
 Paṇḍako ca hoti vematiko sāratto ca. Bhikkhu ca naṃ paṇḍakassa kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dukkaṭassa.
 
-If it is a eunuch, he is uncertain, and the monk is lustful, and he touches the eunuch’s body with his body—whether by touching, stroking… or grasping, touching—he commits an offense of wrong-doing.
+If it is a eunuch, he is uncertain, and the bhikkhu is lustful, and he touches the eunuch’s body with his body—whether by touching, stroking… or grasping, touching—he commits an offense of wrong-doing.
 
 Paṇḍako ca hoti purisasaññī sāratto ca. Bhikkhu ca naṃ paṇḍakassa kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dukkaṭassa.
 
-If it is a eunuch, he perceives him as a man, and the monk is lustful, and he touches the eunuch’s body with his body—whether by touching, stroking… or grasping, touching—he commits an offense of wrong-doing.
+If it is a eunuch, he perceives him as a man, and the bhikkhu is lustful, and he touches the eunuch’s body with his body—whether by touching, stroking… or grasping, touching—he commits an offense of wrong-doing.
 
 Paṇḍako ca hoti tiracchānagatasaññī sāratto ca. Bhikkhu ca naṃ paṇḍakassa kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dukkaṭassa.
 
-If it is a eunuch, he perceives him as an animal, and the monk is lustful, and he touches the eunuch’s body with his body—whether by touching, stroking… or grasping, touching—he commits an offense of wrong-doing.
+If it is a eunuch, he perceives him as an animal, and the bhikkhu is lustful, and he touches the eunuch’s body with his body—whether by touching, stroking… or grasping, touching—he commits an offense of wrong-doing.
 
 Paṇḍako ca hoti itthisaññī sāratto ca. Bhikkhu ca naṃ paṇḍakassa kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dukkaṭassa.
 
-If it is a eunuch, he perceives him as a woman, and the monk is lustful, and he touches the eunuch’s body with his body—whether by touching, stroking… or grasping, touching—he commits an offense of wrong-doing.
+If it is a eunuch, he perceives him as a woman, and the bhikkhu is lustful, and he touches the eunuch’s body with his body—whether by touching, stroking… or grasping, touching—he commits an offense of wrong-doing.
 
 Puriso ca hoti purisasaññī sāratto ca. Bhikkhu ca naṃ purisassa kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dukkaṭassa.
 
-If it is a man, he perceives him as a man, and the monk is lustful, and he touches the man’s body with his body—whether by touching, stroking… or grasping, touching—he commits an offense of wrong-doing.
+If it is a man, he perceives him as a man, and the bhikkhu is lustful, and he touches the man’s body with his body—whether by touching, stroking… or grasping, touching—he commits an offense of wrong-doing.
 
 Puriso ca hoti vematiko…pe… puriso ca hoti tiracchānagatasaññī… puriso ca hoti itthisaññī… puriso ca hoti paṇḍakasaññī sāratto ca. Bhikkhu ca naṃ purisassa kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dukkaṭassa.
 
-A man exists who is uncertain… a man exists who perceives an animal… a man exists who perceives a woman… a man exists who perceives a eunuch, and is lustful. If a monk touches, handles… grasps, or makes contact with that man’s body with his own body, there is an offense of wrong-doing.
+A man exists who is uncertain… a man exists who perceives an animal… a man exists who perceives a woman… a man exists who perceives a eunuch, and is lustful. If a bhikkhu touches, handles… grasps, or makes contact with that man’s body with his own body, there is an offense of wrong-doing.
 
 Tiracchānagato ca hoti tiracchānagatasaññī sāratto ca. Bhikkhu ca naṃ tiracchānagatassa kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dukkaṭassa.
 
-An animal exists, perceiving it as an animal, and is lustful. If a monk touches, handles… grasps, or makes contact with the animal’s body with his own body, there is an offense of wrong-doing.
+An animal exists, perceiving it as an animal, and is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the animal’s body with his own body, there is an offense of wrong-doing.
 
 Tiracchānagato ca hoti vematiko…pe… tiracchānagato ca hoti itthisaññī… tiracchānagato ca hoti paṇḍakasaññī… tiracchānagato ca hoti. Purisasaññī sāratto ca. Bhikkhu ca naṃ tiracchānagatassa kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dukkaṭassa.
 
-An animal exists who is uncertain… an animal exists who perceives a woman… an animal exists who perceives a eunuch… an animal exists who perceives a man, and is lustful. If a monk touches, handles… grasps, or makes contact with that animal’s body with his own body, there is an offense of wrong-doing.
+An animal exists who is uncertain… an animal exists who perceives a woman… an animal exists who perceives a eunuch… an animal exists who perceives a man, and is lustful. If a bhikkhu touches, handles… grasps, or makes contact with that animal’s body with his own body, there is an offense of wrong-doing.
 
 Ekamūlakaṃ niṭṭhitaṃ.
 
@@ -183,99 +183,99 @@ The one-root section is concluded.
 
 274. Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ itthīnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ saṅghādisesānaṃ.
 
-274.Two women, perceiving them as women, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of those two women with his own body, he incurs two Sanghādisesa offenses.
+274.Two women, perceiving them as women, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of those two women with his own body, he incurs two Sanghādisesa offenses.
 
 Dve itthiyo dvinnaṃ itthīnaṃ vematiko sāratto ca. Bhikkhu ca naṃ dvinnaṃ itthīnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ thullaccayānaṃ.
 
-Two women, uncertain about them, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of those two women with his own body, he incurs two Thullaccaya offenses.
+Two women, uncertain about them, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of those two women with his own body, he incurs two Thullaccaya offenses.
 
 Dve itthiyo dvinnaṃ itthīnaṃ paṇḍakasaññī…pe… purisasaññī… tiracchānagatasaññī sāratto ca. Bhikkhu ca dvinnaṃ itthīnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ thullaccayānaṃ.
 
-Two women, perceiving them as eunuchs… perceiving them as men… perceiving them as animals, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of two women with his own body, he incurs two Thullaccaya offenses.
+Two women, perceiving them as eunuchs… perceiving them as men… perceiving them as animals, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of two women with his own body, he incurs two Thullaccaya offenses.
 
 Dve paṇḍakā dvinnaṃ paṇḍakānaṃ paṇḍakasaññī sāratto ca bhikkhu ca naṃ dvinnaṃ paṇḍakānaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ thullaccayānaṃ.
 
-Two eunuchs, perceiving them as eunuchs, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of those two eunuchs with his own body, he incurs two Thullaccaya offenses.
+Two eunuchs, perceiving them as eunuchs, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of those two eunuchs with his own body, he incurs two Thullaccaya offenses.
 
 Dve paṇḍakā dvinnaṃ paṇḍakānaṃ vematiko…pe… purisasaññī… tiracchānagatasaññī… itthisaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ paṇḍakānaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ.
 
-Two eunuchs, uncertain about them… perceiving them as men… perceiving them as animals… perceiving them as women, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of the two eunuchs with his own body, he incurs two Dukkaṭa offenses.
+Two eunuchs, uncertain about them… perceiving them as men… perceiving them as animals… perceiving them as women, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of the two eunuchs with his own body, he incurs two Dukkaṭa offenses.
 
 Dve purisā dvinnaṃ purisānaṃ purisasaññī sāratto ca bhikkhu ca naṃ dvinnaṃ purisānaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ.
 
-Two men, perceiving them as men, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of those two men with his own body, he incurs two Dukkaṭa offenses.
+Two men, perceiving them as men, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of those two men with his own body, he incurs two Dukkaṭa offenses.
 
 Dve purisā dvinnaṃ purisānaṃ vematiko…pe… tiracchānagatasaññī… itthisaññī… paṇḍakasaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ purisānaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ.
 
-Two men, uncertain about them… perceiving them as animals… perceiving them as women… perceiving them as eunuchs, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of the two men with his own body, he incurs two Dukkaṭa offenses.
+Two men, uncertain about them… perceiving them as animals… perceiving them as women… perceiving them as eunuchs, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of the two men with his own body, he incurs two Dukkaṭa offenses.
 
 Dve tiracchānagatā dvinnaṃ tiracchānagatānaṃ tiracchānagatasaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ tiracchānagatānaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ.
 
-Two animals, perceiving them as animals, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of the two animals with his own body, he incurs two Dukkaṭa offenses.
+Two animals, perceiving them as animals, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of the two animals with his own body, he incurs two Dukkaṭa offenses.
 
 Dve tiracchānagatā dvinnaṃ tiracchānagatānaṃ vematiko…pe… itthisaññī… paṇḍakasaññī … purisasaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ tiracchānagatānaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ.
 
-Two animals, uncertain about them… perceiving them as women… perceiving them as eunuchs… perceiving them as men, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of the two animals with his own body, he incurs two Dukkaṭa offenses.
+Two animals, uncertain about them… perceiving them as women… perceiving them as eunuchs… perceiving them as men, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of the two animals with his own body, he incurs two Dukkaṭa offenses.
 
 275. Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti saṅghādisesena dukkaṭassa.
 
-275.A woman and a eunuch, perceiving both as women, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Sanghādisesa offense and a Dukkaṭa offense.
+275.A woman and a eunuch, perceiving both as women, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Sanghādisesa offense and a Dukkaṭa offense.
 
 Itthī ca paṇḍako ca ubhinnaṃ vematiko sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayena dukkaṭassa.
 
-A woman and a eunuch, uncertain about both, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
+A woman and a eunuch, uncertain about both, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
 
 Itthī ca paṇḍako ca ubhinnaṃ paṇḍakasaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ thullaccayānaṃ.
 
-A woman and a eunuch, perceiving both as eunuchs, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs two Thullaccaya offenses.
+A woman and a eunuch, perceiving both as eunuchs, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs two Thullaccaya offenses.
 
 Itthī ca paṇḍako ca ubhinnaṃ purisasaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayena dukkaṭassa.
 
-A woman and a eunuch, perceiving both as men, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
+A woman and a eunuch, perceiving both as men, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
 
 Itthī ca paṇḍako ca ubhinnaṃ tiracchānagatasaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayena dukkaṭassa.
 
-A woman and a eunuch, perceiving both as animals, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
+A woman and a eunuch, perceiving both as animals, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
 
 Itthī ca puriso ca ubhinnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti saṅghādisesena dukkaṭassa.
 
-A woman and a man, perceiving both as women, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Sanghādisesa offense and a Dukkaṭa offense.
+A woman and a man, perceiving both as women, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Sanghādisesa offense and a Dukkaṭa offense.
 
 Itthī ca puriso ca ubhinnaṃ vematiko…pe… paṇḍakasaññī… purisasaññī… tiracchānagatasaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayena dukkaṭassa.
 
-A woman and a man, uncertain about both… perceiving both as eunuchs… perceiving both as men… perceiving both as animals, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
+A woman and a man, uncertain about both… perceiving both as eunuchs… perceiving both as men… perceiving both as animals, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
 
 Itthī ca tiracchānagato ca ubhinnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti saṅghādisesena dukkaṭassa.
 
-A woman and an animal, perceiving both as women, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Sanghādisesa offense and a Dukkaṭa offense.
+A woman and an animal, perceiving both as women, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Sanghādisesa offense and a Dukkaṭa offense.
 
 Itthī ca tiracchānagato ca ubhinnaṃ vematiko…pe… paṇḍakasaññī… purisasaññī … tiracchānagatasaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayena dukkaṭassa.
 
-A woman and an animal, uncertain about both… perceiving both as eunuchs… perceiving both as men… perceiving both as animals, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
+A woman and an animal, uncertain about both… perceiving both as eunuchs… perceiving both as men… perceiving both as animals, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
 
 Paṇḍako ca puriso ca ubhinnaṃ paṇḍakasaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayena dukkaṭassa.
 
-A eunuch and a man, perceiving both as eunuchs, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
+A eunuch and a man, perceiving both as eunuchs, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
 
 Paṇḍako ca puriso ca ubhinnaṃ vematiko…pe… purisasaññī… tiracchānagatasaññī… itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ.
 
-A eunuch and a man, uncertain about both… perceiving both as men… perceiving both as animals… perceiving both as women, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs two Dukkaṭa offenses.
+A eunuch and a man, uncertain about both… perceiving both as men… perceiving both as animals… perceiving both as women, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs two Dukkaṭa offenses.
 
 Paṇḍako ca tiracchānagato ca ubhinnaṃ paṇḍakasaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayena dukkaṭassa.
 
-A eunuch and an animal, perceiving both as eunuchs, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
+A eunuch and an animal, perceiving both as eunuchs, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense.
 
 Paṇḍako ca tiracchānagato ca ubhinnaṃ vematiko…pe… purisasaññī… tiracchānagatasaññī… itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ.
 
-A eunuch and an animal, uncertain about both… perceiving both as men… perceiving both as animals… perceiving both as women, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs two Dukkaṭa offenses.
+A eunuch and an animal, uncertain about both… perceiving both as men… perceiving both as animals… perceiving both as women, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs two Dukkaṭa offenses.
 
 Puriso ca tiracchānagato ca ubhinnaṃ purisasaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ.
 
-A man and an animal, perceiving both as men, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs two Dukkaṭa offenses.
+A man and an animal, perceiving both as men, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs two Dukkaṭa offenses.
 
 Puriso ca tiracchānagato ca ubhinnaṃ vematiko…pe… tiracchānagatasaññī… itthisaññī… paṇḍakasaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ.
 
-A man and an animal, uncertain about both… perceiving both as animals… perceiving both as women… perceiving both as eunuchs, and he is lustful. If a monk touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs two Dukkaṭa offenses.
+A man and an animal, uncertain about both… perceiving both as animals… perceiving both as women… perceiving both as eunuchs, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with the bodies of both with his own body, he incurs two Dukkaṭa offenses.
 
 Dumūlakaṃ niṭṭhitaṃ.
 
@@ -283,75 +283,75 @@ The two-root section is concluded.
 
 276. Itthī ca hoti itthisaññī sāratto ca. Bhikkhu ca naṃ itthiyā kāyena kāyapaṭibaddhaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayassa…pe….
 
-276.A woman, perceived as a woman, and he is lustful. If a monk touches, handles… grasps, or makes contact with a body-bound object of that woman with his own body, he incurs a Thullaccaya offense…
+276.A woman, perceived as a woman, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with a body-bound object of that woman with his own body, he incurs a Thullaccaya offense…
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ itthīnaṃ kāyena kāyapaṭibaddhaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ thullaccayānaṃ …pe….
 
-Two women, perceiving them as women, and he is lustful. If a monk touches, handles… grasps, or makes contact with body-bound objects of those two women with his own body, he incurs two Thullaccaya offenses…
+Two women, perceiving them as women, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with body-bound objects of those two women with his own body, he incurs two Thullaccaya offenses…
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyena kāyapaṭibaddhaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayena dukkaṭassa…pe….
 
-A woman and a eunuch, perceiving both as women, and he is lustful. If a monk touches, handles… grasps, or makes contact with body-bound objects of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense…
+A woman and a eunuch, perceiving both as women, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with body-bound objects of both with his own body, he incurs a Thullaccaya offense and a Dukkaṭa offense…
 
 Itthī ca hoti itthisaññī sāratto ca. Bhikkhu ca naṃ itthiyā kāyapaṭibaddhena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayassa…pe….
 
-A woman, perceived as a woman, and he is lustful. If a monk touches, handles… grasps, or makes contact with that woman’s body with a body-bound object of his own body, he incurs a Thullaccaya offense…
+A woman, perceived as a woman, and he is lustful. If a bhikkhu touches, handles… grasps, or makes contact with that woman’s body with a body-bound object of his own body, he incurs a Thullaccaya offense…
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ itthīnaṃ kāyapaṭibaddhena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ thullaccayānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and a monk touches, strokes... takes hold of, or contacts the bodies of the two women with his body, he commits two grave offenses...
+Two women, perceiving them as women and with lust, and a bhikkhu touches, strokes... takes hold of, or contacts the bodies of the two women with his body, he commits two grave offenses...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyapaṭibaddhena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti thullaccayena dukkaṭassa…pe….
 
-A woman and a eunuch, perceiving both as women and with lust, and a monk touches, strokes... takes hold of, or contacts the bodies of both with his body, he commits a grave offense and a wrong-doing...
+A woman and a eunuch, perceiving both as women and with lust, and a bhikkhu touches, strokes... takes hold of, or contacts the bodies of both with his body, he commits a grave offense and a wrong-doing...
 
 Itthī ca hoti itthisaññī sāratto ca. Bhikkhu ca naṃ itthiyā kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dukkaṭassa…pe….
 
-A woman, perceiving her as a woman and with lust, and a monk touches, strokes... takes hold of, or contacts a body-connected part of that woman with a body-connected part of his own, he commits a wrong-doing...
+A woman, perceiving her as a woman and with lust, and a bhikkhu touches, strokes... takes hold of, or contacts a body-connected part of that woman with a body-connected part of his own, he commits a wrong-doing...
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ itthīnaṃ kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and a monk touches, strokes... takes hold of, or contacts body-connected parts of the two women with a body-connected part of his own, he commits two wrong-doings...
+Two women, perceiving them as women and with lust, and a bhikkhu touches, strokes... takes hold of, or contacts body-connected parts of the two women with a body-connected part of his own, he commits two wrong-doings...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasati parāmasati…pe… gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-A woman and a eunuch, perceiving both as women and with lust, and a monk touches, strokes... takes hold of, or contacts body-connected parts of both with a body-connected part of his own, he commits two wrong-doings...
+A woman and a eunuch, perceiving both as women and with lust, and a bhikkhu touches, strokes... takes hold of, or contacts body-connected parts of both with a body-connected part of his own, he commits two wrong-doings...
 
 Itthī ca hoti itthisaññī sāratto ca. Bhikkhu ca naṃ itthiyā nissaggiyena kāyaṃ āmasati āpatti dukkaṭassa…pe….
 
-A woman, perceiving her as a woman and with lust, and a monk touches her body with an object of relinquishment, he commits a wrong-doing...
+A woman, perceiving her as a woman and with lust, and a bhikkhu touches her body with an object of relinquishment, he commits a wrong-doing...
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ itthīnaṃ nissaggiyena kāyaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and a monk touches the bodies of those two women with an object of relinquishment, he commits two wrong-doings...
+Two women, perceiving them as women and with lust, and a bhikkhu touches the bodies of those two women with an object of relinquishment, he commits two wrong-doings...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ nissaggiyena kāyaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-A woman and a eunuch, perceiving both as women and with lust, and a monk touches the bodies of both with an object of relinquishment, he commits two wrong-doings...
+A woman and a eunuch, perceiving both as women and with lust, and a bhikkhu touches the bodies of both with an object of relinquishment, he commits two wrong-doings...
 
 Itthī ca hoti itthisaññī sāratto ca. Bhikkhu ca naṃ itthiyā nissaggiyena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa…pe….
 
-A woman, perceiving her as a woman and with lust, and a monk touches a body-connected part of her with an object of relinquishment, he commits a wrong-doing...
+A woman, perceiving her as a woman and with lust, and a bhikkhu touches a body-connected part of her with an object of relinquishment, he commits a wrong-doing...
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ itthīnaṃ nissaggiyena kāyapaṭibaddhaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and a monk touches body-connected parts of the two women with an object of relinquishment, he commits two wrong-doings...
+Two women, perceiving them as women and with lust, and a bhikkhu touches body-connected parts of the two women with an object of relinquishment, he commits two wrong-doings...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ nissaggiyena kāyapaṭibaddhaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-A woman and a eunuch, perceiving both as women and with lust, and a monk touches body-connected parts of both with an object of relinquishment, he commits two wrong-doings...
+A woman and a eunuch, perceiving both as women and with lust, and a bhikkhu touches body-connected parts of both with an object of relinquishment, he commits two wrong-doings...
 
 Itthī ca hoti itthisaññī sāratto ca. Bhikkhu ca naṃ itthiyā nissaggiyena nissaggiyaṃ āmasati, āpatti dukkaṭassa…pe….
 
-A woman, perceiving her as a woman and with lust, and a monk touches an object of relinquishment belonging to her with an object of relinquishment belonging to him, he commits a wrong-doing...
+A woman, perceiving her as a woman and with lust, and a bhikkhu touches an object of relinquishment belonging to her with an object of relinquishment belonging to him, he commits a wrong-doing...
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ dvinnaṃ itthīnaṃ nissaggiyena nissaggiyaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and a monk touches objects of relinquishment belonging to the two women with an object of relinquishment belonging to him, he commits two wrong-doings...
+Two women, perceiving them as women and with lust, and a bhikkhu touches objects of relinquishment belonging to the two women with an object of relinquishment belonging to him, he commits two wrong-doings...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Bhikkhu ca naṃ ubhinnaṃ nissaggiyena nissaggiyaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-A woman and a eunuch, perceiving both as women and with lust, and a monk touches objects of relinquishment belonging to both with an object of relinquishment belonging to him, he commits two wrong-doings...
+A woman and a eunuch, perceiving both as women and with lust, and a bhikkhu touches objects of relinquishment belonging to both with an object of relinquishment belonging to him, he commits two wrong-doings...
 
 Bhikkhupeyyālo niṭṭhito.
 
@@ -359,87 +359,87 @@ The Bhikkhu Section is concluded.
 
 277. Itthī ca hoti itthisaññī sāratto ca. Itthī ca naṃ bhikkhussa kāyena kāyaṃ āmasati parāmasati omasati ummasati olaṅgheti ullaṅgheti ākaḍḍhati patikaḍḍhati abhiniggaṇhāti abhinippīḷeti gaṇhāti chupati, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti saṅghādisesassa…pe….
 
-277.A woman, perceiving her as a woman and with lust, and the woman touches the monk’s body with her body, strokes, caresses, massages, fondles, embraces, lifts up, draws near, draws back, holds tightly, squeezes tightly, seizes, or touches him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a Saṅghādisesa offense...
+277.A woman, perceiving her as a woman and with lust, and the woman touches the bhikkhu’s body with her body, strokes, caresses, massages, fondles, embraces, lifts up, draws near, draws back, holds tightly, squeezes tightly, seizes, or touches him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a Saṅghādisesa offense...
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Itthiyo ca naṃ bhikkhussa kāyena kāyaṃ āmasanti parāmasanti omasanti ummasanti olaṅghenti ullaṅghenti ākaḍḍhanti patikaḍḍhanti abhiniggaṇhanti abhinippīḷenti gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ saṅghādisesānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and the women touch the monk’s body with their bodies, stroke, caress, massage, fondle, embrace, lift up, draw near, draw back, hold tightly, squeezes tightly, seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits two Saṅghādisesa offenses...
+Two women, perceiving them as women and with lust, and the women touch the bhikkhu’s body with their bodies, stroke, caress, massage, fondle, embrace, lift up, draw near, draw back, hold tightly, squeezes tightly, seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits two Saṅghādisesa offenses...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Ubho ca naṃ bhikkhussa kāyena kāyaṃ āmasanti parāmasanti…pe… gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti saṅghādisesena dukkaṭassa…pe….
 
-A woman and a eunuch, perceiving both as women and with lust, and both touch the monk’s body with their bodies, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a Saṅghādisesa offense and a wrong-doing...
+A woman and a eunuch, perceiving both as women and with lust, and both touch the bhikkhu’s body with their bodies, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a Saṅghādisesa offense and a wrong-doing...
 
 Itthī ca hoti itthisaññī sāratto ca. Itthī ca naṃ bhikkhussa kāyena kāyapaṭibaddhaṃ āmasati parāmasati…pe… gaṇhāti chupati, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti thullaccayassa…pe….
 
-A woman, perceiving her as a woman and with lust, and the woman touches a body-connected part of the monk with her body, strokes, caresses... seizes, or touches him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a grave offense...
+A woman, perceiving her as a woman and with lust, and the woman touches a body-connected part of the bhikkhu with her body, strokes, caresses... seizes, or touches him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a grave offense...
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Itthiyo ca naṃ bhikkhussa kāyena kāyapaṭibaddhaṃ āmasanti parāmasanti…pe… gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ thullaccayānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and the women touch body-connected parts of the monk with their bodies, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits two grave offenses...
+Two women, perceiving them as women and with lust, and the women touch body-connected parts of the bhikkhu with their bodies, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits two grave offenses...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Ubho ca naṃ bhikkhussa kāyena kāyapaṭibaddhaṃ āmasanti parāmasanti…pe… gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti thullaccayena dukkaṭassa…pe….
 
-A woman and a eunuch, perceiving both as women and with lust, and both touch body-connected parts of the monk with their bodies, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a grave offense and a wrong-doing...
+A woman and a eunuch, perceiving both as women and with lust, and both touch body-connected parts of the bhikkhu with their bodies, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a grave offense and a wrong-doing...
 
 Itthī ca hoti itthisaññī sāratto ca. Itthī ca naṃ bhikkhussa kāyapaṭibaddhena kāyaṃ āmasati parāmasati…pe… gaṇhāti chupati sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti thullaccayassa…pe….
 
-A woman, perceiving her as a woman and with lust, and the woman touches the monk’s body with a body-connected part of her own, strokes, caresses... seizes, or touches him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a grave offense...
+A woman, perceiving her as a woman and with lust, and the woman touches the bhikkhu’s body with a body-connected part of her own, strokes, caresses... seizes, or touches him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a grave offense...
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Itthiyo ca naṃ bhikkhussa kāyapaṭibaddhena kāyaṃ āmasanti parāmasanti…pe… gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ thullaccayānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and the women touch the monk’s body with body-connected parts of their own, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits two grave offenses...
+Two women, perceiving them as women and with lust, and the women touch the bhikkhu’s body with body-connected parts of their own, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits two grave offenses...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Ubho ca naṃ bhikkhussa kāyapaṭibaddhena kāyaṃ āmasanti parāmasanti…pe… gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti thullaccayena dukkaṭassa…pe….
 
-A woman and a eunuch, perceiving both as women and with lust, and both touch the monk’s body with body-connected parts of their own, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a grave offense and a wrong-doing...
+A woman and a eunuch, perceiving both as women and with lust, and both touch the bhikkhu’s body with body-connected parts of their own, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a grave offense and a wrong-doing...
 
 278. Itthī ca hoti itthisaññī sāratto ca. Itthī ca naṃ bhikkhussa kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasati parāmasati…pe… gaṇhāti chupati, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dukkaṭassa…pe….
 
-278.A woman, perceiving her as a woman and with lust, and the woman touches a body-connected part of the monk with a body-connected part of her own, strokes, caresses... seizes, or touches him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a wrong-doing...
+278.A woman, perceiving her as a woman and with lust, and the woman touches a body-connected part of the bhikkhu with a body-connected part of her own, strokes, caresses... seizes, or touches him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits a wrong-doing...
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Itthiyo ca naṃ bhikkhussa kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasanti parāmasanti…pe… gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and the women touch body-connected parts of the monk with body-connected parts of their own, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits two wrong-doings...
+Two women, perceiving them as women and with lust, and the women touch body-connected parts of the bhikkhu with body-connected parts of their own, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits two wrong-doings...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Ubho ca naṃ bhikkhussa kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasanti parāmasanti…pe… gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-A woman and a eunuch, perceiving both as women and with lust, and both touch body-connected parts of the monk with body-connected parts of their own, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits two wrong-doings...
+A woman and a eunuch, perceiving both as women and with lust, and both touch body-connected parts of the bhikkhu with body-connected parts of their own, stroke, caress... seize, or touch him, with the intention of sexual intercourse, and he makes an effort with his body and cognizes the touch: he commits two wrong-doings...
 
 Itthī ca hoti itthisaññī sāratto ca. Itthī ca naṃ bhikkhussa nissaggiyena kāyaṃ āmasati. Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dukkaṭassa…pe….
 
-A woman, perceiving her as a woman and with lust, and a woman touches the monk's body with an object of relinquishment. With the intention of sexual intercourse, he makes an effort with his body and cognizes the touch: he commits a wrong-doing...
+A woman, perceiving her as a woman and with lust, and a woman touches the bhikkhu's body with an object of relinquishment. With the intention of sexual intercourse, he makes an effort with his body and cognizes the touch: he commits a wrong-doing...
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Itthiyo ca naṃ bhikkhussa nissaggiyena kāyaṃ āmasanti. Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and the women touch the monk's body with an object of relinquishment. With the intention of sexual intercourse, he makes an effort with his body and cognizes the touch: he commits two wrong-doings...
+Two women, perceiving them as women and with lust, and the women touch the bhikkhu's body with an object of relinquishment. With the intention of sexual intercourse, he makes an effort with his body and cognizes the touch: he commits two wrong-doings...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Ubho ca naṃ bhikkhussa nissaggiyena kāyaṃ āmasanti. Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-A woman and a eunuch, perceiving both as women and with lust, and both touch the monk’s body with an object of relinquishment. With the intention of sexual intercourse, he makes an effort with his body and cognizes the touch: he commits two wrong-doings...
+A woman and a eunuch, perceiving both as women and with lust, and both touch the bhikkhu’s body with an object of relinquishment. With the intention of sexual intercourse, he makes an effort with his body and cognizes the touch: he commits two wrong-doings...
 
 Itthī ca hoti itthisaññī sāratto ca. Itthī ca naṃ bhikkhussa nissaggiyena kāyapaṭibaddhaṃ āmasati. Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dukkaṭassa…pe….
 
-A woman, perceiving her as a woman and with lust, and the woman touches a body-connected part of the monk with an object of relinquishment. With the intention of sexual intercourse, he makes an effort with his body and cognizes the touch: he commits a wrong-doing...
+A woman, perceiving her as a woman and with lust, and the woman touches a body-connected part of the bhikkhu with an object of relinquishment. With the intention of sexual intercourse, he makes an effort with his body and cognizes the touch: he commits a wrong-doing...
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Itthiyo ca naṃ bhikkhussa nissaggiyena kāyapaṭibaddhaṃ āmasanti. Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-Two women, perceiving them as women and with lust, and the women touch body-connected parts of the monk with an object of relinquishment. With the intention of sexual intercourse, he makes an effort with his body and cognizes the touch: he commits two wrong-doings...
+Two women, perceiving them as women and with lust, and the women touch body-connected parts of the bhikkhu with an object of relinquishment. With the intention of sexual intercourse, he makes an effort with his body and cognizes the touch: he commits two wrong-doings...
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Ubho ca naṃ bhikkhussa nissaggiyena kāyapaṭibaddhaṃ āmasanti. Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-A woman and a eunuch, perceiving both as women and with lust. Both touch a body-bound object of the monk that is subject to relinquishment. If, with the intention of intimacy, he exerts himself physically and perceives the contact, there is an offense of two dukkatas.
+A woman and a eunuch, perceiving both as women and with lust. Both touch a body-bound object of the bhikkhu that is subject to relinquishment. If, with the intention of intimacy, he exerts himself physically and perceives the contact, there is an offense of two dukkatas.
 
 Itthī ca hoti itthisaññī sāratto ca. Itthī ca naṃ bhikkhussa nissaggiyena nissaggiyaṃ āmasati. Sevanādhippāyo kāyena vāyamati, na ca phassaṃ paṭivijānāti, āpatti dukkaṭassa…pe….
 
-A woman, perceiving her as a woman and being lustful, touches a relinquishable object of the monk. If, with the intention of sexual intimacy, he exerts himself physically but does not perceive the contact, there is an offense of wrong conduct.
+A woman, perceiving her as a woman and being lustful, touches a relinquishable object of the bhikkhu. If, with the intention of sexual intimacy, he exerts himself physically but does not perceive the contact, there is an offense of wrong conduct.
 
 Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca. Itthiyo ca naṃ bhikkhussa nissaggiyena nissaggiyaṃ āmasanti. Sevanādhippāyo kāyena vāyamati, na ca phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-Two women, perceiving them as women and being lustful, touch a relinquishable object of the monk. If, with the intention of sexual intimacy, he exerts himself physically but does not perceive the contact, there is an offense of two dukkatas.
+Two women, perceiving them as women and being lustful, touch a relinquishable object of the bhikkhu. If, with the intention of sexual intimacy, he exerts himself physically but does not perceive the contact, there is an offense of two dukkatas.
 
 Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca. Ubho ca naṃ bhikkhussa nissaggiyena nissaggiyaṃ āmasanti. Sevanādhippāyo kāyena vāyamati, na ca phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ…pe….
 
-A woman and a eunuch, perceiving both as women and being lustful, touch a relinquishable object of the monk. If, with the intention of sexual intimacy, he exerts himself physically but does not perceive the contact, there is an offense of two dukkatas.
+A woman and a eunuch, perceiving both as women and being lustful, touch a relinquishable object of the bhikkhu. If, with the intention of sexual intimacy, he exerts himself physically but does not perceive the contact, there is an offense of two dukkatas.
 
 279. Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti saṅghādisesassa.
 
@@ -495,83 +495,83 @@ Cases of Discipline
 
 281. Tena kho pana samayena aññataro bhikkhu mātuyā mātupemena āmasi. Tassa kukkuccaṃ ahosi – ‘‘bhagavatā sikkhāpadaṃ paññattaṃ, kacci nu kho ahaṃ saṅghādisesaṃ āpattiṃ āpanno’’ti? Bhagavato etamatthaṃ ārocesi. ‘‘Anāpatti, bhikkhu, saṅghādisesassa; āpatti dukkaṭassā’’ti.
 
-281.On one occasion, a certain monk touched his mother out of motherly affection. He became anxious, thinking, "The Blessed One has laid down a training rule—could I have committed an offense entailing suspension?" He reported this matter to the Blessed One. "There is no offense entailing suspension, monk, but there is an offense of wrong conduct."
+281.On one occasion, a certain bhikkhu touched his mother out of motherly affection. He became anxious, thinking, "The Blessed One has laid down a training rule—could I have committed an offense entailing suspension?" He reported this matter to the Blessed One. "There is no offense entailing suspension, bhikkhu, but there is an offense of wrong conduct."
 
 Tena kho pana samayena aññataro bhikkhu dhītuyā dhītupemena āmasi…pe… bhaginiyā bhaginipemena āmasi. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti dukkaṭassā’’ti.
 
-On another occasion, a certain monk touched his daughter out of affection for his daughter... his sister out of affection for his sister. He had scruples... "There is no offense entailing suspension, monk; there is an offense of wrong conduct."
+On another occasion, a certain bhikkhu touched his daughter out of affection for his daughter... his sister out of affection for his sister. He had scruples... "There is no offense entailing suspension, bhikkhu; there is an offense of wrong conduct."
 
 Tena kho pana samayena aññataro bhikkhu purāṇadutiyikāya kāyasaṃsaggaṃ samāpajji. Tassa kukkuccaṃ ahosi…pe… ‘‘āpattiṃ tvaṃ, bhikkhu, āpanno saṅghādisesa’’nti.
 
-On another occasion, a certain monk engaged in physical contact with his former wife. He became anxious... "You, monk, have incurred an offense entailing suspension."
+On another occasion, a certain bhikkhu engaged in physical contact with his former wife. He became anxious... "You, bhikkhu, have incurred an offense entailing suspension."
 
 Tena kho pana samayena aññataro bhikkhu yakkhiniyā kāyasaṃsaggaṃ samāpajji. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-On another occasion, a certain monk engaged in physical contact with a female spirit. He became anxious... "There is no offense entailing suspension, monk, but there is an offense of grave matter."
+On another occasion, a certain bhikkhu engaged in physical contact with a female spirit. He became anxious... "There is no offense entailing suspension, bhikkhu, but there is an offense of grave matter."
 
 Tena kho pana samayena aññataro bhikkhu paṇḍakassa kāyasaṃsaggaṃ samāpajji. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-On another occasion, a certain monk engaged in physical contact with a eunuch. He became anxious... "There is no offense entailing suspension, monk, but there is an offense of grave matter."
+On another occasion, a certain bhikkhu engaged in physical contact with a eunuch. He became anxious... "There is no offense entailing suspension, bhikkhu, but there is an offense of grave matter."
 
 Tena kho pana samayena aññataro bhikkhu suttitthiyā kāyasaṃsaggaṃ samāpajji. Tassa kukkuccaṃ ahosi…pe… ‘‘āpattiṃ tvaṃ, bhikkhu, āpanno saṅghādisesa’’nti.
 
-On another occasion, a certain monk engaged in physical contact with a woman who was sleeping. He felt remorse... "You, monk, have incurred an offense entailing suspension."
+On another occasion, a certain bhikkhu engaged in physical contact with a woman who was sleeping. He felt remorse... "You, bhikkhu, have incurred an offense entailing suspension."
 
 Tena kho pana samayena aññataro bhikkhu matitthiyā kāyasaṃsaggaṃ samāpajji. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time, a certain monk engaged in physical contact with a dead woman. He felt remorse... "There is no offense entailing suspension, monk, but there is an offense of grave matter."
+At that time, a certain bhikkhu engaged in physical contact with a dead woman. He felt remorse... "There is no offense entailing suspension, bhikkhu, but there is an offense of grave matter."
 
 Tena kho pana samayena aññataro bhikkhu tiracchānagatitthiyā kāyasaṃsaggaṃ samāpajji. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti dukkaṭassā’’ti.
 
-At that time, a certain monk engaged in physical contact with a female animal. He felt remorse... "There is no offense entailing suspension, monk, but there is an offense of wrong conduct."
+At that time, a certain bhikkhu engaged in physical contact with a female animal. He felt remorse... "There is no offense entailing suspension, bhikkhu, but there is an offense of wrong conduct."
 
 Tena kho pana samayena aññataro bhikkhu dārudhītalikāya kāyasaṃsaggaṃ samāpajji. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti dukkaṭassā’’ti.
 
-At that time, a certain monk engaged in physical contact with a wooden doll. He had a misgiving... "There is no offense entailing suspension, monk, but there is an offense of wrong conduct."
+At that time, a certain bhikkhu engaged in physical contact with a wooden doll. He had a misgiving... "There is no offense entailing suspension, bhikkhu, but there is an offense of wrong conduct."
 
 282. Tena kho pana samayena sambahulā itthiyo aññataraṃ bhikkhuṃ sampīḷetvā bāhāparamparāya ānesuṃ. Tassa kukkuccaṃ ahosi…pe… ‘‘sādiyi tvaṃ, bhikkhū’’ti? ‘‘Nāhaṃ, bhagavā, sādiyi’’nti. ‘‘Anāpatti, bhikkhū, asādiyantassā’’ti.
 
-282.Now at that time several women, having pressed around a certain monk, brought him by linking arms. He had scruples... "Did you enjoy it, monk?" "No, Lord, I did not enjoy it." "There is no offense, monk, for one who does not enjoy it."
+282.Now at that time several women, having pressed around a certain bhikkhu, brought him by linking arms. He had scruples... "Did you enjoy it, bhikkhu?" "No, Lord, I did not enjoy it." "There is no offense, bhikkhu, for one who does not enjoy it."
 
 Tena kho pana samayena aññataro bhikkhu itthiyā abhirūḷhaṃ saṅkamaṃ sāratto sañcālesi. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti dukkaṭassā’’ti.
 
-At that time, a certain monk, being lustful, shook a bridge on which a woman had climbed. He became remorseful... "There is no offense entailing suspension, monk, but there is an offense of wrong conduct."
+At that time, a certain bhikkhu, being lustful, shook a bridge on which a woman had climbed. He became remorseful... "There is no offense entailing suspension, bhikkhu, but there is an offense of wrong conduct."
 
 Tena kho pana samayena aññataro bhikkhu itthiṃ paṭipathe passitvā sāratto aṃsakūṭena pahāraṃ adāsi. Tassa kukkuccaṃ ahosi…pe… ‘‘āpattiṃ tvaṃ, bhikkhu, āpanno saṅghādisesa’’nti.
 
-At that time, a certain monk saw a woman on the road, and being lustful, struck her on the shoulder. He had remorse... "You, monk, have incurred an offense entailing suspension."
+At that time, a certain bhikkhu saw a woman on the road, and being lustful, struck her on the shoulder. He had remorse... "You, bhikkhu, have incurred an offense entailing suspension."
 
 Tena kho pana samayena aññataro bhikkhu itthiyā abhirūḷhaṃ rukkhaṃ sāratto sañcālesi. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti dukkaṭassā’’ti.
 
-At that time, a certain monk, being lustful, shook a tree that a woman had climbed. He felt remorse... "There is no offense entailing suspension, monk, but there is an offense of wrong conduct."
+At that time, a certain bhikkhu, being lustful, shook a tree that a woman had climbed. He felt remorse... "There is no offense entailing suspension, bhikkhu, but there is an offense of wrong conduct."
 
 Tena kho pana samayena aññataro bhikkhu itthiyā abhirūḷhaṃ nāvaṃ sāratto sañcālesi. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti dukkaṭassā’’ti.
 
-At that time, a certain monk, being lustful, shook a boat on which a woman had climbed. He felt remorse... "There is no offense entailing suspension, monk, but there is an offense of wrong conduct."
+At that time, a certain bhikkhu, being lustful, shook a boat on which a woman had climbed. He felt remorse... "There is no offense entailing suspension, bhikkhu, but there is an offense of wrong conduct."
 
 Tena kho pana samayena aññataro bhikkhu itthiyā gahitaṃ rajjuṃ sāratto āviñchi [āviñji (sī. syā.)]. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time, a certain monk, being lustful, pulled a rope held by a woman. He had remorse... "There is no offense entailing suspension, monk, but there is an offense of grave matter."
+At that time, a certain bhikkhu, being lustful, pulled a rope held by a woman. He had remorse... "There is no offense entailing suspension, bhikkhu, but there is an offense of grave matter."
 
 Tena kho pana samayena aññataro bhikkhu itthiyā gahitaṃ daṇḍaṃ sāratto āviñchi. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time, a certain monk, being lustful, pulled a staff held by a woman. He had remorse... "There is no offense entailing suspension, monk, but there is an offense of grave matter."
+At that time, a certain bhikkhu, being lustful, pulled a staff held by a woman. He had remorse... "There is no offense entailing suspension, bhikkhu, but there is an offense of grave matter."
 
 Tena kho pana samayena aññataro bhikkhu sāratto itthiṃ pattena paṇāmesi. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time, a certain monk, being lustful, pushed a woman with his bowl. He had remorse... "There is no offense entailing suspension, monk, but there is an offense of grave matter."
+At that time, a certain bhikkhu, being lustful, pushed a woman with his bowl. He had remorse... "There is no offense entailing suspension, bhikkhu, but there is an offense of grave matter."
 
 Tena kho pana samayena aññataro bhikkhu itthiyā vandantiyā sāratto pādaṃ uccāresi. Tassa kukkuccaṃ ahosi…pe… ‘‘āpattiṃ tvaṃ, bhikkhu, āpanno saṅghādisesa’’nti.
 
-At that time, a certain monk, being lustful, raised his foot as a woman was bowing. He felt remorse... "You, monk, have incurred an offense entailing suspension."
+At that time, a certain bhikkhu, being lustful, raised his foot as a woman was bowing. He felt remorse... "You, bhikkhu, have incurred an offense entailing suspension."
 
 Tena kho pana samayena aññataro bhikkhu itthiṃ gahessāmīti vāyamitvā na chupi.
 
-At that time, a certain monk, striving to grasp a woman, did not touch her.
+At that time, a certain bhikkhu, striving to grasp a woman, did not touch her.
 
 Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti dukkaṭassā’’ti.
 
-He had remorse... "There is no offense entailing suspension, monk, but there is an offense of wrong conduct."
+He had remorse... "There is no offense entailing suspension, bhikkhu, but there is an offense of wrong conduct."
 
 Kāyasaṃsaggasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 

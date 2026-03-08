@@ -30,28 +30,28 @@ The boys went each to his own parents and said:
 “Please allow me to go forth into homelessness.”
 
 
-Since the parents knew that the boys all had the same desire and good intention, they gave their approval. The boys then went to the monks and asked for the going forth. And the monks gave them the going forth and the full ordination.
+Since the parents knew that the boys all had the same desire and good intention, they gave their approval. The boys then went to the bhikkhus and asked for the going forth. And the bhikkhus gave them the going forth and the full ordination.
 
 
 Soon afterwards they got up early in the morning and cried, “Give us congee, give us a meal, give us fresh food.”
 
-The monks said, “Wait until it gets light. If any of that becomes available then, you can have it. If not, you’ll eat after walking for alms.”
+The bhikkhus said, “Wait until it gets light. If any of that becomes available then, you can have it. If not, you’ll eat after walking for alms.”
 
 But they carried on as before and they defecated and urinated on the furniture.
 
 
-3After rising early in the morning, the Buddha heard the sound of those boys. He asked Venerable Ānanda who told him what was happening. Soon afterwards the Buddha had the Sangha gathered and questioned the monks:
+3After rising early in the morning, the Buddha heard the sound of those boys. He asked Venerable Ānanda who told him what was happening. Soon afterwards the Buddha had the Sangha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the monks give the full ordination to people they know are less than twenty years old?”
+“Is it true, bhikkhus, that the bhikkhus give the full ordination to people they know are less than twenty years old?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can those foolish men do this? A person who is less than twenty years old is unable to endure cold and heat; hunger and thirst; horseflies, mosquitoes, wind, and the burning sun; creeping animals and insects; and rude and unwelcome speech. And they are unable to bear up with bodily feelings that are painful, severe, sharp, and destructive of life. But a person who’s twenty is able to endure these things. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How can those foolish men do this? A person who is less than twenty years old is unable to endure cold and heat; hunger and thirst; horseflies, mosquitoes, wind, and the burning sun; creeping animals and insects; and rude and unwelcome speech. And they are unable to bear up with bodily feelings that are painful, severe, sharp, and destructive of life. But a person who’s twenty is able to endure these things. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-4‘If a monk gives the full ordination to a person he knows is less than twenty years old, he commits an offense entailing confession. Moreover, that person has not received the full ordination and those monks are blameworthy.’”
+4‘If a monk gives the full ordination to a person he knows is less than twenty years old, he commits an offense entailing confession. Moreover, that person has not received the full ordination and those bhikkhus are blameworthy.’”
 
 #### Definitions
 

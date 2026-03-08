@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six gave teachings to people who were seated clasping their knees. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six gave teachings to people who were seated clasping their knees. …
 
 #### Final ruling
 

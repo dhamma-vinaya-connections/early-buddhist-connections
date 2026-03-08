@@ -51,7 +51,7 @@ parallels_partilal: "[[SA-2.100]], [[SA1186-1187]], [[SN1.23]], [[JA497]], [[SN1
 > [!info] Key Excerpts 
 > A wise man grounded in ethics,
 Developing the mind and wisdom,
-A keen and alert mendicant,
+A keen and alert bhikkhu,
 Can untangle this tangled mass.
 > 
 > If you’re energetic and resolute,

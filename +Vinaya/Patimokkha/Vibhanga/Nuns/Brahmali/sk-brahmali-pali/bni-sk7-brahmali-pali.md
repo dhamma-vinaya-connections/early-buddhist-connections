@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were looking here and there while walking in inhabited areas. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were looking here and there while walking in inhabited areas. …
 
 #### Final ruling
 
 2“‘I will lower my eyes while walking in inhabited areas,’ this is how you should train.”
 
-3One should lower one’s eyes while walking in an inhabited area, looking a plow’s length ahead. If a monk, out of disrespect, looks here and there while walking in an inhabited area, he commits an offense of wrong conduct.
+3One should lower one’s eyes while walking in an inhabited area, looking a plow’s length ahead. If a bhikkhu, out of disrespect, looks here and there while walking in an inhabited area, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

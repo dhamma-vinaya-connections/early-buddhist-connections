@@ -51,13 +51,13 @@ language: "English"
 
 14. It was then that the Bhagavān taught Dharma for Venerable Aniruddha. Encouraging, rousing, and making him rejoice, he taught the Dharma for him with measureless methods. Having encouraged, roused, and made him rejoice, he entered that form of _samādhi_. With that form of _samādhi_, the Bhagavān thus disappeared from the Waterside Grove in Cedi and appeared standing at Mṛgadāva Park in Bharga in the time it takes a strong man to flex his arm.
 
-15. At that moment, Venerable Ānanda was holding a fan and attending the Buddha. Thereupon, the Bhagavān roused from _samādhi_, turned to him, and said, “Ānanda, if there are monks traveling to Mṛgadāva Park in Bharga, send them all to assemble at the meeting hall. Once they’ve assembled at the meeting hall, come back and tell me.”
+15. At that moment, Venerable Ānanda was holding a fan and attending the Buddha. Thereupon, the Bhagavān roused from _samādhi_, turned to him, and said, “Ānanda, if there are bhikkhus traveling to Mṛgadāva Park in Bharga, send them all to assemble at the meeting hall. Once they’ve assembled at the meeting hall, come back and tell me.”
 
-16. Accepting the Bhagavān’s instruction, Venerable Ānanda bowed his head at his feet as homage and then went to announce the order: “Any monks traveling to Mṛgadāva Park in Bharga are all to assemble at the meeting hall.”
+16. Accepting the Bhagavān’s instruction, Venerable Ānanda bowed his head at his feet as homage and then went to announce the order: “Any bhikkhus traveling to Mṛgadāva Park in Bharga are all to assemble at the meeting hall.”
 
-17. Once they had assembled at the meeting hall, he came back to the Buddha, bowed his head at his feet, and withdrew to sit to one side. He said, “Bhagavān, any monks who’ve traveled to Mṛgadāva Park in Bharga have all been sent to assembly at the meeting hall. May the Bhagavān know the time is right.”
+17. Once they had assembled at the meeting hall, he came back to the Buddha, bowed his head at his feet, and withdrew to sit to one side. He said, “Bhagavān, any bhikkhus who’ve traveled to Mṛgadāva Park in Bharga have all been sent to assembly at the meeting hall. May the Bhagavān know the time is right.”
 
-18. Thereupon, the Bhagavān led Venerable Ānanda to the meeting hall. He prepared a seat in front of the assembled monks and sat down. After sitting, he addressed them, “Monks, now I will explain the eight thoughts of a great man for you. All of you, listen closely, and consider it well!” The monks then accepted the teaching and listened.
+18. Thereupon, the Bhagavān led Venerable Ānanda to the meeting hall. He prepared a seat in front of the assembled bhikkhus and sat down. After sitting, he addressed them, “bhikkhus, now I will explain the eight thoughts of a great man for you. All of you, listen closely, and consider it well!” The bhikkhus then accepted the teaching and listened.
 
 19. The Buddha said, “The eight thoughts of a great man are these: ‘The path comes from having no desires; it’s not attained by having desires. The path comes from knowing what’s enough; it’s not obtained by lacking satisfaction. The path comes from seclusion; it’s not obtained by enjoying company, living with company, or joining company. The path comes from diligence; it’s not obtained by indolence. The path comes from right mindfulness; it’s not obtained by wrong mindfulness. The path comes from a collected mind; it’s not obtained by a distracted mind. The path comes from wisdom; it’s not obtained by foolishness. The path comes from non-frivolity, enjoying non-frivolity, and practicing non-frivolity; it’s not obtained by frivolity, enjoying frivolity, or practicing frivolity.’
 
@@ -79,7 +79,7 @@ language: "English"
 
 #### Aniruddha
 
-28. “Monks, the monk Aniruddha had accomplished these eight thoughts of a great man. Afterward, he spent a summer retreat in Cedi at Waterside Grove. With this teaching of mine, he lived alone in seclusion, his mind wasn’t careless, and he cultivated diligence. After living there alone in seclusion, not being careless, and cultivating diligence, he made himself a son of the clan. He shaved off his hair and beard, put on the reddish-brown robes, became a believer, and left home to train on the path in homelessness.
+28. “bhikkhus, the monk Aniruddha had accomplished these eight thoughts of a great man. Afterward, he spent a summer retreat in Cedi at Waterside Grove. With this teaching of mine, he lived alone in seclusion, his mind wasn’t careless, and he cultivated diligence. After living there alone in seclusion, not being careless, and cultivating diligence, he made himself a son of the clan. He shaved off his hair and beard, put on the reddish-brown robes, became a believer, and left home to train on the path in homelessness.
 
 29. “Only when the unsurpassed religious practice is finished will he accomplish and dwell in their own knowledge, awakening, and direct experience. He’ll truly know: ‘Birth has been ended, the religious practice has been established, the task has been accomplished, and I will not again be subject to existence.’”
 
@@ -111,7 +111,7 @@ language: "English"
     That _parinirvāṇa_ without remainder.”
     
 
-31. The Buddha thus spoke. Venerable Aniruddha and the monks who heard what the Buddha taught rejoiced and approved.
+31. The Buddha thus spoke. Venerable Aniruddha and the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

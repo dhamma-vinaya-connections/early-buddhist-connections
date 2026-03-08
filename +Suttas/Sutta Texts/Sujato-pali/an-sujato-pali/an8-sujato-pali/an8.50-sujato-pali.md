@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a female who has four qualities is practicing to win in this life, and she succeeds at it. What four?
+1“bhikkhus, a female who has four qualities is practicing to win in this life, and she succeeds at it. What four?
 
 It’s when a female is well-organized at work, manages the domestic help, acts lovingly toward her husband, and preserves his earnings.
 

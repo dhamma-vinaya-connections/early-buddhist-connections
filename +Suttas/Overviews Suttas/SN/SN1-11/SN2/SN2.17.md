@@ -44,7 +44,7 @@ parallels_partilal: "[[SA-2.181]], [[SA596]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> The deity vasudatta says that a mendicant should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
+> The deity vasudatta says that a bhikkhu should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
 
 > [!info] Key Excerpts 
 > Life is swept along, short is the life span;

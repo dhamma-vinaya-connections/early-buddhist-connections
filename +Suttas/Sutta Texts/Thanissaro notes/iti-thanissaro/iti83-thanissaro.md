@@ -14,11 +14,11 @@ language: "English"
 
 _This was said by the Blessed One, said by the Arahant, so I have heard:_
 
-“Monks, when a deva is about to pass away from the company of devas, five omens appear: his garlands wither, his clothes get soiled, sweat comes out of his armpits, a dullness descends on his body, he no longer delights in his own deva-seat. The devas, knowing from this that ‘This deva-son is about to pass away,’ encourage him with three sayings: ‘Go from here, honorable sir, to a good destination. Having gone to a good destination, gain the gain that is good to gain. Having gained the gain that is good to gain, become well-established.’”
+“bhikkhus, when a deva is about to pass away from the company of devas, five omens appear: his garlands wither, his clothes get soiled, sweat comes out of his armpits, a dullness descends on his body, he no longer delights in his own deva-seat. The devas, knowing from this that ‘This deva-son is about to pass away,’ encourage him with three sayings: ‘Go from here, honorable sir, to a good destination. Having gone to a good destination, gain the gain that is good to gain. Having gained the gain that is good to gain, become well-established.’”
 
-When this was said, a certain monk said to the Blessed One, “What, lord, is the devas’ reckoning of going to a good destination? What is their reckoning of the gain that is good to gain? What is their reckoning of becoming well-established?”
+When this was said, a certain bhikkhu said to the Blessed One, “What, lord, is the devas’ reckoning of going to a good destination? What is their reckoning of the gain that is good to gain? What is their reckoning of becoming well-established?”
 
-“The human state, monks,[1](#^iti83note01) is the devas’ reckoning of going to a good destination. Having become a human being, acquiring conviction in the Dhamma-&-Vinaya taught by the Tathāgata: this is the devas’ reckoning of the gain that is good to gain. When that conviction is settled within one–rooted, established, & strong, not to be destroyed by any brahman or contemplative; deva, Māra, or Brahma; or anyone else in the world: this is the devas’ reckoning of becoming well-established.” ^iti83note01-ref
+“The human state, bhikkhus,[1](#^iti83note01) is the devas’ reckoning of going to a good destination. Having become a human being, acquiring conviction in the Dhamma-&-Vinaya taught by the Tathāgata: this is the devas’ reckoning of the gain that is good to gain. When that conviction is settled within one–rooted, established, & strong, not to be destroyed by any brahman or contemplative; deva, Māra, or Brahma; or anyone else in the world: this is the devas’ reckoning of becoming well-established.” ^iti83note01-ref
 
 When a deva passes away
 
@@ -110,7 +110,7 @@ again & again.’
 
 Note
 
-1. Reading _bhikkhave_ with the Thai edition. The Burmese and Sri Lankan editions read _bhikkhu,_ “monk.”
+1. Reading _bhikkhave_ with the Thai edition. The Burmese and Sri Lankan editions read _bhikkhu,_ “bhikkhu.”
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

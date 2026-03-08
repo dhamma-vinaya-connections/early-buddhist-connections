@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, before his awakening five great dreams appeared to the Realized One, the perfected one, the fully awakened Buddha, when he was still not awake but intent on awakening. What five?
+1“bhikkhus, before his awakening five great dreams appeared to the Realized One, the perfected one, the fully awakened Buddha, when he was still not awake but intent on awakening. What five?
 
 This great earth was his bed. Himalaya, king of mountains, was his pillow. His left hand was laid down in the eastern sea. His right hand was laid down in the western sea. And both his feet were laid down in the southern sea. This is the first great dream that appeared to the Realized One before his awakening.
 

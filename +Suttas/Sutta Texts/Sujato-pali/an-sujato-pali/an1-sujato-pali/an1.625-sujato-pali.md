@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those who haven’t had insight into mindfulness of the body haven’t had insight into the deathless. Those who have had insight into mindfulness of the body have had insight into the deathless.”
+1“bhikkhus, those who haven’t had insight into mindfulness of the body haven’t had insight into the deathless. Those who have had insight into mindfulness of the body have had insight into the deathless.”
 
 1"Amataṁ tesaṁ, bhikkhave, anabhiññātaṁ yesaṁ kāyagatāsati anabhiññātā. Amataṁ tesaṁ, bhikkhave, abhiññātaṁ yesaṁ kāyagatāsati abhiññātā"ti.
 

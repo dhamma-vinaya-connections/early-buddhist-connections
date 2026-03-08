@@ -7,21 +7,21 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC76]]
 > ◄  [[bu-pc75-horner]] 📜  [[bu-pc77-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 76
+# bhikkhus’ Expiation (_Pācittiya_) 76
 
-*Bu-Pc.76.1.1* *BD.3.51* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks defamed a monk with an unfounded charge of an offence entailing a formal meeting of the Order. Those who were modest monks … spread it about, saying: “How can the group of six monks defame … formal meeting of the Order?” …
+*Bu-Pc.76.1.1* *BD.3.51* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus defamed a bhikkhu with an unfounded charge of an offence entailing a formal meeting of the Order. Those who were modest bhikkhus … spread it about, saying: “How can the group of six bhikkhus defame … formal meeting of the Order?” …
 
-“Is it true, as is said, that you, monks, defamed a monk with an unfounded charge of an offence entailing a formal meeting of the Order?” “It is true, lord.” *Vin.4.148*
+“Is it true, as is said, that you, bhikkhus, defamed a bhikkhu with an unfounded charge of an offence entailing a formal meeting of the Order?” “It is true, lord.” *Vin.4.148*
 
-The enlightened one, the lord, rebuked them, saying: “How can you, foolish men, defame … formal meeting of the Order? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+The enlightened one, the lord, rebuked them, saying: “How can you, foolish men, defame … formal meeting of the Order? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should defame a monk with an unfounded charge of an offence entailing a formal meeting of the Order, there is an offence of expiation.”[^1]
+“Whatever bhikkhu should defame a bhikkhu with an unfounded charge of an offence entailing a formal meeting of the Order, there is an offence of expiation.”[^1]
 
 * * *
 
-*Bu-Pc.76.2.1* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.76.2.1* Whatever means: … bhikkhu is to be understood in this case.
 
-Monk[^2] means: another monk.
+bhikkhu[^2] means: another bhikkhu.
 
 Unfounded means: unseen, unheard, unsuspected.[^3]
 
@@ -43,7 +43,7 @@ The Sixth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -84,19 +84,19 @@ Then for a second time Sīha’s determination to go and see the Buddha died dow
 
 26“Sīha, you should act after careful consideration. It’s good for well-known people such as yourself to act after careful consideration.”
 
-“Now I’m even more delighted and satisfied with the Buddha, since he tells me to act after careful consideration. For if the followers of other paths were to gain me as a disciple, they’d carry a banner all over Vesālī, saying: ‘General Sīha has become our disciple!’ And yet the Buddha tells me to act after careful consideration. For a second time, I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
+“Now I’m even more delighted and satisfied with the Buddha, since he tells me to act after careful consideration. For if the followers of other paths were to gain me as a disciple, they’d carry a banner all over Vesālī, saying: ‘General Sīha has become our disciple!’ And yet the Buddha tells me to act after careful consideration. For a second time, I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
 
 
 27“For a long time now, Sīha, your family has been a well-spring of support for the Jain ascetics. You should consider giving to them when they come.”
 
-“Now I’m even more delighted and satisfied with the Buddha, since he tells me to consider giving to the Jain ascetics when they come. Sir, I have heard this: ‘The ascetic Gotama says: “Gifts should only be given to me, and to my disciples. Only what is given to me is very fruitful, not what is given to others. Only what is given to my disciples is very fruitful, not what is given to the disciples of others.”’ Yet the Buddha encourages me to give to the Jain ascetics. Well, sir, we’ll know the proper time for that. For a third time, I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
+“Now I’m even more delighted and satisfied with the Buddha, since he tells me to consider giving to the Jain ascetics when they come. Sir, I have heard this: ‘The ascetic Gotama says: “Gifts should only be given to me, and to my disciples. Only what is given to me is very fruitful, not what is given to others. Only what is given to my disciples is very fruitful, not what is given to the disciples of others.”’ Yet the Buddha encourages me to give to the Jain ascetics. Well, sir, we’ll know the proper time for that. For a third time, I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
 
 28Then the Buddha taught Sīha step by step, with a talk on giving, ethical conduct, and heaven. He explained the drawbacks of sensual pleasures, so sordid and corrupt, and the benefit of renunciation. And when the Buddha knew that Sīha’s mind was ready, pliable, rid of hindrances, joyful, and confident he explained the special teaching of the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth rid of stains would properly absorb dye, in that very seat the stainless, immaculate vision of the Dhamma arose in General Sīha: “Everything that has a beginning has an end.”
 
 
 29Then Sīha saw, attained, understood, and fathomed the Dhamma. He went beyond doubt, got rid of indecision, and became self-assured and independent of others regarding the Teacher’s instructions. He said to the Buddha:
 
-“Sir, may the Buddha together with the mendicant Saṅgha please accept tomorrow’s meal from me.”
+“Sir, may the Buddha together with the bhikkhu Saṅgha please accept tomorrow’s meal from me.”
 
 The Buddha consented in silence. Then, knowing that the Buddha had consented, Sīha got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 
@@ -105,13 +105,13 @@ The Buddha consented in silence. Then, knowing that the Buddha had consented, S�
 And when the night had passed General Sīha had a variety of delicious foods prepared in his own home. Then he had the Buddha informed of the time, saying: “Sir, it’s time. The meal is ready.”
 
 
-31Then the Buddha robed up in the morning and, taking his bowl and robe, went to Sīha’s home, where he sat on the seat spread out, together with the Saṅgha of mendicants. Now at that time many Jain ascetics in Vesālī went from street to street and square to square, calling out with raised arms: “Today General Sīha has slaughtered a fat calf for the ascetic Gotama’s meal. The ascetic Gotama knowingly eats meat prepared specially for him: this is a deed he caused.”
+31Then the Buddha robed up in the morning and, taking his bowl and robe, went to Sīha’s home, where he sat on the seat spread out, together with the Saṅgha of bhikkhus. Now at that time many Jain ascetics in Vesālī went from street to street and square to square, calling out with raised arms: “Today General Sīha has slaughtered a fat calf for the ascetic Gotama’s meal. The ascetic Gotama knowingly eats meat prepared specially for him: this is a deed he caused.”
 
 32Then a certain person went up to Sīha and whispered in his ear: “Please sir, you should know this. Many Jain ascetics in Vesālī are going from street to street and square to square, calling out with raised arms: ‘Today General Sīha has slaughtered a fat calf for the ascetic Gotama’s meal. The ascetic Gotama knowingly eats meat prepared specially for him: this is a deed he caused.’”
 
 “Enough, sir. For a long time those venerables have wanted to discredit the Buddha, his teaching, and his Saṅgha. They’ll never stop misrepresenting the Buddha with their false, hollow, lying, untruthful claims. We would never deliberately take the life of a living creature, not even for life’s sake.”
 
-33Then Sīha served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with a variety of delicious foods. When the Buddha had eaten and washed his hand and bowl, Sīha sat down to one side. Then the Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk, after which he got up from his seat and left.
+33Then Sīha served and satisfied the bhikkhu Saṅgha headed by the Buddha with his own hands with a variety of delicious foods. When the Buddha had eaten and washed his hand and bowl, Sīha sat down to one side. Then the Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk, after which he got up from his seat and left.
 
 #### Pali
 

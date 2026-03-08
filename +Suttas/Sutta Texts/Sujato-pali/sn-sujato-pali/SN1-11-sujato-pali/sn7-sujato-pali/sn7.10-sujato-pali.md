@@ -94,7 +94,7 @@ creditors knocking at dawn,
 warning, ‘Pay up! Pay up!’:  
 that’s why I’m happy, brahmin.”
 
-16When he had spoken, the brahmin said to the Buddha: “Excellent, Master Gotama! Excellent! … As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
+16When he had spoken, the brahmin said to the Buddha: “Excellent, Master Gotama! Excellent! … As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
 
 17And the brahmin received the going forth, the ordination in the Buddha’s presence. Not long after his ordination, Venerable Bhāradvāja, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme end of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
 

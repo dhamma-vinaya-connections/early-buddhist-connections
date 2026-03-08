@@ -75,7 +75,7 @@ Then it occurred to Sabhiya the Wanderer: “How amazing! How incredible! With t
 
 Sabhiya
 
-513 “What must one attain to be called a mendicant?”  
+513 “What must one attain to be called a bhikkhu?”  
 said Sabhiya,  
 “How is one ‘sweet’, how said to be ‘tamed’?  
 How is one declared to be ‘awakened’?  
@@ -87,7 +87,7 @@ Buddha
 said the Buddha to Sabhiya,  
 “they reach quenching, with doubt overcome;  
 giving up desire to continue existence or to end it,  
-their journey complete, their rebirths ended: that is a mendicant.
+their journey complete, their rebirths ended: that is a bhikkhu.
 
 515 Equanimous towards everything, mindful,  
 they don’t harm anyone in the world.  
@@ -314,13 +314,13 @@ Sabhiya bows to the Teacher.”
 
 ---
 
-Then the wanderer Sabhiya bowed with his head at the Buddha’s feet and said: “Excellent, sir! Excellent! … I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
+Then the wanderer Sabhiya bowed with his head at the Buddha’s feet and said: “Excellent, sir! Excellent! … I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
 
 ---
 
-“Sabhiya, if someone formerly ordained in another sect wishes to take the going forth, the ordination in this teaching and training, they must spend four months on probation. When four months have passed, if the mendicants are satisfied, they’ll give the going forth, the ordination into monkhood. However, I have recognized individual differences in this matter.”
+“Sabhiya, if someone formerly ordained in another sect wishes to take the going forth, the ordination in this teaching and training, they must spend four months on probation. When four months have passed, if the bhikkhus are satisfied, they’ll give the going forth, the ordination into bhikkhuhood. However, I have recognized individual differences in this matter.”
 
-“Sir, if four months probation are required in such a case, I’ll spend four years on probation. When four years have passed, if the mendicants are satisfied, let them give me the going forth, the ordination into monkhood.”
+“Sir, if four months probation are required in such a case, I’ll spend four years on probation. When four years have passed, if the bhikkhus are satisfied, let them give me the going forth, the ordination into bhikkhuhood.”
 
 And the wanderer Sabhiya received the going forth, the ordination in the Buddha’s presence. And Venerable Sabhiya became one of the perfected.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three kinds of purity. What three? Purity of body, speech, and mind.
+1“bhikkhus, there are these three kinds of purity. What three? Purity of body, speech, and mind.
 
 And what is purity of body? It’s when someone doesn’t kill living creatures, steal, or commit sexual misconduct. This is called ‘purity of body’.
 

@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma8note01) One time, the Buddha traveled to Vaiśālī and stayed at the mango grove there.[2](#^ma8note02) ^ma8note01-ref ^ma8note02-ref
 
-2. It was then that the Bhagavān addressed the monks, “All conditioned things are impermanent. They are things that don’t last, that soon change, and that are unreliable. Such conditioned things must not be objects of attachment, or they will torment a person. You must seek separation and liberation from them. Why is that?
+2. It was then that the Bhagavān addressed the bhikkhus, “All conditioned things are impermanent. They are things that don’t last, that soon change, and that are unreliable. Such conditioned things must not be objects of attachment, or they will torment a person. You must seek separation and liberation from them. Why is that?
 
 #### The Seven Suns Parable
 
@@ -59,11 +59,11 @@ language: "English"
 
 #### The Sunetra Birth Story
 
-20. “Why is that? Monks, there once was a great teacher named Sunetra[5](#^ma8note05) who taught in a tradition of sages from another religion. He abandoned craving and attained the miraculous abilities. That great teacher Sunetra had measureless hundreds of thousands of disciples. If his disciples didn’t completely approve of his teaching when he taught them the way to the Brahma world, then they were sometimes born in the Heaven of the Four God Kings, the Trāyastriṃśa Heaven, the Yama Heaven, the Tuṣita Heaven, the Nirmāṇarati Heaven, or the Paranirmitavaśavartin Heaven when their lives ended. If his disciples did completely approve of his teaching of the way to the Brahma world, they cultivated the four abodes of Brahmā, abandoned their desires, and were born in the Brahma Heavens when their lives ended. ^ma8note05-ref
+20. “Why is that? bhikkhus, there once was a great teacher named Sunetra[5](#^ma8note05) who taught in a tradition of sages from another religion. He abandoned craving and attained the miraculous abilities. That great teacher Sunetra had measureless hundreds of thousands of disciples. If his disciples didn’t completely approve of his teaching when he taught them the way to the Brahma world, then they were sometimes born in the Heaven of the Four God Kings, the Trāyastriṃśa Heaven, the Yama Heaven, the Tuṣita Heaven, the Nirmāṇarati Heaven, or the Paranirmitavaśavartin Heaven when their lives ended. If his disciples did completely approve of his teaching of the way to the Brahma world, they cultivated the four abodes of Brahmā, abandoned their desires, and were born in the Brahma Heavens when their lives ended. ^ma8note05-ref
 
 21. “At the time, that teacher Sunetra thought, ‘Shouldn’t I and my disciples be born in the same place in a later life? Now, I’d better cultivate increasing kindness. After cultivating increasing kindness, I’ll be born among the Ābhāsvara gods.’ Sunetra then cultivated increasing kindness. After cultivating it, he was born among the Ābhāsvara gods when his life ended. That path of training of Sunetra and his disciples wasn’t in vain. They did attain a great result from it.
 
-22. “Monks, what you do think? Would you say that that great teacher Sunetra was someone else who was a teacher in a tradition of sages from another religion, who abandoned craving and attained miraculous abilities? Don’t think that, for you should know that he was me.
+22. “bhikkhus, what you do think? Would you say that that great teacher Sunetra was someone else who was a teacher in a tradition of sages from another religion, who abandoned craving and attained miraculous abilities? Don’t think that, for you should know that he was me.
 
 23. “At the time, I was that great teacher named Sunetra, a teacher from a tradition of sages from another religion who abandoned craving and attained miraculous abilities. At the time, I had measureless hundreds of thousands of disciples. If my disciples didn’t completely approve of my teaching when I taught them the way to the Brahma world, then they were sometimes born in the Heaven of the Four God Kings, the Trāyastriṃśa Heaven, the Yama Heaven, the Tuṣita Heaven, the Nirmāṇarati Heaven, or the Paranirmitavaśavartin Heaven when their lives ended. If my disciples did completely approve of my teaching of the way to the Brahma world, they cultivated the four abodes of Brahmā, abandoned their desires, and were born in the Brahma Heavens when their lives ended.
 
@@ -71,9 +71,9 @@ language: "English"
 
 25. “At the time, I and my friends practiced this path by which we benefited ourselves, benefited others, benefited many people, pitied the world, sought both meaning and benefit for gods and humans, and sought peace and happiness. At the time, I explained a teaching that didn’t reach the ultimate, wasn’t ultimately clean, wasn’t the ultimate religious practice, and wasn’t the ultimate completion of the religious life. At the time, I didn’t part with birth, old age, illness, death, lamentation, and grief, nor was I freed from all suffering yet.
 
-26. “Monks, now I have arisen in the world as a Tathāgata, Arhat, and Completely Awakened One, Accomplished in Knowledge and Conduct, Well Gone, Understander of the World, Trainer in the Way and Teaching, Teacher of Gods and People, and I’m called a Buddha and a Bhagavān. Now, I benefit myself, benefit others, benefit many people, pity the world, seek both meaning and benefit for gods and humans, and seek peace and happiness. Now, I explain a teaching that reaches the ultimate, that’s ultimately clean, that’s the ultimate religious practice, and that’s the ultimate completion of the religious life. Now, I’ve parted with birth, old age, illness, death, lamentation, and grief, and I’ve been freed from all suffering.”
+26. “bhikkhus, now I have arisen in the world as a Tathāgata, Arhat, and Completely Awakened One, Accomplished in Knowledge and Conduct, Well Gone, Understander of the World, Trainer in the Way and Teaching, Teacher of Gods and People, and I’m called a Buddha and a Bhagavān. Now, I benefit myself, benefit others, benefit many people, pity the world, seek both meaning and benefit for gods and humans, and seek peace and happiness. Now, I explain a teaching that reaches the ultimate, that’s ultimately clean, that’s the ultimate religious practice, and that’s the ultimate completion of the religious life. Now, I’ve parted with birth, old age, illness, death, lamentation, and grief, and I’ve been freed from all suffering.”
 
-27. This is what the Buddha said. Those monks who heard what the Buddha had taught rejoiced and approved.
+27. This is what the Buddha said. Those bhikkhus who heard what the Buddha had taught rejoiced and approved.
 
 ---
 

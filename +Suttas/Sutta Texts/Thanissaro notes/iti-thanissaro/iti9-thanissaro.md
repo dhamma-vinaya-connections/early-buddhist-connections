@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 9
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, one who has not fully known & fully understood greed, whose mind has not been cleansed of passion for it, has not abandoned it, is incapable of putting an end to stress. But one who has fully known & fully understood greed, who has detached his mind from it and let go of it, is capable of putting an end to stress.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, one who has not fully known & fully understood greed, whose mind has not been cleansed of passion for it, has not abandoned it, is incapable of putting an end to stress. But one who has fully known & fully understood greed, who has detached his mind from it and let go of it, is capable of putting an end to stress.”
 
 The greed with which
 

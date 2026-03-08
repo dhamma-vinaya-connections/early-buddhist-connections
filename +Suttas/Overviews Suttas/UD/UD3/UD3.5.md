@@ -47,18 +47,18 @@ parallels_partilal: "[[PE1]]"
 > As a rocky mountain 
 is unwavering and well grounded, 
 so when delusion ends, 
-a monk, like a mountain, doesn’t tremble
+a bhikkhu, like a mountain, doesn’t tremble
 
 > [!info] Key Excerpts 
 > With mindfulness of the body established, 
 restrained in the six fields of contact, 
-a mendicant always immersed in samādhi 
+a bhikkhu always immersed in samādhi 
 would know quenching in themselves
 > 
 > “In whom dwells no deceit or conceit, 
 rid of greed, unselfish, with no need for hope, 
 with anger eliminated, quenched: 
-they are a brahmin, an ascetic, a mendicant
+they are a brahmin, an ascetic, a bhikkhu
 > 
 
 > [!info] Similes

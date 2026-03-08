@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, an anointed aristocratic king’s eldest son with five factors aspires to become a viceroy. What five?
+1“bhikkhus, an anointed aristocratic king’s eldest son with five factors aspires to become a viceroy. What five?
 
 It’s when an anointed aristocratic king’s eldest son is well born on both his mother’s and father’s side, of pure descent, irrefutable and impeccable in questions of ancestry back to the seventh paternal generation.
 
@@ -37,10 +37,10 @@ He is astute, competent, and intelligent, able to think issues through as they b
 2He thinks: ‘I’m well born … attractive … dear and beloved to my parents … dear and beloved to the armed forces … I’m astute, competent, and intelligent, able to think issues through as they bear upon the past, future, and present. Why shouldn’t I aspire to become a viceroy?’ An anointed aristocratic king’s eldest son with these five factors aspires to become a viceroy.
 
 
-3In the same way, a mendicant with five qualities aspires to end the defilements. What five?
+3In the same way, a bhikkhu with five qualities aspires to end the defilements. What five?
 
 
-It’s when a mendicant is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
+It’s when a bhikkhu is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
 They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s totally full and pure. They are very learned in such teachings, remembering them, reciting them, mentally scrutinizing them, and understanding them with right view.
 
@@ -55,7 +55,7 @@ They’re wise. They have the wisdom of arising and passing away which is noble,
 4They think: ‘I’m ethical … learned … mindful … energetic … wise. I have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. Why shouldn’t I aspire to end the defilements?’
 
 
-A mendicant with these five qualities aspires to end the defilements.”
+A bhikkhu with these five qualities aspires to end the defilements.”
 
 1"Pañcahi, bhikkhave, aṅgehi samannāgato rañño khattiyassa muddhāvasittassa jeṭṭho putto oparajjaṁ pattheti. Katamehi pañcahi?
 

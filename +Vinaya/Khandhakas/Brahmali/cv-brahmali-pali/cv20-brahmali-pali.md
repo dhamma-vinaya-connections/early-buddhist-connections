@@ -65,13 +65,13 @@ A second time and a third time he asked the same question and got the same reply
 “Ānanda, if Mahāpajāpati accepts these eight important principles, that will be her full ordination:
 
 1.  A nun who has been fully ordained for a hundred years should bow down to a monk who was given the full ordination on that very day, and she should stand up for him, raise her joined palms to him, and do acts of respect toward him.[^1506] This principle is to be honored and respected all one’s life, and is not to be breached.
-2.  A nun shouldn’t spend the rainy-season residence in a monastery without monks.[^1507] This principle too is to be honored and respected all one’s life, and is not to be breached.
-3.  Every half-month a nun should seek two things from the Sangha of monks:[^1508] asking it about the observance day and going to it for the instruction. This principle too is to be honored and respected all one’s life, and is not to be breached.
+2.  A nun shouldn’t spend the rainy-season residence in a monastery without bhikkhus.[^1507] This principle too is to be honored and respected all one’s life, and is not to be breached.
+3.  Every half-month a nun should seek two things from the Sangha of bhikkhus:[^1508] asking it about the observance day and going to it for the instruction. This principle too is to be honored and respected all one’s life, and is not to be breached.
 4.  A nun who has completed the rainy-season residence should invite correction from both Sanghas in regard to three things:[^1509] what has been seen, heard, or suspected. This principle too is to be honored and respected all one’s life, and is not to be breached.
 5.  A nun who has committed a heavy offense must undertake a trial period for a half-month toward both Sanghas.[^1510] This principle too is to be honored and respected all one’s life, and is not to be breached.
 6.  A trainee nun who has trained for two years in the six rules may seek for full ordination in both Sanghas.[^1511] This principle too is to be honored and respected all one’s life, and is not to be breached.
 7.  A nun may not in any way abuse or revile a monk.[^1512] This principle too is to be honored and respected all one’s life, and is not to be breached.
-8.  From today onwards, nuns may not correct monks, but monks may correct nuns.[^1513] This principle too is to be honored and respected all one’s life, and is not to be breached.
+8.  From today onwards, nuns may not correct bhikkhus, but bhikkhus may correct nuns.[^1513] This principle too is to be honored and respected all one’s life, and is not to be breached.
 
 Ānanda, if Mahāpajāpati accepts these eight important principles, that will be her full ordination.”
 
@@ -103,11 +103,11 @@ The eight important principles for nuns are finished.
 > ```
 
 
-Mahāpajāpati went to the Buddha, bowed down, and said, “Sir, what should I do with these Sakyan women?” The Buddha then instructed, inspired, and gladdened her with a teaching, after which she bowed down, circumambulated him with her right side toward him, and left. Soon afterwards the Buddha gave a Teaching and addressed the monks:
+Mahāpajāpati went to the Buddha, bowed down, and said, “Sir, what should I do with these Sakyan women?” The Buddha then instructed, inspired, and gladdened her with a teaching, after which she bowed down, circumambulated him with her right side toward him, and left. Soon afterwards the Buddha gave a Teaching and addressed the bhikkhus:
 
-“I allow monks to give the full ordination to nuns.”
+“I allow bhikkhus to give the full ordination to nuns.”
 
-Soon afterwards those nuns said to Mahāpajāpati, “We’re ordained, but you’re not, for the Buddha has laid down that monks should give the full ordination to nuns.”
+Soon afterwards those nuns said to Mahāpajāpati, “We’re ordained, but you’re not, for the Buddha has laid down that bhikkhus should give the full ordination to nuns.”
 
 Mahāpajāpati then went to Venerable Ānanda, bowed down, and told him what the Sakyan women had said.
 
@@ -115,21 +115,21 @@ And Ānanda went to the Buddha, bowed, sat down, and told him what Mahāpajāpat
 
 The Buddha replied, “Mahāpajāpati was ordained from the moment she accepted the eight important principles.”
 
-On another occasion Mahāpajāpati went to Venerable Ānanda, bowed down, and said, “Venerable Ānanda, I wish to ask the Buddha for a favor: ‘Sir, please allow the monks and nuns to bow down to one another according to seniority, and likewise to rise up for one another, raise their joined palms to one another, and do acts of respect toward one another according to seniority.’”
+On another occasion Mahāpajāpati went to Venerable Ānanda, bowed down, and said, “Venerable Ānanda, I wish to ask the Buddha for a favor: ‘Sir, please allow the bhikkhus and nuns to bow down to one another according to seniority, and likewise to rise up for one another, raise their joined palms to one another, and do acts of respect toward one another according to seniority.’”
 
 Venerable Ānanda went to the Buddha, bowed, sat down, and told the Buddha what Mahāpajāpati had said.
 
 The Buddha replied, “It’s impossible, Ānanda, that I would allow bowing down to women, or rising up for them, raising one’s joined palms to them, or doing acts of respect toward them. Even the monastics of other religions with their flawed teachings don’t do these things. So how, then, could I allow them?”
 
-The Buddha then gave a teaching and addressed the monks:
+The Buddha then gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t bow down to a woman, or rise up for, raise your joined palms to, or do acts of respect toward a woman. If you do, you commit an offense of wrong conduct.”
 
-On another occasion Mahāpajāpati went to the Buddha, bowed down, and said, “Sir, how should we practice those training rules that the nuns have in common with the monks?”
+On another occasion Mahāpajāpati went to the Buddha, bowed down, and said, “Sir, how should we practice those training rules that the nuns have in common with the bhikkhus?”
 
-“You should practice them in the same way as the monks do.”
+“You should practice them in the same way as the bhikkhus do.”
 
-“And how should we practice those training rules that the nuns don’t have in common with the monks?”
+“And how should we practice those training rules that the nuns don’t have in common with the bhikkhus?”
 
 “You should practice them as they have been laid down.”
 
@@ -137,63 +137,63 @@ On another occasion Mahāpajāpati went to the Buddha, bowed down, and said, “
 
 “Those things, Gotami, that you know lead to passion, not to dispassion; to bondage, not to freedom from bondage; to an increase in things, not to a reduction in things; to great desires, not fewness of desires; to discontent, not to contentment; to socializing, not to seclusion; to laziness, not to being energetic; to being burdensome, not to being unburdensome—you should definitely regard them as not the Teaching, not the training, not the Teacher’s instruction.[^1517] But those things that you know lead to dispassion, not to passion; to freedom from bondage, not to bondage; to a reduction in things, not to an increase in things; to fewness of desires, not to great desires; to contentment, not to discontent; to seclusion, not to socializing; to being energetic, not to laziness; to being unburdensome, not to being unburdensome—you should definitely regard them as the Teaching, the training, the Teacher’s instruction.”
 
-At that time the Monastic Code was not being recited to the nuns. They told the Buddha. … “The Monastic Code should be recited to the nuns.” The nuns thought,[^1518] “Who should recite the Monastic Code to the nuns?” They told the Buddha. “The monks should recite the Monastic Code to the nuns.”
+At that time the Monastic Code was not being recited to the nuns. They told the Buddha. … “The Monastic Code should be recited to the nuns.” The nuns thought,[^1518] “Who should recite the Monastic Code to the nuns?” They told the Buddha. “The bhikkhus should recite the Monastic Code to the nuns.”
 
-Soon afterwards the monks went to the nuns’ dwelling place to recite the Monastic Code.[^1519] People complained and criticized them, “They’re their wives! They’re their mistresses! Now they’re going to enjoy themselves together.” They told the Buddha.
+Soon afterwards the bhikkhus went to the nuns’ dwelling place to recite the Monastic Code.[^1519] People complained and criticized them, “They’re their wives! They’re their mistresses! Now they’re going to enjoy themselves together.” They told the Buddha.
 
-“Monks, you shouldn’t recite the Monastic Code to the nuns. If you do, you commit an offense of wrong conduct. Nuns should recite the Monastic Code to the nuns.”
+“bhikkhus, you shouldn’t recite the Monastic Code to the nuns. If you do, you commit an offense of wrong conduct. Nuns should recite the Monastic Code to the nuns.”
 
-The nuns did not know how to recite it. They told the Buddha. “The monks should tell the nuns how to recite the Monastic Code.”
+The nuns did not know how to recite it. They told the Buddha. “The bhikkhus should tell the nuns how to recite the Monastic Code.”
 
 At that time the nuns did not make amends for their offenses. They told the Buddha.
 
 “A nun should make amends for her offenses. If she doesn’t, she commits an offense of wrong conduct.”
 
-The nuns did not know how to make amends. They told the Buddha. “The monks should tell the nuns how to make amends for an offense.” The monks thought, “Who should receive the confession of offenses from the nuns?” They told the Buddha. “The monks should receive the confession of offenses from the nuns.”
+The nuns did not know how to make amends. They told the Buddha. “The bhikkhus should tell the nuns how to make amends for an offense.” The bhikkhus thought, “Who should receive the confession of offenses from the nuns?” They told the Buddha. “The bhikkhus should receive the confession of offenses from the nuns.”
 
 Soon afterwards, when the nuns saw a monk on a street, in a cul-de-sac, or at an intersection, they would put down their bowls, arrange their upper robes over one shoulder, squat on their heels, raise their joined palms, and make amends for their offenses. People complained and criticized them, “They’re their wives! They’re their mistresses! Having offended them at night, they now ask for forgiveness.” They told the Buddha.
 
-“Monks, you shouldn’t receive confessions from the nuns. If you do, you commit an offense of wrong conduct. Nuns should receive the confession of offenses from the nuns.”
+“bhikkhus, you shouldn’t receive confessions from the nuns. If you do, you commit an offense of wrong conduct. Nuns should receive the confession of offenses from the nuns.”
 
-The nuns did not know how to receive confessions. They told the Buddha. “The monks should tell the nuns how to receive confessions.”
+The nuns did not know how to receive confessions. They told the Buddha. “The bhikkhus should tell the nuns how to receive confessions.”
 
-At that time the nuns’ legal procedures were not being done. They told the Buddha. “Monks, I allow the doing of the nuns’ legal procedures.” The monks thought, “Who should do the nuns’ procedures?” They told the Buddha. “The monks should do the nuns’ legal procedures.”
+At that time the nuns’ legal procedures were not being done. They told the Buddha. “bhikkhus, I allow the doing of the nuns’ legal procedures.” The bhikkhus thought, “Who should do the nuns’ procedures?” They told the Buddha. “The bhikkhus should do the nuns’ legal procedures.”
 
 Soon afterwards, when nuns who had had a legal procedure done against them saw a monk on a street, in a cul-de-sac, or at an intersection, they would put down their bowls, arrange their upper robes over one shoulder, squat on their heels, raise their joined palms, and ask for forgiveness, thinking, “This is the way to do it.”[^1520] People complained and criticized them, “They’re their wives! They’re their mistresses! Having offended them at night, they now ask for forgiveness.” They told the Buddha.
 
-“Monks, you shouldn’t do the nuns’ legal procedures. If you do, you commit an offense of wrong conduct. The nuns should do the nuns’ legal procedures.”
+“bhikkhus, you shouldn’t do the nuns’ legal procedures. If you do, you commit an offense of wrong conduct. The nuns should do the nuns’ legal procedures.”
 
-The nuns did not know how to do procedures. They told the Buddha. “The monks should tell the nuns how to do legal procedures.”
+The nuns did not know how to do procedures. They told the Buddha. “The bhikkhus should tell the nuns how to do legal procedures.”
 
 On one occasion the nuns were arguing and disputing in the midst of the Sangha, attacking one another verbally, and they were not able to resolve that legal issue. They told the Buddha.
 
-“I allow the monks to resolve the nuns’ legal issues.”
+“I allow the bhikkhus to resolve the nuns’ legal issues.”
 
-Soon afterwards the monks were resolving a legal issue for the nuns. While they were discussing that legal issue, there were nuns who deserved to have a legal procedure done against them and who had committed an offense.[^1521] The nuns said, “Venerables, please do the procedure against those nuns and receive their confession of offenses, for the Buddha has laid down that the nuns’ legal issues should be resolved by the monks.” They told the Buddha.
+Soon afterwards the bhikkhus were resolving a legal issue for the nuns. While they were discussing that legal issue, there were nuns who deserved to have a legal procedure done against them and who had committed an offense.[^1521] The nuns said, “Venerables, please do the procedure against those nuns and receive their confession of offenses, for the Buddha has laid down that the nuns’ legal issues should be resolved by the bhikkhus.” They told the Buddha.
 
-“Monks, I allow you to determine the nature of the nuns’ legal procedure, before handing it over to the nuns to do it.[^1522] And I allow you to charge a nun with an offense, before handing it over to the nuns for them to receive the confession.”
+“bhikkhus, I allow you to determine the nature of the nuns’ legal procedure, before handing it over to the nuns to do it.[^1522] And I allow you to charge a nun with an offense, before handing it over to the nuns for them to receive the confession.”
 
-At that time a nun who was a pupil of the nun Uppalavaṇṇā had followed the Buddha around for seven years to learn the Monastic Law. But because of her absentmindedness, she repeatedly forgot what she had learned. When she heard that the Buddha wanted to go to Sāvatthī, she reflected on her absentmindedness and thought, “It’s hard for a woman to follow the Teacher around all her life. So, what should I do?” She told the nuns what she had thought, who in turn told the monks, who then told the Buddha. The Buddha said,
+At that time a nun who was a pupil of the nun Uppalavaṇṇā had followed the Buddha around for seven years to learn the Monastic Law. But because of her absentmindedness, she repeatedly forgot what she had learned. When she heard that the Buddha wanted to go to Sāvatthī, she reflected on her absentmindedness and thought, “It’s hard for a woman to follow the Teacher around all her life. So, what should I do?” She told the nuns what she had thought, who in turn told the bhikkhus, who then told the Buddha. The Buddha said,
 
-“I allow monks to teach the Monastic Law to the nuns.”
+“I allow bhikkhus to teach the Monastic Law to the nuns.”
 
 The first section for recitation is finished.
 
 ### Regulations on the instruction
 
-When the Buddha had stayed at Vesālī for as long as he liked, he set out wandering toward Sāvatthī. When he eventually arrived, he stayed in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six tried to attract the nuns by splashing them with muddy water. They told the Buddha.
+When the Buddha had stayed at Vesālī for as long as he liked, he set out wandering toward Sāvatthī. When he eventually arrived, he stayed in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six tried to attract the nuns by splashing them with muddy water. They told the Buddha.
 
-“Monks, you shouldn’t splash the nuns with muddy water. If you do, you commit an offense of wrong conduct. I allow the nuns to penalize a monk who acts like this.”[^1523]
+“bhikkhus, you shouldn’t splash the nuns with muddy water. If you do, you commit an offense of wrong conduct. I allow the nuns to penalize a monk who acts like this.”[^1523]
 
-The monks thought, “What sort of penalty should they impose?” They told the Buddha.
+The bhikkhus thought, “What sort of penalty should they impose?” They told the Buddha.
 
 “The Sangha of nuns shouldn’t pay respect to such a monk.”[^1524]
 
-Soon afterwards the monks from the group of six tried to attract the nuns by exposing their bodies to them, by exposing their thighs to them, and by exposing their genitals to them. And they spoke indecently to the nuns and associated inappropriately with them. They told the Buddha.
+Soon afterwards the bhikkhus from the group of six tried to attract the nuns by exposing their bodies to them, by exposing their thighs to them, and by exposing their genitals to them. And they spoke indecently to the nuns and associated inappropriately with them. They told the Buddha.
 
-“Monks, you shouldn’t expose your body to the nuns; you shouldn’t expose your thighs to the nuns; you shouldn’t expose your genitals to the nuns; you shouldn’t speak indecently to the nuns; and you shouldn’t associate inappropriately with the nuns. If you associate inappropriately with the nuns, you commit an offense of wrong conduct. I allow the nuns to penalize a monk who acts like this.”
+“bhikkhus, you shouldn’t expose your body to the nuns; you shouldn’t expose your thighs to the nuns; you shouldn’t expose your genitals to the nuns; you shouldn’t speak indecently to the nuns; and you shouldn’t associate inappropriately with the nuns. If you associate inappropriately with the nuns, you commit an offense of wrong conduct. I allow the nuns to penalize a monk who acts like this.”
 
-The monks thought, “What sort of penalty can they impose?” They told the Buddha.
+The bhikkhus thought, “What sort of penalty can they impose?” They told the Buddha.
 
 “The Sangha of nuns shouldn’t pay respect to such a monk.”
 
@@ -201,7 +201,7 @@ Soon afterwards the nuns from the group of six tried to attract a monk by splash
 
 “A nun shouldn’t splash a monk with muddy water. If she does, she commits an offense of wrong conduct. I allow you to penalize such a nun.”
 
-The monks thought, “What sort of penalty can we impose?” They told the Buddha.
+The bhikkhus thought, “What sort of penalty can we impose?” They told the Buddha.
 
 “I allow you to place restrictions on her.”[^1525]
 
@@ -209,11 +209,11 @@ She did not adhere to the restrictions. They told the Buddha.
 
 “I allow you to cancel her half-monthly instruction.”
 
-At that time the nuns from the group of six tried to attract the monks by exposing their bodies to them, by exposing their breasts to them, by exposing their thighs to them, and by exposing their genitals to them. And they spoke indecently to the monks and associated inappropriately with them. They told the Buddha.
+At that time the nuns from the group of six tried to attract the bhikkhus by exposing their bodies to them, by exposing their breasts to them, by exposing their thighs to them, and by exposing their genitals to them. And they spoke indecently to the bhikkhus and associated inappropriately with them. They told the Buddha.
 
-“A nun shouldn’t expose her body to the monks; she shouldn’t expose her breasts to the monks; she shouldn’t expose her thighs to the monks; she shouldn’t expose her genitals to the monks; she shouldn’t speak indecently to the monks; and she shouldn’t associate inappropriately with the monks. If she associates inappropriately with the monks, she commits an offense of wrong conduct. I allow the monks to penalize such a nun.”
+“A nun shouldn’t expose her body to the bhikkhus; she shouldn’t expose her breasts to the bhikkhus; she shouldn’t expose her thighs to the bhikkhus; she shouldn’t expose her genitals to the bhikkhus; she shouldn’t speak indecently to the bhikkhus; and she shouldn’t associate inappropriately with the bhikkhus. If she associates inappropriately with the bhikkhus, she commits an offense of wrong conduct. I allow the bhikkhus to penalize such a nun.”
 
-The monks thought, “What sort of penalty can we impose?” They told the Buddha.
+The bhikkhus thought, “What sort of penalty can we impose?” They told the Buddha.
 
 “I allow you to place restrictions on her.”
 
@@ -221,23 +221,23 @@ She did not adhere to the restrictions. They told the Buddha.
 
 “I allow you to cancel her half-monthly instruction.”
 
-The monks thought, “Is it allowable or not to do the observance-day ceremony with a nun whose half-monthly instruction has been canceled?” They told the Buddha.
+The bhikkhus thought, “Is it allowable or not to do the observance-day ceremony with a nun whose half-monthly instruction has been canceled?” They told the Buddha.
 
 “Until that legal issue has been resolved, it’s not allowable to do the observance-day ceremony with a nun whose half-monthly instruction has been canceled.”
 
 On one occasion Venerable Udāyī canceled the half-monthly instruction and then set out wandering. The nuns complained and criticized him, “How could Venerable Udāyī do this?” They told the Buddha.
 
-“Monks, you shouldn’t cancel the half-monthly instruction and then set out wandering. If you do, you commit an offense of wrong conduct.”
+“bhikkhus, you shouldn’t cancel the half-monthly instruction and then set out wandering. If you do, you commit an offense of wrong conduct.”
 
-At that time there were ignorant and incompetent monks who canceled the half-monthly instruction.[^1526] They told the Buddha.
+At that time there were ignorant and incompetent bhikkhus who canceled the half-monthly instruction.[^1526] They told the Buddha.
 
 “A monk who’s ignorant and incompetent shouldn’t cancel the half-monthly instruction. If he does, he commits an offense of wrong conduct.”
 
-At that time there were monks who canceled the half-monthly instruction without reason. They told the Buddha.
+At that time there were bhikkhus who canceled the half-monthly instruction without reason. They told the Buddha.
 
 “A monk shouldn’t cancel the half-monthly instruction without reason. If he does, he commits an offense of wrong conduct.”
 
-At that time there were monks who did not investigate after canceling the half-monthly instruction.[^1527] They told the Buddha.
+At that time there were bhikkhus who did not investigate after canceling the half-monthly instruction.[^1527] They told the Buddha.
 
 “You should investigate after canceling the half-monthly instruction. If you don’t, you commit an offense of wrong conduct.”
 
@@ -253,11 +253,11 @@ Soon afterwards four or five nuns went to the half-monthly instruction. People c
 
 “Four or five nuns shouldn’t go to the half-monthly instruction. If they do, there’s an offense of wrong conduct. Two or three nuns should go to the instruction.[^1529]
 
-They should go to a monk, arrange their upper robes over one shoulder, bow down at his feet, squat on their heels, raise their joined palms, and say, ‘Venerable, the Sangha of nuns bows down at the feet of the Sangha of monks and asks to come for the half-monthly instruction. Please allow the Sangha of nuns to come for the instruction.’
+They should go to a monk, arrange their upper robes over one shoulder, bow down at his feet, squat on their heels, raise their joined palms, and say, ‘Venerable, the Sangha of nuns bows down at the feet of the Sangha of bhikkhus and asks to come for the half-monthly instruction. Please allow the Sangha of nuns to come for the instruction.’
 
 That monk should go to the reciter of the Monastic Code and tell him of the nuns’ request. The reciter should say, ‘Is there anyone who has been appointed as an instructor of the nuns?’ If there is, the reciter should say, ‘Monk so-and-so has been appointed. The Sangha of nuns should approach him.’ If there isn’t, the reciter should say, ‘Who’s suitable to instruct the nuns?’ If there is someone who is suitable and who has the eight required qualities, he should be appointed. The reciter should then say,[^1530] ‘Monk so-and-so has been appointed. The Sangha of nuns should approach him.’ If no-one is able to instruct the nuns, the reciter of the Monastic Code should say, ‘No monk has been appointed as an instructor of the nuns. The Sangha of nuns should carry on with serenity.’”
 
-On one occasion there were monks who did not agree to give the half-monthly instruction. They told the Buddha.
+On one occasion there were bhikkhus who did not agree to give the half-monthly instruction. They told the Buddha.
 
 “You should agree to give the half-monthly instruction. If you don’t, you commit an offense of wrong conduct.”
 
@@ -293,11 +293,11 @@ On one occasion the nuns went to a monk who was staying in the wilderness and sa
 
 “If you’re staying in the wilderness, you should agree to give the half-monthly instruction. You should make an appointment, saying, ‘I’ll return here.’”
 
-At that time there were monks who agreed to give the half-monthly instruction without informing.[^1531] They told the Buddha.
+At that time there were bhikkhus who agreed to give the half-monthly instruction without informing.[^1531] They told the Buddha.
 
 “When you have agreed to give the half-monthly instruction, you should inform. If you don’t, you commit an offense of wrong conduct.”
 
-At that time there were monks who had agreed to give the half-monthly instruction, but did not return to give it. They told the Buddha.
+At that time there were bhikkhus who had agreed to give the half-monthly instruction, but did not return to give it. They told the Buddha.
 
 “You should return to give the half-monthly instruction. If you don’t, you commit an offense of wrong conduct.”
 
@@ -333,11 +333,11 @@ The nuns from the group of six wore entirely blue robes, entirely yellow robes, 
 
 ### Various rules
 
-On one occasion a nun who was dying said, “When I’m dead, give my requisites to the Sangha.”[^1539] The monks and the nuns argued with one another, saying it belonged to their Sangha. They told the Buddha.
+On one occasion a nun who was dying said, “When I’m dead, give my requisites to the Sangha.”[^1539] The bhikkhus and the nuns argued with one another, saying it belonged to their Sangha. They told the Buddha.
 
-“If a dying nun, a dying trainee nun, or a dying novice nun says, ‘When I’m dead, give my requisites to the Sangha,’ then they’re for the Sangha of nuns, not for the Sangha of monks. But if a dying monk, a dying novice monk, a dying male lay follower, a dying female lay follower, or anyone else who is dying says, ‘When I’m dead, give my requisites to the Sangha,’ then they’re for the Sangha of monks, not for the Sangha of nuns.”
+“If a dying nun, a dying trainee nun, or a dying novice nun says, ‘When I’m dead, give my requisites to the Sangha,’ then they’re for the Sangha of nuns, not for the Sangha of bhikkhus. But if a dying monk, a dying novice monk, a dying male lay follower, a dying female lay follower, or anyone else who is dying says, ‘When I’m dead, give my requisites to the Sangha,’ then they’re for the Sangha of bhikkhus, not for the Sangha of nuns.”
 
-At one time a woman who was a former wrestler went forth as a nun. Seeing a weak monk on a street, she hit him with her shoulder. He fell over. The monks complained and criticized her, “How could a nun hit a monk?” They told the Buddha.
+At one time a woman who was a former wrestler went forth as a nun. Seeing a weak monk on a street, she hit him with her shoulder. He fell over. The bhikkhus complained and criticized her, “How could a nun hit a monk?” They told the Buddha.
 
 “A nun shouldn’t hit a monk. If she does, she commits an offense of wrong conduct. When a nun sees a monk coming, she should make way for him by stepping off the path.”
 
@@ -347,25 +347,25 @@ At that time a certain alms-collecting monk had resolved not to eat without givi
 
 He repeated his request a second and a third time, but received the same reply. He then told her about his resolution and again requested her to accept some almsfood. Being pressured by that monk, the nun brought out her bowl and showed it to him, saying, “See sir, there’s a fetus in my bowl. Please don’t tell anyone.”
 
-But he complained and criticized her, “How could a nun take a fetus away in her bowl?” He told the monks. The monks of few desires complained and criticized her, “How could a nun take a fetus away in her bowl?” They told the Buddha.
+But he complained and criticized her, “How could a nun take a fetus away in her bowl?” He told the bhikkhus. The bhikkhus of few desires complained and criticized her, “How could a nun take a fetus away in her bowl?” They told the Buddha.
 
 “A nun shouldn’t take a fetus away in her bowl. If she does, she commits an offense of wrong conduct. When a nun sees a monk, she should bring out her almsbowl and show it to him.”
 
-Soon afterwards, when the nuns from the group of six saw a monk, they turned their bowls upside down and showed him the bottom. The monks complained and criticized them, “How could the nuns from the group of six do this?” They told the Buddha.
+Soon afterwards, when the nuns from the group of six saw a monk, they turned their bowls upside down and showed him the bottom. The bhikkhus complained and criticized them, “How could the nuns from the group of six do this?” They told the Buddha.
 
 “When a nun sees a monk, she shouldn’t turn her almsbowl upside down and show him the bottom. If she does, she commits an offense of wrong conduct. When a nun sees a monk, she should turn her bowl upright and then show it to him. And she should offer whatever food is in her bowl to that monk.”
 
-On one occasion a penis had been thrown out on a street in Sāvatthī. The nuns stared at it. People jeered at them, and the nuns felt humiliated. When they had returned to the nuns’ dwelling place, they told the nuns what had happened. The nuns of few desires complained and criticized them, “How could those nuns stare at a penis?” They told the monks, who in turn told the Buddha. He said,
+On one occasion a penis had been thrown out on a street in Sāvatthī. The nuns stared at it. People jeered at them, and the nuns felt humiliated. When they had returned to the nuns’ dwelling place, they told the nuns what had happened. The nuns of few desires complained and criticized them, “How could those nuns stare at a penis?” They told the bhikkhus, who in turn told the Buddha. He said,
 
 “A nun shouldn’t stare at a penis. If she does, she commits an offense of wrong conduct.”
 
 ### Requisites
 
-On one occasion people gave requisites to the monks, who then gave them to the nuns. People complained and criticized them, “How can the venerables give away to others what has been given to them for their own use? Don’t we know how to give?” They told the Buddha.
+On one occasion people gave requisites to the bhikkhus, who then gave them to the nuns. People complained and criticized them, “How can the venerables give away to others what has been given to them for their own use? Don’t we know how to give?” They told the Buddha.
 
-“Monks, you shouldn’t give away to others what has been given to you for your own use. If you do, you commit an offense of wrong conduct.”
+“bhikkhus, you shouldn’t give away to others what has been given to you for your own use. If you do, you commit an offense of wrong conduct.”
 
-On one occasion the monks had an abundance of requisites. They told the Buddha.
+On one occasion the bhikkhus had an abundance of requisites. They told the Buddha.
 
 “I allow you to give to the Sangha.”
 
@@ -373,11 +373,11 @@ The abundance became even greater. They told the Buddha.
 
 “I allow individuals to give away what belongs to them.”[^1540]
 
-On one occasion the monks had an abundance of stored requisites. They told the Buddha.
+On one occasion the bhikkhus had an abundance of stored requisites. They told the Buddha.
 
-“I allow what’s stored by the monks to be received and used by the nuns.”[^1541]
+“I allow what’s stored by the bhikkhus to be received and used by the nuns.”[^1541]
 
-On one occasion people gave requisites to the nuns, who then gave them to the monks. People complained and criticized them, “How can the nuns give away to others what has been given to them for their own use? Don’t we know how to give?” They told the Buddha.
+On one occasion people gave requisites to the nuns, who then gave them to the bhikkhus. People complained and criticized them, “How can the nuns give away to others what has been given to them for their own use? Don’t we know how to give?” They told the Buddha.
 
 “A nun shouldn’t give away to others what has been given to her for her own use. If she does, she commits an offense of wrong conduct.”
 
@@ -391,9 +391,9 @@ The abundance became even greater. They told the Buddha.
 
 On one occasion the nuns had an abundance of stored requisites. They told the Buddha.
 
-“I allow what’s stored by the nuns to be received and used by the monks.”
+“I allow what’s stored by the nuns to be received and used by the bhikkhus.”
 
-On one occasion the monks had an abundance of furniture, but the nuns were lacking. The nuns sent a message to the monks, saying, “Venerables, please lend us some furniture.” They told the Buddha.
+On one occasion the bhikkhus had an abundance of furniture, but the nuns were lacking. The nuns sent a message to the bhikkhus, saying, “Venerables, please lend us some furniture.” They told the Buddha.
 
 “I allow you to lend furniture to the nuns.”
 
@@ -427,9 +427,9 @@ At that time the full ordination had been given to women who lacked genitals, wh
 
 And it should be done like this: ‘Do you lack genitals? Are your genitals incomplete? Do you not menstruate? Do you menstruate continuously? Do you always wear a menstruation pad? Are you incontinent? Do you have genital prolapse? Do you lack sexual organs? Are you manlike? Do you have fistula? Are you a hermaphrodite? Do you have any of these diseases: leprosy, abscesses, mild leprosy, tuberculosis, or epilepsy?[^1546] Are you human? Are you a woman? Are you free from slavery? Are you free from debt? Are you employed by the king? Do you have permission from your parents and husband? Are you twenty years old? Do you have a full set of bowl and robes? What’s your name? What’s the name of your mentor?’”
 
-Soon afterwards the monks asked the nuns about the obstacles. Those seeking the full ordination were embarrassed, humiliated, and unable to respond. They told the Buddha.
+Soon afterwards the bhikkhus asked the nuns about the obstacles. Those seeking the full ordination were embarrassed, humiliated, and unable to respond. They told the Buddha.
 
-“Only when a woman who’s free from obstacles has been fully ordained on one side in the Sangha of nuns, should you give her the full ordination in the Sangha of monks.”[^1547]
+“Only when a woman who’s free from obstacles has been fully ordained on one side in the Sangha of nuns, should you give her the full ordination in the Sangha of bhikkhus.”[^1547]
 
 The nuns asked those seeking the full ordination about the obstacles without first instructing them. They were embarrassed, humiliated, and unable to respond. They told the Buddha.
 
@@ -489,7 +489,7 @@ For the third time, I speak on this matter. Please, venerables, I ask the Sangha
 
 The Sangha has given the full ordination to so-and-so with so-and-so as her mentor. The Sangha approves and is therefore silent. I’ll remember it thus.’
 
-Straightaway she should be taken to the Sangha of monks. She should arrange her upper robe over one shoulder, pay respect at the feet of the monks, squat on her heels, and raise her joined palms. She should then ask for the full ordination:
+Straightaway she should be taken to the Sangha of bhikkhus. She should arrange her upper robe over one shoulder, pay respect at the feet of the bhikkhus, squat on her heels, and raise her joined palms. She should then ask for the full ordination:
 
 ‘Venerables, I’m seeking the full ordination with venerable so-and-so. I’m free from obstacles and have been fully ordained on one side in the Sangha of nuns.[^1550] I ask the Sangha for the full ordination. Please lift me up out of compassion.
 
@@ -525,13 +525,13 @@ At that time the nuns did not do the invitation ceremony.[^1556] They told the B
 
 “A nun should do the invitation ceremony. If she doesn’t, she should be dealt with according to the rule.”[^1557]
 
-At that time the nuns did the invitation ceremony among themselves, but not with the Sangha of monks. They told the Buddha.
+At that time the nuns did the invitation ceremony among themselves, but not with the Sangha of bhikkhus. They told the Buddha.
 
-“After doing the invitation ceremony with the nuns, a nun should do the invitation ceremony with the monks. If she doesn’t, she should be dealt with according to the rule.”
+“After doing the invitation ceremony with the nuns, a nun should do the invitation ceremony with the bhikkhus. If she doesn’t, she should be dealt with according to the rule.”
 
-The nuns did their invitation ceremony together with the monks. They made a racket.[^1558] They told the Buddha.
+The nuns did their invitation ceremony together with the bhikkhus. They made a racket.[^1558] They told the Buddha.
 
-“The nuns shouldn’t do their invitation ceremony together with the monks. Any nun who does commits an offense of wrong conduct.”
+“The nuns shouldn’t do their invitation ceremony together with the bhikkhus. Any nun who does commits an offense of wrong conduct.”
 
 On one occasion when the nuns did the invitation ceremony before the meal, they did not finish until after the time for eating. They told the Buddha.
 
@@ -539,23 +539,23 @@ On one occasion when the nuns did the invitation ceremony before the meal, they 
 
 Doing the invitation ceremony after the meal, they did not finish until it was too late in the evening. They told the Buddha.
 
-“I allow the nuns to do the invitation ceremony among themselves on one day and with the monks on the following day.”
+“I allow the nuns to do the invitation ceremony among themselves on one day and with the bhikkhus on the following day.”
 
 At that time the whole Sangha of nuns did the invitation ceremony. They made a racket. They told the Buddha.
 
-“I allow the nuns to appoint one capable and competent nun to do the invitation ceremony with the Sangha of monks on behalf of the Sangha of nuns. She should be appointed like this. First a nun should be asked, and then a competent and capable nun should inform the Sangha:
+“I allow the nuns to appoint one capable and competent nun to do the invitation ceremony with the Sangha of bhikkhus on behalf of the Sangha of nuns. She should be appointed like this. First a nun should be asked, and then a competent and capable nun should inform the Sangha:
 
-‘Please, venerables, I ask the Sangha to listen. If the Sangha is ready, it should appoint nun so-and-so to do the invitation ceremony with the Sangha of monks on behalf of the Sangha of nuns. This is the motion.
+‘Please, venerables, I ask the Sangha to listen. If the Sangha is ready, it should appoint nun so-and-so to do the invitation ceremony with the Sangha of bhikkhus on behalf of the Sangha of nuns. This is the motion.
 
-Please, venerables, I ask the Sangha to listen. The Sangha appoints nun so-and-so to do the invitation ceremony with the Sangha of monks on behalf of the Sangha of nuns. Any nun who approves of appointing nun so-and-so to do the invitation ceremony with the Sangha of monks on behalf of the Sangha of nuns should remain silent. Any nun who doesn’t approve should speak up.
+Please, venerables, I ask the Sangha to listen. The Sangha appoints nun so-and-so to do the invitation ceremony with the Sangha of bhikkhus on behalf of the Sangha of nuns. Any nun who approves of appointing nun so-and-so to do the invitation ceremony with the Sangha of bhikkhus on behalf of the Sangha of nuns should remain silent. Any nun who doesn’t approve should speak up.
 
-The Sangha has appointed nun so-and-so to do the invitation ceremony with the Sangha of monks on behalf of the Sangha of nuns. The Sangha approves and is therefore silent. I’ll remember it thus.’
+The Sangha has appointed nun so-and-so to do the invitation ceremony with the Sangha of bhikkhus on behalf of the Sangha of nuns. The Sangha approves and is therefore silent. I’ll remember it thus.’
 
-The appointed nun should take the Sangha of nuns to the Sangha of monks. She should then arrange her upper robe over one shoulder, squat on her heels, raise her joined palms, and say: ‘Venerables, the Sangha of nuns invites the Sangha of monks to correct it concerning what you’ve seen, heard, or suspect. Please correct the Sangha of nuns, venerables, out of compassion. If the Sangha of nuns sees a fault, it will make amends.[^1559] For the second time, the Sangha of nuns invites the Sangha of monks to correct it concerning what you’ve seen, heard, or suspect. Please correct the Sangha of nuns, venerables, out of compassion. If the Sangha of nuns sees a fault, it will make amends. For the third time, the Sangha of nuns invites the Sangha of monks to correct it concerning what you’ve seen, heard, or suspect. Please correct the Sangha of nuns, venerables, out of compassion. If the Sangha of nuns sees a fault, it will make amends.’”
+The appointed nun should take the Sangha of nuns to the Sangha of bhikkhus. She should then arrange her upper robe over one shoulder, squat on her heels, raise her joined palms, and say: ‘Venerables, the Sangha of nuns invites the Sangha of bhikkhus to correct it concerning what you’ve seen, heard, or suspect. Please correct the Sangha of nuns, venerables, out of compassion. If the Sangha of nuns sees a fault, it will make amends.[^1559] For the second time, the Sangha of nuns invites the Sangha of bhikkhus to correct it concerning what you’ve seen, heard, or suspect. Please correct the Sangha of nuns, venerables, out of compassion. If the Sangha of nuns sees a fault, it will make amends. For the third time, the Sangha of nuns invites the Sangha of bhikkhus to correct it concerning what you’ve seen, heard, or suspect. Please correct the Sangha of nuns, venerables, out of compassion. If the Sangha of nuns sees a fault, it will make amends.’”
 
-### Mutual authority between monks and nuns
+### Mutual authority between bhikkhus and nuns
 
-At that time the nuns canceled the monks’ observance-day ceremony and their invitation ceremony; they directed them, gave them instructions, got permission from them to correct them, accused them of offenses, and reminded them of offenses.[^1560] They told the Buddha.
+At that time the nuns canceled the bhikkhus’ observance-day ceremony and their invitation ceremony; they directed them, gave them instructions, got permission from them to correct them, accused them of offenses, and reminded them of offenses.[^1560] They told the Buddha.
 
 “A nun shouldn’t cancel the observance-day ceremony of a monk. If she does, it’s not valid, and she commits an offense of wrong conduct.
 
@@ -571,7 +571,7 @@ A nun shouldn’t accuse a monk of an offense. If she does, it’s not valid, an
 
 A nun shouldn’t remind a monk of an offense. If she does, it’s not valid, and she commits an offense of wrong conduct.”
 
-At that time the monks canceled the nuns’ observance-day ceremony and their invitation ceremony; they directed them, gave them instructions, got permission from them to correct them, accused them of offenses, and reminded them of offenses. They told the Buddha.
+At that time the bhikkhus canceled the nuns’ observance-day ceremony and their invitation ceremony; they directed them, gave them instructions, got permission from them to correct them, accused them of offenses, and reminded them of offenses. They told the Buddha.
 
 “A monk may cancel the observance-day ceremony of a nun. If he does, it’s valid, and there’s no offense for him.
 
@@ -605,7 +605,7 @@ Soon afterwards a certain nun was even more uncomfortable when jolted around in 
 
 ### Ordination by messenger
 
-At that time the courtesan Aḍḍhakāsī had gone forth with the nuns. She wanted to go to Sāvatthī to get the full ordination in the presence of the Buddha. Some scoundrels heard about this and besieged the road. When Aḍḍhakāsī heard about this, she sent a message to the Buddha, saying, “I want the full ordination. What should I do?” Soon afterwards the Buddha gave a teaching and addressed the monks:
+At that time the courtesan Aḍḍhakāsī had gone forth with the nuns. She wanted to go to Sāvatthī to get the full ordination in the presence of the Buddha. Some scoundrels heard about this and besieged the road. When Aḍḍhakāsī heard about this, she sent a message to the Buddha, saying, “I want the full ordination. What should I do?” Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow you to give the full ordination also by messenger.”
 
@@ -617,7 +617,7 @@ They ordained with a trainee nun as messenger … They ordained with a novice mo
 
 “You shouldn’t give the full ordination with an ignorant and incompetent nun as messenger. If you do, you commit an offense of wrong conduct. You should give the full ordination with a capable and competent nun as messenger.
 
-That messenger nun should go to the Sangha, arrange her upper robe over one shoulder, bow down at the feet of the monks, squat on her heels, raise her joined palms, and say:
+That messenger nun should go to the Sangha, arrange her upper robe over one shoulder, bow down at the feet of the bhikkhus, squat on her heels, raise her joined palms, and say:
 
 ‘Venerables, so-and-so is seeking the full ordination with venerable so-and-so. She is free from obstacles and has been fully ordained on one side in the Sangha of nuns.[^1562] She hasn’t come because of an obstruction. She asks the Sangha for the full ordination. Please lift her up out of compassion.
 
@@ -760,7 +760,7 @@ This is the summary:
 > About mother and upbringing.
 > 
 > One hundred years and that very day,  
-> Without monks, seeking;  
+> Without bhikkhus, seeking;  
 > Invitation, heavy offense,  
 > Two years, not abusing.
 > 
@@ -785,11 +785,11 @@ This is the summary:
 > Who, dwelling place.
 > 
 > And they do not know, he told,  
-> And did not do, with monks;  
-> To receive by monks,  
+> And did not do, with bhikkhus;  
+> To receive by bhikkhus,  
 > Receiving by nuns.
 > 
-> He told, procedure by monks,  
+> He told, procedure by bhikkhus,  
 > They complained, or with nuns;  
 > To tell, and arguing,  
 > Having determined, and with Uppalā.
@@ -849,14 +849,14 @@ This is the summary:
 > Of a monk, of a novice monk,  
 > Of a lay follower, a female lay follower;  
 > And the requisites of others,  
-> It should be handed back, the monks are the owners.
+> It should be handed back, the bhikkhus are the owners.
 > 
 > Female wrestler, fetus, the bottom of the bowl,  
 > Genitals, and with requisite;  
 > Abundance, greater,  
 > Stored up requisites.
 > 
-> As above for the monks,[^1576]  
+> As above for the bhikkhus,[^1576]  
 > So it should be done for the nuns;  
 > Dwelling, menstruating,  
 > It was stained, and menstruation pads.
@@ -897,14 +897,14 @@ This is the summary:
 > She should ask, interval on asking.
 > 
 > Ordained on one side,  
-> Again so with the Sangha of monks;  
+> Again so with the Sangha of bhikkhus;  
 > Time, season, and date,  
 > Jointly, three supports.
 > 
 > Eight things not to be done,  
 > The right time, everywhere, just eight;  
 > The nuns did not invite,  
-> And just so the Sangha of monks.
+> And just so the Sangha of bhikkhus.
 > 
 > Racket, before the meal,  
 > And too late, racket;  

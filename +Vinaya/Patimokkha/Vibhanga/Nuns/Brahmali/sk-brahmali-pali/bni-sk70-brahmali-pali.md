@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were standing while giving teachings to people who were sitting. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were standing while giving teachings to people who were sitting. …
 
 #### Final ruling
 
 2“‘I will not give a teaching while standing to anyone sitting who is not sick,’ this is how you should train.”
 
-3One should not give a teaching while standing to anyone sitting who is not sick. If a monk, out of disrespect, gives a teaching while standing to someone sitting who is not sick, he commits an offense of wrong conduct.
+3One should not give a teaching while standing to anyone sitting who is not sick. If a bhikkhu, out of disrespect, gives a teaching while standing to someone sitting who is not sick, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

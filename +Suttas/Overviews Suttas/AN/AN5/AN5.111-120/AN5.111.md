@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant with five qualities who visits families is unlikable and unlovable, not respected or admired and improper behavior of novices in alms round
+> bhikkhu with five qualities who visits families is unlikable and unlovable, not respected or admired and improper behavior of novices in alms round
 
 > [!info] Key Excerpts 
 > They act as though they're close to people, give away things they don’t own. They over-associate with close friends. They whisper in the ear. And they ask for too much

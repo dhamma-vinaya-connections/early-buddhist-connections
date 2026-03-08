@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four competent, educated, assured, learned people—who have memorized the teachings and practice in line with the teachings—beautify the Saṅgha. What four?
+1“bhikkhus, these four competent, educated, assured, learned people—who have memorized the teachings and practice in line with the teachings—beautify the Saṅgha. What four?
 
-A monk, a nun, a layman, and a laywoman.
+A bhikkhu, a nun, a layman, and a laywoman.
 
 
 These four competent, educated, assured, learned people—who have memorized the teachings and practice in line with the teachings—beautify the Saṅgha.
@@ -32,7 +32,7 @@ learned, a memorizer of the teachings,
 who lives in line with the teachings—  
 such a person is said to beautify the Saṅgha.
 
-3A monk accomplished in ethics,  
+3A bhikkhu accomplished in ethics,  
 and a learned nun,  
 a faithful layman,  
 and a faithful laywoman, too:  

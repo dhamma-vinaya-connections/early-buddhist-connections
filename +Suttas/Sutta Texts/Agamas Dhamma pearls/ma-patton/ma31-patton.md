@@ -19,17 +19,17 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma31note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada Park in Jeta Grove. ^ma31note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “This is the correct practice of teaching Dharma, which is to gather in detail, contemplate in detail, discern, disclose, reveal, define, make known, and direct others to the four noble truths.
+2. It was then that the Bhagavān addressed the bhikkhus, “This is the correct practice of teaching Dharma, which is to gather in detail, contemplate in detail, discern, disclose, reveal, define, make known, and direct others to the four noble truths.
 
 3. “Tathāgatas, Arhats, and Fully Awakened Ones of the past also had this correct practice of teaching Dharma, which was to gather in detail, contemplate in detail, discern, disclose, reveal, define, make known, and direct others to the four noble truths. Tathāgatas, Arhats, and Fully Awakened Ones of the future also will have this correct practice of teaching Dharma, which will be to gather in detail, contemplate in detail, discern, disclose, reveal, define, make known, and direct others to the four noble truths. I am the Tathāgata, Arhat, and Fully Awakened One of the present who also has this correct practice of teaching Dharma, which is to gather in detail, contemplate in detail, discern, disclose, reveal, define, make known, and direct others to the four noble truths.
 
 4. “The monk Śāriputra’s wisdom is clever, quick, fast, sharp, detailed, profound, essential, insightful, and eloquent. The monk Śāriputra has accomplished real wisdom. Why is that? When I taught these four noble truths in brief, the monk Śāriputra then could teach them in detail for others, contemplate them in detail, discern, disclose, reveal, define, make known, and direct others to them. When he teaches and shows them in detail, discerns, discloses, reveals, defines, makes known, and directs others to these four noble truths, the monk Śāriputra causes measureless people to attain their contemplation. The monk Śāriputra can make right view be his guide.
 
-5. “The monk Maudgalyāyana can lead others to stand at the supreme limit of reality, which is the ultimate end of the contaminants. The monk Śāriputra gives birth to religious practitioners like a birthing mother, and the monk Maudgalyāyana nurtures religious practitioners like a nursing mother. Religious practitioners therefore should serve, support, respect, and venerate the monks Śāriputra and Maudgalyāyana. Why is that? The monks Śāriputra and Maudgalyāyana seek what’s purposeful and beneficial for religious practitioners. They seek their welfare and happiness.”
+5. “The monk Maudgalyāyana can lead others to stand at the supreme limit of reality, which is the ultimate end of the contaminants. The monk Śāriputra gives birth to religious practitioners like a birthing mother, and the monk Maudgalyāyana nurtures religious practitioners like a nursing mother. Religious practitioners therefore should serve, support, respect, and venerate the bhikkhus Śāriputra and Maudgalyāyana. Why is that? The bhikkhus Śāriputra and Maudgalyāyana seek what’s purposeful and beneficial for religious practitioners. They seek their welfare and happiness.”
 
 6. After speaking thus, the Bhagavān rose from his seat and retired to sit in his dwelling.
 
-7. Thereupon, Venerable Śāriputra addressed the monks, “Good men, the Bhagavān appeared in the world for us. That is, it was to teach and show in detail these four noble truths for others and to discern, disclose, reveal, define, make known, and direct others to them. What are the four? They are the noble truth of suffering and the noble truths of suffering’s formation, suffering’s cessation, and the path to suffering’s cessation.
+7. Thereupon, Venerable Śāriputra addressed the bhikkhus, “Good men, the Bhagavān appeared in the world for us. That is, it was to teach and show in detail these four noble truths for others and to discern, disclose, reveal, define, make known, and direct others to them. What are the four? They are the noble truth of suffering and the noble truths of suffering’s formation, suffering’s cessation, and the path to suffering’s cessation.
 
 #### The Noble Truth of Suffering
 
@@ -186,7 +186,7 @@ language: "English"
     He presents and discerns well the noble truths  
     Of suffering, formation, cessation, and the path.”
 
-71. This is what Venerable Śāriputra said. Those monks who heard what Venerable Śāriputra said rejoiced and approved.
+71. This is what Venerable Śāriputra said. Those bhikkhus who heard what Venerable Śāriputra said rejoiced and approved.
 
 ---
 

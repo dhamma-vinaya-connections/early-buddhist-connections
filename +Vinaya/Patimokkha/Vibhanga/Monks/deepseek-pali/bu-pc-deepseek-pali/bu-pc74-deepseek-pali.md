@@ -15,19 +15,19 @@ language: "Pali - English"
 
 449. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū kupitā anattamanā sattarasavaggiyānaṃ bhikkhūnaṃ pahāraṃ denti. Te rodanti. Bhikkhū evamāhaṃsu – ‘‘kissa tumhe, āvuso, rodathā’’ti? ‘‘Ime, āvuso, chabbaggiyā bhikkhū kupitā anattamanā amhākaṃ pahāraṃ dentī’’ti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma chabbaggiyā bhikkhū kupitā anattamanā bhikkhūnaṃ pahāraṃ dassantī’’ti…pe… saccaṃ kira tumhe, bhikkhave, kupitā anattamanā bhikkhūnaṃ pahāraṃ dethāti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tumhe, moghapurisā, kupitā anattamanā bhikkhūnaṃ pahāraṃ dassatha! Netaṃ, moghapurisā, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-449.At that time the Blessed One was dwelling at Savatthi in Jeta Grove, Anathapindika's Monastery. At that time, the group-of-six monks, angry and displeased, struck the group-of-seventeen monks. They wept. The monks asked them, “Friends, why are you weeping?” “These group-of-six monks, angry and displeased, struck us.” Those monks of few desires… complained and criticized, “How can the group-of-six monks, angry and displeased, strike other monks?”… “Is it true, monks, that you, being angry and displeased, struck other monks?” “It is true, Blessed One.” The Blessed One rebuked them… “How can you, foolish men, being angry and displeased, strike other monks? This will not lead to confidence in the unconvinced… And so, monks, this training rule should be recited thus:
+449.At that time the Blessed One was dwelling at Savatthi in Jeta Grove, Anathapindika's Monastery. At that time, the group-of-six bhikkhus, angry and displeased, struck the group-of-seventeen bhikkhus. They wept. The bhikkhus asked them, “Friends, why are you weeping?” “These group-of-six bhikkhus, angry and displeased, struck us.” Those bhikkhus of few desires… complained and criticized, “How can the group-of-six bhikkhus, angry and displeased, strike other bhikkhus?”… “Is it true, bhikkhus, that you, being angry and displeased, struck other bhikkhus?” “It is true, Blessed One.” The Blessed One rebuked them… “How can you, foolish men, being angry and displeased, strike other bhikkhus? This will not lead to confidence in the unconvinced… And so, bhikkhus, this training rule should be recited thus:
 
 450. ‘‘Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṃ dadeyya, pācittiya’’nti.
 
-450.“Whatever monk, being angry and displeased, strikes another monk, he commits a pācittiya offense.”
+450.“Whatever bhikkhu, being angry and displeased, strikes another bhikkhu, he commits a pācittiya offense.”
 
 451. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-451.“Now, whoever” means: whoever of such a description… “monk” means… In this context, this is the monk intended.
+451.“Now, whoever” means: whoever of such a description… “bhikkhu” means… In this context, this is the bhikkhu intended.
 
 Bhikkhussāti aññassa bhikkhussa.
 
-“A monk” means another monk.
+“A bhikkhu” means another bhikkhu.
 
 Kupito anattamanoti anabhiraddho āhatacitto khilajāto.
 

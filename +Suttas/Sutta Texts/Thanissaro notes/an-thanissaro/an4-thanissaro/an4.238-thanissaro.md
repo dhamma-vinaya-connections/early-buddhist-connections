@@ -15,7 +15,7 @@ language: "English"
 ## ## Bojjhaṅga Sutta
 
 
-“Monks, these four types of kamma have been directly known, verified, & made known by me. Which four? There is kamma that is dark with dark result. There is kamma that is bright with bright result. There is kamma that is dark & bright with dark & bright result. There is kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma.
+“bhikkhus, these four types of kamma have been directly known, verified, & made known by me. Which four? There is kamma that is dark with dark result. There is kamma that is bright with bright result. There is kamma that is dark & bright with dark & bright result. There is kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma.
 
 “And what is kamma that is dark with dark result? There is the case where a certain person fabricates an injurious bodily fabrication, fabricates an injurious verbal fabrication, fabricates an injurious mental fabrication. Having fabricated an injurious bodily fabrication, having fabricated an injurious verbal fabrication, having fabricated an injurious mental fabrication, he rearises in an injurious world. On rearising in an injurious world, there he is touched by injurious contacts. Touched by injurious contacts, he experiences feelings that are exclusively painful, like those of the beings in hell. This is called kamma that is dark with dark result.
 
@@ -25,7 +25,7 @@ language: "English"
 
 “And what is kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma? Mindfulness as a factor for awakening, analysis of qualities as a factor for awakening, persistence as a factor for awakening, rapture as a factor for awakening, calm as a factor for awakening, samādhi as a factor for awakening, equanimity as a factor for awakening. This is called kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma.
 
-“These, monks, are the four types of kamma directly known, verified, & made known by me.”
+“These, bhikkhus, are the four types of kamma directly known, verified, & made known by me.”
 
 See also: [[mn135-thanissaro]]; [[mn136-thanissaro]]; [[sn42.8-thanissaro]]; [[sn46.51-thanissaro]]; [[sn46.52-thanissaro]]; [[an2.18-thanissaro]]; [[an6.63-thanissaro]]
 

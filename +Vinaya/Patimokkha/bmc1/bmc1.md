@@ -216,7 +216,7 @@ Ultimately, the Buddha said, just as the sea has a single taste, that of salt, s
 
 “Discipline is for the sake of restraint, restraint for the sake of freedom from remorse, freedom from remorse for the sake of joy, joy for the sake of rapture, rapture for the sake of tranquility, tranquility for the sake of pleasure, pleasure for the sake of samādhi, samādhi for the sake of knowledge and vision of things as they have come to be, knowledge and vision of things as they have come to be for the sake of disenchantment, disenchantment for the sake of dispassion, dispassion for the sake of release, release for the sake of knowledge and vision of release, knowledge and vision of release for the sake of total unbinding through non-clinging.”—Pv.XII.2
 
-In establishing his religion of release, though, the Buddha did not simply set out a body of recommendations and rules. He also founded a company _(parisā)_ of followers. This company falls into four main groups: bhikkhus (monks), bhikkhunīs (nuns), lay men, and lay women. Although the Buddha saw no need to organize the laity in any manner, he arranged for the bhikkhus and bhikkhunīs—who had given up the entanglements of the household life to devote themselves more fully to the goal of release—to develop into communities. And he saw that they needed, as all communities do, ideals and standards, rules and customs to ensure their stability. This need is what gave rise to the Vinaya.
+In establishing his religion of release, though, the Buddha did not simply set out a body of recommendations and rules. He also founded a company _(parisā)_ of followers. This company falls into four main groups: bhikkhus (bhikkhus), bhikkhunīs (nuns), lay men, and lay women. Although the Buddha saw no need to organize the laity in any manner, he arranged for the bhikkhus and bhikkhunīs—who had given up the entanglements of the household life to devote themselves more fully to the goal of release—to develop into communities. And he saw that they needed, as all communities do, ideals and standards, rules and customs to ensure their stability. This need is what gave rise to the Vinaya.
 
 In the early years of the Buddha’s career, the texts tell us, there was no need to formulate monastic disciplinary rules. All of the bhikkhus in his following—the Community of bhikkhunīs had not yet been started—were men of high personal attainments who had succeeded in subduing many or all of their mental defilements. They knew his teachings well and behaved accordingly. The Canon tells of how Ven. Sāriputta, one of the Buddha’s foremost disciples, asked the Buddha at an early date to formulate a Pāṭimokkha, or code of rules, to ensure that the celibate life the Buddha had founded would last long, just as a thread holding together a floral arrangement ensures that the flowers are not scattered by the wind. The Buddha replied that the time for such a code had not yet come, for even the most backward of the men in the Community at that time had already had their first glimpse of the goal. Only when mental effluents _(āsava)_ made themselves felt in the Community would there be a need for a Pāṭimokkha.
 
@@ -250,7 +250,7 @@ This was where the Buddha formulated the training rule, after first stating his 
 
 “‘In that case, bhikkhus, I will formulate a training rule for the bhikkhus with ten aims in mind: the excellence of the Community, the comfort of the Community, the curbing of the impudent, the comfort of well-behaved bhikkhus, the restraint of effluents related to the present life, the prevention of effluents related to the next life, the arousing of faith in the faithless, the increase of the faithful, the establishment of the true Dhamma, and the fostering of discipline.’”
 
-These reasons fall into three main types. The first two are external: 1) to ensure peace and well being within the Community itself, and 2) to foster and protect faith among the laity, on whom the bhikkhus depend for their support. (The origin stories of the various rules depict the laity as being very quick to generalize. One bhikkhu misbehaves, and they complain, “How can these Sakyan-son monks do that?”) The third type of reason, though, is internal: The rule is to help restrain and prevent mental effluents within the individual bhikkhus. Thus the rules aim not only at the external well being of the Community but also at the internal well being of the individual. This latter point soon becomes apparent to anyone who seriously tries to keep to the rules, for they foster mindfulness and circumspection in one’s actions, qualities that carry over into the training of the mind.
+These reasons fall into three main types. The first two are external: 1) to ensure peace and well being within the Community itself, and 2) to foster and protect faith among the laity, on whom the bhikkhus depend for their support. (The origin stories of the various rules depict the laity as being very quick to generalize. One bhikkhu misbehaves, and they complain, “How can these Sakyan-son bhikkhus do that?”) The third type of reason, though, is internal: The rule is to help restrain and prevent mental effluents within the individual bhikkhus. Thus the rules aim not only at the external well being of the Community but also at the internal well being of the individual. This latter point soon becomes apparent to anyone who seriously tries to keep to the rules, for they foster mindfulness and circumspection in one’s actions, qualities that carry over into the training of the mind.
 
 Over the course of time the Buddha formulated more than 200 major and minor rules, forming the Pāṭimokkha that was recited fortnightly in each Community of bhikkhus. In addition, he formulated many other minor rules that were memorized by those of his followers who specialized in the subject of discipline, but nothing is known for sure of what format they used to organize this body of knowledge during his lifetime.
 
@@ -1843,7 +1843,7 @@ This rule has sometimes been viewed as a sign of prejudice against women. But, a
 
 “When this was said, his wife said to him, ‘From where does he get his grandeur? He rubbed up against me limb by limb just the way you do!’
 
-“So the brahman criticized and complained and spread it about: ‘They’re shameless, these bhikkhus—immoral, liars!… How can this contemplative Udāyin rub up against my wife limb by limb? It isn’t possible to go with your family wives, daughters, girls, daughters-in-law, and female slaves to a monastery or dwelling. If family wives, daughters, girls, daughters-in-law, and female slaves go to a monastery or dwelling, the Sakyan-son monks will molest them!’”
+“So the brahman criticized and complained and spread it about: ‘They’re shameless, these bhikkhus—immoral, liars!… How can this contemplative Udāyin rub up against my wife limb by limb? It isn’t possible to go with your family wives, daughters, girls, daughters-in-law, and female slaves to a monastery or dwelling. If family wives, daughters, girls, daughters-in-law, and female slaves go to a monastery or dwelling, the Sakyan-son bhikkhus will molest them!’”
 
 There are two ways in which a bhikkhu can come into contact with a woman: either actively (the bhikkhu makes the contact) or passively (the woman does). Because the Vibhaṅga uses different terms to analyze these two possibilities, we will discuss them separately.
 
@@ -2455,7 +2455,7 @@ This is just the heart of the origin story to this rule, which is one of the lon
 
 “So the bhikkhus criticized and complained and spread it about, ‘How can the followers of Mettiya and Bhummaja charge Ven. Dabba Mallaputta with an unfounded case entailing defeat?’”
 
-In the centuries after the Canon was composed, however, many people have criticized and complained more about the Buddha’s treatment of Mettiyā Bhikkhunī. According to the Commentary, her expulsion was one of the controversial points dividing the bhikkhus in the Abhayagiri Vihāra from those in the Mahāvihāra in the old Sri Lankan capital of Anurādhapura. Even modern scholars have objected to the Buddha’s treatment of Mettiyā Bhikkhunī and interpret this passage as a “monkish gloss,” as if the Buddha himself were not a monk, and the entire Canon not the work of monks and nuns. The Commentary maintains that the Buddha acted as he did because he knew if he treated her less harshly, the followers of Mettiya and Bhummaja would never have volunteered the information that they had put her up to making the charge in the first place, and the truth would never have come out. This would have led some people to remain secretly convinced of Ven. Dabba Mallaputta’s guilt and—because he was an arahant—would have been for their long-term detriment and harm.
+In the centuries after the Canon was composed, however, many people have criticized and complained more about the Buddha’s treatment of Mettiyā Bhikkhunī. According to the Commentary, her expulsion was one of the controversial points dividing the bhikkhus in the Abhayagiri Vihāra from those in the Mahāvihāra in the old Sri Lankan capital of Anurādhapura. Even modern scholars have objected to the Buddha’s treatment of Mettiyā Bhikkhunī and interpret this passage as a “monkish gloss,” as if the Buddha himself were not a monk, and the entire Canon not the work of bhikkhus and nuns. The Commentary maintains that the Buddha acted as he did because he knew if he treated her less harshly, the followers of Mettiya and Bhummaja would never have volunteered the information that they had put her up to making the charge in the first place, and the truth would never have come out. This would have led some people to remain secretly convinced of Ven. Dabba Mallaputta’s guilt and—because he was an arahant—would have been for their long-term detriment and harm.
 
 At any rate, what concerns us here is that at some point after this rule was formulated, the Buddha put the Saṅgha in charge of judging accusations of this sort and gave them a definite pattern to follow to ensure that their judgments would be as fair and accurate as possible. Because the Vibhaṅga and Commentary to this rule are based on this pattern, we will discuss the pattern first before dealing with the special case—unfounded charges—covered by this rule.
 
@@ -3494,7 +3494,7 @@ Should any bhikkhu ask for robe-cloth from a man or woman householder unrelated 
 
 “So the financier’s son, being pressured by Ven. Upananda, left having given him one cloth. People seeing him said to him, ‘Why, master, are you going around wearing only one cloth?’
 
-“He told them what had happened. So the people criticized and complained and spread it about, ‘They’re arrogant, these Sakyan-son monks, and malcontent. It’s no simple matter to make a reasonable offer to them. How can they, after being made a reasonable offer by the financier’s son, take his cloth?’”
+“He told them what had happened. So the people criticized and complained and spread it about, ‘They’re arrogant, these Sakyan-son bhikkhus, and malcontent. It’s no simple matter to make a reasonable offer to them. How can they, after being made a reasonable offer by the financier’s son, take his cloth?’”
 
 The factors for an offense here are three.
 
@@ -3573,7 +3573,7 @@ This rule is a continuation of the preceding one, dealing with the protocol in a
 
 “And another said, ‘I gave, too.’
 
-“So they criticized and complained and spread it about: ‘How can these Sakyan-son monks, not knowing moderation, ask for a lot of robe-cloth? Will the Sakyan-son monks deal in the cloth business? Or will they set up a shop?’”
+“So they criticized and complained and spread it about: ‘How can these Sakyan-son bhikkhus, not knowing moderation, ask for a lot of robe-cloth? Will the Sakyan-son bhikkhus deal in the cloth business? Or will they set up a shop?’”
 
 #### Protocol
 
@@ -3628,7 +3628,7 @@ In case a man or woman householder unrelated (to the bhikkhu) prepares a robe fu
 
 “‘Well, if you want to clothe me with a robe, clothe me with a robe like this. What use is it to me to be clothed with a robe I won’t use?’
 
-“So the man criticized and complained and spread it about, ‘They’re arrogant, these Sakyan-son monks, and malcontent. It’s no simple matter to clothe them with a robe. How can this Master Upananda, without having first been invited by me, make a stipulation concerning a robe?’”
+“So the man criticized and complained and spread it about, ‘They’re arrogant, these Sakyan-son bhikkhus, and malcontent. It’s no simple matter to clothe them with a robe. How can this Master Upananda, without having first been invited by me, make a stipulation concerning a robe?’”
 
 The situation covered by this rule is this: An unrelated lay person has put aside resources for purchasing robe-cloth to present to a bhikkhu but without yet asking the bhikkhu what kind of cloth he wants. The factors for the offense here are four.
 
@@ -3726,7 +3726,7 @@ Even given this allowance, though, it is important that the bhikkhu, in his deal
 
 “‘Wait for the rest of today, venerable sir. Today there is a town meeting, and the town has made an agreement that whoever comes late is fined 50 _(kahāpaṇas).’_
 
-“‘Friend, give me the robe this very day!’ (Saying this,) he grabbed hold of him by the belt. So the lay follower, being pressured by Ven. Upananda the Sakyan, purchased a robe for him and came late. The people said to the lay follower, ‘Why, master, have you come late? You’ve lost 50!’ So he told them what had happened. They criticized and complained and spread it about, ‘They’re arrogant, these Sakyan-son monks, and malcontent. It’s no simple matter even to render them a service. How can Upananda the Sakyan, being told by a layman, “Wait for the rest of today, venerable sir,” not wait?’”
+“‘Friend, give me the robe this very day!’ (Saying this,) he grabbed hold of him by the belt. So the lay follower, being pressured by Ven. Upananda the Sakyan, purchased a robe for him and came late. The people said to the lay follower, ‘Why, master, have you come late? You’ve lost 50!’ So he told them what had happened. They criticized and complained and spread it about, ‘They’re arrogant, these Sakyan-son bhikkhus, and malcontent. It’s no simple matter even to render them a service. How can Upananda the Sakyan, being told by a layman, “Wait for the rest of today, venerable sir,” not wait?’”
 
 #### Stewards
 
@@ -3972,7 +3972,7 @@ Summary: Making a felt blanket/rug that is more than one-half black wool for one
 
 When a bhikkhu has had a new felt (blanket/rug) made, he is to keep it for (at least) six years. If after less than six years he should have another new felt (blanket/rug) made, regardless of whether or not he has disposed of the first, then—unless he has been authorized by the bhikkhus—it is to be forfeited and confessed.
 
-“Now at that time bhikkhus were (each) having a new felt blanket/rug made every year. They were constantly begging, constantly hinting, ‘Give wool. We need wool.’ People criticized and complained and spread it about, ‘How can these Sakyan-son monks have a new felt blanket/rug made every year?… The felt blanket/rugs we make for ourselves last five or six years, even though our children wet them and soil them, and they get chewed on by rats. But these Sakyan-son monks have a new felt blanket/rug made every year and are constantly begging, constantly hinting, ‘Give wool. We need wool.’”
+“Now at that time bhikkhus were (each) having a new felt blanket/rug made every year. They were constantly begging, constantly hinting, ‘Give wool. We need wool.’ People criticized and complained and spread it about, ‘How can these Sakyan-son bhikkhus have a new felt blanket/rug made every year?… The felt blanket/rugs we make for ourselves last five or six years, even though our children wet them and soil them, and they get chewed on by rats. But these Sakyan-son bhikkhus have a new felt blanket/rug made every year and are constantly begging, constantly hinting, ‘Give wool. We need wool.’”
 
 There are three factors for the full offense here.
 
@@ -4645,7 +4645,7 @@ On the practical side, if the exemption _abandons it_ covers cases where a bhikk
 
 “The people, saying, ‘A psychic wonder, a superior human feat, they say, was displayed to the king and his retinue by the master Pilindavaccha,’ were pleased and delighted. They presented Ven. Pilindavaccha with the five tonics: ghee, fresh butter, oil, honey, and sugar.
 
-“Now ordinarily Ven. Pilindavaccha was already a receiver of the five tonics (§), so he distributed his gains among his company, who came to live in abundance. They put away their gains, having filled pots and pitchers. They hung up their gains in windows, having filled water strainers and bags. These kept oozing and seeping, and their dwellings were crawling and creeping with rats. People, engaged in a tour of the dwellings and seeing this, criticized and complained and spread it about, ‘These Sakyan-son monks have inner storerooms like the king….’”
+“Now ordinarily Ven. Pilindavaccha was already a receiver of the five tonics (§), so he distributed his gains among his company, who came to live in abundance. They put away their gains, having filled pots and pitchers. They hung up their gains in windows, having filled water strainers and bags. These kept oozing and seeping, and their dwellings were crawling and creeping with rats. People, engaged in a tour of the dwellings and seeing this, criticized and complained and spread it about, ‘These Sakyan-son bhikkhus have inner storerooms like the king….’”
 
 Thus it seems more likely that the Vibhaṅga’s non-offense clauses should be interpreted like this: A bhikkhu is no longer held responsible for a tonic if he abandons it or gives it away—no matter to whom he gives it, or what his state of mind—but he may receive it in return and use it another seven days _only_ if within the first seven days he has given it to an unordained person, having abandoned all possession of it in his mind.
 
@@ -5802,7 +5802,7 @@ The damaging of a living plant is to be confessed.
 
 “‘Very good, devatā, very good. It’s very good that you didn’t kill the bhikkhu. If you had killed him today, you would have produced much demerit for yourself. Now go, devatā. Over there is a vacant tree. Go into it.’ (The Commentary adds here that the tree, being in Jeta’s Grove, was a definite move up for the devatā. She had a front-row seat for overhearing the Buddha’s teachings well into the night; unlike other lesser devas she wasn’t pushed out to the far reaches of the galaxy when large groups of major devas met with the Buddha; and when the Four Great Kings came to attend to the Buddha, they always made a point of visiting her before leaving. However:)
 
-“People criticized and complained and spread it about, ‘How can these Sakyan-son monks cut down trees and have them cut down? They are mistreating one-facultied life.’”
+“People criticized and complained and spread it about, ‘How can these Sakyan-son bhikkhus cut down trees and have them cut down? They are mistreating one-facultied life.’”
 
 This is another offense with the four factors of object, effort, perception, and intention.
 
@@ -5848,7 +5848,7 @@ Intention is discussed in detail under the non-offenses, below.
 
 ### Making fruit allowable
 
-Because fruit seeds are bījagāma, the question arises as to how bhikkhus should go about eating fruit. The Commentary to this rule discusses in detail two passages, one each in the Mahāvagga (VI. 21) and the Cullavagga (V.5.2), dealing with precisely this question. The Cullavagga passage reads, “I allow you, bhikkhus, to consume fruit that has been made allowable for monks in any of five ways: if it is damaged by fire, by a knife, by a fingernail, if it is seedless, and the fifth is if the seeds are discharged.” The Mahāvagga passage reads, “Now at that time there was a great quantity of fruit at Sāvatthī, but there was no one to make it allowable…. (The Buddha said,) ‘I allow that fruit that is seedless or whose seeds are discharged be consumed (even if) it has not been made allowable.”
+Because fruit seeds are bījagāma, the question arises as to how bhikkhus should go about eating fruit. The Commentary to this rule discusses in detail two passages, one each in the Mahāvagga (VI. 21) and the Cullavagga (V.5.2), dealing with precisely this question. The Cullavagga passage reads, “I allow you, bhikkhus, to consume fruit that has been made allowable for bhikkhus in any of five ways: if it is damaged by fire, by a knife, by a fingernail, if it is seedless, and the fifth is if the seeds are discharged.” The Mahāvagga passage reads, “Now at that time there was a great quantity of fruit at Sāvatthī, but there was no one to make it allowable…. (The Buddha said,) ‘I allow that fruit that is seedless or whose seeds are discharged be consumed (even if) it has not been made allowable.”
 
 First, to summarize the commentaries’ discussion of seedless fruit and fruit whose seeds have been discharged: According to the Commentary to the Mahāvagga, _seedless fruit_ includes fruit whose seeds are too immature to grow. As for fruit whose seeds have been discharged, the Sub-commentary states that this means, “Fruit, such as mangoes or jackfruit, which it is possible to eat having removed the seeds and separating them entirely (from the flesh).”
 
@@ -6707,7 +6707,7 @@ Summary: Traveling by arrangement with a bhikkhunī from one village to another�
 
 Should any bhikkhu, by arrangement, get in the same boat with a bhikkhunī going upstream or downstream—except to cross over to the other bank—it is to be confessed.
 
-“Now at that time, some group-of-six bhikkhus, having made an arrangement with some bhikkhunīs, got in the same boat with them. People criticized and complained and spread it about: ‘Just as we sport with our wives in a boat, so too these Sakyan-son monks, having made an arrangement with bhikkhunīs, sport with them in a boat….’”
+“Now at that time, some group-of-six bhikkhus, having made an arrangement with some bhikkhunīs, got in the same boat with them. People criticized and complained and spread it about: ‘Just as we sport with our wives in a boat, so too these Sakyan-son bhikkhus, having made an arrangement with bhikkhunīs, sport with them in a boat….’”
 
 (The Buddha then formulated the first version of this rule, without the exception for crossing over to the other bank.)
 
@@ -6869,7 +6869,7 @@ _4) Fish:_ the flesh of any animal living in the water.
 
 _5) Meat:_ the flesh of any animal living on land, except for that which is unallowable. Because the Commentary, in discussing unallowable meat, uses the word _meat_ to cover all parts of an animal’s body, the same convention would apply to allowable meat (and to fish) as well. Thus it covers the liver, kidneys, eggs, etc., of any animal whose flesh is allowable.
 
-The Mahāvagga ([[VIN-MV6.23.9-15]]) forbids ten kinds of flesh: that of human beings, elephants, horses, dogs, snakes, lions, tigers, leopards, bears, and hyenas. To eat human flesh entails a thullaccaya; to eat any of the other unallowable types, a dukkaṭa. Human beings, horses, and elephants were regarded as too noble to be used as food. The other types of meat were forbidden either on grounds that they were repulsive (“People criticized and complained and spread it about, ‘How can these Sakyan-son monks eat dog meat? Dogs are loathsome, disgusting’”) or dangerous (bhikkhus, smelling of lion’s flesh, went into the jungle; the lions there, instead of criticizing or complaining, attacked them).
+The Mahāvagga ([[VIN-MV6.23.9-15]]) forbids ten kinds of flesh: that of human beings, elephants, horses, dogs, snakes, lions, tigers, leopards, bears, and hyenas. To eat human flesh entails a thullaccaya; to eat any of the other unallowable types, a dukkaṭa. Human beings, horses, and elephants were regarded as too noble to be used as food. The other types of meat were forbidden either on grounds that they were repulsive (“People criticized and complained and spread it about, ‘How can these Sakyan-son bhikkhus eat dog meat? Dogs are loathsome, disgusting’”) or dangerous (bhikkhus, smelling of lion’s flesh, went into the jungle; the lions there, instead of criticizing or complaining, attacked them).
 
 The Commentary adds three comments here: (a) These prohibitions cover not only the meat of these animals but also their blood, bones, skin, and hide (the layer of tissue just under the skin—see [[AN4.113]]). (b) The prohibition against dog flesh does not include wild dogs, such as wolves and foxes, (but many teachers—including the Thai translator of the Commentary—question this point). The flesh of a half-dog half-wolf mixture, however, would be forbidden. (c) The prohibition against snake flesh covers the flesh of all long, footless beings. Thus eels would not be allowed. (Many Communities question this last point as well.)
 
@@ -6952,7 +6952,7 @@ A bhikkhu who is not ill may eat one meal at a public alms center. Should he eat
 
 “Now at that time a certain guild had prepared food at a public alms center not far from Sāvatthī. Some group-of-six bhikkhus, dressing early in the morning, taking their bowls and (outer) robes, entered Sāvatthī for alms but, after not getting any almsfood, went to the public alms center. The people there said, ‘At long last your reverences have come,’ and respectfully waited on them. Then on the second day… the third day, the group-of-six bhikkhus… entered Sāvatthī for alms but, after not getting any almsfood went to the public alms center and ate. The thought occurred to them, ‘What’s the use of our going back to the monastery? (§) Tomorrow we’ll have to come right back here.’
 
-“So staying on and on right there, they ate the food of the public alms center. The members of other religions fled the place. People criticized and complained and spread it about: ‘How can these Sakyan-son monks stay on and on, eating the food of the public alms center? The food at the public alms center isn’t prepared just for them; it’s prepared for absolutely everybody.’”
+“So staying on and on right there, they ate the food of the public alms center. The members of other religions fled the place. People criticized and complained and spread it about: ‘How can these Sakyan-son bhikkhus stay on and on, eating the food of the public alms center? The food at the public alms center isn’t prepared just for them; it’s prepared for absolutely everybody.’”
 
 A _public alms center_ is a place—in a building, under the shade of a tree, or in the open air—where all comers are offered as much food as they want, free of charge. Soup kitchens and shelters for the homeless, if run in this way, would fit under this rule. A _meal_ is defined as one that includes any of the five staple foods. _Not ill_ in this rule is defined as being able to leave the alms center.
 
@@ -6985,11 +6985,11 @@ Summary: Eating food obtained from the same public alms center two days running�
 ## PC32
 > [!tip] 🌐 Rule Overview [[BU-PC32]]
 
-A group meal, except at the proper occasions, is to be confessed. Here the proper occasions are these: a time of illness, a time of giving cloth, a time of making robes, a time of going on a journey, a time of embarking on a boat, a great occasion, a time when the meal is supplied by monks. These are the proper occasions here.
+A group meal, except at the proper occasions, is to be confessed. Here the proper occasions are these: a time of illness, a time of giving cloth, a time of making robes, a time of going on a journey, a time of embarking on a boat, a great occasion, a time when the meal is supplied by bhikkhus. These are the proper occasions here.
 
 This is a rule dating from Devadatta’s efforts to create a schism in the Saṅgha.
 
-“Now at that time Devadatta, his gain and offerings diminished, ate his meals with his following having asked and asked for them among households. (Here the Commentary elaborates: ‘Thinking, “Don’t let my group fall apart,” he provided for his following by eating his meals among households together with his following, having asked for them thus: “You give food to one bhikkhu. You give food to two.”’) People criticized and complained and spread it about: ‘How can these Sakyan-son monks eat their meals having asked and asked for them among households? Who isn’t fond of well-prepared things? Who doesn’t like sweet things?’”
+“Now at that time Devadatta, his gain and offerings diminished, ate his meals with his following having asked and asked for them among households. (Here the Commentary elaborates: ‘Thinking, “Don’t let my group fall apart,” he provided for his following by eating his meals among households together with his following, having asked for them thus: “You give food to one bhikkhu. You give food to two.”’) People criticized and complained and spread it about: ‘How can these Sakyan-son bhikkhus eat their meals having asked and asked for them among households? Who isn’t fond of well-prepared things? Who doesn’t like sweet things?’”
 
 ### Group meals
 
@@ -7061,7 +7061,7 @@ _A time of illness_ is, in its minimal terms, a time when the bhikkhus’ feet a
 
 _A great occasion_ is one in which there are so many bhikkhus in proportion to the donors giving alms that three bhikkhus going for alms can obtain enough food to support themselves, but not enough to support a fourth.
 
-_A meal supplied by monks_ is one provided by a person who has taken on the state of religious wanderer. This the Commentary explains as meaning not only those ordained in other religions, but also one’s own co-religionists (bhikkhus, bhikkhunīs, and novices) as well; the Vibhaṅga’s definition of “one who has taken on the state of religious wanderer” under [[BU-PC41]] suggests that the Commentary is correct. This exemption, as its origin story makes clear, was formulated to promote good relations between bhikkhus and members of other religions, but it also means that a bhikkhu, from his own resources, can provide food for a group of his friends without incurring an offense. Although this exemption could thus open the door for wealthy bhikkhus to attract factions, as long as they are not getting their funds from lay donors, they would be placing no burden on the laity, which seems to be the most important of the purposes for this rule.
+_A meal supplied by bhikkhus_ is one provided by a person who has taken on the state of religious wanderer. This the Commentary explains as meaning not only those ordained in other religions, but also one’s own co-religionists (bhikkhus, bhikkhunīs, and novices) as well; the Vibhaṅga’s definition of “one who has taken on the state of religious wanderer” under [[BU-PC41]] suggests that the Commentary is correct. This exemption, as its origin story makes clear, was formulated to promote good relations between bhikkhus and members of other religions, but it also means that a bhikkhu, from his own resources, can provide food for a group of his friends without incurring an offense. Although this exemption could thus open the door for wealthy bhikkhus to attract factions, as long as they are not getting their funds from lay donors, they would be placing no burden on the laity, which seems to be the most important of the purposes for this rule.
 
 Aside from the proper occasions, there is no offense—
 
@@ -7157,7 +7157,7 @@ The purpose of this rule is to prevent bhikkhus from abusing a donor’s generos
 
 The origin story deals with two separate cases. In the first, a woman named Kāṇā is about to return to her husband’s house after visiting her parents. Her mother, thinking, “How can one go empty-handed?” bakes some cakes. A bhikkhu comes, and the mother—being a faithful lay follower—presents him with the cakes and then bakes some more to replace them. The bhikkhu, meanwhile, has informed another bhikkhu that cakes are baking at Kāṇā’s house, so the second bhikkhu goes and receives the second batch of cakes. This process keeps up until Kāṇā’s husband tires of waiting for her and takes another woman for his wife. The Commentary notes, reasonably enough, that Kāṇā developed a long-term grudge against Buddhism as a result of this incident.
 
-In the second case, a man is preparing provisions for a journey by caravan. A similar series of events takes place, and he eventually ends up tagging along behind the caravan and getting robbed. People criticize and complain as usual, and spread it about, “How can these Sakyan-son monks accept food without knowing moderation?”
+In the second case, a man is preparing provisions for a journey by caravan. A similar series of events takes place, and he eventually ends up tagging along behind the caravan and getting robbed. People criticize and complain as usual, and spread it about, “How can these Sakyan-son bhikkhus accept food without knowing moderation?”
 
 There are two factors for the full offense here.
 
@@ -7738,7 +7738,7 @@ The second story, though, gives a better idea of the reason for the rule:
 
 “‘At a distribution of food by that shaveling householder, the Gotama monk.’”
 
-This training rule is corollary to the preceding one. Other religions at the Buddha’s time observed the formalities of receiving food from their lay followers just as the bhikkhus did, and thus a bhikkhu who gave food in such a way to a mendicant ordained in another religion would be placing himself in the position of a lay follower of that religion, as the second origin story shows. An interesting point about this rule is that the Buddha formulated it at the request of Buddhist lay followers. Having overheard the naked ascetics’ conversation, they said to him, “Venerable sir, these adherents of other religions enjoy criticizing the Buddha… Dhamma… and Saṅgha. It would be good if the masters did not give to adherents of other religions with their own hands.”
+This training rule is corollary to the preceding one. Other religions at the Buddha’s time observed the formalities of receiving food from their lay followers just as the bhikkhus did, and thus a bhikkhu who gave food in such a way to a bhikkhu ordained in another religion would be placing himself in the position of a lay follower of that religion, as the second origin story shows. An interesting point about this rule is that the Buddha formulated it at the request of Buddhist lay followers. Having overheard the naked ascetics’ conversation, they said to him, “Venerable sir, these adherents of other religions enjoy criticizing the Buddha… Dhamma… and Saṅgha. It would be good if the masters did not give to adherents of other religions with their own hands.”
 
 ### Object
 
@@ -8958,9 +8958,9 @@ Should any bhikkhu knowingly give full Acceptance (ordination) to an individual 
 
 The origin story here tells how the group of seventeen came to be ordained.
 
-“Now at that time in Rājagaha, a group of seventeen boys were friends, with the boy Upāli as their leader. Then the thought occurred to Upāli’s parents, ‘By what means could Upāli, after our death, live pleasantly and not suffer?… If he studies writing, his fingers will hurt…. If he studies calculation, his breast will hurt…. If he studies money changing, his eyes will hurt. Now, these Sakyan-son monks are of pleasant virtue and conduct. Having eaten good meals, they lie down in beds sheltered from the wind. If Upāli went forth among the Sakyan-son monks, he would live pleasantly after our death and not suffer.’
+“Now at that time in Rājagaha, a group of seventeen boys were friends, with the boy Upāli as their leader. Then the thought occurred to Upāli’s parents, ‘By what means could Upāli, after our death, live pleasantly and not suffer?… If he studies writing, his fingers will hurt…. If he studies calculation, his breast will hurt…. If he studies money changing, his eyes will hurt. Now, these Sakyan-son bhikkhus are of pleasant virtue and conduct. Having eaten good meals, they lie down in beds sheltered from the wind. If Upāli went forth among the Sakyan-son bhikkhus, he would live pleasantly after our death and not suffer.’
 
-“The boy Upāli heard his parents’ conversation. So he went to the boys… and said, ‘Come, masters, let’s go forth among the Sakyan-son monks.’
+“The boy Upāli heard his parents’ conversation. So he went to the boys… and said, ‘Come, masters, let’s go forth among the Sakyan-son bhikkhus.’
 
 “‘If you go forth, master, so will we.’
 
@@ -12670,9 +12670,9 @@ Apalokana: announcement; the simplest form for a Community transaction, in which
 
 Bhattuddesaka: a meal distributor—the Community official in charge of distributing meals and invitations to meals. See [[BU-PC32]], [[Section0028.html#appendixIII|Appendix III]], and [[bmc2#^ch18|BMC2, Chapter 18]].
 
-Bhikkhu: a male mendicant ordained in the Bhikkhu Saṅgha, subject to the training rules of the Bhikkhu Pāṭimokkha and the Khandhakas (the Mahāvagga and Cullavagga).
+Bhikkhu: a male bhikkhu ordained in the Bhikkhu Saṅgha, subject to the training rules of the Bhikkhu Pāṭimokkha and the Khandhakas (the Mahāvagga and Cullavagga).
 
-Bhikkhunī: a female mendicant ordained by both the Bhikkhunī and the Bhikkhu Saṅghas, subject to the training rules of the Bhikkhunī Pāṭimokkha and the eight rules of respect _(garu-dhamma)._ See [[BU-PC21]] and [[bmc2#^ch23|BMC2, Chapter 23]].
+Bhikkhunī: a female bhikkhu ordained by both the Bhikkhunī and the Bhikkhu Saṅghas, subject to the training rules of the Bhikkhunī Pāṭimokkha and the eight rules of respect _(garu-dhamma)._ See [[BU-PC21]] and [[bmc2#^ch23|BMC2, Chapter 23]].
 
 Bhojana/Bhojaniya: staple food. See the introduction to the [[Section0019.html#Pc_ChFour|Food Chapter]] in [[bmc1#^ch8|Chapter 8]].
 

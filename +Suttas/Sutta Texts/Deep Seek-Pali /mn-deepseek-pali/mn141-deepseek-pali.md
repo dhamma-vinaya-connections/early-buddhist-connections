@@ -72,7 +72,7 @@ language: "English - Pali"
 
 387. Evaṃ vutte, anāthapiṇḍiko gahapati parodi, assūni pavattesi. Atha kho āyasmā ānando anāthapiṇḍikaṃ gahapatiṃ etadavoca – ‘‘olīyasi kho tvaṃ, gahapati, saṃsīdasi kho tvaṃ, gahapatī’’ti? ‘‘Nāhaṃ, bhante ānanda, olīyāmi, napi saṃsīdāmi; api ca me dīgharattaṃ satthā payirupāsito manobhāvanīyā ca bhikkhū; na ca me evarūpī dhammī kathā sutapubbā’’ti. ‘‘Na kho, gahapati, gihīnaṃ odātavasanānaṃ evarūpī dhammī kathā paṭibhāti; pabbajitānaṃ kho, gahapati, evarūpī dhammī kathā paṭibhātī’’ti. ‘‘Tena hi, bhante sāriputta, gihīnampi odātavasanānaṃ evarūpī dhammī kathā paṭibhātu. Santi hi, bhante, kulaputtā apparajakkhajātikā, assavanatā dhammassa parihāyanti; bhavissanti dhammassa aññātāro’’ti.
 
-387.When this was said, the householder Anāthapiṇḍika wept and shed tears. Then Venerable Ānanda said to the householder Anāthapiṇḍika, "Are you drooping, householder? Are you dejected, householder?" "I am not drooping, Venerable Ānanda, nor am I dejected; but for a long time I have attended on the Teacher and the monks who inspire the mind, yet never before have I heard such a Dhamma talk." "Such Dhamma talks, householder, do not occur to laypeople clad in white; they are apparent to those gone forth." "Well then, Venerable Sāriputta, let such Dhamma talks be apparent to laypeople clad in white. For there are, Venerable Sir, young men of good family with little dust in their eyes who decline through not hearing the Dhamma; there will be those who understand the Dhamma."
+387.When this was said, the householder Anāthapiṇḍika wept and shed tears. Then Venerable Ānanda said to the householder Anāthapiṇḍika, "Are you drooping, householder? Are you dejected, householder?" "I am not drooping, Venerable Ānanda, nor am I dejected; but for a long time I have attended on the Teacher and the bhikkhus who inspire the mind, yet never before have I heard such a Dhamma talk." "Such Dhamma talks, householder, do not occur to laypeople clad in white; they are apparent to those gone forth." "Well then, Venerable Sāriputta, let such Dhamma talks be apparent to laypeople clad in white. For there are, Venerable Sir, young men of good family with little dust in their eyes who decline through not hearing the Dhamma; there will be those who understand the Dhamma."
 
 Atha kho āyasmā ca sāriputto āyasmā ca ānando anāthapiṇḍikaṃ gahapatiṃ iminā ovādena ovaditvā uṭṭhāyāsanā pakkamiṃsu. Atha kho anāthapiṇḍiko gahapati, acirapakkante āyasmante ca sāriputte āyasmante ca ānande, kālamakāsi tusitaṃ kāyaṃ upapajji. Atha kho anāthapiṇḍiko devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho anāthapiṇḍiko devaputto bhagavantaṃ gāthāhi ajjhabhāsi –
 
@@ -80,7 +80,7 @@ Then the Venerable Sāriputta and the Venerable Ānanda, having given this advic
 
 ‘‘Idañhi taṃ jetavanaṃ, isisaṅghanisevitaṃ;Āvutthaṃ dhammarājena, pītisañjananaṃ mama.
 
-"Indeed, this is that Jeta's Grove, frequented by the community of monks, inhabited by the King of Dhamma, it generates joy in me."
+"Indeed, this is that Jeta's Grove, frequented by the community of bhikkhus, inhabited by the King of Dhamma, it generates joy in me."
 
 ‘‘Kammaṃ vijjā ca dhammo ca, sīlaṃ jīvitamuttamaṃ;Etena maccā sujjhanti, na gottena dhanena vā.
 
@@ -100,11 +100,11 @@ This Anāthapiṇḍika-deva said. The Teacher approved. Then Anāthapiṇḍika
 
 388. Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi – ‘‘imaṃ, bhikkhave, rattiṃ aññataro devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ jetavanaṃ obhāsetvā yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho so devaputto maṃ gāthāhi ajjhabhāsi –
 
-388.Then, when the night had passed, the Blessed One addressed the monks: "Last night, monks, a certain deity, when the night was far advanced, with surpassing radiance illuminating the entire Jeta Grove, approached me. Having approached, he paid homage to me and stood to one side. Standing to one side, that deity addressed me in verses:
+388.Then, when the night had passed, the Blessed One addressed the bhikkhus: "Last night, bhikkhus, a certain deity, when the night was far advanced, with surpassing radiance illuminating the entire Jeta Grove, approached me. Having approached, he paid homage to me and stood to one side. Standing to one side, that deity addressed me in verses:
 
 ‘‘Idañhi taṃ jetavanaṃ, isisaṅghanisevitaṃ;Āvutthaṃ dhammarājena, pītisañjananaṃ mama.
 
-"Indeed, this is that Jeta's Grove, frequented by the community of monks, inhabited by the King of Dhamma, it generates joy in me."
+"Indeed, this is that Jeta's Grove, frequented by the community of bhikkhus, inhabited by the King of Dhamma, it generates joy in me."
 
 ‘‘Kammaṃ vijjā ca dhammo ca, sīlaṃ jīvitamuttamaṃ;Etena maccā sujjhanti, na gottena dhanena vā.
 
@@ -120,7 +120,7 @@ This Anāthapiṇḍika-deva said. The Teacher approved. Then Anāthapiṇḍika
 
 ‘‘Idamavoca, bhikkhave, so devaputto. ‘Samanuñño me satthā’ti maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyī’’ti.
 
-"This is what that young deva said, monks. "The Teacher approves of me," then, having paid homage to me and circumambulated me, he vanished right there."
+"This is what that young deva said, bhikkhus. "The Teacher approves of me," then, having paid homage to me and circumambulated me, he vanished right there."
 
 Evaṃ vutte, āyasmā ānando bhagavantaṃ etadavoca – ‘‘so hi nūna so, bhante, anāthapiṇḍiko devaputto bhavissati. Anāthapiṇḍiko, bhante, gahapati āyasmante sāriputte abhippasanno ahosī’’ti. ‘‘Sādhu, sādhu, ānanda! Yāvatakaṃ kho, ānanda, takkāya pattabbaṃ, anuppattaṃ taṃ tayā. Anāthapiṇḍiko so, ānanda, devaputto’’ti.
 

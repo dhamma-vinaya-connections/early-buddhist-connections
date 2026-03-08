@@ -23,13 +23,13 @@ language: "English"
 
 2. It was then that the monk Ariṣṭa, who before was Gṛdhabādhi, gave rise to this bad view: “I know the Bhagavān thus explains the teaching: ‘Engaging in desires is no obstruction.’”
 
-3. After the monks heard this, they went to the monk Ariṣṭa and asked, “Ariṣṭa, is it true that you say this: ‘I know the Bhagavān thus explains the teaching: “Engaging in desires is no obstruction”?’”
+3. After the bhikkhus heard this, they went to the monk Ariṣṭa and asked, “Ariṣṭa, is it true that you say this: ‘I know the Bhagavān thus explains the teaching: “Engaging in desires is no obstruction”?’”
 
 Ariṣṭa then answered, “Venerables, I really do know that the Bhagavān thus explains the teaching: ‘Engaging in desires is no obstruction.’”
 
-4. The monks reprimanded Ariṣṭa, “Don’t say that; don’t misrepresent the Bhagavān. Misrepresenting the Bhagavān is not good, nor does the Bhagavān teach that way. Ariṣṭa, desire is an obstruction. The Bhagavān has explained that desire is an obstruction in measureless ways. Ariṣṭa, you can quickly abandon this bad view!”
+4. The bhikkhus reprimanded Ariṣṭa, “Don’t say that; don’t misrepresent the Bhagavān. Misrepresenting the Bhagavān is not good, nor does the Bhagavān teach that way. Ariṣṭa, desire is an obstruction. The Bhagavān has explained that desire is an obstruction in measureless ways. Ariṣṭa, you can quickly abandon this bad view!”
 
-After he was reprimanded by those monks, the monk Ariṣṭa held to this bad view forcefully. He said to one of them, “This is the truth! The rest is a falsehood!” He said this three times.
+After he was reprimanded by those bhikkhus, the monk Ariṣṭa held to this bad view forcefully. He said to one of them, “This is the truth! The rest is a falsehood!” He said this three times.
 
 5. Being unable to convince the monk Ariṣṭa to abandon this bad view, they got up from their seats and departed. They went to the Buddha, bowed their heads as his feet, and withdrew to sit to one side. They said, “Bhagavān, the monk Ariṣṭa has formed this bad view: ‘I know the Bhagavān thus explains the teaching: “Engaging in desires is no obstruction.”’
 
@@ -41,7 +41,7 @@ After he was reprimanded by those monks, the monk Ariṣṭa held to this bad vi
 
 “After we reprimanded him, he held to this bad view forcefully. He said to one of us, ‘This is the truth! The rest is false!’ He said this three times. Bhagavān, since we were unable to convince him to abandon this bad view, we got up from our seats and departed.”
 
-8. After the Bhagavān heard this, he told one of the monks, “Go to that monk Ariṣṭa and tell him, ‘The Bhagavān summons you!’”
+8. After the Bhagavān heard this, he told one of the bhikkhus, “Go to that monk Ariṣṭa and tell him, ‘The Bhagavān summons you!’”
 
 That monk then did as the Bhagavān instructed. He got up from his seat, bowed his head at the Buddha’s feet, circled him three times, and departed. He went to the monk Ariṣṭa and told him, “The Bhagavān summons you!” The monk Ariṣṭa then went to the Buddha, bowed his head at his feet, and withdrew to sit to one side.
 
@@ -49,17 +49,17 @@ That monk then did as the Bhagavān instructed. He got up from his seat, bowed h
 
 Ariṣṭa answered him, “Bhagavān, I really know that the Bhagavān thus explains the teaching: ‘Engaging in desires is no obstruction.’”
 
-10. The Bhagavān reprimanded him, “Ariṣṭa, how do you know that I explain the teaching that way? From whose mouth did you hear that I explain the teaching that way? You foolish man! How can you say to someone what I haven’t said to someone? You foolish man! You heard the other monks reprimand you together. You then should have answered according to the teaching, ‘Now, I will ask the monks.’”
+10. The Bhagavān reprimanded him, “Ariṣṭa, how do you know that I explain the teaching that way? From whose mouth did you hear that I explain the teaching that way? You foolish man! How can you say to someone what I haven’t said to someone? You foolish man! You heard the other bhikkhus reprimand you together. You then should have answered according to the teaching, ‘Now, I will ask the bhikkhus.’”
 
-11. The Buddha then asked the monks, “Do you also thus know that I explain the teaching this way: ‘Engaging in desires is no obstruction’?”
+11. The Buddha then asked the bhikkhus, “Do you also thus know that I explain the teaching this way: ‘Engaging in desires is no obstruction’?”
 
-The monks replied, “No.”
+The bhikkhus replied, “No.”
 
 12. The Bhagavān asked, “How do you know how I explain the teaching?”
 
-The monks answered, “We know the Bhagavān explains the teaching this way: ‘Desire is an obstruction.’ The Bhagavān teaches that desire is an obstruction. Desire is like a chain of bones. The Bhagavān teaches that desire is like a chain of bones. Desire is like a cut of meat. The Bhagavān teaches that desire is like a cut of meat. Desire is like holding a torch. The Bhagavān teaches that desire is like holding a torch. Desire is like a fire pit. The Bhagavān teaches that desire is like a fire pit. Desire is like a viper. The Bhagavān teaches that desire is like a viper. Desire is like a dream. The Bhagavān teaches that desire is like a dream. Desire is like a loan. The Bhagavān teaches that desire is like a loan. Desire is like a tree fruit. The Bhagavān teaches that desire is like a tree fruit. We know that the Bhagavān explains the teaching this way.”
+The bhikkhus answered, “We know the Bhagavān explains the teaching this way: ‘Desire is an obstruction.’ The Bhagavān teaches that desire is an obstruction. Desire is like a chain of bones. The Bhagavān teaches that desire is like a chain of bones. Desire is like a cut of meat. The Bhagavān teaches that desire is like a cut of meat. Desire is like holding a torch. The Bhagavān teaches that desire is like holding a torch. Desire is like a fire pit. The Bhagavān teaches that desire is like a fire pit. Desire is like a viper. The Bhagavān teaches that desire is like a viper. Desire is like a dream. The Bhagavān teaches that desire is like a dream. Desire is like a loan. The Bhagavān teaches that desire is like a loan. Desire is like a tree fruit. The Bhagavān teaches that desire is like a tree fruit. We know that the Bhagavān explains the teaching this way.”
 
-13. The Bhagavān praised them, “Good! Good, monks! You know that I explain the teaching this way. Why is that? I also say this: ‘Desire is an obstruction.’ I teach that desire is an obstruction. Desire is like a chain of bones. I teach that desire is like a chain of bones. Desire is like a cut of meat. I teach that desire is like a cut of meat. Desire is like holding a torch. I teach that desire is like holding a torch. Desire is like a fire pit. I teach that desire is like a fire pit. Desire is like a viper. I teach that desire is like a viper. Desire is like a dream. I teach that desire is like a dream. Desire is like a loan. I teach that desire is like a loan. Desire is like a tree fruit. I teach that desire is like a tree fruit.”
+13. The Bhagavān praised them, “Good! Good, bhikkhus! You know that I explain the teaching this way. Why is that? I also say this: ‘Desire is an obstruction.’ I teach that desire is an obstruction. Desire is like a chain of bones. I teach that desire is like a chain of bones. Desire is like a cut of meat. I teach that desire is like a cut of meat. Desire is like holding a torch. I teach that desire is like holding a torch. Desire is like a fire pit. I teach that desire is like a fire pit. Desire is like a viper. I teach that desire is like a viper. Desire is like a dream. I teach that desire is like a dream. Desire is like a loan. I teach that desire is like a loan. Desire is like a tree fruit. I teach that desire is like a tree fruit.”
 
 14. The Bhagavān praised them again, “Good, good! All of you know that I explain the teaching this way. Still, this foolish man Ariṣṭa is mistaken in how he understands my meaning and words. Because he is mistaken in how he understands it, he misrepresents me. He does harm to himself; it’s a violation and a misdeed. It doesn’t please wise religious practitioners. He obtains a great misdeed by it. You foolish man, know that this is a bad and unwholesome position.”
 
@@ -67,7 +67,7 @@ The monks answered, “We know the Bhagavān explains the teaching this way: ‘
 
 #### The Snake Parable
 
-16. After he had personally rebuked that monk Ariṣṭa many times, the Bhagavān addressed the monks, “If my explanation of the teaching is entirely and fully understood, you must thus maintain it. If my explanation of the teaching is not entirely and fully understood, then you must ask me and other wise religious practitioners about it. Why is that? A deluded person might mistakenly understand its meaning and words. As a result of their own mistaken understanding, they’ll know the teaching to be ‘such and such,’ meaning the correct sūtras, songs, assurances, verses, circumstances, records, legends, lectures, birth places, extensive discourses, unprecedented things, and explanations of meaning. They know their meaning in order to debate it; they don’t know their meaning in order to be liberated. Their knowledge of the teaching doesn’t obtain its goal; they only experience suffering and trouble. Why is that? It’s because they mistakenly understand the teaching.
+16. After he had personally rebuked that monk Ariṣṭa many times, the Bhagavān addressed the bhikkhus, “If my explanation of the teaching is entirely and fully understood, you must thus maintain it. If my explanation of the teaching is not entirely and fully understood, then you must ask me and other wise religious practitioners about it. Why is that? A deluded person might mistakenly understand its meaning and words. As a result of their own mistaken understanding, they’ll know the teaching to be ‘such and such,’ meaning the correct sūtras, songs, assurances, verses, circumstances, records, legends, lectures, birth places, extensive discourses, unprecedented things, and explanations of meaning. They know their meaning in order to debate it; they don’t know their meaning in order to be liberated. Their knowledge of the teaching doesn’t obtain its goal; they only experience suffering and trouble. Why is that? It’s because they mistakenly understand the teaching.
 
 17. “It’s like a person who wants to catch a snake, so they go searching for one. They walk through a wild forest as they search for a snake. When the person sees a huge snake, they grab it by its tail using their hands. The snake then turns around and raises its head. It might bite their hand, foot, or some other limb.
 
@@ -91,13 +91,13 @@ The monks answered, “We know the Bhagavān explains the teaching this way: ‘
 
 26. “They then put the raft on their right shoulder or carry it on their head. What do you think about that plan? Will this raft be of help to them?”
 
-The monks replied, “No.”
+The bhikkhus replied, “No.”
 
 27. The Bhagavān told them, “How would he get more help from this raft? That person thinks, ‘This raft of mine was quite helpful. After riding this raft, I safely made it from that side over to this one. Perhaps I could put this raft back in the water, or perhaps I could put it on the shore and leave it there.’
 
 28. “That man then puts his raft back in the water or puts it on the shore and leaves it. What do you think? By doing this, will he get any help from this raft?”
 
-The monks then replied, “It’ll be helpful.”
+The bhikkhus then replied, “It’ll be helpful.”
 
 29. The Bhagavān told them, “Thus, for a long time, I’ve taught you the parable of the raft wanting you to discard the teaching and not wanting you to acquire it. If you know that I’ve taught you the parable of the raft for a long time, you will abandon this teaching, so why wouldn’t you abandon what’s not the teaching?
 
@@ -151,23 +151,23 @@ The Bhagavān answered, “There is.”
 
 46. The monk then praised the Bhagavān, “Good, good!” After praising him, he well accepted what he heard the Buddha teach, retaining and reciting it. He then remained silent.
 
-47. The Bhagavān then praised the monks, “Good, good! A monk [might] accept thus something as acceptable that doesn’t cause sadness, trouble, lamentation, beating of chests, and craziness. Do you see anything to accept that’s acceptable and doesn’t cause sadness, trouble, lamentation, beating of chests, and craziness?”
+47. The Bhagavān then praised the bhikkhus, “Good, good! A monk [might] accept thus something as acceptable that doesn’t cause sadness, trouble, lamentation, beating of chests, and craziness. Do you see anything to accept that’s acceptable and doesn’t cause sadness, trouble, lamentation, beating of chests, and craziness?”
 
-The monks replied, “No, Bhagavān.”
+The bhikkhus replied, “No, Bhagavān.”
 
 48. The Bhagavān praised them, “Good, good! You [might] rely on thus seeing what’s dependable. Having seen it, you don’t become sad and troubled, don’t lament and beat your chests, and don’t go crazy. Do you see [something] to rely on, thus seeing what’s dependable? Having seen it, will you not become sad and troubled, lament and beat your chests, or go crazy?”
 
-The monks replied, “No, Bhagavān.”
+The bhikkhus replied, “No, Bhagavān.”
 
 #### There’s No Basis for a Soul or Self
 
 49. The Bhagavān praised them, “Good, good! You [might] accept such a body: ‘That body exists, which is always abiding, unchanging, and not subject to decay.’ Do you see and accept such a body that’s an acceptable body, which is always abiding, unchanging, and not subject to decay?”
 
-The monks replied, “No, Bhagavān.”
+The bhikkhus replied, “No, Bhagavān.”
 
-50. The Bhagavān praised them, “Good, good! There’s the claim: ‘It’s because of the soul that there’s a self. Without the soul, I see no self. This is the soul. A soul that exists can’t be obtained or imagined. An abode of views, bonds, attachments, and tendencies in the mind also can’t be obtained or imagined.’ Monks, is that not a perfect statement and view, seeing what’s continuous like that monk Ariṣṭa who before was Gṛdhabādhi?”
+50. The Bhagavān praised them, “Good, good! There’s the claim: ‘It’s because of the soul that there’s a self. Without the soul, I see no self. This is the soul. A soul that exists can’t be obtained or imagined. An abode of views, bonds, attachments, and tendencies in the mind also can’t be obtained or imagined.’ bhikkhus, is that not a perfect statement and view, seeing what’s continuous like that monk Ariṣṭa who before was Gṛdhabādhi?”
 
-The monks answered, “So it is, Bhagavān. It’s a perfect statement and view, seeing what’s continuous like that monk Ariṣṭa who before was Gṛdhabādhi.”
+The bhikkhus answered, “So it is, Bhagavān. It’s a perfect statement and view, seeing what’s continuous like that monk Ariṣṭa who before was Gṛdhabādhi.”
 
 51. “Furthermore, there are the six abodes of views. What are the six? A monk regarding existent forms in the past, future, and present, whether internal or external, fine or crude, wonderful or not wonderful, near or distant [thinks]: ‘None of them are possessed by me, I am not possessed by them, nor are they the soul.’ Wisely observing them this way, he knows them as they really are.
 
@@ -199,11 +199,11 @@ The monks answered, “So it is, Bhagavān. It’s a perfect statement and view,
 
 63. “When another person respects the Tathāgata and offers support, serves, and venerates him, the Tathāgata is not pleased and encouraged by that, and it doesn’t make him happy at heart. If another person respects the Tathāgata and offers support, serves, and venerates him, what does the Tathāgata think? The Tathāgata thinks this: ‘Is there something I know and have ended now that causes this to take place?’ That’s what the Tathāgata thinks when another person respects the Tathāgata and offers support, serves, and venerates him.”
 
-64. The Bhagavān addressed the monks, “If another person ridicules you and assaults you with numerous hateful insults or if they are respectful, offer support, serve, and venerate you, don’t make this a cause to be hateful and resentful; don’t become harmful. Don’t be encouraged or joyous, and don’t be happy at heart. Why is that? We have no soul, and nothing is possessed by a soul.
+64. The Bhagavān addressed the bhikkhus, “If another person ridicules you and assaults you with numerous hateful insults or if they are respectful, offer support, serve, and venerate you, don’t make this a cause to be hateful and resentful; don’t become harmful. Don’t be encouraged or joyous, and don’t be happy at heart. Why is that? We have no soul, and nothing is possessed by a soul.
 
 65. “It’s like the dry grass and withered wood outside the entrance of this Jeta’s Grove. Perhaps another person takes it way, burns it, or makes use of it as they like. What do you think? Does that dry grass and withered wood think this: ‘That person took us away, burned us, and made use of us as they liked’?”
 
-The monks replied, “No, Bhagavān.”
+The bhikkhus replied, “No, Bhagavān.”
 
 66. “Thus, if another person ridicules you and assaults you with numerous hateful insults, or if they are respectful, offer support, serve, and venerate you, this too should cause you not to be hateful or resentful. Don’t become harmful. Don’t be encouraged or joyous, either. Don’t be happy at heart. Why is that? We have no soul, and nothing is possessed by a soul.
 
@@ -219,7 +219,7 @@ The monks replied, “No, Bhagavān.”
 
 71. “My teaching is well expressed, revealed, and disseminated, has nothing pointless, and spreads as it’s proclaimed, even up to the heavens. Thus is my teaching well expressed, revealed, and disseminated, has nothing pointless, and spreads as its proclaimed, even up to the heavens: If someone is faithful and happy with me, then at the end of their life they’ll be born in a good place like the others, with a remainder.”
 
-72. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+72. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

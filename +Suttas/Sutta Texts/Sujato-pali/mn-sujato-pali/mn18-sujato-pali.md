@@ -30,24 +30,24 @@ Daṇḍapāṇi the Sakyan, while going for a walk, plunged deep into the Great
 2When he had spoken, Daṇḍapāṇi shook his head, waggled his tongue, raised his eyebrows until his brow puckered in three furrows, and he departed leaning on his staff.
 
 
-3–4Then in the late afternoon, the Buddha came out of retreat and went to the Banyan Tree Monastery, sat down on the seat spread out, and told the mendicants what had happened.
+3–4Then in the late afternoon, the Buddha came out of retreat and went to the Banyan Tree Monastery, sat down on the seat spread out, and told the bhikkhus what had happened.
 
 
-5When he had spoken, one of the mendicants said to him:
+5When he had spoken, one of the bhikkhus said to him:
 
 “But sir, what is the teaching such that the Buddha does not conflict with anyone in this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans? And how is it that perceptions do not underlie the Buddha, the brahmin who lives detached from sensual pleasures, without indecision, stripped of worry, and rid of craving for rebirth in this or that state?”
 
-“Mendicant, a person is beset by concepts of identity that emerge from the proliferation of perceptions. If they don’t find anything worth approving, welcoming, or getting attached to in the source from which these arise, just this is the end of the underlying tendencies to desire, repulsion, views, doubt, conceit, the desire to be reborn, and ignorance. This is the end of taking up the rod and the sword, the end of quarrels, arguments, and fights, of accusations, divisive speech, and lies. This is where these bad, unskillful qualities cease without anything left over.”
+“bhikkhu, a person is beset by concepts of identity that emerge from the proliferation of perceptions. If they don’t find anything worth approving, welcoming, or getting attached to in the source from which these arise, just this is the end of the underlying tendencies to desire, repulsion, views, doubt, conceit, the desire to be reborn, and ignorance. This is the end of taking up the rod and the sword, the end of quarrels, arguments, and fights, of accusations, divisive speech, and lies. This is where these bad, unskillful qualities cease without anything left over.”
 
 That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.
 
 
-6Soon after the Buddha left, those mendicants considered: “The Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail. Who can explain in detail the meaning of this brief passage for recitation given by the Buddha?”
+6Soon after the Buddha left, those bhikkhus considered: “The Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail. Who can explain in detail the meaning of this brief passage for recitation given by the Buddha?”
 
-Then those mendicants thought: “This Venerable Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions. He is capable of explaining in detail the meaning of this brief passage for recitation given by the Buddha. Let’s go to him, and ask him about this matter.”
+Then those bhikkhus thought: “This Venerable Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions. He is capable of explaining in detail the meaning of this brief passage for recitation given by the Buddha. Let’s go to him, and ask him about this matter.”
 
 
-7Then those mendicants went to Mahākaccāna, and exchanged greetings with him. When the greetings and polite conversation were over, they sat down to one side. They told him what had happened, and said: “May Venerable Mahākaccāna please explain this.”
+7Then those bhikkhus went to Mahākaccāna, and exchanged greetings with him. When the greetings and polite conversation were over, they sat down to one side. They told him what had happened, and said: “May Venerable Mahākaccāna please explain this.”
 
 
 8“Reverends, suppose there was a person in need of heartwood. And while wandering in search of heartwood he’d come across a large tree standing with heartwood. But he’d pass over the roots and trunk, imagining that the heartwood should be sought in the branches and leaves. Such is the consequence for the venerables. Though you were face to face with the Buddha, you passed him by, imagining that you should ask me about this matter. For he is the Buddha, who knows and sees. He is vision, he is knowledge, he is the truth, he is holiness. He is the teacher, the proclaimer, the elucidator of meaning, the bestower of the deathless, the lord of truth, the Realized One. That was the time to approach the Buddha and ask about this matter. You should have remembered it in line with the Buddha’s answer.”
@@ -90,15 +90,15 @@ When there is no ear … nose … tongue … body … mind, no thoughts, and no 
 13This is how I understand the detailed meaning of that brief passage for recitation given by the Buddha. If you wish, you may go to the Buddha and ask him about this. You should remember it in line with the Buddha’s answer.”
 
 
-14“Yes, reverend,” said those mendicants, approving and agreeing with what Mahākaccāna said. Then they rose from their seats and went to the Buddha, bowed, sat down to one side, and told him what had happened. Then they said: “Mahākaccāna clearly explained the meaning to us in this manner, with these words and phrases.”
+14“Yes, reverend,” said those bhikkhus, approving and agreeing with what Mahākaccāna said. Then they rose from their seats and went to the Buddha, bowed, sat down to one side, and told him what had happened. Then they said: “Mahākaccāna clearly explained the meaning to us in this manner, with these words and phrases.”
 
 
-“Mahākaccāna is astute, mendicants, he has great wisdom. If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna. That is what it means, and that’s how you should remember it.”
+“Mahākaccāna is astute, bhikkhus, he has great wisdom. If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna. That is what it means, and that’s how you should remember it.”
 
 
 15When he said this, Venerable Ānanda said to the Buddha: “Sir, suppose a person who was weak with hunger was to obtain a honey-cake. Wherever they taste it, they would enjoy a sweet, delicious flavor.
 
-In the same way, wherever a sincere, capable mendicant might examine with wisdom the meaning of this exposition of the teaching they would only gain joy and clarity. Sir, what is the name of this exposition of the teaching?”
+In the same way, wherever a sincere, capable bhikkhu might examine with wisdom the meaning of this exposition of the teaching they would only gain joy and clarity. Sir, what is the name of this exposition of the teaching?”
 
 “Well, Ānanda, you may remember this exposition of the teaching as ‘The Honey-Cake Discourse’.”
 

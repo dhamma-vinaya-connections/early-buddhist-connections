@@ -150,7 +150,7 @@ At that time, having heard this verse, the treasury councilor thought
 to himself, “I have now understood the meaning of ‘filthiness,’ but  
 it is not possible to remove it while living a householder’s life.  
 Shouldn’t I now renounce ordinary life, go forth from family ties,  
-shave my hair and beard, wear a mendicant’s robe, and practice the  
+shave my hair and beard, wear a bhikkhu’s robe, and practice the  
 path of religion?” At that moment, the Brahmā youth knew the coun-  
 cilor’s thoughts and related the following in verse:
 
@@ -158,7 +158,7 @@ Thereupon, the Brahmā youth suddenly disappeared. The foremost
 treasury councilor returned to visit the seven kings and said to them,  
 “Your majesties, may you make yourselves models in assuming  
 oversight of governing state affairs. I am planning to leave family  
-life, wear a mendicant’s robe, and practice the path of religion. The  
+life, wear a bhikkhu’s robe, and practice the path of religion. The  
 reason is this, sirs. Recently I happened to listen to the god Brahmā’s  
 exhortation on the defiled state of life, and in my mind I despise it.  
 As long as I am in the householder’s life there is no possibility of  

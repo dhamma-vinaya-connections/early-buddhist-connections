@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 23
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “This one quality, monks, when developed & pursued, keeps both kinds of benefit secure: benefit in this life & in lives to come. Which one quality? Heedfulness with regard to skillful qualities. This is the one quality that, when developed & pursued, keeps both kinds of benefit secure: benefit in this life & in lives to come.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “This one quality, bhikkhus, when developed & pursued, keeps both kinds of benefit secure: benefit in this life & in lives to come. Which one quality? Heedfulness with regard to skillful qualities. This is the one quality that, when developed & pursued, keeps both kinds of benefit secure: benefit in this life & in lives to come.”
 
 They praise heedfulness, the wise,
 

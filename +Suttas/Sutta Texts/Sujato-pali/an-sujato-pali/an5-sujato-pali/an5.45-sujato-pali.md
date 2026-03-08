@@ -20,10 +20,10 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five kinds of overflowing merit, overflowing goodness. They nurture happiness and are conducive to heaven, ripening in happiness and leading to heaven. They lead to what is likable, desirable, agreeable, to welfare and happiness.
+1“bhikkhus, there are these five kinds of overflowing merit, overflowing goodness. They nurture happiness and are conducive to heaven, ripening in happiness and leading to heaven. They lead to what is likable, desirable, agreeable, to welfare and happiness.
 
 
-2-4What five? When a mendicant enters and remains in a limitless immersion of heart while using a robe … alms-food … lodging … bed and chair … medicines and supplies for the sick, the overflowing of merit for the donor is limitless …
+2-4What five? When a bhikkhu enters and remains in a limitless immersion of heart while using a robe … alms-food … lodging … bed and chair … medicines and supplies for the sick, the overflowing of merit for the donor is limitless …
 
 
 These are the five kinds of overflowing merit, overflowing goodness. They nurture happiness, and are conducive to heaven, ripening in happiness, and leading to heaven. They lead to what is likable, desirable, agreeable, to welfare and happiness.

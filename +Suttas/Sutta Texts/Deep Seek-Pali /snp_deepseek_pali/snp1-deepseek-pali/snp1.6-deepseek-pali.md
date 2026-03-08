@@ -76,7 +76,7 @@ Thus have I heard—At one time the Blessed One was dwelling at Savatthi, in Jet
 
 ‘‘Yo brāhmaṇaṃ [yo brāhmaṇaṃ vā (sī. syā. kaṃ. pī.)] samaṇaṃ vā, aññaṃ vāpi vanibbakaṃ;Musāvādena vañceti, taṃ parābhavato mukhaṃ’’.
 
-“Whoever deceives a brahmin or ascetic, or any other mendicant, with false speech—that is the door to ruin.”
+“Whoever deceives a brahmin or ascetic, or any other bhikkhu, with false speech—that is the door to ruin.”
 
 101.
 

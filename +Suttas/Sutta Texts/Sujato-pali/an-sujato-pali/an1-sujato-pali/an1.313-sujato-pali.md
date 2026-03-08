@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that causes sentient beings to be reborn, when their body breaks up, after death, in a good place, a heavenly realm like right view. It is because they have right view that sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm.”
+1“bhikkhus, I do not see a single thing that causes sentient beings to be reborn, when their body breaks up, after death, in a good place, a heavenly realm like right view. It is because they have right view that sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ uppajjanti yathayidaṁ, bhikkhave, sammādiṭṭhi. Sammādiṭṭhiyā, bhikkhave, samannāgatā sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ uppajjantī"ti.
 

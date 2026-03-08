@@ -22,15 +22,15 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized them, “How can nuns give the full admission to trainee nuns who have trained for two years in the six rules, but who haven’t been approved by the Sangha?” …
 
-“Is it true, monks, that nuns do this?”
+“Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
-“Monks, approval is required for the full admission of a trainee nun who has trained for two years in the six rules.
+“bhikkhus, approval is required for the full admission of a trainee nun who has trained for two years in the six rules.
 
 And it should be given like this. After approaching the Sangha of nuns, that trainee nun should arrange her upper robe over one shoulder and pay respect at the feet of the nuns. She should then squat on her heels, raise her joined palms, and say:
 
@@ -47,7 +47,7 @@ A competent and capable nun should then inform the Sangha:
 
 5The Sangha has given approval for the trainee nun so-and-so, who has trained for two years in the six rules, to be fully admitted. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
-6Then, after rebuking those nuns in many ways, the Buddha spoke in dispraise of being difficult to support … “And, monks, the nuns should recite this training rule like this:
+6Then, after rebuking those nuns in many ways, the Buddha spoke in dispraise of being difficult to support … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

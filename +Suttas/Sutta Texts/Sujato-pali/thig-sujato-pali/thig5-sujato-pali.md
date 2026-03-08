@@ -185,7 +185,7 @@ having fulfilled the Buddha’s instructions.
 ##### Sakulā
 
 97 While staying at home  
-I heard the teaching from a monk.  
+I heard the teaching from a bhikkhu.  
 I saw the stainless Dhamma,  
 extinguishment, the imperishable state.
 
@@ -246,7 +246,7 @@ and was blind to the actual fault.
 108 Leaving my day’s meditation  
 on Vulture’s Peak Mountain,  
 I saw the stainless Buddha  
-at the fore of the mendicant Saṅgha.
+at the fore of the bhikkhu Saṅgha.
 
 109 I bent my knee and bowed,  
 and in his presence raised my joined palms.  

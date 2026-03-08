@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“When one thing, mendicants, is developed and cultivated, unskillful qualities do not arise, and, if they’ve already arisen, they are given up. What one thing? Mindfulness of the body. When this one thing is developed and cultivated, unskillful qualities do not arise, and, if they’ve already arisen, they are given up.”
+1“When one thing, bhikkhus, is developed and cultivated, unskillful qualities do not arise, and, if they’ve already arisen, they are given up. What one thing? Mindfulness of the body. When this one thing is developed and cultivated, unskillful qualities do not arise, and, if they’ve already arisen, they are given up.”
 
 1"Ekadhamme, bhikkhave, bhāvite bahulīkate anuppannā ceva akusalā dhammā nuppajjanti, uppannā ca akusalā dhammā pahīyanti. Katamasmiṁ ekadhamme? Kāyagatāya satiyā. Imasmiṁ kho, bhikkhave, ekadhamme bhāvite bahulīkate anuppannā ceva akusalā dhammā nuppajjanti, uppannā ca akusalā dhammā pahīyantī"ti.
 

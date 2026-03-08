@@ -7,35 +7,35 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC23]]
 > ◄  [[bu-pc22-horner]] 📜  [[bu-pc24-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 23
+# bhikkhus’ Expiation (_Pācittiya_) 23
 
-*Bu-Pc.23.1.1* *BD.2.276* … among the Sakyans at Kapilavatthu in the Banyan monastery.[^1] Now at that time the group of six monks, approaching the nuns’ quarters, exhorted the group of six nuns. Nuns spoke thus to the group of six nuns: “Come, ladies, *Vin.4.56* we will go for exhortation.”
+*Bu-Pc.23.1.1* *BD.2.276* … among the Sakyans at Kapilavatthu in the Banyan monastery.[^1] Now at that time the group of six bhikkhus, approaching the nuns’ quarters, exhorted the group of six nuns. Nuns spoke thus to the group of six nuns: “Come, ladies, *Vin.4.56* we will go for exhortation.”
 
 “Well, ladies, we would go for the sake of exhortation, (but) the group of the six masters exhort us in this very place.”[^2]
 
 Those who were modest nuns … spread it about, saying:
 
-“How can the group of the six monks, approaching nuns’ quarters, exhort nuns?”
+“How can the group of the six bhikkhus, approaching nuns’ quarters, exhort nuns?”
 
-Then these nuns told this matter to the monks. Those who were modest monks … spread it about, saying:
+Then these nuns told this matter to the bhikkhus. Those who were modest bhikkhus … spread it about, saying:
 
-“How can the group of six monks … exhort nuns?” …
+“How can the group of six bhikkhus … exhort nuns?” …
 
-“Is it true, as is said, that you, monks … exhorted nuns?”
+“Is it true, as is said, that you, bhikkhus … exhorted nuns?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men … exhort nuns? Foolish men, it is not for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men … exhort nuns? Foolish men, it is not for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, approaching nuns’ quarters, should exhort nuns, there is an offence of expiation.”[^3]
+“Whatever bhikkhu, approaching nuns’ quarters, should exhort nuns, there is an offence of expiation.”[^3]
 
-And thus this rule of training for monks came to be laid down by the lord.
+And thus this rule of training for bhikkhus came to be laid down by the lord.
 
 * * *
 
-*Bu-Pc.23.2.1* *BD.2.277* Now at that time Mahāpajāpatī the Gotamid became ill. Monks who were elders approached Mahāpajāpatī the Gotamid, and having approached they spoke thus to Mahāpajāpatī the Gotamid:
+*Bu-Pc.23.2.1* *BD.2.277* Now at that time Mahāpajāpatī the Gotamid became ill. bhikkhus who were elders approached Mahāpajāpatī the Gotamid, and having approached they spoke thus to Mahāpajāpatī the Gotamid:
 
 “Gotami, we hope things are going well with you, we hope you are keeping going.”
 
@@ -45,17 +45,17 @@ And thus this rule of training for monks came to be laid down by the lord.
 
 “Gotami, I hope things are going well with you, I hope you are keeping going.”
 
-“Formerly, lord, monks who were elders, coming to me, gave _dhamma_: because of this comfort came to be for me.[^4] But now they say it is forbidden by the lord, and being scrupulous they do not give it; because of this comfort does not come to be for me.”
+“Formerly, lord, bhikkhus who were elders, coming to me, gave _dhamma_: because of this comfort came to be for me.[^4] But now they say it is forbidden by the lord, and being scrupulous they do not give it; because of this comfort does not come to be for me.”
 
-Then the lord having … delighted Mahāpajāpatī the Gotamid with talk on _dhamma_, rising up from his seat, departed. Then the lord, on this occasion, in this connection, having given _dhamma_\-talk, addressed the monks, saying:
+Then the lord having … delighted Mahāpajāpatī the Gotamid with talk on _dhamma_, rising up from his seat, departed. Then the lord, on this occasion, in this connection, having given _dhamma_\-talk, addressed the bhikkhus, saying:
 
-“I allow you, monks, approaching nuns’ quarters, to exhort a nun who is ill. And thus, monks, this rule of training should be set forth: *Vin.4.57*
+“I allow you, bhikkhus, approaching nuns’ quarters, to exhort a nun who is ill. And thus, bhikkhus, this rule of training should be set forth: *Vin.4.57*
 
-“Whatever monk, approaching nuns’ quarters, should exhort the nuns except at a right time, there is an offence of expiation. This is a right time in this case: if a nun comes to be ill; this, in this case, is a right time.”
+“Whatever bhikkhu, approaching nuns’ quarters, should exhort the nuns except at a right time, there is an offence of expiation. This is a right time in this case: if a nun comes to be ill; this, in this case, is a right time.”
 
 * * *
 
-*Bu-Pc.23.3.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.23.3.1* Whatever means: … is bhikkhu to be understood in this case.
 
 *BD.2.278* Nuns’ quarters means: where nuns stay even for one night.
 
@@ -83,7 +83,7 @@ The Third
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

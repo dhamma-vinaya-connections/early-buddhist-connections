@@ -15,19 +15,19 @@ language: "Pali - English"
 
 377. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sattarasavaggiyā bhikkhū asannihitaparikkhārā honti. Chabbaggiyā bhikkhū sattarasavaggiyānaṃ bhikkhūnaṃ pattampi cīvarampi apanidhenti. Sattarasavaggiyā bhikkhū chabbaggiye bhikkhū etadavocuṃ – ‘‘dethāvuso, amhākaṃ pattampi cīvarampī’’ti. Chabbaggiyā bhikkhū hasanti, te rodanti. Bhikkhū evamāhaṃsu – ‘‘kissa tumhe, āvuso, rodathā’’ti? ‘‘Ime, āvuso, chabbaggiyā bhikkhū amhākaṃ pattampi cīvarampi apanidhentī’’ti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma chabbaggiyā bhikkhū bhikkhūnaṃ pattampi cīvarampi apanidhessantī’’ti…pe… saccaṃ kira tumhe, bhikkhave, bhikkhūnaṃ pattampi cīvarampi apanidhethāti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tumhe, moghapurisā, bhikkhūnaṃ pattampi cīvarampi apanidhessatha! Netaṃ, moghapurisā, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-377.At that time the Buddha, the Blessed One, was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Monastery. Now at that time the monks of the group of seventeen were without their requisites. The monks of the group of six hid the bowls and robes of the monks of the group of seventeen. The monks of the group of seventeen said to the monks of the group of six, “Friends, give us back our bowls and robes.” The monks of the group of six laughed, and they cried. The monks asked, “Friends, why are you crying?” “Friends, these monks of the group of six have hidden our bowls and robes.” Those monks of few desires … complained and criticized them, “How could the monks of the group of six hide the bowls and robes of other monks?” … “Is it true, monks, that you hid the bowls and robes of other monks?” “It is true, Blessed One.” The Buddha, the Blessed One, rebuked them … “How could you, foolish men, hide the bowls and robes of other monks? This will not inspire confidence in those who are not confident … And so, monks, this training rule should be recited thus:
+377.At that time the Buddha, the Blessed One, was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Monastery. Now at that time the bhikkhus of the group of seventeen were without their requisites. The bhikkhus of the group of six hid the bowls and robes of the bhikkhus of the group of seventeen. The bhikkhus of the group of seventeen said to the bhikkhus of the group of six, “Friends, give us back our bowls and robes.” The bhikkhus of the group of six laughed, and they cried. The bhikkhus asked, “Friends, why are you crying?” “Friends, these bhikkhus of the group of six have hidden our bowls and robes.” Those bhikkhus of few desires … complained and criticized them, “How could the bhikkhus of the group of six hide the bowls and robes of other bhikkhus?” … “Is it true, bhikkhus, that you hid the bowls and robes of other bhikkhus?” “It is true, Blessed One.” The Buddha, the Blessed One, rebuked them … “How could you, foolish men, hide the bowls and robes of other bhikkhus? This will not inspire confidence in those who are not confident … And so, bhikkhus, this training rule should be recited thus:
 
 378. ‘‘Yo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā, antamaso hasāpekkhopi, pācittiya’’nti.
 
-378.“If any monk should hide or have hidden a monk’s bowl, robe, sitting cloth, needle case, or belt—even for the sake of a joke—he commits an offense entailing confession.”
+378.“If any bhikkhu should hide or have hidden a bhikkhu’s bowl, robe, sitting cloth, needle case, or belt—even for the sake of a joke—he commits an offense entailing confession.”
 
 379. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-379.“Now whoever” (yo pana): … “Monk” (bhikkhu): … The monk intended in this context is this.
+379.“Now whoever” (yo pana): … “bhikkhu” (bhikkhu): … The bhikkhu intended in this context is this.
 
 Bhikkhussāti aññassa bhikkhussa.
 
-“A monk” (bhikkhussa) means another monk.
+“A bhikkhu” (bhikkhussa) means another bhikkhu.
 
 Patto nāma dve pattā – ayopatto, mattikāpatto.
 
@@ -63,7 +63,7 @@ Antamaso hasāpekkhopīti kīḷādhippāyo.
 
 380. Upasampanne upasampannasaññī pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, āpatti pācittiyassa. Upasampanne vematiko…pe… upasampanne anupasampannasaññī pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, āpatti pācittiyassa.
 
-380.If it is a fully ordained monk, and one perceives him as such, and one hides or has hidden his bowl, robe, sitting cloth, needle case, or belt—even for the sake of a joke—there is an offense entailing confession. If it is a fully ordained monk, and one is uncertain … If it is a fully ordained monk, but one perceives him as not fully ordained, and one hides or has hidden his bowl, robe, sitting cloth, needle case, or belt—even for the sake of a joke—there is an offense entailing confession.
+380.If it is a fully ordained bhikkhu, and one perceives him as such, and one hides or has hidden his bowl, robe, sitting cloth, needle case, or belt—even for the sake of a joke—there is an offense entailing confession. If it is a fully ordained bhikkhu, and one is uncertain … If it is a fully ordained bhikkhu, but one perceives him as not fully ordained, and one hides or has hidden his bowl, robe, sitting cloth, needle case, or belt—even for the sake of a joke—there is an offense entailing confession.
 
 Aññaṃ parikkhāraṃ apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, āpatti dukkaṭassa. Anupasampannassa pattaṃ vā cīvaraṃ vā aññaṃ vā parikkhāraṃ apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, āpatti dukkaṭassa. Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko, āpatti dukkaṭassa. Anupasampanne anupasampannasaññī, āpatti dukkaṭassa.
 

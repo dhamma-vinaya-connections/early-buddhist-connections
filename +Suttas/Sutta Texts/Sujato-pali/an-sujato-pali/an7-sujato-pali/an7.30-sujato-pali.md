@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these seven failures for a lay follower …
+1“bhikkhus, there are these seven failures for a lay follower …
 
 There are these seven accomplishments for a lay follower …”
 

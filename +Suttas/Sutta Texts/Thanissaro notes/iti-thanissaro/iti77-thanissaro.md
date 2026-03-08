@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 77
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, this body falls apart; consciousness is subject to fading; all acquisitions are inconstant, stressful, subject to change.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, this body falls apart; consciousness is subject to fading; all acquisitions are inconstant, stressful, subject to change.”
 
 Knowing the body as                  falling apart,
 

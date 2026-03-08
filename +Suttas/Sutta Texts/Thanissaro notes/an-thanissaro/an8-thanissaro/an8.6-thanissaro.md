@@ -15,15 +15,15 @@ language: "English"
 ## ## Lokavipatti Sutta
 
 
-“Monks, these eight worldly conditions spin after the world, and the world spins after these eight worldly conditions. Which eight? Gain, loss, status, disgrace, censure, praise, pleasure, & pain. These are the eight worldly conditions that spin after the world, and the world spins after these eight worldly conditions.
+“bhikkhus, these eight worldly conditions spin after the world, and the world spins after these eight worldly conditions. Which eight? Gain, loss, status, disgrace, censure, praise, pleasure, & pain. These are the eight worldly conditions that spin after the world, and the world spins after these eight worldly conditions.
 
 “For an uninstructed run-of-the-mill person there arise gain, loss, status, disgrace, censure, praise, pleasure, & pain. For a well-instructed disciple of the noble ones there also arise gain, loss, status, disgrace, censure, praise, pleasure, & pain. So what difference, what distinction, what distinguishing factor is there between the well-instructed disciple of the noble ones and the uninstructed run-of-the-mill person?”
 
-“For us, lord, the teachings have the Blessed One as their root, their guide, & their arbitrator. It would be good if the Blessed One himself would explicate the meaning of this statement. Having heard it from the Blessed One, the monks will remember it.”
+“For us, lord, the teachings have the Blessed One as their root, their guide, & their arbitrator. It would be good if the Blessed One himself would explicate the meaning of this statement. Having heard it from the Blessed One, the bhikkhus will remember it.”
 
-“In that case, monks, listen & pay close attention. I will speak.”
+“In that case, bhikkhus, listen & pay close attention. I will speak.”
 
-“As you say, lord,” the monks responded to him.
+“As you say, lord,” the bhikkhus responded to him.
 
 The Blessed One said, “Gain arises for an uninstructed run-of-the-mill person. He does not reflect, ‘Gain has arisen for me. It is inconstant, stressful, & subject to change.’ He does not discern it as it has come to be.
 

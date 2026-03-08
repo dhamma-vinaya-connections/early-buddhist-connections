@@ -21,7 +21,7 @@ language: "English"
 
 2. There was a certain monk then who came to visit the Buddha. He bowed his head at his feet, withdrew to one side, and said to the Buddha, “The Bhagavān says ‘factors of awakening.’ Bhagavān, what are the factors of awakening?”
 
-The Buddha told the monk, “The expression ‘factors of awakening’ refers to seven factors of the path, but monks gradually produce these seven factors of awakening by cultivating their fulfillment.”
+The Buddha told the monk, “The expression ‘factors of awakening’ refers to seven factors of the path, but bhikkhus gradually produce these seven factors of awakening by cultivating their fulfillment.”
 
 3. That monk said to the Buddha, “Bhagavān, how are these factors of awakening gradually produced by cultivating their fulfillment?”
 
@@ -29,7 +29,7 @@ The Buddha told the monk, “The expression ‘factors of awakening’ refers to
 
 5. “As he mindfully abides contemplating the internal body as body, he thus mindfully abides observing the external body … internal and external body … feelings … mind … and principles as principles. At that point, he focuses his mind, ties it to this mindfulness, and doesn’t forget it … the awakening factor of equanimity. Someone who thus abides will gradually produce the factors of awakening. After gradually producing them, he cultivates their fulfillment.”
 
-6. After the Buddha spoke this sūtra, the monks who heard what he taught rejoiced and approved.
+6. After the Buddha spoke this sūtra, the bhikkhus who heard what he taught rejoiced and approved.
 
 ---
 

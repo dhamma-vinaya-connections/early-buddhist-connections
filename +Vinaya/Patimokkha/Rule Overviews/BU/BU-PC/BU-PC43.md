@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC124"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC42]] 🌐 [[BU-PC44]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 5 Acelaka-Vaggo - 5 Ascetics
 ## BU-PC43 - Sabhojana - Intruding on a Couple Enjoying Themselves
 
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-PC124"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC43 | [[BNI-PC124]] | Vin.3.1–3.40 |
 

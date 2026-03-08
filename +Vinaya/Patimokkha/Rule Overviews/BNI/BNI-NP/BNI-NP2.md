@@ -52,7 +52,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-NP2 |  | Vin.4.243-4.257 |
 

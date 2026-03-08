@@ -7,9 +7,9 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP8]]
 > ◄  [[bu-np7-horner]] 📜  [[bu-np9-horner]] ►
 
-# Monks’ Forfeiture (_Nissaggiya_) 8
+# bhikkhus’ Forfeiture (_Nissaggiya_) 8
 
-*Bu-NP.8.1.1* *BD.2.53* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. At that time[^1] a certain man said to his wife: “I will present[^2] master Upananda[^3] with a robe.” A certain monk who was going for alms heard the words of this man as he was speaking. Then this monk approached the venerable Upananda, the son of the Sakyans, and having approached he said to the venerable Upananda, the son of the Sakyans:
+*Bu-NP.8.1.1* *BD.2.53* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. At that time[^1] a certain man said to his wife: “I will present[^2] master Upananda[^3] with a robe.” A certain bhikkhu who was going for alms heard the words of this man as he was speaking. Then this bhikkhu approached the venerable Upananda, the son of the Sakyans, and having approached he said to the venerable Upananda, the son of the Sakyans:
 
 “You, reverend Upananda, are of great merit[^4]; on a certain occasion a certain man said to his wife: ‘I will present master Upananda with a robe.’”
 
@@ -25,7 +25,7 @@ Then the venerable Upananda, the son of the Sakyans, approached this man, and ha
 
 Then that man … spread it about, saying: “These recluses, sons of the Sakyans, have great desires, they are not contented. It is not easy to present them with a robe. How can master Upananda, before being invited by me, approaching me, put forward a consideration[^5] with regard to a robe?”
 
-*BD.2.54* Monks heard that man who … spread it about. Those who were modest monks … spread it about, saying: “How can the venerable Upananda, the son of the Sakyans, before being invited, approaching a householder, put forward a consideration with regard to a robe?” Then these monks told this matter to the lord. *Vin.3.216* He said:
+*BD.2.54* bhikkhus heard that man who … spread it about. Those who were modest bhikkhus … spread it about, saying: “How can the venerable Upananda, the son of the Sakyans, before being invited, approaching a householder, put forward a consideration with regard to a robe?” Then these bhikkhus told this matter to the lord. *Vin.3.216* He said:
 
 “Is it true, as is said, that you, Upananda, before being invited, approaching a householder, put forward a consideration with regard to a robe?”
 
@@ -35,13 +35,13 @@ Then that man … spread it about, saying: “These recluses, sons of the Sakyan
 
 “He is not a relation, lord,” he said.
 
-“Foolish man, one who is not a relation[^6] does not know what is suitable or what is unsuitable, or what is right or what is wrong for one who is not a relation.[^7] Thus you, foolish man, before being invited, approaching a householder who is not a relation, will put forward a consideration with regard to a robe. It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“Foolish man, one who is not a relation[^6] does not know what is suitable or what is unsuitable, or what is right or what is wrong for one who is not a relation.[^7] Thus you, foolish man, before being invited, approaching a householder who is not a relation, will put forward a consideration with regard to a robe. It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“In case a robe-fund[^8] comes to be laid by for a monk by a man or a woman householder who is not a relation (of his), thinking: ‘I will present the monk so and so with a robe, having got the robe in exchange for this robe-fund’—then if that monk, out of desire for something fine, approaching before being invited, should put forward a consideration with regard to a robe, saying: ‘Indeed it would be well; do let the venerable one,[^9] *BD.2.55* having got a robe like this or like that in exchange for this robe-fund, present it to me,’ there is an offence of expiation involving forfeiture.”
+“In case a robe-fund[^8] comes to be laid by for a bhikkhu by a man or a woman householder who is not a relation (of his), thinking: ‘I will present the bhikkhu so and so with a robe, having got the robe in exchange for this robe-fund’—then if that bhikkhu, out of desire for something fine, approaching before being invited, should put forward a consideration with regard to a robe, saying: ‘Indeed it would be well; do let the venerable one,[^9] *BD.2.55* having got a robe like this or like that in exchange for this robe-fund, present it to me,’ there is an offence of expiation involving forfeiture.”
 
 * * *
 
-*Bu-NP.8.2.1* For a monk[^10] means: for the good of a monk, making a monk an object, being desirous of presenting to a monk.
+*Bu-NP.8.2.1* For a bhikkhu[^10] means: for the good of a bhikkhu, making a bhikkhu an object, being desirous of presenting to a bhikkhu.
 
 A man who is not a relation means: one who is not related on the mother’s side or on the father’s side back through seven generations.[^11]
 
@@ -57,7 +57,7 @@ Having got in exchange means: having bartered.[^17]
 
 I will present means: I will give.
 
-Then if that monk means: that monk for whom the robe-fund comes to be laid by.
+Then if that bhikkhu means: that bhikkhu for whom the robe-fund comes to be laid by.
 
 Before being invited means: before it was said (to him): ‘What kind of robe do you want, honoured sir? What kind of robe shall I get in exchange for you?’
 
@@ -75,7 +75,7 @@ Present (it) means: give (it).
 
 Out of desire for something fine means: wanting what is good, wanting what is costly.
 
-If according to what he says, he gets in exchange one that is long or wide or rough or soft, there is an offence of wrong-doing in the action. It is to be forfeited on acquisition; it should be forfeited to the Order, or to a group, or to an individual. And thus, monks, should it be forfeited: ‘Honoured sirs, before I was invited (to take) this robe, approaching a householder who was not a relation, I put forward a consideration with regard to a robe; it is to be forfeited. I forfeit it to the Order.’ … ‘… the Order should give back … let the venerable ones give back … I will give back this robe to the venerable one.’
+If according to what he says, he gets in exchange one that is long or wide or rough or soft, there is an offence of wrong-doing in the action. It is to be forfeited on acquisition; it should be forfeited to the Order, or to a group, or to an individual. And thus, bhikkhus, should it be forfeited: ‘Honoured sirs, before I was invited (to take) this robe, approaching a householder who was not a relation, I put forward a consideration with regard to a robe; it is to be forfeited. I forfeit it to the Order.’ … ‘… the Order should give back … let the venerable ones give back … I will give back this robe to the venerable one.’
 
 * * *
 
@@ -89,7 +89,7 @@ If according to what he says, he gets in exchange one that is long or wide or ro
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

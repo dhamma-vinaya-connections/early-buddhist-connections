@@ -88,7 +88,7 @@ who analyzes the Dhamma right here,
 
 he, the cutter of doubt, the sage unperturbed,
 
-is called the second of monks:
+is called the second of bhikkhus:
 
 path-explainer.
 
@@ -100,7 +100,7 @@ restrained, mindful,
 
 partaking of blameless ways,
 
-is called the third of monks:
+is called the third of bhikkhus:
 
 with the path as his life.
 
@@ -138,7 +138,7 @@ vv. 83–90
 
 ### Notes
 
-1. A corrupter of families is a monk who ingratiates himself into a family’s affections by performing services for them that are inappropriate for a monk to do, thus diverting their faith away from those who live by the Dhamma and Vinaya. For more on this term, see _The Buddhist Monastic Code,_ Saṅghādisesa 13. [↩︎](#^snp1-5-01-ref) ^snp1-5-01
+1. A corrupter of families is a bhikkhu who ingratiates himself into a family’s affections by performing services for them that are inappropriate for a bhikkhu to do, thus diverting their faith away from those who live by the Dhamma and Vinaya. For more on this term, see _The Buddhist Monastic Code,_ Saṅghādisesa 13. [↩︎](#^snp1-5-01-ref) ^snp1-5-01
 
 2. “That one” = the path-corrupter. [↩︎](#^snp1-5-02-ref) ^snp1-5-02
 

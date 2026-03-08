@@ -1,6 +1,6 @@
 ---
 vin_code: "BNI-PC52"
-vin_title: "Bhikkhuakkosana - Abusing Monks"
+vin_title: "Bhikkhuakkosana - Abusing bhikkhus"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
@@ -28,22 +28,22 @@ Venerable Kappita was disturbed by the noise, and so he demolished the stupa and
 
 4The nuns of few desires complained and criticized them, “How could the nuns from the group of six abuse Venerable Upāli?” …
 
-“Is it true, monks, that those nuns did this?”
+“Is it true, bhikkhus, that those nuns did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could the nuns from the group of six do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How could the nuns from the group of six do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
-5‘If a nun abuses or reviles a monk, she commits an offense entailing confession.’”
+5‘If a nun abuses or reviles a bhikkhu, she commits an offense entailing confession.’”
 
 #### Definitions
 
 6**A:** whoever … **Nun:** … The nun who has been given the full ordination in unanimity by both Sanghas through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of nun is meant in this case.
 
-7**A monk:** one who is fully ordained. **Abuses:** if she abuses with the ten kinds of abuse or with any one of them, she commits an offense entailing confession.
+7**A bhikkhu:** one who is fully ordained. **Abuses:** if she abuses with the ten kinds of abuse or with any one of them, she commits an offense entailing confession.
 
 8**Reviles:** if she induces fear, she commits an offense entailing confession.
 

@@ -14,7 +14,7 @@ language: "English - Pali"
 
 ## - © Translated from the Pali by Bhante Sujato. 
 
-### 1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of five hundred mendicants when he arrived at Sālavatikā.
+### 1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of five hundred bhikkhus when he arrived at Sālavatikā.
 
 
 Now at that time the brahmin Lohicca was living in Sālavatikā. It was a crown property given by King Pasenadi of Kosala, teeming with living creatures, full of hay, wood, water, and grain, a royal endowment of the highest quality.
@@ -25,10 +25,10 @@ Now at that time the brahmin Lohicca was living in Sālavatikā. It was a crown 
 
 3Lohicca heard:
 
-“It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — has arrived at Sālavatikā, together with a large Saṅgha of five hundred mendicants. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.”
+“It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — has arrived at Sālavatikā, together with a large Saṅgha of five hundred bhikkhus. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.”
 
 
-4Then Lohicca addressed his barber Rosika: “Here, dear Rosika, go to the ascetic Gotama and in my name bow with your head to his feet. Ask him if he is healthy and well, nimble, strong, and living comfortably. And then ask him whether he, together with the mendicant Saṅgha, might accept tomorrow’s meal from the brahmin Lohicca.”
+4Then Lohicca addressed his barber Rosika: “Here, dear Rosika, go to the ascetic Gotama and in my name bow with your head to his feet. Ask him if he is healthy and well, nimble, strong, and living comfortably. And then ask him whether he, together with the bhikkhu Saṅgha, might accept tomorrow’s meal from the brahmin Lohicca.”
 
 
 5“Yes, sir,” Rosika replied. He did as he was asked, and the Buddha consented in silence.
@@ -41,12 +41,12 @@ Now at that time the brahmin Lohicca was living in Sālavatikā. It was a crown 
 “Yes, sir,” Rosika replied. He did as he was asked.
 
 
-8Then the Buddha put on his outer robe in the morning and, taking his bowl and robe, went to Sālavatikā together with the Saṅgha of mendicants. Now, Rosika was following behind the Buddha, and told him of Lohicca’s views, adding: “Sir, please dissuade him from that harmful misconception.”
+8Then the Buddha put on his outer robe in the morning and, taking his bowl and robe, went to Sālavatikā together with the Saṅgha of bhikkhus. Now, Rosika was following behind the Buddha, and told him of Lohicca’s views, adding: “Sir, please dissuade him from that harmful misconception.”
 
 “Hopefully that’ll happen, Rosika, hopefully that’ll happen.”
 
 
-9Then the Buddha approached Lohicca’s home, where he sat on the seat spread out. Then Lohicca served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with a variety of delicious foods.
+9Then the Buddha approached Lohicca’s home, where he sat on the seat spread out. Then Lohicca served and satisfied the bhikkhu Saṅgha headed by the Buddha with his own hands with a variety of delicious foods.
 
 #### 1. Questioning Lohicca
 #### B. Sujato
@@ -134,7 +134,7 @@ These are the three kinds of teachers in the world who deserve to be reprimanded
 
 “But who is that teacher?”
 
-20“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. … They enter and remain in the first jhāna … A teacher under whom a disciple achieves such a high distinction is one who does not deserve to be reprimanded. When someone reprimands such a teacher, the reprimand is false, baseless, illegitimate, and blameworthy.
+20“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a bhikkhu is accomplished in ethics. … They enter and remain in the first jhāna … A teacher under whom a disciple achieves such a high distinction is one who does not deserve to be reprimanded. When someone reprimands such a teacher, the reprimand is false, baseless, illegitimate, and blameworthy.
 
 21They enter and remain in the second jhāna … third jhāna … fourth jhāna. A teacher under whom a disciple achieves such a high distinction is one who does not deserve to be reprimanded. …
 
@@ -147,7 +147,7 @@ These are the three kinds of teachers in the world who deserve to be reprimanded
 
 “Suppose, Master Gotama, a person was on the verge of falling off a cliff, and another person were to grab them by the hair, pull them up, and place them on firm ground. In the same way, when I was falling off a cliff Master Gotama pulled me up and placed me on safe ground.
 
-Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the Teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
+Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the Teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
 
 1Evaṁ me sutaṁ — ​ ekaṁ samayaṁ bhagavā kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena sālavatikā tadavasari.
 

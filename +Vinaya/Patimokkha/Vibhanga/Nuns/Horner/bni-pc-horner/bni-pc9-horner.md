@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.9.1.1* *BD.3.259* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time a certain brahmin’s cornfield was beside a nunnery. The nuns threw out excrement and urine and rubbish and remains of food into the field. Then that brahmin … spread it about, saying: “How can the nuns despoil our cornfield?”[^1] Nuns heard that brahmin who … spread it about. Those who were modest nuns … spread it about, saying: “How can nuns throw out excrement … and the remains of food on to the crops?”[^2] …
 
-“Is it true, as is said, monks, that nuns threw out … on to the crops?”
+“Is it true, as is said, bhikkhus, that nuns threw out … on to the crops?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns throw out … on to the crops? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns throw out … on to the crops? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should throw out or should cause (another) to throw out excrement or urine or rubbish or the remains of food on to the crops, there is an offence of expiation.”[^3]
 

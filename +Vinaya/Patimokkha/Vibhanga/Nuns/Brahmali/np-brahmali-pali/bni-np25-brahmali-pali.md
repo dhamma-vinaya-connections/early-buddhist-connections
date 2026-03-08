@@ -33,9 +33,9 @@ language: "Pali - English"
 Pilindavaccha then instructed, inspired, and gladdened King Bimbisāra with a teaching, after which the king got up from his seat, bowed down, circumambulated Pilindavaccha with his right side toward him, and left.
 
 
-2Soon afterwards Pilindavaccha sent a message to the Buddha: “Venerable Sir, King Seniya Bimbisāra of Magadha wishes to provide a monastery worker. What should I tell him?” The Buddha then gave a teaching and addressed the monks:
+2Soon afterwards Pilindavaccha sent a message to the Buddha: “Venerable Sir, King Seniya Bimbisāra of Magadha wishes to provide a monastery worker. What should I tell him?” The Buddha then gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow monastery workers.”
+“bhikkhus, I allow monastery workers.”
 
 
 Once again King Bimbisāra went to Pilindavaccha, bowed, sat down, and said, “Sir, has the Buddha allowed monastery workers?”
@@ -85,22 +85,22 @@ Pilindavaccha then focused his mind on turning King Bimbisāra’s stilt house i
 
 5People said, “They say Venerable Pilindavaccha has performed a superhuman feat, a wonder of supernormal power, for the king and his court!” Being delighted and gaining confidence in Pilindavaccha, they brought him the five tonics: ghee, butter, oil, honey, and syrup. Ordinarily, too, Pilindavaccha was getting the five tonics. Since he was getting so much, he gave it away to his followers, who ended up with an abundance of tonics. After filling up basins and water pots and setting these aside, they filled their water filters and bags and hung these in the windows. But the tonics were dripping, and the dwellings became infested with rats. When people walking about the dwellings saw this, they complained and criticized them, “These Sakyan monastics are hoarding things indoors, just like King Seniya Bimbisāra of Magadha.”
 
-6The monks heard the complaints of those people and the monks of few desires complained and criticized those monks, “How can these monks choose to live with such abundance?”
+6The bhikkhus heard the complaints of those people and the bhikkhus of few desires complained and criticized those bhikkhus, “How can these bhikkhus choose to live with such abundance?”
 
-7After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that there are monks who live like this?”
+7After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that there are bhikkhus who live like this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can those foolish men live like this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How can those foolish men live like this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-8‘After being received, the tonics allowable for sick monks—that is, ghee, butter, oil, honey, and syrup—should be used from storage for at most seven days. If one uses them longer than that, one commits an offense entailing relinquishment and confession.’”
+8‘After being received, the tonics allowable for sick bhikkhus—that is, ghee, butter, oil, honey, and syrup—should be used from storage for at most seven days. If one uses them longer than that, one commits an offense entailing relinquishment and confession.’”
 
 #### Definitions
 
-9**The tonics allowable for sick monks:** Ghee: ghee from cows, ghee from goats, ghee from buffaloes, or ghee from whatever animal whose meat is allowable.
+9**The tonics allowable for sick bhikkhus:** Ghee: ghee from cows, ghee from goats, ghee from buffaloes, or ghee from whatever animal whose meat is allowable.
 
 **Butter:** butter from the same animals.
 
@@ -116,7 +116,7 @@ The Buddha rebuked them … “How can those foolish men live like this? This wi
 11**If one uses them longer than that, one commits an offense entailing relinquishment:** it becomes subject to relinquishment at dawn on the eighth day.
 
 
-The tonics should be relinquished to a saṅgha, a group, or an individual. “And, monks, they should be relinquished like this: To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
+The tonics should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, they should be relinquished like this: To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
 
 
 ‘Venerables, these tonics, which I have kept over seven days, are to be relinquished. I relinquish them to the Sangha.’ … the Sangha should give … you should give … ‘I give these tonics back to you.’”
@@ -128,7 +128,7 @@ The tonics should be relinquished to a saṅgha, a group, or an individual. “A
 If they have not been determined, but he perceives that they have, he commits an offense entailing relinquishment and confession. If they have not been given away, but he perceives that they have, he commits an offense entailing relinquishment and confession. If they have not been lost, but he perceives that they have, he commits an offense entailing relinquishment and confession. If they have not been destroyed, but he perceives that they have, he commits an offense entailing relinquishment and confession. If they have not been burned, but he perceives that they have, he commits an offense entailing relinquishment and confession. If they have not been stolen, but he perceives that they have, he commits an offense entailing relinquishment and confession.
 
 
-13After the relinquished tonics have been returned, they are not to be used on the body, nor are they to be eaten. They may be used in lamps or as a black coloring agent. Other monks may use them on the body, but they may not eat them.
+13After the relinquished tonics have been returned, they are not to be used on the body, nor are they to be eaten. They may be used in lamps or as a black coloring agent. Other bhikkhus may use them on the body, but they may not eat them.
 
 14If it is less than seven days, but he perceives it as more, he commits an offense of wrong conduct. If it is less than seven days, but he is unsure of it, he commits an offense of wrong conduct. If it is less than seven days and he perceives it as less, there is no offense.
 

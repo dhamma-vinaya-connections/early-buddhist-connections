@@ -56,12 +56,12 @@ The Buddhas say one such is victor of the path.
 87 Knowing the ultimate as ultimate,  
 they explain and analyze the teaching right here.  
 That sage unstirred, with doubt cut off,  
-is the second mendicant, I say, the path-teacher.
+is the second bhikkhu, I say, the path-teacher.
 
 88 Living restrained and mindful on the path  
 of the well-taught passages of teaching,  
 cultivating blameless states,  
-is the third mendicant, I say, the path-liver.
+is the third bhikkhu, I say, the path-liver.
 
 89Dressed like one true to their vows,  
 pushy, rude, a corrupter of families,  

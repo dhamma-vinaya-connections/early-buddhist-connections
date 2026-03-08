@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, you can expect four benefits from relying on a good person. What four? Growth in noble ethics, immersion, wisdom, and freedom. You can expect these four benefits from relying on a good person.”
+1“bhikkhus, you can expect four benefits from relying on a good person. What four? Growth in noble ethics, immersion, wisdom, and freedom. You can expect these four benefits from relying on a good person.”
 
 1"Sappurisaṁ, bhikkhave, nissāya cattāro ānisaṁsā pāṭikaṅkhā. Katame cattāro? Ariyena sīlena vaḍḍhati, ariyena samādhinā vaḍḍhati, ariyāya paññāya vaḍḍhati, ariyāya vimuttiyā vaḍḍhati – sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā"ti.
 

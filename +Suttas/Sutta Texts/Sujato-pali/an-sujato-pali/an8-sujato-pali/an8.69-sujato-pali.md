@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these eight assemblies. What eight?
+1“bhikkhus, there are these eight assemblies. What eight?
 
 The assemblies of aristocrats, brahmins, householders, and ascetics. An assembly of the gods under the Four Great Kings. An assembly of the gods under the Thirty-Three. An assembly of Māras. An assembly of Brahmās.
 

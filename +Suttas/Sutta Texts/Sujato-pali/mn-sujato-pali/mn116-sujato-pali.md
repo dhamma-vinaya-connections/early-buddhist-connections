@@ -18,12 +18,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Rājagaha, on the Isigili Mountain. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Rājagaha, on the Isigili Mountain. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, do you see that Mount Vebhāra?”
+2“bhikkhus, do you see that Mount Vebhāra?”
 
 “Yes, sir.”
 

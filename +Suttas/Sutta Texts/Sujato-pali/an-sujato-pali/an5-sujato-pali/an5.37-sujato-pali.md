@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a giver gives food, they give the recipients five things. What five? Long life, beauty, happiness, strength, and eloquence.
+1“bhikkhus, when a giver gives food, they give the recipients five things. What five? Long life, beauty, happiness, strength, and eloquence.
 
 Giving long life, they have long life as a god or human.
 

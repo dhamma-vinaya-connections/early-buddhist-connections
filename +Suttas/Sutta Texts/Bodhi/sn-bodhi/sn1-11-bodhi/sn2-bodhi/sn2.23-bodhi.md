@@ -50,7 +50,7 @@ Standing to one side, the young deva Serī addressed the Blessed One in verse:
 >   
 > \[When they arise\] in the other world.’
 
-“Once in the past, venerable sir, I was a king named Serī, a donor, a philanthropist, one who spoke in praise of giving. At the four gates I had gifts given to ascetics, brahmins, paupers, wayfarers, mendicants, and beggars. Then, venerable sir, the harem women came to me and said: ‘Your majesty gives gifts, but we do not give gifts. It would be good if, with your majesty’s assistance, we too might give gifts and do meritorious deeds.’ It occurred to me: ‘I am a donor, a philanthropist, one who speaks in praise of giving. So when they say, “Let us give gifts,” what am I to say to them?’ So, venerable sir, I gave the first gate to the harem women. There the harem women gave gifts, and my gifts returned to me. 
+“Once in the past, venerable sir, I was a king named Serī, a donor, a philanthropist, one who spoke in praise of giving. At the four gates I had gifts given to ascetics, brahmins, paupers, wayfarers, bhikkhus, and beggars. Then, venerable sir, the harem women came to me and said: ‘Your majesty gives gifts, but we do not give gifts. It would be good if, with your majesty’s assistance, we too might give gifts and do meritorious deeds.’ It occurred to me: ‘I am a donor, a philanthropist, one who speaks in praise of giving. So when they say, “Let us give gifts,” what am I to say to them?’ So, venerable sir, I gave the first gate to the harem women. There the harem women gave gifts, and my gifts returned to me. 
 
 “Then, venerable sir, my khattiya vassals came to me and said: ‘Your majesty gives gifts, the harem women give gifts, but we do not give gifts. It would be good if, with your majesty’s assistance, we too might give gifts and do meritorious deeds.’ It occurred to me: ‘I am a donor….’ So, venerable sir, I gave the second gate to the khattiya vassals. There the khattiya vassals gave gifts, and my gifts returned to me.
 
@@ -58,7 +58,7 @@ Standing to one side, the young deva Serī addressed the Blessed One in verse:
 
 “Then, venerable sir, the brahmins and householders came to me … So, venerable sir, I gave the fourth gate to the brahmins and householders. There the brahmins and householders gave gifts, and my gifts returned to me.
 
-“Then, venerable sir, my men came to me and said: ‘Now your majesty is not giving gifts anywhere.’ When this was said, I told those men: ‘Well then, I say, send half of the revenue generated in the outlying provinces from there to the palace. There itself give half as gifts to ascetics, brahmins, paupers, wayfarers, mendicants, and beggars.’
+“Then, venerable sir, my men came to me and said: ‘Now your majesty is not giving gifts anywhere.’ When this was said, I told those men: ‘Well then, I say, send half of the revenue generated in the outlying provinces from there to the palace. There itself give half as gifts to ascetics, brahmins, paupers, wayfarers, bhikkhus, and beggars.’
 
 “I did not reach any limit, venerable sir, to the meritorious deeds that I did for such a long time, to the wholesome deeds that I did for such a long time,  such that I could say: ‘There is just so much merit,’ or ‘There is just so much result of merit,’ or ‘For just so long am I to dwell in heaven.’ It is wonderful, venerable sir! It is amazing, venerable sir! How well this was stated by the Blessed One:
 

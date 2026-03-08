@@ -42,13 +42,13 @@ The wanderer put on the upper robe and went to the wanderers’ monastery. The w
 
 Then that wanderer complained and criticized him, “Even householders give back to each other when they regret a trade. How, then, can a monastic not do the same?”
 
-3The monks heard the complaints of that wanderer, and the monks of few desires complained and criticized Upananda, “How could Venerable Upananda barter with a wanderer?”
+3The bhikkhus heard the complaints of that wanderer, and the bhikkhus of few desires complained and criticized Upananda, “How could Venerable Upananda barter with a wanderer?”
 
 4After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Upananda: “Is it true, Upananda, that you did this?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -64,7 +64,7 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 8**Engages in barter:** if he misbehaves, saying, “Give that for this,” “Bring that for this,” “Trade that with this,” “Exchange that for this,” he commits an offense of wrong conduct. When it has been bartered—his own goods are in the hands of the other and the other’s goods are in his own hands—it becomes subject to relinquishment.
 
 
-The goods should be relinquished to a saṅgha, a group, or an individual. “And, monks, they should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
+The goods should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, they should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
 
 
 ‘Venerables, I have engaged in various kinds of barter. This is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this back to you.’”

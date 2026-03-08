@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three sources that give rise to deeds. What three? Greed, hate, and delusion are sources that give rise to deeds.
+1“bhikkhus, there are these three sources that give rise to deeds. What three? Greed, hate, and delusion are sources that give rise to deeds.
 
 Any deed that emerges from greed — born, sourced, and originated from greed — ripens where that new life-form is born. And wherever that deed ripens, its result is experienced — either in the present life, or in the next life, or in some subsequent period.
 
@@ -38,7 +38,7 @@ In the same way, any deed that emerges from greed — born, sourced, and origina
 
 These are three sources that give rise to deeds.
 
-7Mendicants, there are these three sources that give rise to deeds. What three? Contentment, love, and understanding are sources that give rise to deeds.
+7bhikkhus, there are these three sources that give rise to deeds. What three? Contentment, love, and understanding are sources that give rise to deeds.
 
 8Any deed that emerges from contentment — born, sourced, and originated from contentment — is given up when greed is done away with. It’s cut off at the root, made like a palm stump, obliterated, and unable to arise in the future.
 
@@ -64,7 +64,7 @@ are to be experienced right here,
 not in any other place.
 
 14So a wise person,  
-a mendicant arousing knowledge  
+a bhikkhu arousing knowledge  
 of the outcome of greed, hate, and delusion,  
 abandons all bad destinations.”
 

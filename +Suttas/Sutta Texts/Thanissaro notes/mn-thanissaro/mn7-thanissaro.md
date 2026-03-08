@@ -15,25 +15,25 @@ language: "English"
 ## ## Vatthūpama Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. There he addressed the monks: “Monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. There he addressed the bhikkhus: “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said, “Monks, suppose a piece of cloth were defiled and tenaciously stained, and a dyer were to dip it into some dye or other—whether blue or yellow or red or crimson. It would be poorly dyed, impurely dyed. Why is that? Because of the impurity of the cloth. In the same way, when the mind is defiled, a bad destination can be expected.
+The Blessed One said, “bhikkhus, suppose a piece of cloth were defiled and tenaciously stained, and a dyer were to dip it into some dye or other—whether blue or yellow or red or crimson. It would be poorly dyed, impurely dyed. Why is that? Because of the impurity of the cloth. In the same way, when the mind is defiled, a bad destination can be expected.
 
 “But suppose a piece of cloth were pure and clean, and a dyer were to dip it into some dye or other—whether blue or yellow or red or crimson. It would be well dyed, purely dyed. Why is that? Because of the purity of the cloth. In the same way, when the mind is undefiled, a good destination can be expected.
 
 “And which are the defilements of the mind? Possessiveness-and-inordinate-greed is a defilement of the mind. Ill will... Anger... Spitefulness... Dismissiveness... Antagonism... Envy... Selfishness... Deceit... Pretentiousness... Stubbornness... Competitiveness[1](#^mn7note01)... Conceit... Arrogance... Intoxication... Heedlessness is a defilement of the mind. ^mn7note01-ref
 
-“Knowing, ‘Possessiveness-and-inordinate-greed is a defilement of the mind,’ a monk abandons possessiveness-and-inordinate-greed as a defilement of the mind. ... Knowing, ‘Heedlessness is a defilement of the mind,’ a monk abandons heedlessness as a defilement of the mind.
+“Knowing, ‘Possessiveness-and-inordinate-greed is a defilement of the mind,’ a bhikkhu abandons possessiveness-and-inordinate-greed as a defilement of the mind. ... Knowing, ‘Heedlessness is a defilement of the mind,’ a bhikkhu abandons heedlessness as a defilement of the mind.
 
-“When a monk, knowing, ‘Possessiveness-and-inordinate-greed is a defilement of the mind,’ has abandoned possessiveness-and-inordinate-greed as a defilement of the mind... and knowing, ‘Heedlessness is a defilement of the mind,’ has abandoned heedlessness as a defilement of the mind, he is endowed with confirmed conviction in the Awakened One: ‘Indeed, the Blessed One is worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed.’
+“When a bhikkhu, knowing, ‘Possessiveness-and-inordinate-greed is a defilement of the mind,’ has abandoned possessiveness-and-inordinate-greed as a defilement of the mind... and knowing, ‘Heedlessness is a defilement of the mind,’ has abandoned heedlessness as a defilement of the mind, he is endowed with confirmed conviction in the Awakened One: ‘Indeed, the Blessed One is worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed.’
 
 “He is endowed with confirmed conviction in the Dhamma: ‘The Dhamma is well taught by the Blessed One, to be seen here & now, timeless, inviting verification, pertinent, to be experienced by the observant for themselves.’
 
 “He is endowed with confirmed conviction in the Saṅgha: ‘The Saṅgha of the Blessed One’s disciples who have practiced well... who have practiced straight-forwardly... who have practiced methodically... who have practiced masterfully—in other words, the four types of noble disciples when taken as pairs, the eight when taken as individual types—they are the Saṅgha of the Blessed One’s disciples: worthy of gifts, worthy of hospitality, worthy of offerings, worthy of respect, the incomparable field of merit for the world.’
 
-“Because [each of the defilements of mind] has been given up, spit out, released, abandoned, and relinquished in part[2](#^mn7note02) by a monk, he—thinking, ‘I am endowed with confirmed conviction in the Awakened One’—gains a sense of the goal, gains a sense of the Dhamma, gains a joy connected with the Dhamma. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes collected. ^mn7note02-ref
+“Because [each of the defilements of mind] has been given up, spit out, released, abandoned, and relinquished in part[2](#^mn7note02) by a bhikkhu, he—thinking, ‘I am endowed with confirmed conviction in the Awakened One’—gains a sense of the goal, gains a sense of the Dhamma, gains a joy connected with the Dhamma. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes collected. ^mn7note02-ref
 
 “Thinking, ‘I am endowed with confirmed conviction in the Dhamma,’ he gains a sense of the goal, gains a sense of the Dhamma, gains a joy connected with the Dhamma. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes collected.
 
@@ -41,13 +41,13 @@ The Blessed One said, “Monks, suppose a piece of cloth were defiled and tenaci
 
 “Thinking, ‘Because [each of the defilements of mind] has been given up, spit out, released, abandoned, and relinquished in part by me,’ he gains a sense of the goal, gains a sense of the Dhamma, gains a joy connected with the Dhamma. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes collected.
 
-“When a monk of such virtue, such Dhamma, and such discernment eats almsfood—even that consisting of hill rice with no black grains, and with many sauces & curries—it will not be an obstacle for him. Just as a piece of cloth, defiled & stained, becomes pure & bright with the help of clear water, or gold becomes pure & bright with the help of a furnace, in the same way, when a monk of such virtue, such Dhamma, and such discernment eats almsfood—even that consisting of hill rice with no black grains, and with many sauces & curries—it will not be an obstacle for him.
+“When a bhikkhu of such virtue, such Dhamma, and such discernment eats almsfood—even that consisting of hill rice with no black grains, and with many sauces & curries—it will not be an obstacle for him. Just as a piece of cloth, defiled & stained, becomes pure & bright with the help of clear water, or gold becomes pure & bright with the help of a furnace, in the same way, when a bhikkhu of such virtue, such Dhamma, and such discernment eats almsfood—even that consisting of hill rice with no black grains, and with many sauces & curries—it will not be an obstacle for him.
 
 “He keeps pervading the first direction [the east] with an awareness imbued with goodwill, likewise the second, likewise the third, likewise the fourth. Thus above, below, & all around, everywhere, in its entirety, he keeps pervading the all-encompassing cosmos with an awareness imbued with goodwill—abundant, enlarged, immeasurable, without hostility, without ill will. He keeps pervading the first direction with an awareness imbued with compassion... empathetic joy... equanimity, likewise the second, likewise the third, likewise the fourth. Thus above, below, & all around, everywhere, in its entirety, he keeps pervading the all-encompassing cosmos with an awareness imbued with equanimity—abundant, enlarged, immeasurable, without hostility, without ill will.
 
 “He discerns, ‘There is this. There is what is lower. There is what is more exquisite. There is the higher escape from this mode of perception[3](#^mn7note03).’ For him—thus knowing, thus seeing—the mind is released from the effluent of sensuality, released from the effluent of becoming, released from the effluent of ignorance. With release, there is the knowledge, ‘Released.’ He discerns that ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’ ^mn7note03-ref
 
-“This, monks, is a monk who is said to be one who has bathed with the inner bathing.”
+“This, bhikkhus, is a bhikkhu who is said to be one who has bathed with the inner bathing.”
 
 Now, on that occasion Sundarika Bhāradvāja the brahman was sitting not far from the Blessed One, so he said to the Blessed One, “But does Master Gotama go to the Bāhuka River to bathe?”
 
@@ -125,7 +125,7 @@ Even a well
 
 would be Gayā for you.”
 
-When this was said, Sundarika Bhāradvāja the brahman said to the Blessed One, “Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. Let me obtain the Going-forth in Master Gotama’s presence, let me obtain Acceptance (into the Saṅgha of monks).”
+When this was said, Sundarika Bhāradvāja the brahman said to the Blessed One, “Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of bhikkhus. Let me obtain the Going-forth in Master Gotama’s presence, let me obtain Acceptance (into the Saṅgha of bhikkhus).”
 
 Then Sundarika Bhāradvāja the brahman received the Going-forth in the Blessed One’s presence, he gained the Acceptance. And not long after his Acceptance—dwelling alone, secluded, heedful, ardent, & resolute—he in no long time entered & remained in the supreme goal of the holy life, for which clansmen rightly go forth from home into homelessness, directly knowing & realizing it for himself in the here & now. He knew: “Birth is ended, the holy life fulfilled, the task done. There is nothing further for the sake of this world.” And so Ven. Bhāradvāja became another one of the arahants.
 

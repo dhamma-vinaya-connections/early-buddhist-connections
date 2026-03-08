@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> With seven qualities, a mendicant will soon realize the four kinds of textual analysis
+> With seven qualities, a bhikkhu will soon realize the four kinds of textual analysis
 
 > [!info] Key Excerpts 
 > Truly understands: ‘this is mental sluggishness’, internally constricted mind, externally scattered mind, feelings, perceptions, and thoughts as they arose, as they remained, and as they went away, patterns of qualities are comprehended with wisdom
 > 
-> Mendicant with these seven qualities will soon realize the four kinds of textual analysis and live having achieved them with their own insight
+> bhikkhu with these seven qualities will soon realize the four kinds of textual analysis and live having achieved them with their own insight
 > 
 
 

@@ -2,7 +2,7 @@
 index:
   - Patimokkha
 rule_type: "BU-PC - Pacittiya - Confession"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-PC 
 
@@ -26,7 +26,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhupesuññe pācittiyaṃ | If a monk engages in malicious talebearing between monks, he commits an offense entailing confession |
+| Bhikkhupesuññe pācittiyaṃ | If a monk engages in malicious talebearing between bhikkhus, he commits an offense entailing confession |
 
 > [!example]- 🌐[[BU-PC4]] - 📜[Available texts](obsidian://search?query=file:bu-pc4-) - Padasodhamma - Dhamma Memorizing
 >  
@@ -62,7 +62,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yopana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ | If a monk tells a person who is not fully ordained about a monk’s grave offense, except if the monks have agreed, he commits an offense entailing confession |
+| Yopana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ | If a monk tells a person who is not fully ordained about a monk’s grave offense, except if the bhikkhus have agreed, he commits an offense entailing confession |
 
 > [!example]- 🌐[[BU-PC10]] - 📜[Available texts](obsidian://search?query=file:bu-pc10-) - Pathavīkhaṇana - Digging Earth
 >  
@@ -152,7 +152,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu evaṃ vadeyya "āmisahetu therā bhikkhū bhikkhuniyo ovadantī"ti, pācittiyaṃ | If a monk says that the senior monks are instructing the nuns for the sake of worldly gain, he commits an offense entailing confession |
+| Yo pana bhikkhu evaṃ vadeyya "āmisahetu therā bhikkhū bhikkhuniyo ovadantī"ti, pācittiyaṃ | If a monk says that the senior bhikkhus are instructing the nuns for the sake of worldly gain, he commits an offense entailing confession |
 
 > [!example]- 🌐[[BU-PC25]] - 📜[Available texts](obsidian://search?query=file:bu-pc25-) - Cīvaradāna - Robes Giving
 >  
@@ -212,7 +212,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhuṃ paneva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā. tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci | If a monk goes to a family and is invited to take pastries or baked goods, he may accept two or three bowlfuls if he wishes. If he accepts more than that, he commits an offense entailing confession. If he accepts two or three bowlfuls, he should take it away and share it with the monks. This is the proper procedure |
+| Bhikkhuṃ paneva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā. tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci | If a monk goes to a family and is invited to take pastries or baked goods, he may accept two or three bowlfuls if he wishes. If he accepts more than that, he commits an offense entailing confession. If he accepts two or three bowlfuls, he should take it away and share it with the bhikkhus. This is the proper procedure |
 
 > [!example]- 🌐[[BU-PC35]] - 📜[Available texts](obsidian://search?query=file:bu-pc35-) - Pavāraṇā - Eating More After Refusing an Invitation
 >  
@@ -398,7 +398,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṃ tasmiṃ pācittiyaṃ | If a monk gives the full ordination to a person he knows is less than twenty years old, he commits an offense entailing confession. Moreover, that person has not received the full ordination and those monks are blameworthy |
+| Yo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṃ tasmiṃ pācittiyaṃ | If a monk gives the full ordination to a person he knows is less than twenty years old, he commits an offense entailing confession. Moreover, that person has not received the full ordination and those bhikkhus are blameworthy |
 
 > [!example]- 🌐[[BU-PC66]] - 📜[Available texts](obsidian://search?query=file:bu-pc66-) - Theyyasattha - Traveling with Thieves
 >  
@@ -416,7 +416,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu evaṃ vadeyya "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā"ti, so bhikkhu bhikkhūhi evamassa vacanīyo "māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā"ti. evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. no ce paṭinissajjeyya, pācittiyaṃ | If a monk says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the monks should correct him like this: “No, Venerable, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that monk continues as before, the monks should press him up to three times to make him give up that view. If he then gives it up, all is well. If he does not, he commits an offense entailing confession |
+| Yo pana bhikkhu evaṃ vadeyya "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā"ti, so bhikkhu bhikkhūhi evamassa vacanīyo "māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā"ti. evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. no ce paṭinissajjeyya, pācittiyaṃ | If a monk says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the bhikkhus should correct him like this: “No, Venerable, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that monk continues as before, the bhikkhus should press him up to three times to make him give up that view. If he then gives it up, all is well. If he does not, he commits an offense entailing confession |
 
 > [!example]- 🌐[[BU-PC69]] - 📜[Available texts](obsidian://search?query=file:bu-pc69-) - Ukkhittasambhoga - Living With an Ejected Bhikkhu
 >  
@@ -428,13 +428,13 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Samaṇuddesopi ce evaṃ vadeyya "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā"ti, so samaṇuddeso bhikkhūhi evamassa vacanīyo "māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā"ti, evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evamassa vacanīyo "ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā"ti. yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ | Also if a novice monastic says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the monks should correct him like this: “No, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that novice monastic continues as before, he should be told: “From today on you may not refer to the Buddha as your teacher. And you can no longer share a sleeping place with the monks for two or three nights, as can other novice monastics. Go! Away with you!” If a monk befriends that novice monastic, or he is attended on by him, lives with him, or shares a sleeping place with him, even though he knows that he has been expelled in this way, he commits an offense entailing confession.’” |
+| Samaṇuddesopi ce evaṃ vadeyya "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā"ti, so samaṇuddeso bhikkhūhi evamassa vacanīyo "māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā"ti, evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evamassa vacanīyo "ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā"ti. yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ | Also if a novice monastic says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the bhikkhus should correct him like this: “No, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that novice monastic continues as before, he should be told: “From today on you may not refer to the Buddha as your teacher. And you can no longer share a sleeping place with the bhikkhus for two or three nights, as can other novice monastics. Go! Away with you!” If a monk befriends that novice monastic, or he is attended on by him, lives with him, or shares a sleeping place with him, even though he knows that he has been expelled in this way, he commits an offense entailing confession.’” |
 
 > [!example]- 🌐[[BU-PC71]] - 📜[Available texts](obsidian://search?query=file:bu-pc71-) - Sahadhammika - Legitimate Correction
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya "na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī"ti, pācittiyaṃ. sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci | If a monk, when legitimately corrected by the monks, says, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law,” he commits an offense entailing confession. A monk who is training should understand, should question, should enquire. This is the proper procedure |
+| Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya "na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī"ti, pācittiyaṃ. sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci | If a monk, when legitimately corrected by the bhikkhus, says, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law,” he commits an offense entailing confession. A monk who is training should understand, should question, should enquire. This is the proper procedure |
 
 > [!example]- 🌐[[BU-PC72]] - 📜[Available texts](obsidian://search?query=file:bu-pc72-) - Vilekhana - Annoyance
 >  
@@ -446,7 +446,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya "idāneva kho ahaṃ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī"ti. tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo "tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamānena sādhukaṃ aṭṭhiṃ katvā manasi karosī"ti, idaṃ tasmiṃ mohanake pācittiyaṃ | During the half-monthly recitation of the Monastic Code, a monk might say, “Just now did I find out that this rule too has come down in the Monastic Code, is included in the Monastic Code, and comes up for recitation every half-month.” If other monks know that that monk has previously sat through at least two or three recitations of the Monastic Code, then that monk is not let off because of ignorance, and he is to be dealt with according to the rule. Further, he should be charged with deception: “It’s a loss for you that you don’t pay proper attention during the recitation of the Monastic Code.” And for the act of deception, he commits an offense entailing confession |
+| Yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya "idāneva kho ahaṃ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī"ti. tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo "tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamānena sādhukaṃ aṭṭhiṃ katvā manasi karosī"ti, idaṃ tasmiṃ mohanake pācittiyaṃ | During the half-monthly recitation of the Monastic Code, a monk might say, “Just now did I find out that this rule too has come down in the Monastic Code, is included in the Monastic Code, and comes up for recitation every half-month.” If other bhikkhus know that that monk has previously sat through at least two or three recitations of the Monastic Code, then that monk is not let off because of ignorance, and he is to be dealt with according to the rule. Further, he should be charged with deception: “It’s a loss for you that you don’t pay proper attention during the recitation of the Monastic Code.” And for the act of deception, he commits an offense entailing confession |
 
 > [!example]- 🌐[[BU-PC74]] - 📜[Available texts](obsidian://search?query=file:bu-pc74-) - Pahāra - Hitting
 >  
@@ -476,7 +476,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya "yaṃ ime bhaṇissanti, taṃ sossāmī"ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ | If a monk eavesdrops on monks who are arguing and disputing, thinking, “I’ll hear what they say,” and he does so only for this reason and no other, he commits an offense entailing confession |
+| Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya "yaṃ ime bhaṇissanti, taṃ sossāmī"ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ | If a monk eavesdrops on bhikkhus who are arguing and disputing, thinking, “I’ll hear what they say,” and he does so only for this reason and no other, he commits an offense entailing confession |
 
 > [!example]- 🌐[[BU-PC79]] - 📜[Available texts](obsidian://search?query=file:bu-pc79-) - Kammapaṭibāhana - Obstructive Legal Procedure
 >  
@@ -494,7 +494,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya "yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī"ti, pācittiyaṃ | If a monk gives out a robe as part of a unanimous Sangha and then criticizes it afterwards, saying, “The monks are diverting the Sangha’s material things according to friendship,” he commits an offense entailing confession |
+| Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya "yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī"ti, pācittiyaṃ | If a monk gives out a robe as part of a unanimous Sangha and then criticizes it afterwards, saying, “The bhikkhus are diverting the Sangha’s material things according to friendship,” he commits an offense entailing confession |
 
 > [!example]- 🌐[[BU-PC82]] - 📜[Available texts](obsidian://search?query=file:bu-pc82-) - Pariṇāmana - Diverting Gains
 >  

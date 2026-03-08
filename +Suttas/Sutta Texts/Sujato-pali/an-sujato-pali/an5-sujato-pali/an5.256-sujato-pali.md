@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, without giving up these five qualities you can’t enter and remain in the first jhāna. What five? Stinginess with dwellings, families, material possessions, praise, and the teachings. Without giving up these five qualities you can’t enter and remain in the first jhāna.
+1“bhikkhus, without giving up these five qualities you can’t enter and remain in the first jhāna. What five? Stinginess with dwellings, families, material possessions, praise, and the teachings. Without giving up these five qualities you can’t enter and remain in the first jhāna.
 
 2But after giving up these five qualities you can enter and remain in the first jhāna. What five? Stinginess with dwellings, families, material possessions, praise, and the teachings. After giving up these five qualities you can enter and remain in the first jhāna.”
 

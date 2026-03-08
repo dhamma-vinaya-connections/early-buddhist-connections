@@ -105,7 +105,7 @@ contribution:
 > A touching glimpse into the sorrow that a father feels when his ungrateful children fail to honor him in his old age. Treat your parents well.
 
 
-> [!example]- 🌐[[SN7.20]] - 📜[Available texts](obsidian://search?query=file:sn7.20-) - Bhikkhakasutta – Mendicant
+> [!example]- 🌐[[SN7.20]] - 📜[Available texts](obsidian://search?query=file:sn7.20-) - Bhikkhakasutta – bhikkhu
 > Some brahmin students are collecting firewood when they see the Buddha  in meditation. They return and inform their teacher, who visits the Buddha  to ask him how he is so peaceful in the wild forest
 
 

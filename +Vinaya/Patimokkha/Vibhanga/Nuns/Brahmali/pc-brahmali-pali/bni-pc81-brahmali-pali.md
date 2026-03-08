@@ -18,16 +18,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the nun Thullanandā had gathered a group of senior monks, intending to give the full admission to a trainee nun. But after seeing much fresh and cooked food, she dismissed the senior monks, saying, “Venerables, I won’t give the full admission to the trainee nun just yet.” She then gathered Devadatta, Kokālika, Kaṭamodakatissaka, Khaṇḍadeviyāputta, and Samuddadatta, and gave the full admission to that trainee nun.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the nun Thullanandā had gathered a group of senior bhikkhus, intending to give the full admission to a trainee nun. But after seeing much fresh and cooked food, she dismissed the senior bhikkhus, saying, “Venerables, I won’t give the full admission to the trainee nun just yet.” She then gathered Devadatta, Kokālika, Kaṭamodakatissaka, Khaṇḍadeviyāputta, and Samuddadatta, and gave the full admission to that trainee nun.
 
 2The nuns of few desires complained and criticized her, “How could Venerable Thullanandā give the full admission to a trainee nun, when the given consent had expired?” …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

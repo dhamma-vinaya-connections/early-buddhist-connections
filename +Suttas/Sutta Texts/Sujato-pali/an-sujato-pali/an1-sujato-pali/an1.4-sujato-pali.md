@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single taste that occupies a man’s mind like the taste of a woman. The taste of a woman occupies a man’s mind.”
+1“bhikkhus, I do not see a single taste that occupies a man’s mind like the taste of a woman. The taste of a woman occupies a man’s mind.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekarasampi samanupassāmi yaṁ evaṁ purisassa cittaṁ pariyādāya tiṭṭhati yathayidaṁ, bhikkhave, itthiraso. Itthiraso, bhikkhave, purisassa cittaṁ pariyādāya tiṭṭhatī"ti.
 

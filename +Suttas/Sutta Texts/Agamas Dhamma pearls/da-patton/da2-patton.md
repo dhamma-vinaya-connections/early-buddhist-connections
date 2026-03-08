@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 2. The Final Journey
 
-1. Thus I have heard: One time, the Buddha was staying on Mount Gṛdhrakūṭa at Rājagṛha. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying on Mount Gṛdhrakūṭa at Rājagṛha. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 #### Varṣākāra’s Visit
 
@@ -77,15 +77,15 @@ The Buddha said, “It’s up to you to decide when to go.”
 
 #### How to Ensure the Teaching’s Growth
 
-21. Not long after he left, the Buddha told Ānanda, “Go and tell all the monks here in Rājagṛha to assemble at the meeting hall.”
+21. Not long after he left, the Buddha told Ānanda, “Go and tell all the bhikkhus here in Rājagṛha to assemble at the meeting hall.”
 
-22. Ānanda replied, “Very well,” then he went to the city of Rājagṛha and called all the monks to assemble in the meeting hall. He then [returned and] said to the Bhagavān, “The monks have assembled. It’s up to the sage to decide when to go.”
+22. Ānanda replied, “Very well,” then he went to the city of Rājagṛha and called all the bhikkhus to assemble in the meeting hall. He then [returned and] said to the Bhagavān, “The bhikkhus have assembled. It’s up to the sage to decide when to go.”
 
-23. The Bhagavān then rose from his seat and went to the Dharma meeting hall. He prepared a seat there and sat down. He then addressed the monks, “I will give a discourse on seven principles of not declining. Listen closely! Listen closely, and consider it well.”
+23. The Bhagavān then rose from his seat and went to the Dharma meeting hall. He prepared a seat there and sat down. He then addressed the bhikkhus, “I will give a discourse on seven principles of not declining. Listen closely! Listen closely, and consider it well.”
 
-The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it.”
+The bhikkhus said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it.”
 
-24. The Buddha told the monks, “These are seven principles of not declining: First, if we frequently hold meetings and discuss the proper meaning, elders and juniors will be in accord, and the teaching will be indestructible.
+24. The Buddha told the bhikkhus, “These are seven principles of not declining: First, if we frequently hold meetings and discuss the proper meaning, elders and juniors will be in accord, and the teaching will be indestructible.
 
 25. “Second, if those in high and low positions are in harmony, respectful, and don’t contradict each other, elders and juniors will be in accord, and the teaching will be indestructible.
 
@@ -99,19 +99,19 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 
 30. “Seventh, if we put others first and ourselves after them and don’t covet fame or profit, elders and juniors will be in accord, and the teaching will be indestructible.”
 
-31. The Buddha told the monks, “There’s another seven things that will make the teaching grow and not diminish. [What are the seven?] First, if we enjoy few duties and don’t like doing many things, the teaching will grow and not diminish. Second, if we enjoy silence and don’t like much talk … Third, if we’re seldom sleepy and don’t have any gloominess … Fourth, if we don’t keep company or talk about pointless things … Fifth, if we don’t praise ourselves for virtues we don’t have … Sixth, if we don’t associate with bad people or make them our companions … Seventh, if we’re happy living alone in quiet places in mountains and forests… Thus, monks, the teaching then will grow and not diminish.”
+31. The Buddha told the bhikkhus, “There’s another seven things that will make the teaching grow and not diminish. [What are the seven?] First, if we enjoy few duties and don’t like doing many things, the teaching will grow and not diminish. Second, if we enjoy silence and don’t like much talk … Third, if we’re seldom sleepy and don’t have any gloominess … Fourth, if we don’t keep company or talk about pointless things … Fifth, if we don’t praise ourselves for virtues we don’t have … Sixth, if we don’t associate with bad people or make them our companions … Seventh, if we’re happy living alone in quiet places in mountains and forests… Thus, bhikkhus, the teaching then will grow and not diminish.”
 
-32. The Buddha told the monks, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, have faith in the Tathāgata, Arhat, and Perfectly Awakened One who’s been given the ten epithets. Second, be conscientious and ashamed of one’s failings. Third, be modest and embarrassed by bad behavior. Fourth, be well-versed in and remember what’s good in the beginning, middle, and end, that’s profound in content and expression, that’s pure and undefiled, and that perfects the religious life. Fifth, diligently practice asceticism, cease doing what’s bad, cultivate what’s good, and don’t abandon that effort. Sixth, remember and don’t forget what’s been learned in the past. Seventh, cultivate wisdom, recognize the law of birth and cessation, head for the noble goal, and end the source of suffering. Thus, the teaching will grow and not diminish with these seven principles.”
+32. The Buddha told the bhikkhus, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, have faith in the Tathāgata, Arhat, and Perfectly Awakened One who’s been given the ten epithets. Second, be conscientious and ashamed of one’s failings. Third, be modest and embarrassed by bad behavior. Fourth, be well-versed in and remember what’s good in the beginning, middle, and end, that’s profound in content and expression, that’s pure and undefiled, and that perfects the religious life. Fifth, diligently practice asceticism, cease doing what’s bad, cultivate what’s good, and don’t abandon that effort. Sixth, remember and don’t forget what’s been learned in the past. Seventh, cultivate wisdom, recognize the law of birth and cessation, head for the noble goal, and end the source of suffering. Thus, the teaching will grow and not diminish with these seven principles.”
 
-33. The Buddha told the monks, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, respect the Buddha. Second, respect the Dharma. Third, respect the Saṅgha. Fourth, respect the precepts. Fifth, respect samādhi. Sixth, be in respectful accord with your father and mother. Seventh, respect carefulness. Thus, the teaching will grow and not diminish with these seven principles.”
+33. The Buddha told the bhikkhus, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, respect the Buddha. Second, respect the Dharma. Third, respect the Saṅgha. Fourth, respect the precepts. Fifth, respect samādhi. Sixth, be in respectful accord with your father and mother. Seventh, respect carefulness. Thus, the teaching will grow and not diminish with these seven principles.”
 
-34. The Buddha told the monks, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, observe the impurities of the body. Second, observe the impurities of food. Third, don’t be happy with the world. Fourth, always be mindful of the idea of death. Fifth, [be mindful of] the idea that what arises is impermanent. Sixth, [be mindful of] the idea that impermanence is painful. Seventh, [be mindful of] the idea that what’s painful is not self. Thus, the teaching will grow and not diminish with these seven principles.”
+34. The Buddha told the bhikkhus, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, observe the impurities of the body. Second, observe the impurities of food. Third, don’t be happy with the world. Fourth, always be mindful of the idea of death. Fifth, [be mindful of] the idea that what arises is impermanent. Sixth, [be mindful of] the idea that impermanence is painful. Seventh, [be mindful of] the idea that what’s painful is not self. Thus, the teaching will grow and not diminish with these seven principles.”
 
-35. The Buddha told the monks, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, cultivate the awakening factor of mindfulness in quietude, without desire, and the escape to the unconditioned. Second, cultivate the awakening factor of [analyzing] the teachings … Third, cultivate the awakening factor of effort … Fourth, cultivate the awakening factor of joy … Fifth, cultivate the awakening factor of calm … Sixth, cultivate the awakening factor of _samādhi_ … Seventh, cultivate the awakening factor of equanimity … Thus, the teaching will grow and not diminish with these seven principles.
+35. The Buddha told the bhikkhus, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, cultivate the awakening factor of mindfulness in quietude, without desire, and the escape to the unconditioned. Second, cultivate the awakening factor of [analyzing] the teachings … Third, cultivate the awakening factor of effort … Fourth, cultivate the awakening factor of joy … Fifth, cultivate the awakening factor of calm … Sixth, cultivate the awakening factor of _samādhi_ … Seventh, cultivate the awakening factor of equanimity … Thus, the teaching will grow and not diminish with these seven principles.
 
-36. The Buddha told the monks, “There’s six principles of not declining that will make the teaching grow and not diminish. What are the six? First, always be kind with physical actions and don’t harm sentient beings. Second, be benevolent when expressing oneself and don’t use harsh words. Third, have mindful and kind thoughts and don’t harbor harmful ones. Fourth, get support in pure ways and share it with the community equitably. Fifth, observe the noble precepts without missing any of them and don’t have defilements, and one’s samādhi will surely be undisturbed. Sixth, see the noble path as the way to reach the end of suffering. Thus, the teaching will grow and not diminish with these six principles.”
+36. The Buddha told the bhikkhus, “There’s six principles of not declining that will make the teaching grow and not diminish. What are the six? First, always be kind with physical actions and don’t harm sentient beings. Second, be benevolent when expressing oneself and don’t use harsh words. Third, have mindful and kind thoughts and don’t harbor harmful ones. Fourth, get support in pure ways and share it with the community equitably. Fifth, observe the noble precepts without missing any of them and don’t have defilements, and one’s samādhi will surely be undisturbed. Sixth, see the noble path as the way to reach the end of suffering. Thus, the teaching will grow and not diminish with these six principles.”
 
-37. The Buddha told the monks, “There’s another six principles of not declining that will make the teaching grow and not diminish. [What are the six?] First, remember the Buddha. Second, remember the Dharma. Third, remember the Saṅgha. Fourth, remember the precepts. Fifth, remember generosity. Sixth, remember the gods. Cultivating these six recollections, the teaching will grow and not diminish.”
+37. The Buddha told the bhikkhus, “There’s another six principles of not declining that will make the teaching grow and not diminish. [What are the six?] First, remember the Buddha. Second, remember the Dharma. Third, remember the Saṅgha. Fourth, remember the precepts. Fifth, remember generosity. Sixth, remember the gods. Cultivating these six recollections, the teaching will grow and not diminish.”
 
 #### At the Bamboo Park
 
@@ -119,7 +119,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 
 39. Ānanda replied, “Very well,” prepared his robe and bowl, and followed the Bhagavān with the great assembly. They took the road from Magadha and arrived at the Bamboo Park next.
 
-40. He went up into the hall there and sat down with the monks, giving them a discourse on the precepts, samādhi, and wisdom: “Cultivating precepts and obtaining samādhi wins a great reward. Cultivating samādhi and obtaining wisdom wins a great reward. Cultivating wisdom and purifying the mind wins complete liberation. With the end of the three contaminants, which are the contaminants of desire, existence, and ignorance, the knowledge of liberation arises after one is liberated: ‘My births and deaths have been ended, the religious life has been established, and the task has been accomplished. I won’t be subject to a later existence.’”
+40. He went up into the hall there and sat down with the bhikkhus, giving them a discourse on the precepts, samādhi, and wisdom: “Cultivating precepts and obtaining samādhi wins a great reward. Cultivating samādhi and obtaining wisdom wins a great reward. Cultivating wisdom and purifying the mind wins complete liberation. With the end of the three contaminants, which are the contaminants of desire, existence, and ignorance, the knowledge of liberation arises after one is liberated: ‘My births and deaths have been ended, the religious life has been established, and the task has been accomplished. I won’t be subject to a later existence.’”
 
 #### At Pāṭaliputra
 
@@ -133,7 +133,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 
 45. The Bhagavān then silently gave his consent. Seeing the Buddha remain silent, those laymen rose from their seats, circled the Buddha three times, bowed, and returned home. They quickly set up a large residence hall for the Tathāgata and arranged the dwelling places, sweeping, washing, burning incense, and preparing precious seats. Having arranged and provided this, they returned and said to the Bhagavān, “We’ve prepared everything. It’s up to the noble ones to decide when to go.”
 
-46. The Bhagavān then rose from his seat, put on his robe, picked up his bowl, and went to that meeting hall with the great assembly. They washed their hands and feet, then they went into the building and sat down. The monks sat to the right, and the laymen sat to the left.
+46. The Bhagavān then rose from his seat, put on his robe, picked up his bowl, and went to that meeting hall with the great assembly. They washed their hands and feet, then they went into the building and sat down. The bhikkhus sat to the right, and the laymen sat to the left.
 
 47. The Bhagavān then addressed the laymen, “Ordinary people who break the precepts will decline in five ways. What are the five? First, they won’t get the wealth that they want. Second, what they’ve managed to acquire will decline daily. Third, the community where they go to live won’t respect them. Fourth, a bad reputation and insults about them will be heard everywhere. Fifth, they’ll go to hell when their bodies break up and their lives end.”
 
@@ -172,7 +172,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 
 #### At Kuṭigrāmaka
 
-59. The Bhagavān then toured Vṛji until he reached Kuṭigrāmaka. There, he addressed the monks while they were in a grove: “There are four profound principles: First is the noble precepts. Second is the noble samādhi. Third is the noble wisdom. Fourth is the noble liberation. These principles are sublime and difficult to understand. Because you and I didn’t comprehend them, we’ve been in birth and death for a long time, cycling around endlessly.”
+59. The Bhagavān then toured Vṛji until he reached Kuṭigrāmaka. There, he addressed the bhikkhus while they were in a grove: “There are four profound principles: First is the noble precepts. Second is the noble samādhi. Third is the noble wisdom. Fourth is the noble liberation. These principles are sublime and difficult to understand. Because you and I didn’t comprehend them, we’ve been in birth and death for a long time, cycling around endlessly.”
 
 60. After contemplating the meaning of this, the Bhagavān spoke in verse:
 
@@ -243,9 +243,9 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 
 89. The Licchavis each clapped their hands and sighed, “Now, my first bit of good fortune is lost because of this woman!” They went on ahead, then, to visit her park.
 
-90. The Bhagavān saw those 500 Licchavi chariots from afar, their horses were so numerous, filling the road as they approached. He told the monks, “If you want to know how dignified-looking and decorated the Trāyastriṃśa gods are when they entertain themselves in their scenic parks, it’s no different than this.
+90. The Bhagavān saw those 500 Licchavi chariots from afar, their horses were so numerous, filling the road as they approached. He told the bhikkhus, “If you want to know how dignified-looking and decorated the Trāyastriṃśa gods are when they entertain themselves in their scenic parks, it’s no different than this.
 
-91. “You monks, you should collect your thoughts and behave in a dignified manner. How does a monk collect his thoughts? Here, a monk observes body internally to be body. Diligent and unflagging, he’s mindful and doesn’t forget it, setting aside worldly greed and sorrow. He observes body externally to be body. Diligent and unflagging, he’s mindful and doesn’t forget it, setting aside worldly greed and sorrow. He observes body internally and externally to be body. Diligent and unflagging, he’s mindful and doesn’t forget it, setting aside worldly greed and sorrow. He also observes feelings, mind, and principles in the same way.
+91. “You bhikkhus, you should collect your thoughts and behave in a dignified manner. How does a monk collect his thoughts? Here, a monk observes body internally to be body. Diligent and unflagging, he’s mindful and doesn’t forget it, setting aside worldly greed and sorrow. He observes body externally to be body. Diligent and unflagging, he’s mindful and doesn’t forget it, setting aside worldly greed and sorrow. He observes body internally and externally to be body. Diligent and unflagging, he’s mindful and doesn’t forget it, setting aside worldly greed and sorrow. He also observes feelings, mind, and principles in the same way.
 
 92. “How does a monk behave in a dignified manner? Here, a monk knows to walk when he should walk and to stop when he should stop. He looks left and right before bending and stretching, looking down and up, or gathering his robes and bowl. When he eats, drinks, and takes medicine, he doesn’t forget what’s appropriate. He skillfully prepares when relieving himself, taking away screens, while walking, standing, sitting, and lying down, and while awake, asleep, speaking, and being quiet. He collects his thoughts and isn’t disturbed. This is a monk who behaves in a dignified manner.”
 
@@ -290,7 +290,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 
 101. When they heard that Āmrapālī had invited the Buddha first, those 500 Licchavis snapped their fingers and said, “We wanted to give offerings to the Tathāgata, but this woman beat us to it!” They rose from their seats, bowed their heads to the Buddha, circled him three times, and returned to their homes.
 
-102. That night, Āmrapālī prepared a variety of offerings. When morning arrived, the Bhagavān went to the place of her invitation surrounded by 1,250 monks who had adjusted their robes and carried their bowls. They prepared seats and sat down.
+102. That night, Āmrapālī prepared a variety of offerings. When morning arrived, the Bhagavān went to the place of her invitation surrounded by 1,250 bhikkhus who had adjusted their robes and carried their bowls. They prepared seats and sat down.
 
 103. Lady Āmrapālī then brought out fine dishes and offered them to the Buddha and the Saṅgha. When they were done with the meal, she took their bowls and cleared the table. She held a gold jar for them to wash up. When they were done, she went before the Buddha and said, “This city of Vaiśālī has scenic parks, but my park is the best of them. Now, I donate this park to the Tathāgata. Please let him accept this out of compassion for me.”
 
@@ -358,19 +358,19 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 
 118. The Bhagavān then taught the subtle Dharma for the priest. After he was taught, instructed, profited, and delighted by it, he rose from his seat and departed.
 
-119. During that time that there was a crop failure and famine in the region, which made soliciting alms difficult. The Buddha told Ānanda, “Order all the monks present in this country to assemble in the meeting hall.”
+119. During that time that there was a crop failure and famine in the region, which made soliciting alms difficult. The Buddha told Ānanda, “Order all the bhikkhus present in this country to assemble in the meeting hall.”
 
 120. Ānanda replied, “Very well.” Having received his instruction, he announced to those near and far to assemble at the meeting hall.
 
 121. Once the great assembly in that country had gathered, Ānanda told the Buddha, “The great assembly has gathered. It’s up to the noble one to decide when to go.”
 
-122. The Bhagavān then rose from his seat and went to the meeting hall. He prepared a seat and sat down. He then told the monks, “There’s a famine in this region that’s making it difficult to solicit alms. It would be best for all of you to split into groups and visit people you know in Vaiśālī and Vṛji where there’s no shortage of food. I will stay here in this safe abode with Ānanda. Why is that? It’s dangerous when there’s such shortages.” The monks accepted his instruction and did so. The Buddha and Ānanda stayed there by themselves.
+122. The Bhagavān then rose from his seat and went to the meeting hall. He prepared a seat and sat down. He then told the bhikkhus, “There’s a famine in this region that’s making it difficult to solicit alms. It would be best for all of you to split into groups and visit people you know in Vaiśālī and Vṛji where there’s no shortage of food. I will stay here in this safe abode with Ānanda. Why is that? It’s dangerous when there’s such shortages.” The bhikkhus accepted his instruction and did so. The Buddha and Ānanda stayed there by themselves.
 
 123. After the summer retreat, the Buddha became sick, and his whole body ached. The Buddha thought to himself, “Now, I’ve become sick, and my whole body is in pain, but none of my disciples are present. It wouldn’t be appropriate for me to obtain _nirvāṇa_. I must make effort to extend my life with my own power for now.”
 
 124. The Bhagavān then emerged from his quiet abode and sat in an open place. When Ānanda saw him, he hurried over and said, “Now that I see the sage, his sickness has made him look worse!”
 
-125. Ānanda also said, “When the Bhagavān was sick, I felt trepidation, and the bond of sorrow depressed me. I didn’t know which way I was going. But I’m still breathing. I think to myself, ‘The Tathāgata isn’t completely extinguished yet. The world’s eye hasn’t ceased yet. The great teaching hasn’t declined yet.’ Does he not have instructions for the assembled monks now?”
+125. Ānanda also said, “When the Bhagavān was sick, I felt trepidation, and the bond of sorrow depressed me. I didn’t know which way I was going. But I’m still breathing. I think to myself, ‘The Tathāgata isn’t completely extinguished yet. The world’s eye hasn’t ceased yet. The great teaching hasn’t declined yet.’ Does he not have instructions for the assembled bhikkhus now?”
 
 126. The Buddha told Ānanda, “Does the Saṅgha need something from me? If there were someone who said, ‘I maintain the Saṅgha’ or ‘I collect the Saṅgha,’ this person would have some instructions for the assembly. The Tathāgata doesn’t say, ‘I maintain the Saṅgha’ or ‘I collect the Saṅgha.’ Why must he have some instructions for the Saṅgha?
 
@@ -402,7 +402,7 @@ Understanding what the Buddha meant, Ānanda rose from his seat, bowed to the Bu
 
 136. It wasn’t long before Māra the Wicked One came to the Buddha and said, “The Buddha’s heart desires nothing. He can _parinirvāṇa_. Now would be a good time. He ought to be extinguished soon.”
 
-137. The Buddha told the Wicked One, “Stop! Stop! I’ll decide when it’s time. For now, the Tathāgata hasn’t decided on _nirvāṇa_ yet. I need to assemble monks who can discipline themselves, overcome agitation without fear, and arrive at the place of safety. They need to obtain their own reward, teach other people, disseminate the _sūtra_ teachings, and make their words and meanings plain. They need to defeat whatever other teachings there may be with the correct Dharma. They’ll need to realize these miracles for themselves. Such disciples haven’t assembled yet. There also need to be nuns, laymen, and laywomen who are all like this, and they haven’t assembled yet, either. What’s essential now is to broadly lecture about the awakened heart in the religious life and let gods and humans all see these miracles.”
+137. The Buddha told the Wicked One, “Stop! Stop! I’ll decide when it’s time. For now, the Tathāgata hasn’t decided on _nirvāṇa_ yet. I need to assemble bhikkhus who can discipline themselves, overcome agitation without fear, and arrive at the place of safety. They need to obtain their own reward, teach other people, disseminate the _sūtra_ teachings, and make their words and meanings plain. They need to defeat whatever other teachings there may be with the correct Dharma. They’ll need to realize these miracles for themselves. Such disciples haven’t assembled yet. There also need to be nuns, laymen, and laywomen who are all like this, and they haven’t assembled yet, either. What’s essential now is to broadly lecture about the awakened heart in the religious life and let gods and humans all see these miracles.”
 
 138. Māra the Wicked One again said to the Buddha, “Once, the Buddha was sitting under the goatherd’s nyagrodha tree on the bank of the Nairañjanā River in Uruvilvā when he first achieved the perfect awakening. I went to the Bhagavān then and asked the Tathāgata to _parinirvāṇa_. I said, ‘Now would be a good time! You ought to be extinguished soon!’
 
@@ -518,19 +518,19 @@ Understanding what the Buddha meant, Ānanda rose from his seat, bowed to the Bu
 
 160. The Bhagavān told Ānanda, “Let’s go to Fragrance Shrine.” … They prepared seats to sit under a tree there.
 
-161. The Buddha told Ānanda, “Here at Fragrance Shrine, monks are present left and right. Order all of them to gather in the meeting hall.”
+161. The Buddha told Ānanda, “Here at Fragrance Shrine, bhikkhus are present left and right. Order all of them to gather in the meeting hall.”
 
 162. Ānanda accepted this instruction and made the announcement for everyone to gather. Ānanda then said to the Buddha, “The great assembly has gathered. It’s up to the noble one to decide when to go.”
 
-163. The Bhagavān then went to the meeting hall, prepared a seat, and sat down. He told the monks, “All of you should know this teaching that I’ve realized for myself and which achieved the supreme and perfect awakening. It’s this: The four abodes of mindfulness, four mental disciplines, four miraculous abilities, four dhyānas, five faculties, five powers, seven factors of awakening, and the noble eightfold path.
+163. The Bhagavān then went to the meeting hall, prepared a seat, and sat down. He told the bhikkhus, “All of you should know this teaching that I’ve realized for myself and which achieved the supreme and perfect awakening. It’s this: The four abodes of mindfulness, four mental disciplines, four miraculous abilities, four dhyānas, five faculties, five powers, seven factors of awakening, and the noble eightfold path.
 
 164. “All of you must to be in harmony and respectful in this teaching. Don’t create conflicts; accept the same teacher like water and milk in the same pot. You ought to diligently accept and train in my teaching. Light each other, and entertain each other.
 
-165. “Monks, you should know this teaching that I’ve realized and widely demonstrate it to others. It’s the sūtras, songs, assurances, verses, inspirations, past events, past births, histories, extensive sūtras, unprecedented things, parables, and explanations. All of you must well remember them, weigh and discern them, and cultivate the practice as they dictate. Why is that? Not long from now, the Tathāgata will _parinirvāṇa_ in three months’ time.”
+165. “bhikkhus, you should know this teaching that I’ve realized and widely demonstrate it to others. It’s the sūtras, songs, assurances, verses, inspirations, past events, past births, histories, extensive sūtras, unprecedented things, parables, and explanations. All of you must well remember them, weigh and discern them, and cultivate the practice as they dictate. Why is that? Not long from now, the Tathāgata will _parinirvāṇa_ in three months’ time.”
 
-166. When the monks heard him say this, they were all bewildered, cut short, perplexed, and agitated. They fell to the ground, all of them crying loudly. “How could it be so soon? The Buddha has chosen to be extinguished! How could it be so painful? The world will go blind! We’ll be left here in decline for a long time!” Some of the monks cried and beat their breasts, some twisted and turned as they wailed. They couldn’t control themselves. They were like a cut snake that twists, turns, and writhes urgently, not knowing where to go.
+166. When the bhikkhus heard him say this, they were all bewildered, cut short, perplexed, and agitated. They fell to the ground, all of them crying loudly. “How could it be so soon? The Buddha has chosen to be extinguished! How could it be so painful? The world will go blind! We’ll be left here in decline for a long time!” Some of the bhikkhus cried and beat their breasts, some twisted and turned as they wailed. They couldn’t control themselves. They were like a cut snake that twists, turns, and writhes urgently, not knowing where to go.
 
-167. The Buddha told the monks, “All of you, stop! Don’t feel grief and sorrow. Among the people and things in heaven and earth, there’s nothing born that doesn’t die. The desire for this conditioned life to stop changing is impossible. I’ve taught you in the past that love and affection is impermanent, too. Things that come together also fall apart. Your body is not your own, and life doesn’t last long.”
+167. The Buddha told the bhikkhus, “All of you, stop! Don’t feel grief and sorrow. Among the people and things in heaven and earth, there’s nothing born that doesn’t die. The desire for this conditioned life to stop changing is impossible. I’ve taught you in the past that love and affection is impermanent, too. Things that come together also fall apart. Your body is not your own, and life doesn’t last long.”
 
 168. The Bhagavān then spoke in verse:
 
@@ -555,9 +555,9 @@ Understanding what the Buddha meant, Ānanda rose from his seat, bowed to the Bu
  And end birth, old age, and death.”
  
 
-169. He also told the monks, “Why have I admonished you in this way? The god Māra the Wicked One made this request of me: ‘The Buddha’s heart desires nothing. He can _parinirvāṇa_. Now would be a good time. He ought to be extinguished soon.’
+169. He also told the bhikkhus, “Why have I admonished you in this way? The god Māra the Wicked One made this request of me: ‘The Buddha’s heart desires nothing. He can _parinirvāṇa_. Now would be a good time. He ought to be extinguished soon.’
 
-170. “I said, ‘Stop, Wicked one! Stop! The Buddha will decide when it’s time … My monks need to be assembled … let gods and men all see these miracles.’
+170. “I said, ‘Stop, Wicked one! Stop! The Buddha will decide when it’s time … My bhikkhus need to be assembled … let gods and men all see these miracles.’
 
 171. “Māra the Wicked One again said, ‘Once, the Buddha was sitting under the goatherd’s nyagrodha tree on the bank of the Nairañjanā River in Uruvilvā when he first achieved the perfect awakening. I went to the Bhagavān then and asked the Tathāgata to _parinirvāṇa_. I said, “Now would be a good time! You ought to be extinguished soon!”
 
@@ -606,9 +606,9 @@ He replied, “Indeed, I really do believe it!”
 
 187. Ānanda replied, “Very well,” prepared his robe and bowl, and followed the Bhagavān with the great assembly. They took the road from Vṛji and made their way to that other city, stopping in the rosewood grove to the north of Bhoga.
 
-188. The Buddha told the monks, “I will give you a discourse on the four great ways of teaching. Listen closely! Listen closely, and consider it well!”
+188. The Buddha told the bhikkhus, “I will give you a discourse on the four great ways of teaching. Listen closely! Listen closely, and consider it well!”
 
-The monks said, “Very well, Bhagavān. We’d be glad to hear it.”
+The bhikkhus said, “Very well, Bhagavān. We’d be glad to hear it.”
 
 189. “What are the four? Suppose a monk makes this statement: ‘Gentlemen, I personally heard and received this teaching from the Buddha in that town, city, or country.’ Those who hear his claim shouldn’t disbelieve or criticize it. They must judge from the sutras whether it’s true or false. Rely on the Vinaya and the Dharma to investigate whether it’s fundamental or superficial.
 
@@ -622,9 +622,9 @@ The monks said, “Very well, Bhagavān. We’d be glad to hear it.”
 
 194. “If what he said is based on the sutras, the Vinaya, and the Dharma, they should say to him, ‘What you say is really what the Buddha taught. Why is that so? We rely on the sutras, the Vinaya, and the Dharma. What you said earlier matches the Dharma. Sir, you should remember it and teach it widely to others. Take care not to discard it.’ This is the second great way of teaching.
 
-195. “Furthermore, suppose a monk makes this statement: ‘I personally heard and received this Dharma, Vinaya, and teaching from a group of monks who maintain the Dharma, Vinaya, and observances in that town, city, or country.’ Those who hear his claim shouldn’t disbelieve or criticize it. They must judge from the sutras whether it’s true or false. Rely on the Vinaya and the Dharma to investigate whether it’s fundamental or superficial.
+195. “Furthermore, suppose a monk makes this statement: ‘I personally heard and received this Dharma, Vinaya, and teaching from a group of bhikkhus who maintain the Dharma, Vinaya, and observances in that town, city, or country.’ Those who hear his claim shouldn’t disbelieve or criticize it. They must judge from the sutras whether it’s true or false. Rely on the Vinaya and the Dharma to investigate whether it’s fundamental or superficial.
 
-196. “If what he said isn’t in the sutras, the Vinaya, or the Dharma, they should say this to him: ‘The Buddha didn’t say this, so that group of monks you’ve been listening to must be mistaken. Why is that so? We rely on the sutras, the Vinaya, and the Dharma. What you said earlier contradicts the Dharma. Sir, you shouldn’t remember it or teach it to others. You should discard it.’
+196. “If what he said isn’t in the sutras, the Vinaya, or the Dharma, they should say this to him: ‘The Buddha didn’t say this, so that group of bhikkhus you’ve been listening to must be mistaken. Why is that so? We rely on the sutras, the Vinaya, and the Dharma. What you said earlier contradicts the Dharma. Sir, you shouldn’t remember it or teach it to others. You should discard it.’
 
 197. “If what he said is based on the sutras, the Vinaya, and the Dharma, they should say to him, ‘What you say is really what the Buddha taught. Why is that so? We rely on the sutras, the Vinaya, and the Dharma. What you said earlier matches the Dharma. Sir, you should remember it and teach it widely to others. Take care not to discard it.’ This is the third great way of teaching.
 
@@ -648,7 +648,7 @@ The monks said, “Very well, Bhagavān. We’d be glad to hear it.”
 
 206. The Bhagavān then put on his robes, took his bowl, and went to Cunda’s home while surrounded by the great assembly. Once there, they prepared seats and sat down. Cunda immediately offered them the meals that he had prepared to the Buddha and Saṅgha. He had specially cooked sandalwood tree ears, making them the most exquisite in the world, and offered the dish only to the Bhagavān.
 
-207. The Buddha told Cunda, “Don’t serve these ears to the monks.” Cunda accept this instruction and didn’t dare serve any of it to them. There was then an elderly monk in the assembly who had left home during his sunset years. He took the remainder of that dish from where he sat.
+207. The Buddha told Cunda, “Don’t serve these ears to the bhikkhus.” Cunda accept this instruction and didn’t dare serve any of it to them. There was then an elderly monk in the assembly who had left home during his sunset years. He took the remainder of that dish from where he sat.
 
 208. Seeing that the assembly had finished eating, Cunda took their bowls and washed them. When this was done, he went before the Buddha and asked a question in verse:
 
@@ -1284,7 +1284,7 @@ The Buddha said, “Stop, stop! What’s the use of just discussing whether I kn
  Those other teachings have no ascetics.”
  
 
-376. The Buddha told Subhadra, “If the monks keep themselves collected, then this world won’t be empty of arhats.”
+376. The Buddha told Subhadra, “If the bhikkhus keep themselves collected, then this world won’t be empty of arhats.”
 
 377. Subhadra said to Ānanda, “Those who have practiced the religious life under the ascetic Gautama, who are practicing it, and who will practice it obtain a great benefit from it. Ānanda, you’ve practiced the religious life under the ascetic Gautama and obtained great benefit from it. Having gotten a personal meeting with the Tathāgata to ask about my doubts, I’ve also obtained great benefit from it. Now, the Tathāgata has given his assurance about his disciples in discerning this for me!”
 
@@ -1304,15 +1304,15 @@ The Buddha told Subhadra, “As I said before, it’s simply to know how a perso
 
 383. The Bhagavān knew this, so he asked, “Where is the monk Ānanda?”
 
-The monks told the Tathāgata, “The monk Ānanda is leaning against his seat behind the Buddha and crying uncontrollably. Weeping, he says, ‘How quick the Tathāgata’s extinguishment is! How swift the Bhagavān’s extinguishment is! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind! Why is that? I’ve benefited from the Buddha’s favor and obtained this ground of training, but I have yet to accomplish the task, and the Buddha is going to be extinguished!’”
+The bhikkhus told the Tathāgata, “The monk Ānanda is leaning against his seat behind the Buddha and crying uncontrollably. Weeping, he says, ‘How quick the Tathāgata’s extinguishment is! How swift the Bhagavān’s extinguishment is! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind! Why is that? I’ve benefited from the Buddha’s favor and obtained this ground of training, but I have yet to accomplish the task, and the Buddha is going to be extinguished!’”
 
 384. The Buddha told Ānanda, “Stop, stop! Don’t be sad! Don’t cry! Since you’ve been serving me, your physical conduct has been kind, peerless, and measureless. Your verbal conduct has been kind … Your mental conduct has been kind, peerless, and measureless. Ānanda, you’ve given these offering to me, the merits of which are enormous. The offerings given to gods like Māra and Brahmā or to ascetics and priests aren’t comparable to yours. If you simply make an effort, it won’t be long before you achieve awakening.”
 
-385. The Bhagavān told the monks, “Buddhas of the past were served by disciples like Ānanda, and Buddhas in the future will be served by disciples like Ānanda. But the disciples who served Buddhas in the past understood them only after they were told. Now, my Ānanda understands when I raise my gaze: ‘The Tathāgata needs this; the Bhagavān needs that.’ This is Ānanda’s unprecedented quality. All of you, remember that.
+385. The Bhagavān told the bhikkhus, “Buddhas of the past were served by disciples like Ānanda, and Buddhas in the future will be served by disciples like Ānanda. But the disciples who served Buddhas in the past understood them only after they were told. Now, my Ānanda understands when I raise my gaze: ‘The Tathāgata needs this; the Bhagavān needs that.’ This is Ānanda’s unprecedented quality. All of you, remember that.
 
 386. “A noble wheel-turning king has four exceptional and unprecedented qualities. What are the four? [1] When the noble king travels, he uplifts the multitude of people, who look up to him. They rejoice when they see him, and they’re glad to hear his instruction. They look up at his majestic countenance without tiring of seeing it. When the noble wheel-turning king [2] stands … [3] sits … [4] lies down, the country’s ministers and people all come to the King. They rejoice when they see him, they’re glad to hear his instruction. They look at his majestic countenance without tiring of seeing it. These are four exceptional qualities of a noble wheel-turning king.
 
-387. “Now, my Ānanda also has these four exceptional qualities. What are the four? [1] Ānanda quietly enters a group of monks, and that assembly rejoices. He teaches Dharma for that assembly, and they rejoice when they hear it. They observe his composure and listen to his Dharma teaching without tiring of him. Furthermore, Ānanda quietly goes to [2] an assembly of nuns … [3] assembly of laymen … [4] assembly of laywomen, and they rejoice when they see him. If he gives them a Dharma teaching, they rejoice when they hear it. They observe his composure and listen to his Dharma teaching without tiring of him. These are Ānanda’s four unprecedented and exceptional qualities.”
+387. “Now, my Ānanda also has these four exceptional qualities. What are the four? [1] Ānanda quietly enters a group of bhikkhus, and that assembly rejoices. He teaches Dharma for that assembly, and they rejoice when they hear it. They observe his composure and listen to his Dharma teaching without tiring of him. Furthermore, Ānanda quietly goes to [2] an assembly of nuns … [3] assembly of laymen … [4] assembly of laywomen, and they rejoice when they see him. If he gives them a Dharma teaching, they rejoice when they hear it. They observe his composure and listen to his Dharma teaching without tiring of him. These are Ānanda’s four unprecedented and exceptional qualities.”
 
 #### Ānanda’s Questions
 
@@ -1326,7 +1326,7 @@ The monks told the Tathāgata, “The monk Ānanda is leaning against his seat b
 
 392. Ānanda then knelt with his palms together in front of the Buddha. He said, “The monk Chanda is rude and obstinate. How shall we handle it after the Buddha’s extinguishment?”
 
-The Buddha told Ānanda, “After I _parinirvāṇa_, if that Chanda’s behavior isn’t agreeable and he doesn’t accept admonishment, then you all should give him the silent treatment. Order the monks not to speak with him, visit him, teach him, or do chores with him.”
+The Buddha told Ānanda, “After I _parinirvāṇa_, if that Chanda’s behavior isn’t agreeable and he doesn’t accept admonishment, then you all should give him the silent treatment. Order the bhikkhus not to speak with him, visit him, teach him, or do chores with him.”
 
 393. Ānanda again asked the Buddha, “After the Buddha _parinirvāṇa_-s, how should we handle women who come to receive instruction?”
 
@@ -1340,27 +1340,27 @@ The Buddha said, “Don’t talk with them [more than necessary].”
 
 The Buddha said, “You should restrain yourself. Ānanda, are you saying that after the Buddha _parinirvāṇa_-s you won’t be guarded anymore? That you’ll lose what you rely on? Don’t form this view. I became a Buddha to teach the discourses and precepts. They will be your guardian and what you rely on.
 
-396. “Ānanda, starting today, I permit the monks to dispense with the minor rules. When the senior and junior monks call each other, they should follow the rules of propriety. This way, those who’ve left home will be dutiful.”
+396. “Ānanda, starting today, I permit the bhikkhus to dispense with the minor rules. When the senior and junior bhikkhus call each other, they should follow the rules of propriety. This way, those who’ve left home will be dutiful.”
 
 #### The Buddha _Parinirvāṇa_-s
 
-397. The Buddha told the monks, “If you have any doubts about the Buddha, Dharma, and Saṅgha or doubts about the path, you should be quick to ask about them. Now is the time to do it. Those who don’t may regret it later. While I’m still here, I will explain these things for you.”
+397. The Buddha told the bhikkhus, “If you have any doubts about the Buddha, Dharma, and Saṅgha or doubts about the path, you should be quick to ask about them. Now is the time to do it. Those who don’t may regret it later. While I’m still here, I will explain these things for you.”
 
-The monks remained silent and didn’t say anything.
+The bhikkhus remained silent and didn’t say anything.
 
 398. The Buddha again told them, “If you have any doubts about the Buddha, Dharma, and Saṅgha or doubts about the path, you should be quick to ask about them. Now is the time to do it. Those who don’t may regret it later. While I’m still here, I will explain these things for you.”
 
-The monks again remained quiet.
+The bhikkhus again remained quiet.
 
 399. The Buddha again said, “If you don’t dare ask questions because you’re embarrassed, you should have someone you know quickly come and ask for you. Now is the time to do it. Those who don’t may regret it later.”
 
-Again, the monks remained quiet.
+Again, the bhikkhus remained quiet.
 
-400. Ānanda said to the Buddha, “I believe this is an assembly of pure faith. Not one of these monks doubts the Buddha, Dharma, and Saṅgha or the path.”
+400. Ānanda said to the Buddha, “I believe this is an assembly of pure faith. Not one of these bhikkhus doubts the Buddha, Dharma, and Saṅgha or the path.”
 
-401. The Buddha told Ānanda, “I know it myself, too, that the most junior of monks in this assembly sees the path. They aren’t headed for an unpleasant destiny, and they’re sure to reach the end of suffering in no more than seven rebirths.” It was then that the Bhagavān gave his assurance to 1,200 disciples that they would attain the fruit of the path.
+401. The Buddha told Ānanda, “I know it myself, too, that the most junior of bhikkhus in this assembly sees the path. They aren’t headed for an unpleasant destiny, and they’re sure to reach the end of suffering in no more than seven rebirths.” It was then that the Bhagavān gave his assurance to 1,200 disciples that they would attain the fruit of the path.
 
-402. The Bhagavān then pulled down his upper garment to expose one of his golden arms. He then told the monks, “You should observe that a Tathāgata appears in the world only as often as an _udumbara_ flower does!”
+402. The Bhagavān then pulled down his upper garment to expose one of his golden arms. He then told the bhikkhus, “You should observe that a Tathāgata appears in the world only as often as an _udumbara_ flower does!”
 
 403. The Bhagavān then restated his meaning in verse:
 
@@ -1369,7 +1369,7 @@ Again, the monks remained quiet.
  Past and future actions are impermanent, 
  They are ceased in the present with care.
 
-404. “Therefore, monks, don’t be careless! Because I wasn’t careless, I brought about perfect awakening and measureless virtues myself. It was also from carefulness that I realized the impermanent existence of all things. This is the Tathāgata’s final teaching.”
+404. “Therefore, bhikkhus, don’t be careless! Because I wasn’t careless, I brought about perfect awakening and measureless virtues myself. It was also from carefulness that I realized the impermanent existence of all things. This is the Tathāgata’s final teaching.”
 
 405. The Bhagavān then entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the abode of space samādhi. Emerging from the abode of space samādhi, he entered the abode of awareness samādhi. Emerging from the abode of awareness samādhi, he entered the abode of nothingness samādhi. Emerging from the abode of nothingness samādhi, he entered the abode with and without conception samādhi. Emerging from the abode with and without conception samādhi, he entered the cessation of conception samādhi.
 
@@ -1525,19 +1525,19 @@ Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the
 
 #### Paying Last Respects
 
-428. The Buddha had _parinirvāṇa_-ed. The monks lamented his death. They threw themselves to the ground, twisting and crying loudly. They couldn’t control themselves. Sobbing, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!”
+428. The Buddha had _parinirvāṇa_-ed. The bhikkhus lamented his death. They threw themselves to the ground, twisting and crying loudly. They couldn’t control themselves. Sobbing, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!”
 
-429. They were like a large tree pulled up by the roots with its branches chopped off. They were like a cut snake that twists, turns, and writhes in a frenzy, not knowing where to go. The monks were likewise as they lamented his death. They threw themselves to the ground, twisting and crying loudly. They couldn’t control themselves. Sobbing, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!”
+429. They were like a large tree pulled up by the roots with its branches chopped off. They were like a cut snake that twists, turns, and writhes in a frenzy, not knowing where to go. The bhikkhus were likewise as they lamented his death. They threw themselves to the ground, twisting and crying loudly. They couldn’t control themselves. Sobbing, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!”
 
-430. The elder Aniruddha then told the monks, “Stop, stop! Don’t cry! There are gods above us. They might consider it strange and fault you for it!”
+430. The elder Aniruddha then told the bhikkhus, “Stop, stop! Don’t cry! There are gods above us. They might consider it strange and fault you for it!”
 
-The monks asked Aniruddha, “How many gods are there above us?”
+The bhikkhus asked Aniruddha, “How many gods are there above us?”
 
 431. Aniruddha said, “They fill the sky. Who could count them all? They are roaming around the sky, distraught, crying, and beating their breasts. With tears streaming, they say, ‘How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!’
 
 432. “They’re like a large tree pulled up by the roots with its branches chopped off. They’re like a cut snake that twists, turns, and writhes in a frenzy, not knowing where to go. The gods are likewise. They’re roaming around the sky, distraught, crying, and beating their breasts. With tears streaming, they say, ‘How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!’”
 
-433. The monks discussed the teaching throughout the night until daybreak. Aniruddha told Ānanda, “Perhaps you should go to the city and tell the Mallas, ‘The Buddha has been extinguished. If you’d like to give offerings, now would be a good time to do it.’”
+433. The bhikkhus discussed the teaching throughout the night until daybreak. Aniruddha told Ānanda, “Perhaps you should go to the city and tell the Mallas, ‘The Buddha has been extinguished. If you’d like to give offerings, now would be a good time to do it.’”
 
 434. Ānanda got up, bowed at the Buddha’s feet, and then led another monk to the city, crying as they went. They saw a group of 500 Mallas gathered in one place for some minor reason. The Mallas saw Ānanda coming and they got up to watch him approached. After bowing at his feet and standing aside, they said to Ānanda, “Why have you come this morning?”
 
@@ -1613,13 +1613,13 @@ He replied, “I’m coming from Kuśinagara.”
 
 “It’s been seven days since his extinguishment. I am going there to give this heavenly flower.”
 
-460. When Kāśyapa heard this, he became depressed and unhappy. When the other 500 monks heard the Buddha was extinguished, they cried loudly, twisting, turning, and wailing. They couldn’t control themselves. Wiping their tears, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!” They were like a large tree pulled up by the roots with its branches chopped off. They were like a cut snake that twists, turns, and writhes in a frenzy, not knowing where to go.
+460. When Kāśyapa heard this, he became depressed and unhappy. When the other 500 bhikkhus heard the Buddha was extinguished, they cried loudly, twisting, turning, and wailing. They couldn’t control themselves. Wiping their tears, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!” They were like a large tree pulled up by the roots with its branches chopped off. They were like a cut snake that twists, turns, and writhes in a frenzy, not knowing where to go.
 
-461. There was a Śākya man in his assembly named Upananda. He stopped the monks by saying, “Don’t be sad! The Bhagavān is extinguished. We’re free now! He was always saying, ‘You must do this; you mustn’t do that.’ From now on, we can do as we like.”
+461. There was a Śākya man in his assembly named Upananda. He stopped the bhikkhus by saying, “Don’t be sad! The Bhagavān is extinguished. We’re free now! He was always saying, ‘You must do this; you mustn’t do that.’ From now on, we can do as we like.”
 
-462. When Kāśyapa heard that, he was depressed and unhappy. He told the monks, “Quickly, get your robes and bowls. We’ll need to get to that pair of trees before he is cremated if we are to see the Buddha.”
+462. When Kāśyapa heard that, he was depressed and unhappy. He told the bhikkhus, “Quickly, get your robes and bowls. We’ll need to get to that pair of trees before he is cremated if we are to see the Buddha.”
 
-463. When they heard what he said, the monks rose from their seats and followed Kāśyapa as he went to Kuśinagara. They forded the Nairañjanā River, arrived at Heavenly Crown Temple, and went to Ānanda. After exchanging greetings, they stood to one side. Kāśyapa said to Ānanda, “We would like to see the remains before he is cremated. Would it be possible to see him?”
+463. When they heard what he said, the bhikkhus rose from their seats and followed Kāśyapa as he went to Kuśinagara. They forded the Nairañjanā River, arrived at Heavenly Crown Temple, and went to Ānanda. After exchanging greetings, they stood to one side. Kāśyapa said to Ānanda, “We would like to see the remains before he is cremated. Would it be possible to see him?”
 
 464. Ānanda answered, “Although he hasn’t been cremated yet, it’ll be difficult to see him. Why is that? The Buddha’s body was bathed in fragrant water and then wrapped all around with fresh cotton. They wrapped it in 500 layers of cloth and placed his body inside a gold coffin, which was placed in an iron coffin. They layered sandalwood on the outside of that coffin. It’ll be difficult to view the Buddha’s body because of that.”
 

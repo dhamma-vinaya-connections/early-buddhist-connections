@@ -25,9 +25,9 @@ Buddha told Ariṣṭa, “‘Immortal’ is the name of a realm, but I take it 
 
 3. The monk Ariṣṭa said to the Buddha, “Bhagavān, isn’t there a path and steps to attaining immortality when cultivated and cultivated often?”
 
-The Buddha addressed the monk, “There is. It’s known as the noble eightfold path, which is right view … right samādhi.”
+The Buddha addressed the monk, “There is. It’s known as the ![[Noble Path]].”
 
-4. After the Buddha spoke this sūtra, the monks who heard what the Buddha taught rejoiced and approved.
+4. After the Buddha spoke this sūtra, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

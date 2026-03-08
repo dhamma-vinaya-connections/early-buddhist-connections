@@ -54,7 +54,7 @@ vin_gender-corr: "BU-NP30"
 > > [!info]- Useful Notes
 > > > From various authors
 > > 
-> > Would then seem appropriate, although this is not stated in the Vinaya, that the offending monk should then present that gift to the Sangha where it was originally intended. the point of this rule that monks have no business telling donors where to give their gifts. any donor lay, fellow bhikkhus and relatives. The fact that a gift is allocated for a Community overrides all other considerations, even when one is ill. perceiving an item as not allocated does not give carte blanche to divert it as one likes
+> > Would then seem appropriate, although this is not stated in the Vinaya, that the offending monk should then present that gift to the Sangha where it was originally intended. the point of this rule that bhikkhus have no business telling donors where to give their gifts. any donor lay, fellow bhikkhus and relatives. The fact that a gift is allocated for a Community overrides all other considerations, even when one is ill. perceiving an item as not allocated does not give carte blanche to divert it as one likes
 > 
 > > [!info]-  Formulas 
 > > >If applicable from BMC1 Appendices  [[bmc1#^ch13]]
@@ -74,7 +74,7 @@ vin_gender-corr: "BU-NP30"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-NP30 | [[BU-NP30]] | Vin.4.243-4.257 |
 

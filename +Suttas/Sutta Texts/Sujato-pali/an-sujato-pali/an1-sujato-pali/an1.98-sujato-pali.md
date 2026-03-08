@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Taking into account interior factors, mendicants, I do not see a single one that is so very harmful as negligence. Negligence is very harmful.”
+1“Taking into account interior factors, bhikkhus, I do not see a single one that is so very harmful as negligence. Negligence is very harmful.”
 
 1"Ajjhattikaṁ, bhikkhave, aṅganti karitvā nāññaṁ ekaṅgampi samanupassāmi yaṁ evaṁ mahato anatthāya saṁvattati yathayidaṁ, bhikkhave, pamādo. Pamādo, bhikkhave, mahato anatthāya saṁvattatī"ti.
 

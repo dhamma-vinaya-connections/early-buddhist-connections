@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2The nuns heard the complaints of those people, and the nuns of few desires complained and criticized them, “How can the nuns from the group of six spin yarn?” …
 
-“Is it true, monks, that those nuns do this?”
+“Is it true, bhikkhus, that those nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

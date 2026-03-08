@@ -15,15 +15,15 @@ language: "Pali - English"
 
 387. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū jānaṃ sappāṇakaṃ udakaṃ paribhuñjanti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma chabbaggiyā bhikkhū jānaṃ sappāṇakaṃ udakaṃ paribhuñjissantī’’ti…pe… saccaṃ kira tumhe, bhikkhave, jānaṃ sappāṇakaṃ udakaṃ paribhuñjathāti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tumhe, moghapurisā, jānaṃ sappāṇakaṃ udakaṃ paribhuñjissatha! Netaṃ, moghapurisā, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-387.At one time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Now at that time the monks of the group of six knowingly consumed water containing living beings. Those monks of few desires… complained, murmured, and criticized them: “How can the monks of the group of six knowingly consume water containing living beings?” … “Is it true, monks, that you knowingly consume water containing living beings?” “It is true, Blessed One.” The Blessed One rebuked them… “Foolish men, how can you knowingly consume water containing living beings! This will not inspire confidence in the unconfident… And thus, monks, this training rule should be recited:
+387.At one time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Now at that time the bhikkhus of the group of six knowingly consumed water containing living beings. Those bhikkhus of few desires… complained, murmured, and criticized them: “How can the bhikkhus of the group of six knowingly consume water containing living beings?” … “Is it true, bhikkhus, that you knowingly consume water containing living beings?” “It is true, Blessed One.” The Blessed One rebuked them… “Foolish men, how can you knowingly consume water containing living beings! This will not inspire confidence in the unconfident… And thus, bhikkhus, this training rule should be recited:
 
 388. ‘‘Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiya’’nti.
 
-388."Whatever monk should knowingly consume water containing living beings, there is an offense entailing confession."
+388."Whatever bhikkhu should knowingly consume water containing living beings, there is an offense entailing confession."
 
 389. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-389."Whatever" means whoever, whatever kind… "Monk" means… the monk intended in this case.
+389."Whatever" means whoever, whatever kind… "bhikkhu" means… the bhikkhu intended in this case.
 
 Jānāti nāma sāmaṃ vā jānāti, aññe vā tassa ārocenti. ‘‘Sappāṇaka’’nti jānanto, ‘‘paribhogena marissantī’’ti jānanto paribhuñjati, āpatti pācittiyassa.
 

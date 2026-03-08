@@ -2,7 +2,7 @@
 sutta_code: "AN7.28"
 sutta_title:
   - "Paṭhamaparihāni "
-  - "Non-Decline For A Mendicant Trainee"
+  - "Non-Decline For A bhikkhu Trainee"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -14,17 +14,17 @@ language: "English - Pali"
 
 ## 7: The Book of the Sevens
 
-### III. The Vajji Seven — AN 7.28: Non-decline for a Mendicant Trainee
+### III. The Vajji Seven — AN 7.28: Non-decline for a bhikkhu Trainee
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants:
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus:
 
-“These seven things lead to the decline of a mendicant trainee. What seven? They relish work, talk, sleep, and company. They don’t guard the sense doors and they eat too much. And when there is Saṅgha business to be carried out, they don’t reflect: ‘There are senior mendicants in the Saṅgha of long standing, long gone forth, responsible. They’ll be known for taking care of this.’ So they try to do it themselves. These seven things lead to the decline of a mendicant trainee.
+“These seven things lead to the decline of a bhikkhu trainee. What seven? They relish work, talk, sleep, and company. They don’t guard the sense doors and they eat too much. And when there is Saṅgha business to be carried out, they don’t reflect: ‘There are senior bhikkhus in the Saṅgha of long standing, long gone forth, responsible. They’ll be known for taking care of this.’ So they try to do it themselves. These seven things lead to the decline of a bhikkhu trainee.
 
-2These seven things don’t lead to the decline of a mendicant trainee. What seven? They don’t relish work, talk, sleep, and company. They guard the sense doors and don’t they eat too much. And when there is Saṅgha business to be carried out, they reflect: ‘There are senior mendicants in the Saṅgha of long standing, long gone forth, responsible. They’ll be known for taking care of this.’ So they don’t try to do it themselves. These seven things don’t lead to the decline of a mendicant trainee.”
+2These seven things don’t lead to the decline of a bhikkhu trainee. What seven? They don’t relish work, talk, sleep, and company. They guard the sense doors and don’t they eat too much. And when there is Saṅgha business to be carried out, they reflect: ‘There are senior bhikkhus in the Saṅgha of long standing, long gone forth, responsible. They’ll be known for taking care of this.’ So they don’t try to do it themselves. These seven things don’t lead to the decline of a bhikkhu trainee.”
 
 #### Pali
 

@@ -50,7 +50,7 @@ but the wise remove the desire for them.
 
 “And what is the cessation of sensual pleasures? With the cessation of contact there is cessation of sensual pleasures.
 
-“This noble eightfold path is the way leading to the cessation of sensual pleasures, namely, right view, right intention, right speech, right \[412\] action, right livelihood, right effort, right mindfulness, and right samādhi.
+“This ![[Noble Path]].
 
 “When, bhikkhus, a noble disciple thus understands sensual pleasures, the source and origin of sensual pleasures, the diversity of sensual pleasures, the result of sensual pleasures, the cessation of sensual pleasures, and the way leading to the cessation of sensual pleasures, he understands this penetrative spiritual life to be the cessation of sensual pleasures.
 
@@ -68,7 +68,7 @@ but the wise remove the desire for them.
 
 “And what is the cessation of feelings? With the cessation of contact there is cessation of feelings.
 
-“This noble eightfold path is the way leading to the cessation of feelings, namely, right view … right samādhi.
+“This ![[Noble Path]].
 
 “When, bhikkhus, a noble disciple thus understands feeling, the source and origin of feelings, \[413\] the diversity of feelings, the result of feelings, the cessation of feelings, and the way leading to the cessation of feelings, he understands this penetrative spiritual life to be the cessation of feelings.
 
@@ -86,7 +86,7 @@ but the wise remove the desire for them.
 
 “And what is the cessation of perceptions? With the cessation of contact there is cessation of perceptions.
 
-“This noble eightfold path is the way leading to the cessation of perceptions, namely, right view … right samādhi.
+“This ![[Noble Path]].
 
 “When, bhikkhus, a noble disciple thus understands perceptions, the source and origin of perceptions, \[414\] the diversity of perceptions, the result of perceptions, the cessation of perceptions, and the way leading to the cessation of perceptions, he understands this penetrative spiritual life to be the cessation of perceptions.
 
@@ -104,7 +104,7 @@ but the wise remove the desire for them.
 
 “And what is the cessation of the taints? With the cessation of ignorance there is cessation of the taints.
 
-“This noble eightfold path is the way leading to the cessation of the taints, namely, right view … right samādhi.
+“This ![[Noble Path]].
 
 “When, bhikkhus, a noble disciple thus understands the taints, the source and origin of the taints, the diversity of the taints, the result of the taints, the cessation of the taints, and the way leading to the cessation of the taints, he understands this penetrative spiritual life to be the cessation of the taints. \[415\]
 
@@ -122,7 +122,7 @@ but the wise remove the desire for them.
 
 “And what, bhikkhus, is the cessation of kamma? With the cessation of contact there is cessation of kamma.
 
-“This noble eightfold path is the way leading to the cessation of kamma, namely, right view … right samādhi.
+“This ![[Noble Path]].
 
 “When, bhikkhus, a noble disciple thus understands kamma, the source and origin of kamma, the diversity of kamma, the result of kamma, the cessation of kamma, and the way leading to the cessation of kamma, he understands this penetrative spiritual life to be the cessation of kamma.
 
@@ -140,7 +140,7 @@ but the wise remove the desire for them.
 
 “And what is the cessation of suffering? With the cessation of craving there is cessation of suffering.
 
-“This noble eightfold path is the way leading to the cessation of suffering, namely, right view … right samādhi.
+“This ![[Noble Path]].
 
 “When, bhikkhus, a noble disciple thus understands suffering, \[417\] the source and origin of suffering, the diversity of suffering, the result of suffering, the cessation of suffering, and the way leading to the cessation of suffering, he understands this penetrative spiritual life to be the cessation of suffering.
 

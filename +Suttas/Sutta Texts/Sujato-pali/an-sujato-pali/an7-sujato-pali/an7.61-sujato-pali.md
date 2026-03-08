@@ -47,21 +47,21 @@ He sat on the seat spread out and said to Mahāmoggallāna:
 9But what if that doesn’t work? Then lie down in the lion’s posture — on the right side, placing one foot on top of the other — mindful and aware, and focused on the time of getting up. When you wake, you should get up quickly, thinking: ‘I will not live attached to the pleasures of sleeping, lying down, and drowsing.’ That’s how you should train.
 
 
-10So you should train like this: ‘I will not approach families with my head swollen with vanity.’ That’s how you should train. What happens if a mendicant approaches families with a head swollen with vanity? Well, families have business to attend to, so people might not notice when a mendicant arrives. In that case the mendicant thinks: ‘Who on earth has turned this family against me? It seems they don’t like me any more.’ And so, because they don’t get anything they feel dismayed. Being dismayed, they become restless. Being restless, they lose restraint. And without restraint the mind is far from immersion.
+10So you should train like this: ‘I will not approach families with my head swollen with vanity.’ That’s how you should train. What happens if a bhikkhu approaches families with a head swollen with vanity? Well, families have business to attend to, so people might not notice when a bhikkhu arrives. In that case the bhikkhu thinks: ‘Who on earth has turned this family against me? It seems they don’t like me any more.’ And so, because they don’t get anything they feel dismayed. Being dismayed, they become restless. Being restless, they lose restraint. And without restraint the mind is far from immersion.
 
 11So you should train like this: ‘I won’t get into arguments.’ That’s how you should train. When there’s an argument, you can expect there’ll be lots of talking. When there’s lots of talking, people become restless. Being restless, they lose restraint. And without restraint the mind is far from immersion.
 
 Moggallāna, I don’t praise all kinds of closeness. Nor do I criticize all kinds of closeness. I don’t praise closeness with laypeople and renunciates. I do praise closeness with those lodgings that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat.”
 
-12When he said this, Venerable Moggallāna asked the Buddha: “Sir, how do you briefly define a mendicant who is freed through the ending of craving, who has reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal, and is best among gods and humans?”
+12When he said this, Venerable Moggallāna asked the Buddha: “Sir, how do you briefly define a bhikkhu who is freed through the ending of craving, who has reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal, and is best among gods and humans?”
 
 
-13“It’s when a mendicant has heard: ‘Nothing is worth clinging on to.’ When a mendicant has heard that nothing is worth clinging on to, they directly know all things. Directly knowing all things, they completely understand all things. Having completely understood all things, when they experience any kind of feeling — pleasant, unpleasant, or neutral — they meditate observing impermanence, dispassion, cessation, and letting go in those feelings. Meditating in this way, they don’t grasp at anything in the world. Not grasping, they’re not anxious. Not being anxious, they personally become extinguished.
+13“It’s when a bhikkhu has heard: ‘Nothing is worth clinging on to.’ When a bhikkhu has heard that nothing is worth clinging on to, they directly know all things. Directly knowing all things, they completely understand all things. Having completely understood all things, when they experience any kind of feeling — pleasant, unpleasant, or neutral — they meditate observing impermanence, dispassion, cessation, and letting go in those feelings. Meditating in this way, they don’t grasp at anything in the world. Not grasping, they’re not anxious. Not being anxious, they personally become extinguished.
 
 They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’
 
 
-That’s how I briefly define a mendicant who is freed through the ending of craving, who has reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal, and is best among gods and humans.”
+That’s how I briefly define a bhikkhu who is freed through the ending of craving, who has reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal, and is best among gods and humans.”
 
 1 Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā bhaggesu viharati susumāragire bhesakaḷāvane migadāye.
 

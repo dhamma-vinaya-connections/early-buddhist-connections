@@ -11,11 +11,11 @@ language: "English"
 
 *Bi-Pc.66.1.1* *BD.3.371* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns ordained a girl married for full twelve years (but) who had not trained for two years in the six rules. These were ignorant, inexperienced, they did not know what was allowable or what was not allowable.[^1] Those who were modest nuns … spread it about, saying: “How can these nuns ordain a girl married for full twelve years (but) who has not trained for two years in the six rules?” …
 
-“Is it true, as is said, monks …?” …
+“Is it true, as is said, bhikkhus …?” …
 
-The enlightened one, the lord rebuked them, saying: “How, monks, can these nuns ordain … in the six rules? It is not, monks, for pleasing those who are not (yet) pleased …” and having rebuked them, *Vin.4.323* having given reasoned talk, he addressed the monks, saying:
+The enlightened one, the lord rebuked them, saying: “How, bhikkhus, can these nuns ordain … in the six rules? It is not, bhikkhus, for pleasing those who are not (yet) pleased …” and having rebuked them, *Vin.4.323* having given reasoned talk, he addressed the bhikkhus, saying:
 
-“I allow you, monks, to give a girl married for full twelve years the agreement as to training for two years in the six rules. And thus, monks, should it be given: That girl married for full twelve years, having approached the Order … *Bi-Pc.63.1* … should speak thus: ‘Ladies, I, so and so, a girl married for full twelve years, and who am under the lady so and so, request the Order … *Bi-Pc.63.1*. _Instead of_ probationer _read_ a girl married for full twelve years … So do I understand this.’ That girl married for full twelve years should be told: ‘Speak thus: … *Bi-Pc.63.1* …’ “… this rule of training:
+“I allow you, bhikkhus, to give a girl married for full twelve years the agreement as to training for two years in the six rules. And thus, bhikkhus, should it be given: That girl married for full twelve years, having approached the Order … *Bi-Pc.63.1* … should speak thus: ‘Ladies, I, so and so, a girl married for full twelve years, and who am under the lady so and so, request the Order … *Bi-Pc.63.1*. _Instead of_ probationer _read_ a girl married for full twelve years … So do I understand this.’ That girl married for full twelve years should be told: ‘Speak thus: … *Bi-Pc.63.1* …’ “… this rule of training:
 
 “Whatever nun should ordain a girl married for full twelve years (but) who has not trained for two years in the six rules, there is an offence of expiation.”
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two entries to the rainy season. What two? Earlier and later. These are the two entries to the rainy season.”
+1“There are, bhikkhus, these two entries to the rainy season. What two? Earlier and later. These are the two entries to the rainy season.”
 
 1"Dvemā, bhikkhave, vassūpanāyikā. Katamā dve? Purimikā ca pacchimikā ca. Imā kho, bhikkhave, dve vassūpanāyikā"ti.
 

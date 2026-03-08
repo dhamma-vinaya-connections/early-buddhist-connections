@@ -47,7 +47,7 @@ parallels_partilal: ""
 > The Buddha  teaches seven principles of non-decline for lay followers
 
 > [!info] Key Excerpts 
-> Seeing the mendicants, listening to the true teaching, maintain ethics, confident about mendicants, don’t listen to the teaching with a fault-finding mind, don’t seek outside of the buddhist community for those worthy of religious donations and serve them first
+> Seeing the bhikkhus, listening to the true teaching, maintain ethics, confident about bhikkhus, don’t listen to the teaching with a fault-finding mind, don’t seek outside of the buddhist community for those worthy of religious donations and serve them first
 > 
 > A lay follower who practices them 
 Doesn’t fall away from the true teaching

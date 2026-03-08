@@ -26,12 +26,12 @@ Then the brahmin Jāṇussoṇi went up to the Buddha, and exchanged greetings w
 “That’s so true, brahmin! Everything you say is true, brahmin!”
 
 
-“But Master Gotama, remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion and hard to find joy in it. Staying alone, the forests seem to rob the mind of a mendicant who isn’t immersed in samādhi.”
+“But Master Gotama, remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion and hard to find joy in it. Staying alone, the forests seem to rob the mind of a bhikkhu who isn’t immersed in samādhi.”
 
 “That’s so true, brahmin! Everything you say is true, brahmin!
 
 
-2Before my awakening — when I was still unawakened but intent on awakening — I too thought, ‘Remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion, and hard to find joy in it. Staying alone, the forests seem to rob the mind of a mendicant who isn’t immersed in samādhi.’
+2Before my awakening — when I was still unawakened but intent on awakening — I too thought, ‘Remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion, and hard to find joy in it. Staying alone, the forests seem to rob the mind of a bhikkhu who isn’t immersed in samādhi.’
 
 Then I thought, ‘There are ascetics and brahmins with unpurified conduct of body, speech, and mind who frequent remote lodgings in the wilderness and the forest. Those ascetics and brahmins summon unskillful fear and dread because of these defects in their conduct. But I don’t frequent remote lodgings in the wilderness and the forest with unpurified conduct of body, speech, and mind. My conduct is purified. I am one of those noble ones who frequent remote lodgings in the wilderness and the forest with purified conduct of body, speech, and mind.’ Seeing this purity of conduct in myself I felt even more unruffled about staying in the forest.
 
@@ -113,7 +113,7 @@ This was the third knowledge, which I achieved in the final watch of the night. 
 
 22Brahmin, you might think: ‘Perhaps the Master Gotama is not free of greed, hate, and delusion even today, and that is why he still frequents remote lodgings in the wilderness and the forest.’ But you should not see it like this. I see two reasons to frequent remote lodgings in the wilderness and the forest. I see a happy life for myself in the present, and I have compassion for future generations.”
 
-23“Indeed, Master Gotama has compassion for future generations, since he is a perfected one, a fully awakened Buddha. Excellent, Master Gotama! Excellent, Master Gotama! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
+23“Indeed, Master Gotama has compassion for future generations, since he is a perfected one, a fully awakened Buddha. Excellent, Master Gotama! Excellent, Master Gotama! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant who has five qualities can’t enter and remain in right immersion. What five? It’s when a mendicant can’t endure sights, sounds, smells, tastes, and touches. A mendicant who has these five qualities can’t enter and remain in right immersion.
+1“bhikkhus, a bhikkhu who has five qualities can’t enter and remain in right immersion. What five? It’s when a bhikkhu can’t endure sights, sounds, smells, tastes, and touches. A bhikkhu who has these five qualities can’t enter and remain in right immersion.
 
-2A mendicant who has five qualities can enter and remain in right immersion. What five? It’s when a mendicant can endure sights, sounds, smells, tastes, and touches. A mendicant who has these five qualities can enter and remain in right immersion.”
+2A bhikkhu who has five qualities can enter and remain in right immersion. What five? It’s when a bhikkhu can endure sights, sounds, smells, tastes, and touches. A bhikkhu who has these five qualities can enter and remain in right immersion.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo sammāsamādhiṁ upasampajja viharituṁ. Katamehi pañcahi? Idha, bhikkhave, bhikkhu akkhamo hoti rūpānaṁ, akkhamo saddānaṁ, akkhamo gandhānaṁ, akkhamo rasānaṁ, akkhamo phoṭṭhabbānaṁ. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu abhabbo sammāsamādhiṁ upasampajja viharituṁ.
 

@@ -14,9 +14,9 @@ language: "English"
 
 > **Division:** III. FIVE FACTORED
 
-“(1) Bhikkhus, when a bhikkhu is irreverent and undeferential, and his behavior is uncongenial to his fellow monks, it is impossible for him to fulfill the factor of proper conduct. \[15\] (2) Without fulfilling the factor of proper conduct, it is impossible for him to fulfill the factor of a trainee. (3) Without fulfilling the factor of a trainee, it is impossible for him to fulfill virtuous behavior. (4) Without fulfilling virtuous behavior, it is impossible for him to fulfill right view. (5) Without fulfilling right view, it is impossible for him to fulfill right samādhi.
+“(1) Bhikkhus, when a bhikkhu is irreverent and undeferential, and his behavior is uncongenial to his fellow bhikkhus, it is impossible for him to fulfill the factor of proper conduct. \[15\] (2) Without fulfilling the factor of proper conduct, it is impossible for him to fulfill the factor of a trainee. (3) Without fulfilling the factor of a trainee, it is impossible for him to fulfill virtuous behavior. (4) Without fulfilling virtuous behavior, it is impossible for him to fulfill right view. (5) Without fulfilling right view, it is impossible for him to fulfill right samādhi.
 
-“(1) But, bhikkhus, when a bhikkhu is reverential and deferential, and his behavior is congenial to his fellow monks, it is possible for him to fulfill the duty of proper conduct. (2) Having fulfilled the duty of proper conduct, it is possible for him to fulfill the duty of a trainee. (3) Having fulfilled the duty of a trainee, it is possible for him to fulfill virtuous behavior. (4) Having fulfilled virtuous behavior, it is possible for him to fulfill right view. (5) Having fulfilled right view, it is possible for him to fulfill right samādhi.”
+“(1) But, bhikkhus, when a bhikkhu is reverential and deferential, and his behavior is congenial to his fellow bhikkhus, it is possible for him to fulfill the duty of proper conduct. (2) Having fulfilled the duty of proper conduct, it is possible for him to fulfill the duty of a trainee. (3) Having fulfilled the duty of a trainee, it is possible for him to fulfill virtuous behavior. (4) Having fulfilled virtuous behavior, it is possible for him to fulfill right view. (5) Having fulfilled right view, it is possible for him to fulfill right samādhi.”
 
 
 ---

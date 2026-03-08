@@ -9,25 +9,25 @@ contribution:
 
 ### AN6 - Āhuneyyvagga - Worthy of Offerings
 > [!example]- 🌐[[AN6.1]] - 📜[Available texts](obsidian://search?query=file:an6.1-) - Paṭhamaāhuneyya – Worthy Of Offerings 
->  A mendicant is worthy of gifts because of equanimity for the six senses
+>  A bhikkhu is worthy of gifts because of equanimity for the six senses
 
 > [!example]- 🌐[[AN6.2]] - 📜[Available texts](obsidian://search?query=file:an6.2-) - Dutiyaāhuneyya – Worthy Of Offerings 
->  A mendicant is worthy of gifts because of the six higher knowledges
+>  A bhikkhu is worthy of gifts because of the six higher knowledges
 
 > [!example]- 🌐[[AN6.3]] - 📜[Available texts](obsidian://search?query=file:an6.3-) - Indriya – Faculties 
->  Mendicant is worthy of gifts because of six faculties.
+>  bhikkhu is worthy of gifts because of six faculties.
 
 > [!example]- 🌐[[AN6.4]] - 📜[Available texts](obsidian://search?query=file:an6.4-) - Indriya – Faculties 
->  Mendicant is worthy of gifts because of six faculties.
+>  bhikkhu is worthy of gifts because of six faculties.
 
 > [!example]- 🌐[[AN6.5]] - 📜[Available texts](obsidian://search?query=file:an6.5-) - Paṭhamaāhuneyya – Worthy Of Offerings 
->  A mendicant is worthy of gifts because of equanimity for the six senses
+>  A bhikkhu is worthy of gifts because of equanimity for the six senses
 
 > [!example]- 🌐[[AN6.6]] - 📜[Available texts](obsidian://search?query=file:an6.6-) - Paṭhamaāhuneyya – Worthy Of Offerings 
->  A mendicant is worthy of gifts because of equanimity for the six senses
+>  A bhikkhu is worthy of gifts because of equanimity for the six senses
 
 > [!example]- 🌐[[AN6.7]] - 📜[Available texts](obsidian://search?query=file:an6.7-) - Paṭhamaāhuneyya – Worthy Of Offerings 
->  A mendicant is worthy of gifts because of equanimity for the six senses
+>  A bhikkhu is worthy of gifts because of equanimity for the six senses
 
 > [!example]- 🌐[[AN6.8]] - 📜[Available texts](obsidian://search?query=file:an6.8-) - Anuttariya – Unsurpassable 
 >  Six things are unsurpassable
@@ -39,28 +39,28 @@ contribution:
 >  The Buddha  teaches his relative Mahānāma that a noble disciple often practices the six recollections, which lead to joy and peace
 
 > [!example]- 🌐[[AN6.11]] - 📜[Available texts](obsidian://search?query=file:an6.11-) - Paṭhamasāraṇīya – Warm-Hearted 
->  Six warm-hearted qualities practiced among the mendicants
+>  Six warm-hearted qualities practiced among the bhikkhus
 
 > [!example]- 🌐[[AN6.12]] - 📜[Available texts](obsidian://search?query=file:an6.12-) - Paṭhamasāraṇīya – Warm-Hearted 
->  Six warm-hearted qualities practiced among the mendicants
+>  Six warm-hearted qualities practiced among the bhikkhus
 
 > [!example]- 🌐[[AN6.13]] - 📜[Available texts](obsidian://search?query=file:an6.13-) - Nissāraṇīya – Escape Elements 
 >  The Buddha ’s teachings are effective, so we can’t claim to have practiced them fully if we’re still afflicted by the various forms of suffering
 
 > [!example]- 🌐[[AN6.14]] - 📜[Available texts](obsidian://search?query=file:an6.14-) - Anutappiya – Regret 
->  A mendicant who lives well and doesn’t waste time dies without regret
+>  A bhikkhu who lives well and doesn’t waste time dies without regret
 
 > [!example]- 🌐[[AN6.15]] - 📜[Available texts](obsidian://search?query=file:an6.15-) - Anutappiya – Regret 
->  A mendicant who lives well and doesn’t waste time dies without regret
+>  A bhikkhu who lives well and doesn’t waste time dies without regret
 
 > [!example]- 🌐[[AN6.16]] - 📜[Available texts](obsidian://search?query=file:an6.16-) - Anutappiya – Regret 
->  A mendicant who lives well and doesn’t waste time dies without regret
+>  A bhikkhu who lives well and doesn’t waste time dies without regret
 
 > [!example]- 🌐[[AN6.17]] - 📜[Available texts](obsidian://search?query=file:an6.17-) - Soppa – Sleep 
->  Neither a king nor a mendicant gets anything accomplished if they just sleep all the time
+>  Neither a king nor a bhikkhu gets anything accomplished if they just sleep all the time
 
 > [!example]- 🌐[[AN6.18]] - 📜[Available texts](obsidian://search?query=file:an6.18-) - Soppa – Sleep 
->  Neither a king nor a mendicant gets anything accomplished if they just sleep all the time
+>  Neither a king nor a bhikkhu gets anything accomplished if they just sleep all the time
 
 > [!example]- 🌐[[AN6.19]] - 📜[Available texts](obsidian://search?query=file:an6.19-) - Paṭhamamaraṇassati – Mindfulness Of Death (1st) 
 >  Many of those who practice mindfulness of death don’t do so urgently enough. Death might come to us at any moment
@@ -72,7 +72,7 @@ contribution:
 >  In the past, future, and present, practicing  good qualities protects against decline
 
 > [!example]- 🌐[[AN6.21-22]] - 📜[Available texts](obsidian://search?query=file:an6.21-22-) - Sekha – Trainee 
->  Six things lead to the decline of a mendicant trainee.
+>  Six things lead to the decline of a bhikkhu trainee.
 
 > [!example]- 🌐[[AN6.22]] - 📜[Available texts](obsidian://search?query=file:an6.22-) - Aparihāniya – Non-Decline 
 >  In the past, future, and present, practicing  good qualities protects against decline
@@ -81,7 +81,7 @@ contribution:
 >  Sensual pleasures are perilous
 
 > [!example]- 🌐[[AN6.24]] - 📜[Available texts](obsidian://search?query=file:an6.24-) - Himavanta – Mastery Of The Mind 
->  Mendicant with seven qualities masters their mind and is not mastered by it
+>  bhikkhu with seven qualities masters their mind and is not mastered by it
 
 > [!example]- 🌐[[AN6.25]] - 📜[Available texts](obsidian://search?query=file:an6.25-) - Anussatiṭṭhāna – Topics For Recollection 
 >  The Buddha  teaches his relative mahānāma that a noble disciple often practices the six recollections, which lead to joy and peace
@@ -90,10 +90,10 @@ contribution:
 >  The Buddha  teaches his relative mahānāma that a noble disciple often practices the six recollections, which lead to joy and peace
 
 > [!example]- 🌐[[AN6.27]] - 📜[Available texts](obsidian://search?query=file:an6.27-) - Paṭhamasamaya – Proper Occasions 
->  The right time to visit an esteemed mendicant is when you need spiritual guidance and support
+>  The right time to visit an esteemed bhikkhu is when you need spiritual guidance and support
 
 > [!example]- 🌐[[AN6.28]] - 📜[Available texts](obsidian://search?query=file:an6.28-) - Paṭhamasamaya – Proper Occasions 
->  The right time to visit an esteemed mendicant is when you need spiritual guidance and support
+>  The right time to visit an esteemed bhikkhu is when you need spiritual guidance and support
 
 > [!example]- 🌐[[AN6.29]] - 📜[Available texts](obsidian://search?query=file:an6.29-) - Udāyī – With Udāyī 
 >  When the Buddha  asks about the topics for recollection, a monk reveals his ignorance. Ānanda then gives an unusual list of five recollections, which the Buddha  supplements with a sixth
@@ -102,7 +102,7 @@ contribution:
 >  Six things are unsurpassable
 
 > [!example]- 🌐[[AN6.31]] - 📜[Available texts](obsidian://search?query=file:an6.31-) - Sekha – Trainee 
->  Six things lead to the decline of a mendicant trainee.
+>  Six things lead to the decline of a bhikkhu trainee.
 
 > [!example]- 🌐[[AN6.32]] - 📜[Available texts](obsidian://search?query=file:an6.32-) - Aparihāna – Non-Decline 
 >  A god speaks on things leading to decline or non-decline
@@ -111,13 +111,13 @@ contribution:
 >  A god speaks on things leading to decline or non-decline
 
 > [!example]- 🌐[[AN6.34]] - 📜[Available texts](obsidian://search?query=file:an6.34-) - Mahamoggallāna – With Mahmoggallana 
->  Mahāmoggallāna is visited by a Brahmā god who had formerly been a mendicant, and they discuss which of the gods are stream-enterers
+>  Mahāmoggallāna is visited by a Brahmā god who had formerly been a bhikkhu, and they discuss which of the gods are stream-enterers
 
 > [!example]- 🌐[[AN6.35]] - 📜[Available texts](obsidian://search?query=file:an6.35-) - Vijjābhāgiya – Things That Play A Part In Realization 
 >  Six kinds of perception that lead to wisdom
 
 > [!example]- 🌐[[AN6.36]] - 📜[Available texts](obsidian://search?query=file:an6.36-) - Vivādamūla – Roots Of Quarrels 
->  If a mendicant nurses six kinds of defilements it leads to bitterness and disputes in the saṅgha
+>  If a bhikkhu nurses six kinds of defilements it leads to bitterness and disputes in the saṅgha
 
 > [!example]- 🌐[[AN6.37]] - 📜[Available texts](obsidian://search?query=file:an6.37-) - Chaḷaṅgadāna – Gift With Six Factors 
 >  Seeing the laywoman veḷukaṇṭakī preparing a meal for the saṅgha, the Buddha  celebrated by saying that giving is of great benefit when the donor and the recipient each possess three qualities
@@ -132,10 +132,10 @@ contribution:
 >  The Buddha  explains to venerable kimbila the reasons why buddhism lasts long after the Buddha ’s demise
 
 > [!example]- 🌐[[AN6.41]] - 📜[Available texts](obsidian://search?query=file:an6.41-) - Daruka-Khandha – Wood Pile 
->  Even a simple block of wood can be perceived in different ways by a mendicant with advanced meditation
+>  Even a simple block of wood can be perceived in different ways by a bhikkhu with advanced meditation
 
 > [!example]- 🌐[[AN6.42]] - 📜[Available texts](obsidian://search?query=file:an6.42-) - Nagita – Nagita 
->  When visited by a noisy crowd, the Buddha  speaks to his attendant nāgita of his love of seclusion and solitude, and of his regard for forest mendicants
+>  When visited by a noisy crowd, the Buddha  speaks to his attendant nāgita of his love of seclusion and solitude, and of his regard for forest bhikkhus
 
 > [!example]- 🌐[[AN6.43]] - 📜[Available texts](obsidian://search?query=file:an6.43-) - Naga – Giant 
 >  When going for a bath, the Buddha  encounters a giant royal elephant. But a spiritual giant is even more impressive.
@@ -162,7 +162,7 @@ contribution:
 >  Just as a tree without leaves cannot grow, sense restraint is the foundation for spiritual growth
 
 > [!example]- 🌐[[AN6.51]] - 📜[Available texts](obsidian://search?query=file:an6.51-) - Ananda – With Ānanda 
->  Venerables Ānanda and Sāriputta discuss how a mendicants gets to further their learning and understanding
+>  Venerables Ānanda and Sāriputta discuss how a bhikkhus gets to further their learning and understanding
 
 > [!example]- 🌐[[AN6.52]] - 📜[Available texts](obsidian://search?query=file:an6.52-) - Khattiya – Aristocrats 
 >  The Buddha  explains to the brahmin jāṇussoṇī the ambition, quest, commitment, insistence, and ultimate goal of aristocrats, brahmins, householders, women, bandits, and ascetics
@@ -192,7 +192,7 @@ contribution:
 >  The junior monk Citta hatthisāriputta rudely interrupts his seniors, and is admonished by mahākoṭṭhita. His friends speak in his defense, but mahākoṭṭhita warns them with a long explanation of how hard it is to know another’s mind. Ultimately, Citta disrobes
 
 > [!example]- 🌐[[AN6.61]] - 📜[Available texts](obsidian://search?query=file:an6.61-) - Majjhe – Middle 
->  Several senior mendicants discuss the “questions of metteyya” from the pārāyana (snp 5.3). Each propose an interpretation, and they then ask the Buddha . He praises each reading, but gives his own intended meaning
+>  Several senior bhikkhus discuss the “questions of metteyya” from the pārāyana (snp 5.3). Each propose an interpretation, and they then ask the Buddha . He praises each reading, but gives his own intended meaning
 
 > [!example]- 🌐[[AN6.62]] - 📜[Available texts](obsidian://search?query=file:an6.62-) - Purisindriyañāṇa – Faculties Of Persons 
 >  A monk asks whether, when the Buddha  said that Devadatta was going to hell, he was speaking metaphorically. The Buddha  castigates him, wondering how anyone could misunderstand such a straightforward statement, and explains how he reads the minds of others and understands where their deeds will lead them
@@ -210,10 +210,10 @@ contribution:
 >  Six things lead to perfection
 
 > [!example]- 🌐[[AN6.67]] - 📜[Available texts](obsidian://search?query=file:an6.67-) - Mitta – Friends 
->  With bad friends, a mendicant cannot fulfill six good qualities, but with good friends they can
+>  With bad friends, a bhikkhu cannot fulfill six good qualities, but with good friends they can
 
 > [!example]- 🌐[[AN6.68]] - 📜[Available texts](obsidian://search?query=file:an6.68-) - Saṅgaṇikārāma – Enjoying Company 
->  A mendicant who loves to socialize can’t find peace in meditation, but one who loves solitude can.
+>  A bhikkhu who loves to socialize can’t find peace in meditation, but one who loves solitude can.
 
 > [!example]- 🌐[[AN6.69]] - 📜[Available texts](obsidian://search?query=file:an6.69-) - Devatā – Deity 
 >  A god speaks on the factors of non-decline. When the Buddha  repeats what he says, Sāriputta gives an explaination
@@ -222,19 +222,19 @@ contribution:
 >  Without samādhi or immersion it is impossible to realize the higher truths of the path
 
 > [!example]- 🌐[[AN6.71]] - 📜[Available texts](obsidian://search?query=file:an6.71-) - Sakkhibhabba – Capable Of Realizing 
->  Six qualities that enable a mendicant to gain understanding
+>  Six qualities that enable a bhikkhu to gain understanding
 
 > [!example]- 🌐[[AN6.72]] - 📜[Available texts](obsidian://search?query=file:an6.72-) - Bala – Strength 
->  Six qualities that enable a mendicant to gain strength in meditation
+>  Six qualities that enable a bhikkhu to gain strength in meditation
 
 > [!example]- 🌐[[AN6.73]] - 📜[Available texts](obsidian://search?query=file:an6.73-) - Bala – Strength 
->  Six qualities that enable a mendicant to gain the first absorption
+>  Six qualities that enable a bhikkhu to gain the first absorption
 
 > [!example]- 🌐[[AN6.74]] - 📜[Available texts](obsidian://search?query=file:an6.74-) - Bala – Strength 
->  Six qualities that enable a mendicant to gain the first absorption
+>  Six qualities that enable a bhikkhu to gain the first absorption
 
 > [!example]- 🌐[[AN6.75]] - 📜[Available texts](obsidian://search?query=file:an6.75-) - Bala – Strength 
->  Six qualities that enable a mendicant to gain the first absorption
+>  Six qualities that enable a bhikkhu to gain the first absorption
 
 > [!example]- 🌐[[AN6.76]] - 📜[Available texts](obsidian://search?query=file:an6.76-) - Arahatta – Perfection 
 >  Qualities for realizing arahantship and superhuman states
@@ -249,7 +249,7 @@ contribution:
 >  Qualities leading to happiness and qualities for gaining and strengthening good qualities.
 
 > [!example]- 🌐[[AN6.80]] - 📜[Available texts](obsidian://search?query=file:an6.80-) - Mahantatta – Greatness 
->  Possessing six qualities a mendicant attains to greatness.
+>  Possessing six qualities a bhikkhu attains to greatness.
 
 > [!example]- 🌐[[AN6.81]] - 📜[Available texts](obsidian://search?query=file:an6.81-) - Niraya – Hell 
 >  Things leading to hell or heaven
@@ -264,7 +264,7 @@ contribution:
 >  Things leading to or obstructing the attainment of perfection
 
 > [!example]- 🌐[[AN6.85]] - 📜[Available texts](obsidian://search?query=file:an6.85-) - Sītibhāva – Coolness 
->  Possessing six qualities a mendicant attains to coolness
+>  Possessing six qualities a bhikkhu attains to coolness
 
 > [!example]- 🌐[[AN6.86]] - 📜[Available texts](obsidian://search?query=file:an6.86-) - Āvaraṇa – Obstacles 
 >  Things that enable or obstruct true understanding while listening to the teachings.
@@ -273,7 +273,7 @@ contribution:
 >  Things that enable or obstruct true understanding while listening to the teachings.
 
 > [!example]- 🌐[[AN6.88]] - 📜[Available texts](obsidian://search?query=file:an6.88-) - Sītibhāva – Coolness 
->  Possessing six qualities a mendicant attains to coolness
+>  Possessing six qualities a bhikkhu attains to coolness
 
 > [!example]- 🌐[[AN6.89]] - 📜[Available texts](obsidian://search?query=file:an6.89-) - Pahīna – Given Up 
 >  Things given up by a stream-enterer accomplished in views
@@ -303,16 +303,16 @@ contribution:
 >  Benefits of stream-entry
 
 > [!example]- 🌐[[AN6.98]] - 📜[Available texts](obsidian://search?query=file:an6.98-) - Anicca – Impermanence 
->  A mendicant on the path cannot see any condition as permanent, pleasant nor self
+>  A bhikkhu on the path cannot see any condition as permanent, pleasant nor self
 
 > [!example]- 🌐[[AN6.99]] - 📜[Available texts](obsidian://search?query=file:an6.99-) - Anicca – Impermanence 
->  A mendicant on the path cannot see any condition as permanent, pleasant nor self
+>  A bhikkhu on the path cannot see any condition as permanent, pleasant nor self
 
 > [!example]- 🌐[[AN6.100]] - 📜[Available texts](obsidian://search?query=file:an6.100-) - Anicca – Impermanence 
->  A mendicant on the path cannot see any condition as permanent, pleasant nor self
+>  A bhikkhu on the path cannot see any condition as permanent, pleasant nor self
 
 > [!example]- 🌐[[AN6.101]] - 📜[Available texts](obsidian://search?query=file:an6.101-) - Anicca – Impermanence 
->  A mendicant on the path cannot see any condition as permanent, pleasant nor self
+>  A bhikkhu on the path cannot see any condition as permanent, pleasant nor self
 
 > [!example]- 🌐[[AN6.102]] - 📜[Available texts](obsidian://search?query=file:an6.102-) - Anavatthita – Transience 
 >  Reasons for meditating on impermanence, suffering and not self

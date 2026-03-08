@@ -36,7 +36,7 @@ language: "English"
     Householder, they are excellent fields  
     That yield great merits when given gifts.”
 
-8. This is what the Buddha said. The householder Anāthapiṇḍada and the monks who heard what he taught rejoiced and approved.
+8. This is what the Buddha said. The householder Anāthapiṇḍada and the bhikkhus who heard what he taught rejoiced and approved.
 
 ---
 

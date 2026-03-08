@@ -18,12 +18,12 @@ language: "Pali - English"
 
 1On one occasion when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, Venerable Upananda the Sakyan said to his brother’s student, “Come, let’s go to the village for alms.” Then, without getting him any food, he sent him away, saying, “Go away! I’m not comfortable talking or sitting with you, but only if I talk and sit by myself.” But since the right time for eating was coming to an end, the student was unable to walk for alms. And as he returned to the monastery, there was nobody offering food, and so he missed his meal.
 
-2He then went to the monastery and told the monks what had happened. The monks of few desires complained and criticized Upananda, “How could Venerable Upananda say to a monk: ‘Come, let’s go to the village for alms,’ and then send him away without getting him any food?” … “Is it true, Upananda, that you did this?”
+2He then went to the monastery and told the bhikkhus what had happened. The bhikkhus of few desires complained and criticized Upananda, “How could Venerable Upananda say to a monk: ‘Come, let’s go to the village for alms,’ and then send him away without getting him any food?” … “Is it true, Upananda, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

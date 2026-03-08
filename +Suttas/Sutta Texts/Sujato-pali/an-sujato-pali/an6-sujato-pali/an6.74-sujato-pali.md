@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, without giving up these six qualities you can’t enter and remain in the first jhāna. What six? Sensual, malicious, and cruel thoughts and perceptions. Without giving up these six qualities you can’t enter and remain in the first jhāna.
+1“bhikkhus, without giving up these six qualities you can’t enter and remain in the first jhāna. What six? Sensual, malicious, and cruel thoughts and perceptions. Without giving up these six qualities you can’t enter and remain in the first jhāna.
 
 2But after giving up these six qualities you can enter and remain in the first jhāna. What six? Sensual, malicious, and cruel thoughts and perceptions. After giving up these six qualities you can enter and remain in the first jhāna.”
 

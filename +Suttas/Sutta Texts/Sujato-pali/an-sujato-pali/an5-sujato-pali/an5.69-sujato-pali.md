@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five things, when developed and cultivated, lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment.
+1“bhikkhus, these five things, when developed and cultivated, lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment.
 
-2What five? A mendicant meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, observes the impermanence of all conditions, and has well established the perception of their own death.
+2What five? A bhikkhu meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, observes the impermanence of all conditions, and has well established the perception of their own death.
 
 These five things, when developed and cultivated, lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment.”
 

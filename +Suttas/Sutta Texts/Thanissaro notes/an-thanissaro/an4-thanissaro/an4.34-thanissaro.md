@@ -15,7 +15,7 @@ language: "English"
 ## ## Pasāda Sutta
 
 
-“Monks, there are these four supreme objects of confidence. Which four?
+“bhikkhus, there are these four supreme objects of confidence. Which four?
 
 “Among whatever beings there may be—footless, two-footed, four-footed, many footed; with form or formless; percipient, non-percipient, neither percipient nor non-percipient—the Tathāgata, worthy & rightly self-awakened, is considered supreme. Those who have confidence in the Awakened One have confidence in what is supreme; and for those with confidence in the supreme, supreme is the result.
 
@@ -25,7 +25,7 @@ language: "English"
 
 “Among whatever communities or groups there may be, the Saṅgha of the Tathāgata’s disciples is considered supreme—i.e., the four [groups of noble disciples] when taken as pairs, the eight when taken as persons.[1](#^[[an4-thanissaro]].34note01) Those who have confidence in the Saṅgha have confidence in what is supreme; and for those with confidence in the supreme, supreme will be the result. ^[[an4-thanissaro]].34note01-ref
 
-“These, monks, are the four supreme objects of confidence.”
+“These, bhikkhus, are the four supreme objects of confidence.”
 
 With 
 confidence,

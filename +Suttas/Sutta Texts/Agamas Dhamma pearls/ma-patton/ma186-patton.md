@@ -19,13 +19,13 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma186note01) One time, the Buddha traveled to Kuru and stayed at the Kuru town of [Karmasadharma]. ^ma186note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “Someone who doesn’t know other minds as they truly are isn’t able to know the Bhagavān’s right and complete enlightenment. How should they inquire about the Tathāgata?”
+2. It was then that the Bhagavān addressed the bhikkhus, “Someone who doesn’t know other minds as they truly are isn’t able to know the Bhagavān’s right and complete enlightenment. How should they inquire about the Tathāgata?”
 
-The monks then said to the Bhagavān, “The Bhagavān is the basis of the Dharma, the Bhagavān is the Dharma lord, and the Dharma comes from the Bhagavān. Please let him teach it. After listening, we’ll get a detailed knowledge of its meaning.”
+The bhikkhus then said to the Bhagavān, “The Bhagavān is the basis of the Dharma, the Bhagavān is the Dharma lord, and the Dharma comes from the Bhagavān. Please let him teach it. After listening, we’ll get a detailed knowledge of its meaning.”
 
-3. The Buddha told them, “Listen closely, monks, listen closely! Consider it well. I’ll provide a discerning explanation for you.”
+3. The Buddha told them, “Listen closely, bhikkhus, listen closely! Consider it well. I’ll provide a discerning explanation for you.”
 
-The monks then accepted the teaching and listened.
+The bhikkhus then accepted the teaching and listened.
 
 4. The Bhagavān told them, “When someone doesn’t know other minds as they truly are, they should inquire about the Tathāgata in two ways: 1) the forms that they see with their eyes and 2) the sounds that they hear with their ears. Does that venerable have defiled states that are perceived by the eye and ear, or are there none? Suppose when someone searches for defiled states that are perceived by the eye and ear, that venerable doesn’t have any. If none are present, then they search further.
 
@@ -59,7 +59,7 @@ The monks then accepted the teaching and listened.
 
 19. “If someone has this practice and this power, becomes deeply attached to the Tathāgata, and they’ve established the faculty of faith, this is called the root of faith and vision that’s associated with unchanging knowledge. No ascetic, priest, god, Māra, Brahmā, or other worldly being can snatch it from them. Thus do they inquire about the Tathāgata, and thus do they rightly know the Tathāgata.”
 
-20. This is what the Buddha said. The monks who heard what the Buddha taught rejoiced and approved.
+20. This is what the Buddha said. The bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

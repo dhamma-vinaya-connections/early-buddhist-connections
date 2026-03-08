@@ -753,11 +753,11 @@ the teacher of the world, along with its devas,
 
 said to him then:
 
-“Come, monk.”
+“Come, bhikkhu.”
 
 That in itself
 
-was monkhood for him.
+was bhikkhuhood for him.
 
 * * *
 
@@ -779,7 +779,7 @@ He brightens the world
 
 like the moon set free from a cloud.[2](#^thag16-8note02) ^thag16-8note02-ref
 
-Whatever young monk
+Whatever young bhikkhu
 
 devotes himself
 

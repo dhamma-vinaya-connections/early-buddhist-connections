@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant who loves to socialize can’t find peace in meditation, but one who loves solitude can.
+> A bhikkhu who loves to socialize can’t find peace in meditation, but one who loves solitude can.
 
 > [!info] Key Excerpts 
 > For someone who takes pleasure in being alone in seclusion, it’s possible to learn the patterns of the mind, then fulfill right view, then fulfill right samadhi, to give up the fetters and to realize nibbana
 > 
-> It’s totally impossible that a mendicant who enjoys company and groups to do that
+> It’s totally impossible that a bhikkhu who enjoys company and groups to do that
 > 
 
 

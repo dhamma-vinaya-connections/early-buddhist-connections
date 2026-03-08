@@ -26,13 +26,13 @@ Then, when the Venerable Ānanda had received almsfood at Migasālā’s house, 
 
 “There are, Ānanda, these six types of persons found existing in the world. What six?
 
-(1) “Here, Ānanda, there is one person who is mild, a pleasant companion, with whom his fellow monks gladly dwell. But he has not listened \[to the teachings\], become learned \[in them\], and penetrated \[them\] by view, and he does not attain temporary liberation. With the breakup of the body, after death, he heads for deterioration, not for distinction; he is one going to deterioration, not to distinction.
+(1) “Here, Ānanda, there is one person who is mild, a pleasant companion, with whom his fellow bhikkhus gladly dwell. But he has not listened \[to the teachings\], become learned \[in them\], and penetrated \[them\] by view, and he does not attain temporary liberation. With the breakup of the body, after death, he heads for deterioration, not for distinction; he is one going to deterioration, not to distinction.
 
-(2) “Then, Ānanda, there is one person who is mild, a pleasant companion, with whom his fellow monks gladly dwell. And he has listened \[to the teachings\], become learned \[in them\], and penetrated \[them\] by view, and he attains temporary liberation. With the breakup of the body, after death, he heads for distinction, not for deterioration; he is one going to distinction, not to deterioration.
+(2) “Then, Ānanda, there is one person who is mild, a pleasant companion, with whom his fellow bhikkhus gladly dwell. And he has listened \[to the teachings\], become learned \[in them\], and penetrated \[them\] by view, and he attains temporary liberation. With the breakup of the body, after death, he heads for distinction, not for deterioration; he is one going to distinction, not to deterioration.
 
 “Ānanda, those who are judgmental will pass such judgment on them: ‘This one has the same qualities as the other. Why should one be inferior and the other superior?’ That \[judgment\] of theirs will indeed lead to their harm and suffering for a long time.
 
-“Between them, Ānanda, the person who is mild, a pleasant companion, one with whom his fellow monks gladly dwell, who has listened \[to the teachings\], become learned \[in them\], and penetrated \[them\] by view, and who attains temporary liberation, \[350\] surpasses and excels the other person. For what reason? Because the Dhamma-stream carries him along. But who can know this difference except the Tathāgata?
+“Between them, Ānanda, the person who is mild, a pleasant companion, one with whom his fellow bhikkhus gladly dwell, who has listened \[to the teachings\], become learned \[in them\], and penetrated \[them\] by view, and who attains temporary liberation, \[350\] surpasses and excels the other person. For what reason? Because the Dhamma-stream carries him along. But who can know this difference except the Tathāgata?
 
 “Therefore, Ānanda, do not be judgmental regarding people. Do not pass judgment on people. Those who pass judgment on people harm themselves. I alone, or one like me, may pass judgment on people.
 

@@ -7,27 +7,27 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC55]]
 > ◄  [[bu-pc54-horner]] 📜  [[bu-pc56-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 55
+# bhikkhus’ Expiation (_Pācittiya_) 55
 
-*Bu-Pc.55.1.1* *BD.2.396* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks frightened[^1] the group of seventeen monks. These, being frightened, cried out. Monks spoke thus:
+*Bu-Pc.55.1.1* *BD.2.396* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus frightened[^1] the group of seventeen bhikkhus. These, being frightened, cried out. bhikkhus spoke thus:
 
 “Why do you, your reverences, cry out?”
 
-“Your reverences, this group of six monks frightened us.”
+“Your reverences, this group of six bhikkhus frightened us.”
 
-Those who were modest monks … spread it about, saying:
+Those who were modest bhikkhus … spread it about, saying:
 
-“How can the group of six monks frighten a monk?” … see *Bu-Pc.52.1* … “… should be set forth:
-
-* * *
-
-*Bu-Pc.55.2.1* “Whatever monk should frighten a monk, there is an offence of expiation.”
+“How can the group of six bhikkhus frighten a bhikkhu?” … see *Bu-Pc.52.1* … “… should be set forth:
 
 * * *
 
-Whatever means: is monk to be understood in this case.
+*Bu-Pc.55.2.1* “Whatever bhikkhu should frighten a bhikkhu, there is an offence of expiation.”
 
-Monk means: another monk.
+* * *
+
+Whatever means: is bhikkhu to be understood in this case.
+
+bhikkhu means: another bhikkhu.
 
 Should frighten means: if one who is ordained, desirous of frightening one who is ordained, arranges a form or a sound or a smell or a taste or a touch,[^2] whether he is afraid or whether he is not afraid, there is an offence of expiation. If he points out the wilds of thieves, or the wilds of beasts of prey, or the wilds of goblins,[^3] whether he is afraid or whether he is not afraid, there is an offence of expiation.
 
@@ -47,7 +47,7 @@ The Fifth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -18,18 +18,18 @@ language: "Pali - English"
 
 #### Origin
 
-1On one occasion when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six went to the army on some business, and they stayed there for more than three nights. People complained and criticized them:
+1On one occasion when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six went to the army on some business, and they stayed there for more than three nights. People complained and criticized them:
 
 “How can the Sakyan monastics stay with the army? It’s our misfortune that we must stay with the army for the sake of our livelihoods and because of our wives and children.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How could the monks from the group of six stay with the army for more than three nights?” …
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How could the bhikkhus from the group of six stay with the army for more than three nights?” …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

@@ -18,35 +18,35 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying in the land of the Vajjis near Ukkacelā on the bank of the Ganges river. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying in the land of the Vajjis near Ukkacelā on the bank of the Ganges river. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Once upon a time, mendicants, there was an unintelligent Magadhan cowherd. In the last month of the rainy season, without inspecting the near shore or the far shore, he drove his cattle across a place with no ford on the Ganges river to the land of the Suvidehans on the northern shore.
+2“Once upon a time, bhikkhus, there was an unintelligent Magadhan cowherd. In the last month of the rainy season, without inspecting the near shore or the far shore, he drove his cattle across a place with no ford on the Ganges river to the land of the Suvidehans on the northern shore.
 
 But the cattle bunched up in mid-stream and came to ruin right there. Why is that? Because the unintelligent cowherd failed to inspect the shores before driving the cattle across at a place with no ford.
 
 In the same way, there are ascetics and brahmins who are unskilled in this world and the other world, unskilled in Māra’s sovereignty and its opposite, and unskilled in Death’s sovereignty and its opposite. If anyone thinks they are worth listening to and trusting, it will be for their lasting harm and suffering.
 
 
-3Once upon a time, mendicants, there was an intelligent Magadhan cowherd. In the last month of the rainy season, after inspecting the near shore and the far shore, he drove his cattle across a ford on the Ganges river to the land of the Suvidehans on the northern shore.
+3Once upon a time, bhikkhus, there was an intelligent Magadhan cowherd. In the last month of the rainy season, after inspecting the near shore and the far shore, he drove his cattle across a ford on the Ganges river to the land of the Suvidehans on the northern shore.
 
 First he drove across the bulls, the fathers and leaders of the herd. They breasted the stream of the Ganges and safely reached the far shore. Then he drove across the strong and tractable cattle. They too breasted the stream of the Ganges and safely reached the far shore. Then he drove across the bullocks and heifers. They too breasted the stream of the Ganges and safely reached the far shore. Then he drove across the calves and weak cattle. They too breasted the stream of the Ganges and safely reached the far shore. Once it happened that a baby calf had just been born. Urged on by its mother’s lowing, even it managed to breast the stream of the Ganges and safely reach the far shore. Why is that? Because the intelligent cowherd inspected both shores before driving the cattle across at a ford.
 
 In the same way, there are ascetics and brahmins who are skilled in this world and the other world, skilled in Māra’s sovereignty and its opposite, and skilled in Death’s sovereignty and its opposite. If anyone thinks they are worth listening to and trusting, it will be for their lasting welfare and happiness.
 
-4Just like the bulls, fathers and leaders of the herd, who crossed the Ganges to safety are the mendicants who are perfected, who have ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment. Having breasted Māra’s stream, they have safely crossed over to the far shore.
+4Just like the bulls, fathers and leaders of the herd, who crossed the Ganges to safety are the bhikkhus who are perfected, who have ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment. Having breasted Māra’s stream, they have safely crossed over to the far shore.
 
-5Just like the strong and tractable cattle who crossed the Ganges to safety are the mendicants who, with the ending of the five lower fetters, are reborn spontaneously. They’re extinguished there, and are not liable to return from that world. They too, having breasted Māra’s stream, will safely cross over to the far shore.
+5Just like the strong and tractable cattle who crossed the Ganges to safety are the bhikkhus who, with the ending of the five lower fetters, are reborn spontaneously. They’re extinguished there, and are not liable to return from that world. They too, having breasted Māra’s stream, will safely cross over to the far shore.
 
-6Just like the bullocks and heifers who crossed the Ganges to safety are the mendicants who, with the ending of three fetters, and the weakening of greed, hate, and delusion, are once-returners. They come back to this world once only, then make an end of suffering. They too, having breasted Māra’s stream, will safely cross over to the far shore.
+6Just like the bullocks and heifers who crossed the Ganges to safety are the bhikkhus who, with the ending of three fetters, and the weakening of greed, hate, and delusion, are once-returners. They come back to this world once only, then make an end of suffering. They too, having breasted Māra’s stream, will safely cross over to the far shore.
 
-7Just like the calves and weak cattle who crossed the Ganges to safety are the mendicants who, with the ending of three fetters are stream-enterers, not liable to be reborn in the underworld, bound for awakening. They too, having breasted Māra’s stream, will safely cross over to the far shore.
+7Just like the calves and weak cattle who crossed the Ganges to safety are the bhikkhus who, with the ending of three fetters are stream-enterers, not liable to be reborn in the underworld, bound for awakening. They too, having breasted Māra’s stream, will safely cross over to the far shore.
 
-8Just like the baby calf who had just been born, but, urged on by its mother’s lowing, still managed to cross the Ganges to safety are the mendicants who are followers of principles, followers by faith. They too, having breasted Māra’s stream, will safely cross over to the far shore.
+8Just like the baby calf who had just been born, but, urged on by its mother’s lowing, still managed to cross the Ganges to safety are the bhikkhus who are followers of principles, followers by faith. They too, having breasted Māra’s stream, will safely cross over to the far shore.
 
-9Mendicants, I am skilled in this world and the other world, skilled in Māra’s sovereignty and its opposite, and skilled in Death’s sovereignty and its opposite. If anyone thinks I am worth listening to and trusting, it will be for their lasting welfare and happiness.”
+9bhikkhus, I am skilled in this world and the other world, skilled in Māra’s sovereignty and its opposite, and skilled in Death’s sovereignty and its opposite. If anyone thinks I am worth listening to and trusting, it will be for their lasting welfare and happiness.”
 
 
 10That is what the Buddha said. Then the Holy One, the Teacher, went on to say:
@@ -63,7 +63,7 @@ for realizing the sanctuary, extinguishment.
 
 13The Wicked One’s stream has been breasted,  
 it’s smashed and gutted.  
-Be full of joy, mendicants,  
+Be full of joy, bhikkhus,  
 set your heart on the sanctuary!”
 
 1"Evaṁ me sutaṁ — ​ ekaṁ samayaṁ bhagavā vajjīsu viharati ukkacelāyaṁ gaṅgāya nadiyā tīre. Tatra kho bhagavā bhikkhū āmantesi: "bhikkhavo"ti.

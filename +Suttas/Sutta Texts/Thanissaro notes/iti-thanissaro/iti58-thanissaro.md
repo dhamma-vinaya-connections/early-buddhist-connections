@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 58
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three cravings. Which three? Craving for sensuality, craving for becoming, craving for non-becoming. These are the three cravings.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three cravings. Which three? Craving for sensuality, craving for becoming, craving for non-becoming. These are the three cravings.”
 
 Bound with the bondage of craving,
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to restlessness and remorse, or, when they have arisen, makes them increase and grow like an unsettled mind. When you have no peace of mind, restlessness and remorse arise, and once arisen they increase and grow.”
+1“bhikkhus, I do not see a single thing that gives rise to restlessness and remorse, or, when they have arisen, makes them increase and grow like an unsettled mind. When you have no peace of mind, restlessness and remorse arise, and once arisen they increase and grow.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannaṁ vā uddhaccakukkuccaṁ uppajjati uppannaṁ vā uddhaccakukkuccaṁ bhiyyobhāvāya vepullāya saṁvattati yathayidaṁ, bhikkhave, cetaso avūpasamo. Avūpasantacittassa, bhikkhave, anuppannañceva uddhaccakukkuccaṁ uppajjati uppannañca uddhaccakukkuccaṁ bhiyyobhāvāya vepullāya saṁvattatī"ti.
 

@@ -15,7 +15,7 @@ language: "English"
 ## ## Gopaka Moggallāna Sutta
 
 
-_This discourse presents a picture of life in the early Buddhist community shortly after the Buddha’s passing away. On the one hand, it shows the relationship between the monastic community and the political powers that be: the monks are polite and courteous to political functionaries, but the existence of this discourse shows that they had no qualms about depicting those functionaries as a little dense. On the other hand, it shows that early Buddhist practice had no room for many practices that later developed in Buddhist traditions, such as appointed lineage holders, elected ecclesiastical heads, or the use of mental defilements as a basis for samādhi practice._
+_This discourse presents a picture of life in the early Buddhist community shortly after the Buddha’s passing away. On the one hand, it shows the relationship between the monastic community and the political powers that be: the bhikkhus are polite and courteous to political functionaries, but the existence of this discourse shows that they had no qualms about depicting those functionaries as a little dense. On the other hand, it shows that early Buddhist practice had no room for many practices that later developed in Buddhist traditions, such as appointed lineage holders, elected ecclesiastical heads, or the use of mental defilements as a basis for samādhi practice._
 
 * * *
 
@@ -27,47 +27,47 @@ Then in the early morning, Ven. Ānanda, having adjusted his lower robe and taki
 
 So Ven. Ānanda sat down on the seat made ready. Moggallāna the Guardsman, taking a lower seat, sat to one side.
 
-As he was sitting there, he said to Ven. Ānanda: “Master Ānanda, is there any one monk endowed in each & every way with the qualities with which Master Gotama—worthy & rightly self-awakened—was endowed?”
+As he was sitting there, he said to Ven. Ānanda: “Master Ānanda, is there any one bhikkhu endowed in each & every way with the qualities with which Master Gotama—worthy & rightly self-awakened—was endowed?”
 
-“No, brahman, there isn’t any one monk endowed in each & every way with the qualities with which the Blessed One—worthy & rightly self-awakened—was endowed. For the Blessed One was the arouser of the unarisen path, the begetter of the unbegotten path, the expounder of the unexpounded path, the knower of the path, the expert with regard to the path, adept at the path. And now his disciples follow the path and become endowed with it after him.”
+“No, brahman, there isn’t any one bhikkhu endowed in each & every way with the qualities with which the Blessed One—worthy & rightly self-awakened—was endowed. For the Blessed One was the arouser of the unarisen path, the begetter of the unbegotten path, the expounder of the unexpounded path, the knower of the path, the expert with regard to the path, adept at the path. And now his disciples follow the path and become endowed with it after him.”
 
 And then Ven. Ānanda’s discussion with Moggallāna the Guardsman was interrupted in mid-course, for the brahman Vassakāra, the Magadhan administrator, on an inspection tour of the construction sites in Rājagaha, went to Ven. Ānanda at Moggallāna the Guardsman’s construction site. On arrival, he exchanged courteous greetings with Ven. Ānanda. After an exchange of friendly greetings & courtesies, he sat to one side. As he was sitting there, he said to Ven. Ānanda, “Just now, for what discussion were you sitting together when you were interrupted in mid-course?”
 
-“Just now, brahman, Moggallāna the Guardsman said to me, ‘Master Ānanda, is there any one monk endowed in each & every way with the qualities with which Master Gotama—worthy & rightly self-awakened—was endowed?’ And when this was said, I said to him, ‘No, brahman, there isn’t any one monk endowed in each & every way with the qualities with which the Blessed One—worthy & rightly self-awakened—was endowed. For the Blessed One was the arouser of the unarisen path, the begetter of the unbegotten path, the expounder of the unexpounded path, the knower of the path, the expert with regard to the path, adept at the path. And now his disciples follow the path and become endowed with it after him.’ This was my discussion with the brahman Moggallāna the Guardsman that was interrupted in mid-course when you arrived.”
+“Just now, brahman, Moggallāna the Guardsman said to me, ‘Master Ānanda, is there any one bhikkhu endowed in each & every way with the qualities with which Master Gotama—worthy & rightly self-awakened—was endowed?’ And when this was said, I said to him, ‘No, brahman, there isn’t any one bhikkhu endowed in each & every way with the qualities with which the Blessed One—worthy & rightly self-awakened—was endowed. For the Blessed One was the arouser of the unarisen path, the begetter of the unbegotten path, the expounder of the unexpounded path, the knower of the path, the expert with regard to the path, adept at the path. And now his disciples follow the path and become endowed with it after him.’ This was my discussion with the brahman Moggallāna the Guardsman that was interrupted in mid-course when you arrived.”
 
-“Master Ānanda, is there any one monk appointed by Master Gotama (with the words), ‘He will be your arbitrator after I am gone,’ to whom you now turn?”
+“Master Ānanda, is there any one bhikkhu appointed by Master Gotama (with the words), ‘He will be your arbitrator after I am gone,’ to whom you now turn?”
 
-“No, brahman. There isn’t any one monk appointed by the Blessed One—the one who knows, the one who sees, worthy & rightly self-awakened—(with the words), ‘He will be your arbitrator after I am gone,’ to whom we now turn.”
+“No, brahman. There isn’t any one bhikkhu appointed by the Blessed One—the one who knows, the one who sees, worthy & rightly self-awakened—(with the words), ‘He will be your arbitrator after I am gone,’ to whom we now turn.”
 
-“Then is there any one monk authorized by the Saṅgha and appointed by a large body of elder monks (with the words), ‘He will be our arbitrator after the Blessed One is gone,’ to whom you now turn?”
+“Then is there any one bhikkhu authorized by the Saṅgha and appointed by a large body of elder bhikkhus (with the words), ‘He will be our arbitrator after the Blessed One is gone,’ to whom you now turn?”
 
-“No, brahman. There isn’t any one monk authorized by the Saṅgha and appointed by a large body of elder monks (with the words), ‘He will be our arbitrator after the Blessed One is gone,’ to whom we now turn.”
+“No, brahman. There isn’t any one bhikkhu authorized by the Saṅgha and appointed by a large body of elder bhikkhus (with the words), ‘He will be our arbitrator after the Blessed One is gone,’ to whom we now turn.”
 
 “Being thus without an arbitrator, Master Ānanda, what is the reason for your concord?”
 
 “It’s not the case, brahman, that we’re without an arbitrator. We have an arbitrator. The Dhamma is our arbitrator.”
 
-“When asked, ‘Master Ānanda, is there any one monk appointed by Master Gotama (with the words), “He will be your arbitrator after I am gone,” to whom you now turn?’ you said, ‘No, brahman. There isn’t any one monk appointed by the Blessed One... to whom we now turn.’
+“When asked, ‘Master Ānanda, is there any one bhikkhu appointed by Master Gotama (with the words), “He will be your arbitrator after I am gone,” to whom you now turn?’ you said, ‘No, brahman. There isn’t any one bhikkhu appointed by the Blessed One... to whom we now turn.’
 
-“When asked, ‘Then is there any one monk authorized by the Saṅgha... to whom you now turn?’ you said, ‘No, brahman. There isn’t any one monk authorized by the Saṅgha... to whom we now turn.’
+“When asked, ‘Then is there any one bhikkhu authorized by the Saṅgha... to whom you now turn?’ you said, ‘No, brahman. There isn’t any one bhikkhu authorized by the Saṅgha... to whom we now turn.’
 
 “When asked, ‘Being thus without an arbitrator, Master Ānanda, what is the reason for your concord?’ you said, ‘It’s not the case, brahman, that we’re without an arbitrator. We have an arbitrator. The Dhamma is our arbitrator.’ Now how is the meaning of what you have said to be understood?”
 
-“Brahman, there is a training rule laid down by the Blessed One—the one who knows, the one who sees, worthy & rightly self-awakened—a Pāṭimokkha that has been codified. On the uposatha day, all of us who live dependent on a single township gather together in one place. Having gathered together, we invite the one to whom it falls (to recite the Pāṭimokkha). If, while he is reciting, a monk remembers an offense or transgression, we deal with him in accordance with the Dhamma, in accordance with what has been instructed. _We’re_ not the ones who deal with that venerable one. Rather, the Dhamma is what deals with us.”
+“Brahman, there is a training rule laid down by the Blessed One—the one who knows, the one who sees, worthy & rightly self-awakened—a Pāṭimokkha that has been codified. On the uposatha day, all of us who live dependent on a single township gather together in one place. Having gathered together, we invite the one to whom it falls (to recite the Pāṭimokkha). If, while he is reciting, a bhikkhu remembers an offense or transgression, we deal with him in accordance with the Dhamma, in accordance with what has been instructed. _We’re_ not the ones who deal with that venerable one. Rather, the Dhamma is what deals with us.”
 
-“Is there, Master Ānanda, any one monk you now honor, respect, revere, & venerate, on whom—honoring & respecting—you live in dependence?”
+“Is there, Master Ānanda, any one bhikkhu you now honor, respect, revere, & venerate, on whom—honoring & respecting—you live in dependence?”
 
-“Yes, brahman, there is[1](#^mn108note01) a monk we now honor, respect, revere, & venerate, on whom—honoring & respecting—we live in dependence.” ^mn108note01-ref
+“Yes, brahman, there is[1](#^mn108note01) a bhikkhu we now honor, respect, revere, & venerate, on whom—honoring & respecting—we live in dependence.” ^mn108note01-ref
 
-“When asked, ‘Master Ānanda, is there any one monk appointed by Master Gotama (with the words), “He will be your arbitrator after I am gone,” to whom you now turn?’ you said, ‘No, brahman. There isn’t any one monk appointed by the Blessed One... to whom we now turn.’
+“When asked, ‘Master Ānanda, is there any one bhikkhu appointed by Master Gotama (with the words), “He will be your arbitrator after I am gone,” to whom you now turn?’ you said, ‘No, brahman. There isn’t any one bhikkhu appointed by the Blessed One... to whom we now turn.’
 
-“When asked, ‘Then is there any one monk authorized by the Saṅgha... to whom you now turn?’ you said, ‘No, brahman. There isn’t any one monk authorized by the Saṅgha... to whom we now turn.’
+“When asked, ‘Then is there any one bhikkhu authorized by the Saṅgha... to whom you now turn?’ you said, ‘No, brahman. There isn’t any one bhikkhu authorized by the Saṅgha... to whom we now turn.’
 
-“When asked, ‘Is there, Master Ānanda, any one monk you now honor, respect, revere, & venerate, on whom—honoring & respecting—you live in dependence?’ you said, ‘Yes, brahman, there is a monk we now honor, respect, revere, & venerate, on whom—honoring & respecting—we live in dependence.’ Now how is the meaning of what you have said to be understood?”
+“When asked, ‘Is there, Master Ānanda, any one bhikkhu you now honor, respect, revere, & venerate, on whom—honoring & respecting—you live in dependence?’ you said, ‘Yes, brahman, there is a bhikkhu we now honor, respect, revere, & venerate, on whom—honoring & respecting—we live in dependence.’ Now how is the meaning of what you have said to be understood?”
 
 “Brahman, there are ten inspiring qualities expounded by the Blessed One—the one who knows, the one who sees, worthy & rightly self-awakened. In whoever among us those ten qualities are found, we now honor, respect, revere, & venerate him; honoring & respecting him, we live in dependence on him. Which ten?
 
-“[1] There is the case where a monk is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest faults.
+“[1] There is the case where a bhikkhu is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest faults.
 
 “[2] He has heard much, has retained what he has heard, has stored what he has heard. Whatever teachings are admirable in the beginning, admirable in the middle, admirable in the end, that—in their meaning & expression—proclaim the holy life entirely perfect & pure: those he has listened to often, retained, discussed, accumulated, examined with his mind, and well-penetrated in terms of his views.
 
@@ -113,7 +113,7 @@ Then the brahman Vassakāra, the Magadhan administrator, said to Ven. Ānanda, �
 
 “He dwells with his awareness overcome by uncertainty, seized with uncertainty. He does not discern the escape, as it has come to be, from uncertainty once it has arisen. Making that uncertainty the focal point, he absorbs himself with it, besorbs, resorbs, & supersorbs himself with it. This is the sort of mental jhāna that the Blessed One did not praise.
 
-“And what sort of mental jhāna did he praise? There is the case where a monk—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. With the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ With the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—he enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. This is the sort of mental jhāna that the Blessed One praised.
+“And what sort of mental jhāna did he praise? There is the case where a bhikkhu—![[Jhanas]] & mindfulness, neither pleasure nor pain. This is the sort of mental jhāna that the Blessed One praised.
 
 “It would seem, Ven. Ānanda, that Master Gotama criticized the mental jhāna that deserves criticism, and praised that which deserves praise.
 
@@ -125,13 +125,13 @@ So the brahman Vassakāra, the Magadhan administrator, delighting & rejoicing in
 
 Then, not long after he had left, Moggallāna the Guardsman said to Ven. Ānanda, “Master Ānanda, you still haven’t answered what I asked you.”
 
-“Didn’t I just tell you, brahman? There isn’t any one monk endowed in each & every way with the qualities with which the Blessed One—worthy & rightly self-awakened—was endowed. For the Blessed One was the arouser of the unarisen path, the begetter of the unbegotten path, the expounder of the unexpounded path, the knower of the path, the expert with regard to the path, adept at the path. And now his disciples follow the path and become endowed with it after him.”
+“Didn’t I just tell you, brahman? There isn’t any one bhikkhu endowed in each & every way with the qualities with which the Blessed One—worthy & rightly self-awakened—was endowed. For the Blessed One was the arouser of the unarisen path, the begetter of the unbegotten path, the expounder of the unexpounded path, the knower of the path, the expert with regard to the path, adept at the path. And now his disciples follow the path and become endowed with it after him.”
 
 Note
 
 1. Reading _atthi_ with the Thai edition. The Sri Lankan and Burmese editions read _n’atthi,_ “No, there isn’t,” both here and below when Vassakāra repeats what Ven. Ānanda has said. The Thai reading seems more correct because Vassakāra is perplexed by the answer, in that it seems to contradict Ven. Ānanda’s answers to the two previous questions. If Ven. Ānanda had answered, “No,” to this third question, there would have been nothing perplexing about the answer.
 
-Ven. Ānanda proceeds to define the monk whom the other monks respect, and he does so using a figure of speech: The “one monk” is actually one ideal monk whose profile may fit any number of monks. The editors of the Sri Lankan and Burmese edition may have chosen to read _n’atthi_ to convey the idea that there was more than one monk whom the other monks respected. But, as noted above, this reading does not explain why Vassakāra was perplexed by Ven. Ānanda’s answer.
+Ven. Ānanda proceeds to define the bhikkhu whom the other bhikkhus respect, and he does so using a figure of speech: The “one bhikkhu” is actually one ideal bhikkhu whose profile may fit any number of bhikkhus. The editors of the Sri Lankan and Burmese edition may have chosen to read _n’atthi_ to convey the idea that there was more than one bhikkhu whom the other bhikkhus respected. But, as noted above, this reading does not explain why Vassakāra was perplexed by Ven. Ānanda’s answer.
 
 See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.90-thanissaro]]; [[an6.12-thanissaro]]; [[an7.21-thanissaro]]; [[an11.10-thanissaro]]
 

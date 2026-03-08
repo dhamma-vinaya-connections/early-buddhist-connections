@@ -14,13 +14,13 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### IX. Senior Mendicants — AN 5.86: Attaining the Methods of Textual Analysis
+### IX. Senior bhikkhus — AN 5.86: Attaining the Methods of Textual Analysis
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“A senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired. What five? They have attained the textual analysis of meaning, text, terminology, and eloquence. And they are skilled and tireless in a diverse spectrum of duties for their spiritual companions, understanding how to go about things in order to complete and organize the work. A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
+1“A senior bhikkhu with five qualities is dear and beloved to their spiritual companions, respected and admired. What five? They have attained the textual analysis of meaning, text, terminology, and eloquence. And they are skilled and tireless in a diverse spectrum of duties for their spiritual companions, understanding how to go about things in order to complete and organize the work. A senior bhikkhu with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṁ piyo ca hoti manāpo ca garu ca bhāvanīyo ca. Katamehi pañcahi? Atthapaṭisambhidāpatto hoti, dhammapaṭisambhidāpatto hoti, niruttipaṭisambhidāpatto hoti, paṭibhānapaṭisambhidāpatto hoti, yāni tāni sabrahmacārīnaṁ uccāvacāni kiṅkaraṇīyāni tattha dakkho hoti analaso tatrupāyāya vīmaṁsāya samannāgato alaṁ kātuṁ alaṁ saṁvidhātuṁ – imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṁ piyo ca hoti manāpo ca garu ca bhāvanīyo cā"ti.
 

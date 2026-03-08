@@ -31,10 +31,10 @@ And that nun did just that. People complained and criticized her, “How indecen
 
 “This sort of work would not even make an indecent, shameless scoundrel look good, let alone Venerable Udāyī.”
 
-The nuns told the monks.
+The nuns told the bhikkhus.
 
 
-3The monks of few desires complained and criticized him, “How could Venerable Udāyī sew a robe for a nun?” … “Is it true, Udāyī, that you did this?”
+3The bhikkhus of few desires complained and criticized him, “How could Venerable Udāyī sew a robe for a nun?” … “Is it true, Udāyī, that you did this?”
 
 
 “It’s true, Sir.”
@@ -43,7 +43,7 @@ The nuns told the monks.
 
 “No.”
 
-“Foolish man, a man and a woman who are unrelated don’t know what’s appropriate and inappropriate, what’s inspiring and uninspiring, in dealing with each other. So how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“Foolish man, a man and a woman who are unrelated don’t know what’s appropriate and inappropriate, what’s inspiring and uninspiring, in dealing with each other. So how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

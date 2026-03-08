@@ -7,25 +7,25 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC20]]
 > ◄  [[bu-pc19-horner]] 📜  [[bu-pc21-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 20
+# bhikkhus’ Expiation (_Pācittiya_) 20
 
-*Bu-Pc.20.1.1* *BD.2.261* … at Āḷavī in the chief shrine at Āḷavī. Now at that time the monks of Āḷavī, doing repairs, knowing that the water contained life, sprinkled grass and clay and had them sprinkled. Those who were modest monks … spread it about, saying:
+*Bu-Pc.20.1.1* *BD.2.261* … at Āḷavī in the chief shrine at Āḷavī. Now at that time the bhikkhus of Āḷavī, doing repairs, knowing that the water contained life, sprinkled grass and clay and had them sprinkled. Those who were modest bhikkhus … spread it about, saying:
 
-“How can the monks of Āḷavī, knowing that the water contained life … and have them sprinkled?” Then these monks told this matter to the lord…
+“How can the bhikkhus of Āḷavī, knowing that the water contained life … and have them sprinkled?” Then these bhikkhus told this matter to the lord…
 
-“Is it true, as is said, that you, monks, knowing that the water contained life … and had them sprinkled?”
+“Is it true, as is said, that you, bhikkhus, knowing that the water contained life … and had them sprinkled?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, knowing that the water contained life … and have them sprinkled? *Vin.4.49* It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, knowing that the water contained life … and have them sprinkled? *Vin.4.49* It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, knowing that the water contains life, should sprinkle grass or clay or should have them sprinkled, there is an offence of expiation.”
+“Whatever bhikkhu, knowing that the water contains life, should sprinkle grass or clay or should have them sprinkled, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.20.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.20.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 He knows[^1] means: either he knows by himself or others tell him.
 
@@ -57,7 +57,7 @@ The Second Division: that on Vegetable-growth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

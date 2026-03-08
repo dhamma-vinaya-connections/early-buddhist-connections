@@ -15,9 +15,9 @@ language: "English"
 ## ## Taṇhā Sutta
 
 
-“Monks, I will teach you craving: the ensnarer that has flowed along, spread out, and caught hold, with which this world is smothered & enveloped like a tangled skein, a knotted ball of string, like matted rushes and reeds, and does not go beyond transmigration, beyond the planes of deprivation, woe, & bad destinations. Listen well, and I will speak.”
+“bhikkhus, I will teach you craving: the ensnarer that has flowed along, spread out, and caught hold, with which this world is smothered & enveloped like a tangled skein, a knotted ball of string, like matted rushes and reeds, and does not go beyond transmigration, beyond the planes of deprivation, woe, & bad destinations. Listen well, and I will speak.”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
 The Blessed One said: “And which craving is the ensnarer that has flowed along, spread out, and caught hold, with which this world is smothered & enveloped like a tangled skein, a knotted ball of string, like matted rushes and reeds, and does not go beyond transmigration, beyond the planes of deprivation, woe, & bad destinations? These 18 craving-verbalizations[1](#^[[an4-thanissaro]].199note01) dependent on what is internal and 18 craving-verbalizations dependent on what is external. ^[[an4-thanissaro]].199note01-ref
 
@@ -27,7 +27,7 @@ The Blessed One said: “And which craving is the ensnarer that has flowed along
 
 “Thus there are 18 craving-verbalizations dependent on what is internal and 18 craving-verbalizations dependent on what is external. These are called the 36 craving-verbalizations. Thus, with 36 craving-verbalizations of this sort in the past, 36 in the future, and 36 in the present, there are 108 craving-verbalizations.
 
-“This, monks, is craving: the ensnarer that has flowed along, spread out, and caught hold, with which this world is smothered & enveloped like a tangled skein, a knotted ball of string, like matted rushes and reeds, and does not go beyond transmigration, beyond the planes of deprivation, woe, & bad destinations.”
+“This, bhikkhus, is craving: the ensnarer that has flowed along, spread out, and caught hold, with which this world is smothered & enveloped like a tangled skein, a knotted ball of string, like matted rushes and reeds, and does not go beyond transmigration, beyond the planes of deprivation, woe, & bad destinations.”
 
 Note
 

@@ -2,7 +2,7 @@
 sutta_code: "AN5.233"
 sutta_title:
   - "Āvāsika "
-  - "Resident Mendicant"
+  - "Resident bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -14,13 +14,13 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### XXIV. A Resident Mendicant — AN 5.233: Beautification
+### XXIV. A Resident bhikkhu — AN 5.233: Beautification
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a resident mendicant with five qualities beautifies the monastery. What five?
+1“bhikkhus, a resident bhikkhu with five qualities beautifies the monastery. What five?
 
 They’re ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
@@ -34,7 +34,7 @@ They’re able to educate, encourage, fire up, and inspire those who approach th
 
 They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
-A resident mendicant with these five qualities beautifies the monastery.”
+A resident bhikkhu with these five qualities beautifies the monastery.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu āvāsaṁ sobheti. Katamehi pañcahi?
 

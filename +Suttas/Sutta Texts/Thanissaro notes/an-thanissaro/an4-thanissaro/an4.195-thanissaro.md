@@ -37,7 +37,7 @@ Then the Blessed One said to Vappa the Sakyan, the disciple of the Nigaṇṭhas
 
 “No, lord.”
 
-“For a monk whose mind is thus rightly released, Vappa, six continual dwellings have been attained. When seeing a form via the eye, he is neither glad nor sad, but dwells equanimous, mindful, & alert.
+“For a bhikkhu whose mind is thus rightly released, Vappa, six continual dwellings have been attained. When seeing a form via the eye, he is neither glad nor sad, but dwells equanimous, mindful, & alert.
 
 “When hearing a sound via the ear.…
 
@@ -53,13 +53,13 @@ Then the Blessed One said to Vappa the Sakyan, the disciple of the Nigaṇṭhas
 
 “Vappa, suppose a shadow were to be discernable in dependence on a stump. A man would come along carrying a shovel. He would cut the stump at the base. Having cut it at the base, he would dig it out. Having dug it out, he would pull out the roots, down to the rootlets. Then he would cut the stump into pieces. Having cut it into pieces, he would split the pieces. Having split the pieces, he would make them into splinters. Having made them into splinters, he would dry them in the wind & sunlight. Having dried them in the wind & sunlight, he would burn them with fire. Having burned them with fire, he would make them into ashes. Having made them into ashes, he would winnow them before a high wind or dump them into a swift-flowing stream. Thus the shadow dependent on the stump would be destroyed at the root, made like a palmyra stump, deprived of the conditions of development, not destined for future arising.
 
-“In the same way, Vappa, for a monk whose mind is thus rightly released, six continual dwellings have been attained. When seeing a form via the eye.… When hearing a sound via the ear.… When smelling an aroma via the nose.… When tasting a flavor via the tongue.… When feeling a tactile sensation via the body.… When cognizing an idea via the mind, he is neither glad nor sad, but dwells equanimous, mindful, & alert.
+“In the same way, Vappa, for a bhikkhu whose mind is thus rightly released, six continual dwellings have been attained. When seeing a form via the eye.… When hearing a sound via the ear.… When smelling an aroma via the nose.… When tasting a flavor via the tongue.… When feeling a tactile sensation via the body.… When cognizing an idea via the mind, he is neither glad nor sad, but dwells equanimous, mindful, & alert.
 
 “When sensing a feeling limited to the body, he discerns that ‘I am sensing a feeling limited to the body.’ When sensing a feeling limited to life, he discerns that ‘I am sensing a feeling limited to life.’ He discerns that ‘With the breakup of the body, after the termination of life, all that is sensed, not being relished, will grow cold right here.’”
 
 When this was said, Vappa the Sakyan, the disciple of the Nigaṇṭhas, said to the Blessed One, “Lord, suppose that there were a man desiring profit who raised horses for sale but he didn’t gain any profit, and furthermore had his share of trouble & torment. In the same way, I—desiring profit—have attended to the foolish Nigaṇṭhas but I haven’t gained any profit, and furthermore have had my share of trouble & torment. From this day forward, lord, I take my faith in the foolish Nigaṇṭhas and winnow it before a high wind or dump it into a swift-flowing stream.
 
-“Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of monks. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
+“Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
 Note
 

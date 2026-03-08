@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four kinds of radiance. What four? The radiance of the moon, sun, fire, and wisdom. These are the four kinds of radiance. The best of these four kinds of radiance is the radiance of wisdom.”
+1“bhikkhus, there are these four kinds of radiance. What four? The radiance of the moon, sun, fire, and wisdom. These are the four kinds of radiance. The best of these four kinds of radiance is the radiance of wisdom.”
 
 1"Catasso imā, bhikkhave, pabhā. Katamā catasso? Candappabhā, sūriyappabhā, aggippabhā, paññāpabhā – imā kho, bhikkhave, catasso pabhā. Etadaggaṁ, bhikkhave, imāsaṁ catunnaṁ pabhānaṁ yadidaṁ paññāpabhā"ti.
 

@@ -15,7 +15,7 @@ language: "English"
 ## ## Yoga Sutta
 
 
-“Monks, there are these four yokes. Which four? The yoke of sensuality, the yoke of becoming, the yoke of views, & the yoke of ignorance.
+“bhikkhus, there are these four yokes. Which four? The yoke of sensuality, the yoke of becoming, the yoke of views, & the yoke of ignorance.
 
 “And what is the yoke of sensuality? There is the case where a certain person doesn’t discern, as it has come to be, the origination, the passing away, the allure, the drawbacks, & the escape from sensuality. When he doesn’t discern, as it has come to be, the origination, the passing away, the allure, the drawbacks, & the escape from sensuality, then—with regard to sensuality—he is obsessed with sensual passion, sensual delight, sensual attraction, sensual infatuation, sensual thirst, sensual fever, sensual fascination, sensual craving. This is the yoke of sensuality.
 

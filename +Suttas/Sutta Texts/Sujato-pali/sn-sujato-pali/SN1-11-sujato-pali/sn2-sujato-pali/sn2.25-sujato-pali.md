@@ -22,11 +22,11 @@ language: "English - Pali"
 
 1So I have heard.
 
-Now at that time several mendicants were staying in the Kosalan lands, in a wilderness hut on the slopes of the Himalayas. They were restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties.
+Now at that time several bhikkhus were staying in the Kosalan lands, in a wilderness hut on the slopes of the Himalayas. They were restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties.
 
-2Then on the fifteenth day sabbath the god Jantu went up to those mendicants and addressed them in verse:
+2Then on the fifteenth day sabbath the god Jantu went up to those bhikkhus and addressed them in verse:
 
-3“The mendicants used to live happily,  
+3“The bhikkhus used to live happily,  
 as disciples of Gotama.  
 Desireless they sought alms;  
 desireless they used their lodgings.  

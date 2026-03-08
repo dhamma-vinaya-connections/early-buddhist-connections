@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those who haven’t cultivated mindfulness of the body haven’t cultivated the deathless. Those who have cultivated mindfulness of the body have cultivated the deathless.”
+1“bhikkhus, those who haven’t cultivated mindfulness of the body haven’t cultivated the deathless. Those who have cultivated mindfulness of the body have cultivated the deathless.”
 
 1"Amataṁ tesaṁ, bhikkhave, anāsevitaṁ yesaṁ kāyagatāsati anāsevitā. Amataṁ tesaṁ, bhikkhave, āsevitaṁ yesaṁ kāyagatāsati āsevitā"ti.
 

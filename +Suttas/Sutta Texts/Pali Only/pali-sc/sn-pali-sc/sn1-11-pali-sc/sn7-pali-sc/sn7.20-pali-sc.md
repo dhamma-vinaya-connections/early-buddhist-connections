@@ -2,7 +2,7 @@
 sutta_code: "SN7.20"
 sutta_title:
   - "Bhikkhakasutta "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---

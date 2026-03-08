@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 5: The Book of the Fives
-### AN 5.88: Therasutta — Senior Mendicants
+### AN 5.88: Therasutta — Senior bhikkhus
 
 Thero hoti rattaññū cirapabbajito;
 

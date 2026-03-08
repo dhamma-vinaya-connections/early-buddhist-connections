@@ -16,7 +16,7 @@ language: "English"
 
 “Bhikkhus, there are these seven kinds of persons who are worthy of gifts, worthy of hospitality, worthy of offerings, worthy of reverential salutation, an unsurpassed field of merit for the world. What seven?
 
-“Here, bhikkhus, some person dwells contemplating the happiness in nibbāna, perceiving such happiness, experiencing such happiness, constantly, continuously, and uninterruptedly focusing on it with the mind, fathoming it with wisdom. With the destruction of the taints, he has realized for himself with direct knowledge, in this very life, the taintless liberation of mind, liberation by wisdom, and having entered upon it, he dwells in it. This is the first kind of person worthy of gifts, worthy of hospitality, worthy of offerings, worthy of reverential salutation, an unsurpassed field of merit for the world.”
+“Here, bhikkhus, some person ![[Satipatthanas]].”
 
 \[The rest as in 7:16, but based on contemplating the happiness in nibbāna.\] \[15\]
 

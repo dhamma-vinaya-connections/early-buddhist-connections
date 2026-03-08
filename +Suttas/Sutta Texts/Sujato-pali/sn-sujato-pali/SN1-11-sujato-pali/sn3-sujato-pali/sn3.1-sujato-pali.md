@@ -28,7 +28,7 @@ Then King Pasenadi of Kosala went up to the Buddha, and exchanged greetings with
 
 2“Well, there are those ascetics and brahmins who lead an order and a community, and teach a community. They’re well-known and famous religious founders, regarded as holy by many people. That is, Pūraṇa Kassapa, Makkhali Gosāla, Nigaṇṭha Nāṭaputta, Sañjaya Belaṭṭhiputta, Pakudha Kaccāyana, and Ajita Kesakambala. I also asked them whether they claimed to have awakened to the supreme perfect awakening, but they made no such claim. So why do you, given that you’re so young in age and newly gone forth?”
 
-3“Great king, these four things should not be looked down on or disparaged because they are young. What four? An aristocrat, a snake, a fire, and a mendicant. These four things should not be looked down on or disparaged because they are young.”
+3“Great king, these four things should not be looked down on or disparaged because they are young. What four? An aristocrat, a snake, a fire, and a bhikkhu. These four things should not be looked down on or disparaged because they are young.”
 
 
 4That is what the Buddha said. Then the Holy One, the Teacher, went on to say:
@@ -74,7 +74,7 @@ a conflagration with a blackened trail,
 the shoots will spring up there again,  
 with the passing of the days and nights.
 
-12But if a mendicant endowed with ethics  
+12But if a bhikkhu endowed with ethics  
 burns you with their power,  
 you’ll have no sons or cattle,  
 nor will your heirs find wealth.  
@@ -86,9 +86,9 @@ seeing what’s good for themselves,
 would always treat these properly:  
 a snake, a conflagration,  
 a famous aristocrat,  
-and a mendicant endowed with ethics.”
+and a bhikkhu endowed with ethics.”
 
-14When this was said, King Pasenadi of Kosala said to the Buddha: “Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
+14When this was said, King Pasenadi of Kosala said to the Buddha: “Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

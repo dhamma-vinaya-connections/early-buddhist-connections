@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1On one occasion when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, King Pasenadi of Kosala was marching out with the army, and the monks from the group of six went to see it. When King Pasenadi saw the monks coming, he summoned them and said:
+1On one occasion when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, King Pasenadi of Kosala was marching out with the army, and the bhikkhus from the group of six went to see it. When King Pasenadi saw the bhikkhus coming, he summoned them and said:
 
 
 “Venerables, why have you come here?”
@@ -27,27 +27,27 @@ language: "Pali - English"
 
 And people complained and criticized them, “How can the Sakyan monastics go to see the army? It’s our misfortune that we must go out with the army for the sake of our livelihoods and because of our wives and children.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How could the monks from the group of six go to see the army?” …
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How could the bhikkhus from the group of six go to see the army?” …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 3‘If a monk goes to see an army, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
 5Soon afterwards a certain monk had a sick uncle in the army. The uncle sent a message to that monk: “I’m with the army and I’m sick. Please come, Venerable. I want you to come.”
 
-Knowing that the Buddha had laid down a rule against going to see an army, that monk thought, “I have a sick uncle in the army. What should I do now?” And he told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+Knowing that the Buddha had laid down a rule against going to see an army, that monk thought, “I have a sick uncle in the army. What should I do now?” And he told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to go to the army when there’s a suitable reason.
+“bhikkhus, I allow you to go to the army when there’s a suitable reason.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

@@ -16,16 +16,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were using water that they knew contained living beings.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were using water that they knew contained living beings.
 
-2The monks of few desires complained and criticized them, “How can the monks from the group of six use water that they know contains living beings?” …
+2The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six use water that they know contains living beings?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

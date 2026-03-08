@@ -20,23 +20,23 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-(98)“Mendicants, there are two fools. What two? One who takes responsibility for what has not come to pass, and one who doesn’t take responsibility for what has come to pass. These are the two fools.”
+(98)“bhikkhus, there are two fools. What two? One who takes responsibility for what has not come to pass, and one who doesn’t take responsibility for what has come to pass. These are the two fools.”
 
 (99)“There are two who are astute. What two? One who doesn’t take responsibility for what has not come to pass, and one who does take responsibility for what has come to pass. These are the two who are astute.”
 
-(100)“Mendicants, there are two fools. What two? One who perceives what is unallowable as allowable, and one who perceives what is allowable as unallowable. These are the two fools.”
+(100)“bhikkhus, there are two fools. What two? One who perceives what is unallowable as allowable, and one who perceives what is allowable as unallowable. These are the two fools.”
 
 (101)“There are two who are astute. What two? One who perceives what is unallowable as unallowable, and one who perceives what is allowable as allowable. These are the two who are astute.”
 
-(102)“Mendicants, there are two fools. What two? One who perceives a non-offense as an offense, and one who perceives an offense as a non-offense. These are the two fools.”
+(102)“bhikkhus, there are two fools. What two? One who perceives a non-offense as an offense, and one who perceives an offense as a non-offense. These are the two fools.”
 
 (103)“There are two who are astute. What two? One who perceives a non-offense as a non-offense, and one who perceives an offense as an offense. These are the two who are astute.”
 
-(104)“Mendicants, there are two fools. What two? One who perceives what is not the teaching as the teaching, and one who perceives the teaching as not the teaching. These are the two fools.”
+(104)“bhikkhus, there are two fools. What two? One who perceives what is not the teaching as the teaching, and one who perceives the teaching as not the teaching. These are the two fools.”
 
 (105)“There are two who are astute. What two? One who perceives the teaching as the teaching, and one who perceives what is not the teaching as not the teaching. These are the two who are astute.”
 
-(106)“Mendicants, there are two fools. What two? One who perceives what is not the training as the training, and one who perceives what is the training as not the training. These are the two fools.”
+(106)“bhikkhus, there are two fools. What two? One who perceives what is not the training as the training, and one who perceives what is the training as not the training. These are the two fools.”
 
 (107)“There are two who are astute. What two? One who perceives what is not the training as not the training, and one who perceives what is the training as the training. These are the two who are astute.”
 

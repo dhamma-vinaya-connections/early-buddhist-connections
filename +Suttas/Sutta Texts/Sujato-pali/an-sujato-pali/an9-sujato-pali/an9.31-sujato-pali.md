@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these nine progressive cessations. What nine?
+1“bhikkhus, there are these nine progressive cessations. What nine?
 
 For someone who has attained the first jhāna, sensual perceptions have ceased.
 

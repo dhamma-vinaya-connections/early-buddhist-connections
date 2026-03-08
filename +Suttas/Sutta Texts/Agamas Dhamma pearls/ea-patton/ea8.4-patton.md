@@ -17,9 +17,9 @@ language: "English"
 
 4. The Light
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “When one person appears in the world, then the light of wisdom appears in the world. Who is that one person? He is called the Tathāgata, the Arhat, the Correctly and Perfectly Awakened One. He is known as the one person who appears in the world, and then the light of wisdom appears in the world.
-3. “Therefore, monks, you should have faith in the Buddha and not deviate from it. Thus, monks, you should train yourselves.”
-4. When the monks heard what the Buddha taught, they rejoiced and approved.
+2. It was then that the Bhagavān addressed the bhikkhus, “When one person appears in the world, then the light of wisdom appears in the world. Who is that one person? He is called the Tathāgata, the Arhat, the Correctly and Perfectly Awakened One. He is known as the one person who appears in the world, and then the light of wisdom appears in the world.
+3. “Therefore, bhikkhus, you should have faith in the Buddha and not deviate from it. Thus, bhikkhus, you should train yourselves.”
+4. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

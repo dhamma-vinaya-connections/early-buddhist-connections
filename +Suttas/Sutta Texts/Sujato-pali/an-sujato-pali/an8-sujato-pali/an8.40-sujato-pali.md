@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the killing of living creatures, when cultivated, developed, and practiced, leads to hell, the animal realm, or the ghost realm. The minimum result it leads to for a human being is a short life span.
+1“bhikkhus, the killing of living creatures, when cultivated, developed, and practiced, leads to hell, the animal realm, or the ghost realm. The minimum result it leads to for a human being is a short life span.
 
 2Stealing, when cultivated, developed, and practiced, leads to hell, the animal realm, or the ghost realm. The minimum result it leads to for a human being is loss of wealth.
 

@@ -47,7 +47,7 @@ parallels_partilal: "[[PLI-TV-KD10]]"
 > Displeased by crowds, the Buddha and a bull elephant enjoy the happiness of solitude
 
 > [!info] Key Excerpts 
-> But now I live uncrowded by monks, nuns, laymen, and laywomen; by rulers and their ministers, and monastics of other religions and their disciples. Being uncrowded, I live in happiness and comfort
+> But now I live uncrowded by bhikkhus, nuns, laymen, and laywomen; by rulers and their ministers, and monastics of other religions and their disciples. Being uncrowded, I live in happiness and comfort
 > 
 > The giant elephant, 
 with tusks like chariot-poles, 

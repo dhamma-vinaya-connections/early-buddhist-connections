@@ -255,34 +255,34 @@ contribution:
 >  Saṅgha may forsake the simple life and indulge in luxuries.
 
 > [!example]- 🌐[[AN5.81]] - 📜[Available texts](obsidian://search?query=file:an5.81-) - Vītarāga – Greed Free 
->  Senior mendicants with strong defilements are disliked
+>  Senior bhikkhus with strong defilements are disliked
 
 > [!example]- 🌐[[AN5.82]] - 📜[Available texts](obsidian://search?query=file:an5.82-) - Vītarāga – Greed Free 
->  Senior mendicants with strong defilements are disliked
+>  Senior bhikkhus with strong defilements are disliked
 
 > [!example]- 🌐[[AN5.83]] - 📜[Available texts](obsidian://search?query=file:an5.83-) - Kuhaka – Deceiver 
->  Senior mendicants who are manipulative and opportunistic are disliked
+>  Senior bhikkhus who are manipulative and opportunistic are disliked
 
 > [!example]- 🌐[[AN5.84]] - 📜[Available texts](obsidian://search?query=file:an5.84-) - Kuhaka – Deceiver 
->  Senior mendicants who are manipulative and opportunistic are disliked
+>  Senior bhikkhus who are manipulative and opportunistic are disliked
 
 > [!example]- 🌐[[AN5.85]] - 📜[Available texts](obsidian://search?query=file:an5.85-) - Paṭisambhidāpatta – Attaining The Methods Of Textual Analysis 
->  A senior mendicant is liked if they can analyze and explain the dharma well, and if they are helpful in the monastery
+>  A senior bhikkhu is liked if they can analyze and explain the dharma well, and if they are helpful in the monastery
 
 > [!example]- 🌐[[AN5.86]] - 📜[Available texts](obsidian://search?query=file:an5.86-) - Paṭisambhidāpatta – Attaining The Methods Of Textual Analysis 
->  A senior mendicant is liked if they can analyze and explain the dharma well, and if they are helpful in the monastery
+>  A senior bhikkhu is liked if they can analyze and explain the dharma well, and if they are helpful in the monastery
 
 > [!example]- 🌐[[AN5.87]] - 📜[Available texts](obsidian://search?query=file:an5.87-) - Thera – Senior Bhikkhus 
->  Even if a senior mendicant has many good qualities, they can still lead people astray if they have wrong view
+>  Even if a senior bhikkhu has many good qualities, they can still lead people astray if they have wrong view
 
 > [!example]- 🌐[[AN5.88]] - 📜[Available texts](obsidian://search?query=file:an5.88-) - Thera – Senior Bhikkhus 
->  Even if a senior mendicant has many good qualities, they can still lead people astray if they have wrong view
+>  Even if a senior bhikkhu has many good qualities, they can still lead people astray if they have wrong view
 
 > [!example]- 🌐[[AN5.89]] - 📜[Available texts](obsidian://search?query=file:an5.89-) - Sekha – Trainee 
->  Even if a mendicant is a trainee, they won’t progress if they don’t focus on practice
+>  Even if a bhikkhu is a trainee, they won’t progress if they don’t focus on practice
 
 > [!example]- 🌐[[AN5.90]] - 📜[Available texts](obsidian://search?query=file:an5.90-) - Sekha – Trainee 
->  Even if a mendicant is a trainee, they won’t progress if they don’t focus on practice
+>  Even if a bhikkhu is a trainee, they won’t progress if they don’t focus on practice
 
 > [!example]- 🌐[[AN5.91]] - 📜[Available texts](obsidian://search?query=file:an5.91-) - Sampadā – Accomplishments 
 >  Lay and spiritual accomplishments,
@@ -321,10 +321,10 @@ contribution:
 >  A bhikkhu might be suspected and distrusted as a ‘bad monk’ for five reasons
 
 > [!example]- 🌐[[AN5.103]] - 📜[Available texts](obsidian://search?query=file:an5.103-) - Mahācora – Master Thief 
->  Bad mendicant has five factors, they keep themselves broken and damaged
+>  Bad bhikkhu has five factors, they keep themselves broken and damaged
 
 > [!example]- 🌐[[AN5.104]] - 📜[Available texts](obsidian://search?query=file:an5.104-) - Samaṇasukhumāla – Exquisite Ascetic 
->  Mendicant with five qualities is an exquisite ascetic of ascetics
+>  bhikkhu with five qualities is an exquisite ascetic of ascetics
 
 > [!example]- 🌐[[AN5.105]] - 📜[Available texts](obsidian://search?query=file:an5.105-) - Phāsuvihāra – Living Comfortably 
 >  Five ways of living comfortably in a community
@@ -333,10 +333,10 @@ contribution:
 >  Five ways of living comfortably in a community
 
 > [!example]- 🌐[[AN5.107]] - 📜[Available texts](obsidian://search?query=file:an5.107-) - Asekha – Adept 
->  Mendicant with five factors is worthy of offerings dedicated to the gods,
+>  bhikkhu with five factors is worthy of offerings dedicated to the gods,
 
 > [!example]- 🌐[[AN5.108]] - 📜[Available texts](obsidian://search?query=file:an5.108-) - Asekha – Adept 
->  Mendicant with five factors is worthy of offerings dedicated to the gods,
+>  bhikkhu with five factors is worthy of offerings dedicated to the gods,
 
 > [!example]- 🌐[[AN5.109]] - 📜[Available texts](obsidian://search?query=file:an5.109-) - Arañña – Wilderness 
 >  Five qualities they’re ready to frequent remote lodgings in the wilderness and the forest
@@ -345,10 +345,10 @@ contribution:
 >  Five qualities they’re ready to frequent remote lodgings in the wilderness and the forest
 
 > [!example]- 🌐[[AN5.111]] - 📜[Available texts](obsidian://search?query=file:an5.111-) - Kulūpaka – Visiting Families 
->  Mendicant with five qualities who visits families is unlikable and unlovable, not respected or admired and improper behavior of novices in alms round
+>  bhikkhu with five qualities who visits families is unlikable and unlovable, not respected or admired and improper behavior of novices in alms round
 
 > [!example]- 🌐[[AN5.112]] - 📜[Available texts](obsidian://search?query=file:an5.112-) - Kulūpaka – Visiting Families 
->  Mendicant with five qualities who visits families is unlikable and unlovable, not respected or admired and improper behavior of novices in alms round
+>  bhikkhu with five qualities who visits families is unlikable and unlovable, not respected or admired and improper behavior of novices in alms round
 
 > [!example]- 🌐[[AN5.113]] - 📜[Available texts](obsidian://search?query=file:an5.113-) - Andhakavinda – At Andhakavinda 
 >  Advices for new ordained bhikkhus
@@ -417,10 +417,10 @@ contribution:
 >   With five qualities lives with mind freed, no matter what region they live in
 
 > [!example]- 🌐[[AN5.135]] - 📜[Available texts](obsidian://search?query=file:an5.135-) - Patthanā – Aspiration 
->  Mendicant with five qualities aspires to end the defilements
+>  bhikkhu with five qualities aspires to end the defilements
 
 > [!example]- 🌐[[AN5.136]] - 📜[Available texts](obsidian://search?query=file:an5.136-) - Patthanā – Aspiration 
->  Mendicant with five qualities aspires to end the defilements
+>  bhikkhu with five qualities aspires to end the defilements
 
 > [!example]- 🌐[[AN5.137]] - 📜[Available texts](obsidian://search?query=file:an5.137-) - Appaṃsupati – Sleep Little 
 >  Five qualities one should develop to gain mastery of the senses and become a truly worthy person.
@@ -450,7 +450,7 @@ contribution:
 >  5 precepts
 
 > [!example]- 🌐[[AN5.146]] - 📜[Available texts](obsidian://search?query=file:an5.146-) - Mitta – Friend 
->  Associate with a mendicant friend who has five qualities
+>  Associate with a bhikkhu friend who has five qualities
 
 > [!example]- 🌐[[AN5.147]] - 📜[Available texts](obsidian://search?query=file:an5.147-) - Asappurisadāna – Gifts Of A Bad Person 
 >  Gifts from good and bad people
@@ -459,10 +459,10 @@ contribution:
 >  Gifts from good and bad people
 
 > [!example]- 🌐[[AN5.149]] - 📜[Available texts](obsidian://search?query=file:an5.149-) - Samayavimutta – Temporarily Free 
->  Things don’t lead to the decline of a mendicant who is temporarily free
+>  Things don’t lead to the decline of a bhikkhu who is temporarily free
 
 > [!example]- 🌐[[AN5.150]] - 📜[Available texts](obsidian://search?query=file:an5.150-) - Samayavimutta – Temporarily Free 
->  Things don’t lead to the decline of a mendicant who is temporarily free
+>  Things don’t lead to the decline of a bhikkhu who is temporarily free
 
 > [!example]- 🌐[[AN5.151]] - 📜[Available texts](obsidian://search?query=file:an5.151-) - Sammattaniyāma – Right Path Inevitability 
 >  Someone with five qualities is able to enter the sure path with regards to skillful qualities when listening to the true teaching
@@ -486,13 +486,13 @@ contribution:
 >  There are certain topics that are inappropriate to talk about, taking into consideration which specific one of five people you are talking to
 
 > [!example]- 🌐[[AN5.158]] - 📜[Available texts](obsidian://search?query=file:an5.158-) - Sārajja – Timidity 
->  A mendicant with five qualities is overcome by timidity and qualities hard to get rid of
+>  A bhikkhu with five qualities is overcome by timidity and qualities hard to get rid of
 
 > [!example]- 🌐[[AN5.159]] - 📜[Available texts](obsidian://search?query=file:an5.159-) - Udāyī – With Udāyī 
 >  The Buddha  explains to ven. Ananda the five prerequisites for teaching Dhamma to others.
 
 > [!example]- 🌐[[AN5.160]] - 📜[Available texts](obsidian://search?query=file:an5.160-) - Sārajja – Timidity 
->  A mendicant with five qualities is overcome by timidity and qualities hard to get rid of
+>  A bhikkhu with five qualities is overcome by timidity and qualities hard to get rid of
 
 > [!example]- 🌐[[AN5.161]] - 📜[Available texts](obsidian://search?query=file:an5.161-) - Āghātapaṭivinaya – Getting Rid Of Resentment 
 >  Five skillful ways of dealing with people who annoy you and remove feelings of hatred toward others.
@@ -501,25 +501,25 @@ contribution:
 >  Five skillful ways of dealing with people who annoy you and remove feelings of hatred toward others.
 
 > [!example]- 🌐[[AN5.163]] - 📜[Available texts](obsidian://search?query=file:an5.163-) - Sākaccha – Discussions 
->  Mendicant with five qualities is fit to hold a discussion with their spiritual companions
+>  bhikkhu with five qualities is fit to hold a discussion with their spiritual companions
 
 > [!example]- 🌐[[AN5.164]] - 📜[Available texts](obsidian://search?query=file:an5.164-) - Sākaccha – Discussions 
->  Mendicant with five qualities is fit to hold a discussion with their spiritual companions
+>  bhikkhu with five qualities is fit to hold a discussion with their spiritual companions
 
 > [!example]- 🌐[[AN5.165]] - 📜[Available texts](obsidian://search?query=file:an5.165-) - Pañhapucchā – Questions Motives 
 >  Five possible motives behind asking a question.
 
 > [!example]- 🌐[[AN5.166]] - 📜[Available texts](obsidian://search?query=file:an5.166-) - Nirodha – Cessation 
->  Qualities should a senior mendicant have to be dear and beloved to their spiritual companions
+>  Qualities should a senior bhikkhu have to be dear and beloved to their spiritual companions
 
 > [!example]- 🌐[[AN5.167]] - 📜[Available texts](obsidian://search?query=file:an5.167-) - Codanā – Accusation 
->  Mendicant who wants to accuse another should first establish five things in themselves.
+>  bhikkhu who wants to accuse another should first establish five things in themselves.
 
 > [!example]- 🌐[[AN5.168]] - 📜[Available texts](obsidian://search?query=file:an5.168-) - Sila – Ethics 
 >  Vital condition for knowledge and vision of freedom
 
 > [!example]- 🌐[[AN5.169]] - 📜[Available texts](obsidian://search?query=file:an5.169-) - Khippanisanti – Quick-Witted 
->  Mendicant who is quick-witted when it comes to skillful principles, who learns well
+>  bhikkhu who is quick-witted when it comes to skillful principles, who learns well
 
 > [!example]- 🌐[[AN5.170]] - 📜[Available texts](obsidian://search?query=file:an5.170-) - Bhaddaji – With Bhaddaji 
 >  What is the best sight, the best sound, the best happiness, the best perception, and the best state of existence?
@@ -597,7 +597,7 @@ contribution:
 >  The five rewards in listening to the dhamma.
 
 > [!example]- 🌐[[AN5.203]] - 📜[Available texts](obsidian://search?query=file:an5.203-) - Assājānīya – Thoroughbred 
->  Mendicant with five qualities is worthy of offerings
+>  bhikkhu with five qualities is worthy of offerings
 
 > [!example]- 🌐[[AN5.204]] - 📜[Available texts](obsidian://search?query=file:an5.204-) - Bala – Powers 
 >  There are these five powers
@@ -683,35 +683,35 @@ contribution:
 > [!example]- 🌐[[AN5.230]] - 📜[Available texts](obsidian://search?query=file:an5.230-) - Kaṇhasappa – Black Snakes 
 >  Drawbacks of a female
 
-> [!example]- 🌐[[AN5.231]] - 📜[Available texts](obsidian://search?query=file:an5.231-) - Āvāsika – Resident Mendicant 
->  Resident mendicant with these five qualities is admirable and beautifies the monastery
+> [!example]- 🌐[[AN5.231]] - 📜[Available texts](obsidian://search?query=file:an5.231-) - Āvāsika – Resident bhikkhu 
+>  Resident bhikkhu with these five qualities is admirable and beautifies the monastery
 
-> [!example]- 🌐[[AN5.232]] - 📜[Available texts](obsidian://search?query=file:an5.232-) - Āvāsika – Resident Mendicant 
->  Resident mendicant with these five qualities is admirable and beautifies the monastery
+> [!example]- 🌐[[AN5.232]] - 📜[Available texts](obsidian://search?query=file:an5.232-) - Āvāsika – Resident bhikkhu 
+>  Resident bhikkhu with these five qualities is admirable and beautifies the monastery
 
-> [!example]- 🌐[[AN5.233]] - 📜[Available texts](obsidian://search?query=file:an5.233-) - Āvāsika – Resident Mendicant 
->  Resident mendicant with these five qualities is admirable and beautifies the monastery
+> [!example]- 🌐[[AN5.233]] - 📜[Available texts](obsidian://search?query=file:an5.233-) - Āvāsika – Resident bhikkhu 
+>  Resident bhikkhu with these five qualities is admirable and beautifies the monastery
 
-> [!example]- 🌐[[AN5.234]] - 📜[Available texts](obsidian://search?query=file:an5.234-) - Āvāsika – Resident Mendicant 
->  Resident mendicant with these five qualities is admirable and beautifies the monastery
+> [!example]- 🌐[[AN5.234]] - 📜[Available texts](obsidian://search?query=file:an5.234-) - Āvāsika – Resident bhikkhu 
+>  Resident bhikkhu with these five qualities is admirable and beautifies the monastery
 
-> [!example]- 🌐[[AN5.235]] - 📜[Available texts](obsidian://search?query=file:an5.235-) - Anukampa – Compassionate Mendicant 
->  Mendicant with five qualities shows compassion to the lay people
+> [!example]- 🌐[[AN5.235]] - 📜[Available texts](obsidian://search?query=file:an5.235-) - Anukampa – Compassionate bhikkhu 
+>  bhikkhu with five qualities shows compassion to the lay people
 
-> [!example]- 🌐[[AN5.236]] - 📜[Available texts](obsidian://search?query=file:an5.236-) - Anukampa – Compassionate Mendicant 
->  Mendicant with five qualities shows compassion to the lay people
+> [!example]- 🌐[[AN5.236]] - 📜[Available texts](obsidian://search?query=file:an5.236-) - Anukampa – Compassionate bhikkhu 
+>  bhikkhu with five qualities shows compassion to the lay people
 
-> [!example]- 🌐[[AN5.237]] - 📜[Available texts](obsidian://search?query=file:an5.237-) - Anukampa – Compassionate Mendicant 
->  Mendicant with five qualities shows compassion to the lay people
+> [!example]- 🌐[[AN5.237]] - 📜[Available texts](obsidian://search?query=file:an5.237-) - Anukampa – Compassionate bhikkhu 
+>  bhikkhu with five qualities shows compassion to the lay people
 
-> [!example]- 🌐[[AN5.238]] - 📜[Available texts](obsidian://search?query=file:an5.238-) - Anukampa – Compassionate Mendicant 
->  Mendicant with five qualities shows compassion to the lay people
+> [!example]- 🌐[[AN5.238]] - 📜[Available texts](obsidian://search?query=file:an5.238-) - Anukampa – Compassionate bhikkhu 
+>  bhikkhu with five qualities shows compassion to the lay people
 
-> [!example]- 🌐[[AN5.239]] - 📜[Available texts](obsidian://search?query=file:an5.239-) - Anukampa – Compassionate Mendicant 
->  Mendicant with five qualities shows compassion to the lay people
+> [!example]- 🌐[[AN5.239]] - 📜[Available texts](obsidian://search?query=file:an5.239-) - Anukampa – Compassionate bhikkhu 
+>  bhikkhu with five qualities shows compassion to the lay people
 
-> [!example]- 🌐[[AN5.240]] - 📜[Available texts](obsidian://search?query=file:an5.240-) - Anukampa – Compassionate Mendicant 
->  Mendicant with five qualities shows compassion to the lay people
+> [!example]- 🌐[[AN5.240]] - 📜[Available texts](obsidian://search?query=file:an5.240-) - Anukampa – Compassionate bhikkhu 
+>  bhikkhu with five qualities shows compassion to the lay people
 
 > [!example]- 🌐[[AN5.241]] - 📜[Available texts](obsidian://search?query=file:an5.241-) - Duccarita – Bad Conduct 
 >  Drawbacks of bad conduct and benefits of good conduct

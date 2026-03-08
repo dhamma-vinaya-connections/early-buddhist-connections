@@ -44,10 +44,10 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> What a mendicant thinks about the food they’re offered
+> What a bhikkhu thinks about the food they’re offered
 
 > [!info] Key Excerpts 
-> They think about it with thoughts of renunciation, good will, or harmlessness. A gift to such a mendicant is very fruitful
+> They think about it with thoughts of renunciation, good will, or harmlessness. A gift to such a bhikkhu is very fruitful
 > 
 > They eat that alms-food untied, uninfatuated, unattached, seeing the drawback, and understanding the escape
 > 

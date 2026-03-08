@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three things. What three? Dissatisfaction, cruelty, and unprincipled conduct. These are the three things. To give up these three things you should develop three things. What three? You should develop rejoicing to give up negativity, harmlessness to give up cruelty, and principled conduct to give up unprincipled conduct. These are the three things you should develop to give up those three things.”
+1“bhikkhus, there are these three things. What three? Dissatisfaction, cruelty, and unprincipled conduct. These are the three things. To give up these three things you should develop three things. What three? You should develop rejoicing to give up negativity, harmlessness to give up cruelty, and principled conduct to give up unprincipled conduct. These are the three things you should develop to give up those three things.”
 
 1"Tayome, bhikkhave, dhammā. Katame tayo? Arati, vihiṁsā, adhammacariyā. Ime kho, bhikkhave, tayo dhammā. Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Aratiyā pahānāya muditā bhāvetabbā, vihiṁsāya pahānāya avihiṁsā bhāvetabbā, adhammacariyāya pahānāya dhammacariyā bhāvetabbā. Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya ime tayo dhammā bhāvetabbā"ti.
 

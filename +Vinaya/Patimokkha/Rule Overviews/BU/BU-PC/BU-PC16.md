@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC112"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC15]] 🌐 [[BU-PC17]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 2 Bhūtagāma-Vaggo - 2 Plants
 ## BU-PC16 - Anupakhajja - Encroaching
 
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-PC112"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC16 | [[BNI-PC112]] | Vin.3.1–3.40 |
 

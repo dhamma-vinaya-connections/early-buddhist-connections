@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these six things are unsurpassable. What six? The unsurpassable seeing, listening, acquisition, training, service, and recollection. These are the six unsurpassable things.”
+1“bhikkhus, these six things are unsurpassable. What six? The unsurpassable seeing, listening, acquisition, training, service, and recollection. These are the six unsurpassable things.”
 
 1"Chayimāni, bhikkhave, anuttariyāni. Katamāni cha? Dassanānuttariyaṁ, savanānuttariyaṁ, lābhānuttariyaṁ, sikkhānuttariyaṁ, pāricariyānuttariyaṁ, anussatānuttariyaṁ. Imāni kho, bhikkhave, cha anuttariyānī"ti.
 

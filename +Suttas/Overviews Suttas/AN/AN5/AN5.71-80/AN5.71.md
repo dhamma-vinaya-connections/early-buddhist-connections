@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Perceptions of ugliness, death, drawbacks, repulsiveness of food, and dissatisfaction with the world, impermanence, suffering in impermanence, not-self in suffering, giving up, and fading away
 > 
-> Mendicant has freedom of heart and freedom by wisdom, they’re called a mendicant who has lifted up the cross-bar, filled in the trench, and pulled up the pillar; they’re unbarred, a noble one with banner and burden put down, detached.
+> bhikkhu has freedom of heart and freedom by wisdom, they’re called a bhikkhu who has lifted up the cross-bar, filled in the trench, and pulled up the pillar; they’re unbarred, a noble one with banner and burden put down, detached.
 > 
 
 

@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.49.1.1* *BD.3.337* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six nuns learnt worldly knowledge.[^1] People … spread it about, saying: “How can these nuns learn worldly knowledge, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six nuns learn worldly knowledge?” …
 
-“Is it true, as is said, monks, that the group of six nuns learn worldly knowledge?”
+“Is it true, as is said, bhikkhus, that the group of six nuns learn worldly knowledge?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them saying:
 
-“How, monks, can this group of six nuns learn worldly knowledge? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can this group of six nuns learn worldly knowledge? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should learn worldly knowledge, there is an offence of expiation.”
 

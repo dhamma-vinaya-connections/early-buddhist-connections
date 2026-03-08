@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-333“Just as, mendicants, in India the delightful parks, woods, meadows, and lotus ponds are few, while the hilly terrain, inaccessible riverlands, stumps and thorns, and rugged mountains are many; so too the sentient beings born on land are few, while those born in water are many.
+333“Just as, bhikkhus, in India the delightful parks, woods, meadows, and lotus ponds are few, while the hilly terrain, inaccessible riverlands, stumps and thorns, and rugged mountains are many; so too the sentient beings born on land are few, while those born in water are many.
 
 334 … so too the sentient beings reborn as humans are few, while those not reborn as humans are many.
 

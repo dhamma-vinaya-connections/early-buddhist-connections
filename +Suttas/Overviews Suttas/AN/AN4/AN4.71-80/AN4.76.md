@@ -47,9 +47,9 @@ parallels_partilal: "[[DN16]]"
 > As he lay dying, the Buddha  encouraged his disciples to ask any last questions
 
 > [!info] Key Excerpts 
-> Aanyone who has doubt or uncertainty regarding the Buddha , the teaching, the saṅgha, the path, or the practice. So ask, mendicants! Don’t regret it later,
+> Aanyone who has doubt or uncertainty regarding the Buddha , the teaching, the saṅgha, the path, or the practice. So ask, bhikkhus! Don’t regret it later,
 > 
-> There’s not even a single mendicant in this saṅgha who has doubt or uncertainty regarding the Buddha , the teaching, the saṅgha, the path, or the practice
+> There’s not even a single bhikkhu in this saṅgha who has doubt or uncertainty regarding the Buddha , the teaching, the saṅgha, the path, or the practice
 > 
 
 

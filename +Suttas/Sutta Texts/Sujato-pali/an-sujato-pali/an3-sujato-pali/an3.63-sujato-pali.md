@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants when he arrived at a village of the Kosalan brahmins named Venāgapura. The brahmins and householders of Venāgapura heard:
+1At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of bhikkhus when he arrived at a village of the Kosalan brahmins named Venāgapura. The brahmins and householders of Venāgapura heard:
 
 “It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — has arrived at Venāgapura. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.”
 
@@ -40,7 +40,7 @@ language: "English - Pali"
 
 6“But what, Master Gotama, is the high and luxurious bed of the gods?”
 
-“Brahmin, when I am living supported by a village or town, I robe up in the morning and, taking my bowl and robe, enter the town or village for alms. After the meal, on my return from alms-round, I enter a wood. I gather up some grass or leaves into a pile, and sit down cross-legged, with my body straight, and establish mindfulness right there. Quite secluded from sensual pleasures, secluded from unskillful qualities, I enter and remain in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. As the placing of the mind and keeping it connected are stilled, I enter and remain in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. And with the fading away of rapture, I enter and remain in the third jhāna, where I meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ With the giving up of pleasure and pain, and the ending of former happiness and sadness, I enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness.
+“Brahmin, when I am living supported by a village or town, I robe up in the morning and, taking my bowl and robe, enter the town or village for alms. After the meal, on my return from alms-round, I enter a wood. I gather up some grass or leaves into a pile, and sit down cross-legged, with my body straight, and establish mindfulness right there. ![[Jhanas]], mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ With the giving up of pleasure and pain, and the ending of former happiness and sadness, I enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness.
 
 When I’m practicing like this, if I walk meditation, at that time I walk like the gods. When I’m practicing like this, if I stand, at that time I stand like the gods. When I’m practicing like this, if I sit, at that time I sit like the gods. When I’m practicing like this, if I lie down, at that time I lie down like the gods. This is the high and luxurious bed of the gods that I get these days when I want, without trouble or difficulty.”
 
@@ -66,7 +66,7 @@ When I’m practicing like this, if I walk meditation, at that time I walk like 
 
 11“It’s incredible, Master Gotama, it’s amazing! Who but Master Gotama could get such a high and luxurious bed of the noble ones when he wants, without trouble or difficulty?
 
-12Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. We go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember us as lay followers who have gone for refuge for life.”
+12Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. We go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember us as lay followers who have gone for refuge for life.”
 
 #### Pali
 

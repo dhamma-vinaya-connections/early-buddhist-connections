@@ -7,23 +7,23 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
 > ◄  [[bu-pc41-horner]] 📜  [[bu-pc43-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 42
+# bhikkhus’ Expiation (_Pācittiya_) 42
 
-*Bu-Pc.42.1.1* *BD.2.351* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, spoke thus to a monk, who shared (his) brother’s cell:
+*Bu-Pc.42.1.1* *BD.2.351* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, spoke thus to a bhikkhu, who shared (his) brother’s cell:
 
 “Come, your reverence, we will enter the village for alms-food.” Without having had (alms-food) given to him, he dismissed him, saying: “Go away, your reverence. Neither talking nor sitting down with you comes to be a comfort for me; *Vin.4.93* either talking or sitting down alone comes to be a comfort for me.”
 
-Then that monk, when the meal-time was near, was not able to walk for alms, and returning he did not achieve participation in the meal; he became famished.[^1] Then that monk, having gone to the monastery, told this matter to the monks. Those who were modest monks … spread it about, saying: “How can the venerable Upananda, the son of the Sakyans, saying to a monk, ‘Come, your reverence, we will go into the village for alms-food,’ without having had (alms-food) given to him, dismiss him …?” …
+Then that bhikkhu, when the meal-time was near, was not able to walk for alms, and returning he did not achieve participation in the meal; he became famished.[^1] Then that bhikkhu, having gone to the monastery, told this matter to the bhikkhus. Those who were modest bhikkhus … spread it about, saying: “How can the venerable Upananda, the son of the Sakyans, saying to a bhikkhu, ‘Come, your reverence, we will go into the village for alms-food,’ without having had (alms-food) given to him, dismiss him …?” …
 
-“Is it true, as is said, that you, Upananda, saying to a monk, ‘Come …’ dismiss him? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“Is it true, as is said, that you, Upananda, saying to a bhikkhu, ‘Come …’ dismiss him? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, saying to a monk, ‘Come, your reverence, we will go into a village or little town[^2] for alms-food,’ either causing to be given or not causing to be given (alms-food) to him, should dismiss him, saying, ‘Go away, your reverence, neither talking nor sitting down with you comes to be a comfort for me; either *BD.2.352* talking or sitting down alone comes to be a comfort for me’—if doing it for just this object, not for another,[^3] there is an offence of expiation.”
+“Whatever bhikkhu, saying to a bhikkhu, ‘Come, your reverence, we will go into a village or little town[^2] for alms-food,’ either causing to be given or not causing to be given (alms-food) to him, should dismiss him, saying, ‘Go away, your reverence, neither talking nor sitting down with you comes to be a comfort for me; either *BD.2.352* talking or sitting down alone comes to be a comfort for me’—if doing it for just this object, not for another,[^3] there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.42.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.42.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
-Monk means: another monk.
+bhikkhu means: another bhikkhu.
 
 Come, your reverence, to a village or little town means: a village and a little town and a town, a village as well as little town.
 
@@ -49,7 +49,7 @@ The Second
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

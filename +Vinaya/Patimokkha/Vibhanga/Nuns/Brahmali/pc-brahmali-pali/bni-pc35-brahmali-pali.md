@@ -24,12 +24,12 @@ Bhaddā Kāpilānī then traveled from Sāketa to Sāvatthī, and Thullanandā g
 
 2The nuns of few desires complained and criticized her, “How could Venerable Thullanandā give a dwelling place to Venerable Bhaddā Kāpilānī and then throw her out in anger?” …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

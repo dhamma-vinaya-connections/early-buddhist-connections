@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. Then in the late afternoon, the Buddha came out of retreat and went to the infirmary, where he saw a certain mendicant who was weak and sick. He sat down on the seat spread out, and addressed the mendicants:
+1At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. Then in the late afternoon, the Buddha came out of retreat and went to the infirmary, where he saw a certain bhikkhu who was weak and sick. He sat down on the seat spread out, and addressed the bhikkhus:
 
-2“Mendicants, if a weak and sick mendicant does not neglect five things, it can be expected that they will soon realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements.
+2“bhikkhus, if a weak and sick bhikkhu does not neglect five things, it can be expected that they will soon realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements.
 
-3What five? It’s when a mendicant meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, observes the impermanence of all conditions, and has well established the perception of their own death. If a weak and sick mendicant does not neglect these five things, it can be expected that they will soon realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements.”
+3What five? It’s when a bhikkhu meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, observes the impermanence of all conditions, and has well established the perception of their own death. If a weak and sick bhikkhu does not neglect these five things, it can be expected that they will soon realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements.”
 
 #### Pali
 

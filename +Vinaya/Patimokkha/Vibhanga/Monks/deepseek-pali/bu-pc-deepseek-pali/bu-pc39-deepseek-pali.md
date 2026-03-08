@@ -15,23 +15,23 @@ language: "Pali - English"
 
 257. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū paṇītabhojanāni attano atthāya viññāpetvā bhuñjanti. Manussā ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma samaṇā sakyaputtiyā paṇītabhojanāni attano atthāya viññāpetvā bhuñjissanti! Kassa sampannaṃ na manāpaṃ, kassa sāduṃ na ruccatī’’ti!! Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma chabbaggiyā bhikkhū paṇītabhojanāni attano atthāya viññāpetvā bhuñjissantī’’ti …pe… saccaṃ kira tumhe, bhikkhave, paṇītabhojanāni attano atthāya viññāpetvā bhuñjathāti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, paṇītabhojanāni attano atthāya viññāpetvā bhuñjissatha! Netaṃ, moghapurisā, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-257.At that time the Blessed One was staying at Savatthi in Jeta Grove, Anathapindika's Monastery. Now at that time the group-of-six monks, having requested choice foods for their own sake, ate them. People complained, criticized, and spread it about, saying, “How can these Sakyan ascetics request choice foods for their own sake and eat them! Who doesn't like what is well-prepared? Who doesn't enjoy what is tasty?” The monks heard these people complaining, criticizing, and spreading it about. Those monks who were modest … complained, criticized, and spread it about, saying, “How can the group-of-six monks request choice foods for their own sake and eat them?” … “Is it true, monks, that you request choice foods for your own sake and eat them?” “It’s true, Blessed One.” The Blessed One rebuked them … “How can you foolish men request choice foods for your own sake and eat them? This will not inspire confidence in the uninspired … And, monks, this training rule should be recited thus:
+257.At that time the Blessed One was staying at Savatthi in Jeta Grove, Anathapindika's Monastery. Now at that time the group-of-six bhikkhus, having requested choice foods for their own sake, ate them. People complained, criticized, and spread it about, saying, “How can these Sakyan ascetics request choice foods for their own sake and eat them! Who doesn't like what is well-prepared? Who doesn't enjoy what is tasty?” The bhikkhus heard these people complaining, criticizing, and spreading it about. Those bhikkhus who were modest … complained, criticized, and spread it about, saying, “How can the group-of-six bhikkhus request choice foods for their own sake and eat them?” … “Is it true, bhikkhus, that you request choice foods for your own sake and eat them?” “It’s true, Blessed One.” The Blessed One rebuked them … “How can you foolish men request choice foods for your own sake and eat them? This will not inspire confidence in the uninspired … And, bhikkhus, this training rule should be recited thus:
 
 ‘‘Yāni kho pana tāni paṇītabhojanāni, seyyathidaṃ – sappi navanītaṃ telaṃ madhu phāṇitaṃ maccho maṃsaṃ khīraṃ dadhi. Yo pana bhikkhu evarūpāni paṇītabhojanāni attano atthāya viññāpetvā bhuñjeyya, pācittiya’’nti.
 
-“Now, those choice foods are, namely: ghee, fresh butter, oil, honey, molasses, fish, meat, milk, and curd. Should any monk request and consume such choice foods for his own sake, it is an offense entailing confession.”
+“Now, those choice foods are, namely: ghee, fresh butter, oil, honey, molasses, fish, meat, milk, and curd. Should any bhikkhu request and consume such choice foods for his own sake, it is an offense entailing confession.”
 
 Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti.
 
-Thus was this training rule laid down for the monks by the Blessed One.
+Thus was this training rule laid down for the bhikkhus by the Blessed One.
 
 258. Tena kho pana samayena bhikkhū gilānā honti. Gilānapucchakā bhikkhū gilāne bhikkhū etadavocuṃ – ‘‘kaccāvuso khamanīyaṃ, kacci yāpanīya’’nti? ‘‘Pubbe mayaṃ, āvuso, paṇītabhojanāni attano atthāya viññāpetvā bhuñjāma, tena no phāsu hoti; idāni pana ‘‘bhagavatā paṭikkhitta’’nti kukkuccāyantā na viññāpema, tena no na phāsu hotī’’ti. Bhagavato etamatthaṃ ārocesuṃ. Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi – ‘‘anujānāmi, bhikkhave, gilānena bhikkhunā paṇītabhojanāni attano atthāya viññāpetvā bhuñjituṃ. Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-258.At that time, monks were sick. The monks who inquired after the sick asked the sick monks: “Friends, are you bearing up? Are you getting by?” “Previously, friends, we used to request choice foods for our own sake and eat them, and that made us comfortable. But now, thinking, ‘The Blessed One has forbidden it,’ we refrain out of scruples, and so we are not comfortable,” they replied. They reported this matter to the Blessed One. Then, on this occasion, in connection with this incident, the Blessed One gave a Dhamma talk and addressed the monks: “I allow, monks, a sick monk to request choice foods for his own sake and eat them. And, monks, this training rule should be recited thus:
+258.At that time, bhikkhus were sick. The bhikkhus who inquired after the sick asked the sick bhikkhus: “Friends, are you bearing up? Are you getting by?” “Previously, friends, we used to request choice foods for our own sake and eat them, and that made us comfortable. But now, thinking, ‘The Blessed One has forbidden it,’ we refrain out of scruples, and so we are not comfortable,” they replied. They reported this matter to the Blessed One. Then, on this occasion, in connection with this incident, the Blessed One gave a Dhamma talk and addressed the bhikkhus: “I allow, bhikkhus, a sick bhikkhu to request choice foods for his own sake and eat them. And, bhikkhus, this training rule should be recited thus:
 
 259. ‘‘Yāni kho pana tāni paṇītabhojanāni, seyyathidaṃ – sappi navanītaṃ telaṃ madhu phāṇitaṃ maccho maṃsaṃ khīraṃ dadhi. Yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiya’’nti.
 
-259.“Now, those choice foods are, namely: ghee, fresh butter, oil, honey, molasses, fish, meat, milk, and curds. Should any monk, not being ill, request and consume such choice foods for his own sake, it is an offense entailing confession.”
+259.“Now, those choice foods are, namely: ghee, fresh butter, oil, honey, molasses, fish, meat, milk, and curds. Should any bhikkhu, not being ill, request and consume such choice foods for his own sake, it is an offense entailing confession.”
 
 260. Yāni kho pana tāni paṇītabhojanānīti sappi nāma gosappi vā ajikāsappi vā mahiṃsasappi vā, yesaṃ maṃsaṃ kappati tesaṃ sappi.
 
@@ -71,7 +71,7 @@ Curd means curd from those same animals.
 
 Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-“Whoever” means whoever, of whatever sort… “Monk” means… this monk is intended in this connection.
+“Whoever” means whoever, of whatever sort… “bhikkhu” means… this bhikkhu is intended in this connection.
 
 Evarūpāni paṇītabhojanānīti tathārūpāni paṇītabhojanāni.
 

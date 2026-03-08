@@ -29,7 +29,7 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized her, “How could a nun say, ‘What can this man do to you, whether he has lust or not, when you’re without it? Go on, Venerable, receive it with your own hands, and eat whatever fresh or cooked food he gives you’?” …
 
-“Is it true, monks, that a nun said this?”
+“Is it true, bhikkhus, that a nun said this?”
 
 
 “It’s true, Sir.”
@@ -37,7 +37,7 @@ language: "Pali - English"
 The Buddha rebuked her …
 
 
-“How could a nun say this?” This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How could a nun say this?” This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

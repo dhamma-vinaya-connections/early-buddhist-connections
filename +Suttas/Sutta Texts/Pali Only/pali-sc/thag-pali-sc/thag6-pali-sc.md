@@ -11,7 +11,7 @@ language: "Pali"
 > ◄  [[thag5-pali-sc]] 📜  [[thag7-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 ### Chapter 6: Groups of Six Verses
 
 ##### 6.1 Uruveḷakassapatheragāthā

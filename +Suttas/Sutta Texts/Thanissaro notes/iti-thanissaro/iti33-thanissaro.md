@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 33
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Endowed with two things, monks, a person–as if carried off–is thus placed in heaven. Which two? Auspicious habits & auspicious views. Endowed with these two things, a person–as if carried off–is thus placed in heaven.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Endowed with two things, bhikkhus, a person–as if carried off–is thus placed in heaven. Which two? Auspicious habits & auspicious views. Endowed with these two things, a person–as if carried off–is thus placed in heaven.”
 
 Auspicious habits &
 

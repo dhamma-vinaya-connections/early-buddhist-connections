@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four things lead to the growth of wisdom. What four?
+1“bhikkhus, these four things lead to the growth of wisdom. What four?
 
 Associating with good people, listening to the true teaching, proper attention, and practicing in line with the teaching. These four things lead to the growth of wisdom.”
 

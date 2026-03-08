@@ -96,7 +96,7 @@ What do you think, Sunakkhatta? Whether or not the origin of the world is descri
 
 #### 2. On Korakkhattiya
 
-13Bhaggava, this one time I was staying in the land of the Thūlus where they have a town named Uttarakā. Then I put on his outer robe in the morning and, taking my bowl and robe, entered Uttarakā for alms with Sunakkhatta the Licchavi as my second monk. Now at that time the naked ascetic Korakkhattiya had taken a vow to behave like a dog. When food is tossed on the ground, he gets down on all fours, eating and devouring it just with his mouth.
+13Bhaggava, this one time I was staying in the land of the Thūlus where they have a town named Uttarakā. Then I put on his outer robe in the morning and, taking my bowl and robe, entered Uttarakā for alms with Sunakkhatta the Licchavi as my second bhikkhu. Now at that time the naked ascetic Korakkhattiya had taken a vow to behave like a dog. When food is tossed on the ground, he gets down on all fours, eating and devouring it just with his mouth.
 
 Sunakkhatta saw him doing this and thought, ‘That ascetic is a true holy man!’
 
@@ -392,14 +392,14 @@ They say, ‘That is what we have heard, Reverend Gotama, just as you say.’
 101I understand this, and what goes beyond it. Yet since I do not misapprehend that understanding, I have realized extinguishment within myself. Directly knowing this, the Realized One does not come to ruin.
 
 
-102Though I speak and explain like this, certain ascetics and brahmins misrepresent me with the false, hollow, lying, untruthful claim: ‘The ascetic Gotama has a distorted perspective, and so have his monks.
+102Though I speak and explain like this, certain ascetics and brahmins misrepresent me with the false, hollow, lying, untruthful claim: ‘The ascetic Gotama has a distorted perspective, and so have his bhikkhus.
 
 He says: “When one enters and remains in the liberation of the beautiful, at that time one only perceives what is ugly.”
 
 But I don’t say that. I say this: “When one enters and remains in the liberation of the beautiful, at that time one only perceives what is beautiful.”’”
 
 
-103“They are the ones with a distorted perspective, sir, who regard the Buddha and the mendicants in this way. Sir, I am quite confident that the Buddha is capable of teaching me so that I can enter and remain in the liberation on the beautiful.”
+103“They are the ones with a distorted perspective, sir, who regard the Buddha and the bhikkhus in this way. Sir, I am quite confident that the Buddha is capable of teaching me so that I can enter and remain in the liberation on the beautiful.”
 
 104“It’s hard for you to enter and remain in the liberation on the beautiful, since you have a different view, creed, preference, practice, and tradition. Come now, Bhaggava, carefully preserve the confidence that you have in me.”
 

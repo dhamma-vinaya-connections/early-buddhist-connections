@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Possessing six qualities a mendicant attains to coolness
+> Possessing six qualities a bhikkhu attains to coolness
 
 > [!info] Key Excerpts 
 > Keeps their mind in check, exert, gladden and watch over the mind when they should, intent on what is exquisite. And he delights in unbinding

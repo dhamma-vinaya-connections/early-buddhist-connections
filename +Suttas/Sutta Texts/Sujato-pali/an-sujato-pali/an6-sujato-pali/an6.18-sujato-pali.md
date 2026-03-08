@@ -20,34 +20,34 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants.
+1At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of bhikkhus.
 
-While walking along the road he saw a fish dealer in a certain spot selling fish that he had killed himself. Seeing this he left the road, sat at the root of a tree on the seat spread out, and addressed the mendicants: “Mendicants, do you see that fish dealer selling fish that he killed himself?”
+While walking along the road he saw a fish dealer in a certain spot selling fish that he had killed himself. Seeing this he left the road, sat at the root of a tree on the seat spread out, and addressed the bhikkhus: “bhikkhus, do you see that fish dealer selling fish that he killed himself?”
 
 “Yes, sir.”
 
-2“What do you think, mendicants? Have you ever seen or heard of a fish dealer selling fish that he killed himself who, by means of that work and livelihood, got to travel by elephant, horse, chariot, or vehicle, or to enjoy wealth, or to live off a large fortune?”
+2“What do you think, bhikkhus? Have you ever seen or heard of a fish dealer selling fish that he killed himself who, by means of that work and livelihood, got to travel by elephant, horse, chariot, or vehicle, or to enjoy wealth, or to live off a large fortune?”
 
 “No, sir.”
 
 
-“Good, mendicants! I too have never seen or heard of such a thing. Why is that? Because when the fish are brought for the slaughter he regards them with bad intentions.
+“Good, bhikkhus! I too have never seen or heard of such a thing. Why is that? Because when the fish are brought for the slaughter he regards them with bad intentions.
 
 
-3What do you think, mendicants? Have you ever seen or heard of a butcher of cattle selling cattle that he killed himself who, by means of that work and livelihood, got to travel by elephant, horse, chariot, or vehicle, or to enjoy wealth, or to live off a large fortune?”
-
-“No, sir.”
-
-
-“Good, mendicants! I too have never seen or heard of such a thing. Why is that? Because when the cattle are brought for the slaughter he regards them with bad intentions.
-
-
-4What do you think, mendicants? Have you ever seen or heard of a butcher of sheep … a butcher of pigs … a butcher of poultry … or a deer-hunter selling deer which he killed himself who, by means of that work and livelihood, got to travel by elephant, horse, chariot, or vehicle, or to enjoy wealth, or to live off a large fortune?”
+3What do you think, bhikkhus? Have you ever seen or heard of a butcher of cattle selling cattle that he killed himself who, by means of that work and livelihood, got to travel by elephant, horse, chariot, or vehicle, or to enjoy wealth, or to live off a large fortune?”
 
 “No, sir.”
 
 
-“Good, mendicants! I too have never seen or heard of such a thing. Why is that? Because when the deer are brought for the slaughter he regards them with bad intentions.
+“Good, bhikkhus! I too have never seen or heard of such a thing. Why is that? Because when the cattle are brought for the slaughter he regards them with bad intentions.
+
+
+4What do you think, bhikkhus? Have you ever seen or heard of a butcher of sheep … a butcher of pigs … a butcher of poultry … or a deer-hunter selling deer which he killed himself who, by means of that work and livelihood, got to travel by elephant, horse, chariot, or vehicle, or to enjoy wealth, or to live off a large fortune?”
+
+“No, sir.”
+
+
+“Good, bhikkhus! I too have never seen or heard of such a thing. Why is that? Because when the deer are brought for the slaughter he regards them with bad intentions.
 
 By regarding even animals brought for the slaughter with bad intentions you don’t get to travel by elephant, horse, chariot, or vehicle, or to enjoy wealth, or to live off a large fortune. How much worse is someone who regards human beings brought to the slaughter with bad intentions! This will be for their lasting harm and suffering. When their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell.”
 

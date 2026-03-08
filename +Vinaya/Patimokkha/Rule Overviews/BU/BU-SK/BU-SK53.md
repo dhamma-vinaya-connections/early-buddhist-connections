@@ -22,12 +22,12 @@ vin_severity:
   - "Wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-SK53"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BNI-SK53]] 🌐 [[BNI-SK54]] ►
 
-# Monks - Sekhiya - Training
+# bhikkhus - Sekhiya - Training
 ## Surusuruvaggo - Slurping sound
 ## BU-SK53 - Pattanillehaka - Licking Bowl
 
@@ -52,7 +52,7 @@ vin_gender-corr: "BNI-SK53"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-SK53 | [[BNI-SK53]] | Vin.3.1–3.40 |
 

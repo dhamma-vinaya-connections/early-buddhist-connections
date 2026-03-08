@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Ṛṣipatana in the Deer Preserve of Bārāṇasī.
 
-2. It was then that the Bhagavān addressed five monks, “This is the noble truth of suffering. It’s a teaching never heard before that should be correctly considered. It then gives rise to vision, knowledge, insight, and awakening. This is the noble truth of suffering’s formation … suffering’s cessation … the path to suffering’s cessation. It’s a teaching never heard before that should be correctly considered. It then gives rise to vision, knowledge, insight, and awakening.
+2. It was then that the Bhagavān addressed five bhikkhus, “This is the noble truth of suffering. It’s a teaching never heard before that should be correctly considered. It then gives rise to vision, knowledge, insight, and awakening. This is the noble truth of suffering’s formation … suffering’s cessation … the path to suffering’s cessation. It’s a teaching never heard before that should be correctly considered. It then gives rise to vision, knowledge, insight, and awakening.
 
 3. “Furthermore, knowledge of this noble truth of suffering should again be known. This is a teaching never heard before that should be correctly considered. It then gives rise to vision, knowledge, insight, and awakening.
 
@@ -29,7 +29,7 @@ language: "English"
 
 6. “Furthermore, after knowing this noble truth of the path to suffering’s cessation, [that path] should be cultivated. This is a teaching never heard before that should be correctly considered. It then gives rise to vision, knowledge, insight, and awakening.
 
-7. “Furthermore, monks, after knowing this noble truth of suffering, knowledge [of that suffering] is produced. This is a teaching never heard before that should be correctly considered. It then gives rise to vision, knowledge, insight, and awakening.
+7. “Furthermore, bhikkhus, after knowing this noble truth of suffering, knowledge [of that suffering] is produced. This is a teaching never heard before that should be correctly considered. It then gives rise to vision, knowledge, insight, and awakening.
 
 8. “Furthermore, after knowing this noble truth of suffering’s formation, termination [of that formation] is produced. This is a teaching never heard before that should be correctly considered. It then gives rise to vision, knowledge, insight, and awakening.
 
@@ -37,7 +37,7 @@ language: "English"
 
 10. “Furthermore, after knowing this noble truth of the path to suffering’s cessation, cultivation [of that path] is produced. This is a teaching not heard before that should be correctly considered. It then gives rise to vision, knowledge, insight, and awakening.
 
-11. “Monks, when vision, knowledge, insight, and awakening hadn’t arisen from the three turnings in twelve steps of these four noble truths, I couldn’t have ever attained liberation, escape, and separation [from suffering] while among the teachings heard from gods, Māra, Brahmā, ascetics, or priests. Nor would I have realized for myself the unsurpassed, correct, and complete awakening. Once vision, knowledge, insight, and awakening had arisen from the three turnings in twelve steps of these four noble truths, then I attained escape and liberation [from suffering] while among the teachings heard from gods, Māra, Brahmā, ascetics, and priests. I realized for myself the unsurpassed, correct, and complete awakening.”
+11. “bhikkhus, when vision, knowledge, insight, and awakening hadn’t arisen from the three turnings in twelve steps of these four noble truths, I couldn’t have ever attained liberation, escape, and separation [from suffering] while among the teachings heard from gods, Māra, Brahmā, ascetics, or priests. Nor would I have realized for myself the unsurpassed, correct, and complete awakening. Once vision, knowledge, insight, and awakening had arisen from the three turnings in twelve steps of these four noble truths, then I attained escape and liberation [from suffering] while among the teachings heard from gods, Māra, Brahmā, ascetics, and priests. I realized for myself the unsurpassed, correct, and complete awakening.”
 
 12. When the Bhagavān explained this teaching, Venerable Kauṇḍinya and 80,000 gods became dustless and spotless and attained purification of the Dharma eye.
 
@@ -57,7 +57,7 @@ Kauṇḍinya said to the Buddha, “I’ve known it, Sugata!”
 
 18. At Ṛṣipatana in the Deer Preserve of Bārāṇasī, the Bhagavān turned the Dharma wheel; therefore, this sūtra is called “Turning the Dharma Wheel.”
 
-19. After the Buddha spoke this sūtra, the monks who heard what he taught rejoiced and approved.
+19. After the Buddha spoke this sūtra, the bhikkhus who heard what he taught rejoiced and approved.
 
 ---
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these eight kinds of overflowing merit, overflowing goodness. They nurture happiness and are conducive to heaven, ripening in happiness and leading to heaven. They lead to what is likable, desirable, agreeable, to welfare and happiness. What eight?
+1“bhikkhus, there are these eight kinds of overflowing merit, overflowing goodness. They nurture happiness and are conducive to heaven, ripening in happiness and leading to heaven. They lead to what is likable, desirable, agreeable, to welfare and happiness. What eight?
 
 Firstly, a noble disciple has gone for refuge to the Buddha. This is the first kind of overflowing merit …
 
@@ -30,7 +30,7 @@ Firstly, a noble disciple has gone for refuge to the Buddha. This is the first k
 3Furthermore, a noble disciple has gone for refuge to the Saṅgha. This is the third kind of overflowing merit …
 
 
-4Mendicants, these five gifts are great, original, long-standing, traditional, and ancient. They are uncorrupted, as they have been since the beginning. They’re not being corrupted now nor will they be. Sensible ascetics and brahmins don’t look down on them. What five?
+4bhikkhus, these five gifts are great, original, long-standing, traditional, and ancient. They are uncorrupted, as they have been since the beginning. They’re not being corrupted now nor will they be. Sensible ascetics and brahmins don’t look down on them. What five?
 
 Firstly, a noble disciple gives up killing living creatures. By so doing they give to countless sentient beings the gift of freedom from fear, enmity, and ill will. And they themselves also enjoy unlimited freedom from fear, enmity, and ill will. This is the first gift that is a great offering, original, long-standing, traditional, and ancient. It is uncorrupted, as it has been since the beginning. It’s not being corrupted now nor will it be. Sensible ascetics and brahmins don’t look down on it. This is the fourth kind of overflowing merit …
 

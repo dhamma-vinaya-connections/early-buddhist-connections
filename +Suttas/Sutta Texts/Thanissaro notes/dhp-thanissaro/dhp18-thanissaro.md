@@ -137,7 +137,7 @@ ignorance.
 
 Having abandoned this impurity,
 
-monks, you’re impurity-free.
+bhikkhus, you’re impurity-free.
 
 ### Verse 241-243
 

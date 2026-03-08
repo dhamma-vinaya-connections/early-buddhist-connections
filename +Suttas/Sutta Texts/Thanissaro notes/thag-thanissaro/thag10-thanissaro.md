@@ -130,7 +130,7 @@ you are my grandfather.
 
 ## Thag10.2  Ekavihāriya—“Dwelling Alone”
 
-_This poem, which is attributed to King Asoka’s younger brother, falls into three parts: The first expresses his initial desire to leave the life of the palace and go into the forest; the second depicts his going forth; and the third announces his awakening. Some scholars have suggested that many of the poems dealing with events in the lives of the early Buddhist monks and nuns may have originally been intended for dramatic performance, and this poem could easily have been written with that intent. The language of the original, with its heavy use of poetic terms, certainly indicates that the author had a literary background and was writing for a sophisticated audience._
+_This poem, which is attributed to King Asoka’s younger brother, falls into three parts: The first expresses his initial desire to leave the life of the palace and go into the forest; the second depicts his going forth; and the third announces his awakening. Some scholars have suggested that many of the poems dealing with events in the lives of the early Buddhist bhikkhus and nuns may have originally been intended for dramatic performance, and this poem could easily have been written with that intent. The language of the original, with its heavy use of poetic terms, certainly indicates that the author had a literary background and was writing for a sophisticated audience._
 
 If, in front or behind,
 
@@ -148,7 +148,7 @@ I will go to the wilderness
 
 praised     by the Awakened One
 
-pleasant     for a resolute monk
+pleasant     for a resolute bhikkhu
 
 dwelling alone.
 

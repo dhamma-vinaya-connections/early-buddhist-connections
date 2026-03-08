@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Venerable Sāriputta addressed the mendicants:
+1There Venerable Sāriputta addressed the bhikkhus:
 
 “Reverends, an unethical person, who lacks ethics, has destroyed a vital condition for right immersion. When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision. When there is no true knowledge and vision, one who lacks true knowledge and vision has destroyed a vital condition for disillusionment and dispassion. When there is no disillusionment and dispassion, one who lacks disillusionment and dispassion has destroyed a vital condition for knowledge and vision of freedom.
 

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 72
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three properties for escape. Which three? This is the escape from sensuality: renunciation.[1](#^iti72note01) This is the escape from form: formlessness. And as for whatever has come into being, is fabricated & dependently co-arisen, the escape from that is cessation. These are the three properties for escape.” ^iti72note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three properties for escape. Which three? This is the escape from sensuality: renunciation.[1](#^iti72note01) This is the escape from form: formlessness. And as for whatever has come into being, is fabricated & dependently co-arisen, the escape from that is cessation. These are the three properties for escape.” ^iti72note01-ref
 
 Knowing the escape from sensuality,
 
@@ -26,7 +26,7 @@ touching the stilling
 
 of all fabrications:
 
-he is a monk
+he is a bhikkhu
 
 who’s seen rightly.
 

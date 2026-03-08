@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a royal bull elephant with five factors eats food, takes up space, drops dung, and takes a ticket, yet is still considered to be a royal bull elephant. What five? It’s when a royal bull elephant can’t endure sights, sounds, smells, tastes, and touches. A royal bull elephant with these five factors eats food, takes up space, drops dung, and takes a ticket, yet is still considered to be a royal bull elephant.
+1“bhikkhus, a royal bull elephant with five factors eats food, takes up space, drops dung, and takes a ticket, yet is still considered to be a royal bull elephant. What five? It’s when a royal bull elephant can’t endure sights, sounds, smells, tastes, and touches. A royal bull elephant with these five factors eats food, takes up space, drops dung, and takes a ticket, yet is still considered to be a royal bull elephant.
 
-2In the same way, a mendicant with five qualities eats food, takes up space, tramples beds and chairs, and takes a ticket, yet is still considered to be a mendicant. What five? It’s when a mendicant can’t endure sights, sounds, smells, tastes, and touches. A mendicant with these five qualities eats food, takes up space, tramples beds and chairs, and takes a ticket, yet is still considered to be a mendicant.”
+2In the same way, a bhikkhu with five qualities eats food, takes up space, tramples beds and chairs, and takes a ticket, yet is still considered to be a bhikkhu. What five? It’s when a bhikkhu can’t endure sights, sounds, smells, tastes, and touches. A bhikkhu with these five qualities eats food, takes up space, tramples beds and chairs, and takes a ticket, yet is still considered to be a bhikkhu.”
 
 1"Pañcahi, bhikkhave, aṅgehi samannāgato rañño nāgo bhattādako ca hoti okāsapharaṇo ca laṇḍasāraṇo ca salākaggāhī ca rañño nāgotveva saṅkhaṁ gacchati. Katamehi pañcahi? Idha, bhikkhave, rañño nāgo akkhamo hoti rūpānaṁ, akkhamo saddānaṁ, akkhamo gandhānaṁ, akkhamo rasānaṁ, akkhamo phoṭṭhabbānaṁ. Imehi kho, bhikkhave, pañcahi aṅgehi samannāgato rañño nāgo bhattādako ca okāsapharaṇo ca laṇḍasāraṇo ca salākaggāhī ca, rañño nāgotveva saṅkhaṁ gacchati.
 

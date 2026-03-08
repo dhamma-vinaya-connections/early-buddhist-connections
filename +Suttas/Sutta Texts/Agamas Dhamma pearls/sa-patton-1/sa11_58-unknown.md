@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “There are ten kinds of the Tathāgata’s power. If these powers are accomplished, it would be by the Tathāgata, Arhat, and Completely Awakened One. Before becoming a buddha, he attained the highest abode of knowledge. He turned the Brahma wheel and roared the lion’s roar amid his great assembly. What are the ten? The Tathāgata truly knows what’s possible and impossible. This is called his first power. [If someone accomplished this power, it would be the Tathāgata, Arhat, and Completely Awakened One. Before becoming a buddha, he attained the highest abode of knowledge. He turned the Brahma wheel and roared the lion’s roar amid his great assembly.] <a id="fnref2"></a>[^2]
+2. It was then that the Bhagavān addressed the bhikkhus, “There are ten kinds of the Tathāgata’s power. If these powers are accomplished, it would be by the Tathāgata, Arhat, and Completely Awakened One. Before becoming a buddha, he attained the highest abode of knowledge. He turned the Brahma wheel and roared the lion’s roar amid his great assembly. What are the ten? The Tathāgata truly knows what’s possible and impossible. This is called his first power. [If someone accomplished this power, it would be the Tathāgata, Arhat, and Completely Awakened One. Before becoming a buddha, he attained the highest abode of knowledge. He turned the Brahma wheel and roared the lion’s roar amid his great assembly.] <a id="fnref2"></a>[^2]
 
 3. [“Furthermore, the Tathāgata truly knows that past, future, and present deeds incur their resulting events. This is called the Tathāgata’s second power. The Tathāgata, Arhat, and Completely Awakened One accomplished this power. Before becoming a buddha, he attained the highest abode of knowledge. He turned the Brahma wheel and roared the lion’s roar amid his great assembly.]
 
@@ -39,7 +39,7 @@ language: "English"
 
 11. [“Furthermore, the Tathāgata has ended the contaminants. Without contaminants, his mind is liberated, and his wisdom is liberated. In the present life, he knows and has personally realized, ‘My births have been ended, the religious practice has been established, and the task has been accomplished. I myself know I won’t be subject to a later existence.’ This is called the Tathāgata’s tenth power. If someone accomplished this power, it would be the Tathāgata, Arhat, and Completely Awakened One. Before becoming a buddha, he attained the highest abode of knowledge. He turned the Brahma wheel and roared the lion’s roar amid his great assembly.”]
 
-12. After the Buddha spoke this sūtra, the monks who heard what the Buddha taught rejoiced and approved.
+12. After the Buddha spoke this sūtra, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

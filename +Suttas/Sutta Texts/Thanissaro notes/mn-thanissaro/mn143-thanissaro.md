@@ -45,7 +45,7 @@ Then Ven. Sāriputta—having adjusted his lower robe and taking his bowl & oute
 
 When this was said, Anāthapiṇḍika the householder wept and shed tears. Ven. Ānanda said to him, “Are you sinking, householder? Are you foundering?”
 
-“No, venerable sir. I’m not sinking, nor am I foundering. It’s just that for a long time I have attended to the Teacher, and to the monks who inspire my heart, but never before have I heard a talk on the Dhamma like this.”
+“No, venerable sir. I’m not sinking, nor am I foundering. It’s just that for a long time I have attended to the Teacher, and to the bhikkhus who inspire my heart, but never before have I heard a talk on the Dhamma like this.”
 
 “This sort of talk on the Dhamma, householder, is not given to lay people clad in white. This sort of talk on the Dhamma is given to those gone forth.”
 
@@ -79,7 +79,7 @@ should purify themselves right there.
 
 As for Sāriputta:
 
-Any monk who has gone beyond,
+Any bhikkhu who has gone beyond,
 
 at best can only equal him
 
@@ -87,7 +87,7 @@ in discernment, virtue, & calm.
 
 That is what Anāthapiṇḍika the deva’s son said. The Teacher approved. Then Anāthapiṇḍika the deva’s son, (knowing,) “The Teacher has approved of me,” bowed down to him, circled him three times, keeping him to his right, and then disappeared right there.
 
-Then when the night had past, The Blessed One addressed the monks: “Last night, monks, a certain deva’s son in the far extreme of the night, his extreme radiance lighting up the entirety of Jeta’s Grove, came to me and, on arrival, having bowed down to me, stood to one side. As he was standing there, he addressed me with this verse:
+Then when the night had past, The Blessed One addressed the bhikkhus: “Last night, bhikkhus, a certain deva’s son in the far extreme of the night, his extreme radiance lighting up the entirety of Jeta’s Grove, came to me and, on arrival, having bowed down to me, stood to one side. As he was standing there, he addressed me with this verse:
 
 This blessed Jeta’s Grove,
 
@@ -115,7 +115,7 @@ should purify themselves right there.
 
 As for Sāriputta:
 
-Any monk who has gone beyond,
+Any bhikkhu who has gone beyond,
 
 at best can only equal him
 

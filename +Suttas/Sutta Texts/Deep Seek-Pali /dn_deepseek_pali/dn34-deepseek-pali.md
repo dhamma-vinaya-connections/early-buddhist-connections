@@ -192,7 +192,7 @@ Which two qualities should be developed? Serenity and insight. These two qualiti
 
 (Kha) ‘‘katame cattāro dhammā bhāvetabbā? Cattāro satipaṭṭhānā – idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. Vedanāsu…pe… citte… dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. Ime cattāro dhammā bhāvetabbā.
 
-(Kha) "Which four qualities are to be developed? The four foundations of mindfulness: Here, friends, a bhikkhu dwells contemplating the body as a body, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in regard to the world. He dwells contemplating feelings as feelings… mind as mind… phenomena as phenomena, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in regard to the world. These four qualities are to be developed."
+(Kha) "Which four qualities are to be developed? The four foundations of mindfulness: Here, friends, a bhikkhu ![[Satipatthanas]]. He ![[Satipatthanas]]. These four qualities are to be developed."
 
 (Ga) ‘‘katame cattāro dhammā pariññeyyā? Cattāro āhārā – kabaḷīkāro [kavaḷīkāro (syā. kaṃ.)] āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ. Ime cattāro dhammā pariññeyyā.
 
@@ -572,7 +572,7 @@ Furthermore, friends, a bhikkhu dwells contemplating the rise and fall of the fi
 
 (Kha) ‘‘katame aṭṭha dhammā bhāvetabbā? Ariyo aṭṭhaṅgiko maggo seyyathidaṃ – sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi. Ime aṭṭha dhammā bhāvetabbā.
 
-(Kha) “What eight qualities should be developed? The Noble Eightfold Path, namely: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi. These eight qualities should be developed.
+(Kha) “What eight qualities should be developed? The ![[Noble Path]]. These eight qualities should be developed.
 
 (Ga) ‘‘katame aṭṭha dhammā pariññeyyā? Aṭṭha lokadhammā – lābho ca, alābho ca, yaso ca, ayaso ca, nindā ca, pasaṃsā ca, sukhañca, dukkhañca. Ime aṭṭha dhammā pariññeyyā.
 

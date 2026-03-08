@@ -44,10 +44,10 @@ parallels_partilal: "[[AN6.19]], [[EA40.8]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Various mendicants practice mindfulness of death, but do so inadequately. The Buddha  explains how to do so with proper urgency
+> Various bhikkhus practice mindfulness of death, but do so inadequately. The Buddha  explains how to do so with proper urgency
 
 > [!info] Key Excerpts 
-> The mendicants who develop mindfulness of death by wishing to live as long as it takes to chew and swallow a single mouthful or take 1 breath are diligent
+> The bhikkhus who develop mindfulness of death by wishing to live as long as it takes to chew and swallow a single mouthful or take 1 breath are diligent
 > 
 > You should train like this: ‘we will live diligently. We will keenly develop mindfulness of death for the ending of defilements
 > 

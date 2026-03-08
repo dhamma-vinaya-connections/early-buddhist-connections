@@ -15,9 +15,9 @@ language: "English"
 ## ## Anodhi Sutta
 
 
-“In seeing six rewards, it’s enough for a monk to establish the perception of stress with regard to all fabrications without exception. Which six? ‘The perception of disenchantment[1](#^[[an6-thanissaro]].103note01) will be established within me with regard to all fabrications, like a murderer with a drawn sword. My mind will rise above every world. I’ll become one who sees peace in unbinding. My obsessions[2](#^[[an6-thanissaro]].103note02) will go to their destruction. I’ll be one who has completed his task. The Teacher will have been served with goodwill.’ ^[[an6-thanissaro]].103note01-ref ^[[an6-thanissaro]].103note02-ref
+“In seeing six rewards, it’s enough for a bhikkhu to establish the perception of stress with regard to all fabrications without exception. Which six? ‘The perception of disenchantment[1](#^[[an6-thanissaro]].103note01) will be established within me with regard to all fabrications, like a murderer with a drawn sword. My mind will rise above every world. I’ll become one who sees peace in unbinding. My obsessions[2](#^[[an6-thanissaro]].103note02) will go to their destruction. I’ll be one who has completed his task. The Teacher will have been served with goodwill.’ ^[[an6-thanissaro]].103note01-ref ^[[an6-thanissaro]].103note02-ref
 
-“In seeing these six rewards, it’s enough for a monk to establish the perception of stress with regard to all fabrications without exception.”
+“In seeing these six rewards, it’s enough for a bhikkhu to establish the perception of stress with regard to all fabrications without exception.”
 
 ### Notes
 

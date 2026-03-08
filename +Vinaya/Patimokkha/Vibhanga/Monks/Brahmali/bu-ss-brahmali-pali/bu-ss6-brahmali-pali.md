@@ -16,12 +16,12 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time the monks of Āḷavī were building huts by means of begging. The huts were intended for themselves, did not have a sponsoring owner, and were inappropriately large. And since they were never finished, the monks kept on begging and asking, “Please give a man, a servant, an ox, a cart, a machete, a hatchet, an ax, a spade, a chisel; give creepers, bamboo, reeds, grass, clay.” People felt oppressed by all the begging and asking, so much so that when they saw a monk they became alarmed and fearful. They turned away, took a different path, ran off, and closed their doors. They even ran away when they saw cows, thinking they were monks.
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time the bhikkhus of Āḷavī were building huts by means of begging. The huts were intended for themselves, did not have a sponsoring owner, and were inappropriately large. And since they were never finished, the bhikkhus kept on begging and asking, “Please give a man, a servant, an ox, a cart, a machete, a hatchet, an ax, a spade, a chisel; give creepers, bamboo, reeds, grass, clay.” People felt oppressed by all the begging and asking, so much so that when they saw a monk they became alarmed and fearful. They turned away, took a different path, ran off, and closed their doors. They even ran away when they saw cows, thinking they were bhikkhus.
 
 
-2Just then Venerable Mahākassapa, after completing the rainy-season residence at Rājagaha, set out for Āḷavī. When he eventually arrived, he stayed at the Aggāḷava Shrine. One morning Venerable Mahākassapa robed up, took his bowl and robe, and entered Āḷavī for alms. When people saw him, they became alarmed and fearful. They turned away, took a different path, ran off, and closed their doors. When he had eaten his meal and returned from alms round, Venerable Mahākassapa returned and said to the monks:
+2Just then Venerable Mahākassapa, after completing the rainy-season residence at Rājagaha, set out for Āḷavī. When he eventually arrived, he stayed at the Aggāḷava Shrine. One morning Venerable Mahākassapa robed up, took his bowl and robe, and entered Āḷavī for alms. When people saw him, they became alarmed and fearful. They turned away, took a different path, ran off, and closed their doors. When he had eaten his meal and returned from alms round, Venerable Mahākassapa returned and said to the bhikkhus:
 
-“There used to be plenty of almsfood in Āḷavī, and it was easy to get by on alms. But now there’s a shortage, and it’s hard to get by. Why is that?” The monks told Venerable Mahākassapa what had happened.
+“There used to be plenty of almsfood in Āḷavī, and it was easy to get by on alms. But now there’s a shortage, and it’s hard to get by. Why is that?” The bhikkhus told Venerable Mahākassapa what had happened.
 
 
 3Soon afterwards the Buddha too set out wandering toward Āḷavī after staying at Rājagaha for as long as he liked. When he eventually arrived, he too stayed at the Aggāḷava Shrine.
@@ -29,16 +29,16 @@ language: "Pali - English"
 Venerable Mahākassapa then went to see the Buddha, bowed, sat down, and told him what had happened.
 
 
-4The Buddha had the Sangha gathered and questioned the monks of Āḷavī: “Is it true, monks, that this is happening?”
+4The Buddha had the Sangha gathered and questioned the bhikkhus of Āḷavī: “Is it true, bhikkhus, that this is happening?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you act like this? This will affect people’s confidence …” After rebuking them, he gave a teaching and addressed the monks:
+The Buddha rebuked them … “Foolish men, how can you act like this? This will affect people’s confidence …” After rebuking them, he gave a teaching and addressed the bhikkhus:
 
 #### Jātaka
 
-5“Once upon a time, monks, two sages who were brothers lived near the river Ganges. On one occasion the dragon king Maṇikaṇṭha emerged from the Ganges and went up to the younger sage. He encircled him with seven coils and spread his large hood over his head. Then, because of his fear of that dragon, the younger sage became thin, haggard, and pale, with veins protruding all over his body. The older sage saw him like this and asked him what was the matter. The younger sage told him. The elder sage said, ‘So, do you want that dragon to stay away?’
+5“Once upon a time, bhikkhus, two sages who were brothers lived near the river Ganges. On one occasion the dragon king Maṇikaṇṭha emerged from the Ganges and went up to the younger sage. He encircled him with seven coils and spread his large hood over his head. Then, because of his fear of that dragon, the younger sage became thin, haggard, and pale, with veins protruding all over his body. The older sage saw him like this and asked him what was the matter. The younger sage told him. The elder sage said, ‘So, do you want that dragon to stay away?’
 
 
 ‘Yes.’
@@ -80,11 +80,11 @@ One is detested for asking for too much.
 When the brahmin asked the dragon for his gem,  
 It left and was never to be seen again.’
 
-13One will be disliked even by animals, monks, for begging and asking, let alone by human beings.”
+13One will be disliked even by animals, bhikkhus, for begging and asking, let alone by human beings.”
 
 #### Story
 
-14“At one time, monks, a certain monk lived in a forest grove on the slopes of the Himalayas. Not far from that grove was a large, low-lying marsh. A great flock of birds fed in the marsh during the day and entered the grove to roost at night. The monk was disturbed by the noise of the flocking birds, and so he came to see me. He bowed, sat down, and I said to him, ‘I hope you’re keeping well, monk, I hope you’re getting by? I hope you’re not tired from traveling? And where have you come from?’
+14“At one time, bhikkhus, a certain monk lived in a forest grove on the slopes of the Himalayas. Not far from that grove was a large, low-lying marsh. A great flock of birds fed in the marsh during the day and entered the grove to roost at night. The monk was disturbed by the noise of the flocking birds, and so he came to see me. He bowed, sat down, and I said to him, ‘I hope you’re keeping well, monk, I hope you’re getting by? I hope you’re not tired from traveling? And where have you come from?’
 
 ‘I’m keeping well, Sir, I’m getting by. I’m not tired from traveling.’ He then explained where he had come from, adding, ‘That’s where I’ve come from, Sir. I left because I was disturbed by the noise of that flock of birds.’
 
@@ -95,10 +95,10 @@ It left and was never to be seen again.’
 ‘Well then, go back to that forest grove. In the first part of the night, call out three times and say, “Listen to me, good birds. I want a feather from anyone roosting in this forest grove. Each one of you must give me a feather.” And in the middle and last part of the night do the same thing.’
 
 
-15The monk returned to that forest grove and did as instructed. That flock of birds thought, ‘The monk is asking for a feather; he wants a feather,’ and they left that grove and never returned. One will be disliked even by animals, monks, for begging and asking, let alone by human beings.
+15The monk returned to that forest grove and did as instructed. That flock of birds thought, ‘The monk is asking for a feather; he wants a feather,’ and they left that grove and never returned. One will be disliked even by animals, bhikkhus, for begging and asking, let alone by human beings.
 
 
-16“The father of Raṭṭhapāla, monks, once spoke to his son with this verse:
+16“The father of Raṭṭhapāla, bhikkhus, once spoke to his son with this verse:
 
 
 17 ‘All these people, Raṭṭhāpāla,  
@@ -114,11 +114,11 @@ Please don’t hate me for this.’
 
 19If the gentleman Raṭṭhapāla could say this to his own father, how much more can one person to another.
 
-20It’s hard, monks, for householders to acquire and protect their possessions. And still, foolish men, you kept on begging and asking for all sorts of things. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+20It’s hard, bhikkhus, for householders to acquire and protect their possessions. And still, foolish men, you kept on begging and asking for all sorts of things. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-21‘When a monk, by means of begging, builds a hut without a sponsoring owner and intended for himself, it is to be no more than twelve standard handspans long and seven wide inside. He must have monks approve a site where no harm will be done and which has space on all sides. If a monk, by means of begging, builds a hut on a site where harm will be done and which lacks space on all sides, or he does not have monks approve the site, or he exceeds the right size, he commits an offense entailing suspension.’”
+21‘When a monk, by means of begging, builds a hut without a sponsoring owner and intended for himself, it is to be no more than twelve standard handspans long and seven wide inside. He must have bhikkhus approve a site where no harm will be done and which has space on all sides. If a monk, by means of begging, builds a hut on a site where harm will be done and which lacks space on all sides, or he does not have bhikkhus approve the site, or he exceeds the right size, he commits an offense entailing suspension.’”
 
 #### Definitions
 
@@ -139,13 +139,13 @@ Please don’t hate me for this.’
 28**And seven wide inside:** measured inside.
 
 
-29**He must have monks approve a site:** The monk who wants to build a hut should clear a site. He should then approach the Sangha, arrange his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+29**He must have bhikkhus approve a site:** The monk who wants to build a hut should clear a site. He should then approach the Sangha, arrange his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 “Venerables, I want to build a hut by means of begging, without a sponsoring owner and intended for myself. I request the Sangha to inspect the site for that hut.”
 
-He should make his request a second and a third time. If the whole Sangha is able to inspect the site, they should all go. If the whole Sangha is not able to inspect the site, then those monks there who are competent and capable—who know where harm will be done and where no harm will be done, who know what is meant by space on all sides and a lack of space on all sides—should be asked and then appointed.
+He should make his request a second and a third time. If the whole Sangha is able to inspect the site, they should all go. If the whole Sangha is not able to inspect the site, then those bhikkhus there who are competent and capable—who know where harm will be done and where no harm will be done, who know what is meant by space on all sides and a lack of space on all sides—should be asked and then appointed.
 
-“And, monks, they should be appointed like this. A competent and capable monk should inform the Sangha:
+“And, bhikkhus, they should be appointed like this. A competent and capable monk should inform the Sangha:
 
 
 30‘Please, Venerables, I ask the Sangha to listen Monk so-and-so wants to build a hut by means of begging, without a sponsoring owner and intended for himself. He is requesting the Sangha to inspect the site for that hut. If it seems appropriate to the Sangha, the Sangha should appoint monk so-and-so and monk so-and-so to inspect the site for the hut of monk so-and-so. This is the motion.
@@ -154,7 +154,7 @@ He should make his request a second and a third time. If the whole Sangha is abl
 
 32The Sangha has appointed monk so-and-so and monk so-and-so to inspect the site for the hut of monk so-and-so. The Sangha approves and is therefore silent. I’ll remember it thus.’
 
-33The appointed monks should go and inspect the site for the hut to find out if any harm will be done and if it has space on all sides. If harm will be done or it lacks space on all sides, they should say, ‘Don’t build here.’ If no harm will be done and it has space on all sides, they should inform the Sangha: ‘No harm will be done and it has space on all sides.’ The monk who wants to build the hut should then approach the Sangha, arrange his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+33The appointed bhikkhus should go and inspect the site for the hut to find out if any harm will be done and if it has space on all sides. If harm will be done or it lacks space on all sides, they should say, ‘Don’t build here.’ If no harm will be done and it has space on all sides, they should inform the Sangha: ‘No harm will be done and it has space on all sides.’ The monk who wants to build the hut should then approach the Sangha, arrange his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I wish to build a hut by means of begging, without a sponsoring owner and intended for myself. I request the Sangha to approve the site for the hut.’
 
@@ -184,7 +184,7 @@ He should make his request a second and a third time. A competent and capable mo
 43**Builds:** building it himself or having it built.
 
 
-44**Or he does not have monks approve the site, or he exceeds the right size:** if the site for the hut has not been approved through a legal procedure consisting of one motion and three announcements, or if he builds a hut or has one built that exceeds the allowable length or breadth even by the width of a hair, then for the effort there is an act of wrong conduct. When one piece is left to complete the hut, he commits a serious offense. When the last piece is finished, he commits an offense entailing suspension.
+44**Or he does not have bhikkhus approve the site, or he exceeds the right size:** if the site for the hut has not been approved through a legal procedure consisting of one motion and three announcements, or if he builds a hut or has one built that exceeds the allowable length or breadth even by the width of a hair, then for the effort there is an act of wrong conduct. When one piece is left to complete the hut, he commits a serious offense. When the last piece is finished, he commits an offense entailing suspension.
 
 45**He commits an offense entailing suspension:** … Therefore, too, it is called “an offense entailing suspension”.
 

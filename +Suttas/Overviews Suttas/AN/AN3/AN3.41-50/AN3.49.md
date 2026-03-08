@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Keen to prevent bad, unskillful qualities; give rise to skillful qualitie; endure physical pain
 > 
-> This is called a mendicant who is keen, alert, and mindful so as to rightly make an end of suffering
+> This is called a bhikkhu who is keen, alert, and mindful so as to rightly make an end of suffering
 > 
 
 

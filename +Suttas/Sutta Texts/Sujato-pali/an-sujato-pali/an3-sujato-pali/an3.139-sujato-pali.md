@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are three kinds of growth. What three? Growth in faith, ethics, and wisdom. These are the three kinds of growth.”
+1“bhikkhus, there are three kinds of growth. What three? Growth in faith, ethics, and wisdom. These are the three kinds of growth.”
 
 1"Tisso imā, bhikkhave, vuddhiyo. Katamā tisso? Saddhāvuddhi, sīlavuddhi, paññāvuddhi – imā kho, bhikkhave, tisso vuddhiyo"ti.
 

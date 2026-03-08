@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two kinds of happiness. What two? Happiness that relies on rapture and happiness that relies on freedom from rapture. These are the two kinds of happiness. The better of these two kinds of happiness is happiness that relies on freedom from rapture.”
+1“There are, bhikkhus, these two kinds of happiness. What two? Happiness that relies on rapture and happiness that relies on freedom from rapture. These are the two kinds of happiness. The better of these two kinds of happiness is happiness that relies on freedom from rapture.”
 
 1 "Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sappītikārammaṇañca sukhaṁ nippītikārammaṇañca sukhaṁ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ sukhānaṁ yadidaṁ nippītikārammaṇaṁ sukhan"ti.
 

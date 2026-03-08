@@ -23,46 +23,46 @@ language: "English - Pali"
 > "VIN-CV15.1" file:bmc2 -queryblock
 > ```
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time the monks from the group of six rubbed their bodies—thighs, arms, chest, and back—against trees while bathing. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like boxers and city slickers who beautify their bodies!” The monks heard the complaints of those people and they told the Buddha. Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time the bhikkhus from the group of six rubbed their bodies—thighs, arms, chest, and back—against trees while bathing. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like boxers and city slickers who beautify their bodies!” The bhikkhus heard the complaints of those people and they told the Buddha. Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the monks from the group of six are doing this?”
+“Is it true, bhikkhus, that the bhikkhus from the group of six are doing this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them: “It’s not suitable for those foolish men, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can they do this? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the monks:
+The Buddha rebuked them: “It’s not suitable for those foolish men, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can they do this? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t rub your body against a tree while bathing. If you do, you commit an offense of wrong conduct.”
 
 
-2At that time the monks from the group of six rubbed their bodies—thighs, arms, chest, and back—against posts while bathing. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like boxers and city slickers who beautify their bodies!” The monks heard the complaints of those people and they told the Buddha. … “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+2At that time the bhikkhus from the group of six rubbed their bodies—thighs, arms, chest, and back—against posts while bathing. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like boxers and city slickers who beautify their bodies!” The bhikkhus heard the complaints of those people and they told the Buddha. … “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t rub your body against a post while bathing. If you do, you commit an offense of wrong conduct.”
 
-3At that time the monks from the group of six rubbed their bodies—thighs, arms, chest, and back—against walls while bathing. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like boxers and city slickers who beautify their bodies!” …
+3At that time the bhikkhus from the group of six rubbed their bodies—thighs, arms, chest, and back—against walls while bathing. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like boxers and city slickers who beautify their bodies!” …
 
 “You shouldn’t rub your body against a wall while bathing. If you do, you commit an offense of wrong conduct.”
 
 
-4At that time the monks from the group of six rubbed their bodies—thighs, arms, chest, and back—against a rubbing board while bathing. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like householders who indulge in worldly pleasures!”
+4At that time the bhikkhus from the group of six rubbed their bodies—thighs, arms, chest, and back—against a rubbing board while bathing. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t rub your body against a rubbing board while bathing. If you do, you commit an offense of wrong conduct.”
 
 
-5At that time the monks from the group of six bathed with a wooden rubbing-hand. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like householders who indulge in worldly pleasures!” The monks heard the complaints of those people and they told the Buddha.
+5At that time the bhikkhus from the group of six bathed with a wooden rubbing-hand. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like householders who indulge in worldly pleasures!” The bhikkhus heard the complaints of those people and they told the Buddha.
 
 “You shouldn’t bathe with a wooden rubbing-hand. If you do, you commit an offense of wrong conduct.”
 
-6At that time the monks from the group of six bathed with a string of cinnabar beads. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like householders who indulge in worldly pleasures!”
+6At that time the bhikkhus from the group of six bathed with a string of cinnabar beads. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t bathe with a string of cinnabar beads. If you do, you commit an offense of wrong conduct.”
 
 
-7At that time the monks from the group of six massaged one another. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like householders who indulge in worldly pleasures!”
+7At that time the bhikkhus from the group of six massaged one another. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t massage one another. If you do, you commit an offense of wrong conduct.”
 
-8At that time the monks from the group of six bathed with an ornamented scrubber. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like householders who indulge in worldly pleasures!” … They told the Buddha.
+8At that time the bhikkhus from the group of six bathed with an ornamented scrubber. People complained and criticized them: “How can the Sakyan monastics do this? They’re just like householders who indulge in worldly pleasures!” … They told the Buddha.
 
 “You shouldn’t bathe with an ornamented scrubber. If you do, you commit an offense of wrong conduct.”
 
@@ -77,7 +77,7 @@ The Buddha rebuked them: “It’s not suitable for those foolish men, it’s no
 “I allow gloves of cloth.”
 
 
-11Being afraid of wrongdoing, the monks did not give back massages.
+11Being afraid of wrongdoing, the bhikkhus did not give back massages.
 
 “I allow an ordinary massage by hand.”
 
@@ -91,30 +91,30 @@ The Buddha rebuked them: “It’s not suitable for those foolish men, it’s no
 > ```
 
 
-12At that time the monks from the group of six wore earrings, ornamental hanging strings, necklaces, ornamental girdles, bangles, armlets, bracelets, and rings. People complained and criticized them … “… They’re just like householders who indulge in worldly pleasures!” The monks heard the complaints of those people. They told the Buddha.
+12At that time the bhikkhus from the group of six wore earrings, ornamental hanging strings, necklaces, ornamental girdles, bangles, armlets, bracelets, and rings. People complained and criticized them … “… They’re just like householders who indulge in worldly pleasures!” The bhikkhus heard the complaints of those people. They told the Buddha.
 
-“Is it true, monks, that the monks from the group of six are wearing these things?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“Is it true, bhikkhus, that the bhikkhus from the group of six are wearing these things?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t wear earrings, an ornamental hanging string, a necklace, an ornamental girdle, a bangle, an armlet, a bracelet, or a ring. If you do, you commit an offense of wrong conduct.”
 
 
-13At that time the monks from the group of six grew their hair long. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+13At that time the bhikkhus from the group of six grew their hair long. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t grow your hair long. If you do, you commit an offense of wrong conduct. I allow you to grow it to a length of 3.5 centimeters or for two months at the most.”
 
-14At that time the monks from the group of six brushed their hair, and they combed it, combed it with their hands, smoothed it with beeswax, and smoothed it with water and oil. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+14At that time the bhikkhus from the group of six brushed their hair, and they combed it, combed it with their hands, smoothed it with beeswax, and smoothed it with water and oil. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t brush your hair, or comb it, comb it with your hands, smooth it with beeswax, or smooth it with water and oil. If you do, you commit an offense of wrong conduct.”
 
-15At that time the monks from the group of six looked at their faces in mirrors and in bowls of water. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+15At that time the bhikkhus from the group of six looked at their faces in mirrors and in bowls of water. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t look at your face in a mirror or in a bowl of water. If you do, you commit an offense of wrong conduct.”
 
-16Soon afterwards a certain monk had a sore on his face. He asked the monks: “What kind of sore is it?” They replied: “It’s this kind of sore.” He did not trust them.
+16Soon afterwards a certain monk had a sore on his face. He asked the bhikkhus: “What kind of sore is it?” They replied: “It’s this kind of sore.” He did not trust them.
 
 “I allow you to look at your face in a mirror or in a bowl of water if you have a disease.”
 
-17At that time the monks from the group of six used facial ointments, applied facial creams, powdered their face, applied rouge to their face, wore cosmetics on the body, wore cosmetics on the face, and wore cosmetics on the body and face. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+17At that time the bhikkhus from the group of six used facial ointments, applied facial creams, powdered their face, applied rouge to their face, wore cosmetics on the body, wore cosmetics on the face, and wore cosmetics on the body and face. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t use facial ointments, apply creams, powder your face, apply rouge to your face, wear cosmetics on the body, wear cosmetics on the face, or wear cosmetics on the body and face. If you do, you commit an offense of wrong conduct.”
 
@@ -132,24 +132,24 @@ The Buddha rebuked them: “It’s not suitable for those foolish men, it’s no
 > ```
 
 
-19On one occasion in Rājagaha there was a hilltop fair, and the monks from the group of six went to see it. People complained and criticized them: “How can the Sakyan monastics go and see dancing, singing, and music? They’re just like householders who indulge in worldly pleasures!” They told the Buddha.
+19On one occasion in Rājagaha there was a hilltop fair, and the bhikkhus from the group of six went to see it. People complained and criticized them: “How can the Sakyan monastics go and see dancing, singing, and music? They’re just like householders who indulge in worldly pleasures!” They told the Buddha.
 
 “You shouldn’t go and see dancing, singing, and music. If you do, you commit an offense of wrong conduct.”
 
-20At that time the monks from the group of six were singing the Teaching with a drawn-out voice. People complained and criticized them: “These Sakyan monastics sing with a drawn-out voice just like we do.” The monks heard the complaints of those people, and the monks of few desires complained and criticized them: “How can the monks from the group of six sing like this?” They told the Buddha.
+20At that time the bhikkhus from the group of six were singing the Teaching with a drawn-out voice. People complained and criticized them: “These Sakyan monastics sing with a drawn-out voice just like we do.” The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six sing like this?” They told the Buddha.
 
-“Is it true, monks, that the monks from the group of six are singing like this?” “It’s true, Sir.” … the Buddha gave a teaching and addressed the monks:
+“Is it true, bhikkhus, that the bhikkhus from the group of six are singing like this?” “It’s true, Sir.” … the Buddha gave a teaching and addressed the bhikkhus:
 
 “There are these five dangers in singing the Teaching with a drawn-out voice: one delights in the sound; others delight in the sound; householders criticize it; for one who takes pleasure in performing with the voice, the samādhi is disrupted; later generations follow one’s example.
 
 You shouldn’t sing the Teaching with a drawn-out voice. If you do, you commit an offense of wrong conduct.”
 
 
-21Being afraid of wrongdoing, the monks did not chant. They told the Buddha.
+21Being afraid of wrongdoing, the bhikkhus did not chant. They told the Buddha.
 
 “I allow chanting.”
 
-22At that time the monks from the group of six wore fleecy woolen robes with fleece on the outside. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+22At that time the bhikkhus from the group of six wore fleecy woolen robes with fleece on the outside. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 
 “You shouldn’t wear a fleecy woolen robe with fleece on the outside. If you do, you commit an offense of wrong conduct.”
@@ -164,24 +164,24 @@ You shouldn’t sing the Teaching with a drawn-out voice. If you do, you commit 
 > ```
 
 
-23On one occasion when the mango trees in King Bimbisāra’s park were bearing fruit, the King allowed the monks to eat as many mangoes as they wished. The monks from the group of six plucked and ate them all, even the unripe ones. Just then the King needed mangoes. He told his people: “Go to the park and bring back mangoes.” Saying: “Yes, Sir,” they went to the park and said to the park keeper: “The King needs mangoes. Please get some.”
+23On one occasion when the mango trees in King Bimbisāra’s park were bearing fruit, the King allowed the bhikkhus to eat as many mangoes as they wished. The bhikkhus from the group of six plucked and ate them all, even the unripe ones. Just then the King needed mangoes. He told his people: “Go to the park and bring back mangoes.” Saying: “Yes, Sir,” they went to the park and said to the park keeper: “The King needs mangoes. Please get some.”
 
-“There aren’t any. The monks plucked and ate them all, including the unripe ones.”
+“There aren’t any. The bhikkhus plucked and ate them all, including the unripe ones.”
 
 They reported it to the King. He said: “It’s good that the venerables have eaten the mangoes. Still, the Buddha has praised moderation.”
 
-People complained and criticized them: “How can the Sakyan monastics eat the King’s mangoes without moderation?” The monks heard the complaints of those people and then told the Buddha.
+People complained and criticized them: “How can the Sakyan monastics eat the King’s mangoes without moderation?” The bhikkhus heard the complaints of those people and then told the Buddha.
 
 “You shouldn’t eat mangoes. If you do, you commit an offense of wrong conduct.”
 
 
-24Soon afterwards a certain association was offering a meal to the Saṅgha. They had prepared mango curry. Being afraid of wrongdoing, the monks did not accept it.
+24Soon afterwards a certain association was offering a meal to the Saṅgha. They had prepared mango curry. Being afraid of wrongdoing, the bhikkhus did not accept it.
 
-“Accept, monks, and eat it. I allow pieces of mango.”
+“Accept, bhikkhus, and eat it. I allow pieces of mango.”
 
-25Soon afterwards a certain association was offering a meal to the Saṅgha. They were unable to prepare mango pieces and so gave whole mangoes in the dining hall. Being afraid of wrongdoing, the monks did not accept them.
+25Soon afterwards a certain association was offering a meal to the Saṅgha. They were unable to prepare mango pieces and so gave whole mangoes in the dining hall. Being afraid of wrongdoing, the bhikkhus did not accept them.
 
-“Accept, monks, and eat it. I allow you to eat fruit that’s allowable for monastics for any of five reasons: it’s been damaged by fire, a knife, or a nail, or it’s seedless, or the seeds have been removed.”
+“Accept, bhikkhus, and eat it. I allow you to eat fruit that’s allowable for monastics for any of five reasons: it’s been damaged by fire, a knife, or a nail, or it’s seedless, or the seeds have been removed.”
 
 #### 5 Protection ^5
 
@@ -195,7 +195,7 @@ People complained and criticized them: “How can the Sakyan monastics eat the K
 
 26On one occasion a monk had been bitten by a snake and died. They told the Buddha.
 
-“That monk hadn’t spread good will to the four royal snake clans. Had he done so, he wouldn’t have died. What are the four clans? The Virūpakkhas, the Erāpathas, the Chabyāputtas, and the Kaṇhāgotamas. To protect yourselves, monks, you should spread good will to these four royal snake clans. And it should be done like this:
+“That monk hadn’t spread good will to the four royal snake clans. Had he done so, he wouldn’t have died. What are the four clans? The Virūpakkhas, the Erāpathas, the Chabyāputtas, and the Kaṇhāgotamas. To protect yourselves, bhikkhus, you should spread good will to these four royal snake clans. And it should be done like this:
 
 
 27I have good will toward the Virūpakkhas,  
@@ -268,23 +268,23 @@ People heard that Piṇḍola Bhāradvāja had taken down the merchant’s bowl,
 37Hearing all the noise, the Buddha asked Venerable Ānanda what it was, and Ānanda told him what had happened.
 
 
-38Soon afterwards the Buddha had the Saṅgha of monks gathered and questioned Piṇḍola Bhāradvāja:
+38Soon afterwards the Buddha had the Saṅgha of bhikkhus gathered and questioned Piṇḍola Bhāradvāja:
 
 “Is it true, Bhāradvāja, that you brought down that merchant’s bowl?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked him: “It’s not suitable, Bhāradvāja, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you show a superhuman ability, a wonder of supernormal power, to householders for the sake of a miserable wooden bowl? It’s just like a woman showing her private parts for a miserable _māsaka_ coin. This will affect people’s confidence …” After rebuking him … the Buddha gave a teaching and addressed the monks:
+The Buddha rebuked him: “It’s not suitable, Bhāradvāja, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you show a superhuman ability, a wonder of supernormal power, to householders for the sake of a miserable wooden bowl? It’s just like a woman showing her private parts for a miserable _māsaka_ coin. This will affect people’s confidence …” After rebuking him … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 “You shouldn’t show a superhuman ability, a wonder of supernormal power, to householders. If you do, you commit an offense of wrong conduct.
 
-Now destroy that wooden bowl and make it into splinters. Give these to the monks to use as scent in ointments.
+Now destroy that wooden bowl and make it into splinters. Give these to the bhikkhus to use as scent in ointments.
 
 And you shouldn’t use a wooden bowl. If you do, you commit an offense of wrong conduct.”
 
 
-39At that time the monks from the group of six used luxurious bowls made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+39At that time the bhikkhus from the group of six used luxurious bowls made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t use almsbowls made with gold, silver, gems, beryl, crystal, bronze, glass, tin, lead, or copper. If you do, you commit an offense of wrong conduct. I allow two kinds of almsbowls: iron bowls and ceramic bowls.”
 
@@ -294,7 +294,7 @@ And you shouldn’t use a wooden bowl. If you do, you commit an offense of wrong
 “I allow a circular bowl-rest.”
 
 
-41Soon afterwards the monks from the group of six used luxurious bowl-rests made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+41Soon afterwards the bhikkhus from the group of six used luxurious bowl-rests made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t use luxurious bowl-rests. If you do, you commit an offense of wrong conduct. I allow two kinds of bowl-rests: bowl-rests made of tin and a bowl-rests made of lead.”
 
@@ -307,20 +307,20 @@ There were marks left from the carving.
 “I allow you to cut a shark-teeth pattern.”
 
 
-42Soon the monks from the group of six used colorful bowl-rests, decorated like walls. As they were walking about, they showed them off in the streets. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+42Soon the bhikkhus from the group of six used colorful bowl-rests, decorated like walls. As they were walking about, they showed them off in the streets. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t use colorful bowl-rests, decorated like a wall. If you do, you commit an offense of wrong conduct. I allow ordinary bowl-rests.”
 
-43At this time there were monks who put away their bowls while still wet. The bowls were stained.
+43At this time there were bhikkhus who put away their bowls while still wet. The bowls were stained.
 
 “You shouldn’t put away your bowl while still wet. If you do, you commit an offense of wrong conduct. You should sun your bowl and then put it away.”
 
-44Soon afterwards there were monks who sunned their bowls while still wet. The bowls became smelly.
+44Soon afterwards there were bhikkhus who sunned their bowls while still wet. The bowls became smelly.
 
 “You shouldn’t sun your bowl while still wet. If you do, you commit an offense of wrong conduct. You should dry the bowl and then sun it before you put it away.”
 
 
-45Monks left their bowls in the heat of the sun. The bowls became discolored.
+45bhikkhus left their bowls in the heat of the sun. The bowls became discolored.
 
 “You shouldn’t leave your bowl in the heat of the sun. If you do, you commit an offense of wrong conduct. You should sun it in the heat for a short time and then put it away.”
 
@@ -328,15 +328,15 @@ There were marks left from the carving.
 
 “I allow a bowl rack.”
 
-47On one occasion there were monks who had put their bowls on the edge of a bench. They fell down and broke.
+47On one occasion there were bhikkhus who had put their bowls on the edge of a bench. They fell down and broke.
 
 “You shouldn’t put your almsbowl on the edge of a bench. If you do, you commit an offense of wrong conduct.”
 
-48On one occasion there were monks who had put their bowls on the edge of a ledge. They fell down and broke.
+48On one occasion there were bhikkhus who had put their bowls on the edge of a ledge. They fell down and broke.
 
 “You shouldn’t put your almsbowl on the edge of a ledge. If you do, you commit an offense of wrong conduct.”
 
-49At that time the monks put their bowls upside down on the ground. The edge of the bowls were scratched.
+49At that time the bhikkhus put their bowls upside down on the ground. The edge of the bowls were scratched.
 
 “I allow a straw mat.”
 
@@ -362,39 +362,39 @@ There were no shoulder straps.
 “I allow a shoulder strap and a string for fastening.”
 
 
-50At that time there were monks who hung their bowls from wall pegs. The bowls fell down and broke.
+50At that time there were bhikkhus who hung their bowls from wall pegs. The bowls fell down and broke.
 
 “You shouldn’t hang up your almsbowl. If you do, you commit an offense of wrong conduct.”
 
-51At that time there were monks who placed their bowls on beds. Sitting down absentmindedly, they crushed the bowls, breaking them.
+51At that time there were bhikkhus who placed their bowls on beds. Sitting down absentmindedly, they crushed the bowls, breaking them.
 
 “You shouldn’t place your bowl on a bed. If you do, you commit an offense of wrong conduct.”
 
 
-52At that time monks placed their bowls on benches. Sitting down absentmindedly, they crushed the bowls, breaking them.
+52At that time bhikkhus placed their bowls on benches. Sitting down absentmindedly, they crushed the bowls, breaking them.
 
 “You shouldn’t place your bowl on a bench. If you do, you commit an offense of wrong conduct.”
 
-53At that time there were monks who put their bowls in their laps. When they got up absentmindedly, the bowls fell down and broke.
+53At that time there were bhikkhus who put their bowls in their laps. When they got up absentmindedly, the bowls fell down and broke.
 
 “You shouldn’t put your bowl in your lap. If you do, you commit an offense of wrong conduct.”
 
 
-54At one time there were monks who put their bowls on a sunshade. A whirlwind lifted the sunshade, and the bowls fell down and broke.
+54At one time there were bhikkhus who put their bowls on a sunshade. A whirlwind lifted the sunshade, and the bowls fell down and broke.
 
 “You shouldn’t put your bowl on a sunshade. If you do, you commit an offense of wrong conduct.”
 
 
-55At that time there were monks who opened doors with a bowl in their hand. The doors swung back and the bowls broke.
+55At that time there were bhikkhus who opened doors with a bowl in their hand. The doors swung back and the bowls broke.
 
 “You shouldn’t open a door with an almsbowl in your hand. If you do, you commit an offense of wrong conduct.”
 
 
-56At that time there were monks who walked for alms with gourds as bowls. People complained and criticized them: “They’re just like the monastics of other religions.”
+56At that time there were bhikkhus who walked for alms with gourds as bowls. People complained and criticized them: “They’re just like the monastics of other religions.”
 
 “You shouldn’t walk for alms with a gourd as bowl. If you do, you commit an offense of wrong conduct.”
 
-57At that time there were monks who walked for alms with water pots as bowls. People complained and criticized them: “They’re just like the monastics of other religions.”
+57At that time there were bhikkhus who walked for alms with water pots as bowls. People complained and criticized them: “They’re just like the monastics of other religions.”
 
 “You shouldn’t walk for alms with a water pot as bowl. If you do, you commit an offense of wrong conduct.”
 
@@ -402,7 +402,7 @@ There were no shoulder straps.
 
 “You shouldn’t use a skull as bowl. If you do, you commit an offense of wrong conduct. And you shouldn’t use only discarded things. If you do, you commit an offense of wrong conduct.”
 
-59At that time there were monks who carried away chewed food remnants, bones, and dirty mouth-rinsing water in their bowls. People complained and criticized them: “These Sakyan monastics use the vessel they're eating from as a trash can.”
+59At that time there were bhikkhus who carried away chewed food remnants, bones, and dirty mouth-rinsing water in their bowls. People complained and criticized them: “These Sakyan monastics use the vessel they're eating from as a trash can.”
 
 “You shouldn’t carry away chewed food remnants, bones, and dirty mouth-rinsing water in your almsbowl. If you do, you commit an offense of wrong conduct. I allow trash cans.”
 
@@ -416,7 +416,7 @@ There were no shoulder straps.
 > ```
 
 
-60At that time the monks tore the cloth to pieces by hand and then sewed robes. The robes were ugly. They told the Buddha.
+60At that time the bhikkhus tore the cloth to pieces by hand and then sewed robes. The robes were ugly. They told the Buddha.
 
 “I allow a knife and a felt sheath.”
 
@@ -425,11 +425,11 @@ There were no shoulder straps.
 “I allow a knife with a handle.”
 
 
-62At this time the monks from the group of six used luxurious knife handles made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+62At this time the bhikkhus from the group of six used luxurious knife handles made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t use luxurious knife handles. If you do, you commit an offense of wrong conduct. I allow knife handles made of bone, ivory, horn, reed, bamboo, wood, resin, fruit, metal, and shell.”
 
-63At that time the monks used chicken feathers and pieces of bamboo to sew robes. The robes were badly sewn.
+63At that time the bhikkhus used chicken feathers and pieces of bamboo to sew robes. The robes were badly sewn.
 
 “I allow needles.”
 
@@ -458,7 +458,7 @@ The stone powder broke apart.
 “I allow a case.”
 
 
-64At that time the monks erected posts here and there, bound them together, and sewed robes. The corners of the robes were deformed. They told the Buddha.
+64At that time the bhikkhus erected posts here and there, bound them together, and sewed robes. The corners of the robes were deformed. They told the Buddha.
 
 “I allow a frame and a string. You should tie down the cloth to the frame as required, before sewing the robe.”
 
@@ -492,25 +492,25 @@ The seams were not straight.
 “I allow you to make a guide line.”
 
 
-66There were monks who stepped on the frame with dirty feet. The frame became dirty.
+66There were bhikkhus who stepped on the frame with dirty feet. The frame became dirty.
 
 “You shouldn’t step on the frame with dirty feet. If you do, you commit an offense of wrong conduct.”
 
-67There were monks who stepped on the frame with wet feet. The frame became dirty.
+67There were bhikkhus who stepped on the frame with wet feet. The frame became dirty.
 
 “You shouldn’t step on the frame with wet feet. If you do, you commit an offense of wrong conduct.”
 
-68There were monks who stepped on the frame while wearing sandals. The frame became dirty.
+68There were bhikkhus who stepped on the frame while wearing sandals. The frame became dirty.
 
 “You shouldn’t step on the frame while wearing sandals. If you do, you commit an offense of wrong conduct.”
 
 
-69When sewing robes, the monks received the needles with their fingers. They hurt their fingers.
+69When sewing robes, the bhikkhus received the needles with their fingers. They hurt their fingers.
 
 “I allow thimbles.”
 
 
-70Soon the monks from the group of six used luxurious thimbles made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+70Soon the bhikkhus from the group of six used luxurious thimbles made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t use luxurious thimbles. If you do, you commit an offense of wrong conduct. I allow a thimble made of bone, ivory, horn, reed, bamboo, wood, resin, fruit, metal, and shell.”
 
@@ -529,7 +529,7 @@ There was no shoulder strap.
 “I allow a shoulder strap and a string for fastening.”
 
 
-72When sewing robes outside, the monks were wearied by the cold and heat. They told the Buddha.
+72When sewing robes outside, the bhikkhus were wearied by the cold and heat. They told the Buddha.
 
 “I allow a sewing-shed and a roof-cover.”
 
@@ -559,7 +559,7 @@ Grass and dust fell into the sewing-shed.
 “I allow you to firm up the structure and then plaster it inside and outside, including: treating it with white color, black color, and red ocher; making a garland pattern, a creeper pattern, a shark-teeth pattern, and the fivefold pattern; putting up a bamboo robe rack and a clothesline.”
 
 
-73At that time, when they had finished sewing a robe, there were monks who abandoned the frame right there and left. Rats and termites ate it.
+73At that time, when they had finished sewing a robe, there were bhikkhus who abandoned the frame right there and left. Rats and termites ate it.
 
 “You should fold up the frame.”
 
@@ -571,7 +571,7 @@ The frame unfolded.
 
 “You should tie it up with a rope.”
 
-74At that time there were monks who leaned the frame against a wall or a pillar and left. It fell down and broke.
+74At that time there were bhikkhus who leaned the frame against a wall or a pillar and left. It fell down and broke.
 
 “You should hang it from a wall peg.”
 
@@ -585,7 +585,7 @@ The frame unfolded.
 > ```
 
 
-75When the Buddha had stayed at Rājagaha for as long as he liked, he set out wandering toward Vesālī. And so did the monks went, having put their needles, knives, and medicines in their almsbowls. They told the Buddha.
+75When the Buddha had stayed at Rājagaha for as long as he liked, he set out wandering toward Vesālī. And so did the bhikkhus went, having put their needles, knives, and medicines in their almsbowls. They told the Buddha.
 
 “I allow a medicine bag.”
 
@@ -593,7 +593,7 @@ There was no shoulder strap.
 
 “I allow a shoulder strap and a string for fastening it.”
 
-76On one occasion a certain monk bound his sandals to his belt and entered the village for alms. A lay follower who bowed to him hit his head against those sandals. The monk was embarrassed. When he had returned to the monastery, he told the monks what had happened, who in turn told the Buddha.
+76On one occasion a certain monk bound his sandals to his belt and entered the village for alms. A lay follower who bowed to him hit his head against those sandals. The monk was embarrassed. When he had returned to the monastery, he told the bhikkhus what had happened, who in turn told the Buddha.
 
 “I allow a bag for sandals.”
 
@@ -615,27 +615,27 @@ There was still no suitable cloth.
 “I allow a water strainer.”
 
 
-78On one occasion, there were two monks traveling through the Kosalan country. One monk misbehaved, and the second monk said to him: “Don’t do that. It’s not allowable.” Because of that, the first monk became resentful.
+78On one occasion, there were two bhikkhus traveling through the Kosalan country. One monk misbehaved, and the second monk said to him: “Don’t do that. It’s not allowable.” Because of that, the first monk became resentful.
 
-Soon afterwards the second monk was very thirsty. He asked the resentful monk to borrow his water filter. He refused and the second monk died from thirst. When the resentful monk arrived at the monastery, he told the monks what had happened.
+Soon afterwards the second monk was very thirsty. He asked the resentful monk to borrow his water filter. He refused and the second monk died from thirst. When the resentful monk arrived at the monastery, he told the bhikkhus what had happened.
 
 “So you refused to lend your water filter when asked?”
 
 “Yes.”
 
 
-The monks of few desires complained and criticized him: “How could a monk do such a thing?” They told the Buddha. Soon afterwards the Buddha had the monks gathered and questioned that monk:
+The bhikkhus of few desires complained and criticized him: “How could a monk do such a thing?” They told the Buddha. Soon afterwards the Buddha had the bhikkhus gathered and questioned that monk:
 
 “Is it true, monk, that you did this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked him: “It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you refuse to lend your water filter when asked? This will affect people’s confidence …” After rebuking him … the Buddha gave a teaching and addressed the monks:
+The Buddha rebuked him: “It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you refuse to lend your water filter when asked? This will affect people’s confidence …” After rebuking him … the Buddha gave a teaching and addressed the bhikkhus:
 
 “If you’re traveling with a monk and he asks to borrow your water filter, you should lend it. If you don’t, you commit an offense of wrong conduct. On the other had, you shouldn’t travel without a water filter. If you do, you commit an offense of wrong conduct. If there’s no water filter or strainer, you should determine a corner of your robe: ‘I’ll drink after filtering with this.’”
 
-The Buddha eventually arrived at Vesālī, where he stayed in the hall with the peaked roof in the Great Wood. At this time the monks were doing building work, but there were not enough water filters. They told the Buddha.
+The Buddha eventually arrived at Vesālī, where he stayed in the hall with the peaked roof in the Great Wood. At this time the bhikkhus were doing building work, but there were not enough water filters. They told the Buddha.
 
 “I allow a water filter of cloth fitted to a wooden framework.”
 
@@ -644,7 +644,7 @@ There were still not enough filters.
 
 “I allow you to filter by spreading cloth on water.”
 
-79At this time the monks were troubled by mosquitoes.
+79At this time the bhikkhus were troubled by mosquitoes.
 
 “I allow a mosquito tent.”
 
@@ -660,14 +660,14 @@ There were still not enough filters.
 
 ##### 9.1 Walking-paths 
 
-80At this time in Vesālī people had arranged a succession of fine meals. After eating the fine food, the monks were often sick, their bodies being full of impurities.
+80At this time in Vesālī people had arranged a succession of fine meals. After eating the fine food, the bhikkhus were often sick, their bodies being full of impurities.
 
-Just then Jīvaka Komārabhacca was in Vesālī on some business, and he saw those monks. He went to the Buddha, bowed, sat down, and said: “At present, Sir, there are monks who are often sick, their bodies being full of impurities. It would be good if you would allow walking-meditation paths and saunas. In this way the monks will rarely get sick.” The Buddha then instructed, inspired, and gladdened him with a teaching, after which Jīvaka got up from his seat, bowed, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+Just then Jīvaka Komārabhacca was in Vesālī on some business, and he saw those bhikkhus. He went to the Buddha, bowed, sat down, and said: “At present, Sir, there are bhikkhus who are often sick, their bodies being full of impurities. It would be good if you would allow walking-meditation paths and saunas. In this way the bhikkhus will rarely get sick.” The Buddha then instructed, inspired, and gladdened him with a teaching, after which Jīvaka got up from his seat, bowed, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow walking-meditation paths and saunas.”
 
 
-81Monks did walking meditation on uneven walking paths. As a result their feet hurt.
+81bhikkhus did walking meditation on uneven walking paths. As a result their feet hurt.
 
 “I allow you to even them out.”
 
@@ -691,12 +691,12 @@ People fell down while climbing the stairs.
 “I allow rails.”
 
 
-82Monks fell off while doing walking meditation.
+82bhikkhus fell off while doing walking meditation.
 
 “I allow railings.”
 
 
-83Doing walking meditation outside, monks were wearied by the cold and the heat. They told the Buddha.
+83Doing walking meditation outside, bhikkhus were wearied by the cold and the heat. They told the Buddha.
 
 “I allow indoor walking-meditation paths.”
 
@@ -740,7 +740,7 @@ The sauna had no flue.
 “I allow a flue.”
 
 
-84At that time the monks built a fireplace in the middle of a small sauna. There was no access around the fireplace.
+84At that time the bhikkhus built a fireplace in the middle of a small sauna. There was no access around the fireplace.
 
 “In a small sauna, you should make the fireplace to one side, but in a large one in the middle.”
 
@@ -783,7 +783,7 @@ The water remained.
 “I allow a water drain.”
 
 
-85The monks sat on the ground and their limbs became itchy.
+85The bhikkhus sat on the ground and their limbs became itchy.
 
 “I allow a sauna bench.”
 
@@ -835,12 +835,12 @@ The water remained.
 “I allow a water drain.”
 
 
-86At that time naked monks bowed down to other naked monks, had other naked monks bow down to them, did services for other naked monks, had other naked monks do services for them, gave to other naked monks, received, ate fresh foods, ate cooked foods, ate other foods, and drank. They told the Buddha.
+86At that time naked bhikkhus bowed down to other naked bhikkhus, had other naked bhikkhus bow down to them, did services for other naked bhikkhus, had other naked bhikkhus do services for them, gave to other naked bhikkhus, received, ate fresh foods, ate cooked foods, ate other foods, and drank. They told the Buddha.
 
 “One who is naked shouldn’t bow down to one who is naked, shouldn’t bow down to anyone, shouldn’t have a naked monk bow down to him, shouldn’t have anyone bow down to him, shouldn’t do services for a naked monk, shouldn’t have a naked monk do services for him, shouldn’t give to a naked monk, shouldn’t receive, shouldn’t eat fresh foods, shouldn’t eat cooked food, shouldn’t eat anything, and shouldn’t drink. If you do, you commit an offense of wrong conduct.”
 
 
-87At that time the monks put their robes on the ground in the sauna. The robes became dirty. They told the Buddha.
+87At that time the bhikkhus put their robes on the ground in the sauna. The robes became dirty. They told the Buddha.
 
 “I allow a bamboo robe rack and a clothesline.”
 
@@ -872,7 +872,7 @@ Grass and dust fell into the sauna shed.
 “I allow you to firm up the structure and then to plaster it inside and outside, including: treating with white color, black color, and red ocher; making a garland pattern, a creeper pattern, a shark-teeth pattern, and the fivefold pattern; putting up a bamboo robe rack and a clothesline.”
 
 
-88Being afraid of wrongdoing, the monks did not do services for one another either in the sauna or in the water.
+88Being afraid of wrongdoing, the bhikkhus did not do services for one another either in the sauna or in the water.
 
 “I allow you to regard three things as a ‘covering’: a sauna, water, and a cloth.”
 
@@ -907,7 +907,7 @@ People fell down while climbing the stairs.
 “I allow rails.”
 
 
-90At that time the monks used creepers and belts to haul water.
+90At that time the bhikkhus used creepers and belts to haul water.
 
 “I allow a water-hauling rope.”
 
@@ -921,7 +921,7 @@ Many vessels broke.
 “I allow three kinds of buckets: buckets made of iron, wood, and hide.”
 
 
-91Hauling water outside, the monks were wearied by the cold and the heat. They told the Buddha.
+91Hauling water outside, the bhikkhus were wearied by the cold and the heat. They told the Buddha.
 
 “I allow a well house.”
 
@@ -941,11 +941,11 @@ There was no vessel for the water.
 
 ##### 9.4 Other structures 
 
-92At that time the monks bathed here and there in the monastery. The monastery became muddy. They told the Buddha.
+92At that time the bhikkhus bathed here and there in the monastery. The monastery became muddy. They told the Buddha.
 
 “I allow a waste disposal area.”
 
-The area was unenclosed. The monks were embarrassed to bathe there.
+The area was unenclosed. The bhikkhus were embarrassed to bathe there.
 
 
 “I allow three kinds of encircling walls: walls of brick, stone, and wood.”
@@ -959,7 +959,7 @@ The water remained.
 “I allow a water drain.”
 
 
-93The monks were cold.
+93The bhikkhus were cold.
 
 “I allow a water wiper and a towel to dry yourselves.”
 
@@ -1000,15 +1000,15 @@ The water in the tanks became stagnant.
 > ```
 
 
-96At one time the monks from the group of six did not have sitting mats for a period of four months. They told the Buddha.
+96At one time the bhikkhus from the group of six did not have sitting mats for a period of four months. They told the Buddha.
 
 “You shouldn’t be without a sitting mat for a period of four months. If you are, you commit an offense of wrong conduct.”
 
-97At that time the monks from the group of six slept in beds covered in flowers. When people walking about the dwellings saw this, they complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+97At that time the bhikkhus from the group of six slept in beds covered in flowers. When people walking about the dwellings saw this, they complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t sleep in a bed covered in flowers. If you do, you commit an offense of wrong conduct.”
 
-98Soon, people brought scents and garlands to the monastery. Being afraid of wrongdoing, the monks did not accept.
+98Soon, people brought scents and garlands to the monastery. Being afraid of wrongdoing, the bhikkhus did not accept.
 
 “I allow you to accept scent to make the five-finger mark on your door and to accept flowers to place to one side in your dwelling.”
 
@@ -1016,12 +1016,12 @@ The water in the tanks became stagnant.
 
 “I allow felt.”
 
-The monks thought: “Should it be determined or assigned to another?”
+The bhikkhus thought: “Should it be determined or assigned to another?”
 
 “It should neither be determined nor assigned to another.”
 
 
-100The monks from the group of six ate food on a stand with a heating device. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+100The bhikkhus from the group of six ate food on a stand with a heating device. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t eat food on a stand with a heating device. If you do, you commit an offense of wrong conduct.”
 
@@ -1030,7 +1030,7 @@ The monks thought: “Should it be determined or assigned to another?”
 “I allow a stand.”
 
 
-102At that time the monks from the group of six ate from the same vessel and drank from the same vessel, and they lay down on the same bed, on the same sheet, under the same cover, and both on the same sheet and under the same cover. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+102At that time the bhikkhus from the group of six ate from the same vessel and drank from the same vessel, and they lay down on the same bed, on the same sheet, under the same cover, and both on the same sheet and under the same cover. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t eat from the same vessel, drink from the same vessel, lie down on the same bed, lie down on the same sheet, lie down under the same cover, or lie down both on the same sheet and under the same cover. If you do, you commit an offense of wrong conduct.”
 
@@ -1044,7 +1044,7 @@ The monks thought: “Should it be determined or assigned to another?”
 > ```
 
 
-103At one time Vaḍḍha the Licchavī was a friend of the monks Mettiya and Bhūmajaka. On one occasion he went to them and said: “Respectful greetings, Venerables.” They did not respond. A second time and a third time he said the same thing, but they still did not respond.
+103At one time Vaḍḍha the Licchavī was a friend of the bhikkhus Mettiya and Bhūmajaka. On one occasion he went to them and said: “Respectful greetings, Venerables.” They did not respond. A second time and a third time he said the same thing, but they still did not respond.
 
 
 “Have I done something wrong? Why don’t you respond?”
@@ -1074,13 +1074,13 @@ A second and a third time the Buddha asked the same question and got the same re
 
 “Since I was born, Sir, I don’t recall having sexual intercourse even in a dream, let alone when awake.”
 
-The Buddha addressed the monks:
+The Buddha addressed the bhikkhus:
 
 
-“Well then, monks, the Saṅgha should overturn the almsbowl against Vaḍḍha the Licchavī, prohibiting him from interacting with the Saṅgha.
+“Well then, bhikkhus, the Saṅgha should overturn the almsbowl against Vaḍḍha the Licchavī, prohibiting him from interacting with the Saṅgha.
 
 
-106When a lay follower has eight qualities, you should overturn your bowl against him: he’s trying to stop monks from acquiring material gains; he’s trying to harm monks; he’s trying to get monks to lose their place of residence; he abuses and reviles monks; he causes division between monks; he disparages the Buddha; he disparages the Teaching; he disparages the Saṅgha.
+106When a lay follower has eight qualities, you should overturn your bowl against him: he’s trying to stop bhikkhus from acquiring material gains; he’s trying to harm bhikkhus; he’s trying to get bhikkhus to lose their place of residence; he abuses and reviles bhikkhus; he causes division between bhikkhus; he disparages the Buddha; he disparages the Teaching; he disparages the Saṅgha.
 
 And the overturning of the bowl is to be done like this. A competent and capable monk should inform the Saṅgha:
 
@@ -1103,7 +1103,7 @@ And the overturning of the bowl is to be done like this. A competent and capable
 
 110After robing up the following morning, Venerable Ānanda took his bowl and robe, went to the house of Vaḍḍha the Licchavī, and told him: “Vaḍḍha, the Saṅgha has overturned the bowl against you. You’re prohibited from interacting with the Saṅgha.” And Vaḍḍha fainted right there. But Vaḍḍha’s friends and relatives said to him:
 
-“Don’t be sad, Vaḍḍha. We’ll reconcile you with the Buddha and the Saṅgha of monks.”
+“Don’t be sad, Vaḍḍha. We’ll reconcile you with the Buddha and the Saṅgha of bhikkhus.”
 
 
 111Soon afterwards Vaḍḍha, together with his wives and children, together with his friends and relatives, with wet clothes and wet hair, went to the Buddha. He bowed down at the Buddha’s feet and said: “Sir, I’ve made a mistake. I’ve been foolish, confused, and unskillful. Please forgive me so that I may restrain myself in the future.”
@@ -1111,14 +1111,14 @@ And the overturning of the bowl is to be done like this. A competent and capable
 “You have certainly made a mistake. You’ve been foolish, confused, and unskillful. But since you acknowledge your mistake and make proper amends, I forgive you. For this is called growth in the training of the noble ones: acknowledging a mistake, making proper amends, and undertaking restraint in the future.”
 
 
-The Buddha then addressed the monks:
+The Buddha then addressed the bhikkhus:
 
 “Well then, the Saṅgha should turn the almsbowl upright for Vaḍḍha the Licchavī, allowing him to interact with the Saṅgha.
 
 
-112When a lay follower has eight qualities, you should turn your bowl upright for him: he’s not trying to stop monks from acquiring material gains; he’s not trying to harm monks; he’s not trying to get monks to lose their place of residence; he doesn’t abuse or revile monks; he doesn’t cause division between monks; he doesn’t disparage the Buddha; he doesn’t disparage the Teaching; he doesn’t disparage the Saṅgha.
+112When a lay follower has eight qualities, you should turn your bowl upright for him: he’s not trying to stop bhikkhus from acquiring material gains; he’s not trying to harm bhikkhus; he’s not trying to get bhikkhus to lose their place of residence; he doesn’t abuse or revile bhikkhus; he doesn’t cause division between bhikkhus; he doesn’t disparage the Buddha; he doesn’t disparage the Teaching; he doesn’t disparage the Saṅgha.
 
-And the turning of the bowl upright is to be done like this. Vaḍḍha the Licchavī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the monks, squat on his heels, raise his joined palms, and say:
+And the turning of the bowl upright is to be done like this. Vaḍḍha the Licchavī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, the Saṅgha has overturned the bowl against me, prohibiting me from interacting with the Saṅgha. I’m now conducting myself properly and suitably so as to deserve to be released. I ask the Saṅgha to turn the bowl upright for me.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -1144,7 +1144,7 @@ And the turning of the bowl upright is to be done like this. Vaḍḍha the Licc
 At this time Prince Bodhi had recently built the Kokanada stilt house. It had not yet been inhabited by any monastic or brahmin, or anyone else.
 
 
-The Prince said to the young brahmin Sañcikāputta: “My dear Sañcikāputta, please go to the Buddha, bow down in my name with your head at his feet, and ask if he’s healthy, strong, and living at ease. And then say, ‘Sir, please accept tomorrow’s meal, together with the Saṅgha of monks, from Prince Bodhi.’”
+The Prince said to the young brahmin Sañcikāputta: “My dear Sañcikāputta, please go to the Buddha, bow down in my name with your head at his feet, and ask if he’s healthy, strong, and living at ease. And then say, ‘Sir, please accept tomorrow’s meal, together with the Saṅgha of bhikkhus, from Prince Bodhi.’”
 
 Saying: “Yes, Sir,” Sañcikāputta went to the Buddha and exchanged pleasantries with him. He then sat down and told the Buddha all he had been asked to say, concluding with the invitation for the meal on the following day. The Buddha consented by remaining silent. Knowing that the Buddha had consented, Sañcikāputta got up from his seat, returned to the Prince, and told him what had happened.
 
@@ -1156,18 +1156,18 @@ Saying: “Yes, Sir,” Sañcikāputta went to the Buddha and exchanged pleasant
 
 But the Buddha stopped at the bottom stair of that staircase. The Prince said: “Sir, please step on the cloth. It will be for my longterm benefit and happiness.” The Buddha remained silent. A second time the Prince repeated his request, but the Buddha still remained silent. When the Prince made his request for the third time, the Buddha looked at Venerable Ānanda. And Ānanda said to the Prince: “Please fold up the cloth. The Buddha doesn’t step on cloth coverings. He has compassion for later generations.”
 
-119The Prince then had the cloth folded up and had a seat prepared up in the stilt house. The Buddha ascended the house and sat down on the prepared seat together with the Saṅgha of monks. The Prince personally served the various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal and had washed his hands and bowl, the Prince sat down to one side. The Buddha instructed, inspired, and gladdened him with a teaching, after which he got up from his seat and left.
+119The Prince then had the cloth folded up and had a seat prepared up in the stilt house. The Buddha ascended the house and sat down on the prepared seat together with the Saṅgha of bhikkhus. The Prince personally served the various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal and had washed his hands and bowl, the Prince sat down to one side. The Buddha instructed, inspired, and gladdened him with a teaching, after which he got up from his seat and left.
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t step on a cloth covering. If you do, you commit an offense of wrong conduct.”
 
-120On one occasion a woman who was unable to conceive invited the monks, prepared a cloth, and said: “Venerables, please step on the cloth.” But being afraid of wrongdoing, they refused. “Please step on the cloth as a blessing.” They still refused. That woman complained and criticized them: “How can the venerables not step on a cloth as a blessing when asked?” The monks heard the complaints of that woman, and they told the Buddha what had happened.
+120On one occasion a woman who was unable to conceive invited the bhikkhus, prepared a cloth, and said: “Venerables, please step on the cloth.” But being afraid of wrongdoing, they refused. “Please step on the cloth as a blessing.” They still refused. That woman complained and criticized them: “How can the venerables not step on a cloth as a blessing when asked?” The bhikkhus heard the complaints of that woman, and they told the Buddha what had happened.
 
 “Householders want blessings. I allow you, when asked, to step on a cloth covering as a blessing for householders.”
 
 
-121Being afraid of wrongdoing, the monks did not step on a towel after washing their feet.
+121Being afraid of wrongdoing, the bhikkhus did not step on a towel after washing their feet.
 
 “I allow you to step on a towel after washing your feet.”
 
@@ -1189,14 +1189,14 @@ Soon afterwards the Buddha gave a teaching and addressed the monks:
 Soon Visākhā Migāramātā went to the Buddha, taking a water pot, a ceramic foot scrubber, and a broom. She bowed to the Buddha, sat down, and said: “Venerable Sir, for my longterm benefit and happiness, please accept this water pot, foot scrubber, and broom.” The Buddha accepted the water pot and the broom, but not the ceramic foot scrubber. He then instructed, inspired, and gladdened her with a teaching, after which she got up from her seat, bowed down, circumambulated him with her right side toward him, and left.
 
 
-124Soon afterwards the Buddha gave a teaching and addressed the monks:
+124Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow water pots and brooms. But you shouldn’t use a ceramic foot scrubber. If you do, you commit an offense of wrong conduct. I allow three kinds of foot scrubbers: stones, pebbles, and pumice.”
 
 125Visākhā again went to the Buddha, now taking an standard fan and a palm-leaf fan. She bowed, sat down, and said: “Venerable Sir, for my longterm benefit and happiness, please accept this standard fan and this palm-leaf fan.” The Buddha accepted both.
 
 
-126He then instructed, inspired, and gladdened her with a teaching, after which she got up from her seat, bowed, circumambulated him with her right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+126He then instructed, inspired, and gladdened her with a teaching, after which she got up from her seat, bowed, circumambulated him with her right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow standard fans and a palm-leaf fans.”
 
@@ -1215,23 +1215,23 @@ The Saṅgha was offered a yak-tail whisk.
 “I allow sunshades.”
 
 
-129Soon afterwards the monks from the group of six walked about holding sunshades. Then, as a certain Buddhist lay follower and a number of Ājīvaka disciples were going to the park, the Ājīvakas saw those monks in the distance with their sunshades. They said to that lay follower: “These venerables of yours are coming. They’re holding sunshades, just like accountants and government officials.”
+129Soon afterwards the bhikkhus from the group of six walked about holding sunshades. Then, as a certain Buddhist lay follower and a number of Ājīvaka disciples were going to the park, the Ājīvakas saw those bhikkhus in the distance with their sunshades. They said to that lay follower: “These venerables of yours are coming. They’re holding sunshades, just like accountants and government officials.”
 
-“These aren’t monks. They’re wanderers.” And they made a bet on whether they were monks or not.
+“These aren’t bhikkhus. They’re wanderers.” And they made a bet on whether they were bhikkhus or not.
 
-When the monks came close, that lay follower recognized them. And he complained and criticized them: “How can the venerables walk about holding sunshades?” The monks heard the complaints of that lay follower and they told the Buddha.
+When the bhikkhus came close, that lay follower recognized them. And he complained and criticized them: “How can the venerables walk about holding sunshades?” The bhikkhus heard the complaints of that lay follower and they told the Buddha.
 
-“Is it true, monks, that the monks from the group of six are doing this?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“Is it true, bhikkhus, that the bhikkhus from the group of six are doing this?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t use a sunshade. If you do, you commit an offense of wrong conduct.”
 
 
 130Soon afterwards a certain sick monk was not comfortable without a sunshade.
 
-“I allow sick monks to use sunshades.”
+“I allow sick bhikkhus to use sunshades.”
 
 
-131When they heard that the Buddha had allowed sunshades for the sick, but not for the healthy, and being afraid of wrongdoing, the monks did not use sunshades in the monastery or in the vicinity of the monastery.
+131When they heard that the Buddha had allowed sunshades for the sick, but not for the healthy, and being afraid of wrongdoing, the bhikkhus did not use sunshades in the monastery or in the vicinity of the monastery.
 
 “I allow you to use a sunshade in a monastery and in the vicinity of a monastery, even if you’re healthy.”
 
@@ -1246,11 +1246,11 @@ When the monks came close, that lay follower recognized them. And he complained 
 
 132On one occasion a monk put his almsbowl in a carrying net, hung it from a staff, and passed through the gateway to a certain village at an unusual hour. People said: “This must be a gangster coming with his gleaming sword.” They pounced and seized him, but when they recognized him, they let him go.
 
-He returned to the monastery and told the monks what had happened. They said: “So you used a carrying net and a staff?”
+He returned to the monastery and told the bhikkhus what had happened. They said: “So you used a carrying net and a staff?”
 
 “Yes.”
 
-The monks of few desires complained and criticized him: “How can a monk use a carrying net and a staff?” They told the Buddha … “It’s true, Sir.” … After rebuking him … the Buddha gave a teaching and addressed the monks:
+The bhikkhus of few desires complained and criticized him: “How can a monk use a carrying net and a staff?” They told the Buddha … “It’s true, Sir.” … After rebuking him … the Buddha gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t use a carrying net and a staff. If you do, you commit an offense of wrong conduct.”
 
@@ -1260,7 +1260,7 @@ The monks of few desires complained and criticized him: “How can a monk use a 
 “I allow you to give a sick monk permission to use a staff.
 
 
-And it should be given like this. The sick monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+And it should be given like this. The sick monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I’m sick. I’m unable to walk about without a staff. I ask the Saṅgha for permission to use a staff.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -1275,7 +1275,7 @@ And it should be given like this. The sick monk should approach the Saṅgha, pu
 
 “I allow you to give a sick monk permission to use a a carrying-net.
 
-And it should be given like this. The sick monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+And it should be given like this. The sick monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I’m sick. I’m unable to carry my bowl without a carrying-net. I ask the Saṅgha for permission to use a carrying-net.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -1289,7 +1289,7 @@ And it should be given like this. The sick monk should approach the Saṅgha, pu
 
 “I allow you to give a sick monk permission to use a staff and a carrying-net.
 
-And it should be given like this. The sick monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+And it should be given like this. The sick monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I’m sick. I’m unable to walk about without a staff or to carry my bowl without a carrying-net. I ask the Saṅgha to give me permission to use a staff and a carrying-net.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -1299,11 +1299,11 @@ And it should be given like this. The sick monk should approach the Saṅgha, pu
 
 144The Saṅgha has given monk so-and-so permission to use a staff and a carrying-net. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
-145At that time there was a monk who was a regurgitator. After regurgitating, he would swallow. The monks complained and criticized him: “This monk is eating at the wrong time.” They told the Buddha.
+145At that time there was a monk who was a regurgitator. After regurgitating, he would swallow. The bhikkhus complained and criticized him: “This monk is eating at the wrong time.” They told the Buddha.
 
 “This monk has only recently passed away as a cow. I allow a regurgitator to regurgitate. But you shouldn’t take it out of the mouth and then swallow it. If you do, you should be dealt with according to the rule.”
 
-146Soon afterwards a certain association was offering a meal to the Saṅgha. Lots of rice fell on the floor in the dining hall. People complained and criticized them: “When they’re given rice, how can the Sakyan monastics not receive it with care? Each lump of rice is the result of hard work.” The monks heard the complaints of those people. They told the Buddha.
+146Soon afterwards a certain association was offering a meal to the Saṅgha. Lots of rice fell on the floor in the dining hall. People complained and criticized them: “When they’re given rice, how can the Sakyan monastics not receive it with care? Each lump of rice is the result of hard work.” The bhikkhus heard the complaints of those people. They told the Buddha.
 
 “I allow you to pick up and eat what falls down while being given. It has been relinquished by the donors.”
 
@@ -1325,19 +1325,19 @@ And it should be given like this. The sick monk should approach the Saṅgha, pu
 
 “That’s your business, sister.”
 
-Yet that woman did as she had threatened. People rushed up and took hold of that monk. But when they saw the skin and blood on that woman’s nails, they realized she had done it herself, and they released the monk. He then returned to the monastery and told the monks what had happened.
+Yet that woman did as she had threatened. People rushed up and took hold of that monk. But when they saw the skin and blood on that woman’s nails, they realized she had done it herself, and they released the monk. He then returned to the monastery and told the bhikkhus what had happened.
 
 “So you grow your nails long?”
 
 “Yes.”
 
 
-The monks of few desires complained and criticized him: “How can a monk grow his nails long?” They told the Buddha.
+The bhikkhus of few desires complained and criticized him: “How can a monk grow his nails long?” They told the Buddha.
 
 “You shouldn’t grow your nails long. If you do, you commit an offense of wrong conduct.”
 
 
-148Soon afterwards the monks were cutting their nails with their nails and teeth, or by grinding them on walls. Their fingers hurt.
+148Soon afterwards the bhikkhus were cutting their nails with their nails and teeth, or by grinding them on walls. Their fingers hurt.
 
 
 “I allow nail clippers.”
@@ -1347,23 +1347,23 @@ They cut their nails so short that they bled. Their fingers hurt.
 “You should cut your nails so that they’re even with the tip of the flesh.”
 
 
-149At this time the monks from the group of six polished their finger and toe nails. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
+149At this time the bhikkhus from the group of six polished their finger and toe nails. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t polish your finger and toe nails. If you do, you commit an offense of wrong conduct. But I allow you to remove dirt.”
 
 
-150At that time there were monks who had long hair. They told the Buddha.
+150At that time there were bhikkhus who had long hair. They told the Buddha.
 
 “Are you able to shave each other’s heads?”
 
 “We are.”
 
-The Buddha then gave a teaching and addressed the monks:
+The Buddha then gave a teaching and addressed the bhikkhus:
 
 “I allow a razor, a whetstone, a razor case, felt, and all barber equipment.”
 
 
-151At this time the monks from the group of six trimmed their beards, grew their beards long, grew goatees, grew sideburns, removed their chest hair, sculpted their stomach hair, grew mustaches, and removed the hair from their private parts. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
+151At this time the bhikkhus from the group of six trimmed their beards, grew their beards long, grew goatees, grew sideburns, removed their chest hair, sculpted their stomach hair, grew mustaches, and removed the hair from their private parts. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t trim your beards, grow your beard long, grow goatees, grow sideburns, remove your chest hair, sculpt your stomach hair, grow mustaches, or remove the hair from your private parts. If you do, you commit an offense of wrong conduct.”
 
@@ -1371,7 +1371,7 @@ The Buddha then gave a teaching and addressed the monks:
 
 “I allow you to remove hair from the private parts if you have a disease.”
 
-153At that time the monks from the group of six cut their hair with scissors. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
+153At that time the bhikkhus from the group of six cut their hair with scissors. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t cut your hair with scissors. If you do, you commit an offense of wrong conduct.”
 
@@ -1380,16 +1380,16 @@ The Buddha then gave a teaching and addressed the monks:
 “I allow you to cut your hair with scissors if you have a disease.”
 
 
-155At this time there were monks who grew their nasal hair long. People complained and criticized them: “They’re just like goblins!”
+155At this time there were bhikkhus who grew their nasal hair long. People complained and criticized them: “They’re just like goblins!”
 
 “You shouldn’t grow your nasal hair long. If you do, you commit an offense of wrong conduct.”
 
-156The monks had their nasal hair removed with small stones and beeswax. Their noses hurt.
+156The bhikkhus had their nasal hair removed with small stones and beeswax. Their noses hurt.
 
 “I allow tweezers.”
 
 
-157The monks from the group of six had their gray hairs removed. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
+157The bhikkhus from the group of six had their gray hairs removed. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t remove gray hairs. If you do, you commit an offense of wrong conduct.”
 
@@ -1399,7 +1399,7 @@ The Buddha then gave a teaching and addressed the monks:
 “I allow earpicks.”
 
 
-159Soon the monks from the group of six used luxurious earpicks made with gold and silver. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
+159Soon the bhikkhus from the group of six used luxurious earpicks made with gold and silver. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t use luxurious earpicks. If you do, you commit an offense of wrong conduct. I allow earpicks made of bone, ivory, horn, reed, bamboo, wood, resin, fruit, metal, or shell.”
 
@@ -1413,15 +1413,15 @@ The Buddha then gave a teaching and addressed the monks:
 > ```
 
 
-160At one time the monks from the group of six had amassed a large number of metal and bronze goods. When people walking about the dwellings saw this, they complained and criticized them: “How can the Sakyan monastics amass a large number of metal and bronze goods? They’re just like merchants.”
+160At one time the bhikkhus from the group of six had amassed a large number of metal and bronze goods. When people walking about the dwellings saw this, they complained and criticized them: “How can the Sakyan monastics amass a large number of metal and bronze goods? They’re just like merchants.”
 
 “You shouldn’t amass a large number of metal and bronze goods. If you do, you commit an offense of wrong conduct.”
 
-161Being afraid of wrongdoing, the monks did not accept ointment boxes, ointment sticks, earpicks, or even metal used for binding.
+161Being afraid of wrongdoing, the bhikkhus did not accept ointment boxes, ointment sticks, earpicks, or even metal used for binding.
 
 “I allow ointment boxes, ointment sticks, earpicks, and metal used for binding.”
 
-162On one occasion the monks from the group of six were sitting with their upper robes as a back-and-knee strap. The panels of the robes were torn apart.
+162On one occasion the bhikkhus from the group of six were sitting with their upper robes as a back-and-knee strap. The panels of the robes were torn apart.
 
 “You shouldn’t sit with your upper robe as a back-and-knee strap. If you do, you commit an offense of wrong conduct.”
 
@@ -1429,16 +1429,16 @@ The Buddha then gave a teaching and addressed the monks:
 
 “I allow back-and-knee straps.”
 
-The monks thought: “How are the back-and-knee straps to be made?”
+The bhikkhus thought: “How are the back-and-knee straps to be made?”
 
 “I allow a warp, a reed, a weft, a shuttle, and all weaving equipment.”
 
-164On one occasion a monk went to the village for alms without a belt. His sarong fell off on the street. People shouted out, and he felt humiliated. When he had returned to the monastery, he told the monks what had happened. They in turn told the Buddha, who said:
+164On one occasion a monk went to the village for alms without a belt. His sarong fell off on the street. People shouted out, and he felt humiliated. When he had returned to the monastery, he told the bhikkhus what had happened. They in turn told the Buddha, who said:
 
 “You shouldn’t enter an inhabited area without a belt. If you do, you commit an offense of wrong conduct. I allow belts.”
 
 
-165Soon the monks from the group of six wore luxurious belts: belts with multiple strings, belts like the head of a water snake, belts of twisted strings of various colors, belts like ornamental ropes. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
+165Soon the bhikkhus from the group of six wore luxurious belts: belts with multiple strings, belts like the head of a water snake, belts of twisted strings of various colors, belts like ornamental ropes. People complained and criticized them, They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t wear luxurious belts. If you do, you commit an offense of wrong conduct. I allow two kinds of belts: belts made from strips of cloth and from pigs’ intestines.”
 
@@ -1457,21 +1457,21 @@ The loop at the end wore away.
 “I allow buckles.”
 
 
-166Soon the monks from the group of six wore luxurious buckles made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+166Soon the bhikkhus from the group of six wore luxurious buckles made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t wear luxurious buckles. If you do, you commit an offense of wrong conduct. I allow buckles made of bone, ivory, horn, reed, bamboo, wood, resin, fruit, metal, shell, and string.”
 
 
-167On one occasion Venerable Ānanda robed up in light upper robes and went to the village for alms. A whirlwind lifted up his robes. When he had returned to the monastery, he told the monks what had happened. They in turn told the Buddha.
+167On one occasion Venerable Ānanda robed up in light upper robes and went to the village for alms. A whirlwind lifted up his robes. When he had returned to the monastery, he told the bhikkhus what had happened. They in turn told the Buddha.
 
 “I allow toggles and loops.”
 
 
-168Soon the monks from the group of six wore luxurious toggles made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+168Soon the bhikkhus from the group of six wore luxurious toggles made with gold and silver. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t wear luxurious toggles. If you do, you commit an offense of wrong conduct. I allow toggles made of bone, ivory, horn, reed, bamboo, wood, resin, fruit, metal, shell, and string.”
 
-169When the monks fastened toggles and loops to their robes, they caused the robes to wear.
+169When the bhikkhus fastened toggles and loops to their robes, they caused the robes to wear.
 
 “I allow toggle-shields and loop-shields.”
 
@@ -1481,25 +1481,25 @@ They fastened the toggle-shields and the loop-shields on the edge of the robe. T
 “I allow you to fasten the toggle-shields at the edge and the loop-shields twelve or thirteen centimeters in from the edge.”
 
 
-170At this time the monks from the group of six wore their sarongs like householders in the elephant-trunk style, the fish-tail style, the four-corner style, the palm-leaf style, and the hundred-fold style. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+170At this time the bhikkhus from the group of six wore their sarongs like householders in the elephant-trunk style, the fish-tail style, the four-corner style, the palm-leaf style, and the hundred-fold style. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t wear your sarong like householders in the elephant-trunk style, the fish-tail style, the four-corner style, the palm-leaf style, or the hundred-fold style. If you do, you commit an offense of wrong conduct.”
 
-171The monks from the group of six wore their upper robes like householders. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+171The bhikkhus from the group of six wore their upper robes like householders. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t wear your upper robe like householders. If you do, you commit an offense of wrong conduct.”
 
-172The monks from the group of six wore their sarongs like loin cloths. People complained and criticized them: “They’re just like the king’s porters!”
+172The bhikkhus from the group of six wore their sarongs like loin cloths. People complained and criticized them: “They’re just like the king’s porters!”
 
 “You shouldn’t wear your sarong like a loin cloth. If you do, you commit an offense of wrong conduct.”
 
 
-173At that time the monks from the group of six used carrying poles with loads on both ends. People complained and criticized them: “They’re just like the king’s porters!”
+173At that time the bhikkhus from the group of six used carrying poles with loads on both ends. People complained and criticized them: “They’re just like the king’s porters!”
 
 “You shouldn’t use a carrying pole with loads on both ends. If you do, you commit an offense of wrong conduct. I allow a carrying pole with a load on one end, a two-person carrying pole with a load in the middle, loads for the head, loads for the shoulder, loads for the hip, and hanging loads.”
 
 
-174At that time there were monks who did not clean their teeth. As a result, they had bad breath. They told the Buddha.
+174At that time there were bhikkhus who did not clean their teeth. As a result, they had bad breath. They told the Buddha.
 
 175“There are these five disadvantages of not cleaning your teeth: it’s bad for your eyes; you get bad breath; the taste buds aren’t cleansed; bile and phlegm cover the food; you don’t enjoy the food.
 
@@ -1508,29 +1508,29 @@ They fastened the toggle-shields and the loop-shields on the edge of the robe. T
 I allow tooth cleaners.”
 
 
-177The monks from the group of six used long tooth cleaners, which they even used to smack the novices.
+177The bhikkhus from the group of six used long tooth cleaners, which they even used to smack the novices.
 
-“You shouldn’t use long tooth cleaners. If you do, you commit an offense of wrong conduct. I allow tooth cleaners that are a maximum of thirteen centimeters long. And you shouldn’t use them to smack the novice monks. If you do, you commit an offense of wrong conduct.”
+“You shouldn’t use long tooth cleaners. If you do, you commit an offense of wrong conduct. I allow tooth cleaners that are a maximum of thirteen centimeters long. And you shouldn’t use them to smack the novice bhikkhus. If you do, you commit an offense of wrong conduct.”
 
 178On one occasion a monk used a tooth cleaner that was too short and it got stuck in his throat.
 
 “You shouldn’t use tooth cleaners that are too short. If you do, you commit an offense of wrong conduct. You shouldn’t use tooth cleaners shorter than seven centimeters.”
 
 
-179On one occasion the monks from the group of six set fire to a forest. People complained and criticized them: “They’re just like land clearers.”
+179On one occasion the bhikkhus from the group of six set fire to a forest. People complained and criticized them: “They’re just like land clearers.”
 
 “You shouldn’t set fire to a forest. If you do, you commit an offense of wrong conduct.”
 
-180On one occasion the dwellings were overgrown with grass. There was a forest fire and the dwellings burnt down. Being afraid of wrongdoing, the monks had not light a counter-fire for protection.
+180On one occasion the dwellings were overgrown with grass. There was a forest fire and the dwellings burnt down. Being afraid of wrongdoing, the bhikkhus had not light a counter-fire for protection.
 
 “When there is a forest fire, I allow you to light a counter-fire for protection.”
 
-181At that time the monks from the group of six climbed trees and then jumped between them. People complained and criticized them: “They’re just like monkeys!”
+181At that time the bhikkhus from the group of six climbed trees and then jumped between them. People complained and criticized them: “They’re just like monkeys!”
 
 “You shouldn’t climb trees. If you do, you commit an offense of wrong conduct.”
 
 
-182On one occasion a certain monk was walking on a road through the Kosalan country on his way to Sāvatthī when he was blocked by an elephant. He quickly went up to a tree, but being afraid of wrongdoing, he did not climb it. Soon the elephant went away. When he arrived at Sāvatthī, he told the monks what had happened. They in turn told the Buddha.
+182On one occasion a certain monk was walking on a road through the Kosalan country on his way to Sāvatthī when he was blocked by an elephant. He quickly went up to a tree, but being afraid of wrongdoing, he did not climb it. Soon the elephant went away. When he arrived at Sāvatthī, he told the bhikkhus what had happened. They in turn told the Buddha.
 
 “I allow you to climb a tree to the height of a man if there’s something to be done, or as far as you need if there’s an emergency.”
 
@@ -1544,15 +1544,15 @@ I allow tooth cleaners.”
 > ```
 
 
-183At this time there were two monks called Yameḷa and Kekuṭa, brothers born into a brahmin family, who were well-spoken and had good voices. They went to the Buddha, bowed, sat down, and said: “Venerable Sir, the monks now have a variety of names, and come from a variety of families, castes, and households. They corrupt the word of the Buddha by using their own expressions. Now we could give metrical form to the word of the Buddha.”
+183At this time there were two bhikkhus called Yameḷa and Kekuṭa, brothers born into a brahmin family, who were well-spoken and had good voices. They went to the Buddha, bowed, sat down, and said: “Venerable Sir, the bhikkhus now have a variety of names, and come from a variety of families, castes, and households. They corrupt the word of the Buddha by using their own expressions. Now we could give metrical form to the word of the Buddha.”
 
-The Buddha rebuked them: “Foolish men, how can you suggest such a thing? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the monks:
+The Buddha rebuked them: “Foolish men, how can you suggest such a thing? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t give metrical form to the word of the Buddha. If you do, you commit an offense of wrong conduct. You should learn the word of the Buddha using its own expressions.”
 
-184At that time the monks from the group of six were learning cosmology. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!” The monks heard the complaints of those lay people and told the Buddha.
+184At that time the bhikkhus from the group of six were learning cosmology. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!” The bhikkhus heard the complaints of those lay people and told the Buddha.
 
-“Is there any growth and fulfillment on this spiritual path, monks, for one who sees cosmology as the essence?”
+“Is there any growth and fulfillment on this spiritual path, bhikkhus, for one who sees cosmology as the essence?”
 
 “No, Sir.”
 
@@ -1562,19 +1562,19 @@ The Buddha rebuked them: “Foolish men, how can you suggest such a thing? This 
 
 “You shouldn’t learn cosmology. If you do, you commit an offense of wrong conduct.”
 
-185The monks from the group of six taught cosmology. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!” They told the Buddha.
+185The bhikkhus from the group of six taught cosmology. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!” They told the Buddha.
 
 “You shouldn’t teach cosmology. If you do, you commit an offense of wrong conduct.”
 
-186The monks from the group of six studied pointless knowledge. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!” The monks heard the complaints of those lay people and told the Buddha.
+186The bhikkhus from the group of six studied pointless knowledge. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!” The bhikkhus heard the complaints of those lay people and told the Buddha.
 
 “You shouldn’t study pointless knowledge. If you do, you commit an offense of wrong conduct.”
 
-187The monks from the group of six taught pointless knowledge. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
+187The bhikkhus from the group of six taught pointless knowledge. People complained and criticized them: “They’re just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t teach pointless knowledge. If you do, you commit an offense of wrong conduct.”
 
-188On one occasion the Buddha sneezed while teaching a large gathering. The monks made an uproar, saying: “Long live the Buddha!” Because of the noise, the teaching was interrupted. The Buddha said to the monks:
+188On one occasion the Buddha sneezed while teaching a large gathering. The bhikkhus made an uproar, saying: “Long live the Buddha!” Because of the noise, the teaching was interrupted. The Buddha said to the bhikkhus:
 
 “If you say, ‘May you live long!’ to one who sneezes, will they live or die because of that?”
 
@@ -1582,14 +1582,14 @@ The Buddha rebuked them: “Foolish men, how can you suggest such a thing? This 
 
 “You shouldn’t say, ‘May you live long!’ to one who sneezes. If you do, you commit an offense of wrong conduct.”
 
-189At that time when monks sneezed, people said: “May you live long, Venerable!” Being afraid of wrongdoing, the monks did not respond. People complained and criticized them: “How can the Sakyan monastics not respond when spoken to like this?” They told the Buddha.
+189At that time when bhikkhus sneezed, people said: “May you live long, Venerable!” Being afraid of wrongdoing, the bhikkhus did not respond. People complained and criticized them: “How can the Sakyan monastics not respond when spoken to like this?” They told the Buddha.
 
-“Monks, householders want blessings. When householders say, ‘May you live long!’ I allow you to respond with similar words.”
+“bhikkhus, householders want blessings. When householders say, ‘May you live long!’ I allow you to respond with similar words.”
 
 
-190On one occasion when the Buddha was seated teaching a large gathering, there was a monk who had eaten garlic. Not to annoy the other monks, he was sitting at a distance. The Buddha saw him and asked the monks why he was sitting there. The monks told him and the Buddha said,
+190On one occasion when the Buddha was seated teaching a large gathering, there was a monk who had eaten garlic. Not to annoy the other bhikkhus, he was sitting at a distance. The Buddha saw him and asked the bhikkhus why he was sitting there. The bhikkhus told him and the Buddha said,
 
-“Monks, should one eat anything that would stop one from hearing a teaching such as this?”
+“bhikkhus, should one eat anything that would stop one from hearing a teaching such as this?”
 
 “No, Sir.”
 
@@ -1610,7 +1610,7 @@ The Buddha rebuked them: “Foolish men, how can you suggest such a thing? This 
 > ```
 
 
-192At that time there were monks who urinated here and there in the monastery. The monastery became filthy.
+192At that time there were bhikkhus who urinated here and there in the monastery. The monastery became filthy.
 
 “You should urinate in one location.”
 
@@ -1622,7 +1622,7 @@ It was painful to sit there while urinating.
 
 “I allow foot-stands for urinating.”
 
-The foot-stands were unenclosed. The monks were embarrassed to urinate there.
+The foot-stands were unenclosed. The bhikkhus were embarrassed to urinate there.
 
 “I allow three kinds of encircling walls: walls of brick, stone, and wood.”
 
@@ -1631,7 +1631,7 @@ Not being covered, the urine-collection pot was smelly.
 “I allow lids.”
 
 
-193At that time there were monks who defecated here and there in the monastery. The monastery became filthy.
+193At that time there were bhikkhus who defecated here and there in the monastery. The monastery became filthy.
 
 “You should defecate in one location.”
 
@@ -1690,7 +1690,7 @@ Not being covered, the cesspit was smelly.
 “I allow lids.”
 
 
-Because they were defecating outdoors, the monks were wearied by the cold and the heat.
+Because they were defecating outdoors, the bhikkhus were wearied by the cold and the heat.
 
 “I allow restrooms.”
 
@@ -1754,7 +1754,7 @@ It was painful to sit there while rinsing.
 “I allow foot-stands for rinsing.”
 
 
-The foot-stands were unenclosed. The monks were embarrassed to rinse there.
+The foot-stands were unenclosed. The bhikkhus were embarrassed to rinse there.
 
 “I allow three kinds of encircling walls: walls of brick, stone, and wood.”
 
@@ -1772,7 +1772,7 @@ The rinsing-water pot was not covered. Grass, dust, and dirt fell into it.
 > ```
 
 
-195At one time the monks from the group of six were misbehaving in many ways.
+195At one time the bhikkhus from the group of six were misbehaving in many ways.
 
 They planted flowering trees, watered and plucked them, and then tied the flowers together. They made the flowers into garlands, garlands with stalks on one side and garlands with stalks on both sides. They made flower arrangements, wreaths, ornaments for the head, ornaments for the ears, and ornaments for the chest. And they had others do the same. They then took these things, or sent them, to the women, the daughters, the girls, the daughters-in-law, and the female slaves of respectable families.
 
@@ -1782,12 +1782,12 @@ They played various games: eight-row checkers, ten-row checkers, imaginary check
 
 They trained in elephant riding, in horsemanship, in carriage riding, in archery, in swordsmanship. And they ran in front of elephants, horses, and carriages, and they ran backward and forward. They whistled, clapped their hands, wrestled, and boxed. They spread their outer robes on a stage and said to the dancing girls: “Dance here, Sister,” and they made gestures of approval. And they misbehaved in a variety of ways.
 
-They told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+They told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t engage in various kinds of misbehavior If you do, you should be dealt with according to the rule.”
 
 
-196At the time of Venerable Uruvelakassapa’s going forth, the Saṅgha was offered a large number of iron, wooden, and ceramic goods. The monks thought: “Which iron, wooden, and ceramic goods have been allowed by the Buddha, and which not?” They told the Buddha. The Buddha then gave a teaching and addressed the monks:
+196At the time of Venerable Uruvelakassapa’s going forth, the Saṅgha was offered a large number of iron, wooden, and ceramic goods. The bhikkhus thought: “Which iron, wooden, and ceramic goods have been allowed by the Buddha, and which not?” They told the Buddha. The Buddha then gave a teaching and addressed the bhikkhus:
 
 “I allow all iron goods except weapons; all wooden goods except high couches, luxurious couches, wooden almsbowls, and wooden shoes; and all ceramic goods except ceramic foot scrubbers and clay huts.”
 
@@ -1872,7 +1872,7 @@ And shoulder strap, string;
 Unallowable water while travelling,  
 Water filter, cloth.
 
-214Water strainer, two monks,  
+214Water strainer, two bhikkhus,  
 The Sage went to Vesālī;  
 Wooden frame, spreading there,  
 He allowed a filter.

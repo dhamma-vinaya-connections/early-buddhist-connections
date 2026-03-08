@@ -44,12 +44,12 @@ parallels_partilal: "[[SA-2.150]], [[SA925]], [[AN8.14]], [[SA-2.149]], [[SA924]
 ## 🌐 Overview
 
 > [!info] Summary
-> With eight qualities a royal thoroughbred is worthy of a king. Likewise, with eight qualities a mendicant is worthy
+> With eight qualities a royal thoroughbred is worthy of a king. Likewise, with eight qualities a bhikkhu is worthy
 
 > [!info] Key Excerpts 
 > Ethics, contentment, pleasant to live with, disgusted with bad conduct, determined in training, openly shows their tricks, energetic, always walk the noble path,
 > 
-> Mendicant with these eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration
+> bhikkhu with these eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration
 > 
 
 > [!info] Similes

@@ -53,7 +53,7 @@ parallels_partilal: "[[SA-2.6]], [[SA1066]], [[SA275]]"
 > 
 
 > [!info] Similes
-> Field of barley some bad barley, grain is being winnowed, rotten inside trees, like bad behavior mendicant
+> Field of barley some bad barley, grain is being winnowed, rotten inside trees, like bad behavior bhikkhu
 
 ---
 

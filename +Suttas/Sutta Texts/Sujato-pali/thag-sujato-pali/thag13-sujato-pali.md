@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 13: The Group of Thirteen Verses
 
@@ -27,10 +27,10 @@ Soṇa has gone beyond suffering.
 
 633Five to cut, five to drop,  
 and five more to develop.  
-When a mendicant slips five chains  
+When a bhikkhu slips five chains  
 they’re said to have crossed the flood.
 
-634If a monk is insolent and negligent,  
+634If a bhikkhu is insolent and negligent,  
 concerned only with externals,  
 their ethics, immersion, and wisdom  
 do not become fulfilled.
@@ -75,7 +75,7 @@ and you’ve seen the arising of the senses,
 your mind is rightly freed.
 
 642For that one, rightly freed,  
-a mendicant with peaceful mind,  
+a bhikkhu with peaceful mind,  
 there’s nothing to be improved,  
 and nothing more to do.
 

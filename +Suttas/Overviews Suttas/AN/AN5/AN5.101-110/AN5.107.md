@@ -46,7 +46,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant with five factors is worthy of offerings dedicated to the gods,
+> bhikkhu with five factors is worthy of offerings dedicated to the gods,
 
 > [!info] Key Excerpts 
 > They have the entire spectrum of the master’s ethics, immersion, wisdom, freedom, and knowledge and vision of freedom.

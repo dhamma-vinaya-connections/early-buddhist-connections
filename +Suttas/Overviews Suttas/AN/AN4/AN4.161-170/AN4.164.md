@@ -49,7 +49,7 @@ parallels_partilal: "[[AN4.114]], [[AN5.140]]"
 > [!info] Key Excerpts 
 > Impatient practice, patient practice, taming practice, and calming practice.
 > 
-> Calming practice it’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel thought. They don’t tolerate any bad, unskillful qualities
+> Calming practice it’s when a bhikkhu doesn’t tolerate a sensual, malicious, or cruel thought. They don’t tolerate any bad, unskillful qualities
 > 
 
 

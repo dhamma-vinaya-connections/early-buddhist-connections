@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I see two reasons to frequent remote lodgings in the wilderness and the forest. What two? Seeing a happy life for oneself in the present, and having compassion for future generations. I see two reasons to frequent remote lodgings in the wilderness and the forest.”
+1“bhikkhus, I see two reasons to frequent remote lodgings in the wilderness and the forest. What two? Seeing a happy life for oneself in the present, and having compassion for future generations. I see two reasons to frequent remote lodgings in the wilderness and the forest.”
 
 1"Dvāhaṁ, bhikkhave, atthavase sampassamāno araññavanapatthāni pantāni senāsanāni paṭisevāmi. Katame dve? Attano ca diṭṭhadhammasukhavihāraṁ sampassamāno, pacchimañca janataṁ anukampamāno. Ime kho ahaṁ, bhikkhave, dve atthavase sampassamāno araññavanapatthāni pantāni senāsanāni paṭisevāmī"ti.
 

@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Give up bad conduct, develop good conduct give up wrong view, develop right views
 > 
-> Mendicant who has done these things does not fear death in lives to come
+> bhikkhu who has done these things does not fear death in lives to come
 > 
 
 

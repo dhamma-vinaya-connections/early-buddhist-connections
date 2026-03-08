@@ -18,14 +18,14 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Āḷavī at the Aggāḷava Shrine, the monks there were doing building work. And they dug the earth and had it dug. People complained and criticized them, “How can the Sakyan monastics dig the earth and have it dug? They are hurting one-sensed life.”
+1At one time when the Buddha was staying at Āḷavī at the Aggāḷava Shrine, the bhikkhus there were doing building work. And they dug the earth and had it dug. People complained and criticized them, “How can the Sakyan monastics dig the earth and have it dug? They are hurting one-sensed life.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can those monks at Āḷavī dig the earth and have it dug?” … “Is it true, monks, that you do this?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can those bhikkhus at Āḷavī dig the earth and have it dug?” … “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? People regard the earth as conscious. This will affect people’s confidence …” … “And so, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? People regard the earth as conscious. This will affect people’s confidence …” … “And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

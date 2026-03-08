@@ -35,7 +35,7 @@ I have heard that on one occasion Ven. Ānanda was staying near Kosambī in Ghos
 
 “You, venerable sir, teach the Dhamma for the abandoning of passion… aversion… delusion. Your Dhamma is well-taught. You have practiced for the abandoning of passion… aversion… delusion. You have practiced well in this world. Your passion… aversion… delusion is abandoned, its root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. You, in this world, are Well-Gone.
 
-“Magnificent, Master Ānanda! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Ānanda—through many lines of reasoning—made the Dhamma clear. I go to the Buddha for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Ānanda remember me as a lay follower who has gone for refuge from this day forward, for life.”
+“Magnificent, Master Ānanda! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Ānanda—through many lines of reasoning—made the Dhamma clear. I go to the Buddha for refuge, to the Dhamma, & to the Saṅgha of bhikkhus. May Master Ānanda remember me as a lay follower who has gone for refuge from this day forward, for life.”
 
 See also: [[dn16-thanissaro]]; [[an10.94-thanissaro]]
 

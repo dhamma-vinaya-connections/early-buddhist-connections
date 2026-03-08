@@ -20,16 +20,16 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Then after the meal, on return from alms-round, several senior mendicants sat together in the pavilion and this discussion came up among them:
+Then after the meal, on return from alms-round, several senior bhikkhus sat together in the pavilion and this discussion came up among them:
 
 “It’s incredible, reverends, it’s amazing, the power and might of a Realized One! For he is able to know the Buddhas of the past who have become completely extinguished, cut off proliferation, cut off the track, finished off the cycle, and transcended suffering. He knows the caste they were born in, and also their names, clans, conduct, teaching, wisdom, meditation, and freedom.”
 
-When they said this, Venerable Ānanda said: “The Realized Ones are incredible, reverends, and they have incredible qualities. They’re amazing, and they have amazing qualities.” But this conversation among those mendicants was left unfinished.
+When they said this, Venerable Ānanda said: “The Realized Ones are incredible, reverends, and they have incredible qualities. They’re amazing, and they have amazing qualities.” But this conversation among those bhikkhus was left unfinished.
 
 
-2Then in the late afternoon, the Buddha came out of retreat, went to the assembly hall, sat down on the seat spread out, and addressed the mendicants: “Mendicants, what were you sitting talking about just now? What conversation was unfinished?”
+2Then in the late afternoon, the Buddha came out of retreat, went to the assembly hall, sat down on the seat spread out, and addressed the bhikkhus: “bhikkhus, what were you sitting talking about just now? What conversation was unfinished?”
 
-So the mendicants told him what they had been talking about when the Buddha arrived.
+So the bhikkhus told him what they had been talking about when the Buddha arrived.
 
 
 3The Buddha said, “Well then, Ānanda, say some more about the incredible and amazing qualities of the Realized One.”
@@ -82,7 +82,7 @@ In the same way, when the being intent on awakening emerges from his mother’s 
 “Sir, the Buddha knows feelings as they arise, as they remain, and as they go away. He knows perceptions as they arise, as they remain, and as they go away. He knows thoughts as they arise, as they remain, and as they go away. This too I remember as an incredible and amazing quality of the Buddha.”
 
 
-24That’s what Ānanda said, and the teacher approved. Satisfied, those mendicants were happy with what Venerable Ānanda said.
+24That’s what Ānanda said, and the teacher approved. Satisfied, those bhikkhus were happy with what Venerable Ānanda said.
 
 #### Pali
 

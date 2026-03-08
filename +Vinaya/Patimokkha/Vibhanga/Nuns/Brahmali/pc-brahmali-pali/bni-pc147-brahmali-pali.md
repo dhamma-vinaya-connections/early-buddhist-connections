@@ -18,24 +18,24 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six lived with the monk Ariṭṭha, and they did formal meetings and shared a sleeping place with him. Yet they knew that he was saying such things, that he had not made amends according to the rule, and that he had not given up that view.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six lived with the bhikkhu Ariṭṭha, and they did formal meetings and shared a sleeping place with him. Yet they knew that he was saying such things, that he had not made amends according to the rule, and that he had not given up that view.
 
-2The monks of few desires complained and criticized them, “How can the monks from the group of six live, do formal meetings, and share a sleeping place with the monk Ariṭṭha, even though they know that he’s saying such things, that he hasn’t made amends according to the rule, and that he hasn’t given up that view?” …
+2The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six live, do formal meetings, and share a sleeping place with the bhikkhu Ariṭṭha, even though they know that he’s saying such things, that he hasn’t made amends according to the rule, and that he hasn’t given up that view?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk lives, does formal meetings, or shares a sleeping place with a monk who he knows is saying such things, who has not made amends according to the rule, and who has not given up that view, he commits an offense entailing confession.’”
+3‘If a bhikkhu lives, does formal meetings, or shares a sleeping place with a bhikkhu who he knows is saying such things, who has not made amends according to the rule, and who has not given up that view, he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
 5**He knows:** he knows by himself or others have told him or the offender has told him.
@@ -44,20 +44,20 @@ The Buddha rebuked them … “Foolish men, how can you do this? This will affec
 
 7**Who has not made amends according to the rule:** who has been ejected and not reinstated.
 
-8**With a monk who has not given up that view:** with a monk who has not given up this view.
+8**With a bhikkhu who has not given up that view:** with a bhikkhu who has not given up this view.
 
 
 9**Lives with:** there are two types of living together: material living together and spiritual living together. **Material living together:** if he gives or receives material things, he commits an offense entailing confession. **Spiritual living together:** he recites or has the other recite. If he recites or has the other recite by the line, then for every line he commits an offense entailing confession. If he recites or has the other recite by the syllable, then for every syllable he commits an offense entailing confession.
 
 10**Does formal meetings with:** if he does the observance-day ceremony, the invitation ceremony, or a legal procedure with one who has been ejected, he commits an offense entailing confession.
 
-11**Shares a sleeping place with:** under the same ceiling: if the monk lies down when the one who has been ejected is already lying down, he commits an offense entailing confession; if the monk is already lying down when the one who has been ejected lies down, he commits an offense entailing confession; if they both lie down together, he commits an offense entailing confession; every time they get up and then lie down again, he commits an offense entailing confession.
+11**Shares a sleeping place with:** under the same ceiling: if the bhikkhu lies down when the one who has been ejected is already lying down, he commits an offense entailing confession; if the bhikkhu is already lying down when the one who has been ejected lies down, he commits an offense entailing confession; if they both lie down together, he commits an offense entailing confession; every time they get up and then lie down again, he commits an offense entailing confession.
 
 #### Permutations
 
-12If the other monk has been ejected, and he perceives him as such, and he lives or does formal meetings or shares a sleeping place with him, he commits an offense entailing confession. If the other monk has been ejected, but he is unsure of it, and he lives or does formal meetings or shares a sleeping place with him, he commits an offense of wrong conduct. If the other monk has been ejected, but he does not perceive him as such, and he lives or does formal meetings or shares a sleeping place with him, there is no offense.
+12If the other bhikkhu has been ejected, and he perceives him as such, and he lives or does formal meetings or shares a sleeping place with him, he commits an offense entailing confession. If the other bhikkhu has been ejected, but he is unsure of it, and he lives or does formal meetings or shares a sleeping place with him, he commits an offense of wrong conduct. If the other bhikkhu has been ejected, but he does not perceive him as such, and he lives or does formal meetings or shares a sleeping place with him, there is no offense.
 
-If the other monk has not been ejected, but he perceives him as such, he commits an offense of wrong conduct. If the other monk has not been ejected, but he is unsure of it, he commits an offense of wrong conduct. If the other monk has not been ejected, and he does not perceive him as such, there is no offense.
+If the other bhikkhu has not been ejected, but he perceives him as such, he commits an offense of wrong conduct. If the other bhikkhu has not been ejected, but he is unsure of it, he commits an offense of wrong conduct. If the other bhikkhu has not been ejected, and he does not perceive him as such, there is no offense.
 
 #### Non-offenses
 

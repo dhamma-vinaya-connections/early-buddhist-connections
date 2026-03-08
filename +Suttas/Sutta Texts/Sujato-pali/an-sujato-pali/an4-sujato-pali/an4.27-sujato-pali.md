@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four trifles are easy to get hold of and are blameless. What four?
+1“bhikkhus, these four trifles are easy to get hold of and are blameless. What four?
 
 Rag-robes … A lump of alms-food … Lodgings at the root of a tree … Fermented urine as medicine …
 
 
-These four trifles are easy to get hold of and are blameless. When a mendicant is content with trifles that are easy to get hold of, they have one of the factors of the ascetic life, I say.
+These four trifles are easy to get hold of and are blameless. When a bhikkhu is content with trifles that are easy to get hold of, they have one of the factors of the ascetic life, I say.
 
 
 2Dissatisfaction doesn’t prevail over a wise one;  

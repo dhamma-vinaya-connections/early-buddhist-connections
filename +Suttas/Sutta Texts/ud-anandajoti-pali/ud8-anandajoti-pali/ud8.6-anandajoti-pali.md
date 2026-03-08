@@ -18,9 +18,9 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was walking on walking tour amongst the Magadhans with a great Community of monks, and arrived at Pāṭaligāma.
+1Thus I heard: At one time the Gracious One was walking on walking tour amongst the Magadhans with a great Community of bhikkhus, and arrived at Pāṭaligāma.
 
-The lay followers of Pāṭaligāma heard: "The Gracious One, it seems, is walking on walking tour amongst the Magadhans with a great Community of monks, and has arrived at Pāṭaligāma."
+The lay followers of Pāṭaligāma heard: "The Gracious One, it seems, is walking on walking tour amongst the Magadhans with a great Community of bhikkhus, and has arrived at Pāṭaligāma."
 
 Then the lay followers of Pāṭaligāma went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side the lay followers of Pāṭaligāma said this to the Gracious One: "May the Gracious One consent, reverend Sir, to stay in our rest house." The Gracious One consented by maintaining silence.
 
@@ -28,7 +28,7 @@ Then the lay followers of Pāṭaligāma went to the Gracious One, and after goi
 
 While stood on one side the lay followers of Pāṭaligāma said this to the Gracious One: "The rest house is spread with mats all over, reverend Sir, the seats are prepared, the water-pot is set up, and the oil-lamp is lit, now is the time for whatever the Gracious One is thinking, reverend Sir."
 
-3Then the Gracious One, having dressed, after picking up his bowl and robe, together with the Community of monks, went to the rest house, and after going, washing his feet, and entering the rest house, he sat down near to the middle pillar, facing the East, and the Community of monks, having washed their feet, and entering the rest house, sat down near the West wall, facing the East, having the Gracious One at the front. Also the lay followers of Pāṭaligāma, having washed their feet, entered the rest house, sat down near the East wall, facing the West, having the Gracious One at the front.Then the Gracious One addressed the lay followers of Pāṭaligāma, saying:
+3Then the Gracious One, having dressed, after picking up his bowl and robe, together with the Community of bhikkhus, went to the rest house, and after going, washing his feet, and entering the rest house, he sat down near to the middle pillar, facing the East, and the Community of bhikkhus, having washed their feet, and entering the rest house, sat down near the West wall, facing the East, having the Gracious One at the front. Also the lay followers of Pāṭaligāma, having washed their feet, entered the rest house, sat down near the East wall, facing the West, having the Gracious One at the front.Then the Gracious One addressed the lay followers of Pāṭaligāma, saying:
 
 ---
 
@@ -80,13 +80,13 @@ While stood on one side the lay followers of Pāṭaligāma said this to the Gra
 
 ---
 
-18Then the Magadhan chief ministers Sunīdha and Vassakāra went to the Gracious One, and after going, they exchanged greetings with the Gracious One and after exchanging courteous talk and greetings, they stood on one side. While stood on one side the Magadhan chief ministers Sunīdha and Vassakāra said this to the Gracious One: "May Gotama consent, dear Sir, to us offering him a meal today, together with the Community of monks." The Gracious One consented by maintaining silence.
+18Then the Magadhan chief ministers Sunīdha and Vassakāra went to the Gracious One, and after going, they exchanged greetings with the Gracious One and after exchanging courteous talk and greetings, they stood on one side. While stood on one side the Magadhan chief ministers Sunīdha and Vassakāra said this to the Gracious One: "May Gotama consent, dear Sir, to us offering him a meal today, together with the Community of bhikkhus." The Gracious One consented by maintaining silence.
 
 19Then the Magadhan chief ministers Sunīdha and Vassakāra having understood the Gracious One's consent, went to their own dwelling, and after going, in their own dwellings having had excellent comestibles and edibles made ready, announced the time to the Gracious One, saying: "It is time, dear Gotama, the meal is ready."
 
-20Then the Gracious One, having dressed in the morning time, after picking up his bowl and robe, together with the Community of monks, went to the dwelling of the Magadhan chief ministers Sunīdha and Vassakāra, and after going, he sat down on the prepared seat.
+20Then the Gracious One, having dressed in the morning time, after picking up his bowl and robe, together with the Community of bhikkhus, went to the dwelling of the Magadhan chief ministers Sunīdha and Vassakāra, and after going, he sat down on the prepared seat.
 
-Then the Magadhan chief ministers Sunīdha and Vassakāra with their own hands served and satisfied the Community of monks with the Buddha at its head with excellent comestibles and edibles.
+Then the Magadhan chief ministers Sunīdha and Vassakāra with their own hands served and satisfied the Community of bhikkhus with the Buddha at its head with excellent comestibles and edibles.
 
 21Then the Magadhan chief ministers Sunīdha and Vassakāra, when the Gracious One had eaten and washed his hand and bowl, having taken a low seat, sat down on one side. While sat on one side the Gracious One rejoiced the Magadhan chief ministers Sunīdha and Vassakāra with these verses:
 
@@ -108,7 +108,7 @@ always sees what is auspicious."
 
 27Then that gate by which the Gracious One left got the name the Gotama Gate, then the Gracious One went to the river Gaṅgā. Then at that time the river Gaṅgā was full to the brim, and could be drunk from by crows perched on the bank. Some of the people were seeking boats, some were seeking floats, and some were binding rafts, desiring to go from this shore to the shore beyond.
 
-Then the Gracious One, just as a strong man might stretch out a bent arm, or bend in an outstretched arm, so did he vanish from the near bank of the river Gaṅgā, and reappeared on the far bank, together with the Community of monks.
+Then the Gracious One, just as a strong man might stretch out a bent arm, or bend in an outstretched arm, so did he vanish from the near bank of the river Gaṅgā, and reappeared on the far bank, together with the Community of bhikkhus.
 
 28The Gracious One saw those people, some seeking boats, some seeking floats, and some binding rafts, desiring to go from this shore to the shore beyond.
 

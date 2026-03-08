@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time a brahmin had a barley field next to the nuns’ dwelling place. The nuns disposed of feces, urine, trash, and food scraps in that field. The brahmin complained and criticized them, “How could the nuns spoil my barley field?”
 
-2The nuns heard the complaints of that brahmin, and the nuns of few desires complained and criticized them, “How could nuns dispose of feces, urine, trash, and food scraps on cultivated plants?” … “Is it true, monks, that nuns did this?”
+2The nuns heard the complaints of that brahmin, and the nuns of few desires complained and criticized them, “How could nuns dispose of feces, urine, trash, and food scraps on cultivated plants?” … “Is it true, bhikkhus, that nuns did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them, “How could nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them, “How could nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

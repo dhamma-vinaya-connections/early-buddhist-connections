@@ -160,7 +160,7 @@ When I said this, she said to me, ‘It’s the wrong time to see the Buddha, as
 28Right here in Kapilavatthu there was a Sakyan lady named Gopikā who had confidence in the Buddha, the teaching, and the Saṅgha, and had fulfilled her ethics. Losing her attachment to femininity, she developed masculinity. When her body broke up, after death, she was reborn in a good place, a heavenly realm. In the company of the gods of the Thirty-Three she became one of my sons. There they knew him as the god Gopaka.
 
 
-Meanwhile three others, mendicants who had led the spiritual life under the Buddha, were reborn in the inferior fairy realm. There they amused themselves, supplied and provided with the five kinds of sensual stimulation, and became my servants and attendants.
+Meanwhile three others, bhikkhus who had led the spiritual life under the Buddha, were reborn in the inferior fairy realm. There they amused themselves, supplied and provided with the five kinds of sensual stimulation, and became my servants and attendants.
 
 
 At that, Gopaka scolded them, ‘Where on earth were you at, good sirs, when you heard the Buddha’s teaching! For while I was still a woman I had confidence in the Buddha, the teaching, and the Saṅgha, and had fulfilled my ethics. I lost my attachment to femininity and developed masculinity. When my body broke up, after death, I was reborn in a good place, a heavenly realm. In the company of the gods of the Thirty-Three I became one of Sakka’s sons. Here they know me as the god Gopaka. But you, having led the spiritual life under the Buddha, were reborn in the inferior fairy realm.’
@@ -178,7 +178,7 @@ I’m now a mighty, splendid son of Sakka,
 reborn among the Three and Thirty.  
 And here they know me as Gopaka.
 
-31Then I saw some mendicants who I’d seen before,  
+31Then I saw some bhikkhus who I’d seen before,  
 dwelling in the host of fairies.  
 When I used to be a human,  
 they were disciples of Gotama.
@@ -308,7 +308,7 @@ Such was the Buddha’s answer to Sakka. Delighted, Sakka approved and agreed wi
 “Concepts of identity that emerge from the proliferation of perceptions are the source of thoughts.”
 
 
-59“But how does a mendicant fittingly practice for the cessation of concepts of identity that emerge from the proliferation of perceptions?”
+59“But how does a bhikkhu fittingly practice for the cessation of concepts of identity that emerge from the proliferation of perceptions?”
 
 #### 2.2. Meditation on Feelings
 
@@ -320,7 +320,7 @@ Such was the Buddha’s answer to Sakka. Delighted, Sakka approved and agreed wi
 
 63Why did I say that there are two kinds of equanimity? Take an equanimity of which you know: ‘When I cultivate this kind of equanimity, unskillful qualities grow, and skillful qualities decline.’ You should not cultivate that kind of equanimity. Take an equanimity of which you know: ‘When I cultivate this kind of equanimity, unskillful qualities decline, and skillful qualities grow.’ You should cultivate that kind of equanimity. And that which is free of thinking and considering is better than that which still involves thinking and considering. That’s why I said there are two kinds of equanimity.
 
-64That’s how a mendicant fittingly practices for the cessation of concepts of identity that emerge from the proliferation of perceptions.”
+64That’s how a bhikkhu fittingly practices for the cessation of concepts of identity that emerge from the proliferation of perceptions.”
 
 Such was the Buddha’s answer to Sakka. Delighted, Sakka approved and agreed with what the Buddha said, saying: “That’s so true, Blessed One! That’s so true, Holy One!
 
@@ -331,7 +331,7 @@ Hearing the Buddha’s answer, I’ve gone beyond doubt and got rid of indecisio
 65And then Sakka asked another question:
 
 
-66“But dear sir, how does a mendicant practice for restraint in the monastic code?”
+66“But dear sir, how does a bhikkhu practice for restraint in the monastic code?”
 
 “Lord of gods, I say that there are two kinds of bodily behavior: that which you should cultivate, and that which you should not cultivate. I say that there are two kinds of verbal behavior: that which you should cultivate, and that which you should not cultivate. There are two kinds of search, I say: that which you should cultivate, and that which you should not cultivate.
 
@@ -342,7 +342,7 @@ Hearing the Buddha’s answer, I’ve gone beyond doubt and got rid of indecisio
 69Why did I say that there are two kinds of search? You should not cultivate the kind of search which causes unskillful qualities to grow while skillful qualities decline. And you should cultivate the kind of search which causes unskillful qualities to decline while skillful qualities grow. That’s why I said there are two kinds of search.
 
 
-70That’s how a mendicant practices for restraint in the monastic code.”
+70That’s how a bhikkhu practices for restraint in the monastic code.”
 
 Such was the Buddha’s answer to Sakka. Delighted, Sakka approved and agreed with what the Buddha said, saying: “That’s so true, Blessed One! That’s so true, Holy One!
 
@@ -353,7 +353,7 @@ Hearing the Buddha’s answer, I’ve gone beyond doubt and got rid of indecisio
 71And then Sakka asked another question:
 
 
-72“But dear sir, how does a mendicant practice for restraint of the sense faculties?”
+72“But dear sir, how does a bhikkhu practice for restraint of the sense faculties?”
 
 “Lord of gods, I say that there are two kinds of sight known by the eye: that which you should cultivate, and that which you should not cultivate. There are two kinds of sound known by the ear … smells known by the nose … tastes known by the tongue … touches known by the body … thoughts known by the mind: that which you should cultivate, and that which you should not cultivate.”
 
@@ -385,7 +385,7 @@ Hearing the Buddha’s answer, I’ve gone beyond doubt and got rid of indecisio
 
 80“Why not?”
 
-“Those mendicants who are freed through the ending of craving have reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal. That’s why not all ascetics and brahmins have reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal.”
+“Those bhikkhus who are freed through the ending of craving have reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal. That’s why not all ascetics and brahmins have reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal.”
 
 
 81Such was the Buddha’s answer to Sakka. Delighted, Sakka approved and agreed with what the Buddha said, saying: “That’s so true, Blessed One! That’s so true, Holy One! Hearing the Buddha’s answer, I’ve gone beyond doubt and got rid of indecision.”

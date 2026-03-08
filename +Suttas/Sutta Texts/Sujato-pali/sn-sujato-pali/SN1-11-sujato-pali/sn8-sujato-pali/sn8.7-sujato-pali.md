@@ -20,17 +20,17 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother, together with a large Saṅgha of around five hundred monks, all of whom were perfected ones. Now, at that time it was the sabbath — the full moon on the fifteenth day — and the Buddha was sitting in the open surrounded by the Saṅgha of monks for the invitation to admonish.
+1At one time the Buddha was staying near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother, together with a large Saṅgha of around five hundred bhikkhus, all of whom were perfected ones. Now, at that time it was the sabbath — the full moon on the fifteenth day — and the Buddha was sitting in the open surrounded by the Saṅgha of bhikkhus for the invitation to admonish.
 
-Then the Buddha looked around the Saṅgha of monks, who were so very silent. He addressed them: “Come now, monks, I invite you all: Is there anything I’ve done by way of body or speech that you would criticize?”
+Then the Buddha looked around the Saṅgha of bhikkhus, who were so very silent. He addressed them: “Come now, bhikkhus, I invite you all: Is there anything I’ve done by way of body or speech that you would criticize?”
 
 2When he had spoken, Venerable Sāriputta got up from his seat, arranged his robe over one shoulder, raised his joined palms toward the Buddha, and said: “There is nothing, sir, that you’ve done by way of body or speech that we would criticize. For the Blessed One is the one who gave rise to the unarisen path, who gave birth to the unborn path, who explained the unexplained path. He is the knower of the path, the discoverer of the path, the expert on the path. And now the disciples live following the path; they acquire it later. And sir, I invite the Blessed One. Is there anything I’ve done by way of body or speech that you would criticize?”
 
 3“There is nothing, Sāriputta, that you’ve done by way of body or speech that I would criticize. Sāriputta, you are astute. You have great wisdom, widespread wisdom, laughing wisdom, swift wisdom, sharp wisdom, penetrating wisdom. A wheel-turning monarch’s oldest son rightly keeps wielding the power set in motion by his father. In the same way, Sāriputta rightly keeps rolling the supreme Wheel of Dhamma that was rolled forth by me.”
 
-4“Since it seems I have done nothing worthy of the Blessed One’s criticism, is there anything these five hundred monks have done by way of body or speech that you would criticize?”
+4“Since it seems I have done nothing worthy of the Blessed One’s criticism, is there anything these five hundred bhikkhus have done by way of body or speech that you would criticize?”
 
-“There is nothing, Sāriputta, that these five hundred monks have done by way of body or speech that I would criticize. For of these five hundred monks, sixty have the three knowledges, sixty have the six direct knowledges, sixty are freed both ways, and the rest are freed by wisdom.”
+“There is nothing, Sāriputta, that these five hundred bhikkhus have done by way of body or speech that I would criticize. For of these five hundred bhikkhus, sixty have the three knowledges, sixty have the six direct knowledges, sixty are freed both ways, and the rest are freed by wisdom.”
 
 5Then Venerable Vaṅgīsa got up from his seat, arranged his robe over one shoulder, raised his joined palms toward the Buddha, and said: “I feel inspired to speak, Blessed One! I feel inspired to speak, Holy One!”
 
@@ -40,7 +40,7 @@ Then Vaṅgīsa extolled the Buddha in his presence with fitting verses:
 
 
 6“Today, on the fifteenth day sabbath,  
-five hundred monks have gathered together to purify their precepts.  
+five hundred bhikkhus have gathered together to purify their precepts.  
 These untroubled sages have cut off their fetters and bonds,  
 they will not be reborn again.
 

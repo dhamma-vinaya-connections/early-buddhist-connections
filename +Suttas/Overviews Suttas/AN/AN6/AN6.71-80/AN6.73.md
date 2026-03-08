@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Six qualities that enable a mendicant to gain the first absorption
+> Six qualities that enable a bhikkhu to gain the first absorption
 
 > [!info] Key Excerpts 
 > Give up desire for sensual pleasures, ill will, dullness and drowsiness, restlessness and remorse, and doubt. And Truly see the  drawbacks of sensual pleasures

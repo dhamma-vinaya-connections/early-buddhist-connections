@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these seven planes of consciousness. What seven?
+1“bhikkhus, there are these seven planes of consciousness. What seven?
 
 There are sentient beings that are diverse in body and diverse in perception, such as human beings, some gods, and some beings in the underworld. This is the first plane of consciousness.
 

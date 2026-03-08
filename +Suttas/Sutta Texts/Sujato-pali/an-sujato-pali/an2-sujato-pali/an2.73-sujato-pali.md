@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two kinds of happiness. What two? The happiness of immersion and the happiness without immersion. These are the two kinds of happiness. The better of these two kinds of happiness is the happiness of immersion.”
+1“There are, bhikkhus, these two kinds of happiness. What two? The happiness of immersion and the happiness without immersion. These are the two kinds of happiness. The better of these two kinds of happiness is the happiness of immersion.”
 
 1 "Dvemāni, bhikkhave, sukhāni. Katamāni dve? Samādhisukhañca asamādhisukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ sukhānaṁ yadidaṁ samādhisukhan"ti.
 

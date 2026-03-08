@@ -20,13 +20,13 @@ language: "English - Pali"
 
 1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery.
 
-Then at that time a certain monk was sitting not far away from the Gracious One, and after folding his legs crosswise, and setting his body straight, he was bearing painful, sharp, harsh, and bitter feelings, that had arisen as a result of former unwholesome deeds, mindfully, with full awareness, and without being troubled.
+Then at that time a certain bhikkhu was sitting not far away from the Gracious One, and after folding his legs crosswise, and setting his body straight, he was bearing painful, sharp, harsh, and bitter feelings, that had arisen as a result of former unwholesome deeds, mindfully, with full awareness, and without being troubled.
 
-2The Gracious One saw that monk sitting not far away, who after folding his legs crosswise, and setting his body straight, was bearing painful, sharp, harsh, and severe feelings, that had arisen as a result of former unwholesome deeds, mindfully, with full awareness, and without being troubled.
+2The Gracious One saw that bhikkhu sitting not far away, who after folding his legs crosswise, and setting his body straight, was bearing painful, sharp, harsh, and severe feelings, that had arisen as a result of former unwholesome deeds, mindfully, with full awareness, and without being troubled.
 
 3Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 
-4"For the monk who has given up all deeds,  
+4"For the bhikkhu who has given up all deeds,  
 For he who is throwing off the dust of what was done before,  
 For he who is unselfish, stable, such-like,  
 There is no need to speak to people."

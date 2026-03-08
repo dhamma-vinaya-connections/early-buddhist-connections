@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these seven people are worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and are the supreme field of merit for the world. What seven? First, take a person who meditates observing suffering in all conditions. They perceive suffering and experience suffering. Constantly, continually, and without stopping, they apply the mind and fathom with wisdom. …”
+1“bhikkhus, these seven people are worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and are the supreme field of merit for the world. What seven? First, take a person who meditates observing suffering in all conditions. They perceive suffering and experience suffering. Constantly, continually, and without stopping, they apply the mind and fathom with wisdom. …”
 
 1Sattime, bhikkhave, puggalā āhuneyyā … pe … anuttaraṁ puññakkhettaṁ lokassa. Katame satta? Idha, bhikkhave, ekacco puggalo sabbasaṅkhāresu dukkhānupassī viharati … pe … .
 

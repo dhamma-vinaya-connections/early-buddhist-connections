@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these seven people are worthy of offerings … What seven?
+1“bhikkhus, these seven people are worthy of offerings … What seven?
 
 First, take a person who meditates observing suffering in the eye. … observing not-self in the eye. … observing ending in the eye. … observing vanishing in the eye. … observing fading away in the eye. … observing cessation in the eye. … observing letting go in the eye. …
 

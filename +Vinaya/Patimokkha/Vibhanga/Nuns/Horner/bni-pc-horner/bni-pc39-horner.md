@@ -13,13 +13,13 @@ language: "English"
 
 “How can these nuns … during the rains … bringing many small creatures to destruction?” …
 
-“Is it true, as is said, monks, that nuns … during the rains … bringing many small creatures to destruction?”
+“Is it true, as is said, bhikkhus, that nuns … during the rains … bringing many small creatures to destruction?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns walk on almstour during the rains … bringing many small creatures to destruction? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns walk on almstour during the rains … bringing many small creatures to destruction? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should walk on almstour during the rains, there is an offence of expiation.” *Vin.4.297*
 

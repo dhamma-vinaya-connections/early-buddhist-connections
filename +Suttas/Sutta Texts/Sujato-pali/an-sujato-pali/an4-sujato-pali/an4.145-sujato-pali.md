@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four lamps. What four? The lamps of the moon, sun, fire, and wisdom. These are the four lamps. The best of these four lamps is the lamp of wisdom.”
+1“bhikkhus, there are these four lamps. What four? The lamps of the moon, sun, fire, and wisdom. These are the four lamps. The best of these four lamps is the lamp of wisdom.”
 
 1"Cattārome, bhikkhave, pajjotā. Katame cattāro? Candapajjoto, sūriyapajjoto, aggipajjoto, paññāpajjoto – ime kho, bhikkhave, cattāro pajjotā. Etadaggaṁ, bhikkhave, imesaṁ catunnaṁ pajjotānaṁ yadidaṁ paññāpajjoto"ti.
 

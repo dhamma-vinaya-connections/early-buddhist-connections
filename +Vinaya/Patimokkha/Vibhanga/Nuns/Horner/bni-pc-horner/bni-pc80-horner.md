@@ -11,9 +11,9 @@ language: "English"
 
 *Bi-Pc.80.1.1* *BD.3.394* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the nun Thullanandā ordained a probationer without the consent of the parents and husband. The parents and the husband … spread it about, saying : “How can the lady Thullanandā ordain the probationer without our consent?” Nuns heard the parents and the husband who … spread it about. Those who were modest nuns … spread it about, saying : “How can the lady Thullanandā ordain a probationer without the consent of the parents and husband?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā ordained … and husband?” “It is true, lord.”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā ordained … and husband?” “It is true, lord.”
 
-The enlightened one, the lord, rebuked them, saying: “How, monks, can the nun Thullanandā ordain a probationer … and husband? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training: *Vin.4.335*
+The enlightened one, the lord, rebuked them, saying: “How, bhikkhus, can the nun Thullanandā ordain a probationer … and husband? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training: *Vin.4.335*
 
 “Whatever nun should ordain a probationer without the consent of the parents and husband, there is an offence of expiation.”[^1]
 

@@ -21,7 +21,7 @@ language: "English"
 
 #### 1. Purifying Knowledge and Vision
 
-2. It was then that the Bhagavān addressed the monks, “Before I had awakened to the unsurpassed and correct awakening, I had the thought, ‘I’d like to be able to produce their light. As a result of their light, I’ll see shapes and forms. Thus, my knowledge and vision will be fully and radiantly purified.’
+2. It was then that the Bhagavān addressed the bhikkhus, “Before I had awakened to the unsurpassed and correct awakening, I had the thought, ‘I’d like to be able to produce their light. As a result of their light, I’ll see shapes and forms. Thus, my knowledge and vision will be fully and radiantly purified.’
 
 3. “In order for knowledge and vision to be fully and radiantly purified, I lived alone in seclusion, my mind wasn’t careless, and I cultivated diligence. As a result of living alone in seclusion, not being careless, and cultivating diligence, I apprehended light and then saw forms. That was before I had met with those gods, before we exchanged greetings, before any conversation, and before any reply.
 
@@ -73,7 +73,7 @@ language: "English"
 
 19. “If I rightly knew and attained these eight practices, then I could thoroughly declare their attainment. I knew I had awakened to the unsurpassed and correct awakening. I had gone beyond this world’s gods, Māra, Brahmā, ascetics, and priests. I was liberated by various liberations. My mind was free of delusions. I also truly knew: ‘Birth has been ended, the religious practice has been established, the task has been accomplished, and I will not again be subject to existence.’”
 
-20. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+20. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

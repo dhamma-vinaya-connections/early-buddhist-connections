@@ -59,13 +59,13 @@ he looks just a plough’s length in front.
 411 Eyes downcast, mindful,  
 unlike one from a low family.  
 Let the king’s messengers run out,  
-and find where the mendicant will go.’
+and find where the bhikkhu will go.’
 
 Messenger
 
 412 The messengers sent out  
 followed right behind, thinking  
-‘Where will the mendicant go?  
+‘Where will the bhikkhu go?  
 Where shall he find a place to stay?’
 
 413 Wandering indiscriminately for alms,  
@@ -89,7 +89,7 @@ to inform the king.
 
 Messenger
 
-416 ‘Great king, the mendicant  
+416 ‘Great king, the bhikkhu  
 is on the east flank of Mount Paṇḍava.  
 There he sits, like a tiger or a bull,  
 like a lion in a mountain cave.’

@@ -21,14 +21,14 @@ language: "Pali - English"
 2The nuns of few desires complained and criticized her, “How could the nun Caṇḍakāḷī say this in anger?
 
 
-… “Is it true, monks, that the nun Caṇḍakāḷī said this in anger?”
+… “Is it true, bhikkhus, that the nun Caṇḍakāḷī said this in anger?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“How could the nun Caṇḍakāḷī say this in anger? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How could the nun Caṇḍakāḷī say this in anger? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -58,7 +58,7 @@ That nun, even if she has to be pulled into the Sangha, should be corrected like
 
 They should correct her a second and a third time. If she stops, all is well. If she does not stop, she commits an offense of wrong conduct.
 
-“And, monks, she should be pressed like this. A competent and capable nun should inform the Sangha:
+“And, bhikkhus, she should be pressed like this. A competent and capable nun should inform the Sangha:
 
 
 9‘Please, Venerables, I ask the Sangha to listen. The nun so-and-so says this in anger: “I renounce the Buddha, I renounce the Teaching, I renounce the Sangha, I renounce the training! The Sakyan daughters are not the only monastics. There are other monastics who have a sense of conscience, who are afraid of wrongdoing and fond of the training. I’ll practice the spiritual life with them.” And she keeps on saying it. If it seems appropriate to the Sangha, the Sangha should press her to make her stop. This is the motion.

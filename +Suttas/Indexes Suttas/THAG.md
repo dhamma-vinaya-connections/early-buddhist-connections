@@ -65,7 +65,7 @@ contribution:
 > [!example]- 🌐[[THAG10]] - 📜[Available texts](obsidian://search?query=file:thag10-) - Dasakanipātavagga – Tens Book 
 >  Come now, I’ll go alone
 >  to the wilderness praised by the Buddha.
->  It’s pleasant for a mendicant
+>  It’s pleasant for a bhikkhu
 >  to be dwelling alone and resolute.
 ### THAG11 - Ekādasakanipātavagga - Elevens Book
 > [!example]- 🌐[[THAG11]] - 📜[Available texts](obsidian://search?query=file:thag11-) - Ekādasakanipātavagga – Elevens Book 
@@ -112,7 +112,7 @@ contribution:
 >  diligent
 >  as per their intentions and meditation,
 >  happy inside, serene, solitary, contented:
->  that is what they call a mendicant
+>  that is what they call a bhikkhu
 
 > [!example]- 🌐[[THAG17]] - 📜[Available texts](obsidian://search?query=file:thag17-) - Tiṁsanipātavagga – Thirties Book 
 >  One who’s mindful
@@ -120,7 +120,7 @@ contribution:
 >  diligent
 >  as per their intentions and meditation,
 >  happy inside, serene, solitary, contented:
->  that is what they call a mendicant
+>  that is what they call a bhikkhu
 ### THAG18 - Paññāsanipātavagga - Fifties Book
 > [!example]- 🌐[[THAG18]] - 📜[Available texts](obsidian://search?query=file:thag18-) - Paññāsanipātavagga – Fifties Book 
 >  Oh, when will I stay happily in the forest,

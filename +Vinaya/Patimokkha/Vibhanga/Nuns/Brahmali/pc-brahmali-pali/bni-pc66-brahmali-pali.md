@@ -22,14 +22,14 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized them, “How can nuns give the full admission to married girls who are more than twelve years old, but who haven’t trained for two years in the six rules?” …
 
-“Is it true, monks, that nuns do this?”
+“Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
-“Monks, approval is required for a married girl who is more than twelve years old to train in the six rules for two years.
+“bhikkhus, approval is required for a married girl who is more than twelve years old to train in the six rules for two years.
 
 
 And the approval is to be given like this. After approaching the Sangha of nuns, that married girl who is more than twelve years old should arrange her upper robe over one shoulder and pay respect at the feet of the nuns. She should then squat on her heels, raise her joined palms, and say,
@@ -48,7 +48,7 @@ A competent and capable nun should then inform the Sangha:
 
 6That married girl, who is more than twelve years old, should be told to say this: ‘I undertake to abstain from killing living beings for two years without transgression. … I undertake to abstain from eating at the wrong time for two years without transgression.’”
 
-7Then, after rebuking those nuns in many ways, the Buddha spoke in dispraise of being difficult to support … “And, monks, the nuns should recite this training rule like this:
+7Then, after rebuking those nuns in many ways, the Buddha spoke in dispraise of being difficult to support … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

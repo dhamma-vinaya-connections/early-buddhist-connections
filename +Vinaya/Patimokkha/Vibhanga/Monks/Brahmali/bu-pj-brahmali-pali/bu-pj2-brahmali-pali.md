@@ -18,7 +18,7 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time the Buddha was staying at Rājagaha on the Vulture Peak. At that time a number of monks who were friends had made grass huts on the slope of Mount Isigili and had entered the rainy-season residence there. Among them was Venerable Dhaniya the potter. When the three months were over and they had completed the rainy-season residence, the monks demolished their grass huts, put away the grass and sticks, and left to wander the country. But Venerable Dhaniya spent the winter and the summer right there.
+1At one time the Buddha was staying at Rājagaha on the Vulture Peak. At that time a number of bhikkhus who were friends had made grass huts on the slope of Mount Isigili and had entered the rainy-season residence there. Among them was Venerable Dhaniya the potter. When the three months were over and they had completed the rainy-season residence, the bhikkhus demolished their grass huts, put away the grass and sticks, and left to wander the country. But Venerable Dhaniya spent the winter and the summer right there.
 
 Then, on one occasion, while Dhaniya was in the village to collect almsfood, some women gathering grass and firewood demolished his grass hut and took away the grass and sticks. A second time Dhaniya collected grass and sticks and made a grass hut, and again the hut was demolished in the same way. The same thing happened a third time.
 
@@ -29,17 +29,17 @@ Then, on one occasion, while Dhaniya was in the village to collect almsfood, som
 3And he did just that. He then collected grass, sticks, and cow-dung, and he baked his hut. It was a pretty and attractive little hut, red in color like a scarlet rain-mite. And when struck, it sounded just like a bell.
 
 
-4Soon afterwards the Buddha was descending from the Vulture Peak with a number of monks when he saw that hut. He said to the monks:
+4Soon afterwards the Buddha was descending from the Vulture Peak with a number of bhikkhus when he saw that hut. He said to the bhikkhus:
 
 “What’s this pretty and attractive thing that’s red in color like a scarlet rain-mite?”
 
 
-The monks told the Buddha, who then rebuked Dhaniya:
+The bhikkhus told the Buddha, who then rebuked Dhaniya:
 
-“It’s not suitable for that foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could he make a hut entirely of clay? Doesn’t he have any consideration, compassion, and mercy for living beings? Go, monks, and demolish this hut, so that future generations don’t follow his example.
+“It’s not suitable for that foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could he make a hut entirely of clay? Doesn’t he have any consideration, compassion, and mercy for living beings? Go, bhikkhus, and demolish this hut, so that future generations don’t follow his example.
 
 
-And, monks, you shouldn’t make a hut entirely of clay. If you do, you commit an offense of wrong conduct.”
+And, bhikkhus, you shouldn’t make a hut entirely of clay. If you do, you commit an offense of wrong conduct.”
 
 Saying, “Yes, Sir,” they went to demolish it.
 
@@ -109,10 +109,10 @@ He then went to King Seniya Bimbisāra of Magadha and said, “Is it true, sir, 
 
 12But people complained and criticized him: “These Sakyan monastics are shameless and immoral liars. They claim to have integrity, to be celibate and of good conduct, to be truthful, moral, and good. But they don’t have the good character of a monastic or a brahmin. They’ve lost the plot! They even deceive the King, never mind other people.”
 
-13The monks heard the complaints of those people. The monks of few desires, who had a sense of conscience, and who were contented, afraid of wrongdoing, and fond of the training, complained and criticized Venerable Dhaniya, “How could he take the King’s timber without it being given to him?”
+13The bhikkhus heard the complaints of those people. The bhikkhus of few desires, who had a sense of conscience, and who were contented, afraid of wrongdoing, and fond of the training, complained and criticized Venerable Dhaniya, “How could he take the King’s timber without it being given to him?”
 
 
-14After rebuking Dhaniya in many ways, they told the Buddha. The Buddha then had the Sangha of monks gathered and questioned Venerable Dhaniya:
+14After rebuking Dhaniya in many ways, they told the Buddha. The Buddha then had the Sangha of bhikkhus gathered and questioned Venerable Dhaniya:
 
 
 “Is it true, Dhaniya, that you did this?”
@@ -121,20 +121,20 @@ He then went to King Seniya Bimbisāra of Magadha and said, “Is it true, sir, 
 
 The Buddha rebuked him, “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you do this? This will affect people’s confidence and cause some to lose it.”
 
-15Just then a former judge who had gone forth with the monks was sitting near the Buddha. The Buddha said to him, “For stealing how much does King Bimbisāra beat, imprison, or banish a thief?”
+15Just then a former judge who had gone forth with the bhikkhus was sitting near the Buddha. The Buddha said to him, “For stealing how much does King Bimbisāra beat, imprison, or banish a thief?”
 
 “For stealing a _pāda_ coin, Sir, or the value of a _pāda_.” At that time in Rājagaha a _pāda_ coin was worth five _māsaka_ coins.
 
 
-After rebuking Venerable Dhaniya in many ways, the Buddha spoke in dispraise of being difficult to support … “And, monks, this training rule should be recited like this:
+After rebuking Venerable Dhaniya in many ways, the Buddha spoke in dispraise of being difficult to support … “And, bhikkhus, this training rule should be recited like this:
 
 
 16‘If a monk, intending to steal, takes what has not been given to him—the sort of stealing for which kings, having caught a thief, would beat, imprison, or banish him, saying, “You’re a bandit, you’re a fool, you’ve gone astray, you’re a thief”—he too is expelled and excluded from the community.’”
 
-17In this way the Buddha laid down this training rule for the monks.
+17In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-18At one time the monks from the group of six went to the dyers, stole their stock of cloth, brought it back to the monastery, and shared it out. The other monks said to them, “You have great merit, seeing that you’ve gotten so much robe-cloth.”
+18At one time the bhikkhus from the group of six went to the dyers, stole their stock of cloth, brought it back to the monastery, and shared it out. The other bhikkhus said to them, “You have great merit, seeing that you’ve gotten so much robe-cloth.”
 
 “How is it that we have merit? Just now we went to the dyers and stole their cloth.”
 
@@ -144,17 +144,17 @@ After rebuking Venerable Dhaniya in many ways, the Buddha spoke in dispraise of 
 
 “But that’s just the same. It’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you steal the dyers’ cloth? This will affect people’s confidence, and cause some to lose it.”
 
-After rebuking those monks in many ways, they told the Buddha.
+After rebuking those bhikkhus in many ways, they told the Buddha.
 
 
-19The Buddha had the Sangha of monks gathered and questioned those monks:
+19The Buddha had the Sangha of bhikkhus gathered and questioned those bhikkhus:
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them, “It’s not suitable, foolish men, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you do this? This will affect people’s confidence, and cause some to lose it.” Then, after rebuking the monks from the group of six in many ways, the Buddha spoke in dispraise of being difficult to support … but he spoke in praise of … being energetic. Having given a teaching on what is right and proper, he addressed the monks … “And so, monks, this training rule should be recited like this:
+The Buddha rebuked them, “It’s not suitable, foolish men, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you do this? This will affect people’s confidence, and cause some to lose it.” Then, after rebuking the bhikkhus from the group of six in many ways, the Buddha spoke in dispraise of being difficult to support … but he spoke in praise of … being energetic. Having given a teaching on what is right and proper, he addressed the bhikkhus … “And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -439,7 +439,7 @@ And Sāgalā with Dalhika.”
 
 #### Case studies
 
-102On one occasion the monks from the group of six went to the dyers and stole their collection of cloth. They became anxious, thinking, “The Buddha has laid down a training rule. Could it be that we’ve committed an offense entailing expulsion?” They told the Buddha. “Monks, you have committed an offense entailing expulsion.”
+102On one occasion the bhikkhus from the group of six went to the dyers and stole their collection of cloth. They became anxious, thinking, “The Buddha has laid down a training rule. Could it be that we’ve committed an offense entailing expulsion?” They told the Buddha. “bhikkhus, you have committed an offense entailing expulsion.”
 
 103On one occasion a monk went to the dyers, saw a valuable cloth, and had the intention to steal it. He became anxious … “The Buddha has laid down a training rule. Could it be that I’ve committed an offense entailing expulsion?” He told the Buddha. “There’s no offense for the arising of a thought.”
 
@@ -460,7 +460,7 @@ And Sāgalā with Dalhika.”
 110On one occasion a monk who was carrying the goods of another on his head touched the load, intending to steal it. … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.” … made it stir, intending to steal it. … “There’s no offense entailing expulsion, but there’s a serious offense.” … lowered it onto his shoulder, intending to steal it. … “You have committed an offense entailing expulsion.” … touched the load on the shoulder, intending to steal it. … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.” … made it stir, intending to steal it. … “There’s no offense entailing expulsion, but there’s a serious offense.” … lowered it onto his hip, intending to steal it. … “You have committed an offense entailing expulsion.” … placed the load in his hand on the ground, intending to steal it. … “You have committed an offense entailing expulsion.” … picked it up from the ground, intending to steal it. … “You have committed an offense entailing expulsion.”
 
 
-111On one occasion a monk spread out his robe outside and entered his dwelling. A second monk, thinking, “Let me look after it,” put it away. The first monk came out of his dwelling and asked the monks, “Who’s stolen my robe?” The second monk said, “I’ve ‘stolen’ it.” The first monk took hold of him and said, “You’re not a monastic anymore!” The second monk became anxious … He told the Buddha.
+111On one occasion a monk spread out his robe outside and entered his dwelling. A second monk, thinking, “Let me look after it,” put it away. The first monk came out of his dwelling and asked the bhikkhus, “Who’s stolen my robe?” The second monk said, “I’ve ‘stolen’ it.” The first monk took hold of him and said, “You’re not a monastic anymore!” The second monk became anxious … He told the Buddha.
 
 “What were you thinking?”
 
@@ -469,9 +469,9 @@ And Sāgalā with Dalhika.”
 “If it was just a way of speaking, there’s no offense.”
 
 
-112On one occasion a monk placed his robe on a bench … placed his sitting mat on a bench … put his almsbowl under a bench and entered his dwelling. A second monk, thinking, “Let me look after it,” put it away. The first monk came out and asked the monks, “Who’s stolen my bowl?” The second monk said, “I’ve ‘stolen’ it.” The first monk took hold of him and said, “You’re not a monastic anymore!” The second monk became anxious … “If it was just a way of speaking, there’s no offense.”
+112On one occasion a monk placed his robe on a bench … placed his sitting mat on a bench … put his almsbowl under a bench and entered his dwelling. A second monk, thinking, “Let me look after it,” put it away. The first monk came out and asked the bhikkhus, “Who’s stolen my bowl?” The second monk said, “I’ve ‘stolen’ it.” The first monk took hold of him and said, “You’re not a monastic anymore!” The second monk became anxious … “If it was just a way of speaking, there’s no offense.”
 
-113On one occasion a nun spread out her robe on a fence and entered her dwelling. A second nun, thinking, “Let me look after it,” put it away. The first nun came out and asked the nuns, “Venerables, who’s stolen my robe?” The second nun said, “I’ve ‘stolen’ it.” The first nun took hold of her and said, “You’re not a monastic anymore!” The second nun became anxious … She told the nuns, who in turn told the monks, who in turn told the Buddha. … “If it was just a way of speaking, there’s no offense.”
+113On one occasion a nun spread out her robe on a fence and entered her dwelling. A second nun, thinking, “Let me look after it,” put it away. The first nun came out and asked the nuns, “Venerables, who’s stolen my robe?” The second nun said, “I’ve ‘stolen’ it.” The first nun took hold of her and said, “You’re not a monastic anymore!” The second nun became anxious … She told the nuns, who in turn told the bhikkhus, who in turn told the Buddha. … “If it was just a way of speaking, there’s no offense.”
 
 114On one occasion a monk saw a wrap garment blown up by a whirlwind. He took hold of it, thinking, “I’ll give it to the owners.” But the owners accused him, saying, “You’re not a monastic anymore!” He became anxious …
 
@@ -498,9 +498,9 @@ But a monk shouldn’t take rags from a fresh corpse. If he does, he commits an 
 They told the Buddha. “There’s no offense for one who perceives it as his own.”
 
 
-119On one occasion a number of monks were descending from the Vulture Peak when they saw the remains of a lion’s kill. They had it cooked and ate it. They became anxious … “There’s no offense when it’s the remains of a lion’s kill.”
+119On one occasion a number of bhikkhus were descending from the Vulture Peak when they saw the remains of a lion’s kill. They had it cooked and ate it. They became anxious … “There’s no offense when it’s the remains of a lion’s kill.”
 
-120On one occasion a number of monks were descending from the Vulture Peak when they saw the remains of a tiger’s kill … saw the remains of a panther’s kill … saw the remains of a hyena’s kill … saw the remains of a wolf’s kill. They had it cooked and ate it. They became anxious … “There’s no offense when it’s the possession of an animal.”
+120On one occasion a number of bhikkhus were descending from the Vulture Peak when they saw the remains of a tiger’s kill … saw the remains of a panther’s kill … saw the remains of a hyena’s kill … saw the remains of a wolf’s kill. They had it cooked and ate it. They became anxious … “There’s no offense when it’s the possession of an animal.”
 
 121On one occasion, when rice belonging to the Sangha was being distributed, a monk said without grounds, “Please give me a portion for one more,” and he took it away. He became anxious … “There’s no offense entailing expulsion, but there’s an offense entailing confession for lying in full awareness.”
 
@@ -527,7 +527,7 @@ They told the Buddha. “There’s no offense for one who perceives it as his ow
 
 131On one occasion a monk stole a robe in a dwelling. He thought, “If I come out from here, I shall be expelled,” and he remained in that dwelling. They told the Buddha. “Whether that fool comes out or not, he has committed an offense entailing expulsion.”
 
-132At one time there were two monks who were friends. One of them went into the village for almsfood. When fresh food belonging to the Sangha was being distributed, the second monk took his friend’s portion. Taking it on trust, he ate it. When he found out about this, the first monk accused him, saying, “You’re not a monastic anymore!” He became anxious …
+132At one time there were two bhikkhus who were friends. One of them went into the village for almsfood. When fresh food belonging to the Sangha was being distributed, the second monk took his friend’s portion. Taking it on trust, he ate it. When he found out about this, the first monk accused him, saying, “You’re not a monastic anymore!” He became anxious …
 
 
 “What were you thinking, monk?”
@@ -536,7 +536,7 @@ They told the Buddha. “There’s no offense for one who perceives it as his ow
 
 “There’s no offense for one who takes on trust.”
 
-133On one occasion a number of monks were making robes. When fresh food belonging to the Sangha was being distributed, they took their shares and put them aside. A certain monk ate another monk’s portion, thinking it was his own. When the other monk found out about this, he accused him, saying, “You’re not a monastic anymore!” He became anxious …
+133On one occasion a number of bhikkhus were making robes. When fresh food belonging to the Sangha was being distributed, they took their shares and put them aside. A certain monk ate another monk’s portion, thinking it was his own. When the other monk found out about this, he accused him, saying, “You’re not a monastic anymore!” He became anxious …
 
 
 “What were you thinking, monk?”
@@ -545,24 +545,24 @@ They told the Buddha. “There’s no offense for one who perceives it as his ow
 
 “There’s no offense for one who perceives it as his own.”
 
-134On one occasion a number of monks were making robes. When fresh food belonging to the Sangha was being distributed, they brought a certain monk’s share in another monk’s almsbowl and put it aside. The monk who was the owner of the bowl ate the food, thinking it was his own. When he found out about this, the owner of the food accused him … “There’s no offense for one who perceives it as his own.”
+134On one occasion a number of bhikkhus were making robes. When fresh food belonging to the Sangha was being distributed, they brought a certain monk’s share in another monk’s almsbowl and put it aside. The monk who was the owner of the bowl ate the food, thinking it was his own. When he found out about this, the owner of the food accused him … “There’s no offense for one who perceives it as his own.”
 
-135On one occasion mango thieves cut down some mangoes, collected them in a bundle, and left. The owners pursued them. When they saw the owners, the thieves dropped the bundle and ran away. Some monks perceived those mangoes as discarded, had them offered, and ate them. But the owners accused them, saying, “You’re not monastics anymore!” They became anxious … They told the Buddha.
+135On one occasion mango thieves cut down some mangoes, collected them in a bundle, and left. The owners pursued them. When they saw the owners, the thieves dropped the bundle and ran away. Some bhikkhus perceived those mangoes as discarded, had them offered, and ate them. But the owners accused them, saying, “You’re not monastics anymore!” They became anxious … They told the Buddha.
 
 
-“What were you thinking, monks?”
+“What were you thinking, bhikkhus?”
 
 “Sir, we perceived them as discarded.”
 
 “There’s no offense for one who perceives something as discarded.”
 
 
-136On one occasion black plum thieves … bread-fruit thieves … jack-fruit thieves … palm-fruit thieves … sugarcane thieves … gaub fruit thieves picked some fruit, collected them in a bundle, and left. The owners pursued them. When they saw the owners, the thieves dropped the bundle and ran away. Some monks perceived those gaub fruit as discarded, had them offered, and ate them. But the owners accused them, saying, “You’re not monastics anymore!” They became anxious … “There’s no offense for one who perceives something as discarded.”
+136On one occasion black plum thieves … bread-fruit thieves … jack-fruit thieves … palm-fruit thieves … sugarcane thieves … gaub fruit thieves picked some fruit, collected them in a bundle, and left. The owners pursued them. When they saw the owners, the thieves dropped the bundle and ran away. Some bhikkhus perceived those gaub fruit as discarded, had them offered, and ate them. But the owners accused them, saying, “You’re not monastics anymore!” They became anxious … “There’s no offense for one who perceives something as discarded.”
 
 
-137On one occasion mango thieves cut down some mangoes, collected them in a bundle, and left. The owners pursued them. When they saw the owners, the thieves dropped the bundle and ran away. Some monks ate them, intending to steal them before the owners found them. The owners accused those monks, saying, “You’re not monastics anymore!” They became anxious … “You have committed an offense entailing expulsion.”
+137On one occasion mango thieves cut down some mangoes, collected them in a bundle, and left. The owners pursued them. When they saw the owners, the thieves dropped the bundle and ran away. Some bhikkhus ate them, intending to steal them before the owners found them. The owners accused those bhikkhus, saying, “You’re not monastics anymore!” They became anxious … “You have committed an offense entailing expulsion.”
 
-138On one occasion black plum thieves … bread-fruit thieves … jack-fruit thieves … palm-fruit thieves … sugarcane thieves … gaub fruit thieves picked some fruit, collected them in a bundle, and left. The owners pursued them. When they saw the owners, the thieves dropped the bundle and ran away. Some monks ate them, intending to steal them before the owners found them. The owners accused those monks, saying, “You’re not monastics anymore!” They became anxious … “You have committed an offense entailing expulsion.”
+138On one occasion black plum thieves … bread-fruit thieves … jack-fruit thieves … palm-fruit thieves … sugarcane thieves … gaub fruit thieves picked some fruit, collected them in a bundle, and left. The owners pursued them. When they saw the owners, the thieves dropped the bundle and ran away. Some bhikkhus ate them, intending to steal them before the owners found them. The owners accused those bhikkhus, saying, “You’re not monastics anymore!” They became anxious … “You have committed an offense entailing expulsion.”
 
 
 139On one occasion a monk took a mango from the Sangha, intending to steal it. … a black plum … a bread-fruit … a jack-fruit … a palm-fruit … a sugarcane … a gaub fruit from the Sangha, intending to steal it. He became anxious … “You have committed an offense entailing expulsion.”
@@ -626,9 +626,9 @@ The man told the monk. He became anxious … “What were you thinking, monk?”
 
 153On one occasion a monk seized a piece of meat picked up by a hawk, intending to steal it before the owners found out. The owners accused him, saying, “You’re not a monastic anymore!” He became anxious … “You have committed an offense entailing expulsion.”
 
-154At one time some men made a raft that they put on the river Aciravatī. Because the binding ropes snapped, the sticks were scattered about. Some monks removed them from the water, perceiving them as discarded. The owners accused those monks, saying, “You’re not monastics anymore!” They became anxious … “There’s no offense for one who perceives something as discarded.”
+154At one time some men made a raft that they put on the river Aciravatī. Because the binding ropes snapped, the sticks were scattered about. Some bhikkhus removed them from the water, perceiving them as discarded. The owners accused those bhikkhus, saying, “You’re not monastics anymore!” They became anxious … “There’s no offense for one who perceives something as discarded.”
 
-155At one time some men made a raft, which they put on the river Aciravatī. Because the binding ropes snapped, the sticks were scattered about. Some monks removed them from the water, intending to steal them before the owners found them. The owners accused those monks, saying, “You’re not monastics anymore!” They became anxious … “You have committed an offense entailing expulsion.”
+155At one time some men made a raft, which they put on the river Aciravatī. Because the binding ropes snapped, the sticks were scattered about. Some bhikkhus removed them from the water, intending to steal them before the owners found them. The owners accused those bhikkhus, saying, “You’re not monastics anymore!” They became anxious … “You have committed an offense entailing expulsion.”
 
 156On one occasion a cowherd hung his wrap garment on a tree and went to relieve himself. A monk thought it had been discarded and took it. The cowherd accused him, saying, “You’re not a monastic anymore!” He became anxious … “There’s no offense for one who perceives something as discarded.”
 
@@ -638,18 +638,18 @@ The man told the monk. He became anxious … “What were you thinking, monk?”
 
 159On one occasion a monk saw a pot of ghee and ate it little by little. He became anxious … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.”
 
-160At one time a number of monks made an arrangement and then left, thinking, “We’ll steal these goods.” One of them stole the goods. The others said, “We’re not expelled. He who stole them is expelled.” They told the Buddha. “You’ve all committed an offense entailing expulsion.”
+160At one time a number of bhikkhus made an arrangement and then left, thinking, “We’ll steal these goods.” One of them stole the goods. The others said, “We’re not expelled. He who stole them is expelled.” They told the Buddha. “You’ve all committed an offense entailing expulsion.”
 
-161At one time a number of monks made an arrangement, stole some goods, and shared them out. Each one of them received a share worth less than five _māsaka_ coins. They said, “We’re not expelled.” They told the Buddha. “You have committed an offense entailing expulsion.”
+161At one time a number of bhikkhus made an arrangement, stole some goods, and shared them out. Each one of them received a share worth less than five _māsaka_ coins. They said, “We’re not expelled.” They told the Buddha. “You have committed an offense entailing expulsion.”
 
 162On one occasion when Sāvatthī was short of food, a monk took a handful of rice from a shopkeeper, intending to steal it. He became anxious … “You have committed an offense entailing expulsion.”
 
 163On one occasion when Sāvatthī was short of food, a monk stole a handful of mung beans from a shopkeeper, intending to steal it. … a handful of black gram … a handful of sesame from a shopkeeper, intending to steal it. He became anxious … “You have committed an offense entailing expulsion.”
 
 
-164At one time in the Dark Wood near Sāvatthī, thieves killed a cow, ate some of the flesh, put the remainder aside, and went away. Some monks had it offered and ate it, perceiving it as discarded. The thieves accused those monks, saying, “You’re not monastics anymore!” They became anxious … “There’s no offense for one who perceives something as discarded.”
+164At one time in the Dark Wood near Sāvatthī, thieves killed a cow, ate some of the flesh, put the remainder aside, and went away. Some bhikkhus had it offered and ate it, perceiving it as discarded. The thieves accused those bhikkhus, saying, “You’re not monastics anymore!” They became anxious … “There’s no offense for one who perceives something as discarded.”
 
-165At one time in the Dark Wood near Sāvatthī, thieves killed a pig, ate some of the flesh, put the remainder aside, and went away. Some monks had it offered and ate it, perceiving it as discarded. The thieves accused those monks, saying, “You’re not monastics anymore!” They became anxious … “There’s no offense for one who perceives something as discarded.”
+165At one time in the Dark Wood near Sāvatthī, thieves killed a pig, ate some of the flesh, put the remainder aside, and went away. Some bhikkhus had it offered and ate it, perceiving it as discarded. The thieves accused those bhikkhus, saying, “You’re not monastics anymore!” They became anxious … “There’s no offense for one who perceives something as discarded.”
 
 
 166On one occasion a monk went to a meadow and took cut grass worth five _māsaka_ coins, intending to steal it. He became anxious … “You have committed an offense entailing expulsion.”
@@ -657,23 +657,23 @@ The man told the monk. He became anxious … “What were you thinking, monk?”
 167On one occasion a monk went to a meadow, cut grass worth five _māsaka_ coins, and took it away, intending to steal it. He became anxious … “You have committed an offense entailing expulsion.”
 
 
-168On one occasion some newly arrived monks shared out the mangoes belonging to the Sangha and ate them. The resident monks accused those monks, saying, “You’re not monastics anymore!” They became anxious … They told the Buddha.
+168On one occasion some newly arrived bhikkhus shared out the mangoes belonging to the Sangha and ate them. The resident bhikkhus accused those bhikkhus, saying, “You’re not monastics anymore!” They became anxious … They told the Buddha.
 
 
-“What were you thinking, monks?”
+“What were you thinking, bhikkhus?”
 
 “We thought they were meant for eating, Sir.”
 
 “There’s no offense for one who thinks it is meant for eating.”
 
 
-169On one occasion some newly arrived monks shared out the black plums belonging to the Sangha … the bread-fruit belonging to the Sangha … the jack-fruit belonging to the Sangha … the palm fruits belonging to the Sangha … the sugarcane belonging to the Sangha … the gaub fruit belonging to the Sangha and ate them. The resident monks accused those monks, saying, “You’re not monastics anymore!” They became anxious … “There’s no offense for one who thinks it is meant for eating.”
+169On one occasion some newly arrived bhikkhus shared out the black plums belonging to the Sangha … the bread-fruit belonging to the Sangha … the jack-fruit belonging to the Sangha … the palm fruits belonging to the Sangha … the sugarcane belonging to the Sangha … the gaub fruit belonging to the Sangha and ate them. The resident bhikkhus accused those bhikkhus, saying, “You’re not monastics anymore!” They became anxious … “There’s no offense for one who thinks it is meant for eating.”
 
-170On one occasion the keepers of a mango-grove gave a mango to some monks. The monks, thinking, “They have the authority to guard, but not to give away,” were afraid of wrongdoing and did not accept it. They told the Buddha. “There’s no offense if it’s a gift from a guardian.”
+170On one occasion the keepers of a mango-grove gave a mango to some bhikkhus. The bhikkhus, thinking, “They have the authority to guard, but not to give away,” were afraid of wrongdoing and did not accept it. They told the Buddha. “There’s no offense if it’s a gift from a guardian.”
 
-171On one occasion the keepers of a black plum grove … the keepers of a bread-fruit grove … the keepers of a jack-fruit grove … the keepers of a palm grove … the keepers of a sugarcane field … the keepers of a gaub fruit grove gave a gaub fruit to some monks. The monks, thinking, “They have the authority to guard, but not to give away,” were afraid of wrongdoing and did not accept it. They told the Buddha. “There’s no offense if it’s a gift from a guardian.”
+171On one occasion the keepers of a black plum grove … the keepers of a bread-fruit grove … the keepers of a jack-fruit grove … the keepers of a palm grove … the keepers of a sugarcane field … the keepers of a gaub fruit grove gave a gaub fruit to some bhikkhus. The bhikkhus, thinking, “They have the authority to guard, but not to give away,” were afraid of wrongdoing and did not accept it. They told the Buddha. “There’s no offense if it’s a gift from a guardian.”
 
-172On one occasion a monk borrowed a piece of wood belonging to the Sangha and used it to support the wall of his own dwelling. The monks accused him, saying, “You’re not a monastic anymore!” He became anxious and told the Buddha. “What were you thinking, monk?”
+172On one occasion a monk borrowed a piece of wood belonging to the Sangha and used it to support the wall of his own dwelling. The bhikkhus accused him, saying, “You’re not a monastic anymore!” He became anxious and told the Buddha. “What were you thinking, monk?”
 
 “I was borrowing it, Sir.”
 
@@ -688,16 +688,16 @@ The man told the monk. He became anxious … “What were you thinking, monk?”
 
 176On one occasion a monk took a bench from the Sangha, intending to steal it … a mattress from the Sangha … a pillow from the Sangha … a door from the Sangha … a window from the Sangha … took a rafter from the Sangha, intending to steal it. … He became anxious … “You have committed an offense entailing expulsion.”
 
-177At one time the monks used elsewhere the furniture belonging to a certain lay follower. That lay follower complained and criticized them, “How can the Venerables use furniture where it doesn’t belong?” They told the Buddha.
+177At one time the bhikkhus used elsewhere the furniture belonging to a certain lay follower. That lay follower complained and criticized them, “How can the Venerables use furniture where it doesn’t belong?” They told the Buddha.
 
 “You shouldn’t use furniture where it doesn’t belong. If you do, you commit an offense of wrong conduct.”
 
 
-178Soon afterwards, being afraid of wrongdoing, the monks did not take any furniture to the observance-day hall or to meetings, and they sat down on the bare ground. They became dirty, as did their robes. They told the Buddha.
+178Soon afterwards, being afraid of wrongdoing, the bhikkhus did not take any furniture to the observance-day hall or to meetings, and they sat down on the bare ground. They became dirty, as did their robes. They told the Buddha.
 
 “I allow you to borrow.”
 
-179On one occasion at Campā, a nun who was a pupil of the nun Thullanandā went to a family that supported Thullanandā and said, “The Venerable wants to drink the triple pungent congee.” When it was ready, she took it away and ate it herself. When Thullanandā found out about this, she accused her, saying, “You’re not a monastic anymore!” She became anxious … She then told the nuns, who in turn told the monks, who then told the Buddha. “There’s no offense entailing expulsion, but there’s an offense entailing confession for lying in full awareness.”
+179On one occasion at Campā, a nun who was a pupil of the nun Thullanandā went to a family that supported Thullanandā and said, “The Venerable wants to drink the triple pungent congee.” When it was ready, she took it away and ate it herself. When Thullanandā found out about this, she accused her, saying, “You’re not a monastic anymore!” She became anxious … She then told the nuns, who in turn told the bhikkhus, who then told the Buddha. “There’s no offense entailing expulsion, but there’s an offense entailing confession for lying in full awareness.”
 
 180On one occasion in Rājagaha, a nun who was a pupil of the nun Thullanandā went to a family that supported Thullanandā and said, “The Venerable wants a honey-ball.” When it was ready, she took it away and ate it herself. When Thullanandā found out about this, she accused her, saying, “You’re not a monastic anymore!” She became anxious … “There’s no offense entailing expulsion, but there’s an offense entailing confession for lying in full awareness.”
 
@@ -728,13 +728,13 @@ On that occasion Venerable Upāli was siding with Ajjuka, and he said to Ānanda
 
 When people saw those children, they said, “This is the greatness of Venerable Pilindavaccha’s supernormal powers,” and they gained confidence in him.
 
-But the monks complained and criticized him, “How could Venerable Pilindavaccha bring back children who had been kidnapped by criminals?” They told the Buddha.
+But the bhikkhus complained and criticized him, “How could Venerable Pilindavaccha bring back children who had been kidnapped by criminals?” They told the Buddha.
 
 “There’s no offense for someone who uses their supernormal powers.”
 
-183At that time the two monks Paṇḍaka and Kapila were friends. One was staying in a village and one at Kosambī. Then, while one of them was traveling from that village to Kosambī, he had to cross a river. As he did so, a lump of fat that had escaped from the hands of a pork-butcher stuck to his foot. He grabbed it, thinking, “I’ll give it to the owners.” But the owners accused him, saying, “You’re not a monastic anymore!”
+183At that time the two bhikkhus Paṇḍaka and Kapila were friends. One was staying in a village and one at Kosambī. Then, while one of them was traveling from that village to Kosambī, he had to cross a river. As he did so, a lump of fat that had escaped from the hands of a pork-butcher stuck to his foot. He grabbed it, thinking, “I’ll give it to the owners.” But the owners accused him, saying, “You’re not a monastic anymore!”
 
-Just then a woman cowherd who had seen him crossing said, “Come, Sir, have sexual intercourse.” Thinking he was no longer a monastic, he had sexual intercourse with her. When he arrived at Kosambī, he told the monks, who in turn told the Buddha. “There’s no offense entailing expulsion for stealing, but there’s an offense entailing expulsion for having sexual intercourse.”
+Just then a woman cowherd who had seen him crossing said, “Come, Sir, have sexual intercourse.” Thinking he was no longer a monastic, he had sexual intercourse with her. When he arrived at Kosambī, he told the bhikkhus, who in turn told the Buddha. “There’s no offense entailing expulsion for stealing, but there’s an offense entailing expulsion for having sexual intercourse.”
 
 184At that time a monk at Sāgalā who was a student of Venerable Daḷhika was plagued by lust. He stole a turban from a shopkeeper and said to Daḷhika, “Sir, I’m not a monastic anymore. I’ll disrobe.”
 

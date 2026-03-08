@@ -25,14 +25,14 @@ Then, after collecting voluntary contributions for the yard of Thullanandā’s 
 
 2When the people found out about this, they complained and criticized her, “When personal requisites are designated for a specific purpose and were asked for, how could the nun Thullanandā exchange them for something else?” …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“When personal requisites are designated for a specific purpose and were asked for, how could the nun Thullanandā exchange them for something else? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“When personal requisites are designated for a specific purpose and were asked for, how could the nun Thullanandā exchange them for something else? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -51,7 +51,7 @@ The Buddha rebuked her …
 8**Exchanges it for something else:** if, apart from the purpose for which it was given, she exchanges it for something else, then for the effort there is an act of wrong conduct. When she gets it, it becomes subject to relinquishment.
 
 
-It is to be relinquished to a saṅgha, a group, or an individual nun. “And, monks, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1, paragraph 8]] with appropriate substitutions.
+It is to be relinquished to a saṅgha, a group, or an individual nun. “And, bhikkhus, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1, paragraph 8]] with appropriate substitutions.
 
 ‘Venerables, this thing, which I got in exchange for a personal requisite that was designated for a specific purpose and had been asked for, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this back to you.’”
 

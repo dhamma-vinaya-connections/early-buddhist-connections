@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying on the slopes of Isigili at the Black Rock, together with a large Saṅgha of around five hundred mendicants, all of whom were perfected ones. Thereupon, with his mind, Venerable Mahāmoggallāna checked to see whose mind was liberated and free of attachments.
+1At one time the Buddha was staying on the slopes of Isigili at the Black Rock, together with a large Saṅgha of around five hundred bhikkhus, all of whom were perfected ones. Thereupon, with his mind, Venerable Mahāmoggallāna checked to see whose mind was liberated and free of attachments.
 
 Then Venerable Vaṅgīsa thought: “The Buddha is staying on the slopes of Isigili … with five hundred perfected ones. Mahāmoggallāna is checking to see whose mind is liberated and free of attachments. Why don’t I extoll him in the Buddha’s presence with fitting verses?”
 

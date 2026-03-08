@@ -7,13 +7,13 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC19]]
 > ◄  [[bu-pc18-horner]] 📜  [[bu-pc20-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 19
+# bhikkhus’ Expiation (_Pācittiya_) 19
 
 *Bu-Pc.19.1.1* *BD.2.257* *Vin.4.47* … at Kosambī in Ghosita’s monastery. Now at that time a chief minister, the venerable Channa’s supporter, was having a dwelling-place built for the venerable Channa.[^1] Then the venerable Channa again and again had the finished dwelling-place roofed, again and again had it plastered. The overloaded dwelling-place fell down. Then the venerable Channa, collecting grass and sticks, despoiled the cornfield of a certain brahmin. Then that brahmin looked down upon, criticised, spread it about, saying:
 
-“How can the revered ones despoil our cornfields?” Monks heard this brahmin who … spread it about. Those who were modest monks … spread it about, saying:
+“How can the revered ones despoil our cornfields?” bhikkhus heard this brahmin who … spread it about. Those who were modest bhikkhus … spread it about, saying:
 
-“How can the venerable Channa again and again have a finished dwelling-place roofed, again and again have it plastered (so that) the overloaded dwelling-place falls down?” Then these monks told this matter to the lord…
+“How can the venerable Channa again and again have a finished dwelling-place roofed, again and again have it plastered (so that) the overloaded dwelling-place falls down?” Then these bhikkhus told this matter to the lord…
 
 “Is it true, as is said, that you, Channa, again and again had a finished dwelling-place roofed … so that the overloaded dwelling-place fell down?”
 
@@ -21,9 +21,9 @@ language: "English"
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, again and again have a finished dwelling-place roofed, again and again have it plastered, (so that) the overloaded dwelling-place falls down? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, again and again have a finished dwelling-place roofed, again and again have it plastered, (so that) the overloaded dwelling-place falls down? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“When a large dwelling-place is being built for a monk, *BD.2.258* an enclosure[^2] of two or three roofings may be determined upon for placing the door-bolts, for making the window-holes[^3] as far as the door-way,[^4] in establishing it where there are no crops.[^5] If, though established where there are no crops, he should determine upon (something) more than that, there is an offence of expiation.”[^6]
+“When a large dwelling-place is being built for a bhikkhu, *BD.2.258* an enclosure[^2] of two or three roofings may be determined upon for placing the door-bolts, for making the window-holes[^3] as far as the door-way,[^4] in establishing it where there are no crops.[^5] If, though established where there are no crops, he should determine upon (something) more than that, there is an offence of expiation.”[^6]
 
 * * *
 
@@ -57,7 +57,7 @@ The Ninth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -9,17 +9,17 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 59
 
-*Bi-Pc.59.1.1* *BD.3.358* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns neither asked (the date of) the Observance day[^1] nor did they ask for exhortation. Monks … spread it about, saying: “How can these nuns neither ask (the date of) the Observance day nor ask for exhortation?” …
+*Bi-Pc.59.1.1* *BD.3.358* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns neither asked (the date of) the Observance day[^1] nor did they ask for exhortation. bhikkhus … spread it about, saying: “How can these nuns neither ask (the date of) the Observance day nor ask for exhortation?” …
 
-“Is it true, as is said, monks, that nuns neither … nor ask for exhortation?”
+“Is it true, as is said, bhikkhus, that nuns neither … nor ask for exhortation?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns neither … nor ask for exhortation? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns neither … nor ask for exhortation? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
-“Every half month a nun should desire two things from the Order of monks: the asking as to (the date of) the Observance day and the approaching for exhortation.[^2] For her who transgresses this, there is an offence of expiation.”
+“Every half month a nun should desire two things from the Order of bhikkhus: the asking as to (the date of) the Observance day and the approaching for exhortation.[^2] For her who transgresses this, there is an offence of expiation.”
 
 * * *
 

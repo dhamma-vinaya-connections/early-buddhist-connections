@@ -16,7 +16,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, an _Ājīvaka_ ascetic with five qualities is cast down to hell. What five? They kill living creatures, steal, have sex, lie, and use alcoholic drinks that cause negligence. An _Ājīvaka_ ascetic with these five qualities is cast down to hell.”
+1“bhikkhus, an _Ājīvaka_ ascetic with five qualities is cast down to hell. What five? They kill living creatures, steal, have sex, lie, and use alcoholic drinks that cause negligence. An _Ājīvaka_ ascetic with these five qualities is cast down to hell.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato ājīvako yathābhataṁ nikkhitto evaṁ niraye. Katamehi pañcahi? Pāṇātipātī hoti, adinnādāyī hoti, abrahmacārī hoti, musāvādī hoti, surāmerayamajjapamādaṭṭhāyī hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato ājīvako yathābhataṁ nikkhitto evaṁ niraye"ti.
 

@@ -17,9 +17,9 @@ language: "English"
 
 7 (4). Not Knowing (2)
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “When one doesn’t know and understand form and doesn’t stop and become free of desire for it, their mind isn’t liberated, and then they can’t transcend the fear of birth, old age, illness, and death. Thus, when one doesn’t know and understand feeling … conception … volition … awareness and doesn’t stop and become free of desire for it, their mind isn’t liberated, and then they can’t transcend the fear of birth, old age, illness, and death.
-3. “Monks, if someone knows and understands form and stops and becomes free of desire for it, their mind is liberated, and then they can transcend the fear of birth, old age, illness, and death.<a id="fnref2"></a>[^2] Thus, if someone knows and understands feeling … perception … volition … awareness and stops and becomes free of desire for it, their mind is liberated, and then they can transcend the fear of birth, old age, illness, and death.”
-4. When the monks heard what the Buddha taught, they rejoiced and approved.
+2. It was then that the Bhagavān addressed the bhikkhus, “When one doesn’t know and understand form and doesn’t stop and become free of desire for it, their mind isn’t liberated, and then they can’t transcend the fear of birth, old age, illness, and death. Thus, when one doesn’t know and understand feeling … conception … volition … awareness and doesn’t stop and become free of desire for it, their mind isn’t liberated, and then they can’t transcend the fear of birth, old age, illness, and death.
+3. “bhikkhus, if someone knows and understands form and stops and becomes free of desire for it, their mind is liberated, and then they can transcend the fear of birth, old age, illness, and death.<a id="fnref2"></a>[^2] Thus, if someone knows and understands feeling … perception … volition … awareness and stops and becomes free of desire for it, their mind is liberated, and then they can transcend the fear of birth, old age, illness, and death.”
+4. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

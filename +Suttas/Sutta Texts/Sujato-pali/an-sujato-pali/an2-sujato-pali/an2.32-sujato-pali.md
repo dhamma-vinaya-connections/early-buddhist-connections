@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you the level of the bad person and the level of the good person. Listen and pay close attention, I will speak.”
+1“bhikkhus, I will teach you the level of the bad person and the level of the good person. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 

@@ -16,7 +16,7 @@ language: "English - Pali"
 
 9. ‘‘Navayime, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame nava? Arahā, arahattāya paṭipanno, anāgāmī, anāgāmiphalasacchikiriyāya paṭipanno, sakadāgāmī, sakadāgāmiphalasacchikiriyāya paṭipanno, sotāpanno, sotāpattiphalasacchikiriyāya paṭipanno, puthujjano – ime kho, bhikkhave, nava puggalā santo saṃvijjamānā lokasmi’’nti. Navamaṃ.
 
-9.“Monks, these nine individuals are present in the world. Which nine? The Arahant, one practicing for Arahantship, the Non-returner, one practicing for the realization of the fruit of Non-returning, the Once-returner, one practicing for the realization of the fruit of Once-returning, the Stream-enterer, one practicing for the realization of the fruit of Stream-entry, and the ordinary person. These, monks, are the nine individuals present in the world.” The ninth.
+9.“bhikkhus, these nine individuals are present in the world. Which nine? The Arahant, one practicing for Arahantship, the Non-returner, one practicing for the realization of the fruit of Non-returning, the Once-returner, one practicing for the realization of the fruit of Once-returning, the Stream-enterer, one practicing for the realization of the fruit of Stream-entry, and the ordinary person. These, bhikkhus, are the nine individuals present in the world.” The ninth.
 
 
 ---

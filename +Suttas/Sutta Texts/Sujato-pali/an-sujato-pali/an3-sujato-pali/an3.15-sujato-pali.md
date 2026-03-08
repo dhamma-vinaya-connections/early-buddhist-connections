@@ -16,7 +16,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Benares, in the deer park at Isipatana. There the Buddha addressed the mendicants: “Mendicants!”
+1At one time the Buddha was staying near Benares, in the deer park at Isipatana. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
@@ -52,12 +52,12 @@ Because I can’t see any difference between them.’
 
 The wheel that was finished in six days less than six months, Your Majesty, is not crooked, flawed, and defective in rim, spoke, and hub. That’s why it stood still as if fixed to an axle.’
 
-5Now, mendicants, you might think: ‘Surely that chariot-maker must have been someone else at that time?’ But you should not see it like that. I myself was the chariot-maker at that time. Then I was a skilled in the crooks, flaws, and defects of wood.
+5Now, bhikkhus, you might think: ‘Surely that chariot-maker must have been someone else at that time?’ But you should not see it like that. I myself was the chariot-maker at that time. Then I was a skilled in the crooks, flaws, and defects of wood.
 
 
-Now that I am a perfected one, a fully awakened Buddha, I am a skilled in the crooks, flaws, and defects of actions by body, speech, and mind. Whatever monk or nun has not given up the crooks, flaws, and defects of body, speech, and mind has fallen from the teaching and training, just like the wheel that was finished in six days.
+Now that I am a perfected one, a fully awakened Buddha, I am a skilled in the crooks, flaws, and defects of actions by body, speech, and mind. Whatever bhikkhu or nun has not given up the crooks, flaws, and defects of body, speech, and mind has fallen from the teaching and training, just like the wheel that was finished in six days.
 
-6Whatever monk or nun has given up the crooks, flaws, and defects of body, speech, and mind is established in the teaching and training, just like the wheel that was finished in six days less than six months.
+6Whatever bhikkhu or nun has given up the crooks, flaws, and defects of body, speech, and mind is established in the teaching and training, just like the wheel that was finished in six days less than six months.
 
 7So you should train like this: ‘We will give up the crooks, flaws, and defects of body, speech, and mind.’ That’s how you should train.”
 

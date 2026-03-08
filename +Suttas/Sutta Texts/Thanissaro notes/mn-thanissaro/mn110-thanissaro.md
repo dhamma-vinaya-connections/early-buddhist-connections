@@ -15,17 +15,17 @@ language: "English"
 ## ## Cūḷa Puṇṇama Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in the Eastern Monastery, the palace of Migāra’s mother. And on that occasion—the uposatha of the fifteenth, the night of a very full moon—he was sitting out in the open with the Saṅgha of monks. Then, having surveyed the silent Saṅgha of monks, he addressed them: “Monks, could a person of no integrity know of a person of no integrity: ‘This is a person of no integrity’?”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in the Eastern Monastery, the palace of Migāra’s mother. And on that occasion—the uposatha of the fifteenth, the night of a very full moon—he was sitting out in the open with the Saṅgha of bhikkhus. Then, having surveyed the silent Saṅgha of bhikkhus, he addressed them: “bhikkhus, could a person of no integrity know of a person of no integrity: ‘This is a person of no integrity’?”
 
 “No, lord.”
 
-“Good, monks. It’s impossible, there’s no way, that a person of no integrity would know of a person of no integrity: ‘This is a person of no integrity.’
+“Good, bhikkhus. It’s impossible, there’s no way, that a person of no integrity would know of a person of no integrity: ‘This is a person of no integrity.’
 
 “Could a person of no integrity know of a person of integrity: ‘This is a person of integrity’?”
 
 “No, lord.”
 
-“Good, monks. It’s impossible, there’s no way, that a person of no integrity would know of a person of integrity: ‘This is a person of integrity.’
+“Good, bhikkhus. It’s impossible, there’s no way, that a person of no integrity would know of a person of integrity: ‘This is a person of integrity.’
 
 “A person of no integrity is endowed with qualities of no integrity; he is a person of no integrity in his friendship, in the way he wills, the way he gives advice, the way he speaks, the way he acts, the views he holds, & the way he gives a gift.
 
@@ -47,17 +47,17 @@ I have heard that on one occasion the Blessed One was staying near Sāvatthī in
 
 “This person of no integrity—thus endowed with qualities of no integrity; a person of no integrity in his friendship, in the way he wills, the way he gives advice, the way he speaks, the way he acts, the views he holds, & the way he gives a gift—on the break-up of the body, after death, reappears in the destination of people of no integrity. And what is the destination of people of no integrity? Hell or the animal womb.
 
-“Now, monks, could a person of integrity know of a person of no integrity: ‘This is a person of no integrity’?”
+“Now, bhikkhus, could a person of integrity know of a person of no integrity: ‘This is a person of no integrity’?”
 
 “Yes, lord.”
 
-“Good, monks. It is possible that a person of integrity would know of a person of no integrity: ‘This is a person of no integrity.’
+“Good, bhikkhus. It is possible that a person of integrity would know of a person of no integrity: ‘This is a person of no integrity.’
 
 “Could a person of integrity know of a person of integrity: ‘This is a person of integrity’?”
 
 “Yes, lord.”
 
-“Good, monks. It is possible that a person of integrity would know of a person of integrity: ‘This is a person of integrity.’
+“Good, bhikkhus. It is possible that a person of integrity would know of a person of integrity: ‘This is a person of integrity.’
 
 “A person of integrity is endowed with qualities of integrity; he is a person of integrity in his friendship, in the way he wills, the way he gives advice, the way he speaks, the way he acts, the views he holds, & the way he gives a gift.
 
@@ -79,7 +79,7 @@ I have heard that on one occasion the Blessed One was staying near Sāvatthī in
 
 “This person of integrity—thus endowed with qualities of integrity; a person of integrity in his friendship, in the way he wills, the way he gives advice, the way he speaks, the way he acts, the views he holds, & the way he gives a gift—on the break-up of the body, after death, reappears in the destination of people of integrity. And what is the destination of people of integrity? Greatness among devas or among human beings.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 See also: [[mn113-thanissaro]]; [[sn55.5-thanissaro]]; [[an2.31-thanissaro]]; [[an4.73-thanissaro]]; [[an4.192-thanissaro]]; [[an5.148-thanissaro]]; [[an8.54-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti17-thanissaro]]
 

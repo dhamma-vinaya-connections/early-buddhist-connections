@@ -22,7 +22,7 @@ language: "English - Pali"
 
 1“Of hate … delusion … anger … hostility … offensiveness … contempt … jealousy … stinginess … deceitfulness … deviousness … obstinacy … aggression … conceit … arrogance … vanity … for insight into negligence … complete understanding … complete ending … giving up … ending … vanishing … fading away … cessation … giving away … letting go of negligence these six things should be developed.”
 
-That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 1"Dosassa … pe … mohassa … kodhassa … upanāhassa … makkhassa … paḷāsassa … issāya … macchariyassa … māyāya … sāṭheyyassa … thambhassa … sārambhassa … mānassa … atimānassa … madassa … pamādassa abhiññāya … pe … pariññāya … parikkhayāya … pahānāya … khayāya … vayāya … virāgāya … nirodhāya … cāgāya … paṭinissaggāya … pe … ime cha dhammā bhāvetabbā"ti.
 

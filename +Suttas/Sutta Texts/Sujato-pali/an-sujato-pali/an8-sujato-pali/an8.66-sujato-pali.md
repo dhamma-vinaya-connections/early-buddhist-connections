@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these eight liberations. What eight?
+1“bhikkhus, there are these eight liberations. What eight?
 
 Having physical form, they see visions. This is the first liberation.
 

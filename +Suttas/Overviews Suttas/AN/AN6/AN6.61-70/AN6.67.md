@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> With bad friends, a mendicant cannot fulfill six good qualities, but with good friends they can
+> With bad friends, a bhikkhu cannot fulfill six good qualities, but with good friends they can
 
 > [!info] Key Excerpts 
 > With good friends, following their example is possible to fulfill the practice dealing with the supplementary regulations, then the trainee, then fulfill ethics to give up desire to be reborn in higher realms
 > 
-> It’s totally impossible that a mendicant with bad friends do that
+> It’s totally impossible that a bhikkhu with bad friends do that
 > 
 
 

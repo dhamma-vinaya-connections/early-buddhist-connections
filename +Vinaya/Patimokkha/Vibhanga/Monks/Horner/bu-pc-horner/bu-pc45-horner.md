@@ -7,13 +7,13 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC45]]
 > ◄  [[bu-pc44-horner]] 📜  [[bu-pc46-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 45
+# bhikkhus’ Expiation (_Pācittiya_) 45
 
 *Bu-Pc.45.1.1* *BD.2.360* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, having gone to the house of a friend, sat down in a private place together with his wife, the one with the other. Then that man … spread it about, saying:
 
 “How can master Upananda sit down in a private place together with a woman, the one with the other?”
 
-Monks heard this man who … spread it about. Those who were modest monks … spread it about, saving:
+bhikkhus heard this man who … spread it about. Those who were modest bhikkhus … spread it about, saving:
 
 “How can the venerable Upananda, the son of the Sakyans, sit down in a private place together with a woman, the one with the other?” …
 
@@ -23,19 +23,19 @@ Monks heard this man who … spread it about. Those who were modest monks … sp
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, sit down … the one with the other? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, sit down … the one with the other? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should sit down in a private place together with a woman, the one with the other, there is an offence of expiation.”[^1]
+“Whatever bhikkhu should sit down in a private place together with a woman, the one with the other, there is an offence of expiation.”[^1]
 
 * * *
 
-*Bu-Pc.45.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.45.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Woman means: a human woman, not a female _yakkha_, not a female departed one, not a female animal, one who is learned, competent to know good speech and bad speech, what is lewd and what is not lewd.[^2]
 
 *BD.2.361* Together with means: together.[^3]
 
-The one with, the other means: there is a monk and also a woman.[^4]
+The one with, the other means: there is a bhikkhu and also a woman.[^4]
 
 A private place means: … private from the eye … ordinary talk.[^5]
 
@@ -47,7 +47,7 @@ The Fifth *Vin.4.98*
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

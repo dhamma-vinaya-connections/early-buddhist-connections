@@ -20,18 +20,18 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a fine royal thoroughbred with three factors is worthy of a king, fit to serve a king, and reckoned as a factor of kingship. What three? It’s when a fine royal thoroughbred is beautiful, strong, and fast. A fine royal thoroughbred with these three factors is worthy of a king. …
+1“bhikkhus, a fine royal thoroughbred with three factors is worthy of a king, fit to serve a king, and reckoned as a factor of kingship. What three? It’s when a fine royal thoroughbred is beautiful, strong, and fast. A fine royal thoroughbred with these three factors is worthy of a king. …
 
-In the same way, a mendicant with three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What three? It’s when a mendicant is beautiful, strong, and fast.
+In the same way, a bhikkhu with three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What three? It’s when a bhikkhu is beautiful, strong, and fast.
 
-2And how is a mendicant beautiful? It’s when a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. That’s how a mendicant is beautiful.
+2And how is a bhikkhu beautiful? It’s when a bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. That’s how a bhikkhu is beautiful.
 
-3And how is a mendicant strong? It’s when a mendicant lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. That’s how a mendicant is strong.
+3And how is a bhikkhu strong? It’s when a bhikkhu lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. That’s how a bhikkhu is strong.
 
 
-4And how is a mendicant fast? It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. That’s how a mendicant is fast.
+4And how is a bhikkhu fast? It’s when a bhikkhu truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. That’s how a bhikkhu is fast.
 
-A mendicant with these three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
+A bhikkhu with these three factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
 
 1"Tīhi, bhikkhave, aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhyaṁ gacchati. Katamehi tīhi? Idha, bhikkhave, rañño bhadro assājānīyo vaṇṇasampanno ca hoti balasampanno ca javasampanno ca. Imehi kho, bhikkhave, tīhi aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhyaṁ gacchati.
 

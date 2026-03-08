@@ -44,12 +44,12 @@ parallels_partilal: "[[AN8.13]], [[SA-2.150]], [[SA925]], [[SA-2.149]], [[SA924]
 ## 🌐 Overview
 
 > [!info] Summary
-> Eight flaws in wild horses, similar to eight flaws in mendicants
+> Eight flaws in wild horses, similar to eight flaws in bhikkhus
 
 > [!info] Key Excerpts 
-> The accused mendicant evades it, objects, retorts to the accuser, dodges the issue, gesticulates while speaking, ignores the saṅgha, frustrates tby staying silent, reject the training
+> The accused bhikkhu evades it, objects, retorts to the accuser, dodges the issue, gesticulates while speaking, ignores the saṅgha, frustrates tby staying silent, reject the training
 > 
-> Mendicant with these eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration
+> bhikkhu with these eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration
 > 
 
 > [!info] Similes

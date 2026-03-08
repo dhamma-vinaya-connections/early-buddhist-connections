@@ -15,19 +15,19 @@ language: "Pali - English"
 
 459. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū bhikkhuṃ amūlakena saṅghādisesena anuddhaṃsenti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma chabbaggiyā bhikkhū bhikkhuṃ amūlakena saṅghādisesena anuddhaṃsessantī’’ti…pe… saccaṃ kira tumhe, bhikkhave, bhikkhuṃ amūlakena saṅghādisesena anuddhaṃsethāti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tumhe, moghapurisā, bhikkhuṃ amūlakena saṅghādisesena anuddhaṃsessatha! Netaṃ, moghapurisā, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-459.At that time the Blessed One was dwelling at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s Monastery. Now at that time the group-of-six monks were groundlessly accusing a monk of a Saṅghādisesa offense. Those monks who were modest… grumbled, criticized, and complained: “How could the group-of-six monks groundlessly accuse a monk of a Saṅghādisesa offense?”… “Is it true, monks, that you groundlessly accused a monk of a Saṅghādisesa offense?” “It is true, Blessed One.” The Blessed One rebuked them… “How could you, foolish men, groundlessly accuse a monk of a Saṅghādisesa offense? This will not lead to confidence in the unconvinced…” … “And thus, monks, this training rule should be recited:
+459.At that time the Blessed One was dwelling at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s Monastery. Now at that time the group-of-six bhikkhus were groundlessly accusing a bhikkhu of a Saṅghādisesa offense. Those bhikkhus who were modest… grumbled, criticized, and complained: “How could the group-of-six bhikkhus groundlessly accuse a bhikkhu of a Saṅghādisesa offense?”… “Is it true, bhikkhus, that you groundlessly accused a bhikkhu of a Saṅghādisesa offense?” “It is true, Blessed One.” The Blessed One rebuked them… “How could you, foolish men, groundlessly accuse a bhikkhu of a Saṅghādisesa offense? This will not lead to confidence in the unconvinced…” … “And thus, bhikkhus, this training rule should be recited:
 
 460. ‘‘Yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiya’’nti.
 
-460.“If a monk should accuse another monk of a Saṅghādisesa offense without basis, he commits an offense entailing confession.”
+460.“If a bhikkhu should accuse another bhikkhu of a Saṅghādisesa offense without basis, he commits an offense entailing confession.”
 
 461. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-461.“Whoever” means: whatever sort of person… “Monk” means: the monk intended in this case.
+461.“Whoever” means: whatever sort of person… “bhikkhu” means: the bhikkhu intended in this case.
 
 Bhikkhunti aññaṃ bhikkhuṃ.
 
-“Another monk” means: another monk.
+“Another bhikkhu” means: another bhikkhu.
 
 Amūlakaṃ nāma adiṭṭhaṃ assutaṃ aparisaṅkitaṃ.
 
@@ -43,7 +43,7 @@ Anuddhaṃseyyāti codeti vā codāpeti vā, āpatti pācittiyassa.
 
 462. Upasampanne upasampannasaññī amūlakena saṅghādisesena anuddhaṃseti, āpatti pācittiyassa. Upasampanne vematiko amūlakena saṅghādisesena anuddhaṃseti, āpatti pācittiyassa. Upasampanne anupasampannasaññī amūlakena saṅghādisesena anuddhaṃseti, āpatti pācittiyassa.
 
-462.If, regarding a fully ordained monk, he perceives him as fully ordained and groundlessly accuses him of a Saṅghādisesa offense, he commits an offense entailing confession. If, regarding a fully ordained monk, he is in doubt and groundlessly accuses him of a Saṅghādisesa offense, he commits an offense entailing confession. If, regarding a fully ordained monk, he perceives him as not fully ordained and groundlessly accuses him of a Saṅghādisesa offense, he commits an offense entailing confession.
+462.If, regarding a fully ordained bhikkhu, he perceives him as fully ordained and groundlessly accuses him of a Saṅghādisesa offense, he commits an offense entailing confession. If, regarding a fully ordained bhikkhu, he is in doubt and groundlessly accuses him of a Saṅghādisesa offense, he commits an offense entailing confession. If, regarding a fully ordained bhikkhu, he perceives him as not fully ordained and groundlessly accuses him of a Saṅghādisesa offense, he commits an offense entailing confession.
 
 Ācāravipattiyā vā diṭṭhivipattiyā vā anuddhaṃseti, āpatti dukkaṭassa. Anupasampannaṃ anuddhaṃseti, āpatti dukkaṭassa. Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko, āpatti dukkaṭassa. Anupasampanne anupasampannasaññī, āpatti dukkaṭassa.
 

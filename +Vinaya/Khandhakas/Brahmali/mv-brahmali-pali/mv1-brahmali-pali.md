@@ -235,11 +235,11 @@ But an invisible god informed the Buddha: “Sir, Ālāra Kālāma died seven da
 
 But an invisible god informed the Buddha: “Sir, Udaka Rāmaputta died last night,” and the Buddha also knew this for himself. He thought: “Udaka Rāmaputta’s loss is great. If he had heard this Teaching, he would have understood it quickly.”
 
-55Once again the Buddha thought: “Who should I teach first? Who will understand this Teaching quickly?” And it occurred to him: “The group of five monks who supported me while I was striving were of great service to me. Let me teach them first.
+55Once again the Buddha thought: “Who should I teach first? Who will understand this Teaching quickly?” And it occurred to him: “The group of five bhikkhus who supported me while I was striving were of great service to me. Let me teach them first.
 
 But where are they staying now?”
 
-With his superhuman and purified clairvoyance, the Buddha saw that the group of five monks were staying near Benares, in the deer park at Isipatana. Then, after staying at Uruvelā for as long as he liked, he set out wandering toward Benares.
+With his superhuman and purified clairvoyance, the Buddha saw that the group of five bhikkhus were staying near Benares, in the deer park at Isipatana. Then, after staying at Uruvelā for as long as he liked, he set out wandering toward Benares.
 
 56The Ājīvaka ascetic Upaka saw the Buddha traveling between Gayā and the place of awakening. He said to the Buddha: “Sir, your senses are clear and your skin is pure and bright. In whose name have you gone forth?
 
@@ -279,13 +279,13 @@ Therefore, Upaka, I’m a conqueror.”
 
 63Saying: “May it be so,” Upaka shook his head, chose the wrong path, and left.
 
-64The Buddha continued wandering toward the deer park at Isipatana near Benares. When he eventually arrived, he went to the group of five monks.
+64The Buddha continued wandering toward the deer park at Isipatana near Benares. When he eventually arrived, he went to the group of five bhikkhus.
 
 Seeing him coming, the group of five made an agreement with one another: “Here comes the ascetic Gotama, who has given up his striving and returned to a life of indulgence. We shouldn’t bow down to him, stand up for him, or receive his bowl and robe, but we should prepare a seat. If he wishes, he may sit down.”
 
-But as the Buddha approached, the group of five monks was unable to keep their agreement. One went to meet him to receive his bowl and robe, another prepared a seat, another set out water for washing the feet, yet another set out a foot stool, and the last one put out a foot scraper. The Buddha sat down on the prepared seat and washed his feet. But they still addressed him by name and as “friend”.
+But as the Buddha approached, the group of five bhikkhus was unable to keep their agreement. One went to meet him to receive his bowl and robe, another prepared a seat, another set out water for washing the feet, yet another set out a foot stool, and the last one put out a foot scraper. The Buddha sat down on the prepared seat and washed his feet. But they still addressed him by name and as “friend”.
 
-65The Buddha said to the group of five monks: “Monks, don’t address the Buddha by name or as ‘friend’. Listen, I’m perfected and fully awakened. I have discovered the deathless. I will instruct you and teach you the Truth. When you practice as instructed, in this very life you will soon realize with your own insight the supreme goal of the spiritual life for which gentlemen rightly go forth into homelessness.”
+65The Buddha said to the group of five bhikkhus: “bhikkhus, don’t address the Buddha by name or as ‘friend’. Listen, I’m perfected and fully awakened. I have discovered the deathless. I will instruct you and teach you the Truth. When you practice as instructed, in this very life you will soon realize with your own insight the supreme goal of the spiritual life for which gentlemen rightly go forth into homelessness.”
 
 They replied: “Friend Gotama, by practicing extreme austerities you didn’t gain any superhuman quality, any distinction in knowledge and vision worthy of noble ones. Since you have given up your striving and returned to a life of indulgence, how could you now have achieved any of this?”
 
@@ -293,7 +293,7 @@ They replied: “Friend Gotama, by practicing extreme austerities you didn’t g
 The Buddha said: “I haven’t given up striving and returned to a life of indulgence,” and he repeated what he had said before.
 
 
-66A second time the group of five monks repeated their question and a second time the Buddha repeated his reply.
+66A second time the group of five bhikkhus repeated their question and a second time the Buddha repeated his reply.
 
 
 67A third time they repeated their question and the Buddha then said: “Have you ever heard me speak like this?”
@@ -302,7 +302,7 @@ The Buddha said: “I haven’t given up striving and returned to a life of indu
 
 “Then listen. I’m perfected and fully awakened. I have discovered the deathless. I will instruct you and teach you the Truth. When you practice as instructed, in this very life you will soon realize with your own insight the supreme goal of the spiritual life for which gentlemen rightly go forth into homelessness.”
 
-The Buddha was able to persuade the group of five monks. They then listened to the Buddha, paid careful attention, and applied their minds to understand.
+The Buddha was able to persuade the group of five bhikkhus. They then listened to the Buddha, paid careful attention, and applied their minds to understand.
 
 
 68And the Buddha addressed them:
@@ -310,7 +310,7 @@ The Buddha was able to persuade the group of five monks. They then listened to t
 69“There are these two opposites that should not be pursued by one who has gone forth. One is the devotion to worldly pleasures, which is inferior, crude, common, ignoble, and unbeneficial. The other is the devotion to self-torment, which is painful, ignoble, and unbeneficial. By avoiding these opposites, I have awakened to the middle path, which produces vision and knowledge, which leads to peace, insight, awakening, and extinguishment.
 
 
-70And what, monks, is that middle path? It’s just this noble eightfold path, that is, right view, right aim, right speech, right action, right livelihood, right effort, right mindfulness, and right stillness.
+70And what, bhikkhus, is that middle path? It’s just this noble eightfold path, that is, right view, right aim, right speech, right action, right livelihood, right effort, right mindfulness, and right stillness.
 
 
 71And this is noble truth of suffering: birth is suffering, old age is suffering, sickness is suffering, death is suffering, association with what is disliked is suffering, separation from what is liked is suffering, not getting what you want is suffering. In brief, the five aspects of existence affected by grasping are suffering.
@@ -335,7 +335,7 @@ I knew that this noble truth of the path leading to the end of suffering should 
 
 80But when I had fully purified my knowledge and vision according to reality of these four noble truths with their three stages and twelve characteristics, then I did claim the supreme full awakening in this world with its gods, lords of death, and supreme beings, in this society with its monastics and brahmins, its gods and people. And knowledge and vision arose in me: ‘My freedom is unshakable, this is my last birth, now there is no further rebirth.’”
 
-This is what the Buddha said. The monks from the group of five were pleased and they rejoiced in the Buddha’s exposition.
+This is what the Buddha said. The bhikkhus from the group of five were pleased and they rejoiced in the Buddha’s exposition.
 
 81And while this exposition was being spoken, Venerable Koṇḍañña experienced the stainless vision of the Truth: “Anything that has a beginning has an end.”
 
@@ -350,20 +350,20 @@ This is what the Buddha said. The monks from the group of five were pleased and 
 
 The Buddha replied: “Come, monk. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of that venerable.
 
-86The Buddha then instructed and taught the rest of the monks. While they were being instructed and taught, Venerable Vappa and Venerable Bhaddiya experienced the stainless vision of the Truth: “Anything that has a beginning has an end.”
+86The Buddha then instructed and taught the rest of the bhikkhus. While they were being instructed and taught, Venerable Vappa and Venerable Bhaddiya experienced the stainless vision of the Truth: “Anything that has a beginning has an end.”
 
 They had seen the Truth, had reached, understood, and penetrated it. They had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. They then said to the Buddha: “Sir, we wish to receive the going forth in your presence. We wish to receive the full ordination.”
 
-The Buddha replied: “Come, monks. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables.
+The Buddha replied: “Come, bhikkhus. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables.
 
 
-87Living on the food brought to him, the Buddha then instructed and taught the remaining monks. The six of them lived on the almsfood brought by three.
+87Living on the food brought to him, the Buddha then instructed and taught the remaining bhikkhus. The six of them lived on the almsfood brought by three.
 
 While they were being instructed and taught, Venerable Mahānāma and Venerable Assaji experienced the stainless vision of the Truth: “Anything that has a beginning has an end.”
 
 They had seen the Truth, had reached, understood, and penetrated it; they had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. They then said to the Buddha: “Sir, we wish to receive the going forth in your presence. We wish to receive the full ordination.”
 
-The Buddha replied: “Come, monks. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables.
+The Buddha replied: “Come, bhikkhus. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables.
 
 
 88Then the Buddha addressed the group of five:
@@ -380,7 +380,7 @@ The Buddha replied: “Come, monks. The Teaching is well-proclaimed. Practice th
 93Consciousness is not your essence. For if consciousness were your essence, it would not lead to suffering, and you could make it be like this and not be like that. But because consciousness is not your essence, it leads to suffering, and you can’t make it be like this and not be like that.
 
 
-94What do you think, monks: is form permanent or impermanent?”
+94What do you think, bhikkhus: is form permanent or impermanent?”
 
 “Impermanent, Sir.”
 
@@ -414,7 +414,7 @@ The Buddha replied: “Come, monks. The Teaching is well-proclaimed. Practice th
 
 104A learned noble disciples who sees this is repelled by form, repelled by feeling, repelled by perception, repelled by intentional activities, and repelled by consciousness. Being repelled, they become desireless. Because they are desireless, they are freed. When they are freed, they know they are freed. They understand that birth has come to an end, that the spiritual life has been fulfilled, that the job has been done, that there is no further state of existence.”
 
-105This is what the Buddha said. The monks from the group of five were pleased and they rejoiced in the Buddha’s exposition. And while this exposition was being spoken to the monks from the group of five, their minds were freed from the corruptions through letting go.
+105This is what the Buddha said. The bhikkhus from the group of five were pleased and they rejoiced in the Buddha’s exposition. And while this exposition was being spoken to the bhikkhus from the group of five, their minds were freed from the corruptions through letting go.
 
 
 Then there were six perfected ones in the world.
@@ -470,7 +470,7 @@ When the merchant heard this, he was elated and joyful. And he bowed and sat dow
 
 114The Buddha then gave him a progressive talk on generosity, morality, and heaven; on the danger, degradation, and defilement of worldly pleasures; and he revealed the benefits of renunciation. When the Buddha knew that his mind was ready, supple, without hindrances, joyful, and confident, he revealed the teaching unique to the Buddhas: suffering, its origin, its end, and the path. And just as a clean and stainless cloth absorbs dye properly, so too, while he was sitting right there, the merchant experienced the stainless vision of the Truth: “Anything that has a beginning has an end.”
 
-115He had seen the Truth, had reached, understood, and penetrated it. He had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. And he said to the Buddha: “Wonderful, Venerable Sir, wonderful! Just as one might set upright what had been overturned, or reveal what was hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what’s there just so has the Buddha made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of monks. Please accept me as a lay follower who has gone for refuge for life.” He was the first person in the world to become a lay follower by means of the triple refuge.
+115He had seen the Truth, had reached, understood, and penetrated it. He had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. And he said to the Buddha: “Wonderful, Venerable Sir, wonderful! Just as one might set upright what had been overturned, or reveal what was hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what’s there just so has the Buddha made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of bhikkhus. Please accept me as a lay follower who has gone for refuge for life.” He was the first person in the world to become a lay follower by means of the triple refuge.
 
 116While his father was given this teaching, Yasa reviewed what he had already seen and understood, and his mind was freed from the corruptions through letting go. Realizing what had happened, the Buddha thought: “Yasa is incapable of returning to the lower life to enjoy worldly pleasures as he did while still a householder. Let me stop using my supernormal powers.” And he did.
 
@@ -501,7 +501,7 @@ The Buddha said: “Come, monk. The Teaching is well-proclaimed. Practice the sp
 
 121The Buddha gave them a progressive talk on generosity, morality, and heaven; on the danger, degradation, and defilement of worldly pleasures; and he revealed the benefits of renunciation. When the Buddha knew that their minds were ready, supple, without hindrances, joyful, and confident, he revealed the teaching unique to the Buddhas: suffering, its origin, its end, and the path. And just as a clean and stainless cloth absorbs dye properly, so too, while they were sitting right there, they experienced the stainless vision of the Truth: “Anything that has a beginning has an end.”
 
-They had seen the Truth, had reached, understood, and penetrated it. They had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. And they said to the Buddha: “Wonderful, Venerable Sir, wonderful! … We go for refuge to the Buddha, the Teaching, and the Saṅgha of monks. Please accept us as lay followers who have gone for refuge for life.” And they were the first women in the world to become lay followers by means of the triple refuge.
+They had seen the Truth, had reached, understood, and penetrated it. They had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. And they said to the Buddha: “Wonderful, Venerable Sir, wonderful! … We go for refuge to the Buddha, the Teaching, and the Saṅgha of bhikkhus. Please accept us as lay followers who have gone for refuge for life.” And they were the first women in the world to become lay followers by means of the triple refuge.
 
 122Yasa’s mother, father, and ex-wife personally served various kinds of fine food to the Buddha and Yasa. When the Buddha had finished his meal, they sat down. The Buddha then instructed, inspired, and gladdened them with a teaching, before getting up from his seat and leaving.
 
@@ -513,7 +513,7 @@ They had seen the Truth, had reached, understood, and penetrated it. They had go
 
 They had seen the Truth, had reached, understood, and penetrated it. They had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. And they said to the Buddha: “Venerable Sir, we wish to receive the going forth in your presence. We wish to receive the full ordination.”
 
-The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables. Then, as the Buddha instructed those monks in the Teaching, their minds were freed from the corruptions through letting go. And there were eleven perfected ones in the world.
+The Buddha said: “Come, bhikkhus. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables. Then, as the Buddha instructed those bhikkhus in the Teaching, their minds were freed from the corruptions through letting go. And there were eleven perfected ones in the world.
 
 
 126The going forth of the four friends is finished.
@@ -527,7 +527,7 @@ The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the s
 
 They had seen the Truth, had reached, understood, and penetrated it. They had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. And they said to the Buddha: “Venerable Sir, we wish to receive the going forth in your presence. We wish to receive the full ordination.”
 
-The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables. Then, as the Buddha instructed those monks in the Teaching, their minds were freed from the corruptions through letting go. And there were sixty-one perfected ones in the world.
+The Buddha said: “Come, bhikkhus. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables. Then, as the Buddha instructed those bhikkhus in the Teaching, their minds were freed from the corruptions through letting go. And there were sixty-one perfected ones in the world.
 
 130The going forth of the fifty friends is finished.
 
@@ -541,7 +541,7 @@ The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the s
 > ```
 
 
-131Then the Buddha addressed those monks: “I’m free from all snares, both human and divine. You, too, are free from all snares, both human and divine. Go wandering, monks, for the benefit and happiness of humanity, out of compassion for the world, for the good, benefit, happiness of gods and humans. You should each go a different way. Proclaim the Teaching that is good in the beginning, good in the middle, and good in the end, that has a true goal and is well articulated. Set out the perfectly complete and pure spiritual life. There are beings with little dust in their eyes who are ruined because of not hearing the Teaching. There will be those who understand. I too will go to Uruvelā, to Senānigama, to proclaim the Teaching.”
+131Then the Buddha addressed those bhikkhus: “I’m free from all snares, both human and divine. You, too, are free from all snares, both human and divine. Go wandering, bhikkhus, for the benefit and happiness of humanity, out of compassion for the world, for the good, benefit, happiness of gods and humans. You should each go a different way. Proclaim the Teaching that is good in the beginning, good in the middle, and good in the end, that has a true goal and is well articulated. Set out the perfectly complete and pure spiritual life. There are beings with little dust in their eyes who are ruined because of not hearing the Teaching. There will be those who understand. I too will go to Uruvelā, to Senānigama, to proclaim the Teaching.”
 
 132Then the Lord of Death, the Evil One, went up to the Buddha and spoke to him in verse:
 
@@ -579,19 +579,19 @@ Terminator, you’re defeated!”
 > ```
 
 
-139Soon afterwards, the monks were bringing back, from various regions and countries, people desiring the going forth and the full ordination, thinking: “The Buddha will ordain them.” The monks became tired, as did those seeking ordination.
+139Soon afterwards, the bhikkhus were bringing back, from various regions and countries, people desiring the going forth and the full ordination, thinking: “The Buddha will ordain them.” The bhikkhus became tired, as did those seeking ordination.
 
 
-Then, while reflecting in private, the Buddha thought: “Why don’t I allow the monks to give the going forth and the full ordination right there in those various regions and countries?”
+Then, while reflecting in private, the Buddha thought: “Why don’t I allow the bhikkhus to give the going forth and the full ordination right there in those various regions and countries?”
 
-140In the evening, the Buddha came out from seclusion, gave a teaching, and told the monks what he had thought, adding:
+140In the evening, the Buddha came out from seclusion, gave a teaching, and told the bhikkhus what he had thought, adding:
 
 
 “I allow you to give the going forth and the full ordination in those various regions and countries.
 
-And, monks, it should be done like this.
+And, bhikkhus, it should be done like this.
 
-141First the candidate should shave off his hair and beard and put on ocher robes. He should then put his upper robe over one shoulder, pay respect at the feet of the monks, squat on his heels, and raise his joined palms. He should then be told to say this:
+141First the candidate should shave off his hair and beard and put on ocher robes. He should then put his upper robe over one shoulder, pay respect at the feet of the bhikkhus, squat on his heels, and raise his joined palms. He should then be told to say this:
 
 
 142‘I go for refuge to the Buddha,  
@@ -620,7 +620,7 @@ For the third time I go for refuge to the Saṅgha.’
 > ```
 
 
-147When the Buddha had completed the rainy-season residence, he said to the monks: “Through wise attention and wise right effort, I have reached the supreme freedom, realized the supreme freedom. And you, monks, have done the same.”
+147When the Buddha had completed the rainy-season residence, he said to the bhikkhus: “Through wise attention and wise right effort, I have reached the supreme freedom, realized the supreme freedom. And you, bhikkhus, have done the same.”
 
 Then the Lord of Death, the Evil One, went up to the Buddha and spoke to him in verse:
 
@@ -674,7 +674,7 @@ Saying: “Yes, Sir,” those friends bowed to the Buddha and sat down.
 
 They had seen the Truth, had reached, understood, and penetrated it. They had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. And they said to the Buddha: “Venerable Sir, we wish to receive the going forth in your presence. We wish to receive the full ordination.”
 
-The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables.
+The Buddha said: “Come, bhikkhus. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables.
 
 154The account of the fine group of friends is finished.  
   
@@ -919,7 +919,7 @@ Uruvelā Kassapa thought: “I hope the Great Ascetic hasn’t been swept away b
 
 Then, after letting their hair and dreadlocks, their carrying pole and bundle, and their fire-worship implements be carried away by the water, they went to the Buddha. They bowed down with their head at his feet and said: “Venerable Sir, we wish to receive the going forth in your presence. We wish to receive the full ordination.”
 
-The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” And that was the full ordination of those venerables.
+The Buddha said: “Come, bhikkhus. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” And that was the full ordination of those venerables.
 
 194Nadī Kassapa saw those things being carried away by the water, and he thought: “I hope my brother is okay.” He dispatched his ascetics, saying: “Go and check on my brother.” Together with the three hundred ascetics he then went to Uruvelā Kassapa and said: “Is this better, Kassapa?”
 
@@ -928,7 +928,7 @@ The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the s
 
 Then, after letting their hair and dreadlocks, their carrying pole and bundle, and their fire-worship implements be carried away by the water, they went to the Buddha. They bowed down with their head at his feet and said: “Venerable Sir, we wish to receive the going forth in your presence We wish to receive the full ordination.”
 
-The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” And that was the full ordination of those venerables.
+The Buddha said: “Come, bhikkhus. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” And that was the full ordination of those venerables.
 
 195Gayā Kassapa saw those things being carried away by the water, and he thought: “I hope my brothers are okay.” He dispatched his ascetics, saying: “Go and check on my brothers.” Together with the two hundred ascetics he then went to Uruvelā Kassapa and said: “Is this better, Kassapa?”
 
@@ -937,13 +937,13 @@ The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the s
 
 Then, after letting their hair and dreadlocks, their carrying pole and bundle, and their fire-worship implements be carried away by the water, they went to the Buddha. They bowed down with their head at his feet and said: “Venerable Sir, we wish to receive the going forth in your presence. We wish to receive the full ordination.”
 
-The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” And that was the full ordination of those venerables.
+The Buddha said: “Come, bhikkhus. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” And that was the full ordination of those venerables.
 
 196By an act of supernormal determination the Buddha stopped five hundred logs from being split before splitting them; he stopped fires from being lit before lighting them; he then stopped them from being extinguished before extinguishing them; and he manifested five hundred pans with hot coals. In this way, there were three and a half thousand wonders.
 
-197After staying at Uruvelā for as long as he liked, the Buddha went to Gayāsīsa together with that large saṅgha of one thousand monks, all of them previously dreadlocked ascetics, and they stayed there.
+197After staying at Uruvelā for as long as he liked, the Buddha went to Gayāsīsa together with that large saṅgha of one thousand bhikkhus, all of them previously dreadlocked ascetics, and they stayed there.
 
-Then the Buddha addressed the monks:
+Then the Buddha addressed the bhikkhus:
 
 
 198“Everything is burning. What is that everything that is burning? The eye is burning. Sights are burning. Eye consciousness is burning. Eye contact is burning. Whatever feeling arises because of eye contact—whether pleasant, painful, or neither-pleasant-nor-painful—that too is burning. Burning with what? Burning with the fire of sensual desire, the fire of ill will, and the fire of confusion; burning with birth, old age, and death; burning with grief, sorrow, pain, aversion, and distress, I say.
@@ -974,7 +974,7 @@ They are repelled by the mind, repelled by mental phenomena, repelled by mind co
 
 Being repelled, they become desireless. Because they are desireless, they are freed. When they are freed, they know they are freed. They understand that birth has come to an end, that the spiritual life has been fulfilled, that the job has been done, that there is no further state of existence.”
 
-200And while this exposition was being spoken, the minds of those one thousand monks were freed from the corruptions through letting go.
+200And while this exposition was being spoken, the minds of those one thousand bhikkhus were freed from the corruptions through letting go.
 
 201The discourse on burning is finished.  
 The third section for recitation on the wonders at Uruvelā is finished.
@@ -989,7 +989,7 @@ The third section for recitation on the wonders at Uruvelā is finished.
 > ```
 
 
-202After staying at Gayāsīsa for as long as he liked, the Buddha set out wandering toward Rājagaha with that large saṅgha of one thousand monks, all of them previously dreadlocked ascetics. When he eventually arrived, he stayed in the cane grove at the Suppatiṭṭha Shrine.
+202After staying at Gayāsīsa for as long as he liked, the Buddha set out wandering toward Rājagaha with that large saṅgha of one thousand bhikkhus, all of them previously dreadlocked ascetics. When he eventually arrived, he stayed in the cane grove at the Suppatiṭṭha Shrine.
 
 King Seniya Bimbisāra of Magadha was told: “Sir, the ascetic Gotama, the Sakyan, who has gone forth from the Sakyan clan, has arrived at Rājagaha and is staying in the cane grove at the Suppatiṭṭha Shrine. That good Gotama has a fine reputation:
 
@@ -1028,13 +1028,13 @@ And just as a clean and stainless cloth absorbs dye properly, so too, while they
 
 209King Bimbisāra had seen the Truth, had reached, understood, and penetrated it. He had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. He then said to the Buddha: “Venerable Sir, when I was a prince, I had five wishes, and they have now been fulfilled. When I was a prince, I thought, ‘Oh, I wish they would anoint me as the king!’ That was my first wish, which has now been fulfilled. ‘May one who is perfected and fully awakened come to my kingdom!’ That was my second wish, which has now been fulfilled. ‘May I get to visit that Buddha!’ That was my third wish, which has now been fulfilled. ‘May that Buddha give me a teaching!’ That was my fourth wish, which has now been fulfilled. ‘May I understand the Teaching of that Buddha!’ That was my fifth wish, which has now been fulfilled.
 
-Wonderful, Sir, wonderful! Just as one might set upright what had been overturned, or reveal what was hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what’s there just so has the Buddha made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of monks. Please accept me as a lay follower who has gone for refuge for life. And please accept tomorrow’s meal from me together with the Saṅgha of monks.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, the King got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
+Wonderful, Sir, wonderful! Just as one might set upright what had been overturned, or reveal what was hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what’s there just so has the Buddha made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of bhikkhus. Please accept me as a lay follower who has gone for refuge for life. And please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, the King got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
 
 The following morning King Bimbisāra had various kinds of fine food prepared. He then had the Buddha informed that the meal was ready.
 
-210The Buddha robed up, took his bowl and robe, and together with a large saṅgha of a thousand monks, all previously dreadlocked ascetics, he entered Rājagaha.
+210The Buddha robed up, took his bowl and robe, and together with a large saṅgha of a thousand bhikkhus, all previously dreadlocked ascetics, he entered Rājagaha.
 
-Just then Sakka, the ruler of the gods, had transformed himself into a young brahmin. He walked in front of the Saṅgha of monks headed by the Buddha, chanting these verses:
+Just then Sakka, the ruler of the gods, had transformed himself into a young brahmin. He walked in front of the Saṅgha of bhikkhus headed by the Buddha, chanting these verses:
 
 
 211“The Tamed One with the tamed ones, previously dreadlocked;  
@@ -1070,13 +1070,13 @@ Purified, perfected, and without equal;
 The one in the world who is happy  
 I’m his servant.”
 
-218The Buddha then went to King Bimbisāra’s house, where he sat down on the prepared seat, together with the Saṅgha of monks. The King personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha.
+218The Buddha then went to King Bimbisāra’s house, where he sat down on the prepared seat, together with the Saṅgha of bhikkhus. The King personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha.
 
 When the Buddha had finished his meal, the King sat down to one side. And he thought: “Where will the Buddha stay that’s neither too far from habitation nor too close, that has good access roads, that’s easily accessible for people who seek him, that has few people during the day and is quiet at night, that’s free from chatter and offers solitude, a private resting place suitable for seclusion?”
 
-And it occurred to him: “My Bamboo Grove park has all these qualities. Why don’t I give it to the Saṅgha of monks headed by the Buddha?”
+And it occurred to him: “My Bamboo Grove park has all these qualities. Why don’t I give it to the Saṅgha of bhikkhus headed by the Buddha?”
 
-The King then took hold of a golden ceremonial vessel and dedicated the park to the Buddha, saying: “I give this park, the Bamboo Grove, to the Saṅgha of monks headed by the Buddha.” The Buddha accepted the park. After instructing, inspiring, and gladdening the King with a teaching, he got up from his seat and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+The King then took hold of a golden ceremonial vessel and dedicated the park to the Buddha, saying: “I give this park, the Bamboo Grove, to the Saṅgha of bhikkhus headed by the Buddha.” The Buddha accepted the park. After instructing, inspiring, and gladdening the King with a teaching, he got up from his seat and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow monasteries.”
 
@@ -1161,7 +1161,7 @@ For innumerable eons.”
 Sāriputta and Moggallāna said the same thing a second time and a third time, and they got the same reply. They then took those two hundred and fifty wanderers and went to the Bamboo Grove. But the wanderer Sañcaya vomited hot blood right there.
 
 
-235When the Buddha saw Sāriputta and Moggallāna coming, he said to the monks:
+235When the Buddha saw Sāriputta and Moggallāna coming, he said to the bhikkhus:
 
 “The two friends Kolita and Upatissa are coming. They will become my most eminent disciples, an excellent pair.”
 
@@ -1177,18 +1177,18 @@ My most eminent disciples.”
 
 238Sāriputta and Moggallāna approached the Buddha, bowed down with their heads at the his feet, and said: “Venerable Sir, we wish to receive the going forth in your presence. We wish to receive the full ordination.”
 
-The Buddha said: “Come, monks. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables.
+The Buddha said: “Come, bhikkhus. The Teaching is well-proclaimed. Practice the spiritual life to make a complete end of suffering.” That was the full ordination of those venerables.
 
 ##### 14.1 The going forth of the well-known
 
-239At that time many well-known gentlemen from Magadha who were practicing the spiritual life under the Buddha. People complained and criticized him: “The ascetic Gotama is making us childless; he’s making us widows. He’s breaking up good families! A thousand dreadlocked ascetics have now gone forth because of him, and also these two hundred and fifty wanderers who were disciples of Sañcaya. All these well-known gentlemen from Magadha are practicing the spiritual life under the ascetic Gotama.” And when they saw monks, they confronted them with this verse:
+239At that time many well-known gentlemen from Magadha who were practicing the spiritual life under the Buddha. People complained and criticized him: “The ascetic Gotama is making us childless; he’s making us widows. He’s breaking up good families! A thousand dreadlocked ascetics have now gone forth because of him, and also these two hundred and fifty wanderers who were disciples of Sañcaya. All these well-known gentlemen from Magadha are practicing the spiritual life under the ascetic Gotama.” And when they saw bhikkhus, they confronted them with this verse:
 
 240“The Great Ascetic has arrived  
 At Giribbaja in Magadha.  
 After leading away all of Sañcaya’s disciples,  
 Who will he lead away next?”
 
-241The monks heard the complaints of those people and they told the Buddha what had happened. … “The complaining will soon stop. It will only go on for seven days. Still, when people confront you like this you can confront them in return with this verse:
+241The bhikkhus heard the complaints of those people and they told the Buddha what had happened. … “The complaining will soon stop. It will only go on for seven days. Still, when people confront you like this you can confront them in return with this verse:
 
 
 242‘Indeed, the Great Heroes, the Buddhas,  
@@ -1196,7 +1196,7 @@ Lead by means of a good teaching.
 When you understand this, what indignation can there be  
 Toward those who lead legitimately?’”
 
-243Soon, when they saw monks, people confronted them with the same verse:
+243Soon, when they saw bhikkhus, people confronted them with the same verse:
 
 244“The Great Ascetic has arrived  
 At Giribbaja in Magadha.  
@@ -1204,14 +1204,14 @@ After leading away all of Sañcaya’s disciples,
 Who will he lead away next?”
 
 
-245And the monks confronted them in return with this verse:
+245And the bhikkhus confronted them in return with this verse:
 
 246“Indeed, the Great Heroes, the Buddhas,  
 Lead by means of a good teaching.  
 When you understand this, what indignation can there be  
 Toward those who lead legitimately?”
 
-247And the monks confronted them in return with this verse:
+247And the bhikkhus confronted them in return with this verse:
 
 248“The Great Ascetic has arrived  
 At Giribbaja in Magadha.  
@@ -1234,17 +1234,17 @@ The fourth section for recitation is finished.
 > ```
 
 
-251At that time the monks did not have preceptors or teachers, and as a result they were not being instructed. When walking for almsfood, they were shabbily dressed and improper in appearance. While people were eating, they held out their almsbowls to receive leftovers, even right over their food, whether it was cooked or fresh food, delicacies or drinks. They ate bean curry and rice that they themselves had asked for, and they were noisy in the dining hall.
+251At that time the bhikkhus did not have preceptors or teachers, and as a result they were not being instructed. When walking for almsfood, they were shabbily dressed and improper in appearance. While people were eating, they held out their almsbowls to receive leftovers, even right over their food, whether it was cooked or fresh food, delicacies or drinks. They ate bean curry and rice that they themselves had asked for, and they were noisy in the dining hall.
 
 
 People complained and criticized them: “How can the Sakyan monastics act like this? They are just like brahmins at a brahminical meal!”
 
-252The monks heard the complaints of those people. The monks of few desires, who had a sense of conscience, and who were contented, afraid of wrongdoing, and fond of the training, complained and criticized them: “How can monks act like this?”
+252The bhikkhus heard the complaints of those people. The bhikkhus of few desires, who had a sense of conscience, and who were contented, afraid of wrongdoing, and fond of the training, complained and criticized them: “How can bhikkhus act like this?”
 
 They then told the Buddha.
 
 
-253Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks: “Is it true, monks, that monks act like this?”
+253Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that bhikkhus act like this?”
 
 “It’s true, Sir.”
 
@@ -1252,7 +1252,7 @@ They then told the Buddha.
 The Buddha rebuked them: “It’s not suitable for those foolish men, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can they act like this? This will affect people’s confidence, and cause some to lose it.”
 
 
-Then the Buddha spoke in many ways in dispraise of being difficult to support and maintain, in dispraise of great desires, discontent, socializing, and laziness; but he spoke in many ways in praise of being easy to support and maintain, of fewness of wishes, contentment, self-effacement, ascetic practices, serenity, reduction in things, and being energetic. After giving a teaching on what is right and proper, he addressed the monks:
+Then the Buddha spoke in many ways in dispraise of being difficult to support and maintain, in dispraise of great desires, discontent, socializing, and laziness; but he spoke in many ways in praise of being easy to support and maintain, of fewness of wishes, contentment, self-effacement, ascetic practices, serenity, reduction in things, and being energetic. After giving a teaching on what is right and proper, he addressed the bhikkhus:
 
 
 254“There should be a preceptor.
@@ -1283,7 +1283,7 @@ The student should put away the robe and bowl. When putting away the bowl, he sh
 
 261If the preceptor wants to take a sauna, the student should knead bath powder, moisten the clay, take a sauna bench, and follow behind his preceptor. After giving the preceptor the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter.
 
-He shouldn’t sit encroaching on the senior monks, and he shouldn’t block the junior monks from getting a seat. While in the sauna, he should do services for his preceptor. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
+He shouldn’t sit encroaching on the senior bhikkhus, and he shouldn’t block the junior bhikkhus from getting a seat. While in the sauna, he should do services for his preceptor. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
 
 262He should also do services for his preceptor in the water. When he has bathed, he should be the first to come out. He should dry himself and put on his sarong. He should then wipe the water off his preceptor’s body, and he should give him his sarong and then his upper robe. Taking the sauna bench, he should be the first to return. He should prepare a seat, and also set out a foot stool, a foot scraper, and water for washing the feet. He should ask his preceptor if he wants water to drink. If the preceptor wants him to recite, he should do so. If the preceptor wants to question him, he should be questioned.
 
@@ -1335,7 +1335,7 @@ If the Saṅgha wants to do a legal procedure against his preceptor—whether a 
 
 276If the student wants to bathe, the preceptor should prepare a bath. If he wants a cold bath, he should prepare that; if he wants a hot bath, he should prepare that.
 
-277If the student wants to take a sauna, the preceptor should knead bath powder, moisten the clay, take a sauna bench, and go to the sauna. After giving the student the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter. He shouldn’t sit encroaching on the senior monks, and he shouldn’t block the junior monks from getting a seat. While in the sauna, he should do services for his student. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
+277If the student wants to take a sauna, the preceptor should knead bath powder, moisten the clay, take a sauna bench, and go to the sauna. After giving the student the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter. He shouldn’t sit encroaching on the senior bhikkhus, and he shouldn’t block the junior bhikkhus from getting a seat. While in the sauna, he should do services for his student. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
 
 278The preceptor should also do services for his student in the water. When the preceptor has bathed, he should be the first to come out. He should dry himself and put on his sarong. He should then wipe the water off his student’s body, and he should give him his sarong and then his upper robe. Taking the sauna bench, he should be the first to return. He should prepare a seat, and also set out a foot stool, a foot scraper, and water for washing the feet. He should ask his student if he wants water to drink.
 
@@ -1366,12 +1366,12 @@ If the Saṅgha wants to do a legal procedure against his student—whether a pr
 > ```
 
 
-286On a later occasion the students did not conduct themselves properly toward their preceptors. The monks of few desires complained and criticized them: “How can students not conduct themselves properly toward their preceptors?” They told the Buddha what had happened. … “Is it true, monks, that students are acting like this?”
+286On a later occasion the students did not conduct themselves properly toward their preceptors. The bhikkhus of few desires complained and criticized them: “How can students not conduct themselves properly toward their preceptors?” They told the Buddha what had happened. … “Is it true, bhikkhus, that students are acting like this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them … “How can students not conduct themselves properly toward their preceptors?” … After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “How can students not conduct themselves properly toward their preceptors?” … After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 “A student should conduct himself properly toward his preceptor. If he doesn’t, he commits an offense of wrong conduct.”
 
@@ -1423,7 +1423,7 @@ And you should dismiss someone who isn’t conducting himself properly. If you d
 296If a student has five qualities, the preceptor is at fault if he dismisses him, but not if he doesn’t: the student has much affection for his preceptor; he has much confidence in his preceptor; he has much conscience toward his preceptor; he has much respect for his preceptor; he has developed his mind much under his preceptor.”
 
 
-297On one occasion a brahmin went to the monks and asked for the going forth, but the monks declined. As a result, he became thin, haggard, and pale, with veins protruding all over his body. The Buddha saw him, and he asked the monks: “Why is that brahmin looking so sickly?” They told him what had happened.
+297On one occasion a brahmin went to the bhikkhus and asked for the going forth, but the bhikkhus declined. As a result, he became thin, haggard, and pale, with veins protruding all over his body. The Buddha saw him, and he asked the bhikkhus: “Why is that brahmin looking so sickly?” They told him what had happened.
 
 
 The Buddha said: “Does anyone remember any act of service from that brahmin?”
@@ -1440,7 +1440,7 @@ Venerable Sāriputta replied: “I do, Sir.”
 “But how should I do it?”
 
 
-298The Buddha then gave a teaching and addressed the monks:
+298The Buddha then gave a teaching and addressed the bhikkhus:
 
 “From today I rescind the full ordination through the taking of the three refuges. Instead you should give the full ordination through a legal procedure consisting of one motion and three announcements.
 
@@ -1457,7 +1457,7 @@ And the ordination should be done like this. A competent and capable monk should
 
 303The Saṅgha has given the full ordination to so-and-so with so-and-so as his preceptor. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
-304On a later occasion, a monk misbehaved immediately after his full ordination. The monks told him: “Don’t do that. It’s not allowable.”
+304On a later occasion, a monk misbehaved immediately after his full ordination. The bhikkhus told him: “Don’t do that. It’s not allowable.”
 
 “But I didn’t ask you to ordain me. Why did you ordain me without being asked?”
 
@@ -1466,7 +1466,7 @@ And the ordination should be done like this. A competent and capable monk should
 
 “You should not give the full ordination to someone who hasn’t asked. If you do, you commit an offense of wrong conduct. I allow you to give the full ordination to someone who has asked.
 
-And this is how they should ask. After approaching the Saṅgha, the one who wants the full ordination should put his upper robe over one shoulder and pay respect at the feet of the monks. He should then squat on his heels, raise his joined palms, and say: ‘Venerables, I ask the Saṅgha for the full ordination. Please lift me up out of compassion.’ And he should ask a second and a third time.
+And this is how they should ask. After approaching the Saṅgha, the one who wants the full ordination should put his upper robe over one shoulder and pay respect at the feet of the bhikkhus. He should then squat on his heels, raise his joined palms, and say: ‘Venerables, I ask the Saṅgha for the full ordination. Please lift me up out of compassion.’ And he should ask a second and a third time.
 
 A competent and capable monk should then inform the Saṅgha:
 
@@ -1482,9 +1482,9 @@ A competent and capable monk should then inform the Saṅgha:
 
 310At that time in Rājagaha, there was a succession of fine meals. A certain brahmin thought: “These Sakyan monastics have pleasant habits and a happy life. They eat nice food and sleep in beds sheltered from the wind. Why don’t I go forth with the Sakyan monastics?”
 
-Then that brahmin went to the monks and asked for the going forth. The monks gave him the going forth and the full ordination.
+Then that brahmin went to the bhikkhus and asked for the going forth. The bhikkhus gave him the going forth and the full ordination.
 
-When he had gone forth, that succession of meals came to a stop. The monks said to him: “Come, let’s walk for alms.”
+When he had gone forth, that succession of meals came to a stop. The bhikkhus said to him: “Come, let’s walk for alms.”
 
 “I didn’t go forth to walk for alms. If you give me some, I’ll eat it. If not, I’ll disrobe.”
 
@@ -1493,7 +1493,7 @@ When he had gone forth, that succession of meals came to a stop. The monks said 
 “Yes.”
 
 
-The monks of few desires complained and criticized him: “How could a monk go forth on this well-proclaimed spiritual path for the sake of his stomach?”
+The bhikkhus of few desires complained and criticized him: “How could a monk go forth on this well-proclaimed spiritual path for the sake of his stomach?”
 
 
 311They told the Buddha what had happened. … “Is it true, monk, that you did this?”
@@ -1501,12 +1501,12 @@ The monks of few desires complained and criticized him: “How could a monk go f
 “It’s true, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how could you go forth on this well-proclaimed spiritual path for the sake of your stomach? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him … “Foolish man, how could you go forth on this well-proclaimed spiritual path for the sake of your stomach? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 
 “When you are giving the full ordination, you should point out the four supports:
 
-1. One gone forth is supported by almsfood. You should persevere with this for life. There are these additional allowances: a meal for the Saṅgha, a meal for designated monks, an invitational meal, a meal for which lots are drawn, a half-monthly meal, a meal on the observance day, and a meal on the day after the observance day.
+1. One gone forth is supported by almsfood. You should persevere with this for life. There are these additional allowances: a meal for the Saṅgha, a meal for designated bhikkhus, an invitational meal, a meal for which lots are drawn, a half-monthly meal, a meal on the observance day, and a meal on the day after the observance day.
 2. One gone forth is supported by rag-robes. You should persevere with this for life. There are these additional allowances: linen, cotton, silk, wool, sunn hemp, and hemp.
 3. One gone forth is supported by the foot of a tree as resting place. You should persevere with this for life. There are these additional allowances: a dwelling, a stilt house, and a cave.
 4. One gone forth is supported by medicine of fermented urine. You should persevere with this for life. There are these additional allowances: ghee, butter, oil, honey, and syrup.”
@@ -1523,22 +1523,22 @@ The Buddha rebuked him … “Foolish man, how could you go forth on this well-p
 > ```
 
 
-313Soon afterwards a young brahmin went to the monks and asked for the going forth. The monks told him about the four supports. He said: “Venerables, if you had told me about this after my going forth, I would have been fine. But now I won’t go forth, for these supports are disgusting and repulsive to me.” They told the Buddha.
+313Soon afterwards a young brahmin went to the bhikkhus and asked for the going forth. The bhikkhus told him about the four supports. He said: “Venerables, if you had told me about this after my going forth, I would have been fine. But now I won’t go forth, for these supports are disgusting and repulsive to me.” They told the Buddha.
 
 “You should not point out the supports beforehand. If you do, you commit an offense of wrong conduct. You should point out the supports immediately after the full ordination.”
 
-314At that time the monks gave the full ordination in groups of two and three. They told the Buddha.
+314At that time the bhikkhus gave the full ordination in groups of two and three. They told the Buddha.
 
 “You should not give the full ordination in groups of less than ten. If you do, you commit an offense of wrong conduct. You should give the full ordination in groups of ten or more than ten.”
 
-315At that time monks who only had one or two years of seniority gave the full ordination, among them Venerable Upasena of Vaṅganta.
+315At that time bhikkhus who only had one or two years of seniority gave the full ordination, among them Venerable Upasena of Vaṅganta.
 
-After completing the rainy-season residence, he had two years of seniority and his student had one. The two of them went to the Buddha, bowed, and sat down. Since it is the custom for Buddhas to greet newly arrived monks, the Buddha said to Upasena: “I hope you’re keeping well, monk, I hope you’re getting by. I hope you’re not tired from traveling.”
+After completing the rainy-season residence, he had two years of seniority and his student had one. The two of them went to the Buddha, bowed, and sat down. Since it is the custom for Buddhas to greet newly arrived bhikkhus, the Buddha said to Upasena: “I hope you’re keeping well, monk, I hope you’re getting by. I hope you’re not tired from traveling.”
 
 “I’m keeping well, Venerable Sir, I’m getting by. I’m not tired from traveling.”
 
 
-When Buddhas know what is going on, sometimes they ask and sometimes not. They know the right time to ask and when not to ask. Buddhas ask when it is beneficial, otherwise not, for Buddhas are incapable of doing what is unbeneficial. Buddhas question the monks for two reasons: to give a teaching or to lay down a training rule.
+When Buddhas know what is going on, sometimes they ask and sometimes not. They know the right time to ask and when not to ask. Buddhas ask when it is beneficial, otherwise not, for Buddhas are incapable of doing what is unbeneficial. Buddhas question the bhikkhus for two reasons: to give a teaching or to lay down a training rule.
 
 The Buddha said to Upasena: “How long have you been a monk?”
 
@@ -1553,23 +1553,23 @@ The Buddha said to Upasena: “How long have you been a monk?”
 “He’s my student.”
 
 
-The Buddha rebuked him: “It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. You ought to be taught and instructed by others. What, then, makes you think that you should teach and instruct another person? You have turned to indulgence too readily, that is, by forming a group. This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him: “It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. You ought to be taught and instructed by others. What, then, makes you think that you should teach and instruct another person? You have turned to indulgence too readily, that is, by forming a group. This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 “You should not give the full ordination if you have less than ten years of seniority. If you do, you commit an offense of wrong conduct. I allow you to give the full ordination if you have ten or more years of seniority.”
 
-316Then, once they had ten years of seniority, ignorant and incompetent monks gave the full ordination. As a result there were ignorant preceptors with knowledgeable students, incompetent preceptors with competent students, uneducated preceptors with learned students, and foolish preceptors with wise students. A monk who had been a monastic in another religion even refuted his preceptor, despite being legitimately corrected by him. He then returned to that religious community.
+316Then, once they had ten years of seniority, ignorant and incompetent bhikkhus gave the full ordination. As a result there were ignorant preceptors with knowledgeable students, incompetent preceptors with competent students, uneducated preceptors with learned students, and foolish preceptors with wise students. A monk who had been a monastic in another religion even refuted his preceptor, despite being legitimately corrected by him. He then returned to that religious community.
 
-The monks of few desires complained and criticized them: “How can ignorant and incompetent monks give the full ordination just because they have ten years of seniority? There are ignorant preceptors with knowledgeable students, incompetent preceptors with competent students, uneducated preceptors with learned students, and foolish preceptors with wise students.”
+The bhikkhus of few desires complained and criticized them: “How can ignorant and incompetent bhikkhus give the full ordination just because they have ten years of seniority? There are ignorant preceptors with knowledgeable students, incompetent preceptors with competent students, uneducated preceptors with learned students, and foolish preceptors with wise students.”
 
 
 317They told the Buddha. He said:
 
-“Is it true, monks, that this is happening?”
+“Is it true, bhikkhus, that this is happening?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them … “How can those foolish men give the full ordination just because they have ten years of seniority? The consequences are evident. This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “How can those foolish men give the full ordination just because they have ten years of seniority? The consequences are evident. This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
 “An ignorant and incompetent monk should not give the full ordination. If he does, he commits an offense of wrong conduct. I allow a competent and capable monk who has ten or more years of seniority to give the full ordination.”
@@ -1579,11 +1579,11 @@ The Buddha rebuked them … “How can those foolish men give the full ordinatio
 People complained and criticized them: “How can the Sakyan monastics act like this? They are just like brahmins at a brahminical meal.”
 
 
-The monks heard the complaints of those people. … They then told the Buddha. “Is it true, monks … ?”
+The bhikkhus heard the complaints of those people. … They then told the Buddha. “Is it true, bhikkhus … ?”
 
 “It’s true, Sir.” …
 
-After rebuking them, the Buddha gave a teaching and addressed the monks:
+After rebuking them, the Buddha gave a teaching and addressed the bhikkhus:
 
 319“There should be a teacher.
 
@@ -1617,7 +1617,7 @@ The pupil should put away the robe and bowl. When putting away the bowl, he shou
 
 326If the teacher wants to take a sauna, the pupil should knead bath powder, moisten the clay, take a sauna bench, and follow behind his teacher. After giving the teacher the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter.
 
-He shouldn’t sit encroaching on the senior monks, and he shouldn’t block the junior monks from getting a seat. While in the sauna, he should do services for his teacher. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
+He shouldn’t sit encroaching on the senior bhikkhus, and he shouldn’t block the junior bhikkhus from getting a seat. While in the sauna, he should do services for his teacher. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
 
 327He should also do services for his teacher in the water. When he has bathed, he should be the first to come out. He should dry himself and put on his sarong. He should then wipe the water off his teacher’s body, and he should give him his sarong and then his upper robe. Taking the sauna bench, he should be first to return. He should prepare a seat, and also set out a foot stool, a foot scraper, and water for washing the feet. He should ask his teacher if he wants water to drink.
 
@@ -1672,7 +1672,7 @@ If the Saṅgha wants to do a legal procedure against his teacher—whether a pr
 
 342If the pupil wants to bathe, the teacher should prepare a bath. If he wants a cold bath, he should prepare that; if he wants a hot bath, he should prepare that.
 
-343If the pupil wants to take a sauna, the teacher should knead bath powder, moisten the clay, take a sauna bench, and go to the sauna. After giving the pupil the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter. He shouldn’t sit encroaching on the senior monks, and he shouldn’t block the junior monks from getting a seat. While in the sauna, he should do services for his pupil. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
+343If the pupil wants to take a sauna, the teacher should knead bath powder, moisten the clay, take a sauna bench, and go to the sauna. After giving the pupil the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter. He shouldn’t sit encroaching on the senior bhikkhus, and he shouldn’t block the junior bhikkhus from getting a seat. While in the sauna, he should do services for his pupil. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
 
 344The teacher should also do services for his pupil in the water. When the teacher has bathed, he should be the first to come out. He should dry himself and put on his sarong. He should then wipe the water off his pupil’s body, and he should give him his sarong and then his upper robe. Taking the sauna bench, he should be first to return. He should prepare a seat, and also set out a foot stool, a foot scraper, and water for washing the feet. He should ask his pupil if he wants water to drink.
 
@@ -1764,15 +1764,15 @@ And you should dismiss someone who isn’t conducting himself properly. If you d
 > ```
 
 
-363Then, once they had ten years of seniority, ignorant and incompetent monks gave formal support. As a result there were ignorant teachers with knowledgeable pupils, incompetent teachers with competent pupils, uneducated teachers with learned pupils, and foolish teachers with wise pupils.
+363Then, once they had ten years of seniority, ignorant and incompetent bhikkhus gave formal support. As a result there were ignorant teachers with knowledgeable pupils, incompetent teachers with competent pupils, uneducated teachers with learned pupils, and foolish teachers with wise pupils.
 
-The monks of few desires complained and criticized them: “How can ignorant and incompetent monks give formal support, just because they have ten years of seniority? There are ignorant teachers with knowledgeable pupils, incompetent teachers with competent pupils, uneducated teachers with learned pupils, and foolish teachers with wise pupils.”
+The bhikkhus of few desires complained and criticized them: “How can ignorant and incompetent bhikkhus give formal support, just because they have ten years of seniority? There are ignorant teachers with knowledgeable pupils, incompetent teachers with competent pupils, uneducated teachers with learned pupils, and foolish teachers with wise pupils.”
 
-They told the Buddha what had happened. … “Is it true, monks, that this is happening?”
+They told the Buddha what had happened. … “Is it true, bhikkhus, that this is happening?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … He then gave a teaching and addressed the monks:
+The Buddha rebuked them … He then gave a teaching and addressed the bhikkhus:
 
 “An ignorant and incompetent monk should not give formal support. If he does, he commits an offense of wrong conduct. I allow a competent and capable monk who has ten or more years of seniority to give formal support.”
 
@@ -1898,13 +1898,13 @@ The Buddha rebuked them … He then gave a teaching and addressed the monks:
 > ```
 
 
-401Soon afterwards he who had been a monastic of another religion, and who had returned to that religious community after refuting his preceptor, came back to the monks and asked for the full ordination. The monks told the Buddha.
+401Soon afterwards he who had been a monastic of another religion, and who had returned to that religious community after refuting his preceptor, came back to the bhikkhus and asked for the full ordination. The bhikkhus told the Buddha.
 
-402“Monks, when someone who has been a monastic of another religion refutes his preceptor after being legitimately corrected by him and then returns to that religion, but then comes back from that religious community once more, he should not be given the full ordination.
+402“bhikkhus, when someone who has been a monastic of another religion refutes his preceptor after being legitimately corrected by him and then returns to that religion, but then comes back from that religious community once more, he should not be given the full ordination.
 
 Anyone else who has been a monastic of another religion, and who wants the going forth and the full ordination on this spiritual path, should be given four months of probation.
 
-And it should be given like this. First he should shave off his hair and beard and put on the ocher robes. He should then put his upper robe over one shoulder, pay respect at the feet of the monks, squat on his heels, and raise his joined palms. He should then be told to say this:
+And it should be given like this. First he should shave off his hair and beard and put on the ocher robes. He should then put his upper robe over one shoulder, pay respect at the feet of the bhikkhus, squat on his heels, and raise his joined palms. He should then be told to say this:
 
 
 403‘I go for refuge to the Buddha,  
@@ -1920,7 +1920,7 @@ For the third time I go for refuge to the Teaching,
 For the third time I go for refuge to the Saṅgha.’
 
 
-406Then, after approaching the Saṅgha, he who had been a monastic of another religion should put his upper robe over one shoulder, pay respect at the feet of the monks, squat on his heels, and raise his joined palms. He should then say this: ‘Venerables, I have been a monastic of another religion, and I wish for the full ordination on this spiritual path. I ask the Saṅgha for four months of probation.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
+406Then, after approaching the Saṅgha, he who had been a monastic of another religion should put his upper robe over one shoulder, pay respect at the feet of the bhikkhus, squat on his heels, and raise his joined palms. He should then say this: ‘Venerables, I have been a monastic of another religion, and I wish for the full ordination on this spiritual path. I ask the Saṅgha for four months of probation.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
 407‘Please, Venerables, I ask the Saṅgha to listen. So-and-so, who has been a monastic of another religion, wants the full ordination on this spiritual path. He is asking the Saṅgha for four months of probation. If it seems appropriate to the Saṅgha, the Saṅgha should give four months of probation to so-and-so, who has been a monastic of another religion. This is the motion.
 
@@ -1977,7 +1977,7 @@ The seventh section for recitation is finished.
 
 422At that time in Magadha, there were five common diseases: leprosy, abscesses, mild leprosy, tuberculosis, and epilepsy. When people were sick with any of these, they went to Jīvaka Komārabhacca and said: “Doctor, please treat us.”
 
-He replied: “I’m very busy. I look after King Seniya Bimbisāra of Magadha and his harem. I also look after the Saṅgha of monks headed by the Buddha. I’m not able to treat you.”
+He replied: “I’m very busy. I look after King Seniya Bimbisāra of Magadha and his harem. I also look after the Saṅgha of bhikkhus headed by the Buddha. I’m not able to treat you.”
 
 
 “We’ll give you everything we own, and we’ll be your slave, too. Please treat us, doctor.”
@@ -1985,16 +1985,16 @@ He replied: “I’m very busy. I look after King Seniya Bimbisāra of Magadha a
 Jīvaka repeated what he had already said.
 
 
-And those people thought: “These Sakyan monastics have pleasant habits and a happy life. They eat nice food and sleep in beds sheltered from the wind. Why don’t we go forth with the Sakyan monastics? If we do, the monks will nurse us and Jīvaka Komārabhacca will treat us.”
+And those people thought: “These Sakyan monastics have pleasant habits and a happy life. They eat nice food and sleep in beds sheltered from the wind. Why don’t we go forth with the Sakyan monastics? If we do, the bhikkhus will nurse us and Jīvaka Komārabhacca will treat us.”
 
-They then went to the monks and asked for the going forth. The monks gave them the going forth and the full ordination. And the monks nursed them, and Jīvaka treated them.
+They then went to the bhikkhus and asked for the going forth. The bhikkhus gave them the going forth and the full ordination. And the bhikkhus nursed them, and Jīvaka treated them.
 
-At one time the monks were nursing many sick monks. As a result, they kept on asking: “Please give a meal for the sick and for those nursing the sick. Please give medicines for the sick.” And because Jīvaka was treating many sick monks, he was unable to fulfill his duty to the king.
+At one time the bhikkhus were nursing many sick bhikkhus. As a result, they kept on asking: “Please give a meal for the sick and for those nursing the sick. Please give medicines for the sick.” And because Jīvaka was treating many sick bhikkhus, he was unable to fulfill his duty to the king.
 
 
 423Then a certain man who was afflicted with one of the five diseases went to Jīvaka and said: “Doctor, please treat me.”
 
-He replied: “I’m very busy. I look after King Seniya Bimbisāra of Magadha and his harem. I also look after the Saṅgha of monks headed by the Buddha. I’m not able to treat you.”
+He replied: “I’m very busy. I look after King Seniya Bimbisāra of Magadha and his harem. I also look after the Saṅgha of bhikkhus headed by the Buddha. I’m not able to treat you.”
 
 “I will give you everything I own, and I’ll be your slave, too. Please treat me, doctor.”
 
@@ -2002,22 +2002,22 @@ He replied: “I’m very busy. I look after King Seniya Bimbisāra of Magadha a
 Jīvaka repeated what he had already said.
 
 
-424And that man thought: “These Sakyan monastics have pleasant habits and a happy life. They eat nice food and sleep in beds sheltered from the wind. Why don’t I go forth with the Sakyan monastics? If I do, the monks will nurse me, and Jīvaka Komārabhacca will treat me. And when I’m healthy, I’ll disrobe.”
+424And that man thought: “These Sakyan monastics have pleasant habits and a happy life. They eat nice food and sleep in beds sheltered from the wind. Why don’t I go forth with the Sakyan monastics? If I do, the bhikkhus will nurse me, and Jīvaka Komārabhacca will treat me. And when I’m healthy, I’ll disrobe.”
 
-He then went to the monks and asked for the going forth. The monks gave him the going forth and the full ordination, after which they nursed him and Jīvaka treated him. When he was healthy again, he disrobed.
+He then went to the bhikkhus and asked for the going forth. The bhikkhus gave him the going forth and the full ordination, after which they nursed him and Jīvaka treated him. When he was healthy again, he disrobed.
 
-425Jīvaka saw that man after he had disrobed, and he asked him: “Didn’t you go forth with the monks?”
+425Jīvaka saw that man after he had disrobed, and he asked him: “Didn’t you go forth with the bhikkhus?”
 
 “Yes, doctor.”
 
 “And why did you do it?”
 
-When that man had told him what had happened, Jīvaka complained and criticized the monks: “How could the venerables allow one with the five diseases to go forth?”
+When that man had told him what had happened, Jīvaka complained and criticized the bhikkhus: “How could the venerables allow one with the five diseases to go forth?”
 
 He went to the Buddha, bowed, sat down, and said: “Venerable Sir, it would be good if the venerables didn’t allow those with the five diseases to go forth.”
 
 
-The Buddha instructed, inspired, and gladdened him with a teaching. Jīvaka then got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+The Buddha instructed, inspired, and gladdened him with a teaching. Jīvaka then got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “You should not give the going forth to anyone afflicted with any of the five diseases. If you do, you commit an offense of wrong conduct.”
 
@@ -2038,11 +2038,11 @@ The Buddha instructed, inspired, and gladdened him with a teaching. Jīvaka then
 
 But the most distinguished soldiers thought: “If we go and enjoy the battle, we’ll do what’s bad and make much demerit. How can we avoid what’s bad and do what’s good instead?”
 
-427It occurred to them: “These Sakyan monastics have integrity. They’re celibate and their conduct is good, and they’re truthful, moral, and have a good character. If we go forth with them, we’ll avoid what’s bad and do what’s good.” Those soldiers then went to the monks and asked for the going forth. And the monks gave them the going forth and the full ordination.
+427It occurred to them: “These Sakyan monastics have integrity. They’re celibate and their conduct is good, and they’re truthful, moral, and have a good character. If we go forth with them, we’ll avoid what’s bad and do what’s good.” Those soldiers then went to the bhikkhus and asked for the going forth. And the bhikkhus gave them the going forth and the full ordination.
 
 Soon afterwards the generals asked among the King’s employees: “Where are the soldiers so-and-so and so-and-so?”
 
-“They’ve gone forth with the monks.” The generals complained and criticized the monks:
+“They’ve gone forth with the bhikkhus.” The generals complained and criticized the bhikkhus:
 
 
 “How could the Sakyan monastics give the going forth to those who are employed by the King?” They told the King.
@@ -2052,7 +2052,7 @@ Soon afterwards the generals asked among the King’s employees: “Where are th
 
 “The preceptor should have his head cut off, the one who does the formal proclamation should have his tongue cut out, and the participating group should have half their ribs broken.”
 
-The King went to the Buddha, bowed, sat down, and said: “Venerable Sir, there are kings with little faith and confidence. They would give the monks a hard time even over small matters. It would be good if the venerables didn’t give the going forth to those employed by a king.” The Buddha instructed, inspired, and gladdened him with a teaching. The King then got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+The King went to the Buddha, bowed, sat down, and said: “Venerable Sir, there are kings with little faith and confidence. They would give the bhikkhus a hard time even over small matters. It would be good if the venerables didn’t give the going forth to those employed by a king.” The Buddha instructed, inspired, and gladdened him with a teaching. The King then got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “You should not give the going forth to anyone employed by a king. If you do, you commit an offense of wrong conduct.”
 
@@ -2066,7 +2066,7 @@ The King went to the Buddha, bowed, sat down, and said: “Venerable Sir, there 
 > ```
 
 
-429At that time the criminal Aṅgulimāla had gone forth with the monks. When people saw him, they became alarmed and fearful. They turned away, took a different path, ran off, and closed their doors. People complained and criticized the monks: “How could the Sakyan monastics give the going forth to a notorious criminal?” The monks heard the complaints of those people. They then told the Buddha. …
+429At that time the criminal Aṅgulimāla had gone forth with the bhikkhus. When people saw him, they became alarmed and fearful. They turned away, took a different path, ran off, and closed their doors. People complained and criticized the bhikkhus: “How could the Sakyan monastics give the going forth to a notorious criminal?” The bhikkhus heard the complaints of those people. They then told the Buddha. …
 
 “You should not give the going forth to a notorious criminal. If you do, you commit an offense of wrong conduct.”
 
@@ -2082,9 +2082,9 @@ The King went to the Buddha, bowed, sat down, and said: “Venerable Sir, there 
 
 430At that time King Bimbisāra had made the following declaration: “Nothing should be done to anyone who has gone forth with the Sakyan monastics. The Teaching is well-proclaimed. Allow them to practice the spiritual life to make a complete end of suffering.”
 
-Soon afterwards a certain thief was was put in prison. But he escaped, ran away, and went forth with the monks. When people saw him, they said: “There’s that criminal who escaped from prison. Let’s get him!” But some said: “No, the King has declared that nothing should be done to anyone gone forth with the Sakyan monastics.”
+Soon afterwards a certain thief was was put in prison. But he escaped, ran away, and went forth with the bhikkhus. When people saw him, they said: “There’s that criminal who escaped from prison. Let’s get him!” But some said: “No, the King has declared that nothing should be done to anyone gone forth with the Sakyan monastics.”
 
-People complained and criticized the monks: “These Sakyan monastics are untouchable; you can’t do anything to them. So how could they give the going forth to an escaped criminal?” They told the Buddha.
+People complained and criticized the bhikkhus: “These Sakyan monastics are untouchable; you can’t do anything to them. So how could they give the going forth to an escaped criminal?” They told the Buddha.
 
 “You should not give the going forth to an escaped criminal. If you do, you commit an offense of wrong conduct.”
 
@@ -2098,13 +2098,13 @@ People complained and criticized the monks: “These Sakyan monastics are untouc
 > ```
 
 
-431On one occasion a certain man stole something, ran away, and then went forth with the monks. Yet the King’s court had issued a statement: “He should be executed wherever he’s seen.”
+431On one occasion a certain man stole something, ran away, and then went forth with the bhikkhus. Yet the King’s court had issued a statement: “He should be executed wherever he’s seen.”
 
 When people saw him, they said: “There’s that wanted criminal. Let’s execute him!”
 
 But some said: “No, the King has declared that nothing should be done to anyone gone forth with the Sakyan monastics.”
 
-People complained and criticized the monks: “These Sakyan monastics are untouchable; you can’t do anything to them. So how could they give the going forth to a wanted criminal?” They told the Buddha.
+People complained and criticized the bhikkhus: “These Sakyan monastics are untouchable; you can’t do anything to them. So how could they give the going forth to a wanted criminal?” They told the Buddha.
 
 
 “You should not give the going forth to a wanted criminal. If you do, you commit an offense of wrong conduct.”
@@ -2119,7 +2119,7 @@ People complained and criticized the monks: “These Sakyan monastics are untouc
 > ```
 
 
-432At one time a certain man who had been whipped as a penalty went forth with the monks. People complained and criticized the monks: “How could the Sakyan monastics give the going forth to one who has been whipped as a penalty?” They told the Buddha.
+432At one time a certain man who had been whipped as a penalty went forth with the bhikkhus. People complained and criticized the bhikkhus: “How could the Sakyan monastics give the going forth to one who has been whipped as a penalty?” They told the Buddha.
 
 “You should not give the going forth to one who has been whipped as a penalty. If you do, you commit an offense of wrong conduct.”
 
@@ -2133,7 +2133,7 @@ People complained and criticized the monks: “These Sakyan monastics are untouc
 > ```
 
 
-433At one time a certain man who had been branded as a penalty went forth with the monks. People complained and criticized the monks: “How could the Sakyan monastics give the going forth to one who has been branded as a penalty?” They told the Buddha.
+433At one time a certain man who had been branded as a penalty went forth with the bhikkhus. People complained and criticized the bhikkhus: “How could the Sakyan monastics give the going forth to one who has been branded as a penalty?” They told the Buddha.
 
 “You should not give the going forth to one who has been branded as a penalty. If you do, you commit an offense of wrong conduct.”
 
@@ -2147,11 +2147,11 @@ People complained and criticized the monks: “These Sakyan monastics are untouc
 > ```
 
 
-434On one occasion a certain indebted man ran away and went forth with the monks. Soon afterwards the creditors saw him and said: “There’s that man who owes us. Let’s get him!”
+434On one occasion a certain indebted man ran away and went forth with the bhikkhus. Soon afterwards the creditors saw him and said: “There’s that man who owes us. Let’s get him!”
 
 But some said: “No, the King has declared that nothing should be done to anyone gone forth with the Sakyan monastics.”
 
-People complained and criticized the monks: “These Sakyan monastics are untouchable; you can’t do anything to them. So how could the Sakyan monastics give the going forth to an indebted person?” They told the Buddha.
+People complained and criticized the bhikkhus: “These Sakyan monastics are untouchable; you can’t do anything to them. So how could the Sakyan monastics give the going forth to an indebted person?” They told the Buddha.
 
 “You should not give the going forth to one who is indebted. If you do, you commit an offense of wrong conduct.”
 
@@ -2165,12 +2165,12 @@ People complained and criticized the monks: “These Sakyan monastics are untouc
 > ```
 
 
-435On one occasion a certain slave ran away and went forth with the monks. Soon afterwards the owners saw him and said: “There’s our slave. Let’s get him!”
+435On one occasion a certain slave ran away and went forth with the bhikkhus. Soon afterwards the owners saw him and said: “There’s our slave. Let’s get him!”
 
 But some said: “No, the King has declared that nothing should be done to anyone gone forth with the Sakyan monastics.”
 
 
-People complained and criticized the monks: “These Sakyan monastics are untouchable; you can’t do anything to them. So how could the Sakyan monastics give the going forth to a slave?” They told the Buddha.
+People complained and criticized the bhikkhus: “These Sakyan monastics are untouchable; you can’t do anything to them. So how could the Sakyan monastics give the going forth to a slave?” They told the Buddha.
 
 “You should not give the going forth to a slave. If you do, you commit an offense of wrong conduct.”
 
@@ -2184,9 +2184,9 @@ People complained and criticized the monks: “These Sakyan monastics are untouc
 > ```
 
 
-436At that time a certain shaven-headed smith had quarreled with his parents. He then went to the monastery and went forth with the monks. While looking for their son, the parents came to that monastery. They asked the monks: “Venerables, have you by any chance seen such-and-such a boy?” Because they had not, they said: “No.”
+436At that time a certain shaven-headed smith had quarreled with his parents. He then went to the monastery and went forth with the bhikkhus. While looking for their son, the parents came to that monastery. They asked the bhikkhus: “Venerables, have you by any chance seen such-and-such a boy?” Because they had not, they said: “No.”
 
-Soon afterwards those parents saw that their son had gone forth as a monk. They then complained and criticized the monks: “These Sakyan monastics are shameless and immoral liars. They deny knowing what they know and having seen what they’ve seen. Our boy has gone forth as a monk.” The monks heard the complaints of those parents. They told the Buddha.
+Soon afterwards those parents saw that their son had gone forth as a monk. They then complained and criticized the bhikkhus: “These Sakyan monastics are shameless and immoral liars. They deny knowing what they know and having seen what they’ve seen. Our boy has gone forth as a monk.” The bhikkhus heard the complaints of those parents. They told the Buddha.
 
 “You should get permission from the Saṅgha to shave someone’s head.”
 
@@ -2210,17 +2210,17 @@ On one occasion Upāli’s parents thought: “How can we make sure that Upāli 
 “If you go forth, so will we.”
 
 
-The boys went each to his own parents and said: “Please allow me to go forth into homelessness.” Because the parents knew that all the boys had the same desire and good intentions, they gave their approval. The boys then went to the monks and asked them for the going forth, and the monks gave them the going forth and the full ordination.
+The boys went each to his own parents and said: “Please allow me to go forth into homelessness.” Because the parents knew that all the boys had the same desire and good intentions, they gave their approval. The boys then went to the bhikkhus and asked them for the going forth, and the bhikkhus gave them the going forth and the full ordination.
 
 
 Soon afterwards they got up early in the morning and cried: “Give us rice porridge, give us a meal, give us fresh food!”
 
-The monks said: “Wait until it gets light. If any of that becomes available then, you can have it. If not, you’ll eat after walking for alms.”
+The bhikkhus said: “Wait until it gets light. If any of that becomes available then, you can have it. If not, you’ll eat after walking for alms.”
 
 But they carried on as before. And they defecated and urinated on the furniture.
 
 
-439After rising early in the morning, the Buddha heard the sound of those boys. He asked Venerable Ānanda, who told him what was happening. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the monks give the full ordination to people they know are less than twenty years old?”
+439After rising early in the morning, the Buddha heard the sound of those boys. He asked Venerable Ānanda, who told him what was happening. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the bhikkhus give the full ordination to people they know are less than twenty years old?”
 
 “It’s true, Sir.”
 
@@ -2230,7 +2230,7 @@ The Buddha rebuked them …
 “How can those foolish men do this?
 
 
-A person who’s less than twenty years old is unable to endure cold and heat; hunger and thirst; horseflies, mosquitoes, wind, and the burning sun; creeping animals and insects; and rude and unwelcome speech. And they’re unable to bear up with bodily feelings that are painful, severe, sharp, and destructive of life. But a person who’s twenty is able to endure these things. This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+A person who’s less than twenty years old is unable to endure cold and heat; hunger and thirst; horseflies, mosquitoes, wind, and the burning sun; creeping animals and insects; and rude and unwelcome speech. And they’re unable to bear up with bodily feelings that are painful, severe, sharp, and destructive of life. But a person who’s twenty is able to endure these things. This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
 “You should not give the full ordination to a person you know is less than twenty years old. If you do, you should be dealt with according to the rule.”
@@ -2245,14 +2245,14 @@ A person who’s less than twenty years old is unable to endure cold and heat; h
 > ```
 
 
-440At one time most of the members of a particular family had died from a deadly and contagious disease. Only a father and son were left. After going forth as monks, they walked together for alms. Then, when the boy had handed over his almsfood to his father, he said: “Give to me too, daddy!”
+440At one time most of the members of a particular family had died from a deadly and contagious disease. Only a father and son were left. After going forth as bhikkhus, they walked together for alms. Then, when the boy had handed over his almsfood to his father, he said: “Give to me too, daddy!”
 
-People complained and criticized the monks: “These Sakyan monastics are not celibate. This boy was born to a nun!” The monks heard the complaints of those people and they told the Buddha.
+People complained and criticized the bhikkhus: “These Sakyan monastics are not celibate. This boy was born to a nun!” The bhikkhus heard the complaints of those people and they told the Buddha.
 
 
 “You should not give the going forth to a boy less than fifteen years old. If you do, you commit an offense of wrong conduct.”
 
-441At that time there was a family with faith and confidence that was supporting Venerable Ānanda. Then most of its members died from a deadly and contagious disease, and only two boys were left behind. When they saw the monks, they ran up to them, as they had done before. When the monks dismissed them, they cried.
+441At that time there was a family with faith and confidence that was supporting Venerable Ānanda. Then most of its members died from a deadly and contagious disease, and only two boys were left behind. When they saw the bhikkhus, they ran up to them, as they had done before. When the bhikkhus dismissed them, they cried.
 
 
 Ānanda thought: “The Buddha has laid down a rule that a boy less than fifteen years old shouldn’t be given the going forth, which applies to these boys.
@@ -2261,7 +2261,7 @@ How then can I make sure that these boys don’t perish?” He told the Buddha.
 
 “Are they able, Ānanda, to scare away crows?”
 
-“Yes.” The Buddha then gave a teaching and addressed the monks:
+“Yes.” The Buddha then gave a teaching and addressed the bhikkhus:
 
 “I allow you to give the going forth to a boy less than fifteen years old if he’s able to scare away crows.”
 
@@ -2275,9 +2275,9 @@ How then can I make sure that these boys don’t perish?” He told the Buddha.
 > ```
 
 
-442At one time Venerable Upananda the Sakyan had two novice monks, Kaṇṭaka and Mahaka. They had sex with each other. The monks complained and criticized them: “How could novice monks misbehave like this?” They told the Buddha.
+442At one time Venerable Upananda the Sakyan had two novice bhikkhus, Kaṇṭaka and Mahaka. They had sex with each other. The bhikkhus complained and criticized them: “How could novice bhikkhus misbehave like this?” They told the Buddha.
 
-“A single monk should not have two novice monks attend on him. If he does, he commits an offense of wrong conduct.”
+“A single monk should not have two novice bhikkhus attend on him. If he does, he commits an offense of wrong conduct.”
 
 #### 39. The obscure ^39
 
@@ -2291,13 +2291,13 @@ How then can I make sure that these boys don’t perish?” He told the Buddha.
 
 443At one time the Buddha was staying right there at Rājagaha for the rainy season, for the cold season, and for the hot season. People complained: “The districts are left in darkness and obscurity by the Sakyan monastics. They don’t brighten them up by their presence.”
 
-The monks heard the complaints of those people and told the Buddha. He said to Venerable Ānanda: “Take a key, Ānanda, and go around the yards, informing the monks that the Buddha wishes to go wandering in the Southern Hills. Anyone is welcome to join him.”
+The bhikkhus heard the complaints of those people and told the Buddha. He said to Venerable Ānanda: “Take a key, Ānanda, and go around the yards, informing the bhikkhus that the Buddha wishes to go wandering in the Southern Hills. Anyone is welcome to join him.”
 
 Saying: “Yes, Sir,” he did just that.
 
-The monks said: “Ānanda, the Buddha has laid down a rule that one must live with formal support for ten years and that one who has ten years seniority can give such support. If we were to go, we would have to obtain support for a short time, and when we returned, we would have to obtain support once again. So, if our preceptors and teachers go, we’ll go too. If they don’t, neither will we. We don’t want the burden.”
+The bhikkhus said: “Ānanda, the Buddha has laid down a rule that one must live with formal support for ten years and that one who has ten years seniority can give such support. If we were to go, we would have to obtain support for a short time, and when we returned, we would have to obtain support once again. So, if our preceptors and teachers go, we’ll go too. If they don’t, neither will we. We don’t want the burden.”
 
-As a result, the Buddha went wandering in the Southern Hills with a small group of monks.
+As a result, the Buddha went wandering in the Southern Hills with a small group of bhikkhus.
 
 #### 40. Discussion of release from formal support ^40
 
@@ -2309,7 +2309,7 @@ As a result, the Buddha went wandering in the Southern Hills with a small group 
 > ```
 
 
-444After staying in the Southern Hills for as long as he liked, the Buddha returned to Rājagaha. He then asked Ānanda: “Why was it so small, Ānanda, the group of monks that came wandering with me in the Southern Hills?” Ānanda told him what had happened. Soon afterwards the Buddha gave a teaching and addressed the monks:
+444After staying in the Southern Hills for as long as he liked, the Buddha returned to Rājagaha. He then asked Ānanda: “Why was it so small, Ānanda, the group of bhikkhus that came wandering with me in the Southern Hills?” Ānanda told him what had happened. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “A competent and capable monk should live with formal support for five years, but one who is incompetent should live with formal support for life.
 
@@ -2373,12 +2373,12 @@ In the morning the Buddha robed up, took his bowl and robe, and went to Suddhoda
 “But how, Sir?”
 
 
-466The Buddha then gave a teaching and addressed the monks:
+466The Buddha then gave a teaching and addressed the bhikkhus:
 
 “The going forth as a novice monk should be given through the taking of the three refuges.
 
 
-It should be done like this. First the candidate should shave off his hair and beard and put on ocher robes. He should then put his upper robe over one shoulder, pay respect at the feet of the monks, squat on his heels, and raise his joined palms. He should then be told to say this:
+It should be done like this. First the candidate should shave off his hair and beard and put on ocher robes. He should then put his upper robe over one shoulder, pay respect at the feet of the bhikkhus, squat on his heels, and raise his joined palms. He should then be told to say this:
 
 
 467‘I go for refuge to the Buddha,  
@@ -2409,7 +2409,7 @@ And Sāriputta gave Rāhula the going forth.
 
 “When the Buddha went forth, it was very painful for me, and the same when Nanda went forth. With Rāhula, it’s even worse. Affection for a child cuts deep. It cuts through the outer and inner skin; it cuts through the flesh, the sinews, and the bones, and it reaches all the way to the bone-marrow. It would be good if the venerables didn’t give the going forth to a child without the parents’ permission.”
 
-The Buddha then instructed, inspired, and gladdened him with a teaching, after which Suddhodana got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+The Buddha then instructed, inspired, and gladdened him with a teaching, after which Suddhodana got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “You should not give the going forth to a child without the parents’ permission. If you do, you commit an offense of wrong conduct.”
 
@@ -2419,7 +2419,7 @@ At this time a family that was supporting Sāriputta sent him a boy with this me
 
 Sāriputta thought: “The Buddha has laid down a rule that a monk shouldn’t have two novices attend on him. I already have the novice Rāhula. So what should I do now?” He told the Buddha.
 
-“I allow a competent and capable monk to have two novice monks attend on him, or however many he’s able to teach and instruct.”
+“I allow a competent and capable monk to have two novice bhikkhus attend on him, or however many he’s able to teach and instruct.”
 
 #### 42. Discussion of the training rules ^42
 
@@ -2433,7 +2433,7 @@ Sāriputta thought: “The Buddha has laid down a rule that a monk shouldn’t h
 
 473Soon afterwards the novices thought: “How many training rules do we have that we should train in?” They told the Buddha. …
 
-“There are ten training rules for the novice monks:
+“There are ten training rules for the novice bhikkhus:
 
 1. Abstention from killing living beings;
 2. Abstention from stealing;
@@ -2456,30 +2456,30 @@ Sāriputta thought: “The Buddha has laid down a rule that a monk shouldn’t h
 > ```
 
 
-474Soon the novice monks were being disrespectful, undeferential, and rude toward the monks. The monks complained and criticized them: “How can the novices behave like this?” They told the Buddha. …
+474Soon the novice bhikkhus were being disrespectful, undeferential, and rude toward the bhikkhus. The bhikkhus complained and criticized them: “How can the novices behave like this?” They told the Buddha. …
 
 “I allow you to penalize a novice monk who has five qualities:
 
-1. He’s trying to stop material support going to monks;
-2. He’s trying to harm monks;
-3. He’s trying to make monks lose their place of residence;
-4. He abuses and reviles monks;
-5. He causes division between monks.”
+1. He’s trying to stop material support going to bhikkhus;
+2. He’s trying to harm bhikkhus;
+3. He’s trying to make bhikkhus lose their place of residence;
+4. He abuses and reviles bhikkhus;
+5. He causes division between bhikkhus.”
 
-475The monks didn’t know which penalty to impose. They told the Buddha.
+475The bhikkhus didn’t know which penalty to impose. They told the Buddha.
 
-“I allow you to place restrictions on the novice monks.”
+“I allow you to place restrictions on the novice bhikkhus.”
 
 
-476The monks restricted the novices from the whole monastery. Because they were unable to enter the monastery, the novices left, disrobed, and joined the monastics of other religions. They told the Buddha.
+476The bhikkhus restricted the novices from the whole monastery. Because they were unable to enter the monastery, the novices left, disrobed, and joined the monastics of other religions. They told the Buddha.
 
 “You should not restrict anyone from a whole monastery. If you do, you commit an offense of wrong conduct.
 
 I allow you to make restrictions for the place you’re staying and its access areas.”
 
-477The monks placed restrictions on the novices’ food. People making rice porridge and meals for the Saṅgha said to the novices: “Come, Venerables, and drink rice porridge. Come and eat a meal.”
+477The bhikkhus placed restrictions on the novices’ food. People making rice porridge and meals for the Saṅgha said to the novices: “Come, Venerables, and drink rice porridge. Come and eat a meal.”
 
-The novices replied: “We can’t. The monks have placed a restriction on us.”
+The novices replied: “We can’t. The bhikkhus have placed a restriction on us.”
 
 People complained and criticized them: “How can the venerables restrict the novices’ food?” They told the Buddha.
 
@@ -2497,7 +2497,7 @@ People complained and criticized them: “How can the venerables restrict the no
 > ```
 
 
-479On one occasion the monks from the group of six placed restrictions on novices without asking their preceptors for permission. The preceptors could not find their novices. When other monks told them what had happened, the preceptors complained and criticized those monks: “How could the monks from the group of six place restrictions on our novices without asking us for permission?” They told the Buddha.
+479On one occasion the bhikkhus from the group of six placed restrictions on novices without asking their preceptors for permission. The preceptors could not find their novices. When other bhikkhus told them what had happened, the preceptors complained and criticized those bhikkhus: “How could the bhikkhus from the group of six place restrictions on our novices without asking us for permission?” They told the Buddha.
 
 “You should not place a restriction without asking permission from the preceptor. If you do, you commit an offense of wrong conduct.”
 
@@ -2511,7 +2511,7 @@ People complained and criticized them: “How can the venerables restrict the no
 > ```
 
 
-480At one time the monks from the group of six were luring away the novices of the senior monks. The senior monks had to get their own tooth cleaners and water for rinsing the mouth. As a result, they became tired. They told the Buddha.
+480At one time the bhikkhus from the group of six were luring away the novices of the senior bhikkhus. The senior bhikkhus had to get their own tooth cleaners and water for rinsing the mouth. As a result, they became tired. They told the Buddha.
 
 “You should not lure away another’s followers. If you do, you commit an offense of wrong conduct.”
 
@@ -2525,7 +2525,7 @@ People complained and criticized them: “How can the venerables restrict the no
 > ```
 
 
-481At one time Venerable Upananda the Sakyan had a novice monk called Kaṇṭaka who raped a nun called Kaṇṭakī. The monks complained and criticized him: “How could a novice monk misbehave in this way?”
+481At one time Venerable Upananda the Sakyan had a novice monk called Kaṇṭaka who raped a nun called Kaṇṭakī. The bhikkhus complained and criticized him: “How could a novice monk misbehave in this way?”
 
 They told the Buddha.
 
@@ -2552,16 +2552,16 @@ They told the Buddha.
 > ```
 
 
-482At one time a certain _paṇḍaka_ had gone forth as a monk. He went to the young monks and said: “Come, Venerables, have sex with me.”
+482At one time a certain _paṇḍaka_ had gone forth as a monk. He went to the young bhikkhus and said: “Come, Venerables, have sex with me.”
 
-The monks dismissed him: “Go away, _paṇḍaka_. We don’t want you.”
+The bhikkhus dismissed him: “Go away, _paṇḍaka_. We don’t want you.”
 
 
 He went to the big and fat novices, said the same thing and got the same response. He then went to the elephant keepers and horse keepers and once again said the same thing. And they had sex with him.
 
 They complained and criticized him: “These Sakyan monastics are _paṇḍakas_. And those who are not have sex with them. None of them is celibate.”
 
-The monks heard their complaints. They told the Buddha.
+The bhikkhus heard their complaints. They told the Buddha.
 
 
 “A _paṇḍaka_ should not be given the full ordination. If it has been given, they should be expelled.”
@@ -2576,9 +2576,9 @@ The monks heard their complaints. They told the Buddha.
 > ```
 
 
-483At one time there was a gentleman who had been brought up in comfort, but whose entire family had died. He thought: “I’ve been brought up in comfort and I’m incapable of making money. How can I live happily without exhausting myself?” It occurred to him: “These Sakyan monastics have pleasant habits and a happy life. They eat nice food and sleep in beds sheltered from the wind. Why don’t I just get myself a bowl and robes, shave off my hair and beard, put on ocher robes, and then go to the monastery and live with the monks?”
+483At one time there was a gentleman who had been brought up in comfort, but whose entire family had died. He thought: “I’ve been brought up in comfort and I’m incapable of making money. How can I live happily without exhausting myself?” It occurred to him: “These Sakyan monastics have pleasant habits and a happy life. They eat nice food and sleep in beds sheltered from the wind. Why don’t I just get myself a bowl and robes, shave off my hair and beard, put on ocher robes, and then go to the monastery and live with the bhikkhus?”
 
-And he did just that. When he came to the monastery, he bowed down to the monks. The monks asked him:
+And he did just that. When he came to the monastery, he bowed down to the bhikkhus. The bhikkhus asked him:
 
 “How many rains do you have?”
 
@@ -2588,9 +2588,9 @@ And he did just that. When he came to the monastery, he bowed down to the monks.
 
 “What’s a preceptor?”
 
-The monks said to Venerable Upāli: “Upāli, please examine this person.”
+The bhikkhus said to Venerable Upāli: “Upāli, please examine this person.”
 
-He then told Upāli what had happened. Upāli told the monks, who in turn told the Buddha.
+He then told Upāli what had happened. Upāli told the bhikkhus, who in turn told the Buddha.
 
 
 “Anyone living in the community by theft should not be given the full ordination. If it has been given, they should be expelled.
@@ -2609,15 +2609,15 @@ Anyone who has previously left to join the monastics of another religion should 
 
 484At one time there was a dragon who was troubled, ashamed, and disgusted with his existence as a dragon. He thought: “How can I get released from this existence and quickly become human?” It occurred to him: “These Sakyan monastics have integrity. They’re celibate and their conduct is good, and they’re truthful, moral, and have a good character. If I were to go forth with them, I would be released from this existence as a dragon and quickly become human.”
 
-Then, taking on the appearance of a young brahmin, that dragon went to the monks and asked for the going forth. The monks gave him the going forth and the full ordination.
+Then, taking on the appearance of a young brahmin, that dragon went to the bhikkhus and asked for the going forth. The bhikkhus gave him the going forth and the full ordination.
 
 Soon afterwards that dragon was sharing a remote dwelling with a certain monk. After getting up early one morning, that monk did walking meditation outside. When the monk had left, the dragon relaxed and fell asleep. As a result, the serpent filled the whole dwelling, its coils even protruding from the windows.
 
-Just then that monk decided to go back inside. When he opened the door, he saw the serpent filling the whole dwelling. Terrified, he screamed. Monks came running to and asked him why he was screaming.
+Just then that monk decided to go back inside. When he opened the door, he saw the serpent filling the whole dwelling. Terrified, he screamed. bhikkhus came running to and asked him why he was screaming.
 
 And he told them what had seen.
 
-The dragon woke up from the noise and sat down on his seat. The monks asked him who he was.
+The dragon woke up from the noise and sat down on his seat. The bhikkhus asked him who he was.
 
 He replied: “I’m a dragon.”
 
@@ -2626,13 +2626,13 @@ He replied: “I’m a dragon.”
 They told the Buddha.
 
 
-485He then had the Saṅgha of monks gathered and said to the dragon: “Dragons are unable to make progress on this spiritual path. Go, dragon, and keep the observance days of the fourteenth, the fifteenth, and the eighth of the lunar half-month. In this way you’ll be released from existence as a dragon and quickly become human.”
+485He then had the Saṅgha of bhikkhus gathered and said to the dragon: “Dragons are unable to make progress on this spiritual path. Go, dragon, and keep the observance days of the fourteenth, the fifteenth, and the eighth of the lunar half-month. In this way you’ll be released from existence as a dragon and quickly become human.”
 
 When he heard this, the dragon wept. Sad and miserable he cried out in distress and left.
 
-And the Buddha addressed the monks: “There are two occasions when dragons appear in their own form: when they have sexual intercourse with each other, and when they relax and fall asleep.
+And the Buddha addressed the bhikkhus: “There are two occasions when dragons appear in their own form: when they have sexual intercourse with each other, and when they relax and fall asleep.
 
-Monks, an animal should not be given the full ordination. If it has been given, it should be expelled.”
+bhikkhus, an animal should not be given the full ordination. If it has been given, it should be expelled.”
 
 #### 50. Matricides ^50
 
@@ -2646,9 +2646,9 @@ Monks, an animal should not be given the full ordination. If it has been given, 
 
 486At one time there was a young brahmin who had murdered his mother. He was troubled, ashamed, and disgusted by what he had done, and he thought: “How can I escape from this terrible action?” It occurred to him: “These Sakyan monastics have integrity. They’re celibate and their conduct is good, and they’re truthful, moral, and have a good character. If I were to go forth with them, I might be released from this deed.”
 
-He then went to the monks and asked for the going forth. The monks said to Upāli: “Previously a dragon appearing as a young brahmin asked for the going forth. So, please examine this young brahmin, Upāli.”
+He then went to the bhikkhus and asked for the going forth. The bhikkhus said to Upāli: “Previously a dragon appearing as a young brahmin asked for the going forth. So, please examine this young brahmin, Upāli.”
 
-That young brahmin told Upāli what had happened. Upāli told the monks, who in turn told the Buddha.
+That young brahmin told Upāli what had happened. Upāli told the bhikkhus, who in turn told the Buddha.
 
 
 “A matricide should not be given the full ordination. If it has been given, he should be expelled.”
@@ -2665,9 +2665,9 @@ That young brahmin told Upāli what had happened. Upāli told the monks, who in 
 
 487At one time there was a young brahmin who had murdered his father. He was troubled, ashamed, and disgusted by what he had done, and he thought: “How can I escape from this terrible action?” It occurred to him: “These Sakyan monastics have integrity. They’re celibate and their conduct is good, and they’re truthful, moral, and have a good character. If I were to go forth with them, I might be released from this bad action.”
 
-He then went to the monks and asked for the going forth. The monks said to Upāli: “Previously a dragon appearing as a young brahmin asked for the going forth. So, please examine this young brahmin, Upāli.”
+He then went to the bhikkhus and asked for the going forth. The bhikkhus said to Upāli: “Previously a dragon appearing as a young brahmin asked for the going forth. So, please examine this young brahmin, Upāli.”
 
-That young brahmin told Upāli what had happened. Upāli told the monks, who in turn told the Buddha.
+That young brahmin told Upāli what had happened. Upāli told the bhikkhus, who in turn told the Buddha.
 
 “A patricide should not be given the full ordination. If it has been given, he should be expelled.”
 
@@ -2681,15 +2681,15 @@ That young brahmin told Upāli what had happened. Upāli told the monks, who in 
 > ```
 
 
-488On one occasion a number of monks were traveling from Sāketa to Sāvatthī. While on their way, they were attacked by gangsters. Some of the monks were robbed and some were killed.
+488On one occasion a number of bhikkhus were traveling from Sāketa to Sāvatthī. While on their way, they were attacked by gangsters. Some of the bhikkhus were robbed and some were killed.
 
-The King’s men came out from Sāvatthī. They caught some of the bandits, while others escaped. Those who escaped went forth with the monks, but those who were caught were taken away for execution.
+The King’s men came out from Sāvatthī. They caught some of the bandits, while others escaped. Those who escaped went forth with the bhikkhus, but those who were caught were taken away for execution.
 
 Those who had gone forth saw the other being taken away for execution. They said: “It’s good that we escaped. Had we been caught, we would’ve been executed, too.”
 
-The monks asked: “But what have you done?” They told the monks what had happened, and the monks told the Buddha. He said:
+The bhikkhus asked: “But what have you done?” They told the bhikkhus what had happened, and the bhikkhus told the Buddha. He said:
 
-“Those monks were perfected ones.
+“Those bhikkhus were perfected ones.
 
 
 A murderer of a perfected one should not be given the full ordination. If it has been given, he should be expelled.”
@@ -2706,11 +2706,11 @@ A murderer of a perfected one should not be given the full ordination. If it has
 
 489On one occasion a number of nuns were traveling from Sāketa to Sāvatthī. While on their way, they were attack by gangsters. Some of the nuns were robbed and some were raped.
 
-The King’s men came out from Sāvatthī. They caught some of the bandits, while others escaped. Those who escaped went forth with the monks, but those who were caught were taken away for execution.
+The King’s men came out from Sāvatthī. They caught some of the bandits, while others escaped. Those who escaped went forth with the bhikkhus, but those who were caught were taken away for execution.
 
 Those who had gone forth saw the other being taken away for execution. They said: “It’s good that we escaped. Had we been caught, we would’ve been executed, too.”
 
-The monks asked: “But what have you done?” They told the monks what had happened, and the monks told the Buddha.
+The bhikkhus asked: “But what have you done?” They told the bhikkhus what had happened, and the bhikkhus told the Buddha.
 
 
 “One who has raped a nun should not be given the full ordination. If it has been given, he should be expelled.
@@ -2743,19 +2743,19 @@ One who has caused the Buddha to bleed should not be given the full ordination. 
 > ```
 
 
-491On one occasion the monks gave the full ordination to someone without a preceptor. They told the Buddha.
+491On one occasion the bhikkhus gave the full ordination to someone without a preceptor. They told the Buddha.
 
 “You should not give the full ordination to someone without a preceptor. If you do, you commit an offense of wrong conduct.”
 
-492On one occasion the monks gave the full ordination to someone with the Saṅgha as preceptor. They told the Buddha.
+492On one occasion the bhikkhus gave the full ordination to someone with the Saṅgha as preceptor. They told the Buddha.
 
 “You should not give the full ordination with the Saṅgha as preceptor. If you do, you commit an offense of wrong conduct.”
 
-493On one occasion the monks gave the full ordination to someone with a group as preceptor. They told the Buddha.
+493On one occasion the bhikkhus gave the full ordination to someone with a group as preceptor. They told the Buddha.
 
 “You should not give the full ordination with a group as preceptor. If you do, you commit an offense of wrong conduct.”
 
-494On one occasion the monks gave the full ordination with a _paṇḍaka_ as preceptor … with one living in the community by theft as preceptor … with one who has previously left to join the monastics of another religion as preceptor … with an animal as preceptor … with a matricide as preceptor … with a patricide as preceptor … with a murderer of a perfected one as preceptor … with one who had raped a nun as preceptor … with one who had caused a schism in the Saṅgha as preceptor … with one who had caused the Buddha to bleed as preceptor … with a hermaphrodite as preceptor. They told the Buddha.
+494On one occasion the bhikkhus gave the full ordination with a _paṇḍaka_ as preceptor … with one living in the community by theft as preceptor … with one who has previously left to join the monastics of another religion as preceptor … with an animal as preceptor … with a matricide as preceptor … with a patricide as preceptor … with a murderer of a perfected one as preceptor … with one who had raped a nun as preceptor … with one who had caused a schism in the Saṅgha as preceptor … with one who had caused the Buddha to bleed as preceptor … with a hermaphrodite as preceptor. They told the Buddha.
 
 “You should not give the full ordination with a _paṇḍaka_ as preceptor, with one living in the community by theft as preceptor, with one who has previously left to join the monastics of another religion as preceptor, with an animal as preceptor, with a matricide as preceptor, with a patricide as preceptor, with a murderer of a perfected one as preceptor, with one who has raped a nun as preceptor, with one who has caused a schism in the Saṅgha as preceptor, with one who has caused the Buddha to bleed as preceptor, or with a hermaphrodite as preceptor. If you do, you commit an offense of wrong conduct.”
 
@@ -2769,27 +2769,27 @@ One who has caused the Buddha to bleed should not be given the full ordination. 
 > ```
 
 
-495On one occasion the monks gave the full ordination to someone without an almsbowl. When walking for alms, he received it in his hands. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
+495On one occasion the bhikkhus gave the full ordination to someone without an almsbowl. When walking for alms, he received it in his hands. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
 
 “You should not give the full ordination to someone without an almsbowl. If you do, you commit an offense of wrong conduct.”
 
-496On one occasion the monks gave the full ordination to someone without robes. He walked naked for alms. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
+496On one occasion the bhikkhus gave the full ordination to someone without robes. He walked naked for alms. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
 
 “You should not give the full ordination to someone without robes. If you do, you commit an offense of wrong conduct.”
 
-497On one occasion the monks gave the full ordination to someone with neither almsbowl nor robes. He walked naked for alms and received it in his hands. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
+497On one occasion the bhikkhus gave the full ordination to someone with neither almsbowl nor robes. He walked naked for alms and received it in his hands. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
 
 “You should not give the full ordination to someone with neither almsbowl nor robes. If you do, you commit an offense of wrong conduct.”
 
-498On one occasion the monks gave the full ordination to someone with a borrowed almsbowl. When he had been ordained, they took back the bowl. Then, when walking for alms, he received it in his hands. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
+498On one occasion the bhikkhus gave the full ordination to someone with a borrowed almsbowl. When he had been ordained, they took back the bowl. Then, when walking for alms, he received it in his hands. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
 
 “You should not give the full ordination to someone with a borrowed almsbowl. If you do, you commit an offense of wrong conduct.”
 
-499On one occasion the monks gave the full ordination to someone with borrowed robes. When he had been ordained, they took back the robes. He then walked naked for alms. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
+499On one occasion the bhikkhus gave the full ordination to someone with borrowed robes. When he had been ordained, they took back the robes. He then walked naked for alms. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
 
 “You should not give the full ordination to someone with borrowed robes. If you do, you commit an offense of wrong conduct.”
 
-500On one occasion the monks gave the full ordination to someone with a borrowed almsbowl and borrowed robes. When he had been ordained, they took back the bowl and the robes. He then walked naked for alms and received it in his hands. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
+500On one occasion the bhikkhus gave the full ordination to someone with a borrowed almsbowl and borrowed robes. When he had been ordained, they took back the bowl and the robes. He then walked naked for alms and received it in his hands. People complained and criticized him: “He’s just like the monastics of other religions.” They told the Buddha.
 
 “You should not give the full ordination to someone with a borrowed almsbowl and borrowed robes. If you do, you commit an offense of wrong conduct.”
 
@@ -2805,7 +2805,7 @@ One who has caused the Buddha to bleed should not be given the full ordination. 
 > ```
 
 
-502On one occasion the monks gave the going forth to someone without a hand … to someone without a foot … to someone without a hand and foot … to someone without an ear … to someone without nose … to someone without an ear and nose … to someone without a finger or toe … to someone with a cut tendon … to someone with joined fingers … to a hunchback … to a dwarf … to someone with goiter … to someone who had been branded … to someone who had been whipped … to a wanted criminal … to someone with elephantiasis … to someone with a serious sickness … to someone with abnormal appearance … to someone blind in one eye … to someone with a crooked limb … to someone lame … to someone paralyzed on one side … to someone crippled … to someone weak from old age … to someone blind … to a mute … to someone deaf … to someone blind and mute … to someone blind and deaf … to someone mute and deaf … to someone blind, mute, and deaf. They told the Buddha what had happened. …
+502On one occasion the bhikkhus gave the going forth to someone without a hand … to someone without a foot … to someone without a hand and foot … to someone without an ear … to someone without nose … to someone without an ear and nose … to someone without a finger or toe … to someone with a cut tendon … to someone with joined fingers … to a hunchback … to a dwarf … to someone with goiter … to someone who had been branded … to someone who had been whipped … to a wanted criminal … to someone with elephantiasis … to someone with a serious sickness … to someone with abnormal appearance … to someone blind in one eye … to someone with a crooked limb … to someone lame … to someone paralyzed on one side … to someone crippled … to someone weak from old age … to someone blind … to a mute … to someone deaf … to someone blind and mute … to someone blind and deaf … to someone mute and deaf … to someone blind, mute, and deaf. They told the Buddha what had happened. …
 
 
 “You should not give the going forth to someone without a hand, to someone without a foot, to someone without a hand and foot, to someone without an ear, to someone without nose, to someone without an ear and nose, to someone without a finger or toe, to someone with a cut tendon, to someone with joined fingers, to a hunchback, to a dwarf, to someone with goiter, to someone who has been branded, to someone who has been whipped, to a wanted criminal, to someone with elephantiasis, to someone with a serious sickness, to someone with abnormal appearance, to someone blind in one eye, to someone with a crooked limb, to someone lame, to someone paralyzed on one side, to someone crippled, to someone weak from old age, to someone blind, to a mute, to someone deaf, to someone blind and mute, to someone blind and deaf, to someone mute and deaf, or to someone blind, mute, and deaf. If you do, you commit an offense of wrong conduct.”
@@ -2814,7 +2814,7 @@ One who has caused the Buddha to bleed should not be given the full ordination. 
 503The section consisting of thirty-two cases when the going forth is not to be given is finished.  
 The ninth section for recitation on inheritance is finished.
 
-#### 58. Formal support for shameless monks ^58
+#### 58. Formal support for shameless bhikkhus ^58
 
 > [!TIP]- Links to [[mv1-deepseek-pali#^58|Deep Seek Version]] and BMC2 
 > [[bmc2#^ch14|BMC Chapter 14]] and the following cites:
@@ -2824,17 +2824,17 @@ The ninth section for recitation on inheritance is finished.
 > ```
 
 
-504At that time the monks from the group of six gave formal support to shameless monks. They told the Buddha.
+504At that time the bhikkhus from the group of six gave formal support to shameless bhikkhus. They told the Buddha.
 
-“You should not give formal support to shameless monks. If you do, you commit an offense of wrong conduct.”
+“You should not give formal support to shameless bhikkhus. If you do, you commit an offense of wrong conduct.”
 
-505At that time monks lived with formal support from shameless monks. Soon they too became shameless and bad. They told the Buddha.
+505At that time bhikkhus lived with formal support from shameless bhikkhus. Soon they too became shameless and bad. They told the Buddha.
 
-“You should not live with formal support from shameless monks. If you do, you commit an offense of wrong conduct.”
+“You should not live with formal support from shameless bhikkhus. If you do, you commit an offense of wrong conduct.”
 
-506The monks thought: “The Buddha has laid down a rule that one should neither give formal support to shameless monks nor live with formal support from them. But how do we know who is shameless and who is not?” They told the Buddha.
+506The bhikkhus thought: “The Buddha has laid down a rule that one should neither give formal support to shameless bhikkhus nor live with formal support from them. But how do we know who is shameless and who is not?” They told the Buddha.
 
-“I allow you to wait for four or five days to find out if he is keeping the same standard as the monks.”
+“I allow you to wait for four or five days to find out if he is keeping the same standard as the bhikkhus.”
 
 #### 59. Formal support for those who are traveling, etc. ^59
 
@@ -2850,7 +2850,7 @@ The ninth section for recitation on inheritance is finished.
 
 “If you are traveling and unable to obtain formal support, I allow you to live without.”
 
-508On one occasion two monks were traveling through the country of Kosala, when they arrived at a certain monastery. Just then one of them got sick. He thought: “The Buddha has laid down a rule that a monk like me shouldn’t live without formal support. But I’m sick. So what should I do?” They told the Buddha.
+508On one occasion two bhikkhus were traveling through the country of Kosala, when they arrived at a certain monastery. Just then one of them got sick. He thought: “The Buddha has laid down a rule that a monk like me shouldn’t live without formal support. But I’m sick. So what should I do?” They told the Buddha.
 
 “If you are sick and unable to obtain formal support, I allow you to live without.”
 
@@ -2891,7 +2891,7 @@ The ninth section for recitation on inheritance is finished.
 “I allow you to give the full ordination to two people with a single proclamation.”
 
 
-513At one time there were a number of people who wanted the full ordination with several senior monks. They argued with one another about who should be ordained first. The senior monks said: “Well then, let’s ordain all of them with a single proclamation.” They told the Buddha.
+513At one time there were a number of people who wanted the full ordination with several senior bhikkhus. They argued with one another about who should be ordained first. The senior bhikkhus said: “Well then, let’s ordain all of them with a single proclamation.” They told the Buddha.
 
 “I allow you to give the full ordination to two or three people with a single proclamation, but only with a single preceptor, not with many.”
 
@@ -2937,7 +2937,7 @@ And it should be done like this.
 
 518First they should be told to choose a preceptor. Their bowl and robes should then be pointed out to them: ‘This is your bowl, this your outer robe, this your upper robe, and this your sarong. Now please go and stand over there.’”
 
-519Then they were instructed by monks who were ignorant and incompetent. And because they were badly instructed, they were once again embarrassed, humiliated, and unable to respond. They told the Buddha.
+519Then they were instructed by bhikkhus who were ignorant and incompetent. And because they were badly instructed, they were once again embarrassed, humiliated, and unable to respond. They told the Buddha.
 
 “A monk who is ignorant and incompetent shouldn’t instruct. If he does, he commits an offense of wrong conduct. A monk who is competent and capable should instruct.”
 
@@ -2976,7 +2976,7 @@ The Buddha said: “They should not come together. The instructor should come fi
 He should be told to come.
 
 
-525He should then put his upper robe over one shoulder, pay respect at the feet of the monks, squat on his heels, and raise his joined palms. He should then ask for ordination:
+525He should then put his upper robe over one shoulder, pay respect at the feet of the bhikkhus, squat on his heels, and raise his joined palms. He should then ask for ordination:
 
 ‘Venerables, I ask the Saṅgha for the full ordination. Please lift me up out of compassion. For the second time, Venerables, I ask the Saṅgha for the full ordination. Please lift me up out of compassion. For the third time, Venerables, I ask the Saṅgha for the full ordination. Please lift me up out of compassion.’
 
@@ -3014,7 +3014,7 @@ A competent and capable monk should then inform the Saṅgha:
 
 533“Straightaway the time should be noted and the date should be pointed out. These should be declared jointly to everyone. And the four supports should be pointed out to him:
 
-534‘One gone forth is supported by almsfood. You should persevere with this for life. There are these additional allowances: a meal for the Saṅgha, a meal for designated monks, an invitational meal, a meal for which lots are drawn, a half-monthly meal, a meal on the observance day, and a meal on the day after the observance day.
+534‘One gone forth is supported by almsfood. You should persevere with this for life. There are these additional allowances: a meal for the Saṅgha, a meal for designated bhikkhus, an invitational meal, a meal for which lots are drawn, a half-monthly meal, a meal on the observance day, and a meal on the day after the observance day.
 
 535One gone forth is supported by rag-robes. You should persevere with this for life. There are these additional allowances: linen, cotton, silk, wool, sunn hemp, and hemp.
 
@@ -3034,11 +3034,11 @@ A competent and capable monk should then inform the Saṅgha:
 > ```
 
 
-539On one occasion, the monks gave the full ordination to someone and then departed. The newly ordained monk lagged behind, walking by himself. On the way he met his old wife. She said: “Have you now gone forth?”
+539On one occasion, the bhikkhus gave the full ordination to someone and then departed. The newly ordained monk lagged behind, walking by himself. On the way he met his old wife. She said: “Have you now gone forth?”
 
 “Yes.”
 
-“It’s difficult for those gone forth to get sex. Come, let’s have intercourse.” He had intercourse with her. When he caught up with the monks, they asked him what had taken him so long. He told them what had happened, and they told the Buddha.
+“It’s difficult for those gone forth to get sex. Come, let’s have intercourse.” He had intercourse with her. When he caught up with the bhikkhus, they asked him what had taken him so long. He told them what had happened, and they told the Buddha.
 
 “When you have given the full ordination to someone, you should give him a companion and point out the four things not to be done:
 
@@ -3063,9 +3063,9 @@ A competent and capable monk should then inform the Saṅgha:
 > ```
 
 
-545At one time a certain monk disrobed after being ejected for not recognizing an offense. He then returned and asked the monks for the full ordination. They told the Buddha.
+545At one time a certain monk disrobed after being ejected for not recognizing an offense. He then returned and asked the bhikkhus for the full ordination. They told the Buddha.
 
-546“When a monk disrobes after being ejected for not recognizing an offense, but then returns and asks the monks for the full ordination, he should be asked, ‘Will you recognize that offense?’ If he says, ‘I will,’ he should be given the going forth. If he says, ‘I won’t,’ he should not.
+546“When a monk disrobes after being ejected for not recognizing an offense, but then returns and asks the bhikkhus for the full ordination, he should be asked, ‘Will you recognize that offense?’ If he says, ‘I will,’ he should be given the going forth. If he says, ‘I won’t,’ he should not.
 
 When he’s been given the going forth, he should be asked again, ‘Will you recognize that offense?’ If he says, ‘I will,’ he should be given the full ordination. If he says, ‘I won’t,’ he should not.
 
@@ -3073,7 +3073,7 @@ When he’s been given the full ordination, he should be asked again, ‘Will yo
 
 When he’s been reinstated, he should be asked again, ‘Do you recognize that offense?’ If he recognizes it, it’s good. If he doesn’t recognize it and you’re unanimous, he should be ejected once more. If you’re not unanimous, there’s no offense in living with him or in doing formal meetings of the community together.
 
-547“When a monk disrobes after being ejected for not making amends for an offense, but then returns and asks the monks for the full ordination, he should be asked, ‘Will you make amends for that offense?’ If he says, ‘I will,’ he should be given the going forth. If he says, ‘I won’t,’ he should not.
+547“When a monk disrobes after being ejected for not making amends for an offense, but then returns and asks the bhikkhus for the full ordination, he should be asked, ‘Will you make amends for that offense?’ If he says, ‘I will,’ he should be given the going forth. If he says, ‘I won’t,’ he should not.
 
 When he’s been given the going forth, he should be asked again, ‘Will you make amends for that offense?’ If he says, ‘I will,’ he should be given the full ordination. If he says, ‘I won’t,’ he should not.
 
@@ -3081,7 +3081,7 @@ When he’s been given the full ordination, he should be asked again, ‘Will yo
 
 When he’s been reinstated, he should be told, ‘Make amends for that offense.’ If he does, it’s good. If he doesn’t and you’re unanimous, he should be ejected once more. If you’re not unanimous, there’s no offense in living with him or in doing formal meetings of the community together.
 
-548“When a monk disrobes after being ejected for not giving up a bad view, but then returns and asks the monks for the full ordination, he should be asked, ‘Will you give up that bad view?’ If he says, ‘I will,’ he should be given the going forth. If he says, ‘I won’t,’ he should not.
+548“When a monk disrobes after being ejected for not giving up a bad view, but then returns and asks the bhikkhus for the full ordination, he should be asked, ‘Will you give up that bad view?’ If he says, ‘I will,’ he should be given the going forth. If he says, ‘I won’t,’ he should not.
 
 When he’s been given the going forth, he should be asked again, ‘Will you give up that bad view?’ If he says, ‘I will,’ he should be given the full ordination. If he says, ‘I won’t,’ he should not.
 

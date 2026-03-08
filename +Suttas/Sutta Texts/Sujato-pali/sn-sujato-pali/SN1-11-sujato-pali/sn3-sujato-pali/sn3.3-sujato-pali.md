@@ -24,7 +24,7 @@ language: "English - Pali"
 
 Seated to one side, King Pasenadi said to the Buddha: “Sir, for someone who has been reborn, is there anything apart from old age and death?”
 
-“Great king, for someone who has been reborn, there’s nothing apart from old age and death. Even for well-to-do aristocrats, brahmins, or householders — rich, affluent, and wealthy, with lots of gold and silver, lots of property and assets, and lots of money and grain — when they’re born, there’s nothing apart from old age and death. Even for mendicants who are perfected — who have ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment — their bodies are liable to break up and be laid to rest.
+“Great king, for someone who has been reborn, there’s nothing apart from old age and death. Even for well-to-do aristocrats, brahmins, or householders — rich, affluent, and wealthy, with lots of gold and silver, lots of property and assets, and lots of money and grain — when they’re born, there’s nothing apart from old age and death. Even for bhikkhus who are perfected — who have ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment — their bodies are liable to break up and be laid to rest.
 
 That is what the Buddha said. …
 

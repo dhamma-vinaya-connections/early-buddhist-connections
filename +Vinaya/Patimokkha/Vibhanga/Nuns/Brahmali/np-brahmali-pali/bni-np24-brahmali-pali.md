@@ -16,41 +16,41 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu. At that time a potter had invited the monks, saying, “If any of you needs an almsbowl, I’ll provide it.” But the monks had no sense of moderation, and they asked for many bowls. Those who had small bowls asked for large ones, and those who had large bowls asked for small ones. The potter was so busy making bowls for the monks that he was unable to make goods for sale. He could not make a living for himself, and his wives and children suffered. People complained and criticized them, “How can the Sakyan monastics have no sense of moderation and ask for many bowls? This potter is so busy making bowls for them that he is unable to make goods for sale. He is unable to make a living for himself, and his wives and children are suffering.”
+1At one time the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu. At that time a potter had invited the bhikkhus, saying, “If any of you needs an almsbowl, I’ll provide it.” But the bhikkhus had no sense of moderation, and they asked for many bowls. Those who had small bowls asked for large ones, and those who had large bowls asked for small ones. The potter was so busy making bowls for the bhikkhus that he was unable to make goods for sale. He could not make a living for himself, and his wives and children suffered. People complained and criticized them, “How can the Sakyan monastics have no sense of moderation and ask for many bowls? This potter is so busy making bowls for them that he is unable to make goods for sale. He is unable to make a living for himself, and his wives and children are suffering.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can those monks have no sense of moderation and ask for many bowls?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can those bhikkhus have no sense of moderation and ask for many bowls?”
 
 
-3After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that there are monks who do this?”
+3After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that there are bhikkhus who do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can those foolish men do this? This will affect people’s confidence …” … After rebuking them, he gave a teaching and addressed the monks:
+The Buddha rebuked them … “How can those foolish men do this? This will affect people’s confidence …” … After rebuking them, he gave a teaching and addressed the bhikkhus:
 
-“Monks, a monk should not ask for an almsbowl. If he does, he commits an offense of wrong conduct.”
+“bhikkhus, a monk should not ask for an almsbowl. If he does, he commits an offense of wrong conduct.”
 
 4Soon afterwards the bowl of a certain monk broke. Knowing that the Buddha had prohibited asking for a bowl and being afraid of wrongdoing, he did not ask for a new one. As a consequence, he collected almsfood with his hands. People complained and criticized him, “How can the Sakyan monastics collect almsfood with their hands, just like the monastics of other religions?”
 
-5The monks heard the complaints of those people and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+5The bhikkhus heard the complaints of those people and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to ask for a new almsbowl if your bowl has been lost or is broken.”
+“bhikkhus, I allow you to ask for a new almsbowl if your bowl has been lost or is broken.”
 
 
-6When they heard about the Buddha’s allowance, the monks from the group of six asked for many bowls even when their existing bowls only had a minor chip or scratch. Once again that potter was so busy making bowls for the monks that he was unable to make goods for sale. He could not make a living for himself, and his wives and children suffered. And people complained and criticized them as before.
+6When they heard about the Buddha’s allowance, the bhikkhus from the group of six asked for many bowls even when their existing bowls only had a minor chip or scratch. Once again that potter was so busy making bowls for the bhikkhus that he was unable to make goods for sale. He could not make a living for himself, and his wives and children suffered. And people complained and criticized them as before.
 
-7The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can the monks from the group of six ask for many bowls even when their existing bowls only has a minor chip or scratch?”
+7The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can the bhikkhus from the group of six ask for many bowls even when their existing bowls only has a minor chip or scratch?”
 
-8After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you do this?”
+8After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-9‘If a monk exchanges an almsbowl with fewer than five mends for a new almsbowl, he commits an offense entailing relinquishment and confession. That monk should relinquish that almsbowl to a gathering of monks. He should then be given the last almsbowl belonging to that gathering: “Monk, this bowl is yours. Keep it until it breaks.” This is the proper procedure.’”
+9‘If a monk exchanges an almsbowl with fewer than five mends for a new almsbowl, he commits an offense entailing relinquishment and confession. That monk should relinquish that almsbowl to a gathering of bhikkhus. He should then be given the last almsbowl belonging to that gathering: “Monk, this bowl is yours. Keep it until it breaks.” This is the proper procedure.’”
 
 #### Definitions
 
@@ -73,14 +73,14 @@ It should be relinquished in the midst of the Sangha. All determined bowls shoul
 
 If one determines an inferior bowl, thinking, “I’ll get a valuable one,” one commits an offense of wrong conduct.
 
-“And, monks, it should be relinquished like this. After approaching the Sangha, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, raise his joined palms, and say,
+“And, bhikkhus, it should be relinquished like this. After approaching the Sangha, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior bhikkhus. He should then squat on his heels, raise his joined palms, and say,
 
 ‘Venerables, this almsbowl, which I got in exchange for a bowl that had fewer than five mends, is to be relinquished. I relinquish it to the Sangha.’”
 
 After relinquishing it, he should confess the offense. The confession should be received by a competent and capable monk.
 
 
-A monk who has five qualities should be appointed as the distributor of almsbowls: one who is not biased by desire, ill will, confusion, or fear, and who knows what has and has not been distributed. “And, monks, this is how he should be appointed. First the monk should be asked, and then a competent and capable monk should inform the Sangha:
+A monk who has five qualities should be appointed as the distributor of almsbowls: one who is not biased by desire, ill will, confusion, or fear, and who knows what has and has not been distributed. “And, bhikkhus, this is how he should be appointed. First the monk should be asked, and then a competent and capable monk should inform the Sangha:
 
 13‘Please, Venerables, I ask the Sangha to listen. If it seems appropriate to the Sangha, it should appoint monk so-and-so as the distributor of almsbowls. This is the motion.
 

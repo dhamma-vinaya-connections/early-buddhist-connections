@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are five higher fetters. What five? Desire for rebirth in the realm of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. These are the five higher fetters.
+1“bhikkhus, there are five higher fetters. What five? Desire for rebirth in the realm of luminous form, desire for rebirth in the formless realm, conceit, restlessness, and ignorance. These are the five higher fetters.
 
 2To give up these five higher fetters you should develop the four kinds of mindfulness meditation. …”
 

@@ -24,10 +24,10 @@ language: "English - Pali"
 
 Then King Ajātasattu Vedehiputta of Magadha mobilized an army of four divisions and marched to Kāsi to attack King Pasenadi of Kosala. When King Pasenadi heard of this, he mobilized an army of four divisions and marched to Kāsi to defend it against Ajātasattu. Then the two kings met in battle. And in that battle Ajātasattu defeated Pasenadi, who withdrew to his own capital at Sāvatthī.
 
-2Then several mendicants robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms. Then, after the meal, when they returned from alms-round, they went up to the Buddha, bowed, sat down to one side, and told him what had happened. Then the Buddha said:
+2Then several bhikkhus robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms. Then, after the meal, when they returned from alms-round, they went up to the Buddha, bowed, sat down to one side, and told him what had happened. Then the Buddha said:
 
 
-3–4“Mendicants, King Ajātasattu has bad friends, companions, and associates. But King Pasenadi has good friends, companions, and associates. Yet on this day King Pasenadi will have a bad night’s sleep as one defeated.”
+3–4“bhikkhus, King Ajātasattu has bad friends, companions, and associates. But King Pasenadi has good friends, companions, and associates. Yet on this day King Pasenadi will have a bad night’s sleep as one defeated.”
 
 
 That is what the Buddha said. …

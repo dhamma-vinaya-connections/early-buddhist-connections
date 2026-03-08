@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Six qualities that enable a mendicant to gain understanding
+> Six qualities that enable a bhikkhu to gain understanding
 
 > [!info] Key Excerpts 
 > Truly understands which qualities make things worse, which keep things steady, which lead to distinction, and which lead to penetration. And they practice carefully and do what’s suitable.
 > 
-> A mendicant with six qualities is capable of realizing anything that can be realized, in each and every case
+> A bhikkhu with six qualities is capable of realizing anything that can be realized, in each and every case
 > 
 
 

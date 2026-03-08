@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.11.1.1* *BD.3.263* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time a man, a relative[^1] of a nun who was a pupil of Bhaddā Kāpilānī,[^2] set out from a village for Sāvatthī on some business. Then that nun stood together with and further talked with that man, the one with the other, in the dark of the night when there was no light. Those who were modest nuns … spread it about, saying: “How can this nun stand together with and further talk with a man, the one with the other, in the dark of the night when there is no light?” …
 
-“Is it true, as is said, monks, that a nun … when there was no light?”
+“Is it true, as is said, bhikkhus, that a nun … when there was no light?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can a nun … when there was no light? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can a nun … when there was no light? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should stand together with or should talk with[^3] a man, the one with the other, in the dark of the night when there is no light, there is an offence of expiation.”
 

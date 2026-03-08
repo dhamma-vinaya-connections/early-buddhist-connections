@@ -16,11 +16,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-“Mendicants, a mendicant with five qualities is an exquisite ascetic of ascetics.
+“bhikkhus, a bhikkhu with five qualities is an exquisite ascetic of ascetics.
 
 2What five?
 
-It’s when a mendicant usually uses only what they’ve been invited to accept — robes, alms-food, lodgings, and medicines and supplies for the sick — rarely using them without invitation.
+It’s when a bhikkhu usually uses only what they’ve been invited to accept — robes, alms-food, lodgings, and medicines and supplies for the sick — rarely using them without invitation.
 
 When living with other spiritual practitioners, they usually treat them agreeably by way of body, speech, and mind, and rarely disagreeably. And they usually present them with agreeable things, rarely with disagreeable ones.
 
@@ -28,7 +28,7 @@ They’re healthy, so the various unpleasant feelings — stemming from disorder
 
 They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty. And they realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 
-A mendicant with these five qualities is an exquisite ascetic of ascetics.
+A bhikkhu with these five qualities is an exquisite ascetic of ascetics.
 
 
 3And if anyone should be rightly called an exquisite ascetic of ascetics, it’s me. For I usually use only what I’ve been invited to accept. When living with other spiritual practitioners, I usually treat them agreeably. And I usually present them with agreeable things. I’m healthy. I get the four jhānas when I want, without trouble or difficulty. And I’ve realized the undefiled freedom of heart and freedom by wisdom in this very life.

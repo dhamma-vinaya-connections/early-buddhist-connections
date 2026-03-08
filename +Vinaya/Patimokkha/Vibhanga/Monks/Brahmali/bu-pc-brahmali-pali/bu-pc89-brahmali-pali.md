@@ -16,34 +16,34 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, he allowed the sitting mat for the monks. Knowing this, the monks from the group of six used sitting mats that were inappropriate in size. The sitting mats hung down from beds and benches, both in front and behind.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, he allowed the sitting mat for the bhikkhus. Knowing this, the bhikkhus from the group of six used sitting mats that were inappropriate in size. The sitting mats hung down from beds and benches, both in front and behind.
 
-2The monks of few desires complained and criticized those monks, “How can the monks from the group of six use such sitting mats?” …
+2The bhikkhus of few desires complained and criticized those bhikkhus, “How can the bhikkhus from the group of six use such sitting mats?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 3‘If a monk is having a sitting mat made, it is to be made the right size. This is the right size: two standard handspans long and one-and-a-half wide. If it exceeds that, it is to be cut down, and he commits an offense entailing confession.’”
 
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
 5At that time there was a big monk called Venerable Udāyī. After putting out his sitting mat in front of the Buddha, he stretched it on all sides before sitting down. The Buddha asked him:
 
 “Udāyī, why are you stretching the sitting mat on all sides, as if an old hide?”
 
-“Because, Venerable Sir, the sitting mat you’ve allowed for the monks is too small.”
+“Because, Venerable Sir, the sitting mat you’ve allowed for the bhikkhus is too small.”
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow a border of one handspan for the sitting mat.
+“bhikkhus, I allow a border of one handspan for the sitting mat.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

@@ -39,17 +39,17 @@ Saying, “Come,” she entered her bedroom, took off her wrap, and lay back on 
 4Other women, too, criticized him in the same way,
 
 
-5The monks heard the criticism of those women, and the monks of few desires complained and criticized him, “How could Venerable Udāyī encourage a woman to satisfy his own desires?”
+5The bhikkhus heard the criticism of those women, and the bhikkhus of few desires complained and criticized him, “How could Venerable Udāyī encourage a woman to satisfy his own desires?”
 
 
-6Those monks rebuked Udāyī in many ways and then told the Buddha. The Buddha had the Sangha gathered and questioned Udāyī:
+6Those bhikkhus rebuked Udāyī in many ways and then told the Buddha. The Buddha had the Sangha gathered and questioned Udāyī:
 
 “Is it true, Udāyī, that you did this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked him, “It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you do such a thing? Haven’t I given many teachings for the sake of dispassion, not for the sake of passion … the stilling of the fevers of sensual pleasure? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him, “It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you do such a thing? Haven’t I given many teachings for the sake of dispassion, not for the sake of passion … the stilling of the fevers of sensual pleasure? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

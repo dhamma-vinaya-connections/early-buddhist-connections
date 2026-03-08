@@ -18,20 +18,20 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, a mendicant who is an inquirer, unable to comprehend another’s mind, should scrutinize the Realized One to see whether he is a fully awakened Buddha or not.”
+“bhikkhus, a bhikkhu who is an inquirer, unable to comprehend another’s mind, should scrutinize the Realized One to see whether he is a fully awakened Buddha or not.”
 
-“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The mendicants will listen and remember it.”
+“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The bhikkhus will listen and remember it.”
 
-“Well then, mendicants, listen and pay close attention, I will speak.”
+“Well then, bhikkhus, listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, a mendicant who is an inquirer, unable to comprehend another’s mind, should scrutinize the Realized One for two things — things that can be seen and heard: ‘Can anything corrupt be seen or heard in the Realized One or not?’ Scrutinizing him they find that nothing corrupt can be seen or heard in the Realized One.
+2“bhikkhus, a bhikkhu who is an inquirer, unable to comprehend another’s mind, should scrutinize the Realized One for two things — things that can be seen and heard: ‘Can anything corrupt be seen or heard in the Realized One or not?’ Scrutinizing him they find that nothing corrupt can be seen or heard in the Realized One.
 
 3They scrutinize further: ‘Can anything mixed be seen or heard in the Realized One or not?’ Scrutinizing him they find that nothing mixed can be seen or heard in the Realized One.
 
@@ -40,11 +40,11 @@ language: "English - Pali"
 
 5They scrutinize further: ‘Did the venerable attain this skillful state a long time ago, or just recently?’ Scrutinizing him they find that the venerable attained this skillful state a long time ago, not just recently.
 
-6They scrutinize further: ‘Are certain dangers found in that venerable mendicant who has achieved fame and renown?’ For, mendicants, so long as a mendicant has not achieved fame and renown, certain dangers are not found in them. But when they achieve fame and renown, those dangers appear. Scrutinizing him they find that those dangers are not found in that venerable mendicant who has achieved fame and renown.
+6They scrutinize further: ‘Are certain dangers found in that venerable bhikkhu who has achieved fame and renown?’ For, bhikkhus, so long as a bhikkhu has not achieved fame and renown, certain dangers are not found in them. But when they achieve fame and renown, those dangers appear. Scrutinizing him they find that those dangers are not found in that venerable bhikkhu who has achieved fame and renown.
 
 7They scrutinize further: ‘Is this venerable securely stopped or insecurely stopped? Is the reason they don’t indulge in sensual pleasures that they’re free of greed because greed has ended?’ Scrutinizing him they find that that venerable is securely stopped, not insecurely stopped. The reason they don’t indulge in sensual pleasures is that they’re free of greed because greed has ended.
 
-8If others should ask that mendicant, ‘But what reason and evidence does the venerable have for saying this?’ Answering rightly, the mendicant should say, ‘Because, whether that venerable is staying in a community or alone, some people there are in a good state or a sorry state, some instruct a group, and some indulge in material pleasures, while others remain unsullied. Yet that venerable doesn’t look down on them for that. Also, I have heard and learned this in the presence of the Buddha: “I am securely stopped, not insecurely stopped. The reason I don’t indulge in sensual pleasures is that I’m free of greed because greed has ended.”’
+8If others should ask that bhikkhu, ‘But what reason and evidence does the venerable have for saying this?’ Answering rightly, the bhikkhu should say, ‘Because, whether that venerable is staying in a community or alone, some people there are in a good state or a sorry state, some instruct a group, and some indulge in material pleasures, while others remain unsullied. Yet that venerable doesn’t look down on them for that. Also, I have heard and learned this in the presence of the Buddha: “I am securely stopped, not insecurely stopped. The reason I don’t indulge in sensual pleasures is that I’m free of greed because greed has ended.”’
 
 9Next, they should ask the Realized One himself about this, ‘Can anything corrupt be seen or heard in the Realized One or not?’ The Realized One would answer, ‘Nothing corrupt can be seen or heard in the Realized One.’
 
@@ -53,13 +53,13 @@ language: "English - Pali"
 
 11‘Can anything clean be seen or heard in the Realized One or not?’ The Realized One would answer, ‘Clean things can be seen and heard in the Realized One. I am that range and that territory, but I do not identify with that.’
 
-12A disciple ought to approach a teacher who has such a doctrine in order to listen to the teaching. The teacher explains Dhamma with its higher and higher stages, with its better and better stages, with its dark and bright sides. When they directly know a certain principle of those teachings, in accordance with how they were taught, the mendicant comes to a conclusion about the teachings. They have confidence in the teacher: ‘The Blessed One is a fully awakened Buddha! The teaching is well explained! The Saṅgha is practicing well!’
+12A disciple ought to approach a teacher who has such a doctrine in order to listen to the teaching. The teacher explains Dhamma with its higher and higher stages, with its better and better stages, with its dark and bright sides. When they directly know a certain principle of those teachings, in accordance with how they were taught, the bhikkhu comes to a conclusion about the teachings. They have confidence in the teacher: ‘The Blessed One is a fully awakened Buddha! The teaching is well explained! The Saṅgha is practicing well!’
 
-If others should ask that mendicant, ‘But what reason and evidence does the venerable have for saying this?’ Answering rightly, the mendicant should say, ‘Reverends, I approached the Buddha to listen to the teaching. He explained Dhamma with its higher and higher stages, with its better and better stages, with its dark and bright sides. When I directly knew a certain principle of those teachings, in accordance with how I was taught, I came to a conclusion about the teachings. I had confidence in the Teacher: “The Blessed One is a fully awakened Buddha! The teaching is well explained! The Saṅgha is practicing well!”’
+If others should ask that bhikkhu, ‘But what reason and evidence does the venerable have for saying this?’ Answering rightly, the bhikkhu should say, ‘Reverends, I approached the Buddha to listen to the teaching. He explained Dhamma with its higher and higher stages, with its better and better stages, with its dark and bright sides. When I directly knew a certain principle of those teachings, in accordance with how I was taught, I came to a conclusion about the teachings. I had confidence in the Teacher: “The Blessed One is a fully awakened Buddha! The teaching is well explained! The Saṅgha is practicing well!”’
 
 13When someone’s faith is settled, rooted, and planted in the Realized One in this manner, with these words and phrases, it’s said to be grounded faith that’s based on evidence. It is firm, and cannot be shifted by any ascetic or brahmin or god or Māra or Brahmā or by anyone in the world. This is how to scrutinize the Realized One’s qualities. But the Realized One has already been properly searched in this way by nature.”
 
-14That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+14That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

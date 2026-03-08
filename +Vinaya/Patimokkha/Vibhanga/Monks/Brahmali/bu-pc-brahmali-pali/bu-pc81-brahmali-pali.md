@@ -16,20 +16,20 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time Venerable Dabba the Mallian, who was the assigner of dwellings and the designator of meals, had a robe that was worn out. Just then the Sangha had obtained a robe, which it gave to Dabba. The monks from the group of six complained and criticized it, “The monks are diverting the Sangha’s material things according to friendship.”
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time Venerable Dabba the Mallian, who was the assigner of dwellings and the designator of meals, had a robe that was worn out. Just then the Sangha had obtained a robe, which it gave to Dabba. The bhikkhus from the group of six complained and criticized it, “The bhikkhus are diverting the Sangha’s material things according to friendship.”
 
-2The monks of few desires complained and criticized them, “How could the monks from the group of six give out a robe as part of a unanimous Sangha and then criticize it afterwards?” …
+2The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six give out a robe as part of a unanimous Sangha and then criticize it afterwards?” …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk gives out a robe as part of a unanimous Sangha and then criticizes it afterwards, saying, “The monks are diverting the Sangha’s material things according to friendship,” he commits an offense entailing confession.’”
+3‘If a monk gives out a robe as part of a unanimous Sangha and then criticizes it afterwards, saying, “The bhikkhus are diverting the Sangha’s material things according to friendship,” he commits an offense entailing confession.’”
 
 #### Definitions
 

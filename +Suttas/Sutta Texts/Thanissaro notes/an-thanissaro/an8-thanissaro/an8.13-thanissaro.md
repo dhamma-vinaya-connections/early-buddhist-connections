@@ -35,25 +35,25 @@ language: "English"
 
 “Endowed with these eight qualities, a king’s auspicious thoroughbred steed is worthy of a king, is a king’s asset, counts as a very limb of his king.
 
-“In the same way, a monk endowed with eight qualities is deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, an incomparable field of merit for the world. Which eight?
+“In the same way, a bhikkhu endowed with eight qualities is deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, an incomparable field of merit for the world. Which eight?
 
-[1] “There is the case where a monk is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest faults.
+[1] “There is the case where a bhikkhu is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest faults.
 
 [2] “When given food, whether coarse or refined, he eats it carefully, without complaining.
 
 [3] “He feels disgust at bodily misconduct, verbal misconduct, mental misconduct, at the development of evil, unskillful (mental) qualities.
 
-[4] “He is composed & easy to live with, and doesn’t harass the other monks.
+[4] “He is composed & easy to live with, and doesn’t harass the other bhikkhus.
 
 [5] “Whatever tricks or deceits or wiles or subterfuges he has, he shows them as they actually are to the Teacher or to his observant companions in the holy life, so that the Teacher or his observant companions in the holy life can try to straighten them out.
 
-[6] “When in training he gives rise to the thought, ‘Whether the other monks want to train or not, _I’ll_ train here.’
+[6] “When in training he gives rise to the thought, ‘Whether the other bhikkhus want to train or not, _I’ll_ train here.’
 
 [7] “When going, he goes the straight path; here the straight path is this: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
 
 [8] “He dwells with his persistence aroused, (thinking,) ‘Gladly would I let the flesh & blood in my body dry up, leaving just the skin, tendons, & bones, but if I have not attained what can be reached through human steadfastness, human persistence, human striving, there will be no relaxing my persistence.’”
 
-“Endowed with these eight qualities, a monk is deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, an incomparable field of merit for the world.”
+“Endowed with these eight qualities, a bhikkhu is deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, an incomparable field of merit for the world.”
 
 See also: [[an3.97-thanissaro]]; [[an4.111-thanissaro]]; [[an4.113-thanissaro]]; [[an5.75-thanissaro]]; [[an5.139-thanissaro]]; [[an11.10-thanissaro]]
 

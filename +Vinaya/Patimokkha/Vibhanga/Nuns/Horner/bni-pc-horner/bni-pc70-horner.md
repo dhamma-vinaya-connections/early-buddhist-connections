@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.70.1.1* *BD.3.379* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the nun Thullanandā, having ordained (the woman) who lived with her,[^1] neither withdrew[^2] her nor had her withdrawn; her husband seized her. Those who were modest nuns … spread it about, saying: “How can the lady Thullanandā, having ordained (the woman) who lives with her, neither withdraw her nor have her withdrawn? Her husband seized her. If this nun had departed her husband could not have seized her.” …
 
-“Is it true, as is said, monks, that the nun Thullanandā … nor had her withdrawn (so that) her husband seized her?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā … nor had her withdrawn (so that) her husband seized her?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā … nor have her withdrawn (so that) her husband seized her? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā … nor have her withdrawn (so that) her husband seized her? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, having ordained (the woman) who lives with her, should neither withdraw her nor have her withdrawn even to (a distance of) five or six _yojanas_, there is an offence of expiation.”
 

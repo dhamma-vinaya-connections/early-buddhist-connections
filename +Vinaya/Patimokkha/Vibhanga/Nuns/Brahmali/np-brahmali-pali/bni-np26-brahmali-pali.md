@@ -29,14 +29,14 @@ Soon afterwards that monk heard that the Buddha was about to go wandering the co
 
 “Well, that robe I gave you is going with me,” and he just took it back in anger.
 
-That monk told other monks what had happened. And the monks of few desires complained and criticized Upananda, “How could Venerable Upananda give away a robe and then take it back in anger?”
+That monk told other bhikkhus what had happened. And the bhikkhus of few desires complained and criticized Upananda, “How could Venerable Upananda give away a robe and then take it back in anger?”
 
-2After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, Upananda, that you did this?”
+2After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, Upananda, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -61,7 +61,7 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 10**Has taken back:** if he asks another, he commits an offense of wrong conduct. If he only asks once, then even if the other takes back many, it becomes subject to relinquishment.
 
 
-The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
+The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
 
 
 ‘Venerables, this robe-cloth, which I took back after giving it to a monk, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe-cloth back to you.’”

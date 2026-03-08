@@ -17,7 +17,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
@@ -79,9 +79,9 @@ this is the nature of the supreme person.”
 
 #### 2. Wheels on the Feet
 
-18“Mendicants, in some past lives the Realized One was reborn as a human being. He brought happiness to many people, eliminating threats, terror, and danger, providing just protection and security, and giving gifts with all the trimmings. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: on the soles of his feet there are thousand-spoked wheels, with rims and hubs, complete in every detail and well divided inside.
+18“bhikkhus, in some past lives the Realized One was reborn as a human being. He brought happiness to many people, eliminating threats, terror, and danger, providing just protection and security, and giving gifts with all the trimmings. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: on the soles of his feet there are thousand-spoked wheels, with rims and hubs, complete in every detail and well divided inside.
 
-19Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He has a large following of brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. But if he goes forth from the lay life to homelessness, he becomes a fully awakened Buddha. And what does he obtain as Buddha? He has a large following of monks, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
+19Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He has a large following of brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. But if he goes forth from the lay life to homelessness, he becomes a fully awakened Buddha. And what does he obtain as Buddha? He has a large following of bhikkhus, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
 
 20On this it is said:
 
@@ -117,7 +117,7 @@ the supreme, honored by gods and humans.”
 
 #### 3–5. Projecting Heels, Etc.
 
-27“Mendicants, in some past lives the Realized One was reborn as a human being. He gave up killing living creatures, renouncing the rod and the sword. He was scrupulous and kind, living full of compassion for all living beings. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these three marks: he has projecting heels, long fingers, and his body is as straight as Brahmā’s.
+27“bhikkhus, in some past lives the Realized One was reborn as a human being. He gave up killing living creatures, renouncing the rod and the sword. He was scrupulous and kind, living full of compassion for all living beings. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these three marks: he has projecting heels, long fingers, and his body is as straight as Brahmā’s.
 
 28Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He’s long lived, preserving his life for a long time. No human foe or enemy is able to take his life before his time. That’s what he obtains as king. And what does he obtain as Buddha? He’s long lived, preserving his life for a long time. No foes or enemies — nor any ascetic or brahmin or god or Māra or Brahmā or anyone in the world — is able to take his life before his time. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -146,7 +146,7 @@ Thus this is the sign of long life.’”
 
 #### 6. Seven Bulges
 
-34“Mendicants, in some past lives the Realized One was reborn as a human being. He was a donor of fine and tasty foods and drinks of all kinds, delicious and scrumptious. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: he has bulging muscles in seven places. He has bulges on both hands, both feet, both shoulders, and his chest.
+34“bhikkhus, in some past lives the Realized One was reborn as a human being. He was a donor of fine and tasty foods and drinks of all kinds, delicious and scrumptious. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: he has bulging muscles in seven places. He has bulges on both hands, both feet, both shoulders, and his chest.
 
 35Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He gets fine and tasty foods and drinks of all kinds, delicious and scrumptious. That’s what he obtains as king. And what does he obtain as Buddha? He gets fine and tasty foods and drinks of all kinds, delicious and scrumptious. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -170,9 +170,9 @@ cutting all bonds of the lay life.’”
 
 #### 7–8. Tender and Clinging Hands
 
-40“Mendicants, in some past lives the Realized One was reborn as a human being. He brought people together using the four ways of being inclusive: giving, kindly words, taking care, and equality. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: his hands and feet are tender, and they cling gracefully.
+40“bhikkhus, in some past lives the Realized One was reborn as a human being. He brought people together using the four ways of being inclusive: giving, kindly words, taking care, and equality. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: his hands and feet are tender, and they cling gracefully.
 
-41Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? His retinue is inclusive, cohesive, and well-managed. This includes brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? His retinue is inclusive, cohesive, and well-managed. This includes monks, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
+41Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? His retinue is inclusive, cohesive, and well-managed. This includes brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? His retinue is inclusive, cohesive, and well-managed. This includes bhikkhus, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
 
 42On this it is said:
 
@@ -199,7 +199,7 @@ after listening, they practice in line with the teaching.”
 
 #### 9–10. Arched Feet and Upright Hair
 
-47“Mendicants, in some past lives the Realized One was reborn as a human being. His speech was meaningful and principled. He educated many people, bringing welfare and happiness, offering the teaching. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: his feet are arched and his hairs stand up.
+47“bhikkhus, in some past lives the Realized One was reborn as a human being. His speech was meaningful and principled. He educated many people, bringing welfare and happiness, offering the teaching. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: his feet are arched and his hairs stand up.
 
 48Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He is the foremost, best, chief, highest, and finest of those who enjoy sensual pleasures. That’s what he obtains as king. And what does he obtain as Buddha? He is the foremost, best, chief, highest, and finest of all sentient beings. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -233,7 +233,7 @@ he’ll live having mastered the whole world.”
 
 #### 11. Antelope Calves
 
-55“Mendicants, in some past lives the Realized One was reborn as a human being. He was a thorough teacher of a profession, a branch of knowledge, conduct, or action, thinking: ‘How might they quickly learn and practice, without getting exhausted?’ Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: his calves are like those of an antelope.
+55“bhikkhus, in some past lives the Realized One was reborn as a human being. He was a thorough teacher of a profession, a branch of knowledge, conduct, or action, thinking: ‘How might they quickly learn and practice, without getting exhausted?’ Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: his calves are like those of an antelope.
 
 56Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He quickly obtains the things worthy of a king, the factors, supports, and things befitting a king. That’s what he obtains as king. And what does he obtain as Buddha? He quickly obtains the things worthy of an ascetic, the factors, supports, and things befitting an ascetic. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -262,7 +262,7 @@ what is fitting and suitable.”
 
 #### 12. Delicate Skin
 
-62“Mendicants, in some past lives the Realized One was reborn as a human being. He approached an ascetic or brahmin and asked: ‘Sirs, what is skillful? What is unskillful? What is blameworthy? What is blameless? What should be cultivated? What should not be cultivated? Doing what leads to my lasting harm and suffering? Doing what leads to my lasting welfare and happiness?’ Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: he has delicate skin, so delicate that dust and dirt don’t stick to his body.
+62“bhikkhus, in some past lives the Realized One was reborn as a human being. He approached an ascetic or brahmin and asked: ‘Sirs, what is skillful? What is unskillful? What is blameworthy? What is blameless? What should be cultivated? What should not be cultivated? Doing what leads to my lasting harm and suffering? Doing what leads to my lasting welfare and happiness?’ Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: he has delicate skin, so delicate that dust and dirt don’t stick to his body.
 
 63Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He has great wisdom. Of those who enjoy sensual pleasures, none is his equal or better in wisdom. That’s what he obtains as king. And what does he obtain as Buddha? He has great wisdom, widespread wisdom, laughing wisdom, swift wisdom, sharp wisdom, and penetrating wisdom. No sentient being is his equal or better in wisdom. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -291,7 +291,7 @@ the one of superb, vast intelligence attains awakening.”
 
 #### 13. Golden Skin
 
-69“Mendicants, in some past lives the Realized One was reborn as a human being. He wasn’t irritable or bad-tempered. Even when heavily criticized he didn’t lose his temper, become annoyed, hostile, and hard-hearted, or display annoyance, hate, and bitterness. He donated soft and fine mats and blankets, and fine cloths of linen, cotton, silk, and wool. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: he is gold colored; his skin has a golden sheen.
+69“bhikkhus, in some past lives the Realized One was reborn as a human being. He wasn’t irritable or bad-tempered. Even when heavily criticized he didn’t lose his temper, become annoyed, hostile, and hard-hearted, or display annoyance, hate, and bitterness. He donated soft and fine mats and blankets, and fine cloths of linen, cotton, silk, and wool. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: he is gold colored; his skin has a golden sheen.
 
 70Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He obtains soft and fine mats and blankets, and fine cloths of linen, cotton, silk, and wool. That’s what he obtains as king. And what does he obtain as Buddha? He obtains soft and fine mats and blankets, and fine cloths of linen, cotton, silk, and wool. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -320,7 +320,7 @@ what’s been done is never lost.”
 
 #### 14. Retracted Privates
 
-76“Mendicants, in some past lives the Realized One was reborn as a human being. He reunited long-lost and long-separated relatives, friends, loved ones, and companions. He reunited mother with child and child with mother; father with child and child with father; brother with brother, brother with sister, sister with brother, and sister with sister, bringing them together with rejoicing. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: his private parts are retracted.
+76“bhikkhus, in some past lives the Realized One was reborn as a human being. He reunited long-lost and long-separated relatives, friends, loved ones, and companions. He reunited mother with child and child with mother; father with child and child with father; brother with brother, brother with sister, sister with brother, and sister with sister, bringing them together with rejoicing. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: his private parts are retracted.
 
 77Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He has many sons, over a thousand sons who are valiant and heroic, crushing the armies of his enemies. That’s what he obtains as king. And what does he obtain as Buddha? He has many sons, many thousands of sons who are valiant and heroic, crushing the armies of his enemies. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -351,7 +351,7 @@ The first recitation section is finished.
 
 #### 15–16. Equal Proportions and Touching the Knees
 
-83“Mendicants, in some past lives the Realized One was reborn as a human being. He regarded the gathered population equally. He knew what they had in common and what was their own. He knew each person, and he knew the distinctions between people. In each case, he made appropriate distinctions between people: ‘This one deserves that; that one deserves this.’ Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: he has the proportional circumference of a banyan tree; and when standing upright and not bending over, the palms of both hands touch the knees.
+83“bhikkhus, in some past lives the Realized One was reborn as a human being. He regarded the gathered population equally. He knew what they had in common and what was their own. He knew each person, and he knew the distinctions between people. In each case, he made appropriate distinctions between people: ‘This one deserves that; that one deserves this.’ Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: he has the proportional circumference of a banyan tree; and when standing upright and not bending over, the palms of both hands touch the knees.
 
 84Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He is rich, affluent, and wealthy, with lots of gold and silver, lots of property and assets, lots of money and grain, and a full treasury and storehouses. That’s what he obtains as king. And what does he obtain as Buddha? He is rich, affluent, and wealthy. He has these kinds of wealth: the wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -380,7 +380,7 @@ he will gain the supreme, highest peak of wealth.’”
 
 #### 17–19. A Lion’s Chest, Etc.
 
-90“Mendicants, in some past lives the Realized One was reborn as a human being. He desired the good, the welfare, the comfort, and sanctuary of the people, thinking: ‘How might they flourish in faith, ethics, learning, generosity, teachings, and wisdom; in wealth and grain, fields and land, birds and beasts, children and partners; in bondservants, workers, and staff; in family, friends, and kin?’ Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these three marks: his chest is like that of a lion; the gap between the shoulder-blades is filled in; and his torso is cylindrical.
+90“bhikkhus, in some past lives the Realized One was reborn as a human being. He desired the good, the welfare, the comfort, and sanctuary of the people, thinking: ‘How might they flourish in faith, ethics, learning, generosity, teachings, and wisdom; in wealth and grain, fields and land, birds and beasts, children and partners; in bondservants, workers, and staff; in family, friends, and kin?’ Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these three marks: his chest is like that of a lion; the gap between the shoulder-blades is filled in; and his torso is cylindrical.
 
 91Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He’s not liable to decline. He doesn’t decline in wealth and grain, fields and land, birds and beasts, children and partners; in bondservants, workers, and staff; in family, friends, and kin. He doesn’t decline in any of his accomplishments. That’s what he obtains as king. And what does he obtain as Buddha? He’s not liable to decline. He doesn’t decline in faith, ethics, learning, generosity, and wisdom. He doesn’t decline in any of his accomplishments. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -409,7 +409,7 @@ the supreme awakening which may never decline.”
 
 #### 20. Excellent Sense of Taste
 
-97“Mendicants, in some past lives the Realized One was reborn as a human being. He would never hurt any sentient being with fists, stones, rods, or swords. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: he has an excellent sense of taste. Taste-buds are produced in the throat for the tongue-tip and dispersed evenly.
+97“bhikkhus, in some past lives the Realized One was reborn as a human being. He would never hurt any sentient being with fists, stones, rods, or swords. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: he has an excellent sense of taste. Taste-buds are produced in the throat for the tongue-tip and dispersed evenly.
 
 98Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He is rarely ill or unwell. His stomach digests well, being neither too hot nor too cold. That’s what he obtains as king. And what does he obtain as Buddha? He is rarely ill or unwell. His stomach digests well, being neither too hot nor too cold, but just right, and fit for meditation. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -433,9 +433,9 @@ That’s the meaning shown by this mark.’”
 
 #### 21–22. Deep Blue Eyes
 
-103“Mendicants, in some past lives the Realized One was reborn as a human being. When looking at others he didn’t glare, look askance, or avert his eyes. Being straightforward, he reached out to others with straightforward intentions, looking at people with kindly eyes. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: his eyes are deep blue, and he has eyelashes like a cow’s.
+103“bhikkhus, in some past lives the Realized One was reborn as a human being. When looking at others he didn’t glare, look askance, or avert his eyes. Being straightforward, he reached out to others with straightforward intentions, looking at people with kindly eyes. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: his eyes are deep blue, and he has eyelashes like a cow’s.
 
-104Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? The people look on him with kindly eyes. He is dear and beloved to the brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? The people look on him with kindly eyes. He is dear and beloved to the monks, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
+104Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? The people look on him with kindly eyes. He is dear and beloved to the brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? The people look on him with kindly eyes. He is dear and beloved to the bhikkhus, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
 
 105On this it is said:
 
@@ -462,9 +462,9 @@ as destroyer of sorrow he’ll be loved by many.”
 
 #### 23. Head Like a Turban
 
-110“Mendicants, in some past lives the Realized One was reborn as a human being. He was the leader and forerunner of people in skillful behaviors such as good conduct by way of body, speech, giving and sharing, taking precepts, observing the sabbath, paying due respect to mother and father, ascetics and brahmins, honoring the elders in the family, and various other things pertaining to skillful behaviors. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: his head is shaped like a turban.
+110“bhikkhus, in some past lives the Realized One was reborn as a human being. He was the leader and forerunner of people in skillful behaviors such as good conduct by way of body, speech, giving and sharing, taking precepts, observing the sabbath, paying due respect to mother and father, ascetics and brahmins, honoring the elders in the family, and various other things pertaining to skillful behaviors. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: his head is shaped like a turban.
 
-111Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He has a large following of brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? He has a large following of monks, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
+111Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He has a large following of brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? He has a large following of bhikkhus, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
 
 112On this it is said:
 
@@ -491,9 +491,9 @@ the people will become his followers.’”
 
 #### 24–25. One Hair Per Pore, and a Tuft
 
-117“Mendicants, in some past lives the Realized One was reborn as a human being. He refrained from lying. He spoke the truth and stuck to the truth. He was honest and trustworthy, and didn’t trick the world with his words. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: his hairs grow one per pore, and between his eyebrows there grows a tuft, soft and white like cotton-wool.
+117“bhikkhus, in some past lives the Realized One was reborn as a human being. He refrained from lying. He spoke the truth and stuck to the truth. He was honest and trustworthy, and didn’t trick the world with his words. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: his hairs grow one per pore, and between his eyebrows there grows a tuft, soft and white like cotton-wool.
 
-118Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He has many close adherents among the brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? He has many close adherents among the monks, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
+118Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He has many close adherents among the brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? He has many close adherents among the bhikkhus, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
 
 119On this it is said:
 
@@ -520,9 +520,9 @@ as Buddha the people will follow him.’”
 
 #### 26–27. Forty Gapless Teeth
 
-124“Mendicants, in some past lives the Realized One was reborn as a human being. He refrained from divisive speech. He didn’t repeat in one place what he heard in another so as to divide people against each other. Instead, he reconciled those who were divided, supporting unity, delighting in harmony, loving harmony, speaking words that promote harmony. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: he has forty teeth, and his teeth have no gaps.
+124“bhikkhus, in some past lives the Realized One was reborn as a human being. He refrained from divisive speech. He didn’t repeat in one place what he heard in another so as to divide people against each other. Instead, he reconciled those who were divided, supporting unity, delighting in harmony, loving harmony, speaking words that promote harmony. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: he has forty teeth, and his teeth have no gaps.
 
-125Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? His retinue cannot be divided. This includes brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? His retinue cannot be divided. This includes monks, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
+125Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? His retinue cannot be divided. This includes brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? His retinue cannot be divided. This includes bhikkhus, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
 
 126On this it is said:
 
@@ -549,9 +549,9 @@ his assembly will follow him, unshakable.”
 
 #### 28–29. A Large Tongue and the Voice of Brahmā
 
-131“Mendicants, in some past lives the Realized One was reborn as a human being. He refrained from harsh speech. He spoke in a way that’s mellow, pleasing to the ear, lovely, going to the heart, polite, likable and agreeable to the people. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: he has a large tongue, and the voice of Brahmā, like a cuckoo’s call.
+131“bhikkhus, in some past lives the Realized One was reborn as a human being. He refrained from harsh speech. He spoke in a way that’s mellow, pleasing to the ear, lovely, going to the heart, polite, likable and agreeable to the people. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained these two marks: he has a large tongue, and the voice of Brahmā, like a cuckoo’s call.
 
-132Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He has a persuasive voice. His words are persuasive to brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? He has a persuasive voice. His words are persuasive to monks, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
+132Possessing these marks, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He has a persuasive voice. His words are persuasive to brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king. And what does he obtain as Buddha? He has a persuasive voice. His words are persuasive to bhikkhus, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
 
 133On this it is said:
 
@@ -578,7 +578,7 @@ they’ll be persuaded by his fair words.”
 
 #### 30. A Lion-Like Jaw
 
-138“Mendicants, in some past lives the Realized One was reborn as a human being. He refrained from talking nonsense. His words were timely, true, and meaningful, in line with the teaching and training. He said things at the right time which were valuable, reasonable, succinct, and beneficial. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: his jaw is like that of a lion.
+138“bhikkhus, in some past lives the Realized One was reborn as a human being. He refrained from talking nonsense. His words were timely, true, and meaningful, in line with the teaching and training. He said things at the right time which were valuable, reasonable, succinct, and beneficial. Due to performing those deeds he was reborn in a heavenly realm. When he came back to this state of existence he obtained this mark: his jaw is like that of a lion.
 
 139Possessing this mark, if he stays at home he becomes a wheel-turning monarch. And what does he obtain as king? He can’t be destroyed by any human foe or enemy. That’s what he obtains as king. And what does he obtain as Buddha? He can’t be destroyed by any foe or enemy whether internal or external; nor by greed, hate, or delusion; nor by any ascetic or brahmin or god or Māra or Brahmā or by anyone in the world. That’s what he obtains as Buddha.” That is what the Buddha said.
 
@@ -607,11 +607,11 @@ he illuminates the quarters and in-between.”
 
 #### 31–32. Even and White Teeth
 
-145“Mendicants, in some past lives the Realized One was reborn as a human being. He gave up wrong livelihood and earned a living by right livelihood. He refrained from falsifying weights, metals, or measures; bribery, fraud, cheating, and duplicity; mutilation, murder, abduction, banditry, plunder, and violence. Due to performing, accumulating, heaping up, and amassing those deeds, when his body broke up, after death, he was reborn in a good place, a heavenly realm. There he surpassed the other gods in ten respects: divine life span, beauty, happiness, glory, sovereignty, sights, sounds, smells, tastes, and touches. When he came back to this state of existence he obtained these two marks: his teeth are even and perfectly white.
+145“bhikkhus, in some past lives the Realized One was reborn as a human being. He gave up wrong livelihood and earned a living by right livelihood. He refrained from falsifying weights, metals, or measures; bribery, fraud, cheating, and duplicity; mutilation, murder, abduction, banditry, plunder, and violence. Due to performing, accumulating, heaping up, and amassing those deeds, when his body broke up, after death, he was reborn in a good place, a heavenly realm. There he surpassed the other gods in ten respects: divine life span, beauty, happiness, glory, sovereignty, sights, sounds, smells, tastes, and touches. When he came back to this state of existence he obtained these two marks: his teeth are even and perfectly white.
 
 146Possessing these marks, if he stays at home he becomes a king, a wheel-turning monarch, a just and principled king. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. He has the following seven treasures: the wheel, the elephant, the horse, the jewel, the woman, the treasurer, and the counselor as the seventh treasure. He has over a thousand sons who are valiant and heroic, crushing the armies of his enemies. After conquering this land girt by sea — free of harassment by bandits, successful and prosperous, safe, blessed, and untroubled — he reigns by principle, without rod or sword. And what does he obtain as king? His retinue is pure. This includes brahmins and householders, people of town and country, treasury officials, military officers, guardsmen, ministers, counselors, rulers, tax beneficiaries, and princes. That’s what he obtains as king.
 
-147But if he goes forth from the lay life to homelessness, he becomes a perfected one, a fully awakened Buddha, who draws back the veil from the world. And what does he obtain as Buddha? His retinue is pure. This includes monks, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
+147But if he goes forth from the lay life to homelessness, he becomes a perfected one, a fully awakened Buddha, who draws back the veil from the world. And what does he obtain as Buddha? His retinue is pure. This includes bhikkhus, nuns, laymen, laywomen, gods, humans, demons, dragons, and fairies. That’s what he obtains as Buddha.” That is what the Buddha said.
 
 148On this it is said:
 
@@ -652,7 +652,7 @@ He’s surrounded by pure people, who dispel
 stains, callousness, sin, and corruptions.’”
 
 
-156That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+156That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 ### Pali
 

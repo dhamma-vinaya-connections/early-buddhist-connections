@@ -29,7 +29,7 @@ Then, knowing that the Buddha had consented, the Sakyans got up from their seat,
 Then they went back to the Buddha, bowed, stood to one side, and told him of their preparations, saying: “Please, sir, come at your convenience.”
 
 
-Then the Buddha put on his outer robe and, taking his bowl and robe, went to the new town hall together with the Saṅgha of mendicants. Having washed his feet he entered the town hall and sat against the central column facing east. The Saṅgha of mendicants also washed their feet, entered the town hall, and sat against the west wall facing east, with the Buddha right in front of them. The Sakyans of Kapilavatthu also washed their feet, entered the town hall, and sat against the east wall facing west, with the Buddha right in front of them.
+Then the Buddha put on his outer robe and, taking his bowl and robe, went to the new town hall together with the Saṅgha of bhikkhus. Having washed his feet he entered the town hall and sat against the central column facing east. The Saṅgha of bhikkhus also washed their feet, entered the town hall, and sat against the west wall facing east, with the Buddha right in front of them. The Sakyans of Kapilavatthu also washed their feet, entered the town hall, and sat against the east wall facing west, with the Buddha right in front of them.
 
 
 The Buddha spent most of the night educating, encouraging, firing up, and inspiring the Sakyans with a Dhamma talk. Then he addressed Venerable Ānanda,

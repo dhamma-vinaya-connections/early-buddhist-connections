@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant practicing mindfulness of breathing who has five things will soon penetrate the unshakable. What five? It’s when a mendicant has few requirements and duties, and is easily looked after and contented with life’s necessities. They eat little, not devoted to filling their stomach. They are rarely drowsy, and are dedicated to wakefulness. They live in the wilderness, in remote lodgings. They review the extent of their mind’s freedom. A mendicant practicing mindfulness of breathing who has these five things will soon penetrate the unshakable.”
+1“bhikkhus, a bhikkhu practicing mindfulness of breathing who has five things will soon penetrate the unshakable. What five? It’s when a bhikkhu has few requirements and duties, and is easily looked after and contented with life’s necessities. They eat little, not devoted to filling their stomach. They are rarely drowsy, and are dedicated to wakefulness. They live in the wilderness, in remote lodgings. They review the extent of their mind’s freedom. A bhikkhu practicing mindfulness of breathing who has these five things will soon penetrate the unshakable.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu ānāpānassatiṁ bahulīkaronto nacirasseva akuppaṁ paṭivijjhati. Katamehi pañcahi? Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu; appāhāro hoti anodarikattaṁ anuyutto; appamiddho hoti jāgariyaṁ anuyutto; āraññako hoti pantasenāsano; yathāvimuttaṁ cittaṁ paccavekkhati. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu ānāpānassatiṁ bahulīkaronto nacirasseva akuppaṁ paṭivijjhatī"ti.
 

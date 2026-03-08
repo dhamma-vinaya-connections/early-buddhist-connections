@@ -25,9 +25,9 @@ Just then robe-cloth belonging to the Sangha was being distributed. Then, after 
 
 “Yes, Venerable, my robes are worn.”
 
-2And he gave his robe-cloth to that nun. As a consequence, his robes, too, became worn. Other monks said to him, “Why don’t you make a robe for yourself?” And he told them what had happened.
+2And he gave his robe-cloth to that nun. As a consequence, his robes, too, became worn. Other bhikkhus said to him, “Why don’t you make a robe for yourself?” And he told them what had happened.
 
-3The monks of few desires complained and criticized him, “How could a monk give robe-cloth to a nun?” … “Is it true, monk, that you did this?”
+3The bhikkhus of few desires complained and criticized him, “How could a monk give robe-cloth to a nun?” … “Is it true, monk, that you did this?”
 
 
 “It’s true, Sir.”
@@ -36,20 +36,20 @@ Just then robe-cloth belonging to the Sangha was being distributed. Then, after 
 
 “No.”
 
-“Foolish man, a man and a woman who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“Foolish man, a man and a woman who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 4‘If a monk gives robe-cloth to an unrelated nun, he commits an offense entailing confession.’”
 
 
-5In this way the Buddha laid down this training rule for the monks.
+5In this way the Buddha laid down this training rule for the bhikkhus.
 
-6Once this had happened, the monks did not even give robe-cloth to the nuns in exchange, being afraid of wrongdoing. The nuns complained and criticized them, “How can they not give us robe-cloth in exchange?”
+6Once this had happened, the bhikkhus did not even give robe-cloth to the nuns in exchange, being afraid of wrongdoing. The nuns complained and criticized them, “How can they not give us robe-cloth in exchange?”
 
-7The monks heard the complaints of those nuns and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+7The bhikkhus heard the complaints of those nuns and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to give things in exchange to five kinds of people: monks, nuns, trainee nuns, novice monks, and novice nuns.
+“bhikkhus, I allow you to give things in exchange to five kinds of people: bhikkhus, nuns, trainee nuns, novice bhikkhus, and novice nuns.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

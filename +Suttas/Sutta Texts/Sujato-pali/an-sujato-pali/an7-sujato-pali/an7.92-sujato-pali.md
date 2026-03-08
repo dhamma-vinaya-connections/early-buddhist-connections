@@ -2,7 +2,7 @@
 sutta_code: "AN7.92"
 sutta_title:
   - "Bhikkhu "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, it’s by being far from seven things that you become a perfected one. What seven?
+1“bhikkhus, it’s by being far from seven things that you become a perfected one. What seven?
 
 Identity view, doubt, misapprehension of precepts and observances, greed, hate, delusion, and conceit. It’s because of being far from these seven things that you become a perfected one.”
 

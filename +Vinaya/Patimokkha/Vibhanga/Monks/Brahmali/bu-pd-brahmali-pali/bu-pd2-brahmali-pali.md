@@ -16,24 +16,24 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time, when families invited monks to meals, the nuns from the group of six were directing people toward the monks from the group of six, saying, “Give curry here; give rice there.” The monks from the group of six ate as much as they wanted, but not so the other monks.
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time, when families invited bhikkhus to meals, the nuns from the group of six were directing people toward the bhikkhus from the group of six, saying, “Give curry here; give rice there.” The bhikkhus from the group of six ate as much as they wanted, but not so the other bhikkhus.
 
-2The monks of few desires complained and criticized them, “How could the monks from the group of six not restrain the nuns from giving directions?” …
+2The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six not restrain the nuns from giving directions?” …
 
-“Is it true, monks, that you didn’t do this?”
+“Is it true, bhikkhus, that you didn’t do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you not do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you not do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘When monks eat by invitation to families, if a nun is there giving directions, saying, “Give bean curry here; give rice there,” then those monks should stop her: “Stop, Sister, while the monks are eating.” If not even a single monk addresses that nun in this way to stop her, they must acknowledge it: “We have done a blameworthy and unsuitable thing which is to be acknowledged. We acknowledge it.”’”
+3‘When bhikkhus eat by invitation to families, if a nun is there giving directions, saying, “Give bean curry here; give rice there,” then those bhikkhus should stop her: “Stop, Sister, while the bhikkhus are eating.” If not even a single monk addresses that nun in this way to stop her, they must acknowledge it: “We have done a blameworthy and unsuitable thing which is to be acknowledged. We acknowledge it.”’”
 
 #### Definitions
 
-4**When monks eat by invitation to families:** a family: there are four kinds of families: the aristocratic family, the brahmin family, the merchant family, the worker family.
+4**When bhikkhus eat by invitation to families:** a family: there are four kinds of families: the aristocratic family, the brahmin family, the merchant family, the worker family.
 
 5**Eat by invitation:** eat any of the five cooked foods by invitation.
 
@@ -42,12 +42,12 @@ The Buddha rebuked them … “Foolish men, how could you not do this? This will
 
 7**Giving directions:** saying, “Give bean curry here; give rice there,” according to friendship, according to companionship, according to who one is devoted to, according to being a co-student, according to being a co-pupil—this is called “giving directions”.
 
-8**Those monks:** the monks who are eating.
+8**Those bhikkhus:** the bhikkhus who are eating.
 
 
 9**Her:** the nun who is giving directions.
 
-10**Those monks should stop her: ‘Stop, Sister, while the monks are eating’:** if she is not stopped by even one monk, and a monk then receives food with the intention of eating it, he commits an offense of wrong conduct. For every mouthful, he commits an offense entailing acknowledgment.
+10**Those bhikkhus should stop her: ‘Stop, Sister, while the bhikkhus are eating’:** if she is not stopped by even one monk, and a monk then receives food with the intention of eating it, he commits an offense of wrong conduct. For every mouthful, he commits an offense entailing acknowledgment.
 
 #### Permutations
 

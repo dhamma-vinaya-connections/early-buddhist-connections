@@ -7,21 +7,21 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC1]]
 > ◄  [[BU-NP30]] 📜  [[bu-pc2-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 1
+# bhikkhus’ Expiation (_Pācittiya_) 1
 
 *Bu-Pc.1.1.1* *Vin.4.1* *BD.2.164* At that time the enlightened one, the lord, was staying at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time Hatthaka,[^1] the son of the Sakyans,[^2] came to be overthrown in debate.[^3] He, talking with followers of sects holding other views, having denied, acknowledged, having acknowledged, denied, he shelved the question by (asking) another,[^4] he told a conscious lie,[^5] having made a rendezvous,[^6] he deceived with words.[^7] The followers of sects holding other views looked down upon, criticised, spread it about, saying:
 
 *BD.2.165* “How can this Hatthaka, the son of the Sakyans, talking together with us, having denied, acknowledge, having acknowledged, deny, shelve the question by (asking) another, tell a conscious lie, having made a rendezvous, deceive with words?”
 
-Monks heard these followers of sects holding other views who looked down upon, criticised, spread it about. Then these monks approached Hatthaka, the son of the Sakyans, and having approached, they spoke thus to Hatthaka, the son of the Sakyans:
+bhikkhus heard these followers of sects holding other views who looked down upon, criticised, spread it about. Then these bhikkhus approached Hatthaka, the son of the Sakyans, and having approached, they spoke thus to Hatthaka, the son of the Sakyans:
 
 “Is it true, as is said, that you, reverend Hatthaka, talking together with followers of sects holding other views, having denied, acknowledged … deceived with words?”
 
 “Your reverences, these followers of sects holding other views should be vanquished in some way; victory should not be given to them thus.”
 
-Those who were modest monks looked down upon, criticised, spread it about, saying: “How can this Hatthaka, the son of the Sakyans, talking together with followers of sects holding other views, having denied, acknowledge, *Vin.4.2* having acknowledged, deny, shelve the question by (asking) another, tell a conscious lie, having made a rendezvous, deceive with words?”
+Those who were modest bhikkhus looked down upon, criticised, spread it about, saying: “How can this Hatthaka, the son of the Sakyans, talking together with followers of sects holding other views, having denied, acknowledge, *Vin.4.2* having acknowledged, deny, shelve the question by (asking) another, tell a conscious lie, having made a rendezvous, deceive with words?”
 
-Then these monks told this matter to the lord. Then the lord on this occasion, in this connection, having had the Order of monks convened, questioned Hatthaka, the son of the Sakyans:
+Then these bhikkhus told this matter to the lord. Then the lord on this occasion, in this connection, having had the Order of bhikkhus convened, questioned Hatthaka, the son of the Sakyans:
 
 “Is it true, as is said, that you, Hatthaka, talking together with followers of sects holding other views, having denied, acknowledged … deceived with words?”
 
@@ -29,7 +29,7 @@ Then these monks told this matter to the lord. Then the lord on this occasion, i
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, talking together with followers of sects holding other views, having denied, acknowledge … having made a rendezvous, deceive with words? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, talking together with followers of sects holding other views, having denied, acknowledge … having made a rendezvous, deceive with words? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
 *BD.2.166* “In telling a conscious lie,[^8] there is an offence of expiation.”[^9]
 
@@ -93,7 +93,7 @@ The First
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

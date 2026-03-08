@@ -53,7 +53,7 @@ Using the simile of a set of relay chariots, ven. Punna mantaniputta explains th
 > Puṇṇa mantāṇiputta is fortunate, so very fortunate,in that his sensible spiritual companions praise him point by point in the presence of the teacher, and that the teacher seconds that appreciation.
 The spiritual life is lived under the Buddha  for the sake of nibbana by not grasping. This is the base of Buddha ghosa's visuddhimagga (the path of purity), the cornerstone of his pali commentaries
 > 
-> Personally having few wishes, they speak to the mendicants on having few wishes. Personally having contentment, seclusion, aloofness, energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom, they speak to the mendicants on all these things. 
+> Personally having few wishes, they speak to the bhikkhus on having few wishes. Personally having contentment, seclusion, aloofness, energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom, they speak to the bhikkhus on all these things. 
 Purification of ethics is only for the sake of purification of mind,  is only for the sake of purification of view,  is only for the sake of purification through overcoming doubt, is only for the sake of purification of knowledge and vision of the variety of paths, is only for the sake of purification of knowledge and vision of the practice, is only for the sake of purification of knowledge and vision  is only for the sake of extinguishment by not grasping.
 > 
 

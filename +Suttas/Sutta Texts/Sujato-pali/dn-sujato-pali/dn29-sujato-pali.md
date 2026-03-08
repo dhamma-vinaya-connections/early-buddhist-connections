@@ -64,24 +64,24 @@ Take the case where a teacher is not awakened, and the teaching is poorly explai
 13But when a spiritual path possesses those factors and the teacher is senior, then that spiritual path is complete in that respect.
 
 
-14Now suppose that a spiritual path possesses those factors and the teacher is senior. But there are no senior monk disciples who are competent, educated, assured, have attained sanctuary, who can rightly explain the true teaching, and who can legitimately and completely refute the doctrines of others that come up, and teach with a demonstrable basis. Then that spiritual path is incomplete in that respect.
+14Now suppose that a spiritual path possesses those factors and the teacher is senior. But there are no senior bhikkhu disciples who are competent, educated, assured, have attained sanctuary, who can rightly explain the true teaching, and who can legitimately and completely refute the doctrines of others that come up, and teach with a demonstrable basis. Then that spiritual path is incomplete in that respect.
 
-15But when a spiritual path possesses those factors and the teacher is senior and there are competent senior monks, then that spiritual path is complete in that respect.
-
-
-16Now suppose that a spiritual path possesses those factors and the teacher is senior and there are competent senior monks. But there are no competent middle monks, junior monks, senior nuns, middle nuns, junior nuns, celibate white-clothed laymen, white-clothed laymen enjoying sensual pleasures, celibate white-clothed laywomen, white-clothed laywomen enjoying sensual pleasures. … There are white-clothed laywomen enjoying sensual pleasures, but the spiritual path is not successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans … the spiritual path is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans, but it has not reached the peak of material possessions and fame. Then that spiritual path is incomplete in that respect.
+15But when a spiritual path possesses those factors and the teacher is senior and there are competent senior bhikkhus, then that spiritual path is complete in that respect.
 
 
-17But when a spiritual path possesses those factors and the teacher is senior and there are competent senior monks, middle monks, junior monks, senior nuns, middle nuns, junior nuns, celibate laymen, laymen enjoying sensual pleasures, celibate laywomen, laywomen enjoying sensual pleasures, and the spiritual path is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans, and it has reached the peak of material possessions and fame, then that spiritual path is complete in that respect.
+16Now suppose that a spiritual path possesses those factors and the teacher is senior and there are competent senior bhikkhus. But there are no competent middle bhikkhus, junior bhikkhus, senior nuns, middle nuns, junior nuns, celibate white-clothed laymen, white-clothed laymen enjoying sensual pleasures, celibate white-clothed laywomen, white-clothed laywomen enjoying sensual pleasures. … There are white-clothed laywomen enjoying sensual pleasures, but the spiritual path is not successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans … the spiritual path is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans, but it has not reached the peak of material possessions and fame. Then that spiritual path is incomplete in that respect.
+
+
+17But when a spiritual path possesses those factors and the teacher is senior and there are competent senior bhikkhus, middle bhikkhus, junior bhikkhus, senior nuns, middle nuns, junior nuns, celibate laymen, laymen enjoying sensual pleasures, celibate laywomen, laywomen enjoying sensual pleasures, and the spiritual path is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans, and it has reached the peak of material possessions and fame, then that spiritual path is complete in that respect.
 
 
 18I, Cunda, am a teacher who has arisen in the world today, perfected and fully awakened. The teaching is well explained and well propounded, emancipating, leading to peace, proclaimed by someone who is fully awakened. My disciples have inquired about the meaning of that good teaching. And the spiritual practice that’s entirely full and pure has been disclosed and revealed to them with all its collected sayings, with its demonstrable basis, well proclaimed wherever there are gods and humans. I am a teacher today who is senior, long standing, long gone forth, advanced in years, and have reached the final stage of life.
 
 
-19I have today disciples who are competent senior monks, middle monks, junior monks, senior nuns, middle nuns, junior nuns, celibate laymen, laymen enjoying sensual pleasures, celibate laywomen, and laywomen enjoying sensual pleasures. Today my spiritual life is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans.
+19I have today disciples who are competent senior bhikkhus, middle bhikkhus, junior bhikkhus, senior nuns, middle nuns, junior nuns, celibate laymen, laymen enjoying sensual pleasures, celibate laywomen, and laywomen enjoying sensual pleasures. Today my spiritual life is successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans.
 
 
-20Of all the teachers in the world today, Cunda, I don’t see even a single one who has reached the peak of material possessions and fame like me. Of all the spiritual communities and groups in the world today, Cunda, I don’t see even a single one who has reached the pinnacle of material possessions and fame like the mendicant Saṅgha. And if there’s any spiritual path of which it may be rightly said that it’s endowed with all good qualities, complete in all good qualities, neither too little nor too much, well explained, whole, full, and well propounded, it’s of this spiritual path that this should be said.
+20Of all the teachers in the world today, Cunda, I don’t see even a single one who has reached the peak of material possessions and fame like me. Of all the spiritual communities and groups in the world today, Cunda, I don’t see even a single one who has reached the pinnacle of material possessions and fame like the bhikkhu Saṅgha. And if there’s any spiritual path of which it may be rightly said that it’s endowed with all good qualities, complete in all good qualities, neither too little nor too much, well explained, whole, full, and well propounded, it’s of this spiritual path that this should be said.
 
 21Uddaka, son of Rāma, used to say: ‘Seeing, one does not see.’ But seeing what does one not see? You can see the blade of a well-sharpened razor, but not the edge. Thus it is said: ‘Seeing, one does not see.’ But that saying of Uddaka’s is low, crude, ordinary, ignoble, and pointless, as it’s only concerning a razor. If there’s anything of which it may be rightly said: ‘Seeing, one does not see,’ it’s of this that it should be said. Seeing what does one not see? One sees this: a spiritual path endowed with all good qualities, complete in all good qualities, neither too little nor too much, well explained, whole, full, and well propounded. One does not see this: anything that, were it to be removed, would make it purer. One does not see this: anything that, were it to be added, would make it more complete. Thus it is rightly said: ‘Seeing, one does not see.’
 
@@ -97,7 +97,7 @@ Take the case where a teacher is not awakened, and the teaching is poorly explai
 
 25Suppose another spiritual companion were to recite the teaching in the Saṅgha. Now, you might think, ‘This venerable construes the meaning correctly but mistakes the phrasing.’ You should neither approve nor dismiss them, but say, ‘Reverend, if this is the meaning, the phrasing may be either this or that: which is more fitting?’ Suppose they reply, ‘This phrasing fits the meaning better than that.’ Without flattering or rebuking, you should carefully convince them by examining that phrasing.
 
-26Suppose another spiritual companion were to recite the teaching in the Saṅgha. Now, you might think, ‘This venerable construes the meaning correctly and gets the phrasing right.’ Saying ‘Good!’ you should applaud and cheer that mendicant’s statement, and then say to them, ‘We are fortunate, reverend, so very fortunate to see a venerable such as yourself, so well-versed in the meaning and the phrasing, as one of our spiritual companions!’
+26Suppose another spiritual companion were to recite the teaching in the Saṅgha. Now, you might think, ‘This venerable construes the meaning correctly and gets the phrasing right.’ Saying ‘Good!’ you should applaud and cheer that bhikkhu’s statement, and then say to them, ‘We are fortunate, reverend, so very fortunate to see a venerable such as yourself, so well-versed in the meaning and the phrasing, as one of our spiritual companions!’
 
 #### 8. The Reasons for Allowing Requisites
 
@@ -126,16 +126,16 @@ And that’s why I have allowed robes for you that suffice only for the sake of 
 
 36These four kinds of indulgence in pleasure, when developed and cultivated, lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. What four?
 
-37It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is the first kind of indulgence in pleasure.
+37It’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is the first kind of indulgence in pleasure.
 
 
-38Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna. It has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is the second kind of indulgence in pleasure.
+38Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna. It has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is the second kind of indulgence in pleasure.
 
 
-39Furthermore, with the fading away of rapture, a mendicant enters and remains in the third jhāna. They meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is the third kind of indulgence in pleasure.
+39Furthermore, with the fading away of rapture, a bhikkhu enters and remains in the third jhāna. They meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is the third kind of indulgence in pleasure.
 
 
-40Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna. It is without pleasure or pain, with pure equanimity and mindfulness. This is the fourth kind of indulgence in pleasure.
+40Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a bhikkhu enters and remains in the fourth jhāna. It is without pleasure or pain, with pure equanimity and mindfulness. This is the fourth kind of indulgence in pleasure.
 
 41These are the four kinds of indulgence in pleasure which, when developed and cultivated, lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment.
 
@@ -146,13 +146,13 @@ And that’s why I have allowed robes for you that suffice only for the sake of 
 43It’s possible that wanderers who follow other paths might say, ‘How many fruits and benefits may be expected by those who live indulging in pleasure in these four ways?’ You should say to them, ‘Four benefits may be expected by those who live indulging in pleasure in these four ways. What four?
 
 
-Firstly, with the ending of three fetters a mendicant becomes a stream-enterer, not liable to be reborn in the underworld, bound for awakening. This is the first fruit and benefit.
+Firstly, with the ending of three fetters a bhikkhu becomes a stream-enterer, not liable to be reborn in the underworld, bound for awakening. This is the first fruit and benefit.
 
-Furthermore, a mendicant — with the ending of three fetters, and the weakening of greed, hate, and delusion — becomes a once-returner. They come back to this world once only, then make an end of suffering. This is the second fruit and benefit.
+Furthermore, a bhikkhu — with the ending of three fetters, and the weakening of greed, hate, and delusion — becomes a once-returner. They come back to this world once only, then make an end of suffering. This is the second fruit and benefit.
 
-Furthermore, with the ending of the five lower fetters, a mendicant is reborn spontaneously and will become extinguished there, not liable to return from that world. This is the third fruit and benefit.
+Furthermore, with the ending of the five lower fetters, a bhikkhu is reborn spontaneously and will become extinguished there, not liable to return from that world. This is the third fruit and benefit.
 
-Furthermore, a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements. This is the fourth fruit and benefit.
+Furthermore, a bhikkhu realizes the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements. This is the fourth fruit and benefit.
 
 These four benefits may be expected by those who live indulging in pleasure in these four ways.’
 
@@ -160,7 +160,7 @@ These four benefits may be expected by those who live indulging in pleasure in t
 
 44It’s possible that wanderers who follow other paths might say, ‘The ascetics who follow the Sakyan are inconsistent.’ You should say to them, ‘Reverends, these things have been taught and pointed out for his disciples by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha, not to be transgressed so long as life lasts. Suppose there was a boundary pillar or an iron pillar with deep foundations, firmly embedded, imperturbable and unshakable. In the same way, these things have been taught and pointed out for his disciples by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha, not to be transgressed so long as life lasts.
 
-A mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — can’t transgress in nine respects. A mendicant with defilements ended can’t deliberately take the life of a living creature, take something with the intention to steal, have sex, tell a deliberate lie, or store up goods for their own enjoyment like they did as a lay person. And they can’t make decisions prejudiced by favoritism, hostility, stupidity, or cowardice. A mendicant who is perfected can’t transgress in these nine respects.’
+A bhikkhu who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — can’t transgress in nine respects. A bhikkhu with defilements ended can’t deliberately take the life of a living creature, take something with the intention to steal, have sex, tell a deliberate lie, or store up goods for their own enjoyment like they did as a lay person. And they can’t make decisions prejudiced by favoritism, hostility, stupidity, or cowardice. A bhikkhu who is perfected can’t transgress in these nine respects.’
 
 #### 12. Questions and Answers
 
@@ -228,7 +228,7 @@ And in each case, I don’t acknowledge that. Why is that? Because there are bei
 
 These are the views that some rely on regarding the future, which I have explained to you as they should be explained. Shall I explain them to you in the wrong way?
 
-59I have taught and pointed out the four kinds of mindfulness meditation for giving up and going beyond all these views of the past and the future. What four? It’s when a mendicant meditates by observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. These are the four kinds of mindfulness meditation that I have taught for giving up and going beyond all these views of the past and the future.”
+59I have taught and pointed out the four kinds of mindfulness meditation for giving up and going beyond all these views of the past and the future. What four? It’s when a bhikkhu ![[Satipatthanas]]. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. These are the four kinds of mindfulness meditation that I have taught for giving up and going beyond all these views of the past and the future.”
 
 60Now at that time Venerable Upavāṇa was standing behind the Buddha fanning him. He said to the Buddha: “It’s incredible, sir, it’s amazing! This exposition of the teaching is impressive, sir, it is very impressive. Sir, what is the name of this exposition of the teaching?”
 

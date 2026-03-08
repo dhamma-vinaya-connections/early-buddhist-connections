@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that prevents doubt from arising, or, when it has arisen, gives it up like proper attention. When you attend properly, doubt does not arise, or, if it’s already arisen, it’s given up.”
+1“bhikkhus, I do not see a single thing that prevents doubt from arising, or, when it has arisen, gives it up like proper attention. When you attend properly, doubt does not arise, or, if it’s already arisen, it’s given up.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannā vā vicikicchā nuppajjati uppannā vā vicikicchā pahīyati yathayidaṁ, bhikkhave, yonisomanasikāro. Yoniso, bhikkhave, manasi karoto anuppannā ceva vicikicchā nuppajjati uppannā ca vicikicchā pahīyatī"ti.
 

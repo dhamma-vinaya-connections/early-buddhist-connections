@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time Venerable Ānanda was staying near Kosambi, in Ghosita’s Monastery. There Ānanda addressed the mendicants: “Reverends, mendicants!”
+1At one time Venerable Ānanda was staying near Kosambi, in Ghosita’s Monastery. There Ānanda addressed the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Ānanda said this:
 
@@ -37,11 +37,11 @@ The eye itself is actually present, and so are those sights. Yet one will not ex
 
 4“But what does one who doesn’t experience that sense-field perceive?”
 
-“It’s when a mendicant, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. One who doesn’t experience that sense-field perceives in this way.
+“It’s when a bhikkhu, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. One who doesn’t experience that sense-field perceives in this way.
 
-5Furthermore, a mendicant, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness. One who doesn’t experience that sense-field perceives in this way.
+5Furthermore, a bhikkhu, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness. One who doesn’t experience that sense-field perceives in this way.
 
-6Furthermore, a mendicant, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. One who doesn’t experience that sense-field perceives in this way.
+6Furthermore, a bhikkhu, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. One who doesn’t experience that sense-field perceives in this way.
 
 7Reverend, one time I was staying near Sāketa in the deer park in Añjana Wood. Then the nun Jaṭilagāhikā came up to me, bowed, stood to one side, and said to me: ‘Sir, Ānanda, regarding the immersion that does not lean forward or pull back, and is not held in place by forceful suppression. Being free, it’s stable. Being stable, it’s content. Being content, one is not anxious. What did the Buddha say was the fruit of this immersion?’
 

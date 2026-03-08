@@ -20,11 +20,11 @@ language: "English - Pali"
 
 1Thus I heard: At one time the Gracious One was dwelling near Rājagaha, in Bamboo Wood, at the Squirrels’ Feeding Place. Then at that time venerable Ānanda on the Observance day, having dressed in the morning time, after picking up his bowl and robe, entered Rājagaha for alms.
 
-2Devadatta saw venerable Ānanda walking for alms in Rājagaha, and after seeing him, he went to venerable Ānanda, and after going, he said this to venerable Ānanda: "From today forward, friend Ānanda, apart from the Gracious One, apart from the Community of monks, I will hold the Observance and perform [Legal] Acts of the Community."
+2Devadatta saw venerable Ānanda walking for alms in Rājagaha, and after seeing him, he went to venerable Ānanda, and after going, he said this to venerable Ānanda: "From today forward, friend Ānanda, apart from the Gracious One, apart from the Community of bhikkhus, I will hold the Observance and perform [Legal] Acts of the Community."
 
 3Then venerable Ānanda, after walking for alms in Rājagaha, while returning from the alms-round after the meal, went to the Gracious One, and after going and worshipping the Gracious One, he sat down on one side. While sat on one side venerable Ānanda said this to the Gracious One:
 
-4"Here I, reverend Sir, having dressed in the morning time, after picking up my bowl and robe, entered Rājagaha for alms. Devadatta saw me, reverend Sir, walking for alms in Rājagaha, and after seeing me, he came to me, and after coming, he said this to me: ‘From today forward, friend Ānanda, apart from the Gracious One, apart from the Community of monks, I will hold the Observance and perform [Legal] Acts of the Community.’ Today, reverend Sir, Devadatta will split the Order, and will hold the Observance and perform [Legal] Acts of the Community apart."
+4"Here I, reverend Sir, having dressed in the morning time, after picking up my bowl and robe, entered Rājagaha for alms. Devadatta saw me, reverend Sir, walking for alms in Rājagaha, and after seeing me, he came to me, and after coming, he said this to me: ‘From today forward, friend Ānanda, apart from the Gracious One, apart from the Community of bhikkhus, I will hold the Observance and perform [Legal] Acts of the Community.’ Today, reverend Sir, Devadatta will split the Order, and will hold the Observance and perform [Legal] Acts of the Community apart."
 
 5Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

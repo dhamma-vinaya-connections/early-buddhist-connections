@@ -15,15 +15,15 @@ language: "Pali - English"
 
 557. Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena bhikkhū kulesu nimantitā bhuñjanti. Chabbaggiyā bhikkhuniyo chabbaggiyānaṃ bhikkhūnaṃ vosāsantiyo ṭhitā honti – ‘‘idha sūpaṃ detha, idha odanaṃ dethā’’ti. Chabbaggiyā bhikkhū yāvadatthaṃ bhuñjanti. Aññe bhikkhū na cittarūpaṃ bhuñjanti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma chabbaggiyā bhikkhū bhikkhuniyo vosāsantiyo na nivāressantī’’ti…pe… saccaṃ kira tumhe, bhikkhave, bhikkhuniyo vosāsantiyo na nivārethāti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, bhikkhuniyo vosāsantiyo na nivāressatha! Netaṃ, moghapurisā, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-557.At that time the Blessed One was dwelling at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary. At that time monks were invited to eat in families. The nuns of the group of six, standing by, were directing the monks of the group of six, saying, "Give the soup here, give the rice here." The monks of the group of six ate as much as they wanted, while other monks did not get enough. Those monks who were modest... complained and criticised them, saying: "How can the monks of the group of six not stop the nuns from directing them?"... "Is it true, monks, that you do not stop the nuns from directing you?" "It is true, Blessed One." The Blessed One rebuked them... "Foolish men, how can you not stop the nuns from directing you! This will not inspire confidence in the unconverted..." ... "And so, monks, this training rule should be recited thus:—"
+557.At that time the Blessed One was dwelling at Rājagaha in the Bamboo Grove, the Squirrels' Sanctuary. At that time bhikkhus were invited to eat in families. The nuns of the group of six, standing by, were directing the bhikkhus of the group of six, saying, "Give the soup here, give the rice here." The bhikkhus of the group of six ate as much as they wanted, while other bhikkhus did not get enough. Those bhikkhus who were modest... complained and criticised them, saying: "How can the bhikkhus of the group of six not stop the nuns from directing them?"... "Is it true, bhikkhus, that you do not stop the nuns from directing you?" "It is true, Blessed One." The Blessed One rebuked them... "Foolish men, how can you not stop the nuns from directing you! This will not inspire confidence in the unconverted..." ... "And so, bhikkhus, this training rule should be recited thus:—"
 
 558. ‘‘Bhikkhū paneva kulesu nimantitā bhuñjanti, tatra ce sā ti.
 
-558."If monks are invited to families to eat, and a bhikkhunī stands there giving instructions such as, 'Give soup here, give rice here,' those monks should dismiss that bhikkhunī, saying, 'Step aside, sister, until the monks have finished eating.' If even one monk does not have the presence of mind to dismiss that bhikkhunī by saying, 'Step aside, sister, until the monks have finished eating,' those monks must confess: 'Friends, we have committed a blameworthy, unsuitable act requiring confession. We confess it.'"
+558."If bhikkhus are invited to families to eat, and a bhikkhunī stands there giving instructions such as, 'Give soup here, give rice here,' those bhikkhus should dismiss that bhikkhunī, saying, 'Step aside, sister, until the bhikkhus have finished eating.' If even one bhikkhu does not have the presence of mind to dismiss that bhikkhunī by saying, 'Step aside, sister, until the bhikkhus have finished eating,' those bhikkhus must confess: 'Friends, we have committed a blameworthy, unsuitable act requiring confession. We confess it.'"
 
 559. Bhikkhū paneva kulesu nimantitā bhuñjantīti kulaṃ nāma cattāri kulāni – khattiyakulaṃ, brāhmaṇakulaṃ, vessakulaṃ, suddakulaṃ.
 
-559."Monks, being invited to eat in families," the term "family" means these four families: the Khattiya family, the Brāhmaṇa family, the Vessa family, the Sudda family.
+559."bhikkhus, being invited to eat in families," the term "family" means these four families: the Khattiya family, the Brāhmaṇa family, the Vessa family, the Sudda family.
 
 Nimantitā bhuñjantīti pañcannaṃ bhojanānaṃ aññatarena bhojanena nimantitā bhuñjanti.
 
@@ -39,7 +39,7 @@ What is meant by 'directing' is, based on friendship, acquaintance, shared assoc
 
 Tehi bhikkhūhīti bhuñjamānehi bhikkhūhi.
 
-"Those monks" means the monks who are eating.
+"Those bhikkhus" means the bhikkhus who are eating.
 
 Sā bhikkhunīti yā sā vosāsantī bhikkhunī.
 
@@ -47,7 +47,7 @@ Sā bhikkhunīti yā sā vosāsantī bhikkhunī.
 
 Tehi bhikkhūhi sā bhikkhunī apasādetabbā – ‘‘apasakka tāva, bhagini, yāva bhikkhū bhuñjantī’’ti. Ekassa cepi [ekassapi ce (sī. syā.)] bhikkhuno anapasādito [anapasādite (sī. syā.)] – ‘‘khādissāmi bhuñjissāmī’’ti paṭiggaṇhāti, āpatti dukkaṭassa. Ajjhohāre ajjhohāre āpatti pāṭidesanīyassa.
 
-Those monks should dismiss that bhikkhunī, saying, "Step aside, sister, while the monks are eating." If even one monk does not dismiss her and she accepts, thinking, "I will eat, I will consume," he commits an offense of wrong-doing. For each mouthful, he commits an offense requiring confession.
+Those bhikkhus should dismiss that bhikkhunī, saying, "Step aside, sister, while the bhikkhus are eating." If even one bhikkhu does not dismiss her and she accepts, thinking, "I will eat, I will consume," he commits an offense of wrong-doing. For each mouthful, he commits an offense requiring confession.
 
 560. Upasampannāya upasampannasaññī vosāsantiyā na nivāreti, āpatti pāṭidesanīyassa. Upasampannāya vematiko vosāsantiyā na nivāreti, āpatti pāṭidesanīyassa. Upasampannāya anupasampannasaññī vosāsantiyā na nivāreti, āpatti pāṭidesanīyassa.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three things. What three? Bad conduct by way of body, speech, and mind. These are the three things. To give up these three things you should develop three things. What three? You should develop good bodily conduct to give up bad bodily conduct, good verbal conduct to give up bad verbal conduct, and good mental conduct to give up bad mental conduct. These are the three things you should develop to give up those three things.”
+1“bhikkhus, there are these three things. What three? Bad conduct by way of body, speech, and mind. These are the three things. To give up these three things you should develop three things. What three? You should develop good bodily conduct to give up bad bodily conduct, good verbal conduct to give up bad verbal conduct, and good mental conduct to give up bad mental conduct. These are the three things you should develop to give up those three things.”
 
 1"Tayome, bhikkhave, dhammā. Katame tayo? Kāyaduccaritaṁ, vacīduccaritaṁ, manoduccaritaṁ. Ime kho, bhikkhave, tayo dhammā. Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Kāyaduccaritassa pahānāya kāyasucaritaṁ bhāvetabbaṁ, vacīduccaritassa pahānāya vacīsucaritaṁ bhāvetabbaṁ, manoduccaritassa pahānāya manosucaritaṁ bhāvetabbaṁ. Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya ime tayo dhammā bhāvetabbā"ti.
 

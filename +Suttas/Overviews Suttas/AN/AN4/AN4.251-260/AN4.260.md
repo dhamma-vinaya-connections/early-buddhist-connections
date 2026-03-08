@@ -46,12 +46,12 @@ parallels_partilal: "[[AN3.98]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> How a mendicant is like a fine thoroughbred
+> How a bhikkhu is like a fine thoroughbred
 
 > [!info] Key Excerpts 
 > Ethical, energetic, understand noble truths, receives requisites, realized liberation
 > 
-> When a mendicant is beautiful, strong, fast, and well proportioned
+> When a bhikkhu is beautiful, strong, fast, and well proportioned
 > 
 
 > [!info] Similes

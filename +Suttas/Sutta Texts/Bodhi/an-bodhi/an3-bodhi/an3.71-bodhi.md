@@ -40,7 +40,7 @@ Then the wanderer Channa approached the Venerable Ānanda and exchanged greeting
 
 “But what is the path, what is the way to the abandoning of lust, hatred, and delusion?”
 
-“It is just this noble eightfold path, that is, right view … right samādhi. This is the path, the way to the abandoning of lust, hatred, and delusion.”
+“It is just this ![[Noble Path]]. This is the path, the way to the abandoning of lust, hatred, and delusion.”
 
 “Excellent, friend, is the path, excellent the way to the abandoning of lust, hatred, and delusion. It is enough, friend Ānanda, to be heedful.”
 

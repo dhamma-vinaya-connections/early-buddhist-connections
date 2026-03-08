@@ -112,7 +112,7 @@ Whoever deceives with a lie
 
 a brahman, contemplative,
 
-or other mendicant:
+or other bhikkhu:
 
 That is the way leading to decline.
 

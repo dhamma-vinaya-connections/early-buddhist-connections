@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 14
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, I don’t envision even one other hindrance–hindered by which people go wandering & transmigrating on for a long, long time–like the hindrance of ignorance. Hindered by the hindrance of ignorance, people go wandering & transmigrating on for a long, long time.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, I don’t envision even one other hindrance–hindered by which people go wandering & transmigrating on for a long, long time–like the hindrance of ignorance. Hindered by the hindrance of ignorance, people go wandering & transmigrating on for a long, long time.”
 
 No one other thing
 

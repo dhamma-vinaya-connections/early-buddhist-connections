@@ -15,7 +15,7 @@ language: "English"
 ## ## Loṇaphala Sutta
 
 
-“Monks, for anyone who says, ‘In whatever way a person makes kamma, that is how it is experienced,’ there is no living of the holy life, there is no opportunity for the right ending of stress. But for anyone who says, ‘When a person makes kamma to be felt in such & such a way, that is how its result is experienced,’ there is the living of the holy life, there is the opportunity for the right ending of stress.
+“bhikkhus, for anyone who says, ‘In whatever way a person makes kamma, that is how it is experienced,’ there is no living of the holy life, there is no opportunity for the right ending of stress. But for anyone who says, ‘When a person makes kamma to be felt in such & such a way, that is how its result is experienced,’ there is the living of the holy life, there is the opportunity for the right ending of stress.
 
 “There is the case where a trifling evil deed done by a certain individual takes him to hell. There is the case where the very same sort of trifling deed done by another individual is experienced in the here & now, and for the most part barely appears for a moment.
 
@@ -53,7 +53,7 @@ language: "English"
 
 “Now, a trifling evil deed done by what sort of individual is experienced in the here & now, and for the most part barely appears for a moment? There is the case where a certain individual is developed in body, developed in virtue, developed in mind, developed in discernment: unrestricted, large-hearted, dwelling with the immeasurable. A trifling evil deed done by this sort of individual is experienced in the here & now, and for the most part barely appears for a moment.
 
-“Monks, for anyone who says, ‘In whatever way a person makes kamma, that is how it is experienced,’ there is no living of the holy life, there is no opportunity for the right ending of stress. But for anyone who says, ‘When a person makes kamma to be felt in such & such a way, that is how its result is experienced,’ there is the living of the holy life, there is the opportunity for the right ending of stress.”[4](#^[[an3-thanissaro]].101note04) ^[[an3-thanissaro]].101note04-ref
+“bhikkhus, for anyone who says, ‘In whatever way a person makes kamma, that is how it is experienced,’ there is no living of the holy life, there is no opportunity for the right ending of stress. But for anyone who says, ‘When a person makes kamma to be felt in such & such a way, that is how its result is experienced,’ there is the living of the holy life, there is the opportunity for the right ending of stress.”[4](#^[[an3-thanissaro]].101note04) ^[[an3-thanissaro]].101note04-ref
 
 ### Notes
 

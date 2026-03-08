@@ -22,17 +22,17 @@ language: "English - Pali"
 
 1Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and said to the Buddha:
 
-“Could it be, sir, that a mendicant might gain a state of immersion such that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to conceit for all external stimuli; and that they’d live having attained the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more?”
+“Could it be, sir, that a bhikkhu might gain a state of immersion such that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to conceit for all external stimuli; and that they’d live having attained the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more?”
 
-“It could be, Ānanda, that a mendicant gains a state of immersion such that they have no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to conceit for all external stimuli; and that they’d live having attained the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more.”
+“It could be, Ānanda, that a bhikkhu gains a state of immersion such that they have no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to conceit for all external stimuli; and that they’d live having attained the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more.”
 
 
 3“But how could this be, sir?”
 
 
-4“Ānanda, it’s when a mendicant thinks: ‘This is peaceful; this is sublime — that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’
+4“Ānanda, it’s when a bhikkhu thinks: ‘This is peaceful; this is sublime — that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’
 
-That’s how, Ānanda, a mendicant might gain a state of immersion such that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to conceit for all external stimuli; and that they’d live having achieved the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more.
+That’s how, Ānanda, a bhikkhu might gain a state of immersion such that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to conceit for all external stimuli; and that they’d live having achieved the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more.
 
 
 5And Ānanda, this is what I was referring to in ‘The Way to the Beyond’, in ‘The Questions of Puṇṇaka’ when I said:

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“When one thing, mendicants, is developed and cultivated, skillful qualities arise, and, once they’ve arisen, they increase and grow. What one thing? Mindfulness of the body. When this one thing is developed and cultivated, skillful qualities arise, and, once they’ve arisen, they increase and grow.”
+1“When one thing, bhikkhus, is developed and cultivated, skillful qualities arise, and, once they’ve arisen, they increase and grow. What one thing? Mindfulness of the body. When this one thing is developed and cultivated, skillful qualities arise, and, once they’ve arisen, they increase and grow.”
 
 1"Ekadhamme, bhikkhave, bhāvite bahulīkate anuppannā ceva kusalā dhammā uppajjanti, uppannā ca kusalā dhammā bhiyyobhāvāya vepullāya saṁvattanti. Katamasmiṁ ekadhamme? Kāyagatāya satiyā. Imasmiṁ kho, bhikkhave, ekadhamme bhāvite bahulīkate anuppannā ceva kusalā dhammā uppajjanti, uppannā ca kusalā dhammā bhiyyobhāvāya vepullāya saṁvattantī"ti.
 

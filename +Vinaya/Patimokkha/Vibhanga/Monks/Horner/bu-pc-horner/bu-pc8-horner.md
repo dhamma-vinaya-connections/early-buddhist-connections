@@ -7,9 +7,9 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
 > ◄  [[bu-pc7-horner]] 📜  [[bu-pc9-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 8
+# bhikkhus’ Expiation (_Pācittiya_) 8
 
-*Bu-Pc.8.1.1* *BD.2.208* … at Vesālī in the pavilion of the Gabled Hall in the Great Grove. Now at that time[^1] many monks who were friends and companions went for the rains to the banks of the river Vaggumudā. At that time Vajji was short of alms-food, which was difficult to obtain; it was suffering from a famine, and food-tickets were being issued. Nor was it easy to keep oneself going by gleaning or by favour. Then these monks said to one another:
+*Bu-Pc.8.1.1* *BD.2.208* … at Vesālī in the pavilion of the Gabled Hall in the Great Grove. Now at that time[^1] many bhikkhus who were friends and companions went for the rains to the banks of the river Vaggumudā. At that time Vajji was short of alms-food, which was difficult to obtain; it was suffering from a famine, and food-tickets were being issued. Nor was it easy to keep oneself going by gleaning or by favour. Then these bhikkhus said to one another:
 
 “At present Vajjī is short of alms-food … Nor is it easy to keep oneself going by gleaning or by favour. What now if we, by some strategem, all together, being on friendly terms and harmonious, should spend a comfortable rainy season and not go short of alms-food?”
 
@@ -17,39 +17,39 @@ Some spoke thus: “Look, your reverences, we could superintend the business of 
 
 Some spoke thus: “Enough, your reverences, of super-intending the business of householders. Look, your reverences, we will execute householders’ commissions, thus they will think to give to us; thus we, all together, being on friendly terms and harmonious, will spend a comfortable rainy season and not go short of alms-food.”
 
-Some spoke thus: “Enough, your reverences, of super-intending the business of householders and of executing householders’ commissions. Look, your reverences, we will speak praise to householders concerning this or that *BD.2.209* condition of further-men, saying: ‘Such a monk is possessed of the first *Vin.4.24* musing, such a monk is possessed of the second musing, such a monk is possessed of the third musing, such a monk is possessed of the fourth musing, such a monk is a stream-attainer, such a monk is a once-returner, such a monk is a non-returner, such a monk is man perfected, such a monk is a three-fold wisdom man, such a monk is a sixfold super-knowledge man.’ Thus these (householders) will think to give to us; thus we, all together, being on friendly terms and harmonious, will spend a comfortable rainy season and not go short of alms-food. It is better, your reverences, to speak praise to householders concerning this or that condition of further-men.”
+Some spoke thus: “Enough, your reverences, of super-intending the business of householders and of executing householders’ commissions. Look, your reverences, we will speak praise to householders concerning this or that *BD.2.209* condition of further-men, saying: ‘Such a bhikkhu is possessed of the first *Vin.4.24* musing, such a bhikkhu is possessed of the second musing, such a bhikkhu is possessed of the third musing, such a bhikkhu is possessed of the fourth musing, such a bhikkhu is a stream-attainer, such a bhikkhu is a once-returner, such a bhikkhu is a non-returner, such a bhikkhu is man perfected, such a bhikkhu is a three-fold wisdom man, such a bhikkhu is a sixfold super-knowledge man.’ Thus these (householders) will think to give to us; thus we, all together, being on friendly terms and harmonious, will spend a comfortable rainy season and not go short of alms-food. It is better, your reverences, to speak praise to householders concerning this or that condition of further-men.”
 
-Then these monks spoke praise to householders concerning this or that condition of further-men, saying, “Such a monk is possessed of the first musing … such a monk is a sixfold super-knowledge man.” Then these (men) thought: “Surely we have gained, surely there is a profit for us that such monks have come to us for the rains. Surely such monks as these monks, virtuous and of good character, never came to us for the rains before.” Accordingly these did not on their own account eat meals—they gave not to parents, they gave not to wife and children, they gave not to slave or servant, they gave not to friend or colleague, they gave not to blood-relations, as they gave to the monks. Accordingly these did not on their own account take savoury solid foods or drinks—they gave not to parents, they gave not to wife and children, they gave not to slave or servant, they gave not to friend or colleague, they gave not to blood-relations, as they gave to the monks. Thus these monks became handsome, of rounded features, their complexions bright, their skins clear.
+Then these bhikkhus spoke praise to householders concerning this or that condition of further-men, saying, “Such a bhikkhu is possessed of the first musing … such a bhikkhu is a sixfold super-knowledge man.” Then these (men) thought: “Surely we have gained, surely there is a profit for us that such bhikkhus have come to us for the rains. Surely such bhikkhus as these bhikkhus, virtuous and of good character, never came to us for the rains before.” Accordingly these did not on their own account eat meals—they gave not to parents, they gave not to wife and children, they gave not to slave or servant, they gave not to friend or colleague, they gave not to blood-relations, as they gave to the bhikkhus. Accordingly these did not on their own account take savoury solid foods or drinks—they gave not to parents, they gave not to wife and children, they gave not to slave or servant, they gave not to friend or colleague, they gave not to blood-relations, as they gave to the bhikkhus. Thus these bhikkhus became handsome, of rounded features, their complexions bright, their skins clear.
 
 * * *
 
-*Bu-Pc.8.1.2* Now it was the custom for monks who had finished keeping the rains to go and see the lord. Then these monks who had finished keeping the rains, the three months having elapsed, packing away their bedding *BD.2.210* taking their bowls and robes, went up to Vesālī. In the course of time they came up to Vesālī, the Great Grove, the pavilion of the Gabled Hall, and to the lord, and having approached the lord, they greeted him and sat down at a respectful distance. At that time the monks who had spent the rains in those regions had become lean, wretched, of a bad colour, having become very yellow, their veins standing out all over their bodies; but the monks from the banks of the Vaggumudā had become handsome, of rounded features, their complexions bright, their skins clear. Now it was the custom for enlightened ones, for lords, to exchange friendly greetings with in-coming monks. So the lord said to the monks from the banks of the Vaggumudā: *Vin.4.25*
+*Bu-Pc.8.1.2* Now it was the custom for bhikkhus who had finished keeping the rains to go and see the lord. Then these bhikkhus who had finished keeping the rains, the three months having elapsed, packing away their bedding *BD.2.210* taking their bowls and robes, went up to Vesālī. In the course of time they came up to Vesālī, the Great Grove, the pavilion of the Gabled Hall, and to the lord, and having approached the lord, they greeted him and sat down at a respectful distance. At that time the bhikkhus who had spent the rains in those regions had become lean, wretched, of a bad colour, having become very yellow, their veins standing out all over their bodies; but the bhikkhus from the banks of the Vaggumudā had become handsome, of rounded features, their complexions bright, their skins clear. Now it was the custom for enlightened ones, for lords, to exchange friendly greetings with in-coming bhikkhus. So the lord said to the bhikkhus from the banks of the Vaggumudā: *Vin.4.25*
 
-“I hope, monks, that things went well with you, I hope that you had enough to support life, I hope that, all together, being on friendly terms and harmonious, you spent a comfortable rainy season and did not go short of alms-food?”
+“I hope, bhikkhus, that things went well with you, I hope that you had enough to support life, I hope that, all together, being on friendly terms and harmonious, you spent a comfortable rainy season and did not go short of alms-food?”
 
 “Things did go well with us, lord, we had enough to support life, lord, and all together we, lord, being on friendly terms and harmonious, spent a comfortable rainy season and did not go short of alms-food.”
 
-Tathāgatas knowing (sometimes) ask; knowing (sometimes) do not ask; they ask, knowing the right time (to ask), and they do not ask, knowing the right time (when not to ask). Tathāgatas ask about what belongs to the goal, not about what does not belong to the goal; the breaking of the bridge of the Tathāgatas is among what does not belong to the goal. Enlightened ones, lords, question monks concerning two matters, either: “Shall we teach _dhamma_?” or, “Shall we make known a rule of training for disciples?”
+Tathāgatas knowing (sometimes) ask; knowing (sometimes) do not ask; they ask, knowing the right time (to ask), and they do not ask, knowing the right time (when not to ask). Tathāgatas ask about what belongs to the goal, not about what does not belong to the goal; the breaking of the bridge of the Tathāgatas is among what does not belong to the goal. Enlightened ones, lords, question bhikkhus concerning two matters, either: “Shall we teach _dhamma_?” or, “Shall we make known a rule of training for disciples?”
 
-Then the lord spoke thus to the monks from the banks of the Vaggumudā:
+Then the lord spoke thus to the bhikkhus from the banks of the Vaggumudā:
 
-“In what way did you, monks, all together, being on friendly terms and harmonious, spend a comfortable rainy season and not go short of alms-food?” Then these monks told this matter to the lord.
+“In what way did you, bhikkhus, all together, being on friendly terms and harmonious, spend a comfortable rainy season and not go short of alms-food?” Then these bhikkhus told this matter to the lord.
 
-*BD.2.211* “Indeed, monks, I wonder if that is a fact?”
+*BD.2.211* “Indeed, bhikkhus, I wonder if that is a fact?”
 
 “It is a fact,[^2] lord,” they said.
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, monks, for the sake of your stomachs, speak praise to householders concerning this or that condition of further-men? It is not, monks, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, bhikkhus, for the sake of your stomachs, speak praise to householders concerning this or that condition of further-men? It is not, bhikkhus, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should speak of a condition of further-men to one who is not ordained—if it is a fact,[^3] there is an offence of expiation.”
+“Whatever bhikkhu should speak of a condition of further-men to one who is not ordained—if it is a fact,[^3] there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.8.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.8.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
-Not ordained means: setting aside monk and nun, the rest are called not ordained.
+Not ordained means: setting aside bhikkhu and nun, the rest are called not ordained.
 
 Condition of further-men[^4] means: musing, freedom, samādhi, attainment, knowledge and insight, making the Way to become, realisation of the fruits, destruction of the corruptions, delight in solitude for the mind devoid of the hindrances.
 
@@ -153,13 +153,13 @@ Should speak of means: there is an offence of expiation for saying to one who is
 
 * * *
 
-*Bu-Pc.8.2.5* There is an offence of wrong-doing for saying to one who is not ordained, “The monk who lives in this dwelling-place will attain … is attaining … attained the first musing, this monk is possessed of, master of *BD.2.218* the first musing, the first musing is realised by this monk.”
+*Bu-Pc.8.2.5* There is an offence of wrong-doing for saying to one who is not ordained, “The bhikkhu who lives in this dwelling-place will attain … is attaining … attained the first musing, this bhikkhu is possessed of, master of *BD.2.218* the first musing, the first musing is realised by this bhikkhu.”
 
-There is an offence of wrong-doing for saying to one who is not ordained, “The monk who lives in this dwelling-place will attain … is attaining … attained the second musing, the third musing, the fourth musing, the void freedom … perfection … Passion is given up by this monk … hatred is given up *Vin.4.30* … confusion is given up by this monk, renounced … rejected. This monk’s mind is devoid of the hindrance of passion … of hatred … is devoid of the hindrance of confusion.”
+There is an offence of wrong-doing for saying to one who is not ordained, “The bhikkhu who lives in this dwelling-place will attain … is attaining … attained the second musing, the third musing, the fourth musing, the void freedom … perfection … Passion is given up by this bhikkhu … hatred is given up *Vin.4.30* … confusion is given up by this bhikkhu, renounced … rejected. This bhikkhu’s mind is devoid of the hindrance of passion … of hatred … is devoid of the hindrance of confusion.”
 
-There is an offence of wrong-doing for saying to one who is not ordained, “The monk who lives in this dwelling-place will attain … is attaining … attained the first musing in solitude … the second musing … the third musing … the fourth musing in solitude … This monk is possessed of the fourth musing in solitude, is master of … The fourth musing is realised by this monk in solitude.”
+There is an offence of wrong-doing for saying to one who is not ordained, “The bhikkhu who lives in this dwelling-place will attain … is attaining … attained the first musing in solitude … the second musing … the third musing … the fourth musing in solitude … This bhikkhu is possessed of the fourth musing in solitude, is master of … The fourth musing is realised by this bhikkhu in solitude.”
 
-There is an offence of wrong-doing for saying to one who is not ordained, “The monk who uses your dwelling-place, who uses your robes, who uses your alms-food, who uses your lodgings, who uses your medicines for the sick … by whom your dwelling-place was used, by whom your robes were used, by whom your alms-food was used, by whom your lodgings were used, by whom your medicine for the sick were used … to whom, thanks to you, he gave a dwelling-place, he gave robes, he gave alms-food, he gave lodgings, he gave medicines for the sick, that monk attained the fourth musing in solitude … the fourth musing was realised by that monk in solitude.”
+There is an offence of wrong-doing for saying to one who is not ordained, “The bhikkhu who uses your dwelling-place, who uses your robes, who uses your alms-food, who uses your lodgings, who uses your medicines for the sick … by whom your dwelling-place was used, by whom your robes were used, by whom your alms-food was used, by whom your lodgings were used, by whom your medicine for the sick were used … to whom, thanks to you, he gave a dwelling-place, he gave robes, he gave alms-food, he gave lodgings, he gave medicines for the sick, that bhikkhu attained the fourth musing in solitude … the fourth musing was realised by that bhikkhu in solitude.”
 
 * * *
 
@@ -171,7 +171,7 @@ The Eighth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

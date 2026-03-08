@@ -15,7 +15,7 @@ language: "English"
 ## ## Abbhūta Sutta
 
 
-“Monks, with the appearance of the Tathāgata—the Worthy One, the Rightly Self-awakened One—four amazing & astounding things appear. Which four?
+“bhikkhus, with the appearance of the Tathāgata—the Worthy One, the Rightly Self-awakened One—four amazing & astounding things appear. Which four?
 
 “People find pleasure in longing, delight in longing, rejoice in longing. But when the Tathāgata teaches the Dhamma of non-longing, they want to listen; they lend ear and set their minds on understanding it. This is the first amazing & astounding thing that appears with the appearance of the Tathāgata—the Worthy One, the Rightly Self-awakened One.
 
@@ -25,7 +25,7 @@ language: "English"
 
 “People are immersed in ignorance, blinded,[1](#^[[an4-thanissaro]].128note01) entirely enveloped. But when the Tathāgata teaches the Dhamma for the subduing of ignorance, they want to listen; they lend ear and set their minds on understanding it. This is the fourth amazing & astounding thing that appears with the appearance of the Tathāgata—the Worthy One, the Rightly Self-awakened One. ^[[an4-thanissaro]].128note01-ref
 
-“Monks, with the appearance of the Tathāgata—the Worthy One, the Rightly Self-awakened One—these four amazing & astounding things appear.”
+“bhikkhus, with the appearance of the Tathāgata—the Worthy One, the Rightly Self-awakened One—these four amazing & astounding things appear.”
 
 Note
 

@@ -48,7 +48,7 @@ you regard another
 
 as inferior.
 
-So a monk shouldn’t be dependent
+So a bhikkhu shouldn’t be dependent
 
 on what’s seen, heard, or sensed,
 

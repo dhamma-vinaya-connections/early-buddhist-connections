@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the spiritual life is lived to give up and cut out these five kinds of stinginess. What five? Stinginess with dwellings, families, material possessions, praise, and the teachings. The spiritual life is lived to give up and cut out these five kinds of stinginess.”
+1“bhikkhus, the spiritual life is lived to give up and cut out these five kinds of stinginess. What five? Stinginess with dwellings, families, material possessions, praise, and the teachings. The spiritual life is lived to give up and cut out these five kinds of stinginess.”
 
 1"Pañcannaṁ, bhikkhave, macchariyānaṁ pahānāya samucchedāya brahmacariyaṁ vussati. Katamesaṁ pañcannaṁ? Āvāsamacchariyassa pahānāya samucchedāya brahmacariyaṁ vussati; kulamacchariyassa … lābhamacchariyassa … vaṇṇamacchariyassa … dhammamacchariyassa pahānāya samucchedāya brahmacariyaṁ vussati. Imesaṁ kho, bhikkhave, pañcannaṁ macchariyānaṁ pahānāya samucchedāya brahmacariyaṁ vussatī"ti.
 

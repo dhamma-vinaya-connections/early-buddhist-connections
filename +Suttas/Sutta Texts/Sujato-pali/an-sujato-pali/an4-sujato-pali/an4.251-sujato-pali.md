@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four noble expressions. What four? Saying you haven’t seen, heard, thought, or known something, and you haven’t. These are the four noble expressions.”
+1“bhikkhus, there are these four noble expressions. What four? Saying you haven’t seen, heard, thought, or known something, and you haven’t. These are the four noble expressions.”
 
 1"Cattārome, bhikkhave, ariyavohārā. Katame cattāro? Adiṭṭhe adiṭṭhavāditā, asute asutavāditā, amute amutavāditā, aviññāte aviññātavāditā – ime kho, bhikkhave, cattāro ariyavohārā"ti.
 

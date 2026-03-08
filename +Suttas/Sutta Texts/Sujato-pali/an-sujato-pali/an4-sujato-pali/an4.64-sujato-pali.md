@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, someone with four qualities is cast down to hell. What four? They kill living creatures, steal, commit sexual misconduct, and lie. Someone with these four qualities is cast down to hell.
+1“bhikkhus, someone with four qualities is cast down to hell. What four? They kill living creatures, steal, commit sexual misconduct, and lie. Someone with these four qualities is cast down to hell.
 
 2Killing, stealing,  
 telling lies,  

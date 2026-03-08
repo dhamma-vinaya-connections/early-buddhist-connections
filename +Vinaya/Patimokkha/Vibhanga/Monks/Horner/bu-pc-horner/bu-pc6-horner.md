@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC6]]
 > ◄  [[bu-pc5-horner]] 📜  [[bu-pc7-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 6
+# bhikkhus’ Expiation (_Pācittiya_) 6
 
 *Bu-Pc.6.1.1* *BD.2.198* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Anuruddha, going to Sāvatthī through the country of Kosala, in the evening arrived at a certain village. Now at that time a rest-house[^1] in that village had been made ready by a certain woman. Then the venerable Anuruddha approached that woman,[^2] and having approached he spoke thus to that woman:
 
@@ -47,11 +47,11 @@ A third time the venerable Anuruddha became silent. Then that woman, having slip
 
 Then that woman, at the end of that night, having with her own hands satisfied and served the venerable Anuruddha with abundant food, both solid and soft, greeting the venerable Anuruddha when he had eaten and removed his hand from the bowl, sat down at a respectful distance. As she was sitting down at a respectful distance, the venerable Anuruddha gladdened, roused, pleased, delighted that woman with talk on _dhamma_. Then that woman, gladdened, roused, pleased, delighted by the venerable Anuruddha with talk on _dhamma_, said to the venerable Anuruddha:
 
-“Excellent, honoured sir, it is excellent, honoured sir; even as one, honoured sir, would set upright what is overturned, or would uncover what is hidden, or would point out the way to one who is astray, or would bring out an oil lamp into the darkness, so that those with eyes could see forms—even so has _dhamma_ been explained in many a figure by master Anuruddha. Honoured sir, I myself go to the lord as refuge, to _dhamma_ and to the Order of monks; let the master *BD.2.201* receive me as a lay-follower from this day forth, so long as life lasts, as one gone for refuge.”[^13]
+“Excellent, honoured sir, it is excellent, honoured sir; even as one, honoured sir, would set upright what is overturned, or would uncover what is hidden, or would point out the way to one who is astray, or would bring out an oil lamp into the darkness, so that those with eyes could see forms—even so has _dhamma_ been explained in many a figure by master Anuruddha. Honoured sir, I myself go to the lord as refuge, to _dhamma_ and to the Order of bhikkhus; let the master *BD.2.201* receive me as a lay-follower from this day forth, so long as life lasts, as one gone for refuge.”[^13]
 
-Then the venerable Anuruddha, having gone to Sāvatthī, told this matter to the monks. Those who were modest monks, looked down upon, criticised, spread it about, saying:
+Then the venerable Anuruddha, having gone to Sāvatthī, told this matter to the bhikkhus. Those who were modest bhikkhus, looked down upon, criticised, spread it about, saying:
 
-“How can the venerable Anuruddha lie down in a sleeping-place with a woman?” Then these monks told this matter to the lord …
+“How can the venerable Anuruddha lie down in a sleeping-place with a woman?” Then these bhikkhus told this matter to the lord …
 
 “Is it true, as is said, that you, Anuruddha, lay down in a sleeping-place with a woman?”
 
@@ -59,13 +59,13 @@ Then the venerable Anuruddha, having gone to Sāvatthī, told this matter to the
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, Anuruddha, lie down in a sleeping-place with a woman[^14]? Anuruddha, it is not for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth :
+“How can you, Anuruddha, lie down in a sleeping-place with a woman[^14]? Anuruddha, it is not for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth :
 
-“Whatever monk should lie down in a sleeping-place with a woman, there is an offence of expiation.”
+“Whatever bhikkhu should lie down in a sleeping-place with a woman, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.6.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.6.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Woman means: a human woman, not a female _yakkha_, not a female departed one, not a female animal, even a little girl born this very day, all the more an older one.[^15]
 
@@ -73,7 +73,7 @@ With means: together.[^16]
 
 Sleeping-place means: if it is fully covered, if it is fully closed round, if it is partially covered, if it is partially closed round.[^17] *Vin.4.20*
 
-Should lie down in a sleeping-place means: if at sunset a monk lies down when a woman is lying down, there is an offence of expiation. If a woman lies down when *BD.2.202* a monk is lying down, there is an offence of expiation. Or if both lie down there is an offence of expiation. If getting up, they lie down again, there is an offence of expiation.[^18]
+Should lie down in a sleeping-place means: if at sunset a bhikkhu lies down when a woman is lying down, there is an offence of expiation. If a woman lies down when *BD.2.202* a bhikkhu is lying down, there is an offence of expiation. Or if both lie down there is an offence of expiation. If getting up, they lie down again, there is an offence of expiation.[^18]
 
 * * *
 
@@ -81,7 +81,7 @@ Should lie down in a sleeping-place means: if at sunset a monk lies down when a 
 
 * * *
 
-*Bu-Pc.6.2.3* There is no offence if it is fully covered (but) not fully closed round, if it is fully closed round (but) not fully covered, if it is partially uncovered, partially not closed round, if the monk sits down while the woman is lying down, if the woman sits down while the monk is lying down, or if both sit down; if he is mad, if he is the first wrong-doer.[^21]
+*Bu-Pc.6.2.3* There is no offence if it is fully covered (but) not fully closed round, if it is fully closed round (but) not fully covered, if it is partially uncovered, partially not closed round, if the bhikkhu sits down while the woman is lying down, if the woman sits down while the bhikkhu is lying down, or if both sit down; if he is mad, if he is the first wrong-doer.[^21]
 
 * * *
 
@@ -91,7 +91,7 @@ The Sixth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

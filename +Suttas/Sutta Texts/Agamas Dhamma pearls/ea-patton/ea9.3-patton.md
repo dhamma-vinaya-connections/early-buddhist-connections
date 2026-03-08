@@ -17,9 +17,9 @@ language: "English"
 
 3. The Mind
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “I don’t see a single thing as quick as the mind. It cannot be grasped without using the method of the Dharma, and then the mind spins around quickly.<a id="fnref2"></a>[^2] Therefore, monks, ordinary people are unable to observe their mind thinking.
-3. “Therefore, monks, one should control their thinking to lead their mind to the good path. Thus, monks, you should train yourselves.”
-4. When the monks heard what the Buddha taught, they rejoiced and approved.
+2. It was then that the Bhagavān addressed the bhikkhus, “I don’t see a single thing as quick as the mind. It cannot be grasped without using the method of the Dharma, and then the mind spins around quickly.<a id="fnref2"></a>[^2] Therefore, bhikkhus, ordinary people are unable to observe their mind thinking.
+3. “Therefore, bhikkhus, one should control their thinking to lead their mind to the good path. Thus, bhikkhus, you should train yourselves.”
+4. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

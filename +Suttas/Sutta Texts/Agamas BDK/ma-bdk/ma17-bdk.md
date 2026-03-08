@@ -36,7 +36,7 @@ Why so? Gāmaṇi, these ten wholesome courses of action are white and have whit
 
 ... false speech... (and so on up to) those who have wrong view, if they abstain from wrong view and acquire right view, then they are on the path of uplift, the path of ascent and progress, the path to a good realm of existence. Moreover, Gāmaṇi, there is another path of uplift, [another] path of ascent and progress, [another] path to a good realm of existence. What, Gāmaṇi, is this other path of uplift, the path of ascent and
 
-progress, the path to a good realm of existence? It is the eightfold noble path: right view... (and so on up to) right samādhi—these eight. Gāmaṇi, this too is a path of uplift, a path of ascent and progress, a path to a good realm of existence. This is what the Buddha said. Having heard the Buddha’s words, Gāmaṇi and the monks were delighted and remembered them well.
+progress, the path to a good realm of existence? It is the eightfold noble path: right view... (and so on up to) right samādhi—these eight. Gāmaṇi, this too is a path of uplift, a path of ascent and progress, a path to a good realm of existence. This is what the Buddha said. Having heard the Buddha’s words, Gāmaṇi and the bhikkhus were delighted and remembered them well.
 
 
 ---

@@ -24,7 +24,7 @@ language: "English - Pali"
 
 ‘‘Katame pañca? Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī [sabbatthapi evameva dissati], sabbasaṅkhāresu aniccānupassī, maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti. Yaṃ kiñci, bhikkhave, bhikkhuṃ dubbalaṃ gilānakaṃ ime pañca dhammā na vijahanti, tassetaṃ pāṭikaṅkhaṃ – ‘nacirasseva āsavānaṃ khayā…pe… sacchikatvā upasampajja viharissatī’’’ti. Paṭhamaṃ.
 
-“What five? Here, bhikkhus, a bhikkhu dwells contemplating the unbeautiful in the body, perceives the repulsiveness in food, perceives non-delight in the entire world, contemplates impermanence in all conditioned phenomena, and mindfulness of death is well established in him internally. Bhikkhus, if these five qualities do not abandon a bhikkhu who is weak and sick, this is to be expected of him: ‘Before long, with the destruction of the taints… he will realize it for himself and dwell in it.’” This is the first.
+“What five? Here, bhikkhus, a bhikkhu ![[Satipatthanas]], contemplates impermanence in all conditioned phenomena, and mindfulness of death is well established in him internally. Bhikkhus, if these five qualities do not abandon a bhikkhu who is weak and sick, this is to be expected of him: ‘Before long, with the destruction of the taints… he will realize it for himself and dwell in it.’” This is the first.
 
 
 ---

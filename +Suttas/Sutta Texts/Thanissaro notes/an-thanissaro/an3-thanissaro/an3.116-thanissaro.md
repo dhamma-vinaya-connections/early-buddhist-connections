@@ -15,15 +15,15 @@ language: "English"
 ## ## Appameyya Sutta
 
 
-“Monks, these three persons are to be found existing in the world. Which three? One who is easy to measure, one who is hard to measure, & one who is immeasurable.
+“bhikkhus, these three persons are to be found existing in the world. Which three? One who is easy to measure, one who is hard to measure, & one who is immeasurable.
 
 “And which is the person who is easy to measure? There is the case where a certain person is high-strung, rowdy, unruly, talkative, of loose words & muddled mindfulness, unalert, uncollected, his mind scattered, his faculties left wide open. This is called a person who is easy to measure.
 
 “And which is the person who is hard to measure? There is the case where a certain person is not high-strung, not rowdy, not unruly, not talkative, not of loose words—one with mindfulness established, alert, collected, his mind gathered into singleness, his faculties restrained. This is called a person who is hard to measure.
 
-“And which is the person who is immeasurable? There is the case where a monk is an arahant, his effluents ended. This is called a person who is immeasurable.
+“And which is the person who is immeasurable? There is the case where a bhikkhu is an arahant, his effluents ended. This is called a person who is immeasurable.
 
-“These, monks, are three persons to be found existing in the world.”
+“These, bhikkhus, are three persons to be found existing in the world.”
 
 See also: [[mn72-thanissaro]]; [[sn44.1-thanissaro]]; [[ud4.2-thanissaro]]
 

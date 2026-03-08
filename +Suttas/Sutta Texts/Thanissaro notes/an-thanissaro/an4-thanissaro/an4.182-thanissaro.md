@@ -15,7 +15,7 @@ language: "English"
 ## ## Pāṭibhoga Sutta
 
 
-“For four things, monks, there is no guarantor—neither a contemplative, nor a brahman, nor a deva, nor a Māra, nor a Brahmā, nor anyone at all in the world. Which four?
+“For four things, bhikkhus, there is no guarantor—neither a contemplative, nor a brahman, nor a deva, nor a Māra, nor a Brahmā, nor anyone at all in the world. Which four?
 
 “‘May what is subject to aging not age’: For this there is no guarantor—neither a contemplative, nor a brahman, nor a deva, nor a Māra, nor a Brahmā, nor anyone at all in the world.
 
@@ -25,7 +25,7 @@ language: "English"
 
 “‘May the results of evil actions—defiled, leading to further becoming, distressing, ripening in pain & future birth, aging, & death—not appear’: For this there is no guarantor—neither a contemplative, nor a brahman, nor a deva, nor a Māra, nor a Brahmā, nor anyone at all in the world.
 
-“For these four things, monks, there is no guarantor—neither a contemplative, nor a brahman, nor a deva, nor a Māra, nor a Brahmā, nor anyone at all in the world.”
+“For these four things, bhikkhus, there is no guarantor—neither a contemplative, nor a brahman, nor a deva, nor a Māra, nor a Brahmā, nor anyone at all in the world.”
 
 See also: [[an5.49-thanissaro]]; [[an5.57-thanissaro]]
 

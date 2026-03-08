@@ -17,13 +17,13 @@ Those who were modest nuns … spread it about, saying:
 
 “How can the lady Caṇḍakālī curse herself as well as another with hell as well as with the Brahma-life?” …
 
-“Is it true, as is said, monks, that the nun Caṇḍakālī cursed herself … with the Brahma-life?”
+“Is it true, as is said, bhikkhus, that the nun Caṇḍakālī cursed herself … with the Brahma-life?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Caṇḍakālī curse herself as well as another with hell as well as with the Brahma-life? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Caṇḍakālī curse herself as well as another with hell as well as with the Brahma-life? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should curse herself or another with hell or with the Brahma-life, there is an offence of expiation.”
 

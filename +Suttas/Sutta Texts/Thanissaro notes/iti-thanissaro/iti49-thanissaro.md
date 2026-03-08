@@ -12,13 +12,13 @@ language: "English"
 
 # Itivuttaka 49
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Overcome by two viewpoints, monks, some human & divine beings adhere, other human & divine beings slip right past, while those with vision see.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Overcome by two viewpoints, bhikkhus, some human & divine beings adhere, other human & divine beings slip right past, while those with vision see.
 
 “And how do some adhere? Human & divine beings enjoy becoming, delight in becoming, are satisfied with becoming. When the Dhamma is being taught for the sake of the cessation of becoming, their minds do not take to it, are not calmed by it, do not settle on it or become resolved on it. This is how some adhere.
 
 “And how do some slip right past? Some, feeling horrified, humiliated, & disgusted with that very becoming, relish non-becoming: ‘When this self, at the break-up of the body, after death, perishes & is destroyed, and does not exist after death, that is peaceful, that is exquisite, that is sufficiency!’ This is how some slip right past.
 
-“And how do those with vision see? There is the case where a monk sees what’s come to be as what’s come to be. Seeing what’s come to be as what’s come to be, he practices for disenchantment with what’s come to be, dispassion toward what’s come to be, cessation of what’s come to be. This is how those with vision see.”[1](#^iti49note01) ^iti49note01-ref
+“And how do those with vision see? There is the case where a bhikkhu sees what’s come to be as what’s come to be. Seeing what’s come to be as what’s come to be, he practices for disenchantment with what’s come to be, dispassion toward what’s come to be, cessation of what’s come to be. This is how those with vision see.”[1](#^iti49note01) ^iti49note01-ref
 
 Those, having seen
 
@@ -50,7 +50,7 @@ with the non-becoming
 
 of what’s come to be,
 
-monks come
+bhikkhus come
 
 to no further becoming.
 

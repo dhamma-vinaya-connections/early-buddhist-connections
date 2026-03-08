@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 63
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three times. Which three? Past time, future time, present time. These are the three times.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three times. Which three? Past time, future time, present time. These are the three times.”
 
 Perceiving in terms of signs, beings
 

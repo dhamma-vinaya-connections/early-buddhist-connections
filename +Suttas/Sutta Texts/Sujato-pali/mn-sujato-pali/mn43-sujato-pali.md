@@ -98,17 +98,17 @@ Then in the late afternoon, Venerable Mahākoṭṭhita came out of retreat, wen
 
 32“But what, reverend, is the first jhāna?”
 
-33“Reverend, it’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is called the first jhāna.”
+33“Reverend, it’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is called the first jhāna.”
 
 34“But how many factors does the first jhāna have?”
 
 
-35“The first jhāna has five factors. When a mendicant has entered the first jhāna, placing the mind, keeping it connected, rapture, bliss, and unification of mind are present. That’s how the first jhāna has five factors.”
+35“The first jhāna has five factors. When a bhikkhu has entered the first jhāna, placing the mind, keeping it connected, rapture, bliss, and unification of mind are present. That’s how the first jhāna has five factors.”
 
 
 36“But how many factors has the first jhāna given up and how many does it possess?”
 
-37“The first jhāna has given up five factors and possesses five factors. When a mendicant has entered the first jhāna, sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt are given up. Placing the mind, keeping it connected, rapture, bliss, and unification of mind are present. That’s how the first jhāna has given up five factors and possesses five factors.”
+37“The first jhāna has given up five factors and possesses five factors. When a bhikkhu has entered the first jhāna, sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt are given up. Placing the mind, keeping it connected, rapture, bliss, and unification of mind are present. That’s how the first jhāna has given up five factors and possesses five factors.”
 
 
 38“Reverend, these five faculties have different scopes and different ranges, and don’t experience each others’ scope and raṅge. That is, the faculties of the eye, ear, nose, tongue, and body. What do these five faculties, with their different scopes and ranges, have recourse to? What experiences their scopes and ranges?”
@@ -137,21 +137,21 @@ Then in the late afternoon, Venerable Mahākoṭṭhita came out of retreat, wen
 
 48“Are the life forces the same things as the phenomena that are felt? Or are they different things?”
 
-49“The life forces are not the same things as the phenomena that are felt. For if the life forces and the phenomena that are felt were the same things, a mendicant who had attained the cessation of perception and feeling would not emerge from it. But because the life forces and the phenomena that are felt are different things, a mendicant who has attained the cessation of perception and feeling can emerge from it.”
+49“The life forces are not the same things as the phenomena that are felt. For if the life forces and the phenomena that are felt were the same things, a bhikkhu who had attained the cessation of perception and feeling would not emerge from it. But because the life forces and the phenomena that are felt are different things, a bhikkhu who has attained the cessation of perception and feeling can emerge from it.”
 
 
 50“How many things must this body lose before it lies forsaken, tossed aside like an insentient log?”
 
 51“This body must lose three things before it lies forsaken, tossed aside like an insentient log: vitality, warmth, and consciousness.”
 
-52“What’s the difference between someone who has passed away and a mendicant who has attained the cessation of perception and feeling?”
+52“What’s the difference between someone who has passed away and a bhikkhu who has attained the cessation of perception and feeling?”
 
-53“When someone dies, their physical, verbal, and mental processes have ceased and stilled; their vitality is spent; their warmth is dissipated; and their faculties have disintegrated. When a mendicant has attained the cessation of perception and feeling, their physical, verbal, and mental processes have ceased and stilled. But their vitality is not spent; their warmth is not dissipated; and their faculties are very clear. That’s the difference between someone who has passed away and a mendicant who has attained the cessation of perception and feeling.”
+53“When someone dies, their physical, verbal, and mental processes have ceased and stilled; their vitality is spent; their warmth is dissipated; and their faculties have disintegrated. When a bhikkhu has attained the cessation of perception and feeling, their physical, verbal, and mental processes have ceased and stilled. But their vitality is not spent; their warmth is not dissipated; and their faculties are very clear. That’s the difference between someone who has passed away and a bhikkhu who has attained the cessation of perception and feeling.”
 
 54“How many conditions are necessary to attain the neutral release of the heart?”
 
 
-55“Four conditions are necessary to attain the neutral release of the heart. Giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. These four conditions are necessary to attain the neutral release of the heart.”
+55“Four conditions are necessary to attain the neutral release of the heart. Giving up pleasure and pain, and ending former happiness and sadness, a bhikkhu enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. These four conditions are necessary to attain the neutral release of the heart.”
 
 56“How many conditions are necessary to attain the signless release of the heart?”
 
@@ -173,32 +173,32 @@ Then in the late afternoon, Venerable Mahākoṭṭhita came out of retreat, wen
 64And what’s the way in which these things differ in both meaning and phrasing?
 
 
-65Firstly, a mendicant meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of compassion … They meditate spreading a heart full of rejoicing … They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will. This is called the limitless heart’s release.
+65Firstly, a bhikkhu meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. They meditate spreading a heart full of compassion … They meditate spreading a heart full of rejoicing … They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will. This is called the limitless heart’s release.
 
 
 66And what is the heart’s release through nothingness?
 
-67It’s when a mendicant, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. This is called the heart’s release through nothingness.
+67It’s when a bhikkhu, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. This is called the heart’s release through nothingness.
 
 68And what is the heart’s release through emptiness?
 
-69It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut, and reflects like this: ‘This is empty of a self or what belongs to a self.’ This is called the heart’s release through emptiness.
+69It’s when a bhikkhu has gone to a wilderness, or to the root of a tree, or to an empty hut, and reflects like this: ‘This is empty of a self or what belongs to a self.’ This is called the heart’s release through emptiness.
 
 
 70And what is the signless heart’s release?
 
-71It’s when a mendicant, not focusing on any signs, enters and remains in the signless immersion of the heart. This is called the signless heart’s release.
+71It’s when a bhikkhu, not focusing on any signs, enters and remains in the signless immersion of the heart. This is called the signless heart’s release.
 
 This is the way in which these things differ in both meaning and phrasing.
 
 
 72And what’s the way in which they mean the same thing, and differ only in the phrasing?
 
-73Greed, hate, and delusion are makers of limits. A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. The unshakable heart’s release is said to be the best kind of limitless heart’s release. That unshakable heart’s release is empty of greed, hate, and delusion.
+73Greed, hate, and delusion are makers of limits. A bhikkhu who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. The unshakable heart’s release is said to be the best kind of limitless heart’s release. That unshakable heart’s release is empty of greed, hate, and delusion.
 
-Greed is something, hate is something, and delusion is something. A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. The unshakable heart’s release is said to be the best kind of heart’s release through nothingness. That unshakable heart’s release is empty of greed, hate, and delusion.
+Greed is something, hate is something, and delusion is something. A bhikkhu who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. The unshakable heart’s release is said to be the best kind of heart’s release through nothingness. That unshakable heart’s release is empty of greed, hate, and delusion.
 
-Greed, hate, and delusion are makers of signs. A mendicant who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. The unshakable heart’s release is said to be the best kind of signless heart’s release. That unshakable heart’s release is empty of greed, hate, and delusion.
+Greed, hate, and delusion are makers of signs. A bhikkhu who has ended the defilements has given these up, cut them off at the root, made them like a palm stump, and obliterated them, so they are unable to arise in the future. The unshakable heart’s release is said to be the best kind of signless heart’s release. That unshakable heart’s release is empty of greed, hate, and delusion.
 
 This is the way in which they mean the same thing, and differ only in the phrasing.”
 

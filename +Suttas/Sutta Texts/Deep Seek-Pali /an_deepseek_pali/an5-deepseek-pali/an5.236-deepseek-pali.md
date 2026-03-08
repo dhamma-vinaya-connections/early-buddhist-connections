@@ -2,7 +2,7 @@
 sutta_code: "AN5.236"
 sutta_title:
   - "Anukampa "
-  - "Compassionate Mendicant"
+  - "Compassionate bhikkhu"
 sutta-version: "Deep Seek"
 language: "English - Pali"
 ---

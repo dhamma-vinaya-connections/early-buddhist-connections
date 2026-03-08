@@ -20,7 +20,7 @@ language: "English - Pali"
 
 1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time almost all the people in Sāvatthī clung exceedingly to sense pleasures, delighted, greedy, tied, infatuated, and indulgent, they dwelt having become completely intoxicated with sense pleasures.
 
-2Then many monks, having dressed in the morning time, after picking up their bowl and robe, entered Sāvatthī for alms, and after walking for alms in Sāvatthī, while returning from the alms-round after the meal, went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those monks said this to the Gracious One: "Here, reverend Sir, almost all the people in Sāvatthī cling exceedingly to sense pleasures, delighted, greedy, tied, infatuated, and indulgent, they dwell having become completely intoxicated with sense pleasures."
+2Then many bhikkhus, having dressed in the morning time, after picking up their bowl and robe, entered Sāvatthī for alms, and after walking for alms in Sāvatthī, while returning from the alms-round after the meal, went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those bhikkhus said this to the Gracious One: "Here, reverend Sir, almost all the people in Sāvatthī cling exceedingly to sense pleasures, delighted, greedy, tied, infatuated, and indulgent, they dwell having become completely intoxicated with sense pleasures."
 
 3Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

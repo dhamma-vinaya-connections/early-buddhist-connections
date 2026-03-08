@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.65.1.1* *BD.3.369* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns ordained a girl[^1] married for less than twelve years.[^2] These[^3] were not able to endure cold, heat, hunger, thirst, contact with gadflies, mosquitoes, wind and sun, creeping things, abusive hurtful language; they were not able to endure bodily feelings which arising are painful, acute, sharp, shooting, disagreeable, miserable, deadly.[^4] Those who were modest nuns … spread it about, saying: “How can nuns ordain a girl married for less than twelve years?” …
 
-“Is it true, as is said, monks, that nuns ordained … married for less than twelve years?”
+“Is it true, as is said, bhikkhus, that nuns ordained … married for less than twelve years?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying: *Vin.4.322*
 
-“How, monks, can nuns ordain a girl married for less than twelve years? Monks, a girl married for less than twelve years is not able to endure cold … bodily feelings … miserable, deadly. It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns ordain a girl married for less than twelve years? bhikkhus, a girl married for less than twelve years is not able to endure cold … bodily feelings … miserable, deadly. It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should ordain a girl married for less than twelve years, there is an offence of expiation.”
 

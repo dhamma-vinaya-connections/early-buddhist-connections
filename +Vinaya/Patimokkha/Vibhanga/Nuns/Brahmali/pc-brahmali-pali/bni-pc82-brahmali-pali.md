@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2The nuns heard the complaints of those people. The nuns of few desires complained and criticized them, “How can the nuns give full admission every year?” …
 
-“Is it true, monks, that the nuns do this?”
+“Is it true, bhikkhus, that the nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

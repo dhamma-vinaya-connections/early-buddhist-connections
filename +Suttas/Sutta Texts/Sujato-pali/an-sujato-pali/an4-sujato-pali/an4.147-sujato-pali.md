@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when these four times are rightly developed and progressed, they gradually lead to the ending of defilements. What four? A time for listening to the teaching, a time for discussing the teaching, a time for serenity, and a time for discernment.
+1“bhikkhus, when these four times are rightly developed and progressed, they gradually lead to the ending of defilements. What four? A time for listening to the teaching, a time for discussing the teaching, a time for serenity, and a time for discernment.
 
 2It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The pools fill up the lakes, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean.
 

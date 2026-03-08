@@ -43,7 +43,7 @@ Surely such a man does no wrong!”
 
 5Then the god Niṅka recited this verse about Nigaṇṭha Nātaputta in the Buddha’s presence:
 
-6“Disgusted at sin, an alert mendicant,  
+6“Disgusted at sin, an alert bhikkhu,  
 well restrained in the four controls;  
 explaining what is seen and heard:  
 surely he can be no sinner!”

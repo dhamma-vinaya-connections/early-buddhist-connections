@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, great sal trees grow in three ways supported by the Himalayas, the king of mountains. What three? The branches, leaves, and foliage; the bark and shoots; and the softwood and heartwood. Great sal trees grow in these three ways supported by the Himalayas, the king of mountains.
+1“bhikkhus, great sal trees grow in three ways supported by the Himalayas, the king of mountains. What three? The branches, leaves, and foliage; the bark and shoots; and the softwood and heartwood. Great sal trees grow in these three ways supported by the Himalayas, the king of mountains.
 
 2In the same way, a family grows in three ways supported by a family head with faith. What three? Faith, ethics, and wisdom. A family grows in these three ways supported by a family head with faith.
 

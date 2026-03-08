@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five things, when developed and cultivated, lead to the ending of defilements. What five? A mendicant meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, observes the impermanence of all conditions, and has well established the perception of their own death. These five things, when developed and cultivated, lead to the ending of defilements.”
+1“bhikkhus, these five things, when developed and cultivated, lead to the ending of defilements. What five? A bhikkhu meditates observing the ugliness of the body, perceives the repulsiveness of food, perceives dissatisfaction with the whole world, observes the impermanence of all conditions, and has well established the perception of their own death. These five things, when developed and cultivated, lead to the ending of defilements.”
 
 1"Pañcime, bhikkhave, dhammā bhāvitā bahulīkatā āsavānaṁ khayāya saṁvattanti. Katame pañca? Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī, sabbasaṅkhāresu aniccānupassī, maraṇasaññā kho panassa ajjhattaṁ sūpaṭṭhitā hoti. Ime kho, bhikkhave, pañca dhammā bhāvitā bahulīkatā āsavānaṁ khayāya saṁvattantī"ti.
 

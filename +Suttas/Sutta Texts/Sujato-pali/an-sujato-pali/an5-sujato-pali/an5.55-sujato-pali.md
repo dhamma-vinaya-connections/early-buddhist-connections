@@ -22,13 +22,13 @@ language: "English - Pali"
 
 1At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Now, at that time a mother and son had both entered the rainy season residence at Sāvatthī, as a monk and a nun. They wanted to see each other often. The mother wanted to see her son often, and the son his mother. Seeing each other often, they became close. Being so close, they became intimate. And being intimate, lust overcame them. With their minds swamped by lust, without rejecting the training and declaring their inability to continue, they had sex.
+Now, at that time a mother and son had both entered the rainy season residence at Sāvatthī, as a bhikkhu and a nun. They wanted to see each other often. The mother wanted to see her son often, and the son his mother. Seeing each other often, they became close. Being so close, they became intimate. And being intimate, lust overcame them. With their minds swamped by lust, without rejecting the training and declaring their inability to continue, they had sex.
 
 
-2Then several mendicants went up to the Buddha, bowed, sat down to one side, and told him what had happened.
+2Then several bhikkhus went up to the Buddha, bowed, sat down to one side, and told him what had happened.
 
 
-3“Mendicants, how could that silly man imagine that a mother cannot lust for her son, or that a son cannot lust for his mother? Compared to the sight of a woman, I do not see a single sight that is so arousing, sensuous, intoxicating, captivating, and infatuating, and such an obstacle to reaching the supreme sanctuary. Sentient beings are lustful, greedy, tied, infatuated, and attached to the sight of a woman. They sorrow for a long time under the sway of a woman’s sight.
+3“bhikkhus, how could that silly man imagine that a mother cannot lust for her son, or that a son cannot lust for his mother? Compared to the sight of a woman, I do not see a single sight that is so arousing, sensuous, intoxicating, captivating, and infatuating, and such an obstacle to reaching the supreme sanctuary. Sentient beings are lustful, greedy, tied, infatuated, and attached to the sight of a woman. They sorrow for a long time under the sway of a woman’s sight.
 
 4Compared to the sound … smell … taste … touch of a woman, I do not see a single touch that is so arousing, sensuous, intoxicating, captivating, and infatuating, and such an obstacle to reaching the supreme sanctuary. Sentient beings are lustful, greedy, tied, infatuated, and attached to the touch of a woman. They sorrow for a long time under the sway of a woman’s touch.
 

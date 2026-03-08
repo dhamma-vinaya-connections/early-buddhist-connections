@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with five qualities is overcome by timidity. What five? It’s when a mendicant is faithless, unethical, with little learning, lazy, and witless. A mendicant with these five qualities is overcome by timidity.
+1“bhikkhus, a bhikkhu with five qualities is overcome by timidity. What five? It’s when a bhikkhu is faithless, unethical, with little learning, lazy, and witless. A bhikkhu with these five qualities is overcome by timidity.
 
-2A mendicant with five qualities is self-assured. What five? It’s when a mendicant is faithful, ethical, learned, energetic, and wise. A mendicant with these five qualities is self-assured.”
+2A bhikkhu with five qualities is self-assured. What five? It’s when a bhikkhu is faithful, ethical, learned, energetic, and wise. A bhikkhu with these five qualities is self-assured.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu sārajjaṁ okkanto hoti. Katamehi pañcahi? Idha, bhikkhave, bhikkhu assaddho hoti, dussīlo hoti, appassuto hoti, kusīto hoti, duppañño hoti. Imehi kho, bhikkhave, pañcahi, dhammehi samannāgato bhikkhu sārajjaṁ okkanto hoti.
 

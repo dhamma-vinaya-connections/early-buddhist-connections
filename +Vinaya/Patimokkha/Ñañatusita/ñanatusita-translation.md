@@ -139,8 +139,8 @@ v
 
 This book contains an abridged, concise edition of _Analysis of the  
 Bhikkhu Pātimokkha_ , an in depth study and word by word translation  
-of the _Bhikkhupātimokkha,_ the Code of Discipline of Buddhist monks.  
-It is intended for Buddhist monks, but it could also be of interest of  
+of the _Bhikkhupātimokkha,_ the Code of Discipline of Buddhist bhikkhus.  
+It is intended for Buddhist bhikkhus, but it could also be of interest of  
 those who are studying Pali or Buddhist monastic law.  
 The main part of this book is the word by word translation of  
 the Pali text of the Pātimokkha. Also included are an edition of the  
@@ -432,7 +432,7 @@ xi
 
 **1. The Pātimokkha and its Meaning**
 
-The Bhikkhu-pātimokkha, or Code of Discipline for Buddhist monks,  
+The Bhikkhu-pātimokkha, or Code of Discipline for Buddhist bhikkhus,  
 consists of two hundred and twenty training precepts ( _sikkhāpada_ )  
 divided into seven classes or groups: 4 _pārājika_ , 13 _saṅghādisesa_ , 2 _aniy-  
 ata_ , 30 _nissaggiya pācittiya_ , 92 _pācittiya_ , 4 _pāṭidesanīya_ , and 75 _sekhiya_.  
@@ -901,8 +901,8 @@ uposatha_ in the _Parivāra_ (Vin V 123) and the commentaries.
 The Buddha recommended that all bhikkhus learn to count the  
 moon-phase/fort-night ( _sabbeh’eva pakkha-gaṇanaṃ uggahetuṃ_ ) after  
 laypeople criticised the bhikkhus for not knowing it; Mv II 18,1–2/  
-Vin I 117. To avoid monks not knowing that it is the Uposatha, a  
-senior monk should announce it at any time during the day; Mv 19.1.  
+Vin I 117. To avoid bhikkhus not knowing that it is the Uposatha, a  
+senior bhikkhu should announce it at any time during the day; Mv 19.1.  
 An explicit rule about telling the season in which the Uposatha  
 takes place can not be found, but in the Mv it is said that the  
 measuring of the season ( _utuppamānam_ ) should be told at an  
@@ -1150,7 +1150,7 @@ he is ignorant and unlearned, and does not know the Uposatha or the
 Pātimokkha, then the Buddha allowed the Pātimokkha be taken on  
 by another competent bhikkhu; Mv II 17,2/Vin I 116.  
 A simple request would to have been made originally, as it is  
-mentioned (Mv II 17/ Vin I 116) that monks invited the senior or  
+mentioned (Mv II 17/ Vin I 116) that bhikkhus invited the senior or  
 another bhikkhu to recite the Pātimokkha by saying: “Let the  
 Venerable Sir recite the Pātimokkha.”  
 The formal invitation as given in modern Pātimokkha manuals  
@@ -1325,8 +1325,8 @@ probably the best fits.
 As _pārājika_ occurs together with the adjective _asaṃvāsa_ (“not in  
 communion”) in the rules themselves, with _asamaṇa_ : “non-ascetic” in  
 the Padabhājana, with the verb _nāseti,_ “expels,” in the Suttavibhaṅga  
-to indicate the course of action other monks have to take with a  
-monk who fell into a Pārājika offence, and with the similes indicating  
+to indicate the course of action other bhikkhus have to take with a  
+bhikkhu who fell into a Pārājika offence, and with the similes indicating  
 the non-possibility of being re-connected or living again, a rendering  
 of _pārājika_ that more or less fits all the etymologies and explanations  
 would be “involving disqualification” when it is qualifying _dhamma,_  
@@ -2136,7 +2136,7 @@ Uposatha is being done now.
 
 (If junior:) Good, Venerable Sir! / (If Senior:) Good, Friend!
 
-(Senior monk): Having concluded the preparations and preliminary  
+(Senior bhikkhu): Having concluded the preparations and preliminary  
 duties, I make the invitation to recite the Disciplinary Code with the  
 approval of the seated Community.”
 
@@ -2398,7 +2398,7 @@ indecl. + **tatiya** : third: ordinal.
 
 **pana** : but, however, now; adversative or connective particle.
 
-**bhikkhu** : bhikkhu, (alms-) monk, religious mendicant, religious  
+**bhikkhu** : bhikkhu, (alms-) bhikkhu, religious bhikkhu, religious  
 beggar; nom. sg. m. Derived from _bhikkhati_ ( _ƒbhikkh + a_ ): begs, asks  
 for.
 
@@ -2627,7 +2627,7 @@ Párájika 1 23
 
 
 **yo pana bhikkhu** : if any bhikkhu, whatever bhikkhu, a bhikkhu  
-who, Ñm: any bhikkhu, Nor: if any bhikkhu, Hr: whatever monk;  
+who, Ñm: any bhikkhu, Nor: if any bhikkhu, Hr: whatever bhikkhu;  
 see Nid.
 
 **bhikkhūnaṃ** : for the bhikkhus; dat. pl. m. of _bhikkhu_ , cp. NP 23,  
@@ -2635,7 +2635,7 @@ could also be gen.: “of the bhikkhus.”
 
 **sikkhāsājīvasamāpanno** : has entered upon the training and livelihood,  
 Ñm: having undertaken the bhikkhus’ training precepts and way of  
-life, Hr: possessed of the training and mode of life for monks; adjective  
+life, Hr: possessed of the training and mode of life for bhikkhus; adjective  
 qualifying _bhikkhu_. Bahubbīhi cpd. **= sikkhā** : training, training  
 precept; f. fr. _sikkhati_ ( _ƒsikkh + a_ ): one trains oneself. **+ sājīva** :  
 livelihood, living, living together; nt. = pref. _sa_ : with, together + _ājīva_ :  
@@ -2727,7 +2727,7 @@ ya)_ : considers, reckons, agrees upon, calculates, deliberates.
 
 **adinnaṃ theyyasaṅkhātaṃ ādiyeyya** : should take what is not given  
 in a way that is reckoned as theft, Ñm: with intent to steal take ... what  
-is not given, Hr: whatever monk should by means of theft take ... what  
+is not given, Hr: whatever bhikkhu should by means of theft take ... what  
 has not been given to him, Nor: should take away ... what is not given  
 in a way that is called theft. Cf. the definition given in the _akaranīya_ s at  
 Vin I 96.
@@ -3788,7 +3788,7 @@ process, Than: issue, formal dispute; nom. sg. nt.
 
 **bhikkhu ca dosaṃ patiṭṭhāti** : and if the bhikkhu stands firm in  
 malice, (or:) and if the bhikkhu confirms the fault, Ñm: and the  
-bhikkhu admits to anger, Hr: if the monk confessed his malice.
+bhikkhu admits to anger, Hr: if the bhikkhu confessed his malice.
 
 ### SS9
 > [!tip] 🌐 Rule Overview [[BU-SS9]]
@@ -4244,7 +4244,7 @@ Venerables, refrain from speaking to me!” [Then] that bhikkhu should
 be spoken to thus by the bhikkhus: “Let the venerable one not make  
 himself [one] who cannot be spoken to. Let the venerable one make  
 himself [one] who can be spoken to. Let the venerable one speak to the  
-bhikkhus with righteousness and the monks too will speak to the  
+bhikkhus with righteousness and the bhikkhus too will speak to the  
 venerable one with righteousness. For the Blessed One’s assembly has  
 grown thus, that is, by the speaking of one to another, by the  
 rehabilitating of one another,” and [if] that bhikkhu being spoken to  
@@ -4614,7 +4614,7 @@ a community of bhikkhus, which is a group of twenty [or more
 bhikkhus], there that bhikkhu should be reinstated. If a community  
 of bhikkhus, which is a group of twenty deficient by even one  
 [bhikkhu], should reinstate that bhikkhu [then] that bhikkhu is not  
-reinstated, and those monks are blameworthy. This is the proper  
+reinstated, and those bhikkhus are blameworthy. This is the proper  
 procedure here.
 
 Concerning that I ask the venerables: [Are you] pure in this?  
@@ -4693,7 +4693,7 @@ derived from _parivasati_.
 numeral + **rattaṃ** : night.
 
 **bhikkhumānattāya** : state of deference to bhikkhus, Ñm: penance for  
-bhikkhus, Hr: the monk’s mānatta discipline; dat. sg. nt. Dat. tapp.  
+bhikkhus, Hr: the bhikkhu’s mānatta discipline; dat. sg. nt. Dat. tapp.  
 cpd. = **bhikkhu** : bhikkhu + **mānatta** : state of deference.
 
 **paṭipajjitabbaṃ** : is to enter upon, follow, undergo; f.p.p. of _paṭipajjati_  
@@ -5450,7 +5450,7 @@ e_ ) taking the instrumental case here: _cīvarehi._
 
 **abhihaṭṭhuṃ pavāreyya** : should invite to take [as much as he likes],  
 having brought (them all) forward should invite, Ñm: should ... invite  
-him to take as many robes as he likes, Hr: asking (a monk) should  
+him to take as many robes as he likes, Hr: asking (a bhikkhu) should  
 invite him to take (material for) many robes.
 
 **santar’uttaraparamaṃ** : (robe-cloth for) an inner (robe) and an upper  
@@ -6529,11 +6529,11 @@ with **so** , introduces a relative clause that precedes the main clause
 
 **pattapariyanto** : the last bowl, final, Ñm: the bowl last rejected by the  
 gathering of bhikkhus, Hr: the last bowl belonging to the company of  
-monks; adj. Bb. cpd. = **patta** + **pariyanta** : last, final, end; adj.
+bhikkhus; adj. Bb. cpd. = **patta** + **pariyanta** : last, final, end; adj.
 
 **so** : that (bowl); see above.
 
-**tassa bhikkhuno** : to that monk; dat. sg. m.
+**tassa bhikkhuno** : to that bhikkhu; dat. sg. m.
 
 **padātabbo** : to be given, to be bestowed on, ... presented to; f.p.p. of  
 _padāti_ ( _pa + ƒdā + a_ ) agreeing with _patto_.
@@ -9179,7 +9179,7 @@ kā¿asāmaṃ vā._
 _Anādā ce bhikkhu tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ  
 dubbaṇṇakaraṇaṃ navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ._
 
-By a monk with the gain of a new robe a certain stain [from] amongst  
+By a bhikkhu with the gain of a new robe a certain stain [from] amongst  
 the three stains is to be applied: dark-blue or muddy [-grey] or dark-  
 brown.
 
@@ -9653,7 +9653,7 @@ expiation.
 **jānaṃ** : knowingly; pr.p. of _jānāti_ used as an adverb; see Pār 4.
 
 **tathāvādinā bhikkhunā** : with a bhikkhu who is speaking thus, Ñm:  
-with a bhikkhu who says thus, Hr: with a monk who talks thus.
+with a bhikkhu who says thus, Hr: with a bhikkhu who talks thus.
 
 **tathāvādinā** : who is speaking thus, who is asserting thus, who has  
 such a view; adj. Kdh. used as bb. cpd. refers back to the previous rule  
@@ -10131,10 +10131,10 @@ iminā bhikkhunā ... ko pana vādo bhiyyo** : [then] if other bhikkhus
 should know [about] that bhikkhu [thus]: “This bhikkhu has sat [in]  
 two or three times previously when the Disciplinary Code was being  
 recited, no need to speak about more [times than that]!,” Ñm: and if  
-other monks should know of that bhikkhu: “This bhikkhu has  
+other bhikkhus should know of that bhikkhu: “This bhikkhu has  
 already sat while the Pātimokkha was recited (at least) two or three  
-times, perhaps oftener,” Hr: “if other monks should know concerning  
-this monk that this monk has sat down two or three times before, not  
+times, perhaps oftener,” Hr: “if other bhikkhus should know concerning  
+this bhikkhu that this bhikkhu has sat down two or three times before, not  
 to say oftener, while the Pātimokkha was being recited.”
 
 **dvattikkhattuṃ** : two or three times; adv. See NP 10.
@@ -10164,7 +10164,7 @@ Pácittiya 73 149
 
 **tassa** : for that; dat. sg. of dem. pron. _ta(d)_.
 
-**bhikkhuno** : for (that) monk; dat. sg. m.
+**bhikkhuno** : for (that) bhikkhu; dat. sg. m.
 
 **aññāṇakena** : through not-knowing, Hr: on account of ignorance,  
 Ñm: in pleading ignorance; ins. sg. m. Kdh. cpd. Neg. pref. _a- + ñāṇa_ :  
@@ -10550,7 +10550,7 @@ _ika_.
 **pariṇataṃ** : allocated; p.p. of _pariṇāmeti (pari + ƒnam + e_ ).
 
 **puggalassa** : to a person, individual; dat. sg. m. See Pāc 65. It can be a  
-monk, nun, novice, or layperson.
+bhikkhu, nun, novice, or layperson.
 
 **pariṇāmeyya** : should allocate; 3 sg. opt. of _pariṇāmeti_.
 
@@ -11213,7 +11213,7 @@ _paṭibhāsati_ ( _paṭi + ƒbhās_ ) with a genitive _bhikkhuno_.
 
 **ekassa pi ce bhikkhuno nappaṭibhāseyya** : And if not even by one  
 bhikkhu (it) should be spoken against, Ñm: if not even one bhikkhu  
-should speak, Hr: if it should not occur to single monk.
+should speak, Hr: if it should not occur to single bhikkhu.
 
 **taṃ** : that; acc. sg. of dem. pron. _ta(d)_.
 

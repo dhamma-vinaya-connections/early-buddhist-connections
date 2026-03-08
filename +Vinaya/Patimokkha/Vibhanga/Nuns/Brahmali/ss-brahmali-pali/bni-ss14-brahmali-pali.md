@@ -23,7 +23,7 @@ Kokālika said to Devadatta, “The ascetic Gotama is powerful and mighty. How c
 “Well, let’s go to the ascetic Gotama and request five things: ‘In many ways, Venerable Sir, you praise fewness of wishes, contentment, self-effacement, ascetic practices, being inspiring, the reduction in things, and being energetic. And there are five things that lead to just that: It would be good, Sir,
 
 
-If the monks stayed in the wilderness for life, and whoever stayed near an inhabited area would commit an offense
+If the bhikkhus stayed in the wilderness for life, and whoever stayed near an inhabited area would commit an offense
 
 If they ate only almsfood for life, and whoever accepted an invitational meal would commit an offense
 
@@ -48,22 +48,22 @@ Devadatta thought, “The Buddha doesn’t allow the five points.” Glad and el
 
 4The foolish people with little faith and confidence said, “These Sakyan monastics are practicing asceticism and living with the aim of self-effacement. But the ascetic Gotama is extravagant and has chosen a life of indulgence.” But the wise people who had faith and confidence complained and criticized Devadatta, “How can Devadatta pursue schism in the Sangha of the Buddha? How can he break its authority?”
 
-5The monks heard the criticism of those people, and the monks of few desires complained and criticized him in the same way.
+5The bhikkhus heard the criticism of those people, and the bhikkhus of few desires complained and criticized him in the same way.
 
 6After rebuking Devadatta in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Devadatta: “Is it true, Devadatta, that you are doing this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-7‘If a monk pursues schism in a united Sangha or persists in taking up a legal issue conducive to schism, the monks should correct him like this, “Venerable, don’t pursue schism in the united Sangha or persist in taking up a legal issue conducive to schism. Stay with the Sangha, for a united Sangha—in concord, in harmony, having a joint recitation—is at ease.” If that monk continues as before, the monks should press him up to three times to make him stop. If he then stops, all is well. If he does not stop, he commits an offense entailing suspension.’”
+7‘If a bhikkhu pursues schism in a united Sangha or persists in taking up a legal issue conducive to schism, the bhikkhus should correct him like this, “Venerable, don’t pursue schism in the united Sangha or persist in taking up a legal issue conducive to schism. Stay with the Sangha, for a united Sangha—in concord, in harmony, having a joint recitation—is at ease.” If that bhikkhu continues as before, the bhikkhus should press him up to three times to make him stop. If he then stops, all is well. If he does not stop, he commits an offense entailing suspension.’”
 
 #### Definitions
 
-8**A:** whoever … **Monk**: … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+8**A:** whoever … **bhikkhu**: … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 9**A united Sangha:** those belonging to the same Buddhist sect and staying within the same monastery zone.
 
@@ -79,9 +79,9 @@ The Buddha rebuked him … “Foolish man, how can you do this? This will affect
 
 14**If he persists in:** if he does not stop.
 
-15**Him:** the monk who is pursuing schism in the Sangha.
+15**Him:** the bhikkhu who is pursuing schism in the Sangha.
 
-16**The monks:** other monks.
+16**The bhikkhus:** other bhikkhus.
 
 
 17Those who see it or hear it. They should correct him like this:
@@ -93,7 +93,7 @@ And they should correct him a second and a third time. If he stops, all is well.
 If those who heard about it do not say anything, they commit an offense of wrong conduct.
 
 
-That monk, even if he has to be pulled into the Sangha, should be corrected like this:
+That bhikkhu, even if he has to be pulled into the Sangha, should be corrected like this:
 
 “Venerable, don’t pursue schism in the united Sangha or persist in taking up a legal issue conducive to schism. Stay with the Sangha, for a united Sangha—in concord, in harmony, having a joint recitation—is at ease.”
 
@@ -101,16 +101,16 @@ They should correct him a second and a third time. If he stops, all is well. If 
 
 Should press him:
 
-“And, monks, he should be pressed like this. A competent and capable monk should inform the Sangha:
+“And, bhikkhus, he should be pressed like this. A competent and capable bhikkhu should inform the Sangha:
 
 
-18‘Please, Venerables, I ask the Sangha to listen. The monk so-and-so is pursuing schism in the united Sangha. And he keeps on doing it. If it seems appropriate to the Sangha, the Sangha should press him to make him stop. This is the motion.
+18‘Please, Venerables, I ask the Sangha to listen. The bhikkhu so-and-so is pursuing schism in the united Sangha. And he keeps on doing it. If it seems appropriate to the Sangha, the Sangha should press him to make him stop. This is the motion.
 
-19Please, Venerables, I ask the Sangha to listen. The monk so-and-so is pursuing schism in the united Sangha. And he keeps on doing it. The Sangha presses him to make him stop. Any monk who approves of pressing him to make him stop should remain silent. Any monk who doesn’t approve should speak up.
+19Please, Venerables, I ask the Sangha to listen. The bhikkhu so-and-so is pursuing schism in the united Sangha. And he keeps on doing it. The Sangha presses him to make him stop. Any bhikkhu who approves of pressing him to make him stop should remain silent. Any bhikkhu who doesn’t approve should speak up.
 
-20For the second time I speak on this matter: … For the third time I speak on this matter: Please, Venerables, I ask the Sangha to listen. The monk so-and-so is pursuing schism in the united Sangha. And he keeps on doing it. The Sangha presses him to make him stop. Any monk who approves of pressing him to make him stop should remain silent. Any monk who doesn’t approve should speak up.
+20For the second time I speak on this matter: … For the third time I speak on this matter: Please, Venerables, I ask the Sangha to listen. The bhikkhu so-and-so is pursuing schism in the united Sangha. And he keeps on doing it. The Sangha presses him to make him stop. Any bhikkhu who approves of pressing him to make him stop should remain silent. Any bhikkhu who doesn’t approve should speak up.
 
-21The Sangha has pressed monk so-and-so to make him stop. The Sangha approves and is therefore silent. I’ll remember it thus.’”
+21The Sangha has pressed bhikkhu so-and-so to make him stop. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
 
 22After the motion, he commits an offense of wrong conduct. After each of the first two announcements, he commits a serious offense. When the last announcement is finished, he commits an offense entailing suspension. For one who commits the offense entailing suspension, the offense of wrong conduct and the serious offenses are annulled.

@@ -15,15 +15,15 @@ language: "English"
 ## ## Paṭilīna Sutta
 
 
-“Monks, a monk who has shaken off idiosyncratic truths _[pacceka-sacca],_[1](#^[[an4-thanissaro]].38note01) who has thoroughly given up searching, who is calmed in his bodily fabrication,[2](#^[[an4-thanissaro]].38note02) is said to be detached. ^[[an4-thanissaro]].38note01-ref ^[[an4-thanissaro]].38note02-ref
+“bhikkhus, a bhikkhu who has shaken off idiosyncratic truths _[pacceka-sacca],_[1](#^[[an4-thanissaro]].38note01) who has thoroughly given up searching, who is calmed in his bodily fabrication,[2](#^[[an4-thanissaro]].38note02) is said to be detached. ^[[an4-thanissaro]].38note01-ref ^[[an4-thanissaro]].38note02-ref
 
-“And how has a monk shaken off idiosyncratic truths? There is the case where a monk has shaken off the run-of-the-mill idiosyncratic truths of run-of-the-mill contemplatives & brahmans—in other words, ‘The cosmos is eternal,’ ‘The cosmos is not eternal,’ ‘The cosmos is finite,’ ‘The cosmos is infinite,’ ‘The soul & the body are the same,’ ‘The soul is one thing and the body another,’ ‘After death a Tathāgata exists,’ ‘After death a Tathāgata does not exist,’ ‘After death a Tathāgata both does & does not exist,’ ‘After death a Tathāgata neither does nor does not exist.’ All of these he has thrown off, shaken off, renounced, vomited up, let go, abandoned, relinquished. This is how a monk has shaken off idiosyncratic truths.
+“And how has a bhikkhu shaken off idiosyncratic truths? There is the case where a bhikkhu has shaken off the run-of-the-mill idiosyncratic truths of run-of-the-mill contemplatives & brahmans—in other words, ‘The cosmos is eternal,’ ‘The cosmos is not eternal,’ ‘The cosmos is finite,’ ‘The cosmos is infinite,’ ‘The soul & the body are the same,’ ‘The soul is one thing and the body another,’ ‘After death a Tathāgata exists,’ ‘After death a Tathāgata does not exist,’ ‘After death a Tathāgata both does & does not exist,’ ‘After death a Tathāgata neither does nor does not exist.’ All of these he has thrown off, shaken off, renounced, vomited up, let go, abandoned, relinquished. This is how a bhikkhu has shaken off idiosyncratic truths.
 
-“And how has a monk thoroughly given up searching? There is the case where a monk has abandoned his search for sensuality, has abandoned his search for becoming, and has allayed his search for a holy life.[3](#^[[an4-thanissaro]].38note03) This is how a monk has thoroughly given up searching. ^[[an4-thanissaro]].38note03-ref
+“And how has a bhikkhu thoroughly given up searching? There is the case where a bhikkhu has abandoned his search for sensuality, has abandoned his search for becoming, and has allayed his search for a holy life.[3](#^[[an4-thanissaro]].38note03) This is how a bhikkhu has thoroughly given up searching. ^[[an4-thanissaro]].38note03-ref
 
-“And how is a monk calmed in his bodily fabrication? There is the case where a monk, with the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. This is how a monk is calmed in his bodily fabrication.
+“And how is a bhikkhu calmed in his bodily fabrication? There is the case where a bhikkhu, with the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. This is how a bhikkhu is calmed in his bodily fabrication.
 
-“And how is a monk detached? There is the case where a monk’s conceit, ‘I am,’ is abandoned, its root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. This is how a monk is detached.”
+“And how is a bhikkhu detached? There is the case where a bhikkhu’s conceit, ‘I am,’ is abandoned, its root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. This is how a bhikkhu is detached.”
 
 Sensuality-search, becoming-search,
 
@@ -47,7 +47,7 @@ and released in the ending
 
 of craving,
 
-he, a monk
+he, a bhikkhu
 
 peaceful, mindful,
 

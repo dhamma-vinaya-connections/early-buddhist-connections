@@ -14,17 +14,17 @@ language: "English"
 Translated by Charles Patton
 ### 7. Padāśva
 
-1. Once, Kaumāra Kāśyapa traveled with five hundred monks to Kośala. They made their way to the priest town of Śvetikā. Kaumāra Kāśyapa then stopped at the rosewood grove to the north of town.
+1. Once, Kaumāra Kāśyapa traveled with five hundred bhikkhus to Kośala. They made their way to the priest town of Śvetikā. Kaumāra Kāśyapa then stopped at the rosewood grove to the north of town.
 
 #### The Priest Padāśva’s Wrong Views
 
 2. There was a priest named Padāśva who lived in Śvetikā. The town was bountiful and happy, the people were numerous, and trees grew abundantly there. King Prasenajit had awarded this town to the priest Padāśva as his priestly due. This priest Padāśva constantly harbored unorthodox views, telling people, “There’s no other world, nor is there rebirth or the results of good and bad actions.”
 
-3. When the people in Śvetikā heard that Kaumāra Kāśyapa had made his way with 500 monks from Kośala to the rosewood grove nearby, they said to each other, “This Kaumāra Kāśyapa is quite famous. He’s a senior elder who became an arhat. He’s widely educated, intelligent, and wise. He’s as eloquent as the situation requires and skilled in holding discussions. Wouldn’t it be good to meet him now?”
+3. When the people in Śvetikā heard that Kaumāra Kāśyapa had made his way with 500 bhikkhus from Kośala to the rosewood grove nearby, they said to each other, “This Kaumāra Kāśyapa is quite famous. He’s a senior elder who became an arhat. He’s widely educated, intelligent, and wise. He’s as eloquent as the situation requires and skilled in holding discussions. Wouldn’t it be good to meet him now?”
 
 4. The townspeople visited Kāśyapa daily. At the time, Padāśva was up in his high tower. He saw droves of townspeople following each other but didn’t know where they were going. He asked his parasol-holders, “Why are those crowds of people following each other?”
 
-5. His servants answered, “We’ve heard that Kaumāra Kāśyapa has made his way with 500 monks from Kośala to the rosewood grove nearby. We’ve also heard that he is quite famous. He’s a senior elder who became an arhat. He’s widely educated, intelligent, and wise. He’s as eloquent as the situation requires and skilled in holding discussions. Those people following each other in droves are going to see Kāśyapa.”
+5. His servants answered, “We’ve heard that Kaumāra Kāśyapa has made his way with 500 bhikkhus from Kośala to the rosewood grove nearby. We’ve also heard that he is quite famous. He’s a senior elder who became an arhat. He’s widely educated, intelligent, and wise. He’s as eloquent as the situation requires and skilled in holding discussions. Those people following each other in droves are going to see Kāśyapa.”
 
 6. The priest Padāśva then gave a servant this order: “Quick, go tell those people, ‘Wait a minute! We’ll all go visit him together!’ Why is that? Those people are foolish, and he tricks the world. He says there’s another world, claims there’s rebirth, and says there are results of good and bad actions. Really, there’s no other world, no rebirth, and no results of good and bad actions.”
 

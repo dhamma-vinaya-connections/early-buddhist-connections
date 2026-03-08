@@ -17,13 +17,13 @@ language: "English"
 
 Then this nun showed an application of lac to that nun. Then that nun, having taken the application of lac, having forgotten to wash it, put it to one side. The nuns, having seen it surrounded by flies, spoke thus: “Whose doing is this?” She spoke thus: “It is my doing.” Those who were modest nuns … spread it about, saying: “How can a nun take an application of lac?” …
 
-“Is it true, as is said, monks, that a nun took an application of lac?”
+“Is it true, as is said, bhikkhus, that a nun took an application of lac?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can a nun take an application of lac? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can a nun take an application of lac? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “In an application of lac, there is an offence of expiation.”
 

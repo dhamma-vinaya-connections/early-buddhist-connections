@@ -12,17 +12,17 @@ language: "English"
 
 # Itivuttaka 111
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Be consummate in virtue, monks, and consummate in the Pāṭimokkha. Dwell restrained in accordance with the Pāṭimokkha, consummate in your behavior & sphere of activity. Train yourselves, having undertaken the training rules, seeing danger in the slightest faults.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Be consummate in virtue, bhikkhus, and consummate in the Pāṭimokkha. Dwell restrained in accordance with the Pāṭimokkha, consummate in your behavior & sphere of activity. Train yourselves, having undertaken the training rules, seeing danger in the slightest faults.
 
 “When one is consummate in virtue, consummate in the Pāṭimokkha; dwelling restrained in accordance with the Pāṭimokkha, consummate in one’s behavior & sphere of activity; training oneself, having undertaken the training rules, seeing danger in the slightest faults–what more is to be done?
 
-“If, while he is walking, any greed in a monk is done away with, any ill will… any sloth & torpor… any restlessness & anxiety is done away with, any uncertainty is abandoned; if his persistence is aroused and not lax; if his mindfulness is established & unmuddled; if his body is calm & unaroused; if his mind is centered & unified: then a monk walking with such ardency & compunction is called continually & continuously resolute, one with persistence aroused.
+“If, while he is walking, any greed in a bhikkhu is done away with, any ill will… any sloth & torpor… any restlessness & anxiety is done away with, any uncertainty is abandoned; if his persistence is aroused and not lax; if his mindfulness is established & unmuddled; if his body is calm & unaroused; if his mind is centered & unified: then a bhikkhu walking with such ardency & compunction is called continually & continuously resolute, one with persistence aroused.
 
 “If, while he is standing.…
 
 “If, while he is sitting.…
 
-“If, while he is lying down, any greed in a monk is done away with, any ill will… any sloth & torpor… any restlessness & anxiety is done away with, any uncertainty is abandoned; if his persistence is aroused and not lax; if his mindfulness is established & unmuddled; if his body is calm & unaroused; if his mind is centered & unified: then a monk lying down with such ardency & compunction is called continually & continuously resolute, one with persistence aroused.”
+“If, while he is lying down, any greed in a bhikkhu is done away with, any ill will… any sloth & torpor… any restlessness & anxiety is done away with, any uncertainty is abandoned; if his persistence is aroused and not lax; if his mindfulness is established & unmuddled; if his body is calm & unaroused; if his mind is centered & unified: then a bhikkhu lying down with such ardency & compunction is called continually & continuously resolute, one with persistence aroused.”
 
 Controlled in walking,
 
@@ -44,7 +44,7 @@ of phenomena,
 
 of aggregates:
 
-a monk who dwells thus ardently,
+a bhikkhu who dwells thus ardently,
 
 not restlessly, at peace–
 

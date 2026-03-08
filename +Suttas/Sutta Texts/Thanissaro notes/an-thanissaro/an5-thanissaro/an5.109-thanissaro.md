@@ -10,14 +10,14 @@ language: "English"
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.109]]
 > ◄  [[an5.106-thanissaro]] 📜  [[an5.110-thanissaro]] ►
 
-## AN5.109 [A Monk] of the Four Directions
+## AN5.109 [A bhikkhu] of the Four Directions
 
 ## ## Catuddisa Sutta
 
 
-“Endowed with five qualities, monks, a monk is one of the four directions. Which five?
+“Endowed with five qualities, bhikkhus, a bhikkhu is one of the four directions. Which five?
 
-“There is the case where a monk is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest faults.
+“There is the case where a bhikkhu is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest faults.
 
 “He has heard much, has retained what he has heard, has stored what he has heard. Whatever teachings are admirable in the beginning, admirable in the middle, admirable in the end, that—in their meaning & expression—proclaim the holy life that is entirely perfect, surpassingly pure: Those he has listened to often, retained, discussed, accumulated, examined with his mind, & well-penetrated in terms of his views.
 
@@ -27,7 +27,7 @@ language: "English"
 
 “He—with the ending of effluents—remains in the effluent-free awareness-release & discernment-release, having directly known & realized them for himself right in the here & now.
 
-“Endowed with these five qualities, monks, a monk is one of the four directions.”
+“Endowed with these five qualities, bhikkhus, a bhikkhu is one of the four directions.”
 
 See also: [[an4.28-thanissaro]]; [[an10.17-thanissaro]]; [[an10.71-thanissaro]]
 

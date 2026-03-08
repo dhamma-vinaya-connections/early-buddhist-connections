@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 605. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū thūpīkataṃ piṇḍapātaṃ paṭiggaṇhanti…pe….
 
-## 605.At that time the Blessed One was dwelling at Savatthi, in Jeta Grove, Anathapindika's Monastery. At that time the group-of-six monks were receiving almsfood piled up high...and so on.
+## 605.At that time the Blessed One was dwelling at Savatthi, in Jeta Grove, Anathapindika's Monastery. At that time the group-of-six bhikkhus were receiving almsfood piled up high...and so on.
 
 ‘‘Samatittikaṃ [samatitthikaṃ (ka.)] piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā’’ti.
 

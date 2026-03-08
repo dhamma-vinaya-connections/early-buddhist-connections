@@ -15,11 +15,11 @@ language: "English"
 ## ## Sukha Sutta
 
 
-“Monks, endowed with six qualities, a monk dwells in the here & now with an abundance of pleasure & happiness, and his source for the ending of the effluents has been activated. Which six?
+“bhikkhus, endowed with six qualities, a bhikkhu dwells in the here & now with an abundance of pleasure & happiness, and his source for the ending of the effluents has been activated. Which six?
 
-“There is the case where a monk is one who delights in the Dhamma, one who delights in developing (skillful qualities), one who delights in abandoning (unskillful qualities), one who delights in seclusion, one who delights in the unafflicted,[1](#^[[an6-thanissaro]].78note01) one who delights in non-objectification.[2](#^[[an6-thanissaro]].78note02) ^[[an6-thanissaro]].78note01-ref ^[[an6-thanissaro]].78note02-ref
+“There is the case where a bhikkhu is one who delights in the Dhamma, one who delights in developing (skillful qualities), one who delights in abandoning (unskillful qualities), one who delights in seclusion, one who delights in the unafflicted,[1](#^[[an6-thanissaro]].78note01) one who delights in non-objectification.[2](#^[[an6-thanissaro]].78note02) ^[[an6-thanissaro]].78note01-ref ^[[an6-thanissaro]].78note02-ref
 
-“Endowed with these six qualities, a monk dwells in the here & now with an abundance of pleasure & happiness, and his source for the ending of the effluents has been activated.”
+“Endowed with these six qualities, a bhikkhu dwells in the here & now with an abundance of pleasure & happiness, and his source for the ending of the effluents has been activated.”
 
 ### Notes
 

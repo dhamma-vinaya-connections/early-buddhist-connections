@@ -16,7 +16,7 @@ Translated by Charles Patton
 
 ### 3. Govinda
 
-1. Thus I have heard: One time, the Buddha was staying on Mount Gṛdhrakūṭa near Rājagṛha. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying on Mount Gṛdhrakūṭa near Rājagṛha. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 #### Pañcaśikha Visits the Buddha
 
@@ -69,7 +69,7 @@ The Buddha said, “You may tell me if you like.”
 
 12. “‘Gentlemen, the Tathāgata has achieved a following of warriors, priests, householders, and ascetics. Wise is the following achieved by the Tathāgata. I’ve not seen a Tathāgata, Arhat, and Completely Awakened One in the past, future, or present achieve a following like the Buddha has.
 
-13. “‘Gentlemen, the Tathāgata has achieved a great assembly known as monks, nuns, laymen, and laywomen. I’ve not seen a Tathāgata, Arhat, and Completely Awakened One in the past, future, or present accomplish a great assembly like the Buddha has.
+13. “‘Gentlemen, the Tathāgata has achieved a great assembly known as bhikkhus, nuns, laymen, and laywomen. I’ve not seen a Tathāgata, Arhat, and Completely Awakened One in the past, future, or present accomplish a great assembly like the Buddha has.
 
 14. “‘Gentlemen, the Tathāgata’s words and actions correspond. He does what he says, and he says what he does. Thus, he has achieved one teaching and the next. I’ve not seen a Tathāgata, Arhat, and Completely Awakened One in the past, future, or present whose words and actions correspond and achieve one teaching and the next like the Buddha.
 

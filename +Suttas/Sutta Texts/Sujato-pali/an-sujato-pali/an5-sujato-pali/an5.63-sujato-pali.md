@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a male noble disciple who grows in five ways grows nobly, taking on what is essential and excellent in this life. What five? He grows in faith, ethics, learning, generosity, and wisdom. A male noble disciple who grows in these five ways grows nobly, taking on what is essential and excellent in this life.
+1“bhikkhus, a male noble disciple who grows in five ways grows nobly, taking on what is essential and excellent in this life. What five? He grows in faith, ethics, learning, generosity, and wisdom. A male noble disciple who grows in these five ways grows nobly, taking on what is essential and excellent in this life.
 
 
 2He who grows in faith and ethics,  

@@ -18,7 +18,7 @@ The brahmin who was a heterodox practitioner asked further: Concerning these vie
 
 The brahmin who was a heterodox practitioner said, “I now take refuge in Ānanda.”
 
-The venerable Ānanda told him, “Brahmin, do not take refuge in me. Since I myself have taken refuge in the Buddha, you too should take refuge in him.” The brahmin who was a heterodox practitioner said: Ānanda, I now take refuge in the Buddha, the Dharma, and the Sangha of monks. May the World-honored One receive me as a lay disciple,^403 from this day on until the end of life, I take refuge for my whole life. This is what the venerable Ānanda said. Having heard what the venerable Ānanda said, the brahmin who [formerly] was a heterodox practitioner was delighted and received it respectfully.
+The venerable Ānanda told him, “Brahmin, do not take refuge in me. Since I myself have taken refuge in the Buddha, you too should take refuge in him.” The brahmin who was a heterodox practitioner said: Ānanda, I now take refuge in the Buddha, the Dharma, and the Sangha of bhikkhus. May the World-honored One receive me as a lay disciple,^403 from this day on until the end of life, I take refuge for my whole life. This is what the venerable Ānanda said. Having heard what the venerable Ānanda said, the brahmin who [formerly] was a heterodox practitioner was delighted and received it respectfully.
 
 
 ---

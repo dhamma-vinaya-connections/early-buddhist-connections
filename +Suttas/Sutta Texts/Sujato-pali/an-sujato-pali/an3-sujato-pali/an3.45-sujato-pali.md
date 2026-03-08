@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these three things are recommended by wise and good people. What three? Giving, going forth, and taking care of your mother and father. These are the three things recommended by wise and good people.
+1“bhikkhus, these three things are recommended by wise and good people. What three? Giving, going forth, and taking care of your mother and father. These are the three things recommended by wise and good people.
 
 
 2The virtuous recommend giving,  

@@ -25,7 +25,7 @@ language: "English - Pali"
 Then Uggaha, Meṇḍaka’s grandson, went up to the Buddha, bowed, sat down to one side, and said to him:
 
 
-2“Sir, may the Buddha please accept tomorrow’s meal from me, together with three other monks.”
+2“Sir, may the Buddha please accept tomorrow’s meal from me, together with three other bhikkhus.”
 
 The Buddha consented in silence. Then, knowing that the Buddha had consented, Uggaha got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 

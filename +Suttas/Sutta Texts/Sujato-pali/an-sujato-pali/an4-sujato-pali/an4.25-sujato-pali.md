@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, this spiritual life is not lived for the sake of deceiving people or flattering them, nor for the benefit of possessions, honor, or popularity, nor for the benefit of winning debates, nor thinking, ‘So let people know about me!’ This spiritual life is lived for the sake of restraint, giving up, fading away, and cessation.
+1“bhikkhus, this spiritual life is not lived for the sake of deceiving people or flattering them, nor for the benefit of possessions, honor, or popularity, nor for the benefit of winning debates, nor thinking, ‘So let people know about me!’ This spiritual life is lived for the sake of restraint, giving up, fading away, and cessation.
 
 2The Buddha taught the spiritual life  
 not because of tradition,  

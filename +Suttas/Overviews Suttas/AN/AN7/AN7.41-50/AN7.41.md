@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Skilled at samadhi , entering, remaining emerging, gladdening the mind for, samadhi, mindfulness meditation subjects for samadhi and projecting the mind purified by it
 > 
-> A mendicant with these seven qualities masters their mind and is not mastered by it.”
+> A bhikkhu with these seven qualities masters their mind and is not mastered by it.”
 > 
 
 

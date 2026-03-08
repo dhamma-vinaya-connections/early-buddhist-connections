@@ -16,7 +16,7 @@ Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –
 
 ‘‘Tathāgataṃ, bhikkhave, arahantaṃ sammāsambuddhaṃ dve vitakkā bahulaṃ samudācaranti – khemo ca vitakko, paviveko ca [viveko ca (syā.)]. Abyāpajjhārāmo [abyāpajjārāmo (ka.), abyābajjhārāmo (?)], bhikkhave, tathāgato abyāpajjharato. Tamenaṃ, bhikkhave, tathāgataṃ abyāpajjhārāmaṃ abyāpajjharataṃ eseva vitakko bahulaṃ samudācarati – ‘imāyāhaṃ iriyāya na kiñci byābādhemi tasaṃ vā thāvaraṃ vā’ti.
 
-"Monks, two thoughts frequently occur to the Tathāgata, the Arahant, the Perfectly Self-Enlightened One: the thought of security and the thought of seclusion. The Tathāgata, monks, delights in non-affliction, takes pleasure in non-affliction. To the Tathāgata, monks, who delights in non-affliction, takes pleasure in non-affliction, this thought frequently occurs: 'By this mode of conduct, may I not afflict any being, whether trembling or firm.'
+"bhikkhus, two thoughts frequently occur to the Tathāgata, the Arahant, the Perfectly Self-Enlightened One: the thought of security and the thought of seclusion. The Tathāgata, bhikkhus, delights in non-affliction, takes pleasure in non-affliction. To the Tathāgata, bhikkhus, who delights in non-affliction, takes pleasure in non-affliction, this thought frequently occurs: 'By this mode of conduct, may I not afflict any being, whether trembling or firm.'
 
 ‘‘Pavivekārāmo, bhikkhave, tathāgato pavivekarato. Tamenaṃ, bhikkhave, tathāgataṃ pavivekārāmaṃ pavivekarataṃ eseva vitakko bahulaṃ samudācarati – ‘yaṃ akusalaṃ taṃ pahīna’nti.
 

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 59
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Endowed with three qualities, monks, a monk has passed beyond Māra’s domain and shines like the sun. Which three? There is the case where a monk is endowed with the aggregate of virtue of one beyond training [i.e., an Arahant], the aggregate of samādhi of one beyond training, the aggregate of discernment of one beyond training. Endowed with these three qualities a monk has passed beyond Māra’s domain and shines like the sun.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Endowed with three qualities, bhikkhus, a bhikkhu has passed beyond Māra’s domain and shines like the sun. Which three? There is the case where a bhikkhu is endowed with the aggregate of virtue of one beyond training [i.e., an Arahant], the aggregate of samādhi of one beyond training, the aggregate of discernment of one beyond training. Endowed with these three qualities a bhikkhu has passed beyond Māra’s domain and shines like the sun.”
 
 Virtue, samādhi, discernment:
 

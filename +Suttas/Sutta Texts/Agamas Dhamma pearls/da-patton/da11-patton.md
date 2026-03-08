@@ -16,15 +16,15 @@ Translated by Charles Patton
 
 ### 11. Increasing One by One
 
-1. Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. He was accompanied by a great assembly of 1,250 bhikkhus.
 
-2. It was then that the Bhagavān addressed the monks, “I will give you a discourse on the sublime teaching in which all the words in the beginning, middle, and end are true, the content and expression are pure, and the religious life is perfected. It’s called the teaching that increases one by one. All of you, listen closely and consider it well! I will teach it for you.”
+2. It was then that the Bhagavān addressed the bhikkhus, “I will give you a discourse on the sublime teaching in which all the words in the beginning, middle, and end are true, the content and expression are pure, and the religious life is perfected. It’s called the teaching that increases one by one. All of you, listen closely and consider it well! I will teach it for you.”
 
-The monks then accepted the teaching and listened.
+The bhikkhus then accepted the teaching and listened.
 
 #### The Ones
 
-3. The Buddha told the monks, “This is the teaching that increases one by one: There’s one thing to be achieved, one thing to be cultivated, one thing to be recognized, one thing to be ceased, and one thing to be realized.
+3. The Buddha told the bhikkhus, “This is the teaching that increases one by one: There’s one thing to be achieved, one thing to be cultivated, one thing to be recognized, one thing to be ceased, and one thing to be realized.
 
 4. “What’s the one thing to be achieved? It’s not abandoning the good Dharma. What’s the one thing to be cultivated? Constant mindfulness of oneself. What’s the one thing to be recognized? Contaminated contact. What’s the one thing to be ceased? The conceit of having a self. What’s the one thing to be realized? It’s the freedom of an unobstructed mind.
 
@@ -170,11 +170,11 @@ The monks then accepted the teaching and listened.
 
 66. “What are ten things to be realized? The ten teachings of the adept: right view, right intention, right speech, right action, right livelihood, right method, right mindfulness, right _samādhi_, right liberation, and right knowledge.
 
-67. “Monks, this is called the teaching that increases one by one. Now, I’ve explained that teaching for you in this way. I’m the Tathāgata; I’ve provided all that I should for you. Having compassionately and courteously instructed you, you ought to endeavor to put it into practice.
+67. “bhikkhus, this is called the teaching that increases one by one. Now, I’ve explained that teaching for you in this way. I’m the Tathāgata; I’ve provided all that I should for you. Having compassionately and courteously instructed you, you ought to endeavor to put it into practice.
 
-68. “Monks, you should go to a quiet place under a tree or in an empty dwelling and diligently sit in meditation. Don’t be self-indulgent. What profit is there in not exerting yourself today and regretting it later? This is my teaching; be diligent in accepting and maintaining it.”
+68. “bhikkhus, you should go to a quiet place under a tree or in an empty dwelling and diligently sit in meditation. Don’t be self-indulgent. What profit is there in not exerting yourself today and regretting it later? This is my teaching; be diligent in accepting and maintaining it.”
 
-69. When the monks heard what the Buddha taught, they rejoiced and approved.
+69. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

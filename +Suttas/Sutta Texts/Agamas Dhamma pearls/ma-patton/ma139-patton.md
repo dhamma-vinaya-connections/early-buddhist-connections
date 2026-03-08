@@ -17,7 +17,7 @@ language: "English"
 
 139. The Path of Calming
 1. Thus I have heard:[1](#^ma139note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove.
-2. It was then that the Bhagavān addressed the monks, “Junior monks who’ve recently accomplished the precepts should frequently resort to the path of calming by contemplating these signs:[2](#^ma139note02) signs of bones, blueness, rot, being eaten, and the skeleton. Once these signs have been well perceived and retained, they should return to their residence. They should then wash their hands and feet, spread out their sitting mat, sit down cross-legged on that seat, and recollect these signs: signs of bones, blueness, rot, being eaten, and the skeleton. Why is that? If that monk develops these signs, he will quickly rid his mind of the illnesses of desire and dislike.”
+2. It was then that the Bhagavān addressed the bhikkhus, “Junior bhikkhus who’ve recently accomplished the precepts should frequently resort to the path of calming by contemplating these signs:[2](#^ma139note02) signs of bones, blueness, rot, being eaten, and the skeleton. Once these signs have been well perceived and retained, they should return to their residence. They should then wash their hands and feet, spread out their sitting mat, sit down cross-legged on that seat, and recollect these signs: signs of bones, blueness, rot, being eaten, and the skeleton. Why is that? If that monk develops these signs, he will quickly rid his mind of the illnesses of desire and dislike.”
 3. Thereupon, the Bhagavān spoke these verses:
 - “If a junior monk’s training    
     Has yet to yield a calm mind,    
@@ -32,7 +32,7 @@ language: "English"
     Observe them eaten by birds and insects    
     And their bones linked together with sinews.[4](#^ma139note04)
 - Having developed these signs,    
-    [Junior monks] return to their homes,    
+    [Junior bhikkhus] return to their homes,    
     Wash their hands and feet,    
     Prepare a seat, and sit upright.
 - They should contemplate truly    
@@ -65,7 +65,7 @@ language: "English"
     They are rid of all ignorance.    
     When they produce pure insight,    
     A monk reaches the end of suffering.”
-4. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved. ^ma139note01-ref ^ma139note02-ref ^ma139note03-ref ^ma139note04-ref ^ma139note05-ref ^ma139note06-ref
+4. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved. ^ma139note01-ref ^ma139note02-ref ^ma139note03-ref ^ma139note04-ref ^ma139note05-ref ^ma139note06-ref
 
 ---
 
@@ -74,7 +74,7 @@ language: "English"
 ^ma139note01
 1. For the source text, cf. [T26.1.646c9-7a14]. The Taisho editors suggest [Snp 1.11] as a parallel. These two texts share the same general topic of contemplating the perceptions of impurity, but they do not appear to descend from a common source. Perhaps they are inspired by only a verse or two summarizing the meditations on impurity.  
     Buddhaghosa reports two origin stories for Snp 1.11 in his commentary. The first teaching was said to be for the benefit of a nun who was still attached to her own beauty by making her realize its impermanence. The second teaching was to correct a monk after a beautiful laywoman who had supported him passed away.  
-    The brief background provided here in MĀ 139 seems to be in a different context of teaching junior monks in general. Also, the verses here begin by saying a monk calms his feelings of dislike by contemplating the bodies of all sentient beings, which then makes him feel compassion for them. I would think the origin story for MĀ 139 would’ve been different from the two stories that Buddhaghosa tells us (both of which involve not a small amount of mysogyny). 
+    The brief background provided here in MĀ 139 seems to be in a different context of teaching junior bhikkhus in general. Also, the verses here begin by saying a monk calms his feelings of dislike by contemplating the bodies of all sentient beings, which then makes him feel compassion for them. I would think the origin story for MĀ 139 would’ve been different from the two stories that Buddhaghosa tells us (both of which involve not a small amount of mysogyny). 
 
 [↩︎](#^ma139note01-ref)
 

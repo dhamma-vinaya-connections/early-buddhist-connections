@@ -43,7 +43,7 @@ replied the Buddha,
 For whatever a person grasps in the world,  
 Māra pursues them right there.
 
-1104 So let a mindful mendicant who understands  
+1104 So let a mindful bhikkhu who understands  
 not grasp anything in all the world,  
 observing that, in clinging to attachments,  
 these people cling to the domain of death.”

@@ -2,7 +2,7 @@
 sutta_code: "AN5.239"
 sutta_title:
   - "Anukampa "
-  - "Compassionate Mendicant"
+  - "Compassionate bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -14,15 +14,15 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### XXIV. A Resident Mendicant — AN 5.239: Stinginess (1st)
+### XXIV. A Resident bhikkhu — AN 5.239: Stinginess (1st)
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a resident mendicant with five qualities is cast down to hell. What five? They’re stingy regarding monasteries, families, material possessions, and praise. And they waste a gift given in faith. A resident mendicant with these five qualities is cast down to hell.
+1“bhikkhus, a resident bhikkhu with five qualities is cast down to hell. What five? They’re stingy regarding monasteries, families, material possessions, and praise. And they waste a gift given in faith. A resident bhikkhu with these five qualities is cast down to hell.
 
-2A resident mendicant with five qualities is raised up to heaven. What five? They’re not stingy regarding monasteries, families, material possessions, and praise. And they don’t waste a gift given in faith. A resident mendicant with these five qualities is raised up to heaven.”
+2A resident bhikkhu with five qualities is raised up to heaven. What five? They’re not stingy regarding monasteries, families, material possessions, and praise. And they don’t waste a gift given in faith. A resident bhikkhu with these five qualities is raised up to heaven.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu yathābhataṁ nikkhitto evaṁ niraye. Katamehi pañcahi? Āvāsamaccharī hoti; kulamaccharī hoti; lābhamaccharī hoti; vaṇṇamaccharī hoti; saddhādeyyaṁ vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato āvāsiko bhikkhu yathābhataṁ nikkhitto evaṁ niraye.
 

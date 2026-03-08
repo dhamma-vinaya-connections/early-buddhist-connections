@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 12: Groups of Twelve Verses
 
@@ -99,7 +99,7 @@ I humbled my heart
 and paid respects to many people.
 
 622Then I saw the Buddha  
-at the fore of the mendicant Saṅgha;  
+at the fore of the bhikkhu Saṅgha;  
 the great hero  
 was entering the capital city of the Magadhans.
 
@@ -115,7 +115,7 @@ for the going-forth.
 
 625Then the Teacher, being sympathetic,  
 and having sympathy for the whole world,  
-said to me, “Come, monk!”  
+said to me, “Come, bhikkhu!”  
 That was my ordination.
 
 626Staying alone in the wilderness,  

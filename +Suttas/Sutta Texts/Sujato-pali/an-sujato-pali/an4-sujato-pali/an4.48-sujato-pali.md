@@ -22,18 +22,18 @@ language: "English - Pali"
 
 1At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Now at that time Venerable Visākha, Pañcāli’s son, was educating, encouraging, firing up, and inspiring the mendicants in the assembly hall with a Dhamma talk. His words were polished, clear, articulate, expressing the meaning, comprehensive, and independent.
+Now at that time Venerable Visākha, Pañcāli’s son, was educating, encouraging, firing up, and inspiring the bhikkhus in the assembly hall with a Dhamma talk. His words were polished, clear, articulate, expressing the meaning, comprehensive, and independent.
 
 
-Then in the late afternoon, the Buddha came out of retreat and went to the assembly hall. He sat down on the seat spread out, and addressed the mendicants,
+Then in the late afternoon, the Buddha came out of retreat and went to the assembly hall. He sat down on the seat spread out, and addressed the bhikkhus,
 
 
-2“Mendicants, who was educating, encouraging, firing up, and inspiring the mendicants in the assembly hall with a Dhamma talk?”
+2“bhikkhus, who was educating, encouraging, firing up, and inspiring the bhikkhus in the assembly hall with a Dhamma talk?”
 
 “Sir, it was Venerable Visākha, Pañcāli’s son.”
 
 
-3Then the Buddha said to Visākha: “Good, good, Visākha! It’s good that you educate, encourage, fire up, and inspire the mendicants in the assembly hall with a Dhamma talk, with words that are polished, clear, articulate, expressing the meaning, comprehensive, and independent.
+3Then the Buddha said to Visākha: “Good, good, Visākha! It’s good that you educate, encourage, fire up, and inspire the bhikkhus in the assembly hall with a Dhamma talk, with words that are polished, clear, articulate, expressing the meaning, comprehensive, and independent.
 
 
 4Though an astute person is mixed up with fools,  

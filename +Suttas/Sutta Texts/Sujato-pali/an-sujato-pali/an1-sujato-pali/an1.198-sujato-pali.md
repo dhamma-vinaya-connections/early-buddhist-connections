@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“The foremost of my monk disciples in creating a mind-made body is Cūḷapanthaka.
+1“The foremost of my bhikkhu disciples in creating a mind-made body is Cūḷapanthaka.
 
 2 … who are skilled in the evolution of consciousness is Cūḷapanthaka.
 

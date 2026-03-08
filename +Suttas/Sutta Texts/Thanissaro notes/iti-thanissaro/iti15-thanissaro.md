@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 15
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, I don’t envision even one other fetter–fettered by which beings conjoined go wandering & transmigrating on for a long, long time–like the fetter of craving. Fettered with the fetter of craving, beings conjoined go wandering & transmigrating on for a long, long time.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, I don’t envision even one other fetter–fettered by which beings conjoined go wandering & transmigrating on for a long, long time–like the fetter of craving. Fettered with the fetter of craving, beings conjoined go wandering & transmigrating on for a long, long time.”
 
 With craving his companion, a man
 
@@ -34,9 +34,9 @@ free               from craving,
 
 devoid of clinging,
 
-mindful,               the monk
+mindful,               the bhikkhu
 
-lives the mendicant life.
+lives the bhikkhu life.
 
 See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [§105](iti105.html); [[/snp3.12-thanissaro]]
 

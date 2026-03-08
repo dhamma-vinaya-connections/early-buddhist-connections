@@ -17,7 +17,7 @@ language: "English"
 
 7. A Man’s Perception
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “I don’t see a single thing in this assembly so supreme and sublime that prevents the benighted worldly person from reaching eternal peace and chains them in a prison where they have no freedom. That is, when a man sees a woman’s form, he becomes attached to the perceptions it produces. A man’s mind craves and esteems it so much that it prevents him from reaching eternal peace and chains him in a prison where he has no freedom. His mind won’t abandon it, and then he goes round and round being reborn. In this world and the next, he circulates among the five destinies for numerous eons.”<a id="fnref2"></a>[^2]
+2. It was then that the Bhagavān addressed the bhikkhus, “I don’t see a single thing in this assembly so supreme and sublime that prevents the benighted worldly person from reaching eternal peace and chains them in a prison where they have no freedom. That is, when a man sees a woman’s form, he becomes attached to the perceptions it produces. A man’s mind craves and esteems it so much that it prevents him from reaching eternal peace and chains him in a prison where he has no freedom. His mind won’t abandon it, and then he goes round and round being reborn. In this world and the next, he circulates among the five destinies for numerous eons.”<a id="fnref2"></a>[^2]
 3. The Bhagavān then spoke in verse:
 - “With Brahma’s gentle voice,    
     The Tathāgata says what’s hard to see.    
@@ -27,8 +27,8 @@ language: "English"
     For rebirth goes with her talk.    
     She hunts for a man with a net,    
     And keeps him from reaching the unconditioned.”
-4. “Therefore, monks, one should abandon forms. Don’t become attached to the perceptions they produce. Thus, monks, you should train yourselves.”
-5. When the monks heard what the Buddha taught, they rejoiced and approved.
+4. “Therefore, bhikkhus, one should abandon forms. Don’t become attached to the perceptions they produce. Thus, bhikkhus, you should train yourselves.”
+5. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

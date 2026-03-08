@@ -2,7 +2,7 @@
 sutta_code: "AN7.26"
 sutta_title:
   - "Bhikkhu-Aparihaniya "
-  - "Non-Decline For Mendicants"
+  - "Non-Decline For bhikkhus"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1-2“Mendicants, I will teach you seven principles that prevent decline. Listen and pay close attention … And what are the seven principles that prevent decline?  
+1-2“bhikkhus, I will teach you seven principles that prevent decline. Listen and pay close attention … And what are the seven principles that prevent decline?  
   
-As long as the mendicants develop the awakening factor of mindfulness … investigation of principles … energy … rapture … tranquility … immersion … equanimity, they can expect growth, not decline.
+As long as the bhikkhus develop the awakening factor of mindfulness … investigation of principles … energy … rapture … tranquility … immersion … equanimity, they can expect growth, not decline.
 
-3As long as these seven principles that prevent decline last among the mendicants, and as long as the mendicants are seen following them, they can expect growth, not decline.”
+3As long as these seven principles that prevent decline last among the bhikkhus, and as long as the bhikkhus are seen following them, they can expect growth, not decline.”
 
 1"Satta vo, bhikkhave, aparihāniye dhamme desessāmi. Taṁ suṇātha, sādhukaṁ manasi karotha … pe … katame ca, bhikkhave, satta aparihāniyā dhammā?
 

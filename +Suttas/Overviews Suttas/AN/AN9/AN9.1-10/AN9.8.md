@@ -49,7 +49,7 @@ parallels_partilal: "[[DN29]], [[DA17]], [[AN9.8]], [[MN76]]"
 > [!info] Key Excerpts 
 > Can't kill, steal, sex, lie, keep goods, make decisions prejudiced by favoritism, hostility, stupidity, or cowardice, and can’t abandon the Buddha , the teaching, the saṅgha, or the training
 > 
-> A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment
+> A bhikkhu who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment
 > 
 
 

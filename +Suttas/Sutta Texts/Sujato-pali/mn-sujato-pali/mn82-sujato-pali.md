@@ -18,12 +18,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was wandering in the land of the Kurus together with a large Saṅgha of mendicants when he arrived at a town of the Kurus named Thullakoṭṭhita.
+1So I have heard. At one time the Buddha was wandering in the land of the Kurus together with a large Saṅgha of bhikkhus when he arrived at a town of the Kurus named Thullakoṭṭhita.
 
 The brahmins and householders of Thullakoṭṭhita heard:
 
 
-“It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — has arrived at Thullakoṭṭhita, together with a large Saṅgha of mendicants. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.”
+“It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — has arrived at Thullakoṭṭhita, together with a large Saṅgha of bhikkhus. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.”
 
 
 2Then the brahmins and householders of Thullakoṭṭhita went up to the Buddha. Before sitting down to one side, some bowed, some exchanged greetings and polite conversation, some held up their joined palms toward the Buddha, some announced their name and clan, while some kept silent. When they were seated, the Buddha educated, encouraged, fired up, and inspired them with a Dhamma talk.

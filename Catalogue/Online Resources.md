@@ -49,7 +49,7 @@ theme:
 	- Online Pāli Canon in multiple scripts, with line-by-line text navigation.
 - [**Digital Pāli Reader (web)**](https://www.digitalpalireader.online/_dprhtml/index.html)
 	- Browser-based version of the classic DPR: instant word lookup and dictionary integration.
-- [**Tipitaka Pali Reader**](https://americanmonk.org/tipitaka-pali-reader/)
+- [**Tipitaka Pali Reader**](https://americanbhikkhu.org/tipitaka-pali-reader/)
 	- Reader app with integrated dictionaries and search, designed for Pāli Canon study.
 - [**Tipitaka.app**](https://tipitaka.app/index.html)
 	- Mobile-friendly web app for browsing the Pāli Canon.

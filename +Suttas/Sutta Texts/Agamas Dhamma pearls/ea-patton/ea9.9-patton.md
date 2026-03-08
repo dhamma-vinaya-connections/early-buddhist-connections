@@ -17,10 +17,10 @@ language: "English"
 
 9. Notions of Desire
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “In this assembly, I don’t see a single thing that produces notions of desire where there are none and increases notions of the desire that have arisen … produces anger where there is none and increases anger that has arisen … produces sleepiness where there is none and increases sleepiness that has arisen … produces agitation where there is none and increases agitation that has arisen … produces doubt where there is none and increases doubt that has arisen …
+2. It was then that the Bhagavān addressed the bhikkhus, “In this assembly, I don’t see a single thing that produces notions of desire where there are none and increases notions of the desire that have arisen … produces anger where there is none and increases anger that has arisen … produces sleepiness where there is none and increases sleepiness that has arisen … produces agitation where there is none and increases agitation that has arisen … produces doubt where there is none and increases doubt that has arisen …
 3. “One should contemplate the foul discharges and perceptions of impurity. If one becomes distracted,<a id="fnref2"></a>[^2] then notions of desire will arise where there were none and notions of desire that have arisen will increase … anger … sleepiness … [agitation] … notions of doubt will arise where there were none and doubts that have arisen will increase.
-4. “Therefore, monks, don’t become distracted and keep your thinking focused. Thus, monks, you should train yourselves.”
-5. When the monks heard what the Buddha taught, they rejoiced and approved of it.
+4. “Therefore, bhikkhus, don’t become distracted and keep your thinking focused. Thus, bhikkhus, you should train yourselves.”
+5. When the bhikkhus heard what the Buddha taught, they rejoiced and approved of it.
 
 ---
 

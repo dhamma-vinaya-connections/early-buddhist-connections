@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 621. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū kabaḷāvacchedakaṃ bhuñjanti…pe….
 
-## 621.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six monks were eating by breaking off mouthfuls…and so on.
+## 621.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six bhikkhus were eating by breaking off mouthfuls…and so on.
 
 ‘‘Na kabaḷāvacchedakaṃ bhuñjissāmīti sikkhā karaṇīyā’’ti.
 

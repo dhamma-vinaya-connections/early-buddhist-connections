@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these six topics for recollection. What six?
+1“bhikkhus, there are these six topics for recollection. What six?
 
 Firstly, a noble disciple recollects the Realized One: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ When a noble disciple recollects the Realized One their mind is not full of greed, hate, and delusion. At that time their mind is unswerving. They’ve left behind greed; they’re free of it and have risen above it. ‘Greed’ is a term for the five kinds of sensual stimulation. Relying on this some sentient beings are purified.
 

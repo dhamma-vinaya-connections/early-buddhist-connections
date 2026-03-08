@@ -18,7 +18,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
@@ -37,18 +37,18 @@ A fool experiences three kinds of suffering and sadness in the present life.
 
 And if there’s anything of which it may be rightly said that it is utterly unlikable, undesirable, and disagreeable, it is of hell that this should be said. So much so that it’s not easy to give a simile for how painful hell is.”
 
-7When he said this, one of the mendicants asked the Buddha: “But sir, is it possible to give a simile?”
+7When he said this, one of the bhikkhus asked the Buddha: “But sir, is it possible to give a simile?”
 
 “It’s possible,” said the Buddha.
 
 “Suppose they arrest a bandit, a criminal and present him to the king, saying, ‘Your Majesty, this is a bandit, a criminal. Punish him as you will.’ The king would say, ‘Go, my men, and strike this man in the morning with a hundred spears!’ The king’s men did as they were told. Then at midday the king would say, ‘My men, how is that man?’ ‘He’s still alive, Your Majesty.’ The king would say, ‘Go, my men, and strike this man in the midday with a hundred spears!’ The king’s men did as they were told. Then late in the afternoon the king would say, ‘My men, how is that man?’ ‘He’s still alive, Your Majesty.’ The king would say, ‘Go, my men, and strike this man in the late afternoon with a hundred spears!’ The king’s men did as they were told.
 
-What do you think, mendicants? Would that man experience pain and distress from being struck with three hundred spears?”
+What do you think, bhikkhus? Would that man experience pain and distress from being struck with three hundred spears?”
 
 “Sir, that man would experience pain and distress from being struck with one spear, let alone three hundred spears!”
 
 
-8Then the Buddha, picking up a stone the size of his palm, addressed the mendicants: “What do you think, mendicants? Which is bigger: the stone the size of my palm that I’ve picked up, or the Himalayas, the king of mountains?”
+8Then the Buddha, picking up a stone the size of his palm, addressed the bhikkhus: “What do you think, bhikkhus? Which is bigger: the stone the size of my palm that I’ve picked up, or the Himalayas, the king of mountains?”
 
 “Sir, the stone you’ve picked up is tiny. Compared to the Himalayas, it doesn’t even count, it’s not even a fraction, there’s no comparison.”
 
@@ -82,7 +82,7 @@ a hundred leagues around.’
 
 12I could tell you many different things about hell. So much so that it’s not easy to completely describe the suffering in hell.
 
-13There are, mendicants, animals that feed on grass. They eat by cropping fresh or dried grass with their teeth. And what animals feed on grass? Elephants, horses, cattle, donkeys, goats, deer, and various others. A fool who used to be a glutton here and did bad deeds here, when their body breaks up, after death, is reborn in the company of those sentient beings who feed on grass.
+13There are, bhikkhus, animals that feed on grass. They eat by cropping fresh or dried grass with their teeth. And what animals feed on grass? Elephants, horses, cattle, donkeys, goats, deer, and various others. A fool who used to be a glutton here and did bad deeds here, when their body breaks up, after death, is reborn in the company of those sentient beings who feed on grass.
 
 14There are animals that feed on dung. When they catch a whiff of dung they run to it, thinking, ‘There we’ll eat! There we’ll eat!’ It’s like when brahmins smell a burnt offering, they run to it, thinking, ‘There we’ll eat! There we’ll eat!’ In the same way, there are animals that feed on dung. When they catch a whiff of dung they run to it, thinking, ‘There we’ll eat! There we’ll eat!’ And what animals feed on dung? Chickens, pigs, dogs, jackals, and various others. A fool who used to be a glutton here and did bad deeds here, after death is reborn in the company of those sentient beings who feed on dung.
 
@@ -95,9 +95,9 @@ a hundred leagues around.’
 18I could tell you many different things about the animal realm. So much so that it’s not easy to completely describe the suffering in the animal realm.
 
 
-19Mendicants, suppose a person were to throw a yoke with a single hole into the ocean. The east wind wafts it west; the west wind wafts it east; the north wind wafts it south; and the south wind wafts it north. And there was a one-eyed turtle who popped up once every hundred years.
+19bhikkhus, suppose a person were to throw a yoke with a single hole into the ocean. The east wind wafts it west; the west wind wafts it east; the north wind wafts it south; and the south wind wafts it north. And there was a one-eyed turtle who popped up once every hundred years.
 
-What do you think, mendicants? Would that one-eyed turtle still poke its neck through the hole in that yoke?”
+What do you think, bhikkhus? Would that one-eyed turtle still poke its neck through the hole in that yoke?”
 
 “No, sir. Only after a very long time, sir, if ever.”
 
@@ -123,7 +123,7 @@ An astute person experiences three kinds of pleasure and happiness in the presen
 And if there’s anything of which it may be rightly said that it is utterly likable, desirable, and agreeable, it is of heaven that this should be said. So much so that it’s not easy to give a simile for how pleasurable heaven is.”
 
 
-26When he said this, one of the mendicants asked the Buddha: “But sir, is it possible to give a simile?”
+26When he said this, one of the bhikkhus asked the Buddha: “But sir, is it possible to give a simile?”
 
 “It’s possible,” said the Buddha.
 
@@ -170,12 +170,12 @@ A wheel-turning monarch is attractive, good-looking, lovely, of surpassing beaut
 These are the four blessings possessed by a wheel-turning monarch.
 
 
-42What do you think, mendicants? Would a wheel-turning monarch who possessed these seven treasures and these four blessings experience pleasure and happiness because of them?”
+42What do you think, bhikkhus? Would a wheel-turning monarch who possessed these seven treasures and these four blessings experience pleasure and happiness because of them?”
 
 “Sir, a wheel-turning monarch who possessed even a single one of these treasures would experience pleasure and happiness because of that, let alone all seven treasures and four blessings!”
 
 
-43Then the Buddha, picking up a stone the size of his palm, addressed the mendicants: “What do you think, mendicants? Which is bigger: the stone the size of my palm that I’ve picked up, or the Himalayas, the king of mountains?”
+43Then the Buddha, picking up a stone the size of his palm, addressed the bhikkhus: “What do you think, bhikkhus? Which is bigger: the stone the size of my palm that I’ve picked up, or the Himalayas, the king of mountains?”
 
 “Sir, the stone you’ve picked up is tiny. Compared to the Himalayas, it doesn’t even count, it’s not even a fraction, there’s no comparison.”
 
@@ -186,7 +186,7 @@ These are the four blessings possessed by a wheel-turning monarch.
 Suppose a gambler on the first lucky throw was to win a big pile of money. But such a lucky throw is trivial compared to the lucky throw whereby an astute person, when their body breaks up, after death, is reborn in a good place, a heavenly realm. This is the total fulfillment of the astute person’s level.”
 
 
-45That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+45That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

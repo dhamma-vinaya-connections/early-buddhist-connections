@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 21
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there is the case where a certain person is clear-minded. Having encompassed that mind with [my] awareness, I discern, ‘If this person were to die at this instant, then as if he were to be carried off, he would thus be placed in heaven.’ Why is that? Because his mind is clear. It’s because of clear-mindedness that there are cases where some beings–at the break-up of the body, after death–reappear in a heavenly world.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there is the case where a certain person is clear-minded. Having encompassed that mind with [my] awareness, I discern, ‘If this person were to die at this instant, then as if he were to be carried off, he would thus be placed in heaven.’ Why is that? Because his mind is clear. It’s because of clear-mindedness that there are cases where some beings–at the break-up of the body, after death–reappear in a heavenly world.”
 
 Knowing the case
 
@@ -20,7 +20,7 @@ of a clear-minded person,
 
 the One Awakened explained its meaning
 
-in the presence of the monks.
+in the presence of the bhikkhus.
 
 If that person
 

@@ -16,16 +16,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Rājagaha in the Bamboo Grove, the monks from the group of six were making robes and they asked for a large amount of thread. But when their robes were finished, there was much thread left over. They said, “Well, let’s ask for even more thread and get weavers to weave us robe-cloth.” Yet even when that robe-cloth had been woven, there was much thread left over. A second time they asked for more thread and had weavers weave them robe-cloth. Once again there was much thread left over. A third time they asked for more thread and had weavers weave them robe-cloth. People complained and criticized them, “How could the Sakyan monastics ask for thread and then get weavers to weave them robe-cloth?”
+1At one time when the Buddha was staying at Rājagaha in the Bamboo Grove, the bhikkhus from the group of six were making robes and they asked for a large amount of thread. But when their robes were finished, there was much thread left over. They said, “Well, let’s ask for even more thread and get weavers to weave us robe-cloth.” Yet even when that robe-cloth had been woven, there was much thread left over. A second time they asked for more thread and had weavers weave them robe-cloth. Once again there was much thread left over. A third time they asked for more thread and had weavers weave them robe-cloth. People complained and criticized them, “How could the Sakyan monastics ask for thread and then get weavers to weave them robe-cloth?”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How could the monks from the group of six ask for thread and then get weavers to weave them robe-cloth?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How could the bhikkhus from the group of six ask for thread and then get weavers to weave them robe-cloth?”
 
-3After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned those monks: “Is it true, monks, that you did this?”
+3After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned those bhikkhus: “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -43,7 +43,7 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 8**Weavers:** If he has it woven by weavers, then for every effort there is an act of wrong conduct. When he gets the robe-cloth, it becomes subject to relinquishment.
 
 
-The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this robe-cloth, which I got weavers to weave after asking for the thread myself, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe-cloth back to you.’”

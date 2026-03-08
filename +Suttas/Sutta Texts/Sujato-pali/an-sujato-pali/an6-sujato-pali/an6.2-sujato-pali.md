@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What six?
+1“bhikkhus, a bhikkhu with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What six?
 
-It’s a mendicant who wields the many kinds of psychic power: multiplying themselves and becoming one again; appearing and disappearing; going unimpeded through a wall, a rampart, or a mountain as if through space; diving in and out of the earth as if it were water; walking on water as if it were earth; flying cross-legged through the sky like a bird; touching and stroking with the hand the sun and moon, so mighty and powerful. They control the body as far as the Brahmā realm.
+It’s a bhikkhu who wields the many kinds of psychic power: multiplying themselves and becoming one again; appearing and disappearing; going unimpeded through a wall, a rampart, or a mountain as if through space; diving in and out of the earth as if it were water; walking on water as if it were earth; flying cross-legged through the sky like a bird; touching and stroking with the hand the sun and moon, so mighty and powerful. They control the body as far as the Brahmā realm.
 
 2With clairaudience that is purified and superhuman, they hear both kinds of sounds, human and divine, whether near or far.
 
@@ -37,7 +37,7 @@ It’s a mendicant who wields the many kinds of psychic power: multiplying thems
 
 6They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 
-7A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
+7A bhikkhu with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
 
 1"Chahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti … pe … anuttaraṁ puññakkhettaṁ lokassa. Katamehi chahi?
 

@@ -12,11 +12,11 @@ language: "English"
 
 # Itivuttaka 44
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these two forms of the Unbinding property. Which two? The Unbinding property with fuel remaining, & the Unbinding property with no fuel remaining.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these two forms of the Unbinding property. Which two? The Unbinding property with fuel remaining, & the Unbinding property with no fuel remaining.
 
-“And what is the Unbinding property with fuel remaining? There is the case where a monk is an Arahant whose effluents have ended, who has reached fulfillment, finished the task, laid down the burden, attained the true goal, destroyed the fetter of becoming, and is released through right gnosis. His five sense faculties still remain and, owing to their being intact, he experiences the pleasing & the displeasing, and is sensitive to pleasure & pain. His ending of passion, aversion, & delusion is termed the Unbinding property with fuel remaining.[1](#^iti44note01) ^iti44note01-ref
+“And what is the Unbinding property with fuel remaining? There is the case where a bhikkhu is an Arahant whose effluents have ended, who has reached fulfillment, finished the task, laid down the burden, attained the true goal, destroyed the fetter of becoming, and is released through right gnosis. His five sense faculties still remain and, owing to their being intact, he experiences the pleasing & the displeasing, and is sensitive to pleasure & pain. His ending of passion, aversion, & delusion is termed the Unbinding property with fuel remaining.[1](#^iti44note01) ^iti44note01-ref
 
-“And what is the Unbinding property with no fuel remaining? There is the case where a monk is an Arahant whose effluents have ended, who has reached fulfillment, finished the task, laid down the burden, attained the true goal, destroyed the fetter of becoming, and is released through right gnosis. For him, all that is sensed, being unrelished, will grow cold right here. This is termed the Unbinding property with no fuel remaining.”[1](#^iti44note01) ^iti44note01-ref
+“And what is the Unbinding property with no fuel remaining? There is the case where a bhikkhu is an Arahant whose effluents have ended, who has reached fulfillment, finished the task, laid down the burden, attained the true goal, destroyed the fetter of becoming, and is released through right gnosis. For him, all that is sensed, being unrelished, will grow cold right here. This is termed the Unbinding property with no fuel remaining.”[1](#^iti44note01) ^iti44note01-ref
 
 These two
 

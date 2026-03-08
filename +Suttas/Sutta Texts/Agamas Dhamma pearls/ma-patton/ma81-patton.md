@@ -17,27 +17,27 @@ language: "English"
 
 ### 81. Mindfulness of Body
 
-1. Thus I have heard:[1](#^ma81note01) One time, the Buddha traveled to the country of Aṅga with a group of great monks. They went to Āpaṇa and stayed at Kaineya’s residence. ^ma81note01-ref
+1. Thus I have heard:[1](#^ma81note01) One time, the Buddha traveled to the country of Aṅga with a group of great bhikkhus. They went to Āpaṇa and stayed at Kaineya’s residence. ^ma81note01-ref
 
 #### Introduction
 
 2. After the night passed and the sun rose, the Bhagavān put on his robe and took his bowl into Āpaṇa to solicit alms. When his meal was finished, he put away his robe and bowl, washed his hands and feet, put his sitting mat over his shoulder, and went into a grove in the afternoon. Going into that grove, he spread out his sitting mat under a tree and sat cross-legged there.
 
-3. At the time, a great assembly of monks had gathered in the meeting hall after the midday meal, and they were conversing about this topic: “Good men, the Bhagavān is rare and extraordinary. He cultivates mindfulness of body and discerns and disseminates it. His is the highest knowledge, highest observation, highest cultivation, and highest discipline. He has well perfected good conduct and resides in a unified mind. The Buddha teaches that mindfulness of body has great rewards. One attains the vision and eyes to see the supreme truth.”
+3. At the time, a great assembly of bhikkhus had gathered in the meeting hall after the midday meal, and they were conversing about this topic: “Good men, the Bhagavān is rare and extraordinary. He cultivates mindfulness of body and discerns and disseminates it. His is the highest knowledge, highest observation, highest cultivation, and highest discipline. He has well perfected good conduct and resides in a unified mind. The Buddha teaches that mindfulness of body has great rewards. One attains the vision and eyes to see the supreme truth.”
 
-4. Just then, the Bhagavān was sitting in repose and used the divine ear that transcends that of humans. He heard the monks gathered in the meeting hall after the midday meal conversing about this topic: “Good men, the Bhagavān is rare and extraordinary. He cultivates mindfulness of body and discerns and disseminates it. His is the highest knowledge, highest observation, highest cultivation, and highest discipline. He has well perfected good conduct and resides in a unified mind. The Buddha teaches that mindfulness of body has great rewards. One attains the vision and eyes to see the supreme truth.” After hearing this, the Bhagavān then got up from his repose in the afternoon, went to the meeting hall, prepared his seat in front of the monks, and sat down.
+4. Just then, the Bhagavān was sitting in repose and used the divine ear that transcends that of humans. He heard the bhikkhus gathered in the meeting hall after the midday meal conversing about this topic: “Good men, the Bhagavān is rare and extraordinary. He cultivates mindfulness of body and discerns and disseminates it. His is the highest knowledge, highest observation, highest cultivation, and highest discipline. He has well perfected good conduct and resides in a unified mind. The Buddha teaches that mindfulness of body has great rewards. One attains the vision and eyes to see the supreme truth.” After hearing this, the Bhagavān then got up from his repose in the afternoon, went to the meeting hall, prepared his seat in front of the bhikkhus, and sat down.
 
-5. It was then that the Bhagavān addressed the monks, “What topic have you been discussing together? What was the reason you gathered here in the meeting hall?”
+5. It was then that the Bhagavān addressed the bhikkhus, “What topic have you been discussing together? What was the reason you gathered here in the meeting hall?”
 
-The monks said, “Bhagavān, we monks gathered here in the meeting hall after the midday meal to discuss this topic: ‘Good men, the Bhagavān is rare and extraordinary. He cultivates mindfulness of body and discerns and disseminates it. His is the highest knowledge, highest observation, highest cultivation, and highest discipline. He has well perfected good conduct and resides in a unified mind. The Buddha teaches that mindfulness of body has great rewards. One attains the vision and eyes to see the supreme truth.’ Bhagavān, we’ve been discussing this topic together. This was the reason we gathered here in the meeting hall.”
+The bhikkhus said, “Bhagavān, we bhikkhus gathered here in the meeting hall after the midday meal to discuss this topic: ‘Good men, the Bhagavān is rare and extraordinary. He cultivates mindfulness of body and discerns and disseminates it. His is the highest knowledge, highest observation, highest cultivation, and highest discipline. He has well perfected good conduct and resides in a unified mind. The Buddha teaches that mindfulness of body has great rewards. One attains the vision and eyes to see the supreme truth.’ Bhagavān, we’ve been discussing this topic together. This was the reason we gathered here in the meeting hall.”
 
-6. The Bhagavān again addressed the monks, “How do I teach the cultivation of mindfulness of body, discerning and disseminating it? What great rewards does it attain?”
+6. The Bhagavān again addressed the bhikkhus, “How do I teach the cultivation of mindfulness of body, discerning and disseminating it? What great rewards does it attain?”
 
-The monks then said to the Bhagavān, “The Bhagavān is the Dharma root! The Bhagavān is the Dharma Lord! The Dharma comes from the Bhagavān! May it please him to discuss it. After hearing it, we’ll get a detailed knowledge of its meaning.”
+The bhikkhus then said to the Bhagavān, “The Bhagavān is the Dharma root! The Bhagavān is the Dharma Lord! The Dharma comes from the Bhagavān! May it please him to discuss it. After hearing it, we’ll get a detailed knowledge of its meaning.”
 
 7. The Buddha then told them, “Listen closely, and consider it well. I will discern its meaning for you.”
 
-The monks then accepted the teaching and listened.
+The bhikkhus then accepted the teaching and listened.
 
 #### The Eighteen Practices
 
@@ -117,39 +117,39 @@ The monks then accepted the teaching and listened.
 
 44. “If someone cultivates mindfulness of body and disseminates it in this way, good qualities will be fully present in them, which are the factors of the path. If their mind is filled with mental freedom, it’s like the ocean in which all the small streams are present. If someone cultivates mindfulness of body and thus disseminates it in this way, good qualities will be fully present in them, which are the factors of the path.
 
-45. “If there’s an ascetic or priest who doesn’t correctly establish mindfulness of body and travels around will little thought, then Māra Pāpīyān can surely get an advantage over them. Why is that? It’s because that ascetic or priest is empty and lacks mindfulness of body. They’re like a clay pot that’s empty and lacks water when it’s placed upright on the ground. If someone were to bring water and pour it into the pot, what do you monks think? Will that pot accept the water this way?”
+45. “If there’s an ascetic or priest who doesn’t correctly establish mindfulness of body and travels around will little thought, then Māra Pāpīyān can surely get an advantage over them. Why is that? It’s because that ascetic or priest is empty and lacks mindfulness of body. They’re like a clay pot that’s empty and lacks water when it’s placed upright on the ground. If someone were to bring water and pour it into the pot, what do you bhikkhus think? Will that pot accept the water this way?”
 
-The monks answered, “It would accept it, Bhagavān. Why is that? It’s empty and lacks water, and it’s placed upright on the ground. It therefore will surely accept it.”
+The bhikkhus answered, “It would accept it, Bhagavān. Why is that? It’s empty and lacks water, and it’s placed upright on the ground. It therefore will surely accept it.”
 
 46. “Thus, if an ascetic or priest doesn’t correctly establish mindfulness of body and travels around with little thought, Māra Pāpīyān can surely get an advantage over them. Why is that? That ascetic or priest is empty and lacking mindfulness of body.
 
-47. “If an ascetic or priest correctly establishes mindfulness of body and travels around with measureless thought, then Māra Pāpīyān will never get an advantage over them. Why is that? That ascetic or priest isn’t empty and has mindfulness of body. They’re like a clay pot that’s full of water and placed upright on the ground. If someone were to bring water and pour it into the clay pot, what do you monks think? Would that clay pot accept more water?”
+47. “If an ascetic or priest correctly establishes mindfulness of body and travels around with measureless thought, then Māra Pāpīyān will never get an advantage over them. Why is that? That ascetic or priest isn’t empty and has mindfulness of body. They’re like a clay pot that’s full of water and placed upright on the ground. If someone were to bring water and pour it into the clay pot, what do you bhikkhus think? Would that clay pot accept more water?”
 
-The monks answered, “No, Bhagavān. Why is that? The pot is full of water and placed upright on the ground. It therefore won’t accept it.”
+The bhikkhus answered, “No, Bhagavān. Why is that? The pot is full of water and placed upright on the ground. It therefore won’t accept it.”
 
 48. “Thus, if an ascetic or priest correctly establishes mindfulness of body and travels around with measureless thought, then Māra Pāpīyān will never get an advantage over them. Why is that? That ascetic or priest isn’t empty and has mindfulness of body.
 
-49. “If an ascetic or priest doesn’t correctly establish mindfulness of body and travels around with little thought, then Māra Pāpīyān can surely get an advantage over them. Why is that? That ascetic or priest is empty and lacks mindfulness of body. He’s like a strong man who throws a huge, heavy stone into a mudhole. Monks, what do you think? Would the mud accept it?”
+49. “If an ascetic or priest doesn’t correctly establish mindfulness of body and travels around with little thought, then Māra Pāpīyān can surely get an advantage over them. Why is that? That ascetic or priest is empty and lacks mindfulness of body. He’s like a strong man who throws a huge, heavy stone into a mudhole. bhikkhus, what do you think? Would the mud accept it?”
 
-The monks answered, “It would accept it, Bhagavān. Why is that? A heavy stone sinks in mud. It therefore would accept it.”
+The bhikkhus answered, “It would accept it, Bhagavān. Why is that? A heavy stone sinks in mud. It therefore would accept it.”
 
 50. “Thus, if an ascetic or priest doesn’t correctly establish mindfulness of body and travels around with little thought, then Māra Pāpīyān can surely get an advantage over them. Why is that? That ascetic or priest is empty and lacks mindfulness of body.
 
-51. “If an ascetic or priest correctly establishes mindfulness of body and travels around with measureless thought, then Māra Pāpīyān will never get an advantage over them. Why is that? That ascetic or priest isn’t empty and has mindfulness of body. He’s like a strong man tossing a small ball against a level door. Monks, what do you think? Would it enter the door?”
+51. “If an ascetic or priest correctly establishes mindfulness of body and travels around with measureless thought, then Māra Pāpīyān will never get an advantage over them. Why is that? That ascetic or priest isn’t empty and has mindfulness of body. He’s like a strong man tossing a small ball against a level door. bhikkhus, what do you think? Would it enter the door?”
 
-The monks answered, “No, Bhagavān. Why is that? A small ball bounces off a door that’s level standing. It therefore won’t enter it.”
+The bhikkhus answered, “No, Bhagavān. Why is that? A small ball bounces off a door that’s level standing. It therefore won’t enter it.”
 
 52. “Thus, if an ascetic or priest correctly establishes mindfulness of body and travels around with measureless thought, then Māra Pāpīyān will never get an advantage over him. Why is that? That ascetic or priest isn’t empty and has mindfulness of body.
 
-53. “If an ascetic or priest doesn’t correctly establish mindfulness of body and travels around with little thought, then Māra Pāpīyān can surely get an advantage over them. Why is that? That ascetic or priest is empty and lacks mindfulness of body. He’s like someone seeking fire considers dry wood to be its mother and rubs a dry stick into it. Monks, what do you think? Would that person thus obtain fire?”
+53. “If an ascetic or priest doesn’t correctly establish mindfulness of body and travels around with little thought, then Māra Pāpīyān can surely get an advantage over them. Why is that? That ascetic or priest is empty and lacks mindfulness of body. He’s like someone seeking fire considers dry wood to be its mother and rubs a dry stick into it. bhikkhus, what do you think? Would that person thus obtain fire?”
 
-The monks replied, “They would obtain fire, Bhagavān. Why is that? They’ll surely obtain it by rubbing a dry stick into dry wood.”
+The bhikkhus replied, “They would obtain fire, Bhagavān. Why is that? They’ll surely obtain it by rubbing a dry stick into dry wood.”
 
 54. “Thus, if an ascetic or priest doesn’t correctly establish mindfulness of body and travels around with little thought, then Māra Pāpīyān can surely get an advantage over them. Why is that? That ascetic or priest is empty and lacks mindfulness of body.
 
-55. “If an ascetic or priest correctly establishes mindfulness of body and travels around with measureless thought, then Māra Pāpīyān will never get an advantage over them. Why is that? That ascetic or priest isn’t empty and has mindfulness of body. He’s like someone seeking fire who considers wet wood to be its mother and rubs a wet stick into it. Monks, what do you think? Would that person obtain fire in this way?”
+55. “If an ascetic or priest correctly establishes mindfulness of body and travels around with measureless thought, then Māra Pāpīyān will never get an advantage over them. Why is that? That ascetic or priest isn’t empty and has mindfulness of body. He’s like someone seeking fire who considers wet wood to be its mother and rubs a wet stick into it. bhikkhus, what do you think? Would that person obtain fire in this way?”
 
-The monks answered, “No, Bhagavān. Why is that? They won’t obtain fire by rubbing a wet stick into wet wood.”
+The bhikkhus answered, “No, Bhagavān. Why is that? They won’t obtain fire by rubbing a wet stick into wet wood.”
 
 56. “Thus, if an ascetic or priest correctly establishes mindfulness of body and travels around with measureless thought, then Māra Pāpīyān will never get an advantage over them. Why is that? That ascetic or priest isn’t empty and has mindfulness of body.
 
@@ -175,7 +175,7 @@ The monks answered, “No, Bhagavān. Why is that? They won’t obtain fire by r
 
 66. “Furthermore, that monk attains supernormal abilities … the divine ear … knowledge of other minds … knowledge of past lives … knowledge of birth-and-death … has ended the contaminants. Being uncontaminated, his mind is liberated, and his wisdom is liberated. In the present life, he accomplishes and dwells in his own knowledge, awakening, and direct experience. He truly knows: ‘Birth has been ended, the religious practice has been established, the task has been accomplished, and I will not again be subject to existence.’ This should be known as the thirteenth … eighteenth virtue of someone who cultivates mindfulness of body and disseminates it in this way.”
 
-67. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+67. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

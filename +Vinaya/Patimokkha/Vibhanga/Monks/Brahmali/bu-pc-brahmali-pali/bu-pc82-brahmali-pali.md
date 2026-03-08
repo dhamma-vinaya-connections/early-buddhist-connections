@@ -18,21 +18,21 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, an association had prepared a meal together with robe-cloth for the Sangha. They said, “After giving the food, we’ll offer the robe-cloth.”
 
-But the monks from the group of six went to that association and said, “Please give the robe-cloth to these monks.”
+But the bhikkhus from the group of six went to that association and said, “Please give the robe-cloth to these bhikkhus.”
 
 “Venerables, we can’t do that. We’ve prepared our annual alms-offering together with robe-cloth for the Sangha.”
 
-“The Sangha has many donors and supporters. But since these monks are staying here, they are looking to you for support. If you don’t give to them, who will? So give them the robe-cloth.” Being pressured by the monks from the group of six, that association gave the prepared robe-cloth to those monks and served the food to the Sangha.
+“The Sangha has many donors and supporters. But since these bhikkhus are staying here, they are looking to you for support. If you don’t give to them, who will? So give them the robe-cloth.” Being pressured by the bhikkhus from the group of six, that association gave the prepared robe-cloth to those bhikkhus and served the food to the Sangha.
 
-The monks who knew that a meal together with robe-cloth had been prepared for the Sangha, but not that the robe-cloth had been given to those monks from the group of six, said, “You may offer the robe-cloth.”
+The bhikkhus who knew that a meal together with robe-cloth had been prepared for the Sangha, but not that the robe-cloth had been given to those bhikkhus from the group of six, said, “You may offer the robe-cloth.”
 
-“There aren’t any. The robe-cloth we had prepared were diverted by the monks from the group of six.”
+“There aren’t any. The robe-cloth we had prepared were diverted by the bhikkhus from the group of six.”
 
-2The monks of few desires complained and criticized those monks, “How could the monks from the group of six divert to an individual things they knew were intended for the Sangha?” … “Is it true, monks, that you did this?”
+2The bhikkhus of few desires complained and criticized those bhikkhus, “How could the bhikkhus from the group of six divert to an individual things they knew were intended for the Sangha?” … “Is it true, bhikkhus, that you did this?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

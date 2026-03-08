@@ -47,7 +47,7 @@ parallels_partilal: "[[AN5.156]]"
 > Things that lead to the disappearance of the dharma
 
 > [!info] Key Excerpts 
-> Bhikkhus learned incorrectly, are hard to admonish, don't teach others and senior mendicants are indulgent and slack,
+> Bhikkhus learned incorrectly, are hard to admonish, don't teach others and senior bhikkhus are indulgent and slack,
 > 
 > Those who come after them follow their example. They too become indulgent and slack, leaders in backsliding, neglecting seclusion, not rousing energy for attaining the unattained
 > 

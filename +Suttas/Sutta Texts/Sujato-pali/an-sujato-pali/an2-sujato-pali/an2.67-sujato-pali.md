@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two kinds of happiness. What two? Defiled happiness and undefiled happiness. These are the two kinds of happiness. The better of these two kinds of happiness is the happiness of no defilements.”
+1“There are, bhikkhus, these two kinds of happiness. What two? Defiled happiness and undefiled happiness. These are the two kinds of happiness. The better of these two kinds of happiness is the happiness of no defilements.”
 
 1 "Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sāsavasukhañca anāsavasukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ sukhānaṁ yadidaṁ anāsavasukhan"ti.
 

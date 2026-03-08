@@ -69,7 +69,7 @@ Sir, there are these four classes: aristocrats, brahmins, merchants, and workers
 “Sir, I am not asking you about the present life, but about the life to come.”
 
 
-6“Great king, there are these five factors that support meditation. What five? It’s when a mendicant has faith in the Realized One’s awakening: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ They are rarely ill or unwell. Their stomach digests well, being neither too hot nor too cold, but just right, and fit for meditation. They’re not devious or deceitful. They reveal themselves honestly to the Teacher or sensible spiritual companions. They live with energy roused up for giving up unskillful qualities and embracing skillful qualities. They’re strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. They’re wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. These are the five factors that support meditation.
+6“Great king, there are these five factors that support meditation. What five? It’s when a bhikkhu has faith in the Realized One’s awakening: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ They are rarely ill or unwell. Their stomach digests well, being neither too hot nor too cold, but just right, and fit for meditation. They’re not devious or deceitful. They reveal themselves honestly to the Teacher or sensible spiritual companions. They live with energy roused up for giving up unskillful qualities and embracing skillful qualities. They’re strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. They’re wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. These are the five factors that support meditation.
 
 
 There are these four classes: aristocrats, brahmins, merchants, and workers. If they had these five factors that support meditation, that would be for their lasting welfare and happiness.”
@@ -134,7 +134,7 @@ Sir, there are these four classes: aristocrats, brahmins, merchants, and workers
 “In the same way, general, the gods subject to affliction can’t even see the gods who are free of affliction, so how could they possibly topple or expel them from their place?”
 
 
-12Then the king said to the Buddha: “Sir, what is this mendicant’s name?”
+12Then the king said to the Buddha: “Sir, what is this bhikkhu’s name?”
 
 “Ānanda, great king.”
 

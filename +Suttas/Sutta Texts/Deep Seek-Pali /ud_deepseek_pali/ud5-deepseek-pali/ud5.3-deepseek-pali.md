@@ -36,7 +36,7 @@ Then Suppabuddha the leper, having seen the Dhamma, reached the Dhamma, known th
 
 ‘‘Abhikkantaṃ, bhante, abhikkataṃ, bhante! Seyyathāpi, bhante, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya – cakkhumanto rūpāni dakkhantīti; evamevaṃ bhagavatā anekapariyāyena dhammo pakāsito. Esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.
 
-“Magnificent, venerable sir! Magnificent, venerable sir! Just as, venerable sir, one might set upright what was overturned, or reveal what was hidden, or show the way to one who is lost, or hold up a lamp in the darkness, intending, ‘Those with eyes will see forms’; just so has the Blessed One in many ways made the Dhamma manifest. Venerable sir, I go for refuge to the Blessed One, to the Dhamma, and to the Sangha of monks. May the Blessed One remember me as a lay follower who has gone for refuge from today onward as long as life lasts.”
+“Magnificent, venerable sir! Magnificent, venerable sir! Just as, venerable sir, one might set upright what was overturned, or reveal what was hidden, or show the way to one who is lost, or hold up a lamp in the darkness, intending, ‘Those with eyes will see forms’; just so has the Blessed One in many ways made the Dhamma manifest. Venerable sir, I go for refuge to the Blessed One, to the Dhamma, and to the Sangha of bhikkhus. May the Blessed One remember me as a lay follower who has gone for refuge from today onward as long as life lasts.”
 
 Atha kho suppabuddho kuṭṭhī bhagavatā dhammiyā kathāya sandassito samādapito samuttejito sampahaṃsito bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi. Atha kho acirapakkantaṃ suppabuddhaṃ kuṭṭhiṃ gāvī taruṇavacchā adhipatitvā jīvitā voropesi.
 
@@ -44,7 +44,7 @@ Then Suppabuddha the leper, having been instructed, exhorted, inspired, and glad
 
 Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ – ‘‘yo so, bhante, suppabuddho nāma kuṭṭhī bhagavatā dhammiyā kathāya sandassito samādapito samuttejito sampahaṃsito, so kālaṅkato. Tassa kā gati, ko abhisamparāyo’’ti?
 
-Then several monks approached the Blessed One; having approached, they paid homage to the Blessed One and sat down to one side. Seated to one side, those monks said to the Blessed One: “Venerable sir, that leper named Suppabuddha, who was instructed, exhorted, inspired, and gladdened by the Blessed One with a discourse on the Dhamma, has passed away. What is his destiny? What is his future bourn?”
+Then several bhikkhus approached the Blessed One; having approached, they paid homage to the Blessed One and sat down to one side. Seated to one side, those bhikkhus said to the Blessed One: “Venerable sir, that leper named Suppabuddha, who was instructed, exhorted, inspired, and gladdened by the Blessed One with a discourse on the Dhamma, has passed away. What is his destiny? What is his future bourn?”
 
 ‘‘Paṇḍito, bhikkhave, suppabuddho kuṭṭhī; paccapādi dhammassānudhammaṃ; na ca maṃ dhammādhikaraṇaṃ vihesesi. Suppabuddho, bhikkhave, kuṭṭhī tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpanno avinipātadhammo niyato sambodhiparāyaṇo’’ti.
 

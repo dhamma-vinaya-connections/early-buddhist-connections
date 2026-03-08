@@ -171,7 +171,7 @@ Visiting others’ houses in the daytime,
 One falls and is trapped in a pit.
 Swayed by bad characters,
 One cannot reform his conduct,
-Slandering mendicant wanderers,
+Slandering bhikkhu wanderers,
 Holding wrong views that will be laughed at in the world,
 Impure action is what people shun.
 Judging people based only on their good or bad external appearance,

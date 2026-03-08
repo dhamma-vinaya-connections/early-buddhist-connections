@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, having seven qualities Sāriputta has mastered his mind and is not mastered by it. What seven? Sāriputta is skilled at immersion, skilled in entering immersion, skilled in remaining in immersion, skilled in emerging from immersion, skilled in gladdening the mind for immersion, skilled in the mindfulness meditation subjects for immersion, and skilled in projecting the mind purified by immersion. Having these seven qualities Sāriputta has mastered his mind and is not mastered by it.”
+1“bhikkhus, having seven qualities Sāriputta has mastered his mind and is not mastered by it. What seven? Sāriputta is skilled at immersion, skilled in entering immersion, skilled in remaining in immersion, skilled in emerging from immersion, skilled in gladdening the mind for immersion, skilled in the mindfulness meditation subjects for immersion, and skilled in projecting the mind purified by immersion. Having these seven qualities Sāriputta has mastered his mind and is not mastered by it.”
 
 1"Sattahi, bhikkhave, dhammehi samannāgato sāriputto cittaṁ vase vatteti, no ca sāriputto cittassa vasena vattati. Katamehi sattahi? Idha, bhikkhave, sāriputto samādhikusalo hoti, samādhissa samāpattikusalo, samādhissa ṭhitikusalo, samādhissa vuṭṭhānakusalo, samādhissa kalyāṇakusalo, samādhissa gocarakusalo, samādhissa abhinīhārakusalo hoti. Imehi kho, bhikkhave, sattahi dhammehi samannāgato sāriputto cittaṁ vase vatteti, no ca sāriputto cittassa vasena vattatī"ti.
 

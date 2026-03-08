@@ -20,9 +20,9 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a number of nuns were bathing naked at a ford in the river Aciravatī together with sex workers. The sex workers teased the nuns, “Venerables, why practice the spiritual life when you’re still young? Why not enjoy worldly pleasures? You can practice the spiritual life when you’re old. In this way you’ll get the benefit of both.” The nuns felt humiliated.
 
-They then went to the nuns’ dwelling place and told the nuns what had happened. The nuns told the monks, who in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+They then went to the nuns’ dwelling place and told the nuns what had happened. The nuns told the bhikkhus, who in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Well then, monks, I will lay down a training rule for the nuns for the following ten reasons: for the well-being of the Sangha … for supporting the training. And, monks, the nuns should recite this training rule like this:
+“Well then, bhikkhus, I will lay down a training rule for the nuns for the following ten reasons: for the well-being of the Sangha … for supporting the training. And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

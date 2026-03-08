@@ -48,7 +48,7 @@ The Gracious One heard with his divine ear-element, which is purified, and surpa
 
 5Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 
-6"The devas envy the alms-gathering monk,  
+6"The devas envy the alms-gathering bhikkhu,  
 Self-supporting, not nourishing another,  
 Such a one, a peaceful one, one who is always mindful."
 

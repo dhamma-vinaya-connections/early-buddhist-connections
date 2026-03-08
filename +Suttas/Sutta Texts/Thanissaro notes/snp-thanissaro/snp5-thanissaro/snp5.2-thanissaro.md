@@ -50,7 +50,7 @@ follows the holy life,
 
 always mindful, craving-free;
 
-the monk who is
+the bhikkhu who is
 
 —through fathoming things—
 
@@ -74,7 +74,7 @@ vv. 1040–1042
 
 ### Notes
 
-1. [[an6.61-thanissaro]] reports a discussion among several elder monks as to what is meant in this poem by “both sides” and “in between.” Six of the elders express the following separate opinions: [↩︎](#^snp5-2-01-ref) ^snp5-2-01
+1. [[an6.61-thanissaro]] reports a discussion among several elder bhikkhus as to what is meant in this poem by “both sides” and “in between.” Six of the elders express the following separate opinions: [↩︎](#^snp5-2-01-ref) ^snp5-2-01
 
 a) Contact is the first side, the origination of contact the second side, and the cessation of contact is in between.
 

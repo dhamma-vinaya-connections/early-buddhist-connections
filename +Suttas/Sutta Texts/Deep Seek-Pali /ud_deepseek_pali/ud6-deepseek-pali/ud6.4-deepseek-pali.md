@@ -92,15 +92,15 @@ Then, in the morning, a number of bhikkhus, having dressed, took their bowls and
 
 ‘‘Yehi, bhikkhave, jaccandhehi hatthissa vāladhi diṭṭho ahosi, te evamāhaṃsu – ‘ediso, deva, hatthī seyyathāpi sammajjanī’ti.
 
-Those born blind, monks, who had seen the elephant’s tail, said: ‘The elephant, sire, is like a broom.’
+Those born blind, bhikkhus, who had seen the elephant’s tail, said: ‘The elephant, sire, is like a broom.’
 
 ‘‘Te ‘ediso hatthī, nediso hatthī; nediso hatthī, ediso hatthī’’’ti aññamaññaṃ muṭṭhīhi saṃsumbhiṃsu [saṃyujjhiṃsu (ka. sī., syā. pī.)]. Tena ca pana, bhikkhave, so rājā attamano ahosi.
 
-‘The elephant is like this! The elephant is not like that! The elephant is not like that! The elephant is like this!’ they struck each other with their fists. And, monks, that king was pleased.
+‘The elephant is like this! The elephant is not like that! The elephant is not like that! The elephant is like this!’ they struck each other with their fists. And, bhikkhus, that king was pleased.
 
 ‘‘Evameva kho, bhikkhave, aññatitthiyā paribbājakā andhā acakkhukā. Te atthaṃ na jānanti anatthaṃ na jānanti, dhammaṃ na jānanti adhammaṃ na jānanti. Te atthaṃ ajānantā anatthaṃ ajānantā, dhammaṃ ajānantā adhammaṃ ajānantā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti – ‘ediso dhammo, nediso dhammo; nediso dhammo, ediso dhammo’’’ti.
 
-Just so, monks, those wanderers of other sects are blind and sightless. They do not know the meaning, they do not know the meaningless; they do not know the Dhamma, they do not know the non-Dhamma. Not knowing the meaning, not knowing the meaningless, not knowing the Dhamma, not knowing the non-Dhamma, they live in a state of contention, quarrel, and dispute, piercing each other with verbal barbs: ‘The Dhamma is like this, the Dhamma is not like that; the Dhamma is not like that, the Dhamma is like this.’
+Just so, bhikkhus, those wanderers of other sects are blind and sightless. They do not know the meaning, they do not know the meaningless; they do not know the Dhamma, they do not know the non-Dhamma. Not knowing the meaning, not knowing the meaningless, not knowing the Dhamma, not knowing the non-Dhamma, they live in a state of contention, quarrel, and dispute, piercing each other with verbal barbs: ‘The Dhamma is like this, the Dhamma is not like that; the Dhamma is not like that, the Dhamma is like this.’
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

@@ -7,31 +7,31 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC28]]
 > ◄  [[bu-pc27-horner]] 📜  [[bu-pc29-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 28
+# bhikkhus’ Expiation (_Pācittiya_) 28
 
-*Bu-Pc.28.1.1* *BD.2.292* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks, having arranged together with (some) nuns, embarked in one boat. People … spread it about, saying:
+*Bu-Pc.28.1.1* *BD.2.292* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus, having arranged together with (some) nuns, embarked in one boat. People … spread it about, saying:
 
 “Just as we amuse ourselves in a boat with our wives, so do these recluses, sons of the Sakyans, having arranged together with nuns, amuse themselves in a boat.”
 
-Monks heard these people who … spread it about. Those who were modest monks … spread it about, saying:
+bhikkhus heard these people who … spread it about. Those who were modest bhikkhus … spread it about, saying:
 
-“How can this group of six monks, having arranged together with nuns, embark in one boat?” …
+“How can this group of six bhikkhus, having arranged together with nuns, embark in one boat?” …
 
-“Is it true, as is said, that you, monks, having arranged together with nuns, embarked in one boat?”
+“Is it true, as is said, that you, bhikkhus, having arranged together with nuns, embarked in one boat?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men … embark in one boat? It is not, foolish men … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men … embark in one boat? It is not, foolish men … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, having arranged together with a nun, should embark in one boat, going either upstream or downstream, there is an offence of expiation.”
+“Whatever bhikkhu, having arranged together with a nun, should embark in one boat, going either upstream or downstream, there is an offence of expiation.”
 
-And thus this rule of training for monks came to be laid down by the lord. *Vin.4.65*
+And thus this rule of training for bhikkhus came to be laid down by the lord. *Vin.4.65*
 
 * * *
 
-*Bu-Pc.28.2.1* Now[^1] at that time several monks and nuns were going along the high-road from Sāketa to Sāvatthī. On the way there was a river to be crossed. Then these nuns spoke thus to these monks:
+*Bu-Pc.28.2.1* Now[^1] at that time several bhikkhus and nuns were going along the high-road from Sāketa to Sāvatthī. On the way there was a river to be crossed. Then these nuns spoke thus to these bhikkhus:
 
 “We will cross over together with the masters.”
 
@@ -39,21 +39,21 @@ And thus this rule of training for monks came to be laid down by the lord. *Vin.
 
 “Honoured sirs, the masters are the highest men, so let the masters cross over first.”
 
-Then as those nuns were crossing over last thieves robbed them and assaulted them. Then these nuns, having arrived at Sāvatthī, told this matter to the nuns. The nuns … to the monks. The monks … to the lord. Then the lord on this occasion, in this connection, having given reasoned talk, addressed the monks, saying:
+Then as those nuns were crossing over last thieves robbed them and assaulted them. Then these nuns, having arrived at Sāvatthī, told this matter to the nuns. The nuns … to the bhikkhus. The bhikkhus … to the lord. Then the lord on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying:
 
-“I allow you, monks, to embark in one boat, having arranged together with a nun, if it is for crossing over to the other bank. And thus, monks, this rule of training should be set forth:
+“I allow you, bhikkhus, to embark in one boat, having arranged together with a nun, if it is for crossing over to the other bank. And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, having arranged together with a nun, should embark in one boat, going either upstream or downstream, except for crossing over to the other bank, there is an offence of expiation.”
+“Whatever bhikkhu, having arranged together with a nun, should embark in one boat, going either upstream or downstream, except for crossing over to the other bank, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.28.3.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.28.3.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Nun means: one ordained by both Orders.
 
 Together with means: together.
 
-Having arranged[^2] means: if one arranges, saying, ‘We are embarking, sister, we are embarking, master, we are embarking, master, we are embarking, sister, we are embarking either today or tomorrow or the next day,’ there is an offence of wrong-doing. If the monk embarks when the nun has embarked, there is an offence of expiation. If the nun embarks when the monk has embarked, there is an offence of expiation. Or if both embark there is an offence of expiation.
+Having arranged[^2] means: if one arranges, saying, ‘We are embarking, sister, we are embarking, master, we are embarking, master, we are embarking, sister, we are embarking either today or tomorrow or the next day,’ there is an offence of wrong-doing. If the bhikkhu embarks when the nun has embarked, there is an offence of expiation. If the nun embarks when the bhikkhu has embarked, there is an offence of expiation. Or if both embark there is an offence of expiation.
 
 Going upstream[^3] means: upstream.[^4]
 
@@ -69,7 +69,7 @@ In a village close enough for a cock (to walk), among every (such) village, ther
 
 * * *
 
-*Bu-Pc.28.3.3* There is no offence if it is for crossing over to the other bank[^8]; if they embark not having arranged; if the nun arranges (and) the monk does not arrange; if they embark without (making) a rendezvous; if there are dangers; if he is mad, if he is the first wrong-doer.[^9]
+*Bu-Pc.28.3.3* There is no offence if it is for crossing over to the other bank[^8]; if they embark not having arranged; if the nun arranges (and) the bhikkhu does not arrange; if they embark without (making) a rendezvous; if there are dangers; if he is mad, if he is the first wrong-doer.[^9]
 
 The Eighth
 
@@ -77,7 +77,7 @@ The Eighth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

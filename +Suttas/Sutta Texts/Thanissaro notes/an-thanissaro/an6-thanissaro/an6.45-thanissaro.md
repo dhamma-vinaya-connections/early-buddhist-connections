@@ -15,7 +15,7 @@ language: "English"
 ## ## Iṇa Sutta
 
 
-“Monks, for one who partakes of sensuality, poverty is suffering in the world.”
+“bhikkhus, for one who partakes of sensuality, poverty is suffering in the world.”
 
 “Yes, lord.”
 
@@ -39,9 +39,9 @@ language: "English"
 
 “Yes, lord.”
 
-“Thus, monks, poverty is suffering in the world for one who partakes of sensuality. Getting into debt is suffering in the world for one who partakes of sensuality. Interest payment is suffering in the world for one who partakes of sensuality. Being served notice is suffering in the world for one who partakes of sensuality. Being hounded is suffering in the world for one who partakes of sensuality. Bondage is suffering in the world for one who partakes of sensuality.
+“Thus, bhikkhus, poverty is suffering in the world for one who partakes of sensuality. Getting into debt is suffering in the world for one who partakes of sensuality. Interest payment is suffering in the world for one who partakes of sensuality. Being served notice is suffering in the world for one who partakes of sensuality. Being hounded is suffering in the world for one who partakes of sensuality. Bondage is suffering in the world for one who partakes of sensuality.
 
-“In the same way, monks, whoever has no conviction with regard to skillful qualities, no sense of shame with regard to skillful qualities, no sense of compunction with regard to skillful qualities, no persistence with regard to skillful qualities, no discernment with regard to skillful qualities is, in the discipline of the noble ones, said to be poor, destitute, & penniless.
+“In the same way, bhikkhus, whoever has no conviction with regard to skillful qualities, no sense of shame with regard to skillful qualities, no sense of compunction with regard to skillful qualities, no persistence with regard to skillful qualities, no discernment with regard to skillful qualities is, in the discipline of the noble ones, said to be poor, destitute, & penniless.
 
 “He—poor, destitute, & penniless, having no conviction with regard to skillful qualities, no sense of shame… no sense of compunction… no persistence… no discernment with regard to skillful qualities—engages in misconduct by way of the body, misconduct by way of speech, misconduct by way of the mind. For him, I tell you, this is getting into debt.
 

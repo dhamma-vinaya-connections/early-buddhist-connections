@@ -26,12 +26,12 @@ Standing to one side, that deity recited this verse in the Buddha’s presence:
 
 2“Like they’re struck by a sword,  
 like their head was on fire,  
-a mendicant, mindful, should go forth,  
+a bhikkhu, mindful, should go forth,  
 to give up sensual desire.”
 
 3“Like they’re struck by a sword,  
 like their head was on fire,  
-a mendicant, mindful, should go forth,  
+a bhikkhu, mindful, should go forth,  
 to give up identity view.”
 
 #### Pali

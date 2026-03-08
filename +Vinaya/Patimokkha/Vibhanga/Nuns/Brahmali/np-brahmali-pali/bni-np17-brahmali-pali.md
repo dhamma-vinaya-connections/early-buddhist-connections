@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six said to the monks whose robes had been stolen:
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six said to the bhikkhus whose robes had been stolen:
 
 “The Buddha has allowed a monk whose robes have been stolen or lost to ask an unrelated householder for a robe. You should ask for a robe.”
 
@@ -26,22 +26,22 @@ language: "Pali - English"
 
 “Do as you please.”
 
-The monks from the group of six then went to householders and said, “Monks have arrived whose robes have been stolen. Please give them robes.” And they asked for many robes.
+The bhikkhus from the group of six then went to householders and said, “bhikkhus have arrived whose robes have been stolen. Please give them robes.” And they asked for many robes.
 
-2Soon afterwards in the public meeting hall a certain man said to another, “Sir, monks have arrived whose robes have been stolen. I’ve given them robes.”
+2Soon afterwards in the public meeting hall a certain man said to another, “Sir, bhikkhus have arrived whose robes have been stolen. I’ve given them robes.”
 
 The other replied, “So have I.” And another said the same.
 
-They complained and criticized those monks, “How can the Sakyan monastics ask for many robes without moderation? Are they going to trade in cloth or set up shop?”
+They complained and criticized those bhikkhus, “How can the Sakyan monastics ask for many robes without moderation? Are they going to trade in cloth or set up shop?”
 
-3The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How could the monks from the group of six ask for many robes without moderation?”
+3The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How could the bhikkhus from the group of six ask for many robes without moderation?”
 
-4After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you did this?”
+4After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -70,7 +70,7 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 The robe should be relinquished to a saṅgha, a group, or an individual.
 
 
-“And, monks, it should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
+“And, bhikkhus, it should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
 
 
 ‘Venerables, this robe, which I received after asking an unrelated householder for too many, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe back to you.’”

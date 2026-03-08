@@ -22,9 +22,9 @@ language: "English - Pali"
 
 1At Sāvatthī.
 
-Now at that time the Buddha was educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk about extinguishment. And those mendicants were paying heed, paying attention, engaging wholeheartedly, and lending an ear.
+Now at that time the Buddha was educating, encouraging, firing up, and inspiring the bhikkhus with a Dhamma talk about extinguishment. And those bhikkhus were paying heed, paying attention, engaging wholeheartedly, and lending an ear.
 
-Then Māra thought: “The ascetic Gotama is giving a Dhamma talk about extinguishment … and the mendicants are listening well. Why don’t I go and pull the wool over their eyes?”
+Then Māra thought: “The ascetic Gotama is giving a Dhamma talk about extinguishment … and the bhikkhus are listening well. Why don’t I go and pull the wool over their eyes?”
 
 2Then Māra the Wicked manifested in the form of a farmer carrying a large plough on his shoulder. He held a long goad, his hair was messy, he was clad in sunn hemp, and his feet were muddy. He went up to the Buddha and said to him: “So, ascetic, did you happen to see any oxen?”
 

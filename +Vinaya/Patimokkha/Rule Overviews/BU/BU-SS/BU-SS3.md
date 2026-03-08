@@ -22,12 +22,12 @@ vin_severity:
   - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: ""
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-SS2]] 🌐 [[BU-SS4]] ►
 
-# Monks - Sanghadisesa - Suspension
+# bhikkhus - Sanghadisesa - Suspension
 ##  - 1 Admonition
 ## BU-SS3 - Duṭṭhullavācā - Indecent Speech
 
@@ -68,7 +68,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-SS3 |  | Vin.3.1–3.40 |
 

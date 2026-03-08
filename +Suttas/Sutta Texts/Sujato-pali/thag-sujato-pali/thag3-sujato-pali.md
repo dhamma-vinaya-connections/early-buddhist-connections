@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 3: Groups of Three Verses
 
@@ -104,12 +104,12 @@ and foster seclusion.
 
 ##### Khujjasobhita
 
-234"One of those monks who live in Pāṭaliputta —  
+234"One of those bhikkhus who live in Pāṭaliputta —  
 such brilliant speakers, and very learned —  
 stands at the door:  
 the old man, Khujjasobhita.
 
-235One of those monks who live in Pāṭaliputta —  
+235One of those bhikkhus who live in Pāṭaliputta —  
 such brilliant speakers, and very learned —  
 stands at the door:  
 an old man, trembling in the wind."
@@ -148,7 +148,7 @@ firm in principal and ethical
 241I corrected my family out of sympathy,  
 telling them off out of love  
 for my family and relatives.  
-They performed a service for the monks
+They performed a service for the bhikkhus
 
 242And then they passed away,  
 finding happiness in the heaven of the Thirty-three.  
@@ -167,8 +167,8 @@ in the wilds, the formidable forest,
 one should mindfully endure,  
 like an elephant at the head of the battle.
 
-245A monk alone is like the supreme Brahmā;  
-a pair of monks are like gods;  
+245A bhikkhu alone is like the supreme Brahmā;  
+a pair of bhikkhus are like gods;  
 three are like a village;  
 and more than that is a rabble."
 
@@ -193,12 +193,12 @@ for my legs are strong.
 
 249One newly gone forth,  
 who has left their home out of faith,  
-a mendicant staying in the Saṅgha,  
+a bhikkhu staying in the Saṅgha,  
 being wise, would train in monastic discipline.
 
 250One newly gone forth,  
 Who has left their home out of faith,  
-A monk who stays with the Saṅgha,  
+A bhikkhu who stays with the Saṅgha,  
 Being wise, would train in monastic discipline.
 
 251One newly gone forth,  

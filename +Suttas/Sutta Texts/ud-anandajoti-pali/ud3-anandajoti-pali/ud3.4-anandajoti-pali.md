@@ -25,7 +25,7 @@ The Gracious One saw that venerable Sāriputta was sitting not far away, after f
 2Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 
 3"Just like a mountain rock, unagitated, well established,  
-So is the monk, through the destruction of delusion —  
+So is the bhikkhu, through the destruction of delusion —  
 like a mountain he does not shake."
 
 1Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā sāriputto bhagavato avidūre nisinno hoti pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā.

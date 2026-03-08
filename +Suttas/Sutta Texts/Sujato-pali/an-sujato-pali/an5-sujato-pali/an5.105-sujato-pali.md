@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five ways of living comfortably. What five?
+1“bhikkhus, there are these five ways of living comfortably. What five?
 
-It’s when a mendicant consistently treats their spiritual companions with kindness by way of body, speech, and mind, both in public and in private.
+It’s when a bhikkhu consistently treats their spiritual companions with kindness by way of body, speech, and mind, both in public and in private.
 
 They live according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion.
 

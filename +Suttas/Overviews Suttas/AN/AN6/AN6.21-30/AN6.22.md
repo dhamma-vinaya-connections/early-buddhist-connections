@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Not relishing work, talk, sleep, and company, being easy to admonish, and having good friends, don’t have wicked desires, and don’t stop half-way, guard the sense doors and don’t they eat too much, respect elders
 > 
-> As long as these seven principles that prevent decline last among mendicants they can expect growth, not decline
+> As long as these seven principles that prevent decline last among bhikkhus they can expect growth, not decline
 > 
 
 

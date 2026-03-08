@@ -20,12 +20,12 @@ language: "Pali - English"
 
 The nuns of few desires complained and criticized them:
 
-2“How can the nuns from the group of six do such things?” … “Is it true, monks, that those nuns do these things?”
+2“How can the nuns from the group of six do such things?” … “Is it true, bhikkhus, that those nuns do these things?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns from the group of six, being lustful and aiming to indulge in inappropriate sexual conduct, consent to lustful men holding their hand and the edge of their robes, and how can they stand with them, chat with them, go to rendezvous with them, consent to men coming to them, enter covered places with them, and dispose their body for that purpose? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns from the group of six, being lustful and aiming to indulge in inappropriate sexual conduct, consent to lustful men holding their hand and the edge of their robes, and how can they stand with them, chat with them, go to rendezvous with them, consent to men coming to them, enter covered places with them, and dispose their body for that purpose? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

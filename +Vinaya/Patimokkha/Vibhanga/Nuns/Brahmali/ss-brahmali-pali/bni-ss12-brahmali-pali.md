@@ -18,12 +18,12 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nuns who were the pupils of the nun Thullanandā were socializing and behaving badly, had a bad reputation, and were harassing the Sangha of nuns and hiding each other’s offenses.
 
-2The nuns of few desires complained and criticized them, “How can nuns behave in this way?” … “Is it true, monks, that nuns are behaving like this?”
+2The nuns of few desires complained and criticized them, “How can nuns behave in this way?” … “Is it true, bhikkhus, that nuns are behaving like this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns behave in this way? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can nuns behave in this way? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -65,7 +65,7 @@ Those nuns, even if they have to be pulled into the Sangha, should be corrected 
 
 They should correct them a second and a third time. If they stop, all is well. If they do not stop, they commit an offense of wrong conduct.
 
-“And, monks, they should be pressed like this. A competent and capable nun should inform the Sangha:
+“And, bhikkhus, they should be pressed like this. A competent and capable nun should inform the Sangha:
 
 
 14‘Please, Venerables, I ask the Sangha to listen. The nuns so-and-so and so-and-so socialize, behave badly, have a bad reputation, are notorious, harass the Sangha of nuns, and hide each other’s offenses. And they keep on doing it. If it seems appropriate to the Sangha, the Sangha should press them to make them stop. This is the motion.

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, you should associate with a friend who has seven factors. What seven? They give what is hard to give. They do what is hard to do. They endure what is hard to endure. They reveal their secrets to you. They keep your secrets. They don’t abandon you in times of trouble. They don’t look down on you in times of loss. You should associate with a friend who has these seven factors.
+1“bhikkhus, you should associate with a friend who has seven factors. What seven? They give what is hard to give. They do what is hard to do. They endure what is hard to endure. They reveal their secrets to you. They keep your secrets. They don’t abandon you in times of trouble. They don’t look down on you in times of loss. You should associate with a friend who has these seven factors.
 
 
 2A friend gives what is hard to give,  

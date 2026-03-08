@@ -2,7 +2,7 @@
 sutta_code: "AN7.25"
 sutta_title:
   - "Bhikkhu-Aparihaniya "
-  - "Non-Decline For Mendicants"
+  - "Non-Decline For bhikkhus"
 sutta-version: "Deep Seek"
 language: "English - Pali"
 ---

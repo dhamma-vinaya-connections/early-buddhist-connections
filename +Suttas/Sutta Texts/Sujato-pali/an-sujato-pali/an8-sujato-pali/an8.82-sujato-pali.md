@@ -25,12 +25,12 @@ language: "English - Pali"
 “Sir, what is the cause, what is the reason why sometimes the Realized One feels inspired to teach, and other times not?”
 
 
-“Puṇṇiya, when a mendicant has faith but doesn’t approach, the Realized One doesn’t feel inspired to teach. But when a mendicant has faith and approaches, the Realized One feels inspired to teach.
+“Puṇṇiya, when a bhikkhu has faith but doesn’t approach, the Realized One doesn’t feel inspired to teach. But when a bhikkhu has faith and approaches, the Realized One feels inspired to teach.
 
-When a mendicant has faith and approaches, but doesn’t pay homage … they pay homage, but don’t ask questions … they ask questions, but don’t lend an ear … they lend an ear, but don’t remember the teaching they’ve heard … they remember the teaching they’ve heard, but don’t reflect on the meaning of the teachings they’ve remembered … they reflect on the meaning of the teachings they’ve remembered, but, having understood the meaning and the teaching, they don’t practice accordingly. The Realized One doesn’t feel inspired to teach.
+When a bhikkhu has faith and approaches, but doesn’t pay homage … they pay homage, but don’t ask questions … they ask questions, but don’t lend an ear … they lend an ear, but don’t remember the teaching they’ve heard … they remember the teaching they’ve heard, but don’t reflect on the meaning of the teachings they’ve remembered … they reflect on the meaning of the teachings they’ve remembered, but, having understood the meaning and the teaching, they don’t practice accordingly. The Realized One doesn’t feel inspired to teach.
 
 
-But when a mendicant has faith, approaches, pays homage, asks questions, lends an ear, remembers the teachings, reflects on the meaning, and practices accordingly, the Realized One feels inspired to teach. When someone has these eight qualities, the Realized One feels totally inspired to teach.”
+But when a bhikkhu has faith, approaches, pays homage, asks questions, lends an ear, remembers the teachings, reflects on the meaning, and practices accordingly, the Realized One feels inspired to teach. When someone has these eight qualities, the Realized One feels totally inspired to teach.”
 
 #### Pali
 

@@ -21,7 +21,7 @@ Translated by Charles Patton
 
 ##### The Repopulation of the World
 
-1. The Buddha told the monks, “After the catastrophe of fire has passed and the earth and heavens of this world are about to reform, the remaining sentient beings’ merits, actions, and lives come to an end. At the end of their lives in the Ābhāsvara Heaven, they are born into an empty Brahma abode. Their minds are stained by attachment to the place. Delighted by that abode, they wish other sentient beings would be born there with them. After they make that wish, the merits, actions, and lives of other sentient beings come to an end. When their bodies break up and their lives end in the Ābhāsvara Heaven, they’re born in that empty Brahma abode.
+1. The Buddha told the bhikkhus, “After the catastrophe of fire has passed and the earth and heavens of this world are about to reform, the remaining sentient beings’ merits, actions, and lives come to an end. At the end of their lives in the Ābhāsvara Heaven, they are born into an empty Brahma abode. Their minds are stained by attachment to the place. Delighted by that abode, they wish other sentient beings would be born there with them. After they make that wish, the merits, actions, and lives of other sentient beings come to an end. When their bodies break up and their lives end in the Ābhāsvara Heaven, they’re born in that empty Brahma abode.
 
 2. “The first being born in the Brahma Heaven thinks to himself, ‘I am the Brahma King, the Great Brahma Heaven King! I have no creator, I’ve spontaneously come to be, and I’m subject to no one. I’m the highest sovereign of a thousand worlds, skilled in various meanings, my wealth is bountiful, and I’m the creator of all things. I’m both father and mother to all sentient beings.’
 
@@ -116,7 +116,7 @@ Translated by Charles Patton
 
 ##### Thirteen Reasons for Cold Weather in Sunlight
 
-42. The Buddha told the monks, “Why is the sun palace cold and distant during winter, and the weather is freezing even with light? There are thirteen reasons that it’s freezing even with light. What are the thirteen? First, there’s a lake between Mount Sumeru and Mount Khadiraka that’s 84,000 yojanas wide. Its circumference is measureless, and various flowers grow in its water, such as utpala, kumuda, padma, puṇḍarīka, and sugandha flowers. When the sun’s light shines on it, it becomes cold on contact. This is the first reason for sunlight to be cold.
+42. The Buddha told the bhikkhus, “Why is the sun palace cold and distant during winter, and the weather is freezing even with light? There are thirteen reasons that it’s freezing even with light. What are the thirteen? First, there’s a lake between Mount Sumeru and Mount Khadiraka that’s 84,000 yojanas wide. Its circumference is measureless, and various flowers grow in its water, such as utpala, kumuda, padma, puṇḍarīka, and sugandha flowers. When the sun’s light shines on it, it becomes cold on contact. This is the first reason for sunlight to be cold.
 
 43. “Second, there’s a lake between Mount Khadiraka and Mount Īśādāra that’s 42,000 yojanas wide. Its circumference is measureless, and various flowers grow in its water … When the sun’s light shines on it, it becomes cold on contact. This is the second reason for sunlight to be cold.
 
@@ -151,7 +151,7 @@ Translated by Charles Patton
 
 ##### The Moon
 
-56. The Buddha told the monks, “There are times when the moon palace’s round form waxes and wanes, and its light decreases and disappears. Therefore, the moon palace is named for its reduction. ‘Moon’ has two meanings. The first is to abide in eternal liberation. The second is the palace hall.
+56. The Buddha told the bhikkhus, “There are times when the moon palace’s round form waxes and wanes, and its light decreases and disappears. Therefore, the moon palace is named for its reduction. ‘Moon’ has two meanings. The first is to abide in eternal liberation. The second is the palace hall.
 
 57. “It’s round because it’s seen from far away in all four directions. It’s made of heavenly silver and beryl that’s neither cold nor hot. Two-thirds of it is pure and unadulterated heavenly silver, inside and out, and its light shines far away. One-third of it is pure and unadulterated beryl, inside and out, and its light shines far away.
 
@@ -193,7 +193,7 @@ Translated by Charles Patton
 
 75. “Again, what’s the reason for a dark shadow to be on the moon? When the moon is in the shadow of the Jambu tree, that causes the moon to have a shadow on it.”
 
-76. The Buddha told the monks, “One’s mind should be like the moon, clear and unheated. When going to a donor’s home, be mindful and unconfused.
+76. The Buddha told the bhikkhus, “One’s mind should be like the moon, clear and unheated. When going to a donor’s home, be mindful and unconfused.
 
 ##### Other Features of the World
 
@@ -213,7 +213,7 @@ Translated by Charles Patton
 
 ##### The Devolution of Sentient Beings
 
-84. The Buddha told the monks, “The first sentient beings of the eon eat the flavor of the earth, and they live in the world for a long time. Those that often eat it become cruder in appearance, and those that seldom eat it are shiny in appearance. After a while, they notice that the appearance of the other sentient beings has become superior or inferior, and they argue with each other. ‘I am superior to you! You are not my equal!’ Self and other enter their minds. Because they maintain grudges, the earth flavor dries up.
+84. The Buddha told the bhikkhus, “The first sentient beings of the eon eat the flavor of the earth, and they live in the world for a long time. Those that often eat it become cruder in appearance, and those that seldom eat it are shiny in appearance. After a while, they notice that the appearance of the other sentient beings has become superior or inferior, and they argue with each other. ‘I am superior to you! You are not my equal!’ Self and other enter their minds. Because they maintain grudges, the earth flavor dries up.
 
 85. “Next, the earth grows a skin shaped like thin rice cakes, and its color, flavor, and aroma is pure. At that point, the sentient beings gather in one place and feel miserable, lament, and beat their breasts. They say, ‘Oh, what a disaster! The flavor of the earth is nowhere to be found now!’ It’s like present-day people who discover a rich and delicious flavor, and they praise it as delicious and good. Later, they miss it and are saddened. Those sentient beings are likewise, feeling miserable and regretful.
 
@@ -330,14 +330,14 @@ Translated by Charles Patton
  Those who completely accomplish insight, 
  Are the best among gods and humans!’”
 
-131. The Buddha told the monks, “That verse that Brahmā says is well spoken, not unskillfully spoken. It’s well put, not unskillfully put. I approve of it. Why is that? Now, I am the Tathāgata, Arhat, and Completely Awakened One, and I also say this verse:
+131. The Buddha told the bhikkhus, “That verse that Brahmā says is well spoken, not unskillfully spoken. It’s well put, not unskillfully put. I approve of it. Why is that? Now, I am the Tathāgata, Arhat, and Completely Awakened One, and I also say this verse:
 
 - “Those born of warriors are the best, 
  Being able to bring together the other castes. 
  Those who completely accomplish insight, 
  Are the best among gods and humans!”
 
-132. Thereupon, the monks who heard what the Buddha taught rejoiced and approved.
+132. Thereupon, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 133. The Long Discourses _is complete. Homage to all knowledge and the happiness of all beings. May sentient beings dwell in the unconditioned, and let me be an example for them!_
 

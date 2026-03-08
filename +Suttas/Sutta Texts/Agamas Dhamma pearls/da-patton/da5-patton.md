@@ -16,7 +16,7 @@ Translated by Charles Patton
 
 ### 5. The Smaller Teaching on Origination
 
-1. Thus I have heard: One time, the Buddha was staying at Mṛgāramātu Meeting Hall in the Believer’s Park of Śrāvastī. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying at Mṛgāramātu Meeting Hall in the Believer’s Park of Śrāvastī. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 #### Vāsiṣṭha and Bhāradvāja
 

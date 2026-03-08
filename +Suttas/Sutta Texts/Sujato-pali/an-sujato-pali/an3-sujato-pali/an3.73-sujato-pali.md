@@ -29,9 +29,9 @@ Then Venerable Ānanda thought: “The Buddha has recently recovered from an ill
 2Then Ānanda took Mahānāma by the arm, led him off to one side, and said to him: “Mahānāma, the Buddha has spoken of the ethics, immersion, and wisdom of a trainee; and the ethics, immersion, and wisdom of an adept.
 
 
-What is the ethics of a trainee? It’s when a mendicant is ethical, restrained in the monastic code, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is called the ethics of a trainee.
+What is the ethics of a trainee? It’s when a bhikkhu is ethical, restrained in the monastic code, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is called the ethics of a trainee.
 
-3And what is the immersion of a trainee? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. This is called the immersion of a trainee.
+3And what is the immersion of a trainee? It’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. This is called the immersion of a trainee.
 
 4And what is the wisdom of a trainee? They truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. This is called the wisdom of a trainee.
 

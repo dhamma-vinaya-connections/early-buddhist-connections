@@ -17,17 +17,17 @@ language: "English"
 
 8. Recollecting Breathing
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “One should cultivate one thing and disseminate one thing. After cultivating this one thing, they’ll become well known and achieve a great reward and all good and complete attainments. They’ll attain the sweet-tasting dew and arrive at the unconditioned state. They then will achieve spiritual knowledge, dispel their confused ideas, win the fruits of the ascetic, and bring about _nirvāṇa_ themselves. What’s this one thing? It’s called recollecting breathing.”<a id="fnref2"></a>[^2]
-3. The Buddha addressed the monks, “How does someone who cultivates the recollection of breathing become well known, achieve a great reward and all good and complete attainments, attain the sweet-tasting dew, and arrive at the unconditioned state? How do they achieve spiritual knowledge, dispel their confused ideas, win the fruits of the ascetic, and bring about _nirvāṇa_ themselves?”
-The monks then said to the Bhagavān, “What the Tathāgata says is the source of the teachings. Please, Bhagavān, explain the wonderful meaning of this for the monks. After we hear it from the Tathāgata, the monks will accept and retain it.”
-4. The Bhagavān then told the monks, “Listen closely! Listen closely, and consider it well. I will discern this for you in detail.”
+2. It was then that the Bhagavān addressed the bhikkhus, “One should cultivate one thing and disseminate one thing. After cultivating this one thing, they’ll become well known and achieve a great reward and all good and complete attainments. They’ll attain the sweet-tasting dew and arrive at the unconditioned state. They then will achieve spiritual knowledge, dispel their confused ideas, win the fruits of the ascetic, and bring about _nirvāṇa_ themselves. What’s this one thing? It’s called recollecting breathing.”<a id="fnref2"></a>[^2]
+3. The Buddha addressed the bhikkhus, “How does someone who cultivates the recollection of breathing become well known, achieve a great reward and all good and complete attainments, attain the sweet-tasting dew, and arrive at the unconditioned state? How do they achieve spiritual knowledge, dispel their confused ideas, win the fruits of the ascetic, and bring about _nirvāṇa_ themselves?”
+The bhikkhus then said to the Bhagavān, “What the Tathāgata says is the source of the teachings. Please, Bhagavān, explain the wonderful meaning of this for the bhikkhus. After we hear it from the Tathāgata, the bhikkhus will accept and retain it.”
+4. The Bhagavān then told the bhikkhus, “Listen closely! Listen closely, and consider it well. I will discern this for you in detail.”
 They replied, “Yes, Bhagavān.”
-5. Once the monks had accepted the teaching, the Bhagavān told them, “Suppose a monk sits cross-legged with correct posture and thought and fixes his attention on what’s in front of him. With no other idea, he focuses on recollecting breathing.
+5. Once the bhikkhus had accepted the teaching, the Bhagavān told them, “Suppose a monk sits cross-legged with correct posture and thought and fixes his attention on what’s in front of him. With no other idea, he focuses on recollecting breathing.
 6. “‘Breathing’ means observing and knowing, ‘Now my breaths are long,’ when one’s breaths are long. It means observing and knowing, ‘Now my breaths are short,’ when one’s breaths are short. It means observing and knowing, ‘Now my breaths are very cold,’ when one’s breaths are cold. It means observing and knowing, ‘Now my breaths are hot,’ when one’s breaths are hot.<a id="fnref3"></a>[^3] The practitioner fully observes their body, observing and knowing it from head to toe.
 7. “It also means observing, ‘Some of my breaths are long, and some are short,’ when one’s breaths are long and short. They keep their body in mind, fully knowing their breaths to be long or short. They immediately discern and are fully aware of it as they breath in and out. If they keep their body in mind while knowing their breaths are long or short, then they will also know the number of breaths that are long or short, discerning and understanding it clearly.
 8. “This is how someone who cultivates the recollection of breathing will become well known,<a id="fnref4"></a>[^4] achieve a great reward and all good and complete attainments, attain the sweet-tasting dew, and arrive at the unconditioned state. They’ll achieve spiritual knowledge, dispel their confused ideas, win the fruits of the ascetic, and bring about _nirvāṇa_ themselves.
-9. “Therefore, monks, one should constantly attend to this and not part from the recollection of breathing. Then, they’ll win these good virtues. Thus, monks, you should train yourselves.”
-10. When the monks heard what the Buddha taught, they rejoiced and approved.
+9. “Therefore, bhikkhus, one should constantly attend to this and not part from the recollection of breathing. Then, they’ll win these good virtues. Thus, bhikkhus, you should train yourselves.”
+10. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 
@@ -45,7 +45,7 @@ They replied, “Yes, Bhagavān.”
     
     But the mention of cold and warm breath is not found in the extant Mahāsāṃghika presentation of the mindfulness of breathing in the Chinese translation of their Vinaya ([T1425.22.254c14]), nor in the Yogācarabhūmi ([T1579.27.432a28]). Thus far, I’ve been stymied in my search for a direct parallel to this passage, which would lend us some welcome evidence as to the provenance of this particular EĀ. [↩︎](#fnref3)
 
-[^4]: _This is how … well known._ C. 如是，諸比丘，名曰念安般。便得具足⋯. The Taisho edition appears to be corrupt, for it omits mention of becoming well known. Lit., it reads: “Thus, monks, is called ‘recollecting breathing.’ Then, attaining its perfection …”. I’ve translated the passage assuming that the original followed the format of the initial _sūtra_s in this chapter (i.e., 「是謂，諸比丘，若念安般者便有名譽⋯」). 
+[^4]: _This is how … well known._ C. 如是，諸比丘，名曰念安般。便得具足⋯. The Taisho edition appears to be corrupt, for it omits mention of becoming well known. Lit., it reads: “Thus, bhikkhus, is called ‘recollecting breathing.’ Then, attaining its perfection …”. I’ve translated the passage assuming that the original followed the format of the initial _sūtra_s in this chapter (i.e., 「是謂，諸比丘，若念安般者便有名譽⋯」). 
     
 
 ---

@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Associate with a mendicant friend who has five qualities
+> Associate with a bhikkhu friend who has five qualities
 
 > [!info] Key Excerpts 
-> They don’t start up work projects. They don’t take up disciplinary issues. They don’t conflict with leading mendicants. They don’t like aimless wandering. They’re able to educate with Dhamma talks
+> They don’t start up work projects. They don’t take up disciplinary issues. They don’t conflict with leading bhikkhus. They don’t like aimless wandering. They’re able to educate with Dhamma talks
 > 
-> You should associate with a mendicant friend who has these five qualities.”
+> You should associate with a bhikkhu friend who has these five qualities.”
 > 
 
 

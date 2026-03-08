@@ -36,11 +36,11 @@ But the woman, knowing that her husband was lustful, said:
 A second time and a third time he repeated his request, and both times his wife repeated hers.
 
 
-2He then left the house and complained to the monks:
+2He then left the house and complained to the bhikkhus:
 
 “Venerables, Venerable Upananda is seated with my wife in our bedroom. When I ask him to leave because we’re busy, he doesn’t want to go.”
 
-3The monks of few desires complained and criticized Upananda:
+3The bhikkhus of few desires complained and criticized Upananda:
 
 “How could Venerable Upananda sit down intruding on a lustful couple?” …
 
@@ -49,7 +49,7 @@ A second time and a third time he repeated his request, and both times his wife 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

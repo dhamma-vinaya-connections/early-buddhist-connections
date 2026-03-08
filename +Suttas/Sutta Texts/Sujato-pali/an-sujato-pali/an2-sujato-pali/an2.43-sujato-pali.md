@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two assemblies. What two? A divided assembly and a harmonious assembly.
+1“There are, bhikkhus, these two assemblies. What two? A divided assembly and a harmonious assembly.
 
-And what is a divided assembly? An assembly where the mendicants argue, quarrel, and fight, continually wounding each other with barbed words. This is called a divided assembly.
+And what is a divided assembly? An assembly where the bhikkhus argue, quarrel, and fight, continually wounding each other with barbed words. This is called a divided assembly.
 
-2And what is a harmonious assembly? An assembly where the mendicants live in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes. This is called a harmonious assembly.
+2And what is a harmonious assembly? An assembly where the bhikkhus live in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes. This is called a harmonious assembly.
 
 These are the two assemblies. The better of these two assemblies is the harmonious assembly.”
 

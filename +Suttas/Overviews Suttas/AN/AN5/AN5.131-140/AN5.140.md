@@ -47,9 +47,9 @@ parallels_partilal: "[[AN4.114]], [[MN2]], [[MN125]], [[AN4.157]], [[AN4.165]], 
 > Five qualities one should develop to gain mastery of the senses and become a truly worthy person.
 
 > [!info] Key Excerpts 
-> These five sleep little at night woman longing for a man. A man longing for a woman. A thief longing for their loot. A king busy with his duties. A mendicant longing for freedom
+> These five sleep little at night woman longing for a man. A man longing for a woman. A thief longing for their loot. A king busy with his duties. A bhikkhu longing for freedom
 > 
-> Mendicant listens, destroys, protects, endures, and goes fast
+> bhikkhu listens, destroys, protects, endures, and goes fast
 > 
 
 > [!info] Similes

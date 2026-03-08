@@ -19,11 +19,11 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma44note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma44note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “If a monk is forgetful and lacks right knowledge, then that’s detrimental to his right mindfulness and right knowledge. If he lacks right mindfulness and right knowledge, then that’s detrimental to guarding his faculties … guarding the precepts … having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he lacks liberation, then that will be detrimental to nirvāṇa.
+2. It was then that the Bhagavān addressed the bhikkhus, “If a monk is forgetful and lacks right knowledge, then that’s detrimental to his right mindfulness and right knowledge. If he lacks right mindfulness and right knowledge, then that’s detrimental to guarding his faculties … guarding the precepts … having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he lacks liberation, then that will be detrimental to nirvāṇa.
 
 3. “If a monk is not forgetful and has right knowledge, he readily cultivates right mindfulness and right knowledge. If he has right mindfulness and right knowledge, he readily cultivates guarding his faculties … guarding the precepts … having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he has liberation, then he readily cultivates nirvāṇa.”
 
-4. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+4. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

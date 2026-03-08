@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying in the land of the Kurus, near the Kuru town named Kammāsadamma. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying in the land of the Kurus, near the Kuru town named Kammāsadamma. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Mendicants, sensual pleasures are impermanent, hollow, false, and deceptive, made by illusion, cooed over by fools. Sensual pleasures in this life and in lives to come, sensual perceptions in this life and in lives to come; both of these are Māra’s sovereignty, Māra’s domain, and Māra’s territory. They conduce to bad, unskillful qualities such as desire, ill will, and aggression. And they create an obstacle for a noble disciple training here.
+2“bhikkhus, sensual pleasures are impermanent, hollow, false, and deceptive, made by illusion, cooed over by fools. Sensual pleasures in this life and in lives to come, sensual perceptions in this life and in lives to come; both of these are Māra’s sovereignty, Māra’s domain, and Māra’s territory. They conduce to bad, unskillful qualities such as desire, ill will, and aggression. And they create an obstacle for a noble disciple training here.
 
 A noble disciple reflects on this: ‘Sensual pleasures in this life and in lives to come, sensual perceptions in this life and in lives to come; both of these are Māra’s sovereignty, Māra’s domain, and Māra’s territory. They conduce to bad, unskillful qualities such as desire, ill will, and aggression. And they create an obstacle for a noble disciple training here. Why don’t I meditate with an abundant, expansive heart, having mastered the world and stabilized the mind? Then I will have no more bad, unskillful qualities such as desire, ill will, and aggression. And by giving them up my mind, no longer limited, will become limitless and well developed.’
 
@@ -43,28 +43,28 @@ Practicing in this way and meditating on it often their mind becomes confident i
 8Furthermore, a noble disciple reflects: ‘Sensual pleasures in this life and in lives to come, sensual perceptions in this life and in lives to come, visions in this life and in lives to come, perceptions of visions in this life and in lives to come, perceptions of the imperturbable, and perceptions of the dimension of nothingness; all are perceptions. Where they cease without anything left over, that is peaceful, that is sublime, namely the dimension of neither perception nor non-perception.’ Practicing in this way and meditating on it often their mind becomes confident in this dimension. Being confident, they either attain the dimension of neither perception nor non-perception now, or are freed by wisdom. When their body breaks up, after death, it’s possible that the consciousness headed that way will be reborn in the dimension of neither perception nor non-perception. This is said to be the way of practice suitable for attaining the dimension of neither perception nor non-perception.”
 
 
-9When he said this, Venerable Ānanda said to the Buddha: “Sir, take a mendicant who practices like this: ‘It might not be, and it might not be mine. It will not be, and it will not be mine. I am giving up what exists, what has come to be.’ In this way they gain equanimity. Would that mendicant become extinguished or not?”
+9When he said this, Venerable Ānanda said to the Buddha: “Sir, take a bhikkhu who practices like this: ‘It might not be, and it might not be mine. It will not be, and it will not be mine. I am giving up what exists, what has come to be.’ In this way they gain equanimity. Would that bhikkhu become extinguished or not?”
 
-“One such mendicant might become extinguished, Ānanda, while another might not.”
+“One such bhikkhu might become extinguished, Ānanda, while another might not.”
 
 “What is the cause, sir, what is the reason for this?”
 
-“Ānanda, take a mendicant who practices like this: ‘It might not be, and it might not be mine. It will not be, and it will not be mine. I am giving up what exists, what has come to be.’ In this way they gain equanimity. They approve, welcome, and keep clinging to that equanimity. Their consciousness relies on that and grasps it. A mendicant with grasping does not become extinguished.”
+“Ānanda, take a bhikkhu who practices like this: ‘It might not be, and it might not be mine. It will not be, and it will not be mine. I am giving up what exists, what has come to be.’ In this way they gain equanimity. They approve, welcome, and keep clinging to that equanimity. Their consciousness relies on that and grasps it. A bhikkhu with grasping does not become extinguished.”
 
-“But sir, what is that mendicant grasping?”
+“But sir, what is that bhikkhu grasping?”
 
 “The dimension of neither perception nor non-perception.”
 
-“Sir, it seems that mendicant is grasping the best thing to grasp!”
+“Sir, it seems that bhikkhu is grasping the best thing to grasp!”
 
 “Indeed, Ānanda. For the best thing to grasp is the dimension of neither perception nor non-perception.
 
 
-10Take a mendicant who practices like this: ‘It might not be, and it might not be mine. It will not be, and it will not be mine. I am giving up what exists, what has come to be.’ In this way they gain equanimity. They don’t approve, welcome, or keep clinging to that equanimity. So their consciousness doesn’t rely on that and grasp it. A mendicant free of grasping becomes extinguished.”
+10Take a bhikkhu who practices like this: ‘It might not be, and it might not be mine. It will not be, and it will not be mine. I am giving up what exists, what has come to be.’ In this way they gain equanimity. They don’t approve, welcome, or keep clinging to that equanimity. So their consciousness doesn’t rely on that and grasp it. A bhikkhu free of grasping becomes extinguished.”
 
 11“It’s incredible, sir, it’s amazing! The Buddha has explained to us how to cross over the flood by relying on one support or the other. But sir, what is noble liberation?”
 
-“Ananda, it’s when a mendicant reflects like this: ‘Sensual pleasures in this life and in lives to come, sensual perceptions in this life and in lives to come, visions in this life and in lives to come, perceptions of visions in this life and in lives to come, perceptions of the imperturbable, perceptions of the dimension of nothingness, perceptions of the dimension of neither perception nor non-perception; that is identity as far as identity extends. This is the deathless, namely the liberation of the mind through not grasping.
+“Ananda, it’s when a bhikkhu reflects like this: ‘Sensual pleasures in this life and in lives to come, sensual perceptions in this life and in lives to come, visions in this life and in lives to come, perceptions of visions in this life and in lives to come, perceptions of the imperturbable, perceptions of the dimension of nothingness, perceptions of the dimension of neither perception nor non-perception; that is identity as far as identity extends. This is the deathless, namely the liberation of the mind through not grasping.
 
 So, Ānanda, I have taught the ways of practice suitable for attaining the imperturbable, the dimension of nothingness, and the dimension of neither perception nor non-perception. I have taught how to cross the flood by relying on one support or the other, and I have taught noble liberation.
 

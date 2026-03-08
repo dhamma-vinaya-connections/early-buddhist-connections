@@ -41,16 +41,16 @@ The defeated man complained and criticized the nuns, “They’re not monastics 
 
 5Nuns heard the complaints of those people, and the nuns of few desires complained and criticized her, “How could Venerable Thullanandā take legal action?”
 
-Then those nuns told the monks …
+Then those nuns told the bhikkhus …
 
-“Is it true, monks, that the nun Thullanandā is taking legal action?”
+“Is it true, bhikkhus, that the nun Thullanandā is taking legal action?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“How could the nun Thullanandā take legal action? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How could the nun Thullanandā take legal action? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -72,7 +72,7 @@ The Buddha rebuked her …
 12**A worker:** a paid worker, a servant.
 
 
-13**A monastic or a wanderer:** anyone who is a wanderer apart from Buddhist monks, nuns, trainee nuns, novice monks, and novice nuns.
+13**A monastic or a wanderer:** anyone who is a wanderer apart from Buddhist bhikkhus, nuns, trainee nuns, novice bhikkhus, and novice nuns.
 
 14If, thinking, “I’ll initiate a lawsuit,” she looks for a companion or just goes there herself, she commits an offense of wrong conduct. If she tells one other person, she commits an offense of wrong conduct. If she tells a second person, she commits a serious offense. At the end of the lawsuit, she commits an offense entailing suspension.
 

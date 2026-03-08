@@ -46,7 +46,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant with five qualities aspires to end the defilements
+> bhikkhu with five qualities aspires to end the defilements
 
 > [!info] Key Excerpts 
 > Has faith, is healthy, not devious or deceitful, energetic and wise

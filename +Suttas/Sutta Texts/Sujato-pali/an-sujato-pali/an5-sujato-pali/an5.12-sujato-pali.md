@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five powers of a trainee. What five? The powers of faith, conscience, prudence, energy, and wisdom. These are the five powers of a trainee. Of these five powers of a trainee, the power of wisdom is the chief. It holds and binds everything together.
+1“bhikkhus, there are these five powers of a trainee. What five? The powers of faith, conscience, prudence, energy, and wisdom. These are the five powers of a trainee. Of these five powers of a trainee, the power of wisdom is the chief. It holds and binds everything together.
 
 2It’s like a bungalow. The roof-peak is the chief point, which holds and binds everything together. In the same way, of these five powers of a trainee, the power of wisdom is the chief. It holds and binds everything together.
 

@@ -18,67 +18,67 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time five hundred monks with Yasoja at their head had arrived in Sāvatthī, to see the Gracious One. Then those visiting monks while exchanging greetings with the resident monks, having the dwelling places assigned, putting the bowls and robes in order, made a loud noise, a great noise.
+1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time five hundred bhikkhus with Yasoja at their head had arrived in Sāvatthī, to see the Gracious One. Then those visiting bhikkhus while exchanging greetings with the resident bhikkhus, having the dwelling places assigned, putting the bowls and robes in order, made a loud noise, a great noise.
 
 2Then the Gracious One addressed venerable Ānanda, saying: "Who are these making a loud noise, a great noise? One would think it is fishermen with their haul of fish!"
 
-"These, reverend Sir, are five hundred monks with Yasoja at their head, who have arrived at Sāvatthī to see the Gracious One. These visiting monks while exchanging greetings with the resident monks, having the dwelling places assigned, putting the bowls and robes in order, make a loud noise, a great noise."
+"These, reverend Sir, are five hundred bhikkhus with Yasoja at their head, who have arrived at Sāvatthī to see the Gracious One. These visiting bhikkhus while exchanging greetings with the resident bhikkhus, having the dwelling places assigned, putting the bowls and robes in order, make a loud noise, a great noise."
 
-"Now then, Ānanda, with my word address those monks, saying: ‘The Teacher calls the venerable ones.’ "
+"Now then, Ānanda, with my word address those bhikkhus, saying: ‘The Teacher calls the venerable ones.’ "
 
-3"Yes, reverend Sir," said venerable Ānanda, and after replying to the Gracious One, he went to those monks, and after going, he said this to those monks: "The Teacher calls the venerable ones."
+3"Yes, reverend Sir," said venerable Ānanda, and after replying to the Gracious One, he went to those bhikkhus, and after going, he said this to those bhikkhus: "The Teacher calls the venerable ones."
 
-"Yes, friend," said those monks, and after replying to venerable Ānanda, they went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side the Gracious One said this to those monks:
+"Yes, friend," said those bhikkhus, and after replying to venerable Ānanda, they went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side the Gracious One said this to those bhikkhus:
 
-4"Why, monks, are you making a loud noise, a great noise, so one would think it is fishermen with their haul of fish?"
+4"Why, bhikkhus, are you making a loud noise, a great noise, so one would think it is fishermen with their haul of fish?"
 
-After that was said, venerable Yasoja said this to the Gracious One: "These, reverend Sir, are five hundred monks who have arrived at Sāvatthī to see the Gracious One. These visiting monks while exchanging greetings with the resident monks, having the dwelling places assigned, putting the bowls and robes in order, make a loud noise, a great noise."
+After that was said, venerable Yasoja said this to the Gracious One: "These, reverend Sir, are five hundred bhikkhus who have arrived at Sāvatthī to see the Gracious One. These visiting bhikkhus while exchanging greetings with the resident bhikkhus, having the dwelling places assigned, putting the bowls and robes in order, make a loud noise, a great noise."
 
-"Please go, monks, I am dismissing you. You should not live in my presence."
+"Please go, bhikkhus, I am dismissing you. You should not live in my presence."
 
-5"Yes, reverend Sir," said those monks, and after replying to the Gracious One, rising from their seats, worshipping and circumambulating the Gracious One, putting their dwelling places in order, picking up their robes and bowls, they went on walking tour towards Vajji. While walking gradually through Vajji on walking tour they went to the river Vaggumudā, and after going and making leaf-huts on the bank of the river Vaggumudā, they entered upon the Rains Retreat.
+5"Yes, reverend Sir," said those bhikkhus, and after replying to the Gracious One, rising from their seats, worshipping and circumambulating the Gracious One, putting their dwelling places in order, picking up their robes and bowls, they went on walking tour towards Vajji. While walking gradually through Vajji on walking tour they went to the river Vaggumudā, and after going and making leaf-huts on the bank of the river Vaggumudā, they entered upon the Rains Retreat.
 
-6Then venerable Yasoja, having entered upon the Rains Retreat, addressed those monks saying: "We were dismissed, friends, by the Gracious One, who desires our welfare, who seeks our benefit, who is compassionate, out of compassion for us. Well now, venerable friends, we must live in such a way that the Gracious One will be pleased with our living."
+6Then venerable Yasoja, having entered upon the Rains Retreat, addressed those bhikkhus saying: "We were dismissed, friends, by the Gracious One, who desires our welfare, who seeks our benefit, who is compassionate, out of compassion for us. Well now, venerable friends, we must live in such a way that the Gracious One will be pleased with our living."
 
-"Yes, friend," those monks replied to venerable Yasoja. Then those monks while dwelling secluded, heedful, ardent, and resolute, within the Rains Retreat all realized the three deep understandings.
+"Yes, friend," those bhikkhus replied to venerable Yasoja. Then those bhikkhus while dwelling secluded, heedful, ardent, and resolute, within the Rains Retreat all realized the three deep understandings.
 
 7Then the Gracious One, having dwelt at Sāvatthī for as long as he wished, went on walking tour towards Vesālī, and while walking gradually on walking tour he arrived at Vesālī. There the Gracious One dwelt near Vesālī, in the Great Wood, at the Gabled Hall.
 
 ---
 
-8Then the Gracious One, having applied his mind, and with his mind fully encompassed the minds of the monks on the bank of the Vaggumudā, addressed venerable Ānanda, saying:
+8Then the Gracious One, having applied his mind, and with his mind fully encompassed the minds of the bhikkhus on the bank of the Vaggumudā, addressed venerable Ānanda, saying:
 
-"It is as though something light has arisen for me, Ānanda, in this direction. It is as though something splendid has arisen for me, Ānanda, in this direction. To go to that direction where the monks on the bank of the Vaggumudā dwell and to apply my mind is not disagreeable. Please send, Ānanda, a messenger into the presence of the monks on the bank of the Vaggumudā, to say: ‘The Teacher, venerable friends, calls you, the Teacher desires to see the venerable ones.’ "
+"It is as though something light has arisen for me, Ānanda, in this direction. It is as though something splendid has arisen for me, Ānanda, in this direction. To go to that direction where the bhikkhus on the bank of the Vaggumudā dwell and to apply my mind is not disagreeable. Please send, Ānanda, a messenger into the presence of the bhikkhus on the bank of the Vaggumudā, to say: ‘The Teacher, venerable friends, calls you, the Teacher desires to see the venerable ones.’ "
 
-9"Yes, reverend Sir," said venerable Ānanda, and after replying to the Gracious One, he went to a certain monk, and after going, he said this to that monk: "Come, venerable friend, you should go to the monks on the bank of the Vaggumudā, and after going, please say this to the monks on the bank of the Vaggumudā: ‘The Teacher, venerable friends, calls you, the Teacher desires to see the venerable ones.’ "
+9"Yes, reverend Sir," said venerable Ānanda, and after replying to the Gracious One, he went to a certain bhikkhu, and after going, he said this to that bhikkhu: "Come, venerable friend, you should go to the bhikkhus on the bank of the Vaggumudā, and after going, please say this to the bhikkhus on the bank of the Vaggumudā: ‘The Teacher, venerable friends, calls you, the Teacher desires to see the venerable ones.’ "
 
-10"Yes, friend," said that monk, and after replying to venerable Ānanda, just as a strong man might stretch out a bent arm, or bend in an outstretched arm, in the same way did he disappear from the Gabled Hall in Great Wood, and reappear in front of those monks on the bank of the river Vaggumudā. Then that monk said this to the monks on the bank of the Vaggumudā: "The Teacher, venerable friends, calls you, the Teacher desires to see the venerable ones."
+10"Yes, friend," said that bhikkhu, and after replying to venerable Ānanda, just as a strong man might stretch out a bent arm, or bend in an outstretched arm, in the same way did he disappear from the Gabled Hall in Great Wood, and reappear in front of those bhikkhus on the bank of the river Vaggumudā. Then that bhikkhu said this to the bhikkhus on the bank of the Vaggumudā: "The Teacher, venerable friends, calls you, the Teacher desires to see the venerable ones."
 
-11"Yes, friend," said those monks, and after replying to that monk, setting their dwelling places in order, and picking up their bowls and robes, just as a strong man might stretch out a bent arm, or bend in an outstretched arm, in the same way did they disappear from the bank of the river Vaggumudā, and reappear in front of the Gracious One in the Gabled Hall in Great Wood.
+11"Yes, friend," said those bhikkhus, and after replying to that bhikkhu, setting their dwelling places in order, and picking up their bowls and robes, just as a strong man might stretch out a bent arm, or bend in an outstretched arm, in the same way did they disappear from the bank of the river Vaggumudā, and reappear in front of the Gracious One in the Gabled Hall in Great Wood.
 
-Then at that time the Gracious One was sitting in imperturbable samādhi. Then it occured to those monks: "Now in what state is the Gracious One dwelling at the present time?"
+Then at that time the Gracious One was sitting in imperturbable samādhi. Then it occured to those bhikkhus: "Now in what state is the Gracious One dwelling at the present time?"
 
-Then it occured to those monks: "The Gracious One is dwelling in a state of imperturbability at the present time," and they all sat in imperturbable samādhi.
+Then it occured to those bhikkhus: "The Gracious One is dwelling in a state of imperturbability at the present time," and they all sat in imperturbable samādhi.
 
 12Then venerable Ānanda, when the night had passed, when the first watch of the night had gone, after rising from his seat, arranging his robe on one shoulder, and raising his hands in respectful salutation, said this to the Gracious One:
 
-"The night has passed, reverend Sir, the first watch of the night has gone, for a long time these visiting monks have been sitting, let the Gracious One exchange greetings, reverend Sir, with the visiting monks."
+"The night has passed, reverend Sir, the first watch of the night has gone, for a long time these visiting bhikkhus have been sitting, let the Gracious One exchange greetings, reverend Sir, with the visiting bhikkhus."
 
 When that was said, the Gracious One was silent.
 
 13For a second time venerable Ānanda, when the night had passed, when the middle watch of the night had gone, after rising from his seat, arranging his robe on one shoulder, and raising his hands in respectful salutation, said this to the Gracious One:
 
-"The night has passed, reverend Sir, the middle watch of the night has gone, for a long time these visiting monks have been sitting, let the Gracious One exchange greetings, reverend Sir, with the visiting monks."
+"The night has passed, reverend Sir, the middle watch of the night has gone, for a long time these visiting bhikkhus have been sitting, let the Gracious One exchange greetings, reverend Sir, with the visiting bhikkhus."
 
 For a second time the Gracious One was silent.
 
 14For a third time venerable Ānanda, when the night had passed, when the last watch of the night had gone, when dawn had risen, when the night had a joyful appearance, after rising from his seat, arranging his robe on one shoulder, and raising his hands in respectful salutation, said this to the Gracious One:
 
-"The night has passed, reverend Sir, the last watch of the night has gone, dawn has risen, the night has a joyful appearance, for a long time these visiting monks have been sitting, let the Gracious One exchange greetings, reverend Sir, with the visiting monks."
+"The night has passed, reverend Sir, the last watch of the night has gone, dawn has risen, the night has a joyful appearance, for a long time these visiting bhikkhus have been sitting, let the Gracious One exchange greetings, reverend Sir, with the visiting bhikkhus."
 
 15Then the Gracious One, after rising from that samādhi, addressed venerable Ānanda, saying:
 
-"If you knew, Ānanda, you would not say even this much about them. I and these five hundred monks, Ānanda, have all been sat in imperturbable samādhi."
+"If you knew, Ānanda, you would not say even this much about them. I and these five hundred bhikkhus, Ānanda, have all been sat in imperturbable samādhi."
 
 16Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 
@@ -87,7 +87,7 @@ For a second time the Gracious One was silent.
 17"He who is victorious over the thorn of sense desire,  
 Scolding, slaying, and other bonds,  
 He who stands unmoved like a mountain,  
-That monk does not shake in regard to pleasure and pain."
+That bhikkhu does not shake in regard to pleasure and pain."
 
 1Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena yasojappamukhāni pañcamattāni bhikkhusatāni sāvatthiṁ anuppattāni honti bhagavantaṁ dassanāya. Tedha kho āgantukā bhikkhū nevāsikehi bhikkhūhi saddhiṁ paṭisammodamānā senāsanāni paññāpayamānā pattacīvarāni paṭisāmayamānā uccāsaddā mahāsaddā ahesuṁ.
 

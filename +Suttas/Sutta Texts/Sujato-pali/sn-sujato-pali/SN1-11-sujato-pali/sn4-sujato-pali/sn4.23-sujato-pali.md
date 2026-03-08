@@ -55,19 +55,19 @@ for they don’t long for life.
 Having plucked out craving, root and all,  
 Godhika is extinguished.”
 
-8Then the Buddha said to the mendicants: “Come, mendicants, let’s go to the Black Rock on the slopes of Isigili where Godhika, who came from a good family, slit his wrists.”
+8Then the Buddha said to the bhikkhus: “Come, bhikkhus, let’s go to the Black Rock on the slopes of Isigili where Godhika, who came from a good family, slit his wrists.”
 
 “Yes, sir,” they replied.
 
 
-9Then the Buddha together with several mendicants went to the Black Rock on the slopes of Isigili. The Buddha saw Godhika off in the distance lying on his cot, having cast off the aggregates.
+9Then the Buddha together with several bhikkhus went to the Black Rock on the slopes of Isigili. The Buddha saw Godhika off in the distance lying on his cot, having cast off the aggregates.
 
 Now at that time a cloud of black smoke was moving east, west, north, south, above, below, and in-between.
 
 
-10Then the Buddha said to the mendicants,
+10Then the Buddha said to the bhikkhus,
 
-“Mendicants, do you see that cloud of black smoke moving east, west, north, south, above, below, and in-between?”
+“bhikkhus, do you see that cloud of black smoke moving east, west, north, south, above, below, and in-between?”
 
 “Yes, sir.”
 

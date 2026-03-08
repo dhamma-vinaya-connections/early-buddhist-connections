@@ -16,7 +16,7 @@ language: "English - Pali"
 
 274. ‘‘Rāgassa, bhikkhave, abhiññāya cattāro dhammā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; vedanāsu…pe… citte…pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. Rāgassa, bhikkhave, abhiññāya ime cattāro dhammā bhāvetabbā’’ti. Paṭhamaṃ.
 
-274.“For the direct knowledge of lust, bhikkhus, four qualities are to be developed. What four are they? Here, bhikkhus, a bhikkhu dwells contemplating the body in the body, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in the world. He dwells contemplating feelings in feelings… mind in mind… phenomena in phenomena, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in the world. For the direct knowledge of lust, bhikkhus, these four qualities are to be developed.” This is the first.
+274.“For the direct knowledge of lust, bhikkhus, four qualities are to be developed. What four are they? Here, bhikkhus, a bhikkhu ![[Satipatthanas]]. He ![[Satipatthanas]]. For the direct knowledge of lust, bhikkhus, these four qualities are to be developed.” This is the first.
 
 
 ---

@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nun Thullanandā did not relinquish the communal robe, but continued using it. Other menstruating nuns did not get to use it.
 
-2The nuns of few desires complained and criticized her, “How could Venerable Thullanandā not relinquish the communal robe, but continue using it?” … “Is it true, monks, that the nun Thullanandā did this?”
+2The nuns of few desires complained and criticized her, “How could Venerable Thullanandā not relinquish the communal robe, but continue using it?” … “Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

@@ -68,7 +68,7 @@ vin_gender-corr: "BU-SS9"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-SS9 | [[BU-SS9]] | Vin.4.223-4.242 |
 

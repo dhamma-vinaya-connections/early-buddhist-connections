@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four kinds of brightness. What four? The brightness of the moon, sun, fire, and wisdom. These are the four kinds of brightness. The best of these four kinds of brightness is the brightness of wisdom.”
+1“bhikkhus, there are these four kinds of brightness. What four? The brightness of the moon, sun, fire, and wisdom. These are the four kinds of brightness. The best of these four kinds of brightness is the brightness of wisdom.”
 
 1"Catasso imā, bhikkhave, ābhā. Katamā catasso? Candābhā, sūriyābhā, aggābhā, paññābhā – imā kho, bhikkhave, catasso ābhā. Etadaggaṁ, bhikkhave, imāsaṁ catunnaṁ ābhānaṁ yadidaṁ paññābhā"ti.
 

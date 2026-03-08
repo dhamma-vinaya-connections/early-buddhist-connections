@@ -15,9 +15,9 @@ language: "English"
 ## ## Dhamma-niyāma Sutta
 
 
-I have heard that at one time the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the monks, saying, “Monks.”
+I have heard that at one time the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the bhikkhus, saying, “bhikkhus.”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
 The Blessed One said, “Whether or not there is the arising of Tathāgatas, this property stands—this steadfastness of the Dhamma, this orderliness of the Dhamma: ‘All fabrications are inconstant.’
 
@@ -31,7 +31,7 @@ The Blessed One said, “Whether or not there is the arising of Tathāgatas, thi
 
 “The Tathāgata directly awakens to that, breaks through to that. Directly awakening & breaking through to that, he declares it, teaches it, describes it, sets it forth. He reveals it, explains it, makes it plain: ‘All phenomena are not-self.’”
 
-That is what the Blessed One said. Gratified, the monks delighted at his words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted at his words.
 
 Note
 

@@ -47,12 +47,12 @@ And they started to argue about whether or not they were lovers.
 
 Some lay followers overheard that conversation between those Ājīvaka ascetics. They then went to the Buddha, bowed, sat down, and said:
 
-“Venerable Sir, these monastics of other religions want to disparage the Buddha, the Teaching, and the Sangha. It would be good if the monks didn’t personally give anything to the monastics of other religions.”
+“Venerable Sir, these monastics of other religions want to disparage the Buddha, the Teaching, and the Sangha. It would be good if the bhikkhus didn’t personally give anything to the monastics of other religions.”
 
-After the Buddha had instructed, inspired, and gladdened those lay followers with a teaching, they got up from their seats, bowed down, circumambulated him with their right sides toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+After the Buddha had instructed, inspired, and gladdened those lay followers with a teaching, they got up from their seats, bowed down, circumambulated him with their right sides toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 
-“Well then, monks, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of well-behaved monks, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training. And, monks, this training rule should be recited like this:
+“Well then, bhikkhus, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of well-behaved bhikkhus, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training. And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -65,7 +65,7 @@ After the Buddha had instructed, inspired, and gladdened those lay followers wit
 
 5**A naked ascetic:** any wanderer who is naked.
 
-6**A male wanderer:** any male wanderer apart from Buddhist monks and novice monks.
+6**A male wanderer:** any male wanderer apart from Buddhist bhikkhus and novice bhikkhus.
 
 7**A female wanderer:** any female wanderer apart from Buddhist nuns, trainee nuns, and novice nuns.
 

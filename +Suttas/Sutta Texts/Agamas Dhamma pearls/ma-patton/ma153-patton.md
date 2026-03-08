@@ -237,7 +237,7 @@ He answered, “No, Gautama.”
 [↩︎](#^ma153note02-ref)
 
 ^ma153note03
-3. _heretic._ C. 異學, P. _paribbājaka_. The C. translation means “heterodox,” which matches the meaning of S. _tīrthika_ better than S. _parivrājaka_, as it was used to mean an adherent of another religious tradition. But these terms were often treated as close synonyms, usu. referring to both non-Buddhist mendicants and philosophers as a group.  
+3. _heretic._ C. 異學, P. _paribbājaka_. The C. translation means “heterodox,” which matches the meaning of S. _tīrthika_ better than S. _parivrājaka_, as it was used to mean an adherent of another religious tradition. But these terms were often treated as close synonyms, usu. referring to both non-Buddhist bhikkhus and philosophers as a group.  
     _Sugandika_. C. 鬚閑提 (MC. sui-ɦʌn-dei > G. *Suhandi-), P. Magandiya, S. Makandika or Magandika. The C. was probably equivalent to G. *Sukandika (but the first _-k-_ has been weakened to an _-h-_), which would the equiv. of S. *Sugandika. A slightly different name, Sugandhi, is attested in S. sources (Edgerton, 597). 
 
 [↩︎](#^ma153note03-ref)

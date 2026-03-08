@@ -16,9 +16,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five kinds of suffering for an ascetic. What five? It’s when a mendicant is not content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they live the spiritual life dissatisfied. These are five kinds of suffering for an ascetic.
+1“bhikkhus, there are these five kinds of suffering for an ascetic. What five? It’s when a bhikkhu is not content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they live the spiritual life dissatisfied. These are five kinds of suffering for an ascetic.
 
-2There are these five kinds of happiness for an ascetic. What five? It’s when a mendicant is content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they live the spiritual life satisfied. These are five kinds of happiness for an ascetic.”
+2There are these five kinds of happiness for an ascetic. What five? It’s when a bhikkhu is content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they live the spiritual life satisfied. These are five kinds of happiness for an ascetic.”
 
 1"Pañcimāni, bhikkhave, samaṇadukkhāni. Katamāni pañca? Idha, bhikkhave, bhikkhu asantuṭṭho hoti itarītarena cīvarena, asantuṭṭho hoti itarītarena piṇḍapātena, asantuṭṭho hoti itarītarena senāsanena, asantuṭṭho hoti itarītarena gilānappaccayabhesajjaparikkhārena, anabhirato ca brahmacariyaṁ carati. Imāni kho, bhikkhave, pañca samaṇadukkhāni.
 

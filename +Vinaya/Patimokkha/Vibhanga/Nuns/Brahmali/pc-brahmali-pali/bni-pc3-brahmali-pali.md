@@ -24,12 +24,12 @@ language: "Pali - English"
 
 The nuns of few desires complained and criticized them, “How can nuns slap their genitals with their hands?” …
 
-“Is it true, monks, that nuns did that?”
+“Is it true, bhikkhus, that nuns did that?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them, “How could nuns do that? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them, “How could nuns do that? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

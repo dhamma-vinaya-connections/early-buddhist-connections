@@ -12,13 +12,13 @@ language: "English"
 
 # Itivuttaka 97
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, a monk who has admirable virtue, admirable qualities, & admirable discernment is called, in this Dhamma-&-Vinaya, one who is complete, fulfilled, a superlative person.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, a bhikkhu who has admirable virtue, admirable qualities, & admirable discernment is called, in this Dhamma-&-Vinaya, one who is complete, fulfilled, a superlative person.
 
-“And how is a monk a person with admirable virtue? There is the case where a monk is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest faults. In this way a monk is a person with admirable virtue. Thus he is of admirable virtue.
+“And how is a bhikkhu a person with admirable virtue? There is the case where a bhikkhu is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest faults. In this way a bhikkhu is a person with admirable virtue. Thus he is of admirable virtue.
 
-“And how is a monk a person with admirable qualities? There is the case where a monk lives devoted to developing the seven [sets of] qualities that are wings to awakening.[1](#^iti97note01) In this way a monk is a person with admirable qualities. Thus he is of admirable virtue & admirable qualities. ^iti97note01-ref
+“And how is a bhikkhu a person with admirable qualities? There is the case where a bhikkhu lives devoted to developing the seven [sets of] qualities that are wings to awakening.[1](#^iti97note01) In this way a bhikkhu is a person with admirable qualities. Thus he is of admirable virtue & admirable qualities. ^iti97note01-ref
 
-“And how is a monk a person with admirable discernment? There is the case where a monk–with the ending of effluents–remains in the effluent-free awareness-release & discernment-release, directly knowing & realizing it for himself right in the here-&-now. In this way a monk is a person with admirable discernment. Thus he is of admirable virtue, admirable qualities, admirable discernment. In this Dhamma-&-Vinaya he is called one who is complete, fulfilled, a superlative person.”
+“And how is a bhikkhu a person with admirable discernment? There is the case where a bhikkhu–with the ending of effluents–remains in the effluent-free awareness-release & discernment-release, directly knowing & realizing it for himself right in the here-&-now. In this way a bhikkhu is a person with admirable discernment. Thus he is of admirable virtue, admirable qualities, admirable discernment. In this Dhamma-&-Vinaya he is called one who is complete, fulfilled, a superlative person.”
 
 Devoid of wrong-doing
 
@@ -26,7 +26,7 @@ in thought, word, or deed,
 
 he’s called a person of admirable virtue:
 
-the monk conscientious.
+the bhikkhu conscientious.
 
 Well-developed in the qualities
 
@@ -34,7 +34,7 @@ that go to the attainment of self-awakening,
 
 he’s called a person of admirable qualities:
 
-the monk unassuming.
+the bhikkhu unassuming.
 
 Discerning right here for himself,
 
@@ -44,7 +44,7 @@ the ending of stress
 
 he’s called a person of admirable discernment:
 
-the monk with no effluent.
+the bhikkhu with no effluent.
 
 Consummate in
 

@@ -15,19 +15,19 @@ language: "Pali - English"
 
 464. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū sattarasavaggiyānaṃ bhikkhūnaṃ sañcicca kukkuccaṃ upadahanti – ‘‘bhagavatā, āvuso, sikkhāpadaṃ paññattaṃ – ‘na ūnavīsativasso puggalo upasampādetabbo’ti. Tumhe ca ūnavīsativassā upasampannā. Kacci no tumhe anupasampannā’’ti? Te rodanti. Bhikkhū evamāhaṃsu – ‘‘kissa tumhe, āvuso, rodathā’’ti? ‘‘Ime, āvuso, chabbaggiyā bhikkhū amhākaṃ sañcicca kukkuccaṃ upadahantī’’ti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma chabbaggiyā bhikkhū bhikkhūnaṃ sañcicca kukkuccaṃ upadahissantī’’ti…pe… saccaṃ kira tumhe, bhikkhave, bhikkhūnaṃ sañcicca kukkuccaṃ upadahathāti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tumhe, moghapurisā, bhikkhūnaṃ sañcicca kukkuccaṃ upadahissatha! Netaṃ, moghapurisā appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-464.At that time the Blessed One was dwelling at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s Monastery. Now at that time the group-of-six monks intentionally caused anxiety to the monks of the group of seventeen, saying: “Friends, the Blessed One has laid down a training rule: ‘A person who is less than twenty years old should not be given full ordination.’ But you have been fully ordained while less than twenty years old. Could it be that you are not properly ordained?” They wept. The monks said to them: “Why are you weeping, friends?” “These group-of-six monks are intentionally causing us anxiety,” they replied. Those monks of few desires… complained and criticized them: “How can the group-of-six monks intentionally cause anxiety to other monks?”… “Is it true, monks, that you are intentionally causing anxiety to other monks?” “It is true, Blessed One.” The Blessed One rebuked them… “Foolish men, how can you intentionally cause anxiety to other monks! This will not inspire confidence in those without it… And thus, monks, this training rule should be recited:
+464.At that time the Blessed One was dwelling at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s Monastery. Now at that time the group-of-six bhikkhus intentionally caused anxiety to the bhikkhus of the group of seventeen, saying: “Friends, the Blessed One has laid down a training rule: ‘A person who is less than twenty years old should not be given full ordination.’ But you have been fully ordained while less than twenty years old. Could it be that you are not properly ordained?” They wept. The bhikkhus said to them: “Why are you weeping, friends?” “These group-of-six bhikkhus are intentionally causing us anxiety,” they replied. Those bhikkhus of few desires… complained and criticized them: “How can the group-of-six bhikkhus intentionally cause anxiety to other bhikkhus?”… “Is it true, bhikkhus, that you are intentionally causing anxiety to other bhikkhus?” “It is true, Blessed One.” The Blessed One rebuked them… “Foolish men, how can you intentionally cause anxiety to other bhikkhus! This will not inspire confidence in those without it… And thus, bhikkhus, this training rule should be recited:
 
 465. ‘‘Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya nti.
 
-465.“If a monk should intentionally cause anxiety in another monk, thinking, ‘Even for a moment, he will be uncomfortable,’ and does so for this reason alone, he commits an offense entailing confession.”
+465.“If a bhikkhu should intentionally cause anxiety in another bhikkhu, thinking, ‘Even for a moment, he will be uncomfortable,’ and does so for this reason alone, he commits an offense entailing confession.”
 
 466. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-466.“Whoever” means: whatever sort of person… “Monk” means: the monk intended in this case.
+466.“Whoever” means: whatever sort of person… “bhikkhu” means: the bhikkhu intended in this case.
 
 Bhikkhussāti aññassa bhikkhussa.
 
-“Another monk” means: another monk.
+“Another bhikkhu” means: another bhikkhu.
 
 Sañciccāti jānanto sañjānanto cecca abhivitaritvā vītikkamo.
 
@@ -43,7 +43,7 @@ Etadeva paccayaṃ karitvā, anaññanti na añño koci paccayo hoti kukkuccaṃ
 
 467. Upasampanne upasampannasaññī sañcicca kukkuccaṃ upadahati, āpatti pācittiyassa. Upasampanne vematiko sañcicca kukkuccaṃ upadahati, āpatti pācittiyassa. Upasampanne anupasampannasaññī sañcicca kukkuccaṃ upadahati, āpatti pācittiyassa.
 
-467.If, regarding a fully ordained monk, he perceives him as fully ordained and intentionally causes anxiety, he commits an offense entailing confession. If, regarding a fully ordained monk, he is in doubt and intentionally causes anxiety, he commits an offense entailing confession. If, regarding a fully ordained monk, he perceives him as not fully ordained and intentionally causes anxiety, he commits an offense entailing confession.
+467.If, regarding a fully ordained bhikkhu, he perceives him as fully ordained and intentionally causes anxiety, he commits an offense entailing confession. If, regarding a fully ordained bhikkhu, he is in doubt and intentionally causes anxiety, he commits an offense entailing confession. If, regarding a fully ordained bhikkhu, he perceives him as not fully ordained and intentionally causes anxiety, he commits an offense entailing confession.
 
 Anupasampannassa sañcicca kukkuccaṃ upadahati, āpatti dukkaṭassa. Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko, āpatti dukkaṭassa. Anupasampanne anupasampannasaññī, āpatti dukkaṭassa.
 

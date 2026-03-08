@@ -19,13 +19,13 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove in Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “There’s what’s called the factors of awakening. What are the factors of awakening?”
+2. It was then that the Bhagavān addressed the bhikkhus, “There’s what’s called the factors of awakening. What are the factors of awakening?”
 
-3. The monks said to the Buddha, “The Bhagavān is the Dharma root, the Dharma eye, and the Dharma refuge! Please explain it for us. After we hear it, the monks will accept and approve of it.”
+3. The bhikkhus said to the Buddha, “The Bhagavān is the Dharma root, the Dharma eye, and the Dharma refuge! Please explain it for us. After we hear it, the bhikkhus will accept and approve of it.”
 
-4. The Buddha addressed the monks, “The seven factors of awakening are seven factors of the path. Monks, these seven factors of awakening are gradually produced in sequence. After they are gradually produced in sequence, their fulfillment is cultivated.”
+4. The Buddha addressed the bhikkhus, “The seven factors of awakening are seven factors of the path. bhikkhus, these seven factors of awakening are gradually produced in sequence. After they are gradually produced in sequence, their fulfillment is cultivated.”
 
-5. The monks said to the Buddha, “The monks said to the Buddha, “How are the seven factors of awakening, which are gradually produced in sequence, fulfilled after they’ve been produced?”
+5. The bhikkhus said to the Buddha, “The bhikkhus said to the Buddha, “How are the seven factors of awakening, which are gradually produced in sequence, fulfilled after they’ve been produced?”
 
 6. “Suppose a monk abides mindfully contemplating [internal] body as body. After he abides mindfully contemplating [internal] body as body, he focuses his mind, ties it to this mindfulness, and doesn’t forget it. At that point, he’s skillfully cultivating the awakening factor of mindfulness. After skillfully cultivating the awakening factor of mindfulness, he cultivates its fulfillment.
 
@@ -33,7 +33,7 @@ language: "English"
 
 8. _The awakening factors of effort, joy, calm, samādhi, and equanimity are likewise explained. Like the mindfulness of the internal body, thus are the external body, internal and external body, feelings, mind, and principles explained._ <a id="fnref2"></a>[^2] “He abides mindfully contemplating principles as principles. He focuses his mind, ties it to this mindfulness, and doesn’t forget it. At that point, he’s skillfully cultivating the awakening factor of mindfulness. After skillfully cultivating the awakening factor of mindfulness, he cultivates its fulfillment _up to the awakening factor of equanimity, which is likewise explained._ This is called a monk who gradually produces the seven factors of awakening in sequence. After they are gradually produced in sequence, he cultivates their fulfillment.”
 
-9. After the Buddha spoke this sūtra, the monks who heard what he taught rejoiced and approved.
+9. After the Buddha spoke this sūtra, the bhikkhus who heard what he taught rejoiced and approved.
 
 ---
 

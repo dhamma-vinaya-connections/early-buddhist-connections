@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-284“It is impossible, mendicants, it cannot happen for a likable, desirable, agreeable result to come from bad bodily conduct. But it is possible for an unlikable, undesirable, disagreeable result to come from bad bodily conduct.”
+284“It is impossible, bhikkhus, it cannot happen for a likable, desirable, agreeable result to come from bad bodily conduct. But it is possible for an unlikable, undesirable, disagreeable result to come from bad bodily conduct.”
 
-285-286“It is impossible, mendicants, it cannot happen for a likable, desirable, agreeable result to come from bad verbal … bad mental conduct. But it is possible for an unlikable, undesirable, disagreeable result to come from bad verbal … bad mental conduct.”
+285-286“It is impossible, bhikkhus, it cannot happen for a likable, desirable, agreeable result to come from bad verbal … bad mental conduct. But it is possible for an unlikable, undesirable, disagreeable result to come from bad verbal … bad mental conduct.”
 
 
 ---

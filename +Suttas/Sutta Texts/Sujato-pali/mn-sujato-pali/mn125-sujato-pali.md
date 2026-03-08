@@ -25,9 +25,9 @@ Now at that time the novice Aciravata was staying in a wilderness hut. Then as P
 When the greetings and polite conversation were over, he sat down to one side and said to Aciravata,
 
 
-2“Master Aggivessana, I have heard that a mendicant who meditates diligently, keenly, and resolutely can experience unification of mind.”
+2“Master Aggivessana, I have heard that a bhikkhu who meditates diligently, keenly, and resolutely can experience unification of mind.”
 
-“That’s so true, Prince! That’s so true! A mendicant who meditates diligently, keenly, and resolutely can experience unification of mind.”
+“That’s so true, Prince! That’s so true! A bhikkhu who meditates diligently, keenly, and resolutely can experience unification of mind.”
 
 “Master Aggivessana, please teach me the Dhamma as you have learned and memorized it.”
 
@@ -41,7 +41,7 @@ When the greetings and polite conversation were over, he sat down to one side an
 “Master Aggivessana, please teach me the Dhamma as you have learned and memorized it. If I understand the meaning of what you say, that’s good. If not, then I will leave each to his own, and not question you about it further.”
 
 
-3Then the novice Aciravata taught Prince Jayasena the Dhamma as he had learned and memorized it. When he had spoken, Jayasena said to him: “It is impossible, Master Aggivessana, it cannot happen that a mendicant who meditates diligently, keenly, and resolutely can experience unification of mind.” Having declared that this was impossible, Jayasena got up from his seat and left.
+3Then the novice Aciravata taught Prince Jayasena the Dhamma as he had learned and memorized it. When he had spoken, Jayasena said to him: “It is impossible, Master Aggivessana, it cannot happen that a bhikkhu who meditates diligently, keenly, and resolutely can experience unification of mind.” Having declared that this was impossible, Jayasena got up from his seat and left.
 
 4Not long after he had left, Aciravata went to the Buddha, bowed, sat down to one side, and informed the Buddha of all they had discussed.
 
@@ -99,9 +99,9 @@ A householder hears that teaching, or a householder’s child, or someone reborn
 15After some time they give up a large or small fortune, and a large or small family circle. They shave off hair and beard, dress in ocher robes, and go forth from the lay life to homelessness. And it’s only then that a noble disciple comes out into the open, for gods and humans cling to the five kinds of sensual stimulation.
 
 
-Then the Realized One guides them further: ‘Come, mendicant, be ethical and restrained in the monastic code, conducting yourself well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken.’
+Then the Realized One guides them further: ‘Come, bhikkhu, be ethical and restrained in the monastic code, conducting yourself well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken.’
 
-16When they have ethical conduct, the Realized One guides them further: ‘Come, mendicant, guard your sense doors. When you see a sight with your eyes, don’t get caught up in the features and details. …
+16When they have ethical conduct, the Realized One guides them further: ‘Come, bhikkhu, guard your sense doors. When you see a sight with your eyes, don’t get caught up in the features and details. …
 
 This should be expanded as in MN 107, the Discourse with Moggallāna the Accountant.
 
@@ -113,7 +113,7 @@ They meditate observing an aspect of feelings … mind … principles — keen, 
 It’s like when the elephant trainer dug a large post into the earth and tethered the elephant to it by the neck, so as to subdue its wild behaviors, its wild memories and thoughts, and its wild stress, weariness, and fever, and to make it happy to be in the neighborhood of a village, and instill behaviors congenial to humans. In the same way, a noble disciple has these four kinds of mindfulness meditation as tethers for the mind so as to subdue behaviors of the lay life, memories and thoughts of the lay life, the stress, weariness, and fever of the lay life, to end the cycle of suffering and to realize extinguishment.
 
 
-18Then the Realized One guides them further: ‘Come, mendicant, meditate observing an aspect of the body, but don’t think thoughts connected with sensual pleasures. Meditate observing an aspect of feelings … mind … principles, but don’t think thoughts connected with sensual pleasures.’
+18Then the Realized One guides them further: ‘Come, bhikkhu, meditate observing an aspect of the body, but don’t think thoughts connected with sensual pleasures. Meditate observing an aspect of feelings … mind … principles, but don’t think thoughts connected with sensual pleasures.’
 
 19As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna … third jhāna … fourth jhāna.
 
@@ -127,12 +127,12 @@ When their mind has become immersed in samādhi like this — purified, bright, 
 They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’
 
 
-22Such a mendicant endures cold, heat, hunger, and thirst; the touch of flies, mosquitoes, wind, sun, and reptiles; rude and unwelcome criticism; and puts up with physical pain — sharp, severe, acute, unpleasant, disagreeable, and life-threatening. Rid of all greed, hate, and delusion, and purged of defects, they are worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and are the supreme field of merit for the world.
+22Such a bhikkhu endures cold, heat, hunger, and thirst; the touch of flies, mosquitoes, wind, sun, and reptiles; rude and unwelcome criticism; and puts up with physical pain — sharp, severe, acute, unpleasant, disagreeable, and life-threatening. Rid of all greed, hate, and delusion, and purged of defects, they are worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and are the supreme field of merit for the world.
 
 
-23If a royal bull elephant passes away untamed and untrained — whether in their old age, middle age, or youth — they’re considered a royal bull elephant who passed away untamed. In the same way, if a mendicant passes away without having ended the defilements — whether as a senior, middle, or junior — they’re considered as a mendicant who passed away untamed.
+23If a royal bull elephant passes away untamed and untrained — whether in their old age, middle age, or youth — they’re considered a royal bull elephant who passed away untamed. In the same way, if a bhikkhu passes away without having ended the defilements — whether as a senior, middle, or junior — they’re considered as a bhikkhu who passed away untamed.
 
-24If a royal bull elephant passes away tamed and trained — whether in their old age, middle age, or youth — they’re considered a royal bull elephant who passed away tamed. In the same way, if a mendicant passes away having ended the defilements — whether as a senior, middle, or junior — they’re considered as a mendicant who passed away tamed.”
+24If a royal bull elephant passes away tamed and trained — whether in their old age, middle age, or youth — they’re considered a royal bull elephant who passed away tamed. In the same way, if a bhikkhu passes away having ended the defilements — whether as a senior, middle, or junior — they’re considered as a bhikkhu who passed away tamed.”
 
 25That is what the Buddha said. Satisfied, the novice Aciravata was happy with what the Buddha said.
 

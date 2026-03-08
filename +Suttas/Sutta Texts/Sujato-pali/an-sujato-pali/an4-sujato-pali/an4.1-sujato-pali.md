@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying in the land of the Vajjis at the village of Bhaṇḍa. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying in the land of the Vajjis at the village of Bhaṇḍa. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, not understanding and not penetrating four things, both you and I have wandered and transmigrated for such a very long time. What four?
+2“bhikkhus, not understanding and not penetrating four things, both you and I have wandered and transmigrated for such a very long time. What four?
 
 Noble ethics, immersion, wisdom, and freedom.
 
@@ -42,7 +42,7 @@ these things have been understood
 by Gotama the renowned.
 
 5And so the Buddha, having insight,  
-explained this teaching to the mendicants.  
+explained this teaching to the bhikkhus.  
 The teacher made an end of suffering,  
 seeing clearly, he is extinguished.”
 

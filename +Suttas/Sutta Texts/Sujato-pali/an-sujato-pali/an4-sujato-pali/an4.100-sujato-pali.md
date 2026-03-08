@@ -44,7 +44,7 @@ These are the four people found in the world. Of these four people, who do you b
 
 5“Master Gotama, of these four people, it is the person who criticizes those deserving of criticism at the right time, truthfully and substantively; and praises those deserving of praise at the right time, truthfully and substantively. That is the person I believe to be the finest. Why is that? Because, Master Gotama, understanding of time and context is the best.
 
-6Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
+6Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

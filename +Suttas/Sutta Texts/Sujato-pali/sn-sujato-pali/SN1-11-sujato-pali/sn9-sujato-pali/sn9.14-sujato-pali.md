@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato.  
 
-1At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove.
+1At one time one of the bhikkhus was staying in the land of the Kosalans in a certain forest grove.
 
-Now at that time, after the meal, on their return from alms-round, that mendicant plunged into a lotus pond and sniffed a pink lotus. The deity haunting that forest had compassion for that mendicant, and wanted what’s best for them. So they approached that mendicant wanting to stir them up, and addressed them in verse:
+Now at that time, after the meal, on their return from alms-round, that bhikkhu plunged into a lotus pond and sniffed a pink lotus. The deity haunting that forest had compassion for that bhikkhu, and wanted what’s best for them. So they approached that bhikkhu wanting to stir them up, and addressed them in verse:
 
 
 2“This water flower has not been given.  
@@ -57,10 +57,10 @@ whenever you see something like this.”
 
 8“I’m no dependent of yours,  
 nor am I your servant.  
-You yourself should know, mendicant,  
+You yourself should know, bhikkhu,  
 the way that leads to a good place.”
 
-9Impelled by that deity, that mendicant was struck with a sense of urgency.
+9Impelled by that deity, that bhikkhu was struck with a sense of urgency.
 
 
 #### Pali

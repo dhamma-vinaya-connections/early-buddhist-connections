@@ -31,7 +31,7 @@ Then Moḷiyasivaka the wanderer went to the Blessed One and exchanged courteous
 
 “The fact that when a delusive quality is present within you, you discern that a delusive quality is present within you; and when a delusive quality is not present within you, you discern that a delusive quality is not present within you: That is one way in which the Dhamma is visible in the here & now, timeless, inviting verification, pertinent, to be experienced by the observant for themselves.”
 
-“Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of monks. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
+“Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
 See also: [[sn36.21-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti35-thanissaro]]
 

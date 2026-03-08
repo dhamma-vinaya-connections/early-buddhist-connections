@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was wandering in the land of the Videhans together with a large Saṅgha of five hundred mendicants.
+1So I have heard. At one time the Buddha was wandering in the land of the Videhans together with a large Saṅgha of five hundred bhikkhus.
 
 Now at that time the brahmin Brahmāyu was residing in Mithilā. He was old, elderly, and senior, advanced in years, having reached the final stage of life; he was a hundred and twenty years old. He had mastered the three Vedas, together with their vocabularies, ritual, phonology and etymology, and the testament as fifth. He knew philology and grammar, and was well versed in cosmology and the marks of a great man.
 
-He heard: “It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — is wandering in the land of the Videhans, together with a large Saṅgha of around five hundred mendicants. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He explains a teaching that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.”
+He heard: “It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — is wandering in the land of the Videhans, together with a large Saṅgha of around five hundred bhikkhus. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He explains a teaching that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.”
 
 
 2Now at that time the brahmin Brahmāyu had a student named Uttara. He too had mastered the Vedic curriculum Brahmāyu told Uttara of the Buddha’s presence in the land of the Videhans, and added: “Please, dear Uttara, go to the ascetic Gotama and find out whether or not he lives up to his reputation. Through you I shall learn about Master Gotama.”
@@ -289,22 +289,22 @@ So Brahmāyu got up and sat in his own seat.
 
 68Then Brahmāyu saw, attained, understood, and fathomed the Dhamma. He went beyond doubt, got rid of indecision, and became self-assured and independent of others regarding the Teacher’s instructions. He said to the Buddha:
 
-“Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life. Would you and the mendicant Saṅgha please accept a meal from me tomorrow?”
+“Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life. Would you and the bhikkhu Saṅgha please accept a meal from me tomorrow?”
 
 The Buddha consented in silence. Then, knowing that the Buddha had consented, Brahmāyu got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 
 And when the night had passed Brahmāyu had a variety of delicious foods prepared in his own home. Then he had the Buddha informed of the time, saying: “It’s time, Master Gotama, the meal is ready.”
 
 
-69Then the Buddha put on his outer robe in the morning and, taking his bowl and robe, went to the home of the brahmin Brahmāyu, where he sat on the seat spread out, together with the Saṅgha of mendicants. Brahmāyu served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with a variety of delicious foods.
+69Then the Buddha put on his outer robe in the morning and, taking his bowl and robe, went to the home of the brahmin Brahmāyu, where he sat on the seat spread out, together with the Saṅgha of bhikkhus. Brahmāyu served and satisfied the bhikkhu Saṅgha headed by the Buddha with his own hands with a variety of delicious foods.
 
 A week later, the Buddha departed to wander in the Videhan lands. Not long after the Buddha left, Brahmāyu passed away.
 
-Then several mendicants went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, Brahmāyu has passed away. Where has he been reborn in his next life?”
+Then several bhikkhus went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, Brahmāyu has passed away. Where has he been reborn in his next life?”
 
-“Mendicants, the brahmin Brahmāyu was astute. He practiced in line with the teachings, and did not trouble me about the teachings. With the ending of the five lower fetters, he’s been reborn spontaneously and will become extinguished there, not liable to return from that world.”
+“bhikkhus, the brahmin Brahmāyu was astute. He practiced in line with the teachings, and did not trouble me about the teachings. With the ending of the five lower fetters, he’s been reborn spontaneously and will become extinguished there, not liable to return from that world.”
 
-70That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+70That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

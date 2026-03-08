@@ -15,9 +15,9 @@ language: "English"
 ## ## Pañhapucchā Sutta
 
 
-Then Ven. Sāriputta addressed the monks: “Friend monks.”
+Then Ven. Sāriputta addressed the bhikkhus: “Friend bhikkhus.”
 
-“Yes, friend,” the monks responded to him.
+“Yes, friend,” the bhikkhus responded to him.
 
 Ven. Sāriputta said: “All those who ask questions of another do so from any one of five motivations. Which five?
 

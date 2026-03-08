@@ -18,12 +18,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-“Mendicants, there are some ascetics and brahmins who theorize about the future, and assert various hypotheses concerning the future.
+“bhikkhus, there are some ascetics and brahmins who theorize about the future, and assert various hypotheses concerning the future.
 
 Some propose this: ‘The self is percipient and is sound after death.’
 
@@ -142,7 +142,7 @@ The Realized One understands this as follows. This good ascetic or brahmin, lett
 14But the Realized One has awakened to the supreme state of sublime peace, that is, liberation by not grasping after truly understanding these six sense fields’ origin, ending, gratification, drawback, and escape.”
 
 
-15That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+15That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

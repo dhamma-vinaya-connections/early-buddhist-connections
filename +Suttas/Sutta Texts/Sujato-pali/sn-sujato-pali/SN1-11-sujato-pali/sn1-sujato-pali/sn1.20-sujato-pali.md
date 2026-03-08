@@ -27,7 +27,7 @@ Then Venerable Samiddhi rose at the crack of dawn and went to the hot springs to
 Then, late at night, a glorious deity, lighting up the entire hot springs, went up to Samiddhi, and, standing in the air, addressed him in verse:
 
 
-2“Mendicant, you seek alms before you eat;  
+2“bhikkhu, you seek alms before you eat;  
 you wouldn’t seek alms after eating.  
 But you should eat first, then seek alms:  
 don’t let the time pass you by.”
@@ -38,12 +38,12 @@ That’s why I seek alms before eating,
 so that the time may not pass me by!”
 
 
-4Then that deity landed on the ground and said to Samiddhi: “You’ve gone forth while young, mendicant. You’re black-haired, blessed with youth, in the prime of life, and you’ve never flirted with sensual pleasures. Enjoy human sensual pleasures! Don’t give up what is visible in the present to chase after what takes effect over time.”
+4Then that deity landed on the ground and said to Samiddhi: “You’ve gone forth while young, bhikkhu. You’re black-haired, blessed with youth, in the prime of life, and you’ve never flirted with sensual pleasures. Enjoy human sensual pleasures! Don’t give up what is visible in the present to chase after what takes effect over time.”
 
 5“I’m not, good sir; I’m giving up what takes effect over time to chase after what is visible in the present. For the Buddha has said that sensual pleasures take effect over time, with much suffering and distress, and they’re all the more full of drawbacks. But this teaching is visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves.”
 
 
-6“But in what way, mendicant, has the Buddha said that sensual pleasures take effect over time, with much suffering and distress, and they’re all the more full of drawbacks? And how is this teaching visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves?”
+6“But in what way, bhikkhu, has the Buddha said that sensual pleasures take effect over time, with much suffering and distress, and they’re all the more full of drawbacks? And how is this teaching visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves?”
 
 
 7“I’m junior, good sir, recently gone forth, newly come to this teaching and training. I’m not able to explain this in detail. But the Blessed One, the perfected one, the fully awakened Buddha is staying near Rājagaha in the Hot Springs Monastery. You should go to him and ask about this matter. And you should remember it in line with the Buddha’s answer.”
@@ -59,7 +59,7 @@ Then he added:
 
 “Sir, if that deity spoke the truth, he’ll be close by.”
 
-18When he had spoken, that deity said to Samiddhi: “Ask, mendicant, ask! For I have arrived.”
+18When he had spoken, that deity said to Samiddhi: “Ask, bhikkhu, ask! For I have arrived.”
 
 
 19Then the Buddha addressed the deity in verse:

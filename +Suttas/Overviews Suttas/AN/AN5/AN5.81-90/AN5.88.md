@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Even if a senior mendicant has many good qualities, they can still lead people astray if they have wrong view
+> Even if a senior bhikkhu has many good qualities, they can still lead people astray if they have wrong view
 
 > [!info] Key Excerpts 
 > Senior who have have long gone forth, is well-known, receive requisites, is very learned and have have right view and an undistorted perspective.
 > 
-> A senior mendicant with morality, learning, who is a good speaker, get 4 jhanas and realize the undefiled freedom of heart and freedom by wisdom is honorable
+> A senior bhikkhu with morality, learning, who is a good speaker, get 4 jhanas and realize the undefiled freedom of heart and freedom by wisdom is honorable
 > 
 
 

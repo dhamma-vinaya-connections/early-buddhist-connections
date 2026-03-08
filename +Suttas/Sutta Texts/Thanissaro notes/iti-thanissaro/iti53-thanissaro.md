@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 53
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three feelings. Which three? A feeling of pleasure, a feeling of pain, a feeling of neither pleasure nor pain. A feeling of pleasure should be seen as stressful. A feeling of pain should be seen as an arrow. A feeling of neither pleasure nor pain should be seen as inconstant. When a monk has seen a feeling of pleasure as stressful, a feeling of pain as an arrow, and a feeling of neither pleasure nor pain as inconstant, then he is called a monk who is noble, who has seen rightly, who has cut off craving, destroyed the fetters, and who–from the right breaking-through of conceit–has put an end to suffering & stress.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three feelings. Which three? A feeling of pleasure, a feeling of pain, a feeling of neither pleasure nor pain. A feeling of pleasure should be seen as stressful. A feeling of pain should be seen as an arrow. A feeling of neither pleasure nor pain should be seen as inconstant. When a bhikkhu has seen a feeling of pleasure as stressful, a feeling of pain as an arrow, and a feeling of neither pleasure nor pain as inconstant, then he is called a bhikkhu who is noble, who has seen rightly, who has cut off craving, destroyed the fetters, and who–from the right breaking-through of conceit–has put an end to suffering & stress.”
 
 Whoever sees
 
@@ -24,7 +24,7 @@ sees peaceful neither pleasure nor pain
 
 as inconstant:
 
-he is a monk
+he is a bhikkhu
 
 who’s seen rightly.
 

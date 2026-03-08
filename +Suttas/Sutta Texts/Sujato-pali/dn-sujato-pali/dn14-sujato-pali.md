@@ -21,19 +21,19 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery, in the hut by the _kareri_ tree.
 
-Then after the meal, on return from alms-round, several senior mendicants sat together in the pavilion by the _kareri_tree and this Dhamma talk on the subject of past lives came up among them: “So it was in a past life; such it was in a past life.”
+Then after the meal, on return from alms-round, several senior bhikkhus sat together in the pavilion by the _kareri_tree and this Dhamma talk on the subject of past lives came up among them: “So it was in a past life; such it was in a past life.”
 
 
-2With clairaudience that is purified and superhuman, the Buddha heard that discussion among the mendicants. So he got up from his seat and went to the pavilion, where he sat on the seat spread out and addressed the mendicants: “Mendicants, what were you sitting talking about just now? What conversation was unfinished?”
+2With clairaudience that is purified and superhuman, the Buddha heard that discussion among the bhikkhus. So he got up from his seat and went to the pavilion, where he sat on the seat spread out and addressed the bhikkhus: “bhikkhus, what were you sitting talking about just now? What conversation was unfinished?”
 
-3The mendicants told him what had happened, adding: “This is the conversation that was unfinished when the Buddha arrived.”
+3The bhikkhus told him what had happened, adding: “This is the conversation that was unfinished when the Buddha arrived.”
 
 
 4“Would you like to hear a Dhamma talk on the subject of past lives?”
 
-“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha give a Dhamma talk on the subject of past lives. The mendicants will listen and remember it.”
+“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha give a Dhamma talk on the subject of past lives. The bhikkhus will listen and remember it.”
 
-“Well then, mendicants, listen and pay close attention, I will speak.”
+“Well then, bhikkhus, listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
@@ -53,23 +53,23 @@ Then after the meal, on return from alms-round, several senior mendicants sat to
 
 10Vipassī had a fine pair of chief disciples named Khaṇḍa and Tissa. Sikhī had a fine pair of chief disciples named Abhibhū and Sambhava. Vessabhū had a fine pair of chief disciples named Soṇa and Uttara. Kakusandha had a fine pair of chief disciples named Vidhura and Sañjīva. Koṇāgamana had a fine pair of chief disciples named Bhiyyosa and Uttara. Kassapa had a fine pair of chief disciples named Tissa and Bhāradvāja. I have a fine pair of chief disciples named Sāriputta and Moggallāna.
 
-11Vipassī had three gatherings of disciples — one of 6, 800, 000, one of 100, 000, and one of 80, 000 — all of them mendicants who had ended their defilements.
+11Vipassī had three gatherings of disciples — one of 6, 800, 000, one of 100, 000, and one of 80, 000 — all of them bhikkhus who had ended their defilements.
 
-12Sikhī had three gatherings of disciples — one of 100, 000, one of 80, 000, and one of 70, 000 — all of them mendicants who had ended their defilements.
-
-
-13Vessabhū had three gatherings of disciples — one of 80, 000, one of 70, 000, and one of 60, 000 — all of them mendicants who had ended their defilements.
-
-14Kakusandha had one gathering of disciples — 40, 000 mendicants who had ended their defilements.
-
-15Koṇāgamana had one gathering of disciples — 30, 000 mendicants who had ended their defilements.
-
-16Kassapa had one gathering of disciples — 20, 000 mendicants who had ended their defilements.
-
-17I have had one gathering of disciples — 1, 250 mendicants who had ended their defilements.
+12Sikhī had three gatherings of disciples — one of 100, 000, one of 80, 000, and one of 70, 000 — all of them bhikkhus who had ended their defilements.
 
 
-18Vipassī had as chief attendant a mendicant named Asoka. Sikhī had as chief attendant a mendicant named Khemaṅkara. Vessabhū had as chief attendant a mendicant named Upasanta. Kakusandha had as chief attendant a mendicant named Buddhija. Koṇāgamana had as chief attendant a mendicant named Sotthija. Kassapa had as chief attendant a mendicant named Sabbamitta. I have as chief attendant a mendicant named Ānanda.
+13Vessabhū had three gatherings of disciples — one of 80, 000, one of 70, 000, and one of 60, 000 — all of them bhikkhus who had ended their defilements.
+
+14Kakusandha had one gathering of disciples — 40, 000 bhikkhus who had ended their defilements.
+
+15Koṇāgamana had one gathering of disciples — 30, 000 bhikkhus who had ended their defilements.
+
+16Kassapa had one gathering of disciples — 20, 000 bhikkhus who had ended their defilements.
+
+17I have had one gathering of disciples — 1, 250 bhikkhus who had ended their defilements.
+
+
+18Vipassī had as chief attendant a bhikkhu named Asoka. Sikhī had as chief attendant a bhikkhu named Khemaṅkara. Vessabhū had as chief attendant a bhikkhu named Upasanta. Kakusandha had as chief attendant a bhikkhu named Buddhija. Koṇāgamana had as chief attendant a bhikkhu named Sotthija. Kassapa had as chief attendant a bhikkhu named Sabbamitta. I have as chief attendant a bhikkhu named Ānanda.
 
 19Vipassī’s father was King Bandhuma, his birth mother was Queen Bandhumatī, and their capital city was named Bandhumatī.
 
@@ -89,32 +89,32 @@ Then after the meal, on return from alms-round, several senior mendicants sat to
 That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.
 
 
-26Soon after the Buddha left, those mendicants discussed among themselves:
+26Soon after the Buddha left, those bhikkhus discussed among themselves:
 
 “It’s incredible, reverends, it’s amazing, the power and might of a Realized One! For he is able to recollect the caste, names, clans, life-span, chief disciples, and gatherings of disciples of the Buddhas of the past who have become completely extinguished, cut off proliferation, cut off the track, finished off the cycle, and transcended suffering. He knows the caste they were born in, and also their names, clans, conduct, qualities, wisdom, meditation, and freedom.
 
 
-27Is it because the Realized One has clearly comprehended the principle of the teachings that he can recollect all these things? Or did deities tell him?” But this conversation among those mendicants was left unfinished.
+27Is it because the Realized One has clearly comprehended the principle of the teachings that he can recollect all these things? Or did deities tell him?” But this conversation among those bhikkhus was left unfinished.
 
 
-28Then in the late afternoon, the Buddha came out of retreat and went to the pavilion by the _kareri_tree, where he sat on the seat spread out and addressed the mendicants: “Mendicants, what were you sitting talking about just now? What conversation was unfinished?”
+28Then in the late afternoon, the Buddha came out of retreat and went to the pavilion by the _kareri_tree, where he sat on the seat spread out and addressed the bhikkhus: “bhikkhus, what were you sitting talking about just now? What conversation was unfinished?”
 
 
-29-30The mendicants told him what had happened, adding: “This was our conversation that was unfinished when the Buddha arrived.”  
+29-30The bhikkhus told him what had happened, adding: “This was our conversation that was unfinished when the Buddha arrived.”  
   
 “It is because the Realized One has clearly comprehended the principle of the teachings that he can recollect all these things. And the deities also told me.
 
 
 31Would you like to hear a further Dhamma talk on the subject of past lives?”
 
-“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha give a further Dhamma talk on the subject of past lives. The mendicants will listen and remember it.”
+“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha give a further Dhamma talk on the subject of past lives. The bhikkhus will listen and remember it.”
 
-“Well then, mendicants, listen and pay close attention, I will speak.”
+“Well then, bhikkhus, listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
 
-32“Ninety-one eons ago, the Buddha Vipassī arose in the world, perfected and fully awakened. He was born as an aristocrat into an aristocrat family. His clan was Koṇḍañña. He lived for 80, 000 years. He was awakened at the root of a trumpet flower tree. He had a fine pair of chief disciples named Khaṇḍa and Tissa. He had three gatherings of disciples — one of 6, 800, 000, one of 100, 000, and one of 80, 000 — all of them mendicants who had ended their defilements. He had as chief attendant a mendicant named Asoka. His father was King Bandhuma, his birth mother was Queen Bandhumatī, and their capital city was named Bandhumatī.
+32“Ninety-one eons ago, the Buddha Vipassī arose in the world, perfected and fully awakened. He was born as an aristocrat into an aristocrat family. His clan was Koṇḍañña. He lived for 80, 000 years. He was awakened at the root of a trumpet flower tree. He had a fine pair of chief disciples named Khaṇḍa and Tissa. He had three gatherings of disciples — one of 6, 800, 000, one of 100, 000, and one of 80, 000 — all of them bhikkhus who had ended their defilements. He had as chief attendant a bhikkhu named Asoka. His father was King Bandhuma, his birth mother was Queen Bandhumatī, and their capital city was named Bandhumatī.
 
 #### 2. What’s Normal For One Intent on Awakening
 
@@ -551,7 +551,7 @@ Then the king’s son Khaṇḍa and the high priest’s son Tissa had the fines
 
 157The Buddha Vipassī taught them step by step, with a talk on giving, ethical conduct, and heaven. He explained the drawbacks of sensual pleasures, so sordid and corrupt, and the benefit of renunciation. And when he knew that their minds were ready, pliable, rid of hindrances, joyful, and confident he explained the special teaching of the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth rid of stains would properly absorb dye, in that very seat the stainless, immaculate vision of the Dhamma arose in the king’s son Khaṇḍa and the high priest’s son Tissa: ‘Everything that has a beginning has an end.’
 
-158They saw, attained, understood, and fathomed the Dhamma. They went beyond doubt, got rid of indecision, and became self-assured and independent of others regarding the Teacher’s instructions. They said to the Buddha Vipassī, ‘Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. We go for refuge to the Blessed One, to the teaching, and to the mendicant Saṅgha. Sir, may we receive the going forth and ordination in the Buddha’s presence?’
+158They saw, attained, understood, and fathomed the Dhamma. They went beyond doubt, got rid of indecision, and became self-assured and independent of others regarding the Teacher’s instructions. They said to the Buddha Vipassī, ‘Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. We go for refuge to the Blessed One, to the teaching, and to the bhikkhu Saṅgha. Sir, may we receive the going forth and ordination in the Buddha’s presence?’
 
 159And they received the going forth, the ordination in the Buddha Vipassī’s presence. Then the Buddha Vipassī educated, encouraged, fired up, and inspired them with a Dhamma talk. He explained the drawbacks of conditioned phenomena, so sordid and corrupt, and the benefit of extinguishment. Being taught like this their minds were soon freed from defilements by not grasping.
 
@@ -572,28 +572,28 @@ Being taught like this their minds were soon freed from defilements by not grasp
 
 #### 16. The Allowance to Wander
 
-168Now at that time a large Saṅgha of 6, 800, 000 mendicants were residing at Bandhumatī. As the Buddha Vipassī was in private retreat this thought came to his mind, ‘The Saṅgha residing at Bandhumatī now is large. What if I was to urge them:
+168Now at that time a large Saṅgha of 6, 800, 000 bhikkhus were residing at Bandhumatī. As the Buddha Vipassī was in private retreat this thought came to his mind, ‘The Saṅgha residing at Bandhumatī now is large. What if I was to urge them:
 
-“Wander forth, mendicants, for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans. Let not two go by one road. Teach the Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And reveal a spiritual practice that’s entirely full and pure. There are beings with little dust in their eyes. They’re in decline because they haven’t heard the teaching. There will be those who understand the teaching! But when six years have passed, you must all come to Bandhumatī to recite the monastic code.”’
+“Wander forth, bhikkhus, for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans. Let not two go by one road. Teach the Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And reveal a spiritual practice that’s entirely full and pure. There are beings with little dust in their eyes. They’re in decline because they haven’t heard the teaching. There will be those who understand the teaching! But when six years have passed, you must all come to Bandhumatī to recite the monastic code.”’
 
 
-169Then a certain Great Brahmā, knowing what the Buddha Vipassī was thinking, as easily as a strong person would extend or contract their arm, vanished from the Brahmā realm and reappeared in front of the Buddha Vipassī. He arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha Vipassī, and said, ‘That’s so true, Blessed One! That’s so true, Holy One! The Saṅgha residing at Bandhumatī now is large. Please urge them to wander, as you thought. And sir, I’ll make sure that when six years have passed the mendicants will return to Bandhumatī to recite the monastic code.’
+169Then a certain Great Brahmā, knowing what the Buddha Vipassī was thinking, as easily as a strong person would extend or contract their arm, vanished from the Brahmā realm and reappeared in front of the Buddha Vipassī. He arranged his robe over one shoulder, knelt on his right knee, raised his joined palms toward the Buddha Vipassī, and said, ‘That’s so true, Blessed One! That’s so true, Holy One! The Saṅgha residing at Bandhumatī now is large. Please urge them to wander, as you thought. And sir, I’ll make sure that when six years have passed the bhikkhus will return to Bandhumatī to recite the monastic code.’
 
 That’s what that Great Brahmā said. Then he bowed and respectfully circled the Buddha Vipassī, keeping him on his right side, before vanishing right there.
 
 
-170-172Then in the late afternoon, the Buddha Vipassī came out of retreat and addressed the mendicants, telling them all that had happened. Then he said,  
+170-172Then in the late afternoon, the Buddha Vipassī came out of retreat and addressed the bhikkhus, telling them all that had happened. Then he said,  
   
-‘Wander forth, mendicants, for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans. Let not two go by one road. Teach the Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And reveal a spiritual practice that’s entirely full and pure. There are beings with little dust in their eyes. They’re in decline because they haven’t heard the teaching. There will be those who understand the teaching! But when six years have passed, you must all come to Bandhumatī to recite the monastic code.’  
+‘Wander forth, bhikkhus, for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans. Let not two go by one road. Teach the Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And reveal a spiritual practice that’s entirely full and pure. There are beings with little dust in their eyes. They’re in decline because they haven’t heard the teaching. There will be those who understand the teaching! But when six years have passed, you must all come to Bandhumatī to recite the monastic code.’  
   
-Then most of the mendicants departed to wander the country that very day.
+Then most of the bhikkhus departed to wander the country that very day.
 
 
 173Now at that time there were 84, 000 monasteries in India. And when the first year came to an end the deities raised the cry: ‘Good sirs, the first year has ended. Now five years remain. When five years have passed, you must all go to Bandhumatī to recite the monastic code.’
 
 And when the second year … the third year … the fourth year … the fifth year came to an end, the deities raised the cry: ‘Good sirs, the fifth year has ended. Now one year remains. When one year has passed, you must all go to Bandhumatī to recite the monastic code.’
 
-And when the sixth year came to an end the deities raised the cry: ‘Good sirs, the sixth year has ended. Now is the time that you must go to Bandhumatī to recite the monastic code.’ Then that very day the mendicants went to Bandhumatī to recite the monastic code. Some went by their own psychic power, and some by the psychic power of the deities.
+And when the sixth year came to an end the deities raised the cry: ‘Good sirs, the sixth year has ended. Now is the time that you must go to Bandhumatī to recite the monastic code.’ Then that very day the bhikkhus went to Bandhumatī to recite the monastic code. Some went by their own psychic power, and some by the psychic power of the deities.
 
 
 174And there the Blessed One Vipassī, the perfected one, the fully awakened Buddha, recited the monastic code thus:
@@ -618,17 +618,17 @@ this is the instruction of the Buddhas.’
 
 #### 17. Being Informed by Deities
 
-178At one time, mendicants, I was staying near Ukkaṭṭhā, in the Subhaga Forest at the root of a magnificent _sal_tree. As I was in private retreat this thought came to mind, ‘It’s not easy to find an abode of sentient beings where I haven’t previously abided in all this long time, except for the gods of the pure abodes. Why don’t I go to see them?’
+178At one time, bhikkhus, I was staying near Ukkaṭṭhā, in the Subhaga Forest at the root of a magnificent _sal_tree. As I was in private retreat this thought came to mind, ‘It’s not easy to find an abode of sentient beings where I haven’t previously abided in all this long time, except for the gods of the pure abodes. Why don’t I go to see them?’
 
 Then, as easily as a strong person would extend or contract their arm, I vanished from the Subhaga Forest and reappeared with the Aviha gods.
 
 
-In that order of gods, many thousands, many hundreds of thousands of deities approached me, bowed, stood to one side, and said to me, ‘Ninety-one eons ago, good sir, the Buddha Vipassī arose in the world, perfected and fully awakened. He was born as an aristocrat into an aristocrat family. Koṇḍañña was his clan. He lived for 80, 000 years. He was awakened at the root of a trumpet flower tree. He had a fine pair of chief disciples named Khaṇḍa and Tissa. He had three gatherings of disciples — one of 6, 800, 000, one of 100, 000, and one of 80, 000 — all of them mendicants who had ended their defilements. He had as chief attendant a mendicant named Asoka. His father was King Bandhuma, his birth mother was Queen Bandhumatī, and their capital city was named Bandhumatī. And such was his renunciation, such his going forth, such his striving, such his awakening, and such his rolling forth of the wheel of Dhamma. And good sir, after leading the spiritual life under that Buddha Vipassī we lost our desire for sensual pleasures and were reborn here.’
+In that order of gods, many thousands, many hundreds of thousands of deities approached me, bowed, stood to one side, and said to me, ‘Ninety-one eons ago, good sir, the Buddha Vipassī arose in the world, perfected and fully awakened. He was born as an aristocrat into an aristocrat family. Koṇḍañña was his clan. He lived for 80, 000 years. He was awakened at the root of a trumpet flower tree. He had a fine pair of chief disciples named Khaṇḍa and Tissa. He had three gatherings of disciples — one of 6, 800, 000, one of 100, 000, and one of 80, 000 — all of them bhikkhus who had ended their defilements. He had as chief attendant a bhikkhu named Asoka. His father was King Bandhuma, his birth mother was Queen Bandhumatī, and their capital city was named Bandhumatī. And such was his renunciation, such his going forth, such his striving, such his awakening, and such his rolling forth of the wheel of Dhamma. And good sir, after leading the spiritual life under that Buddha Vipassī we lost our desire for sensual pleasures and were reborn here.’
 
 And other deities came and similarly recounted the details of the Buddhas Sikhī, Vessabhū, Kakusandha, Koṇāgamana, and Kassapa.
 
 
-179In that order of gods, many hundreds of deities approached me, bowed, stood to one side, and said to me, ‘In the present fortunate eon, good sir, you have arisen in the world, perfected and fully awakened. You were born as an aristocrat into an aristocrat family. Gotama is your clan. For you the life-span is short, brief, and fleeting. A long-lived person lives for a century or a little more. You were awakened at the root of a peepul tree. You have a fine pair of chief disciples named Sāriputta and Moggallāna. You have had one gathering of disciples — 1, 250 mendicants who had ended their defilements. You have as chief attendant a mendicant named Ānanda. Your father is King Suddhodana, your birth mother was Queen Māyā, and your capital city was Kapilavatthu. And such was your renunciation, such your going forth, such your striving, such your awakening, and such your rolling forth of the wheel of Dhamma. And good sir, after leading the spiritual life under you we lost our desire for sensual pleasures and were reborn here.’
+179In that order of gods, many hundreds of deities approached me, bowed, stood to one side, and said to me, ‘In the present fortunate eon, good sir, you have arisen in the world, perfected and fully awakened. You were born as an aristocrat into an aristocrat family. Gotama is your clan. For you the life-span is short, brief, and fleeting. A long-lived person lives for a century or a little more. You were awakened at the root of a peepul tree. You have a fine pair of chief disciples named Sāriputta and Moggallāna. You have had one gathering of disciples — 1, 250 bhikkhus who had ended their defilements. You have as chief attendant a bhikkhu named Ānanda. Your father is King Suddhodana, your birth mother was Queen Māyā, and your capital city was Kapilavatthu. And such was your renunciation, such your going forth, such your striving, such your awakening, and such your rolling forth of the wheel of Dhamma. And good sir, after leading the spiritual life under you we lost our desire for sensual pleasures and were reborn here.’
 
 
 180-182Then together with the Aviha gods I went to see the Atappa gods … the Gods Fair to See … and the Fair Seeing Gods. Then together with all these gods I went to see the Gods of Akaniṭṭha, where we had a similar conversation.
@@ -637,7 +637,7 @@ And other deities came and similarly recounted the details of the Buddhas Sikhī
 183-184And that is how the Realized One is able to recollect the caste, names, clans, life-span, chief disciples, and gatherings of disciples of the Buddhas of the past who have become completely extinguished, cut off proliferation, cut off the track, finished off the cycle, and transcended suffering. It is both because I have clearly comprehended the principle of the teachings, and also because the deities told me.”
 
 
-185That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+185That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### 1. Pubbenivāsapaṭisaṁyuttakathā
 

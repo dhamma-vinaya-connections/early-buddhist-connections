@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Vesālī, in Ambapālī’s Wood. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Vesālī, in Ambapālī’s Wood. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, conditions are impermanent. Conditions are unstable. Conditions are unreliable. This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.
+2“bhikkhus, conditions are impermanent. Conditions are unstable. Conditions are unreliable. This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.
 
 3Sineru, the king of mountains, is 84, 000 leagues long and 84, 000 leagues wide. It sinks 84, 000 leagues below the ocean and rises 84, 000 leagues above it.
 
@@ -46,7 +46,7 @@ There comes a time when, after a very long period has passed, the rain doesn’t
 
 And when the great earth and Sineru the king of mountains blaze and burn, no soot or ash is found. It’s like when ghee or oil blaze and burn, and neither ashes nor soot are found. In the same way, when the great earth and Sineru the king of mountains blaze and burn, no soot or ash is found. So impermanent are conditions, so unstable are conditions, so unreliable are conditions. This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.
 
-10Mendicants, who would ever think or believe that this earth and Sineru, king of mountains, will burn and crumble and be no more, except for one who has seen the truth?
+10bhikkhus, who would ever think or believe that this earth and Sineru, king of mountains, will burn and crumble and be no more, except for one who has seen the truth?
 
 11Once upon a time, there was a teacher called Sunetta. He was a religious founder and was free of sensual desire. He had many hundreds of disciples. He taught them the path to rebirth in the company of Brahmā. Those who totally understood Sunetta’s teachings were — when their body broke up, after death — reborn in a good place, the company of Brahmā. Of those who didn’t totally understand Sunetta’s teachings, some — when their body broke up, after death — were reborn in the company of the Gods Who Control the Creations of Others. Some were reborn in the company of the Gods Who Love to Create, some with the Joyful Gods, some with the Gods of Yama, some with the Gods of the Thirty-Three, and some with the Gods of the Four Great Kings. Some were reborn in the company of well-to-do aristocrats or brahmins or householders.
 
@@ -73,7 +73,7 @@ these things have been understood
 by Gotama the renowned.
 
 16And so the Buddha, having insight,  
-explained this teaching to the mendicants.  
+explained this teaching to the bhikkhus.  
 The Teacher has made an end of suffering;  
 seeing clearly, he is extinguished.”
 

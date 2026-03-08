@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a woman or a man, a layperson or a renunciate should often review these five subjects. What five?
+1“bhikkhus, a woman or a man, a layperson or a renunciate should often review these five subjects. What five?
 
 ‘I am liable to grow old, I am not exempt from old age.’ A woman or a man, a layperson or a renunciate should often review this.
 

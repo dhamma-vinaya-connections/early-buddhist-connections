@@ -24,12 +24,12 @@ language: "Pali - English"
 
 3The nuns heard the complaints of those people, and the nuns of few desires complained and criticized those nuns, “How can the nuns from the group of six collect bowls?” …
 
-“Is it true, monks, that the nuns from the group of six do this?”
+“Is it true, bhikkhus, that the nuns from the group of six do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns from the group of six collect bowls? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns from the group of six collect bowls? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -48,7 +48,7 @@ The Buddha rebuked them … “How can the nuns from the group of six collect bo
 
 8**Entailing relinquishment:** entailing relinquishment at dawn. The bowl is to be relinquished to a saṅgha, a group, or an individual nun.
 
-“And, monks, it’s to be relinquished like this. After approaching the Sangha, that nun should arrange her upper robe over one shoulder and pay respect at the feet of the senior nuns. She should then squat on her heels, raise her joined palms, and say,
+“And, bhikkhus, it’s to be relinquished like this. After approaching the Sangha, that nun should arrange her upper robe over one shoulder and pay respect at the feet of the senior nuns. She should then squat on her heels, raise her joined palms, and say,
 
 ‘Venerables, this almsbowl, which I have kept for more than one day, is to be relinquished. I relinquish it to the Sangha.’
 
@@ -85,7 +85,7 @@ After relinquishing it, she is to confess the offense. The confession should be 
 
 16Soon afterwards the nuns from the group of six did not give back a relinquished bowl. They told the Buddha.
 
-“Monks, a relinquished almsbowl is to be given back. If a nun doesn’t give it back, she commits an offense of wrong conduct.”
+“bhikkhus, a relinquished almsbowl is to be given back. If a nun doesn’t give it back, she commits an offense of wrong conduct.”
 
 17The first training rule is finished.
 

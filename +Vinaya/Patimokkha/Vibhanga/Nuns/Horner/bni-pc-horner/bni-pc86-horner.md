@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.86.1.1* *BD.3.404* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time a certain nun frequented a certain woman’s family. Then that woman spoke thus to that nun: “Please, lady, give this petticoat to such and such a woman.” Then that nun, thinking: “If I go away taking it in my bowl, there will be trouble for me,”[^1] went away having tied it on. When she was on the high road the strings broke and were scattered. People … spread it about, saying: “How can these nuns[^2] wear a petticoat, like women householders who enjoy pleasures of the senses?” Nuns … heard these people who … spread it about. Those who were modest nuns *Vin.4.340* … spread it about, saying: “How can this nun wear a petticoat?” …
 
-“Is it true, as is said, monks, that a nun wore a petticoat?”
+“Is it true, as is said, bhikkhus, that a nun wore a petticoat?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can a nun wear a petticoat? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can a nun wear a petticoat? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should wear a petticoat, there is an offence of expiation.”
 

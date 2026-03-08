@@ -2,7 +2,7 @@
 sutta_code: "AN7.23"
 sutta_title:
   - "Bhikkhu-Aparihaniya "
-  - "Non-Decline For Mendicants"
+  - "Non-Decline For bhikkhus"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -14,37 +14,37 @@ language: "English - Pali"
 
 ## 7: The Book of the Sevens
 
-### III. The Vajji Seven — AN 7.23: Non-Decline for Mendicants (1st)
+### III. The Vajji Seven — AN 7.23: Non-Decline for bhikkhus (1st)
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain. There the Buddha addressed the mendicants:
+1So I have heard. At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain. There the Buddha addressed the bhikkhus:
 
-“Mendicants, I will teach you these seven principles that prevent decline. Listen and pay close attention, I will speak.”
+“bhikkhus, I will teach you these seven principles that prevent decline. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
 
 2“What are the seven principles that prevent decline?
 
-As long as the mendicants meet frequently and have many meetings, they can expect growth, not decline.
+As long as the bhikkhus meet frequently and have many meetings, they can expect growth, not decline.
 
-3As long as the mendicants meet in harmony, leave in harmony, and carry on their business in harmony, they can expect growth, not decline.
+3As long as the bhikkhus meet in harmony, leave in harmony, and carry on their business in harmony, they can expect growth, not decline.
 
-4As long as the mendicants don’t make new decrees or abolish existing decrees, but undertake and follow the training rules as they have been decreed, they can expect growth, not decline.
+4As long as the bhikkhus don’t make new decrees or abolish existing decrees, but undertake and follow the training rules as they have been decreed, they can expect growth, not decline.
 
-5As long as the mendicants honor, respect, esteem, and venerate the senior mendicants — of long standing, long gone forth, fathers and leaders of the Saṅgha — and think them worth listening to, they can expect growth, not decline.
+5As long as the bhikkhus honor, respect, esteem, and venerate the senior bhikkhus — of long standing, long gone forth, fathers and leaders of the Saṅgha — and think them worth listening to, they can expect growth, not decline.
 
-6As long as the mendicants don’t fall under the sway of arisen craving for future lives, they can expect growth, not decline.
+6As long as the bhikkhus don’t fall under the sway of arisen craving for future lives, they can expect growth, not decline.
 
-7As long as the mendicants take care to live in wilderness lodgings, they can expect growth, not decline.
+7As long as the bhikkhus take care to live in wilderness lodgings, they can expect growth, not decline.
 
-8As long as the mendicants individually establish mindfulness, so that more good-hearted spiritual companions might come, and those that have already come may live comfortably, they can expect growth, not decline.
+8As long as the bhikkhus individually establish mindfulness, so that more good-hearted spiritual companions might come, and those that have already come may live comfortably, they can expect growth, not decline.
 
 
-9As long as these seven principles that prevent decline last among the mendicants, and as long as the mendicants are seen following them, they can expect growth, not decline.”
+9As long as these seven principles that prevent decline last among the bhikkhus, and as long as the bhikkhus are seen following them, they can expect growth, not decline.”
 
 #### Pali
 

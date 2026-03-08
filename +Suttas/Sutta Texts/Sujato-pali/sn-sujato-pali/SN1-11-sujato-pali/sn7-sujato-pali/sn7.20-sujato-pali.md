@@ -2,7 +2,7 @@
 sutta_code: "SN7.20"
 sutta_title:
   - "Bhikkhakasutta "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -29,12 +29,12 @@ When the greetings and polite conversation were over, he sat down to one side an
 2“You don’t become a beggar  
 just by begging from others.  
 Someone who has accepted domestic responsibilities  
-has not yet become a mendicant.
+has not yet become a bhikkhu.
 
 3But one living a spiritual life  
 who has shunned both good and bad,  
 having considered, they live in this world:  
-that’s who’s called a mendicant.”
+that’s who’s called a bhikkhu.”
 
 4When he had spoken, the begging brahmin said to the Buddha: “Excellent, Master Gotama! Excellent! … From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
 

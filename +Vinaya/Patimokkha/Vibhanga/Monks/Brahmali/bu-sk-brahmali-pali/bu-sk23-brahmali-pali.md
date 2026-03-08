@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were covering their heads with their upper robes while walking in inhabited areas. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were covering their heads with their upper robes while walking in inhabited areas. …
 
 #### Final ruling
 

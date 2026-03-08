@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with five qualities fails, and doesn’t establish themselves in the true teaching. What five? A mendicant who is faithless … shameless … imprudent … lazy … witless fails, and doesn’t establish themselves in the true teaching. A mendicant with these five qualities fails, and doesn’t establish themselves in the true teaching.
+1“bhikkhus, a bhikkhu with five qualities fails, and doesn’t establish themselves in the true teaching. What five? A bhikkhu who is faithless … shameless … imprudent … lazy … witless fails, and doesn’t establish themselves in the true teaching. A bhikkhu with these five qualities fails, and doesn’t establish themselves in the true teaching.
 
-2A mendicant with five qualities doesn’t fail, and establishes themselves in the true teaching. What five? A mendicant who is faithful … conscientious … prudent … energetic … wise doesn’t fail, and establishes themselves in the true teaching. A mendicant with these five qualities doesn’t fail, and establishes themselves in the true teaching.”
+2A bhikkhu with five qualities doesn’t fail, and establishes themselves in the true teaching. What five? A bhikkhu who is faithful … conscientious … prudent … energetic … wise doesn’t fail, and establishes themselves in the true teaching. A bhikkhu with these five qualities doesn’t fail, and establishes themselves in the true teaching.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu cavati, nappatiṭṭhāti saddhamme. Katamehi pañcahi? Assaddho, bhikkhave, bhikkhu cavati, nappatiṭṭhāti saddhamme. Ahiriko, bhikkhave, bhikkhu cavati, nappatiṭṭhāti saddhamme. Anottappī, bhikkhave, bhikkhu cavati, nappatiṭṭhāti saddhamme. Kusīto, bhikkhave, bhikkhu cavati, nappatiṭṭhāti saddhamme. Duppañño, bhikkhave, bhikkhu cavati, nappatiṭṭhāti saddhamme. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu cavati, nappatiṭṭhāti saddhamme.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“One thing, mendicants, when developed and cultivated leads to the realization of the fruit of stream-entry … once-return … non-return … perfection. What one thing? Mindfulness of the body. This one thing, when developed and cultivated, leads to the realization of the fruit of stream-entry … once-return … non-return … perfection.”
+1“One thing, bhikkhus, when developed and cultivated leads to the realization of the fruit of stream-entry … once-return … non-return … perfection. What one thing? Mindfulness of the body. This one thing, when developed and cultivated, leads to the realization of the fruit of stream-entry … once-return … non-return … perfection.”
 
 
 ---

@@ -23,39 +23,39 @@ Then, Venerable Udāyī, having taught the Dhamma close to the housewife’s ear
 
 Assosuṃ kho bhikkhū tāsaṃ itthīnaṃ ujjhāyantīnaṃ khiyyantīnaṃ vipācentīnaṃ. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma āyasmā udāyī mātugāmassa dhammaṃ desessatī’’ti! Atha kho te bhikkhū āyasmantaṃ udāyiṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ…pe… ‘‘saccaṃ kira tvaṃ, udāyi, mātugāmassa dhammaṃ desesī’’ti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tvaṃ, moghapurisa, mātugāmassa dhammaṃ desessasi. Netaṃ moghapurisa, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-The monks heard those women complaining, criticizing, and protesting. Those monks who were modest… complained, criticized, and protested, saying, “How could Venerable Udāyī teach the Dhamma to women?” Then those monks, having rebuked Venerable Udāyī in many ways, reported the matter to the Blessed One… “Is it true, Udāyī, that you taught the Dhamma to women?” “It is true, Blessed One.” The Buddha rebuked him… “Foolish man, how could you teach the Dhamma to women? This will not inspire confidence in those without it…” … “And so, monks, this training rule should be recited:
+The bhikkhus heard those women complaining, criticizing, and protesting. Those bhikkhus who were modest… complained, criticized, and protested, saying, “How could Venerable Udāyī teach the Dhamma to women?” Then those bhikkhus, having rebuked Venerable Udāyī in many ways, reported the matter to the Blessed One… “Is it true, Udāyī, that you taught the Dhamma to women?” “It is true, Blessed One.” The Buddha rebuked him… “Foolish man, how could you teach the Dhamma to women? This will not inspire confidence in those without it…” … “And so, bhikkhus, this training rule should be recited:
 
 ‘‘Yo pana bhikkhu mātugāmassa dhammaṃ deseyya pācittiya’’nti.
 
-“Whatever monk should teach the Dhamma to a woman, there is an offense of expiation.”
+“Whatever bhikkhu should teach the Dhamma to a woman, there is an offense of expiation.”
 
 Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti.
 
-Thus was this training rule laid down for the monks by the Blessed One.
+Thus was this training rule laid down for the bhikkhus by the Blessed One.
 
 61. Tena kho pana samayena upāsikā bhikkhū passitvā etadavocuṃ – ‘‘iṅghāyyā dhammaṃ desethā’’ti. ‘‘Na, bhaginī, kappati mātugāmassa dhammaṃ desetu’’nti. ‘‘Iṅghāyyā chappañcavācāhi dhammaṃ desetha, sakkā ettakenapi dhammo aññātu’’nti. ‘‘Na, bhaginī, kappati mātugāmassa dhammaṃ desetu’’nti. Kukkuccāyantā na desesuṃ. Upāsikā ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma ayyā amhehi yāciyamānā dhammaṃ na desessantī’’ti! Assosuṃ kho bhikkhū tāsaṃ upāsikānaṃ ujjhāyantīnaṃ khiyyantīnaṃ vipācentīnaṃ. Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ. Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi – ‘‘anujānāmi, bhikkhave, mātugāmassa chappañcavācāhi dhammaṃ desetuṃ. Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-61.Now at that time, female lay followers, seeing the monks, said: "Come, venerable sirs, teach the Dhamma." "Sisters, it is not allowable to teach the Dhamma to women." "Come, venerable sirs, teach the Dhamma in five or six phrases; even with that much Dhamma, it is possible to understand." "Sisters, it is not allowable to teach the Dhamma to women." Scrupulous, they did not teach. The female lay followers complained, were annoyed, and criticized them: "How is it that the venerable ones, when requested by us, do not teach the Dhamma?" The monks heard those female lay followers complaining, being annoyed, and criticizing. Then those monks reported the matter to the Blessed One. Then the Blessed One, on this occasion, because of this incident, having given a Dhamma talk, addressed the monks: "I allow, monks, the teaching of the Dhamma to women in five or six phrases. And thus, monks, you should recite this training rule:
+61.Now at that time, female lay followers, seeing the bhikkhus, said: "Come, venerable sirs, teach the Dhamma." "Sisters, it is not allowable to teach the Dhamma to women." "Come, venerable sirs, teach the Dhamma in five or six phrases; even with that much Dhamma, it is possible to understand." "Sisters, it is not allowable to teach the Dhamma to women." Scrupulous, they did not teach. The female lay followers complained, were annoyed, and criticized them: "How is it that the venerable ones, when requested by us, do not teach the Dhamma?" The bhikkhus heard those female lay followers complaining, being annoyed, and criticizing. Then those bhikkhus reported the matter to the Blessed One. Then the Blessed One, on this occasion, because of this incident, having given a Dhamma talk, addressed the bhikkhus: "I allow, bhikkhus, the teaching of the Dhamma to women in five or six phrases. And thus, bhikkhus, you should recite this training rule:
 
 ‘‘Yo pana bhikkhū mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya, pācittiya’’nti.
 
-“Whatever monk should teach the Dhamma to a woman in more than five or six phrases, there is an offense of expiation.”
+“Whatever bhikkhu should teach the Dhamma to a woman in more than five or six phrases, there is an offense of expiation.”
 
 Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti.
 
-Thus was this training rule laid down by the Blessed One for the monks.
+Thus was this training rule laid down by the Blessed One for the bhikkhus.
 
 62. Tena kho pana samayena chabbaggiyā bhikkhū – ‘‘bhagavatā anuññātaṃ mātugāmassa chappañcavācāhi dhammaṃ desetu’’nti te aviññuṃ purisaviggahaṃ upanisīdāpetvā mātugāmassa uttarichappañcavācāhi dhammaṃ desenti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma chabbaggiyā bhikkhū aviññuṃ purisaviggahaṃ upanisīdāpetvā mātugāmassa uttarichappañcavācāhi dhammaṃ desessantī’’ti!
 
-62.Now at that time the monks of the group of six—thinking, "The Blessed One has allowed teaching the Dhamma to a woman with five or six phrases"—having an ignorant figure of a man sit nearby, teach the Dhamma to a woman with more than five or six phrases. The monks who were modest… criticized, murmured, and disapproved, saying: "How can the monks of the group of six, having an ignorant figure of a man sit nearby, teach the Dhamma to a woman with more than five or six phrases?"
+62.Now at that time the bhikkhus of the group of six—thinking, "The Blessed One has allowed teaching the Dhamma to a woman with five or six phrases"—having an ignorant figure of a man sit nearby, teach the Dhamma to a woman with more than five or six phrases. The bhikkhus who were modest… criticized, murmured, and disapproved, saying: "How can the bhikkhus of the group of six, having an ignorant figure of a man sit nearby, teach the Dhamma to a woman with more than five or six phrases?"
 
 Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ…pe… ‘‘saccaṃ kira tumhe, bhikkhave, aviññuṃ purisaviggahaṃ upanisīdāpetvā mātugāmassa uttarichappañcavācāhi dhammaṃ desethā’’ti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tumhe, moghapurisā, aviññuṃ purisaviggahaṃ upanisīdāpetvā mātugāmassa uttarichappañcavācāhi dhammaṃ desessatha! Netaṃ, moghapurisā, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-Then those monks, having rebuked the monks of the group of six in many ways, reported the matter to the Blessed One… “Is it true, monks, that you, having seated an ignorant person nearby, taught the Dhamma to a woman with more than five or six phrases?” “It is true, Blessed One.” The Buddha rebuked them… “How could you, foolish men, having seated an ignorant person nearby, teach the Dhamma to a woman with more than five or six phrases? This will not inspire faith in the unfaithful… And so, monks, this training rule should be recited thus –
+Then those bhikkhus, having rebuked the bhikkhus of the group of six in many ways, reported the matter to the Blessed One… “Is it true, bhikkhus, that you, having seated an ignorant person nearby, taught the Dhamma to a woman with more than five or six phrases?” “It is true, Blessed One.” The Buddha rebuked them… “How could you, foolish men, having seated an ignorant person nearby, teach the Dhamma to a woman with more than five or six phrases? This will not inspire faith in the unfaithful… And so, bhikkhus, this training rule should be recited thus –
 
 63. ‘‘Yo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya, aññatra viññunā purisaviggahena, pācittiya’’nti.
 
-63.“Whatever monk should teach the Dhamma to a woman with more than five or six phrases, unless a discerning human being is present, there is an offense of expiation.”
+63.“Whatever bhikkhu should teach the Dhamma to a woman with more than five or six phrases, unless a discerning human being is present, there is an offense of expiation.”
 
 64. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
@@ -83,7 +83,7 @@ Except for a discerning human being—excluding a discerning human being. A disc
 
 65. Mātugāme mātugāmasaññī uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, āpatti pācittiyassa. Mātugāme vematiko uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, āpatti pācittiyassa. Mātugāme amātugāmasaññī uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, āpatti pācittiyassa.
 
-65.If, perceiving a woman as a woman, a monk teaches her the Dhamma in more than five or six phrases, except when a discerning human being is present, there is an offense of expiation. If, being in doubt about whether it is a woman, a monk teaches her the Dhamma in more than five or six phrases, except when a discerning human being is present, there is an offense of expiation. If, not perceiving a woman as a woman, a monk teaches her the Dhamma in more than five or six phrases, except when a discerning human being is present, there is an offense of expiation.
+65.If, perceiving a woman as a woman, a bhikkhu teaches her the Dhamma in more than five or six phrases, except when a discerning human being is present, there is an offense of expiation. If, being in doubt about whether it is a woman, a bhikkhu teaches her the Dhamma in more than five or six phrases, except when a discerning human being is present, there is an offense of expiation. If, not perceiving a woman as a woman, a bhikkhu teaches her the Dhamma in more than five or six phrases, except when a discerning human being is present, there is an offense of expiation.
 
 Yakkhiyā vā petiyā vā paṇḍakassa vā tiracchānagatamanussaviggahitthiyā vā uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, āpatti dukkaṭassa. Amātugāme mātugāmasaññī, āpatti dukkaṭassa. Amātugāme vematiko, āpatti dukkaṭassa. Amātugāme amātugāmasaññī, anāpatti.
 

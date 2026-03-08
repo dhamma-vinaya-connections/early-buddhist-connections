@@ -14,7 +14,7 @@ language: "English"
 
 > **Division:** III. SICK
 
-“Bhikkhus, if any bhikkhu or bhikkhunī develops and cultivates five things, one of two fruits is to be expected: either final knowledge in this very life or, if there is a residue remaining, the state of non-returning. What are the five? Here, a bhikkhu has mindfulness well established internally for \[gaining\] the wisdom that discerns the arising and passing away of phenomena; he dwells contemplating the unattractiveness of the body, perceiving the repulsiveness of food, perceiving non-delight in the entire world, and contemplating impermanence in all conditioned phenomena. If any bhikkhu or bhikkhunī develops and cultivates these five things, one of two fruits is to be expected: either final knowledge in this very life or, if there is a residue remaining, the state of non-returning.”
+“Bhikkhus, if any bhikkhu or bhikkhunī develops and cultivates five things, one of two fruits is to be expected: either final knowledge in this very life or, if there is a residue remaining, the state of non-returning. What are the five? Here, a bhikkhu has mindfulness well established internally for \[gaining\] the wisdom that discerns the arising and passing away of phenomena; he ![[Satipatthanas]], and contemplating impermanence in all conditioned phenomena. If any bhikkhu or bhikkhunī develops and cultivates these five things, one of two fruits is to be expected: either final knowledge in this very life or, if there is a residue remaining, the state of non-returning.”
 
 
 ---

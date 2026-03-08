@@ -20,13 +20,13 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato.  
 
-1At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove.
+1At one time one of the bhikkhus was staying in the land of the Kosalans in a certain forest grove.
 
-Now at that time that mendicant had previously been spending too much time in recitation. But some time later they adhered to passivity and silence. Not hearing the teaching, the deity haunting that forest approached that mendicant, and addressed them in verse:
+Now at that time that bhikkhu had previously been spending too much time in recitation. But some time later they adhered to passivity and silence. Not hearing the teaching, the deity haunting that forest approached that bhikkhu, and addressed them in verse:
 
 
-2“Mendicant, why don’t you recite passages of the teaching,  
-living together with other mendicants?  
+2“bhikkhu, why don’t you recite passages of the teaching,  
+living together with other bhikkhus?  
 When you hear the teaching confidence grows;  
 and the reciter is praised in the present life.”
 

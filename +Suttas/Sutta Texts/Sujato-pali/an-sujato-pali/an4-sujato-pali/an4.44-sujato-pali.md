@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four things oppose the true teaching. What four? Valuing anger, denigration, material possessions, and honor rather than the true teaching. These are the four things that oppose the true teaching.
+1“bhikkhus, these four things oppose the true teaching. What four? Valuing anger, denigration, material possessions, and honor rather than the true teaching. These are the four things that oppose the true teaching.
 
 2These four things are the true teaching. What four? Valuing the true teaching rather than anger, denigration, material possessions, and honor. These are the four things that are the true teaching.
 
-3A mendicant who values anger and denigration,  
+3A bhikkhu who values anger and denigration,  
 possessions and honor,  
 doesn’t grow in the true teaching,  
 like a rotten seed in a good field.

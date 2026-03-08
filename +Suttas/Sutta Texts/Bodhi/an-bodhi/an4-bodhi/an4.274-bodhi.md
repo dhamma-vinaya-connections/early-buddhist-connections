@@ -14,7 +14,7 @@ language: "English"
 
 > **Division:** VIII. LUST AND SO FORTH REPETITION SERIES
 
-“Bhikkhus, for direct knowledge of lust, four things are to be developed. What four? (1) Here, a bhikkhu dwells contemplating the body in the body, ardent, clearly comprehending, mindful, having removed longing and dejection in regard to the world. (2) He dwells contemplating feelings in feelings … (3) … mind in mind … (4) … phenomena in phenomena, ardent, clearly comprehending, mindful, having removed longing and dejection in regard to the world. For direct knowledge of lust, these four things are to be developed.”
+“Bhikkhus, for direct knowledge of lust, four things are to be developed. What four? (1) Here, a bhikkhu ![[Satipatthanas]]. (2) He ![[Satipatthanas]]. For direct knowledge of lust, these four things are to be developed.”
 
 
 ---

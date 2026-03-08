@@ -16,37 +16,37 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were eating fine foods that they had requested for themselves. People complained and criticized them:
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were eating fine foods that they had requested for themselves. People complained and criticized them:
 
 “How can the Sakyan monastics eat fine foods that they have requested for themselves? Who doesn’t like nice food? Who doesn’t prefer tasty food?”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks:
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus:
 
-“How can the monks from the group of six eat fine foods that they have requested for themselves?” …
+“How can the bhikkhus from the group of six eat fine foods that they have requested for themselves?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 3‘If a monk asks for any of these kinds of fine foods for himself—that is, ghee, butter, oil, honey, syrup, fish, meat, milk, and curd—and then eats it, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5At one time a number of monks were sick. The monks who were looking after them asked:
+5At one time a number of bhikkhus were sick. The bhikkhus who were looking after them asked:
 
 “I hope you’re bearing up? I hope you’re getting better?”
 
 
 “Previously we ate fine foods that we had requested ourselves, and then we were comfortable. But now that the Buddha has prohibited this, we don’t request because we’re afraid of wrongdoing. And because of that we’re not comfortable.”
 
-They told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+They told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow a sick monk to eat fine foods that he has requested for himself.
+“bhikkhus, I allow a sick monk to eat fine foods that he has requested for himself.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

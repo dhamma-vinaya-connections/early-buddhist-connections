@@ -20,17 +20,17 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are eight causes and reasons that lead to acquiring the wisdom fundamental to the spiritual life, and to its increase, growth, and full development once it has been acquired. What eight?
+1“bhikkhus, there are eight causes and reasons that lead to acquiring the wisdom fundamental to the spiritual life, and to its increase, growth, and full development once it has been acquired. What eight?
 
-It’s when a mendicant lives relying on the Teacher or a spiritual companion in a teacher’s role. And they set up a keen sense of conscience and prudence for them, with warmth and respect. This is the first cause.
+It’s when a bhikkhu lives relying on the Teacher or a spiritual companion in a teacher’s role. And they set up a keen sense of conscience and prudence for them, with warmth and respect. This is the first cause.
 
-2When a mendicant lives relying on the Teacher or a spiritual companion in a teacher’s role — with a keen sense of conscience and prudence for them, with warmth and respect — from time to time they go and ask them questions: ‘Why, sir, does it say this? What does that mean?’ Those venerables clarify what is unclear, reveal what is obscure, and dispel doubt regarding the many doubtful matters. This is the second cause.
+2When a bhikkhu lives relying on the Teacher or a spiritual companion in a teacher’s role — with a keen sense of conscience and prudence for them, with warmth and respect — from time to time they go and ask them questions: ‘Why, sir, does it say this? What does that mean?’ Those venerables clarify what is unclear, reveal what is obscure, and dispel doubt regarding the many doubtful matters. This is the second cause.
 
 
 3After hearing that teaching they perfect withdrawal of both body and mind. This is the third cause.
 
 
-4A mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is the fourth cause.
+4A bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is the fourth cause.
 
 5They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically. This is the fifth cause.
 

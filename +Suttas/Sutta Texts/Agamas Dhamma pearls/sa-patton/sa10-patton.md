@@ -17,9 +17,9 @@ language: "English"
 
 16 (10). Liberation
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “Form is impermanent. What’s impermanent is painful, something painful is not self, and something that’s not self doesn’t belong to self, either. Observing it in this way is called a true observation. Thus, feeling … conception … volition … awareness is impermanent. What’s impermanent is painful, something painful is not self, and something that’s not self doesn’t belong to self, either. Observing it in this way is called true observation.
+2. It was then that the Bhagavān addressed the bhikkhus, “Form is impermanent. What’s impermanent is painful, something painful is not self, and something that’s not self doesn’t belong to self, either. Observing it in this way is called a true observation. Thus, feeling … conception … volition … awareness is impermanent. What’s impermanent is painful, something painful is not self, and something that’s not self doesn’t belong to self, either. Observing it in this way is called true observation.
 3. “Noble disciples who observe it in this way are liberated from form … liberated from sensation … conception … volition … awareness. I say that this is liberation<a id="fnref2"></a>[^2] from birth, old age, illness, death, grief, sorrow, pain, and trouble.”
-4. When the monks heard what the Buddha taught, they rejoiced and approved.
+4. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

@@ -44,7 +44,7 @@ parallels_partilal: "[[SA-3.6]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Shopkeepers and mendicants both have to work hard, be clever, responsible, and well supported.
+> Shopkeepers and bhikkhus both have to work hard, be clever, responsible, and well supported.
 
 > [!info] Key Excerpts 
 > Practice samadhi in the morning, at midday, and in the afternoon, sees clearly, is responsible, and has supporters.

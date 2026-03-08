@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to doubt, or, when it has arisen, makes it increase and grow like improper attention. When you attend improperly, doubt arises, and once arisen it increases and grows.”
+1“bhikkhus, I do not see a single thing that gives rise to doubt, or, when it has arisen, makes it increase and grow like improper attention. When you attend improperly, doubt arises, and once arisen it increases and grows.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannā vā vicikicchā uppajjati uppannā vā vicikicchā bhiyyobhāvāya vepullāya saṁvattati yathayidaṁ, bhikkhave, ayonisomanasikāro. Ayoniso, bhikkhave, manasi karoto anuppannā ceva vicikicchā uppajjati uppannā ca vicikicchā bhiyyobhāvāya vepullāya saṁvattatī"ti.
 

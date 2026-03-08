@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Gāyā on Gāyā Head. There the Buddha addressed the mendicants:
+1At one time the Buddha was staying near Gāyā on Gāyā Head. There the Buddha addressed the bhikkhus:
 
-“Mendicants, before my awakening — when I was still not awake but intent on awakening — I perceived light but did not see visions.
+“bhikkhus, before my awakening — when I was still not awake but intent on awakening — I perceived light but did not see visions.
 
 
 2Then it occurred to me, ‘What if I were to both perceive light and see visions? Then my knowledge and vision would become even more purified.’

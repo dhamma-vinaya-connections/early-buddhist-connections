@@ -2,7 +2,7 @@
 sutta_code: "AN5.231"
 sutta_title:
   - "Āvāsika "
-  - "Resident Mendicant"
+  - "Resident bhikkhu"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---
@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 5: The Book of the Fives
-### AN 5.231: Āvāsikasutta — A Resident Mendicant
+### AN 5.231: Āvāsikasutta — A Resident bhikkhu
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu abhāvanīyo hoti. Katamehi pañcahi? Na ākappasampanno hoti na vattasampanno; na bahussuto hoti na sutadharo; na paṭisallekhitā hoti na paṭisallānārāmo; na kalyāṇavāco hoti na kalyāṇavākkaraṇo; duppañño hoti jaḷo eḷamūgo. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato āvāsiko bhikkhu abhāvanīyo hoti.
 

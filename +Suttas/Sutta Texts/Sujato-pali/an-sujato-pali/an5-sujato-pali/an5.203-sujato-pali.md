@@ -20,14 +20,14 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a fine royal thoroughbred with five factors is worthy of a king, fit to serve a king, and is considered a factor of kingship.
+1“bhikkhus, a fine royal thoroughbred with five factors is worthy of a king, fit to serve a king, and is considered a factor of kingship.
 
 2What five? Integrity, speed, gentleness, patience, and sweetness. A fine royal thoroughbred with these five factors is worthy of a king. …
 
-In the same way, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.
+In the same way, a bhikkhu with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.
 
 
-3What five? Integrity, speed, gentleness, patience, and sweetness. A mendicant with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
+3What five? Integrity, speed, gentleness, patience, and sweetness. A bhikkhu with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
 
 1"Pañcahi, bhikkhave, aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅgantveva saṅkhaṁ gacchati.
 

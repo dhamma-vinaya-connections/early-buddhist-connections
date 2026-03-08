@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that, when it is not tamed, guarded, protected, and restrained, is so very harmful as the mind. An untamed, unguarded, unprotected, and unrestrained mind is very harmful.”
+1“bhikkhus, I do not see a single thing that, when it is not tamed, guarded, protected, and restrained, is so very harmful as the mind. An untamed, unguarded, unprotected, and unrestrained mind is very harmful.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ adantaṁ aguttaṁ arakkhitaṁ asaṁvutaṁ mahato anatthāya saṁvattati yathayidaṁ, bhikkhave, cittaṁ. Cittaṁ, bhikkhave, adantaṁ aguttaṁ arakkhitaṁ asaṁvutaṁ mahato anatthāya saṁvattatī"ti.
 

@@ -47,12 +47,12 @@ The nuns of few desires complained and criticized her:
 
 “How could Venerable Thullanandā get one thing in exchange and then something else?” …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā get one thing in exchange and then something else? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā get one thing in exchange and then something else? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -67,7 +67,7 @@ The Buddha rebuked her … “How could the nun Thullanandā get one thing in ex
 
 6**Then something else:** apart from that thing, if she gets something else in exchange, then for the effort there is an act of wrong conduct. When she gets it, it becomes subject to relinquishment.
 
-It is to be relinquished to a saṅgha, a group, or an individual nun. “And, monks, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1, paragraph 8]] with appropriate substitutions.
+It is to be relinquished to a saṅgha, a group, or an individual nun. “And, bhikkhus, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1, paragraph 8]] with appropriate substitutions.
 
 … ‘Venerables, this thing, which I got in exchange, having first got something else in exchange, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this back to you.’”
 

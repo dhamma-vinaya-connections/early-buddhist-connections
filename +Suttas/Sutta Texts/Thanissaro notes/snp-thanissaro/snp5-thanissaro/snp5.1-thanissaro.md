@@ -130,7 +130,7 @@ should be limpid in mind.
 
 Skilled in all mental qualities,
 
-he, the monk, should wander
+he, the bhikkhu, should wander
 
 mindfully.
 

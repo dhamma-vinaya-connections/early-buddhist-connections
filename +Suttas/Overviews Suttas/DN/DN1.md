@@ -84,7 +84,7 @@ Those who doesn’t truly understand what is skillful and what is unskillful, th
 8s after death it's physical, non physical, both or neither; finite, infinite, both or neither; unified, diverse, both or neither perceptions; experience happiness, suffering, both or neither
 This self is physical, is sensual, mind-made, aware that “space is infinite”, consciousness is infinite, dimension of nothingness, neither perception nor non-perception
 This self attains ultimate extinguishment with the five kinds of sensual stimulation, with 1st jhana, 2nd jhana, 3rd jhana, 4 jhana
-When a mendicant truly understands the six fields of contacts’ origin, ending, gratification, drawback, and escape, they understand what lies beyond all these things
+When a bhikkhu truly understands the six fields of contacts’ origin, ending, gratification, drawback, and escape, they understand what lies beyond all these things
 > 
 
 > [!info] Similes

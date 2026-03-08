@@ -13,13 +13,13 @@ language: "English"
 
 “How can the lady Thullanandā, when an expectation of robe-material is not sure,[^1] let the robe-season[^2] pass?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā … let the robe-season pass?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā … let the robe-season pass?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā … let the robe-season pass? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā … let the robe-season pass? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, when an expectation of robe-material is not sure, should let the robe-season pass, there is an offence of expiation.”
 

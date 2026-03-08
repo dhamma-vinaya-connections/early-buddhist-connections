@@ -9,9 +9,9 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 72
 
-*Bi-Pc.72.1.1* *BD.3.382* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns ordained a maiden who had completed twenty years of age (but) who had not trained for two years in the six rules. *Vin.4.328* These were ignorant, inexperienced … *Bi-Pc.66.1*. _Instead of_ a girl married for full twelve years _read_ a maiden who has completed twenty years of age. … he addressed the monks, saying:
+*Bi-Pc.72.1.1* *BD.3.382* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns ordained a maiden who had completed twenty years of age (but) who had not trained for two years in the six rules. *Vin.4.328* These were ignorant, inexperienced … *Bi-Pc.66.1*. _Instead of_ a girl married for full twelve years _read_ a maiden who has completed twenty years of age. … he addressed the bhikkhus, saying:
 
-“I allow you, monks, to give a maiden of eighteen years of age the agreement as to training for two years in the six rules. And thus, monks, should it be given: That maiden of eighteen years of age having approached the Order …” *Bi-Pc.66.1*. _Instead of_ a girl married for full twelve years _read_ a maiden of eighteen years of age. … “… this rule of training:
+“I allow you, bhikkhus, to give a maiden of eighteen years of age the agreement as to training for two years in the six rules. And thus, bhikkhus, should it be given: That maiden of eighteen years of age having approached the Order …” *Bi-Pc.66.1*. _Instead of_ a girl married for full twelve years _read_ a maiden of eighteen years of age. … “… this rule of training:
 
 “Whatever nun should ordain a maiden who has completed twenty years of age (but) who has not trained for two years in the six rules, there is an offence of expiation.”
 

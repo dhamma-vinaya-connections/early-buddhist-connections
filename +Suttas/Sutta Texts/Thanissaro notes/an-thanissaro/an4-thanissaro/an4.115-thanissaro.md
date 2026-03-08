@@ -15,7 +15,7 @@ language: "English"
 ## ## Ṭhāna Sutta
 
 
-“Monks, there are these four courses of action. Which four? There is the course of action that is unpleasant to do and that, when done, leads to what is unprofitable. There is the course of action that is unpleasant to do but that, when done, leads to what is profitable. There is the course of action that is pleasant to do but that, when done, leads to what is unprofitable. There is the course of action that is pleasant to do and that, when done, leads to what is profitable.
+“bhikkhus, there are these four courses of action. Which four? There is the course of action that is unpleasant to do and that, when done, leads to what is unprofitable. There is the course of action that is unpleasant to do but that, when done, leads to what is profitable. There is the course of action that is pleasant to do but that, when done, leads to what is unprofitable. There is the course of action that is pleasant to do and that, when done, leads to what is profitable.
 
 “Now as for the course of action that is unpleasant to do and that, when done, leads to what is unprofitable, one considers it as not worth doing for both reasons: because the course of action is unpleasant to do, one considers it as not worth doing; and because the course of action, when done, leads to what is unprofitable, one considers it as not worth doing. Thus one considers it as not worth doing for both reasons.
 

@@ -56,7 +56,7 @@ language: "English - Pali"
 
 ‘‘Samaṇe brāhmaṇe vāpi, aññe vāpi vanibbake;Akkosati paribhāsati, natthiko hoti rosako.
 
-Whether ascetics or brahmins, or other mendicants, he insults and reviles them, being a nihilist and quarrelsome.
+Whether ascetics or brahmins, or other bhikkhus, he insults and reviles them, being a nihilist and quarrelsome.
 
 ‘‘Dadamānaṃ nivāreti, yācamānāna bhojanaṃ;Tādiso puriso rāja, mīyamāno janādhipa;Upeti nirayaṃ ghoraṃ, tamotamaparāyano.
 
@@ -70,7 +70,7 @@ Goes to a terrible hell, one who is destined from darkness to darkness.
 
 ‘‘Samaṇe brāhmaṇe vāpi, aññe vāpi vanibbake;Uṭṭhāya abhivādeti, samacariyāya sikkhati.
 
-Whether ascetics or brahmins, or other mendicants, rising, he greets them with respect and trains in even conduct.
+Whether ascetics or brahmins, or other bhikkhus, rising, he greets them with respect and trains in even conduct.
 
 ‘‘Dadamānaṃ na vāreti [na nivāreti (sī.)], yācamānāna bhojanaṃ;Tādiso puriso rāja, mīyamāno janādhipa;Upeti tidivaṃ ṭhānaṃ, tamojotiparāyano.
 
@@ -84,7 +84,7 @@ Goes to a heavenly state, one who is destined from darkness to light.
 
 ‘‘Samaṇe brāhmaṇe vāpi, aññe vāpi vanibbake;Akkosati paribhāsati, natthiko hoti rosako.
 
-Whether ascetics or brahmins, or other mendicants, he insults and reviles them, being a nihilist and quarrelsome.
+Whether ascetics or brahmins, or other bhikkhus, he insults and reviles them, being a nihilist and quarrelsome.
 
 ‘‘Dadamānaṃ nivāreti, yācamānāna bhojanaṃ;Tādiso puriso rāja, mīyamāno janādhipa;Upeti nirayaṃ ghoraṃ, jotitamaparāyano.
 
@@ -98,7 +98,7 @@ Goes to a terrible hell, one who is destined from light to darkness.
 
 ‘‘Samaṇe brāhmaṇe vāpi, aññe vāpi vanibbake;Uṭṭhāya abhivādeti, samacariyāya sikkhati.
 
-Whether ascetics or brahmins, or other mendicants, rising, he greets them with respect and trains in even conduct.
+Whether ascetics or brahmins, or other bhikkhus, rising, he greets them with respect and trains in even conduct.
 
 ‘‘Dadamānaṃ na vāreti, yācamānāna bhojanaṃ;Tādiso puriso rāja, mīyamāno janādhipa;Upeti tidivaṃ ṭhānaṃ, jotijotiparāyano’’ti.
 

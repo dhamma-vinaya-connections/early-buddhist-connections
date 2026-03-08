@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to dullness and drowsiness, or, when they have arisen, makes them increase and grow like discontent, sloth, yawning, sleepiness after eating, and mental sluggishness. When you have a sluggish mind, dullness and drowsiness arise, and once arisen they increase and grow.”
+1“bhikkhus, I do not see a single thing that gives rise to dullness and drowsiness, or, when they have arisen, makes them increase and grow like discontent, sloth, yawning, sleepiness after eating, and mental sluggishness. When you have a sluggish mind, dullness and drowsiness arise, and once arisen they increase and grow.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannaṁ vā thinamiddhaṁ uppajjati uppannaṁ vā thinamiddhaṁ bhiyyobhāvāya vepullāya saṁvattati yathayidaṁ, bhikkhave, arati tandī vijambhitā bhattasammado cetaso ca līnattaṁ. Līnacittassa, bhikkhave, anuppannañceva thinamiddhaṁ uppajjati uppannañca thinamiddhaṁ bhiyyobhāvāya vepullāya saṁvattatī"ti.
 

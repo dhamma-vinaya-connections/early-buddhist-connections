@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“‘Danger’, mendicants, is a term for sensual pleasures. ‘Suffering’, ‘disease’, ‘boil’, ‘tie’, and ‘bog’ are terms for sensual pleasures.
+1“‘Danger’, bhikkhus, is a term for sensual pleasures. ‘Suffering’, ‘disease’, ‘boil’, ‘tie’, and ‘bog’ are terms for sensual pleasures.
 
 
 2And why is ‘danger’ a term for sensual pleasures? Someone who is caught up in sensual greed and shackled by lustful desire is not freed from dangers in the present life or in lives to come. That is why ‘danger’ is a term for sensual pleasures.

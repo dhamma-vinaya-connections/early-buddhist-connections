@@ -34,12 +34,12 @@ It occurred to him: “Oh, this mango grove is lovely and delightful! It’s tru
 
 3-4Then Venerable Meghiya went up to the Buddha, bowed, sat down to one side, and told him what had happened, adding: “If the Buddha allows me, I’ll go back to that mango grove to meditate.”  
   
-“We’re alone, Meghiya. Wait until another mendicant comes.”
+“We’re alone, Meghiya. Wait until another bhikkhu comes.”
 
 
 5For a second time Meghiya said to the Buddha: “Sir, the Buddha has nothing more to do, and nothing that needs improvement. But I have. If you allow me, I’ll go back to that mango grove to meditate.”
 
-“We’re alone, Meghiya. Wait until another mendicant comes.”
+“We’re alone, Meghiya. Wait until another bhikkhu comes.”
 
 
 6For a third time Meghiya said to the Buddha: “Sir, the Buddha has nothing more to do, and nothing that needs improvement. But I have. If you allow me, I’ll go back to that mango grove to meditate.”
@@ -57,27 +57,27 @@ Then he thought: “It’s incredible, it’s amazing! I’ve gone forth from th
 
 10“Meghiya, when the heart’s release is not ripe, five things help it ripen. What five?
 
-Firstly, a mendicant has good friends, companions, and associates. This is the first thing …
+Firstly, a bhikkhu has good friends, companions, and associates. This is the first thing …
 
-11Furthermore, a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is the second thing …
+11Furthermore, a bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is the second thing …
 
-12Furthermore, a mendicant gets to take part in talk about self-effacement that helps open the heart, when they want, without trouble or difficulty. That is, talk about fewness of wishes, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. This is the third thing …
+12Furthermore, a bhikkhu gets to take part in talk about self-effacement that helps open the heart, when they want, without trouble or difficulty. That is, talk about fewness of wishes, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. This is the third thing …
 
-13Furthermore, a mendicant lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. This is the fourth thing …
+13Furthermore, a bhikkhu lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. This is the fourth thing …
 
-14Furthermore, a mendicant is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. This is the fifth thing that, when the heart’s release is not ripe, helps it ripen.
-
-
-15A mendicant with good friends, companions, and associates can expect to be ethical …
-
-16A mendicant with good friends, companions, and associates can expect to take part in talk about self-effacement that helps open the heart …
-
-17A mendicant with good friends, companions, and associates can expect to be energetic …
-
-18A mendicant with good friends, companions, and associates can expect to be wise …
+14Furthermore, a bhikkhu is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. This is the fifth thing that, when the heart’s release is not ripe, helps it ripen.
 
 
-19A mendicant grounded on these five things should develop four further things. They should develop the perception of ugliness to give up greed, love to give up hate, mindfulness of breathing to cut off thinking, and perception of impermanence to uproot the conceit ‘I am’. When you perceive impermanence, the perception of not-self becomes stabilized. Perceiving not-self, you uproot the conceit ‘I am’ and attain extinguishment in this very life.”
+15A bhikkhu with good friends, companions, and associates can expect to be ethical …
+
+16A bhikkhu with good friends, companions, and associates can expect to take part in talk about self-effacement that helps open the heart …
+
+17A bhikkhu with good friends, companions, and associates can expect to be energetic …
+
+18A bhikkhu with good friends, companions, and associates can expect to be wise …
+
+
+19A bhikkhu grounded on these five things should develop four further things. They should develop the perception of ugliness to give up greed, love to give up hate, mindfulness of breathing to cut off thinking, and perception of impermanence to uproot the conceit ‘I am’. When you perceive impermanence, the perception of not-self becomes stabilized. Perceiving not-self, you uproot the conceit ‘I am’ and attain extinguishment in this very life.”
 
 #### Pali
 

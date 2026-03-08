@@ -2,7 +2,7 @@
 sutta_code: "AN7.91"
 sutta_title:
   - "Bhikkhu "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, it’s because seven foes have been slain that you become a noble one …”
+1“bhikkhus, it’s because seven foes have been slain that you become a noble one …”
 
 1" …  Ārakattā ariyo hoti … pe … .
 

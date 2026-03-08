@@ -15,7 +15,7 @@ language: "English"
 ## ## Vitthāra Sutta
 
 
-“Monks, there are these four modes of practice. Which four? Painful practice with slow intuition, painful practice with quick intuition, pleasant practice with slow intuition, & pleasant practice with quick intuition.
+“bhikkhus, there are these four modes of practice. Which four? Painful practice with slow intuition, painful practice with quick intuition, pleasant practice with slow intuition, & pleasant practice with quick intuition.
 
 “And which is painful practice with slow intuition? There is the case where a certain individual is normally of an intensely passionate nature. He perpetually experiences pain & distress born of passion. Or he is normally of an intensely aversive nature. He perpetually experiences pain & distress born of aversion. Or he is normally of an intensely deluded nature. He perpetually experiences pain & distress born of delusion. These five faculties of his—the faculty of conviction, the faculty of persistence, the faculty of mindfulness, the faculty of samādhi, the faculty of discernment—appear weakly. Because of their weakness, he attains only slowly the immediacy[1](#^[[an4-thanissaro]].162note01) that leads to the ending of the effluents. This is called painful practice with slow intuition. ^[[an4-thanissaro]].162note01-ref
 

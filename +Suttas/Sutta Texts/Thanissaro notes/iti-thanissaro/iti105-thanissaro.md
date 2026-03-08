@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 105
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these four birthplaces of craving where a monk’s craving, when taking birth, takes birth. Which four? Either for the sake of cloth a monk’s craving, when taking birth, takes birth. Or for the sake of alms food a monk’s craving, when taking birth, takes birth. Or for the sake of lodging a monk’s craving, when taking birth, takes birth. Or for the sake of becoming or not becoming this or that a monk’s craving, when taking birth, takes birth. These are the four birthplaces of craving where a monk’s craving, when taking birth, takes birth.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these four birthplaces of craving where a bhikkhu’s craving, when taking birth, takes birth. Which four? Either for the sake of cloth a bhikkhu’s craving, when taking birth, takes birth. Or for the sake of alms food a bhikkhu’s craving, when taking birth, takes birth. Or for the sake of lodging a bhikkhu’s craving, when taking birth, takes birth. Or for the sake of becoming or not becoming this or that a bhikkhu’s craving, when taking birth, takes birth. These are the four birthplaces of craving where a bhikkhu’s craving, when taking birth, takes birth.”
 
 With craving his companion, a man
 
@@ -34,9 +34,9 @@ free         from craving,
 
 devoid              of clinging,
 
-mindful,                           the monk
+mindful,                           the bhikkhu
 
-lives the mendicant life.
+lives the bhikkhu life.
 
 See also: [[an4.9-thanissaro]]; [[an4.28-thanissaro]]; [[/snp3.12-thanissaro]]
 

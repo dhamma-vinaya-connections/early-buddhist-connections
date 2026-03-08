@@ -27,11 +27,11 @@ Seated to one side, King Pasenadi said to the Buddha: “Just now, sir, as I was
 2“That’s so true, great king! That’s so true!” said the Buddha. And he repeated the king’s statement, adding:
 
 
-3“Great king, this one time I was staying in the land of the Sakyans where they have a town named Nagaraka. Then the mendicant Ānanda came to me, bowed, sat down to one side, and said: ‘Sir, good friends, companions, and associates are half the spiritual life.’
+3“Great king, this one time I was staying in the land of the Sakyans where they have a town named Nagaraka. Then the bhikkhu Ānanda came to me, bowed, sat down to one side, and said: ‘Sir, good friends, companions, and associates are half the spiritual life.’
 
-4When he had spoken, I said to him: ‘Not so, Ānanda! Not so, Ānanda! Good friends, companions, and associates are the whole of the spiritual life. A mendicant with good friends, companions, and associates can expect to develop and cultivate the noble eightfold path.
+4When he had spoken, I said to him: ‘Not so, Ānanda! Not so, Ānanda! Good friends, companions, and associates are the whole of the spiritual life. A bhikkhu with good friends, companions, and associates can expect to develop and cultivate the noble eightfold path.
 
-5And how does a mendicant with good friends develop and cultivate the noble eightfold path? It’s when a mendicant develops right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion, which rely on seclusion, fading away, and cessation, and ripen as letting go. That’s how a mendicant with good friends develops and cultivates the noble eightfold path. And here’s another way to understand how good friends are the whole of the spiritual life.
+5And how does a bhikkhu with good friends develop and cultivate the noble eightfold path? It’s when a bhikkhu develops right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion, which rely on seclusion, fading away, and cessation, and ripen as letting go. That’s how a bhikkhu with good friends develops and cultivates the noble eightfold path. And here’s another way to understand how good friends are the whole of the spiritual life.
 
 6For, by relying on me as a good friend, sentient beings who are liable to rebirth, old age, and death, to sorrow, lamentation, pain, sadness, and distress are freed from all these things. This is another way to understand how good friends are the whole of the spiritual life.’
 

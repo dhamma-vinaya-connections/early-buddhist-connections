@@ -13,7 +13,7 @@ language: "English"
 # DN27 Aggañña Sutta: On Knowledge of Beginnings
 
 
-\[80\] 1. THUS HAVE I HEARD. Once the Lord was staying at Savatthi, at the mansion of Migara’s mother in the East Park. And at that time Vasettha and Bhāradvāja were living among the monks, hoping to become monks themselves. And in the evening, the Lord rose from his secluded meditation and came out of the mansion, and started walking up and down in its shade.
+\[80\] 1. THUS HAVE I HEARD. Once the Lord was staying at Savatthi, at the mansion of Migara’s mother in the East Park. And at that time Vasettha and Bhāradvāja were living among the bhikkhus, hoping to become bhikkhus themselves. And in the evening, the Lord rose from his secluded meditation and came out of the mansion, and started walking up and down in its shade.
 
 2\. Vasettha noticed this, and he said to Bhāradvāja: ‘Friend Bharadvaja, the Lord has come out and is walking up and down. Let us approach him. We might be fortunate enough to hear a talk on Dhamma from the Lord himself.’ ‘Yes, indeed’, said Bharadvaja, so they went up to the Lord, saluted him, and fell into step with him.
 
@@ -25,7 +25,7 @@ language: "English"
 
 6\. ‘Sometimes, too, a Khattiya refrains from taking life,... is not grasping, malicious, or of wrong views. Thus such things as are moral and considered so, blameless and considered so, to be followed and considered so, ways befitting an Ariyan and considered so, bright with bright results and praised by the wise, are sometimes to be found among the Khattiyas, and \[83\] likewise among Brahmins, merchants and artisans.
 
-7\. ‘Now since both dark and bright qualities, which are blamed and praised by the wise, are scattered indiscriminately among the four castes, the wise do not recognise the claim about the Brahmin caste being the highest. Why is that? Because, Vasettha, anyone from the four castes who becomes a monk, an Arahant who has destroyed the corruptions, who has lived the life, done what had to be done, laid down the burden, reached the highest goal, destroyed the fetter of becoming, and become emancipated through super-knowledge — he is proclaimed supreme by virtue of Dhamma and not of non-Dhamma.
+7\. ‘Now since both dark and bright qualities, which are blamed and praised by the wise, are scattered indiscriminately among the four castes, the wise do not recognise the claim about the Brahmin caste being the highest. Why is that? Because, Vasettha, anyone from the four castes who becomes a bhikkhu, an Arahant who has destroyed the corruptions, who has lived the life, done what had to be done, laid down the burden, reached the highest goal, destroyed the fetter of becoming, and become emancipated through super-knowledge — he is proclaimed supreme by virtue of Dhamma and not of non-Dhamma.
 
 > Dhamma’s the best thing for people  
 > In this life and the next as well.
@@ -90,7 +90,7 @@ language: "English"
 
 30\. ‘And a Khattiya who is restrained in body, speech and thought, and who has developed the seven requisites of enlightenment,  will attain to Parinibbana in this very life. So too will a Brahmin, a Vessa or a Sudda.
 
-31\. ‘And, Vasettha, whoever of these four castes, as a monk, becomes an Arahant who has destroyed the corruptions, done what had to be done, laid down the burden, attained to the highest goal, completely destroyed the fetter of becoming, and become liberated by the highest insight, he is declared to be chief among them in accordance with Dhamma, and not otherwise.
+31\. ‘And, Vasettha, whoever of these four castes, as a bhikkhu, becomes an Arahant who has destroyed the corruptions, done what had to be done, laid down the burden, attained to the highest goal, completely destroyed the fetter of becoming, and become liberated by the highest insight, he is declared to be chief among them in accordance with Dhamma, and not otherwise.
 
 > Dhamma’s the best thing for people  
 > In this life and the next as well.

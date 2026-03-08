@@ -36,7 +36,7 @@ Then in the late afternoon, Venerable Sāriputta came out of retreat, went to Ve
 
 4“Please don’t slit your wrists! Venerable Channa, keep going! We want you to keep going. If you don’t have any suitable food, we’ll find it for you. If you don’t have suitable medicine, we’ll find it for you. If you don’t have a capable carer, we’ll find one for you. Please don’t slit your wrists! Venerable Channa, keep going! We want you to keep going.”
 
-5“Reverend Sāriputta, it’s not that I don’t have suitable food, or suitable medicine, or a capable carer. Moreover, for a long time now I have served the Teacher with love, not without love. For it is proper for a disciple to serve the Teacher with love, not without love. You should remember this: ‘The mendicant Channa slit his wrists blamelessly.’”
+5“Reverend Sāriputta, it’s not that I don’t have suitable food, or suitable medicine, or a capable carer. Moreover, for a long time now I have served the Teacher with love, not without love. For it is proper for a disciple to serve the Teacher with love, not without love. You should remember this: ‘The bhikkhu Channa slit his wrists blamelessly.’”
 
 “I’d like to ask you about a certain point, if you’d take the time to answer.”
 
@@ -63,11 +63,11 @@ Then in the late afternoon, Venerable Sāriputta came out of retreat, went to Ve
 Then Sāriputta went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, Venerable Channa has slit his wrists. Where has he been reborn in his next life?”
 
 
-“Sāriputta, didn’t the mendicant Channa declare his blamelessness to you personally?”
+“Sāriputta, didn’t the bhikkhu Channa declare his blamelessness to you personally?”
 
 “Sir, there is a Vajjian village named Pubbavijjhana where Channa had families with whom he was friendly, intimate, and familiar.”
 
-“The mendicant Channa did indeed have such families. But this is not enough for me to call someone ‘blameworthy’. When someone lays down this body and takes up another body, I call them ‘blameworthy’. But the mendicant Channa did no such thing. You should remember this: ‘The mendicant Channa slit his wrists blamelessly.’”
+“The bhikkhu Channa did indeed have such families. But this is not enough for me to call someone ‘blameworthy’. When someone lays down this body and takes up another body, I call them ‘blameworthy’. But the bhikkhu Channa did no such thing. You should remember this: ‘The bhikkhu Channa slit his wrists blamelessly.’”
 
 
 12That is what the Buddha said. Satisfied, Venerable Sāriputta was happy with what the Buddha said.

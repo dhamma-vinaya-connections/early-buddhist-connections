@@ -21,8 +21,8 @@ language: "English"
 3. “I teach the Dharma in this way, but then that monk has doubts and hesitations. Beforehand, he had the idea of attaining what he hadn’t attained, achieving what he hadn’t achieved, and realizing what he hadn’t realized. Now that he has heard the Dharma, he becomes unhappy, bitter, scarce, and blocked. Why is that? This is a deep standpoint, which is to say that of dependent origination. It’s twice again as profound and hard to see; that is, to part with all grasping, end craving, have no desire, be peacefully ceased, and _nirvāṇa_-d.
 4. “Now, there are two things, namely the created and the uncreated. The created might be arising, remaining, changing, or ceasing. The uncreated doesn’t arise, doesn’t remain, doesn’t change, and doesn’t cease. This is called the peaceful cessation and _nirvāṇa_ of a monk’s actions and suffering.
 5. “Suffering forms because of the formation of its causes, and suffering ceases because of the cessation of its causes. All pathways are cut, and continuity ceases. When continuity ceases, this is called the limit of suffering.
-6. “Monks, what is it that ceases? It’s the remaining suffering. If it ceases, stops, cools, subsides, and disappears, that is called the ceasing of all grasping, the ending of craving, having no desire, peaceful cessation, and _nirvāṇa_.”
-7. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+6. “bhikkhus, what is it that ceases? It’s the remaining suffering. If it ceases, stops, cools, subsides, and disappears, that is called the ceasing of all grasping, the ending of craving, having no desire, peaceful cessation, and _nirvāṇa_.”
+7. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

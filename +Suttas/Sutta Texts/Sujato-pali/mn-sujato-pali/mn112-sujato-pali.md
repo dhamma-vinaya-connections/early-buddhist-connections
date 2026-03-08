@@ -18,32 +18,32 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Take a mendicant who declares enlightenment: ‘I understand: “Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.”’
+“Take a bhikkhu who declares enlightenment: ‘I understand: “Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.”’
 
-You should neither approve nor dismiss that mendicant’s statement. Rather, you should question them: ‘Reverend, these four kinds of expression have been rightly explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha. What four? One speaks of the seen as seen, the heard as heard, the thought as thought, and the known as known. These are the four kinds of expression rightly explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha. How does the venerable know and see regarding these four kinds of expression so that your mind is freed from defilements by not grasping?’
+You should neither approve nor dismiss that bhikkhu’s statement. Rather, you should question them: ‘Reverend, these four kinds of expression have been rightly explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha. What four? One speaks of the seen as seen, the heard as heard, the thought as thought, and the known as known. These are the four kinds of expression rightly explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha. How does the venerable know and see regarding these four kinds of expression so that your mind is freed from defilements by not grasping?’
 
-3For a mendicant with defilements ended — who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — it is in line with the teaching to answer:
+3For a bhikkhu with defilements ended — who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — it is in line with the teaching to answer:
 
 ‘Reverends, I live without attraction or repulsion for what is seen; independent, untied, liberated, detached, my mind free of limits. I live without attraction or repulsion for what is heard … thought … or known; independent, untied, liberated, detached, my mind free of limits.
 
 That is how I know and see regarding these four kinds of expression so that my mind is freed from defilements by not grasping.’
 
-Saying ‘Good!’ you should applaud and cheer that mendicant’s statement, then ask a further question:
+Saying ‘Good!’ you should applaud and cheer that bhikkhu’s statement, then ask a further question:
 
 
 4‘Reverend, these five grasping aggregates have been rightly explained by the Buddha. What five? That is: the grasping aggregates of form, feeling, perception, choices, and consciousness. These are the five grasping aggregates that have been rightly explained by the Buddha. How does the venerable know and see regarding these five grasping aggregates so that your mind is freed from defilements by not grasping?’
 
-5For a mendicant with defilements ended it is in line with the teaching to answer: ‘Reverends, knowing that form is powerless, fading, and unreliable, I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental fixation, insistence, and underlying tendency for form. Knowing that feeling … perception … choices … consciousness is powerless, fading, and unreliable, I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental fixation, insistence, and underlying tendency for consciousness. That is how I know and see regarding these five grasping aggregates so that my mind is freed from defilements by not grasping.’
+5For a bhikkhu with defilements ended it is in line with the teaching to answer: ‘Reverends, knowing that form is powerless, fading, and unreliable, I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental fixation, insistence, and underlying tendency for form. Knowing that feeling … perception … choices … consciousness is powerless, fading, and unreliable, I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental fixation, insistence, and underlying tendency for consciousness. That is how I know and see regarding these five grasping aggregates so that my mind is freed from defilements by not grasping.’
 
-Saying ‘Good!’ you should applaud and cheer that mendicant’s statement, then ask a further question:
+Saying ‘Good!’ you should applaud and cheer that bhikkhu’s statement, then ask a further question:
 
 6‘Reverend, these six elements have been rightly explained by the Buddha. What six? The elements of earth, water, fire, air, space, and consciousness. These are the six elements that have been rightly explained by the Buddha. How does the venerable know and see regarding these six elements so that your mind is freed from defilements by not grasping?’
 
-7For a mendicant with defilements ended it is in line with the teaching to answer:
+7For a bhikkhu with defilements ended it is in line with the teaching to answer:
 
 ‘Reverends, I’ve not taken the earth element as self, nor is there a self based on the earth element. And I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of attraction, grasping, mental fixation, insistence, and underlying tendency based on the earth element.
 
@@ -51,28 +51,28 @@ I’ve not taken the water element … fire element … air element … space el
 
 That is how I know and see regarding these six elements so that my mind is freed from defilements by not grasping.’
 
-Saying ‘Good!’ you should applaud and cheer that mendicant’s statement, then ask a further question:
+Saying ‘Good!’ you should applaud and cheer that bhikkhu’s statement, then ask a further question:
 
 
 8‘Reverend, these six interior and exterior sense fields have been rightly explained by the Buddha. What six? The eye and sights, the ear and sounds, the nose and smells, the tongue and tastes, the body and touches, and the mind and thoughts. These are the six interior and exterior sense fields that have been rightly explained by the Buddha. How does the venerable know and see regarding these six interior and exterior sense fields so that your mind is freed from defilements by not grasping?’
 
 
-9For a mendicant with defilements ended it is in line with the teaching to answer: ‘I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of desire and greed and relishing and craving; attraction, grasping, mental fixation, insistence, and underlying tendency for the eye, sights, eye consciousness, and things knowable by eye consciousness. I understand that my mind is freed through the ending of desire for the ear … nose … tongue … body … mind, thoughts, mind consciousness, and things knowable by mind consciousness.
+9For a bhikkhu with defilements ended it is in line with the teaching to answer: ‘I understand that my mind is freed through the ending, fading away, cessation, giving away, and letting go of desire and greed and relishing and craving; attraction, grasping, mental fixation, insistence, and underlying tendency for the eye, sights, eye consciousness, and things knowable by eye consciousness. I understand that my mind is freed through the ending of desire for the ear … nose … tongue … body … mind, thoughts, mind consciousness, and things knowable by mind consciousness.
 
 
-That is how I know and see regarding these six interior and exterior sense fields so that my mind is freed from defilements by not grasping.’ Saying ‘Good!’ you should applaud and cheer that mendicant’s statement, then ask a further question:
+That is how I know and see regarding these six interior and exterior sense fields so that my mind is freed from defilements by not grasping.’ Saying ‘Good!’ you should applaud and cheer that bhikkhu’s statement, then ask a further question:
 
 
 10‘Sir, how does the venerable know and see so that he has eradicated ego, possessiveness, and underlying tendency to conceit for this conscious body and all external stimuli?’
 
-11For a mendicant with defilements ended it is in line with the teaching to answer: ‘Formerly, reverends, when I was still a layperson, I was ignorant. Then the Realized One or one of his disciples taught me the Dhamma. I gained faith in the Realized One, and reflected:
+11For a bhikkhu with defilements ended it is in line with the teaching to answer: ‘Formerly, reverends, when I was still a layperson, I was ignorant. Then the Realized One or one of his disciples taught me the Dhamma. I gained faith in the Realized One, and reflected:
 
 “Living in a house is cramped and dirty, but the life of one gone forth is wide open. It’s not easy for someone living at home to lead the spiritual life utterly full and pure, like a polished shell. Why don’t I cut off my hair and beard, dress in ocher robes, and go forth from lay life to homelessness?”
 
 
 12After some time I gave up a large or small fortune, and a large or small family circle. I shaved off hair and beard, dressed in ocher robes, and went forth from the lay life to homelessness.
 
-Once I had gone forth, I took up the training and livelihood of the mendicants. I gave up killing living creatures, renouncing the rod and the sword. I was scrupulous and kind, living full of compassion for all living beings. I gave up stealing. I took only what’s given, and expected only what’s given. I kept myself clean by not thieving. I gave up unchastity. I became celibate, set apart, avoiding the common practice of sex.
+Once I had gone forth, I took up the training and livelihood of the bhikkhus. I gave up killing living creatures, renouncing the rod and the sword. I was scrupulous and kind, living full of compassion for all living beings. I gave up stealing. I took only what’s given, and expected only what’s given. I kept myself clean by not thieving. I gave up unchastity. I became celibate, set apart, avoiding the common practice of sex.
 
 I gave up lying. I spoke the truth and stuck to the truth. I was honest and trustworthy, not tricking the world with my words. I gave up divisive speech. I didn’t repeat in one place what I heard in another so as to divide people against each other. Instead, I reconciled those who are divided, supporting unity, delighting in harmony, loving harmony, speaking words that promote harmony. I gave up harsh speech. I spoke in a way that’s mellow, pleasing to the ear, lovely, going to the heart, polite, likable and agreeable to the people. I gave up talking nonsense. My words were timely, true, and meaningful, in line with the teaching and training. I said things at the right time which are valuable, reasonable, succinct, and beneficial.
 
@@ -99,9 +99,9 @@ Knowing and seeing like this, my mind was freed from the defilements of sensuali
 
 That is how I know and see so that I have eradicated ego, possessiveness, and underlying tendency to conceit for this conscious body and all external stimuli.’
 
-Saying ‘Good!’ you should applaud and cheer that mendicant’s statement, and then say to them: ‘We are fortunate, reverend, so very fortunate to see a venerable such as yourself as one of our spiritual companions!’”
+Saying ‘Good!’ you should applaud and cheer that bhikkhu’s statement, and then say to them: ‘We are fortunate, reverend, so very fortunate to see a venerable such as yourself as one of our spiritual companions!’”
 
-21That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+21That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

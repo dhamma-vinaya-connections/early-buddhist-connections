@@ -24,29 +24,29 @@ language: "English - Pali"
 
 So I have heard:
 
-At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then the mendicant Kokālika went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, Sāriputta and Moggallāna have wicked desires. They’ve fallen under the sway of wicked desires.”
+At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then the bhikkhu Kokālika went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, Sāriputta and Moggallāna have wicked desires. They’ve fallen under the sway of wicked desires.”
 
-When this was said, the Buddha said to Kokālika: “Don’t say that, Kokālika! Don’t say that, Kokālika! Have confidence in Sāriputta and Moggallāna, they’re good monks.”
-
----
-
-For a second time … For a third time Kokālika said to the Buddha: “Despite my faith and trust in the Buddha, Sāriputta and Moggallāna have wicked desires. They’ve fallen under the sway of wicked desires.” For a third time, the Buddha said to Kokālika: “Don’t say that, Kokālika! Don’t say that, Kokālika! Have confidence in Sāriputta and Moggallāna, they’re good monks.”
-
-Then Kokālika got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving. Not long after he left his body erupted with boils the size of mustard seeds. The boils grew to the size of mung beans, then chickpeas, then jujube seeds, then jujubes, then myrobalans, then unripe wood apples, then ripe wood apples. Finally they burst open, and pus and blood oozed out. Then the mendicant Kokālika died of that illness. He was reborn in the Pink Lotus hell because of his resentment for Sāriputta and Moggallāna.
+When this was said, the Buddha said to Kokālika: “Don’t say that, Kokālika! Don’t say that, Kokālika! Have confidence in Sāriputta and Moggallāna, they’re good bhikkhus.”
 
 ---
 
-Then, late at night, the beautiful Brahmā Sahampati, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and said to him: “Sir, the mendicant Kokālika has passed away. He was reborn in the Pink Lotus hell because of his resentment for Sāriputta and Moggallāna.” That’s what Brahmā Sahampati said. Then he bowed and respectfully circled the Buddha, keeping him on his right side, before vanishing right there.
+For a second time … For a third time Kokālika said to the Buddha: “Despite my faith and trust in the Buddha, Sāriputta and Moggallāna have wicked desires. They’ve fallen under the sway of wicked desires.” For a third time, the Buddha said to Kokālika: “Don’t say that, Kokālika! Don’t say that, Kokālika! Have confidence in Sāriputta and Moggallāna, they’re good bhikkhus.”
+
+Then Kokālika got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving. Not long after he left his body erupted with boils the size of mustard seeds. The boils grew to the size of mung beans, then chickpeas, then jujube seeds, then jujubes, then myrobalans, then unripe wood apples, then ripe wood apples. Finally they burst open, and pus and blood oozed out. Then the bhikkhu Kokālika died of that illness. He was reborn in the Pink Lotus hell because of his resentment for Sāriputta and Moggallāna.
 
 ---
 
-Then, when the night had passed, the Buddha told the mendicants all that had happened.
+Then, late at night, the beautiful Brahmā Sahampati, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and said to him: “Sir, the bhikkhu Kokālika has passed away. He was reborn in the Pink Lotus hell because of his resentment for Sāriputta and Moggallāna.” That’s what Brahmā Sahampati said. Then he bowed and respectfully circled the Buddha, keeping him on his right side, before vanishing right there.
 
 ---
 
-When he said this, one of the mendicants said to the Buddha: “Sir, how long is the life span in the Pink Lotus hell?”
+Then, when the night had passed, the Buddha told the bhikkhus all that had happened.
 
-“It’s long, mendicant. It’s not easy to calculate how many years, how many hundreds or thousands or hundreds of thousands of years it lasts.”
+---
+
+When he said this, one of the bhikkhus said to the Buddha: “Sir, how long is the life span in the Pink Lotus hell?”
+
+“It’s long, bhikkhu. It’s not easy to calculate how many years, how many hundreds or thousands or hundreds of thousands of years it lasts.”
 
 “But sir, is it possible to give a simile?”
 
@@ -56,7 +56,7 @@ When he said this, one of the mendicants said to the Buddha: “Sir, how long is
 
 ---
 
-“Suppose there was a Kosalan cartload of twenty bushels of sesame seed. And at the end of every hundred years someone would remove a single seed from it. By this means the Kosalan cartload of twenty bushels of sesame seed would run out faster than a single lifetime in the Abbuda hell. Now, twenty lifetimes in the Abbuda hell equal one lifetime in the Nirabbuda hell. Twenty lifetimes in the Nirabbuda hell equal one lifetime in the Ababa hell. Twenty lifetimes in the Ababa hell equal one lifetime in the Aṭaṭa hell. Twenty lifetimes in the Aṭaṭa hell equal one lifetime in the Ahaha hell. Twenty lifetimes in the Ahaha hell equal one lifetime in the Yellow Lotus hell. Twenty lifetimes in the Yellow Lotus hell equal one lifetime in the Sweet-Smelling hell. Twenty lifetimes in the Sweet-Smelling hell equal one lifetime in the Blue Water Lily hell. Twenty lifetimes in the Blue Water Lily hell equal one lifetime in the White Lotus hell. Twenty lifetimes in the White Lotus hell equal one lifetime in the Pink Lotus hell. The mendicant Kokālika has been reborn in the Pink Lotus hell because of his resentment for Sāriputta and Moggallāna.”
+“Suppose there was a Kosalan cartload of twenty bushels of sesame seed. And at the end of every hundred years someone would remove a single seed from it. By this means the Kosalan cartload of twenty bushels of sesame seed would run out faster than a single lifetime in the Abbuda hell. Now, twenty lifetimes in the Abbuda hell equal one lifetime in the Nirabbuda hell. Twenty lifetimes in the Nirabbuda hell equal one lifetime in the Ababa hell. Twenty lifetimes in the Ababa hell equal one lifetime in the Aṭaṭa hell. Twenty lifetimes in the Aṭaṭa hell equal one lifetime in the Ahaha hell. Twenty lifetimes in the Ahaha hell equal one lifetime in the Yellow Lotus hell. Twenty lifetimes in the Yellow Lotus hell equal one lifetime in the Sweet-Smelling hell. Twenty lifetimes in the Sweet-Smelling hell equal one lifetime in the Blue Water Lily hell. Twenty lifetimes in the Blue Water Lily hell equal one lifetime in the White Lotus hell. Twenty lifetimes in the White Lotus hell equal one lifetime in the Pink Lotus hell. The bhikkhu Kokālika has been reborn in the Pink Lotus hell because of his resentment for Sāriputta and Moggallāna.”
 
 That is what the Buddha said. Then the Holy One, the Teacher, went on to say:
 

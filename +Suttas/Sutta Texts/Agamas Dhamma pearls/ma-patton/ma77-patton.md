@@ -21,13 +21,13 @@ language: "English"
 
 2. At the time, three clansmen were in Sāketa: Venerable Aniruddha, Venerable Nandika, and Venerable Kimbila. They were all youths who had recently left home to train and who had together entered this right Dharma not long ago.
 
-3. It was then that the Bhagavān asked the monks, “There were three clansmen, all youths who had recently left home to train and who had together entered this right Dharma not long ago. Are those three clansmen happy with this right Dharma, with practicing the religious life of the Vinaya?”
+3. It was then that the Bhagavān asked the bhikkhus, “There were three clansmen, all youths who had recently left home to train and who had together entered this right Dharma not long ago. Are those three clansmen happy with this right Dharma, with practicing the religious life of the Vinaya?”
 
-The monks were quiet and didn’t answer.
+The bhikkhus were quiet and didn’t answer.
 
-4. The Bhagavān asked the monks three times, “There were three clansmen, all youths who had recently left home to train and who had together entered this right Dharma not long ago. Are those three clansmen happy with this right Dharma, with practicing the religious life of the Vinaya?”
+4. The Bhagavān asked the bhikkhus three times, “There were three clansmen, all youths who had recently left home to train and who had together entered this right Dharma not long ago. Are those three clansmen happy with this right Dharma, with practicing the religious life of the Vinaya?”
 
-Again, the monks were quiet and didn’t answer three times.
+Again, the bhikkhus were quiet and didn’t answer three times.
 
 5. The Bhagavān then asked the three clansmen himself, addressing Venerable Aniruddha, “You three clansman are all youths who recently left home to train, and you came together to enter this right Dharma not long ago. Aniruddha, are all of you happy with this right Dharma, with practicing the religious life of the Vinaya?”
 
@@ -49,9 +49,9 @@ Venerable Aniruddha said to the Bhagavān, “The Bhagavān is the basis of the 
 
 Aniruddha and the others accepting the teaching and listened.
 
-10. The Bhagavān addressed them, “Aniruddha, those who are covered by desire and fettered by bad qualities don’t abandon pleasure or attain unsurpassed calm. Their minds become obsessed, angry, and drowsy. Their minds become unhappy, their bodies become stretched, they eat often, and their hearts are sad. Those monks then are unable to tolerate hunger and thirst, cold and hot weather, biting and stinging insects, being troubled by wind and sun, harsh noises, or being caned. Nor can they tolerate it when they encounter illnesses, extreme pain, and when their life is about to end. None of these unpleasant things are bearable. What is the reason for that? Being covered by desire and fettered by bad qualities, they cannot abandon pleasures or attain unsurpassed calm.
+10. The Bhagavān addressed them, “Aniruddha, those who are covered by desire and fettered by bad qualities don’t abandon pleasure or attain unsurpassed calm. Their minds become obsessed, angry, and drowsy. Their minds become unhappy, their bodies become stretched, they eat often, and their hearts are sad. Those bhikkhus then are unable to tolerate hunger and thirst, cold and hot weather, biting and stinging insects, being troubled by wind and sun, harsh noises, or being caned. Nor can they tolerate it when they encounter illnesses, extreme pain, and when their life is about to end. None of these unpleasant things are bearable. What is the reason for that? Being covered by desire and fettered by bad qualities, they cannot abandon pleasures or attain unsurpassed calm.
 
-11. “If they seclude themselves from desires and aren’t fettered by bad qualities, they’ll surely abandon pleasures and attain unsurpassed calm. Their minds won’t become obsessed, angry, or drowsy. Their minds won’t become unhappy, their bodies won’t be stretched, they won’t eat often, and their minds won’t be sad. Those monks then can tolerate hunger and thirst, cold and hot weather, biting and stinging insects, being troubled by wind and sun, harsh noises, and being caned. They’re able to tolerate it when they encounter illnesses, extreme pain, and when their life is about to end. All these unpleasant things are bearable. What is the reason for that? They aren’t covered by desire or fettered by bad qualities. They also attain the abandoning of pleasures and unsurpassed calm.”
+11. “If they seclude themselves from desires and aren’t fettered by bad qualities, they’ll surely abandon pleasures and attain unsurpassed calm. Their minds won’t become obsessed, angry, or drowsy. Their minds won’t become unhappy, their bodies won’t be stretched, they won’t eat often, and their minds won’t be sad. Those bhikkhus then can tolerate hunger and thirst, cold and hot weather, biting and stinging insects, being troubled by wind and sun, harsh noises, and being caned. They’re able to tolerate it when they encounter illnesses, extreme pain, and when their life is about to end. All these unpleasant things are bearable. What is the reason for that? They aren’t covered by desire or fettered by bad qualities. They also attain the abandoning of pleasures and unsurpassed calm.”
 
 #### The Purpose of Removing the Contaminants
 
@@ -87,7 +87,7 @@ Aniruddha and the others accepted the teaching and listened.
 
 #### The Purpose of Relating the Rebirth of Disciples
 
-#### 1. Monks
+#### 1. bhikkhus
 
 22. The Bhagavān asked, “Aniruddha, what’s the Tathāgata’s purpose when he relates that a disciple whose life ended had ‘a certain birth in a certain place, a certain birth in a certain place’?”
 
@@ -165,7 +165,7 @@ Aniruddha and the others accepted the teaching and listened.
 
 40. “Aniruddha, it’s for this purpose that the Tathāgata relates that a disciple whose life ended had ‘a certain birth in a certain place, a certain birth in a certain place.’”
 
-41. This is what the Buddha said. Venerable Aniruddha and the monks who heard what the Buddha taught rejoiced and approved.
+41. This is what the Buddha said. Venerable Aniruddha and the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

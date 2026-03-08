@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a man catches a woman using eight features. What eight? With weeping, laughing, speaking, appearance, gifts of wildflowers, scents, tastes, and touches. A man catches a woman using these eight features. But those beings who are caught by touch are well and truly caught.”
+1“bhikkhus, a man catches a woman using eight features. What eight? With weeping, laughing, speaking, appearance, gifts of wildflowers, scents, tastes, and touches. A man catches a woman using these eight features. But those beings who are caught by touch are well and truly caught.”
 
 1"Aṭṭhahi, bhikkhave, ākārehi puriso itthiṁ bandhati. Katamehi aṭṭhahi? Ruṇṇena, bhikkhave, puriso itthiṁ bandhati; hasitena, bhikkhave, puriso itthiṁ bandhati; bhaṇitena, bhikkhave, puriso itthiṁ bandhati; ākappena, bhikkhave, puriso itthiṁ bandhati; vanabhaṅgena, bhikkhave, puriso itthiṁ bandhati; gandhena, bhikkhave, puriso itthiṁ bandhati; rasena, bhikkhave, puriso itthiṁ bandhati; phassena, bhikkhave, puriso itthiṁ bandhati. Imehi kho, bhikkhave, aṭṭhahākārehi puriso itthiṁ bandhati. Te, bhikkhave, sattā subaddhā, ye phassena baddhā"ti.
 

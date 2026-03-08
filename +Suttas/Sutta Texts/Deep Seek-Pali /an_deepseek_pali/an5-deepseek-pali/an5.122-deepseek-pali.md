@@ -20,7 +20,7 @@ language: "English - Pali"
 
 ‘‘Katame pañca? Idha, bhikkhave, bhikkhuno ajjhattaññeva sati sūpaṭṭhitā hoti dhammānaṃ udayatthagāminiyā paññāya, asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī, sabbasaṅkhāresu aniccānupassī. Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā ime pañca dhamme bhāveti ime pañca dhamme bahulīkaroti, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ – diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā’’ti. Dutiyaṃ.
 
-What are the five? Here, monks, a monk has well-established mindfulness internally, along with wisdom that discerns the arising and passing away of phenomena. He dwells contemplating the unattractive nature of the body, perceives the repulsiveness of food, perceives dissatisfaction in the whole world, and observes impermanence in all conditioned things. Monks, any monk or nun who develops and cultivates these five qualities can expect one of two fruits: either final knowledge in this very life or, if there is a residue of clinging, non-returning. Second.
+What are the five? Here, monks, a monk has well-established mindfulness internally, along with wisdom that discerns the arising and passing away of phenomena. He ![[Satipatthanas]], and observes impermanence in all conditioned things. Monks, any monk or nun who develops and cultivates these five qualities can expect one of two fruits: either final knowledge in this very life or, if there is a residue of clinging, non-returning. Second.
 
 
 ---

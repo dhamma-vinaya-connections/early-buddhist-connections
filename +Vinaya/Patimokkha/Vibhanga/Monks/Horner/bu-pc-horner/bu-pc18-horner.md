@@ -7,27 +7,27 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC18]]
 > ◄  [[bu-pc17-horner]] 📜  [[bu-pc19-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 18
+# bhikkhus’ Expiation (_Pācittiya_) 18
 
-*Bu-Pc.18.1.1* *BD.2.254* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that *Vin.4.46* time two monks (were) in a lofty cell with an upper part,[^1] in a dwelling-place belonging to the Order; one lived below, one above. The monk above sat down suddenly on a couch with removable feet.[^2] The foot of the couch, falling off,[^3] hit[^4] the lower monk on the head, (and) this monk uttered a cry of distress. Monks, running up, said to this monk:
+*Bu-Pc.18.1.1* *BD.2.254* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that *Vin.4.46* time two bhikkhus (were) in a lofty cell with an upper part,[^1] in a dwelling-place belonging to the Order; one lived below, one above. The bhikkhu above sat down suddenly on a couch with removable feet.[^2] The foot of the couch, falling off,[^3] hit[^4] the lower bhikkhu on the head, (and) this bhikkhu uttered a cry of distress. bhikkhus, running up, said to this bhikkhu:
 
 “Why do you, your reverence, utter a cry of distress?”
 
-Then that monk told this matter to the monks. Those who were modest monks … spread it about, saying:
+Then that bhikkhu told this matter to the bhikkhus. Those who were modest bhikkhus … spread it about, saying:
 
-“How can a monk, in a lofty cell with an upper part, in a dwelling-place belonging to the Order, sit down suddenly on a couch with removable feet?”
+“How can a bhikkhu, in a lofty cell with an upper part, in a dwelling-place belonging to the Order, sit down suddenly on a couch with removable feet?”
 
-Then these monks told this matter to the lord…
+Then these bhikkhus told this matter to the lord…
 
-“Is it true, as is said, that you, monk, in a lofty cell with an upper part, in a dwelling-place belonging to the Order, sat down suddenly on a couch with removable feet?” …
+“Is it true, as is said, that you, bhikkhu, in a lofty cell with an upper part, in a dwelling-place belonging to the Order, sat down suddenly on a couch with removable feet?” …
 
-*BD.2.255* “… It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+*BD.2.255* “… It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, in a lofty cell with an upper part, in a dwelling-place belonging to the Order, should sit down[^5] or lie down on a couch or chair with removable feet, there is an offence of expiation.”
+“Whatever bhikkhu, in a lofty cell with an upper part, in a dwelling-place belonging to the Order, should sit down[^5] or lie down on a couch or chair with removable feet, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.18.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.18.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Dwelling-place belonging to the Order means: it comes to be given to the Order, handed over to it.[^6]
 
@@ -55,7 +55,7 @@ The Eighth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -47,9 +47,9 @@ parallels_partilal: ""
 > Shallow assembly and a deep and worst and best
 
 > [!info] Key Excerpts 
-> Shallow assembly where the mendicants are restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties; vs deep the opposite
+> Shallow assembly where the bhikkhus are restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties; vs deep the opposite
 > 
-> Worst assembly where the senior mendicants are indulgent and slack, leaders in backsliding, neglecting seclusion, not rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealize,  best is opposite
+> Worst assembly where the senior bhikkhus are indulgent and slack, leaders in backsliding, neglecting seclusion, not rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealize,  best is opposite
 > 
 
 

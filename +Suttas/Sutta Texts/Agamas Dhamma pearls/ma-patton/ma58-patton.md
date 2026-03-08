@@ -19,11 +19,11 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma58note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma58note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “When a noble wheel-turning king arises in the world, you should know that seven treasures arise in the world, too. What are the seven? The wheel treasure, elephant treasure, horse treasure, jewel treasure, woman treasure, householder treasure, and army general treasure. These are the seven. When a noble wheel-turning king arises in the world, you should know that these seven treasures arise in the world, too.
+2. It was then that the Bhagavān addressed the bhikkhus, “When a noble wheel-turning king arises in the world, you should know that seven treasures arise in the world, too. What are the seven? The wheel treasure, elephant treasure, horse treasure, jewel treasure, woman treasure, householder treasure, and army general treasure. These are the seven. When a noble wheel-turning king arises in the world, you should know that these seven treasures arise in the world, too.
 
 3. “In the same way, when the Tathāgata, the Arhat and Completely Awakened One, arises in the world, you should know that seven factor of awakening treasures arise in the world, too. What are the seven? The awakening factor treasure of mindfulness … awakening factor of discerning qualities … awakening factor of effort … awakening factor of joy … awakening factor of calm … awakening factor of samādhi … awakening factor treasure of equanimity. When the Tathāgata, the Arhat and Completely Awakened One, arises in the world, you should know that these seven factor of awakening treasures arise in the world, too.”
 
-4. This is what the Buddha said. Those monks who heard what the Buddha had taught rejoiced and approved.
+4. This is what the Buddha said. Those bhikkhus who heard what the Buddha had taught rejoiced and approved.
 
 ---
 

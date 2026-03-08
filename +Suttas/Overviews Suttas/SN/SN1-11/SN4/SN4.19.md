@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> While the mendicants are listening to the teachings, Māra takes the form of an ox and looks as if he will break their almsbowls and Māra makes an awful roar to distract them.and Māra takes the form of a farmer looking for lost oxen and addresses the Buddha .
+> While the bhikkhus are listening to the teachings, Māra takes the form of an ox and looks as if he will break their almsbowls and Māra makes an awful roar to distract them.and Māra takes the form of a farmer looking for lost oxen and addresses the Buddha .
 
 > [!info] Key Excerpts 
 > That of which they say ‘it’s mine,’

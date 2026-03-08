@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a Realized One has four kinds of self-assurance. With these he claims the bull’s place, roars his lion’s roar in the assemblies, and turns the holy wheel. What four?
+1“bhikkhus, a Realized One has four kinds of self-assurance. With these he claims the bull’s place, roars his lion’s roar in the assemblies, and turns the holy wheel. What four?
 
 
 I see no reason for anyone—whether ascetic, brahmin, god, Māra, or Brahmā, or anyone else in the world—to legitimately scold me, saying: ‘You claim to be fully awakened, but you don’t understand these things.’ Since I see no such reason, I live secure, fearless, and assured.

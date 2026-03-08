@@ -19,15 +19,15 @@ language: "English"
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 Yamaka’s Wrong View
 2. It was then that a monk named Yamaka<a id="fnref2"></a>[^2] had an evil view occur to him. He said, “As I understand the Dharma taught by the Buddha, an _arhat_ who has ended the contaminants will no longer exist when their body breaks up and their life ends.”
-3. There was a group of monks who overheard what he said. They went to that monk Yamaka and said to him, “Did you really say ‘As I understand the Dharma taught by the Buddha, an _arhat_ who has ended the contaminants will no longer exist when their body breaks up and their life ends’?”
+3. There was a group of bhikkhus who overheard what he said. They went to that monk Yamaka and said to him, “Did you really say ‘As I understand the Dharma taught by the Buddha, an _arhat_ who has ended the contaminants will no longer exist when their body breaks up and their life ends’?”
 He replied, “That’s true, Venerables.”
-4. The monks then said to Yamaka, “Don’t slander the Bhagavān. Slandering the Bhagavān isn’t good. The Bhagavān doesn’t say that. You should abandon this evil view.”
-5. When the monks said this to him, Yamaka still held on to this evil view. He said, “Venerables, only this is true; anything else is false.” He said this three times.
-6. Being unable to discipline Yamaka, the monks gave up and left. They went to Venerable Śāriputra and said to him, “Venerable, you should know that the monk Yamaka has had this evil view occur to him: ‘As I understand the Dharma taught by the Buddha, an _arhat_ who has ended the contaminants will no longer exist when their body breaks up and their life ends.’ After we heard what Yamaka had said, we went and asked him, ‘Did you really say that you know and see this?’
+4. The bhikkhus then said to Yamaka, “Don’t slander the Bhagavān. Slandering the Bhagavān isn’t good. The Bhagavān doesn’t say that. You should abandon this evil view.”
+5. When the bhikkhus said this to him, Yamaka still held on to this evil view. He said, “Venerables, only this is true; anything else is false.” He said this three times.
+6. Being unable to discipline Yamaka, the bhikkhus gave up and left. They went to Venerable Śāriputra and said to him, “Venerable, you should know that the monk Yamaka has had this evil view occur to him: ‘As I understand the Dharma taught by the Buddha, an _arhat_ who has ended the contaminants will no longer exist when their body breaks up and their life ends.’ After we heard what Yamaka had said, we went and asked him, ‘Did you really say that you know and see this?’
 “He answered, ‘Venerables, that’s true; anything else is foolish talk.’
 7. “We then said, ‘Don’t slander the Bhagavān. The Bhagavān doesn’t say that. You should abandon this evil view.’ We admonished him three times, but still he didn’t abandon this evil view, so we’ve come to you, Venerable. Please, Venerable, you should make Yamaka desist from this evil view out of compassion for him!”
 Śāriputra said, “Yes, I will make him to desist from that evil view.”
-That group of monks rejoiced and were glad when they heard Śāriputra say this, and then they returned to their abodes.
+That group of bhikkhus rejoiced and were glad when they heard Śāriputra say this, and then they returned to their abodes.
 Śāriputra Makes Yamaka Desist
 8. The Venerable Śāriputra then put on his robe and took his bowl into Śrāvastī to solicit alms early in the morning. After he ate, he left the city. Once he had returned to the monastery and put away his robes and bowl, he paid a visit to Yamaka. When Yamaka saw Venerable Śāriputra coming from a distance, he prepared a seat and set out a footstool for washing his feet.<a id="fnref3"></a>[^3] He went out to receive Śāriputra, took his robe and bowl, and invited him to take his seat.
 9. After he had taken his seat and washed his feet, Śāriputra said to Yamaka, “Do you really say ‘As I understand the Dharma taught by the Bhagavān, an _arhat_ who has ended the contaminants won’t exist when his body breaks up and his life ends’?”

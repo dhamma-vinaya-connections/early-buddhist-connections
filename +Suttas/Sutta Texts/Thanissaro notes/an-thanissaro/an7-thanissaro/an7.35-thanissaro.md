@@ -15,7 +15,7 @@ language: "English"
 ## ## Mitta Sutta
 
 
-“Monks, a friend endowed with seven qualities is worth associating with. Which seven? He gives what is hard to give. He does what is hard to do. He endures what is hard to endure. He reveals his secrets to you. He keeps your secrets. When misfortunes strike, he doesn’t abandon you. When you’re down & out, he doesn’t look down on you. A friend endowed with these seven qualities is worth associating with.
+“bhikkhus, a friend endowed with seven qualities is worth associating with. Which seven? He gives what is hard to give. He does what is hard to do. He endures what is hard to endure. He reveals his secrets to you. He keeps your secrets. When misfortunes strike, he doesn’t abandon you. When you’re down & out, he doesn’t look down on you. A friend endowed with these seven qualities is worth associating with.
 
 “He gives what is beautiful,
 

@@ -90,7 +90,7 @@ along with any other animals there.
 
 Having heard the Awakened One’s words,
 
-the discerning monk
+the discerning bhikkhu
 
 comprehends, for he sees it
 
@@ -108,7 +108,7 @@ fade away.
 
 With desire & passion faded away,
 
-the discerning monk arrives here:
+the discerning bhikkhu arrives here:
 
 at the deathless,
 

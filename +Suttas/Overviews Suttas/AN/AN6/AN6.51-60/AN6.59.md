@@ -47,7 +47,7 @@ parallels_partilal: ""
 > The householder dārukammika claims to give gifts to arahants. But the Buddha  warns him that it’s hard to know who is really an Arahant, and encourage him instead to make offerings to the saṅgha.
 
 > [!info] Key Excerpts 
-> Mendicant living in the wilderness or next to villages, eats only alms-food or accept invitations, wears rag robes or robes offered by householders not a sign of being awakened
+> bhikkhu living in the wilderness or next to villages, eats only alms-food or accept invitations, wears rag robes or robes offered by householders not a sign of being awakened
 > 
 > Who is not restless, insolent, fickle, gossipy, or loose-tongued, but has established mindfulness, situational awareness and immersion, with unified mind and restrained faculties, then in this respect they’re praiseworthy
 > 

@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nuns were giving the full admission to unmarried girls less than twenty years old. They were unable to endure cold and heat; hunger and thirst; contact with horseflies, mosquitoes, wind, the burning sun, and creeping animals and insects; rude and unwelcome speech; and they were unable to bear up with bodily feelings that are painful, severe, sharp, and destructive of life.
 
-2The nuns of few desires complained and criticized them, “How can nuns give the full admission to unmarried girls less than twelve years old?” … “Is it true, monks, that nuns do this?”
+2The nuns of few desires complained and criticized them, “How can nuns give the full admission to unmarried girls less than twelve years old?” … “Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? An unmarried girl less than twenty years old is unable to endure cold and heat; hunger and thirst; contact with horseflies, mosquitoes, wind, the burning sun, and creeping animals and insects; rude and unwelcome speech; and she’s unable to bear up with bodily feelings that are painful, severe, sharp, and destructive of life. But an unmarried girl who is twenty years old is able to endure these things. This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can nuns do this? An unmarried girl less than twenty years old is unable to endure cold and heat; hunger and thirst; contact with horseflies, mosquitoes, wind, the burning sun, and creeping animals and insects; rude and unwelcome speech; and she’s unable to bear up with bodily feelings that are painful, severe, sharp, and destructive of life. But an unmarried girl who is twenty years old is able to endure these things. This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

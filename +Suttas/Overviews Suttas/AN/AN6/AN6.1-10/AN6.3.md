@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant is worthy of gifts because of six faculties.
+> bhikkhu is worthy of gifts because of six faculties.
 
 > [!info] Key Excerpts 
 > Faith, energy, mindfulness, immersion, and wisdom &  they realize the undefiled freedom of heart and freedom by wisdom

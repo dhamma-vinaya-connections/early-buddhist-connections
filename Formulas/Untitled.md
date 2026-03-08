@@ -1,0 +1,1 @@
+basis of psychic power[\s\S]*? psychic power

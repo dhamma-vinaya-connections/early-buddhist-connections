@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“If, mendicants, a mendicant develops the second … third … or fourth jhāna … or the heart’s release by love … or the heart’s release by compassion … or the heart’s release by rejoicing … or the heart’s release by equanimity, even as long as a finger snap …
+1“If, bhikkhus, a bhikkhu develops the second … third … or fourth jhāna … or the heart’s release by love … or the heart’s release by compassion … or the heart’s release by rejoicing … or the heart’s release by equanimity, even as long as a finger snap …
 
 1"Accharāsaṅghātamattampi ce, bhikkhave, bhikkhu dutiyaṁ jhānaṁ bhāveti … pe … tatiyaṁ jhānaṁ bhāveti … pe … catutthaṁ jhānaṁ bhāveti … pe … mettaṁ cetovimuttiṁ bhāveti … pe … karuṇaṁ cetovimuttiṁ bhāveti … pe … muditaṁ cetovimuttiṁ bhāveti … pe … upekkhaṁ cetovimuttiṁ bhāveti … pe … .
 

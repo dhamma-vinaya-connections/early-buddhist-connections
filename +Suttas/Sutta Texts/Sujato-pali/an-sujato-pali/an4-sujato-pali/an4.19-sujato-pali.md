@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four ways of making prejudiced decisions. What four? Making decisions prejudiced by favoritism, hostility, stupidity, and cowardice. These are the four ways of making prejudiced decisions.
+1“bhikkhus, there are these four ways of making prejudiced decisions. What four? Making decisions prejudiced by favoritism, hostility, stupidity, and cowardice. These are the four ways of making prejudiced decisions.
 
 2There are these four ways of making unprejudiced decisions. What four? Making decisions unprejudiced by favoritism, hostility, stupidity, and cowardice. These are the four ways of making unprejudiced decisions.
 

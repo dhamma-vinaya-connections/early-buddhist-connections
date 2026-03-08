@@ -16,9 +16,9 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were misbehaving, but when a legal procedure was being done against any one of them, they would object.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were misbehaving, but when a legal procedure was being done against any one of them, they would object.
 
-On one occasion the Sangha had gathered on some business. The monks from the group of six were busy making robes and so they gave their consent to one among them. When the monks saw that only one monk from the group of six had come, they did a legal procedure against him. When he returned to the monks from the group of six, they asked him, “What did the Sangha do?”
+On one occasion the Sangha had gathered on some business. The bhikkhus from the group of six were busy making robes and so they gave their consent to one among them. When the bhikkhus saw that only one monk from the group of six had come, they did a legal procedure against him. When he returned to the bhikkhus from the group of six, they asked him, “What did the Sangha do?”
 
 “It did a legal procedure against me.”
 
@@ -26,15 +26,15 @@ On one occasion the Sangha had gathered on some business. The monks from the gro
 “We didn’t give our consent for that. If we had known that a procedure would be done against you, we wouldn’t have given our consent.”
 
 
-2The monks of few desires complained and criticized them, “How could the monks from the group of six give their consent to legitimate legal procedures and then criticize them afterwards?” …
+2The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six give their consent to legitimate legal procedures and then criticize them afterwards?” …
 
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

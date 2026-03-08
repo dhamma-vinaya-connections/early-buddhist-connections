@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those who haven’t developed mindfulness of the body haven’t developed the deathless. Those who have developed mindfulness of the body have developed the deathless.”
+1“bhikkhus, those who haven’t developed mindfulness of the body haven’t developed the deathless. Those who have developed mindfulness of the body have developed the deathless.”
 
 1"Amataṁ tesaṁ, bhikkhave, abhāvitaṁ yesaṁ kāyagatāsati abhāvitā. Amataṁ tesaṁ, bhikkhave, bhāvitaṁ yesaṁ kāyagatāsati bhāvitā"ti.
 

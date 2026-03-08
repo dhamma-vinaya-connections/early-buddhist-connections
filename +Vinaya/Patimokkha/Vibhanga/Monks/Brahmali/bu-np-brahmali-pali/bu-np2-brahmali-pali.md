@@ -16,33 +16,33 @@ Bhikkhu Vibhaṅga - Nissaggiya Pācittiya 2: Not to spend the night apart from
 
 #### First sub-story
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks stored one of their robes with other monks and then left to wander the country in a sarong and an upper robe. Because they were stored for a long time, the robes became moldy. The monks put them out in the sun.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus stored one of their robes with other bhikkhus and then left to wander the country in a sarong and an upper robe. Because they were stored for a long time, the robes became moldy. The bhikkhus put them out in the sun.
 
-Then, while walking about the dwellings, Venerable Ānanda noticed that the monks were sunning those robes. He asked them, “Whose moldy robes are these?” And they told him what had happened. Venerable Ānanda complained and criticized them, “How can those monks store a robe with other monks and then leave to wander the country in a sarong and an upper robe?”
+Then, while walking about the dwellings, Venerable Ānanda noticed that the bhikkhus were sunning those robes. He asked them, “Whose moldy robes are these?” And they told him what had happened. Venerable Ānanda complained and criticized them, “How can those bhikkhus store a robe with other bhikkhus and then leave to wander the country in a sarong and an upper robe?”
 
-2After rebuking those monks in many ways, Venerable Ānanda told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned the monks: “Is it true, monks, that there are monks who do this?”
+2After rebuking those bhikkhus in many ways, Venerable Ānanda told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that there are bhikkhus who do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How can those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Preliminary ruling
 
 3‘When his robe is finished and the robe season has ended, if a monk stays apart from his three robes even for a single day, he commits an offense entailing relinquishment and confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
 #### Second sub-story
 
-5At one time a certain monk at Kosambī was sick. His relatives sent him a message, saying, “Come, Venerable, we’ll nurse you.” The monks urged him to go, but he said, “The Buddha has laid down a training rule that you can’t be apart from your three robes. Now because I’m sick, I’m unable to travel with my three robes. So I can’t go.”
+5At one time a certain monk at Kosambī was sick. His relatives sent him a message, saying, “Come, Venerable, we’ll nurse you.” The bhikkhus urged him to go, but he said, “The Buddha has laid down a training rule that you can’t be apart from your three robes. Now because I’m sick, I’m unable to travel with my three robes. So I can’t go.”
 
-They told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+They told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to give permission to a sick monk to stay apart from his three robes.
+“bhikkhus, I allow you to give permission to a sick monk to stay apart from his three robes.
 
 
-And it should be given like this. After approaching the Sangha, the sick monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, raise his joined palms, and say, ‘Venerables, I’m sick. I’m unable to travel with my three robes. I ask the Sangha for permission to stay apart from my three robes.’ And he should ask a second and a third time. A competent and capable monk should then inform the Sangha:
+And it should be given like this. After approaching the Sangha, the sick monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior bhikkhus. He should then squat on his heels, raise his joined palms, and say, ‘Venerables, I’m sick. I’m unable to travel with my three robes. I ask the Sangha for permission to stay apart from my three robes.’ And he should ask a second and a third time. A competent and capable monk should then inform the Sangha:
 
 6‘Please, Venerables, I ask the Sangha to listen. The monk so-and-so is sick. He is unable to travel with his three robes. He is asking the Sangha for permission to stay apart from his three robes. If it seems appropriate to the Sangha, the Sangha should give permission to monk so-and-so to stay apart from his three robes. This is the motion.
 
@@ -50,11 +50,11 @@ And it should be given like this. After approaching the Sangha, the sick monk sh
 
 8The Sangha has given permission to monk so-and-so to stay apart from his three robes. The Sangha approves and is therefore silent. I’ll remember it thus.’
 
-9And so, monks, this training rule should be recited like this:
+9And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-10‘When his robe is finished and the robe season has ended, if a monk stays apart from his three robes even for a single day, except if the monks have agreed, he commits an offense entailing relinquishment and confession.’”
+10‘When his robe is finished and the robe season has ended, if a monk stays apart from his three robes even for a single day, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession.’”
 
 #### Definitions
 
@@ -64,14 +64,14 @@ And it should be given like this. After approaching the Sangha, the sick monk sh
 
 13**If a monk stays apart from his three robes even for a single day:** from the outer robe, the upper robe, or the sarong.
 
-14**Except if the monks have agreed:** unless the monks have agreed.
+14**Except if the bhikkhus have agreed:** unless the bhikkhus have agreed.
 
 
 15**Entailing relinquishment:** it becomes subject to relinquishment at dawn.
 
-The robe should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The robe should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
-‘Venerables, this robe, which I have stayed apart from for one day without the agreement of the monks, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe back to you.’”
+‘Venerables, this robe, which I have stayed apart from for one day without the agreement of the bhikkhus, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe back to you.’”
 
 #### Permutations
 
@@ -154,16 +154,16 @@ At the foot of a tree belonging to many clans: one must not go beyond arm’s re
 
 34The open air with a single access: in an uninhabited area, in the wilderness, the area covered by a circle with 80 meters radius has a single access. Whatever lies beyond that has many accesses.
 
-35If he has stayed apart and he perceives that he has, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession. If he has stayed apart, but he is unsure of it, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession. If he has stayed apart, but he does not perceive that he has, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession.
+35If he has stayed apart and he perceives that he has, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession. If he has stayed apart, but he is unsure of it, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession. If he has stayed apart, but he does not perceive that he has, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession.
 
-If it has not been relinquished, but he perceives that it has, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession. If it has not been given away, but he perceives that it has, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession. If it has not been lost, but he perceives that it has, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession. If it has not been destroyed, but he perceives that it has, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession. If it has not been burned, but he perceives that it has, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession. If it has not been stolen, but he perceives that it has, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession.
+If it has not been relinquished, but he perceives that it has, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession. If it has not been given away, but he perceives that it has, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession. If it has not been lost, but he perceives that it has, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession. If it has not been destroyed, but he perceives that it has, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession. If it has not been burned, but he perceives that it has, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession. If it has not been stolen, but he perceives that it has, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession.
 
 
 36If he uses a robe that should be relinquished without first relinquishing it, he commits an offense of wrong conduct. If he has not stayed apart, but he perceives that he has, he commits an offense of wrong conduct. If he has not stayed apart, but he is unsure of it, he commits an offense of wrong conduct. If he has not stayed apart and he does not perceive that he has, there is no offense.
 
 #### Non-offenses
 
-37There is no offense: if before dawn it has been relinquished, given away, lost, destroyed, burned, stolen, or taken on trust; if he has the permission of the monks; if he is insane; if he is the first offender.
+37There is no offense: if before dawn it has been relinquished, given away, lost, destroyed, burned, stolen, or taken on trust; if he has the permission of the bhikkhus; if he is insane; if he is the first offender.
 
 38The training rule on storehouses, the second, is finished.
 

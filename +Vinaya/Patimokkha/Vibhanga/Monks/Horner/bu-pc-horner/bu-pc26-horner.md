@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC26]]
 > ◄  [[bu-pc25-horner]] 📜  [[bu-pc27-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 26
+# bhikkhus’ Expiation (_Pācittiya_) 26
 
 *Bu-Pc.26.1.1* *BD.2.285* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Udāyin[^1] became skilled[^2] in making robes. *Vin.4.61* A certain nun[^3] approached the venerable Udāyin, and having approached she spoke thus to the venerable Udāyin:
 
@@ -29,7 +29,7 @@ Nuns spoke thus: “Whose work is this?”
 
 “A thing like this should not adorn these who have little fear of blame, who are sly, who have no shame. Is it not master Udāyin’s?” they said.
 
-Then the nuns told this matter to the monks. Those who were modest monks … spread it about, saying:
+Then the nuns told this matter to the bhikkhus. Those who were modest bhikkhus … spread it about, saying:
 
 “How can the venerable Udāyin sew a robe for a nun?” …
 
@@ -41,13 +41,13 @@ Then the nuns told this matter to the monks. Those who were modest monks … spr
 
 “She is not a relation, lord,” he said.
 
-“Foolish man, one who is not a relation does not know what is suitable or what is unsuitable, or what is pleasing or what is unpleasing for a woman who is not a relation. How can you, foolish man, sew a robe for a nun who is not a relation? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“Foolish man, one who is not a relation does not know what is suitable or what is unsuitable, or what is pleasing or what is unpleasing for a woman who is not a relation. How can you, foolish man, sew a robe for a nun who is not a relation? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should sew or should cause a robe to be sewn for a nun who is not a relation, there is an offence of expiation.”
+“Whatever bhikkhu should sew or should cause a robe to be sewn for a nun who is not a relation, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.26.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.26.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Not a relation means: one who is not related on the *BD.2.287* mother’s side or on the father’s side back through seven generations.[^8]
 
@@ -73,7 +73,7 @@ The Sixth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

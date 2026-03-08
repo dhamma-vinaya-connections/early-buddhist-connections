@@ -118,7 +118,7 @@ From https://index.readingfaithfully.org
     - definition: [[DN8]].18.0, [[MN53]], [[AN3.117]]
     - leads to good rebirth, like loaded dice: [[AN3.118]]
     - like king who has defeated his enemies: [[DN8]].15.0
-    - mendicant with cannot decline: [[AN4.37]]
+    - bhikkhu with cannot decline: [[AN4.37]]
     - mortification useless without: [[DN8]].15.0
     - one with will develop noble eightfold path: [[SN45.50]], [[SN45.85]]
     - person who has is very helpful to associate with: [[SN46.3]]
@@ -263,7 +263,7 @@ From https://index.readingfaithfully.org
     - for new monastics: [[SN47.4]]
     - for sick monks: [[SN36.7]]
     - from mother: [[THIG9]].1
-    - mendicants should train in good: [[SN2.1]]
+    - bhikkhus should train in good: [[SN2.1]]
     - people who do not take well: [[AN3.25]]
 
 - advice 2 (ovāda)
@@ -971,7 +971,7 @@ From https://index.readingfaithfully.org
     - reasons for: [[AN5.181]]
     - ven. bakkula: [[MN124]]
 
-- ascetic, mendicant, sage
+- ascetic, bhikkhu, sage
     - see also: monastic
     - duties of: [[AN3.81]]
     - true meaning: DHP256-272
@@ -995,7 +995,7 @@ From https://index.readingfaithfully.org
     - what makes one an: [[MN39]], [[MN40]]
 
 - ascetics and brahmins (samaṇabrāhmaṇa)
-    - see also: mendicants, monks
+    - see also: bhikkhus, monks
     - caring for: [[DN31]].27.0
     - caught by sense pleasures: [[MN26]]
     - direction above: [[DN31]].27.0
@@ -1567,7 +1567,7 @@ From https://index.readingfaithfully.org
     - investigating the mind to see if they are developed: [[MN151]]
     - lead to nibbāna: [[MN16]], [[SN51.4]], [[SN51.11]], [[AN5.67]]
     - leads to unconditioned: [[SN43.7]]
-    - long life for a mendicant: [[DN26]].28.0
+    - long life for a bhikkhu: [[DN26]].28.0
     - one who has developed could live for an eon: [[DN16]].3.1.0, [[SN51.10]], [[AN8.70]]
     - psychic powers: [[AN5.68]]
     - to give up aggregates: [[AN9.76]]
@@ -2265,7 +2265,7 @@ From https://index.readingfaithfully.org
     - resentment, to overcome: [[AN5.161]]
     - to the four directions: [[MN40]]
     - under abuse: [[MN50]]
-    - wealth for a mendicant: [[DN26]].28.0
+    - wealth for a bhikkhu: [[DN26]].28.0
 
 - Brahmāyu, brahmin
     - marks of a great man: [[MN91]]
@@ -2531,7 +2531,7 @@ From https://index.readingfaithfully.org
     - treating as a friend: [[MN122]]
     - understanding of: [[DN29]].27.0, [[ITI112]]
     - unequalled gem: [[KP6]]
-    - urging support of other mendicants: [[MN56]]
+    - urging support of other bhikkhus: [[MN56]]
     - visiting beings about to die: [[AN6.56]], [[VV21]], [[VV50]], [[VV53]], [[VV83]]
     - visiting brahmā realm: [[MN49]], [[SN6.4]], [[SN6.5]], [[SN51.22]]
     - visiting deva realm: [[SN55.20]]
@@ -2898,7 +2898,7 @@ From https://index.readingfaithfully.org
 
 - charioteers
     - see also: chariots
-    - simile for mendicant guarding senses: [[SN1.37]], [[SN35.239]]
+    - simile for bhikkhu guarding senses: [[SN1.37]], [[SN35.239]]
     - simile for the buddha: [[MN21]]
 
 - chariots
@@ -3635,7 +3635,7 @@ From https://index.readingfaithfully.org
 - corruptions 2 (upakkilesa)
     - —: SN
     - five hindrances: [[SN46.33]], [[AN5.23]]
-    - of mendicants: [[AN4.50]]
+    - of bhikkhus: [[AN4.50]]
     - of the mind: [[MN7]], [[MN128]]
 
 - cosmetics
@@ -5166,8 +5166,8 @@ From https://index.readingfaithfully.org
     - encouragement to collect merit at home instead: [[SN35.244]], [[SN45.160]], [[SN52.8]]
     - encouraging to: [[SN45.160]], [[SN52.8]], [[THIG6]].3, [[THIG7]].3, [[THIG14]].1
     - from criticizing noble ones: [[AN11.6]]
-    - impossible for restrained mendicant: [[SN35.244]]
-    - mendicant who develops eightfold path will not: [[SN45.160]], [[SN52.8]]
+    - impossible for restrained bhikkhu: [[SN35.244]]
+    - bhikkhu who develops eightfold path will not: [[SN45.160]], [[SN52.8]]
     - of sunakkhatta: [[DN24]].1.0
     - sense pleasures: [[MN67]], [[SN17.9]], [[SN35.120]], [[AN4.122]]
     - sensual desire: [[SN20.10]], [[AN5.75]], [[AN5.76]]
@@ -5370,7 +5370,7 @@ From https://index.readingfaithfully.org
     - self-examination for: [[AN10.51]]
     - starved by settled mind: [[SN46.51]]
     - tied up with: [[THAG16]].3
-    - time to see esteemed mendicant: [[AN6.27]]
+    - time to see esteemed bhikkhu: [[AN6.27]]
     - to give up, improper attention, following a wrong path, mental sluggishness must be given up: [[AN10.76]]
 
 - downfall (parābhava)
@@ -5436,7 +5436,7 @@ From https://index.readingfaithfully.org
     - removing: [[MN27]], [[MN51]], [[AN6.27]]
     - self-examination for: [[AN10.51]]
     - starved by elements of initiative, persistence, exertion: [[SN46.51]]
-    - time to see esteemed mendicant: [[AN6.27]]
+    - time to see esteemed bhikkhu: [[AN6.27]]
 
 - dung
     - comes together with dung, simile for association: [[SN14.16]]
@@ -5604,7 +5604,7 @@ From https://index.readingfaithfully.org
     - how to: [[AN8.9]]
     - like treating wound: [[SN35.239]]
     - māra cannot strike down: [[DHP|DHP8]]
-    - mendicant who does cannot decline: [[AN4.37]]
+    - bhikkhu who does cannot decline: [[AN4.37]]
     - needed to reach superhuman states: [[AN6.77]]
     - not eating in moderation leads to dissatisfaction: [[AN5.56]]
     - wilderness monks should: [[MN69]]
@@ -5959,7 +5959,7 @@ From https://index.readingfaithfully.org
     - less than a day: [[MN85]]
     - like baby released from swaddling: [[MN80]]
     - not possible without samādhi: [[AN6.70]]
-    - power for a mendicant: [[DN26]].28.0
+    - power for a bhikkhu: [[DN26]].28.0
     - result of faith: [[AN11.14]]
     - through disillusionment for feelings: [[MN74]]
     - when hindrances are removed: [[AN5.23]]
@@ -6625,7 +6625,7 @@ From https://index.readingfaithfully.org
     - caring for as a blessing: [[KP5]], [[SNP2.4]]
     - caring for by breaking precepts: [[MN97]]
     - causes for ruin of: [[SN42.9]]
-    - closeness of mendicant to: [[MN144]], [[SN35.87]]
+    - closeness of bhikkhu to: [[MN144]], [[SN35.87]]
     - death of family as cause for urgency: [[AN4.113]]
     - differences between parents and children: [[ITI74]]
     - disputes: [[MN13]], [[MN14]]
@@ -6644,7 +6644,7 @@ From https://index.readingfaithfully.org
     - useless speech about: [[AN10.69]]
     - wishing for them to observe uposatha: [[AN8.44]]
     - with few men, simile for saṅgha: [[AN8.51]]
-    - with many women and few men, simile for mendicant: [[SN20.3]]
+    - with many women and few men, simile for bhikkhu: [[SN20.3]]
     - worth visiting, not worth visiting: [[AN9.17]]
 
 - family to family (kolaṅkola)
@@ -6680,7 +6680,7 @@ From https://index.readingfaithfully.org
 - farming
     - as metaphor: [[SN7.11]], [[SNP1.4]]
     - giving up: [[THAG1]].43
-    - like mendicant practicing: [[AN3.92]]
+    - like bhikkhu practicing: [[AN3.92]]
     - much work and great fruit: [[MN99]]
 
 - fasting
@@ -6900,7 +6900,7 @@ From https://index.readingfaithfully.org
     - noble eightfold path to give up five lower: [[SN45.179]]
     - path to give up like heartwood: [[MN64]]
     - prone to being fettered: [[SN12.53]], [[SN12.56]]
-    - removal of makes one a true mendicant, etc.: [[AN7.85]]
+    - removal of makes one a true bhikkhu, etc.: [[AN7.85]]
     - removed by reviewing five subjects: [[AN5.57]]
     - sense bases: [[SN35.109]]
     - sense bases are things that fetter: [[SN46.29]]
@@ -7053,7 +7053,7 @@ From https://index.readingfaithfully.org
     - of different kinds of wood made by different castes: [[MN93]]
     - of different kinds of wood, simile for castes: [[MN90]], [[MN96]]
     - simile for awakening factors to develop at proper time: [[SN46.53]]
-    - simile for māra catching mendicant: [[SN35.243]]
+    - simile for māra catching bhikkhu: [[SN35.243]]
     - three: [[DN33]].1.10.0
     - to be given up: [[AN7.47]]
     - trying to make irrationally, simile for finding soul: [[DN23]].5.0
@@ -7607,7 +7607,7 @@ From https://index.readingfaithfully.org
     - having: [[AN2.94]]
     - hinders virtue: [[AN10.73]]
     - impossible to progress when following: [[AN6.67]]
-    - leading to mendicant’s decline: [[AN6.21]]
+    - leading to bhikkhu’s decline: [[AN6.21]]
     - leads to unwholesome: [[AN1.70]]
     - monastic as: [[PV43]], [[PV44]]
     - overcome: [[AN8.7]]
@@ -7707,7 +7707,7 @@ From https://index.readingfaithfully.org
     - sense bases impermanent in: [[SN35.187]]
     - speculating about: [[MN2]], [[MN38]]
     - using present to infer about: [[SN42.11]]
-    - when mendicants will not want to listen: [[SN20.7]]
+    - when bhikkhus will not want to listen: [[SN20.7]]
 
 - future lives
     - dangers of: [[AN8.56]]
@@ -7777,7 +7777,7 @@ From https://index.readingfaithfully.org
     - cause for rebirth as: [[SN31.2]]
     - conception of embryo: [[MN38]]
     - followers of buddha: [[DN30]].1.7.0, [[DN30]].1.16.0
-    - mendicants reborn as: [[DN21]].1.8.0
+    - bhikkhus reborn as: [[DN21]].1.8.0
     - pañcasikha: DN19
     - ruled by dhataraṭṭha: DN32
     - types of: [[SN31.1]]
@@ -9526,7 +9526,7 @@ From https://index.readingfaithfully.org
     - similes for: [[DN2]].34.0.1, [[MN39]], [[AN5.193]]
     - sustained by fuel: [[SN46.2]]
     - understanding of: [[DN22]].13.0.1, [[MN10]]
-    - visiting esteemed mendicants to overcome: [[AN6.27]]
+    - visiting esteemed bhikkhus to overcome: [[AN6.27]]
 
 - hint (obhāsa)
     - buddha giving to ānanda: [[DN16]].3.1.0, [[SN51.10]]
@@ -9623,11 +9623,11 @@ From https://index.readingfaithfully.org
     - simile for trained and untrained people: [[MN125]]
     - simile for urgency: [[AN4.113]]
     - thoroughbred worthy of a king, simile for good monastic: [[MN65]]
-    - thoroughbred, simile for good mendicant: [[AN8.13]], [[AN10.87]]
+    - thoroughbred, simile for good bhikkhu: [[AN8.13]], [[AN10.87]]
     - thoroughbred, simile for training: [[MN65]]
     - thoroughbred, simile for types of people: [[AN9.22]]
     - up or down from, simile for rebirth: [[SN3.21]]
-    - wild colt, simile for bad mendicant: [[AN10.87]]
+    - wild colt, simile for bad bhikkhu: [[AN10.87]]
     - wild colt, simile for bad people: [[AN8.14]]
     - wild colt, simile for types of people: [[AN9.22]]
 
@@ -9677,7 +9677,7 @@ From https://index.readingfaithfully.org
     - people walking between, simile for knowledge of rebirth of beings: [[DN2]].34.0.1, [[DN10]].2.1.0, [[MN39]], [[MN77]]
     - roof peak, simile for noble knowledge: [[SN48.52]]
     - simile for danger of fools spreading like fire: [[MN115]]
-    - simile for māra catching mendicant; catching fire: [[SN35.243]]
+    - simile for māra catching bhikkhu; catching fire: [[SN35.243]]
     - with eleven doors, simile for eleven doors to the deathless: [[MN52]], [[AN11.16]]
 
 - houses 2 (kūṭāgāra)
@@ -9857,7 +9857,7 @@ From https://index.readingfaithfully.org
     - removing: [[AN6.27]]
     - starved by hearts release by loving-kindness: [[SN46.51]]
     - through ignorance: [[MN140]]
-    - time to see esteemed mendicant: [[AN6.27]]
+    - time to see esteemed bhikkhu: [[AN6.27]]
     - unskillful: [[MN9]], [[MN73]]
 
 - ill will, giving up
@@ -10371,7 +10371,7 @@ From https://index.readingfaithfully.org
     - compared to devadatta: [[SN20.11]], [[SN20.12]]
     - immitating a lion, simile for rivals of buddha: [[DN24]].1.19.0
     - simile for gain and honor: [[SN17.8]]
-    - simile for māra attacking mendicant: [[SN35.240]]
+    - simile for māra attacking bhikkhu: [[SN35.240]]
     - simile for senses: [[SN35.247]]
 
 - Jambudīpa (India)
@@ -10484,7 +10484,7 @@ From https://index.readingfaithfully.org
     - gods not understanding the mind of one in: [[AN11.9]]
     - gradual training, aspect of: [[MN51]], [[MN107]]
     - gratification of feeling: [[MN13]]
-    - happiness for a mendicant: [[DN26]].28.0
+    - happiness for a bhikkhu: [[DN26]].28.0
     - how to obtain: [[MN6]], [[AN10.71]]
     - in definition of right samādhi (sammā samādhi): [[DN22]].13.0.1, [[MN141]]
     - insufficient: [[AN8.71]], [[AN10.8]]
@@ -10890,7 +10890,7 @@ From https://index.readingfaithfully.org
 
 - knowing knows, seeing sees (jānaṁ jānāti passaṁ passatī)
     - investigating a teacher: [[MN95]]
-    - mendicant with wisdom: [[AN8.2]]
+    - bhikkhu with wisdom: [[AN8.2]]
     - why disciples respect the buddha: [[MN77]]
 
 - knowing ones own good
@@ -11601,7 +11601,7 @@ From https://index.readingfaithfully.org
     - hanging on in ocean, simile for relying on lazy person: [[SN14.16]]
 
 - logs 2 (dārukkhandha)
-    - simile for mendicant: [[SN9.9]], [[SN35.241]]
+    - simile for bhikkhu: [[SN9.9]], [[SN35.241]]
 
 - Lohicca, brahmin
     - asking about guarding senses: [[SN35.132]]
@@ -11616,7 +11616,7 @@ From https://index.readingfaithfully.org
 - long life 1
     - see also: lifespans
     - cause for: [[DN30]].1.10.0, [[MN135]]
-    - for a mendicant: [[DN26]].28.0
+    - for a bhikkhu: [[DN26]].28.0
     - hope for long life hard to give up: [[AN2.118]]
     - not gained by wishing: [[AN5.43]]
     - promoting and impeding: [[AN5.125]], [[AN5.126]]
@@ -11784,7 +11784,7 @@ From https://index.readingfaithfully.org
 - luxuries
     - abstaining from: [[DN1]].1.7.0.1, [[DN2]].34.0.1
     - abstaining from, ten precepts: [[KP2]]
-    - not allowed for mendicants: [[AN3.63]]
+    - not allowed for bhikkhus: [[AN3.63]]
     - returning to after ascetic practices: [[MN36]]
 
 - lying
@@ -12059,7 +12059,7 @@ From https://index.readingfaithfully.org
     - sense pleasures and perceptions are his domain: [[MN106]]
     - sexist attack: [[THIG3]].8
     - snake, taking form of: [[SN4.6]]
-    - taking hold of mendicant not guarding senses: [[SN35.243]]
+    - taking hold of bhikkhu not guarding senses: [[SN35.243]]
     - taking possession of a god: [[SN2.30]]
     - tormenting ven. moggallāna: [[MN50]]
     - trapped by māra’s snare: [[SN35.114]]
@@ -12254,7 +12254,7 @@ From https://index.readingfaithfully.org
     - minds occupied by women: AN1.1-10, [[AN5.55]]
     - not having children: [[SN37.2]]
 
-- mendicants
+- bhikkhus
     - see also: ascetics and brahmins (samaṇabrāhmaṇa)
     - acting for the harm or welfare of beings: [[AN3.11]]
     - benefiting the world: [[AN3.60]]
@@ -12344,7 +12344,7 @@ From https://index.readingfaithfully.org
     - as true possession: [[SN3.4]], [[KP8]]
     - by going for refuge: [[AN8.39]]
     - by honoring: [[DHP|DHP195]], [[DHP|DHP196]]
-    - by supporting mendicants: [[AN3.46]]
+    - by supporting bhikkhus: [[AN3.46]]
     - countless people in magadha have collected: [[DN18]].27.3.0
     - death and old age as encouragement to do: [[SN1.3]]
     - do not fear: [[AN7.62]]
@@ -13040,7 +13040,7 @@ From https://index.readingfaithfully.org
     - simile for senses: [[SN35.247]]
 
 - monks
-    - see: ascetics and brahmins (samaṇabrāhmaṇa), bhikkhus, mendicants
+    - see: ascetics and brahmins (samaṇabrāhmaṇa), bhikkhus, bhikkhus
 
 - monument
     - see: stupa (thupa)
@@ -13734,7 +13734,7 @@ From https://index.readingfaithfully.org
 
 - non-humans (amanussa)
     - see also: asuras, goblins (pisāca), gods, brahmās, devas, ghosts, gods, kinnara (kiṁpurisa), nymphs (accharā), nāgas, supaṇṇa, wardens of hell (nirayapāla), yakkhas, zombie
-    - easy to prey on mendicant without developed mind: [[SN20.3]], [[SN20.5]]
+    - easy to prey on bhikkhu without developed mind: [[SN20.3]], [[SN20.5]]
     - gathering of: [[DN20]].4.0
     - hearing things from: [[DN28]].1.0
     - loving-kindness makes non-humans love you: [[AN11.15]]
@@ -14200,7 +14200,7 @@ From https://index.readingfaithfully.org
     - as shackle in the heart: [[MN16]]
     - bondage of the mind: [[AN5.206]], [[AN9.72]]
     - disrobing: [[SN35.120]]
-    - leading to mendicant’s decline: [[AN8.79]]
+    - leading to bhikkhu’s decline: [[AN8.79]]
     - like hog: [[DHP|DHP325]]
     - māra strikes one down: [[DHP|DHP7]]
     - relishing prevents mindfulness of body: [[AN6.117]], [[AN6.118]]
@@ -15410,7 +15410,7 @@ From https://index.readingfaithfully.org
     - goal is for one who does not enjoy: [[MN11]]
     - going beyond: [[SNP1.1]]
     - happiness in present life: [[AN6.78]]
-    - leading to mendicant’s decline: [[AN8.79]]
+    - leading to bhikkhu’s decline: [[AN8.79]]
     - perceptions: [[MN18]]
     - relishing and bad death: [[AN6.14]]
 
@@ -16368,7 +16368,7 @@ From https://index.readingfaithfully.org
     - like bowl of water stirred by wind: [[SN46.55]]
     - removing: [[AN6.27]]
     - starved by the settled mind: [[SN46.51]]
-    - time to see esteemed mendicant: [[AN6.27]]
+    - time to see esteemed bhikkhu: [[AN6.27]]
     - when to be remorseful: [[AN2.108]], [[AN2.109]]
 
 - restraint 1
@@ -16380,7 +16380,7 @@ From https://index.readingfaithfully.org
     - lack of leaks wealth: [[SN1.76]]
     - lack of prevents samādhi: [[AN7.61]]
     - like thoroughbred: [[DHP|DHP380]]
-    - mendicant: [[DHP|DHP362]]
+    - bhikkhu: [[DHP|DHP362]]
     - start of path: [[DHP|DHP375]]
     - to remove lack of restraint: [[AN6.116]], [[AN10.76]]
     - words are sweet: [[DHP|DHP363]]
@@ -17016,7 +17016,7 @@ From https://index.readingfaithfully.org
     - asking about near and far shore: [[AN10.117]]
     - asking about remembering hymns: [[SN46.55]]
     - asking about spiritual claims: [[MN100]]
-    - asking how mendicants benefit others: [[AN3.60]]
+    - asking how bhikkhus benefit others: [[AN3.60]]
 
 - Saṅgha
     - attaining great size, wealth, etc.: [[MN65]]
@@ -17597,7 +17597,7 @@ From https://index.readingfaithfully.org
     - giving up as if head were on fire: [[SN1.21]], [[SN2.16]]
     - perception of impermanence to remove: [[SN22.102]]
     - removing: [[SN9.1]], [[AN6.27]]
-    - time to see esteemed mendicant: [[AN6.27]]
+    - time to see esteemed bhikkhu: [[AN6.27]]
 
 - sense doors, guarding (indriyesu guttadvāra)
     - all is vain for one who does not: [[SN35.132]]
@@ -17606,11 +17606,11 @@ From https://index.readingfaithfully.org
     - gradual training, aspect of: [[MN125]]
     - like dressing wounds: [[MN33]], [[AN11.17]]
     - like tortoise pulling in limbs: [[SN35.240]]
-    - mendicant with cannot decline: [[AN4.37]]
+    - bhikkhu with cannot decline: [[AN4.37]]
     - needed for mindfulness of body: [[AN6.117]], [[AN6.118]]
     - needed to reach superhuman states: [[AN6.77]]
     - noble samādhi: [[DN10]].2.1.0
-    - not guarding leading to mendicant’s decline: [[AN8.79]]
+    - not guarding leading to bhikkhu’s decline: [[AN8.79]]
     - not guarding leads to dissatisfaction: [[AN5.56]]
     - wilderness monks should: [[MN69]]
 
@@ -18300,7 +18300,7 @@ From https://index.readingfaithfully.org
     - in second watch of the night: [[MN53]]
     - instead of meditating: [[SNP2.10]]
     - is never satisfied: [[AN3.108]]
-    - leading to mendicant’s decline: [[AN6.21]], [[AN6.31]], [[AN7.28]], [[AN8.79]], [[ITI79]]
+    - leading to bhikkhu’s decline: [[AN6.21]], [[AN6.31]], [[AN7.28]], [[AN8.79]], [[ITI79]]
     - not indulging in: [[AN7.61]]
     - on wooden pillows: [[SN20.8]]
     - peaceful people: [[SN3.14]]
@@ -18371,7 +18371,7 @@ From https://index.readingfaithfully.org
     - from staying long in one place: [[AN5.223]]
     - impossible to enjoy seclusion: [[AN6.68]]
     - leading to disrobing: [[AN6.60]]
-    - leading to mendicant’s decline: [[AN8.79]]
+    - leading to bhikkhu’s decline: [[AN8.79]]
     - leads to decline: [[SN20.9]], [[SN20.10]], [[AN5.90]]
     - leaving not time for practice: [[THAG1]].84
     - relishing and bad death: [[AN6.14]]
@@ -18402,7 +18402,7 @@ From https://index.readingfaithfully.org
     - like brahmā: [[THAG3]].9
     - like elephant: [[DHP|DHP329]]
     - true brahmin: [[DHP|DHP404]]
-    - true mendicant: [[UD3.9]]
+    - true bhikkhu: [[UD3.9]]
     - when good companion cannot be found: [[DHP|DHP329]], [[DHP|DHP330]]
 
 - solitude
@@ -19352,7 +19352,7 @@ From https://index.readingfaithfully.org
 
 - talk 1 (bhassa)
     - see also: socializing
-    - leading to mendicant’s decline: [[AN6.21]], [[AN8.79]], [[ITI79]]
+    - leading to bhikkhu’s decline: [[AN6.21]], [[AN8.79]], [[ITI79]]
     - on dhamma leads to wisdom: [[AN8.2]]
     - relishing means decline in the teachings: [[AN10.86]]
 
@@ -20834,7 +20834,7 @@ From https://index.readingfaithfully.org
     - as protector: [[AN10.17]], [[AN10.18]]
     - as supreme fragrance: [[DHP|DHP55]], [[DHP|DHP56]]
     - as wealth: [[AN7.6]]
-    - beauty for a mendicant: [[DN26]].28.0
+    - beauty for a bhikkhu: [[DN26]].28.0
     - benefits of: [[UD8.6]]
     - cause for rebirth: [[AN8.36]]
     - cause of wisdom: [[AN8.2]]
@@ -20996,7 +20996,7 @@ From https://index.readingfaithfully.org
     - how to: [[AN8.9]]
     - lack of and disrobing: [[SN35.120]]
     - leads to enlightenment: [[ITI47]]
-    - mendicant who is does cannot decline: [[AN4.37]]
+    - bhikkhu who is does cannot decline: [[AN4.37]]
     - mindfulness of breathing and: [[AN5.96]]
     - not devoted to wakefulness leads to dissatisfaction: [[AN5.56]]
     - quality of ascetic: [[MN39]]
@@ -21057,7 +21057,7 @@ From https://index.readingfaithfully.org
 
 - warriors
     - see also: khattiyas
-    - like mendicants: [[AN5.75]], [[AN5.76]]
+    - like bhikkhus: [[AN5.75]], [[AN5.76]]
     - rebirth of: [[SN42.3]]
     - simile for where to give: [[SN3.24]]
 
@@ -21581,7 +21581,7 @@ From https://index.readingfaithfully.org
     - desirable/undesirable to man: [[SN37.1]]
     - desire: [[AN2.61]]
     - drawbacks of: [[AN5.229]], [[AN5.230]]
-    - family with many and few men, simile for mendicant: [[SN20.3]]
+    - family with many and few men, simile for bhikkhu: [[SN20.3]]
     - femininity: [[AN7.51]]
     - growth: [[AN5.64]]
     - hard to get, things that are: [[SN37.32]]
@@ -21626,7 +21626,7 @@ From https://index.readingfaithfully.org
     - having much and competent in: [[AN5.90]]
     - householder’s: [[SNP1.2]]
     - income invested into: [[DN31]].21.0
-    - leading to mendicant’s decline: [[AN6.21]], [[AN8.79]], [[ITI79]]
+    - leading to bhikkhu’s decline: [[AN6.21]], [[AN8.79]], [[ITI79]]
     - lots of duties accumulated when staying in one place: [[AN5.223]]
     - meditation to be practiced while working: [[AN11.12]]
     - mindfulness of breathing and: [[AN5.96]]

@@ -18,16 +18,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six had taken possession of the best sleeping places. When the the senior monks evicted them, they thought, “How can we get to stay here during the rainy season?” They then arranged their sleeping places so as to encroach on the senior monks, thinking, “Whoever feels crowded will leave.”
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six had taken possession of the best sleeping places. When the the senior bhikkhus evicted them, they thought, “How can we get to stay here during the rainy season?” They then arranged their sleeping places so as to encroach on the senior bhikkhus, thinking, “Whoever feels crowded will leave.”
 
-The monks of few desires complained and criticized them, “How could the monks from the group of six arrange their sleeping places so as to encroach on the senior monks?”
+The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six arrange their sleeping places so as to encroach on the senior bhikkhus?”
 
-2After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you did this?”
+2After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

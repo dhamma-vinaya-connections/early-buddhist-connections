@@ -45,24 +45,24 @@ Just then Sundarīnandā was standing outside the monastery gatehouse longing fo
 
 “What do you mean I don’t desire you? I just couldn’t find an opportunity to be intimate with you.” And both having lust, he made physical contact with Sundarīnandā.
 
-5Just then a nun who was weak from old age and had problems with her feet was lying down not far from Sundarīnandā. She saw how Sāḷha made physical contact with Sundarīnandā while both of them had lust. She complained and criticized her, “How could Venerable Sundarīnandā consent to a man making physical contact with her, when they both had lust?” That nun then told the nuns what had happened. The nuns of few desires, who had a sense of conscience, and who were contented, afraid of wrongdoing, and fond of the training, complained and criticized her, “How could Venerable Sundarīnandā consent to a man making physical contact with her, when they both had lust?” Those nuns then told the monks. And the monks of few desires, who had a sense of conscience, and who were contented, afraid of wrongdoing, and fond of the training, criticized her in the same way.
+5Just then a nun who was weak from old age and had problems with her feet was lying down not far from Sundarīnandā. She saw how Sāḷha made physical contact with Sundarīnandā while both of them had lust. She complained and criticized her, “How could Venerable Sundarīnandā consent to a man making physical contact with her, when they both had lust?” That nun then told the nuns what had happened. The nuns of few desires, who had a sense of conscience, and who were contented, afraid of wrongdoing, and fond of the training, complained and criticized her, “How could Venerable Sundarīnandā consent to a man making physical contact with her, when they both had lust?” Those nuns then told the bhikkhus. And the bhikkhus of few desires, who had a sense of conscience, and who were contented, afraid of wrongdoing, and fond of the training, criticized her in the same way.
 
-6After rebuking the nun Sundarīnandā in many ways, they told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned the monks:
+6After rebuking the nun Sundarīnandā in many ways, they told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the nun Sundarīnandā acted like this?”
+“Is it true, bhikkhus, that the nun Sundarīnandā acted like this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her:
 
-“It’s not suitable, monks, it’s not proper for the nun Sundarīnandā, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could Sundarīnandā consent to a man making physical contact with her, when they both had lust? This will affect people’s confidence, and cause some to lose it.”
+“It’s not suitable, bhikkhus, it’s not proper for the nun Sundarīnandā, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could Sundarīnandā consent to a man making physical contact with her, when they both had lust? This will affect people’s confidence, and cause some to lose it.”
 
-And the Buddha spoke in many ways in dispraise of being difficult to support and maintain, in dispraise of great desires, discontent, socializing, and laziness; but he spoke in many ways in praise of being easy to support and maintain, of fewness of wishes, contentment, self-effacement, ascetic practices, serenity, reduction in things, and being energetic. After giving a teaching on what is right and proper, he addressed the monks:
+And the Buddha spoke in many ways in dispraise of being difficult to support and maintain, in dispraise of great desires, discontent, socializing, and laziness; but he spoke in many ways in praise of being easy to support and maintain, of fewness of wishes, contentment, self-effacement, ascetic practices, serenity, reduction in things, and being energetic. After giving a teaching on what is right and proper, he addressed the bhikkhus:
 
-“Well then, monks, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad nuns, for the ease of good nuns, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training.
+“Well then, bhikkhus, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad nuns, for the ease of good nuns, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training.
 
-And, monks, the nuns should recite this training rule like this:
+And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

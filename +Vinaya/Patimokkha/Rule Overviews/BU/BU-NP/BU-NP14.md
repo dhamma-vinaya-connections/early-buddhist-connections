@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: ""
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP13]] 🌐 [[BU-NP15]] ►
 
-# Monks - Nissaggiya Pacittiya - Relinquish with confession
+# bhikkhus - Nissaggiya Pacittiya - Relinquish with confession
 ## Kosiyavagga - Silk
 ## BU-NP14 - Chabbassa - Blanket Kept for 6 Years
 
@@ -49,7 +49,7 @@ vin_gender-corr: ""
 > > [!info]- No Offence 
 > > > From Vibhanga
 > > 
-> > If he makes one after six years; if he makes one after more than six years; if he makes it or causes it to be made for another; if, acquiring what was made for another, he makes use of it; if he makes a canopy or a ground-covering or a screen-wall or a mattress or a squatting-mat6; if there is the agreement of the monks; if he is mad, if he is the first wrong-doer
+> > If he makes one after six years; if he makes one after more than six years; if he makes it or causes it to be made for another; if, acquiring what was made for another, he makes use of it; if he makes a canopy or a ground-covering or a screen-wall or a mattress or a squatting-mat6; if there is the agreement of the bhikkhus; if he is mad, if he is the first wrong-doer
 > 
 > > [!info]- Useful Notes
 > > > From various authors
@@ -68,7 +68,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-NP14 |  | Vin.3.1–3.40 |
 

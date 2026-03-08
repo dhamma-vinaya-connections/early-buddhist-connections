@@ -19,13 +19,13 @@ The nun Thullanandā … spread it about, saying:
 
 “How can the lady Thullanandā, not having given up her dwelling, set out on almstour?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā … set out on almstour?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā … set out on almstour?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā, not having given up her dwelling, set out on almstour? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā, not having given up her dwelling, set out on almstour? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, not having given up her dwelling, should set out on almstour, there is an offence of expiation.”[^3]
 

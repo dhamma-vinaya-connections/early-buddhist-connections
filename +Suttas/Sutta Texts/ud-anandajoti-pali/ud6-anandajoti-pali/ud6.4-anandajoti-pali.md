@@ -44,7 +44,7 @@ language: "English - Pali"
 
 ---
 
-13Then many monks, having dressed in the morning time, after picking up their bowl and robe, entered Sāvatthī for alms. After walking for alms in Sāvatthī, while returning from the alms-round after the meal, they went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those monks said this to the Gracious One:
+13Then many bhikkhus, having dressed in the morning time, after picking up their bowl and robe, entered Sāvatthī for alms. After walking for alms in Sāvatthī, while returning from the alms-round after the meal, they went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those bhikkhus said this to the Gracious One:
 
 14"Here, reverend Sir, many and various sectarians, ascetics, brāhmaṇas, and wanderers are living at Sāvatthī, having various views, various likings, various tendencies, subject to dependence on various views, such as:
 
@@ -74,17 +74,17 @@ They live contending, quarelling, disputing, attacking each other with sharp ton
 
 ---
 
-16"Wanderers from other sects, monks, are blind, without vision, they do not know what is good, they do not know what is not good, they do not know what is Dhamma, they do not know what is not Dhamma. They, not knowing what is good, not knowing what is not good, not knowing what is Dhamma, not knowing what is not Dhamma, live contending, quarelling, disputing, attacking each other with sharp tongues, saying: ‘Such is Dhamma, such is not Dhamma; such is not Dhamma, such is Dhamma.’
+16"Wanderers from other sects, bhikkhus, are blind, without vision, they do not know what is good, they do not know what is not good, they do not know what is Dhamma, they do not know what is not Dhamma. They, not knowing what is good, not knowing what is not good, not knowing what is Dhamma, not knowing what is not Dhamma, live contending, quarelling, disputing, attacking each other with sharp tongues, saying: ‘Such is Dhamma, such is not Dhamma; such is not Dhamma, such is Dhamma.’
 
 ---
 
-17"Formerly, monks, in this Sāvatthī there was a certain King. Then that King, monks, addressed a certain man, saying: ‘Please go, dear Sir, and as many of those congenitally blind as there are in Sāvatthī assemble them in one place.’
+17"Formerly, bhikkhus, in this Sāvatthī there was a certain King. Then that King, bhikkhus, addressed a certain man, saying: ‘Please go, dear Sir, and as many of those congenitally blind as there are in Sāvatthī assemble them in one place.’
 
-"‘Yes, your Majesty’, said that man, monks, and after replying to the King, and after taking hold of all of those congenitally blind in Sāvatthī, he went to the King, and after going he said this to the King: ‘As many of those congenitally blind as there are in Sāvatthī, your Majesty, have assembled.’
+"‘Yes, your Majesty’, said that man, bhikkhus, and after replying to the King, and after taking hold of all of those congenitally blind in Sāvatthī, he went to the King, and after going he said this to the King: ‘As many of those congenitally blind as there are in Sāvatthī, your Majesty, have assembled.’
 
 "‘Then show an elephant, I say, to those congenitally blind.’
 
-"‘Yes, your Majesty’, said that man, monks, and after replying to the King, he showed an elephant to those congenitally blind, saying: ‘Such is an elephant, blind men!’
+"‘Yes, your Majesty’, said that man, bhikkhus, and after replying to the King, he showed an elephant to those congenitally blind, saying: ‘Such is an elephant, blind men!’
 
 ---
 
@@ -108,9 +108,9 @@ They live contending, quarelling, disputing, attacking each other with sharp ton
 
 ---
 
-19"Then, monks, that man, having shown the elephant to those congenitally blind, went to the King, and after going he said this to the King: ‘Those congenitally blind have seen the elephant, your Majesty, now is the time for whatever you are thinking, your Majesty.’
+19"Then, bhikkhus, that man, having shown the elephant to those congenitally blind, went to the King, and after going he said this to the King: ‘Those congenitally blind have seen the elephant, your Majesty, now is the time for whatever you are thinking, your Majesty.’
 
-20"Then that King, monks, went to the congenitally blind, and after going he said this to those congenitally blind: ‘Did you see the elephant, blind men?’
+20"Then that King, bhikkhus, went to the congenitally blind, and after going he said this to those congenitally blind: ‘Did you see the elephant, blind men?’
 
 "‘Yes, your Majesty, we did see the elephant.’
 
@@ -118,27 +118,27 @@ They live contending, quarelling, disputing, attacking each other with sharp ton
 
 ---
 
-21"Those congenitally blind who had seen the elephant's head, monks, said this: ‘Such is an elephant, your Majesty, he is like a pot.’
+21"Those congenitally blind who had seen the elephant's head, bhikkhus, said this: ‘Such is an elephant, your Majesty, he is like a pot.’
 
-22"Those congenitally blind who had seen the elephant's ear, monks, said this: ‘Such is an elephant, your Majesty, he is like a winnowing fan. ’
+22"Those congenitally blind who had seen the elephant's ear, bhikkhus, said this: ‘Such is an elephant, your Majesty, he is like a winnowing fan. ’
 
-23"Those congenitally blind who had seen the elephant's tusk, monks, said this: ‘Such is an elephant, your Majesty, he is like a ploughshare."
+23"Those congenitally blind who had seen the elephant's tusk, bhikkhus, said this: ‘Such is an elephant, your Majesty, he is like a ploughshare."
 
-24"Those congenitally blind who had seen the elephant's trunk, monks, said this: ‘Such is an elephant, your Majesty, he is like a plough-pole."
+24"Those congenitally blind who had seen the elephant's trunk, bhikkhus, said this: ‘Such is an elephant, your Majesty, he is like a plough-pole."
 
-25"Those congenitally blind who had seen the elephant's body, monks, said this: ‘Such is an elephant, your Majesty, he is like a store-house’
+25"Those congenitally blind who had seen the elephant's body, bhikkhus, said this: ‘Such is an elephant, your Majesty, he is like a store-house’
 
-26"Those congenitally blind who had seen the elephant's leg, monks, said this: ‘Such is an elephant, your Majesty, he is like a pillar.’
+26"Those congenitally blind who had seen the elephant's leg, bhikkhus, said this: ‘Such is an elephant, your Majesty, he is like a pillar.’
 
-27"Those congenitally blind who had seen the elephant's thighs, monks, said this: ‘Such is an elephant, your Majesty, he is like a mortar.’
+27"Those congenitally blind who had seen the elephant's thighs, bhikkhus, said this: ‘Such is an elephant, your Majesty, he is like a mortar.’
 
-28"Those congenitally blind who had seen the top of the elephant's tail, monks, said this: ‘Such is an elephant, your Majesty, he is like a pestle.’
+28"Those congenitally blind who had seen the top of the elephant's tail, bhikkhus, said this: ‘Such is an elephant, your Majesty, he is like a pestle.’
 
-29"Those congenitally blind who had seen the tip of the elephant's tail, monks, said this: ‘Such is an elephant, your Majesty, he is like a broom.’
+29"Those congenitally blind who had seen the tip of the elephant's tail, bhikkhus, said this: ‘Such is an elephant, your Majesty, he is like a broom.’
 
-30"And they, saying: ‘Such is an elephant, such is not an elephant; such is not an elephant, such is an elephant,’ hit each other with their fists, and with that, monks, the King was pleased.
+30"And they, saying: ‘Such is an elephant, such is not an elephant; such is not an elephant, such is an elephant,’ hit each other with their fists, and with that, bhikkhus, the King was pleased.
 
-31"Just so, monks, wanderers from other sects are blind, without vision, they do not know what is good, they do not know what is not good, they do not know what is Dhamma, they do not know what is not Dhamma. They, not knowing what is good, not knowing what is not good, not knowing what is Dhamma, not knowing what is not Dhamma, live contending, quarelling, disputing, attacking each other with sharp tongues, saying: ‘Such is Dhamma, such is not Dhamma; such is not Dhamma, such is Dhamma.’ "
+31"Just so, bhikkhus, wanderers from other sects are blind, without vision, they do not know what is good, they do not know what is not good, they do not know what is Dhamma, they do not know what is not Dhamma. They, not knowing what is good, not knowing what is not good, not knowing what is Dhamma, not knowing what is not Dhamma, live contending, quarelling, disputing, attacking each other with sharp tongues, saying: ‘Such is Dhamma, such is not Dhamma; such is not Dhamma, such is Dhamma.’ "
 
 32Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

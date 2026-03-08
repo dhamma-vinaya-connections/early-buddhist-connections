@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four situations. When these situations come about, any god or human who takes advantage of them will soon acquire great and abundant wealth. What four? Living in a suitable region, relying on good people, being rightly resolved in oneself, and past merit.
+1“bhikkhus, there are these four situations. When these situations come about, any god or human who takes advantage of them will soon acquire great and abundant wealth. What four? Living in a suitable region, relying on good people, being rightly resolved in oneself, and past merit.
 
 These are the four situations. When these situations come about, any god or human who takes advantage of them will soon acquire great and abundant wealth.
 

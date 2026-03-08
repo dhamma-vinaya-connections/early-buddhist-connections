@@ -9,9 +9,9 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 95
 
-*Bi-Pc.95.1.1* *BD.3.415* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns asked a question of a monk who had not given leave.[^1] Monks … spread it about, saying: “How can these nuns ask a question of a monk who has not given leave?” …
+*Bi-Pc.95.1.1* *BD.3.415* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns asked a question of a monk who had not given leave.[^1] bhikkhus … spread it about, saying: “How can these nuns ask a question of a monk who has not given leave?” …
 
-“Is it true, as is said, monks … see *Bi-Pc.94.1* … this rule of training:
+“Is it true, as is said, bhikkhus … see *Bi-Pc.94.1* … this rule of training:
 
 “Whatever nun should ask a question of a monk who has not given leave, there is an offence of expiation.”
 

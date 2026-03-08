@@ -168,7 +168,7 @@ Then Sakka, having delighted in & expressed his approval of the Blessed One’s 
 
 “Thinking has the perceptions & categories of objectification[1](#^dn21note01) as its cause, has the perceptions & categories of objectification as its origination, has the perceptions & categories of objectification as what gives it birth, has the perceptions & categories of objectification as its source. When the perceptions & categories of objectification exist, thinking comes into being. When the perceptions & categories of objectification are not, it doesn’t.” ^dn21note01-ref
 
-“And how has he practiced, dear sir: the monk who has practiced the practice leading to the right cessation of the perceptions & categories of objectification?”
+“And how has he practiced, dear sir: the bhikkhu who has practiced the practice leading to the right cessation of the perceptions & categories of objectification?”
 
 “Joy is of two sorts, I tell you, deva-king: to be pursued & not to be pursued. Grief is of two sorts: to be pursued & not to be pursued. Equanimity is of two sorts: to be pursued & not to be pursued.[2](#^dn21note02) ^dn21note02-ref
 
@@ -178,11 +178,11 @@ Then Sakka, having delighted in & expressed his approval of the Blessed One’s 
 
 “‘Equanimity is of two sorts, I tell you: to be pursued & not to be pursued.’ Thus was it said. And in reference to what was it said? When one knows of a feeling of equanimity, ‘As I pursue this equanimity, unskillful mental qualities increase, and skillful mental qualities decline,’ that sort of equanimity is not to be pursued. When one knows of a feeling of equanimity, ‘As I pursue this equanimity, unskillful mental qualities decline, and skillful mental qualities increase,’ that sort of equanimity is to be pursued. And this sort of equanimity may be accompanied by directed thought & evaluation or free of directed thought & evaluation. Of the two, the latter is the more refined. ‘Equanimity is of two sorts, I tell you: to be pursued & not to be pursued.’ Thus was it said. And in reference to this was it said.
 
-“This is how he has practiced, deva-king: the monk who has practiced the practice leading to the right cessation of the perceptions & categories of objectification.”
+“This is how he has practiced, deva-king: the bhikkhu who has practiced the practice leading to the right cessation of the perceptions & categories of objectification.”
 
 Thus the Blessed One answered, having been asked by Sakka the deva-king. Gratified, Sakka was delighted in & expressed his approval of the Blessed One’s words: “So it is, O Blessed One. So it is, O One Well-Gone. Hearing the Blessed One’s answer to my question, my doubt is now cut off, my perplexity is overcome.”
 
-Then Sakka, having delighted in & expressed his approval of the Blessed One’s words, asked him a further question: “But how has he practiced, dear sir: the monk who has practiced for restraint in the Pāṭimokkha?”
+Then Sakka, having delighted in & expressed his approval of the Blessed One’s words, asked him a further question: “But how has he practiced, dear sir: the bhikkhu who has practiced for restraint in the Pāṭimokkha?”
 
 “Bodily conduct is of two sorts, I tell you, deva-king: to be pursued & not to be pursued. Verbal conduct is of two sorts: to be pursued & not to be pursued. Searching is of two sorts: to be pursued & not to be pursued.
 
@@ -192,11 +192,11 @@ Then Sakka, having delighted in & expressed his approval of the Blessed One’s 
 
 “‘Searching is of two sorts, I tell you, deva-king: to be pursued & not to be pursued.’ Thus was it said. And in reference to what was it said? When one knows of a search, ‘As I pursue this search, unskillful mental qualities increase, and skillful mental qualities decline,’ that sort of search is not to be pursued. When one knows of a search, ‘As I pursue this search, unskillful mental qualities decline, and skillful mental qualities increase,’ that sort of search is to be pursued. ‘Searching is of two sorts, I tell you, deva-king: to be pursued & not to be pursued.’ Thus was it said. And in reference to this was it said.[3](#^dn21note03) ^dn21note03-ref
 
-“This is how he has practiced, deva-king: the monk who has practiced the practice for restraint in the Pāṭimokkha.”
+“This is how he has practiced, deva-king: the bhikkhu who has practiced the practice for restraint in the Pāṭimokkha.”
 
 Thus the Blessed One answered, having been asked by Sakka the deva-king. Gratified, Sakka was delighted in & expressed his approval of the Blessed One’s words: “So it is, O Blessed One. So it is, O One Well-Gone. Hearing the Blessed One’s answer to my question, my doubt is now cut off, my perplexity is overcome.”
 
-Then Sakka, having delighted in & expressed his approval of the Blessed One’s words, asked him a further question: “But how has he practiced, dear sir: the monk who has practiced for restraint with regard to the sense faculties?”
+Then Sakka, having delighted in & expressed his approval of the Blessed One’s words, asked him a further question: “But how has he practiced, dear sir: the bhikkhu who has practiced for restraint with regard to the sense faculties?”
 
 “Forms cognizable by the eye are of two sorts, I tell you, deva-king: to be pursued & not to be pursued. Sounds cognizable by the ear.... Aromas cognizable by the nose.... Flavors cognizable by the tongue.... Tactile sensations cognizable by the body.... Ideas cognizable by the intellect are of two sorts: to be pursued & not to be pursued.”
 
@@ -228,7 +228,7 @@ Then Sakka, having delighted in & expressed his approval of the Blessed One’s 
 
 “But why, dear sir, are not all contemplatives & brahmans utterly complete, utterly free from bonds, followers of the utterly holy life, utterly consummate?”
 
-“Those monks who are released through the total ending of craving are the ones who are utterly complete, utterly free from bonds, followers of the utterly holy life, utterly consummate. This is why not all contemplatives & brahmans are utterly complete, utterly free from bonds, followers of the utterly holy life, utterly consummate.”
+“Those bhikkhus who are released through the total ending of craving are the ones who are utterly complete, utterly free from bonds, followers of the utterly holy life, utterly consummate. This is why not all contemplatives & brahmans are utterly complete, utterly free from bonds, followers of the utterly holy life, utterly consummate.”
 
 Thus the Blessed One answered, having been asked by Sakka the deva-king. Gratified, Sakka was delighted in & expressed his approval of the Blessed One’s words: “So it is, O Blessed One. So it is, O One Well-Gone. Hearing the Blessed One’s answer to my question, my doubt is now cut off, my perplexity is overcome.”
 

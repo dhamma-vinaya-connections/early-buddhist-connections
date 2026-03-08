@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are ascetics and brahmins who don’t truly understand the world’s gratification, drawback, and escape for what they are. I don’t regard them as true ascetics and brahmins. Those venerables don’t realize the goal of life as an ascetic or brahmin, and don’t live having realized it with their own insight.
+1“bhikkhus, there are ascetics and brahmins who don’t truly understand the world’s gratification, drawback, and escape for what they are. I don’t regard them as true ascetics and brahmins. Those venerables don’t realize the goal of life as an ascetic or brahmin, and don’t live having realized it with their own insight.
 
 There are ascetics and brahmins who do truly understand the world’s gratification, drawback, and escape for what they are. I regard them as true ascetics and brahmins. Those venerables realize the goal of life as an ascetic or brahmin, and live having realized it with their own insight.”
 

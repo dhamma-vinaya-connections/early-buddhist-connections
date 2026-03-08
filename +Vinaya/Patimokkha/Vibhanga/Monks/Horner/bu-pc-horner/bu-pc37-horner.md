@@ -7,39 +7,39 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC37]]
 > ◄  [[bu-pc36-horner]] 📜  [[bu-pc38-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 37
+# bhikkhus’ Expiation (_Pācittiya_) 37
 
-*Bu-Pc.37.1.1* *BD.2.335* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding-place. Now at that time, in Rājagaha there came to be a festival on a mountain-top.[^1] The group of seventeen monks went to see the festival on the mountain-top. People, seeing the group of seventeen monks, having bathed, having anointed themselves, having offered (them) (food), gave solid food. The group of seventeen monks, taking the solid food, having gone to the monastery, said to the group of six monks:
+*Bu-Pc.37.1.1* *BD.2.335* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding-place. Now at that time, in Rājagaha there came to be a festival on a mountain-top.[^1] The group of seventeen bhikkhus went to see the festival on the mountain-top. People, seeing the group of seventeen bhikkhus, having bathed, having anointed themselves, having offered (them) (food), gave solid food. The group of seventeen bhikkhus, taking the solid food, having gone to the monastery, said to the group of six bhikkhus:
 
 “Take, your reverences, eat solid food.”
 
 “Where did your reverences obtain solid food?” they said.
 
-The group of seventeen monks told this matter to the group of six monks.
+The group of seventeen bhikkhus told this matter to the group of six bhikkhus.
 
 “Then do you, your reverences, eat a meal at the wrong time?”[^2]
 
 “Yes, your reverences.”
 
-The group of six monks looked down upon, criticised, spread it about, saying:
+The group of six bhikkhus looked down upon, criticised, spread it about, saying:
 
-“How can the group of seventeen monks eat a meal at the wrong time?” Then this group of six monks told *BD.2.336* this matter to the monks. Those who were modest monks looked down upon, criticised, spread it about, saying:
+“How can the group of seventeen bhikkhus eat a meal at the wrong time?” Then this group of six bhikkhus told *BD.2.336* this matter to the bhikkhus. Those who were modest bhikkhus looked down upon, criticised, spread it about, saying:
 
-“How can the group of seventeen monks eat a meal at the wrong time?” These monks told this matter to the lord.
+“How can the group of seventeen bhikkhus eat a meal at the wrong time?” These bhikkhus told this matter to the lord.
 
-“Is it true, as is said, that you, monks, ate a meal at the wrong time?”
+“Is it true, as is said, that you, bhikkhus, ate a meal at the wrong time?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, eat a meal at the wrong time? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, eat a meal at the wrong time? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should eat or partake of solid food[^3] or soft food at the wrong time,[^4] there is an offence of expiation.” *Vin.4.86*
+“Whatever bhikkhu should eat or partake of solid food[^3] or soft food at the wrong time,[^4] there is an offence of expiation.” *Vin.4.86*
 
 * * *
 
-*Bu-Pc.37.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.37.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 The wrong time means: after noon has passed until sunrise.[^5]
 
@@ -59,7 +59,7 @@ The Seventh
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

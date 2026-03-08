@@ -22,15 +22,15 @@ language: "English - Pali"
 
 1At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Now, at that time a monk in Sāvatthī passed away due to a snake bite. Then several mendicants went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, a monk in Sāvatthī has passed away due to a snake bite.”
+Now, at that time a bhikkhu in Sāvatthī passed away due to a snake bite. Then several bhikkhus went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, a bhikkhu in Sāvatthī has passed away due to a snake bite.”
 
-2“Mendicants, that monk mustn’t have spread a mind of love to the four royal snake families. If he had, he wouldn’t have died due to a snake bite.
+2“bhikkhus, that bhikkhu mustn’t have spread a mind of love to the four royal snake families. If he had, he wouldn’t have died due to a snake bite.
 
 
 3What four? The royal snake families of Virūpakkha, Erāpatha, Chabyāputta, and Kaṇhāgotamaka. …
 
 
-4Mendicants, I urge you to spread a mind of love to the four royal snake families, for your own safety, security, and protection.
+4bhikkhus, I urge you to spread a mind of love to the four royal snake families, for your own safety, security, and protection.
 
 
 5I love the Virūpakkhas,  

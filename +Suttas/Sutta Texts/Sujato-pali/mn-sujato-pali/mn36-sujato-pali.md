@@ -186,7 +186,7 @@ Then it occurred to me, ‘Why am I afraid of that pleasure, for it has nothing 
 
 30Then I thought, ‘I can’t achieve that pleasure with a body so excessively emaciated. Why don’t I eat some solid food, some rice and porridge?’ So I ate some solid food.
 
-Now at that time the five mendicants were attending on me, thinking, ‘The ascetic Gotama will tell us of any truth that he realizes.’ But when I ate some solid food, they left disappointed in me, saying, ‘The ascetic Gotama has become indulgent; he has strayed from the struggle and returned to indulgence.’
+Now at that time the five bhikkhus were attending on me, thinking, ‘The ascetic Gotama will tell us of any truth that he realizes.’ But when I ate some solid food, they left disappointed in me, saying, ‘The ascetic Gotama has become indulgent; he has strayed from the struggle and returned to indulgence.’
 
 31After eating solid food and gathering my strength, quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. But even such pleasant feeling did not occupy my mind.
 

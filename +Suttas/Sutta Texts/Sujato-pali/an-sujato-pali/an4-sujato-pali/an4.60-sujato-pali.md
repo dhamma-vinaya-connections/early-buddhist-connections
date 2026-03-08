@@ -23,7 +23,7 @@ language: "English - Pali"
 1Then the householder Anāthapiṇḍika went up to the Buddha, bowed, and sat down to one side. The Buddha said to him:
 
 
-2“Householder, when a noble disciple does four things they are practicing appropriately for a layperson, which brings fame and leads to heaven. What four? It’s when a noble disciple serves the mendicant Saṅgha with robes, alms-food, lodgings, and medicines and supplies for the sick.
+2“Householder, when a noble disciple does four things they are practicing appropriately for a layperson, which brings fame and leads to heaven. What four? It’s when a noble disciple serves the bhikkhu Saṅgha with robes, alms-food, lodgings, and medicines and supplies for the sick.
 
 
 When a noble disciple does these four things they are practicing appropriately for a layperson, which brings fame and leads to heaven.

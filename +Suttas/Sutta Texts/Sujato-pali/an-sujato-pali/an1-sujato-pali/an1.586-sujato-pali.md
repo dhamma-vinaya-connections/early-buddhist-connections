@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-“When one thing, mendicants, is developed and cultivated, ignorance is given up, knowledge arises, the conceit ‘I am’ is given up, the underlying tendencies are uprooted, and the fetters are given up. What one thing? Mindfulness of the body. When this one thing is developed and cultivated, ignorance is given up, knowledge arises, the conceit ‘I am’ is given up, the underlying tendencies are uprooted, and the fetters are given up.”
+“When one thing, bhikkhus, is developed and cultivated, ignorance is given up, knowledge arises, the conceit ‘I am’ is given up, the underlying tendencies are uprooted, and the fetters are given up. What one thing? Mindfulness of the body. When this one thing is developed and cultivated, ignorance is given up, knowledge arises, the conceit ‘I am’ is given up, the underlying tendencies are uprooted, and the fetters are given up.”
 
-“One thing, mendicants, when developed and cultivated leads to demolition by wisdom … to extinguishment by not grasping. What one thing? Mindfulness of the body. This one thing, mendicants, when developed and cultivated leads to demolition by wisdom … to extinguishment by not grasping.”
+“One thing, bhikkhus, when developed and cultivated leads to demolition by wisdom … to extinguishment by not grasping. What one thing? Mindfulness of the body. This one thing, bhikkhus, when developed and cultivated leads to demolition by wisdom … to extinguishment by not grasping.”
 
 
 ---

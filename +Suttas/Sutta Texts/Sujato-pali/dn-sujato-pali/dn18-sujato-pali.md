@@ -187,7 +187,7 @@ is the only one to speak.
 
 #### 6. Developing the Bases of Psychic Power
 
-36“What do the good gods of the Thirty-Three think about how much the four bases of psychic power have been clearly described by the Blessed One — the one who knows and sees, the perfected one, the fully awakened Buddha — for the multiplication, generation, and transformation of corporeal forms through psychic power? What four? It’s when a mendicant develops the basis of psychic power that has immersion due to enthusiasm, and active effort. They develop the basis of psychic power that has immersion due to energy, and active effort. They develop the basis of psychic power that has immersion due to mental development, and active effort. They develop the basis of psychic power that has immersion due to inquiry, and active effort. These are the four bases of psychic power that have been clearly described by the Buddha, for the multiplication, generation, and transformation of corporeal forms through psychic power.
+36“What do the good gods of the Thirty-Three think about how much the four bases of psychic power have been clearly described by the Blessed One — the one who knows and sees, the perfected one, the fully awakened Buddha — for the multiplication, generation, and transformation of corporeal forms through psychic power? What four? It’s when a bhikkhu develops the ![[Iddhipadas]] that has immersion due to energy, and active effort. They develop the ![[Iddhipadas]] that has immersion due to inquiry, and active effort. These are the four bases of psychic power that have been clearly described by the Buddha, for the multiplication, generation, and transformation of corporeal forms through psychic power.
 
 
 37All the ascetics and brahmins in the past, future, or present who wield the many kinds of psychic power do so by developing and cultivating these four bases of psychic power. gentlemen, do you see such psychic might and power in me?”
@@ -218,7 +218,7 @@ That is the topic on which Brahmā Sanaṅkumāra spoke. And having spoken about
 
 41“What do the good gods of the Thirty-Three think about how much the Buddha has clearly described the four kinds of mindfulness meditation for achieving what is skillful? What four?
 
-It’s when a mendicant meditates by observing an aspect of the body internally — keen, aware, and mindful, rid of desire and aversion for the world.
+It’s when a bhikkhu ![[Satipatthanas]].
 
 As they meditate in this way, they become rightly immersed in that, and rightly serene. Then they give rise to knowledge and vision of other people’s bodies externally.
 
@@ -254,7 +254,7 @@ And then Brahmā Sanaṅkumāra, knowing what the great king Vessavaṇa was thi
 46That, sir, is the topic on which Brahmā Sanaṅkumāra spoke to the gods of the Thirty-Three. And the great king Vessavaṇa, having heard and learned it in the presence of Brahmā as he was speaking on that topic, informed his own assembly.’”
 
 
-47And the spirit Janavasabha, having heard and learned it in the presence of the great king Vessavaṇa as he was speaking on that topic to his own assembly, informed the Buddha. And the Buddha, having heard and learned it in the presence of the spirit Janavasabha, and also from his own direct knowledge, informed Venerable Ānanda. And Venerable Ānanda, having heard and learned it in the presence of the Buddha, informed the monks, nuns, laymen, and laywomen.
+47And the spirit Janavasabha, having heard and learned it in the presence of the great king Vessavaṇa as he was speaking on that topic to his own assembly, informed the Buddha. And the Buddha, having heard and learned it in the presence of the spirit Janavasabha, and also from his own direct knowledge, informed Venerable Ānanda. And Venerable Ānanda, having heard and learned it in the presence of the Buddha, informed the bhikkhus, nuns, laymen, and laywomen.
 
 And that’s how this spiritual life has become successful and prosperous, extensive, popular, widespread, and well proclaimed wherever there are gods and humans.
 

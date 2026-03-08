@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, living this spiritual life is benefited by training and overseen by wisdom; freedom is its heart, and mindfulness is in charge.
+1“bhikkhus, living this spiritual life is benefited by training and overseen by wisdom; freedom is its heart, and mindfulness is in charge.
 
 And how is it benefited by training? Firstly, I laid down for my disciples the training that deals with supplementary regulations in order to inspire confidence in those without it and to increase confidence in those who have it. They undertake whatever supplementary regulations I have laid down, keeping them unbroken, impeccable, spotless, and unmarred.
 

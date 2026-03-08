@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with five qualities is cast down to hell. What five? It’s when a mendicant is faithless, shameless, imprudent, lazy, and witless. A mendicant with these five qualities is cast down to hell.
+1“bhikkhus, a bhikkhu with five qualities is cast down to hell. What five? It’s when a bhikkhu is faithless, shameless, imprudent, lazy, and witless. A bhikkhu with these five qualities is cast down to hell.
 
-2A mendicant with five qualities is raised up to heaven. What five? It’s when a mendicant is faithful, conscientious, prudent, energetic, and wise. A mendicant with these five qualities is raised up to heaven.”
+2A bhikkhu with five qualities is raised up to heaven. What five? It’s when a bhikkhu is faithful, conscientious, prudent, energetic, and wise. A bhikkhu with these five qualities is raised up to heaven.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu yathābhataṁ nikkhitto evaṁ niraye. Katamehi pañcahi? Idha, bhikkhave, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti, kusīto hoti, duppañño hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu yathābhataṁ nikkhitto evaṁ niraye.
 

@@ -2,7 +2,7 @@
 sutta_code: "AN5.234"
 sutta_title:
   - "Āvāsika "
-  - "Resident Mendicant"
+  - "Resident bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -14,13 +14,13 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### XXIV. A Resident Mendicant — AN 5.234: Very Helpful
+### XXIV. A Resident bhikkhu — AN 5.234: Very Helpful
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a resident mendicant with five qualities is very helpful to the monastery. What five?
+1“bhikkhus, a resident bhikkhu with five qualities is very helpful to the monastery. What five?
 
 
 They’re ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
@@ -30,11 +30,11 @@ They’re very learned, remembering and keeping what they’ve learned. These te
 
 They repair what is decayed and damaged.
 
-When a large mendicant Saṅgha is arriving with mendicants from abroad, they go to the lay people and announce: ‘A large mendicant Saṅgha is arriving with mendicants from abroad. Make merit! Now is the time to make merit!’
+When a large bhikkhu Saṅgha is arriving with bhikkhus from abroad, they go to the lay people and announce: ‘A large bhikkhu Saṅgha is arriving with bhikkhus from abroad. Make merit! Now is the time to make merit!’
 
 They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
-A resident mendicant with these five qualities is very helpful to the monastery.”
+A resident bhikkhu with these five qualities is very helpful to the monastery.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu āvāsassa bahūpakāro hoti. Katamehi pañcahi?
 

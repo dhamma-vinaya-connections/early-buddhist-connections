@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 2: Pairs of Verses
 
@@ -44,12 +44,12 @@ and hard for a siner to give up.
 
 ##### Valliya
 
-125A monkey went up to the little hut  
+125A bhikkhuey went up to the little hut  
 with five doors.  
 He circles around, knocking  
 on each door, again and again.
 
-126Stand still monkey, don’t run!  
+126Stand still bhikkhuey, don’t run!  
 Things are different now;  
 you’ve been caught by wisdom —  
 you won’t go far.
@@ -224,7 +224,7 @@ clothes and bedding.
 
 154Knowing this danger,  
 this great fear in honours,  
-a mendicant should wander mindful,  
+a bhikkhu should wander mindful,  
 with few possessions, not festering.
 
 ##### Kimila (2nd)
@@ -289,7 +289,7 @@ numbering seven times six thousand.
 
 ##### Sobhita
 
-165As a monk, mindful and wise,  
+165As a bhikkhu, mindful and wise,  
 empowered and full of energy,  
 I recollected five hundred aeons  
 in a single night.
@@ -525,7 +525,7 @@ now there are no more future lives.
 
 ##### Dhammapāla
 
-203The young monk  
+203The young bhikkhu  
 who is devoted to the teaching of the Buddha,  
 wakeful while others sleep —  
 his life is not in vain.
@@ -552,7 +552,7 @@ I am such as envied by even the gods.
 207“Your skin is nasty but your heart is good;  
 Mogharājā, you’re always immersed in samādhi.  
 But in the nights of winter, so dark and cold,  
-how will you get by, monk?”
+how will you get by, bhikkhu?”
 
 208“I’ve heard that all the Magadhans  
 have an abundance of grain.  

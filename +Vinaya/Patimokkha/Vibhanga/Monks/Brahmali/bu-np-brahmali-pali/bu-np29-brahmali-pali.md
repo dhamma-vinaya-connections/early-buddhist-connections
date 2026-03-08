@@ -16,23 +16,23 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time monks who had completed the rainy-season residence were staying in wilderness dwellings. Thieves who were active during the month of Kattika attacked those monks, thinking, “They have been given things.”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time bhikkhus who had completed the rainy-season residence were staying in wilderness dwellings. Thieves who were active during the month of Kattika attacked those bhikkhus, thinking, “They have been given things.”
 
-The monks told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, I allow monks who are staying in wilderness dwellings to store one of their three robes in an inhabited area.”
+The bhikkhus told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “bhikkhus, I allow bhikkhus who are staying in wilderness dwellings to store one of their three robes in an inhabited area.”
 
 
-2When they heard about this, monks stored one of their three robes in inhabited areas, staying apart from them for more than six days. The robes were lost, destroyed, burned, and eaten by rats. As a consequence, those monks became poorly dressed. Other monks asked them why, and they told them what had happened. The monks of few desires complained and criticized them, “How could those monks store one of their three robes in an inhabited area and then stay apart from it for more than six days?”
+2When they heard about this, bhikkhus stored one of their three robes in inhabited areas, staying apart from them for more than six days. The robes were lost, destroyed, burned, and eaten by rats. As a consequence, those bhikkhus became poorly dressed. Other bhikkhus asked them why, and they told them what had happened. The bhikkhus of few desires complained and criticized them, “How could those bhikkhus store one of their three robes in an inhabited area and then stay apart from it for more than six days?”
 
-3After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that there are monks who do this?”
+3After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that there are bhikkhus who do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Monks, how could those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “bhikkhus, how could those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-4‘There are wilderness dwellings that are considered risky and dangerous. After observing the Kattika full moon that ends the rainy season, a monk who is staying in such a dwelling may, if he so desires, store one of his three robes in an inhabited area so long as he has a reason for staying apart from that robe. He should stay apart from that robe for six days at the most. If he stays apart from it longer than that, except if the monks have agreed, he commits an offense entailing relinquishment and confession.’”
+4‘There are wilderness dwellings that are considered risky and dangerous. After observing the Kattika full moon that ends the rainy season, a monk who is staying in such a dwelling may, if he so desires, store one of his three robes in an inhabited area so long as he has a reason for staying apart from that robe. He should stay apart from that robe for six days at the most. If he stays apart from it longer than that, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession.’”
 
 #### Definitions
 
@@ -58,27 +58,27 @@ The Buddha rebuked them … “Monks, how could those foolish men do this? This 
 
 15**He should stay apart from that robe for six days at the most:** he should stay apart from it for six days at a maximum.
 
-16**Except if the monks have agreed:** unless the monks have agreed.
+16**Except if the bhikkhus have agreed:** unless the bhikkhus have agreed.
 
 17**If he stays apart from it longer than that:** the robe becomes subject to relinquishment at dawn on the seventh day.
 
 
-The robe should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The robe should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
-‘Venerables, this robe, which I have stayed apart from for more than six days without the agreement of the monks, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe back to you.’”
+‘Venerables, this robe, which I have stayed apart from for more than six days without the agreement of the bhikkhus, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe back to you.’”
 
 #### Permutations
 
-18If it is more than six days and he perceives it as more, and he is staying apart from it, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession. If it is more than six days, but he is unsure of it, and he is staying apart from it, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession. If it is more than six days, but he perceives it as less, and he is staying apart from it, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession.
+18If it is more than six days and he perceives it as more, and he is staying apart from it, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession. If it is more than six days, but he is unsure of it, and he is staying apart from it, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession. If it is more than six days, but he perceives it as less, and he is staying apart from it, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession.
 
-If the determination has not been given up, but he perceives that it has … If it has not been given away, but he perceives that it has … If it has not been lost, but he perceives that it has … If it has not been destroyed, but he perceives that it has … If it has not been burned, but he perceives that it has … If it has not been stolen, but he perceives that it has, and he is staying apart from it, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession.
+If the determination has not been given up, but he perceives that it has … If it has not been given away, but he perceives that it has … If it has not been lost, but he perceives that it has … If it has not been destroyed, but he perceives that it has … If it has not been burned, but he perceives that it has … If it has not been stolen, but he perceives that it has, and he is staying apart from it, then, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession.
 
 19If he uses a robe that should be relinquished without first relinquishing it, he commits an offense of wrong conduct. If it is less than six days, but he perceives it as more, he commits an offense of wrong conduct. If it is less than six days, but he is unsure of it, he commits an offense of wrong conduct. If it is less than six days and he perceives it as less, there is no offense.
 
 #### Non-offenses
 
-20There is no offense: if he stays apart from the robe for six days; if he stays apart from the robe for less than six days; if, after staying apart from it for six days, he stays overnight within the village zone and then leaves; if within the six days he gives up the determination, or the robe is given away, lost, destroyed, burned, stolen, or taken on trust; if he has the permission of the monks; if he is insane; if he is the first offender.
+20There is no offense: if he stays apart from the robe for six days; if he stays apart from the robe for less than six days; if, after staying apart from it for six days, he stays overnight within the village zone and then leaves; if within the six days he gives up the determination, or the robe is given away, lost, destroyed, burned, stolen, or taken on trust; if he has the permission of the bhikkhus; if he is insane; if he is the first offender.
 
 21The training rule on what is risky, the ninth, is finished.
 

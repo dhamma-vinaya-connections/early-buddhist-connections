@@ -49,7 +49,7 @@ parallels_partilal: "[[SA982]], [[SNP5.4]], [[AN4.41]]"
 > [!info] Key Excerpts 
 > State of immersion such that they have no ego, possessiveness, or underlying tendency to conceit for this conscious body, or external stimulus
 > 
-> Mendicant who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering
+> bhikkhu who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering
 > 
 
 

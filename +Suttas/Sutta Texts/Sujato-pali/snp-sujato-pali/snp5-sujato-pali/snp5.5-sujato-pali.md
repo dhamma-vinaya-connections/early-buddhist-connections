@@ -65,7 +65,7 @@ replied the Buddha,
 above, below, all round, between—  
 having uprooted consciousness, don’t continue in existence.
 
-1056A mendicant who wanders meditating like this,  
+1056A bhikkhu who wanders meditating like this,  
 diligent and mindful, calling nothing their own,  
 would, being wise, give up the suffering  
 of rebirth, old age, sorrow and lamenting right here.”

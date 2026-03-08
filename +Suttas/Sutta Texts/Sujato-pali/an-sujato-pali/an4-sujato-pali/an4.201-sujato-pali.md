@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you a bad person and a worse person, a good person and a better person. Listen and pay close attention, I will speak.”
+1“bhikkhus, I will teach you a bad person and a worse person, a good person and a better person. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four kinds of good conduct by way of speech. What four? Speech that’s true, harmonious, gentle, and thoughtful. These are the four kinds of good conduct by way of speech.”
+1“bhikkhus, there are these four kinds of good conduct by way of speech. What four? Speech that’s true, harmonious, gentle, and thoughtful. These are the four kinds of good conduct by way of speech.”
 
 1"Cattārimāni, bhikkhave, vacīsucaritāni. Katamāni cattāri? Saccavācā, apisuṇā vācā, saṇhā vācā, mantabhāsā – imāni kho, bhikkhave, cattāri vacīsucaritānī"ti.
 

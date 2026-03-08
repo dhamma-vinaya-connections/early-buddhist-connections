@@ -19,9 +19,9 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Nālandā in Pāvārika’s mango grove.
 
-Then the householder Kevaddha went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, this Nāḷandā is successful and prosperous and full of people. Sir, please direct a mendicant to perform a demonstration of superhuman psychic power. Then Nāḷandā will become even more devoted to the Buddha!”
+Then the householder Kevaddha went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, this Nāḷandā is successful and prosperous and full of people. Sir, please direct a bhikkhu to perform a demonstration of superhuman psychic power. Then Nāḷandā will become even more devoted to the Buddha!”
 
-When he said this, The Buddha said: “Kevaddha, I do not teach the mendicants like this: ‘Come now, mendicants, perform a demonstration of superhuman psychic power for the white-clothed laypeople.’”
+When he said this, The Buddha said: “Kevaddha, I do not teach the bhikkhus like this: ‘Come now, bhikkhus, perform a demonstration of superhuman psychic power for the white-clothed laypeople.’”
 
 
 2For a second time, Kevaddha made the same request, and the Buddha gave the same answer.
@@ -34,14 +34,14 @@ When he said this, The Buddha said: “Kevaddha, I do not teach the mendicants l
 4“Kevaddha, there are three kinds of demonstration, which I declare having realized them with my own insight. What three? The demonstration of psychic power, the demonstration of revealing, and the demonstration of instruction.
 
 
-5And what is the demonstration of psychic power? It’s a mendicant who wields the many kinds of psychic power: multiplying themselves and becoming one again; going unimpeded through a wall, a rampart, or a mountain as if through space; diving in and out of the earth as if it were water; walking on water as if it were earth; flying cross-legged through the sky like a bird; touching and stroking with the hand the sun and moon, so mighty and powerful; controlling the body as far as the Brahmā realm.
+5And what is the demonstration of psychic power? It’s a bhikkhu who wields the many kinds of psychic power: multiplying themselves and becoming one again; going unimpeded through a wall, a rampart, or a mountain as if through space; diving in and out of the earth as if it were water; walking on water as if it were earth; flying cross-legged through the sky like a bird; touching and stroking with the hand the sun and moon, so mighty and powerful; controlling the body as far as the Brahmā realm.
 
-6Then someone with faith and confidence sees that mendicant performing those superhuman feats.
+6Then someone with faith and confidence sees that bhikkhu performing those superhuman feats.
 
 
 7They tell someone else who lacks faith and confidence: ‘It’s incredible, it’s amazing! The ascetic has such psychic power and might! I saw him myself, performing all these superhuman feats!’
 
-8But the one lacking faith and confidence would say to them: ‘There’s a spell named Gandhārī. Using that a mendicant can perform such superhuman feats.’
+8But the one lacking faith and confidence would say to them: ‘There’s a spell named Gandhārī. Using that a bhikkhu can perform such superhuman feats.’
 
 
 9What do you think, Kevaddha? Wouldn’t someone lacking faith speak like that?”
@@ -55,9 +55,9 @@ When he said this, The Buddha said: “Kevaddha, I do not teach the mendicants l
 
 10And what is the demonstration of revealing? In one case, someone reveals the mind, mentality, thoughts, and reflections of other beings and individuals: ‘This is what you’re thinking, such is your thought, and thus is your state of mind.’
 
-11Then someone with faith and confidence sees that mendicant revealing another person’s thoughts. They tell someone else who lacks faith and confidence: ‘It’s incredible, it’s amazing! The ascetic has such psychic power and might! I saw him myself, revealing the thoughts of another person!’
+11Then someone with faith and confidence sees that bhikkhu revealing another person’s thoughts. They tell someone else who lacks faith and confidence: ‘It’s incredible, it’s amazing! The ascetic has such psychic power and might! I saw him myself, revealing the thoughts of another person!’
 
-12But the one lacking faith and confidence would say to them: ‘There’s a spell named Māṇikā. Using that a mendicant can reveal another person’s thoughts.’
+12But the one lacking faith and confidence would say to them: ‘There’s a spell named Māṇikā. Using that a bhikkhu can reveal another person’s thoughts.’
 
 
 13What do you think, Kevaddha? Wouldn’t someone lacking faith speak like that?”
@@ -68,9 +68,9 @@ When he said this, The Buddha said: “Kevaddha, I do not teach the mendicants l
 
 #### 3. The Demonstration of Instruction
 
-14And what is the demonstration of instruction? It’s when a mendicant instructs others like this: ‘Think like this, not like that. Focus your mind like this, not like that. Give up this, and live having achieved that.’ This is called the demonstration of instruction.
+14And what is the demonstration of instruction? It’s when a bhikkhu instructs others like this: ‘Think like this, not like that. Focus your mind like this, not like that. Give up this, and live having achieved that.’ This is called the demonstration of instruction.
 
-15Furthermore, a Realized One arises in the world … That’s how a mendicant is accomplished in ethics. … They enter and remain in the first jhāna … This is called the demonstration of instruction.
+15Furthermore, a Realized One arises in the world … That’s how a bhikkhu is accomplished in ethics. … They enter and remain in the first jhāna … This is called the demonstration of instruction.
 
 They enter and remain in the second jhāna … third jhāna … fourth jhāna. This too is called the demonstration of instruction.
 
@@ -80,48 +80,48 @@ They understand: ‘… there is no return to any state of existence.’ This to
 
 16These, Kevaddha, are the three kinds of demonstration, which I declare having realized them with my own insight.
 
-#### 4. On the Mendicant In Search of the Cessation of Being
+#### 4. On the bhikkhu In Search of the Cessation of Being
 
-17Once it so happened, Kevaddha, that a mendicant in this very Saṅgha had the following thought, ‘Where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’
+17Once it so happened, Kevaddha, that a bhikkhu in this very Saṅgha had the following thought, ‘Where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’
 
 
-18Then that mendicant attained a state of immersion such that a path to the gods appeared.
+18Then that bhikkhu attained a state of immersion such that a path to the gods appeared.
 
 Then he approached the Gods of the Four Great Kings and said, ‘Reverends, where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’
 
 
-19When he said this, those gods said to him: ‘Mendicant, we too do not know this. But the Four Great Kings are our superiors. They might know.’
+19When he said this, those gods said to him: ‘bhikkhu, we too do not know this. But the Four Great Kings are our superiors. They might know.’
 
 
-20-23Then he approached the Four Great Kings and asked the same question. But they also said to him: ‘Mendicant, we too do not know this. But the gods of the Thirty-Three … Sakka, lord of gods … the gods of Yāmā … the god named Suyāma … the Joyful gods … the god named Santussita … the gods who delight in creation … the god named Sunimmita … the gods who control the creation of others … the god named Vasavattī … the gods of Brahmā’s Host. They might know.’
+20-23Then he approached the Four Great Kings and asked the same question. But they also said to him: ‘bhikkhu, we too do not know this. But the gods of the Thirty-Three … Sakka, lord of gods … the gods of Yāmā … the god named Suyāma … the Joyful gods … the god named Santussita … the gods who delight in creation … the god named Sunimmita … the gods who control the creation of others … the god named Vasavattī … the gods of Brahmā’s Host. They might know.’
 
 
-24Then that mendicant attained a state of immersion such that a path to Brahmā appeared. Then he approached those gods and said, ‘Reverends, where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’ But they also said to him: ‘Mendicant, we too do not know this. But there is Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born. He is our superior. He might know.’
+24Then that bhikkhu attained a state of immersion such that a path to Brahmā appeared. Then he approached those gods and said, ‘Reverends, where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’ But they also said to him: ‘bhikkhu, we too do not know this. But there is Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born. He is our superior. He might know.’
 
 25‘But reverends, where is that Brahmā now?’ ‘We also don’t know where he is or what way he lies. But by the signs that are seen — light arising and radiance appearing — we know that Brahmā will appear. For this is the precursor for the appearance of Brahmā, namely light arising and radiance appearing.’
 
 Not long afterwards, the Great Brahmā appeared.
 
-26Then that mendicant approached the Great Brahmā and said to him: ‘Reverend, where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’ The Great Brahmā said to him: ‘I am Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born.’
+26Then that bhikkhu approached the Great Brahmā and said to him: ‘Reverend, where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’ The Great Brahmā said to him: ‘I am Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born.’
 
 
-27For a second time, that mendicant said to the Great Brahmā, ‘Reverend, I am not asking you whether you are Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born. I am asking where these four primary elements cease without anything left over.’
+27For a second time, that bhikkhu said to the Great Brahmā, ‘Reverend, I am not asking you whether you are Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born. I am asking where these four primary elements cease without anything left over.’
 
 28For a second time, the Great Brahmā said to him: ‘I am Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born.’
 
-For a third time, that mendicant said to the Great Brahmā, ‘Reverend, I am not asking you whether you are Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born. I am asking where these four primary elements cease without anything left over.’
+For a third time, that bhikkhu said to the Great Brahmā, ‘Reverend, I am not asking you whether you are Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born. I am asking where these four primary elements cease without anything left over.’
 
-29Then the Great Brahmā took that mendicant by the arm, led him off to one side, and said to him: ‘Mendicant, these gods think that there is nothing at all that I don’t know and see and understand and realize. That’s why I didn’t answer in front of them. But I too do not know where these four primary elements cease with nothing left over. Therefore, mendicant, the misdeed is yours alone, the mistake is yours alone, in that you passed over the Buddha and searched elsewhere for an answer to this question. Mendicant, go to the Buddha and ask him this question. You should remember it in line with his answer.’
+29Then the Great Brahmā took that bhikkhu by the arm, led him off to one side, and said to him: ‘bhikkhu, these gods think that there is nothing at all that I don’t know and see and understand and realize. That’s why I didn’t answer in front of them. But I too do not know where these four primary elements cease with nothing left over. Therefore, bhikkhu, the misdeed is yours alone, the mistake is yours alone, in that you passed over the Buddha and searched elsewhere for an answer to this question. bhikkhu, go to the Buddha and ask him this question. You should remember it in line with his answer.’
 
-30Then that mendicant, as easily as a strong person would extend or contract their arm, vanished from the Brahmā realm and reappeared in front of me. Then he bowed, sat down to one side, and said to me, ‘Sir, where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’
+30Then that bhikkhu, as easily as a strong person would extend or contract their arm, vanished from the Brahmā realm and reappeared in front of me. Then he bowed, sat down to one side, and said to me, ‘Sir, where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?’
 
 #### 4.1. The Simile of the Land-Spotting Bird
 
 31When he said this, I said to him:
 
-‘Once upon a time, mendicant, some sea-merchants set sail for the ocean deeps, taking with them a land-spotting bird. When their ship was out of sight of land, they released the bird. It flew right away to the east, the west, the north, the south, upwards, and in-between. If it saw land on any side, it went there and stayed. But if it saw no land on any side it returned to the ship.
+‘Once upon a time, bhikkhu, some sea-merchants set sail for the ocean deeps, taking with them a land-spotting bird. When their ship was out of sight of land, they released the bird. It flew right away to the east, the west, the north, the south, upwards, and in-between. If it saw land on any side, it went there and stayed. But if it saw no land on any side it returned to the ship.
 
-In the same way, after failing to get an answer to this question even after searching as far as the Brahmā realm, you’ve returned to me. Mendicant, this is not how the question should be asked: “Sir, where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?”
+In the same way, after failing to get an answer to this question even after searching as far as the Brahmā realm, you’ve returned to me. bhikkhu, this is not how the question should be asked: “Sir, where do these four primary elements cease without anything left over, namely, the elements of earth, water, fire, and air?”
 
 
 32This is how the question should be asked:

@@ -33,7 +33,7 @@ Then Potaliya the wanderer went to the Blessed One and, on arrival, greeted him 
 
 “Master Gotama, there are these four persons to be found existing in the world.… And of these four, Master Gotama, the one who speaks in dispraise of one deserving dispraise when it is accurate, factual, & timely, and who speaks in praise of one deserving praise when it is accurate, factual, & timely is the most excellent & sublime of the four. Why is that? Because this is excellent: having a sense of the right time in every situation.”
 
-“Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, and to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
+“Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. May Master Gotama remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
 See also: [[mn58-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.73-thanissaro]]; [[an7.64-thanissaro]]
 

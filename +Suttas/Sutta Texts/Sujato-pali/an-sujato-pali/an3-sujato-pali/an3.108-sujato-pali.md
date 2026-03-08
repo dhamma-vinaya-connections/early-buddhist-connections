@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are three indulgences that never satisfy. What three? Sleep, alcoholic drinks, and sexual intercourse. These are the three indulgences that never satisfy.”
+1“bhikkhus, there are three indulgences that never satisfy. What three? Sleep, alcoholic drinks, and sexual intercourse. These are the three indulgences that never satisfy.”
 
 1"Tiṇṇaṁ, bhikkhave, paṭisevanāya natthi titti. Katamesaṁ tiṇṇaṁ? Soppassa, bhikkhave, paṭisevanāya natthi titti. Surāmerayapānassa, bhikkhave, paṭisevanāya natthi titti. Methunadhammasamāpattiyā, bhikkhave, paṭisevanāya natthi titti. Imesaṁ, bhikkhave, tiṇṇaṁ paṭisevanāya natthi tittī"ti.
 

@@ -21,14 +21,14 @@ language: "Pali - English"
 2At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time Venerable Udāyī was associating with and visiting a number of families in Sāvatthī. On one occasion one of the families that supported him gave their daughter in marriage to the son of another family. Soon afterwards Venerable Udāyī robed up in the morning, took his bowl and robe, and went to the first of those families. When he arrived, he asked where the daughter was, and he was told that she had been given to another family. That family too supported Udāyī. He then went there and again asked where the girl was. They said, “She’s sitting in her room.” He went up to that girl, and the two of them sat down alone on a private and concealed seat suitable for action. When they were able, they chatted; otherwise he gave her a teaching.
 
 
-3At that time Visākhā Migāramātā had many healthy children and grandchildren. As a consequence, she was considered auspicious. At sacrifices, ceremonies, and celebrations people would feed Visākhā first. Just then she had been invited to that family that supported Udāyī. When she arrived, she saw him sitting alone with that girl, and she said to him, “Venerable, it’s not appropriate for you to sit alone with a woman on a private and concealed seat suitable for action. You may not be aiming at that act, but it’s hard to convince people with little confidence.” But Udāyī did not listen. After leaving, Visākhā told the monks what had happened. The monks of few desires complained and criticized him, “How could Venerable Udāyī sit alone with a woman on a private and concealed seat suitable for action?”
+3At that time Visākhā Migāramātā had many healthy children and grandchildren. As a consequence, she was considered auspicious. At sacrifices, ceremonies, and celebrations people would feed Visākhā first. Just then she had been invited to that family that supported Udāyī. When she arrived, she saw him sitting alone with that girl, and she said to him, “Venerable, it’s not appropriate for you to sit alone with a woman on a private and concealed seat suitable for action. You may not be aiming at that act, but it’s hard to convince people with little confidence.” But Udāyī did not listen. After leaving, Visākhā told the bhikkhus what had happened. The bhikkhus of few desires complained and criticized him, “How could Venerable Udāyī sit alone with a woman on a private and concealed seat suitable for action?”
 
 4After rebuking Udāyī in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Udāyī: “Is it true, Udāyī, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

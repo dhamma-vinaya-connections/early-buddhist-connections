@@ -15,7 +15,7 @@ language: "English"
 ## ## Ātappa Sutta
 
 
-“In three instances, monks, ardency should be exercised. Which three?
+“In three instances, bhikkhus, ardency should be exercised. Which three?
 
 “Ardency should be exercised for the non-arising of unarisen evil, unskillful qualities.
 
@@ -23,7 +23,7 @@ language: "English"
 
 “Ardency should be exercised for enduring bodily feelings that have arisen and are painful, racking, sharp, piercing, disagreeable, displeasing, & menacing to life.
 
-“When one exercises ardency for the non-arising of unarisen evil, unskillful qualities, when one exercises ardency for the arising of unarisen skillful qualities, and when one exercises ardency for enduring bodily feelings that have arisen and are painful, racking, sharp, piercing, disagreeable, displeasing, & menacing to life, then one is said to be a monk who is ardent, adept, & mindful for the right ending of suffering & stress.”
+“When one exercises ardency for the non-arising of unarisen evil, unskillful qualities, when one exercises ardency for the arising of unarisen skillful qualities, and when one exercises ardency for enduring bodily feelings that have arisen and are painful, racking, sharp, piercing, disagreeable, displeasing, & menacing to life, then one is said to be a bhikkhu who is ardent, adept, & mindful for the right ending of suffering & stress.”
 
 See also: [[sn12-21-thanissaro/sn16-thanissaro/sn16.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti34-thanissaro]]
 

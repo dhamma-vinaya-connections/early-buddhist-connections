@@ -15,7 +15,7 @@ language: "English"
 ## ## Sikkhā Sutta
 
 
-“Monks, this holy life is lived with training as a reward, with discernment as its surpassing state, with release as its heartwood, and with mindfulness as its governing principle.
+“bhikkhus, this holy life is lived with training as a reward, with discernment as its surpassing state, with release as its heartwood, and with mindfulness as its governing principle.
 
 “And how is training a reward? There is the case where the training I have formulated for my disciples with regard to good conduct is for the arousing of faith in those without faith, and for the increase of the faithful. And however I have formulated the training for my disciples with regard to good conduct for the arousing of faith in those without faith, and for the increase of the faithful, one behaves in a way that is untorn in line with that training—unbroken, unspotted, unsplattered. Having undertaken them, one trains in line with the training rules.
 
@@ -35,7 +35,7 @@ language: "English"
 
 “This is how mindfulness is the governing principle.
 
-“‘Monks, this holy life is lived with training as a reward, with discernment as its surpassing state, with release as its heartwood, and with mindfulness as its governing principle’: Thus it was said. And in reference to this was it said.”
+“‘bhikkhus, this holy life is lived with training as a reward, with discernment as its surpassing state, with release as its heartwood, and with mindfulness as its governing principle’: Thus it was said. And in reference to this was it said.”
 
 See also: [[mn29-thanissaro]]; [[mn117-thanissaro]]; [[an7.63-thanissaro]]; [[an10.58-thanissaro]]
 

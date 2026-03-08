@@ -18,24 +18,24 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were using water that they knew contained living beings.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were using water that they knew contained living beings.
 
-2The monks of few desires complained and criticized them, “How can the monks from the group of six use water that they know contains living beings?” …
+2The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six use water that they know contains living beings?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk uses water that he knows contains living beings, he commits an offense entailing confession.’”
+3‘If a bhikkhu uses water that he knows contains living beings, he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 5**He knows:** he knows by himself or others have told him. If he uses it, knowing that it contains living beings and knowing that they will die if the water is used, he commits an offense entailing confession.
 

@@ -18,7 +18,7 @@ language: "English"
 
 (1) “Here, a bhikkhu is perplexed about the Teacher, doubts him, is not convinced about him and does not place confidence in him. When a bhikkhu is perplexed about the Teacher, doubts him, is not convinced about him and does not place confidence in him, his mind does not incline to ardor, effort, perseverance, and striving. Since his mind does not incline to ardor … and striving, this is the first kind of mental barrenness.
 
-(2)–(5) “Again, a bhikkhu is perplexed about the Dhamma … perplexed about the Saṅgha … perplexed about the training … is irritated by his fellow monks, displeased with them, aggressive toward them, ill disposed toward them. When a bhikkhu is irritated by his fellow monks, displeased with them, aggressive toward them, ill disposed toward them, his mind does not incline to ardor, effort, perseverance, and striving. Since his mind does not incline to ardor … and striving, this is the fifth kind of mental barrenness.
+(2)–(5) “Again, a bhikkhu is perplexed about the Dhamma … perplexed about the Saṅgha … perplexed about the training … is irritated by his fellow bhikkhus, displeased with them, aggressive toward them, ill disposed toward them. When a bhikkhu is irritated by his fellow bhikkhus, displeased with them, aggressive toward them, ill disposed toward them, his mind does not incline to ardor, effort, perseverance, and striving. Since his mind does not incline to ardor … and striving, this is the fifth kind of mental barrenness.
 
 “These are the five kinds of mental barrenness …. These four establishments of mindfulness are to be developed for abandoning these five kinds of mental barrenness.” \[461\]
 

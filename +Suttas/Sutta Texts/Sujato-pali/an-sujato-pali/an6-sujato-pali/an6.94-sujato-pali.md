@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these six things can’t be done. What six? A person accomplished in view can’t murder their mother or father or a perfected one. They can’t maliciously shed the blood of the Realized One. They can’t cause a schism in the Saṅgha. They can’t acknowledge another teacher. These are the six things that can’t be done.”
+1“bhikkhus, these six things can’t be done. What six? A person accomplished in view can’t murder their mother or father or a perfected one. They can’t maliciously shed the blood of the Realized One. They can’t cause a schism in the Saṅgha. They can’t acknowledge another teacher. These are the six things that can’t be done.”
 
 1"Chayimāni, bhikkhave, abhabbaṭṭhānāni. Katamāni cha? Abhabbo diṭṭhisampanno puggalo mātaraṁ jīvitā voropetuṁ, abhabbo diṭṭhisampanno puggalo pitaraṁ jīvitā voropetuṁ, abhabbo diṭṭhisampanno puggalo arahantaṁ jīvitā voropetuṁ, abhabbo diṭṭhisampanno puggalo tathāgatassa duṭṭhena cittena lohitaṁ uppādetuṁ, abhabbo diṭṭhisampanno puggalo saṅghaṁ bhindituṁ, abhabbo diṭṭhisampanno puggalo aññaṁ satthāraṁ uddisituṁ. Imāni kho, bhikkhave, cha abhabbaṭṭhānānī"ti.
 

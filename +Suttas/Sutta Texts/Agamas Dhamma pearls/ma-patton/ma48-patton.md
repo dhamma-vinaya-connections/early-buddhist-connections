@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma48note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma48note01-ref
 
-2. It was then that Venerable Śāriputra addressed the monks, “Good men, if a monk violates the precepts, that’s detrimental to having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he doesn’t have liberation, that’s detrimental to nirvāṇa.
+2. It was then that Venerable Śāriputra addressed the bhikkhus, “Good men, if a monk violates the precepts, that’s detrimental to having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he doesn’t have liberation, that’s detrimental to nirvāṇa.
 
 3. “Good men, it’s like a tree that has damaged. It’s branches … trunk … core … joints … limbs … leaves … flowers … fruit then don’t form completely.
 
@@ -31,7 +31,7 @@ language: "English"
 
 7. “Good men, you should know that a monk is likewise. If a monk observes the precepts, he readily cultivates having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he has liberation, he readily cultivates nirvāṇa.”
 
-8. Venerable Śāriputra spoke thus. Those monks who heard what Venerable Śāriputra taught rejoiced and approved.
+8. Venerable Śāriputra spoke thus. Those bhikkhus who heard what Venerable Śāriputra taught rejoiced and approved.
 
 ---
 

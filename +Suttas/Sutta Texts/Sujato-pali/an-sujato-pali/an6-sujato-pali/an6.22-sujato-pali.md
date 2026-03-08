@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you these six qualities that prevent decline. … And what, mendicants, are the six qualities that prevent decline?
+1“bhikkhus, I will teach you these six qualities that prevent decline. … And what, bhikkhus, are the six qualities that prevent decline?
 
 Not relishing work, talk, sleep, and company, being easy to admonish, and having good friends. These six qualities prevent decline.
 

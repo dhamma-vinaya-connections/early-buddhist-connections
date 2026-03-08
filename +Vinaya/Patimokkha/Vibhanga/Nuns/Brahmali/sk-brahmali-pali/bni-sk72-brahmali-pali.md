@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were walking next to the path while giving teachings to people walking on the path. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were walking next to the path while giving teachings to people walking on the path. …
 
 #### Final ruling
 
 2“‘I will not give a teaching while walking next to the path to anyone walking on the path who is not sick,’ this is how you should train.”
 
-3One should not give a teaching while walking next to the path to anyone walking on the path who is not sick. If a monk, out of disrespect, gives a teaching while walking next to the path to someone walking on the path who is not sick, he commits an offense of wrong conduct.
+3One should not give a teaching while walking next to the path to anyone walking on the path who is not sick. If a bhikkhu, out of disrespect, gives a teaching while walking next to the path to someone walking on the path who is not sick, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

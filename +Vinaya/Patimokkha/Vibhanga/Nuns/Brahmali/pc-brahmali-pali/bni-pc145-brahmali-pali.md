@@ -16,33 +16,33 @@ language: "Pali - English"
 
 - Translated from the Pali by Bhikkhu Brahmali.   
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a certain group of travelers was about to go south from Rājagaha. A monk said to those people, “Let me travel with you.”
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a certain group of travelers was about to go south from Rājagaha. A bhikkhu said to those people, “Let me travel with you.”
 
 “But we’re smuggling goods.”
 
 “That’s your business.”
 
-The customs officers heard about that group of travelers. They then blocked the road, caught the group, confiscated the goods, and asked that monk:
+The customs officers heard about that group of travelers. They then blocked the road, caught the group, confiscated the goods, and asked that bhikkhu:
 
 “Venerable, why are you knowingly traveling with a group of thieves?” And they detained him.
 
 
-2After being released, that monk went to Sāvatthī, where he told the monks what had happened. The monks of few desires complained and criticized him, “How could a monk knowingly travel by arrangement with a group of thieves?” …
+2After being released, that bhikkhu went to Sāvatthī, where he told the bhikkhus what had happened. The bhikkhus of few desires complained and criticized him, “How could a bhikkhu knowingly travel by arrangement with a group of thieves?” …
 
-“Is it true, monk, that you did this?”
+“Is it true, bhikkhu, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk knowingly travels by arrangement with a group of thieves, even just to the next village, he commits an offense entailing confession.’”
+3‘If a bhikkhu knowingly travels by arrangement with a group of thieves, even just to the next village, he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
 5**Knowingly:** he knows by himself or others have told him or the group of travelers has told him.
@@ -52,7 +52,7 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 7**With:** together.
 
 
-8**By arrangement:** if he makes an arrangement like this: the monk says, “Let’s go,” and they reply, “Yes, let’s go, Venerable;” or they say, “Let’s go, Venerable,” and the monk replies, “Yes, let’s go;” or the monk says, “Let’s go today,” “Let’s go tomorrow,” or “Let’s go the day after tomorrow,” then he commits an offense of wrong conduct.
+8**By arrangement:** if he makes an arrangement like this: the bhikkhu says, “Let’s go,” and they reply, “Yes, let’s go, Venerable;” or they say, “Let’s go, Venerable,” and the bhikkhu replies, “Yes, let’s go;” or the bhikkhu says, “Let’s go today,” “Let’s go tomorrow,” or “Let’s go the day after tomorrow,” then he commits an offense of wrong conduct.
 
 9**Even just to the next village:** when the villages are a chicken’s flight apart, then for every next village he commits an offense entailing confession. When it is an uninhabited area, a wilderness, then for every six kilometers he commits an offense entailing confession.
 
@@ -60,7 +60,7 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 10If it is a group of traveling thieves, and he perceives it as such, and he travels by arrangement with them, even just to the next village, he commits an offense entailing confession. If it is a group of traveling thieves, but he is unsure of it, and he travels by arrangement with them, even just to the next village, he commits an offense of wrong conduct. If it is a group of traveling thieves, but he does not perceive it as such, and he travels by arrangement with them, even just to the next village, there is no offense.
 
-If the monk makes an arrangement, but the group does not express its agreement, he commits an offense of wrong conduct. If it is not a group of traveling thieves, but he perceives it as such, he commits an offense of wrong conduct. If it is not a group of traveling thieves, but he is unsure of it, he commits an offense of wrong conduct. If it is not a group of traveling thieves, and he does not perceive it as such, there is no offense.
+If the bhikkhu makes an arrangement, but the group does not express its agreement, he commits an offense of wrong conduct. If it is not a group of traveling thieves, but he perceives it as such, he commits an offense of wrong conduct. If it is not a group of traveling thieves, but he is unsure of it, he commits an offense of wrong conduct. If it is not a group of traveling thieves, and he does not perceive it as such, there is no offense.
 
 #### Non-offenses
 

@@ -33,7 +33,7 @@ language: "Pali"
 
 8Just as a storm cannot prevail against a rocky mountain, so Māra can never overpower the man who lives meditating on the impurities, who is controlled in his senses, moderate in eating, and filled with faith and earnest effort
 
-9Whoever being depraved, devoid of self-control and truthfulness, should don the monk's yellow robe, he surely is not worthy of the robe
+9Whoever being depraved, devoid of self-control and truthfulness, should don the bhikkhu's yellow robe, he surely is not worthy of the robe
 
 10But whoever is purged of depravity, well-established in virtues and filled with self-control and truthfulness, he indeed is worthy of the yellow robe.
 

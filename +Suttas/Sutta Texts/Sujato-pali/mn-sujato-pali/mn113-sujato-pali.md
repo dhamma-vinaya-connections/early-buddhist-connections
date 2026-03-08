@@ -18,57 +18,57 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, I will teach you the qualities of a good person and the qualities of a bad person. Listen and pay close attention, I will speak.”
+“bhikkhus, I will teach you the qualities of a good person and the qualities of a bad person. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
 
-2“And what is a quality of a bad person? Take a bad person who has gone forth from an eminent family. They reflect: ‘I have gone forth from an eminent family, unlike these other mendicants.’ And they glorify themselves and put others down on account of that. This is a quality of a bad person.
+2“And what is a quality of a bad person? Take a bad person who has gone forth from an eminent family. They reflect: ‘I have gone forth from an eminent family, unlike these other bhikkhus.’ And they glorify themselves and put others down on account of that. This is a quality of a bad person.
 
 A good person reflects: ‘It’s not because of one’s eminent family that thoughts of greed, hate, or delusion come to an end. Even if someone has not gone forth from an eminent family, if they practice in line with the teaching, practice properly, and live in line with the teaching, they are worthy of honor and praise for that.’ Keeping only the practice close to their heart, they don’t glorify themselves and put others down on account of their eminent family. This is a quality of a good person.
 
 
-3Furthermore, take a bad person who has gone forth from a great family … from a wealthy family … from an extremely wealthy family. They reflect: ‘I have gone forth from an extremely wealthy family, unlike these other mendicants.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
+3Furthermore, take a bad person who has gone forth from a great family … from a wealthy family … from an extremely wealthy family. They reflect: ‘I have gone forth from an extremely wealthy family, unlike these other bhikkhus.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
 
 A good person reflects: ‘It’s not because of one’s extremely wealthy family that thoughts of greed, hate, or delusion come to an end. Even if someone has not gone forth from an extremely wealthy family, if they practice in line with the teaching, practice properly, and live in line with the teaching, they are worthy of honor and praise for that.’ Keeping only the practice close to their heart, they don’t glorify themselves and put others down on account of their extremely wealthy family. This too is a quality of a good person.
 
 
-4Furthermore, take a bad person who is well-known and famous. They reflect: ‘I’m well-known and famous. These other mendicants are obscure and insignificant.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
+4Furthermore, take a bad person who is well-known and famous. They reflect: ‘I’m well-known and famous. These other bhikkhus are obscure and insignificant.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
 
 A good person reflects: ‘It’s not because of one’s fame that thoughts of greed, hate, or delusion come to an end. Even if someone is not well-known and famous, if they practice in line with the teaching, practice properly, and live in line with the teaching, they are worthy of honor and praise for that.’ Keeping only the practice close to their heart, they don’t glorify themselves and put others down on account of their fame. This too is a quality of a good person.
 
-5Furthermore, take a bad person who receives robes, alms-food, lodgings, and medicines and supplies for the sick. They reflect: ‘I receive robes, alms-food, lodgings, and medicines and supplies for the sick, unlike these other mendicants.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
+5Furthermore, take a bad person who receives robes, alms-food, lodgings, and medicines and supplies for the sick. They reflect: ‘I receive robes, alms-food, lodgings, and medicines and supplies for the sick, unlike these other bhikkhus.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
 
 A good person reflects: ‘It’s not because of one’s material possessions that thoughts of greed, hate, or delusion come to an end. Even if someone doesn’t receive robes, alms-food, lodgings, and medicines and supplies for the sick, if they practice in line with the teaching, practice properly, and live in line with the teaching, they are worthy of honor and praise for that.’ Keeping only the practice close to their heart, they don’t glorify themselves and put others down on account of their material possessions. This too is a quality of a good person.
 
 
-6-13Furthermore, take a bad person who is very learned … an expert in the texts on monastic training … a Dhamma teacher … who dwells in the wilderness … who is a rag robe wearer … who eats only alms-food … who stays at the root of a tree … who stays in a charnel ground … who stays in the open air … who never lies down … who sleeps wherever they lay their mat... who eats in one sitting per day. They reflect: ‘I eat in one sitting per day, unlike these other mendicants.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
+6-13Furthermore, take a bad person who is very learned … an expert in the texts on monastic training … a Dhamma teacher … who dwells in the wilderness … who is a rag robe wearer … who eats only alms-food … who stays at the root of a tree … who stays in a charnel ground … who stays in the open air … who never lies down … who sleeps wherever they lay their mat... who eats in one sitting per day. They reflect: ‘I eat in one sitting per day, unlike these other bhikkhus.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
 
 
 A good person reflects: ‘It’s not because of eating in one sitting per day that thoughts of greed, hate, or delusion come to an end. Even if someone eats in more than one sitting per day, if they practice in line with the teaching, practice properly, and live in line with the teaching, they are worthy of honor and praise for that.’ Keeping only the practice close to their heart, they don’t glorify themselves and put others down on account of their eating in one sitting per day. This too is a quality of a good person.
 
 
-14Furthermore, take a bad person who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. They reflect: ‘I have attained the first jhāna, unlike these other mendicants.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
+14Furthermore, take a bad person who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. They reflect: ‘I have attained the first jhāna, unlike these other bhikkhus.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
 
 A good person reflects: ‘The Buddha has spoken of not identifying even with the attainment of the first jhāna. For whatever they think it is, it turns out to be something else.’ Keeping only non-identification close to their heart, they don’t glorify themselves and put others down on account of their attainment of the first jhāna. This too is a quality of a good person.
 
 
-15Furthermore, take a bad person who, as the placing of the mind and keeping it connected are stilled, enters and remains in the second jhāna … third jhāna … fourth jhāna. They reflect: ‘I have attained the fourth jhāna, unlike these other mendicants.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
+15Furthermore, take a bad person who, as the placing of the mind and keeping it connected are stilled, enters and remains in the second jhāna … third jhāna … fourth jhāna. They reflect: ‘I have attained the fourth jhāna, unlike these other bhikkhus.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person.
 
 A good person reflects: ‘The Buddha has spoken of not identifying even with the attainment of the fourth jhāna. For whatever they think it is, it turns out to be something else.’ Keeping only non-identification close to their heart, they don’t glorify themselves and put others down on account of their attainment of the fourth jhāna. This too is a quality of a good person.
 
 
-16-19Furthermore, take someone who, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space … the dimension of infinite consciousness … the dimension of nothingness … the dimension of neither perception nor non-perception. They reflect: ‘I have attained the dimension of neither perception nor non-perception, unlike these other mendicants.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person. A good person reflects: ‘The Buddha has spoken of not identifying even with the attainment of the dimension of neither perception nor non-perception. For whatever they think it is, it turns out to be something else.’ Keeping only non-identification close to their heart, they don’t glorify themselves and put others down on account of their attainment of the dimension of neither perception nor non-perception. This too is a quality of a good person.
+16-19Furthermore, take someone who, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space … the dimension of infinite consciousness … the dimension of nothingness … the dimension of neither perception nor non-perception. They reflect: ‘I have attained the dimension of neither perception nor non-perception, unlike these other bhikkhus.’ And they glorify themselves and put others down on account of that. This too is a quality of a bad person. A good person reflects: ‘The Buddha has spoken of not identifying even with the attainment of the dimension of neither perception nor non-perception. For whatever they think it is, it turns out to be something else.’ Keeping only non-identification close to their heart, they don’t glorify themselves and put others down on account of their attainment of the dimension of neither perception nor non-perception. This too is a quality of a good person.
 
 
-20Furthermore, take a good person who, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end. This is a mendicant who does not identify with anything, does not identify regarding anything, does not identify through anything.”
+20Furthermore, take a good person who, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end. This is a bhikkhu who does not identify with anything, does not identify regarding anything, does not identify through anything.”
 
 
-21That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+21That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

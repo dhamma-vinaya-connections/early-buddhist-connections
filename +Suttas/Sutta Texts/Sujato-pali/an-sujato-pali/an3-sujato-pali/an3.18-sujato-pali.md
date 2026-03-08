@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, if wanderers who follow another path were to ask you: ‘Reverend, do you live the spiritual life with the ascetic Gotama so that you can be reborn in the realm of the gods?’ Being questioned like this, wouldn’t you be horrified, repelled, and disgusted?”
+1“bhikkhus, if wanderers who follow another path were to ask you: ‘Reverend, do you live the spiritual life with the ascetic Gotama so that you can be reborn in the realm of the gods?’ Being questioned like this, wouldn’t you be horrified, repelled, and disgusted?”
 
 “Yes, sir.”
 

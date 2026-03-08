@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.37.1.1* *BD.3.317* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns walked without a weapon[^1] on almstour within (their own) region[^2] (when this was) agreed upon as dangerous, frightening.[^3] Bad men assaulted them. Those who were modest nuns … spread it about, saying: “How can these nuns … dangerous, frightening?” …
 
-“Is it true, as is said, monks, that nuns … dangerous, frightening?”
+“Is it true, as is said, bhikkhus, that nuns … dangerous, frightening?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns … dangerous, frightening? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns … dangerous, frightening? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should walk without a weapon on alms-tour within (her own) region (when this is) agreed upon as dangerous, frightening, there is an offence of expiation.”
 

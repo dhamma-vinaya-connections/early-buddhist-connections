@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“The foremost of my monk disciples who want to train is Rāhula.
+1“The foremost of my bhikkhu disciples who want to train is Rāhula.
 
 2 … who went forth out of faith is Raṭṭhapāla.
 

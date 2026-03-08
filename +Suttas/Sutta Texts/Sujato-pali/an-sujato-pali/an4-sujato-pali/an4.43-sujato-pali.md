@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four people are found in the world. What four? People who value anger, or denigration, or material possessions, or honor rather than the true teaching. These are the four people found in the world.
+1“bhikkhus, these four people are found in the world. What four? People who value anger, or denigration, or material possessions, or honor rather than the true teaching. These are the four people found in the world.
 
 2These four people are found in the world. What four? People who value the true teaching rather than anger, or denigration, or material possessions, or honor. These are the four people found in the world.
 
 
-3Mendicants who value anger and denigration,  
+3bhikkhus who value anger and denigration,  
 possessions and honor,  
 don’t grow in the teaching  
 that was taught by the perfected Buddha.

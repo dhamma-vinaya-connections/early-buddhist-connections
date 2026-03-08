@@ -17,7 +17,7 @@ language: "English"
 
 [Ven. Udāyin:] “‘Bodily witness, bodily witness,’ it is said. To what extent is one described by the Blessed One as a bodily witness?”
 
-[Ven. Ānanda:] “There is the case, my friend, where a monk, quite secluded from sensuality, secluded from unskillful qualities, enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. He remains touching with his body in whatever way there is an opening there.[1](#^[[an9-thanissaro]].43note01) It’s to this extent that one is described by the Blessed One as a bodily witness, though with a sequel. ^[[an9-thanissaro]].43note01-ref
+[Ven. Ānanda:] “There is the case, my friend, where a bhikkhu, quite secluded from sensuality, secluded from unskillful qualities, enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. He remains touching with his body in whatever way there is an opening there.[1](#^[[an9-thanissaro]].43note01) It’s to this extent that one is described by the Blessed One as a bodily witness, though with a sequel. ^[[an9-thanissaro]].43note01-ref
 
 “And further, with the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna… the third jhāna… the fourth jhāna… the dimension of the infinitude of space… the dimension of the infinitude of consciousness… the dimension of nothingness… the dimension of neither perception nor non-perception. He remains touching with his body in whatever way there is an opening there. It’s to this extent that one is described by the Blessed One as a bodily witness, though with a sequel.
 

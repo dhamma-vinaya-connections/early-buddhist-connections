@@ -47,9 +47,9 @@ parallels_partilal: ""
 > Who  make much bad karma and make the true teaching disappear
 
 > [!info] Key Excerpts 
-> By memorizing the discourses incorrectly, taking only a semblance of the phrasing, some mendicants shut out the meaning and the teaching
+> By memorizing the discourses incorrectly, taking only a semblance of the phrasing, some bhikkhus shut out the meaning and the teaching
 > 
-> By memorizing the discourses well, not taking only a semblance of the phrasing, some mendicants reinforce the meaning and the teaching
+> By memorizing the discourses well, not taking only a semblance of the phrasing, some bhikkhus reinforce the meaning and the teaching
 > 
 
 

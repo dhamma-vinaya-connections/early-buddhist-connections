@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, tonight, several glorious deities, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and said to me:
+1“bhikkhus, tonight, several glorious deities, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and said to me:
 
 ‘Sir, formerly when we were human beings, renunciates came to our homes. We politely rose for them, but we didn’t bow. And so, having not fulfilled our duty, full of remorse and regret, we were reborn in a lesser realm.’
 
@@ -40,7 +40,7 @@ language: "English - Pali"
 
 4Then several other deities came to me and said: ‘Sir, formerly when we were human beings, renunciates came to our homes. We politely rose, bowed, and offered them a seat. We shared as best we could. We sat nearby to listen to the teachings, lent an ear, memorized them, and examined their meaning. Understanding the teaching and the meaning we practiced accordingly. And so, having fulfilled our duty, free of remorse and regret, we were reborn in a superior realm.’
 
-Here, mendicants, are these roots of trees, and here are these empty huts. Practice jhāna, mendicants! Don’t be negligent! Don’t regret it later, like those former deities.”
+Here, bhikkhus, are these roots of trees, and here are these empty huts. Practice jhāna, bhikkhus! Don’t be negligent! Don’t regret it later, like those former deities.”
 
 1"Imañca, bhikkhave, rattiṁ sambahulā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yenāhaṁ tenupasaṅkamiṁsu; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhaṁsu.
 

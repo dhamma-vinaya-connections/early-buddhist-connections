@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six gave teachings to people in vehicles. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six gave teachings to people in vehicles. …
 
 #### Final ruling
 
@@ -26,7 +26,7 @@ language: "Pali - English"
 
 3**A vehicle:** a wagon, a carriage, a cart, a chariot, a palanquin, a litter.
 
-4One should not give a teaching to anyone in a vehicle who is not sick. If a monk, out of disrespect, gives a teaching to someone in a vehicle who is not sick, he commits an offense of wrong conduct.
+4One should not give a teaching to anyone in a vehicle who is not sick. If a bhikkhu, out of disrespect, gives a teaching to someone in a vehicle who is not sick, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

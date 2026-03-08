@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1"“Mendicants, I do not see a single thing that, when it is tamed, guarded, protected, and restrained, is so very beneficial as the mind. A tamed, guarded, protected, and restrained mind is very beneficial.”
+1"“bhikkhus, I do not see a single thing that, when it is tamed, guarded, protected, and restrained, is so very beneficial as the mind. A tamed, guarded, protected, and restrained mind is very beneficial.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ dantaṁ guttaṁ rakkhitaṁ saṁvutaṁ mahato atthāya saṁvattati yathayidaṁ, bhikkhave, cittaṁ. Cittaṁ, bhikkhave, dantaṁ guttaṁ rakkhitaṁ saṁvutaṁ mahato atthāya saṁvattatī"ti.
 

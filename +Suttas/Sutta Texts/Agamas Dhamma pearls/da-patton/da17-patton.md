@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 17. Purification
 
-1. Thus I have heard: One time, the Buddha was staying at Layman [Vedhañña]’s Grove in the country of Kapilavastu. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying at Layman [Vedhañña]’s Grove in the country of Kapilavastu. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 #### News of Nigranthaputra’s Death
 
@@ -77,11 +77,11 @@ Translated by Charles Patton
 
 25. “Suppose a teacher is present in the world, they’re famous, and offerings are fully provided without any limitations. This is a factor of the religious practice being fulfilled.
 
-26. “Suppose a teacher is present in the world, they’re famous, and offerings are fully provided, but the monks don’t possess fame or offerings. This is a factor of the religious practice being incomplete.
+26. “Suppose a teacher is present in the world, they’re famous, and offerings are fully provided, but the bhikkhus don’t possess fame or offerings. This is a factor of the religious practice being incomplete.
 
-27. “Suppose a teacher is present in the world, they’re famous, and offerings are fully provided without limitations, and the assembly of monks also possesses these things. This is a factor of the religious practice being fulfilled. It’s the same with the assembly of nuns.
+27. “Suppose a teacher is present in the world, they’re famous, and offerings are fully provided without limitations, and the assembly of bhikkhus also possesses these things. This is a factor of the religious practice being fulfilled. It’s the same with the assembly of nuns.
 
-28. “Cunda, I left home long ago, and my fame is widespread. My monks have received my instruction, reached a state of peace, obtained their own reward, and can accept and explain the teaching for other people. When different interpretations arise, they can eliminate them according to the teaching. They transform themselves and fully realize miraculous abilities. The monks, nuns, laymen, and laywomen are the same.
+28. “Cunda, I left home long ago, and my fame is widespread. My bhikkhus have received my instruction, reached a state of peace, obtained their own reward, and can accept and explain the teaching for other people. When different interpretations arise, they can eliminate them according to the teaching. They transform themselves and fully realize miraculous abilities. The bhikkhus, nuns, laymen, and laywomen are the same.
 
 29. “Cunda, I’ve widely promulgated the religious practice in each way … transforming myself and fully realizing miraculous abilities. Cunda, of all the teachers in the world, I don’t see any of them who have attained fame and offerings like myself, the Tathāgata, Arhat, and Completely Awakening One.
 
@@ -89,7 +89,7 @@ Translated by Charles Patton
 
 31. “Cunda, to tell the truth, I should say that I see what can’t be seen. How do I see what can’t be seen? All whose religious practice is pure, complete, plainly explained, and widely known are said to see what can’t be seen.”
 
-32. The Bhagavān then told the monks, “Udraka Rāmaputra made this statement to a great assembly: ‘There is what’s seen and not seen. What is called the seen and not seen? It’s like a knife that can be seen, and a sword that cannot be seen.’ Monks, Rāmaputra made that metaphor with the ignorant words of ordinary people.
+32. The Bhagavān then told the bhikkhus, “Udraka Rāmaputra made this statement to a great assembly: ‘There is what’s seen and not seen. What is called the seen and not seen? It’s like a knife that can be seen, and a sword that cannot be seen.’ bhikkhus, Rāmaputra made that metaphor with the ignorant words of ordinary people.
 
 33. “Thus, Cunda, to tell the truth, I should say I see what’s not seen. What is seen and not seen? You should correctly say, ‘All whose religious practice is pure, complete, plainly explained, and widely known see what can’t be seen.’
 
@@ -97,7 +97,7 @@ Translated by Charles Patton
 
 #### Staying Unified and Resolving Disputes
 
-35. The Bhagavān then told the monks, “I’ve personally realized this teaching, namely the four abodes of mindfulness, four miraculous abilities, four mental disciplines, four dhyānas, five faculties, five powers, seven factors of awakening, and the noble eightfold path. All of you are united and don’t start disputes. You have the same teacher and teaching, the same water and milk. You must light yourselves with the Tathāgata’s correct teaching and delight in becoming peaceful.
+35. The Bhagavān then told the bhikkhus, “I’ve personally realized this teaching, namely the four abodes of mindfulness, four miraculous abilities, four mental disciplines, four dhyānas, five faculties, five powers, seven factors of awakening, and the noble eightfold path. All of you are united and don’t start disputes. You have the same teacher and teaching, the same water and milk. You must light yourselves with the Tathāgata’s correct teaching and delight in becoming peaceful.
 
 36. “Once you’ve become peaceful, suppose some monk is teaching Dharma, and another says, ‘That statement isn’t correct, and his meaning isn’t correct.’
 
@@ -123,21 +123,21 @@ Translated by Charles Patton
 
 47. “When a monk says that, he can’t be said to be right or wrong. You should admonish, rebuke, and stop that monk. You should investigate the matter together. Thus, all of you will be united without starting disputes. You have the same teacher and teaching, the same water and milk. You should light yourselves with the correct teaching of the Tathāgata and delight in becoming peaceful.
 
-48. “Once you’ve become peaceful, suppose a monk is teaching Dharma, and another monks makes the statement, ‘That statement is correct, and his meaning is correct.’
+48. “Once you’ve become peaceful, suppose a monk is teaching Dharma, and another bhikkhus makes the statement, ‘That statement is correct, and his meaning is correct.’
 
 49. “A monk who hears him can’t say that he’s right or wrong. You should commend him by saying, ‘What you say is right! What you say is right!’
 
-50. “Therefore, monks, realize for yourself what’s in the twelve divisions of the sutras, and widely promulgate it. They are the sutras, songs, assurances, verses, inspirations, past events, past births, histories, extensive sutras, unprecedented things, parables, and explanations. You should skillfully preserve, assess, investigate, and widely promulgate them.
+50. “Therefore, bhikkhus, realize for yourself what’s in the twelve divisions of the sutras, and widely promulgate it. They are the sutras, songs, assurances, verses, inspirations, past events, past births, histories, extensive sutras, unprecedented things, parables, and explanations. You should skillfully preserve, assess, investigate, and widely promulgate them.
 
 #### The Allowance of Requisites
 
-51. “Monks, the robes that I allow are robes from cemeteries, robes from prominent people, or crude robes. These robes are sufficient for warding off cold, heat, and biting insects, and they’re enough to cover your four limbs.
+51. “bhikkhus, the robes that I allow are robes from cemeteries, robes from prominent people, or crude robes. These robes are sufficient for warding off cold, heat, and biting insects, and they’re enough to cover your four limbs.
 
-52. “Monks, the food that I allow is solicited food or a householder’s food. This food is sufficient for your body or troubles. When the myriad ailments become severe, they become a source of anxiety until death, so I permit you this food. Be satisfied with that.
+52. “bhikkhus, the food that I allow is solicited food or a householder’s food. This food is sufficient for your body or troubles. When the myriad ailments become severe, they become a source of anxiety until death, so I permit you this food. Be satisfied with that.
 
-53. “Monks, the abodes that I allow are under a tree, out in the open, in a room, in a hall, or in a cave. If you live in these various abodes, be satisfied with them. They ward off the cold, heat, wind, rain, and biting insects. Abide under them in quiet repose.
+53. “bhikkhus, the abodes that I allow are under a tree, out in the open, in a room, in a hall, or in a cave. If you live in these various abodes, be satisfied with them. They ward off the cold, heat, wind, rain, and biting insects. Abide under them in quiet repose.
 
-54. “Monks, the medicines that I allow are urine, feces, cream, oil, honey, or rock honey. Be satisfied with these medicines. If your body is troubled by pains, then I permit these medicines when the myriad ailments become severe and cause anxiety until death.”
+54. “bhikkhus, the medicines that I allow are urine, feces, cream, oil, honey, or rock honey. Be satisfied with these medicines. If your body is troubled by pains, then I permit these medicines when the myriad ailments become severe and cause anxiety until death.”
 
 #### Pleasures the Buddha Doesn’t Approve
 
@@ -151,7 +151,7 @@ Translated by Charles Patton
 
 59. “‘Good men, even though these five desires are conditions for joy and happiness, they are rebuked by the Tathāgata, Arhat, and Completely Awakened One. Even though people enjoy killing sentient beings, it’s rebuked by the Tathāgata, Arhat, and Completely Awakened One. Even though people enjoy robbing and stealing from others, it’s rebuked by the Tathāgata. Even though people enjoy violating the religious life, it’s rebuked by the Tathāgata. Even though people enjoy making false statements, it’s rebuked by the Tathāgata. Even though people are unrestrained and self-indulgent, it’s rebuked by the Tathāgata. Even though people enjoy practicing the ascetic practices of other religions and not the correct practices taught by the Tathāgata, it’s rebuked by the Tathāgata.’
 
-60. “Monks, I rebuke the qualities of the five desires that make people addicted to them. What are the five? The eye perceives form that’s lovely and enjoyable, so people are addicted to it. The ear hears sound … nose smells odor … tongue tastes flavor … body feels contact that’s lovely and enjoyable, so people are addicted to it.
+60. “bhikkhus, I rebuke the qualities of the five desires that make people addicted to them. What are the five? The eye perceives form that’s lovely and enjoyable, so people are addicted to it. The ear hears sound … nose smells odor … tongue tastes flavor … body feels contact that’s lovely and enjoyable, so people are addicted to it.
 
 61. “The ascetic Śākyans take no pleasures like these. Even though some people enjoy killing sentient beings, the ascetic Śākyans take no such pleasure. Even though some people enjoy stealing from others, the ascetic Śākyans take no such pleasure. Even though some people enjoy violating the religious life, the ascetic Śākyans take no such pleasure. Even though some people enjoy making false statements, the ascetic Śākyans take no such pleasure. Even though some people are unrestrained and self-indulgent, the ascetic Śākyans take no such pleasure. Even though some people enjoy practicing the ascetic practices of other religions, the ascetic Śākyans take no such pleasure.
 
@@ -159,7 +159,7 @@ Translated by Charles Patton
 
 62. “Suppose that wanderer of another religion asks this question, ‘The enjoyment of which pleasures does the ascetic Gautama commend?’
 
-63. “Monks, if they were to ask this, you should answer them: ‘Good men, there are the qualities of the five desires that are lovely and enjoyable, so people are addicted to them. What are the five? The eye perceives form … body feels contact that’s lovely and enjoyable, so people are addicted to it.
+63. “bhikkhus, if they were to ask this, you should answer them: ‘Good men, there are the qualities of the five desires that are lovely and enjoyable, so people are addicted to them. What are the five? The eye perceives form … body feels contact that’s lovely and enjoyable, so people are addicted to it.
 
 64. “‘Good men, the five desires are conditions that give rise to pleasure and must be quickly eliminated. Even though some people enjoy killing sentient beings, such pleasure should be quickly eliminated. Even though some people enjoy stealing, such pleasure should be quickly eliminated. Even though some people enjoy violating the religious life, such pleasure should be quickly eliminated. Even though some people enjoy making false statements, such pleasure should be quickly eliminated. Even though some people are unrestrained and self-indulgent, such pleasure should be quickly eliminated. Even though some people enjoy practicing the ascetic practices of other religions, such pleasure should be quickly eliminated.
 
@@ -195,7 +195,7 @@ Translated by Charles Patton
 
 77. “Some wanderers of other religions make the statement, ‘The ascetic Gautama entirely knows about past lives, but he doesn’t know the future.’
 
-78. “Monks, the knowledge of those wanderers of different trainings is different, and their examination of knowledge is also different. That statement is false. There’s nothing in the past that the Tathāgata doesn’t know and see like seeing it with his own eyes. His knowledge about future lives arose with the knowledge of awakening.
+78. “bhikkhus, the knowledge of those wanderers of different trainings is different, and their examination of knowledge is also different. That statement is false. There’s nothing in the past that the Tathāgata doesn’t know and see like seeing it with his own eyes. His knowledge about future lives arose with the knowledge of awakening.
 
 79. “When past lives are false, unreal, not worth enjoying, or aren’t beneficial, the Buddha doesn’t relate them. If past lives are real but aren’t worth enjoying or beneficial, the Buddha doesn’t relate them. If past lives are real and worth enjoying but aren’t beneficial, the Buddha doesn’t relate them, either. If past lives are real, worth enjoying, and beneficial, the Tathāgata entirely knows them and relates them afterward. The future and present are likewise.
 
@@ -239,7 +239,7 @@ Translated by Charles Patton
 
 #### How to Cease Such Wrong Views
 
-97. The Buddha told the monks, “If you want to cease these wrong and evil views, you should cultivate the four abodes of mindfulness in three ways. In which three ways should a monk cultivate the four abodes of mindfulness to cease these evil things?
+97. The Buddha told the bhikkhus, “If you want to cease these wrong and evil views, you should cultivate the four abodes of mindfulness in three ways. In which three ways should a monk cultivate the four abodes of mindfulness to cease these evil things?
 
 98. “A monk observes internal body as body. He’s diligent and not negligent. His attention to it isn’t lost, and he removes worldly craving and sorrow. He observes external body as body. He’s diligent and not negligent. His attention to it isn’t lost, and he removes worldly craving and sorrow. He observes internal and external body as body. He’s diligent and not negligent. His attention to it isn’t lost, and he removes worldly craving and sorrow. He observes feeling, mind, and principles in the same way. This is ceasing the myriad evil things by cultivating the four abodes of mindfulness in three ways.
 

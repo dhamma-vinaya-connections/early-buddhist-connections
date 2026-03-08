@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, by memorizing the discourses incorrectly, taking only a semblance of the phrasing, some mendicants shut out the meaning and the teaching. They act for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans. They make much bad karma and make the true teaching disappear.
+1“bhikkhus, by memorizing the discourses incorrectly, taking only a semblance of the phrasing, some bhikkhus shut out the meaning and the teaching. They act for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans. They make much bad karma and make the true teaching disappear.
 
-2But by memorizing the discourses well, not taking only a semblance of the phrasing, some mendicants reinforce the meaning and the teaching. They act for the welfare and happiness of the people, for the benefit, welfare, and happiness of the people, of gods and humans. They make much merit and make the true teaching continue.”
+2But by memorizing the discourses well, not taking only a semblance of the phrasing, some bhikkhus reinforce the meaning and the teaching. They act for the welfare and happiness of the people, for the benefit, welfare, and happiness of the people, of gods and humans. They make much merit and make the true teaching continue.”
 
 1"Ye te, bhikkhave, bhikkhū duggahitehi suttantehi byañjanappatirūpakehi atthañca dhammañca paṭibāhanti te, bhikkhave, bhikkhū bahujanāhitāya paṭipannā bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. Bahuñca te, bhikkhave, bhikkhū apuññaṁ pasavanti, te cimaṁ saddhammaṁ antaradhāpenti.
 

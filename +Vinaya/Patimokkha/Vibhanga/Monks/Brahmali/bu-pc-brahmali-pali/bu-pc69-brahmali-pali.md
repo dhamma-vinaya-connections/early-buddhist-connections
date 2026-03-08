@@ -16,16 +16,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six lived with the monk Ariṭṭha, and they did formal meetings and shared a sleeping place with him. Yet they knew that he was saying such things, that he had not made amends according to the rule, and that he had not given up that view.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six lived with the monk Ariṭṭha, and they did formal meetings and shared a sleeping place with him. Yet they knew that he was saying such things, that he had not made amends according to the rule, and that he had not given up that view.
 
-2The monks of few desires complained and criticized them, “How can the monks from the group of six live, do formal meetings, and share a sleeping place with the monk Ariṭṭha, even though they know that he’s saying such things, that he hasn’t made amends according to the rule, and that he hasn’t given up that view?” …
+2The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six live, do formal meetings, and share a sleeping place with the monk Ariṭṭha, even though they know that he’s saying such things, that he hasn’t made amends according to the rule, and that he hasn’t given up that view?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

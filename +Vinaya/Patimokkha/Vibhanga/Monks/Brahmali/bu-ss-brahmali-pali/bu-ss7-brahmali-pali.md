@@ -20,18 +20,18 @@ language: "Pali - English"
 
 While Venerable Channa was clearing a site for that dwelling, he felled a tree that served as a shrine and was revered by village, town, district, and kingdom. People complained and criticized him, “How could the Sakyan monastics fell a tree that serves as a shrine and is revered by village, town, district, and kingdom? They are hurting one-sensed life.”
 
-2The monks heard the criticism of those people, and the monks of few desires complained and criticized Venerable Channa in the same way.
+2The bhikkhus heard the criticism of those people, and the bhikkhus of few desires complained and criticized Venerable Channa in the same way.
 
 3After rebuking Venerable Channa in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Channa: “Is it true, Channa, that you did this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how could you do this? People perceive trees as conscious. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? People perceive trees as conscious. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-4‘When a monk builds a large dwelling with a sponsoring owner and intended for himself, he must have monks approve a site where no harm will be done and which has space on all sides. If a monk builds a large dwelling on a site where harm will be done and which lacks space on all sides, or he does not have monks approve the site, he commits an offense entailing suspension.’”
+4‘When a monk builds a large dwelling with a sponsoring owner and intended for himself, he must have bhikkhus approve a site where no harm will be done and which has space on all sides. If a monk builds a large dwelling on a site where harm will be done and which lacks space on all sides, or he does not have bhikkhus approve the site, he commits an offense entailing suspension.’”
 
 #### Definitions
 
@@ -45,13 +45,13 @@ The Buddha rebuked him … “Foolish man, how could you do this? People perceiv
 
 9**Intended for himself:** for his own use.
 
-10**He must have monks approve a site:** The monk who is building a dwelling should clear a site, then approach the Sangha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+10**He must have bhikkhus approve a site:** The monk who is building a dwelling should clear a site, then approach the Sangha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 “Venerables, I want to build a large dwelling with a sponsoring owner and intended for myself. I request the Sangha to inspect the site for the dwelling.”
 
-He should make his request a second and a third time. If the whole Sangha is able to inspect the site, they should all go. If the whole Sangha is unable to inspect the site, then those monks there who are competent and capable—who know where harm will be done and where no harm will be done, and who understands the meaning of having space on all sides and lacking space on all sides—should be asked and then appointed.
+He should make his request a second and a third time. If the whole Sangha is able to inspect the site, they should all go. If the whole Sangha is unable to inspect the site, then those bhikkhus there who are competent and capable—who know where harm will be done and where no harm will be done, and who understands the meaning of having space on all sides and lacking space on all sides—should be asked and then appointed.
 
-“And, monks, they should be appointed like this. A competent and capable monk should inform the Sangha:
+“And, bhikkhus, they should be appointed like this. A competent and capable monk should inform the Sangha:
 
 
 11‘Please, Venerables, I ask the Sangha to listen. Monk so-and-so wants to build a large dwelling with a sponsoring owner and intended for himself. He is requesting the Sangha to inspect the site for that dwelling. If it seems appropriate to the Sangha, the Sangha should appoint monk so-and-so and monk so-and-so to inspect the site for the dwelling of monk-so-and-so. This is the motion.
@@ -60,7 +60,7 @@ He should make his request a second and a third time. If the whole Sangha is abl
 
 13The Sangha has appointed monk so-and-so and monk so-and-so to inspect the site for the dwelling of monk so-and-so. The Sangha approves and is therefore silent. I’ll remember it thus.’
 
-14The appointed monks should go and inspect the site for the dwelling to find out if any harm will be done and if it has space on all sides. If harm will be done and it lacks space on all sides, they should say, ‘Don’t build here.’ If no harm will be done and it has space on all sides, they should inform the Sangha: ‘No harm will be done and it has space on all sides.’ The monk who is building the dwelling should then approach the Sangha, arrange his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+14The appointed bhikkhus should go and inspect the site for the dwelling to find out if any harm will be done and if it has space on all sides. If harm will be done and it lacks space on all sides, they should say, ‘Don’t build here.’ If no harm will be done and it has space on all sides, they should inform the Sangha: ‘No harm will be done and it has space on all sides.’ The monk who is building the dwelling should then approach the Sangha, arrange his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I want to build a large dwelling with a sponsoring owner and intended for myself. I request the Sangha to approve the site for the dwelling.’
 
@@ -89,7 +89,7 @@ He should make his request a second and a third time. A competent and capable mo
 24**Builds:** building it himself or having it built.
 
 
-25**Or he does not have monks approve the site:** if the site has not been approved through a legal procedure consisting of one motion and three announcements, and he then builds a dwelling or has one built, then for the effort there is an act of wrong conduct. When one piece is left to complete the dwelling, he commits a serious offense. When the last piece is finished, he commits an offense entailing suspension.
+25**Or he does not have bhikkhus approve the site:** if the site has not been approved through a legal procedure consisting of one motion and three announcements, and he then builds a dwelling or has one built, then for the effort there is an act of wrong conduct. When one piece is left to complete the dwelling, he commits a serious offense. When the last piece is finished, he commits an offense entailing suspension.
 
 26**He commits an offense entailing suspension:** … Therefore, too, it is called “an offense entailing suspension”.
 

@@ -73,7 +73,7 @@ The Blessed One sat down on the seat made ready, and the wanderer Sakuludāyin 
 
 ## (1\. The Four Foundations of Mindfulness)
 
-15\. “Again, Udāyin, I have proclaimed to my disciples the way to develop the four foundations of mindfulness.  Here a bhikkhu abides contemplating the body as a body, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating feelings as feelings…He abides contemplating mind as mind…He abides contemplating mind-objects as mind-objects, ardent, fully aware, and mindful, having put away covetousness and grief for the world. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
+15\. “Again, Udāyin, I have proclaimed to my disciples the way to develop the four foundations of mindfulness.  Here a bhikkhu ![[Satipatthanas]]. He ![[Satipatthanas]]. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
 ## (2\. The Four Right Kinds of Striving)
 
@@ -97,7 +97,7 @@ The Blessed One sat down on the seat made ready, and the wanderer Sakuludāyin 
 
 ## (7\. The Noble Eightfold Path)
 
-21\. “Again, Udāyin, I have proclaimed to my disciples the way to develop the Noble Eightfold Path. Here a bhikkhu develops right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
+21\. “Again, Udāyin, I have proclaimed to my disciples the way to develop the ![[Noble Path]]. And thereby many disciples of mine abide having reached the consummation and perfection of direct knowledge.
 
 ## (8\. The Eight Liberations)
 

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 26
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, if beings knew, as I know, the results of giving & sharing, they would not eat without having given, nor would the stain of selfishness overcome their minds. Even if it were their last bite, their last mouthful, they would not eat without having shared, if there were someone to receive their gift. But because beings do not know, as I know, the results of giving & sharing, they eat without having given. The stain of selfishness overcomes their minds.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, if beings knew, as I know, the results of giving & sharing, they would not eat without having given, nor would the stain of selfishness overcome their minds. Even if it were their last bite, their last mouthful, they would not eat without having shared, if there were someone to receive their gift. But because beings do not know, as I know, the results of giving & sharing, they eat without having given. The stain of selfishness overcomes their minds.”
 
 If beings knew
 

@@ -13,13 +13,13 @@ language: "English"
 
 “How can the lady Thullanandā, angry, displeased, having given quarters to the lady Bhaddā Kāpilānī, throw her out?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā … threw her out?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā … threw her out?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā … throw her out? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā … throw her out? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, having given quarters to a nun, should, angry, displeased, throw her out or have her thrown out, there is an offence of expiation.”[^1]
 

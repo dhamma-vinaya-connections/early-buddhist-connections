@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC105"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC8]] 🌐 [[BU-PC10]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 1 Musāvāda-Vaggo - 1 Lies
 ## BU-PC9 - Duṭṭhullārocana - Disclose Others Offense
 
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC105"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yopana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ | If a monk tells a person who is not fully ordained about a monk’s grave offense, except if the monks have agreed, he commits an offense entailing confession |
+| Yopana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ | If a monk tells a person who is not fully ordained about a monk’s grave offense, except if the bhikkhus have agreed, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule
@@ -49,7 +49,7 @@ vin_gender-corr: "BNI-PC105"
 > > [!info]- No Offence 
 > > > From Vibhanga
 > > 
-> > If he speaks of the class but not of an offence; if he speaks of an offence but not of the class; if there is the agreement of the monks; if he is mad, if he is the first wrong-doer
+> > If he speaks of the class but not of an offence; if he speaks of an offence but not of the class; if there is the agreement of the bhikkhus; if he is mad, if he is the first wrong-doer
 > 
 > > [!info]- Useful Notes
 > > > From various authors
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-PC105"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC9 | [[BNI-PC105]] | Vin.3.1–3.40 |
 

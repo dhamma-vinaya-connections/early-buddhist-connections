@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.33.1.1* *BD.3.307* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the nun Thullanandā was very learned, she was a repeater, she was wise, she was skilled in giving _dhamma_\-talk.[^1] Bhaddā Kāpilānī[^2] also was very learned … she was skilled in giving _dhamma_\-talk, she was esteemed as being eminent.[^3] People, thinking: “Bhaddā Kāpilānī is very learned … she is skilled in giving _dhamma_\-talk, she is esteemed as being eminent,” having first visited[^4] Bhaddā Kāpilānī afterwards visited the nun Thullanandā. The nun Thullanandā, overcome by envy,[^5] thinking: “Those who are said to have few wants, to be content, detached, not living in company, these are intent on convincing,[^6] intent on hinting,” walked up and down and stood still and sat down and lay down on a sleeping-place and recited and made (another) recite and studied[^7] in front of Bhaddā Kāpilānī. Those who were modest nuns … spread it about, saying: “How can the lady Thullanandā intentionally cause discomfort to the lady Bhaddā Kāpilānī?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā intentionally caused discomfort to Bhaddā Kāpilānī?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā intentionally caused discomfort to Bhaddā Kāpilānī?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā intentionally *BD.3.308* cause discomfort to Bhaddā Kāpilānī? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā intentionally *BD.3.308* cause discomfort to Bhaddā Kāpilānī? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should intentionally cause discomfort to a nun, there is an offence of expiation.”[^8]
 

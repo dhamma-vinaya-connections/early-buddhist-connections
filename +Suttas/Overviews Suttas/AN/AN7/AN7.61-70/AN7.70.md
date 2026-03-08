@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Sāriputta reflects on what a mendicant should revere in order to develop the wholesome. He reports to the Buddha  that these things are indeed found in himself
+> Sāriputta reflects on what a bhikkhu should revere in order to develop the wholesome. He reports to the Buddha  that these things are indeed found in himself
 
 > [!info] Key Excerpts 
 > Honor and respect and rely on the teacher … the teaching … the saṅgha … the training … immersion … diligence, and hospitality
 > 
-> What should a mendicant honor and respect and rely on, to give up the unskillful and develop the skillful
+> What should a bhikkhu honor and respect and rely on, to give up the unskillful and develop the skillful
 > 
 
 > [!info] Similes

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 62
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three faculties. Which three? The faculty of ‘I am about to know what is not yet finally known,’ the faculty of final knowledge, the faculty of one who has finally known.[1](#^iti62note01) These are the three faculties.” ^iti62note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three faculties. Which three? The faculty of ‘I am about to know what is not yet finally known,’ the faculty of final knowledge, the faculty of one who has finally known.[1](#^iti62note01) These are the three faculties.” ^iti62note01-ref
 
 For a learner in training
 

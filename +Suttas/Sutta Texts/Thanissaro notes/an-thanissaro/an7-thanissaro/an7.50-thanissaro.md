@@ -15,7 +15,7 @@ language: "English"
 ## ## Nandamātar Sutta
 
 
-I have heard that on one occasion Ven. Sāriputta & Ven. Mahā Moggallāna were on a wandering tour of the Southern Mountains with a large Saṅgha of monks. And on that occasion, the female lay follower Veḷukaṇṭakin Nandamātar,[1](#^[[an7-thanissaro]].50note01) having risen as night approached dawn, chanted the Pārāyana.[2](#^[[an7-thanissaro]].50note02) And on that occasion the great [deva] king Vessavaṇṇa[3](#^[[an7-thanissaro]].50note03) was traveling from north to south on some business or other. He heard the female lay follower Nandamātar chanting the Pārāyana, and on hearing her, stood waiting for the end of her chant. Then the female lay follower Nandamātar, having chanted the Pārāyana, fell silent. Then the great king Vessavaṇṇa, knowing that her chant was ended, applauded her: “Excellent, sister! Excellent!” ^[[an7-thanissaro]].50note01-ref ^[[an7-thanissaro]].50note02-ref ^[[an7-thanissaro]].50note03-ref
+I have heard that on one occasion Ven. Sāriputta & Ven. Mahā Moggallāna were on a wandering tour of the Southern Mountains with a large Saṅgha of bhikkhus. And on that occasion, the female lay follower Veḷukaṇṭakin Nandamātar,[1](#^[[an7-thanissaro]].50note01) having risen as night approached dawn, chanted the Pārāyana.[2](#^[[an7-thanissaro]].50note02) And on that occasion the great [deva] king Vessavaṇṇa[3](#^[[an7-thanissaro]].50note03) was traveling from north to south on some business or other. He heard the female lay follower Nandamātar chanting the Pārāyana, and on hearing her, stood waiting for the end of her chant. Then the female lay follower Nandamātar, having chanted the Pārāyana, fell silent. Then the great king Vessavaṇṇa, knowing that her chant was ended, applauded her: “Excellent, sister! Excellent!” ^[[an7-thanissaro]].50note01-ref ^[[an7-thanissaro]].50note02-ref ^[[an7-thanissaro]].50note03-ref
 
 “But who’s there, O One of the Auspicious Face?”
 
@@ -23,15 +23,15 @@ I have heard that on one occasion Ven. Sāriputta & Ven. Mahā Moggallāna were 
 
 “Excellent, O One of the Auspicious Face! Excellent! Then let this Dhamma sequence that I’ve chanted be your guest gift.”
 
-“Excellent, sister! And let this also be my guest gift. This morning a Saṅgha of monks headed by Sāriputta & Moggallāna will be coming to Veḷukaṇṭaka before breakfast. Having served them, dedicate the offering to me. That will also be my guest gift.”
+“Excellent, sister! And let this also be my guest gift. This morning a Saṅgha of bhikkhus headed by Sāriputta & Moggallāna will be coming to Veḷukaṇṭaka before breakfast. Having served them, dedicate the offering to me. That will also be my guest gift.”
 
 So Nandamātar, as the night was ending, prepared exquisite staple & non-staple foods in her home.
 
-Then the Saṅgha of monks headed by Sāriputta & Moggallāna arrived at Veḷukaṇṭaka before breakfast. Nandamātar addressed a man, “Come, my good man. Having gone to the monastery, announce the time (of the meal) to the Saṅgha of monks, (saying,) ‘It’s time, venerable sirs. The meal is ready at Lady Nandamātar’s home.’”
+Then the Saṅgha of bhikkhus headed by Sāriputta & Moggallāna arrived at Veḷukaṇṭaka before breakfast. Nandamātar addressed a man, “Come, my good man. Having gone to the monastery, announce the time (of the meal) to the Saṅgha of bhikkhus, (saying,) ‘It’s time, venerable sirs. The meal is ready at Lady Nandamātar’s home.’”
 
-Responding, “As you say, lady,” to Nandamātar, the man went to the monastery and announced the time to the Saṅgha of monks, “It’s time, venerable sirs. The meal is ready at Lady Nandamātar’s home.”
+Responding, “As you say, lady,” to Nandamātar, the man went to the monastery and announced the time to the Saṅgha of bhikkhus, “It’s time, venerable sirs. The meal is ready at Lady Nandamātar’s home.”
 
-Then early in the morning, having adjusted their under robes and carrying their robes & bowls, the Saṅgha of monks headed by Sāriputta & Moggallāna went to Nandamātar’s home. On arrival, they sat down on seats laid out. Nandamātar, with her own hands, served & satisfied the Saṅgha of monks headed by Sāriputta & Moggallāna with exquisite staple & non-staple food. Then, when Ven. Sāriputta had finished his meal and had rinsed his bowl & hands, Nandamātar, taking a low seat, sat to one side. As she was sitting there, Ven. Sāriputta said to her, “Nandamātar, who informed you of the arrival of the Saṅgha of monks?”
+Then early in the morning, having adjusted their under robes and carrying their robes & bowls, the Saṅgha of bhikkhus headed by Sāriputta & Moggallāna went to Nandamātar’s home. On arrival, they sat down on seats laid out. Nandamātar, with her own hands, served & satisfied the Saṅgha of bhikkhus headed by Sāriputta & Moggallāna with exquisite staple & non-staple food. Then, when Ven. Sāriputta had finished his meal and had rinsed his bowl & hands, Nandamātar, taking a low seat, sat to one side. As she was sitting there, Ven. Sāriputta said to her, “Nandamātar, who informed you of the arrival of the Saṅgha of bhikkhus?”
 
 “Just now, venerable sir, after having risen as night approached dawn and having chanted the Pārāyana, I fell silent. Then the great king Vessavaṇṇa, knowing that my chant was ended, applauded me: ‘Excellent, sister! Excellent!’
 
@@ -41,7 +41,7 @@ Then early in the morning, having adjusted their under robes and carrying their 
 
 “‘Excellent, O One of the Auspicious Face! Excellent! Then let this Dhamma sequence that I’ve chanted be your guest gift.’
 
-“‘Excellent, sister! And let this also be my guest gift. Tomorrow a Saṅgha of monks headed by Sāriputta & Moggallāna will be coming to Veḷukaṇṭaka before breakfast. Having served them, dedicate the offering to me. That will also be my guest gift.’ So in other words, may the merit of this gift be for the happiness of the great king Vessavaṇṇa.”
+“‘Excellent, sister! And let this also be my guest gift. Tomorrow a Saṅgha of bhikkhus headed by Sāriputta & Moggallāna will be coming to Veḷukaṇṭaka before breakfast. Having served them, dedicate the offering to me. That will also be my guest gift.’ So in other words, may the merit of this gift be for the happiness of the great king Vessavaṇṇa.”
 
 “It’s amazing, Nandamātar! It’s astounding, that you would converse face to face with the great king Vessavaṇṇa, the young deva of such great power & such great might!”
 
@@ -61,7 +61,7 @@ Then early in the morning, having adjusted their under robes and carrying their 
 
 “It’s amazing, Nandamātar! It’s astounding!”
 
-“I don’t have only that amazing & astounding quality, venerable sir. I have another amazing & astounding quality. To whatever extent I want, quite secluded from sensuality, secluded from unskillful qualities, I enter & remain in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. With the stilling of directed thoughts & evaluations, I enter & remain in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. With the fading of rapture, I remain equanimous, mindful, & alert, and sense pleasure with the body. I enter & remain in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, one has a pleasant abiding.’ With the abandoning of pleasure & pain—as with the earlier disappearance of joy & distress—I enter & remain in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain.”
+“I don’t have only that amazing & astounding quality, venerable sir. I have another amazing & astounding quality. To whatever extent I want, ![[Jhanas]] & mindfulness, neither pleasure nor pain.”
 
 “It’s amazing, Nandamātar! It’s astounding!”
 

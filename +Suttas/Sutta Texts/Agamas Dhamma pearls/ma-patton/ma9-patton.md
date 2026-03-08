@@ -19,21 +19,21 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma9note01) One time, the Buddha traveled to the city Rājagṛha and stayed at Veḷuvana monastery.[2](#^ma9note02) ^ma9note01-ref ^ma9note02-ref
 
-#### The Homeland Monks Praise Pūrṇa
+#### The Homeland bhikkhus Praise Pūrṇa
 
-2. He was accompanied by a great assembly of monks who had spent the summer retreat there. Venerable Pūrṇa Maitrāyaniputra had spent his summer retreat in the [Buddha’s] homeland.[3](#^ma9note03) ^ma9note03-ref
+2. He was accompanied by a great assembly of bhikkhus who had spent the summer retreat there. Venerable Pūrṇa Maitrāyaniputra had spent his summer retreat in the [Buddha’s] homeland.[3](#^ma9note03) ^ma9note03-ref
 
-3. It was then that some homeland monks had finished their summer retreat after three months had passed. When they had finished mending robes, they gathered up their robes and bowls, left the homeland, and headed for Rājagṛha. They took a circuitous route to Rājagṛha and stayed at the Veḷuvana monastery. Those homeland monks then went to the Bhagavān, paid homage by prostrating themselves, and withdrew to sit at one side.
+3. It was then that some homeland bhikkhus had finished their summer retreat after three months had passed. When they had finished mending robes, they gathered up their robes and bowls, left the homeland, and headed for Rājagṛha. They took a circuitous route to Rājagṛha and stayed at the Veḷuvana monastery. Those homeland bhikkhus then went to the Bhagavān, paid homage by prostrating themselves, and withdrew to sit at one side.
 
-4. The Bhagavān asked them, “Monks, where have you come from? Where was your summer retreat?”
+4. The Bhagavān asked them, “bhikkhus, where have you come from? Where was your summer retreat?”
 
-The homeland monks replied, “Bhagavān, we’ve come from the homeland. We spent the summer retreat in the homeland.”
+The homeland bhikkhus replied, “Bhagavān, we’ve come from the homeland. We spent the summer retreat in the homeland.”
 
-5. The Bhagavān asked them, “Among those monks of the homeland, which monk is praised by the others as having few desires and being satisfied and who praises having few desires and being satisfied? Who himself lives quietly and praises quiet living? Who himself makes effort and praises making effort? Who himself is rightly mindful and praises right mindfulness? Who himself is unified in mind and praises being unified in mind? Who himself is wise and praises wisdom? Who himself has ended the contaminants and praises ending the contaminants? Who encourages, rouses, and makes others rejoice and praises encouraging, rousing, and making others rejoice?”
+5. The Bhagavān asked them, “Among those bhikkhus of the homeland, which monk is praised by the others as having few desires and being satisfied and who praises having few desires and being satisfied? Who himself lives quietly and praises quiet living? Who himself makes effort and praises making effort? Who himself is rightly mindful and praises right mindfulness? Who himself is unified in mind and praises being unified in mind? Who himself is wise and praises wisdom? Who himself has ended the contaminants and praises ending the contaminants? Who encourages, rouses, and makes others rejoice and praises encouraging, rousing, and making others rejoice?”
 
-The homeland monks said, “Bhagavān, Venerable Pūrṇa Maitrāyaniputra is the monk in the homeland who is praised by the other monks as having few desires and being satisfied and who praises having few desires and being satisfied. He himself lives quietly and praises quiet living. He himself makes effort and praises making effort. He himself is rightly mindful and praises right mindfulness. He himself is unified in mind and praises being unified in mind. He himself is wise and praises wisdom. He himself has ended the contaminants and praises ending the contaminants. He encourages, rouses, and makes others rejoice and praises encouraging, rousing, and making others rejoice.”
+The homeland bhikkhus said, “Bhagavān, Venerable Pūrṇa Maitrāyaniputra is the monk in the homeland who is praised by the other bhikkhus as having few desires and being satisfied and who praises having few desires and being satisfied. He himself lives quietly and praises quiet living. He himself makes effort and praises making effort. He himself is rightly mindful and praises right mindfulness. He himself is unified in mind and praises being unified in mind. He himself is wise and praises wisdom. He himself has ended the contaminants and praises ending the contaminants. He encourages, rouses, and makes others rejoice and praises encouraging, rousing, and making others rejoice.”
 
-6. Venerable Śāriputra was sitting in the assembly at the time, and he had this thought, “The Bhagavān asked this group of homeland monks about this matter, and the homeland monks gave their greatest praise to the good man Pūrṇa Maitrāyaniputra as having few desires and being satisfied and who praises having few desires and being satisfied. He himself lives quietly and praises quiet living. He himself makes effort and praises making effort. He himself is rightly mindful and praises right mindfulness. He himself is unified in mind and praises being unified in mind. He himself is wise and praises wisdom. He himself has ended the contaminants and praises ending the contaminants. He encourages, rouses, and makes others rejoice and praises encouraging, rousing, and making others rejoice.”
+6. Venerable Śāriputra was sitting in the assembly at the time, and he had this thought, “The Bhagavān asked this group of homeland bhikkhus about this matter, and the homeland bhikkhus gave their greatest praise to the good man Pūrṇa Maitrāyaniputra as having few desires and being satisfied and who praises having few desires and being satisfied. He himself lives quietly and praises quiet living. He himself makes effort and praises making effort. He himself is rightly mindful and praises right mindfulness. He himself is unified in mind and praises being unified in mind. He himself is wise and praises wisdom. He himself has ended the contaminants and praises ending the contaminants. He encourages, rouses, and makes others rejoice and praises encouraging, rousing, and making others rejoice.”
 
 7. Venerable Śāriputra then had another thought, “When will I be in the same congregation as that good man Pūrṇa Maitrāyaniputra? Maybe he’d ask about a little doctrine, or perhaps he’d agree to listen to my questions.”
 
@@ -41,13 +41,13 @@ The homeland monks said, “Bhagavān, Venerable Pūrṇa Maitrāyaniputra is th
 
 8. The Bhagavān finished the summer retreat in Rājagṛha after three months had passed. After they had finished mending robes, he gathered his robe and bowl and left Rājagṛha headed for the country of Śrāvastī. He took a circuitous route to Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove.
 
-9. Venerable Śāriputra and the homeland monks stayed in Rājagṛha for a few more days, then they gathered their robes and bowls and headed for Śrāvastī. They took a circuitous route to Śrāvastī and stayed together at Anāthapiṇḍada’s Park in Jeta’s Grove.
+9. Venerable Śāriputra and the homeland bhikkhus stayed in Rājagṛha for a few more days, then they gathered their robes and bowls and headed for Śrāvastī. They took a circuitous route to Śrāvastī and stayed together at Anāthapiṇḍada’s Park in Jeta’s Grove.
 
 10. Venerable Pūrṇa Maitrāyaniputra finished his summer retreat in the homeland after three months had passed. After they had finished mending robes, he gathered his robe and bowl, and left the homeland headed for Śrāvastī. He took a circuitous route to Śrāvastī and also stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. Venerable Pūrṇa Maitrāyaniputra went to the Bhagavān, paid homage by prostrating himself, spread out his sitting mat, and sat down cross-legged.
 
-11. Venerable Śāriputra then asked the other monks, “Good men, is that the good man Pūrṇa Maitrāyaniputra?”
+11. Venerable Śāriputra then asked the other bhikkhus, “Good men, is that the good man Pūrṇa Maitrāyaniputra?”
 
-The monks told Venerable Śāriputra, “Yes, the Venerable is sitting there in front of the Tathāgata. The fair-skinned one with a protruding nose like a parrot’s beak, that’s him.”
+The bhikkhus told Venerable Śāriputra, “Yes, the Venerable is sitting there in front of the Tathāgata. The fair-skinned one with a protruding nose like a parrot’s beak, that’s him.”
 
 12. Venerable Śāriputra then knew Pūrṇa Maitrāyaniputra’s appearance and remembered it well.
 
@@ -150,7 +150,7 @@ Venerable Pūrṇa Maitrāyaniputra answered, “Good man, I’m called Pūrṇa
 [↩︎](#^ma9note02-ref)
 
 ^ma9note03
-3. _homeland_. This seems to refer to the Buddha’s homeland, which was that of the Śākya people. Otherwise, the conversation that occurs between the monks and the Buddha makes little sense. The Pāli tradition makes the same assumption in their commentaries. Given that a large part of the Buddha’s Saṅgha was from the Śākya clan, it would also make sense to call them “homeland monks.” 
+3. _homeland_. This seems to refer to the Buddha’s homeland, which was that of the Śākya people. Otherwise, the conversation that occurs between the bhikkhus and the Buddha makes little sense. The Pāli tradition makes the same assumption in their commentaries. Given that a large part of the Buddha’s Saṅgha was from the Śākya clan, it would also make sense to call them “homeland bhikkhus.” 
 
 [↩︎](#^ma9note03-ref)
 

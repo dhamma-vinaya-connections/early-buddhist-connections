@@ -16,7 +16,7 @@ language: "English - Pali"
 
 70. ‘‘Pañcime, bhikkhave, dhammā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattanti. Katame pañca? Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī, sabbasaṅkhāresu aniccānupassī, maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti. Ime kho, bhikkhave, pañca dhammā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattantī’’ti. Dasamaṃ.
 
-70."Monks, these five qualities, when developed and cultivated, conduce to the destruction of the taints. What five are these? Here, monks, a monk dwells contemplating the foulness of the body; he is percipient of the repulsiveness in food; he is percipient of dissatisfaction with the entire world; he contemplates impermanence in all formations; and the perception of death is well established within him. These five qualities, monks, when developed and cultivated, conduce to the destruction of the taints." The Tenth.
+70."Monks, these five qualities, when developed and cultivated, conduce to the destruction of the taints. What five are these? Here, monks, a monk ![[Satipatthanas]]; he contemplates impermanence in all formations; and the perception of death is well established within him. These five qualities, monks, when developed and cultivated, conduce to the destruction of the taints." The Tenth.
 
 Saññāvaggo dutiyo.
 

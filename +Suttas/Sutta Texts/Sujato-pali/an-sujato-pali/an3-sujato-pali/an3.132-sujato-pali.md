@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these three people are found in the world. What three? A person like a line drawn in stone, a person like a line drawn in sand, and a person like a line drawn in water.
+1“bhikkhus, these three people are found in the world. What three? A person like a line drawn in stone, a person like a line drawn in sand, and a person like a line drawn in water.
 
 And who is the person like a line drawn in stone? It’s a person who is often angry, and their anger lingers for a long time. It’s like a line drawn in stone, which isn’t quickly worn away by wind and water, but lasts for a long time. In the same way, this person is often angry, and their anger lingers for a long time. This is called a person like a line drawn in stone.
 

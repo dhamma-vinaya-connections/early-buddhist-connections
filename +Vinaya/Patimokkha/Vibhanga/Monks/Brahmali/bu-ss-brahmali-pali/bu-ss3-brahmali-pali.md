@@ -21,9 +21,9 @@ language: "Pali - English"
 “Venerable, we would like to see your dwelling.”
 
 
-Then, after showing them his dwelling, he praised and disparaged their private parts; he requested and implored, asked and enquired, described, instructed, and abused their private parts. The shameless and indecent women flirted with Udāyī; they called out to him, laughed with him, and teased him. But after leaving, those of them who had a sense of shame complained to the monks, “Venerables, this isn’t suitable or appropriate. We wouldn’t want to hear such speech from our own husbands, let alone from Venerable Udāyī.”
+Then, after showing them his dwelling, he praised and disparaged their private parts; he requested and implored, asked and enquired, described, instructed, and abused their private parts. The shameless and indecent women flirted with Udāyī; they called out to him, laughed with him, and teased him. But after leaving, those of them who had a sense of shame complained to the bhikkhus, “Venerables, this isn’t suitable or appropriate. We wouldn’t want to hear such speech from our own husbands, let alone from Venerable Udāyī.”
 
-The monks of few desires complained and criticized him, “How could Venerable Udāyī speak indecently to women?”
+The bhikkhus of few desires complained and criticized him, “How could Venerable Udāyī speak indecently to women?”
 
 
 2They rebuked Udāyī in many ways and told the Buddha. The Buddha had the Sangha gathered and questioned Udāyī:
@@ -33,7 +33,7 @@ The monks of few desires complained and criticized him, “How could Venerable U
 “It’s true, Sir.”
 
 
-The Buddha rebuked him, “It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it should not be done. How could you speak like this? Haven’t I given many teachings for the sake of dispassion, not for the sake of passion … the stilling of the fevers of sensual pleasure? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him, “It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it should not be done. How could you speak like this? Haven’t I given many teachings for the sake of dispassion, not for the sake of passion … the stilling of the fevers of sensual pleasure? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

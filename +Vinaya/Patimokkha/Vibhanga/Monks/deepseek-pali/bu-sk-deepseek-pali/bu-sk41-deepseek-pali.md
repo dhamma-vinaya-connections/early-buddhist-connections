@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 615. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū mahantaṃ kabaḷaṃ karonti…pe….
 
-## 615.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six monks made large mouthfuls…and so on.
+## 615.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six bhikkhus made large mouthfuls…and so on.
 
 ‘‘Nātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā’’ti.
 

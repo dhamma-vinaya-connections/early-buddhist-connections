@@ -15,7 +15,7 @@ language: "English"
 ## ## Sattā Sutta
 
 
-“Monks, there are these nine abodes for beings. Which nine?
+“bhikkhus, there are these nine abodes for beings. Which nine?
 
 “There are beings with multiplicity of body & multiplicity of perception, such as human beings, some devas, and some beings in the lower realms. This is the first abode for beings.
 
@@ -35,7 +35,7 @@ language: "English"
 
 “There are beings who, with the complete transcending of the dimension of nothingness, arrive at the dimension of neither perception nor non-perception. This is the ninth abode for beings.
 
-“These, monks, are the nine abodes for beings.”
+“These, bhikkhus, are the nine abodes for beings.”
 
 ### Notes
 

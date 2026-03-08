@@ -24,18 +24,18 @@ language: "English - Pali"
 > ```
 
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six did legal procedures condemnation, demotion, banishment, reconciliation, and ejectionagainst monks who were absent. The monks of few desires complained and criticized them: “How can the monks from the group of six do this?” They told the Buddha. Soon afterwards he had the Saṅgha of monks gathered and questioned them:
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six did legal procedures condemnation, demotion, banishment, reconciliation, and ejectionagainst bhikkhus who were absent. The bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six do this?” They told the Buddha. Soon afterwards he had the Saṅgha of bhikkhus gathered and questioned them:
 
-“Is it true, monks, that the monks from the group of six are doing this?”
+“Is it true, bhikkhus, that the bhikkhus from the group of six are doing this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked them:
 
-“It’s not suitable for those foolish men, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can they do this? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the monks:
+“It’s not suitable for those foolish men, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can they do this? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
-You shouldn’t do legal procedures,condemnation, demotion, banishment, reconciliation, or ejectionagainst monks who are absent. If you do, you commit an offense of wrong conduct.
+You shouldn’t do legal procedures,condemnation, demotion, banishment, reconciliation, or ejectionagainst bhikkhus who are absent. If you do, you commit an offense of wrong conduct.
 
 
 2An individual who speaks contrary to the Teaching; several people who speak contrary to the Teaching; a saṅgha that speaks contrary to the Teaching. An individual who speaks in accordance with the Teaching; several people who speak in accordance with the Teaching; a saṅgha that speaks in accordance with the Teaching.”
@@ -107,7 +107,7 @@ Why don’t I assign the dwellings and designate the meals?”
 “Yes, Sir.”
 
 
-Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, the Saṅgha should appoint Dabba the Mallian as the assigner of dwellings and the designator of meals. And he should be appointed like this. First Dabba should be asked. A competent and capable monk should then inform the Saṅgha:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “bhikkhus, the Saṅgha should appoint Dabba the Mallian as the assigner of dwellings and the designator of meals. And he should be appointed like this. First Dabba should be asked. A competent and capable monk should then inform the Saṅgha:
 
 25‘Please, Venerables, I ask the Saṅgha to listen. If it seems appropriate to the Saṅgha, it should appoint Venerable Dabba the Mallian as the assigner of dwellings and the designator of meals. This is the motion.
 
@@ -115,9 +115,9 @@ Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, th
 
 27The Saṅgha has appointed Venerable Dabba the Mallian as the assigner of dwellings and the designator of meals. The Saṅgha approves and is therefore silent. I’ll remember it thus.’”
 
-28Dabba assigned dwellings to the monks according to their character. He assigned dwellings in the same place to those monks who were experts on the discourse, thinking: “They’ll recite the discourses together.” And he did likewise for the experts on Monastic Law, thinking: “They’ll discuss the Monastic Law;” for the expounders of the Teaching, thinking: “They’ll discuss the Teaching;” for the meditators, thinking: “They won’t disturb one another;” and for the gossips and the bodybuilders, thinking: “In this way even these venerables will be happy.”
+28Dabba assigned dwellings to the bhikkhus according to their character. He assigned dwellings in the same place to those bhikkhus who were experts on the discourse, thinking: “They’ll recite the discourses together.” And he did likewise for the experts on Monastic Law, thinking: “They’ll discuss the Monastic Law;” for the expounders of the Teaching, thinking: “They’ll discuss the Teaching;” for the meditators, thinking: “They won’t disturb one another;” and for the gossips and the bodybuilders, thinking: “In this way even these venerables will be happy.”
 
-When monks arrived at night, he entered the fire element and assigned dwellings with the help of that light. Monks even arrived late on purpose, hoping to see the marvel of Dabba’s supernormal powers.
+When bhikkhus arrived at night, he entered the fire element and assigned dwellings with the help of that light. bhikkhus even arrived late on purpose, hoping to see the marvel of Dabba’s supernormal powers.
 
 
 29They would approach Dabba and say: “Venerable Dabba, please assign us a dwelling.”
@@ -126,30 +126,30 @@ When monks arrived at night, he entered the fire element and assigned dwellings 
 
 They would intentionally suggest somewhere far away: “On the Vulture Peak,” “At Robbers’ Cliff,” “On Black Rock on the slope of Mount Isigili,” “In the Sattapaṇṇi Cave on the slope of Mount Vebhāra,” “In Cool Grove on the hill at the Snake’s Pool,” “At Gotamaka Gorge,” “At Tinduka Gorge,” “At Tapoda Gorge,” “In Tapoda Park,” “In Jīvaka’s Mango Grove,” “In the deer park at Maddakucchi.”
 
-30Dabba then entered the fire element, and with his finger glowing, he walked in front of those monks. They followed behind him with the help of that light. And he would assign them dwellings: “This is the bed, this the bench, this the mattress, this the pillow, this the place for defecating, this the place for urinating, this the water for drinking, this the water for washing, this the walking stick; these are the Saṅgha’s agreements concerning the right time to enter and the right time to leave.” Dabba then returned to the Bamboo Grove.
+30Dabba then entered the fire element, and with his finger glowing, he walked in front of those bhikkhus. They followed behind him with the help of that light. And he would assign them dwellings: “This is the bed, this the bench, this the mattress, this the pillow, this the place for defecating, this the place for urinating, this the water for drinking, this the water for washing, this the walking stick; these are the Saṅgha’s agreements concerning the right time to enter and the right time to leave.” Dabba then returned to the Bamboo Grove.
 
-31At that time the monks Mettiya and Bhūmajaka were only newly ordained. They had little merit, getting inferior dwellings and meals. The people of Rājagaha were keen on giving specially prepared almsfood to the senior monks - ghee, oil, and special curries but to the monks Mettiya and Bhūmajaka they gave ordinary food of porridge and broken rice.
+31At that time the bhikkhus Mettiya and Bhūmajaka were only newly ordained. They had little merit, getting inferior dwellings and meals. The people of Rājagaha were keen on giving specially prepared almsfood to the senior bhikkhus - ghee, oil, and special curries but to the bhikkhus Mettiya and Bhūmajaka they gave ordinary food of porridge and broken rice.
 
-After the meal, when they had returned from alms round, they asked the senior monks: “What did you get at the dining hall?”
+After the meal, when they had returned from alms round, they asked the senior bhikkhus: “What did you get at the dining hall?”
 
 Some said: “We got ghee, oil, and special curries.”
 
-But the monks Mettiya and Bhūmajaka said: “We didn’t get anything except ordinary food of porridge and broken rice.”
+But the bhikkhus Mettiya and Bhūmajaka said: “We didn’t get anything except ordinary food of porridge and broken rice.”
 
-At that time there was a householder who gave a regular meal of fine food to four monks. He made his offering in the dining hall together with his wives and children. Some of them offered rice, some bean curry, some oil, and some special curries.
+At that time there was a householder who gave a regular meal of fine food to four bhikkhus. He made his offering in the dining hall together with his wives and children. Some of them offered rice, some bean curry, some oil, and some special curries.
 
 
-32On one occasion the meal to be given by this householder on the following day had been designated to the monks Mettiya and Bhūmajaka. Just then that householder went to the monastery on some business. He approached Dabba, bowed, and sat down. Dabba instructed, inspired, and gladdened him with a teaching. After the talk, he asked Dabba: “Sir, who's been designated to receive tomorrow’s meal in our house?”
+32On one occasion the meal to be given by this householder on the following day had been designated to the bhikkhus Mettiya and Bhūmajaka. Just then that householder went to the monastery on some business. He approached Dabba, bowed, and sat down. Dabba instructed, inspired, and gladdened him with a teaching. After the talk, he asked Dabba: “Sir, who's been designated to receive tomorrow’s meal in our house?”
 
 
 “Mettiya and Bhūmajaka.”
 
-He was disappointed, and thought: “Why should bad monks eat in our house?” After returning to his house, he told a female slave: “For those who are coming for tomorrow’s meal, prepare seats at the gateway and serve them broken rice and porridge.”
+He was disappointed, and thought: “Why should bad bhikkhus eat in our house?” After returning to his house, he told a female slave: “For those who are coming for tomorrow’s meal, prepare seats at the gateway and serve them broken rice and porridge.”
 
 “Yes, sir.”
 
 
-33The monks Mettiya and Bhūmajaka said to each other: “Yesterday we were designated a meal from that householder who offers fine food. Tomorrow he’ll serve us together with his wives and children. Some of them will offer us rice, some bean curry, some oil, and some special curries.” And because they were excited, they did not sleep properly that night.
+33The bhikkhus Mettiya and Bhūmajaka said to each other: “Yesterday we were designated a meal from that householder who offers fine food. Tomorrow he’ll serve us together with his wives and children. Some of them will offer us rice, some bean curry, some oil, and some special curries.” And because they were excited, they did not sleep properly that night.
 
 The following morning they robed up, took their bowls and robes, and went to the house of that householder. When the female slave saw them coming, she prepared seats at the gateway and said to them: “Please sit, Venerables.”
 
@@ -198,47 +198,47 @@ He then said: “Dabba, the Dabbas don’t give such evasive answers. If it was 
 “Since I was born, Sir, I don’t recall having sexual intercourse even in a dream, let alone when awake.”
 
 
-The Buddha addressed the monks: “Well then, monks, expel the nun Mettiyā, and call these monks to account.” The Buddha then got up from his seat and entered his dwelling.
+The Buddha addressed the bhikkhus: “Well then, bhikkhus, expel the nun Mettiyā, and call these bhikkhus to account.” The Buddha then got up from his seat and entered his dwelling.
 
 
-36When the monks had expelled the nun Mettiyā, the monks Mettiya and Bhūmajaka said to them: “Don’t expel the nun Mettiyā; she hasn’t done anything wrong. She was urged on by us. We were angry and displeased, and trying to make Dabba give up the monastic life.”
+36When the bhikkhus had expelled the nun Mettiyā, the bhikkhus Mettiya and Bhūmajaka said to them: “Don’t expel the nun Mettiyā; she hasn’t done anything wrong. She was urged on by us. We were angry and displeased, and trying to make Dabba give up the monastic life.”
 
 “But did you groundlessly charge Venerable Dabba with failure in morality?”
 
 “Yes.”
 
 
-The monks of few desires … complained and criticized them: “How could the monks Mettiya and Bhūmajaka groundlessly charge Venerable Dabba with failure in morality?”
+The bhikkhus of few desires … complained and criticized them: “How could the bhikkhus Mettiya and Bhūmajaka groundlessly charge Venerable Dabba with failure in morality?”
 
 
-They then told the Buddha. … “Is it true, monks, that you did this?”
+They then told the Buddha. … “Is it true, bhikkhus, that you did this?”
 
 “It’s true, Sir.” …
 
-After rebuking them … he gave a teaching and addressed the monks:
+After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
 37“Well then, because of his great clarity of memory, grant resolution through recollection to Dabba the Mallian. And it should be granted like this.
 
-Dabba should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+Dabba should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 
-‘Venerables, these monks Mettiya and Bhūmajaka are groundlessly charging me with failure in morality. Because of my great clarity of memory, I ask the Saṅgha for resolution through recollection.
+‘Venerables, these bhikkhus Mettiya and Bhūmajaka are groundlessly charging me with failure in morality. Because of my great clarity of memory, I ask the Saṅgha for resolution through recollection.
 
-Venerables, these monks Mettiya and Bhūmajaka are groundlessly charging me with failure in morality. Because of my great clarity of memory, for the second time I ask the Saṅgha for resolution through recollection.
+Venerables, these bhikkhus Mettiya and Bhūmajaka are groundlessly charging me with failure in morality. Because of my great clarity of memory, for the second time I ask the Saṅgha for resolution through recollection.
 
 
-Venerables, these monks Mettiya and Bhūmajaka are groundlessly charging me with failure in morality. Because of my great clarity of memory, for the third time I ask the Saṅgha for resolution through recollection.’
+Venerables, these bhikkhus Mettiya and Bhūmajaka are groundlessly charging me with failure in morality. Because of my great clarity of memory, for the third time I ask the Saṅgha for resolution through recollection.’
 
 
 A competent and capable monk should then inform the Saṅgha:
 
-38‘Please, Venerables, I ask the Saṅgha to listen. These monks Mettiya and Bhūmajaka are groundlessly charging Venerable Dabba the Mallian with failure in morality. Because of his great clarity of memory, Dabba is asking the Saṅgha for resolution through recollection. If it seems appropriate to the Saṅgha, the Saṅgha should grant Dabba resolution through recollection. This is the motion.
+38‘Please, Venerables, I ask the Saṅgha to listen. These bhikkhus Mettiya and Bhūmajaka are groundlessly charging Venerable Dabba the Mallian with failure in morality. Because of his great clarity of memory, Dabba is asking the Saṅgha for resolution through recollection. If it seems appropriate to the Saṅgha, the Saṅgha should grant Dabba resolution through recollection. This is the motion.
 
-39Please, Venerables, I ask the Saṅgha to listen. These monks Mettiya and Bhūmajaka are groundlessly charging Venerable Dabba the Mallian with failure in morality. Because of his great clarity of memory, Dabba is asking the Saṅgha for resolution through recollection. The Saṅgha grants Dabba resolution through recollection. Any monk who approves of granting Dabba resolution through recollection should remain silent. Any monk who doesn’t approve should speak up.
+39Please, Venerables, I ask the Saṅgha to listen. These bhikkhus Mettiya and Bhūmajaka are groundlessly charging Venerable Dabba the Mallian with failure in morality. Because of his great clarity of memory, Dabba is asking the Saṅgha for resolution through recollection. The Saṅgha grants Dabba resolution through recollection. Any monk who approves of granting Dabba resolution through recollection should remain silent. Any monk who doesn’t approve should speak up.
 
 
-40For the second time I speak on this matter. … For the third time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. These monks Mettiya and Bhūmajaka are groundlessly charging Venerable Dabba the Mallian with failure in morality. Because of his great clarity of memory, Dabba is asking the Saṅgha for resolution through recollection.
+40For the second time I speak on this matter. … For the third time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. These bhikkhus Mettiya and Bhūmajaka are groundlessly charging Venerable Dabba the Mallian with failure in morality. Because of his great clarity of memory, Dabba is asking the Saṅgha for resolution through recollection.
 
 The Saṅgha grants Dabba resolution through recollection. Any monk who approves of granting Dabba resolution through recollection should remain silent. Any monk who doesn’t approve should speak up.
 
@@ -257,42 +257,42 @@ The Saṅgha grants Dabba resolution through recollection. Any monk who approves
 > ```
 
 
-43At one time the monk Gagga was insane and suffering from psychosis. Because of this, he did and said many things unworthy of a monastic. The monks accused him of an offense saying:
+43At one time the monk Gagga was insane and suffering from psychosis. Because of this, he did and said many things unworthy of a monastic. The bhikkhus accused him of an offense saying:
 
 “Venerable, do you remember committing such-and-such an offense?” “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.”  
   
-But they kept on accusing him in the same way. The monks of few desires … complained and criticized them: “How can these monks keep on accusing Gagga when he says he was insane?”
+But they kept on accusing him in the same way. The bhikkhus of few desires … complained and criticized them: “How can these bhikkhus keep on accusing Gagga when he says he was insane?”
 
 
-They told the Buddha. … He said: “Is it true, monks, that these monks are doing this?”
+They told the Buddha. … He said: “Is it true, bhikkhus, that these bhikkhus are doing this?”
 
 “It’s true, Sir.” …
 
-After rebuking them … he gave a teaching and addressed the monks:
+After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
 “Well then, since he’s no longer insane, grant the monk Gagga resolution because of past insanity.
 
-And it should be granted like this. The monk Gagga should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+And it should be granted like this. The monk Gagga should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
-‘Venerables, I’ve been insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. The monks accused me of an offense, saying:
+‘Venerables, I’ve been insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. The bhikkhus accused me of an offense, saying:
 
 44“Venerable, do you remember committing such-and-such an offense?” I replied: “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.” But they kept on accusing me in the same way. Because I’m no longer insane, I ask the Saṅgha for resolution because of past insanity.’
 
 And he should ask a second time, and a third time:
 
-‘Venerables, I’ve been insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. The monks accused me of an offense, saying,
+‘Venerables, I’ve been insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. The bhikkhus accused me of an offense, saying,
 
 “Venerable, do you remember committing such-and-such an offense?” I replied: “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.” But they kept on accusing me in the same way. Because I’m no longer insane, for the third time I ask the Saṅgha for resolution because of past insanity.’
 
 A competent and capable monk should then inform the Saṅgha:
 
 
-‘Please, Venerables, I ask the Saṅgha to listen. The monk Gagga has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. The monks accused him of an offense, saying,
+‘Please, Venerables, I ask the Saṅgha to listen. The monk Gagga has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. The bhikkhus accused him of an offense, saying,
 
 45“Venerable, do you remember committing such-and-such an offense?” He replied: “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.” But they kept on accusing him in the same way. Because he’s no longer insane, he’s asking the Saṅgha for resolution because of past insanity. If it seems appropriate to the Saṅgha, the Saṅgha should grant the monk Gagga resolution because of past insanity. This is the motion.
 
-Please, Venerables, I ask the Saṅgha to listen. The monk Gagga has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. The monks accused him of an offense, saying,
+Please, Venerables, I ask the Saṅgha to listen. The monk Gagga has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. The bhikkhus accused him of an offense, saying,
 
 46“Venerable, do you remember committing such-and-such an offense?” He replied: “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic.
 
@@ -306,19 +306,19 @@ I don’t remember it. I did it because I was insane.” But they kept on accusi
 
 49There are three illegitimate and three legitimate grantings of resolution because of past insanity. What are the three illegitimate grantings of resolution because of past insanity?
 
-50It may be that a monk has committed an offense. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Although he remembers, he says he doesn’t. If the Saṅgha grants him resolution because of past insanity, then that granting is illegitimate.
+50It may be that a monk has committed an offense. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Although he remembers, he says he doesn’t. If the Saṅgha grants him resolution because of past insanity, then that granting is illegitimate.
 
-51It may be that a monk has committed an offense. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Although he remembers, he says, ‘I remember as if in a dream.’ If the Saṅgha grants him resolution because of past insanity, then that granting is illegitimate.
+51It may be that a monk has committed an offense. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Although he remembers, he says, ‘I remember as if in a dream.’ If the Saṅgha grants him resolution because of past insanity, then that granting is illegitimate.
 
-52It may be that a monk has committed an offense. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Although he’s sane, he acts insane, saying, ‘I do this, and so do you. This is allowable for me, and also for you.’ If the Saṅgha grants him resolution because of past insanity, then that granting is illegitimate.
+52It may be that a monk has committed an offense. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Although he’s sane, he acts insane, saying, ‘I do this, and so do you. This is allowable for me, and also for you.’ If the Saṅgha grants him resolution because of past insanity, then that granting is illegitimate.
 
 53And what are the three legitimate grantings of resolution because of past insanity?
 
-54It may be that a monk has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Not remembering, he says he doesn’t. If the Saṅgha grants him resolution because of past insanity, then that granting is legitimate.
+54It may be that a monk has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Not remembering, he says he doesn’t. If the Saṅgha grants him resolution because of past insanity, then that granting is legitimate.
 
-55It may be that a monk has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Not remembering, he says, ‘I remember as if in a dream.’ If the Saṅgha grants him resolution because of past insanity, then that granting is legitimate.
+55It may be that a monk has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Not remembering, he says, ‘I remember as if in a dream.’ If the Saṅgha grants him resolution because of past insanity, then that granting is legitimate.
 
-56It may be that a monk has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Being insane, he acts insane, saying, ‘I do this, and so do you. This is allowable for me, and also for you.’ If the Saṅgha grants him resolution because of past insanity, then that granting is legitimate.”
+56It may be that a monk has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, do you remember committing such-and-such an offense?’ Being insane, he acts insane, saying, ‘I do this, and so do you. This is allowable for me, and also for you.’ If the Saṅgha grants him resolution because of past insanity, then that granting is legitimate.”
 
 ### 4. Acting according to what has been admitted ^4
 
@@ -330,32 +330,32 @@ I don’t remember it. I did it because I was insane.” But they kept on accusi
 > ```
 
 
-57At one time the monks from the group of six did legal procedures - condemnation, demotion, banishment, reconciliation, and ejection against other monks without their admission. The monks of few desires complained and criticized them: “How can the monks from the group of six do this?” They told the Buddha. …
+57At one time the bhikkhus from the group of six did legal procedures - condemnation, demotion, banishment, reconciliation, and ejection against other bhikkhus without their admission. The bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six do this?” They told the Buddha. …
 
-“Is it true, monks, that the monks from the group of six are doing this?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“Is it true, bhikkhus, that the bhikkhus from the group of six are doing this?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
-“You shouldn’t do legal procedures, condemnation, demotion, banishment, reconciliation, or ejection—against monks without their admission.If you do, you commit an offense of wrong conduct.
+“You shouldn’t do legal procedures, condemnation, demotion, banishment, reconciliation, or ejection—against bhikkhus without their admission.If you do, you commit an offense of wrong conduct.
 
 
 58And how’s acting according to what’s been admitted illegitimate?
 
 
-59It may be that a monk has committed an offense entailing expulsion. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, you've committed an offense entailing expulsion.’ He says, ‘I haven’t committed an offense entailing expulsion, but one entailing suspension.’ If the Saṅgha makes him act according to an offense entailing suspension, then that acting according to what’s been admitted is illegitimate.
+59It may be that a monk has committed an offense entailing expulsion. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, you've committed an offense entailing expulsion.’ He says, ‘I haven’t committed an offense entailing expulsion, but one entailing suspension.’ If the Saṅgha makes him act according to an offense entailing suspension, then that acting according to what’s been admitted is illegitimate.
 
-60It may be that a monk has committed an offense entailing expulsion. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, you've committed an offense entailing expulsion.’ He says, ‘I haven’t committed an offense entailing expulsion, but a serious offense … but an offense entailing confession … but an offense entailing acknowledgment … but an offense of wrong conduct … but an offense of wrong speech.’ If the Saṅgha makes him act according to an offense of wrong speech, then that acting according to what’s been admitted is illegitimate.
+60It may be that a monk has committed an offense entailing expulsion. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, you've committed an offense entailing expulsion.’ He says, ‘I haven’t committed an offense entailing expulsion, but a serious offense … but an offense entailing confession … but an offense entailing acknowledgment … but an offense of wrong conduct … but an offense of wrong speech.’ If the Saṅgha makes him act according to an offense of wrong speech, then that acting according to what’s been admitted is illegitimate.
 
-61It may be that a monk has committed an offense entailing suspension … a serious offense … an offense entailing confession … an offense entailing acknowledgment … an offense of wrong conduct … an offense of wrong speech. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, you've committed an offense of wrong speech.’ He says, ‘I haven’t committed an offense of wrong speech, but an offense entailing expulsion.’ If the Saṅgha makes him act according to an offense entailing expulsion, then that acting according to what’s been admitted is illegitimate.
+61It may be that a monk has committed an offense entailing suspension … a serious offense … an offense entailing confession … an offense entailing acknowledgment … an offense of wrong conduct … an offense of wrong speech. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, you've committed an offense of wrong speech.’ He says, ‘I haven’t committed an offense of wrong speech, but an offense entailing expulsion.’ If the Saṅgha makes him act according to an offense entailing expulsion, then that acting according to what’s been admitted is illegitimate.
 
-62It may be that a monk has committed an offense of wrong speech. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, you've committed an offense of wrong speech.’ He says, ‘I haven’t committed an offense of wrong speech, but an offense entailing suspension … but a serious offense … but an offense entailing confession … but an offense entailing acknowledgment … but an offense of wrong conduct.’ If the Saṅgha makes him act according to an offense of wrong conduct, then that acting according to what’s been admitted is illegitimate.
+62It may be that a monk has committed an offense of wrong speech. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, you've committed an offense of wrong speech.’ He says, ‘I haven’t committed an offense of wrong speech, but an offense entailing suspension … but a serious offense … but an offense entailing confession … but an offense entailing acknowledgment … but an offense of wrong conduct.’ If the Saṅgha makes him act according to an offense of wrong conduct, then that acting according to what’s been admitted is illegitimate.
 
 
 63And how’s acting according to what’s been admitted legitimate?
 
-It may be that a monk has committed an offense entailing expulsion. The Saṅgha, several monks, or a single monk accuses him, saying ‘Venerable, you've committed an offense entailing expulsion.’ He says, ‘Yes, I’ve committed an offense entailing expulsion.’ If the Saṅgha makes him act according to an offense entailing expulsion, then that acting according to what’s been admitted is legitimate.
+It may be that a monk has committed an offense entailing expulsion. The Saṅgha, several bhikkhus, or a single monk accuses him, saying ‘Venerable, you've committed an offense entailing expulsion.’ He says, ‘Yes, I’ve committed an offense entailing expulsion.’ If the Saṅgha makes him act according to an offense entailing expulsion, then that acting according to what’s been admitted is legitimate.
 
 
-64It may be that a monk has committed an offense entailing suspension … a serious offense … an offense entailing confession … an offense entailing acknowledgment … an offense of wrong conduct … an offense of wrong speech. The Saṅgha, several monks, or a single monk accuses him, saying, ‘Venerable, you’ve committed an offense of wrong speech.’ He says, ‘Yes, I’ve committed an offense of wrong speech.’ If the Saṅgha makes him act according to an offense wrong speech, then that acting according to what’s been admitted is legitimate.”
+64It may be that a monk has committed an offense entailing suspension … a serious offense … an offense entailing confession … an offense entailing acknowledgment … an offense of wrong conduct … an offense of wrong speech. The Saṅgha, several bhikkhus, or a single monk accuses him, saying, ‘Venerable, you’ve committed an offense of wrong speech.’ He says, ‘Yes, I’ve committed an offense of wrong speech.’ If the Saṅgha makes him act according to an offense wrong speech, then that acting according to what’s been admitted is legitimate.”
 
 ### 5. Majority decision ^5
 
@@ -367,7 +367,7 @@ It may be that a monk has committed an offense entailing expulsion. The Saṅgha
 > ```
 
 
-65At one time the monks were arguing and disputing in the midst of the Saṅgha, attacking one another verbally, and they were unable to resolve that legal issue. They told the Buddha.
+65At one time the bhikkhus were arguing and disputing in the midst of the Saṅgha, attacking one another verbally, and they were unable to resolve that legal issue. They told the Buddha.
 
 “I allow you to resolve such legal issues by majority decision. You should appoint a monk who has five qualities as the manager of the vote: one who isn’t swayed by desire, ill will, confusion, or fear, and who knows who has and who hasn't voted. And he should be appointed like this. First a monk should be asked, and then a competent and capable monk should inform the Saṅgha:
 
@@ -392,13 +392,13 @@ It may be that a monk has committed an offense entailing expulsion. The Saṅgha
 > ```
 
 
-71On one occasion, when the monk Upavāḷa was being examined in the midst of the Saṅgha about an offense, he asserted things after denying them, denied things after asserting them, evaded the issue, and lied. The monks of few desires complained and criticized him: “How can the monk Upavāḷa act like this?”
+71On one occasion, when the monk Upavāḷa was being examined in the midst of the Saṅgha about an offense, he asserted things after denying them, denied things after asserting them, evaded the issue, and lied. The bhikkhus of few desires complained and criticized him: “How can the monk Upavāḷa act like this?”
 
-They told the Buddha. … “Is it true, monks, that the monk Upavāḷa is acting like this?”
+They told the Buddha. … “Is it true, bhikkhus, that the monk Upavāḷa is acting like this?”
 
 “It’s true, Sir.” …
 
-After rebuking him … the Buddha gave a teaching and addressed the monks:
+After rebuking him … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 “Well then, the Saṅgha should do a legal procedure of further penalty against the monk Upavāḷa. And it should be done like this.
@@ -476,11 +476,11 @@ When a procedure of further penalty has another three qualities, it's also legit
 
 81When a monk has another three qualities, the Saṅgha may, if it wishes, do a procedure of further penalty against him: he disparages the Buddha; he disparages the Teaching; he disparages the Saṅgha.
 
-82The Saṅgha may, if it wishes, do a procedure of further penalty against three kinds of monks: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant, incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
+82The Saṅgha may, if it wishes, do a procedure of further penalty against three kinds of bhikkhus: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant, incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
 
-83The Saṅgha may, if it wishes, do a procedure of further penalty against another three kinds of monks: those who've failed in the higher morality; those who've failed in the higher conduct; those who've failed in view.
+83The Saṅgha may, if it wishes, do a procedure of further penalty against another three kinds of bhikkhus: those who've failed in the higher morality; those who've failed in the higher conduct; those who've failed in view.
 
-84The Saṅgha may, if it wishes, do a procedure of further penalty against another three kinds of monks: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
+84The Saṅgha may, if it wishes, do a procedure of further penalty against another three kinds of bhikkhus: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
 
 #### 6.4 The eighteen kinds of conduct
 
@@ -503,7 +503,7 @@ He shouldn’t give instructions to a regular monk.
 He shouldn’t ask a regular monk for permission to accuse him of an offense.  
 He shouldn’t accuse a regular monk of an offense.  
 He shouldn’t remind a regular monk of an offense.  
-He shouldn’t associate inappropriately with other monks.”  
+He shouldn’t associate inappropriately with other bhikkhus.”  
 The Saṅgha then did a legal procedure of further penalty against the monk Upavāḷa.
 
 ### 7. Covering over as if with grass ^7
@@ -516,21 +516,21 @@ The Saṅgha then did a legal procedure of further penalty against the monk Upav
 > ```
 
 
-87At one time, while the monks were arguing and disputing, they did and said many things unworthy of monastics. They considered this and thought, “If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism. So what should we do now?” They told the Buddha.
+87At one time, while the bhikkhus were arguing and disputing, they did and said many things unworthy of monastics. They considered this and thought, “If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism. So what should we do now?” They told the Buddha.
 
 
-88“It may be, monks, that monks who are arguing and disputing do and say many things unworthy of monastics. If they consider this and think, ‘If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism,’ then I allow you to resolve that legal issue by covering over as if with grass.
+88“It may be, bhikkhus, that bhikkhus who are arguing and disputing do and say many things unworthy of monastics. If they consider this and think, ‘If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism,’ then I allow you to resolve that legal issue by covering over as if with grass.
 
 
 And it should be resolved like this. Everyone should gather in one place. A competent and capable monk should then inform the Saṅgha:
 
 89‘Please, Venerables, I ask the Saṅgha to listen. While we were arguing and disputing, we did and said many things unworthy of monastics. If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism. If it seems appropriate to the Saṅgha, the Saṅgha should resolve this legal issue by covering over as if with grass, except for heavy offenses and offenses connected with householders.’
 
-The monks belonging to one side should then be informed by a competent and capable monk belonging to their own side:
+The bhikkhus belonging to one side should then be informed by a competent and capable monk belonging to their own side:
 
 90‘Please, Venerables, I ask you to listen. While we were arguing and disputing, we did and said many things unworthy of monastics. If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism. If it seems appropriate to you, then for your benefit and for my own, I’ll confess in the midst of the Saṅgha both your and my own offenses by covering over as if with grass, except for heavy offenses and offenses connected with householders.’
 
-91And the monks belonging to the other side should be informed by a competent and capable monk belonging to their own side:
+91And the bhikkhus belonging to the other side should be informed by a competent and capable monk belonging to their own side:
 
 92‘Please, Venerables, I ask you to listen. While we were arguing and disputing, we did and said many things unworthy of monastics. If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism. If it seems appropriate to you, then for your benefit and for my own, I’ll confess in the midst of the Saṅgha both your and my own offenses by covering over as if with grass, except for heavy offenses and offenses connected with householders.’
 
@@ -552,7 +552,7 @@ The monks belonging to one side should then be informed by a competent and capab
 
 100We have confessed our offenses in the midst of the Saṅgha by covering over as if with grass, except for heavy offenses and offenses connected with householders. The Saṅgha approves and is therefore silent. I’ll remember it thus.’
 
-101In this way those monks are cleared of those offenses, except for heavy offenses and offenses connected with householders, and except for those monks who voice their disapproval and those who are absent.”
+101In this way those bhikkhus are cleared of those offenses, except for heavy offenses and offenses connected with householders, and except for those bhikkhus who voice their disapproval and those who are absent.”
 
 ### 8. Legal issues ^8
 
@@ -564,18 +564,18 @@ The monks belonging to one side should then be informed by a competent and capab
 > ```
 
 
-102On one occasion monks were disputing with monks, monks with nuns, and nuns with monks. Standing with the nuns, the monk Channa disputed with the monks, making others side with the nuns. The monks of few desires … complained and criticized him: “How can the monk Channa act like this?” They told the Buddha. … “Is it true, monks, that the monk Channa is acting like this?”
+102On one occasion bhikkhus were disputing with bhikkhus, bhikkhus with nuns, and nuns with bhikkhus. Standing with the nuns, the monk Channa disputed with the bhikkhus, making others side with the nuns. The bhikkhus of few desires … complained and criticized him: “How can the monk Channa act like this?” They told the Buddha. … “Is it true, bhikkhus, that the monk Channa is acting like this?”
 
 “It’s true, Sir.” …
 
-After rebuking him … the Buddha gave a teaching and addressed the monks:
+After rebuking him … the Buddha gave a teaching and addressed the bhikkhus:
 
 
-103“Monks, there are four kinds of legal issues: legal issues arising from disputes; legal issues arising from accusations; legal issues arising from offenses; legal issues arising from business.
+103“bhikkhus, there are four kinds of legal issues: legal issues arising from disputes; legal issues arising from accusations; legal issues arising from offenses; legal issues arising from business.
 
-104(1a) What’s a legal issue arising from a dispute? It may be that the monks are disputing, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’, ‘This is the Monastic Law’, ‘This is contrary to the Monastic Law’, ‘This was spoken by the Buddha’, ‘This wasn’t spoken by the Buddha’, ‘This was practiced by the Buddha’, ‘This wasn’t practiced by the Buddha’, ‘This was laid down by the Buddha’, ‘This wasn’t laid down by the Buddha’, ‘This is an offense’, ‘This isn’t an offense’, ‘This is a light offense’, ‘This is a heavy offense’, ‘This is a curable offense’, ‘This is an incurable offense’, ‘This is a grave offense’, or ‘This is a minor offense.’ In regard to this, whatever there is of quarreling, arguing, conflict, disputing, variety in opinion, difference in opinion, heated speech, or strife— this is called a legal issue arising from a dispute.
+104(1a) What’s a legal issue arising from a dispute? It may be that the bhikkhus are disputing, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’, ‘This is the Monastic Law’, ‘This is contrary to the Monastic Law’, ‘This was spoken by the Buddha’, ‘This wasn’t spoken by the Buddha’, ‘This was practiced by the Buddha’, ‘This wasn’t practiced by the Buddha’, ‘This was laid down by the Buddha’, ‘This wasn’t laid down by the Buddha’, ‘This is an offense’, ‘This isn’t an offense’, ‘This is a light offense’, ‘This is a heavy offense’, ‘This is a curable offense’, ‘This is an incurable offense’, ‘This is a grave offense’, or ‘This is a minor offense.’ In regard to this, whatever there is of quarreling, arguing, conflict, disputing, variety in opinion, difference in opinion, heated speech, or strife— this is called a legal issue arising from a dispute.
 
-105(1b) What’s a legal issue arising from an accusation? It may be that the monks accuse a monk of failure in morality, failure in conduct, failure in view, or failure in livelihood. In regard to this, whatever there is of accusations, accusing, allegations, blame, taking sides because of friendship, taking part in the accusation, or supporting the accusation— this is called a legal issue arising from an accusation.
+105(1b) What’s a legal issue arising from an accusation? It may be that the bhikkhus accuse a monk of failure in morality, failure in conduct, failure in view, or failure in livelihood. In regard to this, whatever there is of accusations, accusing, allegations, blame, taking sides because of friendship, taking part in the accusation, or supporting the accusation— this is called a legal issue arising from an accusation.
 
 106(1c) What’s a legal issue arising from an offense? There are legal issues arising from offenses because of the five classes of offenses; there are legal issues arising from offenses because of the seven classes of offenses— this is called a legal issue arising from an offense.
 
@@ -584,26 +584,26 @@ After rebuking him … the Buddha gave a teaching and addressed the monks:
 
 108(2a) What’s the root of legal issues arising from disputes? There are six roots of disputes that in turn are the root of legal issues arising from disputes. There are also three unwholesome and three wholesome roots of legal issues arising from disputes.
 
-What are the six roots of disputes that in turn are the root of legal issues arising from disputes? It may be that a monk is angry and resentful. One who’s angry and resentful is disrespectful and undeferential toward the Teacher, the Teaching, and the Saṅgha, and he doesn’t fulfill the training. Such a person creates disputes in the Saṅgha. Disputes are unbeneficial and a cause of unhappiness for humanity; they’re harmful, detrimental, and a cause of suffering for gods and humans. Monks, when you see such a root of disputes either in yourself or others, you should make an effort to get rid of it. If you don’t see such a root either in yourself or others, you should practice so that it doesn’t emerge in the future. In this way that bad root of disputes is abandoned and doesn’t emerge in the future.
+What are the six roots of disputes that in turn are the root of legal issues arising from disputes? It may be that a monk is angry and resentful. One who’s angry and resentful is disrespectful and undeferential toward the Teacher, the Teaching, and the Saṅgha, and he doesn’t fulfill the training. Such a person creates disputes in the Saṅgha. Disputes are unbeneficial and a cause of unhappiness for humanity; they’re harmful, detrimental, and a cause of suffering for gods and humans. bhikkhus, when you see such a root of disputes either in yourself or others, you should make an effort to get rid of it. If you don’t see such a root either in yourself or others, you should practice so that it doesn’t emerge in the future. In this way that bad root of disputes is abandoned and doesn’t emerge in the future.
 
-109Or it may be that a monk is denigrating and controlling, envious and stingy, treacherous and deceitful, one who has bad desires and wrong views, or one who obstinately grasps his own views and only gives them up with difficulty. Such a monk is disrespectful and undeferential toward the Teacher, the Teaching, and the Saṅgha, and he doesn’t fulfill the training. Such a person creates disputes in the Saṅgha. Disputes are unbeneficial and a cause of unhappiness for humanity; they’re harmful, detrimental, and a cause of suffering for gods and humans. Monks, when you see such a root of disputes either in yourself or others, you should make an effort to get rid of it. If you don’t see such a root either in yourself or others, you should practice so that it doesn’t emerge in the future. In this way that bad root of disputes is abandoned and doesn’t emerge in the future.
+109Or it may be that a monk is denigrating and controlling, envious and stingy, treacherous and deceitful, one who has bad desires and wrong views, or one who obstinately grasps his own views and only gives them up with difficulty. Such a monk is disrespectful and undeferential toward the Teacher, the Teaching, and the Saṅgha, and he doesn’t fulfill the training. Such a person creates disputes in the Saṅgha. Disputes are unbeneficial and a cause of unhappiness for humanity; they’re harmful, detrimental, and a cause of suffering for gods and humans. bhikkhus, when you see such a root of disputes either in yourself or others, you should make an effort to get rid of it. If you don’t see such a root either in yourself or others, you should practice so that it doesn’t emerge in the future. In this way that bad root of disputes is abandoned and doesn’t emerge in the future.
 
 
-110What are the three unwholesome roots of legal issues arising from disputes? It may be that monks dispute with a mind of greed, ill will, or delusion, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’, ‘This is the Monastic Law’, ‘This is contrary to the Monastic Law’, ‘This was spoken by the Buddha’, ‘This wasn’t spoken by the Buddha’, ‘This was practiced by the Buddha’, ‘This wasn’t practiced by the Buddha’, ‘This was laid down by the Buddha’, ‘This wasn’t laid down by the Buddha’, ‘This is an offense’, ‘This isn’t an offense’, ‘This is a light offense’, ‘This is a heavy offense’, ‘This is a curable offense’, ‘This is an incurable offense’, ‘This is a grave offense’, or ‘This is a minor offense.’
+110What are the three unwholesome roots of legal issues arising from disputes? It may be that bhikkhus dispute with a mind of greed, ill will, or delusion, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’, ‘This is the Monastic Law’, ‘This is contrary to the Monastic Law’, ‘This was spoken by the Buddha’, ‘This wasn’t spoken by the Buddha’, ‘This was practiced by the Buddha’, ‘This wasn’t practiced by the Buddha’, ‘This was laid down by the Buddha’, ‘This wasn’t laid down by the Buddha’, ‘This is an offense’, ‘This isn’t an offense’, ‘This is a light offense’, ‘This is a heavy offense’, ‘This is a curable offense’, ‘This is an incurable offense’, ‘This is a grave offense’, or ‘This is a minor offense.’
 
-111What are the three wholesome roots of legal issues arising from disputes? It may be that monks dispute with a mind free from greed, ill will, and delusion, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’ … ‘This is a grave offense’, or ‘This is a minor offense.’
+111What are the three wholesome roots of legal issues arising from disputes? It may be that bhikkhus dispute with a mind free from greed, ill will, and delusion, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’ … ‘This is a grave offense’, or ‘This is a minor offense.’
 
 
 112(2b) What’s the root of legal issues arising from accusations? There are six roots of accusations that in turn are the root of legal issues arising from accusations. There are also three unwholesome and three wholesome roots of legal issues arising from accusations. The body, too, is a root of legal issues arising from accusations, as is speech.
 
-113What are the six roots of accusations that in turn are the root of legal issues arising from accusations? It may be that a monk is angry and resentful. One who is angry and resentful is disrespectful and undeferential toward the Teacher, the Teaching, and the Saṅgha, and he doesn’t fulfill the training. Such a person makes accusations in the Saṅgha. Accusations are unbeneficial and a cause of unhappiness for humanity; they’re harmful, detrimental, and a cause of suffering for gods and humans. Monks, when you see such a root of accusations either in yourself or others, you should make an effort to get rid of it. If you don’t see such a root either in yourself or others, you should practice so that it doesn’t emerge in the future.
+113What are the six roots of accusations that in turn are the root of legal issues arising from accusations? It may be that a monk is angry and resentful. One who is angry and resentful is disrespectful and undeferential toward the Teacher, the Teaching, and the Saṅgha, and he doesn’t fulfill the training. Such a person makes accusations in the Saṅgha. Accusations are unbeneficial and a cause of unhappiness for humanity; they’re harmful, detrimental, and a cause of suffering for gods and humans. bhikkhus, when you see such a root of accusations either in yourself or others, you should make an effort to get rid of it. If you don’t see such a root either in yourself or others, you should practice so that it doesn’t emerge in the future.
 
-114Or it may be that a monk is denigrating and controlling, envious and stingy, treacherous and deceitful, one who has bad desires and wrong views, or one who obstinately grasps his own views and only gives them up with difficulty. Such a monk is disrespectful and undeferential toward the Teacher, the Teaching, and the Saṅgha, and he doesn’t fulfill the training. Such a person makes accusations in the Saṅgha. Accusations are unbeneficial and a cause of unhappiness for humanity; they’re harmful, detrimental, and a cause of suffering for gods and humans. Monks, when you see such a root of accusations either in yourself or others, you should make an effort to get rid of it. If you don’t see such a root either in yourself or others, you should practice so that it doesn’t emerge in the future.
+114Or it may be that a monk is denigrating and controlling, envious and stingy, treacherous and deceitful, one who has bad desires and wrong views, or one who obstinately grasps his own views and only gives them up with difficulty. Such a monk is disrespectful and undeferential toward the Teacher, the Teaching, and the Saṅgha, and he doesn’t fulfill the training. Such a person makes accusations in the Saṅgha. Accusations are unbeneficial and a cause of unhappiness for humanity; they’re harmful, detrimental, and a cause of suffering for gods and humans. bhikkhus, when you see such a root of accusations either in yourself or others, you should make an effort to get rid of it. If you don’t see such a root either in yourself or others, you should practice so that it doesn’t emerge in the future.
 
 
-115What are the three unwholesome roots of accusations? It may be that monks, because of greed, ill will, or delusion, accuse a monk of failure in morality, conduct, view, or livelihood.
+115What are the three unwholesome roots of accusations? It may be that bhikkhus, because of greed, ill will, or delusion, accuse a monk of failure in morality, conduct, view, or livelihood.
 
-116What are the three wholesome roots of accusations? It may be that monks, because of non-greed, non-ill will, and non-delusion, accuse a monk of failure in morality, conduct, view, or livelihood.
+116What are the three wholesome roots of accusations? It may be that bhikkhus, because of non-greed, non-ill will, and non-delusion, accuse a monk of failure in morality, conduct, view, or livelihood.
 
 
 117How’s the body a root of legal issues arising from accusations? It may be that someone is ugly, unsightly, a dwarf, sickly, blind in one eye, crooked-limbed, lame, or paralyzed, and they blame him for that.
@@ -615,17 +615,17 @@ What are the six roots of disputes that in turn are the root of legal issues ari
 
 120(2d) What’s the root of legal issues arising from business? There’s one root of legal issues arising from business: the Saṅgha.
 
-121(3a) Is a legal issue arising from a dispute wholesome, unwholesome, or indeterminate? A legal issue arising from a dispute may be wholesome, unwholesome, or indeterminate. What’s a wholesome legal issue arising from a dispute? It may be that monks dispute with a wholesome mind, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’ … ‘This is a grave offense’, or ‘This is a minor offense.’ In regard to this, whatever there is of quarreling, arguing, conflict, disputing, variety in opinion, difference in opinion, heated speech, or strife - this is called a wholesome legal issue arising from a dispute.
+121(3a) Is a legal issue arising from a dispute wholesome, unwholesome, or indeterminate? A legal issue arising from a dispute may be wholesome, unwholesome, or indeterminate. What’s a wholesome legal issue arising from a dispute? It may be that bhikkhus dispute with a wholesome mind, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’ … ‘This is a grave offense’, or ‘This is a minor offense.’ In regard to this, whatever there is of quarreling, arguing, conflict, disputing, variety in opinion, difference in opinion, heated speech, or strife - this is called a wholesome legal issue arising from a dispute.
 
-122What’s an unwholesome legal issue arising from a dispute? It may be that monks dispute with an unwholesome mind, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’ … ‘This is a grave offense’, or ‘This is a minor offense.’ In regard to this, whatever there is of quarreling, arguing, conflict, disputing, variety in opinion, difference in opinion, heated speech, or strife— this is called an unwholesome legal issue arising from a dispute.
+122What’s an unwholesome legal issue arising from a dispute? It may be that bhikkhus dispute with an unwholesome mind, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’ … ‘This is a grave offense’, or ‘This is a minor offense.’ In regard to this, whatever there is of quarreling, arguing, conflict, disputing, variety in opinion, difference in opinion, heated speech, or strife— this is called an unwholesome legal issue arising from a dispute.
 
-123What’s an indeterminate legal issue arising from a dispute? It may be that monks dispute with an indeterminate mind, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’ … ‘This is a grave offense’, or ‘This is a minor offense.’ In regard to this, whatever there is of quarreling, arguing, conflict, disputing, variety in opinion, difference in opinion, heated speech, or strife— this is called an indeterminate legal issue arising from a dispute.
+123What’s an indeterminate legal issue arising from a dispute? It may be that bhikkhus dispute with an indeterminate mind, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’ … ‘This is a grave offense’, or ‘This is a minor offense.’ In regard to this, whatever there is of quarreling, arguing, conflict, disputing, variety in opinion, difference in opinion, heated speech, or strife— this is called an indeterminate legal issue arising from a dispute.
 
-124(3b) Is a legal issue arising from an accusation wholesome, unwholesome, or indeterminate? A legal issue arising from an accusation may be wholesome, unwholesome, or indeterminate. What’s a wholesome legal issue arising from an accusation? It may be that monks with wholesome minds accuse a monk of failure in morality, conduct, view, or livelihood. In regard to this, whatever there is of accusations, accusing, allegations, blame, taking sides because of friendship, taking part in the accusation, or supporting the accusation— this is called a wholesome legal issue arising from an accusation.
+124(3b) Is a legal issue arising from an accusation wholesome, unwholesome, or indeterminate? A legal issue arising from an accusation may be wholesome, unwholesome, or indeterminate. What’s a wholesome legal issue arising from an accusation? It may be that bhikkhus with wholesome minds accuse a monk of failure in morality, conduct, view, or livelihood. In regard to this, whatever there is of accusations, accusing, allegations, blame, taking sides because of friendship, taking part in the accusation, or supporting the accusation— this is called a wholesome legal issue arising from an accusation.
 
-125What’s an unwholesome legal issue arising from an accusation? It may be that monks with unwholesome minds accuse a monk of failure in morality, conduct, view, or livelihood. In regard to this, whatever there is of accusations, accusing, allegations, blame, taking sides because of friendship, taking part in the accusation, or supporting the accusation - this is called an unwholesome legal issue arising from an accusation.
+125What’s an unwholesome legal issue arising from an accusation? It may be that bhikkhus with unwholesome minds accuse a monk of failure in morality, conduct, view, or livelihood. In regard to this, whatever there is of accusations, accusing, allegations, blame, taking sides because of friendship, taking part in the accusation, or supporting the accusation - this is called an unwholesome legal issue arising from an accusation.
 
-126What’s an indeterminate legal issue arising from an accusation? It may be that monks with indeterminate minds accuse a monk of failure in morality, conduct, view, or livelihood. In regard to this, whatever there is of accusations, accusing, allegations, blame, taking sides because of friendship, taking part in the accusation, or supporting the accusation - this is called an indeterminate legal issue arising from an accusation.
+126What’s an indeterminate legal issue arising from an accusation? It may be that bhikkhus with indeterminate minds accuse a monk of failure in morality, conduct, view, or livelihood. In regard to this, whatever there is of accusations, accusing, allegations, blame, taking sides because of friendship, taking part in the accusation, or supporting the accusation - this is called an indeterminate legal issue arising from an accusation.
 
 
 127(3c) Is a legal issue arising from an offense wholesome, unwholesome, or indeterminate?
@@ -650,7 +650,7 @@ What’s a wholesome legal issue arising from business? When the Saṅgha does a
 
 There are disputes that are also legal issues arising from a dispute. There are disputes that aren’t also legal issues. There are legal issues that aren’t also disputes. There are legal issues that are also disputes.
 
-133How’s there a dispute that’s also a legal issue arising from a dispute? It may be that monks are disputing, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’ … ‘This is a grave offense’, or ‘This is a minor offense.’ In regard to this, whatever there is of quarreling, arguing, conflict, disputing, variety in opinion, difference in opinion, heated speech, or strife - this is a dispute that’s also a legal issue arising from a dispute.
+133How’s there a dispute that’s also a legal issue arising from a dispute? It may be that bhikkhus are disputing, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’ … ‘This is a grave offense’, or ‘This is a minor offense.’ In regard to this, whatever there is of quarreling, arguing, conflict, disputing, variety in opinion, difference in opinion, heated speech, or strife - this is a dispute that’s also a legal issue arising from a dispute.
 
 134How’s there a dispute that isn’t also a legal issue? A mother disputes with her offspring; an offspring with their mother; a father with his offspring; an offspring with their father; a brother with his brother; a brother with his sister; a sister with her brother; a friend with their friend - this is a dispute that isn’t also a legal issue.
 
@@ -664,7 +664,7 @@ There are disputes that are also legal issues arising from a dispute. There are 
 There are accusations that are also legal issues arising from an accusation. There are accusations that aren’t also legal issues. There are legal issues that aren’t also accusations. There are legal issues that are also accusations.
 
 
-138How’s there an accusation that’s also a legal issue arising from an accusation? It may be that monks accuse a monk of failure in morality, conduct, view, or livelihood. In regard to this, whatever there is of accusations, accusing, allegations, blame, taking sides because of friendship, taking part in the accusation, or supporting the accusation - this is an accusation that’s also a legal issue arising from an accusation.
+138How’s there an accusation that’s also a legal issue arising from an accusation? It may be that bhikkhus accuse a monk of failure in morality, conduct, view, or livelihood. In regard to this, whatever there is of accusations, accusing, allegations, blame, taking sides because of friendship, taking part in the accusation, or supporting the accusation - this is an accusation that’s also a legal issue arising from an accusation.
 
 139How’s there an accusation that isn’t also a legal issue? A mother accuses her offspring; an offspring their mother; a father his offspring; an offspring their father; a brother his brother; a brother his sister; a sister her brother; a friend their friend - this is an accusation that isn’t also a legal issue.
 
@@ -710,12 +710,12 @@ There’s business that’s also a legal issue arising from business. There’s 
 
 #### 9.1 Resolution face-to-face
 
-152“There are two principles for settling a legal issue arising from a dispute: resolution face-to-face and majority decision. Is it possible that a legal issue arising from a dispute should be settled not by majority decision, but by resolution face-to-face? It is. How? It may be, monks, that monks are disputing, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’, ‘This is the Monastic Law’, ‘This is contrary to the Monastic Law’, ‘This was spoken by the Buddha’, ‘This wasn’t spoken by the Buddha’, ‘This was practiced by the Buddha’, ‘This wasn’t practiced by the Buddha’, ‘This was laid down by the Buddha’, ‘This wasn’t laid down by the Buddha’, ‘This is an offense’, ‘This isn’t an offense’, ‘This is a light offense’, ‘This is a heavy offense’, ‘This is a curable offense’, ‘This is an incurable offense’, ‘This is a grave offense’, or ‘This is a minor offense.’
+152“There are two principles for settling a legal issue arising from a dispute: resolution face-to-face and majority decision. Is it possible that a legal issue arising from a dispute should be settled not by majority decision, but by resolution face-to-face? It is. How? It may be, bhikkhus, that bhikkhus are disputing, saying, ‘This is the Teaching’, ‘This is contrary to the Teaching’, ‘This is the Monastic Law’, ‘This is contrary to the Monastic Law’, ‘This was spoken by the Buddha’, ‘This wasn’t spoken by the Buddha’, ‘This was practiced by the Buddha’, ‘This wasn’t practiced by the Buddha’, ‘This was laid down by the Buddha’, ‘This wasn’t laid down by the Buddha’, ‘This is an offense’, ‘This isn’t an offense’, ‘This is a light offense’, ‘This is a heavy offense’, ‘This is a curable offense’, ‘This is an incurable offense’, ‘This is a grave offense’, or ‘This is a minor offense.’
 
 
-153If those monks are able to resolve that legal issue, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned.
+153If those bhikkhus are able to resolve that legal issue, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned.
 
-This is the meaning of face-to-face with the Saṅgha: the monks who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision.
+This is the meaning of face-to-face with the Saṅgha: the bhikkhus who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision.
 
 This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved.
 
@@ -724,25 +724,25 @@ This is the meaning of face-to-face with the persons concerned: both sides—tho
 When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening. If anyone who gave their consent criticizes the resolution, they incur an offense entailing confession.
 
 
-154If those monks are unable to resolve that legal issue in that monastery, they should go to another monastery that has a number of monks. If they’re able to resolve that legal issue while on their way, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. …
+154If those bhikkhus are unable to resolve that legal issue in that monastery, they should go to another monastery that has a number of bhikkhus. If they’re able to resolve that legal issue while on their way, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. …
 
 
 When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening. If anyone who gave their consent criticizes the resolution, they incur an offense entailing confession.
 
-155If those monks are unable to resolve that legal issue while on their way, they should go to that other monastery and say to the resident monks, ‘This legal issue has come about in such-and-such a way. Please resolve it, Venerables, according to the Teaching, the Monastic Law, and the Teacher’s instruction, so that this legal issue may be properly disposed of.’
+155If those bhikkhus are unable to resolve that legal issue while on their way, they should go to that other monastery and say to the resident bhikkhus, ‘This legal issue has come about in such-and-such a way. Please resolve it, Venerables, according to the Teaching, the Monastic Law, and the Teacher’s instruction, so that this legal issue may be properly disposed of.’
 
-156If the resident monks are senior to the visiting monks, the resident monks should say, ‘Now, Venerables, please go to one side for a moment while we discuss this matter.’ If the visiting monks are senior to the resident monks, the resident monks should say, ‘Well then, Venerables, please wait right here for a moment while we discuss this matter.’
+156If the resident bhikkhus are senior to the visiting bhikkhus, the resident bhikkhus should say, ‘Now, Venerables, please go to one side for a moment while we discuss this matter.’ If the visiting bhikkhus are senior to the resident bhikkhus, the resident bhikkhus should say, ‘Well then, Venerables, please wait right here for a moment while we discuss this matter.’
 
-157If, while discussing that matter, the resident monks think, ‘We’re unable to resolve this legal issue according to the Teaching, the Monastic Law, and the Teacher’s instruction,’ then they shouldn’t take on that legal issue. But if they think, ‘We’re able to resolve this legal issue according to the Teaching, the Monastic Law, and the Teacher’s instruction,’ then they should say to the visiting monks, ‘If you’ll tell us how this legal issue came about, we’ll be able to dispose of it properly according to the Teaching, the Monastic Law, and the Teacher’s instruction. And so we’ll take it on. If, however, you won’t tell us, we won’t be able to properly dispose of it. And so we won’t take it on.’ Having properly examined it like this, the resident monks should take it on.
+157If, while discussing that matter, the resident bhikkhus think, ‘We’re unable to resolve this legal issue according to the Teaching, the Monastic Law, and the Teacher’s instruction,’ then they shouldn’t take on that legal issue. But if they think, ‘We’re able to resolve this legal issue according to the Teaching, the Monastic Law, and the Teacher’s instruction,’ then they should say to the visiting bhikkhus, ‘If you’ll tell us how this legal issue came about, we’ll be able to dispose of it properly according to the Teaching, the Monastic Law, and the Teacher’s instruction. And so we’ll take it on. If, however, you won’t tell us, we won’t be able to properly dispose of it. And so we won’t take it on.’ Having properly examined it like this, the resident bhikkhus should take it on.
 
-158The visiting monks should say this to the resident monks, ‘We’ll tell you how this legal issue came about. If you’re able to dispose of it properly by such and such means—according to the Teaching, the Monastic Law, and the Teacher’s instruction— then we’ll hand it over to you. If you’re unable to properly dispose of it by such and such means, then we won’t hand it over to you. We’ll take responsibility for it ourselves.’ Having properly examined it like this, the visiting monks should hand it over to the resident monks.
+158The visiting bhikkhus should say this to the resident bhikkhus, ‘We’ll tell you how this legal issue came about. If you’re able to dispose of it properly by such and such means—according to the Teaching, the Monastic Law, and the Teacher’s instruction— then we’ll hand it over to you. If you’re unable to properly dispose of it by such and such means, then we won’t hand it over to you. We’ll take responsibility for it ourselves.’ Having properly examined it like this, the visiting bhikkhus should hand it over to the resident bhikkhus.
 
 
-159If those monks are able to resolve that legal issue, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. … When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening. If anyone who gave their consent criticizes the resolution, they incur an offense entailing confession.”
+159If those bhikkhus are able to resolve that legal issue, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. … When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening. If anyone who gave their consent criticizes the resolution, they incur an offense entailing confession.”
 
 #### 9.2 Resolution by committee
 
-160“If, monks, while they’re discussing that legal issue, there’s endless talk, but not a single statement that's clear, then they should resolve that legal issue by means of a committee.
+160“If, bhikkhus, while they’re discussing that legal issue, there’s endless talk, but not a single statement that's clear, then they should resolve that legal issue by means of a committee.
 
 A monk who has ten qualities may be appointed to that committee:
 
@@ -779,24 +779,24 @@ Any monk who approves of appointing monk so-and-so and monk so-and-so to a commi
 
 163The Saṅgha has appointed monk so-and-so and monk so-and-so to a committee to resolve this legal issue. The Saṅgha approves and is therefore silent. I’ll remember it thus.’
 
-164If those monks are able to resolve that legal issue by committee, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Saṅgha: the monks who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both sides—those who are disputing and those they’re disputing with—are present. When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening.
+164If those bhikkhus are able to resolve that legal issue by committee, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Saṅgha: the bhikkhus who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both sides—those who are disputing and those they’re disputing with—are present. When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening.
 
 
-165While those monks are discussing that legal issue, there may be a monk there who’s an expounder of the Teaching, but who doesn’t know the Monastic Code or its analysis. Not understanding the meaning, he denies it by obscuring it with the wording. A competent and capable monk should then inform the Saṅgha:
+165While those bhikkhus are discussing that legal issue, there may be a monk there who’s an expounder of the Teaching, but who doesn’t know the Monastic Code or its analysis. Not understanding the meaning, he denies it by obscuring it with the wording. A competent and capable monk should then inform the Saṅgha:
 
 166‘Please, Venerables, I ask you to listen. The monk so-and-so is an expounder of the Teaching, but doesn’t know the Monastic Code or its analysis. Not understanding the meaning, he denies it by obscuring it with the wording. If it seems appropriate to you, we should ask monk so-and-so to leave, with the remainder of us resolving this legal issue.’
 
-167If, after that monk has left, those monks are able to resolve that legal issue, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. … When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening.
+167If, after that monk has left, those bhikkhus are able to resolve that legal issue, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. … When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening.
 
-168While those monks are discussing that legal issue, there may be a monk there who’s an expounder of the Teaching. He knows the Monastic Code, but not its analysis. Not understanding the meaning, he denies it by obscuring it with the wording. A competent and capable monk should then inform the Saṅgha:
+168While those bhikkhus are discussing that legal issue, there may be a monk there who’s an expounder of the Teaching. He knows the Monastic Code, but not its analysis. Not understanding the meaning, he denies it by obscuring it with the wording. A competent and capable monk should then inform the Saṅgha:
 
 169‘Please, Venerables, I ask you to listen. The monk so-and-so is an expounder of the Teaching. He knows the Monastic Code, but not its analysis. Not understanding the meaning, he denies it by obscuring it with the wording. If it seems appropriate to you, we should ask monk so-and-so to leave, with the remainder of us resolving this legal issue.’
 
-170If, after that monk has left, those monks are able to resolve that legal issue, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. … When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening.”
+170If, after that monk has left, those bhikkhus are able to resolve that legal issue, this is called the resolution of a legal issue. It’s been resolved face-to-face. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. … When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening.”
 
 #### 9.3 Resolution by majority decision
 
-171“If, monks, those monks are unable to resolve that legal issue by committee, they should hand it over to the Saṅgha, saying, ‘Venerables, we’re unable to resolve this legal issue by committee. Can the Saṅgha please resolve it.’ I allow such a legal issue to be resolved by majority decision. A monk who has five qualities should be appointed as the manager of the vote: one who isn’t swayed by desire, ill will, confusion, or fear, and who knows who has and who hasn't voted. And he should be appointed like this. First a monk should be asked, and then a competent and capable monk should inform the Saṅgha:
+171“If, bhikkhus, those bhikkhus are unable to resolve that legal issue by committee, they should hand it over to the Saṅgha, saying, ‘Venerables, we’re unable to resolve this legal issue by committee. Can the Saṅgha please resolve it.’ I allow such a legal issue to be resolved by majority decision. A monk who has five qualities should be appointed as the manager of the vote: one who isn’t swayed by desire, ill will, confusion, or fear, and who knows who has and who hasn't voted. And he should be appointed like this. First a monk should be asked, and then a competent and capable monk should inform the Saṅgha:
 
 
 172‘Please, Venerables, I ask the Saṅgha to listen. If it seems appropriate to the Saṅgha, the Saṅgha should appoint monk so-and-so as the manager of the vote. This is the motion.
@@ -805,9 +805,9 @@ Any monk who approves of appointing monk so-and-so and monk so-and-so to a commi
 
 174The Saṅgha has appointed monk so-and-so as the manager of the vote. The Saṅgha approves and is therefore silent. I’ll remember it thus.’
 
-175That monk should then distribute the ballots. If the majority of monks vote in accordance with the Teaching, then that legal issue has been resolved. This is called the resolution of a legal issue. It’s been resolved face-to-face and by majority decision. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned.
+175That monk should then distribute the ballots. If the majority of bhikkhus vote in accordance with the Teaching, then that legal issue has been resolved. This is called the resolution of a legal issue. It’s been resolved face-to-face and by majority decision. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned.
 
-This is the meaning of face-to-face with the Saṅgha: the monks who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision.
+This is the meaning of face-to-face with the Saṅgha: the bhikkhus who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision.
 
 This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved.
 
@@ -817,32 +817,32 @@ This is the meaning of by majority decision: the doing of, the performing of, th
 
 #### 9.4 The three kinds of voting
 
-176At one time at Sāvatthī a legal issue had come about in this way. But those monks were dissatisfied with how the Saṅgha at Sāvatthī had resolved it. They heard that in a certain monastery there was a number of senior monks who were learned and masters of the tradition; who were experts on the Teaching, the Monastic Law, and the Key Terms; who were knowledgeable and competent, had a sense of conscience, and were afraid of wrongdoing and fond of the training. They thought: “If these senior monks resolve this legal issue—according to the Teaching, the Monastic Law, and the Teacher’s instruction—then it will be properly disposed of.” They then went to that monastery and said to those senior monks: “This legal issue has come about like this. It would be good, Venerables, if you would resolve it—according to the Teaching, the Monastic Law, and the Teacher’s instruction—so that it’ll be properly disposed of.” Those senior monks thought: “This legal issue was properly disposed of by the Saṅgha at Sāvatthī,” and they resolved it in the same way.
+176At one time at Sāvatthī a legal issue had come about in this way. But those bhikkhus were dissatisfied with how the Saṅgha at Sāvatthī had resolved it. They heard that in a certain monastery there was a number of senior bhikkhus who were learned and masters of the tradition; who were experts on the Teaching, the Monastic Law, and the Key Terms; who were knowledgeable and competent, had a sense of conscience, and were afraid of wrongdoing and fond of the training. They thought: “If these senior bhikkhus resolve this legal issue—according to the Teaching, the Monastic Law, and the Teacher’s instruction—then it will be properly disposed of.” They then went to that monastery and said to those senior bhikkhus: “This legal issue has come about like this. It would be good, Venerables, if you would resolve it—according to the Teaching, the Monastic Law, and the Teacher’s instruction—so that it’ll be properly disposed of.” Those senior bhikkhus thought: “This legal issue was properly disposed of by the Saṅgha at Sāvatthī,” and they resolved it in the same way.
 
 
-177Those monks were dissatisfied with how the Saṅgha at Sāvatthī had resolved that legal issue and also with how that number of senior monks had resolved it. They then heard that in a certain monastery there were three senior monks … two senior monks … one senior monk who was learned and a master of the tradition; who was an expert on the Teaching, the Monastic Law, and the Key Terms; who was knowledgeable and competent, had a sense of conscience, and was afraid of wrongdoing and fond of the training. They thought: “If this senior monk resolves this legal issue—according to the Teaching, the Monastic Law, and the Teacher’s instruction—then it will be properly disposed of.” They then went to that monastery and said to that senior monk: “This legal issue has come about in this way. It would be good, Venerable, if you would resolve it—according to the Teaching, the Monastic Law, and the Teacher’s instruction—so that it will be properly disposed of.” That senior monk thought: “This legal issue was properly disposed of by the Saṅgha at Sāvatthī, and likewise by that number of senior monks, by those three senior monks, and by those two senior monks,” and he disposed of it in the same way.
+177Those bhikkhus were dissatisfied with how the Saṅgha at Sāvatthī had resolved that legal issue and also with how that number of senior bhikkhus had resolved it. They then heard that in a certain monastery there were three senior bhikkhus … two senior bhikkhus … one senior monk who was learned and a master of the tradition; who was an expert on the Teaching, the Monastic Law, and the Key Terms; who was knowledgeable and competent, had a sense of conscience, and was afraid of wrongdoing and fond of the training. They thought: “If this senior monk resolves this legal issue—according to the Teaching, the Monastic Law, and the Teacher’s instruction—then it will be properly disposed of.” They then went to that monastery and said to that senior monk: “This legal issue has come about in this way. It would be good, Venerable, if you would resolve it—according to the Teaching, the Monastic Law, and the Teacher’s instruction—so that it will be properly disposed of.” That senior monk thought: “This legal issue was properly disposed of by the Saṅgha at Sāvatthī, and likewise by that number of senior bhikkhus, by those three senior bhikkhus, and by those two senior bhikkhus,” and he disposed of it in the same way.
 
 
-178Since those monks were dissatisfied with how all of these had disposed of that legal issue, they went to the Buddha and told him what had happened. …
+178Since those bhikkhus were dissatisfied with how all of these had disposed of that legal issue, they went to the Buddha and told him what had happened. …
 
 
-179The Buddha said: “Monks, this legal issue has been settled, laid to rest, and properly disposed of. To persuade those monks, I allow three kinds of voting: a secret ballot, whispering in the ear, and an open vote.
+179The Buddha said: “bhikkhus, this legal issue has been settled, laid to rest, and properly disposed of. To persuade those bhikkhus, I allow three kinds of voting: a secret ballot, whispering in the ear, and an open vote.
 
-180What’s a secret ballot? The manager of the vote should make ballots of two different colors, go up to the monks one by one and say, ‘This is the ballot for those who hold this view, and this is the ballot for those who hold that view. Take the one you like.’ When anyone has taken a ballot, they should be told, ‘Don’t show it to anyone.’ If the manager knows that those who speak contrary to the Teaching are in the majority, then the vote is invalid and to be postponed. If he knows that those who speak in accordance with the Teaching are in the majority, then the vote is valid and to be announced.
+180What’s a secret ballot? The manager of the vote should make ballots of two different colors, go up to the bhikkhus one by one and say, ‘This is the ballot for those who hold this view, and this is the ballot for those who hold that view. Take the one you like.’ When anyone has taken a ballot, they should be told, ‘Don’t show it to anyone.’ If the manager knows that those who speak contrary to the Teaching are in the majority, then the vote is invalid and to be postponed. If he knows that those who speak in accordance with the Teaching are in the majority, then the vote is valid and to be announced.
 
-181What’s voting by whispering in the ear? The manager of the vote should inform the monks one by one by whispering in the ear, ‘This is the ballot for those who hold this view, and this is the ballot for those who hold that view. Take the one you like.’ When someone has taken a ballot, they should be told, ‘Don’t tell anyone.’ If the manager knows that those who speak contrary to the Teaching are in the majority, then the vote is invalid and to be postponed. If he knows that those who speak in accordance with the Teaching are in the majority, then the vote is valid and to be announced.
+181What’s voting by whispering in the ear? The manager of the vote should inform the bhikkhus one by one by whispering in the ear, ‘This is the ballot for those who hold this view, and this is the ballot for those who hold that view. Take the one you like.’ When someone has taken a ballot, they should be told, ‘Don’t tell anyone.’ If the manager knows that those who speak contrary to the Teaching are in the majority, then the vote is invalid and to be postponed. If he knows that those who speak in accordance with the Teaching are in the majority, then the vote is valid and to be announced.
 
 182What’s an open vote? If he knows that those who speak in accordance with the Teaching are in the majority, the ballots should be distributed openly.”
 
 #### 9.5 Resolution through recollection
 
-183“There are four principles for settling a legal issue arising from an accusation: resolution face-to-face, resolution through recollection, resolution because of past insanity, and by further penalty. Is it possible that a legal issue arising from an accusation should be settled not by resolution because of past insanity or by further penalty, but by resolution face-to-face and by resolution through recollection? It is. How? It may be that monks are groundlessly charging a monk with failure in morality. If that monk has great clarity of memory, he’s to be granted resolution through recollection. And it should be granted like this.
+183“There are four principles for settling a legal issue arising from an accusation: resolution face-to-face, resolution through recollection, resolution because of past insanity, and by further penalty. Is it possible that a legal issue arising from an accusation should be settled not by resolution because of past insanity or by further penalty, but by resolution face-to-face and by resolution through recollection? It is. How? It may be that bhikkhus are groundlessly charging a monk with failure in morality. If that monk has great clarity of memory, he’s to be granted resolution through recollection. And it should be granted like this.
 
-184That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say: ‘Venerables, monks are groundlessly charging me with failure in morality. Because of my great clarity of memory, I ask the Saṅgha for resolution through recollection.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
+184That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say: ‘Venerables, bhikkhus are groundlessly charging me with failure in morality. Because of my great clarity of memory, I ask the Saṅgha for resolution through recollection.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
-185‘Please, Venerables, I ask the Saṅgha to listen. Monks are groundlessly charging monk so-and-so with failure in morality. Because of his great clarity of memory, he’s asking the Saṅgha for resolution through recollection. If it seems appropriate to the Saṅgha, the Saṅgha should grant him resolution through recollection. This is the motion.
+185‘Please, Venerables, I ask the Saṅgha to listen. bhikkhus are groundlessly charging monk so-and-so with failure in morality. Because of his great clarity of memory, he’s asking the Saṅgha for resolution through recollection. If it seems appropriate to the Saṅgha, the Saṅgha should grant him resolution through recollection. This is the motion.
 
-186Please, Venerables, I ask the Saṅgha to listen. Monks are groundlessly charging monk so-and-so with failure in morality. Because of his great clarity of memory, he’s asking the Saṅgha for resolution through recollection. The Saṅgha grants him resolution through recollection. Any monk who approves of granting him resolution through recollection should remain silent. Any monk who doesn’t approve should speak up.
+186Please, Venerables, I ask the Saṅgha to listen. bhikkhus are groundlessly charging monk so-and-so with failure in morality. Because of his great clarity of memory, he’s asking the Saṅgha for resolution through recollection. The Saṅgha grants him resolution through recollection. Any monk who approves of granting him resolution through recollection should remain silent. Any monk who doesn’t approve should speak up.
 
 
 187For the second time I speak on this matter. … For the third time I speak on this matter. …
@@ -850,29 +850,29 @@ This is the meaning of by majority decision: the doing of, the performing of, th
 188Because of his great clarity of memory, the Saṅgha has granted monk so-and-so resolution through recollection. The Saṅgha approves and is therefore silent. I’ll remember it thus.’
 
 
-189This is called the resolution of a legal issue. It’s been resolved by resolution face-to-face and by resolution through recollection. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Saṅgha: the monks who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both those who are accusing and those who have been accused are present.
+189This is called the resolution of a legal issue. It’s been resolved by resolution face-to-face and by resolution through recollection. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Saṅgha: the bhikkhus who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both those who are accusing and those who have been accused are present.
 
 This is the meaning of resolution through recollection: the doing of, the performing of, the participation in, the consent to, the agreement to, the non-objection to that legal procedure of resolution through recollection. When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening. If anyone who gave their consent criticizes the resolution, they incur an offense entailing confession.”
 
 #### 9.6 Resolution because of past insanity
 
-190“Is it possible that a legal issue arising from an accusation should be settled not by resolution through recollection or by further penalty, but by resolution face-to-face and by resolution because of past insanity? It is. How? It may be that a monk is insane and suffering from psychosis. Because of that, he does and says many things unworthy of a monastic. Monks accuse him of an offense, saying, ‘Venerable, do you remember committing such-and-such an offense?’ He replies, ‘I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.’ But they still accused him in the same way. If he’s no longer insane, that monk should be granted resolution because of past insanity. And it should be granted like this.
+190“Is it possible that a legal issue arising from an accusation should be settled not by resolution through recollection or by further penalty, but by resolution face-to-face and by resolution because of past insanity? It is. How? It may be that a monk is insane and suffering from psychosis. Because of that, he does and says many things unworthy of a monastic. bhikkhus accuse him of an offense, saying, ‘Venerable, do you remember committing such-and-such an offense?’ He replies, ‘I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.’ But they still accused him in the same way. If he’s no longer insane, that monk should be granted resolution because of past insanity. And it should be granted like this.
 
 
-191That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+191That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
-‘Venerables, I’ve been insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. Monks accused me of an offense, saying: “Venerable, do you remember committing such-and-such an offense?” I replied: “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.” But they still accused me in the same way. Because I’m no longer insane, I ask the Saṅgha for resolution because of past insanity.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
+‘Venerables, I’ve been insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. bhikkhus accused me of an offense, saying: “Venerable, do you remember committing such-and-such an offense?” I replied: “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.” But they still accused me in the same way. Because I’m no longer insane, I ask the Saṅgha for resolution because of past insanity.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
-192‘Please, Venerables, I ask the Saṅgha to listen. The monk so-and-so has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. Monks accused him of an offense, saying: “Venerable, do you remember committing such-and-such an offense?” He replied: “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.” But they still accused him in the same way. Because he’s no longer insane, he’s asking the Saṅgha for resolution because of past insanity. If it seems appropriate to the Saṅgha, the Saṅgha should grant monk so-and-so resolution because of past insanity. This is the motion.
+192‘Please, Venerables, I ask the Saṅgha to listen. The monk so-and-so has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. bhikkhus accused him of an offense, saying: “Venerable, do you remember committing such-and-such an offense?” He replied: “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.” But they still accused him in the same way. Because he’s no longer insane, he’s asking the Saṅgha for resolution because of past insanity. If it seems appropriate to the Saṅgha, the Saṅgha should grant monk so-and-so resolution because of past insanity. This is the motion.
 
-193Please, Venerables, I ask the Saṅgha to listen. The monk so-and-so has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. Monks accused him of an offense, saying: “Venerable, do you remember committing such-and-such an offense?” He replied: “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.” But they still accused him in the same way. Because he’s no longer insane, he’s asking the Saṅgha for resolution because of past insanity. The Saṅgha grants monk so-and-so resolution because of past insanity. Any monk who approves of granting monk so-and-so resolution because of past insanity should remain silent. Any monk who doesn’t approve should speak up.
+193Please, Venerables, I ask the Saṅgha to listen. The monk so-and-so has been insane and suffering from psychosis. Because of that, he did and said many things unworthy of a monastic. bhikkhus accused him of an offense, saying: “Venerable, do you remember committing such-and-such an offense?” He replied: “I was insane and suffering from psychosis. Because of that, I did and said many things unworthy of a monastic. I don’t remember it. I did it because I was insane.” But they still accused him in the same way. Because he’s no longer insane, he’s asking the Saṅgha for resolution because of past insanity. The Saṅgha grants monk so-and-so resolution because of past insanity. Any monk who approves of granting monk so-and-so resolution because of past insanity should remain silent. Any monk who doesn’t approve should speak up.
 
 194For the second time I speak on this matter. … For the third time I speak on this matter. …
 
 195Because he’s no longer insane, the Saṅgha has granted monk so-and-so resolution because of past insanity. The Saṅgha approves and is therefore silent. I’ll remember it thus.’
 
 
-196This is called the resolution of a legal issue. It’s been resolved by resolution face-to-face and by resolution because of past insanity. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Saṅgha: the monks who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both those who are accusing and those who have been accused are present.
+196This is called the resolution of a legal issue. It’s been resolved by resolution face-to-face and by resolution because of past insanity. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Saṅgha: the bhikkhus who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both those who are accusing and those who have been accused are present.
 
 This is the meaning of resolution because of past insanity: the doing of, the performing of, the participation in, the consent to, the agreement to, the non-objection to that legal procedure of resolution because of past insanity. When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening. If anyone who gave their consent criticizes the resolution, they incur an offense entailing confession.”
 
@@ -893,7 +893,7 @@ They should do a legal procedure of further penalty against that monk. And it sh
 201The Saṅgha has done a legal procedure of further penalty against monk so-and-so. The Saṅgha approves and is therefore silent. I’ll remember it thus.’
 
 
-202This is called the resolution of a legal issue. It’s been resolved face-to-face and by further penalty. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Saṅgha: the monks who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both those who are accusing and those who have been accused are present. This is the meaning of ‘by further penalty’: the doing of, the performing of, the participation in, the consent to, the agreement to, the non-objection to that legal procedure of further penalty. When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening. If anyone who gave their consent criticizes the resolution, they incur an offense entailing confession.”
+202This is called the resolution of a legal issue. It’s been resolved face-to-face and by further penalty. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Saṅgha: the bhikkhus who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both those who are accusing and those who have been accused are present. This is the meaning of ‘by further penalty’: the doing of, the performing of, the participation in, the consent to, the agreement to, the non-objection to that legal procedure of further penalty. When a legal issue has been resolved like this, if any of the participants reopen it, they incur an offense entailing confession for the reopening. If anyone who gave their consent criticizes the resolution, they incur an offense entailing confession.”
 
 #### 9.8 Acting according to what has been admitted
 
@@ -905,7 +905,7 @@ They should do a legal procedure of further penalty against that monk. And it sh
 204This is called the resolution of a legal issue. It’s been resolved face-to-face and by acting according to what’s been admitted. Face-to-face with what? Face-to-face with the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction—that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both the one who confesses and the one he confesses to are present. This is the meaning of acting according to what’s been admitted: the doing of, the performing of, the participation in, the consent to, the agreement to, the non-objection to that legal procedure of acting according to what’s been admitted. When a legal issue has been resolved like this, if the receiver of the confession reopens it, he incurs an offense entailing confession for the reopening.
 
 
-“If this is what happens, all’s well. If not, that monk should approach several monks, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say, ‘Venerables, I’ve committed such-and-such an offense. I confess it.’ A competent and capable monk should then inform those monks:
+“If this is what happens, all’s well. If not, that monk should approach several bhikkhus, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say, ‘Venerables, I’ve committed such-and-such an offense. I confess it.’ A competent and capable monk should then inform those bhikkhus:
 
 205‘Please, Venerables, I ask you to listen. The monk so-and-so remembers an offense, he reveals it, makes it plain, and confesses it. If it seems appropriate to you, I’ll receive his confession.’ And he should say:
 
@@ -913,31 +913,31 @@ They should do a legal procedure of further penalty against that monk. And it sh
 
 206This is called the resolution of a legal issue. It’s been resolved face-to-face and by acting according to what’s been admitted. Face-to-face with what? Face-to-face with the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction, that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both the one who confesses and the one he confesses to are present. This is the meaning of acting according to what’s been admitted: the doing of, the performing of, the participation in, the consent to, the agreement to, the non-objection to that legal procedure of acting according to what’s been admitted. When a legal issue has been resolved like this, if the receiver of the confession reopens it, he incurs an offense entailing confession for the reopening.
 
-“If this is what happens, all’s well. If not, that monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say, ‘Venerables, I’ve committed such-and-such an offense. I confess it.’ A competent and capable monk should then inform the Saṅgha:
+“If this is what happens, all’s well. If not, that monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say, ‘Venerables, I’ve committed such-and-such an offense. I confess it.’ A competent and capable monk should then inform the Saṅgha:
 
 207‘Please, Venerables, I ask the Saṅgha to listen. The monk so-and-so remembers an offense, he reveals it, makes it plain, and confesses it. If it seems appropriate to the Saṅgha, I’ll receive his confession.’ And he should say:
 
 ‘Do you recognize that offense?’ ‘Yes, I recognize it.’ ‘You should restrain yourself in the future.’
 
 
-208his is called the resolution of a legal issue. It’s been resolved face-to-face and by acting according to what’s been admitted. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Saṅgha: the monks who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both the one who confesses and the one he confesses to are present. This is the meaning of acting according to what’s been admitted: the doing of, the performing of, the participation in, the consent to, the agreement to, the non-objection to that legal procedure of acting according to what’s been admitted. When a legal issue has been resolved like this, if the receiver of the confession reopens it, he incurs an offense entailing confession for the reopening. If anyone who gave their consent criticizes the resolution, they incur an offense entailing confession.”
+208his is called the resolution of a legal issue. It’s been resolved face-to-face and by acting according to what’s been admitted. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned. This is the meaning of face-to-face with the Saṅgha: the bhikkhus who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision. This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction that by which that legal issue is resolved. This is the meaning of face-to-face with the persons concerned: both the one who confesses and the one he confesses to are present. This is the meaning of acting according to what’s been admitted: the doing of, the performing of, the participation in, the consent to, the agreement to, the non-objection to that legal procedure of acting according to what’s been admitted. When a legal issue has been resolved like this, if the receiver of the confession reopens it, he incurs an offense entailing confession for the reopening. If anyone who gave their consent criticizes the resolution, they incur an offense entailing confession.”
 
 #### 9.9 Covering over as if with grass
 
-209“Is it possible that a legal issue arising from an offense should be settled not by acting according to what’s been admitted, but by resolution face-to-face and by covering over as if with grass? It is. How? It may be that monks who are arguing and disputing do and say many things unworthy of monastics. If they consider this and think, ‘If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism,’ then I allow you to resolve this legal issue by covering over as if with grass.
+209“Is it possible that a legal issue arising from an offense should be settled not by acting according to what’s been admitted, but by resolution face-to-face and by covering over as if with grass? It is. How? It may be that bhikkhus who are arguing and disputing do and say many things unworthy of monastics. If they consider this and think, ‘If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism,’ then I allow you to resolve this legal issue by covering over as if with grass.
 
 And it should be resolved like this. Everyone should gather in one place. A competent and capable monk should then inform the Saṅgha:
 
 
 210‘Please, Venerables, I ask the Saṅgha to listen. While we were arguing and disputing, we did and said many things unworthy of monastics. If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism. If it seems appropriate to the Saṅgha, the Saṅgha should resolve this legal issue by covering over as if with grass, except for heavy offenses and offenses connected with householders.’
 
-The monks belonging to one side should be informed by a competent and capable monk belonging to their own side:
+The bhikkhus belonging to one side should be informed by a competent and capable monk belonging to their own side:
 
 
 211‘Please, Venerables, I ask you to listen. While we were arguing and disputing, we did and said many things unworthy of monastics. If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism. If it seems appropriate to you, then for your benefit and for my own, I’ll confess in the midst of the Saṅgha both your and my own offenses by covering over as if with grass, except for heavy offenses and offenses connected with householders.’
 
 
-212The monks belonging to the other side should be informed by a competent and capable monk belonging to their own side:
+212The bhikkhus belonging to the other side should be informed by a competent and capable monk belonging to their own side:
 
 213‘Please, Venerables, I ask you to listen. While we were arguing and disputing, we did and said many things unworthy of monastics. If we deal with one another for these offenses, this legal issue might lead to harshness, nastiness, and schism. If it seems appropriate to you, then for your benefit and for my own, I’ll confess in the midst of the Saṅgha both your and my own offenses by covering over as if with grass, except for heavy offenses and offenses connected with householders.’
 
@@ -965,7 +965,7 @@ We have confessed our offenses in the midst of the Saṅgha by covering over as 
 
 219This is called the resolution of a legal issue. It’s been resolved face-to-face and by covering over as if with grass. Face-to-face with what? Face-to-face with the Saṅgha, the Teaching, the Monastic Law, and the persons concerned.
 
-220This is the meaning of face-to-face with the Saṅgha: the monks who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision.
+220This is the meaning of face-to-face with the Saṅgha: the bhikkhus who should be present have arrived, consent has been brought for those who are eligible to give their consent, and no one present objects to the decision.
 
 221This is the meaning of face-to-face with the Teaching and the Monastic Law: the Teaching, the Monastic Law, the Teacher’s instruction, that by which that legal issue is resolved.
 

@@ -179,7 +179,7 @@ When this was said, the bhikkhu Sāti, son of a fisherman, sat silent, dismayed,
 
 31-38. “Here, bhikkhus, a Tathāgata appears in the world, accomplished, fully enlightened…(as Sutta 27, [[Raw files/Wisdom publications/02 - MAJJHIMA NIKAYA - The Middle Length Discourses of the Buddha_Bhikkhu Bodhi/Part One - The Root Fifty Discourses/Chapter 3 - The Division of Similes/27 - Cūḷahatthipadopama Sutta|§§11-18]]) \[268-69\]…he purifies his mind from doubt. \[270\]
 
-39\. “Having thus abandoned these five hindrances, imperfections of the mind that weaken wisdom, quite secluded from sensual pleasures, secluded from unwholesome states, he enters upon and abides in the first jhāna…With the stilling of applied and sustained thought, he enters upon and abides in the second jhāna…With the fading away as well of rapture…he enters upon and abides in the third jhāna…With the abandoning of pleasure and pain…he enters upon and abides in the fourth jhāna…which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity.
+39\. “Having thus abandoned these five hindrances, imperfections of the mind that weaken wisdom, ![[Jhanas]].
 
 ## (THE ENDING OF THE ROUND: FULL CESSATION)
 

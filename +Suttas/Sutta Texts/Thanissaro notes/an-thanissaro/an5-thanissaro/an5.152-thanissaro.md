@@ -15,7 +15,7 @@ language: "English"
 ## ## Saddhamma-niyāma Sutta
 
 
-“Monks, endowed with five qualities, even though listening to the True Dhamma, one is incapable of alighting on the orderliness, on the rightness of skillful qualities. Which five?
+“bhikkhus, endowed with five qualities, even though listening to the True Dhamma, one is incapable of alighting on the orderliness, on the rightness of skillful qualities. Which five?
 
 ”One holds the talk in contempt.
 

@@ -20,67 +20,67 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying at Nādika in the brick house. There the Buddha addressed the mendicants: “Mendicants!”
+1At one time the Buddha was staying at Nādika in the brick house. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, when mindfulness of death is developed and cultivated it’s very fruitful and beneficial. It culminates in the deathless and ends with the deathless. But do you develop mindfulness of death?”
+“bhikkhus, when mindfulness of death is developed and cultivated it’s very fruitful and beneficial. It culminates in the deathless and ends with the deathless. But do you develop mindfulness of death?”
 
 
-2When he said this, one of the mendicants said to the Buddha: “Sir, I develop mindfulness of death.”
+2When he said this, one of the bhikkhus said to the Buddha: “Sir, I develop mindfulness of death.”
 
-“But mendicant, how do you develop it?”
+“But bhikkhu, how do you develop it?”
 
 “In this case, sir, I think: ‘Oh, if I’d only live for another day and night, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ That’s how I develop mindfulness of death.”
 
-3Another mendicant said to the Buddha: “Sir, I too develop mindfulness of death.”
+3Another bhikkhu said to the Buddha: “Sir, I too develop mindfulness of death.”
 
-“But mendicant, how do you develop it?”
+“But bhikkhu, how do you develop it?”
 
 “In this case, sir, I think: ‘Oh, if I’d only live for another day, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ That’s how I develop mindfulness of death.”
 
-4Another mendicant said to the Buddha: “Sir, I too develop mindfulness of death.”
+4Another bhikkhu said to the Buddha: “Sir, I too develop mindfulness of death.”
 
-“But mendicant, how do you develop it?”
+“But bhikkhu, how do you develop it?”
 
 “In this case, sir, I think: ‘Oh, if I’d only live for half a day, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ That’s how I develop mindfulness of death.”
 
-5Another mendicant said to the Buddha: “Sir, I too develop mindfulness of death.”
+5Another bhikkhu said to the Buddha: “Sir, I too develop mindfulness of death.”
 
-“But mendicant, how do you develop it?”
+“But bhikkhu, how do you develop it?”
 
 “In this case, sir, I think: ‘Oh, if I’d only live as long as it takes to eat a meal of alms-food, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ That’s how I develop mindfulness of death.”
 
-6Another mendicant said to the Buddha: “Sir, I too develop mindfulness of death.”
+6Another bhikkhu said to the Buddha: “Sir, I too develop mindfulness of death.”
 
-“But mendicant, how do you develop it?”
+“But bhikkhu, how do you develop it?”
 
 “In this case, sir, I think: ‘Oh, if I’d only live as long as it takes to eat half a meal of alms-food, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ That’s how I develop mindfulness of death.”
 
-7Another mendicant said to the Buddha: “Sir, I too develop mindfulness of death.”
+7Another bhikkhu said to the Buddha: “Sir, I too develop mindfulness of death.”
 
-“But mendicant, how do you develop it?”
+“But bhikkhu, how do you develop it?”
 
 “In this case, sir, I think: ‘Oh, if I’d only live as long as it takes to chew and swallow four or five mouthfuls, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ That’s how I develop mindfulness of death.”
 
-8Another mendicant said to the Buddha: “Sir, I too develop mindfulness of death.”
+8Another bhikkhu said to the Buddha: “Sir, I too develop mindfulness of death.”
 
-“But mendicant, how do you develop it?”
+“But bhikkhu, how do you develop it?”
 
 “In this case, sir, I think: ‘Oh, if I’d only live as long as it takes to chew and swallow a single mouthful, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ That’s how I develop mindfulness of death.”
 
-9Another mendicant said to the Buddha: “Sir, I too develop mindfulness of death.”
+9Another bhikkhu said to the Buddha: “Sir, I too develop mindfulness of death.”
 
-“But mendicant, how do you develop it?”
+“But bhikkhu, how do you develop it?”
 
 “In this case, sir, I think: ‘Oh, if I’d only live as long as it takes to breathe out after breathing in, or to breathe in after breathing out, I’d focus on the Buddha’s instructions and I could really achieve a lot.’ That’s how I develop mindfulness of death.”
 
 
-10When this was said, the Buddha said to those mendicants:
+10When this was said, the Buddha said to those bhikkhus:
 
-“The mendicants who develop mindfulness of death by wishing to live for a day and night … or to live for a day … or to live for half a day … or to live as long as it takes to eat a meal of alms-food … or to live as long as it takes to eat half a meal of alms-food … or to live as long as it takes to chew and swallow four or five mouthfuls … These are called mendicants who live negligently. They slackly develop mindfulness of death for the ending of defilements.
+“The bhikkhus who develop mindfulness of death by wishing to live for a day and night … or to live for a day … or to live for half a day … or to live as long as it takes to eat a meal of alms-food … or to live as long as it takes to eat half a meal of alms-food … or to live as long as it takes to chew and swallow four or five mouthfuls … These are called bhikkhus who live negligently. They slackly develop mindfulness of death for the ending of defilements.
 
-11But the mendicants who develop mindfulness of death by wishing to live as long as it takes to chew and swallow a single mouthful … or to live as long as it takes to breathe out after breathing in, or to breathe in after breathing out … These are called mendicants who live diligently. They keenly develop mindfulness of death for the ending of defilements.
+11But the bhikkhus who develop mindfulness of death by wishing to live as long as it takes to chew and swallow a single mouthful … or to live as long as it takes to breathe out after breathing in, or to breathe in after breathing out … These are called bhikkhus who live diligently. They keenly develop mindfulness of death for the ending of defilements.
 
 12So you should train like this: ‘We will live diligently. We will keenly develop mindfulness of death for the ending of defilements.’ That’s how you should train.”
 

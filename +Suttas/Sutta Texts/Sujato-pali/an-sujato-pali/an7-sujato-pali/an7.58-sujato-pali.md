@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are four areas where the Realized One has nothing to hide, and three ways he is irreproachable.
+1“bhikkhus, there are four areas where the Realized One has nothing to hide, and three ways he is irreproachable.
 
 What are the four areas where the Realized One has nothing to hide?
 

@@ -45,9 +45,9 @@ _The conclusion of the sutta states that the sutta’s name comes from two facet
 
 * * *
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the monks, “Monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the bhikkhus, “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
 The Blessed One said: “On one occasion recently I was staying in Ukkaṭṭha in the Subhaga forest at the root of a royal Sal tree. Now on that occasion an evil viewpoint had arisen to Baka Brahmā: ‘This is constant. This is permanent. This is eternal. This is total. This is not subject to falling away—for this does not take birth, does not age, does not die, does not fall away, does not reappear.[1](#^mn49note01) And there is no other, higher escape.’ ^mn49note01-ref
 
@@ -55,7 +55,7 @@ The Blessed One said: “On one occasion recently I was staying in Ukkaṭṭha 
 
 “When this was said, I told Baka Brahmā, ‘How immersed in ignorance is Baka Brahmā! How immersed in ignorance is Baka Brahmā! — in that what is actually inconstant he calls “constant.” What is actually impermanent he calls “permanent.” What is actually non-eternal he calls “eternal.” What is actually partial he calls “total.” What is actually subject to falling away he calls “not subject to falling away.” Where one takes birth, ages, dies, falls away, and reappears, he says, “For here one does not take birth, does not age, does not die, does not fall away, does not reappear.” And there being another, higher escape, he says, “There is no other, higher escape.”’
 
-“Then Māra, the Evil One, taking possession of an attendant of the Brahmā assembly, said to me, ‘Monk! Monk! Don’t attack him! Don’t attack him! For this Brahmā, monk, is the Great Brahmā, the Conqueror, the Unconquered, the All-Seeing, All-Powerful, the Sovereign Lord, the Maker, Creator, Chief, Appointer and Ruler, Father of All That Have Been and Shall Be. There were, monk, before your time, contemplatives & brahmans in the world
+“Then Māra, the Evil One, taking possession of an attendant of the Brahmā assembly, said to me, ‘bhikkhu! bhikkhu! Don’t attack him! Don’t attack him! For this Brahmā, bhikkhu, is the Great Brahmā, the Conqueror, the Unconquered, the All-Seeing, All-Powerful, the Sovereign Lord, the Maker, Creator, Chief, Appointer and Ruler, Father of All That Have Been and Shall Be. There were, bhikkhu, before your time, contemplatives & brahmans in the world
 
 who found fault with earth and were disgusted with earth,
 
@@ -73,7 +73,7 @@ who found fault with Pajāpati and were disgusted with Pajāpati,[2](#^mn49note0
 
 who found fault with Brahmā and were disgusted with Brahmā.
 
-“‘They, with the break-up of the body, with the cutting off of life, were established in a coarse body.[3](#^mn49note03) There were, monk, before your time, contemplatives & brahmans in the world ^mn49note03-ref
+“‘They, with the break-up of the body, with the cutting off of life, were established in a coarse body.[3](#^mn49note03) There were, bhikkhu, before your time, contemplatives & brahmans in the world ^mn49note03-ref
 
 who praised earth and were delighted with earth,
 
@@ -91,17 +91,17 @@ who praised Pajāpati and were delighted with Pajāpati,
 
 who praised Brahmā and were delighted with Brahmā.
 
-“‘They, with the break-up of the body, with the cutting off of life, were established in a refined body. So I tell you, monk, “Please, good sir, do only as Brahmā says. Don’t defy the word of Brahmā. If you defy the word of Brahmā, then—as a man, when the goddess of fortune approaches, chases her away with a stick, or as a man, falling into hell, loses hold of the earth with his hands and feet—that will be what you have accomplished. Please, good sir, do only as Brahmā says. Don’t defy the word of Brahmā. Don’t you see that Brahmā’s assembly has gathered?”’ And so Māra the Evil One directed my attention to Brahmā’s assembly.
+“‘They, with the break-up of the body, with the cutting off of life, were established in a refined body. So I tell you, bhikkhu, “Please, good sir, do only as Brahmā says. Don’t defy the word of Brahmā. If you defy the word of Brahmā, then—as a man, when the goddess of fortune approaches, chases her away with a stick, or as a man, falling into hell, loses hold of the earth with his hands and feet—that will be what you have accomplished. Please, good sir, do only as Brahmā says. Don’t defy the word of Brahmā. Don’t you see that Brahmā’s assembly has gathered?”’ And so Māra the Evil One directed my attention to Brahmā’s assembly.
 
 “When this was said, I told Māra the Evil One, ‘I know you, Evil One. Don’t assume, “He doesn’t know me.” You are Māra, Evil One. And Brahmā, and Brahmā’s assembly, and the attendants of Brahmā’s assembly have all come into your hands. They have all come under your sway. And you think, “This one, too, has come into my hands, has come under my sway.” But, Evil One, I have neither come into your hands nor have I come under your sway.’
 
 “When this was said, Baka Brahmā told me, ‘But, good sir, what is actually constant I call “constant.” What is actually permanent I call “permanent.” What is actually eternal I call “eternal.” What is actually total I call “total.” What is actually not subject to falling away I call “not subject to falling away.” Where one does not take birth, age, die, fall away, or reappear, I say, “For this does not take birth, does not age, does not die, does not fall away, does not reappear.” And there being no other, higher escape, I say, “There is no other, higher escape.”
 
-“‘There were, monk, before your time, contemplatives & brahmans in the world whose ascetic practice lasted as long as your entire life span. They knew, when there was another, higher escape, that there was another, higher escape; or, when there was no other, higher escape, that there was no other, higher escape. So I tell you, monk, both that you will not find another, higher escape, and that, to that extent, you will reap your share of trouble & weariness. Monk, if you relish earth, you will lie close to me, lie within my domain, for me to banish and to do with as I like. If you relish liquid... fire... wind... beings... devas... Pajāpati... Brahmā, you will lie close to me, lie within my domain, for me to banish and to do with as I like.’
+“‘There were, bhikkhu, before your time, contemplatives & brahmans in the world whose ascetic practice lasted as long as your entire life span. They knew, when there was another, higher escape, that there was another, higher escape; or, when there was no other, higher escape, that there was no other, higher escape. So I tell you, bhikkhu, both that you will not find another, higher escape, and that, to that extent, you will reap your share of trouble & weariness. bhikkhu, if you relish earth, you will lie close to me, lie within my domain, for me to banish and to do with as I like. If you relish liquid... fire... wind... beings... devas... Pajāpati... Brahmā, you will lie close to me, lie within my domain, for me to banish and to do with as I like.’
 
 “‘I, too, know that, Brahmā. If I relish earth, I will lie close to you, lie within your domain, for you to banish and to do with as you like. If I relish liquid... fire... wind... beings... devas... Pajāpati... Brahmā, I will lie close to you, lie within your domain, for you to banish and to do with as you like. Moreover, I discern your sphere, I discern your splendor: “Baka Brahmā has this much great power. Baka Brahmā has this much great might. Baka Brahmā has this much great influence.”’
 
-“‘Well, monk, how do you discern my sphere, how do you discern my splendor: “Baka Brahmā has this much great power. Baka Brahmā has this much great might. Baka Brahmā has this much great influence”?’
+“‘Well, bhikkhu, how do you discern my sphere, how do you discern my splendor: “Baka Brahmā has this much great power. Baka Brahmā has this much great might. Baka Brahmā has this much great influence”?’
 
 “‘As far as suns & moons revolve,
 
@@ -147,7 +147,7 @@ has not been experienced through the earthness of earth... the liquidity of liqu
 
 “‘Well then, good sir, disappear from me if you can.’
 
-“So then, monks, I fabricated a fabrication of psychic power to the extent that Brahmā, the Brahmā assembly, and the attendants of the Brahmā assembly heard my voice but did not see me. Having disappeared, I recited this verse:
+“So then, bhikkhus, I fabricated a fabrication of psychic power to the extent that Brahmā, the Brahmā assembly, and the attendants of the Brahmā assembly heard my voice but did not see me. Having disappeared, I recited this verse:
 
 ‘Having seen
 
@@ -171,7 +171,7 @@ or cling to any delight.’
 
 “‘There were, good sir, before your time, contemplatives & brahmans in the world who claimed to be worthy & rightly self-awakened. They did not lead (lay) disciples or those gone forth. They did not teach the Dhamma to (lay) disciples or those gone forth. They did not yearn for (lay) disciples or those gone forth. Having not led (lay) disciples or those gone forth, having not taught the Dhamma to (lay) disciples or those gone forth, having not yearned for (lay) disciples or those gone forth, they—on the break-up of the body, with the cutting off of life—were established in a refined body.
 
-“‘So, monk, I tell you this: Please, good sir, be effortless. Abide committed to a pleasant abiding in the here & now—for it’s skillful, good sir, that this not be taught. Don’t instruct others.’
+“‘So, bhikkhu, I tell you this: Please, good sir, be effortless. Abide committed to a pleasant abiding in the here & now—for it’s skillful, good sir, that this not be taught. Don’t instruct others.’
 
 “When this was said, I told Māra the Evil One, ‘I know you, Evil One. Don’t assume, “He doesn’t know me.” You are Māra, Evil One. And it’s not sympathetic to welfare that you speak thus to me. It’s sympathetic to what is not welfare that you speak thus to me. You think this, Evil One: “Those to whom Gotama the contemplative will teach the Dhamma will defy my sovereignty”. Without being rightly self-awakened, Evil One, your contemplatives & brahmans claimed to be rightly self-awakened. I, however, being rightly self-awakened, claim to be rightly self-awakened. For when the Tathāgata is teaching the Dhamma to his disciples, he is Such. When he is not teaching the Dhamma to his disciples, he is Such. When leading his disciples he is Such. When not leading his disciples he is Such. Why is that? The effluents that defile, that lead to further becoming, that disturb, that ripen in stress, that tend to future birth, aging, & death: Those the Tathāgata has abandoned, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Just as a palmyra tree with its crown cut off is incapable of growing again; so, too, the effluents that defile, that lead to further becoming, that disturb, that ripen in stress, that tend to future birth, aging, & death: Those the Tathāgata has abandoned, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising.’”
 

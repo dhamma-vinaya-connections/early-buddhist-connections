@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four basic principles are original, long-standing, traditional, and ancient. They are uncorrupted, as they have been since the beginning. They’re not being corrupted now nor will they be. Sensible ascetics and brahmins don’t look down on them. What four?
+1“bhikkhus, these four basic principles are original, long-standing, traditional, and ancient. They are uncorrupted, as they have been since the beginning. They’re not being corrupted now nor will they be. Sensible ascetics and brahmins don’t look down on them. What four?
 
 
 2-4Contentment, good will, right mindfulness, and right immersion.

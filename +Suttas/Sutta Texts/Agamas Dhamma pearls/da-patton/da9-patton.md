@@ -15,23 +15,23 @@ Translated by Charles Patton
 
 ## The Gathered Saṅgha
 
-Thus I have heard: One time, the Buddha was travelling among the Mallas. Accompanied by a large assembly of 1,250 monks, he eventually arrived at Cunda’s Mango Grove of Pāpā.
+Thus I have heard: One time, the Buddha was travelling among the Mallas. Accompanied by a large assembly of 1,250 bhikkhus, he eventually arrived at Cunda’s Mango Grove of Pāpā.
 
-It was the fifteenth-day full moon when the Bhagavān sat in an open area with the assembly of monks both in front and behind him. After he had given them many discourses on the Dharma that evening, the Bhagavān addressed Śāriputra, “The monks have gathered today from the four directions to diligently apply themselves together. They aren’t sleepy yet, but I’m suffering from back pain. I’d like to take a break for a while. Perhaps you can explain the Dharma for the monks now?”
+It was the fifteenth-day full moon when the Bhagavān sat in an open area with the assembly of bhikkhus both in front and behind him. After he had given them many discourses on the Dharma that evening, the Bhagavān addressed Śāriputra, “The bhikkhus have gathered today from the four directions to diligently apply themselves together. They aren’t sleepy yet, but I’m suffering from back pain. I’d like to take a break for a while. Perhaps you can explain the Dharma for the bhikkhus now?”
 
 Śāriputra replied, “Very well. I’ll explain the noble teaching.”
 
 The Bhagavān folded his outer robe four times and laid on his right side like a lion with his feet together.
 
-Śāriputra then told the monks, “Now, here in this city of Pāpā, it hasn’t been long since Nirgrantha Jñātaputra’s life ended. Since then, his disciples have split into two factions that constantly argue and look for shortcomings to reproach each other. They contradict each other, saying: ‘I know this teaching.’ ‘You don’t know this.’ ‘You hold wrong views.’ ‘I hold to the right teaching.’ Their words are confused and without proper order. They consider statements praising themselves to be true, saying: ‘My statement is the winner; your words are defeated. I’m the one who gives discourses now. Come and ask me when you have questions.’
+Śāriputra then told the bhikkhus, “Now, here in this city of Pāpā, it hasn’t been long since Nirgrantha Jñātaputra’s life ended. Since then, his disciples have split into two factions that constantly argue and look for shortcomings to reproach each other. They contradict each other, saying: ‘I know this teaching.’ ‘You don’t know this.’ ‘You hold wrong views.’ ‘I hold to the right teaching.’ Their words are confused and without proper order. They consider statements praising themselves to be true, saying: ‘My statement is the winner; your words are defeated. I’m the one who gives discourses now. Come and ask me when you have questions.’
 
-“Monks, the people of the country who make offerings to the Nirgranthas are weary and troubled by the noise of their fighting. As a result, they consider their teaching to be untrue. A teaching that’s untrue has no way to escape, just as a ruined shrine cannot be repainted. It’s not the teaching of a completely awakened one. Monks, only we Śākyans have the unsurpassed, noble teaching that’s truest and can lead to the escape, just as a newly built shrine is easily decorated. It’s the teaching of a completely awakened one.
+“bhikkhus, the people of the country who make offerings to the Nirgranthas are weary and troubled by the noise of their fighting. As a result, they consider their teaching to be untrue. A teaching that’s untrue has no way to escape, just as a ruined shrine cannot be repainted. It’s not the teaching of a completely awakened one. bhikkhus, only we Śākyans have the unsurpassed, noble teaching that’s truest and can lead to the escape, just as a newly built shrine is easily decorated. It’s the teaching of a completely awakened one.
 
-“Monks, today, we ought to collect the Dharma and Vinaya to safeguard them from disputes, establish the religious life for a long time, and benefit many people so that gods and humans will obtain peace.
+“bhikkhus, today, we ought to collect the Dharma and Vinaya to safeguard them from disputes, establish the religious life for a long time, and benefit many people so that gods and humans will obtain peace.
 
 ### Sets of One
 
-“Monks, the Tathāgata teaches one correct thing: All sentient beings look to food for their sustenance.
+“bhikkhus, the Tathāgata teaches one correct thing: All sentient beings look to food for their sustenance.
 
 “There’s another thing taught by the Tathāgata: All sentient beings are reborn as a result of their actions.
 
@@ -39,7 +39,7 @@ The Bhagavān folded his outer robe four times and laid on his right side like a
 
 ### Sets of Two
 
-“Monks, the Tathāgata has taught two correct things: One is name, and the second is form.
+“bhikkhus, the Tathāgata has taught two correct things: One is name, and the second is form.
 
 “There are another two things: One is delusion, and the second is craving.
 
@@ -63,11 +63,11 @@ The Bhagavān folded his outer robe four times and laid on his right side like a
 
 “There are another two things, which are two causes and two conditions: One is the conditioned element, and the second is the unconditioned element.
 
-“Monks, these are the sets of two taught by the Tathāgata that we ought to collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
+“bhikkhus, these are the sets of two taught by the Tathāgata that we ought to collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
 
 ### Sets of Three
 
-“Monks, the Tathāgata has taught three correct things, which are known as three roots of what’s not good: First is craving, second is anger, and third is delusion.
+“bhikkhus, the Tathāgata has taught three correct things, which are known as three roots of what’s not good: First is craving, second is anger, and third is delusion.
 
 “There are another three things, which are known as three roots of goodness: First is not craving, second is not being angry, and third is not being deluded.
 
@@ -141,11 +141,11 @@ The Bhagavān folded his outer robe four times and laid on his right side like a
 
 “There are another three things, which are three eyes: The flesh eye, heavenly eye, and wisdom eye.
 
-“Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
+“bhikkhus, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
 
 ### Sets of Four
 
-“Monks, the Tathāgata has taught four correct things, which are four verbal bad practices: First is false speech, second is duplicity, third is harsh speech, and fourth is frivolous speech.
+“bhikkhus, the Tathāgata has taught four correct things, which are four verbal bad practices: First is false speech, second is duplicity, third is harsh speech, and fourth is frivolous speech.
 
 “There are another four things, which are four verbal good practices: First is truthful speech, second is gentle speech, third is speech that isn’t frivolous, and fourth is speech that isn’t duplicitous.
 
@@ -217,11 +217,11 @@ The Bhagavān folded his outer robe four times and laid on his right side like a
 
 “There are another four things, which are four things the Buddha doesn’t guard against: [1] The Tathāgata’s physical conduct is pure and lacking any contamination he could guard himself against. _[2] His verbal conduct is pure, [3] mental conduct is pure, and [4] his livelihood is pure in the same way._
 
-“Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
+“bhikkhus, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
 
 ### Sets of Five
 
-“Moreover, monks, the Tathāgata has taught five correct things, which are five senses: The eye and images, ear and sounds, nose and odors, tongue and flavors, and body and touches.
+“Moreover, bhikkhus, the Tathāgata has taught five correct things, which are five senses: The eye and images, ear and sounds, nose and odors, tongue and flavors, and body and touches.
 
 “There are another five things, which are five acquired aggregates: The acquired aggregate of form … feeling … conception … volition, and the acquired aggregate of consciousness.
 
@@ -253,11 +253,11 @@ The Bhagavān folded his outer robe four times and laid on his right side like a
 
 “There are another five things, which are five people: Those whose parinirvāṇa is in the interim, whose parinirvāṇa is at birth, whose parinirvāṇa is without practice, whose parinirvāṇa is with practice, and whose parinirvāṇa is upstream in Akaniṣṭha.
 
-“Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
+“bhikkhus, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
 
 ### Sets of Six
 
-“Moreover, monks, the Tathāgata has taught six correct things, which are six internal senses: The eye sense, ear sense, nose sense, tongue sense, body sense, and mind sense.
+“Moreover, bhikkhus, the Tathāgata has taught six correct things, which are six internal senses: The eye sense, ear sense, nose sense, tongue sense, body sense, and mind sense.
 
 “There are another six things, which are six external senses: The sense of images, sense of sounds, sense of odors, sense of flavors, sense of touches, and sense of notions.
 
@@ -275,15 +275,15 @@ The Bhagavān folded his outer robe four times and laid on his right side like a
 
 “There are another six things, which are six sources of conflict: [1] If a monk is extremely angry and doesn’t let it go, he doesn’t respect the Tathāgata, doesn’t respect the Dharma, and doesn’t respect the Saṅgha. His precepts are breached, and he’s defiled and impure. When he creates many conflicts in the Saṅgha, he’s disliked by people, disrupts the pure assembly, and gods and people don’t attain peace.
 
-“Monks, you must look within yourselves. If you find resentments like those that are disruptive, you must gather as a unified assembly and employ broad methods to root out these sources of conflict. Moreover, you must focus your attention and observe yourselves. If the bond of resentment has ceased, you should employ methods to restrain your minds. Don’t let it arise again.
+“bhikkhus, you must look within yourselves. If you find resentments like those that are disruptive, you must gather as a unified assembly and employ broad methods to root out these sources of conflict. Moreover, you must focus your attention and observe yourselves. If the bond of resentment has ceased, you should employ methods to restrain your minds. Don’t let it arise again.
 
-“Monks, _[2] wayward dishonesty, [3] stingy jealousy, [4] fraud and falsehoods, [5] not abandoning mistakes because of one’s own views, and [6] being deluded by wrong and extreme views are likewise._
+“bhikkhus, _[2] wayward dishonesty, [3] stingy jealousy, [4] fraud and falsehoods, [5] not abandoning mistakes because of one’s own views, and [6] being deluded by wrong and extreme views are likewise._
 
 “There are another six things, which are six elements: The earth element, fire element, water element, air element, space element, and consciousness element.
 
 “There are another six things, which are six observations: The eye observing forms, ear observing sounds, nose … odors … tongue … flavors … body … touches … mind observing notions.
 
-“There are another six things, which are six spheres of escape: [1] Suppose a monk says, ‘I’d cultivate kindness, but then I become angry.’ The other monks say, ‘Don’t say that! Don’t misrepresent the Tathāgata. The Tathāgata doesn’t say, “I’d like to cultivate the liberation of kindness, but then notions of anger arise.” That’s impossible. The Buddha says, “Once anger is gone, then one becomes kind afterward.”’
+“There are another six things, which are six spheres of escape: [1] Suppose a monk says, ‘I’d cultivate kindness, but then I become angry.’ The other bhikkhus say, ‘Don’t say that! Don’t misrepresent the Tathāgata. The Tathāgata doesn’t say, “I’d like to cultivate the liberation of kindness, but then notions of anger arise.” That’s impossible. The Buddha says, “Once anger is gone, then one becomes kind afterward.”’
 
 “Suppose a monk says, [2] ‘I’d practice the liberation of compassion, but then I have hateful thoughts.’… [3] ‘practice the liberation of joy, but then I have sorrowful thoughts.’ … [4] ‘practice the liberation of equanimity, but then I have thoughts of like or dislike.’ … [5] ‘cultivate the practice of non-self, but then I have suspicious thoughts’ … [6] ‘cultivate the practice without conception, but then I have many distracting notions.’ _Those cases are likewise._
 
@@ -291,11 +291,11 @@ The Bhagavān folded his outer robe four times and laid on his right side like a
 
 “There are another six things, which are six recollections: Recollection of the Buddha, recollection of the Dharma, recollection of the Saṅgha, recollection of precepts, recollection of generosity, and recollection of the gods.
 
-“Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
+“bhikkhus, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
 
 ### Sets of Seven
 
-“Monks, the Tathāgata has taught seven correct things, which are seven things that aren’t Dharma: Lack of faith, lack of conscience, lack of modesty, little learning, negligence, forgetfulness, and lack of knowledge.
+“bhikkhus, the Tathāgata has taught seven correct things, which are seven things that aren’t Dharma: Lack of faith, lack of conscience, lack of modesty, little learning, negligence, forgetfulness, and lack of knowledge.
 
 “There are another seven things, which are seven correct Dharmas: Having faith, having conscience, having modesty, being well-versed, making effort, good memory, and being knowledgeable.
 
@@ -309,33 +309,33 @@ The Bhagavān folded his outer robe four times and laid on his right side like a
 
 “There are another seven things, which are seven factors of awakening: The awakening factor of mindfulness, awakening factor of teachings, awakening factor of effort, awakening factor of joy, awakening factor of calm, awakening factor of samādhi, and awakening factor of equanimity.
 
-“Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
+“bhikkhus, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
 
 ### Sets of Eight
 
-“Monks, the Tathāgata has taught eight correct things, which are eight rules of the world: Profit, decline, censure, praise, admiration, blame, pain, and pleasure.
+“bhikkhus, the Tathāgata has taught eight correct things, which are eight rules of the world: Profit, decline, censure, praise, admiration, blame, pain, and pleasure.
 
 “There are another eight things, which are the eight liberations: Form observed as form is the first liberation. Observing external form without internal perceptions of form is the second liberation. The liberation of purity is the third liberation. Going beyond notions of form, ceasing notions of anger, and abiding in the abode of space is the fourth liberation. Going beyond the abode of space and abiding in the abode of consciousness is the fifth liberation. Going beyond the abode of consciousness and abiding in the abode of nothingness is the sixth liberation. Going beyond the abode of nothingness and abiding the abode with and without conception is the seventh liberation. Going beyond the abode with and without conception and abiding in the cessation of concepts and perceptions is the eighth liberation.
 
-“There are another eight things which are the noble eightfold path: Right view, right intention, right speech, right action, right livelihood, right method, right mindfulness, and right samādhi.
+“There are another eight things which are the ![[Noble Path]].
 
 “There are another eight things, which are the eight persons: Those headed for stream entry and stream entrants, those headed for once-returning and once-returners, those headed for non-returning and non-returners, and those headed to becoming arhats and arhats.
 
-“Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
+“bhikkhus, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
 
 ### A Set of Nine
 
 “There’s another nine things, which are nine abodes of sentient beings: Some sentient beings have diverse bodies and diverse notions. These gods and humans are the first abode of sentient beings. Some sentient beings have diverse bodies but the same notions. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of sentient beings. Some sentient beings have the same bodies but diverse notions. This Ābhāsvara Heaven is the third abode of sentient beings. Some sentient beings have the same bodies and the same notions. This Śubhakṛtsnā Heaven is the fourth abode of sentient beings. Some sentient beings lack conception or anything to perceive. This Asāṃjñika Heaven is the fifth abode of sentient beings. Some sentient beings dwell in the abode of space, which is the sixth abode of sentient beings. Some sentient beings dwell in the abode of consciousness, which is the seventh abode of sentient beings. Some sentient beings dwell in the abode of nothingness, which is the eighth abode of sentient beings. Some sentient beings dwell in the abode with and without conception, which is the ninth abode of sentient beings.
 
-“Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
+“bhikkhus, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
 
 ### A Set of Ten
 
-“Monks, the Tathāgata has taught ten correct things, which are ten ways of having nothing more to learn: Having nothing more to learn about right view … right intention … right speech … right action … right livelihood … right mindfulness … right method … right samādhi … right knowledge … right liberation.
+“bhikkhus, the Tathāgata has taught ten correct things, which are ten ways of having nothing more to learn: Having nothing more to learn about right view … right intention … right speech … right action … right livelihood … right mindfulness … right method … right samādhi … right knowledge … right liberation.
 
-“Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
+“bhikkhus, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
 
-At that point, the Bhagavān gave his approval of what Śāriputra had taught. When the monks heard what Śāriputra taught, they rejoiced and approved.
+At that point, the Bhagavān gave his approval of what Śāriputra had taught. When the bhikkhus heard what Śāriputra taught, they rejoiced and approved.
 
 
 ---

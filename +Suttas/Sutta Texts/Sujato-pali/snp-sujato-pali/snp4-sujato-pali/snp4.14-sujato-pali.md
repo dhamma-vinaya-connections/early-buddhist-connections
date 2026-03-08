@@ -26,7 +26,7 @@ Question
 
 915 “Great hermit, I ask you, the kinsman of the Sun,  
 about seclusion and the state of peace.  
-How, having seen, is a mendicant quenched,  
+How, having seen, is a bhikkhu quenched,  
 not grasping anything in this world?”
 
 Buddha
@@ -47,7 +47,7 @@ thinking themselves better or worse or alike.
 When questioned in many ways,  
 they wouldn’t keep justifying themselves.
 
-919 A mendicant would find peace inside themselves,  
+919 A bhikkhu would find peace inside themselves,  
 and not seek peace from another.  
 For one at peace inside themselves,  
 there’s no picking up, whence putting down?
@@ -55,7 +55,7 @@ there’s no picking up, whence putting down?
 920 Just as, in the mid-ocean deeps  
 no waves arise, it stays still;  
 so too one unstirred is still—  
-a mendicant would not swell with pride at all.”
+a bhikkhu would not swell with pride at all.”
 
 ---
 
@@ -74,7 +74,7 @@ They wouldn’t be greedy for flavors,
 nor possessive about anything in the world.
 
 923 Though struck by contacts,  
-a mendicant would not lament at all.  
+a bhikkhu would not lament at all.  
 They wouldn’t pray for another life,  
 nor tremble in the face of dangers.
 
@@ -85,7 +85,7 @@ nor worry about not getting them.
 
 925 Meditative, not footloose,  
 they’d avoid remorse and not be negligent.  
-Then a mendicant would stay  
+Then a bhikkhu would stay  
 in quiet places to sit and rest.
 
 926 They wouldn’t take much sleep,  
@@ -99,16 +99,16 @@ My followers would not decipher animal cries, work as a doctor,
 or treat an impacted fetus.
 
 928 Not shaken by criticism,  
-a mendicant would not pride themselves when praised.  
+a bhikkhu would not pride themselves when praised.  
 They’d reject greed and stinginess,  
 anger, and slander.
 
 929 They’d not stand for buying and selling;  
-a mendicant would not speak ill at all.  
+a bhikkhu would not speak ill at all.  
 They wouldn’t linger in the village,  
 nor cajole people from desire for profit.
 
-930 A mendicant would be no boaster,  
+930 A bhikkhu would be no boaster,  
 nor would they speak suggestively.  
 They wouldn’t train in impudence,  
 nor speak argumentatively.
@@ -124,7 +124,7 @@ they wouldn’t react harshly,
 for the virtuous do not retaliate.
 
 933 Having understood this teaching,  
-inquiring, a mendicant would always train mindfully.  
+inquiring, a bhikkhu would always train mindfully.  
 Knowing extinguishment as peace,  
 they’d not be negligent in Gotama’s bidding.
 

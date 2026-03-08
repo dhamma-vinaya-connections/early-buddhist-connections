@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC123"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC41]] 🌐 [[BU-PC43]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 5 Acelaka-Vaggo - 5 Ascetics
 ## BU-PC42 - Uyyojana - Sending a Bhikkhu Back from Almsround
 
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-PC123"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC42 | [[BNI-PC123]] | Vin.3.1–3.40 |
 

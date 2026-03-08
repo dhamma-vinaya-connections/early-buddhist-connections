@@ -18,24 +18,24 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time Venerable Dabba the Mallian, who was the assigner of dwellings and the designator of meals, had a robe that was worn out. Just then the Sangha had obtained a robe, which it gave to Dabba. The monks from the group of six complained and criticized it, “The monks are diverting the Sangha’s material things according to friendship.”
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time Venerable Dabba the Mallian, who was the assigner of dwellings and the designator of meals, had a robe that was worn out. Just then the Sangha had obtained a robe, which it gave to Dabba. The bhikkhus from the group of six complained and criticized it, “The bhikkhus are diverting the Sangha’s material things according to friendship.”
 
-2The monks of few desires complained and criticized them, “How could the monks from the group of six give out a robe as part of a unanimous Sangha and then criticize it afterwards?” …
+2The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six give out a robe as part of a unanimous Sangha and then criticize it afterwards?” …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk gives out a robe as part of a unanimous Sangha and then criticizes it afterwards, saying, “The monks are diverting the Sangha’s material things according to friendship,” he commits an offense entailing confession.’”
+3‘If a bhikkhu gives out a robe as part of a unanimous Sangha and then criticizes it afterwards, saying, “The bhikkhus are diverting the Sangha’s material things according to friendship,” he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
 5**A unanimous Sangha:** belonging to the same Buddhist sect and staying within the same monastery zone.
@@ -50,13 +50,13 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 
 10**Material things:** robes, almsfood, a dwelling, and medicinal supplies; even a bit of bath powder, a tooth cleaner, or a piece of string.
 
-11**Criticizes it afterwards:** when robe-cloth has been given to someone who is fully ordained and who is the assigner of dwellings or the designator of meals or the distributor of congee or the distributor of fruit or the distributor of fresh foods or the distributor of minor requisites, and he has been appointed by the Sangha as such, then if a monk criticizes the giving, he commits an offense entailing confession.
+11**Criticizes it afterwards:** when robe-cloth has been given to someone who is fully ordained and who is the assigner of dwellings or the designator of meals or the distributor of congee or the distributor of fruit or the distributor of fresh foods or the distributor of minor requisites, and he has been appointed by the Sangha as such, then if a bhikkhu criticizes the giving, he commits an offense entailing confession.
 
 #### Permutations
 
 12If it is a legitimate legal procedure, and he perceives it as such, and he criticizes the giving of robe-cloth, he commits an offense entailing confession. If it is a legitimate legal procedure, but he is unsure of it, and he criticizes the giving of robe-cloth, he commits an offense entailing confession. If it is a legitimate legal procedure, but he perceives it as illegitimate, and he criticizes it the giving of robe-cloth, he commits an offense entailing confession.
 
-13If he criticizes the giving of another requisite, he commits an offense of wrong conduct. When robe-cloth or another requisite has been given to someone who is fully ordained and who is the assigner of dwellings or the designator of meals or the distributor of congee or the distributor of fruit or the distributor of fresh foods or the distributor of minor requisites, but he has not been appointed by the Sangha as such, then if a monk criticizes the giving, he commits an offense of wrong conduct. When robe-cloth or another requisite has been given to someone who is not fully ordained and who is the assigner of dwellings or the designator of meals or the distributor of congee or the distributor of fruit or the distributor of fresh foods or the distributor of minor requisites, whether he has been appointed by the Sangha as such or not, then if a monk criticizes the giving, he commits an offense of wrong conduct.
+13If he criticizes the giving of another requisite, he commits an offense of wrong conduct. When robe-cloth or another requisite has been given to someone who is fully ordained and who is the assigner of dwellings or the designator of meals or the distributor of congee or the distributor of fruit or the distributor of fresh foods or the distributor of minor requisites, but he has not been appointed by the Sangha as such, then if a bhikkhu criticizes the giving, he commits an offense of wrong conduct. When robe-cloth or another requisite has been given to someone who is not fully ordained and who is the assigner of dwellings or the designator of meals or the distributor of congee or the distributor of fruit or the distributor of fresh foods or the distributor of minor requisites, whether he has been appointed by the Sangha as such or not, then if a bhikkhu criticizes the giving, he commits an offense of wrong conduct.
 
 If it is an illegitimate legal procedure, but he perceives it as legitimate, he commits an offense of wrong conduct. If it is an illegitimate legal procedure, but he is unsure of it, he commits an offense of wrong conduct. If it is an illegitimate legal procedure, and he perceives it as such, there is no offense.
 

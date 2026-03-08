@@ -20,15 +20,15 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Sāriputta addressed the mendicants:
+1There Sāriputta addressed the bhikkhus:
 
-“As a mendicant makes their bed, so they must lie in it, and die tormented by regrets. And how do they die tormented by regrets?
+“As a bhikkhu makes their bed, so they must lie in it, and die tormented by regrets. And how do they die tormented by regrets?
 
-2Take a mendicant who relishes work, talk, sleep, company, closeness, and proliferation. They love these things and like to relish them. A mendicant who makes their bed like this must lie in it, and die tormented by regrets. This is called a mendicant who enjoys identity, who hasn’t given up identity to rightly make an end of suffering.
+2Take a bhikkhu who relishes work, talk, sleep, company, closeness, and proliferation. They love these things and like to relish them. A bhikkhu who makes their bed like this must lie in it, and die tormented by regrets. This is called a bhikkhu who enjoys identity, who hasn’t given up identity to rightly make an end of suffering.
 
-3As a mendicant makes their bed, so they must lie in it, and die free of regrets. And how do they die free of regrets?
+3As a bhikkhu makes their bed, so they must lie in it, and die free of regrets. And how do they die free of regrets?
 
-4Take a mendicant who doesn’t relish work, talk, sleep, company, closeness, and proliferation. They don’t love these things or like to relish them. A mendicant who makes their bed like this must lie in it, and die free of regrets. This is called a mendicant who delights in extinguishment, who has given up identity to rightly make an end of suffering.
+4Take a bhikkhu who doesn’t relish work, talk, sleep, company, closeness, and proliferation. They don’t love these things or like to relish them. A bhikkhu who makes their bed like this must lie in it, and die free of regrets. This is called a bhikkhu who delights in extinguishment, who has given up identity to rightly make an end of suffering.
 
 
 5A beast who likes to proliferate,  

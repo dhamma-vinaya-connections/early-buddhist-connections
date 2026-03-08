@@ -16,30 +16,30 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying in the Bhagga country at Susumāragira in the Bhesakaḷā Grove, the deer park. At that time the monks from the group of six gave teachings to people holding a sunshade.
+1At one time the Buddha was staying in the Bhagga country at Susumāragira in the Bhesakaḷā Grove, the deer park. At that time the bhikkhus from the group of six gave teachings to people holding a sunshade.
 
-2The monks of few desires complained and criticized those monks, “How can the monks from the group of six give teachings to people holding a sunshade?” …
+2The bhikkhus of few desires complained and criticized those bhikkhus, “How can the bhikkhus from the group of six give teachings to people holding a sunshade?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 3‘“I will not give a teaching to anyone holding a sunshade,” this is how you should train.’”
 
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5Soon afterwards, being afraid of wrongdoing, the monks did not give teachings to sick people holding a sunshade. People complained and criticized them, “How can the Sakyan monastics not give teachings to someone who’s sick holding a sunshade?”
+5Soon afterwards, being afraid of wrongdoing, the bhikkhus did not give teachings to sick people holding a sunshade. People complained and criticized them, “How can the Sakyan monastics not give teachings to someone who’s sick holding a sunshade?”
 
-6The monks heard the complaints of those people, and they told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+6The bhikkhus heard the complaints of those people, and they told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
 
-“Monks, I allow you to give a teaching to someone who’s sick holding a sunshade.
+“bhikkhus, I allow you to give a teaching to someone who’s sick holding a sunshade.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -53,7 +53,7 @@ And so, monks, this training rule should be recited like this:
 
 10**Give:** if he teaches by the line, then for every line he commits an offense of wrong conduct. If he teaches by the syllable, then for every syllable he commits an offense of wrong conduct.
 
-One should not give a teaching to anyone holding a sunshade who is not sick. If a monk, out of disrespect, gives a teaching to someone holding a sunshade who is not sick, he commits an offense of wrong conduct.
+One should not give a teaching to anyone holding a sunshade who is not sick. If a bhikkhu, out of disrespect, gives a teaching to someone holding a sunshade who is not sick, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

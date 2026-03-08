@@ -20,23 +20,23 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Now at that time a mendicant called Sāti, the fisherman’s son, had the following harmful misconception: “As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another.”
+Now at that time a bhikkhu called Sāti, the fisherman’s son, had the following harmful misconception: “As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another.”
 
-Several mendicants heard about this. They went up to Sāti and said to him: “Is it really true, Reverend Sāti, that you have such a harmful misconception: ‘As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another’?”
+Several bhikkhus heard about this. They went up to Sāti and said to him: “Is it really true, Reverend Sāti, that you have such a harmful misconception: ‘As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another’?”
 
 “Absolutely, reverends. As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another.”
 
-Then, wishing to dissuade Sāti from his view, the mendicants pursued, pressed, and grilled him: “Don’t say that, Sāti! Don’t misrepresent the Buddha, for misrepresentation of the Buddha is not good. And the Buddha would not say that. In many ways the Buddha has said that consciousness is dependently originated, since consciousness does not arise without a cause.”
+Then, wishing to dissuade Sāti from his view, the bhikkhus pursued, pressed, and grilled him: “Don’t say that, Sāti! Don’t misrepresent the Buddha, for misrepresentation of the Buddha is not good. And the Buddha would not say that. In many ways the Buddha has said that consciousness is dependently originated, since consciousness does not arise without a cause.”
 
-But even though the mendicants pressed him in this way, Sāti obstinately stuck to his misconception and insisted on stating it.
-
-
-2When they weren’t able to dissuade Sāti from his view, the mendicants went to the Buddha, bowed, sat down to one side, and told him what had happened.
+But even though the bhikkhus pressed him in this way, Sāti obstinately stuck to his misconception and insisted on stating it.
 
 
-3So the Buddha said to a certain monk: “Please, monk, in my name tell the mendicant Sāti that the teacher summons him.”
+2When they weren’t able to dissuade Sāti from his view, the bhikkhus went to the Buddha, bowed, sat down to one side, and told him what had happened.
 
-“Yes, sir,” that monk replied. He went to Sāti and said to him: “Reverend Sāti, the teacher summons you.”
+
+3So the Buddha said to a certain bhikkhu: “Please, bhikkhu, in my name tell the bhikkhu Sāti that the teacher summons him.”
+
+“Yes, sir,” that bhikkhu replied. He went to Sāti and said to him: “Reverend Sāti, the teacher summons you.”
 
 “Yes, reverend,” Sāti replied. He went to the Buddha, bowed, and sat down to one side. The Buddha said to him: “Is it really true, Sāti, that you have such a harmful misconception: ‘As I understand the Buddha’s teachings, it is this very same consciousness that roams and transmigrates, not another’?”
 
@@ -50,19 +50,19 @@ But even though the mendicants pressed him in this way, Sāti obstinately stuck 
 “Silly man, who on earth have you ever known me to teach in that way? Haven’t I said in many ways that consciousness is dependently originated, since consciousness does not arise without a cause? But still you misrepresent me by your wrong grasp, harm yourself, and make much bad karma. This will be for your lasting harm and suffering.”
 
 
-4Then the Buddha said to the mendicants: “What do you think, mendicants? Has this mendicant Sāti kindled even a spark of wisdom in this teaching and training?”
+4Then the Buddha said to the bhikkhus: “What do you think, bhikkhus? Has this bhikkhu Sāti kindled even a spark of wisdom in this teaching and training?”
 
 “How could that be, sir? No, sir.”
 
 
-When this was said, Sāti sat silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say. Knowing this, the Buddha said: “Silly man, you will be known by your own harmful misconception. I’ll question the mendicants about this.”
+When this was said, Sāti sat silent, embarrassed, shoulders drooping, downcast, depressed, with nothing to say. Knowing this, the Buddha said: “Silly man, you will be known by your own harmful misconception. I’ll question the bhikkhus about this.”
 
 
-Then the Buddha said to the mendicants: “Mendicants, do you understand my teachings as Sāti does, when he misrepresents me by his wrong grasp, harms himself, and makes much bad karma?”
+Then the Buddha said to the bhikkhus: “bhikkhus, do you understand my teachings as Sāti does, when he misrepresents me by his wrong grasp, harms himself, and makes much bad karma?”
 
 “No, sir. For in many ways the Buddha has told us that consciousness is dependently originated, since consciousness does not arise without a cause.”
 
-“Good, good, mendicants! It’s good that you understand my teaching like this. For in many ways I have told you that consciousness is dependently originated, since consciousness does not arise without a cause. But still this Sāti misrepresents me by his wrong grasp, harms himself, and makes much bad karma. This will be for his lasting harm and suffering.
+“Good, good, bhikkhus! It’s good that you understand my teaching like this. For in many ways I have told you that consciousness is dependently originated, since consciousness does not arise without a cause. But still this Sāti misrepresents me by his wrong grasp, harms himself, and makes much bad karma. This will be for his lasting harm and suffering.
 
 
 5Consciousness is reckoned according to the specific conditions dependent upon which it arises. Consciousness that arises dependent on the eye and sights is reckoned as eye consciousness. Consciousness that arises dependent on the ear and sounds is reckoned as ear consciousness. Consciousness that arises dependent on the nose and smells is reckoned as nose consciousness. Consciousness that arises dependent on the tongue and tastes is reckoned as tongue consciousness. Consciousness that arises dependent on the body and touches is reckoned as body consciousness. Consciousness that arises dependent on the mind and thoughts is reckoned as mind consciousness.
@@ -73,7 +73,7 @@ Then the Buddha said to the mendicants: “Mendicants, do you understand my teac
 In the same way, consciousness is reckoned according to the specific conditions dependent upon which it arises. …
 
 
-7Mendicants, do you see that this has come to be?”
+7bhikkhus, do you see that this has come to be?”
 
 8“Yes, sir.”
 
@@ -136,16 +136,16 @@ In the same way, consciousness is reckoned according to the specific conditions 
 36“Yes, sir.”
 
 
-37“Pure and bright as this view is, mendicants, if you cherish it, fancy it, treasure it, and treat it as your own, would you be understanding how the Dhamma is similar to a raft: for crossing over, not for holding on?”
+37“Pure and bright as this view is, bhikkhus, if you cherish it, fancy it, treasure it, and treat it as your own, would you be understanding how the Dhamma is similar to a raft: for crossing over, not for holding on?”
 
 38“No, sir.”
 
-39“Pure and bright as this view is, mendicants, if you don’t cherish it, fancy it, treasure it, and treat it as your own, would you be understanding how the Dhamma is similar to a raft: for crossing over, not for holding on?”
+39“Pure and bright as this view is, bhikkhus, if you don’t cherish it, fancy it, treasure it, and treat it as your own, would you be understanding how the Dhamma is similar to a raft: for crossing over, not for holding on?”
 
 40“Yes, sir.”
 
 
-41“Mendicants, there are these four fuels. They maintain sentient beings that have been born and help those that are about to be born. What four? Solid food, whether coarse or fine; contact is the second, mental intention the third, and consciousness the fourth.
+41“bhikkhus, there are these four fuels. They maintain sentient beings that have been born and help those that are about to be born. What four? Solid food, whether coarse or fine; contact is the second, mental intention the third, and consciousness the fourth.
 
 
 42What is the source, origin, birthplace, and root of these four fuels? Craving.
@@ -180,7 +180,7 @@ In the same way, consciousness is reckoned according to the specific conditions 
 “That’s how we see it.”
 
 
-62“Good, mendicants! So both you and I say this. When this exists, that is; due to the arising of this, that arises. That is: Ignorance is a condition for choices. Choices are a condition for consciousness. Consciousness is a condition for name and form. Name and form are conditions for the six sense fields. The six sense fields are conditions for contact. Contact is a condition for feeling. Feeling is a condition for craving. Craving is a condition for grasping. Grasping is a condition for continued existence. Continued existence is a condition for rebirth. Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be. That is how this entire mass of suffering originates.
+62“Good, bhikkhus! So both you and I say this. When this exists, that is; due to the arising of this, that arises. That is: Ignorance is a condition for choices. Choices are a condition for consciousness. Consciousness is a condition for name and form. Name and form are conditions for the six sense fields. The six sense fields are conditions for contact. Contact is a condition for feeling. Feeling is a condition for craving. Craving is a condition for grasping. Grasping is a condition for continued existence. Continued existence is a condition for rebirth. Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be. That is how this entire mass of suffering originates.
 
 
 63When ignorance fades away and ceases with nothing left over, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. When contact ceases, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. That is how this entire mass of suffering ceases.  
@@ -199,19 +199,19 @@ In the same way, consciousness is reckoned according to the specific conditions 
 “That’s how we see it.”
 
 
-74“Good, mendicants! So both you and I say this. When this doesn’t exist, that is not; due to the cessation of this, that ceases. That is: When ignorance ceases, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. When contact ceases, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. That is how this entire mass of suffering ceases.
+74“Good, bhikkhus! So both you and I say this. When this doesn’t exist, that is not; due to the cessation of this, that ceases. That is: When ignorance ceases, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. When contact ceases, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. That is how this entire mass of suffering ceases.
 
 
-75Knowing and seeing in this way, mendicants, would you turn back to the past, thinking, ‘Did we exist in the past? Did we not exist in the past? What were we in the past? How were we in the past? After being what, what did we become in the past?’?”
+75Knowing and seeing in this way, bhikkhus, would you turn back to the past, thinking, ‘Did we exist in the past? Did we not exist in the past? What were we in the past? How were we in the past? After being what, what did we become in the past?’?”
 
 76“No, sir.”
 
 
-77“Knowing and seeing in this way, mendicants, would you turn forward to the future, thinking, ‘Will we exist in the future? Will we not exist in the future? What will we be in the future? How will we be in the future? After being what, what will we become in the future?’?”
+77“Knowing and seeing in this way, bhikkhus, would you turn forward to the future, thinking, ‘Will we exist in the future? Will we not exist in the future? What will we be in the future? How will we be in the future? After being what, what will we become in the future?’?”
 
 78“No, sir.”
 
-79“Knowing and seeing in this way, mendicants, would you be undecided about the present, thinking, ‘Am I? Am I not? What am I? How am I? This sentient being — where did it come from? And where will it go?’?”
+79“Knowing and seeing in this way, bhikkhus, would you be undecided about the present, thinking, ‘Am I? Am I not? What am I? How am I? This sentient being — where did it come from? And where will it go?’?”
 
 
 80“No, sir.”
@@ -240,9 +240,9 @@ In the same way, consciousness is reckoned according to the specific conditions 
 90“Yes, sir.”
 
 
-91“Good, mendicants! You have been guided by me with this teaching that’s visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves. For when I said that this teaching is visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves, this is what I was referring to.
+91“Good, bhikkhus! You have been guided by me with this teaching that’s visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves. For when I said that this teaching is visible in this very life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves, this is what I was referring to.
 
-92Mendicants, when three things come together an embryo is conceived. In a case where the mother and father come together, but the mother is not in the fertile part of her menstrual cycle, and the spirit being reborn is not present, the embryo is not conceived. In a case where the mother and father come together, the mother is in the fertile part of her menstrual cycle, but the spirit being reborn is not present, the embryo is not conceived. But when these three things come together — the mother and father come together, the mother is in the fertile part of her menstrual cycle, and the spirit being reborn is present — an embryo is conceived.
+92bhikkhus, when three things come together an embryo is conceived. In a case where the mother and father come together, but the mother is not in the fertile part of her menstrual cycle, and the spirit being reborn is not present, the embryo is not conceived. In a case where the mother and father come together, the mother is in the fertile part of her menstrual cycle, but the spirit being reborn is not present, the embryo is not conceived. But when these three things come together — the mother and father come together, the mother is in the fertile part of her menstrual cycle, and the spirit being reborn is present — an embryo is conceived.
 
 The mother nurtures the embryo in her womb for nine or ten months at great risk to her heavy burden. When nine or ten months have passed, the mother gives birth at great risk to her heavy burden. When the infant is born she nourishes it with her own blood. For mother’s milk is regarded as blood in the training of the noble one.
 
@@ -281,7 +281,7 @@ Being so full of favoring and opposing, when they experience any kind of feeling
 
 A householder hears that teaching, or a householder’s child, or someone reborn in some good family. They gain faith in the Realized One, and reflect, ‘Living in a house is cramped and dirty, but the life of one gone forth is wide open. It’s not easy for someone living at home to lead the spiritual life utterly full and pure, like a polished shell. Why don’t I cut off my hair and beard, dress in ocher robes, and go forth from lay life to homelessness?’ After some time they give up a large or small fortune, and a large or small family circle. They shave off hair and beard, dress in ocher robes, and go forth from the lay life to homelessness.
 
-96Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings.
+96Once they’ve gone forth, they take up the training and livelihood of the bhikkhus. They give up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings.
 
 97They give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving.
 
@@ -298,7 +298,7 @@ A householder hears that teaching, or a householder’s child, or someone reborn
 
 103They avoid injuring plants and seeds. They eat in one part of the day, abstaining from eating at night and food at the wrong time. They avoid dancing, singing, music, and seeing shows. They avoid beautifying and adorning themselves with garlands, perfumes, and makeup. They avoid high and luxurious beds. They avoid receiving gold and money, raw grains, raw meat, women and girls, male and female bondservants, goats and sheep, chickens and pigs, elephants, cows, horses, and mares, and fields and land. They avoid running errands and messages; buying and selling; falsifying weights, metals, or measures; bribery, fraud, cheating, and duplicity; mutilation, murder, abduction, banditry, plunder, and violence.
 
-104They’re content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden. In the same way, a mendicant is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves.
+104They’re content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden. In the same way, a bhikkhu is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves.
 
 
 105When they see a sight with their eyes, they don’t get caught up in the features and details. If the faculty of sight were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint.
@@ -321,7 +321,7 @@ When they know a thought with their mind, they don’t get caught up in the feat
 After the meal, they return from alms-round, sit down cross-legged with their body straight, and establish mindfulness right there. Giving up desire for the world, they meditate with a heart rid of desire, cleansing the mind of desire. Giving up ill will and malevolence, they meditate with a mind rid of ill will, full of compassion for all living beings, cleansing the mind of ill will. Giving up dullness and drowsiness, they meditate with a mind rid of dullness and drowsiness, perceiving light, mindful and aware, cleansing the mind of dullness and drowsiness. Giving up restlessness and remorse, they meditate without restlessness, their mind peaceful inside, cleansing the mind of restlessness and remorse. Giving up doubt, they meditate having gone beyond doubt, not undecided about skillful qualities, cleansing the mind of doubt.
 
 
-108They give up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna … third jhāna … fourth jhāna.
+108They give up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna … third jhāna … fourth jhāna.
 
 109When they see a sight with their eyes, if it’s pleasant they don’t desire it, and if it’s unpleasant they don’t dislike it. They live with mindfulness of the body established and a limitless heart. And they truly understand the freedom of heart and freedom by wisdom where those arisen bad, unskillful qualities cease without anything left over.
 
@@ -344,10 +344,10 @@ Having given up favoring and opposing, when they experience any kind of feeling 
 
 That is how this entire mass of suffering ceases.
 
-Mendicants, you should memorize that brief statement on freedom through the ending of craving. But the mendicant Sāti, the fisherman’s son, is caught in a vast net of craving, a tangle of craving.”
+bhikkhus, you should memorize that brief statement on freedom through the ending of craving. But the bhikkhu Sāti, the fisherman’s son, is caught in a vast net of craving, a tangle of craving.”
 
 
-110That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+110That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

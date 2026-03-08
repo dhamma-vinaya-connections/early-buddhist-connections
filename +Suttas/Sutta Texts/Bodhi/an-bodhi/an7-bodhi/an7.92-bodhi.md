@@ -2,7 +2,7 @@
 sutta_code: "AN7.92"
 sutta_title:
   - "Bhikkhu "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "Ven. Bodhi"
 language: "English"
 ---

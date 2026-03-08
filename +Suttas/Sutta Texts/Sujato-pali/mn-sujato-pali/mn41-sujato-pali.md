@@ -18,9 +18,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants when he arrived at a village of the Kosalan brahmins named Sālā.
+1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of bhikkhus when he arrived at a village of the Kosalan brahmins named Sālā.
 
-The brahmins and householders of Sālā heard: “It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — while wandering in the land of the Kosalans has arrived at Sālā, together with a large Saṅgha of mendicants. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He proclaims a teaching that is good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing. He reveals an entirely full and pure spiritual life. It’s good to see such perfected ones.”
+The brahmins and householders of Sālā heard: “It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — while wandering in the land of the Kosalans has arrived at Sālā, together with a large Saṅgha of bhikkhus. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He proclaims a teaching that is good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing. He reveals an entirely full and pure spiritual life. It’s good to see such perfected ones.”
 
 
 2Then the brahmins and householders of Sālā went up to the Buddha. Before sitting down to one side, some bowed, some exchanged greetings and polite conversation, some held up their joined palms toward the Buddha, some announced their name and clan, while some kept silent. Seated to one side they said to the Buddha:
@@ -96,7 +96,7 @@ The brahmins and householders of Sālā heard: “It seems the ascetic Gotama �
 35A person of principled and moral conduct might wish: ‘If only I might realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with my own insight due to the ending of defilements.’ It’s possible that this might happen. Why is that? Because they have principled and moral conduct.”
 
 
-36When he had spoken, the brahmins and householders of Sālā said to the Buddha: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. We go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember us as lay followers who have gone for refuge for life.”
+36When he had spoken, the brahmins and householders of Sālā said to the Buddha: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. We go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember us as lay followers who have gone for refuge for life.”
 
 #### Pali
 

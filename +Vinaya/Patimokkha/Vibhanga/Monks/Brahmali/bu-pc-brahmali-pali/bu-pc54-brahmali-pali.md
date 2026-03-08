@@ -16,17 +16,17 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, Venerable Channa was misbehaving. The monks would tell him:
+1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, Venerable Channa was misbehaving. The bhikkhus would tell him:
 
 “Channa, don’t do that; it’s not allowable,” and he just did it again out of disrespect.
 
-2The monks of few desires complained and criticized him: “How can Venerable Channa act disrespectfully?” …
+2The bhikkhus of few desires complained and criticized him: “How can Venerable Channa act disrespectfully?” …
 
 “Is it true, Channa, that you do this?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

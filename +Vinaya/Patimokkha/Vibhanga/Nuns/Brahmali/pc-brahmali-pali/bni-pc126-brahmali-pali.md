@@ -22,7 +22,7 @@ language: "Pali - English"
 
 “How could Venerable Upananda sit down in private alone with my wife?”
 
-2The monks heard the complaints of that man, and the monks of few desires complained and criticized Upananda:
+2The bhikkhus heard the complaints of that man, and the bhikkhus of few desires complained and criticized Upananda:
 
 “How could Venerable Upananda sit down in private alone with a woman?” …
 
@@ -31,7 +31,7 @@ language: "Pali - English"
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

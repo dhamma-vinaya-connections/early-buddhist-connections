@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “There’s wrong, and there’s right. Listen closely and consider it well. I will explain this for you.
+2. It was then that the Bhagavān addressed the bhikkhus, “There’s wrong, and there’s right. Listen closely and consider it well. I will explain this for you.
 
 3. “What’s wrong? This refers to wrong view … wrong _samādhi_. What’s right? This refers to right view … right _samādhi_.
 
@@ -39,7 +39,7 @@ language: "English"
 
 11. “What’s right _samādhi_? It’s abiding with mind unconfused, resolute, collected, tranquil, in _samādhi_, and single-minded.”
 
-12. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+12. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

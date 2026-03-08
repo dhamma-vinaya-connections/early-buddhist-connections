@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six ate stuffing their cheeks. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six ate stuffing their cheeks. …
 
 #### Final ruling
 
 2“‘I will not eat stuffing my cheeks,’ this is how you should train.”
 
-3One should not eat stuffing one’s cheeks. If a monk, out of disrespect, eats stuffing one or both cheeks, he commits an offense of wrong conduct.
+3One should not eat stuffing one’s cheeks. If a bhikkhu, out of disrespect, eats stuffing one or both cheeks, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

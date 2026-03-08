@@ -49,7 +49,7 @@ parallels_partilal: ""
 > Seclusion as depicted in other paths and by the Buddha
 
 > [!info] Key Excerpts 
-> Mendicant is ethical, giving up unethical conduct, . They have right view, giving up wrong view. They’ve ended defilements, giving up defilements, being secluded from them
+> bhikkhu is ethical, giving up unethical conduct, . They have right view, giving up wrong view. They’ve ended defilements, giving up defilements, being secluded from them
 > 
 > Other paths seclusion in robes, alms-food, and lodgings.
 > 

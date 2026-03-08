@@ -22,101 +22,101 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time, because of his loss of material support and honor, Devadatta and his followers had to ask families repeatedly to get invited to meals. People complained and criticized him, “How can the Sakyan monastics repeatedly ask families to get invited to meals? Who doesn’t like nice food? Who doesn’t prefer tasty food?”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can Devadatta and his followers repeatedly ask families to get invited to meals?” … “Is it true, Devadatta, that you do this?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can Devadatta and his followers repeatedly ask families to get invited to meals?” … “Is it true, Devadatta, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 3‘If a monk eats in a group, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-5Soon afterwards people invited sick monks to a meal. But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. They told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+5Soon afterwards people invited sick bhikkhus to a meal. But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. They told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow a sick monk to eat in a group.
+“bhikkhus, I allow a sick monk to eat in a group.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 
 6‘If a monk eats in a group, except on an appropriate occasion, he commits an offense entailing confession. This is the appropriate occasion: he is sick.’”
 
-7In this way the Buddha laid down this training rule for the monks.
+7In this way the Buddha laid down this training rule for the bhikkhus.
 
-8Soon afterwards, during the robe-giving season, people prepared a meal together with robe-cloth and then invited the monks, saying, “We wish to offer a meal and then give robe-cloth.” But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. As a result, they only got a small amount of robe-cloth. They told the Buddha. …
+8Soon afterwards, during the robe-giving season, people prepared a meal together with robe-cloth and then invited the bhikkhus, saying, “We wish to offer a meal and then give robe-cloth.” But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. As a result, they only got a small amount of robe-cloth. They told the Buddha. …
 
-“Monks, I allow you to eat in a group during the robe-giving season.
+“bhikkhus, I allow you to eat in a group during the robe-giving season.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 
 9‘If a monk eats in a group, except on an appropriate occasion, he commits an offense entailing confession. These are the appropriate occasions: he is sick; it is the robe-giving season.’”
 
-10In this way the Buddha laid down this training rule for the monks.
+10In this way the Buddha laid down this training rule for the bhikkhus.
 
-11Soon afterwards people invited the robe-making monks for a meal. But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. They told the Buddha. …
+11Soon afterwards people invited the robe-making bhikkhus for a meal. But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. They told the Buddha. …
 
-“Monks, I allow you to eat in a group at a time when you are making robes.
+“bhikkhus, I allow you to eat in a group at a time when you are making robes.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 
 12‘If a monk eats in a group, except on an appropriate occasion, he commits an offense entailing confession. These are the appropriate occasions: he is sick; it is the robe-giving season; it is a time of making robes.’”
 
 
-13In this way the Buddha laid down this training rule for the monks.
+13In this way the Buddha laid down this training rule for the bhikkhus.
 
-14Soon afterwards some monks went traveling with a group of people. The monks said to those people, “Please wait a moment while we walk for alms.” They replied, “Venerables, please eat right here.” But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. They told the Buddha. …
+14Soon afterwards some bhikkhus went traveling with a group of people. The bhikkhus said to those people, “Please wait a moment while we walk for alms.” They replied, “Venerables, please eat right here.” But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. They told the Buddha. …
 
-“Monks, I allow you to eat in a group when you’re traveling.
+“bhikkhus, I allow you to eat in a group when you’re traveling.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 
 15‘If a monk eats in a group, except on an appropriate occasion, he commits an offense entailing confession. These are the appropriate occasions: he is sick; it is the robe-giving season; it is a time of making robes; he is traveling.’”
 
-16In this way the Buddha laid down this training rule for the monks.
+16In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-17Soon afterwards some monks were traveling by boat with a group of people. The monks said to those people, “Please go to the shore for a moment while we walk for alms.” They replied, “Venerables, please eat right here.” But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. They told the Buddha. …
+17Soon afterwards some bhikkhus were traveling by boat with a group of people. The bhikkhus said to those people, “Please go to the shore for a moment while we walk for alms.” They replied, “Venerables, please eat right here.” But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. They told the Buddha. …
 
-“Monks, I allow you to eat in a group when on board a boat.
+“bhikkhus, I allow you to eat in a group when on board a boat.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 
 18‘If a monk eats in a group, except on an appropriate occasion, he commits an offense entailing confession. These are the appropriate occasions: he is sick; it is the robe-giving season; it is a time of making robes; he is traveling; he is on a boat.’”
 
-19In this way the Buddha laid down this training rule for the monks.
+19In this way the Buddha laid down this training rule for the bhikkhus.
 
-20Soon afterwards monks who had completed the rainy-season residence in various regions were coming to Rājagaha to visit the Buddha. People saw those monks who had come from various countries and invited them for a meal. But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. They told the Buddha. …
+20Soon afterwards bhikkhus who had completed the rainy-season residence in various regions were coming to Rājagaha to visit the Buddha. People saw those bhikkhus who had come from various countries and invited them for a meal. But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. They told the Buddha. …
 
-“Monks, I allow you to eat in a group on big occasions.
+“bhikkhus, I allow you to eat in a group on big occasions.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 
 21‘If a monk eats in a group, except on an appropriate occasion, he commits an offense entailing confession. These are the appropriate occasions: he is sick; it is the robe-giving season; it is a time of making robes; he is traveling; he is on a boat; it is a big occasion.’”
 
-22In this way the Buddha laid down this training rule for the monks.
+22In this way the Buddha laid down this training rule for the bhikkhus.
 
 23Soon afterwards a relative of King Seniya Bimbisāra of Magadha who had gone forth with the Ājīvaka ascetics went to the King and said, “Great king, I wish to make a meal for the monastics of all religions.”
 
-“That’s fine, Sir, if you first feed the Sangha of monks headed by the Buddha.”
+“That’s fine, Sir, if you first feed the Sangha of bhikkhus headed by the Buddha.”
 
 
 “I’ll do that.”
 
-And he sent a message to the monks: “Please accept a meal from me tomorrow.” But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. That Ājīvaka ascetic then went to the Buddha, exchanged pleasantries with him, and said, “Good Gotama has gone forth and so have I. One who has gone forth should receive alms from another who has gone forth. Good Gotama, please accept a meal from me tomorrow together with the Sangha of monks.” The Buddha consented by remaining silent. The Ājīvaka understood that the Buddha had consented, and he left.
+And he sent a message to the bhikkhus: “Please accept a meal from me tomorrow.” But knowing that the Buddha had prohibited eating in a group and being afraid of wrongdoing, they did not accept. That Ājīvaka ascetic then went to the Buddha, exchanged pleasantries with him, and said, “Good Gotama has gone forth and so have I. One who has gone forth should receive alms from another who has gone forth. Good Gotama, please accept a meal from me tomorrow together with the Sangha of bhikkhus.” The Buddha consented by remaining silent. The Ājīvaka understood that the Buddha had consented, and he left.
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to eat in a group when the meal is given by a monastic.
+“bhikkhus, I allow you to eat in a group when the meal is given by a monastic.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -124,7 +124,7 @@ And so, monks, this training rule should be recited like this:
 
 #### Definitions
 
-25**Eats in a group:** wherever four monks, after being invited, eat any of the five cooked foods—this is called “eats in a group”.
+25**Eats in a group:** wherever four bhikkhus, after being invited, eat any of the five cooked foods—this is called “eats in a group”.
 
 26**Except on an appropriate occasion:** unless it is an appropriate occasion.
 
@@ -140,7 +140,7 @@ And so, monks, this training rule should be recited like this:
 
 31**He is on a boat:** he may eat in a group if he intends to board a boat, while on board, and after disembarking.
 
-32**It is a big occasion:** if two or three monks can get by on walking for alms, but not a group of four, he may eat in a group.
+32**It is a big occasion:** if two or three bhikkhus can get by on walking for alms, but not a group of four, he may eat in a group.
 
 33**It is a meal given by a monastic:** if any kind of wanderer is making the meal, he may eat in a group.
 

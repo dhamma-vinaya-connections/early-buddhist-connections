@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma15note01) One time, the Buddha traveled to Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma15note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “If a deed is done intentionally, I say that person is sure to experience its result, whether in the present life or a later life. If a deed is done unintentionally, I say it’s not sure that they’ll experience its result.
+2. It was then that the Bhagavān addressed the bhikkhus, “If a deed is done intentionally, I say that person is sure to experience its result, whether in the present life or a later life. If a deed is done unintentionally, I say it’s not sure that they’ll experience its result.
 
 3. “Someone who intentionally does three physical deeds that are unskillful with painful effects will experience painful results … four verbal deeds … three mental deeds that are unskillful with painful effects will experience painful results.
 
@@ -57,7 +57,7 @@ language: "English"
 
 20. “If, as a result of bad friends in the past, they’re careless in conduct and commit unskillful deeds, the well-versed noble disciple won’t be led astray, can’t be defiled, and won’t follow them anymore. If a young man or woman is born and then practices this liberation of kindness, would they commit unskillful physical, verbal, and mental deeds afterward?”
 
-The monks answered, “No, Bhagavān. Why is that? They wouldn’t commit bad deeds themselves, so where would [future] bad deeds come from?”
+The bhikkhus answered, “No, Bhagavān. Why is that? They wouldn’t commit bad deeds themselves, so where would [future] bad deeds come from?”
 
 21. “Therefore, this man or woman, whether living at home or having left home, will always diligently cultivate the liberation of kindness. If that man or woman, whether living at home or having left home, cultivates the liberation of kindness, they won’t keep this body when they go to another life. They’ll depart from here just according to their minds.
 
@@ -69,13 +69,13 @@ The monks answered, “No, Bhagavān. Why is that? They wouldn’t commit bad de
 
 25. “If, as a result of bad friends in the past, they’re careless in conduct and commit unskillful deeds, the well-versed noble disciple won’t be led astray, can’t be defiled, and won’t follow them anymore. If a young man or woman is born and then practices this liberation of equanimity, would they commit unskillful physical, verbal, and mental deeds afterward?”
 
-The monks answered, “No, Bhagavān. Why is that? They wouldn’t commit bad deeds themselves, so where would [future] bad deeds come from?”
+The bhikkhus answered, “No, Bhagavān. Why is that? They wouldn’t commit bad deeds themselves, so where would [future] bad deeds come from?”
 
 26. “Therefore, this man or woman, whether living at home or having left home, will always diligently cultivate the liberation of equanimity. If that man or woman, whether living at home or having left home, cultivates the liberation of equanimity, they won’t keep this body when they go to another life. They’ll depart from here just according to their minds.
 
 27. “A monk should think, ‘I’ve been careless in the past and committed unskillful deeds. I might experience the results of all of them in the present instead or in a later life.’ If he thus practices the liberation of equanimity and [his mind becomes] measureless and well cultivated, he’ll surely become a non-returner or reach a higher attainment.”
 
-28. This is what the Buddha said. Those monks who heard what the Buddha had taught rejoiced and approved.
+28. This is what the Buddha said. Those bhikkhus who heard what the Buddha had taught rejoiced and approved.
 
 ---
 

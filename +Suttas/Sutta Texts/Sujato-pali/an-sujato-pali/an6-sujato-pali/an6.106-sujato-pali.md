@@ -20,10 +20,10 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, you should give up these three cravings and three conceits. What three cravings should you give up? Craving for sensual pleasures, craving for continued existence, and craving to end existence. These are the three cravings you should give up. What three conceits should you give up? Conceit, inferiority complex, and superiority complex. These are the three conceits you should give up.
+1“bhikkhus, you should give up these three cravings and three conceits. What three cravings should you give up? Craving for sensual pleasures, craving for continued existence, and craving to end existence. These are the three cravings you should give up. What three conceits should you give up? Conceit, inferiority complex, and superiority complex. These are the three conceits you should give up.
 
 
-When a mendicant has given up these three cravings and these three conceits they’re called a mendicant who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
+When a bhikkhu has given up these three cravings and these three conceits they’re called a bhikkhu who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
 
 1"Tisso imā, bhikkhave, taṇhā pahātabbā, tayo ca mānā. Katamā tisso taṇhā pahātabbā? Kāmataṇhā, bhavataṇhā, vibhavataṇhā – imā tisso taṇhā pahātabbā. Katame tayo mānā pahātabbā? Māno, omāno, atimāno – ime tayo mānā pahātabbā.
 

@@ -18,29 +18,29 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the Sangha had gathered on some business. The monks from the group of six were busy making robes and so they gave their consent to one among them.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the Sangha had gathered on some business. The bhikkhus from the group of six were busy making robes and so they gave their consent to one among them.
 
-When the Sangha was ready to do the legal procedure for which it had gathered, it put forward a motion. That monk from the group of six thought: “This is just how they do legal procedures against us one by one, but against who will you do this one?” and without giving his consent, he got up from his seat and left.
+When the Sangha was ready to do the legal procedure for which it had gathered, it put forward a motion. That bhikkhu from the group of six thought: “This is just how they do legal procedures against us one by one, but against who will you do this one?” and without giving his consent, he got up from his seat and left.
 
 
-2The monks of few desires complained and criticized him:
+2The bhikkhus of few desires complained and criticized him:
 
-“When the Sangha is in the middle of a discussion, how could that monk get up from his seat and leave without giving his consent?” …
+“When the Sangha is in the middle of a discussion, how could that bhikkhu get up from his seat and leave without giving his consent?” …
 
-“Is it true, monk, that you did this?”
+“Is it true, bhikkhu, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘When the Sangha is in the middle of a discussion, if a monk gets up from his seat and leaves without first giving his consent, he commits an offense entailing confession.’”
+3‘When the Sangha is in the middle of a discussion, if a bhikkhu gets up from his seat and leaves without first giving his consent, he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 5**When the Sangha is in the middle of a discussion:** when the topic has been announced but the discussion is not yet concluded, or when the motion has been put forward, or when the announcement is still under way.
 

@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato.  
 
-1So I have heard. At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Mendicants, the life span of humans is short. You must go to the next life. So you should do what is skillful, you should practice the spiritual life. No-one born is immortal. A long life is a hundred years or a little more.”
+2“bhikkhus, the life span of humans is short. You must go to the next life. So you should do what is skillful, you should practice the spiritual life. No-one born is immortal. A long life is a hundred years or a little more.”
 
 3Then Māra the Wicked went up to the Buddha and addressed him in verse:
 

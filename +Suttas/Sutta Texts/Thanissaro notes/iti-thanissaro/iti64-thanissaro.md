@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 64
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three kinds of misconduct. Which three? Bodily misconduct, verbal misconduct, mental misconduct.[1](#^iti64note01) These are the three kinds of misconduct.” ^iti64note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three kinds of misconduct. Which three? Bodily misconduct, verbal misconduct, mental misconduct.[1](#^iti64note01) These are the three kinds of misconduct.” ^iti64note01-ref
 
 Having engaged
 

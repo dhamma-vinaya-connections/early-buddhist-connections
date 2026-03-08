@@ -44,7 +44,7 @@ parallels_partilal: "[[SA-2.354]], [[SA1334]], [[DHP\|DHP376]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant plagued by bad thoughts is encouraged by a deity
+> A bhikkhu plagued by bad thoughts is encouraged by a deity
 
 > [!info] Key Excerpts 
 > Because of improper attention,

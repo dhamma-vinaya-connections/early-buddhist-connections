@@ -23,12 +23,12 @@ language: "Pali - English"
 
 The king gave her his cloak. He then got up from his seat, bowed down, circumambulated her with his right side toward her, and left. People complained and criticized her: “These nuns have great desires; they are not content. How can they ask the king for his linen cloak?”
 
-2The nuns heard the complaints of those people, and the nuns of few desires complained and criticized her, “How could Venerable Thullanandā ask the king for his linen cloak?” … “Is it true, monks, that the nun Thullanandā asked for this?”
+2The nuns heard the complaints of those people, and the nuns of few desires complained and criticized her, “How could Venerable Thullanandā ask the king for his linen cloak?” … “Is it true, bhikkhus, that the nun Thullanandā asked for this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā ask the king for his linen cloak? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā ask the king for his linen cloak? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -46,7 +46,7 @@ The Buddha rebuked her … “How could the nun Thullanandā ask the king for hi
 7**If she gets one in exchange that is worth more than that:** if she asks for one worth more than that, then for the effort there is an act of wrong conduct. When she gets it, it becomes subject to relinquishment.
 
 
-It is to be relinquished to a saṅgha, a group, or an individual nun. “And, monks, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1, paragraph 8]] with appropriate substitutions.
+It is to be relinquished to a saṅgha, a group, or an individual nun. “And, bhikkhus, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1, paragraph 8]] with appropriate substitutions.
 
 ‘Venerables, this light cloak worth more than two-and-a-half _kaṁsa_ coins, which I got in exchange, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this back to you.’”
 

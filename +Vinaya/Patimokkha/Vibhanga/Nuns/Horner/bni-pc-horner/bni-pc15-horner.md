@@ -17,13 +17,13 @@ Saying, “Lady, give back that seat,” having scolded her, they stopped (her a
 
 “How can this nun, having approached families before a meal, having sat down on a seat, depart without asking the owner (for permission)?” …
 
-“Is it true, as is said, monks, that a nun … the owner (for permission)?”
+“Is it true, as is said, bhikkhus, that a nun … the owner (for permission)?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can a nun … depart without asking the owner (for permission)? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can a nun … depart without asking the owner (for permission)? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 *BD.3.271* “Whatever nun, having approached families before a meal, having sat down on a seat, should depart without asking the owner (for permission), there is an offence of expiation.”
 

@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five things lead to the decline of a mendicant who is temporarily free. What five? They relish work, talk, and sleep. They don’t guard the sense doors and they eat too much. These five things lead to the decline of a mendicant who is temporarily free.
+1“bhikkhus, these five things lead to the decline of a bhikkhu who is temporarily free. What five? They relish work, talk, and sleep. They don’t guard the sense doors and they eat too much. These five things lead to the decline of a bhikkhu who is temporarily free.
 
-2These five things don’t lead to the decline of a mendicant who is temporarily free. What five? They don’t relish work, talk, sleep, and company. They guard the sense doors and they have moderation in eating. These five things don’t lead to the decline of a mendicant who is temporarily free.”
+2These five things don’t lead to the decline of a bhikkhu who is temporarily free. What five? They don’t relish work, talk, sleep, and company. They guard the sense doors and they have moderation in eating. These five things don’t lead to the decline of a bhikkhu who is temporarily free.”
 
 1"Pañcime, bhikkhave, dhammā samayavimuttassa bhikkhuno parihānāya saṁvattanti. Katame pañca? Kammārāmatā, bhassārāmatā, niddārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā. Ime kho, bhikkhave, pañca dhammā samayavimuttassa bhikkhuno parihānāya saṁvattanti.
 

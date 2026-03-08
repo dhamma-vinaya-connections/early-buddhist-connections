@@ -18,14 +18,14 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Kosambī in Ghosita’s Monastery. At that time a government official who was Venerable Channa’s supporter was making him a dwelling. When the dwelling was finished, Channa had it roofed and plastered over and over. Being overloaded, the dwelling collapsed. Then, while collecting grass and sticks, Channa spoiled the barley field belonging to a certain brahmin. That brahmin complained and criticized him, “How can the venerables spoil my barley field?”
 
-2The monks heard the complaints of that brahmin, and the monks of few desires complained and criticized Channa, “How could Venerable Channa have a finished dwelling roofed and plastered over and over until it collapsed from overloading?”
+2The bhikkhus heard the complaints of that brahmin, and the bhikkhus of few desires complained and criticized Channa, “How could Venerable Channa have a finished dwelling roofed and plastered over and over until it collapsed from overloading?”
 
 3After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Channa: “Is it true, Channa, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

@@ -18,7 +18,7 @@ Now at that time the bhikkhus of Kosambī were arguing, quarreling, and disputin
 
 Then a bhikkhu approached the Auspicious One, bowed, sat down to one side, and informed him of the matter.
 
-So the Auspicious One addressed one of the monks, “Please, bhikkhu, in my name tell those bhikkhus that the teacher summons them.
+So the Auspicious One addressed one of the bhikkhus, “Please, bhikkhu, in my name tell those bhikkhus that the teacher summons them.
 
 “Yes, venerable sir,” that bhikkhu replied. He went to those bhikkhus and said, “Venerables, the teacher summons you.”
 

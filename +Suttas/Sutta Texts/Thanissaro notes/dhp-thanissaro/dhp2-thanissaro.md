@@ -167,7 +167,7 @@ always.
 ### Verse 30
 
 30
-The monk delighting in heedfulness,
+The bhikkhu delighting in heedfulness,
 
 seeing danger in heedlessness,
 
@@ -177,7 +177,7 @@ burning fetters
 
 great & small.
 
-The monk delighting in heedfulness,
+The bhikkhu delighting in heedfulness,
 
 seeing danger in heedlessness
 

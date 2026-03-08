@@ -47,7 +47,7 @@ parallels_partilal: "[[SNP3.12]], [[PE2]], [[PE3]]"
 > The rewards of noble discernment
 
 > [!info] Key Excerpts 
-> beings are truly bereft, mendicants, who are bereft of noble wisdom
+> beings are truly bereft, bhikkhus, who are bereft of noble wisdom
 > 
 > wisdom.They live unhappily in the present life—with distress, anguish, and fever—and when the body breaks up, after death, they can expect a bad rebirth.
 > 

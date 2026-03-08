@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.85.1.1* *BD.3.402* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six nuns went[^1] in a vehicle.[^2] People … spread it about, saying: “How can these nuns go in a vehicle, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six nuns go in a vehicle?” …
 
-“Is it true, as is said, monks, that the group of six nuns went in a vehicle?”
+“Is it true, as is said, bhikkhus, that the group of six nuns went in a vehicle?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can this group of six nuns go in a vehicle? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training: *Vin.4.339*
+“How, bhikkhus, can this group of six nuns go in a vehicle? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training: *Vin.4.339*
 
 “Whatever nun should go in a vehicle, there is an offence of expiation.”[^3]
 
@@ -25,7 +25,7 @@ And thus this rule of training for nuns came to be laid down by the lord.
 
 * * *
 
-*Bi-Pc.85.1.2* Now at that time a certain nun came to be ill. She was not able to go on foot. They told this matter to the lord. He said: “I allow, monks, a vehicle for a nun who is ill.[^4] And thus, monks … this rule of training:
+*Bi-Pc.85.1.2* Now at that time a certain nun came to be ill. She was not able to go on foot. They told this matter to the lord. He said: “I allow, bhikkhus, a vehicle for a nun who is ill.[^4] And thus, bhikkhus … this rule of training:
 
 *BD.3.403*“Whatever nun who is not ill should go in a vehicle, there is an offence of expiation.”
 

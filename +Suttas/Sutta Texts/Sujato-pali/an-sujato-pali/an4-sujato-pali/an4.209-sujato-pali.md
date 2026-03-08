@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you bad character and worse character, good character and better character.
+1“bhikkhus, I will teach you bad character and worse character, good character and better character.
 
 2And who has bad character? It’s someone who kills living creatures, steals, and commits sexual misconduct. They use speech that’s false, divisive, harsh, or nonsensical. And they’re covetous, malicious, with wrong view. This is called bad character.
 

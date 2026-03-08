@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these eight accomplishments. What eight? Accomplishment in initiative, protection, good friendship, and balanced finances. And accomplishment in faith, ethics, generosity, and wisdom.
+1“bhikkhus, there are these eight accomplishments. What eight? Accomplishment in initiative, protection, good friendship, and balanced finances. And accomplishment in faith, ethics, generosity, and wisdom.
 
 And what is accomplishment in initiative? It’s when a gentleman earns a living by means such as farming, trade, raising cattle, archery, government service, or one of the professions. They understand how to go about these things in order to complete and organize the work. This is called accomplishment in initiative.
 

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 93
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three fires. Which three? The fire of passion, the fire of aversion, the fire of delusion. These are the three fires.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three fires. Which three? The fire of passion, the fire of aversion, the fire of delusion. These are the three fires.”
 
 The fire of passion burns in a mortal
 

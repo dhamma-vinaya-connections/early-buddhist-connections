@@ -1,6 +1,6 @@
 ---
 vin_code: "BNI-PC56"
-vin_title: "Abhikkhukāvāsa - Staying Apart From Monks"
+vin_title: "Abhikkhukāvāsa - Staying Apart From bhikkhus"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
@@ -20,31 +20,31 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time a number of nuns who had completed the rainy-season residence in a village monastery went to Sāvatthī. The nuns there asked them, “Venerables, where did you spend the rains residence? We hope the instruction was effective?”
 
-“There were no monks there. So how could the instruction be effective?”
+“There were no bhikkhus there. So how could the instruction be effective?”
 
 
-2The nuns of few desires complained and criticized them, “How could nuns spend the rains residence in a monastery without monks?” …
+2The nuns of few desires complained and criticized them, “How could nuns spend the rains residence in a monastery without bhikkhus?” …
 
-“Is it true, monks, that nuns did this?”
+“Is it true, bhikkhus, that nuns did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How could nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
-3‘If a nun spends the rainy-season residence in a monastery without monks, she commits an offense entailing confession.’”
+3‘If a nun spends the rainy-season residence in a monastery without bhikkhus, she commits an offense entailing confession.’”
 
 #### Definitions
 
 4**A:** whoever … **Nun:** … The nun who has been given the full ordination in unanimity by both Sanghas through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of nun is meant in this case.
 
-5**A monastery without monks:** she is not able to go to the instruction or to formal meetings of the community. If she thinks, “I’ll stay here for the rainy-season residence,” and she prepares a dwelling, sets out water for drinking and water for washing, and sweeps the yard, she commits an offense of wrong conduct. At dawn, she commits an offense entailing confession.
+5**A monastery without bhikkhus:** she is not able to go to the instruction or to formal meetings of the community. If she thinks, “I’ll stay here for the rainy-season residence,” and she prepares a dwelling, sets out water for drinking and water for washing, and sweeps the yard, she commits an offense of wrong conduct. At dawn, she commits an offense entailing confession.
 
 #### Non-offenses
 
-6There is no offense: if the monks who entered the rainy-season residence there depart or disrobe or die or join another faction; if there is an emergency; if she is insane; if she is the first offender.
+6There is no offense: if the bhikkhus who entered the rainy-season residence there depart or disrobe or die or join another faction; if there is an emergency; if she is insane; if she is the first offender.
 
 The sixth training rule is finished.
 

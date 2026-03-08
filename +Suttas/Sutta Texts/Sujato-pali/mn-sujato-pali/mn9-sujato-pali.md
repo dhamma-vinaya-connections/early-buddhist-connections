@@ -18,13 +18,13 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There Sāriputta addressed the mendicants: “Reverends, mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There Sāriputta addressed the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Sāriputta said this:
 
 2“Reverends, they speak of this thing called ‘right view’. How do you define a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching?”
 
-3“Reverend, we would travel a long way to learn the meaning of this statement in the presence of Venerable Sāriputta. May Venerable Sāriputta himself please clarify the meaning of this. The mendicants will listen and remember it.”
+3“Reverend, we would travel a long way to learn the meaning of this statement in the presence of Venerable Sāriputta. May Venerable Sāriputta himself please clarify the meaning of this. The bhikkhus will listen and remember it.”
 
 “Well then, reverends, listen and pay close attention, I will speak.”
 
@@ -48,7 +48,7 @@ And what is the root of the skillful? Contentment, love, and understanding. This
 
 6A noble disciple understands in this way the unskillful and its root, and the skillful and its root. They’ve completely given up the underlying tendency to greed, got rid of the underlying tendency to repulsion, and eradicated the underlying tendency to the view and conceit ‘I am’. They’ve given up ignorance and given rise to knowledge, and make an end of suffering in this very life. When they’ve done this, they’re defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching.”
 
-7Saying “Good, sir,” those mendicants approved and agreed with what Sāriputta said. Then they asked another question: “But reverend, might there be another way to describe a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching?”
+7Saying “Good, sir,” those bhikkhus approved and agreed with what Sāriputta said. Then they asked another question: “But reverend, might there be another way to describe a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching?”
 
 
 8“There might, reverends. A noble disciple understands fuel, its origin, its cessation, and the practice that leads to its cessation. When they’ve done this, they’re defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching.
@@ -58,7 +58,7 @@ But what is fuel? What is its origin, its cessation, and the practice that leads
 9A noble disciple understands in this way fuel, its origin, its cessation, and the practice that leads to its cessation. They’ve completely given up the underlying tendency to greed, got rid of the underlying tendency to repulsion, and eradicated the underlying tendency to the view and conceit ‘I am’. They’ve given up ignorance and given rise to knowledge, and make an end of suffering in this very life. When they’ve done this, they’re defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching.”
 
 
-10Saying “Good, sir,” those mendicants … asked another question: “But reverend, might there be another way to describe a noble disciple who … has come to the true teaching?”
+10Saying “Good, sir,” those bhikkhus … asked another question: “But reverend, might there be another way to describe a noble disciple who … has come to the true teaching?”
 
 11“There might, reverends. A noble disciple understands suffering, its origin, its cessation, and the practice that leads to its cessation. When they’ve done this, they’re defined as a noble disciple who … has come to the true teaching. But what is suffering? What is its origin, its cessation, and the practice that leads to its cessation? Rebirth is suffering; old age is suffering; death is suffering; sorrow, lamentation, pain, sadness, and distress are suffering; association with the disliked is suffering; separation from the liked is suffering; not getting what you wish for is suffering. In brief, the five grasping aggregates are suffering. This is called suffering.
 
@@ -70,7 +70,7 @@ And what is the cessation of suffering? It’s the fading away and cessation of 
 12A noble disciple understands in this way suffering, its origin, its cessation, and the practice that leads to its cessation. They’ve completely given up the underlying tendency to greed, got rid of the underlying tendency to repulsion, and eradicated the underlying tendency to the view and conceit ‘I am’. They’ve given up ignorance and given rise to knowledge, and make an end of suffering in this very life. When they’ve done this, they’re defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching.”
 
 
-13Saying “Good, sir,” those mendicants … asked another question: “But reverend, might there be another way to describe a noble disciple who … has come to the true teaching?”
+13Saying “Good, sir,” those bhikkhus … asked another question: “But reverend, might there be another way to describe a noble disciple who … has come to the true teaching?”
 
 14–15“There might, reverends. A noble disciple understands old age and death, their origin, their cessation, and the practice that leads to their cessation … But what are old age and death? What is their origin, their cessation, and the practice that leads to their cessation? The old age, decrepitude, broken teeth, gray hair, wrinkly skin, diminished vitality, and failing faculties of the various sentient beings in the various orders of sentient beings. This is called old age. And what is death? The passing away, perishing, disintegration, demise, mortality, death, decease, breaking up of the aggregates, laying to rest of the corpse, and cutting off of the life faculty of the various sentient beings in the various orders of sentient beings. This is called death. Such is old age, and such is death. This is called old age and death. Old age and death originate from rebirth. Old age and death cease when rebirth ceases. The practice that leads to the cessation of old age and death is simply this noble eightfold path …”
 
@@ -130,7 +130,7 @@ And what is the cessation of suffering? It’s the fading away and cessation of 
 “There might, reverends. A noble disciple understands ignorance, its origin, its cessation, and the practice that leads to its cessation … But what is ignorance? What is its origin, its cessation, and the practice that leads to its cessation? Not knowing about suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering. This is called ignorance. Ignorance originates from defilement. Ignorance ceases when defilement ceases. The practice that leads to the cessation of ignorance is simply this noble eightfold path …”
 
 
-38Saying “Good, sir,” those mendicants approved and agreed with what Sāriputta said. Then they asked another question: “But reverend, might there be another way to describe a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching?”
+38Saying “Good, sir,” those bhikkhus approved and agreed with what Sāriputta said. Then they asked another question: “But reverend, might there be another way to describe a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching?”
 
 39“There might, reverends. A noble disciple understands defilement, its origin, its cessation, and the practice that leads to its cessation. When they’ve done this, they’re defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching.
 
@@ -138,7 +138,7 @@ But what is defilement? What is its origin, its cessation, and the practice that
 
 40A noble disciple understands in this way defilement, its origin, its cessation, and the practice that leads to its cessation. They’ve completely given up the underlying tendency to greed, got rid of the underlying tendency to repulsion, and eradicated the underlying tendency to the view and conceit ‘I am’. They’ve given up ignorance and given rise to knowledge, and make an end of suffering in this very life. When they’ve done this, they’re defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching.”
 
-41This is what Venerable Sāriputta said. Satisfied, the mendicants were happy with what Sāriputta said.
+41This is what Venerable Sāriputta said. Satisfied, the bhikkhus were happy with what Sāriputta said.
 
 #### Pali
 

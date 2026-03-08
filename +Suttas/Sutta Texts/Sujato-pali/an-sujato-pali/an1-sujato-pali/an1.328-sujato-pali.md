@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Just as, mendicants, even a tiny bit of fecal matter still stinks, so too I don’t approve of even a tiny bit of continued existence, not even as long as a finger snap.”
+1“Just as, bhikkhus, even a tiny bit of fecal matter still stinks, so too I don’t approve of even a tiny bit of continued existence, not even as long as a finger snap.”
 
 1"Seyyathāpi, bhikkhave, appamattakopi gūtho duggandho hoti; evamevaṁ kho ahaṁ, bhikkhave, appamattakampi bhavaṁ na vaṇṇemi, antamaso accharāsaṅghātamattampi".
 

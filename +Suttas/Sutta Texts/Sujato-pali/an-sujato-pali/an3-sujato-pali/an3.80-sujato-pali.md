@@ -35,7 +35,7 @@ language: "English - Pali"
 “Ānanda, have you heard of a thousandfold lesser world system, a galaxy?”
 
 
-“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha speak. The mendicants will listen and remember it.”
+“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha speak. The bhikkhus will listen and remember it.”
 
 “Well then, Ānanda, listen and pay close attention, I will speak.”
 

@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, I will teach you noble right immersion with its vital conditions and its prerequisites. Listen and pay close attention, I will speak.”
+“bhikkhus, I will teach you noble right immersion with its vital conditions and its prerequisites. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
@@ -106,7 +106,7 @@ For one of right thought, wrong thought is worn away. … For one of right speec
 Even those wanderers of the past, Vassa and Bhañña of Ukkalā, who taught the doctrines of no-cause, inaction, and nihilism, didn’t imagine that the Great Forty should be criticized or rejected. Why is that? For fear of being blamed, criticized, and faulted.”
 
 
-17That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+17That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

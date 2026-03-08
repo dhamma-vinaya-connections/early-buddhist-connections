@@ -18,24 +18,24 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, nuns sat down on seats in front of a monk without asking permission. The monks complained and criticized them, “How can nuns sit down on seats in front of a monk without asking permission?” …
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, nuns sat down on seats in front of a bhikkhu without asking permission. The bhikkhus complained and criticized them, “How can nuns sit down on seats in front of a bhikkhu without asking permission?” …
 
-“Is it true, monks, that nuns do this?”
+“Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
-2‘If a nun sits down on a seat in front of a monk without asking permission, she commits an offense entailing confession.’”
+2‘If a nun sits down on a seat in front of a bhikkhu without asking permission, she commits an offense entailing confession.’”
 
 #### Definitions
 
 3**A:** whoever … **Nun:** … The nun who has been given the full ordination in unanimity by both Sanghas through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of nun is meant in this case.
 
-4**In front of a monk:** in front of one who is fully ordained. **Without asking permission:** without getting permission. **Sits down on a seat:** even if she sits down on the ground, she commits an offense entailing confession.
+4**In front of a bhikkhu:** in front of one who is fully ordained. **Without asking permission:** without getting permission. **Sits down on a seat:** even if she sits down on the ground, she commits an offense entailing confession.
 
 #### Permutations
 

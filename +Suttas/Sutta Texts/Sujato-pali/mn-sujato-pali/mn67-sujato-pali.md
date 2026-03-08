@@ -20,7 +20,7 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Cātumā in a myrobalan grove.
 
-Now at that time around five hundred mendicants headed by Sāriputta and Moggallāna arrived at Cātumā to see the Buddha. And the visiting mendicants, while exchanging pleasantries with the resident mendicants, preparing their lodgings, and putting away their bowls and robes, made a dreadful racket.
+Now at that time around five hundred bhikkhus headed by Sāriputta and Moggallāna arrived at Cātumā to see the Buddha. And the visiting bhikkhus, while exchanging pleasantries with the resident bhikkhus, preparing their lodgings, and putting away their bowls and robes, made a dreadful racket.
 
 Then the Buddha said to Venerable Ānanda: “Ānanda, who’s making that dreadful racket? You’d think it was fishermen hauling in a catch!”
 
@@ -28,77 +28,77 @@ Then the Buddha said to Venerable Ānanda: “Ānanda, who’s making that dread
 And Ānanda told him what had happened.
 
 
-“Well then, Ānanda, in my name tell those mendicants that the teacher summons them.”
+“Well then, Ānanda, in my name tell those bhikkhus that the teacher summons them.”
 
-“Yes, sir,” Ānanda replied. He went to those mendicants and said: “Venerables, the teacher summons you.”
+“Yes, sir,” Ānanda replied. He went to those bhikkhus and said: “Venerables, the teacher summons you.”
 
-“Yes, reverend,” replied those mendicants. Then they rose from their seats and went to the Buddha, bowed, and sat down to one side. The Buddha said to them:
+“Yes, reverend,” replied those bhikkhus. Then they rose from their seats and went to the Buddha, bowed, and sat down to one side. The Buddha said to them:
 
-“Mendicants, what’s with that dreadful racket? You’d think it was fishermen hauling in a catch!”
+“bhikkhus, what’s with that dreadful racket? You’d think it was fishermen hauling in a catch!”
 
 
 And they told him what had happened.
 
 
-“Go away, mendicants, I dismiss you. You are not to stay in my presence.”
+“Go away, bhikkhus, I dismiss you. You are not to stay in my presence.”
 
-“Yes, sir,” replied those mendicants. They got up from their seats, bowed, and respectfully circled the Buddha, keeping him on their right. They set their lodgings in order and left, taking their bowls and robes.
+“Yes, sir,” replied those bhikkhus. They got up from their seats, bowed, and respectfully circled the Buddha, keeping him on their right. They set their lodgings in order and left, taking their bowls and robes.
 
 
-2Now at that time the Sakyans of Cātumā were sitting together at the meeting hall on some business. Seeing those mendicants coming off in the distance, they went up to them and said: “Hello venerables, where are you going?”
+2Now at that time the Sakyans of Cātumā were sitting together at the meeting hall on some business. Seeing those bhikkhus coming off in the distance, they went up to them and said: “Hello venerables, where are you going?”
 
-“Sirs, the mendicant Saṅgha has been dismissed by the Buddha.”
+“Sirs, the bhikkhu Saṅgha has been dismissed by the Buddha.”
 
 “Well then, venerables, sit here for a minute. Hopefully we’ll be able to restore the Buddha’s confidence.”
 
-“Yes, sirs,” replied the mendicants.
+“Yes, sirs,” replied the bhikkhus.
 
 Then the Sakyans of Cātumā went up to the Buddha, bowed, sat down to one side, and said to him:
 
-“May the Buddha approve of the mendicant Saṅgha! May the Buddha welcome the mendicant Saṅgha! May the Buddha support the mendicant Saṅgha now as he did in the past! There are mendicants here who are junior, recently gone forth, newly come to this teaching and training. If they don’t get to see the Buddha they may change and fall apart. If young seedlings don’t get water they may change and fall apart. In the same way, there are mendicants here who are junior, recently gone forth, newly come to this teaching and training. If they don’t get to see the Buddha they may change and fall apart. If a young calf doesn’t see its mother it may change and fall apart. In the same way, there are mendicants here who are junior, recently gone forth, newly come to this teaching and training. If they don’t get to see the Buddha they may change and fall apart. May the Buddha approve of the mendicant Saṅgha! May the Buddha welcome the mendicant Saṅgha! May the Buddha support the mendicant Saṅgha now as he did in the past!”
+“May the Buddha approve of the bhikkhu Saṅgha! May the Buddha welcome the bhikkhu Saṅgha! May the Buddha support the bhikkhu Saṅgha now as he did in the past! There are bhikkhus here who are junior, recently gone forth, newly come to this teaching and training. If they don’t get to see the Buddha they may change and fall apart. If young seedlings don’t get water they may change and fall apart. In the same way, there are bhikkhus here who are junior, recently gone forth, newly come to this teaching and training. If they don’t get to see the Buddha they may change and fall apart. If a young calf doesn’t see its mother it may change and fall apart. In the same way, there are bhikkhus here who are junior, recently gone forth, newly come to this teaching and training. If they don’t get to see the Buddha they may change and fall apart. May the Buddha approve of the bhikkhu Saṅgha! May the Buddha welcome the bhikkhu Saṅgha! May the Buddha support the bhikkhu Saṅgha now as he did in the past!”
 
 
 3Then Brahmā Sahampati knew what the Buddha was thinking. As easily as a strong person would extend or contract their arm, he vanished from the Brahmā realm and reappeared in front of the Buddha. He arranged his robe over one shoulder, raised his joined palms toward the Buddha, and said:
 
-“May the Buddha approve of the mendicant Saṅgha! May the Buddha welcome the mendicant Saṅgha! May the Buddha support the mendicant Saṅgha now as he did in the past! There are mendicants here who are junior, recently gone forth, newly come to this teaching and training. If they don’t get to see the Buddha they may change and fall apart. If young seedlings don’t get water they may change and fall apart. … If a young calf doesn’t see its mother it may change and fall apart. In the same way, there are mendicants here who are junior, recently gone forth, newly come to this teaching and training. If they don’t get to see the Buddha they may change and fall apart. May the Buddha approve of the mendicant Saṅgha! May the Buddha welcome the mendicant Saṅgha! May the Buddha support the mendicant Saṅgha now as he did in the past!”
+“May the Buddha approve of the bhikkhu Saṅgha! May the Buddha welcome the bhikkhu Saṅgha! May the Buddha support the bhikkhu Saṅgha now as he did in the past! There are bhikkhus here who are junior, recently gone forth, newly come to this teaching and training. If they don’t get to see the Buddha they may change and fall apart. If young seedlings don’t get water they may change and fall apart. … If a young calf doesn’t see its mother it may change and fall apart. In the same way, there are bhikkhus here who are junior, recently gone forth, newly come to this teaching and training. If they don’t get to see the Buddha they may change and fall apart. May the Buddha approve of the bhikkhu Saṅgha! May the Buddha welcome the bhikkhu Saṅgha! May the Buddha support the bhikkhu Saṅgha now as he did in the past!”
 
 
 4The Sakyans of Cātumā and Brahmā Sahampati were able to restore the Buddha’s confidence with the similes of the seedlings and the calf.
 
-Then Venerable Mahāmoggallāna addressed the mendicants: “Get up, reverends, and pick up your bowls and robes. The Buddha’s confidence has been restored.”
+Then Venerable Mahāmoggallāna addressed the bhikkhus: “Get up, reverends, and pick up your bowls and robes. The Buddha’s confidence has been restored.”
 
-“Yes, reverend,” replied those mendicants. Then they rose from their seats and, taking their bowls and robes, went to the Buddha, bowed, and sat down to one side. The Buddha said to Venerable Sāriputta: “Sāriputta, what did you think when the mendicant Saṅgha was dismissed by me?”
+“Yes, reverend,” replied those bhikkhus. Then they rose from their seats and, taking their bowls and robes, went to the Buddha, bowed, and sat down to one side. The Buddha said to Venerable Sāriputta: “Sāriputta, what did you think when the bhikkhu Saṅgha was dismissed by me?”
 
-“Sir, I thought this: ‘The Buddha has dismissed the mendicant Saṅgha. Now he will remain passive, dwelling in blissful meditation in the present life, and so will we.’”
+“Sir, I thought this: ‘The Buddha has dismissed the bhikkhu Saṅgha. Now he will remain passive, dwelling in blissful meditation in the present life, and so will we.’”
 
 
 “Hold on, Sāriputta, hold on! Don’t you ever think such a thing again!”
 
-Then the Buddha addressed Venerable Mahāmoggallāna: “Moggallāna, what did you think when the mendicant Saṅgha was dismissed by me?”
+Then the Buddha addressed Venerable Mahāmoggallāna: “Moggallāna, what did you think when the bhikkhu Saṅgha was dismissed by me?”
 
-“Sir, I thought this: ‘The Buddha has dismissed the mendicant Saṅgha. Now he will remain passive, dwelling in blissful meditation in the present life. Meanwhile, Venerable Sāriputta and I will lead the mendicant Saṅgha.’”
+“Sir, I thought this: ‘The Buddha has dismissed the bhikkhu Saṅgha. Now he will remain passive, dwelling in blissful meditation in the present life. Meanwhile, Venerable Sāriputta and I will lead the bhikkhu Saṅgha.’”
 
-“Good, good, Moggallāna! For either I should lead the mendicant Saṅgha, or else Sāriputta and Moggallāna.”
+“Good, good, Moggallāna! For either I should lead the bhikkhu Saṅgha, or else Sāriputta and Moggallāna.”
 
 
-5Then the Buddha said to the mendicants:
+5Then the Buddha said to the bhikkhus:
 
-“Mendicants, when you go into the water you should anticipate four dangers. What four? The dangers of waves, crocodiles, whirlpools, and sharks. These are the four dangers that anyone who enters the water should anticipate.
+“bhikkhus, when you go into the water you should anticipate four dangers. What four? The dangers of waves, crocodiles, whirlpools, and sharks. These are the four dangers that anyone who enters the water should anticipate.
 
 In the same way, a gentleman who goes forth from the lay life to homelessness in this teaching and training should anticipate four dangers. What four? The dangers of waves, crocodiles, whirlpools, and sharks.
 
-6And what, mendicants, is the danger of waves? It’s when a gentleman has gone forth from the lay life to homelessness, thinking: ‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, mired in suffering. Hopefully I can find an end to this entire mass of suffering.’ When they’ve gone forth, their spiritual companions advise and instruct them: ‘You should go out like this, and come back like that. You should look to the front like this, and to the side like that. You should contract your limbs like this, and extend them like that. This is how you should bear your outer robe, bowl, and robes.’ They think: ‘Formerly, as laypeople, we advised and instructed others. And now these mendicants — who you’d think were our children or grandchildren — imagine they can advise and instruct us!’ They reject the training and return to a lesser life. This is called one who rejects the training and returns to a lesser life because they’re afraid of the danger of waves. ‘Danger of waves’ is a term for anger and distress.
+6And what, bhikkhus, is the danger of waves? It’s when a gentleman has gone forth from the lay life to homelessness, thinking: ‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, mired in suffering. Hopefully I can find an end to this entire mass of suffering.’ When they’ve gone forth, their spiritual companions advise and instruct them: ‘You should go out like this, and come back like that. You should look to the front like this, and to the side like that. You should contract your limbs like this, and extend them like that. This is how you should bear your outer robe, bowl, and robes.’ They think: ‘Formerly, as laypeople, we advised and instructed others. And now these bhikkhus — who you’d think were our children or grandchildren — imagine they can advise and instruct us!’ They reject the training and return to a lesser life. This is called one who rejects the training and returns to a lesser life because they’re afraid of the danger of waves. ‘Danger of waves’ is a term for anger and distress.
 
-7And what, mendicants, is the danger of crocodiles? It’s when a gentleman has gone forth from the lay life to homelessness, thinking: ‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, mired in suffering. Hopefully I can find an end to this entire mass of suffering.’ When they’ve gone forth, their spiritual companions advise and instruct them: ‘You may eat, consume, taste, and drink these things, but not those. You may eat what’s allowable, but not what’s unallowable. You may eat at the right time, but not at the wrong time.’ They think: ‘When we were laypeople, we used to eat, consume, taste, and drink what we wanted, not what we didn’t want. We ate and drank both allowable and unallowable things, at the right time and the wrong time. And these faithful householders give us a variety of delicious foods at the wrong time of day. But these mendicants imagine they can gag our mouths!’ They reject the training and return to a lesser life. This is called one who rejects the training and returns to a lesser life because they’re afraid of the danger of crocodiles. ‘Danger of crocodiles’ is a term for gluttony.
+7And what, bhikkhus, is the danger of crocodiles? It’s when a gentleman has gone forth from the lay life to homelessness, thinking: ‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, mired in suffering. Hopefully I can find an end to this entire mass of suffering.’ When they’ve gone forth, their spiritual companions advise and instruct them: ‘You may eat, consume, taste, and drink these things, but not those. You may eat what’s allowable, but not what’s unallowable. You may eat at the right time, but not at the wrong time.’ They think: ‘When we were laypeople, we used to eat, consume, taste, and drink what we wanted, not what we didn’t want. We ate and drank both allowable and unallowable things, at the right time and the wrong time. And these faithful householders give us a variety of delicious foods at the wrong time of day. But these bhikkhus imagine they can gag our mouths!’ They reject the training and return to a lesser life. This is called one who rejects the training and returns to a lesser life because they’re afraid of the danger of crocodiles. ‘Danger of crocodiles’ is a term for gluttony.
 
-8And what, mendicants, is the danger of whirlpools? It’s when a gentleman has gone forth from the lay life to homelessness, thinking: ‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, mired in suffering. Hopefully I can find an end to this entire mass of suffering.’ When they’ve gone forth, they robe up in the morning and, taking their bowl and robe, enter a village or town for alms without guarding body, speech, and mind, without establishing mindfulness, and without restraining the sense faculties. There they see a householder or their child amusing themselves, supplied and provided with the five kinds of sensual stimulation. They think: ‘Formerly, as laypeople, we amused ourselves, supplied and provided with the five kinds of sensual stimulation. And it’s true that my family is wealthy. I can both enjoy my wealth and make merit.’ They reject the training and return to a lesser life. This is called one who rejects the training and returns to a lesser life because they’re afraid of the danger of whirlpools. ‘Danger of whirlpools’ is a term for the five kinds of sensual stimulation.
+8And what, bhikkhus, is the danger of whirlpools? It’s when a gentleman has gone forth from the lay life to homelessness, thinking: ‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, mired in suffering. Hopefully I can find an end to this entire mass of suffering.’ When they’ve gone forth, they robe up in the morning and, taking their bowl and robe, enter a village or town for alms without guarding body, speech, and mind, without establishing mindfulness, and without restraining the sense faculties. There they see a householder or their child amusing themselves, supplied and provided with the five kinds of sensual stimulation. They think: ‘Formerly, as laypeople, we amused ourselves, supplied and provided with the five kinds of sensual stimulation. And it’s true that my family is wealthy. I can both enjoy my wealth and make merit.’ They reject the training and return to a lesser life. This is called one who rejects the training and returns to a lesser life because they’re afraid of the danger of whirlpools. ‘Danger of whirlpools’ is a term for the five kinds of sensual stimulation.
 
-9And what, mendicants, is the danger of sharks? It’s when a gentleman has gone forth from the lay life to homelessness, thinking: ‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, mired in suffering. Hopefully I can find an end to this entire mass of suffering.’ When they’ve gone forth, they robe up in the morning and, taking their bowl and robe, enter a village or town for alms without guarding body, speech, and mind, without establishing mindfulness, and without restraining the sense faculties. There they see a female scantily clad, with revealing clothes. Lust infects their mind, so they reject the training and return to a lesser life. This is called one who rejects the training and returns to a lesser life because they’re afraid of the danger of sharks. ‘Danger of sharks’ is a term for females.
+9And what, bhikkhus, is the danger of sharks? It’s when a gentleman has gone forth from the lay life to homelessness, thinking: ‘I’m swamped by rebirth, old age, and death; by sorrow, lamentation, pain, sadness, and distress. I’m swamped by suffering, mired in suffering. Hopefully I can find an end to this entire mass of suffering.’ When they’ve gone forth, they robe up in the morning and, taking their bowl and robe, enter a village or town for alms without guarding body, speech, and mind, without establishing mindfulness, and without restraining the sense faculties. There they see a female scantily clad, with revealing clothes. Lust infects their mind, so they reject the training and return to a lesser life. This is called one who rejects the training and returns to a lesser life because they’re afraid of the danger of sharks. ‘Danger of sharks’ is a term for females.
 
 These are the four dangers that a gentleman who goes forth from the lay life to homelessness in this teaching and training should anticipate.”
 
 
-10That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+10That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

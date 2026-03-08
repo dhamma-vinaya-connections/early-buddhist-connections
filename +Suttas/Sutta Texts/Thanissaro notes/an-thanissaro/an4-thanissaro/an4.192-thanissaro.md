@@ -15,7 +15,7 @@ language: "English"
 ## ## Ṭhāna Sutta
 
 
-“Monks, these four traits may be known by means of four (other) traits. Which four?
+“bhikkhus, these four traits may be known by means of four (other) traits. Which four?
 
 “It’s through living together that a person’s virtue may be known, and then only after a long period, not a short period; by one who is attentive, not by one who is inattentive; by one who is discerning, not by one who is not discerning.
 
@@ -51,7 +51,7 @@ language: "English"
 
 “‘It’s through discussion that a person’s discernment may be known, and then only after a long period, not a short period; by one who is attentive, not by one who is inattentive; by one who is discerning, not by one who is not discerning’: Thus it was said. And in reference to this was it said.
 
-“These, monks, are the four traits that may be known by means of these four (other) traits.”
+“These, bhikkhus, are the four traits that may be known by means of these four (other) traits.”
 
 See also: [[mn95-thanissaro]]; [[mn110-thanissaro]]; [[an3.68-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.42-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.73-thanissaro]]; [[an8.6-thanissaro]]; [[an10.24-thanissaro]]; [[ud6.2-thanissaro]]
 

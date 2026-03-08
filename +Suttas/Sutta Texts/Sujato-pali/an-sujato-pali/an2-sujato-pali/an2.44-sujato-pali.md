@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two assemblies. What two? An assembly of the worst and an assembly of the best.
+1“There are, bhikkhus, these two assemblies. What two? An assembly of the worst and an assembly of the best.
 
-And what is an assembly of the worst? An assembly where the senior mendicants are indulgent and slack, leaders in backsliding, neglecting seclusion, not rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. Those who come after follow their example. They too become indulgent and slack, leaders in backsliding, neglecting seclusion, not rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is called an assembly of the worst.
+And what is an assembly of the worst? An assembly where the senior bhikkhus are indulgent and slack, leaders in backsliding, neglecting seclusion, not rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. Those who come after follow their example. They too become indulgent and slack, leaders in backsliding, neglecting seclusion, not rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is called an assembly of the worst.
 
-2And what is an assembly of the best? An assembly where the senior mendicants are not indulgent or slack, nor are they backsliders; instead, they take the lead in seclusion, rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. Those who come after follow their example. They too are not indulgent or slack, nor are they backsliders; instead, they take the lead in seclusion, rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is called an assembly of the best.
+2And what is an assembly of the best? An assembly where the senior bhikkhus are not indulgent or slack, nor are they backsliders; instead, they take the lead in seclusion, rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. Those who come after follow their example. They too are not indulgent or slack, nor are they backsliders; instead, they take the lead in seclusion, rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is called an assembly of the best.
 
 These are the two assemblies. The better of these two assemblies is the assembly of the best.”
 

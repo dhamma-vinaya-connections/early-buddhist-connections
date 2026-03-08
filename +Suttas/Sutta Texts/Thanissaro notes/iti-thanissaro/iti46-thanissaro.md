@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 46
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, live with the trainings [in heightened virtue, heightened mind, & heightened discernment] as your reward, with discernment uppermost, release the essence, & mindfulness the governing principle. As you live with the trainings as your reward, with discernment uppermost, release the essence, & mindfulness the governing principle, then one of two fruits can be expected: either gnosis right in the here-&-now, or–if there be any remnant of clinging-sustenance–non-return.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, live with the trainings [in heightened virtue, heightened mind, & heightened discernment] as your reward, with discernment uppermost, release the essence, & mindfulness the governing principle. As you live with the trainings as your reward, with discernment uppermost, release the essence, & mindfulness the governing principle, then one of two fruits can be expected: either gnosis right in the here-&-now, or–if there be any remnant of clinging-sustenance–non-return.”
 
 Complete in the training,
 
@@ -44,7 +44,7 @@ seeing the stopping, the ending of birth,
 
 conquering Māra, along with his armies,[2](#^iti46note02) ^iti46note02-ref
 
-monks,
+bhikkhus,
 
 be gone-beyond aging & death.
 

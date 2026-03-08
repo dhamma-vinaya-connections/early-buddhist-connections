@@ -64,7 +64,7 @@ language: "English - Pali"
 
 ‘‘Katamo ca, bhikkhave, kāmanirodho? Phassanirodho [phassanirodhā (syā.)], bhikkhave, kāmanirodho. Ayameva ariyo aṭṭhaṅgiko maggo kāmanirodhagāminī paṭipadā, seyyathidaṃ – sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi.
 
-"And what, monks, is the cessation of sensual pleasures? The cessation of contact, monks, is the cessation of sensual pleasures. This Noble Eightfold Path itself is the path leading to the cessation of sensual pleasures, namely: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi."
+"And what, monks, is the cessation of sensual pleasures? The cessation of contact, monks, is the cessation of sensual pleasures. This ![[Noble Path]]."
 
 ‘‘Yato kho [yato ca kho (bahūsu)], bhikkhave, ariyasāvako evaṃ kāme pajānāti, evaṃ kāmānaṃ nidānasambhavaṃ pajānāti, evaṃ kāmānaṃ vemattataṃ pajānāti, evaṃ kāmānaṃ vipākaṃ pajānāti, evaṃ kāmanirodhaṃ pajānāti, evaṃ kāmanirodhagāminiṃ paṭipadaṃ pajānāti, so imaṃ nibbedhikaṃ brahmacariyaṃ pajānāti kāmanirodhaṃ. Kāmā, bhikkhave, veditabbā…pe… kāmanirodhagāminī [sabbatthapi evameva dissati] paṭipadā veditabbāti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ.
 
@@ -88,7 +88,7 @@ language: "English - Pali"
 
 ‘‘Katamo ca, bhikkhave, vedanānirodho? Phassanirodho [phassanirodhā (syā. kaṃ. ka.)], bhikkhave, vedanānirodho. Ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṃ – sammādiṭṭhi…pe… sammāsamādhi.
 
-"And what, monks, is the cessation of feelings? The cessation of contact, monks, is the cessation of feelings. This Noble Eightfold Path itself is the path leading to the cessation of feelings, namely: right view…right samādhi."
+"And what, monks, is the cessation of feelings? The cessation of contact, monks, is the cessation of feelings. This ![[Noble Path]]."
 
 ‘‘Yato kho, bhikkhave, ariyasāvako evaṃ vedanaṃ pajānāti, evaṃ vedanānaṃ nidānasambhavaṃ pajānāti, evaṃ vedanānaṃ vemattataṃ pajānāti, evaṃ vedanānaṃ vipākaṃ pajānāti, evaṃ vedanānirodhaṃ pajānāti, evaṃ vedanānirodhagāminiṃ paṭipadaṃ pajānāti. So imaṃ nibbedhikaṃ brahmacariyaṃ pajānāti vedanānirodhaṃ. Vedanā, bhikkhave, veditabbā…pe… vedanānirodhagāminī paṭipadā veditabbāti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ.
 
@@ -112,7 +112,7 @@ language: "English - Pali"
 
 ‘‘Katamo ca, bhikkhave, saññānirodho? Phassanirodho, [phassanirodhā (syā. ka.)] bhikkhave, saññānirodho. Ayameva ariyo aṭṭhaṅgiko maggo saññānirodhagāminī paṭipadā, seyyathidaṃ – sammādiṭṭhi…pe… sammāsamādhi.
 
-"And what, monks, is the cessation of perceptions? The cessation of contact, monks, is the cessation of perceptions. This Noble Eightfold Path itself is the path leading to the cessation of perceptions, namely: right view...right samādhi."
+"And what, monks, is the cessation of perceptions? The cessation of contact, monks, is the cessation of perceptions. This ![[Noble Path]]."
 
 ‘‘Yato kho, bhikkhave, ariyasāvako evaṃ saññaṃ pajānāti, evaṃ saññānaṃ nidānasambhavaṃ pajānāti, evaṃ saññānaṃ vemattataṃ pajānāti, evaṃ saññānaṃ vipākaṃ pajānāti, evaṃ saññānirodhaṃ pajānāti, evaṃ saññānirodhagāminiṃ paṭipadaṃ pajānāti, so imaṃ nibbedhikaṃ brahmacariyaṃ pajānāti saññānirodhaṃ. Saññā, bhikkhave, veditabbā…pe… saññānirodhagāminī paṭipadā veditabbāti. Iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ.
 
@@ -136,7 +136,7 @@ language: "English - Pali"
 
 ‘‘Katamo ca, bhikkhave, āsavanirodho? Avijjānirodho, bhikkhave, āsavanirodho. Ayameva ariyo aṭṭhaṅgiko maggo āsavanirodhagāminī [sabbatthapi evameva dissati] paṭipadā, seyyathidaṃ – sammādiṭṭhi…pe… sammāsamādhi.
 
-"And what, monks, is the cessation of taints? The cessation of ignorance, monks, is the cessation of taints. This Noble Eightfold Path itself is the path leading to the cessation of taints, namely: right view...right samādhi."
+"And what, monks, is the cessation of taints? The cessation of ignorance, monks, is the cessation of taints. This ![[Noble Path]]."
 
 ‘‘Yato kho, bhikkhave, ariyasāvako evaṃ āsave pajānāti, evaṃ āsavānaṃ nidānasambhavaṃ pajānāti, evaṃ āsavānaṃ vemattataṃ pajānāti, evaṃ āsavānaṃ vipākaṃ pajānāti, evaṃ āsavānaṃ nirodhaṃ pajānāti, evaṃ āsavānaṃ nirodhagāminiṃ paṭipadaṃ pajānāti, so imaṃ nibbedhikaṃ brahmacariyaṃ pajānāti āsavanirodhaṃ. Āsavā, bhikkhave, veditabbā…pe… āsavanirodhagāminī [sabbatthapi evameva dissati] paṭipadā veditabbāti. Iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ.
 
@@ -160,7 +160,7 @@ language: "English - Pali"
 
 ‘‘Katamo ca, bhikkhave, kammanirodho? Phassanirodho, [phassanirodhā (ka. sī. syā. ka.)] bhikkhave, kammanirodho. Ayameva ariyo aṭṭhaṅgiko maggo kammanirodhagāminī [sabbatthapi evameva dissati] paṭipadā, seyyathidaṃ – sammādiṭṭhi…pe… sammāsamādhi.
 
-"And what, monks, is the cessation of kamma? The cessation of contact, monks, is the cessation of kamma. This Noble Eightfold Path itself is the path leading to the cessation of kamma, namely: right view...right samādhi."
+"And what, monks, is the cessation of kamma? The cessation of contact, monks, is the cessation of kamma. This ![[Noble Path]]."
 
 ‘‘Yato kho, bhikkhave, ariyasāvako evaṃ kammaṃ pajānāti, evaṃ kammānaṃ nidānasambhavaṃ pajānāti, evaṃ kammānaṃ vemattataṃ pajānāti, evaṃ kammānaṃ vipākaṃ pajānāti, evaṃ kammanirodhaṃ pajānāti, evaṃ kammanirodhagāminiṃ paṭipadaṃ pajānāti, so imaṃ nibbedhikaṃ brahmacariyaṃ pajānāti kammanirodhaṃ. Kammaṃ, bhikkhave, veditabbaṃ…pe… kammanirodhagāminī paṭipadā veditabbāti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ.
 
@@ -184,7 +184,7 @@ language: "English - Pali"
 
 ‘‘Katamo ca, bhikkhave, dukkhanirodho? Taṇhānirodho, [taṇhānirodhā (ka. sī. syā. ka.)] bhikkhave, dukkhanirodho. Ayameva ariyo aṭṭhaṅgiko maggo dukkhassa nirodhagāminī paṭipadā, seyyathidaṃ – sammādiṭṭhi…pe… sammāsamādhi.
 
-"And what, monks, is the cessation of suffering? The cessation of craving, monks, is the cessation of suffering. This Noble Eightfold Path itself is the path leading to the cessation of suffering, namely: right view...right samādhi."
+"And what, monks, is the cessation of suffering? The cessation of craving, monks, is the cessation of suffering. This ![[Noble Path]]."
 
 ‘‘Yato kho, bhikkhave, ariyasāvako evaṃ dukkhaṃ pajānāti, evaṃ dukkhassa nidānasambhavaṃ pajānāti, evaṃ dukkhassa vemattataṃ pajānāti, evaṃ dukkhassa vipākaṃ pajānāti, evaṃ dukkhanirodhaṃ pajānāti, evaṃ dukkhanirodhagāminiṃ paṭipadaṃ pajānāti, so imaṃ nibbedhikaṃ brahmacariyaṃ pajānāti dukkhanirodhaṃ. Dukkhaṃ, bhikkhave, veditabbaṃ, dukkhassa nidānasambhavo veditabbo, dukkhassa vemattatā veditabbā, dukkhassa vipāko veditabbo, dukkhanirodho veditabbo, dukkhanirodhagāminī paṭipadā veditabbāti. Iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ.
 

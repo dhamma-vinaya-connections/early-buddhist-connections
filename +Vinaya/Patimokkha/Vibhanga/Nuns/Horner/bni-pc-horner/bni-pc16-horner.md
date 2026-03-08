@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.16.1.1* *BD.3.273* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the nun Thullanandā, having approached families after a meal, sat down on[^1] a seat without having asked the owner (for permission) and moreover lay down on it. People, being shy of the nun Thullanandā, neither sat down on that seat nor lay down on it. The people … spread it about, saying: “How can the nun Thullanandā, having approached families after a meal, sit down on a seat without asking the owner (for permission) and moreover lie down on it?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can the lady Thullanandā … and moreover lie down on it?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā … and moreover lay down on it?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā … and moreover lay down on it?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā … and moreover lie down on it? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā … and moreover lie down on it? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, having approached families after a meal, should sit down on or should lie down on a seat without asking the owner (for permission), there is an offence of expiation.”
 

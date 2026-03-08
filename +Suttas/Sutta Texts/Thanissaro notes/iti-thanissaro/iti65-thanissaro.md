@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 65
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three kinds of good conduct. Which three? Bodily good conduct, verbal good conduct, mental good conduct. These are the three kinds of good conduct.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three kinds of good conduct. Which three? Bodily good conduct, verbal good conduct, mental good conduct. These are the three kinds of good conduct.”
 
 Having abandoned
 

@@ -44,7 +44,7 @@ Uppalavaṇṇā had just emerged from stillness when she heard the head bandit 
 Being pressured by Udāyī, Uppalavaṇṇā gave him her sarong and then returned to her dwelling place. The nuns who received Uppalavaṇṇā’s bowl and robe asked her where her sarong was. And she told them what had happened. The nuns complained and criticized Udāyī, “How could Venerable Udāyī receive a robe from a nun? It’s hard for women to get material support.”
 
 
-The nuns told the monks. The monks of few desires complained and criticized Udāyī, “How could Venerable Udāyī receive a robe from a nun?”
+The nuns told the bhikkhus. The bhikkhus of few desires complained and criticized Udāyī, “How could Venerable Udāyī receive a robe from a nun?”
 
 
 3After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Udāyī: “Is it true, Udāyī, that you did this?”
@@ -55,20 +55,20 @@ The nuns told the monks. The monks of few desires complained and criticized Udā
 
 “No.”
 
-“Foolish man, a man and a woman who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“Foolish man, a man and a woman who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 4‘If a monk receives a robe directly from an unrelated nun, he commits an offense entailing relinquishment and confession.’”
 
-5In this way the Buddha laid down this training rule for the monks.
+5In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-6Then, being afraid of wrongdoing, the monks did not receive robes from nuns even in exchange. The nuns complained and criticized them, “How can they not receive robes from us in exchange?”
+6Then, being afraid of wrongdoing, the bhikkhus did not receive robes from nuns even in exchange. The nuns complained and criticized them, “How can they not receive robes from us in exchange?”
 
-7The monks heard the criticism of those nuns and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+7The bhikkhus heard the criticism of those nuns and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to receive things in exchange from five kinds of people: monks, nuns, trainee nuns, novice monks, and novice nuns.
+“bhikkhus, I allow you to receive things in exchange from five kinds of people: bhikkhus, nuns, trainee nuns, novice bhikkhus, and novice nuns.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -91,7 +91,7 @@ And so, monks, this training rule should be recited like this:
 
 14If he accepts, then for the effort there is an act of wrong conduct. When he gets the robe-cloth, it becomes subject to relinquishment.
 
-The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this robe-cloth, which I received directly from an unrelated nun without anything in exchange, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe-cloth back to you.’”

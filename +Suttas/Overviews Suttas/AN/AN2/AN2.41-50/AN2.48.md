@@ -47,9 +47,9 @@ parallels_partilal: ""
 > Assembly of the dregs and cream. and assembly that values material things, not the true teaching vs the opposite
 
 > [!info] Key Excerpts 
-> Dregs assembly where the mendicants make decisions prejudiced by favoritism, hostility, stupidity, and cowardice vs the cream are unprejudiced
+> Dregs assembly where the bhikkhus make decisions prejudiced by favoritism, hostility, stupidity, and cowardice vs the cream are unprejudiced
 > 
-> Assembly where the mendicants praise each other in front of devotes to get material things, vs those who don't
+> Assembly where the bhikkhus praise each other in front of devotes to get material things, vs those who don't
 > 
 
 

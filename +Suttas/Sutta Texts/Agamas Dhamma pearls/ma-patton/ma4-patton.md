@@ -19,25 +19,25 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma4note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma4note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “I will explain seven people in water for you. Listen closely! Listen closely, and consider it well.”
+2. It was then that the Bhagavān addressed the bhikkhus, “I will explain seven people in water for you. Listen closely! Listen closely, and consider it well.”
 
-The monks then accepted the teaching and listened.
+The bhikkhus then accepted the teaching and listened.
 
 3. The Buddha said, “What are the seven? Sometimes a person remains prostrate in the water.[2](#^ma4note02) Sometimes a person emerges from the water but goes back under. Sometimes a person emerges from the water and stands up. Sometimes a person emerges from the water, stands up, and looks around after standing up. Sometimes a person emerges from the water, stands up, looks around after standing up, and wades across after looking around. Sometimes a person emerges from the water, stands up, looks around after standing up, wades across after looking around, and reaches the other shore after wading across. Sometimes a person emerges from the water, stands up, looks around after standing up, wades across after looking around, reaches the other shore after wading across, and is called a person who stands on the shore after reaching the other shore. ^ma4note02-ref
 
 4. “Thus, I will again explain the metaphors of these seven people in water. Listen closely! Listen closely, and consider it well.”
 
-The monks then accepted the teaching and listened.
+The bhikkhus then accepted the teaching and listened.
 
 5. The Buddha said, “What are the seven? Sometimes a person remains prostrate. Another person goes back under after emerging. Another person stands up after emerging. Another person stands up after emerging, and they look around after standing up. Another person stands up after emerging, they look around after standing up, and they wade across after looking around. Another person stands up after emerging, they look around after standing up, they wade across after looking around, and they reach the other side after wading across. Another person stands up after emerging, they look around after standing up, they wade across after looking around, they reach the other side after wading across, and they’re called a priest standing the on shore after reaching the other shore.
 
 6. “These are metaphors of seven people in water, which I’ve explained briefly. Do you know what they mean as they’ve been described and as they’ve been defined? How are they to be discerned? What causes and conditions do they have?”
 
-7. The monks then said to the Bhagavān, “The Bhagavān is the source of the Dharma! The Bhagavān is the Dharma lord! The Dharma comes from the Bhagavān! Please let him teach it. After listening, we’ll get a detailed knowledge of its meaning.”
+7. The bhikkhus then said to the Bhagavān, “The Bhagavān is the source of the Dharma! The Bhagavān is the Dharma lord! The Dharma comes from the Bhagavān! Please let him teach it. After listening, we’ll get a detailed knowledge of its meaning.”
 
 8. The Buddha then addressed them, “All of you, listen closely, and consider it well. I will discern their meanings for you.”
 
-The monks then accepted the teaching and listened.
+The bhikkhus then accepted the teaching and listened.
 
 #### 1. The Person Who Remains Prostrate
 
@@ -91,7 +91,7 @@ The monks then accepted the teaching and listened.
 
 27. “I had said, ‘I will explain the seven people in water for you,’ and so I have explained it.”
 
-28. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+28. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

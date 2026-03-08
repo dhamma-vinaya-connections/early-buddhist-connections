@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those who have missed out on mindfulness of the body have missed out on the deathless. Those who have undertaken mindfulness of the body have not missed out on the deathless.”
+1“bhikkhus, those who have missed out on mindfulness of the body have missed out on the deathless. Those who have undertaken mindfulness of the body have not missed out on the deathless.”
 
 1"Amataṁ tesaṁ, bhikkhave, viraddhaṁ yesaṁ kāyagatāsati viraddhā. Amataṁ tesaṁ, bhikkhave, āraddhaṁ yesaṁ kāyagatāsati āraddhā"ti.
 

@@ -19,7 +19,7 @@ language: "English"
 
 “When the truly good people in the world show compassion, they will first show compassion to people of conviction, and not to people without conviction. When visiting, they first visit people of conviction, and not people without conviction. When accepting gifts, they will first accept those from people with conviction, and not from people without conviction. When teaching the Dhamma, they will first teach those with conviction, and not those without conviction. A person of conviction, on the break-up of the body, after death, will arise in a good destination, a heavenly world. These are the five rewards of conviction in a lay person.
 
-“Just as a large banyan tree, on level ground where four roads meet, is a haven for the birds all around, even so a lay person of conviction is a haven for many people: monks, nuns, male lay followers, & female lay followers.”
+“Just as a large banyan tree, on level ground where four roads meet, is a haven for the birds all around, even so a lay person of conviction is a haven for many people: bhikkhus, nuns, male lay followers, & female lay followers.”
 
 A massive tree
 

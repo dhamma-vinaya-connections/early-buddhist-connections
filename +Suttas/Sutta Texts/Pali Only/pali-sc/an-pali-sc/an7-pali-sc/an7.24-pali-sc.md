@@ -2,7 +2,7 @@
 sutta_code: "AN7.24"
 sutta_title:
   - "Paṭhamaparihāni "
-  - "Non-Decline For A Mendicant Trainee"
+  - "Non-Decline For A bhikkhu Trainee"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---
@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 7: The Book of the Sevens
-### AN 7.24: Dutiyasattakasutta — Non-Decline for Mendicants (2nd)
+### AN 7.24: Dutiyasattakasutta — Non-Decline for bhikkhus (2nd)
 
 1"Satta vo, bhikkhave, aparihāniye dhamme desessāmi. Taṁ suṇātha, sādhukaṁ manasi karotha … pe … katame ca, bhikkhave, satta aparihāniyā dhammā?
 

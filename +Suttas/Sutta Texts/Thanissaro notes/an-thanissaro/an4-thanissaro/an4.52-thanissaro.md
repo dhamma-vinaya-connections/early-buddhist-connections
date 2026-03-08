@@ -15,7 +15,7 @@ language: "English"
 ## ## Puññābhisanda Sutta
 
 
-“Monks, these four bonanzas of merit, bonanzas of skillfulness, nourishments of bliss—heavenly, resulting in bliss—lead to what is wished for, appealing, agreeable, well-being, & bliss. Which four?
+“bhikkhus, these four bonanzas of merit, bonanzas of skillfulness, nourishments of bliss—heavenly, resulting in bliss—lead to what is wished for, appealing, agreeable, well-being, & bliss. Which four?
 
 “There is the case where the disciple of the noble ones is endowed with verified confidence in the Awakened One: ‘Indeed, the Blessed One is worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed.’ This is the first bonanza of merit, bonanza of skillfulness, nourishment of bliss—heavenly, resulting in bliss—that leads to what is wished for, appealing, agreeable, well-being, & bliss.
 

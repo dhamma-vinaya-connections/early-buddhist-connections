@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these two misrepresent the Realized One. What two? One who explains what was not spoken by the Realized One as spoken by him. And one who explains what was spoken by the Realized One as not spoken by him. These two misrepresent the Realized One.
+1“bhikkhus, these two misrepresent the Realized One. What two? One who explains what was not spoken by the Realized One as spoken by him. And one who explains what was spoken by the Realized One as not spoken by him. These two misrepresent the Realized One.
 
 1"Dveme, bhikkhave, tathāgataṁ abbhācikkhanti. Katame dve? Yo ca abhāsitaṁ alapitaṁ tathāgatena bhāsitaṁ lapitaṁ tathāgatenāti dīpeti, yo ca bhāsitaṁ lapitaṁ tathāgatena abhāsitaṁ alapitaṁ tathāgatenāti dīpeti. Ime kho, bhikkhave, dve tathāgataṁ abbhācikkhantīti.
 

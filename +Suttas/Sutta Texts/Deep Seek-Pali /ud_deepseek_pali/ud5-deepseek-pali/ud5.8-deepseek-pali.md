@@ -20,7 +20,7 @@ language: "English - Pali"
 
 Addasā kho devadatto āyasmantaṃ ānandaṃ rājagahe piṇḍāya carantaṃ. Disvāna yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ etadavoca – ‘‘ajjatagge dānāhaṃ, āvuso ānanda, aññatreva bhagavatā aññatra bhikkhusaṅghā uposathaṃ karissāmi saṅghakammāni cā’’ti.
 
-Then Devadatta saw Venerable Ānanda walking for alms in Rājagaha. Seeing him, he approached Venerable Ānanda, and said to him: “From today onward, friend Ānanda, I will perform the Uposatha and the Saṅgha acts separately from the Blessed One and separately from the community of monks.”
+Then Devadatta saw Venerable Ānanda walking for alms in Rājagaha. Seeing him, he approached Venerable Ānanda, and said to him: “From today onward, friend Ānanda, I will perform the Uposatha and the Saṅgha acts separately from the Blessed One and separately from the community of bhikkhus.”
 
 Atha kho āyasmā ānando rājagahe piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca –
 

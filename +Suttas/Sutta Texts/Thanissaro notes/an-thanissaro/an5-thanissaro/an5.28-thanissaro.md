@@ -15,45 +15,45 @@ language: "English"
 ## ## Samādhaṅga Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the monks, “Monks, I will teach you the five-factored noble right samādhi. Listen, and pay close attention. I will speak.”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the bhikkhus, “bhikkhus, I will teach you the five-factored noble right samādhi. Listen, and pay close attention. I will speak.”
 
-“As you say, lord,” the monks replied.
+“As you say, lord,” the bhikkhus replied.
 
-The Blessed One said: “Now what, monks, is five-factored noble right samādhi? There is the case where a monk—quite secluded from sensuality, secluded from unskillful qualities—enters and remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. He permeates and pervades, suffuses and fills this very body with the rapture & pleasure born of seclusion. There is nothing of his entire body unpervaded by rapture & pleasure born from seclusion.
+The Blessed One said: “Now what, bhikkhus, is five-factored noble right samādhi? There is the case where a bhikkhu—quite secluded from sensuality, secluded from unskillful qualities—enters and remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. He permeates and pervades, suffuses and fills this very body with the rapture & pleasure born of seclusion. There is nothing of his entire body unpervaded by rapture & pleasure born from seclusion.
 
-“Just as if a dexterous bathman or bathman’s apprentice would pour bath powder into a brass basin and knead it together, sprinkling it again and again with water, so that his ball of bath powder—saturated, moisture-laden, permeated within and without—would nevertheless not drip; even so, the monk permeates and pervades, suffuses and fills this very body with the rapture & pleasure born of seclusion. There is nothing of his entire body unpervaded by rapture & pleasure born from seclusion. This is the first development of the five-factored noble right samādhi.
+“Just as if a dexterous bathman or bathman’s apprentice would pour bath powder into a brass basin and knead it together, sprinkling it again and again with water, so that his ball of bath powder—saturated, moisture-laden, permeated within and without—would nevertheless not drip; even so, the bhikkhu permeates and pervades, suffuses and fills this very body with the rapture & pleasure born of seclusion. There is nothing of his entire body unpervaded by rapture & pleasure born from seclusion. This is the first development of the five-factored noble right samādhi.
 
 “And further, with the stilling of directed thoughts & evaluations, he enters and remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought and evaluation—internal assurance. He permeates and pervades, suffuses and fills this very body with the rapture & pleasure born of samādhi. There is nothing of his entire body unpervaded by rapture & pleasure born of samādhi.
 
-“Just like a lake with spring-water welling up from within, having no inflow from east, west, north, or south, and with the skies periodically supplying abundant showers,[1](#^[[an5-thanissaro]].28note01) so that the cool fount of water welling up from within the lake would permeate and pervade, suffuse and fill it with cool waters, there being no part of the lake unpervaded by the cool waters; even so, the monk permeates and pervades, suffuses and fills this very body with the rapture & pleasure born of samādhi. There is nothing of his entire body unpervaded by rapture & pleasure born of samādhi. This is the second development of the five-factored noble right samādhi. ^[[an5-thanissaro]].28note01-ref
+“Just like a lake with spring-water welling up from within, having no inflow from east, west, north, or south, and with the skies periodically supplying abundant showers,[1](#^[[an5-thanissaro]].28note01) so that the cool fount of water welling up from within the lake would permeate and pervade, suffuse and fill it with cool waters, there being no part of the lake unpervaded by the cool waters; even so, the bhikkhu permeates and pervades, suffuses and fills this very body with the rapture & pleasure born of samādhi. There is nothing of his entire body unpervaded by rapture & pleasure born of samādhi. This is the second development of the five-factored noble right samādhi. ^[[an5-thanissaro]].28note01-ref
 
 “And further, with the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters and remains in the third jhāna, and of him the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ He permeates and pervades, suffuses and fills this very body with the pleasure divested of rapture, so that there is nothing of his entire body unpervaded with pleasure divested of rapture.
 
-“Just as in a blue-, white-, or red-lotus pond, there may be some of the blue, white, or red lotuses which, born and growing in the water, stay immersed in the water and flourish without standing up out of the water, so that they are permeated and pervaded, suffused and filled with cool water from their roots to their tips, and nothing of those blue, white, or red lotuses would be unpervaded with cool water; even so, the monk permeates and pervades, suffuses and fills this very body with the pleasure divested of rapture. There is nothing of his entire body unpervaded with pleasure divested of rapture. This is the third development of the five-factored noble right samādhi.
+“Just as in a blue-, white-, or red-lotus pond, there may be some of the blue, white, or red lotuses which, born and growing in the water, stay immersed in the water and flourish without standing up out of the water, so that they are permeated and pervaded, suffused and filled with cool water from their roots to their tips, and nothing of those blue, white, or red lotuses would be unpervaded with cool water; even so, the bhikkhu permeates and pervades, suffuses and fills this very body with the pleasure divested of rapture. There is nothing of his entire body unpervaded with pleasure divested of rapture. This is the third development of the five-factored noble right samādhi.
 
 “And further, with the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—he enters and remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. He sits, permeating the body with a pure, bright awareness, so that there is nothing of his entire body unpervaded by pure, bright awareness.
 
-“Just as if a man were sitting wrapped from head to foot with a white cloth so that there would be no part of his body to which the white cloth did not extend; even so, the monk sits, permeating his body with a pure, bright awareness. There is nothing of his entire body unpervaded by pure, bright awareness. This is the fourth development of the five-factored noble right samādhi.
+“Just as if a man were sitting wrapped from head to foot with a white cloth so that there would be no part of his body to which the white cloth did not extend; even so, the bhikkhu sits, permeating his body with a pure, bright awareness. There is nothing of his entire body unpervaded by pure, bright awareness. This is the fourth development of the five-factored noble right samādhi.
 
-“And further, the monk has his theme of reflection well in hand, well attended to, well-pondered, well-tuned [well-penetrated] by means of discernment.
+“And further, the bhikkhu has his theme of reflection well in hand, well attended to, well-pondered, well-tuned [well-penetrated] by means of discernment.
 
-“Just as if one person were to reflect on another, or a standing person were to reflect on a sitting person, or a sitting person were to reflect on a person lying down; even so, monks, the monk has his theme of reflection well in hand, well attended to, well-pondered, well-tuned [well-penetrated] by means of discernment. This is the fifth development of the five-factored noble right samādhi.[2](#^[[an5-thanissaro]].28note02) ^[[an5-thanissaro]].28note02-ref
+“Just as if one person were to reflect on another, or a standing person were to reflect on a sitting person, or a sitting person were to reflect on a person lying down; even so, bhikkhus, the bhikkhu has his theme of reflection well in hand, well attended to, well-pondered, well-tuned [well-penetrated] by means of discernment. This is the fifth development of the five-factored noble right samādhi.[2](#^[[an5-thanissaro]].28note02) ^[[an5-thanissaro]].28note02-ref
 
-“When a monk has developed and pursued the five-factored noble right samādhi in this way, then whichever of the qualities to be known & realized that he turns his mind to know & realize, he can witness them right there whenever there is an opening.
+“When a bhikkhu has developed and pursued the five-factored noble right samādhi in this way, then whichever of the qualities to be known & realized that he turns his mind to know & realize, he can witness them right there whenever there is an opening.
 
 “Suppose that there were a water jar, set on a stand, brimful of water so that a crow could drink from it. If a strong man were to tip it in any way at all, would water spill out?”
 
 “Yes, lord.”
 
-“In the same way, when a monk has developed and pursued the five-factored noble right samādhi in this way, then whichever of the qualities to be known & realized that he turns his mind to know & realize, he can witness them right there whenever there is an opening.
+“In the same way, when a bhikkhu has developed and pursued the five-factored noble right samādhi in this way, then whichever of the qualities to be known & realized that he turns his mind to know & realize, he can witness them right there whenever there is an opening.
 
 “Suppose there were a rectangular water tank—set on level ground, bounded by dikes—brimful of water so that a crow could drink from it. If a strong man were to loosen the dikes anywhere at all, would water spill out?”
 
 “Yes, lord.”
 
-“In the same way, when a monk has developed and pursued the five-factored noble right samādhi in this way, then whichever of the qualities to be known & realized that he turns his mind to know & realize, he can witness them right there whenever there is an opening.
+“In the same way, when a bhikkhu has developed and pursued the five-factored noble right samādhi in this way, then whichever of the qualities to be known & realized that he turns his mind to know & realize, he can witness them right there whenever there is an opening.
 
-“Suppose there were a chariot on level ground at four crossroads, harnessed to thoroughbreds, waiting with whips lying ready, so that a dexterous driver, a trainer of tamable horses, might mount and—taking the reins with his left hand and the whip with his right—drive out and back, to whatever place and by whichever road he liked; in the same way, when a monk has developed and pursued the five-factored noble right samādhi in this way, then whichever of the qualities to be known & realized that he turns his mind to know & realize, he can witness them right there whenever there is an opening.
+“Suppose there were a chariot on level ground at four crossroads, harnessed to thoroughbreds, waiting with whips lying ready, so that a dexterous driver, a trainer of tamable horses, might mount and—taking the reins with his left hand and the whip with his right—drive out and back, to whatever place and by whichever road he liked; in the same way, when a bhikkhu has developed and pursued the five-factored noble right samādhi in this way, then whichever of the qualities to be known & realized that he turns his mind to know & realize, he can witness them right there whenever there is an opening.
 
 “If he wants, he wields manifold supranormal powers. Having been one he becomes many; having been many he becomes one. He appears. He vanishes. He goes unimpeded through walls, ramparts, and mountains as if through space. He dives in and out of the earth as if it were water. He walks on water without sinking as if it were dry land. Sitting cross-legged he flies through the air like a winged bird. With his hand he touches and strokes even the sun and moon, so mighty and powerful. He exercises influence with his body even as far as the Brahmā worlds. He can witness this right there whenever there is an opening.
 
@@ -67,7 +67,7 @@ The Blessed One said: “Now what, monks, is five-factored noble right samādhi?
 
 “If he wants, then through the ending of effluents, he enters & remains in the effluent-free awareness-release & discernment-release, having directly known & realized them for himself right in the here & now. He can witness this right there whenever there is an opening.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 ### Notes
 

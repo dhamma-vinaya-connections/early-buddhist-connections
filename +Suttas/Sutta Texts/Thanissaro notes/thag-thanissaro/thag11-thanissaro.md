@@ -50,7 +50,7 @@ One whom others don’t guard,
 
 who doesn’t guard others:
 
-He is a monk
+He is a bhikkhu
 
 who lies down in ease,
 
@@ -62,7 +62,7 @@ With clear waters &
 
 massive boulders,
 
-frequented by monkeys &
+frequented by bhikkhueys &
 
 deer,
 

@@ -24,7 +24,7 @@ He runs now here
 
 as if looking for fruit:
 
-a monkey in the forest.
+a bhikkhuey in the forest.
 
 ### Verse 334
 
@@ -146,7 +146,7 @@ people hop round & around
 
 like a rabbit caught in a snare.
 
-So a monk
+So a bhikkhu
 
 should dispel      craving,
 

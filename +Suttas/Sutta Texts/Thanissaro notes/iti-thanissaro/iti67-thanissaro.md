@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 67
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three forms of sagacity. Which three? Bodily sagacity, verbal sagacity, mental sagacity. These are the three forms of sagacity.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three forms of sagacity. Which three? Bodily sagacity, verbal sagacity, mental sagacity. These are the three forms of sagacity.”
 
 A sage in body, a sage in speech,
 

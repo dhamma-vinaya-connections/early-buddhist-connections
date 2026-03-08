@@ -15,11 +15,11 @@ language: "English"
 ## ## Cūḷa Dhammasamādāna Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the monks: “Monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the bhikkhus: “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-“Monks, there are these four ways of taking on practices. Which four? There is the taking on of a practice that is pleasant in the present but yields pain in the future. There is the taking on of a practice that is painful in the present and yields pain in the future. There is the taking on of a practice that is painful in the present but yields pleasure in the future. There is the taking on of a practice that is pleasant in the present and yields pleasure in the future.
+“bhikkhus, there are these four ways of taking on practices. Which four? There is the taking on of a practice that is pleasant in the present but yields pain in the future. There is the taking on of a practice that is painful in the present and yields pain in the future. There is the taking on of a practice that is painful in the present but yields pleasure in the future. There is the taking on of a practice that is pleasant in the present and yields pleasure in the future.
 
 “Now, what is the taking on of a practice that is pleasant in the present but yields pain in the future? There are some contemplatives & brahmans who hold to a doctrine, a view like this: ‘There is no harm in sensual pleasures.’ Thus they meet with their downfall through sensual pleasures. They consort with women wanderers who wear their hair coiled in a topknot.
 
@@ -35,7 +35,7 @@ I have heard that on one occasion the Blessed One was staying near Sāvatthī in
 
 “Then the creeper, having enwrapped the Sal tree, having made a canopy over it, & cascading down around it, caused the massive limbs of the Sal tree to come crashing down. The thought occurred to the deva living in the tree: _‘This_ was the future danger my friends... foresaw in that māluvā creeper seed, that they gathered together to console me.... It’s because of that māluvā creeper seed that I’m now experiencing sharp, burning pains.’
 
-“In the same way, monks, there are some contemplatives & brahmans who hold to a doctrine, a view like this: ‘There is no harm in sensual pleasures.’ Thus they meet with their downfall through sensual pleasures. They consort with women wanderers who wear their hair coiled in a topknot.
+“In the same way, bhikkhus, there are some contemplatives & brahmans who hold to a doctrine, a view like this: ‘There is no harm in sensual pleasures.’ Thus they meet with their downfall through sensual pleasures. They consort with women wanderers who wear their hair coiled in a topknot.
 
 “The thought occurs to them: ‘Now, what future danger do those (other) contemplatives & brahmans foresee that they speak of the abandoning of sensual pleasures and describe the comprehension of sensual pleasures? It’s pleasant, the touch of this woman wanderer’s soft, tender, downy arm.’
 
@@ -51,11 +51,11 @@ Thus they meet with their downfall through sensual pleasures. Then, having met w
 
 “And what is the taking on of a practice that is painful in the present but yields pleasure in the future? There is the case of a person who is normally strongly passionate by nature and frequently experiences pain & grief born of passion; a person who is normally strongly aversive by nature and frequently experiences pain & grief born of aversion; a person who is normally strongly deluded by nature and frequently experiences pain & grief born of delusion. Even though touched with pain & grief, crying with a tearful face, he lives the holy life that is utterly perfect, surpassingly pure. With the break-up of the body, after death, he reappears in a good destination, a heavenly world. This is called the taking on of a practice that is painful in the present but yields pleasure in the future.
 
-“And what is the taking on of a practice that is pleasant in the present and yields pleasure in the future? There is the case of a person who is not normally strongly passionate by nature and doesn’t frequently experience pain & grief born of passion; who is not normally strongly aversive by nature and doesn’t frequently experience pain & grief born of aversion; who is not normally strongly deluded by nature and doesn’t frequently experience pain & grief born of delusion. Quite secluded from sensuality, secluded from unskillful qualities, he enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. With the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ With the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—he enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. With the break-up of the body, after death, he reappears in a good destination, a heavenly world. This is called the taking on of a practice that is pleasant in the present and yields pleasure in the future.
+“And what is the taking on of a practice that is pleasant in the present and yields pleasure in the future? There is the case of a person who is not normally strongly passionate by nature and doesn’t frequently experience pain & grief born of passion; who is not normally strongly aversive by nature and doesn’t frequently experience pain & grief born of aversion; who is not normally strongly deluded by nature and doesn’t frequently experience pain & grief born of delusion. ![[Jhanas]] & mindfulness, neither pleasure nor pain. With the break-up of the body, after death, he reappears in a good destination, a heavenly world. This is called the taking on of a practice that is pleasant in the present and yields pleasure in the future.
 
 “And these are the four ways of taking on practices.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 Note
 

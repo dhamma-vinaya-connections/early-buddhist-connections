@@ -22,12 +22,12 @@ vin_severity:
   - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: ""
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-SS13]] 🌐 [[BU-AN2]] ►
 
-# Monks - Aniyata - Undetermined
+# bhikkhus - Aniyata - Undetermined
 ##  - 
 ## BU-AN1 - Paṭhamaaniyata - Undetermined Offense 1st
 
@@ -58,7 +58,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-AN1 |  | Vin.3.1–3.40 |
 

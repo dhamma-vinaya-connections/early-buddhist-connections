@@ -27,7 +27,7 @@ Who can untangle this tangle?”
 
 2“A wise person grounded in ethics,  
 developing the mind and wisdom,  
-a keen and alert mendicant,  
+a keen and alert bhikkhu,  
 they can untangle this tangle.
 
 3Those who have discarded  

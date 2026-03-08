@@ -44,7 +44,7 @@ parallels_partilal: "[[SA497]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant who wants to accuse another should first establish five things in themselves.
+> bhikkhu who wants to accuse another should first establish five things in themselves.
 
 > [!info] Key Excerpts 
 > Speak at the right time, truthfully, gently, beneficially and with loving heart

@@ -151,7 +151,7 @@ Pilotika replied, “So it is, priest! So it is! I support the Bhagavān a great
 
 Jātiśroṇa replied, “Indeed, Gautama! The parable of the elephant’s footprint is in this way well told and complete.”
 
-59. The priest Jātiśroṇa said, “Bhagavān, I have known it. Sugata, I have understood it. Bhagavān, now I take refuge in the Buddha, the Dharma, and the Saṅgha of monks. Please, Bhagavān, accept me as a layman. From today until the end of my life, I’ll devote myself [to the precepts].”
+59. The priest Jātiśroṇa said, “Bhagavān, I have known it. Sugata, I have understood it. Bhagavān, now I take refuge in the Buddha, the Dharma, and the Saṅgha of bhikkhus. Please, Bhagavān, accept me as a layman. From today until the end of my life, I’ll devote myself [to the precepts].”
 
 60. This is what the Buddha said. When the priest Jātiśroṇa and the wanderer Pilotika heard what the Buddha taught, they rejoiced and approved.
 

@@ -16,11 +16,11 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Rājagaha in the Bamboo Grove, the monks Mettiya and Bhūmajaka were descending from the Vulture Peak when they saw two goats copulating. They said to each other, “Let’s give the he-goat the name Dabba the Mallian and the she-goat the name Mettiyā the nun. We can then say, ‘Previously we spoke of what we had heard, but now we’ve seen Dabba copulating with the nun Mettiyā.’” They then gave them those names and told the monks, “Previously we spoke of what we had heard, but now we’ve seen Dabba copulating with the nun Mettiyā.”
+1At one time when the Buddha was staying at Rājagaha in the Bamboo Grove, the bhikkhus Mettiya and Bhūmajaka were descending from the Vulture Peak when they saw two goats copulating. They said to each other, “Let’s give the he-goat the name Dabba the Mallian and the she-goat the name Mettiyā the nun. We can then say, ‘Previously we spoke of what we had heard, but now we’ve seen Dabba copulating with the nun Mettiyā.’” They then gave them those names and told the bhikkhus, “Previously we spoke of what we had heard, but now we’ve seen Dabba copulating with the nun Mettiyā.”
 
-The monks replied, “Don’t say such things. Venerable Dabba wouldn’t do that.”
+The bhikkhus replied, “Don’t say such things. Venerable Dabba wouldn’t do that.”
 
-2The monks told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned Dabba: “Dabba, do you remember doing as these monks say?”
+2The bhikkhus told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned Dabba: “Dabba, do you remember doing as these bhikkhus say?”
 
 “Venerable Sir, you know what I’m like.”
 
@@ -32,32 +32,32 @@ He then said: “Dabba, the Dabbas don’t give such evasive answers. If it was 
 
 “Since I was born, Sir, I don’t recall having sexual intercourse even in a dream, let alone when awake.”
 
-“Well then, monks, call those monks to account.” And the Buddha got up from his seat and entered his dwelling.
+“Well then, bhikkhus, call those bhikkhus to account.” And the Buddha got up from his seat and entered his dwelling.
 
-3The monks then questioned Mettiya and Bhūmajaka, who told them what had happened. The monks said, “So did you charge Venerable Dabba with an offense entailing expulsion, using an unrelated legal issue as a pretext?”
+3The bhikkhus then questioned Mettiya and Bhūmajaka, who told them what had happened. The bhikkhus said, “So did you charge Venerable Dabba with an offense entailing expulsion, using an unrelated legal issue as a pretext?”
 
 
 “Yes.”
 
-The monks of few desires complained and criticized them, “How could Mettiya and Bhūmajaka charge Venerable Dabba with an offense entailing expulsion, using an unrelated legal issue as a pretext?”
+The bhikkhus of few desires complained and criticized them, “How could Mettiya and Bhūmajaka charge Venerable Dabba with an offense entailing expulsion, using an unrelated legal issue as a pretext?”
 
-4They rebuked those monks in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned those monks: “Is it true, monks, that you did this?”
+4They rebuked those bhikkhus in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned those bhikkhus: “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-5‘If a monk who is angry and displeased, uses an unrelated legal issue as a pretext to charge a monk with an offense entailing expulsion, aiming to make him leave the monastic life, and then after some time, whether he is questioned or not, it is clear that the legal issue is unrelated and was used as a pretext, and he admits to his ill will, he commits an offense entailing suspension.’”
+5‘If a bhikkhu who is angry and displeased, uses an unrelated legal issue as a pretext to charge a bhikkhu with an offense entailing expulsion, aiming to make him leave the monastic life, and then after some time, whether he is questioned or not, it is clear that the legal issue is unrelated and was used as a pretext, and he admits to his ill will, he commits an offense entailing suspension.’”
 
 #### Definitions
 
-6**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+6**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
-7**A monk:** another monk.
+7**A bhikkhu:** another bhikkhu.
 
 
 8**Angry:** upset, dissatisfied, discontent, having hatred, hostile.
@@ -82,34 +82,34 @@ A legal issue arising from a dispute is unrelated to a legal issue arising from 
 
 15**Uses as a pretext:** A pretext: there are ten kinds of pretext—the pretext of caste, the pretext of name, the pretext of family, the pretext of characteristic, the pretext of offense, the pretext of almsbowl, the pretext of robe, the pretext of preceptor, the pretext of teacher, the pretext of dwelling.
 
-16**The pretext of caste:** a monk sees an aristocrat committing an offense entailing expulsion. If he then accuses another aristocrat, saying, “I’ve a seen an aristocrat. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. You’re excluded from the observance-day ceremony, from the invitation ceremony, and from the legal procedures of the Sangha,” he commits an offense entailing suspension for each statement.
+16**The pretext of caste:** a bhikkhu sees an aristocrat committing an offense entailing expulsion. If he then accuses another aristocrat, saying, “I’ve a seen an aristocrat. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. You’re excluded from the observance-day ceremony, from the invitation ceremony, and from the legal procedures of the Sangha,” he commits an offense entailing suspension for each statement.
 
-17A monk sees a brahmin … A monk sees a merchant … A monk sees a worker committing an offense entailing expulsion. If he then accuses another worker, saying, “I’ve a seen a worker. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
+17A bhikkhu sees a brahmin … A bhikkhu sees a merchant … A bhikkhu sees a worker committing an offense entailing expulsion. If he then accuses another worker, saying, “I’ve a seen a worker. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
 
-18**The pretext of name:** a monk sees someone whose name is Buddharakkhita … Dhammarakkhita … Saṅgharakkhita committing an offense entailing expulsion. If he then accuses another person called Saṅgharakkhita, saying, “I’ve seen Saṅgharakkhita. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
+18**The pretext of name:** a bhikkhu sees someone whose name is Buddharakkhita … Dhammarakkhita … Saṅgharakkhita committing an offense entailing expulsion. If he then accuses another person called Saṅgharakkhita, saying, “I’ve seen Saṅgharakkhita. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
 
-19**The pretext of family:** a monk sees someone whose family name is Gotama … Moggallāna … Kaccāyana … Vāsiṭṭha committing an offense entailing expulsion. If he then accuses another person called Vāsiṭṭha, saying, “I’ve seen Vāsiṭṭha. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
+19**The pretext of family:** a bhikkhu sees someone whose family name is Gotama … Moggallāna … Kaccāyana … Vāsiṭṭha committing an offense entailing expulsion. If he then accuses another person called Vāsiṭṭha, saying, “I’ve seen Vāsiṭṭha. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
 
-20**The pretext of characteristic:** a monk sees someone tall … short … dark-skinned … light-skinned committing an offense entailing expulsion. If he then accuses another light-skinned person, saying, “I’ve seen a light-skinned person. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
+20**The pretext of characteristic:** a bhikkhu sees someone tall … short … dark-skinned … light-skinned committing an offense entailing expulsion. If he then accuses another light-skinned person, saying, “I’ve seen a light-skinned person. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
 
-21**The pretext of offense:** a monk sees someone committing a light offense. If he then accuses him of an offense entailing expulsion, saying, “You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
+21**The pretext of offense:** a bhikkhu sees someone committing a light offense. If he then accuses him of an offense entailing expulsion, saying, “You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
 
-22**The pretext of almsbowl:** a monk sees someone carrying an iron bowl … a black clay bowl … an ordinary clay bowl committing an offense entailing expulsion. If he then accuses another person carrying an ordinary clay bowl, saying, “I’ve seen someone carrying an ordinary clay bowl. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
+22**The pretext of almsbowl:** a bhikkhu sees someone carrying an iron bowl … a black clay bowl … an ordinary clay bowl committing an offense entailing expulsion. If he then accuses another person carrying an ordinary clay bowl, saying, “I’ve seen someone carrying an ordinary clay bowl. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
 
-23**The pretext of robe:** a monk sees a rag-robe wearer … wearing robes given by householders committing an offense entailing expulsion. If he then accuses another person wearing robes given by householders, saying, “I’ve seen someone wearing robes given by householders. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
+23**The pretext of robe:** a bhikkhu sees a rag-robe wearer … wearing robes given by householders committing an offense entailing expulsion. If he then accuses another person wearing robes given by householders, saying, “I’ve seen someone wearing robes given by householders. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
 
-24**The pretext of preceptor:** a monk sees a student of so-and-so committing an offense entailing expulsion. If he then accuses another student of that person, saying, “I’ve seen the student of so-and-so. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
+24**The pretext of preceptor:** a bhikkhu sees a student of so-and-so committing an offense entailing expulsion. If he then accuses another student of that person, saying, “I’ve seen the student of so-and-so. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
 
-25**The pretext of teacher:** a monk sees a pupil of so-and-so committing an offense entailing expulsion. If he then accuses another pupil of that person, saying, “I’ve seen the pupil of so-and-so. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
+25**The pretext of teacher:** a bhikkhu sees a pupil of so-and-so committing an offense entailing expulsion. If he then accuses another pupil of that person, saying, “I’ve seen the pupil of so-and-so. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. …” he commits an offense entailing suspension for each statement.
 
-26**The pretext of dwelling:** a monk sees one who dwells in such-and-such a dwelling committing an offense entailing expulsion. If he then accuses someone else who dwells in that dwelling, saying, “I’ve seen one who dwells in such-and-such a dwelling. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. You’re excluded from the observance-day ceremony, from the invitation ceremony, and from the legal procedures of the Sangha,” he commits an offense entailing suspension for each statement.
+26**The pretext of dwelling:** a bhikkhu sees one who dwells in such-and-such a dwelling committing an offense entailing expulsion. If he then accuses someone else who dwells in that dwelling, saying, “I’ve seen one who dwells in such-and-such a dwelling. You’ve committed an offense entailing expulsion. You’re not an ascetic, not a Sakyan monastic. You’re excluded from the observance-day ceremony, from the invitation ceremony, and from the legal procedures of the Sangha,” he commits an offense entailing suspension for each statement.
 
 
 27**With an offense entailing expulsion:** with one of the four.
 
 28**Charges:** accuses him or has him accused.
 
-29**To make him leave the monastic life:** to make him leave the monkhood, leave the state of a monastic, leave his morality, leave the virtue of monasticism.
+29**To make him leave the monastic life:** to make him leave the bhikkhuhood, leave the state of a monastic, leave his morality, leave the virtue of monasticism.
 
 30**And then after some time:** the moment, the instant, the second after he has laid the charge.
 
@@ -130,25 +130,25 @@ A legal issue arising from a dispute is unrelated to a legal issue arising from 
 
 #### Doing the accusing oneself
 
-37A monk sees a second monk committing an offense entailing suspension, and the first monk regards it as an offense entailing suspension. If he then accuses him of an offense entailing expulsion, saying, “You’re not an ascetic, not a Sakyan monastic. You’re excluded from the observance-day ceremony, from the invitation ceremony, and from the legal procedures of the Sangha,” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
+37A bhikkhu sees a second bhikkhu committing an offense entailing suspension, and the first bhikkhu regards it as an offense entailing suspension. If he then accuses him of an offense entailing expulsion, saying, “You’re not an ascetic, not a Sakyan monastic. You’re excluded from the observance-day ceremony, from the invitation ceremony, and from the legal procedures of the Sangha,” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
 
-38A monk sees a second monk committing an offense entailing suspension, but the first monk regards it as a serious offense … but the first monk regards it as an offense entailing confession … but the first monk regards it as an offense entailing acknowledgment … but the first monk regards it as an offense of wrong conduct … but the first monk regards it as an offense of wrong speech. If he then accuses him of an offense entailing expulsion, saying, “You’re not a monastic …” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
+38A bhikkhu sees a second bhikkhu committing an offense entailing suspension, but the first bhikkhu regards it as a serious offense … but the first bhikkhu regards it as an offense entailing confession … but the first bhikkhu regards it as an offense entailing acknowledgment … but the first bhikkhu regards it as an offense of wrong conduct … but the first bhikkhu regards it as an offense of wrong speech. If he then accuses him of an offense entailing expulsion, saying, “You’re not a monastic …” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
 
-39A monk sees a second monk committing a serious offense, and the first monk regards it as a serious offense … but the first monk regards it as an offense entailing confession … but the first monk regards it as an offense entailing acknowledgment … but the first monk regards it as an offense of wrong conduct … but the first monk regards it as an offense of wrong speech … but the first monk regards it as an offense entailing suspension. If he then accuses him of an offense entailing expulsion, saying, “You’re not a monastic …” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
+39A bhikkhu sees a second bhikkhu committing a serious offense, and the first bhikkhu regards it as a serious offense … but the first bhikkhu regards it as an offense entailing confession … but the first bhikkhu regards it as an offense entailing acknowledgment … but the first bhikkhu regards it as an offense of wrong conduct … but the first bhikkhu regards it as an offense of wrong speech … but the first bhikkhu regards it as an offense entailing suspension. If he then accuses him of an offense entailing expulsion, saying, “You’re not a monastic …” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
 
-40A monk sees a second monk committing an offense entailing confession … an offense entailing acknowledgment … an offense of wrong conduct … an offense of wrong speech, and the first monk regards it as an offense of wrong speech … but the first monk regards it as an offense entailing suspension … but the first monk regards it as a serious offense … but the first monk regards it as an offense entailing confession … but the first monk regards it as an offense entailing acknowledgment … but the first monk regards it as an offense of wrong conduct. If he then accuses him of an offense entailing expulsion, saying, “You’re not an ascetic, not a Sakyan monastic. You’re excluded from the observance-day ceremony, from the invitation ceremony, and from the legal procedures of the Sangha,” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
+40A bhikkhu sees a second bhikkhu committing an offense entailing confession … an offense entailing acknowledgment … an offense of wrong conduct … an offense of wrong speech, and the first bhikkhu regards it as an offense of wrong speech … but the first bhikkhu regards it as an offense entailing suspension … but the first bhikkhu regards it as a serious offense … but the first bhikkhu regards it as an offense entailing confession … but the first bhikkhu regards it as an offense entailing acknowledgment … but the first bhikkhu regards it as an offense of wrong conduct. If he then accuses him of an offense entailing expulsion, saying, “You’re not an ascetic, not a Sakyan monastic. You’re excluded from the observance-day ceremony, from the invitation ceremony, and from the legal procedures of the Sangha,” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
 
 41The permutation series is to be linked by doing the items one by one.
 
 #### Getting someone else to do the accusing
 
-42A monk sees a second monk committing an offense entailing suspension and the first monk regards it as an offense entailing suspension. If he then has him accused of an offense entailing expulsion, saying, “You’re not a monastic …” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
+42A bhikkhu sees a second bhikkhu committing an offense entailing suspension and the first bhikkhu regards it as an offense entailing suspension. If he then has him accused of an offense entailing expulsion, saying, “You’re not a monastic …” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
 
-43A monk sees a second monk committing an offense entailing suspension, but the first monk regards it as a serious offense … but the first monk regards it as an offense entailing confession … but the first monk regards it as an offense entailing acknowledgment … but the first monk regards it as an offense of wrong conduct … but the first monk regards it as an offense of wrong speech. If he then has him accused of an offense entailing expulsion, saying, “You’re not a monastic …” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
+43A bhikkhu sees a second bhikkhu committing an offense entailing suspension, but the first bhikkhu regards it as a serious offense … but the first bhikkhu regards it as an offense entailing confession … but the first bhikkhu regards it as an offense entailing acknowledgment … but the first bhikkhu regards it as an offense of wrong conduct … but the first bhikkhu regards it as an offense of wrong speech. If he then has him accused of an offense entailing expulsion, saying, “You’re not a monastic …” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
 
-44A monk sees a second monk committing a serious offense, and the first monk regards it as a serious offense … but the first monk regards it as an offense entailing confession … but the first monk regards it as an offense entailing acknowledgment … but the first monk regards it as an offense of wrong conduct … but the first monk regards it as an offense of wrong speech … but the first monk regards it as an offense entailing suspension. If he then has him accused of an offense entailing expulsion, saying, “You’re not a monastic …” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
+44A bhikkhu sees a second bhikkhu committing a serious offense, and the first bhikkhu regards it as a serious offense … but the first bhikkhu regards it as an offense entailing confession … but the first bhikkhu regards it as an offense entailing acknowledgment … but the first bhikkhu regards it as an offense of wrong conduct … but the first bhikkhu regards it as an offense of wrong speech … but the first bhikkhu regards it as an offense entailing suspension. If he then has him accused of an offense entailing expulsion, saying, “You’re not a monastic …” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
 
-45A monk sees a second monk committing an offense entailing confession … an offense entailing acknowledgment … an offense of wrong conduct … an offense of wrong speech, and the first monk regards it as an offense of wrong speech … but the first monk regards it as an offense entailing suspension … but the first monk regards it as a serious offense … but the first monk regards it as an offense entailing confession … but the first monk regards it as an offense entailing acknowledgment … but the first monk regards it as an offense of wrong conduct. If he then has him accused of an offense entailing expulsion, saying, “You’re not an ascetic, not a Sakyan monastic. You’re excluded from the observance-day ceremony, from the invitation ceremony, and from the legal procedures of the Sangha,” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
+45A bhikkhu sees a second bhikkhu committing an offense entailing confession … an offense entailing acknowledgment … an offense of wrong conduct … an offense of wrong speech, and the first bhikkhu regards it as an offense of wrong speech … but the first bhikkhu regards it as an offense entailing suspension … but the first bhikkhu regards it as a serious offense … but the first bhikkhu regards it as an offense entailing confession … but the first bhikkhu regards it as an offense entailing acknowledgment … but the first bhikkhu regards it as an offense of wrong conduct. If he then has him accused of an offense entailing expulsion, saying, “You’re not an ascetic, not a Sakyan monastic. You’re excluded from the observance-day ceremony, from the invitation ceremony, and from the legal procedures of the Sangha,” thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement.
 
 #### Non-offenses
 

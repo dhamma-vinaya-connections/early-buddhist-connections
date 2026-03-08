@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 20: The Group of Sixty Verses
 
@@ -54,7 +54,7 @@ Which are flowing all the time.
 
 1155With its nine streams,  
 Your body stinks, full of dung.  
-A monk seeking purity would avoid it altogether,  
+A bhikkhu seeking purity would avoid it altogether,  
 Like excrement.
 
 1156If they knew you  
@@ -134,12 +134,12 @@ Like a hair-tip with an arrow."
 
 1171"As if struck by a sword,  
 As if their head was on fire,  
-Mindful, a monk should go forth,  
+Mindful, a bhikkhu should go forth,  
 To abandon desire for sensual pleasures.
 
 1172As if struck by a sword,  
 As if their head was on fire,  
-Mindful, a monk should go forth,  
+Mindful, a bhikkhu should go forth,  
 To abandon desire to be reborn in any state of existence."
 
 ---
@@ -154,7 +154,7 @@ This isn’t something that takes little strength:
 The realization of _nibbāna_,  
 The release from all attachments."
 
-1175"This young monk,  
+1175"This young bhikkhu,  
 The best of men,  
 Has conquered Māra and his army,  
 And bears his final body."
@@ -196,7 +196,7 @@ And then goes on alms-round —
 
 ---
 
-1182Don’t attack such a monk!  
+1182Don’t attack such a bhikkhu!  
 Don’t ruin yourself, brahman!  
 Have faith in the _arahant_  
 Quickly venerate him with hands in _añjalī_,  
@@ -249,11 +249,11 @@ As a lotus-flower by water.
 Including the Brahmā realm;  
 Having mastery of psychic powers, and the knowledge  
 Of the passing away and rebirth of beings in time:  
-That monk sees the gods."
+That bhikkhu sees the gods."
 
 ---
 
-1191"Sāriputta, the monk who has crossed over,  
+1191"Sāriputta, the bhikkhu who has crossed over,  
 Would be supreme  
 Because of his wisdom,  
 Virtue, and peace.
@@ -297,7 +297,7 @@ Along with the brahmin Kakusandha.’
 ---
 
 1198‘Dark One, if you attack  
-A monk who knows this from their own experience,  
+A bhikkhu who knows this from their own experience,  
 A disciple of the Buddha,  
 You will fall into suffering.
 
@@ -311,7 +311,7 @@ Many nymphs of diverse colours
 Dance there.
 
 1200‘Dark One, if you attack  
-A monk who knows this from their own experience,  
+A bhikkhu who knows this from their own experience,  
 A disciple of the Buddha,  
 You will fall into suffering.
 
@@ -323,7 +323,7 @@ Shook the palace of Migāra’s mother
 With their big toe:
 
 1202‘Dark One, if you attack  
-A monk who knows this from their own experience,  
+A bhikkhu who knows this from their own experience,  
 A disciple of the Buddha,  
 You will fall into suffering.
 
@@ -337,7 +337,7 @@ Inspiring awe among the gods:
 ---
 
 1204‘Dark One, if you attack  
-A monk who knows this from their own experience,  
+A bhikkhu who knows this from their own experience,  
 A disciple of the Buddha,  
 You will fall into suffering.
 
@@ -352,7 +352,7 @@ Sakka answered truthfully:
 ---
 
 1206‘Dark One, if you attack  
-A monk who knows this from their own experience,  
+A bhikkhu who knows this from their own experience,  
 A disciple of the Buddha,  
 You will fall into suffering.
 
@@ -376,7 +376,7 @@ So how could I say today
 That I am permanent and eternal?"
 
 1210‘Dark One, if you attack  
-A monk who directly knows this,  
+A bhikkhu who directly knows this,  
 A disciple of the Buddha,  
 You will fall into suffering.
 
@@ -388,7 +388,7 @@ The forests of Pubbavideha,
 And the people who live there:
 
 1212‘Dark One, if you attack  
-A monk who directly knows this,  
+A bhikkhu who directly knows this,  
 A disciple of the Buddha,  
 You will fall into suffering.
 
@@ -414,10 +414,10 @@ Wicked one, do you imagine:
 1216‘For a long time you’ve piled up  
 The wickedness that you’ve created.  
 Keep away from the Buddha, Māra!  
-Give up hope in tricking the monks.’
+Give up hope in tricking the bhikkhus.’
 
 1217That is how, in the Bhesekaḷā grove  
-The monk rebuked Māra.  
+The bhikkhu rebuked Māra.  
 That spirit, downcast,  
 Disappeared right there!"
 

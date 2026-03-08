@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“The foremost of my monk disciples who are very learned is Ānanda.
+1“The foremost of my bhikkhu disciples who are very learned is Ānanda.
 
 2 … with a good memory is Ānanda.
 
@@ -44,7 +44,7 @@ language: "English - Pali"
 
 12 … who guard the sense doors is Nanda.
 
-13 … who advise the monks is Mahākappina.
+13 … who advise the bhikkhus is Mahākappina.
 
 14 … who are skilled in the fire element is Sāgata.
 

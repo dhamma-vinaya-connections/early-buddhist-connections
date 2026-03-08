@@ -19,11 +19,11 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma50note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma50note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “A monk should pay respect to, observe well, and pay homage to others of the religious practice. Suppose a monk hasn’t paid respect to, well observed, or paid homage to others of the religious practice. There’s no way he’ll be well behaved. Not being well behaved, there’s no way he’ll possess learning. Not being learned, he won’t guard his faculties … guard the precepts … have no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. Not possessing liberation, there’s no way he’ll possess nirvāṇa.
+2. It was then that the Bhagavān addressed the bhikkhus, “A monk should pay respect to, observe well, and pay homage to others of the religious practice. Suppose a monk hasn’t paid respect to, well observed, or paid homage to others of the religious practice. There’s no way he’ll be well behaved. Not being well behaved, there’s no way he’ll possess learning. Not being learned, he won’t guard his faculties … guard the precepts … have no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. Not possessing liberation, there’s no way he’ll possess nirvāṇa.
 
 3. “Suppose a monk has paid respect to, well observed, and paid homage to others of the religious practice. It’s possible for him to be well behaved. Being well behaved, it’s possible for him to possess learning. Being learned, he’ll guard his faculties … guarding the precepts … have no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. Possessing liberation, it’s possible for him to possess nirvāṇa.”
 
-4. This is what the Buddha said. Those monks who had heard what the Buddha taught rejoiced and approved.
+4. This is what the Buddha said. Those bhikkhus who had heard what the Buddha taught rejoiced and approved.
 
 ---
 

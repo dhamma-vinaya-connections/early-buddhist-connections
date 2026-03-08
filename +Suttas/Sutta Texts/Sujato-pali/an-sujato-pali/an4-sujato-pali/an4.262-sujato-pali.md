@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a mendicant has four qualities they’re not ready to frequent remote lodgings in the wilderness and the forest. What four? They have sensual, malicious, and cruel thoughts; or they’re witless, dull, and stupid. When a mendicant has these four qualities they’re not ready to frequent remote lodgings in the wilderness and the forest.
+1“bhikkhus, when a bhikkhu has four qualities they’re not ready to frequent remote lodgings in the wilderness and the forest. What four? They have sensual, malicious, and cruel thoughts; or they’re witless, dull, and stupid. When a bhikkhu has these four qualities they’re not ready to frequent remote lodgings in the wilderness and the forest.
 
-2When a mendicant has four qualities they’re ready to frequent remote lodgings in the wilderness and the forest. What four? They have thoughts of renunciation, good will, and harmlessness; and they’re wise, bright, and clever. When a mendicant has these four qualities they’re ready to frequent remote lodgings in the wilderness and the forest.”
+2When a bhikkhu has four qualities they’re ready to frequent remote lodgings in the wilderness and the forest. What four? They have thoughts of renunciation, good will, and harmlessness; and they’re wise, bright, and clever. When a bhikkhu has these four qualities they’re ready to frequent remote lodgings in the wilderness and the forest.”
 
 1"Catūhi, bhikkhave, dhammehi samannāgato bhikkhu nālaṁ araññavanapatthāni pantāni senāsanāni paṭisevituṁ. Katamehi catūhi? Kāmavitakkena, byāpādavitakkena, vihiṁsāvitakkena, duppañño hoti jaḷo elamūgo – imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu nālaṁ araññavanapatthāni pantāni senāsanāni paṭisevituṁ.
 

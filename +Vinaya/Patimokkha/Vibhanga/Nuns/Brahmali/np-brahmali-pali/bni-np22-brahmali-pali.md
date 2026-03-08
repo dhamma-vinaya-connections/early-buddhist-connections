@@ -16,16 +16,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six engaged in various kinds of trades involving money. People complained and criticized them, “How can the Sakyan monastics engage in trades that involve money? They’re just like householders who indulge in worldly pleasures!”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six engaged in various kinds of trades involving money. People complained and criticized them, “How can the Sakyan monastics engage in trades that involve money? They’re just like householders who indulge in worldly pleasures!”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can the monks from the group of six do this?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can the bhikkhus from the group of six do this?”
 
-3After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned those monks: “Is it true, monks, that you do this?”
+3After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned those bhikkhus: “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -47,7 +47,7 @@ If he exchanges what is shaped with what is not shaped, he commits an offense en
 If he exchanges what is shaped with what is both shaped and not shaped, he commits an offense entailing relinquishment and confession. If he exchanges what is not shaped with what is both shaped and not shaped, he commits an offense entailing relinquishment and confession. If he exchanges what is both shaped and not shaped with what is both shaped and not shaped, he commits an offense entailing relinquishment and confession.
 
 
-It should be relinquished in the midst of the Sangha. “And, monks, it should be relinquished like this. After approaching the Sangha, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, raise his joined palms, and say,
+It should be relinquished in the midst of the Sangha. “And, bhikkhus, it should be relinquished like this. After approaching the Sangha, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior bhikkhus. He should then squat on his heels, raise his joined palms, and say,
 
 ‘Venerables, I have engaged in various kinds of trades involving money. This is to be relinquished. I relinquish it to the Sangha.’”
 
@@ -57,7 +57,7 @@ If a monastery worker or a lay follower is available, you should tell him, “Lo
 
 If this is what happens, all is well. If not, he should be told, “Discard this.” If he discards it, all is well. If he does not, a monk who has five qualities should be appointed as the money discarder: one who is not biased by desire, ill will, confusion, or fear, and who knows what has and has not been discarded.
 
-“And, monks, this is how he should be appointed. First the monk should be asked and then a competent and capable monk should inform the Sangha:
+“And, bhikkhus, this is how he should be appointed. First the monk should be asked and then a competent and capable monk should inform the Sangha:
 
 9‘Please, Venerables, I ask the Sangha to listen. If it seems appropriate to the Sangha, it should appoint monk so-and-so as the money discarder. This is the motion.
 

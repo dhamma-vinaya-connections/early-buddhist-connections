@@ -72,7 +72,7 @@ Then the brahmin student Subha, Todeyya’s son, approached the Buddha, and exch
 Sentient beings are the owners of their deeds and heir to their deeds. Deeds are their womb, their relative, and their refuge. It is deeds that divide beings into inferior and superior.”
 
 
-20When he had spoken, Subha said to him: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the Teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
+20When he had spoken, Subha said to him: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the Teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

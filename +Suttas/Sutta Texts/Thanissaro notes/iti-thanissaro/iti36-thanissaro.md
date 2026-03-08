@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 36
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, this holy life is lived, not for the sake of deceiving people, not for the sake of inveigling people, not for the sake of the rewards of gain, offerings, & tribute, nor with the thought, ‘Thus may people know me.’ This holy life is lived for the sake of direct knowledge[1](#^iti36note01) & full comprehension.” ^iti36note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, this holy life is lived, not for the sake of deceiving people, not for the sake of inveigling people, not for the sake of the rewards of gain, offerings, & tribute, nor with the thought, ‘Thus may people know me.’ This holy life is lived for the sake of direct knowledge[1](#^iti36note01) & full comprehension.” ^iti36note01-ref
 
 For the sake of direct knowledge & full
 

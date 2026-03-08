@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, do you remember the five lower fetters that I taught?”
+“bhikkhus, do you remember the five lower fetters that I taught?”
 
 
 2When he said this, Venerable Māluṅkyaputta said to him: “Sir, I remember them.”
@@ -35,7 +35,7 @@ language: "English - Pali"
 3“Who on earth do you remember being taught the five lower fetters in that way? Wouldn’t the wanderers who follow other paths fault you using the simile of the infant? For a little baby doesn’t even have a concept of ‘identity’, so how could identity view possibly arise in them? Yet the underlying tendency to identity view still lies within them. A little baby doesn’t even have a concept of ‘teachings’, so how could doubt about the teachings possibly arise in them? Yet the underlying tendency to doubt still lies within them. A little baby doesn’t even have a concept of ‘precepts’, so how could misapprehension of precepts and observances possibly arise in them? Yet the underlying tendency to misapprehension of precepts and observances still lies within them. A little baby doesn’t even have a concept of ‘sensual pleasures’, so how could desire for sensual pleasures possibly arise in them? Yet the underlying tendency to sensual desire still lies within them. A little baby doesn’t even have a concept of ‘sentient beings’, so how could ill will for sentient beings possibly arise in them? Yet the underlying tendency to ill will still lies within them. Wouldn’t the wanderers who follow other paths fault you using the simile of the infant?”
 
 
-4When he said this, Venerable Ānanda said to the Buddha: “Now is the time, Blessed One! Now is the time, Holy One! May the Buddha teach the five lower fetters. The mendicants will listen and remember it.”
+4When he said this, Venerable Ānanda said to the Buddha: “Now is the time, Blessed One! Now is the time, Holy One! May the Buddha teach the five lower fetters. The bhikkhus will listen and remember it.”
 
 “Well then, Ānanda, listen and pay close attention, I will speak.”
 
@@ -84,28 +84,28 @@ Suppose the river Ganges was full to the brim so a crow could drink from it. The
 In the same way, when the Dhamma is being taught for the cessation of identity view, someone whose mind is eager, confident, settled, and decided should be regarded as being like that strong person.
 
 
-17And what, Ānanda, is the path and the practice for giving up the five lower fetters? It’s when a mendicant — due to the seclusion from attachments, the giving up of unskillful qualities, and the complete settling of physical discomfort — quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering.
+17And what, Ānanda, is the path and the practice for giving up the five lower fetters? It’s when a bhikkhu — due to the seclusion from attachments, the giving up of unskillful qualities, and the complete settling of physical discomfort — quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering.
 
 They contemplate the phenomena there — included in form, feeling, perception, choices, and consciousness — as impermanent, as suffering, as diseased, as an abscess, as a dart, as misery, as an affliction, as alien, as falling apart, as empty, as not-self. They turn their mind away from those things, and apply it to the deathless element: ‘This is peaceful; this is sublime — that is, the stilling of all activities, the letting go of all attachments, the ending of craving, cessation, extinguishment.’ Abiding in that they attain the ending of defilements. If they don’t attain the ending of defilements, with the ending of the five lower fetters they’re reborn spontaneously, because of their passion and love for that meditation. They are extinguished there, and are not liable to return from that world. This is the path and the practice for giving up the five lower fetters.
 
 
-18Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna … third jhāna … fourth jhāna.
+18Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna … third jhāna … fourth jhāna.
 
 They contemplate the phenomena there as impermanent … They turn their mind away from those things … If they don’t attain the ending of defilements, they’re reborn spontaneously … and are not liable to return from that world. This too is the path and the practice for giving up the five lower fetters.
 
-19Furthermore, a mendicant, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space.
+19Furthermore, a bhikkhu, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space.
 
 They contemplate the phenomena there as impermanent … They turn their mind away from those things … If they don’t attain the ending of defilements, they’re reborn spontaneously … and are not liable to return from that world. This too is the path and the practice for giving up the five lower fetters.
 
-20Furthermore, a mendicant, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness.
+20Furthermore, a bhikkhu, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness.
 
 They contemplate the phenomena there as impermanent … They turn their mind away from those things … If they don’t attain the ending of defilements, they’re reborn spontaneously … and are not liable to return from that world. This too is the path and the practice for giving up the five lower fetters.
 
-21Furthermore, a mendicant, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness.
+21Furthermore, a bhikkhu, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness.
 
 They contemplate the phenomena there as impermanent … They turn their mind away from those things … If they don’t attain the ending of defilements, they’re reborn spontaneously … and are not liable to return from that world. This too is the path and the practice for giving up the five lower fetters.”
 
-22“Sir, if this is the path and the practice for giving up the five lower fetters, how come some mendicants here are released in heart while others are released by wisdom?”
+22“Sir, if this is the path and the practice for giving up the five lower fetters, how come some bhikkhus here are released in heart while others are released by wisdom?”
 
 “In that case, I say it is the diversity of their faculties.”
 

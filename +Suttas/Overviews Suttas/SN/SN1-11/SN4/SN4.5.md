@@ -44,10 +44,10 @@ parallels_partilal: "[[PLI-TV-KD1]], [[SN4.15]], [[SA-2.25]], [[SA1086]], [[SN4.
 ## 🌐 Overview
 
 > [!info] Summary
-> When the Buddha  explains to the mendicants how he has realized freedom, and so have his mendicant followers, Māra claims he is still trapped.
+> When the Buddha  explains to the bhikkhus how he has realized freedom, and so have his bhikkhu followers, Māra claims he is still trapped.
 
 > [!info] Key Excerpts 
-> Wander forth, mendicants, for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans
+> Wander forth, bhikkhus, for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans
 > 
 > There will be those who understand the teaching!
 > 

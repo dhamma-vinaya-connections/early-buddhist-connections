@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, towards evening the lion, king of beasts, emerges from his den, yawns, looks all around the four directions, and roars his lion’s roar three times. Then he sets out on the hunt.
+1“bhikkhus, towards evening the lion, king of beasts, emerges from his den, yawns, looks all around the four directions, and roars his lion’s roar three times. Then he sets out on the hunt.
 
 
 And the animals who hear the roar of the lion, king of beasts, are typically filled with fear, awe, and terror. They return to their lairs, be they in a hole, the water, or a wood; and the birds take to the air. Even the royal elephants, bound with strong harnesses in the villages, towns, and capital cities, break apart their bonds, and urinate and defecate in terror as they flee here and there. That’s how powerful is the lion, king of beasts, among animals, how illustrious and mighty.

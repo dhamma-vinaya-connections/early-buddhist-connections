@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with seven qualities soon realizes the supreme culmination of the spiritual path in this very life. They live having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness. What seven?
+1“bhikkhus, a bhikkhu with seven qualities soon realizes the supreme culmination of the spiritual path in this very life. They live having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness. What seven?
 
-It’s when a mendicant is faithful, ethical, learned, secluded, energetic, mindful, and wise. A mendicant with these seven qualities soon realizes the supreme culmination of the spiritual path in this very life. They live having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.”
+It’s when a bhikkhu is faithful, ethical, learned, secluded, energetic, mindful, and wise. A bhikkhu with these seven qualities soon realizes the supreme culmination of the spiritual path in this very life. They live having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.”
 
 1"Sattahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva āsavānaṁ khayā … pe … sacchikatvā upasampajja vihareyya. Katamehi sattahi?
 

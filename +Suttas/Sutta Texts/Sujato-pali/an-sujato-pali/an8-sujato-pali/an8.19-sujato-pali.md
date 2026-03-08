@@ -53,36 +53,36 @@ The ocean gradually slants, slopes, and inclines, with no abrupt precipice. This
 Seeing these eight incredible and amazing things the demons love the ocean.
 
 
-10Well, sir, do the mendicants love this teaching and training?”
+10Well, sir, do the bhikkhus love this teaching and training?”
 
 “They do indeed, Pahārāda.”
 
-“But seeing how many incredible and amazing things do the mendicants love this teaching and training?”
+“But seeing how many incredible and amazing things do the bhikkhus love this teaching and training?”
 
-“Seeing eight incredible and amazing things, Pahārāda, the mendicants love this teaching and training. What eight?
+“Seeing eight incredible and amazing things, Pahārāda, the bhikkhus love this teaching and training. What eight?
 
-The ocean gradually slants, slopes, and inclines, with no abrupt precipice. In the same way in this teaching and training the penetration to enlightenment comes from gradual training, progress, and practice, not abruptly. This is the first thing the mendicants love about this teaching and training.
+The ocean gradually slants, slopes, and inclines, with no abrupt precipice. In the same way in this teaching and training the penetration to enlightenment comes from gradual training, progress, and practice, not abruptly. This is the first thing the bhikkhus love about this teaching and training.
 
-11The ocean is consistent and doesn’t overflow its boundaries. In the same way, when a training rule is laid down for my disciples they wouldn’t break it even for the sake of their own life. This is the second thing the mendicants love about this teaching and training.
+11The ocean is consistent and doesn’t overflow its boundaries. In the same way, when a training rule is laid down for my disciples they wouldn’t break it even for the sake of their own life. This is the second thing the bhikkhus love about this teaching and training.
 
 
 12The ocean doesn’t accommodate a corpse, but quickly carries it to the shore and strands it on the beach.
 
 
-13In the same way, the Saṅgha doesn’t accommodate a person who is unethical, of bad qualities, filthy, with suspicious behavior, underhand, no true ascetic or spiritual practitioner — though claiming to be one — rotten inside, corrupt, and depraved. But they quickly gather and expel them. Even if such a person is sitting in the middle of the Saṅgha, they’re far from the Saṅgha, and the Saṅgha is far from them. This is the third thing the mendicants love about this teaching and training.
+13In the same way, the Saṅgha doesn’t accommodate a person who is unethical, of bad qualities, filthy, with suspicious behavior, underhand, no true ascetic or spiritual practitioner — though claiming to be one — rotten inside, corrupt, and depraved. But they quickly gather and expel them. Even if such a person is sitting in the middle of the Saṅgha, they’re far from the Saṅgha, and the Saṅgha is far from them. This is the third thing the bhikkhus love about this teaching and training.
 
-14When they reach the ocean, all the great rivers — that is, the Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī — lose their names and clans and are simply considered ‘the ocean’. In the same way, when they go forth from the lay life to homelessness, all four castes — aristocrats, brahmins, merchants, and workers — lose their former names and clans and are simply considered ‘Sakyan ascetics’. This is the fourth thing the mendicants love about this teaching and training.
+14When they reach the ocean, all the great rivers — that is, the Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī — lose their names and clans and are simply considered ‘the ocean’. In the same way, when they go forth from the lay life to homelessness, all four castes — aristocrats, brahmins, merchants, and workers — lose their former names and clans and are simply considered ‘Sakyan ascetics’. This is the fourth thing the bhikkhus love about this teaching and training.
 
-15For all the world’s streams that reach it, and the rain that falls from the sky, the ocean never empties or fills up. In the same way, though several mendicants become fully extinguished through the natural principle of extinguishment, without anything left over, the natural principle of extinguishment never empties or fills up. This is the fifth thing the mendicants love about this teaching and training.
+15For all the world’s streams that reach it, and the rain that falls from the sky, the ocean never empties or fills up. In the same way, though several bhikkhus become fully extinguished through the natural principle of extinguishment, without anything left over, the natural principle of extinguishment never empties or fills up. This is the fifth thing the bhikkhus love about this teaching and training.
 
-16The ocean has just one taste, the taste of salt. In the same way, this teaching and training has one taste, the taste of freedom. This is the sixth thing the mendicants love about this teaching and training.
+16The ocean has just one taste, the taste of salt. In the same way, this teaching and training has one taste, the taste of freedom. This is the sixth thing the bhikkhus love about this teaching and training.
 
-17The ocean is full of many kinds of treasures, such as pearls, gems, beryl, conch, quartz, coral, silver, gold, rubies, and emeralds. In the same way, this teaching and training is full of many kinds of treasures, such as the four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, the seven awakening factors, and the noble eightfold path. This is the seventh thing the mendicants love about this teaching and training.
+17The ocean is full of many kinds of treasures, such as pearls, gems, beryl, conch, quartz, coral, silver, gold, rubies, and emeralds. In the same way, this teaching and training is full of many kinds of treasures, such as the four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, the seven awakening factors, and the noble eightfold path. This is the seventh thing the bhikkhus love about this teaching and training.
 
-18Many great beings live in the ocean, such as leviathans, leviathan-gulpers, leviathan-gulper-gulpers, demons, dragons, and fairies. In the ocean there are life-forms a hundred leagues long, or even two hundred, three hundred, four hundred, or five hundred leagues long. In the same way, great beings live in this teaching and training, and these are those beings. The stream-enterer and the one practicing to realize the fruit of stream-entry. The once-returner and the one practicing to realize the fruit of once-return. The non-returner and the one practicing to realize the fruit of non-return. The perfected one, and the one practicing for perfection. This is the eighth thing the mendicants love about this teaching and training.
+18Many great beings live in the ocean, such as leviathans, leviathan-gulpers, leviathan-gulper-gulpers, demons, dragons, and fairies. In the ocean there are life-forms a hundred leagues long, or even two hundred, three hundred, four hundred, or five hundred leagues long. In the same way, great beings live in this teaching and training, and these are those beings. The stream-enterer and the one practicing to realize the fruit of stream-entry. The once-returner and the one practicing to realize the fruit of once-return. The non-returner and the one practicing to realize the fruit of non-return. The perfected one, and the one practicing for perfection. This is the eighth thing the bhikkhus love about this teaching and training.
 
 
-19Seeing these eight incredible and amazing things, Pahārāda, the mendicants love this teaching and training.”
+19Seeing these eight incredible and amazing things, Pahārāda, the bhikkhus love this teaching and training.”
 
 #### Pali
 

@@ -18,28 +18,28 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were storing up many almsbowls. When people walking about dwellings saw this, they complained and criticized them, “How can the Sakyan monastics store up many bowls? Are they starting up as bowl merchants or setting up a bowl shop?”
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were storing up many almsbowls. When people walking about dwellings saw this, they complained and criticized them, “How can the Sakyan monastics store up many bowls? Are they starting up as bowl merchants or setting up a bowl shop?”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can the monks from the group of six keep extra bowls?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can the bhikkhus from the group of six keep extra bowls?”
 
-3After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you do this?”
+3After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 4‘If a monk keeps an extra almsbowl, he commits an offense entailing relinquishment and confession.’”
 
 
-5In this way the Buddha laid down this training rule for the monks.
+5In this way the Buddha laid down this training rule for the bhikkhus.
 
 6Soon afterwards Venerable Ānanda received an extra bowl. He wanted to give it to Venerable Sāriputta, who was staying at Sāketa. Knowing that the Buddha had laid down a rule against keeping an extra bowl, Venerable Ānanda thought, “What should I do now?” He told the Buddha, who said, “How long is it, Ānanda, before Sāriputta returns?”
 
 “Nine or ten days, Venerable Sir.”
 
 
-Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, you should keep an extra almsbowl for ten days at the most. And so, monks, this training rule should be recited like this:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “bhikkhus, you should keep an extra almsbowl for ten days at the most. And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -65,7 +65,7 @@ Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, yo
 12**If he keeps it longer than that, it becomes subject to relinquishment:** it becomes subject to relinquishment at dawn on the eleventh day. The bowl should be relinquished to a saṅgha, a group, or an individual.
 
 
-“And, monks, it should be relinquished like this. After approaching the Sangha, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, raise his joined palms, and say,
+“And, bhikkhus, it should be relinquished like this. After approaching the Sangha, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior bhikkhus. He should then squat on his heels, raise his joined palms, and say,
 
 ‘Venerables, this almsbowl, which I have kept over ten days, is to be relinquished. I relinquish it to the Sangha.’
 
@@ -74,7 +74,7 @@ After relinquishing it, he should confess the offense. The confession should be 
 
 13‘Please, Venerables, I ask the Sangha to listen. This almsbowl, which was to be relinquished by monk so-and-so, has been relinquished to the Sangha. If it seems appropriate to the Sangha, the Sangha should give this bowl back to monk so-and-so.’
 
-14Or: after approaching several monks, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, raise his joined palms, and say,
+14Or: after approaching several bhikkhus, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior bhikkhus. He should then squat on his heels, raise his joined palms, and say,
 
 ‘Venerables, this almsbowl, which I have kept over ten days, is to be relinquished. I relinquish it to the venerables.’
 
@@ -98,9 +98,9 @@ If it has not been determined, but he perceives that it has, he commits an offen
 
 19There is no offense: if, within ten days, it is determined, assigned to another, given away, lost, destroyed, broken, stolen, or taken on trust; if he is insane; if he is the first offender.
 
-20Soon afterwards the monks from the group of six did not give back a relinquished bowl. They told the Buddha.
+20Soon afterwards the bhikkhus from the group of six did not give back a relinquished bowl. They told the Buddha.
 
-“Monks, a relinquished alsmbowl should be given back. If you don’t give it back, you commit an offense of wrong conduct.”
+“bhikkhus, a relinquished alsmbowl should be given back. If you don’t give it back, you commit an offense of wrong conduct.”
 
 21The training rule on almsbowls, the first, is finished.
 

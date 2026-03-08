@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four kinds of tree. What four?
+1“bhikkhus, there are these four kinds of tree. What four?
 
 1. One is a softwood surrounded by softwoods,
 2. one is a softwood surrounded by hardwoods,

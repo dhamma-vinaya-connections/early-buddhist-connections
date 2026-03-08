@@ -47,7 +47,7 @@ parallels_partilal: "[[DN33]], [[AN9.72]], [[MN16]], [[AN10.14]], [[AN9.82]], [[
 > There are these five emotional shackles
 
 > [!info] Key Excerpts 
-> Mendicant isn’t free of greed for sensual desire, the body, forms, sleep and overeating
+> bhikkhu isn’t free of greed for sensual desire, the body, forms, sleep and overeating
 > 
 > This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving.
 > 

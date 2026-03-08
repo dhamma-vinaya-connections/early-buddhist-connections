@@ -316,7 +316,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 | :-----------: | :--------------: |
 | Ārāmapavesana: Yā pana bhikkhunī jānaṃ sabhikkhukaṃ ārāmaṃ anāpucchā paviseyya, pācittiyaṃ. | 51. Entering Monastery: Should any bhikkhunī enter a monastery (bhikkhu's park) without asking permission... it is to be confessed. |
 
-> [!example]- 🌐[[BNI-PC52]] - 📜[Available texts](obsidian://search?query=file:bni-pc52-) - Bhikkhuakkosana - Abusing Monks
+> [!example]- 🌐[[BNI-PC52]] - 📜[Available texts](obsidian://search?query=file:bni-pc52-) - Bhikkhuakkosana - Abusing bhikkhus
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
@@ -340,7 +340,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 | :-----------: | :--------------: |
 | Maccharī: Yā pana bhikkhunī kulamaccharinī, pācittiyaṃ. | 55. Stinginess: Should any bhikkhunī serve a group but be stingy with the food... it is to be confessed. |
 
-> [!example]- 🌐[[BNI-PC56]] - 📜[Available texts](obsidian://search?query=file:bni-pc56-) - Abhikkhukāvāsa - Staying Apart From Monks
+> [!example]- 🌐[[BNI-PC56]] - 📜[Available texts](obsidian://search?query=file:bni-pc56-) - Abhikkhukāvāsa - Staying Apart From bhikkhus
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |

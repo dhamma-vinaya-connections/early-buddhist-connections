@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were swaying and leaning their bodies while sitting in inhabited areas. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were swaying and leaning their bodies while sitting in inhabited areas. …
 
 #### Final ruling
 

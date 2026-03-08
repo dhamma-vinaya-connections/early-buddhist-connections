@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, before my awakening — when I was still not awake but intent on awakening — I developed and cultivated five things. What five?
+1“bhikkhus, before my awakening — when I was still not awake but intent on awakening — I developed and cultivated five things. What five?
 
-The basis of psychic power that has immersion due to enthusiasm, and active effort … the basis of psychic power that has immersion due to energy, and active effort … the basis of psychic power that has immersion due to mental development, and active effort … the basis of psychic power that has immersion due to inquiry, and active effort. And the fifth is sheer vigor.
+The ![[Iddhipadas]] that has immersion due to energy, and active effort … the ![[Iddhipadas]] that has immersion due to inquiry, and active effort. And the fifth is sheer vigor.
 
 When I had developed and cultivated these five things, with vigor as fifth, I became capable of realizing anything that can be realized by insight to which I extended the mind, in each and every case.
 

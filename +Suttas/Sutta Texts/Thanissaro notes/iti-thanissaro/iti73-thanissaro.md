@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 73
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, formless phenomena are more peaceful than forms; cessation, more peaceful than formless phenomena.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, formless phenomena are more peaceful than forms; cessation, more peaceful than formless phenomena.”
 
 Those beings headed to forms,
 

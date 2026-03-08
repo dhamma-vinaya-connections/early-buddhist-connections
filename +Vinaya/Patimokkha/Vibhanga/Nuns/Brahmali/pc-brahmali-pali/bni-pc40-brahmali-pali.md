@@ -20,9 +20,9 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time the nuns were staying right there at Rājagaha for the rainy season, the cold season, and the hot season. People complained and criticized them, “The nuns are leaving the districts in darkness and obscurity. They don’t brighten them up by their presence.”
 
-2The nuns heard the complaints of those people. They then told the monks, who in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+2The nuns heard the complaints of those people. They then told the bhikkhus, who in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Well then, monks, I will lay down a training rule for the nuns for the following ten reasons: for the well-being of the Sangha … for the longevity of the true Teaching, and for supporting the training. And, monks, the nuns should recite this training rule like this:
+“Well then, bhikkhus, I will lay down a training rule for the nuns for the following ten reasons: for the well-being of the Sangha … for the longevity of the true Teaching, and for supporting the training. And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

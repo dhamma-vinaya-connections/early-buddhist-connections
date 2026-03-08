@@ -9,17 +9,17 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 58
 
-*Bi-Pc.58.1.1* *BD.3.356* … among the Sakyans at Kapilavatthu in the Banyan monastery. Now at that time[^1] the group of six monks, having approached a nunnery, exhorted the group of six nuns. Nuns spoke thus to the group of six nuns: “Come, ladies, we will go for exhortation.”
+*Bi-Pc.58.1.1* *BD.3.356* … among the Sakyans at Kapilavatthu in the Banyan monastery. Now at that time[^1] the group of six bhikkhus, having approached a nunnery, exhorted the group of six nuns. Nuns spoke thus to the group of six nuns: “Come, ladies, we will go for exhortation.”
 
 “Well, ladies, we would go for the sake of exhortation, (but) the group of the six masters exhort us, having come to this place itself.” Those who were modest nuns … spread it about, saying: “How can this group of six nuns not go for exhortation?” …
 
-“Is it true, as is said, monks, that the group of six nuns do not go for exhortation?”
+“Is it true, as is said, bhikkhus, that the group of six nuns do not go for exhortation?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the group of six nuns *Vin.4.315* not go for exhortation? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the group of six nuns *Vin.4.315* not go for exhortation? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should not go for exhortation or for communion, there is an offence of expiation.”[^2]
 

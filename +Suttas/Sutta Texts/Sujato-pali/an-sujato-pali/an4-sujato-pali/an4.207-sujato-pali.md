@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you who’s bad and who’s worse, who’s good and who’s better.
+1“bhikkhus, I will teach you who’s bad and who’s worse, who’s good and who’s better.
 
 2And who’s bad? It’s someone who kills living creatures, steals, and commits sexual misconduct. They use speech that’s false, divisive, harsh, or nonsensical. And they’re covetous, malicious, with wrong view. This is called bad.
 

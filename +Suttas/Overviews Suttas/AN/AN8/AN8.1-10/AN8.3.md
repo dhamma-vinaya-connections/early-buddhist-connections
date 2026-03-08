@@ -44,12 +44,12 @@ parallels_partilal: "[[AN7.1]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Due to eight qualities, a mendicant is displeasing to their fellow monastics, but with the opposite qualities is pleasing
+> Due to eight qualities, a bhikkhu is displeasing to their fellow monastics, but with the opposite qualities is pleasing
 
 > [!info] Key Excerpts 
 > Doesn’t praise the disliked and criticize the liked. They don’t desire material possessions and honor, to be looked up to. They know moderation and the proper time. Their conduct is pure, they don’t talk a lot, and they don’t insult and abuse their spiritual companions. They have conscience and prudence. They have few desires and right view
 > 
-> Mendicant with these eight qualities is liked and approved by their spiritual companions, and respected and admired
+> bhikkhu with these eight qualities is liked and approved by their spiritual companions, and respected and admired
 > 
 
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four speakers. What four?
+1“bhikkhus, there are these four speakers. What four?
 
 1. There’s a speaker who runs out of meaningful things to say, but not of ways of phrasing things.
 2. There’s a speaker who runs out of ways of phrasing things, but not of meaningful things to say.

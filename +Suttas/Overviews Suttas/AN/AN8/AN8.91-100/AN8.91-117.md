@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Female lay followers names sc1pts-vp-pli4.348
 > 
-> Mendicant who has been convicted of aggravated misconduct must behave themselves properly in these eight respects
+> bhikkhu who has been convicted of aggravated misconduct must behave themselves properly in these eight respects
 > 
 
 

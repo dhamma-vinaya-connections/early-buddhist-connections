@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 16: Groups of (about) Twenty Verses
 
@@ -140,7 +140,7 @@ they realized the state of extinguishment, the unconditioned.
 ##### Pārāsariya (2nd)
 
 726This thought came to the ascetic,  
-the monk Pārāsariya,  
+the bhikkhu Pārāsariya,  
 as he was seated alone  
 meditating in seclusion:
 
@@ -656,7 +656,7 @@ you’re formidable, upright, majestic.
 In the midst of the Saṅgha of ascetics,  
 you shine like the sun.
 
-821You’re a mendicant fine to see,  
+821You’re a bhikkhu fine to see,  
 with skin that shines like lustrous gold.  
 But with such excellent appearance,  
 what do you want with the ascetic life?
@@ -766,7 +766,7 @@ your defilements are shattered;
 by not grasping, like a lion,  
 you’ve given up fear and dread.
 
-841These three hundred mendicants  
+841These three hundred bhikkhus  
 stand with joined palms raised.  
 Stretch out your feet, great hero:  
 let these giants bow to the Teacher.”
@@ -937,8 +937,8 @@ and asked the Buddha for the going forth right away.
 
 870Then the Buddha, the compassionate great seer,  
 the teacher of the world with its gods,  
-said to him, “Come, monk!”  
-And with that he became a monk.
+said to him, “Come, bhikkhu!”  
+And with that he became a bhikkhu.
 
 871“He who once was heedless,  
 but turned to heedfulness,  
@@ -950,7 +950,7 @@ is supplanted by the good,
 lights up the world,  
 like the moon freed from clouds.
 
-873A young mendicant  
+873A young bhikkhu  
 devoted to the Buddha’s teaching,  
 lights up the world,  
 like the moon freed from clouds.
@@ -1134,7 +1134,7 @@ there’s no more abodes in the host of gods.
 Transmigration through births is finished,  
 now there are no more future lives.”
 
-909“That mendicant, knowing in an hour the galaxy,  
+909“That bhikkhu, knowing in an hour the galaxy,  
 together with the age of Brahmā;  
 master of psychic properties, and passing away and rebirth,  
 sees the gods at that time.”
@@ -1197,7 +1197,7 @@ in the forest full of flowers,
 as he was seated alone  
 meditating in seclusion:
 
-921“The behavior of the mendicants  
+921“The behavior of the bhikkhus  
 these days seems different  
 from when the protector of the world,  
 the best of men, was still here.
@@ -1233,7 +1233,7 @@ their deportment was as smooth
 as a stream of oil.
 
 928With the utter ending of all defilements,  
-those senior monks have now been quenched.  
+those senior bhikkhus have now been quenched.  
 They were great meditators and great benefactors—  
 there are few like them today.
 

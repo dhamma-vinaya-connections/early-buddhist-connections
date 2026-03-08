@@ -14,13 +14,13 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### IX. Senior Mendicants — AN 5.88: Senior Mendicants
+### IX. Senior bhikkhus — AN 5.88: Senior bhikkhus
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a senior mendicant who has five qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.
+1“bhikkhus, a senior bhikkhu who has five qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.
 
 
 2What five?
@@ -37,11 +37,11 @@ They’re very learned, remembering and keeping what they’ve learned. These te
 
 But they have wrong view and distorted perspective. They draw many people away from the true teaching and establish them in false teachings.
 
-People follow their example, thinking that the senior mendicant is senior and has long gone forth. Or that they’re well-known, famous, with a large following that includes both laypeople and renunciates. Or that they receive robes, alms-food, lodgings, and medicines and supplies for the sick. Or that they’re very learned, remembering and keeping what they’ve learned.
+People follow their example, thinking that the senior bhikkhu is senior and has long gone forth. Or that they’re well-known, famous, with a large following that includes both laypeople and renunciates. Or that they receive robes, alms-food, lodgings, and medicines and supplies for the sick. Or that they’re very learned, remembering and keeping what they’ve learned.
 
-A senior mendicant who has these five qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.
+A senior bhikkhu who has these five qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.
 
-3A senior mendicant who has five qualities is acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.
+3A senior bhikkhu who has five qualities is acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.
 
 
 4What five?
@@ -57,9 +57,9 @@ They’re very learned, remembering and keeping what they’ve learned. These te
 
 And they have right view and an undistorted perspective. They draw many people away from false teachings and establish them in the true teaching.
 
-People follow their example, thinking that the senior mendicant is senior and has long gone forth. Or that they’re well-known, famous, with a large following that includes both laypeople and renunciates. Or that they receive robes, alms-food, lodgings, and medicines and supplies for the sick. Or that they’re very learned, remembering and keeping what they’ve learned.
+People follow their example, thinking that the senior bhikkhu is senior and has long gone forth. Or that they’re well-known, famous, with a large following that includes both laypeople and renunciates. Or that they receive robes, alms-food, lodgings, and medicines and supplies for the sick. Or that they’re very learned, remembering and keeping what they’ve learned.
 
-A senior mendicant who has these five qualities is acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”
+A senior bhikkhu who has these five qualities is acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu bahujanaahitāya paṭipanno hoti bahujanaasukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ.
 

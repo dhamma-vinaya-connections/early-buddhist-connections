@@ -50,7 +50,7 @@ on behalf of the many
 
 here who are fettered:
 
-For a monk disaffected,
+For a bhikkhu disaffected,
 
 frequenting a place remote—
 
@@ -70,7 +70,7 @@ at which he shouldn’t tremble
 
 how many the dangers in the world
 
-for the monk          going the direction
+for the bhikkhu          going the direction
 
 he never has gone
 
@@ -88,7 +88,7 @@ his range there of action?
 
 What should be
 
-a resolute monk’s
+a resolute bhikkhu’s
 
 habits & practices?[2](#^snp4-16-02) ^snp4-16-02-ref
 
@@ -120,7 +120,7 @@ desiring self-awakening
 
 in line with the Dhamma.
 
-An enlightened monk,
+An enlightened bhikkhu,
 
 living circumscribed,
 
@@ -296,7 +296,7 @@ with regard to these things
 
 he should subdue his desire.
 
-A monk, mindful,
+A bhikkhu, mindful,
 
 his mind well released,
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to sensual desire, or, when it has arisen, makes it increase and grow like the feature of beauty. When you attend improperly to the feature of beauty, sensual desire arises, and once arisen it increases and grows.”
+1“bhikkhus, I do not see a single thing that gives rise to sensual desire, or, when it has arisen, makes it increase and grow like the feature of beauty. When you attend improperly to the feature of beauty, sensual desire arises, and once arisen it increases and grows.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati uppanno vā kāmacchando bhiyyobhāvāya vepullāya saṁvattati yathayidaṁ, bhikkhave, subhanimittaṁ. Subhanimittaṁ, bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando uppajjati uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṁvattatī"ti.
 

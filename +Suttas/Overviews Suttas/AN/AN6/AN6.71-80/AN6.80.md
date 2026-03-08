@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Possessing six qualities a mendicant attains to greatness.
+> Possessing six qualities a bhikkhu attains to greatness.
 
 > [!info] Key Excerpts 
 > Full of light, full of practice, full of inspiration, and full of eagerness. They don’t slack off when it comes to developing skillful qualities. They reach further
 > 
-> Mendicant who has these six qualities soon acquires great and abundant good qualities.”
+> bhikkhu who has these six qualities soon acquires great and abundant good qualities.”
 > 
 
 

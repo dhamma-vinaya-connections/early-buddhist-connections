@@ -255,9 +255,9 @@ This is the extent to which one may be reborn, grow old, die, pass away, or reap
 
 46Not regarding anything in this way, they don’t grasp at anything in the world. Not grasping, they’re not anxious. Not being anxious, they personally become extinguished. They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’
 
-It wouldn’t be appropriate to say that a mendicant whose mind is freed like this holds the following views: ‘A Realized One exists after death’; ‘A Realized One doesn’t exist after death’; ‘A Realized One both exists and doesn’t exist after death’; ‘A Realized One neither exists nor doesn’t exist after death’.
+It wouldn’t be appropriate to say that a bhikkhu whose mind is freed like this holds the following views: ‘A Realized One exists after death’; ‘A Realized One doesn’t exist after death’; ‘A Realized One both exists and doesn’t exist after death’; ‘A Realized One neither exists nor doesn’t exist after death’.
 
-Why is that? A mendicant is freed by directly knowing this: how far language and the scope of language extend; how far terminology and the scope of terminology extend; how far description and the scope of description extend; how far wisdom and the sphere of wisdom extend; how far the cycle of rebirths and its continuation extend. It wouldn’t be appropriate to say that a mendicant freed by directly knowing this holds the view: ‘There is no such thing as knowing and seeing.’
+Why is that? A bhikkhu is freed by directly knowing this: how far language and the scope of language extend; how far terminology and the scope of terminology extend; how far description and the scope of description extend; how far wisdom and the sphere of wisdom extend; how far the cycle of rebirths and its continuation extend. It wouldn’t be appropriate to say that a bhikkhu freed by directly knowing this holds the view: ‘There is no such thing as knowing and seeing.’
 
 #### 5. Planes of Consciousness
 
@@ -285,7 +285,7 @@ Now, regarding these seven planes of consciousness and two dimensions, is it app
   
 “No, sir.”  
   
-“When a mendicant, having truly understood the origin, ending, gratification, drawback, and escape regarding these seven planes of consciousness and these two dimensions, is freed by not grasping, they’re called a mendicant who is freed by wisdom.
+“When a bhikkhu, having truly understood the origin, ending, gratification, drawback, and escape regarding these seven planes of consciousness and these two dimensions, is freed by not grasping, they’re called a bhikkhu who is freed by wisdom.
 
 #### 6. The Eight Liberations
 
@@ -310,7 +310,7 @@ Going totally beyond the dimension of neither perception nor non-perception, the
 These are the eight liberations.
 
 
-50When a mendicant enters into and withdraws from these eight liberations — in forward order, in reverse order, and in forward and reverse order — wherever they wish, whenever they wish, and for as long as they wish; and when they realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements, they’re called a mendicant who is freed both ways. And, Ānanda, there is no other freedom both ways that is better or finer than this.”
+50When a bhikkhu enters into and withdraws from these eight liberations — in forward order, in reverse order, and in forward and reverse order — wherever they wish, whenever they wish, and for as long as they wish; and when they realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements, they’re called a bhikkhu who is freed both ways. And, Ānanda, there is no other freedom both ways that is better or finer than this.”
 
 
 51That is what the Buddha said. Satisfied, Venerable Ānanda was happy with what the Buddha said.

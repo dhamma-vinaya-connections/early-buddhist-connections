@@ -16,57 +16,57 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Mendicants, be my heirs in the teaching, not in material things. Out of compassion for you, I think, ‘How can my disciples become heirs in the teaching, not in material things?’
+2“bhikkhus, be my heirs in the teaching, not in material things. Out of compassion for you, I think, ‘How can my disciples become heirs in the teaching, not in material things?’
 
 If you become heirs in material things, not in the teaching, they’ll point to you, saying, ‘The Teacher’s disciples live as heirs in material things, not in the teaching.’ And they’ll point to me, saying, ‘The Teacher’s disciples live as heirs in material things, not in the teaching.’
 
 If you become heirs in the teaching, not in material things, they’ll point to you, saying, ‘The Teacher’s disciples live as heirs in the teaching, not in material things.’ And they’ll point to me, saying, ‘The Teacher’s disciples live as heirs in the teaching, not in material things.’
 
-So, mendicants, be my heirs in the teaching, not in material things. Out of compassion for you, I think, ‘How can my disciples become heirs in the teaching, not in material things?’
+So, bhikkhus, be my heirs in the teaching, not in material things. Out of compassion for you, I think, ‘How can my disciples become heirs in the teaching, not in material things?’
 
 
-3Suppose that I had eaten and refused more food, being full, and having had as much as I needed. And there was some extra alms-food that was going to be thrown away. Then two mendicants were to come who were weak with hunger. I’d say to them, ‘Mendicants, I have eaten and refused more food, being full, and having had as much as I need. And there is this extra alms-food that’s going to be thrown away. Eat it if you like. Otherwise I’ll throw it out where there is little that grows, or drop it into water that has no living creatures.’
+3Suppose that I had eaten and refused more food, being full, and having had as much as I needed. And there was some extra alms-food that was going to be thrown away. Then two bhikkhus were to come who were weak with hunger. I’d say to them, ‘bhikkhus, I have eaten and refused more food, being full, and having had as much as I need. And there is this extra alms-food that’s going to be thrown away. Eat it if you like. Otherwise I’ll throw it out where there is little that grows, or drop it into water that has no living creatures.’
 
-4Then one of those mendicants thought, ‘The Buddha has eaten and refused more food. And he has some extra alms-food that’s going to be thrown away. If we don’t eat it he’ll throw it away. But the Buddha has also said: “Be my heirs in the teaching, not in material things.” And alms-food is a kind of material thing. Instead of eating this alms-food, why don’t I spend this day and night weak with hunger?’ And that’s what they did.
+4Then one of those bhikkhus thought, ‘The Buddha has eaten and refused more food. And he has some extra alms-food that’s going to be thrown away. If we don’t eat it he’ll throw it away. But the Buddha has also said: “Be my heirs in the teaching, not in material things.” And alms-food is a kind of material thing. Instead of eating this alms-food, why don’t I spend this day and night weak with hunger?’ And that’s what they did.
 
 
-5Then the second of those mendicants thought, ‘The Buddha has eaten and refused more food. And he has some extra alms-food that’s going to be thrown away. If we don’t eat it he’ll throw it away. Why don’t I eat this alms-food, then spend the day and night having got rid of my hunger and weakness?’ And that’s what they did.
+5Then the second of those bhikkhus thought, ‘The Buddha has eaten and refused more food. And he has some extra alms-food that’s going to be thrown away. If we don’t eat it he’ll throw it away. Why don’t I eat this alms-food, then spend the day and night having got rid of my hunger and weakness?’ And that’s what they did.
 
-6Even though that mendicant, after eating the alms-food, spent the day and night rid of hunger and weakness, it is the former mendicant who is more worthy of respect and praise. Why is that? Because for a long time that will conduce to that mendicant being of few wishes, content, self-effacing, easy to look after, and energetic.
+6Even though that bhikkhu, after eating the alms-food, spent the day and night rid of hunger and weakness, it is the former bhikkhu who is more worthy of respect and praise. Why is that? Because for a long time that will conduce to that bhikkhu being of few wishes, content, self-effacing, easy to look after, and energetic.
 
-So, mendicants, be my heirs in the teaching, not in material things. Out of compassion for you, I think, ‘How can my disciples become heirs in the teaching, not in material things?’”
+So, bhikkhus, be my heirs in the teaching, not in material things. Out of compassion for you, I think, ‘How can my disciples become heirs in the teaching, not in material things?’”
 
 
 7That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.
 
-8Then soon after the Buddha left, Venerable Sāriputta said to the mendicants: “Reverends, mendicants!”
+8Then soon after the Buddha left, Venerable Sāriputta said to the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Sāriputta said this:
 
 
 9“Reverends, how do the disciples of a Teacher who lives in seclusion not train in seclusion? And how do they train in seclusion?”
 
-“Reverend, we would travel a long way to learn the meaning of this statement in the presence of Venerable Sāriputta. May Venerable Sāriputta himself please clarify the meaning of this. The mendicants will listen and remember it.”
+“Reverend, we would travel a long way to learn the meaning of this statement in the presence of Venerable Sāriputta. May Venerable Sāriputta himself please clarify the meaning of this. The bhikkhus will listen and remember it.”
 
 “Well then, reverends, listen and pay close attention, I will speak.”
 
 “Yes, reverend,” they replied. Sāriputta said this:
 
 
-10“Reverends, how do the disciples of a Teacher who lives in seclusion not train in seclusion? The disciples of a teacher who lives in seclusion do not train in seclusion. They don’t give up what the Teacher tells them to give up. They’re indulgent and slack, leaders in backsliding, neglecting seclusion. In this case, the senior mendicants should be criticized on three grounds. ‘The disciples of a teacher who lives in seclusion do not train in seclusion.’ This is the first ground. ‘They don’t give up what the Teacher tells them to give up.’ This is the second ground. ‘They’re indulgent and slack, leaders in backsliding, neglecting seclusion.’ This is the third ground. The senior mendicants should be criticized on these three grounds. In this case, the middle mendicants and the junior mendicants should be criticized on the same three grounds. This is how the disciples of a Teacher who lives in seclusion do not train in seclusion.
+10“Reverends, how do the disciples of a Teacher who lives in seclusion not train in seclusion? The disciples of a teacher who lives in seclusion do not train in seclusion. They don’t give up what the Teacher tells them to give up. They’re indulgent and slack, leaders in backsliding, neglecting seclusion. In this case, the senior bhikkhus should be criticized on three grounds. ‘The disciples of a teacher who lives in seclusion do not train in seclusion.’ This is the first ground. ‘They don’t give up what the Teacher tells them to give up.’ This is the second ground. ‘They’re indulgent and slack, leaders in backsliding, neglecting seclusion.’ This is the third ground. The senior bhikkhus should be criticized on these three grounds. In this case, the middle bhikkhus and the junior bhikkhus should be criticized on the same three grounds. This is how the disciples of a Teacher who lives in seclusion do not train in seclusion.
 
-11And how do the disciples of a teacher who lives in seclusion train in seclusion? The disciples of a teacher who lives in seclusion train in seclusion. They give up what the Teacher tells them to give up. They’re not indulgent and slack, leaders in backsliding, neglecting seclusion. In this case, the senior mendicants should be praised on three grounds. ‘The disciples of a teacher who lives in seclusion train in seclusion.’ This is the first ground. ‘They give up what the Teacher tells them to give up.’ This is the second ground. ‘They’re not indulgent and slack, leaders in backsliding, neglecting seclusion.’ This is the third ground. The senior mendicants should be praised on these three grounds. In this case, the middle mendicants and the junior mendicants should be praised on the same three grounds. This is how the disciples of a Teacher who lives in seclusion train in seclusion.
+11And how do the disciples of a teacher who lives in seclusion train in seclusion? The disciples of a teacher who lives in seclusion train in seclusion. They give up what the Teacher tells them to give up. They’re not indulgent and slack, leaders in backsliding, neglecting seclusion. In this case, the senior bhikkhus should be praised on three grounds. ‘The disciples of a teacher who lives in seclusion train in seclusion.’ This is the first ground. ‘They give up what the Teacher tells them to give up.’ This is the second ground. ‘They’re not indulgent and slack, leaders in backsliding, neglecting seclusion.’ This is the third ground. The senior bhikkhus should be praised on these three grounds. In this case, the middle bhikkhus and the junior bhikkhus should be praised on the same three grounds. This is how the disciples of a Teacher who lives in seclusion train in seclusion.
 
 12The bad thing here is greed and hate. There is a middle way of practice for giving up greed and hate. It gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. And what is that middle way? It is simply this noble eightfold path, that is: right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is that middle way, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment.
 
 13The bad thing here is anger and hostility. … offensiveness and contempt … jealousy and stinginess … deceit and deviousness … obstinacy and aggression … conceit and arrogance … vanity and negligence. There is a middle way of practice for giving up vanity and negligence. It gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. And what is that middle way? It is simply this noble eightfold path, that is: right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is that middle way, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment.”
 
 
-14This is what Venerable Sāriputta said. Satisfied, the mendicants were happy with what Sāriputta said.
+14This is what Venerable Sāriputta said. Satisfied, the bhikkhus were happy with what Sāriputta said.
 
 #### Pali
 

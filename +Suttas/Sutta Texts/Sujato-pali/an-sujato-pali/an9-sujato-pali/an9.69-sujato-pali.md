@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five kinds of stinginess. What five? Stinginess with dwellings, families, material possessions, praise, and the teaching. These are the five kinds of stinginess.
+1“bhikkhus, there are these five kinds of stinginess. What five? Stinginess with dwellings, families, material possessions, praise, and the teaching. These are the five kinds of stinginess.
 
 2To give up these five kinds of stinginess you should develop the four kinds of mindfulness meditation. …”
 

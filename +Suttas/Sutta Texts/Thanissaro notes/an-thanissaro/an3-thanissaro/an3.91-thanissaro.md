@@ -17,11 +17,11 @@ language: "English"
 
 “There are these three trainings. Which three? The training in heightened virtue, the training in heightened mind, the training in heightened discernment.
 
-“And what is the training in heightened virtue? There is the case where a monk is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest fault. This is called the training in heightened virtue.
+“And what is the training in heightened virtue? There is the case where a bhikkhu is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest fault. This is called the training in heightened virtue.
 
-“And what is the training in heightened mind? There is the case where a monk—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. With the fading of rapture he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ With the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—he enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. This is called the training in heightened mind.
+“And what is the training in heightened mind? There is the case where a bhikkhu—![[Jhanas]] & mindfulness, neither pleasure nor pain. This is called the training in heightened mind.
 
-“And what is the training in heightened discernment? There is the case where a monk, through the ending of the effluents, enters & remains in the effluent-free awareness-release & discernment-release, having directly known & realized them for himself right in the here & now. This is called the training in heightened discernment.
+“And what is the training in heightened discernment? There is the case where a bhikkhu, through the ending of the effluents, enters & remains in the effluent-free awareness-release & discernment-release, having directly known & realized them for himself right in the here & now. This is called the training in heightened discernment.
 
 “These are the three trainings.”
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1-4“Mendicants, these four corruptions obscure the sun and moon, so they don’t shine and glow and radiate. What four? Clouds … Fog … Smoke … An eclipse of Rāhu, lord of demons … These are four corruptions that obscure the sun and moon, so they don’t shine and glow and radiate.
+1-4“bhikkhus, these four corruptions obscure the sun and moon, so they don’t shine and glow and radiate. What four? Clouds … Fog … Smoke … An eclipse of Rāhu, lord of demons … These are four corruptions that obscure the sun and moon, so they don’t shine and glow and radiate.
 
 
 5In the same way, these four things corrupt ascetics and brahmins, so they don’t shine and glow and radiate. What four?

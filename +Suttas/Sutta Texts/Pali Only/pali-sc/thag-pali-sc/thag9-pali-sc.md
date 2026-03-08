@@ -11,7 +11,7 @@ language: "Pali"
 > ◄  [[thag8-pali-sc]] 📜  [[thag10-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 ### Chapter 9: The Group of Nine Verses
 
 ##### 9.1 Bhūtattheragāthā

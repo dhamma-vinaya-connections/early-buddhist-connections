@@ -3,7 +3,7 @@ sutta_code: "AN7.28"
 sutta_pts: "A iv 24"
 sutta_title:
   - "Paṭhamaparihāni "
-  - "Non-Decline For A Mendicant Trainee"
+  - "Non-Decline For A bhikkhu Trainee"
 nikaya:
   - "AN "
   - "Aṅguttara Nikāya"
@@ -40,16 +40,16 @@ parallels_partilal: ""
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.27]]  🌐 [[AN7.29]] ►
 
-# AN7.28 - Paṭhamaparihāni - Non-Decline For A Mendicant Trainee
+# AN7.28 - Paṭhamaparihāni - Non-Decline For A bhikkhu Trainee
 ## 🌐 Overview
 
 > [!info] Summary
-> Seven qualities leading to the decline of a mendicant who is a trainee
+> Seven qualities leading to the decline of a bhikkhu who is a trainee
 
 > [!info] Key Excerpts 
 > Not relishing work, talk, sleep, and company, being easy to admonish, and having good friends, don’t have wicked desires, and don’t stop half-way, guard the sense doors and don’t they eat too much, respect elders
 > 
-> As long as these seven principles that prevent decline last among mendicants they can expect growth, not decline
+> As long as these seven principles that prevent decline last among bhikkhus they can expect growth, not decline
 > 
 
 

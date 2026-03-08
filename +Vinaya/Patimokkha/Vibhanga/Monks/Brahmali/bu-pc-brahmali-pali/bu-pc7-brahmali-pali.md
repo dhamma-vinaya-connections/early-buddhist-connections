@@ -30,21 +30,21 @@ When Udāyī had left, the housewife said to her daughter-in-law, “Hey, what d
 
 And they complained and criticized him, “How can Venerable Udāyī give teachings by whispering in the ear? Should not teachings be given audibly and openly?”
 
-3The monks heard the complaints of those women, and the monks of few desires complained and criticized Udāyī, “How can Venerable Udāyī give teachings to women?”
+3The bhikkhus heard the complaints of those women, and the bhikkhus of few desires complained and criticized Udāyī, “How can Venerable Udāyī give teachings to women?”
 
 4After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Udāyī: “Is it true, Udāyī, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 5‘If a monk gives a teaching to a woman, he commits an offense entailing confession.’”
 
 
-6In this way the Buddha laid down this training rule for the monks.
+6In this way the Buddha laid down this training rule for the bhikkhus.
 
-7Soon afterwards some female lay followers saw some monks and said to them, “Venerables, please give a teaching.”
+7Soon afterwards some female lay followers saw some bhikkhus and said to them, “Venerables, please give a teaching.”
 
 “It’s not allowable for us to teach women.”
 
@@ -54,23 +54,23 @@ The Buddha rebuked him … “Foolish man, how can you do this? This will affect
 
 Those female lay followers complained and criticized them, “How can they not teach us when asked?”
 
-8The monks heard the complaints of those female lay followers, and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, I allow you to teach five or six sentences to a woman.
+8The bhikkhus heard the complaints of those female lay followers, and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “bhikkhus, I allow you to teach five or six sentences to a woman.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 9‘If a monk gives a teaching of more than five or six sentences to a woman, he commits an offense entailing confession.’”
 
-10In this way the Buddha laid down this training rule for the monks.
+10In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-11When the monks from the group of six heard that the Buddha had made this allowance, they taught women more than five or six sentences with a man who did not understand sitting nearby. The monks of few desires complained and criticized them, “How can the monks from the group of six teach women more than five or six sentences with a man who doesn’t understand sitting nearby?”
+11When the bhikkhus from the group of six heard that the Buddha had made this allowance, they taught women more than five or six sentences with a man who did not understand sitting nearby. The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six teach women more than five or six sentences with a man who doesn’t understand sitting nearby?”
 
-12After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you do this?”
+12After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And so, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

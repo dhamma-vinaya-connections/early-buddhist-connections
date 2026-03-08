@@ -71,7 +71,7 @@ when asked, for you are alert.”
 1039 “Not greedy for sensual pleasures,  
 their mind would be unclouded.  
 Skilled in all things,  
-a mendicant would wander mindful.”
+a bhikkhu would wander mindful.”
 
 The Young Man Ajita’s Questions are Finished
 

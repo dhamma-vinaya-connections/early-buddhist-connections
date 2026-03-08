@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these three people are very helpful to another. What three?
+1“bhikkhus, these three people are very helpful to another. What three?
 
 The person who has enabled you to go for refuge to the Buddha, the teaching, and the Saṅgha. This person is very helpful to another.
 

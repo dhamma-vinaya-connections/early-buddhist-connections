@@ -30,7 +30,7 @@ Then Bhāradvāja the Builder went up to the Buddha and addressed him in verse:
 
 
 3“What kind of work do you do  
-as a mendicant in the sal jungle?  
+as a bhikkhu in the sal jungle?  
 How do you find enjoyment  
 alone in the wilderness, Gotama?”
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five traditions of the brahmins are seen these days among dogs, but not among brahmins. What five?
+1“bhikkhus, these five traditions of the brahmins are seen these days among dogs, but not among brahmins. What five?
 
 In the past brahmins had sex only with brahmin women, not with others. These days brahmins have sex with both brahmin women and others. But these days dogs have sex only with female dogs, not with other species. This is the first tradition of the brahmins seen these days among dogs, but not among brahmins.
 

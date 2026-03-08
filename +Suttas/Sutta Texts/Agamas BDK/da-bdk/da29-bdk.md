@@ -105,7 +105,7 @@ You should not entertain such a mistaken view. Why? Because what you
 thought applies only to three kinds of [faulty] teaching. You may find
 some guidance in these examples.
 What are the three kinds of [faulty] teaching? Those who shave their
-hair and beard, put on the three robes [of a mendicant], renounce domestic
+hair and beard, put on the three robes [of a bhikkhu], renounce domestic
 life, and apply themselves to the practice of austerity should eradicate all
 defilements in this life and advance on the path to realizing the insight
 that transcends ordinary existence. The first example of [faulty] teaching
@@ -132,7 +132,7 @@ it bears on how the rules of the Vinaya discipline and the precepts of the
 wise and saintly disciples are observed in both timing and deportment.
 Again, the Buddha said to Lohitya:
 The second type of [faulty] teaching is by those who have shaved their
-hair and beards, put on the three robes of a mendicant, renounced domestic
+hair and beards, put on the three robes of a bhikkhu, renounced domestic
 life, and applied themselves to the practice of austerity, but they have not
 yet been able to eradicate all defilements even though they have managed
 to gain some degree of understanding regarding the insight that transcends
@@ -161,7 +161,7 @@ and deportment.
 Again, the Buddha said:
 
 The third type of [faulty] teaching is by those who have shaved their hair  
-and beards, put on the three robes of a mendicant, renounced domestic  
+and beards, put on the three robes of a bhikkhu, renounced domestic  
 life, and applied themselves to the practice of austerity, but they have not  
 yet been able to eradicate all defilements even though they have managed  
 to gain some degree of understanding regarding the insight that transcends  

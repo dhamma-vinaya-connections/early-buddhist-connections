@@ -15,19 +15,19 @@ language: "Pali - English"
 
 454. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū kupitā anattamanā sattarasavaggiyānaṃ bhikkhūnaṃ talasattikaṃ uggiranti. Te pahārasamuccitā rodanti. Bhikkhū evamāhaṃsu – ‘‘kissa tumhe, āvuso, rodathā’’ti? ‘‘Ime, āvuso, chabbaggiyā bhikkhū kupitā anattamanā amhākaṃ talasattikaṃ uggirantī’’ti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma chabbaggiyā bhikkhū kupitā anattamanā sattarasavaggiyānaṃ bhikkhūnaṃ talasattikaṃ uggirissantī’’ti…pe… saccaṃ kira tumhe, bhikkhave, kupitā anattamanā sattarasavaggiyānaṃ bhikkhūnaṃ talasattikaṃ uggirathāti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tumhe, moghapurisā, kupitā anattamanā sattarasavaggiyānaṃ bhikkhūnaṃ talasattikaṃ uggirissatha! Netaṃ, moghapurisā, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-454.At that time the Blessed One was dwelling at Savatthi in Jeta Grove, Anathapindika's Monastery. At that time, the group-of-six monks, angry and displeased, raised their hand to strike the group-of-seventeen monks. Struck repeatedly, they wept. The monks asked them, “Friends, why are you weeping?” “These group-of-six monks, angry and displeased, raised their hand to strike us.” Those monks of few desires… complained and criticized, “How can the group-of-six monks, angry and displeased, raise their hand to strike the group-of-seventeen monks?”… “Is it true, monks, that you, angry and displeased, raised your hand to strike the group-of-seventeen monks?” “It is true, Blessed One.” The Blessed One rebuked them… “How can you, foolish men, being angry and displeased, raise your hand to strike the group-of-seventeen monks! This will not lead to confidence in the unconvinced… And so, monks, this training rule should be recited:
+454.At that time the Blessed One was dwelling at Savatthi in Jeta Grove, Anathapindika's Monastery. At that time, the group-of-six bhikkhus, angry and displeased, raised their hand to strike the group-of-seventeen bhikkhus. Struck repeatedly, they wept. The bhikkhus asked them, “Friends, why are you weeping?” “These group-of-six bhikkhus, angry and displeased, raised their hand to strike us.” Those bhikkhus of few desires… complained and criticized, “How can the group-of-six bhikkhus, angry and displeased, raise their hand to strike the group-of-seventeen bhikkhus?”… “Is it true, bhikkhus, that you, angry and displeased, raised your hand to strike the group-of-seventeen bhikkhus?” “It is true, Blessed One.” The Blessed One rebuked them… “How can you, foolish men, being angry and displeased, raise your hand to strike the group-of-seventeen bhikkhus! This will not lead to confidence in the unconvinced… And so, bhikkhus, this training rule should be recited:
 
 455. ‘‘Yo pana bhikkhu bhikkhussa kupito anattamano talasattikaṃ uggireyya, pācittiya’’nti.
 
-455.“Whatever monk, being angry and displeased, raises his hand to strike another monk, he commits a pācittiya offense.”
+455.“Whatever bhikkhu, being angry and displeased, raises his hand to strike another bhikkhu, he commits a pācittiya offense.”
 
 456. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-456.“Now, whoever” means: whoever of such a description… “monk” means… In this context, this is the monk intended.
+456.“Now, whoever” means: whoever of such a description… “bhikkhu” means… In this context, this is the bhikkhu intended.
 
 Bhikkhussāti aññassa bhikkhussa.
 
-“A monk” means another monk.
+“A bhikkhu” means another bhikkhu.
 
 Kupito anattamanoti anabhiraddho āhatacitto khilajāto.
 

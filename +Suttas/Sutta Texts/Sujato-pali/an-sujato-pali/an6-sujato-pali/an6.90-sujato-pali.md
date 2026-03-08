@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a person accomplished in view has given up six things. What six? Identity view, doubt, misapprehension of precepts and observances, and forms of greed, hate, and delusion that lead to rebirth in places of loss. A person accomplished in view has given up these six things.”
+1“bhikkhus, a person accomplished in view has given up six things. What six? Identity view, doubt, misapprehension of precepts and observances, and forms of greed, hate, and delusion that lead to rebirth in places of loss. A person accomplished in view has given up these six things.”
 
 1"Chayime, bhikkhave, dhammā diṭṭhisampannassa puggalassa pahīnā. Katame cha? Sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, apāyagamanīyo rāgo, apāyagamanīyo doso, apāyagamanīyo moho. Ime kho, bhikkhave, cha dhammā diṭṭhisampannassa puggalassa pahīnā"ti.
 

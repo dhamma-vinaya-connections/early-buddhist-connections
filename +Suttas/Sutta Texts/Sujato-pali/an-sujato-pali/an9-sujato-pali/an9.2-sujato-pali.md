@@ -20,22 +20,22 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him:
+1Then a bhikkhu went up to the Buddha, bowed, sat down to one side, and said to him:
 
-“Sir, they speak of being ‘supported’. How is a mendicant who is supported defined?”
+“Sir, they speak of being ‘supported’. How is a bhikkhu who is supported defined?”
 
 
-“Mendicant, if a mendicant supported by faith gives up the unskillful and develops the skillful, the unskillful is actually given up by them.
+“bhikkhu, if a bhikkhu supported by faith gives up the unskillful and develops the skillful, the unskillful is actually given up by them.
 
-If a mendicant supported by conscience …
+If a bhikkhu supported by conscience …
 
-If a mendicant supported by prudence …
+If a bhikkhu supported by prudence …
 
-If a mendicant supported by energy …
+If a bhikkhu supported by energy …
 
-If a mendicant supported by wisdom gives up the unskillful and develops the skillful, the unskillful is actually given up by them. What’s been given up is completely given up when it has been given up by seeing with noble wisdom.
+If a bhikkhu supported by wisdom gives up the unskillful and develops the skillful, the unskillful is actually given up by them. What’s been given up is completely given up when it has been given up by seeing with noble wisdom.
 
-2A mendicant grounded on these five things should rely on four things. What four? After reflection, a mendicant uses some things, endures some things, avoids some things, and gets rid of some things. That’s how a mendicant is supported.”
+2A bhikkhu grounded on these five things should rely on four things. What four? After reflection, a bhikkhu uses some things, endures some things, avoids some things, and gets rid of some things. That’s how a bhikkhu is supported.”
 
 #### Pali
 

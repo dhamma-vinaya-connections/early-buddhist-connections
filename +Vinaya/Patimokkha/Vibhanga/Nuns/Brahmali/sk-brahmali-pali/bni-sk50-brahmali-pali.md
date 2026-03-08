@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six made chomping sounds while eating. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six made chomping sounds while eating. …
 
 #### Final ruling
 
 2“‘I will not make a chomping sound while eating,’ this is how you should train.”
 
-3One should not make a chomping sound while eating. If a monk, out of disrespect, makes a chomping sound while eating, he commits an offense of wrong conduct.
+3One should not make a chomping sound while eating. If a bhikkhu, out of disrespect, makes a chomping sound while eating, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

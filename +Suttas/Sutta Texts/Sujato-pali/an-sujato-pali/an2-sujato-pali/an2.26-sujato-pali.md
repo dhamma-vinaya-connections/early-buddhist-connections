@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when you hide your misdeeds, you can expect one of two destinies: hell or the animal realm.
+1“bhikkhus, when you hide your misdeeds, you can expect one of two destinies: hell or the animal realm.
 
 2When you don’t hide your misdeeds, you can expect one of two destinies: as a god or a human.”
 

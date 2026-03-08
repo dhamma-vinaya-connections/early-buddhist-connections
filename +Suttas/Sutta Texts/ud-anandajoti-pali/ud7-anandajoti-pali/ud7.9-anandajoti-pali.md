@@ -18,7 +18,7 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was walking on walking tour amongst the Mallas with a great Community of monks and arrived at the brāhmaṇa village of the Mallas called Thūna. The brāhmaṇa householders of Thūna heard: "The ascetic Gotama, the son of the Sakyans who has gone forth from the Sakyan clan, is walking on walking tour amongst the Mallas with a great Community of monks and has arrived at Thūna", and they completely filled the well to the top with grass and chaff, thinking: "May these shaveling ascetics not drink our drinking water."
+1Thus I heard: At one time the Gracious One was walking on walking tour amongst the Mallas with a great Community of bhikkhus and arrived at the brāhmaṇa village of the Mallas called Thūna. The brāhmaṇa householders of Thūna heard: "The ascetic Gotama, the son of the Sakyans who has gone forth from the Sakyan clan, is walking on walking tour amongst the Mallas with a great Community of bhikkhus and has arrived at Thūna", and they completely filled the well to the top with grass and chaff, thinking: "May these shaveling ascetics not drink our drinking water."
 
 2Then the Gracious One, having gone down from the road, went to the root of a certain tree, and after going, he sat down on the prepared seat. While sat the Gracious One addressed venerable Ānanda, saying: "Come now, Ānanda, bring drinking water from that well."
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four things are very far apart. What four? The sky and the earth. … The near and the far shore of the ocean. … Where the sun rises and where it sets. … The teaching of the virtuous and the teaching of the wicked. … These are the four things very far apart.
+1“bhikkhus, these four things are very far apart. What four? The sky and the earth. … The near and the far shore of the ocean. … Where the sun rises and where it sets. … The teaching of the virtuous and the teaching of the wicked. … These are the four things very far apart.
 
 
 2The sky is far from the earth;  

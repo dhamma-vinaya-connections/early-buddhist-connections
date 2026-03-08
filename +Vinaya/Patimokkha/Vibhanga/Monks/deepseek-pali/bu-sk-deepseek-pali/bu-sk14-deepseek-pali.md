@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 588. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū uccāsaddaṃ mahāsaddaṃ karontā antaraghare gacchanti…pe….
 
-## 588.At that time the Blessed One was dwelling at Sāvatthī, in Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the group-of-six monks were going into inhabited areas making loud and great noises... and so on.
+## 588.At that time the Blessed One was dwelling at Sāvatthī, in Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the group-of-six bhikkhus were going into inhabited areas making loud and great noises... and so on.
 
 ‘‘Appasaddo antaraghare gamissāmīti sikkhā karaṇīyā’’ti.
 

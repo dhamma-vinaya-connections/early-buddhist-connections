@@ -15,7 +15,7 @@ language: "English"
 ## ## Upakkilesa Sutta
 
 
-“Monks, there are these four obscurations of the sun and moon, obscured by which the sun and moon don’t glow, don’t shine, don’t dazzle. Which four?
+“bhikkhus, there are these four obscurations of the sun and moon, obscured by which the sun and moon don’t glow, don’t shine, don’t dazzle. Which four?
 
 “Clouds are an obscuration of the sun and moon, obscured by which the sun and moon don’t glow, don’t shine, don’t dazzle.
 

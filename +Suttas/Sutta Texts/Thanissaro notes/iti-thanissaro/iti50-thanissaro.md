@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 50
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three roots of what is unskillful. Which three? Greed as a root of what is unskillful, aversion as a root of what is unskillful, delusion as a root of what is unskillful. These are the three roots of what is unskillful.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three roots of what is unskillful. Which three? Greed as a root of what is unskillful, aversion as a root of what is unskillful, delusion as a root of what is unskillful. These are the three roots of what is unskillful.”
 
 Greed, aversion, delusion destroy
 

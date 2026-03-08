@@ -20,7 +20,7 @@ language: "English - Pali"
 
 ‘‘Katame pañca? Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī [anabhiratisaññī (ka.) a. ni. 5.121-122, 303-304 passitabbaṃ], sabbasaṅkhāresu aniccānupassī, maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti. Ime kho, bhikkhave, pañca dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattantī’’ti. Navamaṃ.
 
-"What five? Here, monks, a monk dwells contemplating the foulness of the body; he is percipient of the repulsiveness in food; he is percipient of dissatisfaction with the entire world; he contemplates impermanence in all formations; and the perception of death is well established within him. These five qualities, monks, when developed and cultivated, conduce solely to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to full awakening, to Nibbāna." The Ninth.
+"What five? Here, monks, a monk ![[Satipatthanas]]; he contemplates impermanence in all formations; and the perception of death is well established within him. These five qualities, monks, when developed and cultivated, conduce solely to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to full awakening, to Nibbāna." The Ninth.
 
 
 ---

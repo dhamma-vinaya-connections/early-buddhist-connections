@@ -20,14 +20,14 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Vesālī, at the Gotamaka Tree-shrine. There the Buddha addressed the mendicants: “Mendicants!”
+1At one time the Buddha was staying near Vesālī, at the Gotamaka Tree-shrine. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, I teach based on direct knowledge, not without direct knowledge. I teach with reasons, not without them. I teach with a demonstrable basis, not without it. Since this is so, you should follow my advice and instruction. This is enough for you to feel joyful, delighted, and happy: ‘The Blessed One is a fully awakened Buddha! The teaching is well explained! The Saṅgha is practicing well!’”
+2“bhikkhus, I teach based on direct knowledge, not without direct knowledge. I teach with reasons, not without them. I teach with a demonstrable basis, not without it. Since this is so, you should follow my advice and instruction. This is enough for you to feel joyful, delighted, and happy: ‘The Blessed One is a fully awakened Buddha! The teaching is well explained! The Saṅgha is practicing well!’”
 
-3That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said. And while this discourse was being spoken, the galaxy shook.
+3That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said. And while this discourse was being spoken, the galaxy shook.
 
 #### Pali
 

@@ -22,41 +22,41 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-There the Buddha addressed the mendicants:
+There the Buddha addressed the bhikkhus:
 
 
-2“Mendicants, if wanderers who follow other paths were to ask: ‘Reverends, what is the vital condition for the development of the awakening factors?’ How would you answer them?”
+2“bhikkhus, if wanderers who follow other paths were to ask: ‘Reverends, what is the vital condition for the development of the awakening factors?’ How would you answer them?”
 
-“Our teachings are rooted in the Buddha. … The mendicants will listen and remember it.”
+“Our teachings are rooted in the Buddha. … The bhikkhus will listen and remember it.”
 
 
-3“Well then, mendicants, listen and pay close attention, I will speak.”
+3“Well then, bhikkhus, listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
-4“Mendicants, if wanderers who follow other paths were to ask: ‘Reverends, what is the vital condition for the development of the awakening factors?’ You should answer them:
+4“bhikkhus, if wanderers who follow other paths were to ask: ‘Reverends, what is the vital condition for the development of the awakening factors?’ You should answer them:
 
-5‘It’s when a mendicant has good friends, companions, and associates. This is the first vital condition for the development of the awakening factors.
+5‘It’s when a bhikkhu has good friends, companions, and associates. This is the first vital condition for the development of the awakening factors.
 
-6Furthermore, a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is the second vital condition for the development of the awakening factors.
+6Furthermore, a bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is the second vital condition for the development of the awakening factors.
 
-7Furthermore, a mendicant gets to take part in talk about self-effacement that helps open the heart, when they want, without trouble or difficulty. That is, talk about fewness of wishes, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. This is the third vital condition for the development of the awakening factors.
+7Furthermore, a bhikkhu gets to take part in talk about self-effacement that helps open the heart, when they want, without trouble or difficulty. That is, talk about fewness of wishes, contentment, seclusion, aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. This is the third vital condition for the development of the awakening factors.
 
-8Furthermore, a mendicant lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. This is the fourth vital condition for the development of the awakening factors.
+8Furthermore, a bhikkhu lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. This is the fourth vital condition for the development of the awakening factors.
 
-9Furthermore, a mendicant is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. This is the fifth vital condition for the development of the awakening factors.’
-
-
-10A mendicant with good friends, companions, and associates can expect to be ethical …
-
-11A mendicant with good friends, companions, and associates can expect to take part in talk about self-effacement that helps open the heart …
-
-12A mendicant with good friends, companions, and associates can expect to live with energy roused up …
-
-13A mendicant with good friends, companions, and associates can expect to be wise …
+9Furthermore, a bhikkhu is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. This is the fifth vital condition for the development of the awakening factors.’
 
 
-14A mendicant grounded on these five things should develop four further things. They should develop the perception of ugliness to give up greed, love to give up hate, mindfulness of breathing to cut off thinking, and perception of impermanence to uproot the conceit ‘I am’. When you perceive impermanence, the perception of not-self becomes stabilized. Perceiving not-self, you uproot the conceit ‘I am’ and attain extinguishment in this very life.”
+10A bhikkhu with good friends, companions, and associates can expect to be ethical …
+
+11A bhikkhu with good friends, companions, and associates can expect to take part in talk about self-effacement that helps open the heart …
+
+12A bhikkhu with good friends, companions, and associates can expect to live with energy roused up …
+
+13A bhikkhu with good friends, companions, and associates can expect to be wise …
+
+
+14A bhikkhu grounded on these five things should develop four further things. They should develop the perception of ugliness to give up greed, love to give up hate, mindfulness of breathing to cut off thinking, and perception of impermanence to uproot the conceit ‘I am’. When you perceive impermanence, the perception of not-self becomes stabilized. Perceiving not-self, you uproot the conceit ‘I am’ and attain extinguishment in this very life.”
 
 #### Pali
 

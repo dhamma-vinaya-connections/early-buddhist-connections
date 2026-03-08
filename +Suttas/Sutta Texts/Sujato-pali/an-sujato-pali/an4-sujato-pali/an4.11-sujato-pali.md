@@ -20,16 +20,16 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, suppose a mendicant has a sensual, malicious, or cruel thought while walking. They tolerate it and don’t give it up, get rid of it, eliminate it, and obliterate it. Such a mendicant is said to be ‘not keen or prudent, always lazy, and lacking energy’ when walking.
+1“bhikkhus, suppose a bhikkhu has a sensual, malicious, or cruel thought while walking. They tolerate it and don’t give it up, get rid of it, eliminate it, and obliterate it. Such a bhikkhu is said to be ‘not keen or prudent, always lazy, and lacking energy’ when walking.
 
 
-2-4Suppose a mendicant has a sensual, malicious, or cruel thought while standing … sitting … or when lying down while awake. They tolerate it and don’t give it up, get rid of it, eliminate it, and obliterate it. Such a mendicant is said to be ‘not keen or prudent, always lazy, and lacking energy’ when lying down while awake.
+2-4Suppose a bhikkhu has a sensual, malicious, or cruel thought while standing … sitting … or when lying down while awake. They tolerate it and don’t give it up, get rid of it, eliminate it, and obliterate it. Such a bhikkhu is said to be ‘not keen or prudent, always lazy, and lacking energy’ when lying down while awake.
 
 
-5Suppose a mendicant has a sensual, malicious, or cruel thought while walking. They don’t tolerate it, but give it up, get rid of it, eliminate it, and obliterate it. Such a mendicant is said to be ‘keen and prudent, always energetic and determined’ when walking.
+5Suppose a bhikkhu has a sensual, malicious, or cruel thought while walking. They don’t tolerate it, but give it up, get rid of it, eliminate it, and obliterate it. Such a bhikkhu is said to be ‘keen and prudent, always energetic and determined’ when walking.
 
 
-6-8Suppose a mendicant has a sensual, malicious, or cruel thought while standing … sitting … or when lying down while awake. They don’t tolerate it, but give it up, get rid of it, eliminate it, and obliterate it. Such a mendicant is said to be ‘keen and prudent, always energetic and determined’ when lying down while awake.”
+6-8Suppose a bhikkhu has a sensual, malicious, or cruel thought while standing … sitting … or when lying down while awake. They don’t tolerate it, but give it up, get rid of it, eliminate it, and obliterate it. Such a bhikkhu is said to be ‘keen and prudent, always energetic and determined’ when lying down while awake.”
 
 
 9Whether walking or standing,  
@@ -39,14 +39,14 @@ to do with the lay life,
 
 10you’re on the wrong path,  
 lost among things that delude.  
-Such a mendicant is incapable  
+Such a bhikkhu is incapable  
 of touching the highest awakening.
 
 11But one who, whether standing or walking,  
 sitting or lying down,  
 has calmed their thoughts,  
 loving peace of mind;  
-such a mendicant is capable  
+such a bhikkhu is capable  
 of touching the highest awakening.”
 
 1"Carato cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṁsāvitakko vā. Tañce bhikkhu adhivāseti, nappajahati na vinodeti na byantīkaroti na anabhāvaṁ gameti, carampi, bhikkhave, bhikkhu evaṁbhūto ‘anātāpī anottāpī satataṁ samitaṁ kusīto hīnavīriyo’ti vuccati.

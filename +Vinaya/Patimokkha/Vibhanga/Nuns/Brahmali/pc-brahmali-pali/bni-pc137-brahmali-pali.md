@@ -18,47 +18,47 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying in the Bhagga country at Susumāragira in the Bhesakaḷā Grove, the deer park. At that time, during winter, the monks were warming themselves after setting fire to a hollow log. Heated by the fire, a black snake came out of the log and attacked the monks. The monks ran here and there.
+1At one time the Buddha was staying in the Bhagga country at Susumāragira in the Bhesakaḷā Grove, the deer park. At that time, during winter, the bhikkhus were warming themselves after setting fire to a hollow log. Heated by the fire, a black snake came out of the log and attacked the bhikkhus. The bhikkhus ran here and there.
 
-2The monks of few desires complained and criticized them, “How could those monks light a fire to warm themselves?” …
+2The bhikkhus of few desires complained and criticized them, “How could those bhikkhus light a fire to warm themselves?” …
 
-“Is it true, monks, that monks did this?”
+“Is it true, bhikkhus, that bhikkhus did this?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How could those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
-3‘If a monk lights a fire to warm himself, or has one lit, he commits an offense entailing confession.’”
+3‘If a bhikkhu lights a fire to warm himself, or has one lit, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5At one time a number of monks were sick. The monks who were looking after them asked, “I hope you’re bearing up? I hope you’re getting better?”
+5At one time a number of bhikkhus were sick. The bhikkhus who were looking after them asked, “I hope you’re bearing up? I hope you’re getting better?”
 
 “Previously we lit a fire to warm ourselves, and then we were comfortable. But now that the Buddha has prohibited this, we don’t warm ourselves because we’re afraid of wrongdoing. Because of that we’re not comfortable.”
 
-They told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+They told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow a sick monk to light a fire to warm himself, or to have one lit.
+“bhikkhus, I allow a sick bhikkhu to light a fire to warm himself, or to have one lit.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
-6‘If a monk who is not sick lights a fire to warm himself, or has one lit, he commits an offense entailing confession.’
+6‘If a bhikkhu who is not sick lights a fire to warm himself, or has one lit, he commits an offense entailing confession.’
 
-7In this way the Buddha laid down this training rule for the monks.
+7In this way the Buddha laid down this training rule for the bhikkhus.
 
-8Soon afterwards the monks did not light lamps, small fires, or saunas because they were afraid of wrongdoing. They told the Buddha …
+8Soon afterwards the bhikkhus did not light lamps, small fires, or saunas because they were afraid of wrongdoing. They told the Buddha …
 
-“Monks, I allow you to light a fire, or to have one lit, if there’s a suitable reason.
+“bhikkhus, I allow you to light a fire, or to have one lit, if there’s a suitable reason.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-9‘If a monk who is not sick lights a fire to warm himself, or has one lit, except if there is a suitable reason, he commits an offense entailing confession.’”
+9‘If a bhikkhu who is not sick lights a fire to warm himself, or has one lit, except if there is a suitable reason, he commits an offense entailing confession.’”
 
 #### Definitions
 
-10**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+10**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
 11**Who is not sick:** who is comfortable without a fire.

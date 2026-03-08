@@ -33,7 +33,7 @@ Then, late at night, the glorious god Hatthaka, lighting up the entire Jeta’s 
 
 “I still rehearse now the teachings that I rehearsed as a human being. And I also rehearse teachings that I didn’t rehearse as a human being.
 
-Just as the Buddha these days lives crowded by monks, nuns, laymen, and laywomen; by rulers and their ministers, and teachers of other paths and their disciples, so I live crowded by the gods. The gods come from far away, thinking, ‘We’ll hear the teaching in the presence of Hatthaka.’
+Just as the Buddha these days lives crowded by bhikkhus, nuns, laymen, and laywomen; by rulers and their ministers, and teachers of other paths and their disciples, so I live crowded by the gods. The gods come from far away, thinking, ‘We’ll hear the teaching in the presence of Hatthaka.’
 
 Sir, I passed away without getting enough of three things. What three? Seeing the Buddha; hearing the true teaching; and serving the Saṅgha. I passed away without getting enough of these three things.
 

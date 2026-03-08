@@ -15,7 +15,7 @@ language: "English"
 ## ## Dāna Sutta
 
 
-On one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. And on that occasion the female lay follower Veḷukaṇṭakin Nandamātar, had established a donation endowed with six factors for the Saṅgha of monks headed by Sāriputta & Moggallāna. The Blessed One saw with his divine eye, surpassing the human, that the laywoman Veḷukaṇḍakī, Nanda’s mother, had established a donation endowed with six factors for the Saṅgha of monks headed by Sāriputta & Moggallāna. On seeing this, he addressed the monks: “Monks, the female lay follower Veḷukaṇṭakin Nandamātar, has established a donation endowed with six factors for the Saṅgha of monks headed by Sāriputta & Moggallāna.
+On one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. And on that occasion the female lay follower Veḷukaṇṭakin Nandamātar, had established a donation endowed with six factors for the Saṅgha of bhikkhus headed by Sāriputta & Moggallāna. The Blessed One saw with his divine eye, surpassing the human, that the laywoman Veḷukaṇḍakī, Nanda’s mother, had established a donation endowed with six factors for the Saṅgha of bhikkhus headed by Sāriputta & Moggallāna. On seeing this, he addressed the bhikkhus: “bhikkhus, the female lay follower Veḷukaṇṭakin Nandamātar, has established a donation endowed with six factors for the Saṅgha of bhikkhus headed by Sāriputta & Moggallāna.
 
 “And how is a donation endowed with six factors? There is the case where there are the three factors of the donor, the three factors of the recipients.
 

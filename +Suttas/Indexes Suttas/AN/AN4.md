@@ -33,16 +33,16 @@ contribution:
 >  Because of his spiritual attainments and practice, a Buddha  is supremely self-confident
 
 > [!example]- 🌐[[AN4.9]] - 📜[Available texts](obsidian://search?query=file:an4.9-) - Taṇhuppāda – Arising Of Craving 
->  Sources of craving for mendicants
+>  Sources of craving for bhikkhus
 
 > [!example]- 🌐[[AN4.10]] - 📜[Available texts](obsidian://search?query=file:an4.10-) - Yoga – Bondage / Yokes 
 >  The yokes of sensual pleasures, future lives, views, and ignorance
 
 > [!example]- 🌐[[AN4.11]] - 📜[Available texts](obsidian://search?query=file:an4.11-) - Cara – Walking 
->  A mendicant gets rid of unwholesome states right away, in whatever posture they happen to be in
+>  A bhikkhu gets rid of unwholesome states right away, in whatever posture they happen to be in
 
 > [!example]- 🌐[[AN4.12]] - 📜[Available texts](obsidian://search?query=file:an4.12-) - Sila – Ethics 
->  A mendicant gets rid of unwholesome states right away, in whatever posture they happen to be in
+>  A bhikkhu gets rid of unwholesome states right away, in whatever posture they happen to be in
 
 > [!example]- 🌐[[AN4.13]] - 📜[Available texts](obsidian://search?query=file:an4.13-) - Duccarita – Conduct Bad And Good 
 >  The four right efforts: to prevent, to give up, to develop, and to preserve.
@@ -84,7 +84,7 @@ contribution:
 >  This spiritual life is lived for the sake of restraint, giving up, fading away, and stopping
 
 > [!example]- 🌐[[AN4.26]] - 📜[Available texts](obsidian://search?query=file:an4.26-) - Kuha – Deceivers 
->  Mendicants who are deceivers, stubborn, flatterers, frauds, insolent, and scattered: they are no mendicants of the Buddha 
+>  bhikkhus who are deceivers, stubborn, flatterers, frauds, insolent, and scattered: they are no bhikkhus of the Buddha 
 
 > [!example]- 🌐[[AN4.27]] - 📜[Available texts](obsidian://search?query=file:an4.27-) - Santuṭṭhi – Contentment 
 >  Contentment with any old robe, alms-food, lodgings, and love of meditation: these are ancient traditions of the noble ones
@@ -117,10 +117,10 @@ contribution:
 >  The brahmin doṇa is filled with wonder when he sees the Buddha ’s footprints
 
 > [!example]- 🌐[[AN4.37]] - 📜[Available texts](obsidian://search?query=file:an4.37-) - Aparihāniya – Non-Decline 
->  A mendicant who has morality, guards the sense doors, eats in moderation, and is committed to wakefulness can’t decline
+>  A bhikkhu who has morality, guards the sense doors, eats in moderation, and is committed to wakefulness can’t decline
 
 > [!example]- 🌐[[AN4.38]] - 📜[Available texts](obsidian://search?query=file:an4.38-) - Patilīna – Withdrawn 
->  A mendicant has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has tranquilized bodily activity, and is said to be ‘withdrawn
+>  A bhikkhu has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has tranquilized bodily activity, and is said to be ‘withdrawn
 
 > [!example]- 🌐[[AN4.39]] - 📜[Available texts](obsidian://search?query=file:an4.39-) - Udāyī – With Udāyī 
 >  The Buddha  criticizes violent sacrifice, but not non-violent giving
@@ -159,10 +159,10 @@ contribution:
 >  Four unskillful activities that prevent a monk from shining with dhamma
 
 > [!example]- 🌐[[AN4.51]] - 📜[Available texts](obsidian://search?query=file:an4.51-) - Puññābhisanda – Overflowing Merit 1st 
->  When a mendicant meditates using an offering, merit overflows for the donor
+>  When a bhikkhu meditates using an offering, merit overflows for the donor
 
 > [!example]- 🌐[[AN4.52]] - 📜[Available texts](obsidian://search?query=file:an4.52-) - Puññābhisanda – Overflowing Merit 2nd   
->  When a mendicant has confidence and morality, merit overflows for the donor
+>  When a bhikkhu has confidence and morality, merit overflows for the donor
 
 > [!example]- 🌐[[AN4.53]] - 📜[Available texts](obsidian://search?query=file:an4.53-) - Saṃvāsa – Living Together 
 >  Marriages of gods and zombies
@@ -186,7 +186,7 @@ contribution:
 >  Long life, beauty, happiness, and strength
 
 > [!example]- 🌐[[AN4.60]] - 📜[Available texts](obsidian://search?query=file:an4.60-) - Pāṇātipāta – Killing Living Creatures 
->  A lay disciple serves the mendicant saṅgha with robes, alms-food, lodgings, and medicines
+>  A lay disciple serves the bhikkhu saṅgha with robes, alms-food, lodgings, and medicines
 
 > [!example]- 🌐[[AN4.61]] - 📜[Available texts](obsidian://search?query=file:an4.61-) - Pattakamma – Deeds Of Substance 
 >  Four things that are desirable, but hard to get; and how to get them through deeds of substance
@@ -219,10 +219,10 @@ contribution:
 >  Corruption of the realm follows corruption of the king.
 
 > [!example]- 🌐[[AN4.71]] - 📜[Available texts](obsidian://search?query=file:an4.71-) - Padhāna – Effort 
->  When a mendicant has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements
+>  When a bhikkhu has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements
 
 > [!example]- 🌐[[AN4.72]] - 📜[Available texts](obsidian://search?query=file:an4.72-) - Padhāna – Effort 
->  When a mendicant has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements
+>  When a bhikkhu has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements
 
 > [!example]- 🌐[[AN4.73]] - 📜[Available texts](obsidian://search?query=file:an4.73-) - Sappurisa – Good Person 
 >  How you speak about yourself and others reveals much about your personal integrity
@@ -360,7 +360,7 @@ contribution:
 >  How much dukkha does it take to motivate you to practice the Dhamma in earnest? The Buddha  illustrates his point with the famous simile of a thoroughbred horse stirred to action by its rider
 
 > [!example]- 🌐[[AN4.114]] - 📜[Available texts](obsidian://search?query=file:an4.114-) - Nāga – Elephant Royal 
->  A mendicant is like a king’s elephant
+>  A bhikkhu is like a king’s elephant
 
 > [!example]- 🌐[[AN4.115]] - 📜[Available texts](obsidian://search?query=file:an4.115-) - Ṭhāna – Things 
 >  Things that are pleasant or unpleasant, harmful or beneficial
@@ -756,7 +756,7 @@ contribution:
 >  Bad monk sees four reasons to relish schism in the saṅgha
 
 > [!example]- 🌐[[AN4.244]] - 📜[Available texts](obsidian://search?query=file:an4.244-) - Āpattibhaya – Perils Of Offenses 
->  A mendicant fears offenses just as someone would fear punishment
+>  A bhikkhu fears offenses just as someone would fear punishment
 
 > [!example]- 🌐[[AN4.245]] - 📜[Available texts](obsidian://search?query=file:an4.245-) - Sikkhānisaṃsa – Training Benefits 
 >  This sutta makes the point that the duty of mindfulness is not simply to watch things arise and pass away. Instead, its duty is to remember to make the elements of the path arise and to prevent them from passing away
@@ -801,13 +801,13 @@ contribution:
 >  How a family loses or preserves its wealth. and are inclusive
 
 > [!example]- 🌐[[AN4.259]] - 📜[Available texts](obsidian://search?query=file:an4.259-) - Ājānīya – Thoroughbred 
->  How a mendicant is like a fine thoroughbred
+>  How a bhikkhu is like a fine thoroughbred
 
 > [!example]- 🌐[[AN4.259]] - 📜[Available texts](obsidian://search?query=file:an4.259-) - Ājānīya – Thoroughbred 
->  How a mendicant is like a fine thoroughbred
+>  How a bhikkhu is like a fine thoroughbred
 
 > [!example]- 🌐[[AN4.260]] - 📜[Available texts](obsidian://search?query=file:an4.260-) - Ājānīya – Thoroughbred 
->  How a mendicant is like a fine thoroughbred
+>  How a bhikkhu is like a fine thoroughbred
 
 > [!example]- 🌐[[AN4.261]] - 📜[Available texts](obsidian://search?query=file:an4.261-) - Arañña – Wilderness 
 >  Things that make you fit for living secluded in the wilderness

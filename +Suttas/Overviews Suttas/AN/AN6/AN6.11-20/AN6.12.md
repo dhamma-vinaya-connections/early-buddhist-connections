@@ -44,7 +44,7 @@ parallels_partilal: "[[AN6.11]], [[DN33]], [[EA37.1]], [[PLI-TV-PVR4]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Six warm-hearted qualities practiced among the mendicants
+> Six warm-hearted qualities practiced among the bhikkhus
 
 > [!info] Key Excerpts 
 > Treats their spiritual companions with bodily, verbal, and mental kindnes,  shares without reservation, lives according to the precepts and noble views shared

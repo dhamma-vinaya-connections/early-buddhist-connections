@@ -28,7 +28,7 @@ language: "English"
 
 “He is one who pulls out hair and beard, pursuing the practice of pulling out hair and beard. He is one who stands continuously, rejecting seats. He is one who squats continuously, devoted to maintaining the squatting position. He is one who uses a mattress of thorns; he makes a mattress of thorns his bed. He dwells pursuing the practice of bathing in water three times daily including the evening. Thus in such a variety of ways he dwells pursuing the practice of tormenting and mortifying the body. This is called the blistering way of practice.
 
-(3) “And what is the middle way of practice? Here, a bhikkhu dwells contemplating the body in the body, ardent, clearly comprehending, mindful, having removed longing and dejection in regard to the world. He dwells contemplating feelings in feelings … mind in mind … phenomena in phenomena, ardent, clearly comprehending, mindful, having removed longing and dejection in regard to the world. This is called the middle way of practice.
+(3) “And what is the middle way of practice? Here, a bhikkhu ![[Satipatthanas]]. He ![[Satipatthanas]]. This is called the middle way of practice.
 
 “These, bhikkhus, are the three ways of practice.”
 

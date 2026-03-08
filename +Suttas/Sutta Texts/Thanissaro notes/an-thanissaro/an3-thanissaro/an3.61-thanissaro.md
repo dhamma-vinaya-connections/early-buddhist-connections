@@ -37,7 +37,7 @@ Then the thought occurred to the Blessed One, “Being asked a legitimate questi
 
 So the Blessed One said to the brahman Saṅgārava, “Brahman, what was the topic of conversation that arose today when the royal court sat gathered in the royal palace?”
 
-“Master Gotama, this was the topic of conversation that arose today when the royal court sat gathered in the royal palace: ‘In the past, there were fewer monks but more who, endowed with superior human attainments, displayed the miracle of psychic power. Now there are more monks but fewer who, endowed with superior human attainments, display the miracle of psychic power. This, Master Gotama, was the topic of conversation that arose today when the royal court sat gathered in the royal palace.”
+“Master Gotama, this was the topic of conversation that arose today when the royal court sat gathered in the royal palace: ‘In the past, there were fewer bhikkhus but more who, endowed with superior human attainments, displayed the miracle of psychic power. Now there are more bhikkhus but fewer who, endowed with superior human attainments, display the miracle of psychic power. This, Master Gotama, was the topic of conversation that arose today when the royal court sat gathered in the royal palace.”
 
 “Brahman, there are these three miracles. Which three? The miracle of psychic power, the miracle of telepathy, & the miracle of instruction.
 
@@ -69,15 +69,15 @@ So the Blessed One said to the brahman Saṅgārava, “Brahman, what was the to
 
 “Well, brahman, you are certainly being rude & presumptuous in making this statement, but still I will respond to you. Yes, I wield manifold psychic powers… (and) exercise influence with my body even as far as the Brahmā worlds; … by encompassing with my own awareness the awareness of one who has attained a samādhi devoid of directed thought & evaluation, I discern, ‘Given the way the mental fabrications of this venerable person are inclined, the directed thoughts of his mind will immediately think about this.’ I give instruction in this way: ‘Direct your thought in this way, don’t direct it in that. Attend to things in this way, don’t attend to them in that. Let go of this, enter and remain in that.’”
 
-“Aside from Master Gotama, is there another monk who is endowed with these three miracles?”
+“Aside from Master Gotama, is there another bhikkhu who is endowed with these three miracles?”
 
-“Brahman, there are not only one hundred other monks… two… three… four… five hundred other monks: The monks who are endowed with these three miracles are many more than that.”
+“Brahman, there are not only one hundred other bhikkhus… two… three… four… five hundred other bhikkhus: The bhikkhus who are endowed with these three miracles are many more than that.”
 
-“And, Master Gotama, where do those monks now live?”
+“And, Master Gotama, where do those bhikkhus now live?”
 
-“In this very same Saṅgha of monks.”
+“In this very same Saṅgha of bhikkhus.”
 
-“Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has gone for refuge from this day forward, for life.”
+“Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of bhikkhus. May Master Gotama remember me as a lay follower who has gone for refuge from this day forward, for life.”
 
 ### Notes
 

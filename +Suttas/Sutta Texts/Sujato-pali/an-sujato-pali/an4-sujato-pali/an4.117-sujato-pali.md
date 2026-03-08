@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, in your own way you should practice diligence, mindfulness, and guarding of the mind in four situations. What four?
+1“bhikkhus, in your own way you should practice diligence, mindfulness, and guarding of the mind in four situations. What four?
 
 
 ‘May my mind not be aroused by things that arouse greed.’ In your own way you should practice diligence, mindfulness, and guarding of the mind.
@@ -33,7 +33,7 @@ language: "English - Pali"
 ‘May my mind not be intoxicated by things that intoxicate.’ …
 
 
-2When a mendicant’s mind is no longer affected by greed, hate, delusion, or intoxication because they’ve got rid of these things, they don’t cower or shake or tremble or get scared, nor are they persuaded by the teachings of other ascetics.”
+2When a bhikkhu’s mind is no longer affected by greed, hate, delusion, or intoxication because they’ve got rid of these things, they don’t cower or shake or tremble or get scared, nor are they persuaded by the teachings of other ascetics.”
 
 1"Catūsu, bhikkhave, ṭhānesu attarūpena appamādo sati cetaso ārakkho karaṇīyo. Katamesu catūsu?
 

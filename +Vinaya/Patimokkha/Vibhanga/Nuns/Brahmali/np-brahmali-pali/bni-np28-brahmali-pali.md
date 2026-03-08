@@ -46,7 +46,7 @@ When Upananda heard that the husband had returned from his travels, he went to h
 
 She then got the robe-cloth, gave it to her husband, and told him what had happened. After giving the robe-cloth to Upananda, he complained and criticized him, “These Sakyan monastics have great desires; they’re not content. It’s no easy matter to give them robe-cloth. How could Venerable Upananda go to the weavers and say what kind of robe-cloth he wanted without first being invited by me?”
 
-4The monks heard the complaints of that man, and the monks of few desires complained and criticized Upananda, “How could Venerable Upananda go to a householder’s weavers and say what kind of robe-cloth he wants without first being invited?”
+4The bhikkhus heard the complaints of that man, and the bhikkhus of few desires complained and criticized Upananda, “How could Venerable Upananda go to a householder’s weavers and say what kind of robe-cloth he wants without first being invited?”
 
 5After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Upananda: “Is it true, Upananda, that you did this?”
 
@@ -57,7 +57,7 @@ She then got the robe-cloth, gave it to her husband, and told him what had happe
 “No, Sir.”
 
 
-“Foolish man, people who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“Foolish man, people who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -94,7 +94,7 @@ She then got the robe-cloth, gave it to her husband, and told him what had happe
 19If the weaver makes it long or wide or closely woven because of the monk’s statement, then for the effort there is an act of wrong conduct. When he gets the robe-cloth, it becomes subject to relinquishment.
 
 
-The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
+The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
 
 
 ‘Venerables, this robe-cloth, for which I went to the weavers of an unrelated householder and said what kind of robe-cloth I wanted without first being invited, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe-cloth back to you.’”

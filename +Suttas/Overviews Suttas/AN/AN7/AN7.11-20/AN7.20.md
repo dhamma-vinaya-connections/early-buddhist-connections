@@ -44,7 +44,7 @@ parallels_partilal: "[[AN7.42]], [[DN33]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant with seven qualities is qualified to graduate
+> A bhikkhu with seven qualities is qualified to graduate
 
 > [!info] Key Excerpts 
 > Keen enthusiasm to undertake the training … to examine the teachings … to get rid of desires … for retreat … to rouse up energy … for mindfulness and alertness … to penetrate theoretically

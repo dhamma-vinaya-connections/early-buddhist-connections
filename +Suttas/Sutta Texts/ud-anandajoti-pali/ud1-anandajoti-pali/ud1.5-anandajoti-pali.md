@@ -20,9 +20,9 @@ language: "English - Pali"
 
 1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time venerable Sāriputta, venerable Mahāmoggallāna, venerable Mahākassapa, venerable Mahākaccāyana, venerable Mahākoṭṭhita, venerable Mahākappina, venerable Mahācunda, venerable Anuruddha, venerable Revata, and venerable Nanda went to the Gracious One.
 
-2The Gracious One saw those venerable ones coming while still far away, and having seen them, he addressed the monks saying: "These brāhmaṇas are coming, monks; these brāhmaṇas are coming, monks."
+2The Gracious One saw those venerable ones coming while still far away, and having seen them, he addressed the bhikkhus saying: "These brāhmaṇas are coming, bhikkhus; these brāhmaṇas are coming, bhikkhus."
 
-After that was said, a certain monk who was a brāhmaṇa by birth, said to the Gracious One: "To what extent, dear Gotama, is one a brāhmaṇa? And again what things make one a brāhmaṇa?"
+After that was said, a certain bhikkhu who was a brāhmaṇa by birth, said to the Gracious One: "To what extent, dear Gotama, is one a brāhmaṇa? And again what things make one a brāhmaṇa?"
 
 3Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

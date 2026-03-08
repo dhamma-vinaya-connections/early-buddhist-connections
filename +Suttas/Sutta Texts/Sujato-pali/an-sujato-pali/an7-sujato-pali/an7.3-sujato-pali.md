@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. … “Mendicants, there are these seven powers. What seven? The powers of faith, energy, conscience, prudence, mindfulness, immersion, and wisdom. These are the seven powers.
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. … “bhikkhus, there are these seven powers. What seven? The powers of faith, energy, conscience, prudence, mindfulness, immersion, and wisdom. These are the seven powers.
 
 
 2The powers are faith and energy,  
@@ -28,7 +28,7 @@ conscience and prudence,
 mindfulness and immersion,  
 and wisdom as the seventh power.  
 Empowered by these,  
-an astute mendicant lives happily.
+an astute bhikkhu lives happily.
 
 3They should examine the teaching rationally,  
 discerning the meaning with wisdom.  

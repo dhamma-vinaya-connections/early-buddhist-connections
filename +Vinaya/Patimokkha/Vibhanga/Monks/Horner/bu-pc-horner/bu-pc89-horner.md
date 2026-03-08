@@ -7,21 +7,21 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC89]]
 > ◄  [[bu-pc88-horner]] 📜  [[bu-pc90-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 89
+# bhikkhus’ Expiation (_Pācittiya_) 89
 
-*Bu-Pc.89.1.1* *BD.3.94* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time a piece of cloth to sit upon[^1] was allowed to monks by the lord.[^2] The group of six monks, thinking: “A piece of cloth to sit upon is allowed by the lord,” used pieces of cloth to sit upon that were not of a (proper) measure[^3]; they made (these) hang down in front of and at the back of a couch and a chair. Those who were modest monks … spread it about, saying: “How can this group of six monks use pieces of cloth to sit upon that are not of a (proper) measure?” …
+*Bu-Pc.89.1.1* *BD.3.94* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time a piece of cloth to sit upon[^1] was allowed to bhikkhus by the lord.[^2] The group of six bhikkhus, thinking: “A piece of cloth to sit upon is allowed by the lord,” used pieces of cloth to sit upon that were not of a (proper) measure[^3]; they made (these) hang down in front of and at the back of a couch and a chair. Those who were modest bhikkhus … spread it about, saying: “How can this group of six bhikkhus use pieces of cloth to sit upon that are not of a (proper) measure?” …
 
-“Is it true, as is said, that you, monks, use pieces of cloth to sit upon that are not of a (proper) measure?”
+“Is it true, as is said, that you, bhikkhus, use pieces of cloth to sit upon that are not of a (proper) measure?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, use pieces of cloth to sit upon that are not of a (proper) measure? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, use pieces of cloth to sit upon that are not of a (proper) measure? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“When a piece of cloth to sit upon is being made for a monk, it must be made to a (proper) measure. This is the (proper) measure here: in length two spans[^4] according to the accepted span,[^5] in breadth one and a half spans. In exceeding this (measure), there is an offence of expiation involving cutting down.”
+“When a piece of cloth to sit upon is being made for a bhikkhu, it must be made to a (proper) measure. This is the (proper) measure here: in length two spans[^4] according to the accepted span,[^5] in breadth one and a half spans. In exceeding this (measure), there is an offence of expiation involving cutting down.”
 
-*BD.3.95* And thus this rule of training for monks came to be laid down by the lord. *Vin.4.171*
+*BD.3.95* And thus this rule of training for bhikkhus came to be laid down by the lord. *Vin.4.171*
 
 * * *
 
@@ -31,11 +31,11 @@ The enlightened one, the lord, rebuked them, saying:
 
 “It is because, lord, the piece of cloth to sit upon allowed by the lord is very small.”
 
-Then the lord, on this occasion, in this connection, having given reasoned talk, addressed the monks, saying:
+Then the lord, on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying:
 
-“I allow you, monks, a border[^9] of a span for a piece of cloth to sit upon. And thus, monks, this rule of training should be set forth:
+“I allow you, bhikkhus, a border[^9] of a span for a piece of cloth to sit upon. And thus, bhikkhus, this rule of training should be set forth:
 
-“When a piece of cloth to sit upon is being made for a monk, it must be made to a (proper) measure. This is the (proper) measure here: in length two spans according to the accepted span, in breadth one and a half spans, the border a span. In exceeding this (measure), there is an offence of expiation involving cutting down.”
+“When a piece of cloth to sit upon is being made for a bhikkhu, it must be made to a (proper) measure. This is the (proper) measure here: in length two spans according to the accepted span, in breadth one and a half spans, the border a span. In exceeding this (measure), there is an offence of expiation involving cutting down.”
 
 * * *
 
@@ -57,7 +57,7 @@ The Seventh
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

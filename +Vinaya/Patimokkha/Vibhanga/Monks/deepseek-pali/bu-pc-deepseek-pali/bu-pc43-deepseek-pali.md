@@ -19,15 +19,15 @@ language: "Pali - English"
 
 Atha kho so puriso nikkhamitvā bhikkhū ujjhāpesi – ‘‘ayaṃ, bhante, ayyo upanando mayhaṃ pajāpatiyā saddhiṃ sayanighare nisinno. So mayā uyyojīyamāno na icchati gantuṃ. Bahukiccā mayaṃ bahukaraṇīyā’’ti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma āyasmā upanando sakyaputto sabhojane kule anupakhajja nisajjaṃ kappessatī’’ti…pe… saccaṃ kira tvaṃ, upananda, sabhojane kule anupakhajja nisajjaṃ kappesīti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tvaṃ, moghapurisa, sabhojane kule anupakhajja nisajjaṃ kappessasi! Netaṃ, moghapurisa, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-Then that man left and complained to the monks, “Venerables, this Venerable Upananda is sitting in the sleeping chamber with my wife. When I asked him to leave, he didn’t want to go. We have much work to do, much to be done.” Those monks of few desires … complained and criticized him, “How could Venerable Upananda the Sakya sit down secluded in a private dwelling?” … “Is it true, Upananda, that you sat down secluded in a private dwelling?” “It’s true, Blessed One.” The Blessed One rebuked him … “Foolish person, how could you sit down secluded in a private dwelling! This will not lead to confidence in those without it … And, monks, this training rule should be recited thus:
+Then that man left and complained to the bhikkhus, “Venerables, this Venerable Upananda is sitting in the sleeping chamber with my wife. When I asked him to leave, he didn’t want to go. We have much work to do, much to be done.” Those bhikkhus of few desires … complained and criticized him, “How could Venerable Upananda the Sakya sit down secluded in a private dwelling?” … “Is it true, Upananda, that you sat down secluded in a private dwelling?” “It’s true, Blessed One.” The Blessed One rebuked him … “Foolish person, how could you sit down secluded in a private dwelling! This will not lead to confidence in those without it … And, bhikkhus, this training rule should be recited thus:
 
 280. ‘‘Yo pana bhikkhu sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiya’’nti.
 
-280.“Whatever monk should sit down secluded in a private dwelling, it entails expiation.”
+280.“Whatever bhikkhu should sit down secluded in a private dwelling, it entails expiation.”
 
 281. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-281.Whoever: whoever of whatever sort… Monk: The monk intended in this case is a monk.
+281.Whoever: whoever of whatever sort… bhikkhu: The bhikkhu intended in this case is a bhikkhu.
 
 Sabhojanaṃ nāma kulaṃ itthī ceva hoti puriso ca, itthī ca puriso ca ubho anikkhantā honti, ubho avītarāgā.
 
@@ -51,7 +51,7 @@ Not in a sleeping chamber, perceiving it as a sleeping chamber, it entails a duk
 
 283. Anāpatti mahallake ghare piṭṭhasaṅghāṭassa hatthapāsaṃ avijahitvā nisīdati, khuddake ghare piṭṭhivaṃsaṃ anatikkamitvā nisīdati, bhikkhu dutiyo hoti, ubho nikkhantā honti, ubho vītarāgā, nasayanighare, ummattakassa, ādikammikassāti.
 
-283.There is no offense if, in a large house, one sits without leaving the back-screen beyond arm’s reach; in a small house, one sits without having gone beyond the back beam; if a second monk is present; if both are gone forth; if both are dispassionate; not in a sleeping chamber; for one who is insane; for the first offender.
+283.There is no offense if, in a large house, one sits without leaving the back-screen beyond arm’s reach; in a small house, one sits without having gone beyond the back beam; if a second bhikkhu is present; if both are gone forth; if both are dispassionate; not in a sleeping chamber; for one who is insane; for the first offender.
 
 Sabhojanasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
 

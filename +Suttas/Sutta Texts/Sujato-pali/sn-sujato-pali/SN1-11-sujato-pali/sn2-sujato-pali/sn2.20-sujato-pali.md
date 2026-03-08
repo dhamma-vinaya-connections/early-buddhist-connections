@@ -39,13 +39,13 @@ and thus be purified in it.
 
 5Sāriputta has true wisdom,  
 ethics, and also peace.  
-Any mendicant who has gone beyond  
+Any bhikkhu who has gone beyond  
 can at best equal him.”
 
 6This is what the god Anāthapiṇḍika said. Then he bowed and respectfully circled the Buddha, keeping him on his right side, before vanishing right there.
 
 
-7Then, when the night had passed, the Buddha addressed the mendicants: “Mendicants, tonight, a certain glorious god, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and recited these verses in my presence.” The Buddha then repeated the verses in full.  
+7Then, when the night had passed, the Buddha addressed the bhikkhus: “bhikkhus, tonight, a certain glorious god, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and recited these verses in my presence.” The Buddha then repeated the verses in full.  
 . . .
 
 

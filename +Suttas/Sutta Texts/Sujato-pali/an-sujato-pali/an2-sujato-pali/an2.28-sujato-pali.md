@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when you have right view, you can expect one of two destinies: as a god or a human.
+1“bhikkhus, when you have right view, you can expect one of two destinies: as a god or a human.
 
 1"Sammādiṭṭhikassa, bhikkhave, dvinnaṁ gatīnaṁ aññatarā gati pāṭikaṅkhā – devā vā manussā vā"ti.
 

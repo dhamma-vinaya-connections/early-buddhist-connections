@@ -20,15 +20,15 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four kinds of subtlety. What four?
+1“bhikkhus, there are these four kinds of subtlety. What four?
 
-A mendicant has ultimate subtlety of form. They don’t see any other subtlety of form that’s better or finer than that, nor do they aim for it.
+A bhikkhu has ultimate subtlety of form. They don’t see any other subtlety of form that’s better or finer than that, nor do they aim for it.
 
-A mendicant has ultimate subtlety of feeling. They don’t see any other subtlety of feeling that’s better or finer than that, nor do they aim for it.
+A bhikkhu has ultimate subtlety of feeling. They don’t see any other subtlety of feeling that’s better or finer than that, nor do they aim for it.
 
-A mendicant has ultimate subtlety of perception. They don’t see any other subtlety of perception that’s better or finer than that, nor do they aim for it.
+A bhikkhu has ultimate subtlety of perception. They don’t see any other subtlety of perception that’s better or finer than that, nor do they aim for it.
 
-A mendicant has ultimate subtlety of choices. They don’t see any other subtlety of choices that’s better or finer than that, nor do they aim for it.
+A bhikkhu has ultimate subtlety of choices. They don’t see any other subtlety of choices that’s better or finer than that, nor do they aim for it.
 
 
 These are the four kinds of subtlety.
@@ -41,7 +41,7 @@ and where it ends;
 and knowing choices as other,  
 as suffering and not-self,
 
-3that mendicant sees rightly,  
+3that bhikkhu sees rightly,  
 peaceful, in love with the state of peace.  
 They bear their final body,  
 having vanquished Māra and his mount.”

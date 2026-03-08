@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC139"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC57]] 🌐 [[BU-PC59]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 6 Surāpāna-Vaggo - 6 Alcoholic Drinks
 ## BU-PC58 - Dubbaṇṇakaraṇa - Stains Making
 
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-PC139"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC58 | [[BNI-PC139]] | Vin.3.1–3.40 |
 

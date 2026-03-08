@@ -22,12 +22,12 @@ language: "English - Pali"
 
 Now at that time several very well-known gentlemen had gone forth from the lay life to homelessness out of faith in the Buddha — The venerables Anuruddha, Bhaddiya, Kimbila, Bhagu, Koṇḍañña, Revata, Ānanda, and other very well-known gentlemen.
 
-Now at that time the Buddha was sitting in the open, surrounded by the mendicant Saṅgha. Then the Buddha spoke to the mendicants about those gentlemen: “Mendicants, those gentlemen who have gone forth from the lay life to homelessness out of faith in me — I trust they’re satisfied with the spiritual life?”
+Now at that time the Buddha was sitting in the open, surrounded by the bhikkhu Saṅgha. Then the Buddha spoke to the bhikkhus about those gentlemen: “bhikkhus, those gentlemen who have gone forth from the lay life to homelessness out of faith in me — I trust they’re satisfied with the spiritual life?”
 
-When this was said, the mendicants kept silent.
+When this was said, the bhikkhus kept silent.
 
 
-2-3For a second and a third time the Buddha asked the same question. For a third time, the mendicants kept silent.
+2-3For a second and a third time the Buddha asked the same question. For a third time, the bhikkhus kept silent.
 
 
 4Then it occurred to the Buddha: “Why don’t I question just those gentlemen?”
@@ -54,17 +54,17 @@ Then the Buddha said to Venerable Anuruddha: “Anuruddha and friends, I hope yo
 
 11What do you think, Anuruddha and friends? What advantage does the Realized One see in declaring the rebirth of his disciples who have passed away: ‘This one is reborn here, while that one is reborn there’?”
 
-12“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The mendicants will listen and remember it.”
+12“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The bhikkhus will listen and remember it.”
 
 13“The Realized One does not declare such things for the sake of deceiving people or flattering them, nor for the benefit of possessions, honor, or popularity, nor thinking, ‘So let people know about me!’ Rather, there are gentlemen of faith who are full of sublime joy and gladness. When they hear that, they apply their minds to that end. That is for their lasting welfare and happiness.
 
-14Take a monk who hears this: ‘The monk named so-and-so has passed away. The Buddha has declared that, he was enlightened.’ And he’s either seen for himself, or heard from someone else, that that venerable had such ethics, such qualities, such wisdom, such meditation, or such freedom. Recollecting that monk’s faith, ethics, learning, generosity, and wisdom, he applies his mind to that end. That’s how a monk lives at ease.
+14Take a bhikkhu who hears this: ‘The bhikkhu named so-and-so has passed away. The Buddha has declared that, he was enlightened.’ And he’s either seen for himself, or heard from someone else, that that venerable had such ethics, such qualities, such wisdom, such meditation, or such freedom. Recollecting that bhikkhu’s faith, ethics, learning, generosity, and wisdom, he applies his mind to that end. That’s how a bhikkhu lives at ease.
 
-15Take a monk who hears this: ‘The monk named so-and-so has passed away. The Buddha has declared that, with the ending of the five lower fetters, he’s been reborn spontaneously and will become extinguished there, not liable to return from that world.’ And he’s either seen for himself, or heard from someone else, that that venerable had such ethics, such qualities, such wisdom, such meditation, or such freedom. Recollecting that monk’s faith, ethics, learning, generosity, and wisdom, he applies his mind to that end. That too is how a monk lives at ease.
+15Take a bhikkhu who hears this: ‘The bhikkhu named so-and-so has passed away. The Buddha has declared that, with the ending of the five lower fetters, he’s been reborn spontaneously and will become extinguished there, not liable to return from that world.’ And he’s either seen for himself, or heard from someone else, that that venerable had such ethics, such qualities, such wisdom, such meditation, or such freedom. Recollecting that bhikkhu’s faith, ethics, learning, generosity, and wisdom, he applies his mind to that end. That too is how a bhikkhu lives at ease.
 
-16Take a monk who hears this: ‘The monk named so-and-so has passed away. The Buddha has declared that, with the ending of three fetters, and the weakening of greed, hate, and delusion, he’s a once-returner. He’ll come back to this world once only, then make an end of suffering.’ And he’s either seen for himself, or heard from someone else, that that venerable had such ethics, such qualities, such wisdom, such meditation, or such freedom. Recollecting that monk’s faith, ethics, learning, generosity, and wisdom, he applies his mind to that end. That too is how a monk lives at ease.
+16Take a bhikkhu who hears this: ‘The bhikkhu named so-and-so has passed away. The Buddha has declared that, with the ending of three fetters, and the weakening of greed, hate, and delusion, he’s a once-returner. He’ll come back to this world once only, then make an end of suffering.’ And he’s either seen for himself, or heard from someone else, that that venerable had such ethics, such qualities, such wisdom, such meditation, or such freedom. Recollecting that bhikkhu’s faith, ethics, learning, generosity, and wisdom, he applies his mind to that end. That too is how a bhikkhu lives at ease.
 
-17Take a monk who hears this: ‘The monk named so-and-so has passed away. The Buddha has declared that, with the ending of three fetters he’s a stream-enterer, not liable to be reborn in the underworld, bound for awakening.’ And he’s either seen for himself, or heard from someone else, that that venerable had such ethics, such qualities, such wisdom, such meditation, or such freedom. Recollecting that monk’s faith, ethics, learning, generosity, and wisdom, he applies his mind to that end. That too is how a monk lives at ease.
+17Take a bhikkhu who hears this: ‘The bhikkhu named so-and-so has passed away. The Buddha has declared that, with the ending of three fetters he’s a stream-enterer, not liable to be reborn in the underworld, bound for awakening.’ And he’s either seen for himself, or heard from someone else, that that venerable had such ethics, such qualities, such wisdom, such meditation, or such freedom. Recollecting that bhikkhu’s faith, ethics, learning, generosity, and wisdom, he applies his mind to that end. That too is how a bhikkhu lives at ease.
 
 18Take a nun who hears this: ‘The nun named so-and-so has passed away. The Buddha has declared that, she was enlightened.’ And she’s either seen for herself, or heard from someone else, that that sister had such ethics, such qualities, such wisdom, such meditation, or such freedom. Recollecting that nun’s faith, ethics, learning, generosity, and wisdom, she applies her mind to that end. That’s how a nun lives at ease.
 

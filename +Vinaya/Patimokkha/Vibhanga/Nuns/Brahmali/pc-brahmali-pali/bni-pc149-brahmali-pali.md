@@ -18,10 +18,10 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, Venerable Channa was misbehaving. The monks told him, “Don’t do that, Channa, it’s not allowable,” and he would reply, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law.”
+1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, Venerable Channa was misbehaving. The bhikkhus told him, “Don’t do that, Channa, it’s not allowable,” and he would reply, “I won’t practice this training rule until I’ve questioned a bhikkhu who is an expert on the Monastic Law.”
 
 
-2The monks of few desires complained and criticized him, “How could Venerable Channa say this when legitimately corrected by the monks?” …
+2The bhikkhus of few desires complained and criticized him, “How could Venerable Channa say this when legitimately corrected by the bhikkhus?” …
 
 
 “Is it true, Channa, that you said this?”
@@ -29,29 +29,29 @@ language: "Pali - English"
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you say this when legitimately corrected by the monks? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you say this when legitimately corrected by the bhikkhus? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk, when legitimately corrected by the monks, says, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law,” he commits an offense entailing confession. A monk who is training should understand, should question, should enquire. This is the proper procedure.’”
+3‘If a bhikkhu, when legitimately corrected by the bhikkhus, says, “I won’t practice this training rule until I’ve questioned a bhikkhu who is an expert on the Monastic Law,” he commits an offense entailing confession. A bhikkhu who is training should understand, should question, should enquire. This is the proper procedure.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
-5**By the monks:** by other monks.
+5**By the bhikkhus:** by other bhikkhus.
 
 
-6**Legitimately:** the training rules laid down by the Buddha—this is called “legitimately”. When corrected in regard to this, he says, “I won’t practice this training rule until I’ve questioned a monk who’s an expert on the Monastic Law.” If he says, “I’ll question one who’s wise,” “I’ll question one who’s competent,” “I’ll question one who’s intelligent,” “I’ll question one who’s learned,” “I’ll question an expounder of the Teaching,” he commits an offense entailing confession.
+6**Legitimately:** the training rules laid down by the Buddha—this is called “legitimately”. When corrected in regard to this, he says, “I won’t practice this training rule until I’ve questioned a bhikkhu who’s an expert on the Monastic Law.” If he says, “I’ll question one who’s wise,” “I’ll question one who’s competent,” “I’ll question one who’s intelligent,” “I’ll question one who’s learned,” “I’ll question an expounder of the Teaching,” he commits an offense entailing confession.
 
 #### Permutations
 
 7If the one who corrects him is fully ordained, and he perceives him as such, and he says such a thing, he commits an offense entailing confession. If the one who corrects him is fully ordained, but he is unsure of it, and he says such a thing, he commits an offense entailing confession. If the one who corrects him is fully ordained, but he does not perceive him as such, and he says such a thing, he commits an offense entailing confession.
 
-8If he is corrected about something that has not been laid down: “This isn’t conducive to self-effacement,” “This isn’t conducive to ascetic practices,” “This isn’t conducive to being inspiring,” “This isn’t conducive to a reduction in things,” “This isn’t conducive to being energetic,” and he says, “I won’t practice this training rule until I’ve questioned a monk who’s competent,” “… until I’ve questioned a monk who’s an expert on the Monastic Law,” “… until I’ve questioned a monk who’s wise,” “… until I’ve questioned a monk who’s intelligent,” “… until I’ve questioned a monk who’s learned,” “… until I’ve questioned a monk who’s an expounder of the Teaching,” he commits an offense of wrong conduct.
+8If he is corrected about something that has not been laid down: “This isn’t conducive to self-effacement,” “This isn’t conducive to ascetic practices,” “This isn’t conducive to being inspiring,” “This isn’t conducive to a reduction in things,” “This isn’t conducive to being energetic,” and he says, “I won’t practice this training rule until I’ve questioned a bhikkhu who’s competent,” “… until I’ve questioned a bhikkhu who’s an expert on the Monastic Law,” “… until I’ve questioned a bhikkhu who’s wise,” “… until I’ve questioned a bhikkhu who’s intelligent,” “… until I’ve questioned a bhikkhu who’s learned,” “… until I’ve questioned a bhikkhu who’s an expounder of the Teaching,” he commits an offense of wrong conduct.
 
-9If he is corrected by one who is not fully ordained about something that has or has not been laid down: “This isn’t conducive to self-effacement,” “This isn’t conducive to ascetic practices,” “This isn’t conducive to being inspiring,” “This isn’t conducive to a reduction in things,” “This isn’t conducive to being energetic,” and he says, “I won’t practice this training rule until I’ve questioned a monk who’s competent,” “… until I’ve questioned a monk who’s an expert on the Monastic Law,” “… until I’ve questioned a monk who’s wise,” “… until I’ve questioned a monk who’s intelligent,” “… until I’ve questioned a monk who’s learned,” “… until I’ve questioned a monk who’s an expounder of the Teaching,” he commits an offense of wrong conduct.
+9If he is corrected by one who is not fully ordained about something that has or has not been laid down: “This isn’t conducive to self-effacement,” “This isn’t conducive to ascetic practices,” “This isn’t conducive to being inspiring,” “This isn’t conducive to a reduction in things,” “This isn’t conducive to being energetic,” and he says, “I won’t practice this training rule until I’ve questioned a bhikkhu who’s competent,” “… until I’ve questioned a bhikkhu who’s an expert on the Monastic Law,” “… until I’ve questioned a bhikkhu who’s wise,” “… until I’ve questioned a bhikkhu who’s intelligent,” “… until I’ve questioned a bhikkhu who’s learned,” “… until I’ve questioned a bhikkhu who’s an expounder of the Teaching,” he commits an offense of wrong conduct.
 
 If the one who corrects him is not fully ordained, but he perceives them as such, he commits an offense of wrong conduct. If the one who corrects him is not fully ordained, but he is unsure of it, he commits an offense of wrong conduct. If the one who corrects him is not fully ordained, and he does not perceive them as such, he commits an offense of wrong conduct.
 

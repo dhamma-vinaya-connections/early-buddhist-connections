@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant who has six qualities can’t attain strength in immersion. What six? It’s when a mendicant is not skilled in entering immersion, skilled in remaining in immersion, or skilled in emerging from immersion. And they don’t practice carefully and persistently, and they don’t do what’s suitable. A mendicant who has these six qualities can’t attain strength in immersion.
+1“bhikkhus, a bhikkhu who has six qualities can’t attain strength in immersion. What six? It’s when a bhikkhu is not skilled in entering immersion, skilled in remaining in immersion, or skilled in emerging from immersion. And they don’t practice carefully and persistently, and they don’t do what’s suitable. A bhikkhu who has these six qualities can’t attain strength in immersion.
 
-2A mendicant who has six qualities can attain strength in immersion. What six? It’s when a mendicant is skilled in entering immersion, skilled in remaining in immersion, and skilled in emerging from immersion. And they practice carefully and persistently, and do what’s suitable. A mendicant who has these six qualities can attain strength in immersion.”
+2A bhikkhu who has six qualities can attain strength in immersion. What six? It’s when a bhikkhu is skilled in entering immersion, skilled in remaining in immersion, and skilled in emerging from immersion. And they practice carefully and persistently, and do what’s suitable. A bhikkhu who has these six qualities can attain strength in immersion.”
 
 1"Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo samādhismiṁ balataṁ pāpuṇituṁ. Katamehi chahi? Idha, bhikkhave, bhikkhu na samādhissa samāpattikusalo hoti, na samādhissa ṭhitikusalo hoti, na samādhissa vuṭṭhānakusalo hoti, asakkaccakārī ca hoti, asātaccakārī ca, asappāyakārī ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo samādhismiṁ balataṁ pāpuṇituṁ.
 

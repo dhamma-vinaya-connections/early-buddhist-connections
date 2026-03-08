@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying in the land of the Sakyans, near Kapilavatthu in the Great Wood, together with a large Saṅgha of around five hundred mendicants, all of whom were perfected ones. And most of the deities from ten solar systems had gathered to see the Buddha and the Saṅgha of mendicants.
+1So I have heard. At one time the Buddha was staying in the land of the Sakyans, near Kapilavatthu in the Great Wood, together with a large Saṅgha of around five hundred bhikkhus, all of whom were perfected ones. And most of the deities from ten solar systems had gathered to see the Buddha and the Saṅgha of bhikkhus.
 
 Then four deities of the Pure Abodes, aware of what was happening, thought: “Why don’t we go to the Buddha and each recite a verse in his presence?”
 
@@ -35,7 +35,7 @@ to see the invincible Saṅgha!”
 
 4Then another deity recited this verse in the Buddha’s presence:
 
-“The mendicants there have immersion,  
+“The bhikkhus there have immersion,  
 they’ve straightened out their own minds.  
 Like a charioteer who has taken the reins,  
 the astute ones protect their senses.”

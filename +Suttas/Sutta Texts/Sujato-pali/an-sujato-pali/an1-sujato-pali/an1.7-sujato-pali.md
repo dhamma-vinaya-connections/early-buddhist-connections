@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single sound that occupies a woman’s mind like the sound of a man. The sound of a man occupies a woman’s mind.”
+1“bhikkhus, I do not see a single sound that occupies a woman’s mind like the sound of a man. The sound of a man occupies a woman’s mind.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekasaddampi samanupassāmi yaṁ evaṁ itthiyā cittaṁ pariyādāya tiṭṭhati yathayidaṁ, bhikkhave, purisasaddo. Purisasaddo, bhikkhave, itthiyā cittaṁ pariyādāya tiṭṭhatī"ti.
 

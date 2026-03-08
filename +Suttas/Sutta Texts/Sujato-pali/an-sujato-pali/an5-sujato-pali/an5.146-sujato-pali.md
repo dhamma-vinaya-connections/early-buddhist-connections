@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, you shouldn’t associate with a mendicant friend who has five qualities. What five? They start up work projects. They take up disciplinary issues. They conflict with leading mendicants. They like long and aimless wandering. They’re unable to educate, encourage, fire up, and inspire you from time to time with a Dhamma talk. Mendicants, you shouldn’t associate with a mendicant friend who has these five qualities.
+1“bhikkhus, you shouldn’t associate with a bhikkhu friend who has five qualities. What five? They start up work projects. They take up disciplinary issues. They conflict with leading bhikkhus. They like long and aimless wandering. They’re unable to educate, encourage, fire up, and inspire you from time to time with a Dhamma talk. bhikkhus, you shouldn’t associate with a bhikkhu friend who has these five qualities.
 
-2You should associate with a mendicant friend who has five qualities. What five? They don’t start up work projects. They don’t take up disciplinary issues. They don’t conflict with leading mendicants. They don’t like long and aimless wandering. They’re able to educate, encourage, fire up, and inspire you from time to time with a Dhamma talk. You should associate with a mendicant friend who has these five qualities.”
+2You should associate with a bhikkhu friend who has five qualities. What five? They don’t start up work projects. They don’t take up disciplinary issues. They don’t conflict with leading bhikkhus. They don’t like long and aimless wandering. They’re able to educate, encourage, fire up, and inspire you from time to time with a Dhamma talk. You should associate with a bhikkhu friend who has these five qualities.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu mitto na sevitabbo. Katamehi pañcahi? Kammantaṁ kāreti, adhikaraṇaṁ ādiyati, pāmokkhesu bhikkhūsu paṭiviruddho hoti, dīghacārikaṁ anavatthacārikaṁ anuyutto viharati, nappaṭibalo hoti kālena kālaṁ dhammiyā kathāya sandassetuṁ samādapetuṁ samuttejetuṁ sampahaṁsetuṁ. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu mitto na sevitabbo.
 

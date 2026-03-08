@@ -37,7 +37,7 @@ Saying, “Good, lady,” the lay follower Visākha delighted and rejoiced in th
 
 5\. “Lady, ‘the way leading to the cessation of identity, the way leading to the cessation of identity’ is said. What is called the way leading to the cessation of identity by the Blessed One?”
 
-“Friend Visākha, it is just this Noble Eightfold Path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi.”
+“Friend Visākha, it is just this ![[Noble Path]].”
 
 6\. “Lady, is that clinging the same as these five aggregates affected by clinging, or is the clinging something apart from the five aggregates affected by clinging?”
 
@@ -57,7 +57,7 @@ Saying, “Good, lady,” the lay follower Visākha delighted and rejoiced in th
 
 9\. “Lady, what is the Noble Eightfold Path?”
 
-“Friend Visākha, it is just this Noble Eightfold Path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi.”
+“Friend Visākha, it is just this ![[Noble Path]].”
 
 10\. “Lady, is the Noble Eightfold Path conditioned or unconditioned?”
 
@@ -65,7 +65,7 @@ Saying, “Good, lady,” the lay follower Visākha delighted and rejoiced in th
 
 11\. “Lady, are the three aggregates included by the Noble Eightfold Path, or is the Noble Eightfold Path included by the three aggregates?”
 
-“The three aggregates are not included by the Noble Eightfold Path, friend Visākha, but the Noble Eightfold Path is included by the three aggregates. Right speech, right action, and right livelihood—these states are included in the aggregate of virtue. Right effort, right mindfulness, and right samādhi—these states are included in the aggregate of samādhi. Right view and right intention—these states are included in the aggregate of wisdom.”
+“The three aggregates are not included by the ![[Noble Path]]—these states are included in the aggregate of samādhi. Right view and right intention—these states are included in the aggregate of wisdom.”
 
 ## (samādhi)
 

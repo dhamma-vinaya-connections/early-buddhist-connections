@@ -20,15 +20,15 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant is faithful but not ethical. So they’re incomplete in that respect, and should fulfill it, thinking: ‘How can I become faithful and ethical?’ When the mendicant is faithful and ethical, they’re complete in that respect.
+1“bhikkhus, a bhikkhu is faithful but not ethical. So they’re incomplete in that respect, and should fulfill it, thinking: ‘How can I become faithful and ethical?’ When the bhikkhu is faithful and ethical, they’re complete in that respect.
 
-2A mendicant is faithful and ethical, but not learned. So they’re incomplete in that respect, and should fulfill it, thinking: ‘How can I become faithful, ethical, and learned?’ When the mendicant is faithful, ethical, and learned, they’re complete in that respect.
+2A bhikkhu is faithful and ethical, but not learned. So they’re incomplete in that respect, and should fulfill it, thinking: ‘How can I become faithful, ethical, and learned?’ When the bhikkhu is faithful, ethical, and learned, they’re complete in that respect.
 
-3A mendicant is faithful, ethical, and learned, but not a Dhamma speaker. … they don’t frequent assemblies … they don’t teach Dhamma to the assembly with assurance … they don’t get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty … they don’t realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. So they’re incomplete in that respect, and should fulfill it, thinking: ‘How can I become faithful, ethical, and learned, a Dhamma speaker, one who frequents assemblies, one who teaches Dhamma to the assembly with assurance, one who gets the four jhānas when they want, and one who lives having realized the ending of defilements?’
+3A bhikkhu is faithful, ethical, and learned, but not a Dhamma speaker. … they don’t frequent assemblies … they don’t teach Dhamma to the assembly with assurance … they don’t get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty … they don’t realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. So they’re incomplete in that respect, and should fulfill it, thinking: ‘How can I become faithful, ethical, and learned, a Dhamma speaker, one who frequents assemblies, one who teaches Dhamma to the assembly with assurance, one who gets the four jhānas when they want, and one who lives having realized the ending of defilements?’
 
 4When they’re faithful, ethical, and learned, a Dhamma speaker, one who frequents assemblies, one who teaches Dhamma to the assembly with assurance, one who gets the four jhānas when they want, and one who lives having realized the ending of defilements, they’re complete in that respect.
 
-A mendicant who has these eight qualities is inspiring all around, and is complete in every respect.”
+A bhikkhu who has these eight qualities is inspiring all around, and is complete in every respect.”
 
 1"Saddho ca, bhikkhave, bhikkhu hoti, no ca sīlavā. Evaṁ so tenaṅgena aparipūro hoti. Tena taṁ aṅgaṁ paripūretabbaṁ:  ‘kintāhaṁ saddho ca assaṁ sīlavā cā’ti. Yato ca kho, bhikkhave, bhikkhu saddho ca hoti sīlavā ca, evaṁ so tenaṅgena paripūro hoti.
 

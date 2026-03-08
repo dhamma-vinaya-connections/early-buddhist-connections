@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you who’s bad and who’s worse, who’s good and who’s better.
+1“bhikkhus, I will teach you who’s bad and who’s worse, who’s good and who’s better.
 
 2And who’s bad? It’s someone who has wrong view, wrong thought, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong immersion, wrong knowledge, and wrong freedom. This is called bad.
 

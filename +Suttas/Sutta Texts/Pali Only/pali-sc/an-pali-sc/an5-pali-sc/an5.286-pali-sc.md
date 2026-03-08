@@ -2,7 +2,7 @@
 sutta_code: "AN5.286"
 sutta_title:
   - "Bhikkhu "
-  - "Monk"
+  - "bhikkhu"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---
@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 5: The Book of the Fives
-### AN 5.286: Bhikkhusutta — A Monk
+### AN 5.286: Bhikkhusutta — A bhikkhu
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu yathābhataṁ nikkhitto evaṁ niraye. Katamehi pañcahi? Pāṇātipātī hoti, adinnādāyī hoti, abrahmacārī hoti, musāvādī hoti, surāmerayamajjapamādaṭṭhāyī hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu yathābhataṁ nikkhitto evaṁ niraye.
 

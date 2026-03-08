@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 48
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, these two are doomed to deprivation, to hell, for not abandoning their conduct. Which two? One who, not living the celibate life, pretends to be one who lives the celibate life; and one who groundlessly accuses one who lives the celibate life perfectly & purely of uncelibate behavior. These are the two who are doomed to deprivation, to hell, for not abandoning their conduct.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, these two are doomed to deprivation, to hell, for not abandoning their conduct. Which two? One who, not living the celibate life, pretends to be one who lives the celibate life; and one who groundlessly accuses one who lives the celibate life perfectly & purely of uncelibate behavior. These are the two who are doomed to deprivation, to hell, for not abandoning their conduct.”
 
 He goes to hell,
 

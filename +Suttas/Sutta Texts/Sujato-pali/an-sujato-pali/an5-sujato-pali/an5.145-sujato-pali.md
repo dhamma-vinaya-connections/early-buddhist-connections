@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, someone with five qualities is cast down to hell. What five? They kill living creatures, steal, commit sexual misconduct, lie, and use alcoholic drinks that cause negligence. Someone with these five qualities is cast down to hell.
+1“bhikkhus, someone with five qualities is cast down to hell. What five? They kill living creatures, steal, commit sexual misconduct, lie, and use alcoholic drinks that cause negligence. Someone with these five qualities is cast down to hell.
 
 2Someone with five qualities is raised up to heaven What five? They don’t kill living creatures, steal, commit sexual misconduct, lie, or use alcoholic drinks that cause negligence. Someone with these five qualities is raised up to heaven.”
 

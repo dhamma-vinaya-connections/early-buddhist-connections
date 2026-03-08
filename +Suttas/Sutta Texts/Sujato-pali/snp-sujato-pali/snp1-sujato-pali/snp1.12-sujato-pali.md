@@ -107,7 +107,7 @@ while the restrained sage always protects living creatures.
 
 221 As the crested blue-necked peacock flying through the sky  
 never approaches the speed of the swan,  
-so the householder cannot compete with the mendicant,  
+so the householder cannot compete with the bhikkhu,  
 the sage meditating secluded in the woods.
 
 ## Munisutta

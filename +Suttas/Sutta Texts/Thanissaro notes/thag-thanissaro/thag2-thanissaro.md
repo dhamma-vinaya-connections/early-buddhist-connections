@@ -109,7 +109,7 @@ gains food, drink, cloth, lodgings.
 
 Knowing this drawback,
 this great danger in honors,
-a monk, gaining little,
+a bhikkhu, gaining little,
 not soggy,[1](#^thag2-17note01) ^thag2-17note01-ref
 should go forth
 	mindfully.
@@ -216,7 +216,7 @@ See also: [[mn146-thanissaro]]
 
 ## Thag2.3  Valliya
 
-A monkey,
+A bhikkhuey,
 
 coming to the little hut
 
@@ -226,7 +226,7 @@ goes from door to door, knocking
 
 moment by moment.
 
-Stand still, monkey,
+Stand still, bhikkhuey,
 
 don’t run.
 
@@ -400,7 +400,7 @@ See also: [[/snp3.2-thanissaro]]
 
 ## Thag2.42  Dhammapāla
 
-The young monk
+The young bhikkhu
 devoted to the Buddha’s message,
 is wakeful among those who sleep.
 	His life is not in vain.

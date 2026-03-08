@@ -7,13 +7,13 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC38]]
 > ◄  [[bu-pc37-horner]] 📜  [[bu-pc39-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 38
+# bhikkhus’ Expiation (_Pācittiya_) 38
 
-*Bu-Pc.38.1.1* *BD.2.338* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Belaṭṭhasīsa,[^1] the preceptor of the venerable Ānanda, was staying in the jungle. He, having walked for alms-food, having conveyed boiled rice[^2] to the monastery, having had it dried, laid it aside; when he came to need it for food, then moistening it with water, he ate it; after a long time he entered the village for alms-food. Monks spoke thus to the venerable Belaṭṭhasīsa: “How is it that you, your reverence, after a long time enter the village for alms-food?” Then the venerable Belaṭṭhasīsa told this matter to the monks. They said:
+*Bu-Pc.38.1.1* *BD.2.338* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Belaṭṭhasīsa,[^1] the preceptor of the venerable Ānanda, was staying in the jungle. He, having walked for alms-food, having conveyed boiled rice[^2] to the monastery, having had it dried, laid it aside; when he came to need it for food, then moistening it with water, he ate it; after a long time he entered the village for alms-food. bhikkhus spoke thus to the venerable Belaṭṭhasīsa: “How is it that you, your reverence, after a long time enter the village for alms-food?” Then the venerable Belaṭṭhasīsa told this matter to the bhikkhus. They said:
 
 “But do you, your reverence, eat a meal that was stored[^3]?”
 
-“Yes, your reverences.” Those who were modest monks …
+“Yes, your reverences.” Those who were modest bhikkhus …
 
 “Is it true, as is said, that you, Belaṭṭhasīsa, ate a meal that was stored?”
 
@@ -21,13 +21,13 @@ language: "English"
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, Belaṭṭhasīsa, eat a meal that was stored? It is not, Belaṭṭhasīsa, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth: *Vin.4.87*
+“How can you, Belaṭṭhasīsa, eat a meal that was stored? It is not, Belaṭṭhasīsa, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth: *Vin.4.87*
 
-“Whatever monk should eat or partake of solid food *BD.2.339* or soft food that was stored,[^4] there is an offence of expiation.”
+“Whatever bhikkhu should eat or partake of solid food *BD.2.339* or soft food that was stored,[^4] there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.38.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.38.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Stored means: accepted today, it becomes eaten the next day.
 
@@ -47,7 +47,7 @@ The Eighth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, tonight a deity … said to me: ‘Sir, these seven things don’t lead to the decline of a mendicant trainee. What seven? Respect for the Teacher, for the teaching, for the Saṅgha, for the training, for immersion; being easy to admonish, and good friendship. These seven things don’t lead to the decline of a mendicant trainee.’
+1“bhikkhus, tonight a deity … said to me: ‘Sir, these seven things don’t lead to the decline of a bhikkhu trainee. What seven? Respect for the Teacher, for the teaching, for the Saṅgha, for the training, for immersion; being easy to admonish, and good friendship. These seven things don’t lead to the decline of a bhikkhu trainee.’
 
 That is what that deity said. Then he bowed and respectfully circled me, keeping me on his right side, before vanishing right there.
 

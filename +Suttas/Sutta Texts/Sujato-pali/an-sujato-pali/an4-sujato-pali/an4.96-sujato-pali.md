@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four people are found in the world. What four?
+1“bhikkhus, these four people are found in the world. What four?
 
 1. One who practices to benefit themselves, but not others;
 2. one who practices to benefit others, but not themselves;

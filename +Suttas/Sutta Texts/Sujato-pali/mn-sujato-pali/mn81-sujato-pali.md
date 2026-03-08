@@ -18,20 +18,20 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants. Then the Buddha left the road, and at a certain spot he smiled.
+1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of bhikkhus. Then the Buddha left the road, and at a certain spot he smiled.
 
 Then Venerable Ānanda thought: “What is the cause, what is the reason why the Buddha smiled? Realized Ones do not smile for no reason.”
 
 So Ānanda got up from his seat, arranged his robe over one shoulder, raised his joined palms toward the Buddha, and said: “What is the cause, what is the reason why the Buddha smiled? Realized Ones do not smile for no reason.”
 
-“Once upon a time, Ānanda, there was a market town in this spot named Vebhaliṅga. It was successful and prosperous and full of people. And Kassapa, a blessed one, a perfected one, a fully awakened Buddha, lived supported by Vebhaliṅga. It was here, in fact, that he had his monastery, where he sat and advised the mendicant Saṅgha.”
+“Once upon a time, Ānanda, there was a market town in this spot named Vebhaliṅga. It was successful and prosperous and full of people. And Kassapa, a blessed one, a perfected one, a fully awakened Buddha, lived supported by Vebhaliṅga. It was here, in fact, that he had his monastery, where he sat and advised the bhikkhu Saṅgha.”
 
 Then Ānanda spread out his outer robe folded in four and said to the Buddha: “Well then, sir, may the Blessed One sit here! Then this piece of land will have been occupied by two perfected ones, fully awakened Buddhas.”
 
 The Buddha sat on the seat spread out. When he was seated he said to Venerable Ānanda:
 
 
-2“Once upon a time, Ānanda, there was a market town in this spot named Vebhaliṅga. It was successful and prosperous and full of people. And Kassapa, a blessed one, a perfected one, a fully awakened Buddha, lived supported by Vebhaliṅga. It was here, in fact, that he had his monastery, where he sat and advised the mendicant Saṅgha.
+2“Once upon a time, Ānanda, there was a market town in this spot named Vebhaliṅga. It was successful and prosperous and full of people. And Kassapa, a blessed one, a perfected one, a fully awakened Buddha, lived supported by Vebhaliṅga. It was here, in fact, that he had his monastery, where he sat and advised the bhikkhu Saṅgha.
 
 
 3The Buddha Kassapa had as chief attendant in Vebhaliṅga a potter named Ghaṭīkāra. Ghaṭīkāra had a dear friend named Jotipāla, a brahmin student. Then Ghaṭīkāra addressed Jotipāla, ‘Come, dear Jotipāla, let’s go to see the Blessed One Kassapa, the perfected one, the fully awakened Buddha. For I regard it as holy to see that Blessed One.’
@@ -90,7 +90,7 @@ Then Ghaṭīkāra and Jotipāla went to the Buddha Kassapa, bowed and sat down 
 
 7Not long after Jotipāla’s ordination, a fortnight later, the Buddha Kassapa — having stayed in Vebhaliṅga as long as he wished — set out for Benares. Traveling stage by stage, he arrived at Benares, where he stayed near Benares, in the deer park at Isipatana. King Kikī of Kāsi heard that he had arrived. He had the finest carriages harnessed. He then mounted a fine carriage and, along with other fine carriages, set out in full royal pomp from Benares to see the Buddha Kassapa. He went by carriage as far as the terrain allowed, then descended and approached the Buddha Kassapa on foot. He bowed and sat down to one side. The Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk.
 
-Then King Kikī said to the Buddha, ‘Sir, would the Buddha together with the mendicant Saṅgha please accept tomorrow’s meal from me?’ The Buddha Kassapa consented in silence.
+Then King Kikī said to the Buddha, ‘Sir, would the Buddha together with the bhikkhu Saṅgha please accept tomorrow’s meal from me?’ The Buddha Kassapa consented in silence.
 
 
 Then, knowing that the Buddha had consented, King Kikī got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
@@ -98,7 +98,7 @@ Then, knowing that the Buddha had consented, King Kikī got up from his seat, bo
 And when the night had passed, King Kikī had a variety of delicious foods prepared in his own home — soft saffron rice with the dark grains picked out, served with many soups and sauces. Then he had the Buddha informed of the time, saying, ‘Sir, it’s time. The meal is ready.’
 
 
-8Then Kassapa Buddha put on his outer robe in the morning and, taking his bowl and robe, went to the home of King Kikī, where he sat on the seat spread out, together with the Saṅgha of mendicants. Then King Kikī served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with a variety of delicious foods.
+8Then Kassapa Buddha put on his outer robe in the morning and, taking his bowl and robe, went to the home of King Kikī, where he sat on the seat spread out, together with the Saṅgha of bhikkhus. Then King Kikī served and satisfied the bhikkhu Saṅgha headed by the Buddha with his own hands with a variety of delicious foods.
 
 When the Buddha Kassapa had eaten and washed his hand and bowl, King Kikī took a low seat and sat to one side. There he said to the Buddha Kassapa, ‘Sir, may the Buddha please accept my invitation to reside in Benares for the rainy season. The Saṅgha will be looked after in the same style.’
 
@@ -150,27 +150,27 @@ Then Ghaṭīkāra went up to his parents and said: “Who took porridge from th
 Then Ghaṭīkāra thought: “I’m so fortunate, so very fortunate, to be trusted so much by the Buddha Kassapa!” Then joy and happiness did not leave him for a fortnight, or his parents for a week.
 
 
-12Another time, great king, I was staying near that same market town of Vebhaliṅga. Now at that time my hut leaked. So I addressed the mendicants,
+12Another time, great king, I was staying near that same market town of Vebhaliṅga. Now at that time my hut leaked. So I addressed the bhikkhus,
 
 
-“Mendicants, go to Ghaṭikāra’s home and find some grass.”
+“bhikkhus, go to Ghaṭikāra’s home and find some grass.”
 
-When I said this, those mendicants said to me: “Sir, there’s no grass there, but his workshop has a grass roof.”
+When I said this, those bhikkhus said to me: “Sir, there’s no grass there, but his workshop has a grass roof.”
 
 “Then go to the workshop and strip the grass.”
 
 So that’s what they did.
 
-Then Ghaṭīkāra’s parents said to those mendicants: “Who’s stripping the grass from the workshop?”
+Then Ghaṭīkāra’s parents said to those bhikkhus: “Who’s stripping the grass from the workshop?”
 
-“It’s the mendicants, sister. The Buddha’s hut is leaking.”
+“It’s the bhikkhus, sister. The Buddha’s hut is leaking.”
 
 
 “Take it, sirs! Take it, my dears!”
 
 Then Ghaṭīkāra went up to his parents and said: “Who stripped the grass from the workshop?”
 
-“It was the mendicants, dear. It seems the Buddha’s hut is leaking.”
+“It was the bhikkhus, dear. It seems the Buddha’s hut is leaking.”
 
 Then Ghaṭīkāra thought: “I’m so fortunate, so very fortunate, to be trusted so much by the Buddha Kassapa!”
 

@@ -17,7 +17,7 @@ language: "Pali"
 - Translated from the Pali by Acharya Buddharakkhita.  
     
 
-334The craving of one given to heedless living grows like a creeper. Like the monkey seeking fruits in the forest, he leaps from life to life (tasting the fruit of his kamma).
+334The craving of one given to heedless living grows like a creeper. Like the bhikkhuey seeking fruits in the forest, he leaps from life to life (tasting the fruit of his kamma).
 
 ---
 
@@ -57,7 +57,7 @@ language: "Pali"
 
 ---
 
-344There is one who, turning away from desire (for household life) takes to the life of the forest (i.e. Of a monk). But after being freed from the household, he runs back to it. Behold that man! Though freed, he runs back to that very bondage!
+344There is one who, turning away from desire (for household life) takes to the life of the forest (i.e. Of a bhikkhu). But after being freed from the household, he runs back to it. Behold that man! Though freed, he runs back to that very bondage!
 
 ---
 

@@ -68,7 +68,7 @@ vin_gender-corr: "BU-PC15"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-PC111 | [[BU-PC15]] | Vin.4.258-4.345 |
 

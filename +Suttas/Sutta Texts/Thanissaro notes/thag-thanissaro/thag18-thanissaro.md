@@ -222,7 +222,7 @@ desiring the goal,
 
 resolute,
 
-a monk;
+a bhikkhu;
 
 enough for me—
 
@@ -274,7 +274,7 @@ With clear waters &
 
 massive boulders,
 
-frequented by monkeys &
+frequented by bhikkhueys &
 
 deer,
 
@@ -406,17 +406,17 @@ For them
 
 there’s no further becoming.
 
-A monk conceited & vain,
+A bhikkhu conceited & vain,
 
 even though clad
 
 in a robe of cast-off rags,
 
-like a monkey in a lion’s skin,
+like a bhikkhuey in a lion’s skin,
 
 doesn’t shine because of it.
 
-But a monk not conceited
+But a bhikkhu not conceited
 
 or vain,
 
@@ -556,7 +556,7 @@ always unbound.
 
 ### Notes
 
-1. This passage has often been misread as saying that the leper’s finger fell into Mahā Kassapa’s bowl, and that Mahā Kassapa actually ate the finger. Nothing in the verse, though, indicates that this is so. It simply says that the finger fell off, and that Mahā Kassapa ate the food. Furthermore, there is a rule in the Mahāvagga—Mv.VI.23.9—that imposes a grave offense on any monk who eats human flesh. So it’s highly unlikely that Mahā Kassapa ate the leper’s finger. [↩︎](#^thag18note01-ref) ^thag18note01
+1. This passage has often been misread as saying that the leper’s finger fell into Mahā Kassapa’s bowl, and that Mahā Kassapa actually ate the finger. Nothing in the verse, though, indicates that this is so. It simply says that the finger fell off, and that Mahā Kassapa ate the food. Furthermore, there is a rule in the Mahāvagga—Mv.VI.23.9—that imposes a grave offense on any bhikkhu who eats human flesh. So it’s highly unlikely that Mahā Kassapa ate the leper’s finger. [↩︎](#^thag18note01-ref) ^thag18note01
 
 2. Reading _tattha_ with the Thai and Sinhalese editions. [↩︎](#^thag18note02-ref) ^thag18note02
 
@@ -564,7 +564,7 @@ always unbound.
 
 4. Reading _dhīraṁ_ with the Thai and PTS editions. The Burmese and Sinhalese editions read _vīraṁ,_ “hero.” [↩︎](#^thag18note04-ref) ^thag18note04
 
-5. Ven. Sāriputta was foremost among the monks in terms of discernment (AN 1:183); Ven. Kappina, foremost among the monks in exhorting other monks (AN 1:231). The Buddha praises him at [[snp21.11-thanissaro]] for his attainment of psychic powers, and at [[snp54.7-thanissaro]] for the solidity of his samādhi based on mindfulness of breathing. [↩︎](#^thag18note05-ref) ^thag18note05
+5. Ven. Sāriputta was foremost among the bhikkhus in terms of discernment (AN 1:183); Ven. Kappina, foremost among the bhikkhus in exhorting other bhikkhus (AN 1:231). The Buddha praises him at [[snp21.11-thanissaro]] for his attainment of psychic powers, and at [[snp54.7-thanissaro]] for the solidity of his samādhi based on mindfulness of breathing. [↩︎](#^thag18note05-ref) ^thag18note05
 
 6. This appears to be one of the earliest references to “buddha-field,” a concept that was to play a large role in the Apadāna literature and, through that, in the Mahāyāna concept of the Pure Land. Here it appears to mean the sphere of the current Buddha’s influence. In the Apadānas it takes on two other meanings: as (1) a field for producing merit, on the lines of the traditional image of the Saṅgha as the unexcelled field of merit; and (2) a heavenly realm where a particular Buddha dwells. These two meanings were influential in the early Mahāyāna sūtras that formed the basis for Pure Land practice. [↩︎](#^thag18note06-ref) ^thag18note06
 

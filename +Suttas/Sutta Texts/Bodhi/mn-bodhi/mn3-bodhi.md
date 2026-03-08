@@ -52,9 +52,9 @@ Heirs in Dhamma
 
 “It is in this way that disciples of the Teacher who lives secluded train in seclusion.
 
-8\. “Friends, the evil herein is greed and hate. There is a Middle Way for the abandoning of greed and hate, giving vision, giving knowledge, which leads to peace, to direct knowledge, to enlightenment, to Nibbāna. And what is that Middle Way? It is just this Noble Eightfold Path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi. This is the Middle Way giving vision, giving knowledge, which leads to peace, to direct knowledge, to enlightenment, to Nibbāna.
+8\. “Friends, the evil herein is greed and hate. There is a Middle Way for the abandoning of greed and hate, giving vision, giving knowledge, which leads to peace, to direct knowledge, to enlightenment, to Nibbāna. And what is that Middle Way? It is just this ![[Noble Path]]. This is the Middle Way giving vision, giving knowledge, which leads to peace, to direct knowledge, to enlightenment, to Nibbāna.
 
-9–15. “The evil herein is anger and resentment…contempt and insolence…envy and avarice…deceit and fraud…obstinacy \[16\] and rivalry…conceit and arrogance…vanity and negligence. There is a Middle Way for the abandoning of vanity and negligence, giving vision, giving knowledge, which leads to peace, to direct knowledge, to enlightenment, to Nibbāna. And what is that Middle Way? It is just this Noble Eightfold Path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi.
+9–15. “The evil herein is anger and resentment…contempt and insolence…envy and avarice…deceit and fraud…obstinacy \[16\] and rivalry…conceit and arrogance…vanity and negligence. There is a Middle Way for the abandoning of vanity and negligence, giving vision, giving knowledge, which leads to peace, to direct knowledge, to enlightenment, to Nibbāna. And what is that Middle Way? It is just this ![[Noble Path]].
 
 This is the Middle Way giving vision, giving knowledge, which leads to peace, to direct knowledge, to enlightenment, to Nibbāna.”
 

@@ -18,9 +18,9 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha, the Master, was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks belonging to the group of seventeen were repairing a large dwelling nearby, intending to stay there for the rainy season. Monks from the group of six saw this and said: “These monks from the group of seventeen are repairing a dwelling. Let’s evict them." But some of them said: “Let’s wait until they’ve finished repairing it."
+1At one time the Buddha, the Master, was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus belonging to the group of seventeen were repairing a large dwelling nearby, intending to stay there for the rainy season. bhikkhus from the group of six saw this and said: “These bhikkhus from the group of seventeen are repairing a dwelling. Let’s evict them." But some of them said: “Let’s wait until they’ve finished repairing it."
 
-2Soon afterwards the monks from the group of six said to those from the group of seventeen: “Leave; we get this dwelling."
+2Soon afterwards the bhikkhus from the group of six said to those from the group of seventeen: “Leave; we get this dwelling."
 
 “Shouldn’t you have told us beforehand? We would have repaired another one."
 
@@ -34,13 +34,13 @@ language: "Pali - English"
 
 Saying: “Leave; we get this dwelling," angry and displeased, they grabbed them by the neck and threw them out.
 
-Because of this they cried, and monks asked them: “Why are you crying?"
+Because of this they cried, and bhikkhus asked them: “Why are you crying?"
 
-“These monks from the group of six, being angry and displeased, evicted us from a dwelling belonging to the Saṅgha."
+“These bhikkhus from the group of six, being angry and displeased, evicted us from a dwelling belonging to the Saṅgha."
 
-The monks of few desires … complained and criticised them: “How can those monks belonging to the group of six, being angry and displeased, evict other monks from a dwelling belonging to the Saṅgha?"
+The bhikkhus of few desires … complained and criticised them: “How can those bhikkhus belonging to the group of six, being angry and displeased, evict other bhikkhus from a dwelling belonging to the Saṅgha?"
 
-3After criticising those monks in many ways, they informed the Master. … “Is it true, monks, that you are doing this?" “It’s true, Master." The Buddha, the Master, criticised them: “ … Foolish men, how can you, being angry and displeased, evict other monks from a dwelling belonging to the Saṅgha? This will not give rise to confidence in those without it … And, monks, this training rule should be recited thus:
+3After criticising those bhikkhus in many ways, they informed the Master. … “Is it true, bhikkhus, that you are doing this?" “It’s true, Master." The Buddha, the Master, criticised them: “ … Foolish men, how can you, being angry and displeased, evict other bhikkhus from a dwelling belonging to the Saṅgha? This will not give rise to confidence in those without it … And, bhikkhus, this training rule should be recited thus:
 
 #### Final ruling
 

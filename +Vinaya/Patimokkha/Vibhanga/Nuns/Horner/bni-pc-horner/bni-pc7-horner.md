@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.7.1.1* *BD.3.255* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns, having had raw grain asked for at harvest time, carried it towards the town. (Those) at the gateway, saying: “Ladies, give a portion,” having obstructed (them) let (them) go. Then these nuns, having gone to a dwelling,[^1] told this matter to the nuns. Those who were modest nuns … spread it about, saying: “How can these nuns have raw grain asked for?” …
 
-“Is it true, as is said, monks, that the nuns had raw grain asked for?”
+“Is it true, as is said, bhikkhus, that the nuns had raw grain asked for?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns have raw grain asked for? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns have raw grain asked for? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, having asked for raw grain or having had it asked for, or having roasted it or having caused it to be roasted, or having pounded it or having caused it to be pounded, or having cooked it or having caused it to be cooked, should eat it, there is an offence of expiation.”
 

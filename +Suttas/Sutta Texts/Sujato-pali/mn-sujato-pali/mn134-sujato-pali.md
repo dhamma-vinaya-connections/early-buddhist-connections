@@ -26,7 +26,7 @@ Now at that time Venerable Lomasakaṅgiya was staying in the Sakyan country at 
 Then, late at night, the glorious god Candana, lighting up the entire Banyan Tree Monastery, went up to the Venerable Lomasakaṅgiya, and stood to one side. Standing to one side, he said to Lomasakaṅgiya:
 
 
-“Mendicant, do you remember the recitation passage and analysis of One Fine Night?”
+“bhikkhu, do you remember the recitation passage and analysis of One Fine Night?”
 
 “No, reverend, I do not. Do you?”
 
@@ -66,7 +66,7 @@ tireless all night and day,
 who truly have that one fine night.’
 
 
-6That’s how I remember the verses of One Fine Night. Learn the recitation passage and analysis of One Fine Night, mendicant, memorize it, and remember it. It is beneficial and relates to the fundamentals of the spiritual life.”
+6That’s how I remember the verses of One Fine Night. Learn the recitation passage and analysis of One Fine Night, bhikkhu, memorize it, and remember it. It is beneficial and relates to the fundamentals of the spiritual life.”
 
 
 That’s what the god Candana said before vanishing right there.
@@ -77,11 +77,11 @@ That’s what the god Candana said before vanishing right there.
 “Sir, please teach me the recitation passage and analysis of One Fine night.”
 
 
-11“But mendicant, do you know that god?”
+11“But bhikkhu, do you know that god?”
 
 “I do not, sir.”
 
-“That god was named Candana. Candana pays heed, pays attention, engages wholeheartedly, and lends an ear to the teaching. Well then, mendicant, listen and pay close attention, I will speak.”
+“That god was named Candana. Candana pays heed, pays attention, engages wholeheartedly, and lends an ear to the teaching. Well then, bhikkhu, listen and pay close attention, I will speak.”
 
 “Yes, sir,” Lomasakaṅgiya replied. The Buddha said this:
 

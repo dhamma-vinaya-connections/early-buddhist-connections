@@ -49,7 +49,7 @@ vin_gender-corr: "BU-NP2"
 > > [!info]- No Offence 
 > > > From Vibhanga
 > > 
-> > If before sunrise it is taken away, bestowed, lost, destroyed, burnt; if they tear it from him; if they take it on trust; if there is the agreement of the monks, if he is mad, if he is the first wrong-doer. when the kaṭhina privileges are in effect
+> > If before sunrise it is taken away, bestowed, lost, destroyed, burnt; if they tear it from him; if they take it on trust; if there is the agreement of the bhikkhus, if he is mad, if he is the first wrong-doer. when the kaṭhina privileges are in effect
 > 
 > > [!info]- Useful Notes
 > > > From various authors
@@ -74,7 +74,7 @@ vin_gender-corr: "BU-NP2"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-NP14 | [[BU-NP2]] | Vin.4.243-4.257 |
 

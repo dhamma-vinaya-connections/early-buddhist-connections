@@ -16,11 +16,11 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Rājagaha in the Bamboo Grove, the monks Mettiya and Bhūmajaka were descending from the Vulture Peak when they saw two goats copulating. They said to each other, “Let’s give the he-goat the name Dabba the Mallian and the she-goat the name Mettiyā the nun. We can then say, ‘Previously we spoke of what we had heard, but now we’ve seen Dabba copulating with the nun Mettiyā.’” They then gave them those names and told the monks, “Previously we spoke of what we had heard, but now we’ve seen Dabba copulating with the nun Mettiyā.”
+1At one time when the Buddha was staying at Rājagaha in the Bamboo Grove, the bhikkhus Mettiya and Bhūmajaka were descending from the Vulture Peak when they saw two goats copulating. They said to each other, “Let’s give the he-goat the name Dabba the Mallian and the she-goat the name Mettiyā the nun. We can then say, ‘Previously we spoke of what we had heard, but now we’ve seen Dabba copulating with the nun Mettiyā.’” They then gave them those names and told the bhikkhus, “Previously we spoke of what we had heard, but now we’ve seen Dabba copulating with the nun Mettiyā.”
 
-The monks replied, “Don’t say such things. Venerable Dabba wouldn’t do that.”
+The bhikkhus replied, “Don’t say such things. Venerable Dabba wouldn’t do that.”
 
-2The monks told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned Dabba: “Dabba, do you remember doing as these monks say?”
+2The bhikkhus told the Buddha. Soon afterwards the Buddha had the Sangha gathered and questioned Dabba: “Dabba, do you remember doing as these bhikkhus say?”
 
 “Venerable Sir, you know what I’m like.”
 
@@ -32,21 +32,21 @@ He then said: “Dabba, the Dabbas don’t give such evasive answers. If it was 
 
 “Since I was born, Sir, I don’t recall having sexual intercourse even in a dream, let alone when awake.”
 
-“Well then, monks, call those monks to account.” And the Buddha got up from his seat and entered his dwelling.
+“Well then, bhikkhus, call those bhikkhus to account.” And the Buddha got up from his seat and entered his dwelling.
 
-3The monks then questioned Mettiya and Bhūmajaka, who told them what had happened. The monks said, “So did you charge Venerable Dabba with an offense entailing expulsion, using an unrelated legal issue as a pretext?”
+3The bhikkhus then questioned Mettiya and Bhūmajaka, who told them what had happened. The bhikkhus said, “So did you charge Venerable Dabba with an offense entailing expulsion, using an unrelated legal issue as a pretext?”
 
 
 “Yes.”
 
-The monks of few desires complained and criticized them, “How could Mettiya and Bhūmajaka charge Venerable Dabba with an offense entailing expulsion, using an unrelated legal issue as a pretext?”
+The bhikkhus of few desires complained and criticized them, “How could Mettiya and Bhūmajaka charge Venerable Dabba with an offense entailing expulsion, using an unrelated legal issue as a pretext?”
 
-4They rebuked those monks in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned those monks: “Is it true, monks, that you did this?”
+4They rebuked those bhikkhus in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned those bhikkhus: “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

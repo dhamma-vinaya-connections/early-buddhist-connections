@@ -27,10 +27,10 @@ While walking about the dwellings, the Buddha saw that monk acting in this way. 
 “I am.”
 
 
-Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, I allow you to keep out-of-season robe-cloth if you are expecting to receive more.”
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “bhikkhus, I allow you to keep out-of-season robe-cloth if you are expecting to receive more.”
 
 
-2When they heard about this, some monks kept out-of-season robe-cloth for more than a month, keeping them in bundles on a bamboo robe rack. While walking about the dwellings, Venerable Ānanda saw that robe-cloth, and he asked the monks, “Whose cloth is this?”
+2When they heard about this, some bhikkhus kept out-of-season robe-cloth for more than a month, keeping them in bundles on a bamboo robe rack. While walking about the dwellings, Venerable Ānanda saw that robe-cloth, and he asked the bhikkhus, “Whose cloth is this?”
 
 
 “It’s our out-of-season robe-cloth, which we’re keeping because we’re expecting more.”
@@ -40,15 +40,15 @@ Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, I 
 
 “More than a month.”
 
-Venerable Ānanda complained and criticized them, “How can these monks keep out-of-season robe-cloth for more than a month?”
+Venerable Ānanda complained and criticized them, “How can these bhikkhus keep out-of-season robe-cloth for more than a month?”
 
 
-3After rebuking those monks in many ways, Venerable Ānanda told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that there are monks who do this?”
+3After rebuking those bhikkhus in many ways, Venerable Ānanda told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that there are bhikkhus who do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can those foolish men keep out-of-season robe-cloth for more than a month? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How can those foolish men keep out-of-season robe-cloth for more than a month? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -84,7 +84,7 @@ The Buddha rebuked them … “How can those foolish men keep out-of-season robe
 If he is given the expected robe-cloth on the same day as he was given the original robe-cloth, it must be made into a robe within ten days. If he is given the expected robe-cloth the day after he was given the original robe-cloth, it must be made into a robe within ten days. If he is given the expected robe-cloth two days after … three days after … eighteen days after … … nineteen days after he was given the original robe-cloth, it must be made into a robe within ten days. If he is given the expected robe-cloth twenty days after he was given the original robe-cloth, it must be made into a robe within nine days. If he is given the expected robe-cloth twenty-one days after he was given the original robe-cloth, it must be made into a robe within eight days. … twenty-two days after … twenty-seven days after … If he is given the expected robe-cloth twenty-eight days after he was given the original robe-cloth, it must be made into a robe within one day. If he is given the expected robe-cloth twenty-nine days after he was given the original robe-cloth, it must be determined, assigned to another, or given away on that very day. If he does not determine it, assign it to another, or give it away, it becomes subject to relinquishment at dawn on the thirtieth day.
 
 
-The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 ‘Venerables, this out-of-season robe-cloth, which I have kept for more than a month, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe-cloth back to you.’”
 

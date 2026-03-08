@@ -15,11 +15,11 @@ language: "English"
 ## ## Āghātavinaya Sutta
 
 
-Then Ven. Sāriputta addressed the monks: “Friend monks.”
+Then Ven. Sāriputta addressed the bhikkhus: “Friend bhikkhus.”
 
-“Yes, friend,” the monks responded to him.
+“Yes, friend,” the bhikkhus responded to him.
 
-Ven. Sāriputta said: “There are these five ways of subduing hatred by which, when hatred arises in a monk, he should wipe it out completely. Which five?
+Ven. Sāriputta said: “There are these five ways of subduing hatred by which, when hatred arises in a bhikkhu, he should wipe it out completely. Which five?
 
 “There is the case where some people are impure in their bodily behavior but pure in their verbal behavior. Hatred for a person of this sort should be subdued.
 
@@ -31,7 +31,7 @@ Ven. Sāriputta said: “There are these five ways of subduing hatred by which, 
 
 “There is the case where some people are pure in their bodily behavior & their verbal behavior, and who periodically experience mental clarity & calm. Hatred for a person of this sort should also be subdued.
 
-“Now as for a person who is impure in his bodily behavior but pure in his verbal behavior, how should one subdue hatred for him? Just as when a monk who makes use of things that are thrown away sees a rag in the road: Taking hold of it with his left foot and spreading it out with his right, he would tear off the sound part and go off with it. In the same way, when the individual is impure in his bodily behavior but pure in his verbal behavior, one should at that time pay no attention to the impurity of his bodily behavior, and instead pay attention to the purity of his verbal behavior. Thus the hatred for him should be subdued.
+“Now as for a person who is impure in his bodily behavior but pure in his verbal behavior, how should one subdue hatred for him? Just as when a bhikkhu who makes use of things that are thrown away sees a rag in the road: Taking hold of it with his left foot and spreading it out with his right, he would tear off the sound part and go off with it. In the same way, when the individual is impure in his bodily behavior but pure in his verbal behavior, one should at that time pay no attention to the impurity of his bodily behavior, and instead pay attention to the purity of his verbal behavior. Thus the hatred for him should be subdued.
 
 “And as for a person who is impure in his verbal behavior, but pure in his bodily behavior, how should one subdue hatred for him? Just as when there is a pool overgrown with slime & water plants, and a person comes along, burning with heat, covered with sweat, exhausted, trembling, & thirsty. He would jump into the pool, part the slime & water plants with both hands, and then, cupping his hands, drink the water and go on his way. In the same way, when the individual is impure in his verbal behavior but pure in his bodily behavior, one should at that time pay no attention to the impurity of his verbal behavior, and instead pay attention to the purity of his bodily behavior. Thus the hatred for him should be subdued.
 
@@ -41,7 +41,7 @@ Ven. Sāriputta said: “There are these five ways of subduing hatred by which, 
 
 “And as for a person who is pure in his bodily behavior & verbal behavior, and who periodically experiences mental clarity & calm, how should one subdue hatred for him? Just as when there is a pool of clear water—sweet, cool, & limpid, with gently sloping banks, & shaded on all sides by trees of many kinds—and a person comes along, burning with heat, covered with sweat, exhausted, trembling, & thirsty. Having plunged into the pool, having bathed & drunk & come back out, he would sit down or lie down right there in the shade of the trees. In the same way, when an individual is pure in his bodily behavior & verbal behavior, and periodically experiences mental clarity & calm, one should at that time pay attention to the purity of his bodily behavior…the purity of his verbal behavior, and to the fact that he periodically experiences mental clarity & calm. Thus the hatred for him should be subdued. An entirely inspiring individual can make the mind grow serene.
 
-“These are five ways of subduing hatred by which, when hatred arises in a monk, he should wipe it out completely.”
+“These are five ways of subduing hatred by which, when hatred arises in a bhikkhu, he should wipe it out completely.”
 
 See also: [[mn21-thanissaro]]; [[an4.200-thanissaro]]; [[an7.60-thanissaro]]; [[an10.80-thanissaro]]
 

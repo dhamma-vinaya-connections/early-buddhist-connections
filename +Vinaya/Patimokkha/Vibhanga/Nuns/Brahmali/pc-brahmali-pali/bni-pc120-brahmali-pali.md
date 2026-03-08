@@ -18,7 +18,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time in Rājagaha there was a hilltop fair, which the monks from the group of seventeen went to see. When people saw the monks, they bathed them, anointed them, fed them cooked food, and gave them fresh food. They took that food and brought it back to the monastery. And they said to the monks from the group of six, “Help yourselves!”
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time in Rājagaha there was a hilltop fair, which the bhikkhus from the group of seventeen went to see. When people saw the bhikkhus, they bathed them, anointed them, fed them cooked food, and gave them fresh food. They took that food and brought it back to the monastery. And they said to the bhikkhus from the group of six, “Help yourselves!”
 
 “But where did you get this food?” And they told them what had happened.
 
@@ -27,14 +27,14 @@ language: "Pali - English"
 
 “Yes.”
 
-The monks from the group of six complained and criticized them, “How can those monks from the group of seventeen eat at the wrong time?”
+The bhikkhus from the group of six complained and criticized them, “How can those bhikkhus from the group of seventeen eat at the wrong time?”
 
-2They told the monks, and the monks of few desires complained and criticized them, “How can the monks from the group of seventeen eat at the wrong time?” … “Is it true, monks, that you do this?”
+2They told the bhikkhus, and the bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of seventeen eat at the wrong time?” … “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

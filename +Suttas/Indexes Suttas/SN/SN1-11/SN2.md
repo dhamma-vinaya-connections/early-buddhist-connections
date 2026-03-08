@@ -30,11 +30,11 @@ contribution:
 ### 📂 SN2 - Devaputtasaṁyutta - Young Devas
 
 > [!example]- 🌐[[SN2.1]] - 📜[Available texts](obsidian://search?query=file:sn2.1-) - Paṭhamakassapasutta – Kassapa (1)
-> The deity Kassapa speaks of how a mendicant should be a meditator, peaceful and free
+> The deity Kassapa speaks of how a bhikkhu should be a meditator, peaceful and free
 
 
 > [!example]- 🌐[[SN2.2]] - 📜[Available texts](obsidian://search?query=file:sn2.2-) - Dutiyakassapasutta – Kassapa (2)
-> The deity Kassapa speaks of how a mendicant should be a meditator, peaceful and free
+> The deity Kassapa speaks of how a bhikkhu should be a meditator, peaceful and free
 
 
 > [!example]- 🌐[[SN2.3]] - 📜[Available texts](obsidian://search?query=file:sn2.3-) - Māghasutta – Magha
@@ -90,23 +90,23 @@ contribution:
 
 
 > [!example]- 🌐[[SN2.16]] - 📜[Available texts](obsidian://search?query=file:sn2.16-) - Vāsudattasutta – Vasudatta
-> The deity vasudatta says that a mendicant should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
+> The deity vasudatta says that a bhikkhu should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
 
 
 > [!example]- 🌐[[SN2.17]] - 📜[Available texts](obsidian://search?query=file:sn2.17-) - Subrahmasutta – Subrahma
-> The deity vasudatta says that a mendicant should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
+> The deity vasudatta says that a bhikkhu should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
 
 
 > [!example]- 🌐[[SN2.18]] - 📜[Available texts](obsidian://search?query=file:sn2.18-) - Kakudhasutta – Kakudha
-> The deity vasudatta says that a mendicant should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
+> The deity vasudatta says that a bhikkhu should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
 
 
 > [!example]- 🌐[[SN2.19]] - 📜[Available texts](obsidian://search?query=file:sn2.19-) - Uttarasutta – Uttarā
-> The deity vasudatta says that a mendicant should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
+> The deity vasudatta says that a bhikkhu should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
 
 
 > [!example]- 🌐[[SN2.20]] - 📜[Available texts](obsidian://search?query=file:sn2.20-) - Anāthapiṇḍikasutta – Anāthapiṇḍika
-> The deity vasudatta says that a mendicant should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
+> The deity vasudatta says that a bhikkhu should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
 
 
 > [!example]- 🌐[[SN2.21]] - 📜[Available texts](obsidian://search?query=file:sn2.21-) - Sivasutta – Siva

@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC159"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC80]] 🌐 [[BU-PC82]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 8 Saha-Dhammika-Vaggo - 8 Legitimate Correction
 ## BU-PC81 - Dubbala - Criticizing Robe Distribution
 
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC159"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya \"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī\"ti, pācittiyaṃ | If a monk gives out a robe as part of a unanimous Sangha and then criticizes it afterwards, saying, “The monks are diverting the Sangha’s material things according to friendship,” he commits an offense entailing confession |
+| Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya \"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī\"ti, pācittiyaṃ | If a monk gives out a robe as part of a unanimous Sangha and then criticizes it afterwards, saying, “The bhikkhus are diverting the Sangha’s material things according to friendship,” he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-PC159"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC81 | [[BNI-PC159]] | Vin.3.1–3.40 |
 

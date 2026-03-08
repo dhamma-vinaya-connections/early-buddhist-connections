@@ -32,7 +32,7 @@ language: "English - Pali"
 
 2Then the Buddha educated, encouraged, fired up, and inspired Hatthaka of Āḷavī with a Dhamma talk, after which he got up from his seat, bowed, and respectfully circled the Buddha before leaving.
 
-Then, not long after Hatthaka had left, the Buddha addressed the mendicants: “Mendicants, you should remember the householder Hatthaka of Āḷavī as someone who has eight amazing and incredible qualities. What eight? He’s faithful, ethical, conscientious, prudent, learned, generous, wise, and has few wishes. You should remember the householder Hatthaka of Āḷavī as someone who has these eight amazing and incredible qualities.”
+Then, not long after Hatthaka had left, the Buddha addressed the bhikkhus: “bhikkhus, you should remember the householder Hatthaka of Āḷavī as someone who has eight amazing and incredible qualities. What eight? He’s faithful, ethical, conscientious, prudent, learned, generous, wise, and has few wishes. You should remember the householder Hatthaka of Āḷavī as someone who has these eight amazing and incredible qualities.”
 
 #### Pali
 

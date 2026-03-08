@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time in Rājagaha there was a hilltop fair, and the nuns from the group of six went to see it. People complained and criticized them, “How can nuns go to see dancing, singing, and music? They’re just like householders who indulge in worldly pleasures!”
 
-2The nuns heard the complaints of those people, and the nuns of few desires complained and criticized them, “How could the nuns from the group of six go to see dancing, singing, and music?” … “Is it true, monks, that those nuns did that?”
+2The nuns heard the complaints of those people, and the nuns of few desires complained and criticized them, “How could the nuns from the group of six go to see dancing, singing, and music?” … “Is it true, bhikkhus, that those nuns did that?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them, “How could the nuns from the group do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them, “How could the nuns from the group do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

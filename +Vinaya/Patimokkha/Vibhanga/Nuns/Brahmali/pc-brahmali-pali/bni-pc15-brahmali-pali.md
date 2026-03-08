@@ -27,12 +27,12 @@ language: "Pali - English"
 
 2That nun then told the nuns what had happened. The nuns of few desires complained and criticized her, “How could a nun visit a family before the meal, sit down on a seat, and then depart without informing the owners?” …
 
-“Is it true, monks, that a nun did this?”
+“Is it true, bhikkhus, that a nun did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could a nun act like this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could a nun act like this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

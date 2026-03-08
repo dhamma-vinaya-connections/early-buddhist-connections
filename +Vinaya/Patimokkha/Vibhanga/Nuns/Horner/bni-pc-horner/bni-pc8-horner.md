@@ -15,13 +15,13 @@ language: "English"
 
 “Go away, good brahmin, this is auspicious; you will receive a thousand, and this is (your) wage.” Then that brahmin, having washed his head, having gone to the royal court, received a thousand, and this was the wage. Then that lay follower, having entered the dwelling, having told this matter to the nuns, scolded them. Those who were modest nuns … spread it about, saying: “How can these nuns throw out excrement over a wall?” …
 
-Is it true, as is said, monks, that nuns threw out excrement over a wall?”
+Is it true, as is said, bhikkhus, that nuns threw out excrement over a wall?”
 
 “It is true, lord.”
 
 *BD.3.258* The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns … over a wall? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns … over a wall? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should throw out or should cause (another) to throw out excrement or urine or rubbish or remains of food over a wall or over a fence, there is an offence of expiation.” *Vin.4.266*
 

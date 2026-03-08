@@ -15,7 +15,7 @@ language: "English"
 ## ## Saddhamma-niyāma Sutta
 
 
-“Monks, endowed with five qualities, even though listening to the True Dhamma, one is incapable of alighting on the orderliness, on the rightness of skillful qualities. Which five?
+“bhikkhus, endowed with five qualities, even though listening to the True Dhamma, one is incapable of alighting on the orderliness, on the rightness of skillful qualities. Which five?
 
 ”One holds the talk in contempt.
 
@@ -49,9 +49,9 @@ Note
 
 a) To begin with, _agga_ has many other meanings besides “point.” In fact, it has two primary clusters of meanings, in neither of which is “point” the central focus.
 
-The first cluster centers on the fact that a summit of a mountain is called its _agga._ Clustered around this meaning are ideas of _agga_ as the topmost part of something (such as the ridge of a roof), the tip of something (such as the tip of a blade of grass), and the best or supreme example of something (such as the Buddha as the _agga_ of all beings). [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.80-thanissaro]] plays with these meanings of _agga_ when it criticizes monks of the future who will “search for the tiptop flavors _(ras’agga)_ with the tip of the tongue (_jivh’agga).”_
+The first cluster centers on the fact that a summit of a mountain is called its _agga._ Clustered around this meaning are ideas of _agga_ as the topmost part of something (such as the ridge of a roof), the tip of something (such as the tip of a blade of grass), and the best or supreme example of something (such as the Buddha as the _agga_ of all beings). [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.80-thanissaro]] plays with these meanings of _agga_ when it criticizes bhikkhus of the future who will “search for the tiptop flavors _(ras’agga)_ with the tip of the tongue (_jivh’agga).”_
 
-The second cluster of meanings for _agga_ centers on the idea of “meeting place.” A hall where monks gather for the uposatha, for example, is called an _uposath’agga._ The hall where they gather for their meals is called a _bhatt’agga._
+The second cluster of meanings for _agga_ centers on the idea of “meeting place.” A hall where bhikkhus gather for the uposatha, for example, is called an _uposath’agga._ The hall where they gather for their meals is called a _bhatt’agga._
 
 Given that the object of samādhi is said to be a dwelling _(vihāra),_ and that a person dwells _(viharati)_ in samādhi, this second cluster of meanings may be the more relevant cluster here. A mind with a single _agga,_ in this case, would simply be a mind gathered around one object, and need not necessarily be reduced to a single point.
 

@@ -1469,7 +1469,7 @@ in 409.
 _Fochui ban lüeshuo jiaojie jing_ (T. 389), in one fascicle. Translated by Kumārajīva in  
 402–412.  
 _Gaoseng faxian zhuan_ ( _Biography of Faxian_ ) (T. 2085), in one fascicle. English translatiion  
-in Li Rongxi, _The Journey of the Eminent Monk Faxian,_ in _Lives of Great Monks  
+in Li Rongxi, _The Journey of the Eminent Monk Faxian,_ in _Lives of Great bhikkhus  
 and Nuns_ (Berkeley: Numata Center for Buddhist Translation and Research, 2002),  
 pp. 155–214.  
 _Gezhong qinding zhongjing mulu_ ( _Buddhist Canonical Textual Catalogues_ ) compiled  
@@ -1605,7 +1605,7 @@ ascetic(s)/asceticism, xvii, 63–72,
 180–181n22
 practice, 64, 65, 155, 182n27
 seven kinds of, 63
-See also austerity; mendicant
+See also austerity; bhikkhu
 Aśoka, xiv
 asura (s), xvii, 43, 44, 47, 55, 137, 140,
 Aṭṭhaka, 170, 171
@@ -2125,7 +2125,7 @@ meditation, 14, 15, 23, 117, 127, 161
 four kinds of, 40
 meditative jhāna, four kinds/states,
 13, 101, 107, 119, 130, 161–162
-mendicant, 6, 83, 150
+bhikkhu, 6, 83, 150
 See also ascetic(s); śramaṇa (s)
 mindful/mindfulness, 3, 5, 6, 8, 14, 19–20,
 46, 107, 114, 158–159
@@ -2369,7 +2369,7 @@ physical elements
 71, 73, 75–78, 87–90, 104, 106, 106,
 112, 113, 117–129, 130–132, 142,
 144, 150, 152–156
-See also ascetic(s); mendicant; monk(s)
+See also ascetic(s); bhikkhu; monk(s)
 śrāvaka, 128
 See also bhikśu (s); disciple(s); monk(s)
 srotaāpanna. See stream-winner
@@ -2835,15 +2835,15 @@ Eng. _The Biographical Scripture of King Aśoka_ (1993)
 
 Ch. Maming pusa zhuan ( 馬鳴菩薩傳 ) 2046  
 Eng. _The Life of Aśvaghoṣa Bodhisattva_  
-(in _Lives of Great Monks and Nuns,_ 2002)
+(in _Lives of Great bhikkhus and Nuns,_ 2002)
 
 Ch. Longshu pusa zhuan ( 龍樹菩薩傳 ) 2047  
 Eng. _The Life of Nāgārjuna Bodhisattva_  
-(in _Lives of Great Monks and Nuns,_ 2002)
+(in _Lives of Great bhikkhus and Nuns,_ 2002)
 
 Ch. Posoupandou fashi zhuan ( 婆藪槃豆法師傳 ) 2049  
 Eng. _Biography of Dharma Master Vasubandhu_  
-(in _Lives of Great Monks and Nuns,_ 2002)
+(in _Lives of Great bhikkhus and Nuns,_ 2002)
 
 Ch. Datang Daciensi Zanzang fashi zhuan ( 大唐大慈恩寺三藏法師傳 ) 2053  
 Eng. _A Biography of the Tripiṭaka Master of the Great Ci’en  
@@ -2853,11 +2853,11 @@ Ch. Gaoseng zhuan ( 高僧傳 ) 2059
 
 Ch. Biqiuni zhuan ( 比丘尼傳 ) 2063  
 Eng. _Biographies of Buddhist Nuns_  
-(in _Lives of Great Monks and Nuns,_ 2002)
+(in _Lives of Great bhikkhus and Nuns,_ 2002)
 
 Ch. Gaoseng Faxian zhuan ( 高僧法顯傳 ) 2085  
 Eng. _The Journey of the Eminent Monk Faxian_  
-(in _Lives of Great Monks and Nuns,_ 2002)
+(in _Lives of Great bhikkhus and Nuns,_ 2002)
 
 Ch. Datang xiyu ji ( 大唐西域記 ) 2087  
 Eng. _The Great Tang Dynasty Record of the Western Regions_ (1996)

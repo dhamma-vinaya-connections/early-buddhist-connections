@@ -18,18 +18,18 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time two monks were staying in a dwelling with an upper story belonging to the Sangha, one staying below and one above. The monk above sat down forcefully on a bed with detachable legs. A leg fell off and hit the monk below on the head. He cried out. Monks rushed up and asked him why, and he told them what had happened.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time two bhikkhus were staying in a dwelling with an upper story belonging to the Sangha, one staying below and one above. The monk above sat down forcefully on a bed with detachable legs. A leg fell off and hit the monk below on the head. He cried out. bhikkhus rushed up and asked him why, and he told them what had happened.
 
-The monks of few desires complained and criticized him,
+The bhikkhus of few desires complained and criticized him,
 
 “How could a monk sit down forcefully on a bed with detachable legs on an upper story in a dwelling belonging to the Sangha?”
 
-2After rebuking that monk in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monk, that you did this?”
+2After rebuking that monk in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, monk, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

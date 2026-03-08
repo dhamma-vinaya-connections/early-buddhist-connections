@@ -32,7 +32,7 @@ a beast and a bully,
 their life gets worse,  
 as poison grows inside them.
 
-276 A mendicant who loves to argue,  
+276 A bhikkhu who loves to argue,  
 wrapped in delusion,  
 doesn’t even know what’s been explained  
 in the Dhamma taught by the Buddha.
@@ -44,7 +44,7 @@ is the path that leads to hell.
 
 278 Entering the underworld,  
 passing from womb to womb, from darkness to darkness,  
-such a mendicant  
+such a bhikkhu  
 falls into suffering after death.
 
 ---
@@ -54,7 +54,7 @@ like a sewer
 brimful with years of filth  
 for it’s hard to clean one full of grime.
 
-280 Mendicants, knowing that someone is like this,  
+280 bhikkhus, knowing that someone is like this,  
 attached to the lay life,  
 of wicked desires and wicked intent,  
 of bad behavior and alms-resort,

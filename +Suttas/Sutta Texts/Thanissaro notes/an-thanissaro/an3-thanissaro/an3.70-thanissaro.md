@@ -15,7 +15,7 @@ language: "English"
 ## ## Mūla Sutta
 
 
-“Monks, there are these three roots of what is unskillful. Which three? Greed is a root of what is unskillful, aversion is a root of what is unskillful, delusion is a root of what is unskillful.
+“bhikkhus, there are these three roots of what is unskillful. Which three? Greed is a root of what is unskillful, aversion is a root of what is unskillful, delusion is a root of what is unskillful.
 
 “Greed itself is unskillful. Whatever a greedy person fabricates by means of body, speech, or intellect, that too is unskillful. Whatever suffering a greedy person—his mind overcome with greed, his mind consumed—wrongly inflicts on another person through beating or imprisonment or confiscation or placing blame or banishment, (with the thought,) ‘I have power. I want power,’ that too is unskillful. Thus it is that many evil, unskillful qualities/events—born of greed, caused by greed, originated through greed, conditioned by greed—come into play.
 

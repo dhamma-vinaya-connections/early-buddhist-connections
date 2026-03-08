@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 15. Anomiya
 
-1. Thus I have heard: One time, the Buddha was staying in the land of Anomiya of Maineya. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying in the land of Anomiya of Maineya. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 #### Why Sunakṣatra Returned to the Lay Life
 

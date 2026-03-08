@@ -32,7 +32,7 @@ language: "Pali - English"
 
 4Being pressured by Upananda, that merchant’s son gave him one of his wraps and left. People asked him why he was walking around in only one wrap, and he told them what had happened. People complained and criticized him, “These Sakyan monastics have great desires. They’re not content. Even to make them an appropriate offer isn’t easy. How could they take his wrap when the merchant’s son was making an appropriate offer?”
 
-5The monks heard the complaints of those people, and the monks of few desires complained and criticized Upananda, “How could Venerable Upananda ask the merchant’s son for a robe?”
+5The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized Upananda, “How could Venerable Upananda ask the merchant’s son for a robe?”
 
 6After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Upananda: “Is it true, Upananda, that you did this?”
 
@@ -44,33 +44,33 @@ language: "Pali - English"
 “No.”
 
 
-“Foolish man, people who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“Foolish man, people who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 7‘If a monk asks an unrelated male or female householder for a robe, he commits an offense entailing relinquishment and confession.’”
 
-8In this way the Buddha laid down this training rule for the monks.
+8In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-9Soon afterwards a number of monks who were traveling from Sāketa to Sāvatthī were robbed by bandits. Knowing that the Buddha had laid down this training rule and being afraid of wrongdoing, they did not ask for robes. As a consequence, they walked naked to Sāvatthī, where they bowed down to the monks. The monks there said:
+9Soon afterwards a number of bhikkhus who were traveling from Sāketa to Sāvatthī were robbed by bandits. Knowing that the Buddha had laid down this training rule and being afraid of wrongdoing, they did not ask for robes. As a consequence, they walked naked to Sāvatthī, where they bowed down to the bhikkhus. The bhikkhus there said:
 
 
-“These Ājīvaka ascetics are good people, seeing as they bow down to the monks.”
+“These Ājīvaka ascetics are good people, seeing as they bow down to the bhikkhus.”
 
-“We’re not Ājīvakas! We’re monks!”
-
-
-The monks asked Venerable Upāli to examine them.
-
-When the naked monks told him what had happened, Upāli said to the monks, “They are monks. Please give them robes.”
-
-The monks of few desires complained and criticized them, “How can monks go naked? Shouldn’t they have covered up with grass and leaves?”
+“We’re not Ājīvakas! We’re bhikkhus!”
 
 
-10After rebuking those monks in many ways, they told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+The bhikkhus asked Venerable Upāli to examine them.
 
-“Monks, if a monk’s robes are stolen or lost, I allow him to ask an unrelated householder for robes. At the first monastery where he arrives, if the Sangha has a communal robe, a bedspread, a floor cover, or a mattress cover, he should take that and put it on, thinking, ‘When I get a robe, I’ll return it.’ If there’s none of these things, he should cover up with grass and leaves before going on. He should not go on while naked. If he does, he commits an offense of wrong conduct.
+When the naked bhikkhus told him what had happened, Upāli said to the bhikkhus, “They are bhikkhus. Please give them robes.”
 
-And so, monks, this training rule should be recited like this:
+The bhikkhus of few desires complained and criticized them, “How can bhikkhus go naked? Shouldn’t they have covered up with grass and leaves?”
+
+
+10After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
+
+“bhikkhus, if a monk’s robes are stolen or lost, I allow him to ask an unrelated householder for robes. At the first monastery where he arrives, if the Sangha has a communal robe, a bedspread, a floor cover, or a mattress cover, he should take that and put it on, thinking, ‘When I get a robe, I’ll return it.’ If there’s none of these things, he should cover up with grass and leaves before going on. He should not go on while naked. If he does, he commits an offense of wrong conduct.
+
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -101,7 +101,7 @@ And so, monks, this training rule should be recited like this:
 20If he asks, except on an appropriate occasion, then for the effort there is an act of wrong conduct. When he gets the robe-cloth, it becomes subject to relinquishment.
 
 
-The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1 verse 8]] with appropriate substitutions.
+The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1 verse 8]] with appropriate substitutions.
 
 
 ‘Venerables, this robe-cloth, which I received after asking an unrelated householder, but not on an appropriate occasion, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe-cloth back to you.’”

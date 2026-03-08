@@ -39,7 +39,7 @@ language: "English"
 
 This is called true _samādhi_.
 
-11. “Monks, a disciple on the path will accept this true path of eight kinds of practice. Practicing it as it has been explained, they can attain the path’s eight practices and enlightenment.
+11. “bhikkhus, a disciple on the path will accept this true path of eight kinds of practice. Practicing it as it has been explained, they can attain the path’s eight practices and enlightenment.
 
 12. “Someone of true view believes that generosity obtains merits in later worlds. They believe veneration when meeting an ascetic noble person makes the merits of veneration. They believe in sacrifices like hanging cloth, burning incense, scattering flowers, and lighting lamps. They believe in the natural merits of practicing the ten good [acts]. They believe in filial piety towards father and mother. They believe in the world’s noble people and delight in accepting the sutras. They believe in pursuing enlightenment by practicing the path. They believe true practice ends bad thinking. They believe true acquisition by not violating the precepts. In the present world or a later world, they attain their own sagacity, can instruct people to attain its realization, become accomplished people themselves, and cause others to accomplish it. This explanation of the attributes I stated is called knowing true view.
 

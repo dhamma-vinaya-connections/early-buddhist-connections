@@ -20,19 +20,19 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Kosambi, in Ghosita’s Monastery.
 
-Now at that time the mendicants of Kosambi were arguing, quarreling, and fighting, continually wounding each other with barbed words.
+Now at that time the bhikkhus of Kosambi were arguing, quarreling, and fighting, continually wounding each other with barbed words.
 
 
-Then a mendicant went up to the Buddha, bowed, stood to one side, and told him what was happening, adding: “Please, sir go to those mendicants out of compassion.” The Buddha consented in silence.
+Then a bhikkhu went up to the Buddha, bowed, stood to one side, and told him what was happening, adding: “Please, sir go to those bhikkhus out of compassion.” The Buddha consented in silence.
 
-Then the Buddha went up to those mendicants and said: “Enough, mendicants! Stop arguing, quarreling, and fighting.”
+Then the Buddha went up to those bhikkhus and said: “Enough, bhikkhus! Stop arguing, quarreling, and fighting.”
 
 
-2When he said this, one of the mendicants said to the Buddha: “Wait, sir! Let the Buddha, the Lord of the Dhamma, remain passive, dwelling in blissful meditation in the present life. We will be known for this arguing, quarreling, and fighting.”
+2When he said this, one of the bhikkhus said to the Buddha: “Wait, sir! Let the Buddha, the Lord of the Dhamma, remain passive, dwelling in blissful meditation in the present life. We will be known for this arguing, quarreling, and fighting.”
 
-For a second time … and a third time the Buddha said to those mendicants: “Enough, mendicants! Stop arguing, quarreling, and fighting.”
+For a second time … and a third time the Buddha said to those bhikkhus: “Enough, bhikkhus! Stop arguing, quarreling, and fighting.”
 
-For a third time that mendicant said to the Buddha: “Wait, sir! Let the Buddha, the Lord of the Dhamma, remain passive, dwelling in blissful meditation in the present life. We will be known for this arguing, quarreling, and fighting.”
+For a third time that bhikkhu said to the Buddha: “Wait, sir! Let the Buddha, the Lord of the Dhamma, remain passive, dwelling in blissful meditation in the present life. We will be known for this arguing, quarreling, and fighting.”
 
 
 3Then the Buddha put on his outer robe in the morning and, taking his bowl and robe, entered Kosambi for alms. After the meal, on his return from alms-round, he set his lodgings in order. Taking his bowl and robe, he recited these verses while standing right there:
@@ -92,7 +92,7 @@ at ease like a tusker in the wilds.”
 
 14After speaking these verses while standing, the Buddha went to the village of the child salt-miners, where Venerable Bhagu was staying at the time. Bhagu saw the Buddha coming off in the distance, so he spread out a seat and placed water for washing the feet. The Buddha sat on the seat spread out, and washed his feet. Bhagu bowed to the Buddha and sat down to one side.
 
-The Buddha said to him: “I hope you’re keeping well, mendicant; I hope you’re all right. And I hope you’re having no trouble getting alms-food.”
+The Buddha said to him: “I hope you’re keeping well, bhikkhu; I hope you’re all right. And I hope you’re having no trouble getting alms-food.”
 
 “I’m keeping well, sir; I’m all right. And I’m having no trouble getting alms-food.”
 

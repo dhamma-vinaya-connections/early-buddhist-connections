@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu. At that time the monks from the group of six had the nuns wash, dye, and comb wool. Because of this, the nuns neglected recitation, questioning, the higher morality, the higher mind, and the higher wisdom.
+1At one time the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu. At that time the bhikkhus from the group of six had the nuns wash, dye, and comb wool. Because of this, the nuns neglected recitation, questioning, the higher morality, the higher mind, and the higher wisdom.
 
 Mahāpajāpati Gotamī then went to the Buddha and bowed down to him. And the Buddha said to her, “Gotamī, I hope the nuns are heedful, energetic, and diligent?”
 
@@ -26,7 +26,7 @@ Mahāpajāpati Gotamī then went to the Buddha and bowed down to him. And the Bu
 2The Buddha then instructed, inspired, and gladdened her with a teaching. She bowed down, circumambulated him with her right side toward him, and left.
 
 
-3Soon afterwards the Buddha had the Sangha gathered and questioned the monks from the group of six: “Is it true, monks, that you do this?”
+3Soon afterwards the Buddha had the Sangha gathered and questioned the bhikkhus from the group of six: “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
@@ -36,7 +36,7 @@ Mahāpajāpati Gotamī then went to the Buddha and bowed down to him. And the Bu
 “No.”
 
 
-“Foolish men, people who are unrelated don’t know what’s appropriate and inappropriate, what’s inspiring and uninspiring, in dealing with each other. And still you do this. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“Foolish men, people who are unrelated don’t know what’s appropriate and inappropriate, what’s inspiring and uninspiring, in dealing with each other. And still you do this. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -53,7 +53,7 @@ Mahāpajāpati Gotamī then went to the Buddha and bowed down to him. And the Bu
 
 8If he tells her to wash it, he commits an offense of wrong conduct. When it has been washed, it becomes subject to relinquishment. If he tells her to dye it, he commits an offense of wrong conduct. When it has been dyed, it becomes subject to relinquishment. If he tells her to comb it, he commits an offense of wrong conduct. When it has been combed, it becomes subject to relinquishment.
 
-The wool should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. … To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The wool should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. … To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this wool, which I got washed by an unrelated nun, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this wool back to you.’”

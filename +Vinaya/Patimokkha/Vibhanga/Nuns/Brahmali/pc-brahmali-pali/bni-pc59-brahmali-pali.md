@@ -18,18 +18,18 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nuns did not enquire about the observance day nor ask for the instruction. The monks complained and criticized them, “How can the nuns not enquire about the observance day nor ask for the instruction?” …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nuns did not enquire about the observance day nor ask for the instruction. The bhikkhus complained and criticized them, “How can the nuns not enquire about the observance day nor ask for the instruction?” …
 
-“Is it true, monks, that the nuns don’t do this?”
+“Is it true, bhikkhus, that the nuns don’t do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns not do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns not do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
-2‘Every half-month a nun should seek two things from the Sangha of monks: asking it about the observance day and going to it for the instruction. If she lets the half-month pass, she commits an offense entailing confession.’”
+2‘Every half-month a nun should seek two things from the Sangha of bhikkhus: asking it about the observance day and going to it for the instruction. If she lets the half-month pass, she commits an offense entailing confession.’”
 
 #### Definitions
 

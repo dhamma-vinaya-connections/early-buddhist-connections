@@ -50,13 +50,13 @@ that wise one who has seen the truth,
 grieves not among the grieving
 
 > [!info] Key Excerpts 
-> For the mendicant with peaceful mind, 
+> For the bhikkhu with peaceful mind, 
 who has cut off craving for continued existence, 
 Transmigration through births is finished, 
 there are no future lives for them.
 > 
 > With mind at peace, so full of peace, 
-for a mendicant who has cut the cord, 
+for a bhikkhu who has cut the cord, 
 transmigration through births is finished: 
 they’re freed from Māra’s bonds.”
 > 

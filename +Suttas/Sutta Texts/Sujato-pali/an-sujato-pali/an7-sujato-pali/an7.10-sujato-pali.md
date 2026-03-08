@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these seven fetters. What seven? The fetters of attraction, repulsion, views, doubt, conceit, jealousy, and stinginess. These are the seven fetters.”
+1“bhikkhus, there are these seven fetters. What seven? The fetters of attraction, repulsion, views, doubt, conceit, jealousy, and stinginess. These are the seven fetters.”
 
 1"Sattimāni, bhikkhave, saṁyojanāni. Katamāni satta? Anunayasaṁyojanaṁ, paṭighasaṁyojanaṁ, diṭṭhisaṁyojanaṁ, vicikicchāsaṁyojanaṁ, mānasaṁyojanaṁ, issāsaṁyojanaṁ, macchariyasaṁyojanaṁ. Imāni kho, bhikkhave, satta saṁyojanānī"ti.
 

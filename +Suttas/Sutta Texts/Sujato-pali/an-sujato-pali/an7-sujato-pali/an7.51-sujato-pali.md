@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you an exposition of the teaching on the bound and the unbound. Listen and pay close attention, I will speak. … And what is the exposition of the teaching on the bound and the unbound?
+1“bhikkhus, I will teach you an exposition of the teaching on the bound and the unbound. Listen and pay close attention, I will speak. … And what is the exposition of the teaching on the bound and the unbound?
 
 2A woman focuses on her own femininity: her feminine moves, feminine appearance, feminine ways, feminine desires, feminine voice, and feminine adornment. She’s stimulated by this and takes pleasure in it. So she focuses on the masculinity of others: masculine moves, masculine appearance, masculine ways, masculine desires, masculine voice, and masculine adornment. She’s stimulated by this and takes pleasure in it. So she desires to bond with another. And she desires the pleasure and happiness that comes from such a bond. Sentient beings who are attached to their femininity are bound to men. This is how a woman does not transcend her femininity.
 

@@ -15,9 +15,9 @@ language: "English"
 ## ## Nibbedhika Sutta
 
 
-“Monks, I will teach you the penetrative explanation that is a Dhamma explanation. Listen & pay close attention. I will speak.”
+“bhikkhus, I will teach you the penetrative explanation that is a Dhamma explanation. Listen & pay close attention. I will speak.”
 
-“As you say, lord,” the monks responded to the Blessed One.
+“As you say, lord,” the bhikkhus responded to the Blessed One.
 
 The Blessed One said: “And which penetrative explanation is a Dhamma explanation?
 
@@ -59,7 +59,7 @@ subdue their desire.
 
 “And what is the result of sensuality? One who wants sensuality produces a corresponding state of existence, on the side of merit or demerit. This is called the result of sensuality.
 
-“And what is the cessation of sensuality? From the cessation of contact is the cessation of sensuality; and just this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi—is the way leading to the cessation of sensuality.
+“And what is the cessation of sensuality? From the cessation of contact is the cessation of sensuality; and just this ![[Noble Path]]—is the way leading to the cessation of sensuality.
 
 “Now when a disciple of the noble ones discerns sensuality in this way, the cause by which sensuality comes into play in this way, the diversity in sensuality in this way, the result of sensuality in this way, the cessation of sensuality in this way, & the path of practice leading to the cessation of sensuality in this way, then he discerns this penetrative holy life as the cessation of sensuality.
 
@@ -75,7 +75,7 @@ subdue their desire.
 
 “And what is the result of feeling? One who feels a feeling produces a corresponding state of existence, on the side of merit or demerit. This is called the result of feeling.
 
-“And what is the cessation of feeling? From the cessation of contact is the cessation of feeling; and just this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi—is the way leading to the cessation of feeling.
+“And what is the cessation of feeling? From the cessation of contact is the cessation of feeling; and just this ![[Noble Path]]—is the way leading to the cessation of feeling.
 
 “Now when a disciple of the noble ones discerns feeling in this way, the cause by which feeling comes into play in this way, the diversity in feeling in this way, the result of feeling in this way, the cessation of feeling in this way, & the path of practice leading to the cessation of feeling in this way, then he discerns this penetrative holy life as the cessation of feeling.
 
@@ -91,7 +91,7 @@ subdue their desire.
 
 “And what is the result of perception? Perception has expression as its result, I tell you. However a person perceives something, that is how he expresses it: ‘I have this sort of perception.’ This is called the result of perception.
 
-“And what is the cessation of perception? From the cessation of contact is the cessation of perception; and just this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi—is the way leading to the cessation of perception.
+“And what is the cessation of perception? From the cessation of contact is the cessation of perception; and just this ![[Noble Path]]—is the way leading to the cessation of perception.
 
 “Now when a disciple of the noble ones discerns perception in this way, the cause by which perception comes into play in this way, the diversity in perception in this way, the result of perception in this way, the cessation of perception in this way, & the path of practice leading to the cessation of perception in this way, then he discerns this penetrative holy life as the cessation of perception.
 
@@ -107,7 +107,7 @@ subdue their desire.
 
 “And what is the result of effluents? One who is immersed in ignorance produces a corresponding state of existence, on the side of merit or demerit. This is called the result of effluents.
 
-“And what is the cessation of effluents? From the cessation of ignorance is the cessation of effluents; and just this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi—is the way leading to the cessation of effluents.
+“And what is the cessation of effluents? From the cessation of ignorance is the cessation of effluents; and just this ![[Noble Path]]—is the way leading to the cessation of effluents.
 
 “Now when a disciple of the noble ones discerns effluents in this way, the cause by which effluents come into play in this way, the diversity in effluents in this way, the result of effluents in this way, the cessation of effluents in this way, & the path of practice leading to the cessation of effluents in this way, then he discerns this penetrative holy life as the cessation of effluents.
 
@@ -123,7 +123,7 @@ subdue their desire.
 
 “And what is the result of kamma? The result of kamma is of three sorts, I tell you: that which arises right here & now, that which arises later (in this lifetime), and that which arises following that. This is called the result of kamma.
 
-“And what is the cessation of kamma? From the cessation of contact is the cessation of kamma; and just this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi—is the way leading to the cessation of kamma.
+“And what is the cessation of kamma? From the cessation of contact is the cessation of kamma; and just this ![[Noble Path]]—is the way leading to the cessation of kamma.
 
 “Now when a disciple of the noble ones discerns kamma in this way, the cause by which kamma comes into play in this way, the diversity in kamma in this way, the result of kamma in this way, the cessation of kamma in this way, & the path of practice leading to the cessation of kamma in this way, then he discerns this penetrative holy life as the cessation of kamma.
 
@@ -137,9 +137,9 @@ subdue their desire.
 
 “And what is the diversity in stress? There is major stress & minor, slowly fading & quickly fading. This is called the diversity in stress.
 
-“And what is the result of stress? There are some cases in which a person overcome with pain, his mind exhausted, grieves, mourns, laments, beats his breast, & becomes bewildered. Or one overcome with pain, his mind exhausted, comes to search outside, ‘Who knows a way or two to the cessation of this pain?’ I tell you, monks, that stress results either in bewilderment or in search. This is called the result of stress.
+“And what is the result of stress? There are some cases in which a person overcome with pain, his mind exhausted, grieves, mourns, laments, beats his breast, & becomes bewildered. Or one overcome with pain, his mind exhausted, comes to search outside, ‘Who knows a way or two to the cessation of this pain?’ I tell you, bhikkhus, that stress results either in bewilderment or in search. This is called the result of stress.
 
-“And what is the cessation of stress? From the cessation of craving is the cessation of stress; and just this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi—is the path of practice leading to the cessation of stress.
+“And what is the cessation of stress? From the cessation of craving is the cessation of stress; and just this ![[Noble Path]]—is the path of practice leading to the cessation of stress.
 
 “Now when a disciple of the noble ones discerns stress in this way, the cause by which stress comes into play in this way, the diversity in stress in this way, the result of stress in this way, the cessation of stress in this way, & the path of practice leading to the cessation of stress in this way, then he discerns this penetrative holy life as the cessation of stress.
 

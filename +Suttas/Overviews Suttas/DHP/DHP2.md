@@ -55,7 +55,7 @@ pure of deed and attentive,
 restrained, living righteously, and diligent, 
 their reputation only grows
 > 
-> A mendicant who loves to be diligent, 
+> A bhikkhu who loves to be diligent, 
 seeing fear in negligence—
 advances like fire, 
 burning up fetters big and small

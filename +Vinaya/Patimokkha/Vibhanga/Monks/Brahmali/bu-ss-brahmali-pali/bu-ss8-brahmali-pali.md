@@ -31,7 +31,7 @@ In the evening Dabba came out of seclusion and went to the Buddha. He bowed, sat
 “Yes.”
 
 
-3Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, the Sangha should appoint Dabba the Mallian as the assigner of dwellings and the designator of meals. And he should be appointed like this. First Dabba should be asked. A competent and capable monk should then inform the Sangha:
+3Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “bhikkhus, the Sangha should appoint Dabba the Mallian as the assigner of dwellings and the designator of meals. And he should be appointed like this. First Dabba should be asked. A competent and capable monk should then inform the Sangha:
 
 4‘Please, Venerables, I ask the Sangha to listen. If it seems appropriate to the Sangha, it should appoint Venerable Dabba the Mallian as assigner of dwellings and designator of meals. This is the motion.
 
@@ -40,9 +40,9 @@ In the evening Dabba came out of seclusion and went to the Buddha. He bowed, sat
 6The Sangha has appointed Venerable Dabba the Mallian as assigner of dwellings and designator of meals. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
 
-7Dabba assigned dwellings to the monks according to their character. He assigned dwellings in the same place to those monks who were experts on the discourses, thinking, “They’ll recite the discourses to one another.” And he did likewise for the experts on the Monastic Law, thinking, “They’ll discuss the Monastic Law;” for the expounders of the Teaching, thinking, “They’ll discuss the Teaching;” for the meditators, thinking, “They won’t disturb each other;” and for the gossips and the body-builders, thinking, “In this way even these venerables will be happy.”
+7Dabba assigned dwellings to the bhikkhus according to their character. He assigned dwellings in the same place to those bhikkhus who were experts on the discourses, thinking, “They’ll recite the discourses to one another.” And he did likewise for the experts on the Monastic Law, thinking, “They’ll discuss the Monastic Law;” for the expounders of the Teaching, thinking, “They’ll discuss the Teaching;” for the meditators, thinking, “They won’t disturb each other;” and for the gossips and the body-builders, thinking, “In this way even these venerables will be happy.”
 
-When monks arrived at night, he entered the fire element and assigned dwellings with the help of that light. Monks even arrived late on purpose, hoping to see the marvel of Dabba’s supernormal powers.
+When bhikkhus arrived at night, he entered the fire element and assigned dwellings with the help of that light. bhikkhus even arrived late on purpose, hoping to see the marvel of Dabba’s supernormal powers.
 
 8They would approach Dabba and say, “Venerable Dabba, please assign us a dwelling.”
 
@@ -50,31 +50,31 @@ When monks arrived at night, he entered the fire element and assigned dwellings 
 
 They would intentionally suggest somewhere far away: “On the Vulture Peak,” “At Robbers’ Cliff,” “On Black Rock on the slope of Mount Isigili,” “In the Sattapaṇṇi Cave on the slope of Mount Vebhāra,” “In Cool Grove on the hill at the Snake’s Pool,” “At Gotamaka Gorge,” “At Tinduka Gorge,” “At Tapoda Gorge,” “In Tapoda Park,” “In Jīvaka’s Mango Grove,” “In the deer park at Maddakucchi.”
 
-9Dabba then entered the fire element, and with his finger glowing, he walked in front of those monks. They followed behind him with the help of that light. And he would assign them dwellings: “This is the bed, this the bench, this the mattress, this the pillow, this the place for defecating, this the place for urinating, this the water for drinking, this the water for washing, this the walking stick; these are the Sangha’s agreements concerning the right time to enter and the right time to leave.” Dabba then returned to the Bamboo Grove.
+9Dabba then entered the fire element, and with his finger glowing, he walked in front of those bhikkhus. They followed behind him with the help of that light. And he would assign them dwellings: “This is the bed, this the bench, this the mattress, this the pillow, this the place for defecating, this the place for urinating, this the water for drinking, this the water for washing, this the walking stick; these are the Sangha’s agreements concerning the right time to enter and the right time to leave.” Dabba then returned to the Bamboo Grove.
 
-10At that time the monks Mettiya and Bhūmajaka were only newly ordained. They had little merit, getting inferior dwellings and meals. The people of Rājagaha were keen to give specially prepared almsfood to the senior monks—ghee, oil, and special curries—but to the monks Mettiya and Bhūmajaka they gave ordinary food of porridge and broken rice.
+10At that time the bhikkhus Mettiya and Bhūmajaka were only newly ordained. They had little merit, getting inferior dwellings and meals. The people of Rājagaha were keen to give specially prepared almsfood to the senior bhikkhus—ghee, oil, and special curries—but to the bhikkhus Mettiya and Bhūmajaka they gave ordinary food of porridge and broken rice.
 
-When they had eaten their meal and returned from alms round, they asked the senior monks: “What did you get at the dining hall?”
+When they had eaten their meal and returned from alms round, they asked the senior bhikkhus: “What did you get at the dining hall?”
 
 Some said, “We got ghee, oil, and special curries.”
 
-But the monks Mettiya and Bhūmajaka said: “We didn’t get anything except ordinary food of porridge and broken rice.”
+But the bhikkhus Mettiya and Bhūmajaka said: “We didn’t get anything except ordinary food of porridge and broken rice.”
 
 
-11At that time there was a householder who gave a regular meal of fine food to four monks. He made his offering in the dining hall together with his wives and children. Some of them offered rice, some bean curry, some oil, and some special curries.
+11At that time there was a householder who gave a regular meal of fine food to four bhikkhus. He made his offering in the dining hall together with his wives and children. Some of them offered rice, some bean curry, some oil, and some special curries.
 
-On one occasion the meal to be given by this householder on the following day had been designated to the monks Mettiya and Bhūmajaka. Just then that householder went to the monastery on some business. He approached Dabba, bowed, and sat down. And Dabba instructed, inspired, and gladdened him with a teaching. After the talk, he asked Dabba, “Sir, who has been designated to receive tomorrow’s meal in our house?”
+On one occasion the meal to be given by this householder on the following day had been designated to the bhikkhus Mettiya and Bhūmajaka. Just then that householder went to the monastery on some business. He approached Dabba, bowed, and sat down. And Dabba instructed, inspired, and gladdened him with a teaching. After the talk, he asked Dabba, “Sir, who has been designated to receive tomorrow’s meal in our house?”
 
 
 “Mettiya and Bhūmajaka.”
 
 
-He was disappointed, and thought, “Why should bad monks eat in our house?” After returning to his house, he told a female slave, “For those who are coming for tomorrow’s meal, prepare seats in the gatehouse and serve them broken rice and porridge.”
+He was disappointed, and thought, “Why should bad bhikkhus eat in our house?” After returning to his house, he told a female slave, “For those who are coming for tomorrow’s meal, prepare seats in the gatehouse and serve them broken rice and porridge.”
 
 “Yes, sir.”
 
 
-12The monks Mettiya and Bhūmajaka said to each other, “Yesterday we were designated a meal from that householder who offers fine food. Tomorrow he’ll serve us together with his wives and children. Some of them will offer us rice, some bean curry, some oil, and some special curries.” And because they were excited, they did not sleep properly that night.
+12The bhikkhus Mettiya and Bhūmajaka said to each other, “Yesterday we were designated a meal from that householder who offers fine food. Tomorrow he’ll serve us together with his wives and children. Some of them will offer us rice, some bean curry, some oil, and some special curries.” And because they were excited, they did not sleep properly that night.
 
 13The following morning they robed up, took their bowls and robes, and went to the house of that householder. When the female slave saw them coming, she prepared seats in the gatehouse and said to them, “Please sit, Venerables.”
 
@@ -120,23 +120,23 @@ A second and a third time the Buddha asked the same question and got the same re
 “Since I was born, Sir, I don’t recall having sexual intercourse even in a dream, let alone when awake.”
 
 
-The Buddha addressed the monks: “Well then, monks, expel the nun Mettiyā, and call these monks to account.” The Buddha then got up from his seat and entered his dwelling.
+The Buddha addressed the bhikkhus: “Well then, bhikkhus, expel the nun Mettiyā, and call these bhikkhus to account.” The Buddha then got up from his seat and entered his dwelling.
 
-16When the monks had expelled the nun Mettiyā, the monks Mettiya and Bhūmajaka said to them, “Don’t expel the nun Mettiyā; she’s done nothing wrong. She was urged on by us. We were angry and displeased, and trying to get Dabba to leave the monastic life.”
+16When the bhikkhus had expelled the nun Mettiyā, the bhikkhus Mettiya and Bhūmajaka said to them, “Don’t expel the nun Mettiyā; she’s done nothing wrong. She was urged on by us. We were angry and displeased, and trying to get Dabba to leave the monastic life.”
 
 “But did you groundlessly charge Venerable Dabba with an offense entailing expulsion?”
 
 “Yes.”
 
-The monks of few desires complained and criticized them, “How could the monks Mettiya and Bhūmajaka groundlessly charge Venerable Dabba with an offense entailing expulsion?”
+The bhikkhus of few desires complained and criticized them, “How could the bhikkhus Mettiya and Bhūmajaka groundlessly charge Venerable Dabba with an offense entailing expulsion?”
 
-17They rebuked those monks in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned those monks:
+17They rebuked those bhikkhus in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned those bhikkhus:
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

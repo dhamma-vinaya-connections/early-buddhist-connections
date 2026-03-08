@@ -158,7 +158,7 @@ he’s a contemplative
 
 a brahman
 
-a monk.
+a bhikkhu.
 
 ### Verse 141-142
 

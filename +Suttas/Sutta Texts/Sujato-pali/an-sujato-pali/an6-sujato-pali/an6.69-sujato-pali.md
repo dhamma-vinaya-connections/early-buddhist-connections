@@ -22,26 +22,26 @@ language: "English - Pali"
 
 1Then, late at night, a glorious deity, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and said to him:
 
-“Sir, these six things don’t lead to the decline of a mendicant. What six? Respect for the Teacher, for the teaching, for the Saṅgha, for the training; being easy to admonish, and good friendship. These six things don’t lead to the decline of a mendicant.”
+“Sir, these six things don’t lead to the decline of a bhikkhu. What six? Respect for the Teacher, for the teaching, for the Saṅgha, for the training; being easy to admonish, and good friendship. These six things don’t lead to the decline of a bhikkhu.”
 
 That’s what that deity said, and the teacher approved. Then that deity, knowing that the teacher approved, bowed, and respectfully circled the Buddha, keeping him on his right, before vanishing right there.
 
 
-2Then, when the night had passed, the Buddha addressed the mendicants:
+2Then, when the night had passed, the Buddha addressed the bhikkhus:
 
-“Tonight, a glorious deity, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and said to me: ‘Sir, these six things don’t lead to the decline of a mendicant. What six? Respect for the Teacher, for the teaching, for the Saṅgha, for the training; being easy to admonish, and good friendship. These six things don’t lead to the decline of a mendicant.’
+“Tonight, a glorious deity, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and said to me: ‘Sir, these six things don’t lead to the decline of a bhikkhu. What six? Respect for the Teacher, for the teaching, for the Saṅgha, for the training; being easy to admonish, and good friendship. These six things don’t lead to the decline of a bhikkhu.’
 
 That is what that deity said. Then he bowed and respectfully circled me, keeping me on his right side, before vanishing right there.”
 
 
 3When he said this, Venerable Sāriputta said to the Buddha:
 
-“Sir, this is how I understand the detailed meaning of the Buddha’s brief statement. It’s when a mendicant personally respects the Teacher and praises such respect. And they encourage other mendicants who lack such respect to respect the Teacher. And they praise other mendicants who respect the Teacher at the right time, truthfully and substantively. They personally respect the teaching … They personally respect the Saṅgha … They personally respect the training … They are personally easy to admonish … They personally have good friends, and praise such friendship. And they encourage other mendicants who lack good friends to develop good friendship. And they praise other mendicants who have good friends at the right time, truthfully and substantively. That’s how I understand the detailed meaning of the Buddha’s brief statement.”
+“Sir, this is how I understand the detailed meaning of the Buddha’s brief statement. It’s when a bhikkhu personally respects the Teacher and praises such respect. And they encourage other bhikkhus who lack such respect to respect the Teacher. And they praise other bhikkhus who respect the Teacher at the right time, truthfully and substantively. They personally respect the teaching … They personally respect the Saṅgha … They personally respect the training … They are personally easy to admonish … They personally have good friends, and praise such friendship. And they encourage other bhikkhus who lack good friends to develop good friendship. And they praise other bhikkhus who have good friends at the right time, truthfully and substantively. That’s how I understand the detailed meaning of the Buddha’s brief statement.”
 
 
 4“Good, good, Sāriputta! It’s good that you understand the detailed meaning of what I’ve said in brief like this.
 
-It’s when a mendicant personally respects the Teacher … They personally respect the teaching … They personally respect the Saṅgha … They personally respect the training … They are personally easy to admonish … They personally have good friends, and praise such friendship. And they encourage other mendicants who lack good friends to develop good friendship. And they praise other mendicants who have good friends at the right time, truthfully and substantively. This is how to understand the detailed meaning of what I said in brief.”
+It’s when a bhikkhu personally respects the Teacher … They personally respect the teaching … They personally respect the Saṅgha … They personally respect the training … They are personally easy to admonish … They personally have good friends, and praise such friendship. And they encourage other bhikkhus who lack good friends to develop good friendship. And they praise other bhikkhus who have good friends at the right time, truthfully and substantively. This is how to understand the detailed meaning of what I said in brief.”
 
 #### Pali
 

@@ -26,7 +26,7 @@ The Gracious One saw venerable Mahāmoggallāna was sitting not far away, after 
 
 3"Attending to mindfulness related to the body,  
 Restrained in regard to the six spheres of contact,  
-The monk who is continually collected,  
+The bhikkhu who is continually collected,  
 Can know nibbāna for himself."
 
 1Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā mahāmoggallāno bhagavato avidūre nisinno hoti pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya kāyagatāya satiyā ajjhattaṁ sūpaṭṭhitāya.

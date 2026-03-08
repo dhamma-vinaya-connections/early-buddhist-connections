@@ -17,7 +17,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying in the land of the Sakyans, near Kapilavatthu in the Great Wood, together with a large Saṅgha of around five hundred mendicants, all of whom were perfected ones. And most of the deities from ten solar systems had gathered to see the Buddha and the Saṅgha of mendicants.
+1So I have heard. At one time the Buddha was staying in the land of the Sakyans, near Kapilavatthu in the Great Wood, together with a large Saṅgha of around five hundred bhikkhus, all of whom were perfected ones. And most of the deities from ten solar systems had gathered to see the Buddha and the Saṅgha of bhikkhus.
 
 Then four deities of the Pure Abodes, aware of what was happening, thought: “Why don’t we go to the Buddha and each recite a verse in his presence?”
 
@@ -31,7 +31,7 @@ to see the invincible Saṅgha!”
 
 3Then another deity recited this verse in the Buddha’s presence:
 
-4“The mendicants there are immersed in samādhi,  
+4“The bhikkhus there are immersed in samādhi,  
 they’ve straightened out their own minds.  
 Like a charioteer who has taken the reins,  
 the astute ones protect their senses.”
@@ -52,9 +52,9 @@ they swell the hosts of gods.”
 
 #### 1. The Gathering of Deities
 
-9Then the Buddha said to the mendicants:
+9Then the Buddha said to the bhikkhus:
 
-“Mendicants, most of the deities from ten solar systems have gathered to see the Realized One and the mendicant Saṅgha. The Buddhas of the past had, and the Buddhas of the future will have, gatherings of deities that are at most like the gathering for me now.
+“bhikkhus, most of the deities from ten solar systems have gathered to see the Realized One and the bhikkhu Saṅgha. The Buddhas of the past had, and the Buddhas of the future will have, gatherings of deities that are at most like the gathering for me now.
 
 10I shall declare the names of the heavenly hosts; I shall extol the names of the heavenly hosts; I shall teach the names of the heavenly hosts. Listen and pay close attention, I will speak.”
 
@@ -79,8 +79,8 @@ Therefore he addressed
 the disciples who love the teaching:
 
 14“The heavenly hosts have come forth;  
-mendicants, you should be aware of them.”  
-Those monks became keen,  
+bhikkhus, you should be aware of them.”  
+Those bhikkhus became keen,  
 hearing the Buddha’s instruction.
 
 
@@ -100,7 +100,7 @@ Therefore he addressed
 the disciples who love the teaching:
 
 18“The heavenly hosts have come forth;  
-mendicants, you should be aware of them.  
+bhikkhus, you should be aware of them.  
 I shall extol them for you,  
 with lyrics in proper order.
 
@@ -109,7 +109,7 @@ earth-gods of Kapilavatthu.
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 
 20From the Himalayas there are six thousand  
@@ -117,28 +117,28 @@ spirits of different colors.
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 21From Sātāgira there are three thousand  
 spirits of different colors.  
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 22And thus there are sixteen thousand  
 spirits of different colors.  
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 23From Vessamittā there are five hundred  
 spirits of different colors.  
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 24And there’s Kumbhīra of Rājagaha,  
 whose home is on Mount Vepulla.  
@@ -158,7 +158,7 @@ all of them named Inda.
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 27King Virūḷha rules  
 the southern quarter.  
@@ -170,7 +170,7 @@ all of them named Inda.
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 29King Virūpakkha rules  
 the western quarter.  
@@ -183,7 +183,7 @@ all of them named Inda.
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 31King Kuvera rules  
 the northern quarter.  
@@ -195,7 +195,7 @@ all of them named Inda.
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 33Dhataraṭṭha in the east,  
 Virūḷhaka to the south,  
@@ -226,7 +226,7 @@ Timbaru, and Suriyavaccasā.
 38These and other kings there were,  
 the fairies with their kings.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 39Then came dragons from Nābhasa,  
 and Vesālī, with the Tacchakas.  
@@ -265,7 +265,7 @@ all named after Veroca.
 Bali’s army armed themselves  
 and went up to the auspicious Rāhu, saying:  
 ‘Now is the time, sir,  
-for the meeting of mendicants in the wood.’
+for the meeting of bhikkhus in the wood.’
 
 46The gods of Water and Earth,  
 and Fire and Wind came there.  
@@ -280,7 +280,7 @@ shone in all different colors.
 48They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 49The Veṇhu and Sahali gods,  
 and Asama, and the twin Yamas came.  
@@ -301,7 +301,7 @@ shone in all different colors.
 52They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 53Then came the Sahabhū gods,  
 blazing like a crested flame;  
@@ -319,7 +319,7 @@ shone in all different colors.
 55They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 56The Samānas, Mahāsamānas,  
 Mānusas, and Mānusuttamas all came,  
@@ -336,7 +336,7 @@ shone in all different colors.
 58They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 59The Sukkas, Karumhas, and Aruṇas  
 came along with the Veghanasas.  
@@ -354,7 +354,7 @@ shone in all different colors.
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 62The Khemiyas, Tusitas, Yāmas,  
 and the glorious Kaṭṭhakas came;  
@@ -369,7 +369,7 @@ shone in all different colors.
 They’re powerful and brilliant,  
 so beautiful and glorious.  
 Rejoicing, they’ve come forth  
-to the meeting of mendicants in the wood.
+to the meeting of bhikkhus in the wood.
 
 
 65These sixty hosts of gods  
@@ -424,8 +424,8 @@ Therefore he addressed
 the disciples who love the teaching:
 
 75“Māra’s army has arrived;  
-mendicants, you should be aware of them.”  
-Those monks became keen,  
+bhikkhus, you should be aware of them.”  
+Those bhikkhus became keen,  
 hearing the Buddha’s instruction.  
 The army fled from those free of passion,  
 and not a single hair was stirred!

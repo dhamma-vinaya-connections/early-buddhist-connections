@@ -22,9 +22,9 @@ language: "English - Pali"
 
 1At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Now at that time Veḷukaṇṭakī, Nanda’s mother, was preparing a religious donation for the mendicant Saṅgha headed by Sāriputta and Moggallāna. The Buddha saw her doing this, with his clairvoyance that is purified and superhuman, and he addressed the mendicants:
+Now at that time Veḷukaṇṭakī, Nanda’s mother, was preparing a religious donation for the bhikkhu Saṅgha headed by Sāriputta and Moggallāna. The Buddha saw her doing this, with his clairvoyance that is purified and superhuman, and he addressed the bhikkhus:
 
-“This Veḷukaṇṭakī, Nanda’s mother, is preparing a religious donation for the mendicant Saṅgha headed by Sāriputta and Moggallāna.
+“This Veḷukaṇṭakī, Nanda’s mother, is preparing a religious donation for the bhikkhu Saṅgha headed by Sāriputta and Moggallāna.
 
 
 2And how does a religious donation have six factors? Three factors apply to the donor and three to the recipients.

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, parents see five reasons to wish for the birth of a child in the family. What five? Since we looked after them, they’ll look after us. They’ll do their duty for us. The family traditions will last. They’ll take care of the inheritance. Or else when we have passed away they’ll give an offering on our behalf. Parents see these five reasons to wish for the birth of a child in the family.
+1“bhikkhus, parents see five reasons to wish for the birth of a child in the family. What five? Since we looked after them, they’ll look after us. They’ll do their duty for us. The family traditions will last. They’ll take care of the inheritance. Or else when we have passed away they’ll give an offering on our behalf. Parents see these five reasons to wish for the birth of a child in the family.
 
 
 2Seeing five reasons,  

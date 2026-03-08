@@ -26,12 +26,12 @@ Soon afterwards that brahmin said this to his neighbors, “I have satisfied the
 
 That brahmin complained and criticized those nuns, “How could they eat in our house and afterwards eat elsewhere? Am I not able to give them as much as they want?”
 
-2The nuns heard the complaints of that brahmin, and the nuns of few desires complained and criticized them, “How could nuns finish their meal, refuse an invitation to eat more, and then eat elsewhere?” … “Is it true, monks, that nuns did this?”
+2The nuns heard the complaints of that brahmin, and the nuns of few desires complained and criticized them, “How could nuns finish their meal, refuse an invitation to eat more, and then eat elsewhere?” … “Is it true, bhikkhus, that nuns did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could nuns act in this way? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How could nuns act in this way? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

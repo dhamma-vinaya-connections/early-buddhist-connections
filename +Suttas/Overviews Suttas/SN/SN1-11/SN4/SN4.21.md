@@ -44,7 +44,7 @@ parallels_partilal: "[[SA1099]], [[DHP\|DHP186-187]], [[JA258]], [[SN4.20]], [[P
 ## 🌐 Overview
 
 > [!info] Summary
-> Māra approaches some young mendicants as an old brahmin, and tries to tempt them with talk of the pleasures of youth
+> Māra approaches some young bhikkhus as an old brahmin, and tries to tempt them with talk of the pleasures of youth
 
 > [!info] Key Excerpts 
 > How could a person incline to sensual pleasures

@@ -12,9 +12,9 @@ language: "English"
 
 # Itivuttaka 17
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, with regard to external factors, I don’t envision any other single factor like friendship with admirable people[1](#^iti17note01) as doing so much for a monk in training, who has not attained the heart’s aspiration but remains intent on the unsurpassed safety from bondage. A monk who is a friend with admirable people abandons what is unskillful and develops what is skillful.” ^iti17note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, with regard to external factors, I don’t envision any other single factor like friendship with admirable people[1](#^iti17note01) as doing so much for a bhikkhu in training, who has not attained the heart’s aspiration but remains intent on the unsurpassed safety from bondage. A bhikkhu who is a friend with admirable people abandons what is unskillful and develops what is skillful.” ^iti17note01-ref
 
-A monk who’s a friend
+A bhikkhu who’s a friend
 
 to admirable people
 
@@ -30,7 +30,7 @@ the ending of all fetters.
 
 Note
 
-1. In [[sn45.2-thanissaro]] the Buddha says, “Having admirable people _(kalyāṇa-mitta)_ as friends, companions, and colleagues is actually the whole of the holy life. When a monk has admirable people as friends, companions, and colleagues, he may be expected to develop and pursue the noble eightfold path.… It’s in dependence on me as an admirable friend that beings subject to birth have gained release from birth… aging… death… sorrow, lamentation, pain, distress, and despair.”
+1. In [[sn45.2-thanissaro]] the Buddha says, “Having admirable people _(kalyāṇa-mitta)_ as friends, companions, and colleagues is actually the whole of the holy life. When a bhikkhu has admirable people as friends, companions, and colleagues, he may be expected to develop and pursue the noble eightfold path.… It’s in dependence on me as an admirable friend that beings subject to birth have gained release from birth… aging… death… sorrow, lamentation, pain, distress, and despair.”
 
 See also: [[an5.180-thanissaro]]; [[an9.1-thanissaro]]; [§76](iti76.html); [[ud4.1-thanissaro]]
 

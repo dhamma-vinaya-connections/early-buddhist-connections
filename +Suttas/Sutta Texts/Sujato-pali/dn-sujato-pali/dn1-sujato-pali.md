@@ -17,22 +17,22 @@ language: "English - Pali"
 ### 1. Talk on Wanderers
 #### B. Sujato
 
-1So I have heard. At one time the Buddha was traveling along the road between Rājagaha and Nālanda together with a large Saṅgha of around five hundred mendicants. The wanderer Suppiya was also traveling along the same road, together with his pupil, the brahmin student Brahmadatta. Meanwhile, Suppiya criticized the Buddha, the teaching, and the Saṅgha in many ways, but his pupil Brahmadatta praised them in many ways. And so both teacher and pupil followed behind the Buddha and the Saṅgha of mendicants directly contradicting each other.
+1So I have heard. At one time the Buddha was traveling along the road between Rājagaha and Nālanda together with a large Saṅgha of around five hundred bhikkhus. The wanderer Suppiya was also traveling along the same road, together with his pupil, the brahmin student Brahmadatta. Meanwhile, Suppiya criticized the Buddha, the teaching, and the Saṅgha in many ways, but his pupil Brahmadatta praised them in many ways. And so both teacher and pupil followed behind the Buddha and the Saṅgha of bhikkhus directly contradicting each other.
 
-2Then the Buddha took up residence for the night in the royal rest-house in Ambalaṭṭhikā together with the Saṅgha of mendicants. And Suppiya and Brahmadatta did likewise. There too, Suppiya criticized the Buddha, the teaching, and the Saṅgha in many ways, but his pupil Brahmadatta praised them in many ways. And so both teacher and pupil kept on directly contradicting each other.
-
-
-3Then several mendicants rose at the crack of dawn and sat together in the pavilion, where the topic of evaluation came up:
-
-“It’s incredible, reverends, it’s amazing how the diverse attitudes of sentient beings have been clearly comprehended by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha. For this Suppiya criticizes the Buddha, the teaching, and the Saṅgha in many ways, while his pupil Brahmadatta praises them in many ways. And so both teacher and pupil followed behind the Buddha and the Saṅgha of mendicants directly contradicting each other.”
+2Then the Buddha took up residence for the night in the royal rest-house in Ambalaṭṭhikā together with the Saṅgha of bhikkhus. And Suppiya and Brahmadatta did likewise. There too, Suppiya criticized the Buddha, the teaching, and the Saṅgha in many ways, but his pupil Brahmadatta praised them in many ways. And so both teacher and pupil kept on directly contradicting each other.
 
 
-4When the Buddha found out about this discussion on evaluation among the mendicants, he went to the pavilion, where he sat on the seat spread out and addressed the mendicants: “Mendicants, what were you sitting talking about just now? What conversation was left unfinished?”
+3Then several bhikkhus rose at the crack of dawn and sat together in the pavilion, where the topic of evaluation came up:
 
-The mendicants told him what had happened, adding: “This was our conversation that was unfinished when the Buddha arrived.”
+“It’s incredible, reverends, it’s amazing how the diverse attitudes of sentient beings have been clearly comprehended by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha. For this Suppiya criticizes the Buddha, the teaching, and the Saṅgha in many ways, while his pupil Brahmadatta praises them in many ways. And so both teacher and pupil followed behind the Buddha and the Saṅgha of bhikkhus directly contradicting each other.”
 
 
-5“Mendicants, if others criticize me, the teaching, or the Saṅgha, don’t make yourselves resentful, bitter, and exasperated. You’ll get angry and upset, which would be an obstacle for you alone. If others were to criticize me, the teaching, or the Saṅgha, and you got angry and upset, would you be able to understand whether they spoke well or poorly?”
+4When the Buddha found out about this discussion on evaluation among the bhikkhus, he went to the pavilion, where he sat on the seat spread out and addressed the bhikkhus: “bhikkhus, what were you sitting talking about just now? What conversation was left unfinished?”
+
+The bhikkhus told him what had happened, adding: “This was our conversation that was unfinished when the Buddha arrived.”
+
+
+5“bhikkhus, if others criticize me, the teaching, or the Saṅgha, don’t make yourselves resentful, bitter, and exasperated. You’ll get angry and upset, which would be an obstacle for you alone. If others were to criticize me, the teaching, or the Saṅgha, and you got angry and upset, would you be able to understand whether they spoke well or poorly?”
 
 “No, sir.”
 
@@ -581,7 +581,7 @@ This is the second ground on which some ascetics and brahmins rely to assert tha
 
 #### 5. The End of the Round
 
-212When a mendicant truly understands the six fields of contacts’ origin, ending, gratification, drawback, and escape, they understand what lies beyond all these things.
+212When a bhikkhu truly understands the six fields of contacts’ origin, ending, gratification, drawback, and escape, they understand what lies beyond all these things.
 
 213All of these ascetics and brahmins who theorize about the past or the future are trapped in the net of these sixty-two grounds, so that wherever they emerge they are caught and trapped in this very net.
 
@@ -596,7 +596,7 @@ This is the second ground on which some ascetics and brahmins rely to assert tha
 
 “Well, then, Ānanda, you may remember this exposition of the teaching as ‘The Net of Meaning’, or else ‘The Net of the Teaching’, or else ‘The Prime Net’, or else ‘The Net of Views’, or else ‘The Supreme Victory in Battle’.”
 
-218That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said. And while this discourse was being spoken, the galaxy shook.
+218That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said. And while this discourse was being spoken, the galaxy shook.
 
 #### 1. Paribbājakakathā
 

@@ -41,7 +41,7 @@ language: "Pali"
 
 141Neither going about naked, nor matted locks, nor filth, nor fasting, nor lying on the ground, nor smearing oneself with ashes and dust, nor sitting on the heels (in penance) can purify a mortal who has not overcome doubt.
 
-142Even though he be well-attired, yet if he is poised, calm, controlled and established in the holy life, having set aside violence towards all beings—he, truly, is a holy man, a renunciate, a monk.
+142Even though he be well-attired, yet if he is poised, calm, controlled and established in the holy life, having set aside violence towards all beings—he, truly, is a holy man, a renunciate, a bhikkhu.
 
 143Only rarely is there a man in this world who, restrained by modesty, avoids reproach, as a thoroughbred horse avoids the whip.
 

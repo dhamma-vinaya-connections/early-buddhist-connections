@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.3.1.1* *BD.3.248* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time two nuns, tormented by dissatisfaction, having entered an inner room, slapped with the palms of the hands. Nuns, having run up at the sound of this noise, spoke thus to these nuns: “Why do you, ladies, misbehave with a man?” Saying: “Ladies, we are not misbehaving with a man,” they told this matter to the nuns. Those who were modest nuns … spread it about, saying: “How can these nuns slap with the palms of the hands?” …
 
-“Is it true, as is said, monks, that nuns slapped with the palms of the hands?”
+“Is it true, as is said, bhikkhus, that nuns slapped with the palms of the hands?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns slap with the palms of the hands? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns slap with the palms of the hands? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “In slapping with the palms of the hands, there is an offence of expiation.”[^1] *Vin.4.261*
 

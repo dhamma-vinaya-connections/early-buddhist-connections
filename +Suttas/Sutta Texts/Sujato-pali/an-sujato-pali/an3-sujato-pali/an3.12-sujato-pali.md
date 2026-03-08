@@ -27,11 +27,11 @@ language: "English - Pali"
 3The place where he won victory in battle, establishing himself as foremost in battle. This is the third place. These are the three places an anointed king should commemorate as long as he lives.
 
 
-4In the same way, a mendicant should commemorate three places as long as they live. What three? The place where the mendicant shaved off their hair and beard, dressed in ocher robes, and went forth from the lay life to homelessness. This is the first place.
+4In the same way, a bhikkhu should commemorate three places as long as they live. What three? The place where the bhikkhu shaved off their hair and beard, dressed in ocher robes, and went forth from the lay life to homelessness. This is the first place.
 
-5The place where the mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. This is the second place.
+5The place where the bhikkhu truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. This is the second place.
 
-6The place where the mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. This is the third place. These are the three places a mendicant should commemorate as long as they live.”
+6The place where the bhikkhu realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. This is the third place. These are the three places a bhikkhu should commemorate as long as they live.”
 
 1"Tīṇimāni, bhikkhave, rañño khattiyassa muddhāvasittassa yāvajīvaṁ sāraṇīyāni bhavanti. Katamāni tīṇi? Yasmiṁ, bhikkhave, padese rājā khattiyo muddhāvasitto jāto hoti. Idaṁ, bhikkhave, paṭhamaṁ rañño khattiyassa muddhāvasittassa yāvajīvaṁ sāraṇīyaṁ hoti.
 

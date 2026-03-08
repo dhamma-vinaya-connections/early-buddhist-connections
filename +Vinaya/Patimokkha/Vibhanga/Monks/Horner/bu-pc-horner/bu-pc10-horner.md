@@ -7,29 +7,29 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC10]]
 > ◄  [[bu-pc9-horner]] 📜  [[bu-pc11-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 10
+# bhikkhus’ Expiation (_Pācittiya_) 10
 
-*Bu-Pc.10.1.1* *BD.2.223* … at Āḷavī in the chief shrine at Āḷavī. Now at that time the monks of Āḷavī, making repairs, dug the ground and had it dug. People looked down upon, criticised, spread it about, saying:
+*Bu-Pc.10.1.1* *BD.2.223* … at Āḷavī in the chief shrine at Āḷavī. Now at that time the bhikkhus of Āḷavī, making repairs, dug the ground and had it dug. People looked down upon, criticised, spread it about, saying:
 
 “How can these recluses, sons of the Sakyans, dig the ground and have it dug? These recluses, sons of the Sakyans, are harming life that is one-facultied.”[^1]
 
-Monks heard these people who looked down upon, criticised, spread it about. Those who were modest monks looked down upon, criticised, spread it about, saying:
+bhikkhus heard these people who looked down upon, criticised, spread it about. Those who were modest bhikkhus looked down upon, criticised, spread it about, saying:
 
-“How can these monks of Āḷavī dig the ground and have it dug?” …
+“How can these bhikkhus of Āḷavī dig the ground and have it dug?” …
 
-“Is it true, as is said, that you, monks, dug the ground and had it dug?”
+“Is it true, as is said, that you, bhikkhus, dug the ground and had it dug?”
 
 “It is true, lord,” they said.
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, dig the ground and have it dug? For, foolish men, people having consciousness as living beings *Vin.4.33* are in the ground. It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, dig the ground and have it dug? For, foolish men, people having consciousness as living beings *Vin.4.33* are in the ground. It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should dig the ground or have it dug, there is an offence of expiation.”
+“Whatever bhikkhu should dig the ground or have it dug, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.10.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.10.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Ground means: there are two (kinds of) ground: natural ground and artificial ground.[^2] Natural ground means: pure soil, pure clay, (with) few stones, (with) *BD.2.224* few pebbles, (with) few potsherds, (with) little gravel,[^3] (with) little sand, almost all soil, almost all clay. Natural ground is also called not burnt.[^4] And whatever heap of soil or heap of clay is (left) damp[^5] for more than four months, this too is called natural ground. Artificial ground means: pure stone, pure pebbles, pure potsherds, pure gravel, pure sand, little soil, little clay, almost all stones, almost all pebbles, almost all potsherds, almost all gravel, almost all sand. Artificial ground is also called burnt. And whatever heap of soil or heap of clay is (left) damp for less than four months, this too is called artificial ground.
 
@@ -58,7 +58,7 @@ The First Division *Vin.4.34*
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

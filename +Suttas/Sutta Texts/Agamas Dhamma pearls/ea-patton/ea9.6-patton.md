@@ -17,18 +17,18 @@ language: "English"
 
 6. Birth in Heaven
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “When I continuously examine the things that a person thinks about in their mind, I see: ‘This person will be born up in heaven in the time it takes to flex their arm.’ Why is that? It’s because of their good mind. Having given rise to a good mind, they’ll be born up in heaven.”
+2. It was then that the Bhagavān addressed the bhikkhus, “When I continuously examine the things that a person thinks about in their mind, I see: ‘This person will be born up in heaven in the time it takes to flex their arm.’ Why is that? It’s because of their good mind. Having given rise to a good mind, they’ll be born up in heaven.”
 3. The Bhagavān then spoke in verse:
 - “Suppose that a person    
     Produces a good and wonderful mind.    
-    Now, I’ll tell you monks    
+    Now, I’ll tell you bhikkhus    
     The meaning of this in detail.
 - Supposing their life were to end    
     Right at this moment in time,    
     They would be born up in heaven    
     Because of their mind’s good conduct.
-4. “Therefore, monks, one should purify their thinking and not produce defiled conduct. Thus, monks, you should train yourselves.”
-5. When the monks heard what the Buddha taught, they rejoiced and approved.
+4. “Therefore, bhikkhus, one should purify their thinking and not produce defiled conduct. Thus, bhikkhus, you should train yourselves.”
+5. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

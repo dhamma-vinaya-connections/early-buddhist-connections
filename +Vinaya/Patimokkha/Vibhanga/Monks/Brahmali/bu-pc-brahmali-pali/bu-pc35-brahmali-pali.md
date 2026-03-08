@@ -18,37 +18,37 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a certain brahmin had invited the monks for a meal. When the monks had finished and refused an invitation to eat more, they went to their respective families, where some ate and some took away almsfood.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a certain brahmin had invited the bhikkhus for a meal. When the bhikkhus had finished and refused an invitation to eat more, they went to their respective families, where some ate and some took away almsfood.
 
-Soon afterwards that brahmin said to his neighbors, “The monks have been satisfied by me. Come, and I’ll satisfy you, too.”
+Soon afterwards that brahmin said to his neighbors, “The bhikkhus have been satisfied by me. Come, and I’ll satisfy you, too.”
 
 
-“How could you satisfy us? Those monks who were invited by you came to our houses. Some of them ate there and some took away almsfood.”
+“How could you satisfy us? Those bhikkhus who were invited by you came to our houses. Some of them ate there and some took away almsfood.”
 
-2That brahmin complained and criticized those monks, “How could the venerables eat in our house and afterwards eat elsewhere? Am I not able to give them as much as they need?”
+2That brahmin complained and criticized those bhikkhus, “How could the venerables eat in our house and afterwards eat elsewhere? Am I not able to give them as much as they need?”
 
-3The monks heard the complaints of that brahmin, and the monks of few desires complained and criticized those monks, “How could those monks finish their meal and refuse an invitation to eat more, and then eat elsewhere?” … “Is it true, monks, that monks did this?”
+3The bhikkhus heard the complaints of that brahmin, and the bhikkhus of few desires complained and criticized those bhikkhus, “How could those bhikkhus finish their meal and refuse an invitation to eat more, and then eat elsewhere?” … “Is it true, bhikkhus, that bhikkhus did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How could those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 4‘If a monk has finished his meal and refused an invitation to eat more, and then eats fresh or cooked food, he commits an offense entailing confession.’”
 
-5In this way the Buddha laid down this training rule for the monks.
+5In this way the Buddha laid down this training rule for the bhikkhus.
 
-6Soon afterwards the monks were bringing back fine almsfood for the sick monks. But because the sick monks were unable to eat as much as they had intended, the monks threw the leftovers away. When the Buddha heard the loud sound of crows cawing, he asked Venerable Ānanda, “Ānanda, why is there this loud sound of crows cawing?” Ānanda told him what had happened, and the Buddha said,
+6Soon afterwards the bhikkhus were bringing back fine almsfood for the sick bhikkhus. But because the sick bhikkhus were unable to eat as much as they had intended, the bhikkhus threw the leftovers away. When the Buddha heard the loud sound of crows cawing, he asked Venerable Ānanda, “Ānanda, why is there this loud sound of crows cawing?” Ānanda told him what had happened, and the Buddha said,
 
-“But Ānanda, don’t the monks eat the leftovers from those who are sick?”
+“But Ānanda, don’t the bhikkhus eat the leftovers from those who are sick?”
 
 “No, Sir.”
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to eat the leftovers both from those who are sick and from those who are not sick.
+“bhikkhus, I allow you to eat the leftovers both from those who are sick and from those who are not sick.
 
-And, monks, this is how you make food left over: ‘I don’t need of any of this.’ And so, monks, this training rule should be recited like this:
+And, bhikkhus, this is how you make food left over: ‘I don’t need of any of this.’ And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

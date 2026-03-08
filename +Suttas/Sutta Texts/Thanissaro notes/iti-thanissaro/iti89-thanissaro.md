@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 89
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, conquered by three forms of false Dhamma–his mind overwhelmed–Devadatta[1](#^iti89note01) is incurably doomed to deprivation, to hell, for an eon. Which three? Conquered by evil desires–his mind overwhelmed–Devadatta is incurably doomed to deprivation, to hell, for the duration of an eon. Conquered by friendship with evil people–his mind overwhelmed–Devadatta is incurably doomed to deprivation, to hell, for the duration of an eon. And, there being something further to be done, he nevertheless stopped halfway with a lower modicum of distinctive attainment. Conquered by these three forms of false Dhamma–his mind overwhelmed–Devadatta is incurably doomed to deprivation, to hell, for an eon.” ^iti89note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, conquered by three forms of false Dhamma–his mind overwhelmed–Devadatta[1](#^iti89note01) is incurably doomed to deprivation, to hell, for an eon. Which three? Conquered by evil desires–his mind overwhelmed–Devadatta is incurably doomed to deprivation, to hell, for the duration of an eon. Conquered by friendship with evil people–his mind overwhelmed–Devadatta is incurably doomed to deprivation, to hell, for the duration of an eon. And, there being something further to be done, he nevertheless stopped halfway with a lower modicum of distinctive attainment. Conquered by these three forms of false Dhamma–his mind overwhelmed–Devadatta is incurably doomed to deprivation, to hell, for an eon.” ^iti89note01-ref
 
 May no one in the world
 
@@ -84,7 +84,7 @@ should associate,
 
 with a person like him–
 
-whose path a monk can pursue
+whose path a bhikkhu can pursue
 
 and reach the ending
 

@@ -7,29 +7,29 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
 > ◄  [[bu-pc13-horner]] 📜  [[bu-pc15-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 14
+# bhikkhus’ Expiation (_Pācittiya_) 14
 
-*Bu-Pc.14.1.1* *BD.2.238* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time, monks preparing lodgings[^1] in winter-time in the open air, drying their bodies in the sun, when the time was announced,[^2] setting forth neither removed[^3] them nor had them removed, (but) set forth without having asked (for permission).[^4] The lodgings became damp.[^5] Those who were modest monks … spread it about, saying:
+*Bu-Pc.14.1.1* *BD.2.238* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time, bhikkhus preparing lodgings[^1] in winter-time in the open air, drying their bodies in the sun, when the time was announced,[^2] setting forth neither removed[^3] them nor had them removed, (but) set forth without having asked (for permission).[^4] The lodgings became damp.[^5] Those who were modest bhikkhus … spread it about, saying:
 
-“How can monks, preparing lodgings in the open air, setting forth, neither remove them nor have them removed, (but) set forth without having asked (for permission, so that) the lodgings are (left) damp?”
+“How can bhikkhus, preparing lodgings in the open air, setting forth, neither remove them nor have them removed, (but) set forth without having asked (for permission, so that) the lodgings are (left) damp?”
 
-Then these monks told this matter to the lord …
+Then these bhikkhus told this matter to the lord …
 
-“Is it true, as is said, monks, that monks preparing lodgings in the open air … (left) damp? … And thus, monks, this rule of training should be set forth:
+“Is it true, as is said, bhikkhus, that bhikkhus preparing lodgings in the open air … (left) damp? … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, spreading[^6] or having spread in the *BD.2.239* open air a couch or a chair or a mattress or a stool[^7] belonging to the Order, setting forth, should neither remove it nor have it removed, or should go away without asking (for permission), there is an offence of expiation.”
+“Whatever bhikkhu, spreading[^6] or having spread in the *BD.2.239* open air a couch or a chair or a mattress or a stool[^7] belonging to the Order, setting forth, should neither remove it nor have it removed, or should go away without asking (for permission), there is an offence of expiation.”
 
-And thus this rule of training for monks came to be laid down by the lord.
-
-* * *
-
-*Bu-Pc.14.1.2* Now at that time monks, staying in the open air, were bringing back[^8] lodgings early in the morning. Now the lord saw these monks bringing back lodgings early in the morning, and seeing them, in this connection, on this occasion, having given reasoned talk, he addressed the monks, saying:
-
-“I allow you, monks, for the eight months (of the time) not appointed for keeping the rains[^9] *Vin.4.40* to put aside lodgings in a hut[^10] or at the foot of a tree, wherever crows or vultures do not leave droppings.”[^11]
+And thus this rule of training for bhikkhus came to be laid down by the lord.
 
 * * *
 
-*Bu-Pc.14.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.14.1.2* Now at that time bhikkhus, staying in the open air, were bringing back[^8] lodgings early in the morning. Now the lord saw these bhikkhus bringing back lodgings early in the morning, and seeing them, in this connection, on this occasion, having given reasoned talk, he addressed the bhikkhus, saying:
+
+“I allow you, bhikkhus, for the eight months (of the time) not appointed for keeping the rains[^9] *Vin.4.40* to put aside lodgings in a hut[^10] or at the foot of a tree, wherever crows or vultures do not leave droppings.”[^11]
+
+* * *
+
+*Bu-Pc.14.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Belonging to the Order means: it comes to be given to the Order, handed over to it.[^12]
 
@@ -49,7 +49,7 @@ Setting forth, should neither remove it means: should not himself remove it.
 
 Nor have it removed means: should not make another remove it.
 
-Or should go away without asking (for permission) means: not asking a monk or a novice or a monastery attendant (for permission),[^27] if he goes further than the outward stone-throw of a man of average height,[^28] there is an offence of expiation.
+Or should go away without asking (for permission) means: not asking a bhikkhu or a novice or a monastery attendant (for permission),[^27] if he goes further than the outward stone-throw of a man of average height,[^28] there is an offence of expiation.
 
 * * *
 
@@ -65,7 +65,7 @@ The Fourth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

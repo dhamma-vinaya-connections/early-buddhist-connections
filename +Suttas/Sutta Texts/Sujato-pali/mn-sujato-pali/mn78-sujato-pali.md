@@ -22,7 +22,7 @@ language: "English - Pali"
 
 Now at that time the wanderer Uggāhamāna Samaṇamuṇḍikāputta was residing together with around three hundred wanderers in Mallikā’s single-halled monastery for group debates, set among the flaking pale-moon ebony trees.
 
-Then the master builder Pañcakaṅga left Sāvatthī in the middle of the day to see the Buddha. It occurred to him: “It’s the wrong time to see the Buddha, as he’s in retreat. And it’s the wrong time to see the esteemed mendicants, as they’re in retreat. Why don’t I go to Mallikā’s monastery to visit the wanderer Uggāhamāna?” So that’s what he did.
+Then the master builder Pañcakaṅga left Sāvatthī in the middle of the day to see the Buddha. It occurred to him: “It’s the wrong time to see the Buddha, as he’s in retreat. And it’s the wrong time to see the esteemed bhikkhus, as they’re in retreat. Why don’t I go to Mallikā’s monastery to visit the wanderer Uggāhamāna?” So that’s what he did.
 
 2Now at that time, Uggāhamāna was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all kinds of unworthy talk, such as talk about kings, bandits, and ministers; talk about armies, threats, and wars; talk about food, drink, clothes, and beds; talk about garlands and fragrances; talk about family, vehicles, villages, towns, cities, and countries; talk about women and heroes; street talk and well talk; talk about the departed; motley talk; tales of land and sea; and talk about being reborn in this or that state of existence.
 
@@ -32,7 +32,7 @@ Then the master builder Pañcakaṅga left Sāvatthī in the middle of the day t
 
 “Householder, when an individual has four qualities I describe them as an invincible ascetic — accomplished in the skillful, excelling in the skillful, attained to the highest attainment. What four? It’s when they do no bad deeds with their body; speak no bad words; think no bad thoughts; and don’t earn a living by bad livelihood. When an individual has these four qualities I describe them as an invincible ascetic.”
 
-5Then Pañcakaṅga neither approved nor dismissed that mendicant’s statement. He got up from his seat, thinking: “I will learn the meaning of this statement from the Buddha himself.”
+5Then Pañcakaṅga neither approved nor dismissed that bhikkhu’s statement. He got up from his seat, thinking: “I will learn the meaning of this statement from the Buddha himself.”
 
 Then he went to the Buddha, bowed, sat down to one side, and informed the Buddha of all that had been discussed.
 
@@ -56,38 +56,38 @@ But certain things must first be understood, I say. ‘These are unskillful beha
 
 13And where do these unskillful behaviors stem from? Where they stem from has been stated. You should say that they stem from the mind. What mind? The mind takes many and diverse forms. But unskillful behaviors stem from a mind that has greed, hate, and delusion.
 
-14And where do these unskillful behaviors cease without anything left over? Their cessation has also been stated. It’s when a mendicant gives up bad conduct by way of body, speech, and mind, and develops good conduct by way of body, speech, and mind; they give up wrong livelihood and earn a living by right livelihood. This is where these unskillful behaviors cease without anything left over.
+14And where do these unskillful behaviors cease without anything left over? Their cessation has also been stated. It’s when a bhikkhu gives up bad conduct by way of body, speech, and mind, and develops good conduct by way of body, speech, and mind; they give up wrong livelihood and earn a living by right livelihood. This is where these unskillful behaviors cease without anything left over.
 
-15And how is someone practicing for the cessation of unskillful behaviors? It’s when a mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities that have arisen are given up. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are completed by development. Someone practicing like this is practicing for the cessation of unskillful behaviors.
+15And how is someone practicing for the cessation of unskillful behaviors? It’s when a bhikkhu generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities that have arisen are given up. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are completed by development. Someone practicing like this is practicing for the cessation of unskillful behaviors.
 
 16And what are skillful behaviors? Skillful deeds by way of body and speech, and purified livelihood are included in behavior, I say. These are called skillful behaviors.
 
 17And where do these skillful behaviors stem from? Where they stem from has been stated. You should say that they stem from the mind. What mind? The mind takes many and diverse forms. But skillful behaviors stem from a mind that is free from greed, hate, and delusion.
 
-18And where do these skillful behaviors cease without anything left over? Their cessation has also been stated. It’s when a mendicant behaves ethically, but they don’t identify with their ethical behavior. And they truly understand the freedom of heart and freedom by wisdom where these skillful behaviors cease without anything left over.
+18And where do these skillful behaviors cease without anything left over? Their cessation has also been stated. It’s when a bhikkhu behaves ethically, but they don’t identify with their ethical behavior. And they truly understand the freedom of heart and freedom by wisdom where these skillful behaviors cease without anything left over.
 
-19And how is someone practicing for the cessation of skillful behaviors? It’s when a mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise … so that unskillful qualities are given up … so that skillful qualities arise … so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development. Someone practicing like this is practicing for the cessation of skillful behaviors.
+19And how is someone practicing for the cessation of skillful behaviors? It’s when a bhikkhu generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise … so that unskillful qualities are given up … so that skillful qualities arise … so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development. Someone practicing like this is practicing for the cessation of skillful behaviors.
 
 
 20And what are unskillful thoughts? Thoughts of sensuality, of malice, and of cruelty. These are called unskillful thoughts.
 
 21And where do these unskillful thoughts stem from? Where they stem from has been stated. You should say that they stem from perception. What perception? Perception takes many and diverse forms. Perceptions of sensuality, malice, and cruelty — unskillful thoughts stem from this.
 
-22And where do these unskillful thoughts cease without anything left over? Their cessation has also been stated. It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is where these unskillful thoughts cease without anything left over.
+22And where do these unskillful thoughts cease without anything left over? Their cessation has also been stated. It’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is where these unskillful thoughts cease without anything left over.
 
-23And how is someone practicing for the cessation of unskillful thoughts? It’s when a mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise … so that unskillful qualities are given up … so that skillful qualities arise … so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development. Someone practicing like this is practicing for the cessation of unskillful thoughts.
+23And how is someone practicing for the cessation of unskillful thoughts? It’s when a bhikkhu generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise … so that unskillful qualities are given up … so that skillful qualities arise … so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development. Someone practicing like this is practicing for the cessation of unskillful thoughts.
 
 
 24And what are skillful thoughts? Thoughts of renunciation, good will, and harmlessness. These are called skillful thoughts.
 
 25And where do these skillful thoughts stem from? Where they stem from has been stated. You should say that they stem from perception. What perception? Perception takes many and diverse forms. Perceptions of renunciation, good will, and harmlessness — skillful thoughts stem from this.
 
-26And where do these skillful thoughts cease without anything left over? Their cessation has also been stated. It’s when, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is where these skillful thoughts cease without anything left over.
+26And where do these skillful thoughts cease without anything left over? Their cessation has also been stated. It’s when, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is where these skillful thoughts cease without anything left over.
 
 
-27And how is someone practicing for the cessation of skillful thoughts? It’s when a mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise … so that unskillful qualities are given up … so that skillful qualities arise … so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development. Someone practicing like this is practicing for the cessation of skillful thoughts.
+27And how is someone practicing for the cessation of skillful thoughts? It’s when a bhikkhu generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise … so that unskillful qualities are given up … so that skillful qualities arise … so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development. Someone practicing like this is practicing for the cessation of skillful thoughts.
 
-28Master builder, when an individual has what ten qualities do I describe them as an invincible ascetic — accomplished in the skillful, excelling in the skillful, attained to the highest attainment? It’s when a mendicant has an adept’s right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, right immersion, right knowledge, and right freedom. When an individual has these ten qualities, I describe them as an invincible ascetic — accomplished in the skillful, excelling in the skillful, attained to the highest attainment.”
+28Master builder, when an individual has what ten qualities do I describe them as an invincible ascetic — accomplished in the skillful, excelling in the skillful, attained to the highest attainment? It’s when a bhikkhu has an adept’s right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, right immersion, right knowledge, and right freedom. When an individual has these ten qualities, I describe them as an invincible ascetic — accomplished in the skillful, excelling in the skillful, attained to the highest attainment.”
 
 29That is what the Buddha said. Satisfied, Pañcakaṅga the master builder was happy with what the Buddha said.
 

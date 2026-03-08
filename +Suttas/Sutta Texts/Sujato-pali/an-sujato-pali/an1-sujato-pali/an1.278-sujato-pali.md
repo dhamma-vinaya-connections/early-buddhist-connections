@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“It is impossible, mendicants, it cannot happen for two wheel-turning monarchs to arise in the same solar system at the same time. But it is possible for just one wheel-turning monarch to arise in one solar system.”
+1“It is impossible, bhikkhus, it cannot happen for two wheel-turning monarchs to arise in the same solar system at the same time. But it is possible for just one wheel-turning monarch to arise in one solar system.”
 
 1"Aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ ekissā lokadhātuyā dve rājāno cakkavattī apubbaṁ acarimaṁ uppajjeyyuṁ. Netaṁ ṭhānaṁ vijjati. Ṭhānañca kho etaṁ, bhikkhave, vijjati yaṁ ekissā lokadhātuyā eko rājā cakkavattī uppajjeyya. Ṭhānametaṁ vijjatī"ti.
 

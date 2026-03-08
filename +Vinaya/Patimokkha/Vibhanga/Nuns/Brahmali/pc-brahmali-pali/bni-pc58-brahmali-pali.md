@@ -18,16 +18,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu, the monks from the group of six went to the nuns’ dwelling place to instruct the nuns from the group of six. Soon afterwards other nuns said to those nuns, “Come, Venerables, let’s go to the instruction.”
+1At one time when the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu, the bhikkhus from the group of six went to the nuns’ dwelling place to instruct the nuns from the group of six. Soon afterwards other nuns said to those nuns, “Come, Venerables, let’s go to the instruction.”
 
-“There’s no need. The monks from the group of six came and instructed us right here.”
+“There’s no need. The bhikkhus from the group of six came and instructed us right here.”
 
-2The nuns of few desires complained and criticized them, “How could the nuns from the group of six not go to the instruction?” … “Is it true, monks, that those nuns didn’t do this?”
+2The nuns of few desires complained and criticized them, “How could the nuns from the group of six not go to the instruction?” … “Is it true, bhikkhus, that those nuns didn’t do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could the nuns from the group of six not do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How could the nuns from the group of six not do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

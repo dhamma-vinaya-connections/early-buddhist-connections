@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single touch that occupies a man’s mind like the touch of a woman. The touch of a woman occupies a man’s mind.”
+1“bhikkhus, I do not see a single touch that occupies a man’s mind like the touch of a woman. The touch of a woman occupies a man’s mind.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekaphoṭṭhabbampi samanupassāmi yaṁ evaṁ purisassa cittaṁ pariyādāya tiṭṭhati yathayidaṁ, bhikkhave, itthiphoṭṭhabbo. Itthiphoṭṭhabbo, bhikkhave, purisassa cittaṁ pariyādāya tiṭṭhatī"ti.
 

@@ -35,7 +35,7 @@ Then, on the occasion of dispelling his own discontent and giving rise to satisf
 2“Giving up discontent and desire,  
 along with all thoughts of the lay life,  
 they wouldn’t get entangled in anything;  
-unentangled, undesiring: that’s a real mendicant.
+unentangled, undesiring: that’s a real bhikkhu.
 
 3Whether on this earth or in the sky,  
 whatever in the world is included in form  
@@ -49,7 +49,7 @@ for one called ‘a sage’ does not cling to them.
 
 5Attached to the sixty wrong views, and full of their own opinions,  
 ordinary people are fixed in wrong principles.  
-But that mendicant wouldn’t join a sectarian group,  
+But that bhikkhu wouldn’t join a sectarian group,  
 still less would they utter lewd speech.
 
 6Clever, long serene,  

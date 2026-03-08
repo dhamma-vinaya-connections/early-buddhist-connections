@@ -15,13 +15,13 @@ language: "English"
 ## ## Dhanañjānin Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Rājagaha in the Bamboo Forest, the Squirrels’ Sanctuary. Now, on that occasion Ven. Sāriputta was wandering in the Southern Mountains with a large Saṅgha of monks. Then a certain monk who had spent the Rains in Rājagaha went to the Southern Mountains, to Ven. Sāriputta. On arrival, he exchanged courteous greetings with Ven. Sāriputta and—after an exchange of friendly greetings & courtesies—sat to one side. As he was sitting there, Ven. Sāriputta said to him, “I trust, friend, that the Blessed One is strong & free from illness?”
+I have heard that on one occasion the Blessed One was staying near Rājagaha in the Bamboo Forest, the Squirrels’ Sanctuary. Now, on that occasion Ven. Sāriputta was wandering in the Southern Mountains with a large Saṅgha of bhikkhus. Then a certain bhikkhu who had spent the Rains in Rājagaha went to the Southern Mountains, to Ven. Sāriputta. On arrival, he exchanged courteous greetings with Ven. Sāriputta and—after an exchange of friendly greetings & courtesies—sat to one side. As he was sitting there, Ven. Sāriputta said to him, “I trust, friend, that the Blessed One is strong & free from illness?”
 
 “The Blessed One, friend, is strong & free from illness.”
 
-“I trust that the Saṅgha of monks is strong & free from illness?”
+“I trust that the Saṅgha of bhikkhus is strong & free from illness?”
 
-“The Saṅgha of monks is also strong & free from illness.”
+“The Saṅgha of bhikkhus is also strong & free from illness.”
 
 “At the Taṇḍulapāla Gate is a brahman named Dhanañjānin.[1](#^mn97note01) I trust that he is strong & free from illness?” ^mn97note01-ref
 
@@ -121,13 +121,13 @@ Then the thought occurred to Ven. Sāriputta, “These brahmans are set on the B
 
 “As you say, master,” Dhanañjānin the brahman responded to Ven. Sāriputta.
 
-Ven. Sāriputta said: “And what is the path to union with the Brahmās? There is the case where a monk keeps pervading the first direction [the east] with an awareness imbued with good will, likewise the second, likewise the third, likewise the fourth. Thus above, below, & all around, everywhere, in its entirety, he keeps pervading the all-encompassing cosmos with an awareness imbued with good will—abundant, expansive, immeasurable, without hostility, without ill will. He keeps pervading the first direction with an awareness imbued with compassion... empathetic joy... equanimity, likewise the second, likewise the third, likewise the fourth. Thus above, below, & all around, everywhere, in its entirety, he keeps pervading the all-encompassing cosmos with an awareness imbued with equanimity—abundant, expansive, immeasurable, without hostility, without ill will. This, Dhanañjānin, is the path to union with the Brahmās.”
+Ven. Sāriputta said: “And what is the path to union with the Brahmās? There is the case where a bhikkhu keeps pervading the first direction [the east] with an awareness imbued with good will, likewise the second, likewise the third, likewise the fourth. Thus above, below, & all around, everywhere, in its entirety, he keeps pervading the all-encompassing cosmos with an awareness imbued with good will—abundant, expansive, immeasurable, without hostility, without ill will. He keeps pervading the first direction with an awareness imbued with compassion... empathetic joy... equanimity, likewise the second, likewise the third, likewise the fourth. Thus above, below, & all around, everywhere, in its entirety, he keeps pervading the all-encompassing cosmos with an awareness imbued with equanimity—abundant, expansive, immeasurable, without hostility, without ill will. This, Dhanañjānin, is the path to union with the Brahmās.”
 
 “In that case, Master Sāriputta, pay homage to the Blessed One’s feet with your head in my name and say ‘Lord, Dhanañjānin the brahman is diseased, in pain, severely ill. He pays homage with his head to the Blessed One’s feet.’”
 
 So Ven. Sāriputta—when there was still more to be done, having established Dhanañjānin the brahman in the inferior[3](#^mn97note03) Brahmā world—got up from his seat and left. Then, not long after Ven. Sāriputta’s departure, Dhanañjānin the brahman died and reappeared in the Brahmā world. ^mn97note03-ref
 
-And the Blessed One said to the monks, “Monks, Sāriputta—when there was still more to be done, having established Dhanañjānin the brahman in the inferior Brahmā world—has gotten up from his seat and left.”
+And the Blessed One said to the bhikkhus, “bhikkhus, Sāriputta—when there was still more to be done, having established Dhanañjānin the brahman in the inferior Brahmā world—has gotten up from his seat and left.”
 
 Then Ven. Sāriputta went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there he said to the Blessed One, “Lord, Dhanañjānin the brahman is diseased, in pain, severely ill. He pays homage with his head to the Blessed One’s feet.”
 

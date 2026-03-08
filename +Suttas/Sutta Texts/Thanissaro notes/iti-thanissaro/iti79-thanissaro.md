@@ -12,9 +12,9 @@ language: "English"
 
 # Itivuttaka 79
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, these three things lead to the falling away of a monk in training. Which three? There is the case where a monk in training enjoys activity,[1](#^iti79note01) delights in activity, is intent on his enjoyment of activity. He enjoys chatter, delights in chatter, is intent on his enjoyment of chatter. He enjoys sleep, delights in sleep, is intent on his enjoyment of sleep. These are the three things that lead to the falling away of a monk in training. ^iti79note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, these three things lead to the falling away of a bhikkhu in training. Which three? There is the case where a bhikkhu in training enjoys activity,[1](#^iti79note01) delights in activity, is intent on his enjoyment of activity. He enjoys chatter, delights in chatter, is intent on his enjoyment of chatter. He enjoys sleep, delights in sleep, is intent on his enjoyment of sleep. These are the three things that lead to the falling away of a bhikkhu in training. ^iti79note01-ref
 
-“These three things lead to the non-falling away of a monk in training. Which three? There is the case where a monk in training doesn’t enjoy activity, doesn’t delight in activity, isn’t intent on his enjoyment of activity. He doesn’t enjoy chatter, doesn’t delight in chatter, isn’t intent on his enjoyment of chatter. He doesn’t enjoy sleep, doesn’t delight in sleep, isn’t intent on his enjoyment of sleep. These are the three things that lead to the non-falling away of a monk in training.”
+“These three things lead to the non-falling away of a bhikkhu in training. Which three? There is the case where a bhikkhu in training doesn’t enjoy activity, doesn’t delight in activity, isn’t intent on his enjoyment of activity. He doesn’t enjoy chatter, doesn’t delight in chatter, isn’t intent on his enjoyment of chatter. He doesn’t enjoy sleep, doesn’t delight in sleep, isn’t intent on his enjoyment of sleep. These are the three things that lead to the non-falling away of a bhikkhu in training.”
 
 Enjoying activity,
 
@@ -26,7 +26,7 @@ enjoying sleep,
 
 he’s incapable
 
-–a monk like this–
+–a bhikkhu like this–
 
 of touching superlative
 
@@ -40,7 +40,7 @@ not restless.
 
 He’s capable
 
-–a monk like this–
+–a bhikkhu like this–
 
 of touching superlative
 

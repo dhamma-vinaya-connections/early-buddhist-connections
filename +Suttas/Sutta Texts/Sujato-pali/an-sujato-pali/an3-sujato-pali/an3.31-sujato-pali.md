@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a family where the children honor their parents in their home is said to live with Brahmā. A family where the children honor their parents in their home is said to live with the first teachers. A family where the children honor their parents in their home is said to live with those worthy of offerings dedicated to the gods.
+1“bhikkhus, a family where the children honor their parents in their home is said to live with Brahmā. A family where the children honor their parents in their home is said to live with the first teachers. A family where the children honor their parents in their home is said to live with those worthy of offerings dedicated to the gods.
 
 ‘Brahmā’ is a term for your parents.
 

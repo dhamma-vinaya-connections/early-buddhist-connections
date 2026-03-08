@@ -18,20 +18,20 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, he allowed the itch-covering cloth for the monks. Knowing this, the monks from the group of six wore itch covers that were inappropriate in size. As they were walking about, they were dragging them along, both in front and behind.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, he allowed the itch-covering cloth for the bhikkhus. Knowing this, the bhikkhus from the group of six wore itch covers that were inappropriate in size. As they were walking about, they were dragging them along, both in front and behind.
 
-2The monks of few desires complained and criticized those monks, “How can the monks from the group of six wear such itch covers?” … “Is it true, monks, that you do this?”
+2The bhikkhus of few desires complained and criticized those bhikkhus, “How can the bhikkhus from the group of six wear such itch covers?” … “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked them …
 
-“Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk is having an itch-covering cloth made, it should be made the right size. This is the right size: four standard handspans long and two wide. If it exceeds that, it is to be cut down, and he commits an offense entailing confession.’”
+3‘If a bhikkhu is having an itch-covering cloth made, it should be made the right size. This is the right size: four standard handspans long and two wide. If it exceeds that, it is to be cut down, and he commits an offense entailing confession.’”
 
 #### Definitions
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that leads to the continuation, persistence, and enduring of the true teaching like diligence. Diligence leads to the continuation, persistence, and enduring of the true teaching.”
+1“bhikkhus, I do not see a single thing that leads to the continuation, persistence, and enduring of the true teaching like diligence. Diligence leads to the continuation, persistence, and enduring of the true teaching.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa ṭhitiyā asammosāya anantaradhānāya saṁvattati yathayidaṁ, bhikkhave, appamādo. Appamādo, bhikkhave, saddhammassa ṭhitiyā asammosāya anantaradhānāya saṁvattatī"ti.
 

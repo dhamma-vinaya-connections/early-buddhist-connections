@@ -17,9 +17,9 @@ language: "English"
 
 2. Beneficial
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “There’s one person who appears in the world to benefit many people and bring well-being to sentient beings out of compassion for the world’s multitudes and the desire for gods and humans to obtain their good fortunes. Who is that one person? He is called the Tathāgata, the Arhat, the Correctly and Perfectly Awakened One. He is known as the one person who appears in the world to benefit many people and bring well-being to sentient beings out of compassion for the world’s multitudes and the desire for gods and humans to obtain their good fortunes.
-3. “Therefore, monks, always pay respect to the Tathāgata. Thus, monks, you should train yourselves.”
-4. When the monks heard what the Buddha taught, they rejoiced and approved.
+2. It was then that the Bhagavān addressed the bhikkhus, “There’s one person who appears in the world to benefit many people and bring well-being to sentient beings out of compassion for the world’s multitudes and the desire for gods and humans to obtain their good fortunes. Who is that one person? He is called the Tathāgata, the Arhat, the Correctly and Perfectly Awakened One. He is known as the one person who appears in the world to benefit many people and bring well-being to sentient beings out of compassion for the world’s multitudes and the desire for gods and humans to obtain their good fortunes.
+3. “Therefore, bhikkhus, always pay respect to the Tathāgata. Thus, bhikkhus, you should train yourselves.”
+4. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

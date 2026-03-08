@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 42
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, these two bright qualities safeguard the world. Which two? Shame & compunction. If these two bright qualities did not safeguard the world, there would be no discerning of “mother,” “aunt,” “uncle’s wife,” “teacher’s wife,” or “wife of those deserving respect.” The world would fall into promiscuity, like rams with goats, roosters with pigs, or dogs with jackals. But because these two bright qualities do safeguard the world, there is the discerning of “mother,” “aunt,” “uncle’s wife,” “teacher’s wife,” & “wife of those deserving respect.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, these two bright qualities safeguard the world. Which two? Shame & compunction. If these two bright qualities did not safeguard the world, there would be no discerning of “mother,” “aunt,” “uncle’s wife,” “teacher’s wife,” or “wife of those deserving respect.” The world would fall into promiscuity, like rams with goats, roosters with pigs, or dogs with jackals. But because these two bright qualities do safeguard the world, there is the discerning of “mother,” “aunt,” “uncle’s wife,” “teacher’s wife,” & “wife of those deserving respect.”
 
 Those in whom
 

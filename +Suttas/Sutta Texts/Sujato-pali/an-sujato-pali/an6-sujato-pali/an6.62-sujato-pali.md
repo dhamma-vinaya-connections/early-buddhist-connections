@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants when he arrived at a town of the Kosalans named Daṇḍakappaka. The Buddha left the road and sat at the root of a tree on the seat spread out. The mendicants entered Daṇḍakappaka to look for a guest house.
+1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of bhikkhus when he arrived at a town of the Kosalans named Daṇḍakappaka. The Buddha left the road and sat at the root of a tree on the seat spread out. The bhikkhus entered Daṇḍakappaka to look for a guest house.
 
-2Then Venerable Ānanda together with several mendicants went to the Aciravati River to bathe. When he had bathed and emerged from the water he stood in one robe drying himself.
+2Then Venerable Ānanda together with several bhikkhus went to the Aciravati River to bathe. When he had bathed and emerged from the water he stood in one robe drying himself.
 
-Then a certain mendicant went up to Venerable Ānanda, and said to him: “Reverend Ānanda, when the Buddha declared that Devadatta was going to a place of loss, to hell, there to remain for an eon, irredeemable, did he do so after wholeheartedly deliberating, or was this just a way of speaking?”
+Then a certain bhikkhu went up to Venerable Ānanda, and said to him: “Reverend Ānanda, when the Buddha declared that Devadatta was going to a place of loss, to hell, there to remain for an eon, irredeemable, did he do so after wholeheartedly deliberating, or was this just a way of speaking?”
 
 “You’re right, reverend, that’s how the Buddha declared it.”
 
@@ -32,7 +32,7 @@ Then a certain mendicant went up to Venerable Ānanda, and said to him: “Rever
 3Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and told him what had happened.
 
 
-4“Ānanda, that mendicant must be junior, recently gone forth, or else a foolish, incompetent senior mendicant. How on earth can he take something that I have declared definitively to be ambiguous? I do not see a single other person concerning whom I have made a declaration about after giving such wholehearted deliberation as Devadatta.
+4“Ānanda, that bhikkhu must be junior, recently gone forth, or else a foolish, incompetent senior bhikkhu. How on earth can he take something that I have declared definitively to be ambiguous? I do not see a single other person concerning whom I have made a declaration about after giving such wholehearted deliberation as Devadatta.
 
 As long as I saw even a fraction of a hair’s tip of goodness in Devadatta I did not declare that he was going to a place of loss, to hell, there to remain for an eon, irredeemable. But when I saw that there was not even a fraction of a hair’s tip of goodness in Devadatta I declared that he was going to a place of loss, to hell, there to remain for an eon, irredeemable.
 
@@ -44,7 +44,7 @@ In the same way, when I saw that there was not even a fraction of a hair’s tip
 Ānanda, if only you would all listen to the Realized One’s analysis of the knowledges of the faculties of individuals.”
 
 
-6“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha analyze the faculties of persons. The mendicants will listen and remember it.”
+6“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha analyze the faculties of persons. The bhikkhus will listen and remember it.”
 
 “Well then, Ānanda, listen and pay close attention, I will speak.”
 

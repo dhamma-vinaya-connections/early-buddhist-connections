@@ -35,16 +35,16 @@ After preparing a bed in the main house, she put on jewelery and perfume, and sh
 
 “You have certainly made a mistake. You’ve been foolish, confused, and unskillful. But since you acknowledge your mistake and make proper amends, I forgive you. For this is called growth in the training of the noble ones: acknowledging a mistake, making proper amends, and undertaking restraint for the future.”
 
-3The following morning that woman personally served and satisfied Anuruddha with various kinds of fine food. When he had finished his meal, she bowed and sat down to one side. And Anuruddha instructed, inspired, and gladdened her with a teaching. She then said to him, “Wonderful, Sir, wonderful! Just as one might set upright what had been overturned, or reveal what had been hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what is there—even so have you made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Sangha of monks. Please accept me as a lay follower who from today has gone for refuge for life.”
+3The following morning that woman personally served and satisfied Anuruddha with various kinds of fine food. When he had finished his meal, she bowed and sat down to one side. And Anuruddha instructed, inspired, and gladdened her with a teaching. She then said to him, “Wonderful, Sir, wonderful! Just as one might set upright what had been overturned, or reveal what had been hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what is there—even so have you made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Sangha of bhikkhus. Please accept me as a lay follower who from today has gone for refuge for life.”
 
-4Soon afterwards, after arriving at Sāvatthī, Anuruddha told the monks what had happened. The monks of few desires complained and criticized him, “How can Venerable Anuruddha lie down in the same sleeping place as a woman?”
+4Soon afterwards, after arriving at Sāvatthī, Anuruddha told the bhikkhus what had happened. The bhikkhus of few desires complained and criticized him, “How can Venerable Anuruddha lie down in the same sleeping place as a woman?”
 
 5After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Anuruddha: “Is it true, Anuruddha, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Anuruddha, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Anuruddha, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

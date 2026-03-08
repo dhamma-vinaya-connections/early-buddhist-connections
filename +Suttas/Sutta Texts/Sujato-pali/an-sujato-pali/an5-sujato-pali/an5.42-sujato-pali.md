@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a good person is born in a family for the benefit, welfare, and happiness of the people. For the benefit, welfare, and happiness of mother and father; children and partners; bondservants, workers, and staff; friends and colleagues; and ascetics and brahmins.
+1“bhikkhus, a good person is born in a family for the benefit, welfare, and happiness of the people. For the benefit, welfare, and happiness of mother and father; children and partners; bondservants, workers, and staff; friends and colleagues; and ascetics and brahmins.
 
 2It’s like a great rain cloud, which nourishes all the crops for the benefit, welfare, and happiness of the people. In the same way, a good person is born in a family for the benefit, welfare, and happiness of the people. …
 

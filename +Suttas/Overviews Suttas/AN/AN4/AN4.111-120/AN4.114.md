@@ -46,10 +46,10 @@ parallels_partilal: "[[AN5.140]], [[MN2]], [[MN125]], [[AN4.157]], [[AN4.165]], 
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant is like a king’s elephant
+> A bhikkhu is like a king’s elephant
 
 > [!info] Key Excerpts 
-> Mendicant listens, destroys, endures, and goes fast
+> bhikkhu listens, destroys, endures, and goes fast
 > 
 > Swiftly goes in the direction they’ve never gone before in all this long time; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment
 > 

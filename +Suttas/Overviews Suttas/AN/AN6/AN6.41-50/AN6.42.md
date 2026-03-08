@@ -44,10 +44,10 @@ parallels_partilal: "[[SA1250-1251]], [[AN5.30]], [[AN8.86]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> When visited by a noisy crowd, the Buddha  speaks to his attendant nāgita of his love of seclusion and solitude, and of his regard for forest mendicants
+> When visited by a noisy crowd, the Buddha  speaks to his attendant nāgita of his love of seclusion and solitude, and of his regard for forest bhikkhus
 
 > [!info] Key Excerpts 
-> I’m not pleased with mendicant living in the neighborhood of a village enjoying possessions, honor, and popularity with visit that fall from immersion. I'm pleased with mendicant in the wildernes,  fending off possessions, honor, and popularity if  mind is not immersed in samādhi they will immerse it, or if it is immersed in samādhi, they will preserve it
+> I’m not pleased with bhikkhu living in the neighborhood of a village enjoying possessions, honor, and popularity with visit that fall from immersion. I'm pleased with bhikkhu in the wildernes,  fending off possessions, honor, and popularity if  mind is not immersed in samādhi they will immerse it, or if it is immersed in samādhi, they will preserve it
 > 
 > May I never become famous. May fame not come to me. There Are those who can’t get the bliss of renunciation, the bliss of seclusion, the bliss of peace, the bliss of awakening when they want, without trouble or difficulty like I can
 > 

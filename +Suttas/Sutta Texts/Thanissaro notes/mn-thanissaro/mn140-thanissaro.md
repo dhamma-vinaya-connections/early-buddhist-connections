@@ -19,15 +19,15 @@ I have heard that on one occasion, as the Blessed One was wandering among the Ma
 
 “It’s no inconvenience for me, lord, but there is a wanderer who has already taken up residence there. If he gives his permission, you may stay there as you like.”
 
-Now at that time a clansman named Pukkusāti had left home and gone forth into homelessness through faith, out of dedication to the Blessed One. He was the one who had already taken up residence in the potter’s shed. So the Blessed One approached Ven. Pukkusāti and, on arrival, said to him, “If it is no inconvenience for you, monk, I will stay one night in the shed.”
+Now at that time a clansman named Pukkusāti had left home and gone forth into homelessness through faith, out of dedication to the Blessed One. He was the one who had already taken up residence in the potter’s shed. So the Blessed One approached Ven. Pukkusāti and, on arrival, said to him, “If it is no inconvenience for you, bhikkhu, I will stay one night in the shed.”
 
 “The shed is roomy, my friend. Stay as you like.”
 
-So the Blessed One, entering the potter’s shed and setting out a spread of grass to one side, sat down folding his legs crosswise, holding his body erect, and establishing mindfulness to the fore. He spent most of the night sitting (in meditation). Ven. Pukkusāti also spent most of the night sitting (in meditation). The thought occurred to the Blessed One, “How inspiring is the way this clansman behaves! What if I were to question him?” So he said to Ven. Pukkusāti, “Out of dedication to whom, monk, have you gone forth? Who is your teacher? Of whose Dhamma do you approve?”
+So the Blessed One, entering the potter’s shed and setting out a spread of grass to one side, sat down folding his legs crosswise, holding his body erect, and establishing mindfulness to the fore. He spent most of the night sitting (in meditation). Ven. Pukkusāti also spent most of the night sitting (in meditation). The thought occurred to the Blessed One, “How inspiring is the way this clansman behaves! What if I were to question him?” So he said to Ven. Pukkusāti, “Out of dedication to whom, bhikkhu, have you gone forth? Who is your teacher? Of whose Dhamma do you approve?”
 
 “There is, my friend, Gotama the contemplative, a son of the Sakyans, gone forth from a Sakyan clan. Now, this excellent report about Master Gotama has been spread about: ‘Indeed, the Blessed One is worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed.’ I have gone forth out of dedication to that Blessed One. That Blessed One is my teacher. It is of that Blessed One’s Dhamma that I approve.”
 
-“But where, monk, is that Blessed One—worthy & rightly self-awakened—staying now?”
+“But where, bhikkhu, is that Blessed One—worthy & rightly self-awakened—staying now?”
 
 “There is, my friend, a city in the northern lands named Sāvatthī. That is where the Blessed One—worthy & rightly self-awakened—is staying now.”
 
@@ -35,7 +35,7 @@ So the Blessed One, entering the potter’s shed and setting out a spread of gra
 
 “No, my friend, I have never seen the Blessed One before, nor on seeing him would I recognize him.”
 
-Then the thought occurred to the Blessed One: “It’s out of dedication to me that this clansman has gone forth. What if I were to teach him the Dhamma?” So he said to Ven. Pukkusāti, “I will teach you the Dhamma, monk. Listen & pay close attention. I will speak.”
+Then the thought occurred to the Blessed One: “It’s out of dedication to me that this clansman has gone forth. What if I were to teach him the Dhamma?” So he said to Ven. Pukkusāti, “I will teach you the Dhamma, bhikkhu. Listen & pay close attention. I will speak.”
 
 “As you say, friend,” Ven. Pukkusāti responded to the Blessed One.
 
@@ -75,23 +75,23 @@ The Blessed One said: “A person has six properties, six media of sensory conta
 
 “Just as an oil lamp would burn in dependence on oil & wick and, from the termination of the oil & wick, it would go out unnourished; in the same way, when sensing a feeling limited to the body, one discerns, ‘I am sensing a feeling limited to the body.’ When sensing a feeling limited to life, one discerns, ‘I am sensing a feeling limited to life.’ One discerns, ‘With the break-up of the body, after the termination of life, all that is experienced, not being relished, will grow cold right here.’
 
-“Thus a monk so endowed is endowed with the highest determination for discernment, for this—the knowledge of the passing away of all suffering & stress—is the highest noble discernment.
+“Thus a bhikkhu so endowed is endowed with the highest determination for discernment, for this—the knowledge of the passing away of all suffering & stress—is the highest noble discernment.
 
-“His release, being founded on truth, does not fluctuate, for whatever is deceptive is false; unbinding—the undeceptive—is true. Thus a monk so endowed is endowed with the highest determination for truth, for this—unbinding, the undeceptive—is the highest noble truth.
+“His release, being founded on truth, does not fluctuate, for whatever is deceptive is false; unbinding—the undeceptive—is true. Thus a bhikkhu so endowed is endowed with the highest determination for truth, for this—unbinding, the undeceptive—is the highest noble truth.
 
-“Whereas formerly he foolishly had taken on mental acquisitions and brought them to completion, he has now abandoned them, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Thus a monk so endowed is endowed with the highest determination for relinquishment, for this—the renunciation of all mental acquisitions—is the highest noble relinquishment.
+“Whereas formerly he foolishly had taken on mental acquisitions and brought them to completion, he has now abandoned them, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Thus a bhikkhu so endowed is endowed with the highest determination for relinquishment, for this—the renunciation of all mental acquisitions—is the highest noble relinquishment.
 
-“Whereas formerly he foolishly had greed—as well as desire & infatuation—he has now abandoned them, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Whereas formerly he foolishly had malice—as well as ill-will & hatred—he has now abandoned them.... Whereas formerly he foolishly had ignorance—as well as delusion & confusion—he has now abandoned them, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Thus a monk so endowed is endowed with the highest determination for calm, for this—the calming of passions, aversions, & delusions—is the highest noble calm. ‘One should not be negligent of discernment, should guard the truth, be devoted to relinquishment, and train only for calm.’ Thus it was said, and in reference to this was it said.
+“Whereas formerly he foolishly had greed—as well as desire & infatuation—he has now abandoned them, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Whereas formerly he foolishly had malice—as well as ill-will & hatred—he has now abandoned them.... Whereas formerly he foolishly had ignorance—as well as delusion & confusion—he has now abandoned them, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Thus a bhikkhu so endowed is endowed with the highest determination for calm, for this—the calming of passions, aversions, & delusions—is the highest noble calm. ‘One should not be negligent of discernment, should guard the truth, be devoted to relinquishment, and train only for calm.’ Thus it was said, and in reference to this was it said.
 
 “‘He has been stilled where the currents of supposition do not flow. And when the currents of supposition do not flow, he is said to be a sage at peace.’ Thus it was said. With reference to what was it said? ‘I am’ is a supposition. ‘I am this’ is a supposition. ‘I shall be’ is a supposition. ‘I shall not be’ ... ‘I shall be possessed of form’ ... ‘I shall not be possessed of form’ ... ‘I shall be percipient’ ... ‘I shall not be percipient’ ... ‘I shall be neither percipient nor non-percipient’ is a supposition. Supposition is a disease, supposition is a cancer, supposition is an arrow. By going beyond all supposition, he is called a sage at peace.
 
-“And further, a sage at peace is not born, does not age, does not die, is unagitated, and is free from longing. He has nothing whereby he would be born. Not being born, will he age? Not aging, will he die? Not dying, will he be agitated? Not being agitated, for what will he long? It was in reference to this that it was said, ‘He has been stilled where the currents of supposition do not flow. And when the currents of supposition do not flow, he is said to be a sage at peace.’ Now, monk, you should remember this, my brief analysis of the six properties.”
+“And further, a sage at peace is not born, does not age, does not die, is unagitated, and is free from longing. He has nothing whereby he would be born. Not being born, will he age? Not aging, will he die? Not dying, will he be agitated? Not being agitated, for what will he long? It was in reference to this that it was said, ‘He has been stilled where the currents of supposition do not flow. And when the currents of supposition do not flow, he is said to be a sage at peace.’ Now, bhikkhu, you should remember this, my brief analysis of the six properties.”
 
 Then the thought occurred to Ven. Pukkusāti: “Surely, the Teacher has come to me! Surely, the One Well-Gone has come to me! Surely, the Rightly Self-awakened One has come to me!” Getting up from his seat, arranging his upper robe over one shoulder, and bowing down with his head at the Blessed One’s feet, he said, “A transgression has overcome me, lord, in that I was so foolish, so muddle-headed, and so unskilled as to assume that it was proper to address the Blessed One as ‘friend.’ May the Blessed One please accept this confession of my transgression as such, so that I may restrain myself in the future.”
 
-“Yes, monk, a transgression overcame you in that you were so foolish, so muddle-headed, and so unskilled as to assume that it was proper to address me as ‘friend.’ But because you see your transgression as such and make amends in accordance with the Dhamma, we accept your confession. For it is a cause of growth in the discipline of the noble ones when, seeing a transgression as such, one makes amends in accordance with the Dhamma and exercises restraint in the future.”
+“Yes, bhikkhu, a transgression overcame you in that you were so foolish, so muddle-headed, and so unskilled as to assume that it was proper to address me as ‘friend.’ But because you see your transgression as such and make amends in accordance with the Dhamma, we accept your confession. For it is a cause of growth in the discipline of the noble ones when, seeing a transgression as such, one makes amends in accordance with the Dhamma and exercises restraint in the future.”
 
-“Lord, may I receive full acceptance [ordination as a monk] from the Blessed One?”
+“Lord, may I receive full acceptance [ordination as a bhikkhu] from the Blessed One?”
 
 “And are your robes & bowl complete?”
 
@@ -101,11 +101,11 @@ Then the thought occurred to Ven. Pukkusāti: “Surely, the Teacher has come to
 
 Then Ven. Pukkusāti, delighting & rejoicing in the Blessed One’s words, got up from his seat, bowed down to the Blessed One and, keeping him on his right, left in search of robes & a bowl. And while he was searching for robes & a bowl, a runaway cow killed him.
 
-Then a large number of monks approached the Blessed One and, on arrival, having bowed down to him, sat to one side. As they were sitting there, they said to the Blessed One, “Lord, the clansman Pukkusāti, whom the Blessed One instructed with a brief instruction, has died. What is his destination? What is his future state?”
+Then a large number of bhikkhus approached the Blessed One and, on arrival, having bowed down to him, sat to one side. As they were sitting there, they said to the Blessed One, “Lord, the clansman Pukkusāti, whom the Blessed One instructed with a brief instruction, has died. What is his destination? What is his future state?”
 
-“Monks, the clansman Pukkusāti was wise. He practiced the Dhamma in accordance with the Dhamma and did not pester me with issues related to the Dhamma. With the destruction of the five lower fetters, he has arisen spontaneously (in the Pure Abodes), there to be totally unbound, never again to return from that world.”
+“bhikkhus, the clansman Pukkusāti was wise. He practiced the Dhamma in accordance with the Dhamma and did not pester me with issues related to the Dhamma. With the destruction of the five lower fetters, he has arisen spontaneously (in the Pure Abodes), there to be totally unbound, never again to return from that world.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 See also: [[mn28-thanissaro]]; [[mn106-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.207-thanissaro]]; [[sn36.7-thanissaro]]; [[an9.36-thanissaro]]; [[ud1.10-thanissaro]]
 

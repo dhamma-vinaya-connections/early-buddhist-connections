@@ -39,7 +39,7 @@ since they speak on themselves of their own accord.
 
 ---
 
-783 A mendicant, peaceful, quenched,  
+783 A bhikkhu, peaceful, quenched,  
 never boasts “thus am I” of their precepts.  
 They have a noble nature, say the experts,  
 not proud of anything in the world.

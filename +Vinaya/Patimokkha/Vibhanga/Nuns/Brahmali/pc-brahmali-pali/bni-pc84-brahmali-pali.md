@@ -22,20 +22,20 @@ language: "Pali - English"
 
 2The nuns heard the complaints of those people. The nuns of few desires complained and criticized them, “How can the nuns from the group of six use sunshades and sandals?” …
 
-“Is it true, monks, that those nuns do this?”
+“Is it true, bhikkhus, that those nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 3‘If a nun uses a sunshade and sandals, she commits an offense entailing confession.’”
 
 4In this way the Buddha laid down this training rule for the nuns.
 
-5Soon afterwards there was a sick nun who was not comfortable without sandals and a sunshade. … They told the Buddha. The Buddha then had the Sangha gathered and addressed the monks: “Monks, I allow a sick nun to use a sunshade and sandals.
+5Soon afterwards there was a sick nun who was not comfortable without sandals and a sunshade. … They told the Buddha. The Buddha then had the Sangha gathered and addressed the bhikkhus: “bhikkhus, I allow a sick nun to use a sunshade and sandals.
 
-And so, monks, the nuns should recite this training rule like this:
+And so, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

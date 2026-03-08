@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five powers of a trainee. What five? The powers of faith, conscience, prudence, energy, and wisdom.
+1“bhikkhus, there are these five powers of a trainee. What five? The powers of faith, conscience, prudence, energy, and wisdom.
 
 2And what is the power of faith? It’s when a noble disciple has faith in the Realized One’s awakening: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ This is called the power of faith.
 
@@ -28,7 +28,7 @@ language: "English - Pali"
 
 4And what is the power of prudence? It’s when a noble disciple is prudent. They’re prudent when it comes to bad conduct by way of body, speech, and mind, and prudent when it comes to acquiring any bad, unskillful qualities. This is called the power of prudence.
 
-5And what is the power of energy? It’s when a mendicant lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They’re strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. This is called the power of energy.
+5And what is the power of energy? It’s when a bhikkhu lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They’re strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. This is called the power of energy.
 
 6And what is the power of wisdom? It’s when a noble disciple is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. This is called the power of wisdom. These are the five powers of a trainee.
 

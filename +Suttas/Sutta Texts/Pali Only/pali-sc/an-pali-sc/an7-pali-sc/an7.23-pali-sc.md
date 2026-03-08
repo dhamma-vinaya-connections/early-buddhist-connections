@@ -2,7 +2,7 @@
 sutta_code: "AN7.23"
 sutta_title:
   - "Bhikkhu-Aparihaniya "
-  - "Non-Decline For Mendicants"
+  - "Non-Decline For bhikkhus"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---
@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 7: The Book of the Sevens
-### AN 7.23: Paṭhamasattakasutta — Non-Decline for Mendicants (1st)
+### AN 7.23: Paṭhamasattakasutta — Non-Decline for bhikkhus (1st)
 
 1Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Tatra kho bhagavā bhikkhū āmantesi: 
 

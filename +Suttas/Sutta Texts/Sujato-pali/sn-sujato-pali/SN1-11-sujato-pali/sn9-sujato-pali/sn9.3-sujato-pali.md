@@ -28,7 +28,7 @@ Now at that time Venerable Kassapagotta, having withdrawn for his day’s medita
 2“A tribal hunter wandering the rugged hills  
 is unintelligent, unthinking.  
 It’s a waste of time to advise him;  
-this mendicant seems to me like an idiot.
+this bhikkhu seems to me like an idiot.
 
 3The tribal hunter listens without understanding,  
 he looks without seeing.  

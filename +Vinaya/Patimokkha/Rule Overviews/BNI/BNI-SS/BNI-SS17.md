@@ -44,7 +44,7 @@ vin_gender-corr: "BU-SS13"
 > > 
 > > > From BMC1
 > > 
-> > 1. Accusing monks as chandagàmini, dosagàmini, mohagàmini, bhayagàmini 2. Being admonished in legal Vinaya-kamma 3. Completion of kamma-vàca 4. He does not give up effort and attitude
+> > 1. Accusing bhikkhus as chandagàmini, dosagàmini, mohagàmini, bhayagàmini 2. Being admonished in legal Vinaya-kamma 3. Completion of kamma-vàca 4. He does not give up effort and attitude
 > 
 > > [!info]- No Offence 
 > > > From Vibhanga
@@ -68,7 +68,7 @@ vin_gender-corr: "BU-SS13"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-SS17 | [[BU-SS13]] | Vin.4.223-4.242 |
 

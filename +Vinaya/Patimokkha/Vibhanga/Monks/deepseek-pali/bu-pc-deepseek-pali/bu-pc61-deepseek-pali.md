@@ -15,15 +15,15 @@ language: "Pali - English"
 
 382. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā udāyī issāso hoti, kākā cassa amanāpā honti. So kāke vijjhitvā vijjhitvā sīsaṃ chinditvā sūle paṭipāṭiyā ṭhapesi. Bhikkhū evamāhaṃsu – ‘‘kenime, āvuso, kākā jīvitā voropitā’’ti? ‘‘Mayā, āvuso. Amanāpā me kākā’’ti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma āyasmā udāyī sañcicca pāṇaṃ jīvitā voropessatī’’ti…pe… saccaṃ kira tvaṃ, udāyi, sañcicca pāṇaṃ jīvitā voropesīti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tvaṃ, moghapurisa, sañcicca pāṇaṃ jīvitā voropessasi! Netaṃ, moghapurisa, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-382.At one time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Now at that time Venerable Udāyī was an archer, and crows were disagreeable to him. He repeatedly shot them with arrows, cut off their heads, and impaled them in a row on stakes. The monks said, "Who has deprived these crows of life, reverend?" "I have, reverend. Crows are disagreeable to me." Those monks of few desires… complained, murmured, and criticized him, "How could Venerable Udāyī intentionally deprive a living being of life?" … "Is it true, Udāyī, that you intentionally deprived a living being of life?" "It is true, Blessed One." The Blessed One rebuked him… "Foolish man, how could you intentionally deprive a living being of life! This will not inspire confidence in the unconfident… And thus, monks, this training rule should be recited:
+382.At one time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Now at that time Venerable Udāyī was an archer, and crows were disagreeable to him. He repeatedly shot them with arrows, cut off their heads, and impaled them in a row on stakes. The bhikkhus said, "Who has deprived these crows of life, reverend?" "I have, reverend. Crows are disagreeable to me." Those bhikkhus of few desires… complained, murmured, and criticized him, "How could Venerable Udāyī intentionally deprive a living being of life?" … "Is it true, Udāyī, that you intentionally deprived a living being of life?" "It is true, Blessed One." The Blessed One rebuked him… "Foolish man, how could you intentionally deprive a living being of life! This will not inspire confidence in the unconfident… And thus, bhikkhus, this training rule should be recited:
 
 383. ‘‘Yo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya, pācittiya’’nti.
 
-383."Whatever monk should intentionally deprive a living being of life, there is an offense entailing confession."
+383."Whatever bhikkhu should intentionally deprive a living being of life, there is an offense entailing confession."
 
 384. Yo panāti yo yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-384."Whatever" means whoever, whatever kind… "Monk" means… the monk intended in this case.
+384."Whatever" means whoever, whatever kind… "bhikkhu" means… the bhikkhu intended in this case.
 
 Sañciccāti jānanto sañjānanto cecca abhivitaritvā vītikkamo.
 

@@ -2,7 +2,7 @@
 sutta_code: "AN5.237"
 sutta_title:
   - "Anukampa "
-  - "Compassionate Mendicant"
+  - "Compassionate bhikkhu"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---

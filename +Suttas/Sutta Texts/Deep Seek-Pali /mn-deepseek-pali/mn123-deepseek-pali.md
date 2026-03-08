@@ -68,7 +68,7 @@ Then, the Venerable Bākula, taking a key, went from dwelling to dwelling and sa
 
 Āyasmā bākulo majjhe bhikkhusaṅghassa nisinnakova parinibbāyi. ‘‘Yaṃpāyasmā bākulo majjhe bhikkhusaṅghassa nisinnakova parinibbāyi, idampi mayaṃ āyasmato bākulassa acchariyaṃ abbhutadhammaṃ dhāremā’’ti.
 
-The Venerable Bākula attained final Nibbāna while seated in the midst of the Saṅgha of monks. "That the Venerable Bākula attained final Nibbāna while seated in the midst of the Saṅgha of monks—this too we consider a marvelous and astonishing quality of the Venerable Bākula."
+The Venerable Bākula attained final Nibbāna while seated in the midst of the Saṅgha of bhikkhus. "That the Venerable Bākula attained final Nibbāna while seated in the midst of the Saṅgha of bhikkhus—this too we consider a marvelous and astonishing quality of the Venerable Bākula."
 
 Bākulasuttaṃ niṭṭhitaṃ catutthaṃ.
 

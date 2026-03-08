@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 66
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three kinds of cleanliness. Which three? Bodily cleanliness, verbal cleanliness, mental cleanliness. These are the three kinds of cleanliness.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three kinds of cleanliness. Which three? Bodily cleanliness, verbal cleanliness, mental cleanliness. These are the three kinds of cleanliness.”
 
 Clean in body,
 

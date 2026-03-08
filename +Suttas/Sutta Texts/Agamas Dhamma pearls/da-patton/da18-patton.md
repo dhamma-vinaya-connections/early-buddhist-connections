@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 18. Personal Gladness
 
-1. Thus I have heard: One time, the Buddha was staying at the city of Nālanda in Prāvārika’s mango grove. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying at the city of Nālanda in Prāvārika’s mango grove. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 2. It was then that the elder Śāriputra was in a quiet dwelling and thought to himself, “I know with certainty that there’s no ascetic or priest in the past, future, or present whose powers of wisdom, miraculous ability, virtue, or awakening match those of the Tathāgata, Arhat, and Completely Awakened One.”
 
@@ -149,13 +149,13 @@ He replied, “I don’t know them.”
 
 50. Venerable Udāyin then adjusted his robes to bare his right shoulder, knelt on his right knee, and saluted the Buddha was his hands together. “Extraordinary, Bhagavān! Few have as satisfied with little desire as the Bhagavān! The Bhagavān has great miraculous power and great majestic virtue, but he doesn’t make use of desires. If again some other ascetic or priest endeavored in this teaching through hardship to attain one thing, they could erect a banner and announce to the four quarters, ‘Today, the Bhagavān is satisfied with little desire …’
 
-51. “Śāriputra, you should teach this Dharma frequently for the monks, nuns, laymen, and laywomen. If they should have any doubts about the Buddha, Dharma, Saṅgha, or path, they won’t be tangled in doubt after hearing this teaching.”
+51. “Śāriputra, you should teach this Dharma frequently for the bhikkhus, nuns, laymen, and laywomen. If they should have any doubts about the Buddha, Dharma, Saṅgha, or path, they won’t be tangled in doubt after hearing this teaching.”
 
-52. The Bhagavān then told Śāriputra, “You should frequently teach this Dharma for the monks, nuns, laymen, and laywomen. Why is that? Those who have doubts about the Buddha, Dharma, Saṅgha, or path will have them resolved when they hear you give this teaching.”
+52. The Bhagavān then told Śāriputra, “You should frequently teach this Dharma for the bhikkhus, nuns, laymen, and laywomen. Why is that? Those who have doubts about the Buddha, Dharma, Saṅgha, or path will have them resolved when they hear you give this teaching.”
 
 Śāriputra responded, “Very well, Bhagavān!”
 
-53. After that, Śāriputra frequently taught this Dharma for the monks, nuns, laymen, and laywomen. Because they purified themselves, it was called the “Purification Sūtra.”
+53. After that, Śāriputra frequently taught this Dharma for the bhikkhus, nuns, laymen, and laywomen. Because they purified themselves, it was called the “Purification Sūtra.”
 
 54. When Śāriputra heard what the Buddha taught, he rejoiced and approved.
 

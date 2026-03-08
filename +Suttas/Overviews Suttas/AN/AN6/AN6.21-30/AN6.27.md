@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> The right time to visit an esteemed mendicant is when you need spiritual guidance and support
+> The right time to visit an esteemed bhikkhu is when you need spiritual guidance and support
 
 > [!info] Key Excerpts 
-> When a mendicant’s heart is overcome by sensual desire... in ill will … dullness and drowsiness … restlessness and remorse … doubt and don't understand where to focus on in order to end the defilements
+> When a bhikkhu’s heart is overcome by sensual desire... in ill will … dullness and drowsiness … restlessness and remorse … doubt and don't understand where to focus on in order to end the defilements
 > 
-> When a mendicant  don’t truly understand the escape from hindrances that has arisen, should go and ask advice from an estimated mendicant
+> When a bhikkhu  don’t truly understand the escape from hindrances that has arisen, should go and ask advice from an estimated bhikkhu
 > 
 
 

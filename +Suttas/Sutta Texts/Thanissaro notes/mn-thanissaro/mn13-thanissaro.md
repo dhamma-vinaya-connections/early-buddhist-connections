@@ -15,19 +15,19 @@ language: "English"
 ## ## Mahā Dukkhakkhandha Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then, early in the morning, several monks adjusted their lower robes and, carrying their bowls & outer robes, went into Sāvatthī for alms. The thought occurred to them, “It’s still too early to go into Sāvatthī for alms. What if we were to visit the park of the wanderers of other persuasions?”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then, early in the morning, several bhikkhus adjusted their lower robes and, carrying their bowls & outer robes, went into Sāvatthī for alms. The thought occurred to them, “It’s still too early to go into Sāvatthī for alms. What if we were to visit the park of the wanderers of other persuasions?”
 
 So they headed to the park of the wanderers of other persuasions. On arrival, they exchanged courteous greetings with the wanderers of other persuasions. After an exchange of friendly greetings & courtesies, they sat to one side. As they were sitting there, the wanderers of other persuasions said to them, “Friends, Gotama the contemplative describes the comprehension of sensuality. We, too, describe the comprehension of sensuality. He describes the comprehension of forms. We, too, describe the comprehension of forms. He describes the comprehension of feelings. We, too, describe the comprehension of feelings. So what is the difference, what the distinction, what the distinguishing factor between him and us in terms of his teaching and ours, his message and ours?”
 
-The monks, neither delighting nor disapproving of the words of the wanderers of other persuasions, got up from their seats, (thinking,) “We will learn the meaning of these words in the Blessed One’s presence.”
+The bhikkhus, neither delighting nor disapproving of the words of the wanderers of other persuasions, got up from their seats, (thinking,) “We will learn the meaning of these words in the Blessed One’s presence.”
 
-Then, having gone for alms in Sāvatthī, after their meal, returning from their alms round, the monks went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As they were sitting there, they [told him what had happened].
+Then, having gone for alms in Sāvatthī, after their meal, returning from their alms round, the bhikkhus went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As they were sitting there, they [told him what had happened].
 
-“Monks, when the wanderers of other persuasions say this, they are to be told, ‘What, friends, with regard to sensuality, is the allure, what the drawback, what the escape? What, with regard to forms, is the allure, what the drawback, what the escape? What, with regard to feelings, is the allure, what the drawback, what the escape?’ When asked this, they will not manage an answer and, what is more, will get themselves into trouble. Why is that? Because it lies outside their range. Monks, in this world with its devas, Māras, and Brahmās, in this people with its contemplatives & brahmans, its royalty & commonfolk, I do not see anyone who can satisfy the mind with an answer to these questions, aside from a Tathāgata, a Tathāgata’s disciples, or someone who has heard it from them.
+“bhikkhus, when the wanderers of other persuasions say this, they are to be told, ‘What, friends, with regard to sensuality, is the allure, what the drawback, what the escape? What, with regard to forms, is the allure, what the drawback, what the escape? What, with regard to feelings, is the allure, what the drawback, what the escape?’ When asked this, they will not manage an answer and, what is more, will get themselves into trouble. Why is that? Because it lies outside their range. bhikkhus, in this world with its devas, Māras, and Brahmās, in this people with its contemplatives & brahmans, its royalty & commonfolk, I do not see anyone who can satisfy the mind with an answer to these questions, aside from a Tathāgata, a Tathāgata’s disciples, or someone who has heard it from them.
 
 ## Sensuality
 
-“Now what, monks, is the allure of sensuality? These five strings of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked to sensual desire. Sounds cognizable via the ear... Aromas cognizable via the nose... Flavors cognizable via the tongue... Tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked to sensual desire. Now whatever pleasure or happiness arises in dependence on these five strands of sensuality, that is the allure of sensuality.
+“Now what, bhikkhus, is the allure of sensuality? These five strings of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked to sensual desire. Sounds cognizable via the ear... Aromas cognizable via the nose... Flavors cognizable via the tongue... Tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked to sensual desire. Now whatever pleasure or happiness arises in dependence on these five strands of sensuality, that is the allure of sensuality.
 
 “And what is the drawback of sensuality? There is the case where, on account of the occupation by which a clansman makes a living—whether checking or accounting or calculating or plowing or trading or cattle-tending or archery or as a king’s man, or whatever the occupation may be—he faces cold, he faces heat, being harassed by mosquitoes & flies, wind & sun & creeping things, dying from hunger & thirst.
 
@@ -47,13 +47,13 @@ Then, having gone for alms in Sāvatthī, after their meal, returning from their
 
 “Again, it is with sensuality for the reason, sensuality for the source... that (people) engage in bodily misconduct, verbal misconduct, mental misconduct. Having engaged in bodily, verbal, and mental misconduct, they—on the break-up of the body, after death—re-appear in the plane of deprivation, the bad destination, the lower realms, in hell. Now this drawback too in the case of sensuality, this mass of stress in the future life, has sensuality for its reason, sensuality for its source, sensuality for its cause, the reason being simply sensuality.
 
-“And what, monks, is the escape from sensuality? The subduing of desire-passion for sensuality, the abandoning of desire-passion for sensuality: That is the escape from sensuality.
+“And what, bhikkhus, is the escape from sensuality? The subduing of desire-passion for sensuality, the abandoning of desire-passion for sensuality: That is the escape from sensuality.
 
 “That any contemplatives or brahmans who do not discern, as it has come to be, the allure of sensuality as allure, the drawback of sensuality as drawback, the escape from sensuality as escape, would themselves comprehend sensuality or would rouse another with the truth so that, in line with what he has practiced, he would comprehend sensuality: That is impossible. But that any contemplatives or brahmans who discern, as it has come to be, the allure of sensuality as allure, the drawback of sensuality as drawback, the escape from sensuality as escape, would themselves comprehend sensuality or would rouse another with the truth so that, in line with what he has practiced, he would comprehend sensuality: That is possible.
 
 ## Form
 
-“Now what, monks, is the allure of forms? Suppose there were a maiden of the noble caste, the brahman caste, or the householder class, fifteen or sixteen years old, neither too tall nor too short, neither too thin nor too plump, neither too dark nor too pale. Is her beauty & charm at that time at its height?”
+“Now what, bhikkhus, is the allure of forms? Suppose there were a maiden of the noble caste, the brahman caste, or the householder class, fifteen or sixteen years old, neither too tall nor too short, neither too thin nor too plump, neither too dark nor too pale. Is her beauty & charm at that time at its height?”
 
 “Yes, lord.”
 
@@ -63,35 +63,35 @@ Then, having gone for alms in Sāvatthī, after their meal, returning from their
 
 “Yes, lord.”
 
-“This, monks, is the drawback of forms.
+“This, bhikkhus, is the drawback of forms.
 
 “Again, one might see that very same woman sick, in pain, & seriously ill, lying soiled with her own urine & excrement, lifted up by others, laid down by others. What do you think? Has her earlier beauty & charm vanished, and the drawback appeared?”
 
 “Yes, lord.”
 
-“This too, monks, is the drawback of forms.
+“This too, bhikkhus, is the drawback of forms.
 
 “Again, one might see that very same woman as a corpse cast away in a charnel ground—one day, two days, three days dead, bloated, livid, & oozing. What do you think? Has her earlier beauty & charm vanished, and the drawback appeared?”
 
 “Yes, lord.”
 
-“This too, monks, is the drawback of forms.
+“This too, bhikkhus, is the drawback of forms.
 
 “Again, one might see that very same woman as a corpse cast away in a charnel ground picked at by crows, vultures, & hawks, by dogs, hyenas, & various other creatures... a skeleton smeared with flesh & blood, connected with tendons... a fleshless skeleton smeared with blood, connected with tendons... a skeleton without flesh or blood, connected with tendons... bones detached from their tendons, scattered in all directions—here a hand bone, there a foot bone, here a shin bone, there a thigh bone, here a hip bone, there a back bone, here a rib, there a breast bone, here a shoulder bone, there a neck bone, here a jaw bone, there a tooth, here a skull... the bones whitened, somewhat like the color of shells...piled up, more than a year old... decomposed into a powder. What do you think? Has her earlier beauty & charm vanished, and the drawback appeared?”
 
 “Yes, lord.”
 
-“This too, monks, is the drawback of forms.
+“This too, bhikkhus, is the drawback of forms.
 
-“And what, monks, is the escape from forms? The subduing of desire-passion for forms, the abandoning of desire-passion for forms: That is the escape from form.
+“And what, bhikkhus, is the escape from forms? The subduing of desire-passion for forms, the abandoning of desire-passion for forms: That is the escape from form.
 
 “That any contemplatives or brahmans who do not discern, as it has come to be, the allure of forms as allure, the drawback of forms as drawback, the escape from forms as escape, would themselves comprehend form or would rouse another with the truth so that, in line with what he has practiced, he would comprehend form: That is impossible. But that any contemplatives or brahmans who discern, as it has come to be, the allure of forms as allure, the drawback of forms as drawback, the escape from forms as escape, would themselves comprehend form or would rouse another with the truth so that, in line with what he has practiced, he would comprehend form: That is possible.
 
 ## Feeling
 
-“Now what, monks, is the allure of feelings? There is the case where a monk—quite secluded from sensuality, secluded from unskillful (mental) qualities—enters & remains in the first jhāna: rapture & pleasure born from seclusion, accompanied by directed thought & evaluation. At that time he does not intend his own affliction, the affliction of others, or the affliction of both. He feels a feeling totally unafflicted. The unafflicted, I tell you, is the highest allure of feelings.
+“Now what, bhikkhus, is the allure of feelings? There is the case where a bhikkhu—quite secluded from sensuality, secluded from unskillful (mental) qualities—enters & remains in the first jhāna: rapture & pleasure born from seclusion, accompanied by directed thought & evaluation. At that time he does not intend his own affliction, the affliction of others, or the affliction of both. He feels a feeling totally unafflicted. The unafflicted, I tell you, is the highest allure of feelings.
 
-“Again the monk, with the stilling of directed thoughts & evaluations, enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance... With the fading of rapture he remains equanimous, mindful & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding’... With the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—he enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. At that time he does not intend his own affliction, the affliction of others, or the affliction of both. He feels a feeling totally unafflicted. The unafflicted, I tell you, is the highest allure of feelings.
+“Again the bhikkhu, with the stilling of directed thoughts & evaluations, enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance... With the fading of rapture he remains equanimous, mindful & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding’... With the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—he enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. At that time he does not intend his own affliction, the affliction of others, or the affliction of both. He feels a feeling totally unafflicted. The unafflicted, I tell you, is the highest allure of feelings.
 
 “And what is the drawback of feelings? The fact that feeling is inconstant, stressful, subject to change: This is the drawback of feelings.
 
@@ -99,7 +99,7 @@ Then, having gone for alms in Sāvatthī, after their meal, returning from their
 
 “That any contemplatives or brahmans who do not discern, as it has come to be, the allure of feelings as allure, the drawback of feelings as drawback, the escape from feelings as escape, would themselves comprehend feeling or would rouse another with the truth so that, in line with what he has practiced, he would comprehend feeling: That is impossible. But that any contemplatives or brahmans who discern, as it has come to be, the allure of feelings as allure, the drawback of feelings as drawback, the escape from feelings as escape, would themselves comprehend feeling or would rouse another with the truth so that, in line with what he has practiced, he would comprehend feeling: That is possible.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 See also: [[mn54-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]]; [[an6.63-thanissaro]]; [[an9.34-thanissaro]]; [[an9.36-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
 

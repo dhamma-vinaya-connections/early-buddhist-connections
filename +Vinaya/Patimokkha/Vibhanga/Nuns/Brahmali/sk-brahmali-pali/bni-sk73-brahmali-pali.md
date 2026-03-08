@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were defecating and urinating while standing. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were defecating and urinating while standing. …
 
 #### Final ruling
 
 2“‘When not sick, I will not defecate or urinate while standing,’ this is how you should train.”
 
-3If one is not sick, one should not defecate or urinate while standing. If, out of disrespect, a monk who is not sick defecates or urinates while standing, he commits an offense of wrong conduct.
+3If one is not sick, one should not defecate or urinate while standing. If, out of disrespect, a bhikkhu who is not sick defecates or urinates while standing, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

@@ -7,15 +7,15 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC59]]
 > ◄  [[bu-pc58-horner]] 📜  [[bu-pc60-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 59
+# bhikkhus’ Expiation (_Pācittiya_) 59
 
-*Bu-Pc.59.1.1* *BD.2.411* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, himself having assigned a robe[^1] to a monk who shared his brother’s cell,[^2] made use of it, (the robe) not having been taken away.[^3] Then that monk told this matter to the monks, saying:
+*Bu-Pc.59.1.1* *BD.2.411* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, himself having assigned a robe[^1] to a bhikkhu who shared his brother’s cell,[^2] made use of it, (the robe) not having been taken away.[^3] Then that bhikkhu told this matter to the bhikkhus, saying:
 
 “Your reverences, this venerable Upananda, the son of the Sakyans, himself having assigned a robe to me, makes use of it, (the robe) not having been taken away.”
 
-Those who were modest monks … spread it about, saying:
+Those who were modest bhikkhus … spread it about, saying:
 
-“How can the venerable Upananda, the son of the Sakyans, himself having assigned a robe to a monk, make use of it, (the robe) not having been taken away?”
+“How can the venerable Upananda, the son of the Sakyans, himself having assigned a robe to a bhikkhu, make use of it, (the robe) not having been taken away?”
 
 “Is it true, as is said, that you, Upananda, yourself having assigned … not having been taken away?”
 
@@ -23,15 +23,15 @@ Those who were modest monks … spread it about, saying:
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, yourself having assigned … not having been taken away? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, yourself having assigned … not having been taken away? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, himself having assigned a robe to a monk or to a nun or to a female probationer or to a male novice or to a female novice, should make use of it, (the robe) not having been taken away, there is an offence of expiation.”[^4]
+“Whatever bhikkhu, himself having assigned a robe to a bhikkhu or to a nun or to a female probationer or to a male novice or to a female novice, should make use of it, (the robe) not having been taken away, there is an offence of expiation.”[^4]
 
 * * *
 
-*Bu-Pc.59.2.1* *BD.2.412* Whatever means: … is monk to be understood in this case. *Vin.4.122*
+*Bu-Pc.59.2.1* *BD.2.412* Whatever means: … is bhikkhu to be understood in this case. *Vin.4.122*
 
-To a monk means: to another monk.
+To a bhikkhu means: to another bhikkhu.
 
 A nun means: one ordained by both Orders.[^5]
 
@@ -63,7 +63,7 @@ The Ninth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

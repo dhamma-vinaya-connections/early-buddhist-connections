@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+> This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!info] Key Excerpts 
 > I do not see a single thing that’s as quick to change as the mind but when mind is pointing the right way can break ignorance,

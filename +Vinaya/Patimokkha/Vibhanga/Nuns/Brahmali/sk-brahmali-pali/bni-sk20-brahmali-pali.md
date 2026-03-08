@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were swaying and hanging their heads while sitting in inhabited areas. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were swaying and hanging their heads while sitting in inhabited areas. …
 
 #### Final ruling
 
 2“‘I will not sway my head while sitting in inhabited areas,’ this is how you should train.”
 
-3One should not sway one’s head while sitting in an inhabited area; one should sit keeping one’s head straight. If a monk, out of disrespect, sways and hangs his head while sitting in an inhabited area, he commits an offense of wrong conduct.
+3One should not sway one’s head while sitting in an inhabited area; one should sit keeping one’s head straight. If a bhikkhu, out of disrespect, sways and hangs his head while sitting in an inhabited area, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

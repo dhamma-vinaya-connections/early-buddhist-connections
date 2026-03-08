@@ -17,31 +17,31 @@ Translated by Charles Patton
 
 ### 29. Lohitya
 
-1. Thus I have heard: One time, the Buddha was in Kauśala touring among the people. With an assembly of 1,250 great monks, he went to the brahmin town of *Śālavatī and stopped to rest to the north in a rosewood grove.
+1. Thus I have heard: One time, the Buddha was in Kauśala touring among the people. With an assembly of 1,250 great bhikkhus, he went to the brahmin town of *Śālavatī and stopped to rest to the north in a rosewood grove.
 
 2. There was a brahmin then named Lohitya who was staying in a sal grove. His town was bountiful and happy, and the people were flourishing. King Prasenajit had awarded this town to that brahmin as his brahmin due. This brahmin was descended from seven generations of fathers and mothers who were genuine, so he wasn’t slandered by others. He chanted and fully understood the other canon of three divisions, and he could entirely discern the various kinds of scriptures. He was also skilled in the principle of the great man’s signs, divining fortune and misfortune, and sacrifices and rituals.
 
-3. He heard that the mendicant Gautama of the Śākya clan, who had left the home life and achieved awakening, was touring among the people of Kauśala and had arrived in a rosewood grove. This Gautama had a great reputation that was heard throughout the world. He was a Tathāgata, an Arhat, and a Perfectly Awakened One, fully endowed with the ten epithets. Of gods, worldly men, and demons, whether they were assemblies of Māra’s gods, mendicants, or brahmins, he had himself realized and taught the Dharma for others. It was good in the beginning, middle, and end, complete in meaning and manner, and the purification of the religious life. Lohitya said: “It would be fitting to go and have an audience with such a true man as this. I would like to go and pay him a visit now.”
+3. He heard that the bhikkhu Gautama of the Śākya clan, who had left the home life and achieved awakening, was touring among the people of Kauśala and had arrived in a rosewood grove. This Gautama had a great reputation that was heard throughout the world. He was a Tathāgata, an Arhat, and a Perfectly Awakened One, fully endowed with the ten epithets. Of gods, worldly men, and demons, whether they were assemblies of Māra’s gods, bhikkhus, or brahmins, he had himself realized and taught the Dharma for others. It was good in the beginning, middle, and end, complete in meaning and manner, and the purification of the religious life. Lohitya said: “It would be fitting to go and have an audience with such a true man as this. I would like to go and pay him a visit now.”
 
 4. The brahmin then left his village and went to visit the Bhagavān in the rosewood grove. After making polite inquiries, he sat to one side. The Buddha taught the Dharma for him, and the instruction was profitable and elating. After that brahmin heard the Dharma, he said to the Buddha, “May the Bhagavān and the great assembly clearly accept my invitation.”
 
 The Bhagavān then silently accepted his invitation.
 
-5. The brahmin saw that the Buddha was silent. Once he knew that he had the Buddha’s assent, he rose from his seat, circled the Buddha, and left. He wasn’t far away from the Buddha when a bad view occurred to him: “Mendicants and brahmins often know the good Dharma, and many are their proofs, but they shouldn’t teach it to other people. They simply know it for themselves and desist from discussing it with others. It’s like a man who builds a new prison after he destroys an old prison. It’s a greedy, bad, and unwholesome thing!”
+5. The brahmin saw that the Buddha was silent. Once he knew that he had the Buddha’s assent, he rose from his seat, circled the Buddha, and left. He wasn’t far away from the Buddha when a bad view occurred to him: “bhikkhus and brahmins often know the good Dharma, and many are their proofs, but they shouldn’t teach it to other people. They simply know it for themselves and desist from discussing it with others. It’s like a man who builds a new prison after he destroys an old prison. It’s a greedy, bad, and unwholesome thing!”
 
-6. After the brahmin returned to the sal grove, he then prepared a variety of delicious food and drink that night. When he arrived, the brahmin said to his barber, “Remember my words and go to the rosewood grove. Tell the mendicant Gautama, ‘Once morning has arrived, you should know that it’s time.’”
+6. After the brahmin returned to the sal grove, he then prepared a variety of delicious food and drink that night. When he arrived, the brahmin said to his barber, “Remember my words and go to the rosewood grove. Tell the bhikkhu Gautama, ‘Once morning has arrived, you should know that it’s time.’”
 
 7. His barber accepted and performed his instructions. He went to the Buddha and bowed at the Bhagavān’s feet. “Once the day has come, you should know that it’s time.”
 
 8. The Bhagavān then put on his robe, picked up his bowl, and went to the sal grove with his 1,250 disciples.
 
-9. The barber followed the Bhagavān on his right side, saluted him with his palms together, and told the Buddha, “That brahmin Lohitya had this evil view occur to him not far from the Buddha when he left: ‘Mendicants and brahmins often know the good Dharma, and many are their proofs, but they shouldn’t teach it to other people. They simply know it for themselves and desist from discussing it with others. It’s like a man who builds a new prison after he destroys an old prison. It’s a greedy, bad, and unwholesome thing!’ May the Bhagavān remove his bad view.”
+9. The barber followed the Bhagavān on his right side, saluted him with his palms together, and told the Buddha, “That brahmin Lohitya had this evil view occur to him not far from the Buddha when he left: ‘bhikkhus and brahmins often know the good Dharma, and many are their proofs, but they shouldn’t teach it to other people. They simply know it for themselves and desist from discussing it with others. It’s like a man who builds a new prison after he destroys an old prison. It’s a greedy, bad, and unwholesome thing!’ May the Bhagavān remove his bad view.”
 
 The Buddha told the barber, “This is only a minor subject that’s easily taught.”
 
 10. When the Bhagavān arrived at the brahmin’s residence, he prepared a seat, and sat down. The brahmin then personally served them various delicious foods, providing it to the Buddha and the assembly. When they had finished the meal, left with their bowls, and were done washing them, they gave a small sofa to the Buddha to sit in front.
 
-11. The Buddha then told Lohitya, “Yesterday, you weren’t far away after you left when a bad view occurred to you: ‘Mendicants and brahmins often know the good Dharma, and many are their proofs, but they shouldn’t teach it to other people. They simply know it for themselves and desist from discussing it with others. It’s like a man who builds a new prison after he destroys an old prison. It’s a greedy, bad, and unwholesome thing!’ Is that statement true?”
+11. The Buddha then told Lohitya, “Yesterday, you weren’t far away after you left when a bad view occurred to you: ‘bhikkhus and brahmins often know the good Dharma, and many are their proofs, but they shouldn’t teach it to other people. They simply know it for themselves and desist from discussing it with others. It’s like a man who builds a new prison after he destroys an old prison. It’s a greedy, bad, and unwholesome thing!’ Is that statement true?”
 
 Lohitya said, “Yes, it’s true that this happened.”
 
@@ -65,7 +65,7 @@ Lohitya said, “Yes, it’s true that this happened.”
 
 21. “Lohitya, there’s one Bhagavān who doesn’t reside in the mundane and cannot be shaken. Who is the one? If a Tathāgata, an Arhat, and a Completely Awakened One appears in the world … _up to_ … attains three knowledges, eliminates ignorance, gives rise to the radiance of wisdom, leaves behind darkness, and produces the great light of Dharma, then that’s known as the realization of the knowledge that the contaminants are ended. What is the reason for that? These are attainments that come from diligence, focus, mindfulness, unforgetfulness, and happy solitude. Lohitya, this is the first Bhagavān who doesn’t reside in the mundane and cannot be shaken.
 
-22. “Lohitya, there are four fruits of the mendicant. What are the four? They are the fruit of stream entry, fruit of once-returning, fruit of non-returning, and the fruit of the _arhat_. How is it, Lohitya? Someone who hears the teaching should attain these four fruits of a mendicant. Suppose someone prohibits it by saying, ‘Don’t teach the Dharma.’ If those words are put into action, would that person hear the Dharma and attain these fruits by doing so?”
+22. “Lohitya, there are four fruits of the bhikkhu. What are the four? They are the fruit of stream entry, fruit of once-returning, fruit of non-returning, and the fruit of the _arhat_. How is it, Lohitya? Someone who hears the teaching should attain these four fruits of a bhikkhu. Suppose someone prohibits it by saying, ‘Don’t teach the Dharma.’ If those words are put into action, would that person hear the Dharma and attain these fruits by doing so?”
 
 “He won’t attain them.”
 
@@ -93,7 +93,7 @@ Lohitya said, “Yes, it’s true that this happened.”
 
 “He’ll fall to a bad destiny.”
 
-29. “Lohitya, he’s likewise, someone who hears the Dharma and would attain four fruits of a mendicant. Suppose someone prohibits it by saying, ‘Don’t teach the Dharma.’ If those words are put into action, would that person hear the Dharma and attain these fruits?”
+29. “Lohitya, he’s likewise, someone who hears the Dharma and would attain four fruits of a bhikkhu. Suppose someone prohibits it by saying, ‘Don’t teach the Dharma.’ If those words are put into action, would that person hear the Dharma and attain these fruits?”
 
 “He won’t attain them.”
 
@@ -121,7 +121,7 @@ Lohitya said, “Yes, it’s true that this happened.”
 
 “He’ll fall to a bad destiny.”
 
-36. “Lohitya, it’s likewise for someone who hears the Dharma who would attain the four fruits of a mendicant. Suppose someone says, ‘Don’t teach the Dharma.’ If those words are put into action, would that person hear the Dharma and attain these fruits?”
+36. “Lohitya, it’s likewise for someone who hears the Dharma who would attain the four fruits of a bhikkhu. Suppose someone says, ‘Don’t teach the Dharma.’ If those words are put into action, would that person hear the Dharma and attain these fruits?”
 
 “He wouldn’t attain them.”
 

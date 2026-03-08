@@ -116,7 +116,7 @@ language: "English - Pali"
 
 375. ‘‘Katamo pana, bhante, maggo katamā paṭipadā etesaṃ dhammānaṃ sacchikiriyāyā’’ti? ‘‘Ayameva ariyo aṭṭhaṅgiko maggo. Seyyathidaṃ – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. Ayaṃ kho, mahāli, maggo ayaṃ paṭipadā etesaṃ dhammānaṃ sacchikiriyāya.
 
-375."But what, venerable sir, is the path, what is the practice for the realization of these qualities?" "It is this Noble Eightfold Path; that is to say: right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi. This, Mahāli, is the path, this is the practice for the realization of these qualities."
+375."But what, venerable sir, is the path, what is the practice for the realization of these qualities?" "It is this ![[Noble Path]]. This, Mahāli, is the path, this is the practice for the realization of these qualities."
 
 ## Dvepabbajitavatthu
 

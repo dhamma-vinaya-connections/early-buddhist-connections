@@ -82,7 +82,7 @@ go about
 
 seeing the Secure.
 
-A monk, living withdrawn,
+A bhikkhu, living withdrawn,
 
 enjoying a dwelling secluded:
 

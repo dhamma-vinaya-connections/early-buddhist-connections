@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, suppose a spike of rice or barley was pointing the right way. If you trod on it with hand or foot, it may well break the skin and produce blood. Why is that? Because the spike is pointing the right way. In the same way, a mendicant whose mind is pointing the right way can break ignorance, produce knowledge, and realize extinguishment. Why is that? Because the mind is pointing the right way.”"
+1“bhikkhus, suppose a spike of rice or barley was pointing the right way. If you trod on it with hand or foot, it may well break the skin and produce blood. Why is that? Because the spike is pointing the right way. In the same way, a bhikkhu whose mind is pointing the right way can break ignorance, produce knowledge, and realize extinguishment. Why is that? Because the mind is pointing the right way.”"
 
 1"Seyyathāpi, bhikkhave, sālisūkaṁ vā yavasūkaṁ vā sammāpaṇihitaṁ hatthena vā pādena vā akkantaṁ hatthaṁ vā pādaṁ vā bhecchati lohitaṁ vā uppādessatīti ṭhānametaṁ vijjati. Taṁ kissa hetu? Sammāpaṇihitattā, bhikkhave, sūkassa. Evamevaṁ kho, bhikkhave, so vata bhikkhu sammāpaṇihitena cittena avijjaṁ bhecchati, vijjaṁ uppādessati, nibbānaṁ sacchikarissatīti ṭhānametaṁ vijjati. Taṁ kissa hetu? Sammāpaṇihitattā, bhikkhave, cittassā"ti.
 

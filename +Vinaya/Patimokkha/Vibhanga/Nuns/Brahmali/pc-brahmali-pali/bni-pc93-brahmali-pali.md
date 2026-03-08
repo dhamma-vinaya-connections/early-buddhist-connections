@@ -27,12 +27,12 @@ When people walking about the dwellings saw this, they complained and criticized
 
 The nuns of few desires complained and criticized them, “How can nuns get female householders to massage and rub them?”
 
-“Is it true, monks, that the nuns do this?”
+“Is it true, bhikkhus, that the nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

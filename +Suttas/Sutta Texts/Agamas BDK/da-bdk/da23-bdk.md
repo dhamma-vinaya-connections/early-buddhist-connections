@@ -690,13 +690,13 @@ end of the rite. This became the standard method of preparing and per-
 forming the sacrificial rite.  
 The Buddha went on:  
 The _kṣatriya_ king, having completed the sacrificial rite, shaved his head  
-and beard, put on the three robes of a mendicant, abdicated his throne to  
+and beard, put on the three robes of a bhikkhu, abdicated his throne to  
 pursue the path of religion, and engaged in the practice of the four immea-  
 surables of the mind ( _catur-apramāṇas_ ); when he died, he was reborn in  
 the highest realm of Brahmā Heaven. The _brāhmaṇa_ minister too, having  
 assisted the king in performing sacrificial rites in the four regions, con-  
 ducted a sacrificial rite on his own and then shaved his head and beard,  
-put on the three robes of the mendicant, renounced domestic life to practice  
+put on the three robes of the bhikkhu, renounced domestic life to practice  
 the four kinds of austerity, and when he died, he was reborn in the highest  
 realm of Brahmā Heaven.  
 The Buddha then said to the _brāhmaṇa:_  

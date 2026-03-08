@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a trainee nun went to the nun Thullanandā and asked for the full ordination. Thullanandā told her, “If you follow me for two years, Venerable, I’ll give you the full admission.” But she neither gave her the full admission nor made any effort to have her fully admitted.
 
-2That trainee nun told the nuns what had happened. The nuns of few desires complained and criticized her, “How could Venerable Thullanandā say this to a trainee nun, but then neither give her the full admission nor make any effort to have her fully admitted?” … “Is it true, monks, that the nun Thullanandā did this?”
+2That trainee nun told the nuns what had happened. The nuns of few desires complained and criticized her, “How could Venerable Thullanandā say this to a trainee nun, but then neither give her the full admission nor make any effort to have her fully admitted?” … “Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā act in this way? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā act in this way? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

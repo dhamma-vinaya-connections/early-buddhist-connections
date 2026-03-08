@@ -47,7 +47,7 @@ parallels_partilal: ""
 > Reasons the realized one laid down training rules for his disciples
 
 > [!info] Key Excerpts 
-> For the well-being and comfort of the saṅgha … for keeping difficult persons in check and for the comfort of good-hearted mendicants, out of sympathy for laypeople and for breaking up factions of mendicants with wicked desires
+> For the well-being and comfort of the saṅgha … for keeping difficult persons in check and for the comfort of good-hearted bhikkhus, out of sympathy for laypeople and for breaking up factions of bhikkhus with wicked desires
 > 
 > For restraining defilements, threats, faults, hazards, unskillful qualities that affect the present life and protecting against those that affect lives to come, for inspiring confidence in those without it, and increasing confidence in those who have it … for the continuation of the true teaching and the support of the training.
 > 

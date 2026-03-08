@@ -18,21 +18,21 @@ Venerables, these thirty rules on relinquishment and confession come up for reci
 
 #### Origin
 
-2At one time when the Buddha was staying at Vesālī at the Gotamaka Shrine, he allowed the three robes for the monks. When they heard about this, the monks from the group of six went to the village in one set of three robes, stayed in the monastery in another set, and went to bathe in yet another set. The monks of few desires complained and criticized them, “How can the monks from the group of six keep extra robes?”
+2At one time when the Buddha was staying at Vesālī at the Gotamaka Shrine, he allowed the three robes for the bhikkhus. When they heard about this, the bhikkhus from the group of six went to the village in one set of three robes, stayed in the monastery in another set, and went to bathe in yet another set. The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six keep extra robes?”
 
 
-3After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you do this?”
+3After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Preliminary ruling
 
 4‘If a monk keeps an extra robe, he commits an offense entailing relinquishment and confession.’”
 
-5In this way the Buddha laid down this training rule for the monks.
+5In this way the Buddha laid down this training rule for the bhikkhus.
 
 #### Second sub-story
 
@@ -41,7 +41,7 @@ The Buddha rebuked them … “Foolish men, how can you do this? This will affec
 
 “Nine or ten days.”
 
-Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, you should keep an extra robe for ten days at the most. And so, monks, this training rule should be recited like this:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “bhikkhus, you should keep an extra robe for ten days at the most. And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -62,7 +62,7 @@ Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, yo
 
 13**If he keeps it longer than that, it becomes subject to relinquishment:** it becomes subject to relinquishment at dawn on the eleventh day.
 
-The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. After approaching the Sangha, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, raise his joined palms, and say:
+The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. After approaching the Sangha, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior bhikkhus. He should then squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, this robe-cloth, which I have kept over ten days, is to be relinquished. I relinquish it to the Sangha.’
 
@@ -71,7 +71,7 @@ After relinquishing it, he should confess the offense. The confession should be 
 
 14‘Please, Venerables, I ask the Sangha to listen. This robe-cloth, which was to be relinquished by monk so-and-so, has been relinquished to the Sangha. If it seems appropriate to the Sangha, the Sangha should give this robe-cloth back to monk so-and-so.’
 
-15Or: after approaching several monks, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, raise his joined palms, and say,
+15Or: after approaching several bhikkhus, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior bhikkhus. He should then squat on his heels, raise his joined palms, and say,
 
 ‘Venerables, this robe-cloth, which I have kept over ten days, is to be relinquished. I relinquish it to the venerables.’
 
@@ -100,9 +100,9 @@ If it has not been determined, but he perceives that it has, he commits an offen
 
 20There is no offense: if within ten days it has been determined, assigned to another, given away, lost, destroyed, burned, stolen, or taken on trust; if he is insane; if he is the first offender.
 
-21Soon afterwards the monks from the group of six did not give back relinquished robe-cloth. They told the Buddha.
+21Soon afterwards the bhikkhus from the group of six did not give back relinquished robe-cloth. They told the Buddha.
 
-“Monks, relinquished robe-cloth should be given back. If you don’t give it back, you commit an offense of wrong conduct.”
+“bhikkhus, relinquished robe-cloth should be given back. If you don’t give it back, you commit an offense of wrong conduct.”
 
 22The training rule on the robe season, the first, is finished.
 

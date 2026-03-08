@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these seven good qualities. What seven?
+1“bhikkhus, there are these seven good qualities. What seven?
 
 Someone is faithful, conscientious, prudent, learned, energetic, mindful, and wise.
 

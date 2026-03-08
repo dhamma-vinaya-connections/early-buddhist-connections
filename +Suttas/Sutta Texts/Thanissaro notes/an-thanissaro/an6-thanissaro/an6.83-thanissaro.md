@@ -15,17 +15,17 @@ language: "English"
 ## ## Aggadhamma Sutta
 
 
-“Monks, endowed with six qualities, a monk is incapable of attaining arahantship, the foremost state. Which six?
+“bhikkhus, endowed with six qualities, a bhikkhu is incapable of attaining arahantship, the foremost state. Which six?
 
-“There is the case where a monk is without conviction, is shameless, is without compunction, is lazy, is undiscerning, and is concerned with his body & life.
+“There is the case where a bhikkhu is without conviction, is shameless, is without compunction, is lazy, is undiscerning, and is concerned with his body & life.
 
-“Endowed with these six qualities, a monk is incapable of attaining arahantship, the foremost state.
+“Endowed with these six qualities, a bhikkhu is incapable of attaining arahantship, the foremost state.
 
-“Monks, endowed with six qualities, a monk is capable of attaining arahantship, the foremost state. Which six?
+“bhikkhus, endowed with six qualities, a bhikkhu is capable of attaining arahantship, the foremost state. Which six?
 
-“There is the case where a monk has conviction, has a sense of shame, has compunction, has his persistence aroused, is discerning, and is unconcerned with his body & life.
+“There is the case where a bhikkhu has conviction, has a sense of shame, has compunction, has his persistence aroused, is discerning, and is unconcerned with his body & life.
 
-“Endowed with these six qualities, a monk is capable of attaining arahantship, the foremost state.”
+“Endowed with these six qualities, a bhikkhu is capable of attaining arahantship, the foremost state.”
 
 See also: [[an5.2-thanissaro]]; [[/snp2.10-thanissaro]]; [[/snp3.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag2-thanissaro]]
 

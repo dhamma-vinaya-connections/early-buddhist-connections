@@ -24,22 +24,22 @@ language: "English - Pali"
 
 Then the householder Dārukammika went up to the Buddha, bowed, and sat down to one side. The Buddha said to him: “Householder, I wonder whether your family gives gifts?”
 
-“It does, sir. Gifts are given to those mendicants who are perfected or on the path to perfection; they live in the wilderness, eat only alms-food, and wear rag robes.”
+“It does, sir. Gifts are given to those bhikkhus who are perfected or on the path to perfection; they live in the wilderness, eat only alms-food, and wear rag robes.”
 
 
 2“Householder, as a layman enjoying sensual pleasures, living at home with your children, using sandalwood imported from Kāsi, wearing garlands, fragrance, and makeup, and accepting gold and money, it’s hard for you to know who is perfected or on the path to perfection.
 
-3If a mendicant living in the wilderness is restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying mind and undisciplined faculties, then in this respect they’re reprehensible. If a mendicant living in the wilderness is not restless, insolent, fickle, gossipy, or loose-tongued, but has established mindfulness, situational awareness and immersion, with unified mind and restrained faculties, then in this respect they’re praiseworthy.
+3If a bhikkhu living in the wilderness is restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying mind and undisciplined faculties, then in this respect they’re reprehensible. If a bhikkhu living in the wilderness is not restless, insolent, fickle, gossipy, or loose-tongued, but has established mindfulness, situational awareness and immersion, with unified mind and restrained faculties, then in this respect they’re praiseworthy.
 
-4If a mendicant who lives in the neighborhood of a village is restless … then in this respect they’re reprehensible. If a mendicant who lives in the neighborhood of a village is not restless … then in this respect they’re praiseworthy.
+4If a bhikkhu who lives in the neighborhood of a village is restless … then in this respect they’re reprehensible. If a bhikkhu who lives in the neighborhood of a village is not restless … then in this respect they’re praiseworthy.
 
-5If a mendicant who eats only alms-food is restless … then in this respect they’re reprehensible. If a mendicant who eats only alms-food is not restless … then in this respect they’re praiseworthy.
+5If a bhikkhu who eats only alms-food is restless … then in this respect they’re reprehensible. If a bhikkhu who eats only alms-food is not restless … then in this respect they’re praiseworthy.
 
-6If a mendicant who accepts invitations is restless … then in this respect they’re reprehensible. If a mendicant who accepts invitations is not restless … then in this respect they’re praiseworthy.
+6If a bhikkhu who accepts invitations is restless … then in this respect they’re reprehensible. If a bhikkhu who accepts invitations is not restless … then in this respect they’re praiseworthy.
 
-7If a mendicant who wears rag robes is restless … then in this respect they’re reprehensible. If a mendicant who wears rag robes is not restless … then in this respect they’re praiseworthy.
+7If a bhikkhu who wears rag robes is restless … then in this respect they’re reprehensible. If a bhikkhu who wears rag robes is not restless … then in this respect they’re praiseworthy.
 
-8If a mendicant who wears robes offered by householders is restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying mind and undisciplined faculties, then in this respect they’re reprehensible. If a mendicant who wears robes offered by householders is not restless, insolent, fickle, gossipy, or loose-tongued, but has established mindfulness, situational awareness and immersion, with unified mind and restrained faculties, then in this respect they’re praiseworthy.
+8If a bhikkhu who wears robes offered by householders is restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying mind and undisciplined faculties, then in this respect they’re reprehensible. If a bhikkhu who wears robes offered by householders is not restless, insolent, fickle, gossipy, or loose-tongued, but has established mindfulness, situational awareness and immersion, with unified mind and restrained faculties, then in this respect they’re praiseworthy.
 
 
 9Go ahead, householder, give gifts to the Saṅgha. Your mind will become bright and clear, and when your body breaks up, after death, you’ll be reborn in a good place, a heavenly realm.”

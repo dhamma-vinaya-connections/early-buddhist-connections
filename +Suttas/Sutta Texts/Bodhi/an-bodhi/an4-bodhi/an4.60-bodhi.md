@@ -26,7 +26,7 @@ When the wise practice the way
 
 proper for the layperson, they serve
 
-the virtuous monks of upright conduct
+the virtuous bhikkhus of upright conduct
 
 with robes, almsfood, lodgings, and medicines:
 

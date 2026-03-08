@@ -72,9 +72,9 @@ vin_gender-corr: "{{bu-bni-corr}}"
 >| {{brahmali}}          | {{bmc1}} | {{ñanatusita-translation}} |
 >| {{deepseek}}      | [[bmc1-concise]]        | {{ñanatusita-analysis}}    |
 
-> [!done]-  Monk - Nuns Rule Correlation and PTS reference
+> [!done]-  bhikkhu - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | {{vincode}} | [[{{bu-bni-corr}}]] | {{pts_ref}} |
 

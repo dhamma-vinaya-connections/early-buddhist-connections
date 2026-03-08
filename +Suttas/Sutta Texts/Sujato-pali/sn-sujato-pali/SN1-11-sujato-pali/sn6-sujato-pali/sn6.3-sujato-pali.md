@@ -44,7 +44,7 @@ Why make invocations, when you don’t know the path to Brahmā?
 
 5This Brahmadeva, madam,  
 free of attachments, has surpassed the gods.  
-A mendicant without possessions or dependents,  
+A bhikkhu without possessions or dependents,  
 he has entered your house for alms.
 
 6He’s worthy of offerings dedicated to the gods, a knowledge master, self-developed.  
@@ -59,7 +59,7 @@ So let him enjoy your offering of choice alms.
 
 8With peaceful mind, he has left the crowd,  
 he wanders like a tamed elephant, unperturbed.  
-He’s a mendicant fair in ethics, with heart well freed.  
+He’s a bhikkhu fair in ethics, with heart well freed.  
 So let him enjoy your offering of choice alms.
 
 9With unwavering confidence in him,  

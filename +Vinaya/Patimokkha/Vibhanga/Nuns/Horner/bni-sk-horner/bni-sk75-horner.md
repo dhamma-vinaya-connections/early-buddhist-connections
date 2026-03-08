@@ -13,13 +13,13 @@ language: "English"
 
 At that time the enlightened one, the lord, was staying at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six nuns dressed with the inner robe hanging down in front and behind. People … spread it about, saying: “How can these nuns dress with the inner robe hanging down in front and behind, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six nuns dress … and behind?” …
 
-“Is it true, as is said, monks, that the group of six nuns … and behind?”
+“Is it true, as is said, bhikkhus, that the group of six nuns … and behind?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the group of six nuns … and behind? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the group of six nuns … and behind? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “‘I will dress with the inner robe all round (me),’ is a training to be observed.”
 
@@ -29,13 +29,13 @@ There is no offence if it is unintentional; if she is not thinking; if she does 
 
 * * *
 
-*Bi-Sk.75.2.1* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six nuns eased themselves and spat in the water. People … *BD.3.425* spread it about, saying: “How can these nuns ease themselves and spit in the water, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six *Vin.4.350* nuns … in the water?” Then these nuns told this matter to the monks. The monks told this matter to the lord. Then the lord questioned the monks, saying:
+*Bi-Sk.75.2.1* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six nuns eased themselves and spat in the water. People … *BD.3.425* spread it about, saying: “How can these nuns ease themselves and spit in the water, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six *Vin.4.350* nuns … in the water?” Then these nuns told this matter to the bhikkhus. The bhikkhus told this matter to the lord. Then the lord questioned the bhikkhus, saying:
 
-“Is it true, as is said, monks, that the group of six nuns … in the water?”
+“Is it true, as is said, bhikkhus, that the group of six nuns … in the water?”
 
 “It is true, lord.”
 
-The enlightened one, the lord, rebuked them, saying: “How, monks, can this group of six nuns … in the water? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+The enlightened one, the lord, rebuked them, saying: “How, bhikkhus, can this group of six nuns … in the water? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “‘I will not ease myself or spit in the water,’ is a training to be observed.”
 
@@ -45,7 +45,7 @@ And thus this rule of training for nuns came to be laid down by the lord.
 
 *Bi-Sk.75.2.2* Now at that time ill nuns were (too) scrupulous to ease themselves and spit in the water. They told this matter to the lord. He said:
 
-“I allow, monks, a nun if she is ill to ease herself and spit in the water. And thus, monks, let the nuns set forth this rule of training:
+“I allow, bhikkhus, a nun if she is ill to ease herself and spit in the water. And thus, bhikkhus, let the nuns set forth this rule of training:
 
 “‘I will not ease myself or spit in the water, if not ill,’ is a training to be observed.”
 

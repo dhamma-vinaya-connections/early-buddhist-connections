@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, without giving up nine things you can’t realize perfection. What nine? Greed, hate, delusion, anger, hostility, offensiveness, contempt, jealousy, and stinginess. Without giving up these nine things you can’t realize perfection.
+1“bhikkhus, without giving up nine things you can’t realize perfection. What nine? Greed, hate, delusion, anger, hostility, offensiveness, contempt, jealousy, and stinginess. Without giving up these nine things you can’t realize perfection.
 
 2After giving up nine things you can realize perfection. What nine? Greed, hate, delusion, anger, hostility, offensiveness, contempt, jealousy, and stinginess. After giving up these nine things you can realize the fruit of perfection.”
 

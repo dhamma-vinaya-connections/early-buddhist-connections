@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, even if a monk is of impeccable character, he might be suspected and distrusted as a ‘bad monk’ for five reasons.
+1“bhikkhus, even if a bhikkhu is of impeccable character, he might be suspected and distrusted as a ‘bad bhikkhu’ for five reasons.
 
-2What five? It’s when a monk frequently collects alms from prostitutes, widows, voluptuous girls, eunuchs, or nuns.
+2What five? It’s when a bhikkhu frequently collects alms from prostitutes, widows, voluptuous girls, eunuchs, or nuns.
 
-3Even if a monk is of impeccable character, he might be suspected and distrusted as a ‘bad monk’ for these five reasons.”
+3Even if a bhikkhu is of impeccable character, he might be suspected and distrusted as a ‘bad bhikkhu’ for these five reasons.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu ussaṅkitaparisaṅkito hoti pāpabhikkhūti api akuppadhammopi.
 

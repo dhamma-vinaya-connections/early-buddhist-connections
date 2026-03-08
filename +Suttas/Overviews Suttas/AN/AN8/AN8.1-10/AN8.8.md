@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Gain …loss … fame … disgrace … honor … dishonor … wicked desires … bad friendship
 > 
-> It’s good for a mendicant to check their own failings and success from time to time. and  to check the failings and success of others
+> It’s good for a bhikkhu to check their own failings and success from time to time. and  to check the failings and success of others
 > 
 
 > [!info] Similes

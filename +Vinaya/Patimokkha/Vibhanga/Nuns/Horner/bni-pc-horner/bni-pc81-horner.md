@@ -9,21 +9,21 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 81
 
-*Bi-Pc.81.1.1* *BD.3.396* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding place. Now at that time the nun Thullanandā thinking: “I will ordain a probationer,” having had monks who were elders convened, having seen sumptuous solid foods and soft foods, saying: “Masters, I will not ordain the probationer yet,” having dismissed the monks who were elders, having had Devadatta, Kokālika, Kaṭamorakatissaka, the son of the lady Khaṇḍā and Samuddadatta[^1] convened, she ordained the probationer. Those who were modest nuns … spread it about, saying: “How can the lady Thullanandā ordain a probationer by showing[^2] favouritism[^3] to (monks) placed on probation[^4]?” …
+*Bi-Pc.81.1.1* *BD.3.396* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding place. Now at that time the nun Thullanandā thinking: “I will ordain a probationer,” having had bhikkhus who were elders convened, having seen sumptuous solid foods and soft foods, saying: “Masters, I will not ordain the probationer yet,” having dismissed the bhikkhus who were elders, having had Devadatta, Kokālika, Kaṭamorakatissaka, the son of the lady Khaṇḍā and Samuddadatta[^1] convened, she ordained the probationer. Those who were modest nuns … spread it about, saying: “How can the lady Thullanandā ordain a probationer by showing[^2] favouritism[^3] to (bhikkhus) placed on probation[^4]?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā ordained a probationer by showing favouritism to (monks) placed on probation?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā ordained a probationer by showing favouritism to (bhikkhus) placed on probation?”
 
 “It is true, lord.”
 
-The enlightened one, the lord, rebuked them, saying: “How, monks, can the nun Thullanandā … (monks) placed on probation? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+The enlightened one, the lord, rebuked them, saying: “How, bhikkhus, can the nun Thullanandā … (bhikkhus) placed on probation? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
-“Whatever nun should ordain a probationer by showing favouritism to (monks) placed on probation, there is an offence of expiation.”
+“Whatever nun should ordain a probationer by showing favouritism to (bhikkhus) placed on probation, there is an offence of expiation.”
 
 * * *
 
 *Bi-Pc.81.2.1* *BD.3.397* Whatever means: … nun is to be understood in this case. *Vin.4.336*
 
-By showing favouritism to (monks) placed on probation means: to a company that has risen.[^5]
+By showing favouritism to (bhikkhus) placed on probation means: to a company that has risen.[^5]
 
 * * *
 

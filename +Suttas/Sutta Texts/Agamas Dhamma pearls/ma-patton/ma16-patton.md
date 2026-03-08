@@ -17,11 +17,11 @@ language: "English"
 
 ### 16. The Kālāmas
 
-1. Thus I have heard:[1](#^ma16note01) One time, the Buddha traveled to the country of the Kālāmas accompanied by a great assembly of monks. He went to the town of *Keśaputra and stayed in a rosewood grove north of it. [2](#^ma16note02) ^ma16note01-ref ^ma16note02-ref
+1. Thus I have heard:[1](#^ma16note01) One time, the Buddha traveled to the country of the Kālāmas accompanied by a great assembly of bhikkhus. He went to the town of *Keśaputra and stayed in a rosewood grove north of it. [2](#^ma16note02) ^ma16note01-ref ^ma16note02-ref
 
 #### The Doubt of the Kālāmas
 
-2. It was then that the Kālāma people of *Keśaputra heard: “The ascetic Gautama from the Śākya clan renounced the Śākya dynasty, left home, and trained on the path. He has traveled to the country of the Kālāmas and arrived at *Keśaputra with a great assembly of monks. They are staying in the rosewood grove north of the town.
+2. It was then that the Kālāma people of *Keśaputra heard: “The ascetic Gautama from the Śākya clan renounced the Śākya dynasty, left home, and trained on the path. He has traveled to the country of the Kālāmas and arrived at *Keśaputra with a great assembly of bhikkhus. They are staying in the rosewood grove north of the town.
 
 3. “The ascetic Gautama has a great reputation that’s widely heard in the ten directions: ‘The ascetic Gautama is a Tathāgata, Arhat, and Fully Awakened One who is Accomplished in Knowledge and Conduct, Well Gone, an Understander of the World, an Unsurpassed Man, a Trainer in the Principles of the Path, a Teacher to Gods and Humans, and called a Buddha and a Bhagavān. Among the gods Māra and Brahmā and the ascetics and priests of this world, from humans up to the gods, he accomplished and dwells in his own knowledge, perception, and realization. When he teaches the Dharma, it’s good in the beginning, middle, and end, both its meaning and words are complete and pure, and it demonstrates the religious practice. If someone meets the Tathāgata, Arhat, and Fully Awakened One and honors, venerates, makes offerings, and serves him, they will quickly attain good benefits.’
 
@@ -99,9 +99,9 @@ language: "English"
 
 36. “Thus, Gautama, the well-versed noble disciple’s mind is without bondage, without enmity, without anger, and without dispute. These are called the four peaceful dwellings.
 
-37. “Gautama, we’ve realized it. Sugata, we’ve understood it. Bhagavān, we all take refuge in the Buddha, Dharma, and the Saṅgha of monks. Please let the Bhagavān accept us as laymen. Starting today, they will be our refuge for the rest of our lives.”
+37. “Gautama, we’ve realized it. Sugata, we’ve understood it. Bhagavān, we all take refuge in the Buddha, Dharma, and the Saṅgha of bhikkhus. Please let the Bhagavān accept us as laymen. Starting today, they will be our refuge for the rest of our lives.”
 
-33. This is what the Buddha said. All the Kālāmas and the monks who heard what the Buddha taught rejoiced and approved.
+33. This is what the Buddha said. All the Kālāmas and the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

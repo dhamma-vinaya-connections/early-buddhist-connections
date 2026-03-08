@@ -7,29 +7,29 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC24]]
 > ◄  [[bu-pc23-horner]] 📜  [[bu-pc25-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 24
+# bhikkhus’ Expiation (_Pācittiya_) 24
 
-*Bu-Pc.24.1.1* *BD.2.279* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time monks who were elders, exhorting nuns, came to receive requisites of robes, alms-food, lodgings, medicines for the sick.[^1] The group of six monks spoke thus:
+*Bu-Pc.24.1.1* *BD.2.279* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time bhikkhus who were elders, exhorting nuns, came to receive requisites of robes, alms-food, lodgings, medicines for the sick.[^1] The group of six bhikkhus spoke thus:
 
-“The monks who are elders are not doing a service[^2] in exhorting nuns; the monks who are elders *Vin.4.58* are exhorting nuns for the sake of gain.”
+“The bhikkhus who are elders are not doing a service[^2] in exhorting nuns; the bhikkhus who are elders *Vin.4.58* are exhorting nuns for the sake of gain.”
 
-Those who were modest monks … spread it about, saying:
+Those who were modest bhikkhus … spread it about, saying:
 
-“How can this group of six monks speak thus: ‘The monks who are elders … for the sake of gain’?” …
+“How can this group of six bhikkhus speak thus: ‘The bhikkhus who are elders … for the sake of gain’?” …
 
-“Is it true, as is said, that you, monks, spoke thus: ‘The monks who are elders … for the sake of gain’?”
+“Is it true, as is said, that you, bhikkhus, spoke thus: ‘The bhikkhus who are elders … for the sake of gain’?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, speak thus: ‘The monks who are elders … for the sake of gain’? It is not, foolish men, for pleasing, those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, speak thus: ‘The bhikkhus who are elders … for the sake of gain’? It is not, foolish men, for pleasing, those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should speak thus: ‘The monks who are elders are exhorting nuns for the sake of gain,’ there is an offence of expiation.”
+“Whatever bhikkhu should speak thus: ‘The bhikkhus who are elders are exhorting nuns for the sake of gain,’ there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.24.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.24.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 *BD.2.280* For the sake of gain means: for the sake of robes, for the sake of alms-food, for the sake of lodgings, for the sake of the requisite of medicines for the sick, for the sake of honour, for the sake of respect, for the sake of reverence, for the sake of homage, for the sake of veneration.
 
@@ -49,7 +49,7 @@ The Fourth *Vin.4.59*
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

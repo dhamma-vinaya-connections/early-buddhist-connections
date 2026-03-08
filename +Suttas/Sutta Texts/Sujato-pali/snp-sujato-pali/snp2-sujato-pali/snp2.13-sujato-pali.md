@@ -26,7 +26,7 @@ Question
 
 359 “I ask the sage abounding in wisdom—  
 crossed-over, gone beyond, quenched, steadfast:  
-when a mendicant has left home, expelling sensuality,  
+when a bhikkhu has left home, expelling sensuality,  
 what’s the right way to wander the world?”
 
 Buddha
@@ -39,13 +39,13 @@ said the Buddha,
 with the stain of superstitions left behind,  
 they’d rightly wander the world.
 
-361 A mendicant ought dispel desire  
+361 A bhikkhu ought dispel desire  
 for pleasures human or divine;  
 with rebirth transcended and truth comprehended,  
 they’d rightly wander the world.
 
 362 Putting divisiveness behind them,  
-a mendicant gives up anger and stinginess;  
+a bhikkhu gives up anger and stinginess;  
 with favoring and opposing left behind,  
 they’d rightly wander the world.
 
@@ -72,12 +72,12 @@ not besotted when getting food from others,
 they’d rightly wander the world.
 
 367 When greed and craving to live again are cast off,  
-a mendicant refrains from violence and abduction;  
+a bhikkhu refrains from violence and abduction;  
 rid of doubt, free of thorns,  
 they’d rightly wander the world.
 
 368 Knowing what is suitable for themselves,  
-a mendicant would hurt no-one in the world;  
+a bhikkhu would hurt no-one in the world;  
 understanding the teaching in accord with reality,  
 they’d rightly wander the world.
 
@@ -116,7 +116,7 @@ they’d rightly wander the world.”
 Question
 
 375 “Clearly, Blessed One, it is just as you say.  
-One who lives like this is a tamed mendicant,  
+One who lives like this is a tamed bhikkhu,  
 beyond all fetters and yokes:  
 they’d rightly wander the world.”
 

@@ -23,7 +23,7 @@ language: "English - Pali"
 1Then Venerable Ānanda went up to Venerable Sāriputta, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side and said to him:
 
 
-2“Reverend Sāriputta, how are we to define a mendicant who is quick-witted when it comes to skillful principles, who learns well, learns much, and does not forget what they’ve learned?”
+2“Reverend Sāriputta, how are we to define a bhikkhu who is quick-witted when it comes to skillful principles, who learns well, learns much, and does not forget what they’ve learned?”
 
 “Well, Venerable Ānanda, you’re very learned. Why don’t you clarify this yourself?”
 
@@ -32,7 +32,7 @@ language: "English - Pali"
 “Yes, reverend,” Sāriputta replied. Venerable Ānanda said this:
 
 
-3“It’s when a mendicant is skilled in the meaning, skilled in the teaching, skilled in terminology, skilled in phrasing, and skilled in sequence. That is how to define a mendicant who is quick-witted when it comes to skillful principles, who learns well, learns much, and does not forget what they’ve learned.”
+3“It’s when a bhikkhu is skilled in the meaning, skilled in the teaching, skilled in terminology, skilled in phrasing, and skilled in sequence. That is how to define a bhikkhu who is quick-witted when it comes to skillful principles, who learns well, learns much, and does not forget what they’ve learned.”
 
 “It’s incredible, it’s amazing! How well this was said by Venerable Ānanda! And we will remember Venerable Ānanda as someone who has these five qualities: ‘Reverend Ānanda is skilled in the meaning, skilled in the teaching, skilled in terminology, skilled in phrasing, and skilled in sequence.’”
 

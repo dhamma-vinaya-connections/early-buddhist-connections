@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 51
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three properties. Which three? The property of form, the property of formlessness, the property of cessation.[1](#^iti51note01) These are the three properties.” ^iti51note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three properties. Which three? The property of form, the property of formlessness, the property of cessation.[1](#^iti51note01) These are the three properties.” ^iti51note01-ref
 
 Comprehending the property of form,
 

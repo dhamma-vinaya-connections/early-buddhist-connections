@@ -16,7 +16,7 @@ language: "English"
 
 about seclusion & the state of peace.
 
-Seeing in what way is a monk unbound,
+Seeing in what way is a bhikkhu unbound,
 
 clinging to nothing in the world?”
 
@@ -56,7 +56,7 @@ he shouldn’t keep theorizing about self.
 
 Stilled right within,
 
-a monk shouldn’t seek peace from another,
+a bhikkhu shouldn’t seek peace from another,
 
 from anything else.
 
@@ -72,7 +72,7 @@ it is still,
 
 with no waves upwelling,
 
-so the monk—unperturbed, still—
+so the bhikkhu—unperturbed, still—
 
 should not swell himself
 
@@ -148,7 +148,7 @@ should not be devoted to
 
 doing cures or inducing fertility.
 
-A monk shouldn’t tremble at blame
+A bhikkhu shouldn’t tremble at blame
 
 or grow haughty with praise;
 
@@ -164,7 +164,7 @@ shouldn’t linger in villages,
 
 or flatter people in hope of gains.
 
-A monk shouldn’t boast
+A bhikkhu shouldn’t boast
 
 or speak with ulterior motive,
 
@@ -200,7 +200,7 @@ aren’t calm.
 
 Knowing this teaching,
 
-a monk inquiring
+a bhikkhu inquiring
 
 should always
 

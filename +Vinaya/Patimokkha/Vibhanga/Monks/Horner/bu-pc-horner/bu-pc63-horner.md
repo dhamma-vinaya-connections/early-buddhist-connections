@@ -7,27 +7,27 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC63]]
 > ◄  [[bu-pc62-horner]] 📜  [[bu-pc64-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 63
+# bhikkhus’ Expiation (_Pācittiya_) 63
 
-*Vin.4.126* *Bu-Pc.63.1.1* *BD.3.5* at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks knowingly opened up[^1] for a further (formal) act[^2] a legal question[^3] settled[^4] according to rule, saying:
+*Vin.4.126* *Bu-Pc.63.1.1* *BD.3.5* at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus knowingly opened up[^1] for a further (formal) act[^2] a legal question[^3] settled[^4] according to rule, saying:
 
 “The (formal) act is not carried out,[^5] the (formal) act is badly carried out, the (formal) act should be carried out again, it is not settled, it is badly settled, it should be settled again.”
 
-Those who were modest monks … spread it about, saying: “How can this group of six monks knowingly open up … ‘… it should be settled again’?” …
+Those who were modest bhikkhus … spread it about, saying: “How can this group of six bhikkhus knowingly open up … ‘… it should be settled again’?” …
 
-“Is it true, as is said, that you, monks, knowingly opened up … ‘… it should be settled again’?”
+“Is it true, as is said, that you, bhikkhus, knowingly opened up … ‘… it should be settled again’?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, knowingly open up … ‘… it should be settled again’?” It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, knowingly open up … ‘… it should be settled again’?” It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should knowingly open up for a further (formal) act a legal question settled according to rule, there is an offence of expiation.”
+“Whatever bhikkhu should knowingly open up for a further (formal) act a legal question settled according to rule, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.63.2.1* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.63.2.1* Whatever means: … bhikkhu is to be understood in this case.
 
 He knows means: either he knows by himself, or others tell him, or (someone) tells him.[^6]
 
@@ -51,7 +51,7 @@ The Third *Vin.4.127*
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

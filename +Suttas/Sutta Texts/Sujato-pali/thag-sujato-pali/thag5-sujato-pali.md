@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 5: Groups of Five Verses
 
@@ -20,7 +20,7 @@ language: "English - Pali"
 
 ##### Rājadatta
 
-315I, a monk, went to a charnel ground  
+315I, a bhikkhu, went to a charnel ground  
 and saw a woman’s body abandoned there,  
 discarded in a cemetery,  
 full of worms that devoured.
@@ -219,7 +219,7 @@ and fulfilled the Buddha’s instructions.
 350“Struck by a wind ailment  
 while dwelling in a forest grove,  
 you’ve entered a tough place for gathering alms—  
-how will you get by, monk?”
+how will you get by, bhikkhu?”
 
 351“Pervading this bag of bones  
 with abundant rapture and happiness,  

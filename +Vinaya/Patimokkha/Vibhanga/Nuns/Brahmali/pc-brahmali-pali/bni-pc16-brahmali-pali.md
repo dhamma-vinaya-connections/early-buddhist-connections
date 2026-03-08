@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nun Thullanandā visited families after the meal, and she sat down and lay down on the seats without asking permission of the owners. Because of Thullanandā, the people there had qualms, neither sitting nor lying down. They then complained and criticized her, “How could Venerable Thullanandā visit families after the meal, and then sit down and lie down on the seats without asking the owners for permission?”
 
-2The nuns heard the complaints of those people. The nuns of few desires complained and criticized her, “How could Venerable Thullanandā act in this way?” … “Is it true, monks, that the nun Thullanandā did this?”
+2The nuns heard the complaints of those people. The nuns of few desires complained and criticized her, “How could Venerable Thullanandā act in this way?” … “Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā act in this way? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā act in this way? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, an uneducated ordinary person speaks of three perils that tear mothers and children apart. What three?
+1“bhikkhus, an uneducated ordinary person speaks of three perils that tear mothers and children apart. What three?
 
 There comes a time when a great fire flares up, and it burns villages, towns, and cities. When this happens, a mother can’t find her child, and a child can’t find their mother. This is the first peril that tears mothers and children apart.
 
@@ -30,7 +30,7 @@ There comes a time when a great fire flares up, and it burns villages, towns, an
 
 These are the three perils an uneducated ordinary person speaks of that tear mothers and children apart.
 
-4Mendicants, an uneducated ordinary person speaks of three perils that don’t tear mothers and children apart. What three?
+4bhikkhus, an uneducated ordinary person speaks of three perils that don’t tear mothers and children apart. What three?
 
 There comes a time when a great fire flares up, and it burns villages, towns, and cities. When this happens, sometimes a mother can find her child, and a child can find their mother. This is the first peril that doesn’t tear mothers and children apart.
 

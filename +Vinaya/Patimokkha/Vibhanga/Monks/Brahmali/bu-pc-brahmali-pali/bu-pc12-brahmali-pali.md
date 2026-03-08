@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, Venerable Channa was misbehaving. Then, when he was examined about an offense in the midst of the Sangha, he spoke evasively, “Who has committed an offense? What offense was committed? In regard to what was it committed? How was it committed? Who are you talking about? What are you talking about?”
 
-2The monks of few desires complained and criticized him, “How can Venerable Channa speak evasively when examined about an offense in the midst of the Sangha?”… “Is it true, Channa, that you did this?”
+2The bhikkhus of few desires complained and criticized him, “How can Venerable Channa speak evasively when examined about an offense in the midst of the Sangha?”… “Is it true, Channa, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks: “Well then, monks, the Sangha should charge Channa with evasive speech. And he is to be charged like this. A competent and capable monk should inform the Sangha:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus: “Well then, bhikkhus, the Sangha should charge Channa with evasive speech. And he is to be charged like this. A competent and capable monk should inform the Sangha:
 
 
 3‘Please, Venerables, I ask the Sangha to listen. The monk Channa speaks evasively when examined about an offense in the midst of the Sangha. If it seems appropriate to the Sangha, the Sangha should charge him with evasive speech. This is the motion.
@@ -34,21 +34,21 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 5The Sangha has charged the monk Channa with evasive speech. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
-6After rebuking Channa in many ways, the Buddha spoke in dispraise of being difficult to support … “And, monks, this training rule should be recited like this:
+6After rebuking Channa in many ways, the Buddha spoke in dispraise of being difficult to support … “And, bhikkhus, this training rule should be recited like this:
 
 
 7‘If a monk speaks evasively, he commits an offense entailing confession.’”
 
-8In this way the Buddha laid down this training rule for the monks.
+8In this way the Buddha laid down this training rule for the bhikkhus.
 
 9Later, when Channa was again being examined about an offense in the midst of the Sangha, he thought, “By speaking evasively I’ll commit an offense,” and he instead harassed the Sangha by remaining silent.
 
-The monks of few desires complained and criticized him, “When he’s examined about an offense in the midst of the Sangha, how can Venerable Channa harass the Sangha by remaining silent?” … “Is it true, Channa, that you did this?”
+The bhikkhus of few desires complained and criticized him, “When he’s examined about an offense in the midst of the Sangha, how can Venerable Channa harass the Sangha by remaining silent?” … “Is it true, Channa, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks: “Well then, monks, the Sangha should charge Channa with harassment. And he is to be charged like this. A competent and capable monk should inform the Sangha:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus: “Well then, bhikkhus, the Sangha should charge Channa with harassment. And he is to be charged like this. A competent and capable monk should inform the Sangha:
 
 
 10‘Please, Venerables, I ask the Sangha to listen. The monk Channa, when examined about an offense in the midst of the Sangha, harasses the Sangha by remaining silent. If it seems appropriate to the Sangha, the Sangha should charge him with harassment. This is the motion.
@@ -57,7 +57,7 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 
 12The Sangha has charged the monk Channa with harassment. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
-13After rebuking Channa in many ways, the Buddha spoke in dispraise of being difficult to support … “And so, monks, this training rule should be recited like this:
+13After rebuking Channa in many ways, the Buddha spoke in dispraise of being difficult to support … “And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

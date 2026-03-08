@@ -20,45 +20,45 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1Then one of the mendicants went up to the Buddha, bowed, sat down to one side, and said to him:
+1Then one of the bhikkhus went up to the Buddha, bowed, sat down to one side, and said to him:
 
 “Sir, what leads the world on? What drags it around? What arises and takes control?”
 
 
-2“Good, good, mendicant! Your approach and articulation are excellent, and it’s a good question. For you asked: ‘What leads the world on? What drags it around? What arises and takes control?’”
+2“Good, good, bhikkhu! Your approach and articulation are excellent, and it’s a good question. For you asked: ‘What leads the world on? What drags it around? What arises and takes control?’”
 
 “Yes, sir.”
 
 
-“Mendicant, the mind leads the world on. The mind drags it around. When the mind arises, it takes control.”
+“bhikkhu, the mind leads the world on. The mind drags it around. When the mind arises, it takes control.”
 
-3Saying “Good, sir”, that mendicant approved and agreed with what the Buddha said. Then he asked another question:
+3Saying “Good, sir”, that bhikkhu approved and agreed with what the Buddha said. Then he asked another question:
 
 “Sir, they speak of ‘a learned memorizer of the teaching’. How is a learned memorizer of the teaching defined?”
 
 
-4“Good, good, mendicant! Your approach and articulation are excellent, and it’s a good question. …
+4“Good, good, bhikkhu! Your approach and articulation are excellent, and it’s a good question. …
 
 
 I have taught many teachings: statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. But if anyone understands the meaning and the text of even a four-line verse, and if they practice in line with that teaching, they’re qualified to be called a ‘learned memorizer of the teaching’.”
 
 
-5Saying “Good, sir”, that mendicant approved and agreed with what the Buddha said. Then he asked another question:
+5Saying “Good, sir”, that bhikkhu approved and agreed with what the Buddha said. Then he asked another question:
 
 “Sir, they speak of ‘a learned person with penetrating wisdom’. How is a learned person with penetrating wisdom defined?”
 
 
-6“Good, good, mendicant! Your approach and articulation are excellent, and it’s a good question. …
+6“Good, good, bhikkhu! Your approach and articulation are excellent, and it’s a good question. …
 
 
-Take a mendicant who has heard: ‘This is suffering.’ They see what it means with penetrating wisdom. They’ve heard: ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering.’ They see what it means with penetrating wisdom. That’s how a person is learned, with penetrating wisdom.”
+Take a bhikkhu who has heard: ‘This is suffering.’ They see what it means with penetrating wisdom. They’ve heard: ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering.’ They see what it means with penetrating wisdom. That’s how a person is learned, with penetrating wisdom.”
 
-7Saying “Good, sir”, that mendicant approved and agreed with what the Buddha said. Then he asked another question:
+7Saying “Good, sir”, that bhikkhu approved and agreed with what the Buddha said. Then he asked another question:
 
 “Sir, they speak of ‘an astute person with great wisdom’. How is an astute person with great wisdom defined?”
 
 
-8“Good, good, mendicant! Your approach and articulation are excellent, and it’s a good question. …
+8“Good, good, bhikkhu! Your approach and articulation are excellent, and it’s a good question. …
 
 
 An astute person with great wisdom is one who has no intention to hurt themselves, or to hurt others, or to hurt both. When they think, they only think of the benefit for themselves, for others, for both, and for the whole world. That’s how a person is astute, with great wisdom.”

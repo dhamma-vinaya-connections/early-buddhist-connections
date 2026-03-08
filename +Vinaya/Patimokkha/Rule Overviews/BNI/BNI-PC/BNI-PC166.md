@@ -74,7 +74,7 @@ vin_gender-corr: "BU-PC92"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-PC166 | [[BU-PC92]] | Vin.4.258-4.345 |
 

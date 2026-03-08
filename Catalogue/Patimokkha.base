@@ -34,7 +34,7 @@ views:
       note.vin_chapter: 116
       note.vin_code: 111
   - type: list
-    name: monk-rules
+    name: bhikkhu-rules
     order:
       - file.name
       - rule_type
@@ -76,7 +76,7 @@ views:
       note.vin_gender-corr: 83
       note.vin_chapter: 191
   - type: table
-    name: vin-monk-nun
+    name: vin-bhikkhu-nun
     order:
       - file.name
       - vin_gender-corr

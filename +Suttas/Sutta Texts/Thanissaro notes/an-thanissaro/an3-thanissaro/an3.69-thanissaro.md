@@ -15,15 +15,15 @@ language: "English"
 ## ## Titthiya Sutta
 
 
-“Monks, if you are asked by wanderers of other sects, ‘Friends, there are these three qualities. Which three? Passion, aversion, & delusion. These are the three qualities. Now what is the difference, what the distinction, what the distinguishing factor among these three qualities?’—when thus asked, how would you answer those wanderers of other sects?”
+“bhikkhus, if you are asked by wanderers of other sects, ‘Friends, there are these three qualities. Which three? Passion, aversion, & delusion. These are the three qualities. Now what is the difference, what the distinction, what the distinguishing factor among these three qualities?’—when thus asked, how would you answer those wanderers of other sects?”
 
-“For us, lord, the teachings have the Blessed One as their root, their guide, & their arbitrator. It would be good if the Blessed One himself would explicate the meaning of this statement. Having heard it from the Blessed One, the monks will remember it.”
+“For us, lord, the teachings have the Blessed One as their root, their guide, & their arbitrator. It would be good if the Blessed One himself would explicate the meaning of this statement. Having heard it from the Blessed One, the bhikkhus will remember it.”
 
-“In that case, monks, listen & pay close attention. I will speak.”
+“In that case, bhikkhus, listen & pay close attention. I will speak.”
 
-“As you say, lord,” the monks responded to him.
+“As you say, lord,” the bhikkhus responded to him.
 
-The Blessed One said, “Monks, if you are asked by wanderers of other sects, ‘Friends, there are these three qualities. Which three? Passion, aversion, & delusion. These are the three qualities. Now what is the difference, what the distinction, what the distinguishing factor among these three qualities?’—when thus asked, you should answer those wanderers of other sects in this way, ‘Friends, passion carries little blame and is slow to fade. Aversion carries great blame and is quick to fade. Delusion carries great blame and is slow to fade.
+The Blessed One said, “bhikkhus, if you are asked by wanderers of other sects, ‘Friends, there are these three qualities. Which three? Passion, aversion, & delusion. These are the three qualities. Now what is the difference, what the distinction, what the distinguishing factor among these three qualities?’—when thus asked, you should answer those wanderers of other sects in this way, ‘Friends, passion carries little blame and is slow to fade. Aversion carries great blame and is quick to fade. Delusion carries great blame and is slow to fade.
 
 “(Then if they ask,) ‘But what, friends, is the reason, what the cause, why unarisen passion arises, or arisen passion tends to growth & abundance?’ ‘The theme of the attractive,’ it should be said. ‘For one who attends inappropriately to the theme of the attractive, unarisen passion arises and arisen passion tends to growth & abundance.…’
 

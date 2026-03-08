@@ -73,7 +73,7 @@ language: "English"
 
 28. It was only when the unsurpassed religious practice was finished that he accomplished and dwelt in his own knowledge, awakening, and direct experience. He truly knew: “Birth has been ended, the religious practice has been established, the task has been accomplished, and I will not again be subject to existence.” After knowing the Dharma, that venerable became an _arhat_.
 
-29. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+29. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

@@ -117,7 +117,7 @@ attachment to the self; third, attachment to the vow of precepts belonging
 
 to other schools; and fourth, attachment to views. (5) What is the fourfold
 item to be directly experienced by oneself? It means the four results of
-the mendicant life: first, attaining the result of the saintly state of stream-
+the bhikkhu life: first, attaining the result of the saintly state of stream-
 winner ( srotaāpanna ); second, attaining the result of the saintly state of
 once-returner ( sakṛdāgāmin ); third, attaining the result of the saintly
 state of nonreturner ( anāgāmin ); and fourth, attaining the result of the

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a faithful gentleman should go to see these four inspiring places. What four?
+1“bhikkhus, a faithful gentleman should go to see these four inspiring places. What four?
 
 Thinking: ‘Here the Realized One was born!’—that is an inspiring place.
 

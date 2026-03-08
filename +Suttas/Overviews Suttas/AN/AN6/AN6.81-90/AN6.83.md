@@ -47,7 +47,7 @@ parallels_partilal: ""
 > Things leading to or obstructing the attainment of perfection
 
 > [!info] Key Excerpts 
-> Faithful, conscientious, prudent, energetic, and wise. And they have no concern for their body and their life. A Mendicant with these six qualities can realize the best thing, perfection
+> Faithful, conscientious, prudent, energetic, and wise. And they have no concern for their body and their life. A bhikkhu with these six qualities can realize the best thing, perfection
 > 
 > Who is content, with few desires, faithful, ethical, mindful, and wise can expect growth
 > 

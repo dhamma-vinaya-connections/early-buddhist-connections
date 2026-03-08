@@ -2,7 +2,7 @@
 sutta_code: "AN5.238"
 sutta_title:
   - "Anukampa "
-  - "Compassionate Mendicant"
+  - "Compassionate bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -14,15 +14,15 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### XXIV. A Resident Mendicant — AN 5.238: Deserving Criticism (3rd)
+### XXIV. A Resident bhikkhu — AN 5.238: Deserving Criticism (3rd)
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a resident mendicant with five qualities is cast down to hell. What five? Without examining or scrutinizing, they praise those deserving of criticism, and they criticize those deserving of praise. They’re stingy regarding monasteries, families, and material possessions. A resident mendicant with these five qualities is cast down to hell.
+1“bhikkhus, a resident bhikkhu with five qualities is cast down to hell. What five? Without examining or scrutinizing, they praise those deserving of criticism, and they criticize those deserving of praise. They’re stingy regarding monasteries, families, and material possessions. A resident bhikkhu with these five qualities is cast down to hell.
 
-2A resident mendicant with five qualities is raised up to heaven. What five? After examining and scrutinizing, they criticize those deserving of criticism, and they praise those deserving of praise. They’re not stingy regarding monasteries, families, and material possessions. A resident mendicant with these five qualities is raised up to heaven.”
+2A resident bhikkhu with five qualities is raised up to heaven. What five? After examining and scrutinizing, they criticize those deserving of criticism, and they praise those deserving of praise. They’re not stingy regarding monasteries, families, and material possessions. A resident bhikkhu with these five qualities is raised up to heaven.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu yathābhataṁ nikkhitto evaṁ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṁ bhāsati; ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṁ bhāsati; āvāsamaccharī hoti; kulamaccharī hoti; lābhamaccharī hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato āvāsiko bhikkhu yathābhataṁ nikkhitto evaṁ niraye.
 

@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Once upon a time, mendicants, there was a Teacher called Sunetta. He was a religious founder and was free of sensual desire. He had many hundreds of disciples. He taught them the path to rebirth in the company of Brahmā. Those lacking confidence in Sunetta were — when their body broke up, after death — reborn in a place of loss, a bad place, the underworld, hell. Those full of confidence in Sunetta were — when their body broke up, after death — reborn in a good place, a heavenly realm.
+1“Once upon a time, bhikkhus, there was a Teacher called Sunetta. He was a religious founder and was free of sensual desire. He had many hundreds of disciples. He taught them the path to rebirth in the company of Brahmā. Those lacking confidence in Sunetta were — when their body broke up, after death — reborn in a place of loss, a bad place, the underworld, hell. Those full of confidence in Sunetta were — when their body broke up, after death — reborn in a good place, a heavenly realm.
 
 
 2Once upon a time there was a teacher called Mūgapakkha … Aranemi … Kuddāla … Hatthipāla … Jotipāla … Araka. He was a religious founder and was free of sensual desire. He had many hundreds of disciples. He taught them the way to rebirth in the company of Brahmā. Those lacking confidence in Araka were — when their body broke up, after death — reborn in a place of loss, a bad place, the underworld, hell. Those full of confidence in Araka were — when their body broke up, after death — reborn in a good place, a heavenly realm.
 
-3What do you think, mendicants? If someone with malicious intent were to abuse and insult these seven teachers with their hundreds of followers, would they not make much bad karma?”
+3What do you think, bhikkhus? If someone with malicious intent were to abuse and insult these seven teachers with their hundreds of followers, would they not make much bad karma?”
 
 “Yes, sir.”
 

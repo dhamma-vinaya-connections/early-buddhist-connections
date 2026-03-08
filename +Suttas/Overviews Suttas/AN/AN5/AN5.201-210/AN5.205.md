@@ -47,7 +47,7 @@ parallels_partilal: "[[DN33]], [[AN9.71]], [[MN16]], [[DN34]], [[DA10]], [[AN10.
 > There are these five kinds of emotional barrenness
 
 > [!info] Key Excerpts 
-> Doubts about the teacher, teaching … the saṅgha … the training … a mendicant is angry and upset with their spiritual companions
+> Doubts about the teacher, teaching … the saṅgha … the training … a bhikkhu is angry and upset with their spiritual companions
 > 
 > This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving.
 > 

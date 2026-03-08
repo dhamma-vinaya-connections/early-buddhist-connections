@@ -18,27 +18,27 @@ language: "Pali - English"
 
 #### Origin
 
-1On one occasion when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of seventeen were playing in the water of the river Aciravatī.
+1On one occasion when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of seventeen were playing in the water of the river Aciravatī.
 
-Just then, while King Pasenadi of Kosala was up in his magnificent stilt house with queen Mallikā, he saw the monks from the group of seventeen playing in the river. He said to queen Mallikā:
+Just then, while King Pasenadi of Kosala was up in his magnificent stilt house with queen Mallikā, he saw the bhikkhus from the group of seventeen playing in the river. He said to queen Mallikā:
 
 “Mallikā, these perfected ones are playing in the water.”
 
-“Great king, no doubt the Buddha hasn’t laid down a rule. Either that, or these monks are ignorant.”
+“Great king, no doubt the Buddha hasn’t laid down a rule. Either that, or these bhikkhus are ignorant.”
 
-King Pasenadi thought, “How can the Buddha find out about these monks playing in the water without me telling him?”
+King Pasenadi thought, “How can the Buddha find out about these bhikkhus playing in the water without me telling him?”
 
-Having sent for those monks, King Pasenadi gave them a large lump of sugar, saying, “Sirs, please give this lump of sugar to the Buddha.”
+Having sent for those bhikkhus, King Pasenadi gave them a large lump of sugar, saying, “Sirs, please give this lump of sugar to the Buddha.”
 
-The monks took the lump of sugar, went to the Buddha, and said, “Sir, this lump of sugar is a gift from King Pasenadi.”
+The bhikkhus took the lump of sugar, went to the Buddha, and said, “Sir, this lump of sugar is a gift from King Pasenadi.”
 
 
-“But, monks, where did you see the king?”
+“But, bhikkhus, where did you see the king?”
 
 “From the river Aciravatī, while playing in the water.”
 
 
-The Buddha rebuked them … “Foolish men, how can you play in water? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you play in water? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

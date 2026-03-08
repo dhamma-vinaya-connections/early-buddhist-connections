@@ -2,7 +2,7 @@
 sutta_code: "AN7.86"
 sutta_title:
   - "Bhikkhu "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---

@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.42.1.1* *BD.3.326* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns made use of a sofa[^1] and of a divan.[^2] People, engaged in touring the dwelling place, having seen (them) … spread it about, saying: “How can these nuns make use of a sofa and of a divan, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can these nuns make use of a sofa and of a divan?” …
 
-“Is it true, as is said, monks, that nuns made use of a … divan?”
+“Is it true, as is said, bhikkhus, that nuns made use of a … divan?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns make use of a sofa and of *BD.3.327* a divan? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns make use of a sofa and of *BD.3.327* a divan? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should make use of a sofa or of a divan, there is an offence of expiation.”[^3]
 

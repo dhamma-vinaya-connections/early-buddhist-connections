@@ -19,9 +19,9 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma6note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma6note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “I will explain for you the seven places to which a good person goes and nirvāṇa without remainder. Listen closely! Listen closely, and consider it well.”
+2. It was then that the Bhagavān addressed the bhikkhus, “I will explain for you the seven places to which a good person goes and nirvāṇa without remainder. Listen closely! Listen closely, and consider it well.”
 
-The monks then accepted the teaching and listened.
+The bhikkhus then accepted the teaching and listened.
 
 #### 1. Like Chaff that Burns and Goes Out
 
@@ -73,7 +73,7 @@ The monks then accepted the teaching and listened.
 
 19. “I had said, ‘I will explain the seven places to which a good person goes and nirvāṇa without remainder,’ and so I have explained it.”
 
-20. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+20. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

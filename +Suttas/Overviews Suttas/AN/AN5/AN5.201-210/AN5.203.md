@@ -44,7 +44,7 @@ parallels_partilal: "[[AN4.112]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant with five qualities is worthy of offerings
+> bhikkhu with five qualities is worthy of offerings
 
 > [!info] Key Excerpts 
 > Integrity, speed, gentleness, patience, and sweetness

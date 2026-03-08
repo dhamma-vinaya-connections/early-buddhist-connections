@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four people are found in the world. What four?
+1“bhikkhus, these four people are found in the world. What four?
 
 1. One person has internal serenity of heart, but not the higher wisdom of discernment of principles.
 2. One person has the higher wisdom of discernment of principles, but not internal serenity of heart.

@@ -25,7 +25,7 @@ language: "Pali"
 
 259A man is not versed in Dhamma because he speaks much. He who, after hearing a little Dhamma, realizes its truth directly and is not heedless of it, is truly versed in the Dhamma.
 
-260A monk is not an elder because his head is gray. He is but ripe in age, and he is called one grown old in vain.
+260A bhikkhu is not an elder because his head is gray. He is but ripe in age, and he is called one grown old in vain.
 
 261One in whom there is truthfulness, virtue, inoffensiveness, restraint and self-mastery, who is free from defilements and is wise — he is truly called an Elder.
 
@@ -33,13 +33,13 @@ language: "Pali"
 
 263But he in whom these are wholly destroyed, uprooted and extinct, and who has cast out hatred — that wise man is truly accomplished.
 
-264Not by shaven head does a man who is indisciplined and untruthful become a monk. How can he who is full of desire and greed be a monk?
+264Not by shaven head does a man who is indisciplined and untruthful become a bhikkhu. How can he who is full of desire and greed be a bhikkhu?
 
-265He who wholly subdues evil both small and great is called a monk, because he has overcome all evil.
+265He who wholly subdues evil both small and great is called a bhikkhu, because he has overcome all evil.
 
-266He is not a monk just because he lives on others’ alms. Not by adopting outward form does one become a true monk.
+266He is not a bhikkhu just because he lives on others’ alms. Not by adopting outward form does one become a true bhikkhu.
 
-267Whoever here (in the Dispensation) lives a holy life, transcending both merit and demerit, and walks with understanding in this world — he is truly called a monk.
+267Whoever here (in the Dispensation) lives a holy life, transcending both merit and demerit, and walks with understanding in this world — he is truly called a bhikkhu.
 
 268Not by observing silence does one become a sage, if he be foolish and ignorant. But that man is wise who, as if holding a balance-scale accepts only the good.
 
@@ -47,7 +47,7 @@ language: "Pali"
 
 270He is not noble who injures living beings. He is called noble because he is harmless towards all living beings.
 
-271–272Not by rules and observances, not even by much learning, nor by gain of jhāna, nor by a life of seclusion, nor by thinking, "I enjoy the bliss of renunciation, which is not experienced by the worldling" should you, O monks, rest content, until the utter destruction of cankers (Arahantship) is reached.
+271–272Not by rules and observances, not even by much learning, nor by gain of jhāna, nor by a life of seclusion, nor by thinking, "I enjoy the bliss of renunciation, which is not experienced by the worldling" should you, O bhikkhus, rest content, until the utter destruction of cankers (Arahantship) is reached.
 
 256Na tena hoti dhammaṭṭho,  
 yenatthaṁ sāhasā naye;  

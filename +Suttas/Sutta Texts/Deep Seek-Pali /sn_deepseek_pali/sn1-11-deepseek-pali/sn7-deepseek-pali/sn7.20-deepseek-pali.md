@@ -2,7 +2,7 @@
 sutta_code: "SN7.20"
 sutta_title:
   - "Bhikkhakasutta "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "Deep Seek"
 language: "English - Pali"
 ---
@@ -16,7 +16,7 @@ language: "English - Pali"
 
 206. Sāvatthinidānaṃ. Atha kho bhikkhako brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho bhikkhako brāhmaṇo bhagavantaṃ etadavoca – ‘‘ahampi kho, bho gotama, bhikkhako, bhavampi bhikkhako, idha no kiṃ nānākaraṇa’’nti?
 
-206.At Savatthi. Then the brahmin Bhikkhaka approached the Blessed One; having approached, he exchanged polite greetings with the Blessed One. When the courteous and amiable talk was finished, he sat down to one side. Sitting to one side, the brahmin Bhikkhaka said this to the Blessed One: "I too, Master Gotama, am a mendicant, and you are a mendicant. What then is the difference between us?"
+206.At Savatthi. Then the brahmin Bhikkhaka approached the Blessed One; having approached, he exchanged polite greetings with the Blessed One. When the courteous and amiable talk was finished, he sat down to one side. Sitting to one side, the brahmin Bhikkhaka said this to the Blessed One: "I too, Master Gotama, am a bhikkhu, and you are a bhikkhu. What then is the difference between us?"
 
 ‘‘Na tena bhikkhako hoti, yāvatā bhikkhate pare;Vissaṃ dhammaṃ samādāya, bhikkhu hoti na tāvatā.
 

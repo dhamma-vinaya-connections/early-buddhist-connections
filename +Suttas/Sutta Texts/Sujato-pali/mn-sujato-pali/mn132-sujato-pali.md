@@ -20,24 +20,24 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Now at that time Venerable Ānanda was educating, encouraging, firing up, and inspiring the mendicants in the assembly hall with a Dhamma talk on the topic of the recitation passage and analysis of One Fine Night.
+Now at that time Venerable Ānanda was educating, encouraging, firing up, and inspiring the bhikkhus in the assembly hall with a Dhamma talk on the topic of the recitation passage and analysis of One Fine Night.
 
-2Then in the late afternoon, the Buddha came out of retreat, went to the assembly hall, where he sat on the seat spread out, and addressed the mendicants: “Who was inspiring the mendicants with a talk on the recitation passage and analysis of One Fine Night?”
+2Then in the late afternoon, the Buddha came out of retreat, went to the assembly hall, where he sat on the seat spread out, and addressed the bhikkhus: “Who was inspiring the bhikkhus with a talk on the recitation passage and analysis of One Fine Night?”
 
 “It was Venerable Ānanda, sir.”
 
 
-3Then the Buddha said to Venerable Ānanda: “But in what way were you inspiring the mendicants with a talk on the recitation passage and analysis of One Fine Night?”  
+3Then the Buddha said to Venerable Ānanda: “But in what way were you inspiring the bhikkhus with a talk on the recitation passage and analysis of One Fine Night?”  
   
 “I was doing so in this way, sir,” replied Ānanda.  
   
 And he went on to repeat the verses and analysis as in the previous discourse, MN 131.
 
 
-18“That’s how I was inspiring the mendicants with a talk on the recitation passage and analysis of One Fine Night.”
+18“That’s how I was inspiring the bhikkhus with a talk on the recitation passage and analysis of One Fine Night.”
 
 
-19“Good, good, Ānanda. It’s good that you were inspiring the mendicants with a talk on the recitation passage and analysis of One Fine Night.”  
+19“Good, good, Ānanda. It’s good that you were inspiring the bhikkhus with a talk on the recitation passage and analysis of One Fine Night.”  
   
 And the Buddha repeated the verses and analysis once more.
 

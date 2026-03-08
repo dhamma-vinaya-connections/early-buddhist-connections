@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four people are found in the world. What four? One person has not fulfilled ethics, immersion, or wisdom.
+1“bhikkhus, these four people are found in the world. What four? One person has not fulfilled ethics, immersion, or wisdom.
 
 2One person has fulfilled ethics, but not immersion or wisdom.
 

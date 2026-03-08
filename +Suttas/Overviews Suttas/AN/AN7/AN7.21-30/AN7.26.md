@@ -3,7 +3,7 @@ sutta_code: "AN7.26"
 sutta_pts: "A iv 23"
 sutta_title:
   - "Bhikkhu-Aparihaniya "
-  - "Non-Decline For Mendicants"
+  - "Non-Decline For bhikkhus"
 nikaya:
   - "AN "
   - "Aṅguttara Nikāya"
@@ -40,16 +40,16 @@ parallels_partilal: "[[DN16]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.25]]  🌐 [[AN7.27]] ►
 
-# AN7.26 - Bhikkhu-Aparihaniya - Non-Decline For Mendicants
+# AN7.26 - Bhikkhu-Aparihaniya - Non-Decline For bhikkhus
 ## 🌐 Overview
 
 > [!info] Summary
-> The Buddha  teaches the seven principles of non-decline to the mendicants
+> The Buddha  teaches the seven principles of non-decline to the bhikkhus
 
 > [!info] Key Excerpts 
 > Faithful … conscientious …prudent … learned … energetic … mindful … wise and practice the 7 awakening factors
 > 
-> As long as these seven principles that prevent decline last among mendicants they can expect growth, not decline
+> As long as these seven principles that prevent decline last among bhikkhus they can expect growth, not decline
 > 
 
 

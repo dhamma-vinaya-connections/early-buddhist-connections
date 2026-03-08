@@ -14,9 +14,9 @@ language: "English"
 
 > **Division:** IV. ELDERS
 
-“Bhikkhus, possessing five qualities, an elder bhikkhu is displeasing and disagreeable to his fellow monks and is neither respected nor esteemed by them. What five? He is devoid of faith, morally shameless, morally reckless, lazy, and unwise. Possessing these five qualities … nor esteemed by them.
+“Bhikkhus, possessing five qualities, an elder bhikkhu is displeasing and disagreeable to his fellow bhikkhus and is neither respected nor esteemed by them. What five? He is devoid of faith, morally shameless, morally reckless, lazy, and unwise. Possessing these five qualities … nor esteemed by them.
 
-“Bhikkhus, possessing five \[other\] qualities, an elder bhikkhu is pleasing and agreeable to his fellow monks and is respected and esteemed by them. What five? He is endowed with faith, has a sense of moral shame, has moral dread, and is energetic and wise. Possessing these five qualities … and esteemed by them.”
+“Bhikkhus, possessing five \[other\] qualities, an elder bhikkhu is pleasing and agreeable to his fellow bhikkhus and is respected and esteemed by them. What five? He is endowed with faith, has a sense of moral shame, has moral dread, and is energetic and wise. Possessing these five qualities … and esteemed by them.”
 
 
 ---

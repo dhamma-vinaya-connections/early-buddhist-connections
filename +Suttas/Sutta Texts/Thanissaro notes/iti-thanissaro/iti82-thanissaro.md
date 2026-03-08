@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 82
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, these three divine sounds sound forth among the devas on appropriate occasions. Which three? When a disciple of the noble ones, shaving off his hair & beard, clothing himself in the ochre robe, makes up his mind to go forth from the home life into homelessness, on that occasion the divine sound sounds forth among the devas: ‘This disciple of the noble ones has made up his mind to do battle with Māra.’ This is the first divine sound that sounds forth among the devas on appropriate occasions.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, these three divine sounds sound forth among the devas on appropriate occasions. Which three? When a disciple of the noble ones, shaving off his hair & beard, clothing himself in the ochre robe, makes up his mind to go forth from the home life into homelessness, on that occasion the divine sound sounds forth among the devas: ‘This disciple of the noble ones has made up his mind to do battle with Māra.’ This is the first divine sound that sounds forth among the devas on appropriate occasions.
 
 “When a disciple of the noble ones lives devoted to developing the seven [sets of] qualities that are wings to awakening,[1](#^iti82note01) on that occasion the divine sound sounds forth among the devas: ‘This disciple of the noble ones is doing battle with Māra.’ This is the second divine sound that sounds forth among the devas on appropriate occasions. ^iti82note01-ref
 

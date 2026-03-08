@@ -17,7 +17,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time Venerable Kassapa the Prince was wandering in the land of the Kosalans together with a large Saṅgha of five hundred mendicants when he arrived at a Kosalan citadel named Setavyā. He stayed in the grove of Indian Rosewood to the north of Setavyā.
+1So I have heard. At one time Venerable Kassapa the Prince was wandering in the land of the Kosalans together with a large Saṅgha of five hundred bhikkhus when he arrived at a Kosalan citadel named Setavyā. He stayed in the grove of Indian Rosewood to the north of Setavyā.
 
 Now at that time the chieftain Pāyāsi was living in Setavyā. It was a crown property given by King Pasenadi of Kosala, teeming with living creatures, full of hay, wood, water, and grain, a royal endowment of the highest quality.
 
@@ -411,7 +411,7 @@ In the same way, chieftain, you seem like the hemp-carrier in the simile. Let go
 
 #### 3. Going for Refuge
 
-48“I was delighted and satisfied with your very first simile, Master Kassapa! Nevertheless, I wanted to hear your various solutions to the problem, so I thought I’d oppose you in this way. Excellent, Master Kassapa! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Kassapa has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Kassapa remember me as a lay follower who has gone for refuge for life.
+48“I was delighted and satisfied with your very first simile, Master Kassapa! Nevertheless, I wanted to hear your various solutions to the problem, so I thought I’d oppose you in this way. Excellent, Master Kassapa! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Kassapa has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Kassapa remember me as a lay follower who has gone for refuge for life.
 
 49Master Kassapa, I wish to perform a great sacrifice. Please instruct me so it will be for my lasting welfare and happiness.
 

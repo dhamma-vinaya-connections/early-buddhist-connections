@@ -17,7 +17,7 @@ language: "English"
 
 154 (42). Seven Standpoints
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “All who have skill in seven standpoints and three ways of investigating meaning will attain the end of the contaminants from this teaching. They will be liberated in mind and liberated in wisdom. In the present life, they will fully dwell in their own knowledge and direct experience: ‘My births have been ended, the religious life has been established, and the task has been accomplished.’ They themselves will know that they won’t be subject to another existence.
+2. It was then that the Bhagavān addressed the bhikkhus, “All who have skill in seven standpoints and three ways of investigating meaning will attain the end of the contaminants from this teaching. They will be liberated in mind and liberated in wisdom. In the present life, they will fully dwell in their own knowledge and direct experience: ‘My births have been ended, the religious life has been established, and the task has been accomplished.’ They themselves will know that they won’t be subject to another existence.
 3. “What is a monk’s skill in seven standpoints? A monk truly knows form … the formation of form … the cessation of form … the path to the cessation of form … the enjoyment of form … the trouble of form … truly knows the escape from form. _It’s the same with feeling, conception, volition, and awareness_ … the formation of awareness … the cessation of awareness … the path to the cessation of awareness … the enjoyment of awareness … the trouble of awareness … truly knows the escape from awareness.
 4. “How does he truly know form? Whatever forms that exist, which are all the four elements and forms that are made of the four elements, are called form. He truly knows form in this way.
 5. “How does he truly know the formation of form? Taking delight<a id="fnref2"></a>[^2] is called the formation of form. He truly knows the formation of form in this way.
@@ -54,10 +54,10 @@ language: "English"
 36. “How does he truly know the enjoyment of awareness? The joy and happiness that dependently arise from awareness are called the enjoyment of awareness. He truly knows the enjoyment of awareness in this way.
 37. “How does he truly know the trouble of awareness? If awareness is impermanent, painful, and something that changes, this is called the trouble of awareness. He truly knows the trouble of awareness in this way.
 38. “How does he truly know the escape from awareness? If he tames desire and greed, ends desire and greed, and goes beyond desire and greed for awareness, this is called [the escape from awareness.] He truly knows the escape from awareness [in this way].
-39. “Monks, this is called being skilled in seven standpoints.
+39. “bhikkhus, this is called being skilled in seven standpoints.
 40. “What are the three ways of investigating meaning? Suppose a monk investigates the aggregates, elements, and senses<a id="fnref6"></a>[^6] in an empty place, under a tree, or on open ground. He considers their meanings with the right method. This is called a monk’s three ways of investigating meaning.
 41. “This is called a monk’s skill in seven standpoints and three ways of investigating meaning. All who have them will attain the end of the contaminants from this teaching. They will be liberated in mind and liberated in wisdom. In the present life, they will fully dwell in their own knowledge and direct experience: ‘My births have been ended, the religious life has been established, and the task has been accomplished.’ They themselves will know they won’t be subject to another existence.
-42. After he spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+42. After he spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

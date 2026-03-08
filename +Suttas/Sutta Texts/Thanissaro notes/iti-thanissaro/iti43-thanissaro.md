@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 43
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “There is, monks, an unborn[1](#^iti43note01)–unbecome–unmade–unfabricated. If there were not that unborn–unbecome–unmade–unfabricated, there would not be the case that escape from the born–become–made–fabricated would be discerned. But precisely because there is an unborn–unbecome–unmade–unfabricated, escape from the born–become–made–fabricated is thus discerned.” ^iti43note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “There is, bhikkhus, an unborn[1](#^iti43note01)–unbecome–unmade–unfabricated. If there were not that unborn–unbecome–unmade–unfabricated, there would not be the case that escape from the born–become–made–fabricated would be discerned. But precisely because there is an unborn–unbecome–unmade–unfabricated, escape from the born–become–made–fabricated is thus discerned.” ^iti43note01-ref
 
 The born, become, produced,
 

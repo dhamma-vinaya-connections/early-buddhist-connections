@@ -22,7 +22,7 @@ language: "English - Pali"
 
 Then Mahāpajāpatī Gotamī together with around five hundred nuns approached the Buddha, bowed, stood to one side, and said to him: “Sir, may the Buddha please advise and instruct the nuns. Please give the nuns a Dhamma talk.”
 
-2Now at that time the senior monks were taking turns to advise the nuns. But Venerable Nandaka didn’t want to take his turn.
+2Now at that time the senior bhikkhus were taking turns to advise the nuns. But Venerable Nandaka didn’t want to take his turn.
 
 Then the Buddha said to Venerable Ānanda: “Ānanda, whose turn is it to advise the nuns today?”
 
@@ -142,7 +142,7 @@ Then the Buddha said to Venerable Ānanda: “Ānanda, whose turn is it to advis
 
 10“I’ve made up this simile to make a point. And this is the point. ‘The inner flesh’ is a term for the six interior sense fields. ‘The outer hide’ is a term for the six exterior sense fields. ‘The connecting tendons, sinews, and ligaments’ is a term for desire with relishing. ‘A sharp meat cleaver’ is a term for noble wisdom. And it is that noble wisdom which cuts, carves, severs, and slices the connecting corruption, fetter, and bond.
 
-11Sisters, by developing and cultivating these seven awakening factors, a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. What seven? It’s when a mendicant develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. It is by developing and cultivating these seven awakening factors that a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.”
+11Sisters, by developing and cultivating these seven awakening factors, a bhikkhu realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. What seven? It’s when a bhikkhu develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. It is by developing and cultivating these seven awakening factors that a bhikkhu realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.”
 
 
 12Then after giving this advice to the nuns, Nandaka dismissed them, saying: “Go, sisters, it is time.”
@@ -152,7 +152,7 @@ And then those nuns approved and agreed with what Nandaka had said. They got up 
 
 Then those nuns bowed to the Buddha respectfully circled him, keeping him on their right, before departing.
 
-Soon after those nuns had left, the Buddha addressed the mendicants: “Suppose, mendicants, it was the sabbath of the fourteenth day. You wouldn’t get lots of people wondering whether the moon is full or not, since it is obviously not full.
+Soon after those nuns had left, the Buddha addressed the bhikkhus: “Suppose, bhikkhus, it was the sabbath of the fourteenth day. You wouldn’t get lots of people wondering whether the moon is full or not, since it is obviously not full.
 
 In the same way, those nuns were uplifted by Nandaka’s Dhamma teaching, but they still haven’t found what they’re looking for.”
 
@@ -163,10 +163,10 @@ In the same way, those nuns were uplifted by Nandaka’s Dhamma teaching, but th
 “Yes, sir,” Nandaka replied. And the next day he went to those nuns, and all unfolded just like the previous day.
 
 
-Soon after those nuns had left, the Buddha addressed the mendicants: “Suppose, mendicants, it was the sabbath of the fifteenth day. You wouldn’t get lots of people wondering whether the moon is full or not, since it is obviously full. In the same way, those nuns were uplifted by Nandaka’s Dhamma teaching, and they found what they’re looking for. Even the last of these five hundred nuns is a stream-enterer, not liable to be reborn in the underworld, bound for awakening.”
+Soon after those nuns had left, the Buddha addressed the bhikkhus: “Suppose, bhikkhus, it was the sabbath of the fifteenth day. You wouldn’t get lots of people wondering whether the moon is full or not, since it is obviously full. In the same way, those nuns were uplifted by Nandaka’s Dhamma teaching, and they found what they’re looking for. Even the last of these five hundred nuns is a stream-enterer, not liable to be reborn in the underworld, bound for awakening.”
 
 
-23That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+23That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

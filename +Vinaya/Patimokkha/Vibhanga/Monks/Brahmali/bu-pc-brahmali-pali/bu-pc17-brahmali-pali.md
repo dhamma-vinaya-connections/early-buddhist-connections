@@ -16,9 +16,9 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of seventeen were repairing a large dwelling nearby, intending to stay there for the rainy season. The monks from the group of six saw this and said, “These monks from the group of seventeen are repairing a dwelling. Let’s throw them out.” But some of them said, “Let’s wait until they’ve finished repairing it.”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of seventeen were repairing a large dwelling nearby, intending to stay there for the rainy season. The bhikkhus from the group of six saw this and said, “These bhikkhus from the group of seventeen are repairing a dwelling. Let’s throw them out.” But some of them said, “Let’s wait until they’ve finished repairing it.”
 
-2Soon afterwards the monks from the group of six said to those from the group of seventeen, “Leave, this dwelling is ours.”
+2Soon afterwards the bhikkhus from the group of six said to those from the group of seventeen, “Leave, this dwelling is ours.”
 
 “Shouldn’t you have told us beforehand? We would’ve repaired another one.”
 
@@ -33,17 +33,17 @@ language: "Pali - English"
 But they said, “Leave, this dwelling is ours,” and they grabbed them by the necks and threw them out in anger.
 
 
-The monks from the group of seventeen cried. When other monks asked them why, they told them what had happened.
+The bhikkhus from the group of seventeen cried. When other bhikkhus asked them why, they told them what had happened.
 
 
-The monks of few desires complained and criticized them, “How could the monks from the group of six angrily throw other monks out of a dwelling belonging to the Sangha?”
+The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six angrily throw other bhikkhus out of a dwelling belonging to the Sangha?”
 
-3After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you did this?”
+3After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

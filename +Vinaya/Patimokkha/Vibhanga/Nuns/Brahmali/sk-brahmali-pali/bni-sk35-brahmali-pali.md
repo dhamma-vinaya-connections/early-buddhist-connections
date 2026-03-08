@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six ate their almsfood after making a heap. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six ate their almsfood after making a heap. …
 
 #### Final ruling
 
 2“‘I will not eat almsfood after making a heap,’ this is how you should train.”
 
-3Almsfood should not be eaten after making a heap. If a monk, out of disrespect, eats almsfood after making heap, he commits an offense of wrong conduct.
+3Almsfood should not be eaten after making a heap. If a bhikkhu, out of disrespect, eats almsfood after making heap, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

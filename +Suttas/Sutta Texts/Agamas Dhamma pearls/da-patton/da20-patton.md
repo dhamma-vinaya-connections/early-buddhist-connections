@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 20. Ambāṣṭha
 
-1. Thus I have heard: One time, the Buddha traveled to Kośala accompanied by a great assembly of 1,250 monks. They went to the Kośala priest village of Icchānaṅgala and stopped to rest in a citron grove.
+1. Thus I have heard: One time, the Buddha traveled to Kośala accompanied by a great assembly of 1,250 bhikkhus. They went to the Kośala priest village of Icchānaṅgala and stopped to rest in a citron grove.
 
 #### Puṣkarasārin Sends Ambāṣṭha to Meet the Buddha
 
@@ -25,7 +25,7 @@ Translated by Charles Patton
 
 3. His best student disciple, named Ambāṣṭha, was descended from seven generations of fathers and mothers who were genuine [priests], so he wasn’t slighted by others. He had mastered the three Vedas and could discern all the various kinds of scriptures. He was also skilled in the techniques of [recognizing] the great man’s signs and [performing] sacrifices and rituals. He had 500 student disciples as well whom he taught without exception, the same as his teacher.
 
-4. The priest Puṣkarasārin heard: “The ascetic Gautama of the Śākya clan, who had left home and achieved awakening, has arrived at the Kośala priest village of Icchānaṅgala and stopped to rest in a citron grove. He’s accompanied by a great assembly of 1,250 monks and possesses a great reputation that’s heard throughout the world: ‘He’s a Tathāgata, an Arhat, and a Completely Awakened One who has perfected the ten epithets. Among gods, worldly men, and demons, whether they’re Māra and the gods or ascetics and priests, he’s self-realized and teaches the Dharma for others. It’s good in the beginning, middle, and end, complete in content and expression, and purifies the religious life.’”
+4. The priest Puṣkarasārin heard: “The ascetic Gautama of the Śākya clan, who had left home and achieved awakening, has arrived at the Kośala priest village of Icchānaṅgala and stopped to rest in a citron grove. He’s accompanied by a great assembly of 1,250 bhikkhus and possesses a great reputation that’s heard throughout the world: ‘He’s a Tathāgata, an Arhat, and a Completely Awakened One who has perfected the ten epithets. Among gods, worldly men, and demons, whether they’re Māra and the gods or ascetics and priests, he’s self-realized and teaches the Dharma for others. It’s good in the beginning, middle, and end, complete in content and expression, and purifies the religious life.’”
 
 5. [Puṣkarasārin said:] “Since he’s a realized person, I should go and meet him! Now, I’d like to examine that ascetic Gautama to be certain he has the 32 signs. His name is heard everywhere, but is what they say about him true? Is there some way I could see the Buddha’s signs?”
 
@@ -463,7 +463,7 @@ His teacher said, “I had an intelligent disciple to send as my messenger, but 
 
 169. The priest saw that the Buddha remained silent and knew that he had given his consent. He then rose from his seat and departed, bowing to the Buddha and circling him three times without thinking about it. He went back and prepared meals of fine delicacies. When they were ready, he returned and said, “It’s time.”
 
-170. The Bhagavān then put on his robe and took his bowl to the priest’s house with that great assembly of 1,250 monks. Arriving, they prepared their seats and sat down.
+170. The Bhagavān then put on his robe and took his bowl to the priest’s house with that great assembly of 1,250 bhikkhus. Arriving, they prepared their seats and sat down.
 
 171. The priest then personally served the meals, giving a variety of sweet delicacies to the Buddha and the Saṅgha. When they finished eating and washing their bowls, the priest took his disciple Ambāṣṭha to the Buddha with his right hand and said, “Please let the Tathāgata permit us to repent for our wrongdoing! Please let the Tathāgata permit us to repent for our wrongdoing!” He repeated this three times.
 
@@ -477,17 +477,17 @@ His teacher said, “I had an intelligent disciple to send as my messenger, but 
 
 175. Sitting right there on his seat, the priest had his dust and defilements removed and his Dharma eye was purified. It was like a pure and clean white cloth that’s easily stained. The priest Puṣkarasārin was likewise. He saw the teaching, attained the teaching, became certain about the fruits of the path, didn’t believe other paths, and attained fearlessness.
 
-176. He then said to the Buddha, “Now, I take refuge in the Buddha, the Dharma, and the Saṅgha of monks three times. Permit me to become a layman of the correct teaching! For the rest of my life, I won’t kill, steal, commit adultery, lie, or drink alcohol. Please let the Bhagavān and the great assembly have pity on me and accept my invitation for the next seven days.” The Bhagavān then silently consented to this.
+176. He then said to the Buddha, “Now, I take refuge in the Buddha, the Dharma, and the Saṅgha of bhikkhus three times. Permit me to become a layman of the correct teaching! For the rest of my life, I won’t kill, steal, commit adultery, lie, or drink alcohol. Please let the Bhagavān and the great assembly have pity on me and accept my invitation for the next seven days.” The Bhagavān then silently consented to this.
 
 177. During the next seven days, the priest gave a variety of offerings to the Buddha and his great assembly. After that, the Bhagavān traveled among the people.
 
-178. Not long after the Buddha departed, the priest Puṣkarasārin fell sick, and his life ended. When the monks heard that this priest had given offerings to the Buddha for seven days before his life ended, they each thought, “Where was he born after his life ended?”
+178. Not long after the Buddha departed, the priest Puṣkarasārin fell sick, and his life ended. When the bhikkhus heard that this priest had given offerings to the Buddha for seven days before his life ended, they each thought, “Where was he born after his life ended?”
 
-179. A group of monks went to the Buddha. After bowing to him, they sat to one side of the Buddha and said, “That priest had given offerings to the Buddha for seven days before his body broke up and his life ended. Where was he reborn?”
+179. A group of bhikkhus went to the Buddha. After bowing to him, they sat to one side of the Buddha and said, “That priest had given offerings to the Buddha for seven days before his body broke up and his life ended. Where was he reborn?”
 
-180. The Buddha told the monks, “This clansman had broadly collected virtues, perfected one teaching and the next, and didn’t go contrary to the teaching. He ended the five lower bonds and will reach parinirvāṇa without returning to this world.”
+180. The Buddha told the bhikkhus, “This clansman had broadly collected virtues, perfected one teaching and the next, and didn’t go contrary to the teaching. He ended the five lower bonds and will reach parinirvāṇa without returning to this world.”
 
-181. When the monks heard what the Buddha had taught, they rejoiced and approved.
+181. When the bhikkhus heard what the Buddha had taught, they rejoiced and approved.
 
 ---
 

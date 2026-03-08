@@ -20,17 +20,17 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Then several mendicants robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms. Then it occurred to him: “It’s too early to wander for alms in Sāvatthī. Why don’t we go to the monastery of the wanderers who follow other paths?” Then they went to the monastery of the wanderers who follow other paths, and exchanged greetings with the wanderers there. When the greetings and polite conversation were over, they sat down to one side. The wanderers said to them:
+Then several bhikkhus robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms. Then it occurred to him: “It’s too early to wander for alms in Sāvatthī. Why don’t we go to the monastery of the wanderers who follow other paths?” Then they went to the monastery of the wanderers who follow other paths, and exchanged greetings with the wanderers there. When the greetings and polite conversation were over, they sat down to one side. The wanderers said to them:
 
 “Reverends, the ascetic Gotama advocates the complete understanding of sensual pleasures, and so do we. The ascetic Gotama advocates the complete understanding of sights, and so do we. The ascetic Gotama advocates the complete understanding of feelings, and so do we. What, then, is the difference between the ascetic Gotama’s teaching and instruction and ours?”
 
-Those mendicants neither approved nor dismissed that statement of the wanderers who follow other paths. They got up from their seat, thinking: “We will learn the meaning of this statement from the Buddha himself.”
+Those bhikkhus neither approved nor dismissed that statement of the wanderers who follow other paths. They got up from their seat, thinking: “We will learn the meaning of this statement from the Buddha himself.”
 
 
 2Then, after the meal, when they returned from alms-round, they went up to the Buddha, bowed, sat down to one side, and told him what had happened. The Buddha said:
 
 
-3“Mendicants, when wanderers who follow other paths say this, you should say to them: ‘But reverends, what’s the gratification, the drawback, and the escape when it comes to sensual pleasures? What’s the gratification, the drawback, and the escape when it comes to sights? What’s the gratification, the drawback, and the escape when it comes to feelings?’ Questioned like this, the wanderers who follow other paths would be stumped, and, in addition, would get frustrated. Why is that? Because they’re out of their element. I don’t see anyone in this world — with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans — who could provide a satisfying answer to these questions except for the Realized One or his disciple or someone who has heard it from them.
+3“bhikkhus, when wanderers who follow other paths say this, you should say to them: ‘But reverends, what’s the gratification, the drawback, and the escape when it comes to sensual pleasures? What’s the gratification, the drawback, and the escape when it comes to sights? What’s the gratification, the drawback, and the escape when it comes to feelings?’ Questioned like this, the wanderers who follow other paths would be stumped, and, in addition, would get frustrated. Why is that? Because they’re out of their element. I don’t see anyone in this world — with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans — who could provide a satisfying answer to these questions except for the Realized One or his disciple or someone who has heard it from them.
 
 4 And what is the gratification of sensual pleasures? There are these five kinds of sensual stimulation. What five? Sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. Sounds known by the ear … Smells known by the nose … Tastes known by the tongue … Touches known by the body that are likable, desirable, agreeable, pleasant, sensual, and arousing. These are the five kinds of sensual stimulation. The pleasure and happiness that arise from these five kinds of sensual stimulation: this is the gratification of sensual pleasures.
 
@@ -66,7 +66,7 @@ Those mendicants neither approved nor dismissed that statement of the wanderers 
 
 16And what is the drawback of sights? Suppose that some time later you were to see that same sister — eighty, ninety, or a hundred years old — bent double, crooked, leaning on a staff, trembling as they walk, ailing, past their prime, with teeth broken, hair grey and scanty or bald, skin wrinkled, and limbs blotchy.
 
-What do you think, mendicants? Has not that former beauty vanished and the drawback become clear?”
+What do you think, bhikkhus? Has not that former beauty vanished and the drawback become clear?”
 
 “Yes, sir.”
 
@@ -74,7 +74,7 @@ What do you think, mendicants? Has not that former beauty vanished and the drawb
 
 17Furthermore, suppose that you were to see that same sister sick, suffering, gravely ill, collapsed in her own urine and feces, being picked up by some and put down by others.
 
-What do you think, mendicants? Has not that former beauty vanished and the drawback become clear?”
+What do you think, bhikkhus? Has not that former beauty vanished and the drawback become clear?”
 
 “Yes, sir.”
 
@@ -82,7 +82,7 @@ What do you think, mendicants? Has not that former beauty vanished and the drawb
 
 18Furthermore, suppose that you were to see that same sister as a corpse discarded in a charnel ground. And she had been dead for one, two, or three days, bloated, livid, and festering.
 
-What do you think, mendicants? Has not that former beauty vanished and the drawback become clear?”
+What do you think, bhikkhus? Has not that former beauty vanished and the drawback become clear?”
 
 “Yes, sir.”
 
@@ -95,7 +95,7 @@ What do you think, mendicants? Has not that former beauty vanished and the drawb
 
 21Furthermore, suppose that you were to see that same sister as a corpse discarded in a charnel ground. And she had been reduced to white bones, the color of shells … decrepit bones, heaped in a pile … bones rotted and crumbled to powder.
 
-What do you think, mendicants? Has not that former beauty vanished and the drawback become clear?”
+What do you think, bhikkhus? Has not that former beauty vanished and the drawback become clear?”
 
 “Yes, sir.”
 
@@ -106,9 +106,9 @@ What do you think, mendicants? Has not that former beauty vanished and the drawb
 
 23There are ascetics and brahmins who don’t truly understand sights’ gratification, drawback, and escape in this way for what they are. It’s impossible for them to completely understand sights themselves, or to instruct another so that, practicing accordingly, they will completely understand sights. There are ascetics and brahmins who do truly understand sights’ gratification, drawback, and escape in this way for what they are. It is possible for them to completely understand sights themselves, or to instruct another so that, practicing accordingly, they will completely understand sights.
 
-24And what is the gratification of feelings? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. At that time a mendicant doesn’t intend to hurt themselves, hurt others, or hurt both; they feel only feelings that are not hurtful. Freedom from being hurt is the ultimate gratification of feelings, I say.
+24And what is the gratification of feelings? It’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. At that time a bhikkhu doesn’t intend to hurt themselves, hurt others, or hurt both; they feel only feelings that are not hurtful. Freedom from being hurt is the ultimate gratification of feelings, I say.
 
-25Furthermore, a mendicant enters and remains in the second jhāna … third jhāna … fourth jhāna. At that time a mendicant doesn’t intend to hurt themselves, hurt others, or hurt both; they feel only feelings that are not hurtful. Freedom from being hurt is the ultimate gratification of feelings, I say.
+25Furthermore, a bhikkhu enters and remains in the second jhāna … third jhāna … fourth jhāna. At that time a bhikkhu doesn’t intend to hurt themselves, hurt others, or hurt both; they feel only feelings that are not hurtful. Freedom from being hurt is the ultimate gratification of feelings, I say.
 
 26And what is the drawback of feelings? That feelings are impermanent, suffering, and perishable: this is their drawback.
 
@@ -116,7 +116,7 @@ What do you think, mendicants? Has not that former beauty vanished and the drawb
 
 28There are ascetics and brahmins who don’t truly understand feelings’ gratification, drawback, and escape in this way for what they are. It’s impossible for them to completely understand feelings themselves, or to instruct another so that, practicing accordingly, they will completely understand feelings. There are ascetics and brahmins who do truly understand feelings’ gratification, drawback, and escape in this way for what they are. It is possible for them to completely understand feelings themselves, or to instruct another so that, practicing accordingly, they will completely understand feelings.”
 
-29That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+29That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

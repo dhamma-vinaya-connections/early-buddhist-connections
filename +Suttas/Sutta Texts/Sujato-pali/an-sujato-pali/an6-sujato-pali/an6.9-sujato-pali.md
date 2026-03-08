@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these six topics for recollection. What six? The recollection of the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. These are the six topics for recollection.”
+1“bhikkhus, there are these six topics for recollection. What six? The recollection of the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities. These are the six topics for recollection.”
 
 1"Chayimāni, bhikkhave, anussatiṭṭhānāni. Katamāni cha? Buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati. Imāni kho, bhikkhave, cha anussatiṭṭhānānī"ti.
 

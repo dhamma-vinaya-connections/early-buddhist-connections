@@ -31,13 +31,13 @@ Then a certain devatā, in the far extreme of the night, her extreme radiance li
 
 (sensual pleasures),
 
-you go for alms, monk.
+you go for alms, bhikkhu.
 
 You don’t go for alms
 
 after having enjoyed.
 
-Having enjoyed, monk,
+Having enjoyed, bhikkhu,
 
 _then_ go for alms.
 
@@ -59,19 +59,19 @@ I go for alms:
 
 Don’t let my time pass me by.”
 
-Then the devatā, coming down to earth, said to Ven. Samiddhi, “You have gone forth while young, monk—black-haired, endowed with the blessings of youth in the first stage of life—without having played with sensuality. Enjoy human sensuality, monk. Don’t drop what is visible here & now in pursuit of what’s subject to time.”
+Then the devatā, coming down to earth, said to Ven. Samiddhi, “You have gone forth while young, bhikkhu—black-haired, endowed with the blessings of youth in the first stage of life—without having played with sensuality. Enjoy human sensuality, bhikkhu. Don’t drop what is visible here & now in pursuit of what’s subject to time.”
 
 “My friend, I’m not dropping what’s visible here & now in pursuit of what’s subject to time. I’m dropping what’s subject to time in pursuit of what’s visible here & now. For the Blessed One has said that sensuality is subject to time, of much stress, much despair, & greater drawbacks; whereas this Dhamma is well taught by the Blessed One, visible here & now, timeless, inviting verification, pertinent, to be experienced by the observant for themselves.”
 
-“But, monk, in what way has the Blessed One said that sensuality is subject to time, of much stress, much despair, & greater drawbacks? And how is this Dhamma visible here & now, timeless, inviting verification, pertinent, to be experienced by the observant for themselves?”
+“But, bhikkhu, in what way has the Blessed One said that sensuality is subject to time, of much stress, much despair, & greater drawbacks? And how is this Dhamma visible here & now, timeless, inviting verification, pertinent, to be experienced by the observant for themselves?”
 
 “I’m new, my friend, not long gone forth, only recently come to this Dhamma & discipline. I can’t explain it in detail. But the Blessed One, worthy & rightly self-awakened, is staying here near Rājagaha at Tapodā monastery. Having gone to him, ask him this matter. As he explains it, that’s how you should remember it.”
 
-“Monk, it’s not easy for us to go to the Blessed One, as he is surrounded by other devas of great influence. But if you go to the Blessed One and ask him this matter, I will come along to hear the Dhamma.”
+“bhikkhu, it’s not easy for us to go to the Blessed One, as he is surrounded by other devas of great influence. But if you go to the Blessed One and ask him this matter, I will come along to hear the Dhamma.”
 
 Responding to the devatā, “As you say, my friend,” Ven. Samiddhi went to the Blessed One. On arrival, having bowed down to the Blessed One, he sat to one side. As he was sitting there [he told the Blessed One his entire conversation with the devatā]. “Now, lord, if that devatā was telling the truth, she is not far from here.”
 
-When this was said, the devatā said to Ven. Samiddhi, “Ask, monk! Ask! I’ve gotten through.”
+When this was said, the devatā said to Ven. Samiddhi, “Ask, bhikkhu! Ask! I’ve gotten through.”
 
 Then the Blessed One recited this verse to the devatā:
 

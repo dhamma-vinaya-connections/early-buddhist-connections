@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I declare these four kinds of deeds, having realized them with my own insight....
+1“bhikkhus, I declare these four kinds of deeds, having realized them with my own insight....
 
 And what are dark deeds with dark results? It’s when someone makes hurtful choices by way of body, speech, and mind. These are called dark deeds with dark results.
 

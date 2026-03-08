@@ -19,11 +19,11 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma47note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma47note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “If a monk violates the precepts, that’s detrimental to having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he doesn’t have liberation, that’s detrimental to nirvāṇa.
+2. It was then that the Bhagavān addressed the bhikkhus, “If a monk violates the precepts, that’s detrimental to having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he doesn’t have liberation, that’s detrimental to nirvāṇa.
 
 3. “If a monk observes the precepts, he readily cultivates having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he has liberation, he readily cultivates nirvāṇa.”
 
-4. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+4. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

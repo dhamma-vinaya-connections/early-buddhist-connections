@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I say that these two people cannot easily be repaid. What two? Mother and father.
+1“bhikkhus, I say that these two people cannot easily be repaid. What two? Mother and father.
 
 You would not have done enough to repay your mother and father even if you were to carry your mother around on one shoulder, and your father on the other, and if you lived like this for a hundred years, and if you were to anoint, massage, bathe, and rub them; and even if they were to defecate and urinate right there.
 

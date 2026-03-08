@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that, when it is developed like this, is so very beneficial as the mind. A developed mind is very beneficial.”
+1“bhikkhus, I do not see a single thing that, when it is developed like this, is so very beneficial as the mind. A developed mind is very beneficial.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ bhāvitaṁ mahato atthāya saṁvattati yathayidaṁ, bhikkhave, cittaṁ. Cittaṁ, bhikkhave, bhāvitaṁ mahato atthāya saṁvattatī"ti.
 

@@ -44,10 +44,10 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A lay disciple serves the mendicant saṅgha with robes, alms-food, lodgings, and medicines
+> A lay disciple serves the bhikkhu saṅgha with robes, alms-food, lodgings, and medicines
 
 > [!info] Key Excerpts 
-> When a noble disciple serves the mendicant saṅgha with robes, alms-food, lodgings, and medicines
+> When a noble disciple serves the bhikkhu saṅgha with robes, alms-food, lodgings, and medicines
 > 
 > Their merit always grows 
 By day and by night. 

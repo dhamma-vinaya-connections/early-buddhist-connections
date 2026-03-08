@@ -20,7 +20,7 @@ language: "English - Pali"
 
 1Thus I heard: At one time the Gracious One was dwelling near Rājagaha, in Bamboo Wood, at the Squirrels’ Feeding Place. Then at that time in Rājagaha there were two gangs, who were impassioned with a certain courtesan, whose minds were bound. Contending, quarelling, and disputing, they attacked each other with their hands, attacked with clods of earth, attacked with sticks, attacked with swords, and there and then they underwent death, and pain like unto death.
 
-2Then many monks, having dressed in the morning time, after picking up their bowls and robes, entered Rājagaha for alms, and after walking for alms in Rājagaha, while returning from the alms-round after the meal, went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those monks said this to the Gracious One:
+2Then many bhikkhus, having dressed in the morning time, after picking up their bowls and robes, entered Rājagaha for alms, and after walking for alms in Rājagaha, while returning from the alms-round after the meal, went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those bhikkhus said this to the Gracious One:
 
 3"Here, reverend Sir, in Rājagaha there are two gangs, who are impassioned with a certain courtesan, whose minds are bound. Contending, quarelling, and disputing, they attack each other with their hands, attack with clods of earth, attack with sticks, attack with swords, and there and then they undergo death, and pain like unto death."
 

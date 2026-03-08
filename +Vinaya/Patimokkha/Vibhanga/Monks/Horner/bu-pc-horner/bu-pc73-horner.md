@@ -7,25 +7,25 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
 > ◄  [[bu-pc72-horner]] 📜  [[bu-pc74-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 73
+# bhikkhus’ Expiation (_Pācittiya_) 73
 
-*Bu-Pc.73.1.1* *BD.3.43* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks, thinking: “Let them understand[^1] that having indulged in bad habits, we are fallen through ignorance,”[^2] while the Pātimokkha was being recited, spoke thus: “Only now[^3] do we understand that this rule[^4] is, as is said, handed down in a clause,[^5] contained in a clause, (and) comes up for recitation every half-month.”
+*Bu-Pc.73.1.1* *BD.3.43* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus, thinking: “Let them understand[^1] that having indulged in bad habits, we are fallen through ignorance,”[^2] while the Pātimokkha was being recited, spoke thus: “Only now[^3] do we understand that this rule[^4] is, as is said, handed down in a clause,[^5] contained in a clause, (and) comes up for recitation every half-month.”
 
-Those who were modest monks … spread it about, saying: “How can this group of six monks speak thus while the Pātimokkha is being recited … ‘… every half-month’?” …
+Those who were modest bhikkhus … spread it about, saying: “How can this group of six bhikkhus speak thus while the Pātimokkha is being recited … ‘… every half-month’?” …
 
-“Is it true, as is said, monks, that you spoke thus while the Pātimokkha was being recited …’ … every half-month’?”
+“Is it true, as is said, bhikkhus, that you spoke thus while the Pātimokkha was being recited …’ … every half-month’?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, speak thus while the Pātimokkha is being recited: ‘… every half-month’? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, speak thus while the Pātimokkha is being recited: ‘… every half-month’? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-*BD.3.44* “Whatever monk, while the Pātimokkha is being recited every half-month, should speak thus: ‘Only now do I understand that this rule is, as is said, handed down in a clause, contained in a clause, (and) comes up for recitation every half-month’; if other monks should know concerning this monk that this monk has sat down two or three times before,[^6] not to say oftener,[^7] while the Pātimokkha was being recited, there is not only no freedom[^8] for that monk on account of (his) ignorance, but he ought to be dealt with according to the rule for the offence into which he has fallen there, and further confusion should be put on[^9] him, saying: ‘Your reverence, this is bad for you, this is badly gotten by you, that you, while the Pātimokkha is being recited, do not attend applying yourself properly.’[^10] This for him on whom the confusion is put[^11] is an offence of expiation.” *Vin.4.145*
+*BD.3.44* “Whatever bhikkhu, while the Pātimokkha is being recited every half-month, should speak thus: ‘Only now do I understand that this rule is, as is said, handed down in a clause, contained in a clause, (and) comes up for recitation every half-month’; if other bhikkhus should know concerning this bhikkhu that this bhikkhu has sat down two or three times before,[^6] not to say oftener,[^7] while the Pātimokkha was being recited, there is not only no freedom[^8] for that bhikkhu on account of (his) ignorance, but he ought to be dealt with according to the rule for the offence into which he has fallen there, and further confusion should be put on[^9] him, saying: ‘Your reverence, this is bad for you, this is badly gotten by you, that you, while the Pātimokkha is being recited, do not attend applying yourself properly.’[^10] This for him on whom the confusion is put[^11] is an offence of expiation.” *Vin.4.145*
 
 * * *
 
-*Bu-Pc.73.2.1* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.73.2.1* Whatever means: … bhikkhu is to be understood in this case.
 
 Every half-month means: every Observance day.[^12]
 
@@ -33,9 +33,9 @@ When the Pātimokkha is being recited means: when reciting it.[^13]
 
 Should speak thus means: if he, thinking, “Let them understand that, having indulged in bad habits, I am fallen through ignorance,” speaks thus, while the *BD.3.45* Pātimokkha is being recited, “Only now do I understand … every half-month,” there is an offence of wrong-doing.
 
-If … this means: the monk whom they desire to confuse.
+If … this means: the bhikkhu whom they desire to confuse.
 
-Monks should know (concerning this monk) that he has sat down … further confusion should be put on him. And thus, monks, should it be put on him: the Order should be informed by an experienced, competent monk, saying: ‘Honoured sirs, let the Order listen to me. This monk so and so, while the Pātimokkha was being recited, did not attend applying himself properly. If it seems right to the Order, the Order should put confusion on the monk so and so. This is the motion. Honoured sirs, let the Order listen to me. This monk … did not attend applying himself properly. The Order is putting confusion on the monk so and so. If the putting of confusion on[^14] the monk so and so is pleasing to the venerable ones, let them be silent; if it is not pleasing, you should speak. Confusion is put on the monk so and so by the Order, and it is right … So do I understand this.’
+bhikkhus should know (concerning this bhikkhu) that he has sat down … further confusion should be put on him. And thus, bhikkhus, should it be put on him: the Order should be informed by an experienced, competent bhikkhu, saying: ‘Honoured sirs, let the Order listen to me. This bhikkhu so and so, while the Pātimokkha was being recited, did not attend applying himself properly. If it seems right to the Order, the Order should put confusion on the bhikkhu so and so. This is the motion. Honoured sirs, let the Order listen to me. This bhikkhu … did not attend applying himself properly. The Order is putting confusion on the bhikkhu so and so. If the putting of confusion on[^14] the bhikkhu so and so is pleasing to the venerable ones, let them be silent; if it is not pleasing, you should speak. Confusion is put on the bhikkhu so and so by the Order, and it is right … So do I understand this.’
 
 If he confuses when confusion is not put on him,[^15] there is an offence of wrong-doing. If he confuses when confusion is put on him,[^16] there is an offence of expiation.
 
@@ -53,7 +53,7 @@ The Third
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

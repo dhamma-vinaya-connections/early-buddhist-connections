@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 56
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three effluents. Which three? The effluent of sensuality, the effluent of becoming, the effluent of ignorance. These are the three effluents.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three effluents. Which three? The effluent of sensuality, the effluent of becoming, the effluent of ignorance. These are the three effluents.”
 
 Centered,
 
@@ -32,7 +32,7 @@ where they cease,
 
 & the path to their ending.
 
-With the ending of effluents, a monk
+With the ending of effluents, a bhikkhu
 
 free from hunger
 

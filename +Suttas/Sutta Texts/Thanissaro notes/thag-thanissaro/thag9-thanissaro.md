@@ -66,7 +66,7 @@ with torrents of rain on all sides
 
 of the path of the birds,
 
-and the monk, having gone to a cave, does jhāna,
+and the bhikkhu, having gone to a cave, does jhāna,
 
 there’s no greater enjoyment than that.
 
@@ -84,7 +84,7 @@ When, at midnight in the secluded grove,
 
 the devas drizzle, the fanged animals roar,
 
-and the monk, having gone to a cave, does jhāna,
+and the bhikkhu, having gone to a cave, does jhāna,
 
 there’s no greater enjoyment than that.
 

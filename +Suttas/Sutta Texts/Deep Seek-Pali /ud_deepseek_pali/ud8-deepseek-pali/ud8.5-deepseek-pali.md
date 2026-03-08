@@ -72,7 +72,7 @@ Having gone to the Kukuṭṭha River, clear, pleasant, and serene, the Teacher,
 
 ‘‘Nhatvā ca pivitvā cudatāri [nhatvā ca uttari (ka.)] satthā,Purakkhato bhikkhugaṇassa majjhe;Satthā pavattā bhagavā idha dhamme,Upāgami ambavanaṃ mahesi;Āmantayi cundakaṃ nāma bhikkhuṃ,Catugguṇaṃ santhara [patthara (sī. pī.)] me nipajjaṃ.
 
-Having bathed and drunk, the Teacher emerged, preceded by the community of monks. The Teacher, the Blessed One, the proclaimer of the Dhamma, the great seer, approached the mango grove. He addressed the monk named Cundaka: 'Spread out a fourfold layer for me to lie down on.'
+Having bathed and drunk, the Teacher emerged, preceded by the community of bhikkhus. The Teacher, the Blessed One, the proclaimer of the Dhamma, the great seer, approached the mango grove. He addressed the monk named Cundaka: 'Spread out a fourfold layer for me to lie down on.'
 
 ‘‘So codito bhāvitattena cundo,Catugguṇaṃ santhari [patthari (sī. pī.)] khippameva;Nipajji satthā sukilantarūpo,Cundopi tattha pamukhe nisīdī’’ti.
 

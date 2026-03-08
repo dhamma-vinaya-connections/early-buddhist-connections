@@ -2,7 +2,7 @@
 sutta_code: "AN7.24"
 sutta_title:
   - "Paṭhamaparihāni "
-  - "Non-Decline For A Mendicant Trainee"
+  - "Non-Decline For A bhikkhu Trainee"
 sutta-version: "Deep Seek"
 language: "English - Pali"
 ---

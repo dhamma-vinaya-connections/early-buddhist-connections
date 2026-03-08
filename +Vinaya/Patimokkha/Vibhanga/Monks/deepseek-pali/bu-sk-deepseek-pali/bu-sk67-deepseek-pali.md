@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 641. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū sayanagatassa dhammaṃ desenti…pe….
 
-## 641.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Monastery. Now at that time the group of six monks were teaching the Dhamma to one lying down [...].
+## 641.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Monastery. Now at that time the group of six bhikkhus were teaching the Dhamma to one lying down [...].
 
 ‘‘Na sayanagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā’’ti.
 

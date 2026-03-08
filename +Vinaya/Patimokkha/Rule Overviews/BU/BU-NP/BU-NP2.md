@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - "Motion-1proclamation"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-NP14"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP1]] 🌐 [[BU-NP3]] ►
 
-# Monks - Nissaggiya Pacittiya - Relinquish with confession
+# bhikkhus - Nissaggiya Pacittiya - Relinquish with confession
 ## Kathinavagga - Robes
 ## BU-NP2 - Udosita - Robes Staying Apart
 
@@ -49,7 +49,7 @@ vin_gender-corr: "BNI-NP14"
 > > [!info]- No Offence 
 > > > From Vibhanga
 > > 
-> > If before sunrise it is taken away, bestowed, lost, destroyed, burnt; if they tear it from him; if they take it on trust; if there is the agreement of the monks, if he is mad, if he is the first wrong-doer. when the kaṭhina privileges are in effect
+> > If before sunrise it is taken away, bestowed, lost, destroyed, burnt; if they tear it from him; if they take it on trust; if there is the agreement of the bhikkhus, if he is mad, if he is the first wrong-doer. when the kaṭhina privileges are in effect
 > 
 > > [!info]- Useful Notes
 > > > From various authors
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-NP14"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-NP2 | [[BNI-NP14]] | Vin.3.1–3.40 |
 

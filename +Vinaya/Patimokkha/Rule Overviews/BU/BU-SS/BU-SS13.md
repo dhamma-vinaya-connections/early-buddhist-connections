@@ -22,12 +22,12 @@ vin_severity:
   - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - "Motion-3proclamation"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-SS17"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-SS12]] 🌐 [[BU-AN1]] ►
 
-# Monks - Sanghadisesa - Suspension
+# bhikkhus - Sanghadisesa - Suspension
 ##  - 3 Admonitions
 ## BU-SS13 - Kuladūsaka - Corrupter of Families
 
@@ -44,7 +44,7 @@ vin_gender-corr: "BNI-SS17"
 > > 
 > > > From BMC1
 > > 
-> > 1. Accusing monks as chandagàmini, dosagàmini, mohagàmini, bhayagàmini 2. Being admonished in legal Vinaya-kamma 3. Completion of kamma-vàca 4. He does not give up effort and attitude
+> > 1. Accusing bhikkhus as chandagàmini, dosagàmini, mohagàmini, bhayagàmini 2. Being admonished in legal Vinaya-kamma 3. Completion of kamma-vàca 4. He does not give up effort and attitude
 > 
 > > [!info]- No Offence 
 > > > From Vibhanga
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-SS17"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-SS13 | [[BNI-SS17]] | Vin.3.1–3.40 |
 

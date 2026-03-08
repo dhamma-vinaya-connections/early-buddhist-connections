@@ -7,9 +7,9 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
 > ◄  [[bu-pc21-horner]] 📜  [[bu-pc23-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 22
+# bhikkhus’ Expiation (_Pācittiya_) 22
 
-*Vin.4.54* *Bu-Pc.22.1.1* *BD.2.273* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time monks who were elders exhorted the nuns in turn.[^1] Now at that time it came to be the turn of the venerable Cūḷapanthaka[^2] to exhort the nuns. The nuns said:
+*Vin.4.54* *Bu-Pc.22.1.1* *BD.2.273* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time bhikkhus who were elders exhorted the nuns in turn.[^1] Now at that time it came to be the turn of the venerable Cūḷapanthaka[^2] to exhort the nuns. The nuns said:
 
 “Now today the exhortation will not be effective,[^3] for now master Cūḷapanthaka will speak the same stanza[^4] again and again.”
 
@@ -38,9 +38,9 @@ The venerable Cūḷapanthaka heard this conversation of those nuns. Then the ve
 
 Then the venerable Cūḷapanthaka, exhorting these nuns until the dark of the night, dismissed them, saying: “Go, sisters.” Then these nuns, staying outside the town because the town-gate was closed, entered the town in the morning.[^11] People looked down upon, criticised, spread it about, saying:
 
-“These nuns are not leading the Brahma-life; having remained together with monks in the monastery, now they are entering the town.”
+“These nuns are not leading the Brahma-life; having remained together with bhikkhus in the monastery, now they are entering the town.”
 
-Monks heard these people *Vin.4.55* who … spread it about. Those who were modest monks … spread it about, saying:
+bhikkhus heard these people *Vin.4.55* who … spread it about. Those who were modest bhikkhus … spread it about, saying:
 
 “How can the venerable Cūḷapanthaka exhort nuns after sunset?” …
 
@@ -50,9 +50,9 @@ Monks heard these people *Vin.4.55* who … spread it about. Those who were mode
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, Cūḷapanthaka[^12] … after sunset? Cūḷapanthaka, it is not for pleasing those who are not *BD.2.275* (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, Cūḷapanthaka[^12] … after sunset? Cūḷapanthaka, it is not for pleasing those who are not *BD.2.275* (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“If a monk, even though agreed upon, should exhort nuns after sunset, there is an offence of expiation.”
+“If a bhikkhu, even though agreed upon, should exhort nuns after sunset, there is an offence of expiation.”
 
 * * *
 
@@ -78,7 +78,7 @@ The Second
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

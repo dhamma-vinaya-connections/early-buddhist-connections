@@ -16,49 +16,49 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, Venerable Channa was misbehaving. The monks would tell him, “Don’t do that; it’s not allowable,” and he would reply, “Who are you to correct me? I should correct you! The Buddha is mine; the Teaching is mine. The Master realized the Truth because of me. Just as grass, sticks, and fallen leaves are whirled up by a strong wind all at once, just as various water plants are whirled up by a mountain stream all at once, so too have you–after going forth with various names, various families, various castes, various households–been lifted up all at once. So, who are you to correct me? I should correct you! The Buddha is mine; the Teaching is mine. The Master realized the Truth because of me.”
+1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, Venerable Channa was misbehaving. The bhikkhus would tell him, “Don’t do that; it’s not allowable,” and he would reply, “Who are you to correct me? I should correct you! The Buddha is mine; the Teaching is mine. The Master realized the Truth because of me. Just as grass, sticks, and fallen leaves are whirled up by a strong wind all at once, just as various water plants are whirled up by a mountain stream all at once, so too have you–after going forth with various names, various families, various castes, various households–been lifted up all at once. So, who are you to correct me? I should correct you! The Buddha is mine; the Teaching is mine. The Master realized the Truth because of me.”
 
 
-The monks of few desires complained and criticized him, “How can Venerable Channa make himself incorrigible when he’s legitimately corrected by the monks?”
+The bhikkhus of few desires complained and criticized him, “How can Venerable Channa make himself incorrigible when he’s legitimately corrected by the bhikkhus?”
 
 2They rebuked Channa in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned Channa: “Is it true, Channa, that you do this?
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk is difficult to correct, and he makes himself incorrigible when legitimately corrected by the monks concerning the training rules that are recited, saying, “Venerables, don’t say anything to me, either good or bad, and I won’t say anything to you, either good or bad. Please refrain from correcting me,” then the monks should correct him like this: “Be easy to correct, Venerable, not incorrigible. And please give legitimate correction to the monks, and the monks will do the same to you. For it’s in this way that the Buddha’s community has grown, that is, through mutual correction and mutual clearing of offenses.” If that monk continues as before, the monks should press him up to three times to make him stop. If he then stops, all is well. If he does not stop, he commits an offense entailing suspension.’”
+3‘If a bhikkhu is difficult to correct, and he makes himself incorrigible when legitimately corrected by the bhikkhus concerning the training rules that are recited, saying, “Venerables, don’t say anything to me, either good or bad, and I won’t say anything to you, either good or bad. Please refrain from correcting me,” then the bhikkhus should correct him like this: “Be easy to correct, Venerable, not incorrigible. And please give legitimate correction to the bhikkhus, and the bhikkhus will do the same to you. For it’s in this way that the Buddha’s community has grown, that is, through mutual correction and mutual clearing of offenses.” If that bhikkhu continues as before, the bhikkhus should press him up to three times to make him stop. If he then stops, all is well. If he does not stop, he commits an offense entailing suspension.’”
 
 #### Definitions
 
-4**If a monk is difficult to correct:** if he is hard to correct, endowed with qualities that make him hard to correct, resistant, not receiving instructions respectfully.
+4**If a bhikkhu is difficult to correct:** if he is hard to correct, endowed with qualities that make him hard to correct, resistant, not receiving instructions respectfully.
 
 5**Concerning the training rules that are recited:** concerning the training rules of the Monastic Code.
 
-6**The monks:** other monks.
+6**The bhikkhus:** other bhikkhus.
 
 7**Legitimately:** the training rules laid down by the Buddha—this is called “legitimately”.
 
 8When corrected in regard to this, he makes himself incorrigible, saying, “Venerables, don’t say anything to me, either good or bad, and I won’t say anything to you, either good or bad. Please refrain from correcting me.”
 
-9**Him:** the monk who is difficult to correct.
+9**Him:** the bhikkhu who is difficult to correct.
 
-10**The monks:** Other monks
+10**The bhikkhus:** Other bhikkhus
 
 
 Those who see it or hear about it. They should correct him like this:
 
-“Be easy to correct, Venerable, not incorrigible. And please give legitimate correction to the monks, and the monks will do the same to you. For it’s in this way that the Buddha’s community has grown, that is, through mutual correction and mutual clearing of offenses.”
+“Be easy to correct, Venerable, not incorrigible. And please give legitimate correction to the bhikkhus, and the bhikkhus will do the same to you. For it’s in this way that the Buddha’s community has grown, that is, through mutual correction and mutual clearing of offenses.”
 
 And they should correct him a second and a third time. If he stops, all is well. If he does not stop, he commits an offense of wrong conduct. If those who hear about it do not say anything, they commit an offense of wrong conduct.
 
 
-That monk, even if he has to be pulled into the Sangha, should be corrected like this:
+That bhikkhu, even if he has to be pulled into the Sangha, should be corrected like this:
 
-“Be easy to correct, Venerable, not incorrigible. And please give legitimate correction to the monks, and the monks will do the same to you. For it’s in this way that the Buddha’s community has grown, that is, through mutual correction and mutual clearing of offenses.”
+“Be easy to correct, Venerable, not incorrigible. And please give legitimate correction to the bhikkhus, and the bhikkhus will do the same to you. For it’s in this way that the Buddha’s community has grown, that is, through mutual correction and mutual clearing of offenses.”
 
 
 They should correct him a second and a third time. If he stops, all is well. If he does not stop, he commits an offense of wrong conduct.
@@ -66,16 +66,16 @@ They should correct him a second and a third time. If he stops, all is well. If 
 
 Should press him:
 
-“And, monks, he should be pressed like this. A competent and capable monk should inform the Sangha:
+“And, bhikkhus, he should be pressed like this. A competent and capable bhikkhu should inform the Sangha:
 
 
-11‘Please, Venerables, I ask the Sangha to listen. The monk so-and-so makes himself incorrigible when legitimately corrected by the monks. And he keeps on doing it. If it seems appropriate to the Sangha, the Sangha should press him to make him stop. This is the motion.
+11‘Please, Venerables, I ask the Sangha to listen. The bhikkhu so-and-so makes himself incorrigible when legitimately corrected by the bhikkhus. And he keeps on doing it. If it seems appropriate to the Sangha, the Sangha should press him to make him stop. This is the motion.
 
-12Please, Venerables, I ask the Sangha to listen. The monk so-and-so makes himself incorrigible when legitimately corrected by the monks. And he keeps on doing it. The Sangha presses him to make him stop. Any monk who approves of pressing him to make him stop should remain silent. Any monk who doesn’t approve should speak up.
+12Please, Venerables, I ask the Sangha to listen. The bhikkhu so-and-so makes himself incorrigible when legitimately corrected by the bhikkhus. And he keeps on doing it. The Sangha presses him to make him stop. Any bhikkhu who approves of pressing him to make him stop should remain silent. Any bhikkhu who doesn’t approve should speak up.
 
-13For the second time I speak on this matter: … For the third time I speak on this matter: Please, Venerables, I ask the Sangha to listen. The monk so-and-so makes himself incorrigible when legitimately corrected by the monks. And he keeps on doing it. The Sangha presses him to make him stop. Any monk who approves of pressing him to make him stop should remain silent. Any monk who doesn’t approve should speak up.
+13For the second time I speak on this matter: … For the third time I speak on this matter: Please, Venerables, I ask the Sangha to listen. The bhikkhu so-and-so makes himself incorrigible when legitimately corrected by the bhikkhus. And he keeps on doing it. The Sangha presses him to make him stop. Any bhikkhu who approves of pressing him to make him stop should remain silent. Any bhikkhu who doesn’t approve should speak up.
 
-14The Sangha has pressed monk so-and-so to make him stop. The Sangha approves and is therefore silent. I’ll remember it thus.’”
+14The Sangha has pressed bhikkhu so-and-so to make him stop. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
 
 15After the motion, he commits an offense of wrong conduct. After each of the first two announcements, he commits a serious offense. When the last announcement is finished, he commits an offense entailing suspension. For one who commits the offense entailing suspension, the offense of wrong conduct and the serious offenses are annulled.

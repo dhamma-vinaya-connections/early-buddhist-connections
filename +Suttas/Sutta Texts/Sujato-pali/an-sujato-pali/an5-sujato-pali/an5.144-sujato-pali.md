@@ -20,29 +20,29 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Sāketa, in Tikaṇḍakī Wood. There the Buddha addressed the mendicants: “Mendicants!”
+1At one time the Buddha was staying near Sāketa, in Tikaṇḍakī Wood. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, a mendicant would do well to meditate from time to time perceiving the following:
+2“bhikkhus, a bhikkhu would do well to meditate from time to time perceiving the following:
 
 1. the repulsive in the unrepulsive,
 2. the unrepulsive in the repulsive,
 3. the repulsive in both the unrepulsive and the repulsive, and
 4. the unrepulsive in both the repulsive and the unrepulsive.
-5. A mendicant would do well to meditate from time to time staying equanimous, mindful and aware, rejecting both the repulsive and the unrepulsive.
+5. A bhikkhu would do well to meditate from time to time staying equanimous, mindful and aware, rejecting both the repulsive and the unrepulsive.
 
-3For what reason should a mendicant meditate perceiving the repulsive in the unrepulsive? ‘May greed not arise in me for things that arouse greed.’ A mendicant should meditate perceiving the repulsive in the unrepulsive for this reason.
+3For what reason should a bhikkhu meditate perceiving the repulsive in the unrepulsive? ‘May greed not arise in me for things that arouse greed.’ A bhikkhu should meditate perceiving the repulsive in the unrepulsive for this reason.
 
-4For what reason should a mendicant meditate perceiving the unrepulsive in the repulsive? ‘May hate not arise in me for things that provoke hate.’ …
+4For what reason should a bhikkhu meditate perceiving the unrepulsive in the repulsive? ‘May hate not arise in me for things that provoke hate.’ …
 
-5For what reason should a mendicant meditate perceiving the repulsive in both the unrepulsive and the repulsive? ‘May greed not arise in me for things that arouse greed. May hate not arise in me for things that provoke hate.’ …
+5For what reason should a bhikkhu meditate perceiving the repulsive in both the unrepulsive and the repulsive? ‘May greed not arise in me for things that arouse greed. May hate not arise in me for things that provoke hate.’ …
 
-6For what reason should a mendicant meditate perceiving the unrepulsive in both the repulsive and the unrepulsive? ‘May hate not arise in me for things that provoke hate. May greed not arise in me for things that arouse greed.’ …
+6For what reason should a bhikkhu meditate perceiving the unrepulsive in both the repulsive and the unrepulsive? ‘May hate not arise in me for things that provoke hate. May greed not arise in me for things that arouse greed.’ …
 
 
-7For what reason should a mendicant meditate staying equanimous, mindful and aware, rejecting both the repulsive and the unrepulsive? ‘May no greed for things that arouse greed, hate for things that provoke hate, or delusion for things that promote delusion arise in me in any way at all.’ For this reason a mendicant should meditate staying equanimous, mindful and aware, rejecting both the repulsive and the unrepulsive.”
+7For what reason should a bhikkhu meditate staying equanimous, mindful and aware, rejecting both the repulsive and the unrepulsive? ‘May no greed for things that arouse greed, hate for things that provoke hate, or delusion for things that promote delusion arise in me in any way at all.’ For this reason a bhikkhu should meditate staying equanimous, mindful and aware, rejecting both the repulsive and the unrepulsive.”
 
 #### Pali
 

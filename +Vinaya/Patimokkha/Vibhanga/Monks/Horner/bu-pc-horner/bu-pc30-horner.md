@@ -7,9 +7,9 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC30]]
 > ◄  [[bu-pc29-horner]] 📜  [[bu-pc31-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 30
+# bhikkhus’ Expiation (_Pācittiya_) 30
 
-*Bu-Pc.30.1.1* *BD.2.300* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the former wife of the venerable Udāyin[^1] had gone forth among the nuns. She frequently came to the venerable Udāyin, and the venerable Udāyin frequently went to this nun. Now at one time the venerable Udāyin was sitting down in a private place together with this nun, the one with the other.[^2] Those who were modest monks … spread it about, saying:
+*Bu-Pc.30.1.1* *BD.2.300* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the former wife of the venerable Udāyin[^1] had gone forth among the nuns. She frequently came to the venerable Udāyin, and the venerable Udāyin frequently went to this nun. Now at one time the venerable Udāyin was sitting down in a private place together with this nun, the one with the other.[^2] Those who were modest bhikkhus … spread it about, saying:
 
 “How can the venerable Udāyin sit down in a private place together with a nun, the one with the other?” …
 
@@ -19,23 +19,23 @@ language: "English"
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, sit down in a private place together with a nun, the one with the other? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, sit down in a private place together with a nun, the one with the other? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should sit down in a private place together with a nun, the one with the other, there is an offence of expiation.”[^3]
+“Whatever bhikkhu should sit down in a private place together with a nun, the one with the other, there is an offence of expiation.”[^3]
 
 * * *
 
-*Bu-Pc.30.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.30.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Nun means: one ordained by both Orders.
 
 *BD.2.301* Together with means: together.
 
-The one with the other means: there is a monk and also a nun. *Vin.4.69*
+The one with the other means: there is a bhikkhu and also a nun. *Vin.4.69*
 
 A private place means: private from the eye, private from the ear. Private from the eye means: if covering the eye, or raising the eyebrow, or raising the head, he is unable to see. Private from the ear means: it is impossible to hear ordinary talk[^4] (from him and the woman).
 
-Should sit down means: if a nun is sitting and a monk comes to be sitting or lying down close (to her), there is an offence of expiation; if a monk is sitting and a nun comes to be sitting or lying down close (to him), there is an offence of expiation. Or if both are sitting or if both are lying down, there is an offence of expiation.[^5]
+Should sit down means: if a nun is sitting and a bhikkhu comes to be sitting or lying down close (to her), there is an offence of expiation; if a bhikkhu is sitting and a nun comes to be sitting or lying down close (to him), there is an offence of expiation. Or if both are sitting or if both are lying down, there is an offence of expiation.[^5]
 
 * * *
 
@@ -60,7 +60,7 @@ The Third Division: that on Exhortation
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -17,9 +17,9 @@ language: "English"
 
 163 (51). What’s Destroyed
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “Now, I will discuss for you the things that are destroyed and those are aren’t destroyed.<a id="fnref2"></a>[^2] Listen closely, and consider it well. I will explain this for you.
-3. “Monks, form is something that’s destroyed, but the cessation and _nirvāṇa_ of that form is not something that’s destroyed.<a id="fnref3"></a>[^3] Feeling … conception … volition … awareness is something that’s destroyed, but the cessation and _nirvāṇa_ of that awareness is not something that’s destroyed.”
-4. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+2. It was then that the Bhagavān addressed the bhikkhus, “Now, I will discuss for you the things that are destroyed and those are aren’t destroyed.<a id="fnref2"></a>[^2] Listen closely, and consider it well. I will explain this for you.
+3. “bhikkhus, form is something that’s destroyed, but the cessation and _nirvāṇa_ of that form is not something that’s destroyed.<a id="fnref3"></a>[^3] Feeling … conception … volition … awareness is something that’s destroyed, but the cessation and _nirvāṇa_ of that awareness is not something that’s destroyed.”
+4. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

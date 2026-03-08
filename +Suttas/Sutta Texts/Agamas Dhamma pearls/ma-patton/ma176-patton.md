@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma176note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma176note01-ref
 
-2. It was then that the Bhagavān told the monks, “The world in truth has four kinds of meditator. What are the four? Some meditators are waxing but say that they are waning. Some meditators are waning but say that they are waxing. Some meditators are waning, and they truly know that they are waning. Some meditators are waxing, and they truly know that they are waxing.
+2. It was then that the Bhagavān told the bhikkhus, “The world in truth has four kinds of meditator. What are the four? Some meditators are waxing but say that they are waning. Some meditators are waning but say that they are waxing. Some meditators are waning, and they truly know that they are waning. Some meditators are waxing, and they truly know that they are waxing.
 
 #### The Practitioner Who Is Waxing but Says They Are Waning
 
@@ -147,7 +147,7 @@ language: "English"
 
 61. “The world in truth has these four kinds of meditators, and that’s the reason I’ve explained it.”
 
-62. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+62. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

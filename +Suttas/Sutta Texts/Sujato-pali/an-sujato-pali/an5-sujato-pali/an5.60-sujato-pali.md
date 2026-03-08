@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, it’s hard to find someone gone forth when old who has five qualities. What five? It’s hard to find someone gone forth when old who is easy to admonish, retains what they learn, and learns respectfully, who can teach the Dhamma, and has memorized the texts on monastic training. It’s hard to find someone gone forth when old who has these five qualities.”
+1“bhikkhus, it’s hard to find someone gone forth when old who has five qualities. What five? It’s hard to find someone gone forth when old who is easy to admonish, retains what they learn, and learns respectfully, who can teach the Dhamma, and has memorized the texts on monastic training. It’s hard to find someone gone forth when old who has these five qualities.”
 
 1Pañcahi, bhikkhave, dhammehi samannāgato dullabho vuḍḍhapabbajito. Katamehi pañcahi? Dullabho, bhikkhave, vuḍḍhapabbajito suvaco, dullabho suggahitaggāhī, dullabho padakkhiṇaggāhī, dullabho dhammakathiko, dullabho vinayadharo. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato dullabho vuḍḍhapabbajito"ti.
 

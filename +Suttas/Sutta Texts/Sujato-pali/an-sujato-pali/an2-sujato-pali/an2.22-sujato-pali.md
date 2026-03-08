@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these two misrepresent the Realized One. What two? One who is hateful and hides it, and one whose faith is mistaken. These two misrepresent the Realized One.”
+1“bhikkhus, these two misrepresent the Realized One. What two? One who is hateful and hides it, and one whose faith is mistaken. These two misrepresent the Realized One.”
 
 1"Dveme, bhikkhave, tathāgataṁ abbhācikkhanti. Katame dve? Duṭṭho vā dosantaro, saddho vā duggahitena. Ime kho, bhikkhave, dve tathāgataṁ abbhācikkhantī"ti.
 

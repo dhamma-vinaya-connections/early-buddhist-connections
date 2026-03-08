@@ -21,7 +21,7 @@ language: "Pali - English"
 
 When he arrived at Sāvatthī, he threw the wool to the ground.
 
-The monks asked him why.
+The bhikkhus asked him why.
 
 “People have been teasing me because of this wool.”
 
@@ -30,14 +30,14 @@ The monks asked him why.
 “Over 40 kilometers.”
 
 
-The monks of few desires complained and criticized him, “How could a monk carry wool more than 40 kilometers?”
+The bhikkhus of few desires complained and criticized him, “How could a monk carry wool more than 40 kilometers?”
 
-2After rebuking that monk in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monk, that you did this?”
+2After rebuking that monk in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, monk, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -59,7 +59,7 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 9**If he carries it further than that, even if there is no one else to carry it:** when he goes beyond 40 kilometers with the first foot, he commits an offense of wrong conduct. When he goes beyond with the second foot, he commits an offense entailing relinquishment and confession. If he stands within the 40 kilometer limit, but drops it beyond the 40 kilometer limit, he commits an offense entailing relinquishment and confession. If he places it in the vehicle or among the goods of another without their knowledge, and it goes more than 40 kilometers, it becomes subject to relinquishment.
 
 
-The wool should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. … To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The wool should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. … To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this wool, which I have taken more than 40 kilometers, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this wool back to you.’”

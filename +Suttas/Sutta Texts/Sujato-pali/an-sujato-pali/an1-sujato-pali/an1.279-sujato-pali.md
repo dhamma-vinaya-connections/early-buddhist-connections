@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-279“It is impossible, mendicants, it cannot happen for a woman to be a perfected one, a fully awakened Buddha. But it is possible for a man to be a perfected one, a fully awakened Buddha.”
+279“It is impossible, bhikkhus, it cannot happen for a woman to be a perfected one, a fully awakened Buddha. But it is possible for a man to be a perfected one, a fully awakened Buddha.”
 
-280“It is impossible, mendicants, it cannot happen for a woman to be a wheel-turning monarch. But it is possible for a man to be a wheel-turning monarch.”
+280“It is impossible, bhikkhus, it cannot happen for a woman to be a wheel-turning monarch. But it is possible for a man to be a wheel-turning monarch.”
 
-281-283“It is impossible, mendicants, it cannot happen for a woman to perform the role of Sakka, Māra, or Brahmā. But it is possible for a man to perform the role of Sakka, Māra, or Brahmā.”
+281-283“It is impossible, bhikkhus, it cannot happen for a woman to perform the role of Sakka, Māra, or Brahmā. But it is possible for a man to perform the role of Sakka, Māra, or Brahmā.”
 
 
 ---

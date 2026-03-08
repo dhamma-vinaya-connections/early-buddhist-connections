@@ -26,20 +26,20 @@ language: "Pali - English"
 “Good, good, Mahānāma. Please do so.”
 
 
-But the monks were afraid of wrongdoing and did not accept. They then told the Buddha what had happened. …
+But the bhikkhus were afraid of wrongdoing and did not accept. They then told the Buddha what had happened. …
 
-“Monks, I allow you to accept an invitation to ask for tonics for four months.”
+“bhikkhus, I allow you to accept an invitation to ask for tonics for four months.”
 
-2Yet the monks only asked Mahānāma for a small amount of tonics, and so he still had an abundance. A second time he went to the Buddha, bowed, sat down, and said, “Sir, I wish to invite the Sangha to ask for tonics for a further four months.”
+2Yet the bhikkhus only asked Mahānāma for a small amount of tonics, and so he still had an abundance. A second time he went to the Buddha, bowed, sat down, and said, “Sir, I wish to invite the Sangha to ask for tonics for a further four months.”
 
 “Good, good, Mahānāma. Please do so.”
 
-Again the monks were afraid of wrongdoing and did not accept. They told the Buddha. …
+Again the bhikkhus were afraid of wrongdoing and did not accept. They told the Buddha. …
 
-“Monks, I allow you to accept a further invitation.”
+“bhikkhus, I allow you to accept a further invitation.”
 
 
-3Once again the monks only asked Mahānāma for a small amount of tonics, and so he still had an abundance. A third time he went to the Buddha, bowed, sat down, and said:
+3Once again the bhikkhus only asked Mahānāma for a small amount of tonics, and so he still had an abundance. A third time he went to the Buddha, bowed, sat down, and said:
 
 
 “Sir, I wish to invite the Sangha to ask for tonics for life.”
@@ -47,17 +47,17 @@ Again the monks were afraid of wrongdoing and did not accept. They told the Budd
 “Good, good, Mahānāma. Please do so.”
 
 
-Yet again the monks were afraid of wrongdoing and did not accept. They told the Buddha. …
+Yet again the bhikkhus were afraid of wrongdoing and did not accept. They told the Buddha. …
 
 
-“Monks, I allow you to accept a permanent invitation.”
+“bhikkhus, I allow you to accept a permanent invitation.”
 
 
-4At that time the monks from the group of six were shabbily dressed and improper in appearance. Mahānāma criticized them:
+4At that time the bhikkhus from the group of six were shabbily dressed and improper in appearance. Mahānāma criticized them:
 
 “Venerables, why are you shabbily dressed and improper in appearance? Shouldn’t one who has gone forth be suitably dressed and proper in appearance?”
 
-The monks from the group of six developed a grudge against Mahānāma. Thinking of ways to humiliate him, it occurred to them, “Mahānāma has invited the Sangha to ask for tonics. Let’s ask him for ghee.”
+The bhikkhus from the group of six developed a grudge against Mahānāma. Thinking of ways to humiliate him, it occurred to them, “Mahānāma has invited the Sangha to ask for tonics. Let’s ask him for ghee.”
 
 
 They then went to Mahānāma and said:
@@ -67,7 +67,7 @@ They then went to Mahānāma and said:
 
 “Please wait until tomorrow. People have gone to the cow-pen to get ghee. You may come and get it in the morning.”
 
-5A second time and a third time the monks from the group of six said the same thing, and Mahānāma replied as before. They then said:
+5A second time and a third time the bhikkhus from the group of six said the same thing, and Mahānāma replied as before. They then said:
 
 “Why do you give an invitation if you don’t wish to give?”
 
@@ -75,16 +75,16 @@ Mahānāma complained and criticized them:
 
 “How can they not wait for one day when asked?”
 
-6The monks heard the complaints of Mahānāma, and the monks of few desires complained and criticized those monks:
+6The bhikkhus heard the complaints of Mahānāma, and the bhikkhus of few desires complained and criticized those bhikkhus:
 
-“How could the monks from the group of six not wait for one day when asked by Mahānāma?” …
+“How could the bhikkhus from the group of six not wait for one day when asked by Mahānāma?” …
 
-“Is it true, monks, that you acted like this?”
+“Is it true, bhikkhus, that you acted like this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you act like this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you act like this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

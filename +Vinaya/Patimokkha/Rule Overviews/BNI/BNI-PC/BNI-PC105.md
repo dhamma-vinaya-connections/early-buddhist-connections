@@ -49,7 +49,7 @@ vin_gender-corr: "BU-PC9"
 > > [!info]- No Offence 
 > > > From Vibhanga
 > > 
-> > If he speaks of the class but not of an offence; if he speaks of an offence but not of the class; if there is the agreement of the monks; if he is mad, if he is the first wrong-doer
+> > If he speaks of the class but not of an offence; if he speaks of an offence but not of the class; if there is the agreement of the bhikkhus; if he is mad, if he is the first wrong-doer
 > 
 > > [!info]- Useful Notes
 > > > From various authors
@@ -74,7 +74,7 @@ vin_gender-corr: "BU-PC9"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-PC105 | [[BU-PC9]] | Vin.4.258-4.345 |
 

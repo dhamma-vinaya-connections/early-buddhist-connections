@@ -135,40 +135,40 @@ contribution:
 >  The Buddha  enumerates twenty things of singular importance to the spiritual path.
 
 > [!example]- 🌐[[AN1.41]] - 📜[Available texts](obsidian://search?query=file:an1.41-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.42]] - 📜[Available texts](obsidian://search?query=file:an1.42-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.43]] - 📜[Available texts](obsidian://search?query=file:an1.43-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.44]] - 📜[Available texts](obsidian://search?query=file:an1.44-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.45]] - 📜[Available texts](obsidian://search?query=file:an1.45-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.46]] - 📜[Available texts](obsidian://search?query=file:an1.46-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.47]] - 📜[Available texts](obsidian://search?query=file:an1.47-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.48]] - 📜[Available texts](obsidian://search?query=file:an1.48-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.49]] - 📜[Available texts](obsidian://search?query=file:an1.49-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.50]] - 📜[Available texts](obsidian://search?query=file:an1.50-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.51]] - 📜[Available texts](obsidian://search?query=file:an1.51-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.52]] - 📜[Available texts](obsidian://search?query=file:an1.52-) - Paṇihitaaccha – Spike 
->  This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+>  This mind, bhikkhus, is radiant. But It’s corrupted by passing corruptions
 
 > [!example]- 🌐[[AN1.53]] - 📜[Available texts](obsidian://search?query=file:an1.53-) - Accharāsaṅghāta – Finger Snap 
 >  Mind arises first, and unskillful qualities follow right behind

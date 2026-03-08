@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are five things that cannot be had by any ascetic or brahmin or god or Māra or Brahmā or by anyone in the world. What five? That someone liable to old age should not grow old. That someone liable to sickness should not get sick. … That someone liable to death should not die. … That someone liable to ending should not end. … That someone liable to perishing should not perish. …
+1“bhikkhus, there are five things that cannot be had by any ascetic or brahmin or god or Māra or Brahmā or by anyone in the world. What five? That someone liable to old age should not grow old. That someone liable to sickness should not get sick. … That someone liable to death should not die. … That someone liable to ending should not end. … That someone liable to perishing should not perish. …
 
 2An uneducated ordinary person has someone liable to old age who grows old. But they don’t reflect: ‘It’s not just me who has someone liable to old age who grows old. For as long as sentient beings come and go, pass away and are reborn, they all have someone liable to old age who grows old. If I were to sorrow and pine and lament, beating my breast and falling into confusion, just because someone liable to old age grows old, I’d lose my appetite and my body would become ugly. My work wouldn’t get done, my enemies would be encouraged, and my friends would be dispirited.’ And so, when someone liable to old age grows old, they sorrow and pine and lament, beating their breast and falling into confusion. This is called an uneducated ordinary person struck by sorrow’s poisoned arrow, who only mortifies themselves.
 

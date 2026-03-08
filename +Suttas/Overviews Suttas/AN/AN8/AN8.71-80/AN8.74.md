@@ -44,7 +44,7 @@ parallels_partilal: "[[AN6.20]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant should reflect each night on the dangers that lie around them, and practice mindfulness of death with urgency to give up the unwholesome
+> A bhikkhu should reflect each night on the dangers that lie around them, and practice mindfulness of death with urgency to give up the unwholesome
 
 > [!info] Key Excerpts 
 > Reflects: ‘I might die of many causes and  it would be an obstacle to me so are there any bad, unskillful qualities that I haven’t given up, which might be an obstacle to me if I die tonight

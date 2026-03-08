@@ -32,7 +32,7 @@ language: "English"
 
 (8) “He dwells contemplating arising and vanishing in the five aggregates subject to clinging: ‘Such is form, such its origin, such its passing away; such is feeling … such is perception … such are volitional activities … such is consciousness, such its origin, such its passing away.’ This is the eighth cause and condition that leads to obtaining the wisdom fundamental to the spiritual life when it has not been obtained and to its increase, maturation, and fulfillment by development after it has been obtained.
 
-(1) “His fellow monks esteem him thus: ‘This venerable one lives in dependence on the Teacher or on a certain fellow monk in the position of a teacher, toward whom he has set up a keen sense of moral shame and moral dread, affection and reverence. This venerable one surely knows and sees.’ This quality leads to affection, respect, esteem, accord, and unity.
+(1) “His fellow bhikkhus esteem him thus: ‘This venerable one lives in dependence on the Teacher or on a certain fellow monk in the position of a teacher, toward whom he has set up a keen sense of moral shame and moral dread, affection and reverence. This venerable one surely knows and sees.’ This quality leads to affection, respect, esteem, accord, and unity.
 
 (2) “‘As this venerable one is living in dependence on the Teacher or on a certain fellow monk in the position of a teacher … \[154\] … those venerable ones … dispel his perplexity about numerous perplexing points. This venerable one surely knows and sees.’ This quality, too, leads to affection, respect, esteem, accord, and unity.
 

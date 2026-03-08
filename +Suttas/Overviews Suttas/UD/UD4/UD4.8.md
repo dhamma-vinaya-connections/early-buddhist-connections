@@ -58,11 +58,11 @@ those men of base deeds
 > People out of control stab with words, 
 like they stab a tusker in battle with darts. 
 When they hear a harsh word spoken, 
-a mendicant should endure with no anger in heart.
+a bhikkhu should endure with no anger in heart.
 > 
 
 > [!info] Similes
-> Elephant attacked by arrows, as monks attacked by abusive words
+> Elephant attacked by arrows, as bhikkhus attacked by abusive words
 
 ---
 

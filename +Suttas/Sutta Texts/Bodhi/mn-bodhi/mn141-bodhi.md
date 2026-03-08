@@ -58,7 +58,7 @@ The Exposition of the Truths
 
 22\. “And what, friends, is the noble truth of the cessation of suffering? It is the remainderless fading away and ceasing, the giving up, relinquishing, letting go, and rejecting of that same craving. This is called the noble truth of the cessation of suffering.
 
-23\. “And what, friends, is the noble truth of the way leading to the cessation of suffering? It is just this Noble Eightfold Path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi.
+23\. “And what, friends, is the noble truth of the way leading to the cessation of suffering? It is just this ![[Noble Path]].
 
 24\. “And what, friends, is right view? Knowledge of suffering, knowledge of the origin of suffering, knowledge of the cessation of suffering, and knowledge of the way leading to the cessation of suffering—this is called right view.
 
@@ -72,9 +72,9 @@ The Exposition of the Truths
 
 29\. “And what, friends, is right effort? Here a bhikkhu awakens zeal for the non-arising of unarisen evil unwholesome states, and he makes effort, arouses energy, exerts his mind, and strives. He awakens zeal for the abandoning of arisen evil unwholesome states, and he makes effort, arouses energy, exerts his mind, and strives. He awakens zeal for the arising of unarisen wholesome states, \[252\] and he makes effort, arouses energy, exerts his mind, and strives. He awakens zeal for the continuance, non-disappearance, strengthening, increase, and fulfilment by development of arisen wholesome states, and he makes effort, arouses energy, exerts his mind, and strives. This is called right effort.
 
-30\. “And what, friends, is right mindfulness? Here a bhikkhu abides contemplating the body as a body, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating feelings as feelings, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating mind as mind, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating mind-objects as mind-objects, ardent, fully aware, and mindful, having put away covetousness and grief for the world. This is called right mindfulness.
+30\. “And what, friends, is right mindfulness? Here a bhikkhu ![[Satipatthanas]]. He ![[Satipatthanas]]. He ![[Satipatthanas]]. He ![[Satipatthanas]]. This is called right mindfulness.
 
-31\. “And what, friends, is right samādhi? Here, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. With the stilling of applied and sustained thought, he enters upon and abides in the second jhāna, which has self-confidence and singleness of mind without applied and sustained thought, with rapture and pleasure born of samādhi. With the fading away as well of rapture, he abides in equanimity, and mindful and fully aware, still feeling pleasure with the body, he enters upon and abides in the third jhāna, on account of which noble ones announce: ‘He has a pleasant abiding who has equanimity and is mindful.’ With the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, he enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. This is called right samādhi.
+31\. “And what, friends, is right samādhi? Here, ![[Jhanas]], and mindful and fully aware, still feeling pleasure with the body, he enters upon and abides in the third jhāna, on account of which noble ones announce: ‘He has a pleasant abiding who has equanimity and is mindful.’ With the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, he enters upon and abides in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. This is called right samādhi.
 
 “This is called the noble truth of the way leading to the cessation of suffering.
 

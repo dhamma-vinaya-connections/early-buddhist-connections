@@ -20,15 +20,15 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, if wanderers who follow other paths were to ask: ‘There are these three things. What three? Greed, hate, and delusion. These are the three things. What’s the difference between them?’ How would you answer them?”
+1“bhikkhus, if wanderers who follow other paths were to ask: ‘There are these three things. What three? Greed, hate, and delusion. These are the three things. What’s the difference between them?’ How would you answer them?”
 
-“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The mendicants will listen and remember it.”
+“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The bhikkhus will listen and remember it.”
 
-“Well then, mendicants, listen and pay close attention, I will speak.”
+“Well then, bhikkhus, listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
-2“Mendicants, if wanderers who follow other paths were to ask: ‘There are these three things. What three? Greed, hate, and delusion. These are the three things. What’s the difference between them?’ You should answer them: ‘Greed, reverends, is mildly blameworthy, but slow to fade away. Hate is very blameworthy, but quick to fade away. Delusion is very blameworthy, and slow to fade away.’
+2“bhikkhus, if wanderers who follow other paths were to ask: ‘There are these three things. What three? Greed, hate, and delusion. These are the three things. What’s the difference between them?’ You should answer them: ‘Greed, reverends, is mildly blameworthy, but slow to fade away. Hate is very blameworthy, but quick to fade away. Delusion is very blameworthy, and slow to fade away.’
 
 3And if they ask: ‘What is the cause, what is the reason why greed arises, and once arisen it increases and grows?’ You should say: ‘The beautiful feature of things. When you attend improperly to the beautiful feature of things, greed arises, and once arisen it increases and grows. This is the cause, this is the reason why greed arises, and once arisen it increases and grows.’
 

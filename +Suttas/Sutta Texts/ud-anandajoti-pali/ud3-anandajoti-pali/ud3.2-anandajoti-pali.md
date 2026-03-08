@@ -18,21 +18,21 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time venerable Nanda, the Gracious One's brother, his mother's sister's son, confessed this to many monks:
+1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time venerable Nanda, the Gracious One's brother, his mother's sister's son, confessed this to many bhikkhus:
 
 "I have no great delight, venerable friends, living the spiritual life, I am not able to endure the spiritual life, having disavowed the training, I will return to what is inferior."
 
-2Then a certain monk went to the Gracious One, and after going and worshipping the Gracious One, he sat down on one side. While sat on one side that monk said this to the Gracious One:
+2Then a certain bhikkhu went to the Gracious One, and after going and worshipping the Gracious One, he sat down on one side. While sat on one side that bhikkhu said this to the Gracious One:
 
-"Venerable Nanda, reverend Sir, the Gracious One's brother, his mother's sister's son, confesses this to many monks: ‘I have no great delight, venerable friends, living the spiritual life, I am not able to endure the spiritual life, having disavowed the training, I will return to what is inferior.’ "
+"Venerable Nanda, reverend Sir, the Gracious One's brother, his mother's sister's son, confesses this to many bhikkhus: ‘I have no great delight, venerable friends, living the spiritual life, I am not able to endure the spiritual life, having disavowed the training, I will return to what is inferior.’ "
 
-3Then the Gracious One addressed a certain monk, saying: "Please go, monk, and with my word address the monk Nanda, saying: ‘The Teacher, venerable friend Nanda, calls you.’ "
+3Then the Gracious One addressed a certain bhikkhu, saying: "Please go, bhikkhu, and with my word address the bhikkhu Nanda, saying: ‘The Teacher, venerable friend Nanda, calls you.’ "
 
-"Yes, reverend Sir," said that monk, and after replying to the Gracious One, he went to venerable Nanda, and after going, he said this to venerable Nanda: "The Teacher, venerable friend Nanda, calls you."
+"Yes, reverend Sir," said that bhikkhu, and after replying to the Gracious One, he went to venerable Nanda, and after going, he said this to venerable Nanda: "The Teacher, venerable friend Nanda, calls you."
 
-4"Yes, venerable friend," said venerable Nanda, and after replying to that monk, he went to the Gracious One, and after going and worshipping the Gracious One, he sat down on one side. While sat on one side, the Gracious One said this to venerable Nanda:
+4"Yes, venerable friend," said venerable Nanda, and after replying to that bhikkhu, he went to the Gracious One, and after going and worshipping the Gracious One, he sat down on one side. While sat on one side, the Gracious One said this to venerable Nanda:
 
-5"Is it true, as it seems, Nanda, that you confessed this to many monks, saying:
+5"Is it true, as it seems, Nanda, that you confessed this to many bhikkhus, saying:
 
 "I have no great delight, venerable friends, living the spiritual life, I am not able to endure the spiritual life, having disavowed the training, I will return to what is inferior.’ "
 
@@ -56,7 +56,7 @@ Then the Gracious One addressed venerable Nanda, saying: "Do you see, Nanda, the
 
 9"What do you think about this, Nanda, who has the most perfect form, is the most fair to behold, is the most pleasing, the Sakyan girl, the most beautiful woman in the country, or these five hundred celestial dove-footed nymphs?"
 
-"Like a disfigured monkey, reverend Sir, with its ears and nose cut off, so is the Sakyan girl, reverend Sir, the most beautiful woman in the country, compared with these five hundred celestial nymphs she does not count, she is not even a fraction, she is not even half a fraction, she is not even to be compared! These five hundred celestial nymphs certainly have the most perfect form, are the most fair to behold, are the more pleasing."
+"Like a disfigured bhikkhuey, reverend Sir, with its ears and nose cut off, so is the Sakyan girl, reverend Sir, the most beautiful woman in the country, compared with these five hundred celestial nymphs she does not count, she is not even a fraction, she is not even half a fraction, she is not even to be compared! These five hundred celestial nymphs certainly have the most perfect form, are the most fair to behold, are the more pleasing."
 
 10"Take delight, Nanda! Take delight, Nanda! I am your surety for gaining five hundred celestial dove-footed nymphs!"
 
@@ -64,11 +64,11 @@ Then the Gracious One addressed venerable Nanda, saying: "Do you see, Nanda, the
 
 11Then the Gracious One, having taken venerable Nanda by the arm, just as a strong man might stretch out a bent arm, or bend in an outstretched arm, in the same way did they disappear from amongst the Tāvatiṁsa devas, and reappear in Jeta's Wood.
 
-12The monks heard: "Venerable Nanda, it seems, the Gracious One's brother, his mother's sister's son, is living the spiritual life for the sake of celestial nymphs, the Gracious One, it seems, is his surety for gaining five hundred celestial dove-footed nymphs!"
+12The bhikkhus heard: "Venerable Nanda, it seems, the Gracious One's brother, his mother's sister's son, is living the spiritual life for the sake of celestial nymphs, the Gracious One, it seems, is his surety for gaining five hundred celestial dove-footed nymphs!"
 
-13Then venerable Nanda's monk-friends accosted venerable Nanda with words about a hireling, with words about a lackey, saying: "It seems venerable Nanda is a hireling, it seems venerable Nanda is a lackey, he is living the spiritual life for the sake of celestial nymphs, the Gracious One, it seems, is his surety for gaining five hundred celestial dove-footed nymphs!"
+13Then venerable Nanda's bhikkhu-friends accosted venerable Nanda with words about a hireling, with words about a lackey, saying: "It seems venerable Nanda is a hireling, it seems venerable Nanda is a lackey, he is living the spiritual life for the sake of celestial nymphs, the Gracious One, it seems, is his surety for gaining five hundred celestial dove-footed nymphs!"
 
-14Then venerable Nanda, at his monk-friends’ words about a hireling, words about a lackey, was distressed, ashamed, and disgusted, and while dwelling solitary, secluded, heedful, ardent, and resolute, after no long time attained that good for which sons of good family rightly go forth from the home to homelessness, that unsurpassed conclusion to the spiritual life, and dwelt having known, having directly experienced, and having attained nibbāna himself in this very life:
+14Then venerable Nanda, at his bhikkhu-friends’ words about a hireling, words about a lackey, was distressed, ashamed, and disgusted, and while dwelling solitary, secluded, heedful, ardent, and resolute, after no long time attained that good for which sons of good family rightly go forth from the home to homelessness, that unsurpassed conclusion to the spiritual life, and dwelt having known, having directly experienced, and having attained nibbāna himself in this very life:
 
 "Destroyed is birth accomplished is the spiritual life done is what ought to be done there is no more of this mundane state" — this he knew.
 
@@ -101,7 +101,7 @@ And this knowledge arose to the Gracious One:
 18"He who has got out of the quagmire,  
 who has crushed the thorn of sense desire,  
 Who has arrived at the destruction of delusion,  
-that monk does not shake in regard to pleasure and pain."
+that bhikkhu does not shake in regard to pleasure and pain."
 
 1Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā nando bhagavato bhātā mātucchāputto sambahulānaṁ bhikkhūnaṁ evamāroceti: 
 

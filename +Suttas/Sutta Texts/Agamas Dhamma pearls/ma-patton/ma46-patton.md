@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma46note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma46note01-ref
 
-2. It was then that Venerable Śāriputra addressed the monks, “Good men, if a monk doesn’t have conscience or modesty, then that’s detrimental to affection and respect. If he doesn’t have affection or respect, then that’s detrimental to faith. If he doesn’t have faith, then that’s detrimental to right thinking. If he doesn’t have right thinking, then that’s detrimental to right mindfulness and right knowledge. If he has no right mindfulness and right knowledge, then that’s detrimental to guarding his faculties … guarding the precepts … having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he doesn’t have liberation, then that’s detrimental to nirvāṇa.
+2. It was then that Venerable Śāriputra addressed the bhikkhus, “Good men, if a monk doesn’t have conscience or modesty, then that’s detrimental to affection and respect. If he doesn’t have affection or respect, then that’s detrimental to faith. If he doesn’t have faith, then that’s detrimental to right thinking. If he doesn’t have right thinking, then that’s detrimental to right mindfulness and right knowledge. If he has no right mindfulness and right knowledge, then that’s detrimental to guarding his faculties … guarding the precepts … having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he doesn’t have liberation, then that’s detrimental to nirvāṇa.
 
 3. “Good men, it’s like a tree that has damaged outer bark. Its inner bark then doesn’t form. When the inner bark doesn’t form, then the branches … trunk … core … joints … limbs … leaves … flowers … fruit doesn’t form.
 
@@ -31,7 +31,7 @@ language: "English"
 
 7. “Good men, you should know that a monk is likewise. If he has conscience and modesty, he readily cultivates affection and respect. If he has affection and respect, he readily cultivates faith. If he has faith, he readily cultivates right thinking. If he has right thinking, he readily cultivates right mindfulness and right knowledge. If he has right mindfulness and right knowledge, he readily cultivates guarding his faculties … guarding the precepts … having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disenchantment … lack of desire … liberation. If he has liberation, he readily cultivates nirvāṇa.”
 
-8. Venerable Śāriputra spoke thus. Those monks who heard what Venerable Śāriputra taught rejoiced and approved.
+8. Venerable Śāriputra spoke thus. Those bhikkhus who heard what Venerable Śāriputra taught rejoiced and approved.
 
 ---
 

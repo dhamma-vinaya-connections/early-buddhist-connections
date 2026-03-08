@@ -28,7 +28,7 @@ without controlling the mind?
 They’d founder with each step,  
 under the sway of thoughts.
 
-3A mendicant should collect their thoughts  
+3A bhikkhu should collect their thoughts  
 as a tortoise draws its limbs into its shell.  
 Independent, not disturbing others,  
 quenched: they wouldn’t blame anyone.”

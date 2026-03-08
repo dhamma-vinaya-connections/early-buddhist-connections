@@ -22,7 +22,7 @@ language: "English - Pali"
 
 1Standing to one side, the god Ghaṭikāra recited this verse in the Buddha’s presence:
 
-2“Seven mendicants reborn in Aviha  
+2“Seven bhikkhus reborn in Aviha  
 have been freed.  
 With the complete ending of greed and hate,  
 they’ve crossed over clinging to the world.”
@@ -70,7 +70,7 @@ We lived in the same village;
 in the past I was your friend.
 
 11I am the one who understands  
-that these seven mendicants have been freed.  
+that these seven bhikkhus have been freed.  
 With the complete ending of greed and hate,  
 they’ve crossed over clinging to the world.”
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these eight dimensions of mastery. What eight?
+1“bhikkhus, there are these eight dimensions of mastery. What eight?
 
 Perceiving form internally, someone sees visions externally, limited, both pretty and ugly. Mastering them, they perceive: ‘I know and see.’ This is the first dimension of mastery.
 

@@ -16,20 +16,20 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six raised their hands in anger against the monks from the group of seventeen. Expecting to be hit, they cried.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six raised their hands in anger against the bhikkhus from the group of seventeen. Expecting to be hit, they cried.
 
 
-Other monks asked them why, and they told them what had happened.
+Other bhikkhus asked them why, and they told them what had happened.
 
 
-2The monks of few desires complained and criticized them, “How could the monks from the group of six do this?” …
+2The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six do this?” …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

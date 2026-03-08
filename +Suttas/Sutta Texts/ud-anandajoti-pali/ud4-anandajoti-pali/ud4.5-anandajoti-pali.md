@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Kosambī, in Ghosita's Monastery. Then at that time the Gracious One was living beset by monks, and nuns, and male lay followers, and female lay followers, and kings, and king's ministers, and sectarians, and sectarians’ disciples, he lived beset, unhappy, and uncomfortable.
+1Thus I heard: At one time the Gracious One was dwelling near Kosambī, in Ghosita's Monastery. Then at that time the Gracious One was living beset by bhikkhus, and nuns, and male lay followers, and female lay followers, and kings, and king's ministers, and sectarians, and sectarians’ disciples, he lived beset, unhappy, and uncomfortable.
 
-Then it occured to the Gracious One: "At present I am living beset by monks, and nuns, and male lay followers, and female lay followers, and kings, and king's ministers, and sectarians, and sectarians’ disciples, I am living beset, unhappy, and uncomfortable. Well now, I could dwell solitary, secluded from the group."
+Then it occured to the Gracious One: "At present I am living beset by bhikkhus, and nuns, and male lay followers, and female lay followers, and kings, and king's ministers, and sectarians, and sectarians’ disciples, I am living beset, unhappy, and uncomfortable. Well now, I could dwell solitary, secluded from the group."
 
-2Then the Gracious One, having dressed in the morning time, after picking up his bowl and robe, entered Kosambī for alms. After walking for alms in Kosambī, when he had returned from the alms-round after the meal, after putting the dwelling place in order by himself, picking up his robe and bowl, without having addressed his attendants, without having taken leave of the Community of monks, solitary, without a companion, went away on a walk towards Pārileyyaka. While walking gradually on walking tour he arrived at Pārileyyaka. There the Gracious One dwelt near Pārileyyaka, in the Protected Jungle, at the root of the auspicious Sāl-tree.
+2Then the Gracious One, having dressed in the morning time, after picking up his bowl and robe, entered Kosambī for alms. After walking for alms in Kosambī, when he had returned from the alms-round after the meal, after putting the dwelling place in order by himself, picking up his robe and bowl, without having addressed his attendants, without having taken leave of the Community of bhikkhus, solitary, without a companion, went away on a walk towards Pārileyyaka. While walking gradually on walking tour he arrived at Pārileyyaka. There the Gracious One dwelt near Pārileyyaka, in the Protected Jungle, at the root of the auspicious Sāl-tree.
 
 3Now also a certain Nāga elephant was living beset by male elephants, by female elephants, by young elephants, by baby elephants. He ate grass that had the tips broken off, while they ate what he had broken down from the branches. He drank water that had been disturbed, and when he arose from the bathing place female elephants went along jostling his body, he lived beset, unhappy, and uncomfortable.
 
@@ -32,7 +32,7 @@ Then it occurred to that Nāga elephant: At present I am living beset by male el
 
 5Then when the Gracious One had gone into hiding, into seclusion, this reflection arose in his mind:
 
-"Formerly, I was living beset by monks, and nuns, and male lay followers, and female lay followers, and kings, and king's ministers, and sectarians, and sectarians’ disciples, I was living beset, unhappy, and uncomfortable. However at present I am living unbeset by monks, and nuns, and male lay followers, and female lay followers, and kings, and king's ministers, and sectarians, and sectarians’ disciples, I am living unbeset, happily, and comfortable."
+"Formerly, I was living beset by bhikkhus, and nuns, and male lay followers, and female lay followers, and kings, and king's ministers, and sectarians, and sectarians’ disciples, I was living beset, unhappy, and uncomfortable. However at present I am living unbeset by bhikkhus, and nuns, and male lay followers, and female lay followers, and kings, and king's ministers, and sectarians, and sectarians’ disciples, I am living unbeset, happily, and comfortable."
 
 6Also to that Nāga elephant this reflection arose in his mind:
 

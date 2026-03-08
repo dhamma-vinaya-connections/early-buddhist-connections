@@ -16,28 +16,28 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time Devadatta was pursuing schism in the Sangha, a break in authority. The monks were saying, “Devadatta speaks contrary to the Teaching and the training. How can he pursue schism in the Sangha?”
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time Devadatta was pursuing schism in the Sangha, a break in authority. The bhikkhus were saying, “Devadatta speaks contrary to the Teaching and the training. How can he pursue schism in the Sangha?”
 
-But Kokālika, Kaṭamodakatissaka, Khaṇḍadeviyā-putta, and Samuddadatta said to those monks, “No, Venerables, Devadatta speaks in accordance with the Teaching and the training. And he speaks with our consent and approval. He knows about us and speaks for us, and we approve of this.”
+But Kokālika, Kaṭamodakatissaka, Khaṇḍadeviyā-putta, and Samuddadatta said to those bhikkhus, “No, Venerables, Devadatta speaks in accordance with the Teaching and the training. And he speaks with our consent and approval. He knows about us and speaks for us, and we approve of this.”
 
-The monks of few desires complained and criticized them, “How can these monks support Devadatta’s pursuit of schism in the Sangha?”
+The bhikkhus of few desires complained and criticized them, “How can these bhikkhus support Devadatta’s pursuit of schism in the Sangha?”
 
-2They rebuked those monks in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that there are monks who support this?”
+2They rebuked those bhikkhus in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that there are bhikkhus who support this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Monks, how can those foolish men support this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “bhikkhus, how can those foolish men support this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘That monk may have one, two, or three monks who side with him and support him, and they may say, “Venerables, don’t correct this monk. He speaks in accordance with the Teaching and the training. And he speaks with our consent and approval. He knows about us and speaks for us, and we approve of this.” The monks should correct those monks like this, “No, Venerables, this monk speaks contrary to the Teaching and the training. And don’t consent to schism in the Sangha. Stay with the Sangha, for a united Sangha—in concord, in harmony, having a joint recitation—is at ease.” If those monks still continue as before, the monks should press them up to three times to make them stop. If they then stop, all is well. If they do not stop, they commit an offense entailing suspension.’”
+3‘That monk may have one, two, or three bhikkhus who side with him and support him, and they may say, “Venerables, don’t correct this monk. He speaks in accordance with the Teaching and the training. And he speaks with our consent and approval. He knows about us and speaks for us, and we approve of this.” The bhikkhus should correct those bhikkhus like this, “No, Venerables, this monk speaks contrary to the Teaching and the training. And don’t consent to schism in the Sangha. Stay with the Sangha, for a united Sangha—in concord, in harmony, having a joint recitation—is at ease.” If those bhikkhus still continue as before, the bhikkhus should press them up to three times to make them stop. If they then stop, all is well. If they do not stop, they commit an offense entailing suspension.’”
 
 #### Definitions
 
 4**That:** that monk who is pursuing schism in the Sangha.
 
-5**May have monks:** may have other monks.
+5**May have bhikkhus:** may have other bhikkhus.
 
 6**Who side with him:** they have the same view, the same belief, the same persuasion as he does.
 
@@ -45,9 +45,9 @@ The Buddha rebuked them … “Monks, how can those foolish men support this? Th
 
 8**One, two, or three:** There is one, or two, or three. They may say, “Venerables, don’t correct this monk. He speaks in accordance with the Teaching and the training. And he speaks with our consent and approval. He knows about us and speaks for us, and we approve of this.”
 
-9**Those monks:** those monks who side with him.
+9**Those bhikkhus:** those bhikkhus who side with him.
 
-10**The monks:** other monks.
+10**The bhikkhus:** other bhikkhus.
 
 
 11Those who see it or hear about it. They should correct them like this:
@@ -56,7 +56,7 @@ The Buddha rebuked them … “Monks, how can those foolish men support this? Th
 
 And they should correct them a second and a third time. If they stop, all is well. If they do not stop, they commit an offense of wrong conduct. If those who hear about it do not say anything, they commit an offense of wrong conduct.
 
-Those monks, even if they have to be pulled into the Sangha, should be corrected like this:
+Those bhikkhus, even if they have to be pulled into the Sangha, should be corrected like this:
 
 
 “No, Venerables, this monk speaks contrary to the Teaching and the training. And don’t consent to schism in the Sangha. Stay with the Sangha, for a united Sangha—in concord, in harmony, having a joint recitation—is at ease.”
@@ -66,15 +66,15 @@ They should correct them a second and a third time. If they stop, all is well. I
 
 Should press them:
 
-“And, monks, they should be pressed like this. A competent and capable monk should inform the Sangha:
+“And, bhikkhus, they should be pressed like this. A competent and capable monk should inform the Sangha:
 
-12‘Please, Venerables, I ask the Sangha to listen. Monks so-and-so and so-and-so are siding with and supporting monk so-and-so who is pursuing schism in the Sangha. And they keep on doing it. If it seems appropriate to the Sangha, the Sangha should press them to make them stop. This is the motion.
+12‘Please, Venerables, I ask the Sangha to listen. bhikkhus so-and-so and so-and-so are siding with and supporting monk so-and-so who is pursuing schism in the Sangha. And they keep on doing it. If it seems appropriate to the Sangha, the Sangha should press them to make them stop. This is the motion.
 
-13Please, Venerables, I ask the Sangha to listen. Monks so-and-so and so-and-so are siding with and supporting monk so-and-so who is pursuing schism in the Sangha. And they keep on doing it. The Sangha presses them to make them stop. Any monk who approves of pressing them to make them stop should remain silent. Any monk who doesn’t approve should speak up.
+13Please, Venerables, I ask the Sangha to listen. bhikkhus so-and-so and so-and-so are siding with and supporting monk so-and-so who is pursuing schism in the Sangha. And they keep on doing it. The Sangha presses them to make them stop. Any monk who approves of pressing them to make them stop should remain silent. Any monk who doesn’t approve should speak up.
 
-14For the second time I speak on this matter: … For the third time I speak on this matter: Please, Venerables, I ask the Sangha to listen. Monks so-and-so and so-and-so are siding with and supporting monk so-and-so who is pursuing schism in the Sangha. And they keep on doing it. The Sangha presses them to make them stop. Any monk who approves of pressing them to make them stop should remain silent. Any monk who doesn’t approve should speak up.
+14For the second time I speak on this matter: … For the third time I speak on this matter: Please, Venerables, I ask the Sangha to listen. bhikkhus so-and-so and so-and-so are siding with and supporting monk so-and-so who is pursuing schism in the Sangha. And they keep on doing it. The Sangha presses them to make them stop. Any monk who approves of pressing them to make them stop should remain silent. Any monk who doesn’t approve should speak up.
 
-15The Sangha has pressed monks so-and-so and so-and-so to make them stop. The Sangha approves and is therefore silent. I’ll remember it thus.’”
+15The Sangha has pressed bhikkhus so-and-so and so-and-so to make them stop. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
 
 16After the motion, they commit an offense of wrong conduct. After each of the first two announcements, they commit a serious offense. When the last announcement is finished, they commit an offense entailing suspension. For those who commit the offense entailing suspension, the offense of wrong conduct and the serious offenses are annulled. Two or three may be pressed together, but not more than that.

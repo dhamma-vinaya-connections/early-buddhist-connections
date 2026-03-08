@@ -23,13 +23,13 @@ language: "English"
 
 2. It was then that the Venerable Mahācunda rose from his seat of repose late in the afternoon and went to visit the Buddha. When he arrived, he paid homage and withdrew to sit at one side. He said, “Bhagavān, is it possible to define worldly merit?”
 
-3. The Bhagavān told him, “It’s possible, Cunda. There are seven worldly merits that obtain great fortune, rewards, renown, and virtue. What are the seven? Cunda, there are faithful clansmen and clanswomen who give living quarters and meeting halls to an assembly of monks. This, Cunda, is the first worldly merit that obtains great fortune, rewards, renown, and virtue.
+3. The Bhagavān told him, “It’s possible, Cunda. There are seven worldly merits that obtain great fortune, rewards, renown, and virtue. What are the seven? Cunda, there are faithful clansmen and clanswomen who give living quarters and meeting halls to an assembly of bhikkhus. This, Cunda, is the first worldly merit that obtains great fortune, rewards, renown, and virtue.
 
-4. “Furthermore, Cunda, there are faithful clansmen and clanswomen who go into the monks’ living quarters and give them seats, carpets, blankets, mattresses, and bedding.[3](#^ma7note03) This, Cunda, is the second worldly merit that obtains great fortune, rewards, renown, and virtue. ^ma7note03-ref
+4. “Furthermore, Cunda, there are faithful clansmen and clanswomen who go into the bhikkhus’ living quarters and give them seats, carpets, blankets, mattresses, and bedding.[3](#^ma7note03) This, Cunda, is the second worldly merit that obtains great fortune, rewards, renown, and virtue. ^ma7note03-ref
 
 5. “Furthermore, Cunda, there are faithful clansmen and clanswomen who go into their living quarters and give them all new, clean, and marvelous clothing. This, Cunda, is the third worldly merit that obtains great fortune, rewards, renown, and virtue.
 
-6. “Furthermore, Cunda, there are faithful clansmen and clanswomen who go into their living quarters and give the community the morning rice gruel and midday meals. They also tell their servants to serve the monastery and give additional offerings to the monastery during rain and snowstorms. After they eat, the assembly of monks then isn’t troubled by the bad weather making their robes wet. Instead, they meditate and contemplate day and night in comfort. This, Cunda, is the seventh worldly merit that obtains great fortune, rewards, renown, and virtue.
+6. “Furthermore, Cunda, there are faithful clansmen and clanswomen who go into their living quarters and give the community the morning rice gruel and midday meals. They also tell their servants to serve the monastery and give additional offerings to the monastery during rain and snowstorms. After they eat, the assembly of bhikkhus then isn’t troubled by the bad weather making their robes wet. Instead, they meditate and contemplate day and night in comfort. This, Cunda, is the seventh worldly merit that obtains great fortune, rewards, renown, and virtue.
 
 7. “Cunda, these seven worldly merits will always produce fortune for those faithful clansmen and clanswomen that becomes greater and broader whether during the past or future, while standing or sitting, while asleep or awake, or during day or night.
 
@@ -43,7 +43,7 @@ language: "English"
 
 11. “Furthermore, Cunda, there are faithful clansmen and clanswomen who hear that the Tathāgata or one of his disciples are about to come from that place to their own location. They rejoice when they hear that, celebrating in their hearts. Cunda, this is the second merit that transcends the world and obtains great fortune, rewards, renown, and virtue.
 
-12. “Furthermore, Cunda, there are faithful clansmen and clanswomen who hear that the Tathāgata or one of his disciples has arrived. They rejoice when they hear that, celebrating in their hearts. They go personally to see them with a pure heart to pay their respects and make offerings. Once they had made their offerings, they take refuge three times in the Buddha, Dharma, and Saṅgha of monks and accept the precepts. Cunda, this is the seventh merit that transcends the world and obtains great fortune, rewards, renown, and virtue.
+12. “Furthermore, Cunda, there are faithful clansmen and clanswomen who hear that the Tathāgata or one of his disciples has arrived. They rejoice when they hear that, celebrating in their hearts. They go personally to see them with a pure heart to pay their respects and make offerings. Once they had made their offerings, they take refuge three times in the Buddha, Dharma, and Saṅgha of bhikkhus and accept the precepts. Cunda, this is the seventh merit that transcends the world and obtains great fortune, rewards, renown, and virtue.
 
 13. “Cunda, if faithful clansmen and clanswomen were to attain these seven worldly merits and these other seven merits that transcend the world, their fortune would be incalculable. Their merits, the results of their merits, and the rewards of their merits simply cannot be delimited or measured, and the number of those great merits cannot be determined.
 
@@ -74,7 +74,7 @@ language: "English"
     Flowing into the ocean.”
     
 
-17. This is what the Buddha said. The Venerable Mahācunda and the monks who heard what the Buddha taught rejoiced and approved.
+17. This is what the Buddha said. The Venerable Mahācunda and the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

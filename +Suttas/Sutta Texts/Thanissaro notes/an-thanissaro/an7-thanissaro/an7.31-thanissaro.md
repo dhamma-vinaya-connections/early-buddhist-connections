@@ -15,11 +15,11 @@ language: "English"
 ## ## Appamāda Sutta
 
 
-Then a certain devatā, in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta’s Grove, went to the Blessed One. On arrival, having bowed down to him, she stood to one side. As she was standing there, she said to the Blessed One, “These seven qualities, lord, lead to a monk’s non-decline. Which seven? Respect for the teacher, respect for the Dhamma, respect for the Saṅgha, respect for training, respect for samādhi, respect for heedfulness, respect for hospitality. These seven qualities, lord, lead to the non-decline of a monk.”
+Then a certain devatā, in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta’s Grove, went to the Blessed One. On arrival, having bowed down to him, she stood to one side. As she was standing there, she said to the Blessed One, “These seven qualities, lord, lead to a bhikkhu’s non-decline. Which seven? Respect for the teacher, respect for the Dhamma, respect for the Saṅgha, respect for training, respect for samādhi, respect for heedfulness, respect for hospitality. These seven qualities, lord, lead to the non-decline of a bhikkhu.”
 
 That is what the devatā said. The Teacher approved. Sensing, “The Teacher approves of me,” the devatā bowed down to the Blessed One and, circled him three times, keeping him to her right, and then disappeared right there.
 
-Then when the night had past, The Blessed One addressed the monks: “Last night, monks, a certain devatā in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta’s Grove, came to me and, on arrival, bowed down to me and stood to one side. As she was standing there, she said to me, ‘These seven qualities, lord, lead to a monk’s non-decline. Which seven? Respect for the teacher, respect for the Dhamma, respect for the Saṅgha, respect for training, respect for samādhi, respect for heedfulness, respect for hospitality. These seven qualities, lord, lead to the non-decline of a monk.’
+Then when the night had past, The Blessed One addressed the bhikkhus: “Last night, bhikkhus, a certain devatā in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta’s Grove, came to me and, on arrival, bowed down to me and stood to one side. As she was standing there, she said to me, ‘These seven qualities, lord, lead to a bhikkhu’s non-decline. Which seven? Respect for the teacher, respect for the Dhamma, respect for the Saṅgha, respect for training, respect for samādhi, respect for heedfulness, respect for hospitality. These seven qualities, lord, lead to the non-decline of a bhikkhu.’
 
 “That is what that devatā said. Having said it, she bowed down to me, circled me three times, and then disappeared right there.”
 
@@ -33,7 +33,7 @@ respecting samādhi, ardent,
 
 and with fierce respect for training,
 
-a monk respecting heedfulness,
+a bhikkhu respecting heedfulness,
 
 and with respect for hospitality
 

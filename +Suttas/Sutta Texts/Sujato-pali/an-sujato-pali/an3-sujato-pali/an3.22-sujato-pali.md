@@ -34,7 +34,7 @@ In some cases a patient won’t recover from an illness, regardless of whether o
 These are the three kinds of patients found in the world.
 
 
-5In the same way, these three people similar to patients are found among the mendicants. What three? Some people don’t enter the sure path with regards to skillful qualities, regardless of whether or not they get to see a Realized One, and to hear the teaching and training that he proclaims.
+5In the same way, these three people similar to patients are found among the bhikkhus. What three? Some people don’t enter the sure path with regards to skillful qualities, regardless of whether or not they get to see a Realized One, and to hear the teaching and training that he proclaims.
 
 6Some people do enter the sure path with regards to skillful qualities, regardless of whether or not they get to see a Realized One, and to hear the teaching and training that he proclaims.
 

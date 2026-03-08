@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2That nun told the nuns what had happened. The nuns of few desires complained and criticized her, “How could Venerable Thullanandā agree to resolve a legal issue, but then neither resolve it nor make any effort to do so?” …
 
-“Is it true, monks, that the nun Thullanandā acted like this?”
+“Is it true, bhikkhus, that the nun Thullanandā acted like this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā act like this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā act like this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

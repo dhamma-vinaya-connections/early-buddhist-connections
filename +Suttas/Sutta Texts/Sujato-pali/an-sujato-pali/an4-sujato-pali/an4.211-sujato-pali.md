@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four corrupt an assembly. What four? A monk, nun, layman, or laywoman who is unethical, of bad character. These are the four that corrupt an assembly.
+1“bhikkhus, these four corrupt an assembly. What four? A bhikkhu, nun, layman, or laywoman who is unethical, of bad character. These are the four that corrupt an assembly.
 
-2Mendicants, these four beautify an assembly. What four? A monk, nun, layman, or laywoman who is ethical, of good character. These are the four that beautify an assembly.”
+2bhikkhus, these four beautify an assembly. What four? A bhikkhu, nun, layman, or laywoman who is ethical, of good character. These are the four that beautify an assembly.”
 
 1"Cattārome, bhikkhave, parisadūsanā. Katame cattāro? Bhikkhu, bhikkhave, dussīlo pāpadhammo parisadūsano; bhikkhunī, bhikkhave, dussīlā pāpadhammā parisadūsanā; upāsako, bhikkhave, dussīlo pāpadhammo parisadūsano; upāsikā, bhikkhave, dussīlā pāpadhammā parisadūsanā. Ime kho, bhikkhave, cattāro parisadūsanā.
 

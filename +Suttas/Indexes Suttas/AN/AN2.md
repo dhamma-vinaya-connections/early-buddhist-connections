@@ -42,7 +42,7 @@ contribution:
 >  The power of reflection and the power of development
 
 > [!example]- 🌐[[AN2.15]] - 📜[Available texts](obsidian://search?query=file:an2.15-) - Adhikaraṇa – Issues 
->   in a disciplinary issue, if both the offending mendicant and the accusing mendicant carefully check themselves, you can expect that issue won’t lead to lasting acrimony and enmity
+>   in a disciplinary issue, if both the offending bhikkhu and the accusing bhikkhu carefully check themselves, you can expect that issue won’t lead to lasting acrimony and enmity
 
 > [!example]- 🌐[[AN2.16]] - 📜[Available texts](obsidian://search?query=file:an2.16-) - Adhikaraṇa – Issues 
 >  What is the cause of some beings go to hell and some go to heaven
@@ -189,7 +189,7 @@ contribution:
 >  Bad people are hard to admonish and don't admonish
 
 > [!example]- 🌐[[AN2.63]] - 📜[Available texts](obsidian://search?query=file:an2.63-) - Puggala – Persons 
->  Mendicants won’t live comfortably.
+>  bhikkhus won’t live comfortably.
 
 > [!example]- 🌐[[AN2.64]] - 📜[Available texts](obsidian://search?query=file:an2.64-) - Sukha – Happiness 
 >  These are the two kinds of happiness. 

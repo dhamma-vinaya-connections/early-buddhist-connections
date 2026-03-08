@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five timely gifts. What five? A gift to a visitor. A gift to someone setting out on a journey. A gift to someone who is sick. A gift at a time of famine. Presenting the freshly harvested grains and fruits first to those who are ethical. These are the five timely gifts.
+1“bhikkhus, there are these five timely gifts. What five? A gift to a visitor. A gift to someone setting out on a journey. A gift to someone who is sick. A gift at a time of famine. Presenting the freshly harvested grains and fruits first to those who are ethical. These are the five timely gifts.
 
 
 2The wise give at the right time,  

@@ -20,16 +20,16 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother.
 
-Now, at that time it was the sabbath — the full moon on the fifteenth day — and the Buddha was sitting in the open surrounded by the Saṅgha of monks.
+Now, at that time it was the sabbath — the full moon on the fifteenth day — and the Buddha was sitting in the open surrounded by the Saṅgha of bhikkhus.
 
-Then one of the mendicants got up from their seat, arranged their robe over one shoulder, raised their joined palms toward the Buddha, and said,
+Then one of the bhikkhus got up from their seat, arranged their robe over one shoulder, raised their joined palms toward the Buddha, and said,
 
 2“I’d like to ask the Buddha about a certain point, if you’d take the time to answer.”
 
-“Well then, mendicant, take your own seat and ask what you wish.”
+“Well then, bhikkhu, take your own seat and ask what you wish.”
 
 
-3That mendicant took his seat and said to the Buddha:
+3That bhikkhu took his seat and said to the Buddha:
 
 “Sir, are these the five grasping aggregates: form, feeling, perception, choices, and consciousness?”
 
@@ -37,7 +37,7 @@ Then one of the mendicants got up from their seat, arranged their robe over one 
 “Yes, they are,” replied the Buddha.
 
 
-4Saying “Good, sir”, that mendicant approved and agreed with what the Buddha said. Then he asked another question:
+4Saying “Good, sir”, that bhikkhu approved and agreed with what the Buddha said. Then he asked another question:
 
 “But sir, what is the root of these five grasping aggregates?”
 
@@ -83,12 +83,12 @@ The pleasure and happiness that arise from feeling … perception … choices �
 “One truly sees any kind of form at all — past, future, or present; internal or external; coarse or fine; inferior or superior; far or near: *all* form — with right understanding: ‘This is not mine, I am not this, this is not my self.’ One truly sees any kind of feeling … perception … choices … consciousness at all — past, future, or present; internal or external; coarse or fine; inferior or superior; far or near, *all* consciousness — with right understanding: ‘This is not mine, I am not this, this is not my self.’ That’s how to know and see so that there’s no ego, possessiveness, or underlying tendency to conceit for this conscious body and all external stimuli.”
 
 
-13Now at that time one of the mendicants had the thought: “So it seems, good sir, that form, feeling, perception, choices, and consciousness are not-self. Then what self will the deeds done by not-self affect?”
+13Now at that time one of the bhikkhus had the thought: “So it seems, good sir, that form, feeling, perception, choices, and consciousness are not-self. Then what self will the deeds done by not-self affect?”
 
-But the Buddha, knowing what that monk was thinking, addressed the mendicants: “It’s possible that some foolish person here — unknowing and ignorant, their mind dominated by craving — thinks they can overstep the teacher’s instructions. They think: ‘So it seems, good sir, that form, feeling, perception, choices, and consciousness are not-self. Then what self will the deeds done by not-self affect?’ Now, mendicants, you have been educated by me in questioning with regard to all these things in all such cases.
+But the Buddha, knowing what that bhikkhu was thinking, addressed the bhikkhus: “It’s possible that some foolish person here — unknowing and ignorant, their mind dominated by craving — thinks they can overstep the teacher’s instructions. They think: ‘So it seems, good sir, that form, feeling, perception, choices, and consciousness are not-self. Then what self will the deeds done by not-self affect?’ Now, bhikkhus, you have been educated by me in questioning with regard to all these things in all such cases.
 
 
-14What do you think, mendicants? Is form permanent or impermanent?”
+14What do you think, bhikkhus? Is form permanent or impermanent?”
 
 “Impermanent, sir.”
 
@@ -100,7 +100,7 @@ But the Buddha, knowing what that monk was thinking, addressed the mendicants: �
 
 “No, sir.”
 
-“What do you think, mendicants? Is feeling … perception … choices … consciousness permanent or impermanent?”
+“What do you think, bhikkhus? Is feeling … perception … choices … consciousness permanent or impermanent?”
 
 “Impermanent, sir.”
 
@@ -118,7 +118,7 @@ You should truly see any kind of feeling … perception … choices … consciou
 
 Seeing this, a learned noble disciple grows disillusioned with form, feeling, perception, choices, and consciousness. Being disillusioned, desire fades away. When desire fades away they’re freed. When they’re freed, they know they’re freed. They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’”
 
-15That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said. And while this discourse was being spoken, the minds of sixty mendicants were freed from defilements by not grasping.
+15That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said. And while this discourse was being spoken, the minds of sixty bhikkhus were freed from defilements by not grasping.
 
 #### Pali
 

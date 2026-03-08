@@ -31,11 +31,11 @@ In three cases I say that meat may not be eaten: it’s seen, heard, or suspecte
 In three cases I say that meat may be eaten: it’s not seen, heard, or suspected. These are three cases in which meat may be eaten.
 
 
-3Take the case of a mendicant living supported by a town or village. They meditate spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world—abundant, expansive, limitless, free of enmity and ill will. A householder or their child approaches and invites them for the next day’s meal. The mendicant accepts if they want.
+3Take the case of a bhikkhu living supported by a town or village. They meditate spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world—abundant, expansive, limitless, free of enmity and ill will. A householder or their child approaches and invites them for the next day’s meal. The bhikkhu accepts if they want.
 
 When the night has passed, they robe up in the morning, take their bowl and robe, and approach that householder’s home, where they sit on the seat spread out. That householder or their child serves them with delicious alms-food. It never occurs to them, ‘It’s so good that this householder serves me with delicious alms-food! I hope they serve me with such delicious alms-food in the future!’ They don’t think that. They eat that alms-food untied, uninfatuated, unattached, seeing the drawback, and understanding the escape.
 
-What do you think, Jīvaka? At that time is that mendicant intending to hurt themselves, hurt others, or hurt both?”
+What do you think, Jīvaka? At that time is that bhikkhu intending to hurt themselves, hurt others, or hurt both?”
 
 
 4“No, sir.”
@@ -49,11 +49,11 @@ What do you think, Jīvaka? At that time is that mendicant intending to hurt the
 “That’s exactly what I was referring to.”
 
 
-7“Take the case, Jīvaka, of a mendicant living supported by a town or village. They meditate spreading a heart full of compassion … They meditate spreading a heart full of rejoicing … They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world—abundant, expansive, limitless, free of enmity and ill will. A householder or their child approaches and invites them for the next day’s meal. The mendicant accepts if they want.
+7“Take the case, Jīvaka, of a bhikkhu living supported by a town or village. They meditate spreading a heart full of compassion … They meditate spreading a heart full of rejoicing … They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world—abundant, expansive, limitless, free of enmity and ill will. A householder or their child approaches and invites them for the next day’s meal. The bhikkhu accepts if they want.
 
 When the night has passed, they robe up in the morning, take their bowl and robe, and approach that householder’s home, where they sit on the seat spread out. That householder or their child serves them with delicious alms-food. It never occurs to them, ‘It’s so good that this householder serves me with delicious alms-food! I hope they serve me with such delicious alms-food in the future!’ They don’t think that. They eat that alms-food untied, uninfatuated, unattached, seeing the drawback, and understanding the escape.
 
-What do you think, Jīvaka? At that time is that mendicant intending to hurt themselves, hurt others, or hurt both?”
+What do you think, Jīvaka? At that time is that bhikkhu intending to hurt themselves, hurt others, or hurt both?”
 
 
 8“No, sir.”
@@ -83,7 +83,7 @@ When they provide the Realized One or the Realized One’s disciple with unallow
 Anyone who slaughters a living creature specially for the Realized One or the Realized One’s disciple makes much bad karma for five reasons.”
 
 
-12When he had spoken, Jīvaka said to the Buddha: “It’s incredible, sir, it’s amazing! The mendicants indeed eat allowable food. The mendicants indeed eat blameless food. Excellent, sir! Excellent! … From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
+12When he had spoken, Jīvaka said to the Buddha: “It’s incredible, sir, it’s amazing! The bhikkhus indeed eat allowable food. The bhikkhus indeed eat blameless food. Excellent, sir! Excellent! … From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

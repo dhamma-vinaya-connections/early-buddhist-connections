@@ -15,7 +15,7 @@ language: "English"
 ## ## Nagara Sutta
 
 
-“Monks, when a royal frontier fortress is well provided with the seven requisites of a fortress, and can obtain at will—without difficulty, without trouble—the four types of food, then it is said to be a royal frontier fortress that can’t be undone by external foes or duplicitous allies.
+“bhikkhus, when a royal frontier fortress is well provided with the seven requisites of a fortress, and can obtain at will—without difficulty, without trouble—the four types of food, then it is said to be a royal frontier fortress that can’t be undone by external foes or duplicitous allies.
 
 “And with which seven requisites of a fortress is it well provided?
 
@@ -41,7 +41,7 @@ language: "English"
 
 “When a royal frontier fortress is well provided with these seven requisites of a fortress, and can obtain at will—without difficulty, without trouble—these four types of food, then it is said to be a royal frontier fortress that can’t be undone by external foes or duplicitous allies.
 
-“In the same way, monks, when a disciple of the noble ones is endowed with seven true qualities _[saddhamma]_ and can obtain at will—without difficulty, without trouble—the four jhānas, heightened mental states that provide a pleasant abiding in the here & now, he is said to be a disciple of the noble ones who can’t be undone by Māra, can’t be undone by the Evil One.
+“In the same way, bhikkhus, when a disciple of the noble ones is endowed with seven true qualities _[saddhamma]_ and can obtain at will—without difficulty, without trouble—the four jhānas, heightened mental states that provide a pleasant abiding in the here & now, he is said to be a disciple of the noble ones who can’t be undone by Māra, can’t be undone by the Evil One.
 
 “Now, with which seven true qualities is he endowed?
 

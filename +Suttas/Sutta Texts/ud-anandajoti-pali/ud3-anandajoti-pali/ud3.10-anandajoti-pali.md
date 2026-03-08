@@ -59,7 +59,7 @@ and he does not rejoice in discontinuity.
 "From the complete destruction of craving  
 there is a fading away of ignorance without remainder, cessation, and Emancipation.
 
-9"For that monk who is emancipated,  
+9"For that bhikkhu who is emancipated,  
 Without attachment, there is no continuity in existence.  
 "He has vanquished Māra, is victorious in battle,  
 He is such a one who has overcome all continuations in existence."

@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 648. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū ṭhitā nisinnassa dhammaṃ desenti…pe….
 
-## 648.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six monks, while standing, were teaching the Dhamma to one who was seated….
+## 648.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six bhikkhus, while standing, were teaching the Dhamma to one who was seated….
 
 ‘‘Na ṭhito nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā’’ti.
 

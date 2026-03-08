@@ -20,13 +20,13 @@ _This discourse is an interesting example of the folklore of the Pali Canon. It 
 
 _At any rate, this discourse is the closest thing in the Pali Canon to a “who’s who” of the deva worlds, and should provide useful material for anyone interested in the cosmology of early Buddhism._
 
-_The Commentary reports the belief that devas still enjoy hearing this discourse chanted in Pali. Until recently it was part of many monks’ standard memorized repertoire, to be chanted at weddings and the dedication of new buildings. Even today, as many of the traditions of memorization in Asia seem to be falling by the wayside, there are a few monks and laypeople who chant this discourse regularly._
+_The Commentary reports the belief that devas still enjoy hearing this discourse chanted in Pali. Until recently it was part of many bhikkhus’ standard memorized repertoire, to be chanted at weddings and the dedication of new buildings. Even today, as many of the traditions of memorization in Asia seem to be falling by the wayside, there are a few bhikkhus and laypeople who chant this discourse regularly._
 
 * * *
 
-I have heard that on one occasion the Blessed One was dwelling among the Sakyans at Kapilavatthu in the Great Forest, together with a large Saṅgha of approximately five hundred monks, all of them arahants. And most of the devatās from ten world-systems had gathered in order to see the Blessed One & the Saṅgha of monks.
+I have heard that on one occasion the Blessed One was dwelling among the Sakyans at Kapilavatthu in the Great Forest, together with a large Saṅgha of approximately five hundred bhikkhus, all of them arahants. And most of the devatās from ten world-systems had gathered in order to see the Blessed One & the Saṅgha of bhikkhus.
 
-Then the thought occurred to four devatās of the ranks from the Pure Abodes: “The Blessed One is dwelling among the Sakyans at Kapilavatthu in the Great Forest, together with a large Saṅgha of about five hundred monks, all of them arahants. And most of the devatās from ten world-systems have gathered in order to see the Blessed One & the Saṅgha of monks. Let us also approach the Blessed One and, on arrival, let us each speak a verse in his presence.”
+Then the thought occurred to four devatās of the ranks from the Pure Abodes: “The Blessed One is dwelling among the Sakyans at Kapilavatthu in the Great Forest, together with a large Saṅgha of about five hundred bhikkhus, all of them arahants. And most of the devatās from ten world-systems have gathered in order to see the Blessed One & the Saṅgha of bhikkhus. Let us also approach the Blessed One and, on arrival, let us each speak a verse in his presence.”
 
 Then, just as a strong man might extend his flexed arm or flex his extended arm, those devatās disappeared from among the Devas of the Pure Abodes and reappeared before the Blessed One. Having paid homage to him, they stood to one side. As they were standing there, one devatā recited this verse in the Blessed One’s presence:
 
@@ -40,7 +40,7 @@ to see the unvanquished Saṅgha.”
 
 Then another devatā recited this verse in the Blessed One’s presence:
 
-“There the monks are collected,
+“There the bhikkhus are collected,
 
 have straightened their own minds.
 
@@ -68,9 +68,9 @@ On discarding the human body,
 
 they will fill the hosts of the devas.”
 
-Then the Blessed One addressed the monks: “Monks, most of the devatās
+Then the Blessed One addressed the bhikkhus: “bhikkhus, most of the devatās
 
-from ten world-systems have gathered in order to see the Tathāgata & the Saṅgha of monks. Those who, in the past, were Worthy Ones, Rightly Self-
+from ten world-systems have gathered in order to see the Tathāgata & the Saṅgha of bhikkhus. Those who, in the past, were Worthy Ones, Rightly Self-
 
 awakened, at most had their devatā-gathering like mine at the present. Those
 
@@ -78,7 +78,7 @@ who, in the future, will be Worthy Ones, Rightly Self-awakened, will at most hav
 
 “I will tell you the names of the deva hosts. I will describe to you the names of the deva hosts. I will teach you the names of the deva hosts. Listen & pay close attention. I will speak.”
 
-“As you say, lord,” the monks responded to the Blessed One.
+“As you say, lord,” the bhikkhus responded to the Blessed One.
 
 The Blessed One said:
 
@@ -100,7 +100,7 @@ the Teacher then said to them,
 
 disciples delighting in his instruction,
 
-“The deva hosts have approached. Detect them, monks!”
+“The deva hosts have approached. Detect them, bhikkhus!”
 
 Listening to the Awakened One’s instruction,
 
@@ -124,7 +124,7 @@ The Teacher then said to them,
 
 disciples delighting in his instruction,
 
-“The deva hosts have approached. Detect them, monks,
+“The deva hosts have approached. Detect them, bhikkhus,
 
 as I describe their glories, one by one.
 
@@ -132,31 +132,31 @@ as I describe their glories, one by one.
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 6,000 yakkhas from the Himālayas, of varied hue,
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 From Mount Sāta 3,000 yakkhas of varied hue,
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 These 16,000 yakkhas of varied hue
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 500 yakkhas from Vessāmitta, of varied hue,
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 Kumbhīra from Rājagaha,
 
@@ -176,7 +176,7 @@ and many are his sons named Indra, of great strength.
 
 Powerful, effulgent, glamorous, prestigious,
 
-rejoicing, they have approached the monks’ forest meeting.
+rejoicing, they have approached the bhikkhus’ forest meeting.
 
 And Virūḷha, who rules as king of the Southern Direction,
 
@@ -186,7 +186,7 @@ and many are his sons named Indra, of great strength.
 
 Powerful, effulgent, glamorous, prestigious,
 
-rejoicing, they have approached the monks’ forest meeting.
+rejoicing, they have approached the bhikkhus’ forest meeting.
 
 And Virūpakkha, who rules as king of the Western Direction,
 
@@ -196,7 +196,7 @@ and many are his sons named Indra, of great strength.
 
 Powerful, effulgent, glamorous, prestigious,
 
-rejoicing, they have approached the monks’ forest meeting.
+rejoicing, they have approached the bhikkhus’ forest meeting.
 
 And Kuvera, who rules as king of the Northern Direction,
 
@@ -206,7 +206,7 @@ and many are his sons named Indra, of great strength.
 
 Powerful, effulgent, glamorous, prestigious,
 
-rejoicing, they have approached the monks’ forest meeting.
+rejoicing, they have approached the bhikkhus’ forest meeting.
 
 Dhataraṭṭha from the Eastern Direction,
 
@@ -240,7 +240,7 @@ with Timbaru [and his daughter,] Suriyavacchasā [SunDazzle].[2](#^dn20note02) ^
 
 These & other kings, gandhabbas with their kings,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 Then there have also come nāgas
 
@@ -290,7 +290,7 @@ have approached their honored Rāhu
 
 [and said]: “Now is the occasion, sir,
 
-of the monk’s forest meeting.”
+of the bhikkhu’s forest meeting.”
 
 Devas of water, earth, fire, & wind have come here.
 
@@ -304,7 +304,7 @@ These ten ten-fold hosts, all of varied hue,
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 Veṇḍu [Viṣṇu] & Sahalī,
 
@@ -328,7 +328,7 @@ These ten ten-fold hosts, all of varied hue,
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 Then come the Sahabhu devas,
 
@@ -344,7 +344,7 @@ These ten ten-fold hosts, all of varied hue,
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 Samānas, Great Samānas, Mānusas, Super Mānusas,
 
@@ -360,7 +360,7 @@ These ten ten-fold hosts, all of varied hue,
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 White devas, ruddy-green devas, dawn-devas
 
@@ -378,7 +378,7 @@ These ten ten-fold hosts, all of varied hue,
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 The Khemiyas, Tusitas, & Yāmas, the prestigious Kaṭṭhakas,
 
@@ -390,7 +390,7 @@ These ten ten-fold hosts, all of varied hue,
 
 powerful, effulgent, glamorous, prestigious,
 
-rejoicing, have approached the monks’ forest meeting.
+rejoicing, have approached the bhikkhus’ forest meeting.
 
 These 60 deva groups, all of varied hue,
 
@@ -464,7 +464,7 @@ The Teacher then said to them,
 
 disciples delighting in his instruction,
 
-“Māra’s army has approached. Detect them, monks!”
+“Māra’s army has approached. Detect them, bhikkhus!”
 
 Listening to the Awakened One’s instruction,
 

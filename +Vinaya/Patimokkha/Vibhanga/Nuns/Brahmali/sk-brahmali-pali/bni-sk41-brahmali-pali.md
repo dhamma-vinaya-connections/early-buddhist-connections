@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six opened their mouths without bringing a mouthful to it. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six opened their mouths without bringing a mouthful to it. …
 
 #### Final ruling
 
 2“‘I will not open my mouth without bringing a mouthful to it,’ this is how you should train.”
 
-3One should not open one’s mouth without bringing a mouthful to it. If a monk, out of disrespect, opens his mouth without bringing a mouthful to it, he commits an offense of wrong conduct.
+3One should not open one’s mouth without bringing a mouthful to it. If a bhikkhu, out of disrespect, opens his mouth without bringing a mouthful to it, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

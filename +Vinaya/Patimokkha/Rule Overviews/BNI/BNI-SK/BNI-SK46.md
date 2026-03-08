@@ -52,7 +52,7 @@ vin_gender-corr: "BU-SK46"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-SK46 | [[BU-SK46]] | Vin.3.1–3.40 |
 

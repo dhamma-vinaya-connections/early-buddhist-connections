@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these eight rebirths by giving. What eight?
+1“bhikkhus, there are these eight rebirths by giving. What eight?
 
 First, someone gives to ascetics or brahmins such things as food, drink, clothing, vehicles; garlands, fragrance, and makeup; and bed, house, and lighting. Whatever they give, they expect something back. They see a well-to-do aristocrat or brahmin or householder amusing themselves, supplied and provided with the five kinds of sensual stimulation. It occurs to them: ‘If only, when my body breaks up, after death, I would be reborn in the company of well-to-do aristocrats or brahmins or householders!’ They settle on that idea, concentrate on it and develop it. As they’ve settled for less and not developed further, their idea leads to rebirth there. When their body breaks up, after death, they’re reborn in the company of well-to-do aristocrats or brahmins or householders. But I say that this is only for those of ethical conduct, not for the unethical. The heart’s wish of an ethical person succeeds because of their purity.
 

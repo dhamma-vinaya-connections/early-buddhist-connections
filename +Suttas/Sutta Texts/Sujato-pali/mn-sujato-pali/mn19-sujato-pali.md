@@ -18,17 +18,17 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Mendicants, before my awakening — when I was still unawakened but intent on awakening — I thought: ‘Why don’t I meditate by continually dividing my thoughts into two classes?’ So I assigned sensual, malicious, and cruel thoughts to one class. And I assigned thoughts of renunciation, good will, and harmlessness to the second class.
+2“bhikkhus, before my awakening — when I was still unawakened but intent on awakening — I thought: ‘Why don’t I meditate by continually dividing my thoughts into two classes?’ So I assigned sensual, malicious, and cruel thoughts to one class. And I assigned thoughts of renunciation, good will, and harmlessness to the second class.
 
 3Then, as I meditated — diligent, keen, and resolute — a sensual thought arose. I understood: ‘This sensual thought has arisen in me. It leads to hurting myself, hurting others, and hurting both. It blocks wisdom, it’s on the side of anguish, and it doesn’t lead to extinguishment.’ When I reflected that it leads to hurting myself, it went away. When I reflected that it leads to hurting others, it went away. When I reflected that it leads to hurting both, it went away. When I reflected that it blocks wisdom, it’s on the side of anguish, and it doesn’t lead to extinguishment, it went away. So I gave up, got rid of, and eliminated any sensual thoughts that arose.
 
 4Then, as I meditated — diligent, keen, and resolute — a malicious thought arose … a cruel thought arose. I understood: ‘This cruel thought has arisen in me. It leads to hurting myself, hurting others, and hurting both. It blocks wisdom, it’s on the side of anguish, and it doesn’t lead to extinguishment.’ When I reflected that it leads to hurting myself … hurting others … hurting both, it went away. When I reflected that it blocks wisdom, it’s on the side of anguish, and it doesn’t lead to extinguishment, it went away. So I gave up, got rid of, and eliminated any cruel thoughts that arose.
 
-5Whatever a mendicant frequently thinks about and considers becomes their heart’s inclination. If they often think about and consider sensual thoughts, they’ve given up the thought of renunciation to cultivate sensual thought. Their mind inclines to sensual thoughts. If they often think about and consider malicious thoughts … their mind inclines to malicious thoughts. If they often think about and consider cruel thoughts … their mind inclines to cruel thoughts.
+5Whatever a bhikkhu frequently thinks about and considers becomes their heart’s inclination. If they often think about and consider sensual thoughts, they’ve given up the thought of renunciation to cultivate sensual thought. Their mind inclines to sensual thoughts. If they often think about and consider malicious thoughts … their mind inclines to malicious thoughts. If they often think about and consider cruel thoughts … their mind inclines to cruel thoughts.
 
 Suppose it’s the last month of the rainy season, when the crops grow closely together, and a cowherd must take care of the cattle. He’d tap and poke them with his staff on this side and that to keep them in check. Why is that? For he sees that if they wander into the crops he could be executed, imprisoned, fined, or condemned.
 
@@ -39,7 +39,7 @@ In the same way, I saw that unskillful qualities have the drawbacks of sordidnes
 
 7Then, as I meditated — diligent, keen, and resolute — a thought of good will arose … a thought of harmlessness arose. I understood: ‘This thought of harmlessness has arisen in me. It doesn’t lead to hurting myself, hurting others, or hurting both. It nourishes wisdom, it’s on the side of freedom from anguish, and it leads to extinguishment.’ If I were to keep on thinking and considering this all night … all day … all night and day, I see no danger that would come from that. Still, thinking and considering for too long would tire my body. And when the body is tired, the mind is stressed. And when the mind is stressed, it’s far from immersion. So I stilled, settled, unified, and immersed my mind internally. Why is that? So that my mind would not be stressed.
 
-8Whatever a mendicant frequently thinks about and considers becomes their heart’s inclination. If they often think about and consider thoughts of renunciation, they’ve given up sensual thought to cultivate the thought of renunciation. Their mind inclines to thoughts of renunciation. If they often think about and consider thoughts of good will … their mind inclines to thoughts of good will. If they often think about and consider thoughts of harmlessness … their mind inclines to thoughts of harmlessness.
+8Whatever a bhikkhu frequently thinks about and considers becomes their heart’s inclination. If they often think about and consider thoughts of renunciation, they’ve given up sensual thought to cultivate the thought of renunciation. Their mind inclines to thoughts of renunciation. If they often think about and consider thoughts of good will … their mind inclines to thoughts of good will. If they often think about and consider thoughts of harmlessness … their mind inclines to thoughts of harmlessness.
 
 
 Suppose it’s the last month of summer, when all the crops have been gathered into the neighborhood of a village, and a cowherd must take care of the cattle. While at the root of a tree or in the open he need only be mindful that the cattle are there. In the same way I needed only to be mindful that those things were there.
@@ -76,11 +76,11 @@ This was the third knowledge, which I achieved in the last watch of the night. I
 
 14I’ve made up this simile to make a point. And this is what it means. ‘An expanse of low-lying marshes’ is a term for sensual pleasures. ‘A large herd of deer’ is a term for sentient beings. ‘A person who wants to harm, injure, and threaten them’ is a term for Māra the Wicked. ‘The wrong path’ is a term for the wrong eightfold path, that is, wrong view, wrong thought, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong immersion. ‘A domesticated male deer’ is a term for desire with relishing. ‘A domesticated female deer’ is a term for ignorance. ‘A person who wants to help keep the herd of deer safe’ is a term for the Realized One, the perfected one, the fully awakened Buddha. ‘The safe, secure path that leads to happiness’ is a term for the noble eightfold path, that is: right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.
 
-15So, mendicants, I have opened up the safe, secure path to happiness and closed off the wrong path. And I have got rid of the male and female decoys.
+15So, bhikkhus, I have opened up the safe, secure path to happiness and closed off the wrong path. And I have got rid of the male and female decoys.
 
-Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice jhāna, mendicants! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
+Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice jhāna, bhikkhus! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
 
-16That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+16That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

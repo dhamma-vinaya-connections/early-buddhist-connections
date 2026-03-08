@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to the awakening factors, or, if they’ve already arisen, fully develops them like proper attention. When you attend properly, the awakening factors arise, or, if they’ve already arisen, they’re fully developed.”
+1“bhikkhus, I do not see a single thing that gives rise to the awakening factors, or, if they’ve already arisen, fully develops them like proper attention. When you attend properly, the awakening factors arise, or, if they’ve already arisen, they’re fully developed.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannā vā bojjhaṅgā uppajjanti uppannā vā bojjhaṅgā bhāvanāpāripūriṁ gacchanti yathayidaṁ, bhikkhave, yonisomanasikāro. Yoniso, bhikkhave, manasi karoto anuppannā ceva bojjhaṅgā uppajjanti uppannā ca bojjhaṅgā bhāvanāpāripūriṁ gacchantī"ti.
 

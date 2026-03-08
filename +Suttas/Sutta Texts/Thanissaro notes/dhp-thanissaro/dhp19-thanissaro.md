@@ -114,13 +114,13 @@ he’s called a contemplative.
 264-265
 Begging from others
 
-doesn’t mean one’s a monk.
+doesn’t mean one’s a bhikkhu.
 
 As long as one follows
 
 householders’ ways,
 
-one is no monk at all.
+one is no bhikkhu at all.
 
 But whoever puts aside
 
@@ -132,7 +132,7 @@ judiciously
 
 goes through the world:
 
-_he’s_ called a monk.
+_he’s_ called a bhikkhu.
 
 ### Verse 266-267
 
@@ -185,7 +185,7 @@ to all living things.
 ### Verse 270
 
 270
-Monk,
+bhikkhu,
 
 don’t
 

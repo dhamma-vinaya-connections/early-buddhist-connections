@@ -19,7 +19,7 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in the Eastern Monastery, in the stilt longhouse of Migāra’s mother.
 
-Now at that time Vāseṭṭha and Bhāradvāja were living on probation among the mendicants in hopes of being ordained. Then in the late afternoon, the Buddha came downstairs from the longhouse and was walking meditation in the open air, beneath the shade of the longhouse.
+Now at that time Vāseṭṭha and Bhāradvāja were living on probation among the bhikkhus in hopes of being ordained. Then in the late afternoon, the Buddha came downstairs from the longhouse and was walking meditation in the open air, beneath the shade of the longhouse.
 
 2Vāseṭṭha saw him and said to Bhāradvāja: “Reverend Bhāradvāja, the Buddha is walking meditation in the open air, beneath the shade of the longhouse. Come, reverend, let’s go to the Buddha. Hopefully we’ll get to hear a Dhamma talk from him.”
 
@@ -49,7 +49,7 @@ Then the Buddha said to Vāseṭṭha: “Vāseṭṭha, you are both brahmins b
 
 7Both these things occur like this, mixed up in these four castes — the dark and the bright, that which is praised and that which is criticized by sensible people. Yet of this the brahmins say: ‘Only brahmins are the highest caste; other castes are inferior. Only brahmins are the light caste; other castes are dark. Only brahmins are purified, not others. Only brahmins are Brahmā’s rightful sons, born of his mouth, born of Brahmā, created by Brahmā, heirs of Brahmā.’
 
-Sensible people don’t acknowledge this. Why is that? Because any mendicant from these four castes who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — is said to be the best by virtue of principle, not without principle. For principle, Vāseṭṭha, is the best thing about people in both this life and the next.
+Sensible people don’t acknowledge this. Why is that? Because any bhikkhu from these four castes who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — is said to be the best by virtue of principle, not without principle. For principle, Vāseṭṭha, is the best thing about people in both this life and the next.
 
 
 8And here’s a way to understand how this is so.
@@ -188,7 +188,7 @@ An aristocrat, brahmin, merchant, worker, or ascetic may do good things by way o
 41An aristocrat, brahmin, merchant, worker, or ascetic who is restrained in body, speech, and mind, and develops the seven qualities that lead to awakening, becomes extinguished in this very life.
 
 
-42Any mendicant from these four castes who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — is said to be the best by virtue of principle, not without principle. For principle, Vāseṭṭha, is the best thing about people in both this life and the next.
+42Any bhikkhu from these four castes who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — is said to be the best by virtue of principle, not without principle. For principle, Vāseṭṭha, is the best thing about people in both this life and the next.
 
 
 43Brahmā Sanaṅkumāra also spoke this verse:

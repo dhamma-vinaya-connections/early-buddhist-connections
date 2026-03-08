@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Mahākaccāna addressed the mendicants: “Reverends, mendicants!”
+1There Mahākaccāna addressed the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Venerable Mahākaccāna said this:
 

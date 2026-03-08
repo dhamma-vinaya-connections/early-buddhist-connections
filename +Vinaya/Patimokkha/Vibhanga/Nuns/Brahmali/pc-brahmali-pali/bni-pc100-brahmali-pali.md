@@ -18,16 +18,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were instructing lay followers to memorize the Teaching. Those lay followers became disrespectful, undeferential, and rude toward the monks.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were instructing lay followers to memorize the Teaching. Those lay followers became disrespectful, undeferential, and rude toward the bhikkhus.
 
-The monks of few desires complained and criticized them, “How can the monks from the group of six instruct lay followers to memorize the Teaching?”
+The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six instruct lay followers to memorize the Teaching?”
 
-2After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you do this?”
+2After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this?” This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this?” This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

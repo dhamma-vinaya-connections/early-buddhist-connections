@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 - Translated from the Pali by Bhante Sujato and Jessica Walton
 
@@ -66,7 +66,7 @@ That is how this verse was recited by the senior venerable Dabba.
 
 ##### Sītavaniya
 
-6The monk who went to the Cool Grove is solitary,  
+6The bhikkhu who went to the Cool Grove is solitary,  
 content and serene,  
 victorious, with goosebumps vanished,  
 guarding mindfulness of the body, steadfast.
@@ -111,7 +111,7 @@ That is how this verse was recited by the senior venerable Puṇṇamāsa.
 
 ##### Cūḷavaccha
 
-11A monk full of joy  
+11A bhikkhu full of joy  
 In the teaching proclaimed by the Buddha  
 would realise the peaceful state:  
 the blissful stilling of conditions.
@@ -142,7 +142,7 @@ you can't snare those who know.
 ##### Kuṇḍadhāna
 
 15Five to cut off, five to drop, and five more to develop.  
-When a mendicant slips five chains  
+When a bhikkhu slips five chains  
 they're said to have crossed the flood.
 
 ##### Belaṭṭhasīsa
@@ -164,7 +164,7 @@ that idiot is reborn again and again.
 ##### Siṅgālapitu
 
 18There was an heir of the Buddha,  
-a monk in Bhesakaḷā forest,  
+a bhikkhu in Bhesakaḷā forest,  
 who suffused the entire earth  
 with the perception of bones.  
 I think he will quickly  
@@ -188,7 +188,7 @@ aware and mindful.
 
 21I’m not afraid of fear.  
 for our teacher is expert in freedom from death;  
-Mendicants advance by the path  
+bhikkhus advance by the path  
 where no fear remains.
 
 ##### Cittaka
@@ -216,7 +216,7 @@ and fulfilled the Buddha’s instructions.
 
 ##### Nandiya
 
-25Dark One, if you attack such a monk,  
+25Dark One, if you attack such a bhikkhu,  
 one who has arrived at the fruit,  
 and whose mind is always full of light,  
 you’ll fall into suffering.
@@ -321,14 +321,14 @@ and gone beyond rebirth.
 
 39Like they're struck by a sword,  
 like their head was on fire,  
-a mendicant should wander mindful,  
+a bhikkhu should wander mindful,  
 to give up desire for sensual desire.
 
 ##### Vaḍḍhamāna
 
 40Like they're struck by a sword,  
 like their head was on fire,  
-a mendicant should wander mindful,  
+a bhikkhu should wander mindful,  
 to give up desire for rebirth.
 
 ##### Sirivaḍḍha
@@ -443,7 +443,7 @@ and fulfilled the Buddha’s instructions.
 
 ##### Kuṭivihāri
 
-56“Who is in this little hut?” “A monk is in this little hut,  
+56“Who is in this little hut?” “A bhikkhu is in this little hut,  
 free of lust, his mind serene.  
 My friend, you should know this:  
 your little hut wasn’t built in vain."
@@ -452,7 +452,7 @@ your little hut wasn’t built in vain."
 
 57This was your old hut,  
 but you still want a new hut.  
-Let go of hope for a hut, monk!  
+Let go of hope for a hut, bhikkhu!  
 A new hut will only bring more suffering.
 
 ##### Ramaṇīyakuṭika
@@ -574,7 +574,7 @@ and giving up the pleasures of the senses.
 74Sensual desire, ill will,  
 dullness and drowsiness,  
 restlessness, and doubt  
-are not found in a monk at all.
+are not found in a bhikkhu at all.
 
 ##### Susārada
 
@@ -853,7 +853,7 @@ and fulfilled the Buddha’s instructions.
 ##### Vanavaccha
 
 113The water's clear and the rocks are broad,  
-monkeys and deer are all around;  
+bhikkhueys and deer are all around;  
 festooned with dewy moss,  
 these rocky crags delight me!
 

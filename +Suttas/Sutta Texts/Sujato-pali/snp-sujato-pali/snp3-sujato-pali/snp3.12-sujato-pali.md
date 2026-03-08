@@ -24,15 +24,15 @@ language: "English - Pali"
 
 So I have heard:
 
-At one time the Buddha was staying near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother. Now, at that time it was the sabbath—the full moon on the fifteenth day—and the Buddha was sitting in the open surrounded by the Saṅgha of monks. Then the Buddha looked around the Saṅgha of monks, who were so very silent. He addressed them:
+At one time the Buddha was staying near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother. Now, at that time it was the sabbath—the full moon on the fifteenth day—and the Buddha was sitting in the open surrounded by the Saṅgha of bhikkhus. Then the Buddha looked around the Saṅgha of bhikkhus, who were so very silent. He addressed them:
 
-“Suppose, mendicants, they questioned you thus: ‘There are skillful teachings that are noble, emancipating, and lead to awakening. What is the real reason for listening to such teachings?’ You should answer: ‘Only so as to truly know the pairs of teachings.’
+“Suppose, bhikkhus, they questioned you thus: ‘There are skillful teachings that are noble, emancipating, and lead to awakening. What is the real reason for listening to such teachings?’ You should answer: ‘Only so as to truly know the pairs of teachings.’
 
 ---
 
 And what pairs do they speak of?
 
-‘This is suffering; this is the origin of suffering’: this is the first contemplation. ‘This is the cessation of suffering; this is the practice that leads to the cessation of suffering’: this is the second contemplation. When a mendicant meditates rightly contemplating a pair of teachings in this way—diligent, keen, and resolute—they can expect one of two results: enlightenment in the present life, or if there’s something left over, non-return.”
+‘This is suffering; this is the origin of suffering’: this is the first contemplation. ‘This is the cessation of suffering; this is the practice that leads to the cessation of suffering’: this is the second contemplation. When a bhikkhu meditates rightly contemplating a pair of teachings in this way—diligent, keen, and resolute—they can expect one of two results: enlightenment in the present life, or if there’s something left over, non-return.”
 
 That is what the Buddha said. Then the Holy One, the Teacher, went on to say:
 
@@ -64,11 +64,11 @@ they don’t continue to be reborn and grow old.”
 
 ---
 
-“Suppose, mendicants, they questioned you thus: ‘Could there be another way to contemplate the pairs?’ You should say, ‘There could.’ And how could there be?
+“Suppose, bhikkhus, they questioned you thus: ‘Could there be another way to contemplate the pairs?’ You should say, ‘There could.’ And how could there be?
 
-‘All the suffering that originates is caused by attachment’: this is one contemplation. ‘With the utter cessation of attachment there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.” Then the Teacher went on to say:
+‘All the suffering that originates is caused by attachment’: this is one contemplation. ‘With the utter cessation of attachment there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.” Then the Teacher went on to say:
 
-“‘Whatever suffering arises, all is caused by attachments’, this is one observation. ‘With the complete ending of all attachments there is no arising of suffering’, this is a second observation. Rightly observing this duality, a monk who meditates diligent, ardent, and resolute may expect one of two results: final knowledge in this very life, or is there is anything left over, non-return."
+“‘Whatever suffering arises, all is caused by attachments’, this is one observation. ‘With the complete ending of all attachments there is no arising of suffering’, this is a second observation. Rightly observing this duality, a bhikkhu who meditates diligent, ardent, and resolute may expect one of two results: final knowledge in this very life, or is there is anything left over, non-return."
 
 This is what the Buddha said. Having said this, the Teacher, the Sublime One, said further:
 
@@ -83,9 +83,9 @@ contemplating the origin of suffering and rebirth.”
 
 ---
 
-“Suppose, mendicants, they questioned you thus: ‘Could there be another way to contemplate the pairs?’ You should say, ‘There could.’ And how could there be?
+“Suppose, bhikkhus, they questioned you thus: ‘Could there be another way to contemplate the pairs?’ You should say, ‘There could.’ And how could there be?
 
-‘All the suffering that originates is caused by ignorance’: this is one contemplation. ‘With the utter cessation of ignorance there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘All the suffering that originates is caused by ignorance’: this is one contemplation. ‘With the utter cessation of ignorance there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -105,7 +105,7 @@ do not proceed to a future life.”
 
 “‘Could there be another way?’ … And how could there be?
 
-‘All the suffering that originates is caused by choices’: this is one contemplation. ‘With the utter cessation of choices there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘All the suffering that originates is caused by choices’: this is one contemplation. ‘With the utter cessation of choices there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -132,7 +132,7 @@ do not proceed to a future life.”
 
 “‘Could there be another way?’ … And how could there be?
 
-‘All the suffering that originates is caused by consciousness’: this is one contemplation. ‘With the utter cessation of consciousness there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘All the suffering that originates is caused by consciousness’: this is one contemplation. ‘With the utter cessation of consciousness there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -145,14 +145,14 @@ there is no origination of suffering.
 
 741 Knowing this danger,  
 that suffering is caused by consciousness,  
-with the stilling of consciousness a mendicant  
+with the stilling of consciousness a bhikkhu  
 is hungerless, extinguished.”
 
 ---
 
 “‘Could there be another way?’ … And how could there be?
 
-‘All the suffering that originates is caused by contact’: this is one contemplation. ‘With the utter cessation of contact there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘All the suffering that originates is caused by contact’: this is one contemplation. ‘With the utter cessation of contact there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -172,7 +172,7 @@ they are hungerless, extinguished.”
 
 “‘Could there be another way?’ … And how could there be?
 
-‘All the suffering that originates is caused by feeling’: this is one contemplation. ‘With the utter cessation of feeling there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘All the suffering that originates is caused by feeling’: this is one contemplation. ‘With the utter cessation of feeling there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -187,14 +187,14 @@ both internally and externally—
 deceptive, falling apart;  
 they see it vanish with every touch:  
 that’s how they understand it.  
-With the ending of feelings, a mendicant  
+With the ending of feelings, a bhikkhu  
 is hungerless, extinguished.”
 
 ---
 
 “‘Could there be another way?’ … And how could there be?
 
-‘All the suffering that originates is caused by craving’: this is one contemplation. ‘With the utter cessation of craving there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘All the suffering that originates is caused by craving’: this is one contemplation. ‘With the utter cessation of craving there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -208,13 +208,13 @@ but don’t escape transmigration.
 747 Knowing this danger,  
 that craving is the cause of suffering—  
 rid of craving, free of grasping,  
-a mendicant would wander mindful.”
+a bhikkhu would wander mindful.”
 
 ---
 
 “‘Could there be another way?’ … And how could there be?
 
-‘All the suffering that originates is caused by grasping’: this is one contemplation. ‘With the utter cessation of grasping there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘All the suffering that originates is caused by grasping’: this is one contemplation. ‘With the utter cessation of grasping there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -234,7 +234,7 @@ do not proceed to a future life.”
 
 “‘Could there be another way?’ … And how could there be?
 
-‘All the suffering that originates is caused by instigating karma’: this is one contemplation. ‘With the utter cessation of instigation there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘All the suffering that originates is caused by instigating karma’: this is one contemplation. ‘With the utter cessation of instigation there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -250,7 +250,7 @@ that suffering is caused by instigating karma,
 having given up all instigation,  
 one is freed with respects to instigation.
 
-752 For the mendicant with peaceful mind,  
+752 For the bhikkhu with peaceful mind,  
 who has cut off craving for continued existence,  
 transmigration through births is finished;  
 there are no future lives for them.”
@@ -259,7 +259,7 @@ there are no future lives for them.”
 
 “‘Could there be another way?’ … And how could there be?
 
-‘All the suffering that originates is caused by sustenance’: this is one contemplation. ‘With the utter cessation of sustenance there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘All the suffering that originates is caused by sustenance’: this is one contemplation. ‘With the utter cessation of sustenance there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -284,7 +284,7 @@ a knowledge master cannot be reckoned.”
 
 “‘Could there be another way?’ … And how could there be?
 
-‘All the suffering that originates is caused by perturbation’: this is one contemplation. ‘With the utter cessation of perturbation there is no origination of suffering’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘All the suffering that originates is caused by perturbation’: this is one contemplation. ‘With the utter cessation of perturbation there is no origination of suffering’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -300,13 +300,13 @@ that suffering is caused by perturbation,
 that’s why, having relinquished perturbation,  
 and stopped making karmic choices,  
 imperturbable, free of grasping,  
-a mendicant would wander mindful.”
+a bhikkhu would wander mindful.”
 
 ---
 
 “‘Could there be another way?’ … And how could there be?
 
-‘For the dependent there is agitation’: this is the first contemplation. ‘For the independent there’s no agitation’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘For the dependent there is agitation’: this is the first contemplation. ‘For the independent there’s no agitation’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -320,13 +320,13 @@ without escaping transmigration.
 759 Knowing this danger,  
 the great fear in dependencies,  
 independent, free of grasping,  
-a mendicant would wander mindful.”
+a bhikkhu would wander mindful.”
 
 ---
 
 “‘Could there be another way?’ … And how could there be?
 
-‘Formless states are more peaceful than states of form’: this is the first contemplation. ‘Cessation is more peaceful than formless states’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘Formless states are more peaceful than states of form’: this is the first contemplation. ‘Cessation is more peaceful than formless states’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -346,7 +346,7 @@ they are conquerors of death.”
 
 “‘Could there be another way?’ … And how could there be?
 
-‘What this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—focuses on as true, the noble ones have clearly seen with right wisdom to be actually false’: this is the first contemplation. ‘What this world focuses on as false, the noble ones have clearly seen with right wisdom to be actually true’: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.”
+‘What this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—focuses on as true, the noble ones have clearly seen with right wisdom to be actually false’: this is the first contemplation. ‘What this world focuses on as false, the noble ones have clearly seen with right wisdom to be actually true’: this is the second contemplation. When a bhikkhu meditates in this way they can expect enlightenment or non-return.”
 
 Then the Teacher went on to say:
 
@@ -369,9 +369,9 @@ they are hungerless, extinguished.”
 
 ---
 
-“Suppose, mendicants, they questioned you thus: ‘Could there be another way to contemplate the pairs?’ You should say, ‘There could.’ And how could there be?
+“Suppose, bhikkhus, they questioned you thus: ‘Could there be another way to contemplate the pairs?’ You should say, ‘There could.’ And how could there be?
 
-‘What this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—focuses on as happiness, the noble ones have clearly seen with right wisdom to be actually suffering’: this is the first contemplation. ‘What this world focuses on as suffering, the noble ones have clearly seen with right wisdom to be actually happiness’: this is the second contemplation. When a mendicant meditates rightly contemplating a pair of teachings in this way—diligent, keen, and resolute—they can expect one of two results: enlightenment in the present life, or if there’s something left over, non-return.
+‘What this world—with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans—focuses on as happiness, the noble ones have clearly seen with right wisdom to be actually suffering’: this is the first contemplation. ‘What this world focuses on as suffering, the noble ones have clearly seen with right wisdom to be actually happiness’: this is the second contemplation. When a bhikkhu meditates rightly contemplating a pair of teachings in this way—diligent, keen, and resolute—they can expect one of two results: enlightenment in the present life, or if there’s something left over, non-return.
 
 That is what the Buddha said. Then the Holy One, the Teacher, went on to say:
 
@@ -419,7 +419,7 @@ the undefiled become fully extinguished.”
 
 ---
 
-That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said. And while this discourse was being spoken, the minds of sixty mendicants were freed from defilements by not grasping.
+That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said. And while this discourse was being spoken, the minds of sixty bhikkhus were freed from defilements by not grasping.
 
 ## Dvayatānupassanāsutta
 

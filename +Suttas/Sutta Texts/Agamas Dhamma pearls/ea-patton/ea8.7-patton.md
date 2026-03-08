@@ -17,9 +17,9 @@ language: "English"
 
 7. Disappearance
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks: “There’s one person whose disappearance from the world makes all sorts of people feel anguished. Gods and humans everywhere are lost in darkness then. Who is that one person? He is called the Tathāgata, the Arhat, and the Correctly and Perfectly Awakened One. He is known as the one person whose disappearance from the world makes all sorts of people feel anguished. Gods and humans everywhere are lost in darkness then. Why is that? When the Tathāgata disappears from the world, the thirty-seven factors of the path disappear.
-3. “Therefore, monks, always pay respect to the Buddha. Thus, monks, you should train yourselves.”
-4. When the monks heard what the Buddha taught, they rejoiced and approved.
+2. It was then that the Bhagavān addressed the bhikkhus: “There’s one person whose disappearance from the world makes all sorts of people feel anguished. Gods and humans everywhere are lost in darkness then. Who is that one person? He is called the Tathāgata, the Arhat, and the Correctly and Perfectly Awakened One. He is known as the one person whose disappearance from the world makes all sorts of people feel anguished. Gods and humans everywhere are lost in darkness then. Why is that? When the Tathāgata disappears from the world, the thirty-seven factors of the path disappear.
+3. “Therefore, bhikkhus, always pay respect to the Buddha. Thus, bhikkhus, you should train yourselves.”
+4. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

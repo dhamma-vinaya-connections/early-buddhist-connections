@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that, when it’s not developed, with such untapped potential, is so very harmful as the mind. An undeveloped mind, with untapped potential, is very harmful.”
+1“bhikkhus, I do not see a single thing that, when it’s not developed, with such untapped potential, is so very harmful as the mind. An undeveloped mind, with untapped potential, is very harmful.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ abhāvitaṁ apātubhūtaṁ mahato anatthāya saṁvattati yathayidaṁ, bhikkhave, cittaṁ. Cittaṁ, bhikkhave, abhāvitaṁ apātubhūtaṁ mahato anatthāya saṁvattatī"ti.
 

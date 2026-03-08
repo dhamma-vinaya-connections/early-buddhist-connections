@@ -14,7 +14,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bikkhu Brahmali for Sutta Central [suttacentral.net/kn18](https://suttacentral.net/pli-tv-kd18/en/brahmali?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)
 
-#### 1. Discussion of the proper conduct for newly-arrived monks ^1
+#### 1. Discussion of the proper conduct for newly-arrived bhikkhus ^1
 
 > [!TIP]- Links to [[cv18-deepseek-pali#^1|Deep Seek Version]] and BMC2 
 > [[bmc2#^ch9|BMC Chapter 9]] and the following cites:
@@ -23,21 +23,21 @@ language: "English - Pali"
 > "VIN-CV18.1" file:bmc2 -queryblock
 > ```
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time newly arrived monks entered the monastery wearing sandals, holding sunshades, with their heads covered, with their robes on their heads; and they washed their feet with drinking water, did not bow down to the more senior resident monks, and did not ask about dwellings. A certain newly arrived monk unlocked the bolt of an unoccupied dwelling, opened the door, and entered hastily. A snake fell from the top of the door frame onto his shoulders. Terrified, he screamed. The monks came running and asked why he was screaming. And he told them.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time newly arrived bhikkhus entered the monastery wearing sandals, holding sunshades, with their heads covered, with their robes on their heads; and they washed their feet with drinking water, did not bow down to the more senior resident bhikkhus, and did not ask about dwellings. A certain newly arrived monk unlocked the bolt of an unoccupied dwelling, opened the door, and entered hastily. A snake fell from the top of the door frame onto his shoulders. Terrified, he screamed. The bhikkhus came running and asked why he was screaming. And he told them.
 
-2The monks of few desires complained and criticized them: “How can the newly arrived monks enter the monastery wearing sandals, holding sunshades, with their heads covered, with their robe on their head; and wash their feet with drinking water, not bow down to the more senior resident monks, and not ask about dwellings?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks:
+2The bhikkhus of few desires complained and criticized them: “How can the newly arrived bhikkhus enter the monastery wearing sandals, holding sunshades, with their heads covered, with their robe on their head; and wash their feet with drinking water, not bow down to the more senior resident bhikkhus, and not ask about dwellings?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the newly arrived monks act like this?”
+“Is it true, bhikkhus, that the newly arrived bhikkhus act like this?”
 
 
 “It’s true, Sir.” The Buddha rebuked them …
 
-“How can the newly arrived monks act like this? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the monks:
+“How can the newly arrived bhikkhus act like this? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
-3“Well then, I will lay down the proper conduct for newly arrived monks.
+3“Well then, I will lay down the proper conduct for newly arrived bhikkhus.
 
-When a newly arrived monk enters a monastery, he should remove his sandals, hold them low, knock them together, and carry them along; he should lower his sunshade, uncover his head, and put his robe over his shoulders; he should then enter the monastery carefully and without hurry. As he enters the monastery, he should look out for where the resident monks gather whether it’s in the assembly hall, under a roof-cover, or at the foot of a tree and he should go there. He should then put his bowl and robe aside, and sit down on a suitable seat. He should ask which is the water for drinking and which the water for washing. If he needs water to drink, he may take some and drink. If he needs water to wash, he may take some and wash his feet. When he washes his feet, he should pour the water with one hand and wash with the other. He should not pour the water and wash his feet with the same hand. He should ask for a sandal-wiping cloth, and then wipe them. When he wipes his sandals, he should first wipe them with a dry cloth, then a wet one. He should wash the cloth and put it aside.
+When a newly arrived monk enters a monastery, he should remove his sandals, hold them low, knock them together, and carry them along; he should lower his sunshade, uncover his head, and put his robe over his shoulders; he should then enter the monastery carefully and without hurry. As he enters the monastery, he should look out for where the resident bhikkhus gather whether it’s in the assembly hall, under a roof-cover, or at the foot of a tree and he should go there. He should then put his bowl and robe aside, and sit down on a suitable seat. He should ask which is the water for drinking and which the water for washing. If he needs water to drink, he may take some and drink. If he needs water to wash, he may take some and wash his feet. When he washes his feet, he should pour the water with one hand and wash with the other. He should not pour the water and wash his feet with the same hand. He should ask for a sandal-wiping cloth, and then wipe them. When he wipes his sandals, he should first wipe them with a dry cloth, then a wet one. He should wash the cloth and put it aside.
 
 4If a resident monk is more senior, the newly arrived monk should bow down to him. If a resident monk is more junior, he should bow down to the newly arrived monk. The newly arrived monk should ask which dwelling he may use and whether it’s occupied or not. He should ask about where to go for alms and where to avoid, about any families designated as “in training”, about the place for defecating and the place for urinating, about the water for drinking and the water for washing, about walking sticks, and about the Saṅgha’s agreements concerning the right time to enter and the right time to leave.
 
@@ -53,9 +53,9 @@ He should put away the bowl and robe. When putting away the bowl, he should hold
 
 8If the yard is dirty, he should sweep it. If the gateway is dirty, he should sweep it. If the assembly hall is dirty, he should sweep it. If the water-boiling shed is dirty, he should sweep it. If the restroom is dirty, he should sweep it. If there is no water for drinking, he should get some. If there is no water for washing, he should get some. If there is no water in the rinsing pot, he should fill it.
 
-This is the proper conduct for newly arrived monks.”
+This is the proper conduct for newly arrived bhikkhus.”
 
-#### 2. Discussion of the proper conduct for resident monks ^2
+#### 2. Discussion of the proper conduct for resident bhikkhus ^2
 
 > [!TIP]- Links to [[cv18-deepseek-pali#^2|Deep Seek Version]] and BMC2 
 > [[bmc2#^ch9|BMC Chapter 9]] and the following cites:
@@ -65,17 +65,17 @@ This is the proper conduct for newly arrived monks.”
 > ```
 
 
-9At that time, when they saw newly arrived monks, the resident monks did not prepare seats, or put out foot stools, foot scrapers, or water for washing the feet. They did not go out to meet them to receive their bowls and robes, or ask if they wanted water to drink. They did not bow down to more senior newly arrived monks or assign dwellings to them.
+9At that time, when they saw newly arrived bhikkhus, the resident bhikkhus did not prepare seats, or put out foot stools, foot scrapers, or water for washing the feet. They did not go out to meet them to receive their bowls and robes, or ask if they wanted water to drink. They did not bow down to more senior newly arrived bhikkhus or assign dwellings to them.
 
-The monks of few desires complained and criticized them: “How can the resident monks act like this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks:
-
-
-“Is it true, monks, that the resident monks are acting like this?”
-
-“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+The bhikkhus of few desires complained and criticized them: “How can the resident bhikkhus act like this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus:
 
 
-10“Well then, I will lay down the proper conduct for resident monks.
+“Is it true, bhikkhus, that the resident bhikkhus are acting like this?”
+
+“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
+
+
+10“Well then, I will lay down the proper conduct for resident bhikkhus.
 
 When a resident monk sees a newly arrived monk who is more senior, he should prepare a seat, and put out a foot stool, a foot scraper, and water for washing the feet. He should go out to meet him to receive his bowl and robe, and ask if he wants water to drink. If he is able, he should wipe his sandals, first with a dry cloth and then a wet one. He should wash the cloth and put it aside.
 
@@ -85,9 +85,9 @@ When a resident monk sees a newly arrived monk who is more senior, he should pre
 
 If the newly arrived monk is more junior, he should bow down to the resident monk. The resident monk should tell him where his dwelling is and whether it’s occupied or not. He should tell him where to go for alms and where to avoid, and about any families designated as ‘in training’. He should point out the place for defecating and the place for urinating, the water for drinking and the water for washing, and the walking sticks. He should tell him about the Saṅgha’s agreements concerning the right time to enter and the right time to leave.
 
-This is the proper conduct for resident monks.”
+This is the proper conduct for resident bhikkhus.”
 
-#### 3. Discussion of the proper conduct for departing monks ^3
+#### 3. Discussion of the proper conduct for departing bhikkhus ^3
 
 > [!TIP]- Links to [[cv18-deepseek-pali#^3|Deep Seek Version]] and BMC2 
 > [[bmc2#^ch9|BMC Chapter 9]] and the following cites:
@@ -97,18 +97,18 @@ This is the proper conduct for resident monks.”
 > ```
 
 
-13At that time there were monks who departed without putting the wooden and ceramic goods in order, while leaving the door and the windows open, and without informing anyone. Wooden and ceramic goods were lost and the dwelling was unprotected.
+13At that time there were bhikkhus who departed without putting the wooden and ceramic goods in order, while leaving the door and the windows open, and without informing anyone. Wooden and ceramic goods were lost and the dwelling was unprotected.
 
-The monks of few desires complained and criticized them: “How can the departing monks act like this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the departing monks are acting like this?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+The bhikkhus of few desires complained and criticized them: “How can the departing bhikkhus act like this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the departing bhikkhus are acting like this?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
-14“Well then, I will lay down the proper conduct for departing monks.
+14“Well then, I will lay down the proper conduct for departing bhikkhus.
 
-Before he departs, a monk should put the wooden and ceramic goods in order, close the door and the windows, and inform someone. If there are no monks, he should inform a novice monk; if there are no novice monks, he should inform a monastery worker; if there are no monastery workers, he should inform of a lay follower. If there are no monks, novice monks, monastery workers, or lay followers, he should place the bed on four rocks. He should stack the beds or benches on top of one another, with the furniture in a pile on top, and put away the wooden and ceramic goods. He should close the door and the windows, and then depart.
+Before he departs, a monk should put the wooden and ceramic goods in order, close the door and the windows, and inform someone. If there are no bhikkhus, he should inform a novice monk; if there are no novice bhikkhus, he should inform a monastery worker; if there are no monastery workers, he should inform of a lay follower. If there are no bhikkhus, novice bhikkhus, monastery workers, or lay followers, he should place the bed on four rocks. He should stack the beds or benches on top of one another, with the furniture in a pile on top, and put away the wooden and ceramic goods. He should close the door and the windows, and then depart.
 
 If rain enters the dwelling, he should cover it if he is able, or he should make an effort to have it covered. If this works out, all is well. If not, he should place the bed on four rocks in an area that isn’t getting wet. He should then stack the beds or benches on top of one another, with the furniture in a pile on top, and put away the wooden and ceramic goods. He should close the door and the windows, and then depart. If the whole dwelling is getting wet, he should carry the furniture to the village if he is able, or he should make an effort to have it carried to the village. If this works out, all is well. If not, he should place the bed on four rocks outside. He should then stack the beds or benches on top of one another, with the furniture in a pile on top, and he should put away the wooden and ceramic goods. He should cover it all with grass and leaves and then depart, thinking, ‘Hopefully the requisites will be okay.’
 
-This is the proper conduct for departing monks.”
+This is the proper conduct for departing bhikkhus.”
 
 #### 4. Discussion of the proper conduct in connection with the expression of appreciation ^4
 
@@ -120,20 +120,20 @@ This is the proper conduct for departing monks.”
 > ```
 
 
-15At that time there were monks who did not express their appreciation in the dining hall. People complained and criticized them: “How can the Sakyan monastics not express their appreciation in the dining hall?” The monks heard the complaints of those people and they told the Buddha. The Buddha gave a teaching and addressed the monks:
+15At that time there were bhikkhus who did not express their appreciation in the dining hall. People complained and criticized them: “How can the Sakyan monastics not express their appreciation in the dining hall?” The bhikkhus heard the complaints of those people and they told the Buddha. The Buddha gave a teaching and addressed the bhikkhus:
 
 “You should express your appreciation in the dining hall.”
 
-The monks thought: “Who should give the expression of appreciation?” They told the Buddha. He gave a teaching and addressed the monks:
+The bhikkhus thought: “Who should give the expression of appreciation?” They told the Buddha. He gave a teaching and addressed the bhikkhus:
 
 “The most senior monk should give the expression of appreciation in the dining hall.”
 
 
-16Soon afterwards a certain association was offering a meal to the Saṅgha. Venerable Sāriputta was the most senior monk. Because the Buddha had said the most senior monk should give the expression of appreciation, the monks left, leaving Sāriputta behind by himself. After giving the expression of appreciation, he left by himself. The Buddha saw him coming and asked: “Did the meal go well?”
+16Soon afterwards a certain association was offering a meal to the Saṅgha. Venerable Sāriputta was the most senior monk. Because the Buddha had said the most senior monk should give the expression of appreciation, the bhikkhus left, leaving Sāriputta behind by himself. After giving the expression of appreciation, he left by himself. The Buddha saw him coming and asked: “Did the meal go well?”
 
-“The meal went well, Venerable Sir, but the monks all left leaving me behind by myself.” Soon afterwards the Buddha gave a teaching and addressed the monks:
+“The meal went well, Venerable Sir, but the bhikkhus all left leaving me behind by myself.” Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“The four or five most senior monks should wait in the dining hall.”
+“The four or five most senior bhikkhus should wait in the dining hall.”
 
 17On one occasion a senior monk who needed to defecate was waiting in the dining hall. Being unable to hold out, he fainted and fell over. They told the Buddha.
 
@@ -149,25 +149,25 @@ The monks thought: “Who should give the expression of appreciation?” They to
 > ```
 
 
-18At that time the monks from the group of six went to the dining hall shabbily dressed and improper in appearance; going the wrong way, they went ahead of the senior monks; they sat down encroaching on the senior monks; they blocked the junior monks from seats; and they spread out their upper robes and sat on them in inhabited areas.
+18At that time the bhikkhus from the group of six went to the dining hall shabbily dressed and improper in appearance; going the wrong way, they went ahead of the senior bhikkhus; they sat down encroaching on the senior bhikkhus; they blocked the junior bhikkhus from seats; and they spread out their upper robes and sat on them in inhabited areas.
 
-The monks of few desires complained and criticized them: “How can the monks from the group of six act like this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks:
+The bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six act like this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the monks from the group of six are acting like this?”
+“Is it true, bhikkhus, that the bhikkhus from the group of six are acting like this?”
 
 
-“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 19“Well then, I will lay down the proper conduct in relation to the dining hall.
 
 In a monastery where the time for departure is announced, a monk should put on his sarong evenly all around, covering the navel and the knees. He should put on a belt. Putting the upper robes together, overlapping each other edge-to-edge, he should put them on and fasten the toggle. He should wash his bowl, bring it along, and enter the village carefully and without hurry.
 
-20He should not go the wrong way and walk in front of the senior monks. He should walk well-covered in inhabited areas; he should walk well-restrained in inhabited areas; he should walk with lowered eyes in inhabited areas; he should lift up his robe while walking in inhabited areas; he should not laugh loudly while walking in inhabited areas; he should not be noisy while walking in inhabited areas; he should not sway his body while walking in inhabited areas; he should not swing his arms while walking in inhabited areas; he should not sway his head while walking in inhabited areas; he should not walk in an inhabited area with his hands on his hips; he should not cover his head while walking in inhabited areas; he should not squat on his heels while walking in inhabited areas.
+20He should not go the wrong way and walk in front of the senior bhikkhus. He should walk well-covered in inhabited areas; he should walk well-restrained in inhabited areas; he should walk with lowered eyes in inhabited areas; he should lift up his robe while walking in inhabited areas; he should not laugh loudly while walking in inhabited areas; he should not be noisy while walking in inhabited areas; he should not sway his body while walking in inhabited areas; he should not swing his arms while walking in inhabited areas; he should not sway his head while walking in inhabited areas; he should not walk in an inhabited area with his hands on his hips; he should not cover his head while walking in inhabited areas; he should not squat on his heels while walking in inhabited areas.
 
-21He should sit well-covered in inhabited areas; he should sit well-restrained in inhabited areas; he should sit with lowered eyes in inhabited areas; he should not lift his robes while sitting in inhabited areas; he should not laugh loudly while sitting in inhabited areas; he should not be noisy while sitting in inhabited areas; he should not sway his body while sitting in inhabited areas; he should not swing his arms while sitting in inhabited areas; he should not sway his head while sitting in inhabited areas; he should not sit in an inhabited area with his hands on his hips; he should not cover his head while sitting in inhabited areas; he should not clasp his knees while sitting in inhabited areas. He should not sit encroaching on the senior monks or blocking the junior monks from seats. He should not spread out his upper robe and sit on it in inhabited areas.
+21He should sit well-covered in inhabited areas; he should sit well-restrained in inhabited areas; he should sit with lowered eyes in inhabited areas; he should not lift his robes while sitting in inhabited areas; he should not laugh loudly while sitting in inhabited areas; he should not be noisy while sitting in inhabited areas; he should not sway his body while sitting in inhabited areas; he should not swing his arms while sitting in inhabited areas; he should not sway his head while sitting in inhabited areas; he should not sit in an inhabited area with his hands on his hips; he should not cover his head while sitting in inhabited areas; he should not clasp his knees while sitting in inhabited areas. He should not sit encroaching on the senior bhikkhus or blocking the junior bhikkhus from seats. He should not spread out his upper robe and sit on it in inhabited areas.
 
-22When given water, he should receive it by holding his bowl with both hands. Holding the bowl low, he should rinse it carefully without scratching it. If there is someone to receive the water, he should hold his bowl low and pour the water into the container, trying to avoid splashing the person receiving the water, the monks sitting nearby, or his upper robe. If there is no one to receive the water, he should hold his bowl low and pour the water on the ground, trying to avoid splashing the monks sitting nearby or his upper robe.
+22When given water, he should receive it by holding his bowl with both hands. Holding the bowl low, he should rinse it carefully without scratching it. If there is someone to receive the water, he should hold his bowl low and pour the water into the container, trying to avoid splashing the person receiving the water, the bhikkhus sitting nearby, or his upper robe. If there is no one to receive the water, he should hold his bowl low and pour the water on the ground, trying to avoid splashing the bhikkhus sitting nearby or his upper robe.
 
 23When given rice, he should receive it by holding his bowl with both hands, leaving room for the curry. If there is ghee, oil, or special curry, the senior monk should say, ‘Everyone gets an equal share.’ He should receive the almsfood respectfully; he should receive the almsfood with attention on the bowl; he should receive the almsfood with the right proportion of bean curry; he should receive the almsfood on an even level.
 
@@ -177,9 +177,9 @@ A monk should eat the almsfood respectfully; he should eat the almsfood with att
 
 25He should not receive the drinking-water vessel with a hand soiled with food.
 
-The senior monk should not receive water for washing until all the monks are finished eating. When given water, a monk should receive it by holding his bowl with both hands. Holding the bowl low, he should rinse it carefully without scratching it. If there is someone to receive the water, he should hold his bowl low and pour the water into the container, trying to avoid splashing the person receiving the water, the monks sitting nearby, or his upper robe. If there is no one to receive the water, he should hold his bowl low and pour the water on the ground, trying to avoid splashing the monks sitting nearby or his upper robe. He should not discard bowl-washing water containing rice in inhabited areas.
+The senior monk should not receive water for washing until all the bhikkhus are finished eating. When given water, a monk should receive it by holding his bowl with both hands. Holding the bowl low, he should rinse it carefully without scratching it. If there is someone to receive the water, he should hold his bowl low and pour the water into the container, trying to avoid splashing the person receiving the water, the bhikkhus sitting nearby, or his upper robe. If there is no one to receive the water, he should hold his bowl low and pour the water on the ground, trying to avoid splashing the bhikkhus sitting nearby or his upper robe. He should not discard bowl-washing water containing rice in inhabited areas.
 
-26When returning, the junior monks should go first and then the senior monks. A monk should be well-covered when walking in inhabited areas; he should be well-restrained when walking in inhabited areas; he should walk with lowered eyes in inhabited areas; he should not walk with his robe lifted up in inhabited areas; he should not laugh loudly when walking in inhabited areas; he should not be noisy when walking in inhabited areas; he should not sway his body when walking in inhabited areas; he should not swing his arms when walking in inhabited areas; he should not sway his head when walking in inhabited areas; he should not walk in an inhabited area with his hands on his hips; he should not walk with his head covered in inhabited areas; he should not squat on his heels when walking in inhabited areas.
+26When returning, the junior bhikkhus should go first and then the senior bhikkhus. A monk should be well-covered when walking in inhabited areas; he should be well-restrained when walking in inhabited areas; he should walk with lowered eyes in inhabited areas; he should not walk with his robe lifted up in inhabited areas; he should not laugh loudly when walking in inhabited areas; he should not be noisy when walking in inhabited areas; he should not sway his body when walking in inhabited areas; he should not swing his arms when walking in inhabited areas; he should not sway his head when walking in inhabited areas; he should not walk in an inhabited area with his hands on his hips; he should not walk with his head covered in inhabited areas; he should not squat on his heels when walking in inhabited areas.
 
 This is the proper conduct in relation to the dining hall.”
 
@@ -195,7 +195,7 @@ This is the proper conduct in relation to the dining hall.”
 > ```
 
 
-28At that time there were alms-collecting monks who were shabbily dressed and improper in appearance. They entered and left houses without being attentive; they entered and left too hastily; they stood too far away or too close; they waited too long or left too soon.
+28At that time there were alms-collecting bhikkhus who were shabbily dressed and improper in appearance. They entered and left houses without being attentive; they entered and left too hastily; they stood too far away or too close; they waited too long or left too soon.
 
 On one occasion a certain monk entered a house without being attentive. Thinking it was the main door, he entered a room where a woman was sleeping naked. The monk saw her and left the room. Seeing her lying there, the woman’s husband thought: “My wife has been raped by this monk,” and he took hold of that monk and gave him a beating. The woman woke up from the noise and asked her husband: “Why are you beating this monk?”
 
@@ -203,15 +203,15 @@ On one occasion a certain monk entered a house without being attentive. Thinking
 
 “No he didn’t; he didn’t do anything.” And she had him release that monk.
 
-The monk returned to the monastery and told the monks what had happened.
+The monk returned to the monastery and told the bhikkhus what had happened.
 
 
-29The monks of few desires complained and criticized them: “How can the alms-collecting monks act like this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the alms-collecting monks are acting like this?”
+29The bhikkhus of few desires complained and criticized them: “How can the alms-collecting bhikkhus act like this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the alms-collecting bhikkhus are acting like this?”
 
-“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
-30“Well then, I will lay down the proper conduct for alms-collecting monks.
+30“Well then, I will lay down the proper conduct for alms-collecting bhikkhus.
 
 When an alms-collecting monk is about to enter the village, he should put on his sarong evenly all around, covering the navel and the knees. He should put on a belt. Putting the upper robes together, overlapping each other edge-to-edge, he should put them on and fasten the toggle. He should wash his bowl, bring it along, and enter the village carefully and without hurry.
 
@@ -240,9 +240,9 @@ This is the proper conduct for alms-collectors.”
 > ```
 
 
-34At that time there was a number of monks staying in the wilderness. They did not set out water for drinking or water for washing; they did not light fires or provide fire-making implements; and they did not know the constellations or the cardinal directions.
+34At that time there was a number of bhikkhus staying in the wilderness. They did not set out water for drinking or water for washing; they did not light fires or provide fire-making implements; and they did not know the constellations or the cardinal directions.
 
-Criminals went to that place and asked the monks: “Sir, is there any water for drinking?”
+Criminals went to that place and asked the bhikkhus: “Sir, is there any water for drinking?”
 
 
 “No, there isn’t.”
@@ -271,12 +271,12 @@ Criminals went to that place and asked the monks: “Sir, is there any water for
 “We don’t know.”
 
 
-Thinking: “They are criminals, not monks,” they beat them up and left.
+Thinking: “They are criminals, not bhikkhus,” they beat them up and left.
 
-The monks told other monks what had happened and they in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+The bhikkhus told other bhikkhus what had happened and they in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 
-35“Well then, I will lay down the proper conduct for monks staying in the wilderness.
+35“Well then, I will lay down the proper conduct for bhikkhus staying in the wilderness.
 
 After getting up early in the morning, a monk who is staying in the wilderness should put his bowl in its bag, hang it from his shoulder, put his robe over his shoulders, put on his sandals, put the wooden and ceramic goods in order, close the door and windows, and descend from his dwelling. When he is about to enter the village, he should remove his sandals, hold them low and knock them together, before putting them in a bag, which he should hang from his shoulder. He should put on his sarong evenly all around, covering the navel and the knees. He should put on a belt. Putting the upper robes together, overlapping each other edge-to-edge, he should put them on and fasten the toggle. He should wash his bowl, bring it along, and enter the village carefully and without hurry.
 
@@ -304,21 +304,21 @@ This is the proper conduct for those staying in the wilderness.”
 > ```
 
 
-39On one occasion when a number of monks were making robes outside, the monks from the group of six were beating furniture in an open space upwind from them. The robe-making monks became dusty.
+39On one occasion when a number of bhikkhus were making robes outside, the bhikkhus from the group of six were beating furniture in an open space upwind from them. The robe-making bhikkhus became dusty.
 
-The monks of few desires complained and criticized them: “How can the monks from the group of six do this?”
+The bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six do this?”
 
 
-40They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the monks from the group of six did this?”
+40They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the bhikkhus from the group of six did this?”
 
-“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 41“Well then, I will lay down the proper conduct in regard to dwellings.
 
 If the dwelling he is staying in is dirty, a monk should clean it if he is able. When he is cleaning the dwelling, he should first take out the bowl and robe and put them aside. He should take out the sitting mat and the sheet and put them aside. He should take out the mattress and the pillow and put them aside. Holding the bed low, he should carefully take it out without scratching it or knocking it against the door or the door frame, and he should put it aside. Holding the bench low, he should carefully take it out without scratching it or knocking it against the door or the door frame, and he should put it aside. He should take out the bed supports and put them aside. He should take out the spittoon and put it aside. He should take out the leaning board and put it aside. After taking note of its position, he should take out the floor cover and put it aside. If the dwelling has cobwebs, he should first remove them from the ceiling cloth, and he should then wipe the windows and the corners of the room. If the walls have been treated with red ocher and they’re moldy, he should moisten a cloth, wring it out, and wipe the walls. If the floor has been treated with a black finish and it’s moldy, he should moisten a cloth, wring it out, and wipe the floor. If the floor is untreated, he should sprinkle it with water and then sweep it, while trying to avoid stirring up dust. He should look out for any trash and discard it.
 
-42He should not beat the furniture near other monks, near other dwellings, near water for drinking, or near water for washing. He should not beat the furniture in an open area upwind from these things, but downwind from them.
+42He should not beat the furniture near other bhikkhus, near other dwellings, near water for drinking, or near water for washing. He should not beat the furniture in an open area upwind from these things, but downwind from them.
 
 43He should sun the floor cover, clean it, beat it, bring it back inside, and put it back as before. He should sun the bed supports, wipe them, bring them back inside, and put them back where they were. He should sun the bed, clean it, and beat it. Holding it low, he should carefully bring it back inside without scratching it or knocking it against the door or the door frame, and he should put it back as before. He should sun the bench, clean it, and beat it. Holding it low, he should carefully bring it back inside without scratching it or knocking it against the door or the door frame, and he should put it back as before. He should sun the mattress and the pillow, clean them, beat them, bring them back inside, and put them back as before. He should sun the sitting mat and the sheet, clean them, beat them, bring them back inside, and put them back as before. He should sun the spittoon, wipe it, bring it back inside, and put it back where it was. He should sun the leaning board, wipe it, bring it back inside, and put it back where it was. He should put away the bowl and robe. When putting away the bowl, he should hold the bowl in one hand, feel under the bed or the bench with the other, and then put it away. He shouldn’t put the bowl away on the bare floor. When putting away the robe, he should hold the robe in one hand, wipe the bamboo robe rack or the clothesline with the other, and then put it away by folding the robe over it, making the ends face the wall and the fold face out.
 
@@ -340,25 +340,25 @@ This is the proper conduct in regard to dwellings.”
 > ```
 
 
-47On one occasion the monks from the group of six were kept out of the sauna by the senior monks. Then, out of disrespect, they stacked up much firewood, lit it, closed the door, and sat down against it. The monks overheated, but being unable to open the door, they fainted and collapsed.
+47On one occasion the bhikkhus from the group of six were kept out of the sauna by the senior bhikkhus. Then, out of disrespect, they stacked up much firewood, lit it, closed the door, and sat down against it. The bhikkhus overheated, but being unable to open the door, they fainted and collapsed.
 
-The monks of few desires complained and criticized them: “How can the monks from the group of six do this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the monks from the group of six did this?”
+The bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six do this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the bhikkhus from the group of six did this?”
 
 
-“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
-“If you’re kept out of a sauna by senior monks, you should not, out of disrespect, stack up much firewood and light it. If you do, you commit an offense of wrong conduct.
+“If you’re kept out of a sauna by senior bhikkhus, you should not, out of disrespect, stack up much firewood and light it. If you do, you commit an offense of wrong conduct.
 
 And you should not close the door and sit down against it. If you do, you commit an offense of wrong conduct.
 
 
 48Well then, I will lay down the proper conduct in regard to saunas. The monk who goes first to the sauna should discard the ashes if they are building up. If the sauna is dirty, he should sweep it. If the area immediately outside the sauna is dirty, he should sweep it. If the yard is dirty, he should sweep it. If the gateway is dirty, he should sweep it. If the sauna shed is dirty, he should sweep it.
 
-49He should knead bath powder, moisten the clay, and fill the water trough with water. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter. He shouldn’t sit encroaching on the senior monks, and he shouldn’t block the junior monks from getting a seat.
+49He should knead bath powder, moisten the clay, and fill the water trough with water. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter. He shouldn’t sit encroaching on the senior bhikkhus, and he shouldn’t block the junior bhikkhus from getting a seat.
 
-If he is able, he should do services for the senior monks in the sauna. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
+If he is able, he should do services for the senior bhikkhus in the sauna. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
 
-If he is able, he should also do services for the senior monks in the water. He should not bathe in front of the senior monks or upstream from them. When he is coming out of the water after bathing, he should give way to those who are entering the water.
+If he is able, he should also do services for the senior bhikkhus in the water. He should not bathe in front of the senior bhikkhus or upstream from them. When he is coming out of the water after bathing, he should give way to those who are entering the water.
 
 If the sauna is muddy, the last monk to leave it should wash it. He should wash the clay trough, put away the sauna bench, extinguish the fire, close the door, and then leave.
 
@@ -374,24 +374,24 @@ This is the proper conduct in regard to saunas.”
 > ```
 
 
-50At that time a monk who had been born as a brahmin did not want to rinse after defecating, thinking: “Who would touch this foul, stinking stuff?” As a result, a worm settled in his anus. He told the monks, who said: “So you don’t rinse after defecating?”
+50At that time a monk who had been born as a brahmin did not want to rinse after defecating, thinking: “Who would touch this foul, stinking stuff?” As a result, a worm settled in his anus. He told the bhikkhus, who said: “So you don’t rinse after defecating?”
 
 
 “That’s right.”
 
-The monks of few desires complained and criticized him: “How can a monk not rinse after defecating?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monk, that you don’t rinse after defecating?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+The bhikkhus of few desires complained and criticized him: “How can a monk not rinse after defecating?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, monk, that you don’t rinse after defecating?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 “When there is water available, you should rinse after defecating. If you don’t, you commit an offense of wrong conduct.”
 
-51At that time the monks used the restroom according to seniority. Junior monks who had arrived before others had to wait to defecate. Holding it in, they fainted and collapsed. They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that this is happening?” “It’s true, Sir.” … and the Buddha addressed the monks:
+51At that time the bhikkhus used the restroom according to seniority. Junior bhikkhus who had arrived before others had to wait to defecate. Holding it in, they fainted and collapsed. They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that this is happening?” “It’s true, Sir.” … and the Buddha addressed the bhikkhus:
 
 “The restroom should not be used according to seniority. If you do, you commit an offense of wrong conduct. You should use the restroom according to the order of arrival.”
 
 
-52At that time the monks from the group of six entered the restroom too hastily, pulled up their robe before entering, groaned while defecating, cleaned their teeth while defecating, defecated outside the toilet, urinated outside the urinal, spat in the urinal, used coarse wiping sticks, threw the wiping sticks in the cesspit, left the restroom too hastily, came out with their robe still pulled up, made a chomping sound while rinsing, and they left water in the scoop for rinsing.
+52At that time the bhikkhus from the group of six entered the restroom too hastily, pulled up their robe before entering, groaned while defecating, cleaned their teeth while defecating, defecated outside the toilet, urinated outside the urinal, spat in the urinal, used coarse wiping sticks, threw the wiping sticks in the cesspit, left the restroom too hastily, came out with their robe still pulled up, made a chomping sound while rinsing, and they left water in the scoop for rinsing.
 
-The monks of few desires complained and criticized them: “How can the monks from the group of six act like this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the monks from the group of six act like this?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+The bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six act like this?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the bhikkhus from the group of six act like this?” “It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 53“Well then, I will lay down the proper conduct in regard to restrooms.
@@ -412,9 +412,9 @@ This is the proper conduct in regard to restrooms.”
 > ```
 
 
-55At that time the students were not conducting themselves properly toward their preceptors. The monks of few desires complained and criticized them: “How can the students not conduct themselves properly toward their preceptors?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the students are not conducting themselves properly toward their preceptors?” “It’s true, Sir.” … The Buddha rebuked them …
+55At that time the students were not conducting themselves properly toward their preceptors. The bhikkhus of few desires complained and criticized them: “How can the students not conduct themselves properly toward their preceptors?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the students are not conducting themselves properly toward their preceptors?” “It’s true, Sir.” … The Buddha rebuked them …
 
-“How can they act like this? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the monks:
+“How can they act like this? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 56“Well then, I will lay down the proper conduct for a student toward his preceptor. A student should conduct himself properly toward his preceptor. This is the proper conduct:
@@ -438,7 +438,7 @@ The student should put away the robe and bowl. When putting away the bowl, he sh
 
 62If the preceptor wants to take a sauna, the student should knead bath powder, moisten the clay, take a sauna bench, and follow behind his preceptor. After giving the preceptor the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter.
 
-He shouldn’t sit encroaching on the senior monks, and he shouldn’t block the junior monks from getting a seat. While in the sauna, he should do services for his preceptor. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
+He shouldn’t sit encroaching on the senior bhikkhus, and he shouldn’t block the junior bhikkhus from getting a seat. While in the sauna, he should do services for his preceptor. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
 
 63He should also do services for his preceptor in the water. When he has bathed, he should be the first to come out. He should dry himself and put on his sarong. He should then wipe the water off his preceptor’s body, and he should give him his sarong and then his upper robe. Taking the sauna bench, he should be the first to return. He should prepare a seat, and also set out a foot stool, a foot scraper, and water for washing the feet. He should ask his preceptor if he wants water to drink.
 
@@ -478,9 +478,9 @@ This is the proper conduct of a student toward his preceptor.”
 > ```
 
 
-71At that time the preceptors were not conducting themselves properly toward their students. The monks of few desires complained and criticized them: “How can the preceptors not conduct themselves properly toward their students?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the preceptors are not conducting themselves properly toward their students?”
+71At that time the preceptors were not conducting themselves properly toward their students. The bhikkhus of few desires complained and criticized them: “How can the preceptors not conduct themselves properly toward their students?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the preceptors are not conducting themselves properly toward their students?”
 
-“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 72“Well then, I will lay down the proper conduct for preceptors toward their students. A preceptor should conduct himself properly toward his student. This is the proper conduct:
@@ -502,7 +502,7 @@ This is the proper conduct of a student toward his preceptor.”
 
 79If the student wants to take a sauna, the preceptor should knead bath powder, moisten the clay, take a sauna bench, and go to the sauna. After giving his student the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter.
 
-He shouldn’t sit encroaching on the senior monks, and he shouldn’t block the junior monks from getting a seat. While in the sauna, he should do services for his student. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
+He shouldn’t sit encroaching on the senior bhikkhus, and he shouldn’t block the junior bhikkhus from getting a seat. While in the sauna, he should do services for his student. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
 
 80The preceptor should also do services for his student in the water. When the preceptor has bathed, he should be the first to come out. He should dry himself and put on his sarong. He should then wipe the water off his student’s body, and he should give him his sarong and then his upper robe. Taking the sauna bench, he should be the first to return. He should prepare a seat, and also set out a foot bench, a foot scraper, and water for washing the feet. He should ask his student if he wants water to drink.
 
@@ -539,9 +539,9 @@ This is the proper conduct of a preceptor toward his student.”
 > ```
 
 
-85At that time the pupils were not conducting themselves properly toward their teachers. The monks of few desires complained and criticized them: “How can the pupils not conduct themselves properly toward their teachers?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the pupils are not conducting themselves properly toward their teachers?” “It’s true, Sir.” …
+85At that time the pupils were not conducting themselves properly toward their teachers. The bhikkhus of few desires complained and criticized them: “How can the pupils not conduct themselves properly toward their teachers?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the pupils are not conducting themselves properly toward their teachers?” “It’s true, Sir.” …
 
-After rebuking them … the Buddha gave a teaching and addressed the monks:
+After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 86“Well then, I will lay down the proper conduct for a pupil toward his teacher. A pupil should conduct himself properly toward his teacher. This is the proper conduct:
@@ -566,7 +566,7 @@ The pupil should put away the robe and bowl. When putting away the bowl, he shou
 91“If the teacher wants to bathe, the pupil should prepare a bath. If he wants a cold bath, he should prepare that; if he wants a hot bath, he should prepare that.
 
 
-92If the teacher wants to take a sauna, the pupil should knead bath powder, moisten the clay, take a sauna bench, and follow behind his teacher. After giving the teacher the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter. He shouldn’t sit encroaching on the senior monks, and he shouldn’t block the junior monks from getting a seat. While in the sauna, he should do services for his teacher. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
+92If the teacher wants to take a sauna, the pupil should knead bath powder, moisten the clay, take a sauna bench, and follow behind his teacher. After giving the teacher the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter. He shouldn’t sit encroaching on the senior bhikkhus, and he shouldn’t block the junior bhikkhus from getting a seat. While in the sauna, he should do services for his teacher. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
 
 93He should also do services for his teacher in the water. When he has bathed, he should be the first to come out. He should dry himself and put on his sarong. He should then wipe the water off his teacher’s body, and he should give him his sarong and then his upper robe. Taking the sauna bench, he should be the first to return. He should prepare a seat, and also set out a foot stool, a foot scraper, and water for washing the feet. He should ask his teacher if he wants water to drink.
 
@@ -606,9 +606,9 @@ This is the proper conduct of a pupil toward his teacher.”
 > ```
 
 
-101At that time the teachers were not conducting themselves properly toward their pupils. The monks of few desires complained and criticized them: “How can the teachers not conduct themselves properly toward their pupils?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the teachers are not conducting themselves properly toward their pupils?”
+101At that time the teachers were not conducting themselves properly toward their pupils. The bhikkhus of few desires complained and criticized them: “How can the teachers not conduct themselves properly toward their pupils?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the teachers are not conducting themselves properly toward their pupils?”
 
-“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 102“Well then, I will lay down the proper conduct for a teacher toward his pupil. A teacher should conduct himself properly toward his pupil. This is the proper conduct:
@@ -632,7 +632,7 @@ He should ask his pupil if he wants water to drink. When the pupil has eaten, th
 
 109If the pupil wants to take a sauna, the teacher should knead bath powder, moisten the clay, take a sauna bench, and go to the sauna. After giving the pupil the sauna bench, receiving his robe, and putting it aside, he should give him the bath powder and the clay. If he’s able, he should enter the sauna. When entering the sauna, he should smear his face with clay, cover himself front and back, and then enter.
 
-He shouldn’t sit encroaching on the senior monks, and he shouldn’t block the junior monks from getting a seat. While in the sauna, he should do services for his pupil. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
+He shouldn’t sit encroaching on the senior bhikkhus, and he shouldn’t block the junior bhikkhus from getting a seat. While in the sauna, he should do services for his pupil. When leaving the sauna, he should take the sauna bench, cover himself front and back, and then leave.
 
 110The teacher should also do services for his pupil in the water. When the teacher has bathed, he should be the first to come out. He should dry himself and put on his sarong. He should then wipe the water off his pupil’s body, and he should give him his sarong and then his upper robe. Taking the sauna bench, he should be the first to return. He should prepare a seat, and also set out a foot stool, a foot scraper, and water for washing the feet. He should ask his pupil if he wants water to drink.
 

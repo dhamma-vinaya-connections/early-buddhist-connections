@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“These two things, mendicants, are not mortifying. What two? It’s when someone has done good things and not done bad things, by way of body, speech, and mind. Thinking, ‘I’ve done good things by way of body, speech, and mind’, they’re not mortified. Thinking, ‘I haven’t done bad things by way of body, speech, and mind’, they’re not mortified. These are the two things that are not mortifying.”
+1“These two things, bhikkhus, are not mortifying. What two? It’s when someone has done good things and not done bad things, by way of body, speech, and mind. Thinking, ‘I’ve done good things by way of body, speech, and mind’, they’re not mortified. Thinking, ‘I haven’t done bad things by way of body, speech, and mind’, they’re not mortified. These are the two things that are not mortifying.”
 
 1"Dveme, bhikkhave, dhammā atapanīyā. Katame dve? Idha, bhikkhave, ekaccassa kāyasucaritaṁ kataṁ hoti, akataṁ hoti kāyaduccaritaṁ; vacīsucaritaṁ kataṁ hoti, akataṁ hoti vacīduccaritaṁ; manosucaritaṁ kataṁ hoti, akataṁ hoti manoduccaritaṁ. So ‘kāyasucaritaṁ me katan’ti na tappati, ‘akataṁ me kāyaduccaritan’ti na tappati; ‘vacīsucaritaṁ me katan’ti na tappati, ‘akataṁ me vacīduccaritan’ti na tappati; ‘manosucaritaṁ me katan’ti na tappati, ‘akataṁ me manoduccaritan’ti na tappati. Ime kho, bhikkhave, dve dhammā atapanīyā"ti.
 

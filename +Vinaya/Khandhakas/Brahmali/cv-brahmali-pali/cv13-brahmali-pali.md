@@ -22,7 +22,7 @@ language: "English - Pali"
 > "VIN-CV13.1" file:bmc2 -queryblock
 > ```
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time Venerable Udāyī had committed one unconcealed offense of intentional emission of semen. He told the monks about this, adding: “What should I do now?” They told the Buddha.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time Venerable Udāyī had committed one unconcealed offense of intentional emission of semen. He told the bhikkhus about this, adding: “What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should give the monk Udāyī the trial period of six days for one unconcealed offense of intentional emission of semen.
 
@@ -30,7 +30,7 @@ And it should be given like this.
 
 #### 1.1 Trial periods for those with unconcealed offenses
 
-2“The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+2“The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I’ve committed one unconcealed offense of intentional emission of semen. I ask the Saṅgha for the trial period of six days for that offense.
 
@@ -52,11 +52,11 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.2 Rehabilitation for those with unconcealed offenses
 
-8When he had completed that trial period, he told the monks: “I had committed one unconcealed offense of intentional emission of semen. I asked the Saṅgha to give me the trial period of six days for that offense, which it did. I’ve now completed it. What should I do next?” They told the Buddha.
+8When he had completed that trial period, he told the bhikkhus: “I had committed one unconcealed offense of intentional emission of semen. I asked the Saṅgha to give me the trial period of six days for that offense, which it did. I’ve now completed it. What should I do next?” They told the Buddha.
 
 “Well then, the Saṅgha should rehabilitate the monk Udāyī. And it should be done like this.
 
-9The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+9The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I had committed one unconcealed offense of intentional emission of semen. I asked the Saṅgha to give me the trial period of six days for that offense, which it did. I’ve now completed that trial period and ask the Saṅgha for rehabilitation.
 
@@ -79,14 +79,14 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.3 Probation for those with offenses concealed for one day
 
-17On one occasion Venerable Udāyī had committed one offense of intentional emission of semen, concealed for one day. He told the monks about this, adding: “What should I do now?” They told the Buddha.
+17On one occasion Venerable Udāyī had committed one offense of intentional emission of semen, concealed for one day. He told the bhikkhus about this, adding: “What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should give the monk Udāyī probation for one day for one offense of intentional emission of semen, concealed for one day.
 
 And it should be given like this.
 
 
-18The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+18The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I’ve committed one offense of intentional emission of semen, concealed for one day. I ask the Saṅgha for probation for one day for that offense.’ And he should ask a second and a third time.
 
@@ -103,7 +103,7 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.4 Trial periods for those with offenses concealed for one day
 
-23When he had completed that probation, he told the monks:
+23When he had completed that probation, he told the bhikkhus:
 
 “I had committed one offense of intentional emission of semen, concealed for one day. I asked the Saṅgha to give me probation for one day for that offense, which it did. I’ve now completed it. What should I do next?” They told the Buddha.
 
@@ -112,7 +112,7 @@ A competent and capable monk should then inform the Saṅgha:
 And it should be given like this.
 
 
-24The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+24The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 
 ‘Venerables, I had committed one offense of intentional emission of semen, concealed for one day. I asked the Saṅgha to give me probation for one day for that offense, which it did. I’ve now completed that probation and ask the Saṅgha for the trial period of six days.’ And he should ask a second and a third time.
@@ -130,14 +130,14 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.5 Rehabilitation for those with offenses concealed for one day
 
-29When he had completed that trial period, he told the monks:
+29When he had completed that trial period, he told the bhikkhus:
 
 “I had committed one offense of intentional emission of semen, concealed for one day. I asked the Saṅgha to give me probation for one day for that offense, which it did. When I had completed that probation, I asked the Saṅgha to give me the trial period of six days, which it did. I’ve now completed it. What should I do next?” They told the Buddha.
 
 
 “Well then, the Saṅgha should rehabilitate the monk Udāyī. And it should be done like this.
 
-30The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+30The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘I had committed one offense of intentional emission of semen, concealed for one day. I asked the Saṅgha to give me probation for one day for that offense, which it did. When I had completed that probation, I asked the Saṅgha to give me the trial period of six days, which it did. I’ve now completed the trial period and ask the Saṅgha for rehabilitation.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -152,12 +152,12 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.6 Probation for those with offenses concealed for five days
 
-35On one occasion Venerable Udāyī had committed one offense of intentional emission of semen, concealed for two days. … concealed for three days. … concealed for four days. … concealed for five days. He told the monks about this, adding: “What should I do now?” They told the Buddha.
+35On one occasion Venerable Udāyī had committed one offense of intentional emission of semen, concealed for two days. … concealed for three days. … concealed for four days. … concealed for five days. He told the bhikkhus about this, adding: “What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should give the monk Udāyī probation for five days for one offense of intentional emission of semen, concealed for five days. And it should be given like this.
 
 
-36The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+36The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I’ve committed one offense of intentional emission of semen, concealed for five days. I ask the Saṅgha for probation for five days for that offense.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -172,14 +172,14 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.7 Sending back to the beginning of those on probation
 
-41While on probation, he committed one unconcealed offense of intentional emission of semen. He told the monks: “I had committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to give me probation for five days for that offense, which it did. While on probation, I committed one unconcealed offense of intentional emission of semen. What should I do now?” They told the Buddha.
+41While on probation, he committed one unconcealed offense of intentional emission of semen. He told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to give me probation for five days for that offense, which it did. While on probation, I committed one unconcealed offense of intentional emission of semen. What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should send the monk Udāyī back to the beginning for one unconcealed offense of intentional emission of semen, committed while on probation.
 
 And it should be done like this.
 
 
-42The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+42The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I had committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to give me probation for five days for that offense, which it did. While on probation, I committed one unconcealed offense of intentional emission of semen. I ask the Saṅgha to send me back to the beginning for that offense.’ And he should ask a second and a third time.
 
@@ -197,14 +197,14 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.8 Sending back to the beginning of those deserving the trial period
 
-47When he had completed that probation, while deserving the trial period, he committed one unconcealed offense of intentional emission of semen. He told the monks:
+47When he had completed that probation, while deserving the trial period, he committed one unconcealed offense of intentional emission of semen. He told the bhikkhus:
 
 “I had committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to give me probation for five days for that offense, which it did. While on probation, I committed one unconcealed offense of intentional emission of semen. I asked the Saṅgha to send me back to the beginning for that offense, which it did. When I had completed the probation, while deserving the trial period, I committed one unconcealed offense of intentional emission of semen. What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should send the monk Udāyī back to the beginning for one unconcealed offense of intentional emission of semen, committed while deserving the trial period. And it should be done like this.
 
 
-48The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+48The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I had committed one offense of intentional emission of semen, concealed for five days. … When I had completed the probation, while deserving the trial period, I committed one unconcealed offense of intentional emission of semen. I ask the Saṅgha to send me back to the beginning for that offense.’ And he should ask a second and a third time.
 
@@ -222,11 +222,11 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.9 Trial period for the three offenses
 
-53When he had completed that probation, he told the monks: “I had committed one offense of intentional emission of semen, concealed for five days … I’ve now completed the probation. What should I do next?” They told the Buddha.
+53When he had completed that probation, he told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for five days … I’ve now completed the probation. What should I do next?” They told the Buddha.
 
 “Well then, the Saṅgha should give the monk Udāyī the trial period of six days for the three offenses. And it should be given like this.
 
-54The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+54The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I had committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to give me probation for five days for that offense, which it did. … I’ve now completed that probation and ask the Saṅgha for the trial period of six days for the three offenses.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -241,9 +241,9 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.10 Sending back to the beginning of those undertaking the trial period
 
-59While he was undertaking the trial period, he committed one unconcealed offense of intentional emission of semen. He told the monks: “I had committed one offense of intentional emission of semen, concealed for five days. … While undertaking the trial period, I committed one unconcealed offense of intentional emission of semen. What should I do now?” They told the Buddha.
+59While he was undertaking the trial period, he committed one unconcealed offense of intentional emission of semen. He told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for five days. … While undertaking the trial period, I committed one unconcealed offense of intentional emission of semen. What should I do now?” They told the Buddha.
 
-“Well then, the Saṅgha should send the monk Udāyī back to the beginning for one unconcealed offense of intentional emission of semen, committed while undertaking the trial period. It should then give him the trial period of six days. And he should be sent back to the beginning like this. The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+“Well then, the Saṅgha should send the monk Udāyī back to the beginning for one unconcealed offense of intentional emission of semen, committed while undertaking the trial period. It should then give him the trial period of six days. And he should be sent back to the beginning like this. The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I had committed one offense of intentional emission of semen, concealed for five days. … While undertaking the trial period, I committed one unconcealed offense of intentional emission of semen. I ask the Saṅgha to send me back to the beginning for that offense.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -252,7 +252,7 @@ A competent and capable monk should then inform the Saṅgha:
 
 61And he should be given the trial period of six days like this.
 
-The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 
 ‘Venerables, I had committed one offense of intentional emission of semen, concealed for five days. … While undertaking the trial period, I committed one unconcealed offense of intentional emission of semen. I asked the Saṅgha to send me back to the beginning for that offense, which it did. I now ask the Saṅgha for the trial period of six days for that offense.’
@@ -266,7 +266,7 @@ The monk Udāyī should approach the Saṅgha, put his upper robe over one shoul
 
 #### 1.11 Sending back to the beginning of those deserving rehabilitation
 
-65When he had completed that trial period, while deserving rehabilitation, he committed one unconcealed offense of intentional emission of semen. He told the monks: “I had committed one offense of intentional emission of semen, concealed for five days. … When I had completed the trial period, while deserving rehabilitation, I committed one unconcealed offense of intentional emission of semen. What should I do now?” They told the Buddha.
+65When he had completed that trial period, while deserving rehabilitation, he committed one unconcealed offense of intentional emission of semen. He told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for five days. … When I had completed the trial period, while deserving rehabilitation, I committed one unconcealed offense of intentional emission of semen. What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should send the monk Udāyī back to the beginning for one unconcealed offense of intentional emission of semen, committed while deserving rehabilitation. It should then give him the trial period of six days. And he should be sent back to the beginning like this. …
 
@@ -276,12 +276,12 @@ The monk Udāyī should approach the Saṅgha, put his upper robe over one shoul
 
 #### 1.12 Rehabilitation of those sent back to the beginning
 
-68When he had completed that trial period, he told the monks: “I had committed one offense of intentional emission of semen, concealed for five days. … I’ve now completed the trial period. What should I do next?” They told the Buddha.
+68When he had completed that trial period, he told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for five days. … I’ve now completed the trial period. What should I do next?” They told the Buddha.
 
 “Well then, the Saṅgha should rehabilitate the monk Udāyī. And it should be done like this.
 
 
-69The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+69The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I had committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to give me probation for five days for that offense, which it did. While on probation, I committed one unconcealed offense of intentional emission of semen. I asked the Saṅgha to send me back to the beginning for that offense, which it did. When I had completed the probation, while deserving the trial period, I committed one unconcealed offense of intentional emission of semen. I asked the Saṅgha to send me back to the beginning for that offense, which it did. When I had completed the probation, I asked the Saṅgha to give me the trial period of six days, which it did. While undertaking the trial period, I committed one unconcealed offense of intentional emission of semen. I asked the Saṅgha to send me back to the beginning for that offense, which it did. I then asked the Saṅgha to give me the trial period for that offense, which it did. When I had completed that trial period, while deserving rehabilitation, I committed one unconcealed offense of intentional emission of semen. I asked the Saṅgha to send me back to the beginning for that offense, which it did. I then asked the Saṅgha to give me the trial period for that offense, which it did. I’ve now completed the trial period and ask the Saṅgha for rehabilitation.’
 
@@ -301,11 +301,11 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.13 Probation for those with offenses concealed for a half-month
 
-75On one occasion Venerable Udāyī had committed one offense of intentional emission of semen, concealed for a half-month. He told the monks about this, adding: “What should I do now?” They told the Buddha.
+75On one occasion Venerable Udāyī had committed one offense of intentional emission of semen, concealed for a half-month. He told the bhikkhus about this, adding: “What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should give the monk Udāyī probation for a half-month for one offense of intentional emission of semen, concealed for a half-month. And it should be given like this.
 
-76The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+76The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I’ve committed one offense of intentional emission of semen, concealed for a half-month. I ask the Saṅgha for probation for a half-month for that offense.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -320,12 +320,12 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.14 Sending back to the beginning of those on probation for a half-month
 
-81While on probation, he committed one offense of intentional emission of semen, concealed for five days. He told the monks: “I had committed one offense of intentional emission of semen, concealed for a half-month. I asked the Saṅgha to give me probation for a half-month for that offense, which it did. While on probation, I committed one offense of intentional emission of semen, concealed for five days. What should I do now?” They told the Buddha.
+81While on probation, he committed one offense of intentional emission of semen, concealed for five days. He told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for a half-month. I asked the Saṅgha to give me probation for a half-month for that offense, which it did. While on probation, I committed one offense of intentional emission of semen, concealed for five days. What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should send the monk Udāyī back to the beginning for one offense of intentional emission of semen, concealed for five days and committed while on probation, and it should then give him probation simultaneous with the probation for the previous offense. And he should be sent back to the beginning like this.
 
 
-82The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+82The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I had committed one offense of intentional emission of semen, concealed for a half-month. I asked the Saṅgha to give me probation for a half-month for that offense, which it did. While on probation, I committed one offense of intentional emission of semen, concealed for five days. I ask the Saṅgha to send me back to the beginning for that offense.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -340,7 +340,7 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.15 Simultaneous probations
 
-87“And he should be given probation simultaneous with probation for the previous offense like this. The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+87“And he should be given probation simultaneous with probation for the previous offense like this. The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘I had committed one offense of intentional emission of semen, concealed for a half-month. I asked the Saṅgha to give me probation for a half-month for that offense, which it did. While on probation, I committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to send me back to the beginning for that offense, which it did. I now ask the Saṅgha for probation for that offense, simultaneous with the probation for the previous offense.’
 
@@ -357,7 +357,7 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.16 Sending back to the beginning of those deserving the trial period, etc.
 
-93When he had completed that probation, while deserving the trial period, he committed one offense of intentional emission of semen, concealed for five days. He told the monks: “I had committed one offense of intentional emission of semen, concealed for a half-month. … When I had completed the probation, while deserving the trial period, I committed one offense of intentional emission of semen, concealed for five days. What should I do now?” They told the Buddha.
+93When he had completed that probation, while deserving the trial period, he committed one offense of intentional emission of semen, concealed for five days. He told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for a half-month. … When I had completed the probation, while deserving the trial period, I committed one offense of intentional emission of semen, concealed for five days. What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should send the monk Udāyī back to the beginning for one offense of intentional emission of semen—concealed for five days and committed while deserving the trial period—and it should then give him probation simultaneous with probation for the previous offense. And he should be sent back to the beginning like this. …
 
@@ -368,11 +368,11 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.17 Trial period for the three offenses
 
-96When he had completed that probation, he told the monks: “I had committed one offense of intentional emission of semen, concealed for a half-month … I’ve now completed the probation. What should I do next?” They told the Buddha.
+96When he had completed that probation, he told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for a half-month … I’ve now completed the probation. What should I do next?” They told the Buddha.
 
 “Well then, the Saṅgha should give the monk Udāyī the trial period of six days for the three offenses. And it should be given like this.
 
-97The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+97The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I had committed one offense of intentional emission of semen, concealed for a half-month. … I’ve now completed that probation and ask the Saṅgha for the trial period of six days for the three offenses.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -387,7 +387,7 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.18 Sending back to the beginning of those undertaking the trial period, etc.
 
-102While he was undertaking the trial period, he committed one offense of intentional emission of semen, concealed for five days. He told the monks: “I had committed one offense of intentional emission of semen, concealed for a half-month. … While undertaking the trial period, I committed one offense of intentional emission of semen, concealed for five days. What should I do now?” They told the Buddha.
+102While he was undertaking the trial period, he committed one offense of intentional emission of semen, concealed for five days. He told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for a half-month. … While undertaking the trial period, I committed one offense of intentional emission of semen, concealed for five days. What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should send the monk Udāyī back to the beginning for one offense of intentional emission of semen—concealed for five days and committed while undertaking the trial period—and it should then give him probation for that offense simultaneous with probation for the previous offense, and it should then give him the trial period of six days. And he should be sent back to the beginning like this. …
 
@@ -400,7 +400,7 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.19 Sending back to the beginning of those deserving rehabilitation, etc.
 
-106When he had completed that trial period, while deserving rehabilitation, he committed one offense of intentional emission of semen, concealed for five days. He told the monks: “I had committed one offense of intentional emission of semen, concealed for a half-month. … When I had completed the trial period, while deserving rehabilitation, I committed one offense of intentional emission of semen, concealed for five days. What should I do now?” They told the Buddha.
+106When he had completed that trial period, while deserving rehabilitation, he committed one offense of intentional emission of semen, concealed for five days. He told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for a half-month. … When I had completed the trial period, while deserving rehabilitation, I committed one offense of intentional emission of semen, concealed for five days. What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should send the monk Udāyī back to the beginning for one offense of intentional emission of semen—concealed for five days and committed while deserving rehabilitation—and it should then give him probation for that offense simultaneous with probation for the previous offense, and it should then give him the trial period of six days. And he should be sent back to the beginning like this. …
 
@@ -413,12 +413,12 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 1.20 Rehabilitation of those with offenses concealed for a half-month
 
-110When he had completed that trial period, he told the monks: “I had committed one offense of intentional emission of semen, concealed for a half-month. … I’ve now completed the trial period. What should I do next?” They told the Buddha.
+110When he had completed that trial period, he told the bhikkhus: “I had committed one offense of intentional emission of semen, concealed for a half-month. … I’ve now completed the trial period. What should I do next?” They told the Buddha.
 
 “Well then, the Saṅgha should rehabilitate the monk Udāyī. And it should be done like this.
 
 
-111The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+111The monk Udāyī should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I had committed one offense of intentional emission of semen, concealed for a half-month. I asked the Saṅgha to give me probation for a half-month for that offense, which it did. While on probation, I committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to send me back to the beginning for that offense, which it did. I then asked the Saṅgha to give me probation for that offense, simultaneous with the probation for the previous offense, which it did. When I had completed that probation, while deserving the trial period, I committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to send me back to the beginning for that offense, which it did. I then asked the Saṅgha to give me probation for that offense, simultaneous with the probation for the previous offense, which it did. When I had completed that probation, I asked the Saṅgha to give me the trial period of six days, which it did. While undertaking the trial period, I committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to send me back to the beginning for that offense, which it did. I then asked the Saṅgha to give me probation for that offense, simultaneous with the probation for the previous offense, which it did. When I had completed that probation, I asked the Saṅgha to give me the trial period of six days, which it did. When I had completed that trial period, while deserving rehabilitation, I committed one offense of intentional emission of semen, concealed for five days. I asked the Saṅgha to send me back to the beginning for that offense, which it did. I then asked the Saṅgha to give me probation for that offense, simultaneous with the probation for the previous offense, which it did. When I had completed that probation, I asked the Saṅgha to give me the trial period of six days, which it did. I’ve now completed the trial period and ask the Saṅgha for rehabilitation.’
 
@@ -449,12 +449,12 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 2.1 Simultaneous probations according to the longest duration
 
-118At one time a monk had committed a number of offenses entailing suspension: one concealed for one day, one for two days, one for three days, one for four days, one for five days, one for six days, one for seven days, one for eight days, one for nine days, and one for ten days. He told the monks about this, adding: “What should I do now?” They told the Buddha.
+118At one time a monk had committed a number of offenses entailing suspension: one concealed for one day, one for two days, one for three days, one for four days, one for five days, one for six days, one for seven days, one for eight days, one for nine days, and one for ten days. He told the bhikkhus about this, adding: “What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should give that monk simultaneous probation according to the longest duration, that is, for the offense that was concealed for ten days. And it should be given like this.
 
 
-119That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+119That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I’ve committed a number of offenses entailing suspension: one concealed for one day … one for ten days. I ask the Saṅgha for simultaneous probation according to the longest duration, that is, for the offense that was concealed for ten days.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -469,13 +469,13 @@ A competent and capable monk should then inform the Saṅgha:
 
 #### 2.2 Simultaneous probations according to the longest duration, that is, for all the offenses that were concealed the longest
 
-124At one time a monk had committed a number of offenses entailing suspension: one concealed for one day, two for two days, three for three days, four for four days, five for five days, six for six days, seven for seven days, eight for eight days, nine for nine days, ten for ten days. He told the monks about this, adding: “What should I do now?” They told the Buddha.
+124At one time a monk had committed a number of offenses entailing suspension: one concealed for one day, two for two days, three for three days, four for four days, five for five days, six for six days, seven for seven days, eight for eight days, nine for nine days, ten for ten days. He told the bhikkhus about this, adding: “What should I do now?” They told the Buddha.
 
 
 “Well then, the Saṅgha should give that monk simultaneous probation according to the longest duration, that is, for all the offenses that were concealed the longest. And it should be given like this.
 
 
-125That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+125That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I’ve committed a number of offenses entailing suspension: one concealed for one day … ten for ten days. I ask the Saṅgha for simultaneous probation according to the longest duration, that is, for all the offenses that were concealed the longest.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -492,11 +492,11 @@ A competent and capable monk should then inform the Saṅgha:
 
 130-131At one time a monk had committed two offenses entailing suspension, both concealed for two months. He thought: “I’ve committed two offenses entailing suspension, both concealed for two months. Let me ask the Saṅgha for probation for two months for one of those offenses.” He asked and got it. While on probation, he was overcome with guilt. He considered what he had done and thought: “Let me ask the Saṅgha for probation for two months for the other offense too.”
 
-He told the monks everything that had happened, adding: “What should I do now?” They told the Buddha.
+He told the bhikkhus everything that had happened, adding: “What should I do now?” They told the Buddha.
 
 “Well then, the Saṅgha should give that monk probation for two months for that offense. And it should be given like this.
 
-That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 
 132‘Venerables, I had committed two offenses entailing suspension, both concealed for two months. I thought: “I’ve committed two offenses entailing suspension, both concealed for two months. Let me ask the Saṅgha for probation for two months for one of those offenses.” I asked and got it. While on probation, I was overcome with guilt. I considered what I had done and thought: “Let me ask the Saṅgha for probation for two months for the other offense too.” And so I ask the Saṅgha for probation for two months for the other offense, concealed for two months.’
@@ -542,11 +542,11 @@ It may be that a monk has committed two offenses entailing suspension, both conc
 
 145At one time a monk committed two offenses entailing suspension, both concealed for two months. He thought, ‘I’ve committed two offenses entailing suspension, both concealed for two months. Let me ask the Saṅgha for probation for one month for those offenses.’ He asked and got it. While on probation, he was overcome with guilt. He considered all this and thought, ‘Let me ask the Saṅgha for probation for an additional month for those two offenses.’
 
-He told the monks everything, adding, ‘What should I do now?’ They told the Buddha.
+He told the bhikkhus everything, adding, ‘What should I do now?’ They told the Buddha.
 
 “Well then, the Saṅgha should give that monk probation for an additional month for those two offenses concealed for two months. And it should be given like this.
 
-That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I had committed two offenses entailing suspension, both concealed for two months. I thought, ‘I’ve committed two offenses entailing suspension, both concealed for two months. Let me ask the Saṅgha for probation for one month for those offenses.’ I asked and got it. While on probation, I was overcome with guilt. I considered all this and thought, ‘Let me ask the Saṅgha for probation for an additional month for those two offenses.’ I now ask the Saṅgha for probation for an additional month for those two offenses.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -584,12 +584,12 @@ Please, Venerables, I ask the Saṅgha to listen. The monk so-and-so had committ
 
 #### 2.5 Purifying probation
 
-160At one time a monk had committed a number of offenses entailing suspension. He did not know the number of offenses or the number of days; he did not remember the number of offenses or the number of days; he was unsure of the number of offenses and the number of days. He told the monks about this, adding: “What should I do now?” They told the Buddha.
+160At one time a monk had committed a number of offenses entailing suspension. He did not know the number of offenses or the number of days; he did not remember the number of offenses or the number of days; he was unsure of the number of offenses and the number of days. He told the bhikkhus about this, adding: “What should I do now?” They told the Buddha.
 
 
 “Well then, the Saṅgha should give that monk a purifying probation for those offenses. And it should be given like this.
 
-161That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say:
+161That monk should approach the Saṅgha, put his upper robe over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I’ve committed a number of offenses entailing suspension. I don’t know the number of offenses or the number of days; I don’t remember the number of offenses or the number of days; I’m unsure of the number of offenses and the number of days. I ask the Saṅgha for a purifying probation for those offenses.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
@@ -631,9 +631,9 @@ Please, Venerables, I ask the Saṅgha to listen. The monk so-and-so had committ
 > ```
 
 
-176At one time a monk on probation disrobed. He then came back and asked the monks for the full ordination. They told the Buddha.
+176At one time a monk on probation disrobed. He then came back and asked the bhikkhus for the full ordination. They told the Buddha.
 
-177“It may be, monks, that a monk on probation disrobes. For one who’s disrobed, the probation is suspended. If he’s given the full ordination again, he continues the previous probationary process right away. The probation that was given is valid. The probation he’s already undertaken is valid. And the remainder is to be undertaken.
+177“It may be, bhikkhus, that a monk on probation disrobes. For one who’s disrobed, the probation is suspended. If he’s given the full ordination again, he continues the previous probationary process right away. The probation that was given is valid. The probation he’s already undertaken is valid. And the remainder is to be undertaken.
 
 178It may be that a monk on probation becomes a novice monk. For a novice monk, the probation is suspended. If he’s given the full ordination again, he continues the previous probationary process right away. The probation that was given is valid. The probation he’s already undertaken is valid. And the remainder is to be undertaken.
 
@@ -817,7 +817,7 @@ Please, Venerables, I ask the Saṅgha to listen. The monk so-and-so had committ
 
 247The group of eight sections on “specified”, etc., is finished.
 
-### 8. The group of eleven sections on two monks ^8
+### 8. The group of eleven sections on two bhikkhus ^8
 
 > [!TIP]- Links to [[cv13-deepseek-pali#^8|Deep Seek Version]] and BMC2 
 > [[bmc2#^ch19|BMC Chapter 19]] and the following cites:
@@ -827,29 +827,29 @@ Please, Venerables, I ask the Saṅgha to listen. The monk so-and-so had committ
 > ```
 
 
-248Two monks have each committed an offense entailing suspension, and they regard it as such. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
+248Two bhikkhus have each committed an offense entailing suspension, and they regard it as such. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
 
-249Two monks have each committed an offense entailing suspension, but they are unsure of it. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
+249Two bhikkhus have each committed an offense entailing suspension, but they are unsure of it. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
 
-250Two monks have each committed an offense entailing suspension, but they regard it as mixed with other offenses. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
+250Two bhikkhus have each committed an offense entailing suspension, but they regard it as mixed with other offenses. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
 
-251Two monks have each committed an offense entailing suspension mixed with other offenses, but they regard them as an offense entailing suspension. One conceals his offenses, but not the other. The one who conceals them is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
+251Two bhikkhus have each committed an offense entailing suspension mixed with other offenses, but they regard them as an offense entailing suspension. One conceals his offenses, but not the other. The one who conceals them is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
 
-252Two monks have each committed an offense entailing suspension mixed with other offenses, and they regard them as such. One conceals his offenses, but not the other. The one who conceals them is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
+252Two bhikkhus have each committed an offense entailing suspension mixed with other offenses, and they regard them as such. One conceals his offenses, but not the other. The one who conceals them is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
 
-253Two monks have each committed a light offense, but they regard it as an offense entailing suspension. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. Both are then to be dealt with according to the rule.
+253Two bhikkhus have each committed a light offense, but they regard it as an offense entailing suspension. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. Both are then to be dealt with according to the rule.
 
-254Two monks have each committed a light offense, and they regard it as such. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. Both are then to be dealt with according to the rule.
+254Two bhikkhus have each committed a light offense, and they regard it as such. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. Both are then to be dealt with according to the rule.
 
-255Two monks have each committed an offense entailing suspension, and they regard it as such. One thinks: “I’ll inform,” while the other thinks: “I won’t inform.” He then conceals it during the first part of the night, during the second part of the night, and during the third part of the night. If he’s still concealing it at dawn, he has committed an offense and is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
+255Two bhikkhus have each committed an offense entailing suspension, and they regard it as such. One thinks: “I’ll inform,” while the other thinks: “I won’t inform.” He then conceals it during the first part of the night, during the second part of the night, and during the third part of the night. If he’s still concealing it at dawn, he has committed an offense and is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
 
-256Two monks have each committed an offense entailing suspension, and they regard it as such. They go, thinking: “We’ll inform.” On their way, one of them decides to conceal it, thinking: “I won’t inform.” He then conceals it during the first part of the night, during the second part of the night, and during the third part of the night. If he’s still concealing it at dawn, he has committed an offense and is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
+256Two bhikkhus have each committed an offense entailing suspension, and they regard it as such. They go, thinking: “We’ll inform.” On their way, one of them decides to conceal it, thinking: “I won’t inform.” He then conceals it during the first part of the night, during the second part of the night, and during the third part of the night. If he’s still concealing it at dawn, he has committed an offense and is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
 
-257Two monks have each committed an offense entailing suspension, and they regard it as such. They then go insane. When they regain their sanity, one conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
+257Two bhikkhus have each committed an offense entailing suspension, and they regard it as such. They then go insane. When they regain their sanity, one conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
 
-258Two monks have each committed an offense entailing suspension. During the recitation of the Monastic Code, they say: “Just now did we find out that this rule too has come down in the Monastic Code, is included in the Monastic Code, and comes up for recitation every half-month.” They regard it as an offense entailing suspension. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
+258Two bhikkhus have each committed an offense entailing suspension. During the recitation of the Monastic Code, they say: “Just now did we find out that this rule too has come down in the Monastic Code, is included in the Monastic Code, and comes up for recitation every half-month.” They regard it as an offense entailing suspension. One conceals his offense, but not the other. The one who conceals it is to confess an offense of wrong conduct. He should be given probation according to the length of that concealment, and both should then be given the trial period.
 
-259The group of eleven sections on two monks is finished.
+259The group of eleven sections on two bhikkhus is finished.
 
 ### 9. The group of nine on unpurified with sending back to the beginning ^9
 
@@ -861,7 +861,7 @@ Please, Venerables, I ask the Saṅgha to listen. The monk so-and-so had committ
 > ```
 
 
-260“It may be, monks, that a monk has committed a number of offenses entailing suspension, both specified and unspecified, both having the same name and having different names, both of the same kind and of different kinds, both of the same sort and of different sorts. He asks the Saṅgha for simultaneous probation for those offenses, which he gets. While on probation, he commits a number of offenses entailing suspension, unconcealed and specified. He asks the Saṅgha to send him back to the beginning for those offenses, which it does. The legal procedure is legitimate, irreversible, and fit to stand. The Saṅgha gives him the simultaneous probation legitimately, but then gives him the trial period and the rehabilitation illegitimately. He’s not purified of those offenses.
+260“It may be, bhikkhus, that a monk has committed a number of offenses entailing suspension, both specified and unspecified, both having the same name and having different names, both of the same kind and of different kinds, both of the same sort and of different sorts. He asks the Saṅgha for simultaneous probation for those offenses, which he gets. While on probation, he commits a number of offenses entailing suspension, unconcealed and specified. He asks the Saṅgha to send him back to the beginning for those offenses, which it does. The legal procedure is legitimate, irreversible, and fit to stand. The Saṅgha gives him the simultaneous probation legitimately, but then gives him the trial period and the rehabilitation illegitimately. He’s not purified of those offenses.
 
 261It may be that a monk has committed a number of offenses entailing suspension, both specified and unspecified, both having the same name and having different names, both of the same kind and of different kinds, both of the same sort and of different sorts. He asks the Saṅgha for simultaneous probation for those offenses, which he gets. While on probation, he commits a number of offenses entailing suspension, concealed and specified. He asks the Saṅgha to send him back to the beginning for those offenses, which it does. The legal procedure is legitimate, irreversible, and fit to stand. The Saṅgha gives him the simultaneous probation legitimately, but then gives him the trial period and the rehabilitation illegitimately. He’s not purified of those offenses.
 
@@ -935,7 +935,7 @@ Five days, a half-month, for ten,
 Offense, said the Great Sage.
 
 283And purifying, disrobing,  
-Specified, two monks;  
+Specified, two bhikkhus;  
 There both perceive accordingly,  
 And just the same for unsure.
 

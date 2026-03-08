@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain, not long after Devadatta had left. There the Buddha spoke to the mendicants about Devadatta:
+1At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain, not long after Devadatta had left. There the Buddha spoke to the bhikkhus about Devadatta:
 
-“Mendicants, it’s good for a mendicant to check their own failings from time to time. It’s good for a mendicant to check the failings of others from time to time. It’s good for a mendicant to check their own successes from time to time. It’s good for a mendicant to check the successes of others from time to time. Overcome and overwhelmed by eight things that oppose the true teaching, Devadatta is going to a place of loss, to hell, there to remain for an eon, irredeemable.
+“bhikkhus, it’s good for a bhikkhu to check their own failings from time to time. It’s good for a bhikkhu to check the failings of others from time to time. It’s good for a bhikkhu to check their own successes from time to time. It’s good for a bhikkhu to check the successes of others from time to time. Overcome and overwhelmed by eight things that oppose the true teaching, Devadatta is going to a place of loss, to hell, there to remain for an eon, irredeemable.
 
 
 2What eight?
@@ -30,15 +30,15 @@ language: "English - Pali"
 Overcome and overwhelmed by gain … loss … fame … disgrace … honor … dishonor … wicked desires … bad friendship, Devadatta is going to a place of loss, to hell, there to remain for an eon, irredeemable. Overcome and overwhelmed by these eight things that oppose the true teaching, Devadatta is going to a place of loss, to hell, there to remain for an eon, irredeemable.
 
 
-3It’s good for a mendicant, whenever they encounter it, to overcome gain … loss … fame … disgrace … honor … dishonor … wicked desires … bad friendship.
+3It’s good for a bhikkhu, whenever they encounter it, to overcome gain … loss … fame … disgrace … honor … dishonor … wicked desires … bad friendship.
 
 
-4What advantage does a mendicant gain by overcoming these eight things?
+4What advantage does a bhikkhu gain by overcoming these eight things?
 
-5The distressing and feverish defilements that might arise in someone who lives without overcoming these eight things do not arise when they have overcome them. This is the advantage that a mendicant gains by overcoming these eight things.
+5The distressing and feverish defilements that might arise in someone who lives without overcoming these eight things do not arise when they have overcome them. This is the advantage that a bhikkhu gains by overcoming these eight things.
 
 
-6So, mendicants, you should train like this: ‘Whenever we encounter it, we will overcome gain … loss … fame … disgrace … honor … dishonor … wicked desires … bad friendship.’ That’s how you should train.”
+6So, bhikkhus, you should train like this: ‘Whenever we encounter it, we will overcome gain … loss … fame … disgrace … honor … dishonor … wicked desires … bad friendship.’ That’s how you should train.”
 
 #### Pali
 

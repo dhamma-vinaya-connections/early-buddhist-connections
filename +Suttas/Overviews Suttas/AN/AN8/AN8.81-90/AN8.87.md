@@ -47,7 +47,7 @@ parallels_partilal: "[[PLI-TV-KD15]]"
 > Eight reasons the saṅgha may overturn the bowl against a lay follower
 
 > [!info] Key Excerpts 
-> To someone who try to prevent the mendicants from getting material possession,  hurt, insult, try to drive mendicants from a monastery, divide the Sangha, or criticize the Buddha , the teaching, and the saṅgha
+> To someone who try to prevent the bhikkhus from getting material possession,  hurt, insult, try to drive bhikkhus from a monastery, divide the Sangha, or criticize the Buddha , the teaching, and the saṅgha
 > 
 > The saṅgha may, if it wishes, turn the bowl upside down for a lay follower on these eight grounds
 > 

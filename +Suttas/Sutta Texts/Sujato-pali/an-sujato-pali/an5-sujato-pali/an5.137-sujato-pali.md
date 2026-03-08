@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five sleep little at night, staying mostly awake. What five? A woman longing for a man. A man longing for a woman. A thief longing for their loot. A king busy with his duties. A mendicant longing for freedom from attachment. These five sleep little at night, staying mostly awake.”
+1“bhikkhus, these five sleep little at night, staying mostly awake. What five? A woman longing for a man. A man longing for a woman. A thief longing for their loot. A king busy with his duties. A bhikkhu longing for freedom from attachment. These five sleep little at night, staying mostly awake.”
 
 1"Pañcime, bhikkhave, appaṁ rattiyā supanti, bahuṁ jagganti. Katame pañca? Itthī, bhikkhave, purisādhippāyā appaṁ rattiyā supati, bahuṁ jaggati. Puriso, bhikkhave, itthādhippāyo appaṁ rattiyā supati, bahuṁ jaggati. Coro, bhikkhave, ādānādhippāyo appaṁ rattiyā supati, bahuṁ jaggati. Rājā, bhikkhave, rājakaraṇīyesu yutto appaṁ rattiyā supati, bahuṁ jaggati. Bhikkhu, bhikkhave, visaṁyogādhippāyo appaṁ rattiyā supati, bahuṁ jaggati. Ime kho, bhikkhave, pañca appaṁ rattiyā supanti, bahuṁ jaggantī"ti.
 

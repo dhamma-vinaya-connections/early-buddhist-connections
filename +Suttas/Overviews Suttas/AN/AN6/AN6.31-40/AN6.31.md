@@ -44,12 +44,12 @@ parallels_partilal: "[[AN8.79]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Six things lead to the decline of a mendicant trainee.
+> Six things lead to the decline of a bhikkhu trainee.
 
 > [!info] Key Excerpts 
 > Not relishing work, talk, sleep, and company, being easy to admonish, and having good friends, don’t have wicked desires, and don’t stop half-way, guard the sense doors and don’t they eat too much, respect elders, they relish closeness and proliferation
 > 
-> As long as these seven principles that prevent decline last among mendicants they can expect growth, not decline
+> As long as these seven principles that prevent decline last among bhikkhus they can expect growth, not decline
 > 
 
 

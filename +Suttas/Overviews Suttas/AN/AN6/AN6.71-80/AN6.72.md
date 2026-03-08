@@ -44,7 +44,7 @@ parallels_partilal: "[[AN6.24]], [[AN7.40]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Six qualities that enable a mendicant to gain strength in meditation
+> Six qualities that enable a bhikkhu to gain strength in meditation
 
 > [!info] Key Excerpts 
 > Skilled in entering, remaining and emerging from samadhi  and they practice carefull,  persistently  and do what’s suitable.

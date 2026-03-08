@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“A nun … trainee nun … novice monk … novice nun … layman … laywoman … with five qualities is cast down to hell. What five? They kill living creatures, steal, commit sexual misconduct, lie, and use alcoholic drinks that cause negligence. With these five qualities they’re cast down to hell.
+1“A nun … trainee nun … novice bhikkhu … novice nun … layman … laywoman … with five qualities is cast down to hell. What five? They kill living creatures, steal, commit sexual misconduct, lie, and use alcoholic drinks that cause negligence. With these five qualities they’re cast down to hell.
 
-A nun … female intern … novice monk … novice nun … layman … laywoman … with five qualities is raised up to heaven. What five? They don’t kill living creatures, steal, commit sexual misconduct, lie, or use alcoholic drinks that cause negligence. With these five qualities they’re raised up to heaven.”
+A nun … female intern … novice bhikkhu … novice nun … layman … laywoman … with five qualities is raised up to heaven. What five? They don’t kill living creatures, steal, commit sexual misconduct, lie, or use alcoholic drinks that cause negligence. With these five qualities they’re raised up to heaven.”
 
 
 ---

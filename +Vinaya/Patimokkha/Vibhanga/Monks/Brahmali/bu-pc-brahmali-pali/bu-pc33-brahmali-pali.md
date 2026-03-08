@@ -20,9 +20,9 @@ language: "Pali - English"
 
 1At one time the Buddha was staying in the hall with the peaked roof in the Great Wood near Vesālī. At that time a succession of fine meals had been arranged in Vesālī. A certain poor worker thought, “Why don’t I prepare a meal? It must be really worthwhile, seeing as these people prepare a meal with such respect.”
 
-He then went to his boss Kira and said, “Sir, I wish to prepare a meal for the Sangha of monks headed by the Buddha. Please give me my salary.”
+He then went to his boss Kira and said, “Sir, I wish to prepare a meal for the Sangha of bhikkhus headed by the Buddha. Please give me my salary.”
 
-Because Kira also had faith and confidence, he gave the worker his salary and much extra. Soon afterwards that worker went to the Buddha, bowed, sat down, and said, “Venerable Sir, please accept a meal from me tomorrow together with the Sangha of monks.”
+Because Kira also had faith and confidence, he gave the worker his salary and much extra. Soon afterwards that worker went to the Buddha, bowed, sat down, and said, “Venerable Sir, please accept a meal from me tomorrow together with the Sangha of bhikkhus.”
 
 
 “The Sangha is large.”
@@ -31,11 +31,11 @@ Because Kira also had faith and confidence, he gave the worker his salary and mu
 
 2He got up from his seat, circumambulated the Buddha with his right side toward him, and left.
 
-The monks heard that a poor worker had invited the Sangha of monks headed by the Buddha on the following day for a meal supplemented with jujube drinks. And so they ate in the morning after walking for alms.
+The bhikkhus heard that a poor worker had invited the Sangha of bhikkhus headed by the Buddha on the following day for a meal supplemented with jujube drinks. And so they ate in the morning after walking for alms.
 
-When people heard that a poor worker had invited the Sangha of monks headed by the Buddha for a meal, they brought much food of various kinds to him. The following morning that worker prepared his food, and then had the Buddha informed that the meal was ready.
+When people heard that a poor worker had invited the Sangha of bhikkhus headed by the Buddha for a meal, they brought much food of various kinds to him. The following morning that worker prepared his food, and then had the Buddha informed that the meal was ready.
 
-3The Buddha robed up, took his bowl and robe and, together with the Sangha of monks, went to the house of that poor worker where he sat down on the prepared seat in the dining hall. The worker served the monks, but they kept saying, “Give just a little.”
+3The Buddha robed up, took his bowl and robe and, together with the Sangha of bhikkhus, went to the house of that poor worker where he sat down on the prepared seat in the dining hall. The worker served the bhikkhus, but they kept saying, “Give just a little.”
 
 “Venerables, don’t accept so little because you think I’m just a poor worker. I’ve prepared much food of various kinds. Please accept as much as you like.”
 
@@ -43,17 +43,17 @@ When people heard that a poor worker had invited the Sangha of monks headed by t
 
 4That poor worker complained and criticized them, “How could the venerables eat elsewhere when invited by me? Am I not able to give as much as they need?”
 
-5The monks heard the complaints of that worker, and the monks of few desires complained and criticized those monks, “How could those monks eat elsewhere when invited for a meal?” … “Is it true, monks, that monks did this?”
+5The bhikkhus heard the complaints of that worker, and the bhikkhus of few desires complained and criticized those bhikkhus, “How could those bhikkhus eat elsewhere when invited for a meal?” … “Is it true, bhikkhus, that bhikkhus did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How could those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 6‘If a monk eats a meal before another, he commits an offense entailing confession.’”
 
-7In this way the Buddha laid down this training rule for the monks.
+7In this way the Buddha laid down this training rule for the bhikkhus.
 
 
 8Soon afterwards a certain monk became sick. Another monk took some almsfood, went to that monk, and told him to eat it.
@@ -61,40 +61,40 @@ The Buddha rebuked them … “How could those foolish men do this? This will af
 “I can’t. I’m expecting another meal.”
 
 
-But since that almsfood only arrived at midday, that monk did not get to eat as much as he had intended. They told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+But since that almsfood only arrived at midday, that monk did not get to eat as much as he had intended. They told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow a sick monk to eat a meal before another.
+“bhikkhus, I allow a sick monk to eat a meal before another.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 9‘If a monk eats a meal before another, except on an appropriate occasion, he commits an offense entailing confession. This is the appropriate occasion: he is sick.’”
 
-10In this way the Buddha laid down this training rule for the monks.
+10In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-11Soon afterwards, during the robe-giving season, people prepared a meal together with robe-cloth and then invited the monks, saying, “We wish to offer a meal and give robe-cloth.” But knowing that the Buddha had prohibited eating a meal before another and being afraid of wrongdoing, they did not accept. As a result, they only got a small amount of robe-cloth. They told the Buddha. …
+11Soon afterwards, during the robe-giving season, people prepared a meal together with robe-cloth and then invited the bhikkhus, saying, “We wish to offer a meal and give robe-cloth.” But knowing that the Buddha had prohibited eating a meal before another and being afraid of wrongdoing, they did not accept. As a result, they only got a small amount of robe-cloth. They told the Buddha. …
 
-“Monks, I allow you to eat a meal before another during the robe-giving season.
+“bhikkhus, I allow you to eat a meal before another during the robe-giving season.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 12‘If a monk eats a meal before another, except on an appropriate occasion, he commits an offense entailing confession. These are the appropriate occasions: he is sick; it is the robe-giving season.’”
 
 
-13In this way the Buddha laid down this training rule for the monks.
+13In this way the Buddha laid down this training rule for the bhikkhus.
 
-14Soon afterwards people invited the robe-making monks for a meal. But knowing that the Buddha had prohibited eating a meal before another and being afraid of wrongdoing, they did not accept. They told the Buddha. …
+14Soon afterwards people invited the robe-making bhikkhus for a meal. But knowing that the Buddha had prohibited eating a meal before another and being afraid of wrongdoing, they did not accept. They told the Buddha. …
 
-“Monks, I allow you to eat a meal before another at a time when you are making robes.
+“bhikkhus, I allow you to eat a meal before another at a time when you are making robes.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
 15‘If a monk eats a meal before another, except on an appropriate occasion, he commits an offense entailing confession. These are the appropriate occasions: he is sick; it is the robe-giving season; it is a time of making robes.’”
 
 
-16In this way the Buddha laid down this training rule for the monks.
+16In this way the Buddha laid down this training rule for the bhikkhus.
 
 17Soon afterwards, after robing up in the morning, the Buddha took his bowl and robe and went to a certain family with Venerable Ānanda as his attendant. He sat down on the prepared seat, and the people there gave cooked food. Being afraid of wrongdoing, Ānanda did not accept it. The Buddha said, “Accept it, Ānanda.”
 
@@ -103,11 +103,11 @@ And so, monks, this training rule should be recited like this:
 
 “Well then, Ānanda, assign that meal to someone else and then receive this.”
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to eat a meal before another if you assign the other meal to someone else.
+“bhikkhus, I allow you to eat a meal before another if you assign the other meal to someone else.
 
-And, monks, this is how it should be assigned: ‘I give my expected meal to so-and-so.’”
+And, bhikkhus, this is how it should be assigned: ‘I give my expected meal to so-and-so.’”
 
 #### Definitions
 

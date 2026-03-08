@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a mendicant has five qualities they’re ready to frequent remote lodgings in the wilderness and the forest. What five?
+1“bhikkhus, when a bhikkhu has five qualities they’re ready to frequent remote lodgings in the wilderness and the forest. What five?
 
-It’s when a mendicant is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
+It’s when a bhikkhu is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
 
 They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s totally full and pure. They are very learned in such teachings, remembering them, reciting them, mentally scrutinizing them, and understanding them with right view.
@@ -35,7 +35,7 @@ They get the four jhānas — blissful meditations in the present life that belo
 They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 
 
-When a mendicant has these five qualities they’re ready to frequent remote lodgings in the wilderness and the forest.”
+When a bhikkhu has these five qualities they’re ready to frequent remote lodgings in the wilderness and the forest.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu alaṁ araññavanapatthāni pantāni senāsanāni paṭisevituṁ. Katamehi pañcahi?
 

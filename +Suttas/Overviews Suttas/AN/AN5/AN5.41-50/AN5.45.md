@@ -47,7 +47,7 @@ parallels_partilal: "[[AN4.51]]"
 > When offerings are used for deep meditation, the merit multiplies enormously
 
 > [!info] Key Excerpts 
-> When a mendicant enters and remains in a limitless immersion of heart while using a robe …alms-food … lodging … bed and chair … medicines
+> When a bhikkhu enters and remains in a limitless immersion of heart while using a robe …alms-food … lodging … bed and chair … medicines
 > 
 > When a noble disciple has these five kinds of overflowing merit and goodness, it’s not easy to grasp how much merit
 > 

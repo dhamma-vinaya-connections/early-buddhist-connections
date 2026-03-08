@@ -18,9 +18,9 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time the Gracious One was venerated, respected, revered, honoured, esteemed, and in receipt of robes, almsfood, dwellings, and medicinal requisites to help when sick; also the Community of monks was venerated, respected, revered, honoured, esteemed, and in receipt of robes, almsfood, dwellings, and medicinal requisites to help when sick. But wanderers from other sects were not venerated, not respected, not revered, not honoured, not esteemed, nor were they in receipt of robes, almsfood, dwellings, and medicinal requisites to help when sick.
+1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time the Gracious One was venerated, respected, revered, honoured, esteemed, and in receipt of robes, almsfood, dwellings, and medicinal requisites to help when sick; also the Community of bhikkhus was venerated, respected, revered, honoured, esteemed, and in receipt of robes, almsfood, dwellings, and medicinal requisites to help when sick. But wanderers from other sects were not venerated, not respected, not revered, not honoured, not esteemed, nor were they in receipt of robes, almsfood, dwellings, and medicinal requisites to help when sick.
 
-2Then those wanderers from other sects being unable to bear the veneration of the Gracious One and the Community of monks, went to the female wanderer Sundarī Beautiful, and after going, they said this to the female wanderer Sundarī: "Sister, what would you venture to do for your kinsmens’ welfare?"
+2Then those wanderers from other sects being unable to bear the veneration of the Gracious One and the Community of bhikkhus, went to the female wanderer Sundarī Beautiful, and after going, they said this to the female wanderer Sundarī: "Sister, what would you venture to do for your kinsmens’ welfare?"
 
 "What can I do, Masters, what am I unable to do? I have given up my life for my kinsmens’ welfare."
 
@@ -44,22 +44,22 @@ language: "English - Pali"
 
 6"See, Masters, what the Sakyan ascetics have done, shameless are these Sakyan ascetics, lacking in virtue, of bad character, speakers of what is false, not living the spiritual life. But they will claim that they live by Dhamma, live in peace, live spiritually, speak the truth, are virtuous, and are of good character. They have no asceticism, they have no spirituality, their asceticism has perished, their spirituality has perished. Where is their asceticism? Where is their spirituality? They have gone away from asceticism, they have gone away from spirituality. For what man, having done what a man can do, would deprive a woman of life?"
 
-7That at that time, the people in Sāvatthī, after seeing the monks, with vulgar and rough words scolded, abused, annoyed, and troubled them, saying:
+7That at that time, the people in Sāvatthī, after seeing the bhikkhus, with vulgar and rough words scolded, abused, annoyed, and troubled them, saying:
 
 8"Shameless are these Sakyan ascetics, lacking in virtue, of bad character, speakers of what is false, not living the spiritual life. But they will claim that they live by Dhamma, live in peace, live spiritually, speak the truth, are virtuous, and are of good character. They have no asceticism, they have no spirituality, their asceticism has perished, their spirituality has perished. Where is their asceticism? Where is their spirituality? They have gone away from asceticism, they have gone away from spirituality. For what man, having done what a man can do, would deprive a woman of life?"
 
-9Then many monks, having dressed in the morning time, after picking up their bowls and robes, entered Sāvatthī for alms, and after walking for alms in Sāvatthī, while returning from the alms-round after the meal, went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those monks said this to the Gracious One:
+9Then many bhikkhus, having dressed in the morning time, after picking up their bowls and robes, entered Sāvatthī for alms, and after walking for alms in Sāvatthī, while returning from the alms-round after the meal, went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those bhikkhus said this to the Gracious One:
 
-10"At present, reverend Sir, the people in Sāvatthī, after seeing the monks, with vulgar and rough words scold, abuse, annoy, and trouble them, saying: ‘Shameless are these Sakyan ascetics, lacking in virtue, of bad character, speakers of what is false, not living the spiritual life. But they will claim that they live by Dhamma, live in peace, live spiritually, speak the truth, are virtuous, and are of good character. They have no asceticism, they have no spirituality, their asceticism has perished, their spirituality has perished. Where is their asceticism? Where is their spirituality? They have gone away from asceticism, they have gone away from spirituality. For what man, having done what a man can do, would deprive a woman of life?’ "
+10"At present, reverend Sir, the people in Sāvatthī, after seeing the bhikkhus, with vulgar and rough words scold, abuse, annoy, and trouble them, saying: ‘Shameless are these Sakyan ascetics, lacking in virtue, of bad character, speakers of what is false, not living the spiritual life. But they will claim that they live by Dhamma, live in peace, live spiritually, speak the truth, are virtuous, and are of good character. They have no asceticism, they have no spirituality, their asceticism has perished, their spirituality has perished. Where is their asceticism? Where is their spirituality? They have gone away from asceticism, they have gone away from spirituality. For what man, having done what a man can do, would deprive a woman of life?’ "
 
-11"This noise will not last long, monks, it will last for only seven days, and with the passing of seven days it will disappear. So, monks, when those people, after seeing the monks, with vulgar and rough words scold, abuse, annoy, and trouble them, you should reprove them with this verse:
+11"This noise will not last long, bhikkhus, it will last for only seven days, and with the passing of seven days it will disappear. So, bhikkhus, when those people, after seeing the bhikkhus, with vulgar and rough words scold, abuse, annoy, and trouble them, you should reprove them with this verse:
 
 12"He who speaks what is untrue goes to the nether regions,  
 Also he who says ‘I did not do’ what he has done,  
 Both of those men who have performed base deeds  
 are the same when they have passed away, in the other world."
 
-13Then those monks, having mastered that verse in the presence of the Gracious One, when those people, after seeing the monks, with vulgar and rough words scolded, abused, annoyed, and troubled them, reproved them with this verse:
+13Then those bhikkhus, having mastered that verse in the presence of the Gracious One, when those people, after seeing the bhikkhus, with vulgar and rough words scolded, abused, annoyed, and troubled them, reproved them with this verse:
 
 14"He who speaks what is untrue goes to the nether regions,  
 Also he who says ‘I did not do’ what he has done,  
@@ -70,16 +70,16 @@ are the same when they have passed away, in the other world."
 
 That noise did not last long, it only lasted for seven days, and with the passing of seven days it disappeared.
 
-16Then many monks went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those monks said this to the Gracious One:
+16Then many bhikkhus went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those bhikkhus said this to the Gracious One:
 
-17"It is wonderful, reverend Sir, it is marvellous, reverend Sir, how well spoken that was, reverend Sir, by the Gracious One: ‘This noise will not last long, monks, it will last for only seven days, and with the passing of seven days it will disappear.’ That noise, reverend Sir, has disappeared."
+17"It is wonderful, reverend Sir, it is marvellous, reverend Sir, how well spoken that was, reverend Sir, by the Gracious One: ‘This noise will not last long, bhikkhus, it will last for only seven days, and with the passing of seven days it will disappear.’ That noise, reverend Sir, has disappeared."
 
 18Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 
 19"Unrestrained the people pierce others with words,  
 Like they pierce an elephant with arrows in a battle,  
 But having heard that rough speech broadcast around,  
-A monk should bear it with an uncorrupt mind."
+A bhikkhu should bear it with an uncorrupt mind."
 
 1Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhagavā sakkato hoti garukato mānito pūjito apacito lābhī cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkārānaṁ. Bhikkhusaṅghopi sakkato hoti garukato mānito pūjito apacito lābhī cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkārānaṁ. Aññatitthiyā pana paribbājakā asakkatā honti agarukatā amānitā apūjitā anapacitā na lābhino cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkārānaṁ.
 

@@ -15,7 +15,7 @@ language: "English"
 ## ## Abhisanda Sutta
 
 
-“Monks, there are these eight bonanzas of merit, rewards of skillfulness, nourishments of happiness, celestial, resulting in happiness, leading to heaven, leading to what is desirable, pleasurable, & appealing, to welfare & happiness. Which eight?
+“bhikkhus, there are these eight bonanzas of merit, rewards of skillfulness, nourishments of happiness, celestial, resulting in happiness, leading to heaven, leading to what is desirable, pleasurable, & appealing, to welfare & happiness. Which eight?
 
 “There is the case where a disciple of the noble ones has gone to the Buddha for refuge. This is the first bonanza of merit, bonanza of skillfulness, nourishment of happiness, celestial, resulting in happiness, leading to heaven, leading to what is desirable, pleasurable, & appealing; to welfare & to happiness.
 

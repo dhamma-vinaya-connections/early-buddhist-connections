@@ -7,33 +7,33 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
 > ◄  [[bu-pc52-horner]] 📜  [[bu-pc54-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 53
+# bhikkhus’ Expiation (_Pācittiya_) 53
 
-*Bu-Pc.53.1.1* *BD.2.390* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of seventeen monks were sporting in the water of the river Aciravatī. *Vin.4.112* Now at that time King Pasenadi, the Kosalan, came to be on the upper storey of the palace[^1] together with Queen Mallikā. King Pasenadi, the Kosalan, saw the group of seventeen monks sporting in the water of the river Aciravati; seeing them he spoke thus to Queen Mallikā:
+*Bu-Pc.53.1.1* *BD.2.390* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of seventeen bhikkhus were sporting in the water of the river Aciravatī. *Vin.4.112* Now at that time King Pasenadi, the Kosalan, came to be on the upper storey of the palace[^1] together with Queen Mallikā. King Pasenadi, the Kosalan, saw the group of seventeen bhikkhus sporting in the water of the river Aciravati; seeing them he spoke thus to Queen Mallikā:
 
 “Mallikā, these who are sporting in the water are men perfected.”[^2]
 
-“Undoubtedly, sire, a rule of training has not been laid down by the lord, or these monks are not conversant[^3] (with it).”
+“Undoubtedly, sire, a rule of training has not been laid down by the lord, or these bhikkhus are not conversant[^3] (with it).”
 
 Then it occurred to King Pasenadi, the Kosalan:
 
-“Is there not some device by which I would not speak to the lord but (yet) the lord would know that these monks sported in the water?”
+“Is there not some device by which I would not speak to the lord but (yet) the lord would know that these bhikkhus sported in the water?”
 
-Then King Pasenadi, the Kosalan, having had the group of seventeen monks summoned, gave them a large sugar-ball,[^4] saying:
+Then King Pasenadi, the Kosalan, having had the group of seventeen bhikkhus summoned, gave them a large sugar-ball,[^4] saying:
 
 “Honoured sirs, give this sugar-ball to the lord.”
 
-The group of seventeen monks, taking that sugar-ball, approached the lord, and having approached they spoke thus to the lord:
+The group of seventeen bhikkhus, taking that sugar-ball, approached the lord, and having approached they spoke thus to the lord:
 
 “Lord, King Pasenadi, the Kosalan, gives this sugar-ball to the lord.”
 
-“But, monks, where did the King see you?”
+“But, bhikkhus, where did the King see you?”
 
 *BD.2.391* “Sporting in the water of the river Aciravatī, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, sport in the water? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, sport in the water? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
 “In playing[^5] in the water, there is an offence of expiation.”
 
@@ -55,7 +55,7 @@ The Third
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

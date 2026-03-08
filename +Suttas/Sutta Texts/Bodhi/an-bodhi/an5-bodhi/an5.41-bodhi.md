@@ -38,7 +38,7 @@ I have given an uplifting offering,
 
 and performed the five oblations.
 
-I have served the virtuous monks,
+I have served the virtuous bhikkhus,
 
 the self-controlled celibate ones.
 

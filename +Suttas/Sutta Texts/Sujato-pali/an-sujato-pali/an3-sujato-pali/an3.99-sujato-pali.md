@@ -22,30 +22,30 @@ language: "English - Pali"
 
 1“Jute canvas is ugly, unpleasant to touch, and worthless whether it’s new, worn in, or worn out. They use worn out jute canvas for scrubbing pots, or else they just throw it away on the rubbish heap.
 
-2In the same way, if a junior mendicant is unethical, of bad character, this is how they’re ugly, I say. That person is just as ugly as jute canvas. If you associate with, accompany, and attend to that person, following their example, it’ll be for your lasting harm and suffering. This is how they’re unpleasant to touch, I say. That person is just as unpleasant to touch as jute canvas. Any robes, alms-food, lodgings, and medicines and supplies for the sick that they receive are not very fruitful or beneficial for the donor. This is how they’re worthless, I say. That person is just as worthless as jute canvas.
+2In the same way, if a junior bhikkhu is unethical, of bad character, this is how they’re ugly, I say. That person is just as ugly as jute canvas. If you associate with, accompany, and attend to that person, following their example, it’ll be for your lasting harm and suffering. This is how they’re unpleasant to touch, I say. That person is just as unpleasant to touch as jute canvas. Any robes, alms-food, lodgings, and medicines and supplies for the sick that they receive are not very fruitful or beneficial for the donor. This is how they’re worthless, I say. That person is just as worthless as jute canvas.
 
 
-If a middle mendicant is unethical, of bad character, this is how they’re ugly, I say. …
+If a middle bhikkhu is unethical, of bad character, this is how they’re ugly, I say. …
 
 
-If a senior mendicant is unethical, of bad character, this is how they’re ugly, I say. … If you associate with, accompany, and attend to that person, following their example, it’ll be for your lasting harm and suffering. …
+If a senior bhikkhu is unethical, of bad character, this is how they’re ugly, I say. … If you associate with, accompany, and attend to that person, following their example, it’ll be for your lasting harm and suffering. …
 
 
-3If such a senior mendicant speaks among the Saṅgha, the mendicants say: ‘What’s an incompetent fool like you got to say? How on earth could you imagine you’ve got something worth saying!’ That person becomes angry and upset, and blurts out things that make the Saṅgha throw them out, as if they were throwing jute canvas away on the rubbish heap.
+3If such a senior bhikkhu speaks among the Saṅgha, the bhikkhus say: ‘What’s an incompetent fool like you got to say? How on earth could you imagine you’ve got something worth saying!’ That person becomes angry and upset, and blurts out things that make the Saṅgha throw them out, as if they were throwing jute canvas away on the rubbish heap.
 
 
 4Cloth from Kāsī is beautiful, pleasant to touch, and valuable whether it’s new, worn in, or worn out. They use worn out cloth from Kāsī for wrapping, or else they place it in a fragrant casket.
 
 
-5In the same way, if a junior mendicant is ethical, of good character, this is how they’re beautiful, I say. That person is just as beautiful as cloth from Kāsī. If you associate with, accompany, and attend to such a person, following their example, it will be for your lasting welfare and happiness. This is how they’re pleasant to touch, I say. That person is just as pleasant to touch as cloth from Kāsī. Any robes, alms-food, lodgings, and medicines and supplies for the sick that they receive are very fruitful and beneficial for the donor. This is how they’re valuable, I say. That person is just as valuable as cloth from Kāsī.
+5In the same way, if a junior bhikkhu is ethical, of good character, this is how they’re beautiful, I say. That person is just as beautiful as cloth from Kāsī. If you associate with, accompany, and attend to such a person, following their example, it will be for your lasting welfare and happiness. This is how they’re pleasant to touch, I say. That person is just as pleasant to touch as cloth from Kāsī. Any robes, alms-food, lodgings, and medicines and supplies for the sick that they receive are very fruitful and beneficial for the donor. This is how they’re valuable, I say. That person is just as valuable as cloth from Kāsī.
 
 
-If a middle mendicant is ethical, of good character, this is how they’re beautiful, I say. …
+If a middle bhikkhu is ethical, of good character, this is how they’re beautiful, I say. …
 
-If a senior mendicant is ethical, of good character, this is how they’re beautiful, I say. …
+If a senior bhikkhu is ethical, of good character, this is how they’re beautiful, I say. …
 
 
-6If such a senior mendicant speaks in the midst of the Saṅgha, the mendicants say: ‘Venerables, be quiet! The senior mendicant is speaking on the teaching and training.’
+6If such a senior bhikkhu speaks in the midst of the Saṅgha, the bhikkhus say: ‘Venerables, be quiet! The senior bhikkhu is speaking on the teaching and training.’
 
 So you should train like this: ‘We will be like cloth from Kāsī, not like jute canvas.’ That’s how you should train.”
 

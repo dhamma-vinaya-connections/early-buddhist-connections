@@ -2,7 +2,7 @@
 sutta_code: "MA57"
 sutta_title:
   - "即為比丘說 "
-  - "Discourse Spoken for the Monks"
+  - "Discourse Spoken for the bhikkhus"
 sutta-version: "Patton"
 language: "English"
 ---
@@ -15,11 +15,11 @@ language: "English"
 
 ## Chapter 5: Related to Training
 
-### 57. A Teaching for the Monks
+### 57. A Teaching for the bhikkhus
 
 1. Thus I have heard:[1](#^ma57note01) One time, the Buddha traveled to Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma57note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “When the mind’s liberation isn’t complete yet and one wants to make it complete, there are five things to cultivate. What are the five? A monk is himself a good friend, in the company of good friends, and in harmony with good friends. This is the first thing to cultivate when someone wants to complete the mind’s liberation when it isn’t complete yet.
+2. It was then that the Bhagavān addressed the bhikkhus, “When the mind’s liberation isn’t complete yet and one wants to make it complete, there are five things to cultivate. What are the five? A monk is himself a good friend, in the company of good friends, and in harmony with good friends. This is the first thing to cultivate when someone wants to complete the mind’s liberation when it isn’t complete yet.
 
 3. “Furthermore, a monk cultivates the precepts and protects the Pratimokṣa. His behavior and manners are also well composed. Seeing a tiny misdeed, he’s constantly anxious about maintaining his training and precepts. This is the second thing to cultivate when someone wants to complete the mind’s liberation when it isn’t complete yet.
 
@@ -27,7 +27,7 @@ language: "English"
 
 5. “Furthermore, a monk always practices diligently to end bad and unskillful things and cultivate good things. He continuously motivates himself to be focused and stable, and he doesn’t abandon the methods for making roots of goodness. This is the fourth thing to cultivate when someone wants to complete the mind’s liberation when it isn’t complete yet.
 
-6. “Furthermore, a monks cultivates wisdom and observes the law of arising and passing away. Attaining such knowledge, which is a noble and wise insight, he discerns and clearly understands the correct way to end suffering. This is the fifth thing to cultivate when someone wants to complete the mind’s liberation when it isn’t complete yet.
+6. “Furthermore, a bhikkhus cultivates wisdom and observes the law of arising and passing away. Attaining such knowledge, which is a noble and wise insight, he discerns and clearly understands the correct way to end suffering. This is the fifth thing to cultivate when someone wants to complete the mind’s liberation when it isn’t complete yet.
 
 7. “Once he possesses these five things to cultivate, he cultivates another four things. What are the four? He contemplates the foul discharges to end desire. He cultivates kindness to end anger. He’s mindful of breathing in and out to end distracted thoughts. He cultivates the notion of impermanence to end self-pride.
 
@@ -43,7 +43,7 @@ language: "English"
 
 13. “If a monk gets the notion of impermanence, he’ll surely get the notion of selflessness. If a monk gets the notion of selflessness, then he’ll end all self-pride. Right here in the present, he’ll attain his rest, cessation, ending, the unconditioned, and _nirvāṇa_.”
 
-14. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+14. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

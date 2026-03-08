@@ -22,13 +22,13 @@ language: "English - Pali"
 > "VIN-MV10.1" file:bmc2 -queryblock
 > ```
 
-1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, a certain monk had committed an offense. He regarded it as an offense, but there were other monks who did not. Some time later he no longer regarded it as an offense, but there were other monks who did. They said to him: “You’ve committed an offense. Do you recognize it?”
+1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, a certain monk had committed an offense. He regarded it as an offense, but there were other bhikkhus who did not. Some time later he no longer regarded it as an offense, but there were other bhikkhus who did. They said to him: “You’ve committed an offense. Do you recognize it?”
 
 “No, I haven’t committed any offense that I should recognize.”
 
-Soon afterwards the monks achieved unanimity, and they ejected that monk for not recognizing the offense. But that monk was learned, a master of the tradition; he was an expert on the Teaching, the Monastic Law, and the Key Terms; he was knowledgeable and competent, had a sense of conscience, and was afraid of wrongdoing and fond of the training. He went to his friends and said: “This isn’t an offense, and so I haven’t committed any. And I haven’t been ejected, for the legal procedure was illegitimate, reversible, and unfit to stand. Please side with me, Venerables, in accordance with the Teaching and the Monastic Law.” He was able to form a faction. He then sent the same message to his friends in the country, and again he was able to form a faction.
+Soon afterwards the bhikkhus achieved unanimity, and they ejected that monk for not recognizing the offense. But that monk was learned, a master of the tradition; he was an expert on the Teaching, the Monastic Law, and the Key Terms; he was knowledgeable and competent, had a sense of conscience, and was afraid of wrongdoing and fond of the training. He went to his friends and said: “This isn’t an offense, and so I haven’t committed any. And I haven’t been ejected, for the legal procedure was illegitimate, reversible, and unfit to stand. Please side with me, Venerables, in accordance with the Teaching and the Monastic Law.” He was able to form a faction. He then sent the same message to his friends in the country, and again he was able to form a faction.
 
-The monks who sided with him went to the monks who had ejected him and said: “This isn’t an offense, and so this monk hasn’t committed any. He hasn’t been ejected, for the legal procedure was illegitimate, reversible, and unfit to stand.”
+The bhikkhus who sided with him went to the bhikkhus who had ejected him and said: “This isn’t an offense, and so this monk hasn’t committed any. He hasn’t been ejected, for the legal procedure was illegitimate, reversible, and unfit to stand.”
 
 They replied: “This is an offense, and he’s committed it. And he’s been ejected. The legal procedure was legitimate, irreversible, and fit to stand. Venerables, don’t side with this monk.” But they still sided with him.
 
@@ -36,47 +36,47 @@ They replied: “This is an offense, and he’s committed it. And he’s been ej
 2Soon afterwards a certain monk went to the Buddha, bowed, sat down, and told him all that had happened.
 
 
-3Realizing that the Saṅgha of monks was divided, the Buddha got up from his seat, went to those monks who had done the ejecting, and sat down on the prepared seat. He then said to those monks:
+3Realizing that the Saṅgha of bhikkhus was divided, the Buddha got up from his seat, went to those bhikkhus who had done the ejecting, and sat down on the prepared seat. He then said to those bhikkhus:
 
 “Don’t just eject a monk for any kind of offense merely because it seems clear to you that he’s committed it.
 
-4It may be that a monk has committed an offense. He doesn’t regard it as an offense, but there are other monks who do. If they know, ‘This monk is learned and a master of the tradition; he’s an expert on the Teaching, the Monastic Law, and the Key Terms; he’s knowledgeable and competent, has a sense of conscience, and is afraid of wrongdoing and fond of the training. If we eject him for not recognizing an offense, we won’t be to able do the observance-day ceremony with him. Because of this, there’ll be arguments and disputes in the Saṅgha; there’ll be schism, fracture, and separation in the Saṅgha,’ and if they understand the gravity of schism, they shouldn’t eject that monk.
+4It may be that a monk has committed an offense. He doesn’t regard it as an offense, but there are other bhikkhus who do. If they know, ‘This monk is learned and a master of the tradition; he’s an expert on the Teaching, the Monastic Law, and the Key Terms; he’s knowledgeable and competent, has a sense of conscience, and is afraid of wrongdoing and fond of the training. If we eject him for not recognizing an offense, we won’t be to able do the observance-day ceremony with him. Because of this, there’ll be arguments and disputes in the Saṅgha; there’ll be schism, fracture, and separation in the Saṅgha,’ and if they understand the gravity of schism, they shouldn’t eject that monk.
 
-5It may be that a monk has committed an offense. He doesn’t regard it as an offense, but there are other monks who do. If they know, ‘This monk is learned and a master of the tradition; he’s an expert on the Teaching, the Monastic Law, and the Key Terms; he’s knowledgeable and competent, has a sense of conscience, and is afraid of wrongdoing and fond of the training. If we eject him for not recognizing an offense, we won’t be able to do the invitation ceremony with him; we won’t be able to do legal procedures with him; we won’t share a seat with him; we won’t drink rice porridge with him; we won’t sit in the dining hall with him; we won’t stay in the same room with him; we won’t bow down, stand up, raise our joined palms, and do acts of respect for one another according to seniority. Because of this, there’ll be arguments and disputes in the Saṅgha; there’ll be schism, fracture, and separation in the Saṅgha,’ and if they understand the gravity of schism, they shouldn’t eject that monk.”
-
-
-6The Buddha got up from his seat, went to those monks who were siding with the ejected monk, and sat down on the prepared seat. He then said to those monks: “If you’ve committed an offense, don’t refuse to make amends for it just because you think that you haven’t committed it.
-
-7It may be that a monk has committed an offense. He doesn’t regard it as an offense, but there are other monks who do. If he knows, ‘These monks are learned and masters of the tradition; they’re experts on the Teaching, the Monastic Law, and the Key Terms; they’re knowledgeable and competent, have a sense of conscience, and are afraid of wrongdoing and fond of the training. They’re unlikely, because of me or anyone else, to act wrongly out of favoritism, ill will, confusion, or fear. And if these monks eject me for not recognizing an offense, they won’t be able do the observance-day ceremony with me. Because of this, there’ll be arguments and disputes in the Saṅgha; there’ll be schism, fracture, and separation in the Saṅgha,’ and if he understands the gravity of schism, he should confess the offense even out of confidence in the others.
-
-8It may be that a monk has committed an offense. He doesn’t regard it as an offense, but there are other monks who do. If he knows, ‘These monks are learned and masters of the tradition; they’re experts on the Teaching, the Monastic Law, and the Key Terms; they’re knowledgeable and competent, have a sense of conscience, and are afraid of wrongdoing and fond of the training. They’re unlikely, because of me or anyone else, to act wrongly out of favoritism, ill will, confusion, or fear. And if these monks eject me for not recognizing an offense, they won’t be able to do the invitation ceremony with me; they won’t be able to do legal procedures with me; they won’t share a seat with me; they won’t drink rice porridge with me; they won’t sit in the dining hall with me; they won’t stay in the same room with me; we won’t bow down, stand up, raise our joined palms, and do acts of respect for one another according to seniority. Because of this, there’ll be arguments and disputes in the Saṅgha; there’ll be schism, fracture, and separation in the Saṅgha,’ and if he understands the gravity of schism, he should confess the offense even out of confidence in the others.” The Buddha then got up from his seat and left.
+5It may be that a monk has committed an offense. He doesn’t regard it as an offense, but there are other bhikkhus who do. If they know, ‘This monk is learned and a master of the tradition; he’s an expert on the Teaching, the Monastic Law, and the Key Terms; he’s knowledgeable and competent, has a sense of conscience, and is afraid of wrongdoing and fond of the training. If we eject him for not recognizing an offense, we won’t be able to do the invitation ceremony with him; we won’t be able to do legal procedures with him; we won’t share a seat with him; we won’t drink rice porridge with him; we won’t sit in the dining hall with him; we won’t stay in the same room with him; we won’t bow down, stand up, raise our joined palms, and do acts of respect for one another according to seniority. Because of this, there’ll be arguments and disputes in the Saṅgha; there’ll be schism, fracture, and separation in the Saṅgha,’ and if they understand the gravity of schism, they shouldn’t eject that monk.”
 
 
-9Soon those monks who sided with the ejected monk did the observance-day ceremony and legal procedures right there within the monastery zone. But the monks who had ejected him went outside the monastery zone and did the observance-day ceremony and legal procedures there. One of the monks who had done the ejecting went to the Buddha, bowed, sat down, and told him what was happening.
+6The Buddha got up from his seat, went to those bhikkhus who were siding with the ejected monk, and sat down on the prepared seat. He then said to those bhikkhus: “If you’ve committed an offense, don’t refuse to make amends for it just because you think that you haven’t committed it.
 
-10The Buddha replied: “If those monks who side with the ejected monk do the observance-day ceremony and legal procedures right there within the monastery zone, and it’s in accordance with the motion and announcements as I’ve laid them down, then those procedures are legitimate, irreversible, and fit to stand. And if you, the monks who did the ejecting, do the observance-day ceremony and legal procedures right there within the monastery zone, and it’s in accordance with the motion and announcements as I’ve laid them down, then those procedures too are legitimate, irreversible, and fit to stand. This is so because you now belong to a different Buddhist sect.
+7It may be that a monk has committed an offense. He doesn’t regard it as an offense, but there are other bhikkhus who do. If he knows, ‘These bhikkhus are learned and masters of the tradition; they’re experts on the Teaching, the Monastic Law, and the Key Terms; they’re knowledgeable and competent, have a sense of conscience, and are afraid of wrongdoing and fond of the training. They’re unlikely, because of me or anyone else, to act wrongly out of favoritism, ill will, confusion, or fear. And if these bhikkhus eject me for not recognizing an offense, they won’t be able do the observance-day ceremony with me. Because of this, there’ll be arguments and disputes in the Saṅgha; there’ll be schism, fracture, and separation in the Saṅgha,’ and if he understands the gravity of schism, he should confess the offense even out of confidence in the others.
+
+8It may be that a monk has committed an offense. He doesn’t regard it as an offense, but there are other bhikkhus who do. If he knows, ‘These bhikkhus are learned and masters of the tradition; they’re experts on the Teaching, the Monastic Law, and the Key Terms; they’re knowledgeable and competent, have a sense of conscience, and are afraid of wrongdoing and fond of the training. They’re unlikely, because of me or anyone else, to act wrongly out of favoritism, ill will, confusion, or fear. And if these bhikkhus eject me for not recognizing an offense, they won’t be able to do the invitation ceremony with me; they won’t be able to do legal procedures with me; they won’t share a seat with me; they won’t drink rice porridge with me; they won’t sit in the dining hall with me; they won’t stay in the same room with me; we won’t bow down, stand up, raise our joined palms, and do acts of respect for one another according to seniority. Because of this, there’ll be arguments and disputes in the Saṅgha; there’ll be schism, fracture, and separation in the Saṅgha,’ and if he understands the gravity of schism, he should confess the offense even out of confidence in the others.” The Buddha then got up from his seat and left.
+
+
+9Soon those bhikkhus who sided with the ejected monk did the observance-day ceremony and legal procedures right there within the monastery zone. But the bhikkhus who had ejected him went outside the monastery zone and did the observance-day ceremony and legal procedures there. One of the bhikkhus who had done the ejecting went to the Buddha, bowed, sat down, and told him what was happening.
+
+10The Buddha replied: “If those bhikkhus who side with the ejected monk do the observance-day ceremony and legal procedures right there within the monastery zone, and it’s in accordance with the motion and announcements as I’ve laid them down, then those procedures are legitimate, irreversible, and fit to stand. And if you, the bhikkhus who did the ejecting, do the observance-day ceremony and legal procedures right there within the monastery zone, and it’s in accordance with the motion and announcements as I’ve laid them down, then those procedures too are legitimate, irreversible, and fit to stand. This is so because you now belong to a different Buddhist sect.
 
 11There are these two grounds for belonging to a different Buddhist sect. Either one makes oneself belong to a different Buddhist sect, or a unanimous assembly ejects one for not recognizing an offense, for not making amends for an offense, or for not giving up a bad view. And there are these two grounds for belonging to the same Buddhist sect. Either one makes oneself belong to the same Buddhist sect, or a unanimous assembly readmits one who had been ejected for not recognizing an offense, for not making amends for an offense, or for not giving up a bad view.”
 
 
-12At this time the monks were arguing and disputing in the dining halls in inhabited areas, behaving improperly by body and speech, such as grabbing one another. People complained and criticized them: “How can the Sakyan monastics behave like this?”
+12At this time the bhikkhus were arguing and disputing in the dining halls in inhabited areas, behaving improperly by body and speech, such as grabbing one another. People complained and criticized them: “How can the Sakyan monastics behave like this?”
 
-13The monks heard the complaints of those people, and the monks of few desires complained and criticized them: “How can monks behave like this?” They told the Buddha. … “Is it true, monks, that monks are behaving like this?”
+13The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized them: “How can bhikkhus behave like this?” They told the Buddha. … “Is it true, bhikkhus, that bhikkhus are behaving like this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … He then gave a teaching and addressed the monks:
+The Buddha rebuked them … He then gave a teaching and addressed the bhikkhus:
 
-“When the Saṅgha is divided and the monks are behaving contrary to the Teaching and are not on friendly terms, they should sit down and reflect, ‘We won’t behave improperly by body or speech, such as grabbing one another.’ When the Saṅgha is divided, but the monks are behaving in accordance with the Teaching and are on friendly terms, they should sit down one seat apart.”
+“When the Saṅgha is divided and the bhikkhus are behaving contrary to the Teaching and are not on friendly terms, they should sit down and reflect, ‘We won’t behave improperly by body or speech, such as grabbing one another.’ When the Saṅgha is divided, but the bhikkhus are behaving in accordance with the Teaching and are on friendly terms, they should sit down one seat apart.”
 
-14The monks were also arguing and disputing in the midst of the Saṅgha, attacking one another verbally, and were unable to resolve that legal issue. A certain monk went to the Buddha, bowed, and told him what was happening, adding, Venerable Sir, it would be good if you went to those monks out of compassion.” The Buddha consented by remaining silent.
+14The bhikkhus were also arguing and disputing in the midst of the Saṅgha, attacking one another verbally, and were unable to resolve that legal issue. A certain monk went to the Buddha, bowed, and told him what was happening, adding, Venerable Sir, it would be good if you went to those bhikkhus out of compassion.” The Buddha consented by remaining silent.
 
-15He then went to those monks, sat down on the prepared seat, and said:
+15He then went to those bhikkhus, sat down on the prepared seat, and said:
 
-“Enough, monks, don’t quarrel and dispute.”
+“Enough, bhikkhus, don’t quarrel and dispute.”
 
-A certain monk who spoke contrary to the Teaching replied: “Wait, Sir, you’re the Lord of the Teaching. Be at ease and enjoy the happiness of meditation. We’ll face the consequences of this quarrelling and disputing.” The Buddha repeated his appeal to those monks, but got the same reply.
+A certain monk who spoke contrary to the Teaching replied: “Wait, Sir, you’re the Lord of the Teaching. Be at ease and enjoy the happiness of meditation. We’ll face the consequences of this quarrelling and disputing.” The Buddha repeated his appeal to those bhikkhus, but got the same reply.
 
 #### 2. The account of Dīghāvu ^2
 
@@ -90,7 +90,7 @@ A certain monk who spoke contrary to the Teaching replied: “Wait, Sir, you’r
 
 16The Buddha then said,
 
-“At one time in Benares, monks, there was a king of Kāsī called Brahmadatta. He was rich and powerful, had many vehicles and transport animals, and possessed a large kingdom and much wealth. Then there was Dīghīti, the king of Kosala, who was poor and had little power, who had few vehicles and transport animals, and who possessed only a small kingdom and little wealth.
+“At one time in Benares, bhikkhus, there was a king of Kāsī called Brahmadatta. He was rich and powerful, had many vehicles and transport animals, and possessed a large kingdom and much wealth. Then there was Dīghīti, the king of Kosala, who was poor and had little power, who had few vehicles and transport animals, and who possessed only a small kingdom and little wealth.
 
 At one time King Brahmadatta, armed with his fourfold army, marched out to attack King Dīghīti. When King Dīghīti heard about this, he reflected on King Brahmadatta’s superior wealth and power, and he concluded, ‘I’m incapable of repelling even a single strike from Brahmadatta. Let me flee the town before he arrives.’
 
@@ -203,9 +203,9 @@ Soon afterwards the king said to Dīghāvu, ‘Dīghāvu, what’s the meaning o
 
 32The king thought, ‘It’s amazing how wise Dīghāvu is, seeing as he’s able to fully understand the meaning of his father’s brief statement.’ He gave him back his father’s army, his vehicles and transport animals, and his country and wealth. And he also gave him his own daughter.
 
-In this way, monks, those kings who had the authority to punish were actually patient and gentle. But right here, you who’ve gone forth on this well-proclaimed spiritual path, do you shine with your patience and gentleness?”
+In this way, bhikkhus, those kings who had the authority to punish were actually patient and gentle. But right here, you who’ve gone forth on this well-proclaimed spiritual path, do you shine with your patience and gentleness?”
 
-33A third time the Buddha said to those monks: “Enough, monks, don’t quarrel and dispute.” And a third time that monk who spoke contrary to the Teaching replied: “Wait, Sir, you’re the Lord of the Teaching. Be at ease and enjoy the happiness of meditation. We’ll face the consequences of this quarreling and disputing.”
+33A third time the Buddha said to those bhikkhus: “Enough, bhikkhus, don’t quarrel and dispute.” And a third time that monk who spoke contrary to the Teaching replied: “Wait, Sir, you’re the Lord of the Teaching. Be at ease and enjoy the happiness of meditation. We’ll face the consequences of this quarreling and disputing.”
 
 
 The Buddha thought: “These foolish men are consumed by emotions. It’s not easy to persuade them,” and he got up from his seat and left.
@@ -333,7 +333,7 @@ The Buddha instructed, inspired, and gladdened Bhagu with a teaching. He then go
 
 53The Buddha then instructed, inspired, and gladdened Venerable Anuruddha, Venerable Nandiya, and Venerable Kimila with a teaching. He then got up from his seat and set out wandering toward Pālileyyaka. When he eventually arrived, he stayed in a protected forest grove, at the foot of an auspicious sal tree.
 
-Then, while he was reflecting in private, the Buddha thought: “Previously, when I was surrounded by those quarreling monks at Kosambī, I wasn’t at ease. But now that I’m alone, away from those monks, I’m happy and at ease.”
+Then, while he was reflecting in private, the Buddha thought: “Previously, when I was surrounded by those quarreling bhikkhus at Kosambī, I wasn’t at ease. But now that I’m alone, away from those bhikkhus, I’m happy and at ease.”
 
 54At that time there was a large bull elephant who lived surrounded by a herd—by males and females, by juveniles and babies. He ate grass with the tips broken off and drank muddy water. Other elephants ate the branches that he had pulled down. And when he was immersed in a pool, the female elephants came rubbing their bodies against his. He considered this and thought, “Why don’t I leave the herd and stay by myself?”
 
@@ -352,11 +352,11 @@ Since they each delight in the forest solitude.”
 
 58When the Buddha had stayed at Pālileyyaka for as long as he liked, he set out wandering toward Sāvatthī. When he eventually arrived, he stayed in the Jeta Grove, Anāthapiṇḍika’s Monastery.
 
-Soon the lay followers in Kosambī considered: “These venerable monks at Kosambī have caused us much misfortune. The Buddha himself left because he was troubled by them. Well then, let’s not bow down, rise up, raise our joined palms, or do acts of respect for them. And let’s not honor, respect, esteem, or associate with them, nor give them almsfood. Then, they’ll either leave, disrobe, or reconcile with the Buddha.”
+Soon the lay followers in Kosambī considered: “These venerable bhikkhus at Kosambī have caused us much misfortune. The Buddha himself left because he was troubled by them. Well then, let’s not bow down, rise up, raise our joined palms, or do acts of respect for them. And let’s not honor, respect, esteem, or associate with them, nor give them almsfood. Then, they’ll either leave, disrobe, or reconcile with the Buddha.”
 
 And they did just that.
 
-Soon the monks at Kosambī said: “Well then, let’s go to Sāvatthī and resolve this legal issue in the presence of the Buddha.”
+Soon the bhikkhus at Kosambī said: “Well then, let’s go to Sāvatthī and resolve this legal issue in the presence of the Buddha.”
 
 #### 6. The account of the eighteen grounds ^6
 
@@ -368,9 +368,9 @@ Soon the monks at Kosambī said: “Well then, let’s go to Sāvatthī and reso
 > ```
 
 
-59The monks at Kosambī put their dwellings in order, took their bowls and robes, and went to Sāvatthī.
+59The bhikkhus at Kosambī put their dwellings in order, took their bowls and robes, and went to Sāvatthī.
 
-When Venerable Sāriputta heard that they were coming, he went to the Buddha, bowed, sat down, and told him, adding: “Venerable Sir, how should I act toward these monks?”
+When Venerable Sāriputta heard that they were coming, he went to the Buddha, bowed, sat down, and told him, adding: “Venerable Sir, how should I act toward these bhikkhus?”
 
 
 “Take your stand in accordance with the Teaching.”
@@ -422,31 +422,31 @@ When Venerable Sāriputta heard that they were coming, he went to the Buddha, bo
 18. and a minor offense as minor.”
 
 
-62-64When Venerable Mahāmoggallāna heard … When Venerable Mahākassapa heard … When Venerable Mahākaccāna heard … When Venerable Mahākoṭṭhika heard … When Venerable Mahākappina heard … When Venerable Mahācunda heard … When Venerable Anuruddha heard … When Venerable Revata heard … When Venerable Upāli heard … When Venerable Ānanda heard … When Venerable Rāhula heard that they were coming, he too went to the Buddha, bowed, sat down, and told him, adding: “Venerable Sir, how should I act toward these monks?”  
+62-64When Venerable Mahāmoggallāna heard … When Venerable Mahākassapa heard … When Venerable Mahākaccāna heard … When Venerable Mahākoṭṭhika heard … When Venerable Mahākappina heard … When Venerable Mahācunda heard … When Venerable Anuruddha heard … When Venerable Revata heard … When Venerable Upāli heard … When Venerable Ānanda heard … When Venerable Rāhula heard that they were coming, he too went to the Buddha, bowed, sat down, and told him, adding: “Venerable Sir, how should I act toward these bhikkhus?”  
   
 “Take your stand in accordance with the Teaching.”  
   
 “And how do I know what accords with the Teaching and what doesn’t?” The Buddha told him, too, about the eighteen grounds for knowing that someone is speaking contrary to the Teaching and the eighteen grounds for knowing that someone is speaking in accordance with the Teaching.
 
 
-65When Mahāpajāpati Gotamī heard that they were coming, she too went to the Buddha, bowed, and told him, adding: “Venerable Sir, how should I act toward these monks?”
+65When Mahāpajāpati Gotamī heard that they were coming, she too went to the Buddha, bowed, and told him, adding: “Venerable Sir, how should I act toward these bhikkhus?”
 
 
-“Well, Gotamī, listen to the teaching from both sides. Then approve of the views, beliefs, and persuasion of those who speak in accordance with the Teaching. And whatever support the Saṅgha of nuns seeks from the Saṅgha of monks, they should get it all from those who speak in accordance with the Teaching.”
+“Well, Gotamī, listen to the teaching from both sides. Then approve of the views, beliefs, and persuasion of those who speak in accordance with the Teaching. And whatever support the Saṅgha of nuns seeks from the Saṅgha of bhikkhus, they should get it all from those who speak in accordance with the Teaching.”
 
 
-66When Anāthapiṇḍika heard that they were coming, he too went to the Buddha, bowed, sat down, and told him, adding: “Venerable Sir, how should I act toward these monks?”
+66When Anāthapiṇḍika heard that they were coming, he too went to the Buddha, bowed, sat down, and told him, adding: “Venerable Sir, how should I act toward these bhikkhus?”
 
 
 “Well, householder, make offerings to both sides and listen to their teachings. Then approve of the views, beliefs, and persuasion of those who speak in accordance with the Teaching.”
 
 
-67When Visākhā Migāramātā heard that they were coming, she too went to the Buddha, bowed, sat down, and told him, adding: “Venerable Sir, how should I act toward these monks?”
+67When Visākhā Migāramātā heard that they were coming, she too went to the Buddha, bowed, sat down, and told him, adding: “Venerable Sir, how should I act toward these bhikkhus?”
 
 “Well, Visākhā, make offerings to both sides and listen to their teachings. Then approve of the views, beliefs, and persuasion of those who speak in accordance with the Teaching.”
 
 
-68Eventually those monks from Kosambī arrived at Sāvatthī. Venerable Sāriputta went to the Buddha, bowed, sat down, and told him, adding: “How should we prepare dwellings for these monks?”
+68Eventually those bhikkhus from Kosambī arrived at Sāvatthī. Venerable Sāriputta went to the Buddha, bowed, sat down, and told him, adding: “How should we prepare dwellings for these bhikkhus?”
 
 
 “Give them dwellings in a separate place.”
@@ -478,7 +478,7 @@ Under no circumstances, Sāriputta, should a dwelling be reserved for a more sen
 They then took that monk to the Buddha, bowed, sat down, and told him what had happened, adding: “Sir, what should we do now?”
 
 
-“This is an offense, monks, and this monk has committed it. He’s been ejected, for the legal procedure was legitimate, irreversible, and fit to stand. But since he recognizes this, he should be readmitted.”
+“This is an offense, bhikkhus, and this monk has committed it. He’s been ejected, for the legal procedure was legitimate, irreversible, and fit to stand. But since he recognizes this, he should be readmitted.”
 
 #### 8. Discussion of unity in the Saṅgha ^8
 
@@ -490,9 +490,9 @@ They then took that monk to the Buddha, bowed, sat down, and told him what had h
 > ```
 
 
-71Soon afterwards the monks who had been siding with the ejected monk readmitted him. They then went to the monks who had ejected him and said: “This monk has recognized that he had committed an offense and was ejected. He’s now been readmitted. Because of this, the basis for the arguments and disputes in the Saṅgha, for the schism, fracture, and separation in the Saṅgha, has been removed. To resolve this matter, let’s unify the Saṅgha.”
+71Soon afterwards the bhikkhus who had been siding with the ejected monk readmitted him. They then went to the bhikkhus who had ejected him and said: “This monk has recognized that he had committed an offense and was ejected. He’s now been readmitted. Because of this, the basis for the arguments and disputes in the Saṅgha, for the schism, fracture, and separation in the Saṅgha, has been removed. To resolve this matter, let’s unify the Saṅgha.”
 
-72The monks who had done the ejecting went to the Buddha, bowed, sat down, and told him what had happened, adding: “How should we proceed with this?”
+72The bhikkhus who had done the ejecting went to the Buddha, bowed, sat down, and told him what had happened, adding: “How should we proceed with this?”
 
 “This being the case, you should resolve this matter by unifying the Saṅgha. And it should be done like this. Everyone should gather in one place, including those who are sick. No-one should give their consent. A competent and capable monk should then inform the Saṅgha:
 
@@ -552,7 +552,7 @@ He’s neither diffident nor timid.
 His words are timely and pertinent;  
 He watchfully satisfies a discerning gathering.
 
-85Respectful of more senior monks,  
+85Respectful of more senior bhikkhus,  
 Having confidence in his teacher,  
 Able to investigate, clever in discussion,  
 Skilled in defeating his opponents.
@@ -564,7 +564,7 @@ Yet answers questions without hurting anyone.
 
 87He’s capable of acting as messenger,  
 And about the business of the Saṅgha, they speak to him.  
-When speaking, or sent out by the community of monks,  
+When speaking, or sent out by the community of bhikkhus,  
 He doesn’t think, ‘I’m doing it.’
 
 88As far as the actions by which one commits offenses,  
@@ -577,7 +577,7 @@ But once sent away one acts rightly,
 There’s readmittance for one who lives thus.  
 This too he knows, the one skilled in analysis.
 
-90Respectful of more senior monks,  
+90Respectful of more senior bhikkhus,  
 Yet whether junior, senior, or of middle standing,  
 The wise practice for the benefit of the many—  
 Such a monk is fit to deal with these.”

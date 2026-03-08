@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - "Motion-3proclamation"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC146"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC67]] 🌐 [[BU-PC69]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 7 Sappāṇaka-Vaggo - 7 Animals
 ## BU-PC68 - Antarāyika - Obstructions
 
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC146"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu evaṃ vadeyya \"tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā\"ti, so bhikkhu bhikkhūhi evamassa vacanīyo \"māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā\"ti. evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. no ce paṭinissajjeyya, pācittiyaṃ | If a monk says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the monks should correct him like this: “No, Venerable, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that monk continues as before, the monks should press him up to three times to make him give up that view. If he then gives it up, all is well. If he does not, he commits an offense entailing confession |
+| Yo pana bhikkhu evaṃ vadeyya \"tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā\"ti, so bhikkhu bhikkhūhi evamassa vacanīyo \"māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā\"ti. evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. no ce paṭinissajjeyya, pācittiyaṃ | If a monk says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the bhikkhus should correct him like this: “No, Venerable, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that monk continues as before, the bhikkhus should press him up to three times to make him give up that view. If he then gives it up, all is well. If he does not, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-PC146"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC68 | [[BNI-PC146]] | Vin.3.1–3.40 |
 

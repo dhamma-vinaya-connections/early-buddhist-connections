@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, an eon contains four uncountable periods. What four?
+1“bhikkhus, an eon contains four uncountable periods. What four?
 
 
 When an eon contracts, it’s not easy to calculate how many years, how many hundreds or thousands or hundreds of thousands of years it takes.

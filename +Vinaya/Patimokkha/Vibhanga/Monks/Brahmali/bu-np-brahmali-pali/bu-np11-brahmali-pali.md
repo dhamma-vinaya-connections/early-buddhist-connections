@@ -16,19 +16,19 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Āḷavī at the Aggāḷava Shrine, the monks from the group of six went to silk-makers and said, “Please boil a heap of silkworms and give us silk. We want to make a blanket containing silk.” The silk-makers complained and criticized them:
+1At one time when the Buddha was staying at Āḷavī at the Aggāḷava Shrine, the bhikkhus from the group of six went to silk-makers and said, “Please boil a heap of silkworms and give us silk. We want to make a blanket containing silk.” The silk-makers complained and criticized them:
 
 “How can the Sakyan monastics come and say such things to us? It’s our misfortune that we must kill many small creatures because of our livelihoods and because of our wives and children.”
 
-2The monks heard the complaints of those silk-makers, and the monks of few desires complained and criticized those monks, “How could the monks from the group of six go to silk-makers and say such a thing?”
+2The bhikkhus heard the complaints of those silk-makers, and the bhikkhus of few desires complained and criticized those bhikkhus, “How could the bhikkhus from the group of six go to silk-makers and say such a thing?”
 
-3After rebuking them in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks:
+3After rebuking them in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -44,7 +44,7 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 
 7**Has made:** If he makes a blanket that contains even one thread of silk, or he has one made, then for the effort there is an act of wrong conduct. When he gets the blanket, it becomes subject to relinquishment.
 
-The blanket should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The blanket should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this blanket containing silk, which I got made, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this blanket back to you.’”

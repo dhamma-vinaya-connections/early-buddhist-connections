@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the Realized One possesses six powers of a Realized One. With these he claims the bull’s place, roars his lion’s roar in the assemblies, and turns the holy wheel. What six?
+1“bhikkhus, the Realized One possesses six powers of a Realized One. With these he claims the bull’s place, roars his lion’s roar in the assemblies, and turns the holy wheel. What six?
 
 Firstly, the Realized One truly understands the possible as possible and the impossible as impossible. Since he truly understands this, this is a power of the Realized One. Relying on this he claims the bull’s place, roars his lion’s roar in the assemblies, and turns the holy wheel.
 
@@ -65,7 +65,7 @@ And true knowledge of the passing away and rebirth of sentient beings is for tho
 And true knowledge of the ending of defilements is for those with immersion, not for those without immersion.
 
 
-And so, mendicants, immersion is the path. No immersion is the wrong path.”
+And so, bhikkhus, immersion is the path. No immersion is the wrong path.”
 
 1"Chayimāni, bhikkhave, tathāgatassa tathāgatabalāni, yehi balehi samannāgato tathāgato āsabhaṁ ṭhānaṁ paṭijānāti, parisāsu sīhanādaṁ nadati, brahmacakkaṁ pavatteti. Katamāni cha?
 

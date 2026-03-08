@@ -26,7 +26,7 @@ language: "English - Pali"
 
 4"With steady body, with steady mind,  
 Whether standing, sitting, or lying down,  
-The monk who is thus determined on mindfulness,  
+The bhikkhu who is thus determined on mindfulness,  
 Can gain the earlier and following distinctions.  
 Having gained the earlier and following distinctions,  
 He can go beyond sight of the King of Death."

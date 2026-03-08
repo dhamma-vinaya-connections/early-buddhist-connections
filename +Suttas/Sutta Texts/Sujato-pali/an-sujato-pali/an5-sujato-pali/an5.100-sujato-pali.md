@@ -25,7 +25,7 @@ language: "English - Pali"
 At that time the Koliyan named Kakudha — Venerable Mahāmoggallāna’s attendant — had recently passed away and been reborn in a certain host of mind-made gods. He was reincarnated in a life-form that was two or three times the size of a Magadhan village with its fields. But with that life-form he didn’t obstruct himself or others.
 
 
-2Then the god Kakudha went up to Venerable Mahāmoggallāna, bowed, stood to one side. and said to him: “Sir, this fixed desire arose in Devadatta: ‘I will lead the mendicant Saṅgha.’ And as that thought arose, Devadatta lost that psychic power.”
+2Then the god Kakudha went up to Venerable Mahāmoggallāna, bowed, stood to one side. and said to him: “Sir, this fixed desire arose in Devadatta: ‘I will lead the bhikkhu Saṅgha.’ And as that thought arose, Devadatta lost that psychic power.”
 
 That’s what the god Kakudha said. Then he bowed and respectfully circled Mahāmoggallāna, keeping him on his right side, before vanishing right there.
 

@@ -2,7 +2,7 @@
 sutta_code: "AN5.231"
 sutta_title:
   - "Āvāsika "
-  - "Resident Mendicant"
+  - "Resident bhikkhu"
 sutta-version: "Deep Seek"
 language: "English - Pali"
 ---

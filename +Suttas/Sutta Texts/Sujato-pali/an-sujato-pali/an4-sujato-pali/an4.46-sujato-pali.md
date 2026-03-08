@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1Then, when the night had passed, the Buddha addressed the mendicants: “Tonight, the glorious god Rohitassa, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and said to me: ‘Sir, is it possible to know or see or reach the end of the world by traveling to a place where there’s no being born, growing old, dying, passing away, or being reborn?’ …
+1Then, when the night had passed, the Buddha addressed the bhikkhus: “Tonight, the glorious god Rohitassa, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and said to me: ‘Sir, is it possible to know or see or reach the end of the world by traveling to a place where there’s no being born, growing old, dying, passing away, or being reborn?’ …
 
 (The rest of this discourse is the same as the previous discourse, AN 4.45.)
 

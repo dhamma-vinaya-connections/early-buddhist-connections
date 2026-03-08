@@ -14,7 +14,7 @@ language: "English"
 
 > **Division:** II. THE GREAT CHAPTER
 
-On one occasion the Blessed One was wandering on tour among the Kosalans together with a large Saṅgha of monks when he reached the town of the Kālāmas named Kesaputta. The Kālāmas of Kesaputta heard: “It is said that the ascetic Gotama, the son of the Sakyans who went forth from a Sakyan family, has arrived at Kesaputta. Now a good report about that Master Gotama has circulated thus: ‘That Blessed One is an arahant, perfectly enlightened … \[as at 3:63\] … \[and\] reveals a spiritual life that is perfectly complete and pure.’ Now it is good to see such arahants.”
+On one occasion the Blessed One was wandering on tour among the Kosalans together with a large Saṅgha of bhikkhus when he reached the town of the Kālāmas named Kesaputta. The Kālāmas of Kesaputta heard: “It is said that the ascetic Gotama, the son of the Sakyans who went forth from a Sakyan family, has arrived at Kesaputta. Now a good report about that Master Gotama has circulated thus: ‘That Blessed One is an arahant, perfectly enlightened … \[as at 3:63\] … \[and\] reveals a spiritual life that is perfectly complete and pure.’ Now it is good to see such arahants.”
 
 Then the Kālāmas of Kesaputta approached the Blessed One. Some paid homage to the Blessed One and sat down to one side … \[as at 3:63\] … some kept silent and sat down to one side. Sitting to one side, the Kālāmas said to the Blessed One:
 

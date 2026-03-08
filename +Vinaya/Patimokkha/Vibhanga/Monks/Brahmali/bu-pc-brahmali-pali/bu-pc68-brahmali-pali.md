@@ -22,7 +22,7 @@ language: "Pali - English"
 “As I understand the Teaching of the Buddha, the things he calls obstacles are unable to obstruct one who indulges in them.”
 
 
-A number of monks heard that Ariṭṭha had that view. They went to him and asked, “Is it true, Ariṭṭha, that you have such a view?”
+A number of bhikkhus heard that Ariṭṭha had that view. They went to him and asked, “Is it true, Ariṭṭha, that you have such a view?”
 
 
 “Yes, indeed. As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them.”
@@ -31,7 +31,7 @@ A number of monks heard that Ariṭṭha had that view. They went to him and ask
 2“No, Ariṭṭha, don’t misrepresent the Buddha, for it’s not good to misrepresent him. The Buddha would never say such a thing. The Buddha has given many discourses about the obstacles being obstructive and how they obstruct one who indulges in them. The Buddha has said that there is little enjoyment in worldly pleasures, but much suffering and much trouble, and that the danger in them is greater. The Buddha has said that worldly pleasures are similar to a skeleton … similar to a piece of meat … similar to a grass torch … similar to a pit of coals … similar to a dream … similar to borrowed goods … similar to fruits on a tree … similar to a knife and chopping block … similar to swords and stakes … similar to a snake’s head; they are much suffering and much trouble, and the danger in them is greater.”
 
 
-3But even though the monks corrected Ariṭṭha like this, he stubbornly held on to that bad and erroneous view, and continued to insist on it. Since they were unable to make him give up that view, they went to the Buddha and told him what had happened. Soon afterwards the Buddha had the Sangha gathered and questioned Ariṭṭha:
+3But even though the bhikkhus corrected Ariṭṭha like this, he stubbornly held on to that bad and erroneous view, and continued to insist on it. Since they were unable to make him give up that view, they went to the Buddha and told him what had happened. Soon afterwards the Buddha had the Sangha gathered and questioned Ariṭṭha:
 
 
 “Is it true, Ariṭṭha, that you have such a view?”
@@ -41,11 +41,11 @@ A number of monks heard that Ariṭṭha had that view. They went to him and ask
 
 4“Foolish man, who do you think I have taught like this? Haven’t I given many discourses about the obstacles being obstructive and how they obstruct one who indulges in them? I have said that there is little enjoyment in worldly pleasures, but much suffering and much trouble, and that the danger in them is greater. I have said that worldly pleasures are similar to a skeleton … similar to a piece of meat … similar to a grass torch … similar to a pit of coals … similar to a dream … similar to borrowed goods … similar to fruits on a tree … similar to a knife and chopping block … similar to swords and stakes … similar to a snake’s head; they are much suffering and much trouble, and the danger in them is greater. And yet, foolish man, by misunderstanding you have misrepresented me, hurt yourself, and made much demerit. This will be for your long-lasting harm and suffering.
 
-This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-5‘If a monk says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the monks should correct him like this: “No, Venerable, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that monk continues as before, the monks should press him up to three times to make him give up that view. If he then gives it up, all is well. If he does not, he commits an offense entailing confession.’”
+5‘If a monk says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the bhikkhus should correct him like this: “No, Venerable, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that monk continues as before, the bhikkhus should press him up to three times to make him give up that view. If he then gives it up, all is well. If he does not, he commits an offense entailing confession.’”
 
 #### Definitions
 
@@ -56,9 +56,9 @@ This will affect people’s confidence …” … “And, monks, this training r
 8**Him:** the monk who speaks in that way.
 
 
-9**The monks:** other monks, those who see it or hear about it, They should correct him, “No, Venerable, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” And they should correct him a second and a third time. If he gives up that view, all is well. If he does not, he commits an offense of wrong conduct. If those who heard about it do not say anything, they commit an offense of wrong conduct.
+9**The bhikkhus:** other bhikkhus, those who see it or hear about it, They should correct him, “No, Venerable, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” And they should correct him a second and a third time. If he gives up that view, all is well. If he does not, he commits an offense of wrong conduct. If those who heard about it do not say anything, they commit an offense of wrong conduct.
 
-That monk, even if he has to be pulled into the Sangha, should be corrected like this: “No, Venerable, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” And they should correct him a second and a third time. If he gives up that view, all is well. If he does not, he commits an offense of wrong conduct. He should then be pressed. “And, monks, he should be pressed like this. A competent and capable monk should inform the Sangha:
+That monk, even if he has to be pulled into the Sangha, should be corrected like this: “No, Venerable, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” And they should correct him a second and a third time. If he gives up that view, all is well. If he does not, he commits an offense of wrong conduct. He should then be pressed. “And, bhikkhus, he should be pressed like this. A competent and capable monk should inform the Sangha:
 
 ‘Please, Venerables, I ask the Sangha to listen. Monk so-and-so has the following a bad and erroneous view:
 

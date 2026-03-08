@@ -33,7 +33,7 @@ Who here has escaped the seamstress?”
 1041 “Leading the spiritual life among sensual pleasures,”  
 replied the Buddha,  
 “rid of craving, ever mindful;  
-a mendicant who, after assessing, is quenched:  
+a bhikkhu who, after assessing, is quenched:  
 that’s who has no disturbances.
 
 1042 That thoughtful one, having known both ends,  

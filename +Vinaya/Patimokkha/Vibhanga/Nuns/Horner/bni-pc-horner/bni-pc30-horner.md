@@ -9,15 +9,15 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 30
 
-*Bi-Pc.30.1.1* *BD.3.302* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time a dwelling-place had been erected by a certain lay-follower for the Order. He, at the festival for this dwelling-place, was desirous of giving robe-material at the wrong time for both the Orders. Now at that time the _kaṭhina_ cloth for both the Orders was (formally) made. Then that lay-follower, having approached the Order,[^1] asked for the removal of the _kaṭhina_ (privileges).[^2] They told this matter to the lord. Then the lord on this occasion, in this connection, having given reasoned talk, addressed the monks, saying:
+*Bi-Pc.30.1.1* *BD.3.302* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time a dwelling-place had been erected by a certain lay-follower for the Order. He, at the festival for this dwelling-place, was desirous of giving robe-material at the wrong time for both the Orders. Now at that time the _kaṭhina_ cloth for both the Orders was (formally) made. Then that lay-follower, having approached the Order,[^1] asked for the removal of the _kaṭhina_ (privileges).[^2] They told this matter to the lord. Then the lord on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying:
 
-“I allow you, monks, to remove the _kaṭhina_ (privileges). And thus, monks, should the _kaṭhina_ (privileges) be removed: The Order should be informed by an experienced, competent monk, saying: ‘Honoured sirs, let the Order listen to me. If it seems right to the Order, let the Order remove the _kaṭhina_ (privileges). This is the motion. Honoured sirs, let the Order listen to me. The Order removes the _kaṭhina_ (privileges). If the removal of the _kaṭhina_ (privileges) is pleasing to the venerable ones, let them be silent. If it is not pleasing, they should speak. The _kaṭhina_ (privileges) are removed by the Order, and it is right … So do I understand this.’”
+“I allow you, bhikkhus, to remove the _kaṭhina_ (privileges). And thus, bhikkhus, should the _kaṭhina_ (privileges) be removed: The Order should be informed by an experienced, competent monk, saying: ‘Honoured sirs, let the Order listen to me. If it seems right to the Order, let the Order remove the _kaṭhina_ (privileges). This is the motion. Honoured sirs, let the Order listen to me. The Order removes the _kaṭhina_ (privileges). If the removal of the _kaṭhina_ (privileges) is pleasing to the venerable ones, let them be silent. If it is not pleasing, they should speak. The _kaṭhina_ (privileges) are removed by the Order, and it is right … So do I understand this.’”
 
 * * *
 
 *Bi-Pc.30.1.2* Then that lay-follower, having approached the Order of nuns, asked for the removal of the _kaṭhina_ (privileges). The nun Thullanandā, thinking, *Vin.4.288* “There will be *BD.3.303* robe-material for us,” held back the removal of the _kaṭhina_ (privileges). Then that lay-follower … spread it about, saying: “How can these nuns not give a removal of the _kaṭhina_ (privileges) for us?” Nuns heard that lay-follower who … spread it about. Those who were modest nuns … spread it about, saying: “How can the nun Thullanandā hold back a legally valid removal of the _kaṭhina_ (privileges)?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā held back a legally valid removal of the _kaṭhina_ (privileges)?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā held back a legally valid removal of the _kaṭhina_ (privileges)?”
 
 “It is true, lord “… see *Bi-Pc.27.1* “… this rule of training:
 

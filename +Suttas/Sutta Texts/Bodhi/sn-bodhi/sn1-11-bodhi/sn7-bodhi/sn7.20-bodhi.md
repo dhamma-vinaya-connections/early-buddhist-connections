@@ -2,7 +2,7 @@
 sutta_code: "SN7.20"
 sutta_title:
   - "Bhikkhakasutta "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "Ven. Bodhi"
 language: "English"
 ---
@@ -10,13 +10,13 @@ language: "English"
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
 > ◄  [[sn7.19-bodhi]] 📜  [[sn7.21-bodhi]] ►
 
-# SN7.20 The Mendicant
+# SN7.20 The bhikkhu
 
-At Sāvatthī. Then a mendicant brahmin approached the Blessed One … and said to him: “Master Gotama, I am a mendicant and you are a mendicant. What is the difference between us in this respect?”
+At Sāvatthī. Then a bhikkhu brahmin approached the Blessed One … and said to him: “Master Gotama, I am a bhikkhu and you are a bhikkhu. What is the difference between us in this respect?”
 
 \[The Blessed One:\]
 
-> 703 “It is not thus that one becomes a mendicant,  
+> 703 “It is not thus that one becomes a bhikkhu,  
 >   
 > Just because one begs others for alms.  
 >   
@@ -35,7 +35,7 @@ At Sāvatthī. Then a mendicant brahmin approached the Blessed One … and said 
 >   
 > He is truly called a bhikkhu.”
 
-When this was said, the mendicant brahmin said to the Blessed One: “Magnificent, Master Gotama! Magnificent, Master Gotama!… Let Master Gotama remember me as a lay follower who from today has gone for refuge for life.”
+When this was said, the bhikkhu brahmin said to the Blessed One: “Magnificent, Master Gotama! Magnificent, Master Gotama!… Let Master Gotama remember me as a lay follower who from today has gone for refuge for life.”
 
 
 ---

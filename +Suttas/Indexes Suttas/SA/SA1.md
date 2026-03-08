@@ -87,7 +87,7 @@ contribution:
 >  A true Dhamma speaker teaches for letting go of the aggregates
 
 > [!example]- 🌐[[SA27]] - 📜[Available texts](obsidian://search?query=file:sa27-) - SA 1.33 – Going from One Principle to the Next 
->  To practice in line with the teachings a mendicant should meditate on disillusionment with the aggregates
+>  To practice in line with the teachings a bhikkhu should meditate on disillusionment with the aggregates
 
 > [!example]- 🌐[[SA28]] - 📜[Available texts](obsidian://search?query=file:sa28-) - SA 1.34 – Nirvāṇa 
 >  
@@ -129,10 +129,10 @@ contribution:
 >  Consciousness is like a seed that is planted in the soil of the other four aggregates and watered with craving and attachment is what fuels the cycle of rebirth.
 
 > [!example]- 🌐[[SA41]] - 📜[Available texts](obsidian://search?query=file:sa41-) - SA 1.153 – Five Turns 
->  To be fully accomplished, a mendicant should investigate the five aggregates in light of the four noble truths, as well as their gratification, drawback, and escape. includes definitions of each of the aggregates.
+>  To be fully accomplished, a bhikkhu should investigate the five aggregates in light of the four noble truths, as well as their gratification, drawback, and escape. includes definitions of each of the aggregates.
 
 > [!example]- 🌐[[SA42]] - 📜[Available texts](obsidian://search?query=file:sa42-) - SA 1.154 – Seven Standpoints 
->  To be fully accomplished, a mendicant should investigate the five aggregates in light of the four noble truths, as well as their gratification, drawback, and escape. includes definitions of each of the aggregates.
+>  To be fully accomplished, a bhikkhu should investigate the five aggregates in light of the four noble truths, as well as their gratification, drawback, and escape. includes definitions of each of the aggregates.
 
 > [!example]- 🌐[[SA43]] - 📜[Available texts](obsidian://search?query=file:sa43-) - SA 1.155 – The Bound and Awakened 
 >  An ordinary person identifies their self with the five aggregates and suffers anxiety when the aggregates change. But a noble disciple, free of such identification, does not suffer
@@ -177,7 +177,7 @@ contribution:
 >  
 
 > [!example]- 🌐[[SA57]] - 📜[Available texts](obsidian://search?query=file:sa57-) - SA 1.169 – Self Pride 
->  Leaving behind the quarreling monks at kosambi, the Buddha  went to stay in the empty forest at pārileyyaka. Ānanda brings some mendicants to receive a teaching the Buddha  explains that the goal can be reached by a deep understanding of the five aggregates.
+>  Leaving behind the quarreling monks at kosambi, the Buddha  went to stay in the empty forest at pārileyyaka. Ānanda brings some bhikkhus to receive a teaching the Buddha  explains that the goal can be reached by a deep understanding of the five aggregates.
 
 > [!example]- 🌐[[SA59]] - 📜[Available texts](obsidian://search?query=file:sa59-) - SA 1.56 – Arising and Ceasing 
 >  
@@ -195,10 +195,10 @@ contribution:
 >  When you identify anything as self, you always identify one or other of the five aggregates. Contemplation of the five aggregates as not-self is the path to the end of identity.
 
 > [!example]- 🌐[[SA64]] - 📜[Available texts](obsidian://search?query=file:sa64-) - SA 1.61 – Udāna 
->  The Buddha  utters an enigmatic saying that non-identification leads to cutting off the fetters. A mendicant asks how to achieve this.
+>  The Buddha  utters an enigmatic saying that non-identification leads to cutting off the fetters. A bhikkhu asks how to achieve this.
 
 > [!example]- 🌐[[SA65]] - 📜[Available texts](obsidian://search?query=file:sa65-) - SA 1.62-73 – Feeling 
->  A mendicant should develop immersion (samādhi) and solitude in order to truly understand the origin and ending of the five aggregates.
+>  A bhikkhu should develop immersion (samādhi) and solitude in order to truly understand the origin and ending of the five aggregates.
 
 > [!example]- 🌐[[SA66]] - 📜[Available texts](obsidian://search?query=file:sa66-) - SA 1.74-85 – Arising 
 >  An ordinary person identifies their self with the five aggregates and suffers anxiety when the aggregates change. But a noble disciple, free of such identification, does not suffer
@@ -228,7 +228,7 @@ contribution:
 >  The Buddha  teaches them that in clinging to, conceiving, seeking enjoyment the aggregates,  one is bound by Māra.
 
 > [!example]- 🌐[[SA75]] - 📜[Available texts](obsidian://search?query=file:sa75-) - SA 1.129 – Contemplation 
->  The Buddha  explains that the difference between himself and another awakened mendicant is simply that he was the first to discover the path and teach it to others
+>  The Buddha  explains that the difference between himself and another awakened bhikkhu is simply that he was the first to discover the path and teach it to others
 
 > [!example]- 🌐[[SA76]] - 📜[Available texts](obsidian://search?query=file:sa76-) - SA 1.130 – Desire 
 >  Ignorance is not understanding the aggregates, knowledgeis understandingthem
@@ -291,13 +291,13 @@ contribution:
 >  Because the aggregates are impermanent, suffering, and not self a noble disciple becomes disillusioned with them.
 
 > [!example]- 🌐[[SA256]] - 📜[Available texts](obsidian://search?query=file:sa256-) - SA 1.39 – Ignorance 
->  The Buddha  explains to a mendicant that ignorance is not understanding the aggregates in terms of arising and ceasing, while knowledge is understanding the aggregates.
+>  The Buddha  explains to a bhikkhu that ignorance is not understanding the aggregates in terms of arising and ceasing, while knowledge is understanding the aggregates.
 
 > [!example]- 🌐[[SA257]] - 📜[Available texts](obsidian://search?query=file:sa257-) - SA 1.40 – Ignorance (2) 
->  The Buddha  explains to a mendicant that ignorance is not understanding the aggregates in terms of arising and ceasing, while knowledge is understanding the aggregates.
+>  The Buddha  explains to a bhikkhu that ignorance is not understanding the aggregates in terms of arising and ceasing, while knowledge is understanding the aggregates.
 
 > [!example]- 🌐[[SA258]] - 📜[Available texts](obsidian://search?query=file:sa258-) - SA 1.41 – Ignorance (3) 
->  The Buddha  explains to a mendicant that ignorance is not understanding the aggregates in terms of arising and ceasing, while knowledge is understanding the aggregates.
+>  The Buddha  explains to a bhikkhu that ignorance is not understanding the aggregates in terms of arising and ceasing, while knowledge is understanding the aggregates.
 
 > [!example]- 🌐[[SA259]] - 📜[Available texts](obsidian://search?query=file:sa259-) - SA 1.42 – Direct Realization 
 >  Ven. Sariputta explains how every meditator, from beginner to Arahant, should contemplate the five aggregates
@@ -315,7 +315,7 @@ contribution:
 >  The Buddha  explains that awakening comes about not by wishful thinking, but only through deliberate effort
 
 > [!example]- 🌐[[SA264]] - 📜[Available texts](obsidian://search?query=file:sa264-) - SA 1.47 – A Clod of Dirt 
->  A mendicant asks whether anything in the aggregates has even the tiniest bit of stability or permanence. The Buddha  answers using the simile of a little dirt under his fingernail
+>  A bhikkhu asks whether anything in the aggregates has even the tiniest bit of stability or permanence. The Buddha  answers using the simile of a little dirt under his fingernail
 
 > [!example]- 🌐[[SA265]] - 📜[Available texts](obsidian://search?query=file:sa265-) - SA 1.48 – Bubbles and Foam 
 >  The Buddha  asks Sāriputta whether a noble disciple doubts the Buddha . Not only does he have faith, replies Sāriputta, but the other faculties each come to be developed in turn
@@ -330,7 +330,7 @@ contribution:
 >  If you grasp at the aggregates as a self, you will meet with calamity, like a man swept down by a mountain river, grasping at grass or rushes
 
 > [!example]- 🌐[[SA269]] - 📜[Available texts](obsidian://search?query=file:sa269-) - SA 1.52 – Jeta’s Grove 
->  To practice in line with the teachings a mendicant should meditate on disillusionment with the aggregates
+>  To practice in line with the teachings a bhikkhu should meditate on disillusionment with the aggregates
 
 > [!example]- 🌐[[SA270]] - 📜[Available texts](obsidian://search?query=file:sa270-) - SA 1.53 – The Concept of Impermanence 
 >  The perception of impermanence eliminates lust, ignorance, and conceit. Illustrated with a long series of similes

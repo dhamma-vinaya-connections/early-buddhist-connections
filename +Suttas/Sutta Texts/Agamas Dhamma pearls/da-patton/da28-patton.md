@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 28. Pṛṣṭhapāla
 
-1. Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park of Śrāvastī. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park of Śrāvastī. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 2. At sunrise, the Buddha put on his robe and took his bowl into Śrāvastī to solicit alms. The Bhagavān thought, “It’s too early to solicit today’s alms. I’d better go see Pṛṣṭhapāla in the wanderers’ grove. I’ll solicit alms later when it’s the right time.” The Bhagavān then went to the wanderers’ grove.
 

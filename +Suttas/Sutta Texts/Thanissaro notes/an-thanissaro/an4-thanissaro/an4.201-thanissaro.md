@@ -15,11 +15,11 @@ language: "English"
 ## ## Sikkhāpada Sutta
 
 
-“Monks, I will teach you the person of no integrity, the person of less integrity than the person of no integrity, the person of integrity, & the person of more integrity than the person of integrity. Listen & pay careful attention. I will speak.”
+“bhikkhus, I will teach you the person of no integrity, the person of less integrity than the person of no integrity, the person of integrity, & the person of more integrity than the person of integrity. Listen & pay careful attention. I will speak.”
 
-“As you say, lord,” the monks responded to the Blessed One.
+“As you say, lord,” the bhikkhus responded to the Blessed One.
 
-The Blessed One said, “And which, monks, is the person of no integrity? There is the case where a certain individual is one who takes life, takes what is not given [steals], engages in sexual misconduct, tells lies, and takes distilled & fermented drinks that cause heedlessness. This is called a person of no integrity.
+The Blessed One said, “And which, bhikkhus, is the person of no integrity? There is the case where a certain individual is one who takes life, takes what is not given [steals], engages in sexual misconduct, tells lies, and takes distilled & fermented drinks that cause heedlessness. This is called a person of no integrity.
 
 “And which is the person of less integrity than the person of no integrity? There is the case where a certain individual himself is one who takes life and he encourages another in undertaking the taking of life. He himself is one who takes what is not given and he encourages another in undertaking the taking of what is not given. He himself is one who engages in sexual misconduct and he encourages another in undertaking sexual misconduct. He himself is one who tells lies and he encourages another in undertaking the telling of lies. He himself is one who takes distilled & fermented drinks that cause heedlessness and he encourages another in undertaking the taking of distilled & fermented drinks that cause heedlessness. This is called a person of less integrity than the person of no integrity.
 

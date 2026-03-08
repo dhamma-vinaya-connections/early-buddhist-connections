@@ -16,28 +16,28 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu, the slaves of the Sakyans were rebelling. The Sakyan women wished to prepare a meal at the wilderness dwellings, but the slaves heard about this and infested the path. When the Sakyan women took various kinds of fine food and set out for a wilderness dwelling, the slaves emerged, and they robbed and raped those Sakyan women. Soon afterwards the Sakyan men came out, and they got hold of those criminals together with their loot. They then complained and criticized the monks:
+1At one time when the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu, the slaves of the Sakyans were rebelling. The Sakyan women wished to prepare a meal at the wilderness dwellings, but the slaves heard about this and infested the path. When the Sakyan women took various kinds of fine food and set out for a wilderness dwelling, the slaves emerged, and they robbed and raped those Sakyan women. Soon afterwards the Sakyan men came out, and they got hold of those criminals together with their loot. They then complained and criticized the bhikkhus:
 
 “How could they not inform that there are criminals staying near the monastery?”
 
 
-2The monks heard the complaints of the Sakyans and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+2The bhikkhus heard the complaints of the Sakyans and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 
-“Well then, monks, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of well-behaved monks, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training. And, monks, this training rule should be recited like this:
+“Well then, bhikkhus, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of well-behaved bhikkhus, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training. And, bhikkhus, this training rule should be recited like this:
 
 
 3‘There are wilderness dwellings that are considered risky and dangerous. If a monk, without first making an announcement about those dwellings, eats fresh or cooked food after personally receiving it inside that monastery, he must acknowledge it: “I have done a blameworthy and unsuitable thing that is to be acknowledged. I acknowledge it.”’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
 5Soon afterwards a monk in a wilderness dwelling was sick. People took fresh or cooked food and went to that wilderness dwelling, and they invited that monk to eat. But knowing that the Buddha had prohibited the eating of fresh or cooked food after personally receiving it at a wilderness dwelling, and being afraid of wrongdoing, he did not accept it. And being unable to walk for alms, he missed his meal.
 
-6He then told the monks what had happened, and they in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+6He then told the bhikkhus what had happened, and they in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow a sick monk, without first making an announcement, to eat fresh or cooked food after personally receiving it at a wilderness dwelling.
+“bhikkhus, I allow a sick monk, without first making an announcement, to eat fresh or cooked food after personally receiving it at a wilderness dwelling.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

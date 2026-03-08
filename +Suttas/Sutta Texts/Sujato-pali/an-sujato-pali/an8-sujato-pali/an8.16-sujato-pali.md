@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with eight qualities is worthy of going on a mission. What eight? It’s a mendicant who learns and educates others. They memorize and help others remember. They understand and help others understand. They’re skilled at knowing what’s on topic and what isn’t. And they don’t cause quarrels. A mendicant with these eight qualities is worthy of going on a mission.
+1“bhikkhus, a bhikkhu with eight qualities is worthy of going on a mission. What eight? It’s a bhikkhu who learns and educates others. They memorize and help others remember. They understand and help others understand. They’re skilled at knowing what’s on topic and what isn’t. And they don’t cause quarrels. A bhikkhu with these eight qualities is worthy of going on a mission.
 
 Having eight qualities Sāriputta is worthy of going on a mission. What eight?
 
@@ -34,7 +34,7 @@ or conceal the instructions.
 
 3Their words aren’t poisoned,  
 and they don’t tremble when questioned.  
-Such a mendicant  
+Such a bhikkhu  
 is worthy of going on a mission.”
 
 1"Aṭṭhahi, bhikkhave, dhammehi samannāgato bhikkhu dūteyyaṁ gantumarahati. Katamehi aṭṭhahi?

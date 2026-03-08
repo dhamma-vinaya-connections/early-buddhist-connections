@@ -81,7 +81,7 @@ I have heard that on one occasion the Blessed One was staying near Sāvatthī in
 
 “A ‘position,’ Vaccha, is something that a Tathāgata has done away with. What a Tathāgata sees is this: ‘Such is form, such its origination, such its disappearance; such is feeling, such its origination, such its disappearance; such is perception... such are fabrications... such is consciousness, such its origination, such its disappearance.’ Because of this, I say, a Tathāgata—with the ending, fading away, cessation, renunciation, & relinquishment of all suppositions, all excogitations, all I-making & mine-making & obsessions with conceit—is, through lack of clinging/sustenance, released.”
 
-“But, Master Gotama, the monk whose mind is thus released: Where does he reappear?”
+“But, Master Gotama, the bhikkhu whose mind is thus released: Where does he reappear?”
 
 “‘Reappear,’ Vaccha, doesn’t apply.”
 
@@ -97,7 +97,7 @@ I have heard that on one occasion the Blessed One was staying near Sāvatthī in
 
 “...doesn’t apply.”
 
-“How is it, Master Gotama, when Master Gotama is asked if the monk reappears... does not reappear... both does & does not reappear... neither does nor does not reappear, he says, ‘... doesn’t apply’ in each case. At this point, Master Gotama, I am befuddled; at this point, confused. The modicum of clarity coming to me from your earlier conversation is now obscured.”
+“How is it, Master Gotama, when Master Gotama is asked if the bhikkhu reappears... does not reappear... both does & does not reappear... neither does nor does not reappear, he says, ‘... doesn’t apply’ in each case. At this point, Master Gotama, I am befuddled; at this point, confused. The modicum of clarity coming to me from your earlier conversation is now obscured.”
 
 “Of course you’re befuddled, Vaccha. Of course you’re confused. Deep, Vaccha, is this phenomenon, hard to see, hard to realize, tranquil, refined, beyond the scope of conjecture, subtle, to-be-experienced by the wise. For those with other views, other practices, other satisfactions, other aims, other teachers, it is difficult to know. That being the case, I will counter-question you on this matter. Answer as you see fit. What do you think, Vaccha? If a fire were burning in front of you, would you know that ‘This fire is burning in front of me’?”
 
@@ -123,7 +123,7 @@ I have heard that on one occasion the Blessed One was staying near Sāvatthī in
 
 When this was said, Vacchagotta the wanderer said to the Blessed One: “Master Gotama, it’s as if there were a great Sal tree not far from a village or town: From inconstancy, its branches and leaves would wear away, its bark would wear away, its sapwood would wear away, so that on a later occasion—divested of branches, leaves, bark, & sapwood—it would stand as pure heartwood. In the same way, Master Gotama’s words are divested of branches, leaves, bark, & sapwood and stand as pure heartwood.
 
-“Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, and to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
+“Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. May Master Gotama remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
 See also: [[dn15-thanissaro]]; [[mn29-thanissaro]]–30]([[mn29-thanissaro]].html); [[sn6.15-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.36-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.85-thanissaro]]; [[sn22-34-thanissaro/sn23-thanissaro/sn23.2-thanissaro]]; [[sn44.1-thanissaro]]; [[sn44.9-thanissaro]]; [[an4.24-thanissaro]]; [[an10.81-thanissaro]]; [[an10.93-thanissaro]]; [[ud8.9-thanissaro]]–10](../KN/Ud/ud8_9.html); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti112-thanissaro]]; [[/snp5.6-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]
 

@@ -26,7 +26,7 @@ On one occasion Kāṇā went to her mother’s house on some business. Kāṇā
 2A second time Kāṇā’s husband sent her the same message, and everything unfolded as before.
 
 
-3A third time he sent the same message, adding, “If Kāṇā doesn’t come, I’ll find another wife.” But once again all the pastries were given to monks.
+3A third time he sent the same message, adding, “If Kāṇā doesn’t come, I’ll find another wife.” But once again all the pastries were given to bhikkhus.
 
 
 4Kāṇā’s husband found another wife and when Kāṇā heard what had happened, she cried.
@@ -36,18 +36,18 @@ Soon afterwards, after robing up in the morning, the Buddha took his bowl and ro
 
 5Soon afterwards a certain caravan was ready to go south from Rājagaha. An alms-collecting monk went up to that caravan to get almsfood, and a lay follower gave him flour products. After leaving, that monk told another monk, and he too was given flour products. And the same happened a third time. At that, all his provisions were gone.
 
-That lay follower said to the other people in the caravan, “Sirs, please wait one day. I’ve given my provisions to the monks. I need to prepare more.”
+That lay follower said to the other people in the caravan, “Sirs, please wait one day. I’ve given my provisions to the bhikkhus. I need to prepare more.”
 
 “We can’t wait. The caravan is already on its way.” And they left.
 
 After preparing provisions, that lay follower followed after the caravan, but he was robbed by thieves. People complained and criticized them, “How can the Sakyan monastics receive without moderation? This man gave to them, and then because he was following after the caravan he was robbed by thieves.”
 
 
-6The monks heard the complaints of those people and they told the Buddha. Soon afterwards he gave a teaching and addressed the monks: “Well then, monks, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of well-behaved monks, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training. And, monks, this training rule should be recited like this:
+6The bhikkhus heard the complaints of those people and they told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus: “Well then, bhikkhus, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of well-behaved bhikkhus, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training. And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-7‘If a monk goes to a family and is invited to take pastries or baked goods, he may accept two or three bowlfuls if he wishes. If he accepts more than that, he commits an offense entailing confession. If he accepts two or three bowlfuls, he should take it away and share it with the monks. This is the proper procedure.’”
+7‘If a monk goes to a family and is invited to take pastries or baked goods, he may accept two or three bowlfuls if he wishes. If he accepts more than that, he commits an offense entailing confession. If he accepts two or three bowlfuls, he should take it away and share it with the bhikkhus. This is the proper procedure.’”
 
 #### Definitions
 
@@ -71,7 +71,7 @@ After preparing provisions, that lay follower followed after the caravan, but he
 
 16**If he accepts two or three bowlfuls:** leaving that place and seeing a monk, he should tell him, “I’ve accepted two or three bowlfuls from such-and-such a place; don’t accept anything from there.” If he sees a monk, but does not tell him, he commits an offense of wrong conduct. If the one who is told accepts from there regardless, he commits an offense of wrong conduct.
 
-17**He should take it away and share it with the monks:** he should take it away when returning from almsround and then share it.
+17**He should take it away and share it with the bhikkhus:** he should take it away when returning from almsround and then share it.
 
 18**This is the proper procedure:** this is the right method.
 

@@ -20,13 +20,13 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-171“The appearance of one person, mendicants, is rare in the world. What one person? The Realized One, the perfected one, the fully awakened Buddha. This is the one person, mendicants, whose appearance is rare in the world.”
+171“The appearance of one person, bhikkhus, is rare in the world. What one person? The Realized One, the perfected one, the fully awakened Buddha. This is the one person, bhikkhus, whose appearance is rare in the world.”
 
-172“One person, mendicants, arises in the world who is an incredible human being. What one person? The Realized One, the perfected one, the fully awakened Buddha. This is the one person, mendicants, who arises in the world who is an incredible human being.”
+172“One person, bhikkhus, arises in the world who is an incredible human being. What one person? The Realized One, the perfected one, the fully awakened Buddha. This is the one person, bhikkhus, who arises in the world who is an incredible human being.”
 
-173“The death of one person, mendicants, is regretted by many people. What one person? The Realized One, the perfected one, the fully awakened Buddha. This is the one person, mendicants, whose death is regretted by many people.”
+173“The death of one person, bhikkhus, is regretted by many people. What one person? The Realized One, the perfected one, the fully awakened Buddha. This is the one person, bhikkhus, whose death is regretted by many people.”
 
-174“One person, mendicants, arises in the world unique, without peer or counterpart, incomparable, matchless, unrivaled, unequaled, without equal, the best of bipeds. What one person? The Realized One, the perfected one, the fully awakened Buddha. This is the one person, mendicants, who arises in the world unique, without peer or counterpart, incomparable, matchless, unrivaled, unequaled, without equal, the best of bipeds.”
+174“One person, bhikkhus, arises in the world unique, without peer or counterpart, incomparable, matchless, unrivaled, unequaled, without equal, the best of bipeds. What one person? The Realized One, the perfected one, the fully awakened Buddha. This is the one person, bhikkhus, who arises in the world unique, without peer or counterpart, incomparable, matchless, unrivaled, unequaled, without equal, the best of bipeds.”
 
 171“Ekapuggalassa, bhikkhave, pātubhāvo dullabho lokasmiṁ. Katamassa ekapuggalassa? Tathāgatassa arahato sammāsambuddhassa. Imassa kho, bhikkhave, ekapuggalassa pātubhāvo dullabho lokasmin”ti.
 

@@ -50,7 +50,7 @@ language: "English"
 
 “And what, bhikkhus, is the noble truth of the cessation of suffering? With the remainderless fading away and cessation of ignorance comes cessation of volitional activities; with the cessation of volitional activities, cessation of consciousness; with the cessation of consciousness, cessation of name-andform; with the cessation of name-and-form, cessation of the six sense bases; with the cessation of the six sense bases, cessation of contact; with the cessation of contact, cessation of feeling; with the cessation of feeling, cessation of craving; with the cessation of craving, cessation of clinging; with the cessation of clinging, cessation of existence; with the cessation of existence, cessation of birth; with the cessation of birth, old age and death, sorrow, lamentation, pain, dejection, and anguish cease. Such is the cessation of this whole mass of suffering. This is called the noble truth of the cessation of suffering.
 
-“And what, bhikkhus, is the noble truth of the way leading to the cessation of suffering? It is just this noble eightfold path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi. This is called the noble truth of the way leading to the cessation of suffering.
+“And what, bhikkhus, is the noble truth of the way leading to the cessation of suffering? It is just this ![[Noble Path]]. This is called the noble truth of the way leading to the cessation of suffering.
 
 “When it was said: ‘“These are the four noble truths”: this, bhikkhus, is the Dhamma taught by me that is unrefuted, undefiled, irreproachable, and uncensured by wise ascetics and brahmins,’ it is because of this that this was said.” \[178\]
 

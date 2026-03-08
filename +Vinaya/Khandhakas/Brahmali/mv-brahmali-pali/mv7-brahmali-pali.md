@@ -25,22 +25,22 @@ language: "English - Pali"
 > ```
 
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time thirty monks from Pāvā—all wilderness-dwellers, almsfood eaters, rag-robe wearers, and three-robe owners—were traveling to Sāvatthī to visit the Buddha. Because the entry to the rainy-season residence was approaching, they were unable to reach Sāvatthī, and they entered the rains residence at Sāketa while still on their way. They spent the rains residence discontented, thinking: “The Buddha is only 80 kilometers away, yet we don’t get to see him.”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time thirty bhikkhus from Pāvā—all wilderness-dwellers, almsfood eaters, rag-robe wearers, and three-robe owners—were traveling to Sāvatthī to visit the Buddha. Because the entry to the rainy-season residence was approaching, they were unable to reach Sāvatthī, and they entered the rains residence at Sāketa while still on their way. They spent the rains residence discontented, thinking: “The Buddha is only 80 kilometers away, yet we don’t get to see him.”
 
 When they had completed the rainy-season residence and done the invitation ceremony at the end of the three months, it was raining, with water and mud everywhere. As they traveled to Sāvatthī, they were exhausted, their robes soaked. When they arrived at Sāvatthī, they went to Anāthapiṇḍika’s Monastery, bowed to the Buddha, and sat down.
 
 
-Since it is the custom for Buddhas to greet newly arrived monks the Buddha said to them:
+Since it is the custom for Buddhas to greet newly arrived bhikkhus the Buddha said to them:
 
 
-2“I hope you’re keeping well, monks, I hope you’re getting by. I hope you had a comfortable rains, that you lived together in peace and harmony, and got almsfood without trouble?”
+2“I hope you’re keeping well, bhikkhus, I hope you’re getting by. I hope you had a comfortable rains, that you lived together in peace and harmony, and got almsfood without trouble?”
 
 “We’re keeping well, Venerable Sir, we’re getting by. We had a comfortable rains, lived together in peace and harmony, and had no trouble getting almsfood.” They told the Buddha what had happened during the rains and while traveling to Sāvatthī.
 
 
-3Soon afterwards the Buddha gave a teaching and addressed the monks:
+3Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“I allow monks who have completed the rainy-season residence to participate in a robe-making ceremony. Once you have participated in the robe-making ceremony, five things are allowable for you: Going without informing, going without taking, eating in a group, as much robe-cloth as you need, and whatever robe-cloth is given there is for you.
+“I allow bhikkhus who have completed the rainy-season residence to participate in a robe-making ceremony. Once you have participated in the robe-making ceremony, five things are allowable for you: Going without informing, going without taking, eating in a group, as much robe-cloth as you need, and whatever robe-cloth is given there is for you.
 
 And the robe-making ceremony should be performed like this. A competent and capable monk should inform the Saṅgha:
 
@@ -51,7 +51,7 @@ And the robe-making ceremony should be performed like this. A competent and capa
 6The Saṅgha has given this cloth to monk so-and-so to perform the robe-making ceremony. The Saṅgha approves and is therefore silent. I will remember it thus.’
 
 
-7“And, monks, how has the robe-making ceremony not been performed? The robe-making ceremony hasn’t been performed merely by marking the cloth, merely by washing the cloth, merely by planning the robe, merely by cutting the cloth, merely by tacking the cloth, merely by sewing a hem, merely by marking with a strip of cloth, merely by strengthening, merely by adding a border lengthwise, merely by adding a border crosswise, merely by adding a patch, merely by partial dyeing; nor has it been performed if a monk has made an indication, if a monk has given a hint, if the robe-cloth has been borrowed, if it has been stored, if it is to be relinquished, if it hasn’t been marked, if it’s not an outer robe or an upper robe or a sarong; nor has it been performed if the robe hasn’t been made on that very day with five or more cut sections with panels, if the robe-making ceremony isn’t performed by an individual, or if the robe-making ceremony has been performed correctly but the appreciation for the ceremony is expressed outside the monastery zone. In this way the robe-making ceremony hasn’t been performed.
+7“And, bhikkhus, how has the robe-making ceremony not been performed? The robe-making ceremony hasn’t been performed merely by marking the cloth, merely by washing the cloth, merely by planning the robe, merely by cutting the cloth, merely by tacking the cloth, merely by sewing a hem, merely by marking with a strip of cloth, merely by strengthening, merely by adding a border lengthwise, merely by adding a border crosswise, merely by adding a patch, merely by partial dyeing; nor has it been performed if a monk has made an indication, if a monk has given a hint, if the robe-cloth has been borrowed, if it has been stored, if it is to be relinquished, if it hasn’t been marked, if it’s not an outer robe or an upper robe or a sarong; nor has it been performed if the robe hasn’t been made on that very day with five or more cut sections with panels, if the robe-making ceremony isn’t performed by an individual, or if the robe-making ceremony has been performed correctly but the appreciation for the ceremony is expressed outside the monastery zone. In this way the robe-making ceremony hasn’t been performed.
 
 8And how has the robe-making ceremony been performed? The robe-making ceremony has been performed if the cloth is brand new, if it’s nearly new, if it’s old, if it’s a rag, if it’s from a shop; it has been performed if a monk hasn’t given a sign, if a monk hasn’t given a hint, if the robe-cloth hasn’t been borrowed, if it hasn’t been stored, if it’s not to be relinquished, if it has been marked, if it’s an outer robe or an upper robe or a sarong; it has been performed if the robe has been made on that very day with five or more cut sections with panels, if the robe-making ceremony is performed by an individual, and if the robe-making ceremony has been performed correctly and the appreciation for the ceremony is expressed inside the monastery zone. In this way the robe-making ceremony has been performed.
 
@@ -79,7 +79,7 @@ And the robe-making ceremony should be performed like this. A competent and capa
 
 15A monk who has participated in the robe-making ceremony takes robe-cloth and leaves the monastery, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” but he remains outside the monastery zone until the end of the robe season. For that monk the robe season comes to an end while he is outside the monastery zone.
 
-16A monk who has participated in the robe-making ceremony takes robe-cloth and leaves the monastery, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other monks.
+16A monk who has participated in the robe-making ceremony takes robe-cloth and leaves the monastery, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other bhikkhus.
 
 17The group of seven on “takes” is finished.
 
@@ -105,7 +105,7 @@ And the robe-making ceremony should be performed like this. A competent and capa
 
 23A monk who has participated in the robe-making ceremony leaves the monastery with robe-cloth, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” but he remains outside the monastery zone until the end of the robe season. For that monk the robe season comes to an end while he is outside the monastery zone.
 
-24A monk who has participated in the robe-making ceremony leaves the monastery with robe-cloth, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other monks.
+24A monk who has participated in the robe-making ceremony leaves the monastery with robe-cloth, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other bhikkhus.
 
 25The group of seven on “with” is finished.
 
@@ -129,7 +129,7 @@ And the robe-making ceremony should be performed like this. A competent and capa
 
 30A monk who has participated in the robe-making ceremony takes an unfinished robe and leaves the monastery, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” but he remains outside the monastery zone until the end of the robe season. For that monk the robe season comes to an end while he is outside the monastery zone.
 
-31A monk who has participated in the robe-making ceremony takes an unfinished robe and leaves the monastery, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other monks.
+31A monk who has participated in the robe-making ceremony takes an unfinished robe and leaves the monastery, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other bhikkhus.
 
 32The group of six on “takes” is finished.
 
@@ -153,7 +153,7 @@ And the robe-making ceremony should be performed like this. A competent and capa
 
 37A monk who has participated in the robe-making ceremony leaves the monastery with an unfinished robe, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” but he remains outside the monastery zone until the end of the robe season. For that monk the robe season comes to an end while he is outside the monastery zone.
 
-38A monk who has participated in the robe-making ceremony leaves the monastery with an unfinished robe, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other monks.
+38A monk who has participated in the robe-making ceremony leaves the monastery with an unfinished robe, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other bhikkhus.
 
 39The group of six on “with” is finished.
 
@@ -202,7 +202,7 @@ And the robe-making ceremony should be performed like this. A competent and capa
 
 56A monk who has participated in the robe-making ceremony takes robe-cloth and leaves the monastery, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” but he remains outside the monastery zone until the end of the robe season. For that monk the robe season comes to an end while he is outside the monastery zone.
 
-57A monk who has participated in the robe-making ceremony takes robe-cloth and leaves the monastery, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other monks.
+57A monk who has participated in the robe-making ceremony takes robe-cloth and leaves the monastery, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other bhikkhus.
 
 58The group of six is finished.  
 The group of fifteen on “takes” is finished.
@@ -270,7 +270,7 @@ The group of fifteen on “takes” is finished.
 
 79A monk who has participated in the robe-making ceremony leaves the monastery with an unfinished robe, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” but he remains outside the monastery zone until the end of the robe season. For that monk the robe season comes to an end while he is outside the monastery zone.
 
-80A monk who has participated in the robe-making ceremony leaves the monastery with an unfinished robe, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other monks.
+80A monk who has participated in the robe-making ceremony leaves the monastery with an unfinished robe, thinking: “I’ll return.” When he is outside the monastery zone, he has the robe made. When the robe has been made, he still thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other bhikkhus.
 
 81The group of six is finished.  
 The group of fifteen on “with” is finished.  
@@ -344,7 +344,7 @@ The section for recitation on “takes” is finished.
 
 105A monk who has participated in the robe-making ceremony leaves the monastery while expecting more robe-cloth, thinking: “I’ll return.” When he is outside the monastery zone, he deals with that expectation, getting what he had expected. He then has the robe made. When the robe is finished, he thinks: “I’ll return,” but he remains outside the monastery zone until the end of the robe season. For that monk the robe season comes to an end while he is outside the monastery zone.
 
-106A monk who has participated in the robe-making ceremony leaves the monastery while expecting more robe-cloth, thinking: “I’ll return.” When he is outside the monastery zone, he deals with that expectation, getting what he had expected. He then has the robe made. When the robe is finished, he thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other monks.
+106A monk who has participated in the robe-making ceremony leaves the monastery while expecting more robe-cloth, thinking: “I’ll return.” When he is outside the monastery zone, he deals with that expectation, getting what he had expected. He then has the robe made. When the robe is finished, he thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other bhikkhus.
 
 107The group of twelve on “as expected” is finished.
 
@@ -394,17 +394,17 @@ The section for recitation on “takes” is finished.
 > ```
 
 
-121A monk who has participated in the robe-making ceremony leaves the monastery for a different region without taking his share of robe-cloth. When he has gone to that region, the monks there ask him: “Where did you complete the rains residence? Where’s your share of robe-cloth?”
+121A monk who has participated in the robe-making ceremony leaves the monastery for a different region without taking his share of robe-cloth. When he has gone to that region, the bhikkhus there ask him: “Where did you complete the rains residence? Where’s your share of robe-cloth?”
 
 He replies: “I completed the rains residence in such-and-such a monastery. That’s where my share of robe-cloth is.”
 
 They say: “Go and get that robe-cloth, and we’ll make a robe for you.”
 
-He then goes to that monastery and asks the monks: “Where’s my share of the robe-cloth?”
+He then goes to that monastery and asks the bhikkhus: “Where’s my share of the robe-cloth?”
 
 They reply: “This is your share. Where are you going?”
 
-He says: “I’m going to such-and-such a monastery. The monks there will make me a robe.”
+He says: “I’m going to such-and-such a monastery. The bhikkhus there will make me a robe.”
 
 They say: “There’s no need to go. We’ll make a robe for you here.”
 
@@ -414,23 +414,23 @@ He thinks: “I’ll make the robe right here. I won’t return.” He then has 
 
 123A monk who has participated in the robe-making ceremony leaves the monastery for a different region … “I’ll make the robe right here. I won’t return.” He has a robe made, but it is lost while being made. For that monk the robe season comes to an end when the robe-cloth is lost.
 
-124A monk who has participated in the robe-making ceremony leaves the monastery for a different region without taking his share of robe-cloth. When he has gone to that region, the monks there ask him: “Where did you complete the rains residence? Where’s your share of robe-cloth?” He replies: “I completed the rains residence in such-and-such a monastery. That’s where my share of robe-cloth is.” They say: “Go and get that robe-cloth, and we’ll make a robe for you.” He then goes to that monastery and asks the monks: “Where’s my share of the robe-cloth?” They reply: “This is your share.”
+124A monk who has participated in the robe-making ceremony leaves the monastery for a different region without taking his share of robe-cloth. When he has gone to that region, the bhikkhus there ask him: “Where did you complete the rains residence? Where’s your share of robe-cloth?” He replies: “I completed the rains residence in such-and-such a monastery. That’s where my share of robe-cloth is.” They say: “Go and get that robe-cloth, and we’ll make a robe for you.” He then goes to that monastery and asks the bhikkhus: “Where’s my share of the robe-cloth?” They reply: “This is your share.”
 
-He takes that robe-cloth and sets out for the other monastery. While he is on his way, monks ask him: “Where are you going?”
+He takes that robe-cloth and sets out for the other monastery. While he is on his way, bhikkhus ask him: “Where are you going?”
 
-He says: “I’m going to such-and-such a monastery. The monks there will make me a robe.”
+He says: “I’m going to such-and-such a monastery. The bhikkhus there will make me a robe.”
 
 They say: “There’s no need to go. We’ll make a robe for you here.”
 
 He thinks: “I’ll make the robe right here. I won’t return.” He then has a robe made. For that monk the robe season comes to an end when the robe is finished.
 
-125A monk who has participated in the robe-making ceremony leaves the monastery for a different region without taking his share of robe-cloth. When he has gone to that region, the monks there ask him: “Where did you complete the rains residence? Where’s your share of robe-cloth?” He replies: “I completed the rains residence in such-and-such a monastery. That’s where my share of robe-cloth is.” They say: “Go and get that robe-cloth, and we’ll make a robe for you.” He then goes to that monastery and asks the monks: “Where’s my share of the robe-cloth?” They reply: “This is your share.” He takes that robe-cloth and sets out for the other monastery. While he is on his way, monks ask him: “Where are you going?” He says: “I’m going to such-and-such a monastery. The monks there will make me a robe.” They say: “There’s no need to go. We’ll make a robe for you here.”
+125A monk who has participated in the robe-making ceremony leaves the monastery for a different region without taking his share of robe-cloth. When he has gone to that region, the bhikkhus there ask him: “Where did you complete the rains residence? Where’s your share of robe-cloth?” He replies: “I completed the rains residence in such-and-such a monastery. That’s where my share of robe-cloth is.” They say: “Go and get that robe-cloth, and we’ll make a robe for you.” He then goes to that monastery and asks the bhikkhus: “Where’s my share of the robe-cloth?” They reply: “This is your share.” He takes that robe-cloth and sets out for the other monastery. While he is on his way, bhikkhus ask him: “Where are you going?” He says: “I’m going to such-and-such a monastery. The bhikkhus there will make me a robe.” They say: “There’s no need to go. We’ll make a robe for you here.”
 
 He thinks: “I won’t make a robe, and I won’t return.” For that monk the robe season comes to an end when he makes that decision.
 
 126A monk who has participated in the robe-making ceremony leaves the monastery for a different region … “I’ll make the robe right here. I won’t return.” He has a robe made, but it is lost while being made. For that monk the robe season comes to an end when the robe-cloth is lost.
 
-127A monk who has participated in the robe-making ceremony leaves the monastery for a different region without taking his share of robe-cloth. When he has gone to that region, the monks there ask him: “Where did you complete the rains residence? Where’s your share of robe-cloth?” He replies: “I completed the rains residence in such-and-such a monastery. That’s where my share of robe-cloth is.” They say: “Go and get that robe-cloth, and we’ll make a robe for you.” He then goes to that monastery and asks the monks: “Where’s my share of the robe-cloth?” They reply: “This is your share.” He takes that robe-cloth and returns to the other monastery. When he has arrived, he thinks: “I’ll make the robe right here. I won’t return.” He then has a robe made. For that monk the robe season comes to an end when the robe is finished.
+127A monk who has participated in the robe-making ceremony leaves the monastery for a different region without taking his share of robe-cloth. When he has gone to that region, the bhikkhus there ask him: “Where did you complete the rains residence? Where’s your share of robe-cloth?” He replies: “I completed the rains residence in such-and-such a monastery. That’s where my share of robe-cloth is.” They say: “Go and get that robe-cloth, and we’ll make a robe for you.” He then goes to that monastery and asks the bhikkhus: “Where’s my share of the robe-cloth?” They reply: “This is your share.” He takes that robe-cloth and returns to the other monastery. When he has arrived, he thinks: “I’ll make the robe right here. I won’t return.” He then has a robe made. For that monk the robe season comes to an end when the robe is finished.
 
 128A monk who has participated in the robe-making ceremony leaves the monastery for a different region … “I won’t make a robe, and I won’t return.” For that monk the robe season comes to an end when he makes that decision.
 
@@ -456,7 +456,7 @@ He thinks: “I won’t make a robe, and I won’t return.” For that monk the 
 
 134A monk who has participated in the robe-making ceremony and whose meditation is going well takes his robe-cloth and leaves the monastery, thinking: “I’ll go to such-and-such a monastery. If my meditation goes well there, I’ll stay. If not, I’ll go to such-and-such a monastery. If my meditation goes well there, I’ll stay. If not, I’ll go to such-and-such a monastery. If my meditation goes well there, I’ll stay. If not, I’ll return.” When he is outside the monastery zone, he has a robe made. When the robe has been made, he thinks: “I’ll return,” but he remains outside the monastery zone until the end of the robe season. For that monk the robe season comes to an end while he is outside the monastery zone.
 
-135A monk who has participated in the robe-making ceremony and whose meditation is going well takes his robe-cloth and leaves the monastery, thinking: “I’ll go to such-and-such a monastery. If my meditation goes well there, I’ll stay. If not, I’ll go to such-and-such a monastery. If my meditation goes well there, I’ll stay. If not, I’ll go to such-and-such a monastery. If my meditation goes well there, I’ll stay. If not, I’ll return.” When he is outside the monastery zone, he has a robe made. When the robe has been made, he thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other monks.
+135A monk who has participated in the robe-making ceremony and whose meditation is going well takes his robe-cloth and leaves the monastery, thinking: “I’ll go to such-and-such a monastery. If my meditation goes well there, I’ll stay. If not, I’ll go to such-and-such a monastery. If my meditation goes well there, I’ll stay. If not, I’ll go to such-and-such a monastery. If my meditation goes well there, I’ll stay. If not, I’ll return.” When he is outside the monastery zone, he has a robe made. When the robe has been made, he thinks: “I’ll return,” and they reach the end of the robe season together. For that monk the robe season comes to an end together with the other bhikkhus.
 
 136The group of five on “meditation going well” is finished.
 
@@ -470,7 +470,7 @@ He thinks: “I won’t make a robe, and I won’t return.” For that monk the 
 > ```
 
 
-137“Monks, there are two obstacles for the ending of the robe season: the monastery obstacle and the robe obstacle. What’s the monastery obstacle? A monk stays in that monastery or he leaves intending to return. What’s the robe obstacle? A monk hasn’t made a robe, or he hasn’t finished it, or he’s expecting more robe-cloth.
+137“bhikkhus, there are two obstacles for the ending of the robe season: the monastery obstacle and the robe obstacle. What’s the monastery obstacle? A monk stays in that monastery or he leaves intending to return. What’s the robe obstacle? A monk hasn’t made a robe, or he hasn’t finished it, or he’s expecting more robe-cloth.
 
 138There are two removals of obstacles for the ending of the robe season: the removal of the monastery obstacle and the removal of the robe obstacle. What’s the removal of the monastery obstacle? A monk leaves that monastery without intending to return. What’s the removal of the robe obstacle? A monk has made a robe; or the robe-cloth is lost, destroyed, or burnt; or his expectation of more robe-cloth is disappointed.”
 
@@ -479,7 +479,7 @@ He thinks: “I won’t make a robe, and I won’t return.” For that monk the 
 
 140This is the summary:
 
-141“Thirty monks from Pāva,  
+141“Thirty bhikkhus from Pāva,  
 Stayed discontented in Sāketa;  
 Completed the rains, with soaked,  
 Went to see the Victor.
@@ -577,7 +577,7 @@ When the robe is finished, thinking: “I’ll return”,
 The robe season comes to an end together with.
 
 160So, for him the robe season comes to an end,  
-Together with the monks;  
+Together with the bhikkhus;  
 And takes, with,  
 Seven with sevenfold outcome.
 
@@ -603,7 +603,7 @@ The robe season comes to an end when the robe is finished.
 
 165Decision, and lost,  
 Hearing, outside the monastery zone;  
-Together with the monks,  
+Together with the bhikkhus,  
 Thus is the outcome of the fifteen.
 
 166With, unfinished,  

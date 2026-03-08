@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Mendicants, I eat my food in one sitting per day. Doing so, I find that I’m healthy and well, nimble, strong, and living comfortably. You too should eat your food in one sitting per day. Doing so, you’ll find that you’re healthy and well, nimble, strong, and living comfortably.”
+2“bhikkhus, I eat my food in one sitting per day. Doing so, I find that I’m healthy and well, nimble, strong, and living comfortably. You too should eat your food in one sitting per day. Doing so, you’ll find that you’re healthy and well, nimble, strong, and living comfortably.”
 
 
 3When he said this, Venerable Bhaddāli said to the Buddha: “Sir, I’m not going to try to eat my food in one sitting per day. For when eating once a day I might feel remorse and regret.”
@@ -34,34 +34,34 @@ language: "English - Pali"
 Then, as this rule was being laid down by the Buddha and the Saṅgha was undertaking it, Bhaddāli announced he would not try to keep it. Then for the whole of that three months Bhaddāli did not present himself in the presence of the Buddha, as happens when someone doesn’t fulfill the training according to the Teacher’s instructions.
 
 
-4At that time several mendicants were making a robe for the Buddha, thinking that when his robe was finished and the three months of the rains residence had passed the Buddha would set out wandering.
+4At that time several bhikkhus were making a robe for the Buddha, thinking that when his robe was finished and the three months of the rains residence had passed the Buddha would set out wandering.
 
-Then Bhaddāli went up to those mendicants, and exchanged greetings with them. When the greetings and polite conversation were over, he sat down to one side. The mendicants said to Bhaddāli: “Reverend Bhaddāli, this robe is being made for the Buddha. When it’s finished and the three months of the rains residence have passed the Buddha will set out wandering. Come on, Bhaddāli, learn your lesson. Don’t make it hard for yourself later on.”
+Then Bhaddāli went up to those bhikkhus, and exchanged greetings with them. When the greetings and polite conversation were over, he sat down to one side. The bhikkhus said to Bhaddāli: “Reverend Bhaddāli, this robe is being made for the Buddha. When it’s finished and the three months of the rains residence have passed the Buddha will set out wandering. Come on, Bhaddāli, learn your lesson. Don’t make it hard for yourself later on.”
 
 “Yes, reverends,” Bhaddāli replied. He went to the Buddha, bowed, sat down to one side, and said to him: “I have made a mistake, sir. It was foolish, stupid, and unskillful of me that, as this rule was being laid down by the Buddha and the Saṅgha was undertaking it, I announced I would not try to keep it. Please, sir, accept my mistake for what it is, so I will restrain myself in future.”
 
 5“Indeed, Bhaddāli, you made a mistake. It was foolish, stupid, and unskillful of you that, as this rule was being laid down by the Buddha and the Saṅgha was undertaking it, you announced you would not try to keep it.
 
 
-And you didn’t realize this situation: ‘The Buddha is staying in Sāvatthī, and he’ll know me as the mendicant named Bhaddāli who doesn’t fulfill the training according to the Teacher’s instructions.’
+And you didn’t realize this situation: ‘The Buddha is staying in Sāvatthī, and he’ll know me as the bhikkhu named Bhaddāli who doesn’t fulfill the training according to the Teacher’s instructions.’
 
 
-And you didn’t realize this situation: ‘Several monks have commenced the rains retreat in Sāvatthī … several nuns have commenced the rains retreat in Sāvatthī … several laymen reside in Sāvatthī … several laywomen reside in Sāvatthī, and they’ll know me as the mendicant named Bhaddāli who doesn’t fulfill the training according to the Teacher’s instructions. …
+And you didn’t realize this situation: ‘Several bhikkhus have commenced the rains retreat in Sāvatthī … several nuns have commenced the rains retreat in Sāvatthī … several laymen reside in Sāvatthī … several laywomen reside in Sāvatthī, and they’ll know me as the bhikkhu named Bhaddāli who doesn’t fulfill the training according to the Teacher’s instructions. …
 
 
-Several ascetics and brahmins who follow various other paths have commenced the rains retreat in Sāvatthī, and they’ll know me as the mendicant named Bhaddāli, one of the senior disciples of Gotama, who doesn’t fulfill the training according to the Teacher’s instructions.’ You also didn’t realize this situation.”
+Several ascetics and brahmins who follow various other paths have commenced the rains retreat in Sāvatthī, and they’ll know me as the bhikkhu named Bhaddāli, one of the senior disciples of Gotama, who doesn’t fulfill the training according to the Teacher’s instructions.’ You also didn’t realize this situation.”
 
 6“I made a mistake, sir. It was foolish, stupid, and unskillful of me that, as this rule was being laid down by the Buddha and the Saṅgha was undertaking it, I announced I would not try to keep it. Please, sir, accept my mistake for what it is, so I will restrain myself in future.”
 
 
 7“Indeed, Bhaddāli, you made a mistake. It was foolish, stupid, and unskillful of you that, as this rule was being laid down by the Buddha and the Saṅgha was undertaking it, you announced you would not try to keep it.
 
-8What do you think, Bhaddāli? Suppose I was to say this to a mendicant who is freed both ways: ‘Please, mendicant, be a bridge for me to cross over the mud.’ Would they cross over themselves, or struggle to get out of it, or just say no?”
+8What do you think, Bhaddāli? Suppose I was to say this to a bhikkhu who is freed both ways: ‘Please, bhikkhu, be a bridge for me to cross over the mud.’ Would they cross over themselves, or struggle to get out of it, or just say no?”
 
 9“No, sir.”
 
 
-10“What do you think, Bhaddāli? Suppose I was to say the same thing to a mendicant who is freed by wisdom, or a personal witness, or attained to view, or freed by faith, or a follower of the teachings, or a follower by faith: ‘Please, mendicant, be a bridge for me to cross over the mud.’ Would they cross over themselves, or struggle to get out of it, or just say no?”
+10“What do you think, Bhaddāli? Suppose I was to say the same thing to a bhikkhu who is freed by wisdom, or a personal witness, or attained to view, or freed by faith, or a follower of the teachings, or a follower by faith: ‘Please, bhikkhu, be a bridge for me to cross over the mud.’ Would they cross over themselves, or struggle to get out of it, or just say no?”
 
 11“No, sir.”
 
@@ -80,19 +80,19 @@ Several ascetics and brahmins who follow various other paths have commenced the 
 16“Indeed, Bhaddāli, you made a mistake. … But since you have recognized your mistake for what it is, and have dealt with it properly, I accept it. For it is growth in the training of the noble one to recognize a mistake for what it is, deal with it properly, and commit to restraint in the future.
 
 
-17Bhaddāli, take a mendicant who doesn’t fulfill the training according to the Teacher’s instructions. They think, ‘Why don’t I frequent a secluded lodging — a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw. Hopefully I’ll realize a superhuman distinction in knowledge and vision worthy of the noble ones.’ So they frequent a secluded lodging. While they’re living withdrawn, they’re reprimanded by the Teacher, by sensible spiritual companions after examination, by deities, and by themselves. Being reprimanded in this way, they don’t realize any superhuman distinction in knowledge and vision worthy of the noble ones. Why is that? Because that’s how it is when someone doesn’t fulfill the training according to the Teacher’s instructions.
+17Bhaddāli, take a bhikkhu who doesn’t fulfill the training according to the Teacher’s instructions. They think, ‘Why don’t I frequent a secluded lodging — a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw. Hopefully I’ll realize a superhuman distinction in knowledge and vision worthy of the noble ones.’ So they frequent a secluded lodging. While they’re living withdrawn, they’re reprimanded by the Teacher, by sensible spiritual companions after examination, by deities, and by themselves. Being reprimanded in this way, they don’t realize any superhuman distinction in knowledge and vision worthy of the noble ones. Why is that? Because that’s how it is when someone doesn’t fulfill the training according to the Teacher’s instructions.
 
-18But take a mendicant who does fulfill the training according to the Teacher’s instructions. They think, ‘Why don’t I frequent a secluded lodging — a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw. Hopefully I’ll realize a superhuman distinction in knowledge and vision worthy of the noble ones.’ They frequent a secluded lodging — a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw. While they’re living withdrawn, they’re not reprimanded by the Teacher, by sensible spiritual companions after examination, by deities, or by themselves. Not being reprimanded in this way, they realize a superhuman distinction in knowledge and vision worthy of the noble ones.
+18But take a bhikkhu who does fulfill the training according to the Teacher’s instructions. They think, ‘Why don’t I frequent a secluded lodging — a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw. Hopefully I’ll realize a superhuman distinction in knowledge and vision worthy of the noble ones.’ They frequent a secluded lodging — a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw. While they’re living withdrawn, they’re not reprimanded by the Teacher, by sensible spiritual companions after examination, by deities, or by themselves. Not being reprimanded in this way, they realize a superhuman distinction in knowledge and vision worthy of the noble ones.
 
 Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. Why is that? Because that’s what happens when someone fulfills the training according to the Teacher’s instructions.
 
 
-19Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. Why is that? Because that’s what happens when someone fulfills the training according to the Teacher’s instructions.
+19Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. Why is that? Because that’s what happens when someone fulfills the training according to the Teacher’s instructions.
 
-20Furthermore, with the fading away of rapture, a mendicant enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ Why is that? Because that’s what happens when someone fulfills the training according to the Teacher’s instructions.
+20Furthermore, with the fading away of rapture, a bhikkhu enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ Why is that? Because that’s what happens when someone fulfills the training according to the Teacher’s instructions.
 
 
-21Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. Why is that? Because that’s what happens when someone fulfills the training according to the Teacher’s instructions.
+21Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a bhikkhu enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. Why is that? Because that’s what happens when someone fulfills the training according to the Teacher’s instructions.
 
 22When their mind has become immersed in samādhi like this — purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable — they extend it toward recollection of past lives. They recollect many kinds of past lives, that is, one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. … They recollect their many kinds of past lives, with features and details. Why is that? Because that’s what happens when someone fulfills the training according to the Teacher’s instructions.
 
@@ -105,27 +105,27 @@ Knowing and seeing like this, their mind is freed from the defilements of sensua
 They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’ Why is that? Because that’s what happens when someone fulfills the training according to the Teacher’s instructions.”
 
 
-25When he said this, Venerable Bhaddāli said to the Buddha: “What is the cause, sir, what is the reason why they punish some monk, repeatedly pressuring him? And what is the cause, what is the reason why they don’t similarly punish another monk, repeatedly pressuring him?”
+25When he said this, Venerable Bhaddāli said to the Buddha: “What is the cause, sir, what is the reason why they punish some bhikkhu, repeatedly pressuring him? And what is the cause, what is the reason why they don’t similarly punish another bhikkhu, repeatedly pressuring him?”
 
-26“Take a monk who is a frequent offender with many offenses. When admonished by the monks, he dodges the issue, distracting the discussion with irrelevant points. He displays annoyance, hate, and bitterness. He doesn’t proceed properly, he doesn’t fall in line, he doesn’t proceed to get past it, and he doesn’t say: ‘I’ll do what pleases the Saṅgha.’ In such a case, the monks say: ‘Reverends, this monk is a frequent offender, with many offenses. When admonished by the monks, he dodges the issue, distracting the discussion with irrelevant points. He displays annoyance, hate, and bitterness. He doesn’t proceed properly, he doesn’t fall in line, he doesn’t proceed to get past it, and he doesn’t say: “I’ll do what pleases the Saṅgha.” It’d be good for the venerables to examine this monk in such a way that this disciplinary issue is not quickly settled.’ And that’s what they do.
+26“Take a bhikkhu who is a frequent offender with many offenses. When admonished by the bhikkhus, he dodges the issue, distracting the discussion with irrelevant points. He displays annoyance, hate, and bitterness. He doesn’t proceed properly, he doesn’t fall in line, he doesn’t proceed to get past it, and he doesn’t say: ‘I’ll do what pleases the Saṅgha.’ In such a case, the bhikkhus say: ‘Reverends, this bhikkhu is a frequent offender, with many offenses. When admonished by the bhikkhus, he dodges the issue, distracting the discussion with irrelevant points. He displays annoyance, hate, and bitterness. He doesn’t proceed properly, he doesn’t fall in line, he doesn’t proceed to get past it, and he doesn’t say: “I’ll do what pleases the Saṅgha.” It’d be good for the venerables to examine this bhikkhu in such a way that this disciplinary issue is not quickly settled.’ And that’s what they do.
 
-27Take some other monk who is a frequent offender with many offenses. When admonished by the monks, he doesn’t dodge the issue, distracting the discussion with irrelevant points. He doesn’t display annoyance, hate, and bitterness. He proceeds properly, he falls in line, he proceeds to get past it, and he says: ‘I’ll do what pleases the Saṅgha.’ In such a case, the monks say: ‘Reverends, this monk is a frequent offender, with many offenses. When admonished by the monks, he doesn’t dodge the issue, distracting the discussion with irrelevant points. He doesn’t display annoyance, hate, and bitterness. He proceeds properly, he falls in line, he proceeds to get past it, and he says: ‘I’ll do what pleases the Saṅgha.’ It’d be good for the venerables to examine this monk in such a way that this disciplinary issue is quickly settled.’ And that’s what they do.
+27Take some other bhikkhu who is a frequent offender with many offenses. When admonished by the bhikkhus, he doesn’t dodge the issue, distracting the discussion with irrelevant points. He doesn’t display annoyance, hate, and bitterness. He proceeds properly, he falls in line, he proceeds to get past it, and he says: ‘I’ll do what pleases the Saṅgha.’ In such a case, the bhikkhus say: ‘Reverends, this bhikkhu is a frequent offender, with many offenses. When admonished by the bhikkhus, he doesn’t dodge the issue, distracting the discussion with irrelevant points. He doesn’t display annoyance, hate, and bitterness. He proceeds properly, he falls in line, he proceeds to get past it, and he says: ‘I’ll do what pleases the Saṅgha.’ It’d be good for the venerables to examine this bhikkhu in such a way that this disciplinary issue is quickly settled.’ And that’s what they do.
 
-28Take some other monk who is an occasional offender without many offenses. When admonished by the monks, he dodges the issue … In such a case, the monks say: ‘Reverends, this monk is an occasional offender without many offenses. When admonished by the monks, he dodges the issue … It’d be good for the venerables to examine this monk in such a way that this disciplinary issue is not quickly settled.’ And that’s what they do.
+28Take some other bhikkhu who is an occasional offender without many offenses. When admonished by the bhikkhus, he dodges the issue … In such a case, the bhikkhus say: ‘Reverends, this bhikkhu is an occasional offender without many offenses. When admonished by the bhikkhus, he dodges the issue … It’d be good for the venerables to examine this bhikkhu in such a way that this disciplinary issue is not quickly settled.’ And that’s what they do.
 
-29Take some other monk who is an occasional offender without many offenses. When admonished by the monks, he doesn’t dodge the issue … In such a case, the monks say: ‘Reverends, this monk is an occasional offender without many offenses. When admonished by the monks, he doesn’t dodge the issue … It’d be good for the venerables to examine this monk in such a way that this disciplinary issue is quickly settled.’ And that’s what they do.
-
-
-30Take some other monk who gets by with mere faith and love. In such a case, the monks say: ‘Reverends, this monk gets by with mere faith and love. If we punish him, repeatedly pressuring him — no, let him not lose what little faith and love he has!’
-
-Suppose there was a person with one eye. Their friends and colleagues, relatives and kin would protect that one eye: ‘Let them not lose the one eye that they have!’ In the same way, some monk gets by with mere faith and love. In such a case, the monks say: ‘Reverends, this monk gets by with mere faith and love. If we punish him, repeatedly pressuring him — no, let him not lose what little faith and love he has!’
-
-This is the cause, this is the reason why they punish some monk, repeatedly pressuring him. And this is the cause, this is the reason why they don’t similarly punish another monk, repeatedly pressuring him.”
-
-31“What is the cause, sir, what is the reason why there used to be fewer training rules but more enlightened mendicants? And what is the cause, what is the reason why these days there are more training rules and fewer enlightened mendicants?”
+29Take some other bhikkhu who is an occasional offender without many offenses. When admonished by the bhikkhus, he doesn’t dodge the issue … In such a case, the bhikkhus say: ‘Reverends, this bhikkhu is an occasional offender without many offenses. When admonished by the bhikkhus, he doesn’t dodge the issue … It’d be good for the venerables to examine this bhikkhu in such a way that this disciplinary issue is quickly settled.’ And that’s what they do.
 
 
-32“That’s how it is, Bhaddāli. When sentient beings are in decline and the true teaching is disappearing there are more training rules and fewer enlightened mendicants. The Teacher doesn’t lay down training rules for disciples as long as certain defiling influences have not appeared in the Saṅgha. But when such defiling influences appear in the Saṅgha, the Teacher lays down training rules for disciples to protect against them.
+30Take some other bhikkhu who gets by with mere faith and love. In such a case, the bhikkhus say: ‘Reverends, this bhikkhu gets by with mere faith and love. If we punish him, repeatedly pressuring him — no, let him not lose what little faith and love he has!’
+
+Suppose there was a person with one eye. Their friends and colleagues, relatives and kin would protect that one eye: ‘Let them not lose the one eye that they have!’ In the same way, some bhikkhu gets by with mere faith and love. In such a case, the bhikkhus say: ‘Reverends, this bhikkhu gets by with mere faith and love. If we punish him, repeatedly pressuring him — no, let him not lose what little faith and love he has!’
+
+This is the cause, this is the reason why they punish some bhikkhu, repeatedly pressuring him. And this is the cause, this is the reason why they don’t similarly punish another bhikkhu, repeatedly pressuring him.”
+
+31“What is the cause, sir, what is the reason why there used to be fewer training rules but more enlightened bhikkhus? And what is the cause, what is the reason why these days there are more training rules and fewer enlightened bhikkhus?”
+
+
+32“That’s how it is, Bhaddāli. When sentient beings are in decline and the true teaching is disappearing there are more training rules and fewer enlightened bhikkhus. The Teacher doesn’t lay down training rules for disciples as long as certain defiling influences have not appeared in the Saṅgha. But when such defiling influences appear in the Saṅgha, the Teacher lays down training rules for disciples to protect against them.
 
 And they don’t appear until the Saṅgha has attained a great size, an abundance of material support and fame, learning, and seniority. But when the Saṅgha has attained these things, then such defiling influences appear in the Saṅgha, and the Teacher lays down training rules for disciples to protect against them.
 
@@ -154,7 +154,7 @@ When it has done this, the horse trainer next makes it get used to walking in pr
 
 When it has done this, the horse trainer next rewards it with a grooming and a rub down. A fine royal thoroughbred with these ten factors is worthy of a king, fit to serve a king, and reckoned as a factor of kingship.
 
-39In the same way, a mendicant with ten qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What ten? It’s when a mendicant has an adept’s right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, right immersion, right knowledge, and right freedom. A mendicant with these ten factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
+39In the same way, a bhikkhu with ten qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What ten? It’s when a bhikkhu has an adept’s right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, right immersion, right knowledge, and right freedom. A bhikkhu with these ten factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
 
 40That is what the Buddha said. Satisfied, Venerable Bhaddāli was happy with what the Buddha said.
 

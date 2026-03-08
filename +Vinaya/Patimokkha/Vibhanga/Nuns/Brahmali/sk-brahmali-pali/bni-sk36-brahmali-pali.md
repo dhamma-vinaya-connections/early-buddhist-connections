@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were covering their curries with rice because they wanted more. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were covering their curries with rice because they wanted more. …
 
 #### Final ruling
 
 2“‘I will not cover my curries with rice because I want more,’ this is how you should train.”
 
-3One should not cover one’s curries with rice because one wants more. If a monk, out of disrespect, covers his curries with rice because he wants more, he commits an offense of wrong conduct.
+3One should not cover one’s curries with rice because one wants more. If a bhikkhu, out of disrespect, covers his curries with rice because he wants more, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

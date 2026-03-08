@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five factors that support meditation. What five?
+1“bhikkhus, there are these five factors that support meditation. What five?
 
-It’s when a mendicant has faith in the Realized One’s awakening: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’
+It’s when a bhikkhu has faith in the Realized One’s awakening: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’
 
 They are rarely ill or unwell. Their stomach digests well, being neither too hot nor too cold, but just right, and fit for meditation.
 

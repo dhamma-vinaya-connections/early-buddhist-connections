@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a fine royal thoroughbred with eight factors is worthy of a king, fit to serve a king, and considered a factor of kingship. What eight?
+1“bhikkhus, a fine royal thoroughbred with eight factors is worthy of a king, fit to serve a king, and considered a factor of kingship. What eight?
 
 It’s when a fine royal thoroughbred is well born on both the mother’s and the father’s sides.
 
@@ -41,21 +41,21 @@ He always walks in a straight path. He’s strong, and stays strong even until d
 A fine royal thoroughbred with these eight factors is worthy of a king. …
 
 
-2In the same way, a mendicant with eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and is the supreme field of merit for the world. What eight?
+2In the same way, a bhikkhu with eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and is the supreme field of merit for the world. What eight?
 
 
-It’s when a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
+It’s when a bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
 Whatever food they’re given, coarse or fine, they eat carefully, without annoyance.
 
 They're disgusted with bad conduct by way of body, speech, or mind, and by attainment of the many kinds of unskillful things.
 
-They're sweet-natured and pleasant to live with, and they doesn’t upset the other mendicants.
+They're sweet-natured and pleasant to live with, and they doesn’t upset the other bhikkhus.
 
 
 They openly show their tricks, bluffs, ruses, and feints to their sensible spiritual companions, so they can try to subdue them.
 
-They do their training, determining: ‘Whether or not the other mendicants do their training, I’ll do mine.’
+They do their training, determining: ‘Whether or not the other bhikkhus do their training, I’ll do mine.’
 
 
 They always walk in a straight path. And here the straight path is right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.
@@ -63,7 +63,7 @@ They always walk in a straight path. And here the straight path is right view, r
 They’re energetic: ‘Gladly, let my skin, sinews, and bones remain! Let the blood and flesh waste away in my body! I will not stop trying until I have achieved what is possible by manly strength, energy, and vigor.’
 
 
-A mendicant with these eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
+A bhikkhu with these eight factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
 
 1"Aṭṭhahi, bhikkhave, aṅgehi samannāgato rañño bhaddo assājānīyo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṁ gacchati. Katamehi aṭṭhahi?
 

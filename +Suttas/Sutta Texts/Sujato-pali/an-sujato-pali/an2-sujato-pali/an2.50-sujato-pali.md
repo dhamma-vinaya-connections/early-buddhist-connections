@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two assemblies. What two? An unprincipled assembly and a principled assembly … The better of these two assemblies is the principled assembly.”
+1“There are, bhikkhus, these two assemblies. What two? An unprincipled assembly and a principled assembly … The better of these two assemblies is the principled assembly.”
 
 1"Dvemā, bhikkhave, parisā. Katamā dve? Adhammikā ca parisā dhammikā ca parisā … pe … imā kho, bhikkhave, dve parisā. Etadaggaṁ, bhikkhave, imāsaṁ dvinnaṁ parisānaṁ yadidaṁ dhammikā parisā"ti.
 

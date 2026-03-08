@@ -99,15 +99,15 @@ Saying, “Very good, friend,” Ven. Mahā Koṭṭhita—delighting in & appro
 
 “What, friend, is the first jhāna?”
 
-“There is the case, friend, where a monk—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. This is called the first jhāna.”
+“There is the case, friend, where a bhikkhu—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. This is called the first jhāna.”
 
 “And how many factors does the first jhāna have?”
 
-“The first jhāna has five factors. There is the case where, in a monk who has attained the five-factored first jhāna, there occurs directed thought, evaluation, rapture, pleasure, & singleness of mind. It’s in this way that the first jhāna has five factors.”
+“The first jhāna has five factors. There is the case where, in a bhikkhu who has attained the five-factored first jhāna, there occurs directed thought, evaluation, rapture, pleasure, & singleness of mind. It’s in this way that the first jhāna has five factors.”
 
 “And how many factors are abandoned in the first jhāna, and with how many is it endowed?”
 
-“Five factors are abandoned in the first jhāna, and with five is it endowed. There is the case where, in a monk who has attained the first jhāna, sensual desire is abandoned, ill will is abandoned, sloth & torpor is abandoned, restlessness & anxiety is abandoned, uncertainty is abandoned. And there occur directed thought, evaluation, rapture, pleasure, & singleness of mind. It’s in this way that five factors are abandoned in the first jhāna, and with five it is endowed.”
+“Five factors are abandoned in the first jhāna, and with five is it endowed. There is the case where, in a bhikkhu who has attained the first jhāna, sensual desire is abandoned, ill will is abandoned, sloth & torpor is abandoned, restlessness & anxiety is abandoned, uncertainty is abandoned. And there occur directed thought, evaluation, rapture, pleasure, & singleness of mind. It’s in this way that five factors are abandoned in the first jhāna, and with five it is endowed.”
 
 ## The Five Faculties
 
@@ -135,21 +135,21 @@ Saying, “Very good, friend,” Ven. Mahā Koṭṭhita—delighting in & appro
 
 “Friend, are vitality-fabrications[4](#^mn43note04) the same thing as feeling-states? Or are vitality-fabrications one thing, and feeling-states another?” ^mn43note04-ref
 
-“Vitality-fabrications are not the same thing as feeling-states, friend. If vitality-fabrications were the same thing as feeling-states, the emergence of a monk from the attainment of the cessation of feeling & perception would not be discerned. It’s because vitality-fabrications are one thing and feeling-states another that the emergence of a monk from the attainment of the cessation of perception & feeling is discerned.”
+“Vitality-fabrications are not the same thing as feeling-states, friend. If vitality-fabrications were the same thing as feeling-states, the emergence of a bhikkhu from the attainment of the cessation of feeling & perception would not be discerned. It’s because vitality-fabrications are one thing and feeling-states another that the emergence of a bhikkhu from the attainment of the cessation of perception & feeling is discerned.”
 
 “When this body lacks how many qualities does it lie discarded & forsaken, like a senseless log?”
 
 “When this body lacks these three qualities—vitality, heat, & consciousness—it lies discarded & forsaken like a senseless log.”
 
-“What is the difference between one who is dead, who has completed his time, and a monk who has attained the cessation of perception & feeling?”
+“What is the difference between one who is dead, who has completed his time, and a bhikkhu who has attained the cessation of perception & feeling?”
 
-“In the case of the one who is dead, who has completed his time, his bodily fabrications have ceased & subsided, his verbal fabrications... his mental fabrications have ceased & subsided, his vitality is exhausted, his heat subsided, & his faculties are scattered. But in the case of a monk who has attained the cessation of perception & feeling, his bodily fabrications have ceased & subsided, his verbal fabrications... his mental fabrications have ceased & subsided, his vitality is not exhausted, his heat has not subsided, & his faculties are exceptionally clear. This is the difference between one who is dead, who has completed his time, and a monk who has attained the cessation of perception & feeling.”
+“In the case of the one who is dead, who has completed his time, his bodily fabrications have ceased & subsided, his verbal fabrications... his mental fabrications have ceased & subsided, his vitality is exhausted, his heat subsided, & his faculties are scattered. But in the case of a bhikkhu who has attained the cessation of perception & feeling, his bodily fabrications have ceased & subsided, his verbal fabrications... his mental fabrications have ceased & subsided, his vitality is not exhausted, his heat has not subsided, & his faculties are exceptionally clear. This is the difference between one who is dead, who has completed his time, and a bhikkhu who has attained the cessation of perception & feeling.”
 
 ## Awareness-release
 
 “Friend, how many conditions are there for the attainment of the neither-pleasant-nor-painful awareness-release?”
 
-“Friend, there are four conditions for the attainment of the neither-pleasant-nor-painful awareness-release. There is the case where a monk, with the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. These are the four conditions for the attainment of the neither-pleasant-nor-painful awareness-release.
+“Friend, there are four conditions for the attainment of the neither-pleasant-nor-painful awareness-release. There is the case where a bhikkhu, with the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. These are the four conditions for the attainment of the neither-pleasant-nor-painful awareness-release.
 
 “How many conditions are there for the attainment of the theme-less awareness-release?”[5](#^mn43note05) ^mn43note05-ref
 
@@ -167,7 +167,7 @@ Saying, “Very good, friend,” Ven. Mahā Koṭṭhita—delighting in & appro
 
 “The immeasurable awareness-release, the nothingness awareness-release, the emptiness awareness-release, the theme-less awareness-release: There is a way of explanation by which these qualities are different in meaning & different in name, and there is a way of explanation by which these qualities are one in meaning and different only in name.
 
-“And what is the way of explanation by which these qualities are different in meaning & different in name? There is the case where a monk keeps pervading the first direction [the east]—as well as the second direction, the third, & the fourth—with an awareness imbued with goodwill. Thus he keeps pervading above, below, & all around, everywhere & in every respect the all-encompassing world with an awareness imbued with goodwill: abundant, expansive, immeasurable, free from hostility, free from ill will.
+“And what is the way of explanation by which these qualities are different in meaning & different in name? There is the case where a bhikkhu keeps pervading the first direction [the east]—as well as the second direction, the third, & the fourth—with an awareness imbued with goodwill. Thus he keeps pervading above, below, & all around, everywhere & in every respect the all-encompassing world with an awareness imbued with goodwill: abundant, expansive, immeasurable, free from hostility, free from ill will.
 
 “He keeps pervading the first direction—as well as the second direction, the third, & the fourth—with an awareness imbued with compassion... an awareness imbued with empathetic joy....
 
@@ -175,21 +175,21 @@ Saying, “Very good, friend,” Ven. Mahā Koṭṭhita—delighting in & appro
 
 “This is called the immeasurable awareness-release.
 
-“And what is the nothingness awareness-release? There is the case where a monk, with the complete transcending of the dimension of the infinitude of consciousness, thinking, ‘There is nothing,’ enters & remains in the dimension of nothingness. This is called the nothingness awareness-release.
+“And what is the nothingness awareness-release? There is the case where a bhikkhu, with the complete transcending of the dimension of the infinitude of consciousness, thinking, ‘There is nothing,’ enters & remains in the dimension of nothingness. This is called the nothingness awareness-release.
 
-“And what is the emptiness awareness-release? There is the case where a monk, having gone into the wilderness, to the root of a tree, or into an empty dwelling, considers this: ‘This is empty of self or of anything pertaining to self.’[6](#^mn43note06) This is called the emptiness awareness-release. ^mn43note06-ref
+“And what is the emptiness awareness-release? There is the case where a bhikkhu, having gone into the wilderness, to the root of a tree, or into an empty dwelling, considers this: ‘This is empty of self or of anything pertaining to self.’[6](#^mn43note06) This is called the emptiness awareness-release. ^mn43note06-ref
 
-“And what is the theme-less awareness-release? There is the case where a monk, through not attending to all themes, enters & remains in the theme-less samādhi of awareness. This is called the theme-less awareness-release.
+“And what is the theme-less awareness-release? There is the case where a bhikkhu, through not attending to all themes, enters & remains in the theme-less samādhi of awareness. This is called the theme-less awareness-release.
 
 “This is the way of explaining by which these qualities are different in meaning & different in name.
 
 “And what is the way of explaining whereby these qualities are one in meaning and different only in name?
 
-“Passion, friend, is a making of measurement. Aversion is a making of measurement. Delusion is a making of measurement. In a monk whose effluents are ended, these have been abandoned, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Now, to the extent that there is immeasurable awareness-release, the unprovoked awareness-release is declared the foremost. And this unprovoked awareness-release is empty of passion, empty of aversion, empty of delusion.
+“Passion, friend, is a making of measurement. Aversion is a making of measurement. Delusion is a making of measurement. In a bhikkhu whose effluents are ended, these have been abandoned, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Now, to the extent that there is immeasurable awareness-release, the unprovoked awareness-release is declared the foremost. And this unprovoked awareness-release is empty of passion, empty of aversion, empty of delusion.
 
-“Passion is a something. Aversion is a something. Delusion is a something. In a monk whose effluents are ended, these have been abandoned, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Now, to the extent that there is nothingness awareness-release, the unprovoked awareness-release is declared the foremost. And this unprovoked awareness-release is empty of passion, empty of aversion, empty of delusion.
+“Passion is a something. Aversion is a something. Delusion is a something. In a bhikkhu whose effluents are ended, these have been abandoned, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Now, to the extent that there is nothingness awareness-release, the unprovoked awareness-release is declared the foremost. And this unprovoked awareness-release is empty of passion, empty of aversion, empty of delusion.
 
-“Passion is a making of themes. Aversion is a making of themes. Delusion is a making of themes. In a monk whose effluents are ended, these have been abandoned, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Now, to the extent that there is theme-less awareness-release, the unprovoked awareness-release is declared the foremost. And this unprovoked awareness-release is empty of passion, empty of aversion, empty of delusion.
+“Passion is a making of themes. Aversion is a making of themes. Delusion is a making of themes. In a bhikkhu whose effluents are ended, these have been abandoned, their root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. Now, to the extent that there is theme-less awareness-release, the unprovoked awareness-release is declared the foremost. And this unprovoked awareness-release is empty of passion, empty of aversion, empty of delusion.
 
 “This, friend, is the way of explaining whereby these qualities are one in meaning and different only in name.”
 

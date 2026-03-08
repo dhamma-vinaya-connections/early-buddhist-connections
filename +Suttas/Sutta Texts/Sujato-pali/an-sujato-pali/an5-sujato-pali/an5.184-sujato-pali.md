@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five kinds of people who dwell in a charnel ground. What five? A person may dwell in a charnel ground because of stupidity … bad desires … madness … because it is praised by the Buddhas … or for the sake of having few wishes … These are the five kinds of people who dwell in a charnel ground.”
+1“bhikkhus, there are these five kinds of people who dwell in a charnel ground. What five? A person may dwell in a charnel ground because of stupidity … bad desires … madness … because it is praised by the Buddhas … or for the sake of having few wishes … These are the five kinds of people who dwell in a charnel ground.”
 
 
 ---

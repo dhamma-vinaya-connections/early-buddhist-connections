@@ -41,7 +41,7 @@ letting go what was picked up, without creating anything new here.
 
 791 Having let go the last they lay hold of the next;  
 following impulse, they don’t get past the snare.  
-They grab on and let go like a monkey  
+They grab on and let go like a bhikkhuey  
 grabbing and releasing a branch.
 
 792 Having undertaken their own vows, a person  

@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 25. The Naked Wanderer
 
-1. Thus I have heard: One time, the Buddha was staying at the deer preserve near Karṇakāṣṭha of [Ujuññā]. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying at the deer preserve near Karṇakāṣṭha of [Ujuññā]. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 2. A naked wanderer from the Kāśyapa clan visited the Bhagavān. After they exchanged greetings, he sat to one side. That naked Kāśyapa said to the Buddha, “I hear that the ascetic Gautama criticizes all ritual practices and rebukes other ascetics, considering them corrupt. Gautama, suppose someone said, ‘The ascetic Gautama criticizes all the ritual practices and rebukes other ascetics, considering them corrupt.’ If someone says this is Dharma speech that accomplishes the teachings, would they not be slandering the ascetic Gautama?”
 

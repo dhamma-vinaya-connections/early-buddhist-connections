@@ -16,11 +16,11 @@ Translated by Charles Patton
 
 ### 8. Sandhāna
 
-1. Thus I have heard: One time, the Buddha was staying at Saptaparṇa Cave near Mount Vaibhāra of Rājagṛha. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying at Saptaparṇa Cave near Mount Vaibhāra of Rājagṛha. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 #### Sandhāna Visits Udumbarikā’s Grove
 
-2. At the time, there was a householder of Rājagṛha named Sandhāna who liked to go for walks. Every day, he would leave the city to visit the Bhagavān. On this occasion, that householder looked up at the sun and thought to himself, “Now is not the time to go meet the Buddha. The Bhagavān is surely in contemplative samādhi in a quiet place right now, and the assembly of monks will be meditating quietly as well. It would be better to go to Udumbarikā’s Grove and wait until the right time of day. Then, I’ll visit the Bhagavān, pay homage to him, exchange greetings with him, and do the same with the monks.”
+2. At the time, there was a householder of Rājagṛha named Sandhāna who liked to go for walks. Every day, he would leave the city to visit the Bhagavān. On this occasion, that householder looked up at the sun and thought to himself, “Now is not the time to go meet the Buddha. The Bhagavān is surely in contemplative samādhi in a quiet place right now, and the assembly of bhikkhus will be meditating quietly as well. It would be better to go to Udumbarikā’s Grove and wait until the right time of day. Then, I’ll visit the Bhagavān, pay homage to him, exchange greetings with him, and do the same with the bhikkhus.”
 
 3. There was a wanderer at Udumbarikā’s Grove named Nigrodha. He was accompanied by 500 wanderers who were staying at that grove. At the time, this assembly of wanderers had gathered in one place and were engaged in a loud and boisterous conversation using speech that obstructed the path with confusing words. They would do this until the end of the day. Sometimes, they discussed affairs of state. Sometimes, it was warfare and weapons. Sometimes, it was the harmony of countries. Sometimes, it was ministers and common people. Sometimes, it was riding chariots and horses through parks and forests. Sometimes, it was sitting mats, clothing, meals, and women. Sometimes, they discussed tortoises and sea turtles. They would only discuss such things that obstructed the path until the end of the day.
 

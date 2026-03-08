@@ -18,12 +18,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-“Mendicants, there are these four ways of taking up practices. What four? There is a way of taking up practices that is pleasant now but results in future pain. There is a way of taking up practices that is painful now and results in future pain. There is a way of taking up practices that is painful now but results in future pleasure. There is a way of taking up practices that is pleasant now and results in future pleasure.
+“bhikkhus, there are these four ways of taking up practices. What four? There is a way of taking up practices that is pleasant now but results in future pain. There is a way of taking up practices that is painful now and results in future pain. There is a way of taking up practices that is painful now but results in future pleasure. There is a way of taking up practices that is pleasant now and results in future pleasure.
 
 2And what is the way of taking up practices that is pleasant now but results in future pain? There are some ascetics and brahmins who have this doctrine and view: ‘There’s nothing wrong with sensual pleasures.’ They throw themselves into sensual pleasures, cavorting with female wanderers with fancy hair-dos. They say, ‘What future danger do those ascetics and brahmins see in sensual pleasures that they speak of giving up sensual pleasures, and advocate the complete understanding of sensual pleasures? Pleasant is the touch of this female wanderer’s arm, tender, soft, and downy!’ And they throw themselves into sensual pleasures. When their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell. And there they feel painful, sharp, severe, acute feelings. They say, ‘This is that future danger that those ascetics and brahmins saw. For it is because of sensual pleasures that I’m feeling painful, sharp, severe, acute feelings.’
 
@@ -44,7 +44,7 @@ language: "English - Pali"
 
 9And what is the way of taking up practices that is pleasant now and results in future pleasure? It’s when someone is not ordinarily full of acute greed, hate, and delusion. They rarely feel the pain and sadness that greed, hate, and delusion bring. Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna … second jhāna … third jhāna … fourth jhāna. When their body breaks up, after death, they’re reborn in a good place, a heavenly realm. This is called the way of taking up practices that is pleasant now and results in future pleasure. These are the four ways of taking up practices.”
 
-10That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+10That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

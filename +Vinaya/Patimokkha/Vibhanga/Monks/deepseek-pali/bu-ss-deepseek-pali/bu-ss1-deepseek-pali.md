@@ -27,11 +27,11 @@ The rules come up for recitation.
 
 Atha kho āyasmā seyyasako yāvadatthaṃ bhuñji yāvadatthaṃ supi yāvadatthaṃ nhāyi. Yāvadatthaṃ bhuñjitvā yāvadatthaṃ supitvā yāvadatthaṃ nhāyitvā yadā anabhirati uppajjati rāgo cittaṃ anuddhaṃseti tadā hatthena upakkamitvā asuciṃ mocesi. Atha kho āyasmā seyyasako aparena samayena vaṇṇavā ahosi pīṇindriyo pasannamukhavaṇṇo vippasannachavivaṇṇo. Atha kho āyasmato seyyasakassa sahāyakā bhikkhū āyasmantaṃ seyyasakaṃ etadavocuṃ – ‘‘pubbe kho tvaṃ, āvuso seyyasaka, kiso ahosi lūkho dubbaṇṇo uppaṇḍuppaṇḍukajāto dhamanisanthatagatto. So dāni tvaṃ etarahi vaṇṇavā pīṇindriyo pasannamukhavaṇṇo vippasannachavivaṇṇo. Kiṃ nu kho tvaṃ, āvuso seyyasaka, bhesajjaṃ karosī’’ti? ‘‘Na kho ahaṃ, āvuso, bhesajjaṃ karomi. Apicāhaṃ yāvadatthaṃ bhuñjāmi yāvadatthaṃ supāmi yāvadatthaṃ nhāyāmi. Yāvadatthaṃ bhuñjitvā yāvadatthaṃ supitvā yāvadatthaṃ nhāyitvā yadā me anabhirati uppajjati rāgo cittaṃ anuddhaṃseti tadā hatthena upakkamitvā asuciṃ mocemī’’ti. ‘‘Kiṃ pana tvaṃ, āvuso seyyasaka, yeneva hatthena saddhādeyyaṃ bhuñjasi teneva hatthena upakkamitvā asuciṃ mocesī’’ti? ‘‘Evamāvuso’’ti. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma āyasmā seyyasako hatthena upakkamitvā asuciṃ mocessatī’’ti!
 
-Then Venerable Seyyasaka ate as much as he wanted, slept as much as he wanted, and bathed as much as he wanted. Having eaten as much as he wanted, slept as much as he wanted, and bathed as much as he wanted, when discontent arose and lust agitated his mind, he approached with his hand and released impurity. After some time, Venerable Seyyasaka became handsome, with flourishing faculties, a bright face, and clear skin. Then his fellow monks said to him, "Previously, Venerable Seyyasaka, you were thin, gaunt, ugly, pale, with veins showing all over your body. But now you are handsome, with flourishing faculties, a bright face, and clear skin. What medicine are you taking, friend Seyyasaka?" "I take no medicine, friends. I simply eat as much as I want, sleep as much as I want, and bathe as much as I want. Having eaten, slept, and bathed as much as I want, when discontent arises and lust agitates my mind, I approach with my hand and release impurity." "But friend Seyyasaka, do you use the same hand with which you eat food given in faith to release impurity?" "Yes, friends." Those monks who were of few desires...etc... complained and criticized him, "How can Venerable Seyyasaka release impurity with his hand?"
+Then Venerable Seyyasaka ate as much as he wanted, slept as much as he wanted, and bathed as much as he wanted. Having eaten as much as he wanted, slept as much as he wanted, and bathed as much as he wanted, when discontent arose and lust agitated his mind, he approached with his hand and released impurity. After some time, Venerable Seyyasaka became handsome, with flourishing faculties, a bright face, and clear skin. Then his fellow bhikkhus said to him, "Previously, Venerable Seyyasaka, you were thin, gaunt, ugly, pale, with veins showing all over your body. But now you are handsome, with flourishing faculties, a bright face, and clear skin. What medicine are you taking, friend Seyyasaka?" "I take no medicine, friends. I simply eat as much as I want, sleep as much as I want, and bathe as much as I want. Having eaten, slept, and bathed as much as I want, when discontent arises and lust agitates my mind, I approach with my hand and release impurity." "But friend Seyyasaka, do you use the same hand with which you eat food given in faith to release impurity?" "Yes, friends." Those bhikkhus who were of few desires...etc... complained and criticized him, "How can Venerable Seyyasaka release impurity with his hand?"
 
 Atha kho te bhikkhū āyasmantaṃ seyyasakaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ. Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṅghaṃ sannipātāpetvā āyasmantaṃ seyyasakaṃ paṭipucchi – ‘‘saccaṃ kira tvaṃ, seyyasaka, hatthena upakkamitvā asuciṃ mocesī’’ti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā – ‘‘ananucchavikaṃ, moghapurisa, ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ. Kathañhi nāma tvaṃ, moghapurisa, hatthena upakkamitvā asuciṃ mocessasi! Nanu mayā, moghapurisa, anekapariyāyena virāgāya dhammo desito no sarāgāya, visaññogāya dhammo desito no saññogāya, anupādānāya dhammo desito no saupādānāya! Tattha nāma tvaṃ, moghapurisa, mayā virāgāya dhamme desite sarāgāya cetessasi, visaññogāya dhamme desite saññogāya cetessasi, anupādānāya dhamme desite saupādānāya cetessasi! Nanu mayā, moghapurisa, anekapariyāyena rāgavirāgāya dhammo desito, madanimmadanāya pipāsavinayāya ālayasamugghātāya vaṭṭupacchedāya taṇhakkhayāya virāgāya nirodhāya nibbānāya dhammo desito? Nanu mayā, moghapurisa, anekapariyāyena kāmānaṃ pahānaṃ akkhātaṃ, kāmasaññānaṃ pariññā akkhātā, kāmapipāsānaṃ paṭivinayo akkhāto, kāmavitakkānaṃ samugghāto akkhāto, kāmapariḷāhānaṃ vūpasamo akkhāto? Netaṃ, moghapurisa, appasannānaṃ vā pasādāya, pasannānaṃ vā bhiyyobhāvāya. Atha khvetaṃ, moghapurisa, appasannānañceva appasādāya, pasannānañca ekaccānaṃ aññathattāyā’’ti. Atha kho bhagavā āyasmantaṃ seyyasakaṃ anekapariyāyena vigarahitvā dubbharatāya…pe… ‘‘evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-Then those monks, having reproached Venerable Seyyasaka in many ways, reported the matter to the Blessed One. Then the Blessed One, in connection with this cause, in connection with this matter, convened the Sangha of monks and questioned Venerable Seyyasaka: "Is it true, Seyyasaka, that you, by your own hand, intentionally discharged semen?" "It is true, Blessed One." The Buddha, the Blessed One, rebuked him: "It is unsuitable, foolish man, unbecoming, improper, unworthy of an ascetic, not allowable, not to be done. How could you, foolish man, by your own hand, intentionally discharge semen? Haven’t I, foolish man, taught the Dhamma in many ways for dispassion, not for passion; for detachment, not for attachment; for non-clinging, not for clinging? But you, foolish man, though the Dhamma was taught by me for dispassion, you think in terms of passion; though the Dhamma was taught by me for detachment, you think in terms of attachment; though the Dhamma was taught by me for non-clinging, you think in terms of clinging! Haven’t I, foolish man, taught the Dhamma in many ways for the fading away of lust, for the stilling of intoxication, for the uprooting of attachment, for the cutting off of the round, for the destruction of craving, for dispassion, for cessation, for Nibbāna? Haven’t I, foolish man, in many ways described the abandoning of sensual pleasures, the full understanding of sensual perceptions, the overcoming of sensual thirst, the uprooting of sensual thoughts, the calming of sensual fever? This will not, foolish man, lead to confidence in the unconvinced, nor to the increase of the convinced. Rather, foolish man, this will lead to non-confidence in the unconvinced and to wavering in some of the convinced." Then the Blessed One, having rebuked Venerable Seyyasaka in many ways for being difficult to support...etc... "And thus, monks, should you recite this training rule:
+Then those bhikkhus, having reproached Venerable Seyyasaka in many ways, reported the matter to the Blessed One. Then the Blessed One, in connection with this cause, in connection with this matter, convened the Sangha of bhikkhus and questioned Venerable Seyyasaka: "Is it true, Seyyasaka, that you, by your own hand, intentionally discharged semen?" "It is true, Blessed One." The Buddha, the Blessed One, rebuked him: "It is unsuitable, foolish man, unbecoming, improper, unworthy of an ascetic, not allowable, not to be done. How could you, foolish man, by your own hand, intentionally discharge semen? Haven’t I, foolish man, taught the Dhamma in many ways for dispassion, not for passion; for detachment, not for attachment; for non-clinging, not for clinging? But you, foolish man, though the Dhamma was taught by me for dispassion, you think in terms of passion; though the Dhamma was taught by me for detachment, you think in terms of attachment; though the Dhamma was taught by me for non-clinging, you think in terms of clinging! Haven’t I, foolish man, taught the Dhamma in many ways for the fading away of lust, for the stilling of intoxication, for the uprooting of attachment, for the cutting off of the round, for the destruction of craving, for dispassion, for cessation, for Nibbāna? Haven’t I, foolish man, in many ways described the abandoning of sensual pleasures, the full understanding of sensual perceptions, the overcoming of sensual thirst, the uprooting of sensual thoughts, the calming of sensual fever? This will not, foolish man, lead to confidence in the unconvinced, nor to the increase of the convinced. Rather, foolish man, this will lead to non-confidence in the unconvinced and to wavering in some of the convinced." Then the Blessed One, having rebuked Venerable Seyyasaka in many ways for being difficult to support...etc... "And thus, bhikkhus, should you recite this training rule:
 
 ‘‘Sañcetanikā sukkavissaṭṭhi [visaṭṭhi (sī. syā.)] saṅghādiseso’’ti.
 
@@ -39,11 +39,11 @@ Then those monks, having reproached Venerable Seyyasaka in many ways, reported t
 
 Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti.
 
-Thus was this training rule laid down by the Blessed One for the monks.
+Thus was this training rule laid down by the Blessed One for the bhikkhus.
 
 235. Tena kho pana samayena bhikkhū paṇītabhojanāni bhuñjitvā muṭṭhassatī asampajānā niddaṃ okkamanti. Tesaṃ muṭṭhassatīnaṃ asampajānānaṃ niddaṃ okkamantānaṃ supinantena asuci muccati. Tesaṃ kukkuccaṃ ahosi – ‘‘bhagavatā sikkhāpadaṃ paññattaṃ – ‘sañcetanikā sukkavissaṭṭhi saṅghādiseso’ti. Amhākañca supinantena asuci muccati. Atthi cettha cetanā labbhati. Kacci nu kho mayaṃ saṅghādisesaṃ āpattiṃ āpannā’’ti? Bhagavato etamatthaṃ ārocesuṃ. ‘‘Atthesā, bhikkhave, cetanā; sā ca kho abbohārikāti. Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-235.At that time monks, having eaten choice foods, being unmindful and not fully aware, went to sleep. While they were unmindful and not fully aware and had gone to sleep, semen was discharged during their dreams. They felt remorse: "The Blessed One has laid down a training rule: 'Intentional emission of semen entails a Sanghādisesa.' And semen was discharged during our dreams. Is there intention involved here? Have we incurred an offense requiring a Sanghādisesa?" They reported this matter to the Blessed One. "Monks, there is intention, but it is not subject to legal proceedings. And, monks, you should recite this training rule thus:
+235.At that time bhikkhus, having eaten choice foods, being unmindful and not fully aware, went to sleep. While they were unmindful and not fully aware and had gone to sleep, semen was discharged during their dreams. They felt remorse: "The Blessed One has laid down a training rule: 'Intentional emission of semen entails a Sanghādisesa.' And semen was discharged during our dreams. Is there intention involved here? Have we incurred an offense requiring a Sanghādisesa?" They reported this matter to the Blessed One. "bhikkhus, there is intention, but it is not subject to legal proceedings. And, bhikkhus, you should recite this training rule thus:
 
 236. ‘‘Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṅghādiseso’’ti.
 
@@ -731,191 +731,191 @@ Matters of Discipline
 
 263. Tena kho pana samayena aññatarassa bhikkhuno supinantena asuci mucci. Tassa kukkuccaṃ ahosi – ‘‘bhagavatā sikkhāpadaṃ paññattaṃ, kacci nu kho ahaṃ saṅghādisesaṃ āpattiṃ āpanno’’ti? Bhagavato etamatthaṃ ārocesi. ‘‘Anāpatti, bhikkhu, supinantenā’’ti.
 
-263.At that time, a certain monk discharged semen due to a dream. He had scruples, thinking, "The Blessed One has laid down a training rule; could I have incurred an offense entailing suspension?" He reported this matter to the Blessed One. "There is no offense, monk, due to a dream."
+263.At that time, a certain bhikkhu discharged semen due to a dream. He had scruples, thinking, "The Blessed One has laid down a training rule; could I have incurred an offense entailing suspension?" He reported this matter to the Blessed One. "There is no offense, bhikkhu, due to a dream."
 
 Tena kho pana samayena aññatarassa bhikkhuno uccāraṃ karontassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘kiṃcitto tvaṃ, bhikkhū’’ti? ‘‘Nāhaṃ, bhagavā, mocanādhippāyo’’ti. ‘‘Anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time a certain monk was defecating when impure matter was discharged. He had scruples... "What was your state of mind, monk?" "I had no intention to discharge it, Blessed One." "There is no offense, monk, for one who had no intention to discharge it."
+At that time a certain bhikkhu was defecating when impure matter was discharged. He had scruples... "What was your state of mind, bhikkhu?" "I had no intention to discharge it, Blessed One." "There is no offense, bhikkhu, for one who had no intention to discharge it."
 
 Tena kho pana samayena aññatarassa bhikkhuno passāvaṃ karontassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time, a certain monk was urinating when impure matter was discharged. He had scruples... "There is no offense, monk, for one who had no intention to discharge it."
+At that time, a certain bhikkhu was urinating when impure matter was discharged. He had scruples... "There is no offense, bhikkhu, for one who had no intention to discharge it."
 
 Tena kho pana samayena aññatarassa bhikkhuno kāmavitakkaṃ vitakkentassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, vitakkentassā’’ti.
 
-At that time, a certain monk, while thinking sensual thoughts, discharged semen. He had scruples... "There is no offense, monk, for one who is merely thinking."
+At that time, a certain bhikkhu, while thinking sensual thoughts, discharged semen. He had scruples... "There is no offense, bhikkhu, for one who is merely thinking."
 
 Tena kho pana samayena aññatarassa bhikkhuno uṇhodakena nhāyantassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘kiṃcitto tvaṃ, bhikkhū’’ti? ‘‘Nāhaṃ, bhagavā, mocanādhippāyo’’ti. ‘‘Anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time, a certain monk was bathing in warm water, and semen was discharged. He had scruples... "What was your intention, monk?" "I had no intention of discharging, Blessed One." "There is no offense, monk, for one who had no intention of discharging."
+At that time, a certain bhikkhu was bathing in warm water, and semen was discharged. He had scruples... "What was your intention, bhikkhu?" "I had no intention of discharging, Blessed One." "There is no offense, bhikkhu, for one who had no intention of discharging."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa uṇhodakena nhāyantassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘āpattiṃ tvaṃ, bhikkhu, āpanno saṅghādisesa’’nti.
 
-At that time a certain monk, intending to discharge, was bathing in warm water when semen was discharged. He had scruples... "Monk, you have incurred an offense entailing suspension."
+At that time a certain bhikkhu, intending to discharge, was bathing in warm water when semen was discharged. He had scruples... "bhikkhu, you have incurred an offense entailing suspension."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa uṇhodakena nhāyantassa asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time, a certain monk, intending to discharge semen, bathed in warm water, but semen was not discharged. He had scruples... "There is no offense entailing suspension, monk, but there is a grave offense."
+At that time, a certain bhikkhu, intending to discharge semen, bathed in warm water, but semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu, but there is a grave offense."
 
 Tena kho pana samayena aññatarassa bhikkhuno aṅgajāte vaṇo hoti. Bhesajjena [tassa bhesajjena (?)] ālimpentassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time, a certain monk had a sore on his penis. While applying medicine, semen was discharged. He had scruples... "There is no offense, monk, for one who had no intention of discharging."
+At that time, a certain bhikkhu had a sore on his penis. While applying medicine, semen was discharged. He had scruples... "There is no offense, bhikkhu, for one who had no intention of discharging."
 
 Tena kho pana samayena aññatarassa bhikkhuno aṅgajāte vaṇo hoti. Mocanādhippāyassa [tassa mocanāmippāyassa (syā.)] bhesajjena ālimpentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk had a sore on his penis. While applying medicine intending to discharge, semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk, but there is a grave offense."
+At that time a certain bhikkhu had a sore on his penis. While applying medicine intending to discharge, semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu, but there is a grave offense."
 
 Tena kho pana samayena aññatarassa bhikkhuno aṇḍaṃ kaṇḍuvantassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time a certain monk's scrotum was itching. While scratching, semen was discharged. He had scruples... "There is no offense, monk, for one who had no intention of discharging."
+At that time a certain bhikkhu's scrotum was itching. While scratching, semen was discharged. He had scruples... "There is no offense, bhikkhu, for one who had no intention of discharging."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa aṇḍaṃ kaṇḍuvantassa [kaṇḍūvantassa (sī.)] asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to discharge semen, scratched his testicles, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk, but there is a grave offense."
+At that time a certain bhikkhu, intending to discharge semen, scratched his testicles, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu, but there is a grave offense."
 
 264. Tena kho pana samayena aññatarassa bhikkhuno maggaṃ gacchantassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-264.At that time, for a certain monk walking along a road, semen was discharged. He had scruples... "There is no offense, monk, for one who had no intention of discharging."
+264.At that time, for a certain bhikkhu walking along a road, semen was discharged. He had scruples... "There is no offense, bhikkhu, for one who had no intention of discharging."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa maggaṃ gacchantassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to discharge semen, was going along a road, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk; there is a grave offense."
+At that time a certain bhikkhu, intending to discharge semen, was going along a road, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu; there is a grave offense."
 
 Tena kho pana samayena aññatarassa bhikkhuno vatthiṃ gahetvā passāvaṃ karontassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time, a certain monk was holding his penis while urinating, and semen was discharged. He had scruples... "There is no offense, monk, for one who had no intention of discharging."
+At that time, a certain bhikkhu was holding his penis while urinating, and semen was discharged. He had scruples... "There is no offense, bhikkhu, for one who had no intention of discharging."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa vatthiṃ gahetvā passāvaṃ karontassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to discharge semen, was holding his penis while urinating, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk, but there is a grave offense."
+At that time a certain bhikkhu, intending to discharge semen, was holding his penis while urinating, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu, but there is a grave offense."
 
 Tena kho pana samayena aññatarassa bhikkhuno jantāghare udaravaṭṭiṃ tāpentassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time, a certain monk was warming his belly in a bathhouse, and semen was discharged. He had scruples... "There is no offense, monk, for one who had no intention of discharging."
+At that time, a certain bhikkhu was warming his belly in a bathhouse, and semen was discharged. He had scruples... "There is no offense, bhikkhu, for one who had no intention of discharging."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa jantāghare udaravaṭṭiṃ tāpentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time, a certain monk, intending to discharge semen, was warming his belly in a bathhouse, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk, but there is a grave offense."
+At that time, a certain bhikkhu, intending to discharge semen, was warming his belly in a bathhouse, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu, but there is a grave offense."
 
 Tena kho pana samayena aññatarassa bhikkhuno jantāghare upajjhāyassa piṭṭhiparikammaṃ karontassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time, a certain monk was massaging his preceptor’s back in the bathhouse, and semen was discharged. He had scruples... "There is no offense, monk, for one who had no intention of discharging."
+At that time, a certain bhikkhu was massaging his preceptor’s back in the bathhouse, and semen was discharged. He had scruples... "There is no offense, bhikkhu, for one who had no intention of discharging."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa jantāghare upajjhāyassa piṭṭhiparikammaṃ karontassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to discharge semen, was massaging his preceptor's back in a bathhouse, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk, but there is a grave offense."
+At that time a certain bhikkhu, intending to discharge semen, was massaging his preceptor's back in a bathhouse, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu, but there is a grave offense."
 
 265. Tena kho pana samayena aññatarassa bhikkhuno ūruṃ ghaṭṭāpentassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-265.At that time, a certain monk, while rubbing his thigh, discharged semen. He had scruples... "There is no offense, monk, for one who had no intention of discharging."
+265.At that time, a certain bhikkhu, while rubbing his thigh, discharged semen. He had scruples... "There is no offense, bhikkhu, for one who had no intention of discharging."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa ūruṃ ghaṭṭāpentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, with the intention of discharging semen, rubbed his thigh, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk; there is a grave offense."
+At that time a certain bhikkhu, with the intention of discharging semen, rubbed his thigh, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu; there is a grave offense."
 
 Tena kho pana samayena aññataro bhikkhu mocanādhippāyo aññataraṃ sāmaṇeraṃ etadavoca – ‘‘ehi me tvaṃ, āvuso sāmaṇera, aṅgajātaṃ gaṇhāhī’’ti. So tassa aṅgajātaṃ aggahesi. Tasseva asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘āpattiṃ tvaṃ, bhikkhu, āpanno saṅghādisesa’’nti.
 
-At that time, a certain monk, intending to discharge semen, said to a novice: “Come, friend novice, grasp my penis.” The novice grasped his penis, and semen was discharged. He had scruples... “You, monk, have incurred an offense entailing suspension.”
+At that time, a certain bhikkhu, intending to discharge semen, said to a novice: “Come, friend novice, grasp my penis.” The novice grasped his penis, and semen was discharged. He had scruples... “You, bhikkhu, have incurred an offense entailing suspension.”
 
 Tena kho pana samayena aññataro bhikkhu suttassa sāmaṇerassa aṅgajātaṃ aggahesi. Tasseva asuci mucci. Tassa kukkuccaṃ ahosi …pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti dukkaṭassā’’ti.
 
-At that time, a certain monk grasped the penis of a novice who was asleep. Semen was discharged on him. He had scruples... "There is no offense entailing suspension, monk, but there is an offense of wrong-doing."
+At that time, a certain bhikkhu grasped the penis of a novice who was asleep. Semen was discharged on him. He had scruples... "There is no offense entailing suspension, bhikkhu, but there is an offense of wrong-doing."
 
 266. Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa ūrūhi aṅgajātaṃ pīḷentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-266.At that time, a certain monk, intending to discharge semen, pressed his penis with his thighs and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk; there is a grave offense."
+266.At that time, a certain bhikkhu, intending to discharge semen, pressed his penis with his thighs and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu; there is a grave offense."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa muṭṭhinā aṅgajātaṃ pīḷentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to discharge semen, pressed his penis with his fist, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk, but there is a grave offense."
+At that time a certain bhikkhu, intending to discharge semen, pressed his penis with his fist, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu, but there is a grave offense."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa ākāse kaṭiṃ kampentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time, a certain monk, intending to discharge semen, shook his waist in the air, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk; there is a grave offense."
+At that time, a certain bhikkhu, intending to discharge semen, shook his waist in the air, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu; there is a grave offense."
 
 Tena kho pana samayena aññatarassa bhikkhuno kāyaṃ thambhentassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time, a certain monk stiffened his body, and semen was discharged. He had scruples... "There is no offense, monk, for one who had no intention of discharging."
+At that time, a certain bhikkhu stiffened his body, and semen was discharged. He had scruples... "There is no offense, bhikkhu, for one who had no intention of discharging."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa kāyaṃ thambhentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to discharge semen, stiffened his body, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, monk; there is a grave offense."
+At that time a certain bhikkhu, intending to discharge semen, stiffened his body, and semen was discharged... semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu; there is a grave offense."
 
 Tena kho pana samayena aññataro bhikkhu sāratto mātugāmassa aṅgajātaṃ upanijjhāyi. Tassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa. Na ca, bhikkhave, sārattena mātugāmassa aṅgajātaṃ upanijjhāyitabbaṃ. Yo upanijjhāyeyya, āpatti dukkaṭassā’’ti.
 
-At that time, a certain monk, being lustful, gazed at a woman's genitals and discharged semen. He had scruples... "There is no offense entailing suspension, monk. But, monks, one should not lustfully gaze at a woman's genitals. Whoever does so commits an offense of wrong-doing."
+At that time, a certain bhikkhu, being lustful, gazed at a woman's genitals and discharged semen. He had scruples... "There is no offense entailing suspension, bhikkhu. But, bhikkhus, one should not lustfully gaze at a woman's genitals. Whoever does so commits an offense of wrong-doing."
 
 267. Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa tāḷacchiddaṃ aṅgajātaṃ pavesentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-267.At that time a certain monk, intending to discharge semen, inserted his penis into a keyhole, and semen was discharged... but semen was not discharged. He had scruples... "There is no offense entailing suspension, monk; there is a grave offense."
+267.At that time a certain bhikkhu, intending to discharge semen, inserted his penis into a keyhole, and semen was discharged... but semen was not discharged. He had scruples... "There is no offense entailing suspension, bhikkhu; there is a grave offense."
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa kaṭṭhena aṅgajātaṃ ghaṭṭentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, rubbed his genitals with a piece of wood, and semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, rubbed his genitals with a piece of wood, and semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 Tena kho pana samayena aññatarassa bhikkhuno paṭisote nhāyantassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time a certain monk was bathing against the stream when semen was emitted. He had a misgiving… “There is no offense, monk, if there was no intention to emit it.”
+At that time a certain bhikkhu was bathing against the stream when semen was emitted. He had a misgiving… “There is no offense, bhikkhu, if there was no intention to emit it.”
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa paṭisote nhāyantassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, was bathing against the stream when semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, was bathing against the stream when semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 Tena kho pana samayena aññatarassa bhikkhuno udañjalaṃ kīḷantassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time a certain monk was playing in the water when semen was emitted. He had a misgiving… “There is no offense, monk, if there was no intention to emit it.”
+At that time a certain bhikkhu was playing in the water when semen was emitted. He had a misgiving… “There is no offense, bhikkhu, if there was no intention to emit it.”
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa udañjalaṃ kīḷantassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, was playing in the water when semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, was playing in the water when semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 Tena kho pana samayena aññatarassa bhikkhuno udake dhāvantassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time a certain monk was running in the water when semen was emitted. He had a misgiving… “There is no offense, monk, if there was no intention to emit it.”
+At that time a certain bhikkhu was running in the water when semen was emitted. He had a misgiving… “There is no offense, bhikkhu, if there was no intention to emit it.”
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa udake dhāvantassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, was running in the water when semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, was running in the water when semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 Tena kho pana samayena aññatarassa bhikkhuno pupphāvaliyaṃ [pupphāvaḷiyaṃ (syā. ka.)] kīḷantassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time a certain monk was playing in a flower thicket when semen was emitted. He had a misgiving… “There is no offense, monk, if there was no intention to emit it.”
+At that time a certain bhikkhu was playing in a flower thicket when semen was emitted. He had a misgiving… “There is no offense, bhikkhu, if there was no intention to emit it.”
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa pupphāvaliyaṃ kīḷantassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, was playing in a flower thicket when semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, was playing in a flower thicket when semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 268. Tena kho pana samayena aññatarassa bhikkhuno pokkharavane dhāvantassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-268.At that time a certain monk was running in a lotus grove when semen was emitted. He had a misgiving… “There is no offense, monk, if there was no intention to emit it.”
+268.At that time a certain bhikkhu was running in a lotus grove when semen was emitted. He had a misgiving… “There is no offense, bhikkhu, if there was no intention to emit it.”
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa pokkharavane dhāvantassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, was running in a lotus grove when semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, was running in a lotus grove when semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa vālikaṃ aṅgajātaṃ pavesentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, inserted his genitals into sand, and semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, inserted his genitals into sand, and semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa kaddamaṃ aṅgajātaṃ pavesentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, inserted his genitals into mud, and semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, inserted his genitals into mud, and semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 Tena kho pana samayena aññatarassa bhikkhuno udakena aṅgajātaṃ osiñcantassa asuci mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, namocanādhippāyassā’’ti.
 
-At that time a certain monk was pouring water on his genitals when semen was emitted. He had a misgiving… “There is no offense, monk, if there was no intention to emit it.”
+At that time a certain bhikkhu was pouring water on his genitals when semen was emitted. He had a misgiving… “There is no offense, bhikkhu, if there was no intention to emit it.”
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa udakena aṅgajātaṃ osiñcantassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, was pouring water on his genitals, and semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, was pouring water on his genitals, and semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa sayane aṅgajātaṃ ghaṭṭentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi…pe… ‘‘anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, rubbed his genitals against a bed, and semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, rubbed his genitals against a bed, and semen was emitted… or semen was not emitted. He had a misgiving… “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa aṅguṭṭhena aṅgajātaṃ ghaṭṭentassa asuci mucci…pe… asuci na mucci. Tassa kukkuccaṃ ahosi – ‘‘bhagavatā sikkhāpadaṃ paññattaṃ, kacci nu kho ahaṃ saṅghādisesaṃ āpattiṃ āpanno’’ti? Bhagavato etamatthaṃ ārocesi. ‘‘Anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā’’ti.
 
-At that time a certain monk, intending to emit semen, rubbed his genitals with his thumb, and semen was emitted… or semen was not emitted. He had a misgiving: “The Blessed One has laid down a training rule—could I have committed an offense entailing suspension?” He reported this matter to the Blessed One. “There is no offense entailing suspension, monk, but there is a grave offense.”
+At that time a certain bhikkhu, intending to emit semen, rubbed his genitals with his thumb, and semen was emitted… or semen was not emitted. He had a misgiving: “The Blessed One has laid down a training rule—could I have committed an offense entailing suspension?” He reported this matter to the Blessed One. “There is no offense entailing suspension, bhikkhu, but there is a grave offense.”
 
 Sukkavissaṭṭhisikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
 

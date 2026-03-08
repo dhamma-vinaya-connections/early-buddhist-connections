@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were making elongated mouthfuls. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were making elongated mouthfuls. …
 
 #### Final ruling
 
 2“‘I will make rounded mouthfuls,’ this is how you should train.”
 
-3One should make rounded mouthfuls. If a monk, out of disrespect, makes an elongated mouthful, he commits an offense of wrong conduct.
+3One should make rounded mouthfuls. If a bhikkhu, out of disrespect, makes an elongated mouthful, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

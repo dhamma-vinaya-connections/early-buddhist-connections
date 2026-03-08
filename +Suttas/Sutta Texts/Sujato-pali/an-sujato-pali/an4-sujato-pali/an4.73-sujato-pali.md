@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a bad person can be known by four qualities. What four?
+1“bhikkhus, a bad person can be known by four qualities. What four?
 
 
 To start with, a bad person speaks ill of another even when not asked, let alone when asked. But when led on by questions they speak ill of another in full detail, not leaving anything out. That’s how to know that this is a bad person.
@@ -48,7 +48,7 @@ A good person can be known by these four qualities.
 
 9It’s like a bride on the day or night she’s first brought to her husband’s home. Right away she sets up a keen sense of conscience and prudence for her mother and father in law, her husband, and even the bondservants, workers, and staff. But after some time, because of living together and familiarity, she’ll even say to her mother and father in law, or to her husband: ‘Go away! What would you know?’
 
-In the same way, on the day or night a mendicant first goes forth from the lay life to homelessness, right away they set up a keen sense of conscience and prudence for the monks, nuns, laymen, and laywomen, and even the monastery workers and novices. But after some time, because of living together and familiarity, they’ll even say to their teacher or mentor: ‘Go away! What would you know?’
+In the same way, on the day or night a bhikkhu first goes forth from the lay life to homelessness, right away they set up a keen sense of conscience and prudence for the bhikkhus, nuns, laymen, and laywomen, and even the monastery workers and novices. But after some time, because of living together and familiarity, they’ll even say to their teacher or mentor: ‘Go away! What would you know?’
 
 So you should train like this: ‘We will live with hearts like that of a newly wedded bride.’ That’s how you should train.”
 

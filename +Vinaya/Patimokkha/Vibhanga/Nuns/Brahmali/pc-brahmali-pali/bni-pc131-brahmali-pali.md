@@ -18,24 +18,24 @@ language: "Pali - English"
 
 #### Origin
 
-1On one occasion when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were staying with the army for two or three nights. They went to see battles, troop reviews, the massing of the army, and troop inspections. One of the monks who went to a battle was struck by an arrow. People teased him:
+1On one occasion when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were staying with the army for two or three nights. They went to see battles, troop reviews, the massing of the army, and troop inspections. One of the bhikkhus who went to a battle was struck by an arrow. People teased him:
 
 “We hope you had a good battle, Venerable. How many targets did you hit?”
 
 And because they teased him, he felt humiliated.
 
-People complained and criticized those monks:
+People complained and criticized those bhikkhus:
 
 “How can the Sakyan monastics go to see a battle? It’s our misfortune that we must go to battles for the sake of our livelihoods and because of our wives and children.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How could the monks from the group of six go to see a battle?” …
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How could the bhikkhus from the group of six go to see a battle?” …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

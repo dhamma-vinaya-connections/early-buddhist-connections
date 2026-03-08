@@ -17,23 +17,23 @@ language: "English"
 
 ## Introduction
 
-_This sutta covers some of the events related to the quarrel at Kosambī reported in . That account contains some details not reported here, whereas this account gives in full the Dhamma lesson the Buddha gave to the monks in the Eastern Bamboo Park, a lesson that is mentioned only briefly in ._
+_This sutta covers some of the events related to the quarrel at Kosambī reported in . That account contains some details not reported here, whereas this account gives in full the Dhamma lesson the Buddha gave to the bhikkhus in the Eastern Bamboo Park, a lesson that is mentioned only briefly in ._
 
 * * *
 
-I have heard that on one occasion the Blessed One was staying near Kosambī in Ghosita’s monastery. And on that occasion the Kosambī monks kept arguing, quarreling, & disputing, stabbing one another with weapons of the mouth.
+I have heard that on one occasion the Blessed One was staying near Kosambī in Ghosita’s monastery. And on that occasion the Kosambī bhikkhus kept arguing, quarreling, & disputing, stabbing one another with weapons of the mouth.
 
-Then a certain monk went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, he said to the Blessed One, “Lord, the Kosambī monks here keep arguing, quarreling, & disputing, stabbing one another with weapons of the mouth. It would be good, lord, if the Blessed One went to them, out of sympathy.”
+Then a certain bhikkhu went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, he said to the Blessed One, “Lord, the Kosambī bhikkhus here keep arguing, quarreling, & disputing, stabbing one another with weapons of the mouth. It would be good, lord, if the Blessed One went to them, out of sympathy.”
 
 The Blessed One acquiesced with silence.
 
-Then he went to those monks and, on arrival, said to them, “Enough, monks. Don’t quarrel. Don’t argue. Don’t make strife. Don’t dispute.”
+Then he went to those bhikkhus and, on arrival, said to them, “Enough, bhikkhus. Don’t quarrel. Don’t argue. Don’t make strife. Don’t dispute.”
 
-When this was said, a certain monk said to the Blessed One, “Wait, Lord Blessed One. May the Master of the Dhamma remain inactive, devoted to a pleasant abiding in the here-&-now, Lord Blessed One. We will be the ones who will be known for this argument, quarrel, strife, & dispute.”
+When this was said, a certain bhikkhu said to the Blessed One, “Wait, Lord Blessed One. May the Master of the Dhamma remain inactive, devoted to a pleasant abiding in the here-&-now, Lord Blessed One. We will be the ones who will be known for this argument, quarrel, strife, & dispute.”
 
-A second time...[1](#^mn128note01) A third time, the Blessed One said to those monks, “Enough, monks. Don’t quarrel. Don’t argue. Don’t make strife. Don’t dispute.” ^mn128note01-ref
+A second time...[1](#^mn128note01) A third time, the Blessed One said to those bhikkhus, “Enough, bhikkhus. Don’t quarrel. Don’t argue. Don’t make strife. Don’t dispute.” ^mn128note01-ref
 
-A third time, that monk said to the Blessed One, “Wait, Lord Blessed One. May the Master of the Dhamma remain inactive, devoted to a pleasant abiding in the here-&-now, Lord Blessed One. We will be the ones who will be known for this argument, quarrel, strife, & dispute.”
+A third time, that bhikkhu said to the Blessed One, “Wait, Lord Blessed One. May the Master of the Dhamma remain inactive, devoted to a pleasant abiding in the here-&-now, Lord Blessed One. We will be the ones who will be known for this argument, quarrel, strife, & dispute.”
 
 Then, early in the morning, the Blessed One—having adjusted his under robe and carrying his bowl & robes—went into Kosambī for alms. Having gone for alms in Kosambī, after the meal, returning from his almsround, having set his dwelling in order, taking his bowl & robes, he recited these verses while standing:
 
@@ -161,7 +161,7 @@ at peace,
 
 like the elephant in the Mātaṅga wilds.
 
-Having recited these verses while standing, the Blessed One went to Bālakaloṇakāraka Village. Now, on that occasion Ven. Bhagu was staying near Bālakaloṇakāraka Village. He saw the Blessed One coming from afar and, on seeing him, laid out a seat and water for washing the feet. The Blessed One sat down on the seat laid out and, seated, washed his feet. Ven. Bhagu, having bowed down to the Blessed One, sat to one side. As he was sitting there, the Blessed One said to him, “Is it tolerable, monk? Are you getting by? Are you weary from going for alms?”
+Having recited these verses while standing, the Blessed One went to Bālakaloṇakāraka Village. Now, on that occasion Ven. Bhagu was staying near Bālakaloṇakāraka Village. He saw the Blessed One coming from afar and, on seeing him, laid out a seat and water for washing the feet. The Blessed One sat down on the seat laid out and, seated, washed his feet. Ven. Bhagu, having bowed down to the Blessed One, sat to one side. As he was sitting there, the Blessed One said to him, “Is it tolerable, bhikkhu? Are you getting by? Are you weary from going for alms?”
 
 “It’s tolerable, O Blessed One. I’m getting by, O Blessed One. And I’m not weary, lord, from going for alms.”
 

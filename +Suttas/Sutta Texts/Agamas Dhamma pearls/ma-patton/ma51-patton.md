@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma51note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma51note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “The origins of the craving for existence isn’t knowable. In the past, there was no craving for existence, but now the craving for existence has arisen, and it’s readily knowable what the cause of the craving for existence is.
+2. It was then that the Bhagavān addressed the bhikkhus, “The origins of the craving for existence isn’t knowable. In the past, there was no craving for existence, but now the craving for existence has arisen, and it’s readily knowable what the cause of the craving for existence is.
 
 3. “The craving for existence has its cultivation; it’s not without cultivation. What’s called the cultivation of the craving for existence?”
 
@@ -105,7 +105,7 @@ They answered, “Good people are its cultivation.”
 
 24. “Being with good people, one readily associates with good friends. Having associated with good friends, one readily hears the good teaching. Having heard the good teaching, one readily has faith. Faith having arisen, one readily has right thinking. Having right thinking, one readily has right mindfulness and right knowledge. Having right mindfulness and right knowledge, one readily has guarded faculties. Having guarded faculties, one readily has the three marvelous conducts. Having the three marvelous conducts, one readily has the four abodes of mindfulness. Having the four abodes of mindfulness, one readily has the seven factors of awakening. Having the seven factors of awakening, one readily has insight and liberation. In this way, insight and liberation develops and becomes fully formed.”
 
-25. This is what the Buddha said. Those monks who had heard what the Buddha taught rejoiced and approved.
+25. This is what the Buddha said. Those bhikkhus who had heard what the Buddha taught rejoiced and approved.
 
 ---
 

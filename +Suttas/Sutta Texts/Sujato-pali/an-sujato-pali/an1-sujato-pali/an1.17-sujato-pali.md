@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that prevents ill will from arising, or, when it has arisen, abandons it like the heart’s release by love. When you attend properly on the heart’s release by love, ill will does not arise, or, if it has already arisen, it’s given up.”
+1“bhikkhus, I do not see a single thing that prevents ill will from arising, or, when it has arisen, abandons it like the heart’s release by love. When you attend properly on the heart’s release by love, ill will does not arise, or, if it has already arisen, it’s given up.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppanno vā byāpādo nuppajjati uppanno vā byāpādo pahīyati yathayidaṁ, bhikkhave, mettā cetovimutti. Mettaṁ, bhikkhave, cetovimuttiṁ yoniso manasi karoto anuppanno ceva byāpādo nuppajjati uppanno ca byāpādo pahīyatī"ti.
 

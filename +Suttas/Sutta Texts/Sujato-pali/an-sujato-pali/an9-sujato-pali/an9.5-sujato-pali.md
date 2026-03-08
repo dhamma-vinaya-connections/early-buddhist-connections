@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four powers. What four?
+1“bhikkhus, there are these four powers. What four?
 
 The powers of wisdom, energy, blamelessness, and inclusiveness.
 
@@ -28,7 +28,7 @@ And what is the power of wisdom? One has clearly seen and clearly contemplated w
 
 2And what is the power of energy? One generates enthusiasm, tries, makes an effort, exerts the mind, and strives to give up those qualities that are unskillful and considered to be unskillful; those that are blameworthy … dark … not to be cultivated … not worthy of the noble ones and considered to be not worthy of the noble ones. One generates enthusiasm, tries, makes an effort, exerts the mind, and strives to gain those qualities that are skillful and considered to be skillful; those that are blameless … bright … to be cultivated … worthy of the noble ones and considered to be worthy of the noble ones. This is called the power of energy.
 
-3And what is the power of blamelessness? It’s when a mendicant has blameless conduct by way of body, speech, and mind. This is called the power of blamelessness.
+3And what is the power of blamelessness? It’s when a bhikkhu has blameless conduct by way of body, speech, and mind. This is called the power of blamelessness.
 
 4And what is the power of inclusiveness? There are these four ways of being inclusive. Giving, kindly words, taking care, and equality. The best of gifts is the gift of the teaching. The best sort of kindly speech is to teach the Dhamma again and again to someone who is engaged and who lends an ear. The best way of taking care is to encourage, settle, and ground the unfaithful in faith, the unethical in ethics, the stingy in generosity, and the ignorant in wisdom. The best kind of equality is the equality of a stream-enterer with another stream-enterer, a once-returner with another once-returner, a non-returner with another non-returner, and a perfected one with another perfected one. This is called the power of inclusiveness. These are the four powers.
 

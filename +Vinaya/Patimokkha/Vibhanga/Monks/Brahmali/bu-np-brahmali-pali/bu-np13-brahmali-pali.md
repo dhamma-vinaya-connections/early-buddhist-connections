@@ -16,14 +16,14 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time, when the monks from the group of six knew that the Buddha had prohibited having a blanket made entirely of black wool, they added just a little bit of white on the edge, effectively having a blanket made entirely of black wool just as before. The monks of few desires complained and criticized them, “How could the monks from the group of six do this?”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time, when the bhikkhus from the group of six knew that the Buddha had prohibited having a blanket made entirely of black wool, they added just a little bit of white on the edge, effectively having a blanket made entirely of black wool just as before. The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six do this?”
 
-2After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you do this?”
+2After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -49,7 +49,7 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 If he makes it, or has it made, without using two measures of entirely black wool, one measure of white, and one measure of brown, then for the effort there is an act of wrong conduct. When he gets the blanket, it becomes subject to relinquishment.
 
 
-11The blanket should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+11The blanket should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this blanket, which I got made without using two measures of entirely black wool, one measure of white, and one measure of brown, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this blanket back to you.’”

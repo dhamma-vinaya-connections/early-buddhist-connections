@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are five accomplishments. What five? Accomplishment in ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. These are the five accomplishments.”
+1“bhikkhus, there are five accomplishments. What five? Accomplishment in ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. These are the five accomplishments.”
 
 1"Pañcimā, bhikkhave, sampadā. Katamā pañca? Sīlasampadā, samādhisampadā, paññāsampadā, vimuttisampadā, vimuttiñāṇadassanasampadā – imā kho, bhikkhave, pañca sampadā"ti.
 

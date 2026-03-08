@@ -71,11 +71,11 @@ and asked him for the going forth right away.
 
 10Then the Buddha, the compassionate great hermit,  
 the teacher of the world with its gods,  
-said to him: “Come, monk!”  
-And with that he became a monk.
+said to him: “Come, bhikkhu!”  
+And with that he became a bhikkhu.
 
 
-11Then the Buddha set out for Sāvatthī with Venerable Aṅgulimāla as his second monk. Traveling stage by stage, he arrived at Sāvatthī, where he stayed in Jeta’s Grove, Anāthapiṇḍika’s monastery.
+11Then the Buddha set out for Sāvatthī with Venerable Aṅgulimāla as his second bhikkhu. Traveling stage by stage, he arrived at Sāvatthī, where he stayed in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
 Now at that time a crowd had gathered by the gate of King Pasenadi’s royal compound making a dreadful racket: “In your realm, Your Majesty, there is a bandit named Aṅgulimāla. He is violent, bloody-handed, a hardened killer, merciless to living beings. He has laid waste to villages, towns, and countries. He is constantly murdering people, and he wears their fingers as a necklace. Your Majesty must put a stop to him!”
 
@@ -157,7 +157,7 @@ shuts the door on bad things they’ve done,
 lights up the world,  
 like the moon freed from a cloud.
 
-27 A young mendicant,  
+27 A young bhikkhu,  
 devoted to the teaching of the Buddha,  
 lights up the world,  
 like the moon freed from a cloud.

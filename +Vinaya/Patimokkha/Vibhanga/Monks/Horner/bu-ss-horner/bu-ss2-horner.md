@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
 > ◄  [[bu-ss1-horner]] 📜  [[bu-ss3-horner]] ►
 
-# Monks’ Formal Meeting (_Saṅghādisesa_) 2
+# bhikkhus’ Formal Meeting (_Saṅghādisesa_) 2
 
 *BD.1.199* *Bu-Ss.2.1.1* *Vin.3.119* At one time the enlightened one, the lord, was staying at Sāvatthī in the Jeta Grove in Anāthapiṇdika’s park. At that time the venerable Udāyin lived in the jungle. The dwelling[^1] of the venerable one was lovely, good to look upon, beautiful, the inner chamber in the middle was entirely surrounded by the house; the couch and chair, the bolster and pillow were well designed, the water used for drinking and that used for washing were well placed; the cell[^2] was well swept. Many people came to look at the dwelling of the venerable Udāyin, and a certain brahmin together with his wife approached the venerable Udāyin, and having approached the venerable Udāyin, he said: “We want to see the dwelling of the good Udāyin.”
 
@@ -23,7 +23,7 @@ Then the brahmin became annoyed, vexed, angry and said:
 
 * * *
 
-*Bu-Ss.2.1.2* The monks heard this brahmin as he was grumbling, murmuring, and becoming angry. Those who were modest monks became annoyed, vexed, angry and said: “How can the reverend Udāyin come into bodily contact with women-kind?” Then these monks told this matter to the lord. Then the lord on this occasion, for this reason, causing the Order of monks to be convened, asked the reverend Udāyin:
+*Bu-Ss.2.1.2* The bhikkhus heard this brahmin as he was grumbling, murmuring, and becoming angry. Those who were modest bhikkhus became annoyed, vexed, angry and said: “How can the reverend Udāyin come into bodily contact with women-kind?” Then these bhikkhus told this matter to the lord. Then the lord on this occasion, for this reason, causing the Order of bhikkhus to be convened, asked the reverend Udāyin:
 
 “Is it true as they say, Udāyin, that you came into bodily contact with a woman?”
 
@@ -31,15 +31,15 @@ Then the brahmin became annoyed, vexed, angry and said:
 
 Then the enlightened one, the lord, rebuked him, saying:
 
-“It is not right, foolish man, it is not becoming, it is not suitable, it is not fit in a recluse, it is not proper, it is not to be done. How can you, foolish man, come into bodily contact with a woman? Foolish man, is not _dhamma_ uttered by me in various ways for the sake of stilling passion, and not for the sake of passion … declared the allaying of the flames of the pleasures of the senses? It is not, foolish man, for the benefit of unbelievers … Thus, monks, this course of training should be set forth:
+“It is not right, foolish man, it is not becoming, it is not suitable, it is not fit in a recluse, it is not proper, it is not to be done. How can you, foolish man, come into bodily contact with a woman? Foolish man, is not _dhamma_ uttered by me in various ways for the sake of stilling passion, and not for the sake of passion … declared the allaying of the flames of the pleasures of the senses? It is not, foolish man, for the benefit of unbelievers … Thus, bhikkhus, this course of training should be set forth:
 
-“Whatever monk, affected by desire,[^9] with perverted[^10] heart, should come into[^11] physical contact with a woman, *BD.1.202* holding her hand, or holding a braid of her hair, or rubbing against any one or other of her limbs: this is an offence entailing a formal meeting of the Order.”
+“Whatever bhikkhu, affected by desire,[^9] with perverted[^10] heart, should come into[^11] physical contact with a woman, *BD.1.202* holding her hand, or holding a braid of her hair, or rubbing against any one or other of her limbs: this is an offence entailing a formal meeting of the Order.”
 
 * * *
 
 *Bu-Ss.2.2.1* Whatever means: he who …
 
-Monk means: … this is how monk is to be understood in this sense. *Vin.3.121*
+bhikkhu means: … this is how bhikkhu is to be understood in this sense. *Vin.3.121*
 
 Affected by desire means: infatuated, full of desire, physically in love with.[^12]
 
@@ -67,145 +67,145 @@ Offence entailing a formal meeting of the Order means: … therefore it is calle
 
 * * *
 
-*Bu-Ss.2.3.1* If there is a woman, and thinking her to be a woman, if the monk is infatuated, and rubs the woman’s body with his body, rubs up against it, rubs it downwards, rubs it upwards, bends it down, raises it up, draws it to, pushes it back, holds it back hard, takes hold of it hard, grasps it, touches it, there is an offence entailing a formal meeting of the Order.
+*Bu-Ss.2.3.1* If there is a woman, and thinking her to be a woman, if the bhikkhu is infatuated, and rubs the woman’s body with his body, rubs up against it, rubs it downwards, rubs it upwards, bends it down, raises it up, draws it to, pushes it back, holds it back hard, takes hold of it hard, grasps it, touches it, there is an offence entailing a formal meeting of the Order.
 
-If there is a woman, and being doubtful, if the monk is infatuated, and rubs the woman’s body with his body, rubs up against it … touches it, there is a grave offence.
+If there is a woman, and being doubtful, if the bhikkhu is infatuated, and rubs the woman’s body with his body, rubs up against it … touches it, there is a grave offence.
 
-If there is a woman, and thinking it to be an eunuch, if the monk is infatuated … grave offence.
+If there is a woman, and thinking it to be an eunuch, if the bhikkhu is infatuated … grave offence.
 
-If there is a woman, and thinking it to be a man … thinking it to be an animal, if the monk is infatuated … grave offence.
+If there is a woman, and thinking it to be a man … thinking it to be an animal, if the bhikkhu is infatuated … grave offence.
 
-If there is an eunuch, and thinking it to be an eunuch, if the monk is infatuated, *Vin.3.122* and rubs the eunuch’s body … touches it … grave offence.
+If there is an eunuch, and thinking it to be an eunuch, if the bhikkhu is infatuated, *Vin.3.122* and rubs the eunuch’s body … touches it … grave offence.
 
-If there is an eunuch, and being doubtful … thinking it to be a man … thinking it to be an animal … thinking it to be a woman, if the monk is infatuated, and rubs the eunuch’s body … touches it, there is an offence of wrong-doing
+If there is an eunuch, and being doubtful … thinking it to be a man … thinking it to be an animal … thinking it to be a woman, if the bhikkhu is infatuated, and rubs the eunuch’s body … touches it, there is an offence of wrong-doing
 
-If there is a man, and thinking it to be a man … doubtful … thinking it to be an animal … thinking it to be a woman … thinking it to be an eunuch, *BD.1.205* if the monk is infatuated and rubs the man’s body … touches it, there is an offence of wrong-doing.
+If there is a man, and thinking it to be a man … doubtful … thinking it to be an animal … thinking it to be a woman … thinking it to be an eunuch, *BD.1.205* if the bhikkhu is infatuated and rubs the man’s body … touches it, there is an offence of wrong-doing.
 
-If there is an animal, and thinking it to be an animal … doubtful … thinking it to be a woman … thinking it to be an eunuch … thinking it to be a man, if the monk is infatuated and rubs the animals body … touches it, there is an offence of wrong-doing.
+If there is an animal, and thinking it to be an animal … doubtful … thinking it to be a woman … thinking it to be an eunuch … thinking it to be a man, if the bhikkhu is infatuated and rubs the animals body … touches it, there is an offence of wrong-doing.
 
 Beginning with one
 
-*Bu-Ss.2.3.2* If there are two women, and thinking the two women to be women, if the monk is infatuated and rubs the women’s bodies … touches them, there is an offence entailing a formal meeting of the Order.
+*Bu-Ss.2.3.2* If there are two women, and thinking the two women to be women, if the bhikkhu is infatuated and rubs the women’s bodies … touches them, there is an offence entailing a formal meeting of the Order.
 
-If there are two women, and being doubtful whether they are two women … thinking them to be men … to be eunuchs … to be animals, if the monk is infatuated and rubs with his body the bodies of the two women … touches them, there are two grave offences.
+If there are two women, and being doubtful whether they are two women … thinking them to be men … to be eunuchs … to be animals, if the bhikkhu is infatuated and rubs with his body the bodies of the two women … touches them, there are two grave offences.
 
-If there are two eunuchs, and thinking the eunuchs to be two eunuchs, if the monk is infatuated and rubs their bodies … touches them, there are two grave offences.
+If there are two eunuchs, and thinking the eunuchs to be two eunuchs, if the bhikkhu is infatuated and rubs their bodies … touches them, there are two grave offences.
 
-If there are two eunuchs, and being doubtful of their being eunuchs … thinking them to be men … to be animals … to be women, if the monk is infatuated and rubs the bodies of the eunuchs … touches them, there are two offences of wrong-doing.
+If there are two eunuchs, and being doubtful of their being eunuchs … thinking them to be men … to be animals … to be women, if the bhikkhu is infatuated and rubs the bodies of the eunuchs … touches them, there are two offences of wrong-doing.
 
-If there are two men, and thinking the two men to be men, if the monk is infatuated and rubs the two men with his body … touches them, there are two offences of wrong-doing.
+If there are two men, and thinking the two men to be men, if the bhikkhu is infatuated and rubs the two men with his body … touches them, there are two offences of wrong-doing.
 
-If there are two men, and being doubtful of their being men … thinking them to be animals … to be women … to be eunuchs, if the monk is infatuated and rubs the two men with his body … touches them, there are two offences of wrong-doing.
+If there are two men, and being doubtful of their being men … thinking them to be animals … to be women … to be eunuchs, if the bhikkhu is infatuated and rubs the two men with his body … touches them, there are two offences of wrong-doing.
 
-If there are two animals, and thinking the two animals to be animals … doubtful … thinking them to be women … to be eunuchs … to be men, if the monk is infatuated and rubs the two animals with his body, there are two offences of wrong-doing.
+If there are two animals, and thinking the two animals to be animals … doubtful … thinking them to be women … to be eunuchs … to be men, if the bhikkhu is infatuated and rubs the two animals with his body, there are two offences of wrong-doing.
 
 * * *
 
-*Bu-Ss.2.3.3* If there are a woman and an eunuch, and thinking both to be women, if the monk is infatuated *Vin.3.123* and *BD.1.206* rubs with his body … touches them, there is an offence of wrong-doing together with an offence entailing a formal meeting of the Order.
+*Bu-Ss.2.3.3* If there are a woman and an eunuch, and thinking both to be women, if the bhikkhu is infatuated *Vin.3.123* and *BD.1.206* rubs with his body … touches them, there is an offence of wrong-doing together with an offence entailing a formal meeting of the Order.
 
-If there are a woman and an eunuch, and being doubtful, if the monk is infatuated … there is an offence of wrong-doing together with a grave offence.
+If there are a woman and an eunuch, and being doubtful, if the bhikkhu is infatuated … there is an offence of wrong-doing together with a grave offence.
 
-If there are a woman and an eunuch, and thinking both to be eunuchs, if the monk is infatuated … there are two grave offences.
+If there are a woman and an eunuch, and thinking both to be eunuchs, if the bhikkhu is infatuated … there are two grave offences.
 
-If there are a woman and an eunuch and thinking both to be men, if the monk is infatuated … there is an offence of wrong-doing together with a grave offence.
+If there are a woman and an eunuch and thinking both to be men, if the bhikkhu is infatuated … there is an offence of wrong-doing together with a grave offence.
 
-If there are a woman and an eunuch, and thinking both to be animals, if the monk is infatuated … there is an offence of wrong-doing together with a grave offence.
+If there are a woman and an eunuch, and thinking both to be animals, if the bhikkhu is infatuated … there is an offence of wrong-doing together with a grave offence.
 
-If there are a woman and a man, and thinking both to be women, if the monk is infatuated … there is an offence of wrong-doing together with an offence entailing a formal meeting of the Order.
+If there are a woman and a man, and thinking both to be women, if the bhikkhu is infatuated … there is an offence of wrong-doing together with an offence entailing a formal meeting of the Order.
 
-If there are a woman and a man, and being doubtful of both … thinking them to be eunuchs … to be men … to be animals, if the monk is infatuated … there is an offence of wrong-doing together with a grave offence.
+If there are a woman and a man, and being doubtful of both … thinking them to be eunuchs … to be men … to be animals, if the bhikkhu is infatuated … there is an offence of wrong-doing together with a grave offence.
 
-If there are a woman and an animal, and thinking both to be women, if the monk is infatuated … there is an offence of wrong-doing together with an offence entailing a formal meeting of the Order.
+If there are a woman and an animal, and thinking both to be women, if the bhikkhu is infatuated … there is an offence of wrong-doing together with an offence entailing a formal meeting of the Order.
 
-If there are a woman and an eunuch, and being doubtful of both … thinking them to be eunuchs … to be men … to be animals, if the monk is infatuated … there is an offence of wrong-doing together with a grave offence.
+If there are a woman and an eunuch, and being doubtful of both … thinking them to be eunuchs … to be men … to be animals, if the bhikkhu is infatuated … there is an offence of wrong-doing together with a grave offence.
 
-If there are an eunuch and a man, and thinking both to be eunuchs, if the monk is infatuated … there is an offence of wrong-doing together with a grave offence.
+If there are an eunuch and a man, and thinking both to be eunuchs, if the bhikkhu is infatuated … there is an offence of wrong-doing together with a grave offence.
 
-If there are an eunuch and a man, and being doubtful of both … thinking them to be men … to be animals … to be women, if the monk is infatuated … there are two offences of wrong-doing.
+If there are an eunuch and a man, and being doubtful of both … thinking them to be men … to be animals … to be women, if the bhikkhu is infatuated … there are two offences of wrong-doing.
 
-*BD.1.207* If there are an eunuch and an animal, and thinking both are eunuchs, if the monk is infatuated … there is an offence of wrong-doing together with a grave offence.
+*BD.1.207* If there are an eunuch and an animal, and thinking both are eunuchs, if the bhikkhu is infatuated … there is an offence of wrong-doing together with a grave offence.
 
-If there are an eunuch and an animal, and being doubtful of both … thinking them to be men … to be animals … to be women, if the monk is infatuated … there are two offences of wrong-doing.
+If there are an eunuch and an animal, and being doubtful of both … thinking them to be men … to be animals … to be women, if the bhikkhu is infatuated … there are two offences of wrong-doing.
 
-If there are a man and an animal, and being doubtful of both … thinking them to be animals … to be women … to be eunuchs, if the monk is infatuated … there are two offences of wrong-doing.
+If there are a man and an animal, and being doubtful of both … thinking them to be animals … to be women … to be eunuchs, if the bhikkhu is infatuated … there are two offences of wrong-doing.
 
 Beginning with two
 
-*Bu-Ss.2.3.4* If there is a woman, and thinking it to be a woman, if the monk is infatuated and rubs with his body the woman’s article of dress (worn on the body[^25]) touches it, there is a grave offence.[^26]
+*Bu-Ss.2.3.4* If there is a woman, and thinking it to be a woman, if the bhikkhu is infatuated and rubs with his body the woman’s article of dress (worn on the body[^25]) touches it, there is a grave offence.[^26]
 
-If there are two women, and thinking the two women to be women, if the monk is infatuated and rubs with his body an article of dress belonging to the two women … touches it, there are two grave offences. *Vin.3.124*
+If there are two women, and thinking the two women to be women, if the bhikkhu is infatuated and rubs with his body an article of dress belonging to the two women … touches it, there are two grave offences. *Vin.3.124*
 
-If there are a woman and an eunuch, thinking that both are women if the monk is infatuated and rubs an article of dress of both with his body … touches them, there is an offence of wrong-doing together with a grave offence.
+If there are a woman and an eunuch, thinking that both are women if the bhikkhu is infatuated and rubs an article of dress of both with his body … touches them, there is an offence of wrong-doing together with a grave offence.
 
-If there is a woman, thinking it to be a woman, if the monk is infatuated and rubs his body with the woman’s article of dress … touches it, there is a grave offence.
+If there is a woman, thinking it to be a woman, if the bhikkhu is infatuated and rubs his body with the woman’s article of dress … touches it, there is a grave offence.
 
 If there are two women … there are two grave offences.
 
 If there are a woman and an eunuch … there is an offence of wrong-doing together with a grave offence.
 
-If there is a woman, thinking it to be a woman, if the monk is infatuated and rubs (his) article of dress with the woman’s article of dress … touches it, there is an offence of wrong-doing.[^27]
+If there is a woman, thinking it to be a woman, if the bhikkhu is infatuated and rubs (his) article of dress with the woman’s article of dress … touches it, there is an offence of wrong-doing.[^27]
 
 *BD.1.208* If there are two women … there are two offences of wrong-doing.
 
 If there are a woman and an eunuch … there are two offences of wrong-doing.
 
-If there is a woman, and thinking it is a woman, if the monk is infatuated and rubs the woman’s body with something that may be thrown (aside), there is an offence of wrong-doing.
+If there is a woman, and thinking it is a woman, if the bhikkhu is infatuated and rubs the woman’s body with something that may be thrown (aside), there is an offence of wrong-doing.
 
-If there are two women, and thinking that the two women are women, if the monk is infatuated and rubs the bodies of the two women with something that may be thrown[^28] (aside), there are two offences of wrong-doing.
+If there are two women, and thinking that the two women are women, if the bhikkhu is infatuated and rubs the bodies of the two women with something that may be thrown[^28] (aside), there are two offences of wrong-doing.
 
-If there are a woman and an eunuch, and thinking both are women, if the monk is infatuated and rubs the body of each with something that may be thrown (aside), there are two offences of wrong-doing.
+If there are a woman and an eunuch, and thinking both are women, if the bhikkhu is infatuated and rubs the body of each with something that may be thrown (aside), there are two offences of wrong-doing.
 
-If there is a woman, and thinking it to be a woman, if the monk is infatuated and rubs the woman’s article of dress with something that may be thrown (aside), there is an offence of wrong-doing.
+If there is a woman, and thinking it to be a woman, if the bhikkhu is infatuated and rubs the woman’s article of dress with something that may be thrown (aside), there is an offence of wrong-doing.
 
-If there are two women, and thinking that the two women are women, if the monk is infatuated and rubs an article of dress belonging to the two women with something that may be thrown (aside), there are two offences of wrong-doing.
+If there are two women, and thinking that the two women are women, if the bhikkhu is infatuated and rubs an article of dress belonging to the two women with something that may be thrown (aside), there are two offences of wrong-doing.
 
 If there are a woman and an eunuch … there are two offences of wrong-doing.
 
-If there is a woman, and thinking it to be a woman, if the monk is infatuated and rubs something he has thrown (aside) with something of the woman’s which may be thrown (aside), there is an offence of wrong-doing.
+If there is a woman, and thinking it to be a woman, if the bhikkhu is infatuated and rubs something he has thrown (aside) with something of the woman’s which may be thrown (aside), there is an offence of wrong-doing.
 
 If there are two women … there are two offences of wrong-doing.
 
 If there are a woman and eunuch … there are two offences of wrong-doing.
 
-Told is the Monk Repetition
+Told is the bhikkhu Repetition
 
-*Bu-Ss.2.3.5* If there is a woman, and thinking it to be a woman, if the monk is infatuated and the woman rubs the body of the monk with her body, rubs against it, rubs it down *BD.1.209* wards, rubs it upwards, bends it down, raises it up, draws it to her, pushes it back, holds it back hard, takes hard hold of it, grasps it, touches it; if desiring cohabitation, he exerts his body and recognises the contact, there is an offence entailing a formal meeting of the Order.
+*Bu-Ss.2.3.5* If there is a woman, and thinking it to be a woman, if the bhikkhu is infatuated and the woman rubs the body of the bhikkhu with her body, rubs against it, rubs it down *BD.1.209* wards, rubs it upwards, bends it down, raises it up, draws it to her, pushes it back, holds it back hard, takes hard hold of it, grasps it, touches it; if desiring cohabitation, he exerts his body and recognises the contact, there is an offence entailing a formal meeting of the Order.
 
-If there are two women, and thinking them to be women, if the monk if infatuated and the women rub … and recognises the contact, there is an offence entailing two formal meetings of the Order. *Vin.3.125*
+If there are two women, and thinking them to be women, if the bhikkhu if infatuated and the women rub … and recognises the contact, there is an offence entailing two formal meetings of the Order. *Vin.3.125*
 
-If there are a woman and an eunuch, and thinking both to be women, if the monk is infatuated and if both rub … and recognises the contact, there is an offence of wrong-doing together with an offence entailing a formal meeting of the Order.
+If there are a woman and an eunuch, and thinking both to be women, if the bhikkhu is infatuated and if both rub … and recognises the contact, there is an offence of wrong-doing together with an offence entailing a formal meeting of the Order.
 
-If there is a woman, and thinking it to be a woman, if the monk is infatuated and the woman rubs with her body the monk’s article of clothing … there is a grave offence.
-
-If there are two women … there are two grave offences.
-
-If there are a woman and an eunuch … there is an offence of wrong-doing together with a grave offence.
-
-If there is a woman, and thinking it to be a woman, if the monk is infatuated and the woman rubs the monk’s body with, her article of dress … there is a grave offence.
+If there is a woman, and thinking it to be a woman, if the bhikkhu is infatuated and the woman rubs with her body the bhikkhu’s article of clothing … there is a grave offence.
 
 If there are two women … there are two grave offences.
 
 If there are a woman and an eunuch … there is an offence of wrong-doing together with a grave offence.
 
-If there is a woman, and thinking it to be a woman, if the monk is infatuated and the woman rubs the monk’s article of dress with her article of dress … there is an offence of wrong-doing.
+If there is a woman, and thinking it to be a woman, if the bhikkhu is infatuated and the woman rubs the bhikkhu’s body with, her article of dress … there is a grave offence.
+
+If there are two women … there are two grave offences.
+
+If there are a woman and an eunuch … there is an offence of wrong-doing together with a grave offence.
+
+If there is a woman, and thinking it to be a woman, if the bhikkhu is infatuated and the woman rubs the bhikkhu’s article of dress with her article of dress … there is an offence of wrong-doing.
 
 If there are two women … there are two offences of wrong doing.
 
 If there are a woman and an eunuch … there are two offences of wrong-doing.
 
-If there is a woman, and thinking it to be a woman, if the monk is infatuated and the woman rubs the monk’s body with something that may be thrown (aside), if desiring cohabitation, he exerts his body and recognises the contact, there is an offence of wrong-doing.
+If there is a woman, and thinking it to be a woman, if the bhikkhu is infatuated and the woman rubs the bhikkhu’s body with something that may be thrown (aside), if desiring cohabitation, he exerts his body and recognises the contact, there is an offence of wrong-doing.
 
 *BD.1.210* If there are two women … there are two offences of wrong-doing.
 
 If there are a woman and an eunuch … there are two offences of wrong-doing.
 
-If there is a woman, and thinking it to be a woman, if the monk is infatuated and the woman rubs the monk’s article of dress with something that may be thrown (aside) … and recognises the contact, there is an offence of wrong-doing.
+If there is a woman, and thinking it to be a woman, if the bhikkhu is infatuated and the woman rubs the bhikkhu’s article of dress with something that may be thrown (aside) … and recognises the contact, there is an offence of wrong-doing.
 
 If there are two women … there are two offences of wrong- doing.
 
 If therearea woman and an eunuch … there are two offences of wrong-doing.
 
-If there is a woman, and thinking it to be a woman, if the monk is infatuated and the woman rubs with something that may be thrown (aside) something of the monk’s that may be thrown (aside), if desiring cohabitation, he exerts his body but does not recognise the contact, there is an offence of wrong-doing.
+If there is a woman, and thinking it to be a woman, if the bhikkhu is infatuated and the woman rubs with something that may be thrown (aside) something of the bhikkhu’s that may be thrown (aside), if desiring cohabitation, he exerts his body but does not recognise the contact, there is an offence of wrong-doing.
 
 If there are two women … there are two offences of wrong-doing.
 
@@ -227,65 +227,65 @@ Pressing up to, a bridge, a road, a tree, and a boat, and a cord,
 A stick, he disclosed the bowl,[^30] in salutation,  
 he exerted himself but did not touch.
 
-Now at that time a certain monk stroked[^31] a mother[^32] for the sake of a mother’s affection … a daughter for the sake of a daughter’s affection … a sister for the sake of a sister’s affection. He was remorseful, and said: “What now if I have fallen into an offence entailing a formal meeting of the Order?” He told this matter to the lord. He said:
+Now at that time a certain bhikkhu stroked[^31] a mother[^32] for the sake of a mother’s affection … a daughter for the sake of a daughter’s affection … a sister for the sake of a sister’s affection. He was remorseful, and said: “What now if I have fallen into an offence entailing a formal meeting of the Order?” He told this matter to the lord. He said:
 
-“Monk, this is not an offence entailing a formal meeting of the Order, it is an offence of wrong-doing.”
-
-* * *
-
-*Bu-Ss.2.4.2* Now at one time a certain monk came into physical contact with his former wife. He was remorseful …
-
-“You, monk, have fallen into an offence entailing a formal meeting of the Order.”
+“bhikkhu, this is not an offence entailing a formal meeting of the Order, it is an offence of wrong-doing.”
 
 * * *
 
-*Bu-Ss.2.4.3* Now at that time a certain monk came into physical contact with a female _yakkha_ … with a eunuch. He was remorseful … “Monk, it is not an offence *BD.1.212* entailing a formal meeting of the Order, it is a grave offence.”
+*Bu-Ss.2.4.2* Now at one time a certain bhikkhu came into physical contact with his former wife. He was remorseful …
+
+“You, bhikkhu, have fallen into an offence entailing a formal meeting of the Order.”
 
 * * *
 
-*Bu-Ss.2.4.4* Now at one time a certain monk came into physical contact with a sleeping woman. He was remorseful … “Monk, you have fallen into an offence entailing a formal meeting of the Order.”
-
-At one time a certain monk came into physical contact with a dead woman. He was remorseful. “Monk, it is not an offence entailing a formal meeting of the Order, it is a grave offence.”
-
-Now at one time a certain monk came into physical contact with a female animal[^33] … “Monk, it is not an offence entailing a formal meeting of the Order, it is an offence of wrong-doing.”,
-
-Now at one time a certain monk came into physical contact with a wooden doll … “an offence of wrong-doing.”
+*Bu-Ss.2.4.3* Now at that time a certain bhikkhu came into physical contact with a female _yakkha_ … with a eunuch. He was remorseful … “bhikkhu, it is not an offence *BD.1.212* entailing a formal meeting of the Order, it is a grave offence.”
 
 * * *
 
-*Bu-Ss.2.4.5* Now at one time many women, pressing up to[^34] a certain monk, led him about arm-in-arm. He was remorseful … “Did you consent, monk?” he said.
+*Bu-Ss.2.4.4* Now at one time a certain bhikkhu came into physical contact with a sleeping woman. He was remorseful … “bhikkhu, you have fallen into an offence entailing a formal meeting of the Order.”
+
+At one time a certain bhikkhu came into physical contact with a dead woman. He was remorseful. “bhikkhu, it is not an offence entailing a formal meeting of the Order, it is a grave offence.”
+
+Now at one time a certain bhikkhu came into physical contact with a female animal[^33] … “bhikkhu, it is not an offence entailing a formal meeting of the Order, it is an offence of wrong-doing.”,
+
+Now at one time a certain bhikkhu came into physical contact with a wooden doll … “an offence of wrong-doing.”
+
+* * *
+
+*Bu-Ss.2.4.5* Now at one time many women, pressing up to[^34] a certain bhikkhu, led him about arm-in-arm. He was remorseful … “Did you consent, bhikkhu?” he said.
 
 “I did not consent, lord,” he said.
 
-“It is not an offence, monk, as you did not consent,” he said. *Vin.3.127*
+“It is not an offence, bhikkhu, as you did not consent,” he said. *Vin.3.127*
 
 * * *
 
-*Bu-Ss.2.4.6* Now at one time a certain monk, being infatuated, shook the bridge[^35] upon which a woman had ascended. He was remorseful … “… offence of wrong-doing.”
+*Bu-Ss.2.4.6* Now at one time a certain bhikkhu, being infatuated, shook the bridge[^35] upon which a woman had ascended. He was remorseful … “… offence of wrong-doing.”
 
 * * *
 
-*Bu-Ss.2.4.7* Now at one time a certain monk seeing a woman whom he met on the way, was infatuated, and gave her a blow on the shoulder. He was remorseful … “… formal meeting of the Order.”
+*Bu-Ss.2.4.7* Now at one time a certain bhikkhu seeing a woman whom he met on the way, was infatuated, and gave her a blow on the shoulder. He was remorseful … “… formal meeting of the Order.”
 
 * * *
 
-*Bu-Ss.2.4.8* *BD.1.213* Now at one time a certain monk, being infatuated, shook the tree up which a woman had climbed … the boat in which a woman had embarked. He was remorseful … “… offence of wrong-doing.”
+*Bu-Ss.2.4.8* *BD.1.213* Now at one time a certain bhikkhu, being infatuated, shook the tree up which a woman had climbed … the boat in which a woman had embarked. He was remorseful … “… offence of wrong-doing.”
 
 * * *
 
-*Bu-Ss.2.4.9* Now at one time a certain monk, being infatuated, pulled a cord[^36] of which a woman held (the other end). He was remorseful … “… grave offence,” he said.
+*Bu-Ss.2.4.9* Now at one time a certain bhikkhu, being infatuated, pulled a cord[^36] of which a woman held (the other end). He was remorseful … “… grave offence,” he said.
 
-Now at one time a certain monk, being infatuated, pulled a stick of which a woman held (the other end). He was remorseful … “… grave offence,” he said.
-
-* * *
-
-*Bu-Ss.2.4.10* Now at one time a certain monk, being infatuated, greeted[^37] a woman with his bowl. He was remorseiul … “… grave offence,” he said.
+Now at one time a certain bhikkhu, being infatuated, pulled a stick of which a woman held (the other end). He was remorseful … “… grave offence,” he said.
 
 * * *
 
-*Bu-Ss.2.4.11* Now at one time a certain monk, infatuated by a woman who made reverence, raised his foot. He was remorseful … “… formal meeting of the Order,” he said.
+*Bu-Ss.2.4.10* Now at one time a certain bhikkhu, being infatuated, greeted[^37] a woman with his bowl. He was remorseiul … “… grave offence,” he said.
 
-Now at one time a certain monk, saying: “I will take a woman,” exerted himself but did not touch one. He was remorseful … “… offence of wrong-doing,” he said.
+* * *
+
+*Bu-Ss.2.4.11* Now at one time a certain bhikkhu, infatuated by a woman who made reverence, raised his foot. He was remorseful … “… formal meeting of the Order,” he said.
+
+Now at one time a certain bhikkhu, saying: “I will take a woman,” exerted himself but did not touch one. He was remorseful … “… offence of wrong-doing,” he said.
 
 Told is the Second Offence entailing a Formal Meeting of the Order
 
@@ -293,7 +293,7 @@ Told is the Second Offence entailing a Formal Meeting of the Order
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

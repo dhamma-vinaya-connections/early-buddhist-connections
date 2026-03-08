@@ -31,7 +31,7 @@ Now at that time Venerable Samiddhi was staying in a wilderness hut. Then as the
 “Not long, reverend: three years.”
 
 
-“Well now, what are we to say to the senior mendicants, when even such a junior mendicant imagines their Teacher needs defending? After doing an intentional deed by way of body, speech, or mind, reverend, what does one feel?”
+“Well now, what are we to say to the senior bhikkhus, when even such a junior bhikkhu imagines their Teacher needs defending? After doing an intentional deed by way of body, speech, or mind, reverend, what does one feel?”
 
 “After doing an intentional deed by way of body, speech, or mind, reverend, one feels suffering.”
 
@@ -58,7 +58,7 @@ When he said this, Venerable Udāyī said to him: “But perhaps, sir, Venerable
 Still, who are those foolish and incompetent wanderers who follow other paths to understand the Realized One’s great analysis of deeds? Ānanda, if only you would all listen to the Realized One’s explanation of the great analysis of deeds.”
 
 
-6“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha explain the great analysis of deeds. The mendicants will listen and remember it.”
+6“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha explain the great analysis of deeds. The bhikkhus will listen and remember it.”
 
 “Well then, Ānanda, listen and pay close attention, I will speak.”
 

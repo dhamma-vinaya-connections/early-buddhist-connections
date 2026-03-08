@@ -14,9 +14,9 @@ language: "English"
 
 > **Division:** IV. ELDERS
 
-“Bhikkhus, possessing five qualities, an elder bhikkhu is displeasing and disagreeable to his fellow monks and is neither respected nor esteemed by them. What five? He is a schemer, a flatterer, a hinter, a belittler, and one who pursues gain with gain. Possessing these five qualities … nor esteemed by them. \[112\]
+“Bhikkhus, possessing five qualities, an elder bhikkhu is displeasing and disagreeable to his fellow bhikkhus and is neither respected nor esteemed by them. What five? He is a schemer, a flatterer, a hinter, a belittler, and one who pursues gain with gain. Possessing these five qualities … nor esteemed by them. \[112\]
 
-“Bhikkhus, possessing five \[other\] qualities, an elder bhikkhu is pleasing and agreeable to his fellow monks and is respected and esteemed by them. What five? He is not a schemer, a flatterer, a hinter, a belittler, or one who pursues gain with gain. Possessing these five qualities … and esteemed by them.”
+“Bhikkhus, possessing five \[other\] qualities, an elder bhikkhu is pleasing and agreeable to his fellow bhikkhus and is respected and esteemed by them. What five? He is not a schemer, a flatterer, a hinter, a belittler, or one who pursues gain with gain. Possessing these five qualities … and esteemed by them.”
 
 
 ---

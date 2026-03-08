@@ -20,120 +20,120 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Then after the meal, on return from alms-round, several senior mendicants sat together in the pavilion and this discussion came up among them.
+Then after the meal, on return from alms-round, several senior bhikkhus sat together in the pavilion and this discussion came up among them.
 
 “It’s incredible, reverends, it’s amazing, how the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha has said that mindfulness of the body, when developed and cultivated, is very fruitful and beneficial.”
 
-But their conversation was left unfinished when the Buddha came out of retreat and went to the pavilion. He sat on the seat spread out and addressed the mendicants: “Mendicants, what were you sitting talking about just now? What conversation was unfinished?”
+But their conversation was left unfinished when the Buddha came out of retreat and went to the pavilion. He sat on the seat spread out and addressed the bhikkhus: “bhikkhus, what were you sitting talking about just now? What conversation was unfinished?”
 
 
-So the mendicants told him what they had been talking about when the Buddha arrived. The Buddha said:
+So the bhikkhus told him what they had been talking about when the Buddha arrived. The Buddha said:
 
 
-2“And how, mendicants, is mindfulness of the body developed and cultivated to be very fruitful and beneficial?
+2“And how, bhikkhus, is mindfulness of the body developed and cultivated to be very fruitful and beneficial?
 
-It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut. They sit down cross-legged, with their body straight, and establish mindfulness right there. Just mindful, they breathe in. Mindful, they breathe out. When breathing in heavily they know: ‘I’m breathing in heavily.’ When breathing out heavily they know: ‘I’m breathing out heavily.’ When breathing in lightly they know: ‘I’m breathing in lightly.’ When breathing out lightly they know: ‘I’m breathing out lightly.’ They practice breathing in experiencing the whole body. They practice breathing out experiencing the whole body. They practice breathing in stilling the body’s motion. They practice breathing out stilling the body’s motion. As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That’s how a mendicant develops mindfulness of the body.
+It’s when a bhikkhu has gone to a wilderness, or to the root of a tree, or to an empty hut. They sit down cross-legged, with their body straight, and establish mindfulness right there. Just mindful, they breathe in. Mindful, they breathe out. When breathing in heavily they know: ‘I’m breathing in heavily.’ When breathing out heavily they know: ‘I’m breathing out heavily.’ When breathing in lightly they know: ‘I’m breathing in lightly.’ When breathing out lightly they know: ‘I’m breathing out lightly.’ They practice breathing in experiencing the whole body. They practice breathing out experiencing the whole body. They practice breathing in stilling the body’s motion. They practice breathing out stilling the body’s motion. As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That’s how a bhikkhu develops mindfulness of the body.
 
-3Furthermore, when a mendicant is walking they know ‘I am walking’. When standing they know ‘I am standing’. When sitting they know ‘I am sitting’. And when lying down they know ‘I am lying down’. Whatever posture their body is in, they know it. As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a mendicant develops mindfulness of the body.
+3Furthermore, when a bhikkhu is walking they know ‘I am walking’. When standing they know ‘I am standing’. When sitting they know ‘I am sitting’. And when lying down they know ‘I am lying down’. Whatever posture their body is in, they know it. As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a bhikkhu develops mindfulness of the body.
 
-4Furthermore, a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent. As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a mendicant develops mindfulness of the body.
+4Furthermore, a bhikkhu acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent. As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a bhikkhu develops mindfulness of the body.
 
-5Furthermore, a mendicant examines their own body, up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ‘In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’
+5Furthermore, a bhikkhu examines their own body, up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ‘In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’
 
-6It’s as if there were a bag with openings at both ends, filled with various kinds of grains, such as fine rice, wheat, mung beans, peas, sesame, and ordinary rice. And someone with good eyesight were to open it and examine the contents: ‘These grains are fine rice, these are wheat, these are mung beans, these are peas, these are sesame, and these are ordinary rice.’ In the same way, a mendicant examines their own body, up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. … As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a mendicant develops mindfulness of the body.
+6It’s as if there were a bag with openings at both ends, filled with various kinds of grains, such as fine rice, wheat, mung beans, peas, sesame, and ordinary rice. And someone with good eyesight were to open it and examine the contents: ‘These grains are fine rice, these are wheat, these are mung beans, these are peas, these are sesame, and these are ordinary rice.’ In the same way, a bhikkhu examines their own body, up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. … As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a bhikkhu develops mindfulness of the body.
 
 
-7Furthermore, a mendicant examines their own body, whatever its placement or posture, according to the elements: ‘In this body there is the earth element, the water element, the fire element, and the air element.’
+7Furthermore, a bhikkhu examines their own body, whatever its placement or posture, according to the elements: ‘In this body there is the earth element, the water element, the fire element, and the air element.’
 
-8It’s as if a deft butcher or butcher’s apprentice were to kill a cow and sit down at the crossroads with the meat cut into portions. In the same way, a mendicant examines their own body, whatever its placement or posture, according to the elements: ‘In this body there is the earth element, the water element, the fire element, and the air element.’ As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a mendicant develops mindfulness of the body.
+8It’s as if a deft butcher or butcher’s apprentice were to kill a cow and sit down at the crossroads with the meat cut into portions. In the same way, a bhikkhu examines their own body, whatever its placement or posture, according to the elements: ‘In this body there is the earth element, the water element, the fire element, and the air element.’ As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a bhikkhu develops mindfulness of the body.
 
-9Furthermore, suppose a mendicant were to see a corpse discarded in a charnel ground. And it had been dead for one, two, or three days, bloated, livid, and festering. They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’ As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a mendicant develops mindfulness of the body.
+9Furthermore, suppose a bhikkhu were to see a corpse discarded in a charnel ground. And it had been dead for one, two, or three days, bloated, livid, and festering. They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’ As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a bhikkhu develops mindfulness of the body.
 
-10Or suppose they were to see a corpse discarded in a charnel ground being devoured by crows, hawks, vultures, herons, dogs, tigers, leopards, jackals, and many kinds of little creatures. They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’ That too is how a mendicant develops mindfulness of the body.
+10Or suppose they were to see a corpse discarded in a charnel ground being devoured by crows, hawks, vultures, herons, dogs, tigers, leopards, jackals, and many kinds of little creatures. They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’ That too is how a bhikkhu develops mindfulness of the body.
 
 
 11Furthermore, suppose they were to see a corpse discarded in a charnel ground, a skeleton with flesh and blood, held together by sinews … A skeleton without flesh but smeared with blood, and held together by sinews … A skeleton rid of flesh and blood, held together by sinews … Bones without sinews scattered in every direction. Here a hand-bone, there a foot-bone, here a shin-bone, there a thigh-bone, here a hip-bone, there a rib-bone, here a back-bone, there an arm-bone, here a neck-bone, there a jaw-bone, here a tooth, there the skull …
 
-White bones, the color of shells … Decrepit bones, heaped in a pile … Bones rotted and crumbled to powder. They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’ As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a mendicant develops mindfulness of the body.
+White bones, the color of shells … Decrepit bones, heaped in a pile … Bones rotted and crumbled to powder. They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’ As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a bhikkhu develops mindfulness of the body.
 
-Furthermore, a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out. In the same way, they drench, steep, fill, and spread their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a mendicant develops mindfulness of the body.
-
-
-14Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. It’s like a deep lake fed by spring water. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. But the stream of cool water welling up in the lake drenches, steeps, fills, and spreads throughout the lake. There’s no part of the lake that’s not spread through with cool water. In the same way, a mendicant drenches, steeps, fills, and spreads their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. That too is how a mendicant develops mindfulness of the body.
-
-15Furthermore, with the fading away of rapture, a mendicant enters and remains in the third jhāna. They meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ They drench, steep, fill, and spread their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. From the tip to the root they’re drenched, steeped, filled, and soaked with cool water. There’s no part of them that’s not soaked with cool water. In the same way, a mendicant drenches, steeps, fills, and spreads their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. That too is how a mendicant develops mindfulness of the body.
+Furthermore, a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out. In the same way, they drench, steep, fill, and spread their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a bhikkhu develops mindfulness of the body.
 
 
-16Furthermore, a mendicant, giving up pleasure and pain, and ending former happiness and sadness, enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. They sit spreading their body through with pure bright mind. There’s no part of the body that’s not filled with pure bright mind. It’s like someone sitting wrapped from head to foot with white cloth. There’s no part of the body that’s not spread over with white cloth. In the same way, they sit spreading their body through with pure bright mind. There’s no part of the body that’s not filled with pure bright mind. As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a mendicant develops mindfulness of the body.
+14Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. It’s like a deep lake fed by spring water. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. But the stream of cool water welling up in the lake drenches, steeps, fills, and spreads throughout the lake. There’s no part of the lake that’s not spread through with cool water. In the same way, a bhikkhu drenches, steeps, fills, and spreads their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. That too is how a bhikkhu develops mindfulness of the body.
+
+15Furthermore, with the fading away of rapture, a bhikkhu enters and remains in the third jhāna. They meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ They drench, steep, fill, and spread their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. From the tip to the root they’re drenched, steeped, filled, and soaked with cool water. There’s no part of them that’s not soaked with cool water. In the same way, a bhikkhu drenches, steeps, fills, and spreads their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. That too is how a bhikkhu develops mindfulness of the body.
+
+
+16Furthermore, a bhikkhu, giving up pleasure and pain, and ending former happiness and sadness, enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. They sit spreading their body through with pure bright mind. There’s no part of the body that’s not filled with pure bright mind. It’s like someone sitting wrapped from head to foot with white cloth. There’s no part of the body that’s not spread over with white cloth. In the same way, they sit spreading their body through with pure bright mind. There’s no part of the body that’s not filled with pure bright mind. As they meditate like this — diligent, keen, and resolute — memories and thoughts of the lay life are given up. Their mind becomes stilled internally; it settles, unifies, and becomes immersed in samādhi. That too is how a bhikkhu develops mindfulness of the body.
 
 17Anyone who has developed and cultivated mindfulness of the body includes all of the skillful qualities that play a part in realization. Anyone who brings into their mind the great ocean includes all of the streams that run down into it. In the same way, anyone who has developed and cultivated mindfulness of the body includes all of the skillful qualities that play a part in realization.
 
-18When a mendicant has not developed or cultivated mindfulness of the body, Māra finds a vulnerability and gets hold of them.
+18When a bhikkhu has not developed or cultivated mindfulness of the body, Māra finds a vulnerability and gets hold of them.
 
 Suppose a person were to throw a heavy stone ball on a mound of wet clay.
 
-What do you think, mendicants? Would that heavy stone ball find an entry into that mound of wet clay?”
+What do you think, bhikkhus? Would that heavy stone ball find an entry into that mound of wet clay?”
 
 “Yes, sir.”
 
-“In the same way, when a mendicant has not developed or cultivated mindfulness of the body, Māra finds a vulnerability and gets hold of them.
+“In the same way, when a bhikkhu has not developed or cultivated mindfulness of the body, Māra finds a vulnerability and gets hold of them.
 
 
 Suppose there was a dried up, withered log. Then a person comes along with a drill-stick, thinking to light a fire and produce heat.
 
-What do you think, mendicants? By drilling the stick against that dried up, withered log on dry land far from water, could they light a fire and produce heat?”
+What do you think, bhikkhus? By drilling the stick against that dried up, withered log on dry land far from water, could they light a fire and produce heat?”
 
 “Yes, sir.”
 
-“In the same way, when a mendicant has not developed or cultivated mindfulness of the body, Māra finds a vulnerability and gets hold of them.
+“In the same way, when a bhikkhu has not developed or cultivated mindfulness of the body, Māra finds a vulnerability and gets hold of them.
 
 Suppose a water jar was placed on a stand, empty and hollow. Then a person comes along with a load of water.
 
-What do you think, mendicants? Could that person pour water into the jar?”
+What do you think, bhikkhus? Could that person pour water into the jar?”
 
 “Yes, sir.”
 
-“In the same way, when a mendicant has not developed or cultivated mindfulness of the body, Māra finds a vulnerability and gets hold of them.
+“In the same way, when a bhikkhu has not developed or cultivated mindfulness of the body, Māra finds a vulnerability and gets hold of them.
 
-When a mendicant has developed and cultivated mindfulness of the body, Māra cannot find a vulnerability and doesn’t get hold of them.
+When a bhikkhu has developed and cultivated mindfulness of the body, Māra cannot find a vulnerability and doesn’t get hold of them.
 
 Suppose a person were to throw a light ball of string at a door-panel made entirely of hardwood.
 
-What do you think, mendicants? Would that light ball of string find an entry into that door-panel made entirely of hardwood?”
+What do you think, bhikkhus? Would that light ball of string find an entry into that door-panel made entirely of hardwood?”
 
 “No, sir.”
 
-“In the same way, when a mendicant has developed and cultivated mindfulness of the body, Māra cannot find a vulnerability and doesn’t get hold of them.
+“In the same way, when a bhikkhu has developed and cultivated mindfulness of the body, Māra cannot find a vulnerability and doesn’t get hold of them.
 
 Suppose there was a green, sappy log. Then a person comes along with a drill-stick, thinking to light a fire and produce heat.
 
-What do you think, mendicants? By drilling the stick against that green, sappy log on dry land far from water, could they light a fire and produce heat?”
+What do you think, bhikkhus? By drilling the stick against that green, sappy log on dry land far from water, could they light a fire and produce heat?”
 
 “No, sir.”
 
-“In the same way, when a mendicant has developed and cultivated mindfulness of the body, Māra cannot find a vulnerability and doesn’t get hold of them. Suppose a water jar was placed on a stand, full to the brim so a crow could drink from it. Then a person comes along with a load of water.
+“In the same way, when a bhikkhu has developed and cultivated mindfulness of the body, Māra cannot find a vulnerability and doesn’t get hold of them. Suppose a water jar was placed on a stand, full to the brim so a crow could drink from it. Then a person comes along with a load of water.
 
-What do you think, mendicants? Could that person pour water into the jar?”
+What do you think, bhikkhus? Could that person pour water into the jar?”
 
 “No, sir.”
 
-18“In the same way, when a mendicant has developed and cultivated mindfulness of the body, Māra cannot find a vulnerability and doesn’t get hold of them.
+18“In the same way, when a bhikkhu has developed and cultivated mindfulness of the body, Māra cannot find a vulnerability and doesn’t get hold of them.
 
 
-20When a mendicant has developed and cultivated mindfulness of the body, they become capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case.
+20When a bhikkhu has developed and cultivated mindfulness of the body, they become capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case.
 
 Suppose a water jar was placed on a stand, full to the brim so a crow could drink from it. If a strong man was to pour it on any side, would water pour out?”
 
 “Yes, sir.”
 
-“In the same way, when a mendicant has developed and cultivated mindfulness of the body, they become capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case.
+“In the same way, when a bhikkhu has developed and cultivated mindfulness of the body, they become capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case.
 
 Suppose there was a square, walled lotus pond on level ground, full to the brim so a crow could drink from it. If a strong man was to open the wall on any side, would water pour out?”
 
 “Yes, sir.”
 
 
-20“In the same way, when a mendicant has developed and cultivated mindfulness of the body, they become capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case. Suppose a chariot stood harnessed to thoroughbreds at a level crossroads, with a goad ready. Then a deft horse trainer, a master charioteer, might mount the chariot, taking the reins in his right hand and goad in the left. He’d drive out and back wherever he wishes, whenever he wishes. In the same way, when a mendicant has developed and cultivated mindfulness of the body, they become capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case.
+20“In the same way, when a bhikkhu has developed and cultivated mindfulness of the body, they become capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case. Suppose a chariot stood harnessed to thoroughbreds at a level crossroads, with a goad ready. Then a deft horse trainer, a master charioteer, might mount the chariot, taking the reins in his right hand and goad in the left. He’d drive out and back wherever he wishes, whenever he wishes. In the same way, when a bhikkhu has developed and cultivated mindfulness of the body, they become capable of realizing anything that can be realized by insight to which they extend the mind, in each and every case.
 
 You can expect ten benefits when mindfulness of the body has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented.
 
@@ -165,7 +165,7 @@ They prevail over desire and discontent, and live having mastered desire and dis
 31You can expect these ten benefits when mindfulness of the body has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented.”
 
 
-32That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+32That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

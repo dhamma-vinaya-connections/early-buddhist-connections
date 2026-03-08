@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four are regarded as foremost. What four?
+1“bhikkhus, these four are regarded as foremost. What four?
 
 
 The foremost in size of life-form is Rāhu, lord of demons. The foremost sensualist is King Mandhātā. The foremost in sovereignty is Māra the Wicked. In this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — a Realized One, the perfected one, the fully awakened Buddha is said to be the best. These are the four regarded as foremost.

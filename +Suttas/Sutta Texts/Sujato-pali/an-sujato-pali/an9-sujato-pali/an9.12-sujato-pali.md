@@ -61,7 +61,7 @@ With the ending of the five lower fetters they head upstream, going to the Akani
 
 11These foolish, incompetent wanderers following other paths: who are they to know whether someone has something left over or not? These are the nine people who, dying with something left over, are exempt from hell, the animal realm, and the ghost realm. They’re exempt from places of loss, bad places, the underworld.
 
-12Up until now, Sāriputta, I have not felt the need to give this exposition of the teaching to the monks, nuns, laymen, and laywomen. Why is that? For I didn’t want those who heard it to introduce negligence. However, I have spoken it in order to answer your question.”
+12Up until now, Sāriputta, I have not felt the need to give this exposition of the teaching to the bhikkhus, nuns, laymen, and laywomen. Why is that? For I didn’t want those who heard it to introduce negligence. However, I have spoken it in order to answer your question.”
 
 #### Pali
 

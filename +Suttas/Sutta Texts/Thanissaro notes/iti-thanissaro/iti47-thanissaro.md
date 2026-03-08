@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 47
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, a monk should be wakeful: mindful, alert, centered, sensitive, clear, & calm. And there he should, at the appropriate times, see clearly into skillful mental qualities. For a monk who is wakeful–mindful, alert, centered, sensitive, clear, & calm, seeing clearly, at the appropriate times, into skillful mental qualities–one of two fruits can be expected: either gnosis right in the here-&-now, or–if there be any remnant of clinging-sustenance–non-return.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, a bhikkhu should be wakeful: mindful, alert, centered, sensitive, clear, & calm. And there he should, at the appropriate times, see clearly into skillful mental qualities. For a bhikkhu who is wakeful–mindful, alert, centered, sensitive, clear, & calm, seeing clearly, at the appropriate times, into skillful mental qualities–one of two fruits can be expected: either gnosis right in the here-&-now, or–if there be any remnant of clinging-sustenance–non-return.”
 
 Those who are wakeful, listen to this!
 
@@ -42,7 +42,7 @@ could shatter the darkness.
 
 So be devoted to wakefulness.
 
-The ardent monk
+The ardent bhikkhu
 
 –masterful, acquiring jhāna,
 

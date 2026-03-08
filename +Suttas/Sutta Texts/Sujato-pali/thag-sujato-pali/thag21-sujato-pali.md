@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 21: The Great Group of Verses
 
@@ -52,7 +52,7 @@ Will not even see the path I travel.
 1223Entirely abandoning likes and dislikes,  
 Along with thoughts attached to the household life,  
 He wouldn’t get entangled in anything,  
-He is a monk without entanglements.
+He is a bhikkhu without entanglements.
 
 1224On this earth and in the sky,  
 Whatever form you take when entering the world  
@@ -70,7 +70,7 @@ For one they call a sage does not cling to these things.
 
 1226Attached to sixty kinds of wrong views with their modes of thought,  
 Unenlightened people are fixed in wrong principles;  
-But that monk wouldn’t go to any sectarian group,  
+But that bhikkhu wouldn’t go to any sectarian group,  
 Still less would he take up corrupt ways.
 
 ---
@@ -92,7 +92,7 @@ People fall into hell.
 When people slain by conceit are reborn in hell,  
 They grieve for a long time.
 
-1230But a monk never grieves  
+1230But a bhikkhu never grieves  
 If they practice rightly, a victor of the path.  
 They have renown and happiness,  
 And they rightly call him a ‘Seer of Dhamma’.
@@ -149,7 +149,7 @@ This really is the best kind of speech."
 1240"His understanding is profound, he is wise,  
 He is skilled in knowing the path and what is not the path;  
 Sāriputta, of great understanding,  
-Teaches Dhamma to the monks.
+Teaches Dhamma to the bhikkhus.
 
 1241He teaches in brief,  
 Or he speaks at length,  
@@ -157,7 +157,7 @@ His voice, which sounds like a myna bird,
 Inspires intuition.
 
 1242While he teaches  
-The monks hear his sweet voice,  
+The bhikkhus hear his sweet voice,  
 Sounding attractive,  
 Clear and mellifluous;  
 They listen joyfully  
@@ -166,7 +166,7 @@ With hearts uplifted."
 ---
 
 1243"Today, on the fifteenth day _uposatha_,  
-500 monks have gathered together to purify their precepts.  
+500 bhikkhus have gathered together to purify their precepts.  
 These sages without affliction have cut off their fetters and bonds,  
 They will not be reborn again into any state of existence.
 
@@ -189,7 +189,7 @@ There is no rubbish here.
 I bow to the Kinsman of the Sun,  
 The destroyer of the dart of craving.
 
-1247Over a thousand monks  
+1247Over a thousand bhikkhus  
 Attend on the Fortunate One  
 As he teaches the immaculate Dhamma:  
 _Nibbāna_, free of fear from any direction.
@@ -233,7 +233,7 @@ Heedful, and always reverent."
 
 ---
 
-1255"The senior monk who was awakened after the Buddha  
+1255"The senior bhikkhu who was awakened after the Buddha  
 Koṇḍañña is keenly energetic,  
 And regularly gains the meditative states  
 Of happiness and seclusion.
@@ -298,7 +298,7 @@ Who follow their teachings.
 
 1266Truly, it is for their benefit  
 That the sage indeed realised awakening;  
-The monks and nuns, who see  
+The bhikkhus and nuns, who see  
 The natural principles of the Dhamma.
 
 1267The seer, the Buddha,  
@@ -330,7 +330,7 @@ I’m skilled at reading the minds of others."
 
 1272"I ask the teacher unrivalled in understanding,  
 Who has cut off all doubts in this very life —  
-Has a monk died at Aggāḷava, who was  
+Has a bhikkhu died at Aggāḷava, who was  
 Well-known, famous, and attained to _nibbāna_?
 
 1273Nigrodhakappa was his name;  

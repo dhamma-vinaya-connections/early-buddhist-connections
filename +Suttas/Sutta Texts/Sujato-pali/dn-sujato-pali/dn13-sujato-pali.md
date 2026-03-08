@@ -14,7 +14,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of five hundred mendicants when he arrived at a village of the Kosalan brahmins named Manasākaṭa. He stayed in a mango grove on a bank of the river Aciravatī to the north of Manasākaṭa.
+1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of five hundred bhikkhus when he arrived at a village of the Kosalan brahmins named Manasākaṭa. He stayed in a mango grove on a bank of the river Aciravatī to the north of Manasākaṭa.
 
 2Now at that time several very well-known well-to-do brahmins were residing in Manasākaṭa. They included the brahmins Caṅkī, Tārukkha, Pokkharasāti, Jāṇussoṇi, Todeyya, and others.
 
@@ -298,14 +298,14 @@ So long as they enjoy them it’s impossible that they will, when the body break
 
 59The Buddha said this:
 
-“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. … Seeing that the hindrances have been given up in them, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed.
+“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a bhikkhu is accomplished in ethics. … Seeing that the hindrances have been given up in them, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed.
 
 60They meditate spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will.
 
 61Suppose there was a powerful horn blower. They’d easily make themselves heard in the four directions. In the same way, when the heart’s release by love has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. This is a path to companionship with Brahmā.
 
 
-62Furthermore, a mendicant meditates spreading a heart full of compassion …
+62Furthermore, a bhikkhu meditates spreading a heart full of compassion …
 
 They meditate spreading a heart full of rejoicing …
 
@@ -313,7 +313,7 @@ They meditate spreading a heart full of equanimity to one direction, and to the 
 
 63Suppose there was a powerful horn blower. They’d easily make themselves heard in the four directions. In the same way, when the heart’s release by equanimity has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. This too is a path to companionship with Brahmā.
 
-64What do you think, Vāseṭṭha? When a mendicant meditates like this, are they possessive or not?”
+64What do you think, Vāseṭṭha? When a bhikkhu meditates like this, are they possessive or not?”
 
 
 “They are not.”
@@ -336,24 +336,24 @@ They meditate spreading a heart full of equanimity to one direction, and to the 
 “They do.”
 
 
-65“So it seems that that mendicant is not possessive, and neither is Brahmā. Would a mendicant who is not possessive come together and converge with Brahmā, who isn’t possessive?”
+65“So it seems that that bhikkhu is not possessive, and neither is Brahmā. Would a bhikkhu who is not possessive come together and converge with Brahmā, who isn’t possessive?”
 
 “Yes, Master Gotama.”
 
 
-“Good, Vāseṭṭha! It’s possible that a mendicant who is not possessive will, when the body breaks up, after death, be reborn in the company of Brahmā, who isn’t possessive.
+“Good, Vāseṭṭha! It’s possible that a bhikkhu who is not possessive will, when the body breaks up, after death, be reborn in the company of Brahmā, who isn’t possessive.
 
-66And it seems that that mendicant has no enmity, ill will, corruption, and does wield power, while Brahmā is the same in all these things. Would a mendicant who is the same as Brahmā in all things come together and converge with him?”
+66And it seems that that bhikkhu has no enmity, ill will, corruption, and does wield power, while Brahmā is the same in all these things. Would a bhikkhu who is the same as Brahmā in all things come together and converge with him?”
 
 “Yes, Master Gotama.”
 
-“Good, Vāseṭṭha! It’s possible that that mendicant will, when the body breaks up, after death, be reborn in the company of Brahmā.”
+“Good, Vāseṭṭha! It’s possible that that bhikkhu will, when the body breaks up, after death, be reborn in the company of Brahmā.”
 
 
 67When he had spoken, Vāseṭṭha and Bhāradvāja said to him: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways.
 
 
-We go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember us as lay followers who have gone for refuge for life.”
+We go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember us as lay followers who have gone for refuge for life.”
 
 1Evaṁ me sutaṁ — ​ ekaṁ samayaṁ bhagavā kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena manasākaṭaṁ nāma kosalānaṁ brāhmaṇagāmo tadavasari. Tatra sudaṁ bhagavā manasākaṭe viharati uttarena manasākaṭassa aciravatiyā nadiyā tīre ambavane.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, with five factors an anointed aristocratic king lives in his own realm, no matter what region he lives in.
+1“bhikkhus, with five factors an anointed aristocratic king lives in his own realm, no matter what region he lives in.
 
 
 2What five?
@@ -38,9 +38,9 @@ These four things bring his fame to fruition.
 With these five factors, including fame, an anointed aristocratic king lives in his own realm, no matter what direction he lives in. Why is that? Because that is how it is for victors.
 
 
-3In the same way, a mendicant with five qualities lives with mind freed, no matter what region they live in. What five?
+3In the same way, a bhikkhu with five qualities lives with mind freed, no matter what region they live in. What five?
 
-It’s when mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is like the anointed aristocratic king’s impeccable lineage.
+It’s when bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is like the anointed aristocratic king’s impeccable lineage.
 
 They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically. This is like the anointed aristocratic king being rich, affluent, and wealthy, with full treasury and storehouses.
 

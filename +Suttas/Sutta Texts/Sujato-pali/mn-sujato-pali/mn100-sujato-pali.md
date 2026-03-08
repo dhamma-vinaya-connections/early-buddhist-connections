@@ -18,7 +18,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants.
+1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of bhikkhus.
 
 Now at that time a brahmin lady named Dhanañjānī was residing at Caṇḍalakappa. She was devoted to the Buddha, the teaching, and the Saṅgha. Once, she tripped and was inspired to exclaim three times:
 
@@ -175,7 +175,7 @@ Then it occurred to me, ‘Why am I afraid of that pleasure, for it has nothing 
 
 27Then it occurred to me, ‘I can’t achieve that pleasure with a body so excessively emaciated. Why don’t I eat some solid food, some rice and porridge?’ So I ate some solid food.
 
-Now at that time the five mendicants were attending on me, thinking, ‘The ascetic Gotama will tell us of any truth that he realizes.’ But when I ate some solid food, they left disappointed in me, saying, ‘The ascetic Gotama has become indulgent; he has strayed from the struggle and returned to indulgence.’
+Now at that time the five bhikkhus were attending on me, thinking, ‘The ascetic Gotama will tell us of any truth that he realizes.’ But when I ate some solid food, they left disappointed in me, saying, ‘The ascetic Gotama has become indulgent; he has strayed from the struggle and returned to indulgence.’
 
 28After eating solid food and gathering my strength, quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first jhāna … As the placing of the mind and keeping it connected were stilled, I entered and remained in the second jhāna … third jhāna … fourth jhāna.
 
@@ -213,7 +213,7 @@ This was the third knowledge, which I achieved in the last watch of the night. I
 “It’s widely agreed in the world that gods exist.”
 
 
-33When he had spoken, Saṅgārava said to the Buddha: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the Teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
+33When he had spoken, Saṅgārava said to the Buddha: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the Teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

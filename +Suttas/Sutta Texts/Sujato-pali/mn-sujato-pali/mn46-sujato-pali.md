@@ -18,16 +18,16 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-“Mendicants, sentient beings typically have the wish, desire, and hope: ‘Oh, if only unlikable, undesirable, and disagreeable things would decrease, and likable, desirable, and agreeable things would increase!’ But exactly the opposite happens to them. What do you take to be the reason for this?”
+“bhikkhus, sentient beings typically have the wish, desire, and hope: ‘Oh, if only unlikable, undesirable, and disagreeable things would decrease, and likable, desirable, and agreeable things would increase!’ But exactly the opposite happens to them. What do you take to be the reason for this?”
 
-“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The mendicants will listen and remember it.”
+“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The bhikkhus will listen and remember it.”
 
-“Well then, mendicants, listen and pay close attention, I will speak.”
+“Well then, bhikkhus, listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
@@ -36,7 +36,7 @@ language: "English - Pali"
 
 3But an educated noble disciple has seen the noble ones, and is skilled and trained in the teaching of the noble ones. They’ve seen good persons, and are skilled and trained in the teaching of the good persons. They know what practices they should cultivate and foster, and what practices they shouldn’t cultivate and foster. So they cultivate and foster practices they should, and don’t cultivate and foster practices they shouldn’t. When they do so, unlikable, undesirable, and disagreeable things decrease, and likable, desirable, and agreeable things increase. Why is that? Because that’s what it’s like for someone who knows.
 
-4Mendicants, there are these four ways of taking up practices. What four? There is a way of taking up practices that is painful now and results in future pain. There is a way of taking up practices that is pleasant now but results in future pain. There is a way of taking up practices that is painful now but results in future pleasure. There is a way of taking up practices that is pleasant now and results in future pleasure.
+4bhikkhus, there are these four ways of taking up practices. What four? There is a way of taking up practices that is painful now and results in future pain. There is a way of taking up practices that is pleasant now but results in future pain. There is a way of taking up practices that is painful now but results in future pleasure. There is a way of taking up practices that is pleasant now and results in future pleasure.
 
 5When it comes to the way of taking up practices that is painful now and results in future pain, an ignoramus, without knowing this, doesn’t truly understand: ‘This is the way of taking up practices that is painful now and results in future pain.’ So instead of avoiding that practice, they cultivate it. When they do so, unlikable, undesirable, and disagreeable things increase, and likable, desirable, and agreeable things decrease. Why is that? Because that’s what it’s like for someone who doesn’t know.
 
@@ -83,7 +83,7 @@ language: "English - Pali"
 21It’s like the time after the rainy season when the sky is clear and cloudless. And when the sun rises, it dispels all the darkness from the sky as it shines and glows and radiates. In the same way, this way of taking up practices that is pleasant now and results in future pleasure dispels the doctrines of the various other ascetics and brahmins as it shines and glows and radiates.”
 
 
-22That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+22That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

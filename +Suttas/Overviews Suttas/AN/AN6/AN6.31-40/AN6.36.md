@@ -44,7 +44,7 @@ parallels_partilal: "[[DN33]], [[MN104]], [[PLI-TV-KD14]], [[PLI-TV-PVR4]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> If a mendicant nurses six kinds of defilements it leads to bitterness and disputes in the saṅgha
+> If a bhikkhu nurses six kinds of defilements it leads to bitterness and disputes in the saṅgha
 
 > [!info] Key Excerpts 
 > These six roots of quarrels: irritable and hostile, offensive and contemptuous … jealous and stingy … devious and deceitful … with wicked desires and wrong view … they’re attached to their own views

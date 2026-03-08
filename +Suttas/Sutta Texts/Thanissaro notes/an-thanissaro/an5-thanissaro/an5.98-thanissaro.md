@@ -15,7 +15,7 @@ language: "English"
 ## ## Ārañña Sutta
 
 
-“Endowed with five qualities, a monk pursuing mindfulness of breathing will in no long time penetrate the Unprovoked (release). Which five?
+“Endowed with five qualities, a bhikkhu pursuing mindfulness of breathing will in no long time penetrate the Unprovoked (release). Which five?
 
 “He is a person who imposes only a little (on others): one of few duties & projects, easy to support, easily contented with the requisites of life.
 
@@ -27,7 +27,7 @@ language: "English"
 
 “He reflects on the mind as it is released.
 
-“Endowed with these five qualities, a monk pursuing mindfulness of breathing will in no long time penetrate the Unprovoked.”
+“Endowed with these five qualities, a bhikkhu pursuing mindfulness of breathing will in no long time penetrate the Unprovoked.”
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

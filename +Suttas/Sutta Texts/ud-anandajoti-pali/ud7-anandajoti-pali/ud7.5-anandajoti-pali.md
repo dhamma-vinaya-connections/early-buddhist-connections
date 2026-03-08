@@ -18,17 +18,17 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time venerable Bhaddiya the Dwarf close behind many monks went to the Gracious One.
+1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time venerable Bhaddiya the Dwarf close behind many bhikkhus went to the Gracious One.
 
-2The Gracious One saw venerable Bhaddiya the Dwarf coming while still far away close behind many monks, ugly, unsightly, and deformed, whom almost all of the monks ignored. Having seen that, he addressed the monks, saying:
+2The Gracious One saw venerable Bhaddiya the Dwarf coming while still far away close behind many bhikkhus, ugly, unsightly, and deformed, whom almost all of the bhikkhus ignored. Having seen that, he addressed the bhikkhus, saying:
 
-3"Do you see, monks, that monk coming while still far away close behind many monks, ugly, unsightly, and deformed, whom almost all of the monks ignore?"
+3"Do you see, bhikkhus, that bhikkhu coming while still far away close behind many bhikkhus, ugly, unsightly, and deformed, whom almost all of the bhikkhus ignore?"
 
 "Yes, reverend Sir."
 
 ---
 
-4"That monk, monks, is one of great power and great majesty. There is no well-gained attainment which has not been already attained by that monk, including that good for which sons of good family rightly go forth from the home to the homeless life, that unsurpassed conclusion to the spiritual life, and he dwells having known, directly experienced, and attained it himself in this very life."
+4"That bhikkhu, bhikkhus, is one of great power and great majesty. There is no well-gained attainment which has not been already attained by that bhikkhu, including that good for which sons of good family rightly go forth from the home to the homeless life, that unsurpassed conclusion to the spiritual life, and he dwells having known, directly experienced, and attained it himself in this very life."
 
 5Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

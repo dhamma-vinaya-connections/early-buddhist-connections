@@ -7,13 +7,13 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC61]]
 > ◄  [[bu-pc60-horner]] 📜  [[bu-pc62-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 61
+# bhikkhus’ Expiation (_Pācittiya_) 61
 
-*Bu-Pc.61.1.1* *Vin.4.124* *BD.3.1* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at one time the venerable Udāyin[^1] was an archer,[^2] and crows were unpleasant to him. He, having shot crows, having cut off their heads, put them in a row on a stake. Monks spoke thus:
+*Bu-Pc.61.1.1* *Vin.4.124* *BD.3.1* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at one time the venerable Udāyin[^1] was an archer,[^2] and crows were unpleasant to him. He, having shot crows, having cut off their heads, put them in a row on a stake. bhikkhus spoke thus:
 
 “By whom, your reverence, were these crows deprived of life?’”
 
-“By me, your reverences; crows are unpleasant to me.” Those who were modest monks … spread it about, saying:
+“By me, your reverences; crows are unpleasant to me.” Those who were modest bhikkhus … spread it about, saying:
 
 “How can the venerable Udāyin intentionally deprive a living thing of life?” …
 
@@ -23,13 +23,13 @@ language: "English"
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, intentionally deprive a living thing of life? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, intentionally deprive a living thing of life? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should intentionally deprive a living thing of life, there is an offence of expiation.”
+“Whatever bhikkhu should intentionally deprive a living thing of life, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.61.2.1* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.61.2.1* Whatever means: … bhikkhu is to be understood in this case.
 
 *BD.3.2* Intentionally means: a transgression committed knowingly, consciously, deliberately.[^3]
 
@@ -51,7 +51,7 @@ The First
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

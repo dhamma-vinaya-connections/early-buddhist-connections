@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the appearance of three people is rare in the world. What three? A Realized One, a perfected one, a fully awakened Buddha. A person who teaches the teaching and training proclaimed by a Realized One. A person who is grateful and thankful. The appearance of these three people is rare in the world.”
+1“bhikkhus, the appearance of three people is rare in the world. What three? A Realized One, a perfected one, a fully awakened Buddha. A person who teaches the teaching and training proclaimed by a Realized One. A person who is grateful and thankful. The appearance of these three people is rare in the world.”
 
 1"Tiṇṇaṁ, bhikkhave, pātubhāvo dullabho lokasmiṁ. Katamesaṁ tiṇṇaṁ? Tathāgatassa, bhikkhave, arahato sammāsambuddhassa pātubhāvo dullabho lokasmiṁ, tathāgatappaveditassa dhammavinayassa desetā puggalo dullabho lokasmiṁ, kataññū katavedī puggalo dullabho lokasmiṁ. Imesaṁ kho, bhikkhave, tiṇṇaṁ pātubhāvo dullabho lokasmin"ti.
 

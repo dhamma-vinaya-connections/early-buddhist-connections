@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are five ways of declaring enlightenment. What five? One declares enlightenment out of stupidity and folly. Or because of wicked desires, being naturally full of desires. Or because of madness and mental disorder. Or out of overestimation. Or one declares enlightenment rightly. These are the five ways of declaring enlightenment.”
+1“bhikkhus, there are five ways of declaring enlightenment. What five? One declares enlightenment out of stupidity and folly. Or because of wicked desires, being naturally full of desires. Or because of madness and mental disorder. Or out of overestimation. Or one declares enlightenment rightly. These are the five ways of declaring enlightenment.”
 
 1"Pañcimāni, bhikkhave, aññābyākaraṇāni. Katamāni pañca? Mandattā momūhattā aññaṁ byākaroti; pāpiccho icchāpakato aññaṁ byākaroti; ummādā cittakkhepā aññaṁ byākaroti; adhimānena aññaṁ byākaroti; sammadeva aññaṁ byākaroti. Imāni kho, bhikkhave, pañca aññābyākaraṇānī"ti.
 

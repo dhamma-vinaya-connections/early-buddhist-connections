@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, give up the unskillful. It is possible to give up the unskillful. If it wasn’t possible, I wouldn’t say: ‘Give up the unskillful.’ But it is possible, and so I say: ‘Give up the unskillful.’ And if giving up the unskillful led to harm and suffering, I would not say: ‘Give up the unskillful.’ But giving up the unskillful leads to welfare and happiness, so I say: ‘Give up the unskillful.’
+1“bhikkhus, give up the unskillful. It is possible to give up the unskillful. If it wasn’t possible, I wouldn’t say: ‘Give up the unskillful.’ But it is possible, and so I say: ‘Give up the unskillful.’ And if giving up the unskillful led to harm and suffering, I would not say: ‘Give up the unskillful.’ But giving up the unskillful leads to welfare and happiness, so I say: ‘Give up the unskillful.’
 
-2Mendicants, develop the skillful. It is possible to develop the skillful. If it wasn’t possible, I wouldn’t say: ‘Develop the skillful.’ But it is possible, and so I say: ‘Develop the skillful.’ If developing the skillful led to harm and suffering I wouldn’t say: ‘Develop the skillful.’ But developing the skillful leads to welfare and happiness, so I say: ‘Develop the skillful.’”
+2bhikkhus, develop the skillful. It is possible to develop the skillful. If it wasn’t possible, I wouldn’t say: ‘Develop the skillful.’ But it is possible, and so I say: ‘Develop the skillful.’ If developing the skillful led to harm and suffering I wouldn’t say: ‘Develop the skillful.’ But developing the skillful leads to welfare and happiness, so I say: ‘Develop the skillful.’”
 
 1"Akusalaṁ, bhikkhave, pajahatha. Sakkā, bhikkhave, akusalaṁ pajahituṁ. No cedaṁ, bhikkhave, sakkā abhavissa akusalaṁ pajahituṁ, nāhaṁ evaṁ vadeyyaṁ: ‘akusalaṁ, bhikkhave, pajahathā’ti. Yasmā ca kho, bhikkhave, sakkā akusalaṁ pajahituṁ tasmāhaṁ evaṁ vadāmi:  ‘akusalaṁ, bhikkhave, pajahathā’ti. Akusalañca hidaṁ, bhikkhave, pahīnaṁ ahitāya dukkhāya saṁvatteyya nāhaṁ evaṁ vadeyyaṁ: ‘akusalaṁ, bhikkhave, pajahathā’ti. Yasmā ca kho, bhikkhave, akusalaṁ pahīnaṁ hitāya sukhāya saṁvattati tasmāhaṁ evaṁ vadāmi:  ‘akusalaṁ, bhikkhave, pajahathā’"ti.
 

@@ -25,12 +25,12 @@ language: "English - Pali"
 Then, late at night, a glorious deity, lighting up the entire lotus pond, went up to the Buddha, bowed, stood to one side, and said to him:
 
 
-2“Sir, three qualities lead to the decline of a mendicant. What three? Relishing work, talk, and sleep. These three qualities lead to the decline of a mendicant.”
+2“Sir, three qualities lead to the decline of a bhikkhu. What three? Relishing work, talk, and sleep. These three qualities lead to the decline of a bhikkhu.”
 
 That’s what that deity said, and the teacher approved. Then that deity, knowing that the teacher approved, bowed, and respectfully circled the Buddha, keeping him on his right, before vanishing right there.
 
 
-3Then, when the night had passed, the Buddha told the mendicants all that had happened, adding:
+3Then, when the night had passed, the Buddha told the bhikkhus all that had happened, adding:
 
 
 “It’s unfortunate for those of you who even the deities know are declining in skillful qualities.
@@ -40,7 +40,7 @@ That’s what that deity said, and the teacher approved. Then that deity, knowin
 “Yes, sir,” they replied. The Buddha said this:
 
 
-“And what, mendicants, are three qualities that lead to decline? Enjoyment of company, being hard to admonish, and having bad friends. These three qualities lead to decline.
+“And what, bhikkhus, are three qualities that lead to decline? Enjoyment of company, being hard to admonish, and having bad friends. These three qualities lead to decline.
 
 
 5Whether in the past, future, or present, all those who decline in skillful qualities do so because of these six qualities.”

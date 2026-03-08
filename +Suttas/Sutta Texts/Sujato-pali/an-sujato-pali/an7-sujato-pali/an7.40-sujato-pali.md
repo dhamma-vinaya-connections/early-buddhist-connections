@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with seven qualities masters their mind and is not mastered by it. What seven? It’s when a mendicant is skilled at immersion, skilled in entering immersion, skilled in remaining in immersion, skilled in emerging from immersion, skilled in gladdening the mind for immersion, skilled in the mindfulness meditation subjects for immersion, and skilled in projecting the mind purified by immersion. A mendicant with these seven qualities masters their mind and is not mastered by it.”
+1“bhikkhus, a bhikkhu with seven qualities masters their mind and is not mastered by it. What seven? It’s when a bhikkhu is skilled at immersion, skilled in entering immersion, skilled in remaining in immersion, skilled in emerging from immersion, skilled in gladdening the mind for immersion, skilled in the mindfulness meditation subjects for immersion, and skilled in projecting the mind purified by immersion. A bhikkhu with these seven qualities masters their mind and is not mastered by it.”
 
 1"Sattahi, bhikkhave, dhammehi samannāgato bhikkhu cittaṁ vase vatteti, no ca bhikkhu cittassa vasena vattati. Katamehi sattahi? Idha, bhikkhave, bhikkhu samādhikusalo hoti, samādhissa samāpattikusalo hoti, samādhissa ṭhitikusalo hoti, samādhissa vuṭṭhānakusalo hoti, samādhissa kalyāṇakusalo hoti, samādhissa gocarakusalo hoti, samādhissa abhinīhārakusalo hoti. Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu cittaṁ vase vatteti, no ca bhikkhu cittassa vasena vattatī"ti.
 

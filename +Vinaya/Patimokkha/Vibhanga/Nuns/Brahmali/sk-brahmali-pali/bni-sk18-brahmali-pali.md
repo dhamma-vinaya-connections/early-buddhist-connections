@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were swinging and dangling their arms while sitting in inhabited areas. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were swinging and dangling their arms while sitting in inhabited areas. …
 
 #### Final ruling
 
 2“‘I will not swing my arms while sitting in inhabited areas,’ this is how you should train.”
 
-3One should not swing one’s arms while sitting in an inhabited area; one should sit keeping one’s arms steady. If a monk, out of disrespect, swings and dangles his arms while sitting in an inhabited area, he commits an offense of wrong conduct.
+3One should not swing one’s arms while sitting in an inhabited area; one should sit keeping one’s arms steady. If a bhikkhu, out of disrespect, swings and dangles his arms while sitting in an inhabited area, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

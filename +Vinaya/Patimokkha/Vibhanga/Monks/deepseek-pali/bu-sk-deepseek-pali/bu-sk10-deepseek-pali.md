@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 584. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū ukkhittakāya antaraghare gacchanti…pe….
 
-## 584.At that time the Blessed One was dwelling at Sāvatthī, in Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the group-of-six monks were going into inhabited areas with their robes hitched up... and so on.
+## 584.At that time the Blessed One was dwelling at Sāvatthī, in Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the group-of-six bhikkhus were going into inhabited areas with their robes hitched up... and so on.
 
 ‘‘Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā’’ti.
 

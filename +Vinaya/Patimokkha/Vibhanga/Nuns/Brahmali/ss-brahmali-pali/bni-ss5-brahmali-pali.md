@@ -20,12 +20,12 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized her, “How could Venerable Sundarīnandā, being lustful, eat either fresh or cooked food after receiving it directly from a lustful man?” …
 
-“Is it true, monks, that the nun Sundarīnandā did this?”
+“Is it true, bhikkhus, that the nun Sundarīnandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could Sundarīnandā, being lustful, eat either fresh or cooked food after receiving it directly from a lustful man? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could Sundarīnandā, being lustful, eat either fresh or cooked food after receiving it directly from a lustful man? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four things. What four?
+1“bhikkhus, there are these four things. What four?
 
 1. There is a thing that’s unpleasant to do, and doing it proves harmful.
 2. There is a thing that’s unpleasant to do, but doing it proves beneficial.

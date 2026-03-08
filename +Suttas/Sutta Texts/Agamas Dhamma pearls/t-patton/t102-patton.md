@@ -19,9 +19,9 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Bhagavān was at Ṛṣipatana in the Deer Preserve of Bārāṇasī.
 
-2. It was then that the Bhagavān addressed the five monks, “You should know that form is not self. If it were the self, form wouldn’t become ill and subject to suffering. ‘I wish for such form; I don’t wish for such form.’ It doesn’t thus yield to those desires. Therefore, you should know that form is not self. _Feeling, perception, volition, and consciousness are likewise._
+2. It was then that the Bhagavān addressed the five bhikkhus, “You should know that form is not self. If it were the self, form wouldn’t become ill and subject to suffering. ‘I wish for such form; I don’t wish for such form.’ It doesn’t thus yield to those desires. Therefore, you should know that form is not self. _Feeling, perception, volition, and consciousness are likewise._
 
-3. “Furthermore, monks, what do you think? Is form permanent, or is it impermanent?”
+3. “Furthermore, bhikkhus, what do you think? Is form permanent, or is it impermanent?”
 
 They said, “Virtuous sir, form is impermanent.”
 
@@ -33,7 +33,7 @@ They said, “Virtuous sir, form is impermanent.”
 
 6. “Suppose my auditing assembly of noble disciples contemplate these five acquired aggregates and know that they have no self or anything belonging to self. After thus contemplating them, they will know the world has nothing that’s grasped, that grasps, or that’s unchanging. They simply realize _nirvāṇa_ from their self-awakening: ‘My births have been ended, the religious practice has been established, and the task has been accomplished. I am not subject to a later existence.’”
 
-7. When he spoke this teaching, the minds of those five monks were liberated from the afflictions. They faithfully accepted it and approved.
+7. When he spoke this teaching, the minds of those five bhikkhus were liberated from the afflictions. They faithfully accepted it and approved.
 
 ---
 

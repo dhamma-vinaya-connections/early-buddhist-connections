@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four kinds of viper. What four?
+1“bhikkhus, there are these four kinds of viper. What four?
 
 1. One whose venom is fast-acting but not lethal,
 2. one whose venom is lethal but not fast-acting,

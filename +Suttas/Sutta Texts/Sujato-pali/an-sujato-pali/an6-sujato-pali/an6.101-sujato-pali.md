@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, it’s totally impossible for a mendicant who regards extinguishment as suffering to accept views that agree with the teaching. …
+1“bhikkhus, it’s totally impossible for a bhikkhu who regards extinguishment as suffering to accept views that agree with the teaching. …
 
-2It’s totally possible for a mendicant who regards extinguishment as pleasurable to accept views that agree with the teaching. …”
+2It’s totally possible for a bhikkhu who regards extinguishment as pleasurable to accept views that agree with the teaching. …”
 
 1"‘So vata, bhikkhave, bhikkhu nibbānaṁ dukkhato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti netaṁ ṭhānaṁ vijjati. ‘Anulomikāya khantiyā asamannāgato sammattaniyāmaṁ okkamissatī’ti netaṁ ṭhānaṁ vijjati. ‘Sammattaniyāmaṁ anokkamamāno sotāpattiphalaṁ vā sakadāgāmiphalaṁ vā anāgāmiphalaṁ vā arahattaṁ vā sacchikarissatī’ti netaṁ ṭhānaṁ vijjati.
 

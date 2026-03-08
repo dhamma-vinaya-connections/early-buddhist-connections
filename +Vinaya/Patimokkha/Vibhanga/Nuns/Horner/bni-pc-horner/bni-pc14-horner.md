@@ -13,13 +13,13 @@ language: "English"
 
 “How can the lady Thullanandā stand together with … at cross-roads, and whisper in his ear and dismiss the nun who is her companion?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā stood together with … and dismissed the nun who is her companion?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā stood together with … and dismissed the nun who is her companion?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā stand together with … and dismiss the nun who is her companion? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training: *Vin.4.271*
+“How, bhikkhus, can the nun Thullanandā stand together with … and dismiss the nun who is her companion? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training: *Vin.4.271*
 
 “Whatever nun should stand together with or should talk with a man, the one with the other, on a carriage road or in a cul-de-sac or at cross-roads[^3] or should whisper in his ear or should dismiss the nun who is her companion, there is an offence of expiation.”
 

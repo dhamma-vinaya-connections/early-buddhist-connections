@@ -15,7 +15,7 @@ language: "English"
 ## ## Sappurisa Sutta
 
 
-“Monks, a person endowed with these four qualities can be known as ‘a person of no integrity.’ Which four?
+“bhikkhus, a person endowed with these four qualities can be known as ‘a person of no integrity.’ Which four?
 
 “There is the case where a person of no integrity, when unasked, reveals another person’s bad points, to say nothing of when asked. Furthermore, when asked, when pressed with questions, he is one who speaks of another person’s bad points in full & in detail, without omission, without holding back. Of this person you may know, ‘This venerable one is a person of no integrity.’
 
@@ -25,7 +25,7 @@ language: "English"
 
 “And further, a person of no integrity, when unasked, reveals his own good points, to say nothing of when asked. Furthermore, when asked, when pressed with questions, he is one who speaks of his own good points in full & in detail, without omissions, without holding back. Of this person you may know, ‘This venerable one is a person of no integrity.’
 
-“Monks, a person endowed with these four qualities can be known as ‘a person of no integrity.’
+“bhikkhus, a person endowed with these four qualities can be known as ‘a person of no integrity.’
 
 “Now, a person endowed with these four qualities can be known as ‘a person of integrity.’ Which four?
 
@@ -37,7 +37,7 @@ language: "English"
 
 “And further, a person of integrity, when asked, doesn’t reveal his own good points, to say nothing of when unasked. Furthermore, when asked, when pressed with questions, he is one who speaks of his own good points not in full, not in detail, with omissions, holding back. Of this person you may know, ‘This venerable one is a person of integrity.’
 
-“Monks, a person endowed with these four qualities can be known as ‘a person of integrity.’”
+“bhikkhus, a person endowed with these four qualities can be known as ‘a person of integrity.’”
 
 See also: [[mn110-thanissaro]]; [[mn113-thanissaro]]; [[an2.31-thanissaro]]; [[an5.148-thanissaro]]
 

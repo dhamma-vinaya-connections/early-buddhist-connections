@@ -24,7 +24,7 @@ language: "English - Pali"
 
 There the Buddha … said:
 
-2“Mendicants, the life span of humans is short. You must go to the next life. So you should do what is skillful, you should practice the spiritual life. No-one born is immortal. A long life is a hundred years or a little more.”
+2“bhikkhus, the life span of humans is short. You must go to the next life. So you should do what is skillful, you should practice the spiritual life. No-one born is immortal. A long life is a hundred years or a little more.”
 
 
 3Then Māra the Wicked went up to the Buddha and addressed him in verse:

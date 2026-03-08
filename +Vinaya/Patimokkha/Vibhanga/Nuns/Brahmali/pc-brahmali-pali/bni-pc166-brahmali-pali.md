@@ -18,7 +18,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time there was a handsome and graceful monk called Venerable Nanda, the Buddha’s cousin. He was 7 centimeters shorter than the Buddha, but he wore a robe that was the same size as the Buddha’s. When the senior monks saw him coming, they thought it was the Buddha and got up from their seats.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time there was a handsome and graceful bhikkhu called Venerable Nanda, the Buddha’s cousin. He was 7 centimeters shorter than the Buddha, but he wore a robe that was the same size as the Buddha’s. When the senior bhikkhus saw him coming, they thought it was the Buddha and got up from their seats.
 
 2But when he came close, they realized who it was, and they complained and criticized him:
 
@@ -29,15 +29,15 @@ language: "Pali - English"
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Nanda, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Nanda, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk has a robe made that is the standard robe measure or larger, it is to be cut down, and he commits an offense entailing confession. This is the standard robe measure: nine standard handspans long and six wide.’”
+3‘If a bhikkhu has a robe made that is the standard robe measure or larger, it is to be cut down, and he commits an offense entailing confession. This is the standard robe measure: nine standard handspans long and six wide.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
 5**The standard robe measure:** nine standard handspans long and six wide.

@@ -20,17 +20,17 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three kinds of purity. What three? Purity of body, speech, and mind.
+1“bhikkhus, there are these three kinds of purity. What three? Purity of body, speech, and mind.
 
-And what is purity of body? It’s when a mendicant doesn’t kill living creatures, steal, or have sex. This is called ‘purity of body’.
+And what is purity of body? It’s when a bhikkhu doesn’t kill living creatures, steal, or have sex. This is called ‘purity of body’.
 
 
-2And what is purity of speech? It’s when a mendicant doesn’t use speech that’s false, divisive, harsh, or nonsensical. This is called ‘purity of speech’.
+2And what is purity of speech? It’s when a bhikkhu doesn’t use speech that’s false, divisive, harsh, or nonsensical. This is called ‘purity of speech’.
 
 
 3And what is purity of mind?
 
-It’s when a mendicant who has sensual desire in them understands ‘I have sensual desire in me.’ When they don’t have sensual desire in them, they understand ‘I don’t have sensual desire in me.’ They understand how sensual desire arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future.
+It’s when a bhikkhu who has sensual desire in them understands ‘I have sensual desire in me.’ When they don’t have sensual desire in them, they understand ‘I don’t have sensual desire in me.’ They understand how sensual desire arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future.
 
 When they have ill will in them they understand ‘I have ill will in me’; and when they don’t have ill will in them they understand ‘I don’t have ill will in me’. They understand how ill will arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future.
 

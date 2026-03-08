@@ -44,7 +44,7 @@ parallels_partilal: "[[SN2.25]], [[SA-2.363]], [[SA1343]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A group of mendicants in the forest had fallen into bad ways, becoming conceited and confused. A deity came to admonish them, making clear that they were only speaking of the badly behaved, not all mendicants
+> A group of bhikkhus in the forest had fallen into bad ways, becoming conceited and confused. A deity came to admonish them, making clear that they were only speaking of the badly behaved, not all bhikkhus
 
 > [!info] Key Excerpts 
 > As disciples of gotama.

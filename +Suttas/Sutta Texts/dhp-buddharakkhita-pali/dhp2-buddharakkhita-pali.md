@@ -37,9 +37,9 @@ language: "Pali"
 
 30By Heedfulness did Indra become the overlord of the gods. Heedfulness is ever praised, and heedlessness ever despised.
 
-31The monk who delights in heedfulness and looks with fear at heedlessness advances like fire, burning all fetters, small and large.
+31The bhikkhu who delights in heedfulness and looks with fear at heedlessness advances like fire, burning all fetters, small and large.
 
-32The monk who delights in heedfulness and looks with fear at heedlessness will not fall. He is close to Nibbāna.
+32The bhikkhu who delights in heedfulness and looks with fear at heedlessness will not fall. He is close to Nibbāna.
 
 21Appamādo amatapadaṁ,  
 pamādo maccuno padaṁ;  

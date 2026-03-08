@@ -24,7 +24,7 @@ Then Venerable Samiddhi rose at the crack of dawn and went to the hot springs to
 
 Then, late at night, a glorious deity, lighting up the entire hot springs, went up to Samiddhi, stood to one side, and said to Samiddhi:
 
-“Mendicant, do you remember the recitation passage and analysis of One Fine Night?”
+“bhikkhu, do you remember the recitation passage and analysis of One Fine Night?”
 
 “No, reverend, I do not. Do you?”
 
@@ -32,7 +32,7 @@ Then, late at night, a glorious deity, lighting up the entire hot springs, went 
 
 “I do not. Do you?”
 
-“I also do not. Learn the recitation passage and analysis of One Fine Night, mendicant, memorize it, and remember it. It is beneficial and relates to the fundamentals of the spiritual life.”
+“I also do not. Learn the recitation passage and analysis of One Fine Night, bhikkhu, memorize it, and remember it. It is beneficial and relates to the fundamentals of the spiritual life.”
 
 That’s what that deity said, before vanishing right there.
 
@@ -41,7 +41,7 @@ That’s what that deity said, before vanishing right there.
   
 “Sir, please teach me the recitation passage and analysis of One Fine night.”  
   
-“Well then, mendicant, listen and pay close attention, I will speak.”  
+“Well then, bhikkhu, listen and pay close attention, I will speak.”  
   
 “Yes, sir,” Samiddhi replied. The Buddha said this:
 
@@ -69,7 +69,7 @@ who truly have that one fine night.”
 
 9-13That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.  
   
-Soon after the Buddha left, those mendicants considered,  
+Soon after the Buddha left, those bhikkhus considered,  
   
 “The Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail. …
 
@@ -77,12 +77,12 @@ Soon after the Buddha left, those mendicants considered,
 14Who can explain in detail the meaning of this brief summary given by the Buddha?”
 
 
-15Then those mendicants thought:
+15Then those bhikkhus thought:
 
 “This Venerable Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions. He is capable of explaining in detail the meaning of this brief passage for recitation given by the Buddha. Let’s go to him, and ask him about this matter.”
 
 
-16-20Then those mendicants went to Mahākaccāna, and exchanged greetings with him. When the greetings and polite conversation were over, they sat down to one side. They told him what had happened, and said:  
+16-20Then those bhikkhus went to Mahākaccāna, and exchanged greetings with him. When the greetings and polite conversation were over, they sat down to one side. They told him what had happened, and said:  
   
 “May Venerable Mahākaccāna please explain this.”
 
@@ -141,14 +141,14 @@ Both the ear and sounds … nose and smells … tongue and tastes … body and t
 
 35If you wish, you may go to the Buddha and ask him about this. You should remember it in line with the Buddha’s answer.”
 
-36-44“Yes, reverend,” said those mendicants, approving and agreeing with what Mahākaccāna said. Then they rose from their seats and went to the Buddha, bowed, sat down to one side, and told him what had happened, adding:  
+36-44“Yes, reverend,” said those bhikkhus, approving and agreeing with what Mahākaccāna said. Then they rose from their seats and went to the Buddha, bowed, sat down to one side, and told him what had happened, adding:  
   
 “Mahākaccāna clearly explained the meaning to us in this manner, with these words and phrases.”  
   
-“Mahākaccāna is astute, mendicants, he has great wisdom. If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna. That is what it means, and that’s how you should remember it.”
+“Mahākaccāna is astute, bhikkhus, he has great wisdom. If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna. That is what it means, and that’s how you should remember it.”
 
 
-45That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+45That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

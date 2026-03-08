@@ -81,22 +81,22 @@ Then Venerable Ānanda said to the Buddha: “Sir, is a female able to realize t
 
 10“Ānanda, if Mahāpajāpatī Gotamī accepts these eight principles of respect, that will be her ordination.
 
-11A nun, even if she has been ordained for a hundred years, should bow down to a monk who was ordained that very day. She should rise up for him, greet him with joined palms, and observe proper etiquette toward him. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
+11A nun, even if she has been ordained for a hundred years, should bow down to a bhikkhu who was ordained that very day. She should rise up for him, greet him with joined palms, and observe proper etiquette toward him. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
 
-12A nun should not commence the rainy season residence in a monastery without monks. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
+12A nun should not commence the rainy season residence in a monastery without bhikkhus. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
 
-13Each fortnight the nuns should expect two things from the community of monks: the date of the sabbath, and visiting for advice. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
+13Each fortnight the nuns should expect two things from the community of bhikkhus: the date of the sabbath, and visiting for advice. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
 
-14After completing the rainy season residence the nuns should invite admonition from the communities of both monks and nuns in regard to anything that was seen, heard, or suspected. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
+14After completing the rainy season residence the nuns should invite admonition from the communities of both bhikkhus and nuns in regard to anything that was seen, heard, or suspected. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
 
-15A nun who has committed a grave offense should undergo penance in the communities of both monks and nuns for a fortnight. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
+15A nun who has committed a grave offense should undergo penance in the communities of both bhikkhus and nuns for a fortnight. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
 
 
-16A trainee nun who has trained in the six rules for two years should seek ordination from the communities of both monks and nuns. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
+16A trainee nun who has trained in the six rules for two years should seek ordination from the communities of both bhikkhus and nuns. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
 
-17A nun should not abuse or insult a monk in any way. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
+17A nun should not abuse or insult a bhikkhu in any way. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
 
-18From this day forth it is forbidden for nuns to criticize monks, but it is not forbidden for monks to criticize nuns. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
+18From this day forth it is forbidden for nuns to criticize bhikkhus, but it is not forbidden for bhikkhus to criticize nuns. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
 
 19If Mahāpajāpatī Gotamī accepts these eight principles of respect, that will be her ordination.”
 
@@ -105,9 +105,9 @@ Then Venerable Ānanda said to the Buddha: “Sir, is a female able to realize t
 
 21“Gotamī, if you accept eight principles of respect, that will be your ordination.
 
-22A nun, even if she has been ordained for a hundred years, should bow down to a monk who was ordained that very day. She should rise up for him, greet him with joined palms, and observe proper etiquette toward him. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts. …
+22A nun, even if she has been ordained for a hundred years, should bow down to a bhikkhu who was ordained that very day. She should rise up for him, greet him with joined palms, and observe proper etiquette toward him. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts. …
 
-23From this day forth it is forbidden for nuns to criticize monks, but it is not forbidden for monks to criticize nuns. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
+23From this day forth it is forbidden for nuns to criticize bhikkhus, but it is not forbidden for bhikkhus to criticize nuns. This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts.
 
 If you accept these eight principles of respect, that will be your ordination.”
 

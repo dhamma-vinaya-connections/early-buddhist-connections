@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A senior mendicant is liked if they can analyze and explain the dharma well, and if they are helpful in the monastery
+> A senior bhikkhu is liked if they can analyze and explain the dharma well, and if they are helpful in the monastery
 
 > [!info] Key Excerpts 
 > They have attained the textual analysis of meaning, text, terminology, and eloquence. And They are skilled in monastery duties

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are three kinds of homage. What three? By way of body, speech, and mind. These are the three kinds of homage.”
+1“bhikkhus, there are three kinds of homage. What three? By way of body, speech, and mind. These are the three kinds of homage.”
 
 1"Tisso imā, bhikkhave, vandanā. Katamā tisso? Kāyena, vācāya, manasā – imā kho, bhikkhave, tisso vandanā"ti.
 

@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.41.1.1* *BD.3.324* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time a bold design[^1] was made in a picture gallery[^2] in King Pasenadi of Kosala’s pleasure grove. Many people went to see the picture gallery. The group of six nuns also went to see the picture gallery. People … spread it about, saying: “How can this group of six nuns go to see the picture gallery, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six nuns go to see a picture gallery?” …
 
-“Is it true, as is said, monks, that the group of six nuns went to see a picture gallery?”
+“Is it true, as is said, bhikkhus, that the group of six nuns went to see a picture gallery?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can this group of six nuns go to see a picture gallery? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can this group of six nuns go to see a picture gallery? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should go to see a king’s pleasure house[^3] or a picture gallery or a park or a pleasure grove or a lotus pond,[^4] there is an offence of expiation.”
 

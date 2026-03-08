@@ -14,7 +14,7 @@ language: "English"
 
 > **Division:** II. ONE WHO INSULTS
 
-“Bhikkhus, when a bhikkhu is one who insults and disparages his fellow monks, a reviler of the noble ones, five dangers can be expected for him. What five? (1) He either commits a _pārājika_ and cuts off the outlet, or (2) commits a certain defiled offense, or (3) contracts a severe illness. (4) He dies confused. (5) With the breakup of the body, after death, he is reborn in the plane of misery, in a bad destination, in the lower world, in hell. When a bhikkhu is one who insults and disparages his fellow monks, a reviler of the noble ones, these five dangers can be expected for him.”
+“Bhikkhus, when a bhikkhu is one who insults and disparages his fellow bhikkhus, a reviler of the noble ones, five dangers can be expected for him. What five? (1) He either commits a _pārājika_ and cuts off the outlet, or (2) commits a certain defiled offense, or (3) contracts a severe illness. (4) He dies confused. (5) With the breakup of the body, after death, he is reborn in the plane of misery, in a bad destination, in the lower world, in hell. When a bhikkhu is one who insults and disparages his fellow bhikkhus, a reviler of the noble ones, these five dangers can be expected for him.”
 
 
 ---

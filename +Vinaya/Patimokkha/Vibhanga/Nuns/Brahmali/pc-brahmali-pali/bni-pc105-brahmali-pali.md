@@ -18,20 +18,20 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, Venerable Upananda the Sakyan was quarreling with the monks from the group of six.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, Venerable Upananda the Sakyan was quarreling with the bhikkhus from the group of six.
 
-He then committed an offense of intentional emission of semen. He asked the Sangha for probation for that offense, which he received. Just then an association in Sāvatthī was offering a meal to the Sangha. Because Upananda was on probation, he sat on the last seat in the dining hall. The monks from the group of six then told those lay followers, “This Venerable Upananda, the esteemed associate of your families, eats the food given in faith with the same hand he uses to masturbate. After committing an offense of intentional emission of semen, he asked the Sangha for probation for that offense, which he received. And because he’s on probation, he now sits on the last seat.”
+He then committed an offense of intentional emission of semen. He asked the Sangha for probation for that offense, which he received. Just then an association in Sāvatthī was offering a meal to the Sangha. Because Upananda was on probation, he sat on the last seat in the dining hall. The bhikkhus from the group of six then told those lay followers, “This Venerable Upananda, the esteemed associate of your families, eats the food given in faith with the same hand he uses to masturbate. After committing an offense of intentional emission of semen, he asked the Sangha for probation for that offense, which he received. And because he’s on probation, he now sits on the last seat.”
 
-2The monks of few desires complained and criticized them, “How could the monks from the group of six tell a person who’s not fully ordained about a monk’s grave offense?” … “Is it true, monks, that you did this?”
+2The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six tell a person who’s not fully ordained about a monk’s grave offense?” … “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And so, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk tells a person who is not fully ordained about a monk’s grave offense, except if the monks have agreed, he commits an offense entailing confession.’”
+3‘If a monk tells a person who is not fully ordained about a monk’s grave offense, except if the bhikkhus have agreed, he commits an offense entailing confession.’”
 
 #### Definitions
 
@@ -47,13 +47,13 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 
 8**Tells:** tells a woman or a man, a lay person or a monastic.
 
-9**Except if the monks have agreed:** unless the monks have agreed.
+9**Except if the bhikkhus have agreed:** unless the bhikkhus have agreed.
 
 #### Permutations
 
 #### Summary
 
-10There is agreement of the monks with a limit on offenses, but not on families. There is agreement of the monks with a limit on families, but not on offenses. There is agreement of the monks with a limit both on offenses and on families. There is agreement of the monks with neither a limit on offenses nor on families.
+10There is agreement of the bhikkhus with a limit on offenses, but not on families. There is agreement of the bhikkhus with a limit on families, but not on offenses. There is agreement of the bhikkhus with a limit both on offenses and on families. There is agreement of the bhikkhus with neither a limit on offenses nor on families.
 
 #### Definitions
 
@@ -76,11 +76,11 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 16When there is neither a limit on offenses nor on families, there is no offense.
 
 
-17If the offense is grave, and he perceives it as such, and he tells a person who is not fully ordained, then, except if the monks have agreed, he commits an offense entailing confession.
+17If the offense is grave, and he perceives it as such, and he tells a person who is not fully ordained, then, except if the bhikkhus have agreed, he commits an offense entailing confession.
 
-18If the offense is grave, but he is unsure of it, and he tells a person who is not fully ordained, then, except if the monks have agreed, he commits an offense entailing confession.
+18If the offense is grave, but he is unsure of it, and he tells a person who is not fully ordained, then, except if the bhikkhus have agreed, he commits an offense entailing confession.
 
-19If the offense is grave, but he perceives it as minor, and he tells a person who is not fully ordained, then, except if the monks have agreed, he commits an offense entailing confession.
+19If the offense is grave, but he perceives it as minor, and he tells a person who is not fully ordained, then, except if the bhikkhus have agreed, he commits an offense entailing confession.
 
 
 20If he tells about a minor offense, he commits an offense of wrong conduct.
@@ -95,7 +95,7 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 
 #### Non-offenses
 
-25There is no offense: if he tells about the action that was the basis for the offense, but not the class of offense; if he tells about the class of offense, but not the action that was the basis for the offense; if the monks have agreed; if he is insane; if he is the first offender.
+25There is no offense: if he tells about the action that was the basis for the offense, but not the class of offense; if he tells about the class of offense, but not the action that was the basis for the offense; if the bhikkhus have agreed; if he is insane; if he is the first offender.
 
 26The training rule on telling about what is grave, the ninth, is finished.
 

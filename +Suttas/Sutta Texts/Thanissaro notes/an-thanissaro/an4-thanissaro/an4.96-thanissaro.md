@@ -15,7 +15,7 @@ language: "English"
 ## ## Rāga-vinaya Sutta
 
 
-“Monks, these four types of individuals are to be found existing in the world. Which four? The one who practices for his/her own benefit but not for that of others. The one who practices for the benefit of others but not for his/her own. The one who practices neither for his/her own benefit nor for that of others. The one who practices for his/her own benefit and for that of others.
+“bhikkhus, these four types of individuals are to be found existing in the world. Which four? The one who practices for his/her own benefit but not for that of others. The one who practices for the benefit of others but not for his/her own. The one who practices neither for his/her own benefit nor for that of others. The one who practices for his/her own benefit and for that of others.
 
 “And how is one an individual who practices for his/her own benefit but not for that of others? There is the case where a certain individual practices for the subduing of passion within him/herself but doesn’t encourage others in the subduing of passion; practices for the subduing of aversion within him/herself but doesn’t encourage others in the subduing of aversion; practices for the subduing of delusion within him/herself but doesn’t encourage others in the subduing of delusion. Such is the individual who practices for his/her own benefit but not for that of others.
 

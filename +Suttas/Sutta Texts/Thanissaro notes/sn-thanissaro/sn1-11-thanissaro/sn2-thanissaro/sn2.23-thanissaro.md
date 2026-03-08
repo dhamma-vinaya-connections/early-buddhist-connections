@@ -50,7 +50,7 @@ Deeds of merit are the support for beings
 	when they arise
 	in the other world.’”
 
-“In the past, lord, I was a king named Serī—a donor, a lord of giving, one who spoke in praise of giving. At my four gates I had gifts given to contemplatives & brahmans, poor people & travelers, mendicants & beggars.
+“In the past, lord, I was a king named Serī—a donor, a lord of giving, one who spoke in praise of giving. At my four gates I had gifts given to contemplatives & brahmans, poor people & travelers, bhikkhus & beggars.
 
 “Then my harem women came to me and said, ‘Your majesty, you give gifts, but we don’t give gifts. It would be good if, depending on you, we gave gifts & did deeds of merit.’
 
@@ -70,7 +70,7 @@ Deeds of merit are the support for beings
 
 “Then my men came to me and said, ‘Now your majesty isn’t giving any gifts.’
 
-“When that was said, I said to my men, ‘In that case, I say, bring half of the revenue generated in the outlying districts into the city, and give half of it as gifts to contemplatives & brahmans, poor people & travelers, mendicants & beggars.’
+“When that was said, I said to my men, ‘In that case, I say, bring half of the revenue generated in the outlying districts into the city, and give half of it as gifts to contemplatives & brahmans, poor people & travelers, bhikkhus & beggars.’
 
 “And so, lord, in the meritorious deeds I did for such a long time, in the skillful deeds I did for such a long time, I didn’t reach a limit of ‘so much merit’ or ‘so much fruit of merit’ or ‘so long I should stay in heaven.’
 

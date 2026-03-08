@@ -109,7 +109,7 @@ That in itself
 
 was bhikkhuhood for him.
 
-Then the Blessed One set out wandering toward Sāvatthī with Ven. Aṅgulimāla as his attendant monk. After wandering by stages he reached Sāvatthī, and there he lived near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
+Then the Blessed One set out wandering toward Sāvatthī with Ven. Aṅgulimāla as his attendant bhikkhu. After wandering by stages he reached Sāvatthī, and there he lived near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
 Now at that time a large crowd of people, loud & noisy, had gathered at the gates to King Pasenadi Kosala’s inner palace, (calling out,) “There is a bandit in your realm, sire, named Aṅgulimāla: brutal, bloody-handed, devoted to killing & slaying, showing no mercy to living beings. He has turned villages into non-villages, towns into non-towns, settled countryside into unsettled countryside. Having repeatedly killed human beings, he wears a garland made of fingers. The king must stamp him out!”
 
@@ -173,7 +173,7 @@ he brightens the world
 
 like the moon set free from a cloud.[5](#^mn86note05) ^mn86note05-ref
 
-Whatever young monk
+Whatever young bhikkhu
 
 devotes himself
 

@@ -16,18 +16,18 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time Venerable Upananda the Sakyan had assigned the ownership of a robe to a monk who was his brother’s student. He then used that robe without that monk having relinquished it. That monk told the monks:
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time Venerable Upananda the Sakyan had assigned the ownership of a robe to a monk who was his brother’s student. He then used that robe without that monk having relinquished it. That monk told the bhikkhus:
 
 “Venerable Upananada is using a robe that he has assigned to me, even though I haven’t relinquished it.”
 
-2The monks of few desires complained and criticized Upananda, “How could Venerable Upananda use a robe he has assigned to a monk, without that monk first relinquishing it?” …
+2The bhikkhus of few desires complained and criticized Upananda, “How could Venerable Upananda use a robe he has assigned to a monk, without that monk first relinquishing it?” …
 
 “Is it true, Upananda, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five kinds of stinginess. What five? Stinginess with dwellings, families, material possessions, praise, and the teachings. These are the five kinds of stinginess. The most contemptible of these five kinds of stinginess is stinginess with the teachings.”
+1“bhikkhus, there are these five kinds of stinginess. What five? Stinginess with dwellings, families, material possessions, praise, and the teachings. These are the five kinds of stinginess. The most contemptible of these five kinds of stinginess is stinginess with the teachings.”
 
 1"Pañcimāni, bhikkhave, macchariyāni. Katamāni pañca? Āvāsamacchariyaṁ, kulamacchariyaṁ, lābhamacchariyaṁ, vaṇṇamacchariyaṁ, dhammamacchariyaṁ – imāni kho, bhikkhave, pañca macchariyāni. Imesaṁ kho, bhikkhave, pañcannaṁ macchariyānaṁ etaṁ paṭikuṭṭhaṁ, yadidaṁ dhammamacchariyan"ti.
 

@@ -2,7 +2,7 @@
 index:
   - Patimokkha
 rule_type: "BU-SK - Sekhiya - Training"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-SK 
 

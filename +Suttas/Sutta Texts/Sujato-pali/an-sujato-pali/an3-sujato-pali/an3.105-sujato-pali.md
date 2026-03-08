@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, if there were no gratification in the world, sentient beings wouldn’t love it. But because there is gratification in the world, sentient beings do love it.
+1“bhikkhus, if there were no gratification in the world, sentient beings wouldn’t love it. But because there is gratification in the world, sentient beings do love it.
 
 If the world had no drawback, sentient beings wouldn’t grow disillusioned with it. But because the world has a drawback, sentient beings do grow disillusioned with it.
 

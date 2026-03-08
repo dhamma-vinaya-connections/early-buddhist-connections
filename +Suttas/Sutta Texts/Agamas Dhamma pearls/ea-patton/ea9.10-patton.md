@@ -17,10 +17,10 @@ language: "English"
 
 10. Notions of Desire (2)
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “In this assembly, I don’t see a single thing that doesn’t produce notions of desire that have yet to exist and that ceases notions of desire that have arisen … that doesn’t produce notions of anger that have yet to exist and that ceases notions of anger that have arisen … that doesn’t produce notions of sleepiness that have yet to exist and that ceases notions of sleepiness that have arisen … that doesn’t produce notions of agitation that have yet to exist and that ceases notions of agitation that have arisen … that doesn’t produce notions of doubt that have yet to exist and that ceases notions of doubt that have arisen …<a id="fnref2"></a>[^2]
+2. It was then that the Bhagavān addressed the bhikkhus, “In this assembly, I don’t see a single thing that doesn’t produce notions of desire that have yet to exist and that ceases notions of desire that have arisen … that doesn’t produce notions of anger that have yet to exist and that ceases notions of anger that have arisen … that doesn’t produce notions of sleepiness that have yet to exist and that ceases notions of sleepiness that have arisen … that doesn’t produce notions of agitation that have yet to exist and that ceases notions of agitation that have arisen … that doesn’t produce notions of doubt that have yet to exist and that ceases notions of doubt that have arisen …<a id="fnref2"></a>[^2]
 3. “One should contemplate the foul discharges and perceptions of impurity. After contemplating them, notions of desire that have yet to arise won’t arise, and notions of desire that have arisen can cease … notions of anger that have yet to arise won’t arise, and notions of anger that have arisen can cease … [sleepiness … agitation] … notions of doubt that have yet to arise won’t arise, and notions of doubt that have arisen can cease.
-4. “Therefore, monks, keep your thinking focused and don’t become distracted. Thus, monks, you should train yourselves.”
-5. When the monks heard what the Buddha taught, they rejoiced and approved.
+4. “Therefore, bhikkhus, keep your thinking focused and don’t become distracted. Thus, bhikkhus, you should train yourselves.”
+5. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 Summary Verse
 - [1-2] Two laywomen, [3-4] two on mind,    
     [5] One on downfall, [6] one on birth in heaven,    

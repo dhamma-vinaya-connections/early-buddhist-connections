@@ -16,22 +16,22 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were misbehaving. They said to each other, “Let’s make the other monks think that we committed these offenses because we didn’t know the rules.” Then, during the recitation of the Monastic Code, they said, “Just now did we find out that this rule too is included in the Monastic Code and comes up for recitation every half-month.”
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were misbehaving. They said to each other, “Let’s make the other bhikkhus think that we committed these offenses because we didn’t know the rules.” Then, during the recitation of the Monastic Code, they said, “Just now did we find out that this rule too is included in the Monastic Code and comes up for recitation every half-month.”
 
 
-2The monks of few desires complained and criticized them: “How could the monks from the group of six say this during the recitation of the Monastic Code?” …
+2The bhikkhus of few desires complained and criticized them: “How could the bhikkhus from the group of six say this during the recitation of the Monastic Code?” …
 
 
-“Is it true, monks, that you said this?”
+“Is it true, bhikkhus, that you said this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you say this during the recitation of the Monastic Code? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you say this during the recitation of the Monastic Code? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘During the half-monthly recitation of the Monastic Code, a monk might say, “Just now did I find out that this rule too has come down in the Monastic Code, is included in the Monastic Code, and comes up for recitation every half-month.” If other monks know that that monk has previously sat through at least two or three recitations of the Monastic Code, then that monk is not let off because of ignorance, and he is to be dealt with according to the rule. Further, he should be charged with deception: “It’s a loss for you that you don’t pay proper attention during the recitation of the Monastic Code.” And for the act of deception, he commits an offense entailing confession.’”
+3‘During the half-monthly recitation of the Monastic Code, a monk might say, “Just now did I find out that this rule too has come down in the Monastic Code, is included in the Monastic Code, and comes up for recitation every half-month.” If other bhikkhus know that that monk has previously sat through at least two or three recitations of the Monastic Code, then that monk is not let off because of ignorance, and he is to be dealt with according to the rule. Further, he should be charged with deception: “It’s a loss for you that you don’t pay proper attention during the recitation of the Monastic Code.” And for the act of deception, he commits an offense entailing confession.’”
 
 #### Definitions
 
@@ -45,7 +45,7 @@ The Buddha rebuked them … “Foolish men, how could you say this during the re
 7**Might say:** after misbehaving, he thinks, “Let them think that I committed these offenses because I didn’t know the rules.” If, during the recitation of the Monastic Code, he then says, “Just now did I find out that this rule too has come down in the Monastic Code, is included in the Monastic Code, and comes up for recitation every half-month,” then he commits an offense of wrong conduct.
 
 
-8If other monks know that the monk who wants to deceive has previously sat through at least two or three recitations of the Monastic Code, then that monk is not let off because of ignorance, and he is to be dealt with according to the rule. Further, he should be charged with deception: “And, monks, he is to be charged like this. A competent and capable monk should inform the Sangha:
+8If other bhikkhus know that the monk who wants to deceive has previously sat through at least two or three recitations of the Monastic Code, then that monk is not let off because of ignorance, and he is to be dealt with according to the rule. Further, he should be charged with deception: “And, bhikkhus, he is to be charged like this. A competent and capable monk should inform the Sangha:
 
 9‘Please, Venerables, I ask the Sangha to listen. Monk so-and-so did not pay proper attention during the recitation of the Monastic Code. If it seems appropriate to the Sangha, the Sangha should charge him with deception. This is the motion.
 

@@ -36,11 +36,11 @@ But the goldsmith keeps on blowing, melting, and smelting it.
 The gold becomes pliable, workable, and radiant, not brittle, and ready to be worked. Then the goldsmith can successfully create any kind of ornament they want, whether a bracelet, earrings, a necklace, or a golden garland.
 
 
-2In the same way, a mendicant who is committed to the higher mind has coarse corruptions: bad bodily, verbal, and mental conduct. A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them.
+2In the same way, a bhikkhu who is committed to the higher mind has coarse corruptions: bad bodily, verbal, and mental conduct. A sincere, capable bhikkhu gives these up, gets rid of, eliminates, and obliterates them.
 
-When they’ve been given up and eliminated, there are middling corruptions: sensual, malicious, or cruel thoughts. A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them.
+When they’ve been given up and eliminated, there are middling corruptions: sensual, malicious, or cruel thoughts. A sincere, capable bhikkhu gives these up, gets rid of, eliminates, and obliterates them.
 
-When they’ve been given up and eliminated, there are fine corruptions: thoughts of family, country, and being looked up to. A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them.
+When they’ve been given up and eliminated, there are fine corruptions: thoughts of family, country, and being looked up to. A sincere, capable bhikkhu gives these up, gets rid of, eliminates, and obliterates them.
 
 When they’ve been given up and eliminated, only thoughts about the teaching are left. That immersion is not peaceful or sublime or tranquil or unified, but is held in place by forceful suppression.
 

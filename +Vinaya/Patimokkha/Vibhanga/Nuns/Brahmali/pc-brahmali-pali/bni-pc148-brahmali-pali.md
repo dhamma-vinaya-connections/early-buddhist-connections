@@ -20,14 +20,14 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the novice monastic Kaṇṭaka had the following bad and erroneous view: “As I understand the teachings of the Buddha, the things he calls obstacles are unable to obstruct one who indulges in them.”
 
-A number of monks heard that the novice monastic Kaṇṭaka had that view. They went to see him and asked, “Is it true, Kaṇṭaka, that you have such a view?”
+A number of bhikkhus heard that the novice monastic Kaṇṭaka had that view. They went to see him and asked, “Is it true, Kaṇṭaka, that you have such a view?”
 
 
 “Yes, indeed. As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them.”
 
-2“No, Kaṇṭaka, don’t misrepresent the Buddha, for it’s not good to misrepresent him. The Buddha would never say such a thing. The Buddha has given many discourses about the obstacles being obstructive and how they obstruct one who indulges in them. The Buddha has said that there’s little enjoyment in worldly pleasures, but much suffering and much trouble, and that the danger in them is greater. … ” But even though the monks corrected Kaṇṭaka like this, he stubbornly held on to that bad and erroneous view, and he continued to insist on it.
+2“No, Kaṇṭaka, don’t misrepresent the Buddha, for it’s not good to misrepresent him. The Buddha would never say such a thing. The Buddha has given many discourses about the obstacles being obstructive and how they obstruct one who indulges in them. The Buddha has said that there’s little enjoyment in worldly pleasures, but much suffering and much trouble, and that the danger in them is greater. … ” But even though the bhikkhus corrected Kaṇṭaka like this, he stubbornly held on to that bad and erroneous view, and he continued to insist on it.
 
-3Since those monks were unable to make him give up that view, they went to the Buddha and told him what had happened. Soon afterwards the Buddha had the Sangha gathered and questioned the Kaṇṭaka: “Is it true, Kaṇṭaka, that you have such a view?”
+3Since those bhikkhus were unable to make him give up that view, they went to the Buddha and told him what had happened. Soon afterwards the Buddha had the Sangha gathered and questioned the Kaṇṭaka: “Is it true, Kaṇṭaka, that you have such a view?”
 
 
 “Yes indeed, Venerable Sir.”
@@ -38,48 +38,48 @@ A number of monks heard that the novice monastic Kaṇṭaka had that view. They
 This will affect people’s confidence …” … and cause some to lose it.”
 
 
-Having rebuked him … the Buddha gave a teaching and addressed the monks:
+Having rebuked him … the Buddha gave a teaching and addressed the bhikkhus:
 
-“Well then, monks, the Sangha should expel the novice monastic Kaṇṭaka. And this is how he should be expelled: ‘From today, Kaṇṭaka, you may not refer to the Buddha as your teacher. And you can no longer share a sleeping place with the monks for two or three nights, as can other novices. Go! Away with you!’”
+“Well then, bhikkhus, the Sangha should expel the novice monastic Kaṇṭaka. And this is how he should be expelled: ‘From today, Kaṇṭaka, you may not refer to the Buddha as your teacher. And you can no longer share a sleeping place with the bhikkhus for two or three nights, as can other novices. Go! Away with you!’”
 
 The Sangha then expelled Kaṇṭaka.
 
 
-5Soon afterwards the monks from the group of six befriended Kaṇṭaka, and they were attended on by him, lived with him, and shared a sleeping place with him. Yet they knew that he had been expelled. The monks of few desires complained and criticized those monks:
+5Soon afterwards the bhikkhus from the group of six befriended Kaṇṭaka, and they were attended on by him, lived with him, and shared a sleeping place with him. Yet they knew that he had been expelled. The bhikkhus of few desires complained and criticized those bhikkhus:
 
-“How can the monks from the group of six befriend Kaṇṭaka, and be attended on by him, live with him, and share a sleeping place with him, even though they know that he has been expelled?” …
+“How can the bhikkhus from the group of six befriend Kaṇṭaka, and be attended on by him, live with him, and share a sleeping place with him, even though they know that he has been expelled?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-6‘Also if a novice monastic says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the monks should correct him like this: “No, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that novice monastic continues as before, he should be told: “From today on you may not refer to the Buddha as your teacher. And you can no longer share a sleeping place with the monks for two or three nights, as can other novice monastics. Go! Away with you!” If a monk befriends that novice monastic, or he is attended on by him, lives with him, or shares a sleeping place with him, even though he knows that he has been expelled in this way, he commits an offense entailing confession.’”
+6‘Also if a novice monastic says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the bhikkhus should correct him like this: “No, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that novice monastic continues as before, he should be told: “From today on you may not refer to the Buddha as your teacher. And you can no longer share a sleeping place with the bhikkhus for two or three nights, as can other novice monastics. Go! Away with you!” If a bhikkhu befriends that novice monastic, or he is attended on by him, lives with him, or shares a sleeping place with him, even though he knows that he has been expelled in this way, he commits an offense entailing confession.’”
 
 #### Definitions
 
-7**A novice monastic:** a novice monk is what is meant.
+7**A novice monastic:** a novice bhikkhu is what is meant.
 
 8**Says:** “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them.”
 
 9**Him:** the novice monastic who speaks in that way.
 
 
-10**The monks:** other monks, those who see it or hear about it. They should correct him, “No, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” And they should correct him a second time … And they should correct him a third time … If he gives up that view, all is well. If he does not, he should be told: “From today on you may not refer to the Buddha as your teacher. And you can no longer share a sleeping place with the monks for two or three nights, as can other novice monastics. Go! Away with you!”
+10**The bhikkhus:** other bhikkhus, those who see it or hear about it. They should correct him, “No, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” And they should correct him a second time … And they should correct him a third time … If he gives up that view, all is well. If he does not, he should be told: “From today on you may not refer to the Buddha as your teacher. And you can no longer share a sleeping place with the bhikkhus for two or three nights, as can other novice monastics. Go! Away with you!”
 
 
-11**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+11**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
 12**He knows:** he knows by himself or others have told him or the offending novice monastic has told him.
 
 13**Expelled in this way:** expelled like this.
 
-14**Novice monastic:** novice monk is what is meant.
+14**Novice monastic:** novice bhikkhu is what is meant.
 
 15**Befriends:** if he befriends him, saying, “I’ll give him a bowl,” “I’ll give him a robe,” “I’ll recite to him,” or “I’ll test him,” he commits an offense entailing confession.
 
@@ -87,7 +87,7 @@ The Buddha rebuked them … “Foolish men, how can you do this? This will affec
 
 17**Lives with:** there are two types of living together: material living together and spiritual living together. **Material living together:** if he gives or receives material things, he commits an offense entailing confession. **Spiritual living together:** he recites or has the other recite. If he recites or has the other recite by the line, then for every line he commits an offense entailing confession. If he recites or has the other recite by the syllable, then for every syllable he commits an offense entailing confession.
 
-18**Shares a sleeping place with:** under the same ceiling: if the monk lies down when the expelled novice monastic is already lying down, he commits an offense entailing confession; if the monk is already lying down when the expelled novice monastic lies down, he commits an offense entailing confession; if they both lie down together, he commits an offense entailing confession; every time they get up and then lie down again, he commits an offense entailing confession.
+18**Shares a sleeping place with:** under the same ceiling: if the bhikkhu lies down when the expelled novice monastic is already lying down, he commits an offense entailing confession; if the bhikkhu is already lying down when the expelled novice monastic lies down, he commits an offense entailing confession; if they both lie down together, he commits an offense entailing confession; every time they get up and then lie down again, he commits an offense entailing confession.
 
 #### Permutations
 

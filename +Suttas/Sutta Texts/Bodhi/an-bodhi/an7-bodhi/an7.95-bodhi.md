@@ -16,7 +16,7 @@ language: "English"
 
 “Bhikkhus, there are these seven kinds of persons who are worthy of gifts, worthy of hospitality, worthy of offerings, worthy of reverential salutation, an unsurpassed field of merit for the world. What seven?
 
-(1) “Here, bhikkhus, some person dwells contemplating impermanence in the eye, perceiving impermanence, experiencing impermanence, constantly, continuously, and uninterruptedly focusing on it with the mind, fathoming it with wisdom. With the destruction of the taints, he has realized for himself with direct knowledge, in this very life, the taintless liberation of mind, liberation by wisdom, \[146\] and having entered upon it, he dwells in it. This is the first kind of person worthy of gifts, worthy of hospitality, worthy of offerings, worthy of reverential salutation, an unsurpassed field of merit for the world.
+(1) “Here, bhikkhus, some person ![[Satipatthanas]].
 
 (2) “Again, some person dwells contemplating impermanence in the eye, perceiving impermanence, experiencing impermanence, constantly, continuously, and uninterruptedly focusing on it with the mind, fathoming it with wisdom. For him the exhaustion of the taints and the exhaustion of life occur simultaneously. This is the second kind of person worthy of gifts….
 

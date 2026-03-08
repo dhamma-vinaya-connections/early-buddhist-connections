@@ -20,13 +20,13 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three kinds of sagacity. What three? Sagacity of body, speech, and mind.
+1“bhikkhus, there are these three kinds of sagacity. What three? Sagacity of body, speech, and mind.
 
-And what is sagacity of body? It’s when a mendicant doesn’t kill living creatures, steal, or have sex. This is called ‘sagacity of body’.
+And what is sagacity of body? It’s when a bhikkhu doesn’t kill living creatures, steal, or have sex. This is called ‘sagacity of body’.
 
-2And what is sagacity of speech? It’s when a mendicant doesn’t use speech that’s false, divisive, harsh, or nonsensical. This is called ‘sagacity of speech’.
+2And what is sagacity of speech? It’s when a bhikkhu doesn’t use speech that’s false, divisive, harsh, or nonsensical. This is called ‘sagacity of speech’.
 
-3And what is sagacity of mind? It’s when a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. This is called ‘sagacity of mind’.
+3And what is sagacity of mind? It’s when a bhikkhu realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. This is called ‘sagacity of mind’.
 
 These are the three kinds of sagacity.
 

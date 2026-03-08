@@ -15,7 +15,7 @@ sutta_chapter:
 sutta_theme:
   - "Noble ones"
 sutta_topic:
-  - "Mendicant"
+  - "bhikkhu"
 sutta_training:
   - "Sīla"
 sutta_stage:
@@ -44,13 +44,13 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant who relies on alms, 
+> A bhikkhu who relies on alms, 
 self-supported, providing for no other; 
 the poised one is envied by even the gods, 
 calm and ever mindful.
 
 > [!info] Key Excerpts 
-> A mendicant who relies on alms, 
+> A bhikkhu who relies on alms, 
 self-supported, providing for no other; 
 the poised one is envied by even the gods, 
 but not if they’re after popularity and reputation
@@ -58,7 +58,7 @@ but not if they’re after popularity and reputation
 > Living without a craft, light, desiring the good, 
 with senses controlled, everywhere free; 
 a migrant with no shelter, unselfish, with no need for hope, 
-having given up conceit, wandering alone: that is a mendicant
+having given up conceit, wandering alone: that is a bhikkhu
 > 
 
 

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 95
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three ways of obtaining sensual pleasures. Which three? Those whose sensual pleasures are already provided, those who delight in creating, those with control over what is created by others.[1](#^iti95note01) These are the three ways of obtaining sensual pleasures.” ^iti95note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three ways of obtaining sensual pleasures. Which three? Those whose sensual pleasures are already provided, those who delight in creating, those with control over what is created by others.[1](#^iti95note01) These are the three ways of obtaining sensual pleasures.” ^iti95note01-ref
 
 Devas whose pleasures are already provided,
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants when he arrived at a village of the Kosalan brahmins named Icchānaṅgala. He stayed in a forest near Icchānaṅgala. The brahmins and householders of Icchānaṅgala heard:
+1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of bhikkhus when he arrived at a village of the Kosalan brahmins named Icchānaṅgala. He stayed in a forest near Icchānaṅgala. The brahmins and householders of Icchānaṅgala heard:
 
 “It seems the ascetic Gotama — a Sakyan, gone forth from a Sakyan family — has arrived at Icchānaṅgala. He is staying in a forest near Icchānaṅgala. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased; and he explains a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.”
 
@@ -29,7 +29,7 @@ Then, when the night had passed, they took many different foods and went to the 
 
 2Now, at that time Venerable Nāgita was the Buddha’s attendant. Then the Buddha said to Nāgita: “Nāgita, who’s making that dreadful racket? You’d think it was fishermen hauling in a catch!”
 
-“Sir, it’s these brahmins and householders of Icchānaṅgala. They’ve brought many different foods, and they’re standing outside the gates wanting to offer it specially to the Buddha and the mendicant Saṅgha.”
+“Sir, it’s these brahmins and householders of Icchānaṅgala. They’ve brought many different foods, and they’re standing outside the gates wanting to offer it specially to the Buddha and the bhikkhu Saṅgha.”
 
 “Nāgita, may I never become famous. May fame not come to me. There are those who can’t get the bliss of renunciation, the bliss of seclusion, the bliss of peace, the bliss of awakening when they want, without trouble or difficulty like I can. Let them enjoy the filthy, lazy pleasure of possessions, honor, and popularity.”
 
@@ -38,17 +38,17 @@ Then, when the night had passed, they took many different foods and went to the 
 
 4“Nāgita, may I never become famous. May fame not come to me. There are those who can’t get the bliss of renunciation, the bliss of seclusion, the bliss of peace, the bliss of awakening when they want, without trouble or difficulty like I can. Let them enjoy the filthy, lazy pleasure of possessions, honor, and popularity.
 
-5Take a mendicant living in the neighborhood of a village who I see sitting immersed in samādhi. I think to myself: ‘Now a monastery worker, a novice, or a fellow practitioner will make this venerable fall from immersion.’ So I’m not pleased that that mendicant is living in the neighborhood of a village.
+5Take a bhikkhu living in the neighborhood of a village who I see sitting immersed in samādhi. I think to myself: ‘Now a monastery worker, a novice, or a fellow practitioner will make this venerable fall from immersion.’ So I’m not pleased that that bhikkhu is living in the neighborhood of a village.
 
-6Take a mendicant in the wilderness who I see sitting nodding in meditation. I think to myself: ‘Now this venerable, having dispelled that sleepiness and weariness, will focus just on the unified perception of wilderness.’ So I’m pleased that that mendicant is living in the wilderness.
+6Take a bhikkhu in the wilderness who I see sitting nodding in meditation. I think to myself: ‘Now this venerable, having dispelled that sleepiness and weariness, will focus just on the unified perception of wilderness.’ So I’m pleased that that bhikkhu is living in the wilderness.
 
-7Take a mendicant in the wilderness who I see sitting without being immersed in samādhi. I think to myself: ‘Now if this venerable’s mind is not immersed in samādhi they will immerse it, or if it is immersed in samādhi, they will preserve it.’ So I’m pleased that that mendicant is living in the wilderness.
+7Take a bhikkhu in the wilderness who I see sitting without being immersed in samādhi. I think to myself: ‘Now if this venerable’s mind is not immersed in samādhi they will immerse it, or if it is immersed in samādhi, they will preserve it.’ So I’m pleased that that bhikkhu is living in the wilderness.
 
-8Take a mendicant in the wilderness who I see sitting immersed in samādhi. I think to myself: ‘Now this venerable will free the unfreed mind or preserve the freed mind.’ So I’m pleased that that mendicant is living in the wilderness.
+8Take a bhikkhu in the wilderness who I see sitting immersed in samādhi. I think to myself: ‘Now this venerable will free the unfreed mind or preserve the freed mind.’ So I’m pleased that that bhikkhu is living in the wilderness.
 
-9Take a mendicant who I see living in the neighborhood of a village receiving robes, alms-food, lodgings, and medicines and supplies for the sick. Enjoying possessions, honor, and popularity they neglect retreat, and they neglect remote lodgings in the wilderness and the forest. They come down to villages, towns, and capital cities and make their home there. So I’m not pleased that that mendicant is living in the neighborhood of a village.
+9Take a bhikkhu who I see living in the neighborhood of a village receiving robes, alms-food, lodgings, and medicines and supplies for the sick. Enjoying possessions, honor, and popularity they neglect retreat, and they neglect remote lodgings in the wilderness and the forest. They come down to villages, towns, and capital cities and make their home there. So I’m not pleased that that bhikkhu is living in the neighborhood of a village.
 
-10Take a mendicant who I see in the wilderness receiving robes, alms-food, lodgings, and medicines and supplies for the sick. Fending off possessions, honor, and popularity they don’t neglect retreat, and they don’t neglect remote lodgings in the wilderness and the forest. So I’m pleased that that mendicant is living in the wilderness.
+10Take a bhikkhu who I see in the wilderness receiving robes, alms-food, lodgings, and medicines and supplies for the sick. Fending off possessions, honor, and popularity they don’t neglect retreat, and they don’t neglect remote lodgings in the wilderness and the forest. So I’m pleased that that bhikkhu is living in the wilderness.
 
 
 11Nāgita, when I’m walking along a road and I don’t see anyone ahead or behind I feel relaxed, even if I need to urinate or defecate.”

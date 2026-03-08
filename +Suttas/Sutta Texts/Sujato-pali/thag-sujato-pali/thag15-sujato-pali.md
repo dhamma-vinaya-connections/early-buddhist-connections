@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 15: Groups of Sixteen Verses
 
@@ -50,7 +50,7 @@ when this is seen with wisdom
 one grows disillusioned with suffering:  
 this is the path to purity.”
 
-679“The senior monk who was awakened right after the Buddha,  
+679“The senior bhikkhu who was awakened right after the Buddha,  
 Koṇḍañña, is keenly energetic.  
 He has given up birth and death,  
 and has completed the spiritual journey.”
@@ -64,7 +64,7 @@ breaking the mountain so hard to break,
 crossing over to the far shore,  
 a meditator is freed from Māra’s bonds.
 
-681When a mendicant is haughty and fickle,  
+681When a bhikkhu is haughty and fickle,  
 relying on bad friends,  
 they sink down in the great flood,  
 overcome by a wave.

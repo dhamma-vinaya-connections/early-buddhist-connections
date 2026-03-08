@@ -79,7 +79,7 @@ Now at that time a baby boy was lying face-up on the prince’s lap. So the Bles
 
 “In the same way, prince, when wise nobles or brahmans, householders or contemplatives, having formulated questions, come to the Tathāgata and ask him, he comes up with the answer on the spot. Why is that? Because the property of the Dhamma is thoroughly penetrated by the Tathāgata. From his thorough penetration of the property of the Dhamma, he comes up with the answer on the spot.”[2](#^mn58note02) ^mn58note02-ref
 
-When this was said, Prince Abhaya said to the Blessed One: “Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of monks. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
+When this was said, Prince Abhaya said to the Blessed One: “Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
 ### Notes
 

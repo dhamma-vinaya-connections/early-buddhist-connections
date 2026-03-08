@@ -34,7 +34,7 @@ they see all others as inferior.
 
 798 Experts say that, too, is a knot,  
 relying on which people see others as lesser.  
-That’s why a mendicant ought not rely  
+That’s why a bhikkhu ought not rely  
 on what’s seen, heard, or thought, or on precepts and vows.
 
 799 Nor would they form a view about the world  

@@ -42,21 +42,21 @@ Just as it is known that a clean cloth without a stain would take the dye well, 
 
 5Then the leper Suppabuddha having seen the Dhamma, attained the Dhamma, understood the Dhamma, penetrated the Dhamma, crossed over uncertainty, being without doubts, attained full confidence, having become independent of others in the Teacher's teaching, after rising from his seat went to the Gracious One, and after going and worshipping the Gracious One, he sat down at one side. While he was sitting on one side the leper Suppabuddha said this to the Gracious One:
 
-6"Excellent, reverend Sir! Excellent reverend Sir! Just as, reverend Sir, one might set upright what has been overturned, or open up what has been closed, or show a path to one who is lost, or bear an oil lamp in the darkness so that those with vision can see forms, just so has the Dhamma been explained by the Gracious One in countless ways. I go, reverend Sir, to the Gracious One for refuge, and to the Dhamma, and to the Community of monks. Please bear it in mind, reverend Gotama, that I am a lay follower who has gone for refuge from today forward for as long as I have the breath of life."
+6"Excellent, reverend Sir! Excellent reverend Sir! Just as, reverend Sir, one might set upright what has been overturned, or open up what has been closed, or show a path to one who is lost, or bear an oil lamp in the darkness so that those with vision can see forms, just so has the Dhamma been explained by the Gracious One in countless ways. I go, reverend Sir, to the Gracious One for refuge, and to the Dhamma, and to the Community of bhikkhus. Please bear it in mind, reverend Gotama, that I am a lay follower who has gone for refuge from today forward for as long as I have the breath of life."
 
 7Then the Gracious One instructed, roused, enthused, and cheered the leper Suppabuddha with a Dhamma talk, and after greatly rejoicing and gladly receiving this word of the Gracious One, after rising from his seat, worshipping and circumambulating the Gracious One, he went away.
 
 Then not long after the leper Suppabuddha had gone a cow with a young calf having attacked him, deprived him of life.
 
-8Then many monks went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those monks said this to the Gracious One:
+8Then many bhikkhus went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those bhikkhus said this to the Gracious One:
 
 "That leper called Suppabuddha, reverend Sir, who was instructed, roused, enthused, and cheered by the Gracious One with a Dhamma talk — he has died. What is his destination? What is his future state?"
 
-9"A wise man, monks, was Suppabuddha, who practiced Dhamma in accordance with the Dhamma, and did not trouble me on account of the Dhamma. The leper Suppabuddha, monks, through the destruction of three fetters, is a stream-enterer, not subject to the fall, and is assured of arriving at Full Awakening."
+9"A wise man, bhikkhus, was Suppabuddha, who practiced Dhamma in accordance with the Dhamma, and did not trouble me on account of the Dhamma. The leper Suppabuddha, bhikkhus, through the destruction of three fetters, is a stream-enterer, not subject to the fall, and is assured of arriving at Full Awakening."
 
-10When that was said, a certain monk said this to the Gracious One: "What was the reason, reverend Sir, what was the cause, through which the leper Suppabuddha became a poor man, a wretched man, a miserable man?"
+10When that was said, a certain bhikkhu said this to the Gracious One: "What was the reason, reverend Sir, what was the cause, through which the leper Suppabuddha became a poor man, a wretched man, a miserable man?"
 
-11"Formerly, monks, the leper Suppabuddha was a son of a wealthy merchant in this very Rājagaha. While going to his pleasure park he saw the Pacceka Buddha Tagarasikkhī entering the city for alms, and having seen him, this occurred to him: "Who is this leper roaming around with his leper's robe?" And having spat, and circumambulated him disrespectfully on the left side, he went away.
+11"Formerly, bhikkhus, the leper Suppabuddha was a son of a wealthy merchant in this very Rājagaha. While going to his pleasure park he saw the Pacceka Buddha Tagarasikkhī entering the city for alms, and having seen him, this occurred to him: "Who is this leper roaming around with his leper's robe?" And having spat, and circumambulated him disrespectfully on the left side, he went away.
 
 As a result of that deed of his for many years, for many hundreds of years, for many thousands of years, for many hundreds of thousands of years, he boiled in the nether regions. And as a result of the remaining part of that deed of his he became a leper in this very Rājagaha, a poor man, a wretched man, a miserable man.
 

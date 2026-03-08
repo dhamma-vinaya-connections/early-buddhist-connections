@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, you could rightly call Nanda ‘Gentleman’, ‘strong’, ‘lovely’, and ‘lustful’. How could he live the full and pure spiritual life unless he guards the sense doors, eats in moderation, is dedicated to wakefulness, and has mindfulness and situational awareness?
+1“bhikkhus, you could rightly call Nanda ‘Gentleman’, ‘strong’, ‘lovely’, and ‘lustful’. How could he live the full and pure spiritual life unless he guards the sense doors, eats in moderation, is dedicated to wakefulness, and has mindfulness and situational awareness?
 
 This is how Nanda guards the sense doors. If he has to look to the east, he wholeheartedly concentrates before looking, thinking: ‘When I look to the east, bad, unskillful qualities of desire and aversion will not overwhelm me.’ In this way he’s aware of the situation.
 

@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Senior mendicants with strong defilements are disliked
+> Senior bhikkhus with strong defilements are disliked
 
 > [!info] Key Excerpts 
 > They desire the desirable, they hate the hateful, they’re deluded by the delusory, they’re annoyed by the annoying, and they’re intoxicated by the intoxicating

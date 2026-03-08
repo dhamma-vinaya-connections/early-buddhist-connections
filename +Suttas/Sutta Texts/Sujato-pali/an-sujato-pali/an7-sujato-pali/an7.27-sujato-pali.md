@@ -20,14 +20,14 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1-2“Mendicants, I will teach you seven principles that prevent decline. Listen and pay close attention …
+1-2“bhikkhus, I will teach you seven principles that prevent decline. Listen and pay close attention …
 
 And what are the seven principles that prevent decline?
 
 
-As long as the mendicants develop the perception of impermanence … not-self … ugliness … drawbacks … giving up … fading away … cessation, they can expect growth, not decline.
+As long as the bhikkhus develop the perception of impermanence … not-self … ugliness … drawbacks … giving up … fading away … cessation, they can expect growth, not decline.
 
-3As long as these seven principles that prevent decline last among the mendicants, and as long as the mendicants are seen following them, they can expect growth, not decline.”
+3As long as these seven principles that prevent decline last among the bhikkhus, and as long as the bhikkhus are seen following them, they can expect growth, not decline.”
 
 1"Satta vo, bhikkhave, aparihāniye dhamme desessāmi. Taṁ suṇātha, sādhukaṁ manasi karotha … pe … .
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks to a charnel ground. What five?
+1“bhikkhus, there are these five drawbacks to a charnel ground. What five?
 
 It’s filthy, stinking, frightening, a gathering place for savage monsters, and a weeping place for many people. These are the five drawbacks of a charnel ground.
 

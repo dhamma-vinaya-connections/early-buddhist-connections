@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were lifting their robes while walking in inhabited areas. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were lifting their robes while walking in inhabited areas. …
 
 #### Final ruling
 
 2“‘I will not lift my robe while walking in inhabited areas,’ this is how you should train.”
 
-3One should not lift one’s robe while walking in an inhabited area. If a monk, out of disrespect, lifts his robe on one or both sides while walking in an inhabited area, he commits an offense of wrong conduct.
+3One should not lift one’s robe while walking in an inhabited area. If a bhikkhu, out of disrespect, lifts his robe on one or both sides while walking in an inhabited area, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

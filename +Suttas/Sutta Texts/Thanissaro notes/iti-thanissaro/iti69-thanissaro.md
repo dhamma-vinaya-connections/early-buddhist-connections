@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 69
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, anyone–monk or nun–in whom passion is unabandoned, aversion is unabandoned, & delusion is unabandoned, is said not to have crossed the ocean with its waves, breakers, & whirlpools, its seizers & demons.[1](#^iti69note01) Anyone–monk or nun–in whom passion is abandoned, aversion is abandoned, & delusion is abandoned, is said to have crossed the ocean with its waves, breakers, & whirlpools, its seizers & demons. Having crossed over, having reached the far shore, he/she stands on high ground, a brahman.” ^iti69note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, anyone–bhikkhu or nun–in whom passion is unabandoned, aversion is unabandoned, & delusion is unabandoned, is said not to have crossed the ocean with its waves, breakers, & whirlpools, its seizers & demons.[1](#^iti69note01) Anyone–bhikkhu or nun–in whom passion is abandoned, aversion is abandoned, & delusion is abandoned, is said to have crossed the ocean with its waves, breakers, & whirlpools, its seizers & demons. Having crossed over, having reached the far shore, he/she stands on high ground, a brahman.” ^iti69note01-ref
 
 One whose passion, aversion, & ignorance
 

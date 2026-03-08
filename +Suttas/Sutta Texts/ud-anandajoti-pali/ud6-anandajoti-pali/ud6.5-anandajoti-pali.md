@@ -58,9 +58,9 @@ language: "English - Pali"
 
 ---
 
-19Then many monks, having dressed in the morning time, after picking up their bowls and robes, entered Sāvatthī for alms. And after walking for alms in Sāvatthī, while returning from the alms-round after the meal, they went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side.
+19Then many bhikkhus, having dressed in the morning time, after picking up their bowls and robes, entered Sāvatthī for alms. And after walking for alms in Sāvatthī, while returning from the alms-round after the meal, they went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side.
 
-20While sat on one side those monks said this to the Gracious One: "Here, reverend Sir, many and various sectarians, ascetics, brāhmaṇas, and wanderers are living at Sāvatthī, having various views, various likings, various tendencies, subject to dependence on various views, such as:
+20While sat on one side those bhikkhus said this to the Gracious One: "Here, reverend Sir, many and various sectarians, ascetics, brāhmaṇas, and wanderers are living at Sāvatthī, having various views, various likings, various tendencies, subject to dependence on various views, such as:
 
 ---
 
@@ -100,7 +100,7 @@ They live contending, quarelling, disputing, attacking each other with sharp ton
 
 ---
 
-22"Wanderers from other sects, monks, are blind, without vision, they do not know what is good, they do not know what is not good, they do not know what is Dhamma, they do not know what is not Dhamma. They, not knowing what is good, not knowing what is not good, not knowing what is Dhamma, not knowing what is not Dhamma, live contending, quarelling, disputing, attacking each other with sharp tongues, saying: ‘Such is Dhamma, such is not Dhamma; such is not Dhamma, such is Dhamma.’
+22"Wanderers from other sects, bhikkhus, are blind, without vision, they do not know what is good, they do not know what is not good, they do not know what is Dhamma, they do not know what is not Dhamma. They, not knowing what is good, not knowing what is not good, not knowing what is Dhamma, not knowing what is not Dhamma, live contending, quarelling, disputing, attacking each other with sharp tongues, saying: ‘Such is Dhamma, such is not Dhamma; such is not Dhamma, such is Dhamma.’
 
 23Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

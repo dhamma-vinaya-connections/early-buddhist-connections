@@ -19,9 +19,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato.  
 
-1So I have heard. At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove.
+1So I have heard. At one time one of the bhikkhus was staying in the land of the Kosalans in a certain forest grove.
 
-Now at that time that mendicant, during their day’s meditation, was thinking bad, unskillful thoughts to do with the lay life. The deity haunting that forest had compassion for that mendicant, and wanted what’s best for them. So they approached that mendicant wanting to stir them up, and addressed them in verse:
+Now at that time that bhikkhu, during their day’s meditation, was thinking bad, unskillful thoughts to do with the lay life. The deity haunting that forest had compassion for that bhikkhu, and wanted what’s best for them. So they approached that bhikkhu wanting to stir them up, and addressed them in verse:
 
 
 2“You entered the woods desiring seclusion,  
@@ -36,10 +36,10 @@ don’t let sensual dust drag you down.
 
 4Just as a bird strewn with dirt  
 sheds that clingy dust with a shake;  
-so too, an energetic, mindful mendicant  
+so too, an energetic, mindful bhikkhu  
 sheds that clingy dust with a shake.”
 
-5Impelled by that deity, that mendicant was struck with a sense of urgency.
+5Impelled by that deity, that bhikkhu was struck with a sense of urgency.
 
 #### Pali
 

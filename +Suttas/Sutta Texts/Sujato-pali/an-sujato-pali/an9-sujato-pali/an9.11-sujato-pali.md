@@ -31,11 +31,11 @@ Then Venerable Sāriputta went up to the Buddha, bowed, sat down to one side, an
 
 Then Sāriputta got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 
-And then, not long after Sāriputta had left, a certain monk said to the Buddha: “Sir, Venerable Sāriputta attacked me and left without saying sorry.”
+And then, not long after Sāriputta had left, a certain bhikkhu said to the Buddha: “Sir, Venerable Sāriputta attacked me and left without saying sorry.”
 
-So the Buddha said to a certain monk: “Please, monk, in my name tell Sāriputta that the teacher summons him.”
+So the Buddha said to a certain bhikkhu: “Please, bhikkhu, in my name tell Sāriputta that the teacher summons him.”
 
-“Yes, sir,” that monk replied. He went to Sāriputta and said to him: “Reverend Sāriputta, the teacher summons you.”
+“Yes, sir,” that bhikkhu replied. He went to Sāriputta and said to him: “Reverend Sāriputta, the teacher summons you.”
 
 “Yes, reverend,” Sāriputta replied.
 
@@ -87,9 +87,9 @@ Someone who had not established mindfulness of the body might well attack one of
 Someone who had not established mindfulness of the body might well attack one of their spiritual companions and leave without saying sorry.”
 
 
-13Then that monk rose from his seat, placed his robe over one shoulder, bowed with his head at the Buddha’s feet, and said: “I have made a mistake, sir. It was foolish, stupid, and unskillful of me to speak ill of Venerable Sāriputta with a false, hollow, lying, untruthful claim. Please, sir, accept my mistake for what it is, so I will restrain myself in future.”
+13Then that bhikkhu rose from his seat, placed his robe over one shoulder, bowed with his head at the Buddha’s feet, and said: “I have made a mistake, sir. It was foolish, stupid, and unskillful of me to speak ill of Venerable Sāriputta with a false, hollow, lying, untruthful claim. Please, sir, accept my mistake for what it is, so I will restrain myself in future.”
 
-“Indeed, monk, you made a mistake. It was foolish, stupid, and unskillful of you to act in that way. But since you have recognized your mistake for what it is, and have dealt with it properly, I accept it. For it is growth in the training of the noble one to recognize a mistake for what it is, deal with it properly, and commit to restraint in the future.”
+“Indeed, bhikkhu, you made a mistake. It was foolish, stupid, and unskillful of you to act in that way. But since you have recognized your mistake for what it is, and have dealt with it properly, I accept it. For it is growth in the training of the noble one to recognize a mistake for what it is, deal with it properly, and commit to restraint in the future.”
 
 14Then the Buddha said to Venerable Sāriputta: “Sāriputta, forgive that silly man before his head explodes into seven pieces right here.”
 

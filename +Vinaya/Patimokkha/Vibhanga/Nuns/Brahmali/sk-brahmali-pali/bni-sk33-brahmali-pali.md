@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six ate almsfood picking here and there. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six ate almsfood picking here and there. …
 
 #### Final ruling
 
 2“‘I will eat almsfood in order,’ this is how you should train.”
 
-3Almsfood is to be eaten in order. If a monk, out of disrespect, eats almsfood picking here and there, he commits an offense of wrong conduct.
+3Almsfood is to be eaten in order. If a bhikkhu, out of disrespect, eats almsfood picking here and there, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

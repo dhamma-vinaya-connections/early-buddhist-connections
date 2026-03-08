@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a friend has seven qualities you should associate with, accompany, and attend them, even if they send you away. What seven? They’re likable, agreeable, respected, and admired. They admonish you and they accept admonishment. They speak on deep matters. And they don’t urge you to do bad things. When a friend has these seven qualities you should associate with, accompany, and attend them, even if they send you away.
+1“bhikkhus, when a friend has seven qualities you should associate with, accompany, and attend them, even if they send you away. What seven? They’re likable, agreeable, respected, and admired. They admonish you and they accept admonishment. They speak on deep matters. And they don’t urge you to do bad things. When a friend has these seven qualities you should associate with, accompany, and attend them, even if they send you away.
 
 
 2They’re lovable, respected, and admired,  

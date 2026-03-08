@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Individual to whom a person is devoted falls into a grave offese, departs for another region … disrobes … passes awa
 > 
-> It occurs to them: ‘this person dear and beloved to me has passed away.’ So they don’t frequent other mendicants, they don’t hear the true teaching, and they fall away from the true teaching
+> It occurs to them: ‘this person dear and beloved to me has passed away.’ So they don’t frequent other bhikkhus, they don’t hear the true teaching, and they fall away from the true teaching
 > 
 
 

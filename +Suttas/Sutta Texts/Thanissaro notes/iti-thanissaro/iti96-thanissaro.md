@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 96
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Tied by the yoke of sensuality & the yoke of becoming, monks, one is a returner, returning to this state. Untied from the yoke of sensuality but tied by the yoke of becoming, one is a non-returner, not returning to this state. Untied from [both] the yoke of sensuality & from the yoke of becoming, one is an Arahant whose effluents are ended.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Tied by the yoke of sensuality & the yoke of becoming, bhikkhus, one is a returner, returning to this state. Untied from the yoke of sensuality but tied by the yoke of becoming, one is a non-returner, not returning to this state. Untied from [both] the yoke of sensuality & from the yoke of becoming, one is an Arahant whose effluents are ended.”
 
 Tied by both
 

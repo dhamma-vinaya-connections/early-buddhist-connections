@@ -39,14 +39,14 @@ She replied, “That’s how it is, Venerable, when you don’t have a protector
 “How could Venerable Thullanandā reinstate a nun who had been ejected by a unanimous Sangha in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction, without first getting permission from the Sangha that did the legal procedure and without the consent of the group?” …
 
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“How could the nun Thullanandā reinstate a nun who had been ejected by a unanimous Sangha in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction, without first getting permission from the Sangha that did the legal procedure and without the consent of the group? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How could the nun Thullanandā reinstate a nun who had been ejected by a unanimous Sangha in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction, without first getting permission from the Sangha that did the legal procedure and without the consent of the group? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

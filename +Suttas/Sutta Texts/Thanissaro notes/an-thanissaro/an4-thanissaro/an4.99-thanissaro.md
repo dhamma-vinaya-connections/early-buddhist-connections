@@ -19,7 +19,7 @@ _This sutta is one of a series explaining [[an4.95-thanissaro]], which rates ind
 
 * * *
 
-“Monks, these four types of individuals are to be found existing in the world. Which four? The one who practices for his own benefit but not for that of others. The one who practices for the benefit of others but not for his own. The one who practices neither for his own benefit nor for that of others. The one who practices for his own benefit and for that of others.
+“bhikkhus, these four types of individuals are to be found existing in the world. Which four? The one who practices for his own benefit but not for that of others. The one who practices for the benefit of others but not for his own. The one who practices neither for his own benefit nor for that of others. The one who practices for his own benefit and for that of others.
 
 “And how is one an individual who practices for his own benefit but not for that of others? There is the case where a certain individual himself abstains from the taking of life but doesn’t encourage others in undertaking abstinence from the taking of life. He himself abstains from stealing but doesn’t encourage others in undertaking abstinence from stealing. He himself abstains from sexual misconduct but doesn’t encourage others in undertaking abstinence from sexual misconduct. He himself abstains from lying but doesn’t encourage others in undertaking abstinence from lying. He himself abstains from intoxicants that cause heedlessness but doesn’t encourage others in undertaking abstinence from intoxicants that cause heedlessness. Such is the individual who practices for his own benefit but not for that of others.
 

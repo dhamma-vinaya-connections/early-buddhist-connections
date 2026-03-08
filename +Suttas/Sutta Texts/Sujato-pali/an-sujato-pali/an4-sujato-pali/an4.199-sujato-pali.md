@@ -22,7 +22,7 @@ language: "English - Pali"
 
 1The Buddha said this:
 
-“Mendicants, I will teach you about craving—the weaver, the migrant, the ubiquitous, the clinging. This world is choked by it, engulfed by it. It makes the world tangled like yarn, knotted like a ball of thread, and matted like rushes and reeds, not escaping the places of loss, the bad places, the underworld, transmigration. Listen and pay close attention, I will speak.”
+“bhikkhus, I will teach you about craving—the weaver, the migrant, the ubiquitous, the clinging. This world is choked by it, engulfed by it. It makes the world tangled like yarn, knotted like a ball of thread, and matted like rushes and reeds, not escaping the places of loss, the bad places, the underworld, transmigration. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 

@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.96.1.1* *BD.3.417* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that *Vin.4.345* time a certain nun entered a village for almsfood without her vest.[^1] While she was on the high road gusts of wind blew up her outer cloak. People shouted out: “Beautiful is the waist of the lady.” That nun, being made fun of by the people, became ashamed. Then that nun, having gone to a dwelling,[^2] told this matter to the nuns. Those who were modest nuns … spread it about, saying: “How can this nun enter a village without her vest?” …
 
-“Is it true, as is said, monks, that this nun … without her vest?”
+“Is it true, as is said, bhikkhus, that this nun … without her vest?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can a nun enter a village without her vest? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can a nun enter a village without her vest? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should enter a village without her vest, there is an offence of expiation.”
 

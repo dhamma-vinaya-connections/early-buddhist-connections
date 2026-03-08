@@ -7,35 +7,35 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
 > ◄  [[bu-pc10-horner]] 📜  [[bu-pc12-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 11
+# bhikkhus’ Expiation (_Pācittiya_) 11
 
-*Bu-Pc.11.1.1* *BD.2.226* … at Āḷavī in the chief shrine at Āḷavī. Now at that time the monks of Āḷavī, making repairs, were cutting down trees and having them cut down; and a certain monk of Āḷavī cut down a tree, and the _devatā_ living in that tree said to this monk:
+*Bu-Pc.11.1.1* *BD.2.226* … at Āḷavī in the chief shrine at Āḷavī. Now at that time the bhikkhus of Āḷavī, making repairs, were cutting down trees and having them cut down; and a certain bhikkhu of Āḷavī cut down a tree, and the _devatā_ living in that tree said to this bhikkhu:
 
 “Do not, honoured sir, desiring to make an abode for yourself, cut down my abode.”
 
-This monk, taking no notice, cut it down, and in doing so, struck the arm of that _devatā_’s son. Then it occurred to that _devatā_:
+This bhikkhu, taking no notice, cut it down, and in doing so, struck the arm of that _devatā_’s son. Then it occurred to that _devatā_:
 
-“What now if I, just here, should deprive this monk of life?” Then it occurred to that _devatā_:
+“What now if I, just here, should deprive this bhikkhu of life?” Then it occurred to that _devatā_:
 
-“But this would not be suiting in me, that I were, just here, to deprive this monk of life. What now if I were to tell this matter to the lord?”
+“But this would not be suiting in me, that I were, just here, to deprive this bhikkhu of life. What now if I were to tell this matter to the lord?”
 
 Then this _devatā_ approached the lord, and having approached she told this matter to the lord.
 
-“Very good, _devatā_, it is good that you, _devatā_, did not deprive this monk of life. If today you, _devatā_, had deprived this monk of life, you, _devatā_, would also have produced much demerit. You go, _devatā_; in a certain place there is a solitary tree, go you into it.”
+“Very good, _devatā_, it is good that you, _devatā_, did not deprive this bhikkhu of life. If today you, _devatā_, had deprived this bhikkhu of life, you, _devatā_, would also have produced much demerit. You go, _devatā_; in a certain place there is a solitary tree, go you into it.”
 
 People looked down upon, criticised, spread it about, saying:
 
-“How can these recluses, sons of the Sakyans, cut down trees and have them cut down? These recluses, sons of the Sakyans, are harming life that is one-facultied.”[^1] Monks heard these people who looked down upon, criticised, spread it about. Those who were modest monks looked down upon, criticised, spread it about, saying:
+“How can these recluses, sons of the Sakyans, cut down trees and have them cut down? These recluses, sons of the Sakyans, are harming life that is one-facultied.”[^1] bhikkhus heard these people who looked down upon, criticised, spread it about. Those who were modest bhikkhus looked down upon, criticised, spread it about, saying:
 
-*BD.2.227* “How can these monks of Āḷavī cut down trees and have them cut down?” …
+*BD.2.227* “How can these bhikkhus of Āḷavī cut down trees and have them cut down?” …
 
-“Is it true, as is said, that you, monks, cut down trees and had them cut down?”
+“Is it true, as is said, that you, bhikkhus, cut down trees and had them cut down?”
 
 “It is true, lord,” they said.
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, cut down trees and have them cut down? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, cut down trees and have them cut down? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
 “For destruction of vegetable growth[^2] there is an offence of expiation.”
 
@@ -67,7 +67,7 @@ The First
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -22,12 +22,12 @@ vin_severity:
   - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - "Motion-3proclamation"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-SS14"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-SS9]] 🌐 [[BU-SS11]] ►
 
-# Monks - Sanghadisesa - Suspension
+# bhikkhus - Sanghadisesa - Suspension
 ##  - 3 Admonitions
 ## BU-SS10 - Saṅghabheda - Schism in the Saṅgha
 
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-SS14"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-SS10 | [[BNI-SS14]] | Vin.3.1–3.40 |
 

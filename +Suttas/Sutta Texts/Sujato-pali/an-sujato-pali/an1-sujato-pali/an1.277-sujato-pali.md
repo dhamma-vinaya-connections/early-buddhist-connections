@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“It is impossible, mendicants, it cannot happen for two perfected ones, fully awakened Buddhas to arise in the same solar system at the same time. But it is possible for just one perfected one, a fully awakened Buddha, to arise in one solar system.”
+1“It is impossible, bhikkhus, it cannot happen for two perfected ones, fully awakened Buddhas to arise in the same solar system at the same time. But it is possible for just one perfected one, a fully awakened Buddha, to arise in one solar system.”
 
 1"Aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ ekissā lokadhātuyā dve arahanto sammāsambuddhā apubbaṁ acarimaṁ uppajjeyyuṁ. Netaṁ ṭhānaṁ vijjati. Ṭhānañca kho etaṁ, bhikkhave, vijjati yaṁ ekissā lokadhātuyā ekova arahaṁ sammāsambuddho uppajjeyya. Ṭhānametaṁ vijjatī"ti.
 

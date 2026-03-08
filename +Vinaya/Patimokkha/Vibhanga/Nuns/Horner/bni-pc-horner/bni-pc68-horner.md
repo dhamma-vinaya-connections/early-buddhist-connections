@@ -11,11 +11,11 @@ language: "English"
 
 *Bi-Pc.68.1.1* *BD.3.375* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the nun Thullanandā, having ordained the woman who lived with her,[^1] for two years neither helped her nor had her helped. These[^2] were ignorant, inexperienced, they did not know what was allowable or what was not allowable. Those who were modest nuns … spread it about, saying: “How can the lady Thullanandā, having ordained the woman who lives with her, for two years neither *Vin.4.325* help her nor have her helped?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā … nor had her helped?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā … nor had her helped?”
 
 “It is true, lord.”
 
-The enlightened one, the lord, rebuked them, saying: “How, monks, can the nun Thullanandā … nor have her helped? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+The enlightened one, the lord, rebuked them, saying: “How, bhikkhus, can the nun Thullanandā … nor have her helped? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, having ordained the woman who lives with her, for two years should neither help her nor have her helped, there is an offence of expiation.”
 

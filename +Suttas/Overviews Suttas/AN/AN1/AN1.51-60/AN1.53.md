@@ -47,7 +47,7 @@ parallels_partilal: ""
 > Mind arises first, and unskillful qualities follow right behind
 
 > [!info] Key Excerpts 
-> A mendicant develops a mind of love even as long as a finger snap, they’re called a mendicant who follows the teacher’s instructions, how much more so those who make much of it
+> A bhikkhu develops a mind of love even as long as a finger snap, they’re called a bhikkhu who follows the teacher’s instructions, how much more so those who make much of it
 > 
 > Mind arises first, and skillful qualities follow right behind
 > 

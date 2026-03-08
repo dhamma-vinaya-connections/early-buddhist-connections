@@ -15,7 +15,7 @@ language: "English"
 ## ## Kappa Sutta
 
 
-“Monks, there are these four uncountables of an eon. Which four?
+“bhikkhus, there are these four uncountables of an eon. Which four?
 
 “When an eon is devolving, it’s not easy to count as ‘so many years’ or ‘so many hundreds of years’ or ‘so many thousands of years’ or ‘so many hundreds of thousands of years.’
 
@@ -25,7 +25,7 @@ language: "English"
 
 “When an eon stays having evolved, it’s not easy to count as ‘so many years’ or ‘so many hundreds of years’ or ‘so many thousands of years’ or ‘so many hundreds of thousands of years.’
 
-“These, monks, are the four uncountables of an eon.”
+“These, bhikkhus, are the four uncountables of an eon.”
 
 See also: [[sn12-21-thanissaro/sn15-thanissaro/sn15.5-thanissaro]]
 

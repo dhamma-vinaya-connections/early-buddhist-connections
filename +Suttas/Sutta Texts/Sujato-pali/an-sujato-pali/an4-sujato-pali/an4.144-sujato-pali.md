@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are four kinds of shining. What four? The shining of the moon, sun, fire, and wisdom. These are the four kinds of shining. The best of these four kinds of shining is the shining of wisdom.”
+1“bhikkhus, there are four kinds of shining. What four? The shining of the moon, sun, fire, and wisdom. These are the four kinds of shining. The best of these four kinds of shining is the shining of wisdom.”
 
 1"Cattārome, bhikkhave, obhāsā. Katame cattāro? Candobhāso, sūriyobhāso, aggobhāso, paññobhāso – ime kho, bhikkhave, cattāro obhāsā. Etadaggaṁ, bhikkhave, imesaṁ catunnaṁ obhāsānaṁ yadidaṁ paññobhāso"ti.
 

@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two assemblies. What two? An ignoble assembly and a noble assembly.
+1“There are, bhikkhus, these two assemblies. What two? An ignoble assembly and a noble assembly.
 
-And what is an ignoble assembly? An assembly where the mendicants don’t truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. This is called an ignoble assembly.
+And what is an ignoble assembly? An assembly where the bhikkhus don’t truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. This is called an ignoble assembly.
 
-2And what is a noble assembly? An assembly where the mendicants truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. This is called a noble assembly.
+2And what is a noble assembly? An assembly where the bhikkhus truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. This is called a noble assembly.
 
 These are the two assemblies. The better of these two assemblies is the noble assembly.”
 

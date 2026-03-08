@@ -18,29 +18,29 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time, amongst many monks, after returning from the alms-round after the meal, assembling together, and sitting in the Kareri Round Hall, this conversation arose:
+1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time, amongst many bhikkhus, after returning from the alms-round after the meal, assembling together, and sitting in the Kareri Round Hall, this conversation arose:
 
-2"An alms-gathering monk, venerable friends, while walking for alms gets the opportunity from time to time to see appealing forms with the eye; gets the opportunity from time to time to hear appealing sounds with the ear; gets the opportunity from time to time to smell appealing smells with the nose; gets the opportunity from time to time to taste appealing flavours with the tongue; gets the opportunity from time to time to touch appealing tangibles with the body. An alms-gathering monk, venerable friends, walking for alms is venerated, respected, revered, honoured, and esteemed.
+2"An alms-gathering bhikkhu, venerable friends, while walking for alms gets the opportunity from time to time to see appealing forms with the eye; gets the opportunity from time to time to hear appealing sounds with the ear; gets the opportunity from time to time to smell appealing smells with the nose; gets the opportunity from time to time to taste appealing flavours with the tongue; gets the opportunity from time to time to touch appealing tangibles with the body. An alms-gathering bhikkhu, venerable friends, walking for alms is venerated, respected, revered, honoured, and esteemed.
 
-"Now, venerable friends, we too should be alms-gatherers, and we also will get the opportunity from time to time to see appealing forms with the eye; and we also will get the opportunity from time to time to hear appealing sounds with the ear; and we also will get the opportunity from time to time to smell appealing smells with the nose; and we also will get the opportunity from time to time to taste appealing flavours with the tongue; and we also will get the opportunity from time to time to touch appealing tangibles with the body; and we also will walk for alms being venerated, respected, revered, honoured, and esteemed." Now this conversation that arose amongst those monks was left unfinished.
+"Now, venerable friends, we too should be alms-gatherers, and we also will get the opportunity from time to time to see appealing forms with the eye; and we also will get the opportunity from time to time to hear appealing sounds with the ear; and we also will get the opportunity from time to time to smell appealing smells with the nose; and we also will get the opportunity from time to time to taste appealing flavours with the tongue; and we also will get the opportunity from time to time to touch appealing tangibles with the body; and we also will walk for alms being venerated, respected, revered, honoured, and esteemed." Now this conversation that arose amongst those bhikkhus was left unfinished.
 
-3Then the Gracious One, having risen from seclusion in the evening time, went to the Kareri Round Hall, and after going, he sat down on the prepared seat. Having sat down the Gracious One addressed the monks, saying: "What is the talk about, monks, amongst those who have assembled at present, and what is the conversation that you left unfinished?"
+3Then the Gracious One, having risen from seclusion in the evening time, went to the Kareri Round Hall, and after going, he sat down on the prepared seat. Having sat down the Gracious One addressed the bhikkhus, saying: "What is the talk about, bhikkhus, amongst those who have assembled at present, and what is the conversation that you left unfinished?"
 
 4"Here, reverend Sir, after returning from the alms-round after the meal, assembling together, and sitting in the Kareri Round Hall, this conversation arose:
 
 ---
 
-5"‘An alms-gathering monk, venerable friends, while walking for alms gets the opportunity from time to time to see appealing forms with the eye; gets the opportunity from time to time to hear appealing sounds with the ear; gets the opportunity from time to time to smell appealing smells with the nose; gets the opportunity from time to time to taste appealing flavours with the tongue; gets the opportunity from time to time to touch appealing tangibles with the body. An alms-gathering monk, venerable friends, walking for alms is venerated, respected, revered, honoured, and esteemed.
+5"‘An alms-gathering bhikkhu, venerable friends, while walking for alms gets the opportunity from time to time to see appealing forms with the eye; gets the opportunity from time to time to hear appealing sounds with the ear; gets the opportunity from time to time to smell appealing smells with the nose; gets the opportunity from time to time to taste appealing flavours with the tongue; gets the opportunity from time to time to touch appealing tangibles with the body. An alms-gathering bhikkhu, venerable friends, walking for alms is venerated, respected, revered, honoured, and esteemed.
 
 "‘Now, venerable friends, we too should be alms-gatherers, and we also will get the opportunity from time to time to see appealing forms with the eye; and we also will get the opportunity from time to time to hear appealing sounds with the ear; and we also will get the opportunity from time to time to smell appealing smells with the nose; and we also will get the opportunity from time to time to taste appealing flavours with the tongue; and we also will get the opportunity from time to time to touch appealing tangibles with the body; and walking for alms we also will be venerated, respected, revered, honoured, and esteemed.’ This is the conversation, reverend Sir, that was left unfinished, then the Gracious One arrived."
 
 ---
 
-6"This is certainly not suitable, monks, for you sons of good family who through faith have gone forth from the home to homelessness, that you should talk such talk. When you have assembled together, monks, there are two things that you ought to do: talk about the Dhamma, or maintain noble silence."
+6"This is certainly not suitable, bhikkhus, for you sons of good family who through faith have gone forth from the home to homelessness, that you should talk such talk. When you have assembled together, bhikkhus, there are two things that you ought to do: talk about the Dhamma, or maintain noble silence."
 
 7Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 
-8"The devas envy the alms-gathering monk,  
+8"The devas envy the alms-gathering bhikkhu,  
 Self-supporting, not nourishing another, Such a one —  
 But not if [he is] dependent on becoming famous."
 

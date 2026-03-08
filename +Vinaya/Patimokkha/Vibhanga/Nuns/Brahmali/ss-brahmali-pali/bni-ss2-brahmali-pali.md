@@ -51,14 +51,14 @@ When his wife heard that her husband wanted to kill her, she took their most val
 Then that Licchavī man complained and criticized the nuns, “How could the nuns give the going forth to a criminal?”
 
 
-3The nuns heard the complaints of that Licchavī man, and the nuns of few desires complained and criticized her, “How could Venerable Thullanandā give the going forth to a criminal?” The nuns told the monks. …
+3The nuns heard the complaints of that Licchavī man, and the nuns of few desires complained and criticized her, “How could Venerable Thullanandā give the going forth to a criminal?” The nuns told the bhikkhus. …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā give the going forth to a criminal? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā give the going forth to a criminal? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

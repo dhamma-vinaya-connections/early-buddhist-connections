@@ -47,7 +47,7 @@ parallels_partilal: "[[EA28.2]], [[PLI-TV-KD22]]"
 > Four unskillful activities that prevent a monk from shining with dhamma
 
 > [!info] Key Excerpts 
-> Four things corrupt mendicants: alcohol, sex, money, wrong livelihood.
+> Four things corrupt bhikkhus: alcohol, sex, money, wrong livelihood.
 > 
 > When corrupted by these, 
 Some ascetics and brahmins 

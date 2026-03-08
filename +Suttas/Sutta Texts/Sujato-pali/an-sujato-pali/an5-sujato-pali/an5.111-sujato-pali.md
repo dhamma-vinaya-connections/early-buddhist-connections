@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with five qualities who visits families is unlikable and unlovable, not respected or admired. What five? They act as though they're close to people they hardly know. They give away things they don’t own. They over-associate with close friends. They whisper in the ear. And they ask for too much. A mendicant with these five qualities who visits families is unlikable and unlovable, not respected or admired.
+1“bhikkhus, a bhikkhu with five qualities who visits families is unlikable and unlovable, not respected or admired. What five? They act as though they're close to people they hardly know. They give away things they don’t own. They over-associate with close friends. They whisper in the ear. And they ask for too much. A bhikkhu with these five qualities who visits families is unlikable and unlovable, not respected or admired.
 
-2A mendicant with five qualities who visits families is dear and beloved, respected and admired. What five? They don’t act as though they're close to people they hardly know. They don’t give away things they don’t own. They don’t over-associate with close friends. They don’t whisper in the ear. And they don’t ask for too much. A mendicant with these five qualities who visits families is dear and beloved, respected and admired.”
+2A bhikkhu with five qualities who visits families is dear and beloved, respected and admired. What five? They don’t act as though they're close to people they hardly know. They don’t give away things they don’t own. They don’t over-associate with close friends. They don’t whisper in the ear. And they don’t ask for too much. A bhikkhu with these five qualities who visits families is dear and beloved, respected and admired.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato kulūpako bhikkhu kulesu appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca. Katamehi pañcahi? Asanthavavissāsī ca hoti, anissaravikappī ca, vissaṭṭhupasevī ca, upakaṇṇakajappī ca, atiyācanako ca. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato kulūpako bhikkhu kulesu appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.
 

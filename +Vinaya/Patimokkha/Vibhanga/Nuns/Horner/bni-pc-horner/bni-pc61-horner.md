@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.61.1.1* *BD.3.361* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns ordained[^1] a pregnant woman. She walked for alms. People spoke thus: “Give almsfood to the lady, the lady is heavy with child.” The people … spread it about, saying: “How can the nuns ordain a pregnant woman?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying, “How can these nuns ordain a pregnant woman?” …
 
-“Is it true, as is said, monks, that nuns ordained a pregnant woman?”
+“Is it true, as is said, bhikkhus, that nuns ordained a pregnant woman?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns ordain a pregnant woman? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns ordain a pregnant woman? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should ordain a pregnant woman, there is an offence of expiation.”
 

@@ -24,7 +24,7 @@ Then, right after the Venerable Khema had left, the Venerable Sumana said to the
 
 This is what the Venerable Sumana said. The Teacher agreed. Then the Venerable Sumana, thinking, ‘The Teacher agrees with me,’ got up from his seat, paid homage to the Blessed One, circumambulated him keeping the right side toward him, and left.
 
-Then, soon after both monks had left, the Blessed One addressed the bhikkhus: “Bhikkhus, it is in such a way that clansmen declare final knowledge. They state the meaning but don’t bring themselves into the picture. But there are some foolish men here who, it seems, declare final knowledge as a joke. They will meet with distress later.”
+Then, soon after both bhikkhus had left, the Blessed One addressed the bhikkhus: “Bhikkhus, it is in such a way that clansmen declare final knowledge. They state the meaning but don’t bring themselves into the picture. But there are some foolish men here who, it seems, declare final knowledge as a joke. They will meet with distress later.”
 
 They \[do not rank themselves\] as superior or inferior,
 

@@ -17,9 +17,9 @@ language: "English"
 
 10 (7). Delighting in Form
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “When one delights in form, they delight in suffering. When one delights in suffering, they can’t be liberated from suffering. Thus, when one delights in feeling … conception … volition … awareness, they delight in suffering. When one delights in suffering, they can’t be liberated from suffering.
-3. “Monks, when someone doesn’t delight in form, they don’t delight in suffering. When someone doesn’t delight in suffering, they can be liberated from suffering. Thus, when someone doesn’t delight in feeling … conception … volition … awareness, they don’t delight in suffering. When someone doesn’t delight in suffering, they can be liberated from suffering.”
-4. When the monks heard what the Buddha taught, they rejoiced and approved.
+2. It was then that the Bhagavān addressed the bhikkhus, “When one delights in form, they delight in suffering. When one delights in suffering, they can’t be liberated from suffering. Thus, when one delights in feeling … conception … volition … awareness, they delight in suffering. When one delights in suffering, they can’t be liberated from suffering.
+3. “bhikkhus, when someone doesn’t delight in form, they don’t delight in suffering. When someone doesn’t delight in suffering, they can be liberated from suffering. Thus, when someone doesn’t delight in feeling … conception … volition … awareness, they don’t delight in suffering. When someone doesn’t delight in suffering, they can be liberated from suffering.”
+4. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 Summary Verse
 - [1] Impermanent, [2] painful, [3] empty,    
     And [4] not self; [5] correctly contemplated;    

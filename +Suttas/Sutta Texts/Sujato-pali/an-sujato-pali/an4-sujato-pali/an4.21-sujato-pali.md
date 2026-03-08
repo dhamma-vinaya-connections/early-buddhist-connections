@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Mendicants, this one time, when I was first awakened, I was staying near Uruvelā at the goatherd’s banyan tree on the bank of the Nerañjarā River. As I was in private retreat this thought came to mind: ‘One without respect and reverence lives in suffering. What ascetic or brahmin should I honor and respect and rely on?’
+2“bhikkhus, this one time, when I was first awakened, I was staying near Uruvelā at the goatherd’s banyan tree on the bank of the Nerañjarā River. As I was in private retreat this thought came to mind: ‘One without respect and reverence lives in suffering. What ascetic or brahmin should I honor and respect and rely on?’
 
 3Then it occurred to me: ‘I would honor and respect and rely on another ascetic or brahmin so as to complete the full spectrum of ethics, if it were incomplete. But I don’t see any other ascetic or brahmin in this world — with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans — who is more accomplished than myself in ethics, who I should honor and respect and rely on.
 

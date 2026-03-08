@@ -20,24 +20,24 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, even a wheel-turning monarch, a just and principled king, does not wield power without having their own king.”
+1“bhikkhus, even a wheel-turning monarch, a just and principled king, does not wield power without having their own king.”
 
-When he said this, one of the mendicants asked the Buddha: “But who is the king of the wheel-turning monarch, the just and principled king?”
+When he said this, one of the bhikkhus asked the Buddha: “But who is the king of the wheel-turning monarch, the just and principled king?”
 
-“It is principle, monk,” said the Buddha.
+“It is principle, bhikkhu,” said the Buddha.
 
 
-2“Monk, a wheel-turning monarch provides just protection and security for his court, relying only on principle — honoring, respecting, and venerating principle, having principle as his flag, banner, and authority.
+2“bhikkhu, a wheel-turning monarch provides just protection and security for his court, relying only on principle — honoring, respecting, and venerating principle, having principle as his flag, banner, and authority.
 
 3He provides just protection and security for his aristocrats, vassals, troops, brahmins and householders, people of town and country, ascetics and brahmins, beasts and birds. When he has done this, he wields power only in a principled manner. And this power cannot be undermined by any human enemy.
 
 
-4In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, a just and principled king, provides just protection and security for the monks, relying only on principle — honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ‘This kind of bodily action should be cultivated. This kind of bodily action should not be cultivated. This kind of verbal action should be cultivated. This kind of verbal action should not be cultivated. This kind of mental action should be cultivated. This kind of mental action should not be cultivated. This kind of livelihood should be cultivated. This kind of livelihood should not be cultivated. This kind of market town should be cultivated. This kind of market town should not be cultivated.’
+4In the same way, bhikkhu, a Realized One, a perfected one, a fully awakened Buddha, a just and principled king, provides just protection and security for the bhikkhus, relying only on principle — honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ‘This kind of bodily action should be cultivated. This kind of bodily action should not be cultivated. This kind of verbal action should be cultivated. This kind of verbal action should not be cultivated. This kind of mental action should be cultivated. This kind of mental action should not be cultivated. This kind of livelihood should be cultivated. This kind of livelihood should not be cultivated. This kind of market town should be cultivated. This kind of market town should not be cultivated.’
 
-5In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, a just and principled king, provides just protection and security for the nuns … laymen … laywomen, relying only on principle — honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ‘This kind of bodily action should be cultivated. This kind of bodily action should not be cultivated. This kind of verbal action should be cultivated. This kind of verbal action should not be cultivated. This kind of mental action should be cultivated. This kind of mental action should not be cultivated. This kind of livelihood should be cultivated. This kind of livelihood should not be cultivated. This kind of market town should be cultivated. This kind of market town should not be cultivated.’
+5In the same way, bhikkhu, a Realized One, a perfected one, a fully awakened Buddha, a just and principled king, provides just protection and security for the nuns … laymen … laywomen, relying only on principle — honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ‘This kind of bodily action should be cultivated. This kind of bodily action should not be cultivated. This kind of verbal action should be cultivated. This kind of verbal action should not be cultivated. This kind of mental action should be cultivated. This kind of mental action should not be cultivated. This kind of livelihood should be cultivated. This kind of livelihood should not be cultivated. This kind of market town should be cultivated. This kind of market town should not be cultivated.’
 
 
-6When a Realized One, a perfected one, a fully awakened Buddha has provided just protection and security for the monks, nuns, laymen, and laywomen, he rolls forth the supreme Wheel of Dhamma only in a principled manner. And that wheel cannot be rolled back by any ascetic or brahmin or god or Māra or Brahmā or by anyone in the world.”
+6When a Realized One, a perfected one, a fully awakened Buddha has provided just protection and security for the bhikkhus, nuns, laymen, and laywomen, he rolls forth the supreme Wheel of Dhamma only in a principled manner. And that wheel cannot be rolled back by any ascetic or brahmin or god or Māra or Brahmā or by anyone in the world.”
 
 1"Yopi so, bhikkhave, rājā cakkavattī dhammiko dhammarājā, sopi na arājakaṁ cakkaṁ vattetī"ti.
 

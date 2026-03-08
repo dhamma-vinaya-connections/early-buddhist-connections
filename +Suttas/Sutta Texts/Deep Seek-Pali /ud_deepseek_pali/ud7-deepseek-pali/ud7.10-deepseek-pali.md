@@ -24,7 +24,7 @@ Then, in the morning, a number of bhikkhus dressed, took their bowls and robes, 
 
 ‘‘Santettha, bhikkhave, upāsikāyo sotāpannā, santi sakadāgāminiyo, santi anāgāminiyo. Sabbā tā, bhikkhave, upāsikāyo anipphalā kālaṅkatā’’ti.
 
-“Monks, among them there are female lay followers who are stream-enterers, some who are once-returners, and some who are non-returners. All those female lay followers, monks, have not died without result.”
+“bhikkhus, among them there are female lay followers who are stream-enterers, some who are once-returners, and some who are non-returners. All those female lay followers, bhikkhus, have not died without result.”
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

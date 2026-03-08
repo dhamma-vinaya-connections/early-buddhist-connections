@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were covering their heads with their robes while sitting in inhabited areas. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were covering their heads with their robes while sitting in inhabited areas. …
 
 #### Final ruling
 
 2“‘I will not cover my head while sitting in inhabited areas;’ this is how you should train.”
 
-3One should not cover one’s head while sitting in an inhabited area. If a monk, out of disrespect, covers his head with his upper robe while sitting in an inhabited area, he commits an offense of wrong conduct.
+3One should not cover one’s head while sitting in an inhabited area. If a bhikkhu, out of disrespect, covers his head with his upper robe while sitting in an inhabited area, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

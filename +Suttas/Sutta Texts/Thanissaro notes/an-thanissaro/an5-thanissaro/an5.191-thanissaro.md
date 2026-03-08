@@ -17,7 +17,7 @@ language: "English"
 
 _An example of how pointed the Buddha’s sense of humor could be. The deadpan style is typical of humor in the Pali Canon._
 
-“Monks, these five ancient brahmanical traditions are now observed among dogs but not among brahmans. Which five?
+“bhikkhus, these five ancient brahmanical traditions are now observed among dogs but not among brahmans. Which five?
 
 “In the past, brahman males mated only with brahman females and not with non-brahman females. At present, brahman males mate with brahman females and with non-brahman females. At present, male dogs mate only with female dogs and not with female non-dogs. This is the first ancient brahmanical tradition that is now observed among dogs but not among brahmans.
 
@@ -29,7 +29,7 @@ _An example of how pointed the Buddha’s sense of humor could be. The deadpan s
 
 “In the past, brahmans searched for alms for their morning meal in the morning, and for their evening meal in the evening. At present, brahmans, having eaten as much as they like, swelling their bellies, leave taking the leftovers. At present, dogs search for alms for their morning meal in the morning, and for their evening meal in the evening. This is the fifth ancient brahmanical tradition that is now observed among dogs but not among brahmans.
 
-“These, monks, are the five ancient brahmanical traditions that are now observed among dogs but not among brahmans.”
+“These, bhikkhus, are the five ancient brahmanical traditions that are now observed among dogs but not among brahmans.”
 
 See also: [[dn11-thanissaro]]; [[mn93-thanissaro]]; [[sn3.24-thanissaro]]
 

@@ -13,11 +13,11 @@ language: "English"
 
 “How can this nun, without asking (for permission) put on my robe?” Then this nun told this matter to the nuns. Those who were modest nuns … spread it about, saying: “How can this nun put on a nun’s robe without asking (for permission)?” …
 
-“Is it true, as is said, monks, that a nun … without asking (for permission)?”
+“Is it true, as is said, bhikkhus, that a nun … without asking (for permission)?”
 
 “It is true, lord.”
 
-The enlightened one, the lord, rebuked them, saying: “How, monks, can a nun … without asking (for permission)? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+The enlightened one, the lord, rebuked them, saying: “How, bhikkhus, can a nun … without asking (for permission)? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should wear a robe that should be handed back,[^3] there is an offence of expiation.”
 

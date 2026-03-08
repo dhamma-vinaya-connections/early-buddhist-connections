@@ -30,7 +30,7 @@ under the sway of your resolves.[1](#sn1.17note01)
 As a tortoise would draw
 	its limbs
 	into its shell,
-so a monk should—
+so a bhikkhu should—
 	the thoughts of his heart.
 Independent, not mistreating others,
 totally unbound,

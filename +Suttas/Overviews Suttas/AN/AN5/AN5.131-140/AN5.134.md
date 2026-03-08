@@ -49,7 +49,7 @@ parallels_partilal: ""
 > With five qualities lives with mind freed, no matter what region they live in
 
 > [!info] Key Excerpts 
-> Mendicant is ethical, learned, energetic, with wisdom and liberated
+> bhikkhu is ethical, learned, energetic, with wisdom and liberated
 > 
 > Because that is how it is for those whose mind is free
 > 

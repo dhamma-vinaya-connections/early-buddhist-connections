@@ -26,7 +26,7 @@ language: "English - Pali"
 
 That is what the Buddha said..
 
-Satisfied, the mendicants were happy with what the Buddha said.
+Satisfied, the bhikkhus were happy with what the Buddha said.
 
 The book of The Twos is finished.
 

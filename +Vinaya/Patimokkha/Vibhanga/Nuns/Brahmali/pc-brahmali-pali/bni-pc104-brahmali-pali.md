@@ -18,9 +18,9 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying in the hall with the peaked roof in the Great Wood near Vesālī, a number of monks who were friends had entered the rainy-season residence on the banks of the river Vaggumudā. At that time Vajjī was short of food and afflicted with hunger, with crops affected by whiteheads and turned to straw. It was not easy to get by on almsfood.
+1At one time when the Buddha was staying in the hall with the peaked roof in the Great Wood near Vesālī, a number of bhikkhus who were friends had entered the rainy-season residence on the banks of the river Vaggumudā. At that time Vajjī was short of food and afflicted with hunger, with crops affected by whiteheads and turned to straw. It was not easy to get by on almsfood.
 
-The monks considered the difficult circumstances, and they thought, “How can we live together in peace and harmony, have a comfortable rains, and get almsfood without trouble?”
+The bhikkhus considered the difficult circumstances, and they thought, “How can we live together in peace and harmony, have a comfortable rains, and get almsfood without trouble?”
 
 Some said, “We could work for the householders, and they’ll support us in return.”
 
@@ -28,20 +28,20 @@ Others said, “There’s no need to work for the householders. Let’s instead 
 
 Still others said, “There’s no need to do work or take messages for them. Let’s instead talk up one another’s superhuman qualities to the householders: ‘That monk has the first absorption, that monk the second absorption, that monk the third, that monk the fourth; that monk is a stream-enterer, that monk a once-returner, that a non-returner, that a perfected one; that monk has the three true insights, and that the six direct knowledges.’ Then they’ll support us. In this way we’ll have a comfortable rains, live together in peace and harmony, and get almsfood without trouble. This is the way to go.”
 
-2Then those monks did just that. And the people there thought, “We’re so fortunate that such monks have come to us for the rainy-season residence. Such virtuous and good monks have never before entered the rains residence with us.” And they gave such food and drink to those monks that they did not even eat and drink themselves, or give to their parents, to their wives and children, to their slaves, servants, and workers, to their friends and companions, or to their relatives. Soon those monks had a good color, bright faces, clear skin, and sharp senses.
+2Then those bhikkhus did just that. And the people there thought, “We’re so fortunate that such bhikkhus have come to us for the rainy-season residence. Such virtuous and good bhikkhus have never before entered the rains residence with us.” And they gave such food and drink to those bhikkhus that they did not even eat and drink themselves, or give to their parents, to their wives and children, to their slaves, servants, and workers, to their friends and companions, or to their relatives. Soon those bhikkhus had a good color, bright faces, clear skin, and sharp senses.
 
 
-3Now it was the custom for monks who had completed the rainy-season residence to go and visit the Buddha. And so, when the three months were over and they had completed the rains residence, those monks put their dwellings in order, took their bowls and robes, and set out for Vesālī. When they eventually arrived, they went to the hall with the peaked roof in the Great Wood. There they approached the Buddha, bowed, and sat down.
+3Now it was the custom for bhikkhus who had completed the rainy-season residence to go and visit the Buddha. And so, when the three months were over and they had completed the rains residence, those bhikkhus put their dwellings in order, took their bowls and robes, and set out for Vesālī. When they eventually arrived, they went to the hall with the peaked roof in the Great Wood. There they approached the Buddha, bowed, and sat down.
 
-At that time the monks who had completed the rains residence in that region were thin, haggard and pale, with veins protruding all over their bodies. Yet the monks from the banks of the Vaggumudā had a good color, bright faces, clear skin, and sharp senses.
+At that time the bhikkhus who had completed the rains residence in that region were thin, haggard and pale, with veins protruding all over their bodies. Yet the bhikkhus from the banks of the Vaggumudā had a good color, bright faces, clear skin, and sharp senses.
 
-Since it is the custom for Buddhas to greet newly arrived monks, the Buddha said to them, “I hope you’re keeping well, monks, I hope you’re getting by? I hope you had a comfortable and harmonious rains, and got almsfood without trouble?”
+Since it is the custom for Buddhas to greet newly arrived bhikkhus, the Buddha said to them, “I hope you’re keeping well, bhikkhus, I hope you’re getting by? I hope you had a comfortable and harmonious rains, and got almsfood without trouble?”
 
 “We’re keeping well, Venerable Sir, we’re getting by. We had a comfortable and harmonious rains, and got almsfood without trouble.”
 
-When Buddhas know what is going on, sometimes they ask and sometimes not. They know the right time to ask and when not to ask. Buddhas ask when it is beneficial, otherwise not, for Buddhas are incapable of doing what is unbeneficial. Buddhas question the monks for two reasons: to give a teaching or to lay down a training rule.
+When Buddhas know what is going on, sometimes they ask and sometimes not. They know the right time to ask and when not to ask. Buddhas ask when it is beneficial, otherwise not, for Buddhas are incapable of doing what is unbeneficial. Buddhas question the bhikkhus for two reasons: to give a teaching or to lay down a training rule.
 
-4And the Buddha said to those monks, “In what way, monks, did you have a comfortable and harmonious rains? And how did you get almsfood without trouble?”
+4And the Buddha said to those bhikkhus, “In what way, bhikkhus, did you have a comfortable and harmonious rains? And how did you get almsfood without trouble?”
 
 They then told him.
 
@@ -51,7 +51,7 @@ They then told him.
 “Yes, Sir.”
 
 
-The Buddha rebuked them, “How could you for the sake of your stomachs talk up one another’s superhuman qualities to householders? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them, “How could you for the sake of your stomachs talk up one another’s superhuman qualities to householders? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

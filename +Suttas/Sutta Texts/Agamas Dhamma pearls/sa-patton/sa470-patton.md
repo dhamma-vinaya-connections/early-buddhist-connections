@@ -19,13 +19,13 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Squirrels’ Bamboo Park of Rājagṛha.
 
-2. It was then that the Bhagavān addressed the monks, “Foolish, unlearned ordinary people give rise to painful feelings, pleasant feelings, and feelings that are not painful or pleasant. Well-versed noble disciples also give rise to painful feelings, pleasant feelings, and feelings that are not painful or pleasant. Monks, what’s the difference between an ordinary person and a noble person?”
+2. It was then that the Bhagavān addressed the bhikkhus, “Foolish, unlearned ordinary people give rise to painful feelings, pleasant feelings, and feelings that are not painful or pleasant. Well-versed noble disciples also give rise to painful feelings, pleasant feelings, and feelings that are not painful or pleasant. bhikkhus, what’s the difference between an ordinary person and a noble person?”
 
-3. The monks said to the Buddha, “The Bhagavān is the Dharma root, the Dharma eye, and the Dharma support! Excellent, Bhagavān! Please explain it in detail. After the monks hear this, they’ll accept and approve it.”
+3. The bhikkhus said to the Buddha, “The Bhagavān is the Dharma root, the Dharma eye, and the Dharma support! Excellent, Bhagavān! Please explain it in detail. After the bhikkhus hear this, they’ll accept and approve it.”
 
-4. The Buddha told the monks, “For foolish, unlearned ordinary people, physical contact gives rise to feelings, and they are harassed by pains until their lives are taken. Distraught and crying, they call out and lament the injustice of it.”
+4. The Buddha told the bhikkhus, “For foolish, unlearned ordinary people, physical contact gives rise to feelings, and they are harassed by pains until their lives are taken. Distraught and crying, they call out and lament the injustice of it.”
 
-5. The Buddha told the monks, “Listen closely, and consider it well. I will explain this for you. Monks, for foolish, unlearned ordinary people, physical contact gives rise to feelings that are increasingly painful until their lives are taken. Distraught, they call out and lament the injustice of it. Their minds become maddened. At that point, two types of feeling grow, either physical feelings or mental feelings.
+5. The Buddha told the bhikkhus, “Listen closely, and consider it well. I will explain this for you. bhikkhus, for foolish, unlearned ordinary people, physical contact gives rise to feelings that are increasingly painful until their lives are taken. Distraught, they call out and lament the injustice of it. Their minds become maddened. At that point, two types of feeling grow, either physical feelings or mental feelings.
 
 6. “It’s like a man who’s been shot by a pair of poison arrows. It’s excruciating. Foolish, unlearned ordinary people are likewise. The growth of these two feelings, physical feelings and mental feelings, is excruciating. Why is that? Those foolish, unlearned ordinary people don’t understand. Contact with the five desires gives rise to pleasant feelings, and they experience the pleasure of the five desires. Because they feel the pleasure of the five desires, they become inclined to craving them.<a id="fnref2"></a>[^2] Because of contact with painful feelings, dislike arises. Because dislike arises, they become inclined to dislike them.
 
@@ -61,7 +61,7 @@ language: "English"
     When he dies, he doesn’t fall repeatedly;  
     He abides forever in _parinirvāṇa_.”
 
-13. After the Buddha spoke this sūtra, the monks who heard what the Buddha taught rejoiced and approved.
+13. After the Buddha spoke this sūtra, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

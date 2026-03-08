@@ -16,19 +16,19 @@ Translated by Charles Patton
 
 ### 21. Brahmā’s Shaking
 
-1. Thus I have heard: One time, the Buddha traveled to Magadha accompanied by an assembly of 1,250 great monks. Wandering among the people, they reached the bamboo grove and stopped to stay at the royal palace.
+1. Thus I have heard: One time, the Buddha traveled to Magadha accompanied by an assembly of 1,250 great bhikkhus. Wandering among the people, they reached the bamboo grove and stopped to stay at the royal palace.
 
-2. At the time, there was an ascetic named Supriya who had a disciple named Brahmadatta. This teacher and student were always following the Buddha. The ascetic Supriya criticized the Buddha, Dharma, and Saṅgha of monks in countless ways, and his disciple Brahmadatta praised the Buddha, Dharma, and Saṅgha of monks in countless ways. The teacher and his student both felt differently and contradicted each other. Why is that? It was because of their different customs, different views, and different friends.
+2. At the time, there was an ascetic named Supriya who had a disciple named Brahmadatta. This teacher and student were always following the Buddha. The ascetic Supriya criticized the Buddha, Dharma, and Saṅgha of bhikkhus in countless ways, and his disciple Brahmadatta praised the Buddha, Dharma, and Saṅgha of bhikkhus in countless ways. The teacher and his student both felt differently and contradicted each other. Why is that? It was because of their different customs, different views, and different friends.
 
-3. It was then that a group of monks assembled in the meeting hall after soliciting alms to have this discussion: “Amazing and rare are the great miraculous power and majestic virtue possessed by the Bhagavān. He fully knows the intentions and destinations of sentient beings, but the ascetic Supriya and his disciple follow the Tathāgata and the Saṅgha of monks. The ascetic Supriya criticizes the Buddha, Dharma, and Saṅgha in countless ways, and his disciple Brahmadatta praises the Tathāgata, Dharma, and Saṅgha in countless ways. The teacher and his student both feel differently as a result of their different customs, different views, and different friends.”
+3. It was then that a group of bhikkhus assembled in the meeting hall after soliciting alms to have this discussion: “Amazing and rare are the great miraculous power and majestic virtue possessed by the Bhagavān. He fully knows the intentions and destinations of sentient beings, but the ascetic Supriya and his disciple follow the Tathāgata and the Saṅgha of bhikkhus. The ascetic Supriya criticizes the Buddha, Dharma, and Saṅgha in countless ways, and his disciple Brahmadatta praises the Tathāgata, Dharma, and Saṅgha in countless ways. The teacher and his student both feel differently as a result of their different customs, different views, and different friends.”
 
-4. It was then that the Bhagavān overheard the monks having that discussion with his heavenly ear that surpasses the human ear. The Bhagavān emerged from his quiet abode, went to the meeting hall, and sat in front of that great assembly. Although he knew, he still asked them, “Monks, what’s the reason you’ve gathered here in the meeting hall? What are you discussing?”
+4. It was then that the Bhagavān overheard the bhikkhus having that discussion with his heavenly ear that surpasses the human ear. The Bhagavān emerged from his quiet abode, went to the meeting hall, and sat in front of that great assembly. Although he knew, he still asked them, “bhikkhus, what’s the reason you’ve gathered here in the meeting hall? What are you discussing?”
 
-5. The monks then said to the Buddha, “After soliciting alms, we gathered here in the meeting hall to have this discussion: ‘Amazing and rare are the great miraculous power and majestic virtue possessed by the Bhagavān. He fully knows the intentions and destinations of sentient beings, but the ascetic Supriya and his disciple always follow the Tathāgata and the Saṅgha of monks. The ascetic Supriya criticizes the Tathāgata, Dharma, and Saṅgha in countless ways, and his disciple Brahmadatta praises the Tathāgata, Dharma, and Saṅgha in countless ways. The teacher and his student both feel differently as a result of their different customs, different views, and different friends.’ We gathered here in the meeting hall to discuss this situation.”
+5. The bhikkhus then said to the Buddha, “After soliciting alms, we gathered here in the meeting hall to have this discussion: ‘Amazing and rare are the great miraculous power and majestic virtue possessed by the Bhagavān. He fully knows the intentions and destinations of sentient beings, but the ascetic Supriya and his disciple always follow the Tathāgata and the Saṅgha of bhikkhus. The ascetic Supriya criticizes the Tathāgata, Dharma, and Saṅgha in countless ways, and his disciple Brahmadatta praises the Tathāgata, Dharma, and Saṅgha in countless ways. The teacher and his student both feel differently as a result of their different customs, different views, and different friends.’ We gathered here in the meeting hall to discuss this situation.”
 
-6. The Bhagavān then told the monks, “If someone criticizes the Tathāgata, Dharma, and the Saṅgha in some way, don’t allow yourselves to feel angry and have harmful intent toward them. Why is that? If they criticize me, the Dharma, and Saṅgha of monks and you feel angry and have harmful intent, it’ll result in your own downfall; therefore, don’t allow yourself to feel angry and have harmful intent toward them.
+6. The Bhagavān then told the bhikkhus, “If someone criticizes the Tathāgata, Dharma, and the Saṅgha in some way, don’t allow yourselves to feel angry and have harmful intent toward them. Why is that? If they criticize me, the Dharma, and Saṅgha of bhikkhus and you feel angry and have harmful intent, it’ll result in your own downfall; therefore, don’t allow yourself to feel angry and have harmful intent toward them.
 
-7. “Monks, if someone praises the Buddha, Dharma, and Saṅgha, that isn’t enough for you to feel delighted and rejoice. Why is that? If you feel delighted, then it will be your downfall; therefore, you shouldn’t feel delighted. Why is that? These are minor matters of deportment and observing precepts. Ordinary, uneducated people don’t penetrate the [Dharma’s] profound meaning, so they praise only what they see [with their eyes].
+7. “bhikkhus, if someone praises the Buddha, Dharma, and Saṅgha, that isn’t enough for you to feel delighted and rejoice. Why is that? If you feel delighted, then it will be your downfall; therefore, you shouldn’t feel delighted. Why is that? These are minor matters of deportment and observing precepts. Ordinary, uneducated people don’t penetrate the [Dharma’s] profound meaning, so they praise only what they see [with their eyes].
 
 #### Minor Matters of Conduct
 
@@ -78,11 +78,11 @@ Translated by Charles Patton
 
 29. “‘There are other ascetics and priests who eat the faithful alms of others and practice teachings that obstruct the path, making their living from wrong livelihoods. They might say, “This country will win; that country is not their equal … that country will win; this country is not their equal.” They divine their fortune and misfortune and discuss the flourishing and demise [of different countries]. The ascetic Gautama doesn’t do such things.’
 
-30. “Monks, these are the minor matters of observing the precepts for which ordinary, uneducated people praise the Buddha.”
+30. “bhikkhus, these are the minor matters of observing the precepts for which ordinary, uneducated people praise the Buddha.”
 
 #### Views about Past Eons
 
-31. The Buddha told the monks, “Moreover, there’s another teaching that illuminates what’s profound, subtle, and great, but it’s only the noble disciples who praise this teaching of the Tathāgata. What is that profound, subtle, great, and illuminating teaching for which the noble disciples praise the Tathāgata?
+31. The Buddha told the bhikkhus, “Moreover, there’s another teaching that illuminates what’s profound, subtle, and great, but it’s only the noble disciples who praise this teaching of the Tathāgata. What is that profound, subtle, great, and illuminating teaching for which the noble disciples praise the Tathāgata?
 
 32. “Ascetics and priests make diverse and countless statements as they like about past and future eons, and they all enter 62 views by doing so. Making these diverse and countless statements about past and future eons, none of them can go beyond these 62 views.
 
@@ -352,7 +352,7 @@ Translated by Charles Patton
 
 153. “Ascetics and priests are likewise. They make diverse statements about past and future eons, and they all enter these 62 views and don’t go beyond them.
 
-154. “If monks really know the accumulation, cessation, enjoyment, fault, and escape of the six contacts, that’s the supreme escape from those views. The Tathāgata himself knows that his birth and death has ended. Those who have bodies do so because they desire the merits to be liberated as gods or humans. If they have no body, then gods and worldly people have no basis for that. They then are like a palm tree that’s been cut at its root; it doesn’t grow anymore. The Buddha is likewise; he has ended birth and death and won’t be born again.”
+154. “If bhikkhus really know the accumulation, cessation, enjoyment, fault, and escape of the six contacts, that’s the supreme escape from those views. The Tathāgata himself knows that his birth and death has ended. Those who have bodies do so because they desire the merits to be liberated as gods or humans. If they have no body, then gods and worldly people have no basis for that. They then are like a palm tree that’s been cut at its root; it doesn’t grow anymore. The Buddha is likewise; he has ended birth and death and won’t be born again.”
 
 #### The Sūtra’s Title
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, with the appearance of a Realized One, the perfected one, the fully awakened Buddha, four incredible and amazing things appear. What four?
+1“bhikkhus, with the appearance of a Realized One, the perfected one, the fully awakened Buddha, four incredible and amazing things appear. What four?
 
 
 People like attachment, they love it and enjoy it. Yet when a Realized One is teaching the Dhamma of non-adherence, they want to listen, they lend an ear, and they apply their minds to understand it. This is the first incredible and amazing thing that appears with the appearance of a Realized One.

@@ -62,7 +62,7 @@ he will, without effluent, totally unbind.[2](#^thag1-100note02) ^thag1-100note0
 
 ### Notes
 
-1. The right exertions are the four aspects of right effort; the establishings of mindfulness, the four aspects of right mindfulness. See [[sn45.8-thanissaro]]. On the image of the establishings of mindfulness as a monk’s proper range, see [[sn47.6-thanissaro]]. [↩︎](#^thag1-88note01-ref) ^thag1-88note01
+1. The right exertions are the four aspects of right effort; the establishings of mindfulness, the four aspects of right mindfulness. See [[sn45.8-thanissaro]]. On the image of the establishings of mindfulness as a bhikkhu’s proper range, see [[sn47.6-thanissaro]]. [↩︎](#^thag1-88note01-ref) ^thag1-88note01
 
 2. Formally, this verse is noteworthy in that each of the first three lines is composed of a single long compound. This style, which became common in later Indian literature because it was considered to convey strength, is uncommonly “strong” for a verse in the Pali Canon. For a similar example, see [[dhp39-thanissaro]]. [↩︎](#^thag1-88note02-ref) ^thag1-88note02
 
@@ -178,7 +178,7 @@ With clear waters &
 
 massive boulders,
 
-frequented by monkeys &
+frequented by bhikkhueys &
 
 deer,
 
@@ -334,7 +334,7 @@ Note
 
 There was an heir to the One Awakened,
 
-a monk in the Bhesakaḷā forest,
+a bhikkhu in the Bhesakaḷā forest,
 
 who suffused this whole earth
 
@@ -365,7 +365,7 @@ do not remain:
 
 That’s the path
 
-by which the monks go.
+by which the bhikkhus go.
 
 ## Thag1.22  Cittaka
 
@@ -407,7 +407,7 @@ Like splendor, his mind,
 
 continually fruitful:
 
-Attack a monk like that,
+Attack a bhikkhu like that,
 
 you Dark One,
 
@@ -592,7 +592,7 @@ my mind.
 
 Who’s in the hut?
 
-A monk’s in the hut—
+A bhikkhu’s in the hut—
 
 free from passion,
 
@@ -612,7 +612,7 @@ and you aspire to another,
 
 new hut.
 
-Discard your hope for a hut, monk.
+Discard your hope for a hut, bhikkhu.
 
 A new hut will be
 

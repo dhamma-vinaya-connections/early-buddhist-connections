@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him:
+1Then a bhikkhu went up to the Buddha, bowed, sat down to one side, and said to him:
 
 “Sir, what is the cause, what is the reason why an educated noble disciple has no doubts regarding the undeclared points?”
 
 
-2“Mendicant, it’s due to the cessation of views that an educated noble disciple has no doubts regarding the undeclared points.
+2“bhikkhu, it’s due to the cessation of views that an educated noble disciple has no doubts regarding the undeclared points.
 
 ‘A Realized One exists after death’: this is a misconception. ‘A Realized One doesn’t exist after death’: this is a misconception. ‘A Realized One both exists and doesn’t exist after death’: this is a misconception. ‘A Realized One neither exists nor doesn’t exist after death’: this is a misconception.
 

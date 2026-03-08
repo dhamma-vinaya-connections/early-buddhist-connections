@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six ate from lifted balls of food. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six ate from lifted balls of food. …
 
 #### Final ruling
 
 2“‘I will not eat from a lifted ball of food,’ this is how you should train.”
 
-3One should not eat from a lifted ball of food. If a monk, out of disrespect, eats from a lifted ball of food, he commits an offense of wrong conduct.
+3One should not eat from a lifted ball of food. If a bhikkhu, out of disrespect, eats from a lifted ball of food, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

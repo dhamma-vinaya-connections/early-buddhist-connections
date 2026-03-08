@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these three messengers of the gods. What three?
+1“There are, bhikkhus, these three messengers of the gods. What three?
 
 Firstly, someone does bad things by way of body, speech, and mind. When their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell. Then the wardens of hell take them by the arms and present them to King Yama, saying: ‘Your Majesty, this person did not pay due respect to their mother and father, ascetics and brahmins, or honor the elders in the family. May Your Majesty punish them!’
 

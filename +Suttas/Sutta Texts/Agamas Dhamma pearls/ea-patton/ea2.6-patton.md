@@ -17,9 +17,9 @@ language: "English"
 
 6. Recollecting the Gods
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “One should cultivate one thing and disseminate one thing. Then, they will achieve spiritual knowledge, dispel their confused ideas, win the fruits of the ascetic, and bring about _nirvāṇa_ themselves. What is that one thing? It’s called recollecting the gods. One should cultivate and widely disseminate it. Then, they will achieve spiritual knowledge, dispel their confused ideas, win the fruits of the ascetic, and bring about _nirvāṇa_ themselves.
-3. “Therefore, monks, you should cultivate this one thing and widely disseminate this one thing. Thus, monks, should you train yourselves.”
-4. When the monks heard what the Buddha taught, they rejoiced and approved.
+2. It was then that the Bhagavān addressed the bhikkhus, “One should cultivate one thing and disseminate one thing. Then, they will achieve spiritual knowledge, dispel their confused ideas, win the fruits of the ascetic, and bring about _nirvāṇa_ themselves. What is that one thing? It’s called recollecting the gods. One should cultivate and widely disseminate it. Then, they will achieve spiritual knowledge, dispel their confused ideas, win the fruits of the ascetic, and bring about _nirvāṇa_ themselves.
+3. “Therefore, bhikkhus, you should cultivate this one thing and widely disseminate this one thing. Thus, bhikkhus, should you train yourselves.”
+4. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

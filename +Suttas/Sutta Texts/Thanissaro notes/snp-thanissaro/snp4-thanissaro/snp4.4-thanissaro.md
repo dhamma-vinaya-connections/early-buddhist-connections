@@ -88,7 +88,7 @@ they don’t cross over the bond.
 
 They embrace & reject
 
-—like a monkey releasing a branch
+—like a bhikkhuey releasing a branch
 
 to seize at another[7](#^snp4-4-07)— ^snp4-4-07-ref
 
@@ -168,13 +168,13 @@ vv. 788–795
 
 3. “Brahman” in the Buddhist sense, i.e., a person born in any caste who has become an arahant. [↩︎](#^snp4-4-03-ref) ^snp4-4-03
 
-4. Lines such as this may have been the source of the confusion in the different recensions of the Canon—and in Nd I—as to whether the poems in this vagga are concerned with letting go of views that have been embraced _(atta)_ or of self _(attā)._ The compound here, _attañjaho,_ read on its own, could be read either as “he’s let go of what has been embraced” or “he’s let go of self.” However, the following image of a monkey seizing and releasing branches as it moves from tree to tree reinforces the conclusion that the first interpretation is the correct one. [↩︎](#^snp4-4-04-ref) ^snp4-4-04
+4. Lines such as this may have been the source of the confusion in the different recensions of the Canon—and in Nd I—as to whether the poems in this vagga are concerned with letting go of views that have been embraced _(atta)_ or of self _(attā)._ The compound here, _attañjaho,_ read on its own, could be read either as “he’s let go of what has been embraced” or “he’s let go of self.” However, the following image of a bhikkhuey seizing and releasing branches as it moves from tree to tree reinforces the conclusion that the first interpretation is the correct one. [↩︎](#^snp4-4-04-ref) ^snp4-4-04
 
 5. Nd I: Leaving one teacher and going to another; leaving one teaching and going to another. This phrase may also refer to the mind’s tendency to leave one craving to go to another. [↩︎](#^snp4-4-05-ref) ^snp4-4-05
 
 6. For a discussion of unperturbed states of samādhi, see [[mn106-thanissaro]]. [↩︎](#^snp4-4-06-ref) ^snp4-4-06
 
-7. “Like a monkey releasing a branch to seize at another”—an interesting example of a whole phrase that functions as a lamp, i.e., modifying both the phrase before it and the phrase after it. [↩︎](#^snp4-4-07-ref) ^snp4-4-07
+7. “Like a bhikkhuey releasing a branch to seize at another”—an interesting example of a whole phrase that functions as a lamp, i.e., modifying both the phrase before it and the phrase after it. [↩︎](#^snp4-4-07-ref) ^snp4-4-07
 
 8. “Vedas”—Just as the word “brahman” is used in a Buddhist sense above, here the word _veda_ is given a Buddhist sense. According to SnA, in this context it means the knowledge accompanying four transcendent paths: the paths to stream-entry, once-returning, non-returning, and arahantship. [↩︎](#^snp4-4-08-ref) ^snp4-4-08
 

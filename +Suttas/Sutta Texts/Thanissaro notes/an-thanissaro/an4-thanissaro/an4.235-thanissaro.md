@@ -15,7 +15,7 @@ language: "English"
 ## ## Sikkhāpada Sutta
 
 
-“Monks, these four types of kamma have been directly known, verified, & made known by me. Which four? There is kamma that is dark with dark result. There is kamma that is bright with bright result. There is kamma that is dark & bright with dark & bright result. There is kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma.
+“bhikkhus, these four types of kamma have been directly known, verified, & made known by me. Which four? There is kamma that is dark with dark result. There is kamma that is bright with bright result. There is kamma that is dark & bright with dark & bright result. There is kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma.
 
 “And what is kamma that is dark with dark result? There is the case where a certain person is one who takes life, is one who takes what is not given, is one who engages in illicit sex, is one who tells lies, is one who takes fermented & distilled liquors that are the basis for heedlessness This is called kamma that is dark with dark result.
 
@@ -25,7 +25,7 @@ language: "English"
 
 “And what is kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma? The intention right there to abandon this kamma that is dark with dark result, the intention right there to abandon this kamma that is bright with bright result, the intention right there to abandon this kamma that is dark & bright with dark & bright result. This is called kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma.
 
-“These, monks, are the four types of kamma directly known, verified, & made known by me.”
+“These, bhikkhus, are the four types of kamma directly known, verified, & made known by me.”
 
 See also: [[mn135-thanissaro]]; [[mn136-thanissaro]]; [[sn42.8-thanissaro]]; [[an2.18-thanissaro]]; [[an6.63-thanissaro]]
 

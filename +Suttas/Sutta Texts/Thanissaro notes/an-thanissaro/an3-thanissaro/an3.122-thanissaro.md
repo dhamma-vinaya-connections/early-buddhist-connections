@@ -15,13 +15,13 @@ language: "English"
 ## ## Soceyya Sutta
 
 
-Monks, there are these three purities. Which three? Bodily purity, verbal purity, & mental purity.
+bhikkhus, there are these three purities. Which three? Bodily purity, verbal purity, & mental purity.
 
-“And what is bodily purity? There is the case where a monk abstains from taking life, abstains from theft, abstains from uncelibacy. This is called bodily purity.
+“And what is bodily purity? There is the case where a bhikkhu abstains from taking life, abstains from theft, abstains from uncelibacy. This is called bodily purity.
 
-“And what is verbal purity? There is the case where a monk abstains from telling lies, abstains from divisive speech, abstains from harsh speech, abstains from idle chatter. This is called verbal purity.
+“And what is verbal purity? There is the case where a bhikkhu abstains from telling lies, abstains from divisive speech, abstains from harsh speech, abstains from idle chatter. This is called verbal purity.
 
-“And what is mental purity? There is the case where, there being sensual desire present within, a monk discerns, ‘There is sensual desire present within me.’ Or, there being no sensual desire present within, he discerns, ‘There is no sensual desire present within me.’ He discerns how there is the arising of unarisen sensual desire. And he discerns how there is the abandoning of sensual desire once it has arisen. And he discerns how there is no further appearance in the future of sensual desire that has been abandoned.
+“And what is mental purity? There is the case where, there being sensual desire present within, a bhikkhu discerns, ‘There is sensual desire present within me.’ Or, there being no sensual desire present within, he discerns, ‘There is no sensual desire present within me.’ He discerns how there is the arising of unarisen sensual desire. And he discerns how there is the abandoning of sensual desire once it has arisen. And he discerns how there is no further appearance in the future of sensual desire that has been abandoned.
 
 “There being ill will present within…
 
@@ -29,9 +29,9 @@ Monks, there are these three purities. Which three? Bodily purity, verbal purity
 
 “There being restlessness & anxiety present within…
 
-“There being uncertainty present within, a monk discerns, ‘There is uncertainty present within me.’ Or, there being no uncertainty present within, he discerns, ‘There is no uncertainty present within me.’ He discerns how there is the arising of unarisen uncertainty. And he discerns how there is the abandoning of uncertainty once it has arisen. And he discerns how there is no further appearance in the future of uncertainty that has been abandoned.[1](#^[[an3-thanissaro]].122note01) This is called mental purity.” ^[[an3-thanissaro]].122note01-ref
+“There being uncertainty present within, a bhikkhu discerns, ‘There is uncertainty present within me.’ Or, there being no uncertainty present within, he discerns, ‘There is no uncertainty present within me.’ He discerns how there is the arising of unarisen uncertainty. And he discerns how there is the abandoning of uncertainty once it has arisen. And he discerns how there is no further appearance in the future of uncertainty that has been abandoned.[1](#^[[an3-thanissaro]].122note01) This is called mental purity.” ^[[an3-thanissaro]].122note01-ref
 
-“These, monks, are the three purities.”
+“These, bhikkhus, are the three purities.”
 
 Bodily pure, verbally pure,
 

@@ -35,7 +35,7 @@ contribution:
 >  This discourse gives a specially good example of dialog between religions the Buddha  insists that he is not interested to make anyone give up their teacher or practices, but only to help people let go of suffering.
 
 > [!example]- 🌐[[DA9]] - 📜[Available texts](obsidian://search?query=file:da9-) - 眾集 – Numerically Assembled Doctrines 
->  The Buddha  encourages venerable Sāriputta to teach the mendicants, and he offers an extended listing of buddhist doctrines arranged in numerical sequence.
+>  The Buddha  encourages venerable Sāriputta to teach the bhikkhus, and he offers an extended listing of buddhist doctrines arranged in numerical sequence.
 
 > [!example]- 🌐[[DA10]] - 📜[Available texts](obsidian://search?query=file:da10-) - 十上 – Ten Progressively Classified DN 34: Dasuttara-Suttanta 
 >  Sariputta summaries key teachings in a more organized manner. These two discourses anticipate some of the methods of the abhidhamma

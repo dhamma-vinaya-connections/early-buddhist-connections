@@ -20,18 +20,18 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has stilled the physical process, and is said to be ‘withdrawn’.
+1“bhikkhus, a bhikkhu has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has stilled the physical process, and is said to be ‘withdrawn’.
 
 
-And how has a mendicant eliminated idiosyncratic interpretations of the truth? Different ascetics and brahmins have different idiosyncratic interpretations of the truth. For example: the world is eternal, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist. A mendicant has dispelled, eliminated, thrown out, rejected, let go of, given up, and relinquished all these. That’s how a mendicant has eliminated idiosyncratic interpretations of the truth.
+And how has a bhikkhu eliminated idiosyncratic interpretations of the truth? Different ascetics and brahmins have different idiosyncratic interpretations of the truth. For example: the world is eternal, or not eternal, or finite, or infinite; the soul and the body are the same thing, or they are different things; after death, a Realized One exists, or doesn’t exist, or both exists and doesn’t exist, or neither exists nor doesn’t exist. A bhikkhu has dispelled, eliminated, thrown out, rejected, let go of, given up, and relinquished all these. That’s how a bhikkhu has eliminated idiosyncratic interpretations of the truth.
 
-2And how has a mendicant totally given up searching? It’s when they’ve given up searching for sensual pleasures, for continued existence, and for a spiritual path. That’s how a mendicant has totally given up searching.
+2And how has a bhikkhu totally given up searching? It’s when they’ve given up searching for sensual pleasures, for continued existence, and for a spiritual path. That’s how a bhikkhu has totally given up searching.
 
-3And how has a mendicant stilled the physical process? It’s when, giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. That’s how a mendicant has stilled the physical process.
+3And how has a bhikkhu stilled the physical process? It’s when, giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. That’s how a bhikkhu has stilled the physical process.
 
-4And how is a mendicant withdrawn? It’s when they’ve given up the conceit ‘I am’, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a mendicant is withdrawn.
+4And how is a bhikkhu withdrawn? It’s when they’ve given up the conceit ‘I am’, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a bhikkhu is withdrawn.
 
-A mendicant has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has stilled the physical process, and is said to be ‘withdrawn’.
+A bhikkhu has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has stilled the physical process, and is said to be ‘withdrawn’.
 
 5The search for sensual pleasures, for a good rebirth,  
 together with the search for a spiritual path;  
@@ -43,7 +43,7 @@ freed by the ending of craving,
 searching has been relinquished,  
 and viewpoints eradicated.
 
-7That mendicant is peaceful and mindful,  
+7That bhikkhu is peaceful and mindful,  
 a tranquil champion.  
 And when they’re awakened by comprehending conceit,  
 they’re called ‘withdrawn’.”

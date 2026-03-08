@@ -20,7 +20,7 @@ By giving, one becomes dear,
 
 one follows the duty of the good;
 
-the good self-controlled monks
+the good self-controlled bhikkhus
 
 always resort to one.
 

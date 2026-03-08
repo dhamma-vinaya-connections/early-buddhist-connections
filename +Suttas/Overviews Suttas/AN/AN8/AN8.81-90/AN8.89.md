@@ -44,12 +44,12 @@ parallels_partilal: "[[PLI-TV-KD11]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Eight reasons the lay followers may declare no confidence or confidence regarding a mendicant
+> Eight reasons the lay followers may declare no confidence or confidence regarding a bhikkhu
 
 > [!info] Key Excerpts 
 > To someone who try to prevent lay people from getting material possession,  hurt, insult, divide the Sangha, or criticize the Buddha , the teaching, and the saṅgha and seen at an inappropriate place for collecting alms or don’t keep a legitimate promise made to a lay person
 > 
-> Lay followers may, if they wish, make a proclamation of no confidence in a mendicant who has these eight qualities and the Sangha should pursue reconciliation
+> Lay followers may, if they wish, make a proclamation of no confidence in a bhikkhu who has these eight qualities and the Sangha should pursue reconciliation
 > 
 
 

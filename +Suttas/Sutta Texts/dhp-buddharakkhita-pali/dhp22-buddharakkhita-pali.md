@@ -21,7 +21,7 @@ language: "Pali"
 
 307There are many evil characters and uncontrolled men wearing the saffron robe. These wicked men will be born in states of woe because of their evil deeds.
 
-308It would be better to swallow a red-hot iron ball, blazing like fire, than as an immoral and uncontrolled monk to eat the alms of the people.
+308It would be better to swallow a red-hot iron ball, blazing like fire, than as an immoral and uncontrolled bhikkhu to eat the alms of the people.
 
 309Four misfortunes befall the reckless man who consorts with another's wife: acquisition of demerit, disturbed sleep, ill-repute, and (rebirth in) states of woe.
 

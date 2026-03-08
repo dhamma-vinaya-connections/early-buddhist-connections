@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 623. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū hatthaniddhunakaṃ bhuñjanti…pe….
 
-## 623.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six monks were eating while shaking their hands…and so on.
+## 623.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six bhikkhus were eating while shaking their hands…and so on.
 
 ‘‘Na hatthaniddhunakaṃ bhuñjissāmīti sikkhā karaṇīyā’’ti.
 

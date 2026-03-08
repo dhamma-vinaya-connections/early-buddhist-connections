@@ -72,7 +72,7 @@ With serene eyes, a bright face, majestic, upright, resplendent, / Amidst the Sa
 
 ‘‘Kalyāṇadassano bhikkhu, kañcanasannibhattaco;Kiṃ te samaṇabhāvena, evaṃ uttamavaṇṇino.
 
-O mendicant, lovely to behold, with skin like burnished gold, / What use is your ascetic life, so excellent of hue?
+O bhikkhu, lovely to behold, with skin like burnished gold, / What use is your ascetic life, so excellent of hue?
 
 ‘‘Rājā arahasi bhavituṃ, cakkavattī rathesabho;Cāturanto vijitāvī, jambusaṇḍassa [jambumaṇḍassa (ka.)] issaro.
 
@@ -144,7 +144,7 @@ Then the brahmin Sela and his following received the going forth in the presence
 
 400. Atha kho keṇiyo jaṭilo tassā rattiyā accayena sake assame paṇītaṃ khādanīyaṃ bhojanīyaṃ paṭiyādāpetvā bhagavato kālaṃ ārocāpesi – ‘‘kālo, bho gotama, niṭṭhitaṃ bhatta’’nti. Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena keṇiyassa jaṭilassa assamo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṃ bhikkhusaṅghena. Atha kho keṇiyo jaṭilo buddhappamukhaṃ bhikkhusaṅghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesi, sampavāresi. Atha kho keṇiyo jaṭilo bhagavantaṃ bhuttāviṃ onītapattapāṇiṃ aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho keṇiyaṃ jaṭilaṃ bhagavā imāhi gāthāhi anumodi –
 
-400.Then, when that night had passed, the matted-hair ascetic Keṇiya had fine foods prepared in his hermitage and announced the time to the Blessed One: 'It is time, Master Gotama, the meal is ready.' Then the Blessed One, having dressed in the morning, took his bowl and robe and went to the hermitage of Keṇiya the matted-hair ascetic. Having arrived, he sat down on the prepared seat together with the Saṅgha of monks. Then Keṇiya the matted-hair ascetic personally served and satisfied the Saṅgha of monks headed by the Buddha with fine foods. When the Blessed One had finished eating and had withdrawn his hand from the bowl, Keṇiya took a low seat and sat to one side. Sitting to one side, the Blessed One expressed his appreciation to Keṇiya the matted-hair ascetic with these verses:
+400.Then, when that night had passed, the matted-hair ascetic Keṇiya had fine foods prepared in his hermitage and announced the time to the Blessed One: 'It is time, Master Gotama, the meal is ready.' Then the Blessed One, having dressed in the morning, took his bowl and robe and went to the hermitage of Keṇiya the matted-hair ascetic. Having arrived, he sat down on the prepared seat together with the Saṅgha of bhikkhus. Then Keṇiya the matted-hair ascetic personally served and satisfied the Saṅgha of bhikkhus headed by the Buddha with fine foods. When the Blessed One had finished eating and had withdrawn his hand from the bowl, Keṇiya took a low seat and sat to one side. Sitting to one side, the Blessed One expressed his appreciation to Keṇiya the matted-hair ascetic with these verses:
 
 ‘‘Aggihuttamukhā yaññā, sāvittī chandaso mukhaṃ;Rājā mukhaṃ manussānaṃ, nadīnaṃ sāgaro mukhaṃ.
 
@@ -176,7 +176,7 @@ Your attachments are fully transcended, your taints are crushed; / Like a lion, 
 
 ‘‘Bhikkhavo tisatā ime, tiṭṭhanti pañjalīkatā;Pāde vīra pasārehi, nāgā vandantu satthuno’’ti.
 
-These three hundred monks stand, with joined palms; / O Hero, extend your feet, let the arahants venerate the Teacher.
+These three hundred bhikkhus stand, with joined palms; / O Hero, extend your feet, let the arahants venerate the Teacher.
 
 Selasuttaṃ niṭṭhitaṃ dutiyaṃ.
 

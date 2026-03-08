@@ -47,7 +47,7 @@ parallels_partilal: "[[AN10.83]], [[SA966]]"
 > Venerable puṇṇiya asks the Buddha  why he sometimes feels like teaching and other times doesn’t
 
 > [!info] Key Excerpts 
-> When a mendicant has faith, approaches, pays homage, asks questions, lends an ear, remembers the teachings, reflects on the meaning, and practices accordingly, the realized one feels inspired to teach
+> When a bhikkhu has faith, approaches, pays homage, asks questions, lends an ear, remembers the teachings, reflects on the meaning, and practices accordingly, the realized one feels inspired to teach
 > 
 > When someone has these eight qualities, the realized one feels totally inspired to teach
 > 

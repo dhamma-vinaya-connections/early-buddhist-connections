@@ -17,9 +17,9 @@ Translated by Charles Patton
 
 ### 19. The Great Congregation
 
-1. Thus I have heard: One time, the Buddha was staying at Kapilavastu in the country of the Śākyans. He was accompanied by a great assembly of five hundred monks, all of whom were arhats. Marvelous gods had also gathered from the ten directions to honor the Tathāgata and the saṅgha of monks.
+1. Thus I have heard: One time, the Buddha was staying at Kapilavastu in the country of the Śākyans. He was accompanied by a great assembly of five hundred bhikkhus, all of whom were arhats. Marvelous gods had also gathered from the ten directions to honor the Tathāgata and the saṅgha of bhikkhus.
 
-2. It was then that four Śuddhāvāsa gods up in heaven each thought to themselves, “Today, the Bhagavān is staying at Kapilavastu in the country of the Śākyans. He’s accompanied by a great assembly of five hundred monks, all of whom are arhats. Marvelous gods have also gathered from the ten directions to honor the Tathāgata and the saṅgha of monks. Now, let’s go visit the Bhagavān as well. We’ll each praise the Tathāgata with a verse.”
+2. It was then that four Śuddhāvāsa gods up in heaven each thought to themselves, “Today, the Bhagavān is staying at Kapilavastu in the country of the Śākyans. He’s accompanied by a great assembly of five hundred bhikkhus, all of whom are arhats. Marvelous gods have also gathered from the ten directions to honor the Tathāgata and the saṅgha of bhikkhus. Now, let’s go visit the Bhagavān as well. We’ll each praise the Tathāgata with a verse.”
 
 3. Those four Śuddhāvāsa gods then disappeared from their heaven and arrived at Kapilavastu of the Śākyans in the time it takes a strong man to flex his arm. Once they had arrived, those four Śuddhāvāsa gods bowed their heads at the Buddha’s feet and stood to one side.
 
@@ -32,7 +32,7 @@ Translated by Charles Patton
 
 5. After speaking this verse, that god withdrew and stood to one side. Another Śuddhāvāsa god then composed a verse:
 
-- “Monks see the many defilements; 
+- “bhikkhus see the many defilements; 
  Their upright minds guard against them. 
  Desire is like the sea swallowing rivers; 
  The wise guard their faculties against it.”
@@ -53,11 +53,11 @@ Translated by Charles Patton
 
 8. After those four Śuddhāvāsa gods had presented these verses, the Bhagavān approved of them. They bowed at the Buddha’s feet, circled him three times, and suddenly disappeared.
 
-9. Not long after they left, the Buddha told the monks, “There’s a great congregation of gods today! There’s a great gathering of gods today! Marvelous gods from the ten directions have come to honor and look upon the Tathāgata and saṅgha of monks. Monks, the Tathāgatas, Arhats, and Completely Awakened Ones of the past also had great congregations of gods, just as I do today. The Tathāgatas, Arhats, and Completely Awakened Ones in the future will have great congregations of gods, just as I do today.
+9. Not long after they left, the Buddha told the bhikkhus, “There’s a great congregation of gods today! There’s a great gathering of gods today! Marvelous gods from the ten directions have come to honor and look upon the Tathāgata and saṅgha of bhikkhus. bhikkhus, the Tathāgatas, Arhats, and Completely Awakened Ones of the past also had great congregations of gods, just as I do today. The Tathāgatas, Arhats, and Completely Awakened Ones in the future will have great congregations of gods, just as I do today.
 
-10. “Monks, this great congregation of gods today consists of spirits and sublime gods from the ten directions who’ve come to honor and look upon the Tathāgata and saṅgha of monks. They also praise their names in verses that they speak for you.
+10. “bhikkhus, this great congregation of gods today consists of spirits and sublime gods from the ten directions who’ve come to honor and look upon the Tathāgata and saṅgha of bhikkhus. They also praise their names in verses that they speak for you.
 
-11. “Monks, you should know:
+11. “bhikkhus, you should know:
 
 - “Living in the Earth’s mountains and valleys, 
  They hide when they see terrible things. 
@@ -69,7 +69,7 @@ Translated by Charles Patton
 - “Now, I will praise their names 
  In order, without any missing. 
  This assembly of gods has come today; 
- You monks should know them.
+ You bhikkhus should know them.
  
 - “All the worldly people’s knowledge 
  Doesn’t see a hundredth of them. 
@@ -81,13 +81,13 @@ Translated by Charles Patton
  That are everywhere under heaven?
  
 
-12. “Among the earth spirits, there are 7,000 yakṣas of various kinds that possess miraculous powers, appearances, forms, and names. With delighted thoughts, they’ve come to the assembly of monks in this grove.
+12. “Among the earth spirits, there are 7,000 yakṣas of various kinds that possess miraculous powers, appearances, forms, and names. With delighted thoughts, they’ve come to the assembly of bhikkhus in this grove.
 
-13. “The spirit of Mount Haimavata leads 6,000 demons and yakṣas of various kinds that possess miraculous powers, appearances, forms, and names. With delighted thoughts, they’ve come to the assembly of monks in this grove.
+13. “The spirit of Mount Haimavata leads 6,000 demons and yakṣas of various kinds that possess miraculous powers, appearances, forms, and names. With delighted thoughts, they’ve come to the assembly of bhikkhus in this grove.
 
-14. “The spirit Śātā leads 3,000 demons and yakṣas of various kinds that possess miraculous abilities, appearances, forms, and names. With delighted thoughts, they’ve come to the assembly of monks in this grove.
+14. “The spirit Śātā leads 3,000 demons and yakṣas of various kinds that possess miraculous abilities, appearances, forms, and names. With delighted thoughts, they’ve come to the assembly of bhikkhus in this grove.
 
-15. “These 16,000 demon spirits and yakṣas of various kinds possess miraculous abilities, appearances, forms, and names. With delighted thoughts, they’ve come to the assembly of monks in this grove.
+15. “These 16,000 demon spirits and yakṣas of various kinds possess miraculous abilities, appearances, forms, and names. With delighted thoughts, they’ve come to the assembly of bhikkhus in this grove.
 
 16. “There’s also the spirit Viśvamitra who lives in Aśvaka and leads 500 demons. They possess miraculous abilities and majestic virtue.
 
@@ -105,7 +105,7 @@ Translated by Charles Patton
 
 23. The Bhagavān then wanted to vanquish their illusory and deluded thoughts, so he composed this incantation: “Deceptive (māyā) is [Kiṭi]; deceptive is [Kiṭi]! [So is Vikiṭi; so is Vikiṭi]! Candana, Kāmaśreṣtha, Kunikaṇṭha, Nikaṇṭha, Praṇāda, Upapañcaka, the charioteer of gods Mātali, the gandharva Citrasena, Nara, Janavṛṣabha, Sīva, Mucalinda, Viśvamitra, Yugandhara, [Pañcaśikha], Tumburu, and Sūryavarcasā.
 
-24. “God kings, gandharvas, and rākṣasas such as these all possess miraculous abilities, appearances, and forms. With delighted thoughts, they have come to visit the assembly of monks in this grove.”
+24. “God kings, gandharvas, and rākṣasas such as these all possess miraculous abilities, appearances, and forms. With delighted thoughts, they have come to visit the assembly of bhikkhus in this grove.”
 
 25. The Bhagavān then created another incantation:
 
@@ -126,7 +126,7 @@ Translated by Charles Patton
  Vemacitra, Sucitra, Prahlāda, Mucilinda, and [Nava]. 
  A hundred of [Asi-?] Bali’s children, all named Vairocana, 
  [prepared Bali’s army and approached] the fortunate Rāhu: 
- ‘Now is the time, sir. The monks have gathered in a grove.’”
+ ‘Now is the time, sir. The bhikkhus have gathered in a grove.’”
 
 27. The Bhagavān again created an incantation for the gods:
 
@@ -135,7 +135,7 @@ Translated by Charles Patton
  Maitrā and Varuṇā’s host of gods with great miraculous power have come. 
  These ten groups of gods have a variety of colors. 
  With great miraculous power, authority, and appearances, they were glorious. 
- They’re delighted to come to the assembled monks in this grove. 
+ They’re delighted to come to the assembled bhikkhus in this grove. 
  The gods Viṣṇu, Sahalī, Āgataś, and Yama [have come.] 
  The Mandavavalāhakā [gods] came with the constellations leading them. 
  The gods who lived on the moon have come with the moon leading them. 
@@ -186,7 +186,7 @@ Translated by Charles Patton
  King Iĕtmuayiăʃɪĕ, Biina, and Buaṭṣ‘amua, 
  King ɦolɪikando, Yiobiidopuattʃɪĕ, and Yioʒɪĕṣïupuanalomuaso, 
  King Yiăsiĕtayiəu, Heilanniak, Sobuanna, Piiḍẓïəudoṭɪiyiăṣïu, Laʃɪĕpuala, Beidaɪuətda, Buahabuaṣa, Buahabuabuamɪəu, Sahaṣă, T‘əmp‘ɪukʃɪăda, ʃɪăpɪuʌpʒɪăṣă, Aladanamua, Puăngiĕṣïeutatʃ‘ɪăla, Kandəpbua, Ṣăha, Buasattadeisobei are approaching 
- Where the monks have gathered in this grove Diibuaṇḍɪi.”
+ Where the bhikkhus have gathered in this grove Diibuaṇḍɪi.”
 
 29. There was then another 1,000 five-powered priests for whom the Tathāgata also compiled an incantation.
 
@@ -198,7 +198,7 @@ Translated by Charles Patton
 
 33. He then commanded his fourfold army to beat their chariots with their hands, which sounded like crashing thunder. None who saw them weren’t frightened by it. He sent a great storm of wind, rain, lightning, and thunder at that great congregation that surrounded Kapila Grove.
 
-34. The Buddha addressed the monks who were delighted with this assembly: “You should know that today Māra’s host is coming with evil intent!”
+34. The Buddha addressed the bhikkhus who were delighted with this assembly: “You should know that today Māra’s host is coming with evil intent!”
 
 35. He then said in verse:
 

@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC149"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC70]] 🌐 [[BU-PC72]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 8 Saha-Dhammika-Vaggo - 8 Legitimate Correction
 ## BU-PC71 - Sahadhammika - Legitimate Correction
 
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC149"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya \"na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī\"ti, pācittiyaṃ. sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci | If a monk, when legitimately corrected by the monks, says, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law,” he commits an offense entailing confession. A monk who is training should understand, should question, should enquire. This is the proper procedure |
+| Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya \"na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī\"ti, pācittiyaṃ. sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci | If a monk, when legitimately corrected by the bhikkhus, says, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law,” he commits an offense entailing confession. A monk who is training should understand, should question, should enquire. This is the proper procedure |
 
 
 > [!Info] Analisis of the rule
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-PC149"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC71 | [[BNI-PC149]] | Vin.3.1–3.40 |
 

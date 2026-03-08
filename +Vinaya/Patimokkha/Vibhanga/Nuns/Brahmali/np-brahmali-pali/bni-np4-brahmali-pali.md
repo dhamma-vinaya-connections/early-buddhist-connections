@@ -30,16 +30,16 @@ That lay follower then brought back from a shop a _kahāpaṇa_’s worth of ghe
 
 That lay follower then complained and criticized her, “How could Venerable Thullanandā ask for one thing and then for something else?”
 
-2The nuns heard the complaints of that lay follower, and the nuns of few desires complained and criticized her … Those nuns then told the monks, who in turn told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks:
+2The nuns heard the complaints of that lay follower, and the nuns of few desires complained and criticized her … Those nuns then told the bhikkhus, who in turn told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“How could the nun Thullanandā ask for one thing and then for something else? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How could the nun Thullanandā ask for one thing and then for something else? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -55,7 +55,7 @@ The Buddha rebuked her …
 6**Then for something else:** apart from that thing, if she asks for something else, then for the effort there is an act of wrong conduct. When she gets it, it becomes subject to relinquishment.
 
 
-It is to be relinquished to a saṅgha, a group, or an individual nun. “And, monks, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1, paragraph 9]] with appropriate substitutions.
+It is to be relinquished to a saṅgha, a group, or an individual nun. “And, bhikkhus, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1, paragraph 9]] with appropriate substitutions.
 
 … ‘Venerables, this thing, which I asked for after asking for something else, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this back to you.’”
 

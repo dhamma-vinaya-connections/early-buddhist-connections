@@ -54,7 +54,7 @@ don’t give up sorrow, lamentation, and stinginess.
 That’s why the sages, seers of sanctuary,  
 left possessions behind and wandered.
 
-810 For a mendicant who lives withdrawn,  
+810 For a bhikkhu who lives withdrawn,  
 frequenting a secluded seat,  
 they say it’s fitting  
 to not show themselves in a home.

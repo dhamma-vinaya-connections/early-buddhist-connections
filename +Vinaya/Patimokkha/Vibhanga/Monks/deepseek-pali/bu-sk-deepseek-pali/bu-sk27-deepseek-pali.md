@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 601. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū pallatthikāya [pallattikāya (ka.)] antaraghare nisīdanti…pe….
 
-## 601.At that time the Blessed One was dwelling at Savatthi, in Jeta Grove, Anathapindika's Monastery. Now at that time the group-of-six monks were sitting cross-legged indoors...and so on.
+## 601.At that time the Blessed One was dwelling at Savatthi, in Jeta Grove, Anathapindika's Monastery. Now at that time the group-of-six bhikkhus were sitting cross-legged indoors...and so on.
 
 ‘‘Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā’’ti.
 

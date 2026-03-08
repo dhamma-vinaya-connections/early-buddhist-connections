@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those mendicants who are deceivers, stubborn, flatterers, frauds, insolent, and scattered: they are no mendicants of mine. They’ve left this teaching and training, and they don’t achieve growth, improvement, or maturity in this teaching and training.
+1“bhikkhus, those bhikkhus who are deceivers, stubborn, flatterers, frauds, insolent, and scattered: they are no bhikkhus of mine. They’ve left this teaching and training, and they don’t achieve growth, improvement, or maturity in this teaching and training.
 
-But those mendicants who are genuine, not flatterers, wise, amenable, and serene: they are mendicants of mine. They haven’t left this teaching and training, and they achieve growth, improvement, or maturity in this teaching and training.
+But those bhikkhus who are genuine, not flatterers, wise, amenable, and serene: they are bhikkhus of mine. They haven’t left this teaching and training, and they achieve growth, improvement, or maturity in this teaching and training.
 
 2Those who are deceivers, stubborn, flatterers, and frauds,  
 insolent and scattered:  

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 54
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three searches. Which three? The search for sensuality, the search for becoming, the search for a holy life. These are the three searches.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three searches. Which three? The search for sensuality, the search for becoming, the search for a holy life. These are the three searches.”
 
 Centered,
 
@@ -32,7 +32,7 @@ where they cease,
 
 & the path to their ending.
 
-With the ending of searches, a monk
+With the ending of searches, a bhikkhu
 
 free from hunger
 

@@ -20,10 +20,10 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four incredible and amazing things about Ānanda. What four?
+1“bhikkhus, there are these four incredible and amazing things about Ānanda. What four?
 
 
-If an assembly of monks goes to see Ānanda, they’re uplifted by seeing him and uplifted by hearing him speak. And when he falls silent, they’ve never had enough.
+If an assembly of bhikkhus goes to see Ānanda, they’re uplifted by seeing him and uplifted by hearing him speak. And when he falls silent, they’ve never had enough.
 
 
 2-4If an assembly of nuns … laymen … or laywomen goes to see Ānanda, they’re uplifted by seeing him and uplifted by hearing him speak. And when he falls silent, they’ve never had enough.

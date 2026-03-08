@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four things can be known in four situations. What four?
+1“bhikkhus, these four things can be known in four situations. What four?
 
 You can get to know a person’s ethics by living with them. But only after a long time, not casually; only when paying attention, not when inattentive; and only by the wise, not the witless.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four powers. What four? The powers of wisdom, energy, blamelessness, and inclusiveness. These are the four powers.”
+1“bhikkhus, there are these four powers. What four? The powers of wisdom, energy, blamelessness, and inclusiveness. These are the four powers.”
 
 1"Cattārimāni, bhikkhave, balāni. Katamāni cattāri? Paññābalaṁ, vīriyabalaṁ, anavajjabalaṁ, saṅgahabalaṁ – imāni kho, bhikkhave, cattāri balānī"ti.
 

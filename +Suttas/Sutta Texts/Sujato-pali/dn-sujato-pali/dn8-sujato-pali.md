@@ -68,7 +68,7 @@ Then the naked ascetic Kassapa went up to the Buddha and exchanged greetings wit
 
 #### 4. The Uselessness of Self-Mortification
 
-18-20“Kassapa, someone may practice all those forms of self-mortification, but if they haven’t developed and realized any accomplishment in ethics, mind, and wisdom, they are far from being a true ascetic or brahmin. But take a mendicant who develops a heart of love, free of enmity and ill will. And they realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. When they achieve this, they’re called a mendicant who is a ‘true ascetic’ and also ‘a true brahmin’.
+18-20“Kassapa, someone may practice all those forms of self-mortification, but if they haven’t developed and realized any accomplishment in ethics, mind, and wisdom, they are far from being a true ascetic or brahmin. But take a bhikkhu who develops a heart of love, free of enmity and ill will. And they realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. When they achieve this, they’re called a bhikkhu who is a ‘true ascetic’ and also ‘a true brahmin’.
 
 
 21When he had spoken, Kassapa said to the Buddha: “It’s hard, Master Gotama, to be a true ascetic or a true brahmin.”
@@ -79,7 +79,7 @@ Then the naked ascetic Kassapa went up to the Buddha and exchanged greetings wit
 22For it would be quite possible for a householder or a householder’s child — or even the bonded maid who carries the water-jar — to practice all those forms of self-mortification.
 
 
-23-29It’s because there’s something other than just that much, something other than that self-mortification that it’s so very hard to be a true ascetic or brahmin. And that’s why it is appropriate to say that it’s hard to be a true ascetic or brahmin. Take a mendicant who develops a heart of love, free of enmity and ill will. And they realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. When they achieve this, they’re called a mendicant who is a ‘true ascetic’ and also ‘a true brahmin’.
+23-29It’s because there’s something other than just that much, something other than that self-mortification that it’s so very hard to be a true ascetic or brahmin. And that’s why it is appropriate to say that it’s hard to be a true ascetic or brahmin. Take a bhikkhu who develops a heart of love, free of enmity and ill will. And they realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. When they achieve this, they’re called a bhikkhu who is a ‘true ascetic’ and also ‘a true brahmin’.
 
 
 30When he had spoken, Kassapa said to the Buddha: “It’s hard, Master Gotama, to know a true ascetic or a true brahmin.”
@@ -89,19 +89,19 @@ Then the naked ascetic Kassapa went up to the Buddha and exchanged greetings wit
 31For it would be quite possible for a householder or a householder’s child — or even the bonded maid who carries the water-jar — to know that someone is practicing all those forms of self-mortification.
 
 
-32-38It’s because there’s something other than just that much, something other than that self-mortification that it’s so very hard to know a true ascetic or brahmin. And that’s why it is appropriate to say that it’s hard to know a true ascetic or brahmin. Take a mendicant who develops a heart of love, free of enmity and ill will. And they realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. When they achieve this, they’re called a mendicant who is a ‘true ascetic’ and also ‘a true brahmin’.”
+32-38It’s because there’s something other than just that much, something other than that self-mortification that it’s so very hard to know a true ascetic or brahmin. And that’s why it is appropriate to say that it’s hard to know a true ascetic or brahmin. Take a bhikkhu who develops a heart of love, free of enmity and ill will. And they realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. When they achieve this, they’re called a bhikkhu who is a ‘true ascetic’ and also ‘a true brahmin’.”
 
 #### 5. The Accomplishment of Ethics, Immersion, and Wisdom
 
 39When he had spoken, Kassapa said to the Buddha: “But Master Gotama, what is that accomplishment in ethics, in mind, and in wisdom?”
 
-“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … Seeing danger in the slightest fault, a mendicant keeps the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They guard the sense doors, have mindfulness and situational awareness, and are content.
+“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … Seeing danger in the slightest fault, a bhikkhu keeps the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They guard the sense doors, have mindfulness and situational awareness, and are content.
 
-40And how is a mendicant accomplished in ethics? It’s when a mendicant gives up killing living creatures. They renounce the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. This pertains to their accomplishment in ethics. …
+40And how is a bhikkhu accomplished in ethics? It’s when a bhikkhu gives up killing living creatures. They renounce the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. This pertains to their accomplishment in ethics. …
 
 41There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by unworthy branches of knowledge, by wrong livelihood. … They refrain from such unworthy branches of knowledge, such wrong livelihood. This pertains to their accomplishment in ethics.
 
-42A mendicant thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. It’s like a king who has defeated his enemies. He sees no danger from his foes in any quarter. In the same way, a mendicant thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves. That’s how a mendicant is accomplished in ethics. This, Kassapa, is that accomplishment in ethics. … They enter and remain in the first jhāna … This pertains to their accomplishment in mind. … They enter and remain in the second jhāna … third jhāna … fourth jhāna. This pertains to their accomplishment in mind. This, Kassapa, is that accomplishment in mind.
+42A bhikkhu thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. It’s like a king who has defeated his enemies. He sees no danger from his foes in any quarter. In the same way, a bhikkhu thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves. That’s how a bhikkhu is accomplished in ethics. This, Kassapa, is that accomplishment in ethics. … They enter and remain in the first jhāna … This pertains to their accomplishment in mind. … They enter and remain in the second jhāna … third jhāna … fourth jhāna. This pertains to their accomplishment in mind. This, Kassapa, is that accomplishment in mind.
 
 43When their mind is immersed like this, they extend and project it toward knowledge and vision … This pertains to their accomplishment in wisdom. … They understand: ‘… there is no return to any state of existence.’ This pertains to their accomplishment in wisdom. This, Kassapa, is that accomplishment in wisdom.
 
@@ -127,11 +127,11 @@ Then the naked ascetic Kassapa went up to the Buddha and exchanged greetings wit
 
 52Kassapa, this one time I was staying near Rājagaha, on the Vulture’s Peak Mountain. There a certain practitioner of self-mortification named Nigrodha asked me about the higher mortification in disgust of sin. I answered his question. He was extremely happy with my answer.”
 
-“Sir, who wouldn’t be extremely happy after hearing the Buddha’s teaching? For I too am extremely happy after hearing the Buddha’s teaching! Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, so too the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
+“Sir, who wouldn’t be extremely happy after hearing the Buddha’s teaching? For I too am extremely happy after hearing the Buddha’s teaching! Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, so too the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
 
-53“Kassapa, if someone formerly ordained in another sect wishes to take the going forth, the ordination in this teaching and training, they must spend four months on probation. When four months have passed, if the mendicants are satisfied, they’ll give the going forth, the ordination into monkhood. However, I have recognized individual differences in this matter.”
+53“Kassapa, if someone formerly ordained in another sect wishes to take the going forth, the ordination in this teaching and training, they must spend four months on probation. When four months have passed, if the bhikkhus are satisfied, they’ll give the going forth, the ordination into bhikkhuhood. However, I have recognized individual differences in this matter.”
 
-“Sir, if four months probation are required in such a case, I’ll spend four years on probation. When four years have passed, if the mendicants are satisfied, let them give me the going forth, the ordination into monkhood.”
+“Sir, if four months probation are required in such a case, I’ll spend four years on probation. When four years have passed, if the bhikkhus are satisfied, let them give me the going forth, the ordination into bhikkhuhood.”
 
 
 54And the naked ascetic Kassapa received the going forth, the ordination in the Buddha’s presence. Not long after his ordination, Venerable Kassapa, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme end of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.

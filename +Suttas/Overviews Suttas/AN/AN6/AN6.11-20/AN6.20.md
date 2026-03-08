@@ -47,11 +47,11 @@ parallels_partilal: "[[AN8.74]]"
 > Many of those who practice mindfulness of death don’t do so urgently enough. Death might come to us at any moment
 
 > [!info] Key Excerpts 
-> Upon checking, a mendicant knows that 
+> Upon checking, a bhikkhu knows that 
 There are such bad, unskillful qualities, they should apply outstanding enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness
 > 
 > Who develop mindfulness of death by wishing 
-To live as long as it takes to chew and swallow a single mouthful … or to live as long as it takes to breathe these are called mendicants who live diligently
+To live as long as it takes to chew and swallow a single mouthful … or to live as long as it takes to breathe these are called bhikkhus who live diligently
 > 
 
 > [!info] Similes

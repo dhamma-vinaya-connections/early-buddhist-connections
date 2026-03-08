@@ -20,48 +20,48 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time the nun Thullanandā was associating with a family from which she received a regular meal.
 
-Now on one occasion the head of that family had invited some senior monks. On the same day, the nun Thullanandā robed up in the morning, took her bowl and robe, and went to that family. And she asked the head of the family, “Why have you prepared so much food?”
+Now on one occasion the head of that family had invited some senior bhikkhus. On the same day, the nun Thullanandā robed up in the morning, took her bowl and robe, and went to that family. And she asked the head of the family, “Why have you prepared so much food?”
 
-“Because, Venerable, I’ve invited the senior monks.”
+“Because, Venerable, I’ve invited the senior bhikkhus.”
 
-“But who are those senior monks?”
+“But who are those senior bhikkhus?”
 
 
 “Venerable Sāriputta, Venerable Mahāmoggallāna, Venerable Mahākaccāna, Venerable Mahākoṭṭhika, Venerable Mahākappina, Venerable Mahācunda, Venerable Anuruddha, Venerable Revata, Venerable Upāli, Venerable Ānanda, and Venerable Rāhula.”
 
-“But why do you invite such inferior monks instead of the great ones?”
+“But why do you invite such inferior bhikkhus instead of the great ones?”
 
 
-2“Who are these great monks?”
+2“Who are these great bhikkhus?”
 
 “Venerable Devadatta, Venerable Kokālika, Venerable Kaṭamodakatissaka, Venerable Khaṇḍadeviyā-putta, and Venerable Samuddadatta.”
 
-While this conversation was taking place, the senior monks entered. Thullanandā said, “Is it true that you’ve invited these great monks?”
+While this conversation was taking place, the senior bhikkhus entered. Thullanandā said, “Is it true that you’ve invited these great bhikkhus?”
 
 “Just before you called them inferior and now you call them great.” And that lay person threw her out of the house and made an end of her regular meal.
 
-3The monks of few desires complained and criticized Devadatta, “How could Devadatta eat almsfood knowing that a nun had it prepared?” … “Is it true, Devadatta, that you did this?”
+3The bhikkhus of few desires complained and criticized Devadatta, “How could Devadatta eat almsfood knowing that a nun had it prepared?” … “Is it true, Devadatta, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 4‘If a monk eats almsfood knowing that a nun had it prepared, he commits an offense entailing confession.’”
 
-5In this way the Buddha laid down this training rule for the monks.
+5In this way the Buddha laid down this training rule for the bhikkhus.
 
 
 6Soon afterwards a monk who had earlier left Rājagaha returned to see his family. Because it was a long time since he had last returned, people prepared food for him respectfully. And the nun who was associating with that family said to them, “Give food to that monk.” The monk thought, “The Buddha has prohibited us from eating almsfood knowing that a nun had it prepared,” and being afraid of wrongdoing, he did not accept it. And because he was unable to walk for alms, he missed his meal.
 
-After returning to the monastery, he told the monks what had happened, and they in turn told the Buddha.
+After returning to the monastery, he told the bhikkhus what had happened, and they in turn told the Buddha.
 
 
-7Soon afterwards the Buddha gave a teaching and addressed the monks:
+7Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to eat almsfood knowing that a nun had it prepared if the householder had intended to prepare it anyway.
+“bhikkhus, I allow you to eat almsfood knowing that a nun had it prepared if the householder had intended to prepare it anyway.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

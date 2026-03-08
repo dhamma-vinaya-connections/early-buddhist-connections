@@ -36,7 +36,7 @@ When you put this dilemma to him, the Buddha won’t be able to either spit it o
 “Yes, sir,” replied Abhaya. He got up from his seat, bowed, and respectfully circled Nigaṇṭha Nāṭaputta, keeping him on his right. Then he went to the Buddha, bowed, and sat down to one side.
 
 
-2Then he looked up at the sun and thought: “It’s too late to refute the Buddha’s doctrine today. I shall refute his doctrine in my own home tomorrow.” He said to the Buddha: “Sir, may the Buddha please accept tomorrow’s meal from me, together with three other monks.” The Buddha consented in silence.
+2Then he looked up at the sun and thought: “It’s too late to refute the Buddha’s doctrine today. I shall refute his doctrine in my own home tomorrow.” He said to the Buddha: “Sir, may the Buddha please accept tomorrow’s meal from me, together with three other bhikkhus.” The Buddha consented in silence.
 
 Then, knowing that the Buddha had consented, Abhaya got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 

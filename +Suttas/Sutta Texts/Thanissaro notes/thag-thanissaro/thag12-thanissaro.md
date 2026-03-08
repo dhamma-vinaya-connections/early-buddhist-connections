@@ -150,7 +150,7 @@ I showed reverence to many.
 
 Then I saw the One Self-awakened,
 
-arrayed with a squadron of monks,
+arrayed with a squadron of bhikkhus,
 
 the Great Hero, entering the city,
 
@@ -182,7 +182,7 @@ The compassionate Teacher,
 
 sympathetic to all the world, said:
 
-“Come, monk.”
+“Come, bhikkhu.”
 
 That was my formal Acceptance.
 

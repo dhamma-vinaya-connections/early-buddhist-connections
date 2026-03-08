@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 19
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “One thing, monks, when arising in the world, arises for the welfare of many, for the happiness of many, for the welfare & happiness of many beings, both human & divine. Which one thing? Concord in the Saṅgha. When the Saṅgha is in concord, there are no arguments with one another, no abuse of one another, no ganging up on one another, no abandoning of one another. There those with little confidence [in the teaching] become confident, while those already confident become even more so.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “One thing, bhikkhus, when arising in the world, arises for the welfare of many, for the happiness of many, for the welfare & happiness of many beings, both human & divine. Which one thing? Concord in the Saṅgha. When the Saṅgha is in concord, there are no arguments with one another, no abuse of one another, no ganging up on one another, no abandoning of one another. There those with little confidence [in the teaching] become confident, while those already confident become even more so.”
 
 Blissful is concord in the Saṅgha.
 

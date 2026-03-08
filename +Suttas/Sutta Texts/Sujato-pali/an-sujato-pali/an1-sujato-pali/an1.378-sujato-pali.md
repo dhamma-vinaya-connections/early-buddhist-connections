@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-“Mendicants, this is definitely something worth having, that is, living in the wilderness … eating only alms-food … wearing rag robes … having just three robes … teaching Dhamma … memorizing the texts on monastic training … being very learned … being respected … being well-presented … having a following … having a large following … coming from a good family … being handsome … being a good speaker … having few wishes … having good health.”
+“bhikkhus, this is definitely something worth having, that is, living in the wilderness … eating only alms-food … wearing rag robes … having just three robes … teaching Dhamma … memorizing the texts on monastic training … being very learned … being respected … being well-presented … having a following … having a large following … coming from a good family … being handsome … being a good speaker … having few wishes … having good health.”
 
 "Addhamidaṁ, bhikkhave, lābhānaṁ yadidaṁ āraññikattaṁ … pe … piṇḍapātikattaṁ … paṁsukūlikattaṁ … tecīvarikattaṁ … dhammakathikattaṁ … vinayadharattaṁ … bāhusaccaṁ … thāvareyyaṁ … ākappasampadā … parivārasampadā … mahāparivāratā … kolaputti … vaṇṇapokkharatā … kalyāṇavākkaraṇatā … appicchatā … appābādhatā"ti.
 

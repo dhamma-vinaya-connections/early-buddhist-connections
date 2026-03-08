@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are two people, mendicants, whose death is regretted by many people. What two? The Realized One, the perfected one, the fully awakened Buddha; and the wheel-turning monarch. These are the two people, mendicants, whose death is regretted by many people.”
+1“There are two people, bhikkhus, whose death is regretted by many people. What two? The Realized One, the perfected one, the fully awakened Buddha; and the wheel-turning monarch. These are the two people, bhikkhus, whose death is regretted by many people.”
 
 1"Dvinnaṁ, bhikkhave, puggalānaṁ kālakiriyā bahuno janassa anutappā hoti. Katamesaṁ dvinnaṁ? Tathāgatassa ca arahato sammāsambuddhassa, rañño ca cakkavattissa. Imesaṁ kho, bhikkhave, dvinnaṁ puggalānaṁ kālakiriyā bahuno janassa anutappā hotī"ti.
 

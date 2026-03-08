@@ -17,9 +17,9 @@ language: "English"
 
 10. Unmatched
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “There’s one person who appears in the world who’s unmatched by others, who can’t be imitated, who walks alone without a companion, and who has no peer. None among gods and humans can compare to him, nor does their belief, precepts, learning, generosity, or wisdom compare to his. Who is that one person? He’s called be the Tathāgata, Arhat, and Correctly and Perfectly Awakened One. He is known as the one person who appears in the world who’s unmatched by others, who can’t be imitated, who walks alone without a companion, and who has no peer. None among gods and humans can compare to him, for his belief, precepts, learning, generosity, and wisdom are all complete.
-3. “Therefore, monks, you should pay respect to the Buddha. Thus, monks, you should train yourselves.”
-4. When the monks heard what the Buddha taught, they rejoiced and approved.
+2. It was then that the Bhagavān addressed the bhikkhus, “There’s one person who appears in the world who’s unmatched by others, who can’t be imitated, who walks alone without a companion, and who has no peer. None among gods and humans can compare to him, nor does their belief, precepts, learning, generosity, or wisdom compare to his. Who is that one person? He’s called be the Tathāgata, Arhat, and Correctly and Perfectly Awakened One. He is known as the one person who appears in the world who’s unmatched by others, who can’t be imitated, who walks alone without a companion, and who has no peer. None among gods and humans can compare to him, for his belief, precepts, learning, generosity, and wisdom are all complete.
+3. “Therefore, bhikkhus, you should pay respect to the Buddha. Thus, bhikkhus, you should train yourselves.”
+4. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 Summary Verse
 - [1] Asura, [2] beneficial, [3] single-file path,    
     [4] Light, [5] darkness,    

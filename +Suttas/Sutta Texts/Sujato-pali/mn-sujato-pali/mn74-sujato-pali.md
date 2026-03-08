@@ -52,14 +52,14 @@ Seeing this, a learned noble disciple grows disillusioned with pleasant, painful
 
 They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’
 
-A mendicant whose mind is freed like this doesn’t side with anyone or fight with anyone. They speak the language of the world without misapprehending it.”
+A bhikkhu whose mind is freed like this doesn’t side with anyone or fight with anyone. They speak the language of the world without misapprehending it.”
 
 
 8Now at that time Venerable Sāriputta was standing behind the Buddha fanning him. Then he thought: “It seems the Buddha speaks of giving up and letting go all these things through direct knowledge.” Reflecting like this, Venerable Sāriputta’s mind was freed from the defilements by not grasping.
 
 And the stainless, immaculate vision of the Dhamma arose in the wanderer Dīghanakha: “Everything that has a beginning has an end.” Then Dīghanakha saw, attained, understood, and fathomed the Dhamma. He went beyond doubt, got rid of indecision, and became self-assured and independent of others regarding the Teacher’s instructions. He said to the Buddha:
 
-“Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
+“Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

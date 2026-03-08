@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
 > ◄  [[bu-pc46-horner]] 📜  [[bu-pc48-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 47
+# bhikkhus’ Expiation (_Pācittiya_) 47
 
 *Bu-Pc.47.1.1* *BD.2.368* … among the Sakyans in Kapilavatthu at the Banyan monastery. Now at that time Mahānāma the Sakyan[^1] had abundant medicine. Then Mahānāma the Sakyan approached the lord, and having approached, having greeted the lord, he sat down at a respectful distance. As he was sitting down at a respectful distance, Mahānāma the Sakyan spoke thus to the lord:
 
@@ -15,47 +15,47 @@ language: "English"
 
 “Very good, Mahānāma; well then, you, Mahānāma, invite the Order (to accept) medicine for four months.”
 
-The monks, being scrupulous, did not consent. They told this matter to the lord. He said:
+The bhikkhus, being scrupulous, did not consent. They told this matter to the lord. He said:
 
-“I allow you, monks, to accept[^2] an invitation (to accept) a requisite for four months.”
+“I allow you, bhikkhus, to accept[^2] an invitation (to accept) a requisite for four months.”
 
 * * *
 
-*Bu-Pc.47.1.2* Then monks asked Mahānāma the Sakyan for a little medicine, (although) Mahānāma the Sakyan had abundant medicine as before.[^3] A second time did Mahānāma the Sakyan approach the lord … spoke thus to the lord:
+*Bu-Pc.47.1.2* Then bhikkhus asked Mahānāma the Sakyan for a little medicine, (although) Mahānāma the Sakyan had abundant medicine as before.[^3] A second time did Mahānāma the Sakyan approach the lord … spoke thus to the lord:
 
 “I want, lord, to invite the Order (to accept) medicine for an additional four months.”
 
 “Very good, Mahānāma; well then, you, Mahānāma, invite the Order (to accept) medicine for an additional four months.”
 
-*BD.2.369* The monks, being scrupulous, did not consent. They told this matter to the lord. He said:
+*BD.2.369* The bhikkhus, being scrupulous, did not consent. They told this matter to the lord. He said:
 
-“I allow you, monks, to accept a renewed invitation.”[^4]
+“I allow you, bhikkhus, to accept a renewed invitation.”[^4]
 
 * * *
 
-*Bu-Pc.47.1.3* Then monks asked Mahānāma the Sakyan for just[^5] a little medicine, (although) Mahānāma the Sakyan had abundant medicine as before. A third time *Vin.4.102* did Mahānāma the Sakyan approach the lord … spoke thus to the lord:
+*Bu-Pc.47.1.3* Then bhikkhus asked Mahānāma the Sakyan for just[^5] a little medicine, (although) Mahānāma the Sakyan had abundant medicine as before. A third time *Vin.4.102* did Mahānāma the Sakyan approach the lord … spoke thus to the lord:
 
 “I want, lord, to invite the Order (to accept) medicine for life.”[^6]
 
 “Very good, Mahānāma; well then, you, Mahānāma, invite the Order (to accept) medicine for life.”
 
-The monks, being scrupulous, did not consent. They told this matter to the lord. He said:
+The bhikkhus, being scrupulous, did not consent. They told this matter to the lord. He said:
 
-“I allow you, monks, to accept a permanent invitation.”[^7]
+“I allow you, bhikkhus, to accept a permanent invitation.”[^7]
 
 * * *
 
-*Bu-Pc.47.1.4* Now at that time the group of six monks had become improperly dressed, improperly clothed, not decently attired.[^8] Mahānāma the Sakyan became a speaker[^9]:
+*Bu-Pc.47.1.4* Now at that time the group of six bhikkhus had become improperly dressed, improperly clothed, not decently attired.[^8] Mahānāma the Sakyan became a speaker[^9]:
 
 “Why are you, honoured sirs, improperly dressed, improperly clothed, not decently attired? On going forth, should not one become properly dressed, properly clothed, decently attired?”
 
-The group of six monks grumbled at Mahānāma the *BD.2.370* Sakyan. Then it occurred to the group of six monks: “Now, in what way could we bring shame[^10] to Mahānāma the Sakyan?” Then it occurred to the group of six monks: “The Order is invited by Mahānāma the Sakyan (to accept) medicine. Come, your reverences, let us ask Mahānāma the Sakyan for ghee.” Then the group of six monks approached Mahānāma the Sakyan, and having approached they spoke thus to Mahānāma the Sakyan:
+The group of six bhikkhus grumbled at Mahānāma the *BD.2.370* Sakyan. Then it occurred to the group of six bhikkhus: “Now, in what way could we bring shame[^10] to Mahānāma the Sakyan?” Then it occurred to the group of six bhikkhus: “The Order is invited by Mahānāma the Sakyan (to accept) medicine. Come, your reverences, let us ask Mahānāma the Sakyan for ghee.” Then the group of six bhikkhus approached Mahānāma the Sakyan, and having approached they spoke thus to Mahānāma the Sakyan:
 
 “Sir, we want a _doṇa_[^11] measure of ghee.”
 
 “Honoured sirs, wait this day (only)[^12]; people are going to the cattle-pen to get ghee; you may fetch it in the morning.”
 
-A second time … A third time did the group of six monks speak thus: … “… in the morning.”
+A second time … A third time did the group of six bhikkhus speak thus: … “… in the morning.”
 
 “Do you, sir, not give what you invited (us to accept) because you do not desire to give what you invited (us to accept)?”
 
@@ -63,23 +63,23 @@ Then Mahānāma the Sakyan looked down upon, criticised, spread it about, saying
 
 “How can these revered sirs, being told: ‘Wait this day (only), honoured sirs,’ not wait?”
 
-Monks heard Mahānāma the Sakyan as he … spread it about. Those who were modest monks … spread it about, saying:
+bhikkhus heard Mahānāma the Sakyan as he … spread it about. Those who were modest bhikkhus … spread it about, saying:
 
-“How can this group of six monks being told by Mahānāma the Sakyan, ‘Wait this day (only), honoured sirs,’ not wait?” …
+“How can this group of six bhikkhus being told by Mahānāma the Sakyan, ‘Wait this day (only), honoured sirs,’ not wait?” …
 
-“Is it true, as is said, that you, monks, being told … did not wait?”
+“Is it true, as is said, that you, bhikkhus, being told … did not wait?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, being told by Mahānāma the Sakyan … not wait? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, being told by Mahānāma the Sakyan … not wait? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“When a monk is not ill, an invitation (to accept) a *BD.2.371* requisite[^13] for four months may be accepted, *Vin.4.103* unless there be a renewed invitation, unless there be a permanent invitation. If one should accept for longer than that, there is an offence of expiation.”
+“When a bhikkhu is not ill, an invitation (to accept) a *BD.2.371* requisite[^13] for four months may be accepted, *Vin.4.103* unless there be a renewed invitation, unless there be a permanent invitation. If one should accept for longer than that, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.47.2.1* When a monk is not ill, an invitation (to accept) a requisite for four months may be accepted means: an invitation (to accept) a requisite may be accepted by one who is ill.[^14]
+*Bu-Pc.47.2.1* When a bhikkhu is not ill, an invitation (to accept) a requisite for four months may be accepted means: an invitation (to accept) a requisite may be accepted by one who is ill.[^14]
 
 And a renewed invitation may be accepted means: if he thinks, ‘When I become ill, then I will ask.’
 
@@ -111,7 +111,7 @@ The Seventh
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

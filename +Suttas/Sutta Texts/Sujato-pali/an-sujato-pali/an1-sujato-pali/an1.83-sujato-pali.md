@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that is so very beneficial as diligence. Diligence is very beneficial.”
+1“bhikkhus, I do not see a single thing that is so very beneficial as diligence. Diligence is very beneficial.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ mahato atthāya saṁvattati yathayidaṁ, bhikkhave, appamādo. Appamādo, bhikkhave, mahato atthāya saṁvattatī"ti.
 

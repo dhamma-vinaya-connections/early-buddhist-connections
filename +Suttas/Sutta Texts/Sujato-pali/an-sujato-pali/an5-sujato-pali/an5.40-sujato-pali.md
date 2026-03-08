@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, great sal trees grow in five ways supported by the Himalayas, the king of mountains. What five? The branches, leaves, and foliage; the bark; the shoots; the softwood; and the hardwood. Great sal trees grow in these five ways supported by the Himalayas, the king of mountains.
+1“bhikkhus, great sal trees grow in five ways supported by the Himalayas, the king of mountains. What five? The branches, leaves, and foliage; the bark; the shoots; the softwood; and the hardwood. Great sal trees grow in these five ways supported by the Himalayas, the king of mountains.
 
 In the same way, a family grows in five ways supported by a family head with faith. What five? Faith, ethics, learning, generosity, and wisdom. A family grows in these five ways supported by a family head with faith.
 

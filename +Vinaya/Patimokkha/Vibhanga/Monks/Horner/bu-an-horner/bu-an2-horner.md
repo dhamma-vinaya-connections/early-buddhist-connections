@@ -7,15 +7,15 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN2]]
 > ◄  [[bu-an1-horner]] 📜  [[BU-NP1]] ►
 
-# Monks’ Undetermined (_Aniyata_) 2
+# bhikkhus’ Undetermined (_Aniyata_) 2
 
 *BD.1.336* *Bu-An.2.1.1* At one time the enlightened one, the lord, was staying at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s park. At that time the venerable Udāyin said: “It has been forbidden by the lord to sit together with womenfolk, a man and a woman, in a secret place on a secluded, convenient seat,” but he sat together with that young girl, the one with the other, in a secret place, conversing at the right time, talking _dhamma_ at the right time. A second time did Visākhā, Migāra’s mother, being invited, come to that family. Visākhā saw the venerable Udāyin sitting together with that girl, the one with the other, in a secret place, and seeing them she said to the venerable Udāyin:
 
 “This, honoured sir, is not right, it is not suitable for the master to sit together with womenfolk, a man and a woman, in a secret place. Although, honoured sir, the master has no desire for that thing, unbelieving people are difficult to convince.”
 
-But the venerable Udāyin took no heed after he had been spoken to thus by Visākhā. Then Visākhā, when she had departed, told this matter to the monks. Those who were modest monks … \= *Bu-An.1.1*; _the words_ on a secluded, convenient seat _are omitted here_ …“And thus, monks, this course of training should be set forth:
+But the venerable Udāyin took no heed after he had been spoken to thus by Visākhā. Then Visākhā, when she had departed, told this matter to the bhikkhus. Those who were modest bhikkhus … \= *Bu-An.1.1*; _the words_ on a secluded, convenient seat _are omitted here_ …“And thus, bhikkhus, this course of training should be set forth:
 
-“And furthermore, if there is not a seat which is secluded and convenient, but sufficiently so[^1] for speaking to a woman with lewd words,[^2] then whatever monk should sit down on such a seat together with a woman, *BD.1.337* the one with the other, in a secret place, and a trustworthy woman lay-follower seeing him should speak concerning a certain one of two matters: either one entailing a formal meeting of the Order, or one involving expiation, and the monk himself acknowledging that he was sitting down, should be dealt with according to a certain one of two matters: as to whether it is one entailing a formal meeting of the Order, or as to whether it is one involving expiation. Or *Vin.3.192* that monk should be dealt with according to what that trustworthy woman lay-follower should say. This again is an undetermined matter.”
+“And furthermore, if there is not a seat which is secluded and convenient, but sufficiently so[^1] for speaking to a woman with lewd words,[^2] then whatever bhikkhu should sit down on such a seat together with a woman, *BD.1.337* the one with the other, in a secret place, and a trustworthy woman lay-follower seeing him should speak concerning a certain one of two matters: either one entailing a formal meeting of the Order, or one involving expiation, and the bhikkhu himself acknowledging that he was sitting down, should be dealt with according to a certain one of two matters: as to whether it is one entailing a formal meeting of the Order, or as to whether it is one involving expiation. Or *Vin.3.192* that bhikkhu should be dealt with according to what that trustworthy woman lay-follower should say. This again is an undetermined matter.”
 
 * * *
 
@@ -27,7 +27,7 @@ But sufficiently so for speaking to a woman with lewd words means: it is possibl
 
 Whatever means: he who.
 
-Monk means: … this is the sense in which monk is to be understood.
+bhikkhu means: … this is the sense in which bhikkhu is to be understood.
 
 On such a seat means: on a seat like that.
 
@@ -43,7 +43,7 @@ Seeing means: seeing.[^9]
 
 *Bu-An.2.2.2* *BD.1.338* Should speak concerning a certain one of two matters:
 
-Either one entailing a formal meeting of the Order, or one involving expiation, and the monk himself acknowledging that he was sitting down, should be dealt with according to a certain one of two matters: as to whether it is one entailing a formal meeting of the Order, or as to whether it is one involving expiation. Or that monk should be dealt with according to what that trustworthy woman lay-follower should say.
+Either one entailing a formal meeting of the Order, or one involving expiation, and the bhikkhu himself acknowledging that he was sitting down, should be dealt with according to a certain one of two matters: as to whether it is one entailing a formal meeting of the Order, or as to whether it is one involving expiation. Or that bhikkhu should be dealt with according to what that trustworthy woman lay-follower should say.
 
 If she should say this: “The master was seen by me when he was sitting down and coming into[^10] physical contact with a woman,” if he acknowledges this he should be dealt with for an offence.
 

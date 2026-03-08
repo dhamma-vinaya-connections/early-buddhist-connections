@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 18
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “One thing, monks, when arising in the world, arises for the detriment of many, for the unhappiness of many, for the detriment & unhappiness of many beings, both human & divine. Which one thing? Schism in the Saṅgha. When the Saṅgha is split, there are arguments with one another, there is abuse of one another, ganging up on one another, abandoning of one another. There those with little confidence [in the teaching] lose all confidence, while some of those who are confident become otherwise.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “One thing, bhikkhus, when arising in the world, arises for the detriment of many, for the unhappiness of many, for the detriment & unhappiness of many beings, both human & divine. Which one thing? Schism in the Saṅgha. When the Saṅgha is split, there are arguments with one another, there is abuse of one another, ganging up on one another, abandoning of one another. There those with little confidence [in the teaching] lose all confidence, while some of those who are confident become otherwise.”
 
 Doomed for an eon
 

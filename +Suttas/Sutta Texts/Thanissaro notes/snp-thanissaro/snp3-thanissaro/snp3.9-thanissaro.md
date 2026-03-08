@@ -702,7 +702,7 @@ Know, Vāseṭṭha: That’s Brahmā, that’s Sakka,[13](#^snp3-9-13) ^snp3-9-
 
 for those who directly know.”
 
-When this was said, the young brahmans Vāseṭṭha & Bhāradvāja said to the Blessed One: “Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. We go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Gotama remember us as lay followers who have gone for refuge from this day forward, for life.”
+When this was said, the young brahmans Vāseṭṭha & Bhāradvāja said to the Blessed One: “Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. We go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of bhikkhus. May Master Gotama remember us as lay followers who have gone for refuge from this day forward, for life.”
 
 vv. 594–656
 

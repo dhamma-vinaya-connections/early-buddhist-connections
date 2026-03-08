@@ -20,26 +20,26 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time the Buddha was staying at Āḷavī at the Aggāḷava Shrine. At that time the lay followers were coming to the monastery to listen to the Teaching. When the instruction was over, the senior monks went to their own dwellings, but the newly ordained monks lay down right there in the assembly hall together with the lay followers—absentminded, heedless, naked, muttering, and snoring. The lay followers complained and criticized them, “How can the venerables lie down absentminded, heedless, naked, muttering, and snoring?”
+1At one time the Buddha was staying at Āḷavī at the Aggāḷava Shrine. At that time the lay followers were coming to the monastery to listen to the Teaching. When the instruction was over, the senior bhikkhus went to their own dwellings, but the newly ordained bhikkhus lay down right there in the assembly hall together with the lay followers—absentminded, heedless, naked, muttering, and snoring. The lay followers complained and criticized them, “How can the venerables lie down absentminded, heedless, naked, muttering, and snoring?”
 
-2The monks heard the complaints of those lay followers, and the monks of few desires complained and criticized those monks, “How can monks lie down in the same sleeping place as people who are not fully ordained?”
+2The bhikkhus heard the complaints of those lay followers, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can bhikkhus lie down in the same sleeping place as people who are not fully ordained?”
 
-3After rebuking those newly ordained monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that monks did this?”
+3After rebuking those newly ordained bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that bhikkhus did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How could those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 4‘If a monk lies down in the same sleeping place as a person who is not fully ordained, he commits an offense entailing confession.’”
 
-5In this way the Buddha laid down this training rule for the monks.
+5In this way the Buddha laid down this training rule for the bhikkhus.
 
 
 6After staying at Āḷavī for as long as he wanted, the Buddha set out wandering toward Kosambī. When he eventually arrived, he stayed at the Badarikā Monastery.
 
-Just then the monks there said to Venerable Rāhula, “Rāhula, the Buddha has laid down a training rule that we can’t lie down in the same sleeping place as a person who’s not fully ordained. Please find another sleeping place.” Since Rāhula was not able to find a sleeping place, he lay down in the restroom.
+Just then the bhikkhus there said to Venerable Rāhula, “Rāhula, the Buddha has laid down a training rule that we can’t lie down in the same sleeping place as a person who’s not fully ordained. Please find another sleeping place.” Since Rāhula was not able to find a sleeping place, he lay down in the restroom.
 
 Then, after rising early in the morning, the Buddha went to the restroom where he cleared his throat. Rāhula, too, cleared his throat.
 
@@ -49,11 +49,11 @@ Then, after rising early in the morning, the Buddha went to the restroom where h
 
 “Why are you sitting here, Rāhula?”
 
-7Rāhula told the Buddha what had happened. Soon afterwards the Buddha gave a teaching and addressed the monks:
+7Rāhula told the Buddha what had happened. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to lie down in the same sleeping place as a person who isn’t fully ordained for two or three nights.
+“bhikkhus, I allow you to lie down in the same sleeping place as a person who isn’t fully ordained for two or three nights.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

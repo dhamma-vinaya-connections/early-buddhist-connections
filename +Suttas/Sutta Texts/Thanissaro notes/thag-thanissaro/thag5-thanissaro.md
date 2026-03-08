@@ -12,7 +12,7 @@ language: "English"
 
 ## Thag5.1  Rājadatta
 
-I, a monk,
+I, a bhikkhu,
 
 gone to the charnel ground,
 
@@ -124,7 +124,7 @@ See also: [[an6.86-thanissaro]]
 
 Stricken by sharp, wind-like pains,
 
-you, monk, living in the forest grove
+you, bhikkhu, living in the forest grove
 
 —harsh, with limited range for alms—
 

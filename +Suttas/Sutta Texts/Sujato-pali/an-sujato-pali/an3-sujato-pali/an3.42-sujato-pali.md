@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are three grounds, mendicants, by which a person with faith and confidence can be known. What three? They like to see ethical people. They like to hear the true teaching. And they live at home rid of the stain of stinginess, freely generous, open-handed, loving to let go, committed to charity, loving to give and to share. These are the three grounds by which a person with faith and confidence can be known.
+1“There are three grounds, bhikkhus, by which a person with faith and confidence can be known. What three? They like to see ethical people. They like to hear the true teaching. And they live at home rid of the stain of stinginess, freely generous, open-handed, loving to let go, committed to charity, loving to give and to share. These are the three grounds by which a person with faith and confidence can be known.
 
 2They like to see ethical people;  
 they want to hear the true teaching;  

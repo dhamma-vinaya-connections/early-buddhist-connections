@@ -44,10 +44,10 @@ parallels_partilal: "[[THAG6]].13, [[PLI-TV-KD19]], [[AN8.19]], [[AN8.20]], [[PL
 ## 🌐 Overview
 
 > [!info] Summary
-> Ven. Mahā Moggallāna expels a sham monk from a meeting of the Sangha
+> Ven. Mahā Moggallāna expels a sham bhikkhu from a meeting of the Sangha
 
 > [!info] Key Excerpts 
-> seeing eight incredible and amazing things, mendicants, the mendicants love this teaching and training
+> seeing eight incredible and amazing things, bhikkhus, the bhikkhus love this teaching and training
 > 
 > The rain saturates things that are covered up; 
 it doesn’t saturate things that are open. 

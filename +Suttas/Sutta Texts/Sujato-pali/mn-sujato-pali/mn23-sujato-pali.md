@@ -23,7 +23,7 @@ language: "English - Pali"
 Then, late at night, a glorious deity, lighting up the entire Dark Forest, went up to Kassapa the Prince, stood to one side, and said:
 
 
-2“Monk, monk! This ant-hill fumes by night and flames by day.
+2“bhikkhu, bhikkhu! This ant-hill fumes by night and flames by day.
 
 The brahmin said, ‘Take up the sword and dig, O sage!’. Taking up the sword and digging, the sage saw a bar: ‘A bar, sir!’
 
@@ -42,7 +42,7 @@ The brahmin said, ‘Throw out the axe and block! Take up the sword and dig, O s
 
 The brahmin said, ‘Throw out the lump of meat! Take up the sword and dig, O sage!’. Taking up the sword and digging, the sage saw a dragon: ‘A dragon, sir!’ The brahmin said, ‘Leave the dragon! Do not disturb the dragon! Worship the dragon!’
 
-3Mendicant, go to the Buddha and ask him about this riddle. You should remember it in line with his answer. I don’t see anyone in this world — with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans — who could provide a satisfying answer to this riddle except for the Realized One or his disciple or someone who has heard it from them.”
+3bhikkhu, go to the Buddha and ask him about this riddle. You should remember it in line with his answer. I don’t see anyone in this world — with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans — who could provide a satisfying answer to this riddle except for the Realized One or his disciple or someone who has heard it from them.”
 
 That is what that deity said before vanishing right there.
 
@@ -52,14 +52,14 @@ That is what that deity said before vanishing right there.
 “Sir, what is the ant-hill? What is the fuming by night and flaming by day? Who is the brahmin, and who the sage? What are the sword, the digging, the bar, the bullfrog, the forked path, the box, the tortoise, the axe and block, and the lump of meat? And what is the dragon?”
 
 
-5“Mendicant, ‘ant-hill’ is a term for this body made up of the four primary elements, produced by mother and father, built up from rice and porridge, liable to impermanence, to wearing away and erosion, to breaking up and destruction.
+5“bhikkhu, ‘ant-hill’ is a term for this body made up of the four primary elements, produced by mother and father, built up from rice and porridge, liable to impermanence, to wearing away and erosion, to breaking up and destruction.
 
 6Thinking and considering all night about what you did during the day — this is the fuming at night.
 
 The work you apply yourself to during the day by body, speech, and mind after thinking about it all night — this is the flaming by day.
 
 
-7‘Brahmin’ is a term for the Realized One, the perfected one, the fully awakened Buddha. ‘Sage’ is a term for the trainee mendicant.
+7‘Brahmin’ is a term for the Realized One, the perfected one, the fully awakened Buddha. ‘Sage’ is a term for the trainee bhikkhu.
 
 8‘Sword’ is a term for noble wisdom. ‘Digging’ is a term for being energetic.
 
@@ -78,7 +78,7 @@ The work you apply yourself to during the day by body, speech, and mind after th
 
 15‘Lump of meat’ is a term for desire with relishing. ‘Throw out the lump of meat’ means ‘give up desire with relishing’ …
 
-16‘Dragon’ is a term for a mendicant who has ended the defilements. This is the meaning of: ‘Leave the dragon! Do not disturb the dragon! Worship the dragon.’”
+16‘Dragon’ is a term for a bhikkhu who has ended the defilements. This is the meaning of: ‘Leave the dragon! Do not disturb the dragon! Worship the dragon.’”
 
 17That is what the Buddha said. Satisfied, Venerable Kassapa the Prince was happy with what the Buddha said.
 

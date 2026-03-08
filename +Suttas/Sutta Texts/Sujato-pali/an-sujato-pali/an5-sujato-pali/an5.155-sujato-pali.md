@@ -20,33 +20,33 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five things lead to the decline and disappearance of the true teaching. What five?
+1“bhikkhus, these five things lead to the decline and disappearance of the true teaching. What five?
 
-It’s when the mendicants don’t memorize the teaching — statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. This is the first thing that leads to the decline and disappearance of the true teaching.
+It’s when the bhikkhus don’t memorize the teaching — statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. This is the first thing that leads to the decline and disappearance of the true teaching.
 
-2Furthermore, the mendicants don’t explain the teaching in detail to others as they learned and memorized it. This is the second thing …
+2Furthermore, the bhikkhus don’t explain the teaching in detail to others as they learned and memorized it. This is the second thing …
 
-3Furthermore, the mendicants don’t make others recite the teaching in detail as they learned and memorized it. This is the third thing …
+3Furthermore, the bhikkhus don’t make others recite the teaching in detail as they learned and memorized it. This is the third thing …
 
-4Furthermore, the mendicants don’t recite the teaching in detail as they learned and memorized it. This is the fourth thing …
+4Furthermore, the bhikkhus don’t recite the teaching in detail as they learned and memorized it. This is the fourth thing …
 
-5Furthermore, the mendicants don’t think about and consider the teaching in their hearts, examining it with their minds as they learned and memorized it. This is the fifth thing that leads to the decline and disappearance of the true teaching.
+5Furthermore, the bhikkhus don’t think about and consider the teaching in their hearts, examining it with their minds as they learned and memorized it. This is the fifth thing that leads to the decline and disappearance of the true teaching.
 
 These five things lead to the decline and disappearance of the true teaching.
 
 
 6These five things lead to the continuation, persistence, and enduring of the true teaching. What five?
 
-It’s when the mendicants memorize the teaching — statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. This is the first thing that leads to the continuation, persistence, and enduring of the true teaching.
+It’s when the bhikkhus memorize the teaching — statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. This is the first thing that leads to the continuation, persistence, and enduring of the true teaching.
 
-7Furthermore, the mendicants explain the teaching in detail to others as they learned and memorized it. This is the second thing …
+7Furthermore, the bhikkhus explain the teaching in detail to others as they learned and memorized it. This is the second thing …
 
-8Furthermore, the mendicants make others recite the teaching in detail as they learned and memorized it. This is the third thing …
+8Furthermore, the bhikkhus make others recite the teaching in detail as they learned and memorized it. This is the third thing …
 
-9Furthermore, the mendicants recite the teaching in detail as they learned and memorized it. This is the fourth thing …
+9Furthermore, the bhikkhus recite the teaching in detail as they learned and memorized it. This is the fourth thing …
 
 
-10Furthermore, the mendicants think about and consider the teaching in their hearts, examining it with their minds as they learned and memorized it. This is the fifth thing that leads to the continuation, persistence, and enduring of the true teaching.
+10Furthermore, the bhikkhus think about and consider the teaching in their hearts, examining it with their minds as they learned and memorized it. This is the fifth thing that leads to the continuation, persistence, and enduring of the true teaching.
 
 These five things lead to the continuation, persistence, and enduring of the true teaching.”
 

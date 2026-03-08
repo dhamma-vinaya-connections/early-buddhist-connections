@@ -30,7 +30,7 @@ in his conduct, his mindfulness,
 
 alone, content:
 
-He’s called a monk.
+He’s called a bhikkhu.
 
 Eating moist or dry food,
 
@@ -38,7 +38,7 @@ he shouldn’t be heavily sated.
 
 With unfilled belly, with measured food,
 
-the monk should wander
+the bhikkhu should wander
 
 mindfully.
 
@@ -50,7 +50,7 @@ This is enough
 
 for the easeful abiding
 
-of a resolute monk.
+of a resolute bhikkhu.
 
 And he covers himself with a proper robe
 
@@ -60,7 +60,7 @@ This is enough
 
 for the easeful abiding
 
-of a resolute monk.
+of a resolute bhikkhu.
 
 As he sits cross-legged,
 
@@ -70,7 +70,7 @@ This is enough
 
 for the easeful abiding
 
-of a resolute monk.
+of a resolute bhikkhu.
 
 Whoever sees pleasure as pain,
 
@@ -220,7 +220,7 @@ As a mountain of rock
 
 is unwavering, well-settled,
 
-so a monk whose delusion is ended
+so a bhikkhu whose delusion is ended
 
 doesn’t quiver—
 
@@ -306,7 +306,7 @@ sloth & torpor,
 
 restlessness & uncertainty:
 
-These, for a monk, are the five defilements.
+These, for a bhikkhu, are the five defilements.
 
 The samādhi of one
 

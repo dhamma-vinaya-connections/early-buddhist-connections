@@ -29,12 +29,12 @@ When the husband returned at night, he said to his wife, “Who are they?”
 
 2Those nuns then went to Sāvatthī, where they told the nuns what had happened. The nuns of few desires complained and criticized them, “How can nuns visit families at the wrong time, put out bedding without asking permission of the owners, and then sit down and lie down on it?” …
 
-“Is it true, monks, that nuns did this?”
+“Is it true, bhikkhus, that nuns did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could nuns act like this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How could nuns act like this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

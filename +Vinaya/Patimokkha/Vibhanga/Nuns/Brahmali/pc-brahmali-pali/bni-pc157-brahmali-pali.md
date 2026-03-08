@@ -18,9 +18,9 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were misbehaving, but when a legal procedure was being done against any one of them, they would object.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were misbehaving, but when a legal procedure was being done against any one of them, they would object.
 
-On one occasion the Sangha had gathered on some business. The monks from the group of six were busy making robes and so they gave their consent to one among them. When the monks saw that only one monk from the group of six had come, they did a legal procedure against him. When he returned to the monks from the group of six, they asked him, “What did the Sangha do?”
+On one occasion the Sangha had gathered on some business. The bhikkhus from the group of six were busy making robes and so they gave their consent to one among them. When the bhikkhus saw that only one bhikkhu from the group of six had come, they did a legal procedure against him. When he returned to the bhikkhus from the group of six, they asked him, “What did the Sangha do?”
 
 “It did a legal procedure against me.”
 
@@ -28,23 +28,23 @@ On one occasion the Sangha had gathered on some business. The monks from the gro
 “We didn’t give our consent for that. If we had known that a procedure would be done against you, we wouldn’t have given our consent.”
 
 
-2The monks of few desires complained and criticized them, “How could the monks from the group of six give their consent to legitimate legal procedures and then criticize them afterwards?” …
+2The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six give their consent to legitimate legal procedures and then criticize them afterwards?” …
 
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk gives his consent to legitimate legal procedures, and then criticizes them afterwards, he commits an offense entailing confession.’”
+3‘If a bhikkhu gives his consent to legitimate legal procedures, and then criticizes them afterwards, he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 5**A legitimate legal procedure:** a legal procedure consisting of getting permission, a legal procedure consisting of one motion, a legal procedure consisting of one motion and one announcement, a legal procedure consisting of one motion and three announcements; done according to the Teaching, according to the Monastic Law, according to the Teacher’s instruction. This is called a “legitimate legal procedure”. If he gives his consent, and then criticizes the procedure, he commits an offense entailing confession.
 

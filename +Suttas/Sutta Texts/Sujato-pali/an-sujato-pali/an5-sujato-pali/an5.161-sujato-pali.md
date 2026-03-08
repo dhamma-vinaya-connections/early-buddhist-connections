@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant should use these five methods to completely get rid of resentment when it has arisen toward anyone. What five?
+1“bhikkhus, a bhikkhu should use these five methods to completely get rid of resentment when it has arisen toward anyone. What five?
 
 
 You should develop love for a person you resent. That’s how to get rid of resentment for that person.
@@ -34,7 +34,7 @@ You should disregard a person you resent, paying no attention to them. …
 
 You should apply the concept that we are the owners of our deeds to that person: ‘This venerable is the owner of their deeds and heir to their deeds. Deeds are their womb, their relative, and their refuge. They shall be the heir of whatever deeds they do, whether good or bad.’ That’s how to get rid of resentment for that person.
 
-A mendicant should use these five methods to completely get rid of resentment when it has arisen toward anyone.”
+A bhikkhu should use these five methods to completely get rid of resentment when it has arisen toward anyone.”
 
 1"Pañcime, bhikkhave, āghātapaṭivinayā yattha bhikkhuno uppanno āghāto sabbaso paṭivinetabbo. Katame pañca?
 

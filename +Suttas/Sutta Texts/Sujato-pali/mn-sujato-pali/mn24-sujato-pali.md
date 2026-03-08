@@ -20,10 +20,10 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground.
 
-Then several mendicants who had completed the rainy season residence in their native land went to the Buddha, bowed, and sat down to one side. The Buddha said to them:
+Then several bhikkhus who had completed the rainy season residence in their native land went to the Buddha, bowed, and sat down to one side. The Buddha said to them:
 
 
-2“In your native land, mendicants, which of the native mendicants is esteemed in this way: ‘Personally having few wishes, they speak to the mendicants on having few wishes. Personally having contentment, seclusion, aloofness, energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom, they speak to the mendicants on all these things. They’re an adviser and instructor, one who educates, encourages, fires up, and inspires their spiritual companions.’”
+2“In your native land, bhikkhus, which of the native bhikkhus is esteemed in this way: ‘Personally having few wishes, they speak to the bhikkhus on having few wishes. Personally having contentment, seclusion, aloofness, energy, ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom, they speak to the bhikkhus on all these things. They’re an adviser and instructor, one who educates, encourages, fires up, and inspires their spiritual companions.’”
 
 
 “Puṇṇa Mantāṇiputta, sir, is esteemed in this way in our native land.”
@@ -37,7 +37,7 @@ Then several mendicants who had completed the rainy season residence in their na
 
 5Then he set his lodgings in order and, taking his bowl and robe, set out for Sāvatthī. Eventually he came to Sāvatthī and Jeta’s Grove. He went up to the Buddha, bowed, and sat down to one side. The Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk. Then, having approved and agreed with what the Buddha said, Puṇṇa got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right. Then he went to the Dark Forest for the day’s meditation.
 
-6Then a certain mendicant went up to Venerable Sāriputta, and said to him: “Reverend Sāriputta, the mendicant named Puṇṇa, of whom you have often spoken so highly, after being inspired by a talk of the Buddha’s, left for the Dark Forest for the day’s meditation.”
+6Then a certain bhikkhu went up to Venerable Sāriputta, and said to him: “Reverend Sāriputta, the bhikkhu named Puṇṇa, of whom you have often spoken so highly, after being inspired by a talk of the Buddha’s, left for the Dark Forest for the day’s meditation.”
 
 7Sāriputta quickly grabbed his sitting cloth and followed behind Puṇṇa, keeping sight of his head. Puṇṇa plunged deep into the Dark Forest and sat at the root of a tree for the day’s meditation. And Sāriputta did likewise.
 

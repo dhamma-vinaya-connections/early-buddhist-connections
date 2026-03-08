@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, conditioned phenomena have these three characteristics. What three? Arising is evident, vanishing is evident, and change while persisting is evident. These are the three characteristics of conditioned phenomena.”
+1“bhikkhus, conditioned phenomena have these three characteristics. What three? Arising is evident, vanishing is evident, and change while persisting is evident. These are the three characteristics of conditioned phenomena.”
 
 1"Tīṇimāni, bhikkhave, saṅkhatassa saṅkhatalakkhaṇāni. Katamāni tīṇi? Uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyati. Imāni kho, bhikkhave, tīṇi saṅkhatassa saṅkhatalakkhaṇānī"ti.
 

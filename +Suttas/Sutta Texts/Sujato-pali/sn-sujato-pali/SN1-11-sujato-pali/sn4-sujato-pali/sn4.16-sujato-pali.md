@@ -22,15 +22,15 @@ language: "English - Pali"
 
 1At Sāvatthī.
 
-Now at that time the Buddha was educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk on the topic of the five grasping aggregates. And those mendicants were paying heed, paying attention, engaging wholeheartedly, and lending an ear.
+Now at that time the Buddha was educating, encouraging, firing up, and inspiring the bhikkhus with a Dhamma talk on the topic of the five grasping aggregates. And those bhikkhus were paying heed, paying attention, engaging wholeheartedly, and lending an ear.
 
-2Then Māra thought: “This ascetic Gotama is educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk on the topic of the five grasping aggregates. And the mendicants are paying heed, paying attention, engaging wholeheartedly, and lending an ear. Why don’t I go and pull the wool over their eyes?”
+2Then Māra thought: “This ascetic Gotama is educating, encouraging, firing up, and inspiring the bhikkhus with a Dhamma talk on the topic of the five grasping aggregates. And the bhikkhus are paying heed, paying attention, engaging wholeheartedly, and lending an ear. Why don’t I go and pull the wool over their eyes?”
 
 3At that time several alms bowls were placed in the open air. Then Māra the Wicked manifested in the form of an ox and approached those bowls.
 
-One of the mendicants said to another: “Mendicant, mendicant, that ox will break the bowls.”
+One of the bhikkhus said to another: “bhikkhu, bhikkhu, that ox will break the bowls.”
 
-When this was said, the Buddha said to that mendicant: “Mendicant, that’s no ox. That’s Māra the Wicked come to pull the wool over your eyes!”
+When this was said, the Buddha said to that bhikkhu: “bhikkhu, that’s no ox. That’s Māra the Wicked come to pull the wool over your eyes!”
 
 Then the Buddha, knowing that this was Māra the Wicked, addressed him in verse:
 

@@ -2,7 +2,7 @@
 sutta_code: "AN7.23"
 sutta_title:
   - "Bhikkhu-Aparihaniya "
-  - "Non-Decline For Mendicants"
+  - "Non-Decline For bhikkhus"
 sutta-version: "Ven. Bodhi"
 language: "English"
 ---
@@ -34,7 +34,7 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Rājagaha on 
 
 (6) “As long as the bhikkhus are intent on forest lodgings, \[22\] only growth is to be expected for them, not decline.
 
-(7) “As long as the bhikkhus each individually establish mindfulness \[with the intention\]: ‘How can well-behaved fellow monks who have not yet come here come, and how can well-behaved fellow monks who are already here dwell at ease?’ only growth is to be expected for them, not decline.
+(7) “As long as the bhikkhus each individually establish mindfulness \[with the intention\]: ‘How can well-behaved fellow bhikkhus who have not yet come here come, and how can well-behaved fellow bhikkhus who are already here dwell at ease?’ only growth is to be expected for them, not decline.
 
 “Bhikkhus, as long as these seven principles of non-decline continue among the bhikkhus, and the bhikkhus are seen \[established\] in them, only growth is to be expected for them, not decline.”
 

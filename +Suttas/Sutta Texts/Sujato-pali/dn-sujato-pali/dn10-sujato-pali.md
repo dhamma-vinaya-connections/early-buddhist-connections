@@ -30,7 +30,7 @@ language: "English - Pali"
 5“Yes, sir,” replied the student. He went back to Subha, and told him what had happened, adding: “This much, sir, I managed to do. At least Master Ānanda will take the opportunity to visit tomorrow.”
 
 
-6Then when the night had passed, Ānanda put on his outer robe in the morning and, taking his bowl and robe, went with Venerable Cetaka as his second monk to Subha’s home, where he sat on the seat spread out.
+6Then when the night had passed, Ānanda put on his outer robe in the morning and, taking his bowl and robe, went with Venerable Cetaka as his second bhikkhu to Subha’s home, where he sat on the seat spread out.
 
 7Then Subha went up to Ānanda, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side and said to Ānanda:
 
@@ -51,13 +51,13 @@ After some time they give up a large or small fortune, and a large or small fami
 Once they’ve gone forth, they live restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. They guard the sense doors, have mindfulness and situational awareness, and are content.
 
 
-11And how is a mendicant accomplished in ethics? It’s when a mendicant gives up killing living creatures. They renounce the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. … This pertains to their ethics.
+11And how is a bhikkhu accomplished in ethics? It’s when a bhikkhu gives up killing living creatures. They renounce the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. … This pertains to their ethics.
 
 12There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by unworthy branches of knowledge, by wrong livelihood. This includes rites for propitiation, for granting wishes, for ghosts, for the earth, for rain, for property settlement, and for preparing and consecrating house sites, and rites involving rinsing and bathing, and oblations. It also includes administering emetics, purgatives, expectorants, and phlegmagogues; administering ear-oils, eye restoratives, nasal medicine, ointments, and counter-ointments; surgery with needle and scalpel, treating children, prescribing root medicines, and binding on herbs. They refrain from such unworthy branches of knowledge, such wrong livelihood. … This pertains to their ethics.
 
-13A mendicant thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. It’s like a king who has defeated his enemies. He sees no danger from his foes in any quarter. A mendicant thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves.
+13A bhikkhu thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. It’s like a king who has defeated his enemies. He sees no danger from his foes in any quarter. A bhikkhu thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves.
 
-That’s how a mendicant is accomplished in ethics.
+That’s how a bhikkhu is accomplished in ethics.
 
 
 14This is that noble spectrum of ethics that the Buddha praised. But there is still more to be done.”
@@ -68,12 +68,12 @@ That’s how a mendicant is accomplished in ethics.
 
 16But what, Master Ānanda, was that noble spectrum of immersion that the Buddha praised?”
 
-17“And how, student, does a mendicant guard the sense doors? When a mendicant sees a sight with their eyes, they don’t get caught up in the features and details. If the faculty of sight were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint. When they hear a sound with their ears … When they smell an odor with their nose … When they taste a flavor with their tongue … When they feel a touch with their body … When they know a thought with their mind, they don’t get caught up in the features and details. If the faculty of mind were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of mind, and achieving its restraint. When they have this noble sense restraint, they experience an unsullied bliss inside themselves. That’s how a mendicant guards the sense doors.
+17“And how, student, does a bhikkhu guard the sense doors? When a bhikkhu sees a sight with their eyes, they don’t get caught up in the features and details. If the faculty of sight were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint. When they hear a sound with their ears … When they smell an odor with their nose … When they taste a flavor with their tongue … When they feel a touch with their body … When they know a thought with their mind, they don’t get caught up in the features and details. If the faculty of mind were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of mind, and achieving its restraint. When they have this noble sense restraint, they experience an unsullied bliss inside themselves. That’s how a bhikkhu guards the sense doors.
 
 
-18And how does a mendicant have mindfulness and situational awareness? It’s when a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent. That’s how a mendicant has mindfulness and situational awareness.
+18And how does a bhikkhu have mindfulness and situational awareness? It’s when a bhikkhu acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent. That’s how a bhikkhu has mindfulness and situational awareness.
 
-19And how is a mendicant content? It’s when a mendicant is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden. In the same way, a mendicant is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. That’s how a mendicant is content.
+19And how is a bhikkhu content? It’s when a bhikkhu is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden. In the same way, a bhikkhu is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. That’s how a bhikkhu is content.
 
 20When they have this noble spectrum of ethics, this noble sense restraint, this noble mindfulness and situational awareness, and this noble contentment, they frequent a secluded lodging — a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw. After the meal, they return from alms-round, sit down cross-legged with their body straight, and establish mindfulness right there.
 
@@ -91,9 +91,9 @@ That’s how a mendicant is accomplished in ethics.
 
 26Suppose there was a person with wealth and property who was traveling along a desert road, which was perilous, with nothing to eat. But after some time they crossed over the desert safely, reaching the neighborhood of a village, a sanctuary free of peril. Thinking about this, they’d be filled with joy and happiness.
 
-27In the same way, as long as these five hindrances are not given up inside themselves, a mendicant regards them as a debt, a disease, a prison, slavery, and a desert crossing.
+27In the same way, as long as these five hindrances are not given up inside themselves, a bhikkhu regards them as a debt, a disease, a prison, slavery, and a desert crossing.
 
-28But when these five hindrances are given up inside themselves, a mendicant regards this as freedom from debt, good health, release from prison, emancipation, and sanctuary.
+28But when these five hindrances are given up inside themselves, a bhikkhu regards this as freedom from debt, good health, release from prison, emancipation, and sanctuary.
 
 
 29Seeing that the hindrances have been given up in them, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed.
@@ -103,28 +103,28 @@ That’s how a mendicant is accomplished in ethics.
 
 31It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out.
 
-In the same way, a mendicant drenches, steeps, fills, and spreads their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. This pertains to their immersion.
+In the same way, a bhikkhu drenches, steeps, fills, and spreads their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. This pertains to their immersion.
 
 
-32Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion.
+32Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion.
 
 
 33It’s like a deep lake fed by spring water. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. But the stream of cool water welling up in the lake drenches, steeps, fills, and spreads throughout the lake. There’s no part of the lake that’s not spread through with cool water.
 
-In the same way, a mendicant drenches, steeps, fills, and spreads their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. This pertains to their immersion.
+In the same way, a bhikkhu drenches, steeps, fills, and spreads their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. This pertains to their immersion.
 
-34Furthermore, with the fading away of rapture, a mendicant enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ They drench, steep, fill, and spread their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture.
+34Furthermore, with the fading away of rapture, a bhikkhu enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ They drench, steep, fill, and spread their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture.
 
 35It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. From the tip to the root they’re drenched, steeped, filled, and soaked with cool water. There’s no part of them that’s not soaked with cool water.
 
-In the same way, a mendicant drenches, steeps, fills, and spreads their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. This pertains to their immersion.
+In the same way, a bhikkhu drenches, steeps, fills, and spreads their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. This pertains to their immersion.
 
-36Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. They sit spreading their body through with pure bright mind. There’s no part of the body that’s not spread with pure bright mind.
+36Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a bhikkhu enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. They sit spreading their body through with pure bright mind. There’s no part of the body that’s not spread with pure bright mind.
 
 
 37It’s like someone sitting wrapped from head to foot with white cloth. There’s no part of the body that’s not spread over with white cloth.
 
-In the same way, a mendicant sits spreading their body through with pure bright mind. There's no part of their body that's not spread with pure bright mind. This pertains to their immersion.
+In the same way, a bhikkhu sits spreading their body through with pure bright mind. There's no part of their body that's not spread with pure bright mind. This pertains to their immersion.
 
 
 38This is that noble spectrum of immersion that the Buddha praised. But there is still more to be done.”
@@ -201,7 +201,7 @@ In the same way, when their mind has become immersed in samādhi like this — p
 
 57“It’s incredible, Master Ānanda, it’s amazing! This noble spectrum of wisdom is complete, not lacking anything! Such a complete spectrum of wisdom cannot be seen among the other ascetics and brahmins. And there is nothing more to be done. Excellent, Master Ānanda! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Ānanda has made the teaching clear in many ways.
 
-I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Ānanda remember me as a lay follower who has gone for refuge for life.”
+I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Ānanda remember me as a lay follower who has gone for refuge for life.”
 
 ### Pali
 

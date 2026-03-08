@@ -254,11 +254,11 @@ and because of defensiveness, dependent on defensiveness, various evil, unskillf
 
 “Thus in this manner, Ānanda, one does not see fit to assume that ‘Neither is feeling my self, nor is my self oblivious (to feeling), but rather my self feels, in that my self is subject to feeling.’
 
-“Now, Ānanda, in as far as a monk doesn’t assume feeling to be the self, nor the self as oblivious, nor that ‘My self feels, in that my self is subject to feeling,’ then, not assuming in this way, he is not sustained by [does not cling to] anything in the world. Unsustained, he is not agitated. Unagitated, he is totally unbound right within. He discerns that ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’
+“Now, Ānanda, in as far as a bhikkhu doesn’t assume feeling to be the self, nor the self as oblivious, nor that ‘My self feels, in that my self is subject to feeling,’ then, not assuming in this way, he is not sustained by [does not cling to] anything in the world. Unsustained, he is not agitated. Unagitated, he is totally unbound right within. He discerns that ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’
 
-#### The Monk Released
+#### The bhikkhu Released
 
-“If anyone were to say with regard to a monk whose mind is thus released that ‘The Tathāgata exists after death,’ is his view, that would be mistaken; that ‘The Tathāgata does not exist after death’ ... that ‘The Tathāgata both exists and does not exist after death’ ... that ‘The Tathāgata neither exists nor does not exist after death’ is his view, that would be mistaken. Why? Having directly known the extent of designation and the extent of the objects of designation, the extent of expression and the extent of the objects of expression, the extent of description and the extent of the objects of description, the extent of discernment and the extent of the objects of discernment, the extent to which the cycle revolves: Having directly known that, the monk is released.[2](#^dn15note02) The view that, ‘Having directly known that, the monk released does not see, does not know’: That would be mistaken.[3](#^dn15note03) ^dn15note02-ref ^dn15note03-ref
+“If anyone were to say with regard to a bhikkhu whose mind is thus released that ‘The Tathāgata exists after death,’ is his view, that would be mistaken; that ‘The Tathāgata does not exist after death’ ... that ‘The Tathāgata both exists and does not exist after death’ ... that ‘The Tathāgata neither exists nor does not exist after death’ is his view, that would be mistaken. Why? Having directly known the extent of designation and the extent of the objects of designation, the extent of expression and the extent of the objects of expression, the extent of description and the extent of the objects of description, the extent of discernment and the extent of the objects of discernment, the extent to which the cycle revolves: Having directly known that, the bhikkhu is released.[2](#^dn15note02) The view that, ‘Having directly known that, the bhikkhu released does not see, does not know’: That would be mistaken.[3](#^dn15note03) ^dn15note02-ref ^dn15note03-ref
 
 #### Seven Stations of Consciousness
 
@@ -286,7 +286,7 @@ and because of defensiveness, dependent on defensiveness, various evil, unskillf
 
 [Similarly with each of the remaining stations of consciousness and two dimensions.]
 
-“Ānanda, when knowing—as they have come to be—the origination, passing away, allure, drawbacks of—and escape from—these seven stations of consciousness and two dimensions, a monk is released through lack of clinging, he is said to be a monk released through discernment.
+“Ānanda, when knowing—as they have come to be—the origination, passing away, allure, drawbacks of—and escape from—these seven stations of consciousness and two dimensions, a bhikkhu is released through lack of clinging, he is said to be a bhikkhu released through discernment.
 
 #### Eight Emancipations
 
@@ -308,7 +308,7 @@ and because of defensiveness, dependent on defensiveness, various evil, unskillf
 
 “With the complete transcending of the dimension of neither perception nor non-perception, one enters and remains in the cessation of perception and feeling. This is the eighth emancipation.
 
-“Now, when a monk attains these eight emancipations in forward order, in reverse order, in forward and reverse order, when he attains them and emerges from them wherever he wants, however he wants, and for as long as he wants, when through the ending of effluents he enters and remains in the effluent-free release of awareness and release of discernment, having directly known it and realized it for himself in the here and now, he is said to be a monk released in both ways. And as for another release in both ways, higher or more sublime than this, there is none.”
+“Now, when a bhikkhu attains these eight emancipations in forward order, in reverse order, in forward and reverse order, when he attains them and emerges from them wherever he wants, however he wants, and for as long as he wants, when through the ending of effluents he enters and remains in the effluent-free release of awareness and release of discernment, having directly known it and realized it for himself in the here and now, he is said to be a bhikkhu released in both ways. And as for another release in both ways, higher or more sublime than this, there is none.”
 
 That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Blessed One’s words.
 
@@ -400,7 +400,7 @@ There is no way of knowing if these Upaniṣads, as we have them, were composed 
 
 2. The relationship between the limitations of language and the question of the existence of the Tathāgata after death is indicated by [[sn22-34-thanissaro/sn23-thanissaro/sn23.2-thanissaro]]. There the Buddha notes that one defines oneself as a being through passion and delight for any of the five aggregates. Once there is no passion or delight for the aggregates, one can no longer be defined as a being. Once one is no longer defined, there is no way of describing one as existing, not existing, neither, or both—regardless of whether one is alive or dead (see [[sn22-34-thanissaro/sn22-thanissaro/sn22.85-thanissaro]]). [↩︎](#^dn15note02-ref) ^dn15note02
 
-3. The various readings for this sentence all seem corrupt. The sense of the paragraph, read in light of [[an10.96-thanissaro]], demands that the view expressed in the last sentence be _about_ the monk released, unlike the four earlier views, which are wrongly _attributed to_ the monk released. In other words, the monk released has no opinion on the question of whether the Tathāgata does, doesn’t, etc., exist after death. This might lead to the supposition that his lack of opinion comes from a lack of knowledge or vision. The description of what he comes to know in the course of gaining release shows that this supposition is inappropriate. He does know, he does see, and what he knows and sees about the limitations of language and concepts shows him that the question of the existence of the Tathāgata after death should be set aside. [↩︎](#^dn15note03-ref) ^dn15note03
+3. The various readings for this sentence all seem corrupt. The sense of the paragraph, read in light of [[an10.96-thanissaro]], demands that the view expressed in the last sentence be _about_ the bhikkhu released, unlike the four earlier views, which are wrongly _attributed to_ the bhikkhu released. In other words, the bhikkhu released has no opinion on the question of whether the Tathāgata does, doesn’t, etc., exist after death. This might lead to the supposition that his lack of opinion comes from a lack of knowledge or vision. The description of what he comes to know in the course of gaining release shows that this supposition is inappropriate. He does know, he does see, and what he knows and sees about the limitations of language and concepts shows him that the question of the existence of the Tathāgata after death should be set aside. [↩︎](#^dn15note03-ref) ^dn15note03
 
 Thus I would reconstruct the Pali of the final sentence in this paragraph as: _Tadabhiññā vimutto bhikkhu na jānāti nā passati iti sā diṭṭhi tadakallaṁ._
 

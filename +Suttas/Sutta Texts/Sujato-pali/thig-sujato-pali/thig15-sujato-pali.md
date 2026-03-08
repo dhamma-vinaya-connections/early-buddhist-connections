@@ -205,10 +205,10 @@ I had sex with someone else’s wife.
 438 Having passed away from there,  
 I burned in hell for a long time.  
 Rising up from there  
-I was conceived in a monkey’s womb.
+I was conceived in a bhikkhuey’s womb.
 
 439 When I was only seven days old,  
-I was castrated by the monkey chief.  
+I was castrated by the bhikkhuey chief.  
 This was the fruit of that deed,  
 because of adultery with another’s wife.
 

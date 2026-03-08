@@ -30,7 +30,7 @@ your life is more evil.
 
 You increase your own dust.
 
-A monk delighting in quarrels,
+A bhikkhu delighting in quarrels,
 
 shrouded under delusion,
 
@@ -54,7 +54,7 @@ from womb     to womb,
 
 from darkness     to darkness,
 
-a monk of this sort, after death,
+a bhikkhu of this sort, after death,
 
 comes to suffering.
 
@@ -64,7 +64,7 @@ one of this sort, befouled,
 
 would be hard to clean.
 
-Monks, whoever you know
+bhikkhus, whoever you know
 
 to be like this,
 

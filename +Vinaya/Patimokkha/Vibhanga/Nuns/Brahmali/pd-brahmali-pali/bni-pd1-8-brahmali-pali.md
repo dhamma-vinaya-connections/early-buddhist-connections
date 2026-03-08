@@ -20,12 +20,12 @@ language: "Pali - English"
 
 2At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the nuns from the group of six were eating ghee that they had asked for. People complained and criticized them, “How can nuns eat ghee that they have asked for? Who doesn’t like nice food? Who doesn’t prefer tasty food?”
 
-3The nuns heard the complaints of those people. The nuns of few desires complained and criticized them, “How can the nuns from the group of six eat ghee that they have asked for?” … “Is it true, monks, that those nuns do this?”
+3The nuns heard the complaints of those people. The nuns of few desires complained and criticized them, “How can the nuns from the group of six eat ghee that they have asked for?” … “Is it true, bhikkhus, that those nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 4“If a nun asks for ghee and then eats it, she must acknowledge it: “I have done a blameworthy and unsuitable thing that is to be acknowledged. I acknowledge it.”
 
@@ -36,9 +36,9 @@ The Buddha rebuked them … “How can the nuns from the group of six do this? T
 
 “Previously we ate ghee that we had asked for, and then we were comfortable. But now that the Buddha has prohibited this, we don’t ask because we’re afraid of wrongdoing. And because of that we’re not comfortable.” …
 
-They told the Buddha. Soon afterwards the Buddha had the Sangha gathered and addressed the monks: “Monks, I allow a sick nun to eat ghee that she has asked for.
+They told the Buddha. Soon afterwards the Buddha had the Sangha gathered and addressed the bhikkhus: “bhikkhus, I allow a sick nun to eat ghee that she has asked for.
 
-And so, monks, the nuns should recite this training rule like this:
+And so, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -79,12 +79,12 @@ People complained and criticized them, “How can nuns eat curd that they have a
 
 2The nuns heard the complaints of those people. The nuns of few desires complained and criticized them, “How can the nuns from the group of six eat curd that they have asked for?” …
 
-“Is it true, monks, that those nuns do this?”
+“Is it true, bhikkhus, that those nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 3‘If a nun asks for curd and then eats it, she must acknowledge it: “I have done a blameworthy and unsuitable thing that is to be acknowledged. I acknowledge it.”’”
 
@@ -94,9 +94,9 @@ The Buddha rebuked them … “How can the nuns from the group of six do this? T
 
 “Previously we ate curd that we had asked for, and then we were comfortable. But now that the Buddha has prohibited this, we don’t ask because we’re afraid of wrongdoing. And because of that we’re not comfortable.” …
 
-They told the Buddha. Soon afterwards the Buddha had the Sangha gathered and addressed the monks: “Monks, I allow a sick nun to eat curd that she has asked for.
+They told the Buddha. Soon afterwards the Buddha had the Sangha gathered and addressed the bhikkhus: “bhikkhus, I allow a sick nun to eat curd that she has asked for.
 
-And so, monks, the nuns should recite this training rule like this:
+And so, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

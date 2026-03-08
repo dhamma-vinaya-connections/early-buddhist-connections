@@ -26,24 +26,24 @@ language: "English - Pali"
 > ```
 
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At this time the Buddha had not yet allowed dwellings. And the monks stayed here and there: in the wilderness, at the foot of a tree, on a hill, in a gorge, in a hillside cave, in a charnel ground, in the forest, in the open, on a heap of straw. Early in the morning, they would emerge from those places. And they were pleasing in their conduct: in going out and coming back, in looking ahead and looking aside, in bending and stretching their arms. Their eyes were lowered, and they were perfect in deportment.
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At this time the Buddha had not yet allowed dwellings. And the bhikkhus stayed here and there: in the wilderness, at the foot of a tree, on a hill, in a gorge, in a hillside cave, in a charnel ground, in the forest, in the open, on a heap of straw. Early in the morning, they would emerge from those places. And they were pleasing in their conduct: in going out and coming back, in looking ahead and looking aside, in bending and stretching their arms. Their eyes were lowered, and they were perfect in deportment.
 
 
-One morning a wealthy merchant of Rājagaha was going to a park when he saw those monks. Being inspired, he approached them and said: “Venerables, if I build dwellings, would you stay there?”
+One morning a wealthy merchant of Rājagaha was going to a park when he saw those bhikkhus. Being inspired, he approached them and said: “Venerables, if I build dwellings, would you stay there?”
 
 
 “The Buddha hasn’t allowed dwellings.”
 
 “Well then, please ask the Buddha and let me know his response.”
 
-“Yes.” Those monks then went to the Buddha, bowed, sat down, and said: “Venerable Sir, a wealthy merchant of Rājagaha wants to build dwellings. What should we do?” Soon afterwards the Buddha gave a teaching and addressed the monks:
+“Yes.” Those bhikkhus then went to the Buddha, bowed, sat down, and said: “Venerable Sir, a wealthy merchant of Rājagaha wants to build dwellings. What should we do?” Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow five kinds of shelters: dwellings, three kinds of stilt houses, and caves.”
 
 
-2The monks went to that merchant and said: “The Buddha has allowed dwellings. Please do whatever you think is appropriate.” Then, on a single day, that merchant built sixty dwellings. When the dwellings were finished, he went to the Buddha, bowed, sat down, and said: “Venerable Sir, please accept tomorrow’s meal from me, together with the Saṅgha of monks.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, he got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
+2The bhikkhus went to that merchant and said: “The Buddha has allowed dwellings. Please do whatever you think is appropriate.” Then, on a single day, that merchant built sixty dwellings. When the dwellings were finished, he went to the Buddha, bowed, sat down, and said: “Venerable Sir, please accept tomorrow’s meal from me, together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent. Knowing that the Buddha had consented, he got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
 
-3The next morning he had various kinds of fine food prepared and then had the Buddha informed that the meal was ready. The Buddha robe up, took his bowl and robe, and went to the house of that merchant, where he sat down on the prepared seat together with the Saṅgha of monks. That merchant personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal and had washed his hands and bowl, the merchant sat down to one side and said: “Sir, I’ve had these sixty dwellings built to make merit and for the purpose of going to heaven. What should I do now?”
+3The next morning he had various kinds of fine food prepared and then had the Buddha informed that the meal was ready. The Buddha robe up, took his bowl and robe, and went to the house of that merchant, where he sat down on the prepared seat together with the Saṅgha of bhikkhus. That merchant personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal and had washed his hands and bowl, the merchant sat down to one side and said: “Sir, I’ve had these sixty dwellings built to make merit and for the purpose of going to heaven. What should I do now?”
 
 
 “Well then, give those sixty dwellings to the Saṅgha everywhere, both present and future.”
@@ -100,7 +100,7 @@ The doors did not stay closed.
 “I allow bolt-receiving posts, bolt sockets, bolts, and upper bolts.”
 
 
-12The monks were not able to open the doors.
+12The bhikkhus were not able to open the doors.
 
 “I allow a keyhole and three kinds of keys: metal keys, wooden keys, and keys made of horn.”
 
@@ -128,7 +128,7 @@ The squirrels and bats entered in the gaps around the cloth cover.
 “I allow window shutters.”
 
 
-15At that time the monks lay down on the ground. They became dirty, as did their robes.
+15At that time the bhikkhus lay down on the ground. They became dirty, as did their robes.
 
 “I allow straw mats.”
 
@@ -218,7 +218,7 @@ The Saṅgha was offered a bench made of straw.
 “I allow benches made of straw.”
 
 
-21At that time the monks from the group of six lay down on high beds. When people walking about the dwellings saw this, they complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
+21At that time the bhikkhus from the group of six lay down on high beds. When people walking about the dwellings saw this, they complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
 
 “You should not lie down on high beds. If you do, you commit an offense of wrong conduct.”
 
@@ -228,7 +228,7 @@ The Saṅgha was offered a bench made of straw.
 “I allow bed supports.”
 
 
-23The monks from the group of six used high bed supports, and they then made the bed shake. When people walking about the dwellings saw this, they complained and criticized them: “They are just like householders who indulge in worldly pleasures!”
+23The bhikkhus from the group of six used high bed supports, and they then made the bed shake. When people walking about the dwellings saw this, they complained and criticized them: “They are just like householders who indulge in worldly pleasures!”
 
 “You should not use high bed supports. If you do, you commit an offense of wrong conduct. I allow bed supports that are eight standard fingerbreadths at the most.”
 
@@ -253,11 +253,11 @@ The Saṅgha was offered a cotton-down quilt.
 “I allow you to remove the cotton down and make pillows. There are three kinds of cotton down: cotton down from trees, cotton down from creepers, and cotton down from grass.”
 
 
-25The monks from the group of six used large pillows, half the size of the body. When people walking about the dwellings saw this, they complained and criticized them: “They are just like householders who indulge in worldly pleasures!”
+25The bhikkhus from the group of six used large pillows, half the size of the body. When people walking about the dwellings saw this, they complained and criticized them: “They are just like householders who indulge in worldly pleasures!”
 
 “You should not use large pillows, half the size of the body. If you do, you commit an offense of wrong conduct. I allow you to make pillows the size of the head.”
 
-26On one occasion in Rājagaha there was a hilltop fair. People prepared mattresses for the government officials: mattresses stuffed with wool, cloth, bark, grass, or leaves. When the fair was over, they removed the covers and took them away. The monks saw a large quantity of wool, cloth, bark, grass, and leaves abandoned on the ground. They told the Buddha.
+26On one occasion in Rājagaha there was a hilltop fair. People prepared mattresses for the government officials: mattresses stuffed with wool, cloth, bark, grass, or leaves. When the fair was over, they removed the covers and took them away. The bhikkhus saw a large quantity of wool, cloth, bark, grass, and leaves abandoned on the ground. They told the Buddha.
 
 
 “I allow you five kinds of mattresses: mattresses stuffed with wool, cloth, bark, grass, or leaves.”
@@ -267,7 +267,7 @@ The Saṅgha was offered a cotton-down quilt.
 “I allow you to cover the mattresses.”
 
 
-28The monks laid a bed mattress on a bench and a bench mattress on a bed. The mattresses split open.
+28The bhikkhus laid a bed mattress on a bench and a bench mattress on a bed. The mattresses split open.
 
 “I allow upholstered beds and upholstered benches.”
 
@@ -349,7 +349,7 @@ The black color still did not adhere.
 
 #### 1.4 The prohibition against pictures
 
-33At that time the monks from the group of six had drawn pictures of women and men in a dwelling. When people walking about the dwellings saw this, they complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
+33At that time the bhikkhus from the group of six had drawn pictures of women and men in a dwelling. When people walking about the dwellings saw this, they complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
 
 “You should not draw pictures of women and men. If you do, you commit an offense of wrong conduct. I allow you to make a garland pattern, a creeper pattern, a shark-teeth pattern, and the fivefold pattern.”
 
@@ -374,7 +374,7 @@ People fell down while climbing the stairs.
 “I allow rails.”
 
 
-35At that time the dwellings were open to view. The monks were embarrassed to lie down there.
+35At that time the dwellings were open to view. The bhikkhus were embarrassed to lie down there.
 
 
 “I allow a curtain.”
@@ -388,7 +388,7 @@ People looked over the half-wall.
 
 “I allow three kinds of rooms: a rectaṅgular room, a long room, and an upper room.”
 
-36On one occasion the monks made a room in the middle of a small dwelling. There was no access around the room.
+36On one occasion the bhikkhus made a room in the middle of a small dwelling. There was no access around the room.
 
 “In a small dwelling you should make the room on the side, but in a large dwelling in the middle.”
 
@@ -402,16 +402,16 @@ It rained on the wall.
 “I allow a protection screen and plastering.”
 
 
-38On one occasion a snake fell from the grass roof onto the shoulder of a certain monk. Terrified, he screamed. Other monks ran up to him and asked him why he was screaming. He told them.
+38On one occasion a snake fell from the grass roof onto the shoulder of a certain monk. Terrified, he screamed. Other bhikkhus ran up to him and asked him why he was screaming. He told them.
 
 “I allow a canopy.”
 
-39At that time the monks hung bags from the legs of the beds and the benches. Rats and termites ate them.
+39At that time the bhikkhus hung bags from the legs of the beds and the benches. Rats and termites ate them.
 
 “I allow wall pegs.”
 
 
-40At that time the monks lay their robes on their beds and benches. The robes tore.
+40At that time the bhikkhus lay their robes on their beds and benches. The robes tore.
 
 “I allow bamboo robe racks and clotheslines in the dwellings.”
 
@@ -420,13 +420,13 @@ It rained on the wall.
 “I allow porches, screened doorsteps, encircling corridors, and entrance roofs.”
 
 
-The porches were unenclosed. The monks were embarrassed to lie down there.
+The porches were unenclosed. The bhikkhus were embarrassed to lie down there.
 
 “I allow movable screens and removable screens.”
 
 #### 1.6 The allowance for an assembly hall
 
-42At that time the monks were taking their meals outside. They were wearied by the cold and the heat.
+42At that time the bhikkhus were taking their meals outside. They were wearied by the cold and the heat.
 
 “I allow an assembly hall.”
 
@@ -453,7 +453,7 @@ Grass and dust fell into the assembly hall.
 “I allow you to firm up the structure and then to plaster it inside and outside, including: treating with white color, black color, and red ocher; making a garland pattern, a creeper pattern, a shark-teeth pattern, and the fivefold pattern; putting up a bamboo robe rack and a clothesline.”
 
 
-43At that time the monks spread their robes on the ground outside. The robes became dirty.
+43At that time the bhikkhus spread their robes on the ground outside. The robes became dirty.
 
 
 “I allow a bamboo robe rack and a clothesline outside.”
@@ -528,7 +528,7 @@ The water remained.
 “I allow a water drain.”
 
 
-46At that time the monks made fireplaces here and there in the yards. The yards became dirty.
+46At that time the bhikkhus made fireplaces here and there in the yards. The yards became dirty.
 
 “I allow you to build a water-boiling shed out of the way.”
 
@@ -589,7 +589,7 @@ The water remained.
 “I allow water drains.”
 
 
-48On one occasion King Seniya Bimbisāra of Magadha wanted to build a stilt house smeared with clay plaster for the Saṅgha. The monks thought: “Which roofing materials have been allowed by the Buddha and which have not?”
+48On one occasion King Seniya Bimbisāra of Magadha wanted to build a stilt house smeared with clay plaster for the Saṅgha. The bhikkhus thought: “Which roofing materials have been allowed by the Buddha and which have not?”
 
 “I allow five kinds of roofing materials: tiles, slate, plaster, grass, and leaves.”
 
@@ -670,7 +670,7 @@ Having attained peace of mind.”
 
 He had seen the Truth, had reached, understood, and penetrated it. He had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. He then said to the Buddha:
 
-“Wonderful, Sir, wonderful! Just as one might set upright what had been overturned, or reveal what was hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what’s there just so has the Buddha made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of monks. Please accept me as a lay follower who has gone for refuge for life. And please accept tomorrow’s meal from me together with the Saṅgha of monks.” The Buddha consented by remaining silent.
+“Wonderful, Sir, wonderful! Just as one might set upright what had been overturned, or reveal what was hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what’s there just so has the Buddha made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of bhikkhus. Please accept me as a lay follower who has gone for refuge for life. And please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent.
 
 
 62Knowing that the Buddha had consented, Anāthapiṇḍika got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
@@ -692,7 +692,7 @@ The merchant heard that Anāthapiṇḍika had invited the Saṅgha headed by th
 “There’s no need, sir. I have the means.”
 
 
-66The following morning, in that wealthy merchant’s house, Anāthapiṇḍika had various kinds of fine food prepared. He then had the Buddha informed that the meal was ready. The Buddha robed up, took his bowl and robe, and went to that merchant’s house, where he sat down on the prepared seat together with the Saṅgha of monks. Anāthapiṇḍika then personally served the various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal and had washed his hands and bowl, Anāthapiṇḍika sat down to one side and said: “Sir, please spend the rainy-season residence at Sāvatthī together with the Saṅgha of monks.”
+66The following morning, in that wealthy merchant’s house, Anāthapiṇḍika had various kinds of fine food prepared. He then had the Buddha informed that the meal was ready. The Buddha robed up, took his bowl and robe, and went to that merchant’s house, where he sat down on the prepared seat together with the Saṅgha of bhikkhus. Anāthapiṇḍika then personally served the various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal and had washed his hands and bowl, Anāthapiṇḍika sat down to one side and said: “Sir, please spend the rainy-season residence at Sāvatthī together with the Saṅgha of bhikkhus.”
 
 
 “Buddhas delight in solitude, householder.”
@@ -736,13 +736,13 @@ Anāthapiṇḍika thought: “Prince Jeta is a well-known person. It’s very b
 
 72When the Buddha had stayed at Rājagaha for as long as he liked, he set out wandering toward Vesālī. When he eventually arrived, he stayed, in the hall with the peaked roof in the Great Wood.
 
-At that time people were doing careful building work. And the monks who supervised the building work were respectfully supported with robe-cloth, almsfood, dwellings, and medicinal supplies. Then a certain poor tailor thought: “It must be really worthwhile, seeing as these people do such careful building work. Why don’t I too do building work?” He then made a mixture of mud, made bricks out of it, and built a wall. But because of his lack of skill, the wall was not straight and it fell down. A second and a third time the same thing happened.
+At that time people were doing careful building work. And the bhikkhus who supervised the building work were respectfully supported with robe-cloth, almsfood, dwellings, and medicinal supplies. Then a certain poor tailor thought: “It must be really worthwhile, seeing as these people do such careful building work. Why don’t I too do building work?” He then made a mixture of mud, made bricks out of it, and built a wall. But because of his lack of skill, the wall was not straight and it fell down. A second and a third time the same thing happened.
 
 
-He then complained and criticized the monks: “These Sakyan monastics teach and instruct only those who give them robe-cloth, almsfood, dwellings, and medicinal supplies. They only supervise their building work. But since I’m poor, nobody teaches, instructs, or supervises me.”
+He then complained and criticized the bhikkhus: “These Sakyan monastics teach and instruct only those who give them robe-cloth, almsfood, dwellings, and medicinal supplies. They only supervise their building work. But since I’m poor, nobody teaches, instructs, or supervises me.”
 
 
-73The monks heard the complaints of that poor tailor. They informed the Buddha, who gave a teaching and addressed the monks:
+73The bhikkhus heard the complaints of that poor tailor. They informed the Buddha, who gave a teaching and addressed the bhikkhus:
 
 “You should put a monk in charge of the building work.
 
@@ -760,7 +760,7 @@ And he is to be put in charge like this. First a monk should be asked, and then 
 
 #### 2.3 The instruction on the best seat, etc.
 
-77When the Buddha had stayed at Vesālī for as long as he liked, he set out wandering toward Sāvatthī. On that occasion the monks who were the pupils of the monks from the group of six went ahead of the Saṅgha headed by the Buddha and took possession of dwellings and beds, thinking: “This will be for our preceptors and teachers, and also for ourselves.”
+77When the Buddha had stayed at Vesālī for as long as he liked, he set out wandering toward Sāvatthī. On that occasion the bhikkhus who were the pupils of the bhikkhus from the group of six went ahead of the Saṅgha headed by the Buddha and took possession of dwellings and beds, thinking: “This will be for our preceptors and teachers, and also for ourselves.”
 
 78Venerable Sāriputta followed behind the Saṅgha. Being unable to get a bed—the dwellings and beds having all been taken—he sat down at the foot of a tree. After getting up early in the morning, the Buddha cleared his throat. Sāriputta, too, cleared his throat.
 
@@ -773,23 +773,23 @@ And he is to be put in charge like this. First a monk should be asked, and then 
 Sāriputta told the Buddha what had happened.
 
 
-Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the monks who are the pupils of the monks from the group of six did this?”
+“Is it true, bhikkhus, that the bhikkhus who are the pupils of the bhikkhus from the group of six did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can they act like this? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the monks:
+The Buddha rebuked them … “How can they act like this? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
-“Monks, who deserves the best seat, the best water, and the best almsfood?”
+“bhikkhus, who deserves the best seat, the best water, and the best almsfood?”
 
 
-79Some monks said: “Those who have gone forth from an aristocratic family deserve the best seat, water, and almsfood.” Others said: “Those who have gone forth from a brahmin family deserve the best seat, water, and almsfood.” Still others said: “Those who have gone forth from a householder family deserve the best seat, water, and almsfood.” Or: “The experts on the discourses deserve the best seat, water, and almsfood.” Or: “The experts on the Monastic Law deserve the best seat, water, and almsfood.” Or: “The expounders of the Teaching deserve the best seat, water, and almsfood.” Or: “Those who obtain the first absorption deserve the best seat, water, and almsfood.” Or: “Those who obtain the second absorption deserve the best seat, water, and almsfood.” Or: “Those who obtain the third absorption deserve the best seat, water, and almsfood.” Or: “Those who obtain the fourth absorption deserve the best seat, water, and almsfood.” Or: “The stream-enterers deserve the best seat, water, and almsfood.” Or: “The once-returners deserve the best seat, water, and almsfood.” Or: “The nonreturners deserve the best seat, water, and almsfood.” Or: “The perfected ones deserve the best seat, water, and almsfood.” Or: “Those who have attained the three true insights deserve the best seat, water, and almsfood.” Or: “Those who have attained the six direct knowledges deserve the best seat, water, and almsfood.”
+79Some bhikkhus said: “Those who have gone forth from an aristocratic family deserve the best seat, water, and almsfood.” Others said: “Those who have gone forth from a brahmin family deserve the best seat, water, and almsfood.” Still others said: “Those who have gone forth from a householder family deserve the best seat, water, and almsfood.” Or: “The experts on the discourses deserve the best seat, water, and almsfood.” Or: “The experts on the Monastic Law deserve the best seat, water, and almsfood.” Or: “The expounders of the Teaching deserve the best seat, water, and almsfood.” Or: “Those who obtain the first absorption deserve the best seat, water, and almsfood.” Or: “Those who obtain the second absorption deserve the best seat, water, and almsfood.” Or: “Those who obtain the third absorption deserve the best seat, water, and almsfood.” Or: “Those who obtain the fourth absorption deserve the best seat, water, and almsfood.” Or: “The stream-enterers deserve the best seat, water, and almsfood.” Or: “The once-returners deserve the best seat, water, and almsfood.” Or: “The nonreturners deserve the best seat, water, and almsfood.” Or: “The perfected ones deserve the best seat, water, and almsfood.” Or: “Those who have attained the three true insights deserve the best seat, water, and almsfood.” Or: “Those who have attained the six direct knowledges deserve the best seat, water, and almsfood.”
 
 
-80The Buddha then addressed the monks: “Once upon a time, monks, there was a great banyan tree on the slope of the Himalayas. Three friends lived near it: a partridge, a monkey, and an elephant. They were disrespectful, undeferential, and rude toward one another. They thought, ‘If only we knew which one of us was the oldest. We would honor, respect, and esteem him, and we would wait for his instructions.’
+80The Buddha then addressed the bhikkhus: “Once upon a time, bhikkhus, there was a great banyan tree on the slope of the Himalayas. Three friends lived near it: a partridge, a monkey, and an elephant. They were disrespectful, undeferential, and rude toward one another. They thought, ‘If only we knew which one of us was the oldest. We would honor, respect, and esteem him, and we would wait for his instructions.’
 
 81The partridge and the monkey then asked the elephant, ‘What’s your first memory?’
 
@@ -813,7 +813,7 @@ And who are learned in the Teaching,
 They are praised while still alive,  
 And then go to a good destination.
 
-86“Even those animals, monks, were respectful, deferential, and courteous toward one another. Having gone forth on this well-proclaimed spiritual path, will you look good if you are disrespectful, undeferential, and rude toward one another? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the monks:
+86“Even those animals, bhikkhus, were respectful, deferential, and courteous toward one another. Having gone forth on this well-proclaimed spiritual path, will you look good if you are disrespectful, undeferential, and rude toward one another? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 “You should do these things according to seniority: bowing down, standing up, raising your joined palms, doing acts of respect, giving the best seat, giving the best water, and giving the best almsfood.
 
@@ -821,13 +821,13 @@ But what belongs to the Saṅgha should not be reserved according to seniority. 
 
 #### 2.4 Persons one should not pay respect to, etc.
 
-87“Monks, you should not pay respect to these ten kinds of persons: one who has been given the full ordination after you; one who isn’t fully ordained; one who belongs to a different Buddhist sect who is senior to you, but who speaks contrary to the Teaching; a woman; a _paṇḍaka_; one who is on probation; one who deserves to be sent back to the beginning; one who deserves the trial period; one who is undertaking the trial period; or one who deserves rehabilitation.
+87“bhikkhus, you should not pay respect to these ten kinds of persons: one who has been given the full ordination after you; one who isn’t fully ordained; one who belongs to a different Buddhist sect who is senior to you, but who speaks contrary to the Teaching; a woman; a _paṇḍaka_; one who is on probation; one who deserves to be sent back to the beginning; one who deserves the trial period; one who is undertaking the trial period; or one who deserves rehabilitation.
 
 88You should pay respect to these three kinds of persons: one who has been given the full ordination before you; one who belongs to a different Buddhist sect who is senior to you and who speaks in accordance with the Teaching; and in this world with its gods, lords of death, and supreme beings, in this society with its monastics and brahmins, its gods and humans, you should pay respect to the Buddha, perfected and fully awakened.”
 
 #### 2.5 The prohibition against reserving seats
 
-89At that time people prepared roof-covers, mats, and places to stay for the Saṅgha. The monks who were the pupils of the monks from the group of six, thought: “The Buddha has instructed that what belongs to the Saṅgha should not be reserved according to seniority. But he’s given no such instruction about what has merely been prepared for the Saṅgha.” They then went ahead of the Saṅgha headed by the Buddha and took possession of roof-covers, mats, and places to stay, thinking: “This will be for our preceptors and teachers, and also for ourselves.”
+89At that time people prepared roof-covers, mats, and places to stay for the Saṅgha. The bhikkhus who were the pupils of the bhikkhus from the group of six, thought: “The Buddha has instructed that what belongs to the Saṅgha should not be reserved according to seniority. But he’s given no such instruction about what has merely been prepared for the Saṅgha.” They then went ahead of the Saṅgha headed by the Buddha and took possession of roof-covers, mats, and places to stay, thinking: “This will be for our preceptors and teachers, and also for ourselves.”
 
 Venerable Sāriputta followed behind the Saṅgha. Being unable to get a place to stay—the roof-covers, the mats, and the places to stay having all been taken—he sat down at the foot of a tree. After getting up early in the morning, the Buddha cleared his throat. Sāriputta, too, cleared his throat.
 
@@ -838,32 +838,32 @@ Venerable Sāriputta followed behind the Saṅgha. Being unable to get a place t
 “Why are you sitting here?”
 
 
-Sāriputta told the Buddha what had happened. Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the monks who are the pupils of the monks from the group of six did this?”
+Sāriputta told the Buddha what had happened. Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the bhikkhus who are the pupils of the bhikkhus from the group of six did this?”
 
 
-“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 “Even what has merely been prepared for the Saṅgha should not be reserved according to seniority. If you do, you commit an offense of wrong conduct.”
 
 #### 2.6 The allowance for what belongs to a householder
 
-90At that time people prepared high and luxurious resting places in the dining halls in inhabited areas, that is: a high couch, a luxurious couch, a long-fleeced woolen rug, a multi-colored woolen rug, a white woolen rug, a red woolen rug, a cotton-down quilt, a woolen rug decorated with the images of predatory animals, a woolen rug with long fleece on one side, a woolen rug with long fleece on both sides, a sheet of silk embroidered with gems, a silken sheet, a woolen rug like a dancers’ rug, an elephant-back rug, a horse-back rug, a carriage-seat rug, a rug made of black antelope hide, an excellent sheet made of _kadalī_-deer hide, a seat with a canopy, a seat with red cushions at each end. Being afraid of wrongdoing, the monks did not sit on them. They told the Buddha.
+90At that time people prepared high and luxurious resting places in the dining halls in inhabited areas, that is: a high couch, a luxurious couch, a long-fleeced woolen rug, a multi-colored woolen rug, a white woolen rug, a red woolen rug, a cotton-down quilt, a woolen rug decorated with the images of predatory animals, a woolen rug with long fleece on one side, a woolen rug with long fleece on both sides, a sheet of silk embroidered with gems, a silken sheet, a woolen rug like a dancers’ rug, an elephant-back rug, a horse-back rug, a carriage-seat rug, a rug made of black antelope hide, an excellent sheet made of _kadalī_-deer hide, a seat with a canopy, a seat with red cushions at each end. Being afraid of wrongdoing, the bhikkhus did not sit on them. They told the Buddha.
 
 
 “Apart from the high couch, the luxurious couch, and the cotton-down quilt, I allow you to sit down on what belongs to householders, but not to lie down on it.”
 
-91At that time people prepared beds and benches upholstered with cotton down in the dining halls in inhabited areas. Being afraid of wrongdoing, the monks did not sit on them. They told the Buddha.
+91At that time people prepared beds and benches upholstered with cotton down in the dining halls in inhabited areas. Being afraid of wrongdoing, the bhikkhus did not sit on them. They told the Buddha.
 
 “I allow you to sit down on what belongs to householders, but not to lie down on it.”
 
 #### 2.7 The expression of appreciation for the Jeta Grove dwellings
 
-92Wandering on, the Buddha eventually arrived at Sāvatthī, where he stayed in the Jeta Grove, Anāthapiṇḍika’s Park. Anāthapiṇḍika then went to the Buddha, bowed, sat down, and said: “Venerable Sir, please accept tomorrow’s meal from me together with the Saṅgha of monks.” The Buddha consented by remaining silent.
+92Wandering on, the Buddha eventually arrived at Sāvatthī, where he stayed in the Jeta Grove, Anāthapiṇḍika’s Park. Anāthapiṇḍika then went to the Buddha, bowed, sat down, and said: “Venerable Sir, please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.” The Buddha consented by remaining silent.
 
 
 93Knowing that the Buddha had consented, Anāthapiṇḍika got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
 
-The following morning Anāthapiṇḍika had various kinds of fine food prepared. He then had the Buddha informed that the meal was ready. The Buddha robed up, took his bowl and robe, and went to Anāthapiṇḍika’s house, where he sat down on the prepared seat together with the Saṅgha of monks. Anāthapiṇḍika then personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal and had washed his hands and bowl, Anāthapiṇḍika sat down to one side and said: “Sir, what should I do in regard to the Jeta Grove?”
+The following morning Anāthapiṇḍika had various kinds of fine food prepared. He then had the Buddha informed that the meal was ready. The Buddha robed up, took his bowl and robe, and went to Anāthapiṇḍika’s house, where he sat down on the prepared seat together with the Saṅgha of bhikkhus. Anāthapiṇḍika then personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal and had washed his hands and bowl, Anāthapiṇḍika sat down to one side and said: “Sir, what should I do in regard to the Jeta Grove?”
 
 
 “You should dedicate the Jeta Grove to the Saṅgha everywhere, present and future.”
@@ -906,38 +906,38 @@ He attains extinguishment, free of corruptions.”
 
 101On one occasion a certain government official who was an Ājīvaka disciple was offering a meal to the Saṅgha. Arriving late, Venerable Upananda the Sakyan made the nearest monk get up before he had finished his meal. There was an uproar in the dining hall. The official complained and criticized him: “How can the Sakyan monastics arrive late and make the nearest monk get up in the middle of his meal? There was an uproar in the dining hall. It’s impossible to eat as much as you like when you’re not seated.”
 
-102The monks heard the complaints of the official, and the monks of few desires complained and criticized him: “How could Upananda act like this?” They told the Buddha what had happened.
+102The bhikkhus heard the complaints of the official, and the bhikkhus of few desires complained and criticized him: “How could Upananda act like this?” They told the Buddha what had happened.
 
 
 “Is it true, Upananda, that you acted like this?”
 
 “It’s true, Sir.” The Buddha rebuked him …
 
-“Foolish man, how can you act like this? This will affect people’s confidence …” After rebuking him … the Buddha gave a teaching and addressed the monks:
+“Foolish man, how can you act like this? This will affect people’s confidence …” After rebuking him … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 “You should not make a monk get up who hasn’t finished his meal. If you do, you commit an offense of wrong conduct.
 
 If you’re asked to get up, and you have already refused an invitation to eat more, you should say: “Please, go and get some water.” If the other goes, all is well. If not, you should properly swallow the mouthful and give the seat to the more senior monk. Under no circumstances should you block a more senior monk from a seat. If you do, you commit an offense of wrong conduct.”
 
-103On one occasion the monks from the group of six asked the sick monks to get up. The sick monks said: “We’re not able to get up; we’re sick.”
+103On one occasion the bhikkhus from the group of six asked the sick bhikkhus to get up. The sick bhikkhus said: “We’re not able to get up; we’re sick.”
 
-Saying: “We’ll make the venerables get up,” they took hold of them, lifted them up, and then released them when they were standing. The sick monks fainted and collapsed.
+Saying: “We’ll make the venerables get up,” they took hold of them, lifted them up, and then released them when they were standing. The sick bhikkhus fainted and collapsed.
 
 “You should not make the sick get up. If you do, you commit an offense of wrong conduct.”
 
 
-104The monks from the group of six took possession of the best beds, saying: “We’re sick and no one can make us get up.”
+104The bhikkhus from the group of six took possession of the best beds, saying: “We’re sick and no one can make us get up.”
 
 “You should give suitable beds to those who are sick.”
 
-105The monks from the group of six used a pretext to reserve resting places.
+105The bhikkhus from the group of six used a pretext to reserve resting places.
 
 “You should not use a pretext to reserve a resting place. If you do, you commit an offense of wrong conduct.”
 
-106At that time the monks from the group of seventeen were repairing a large dwelling nearby, intending to stay there for the rainy season. The monks from the group of six saw this and said: “These monks from the group of seventeen are repairing a dwelling. Let’s throw them out.” But some of them said: “Let’s wait until they’ve finished repairing it.”
+106At that time the bhikkhus from the group of seventeen were repairing a large dwelling nearby, intending to stay there for the rainy season. The bhikkhus from the group of six saw this and said: “These bhikkhus from the group of seventeen are repairing a dwelling. Let’s throw them out.” But some of them said: “Let’s wait until they’ve finished repairing it.”
 
-Soon afterwards the monks from the group of six said to those from the group of seventeen: “Leave, this dwelling is ours.”
+Soon afterwards the bhikkhus from the group of six said to those from the group of seventeen: “Leave, this dwelling is ours.”
 
 
 “Shouldn’t you have told us beforehand? We would have repaired another one.”
@@ -950,21 +950,21 @@ Soon afterwards the monks from the group of six said to those from the group of 
 
 “The dwelling is large. You can stay here and so can we.”
 
-But they said: “Leave, this dwelling is ours,” and they grabbed them by the neck and threw them out in anger. The monks from the group of seventeen cried. When other monks asked them why, they told them what had happened.
+But they said: “Leave, this dwelling is ours,” and they grabbed them by the neck and threw them out in anger. The bhikkhus from the group of seventeen cried. When other bhikkhus asked them why, they told them what had happened.
 
 
-107The monks of few desires complained and criticized them: “How can the monks from the group of six angrily throw other monks out of a dwelling belonging to the Saṅgha?”
+107The bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six angrily throw other bhikkhus out of a dwelling belonging to the Saṅgha?”
 
-They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks: “Is it true, monks, that you did this?”
+They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you did this?”
 
 
-“It’s true, Sir.” The Buddha rebuked them … and after giving a teaching, he addressed the monks:
+“It’s true, Sir.” The Buddha rebuked them … and after giving a teaching, he addressed the bhikkhus:
 
 “You should not, in anger, throw a monk out of a dwelling belonging to the Saṅgha. If you do, you should be dealt with according to the rule. You should allocate the dwellings.”
 
 #### 2.9 The appointment of allocators of dwellings
 
-108The monks thought: “Who should allocate the dwellings?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks:
+108The bhikkhus thought: “Who should allocate the dwellings?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus:
 
 “You should appoint a monk who has five qualities as the allocator of dwellings: he is not swayed by desire, ill will, confusion, or fear, and he knows which dwellings have and have not been allocated. And he should be appointed like this.
 
@@ -980,7 +980,7 @@ They told the Buddha. Soon afterwards he had the Saṅgha gathered and questione
 113The allocators of dwellings thought: “How should we allocate the dwellings?” They told the Buddha.
 
 
-“First you should count the monks and the beds. You should then allocate one monk to each bed.”
+“First you should count the bhikkhus and the beds. You should then allocate one monk to each bed.”
 
 When they were allocating the beds, there were beds left over.
 
@@ -997,16 +997,16 @@ When they were allocating the yards, there were yards left over.
 “You should give out additional shares. If another monk arrives after the additional shares have been allocated, then if you’re unwilling, you need not give him a share.”
 
 
-114On one occasion the monks allocated a dwelling to one who was outside the monastery zone.
+114On one occasion the bhikkhus allocated a dwelling to one who was outside the monastery zone.
 
 “You should not allocate a dwelling to one outside the monastery zone. If you do, you commit an offense of wrong conduct.”
 
-115At that time, after accepting a dwelling, the monks reserved it at all times.
+115At that time, after accepting a dwelling, the bhikkhus reserved it at all times.
 
 “After you have accepted a dwelling, you should not reserve it at all times. If you do, you commit an offense of wrong conduct. I allow you to reserve it for the three months of the rainy-season residence, but not at other times.”
 
 
-116The monks thought: “How many times are there for the allocation of dwellings?”
+116The bhikkhus thought: “How many times are there for the allocation of dwellings?”
 
 “There are three times for the allocation of dwellings: the first, the second, and when given up in between. The first allocation is on the day after the full moon of July. The second allocation is one month after the full moon of July. The allocation of what is given up in between the two is on the day after the invitation ceremony and is for the purpose of spending the next rains residence.”
 
@@ -1023,7 +1023,7 @@ When they were allocating the yards, there were yards left over.
 > "VIN-CV16.3" file:bmc2 -queryblock
 > ```
 
-118On one occasion Venerable Upananda the Sakyan had accepted a dwelling at Sāvatthī, but then went to a certain village monastery, where he was also allocated a dwelling. The monks there thought: “This Upananda is quarrelsome and argumentative, and creates legal issues in the Saṅgha. If he spends the rainy season here, none of us will be at ease. Well, let’s question him.”
+118On one occasion Venerable Upananda the Sakyan had accepted a dwelling at Sāvatthī, but then went to a certain village monastery, where he was also allocated a dwelling. The bhikkhus there thought: “This Upananda is quarrelsome and argumentative, and creates legal issues in the Saṅgha. If he spends the rainy season here, none of us will be at ease. Well, let’s question him.”
 
 And they said to Upananda: “Have you not been allocated a dwelling at Sāvatthī? ”
 
@@ -1035,34 +1035,34 @@ And they said to Upananda: “Have you not been allocated a dwelling at Sāvatth
 “I will give up this one and take the one at Sāvatthī.”
 
 
-119The monks of few desires complained and criticized him: “How could Upananda reserve two dwellings for himself?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned Upananda:
+119The bhikkhus of few desires complained and criticized him: “How could Upananda reserve two dwellings for himself?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned Upananda:
 
 “Is it true, Upananda, that you did this?”
 
 “It’s true, Sir.” The Buddha rebuked him …
 
-“Foolish man, how can you reserve two dwellings for yourself? What you had been allocated at Sāvatthī, you gave up when you were allocated a dwelling here. And what you have been allocated here, you have now given up. You’re now excluded from both. This will affect people’s confidence …” After rebuking him … the Buddha gave a teaching and addressed the monks:
+“Foolish man, how can you reserve two dwellings for yourself? What you had been allocated at Sāvatthī, you gave up when you were allocated a dwelling here. And what you have been allocated here, you have now given up. You’re now excluded from both. This will affect people’s confidence …” After rebuking him … the Buddha gave a teaching and addressed the bhikkhus:
 
 “A single monk should not reserve two dwellings. If you do, you commit an offense of wrong conduct.”
 
 
-120At one time the Buddha gave many talks about the Monastic Law, spoke in praise of the Monastic Law and of learning the Monastic Law, and he repeatedly praised Venerable Upāli. When they heard this, there were monks who thought: “Well then, let’s learn the Monastic Law from Venerable Upāli.” And many monks, both senior and junior, as well as those of middle standing, learned the Monastic Law from Upāli.
+120At one time the Buddha gave many talks about the Monastic Law, spoke in praise of the Monastic Law and of learning the Monastic Law, and he repeatedly praised Venerable Upāli. When they heard this, there were bhikkhus who thought: “Well then, let’s learn the Monastic Law from Venerable Upāli.” And many bhikkhus, both senior and junior, as well as those of middle standing, learned the Monastic Law from Upāli.
 
-Out of respect for the senior monks, Upāli taught while standing. And out of respect for the Teaching, the senior monks, too, were standing. Both the senior monks and Upāli became tired. They told the Buddha.
+Out of respect for the senior bhikkhus, Upāli taught while standing. And out of respect for the Teaching, the senior bhikkhus, too, were standing. Both the senior bhikkhus and Upāli became tired. They told the Buddha.
 
 “A junior monk who is teaching should sit on a similar or higher seat out of respect for the Teaching. A senior monk who is being taught should sit on a similar or lower seat out of respect for the Teaching.”
 
 
-121On one occasion many monks were standing in the presence of Upāli, honoring the recitation. They became tired.
+121On one occasion many bhikkhus were standing in the presence of Upāli, honoring the recitation. They became tired.
 
 “I allow those who are entitled to a seat of the same height to sit together.”
 
-The monks thought: “Who are entitled to a seat of the same height?”
+The bhikkhus thought: “Who are entitled to a seat of the same height?”
 
 “I allow those with a difference of three years or less in seniority to sit together.”
 
 
-122On one occasion a number of monks entitled to a seat of the same height were seated on a bed; the bed broke. They were seated on the same bench; the bench broke.
+122On one occasion a number of bhikkhus entitled to a seat of the same height were seated on a bed; the bed broke. They were seated on the same bench; the bench broke.
 
 
 “I allow a maximum of three on a bed or bench.”
@@ -1072,16 +1072,16 @@ The beds and benches still broke.
 “I allow a maximum of two on a bed or bench.”
 
 
-123At that time, being afraid of wrongdoing, monks who were not entitled to a seat of the same height did not sit together on a long seat.
+123At that time, being afraid of wrongdoing, bhikkhus who were not entitled to a seat of the same height did not sit together on a long seat.
 
 “I allow those who are not entitled to a seat of the same height to sit together on a long seat, except with a _paṇḍaka_, a woman, or a hermaphrodite.”
 
-The monks thought: “What is the size of the smallest long seat?”
+The bhikkhus thought: “What is the size of the smallest long seat?”
 
 “A seat for three is the smallest long seat.”
 
 
-124At one time Visākhā Migāramātā wanted to build a stilt house for the benefit of the Saṅgha, including a porch and elephant globes. The monks thought: “What stilt-house equipment has the Buddha allowed and what has he not allowed?” They told the Buddha.
+124At one time Visākhā Migāramātā wanted to build a stilt house for the benefit of the Saṅgha, including a porch and elephant globes. The bhikkhus thought: “What stilt-house equipment has the Buddha allowed and what has he not allowed?” They told the Buddha.
 
 “I allow all stilt-house equipment.”
 
@@ -1092,9 +1092,9 @@ The monks thought: “What is the size of the smallest long seat?”
 
 #### 3.1 What is not to be given away
 
-126At one time in a village monastery not far from Sāvatthī the resident monks were fed up with assigning dwellings for newly arrived and departing monks. They considered this and thought: “Well, let’s give all the dwellings belonging to the Saṅgha to one of us. We’ll then use what belongs to him.” And they did just that.
+126At one time in a village monastery not far from Sāvatthī the resident bhikkhus were fed up with assigning dwellings for newly arrived and departing bhikkhus. They considered this and thought: “Well, let’s give all the dwellings belonging to the Saṅgha to one of us. We’ll then use what belongs to him.” And they did just that.
 
-When newly arrived monks said to them: “Please assign us a dwelling,” they replied: “There are no dwellings belonging to the Saṅgha. They have all been given to one of us.”
+When newly arrived bhikkhus said to them: “Please assign us a dwelling,” they replied: “There are no dwellings belonging to the Saṅgha. They have all been given to one of us.”
 
 
 “So you have given away the dwellings belonging to the Saṅgha?”
@@ -1102,14 +1102,14 @@ When newly arrived monks said to them: “Please assign us a dwelling,” they r
 
 “Yes.”
 
-The monks of few desires complained and criticized them: “How can monks give away dwellings belonging to the Saṅgha?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks:
+The bhikkhus of few desires complained and criticized them: “How can bhikkhus give away dwellings belonging to the Saṅgha?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that they did this?”
+“Is it true, bhikkhus, that they did this?”
 
 “It’s true, Sir.” The Buddha rebuked them,
 
 
-“How can those foolish men give away dwellings belonging to the Saṅgha? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the monks:
+“How can those foolish men give away dwellings belonging to the Saṅgha? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
 127“There are five things not to be given away, either by a saṅgha, a group, or an individual. Even if given away, they are not actually given away. If you give any of them away, you commit a serious offense. What are the five?
@@ -1131,33 +1131,33 @@ These are the five things not to be given away, either by a saṅgha, a group, o
 
 #### 3.2 What is not to be distributed
 
-132When the Buddha had stayed at Sāvatthī for as long as he liked, he set out wandering toward Kīṭāgiri with a large saṅgha of five hundred monks, including Sāriputta and Mahāmoggallāna. The monks Assaji and Punabbasuka heard about this and said: “Well, let’s share out all the dwellings belonging to the Saṅgha. Sāriputta and Mahāmoggallāna are in the grip of bad desires. We won’t assign dwellings to them.” And they shared out all the dwellings belonging to the Saṅgha.
+132When the Buddha had stayed at Sāvatthī for as long as he liked, he set out wandering toward Kīṭāgiri with a large saṅgha of five hundred bhikkhus, including Sāriputta and Mahāmoggallāna. The bhikkhus Assaji and Punabbasuka heard about this and said: “Well, let’s share out all the dwellings belonging to the Saṅgha. Sāriputta and Mahāmoggallāna are in the grip of bad desires. We won’t assign dwellings to them.” And they shared out all the dwellings belonging to the Saṅgha.
 
 
-133The Buddha eventually arrived at Kīṭāgiri. And he said to a group of monks:
+133The Buddha eventually arrived at Kīṭāgiri. And he said to a group of bhikkhus:
 
-“Go to the monks Assaji and Punabbasuka and say, ‘The Buddha is coming with a large saṅgha of five hundred monks, including Sāriputta and Mahāmoggallāna. Assign dwellings to the Buddha, to the Saṅgha of monks, and to Sāriputta and Mahāmoggallāna.’”
+“Go to the bhikkhus Assaji and Punabbasuka and say, ‘The Buddha is coming with a large saṅgha of five hundred bhikkhus, including Sāriputta and Mahāmoggallāna. Assign dwellings to the Buddha, to the Saṅgha of bhikkhus, and to Sāriputta and Mahāmoggallāna.’”
 
 
 Saying: “Yes, Sir,” they did just that.
 
 
-The monks Assaji and Punabbasuka replied: “There are no dwellings belonging to the Saṅgha; they have all been shared out to us. The Buddha is welcome and he may stay wherever he likes. But Sāriputta and Mahāmoggallāna are in the grip of bad desires. We won’t assign dwellings to them.”
+The bhikkhus Assaji and Punabbasuka replied: “There are no dwellings belonging to the Saṅgha; they have all been shared out to us. The Buddha is welcome and he may stay wherever he likes. But Sāriputta and Mahāmoggallāna are in the grip of bad desires. We won’t assign dwellings to them.”
 
 “So you have shared out the dwellings belonging to the Saṅgha?”
 
 “Yes.”
 
 
-134The monks of few desires complained and criticized them:
+134The bhikkhus of few desires complained and criticized them:
 
-“How can these monks share out dwellings belonging to the Saṅgha?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the monks:
+“How can these bhikkhus share out dwellings belonging to the Saṅgha?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that they did this?”
+“Is it true, bhikkhus, that they did this?”
 
 “It’s true, Sir.” The Buddha rebuked them:
 
-“How can those foolish men share out the dwellings belonging to the Saṅgha? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the monks:
+“How can those foolish men share out the dwellings belonging to the Saṅgha? This will affect people’s confidence …” After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 135“There are five things not to be distributed, either to a saṅgha, a group, or an individual. Even if distributed, they are not actually distributed. If you distribute any of them, you commit a serious offense.
 
@@ -1179,48 +1179,48 @@ A monastery or the land of a monastery;
 
 141When the Buddha had stayed at Kīṭāgiri for as long as he liked, he set out wandering toward Āḷavī. When he eventually arrived, he stayed at Aggāḷava Shrine.
 
-At that time the monks of Āḷava put monks in charge of building work such as this: the mere filling of gaps, the mere plastering of walls, the mere hanging of doors, the mere making of bolt-receiving posts, the mere making of windows, the mere application of white coloring, the mere application of black coloring, the mere treatment with red ocher, the mere covering with a roof, the mere fastening of a roof, the mere fixing of cornices, the mere repair of what is defective or broken, the mere plastering of a floor; and they put monks in charge of building work for twenty years, for thirty years, for life; and they put monks in charge of building work for life on finished dwellings.
+At that time the bhikkhus of Āḷava put bhikkhus in charge of building work such as this: the mere filling of gaps, the mere plastering of walls, the mere hanging of doors, the mere making of bolt-receiving posts, the mere making of windows, the mere application of white coloring, the mere application of black coloring, the mere treatment with red ocher, the mere covering with a roof, the mere fastening of a roof, the mere fixing of cornices, the mere repair of what is defective or broken, the mere plastering of a floor; and they put bhikkhus in charge of building work for twenty years, for thirty years, for life; and they put bhikkhus in charge of building work for life on finished dwellings.
 
 
-The monks of few desires complained and criticized them: “How can the monks at Āḷavī put monks in charge of such kinds of work?” They told the Buddha. …
+The bhikkhus of few desires complained and criticized them: “How can the bhikkhus at Āḷavī put bhikkhus in charge of such kinds of work?” They told the Buddha. …
 
-“Is it true, monks, that they do this?”
+“Is it true, bhikkhus, that they do this?”
 
-“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking them … the Buddha gave a teaching and addressed the bhikkhus:
 
 
-“You should not put monks in charge of building work such as this: the mere filling of gaps, the mere plastering of walls, the mere hanging of doors, the mere making of bolt-receiving posts, the mere making of windows, the mere application of white coloring, the mere application of black coloring, the mere treatment with red ocher, the mere covering with a roof, the mere fastening of a roof, the mere fixing of cornices, the mere repair of what is defective or broken, or the mere plastering of a floor; and you should not put monks in charge of building work for twenty years, for thirty years, for life, or put monks in charge of building work for life on finished dwellings. If you do, you commit an offense of wrong conduct.
+“You should not put bhikkhus in charge of building work such as this: the mere filling of gaps, the mere plastering of walls, the mere hanging of doors, the mere making of bolt-receiving posts, the mere making of windows, the mere application of white coloring, the mere application of black coloring, the mere treatment with red ocher, the mere covering with a roof, the mere fastening of a roof, the mere fixing of cornices, the mere repair of what is defective or broken, or the mere plastering of a floor; and you should not put bhikkhus in charge of building work for twenty years, for thirty years, for life, or put bhikkhus in charge of building work for life on finished dwellings. If you do, you commit an offense of wrong conduct.
 
 
 I allow you to put a monk in charge of building work that isn’t yet started or that’s partially complete. For a small dwelling, after inspecting the work, you may put a monk in charge of the building work for five or six years. For a small stilt house, after inspecting the work, you may put a monk in charge of the building work for seven or eight years. For a large dwelling or stilt house, after inspecting the work, you may put a monk in charge of the building work for ten or twelve years.”
 
 
-142On one occasion the monks put one person in charge of building work on all the dwellings.
+142On one occasion the bhikkhus put one person in charge of building work on all the dwellings.
 
 “You should not put one person in charge of building work on all the dwellings. If you do, you commit an offense of wrong conduct.”
 
-143On one occasion the monks put one person in charge of building work on two dwellings.
+143On one occasion the bhikkhus put one person in charge of building work on two dwellings.
 
 “You should not put one person in charge of building work on two dwellings. If you do, you commit an offense of wrong conduct.”
 
-144On one occasion the monks who had taken on building work had someone else stay in the dwelling.
+144On one occasion the bhikkhus who had taken on building work had someone else stay in the dwelling.
 
 “When you have taken on building work, you should not have someone else stay in that dwelling. If you do, you commit an offense of wrong conduct.”
 
 
-145At one time monks who had taken on building work reserved what belonged to the Saṅgha.
+145At one time bhikkhus who had taken on building work reserved what belonged to the Saṅgha.
 
 “When you have taken on building work, you should not reserve what belongs to the Saṅgha. If you do, you commit an offense of wrong conduct. I allow you to take one good bed.”
 
-146On one occasion the monks put one who was outside the monastery zone in charge of building work.
+146On one occasion the bhikkhus put one who was outside the monastery zone in charge of building work.
 
 “You should not put one who is outside the monastery zone in charge of building work. If you do, you commit an offense of wrong conduct.”
 
-147At one time the monks who had taken on building work reserved a dwelling at all times.
+147At one time the bhikkhus who had taken on building work reserved a dwelling at all times.
 
 “When you have taken on building work, you should not reserve a dwelling at all times. If you do, you commit an offense of wrong conduct. I allow you to reserve it for the three months of the rainy-season residence, but not at other times.”
 
-148At that time monks who had taken on building work left, disrobed, died, admitted to being novice monks, admitted to having renounced the training, admitted to having committed the worst kind of offense, admitted to being insane, admitted to being deranged, admitted to being overwhelmed by pain, admitted to having been suspended for not recognizing an offense, admitted to having been suspended for not making amends for an offense, admitted to having been suspended for not giving up a bad view, admitted to being a _paṇḍaka_, admitted to be living in the community by theft, admitted to previously having left to join the monastics of another religion, admitted to being an animal, admitted to being a matricide, admitted to being a patricide, admitted to being a murderer of a perfected one, admitted to having raped a nun, admitted to having caused a schism in the Saṅgha, admitted to having caused the Buddha to bleed, admitted to being a hermaphrodite. They told the Buddha.
+148At that time bhikkhus who had taken on building work left, disrobed, died, admitted to being novice bhikkhus, admitted to having renounced the training, admitted to having committed the worst kind of offense, admitted to being insane, admitted to being deranged, admitted to being overwhelmed by pain, admitted to having been suspended for not recognizing an offense, admitted to having been suspended for not making amends for an offense, admitted to having been suspended for not giving up a bad view, admitted to being a _paṇḍaka_, admitted to be living in the community by theft, admitted to previously having left to join the monastics of another religion, admitted to being an animal, admitted to being a matricide, admitted to being a patricide, admitted to being a murderer of a perfected one, admitted to having raped a nun, admitted to having caused a schism in the Saṅgha, admitted to having caused the Buddha to bleed, admitted to being a hermaphrodite. They told the Buddha.
 
 149“If a monk who has taken on building work departs, it should be given to another, with the thought, ‘What belongs to the Saṅgha should not be allowed to deteriorate.’
 
@@ -1241,16 +1241,16 @@ I allow you to put a monk in charge of building work that isn’t yet started or
 
 #### 3.4 The prohibition against using requisites where they don’t belong, etc.
 
-157At one time the monks used a certain lay follower’s furniture where it did not belong. That lay follower complained and criticized them: “How can those venerables use the furniture where it doesn’t belong?” They told the Buddha.
+157At one time the bhikkhus used a certain lay follower’s furniture where it did not belong. That lay follower complained and criticized them: “How can those venerables use the furniture where it doesn’t belong?” They told the Buddha.
 
 “You should not use furniture where it doesn’t belong. If you do, you commit an offense of wrong conduct.”
 
-158Being afraid of wrongdoing, the monks did not take any equipment to the observance-day hall or to meetings, and they sat down on the bare ground. Their limbs and robes became dirty.
+158Being afraid of wrongdoing, the bhikkhus did not take any equipment to the observance-day hall or to meetings, and they sat down on the bare ground. Their limbs and robes became dirty.
 
 “I allow you to borrow.”
 
 
-159At that time a large dwelling belonging to the Saṅgha was decaying. Being afraid of wrongdoing, the monks did not remove the furniture.
+159At that time a large dwelling belonging to the Saṅgha was decaying. Being afraid of wrongdoing, the bhikkhus did not remove the furniture.
 
 “I allow you to move it for the purpose of protection.”
 
@@ -1278,19 +1278,19 @@ I allow you to put a monk in charge of building work that isn’t yet started or
 “I allow you to make it into a doormat.”
 
 
-165At that time there were monks who entered the dwellings with dirty feet. The dwellings became dirty.
+165At that time there were bhikkhus who entered the dwellings with dirty feet. The dwellings became dirty.
 
 “You should not enter a dwelling with dirty feet. If you do, you commit an offense of wrong conduct.”
 
-166At that time there were monks who entered the dwellings with wet feet. The dwellings became dirty.
+166At that time there were bhikkhus who entered the dwellings with wet feet. The dwellings became dirty.
 
 “You should not enter a dwelling with wet feet. If you do, you commit an offense of wrong conduct.”
 
-167At that time there were monks who entered the dwellings with their sandals on. The dwellings became dirty.
+167At that time there were bhikkhus who entered the dwellings with their sandals on. The dwellings became dirty.
 
 “You should not enter a dwelling with your sandals on. If you do, you commit an offense of wrong conduct.”
 
-168At that time there were monks who spat on treated floors. The coloring was spoiled.
+168At that time there were bhikkhus who spat on treated floors. The coloring was spoiled.
 
 “You should not spit on treated floors. If you do, you commit an offense of wrong conduct. I allow a spittoon.”
 
@@ -1298,7 +1298,7 @@ I allow you to put a monk in charge of building work that isn’t yet started or
 
 “You should wrap the legs in cloth.”
 
-170At that time there were monks who leaned on treated walls. The coloring was spoiled.
+170At that time there were bhikkhus who leaned on treated walls. The coloring was spoiled.
 
 “You should not lean on treated walls. If you do, you commit an offense of wrong conduct. I allow a leaning board.”
 
@@ -1307,7 +1307,7 @@ The lower edge of the leaning boards scratched the floor and the upper edge the 
 “You should wrap the lower and upper edges in cloth.”
 
 
-171Being afraid of wrongdoing, the monks did not lie down with washed feet.
+171Being afraid of wrongdoing, the bhikkhus did not lie down with washed feet.
 
 “You should spread a sheet and then lie down.”
 
@@ -1315,13 +1315,13 @@ The lower edge of the leaning boards scratched the floor and the upper edge the 
 
 172When the Buddha had stayed at Āḷavī for as long as he liked, he set out wandering toward Rājagaha. When he eventually arrived, he stayed in the Bamboo Grove, the squirrel sanctuary.
 
-At that time Rājagaha was short of food and people were not able to make meals for the Saṅgha. Instead they wished to make meals for designated monks, invitational meals, meals for which lots are drawn, half-monthly meals, meals on the observance day, and meals on the day after the observance day.
+At that time Rājagaha was short of food and people were not able to make meals for the Saṅgha. Instead they wished to make meals for designated bhikkhus, invitational meals, meals for which lots are drawn, half-monthly meals, meals on the observance day, and meals on the day after the observance day.
 
-“I allow meals for the Saṅgha, meals for designated monks, invitational meals, meals for which lots are drawn, half-monthly meals, meals on the observance days, and meals on the days after the observance day.”
+“I allow meals for the Saṅgha, meals for designated bhikkhus, invitational meals, meals for which lots are drawn, half-monthly meals, meals on the observance days, and meals on the days after the observance day.”
 
 #### 3.6 The appointment of a designator of meals
 
-173At that time the monks from the group of six took the best meals for themselves and gave the inferior ones to the other monks.
+173At that time the bhikkhus from the group of six took the best meals for themselves and gave the inferior ones to the other bhikkhus.
 
 “You should appoint a monk who has five qualities as the designator of meals: he is not swayed by desire, ill will, confusion, or fear, and he knows what has and has not been designated. And he should be appointed like this. First a monk should be asked, and then a competent and capable monk should inform the Saṅgha:
 
@@ -1331,7 +1331,7 @@ At that time Rājagaha was short of food and people were not able to make meals 
 
 176The Saṅgha has appointed monk so-and-so as designator of meals. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
-177The monks who were designator of meals thought: “How should we designate the meals?”
+177The bhikkhus who were designator of meals thought: “How should we designate the meals?”
 
 “You should mark the tickets and make a heap of them, and then designate the meals.”
 
@@ -1366,15 +1366,15 @@ If the Saṅgha has ghee, oil, honey, or syrup, he should give it out for a sing
 
 #### 3.9 The appointment of distributors of rainy-season bathing cloths, etc.
 
-187At that time there was no distributor of rainy-season bathing cloths … no distributor of almsbowls … no supervisor of monastery workers … no supervisor of novice monks. Not being supervised, the novice monks didn’t do their work.
+187At that time there was no distributor of rainy-season bathing cloths … no distributor of almsbowls … no supervisor of monastery workers … no supervisor of novice bhikkhus. Not being supervised, the novice bhikkhus didn’t do their work.
 
-“You should appoint a monk who has five qualities as the supervisor of novice monks: he is not swayed by desire, ill will, confusion, or fear, and he knows who is and is not supervised. And he should be appointed like this. First a monk should be asked, and then a competent and capable monk should inform the Saṅgha:
+“You should appoint a monk who has five qualities as the supervisor of novice bhikkhus: he is not swayed by desire, ill will, confusion, or fear, and he knows who is and is not supervised. And he should be appointed like this. First a monk should be asked, and then a competent and capable monk should inform the Saṅgha:
 
-188‘Please, Venerables, I ask the Saṅgha to listen. If it seems appropriate to the Saṅgha, the Saṅgha should appoint monk so-and-so as supervisor of novice monks. This is the motion.
+188‘Please, Venerables, I ask the Saṅgha to listen. If it seems appropriate to the Saṅgha, the Saṅgha should appoint monk so-and-so as supervisor of novice bhikkhus. This is the motion.
 
-189Please, Venerables, I ask the Saṅgha to listen. The Saṅgha appoints monk so-and-so as supervisor of novice monks. Any monk who approves of appointing monk so-and-so as supervisor of novice monks should remain silent. Any monk who doesn’t approve should speak up.
+189Please, Venerables, I ask the Saṅgha to listen. The Saṅgha appoints monk so-and-so as supervisor of novice bhikkhus. Any monk who approves of appointing monk so-and-so as supervisor of novice bhikkhus should remain silent. Any monk who doesn’t approve should speak up.
 
-190The Saṅgha has appointed monk so-and-so as supervisor of novice monks. The Saṅgha approves and is therefore silent. I will remember it thus.’”
+190The Saṅgha has appointed monk so-and-so as supervisor of novice bhikkhus. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
 
 191The third section for recitation is finished.

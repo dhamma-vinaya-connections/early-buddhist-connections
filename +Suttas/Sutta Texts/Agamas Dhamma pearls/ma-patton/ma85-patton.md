@@ -19,9 +19,9 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma85note01) One time, the Buddha traveled to Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma85note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “Now, I’ll explain for you the way of a genuine person and the way of a disingenuous person.[2](#^ma85note02) Listen closely! Listen closely, and consider it well.” ^ma85note02-ref
+2. It was then that the Bhagavān addressed the bhikkhus, “Now, I’ll explain for you the way of a genuine person and the way of a disingenuous person.[2](#^ma85note02) Listen closely! Listen closely, and consider it well.” ^ma85note02-ref
 
-The monks then accepted the teaching and listened.
+The bhikkhus then accepted the teaching and listened.
 
 3. The Buddha said, “What is the way of a genuine person? Suppose a person from a noble family leaves home to train on the path, but that isn’t the case for others. Because this person was from a noble family, they esteem themselves and denigrate the others. This is the way of a disingenuous person.
 
@@ -63,9 +63,9 @@ The monks then accepted the teaching and listened.
 
 22. “The way of a genuine person is to make this observation: ‘… The Bhagavān has said that this abode of neither having conception nor having no conception has measureless kinds. If someone supposes something about it, this is craving.’ For this reason, they attain offerings of support and respect. Proceeding to attain the true Dharma in this way, a person doesn’t esteem themselves and denigrate others. This is the way of a genuine person.
 
-23. “Monks, this is the way of a genuine person and the way of a disingenuous person. All of you should know the way of a genuine person and the way of a disingenuous person. Once you know the way of a genuine person and the way of a disingenuous person, discard the way of a disingenuous person and train in the way of a genuine person. You should train in this way.”
+23. “bhikkhus, this is the way of a genuine person and the way of a disingenuous person. All of you should know the way of a genuine person and the way of a disingenuous person. Once you know the way of a genuine person and the way of a disingenuous person, discard the way of a disingenuous person and train in the way of a genuine person. You should train in this way.”
 
-24. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+24. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 - The noble, handsome, and eloquent,  
     The elder and reciter of sūtras,  
@@ -98,7 +98,7 @@ The monks then accepted the teaching and listened.
 [↩︎](#^ma85note04-ref)
 
 ^ma85note05
-5. _eat soup_. C. 飮漿. This mysterious expression doesn’t occur outside of this _sūtra_. It’s possible that it’s a corruption or a overly literal translation of the original Prakrit. I’ve left it as-is since it’s possible that it referred to some custom of feeding monks soup, or perhaps soup was available as charity after noon in some places. 
+5. _eat soup_. C. 飮漿. This mysterious expression doesn’t occur outside of this _sūtra_. It’s possible that it’s a corruption or a overly literal translation of the original Prakrit. I’ve left it as-is since it’s possible that it referred to some custom of feeding bhikkhus soup, or perhaps soup was available as charity after noon in some places. 
 
 [↩︎](#^ma85note05-ref)
 

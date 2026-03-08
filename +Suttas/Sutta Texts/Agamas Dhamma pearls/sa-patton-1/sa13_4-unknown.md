@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “If someone at home or who has left home undertakes the wrong tasks, that is not taught by me. Why is that? Someone living at home or has left home who undertakes the wrong tasks won’t be happy with the correct teaching. What are the wrong tasks? They refer to wrong view … wrong samādhi.
+2. It was then that the Bhagavān addressed the bhikkhus, “If someone at home or who has left home undertakes the wrong tasks, that is not taught by me. Why is that? Someone living at home or has left home who undertakes the wrong tasks won’t be happy with the correct teaching. What are the wrong tasks? They refer to wrong view … wrong samādhi.
 
 3. “If someone living at home or who has left home undertakes the right tasks, that is praised by me. Why is that? Someone who undertakes the right tasks is happy with the correct teaching and good at the correct teaching. What are the right tasks? They are right view … right samādhi.”
 
@@ -35,7 +35,7 @@ language: "English"
     Will always be happy at heart  
     With the unsurpassed, correct teaching.”
 
-5. After the Buddha spoke this sūtra, the monks who heard what the Buddha taught rejoiced and approved.
+5. After the Buddha spoke this sūtra, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

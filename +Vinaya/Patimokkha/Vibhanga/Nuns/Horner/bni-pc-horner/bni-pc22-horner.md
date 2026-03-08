@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.22.1.1* *BD.3.285* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time bathing cloths for the nuns were allowed by the lord.[^1] *Vin.4.279* The group of six nuns, saying: “Bathing cloths are allowed by the lord,” wore bathing cloths that were not of a (proper) measure; they went about trailing (these) in front as well as behind.[^2] Those who were modest nuns … spread it about, saying: “How can the group of six nuns wear bathing cloths that are not of a (proper) measure?” …
 
-“Is it true, as is said, monks, that the group of six nuns wear bathing cloths that are not of a (proper) measure?”
+“Is it true, as is said, bhikkhus, that the group of six nuns wear bathing cloths that are not of a (proper) measure?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the group of six nuns wear bathing cloths that are not of a (proper) measure? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the group of six nuns wear bathing cloths that are not of a (proper) measure? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “When a bathing cloth is being made for a nun, it must be made to a (proper) measure. This is the (proper) measure here: in length four spans according to the accepted span, in width two spans. For her who exceeds this (measure), there is an offence of expiation involving cutting down.”[^3]
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four fine thoroughbreds are found in the world. What four?
+1“bhikkhus, these four fine thoroughbreds are found in the world. What four?
 
 
 One fine thoroughbred is moved to act when it sees the shadow of the goad, thinking: ‘What task will the horse trainer have me do today? How should I respond?’ Some fine thoroughbreds are like that. This is the first fine thoroughbred found in the world.

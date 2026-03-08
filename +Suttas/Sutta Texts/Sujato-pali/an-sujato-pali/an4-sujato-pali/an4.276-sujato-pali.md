@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“For insight into greed, four things should be developed. What four? It’s when a mendicant develops the basis of psychic power that has immersion due to enthusiasm, and active effort. They develop the basis of psychic power that has immersion due to energy … mental development … inquiry, and active effort. For insight into greed, these four things should be developed.”
+1“For insight into greed, four things should be developed. What four? It’s when a bhikkhu develops the ![[Iddhipadas]] that has immersion due to energy … mental development … inquiry, and active effort. For insight into greed, these four things should be developed.”
 
 1"Rāgassa, bhikkhave, abhiññāya cattāro dhammā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti; vīriyasamādhi … pe … cittasamādhi … pe … vīmaṁsāsamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Rāgassa, bhikkhave, abhiññāya ime cattāro dhammā bhāvetabbā"ti.
 

@@ -24,7 +24,7 @@ language: "English - Pali"
 
 Then as Venerable Mahāmoggallāna was in private retreat this thought came to his mind: “Which gods know that they are stream-enterers, not liable to be reborn in the underworld, bound for awakening?”
 
-Now, at that time a monk called Tissa had recently passed away and been reborn in a Brahmā realm. There they knew that Tissa the Brahmā was very mighty and powerful.
+Now, at that time a bhikkhu called Tissa had recently passed away and been reborn in a Brahmā realm. There they knew that Tissa the Brahmā was very mighty and powerful.
 
 
 2And then Venerable Mahāmoggallāna, as easily as a strong person would extend or contract their arm, vanished from Jeta’s Grove and reappeared in that Brahmā realm.

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those who have lost mindfulness of the body have lost the deathless. Those who haven’t lost mindfulness of the body haven’t lost the deathless.”
+1“bhikkhus, those who have lost mindfulness of the body have lost the deathless. Those who haven’t lost mindfulness of the body haven’t lost the deathless.”
 
 1"Amataṁ tesaṁ, bhikkhave, parihīnaṁ yesaṁ kāyagatāsati parihīnā. Amataṁ tesaṁ, bhikkhave, aparihīnaṁ yesaṁ kāyagatāsati aparihīnā"ti.
 

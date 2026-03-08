@@ -415,7 +415,7 @@ hair washed and his body bathed and gratifying all his senses with the
 palace ladies in the pavilion. Who can ever know the reward that will fall
 to one from his conduct?” Later on, that man shaves his hair, moustache,
 
-and beard, puts on the three robes of a mendicant, renounces domestic  
+and beard, puts on the three robes of a bhikkhu, renounces domestic  
 life, and applies himself to the practice of equanimity (the principle of  
 equality).  
 Now, O great king, if you see this _bhikṣu_ approaching, do you think  
@@ -434,7 +434,7 @@ tainment together with the palace ladies in the royal pavilion. One of them
 may have thought, “What irony! After those events this is the reward.  
 Who can ever know the reward that will fall to one from his conduct?”  
 Later on, that guest shaves his hair, moustache, and beard, puts on the  
-three robes of a mendicant, renounces domestic life, and applies himself  
+three robes of a bhikkhu, renounces domestic life, and applies himself  
 to the practice of equanimity. Now, O great king, what do you think? If  
 you see this _bhikṣu_ approaching, do you think to yourself, “Well, isn’t  
 this one of my guests to whom I gave an allowance?”  

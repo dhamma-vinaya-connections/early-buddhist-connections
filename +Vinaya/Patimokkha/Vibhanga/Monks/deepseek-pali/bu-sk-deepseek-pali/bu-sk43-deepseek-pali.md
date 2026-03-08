@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 617. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū anāhaṭe kabaḷe mukhadvāraṃ vivaranti…pe….
 
-## 617.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six monks opened their mouths when a mouthful had not been brought (to the mouth)…and so on.
+## 617.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six bhikkhus opened their mouths when a mouthful had not been brought (to the mouth)…and so on.
 
 ‘‘Na anāhaṭe kabaḷe mukhadvāraṃ vivarissāmīti sikkhā karaṇīyā’’ti.
 

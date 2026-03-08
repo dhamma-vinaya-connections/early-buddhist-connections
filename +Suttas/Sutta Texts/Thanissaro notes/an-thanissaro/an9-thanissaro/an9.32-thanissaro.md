@@ -15,15 +15,15 @@ language: "English"
 ## ## Vihāra Sutta
 
 
-“Monks, there are these nine step-by-step dwellings. Which nine? The first jhāna, the second jhāna, the third jhāna, the fourth jhāna, the dimension of the infinitude of space, the dimension of the infinitude of consciousness, the dimension of nothingness, the dimension of neither perception nor non-perception, the cessation of perception & feeling. These are the nine step-by-step dwellings.”[1](#^[[an9-thanissaro]].32note01) ^[[an9-thanissaro]].32note01-ref
+“bhikkhus, there are these nine step-by-step dwellings. Which nine? The first jhāna, the second jhāna, the third jhāna, the fourth jhāna, the dimension of the infinitude of space, the dimension of the infinitude of consciousness, the dimension of nothingness, the dimension of neither perception nor non-perception, the cessation of perception & feeling. These are the nine step-by-step dwellings.”[1](#^[[an9-thanissaro]].32note01) ^[[an9-thanissaro]].32note01-ref
 
 Note
 
 1. This translation follows the Thai edition of the Pali Canon, which is identical with the Burmese edition here. The PTS edition, following the Sri Lankan edition, includes the standard formulae for the nine dwellings, as follows:
 
-“Monks, there are these nine step-by-step dwellings. Which nine?
+“bhikkhus, there are these nine step-by-step dwellings. Which nine?
 
-“There is the case where a monk, quite secluded from sensuality, secluded from unskillful mental qualities, enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation.
+“There is the case where a bhikkhu, quite secluded from sensuality, secluded from unskillful mental qualities, enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation.
 
 “With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance.
 
@@ -43,7 +43,7 @@ Note
 
 “These are the nine step-by-step dwellings.”
 
-This longer version has the advantage of being more informative than the shorter version, but the shorter version fits better into the pattern of questions that frame this discourse and the following one, [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.33-thanissaro]]. The question there is, “And what, monks, are the nine step-by-step dwelling-attainments?” whereas the question here can be paraphrased as, “Which are the nine step-by-step dwellings?” In line with the fact that [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.33-thanissaro]] focuses on the _attainment_ of these dwellings—including the formulae for how they are attained—it makes sense that this discourse would simply list the dwellings without describing how they are attained.
+This longer version has the advantage of being more informative than the shorter version, but the shorter version fits better into the pattern of questions that frame this discourse and the following one, [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.33-thanissaro]]. The question there is, “And what, bhikkhus, are the nine step-by-step dwelling-attainments?” whereas the question here can be paraphrased as, “Which are the nine step-by-step dwellings?” In line with the fact that [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.33-thanissaro]] focuses on the _attainment_ of these dwellings—including the formulae for how they are attained—it makes sense that this discourse would simply list the dwellings without describing how they are attained.
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

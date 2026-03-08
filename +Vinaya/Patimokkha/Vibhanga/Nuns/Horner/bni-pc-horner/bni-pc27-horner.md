@@ -19,7 +19,7 @@ language: "English"
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā hold back a legally valid division of robe-material? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā hold back a legally valid division of robe-material? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should hold back a legally valid division of robe-material, there is an offence of expiation.”[^3]
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a shopkeeper who has three factors soon acquires great and abundant wealth. What three? It’s when a shopkeeper sees clearly, is responsible, and has supporters.
+1“bhikkhus, a shopkeeper who has three factors soon acquires great and abundant wealth. What three? It’s when a shopkeeper sees clearly, is responsible, and has supporters.
 
 
 And how does a shopkeeper see clearly? It’s when a shopkeeper knows of a product: ‘This product is bought at this price and is selling at this price. With this much investment, it’ll bring this much profit.’ That’s how a shopkeeper sees clearly.
@@ -31,17 +31,17 @@ And how does a shopkeeper see clearly? It’s when a shopkeeper knows of a produ
 
 A shopkeeper who has these three factors soon acquires great and abundant wealth.
 
-4In the same way, a mendicant who has three factors soon acquires great and abundant skillful qualities. What three? It’s when a mendicant sees clearly, is responsible, and has supporters.
+4In the same way, a bhikkhu who has three factors soon acquires great and abundant skillful qualities. What three? It’s when a bhikkhu sees clearly, is responsible, and has supporters.
 
 
-And how does a mendicant see clearly? It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. That’s how a mendicant sees clearly.
+And how does a bhikkhu see clearly? It’s when a bhikkhu truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. That’s how a bhikkhu sees clearly.
 
-5And how is a mendicant responsible? It’s when a mendicant lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. That’s how a mendicant is responsible.
+5And how is a bhikkhu responsible? It’s when a bhikkhu lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. That’s how a bhikkhu is responsible.
 
-6And how does a mendicant have supporters? It’s when from time to time a mendicant goes up to those mendicants who are very learned — knowledgeable in the scriptures, who have memorized the teachings, the texts on monastic training, and the outlines — and asks them questions: ‘Why, sir, does it say this? What does that mean?’ Those venerables clarify what is unclear, reveal what is obscure, and dispel doubt regarding the many doubtful matters. That’s how a mendicant has supporters.
+6And how does a bhikkhu have supporters? It’s when from time to time a bhikkhu goes up to those bhikkhus who are very learned — knowledgeable in the scriptures, who have memorized the teachings, the texts on monastic training, and the outlines — and asks them questions: ‘Why, sir, does it say this? What does that mean?’ Those venerables clarify what is unclear, reveal what is obscure, and dispel doubt regarding the many doubtful matters. That’s how a bhikkhu has supporters.
 
 
-A mendicant who has these three factors soon acquires great and abundant skillful qualities.”
+A bhikkhu who has these three factors soon acquires great and abundant skillful qualities.”
 
   
 The first recitation section is finished.

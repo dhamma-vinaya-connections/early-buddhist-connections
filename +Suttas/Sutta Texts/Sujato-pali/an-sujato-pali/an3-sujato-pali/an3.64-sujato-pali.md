@@ -24,7 +24,7 @@ language: "English - Pali"
 
 Now at that time a wanderer called Sarabha had recently left this teaching and training. He was telling a crowd in Rājagaha: “I learned the teaching of the ascetics who follow the Sakyan, then I left their teaching and training.”
 
-Then several mendicants robed up in the morning and, taking their bowls and robes, entered Rājagaha for alms. They heard what Sarabha was saying.
+Then several bhikkhus robed up in the morning and, taking their bowls and robes, entered Rājagaha for alms. They heard what Sarabha was saying.
 
 
 2Then, after the meal, when they returned from alms-round, they went up to the Buddha, bowed, sat down to one side, and said to him:

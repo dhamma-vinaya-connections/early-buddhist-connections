@@ -20,18 +20,18 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the eight worldly conditions revolve around the world, and the world revolves around the eight worldly conditions. What eight? Gain and loss, fame and disgrace, praise and blame, pleasure and pain. These eight worldly conditions revolve around the world, and the world revolves around these eight worldly conditions.
+1“bhikkhus, the eight worldly conditions revolve around the world, and the world revolves around the eight worldly conditions. What eight? Gain and loss, fame and disgrace, praise and blame, pleasure and pain. These eight worldly conditions revolve around the world, and the world revolves around these eight worldly conditions.
 
 2An uneducated ordinary person encounters gain and loss, fame and disgrace, praise and blame, and pleasure and pain. And so does an educated noble disciple. What, then, is the difference between an ordinary uneducated person and an educated noble disciple?”
 
-“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The mendicants will listen and remember it.”
+“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The bhikkhus will listen and remember it.”
 
 
-3“Well then, mendicants, listen and pay close attention, I will speak.”
+3“Well then, bhikkhus, listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
-“Mendicants, an uneducated ordinary person encounters gain. They don’t reflect: ‘I’ve encountered this gain. It’s impermanent, suffering, and perishable.’ They don’t truly understand it. They encounter loss … fame … disgrace … praise … blame … pleasure … pain. They don’t reflect: ‘I’ve encountered this pain. It’s impermanent, suffering, and perishable.’ They don’t truly understand it.
+“bhikkhus, an uneducated ordinary person encounters gain. They don’t reflect: ‘I’ve encountered this gain. It’s impermanent, suffering, and perishable.’ They don’t truly understand it. They encounter loss … fame … disgrace … praise … blame … pleasure … pain. They don’t reflect: ‘I’ve encountered this pain. It’s impermanent, suffering, and perishable.’ They don’t truly understand it.
 
 4So gain and loss, fame and disgrace, praise and blame, and pleasure and pain occupy their mind. They favor gain and oppose loss. They favor fame and oppose disgrace. They favor praise and oppose blame. They favor pleasure and oppose pain. Being so full of favoring and opposing, they’re not freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They’re not freed from suffering, I say.
 

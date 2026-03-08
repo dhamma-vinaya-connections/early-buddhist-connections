@@ -14,7 +14,7 @@ language: "English"
 
 > **Division:** II. PERCEPTIONS
 
-“Bhikkhus, these five things, when developed and cultivated, lead exclusively to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to nibbāna. What five? Here, a bhikkhu dwells contemplating the unattractiveness of the body, perceiving the repulsiveness of food, perceiving non-delight in the entire world, contemplating impermanence in all conditioned phenomena; and he has the perception of death well established internally. These five things, when developed and cultivated, lead exclusively to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to nibbāna.”
+“Bhikkhus, these five things, when developed and cultivated, lead exclusively to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to nibbāna. What five? Here, a bhikkhu ![[Satipatthanas]], contemplating impermanence in all conditioned phenomena; and he has the perception of death well established internally. These five things, when developed and cultivated, lead exclusively to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to nibbāna.”
 
 
 ---

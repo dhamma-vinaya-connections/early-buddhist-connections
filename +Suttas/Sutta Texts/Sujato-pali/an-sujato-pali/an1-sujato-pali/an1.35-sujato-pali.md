@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that, when it’s not protected, is so very harmful as the mind. An unprotected mind is very harmful.”
+1“bhikkhus, I do not see a single thing that, when it’s not protected, is so very harmful as the mind. An unprotected mind is very harmful.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ arakkhitaṁ mahato anatthāya saṁvattati yathayidaṁ, bhikkhave, cittaṁ. Cittaṁ, bhikkhave, arakkhitaṁ mahato anatthāya saṁvattatī"ti.
 

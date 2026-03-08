@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these seven fires. What seven? The fires of greed, hate, delusion. The fire of those worthy of offerings dedicated to the gods. A householder’s fire. The fire of those worthy of a religious donation. And a wood fire. These are the seven fires.”
+1“bhikkhus, there are these seven fires. What seven? The fires of greed, hate, delusion. The fire of those worthy of offerings dedicated to the gods. A householder’s fire. The fire of those worthy of a religious donation. And a wood fire. These are the seven fires.”
 
 1"Sattime, bhikkhave, aggī. Katame satta? Rāgaggi, dosaggi, mohaggi, āhuneyyaggi, gahapataggi, dakkhiṇeyyaggi, kaṭṭhaggi – ime kho, bhikkhave, satta aggī"ti.
 

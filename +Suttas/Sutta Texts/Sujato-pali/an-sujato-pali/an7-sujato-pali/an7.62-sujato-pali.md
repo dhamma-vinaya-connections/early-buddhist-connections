@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, don’t fear good deeds. For ‘good deeds’ is a term for happiness.
+1“bhikkhus, don’t fear good deeds. For ‘good deeds’ is a term for happiness.
 
 I recall undergoing for a long time the likable, desirable, and agreeable results of good deeds performed over a long time. I developed a mind of love for seven years. As a result, for seven eons of the cosmos contracting and expanding I didn’t return to this world again. As the cosmos contracted I went to the realm of streaming radiance. As it expanded I was reborn in an empty mansion of Brahmā.
 
@@ -30,7 +30,7 @@ I recall undergoing for a long time the likable, desirable, and agreeable result
 3See the result of good deeds,  
 of skillful deeds, for one seeking happiness.  
 I developed a mind of love  
-for seven years, mendicants.  
+for seven years, bhikkhus.  
 For seven eons of expansion and contraction  
 I didn’t return to this world again.
 

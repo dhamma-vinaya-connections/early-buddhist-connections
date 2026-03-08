@@ -44,7 +44,7 @@ parallels_partilal: "[[AN5.65]], [[AN5.163]], [[AN5.66]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant with five qualities is fit to hold a discussion with their spiritual companions
+> bhikkhu with five qualities is fit to hold a discussion with their spiritual companions
 
 > [!info] Key Excerpts 
 > Personally accomplished in ethics, samadhi, wisdom, freedom and knowledge of freedom

@@ -12,13 +12,13 @@ language: "English"
 
 # Itivuttaka 86
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, with reference to a monk who practices the Dhamma in accordance with the Dhamma, it is this way of according with the Dhamma that he should be described as practicing the Dhamma in accordance with the Dhamma. When speaking, he speaks Dhamma and not non-Dhamma. When thinking, he thinks about Dhamma and not about non-Dhamma. Avoiding both these things, he stays equanimous, mindful, alert.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, with reference to a bhikkhu who practices the Dhamma in accordance with the Dhamma, it is this way of according with the Dhamma that he should be described as practicing the Dhamma in accordance with the Dhamma. When speaking, he speaks Dhamma and not non-Dhamma. When thinking, he thinks about Dhamma and not about non-Dhamma. Avoiding both these things, he stays equanimous, mindful, alert.”
 
 Dhamma his dwelling,
 
 Dhamma his delight,
 
-a monk pondering Dhamma,
+a bhikkhu pondering Dhamma,
 
 calling Dhamma to mind,
 

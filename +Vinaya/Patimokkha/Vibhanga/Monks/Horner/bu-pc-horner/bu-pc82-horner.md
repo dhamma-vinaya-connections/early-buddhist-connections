@@ -7,37 +7,37 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC82]]
 > ◄  [[bu-pc81-horner]] 📜  [[bu-pc83-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 82
+# bhikkhus’ Expiation (_Pācittiya_) 82
 
-*Bu-Pc.82.1.1* *BD.3.67* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery.[^1] Now at that time at Sāvatthī food with robe-material was prepared for the Order by a certain guild, saying: “Having offered food, we will present them with robe-material.” Then the group of six monks approached that guild, and having approached, they said to that guild: “Sirs, give these robes to these monks.”
+*Bu-Pc.82.1.1* *BD.3.67* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery.[^1] Now at that time at Sāvatthī food with robe-material was prepared for the Order by a certain guild, saying: “Having offered food, we will present them with robe-material.” Then the group of six bhikkhus approached that guild, and having approached, they said to that guild: “Sirs, give these robes to these bhikkhus.”
 
 “Honoured sirs, we will not give; almsfood with robes are made ready by us every year for the Order.”
 
-“Sirs, many are the Order’s benefactors, many are the Order’s devotees. These (monks) are here depending on you, looking to you, but if you will not give to them, then *Vin.4.156* who is there who will give to them? Sirs, give these robes to these monks.”
+“Sirs, many are the Order’s benefactors, many are the Order’s devotees. These (bhikkhus) are here depending on you, looking to you, but if you will not give to them, then *Vin.4.156* who is there who will give to them? Sirs, give these robes to these bhikkhus.”
 
-Then that guild, being pressed by the group of six monks, giving the group of six monks as much robe-material as was prepared, served the Order with a meal. Those monks who knew that robe-material with a meal[^2] was prepared for the Order and did not know that it was given to the group of six monks, spoke thus:
+Then that guild, being pressed by the group of six bhikkhus, giving the group of six bhikkhus as much robe-material as was prepared, served the Order with a meal. Those bhikkhus who knew that robe-material with a meal[^2] was prepared for the Order and did not know that it was given to the group of six bhikkhus, spoke thus:
 
 “Sirs, dedicate robe-material to the Order.”
 
-“Honoured sirs, there is none; the masters, the group of six monks appropriated to the masters, the group of six monks, as much robe-material as was prepared.”
+“Honoured sirs, there is none; the masters, the group of six bhikkhus appropriated to the masters, the group of six bhikkhus, as much robe-material as was prepared.”
 
-Those who were modest monks … spread it about, saying:
+Those who were modest bhikkhus … spread it about, saying:
 
-“How can the group of six monks knowingly appropriate to an individual an apportioned benefit belonging to the Order?” …
+“How can the group of six bhikkhus knowingly appropriate to an individual an apportioned benefit belonging to the Order?” …
 
-*BD.3.68* “Is it true, as is said, that you, monks, knowingly appropriated to an individual an apportioned benefit belonging to the Order?”
+*BD.3.68* “Is it true, as is said, that you, bhikkhus, knowingly appropriated to an individual an apportioned benefit belonging to the Order?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, knowingly appropriate to an individual an apportioned benefit belonging to the Order? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, knowingly appropriate to an individual an apportioned benefit belonging to the Order? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should knowingly appropriate to an individual an apportioned benefit belonging to the Order, there is an offence of expiation.”
+“Whatever bhikkhu should knowingly appropriate to an individual an apportioned benefit belonging to the Order, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.82.2.1* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.82.2.1* Whatever means: … bhikkhu is to be understood in this case.
 
 He knows means: either he knows by himself or others tell him or (someone) tells him.
 
@@ -71,7 +71,7 @@ The Eighth Division: that on regarding a rule.
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

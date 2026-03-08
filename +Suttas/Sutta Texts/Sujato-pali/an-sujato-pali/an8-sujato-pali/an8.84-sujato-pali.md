@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a master thief with eight factors is soon executed, and doesn’t have long to live. What eight? He attacks unprovoked. He steals everything without exception. He kills a woman. He rapes a girl. He robs a monk. He robs the royal treasury. He works close to home. He’s not skilled at hiding his booty. A master thief with these eight factors is soon executed, and doesn’t have long to live.
+1“bhikkhus, a master thief with eight factors is soon executed, and doesn’t have long to live. What eight? He attacks unprovoked. He steals everything without exception. He kills a woman. He rapes a girl. He robs a bhikkhu. He robs the royal treasury. He works close to home. He’s not skilled at hiding his booty. A master thief with these eight factors is soon executed, and doesn’t have long to live.
 
-2A master thief with eight factors is not soon executed, and lives long. What eight? He doesn’t attack unprovoked. He doesn’t steal everything without exception. He doesn’t kill a woman. He doesn’t rape a girl. He doesn’t rob a monk. He doesn’t rob the royal treasury. He doesn’t work close to home. He’s skilled at hiding his booty. A master thief with these eight factors is not soon executed, and lives long.”
+2A master thief with eight factors is not soon executed, and lives long. What eight? He doesn’t attack unprovoked. He doesn’t steal everything without exception. He doesn’t kill a woman. He doesn’t rape a girl. He doesn’t rob a bhikkhu. He doesn’t rob the royal treasury. He doesn’t work close to home. He’s skilled at hiding his booty. A master thief with these eight factors is not soon executed, and lives long.”
 
 1"Aṭṭhahi, bhikkhave, aṅgehi samannāgato mahācoro khippaṁ pariyāpajjati, na ciraṭṭhitiko hoti. Katamehi aṭṭhahi? Appāhārantassa pāhārati, anavasesaṁ ādiyati, itthiṁ hanati, kumāriṁ dūseti, pabbajitaṁ vilumpati, rājakosaṁ vilumpati, accāsanne kammaṁ karoti, na ca nidhānakusalo hoti. Imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgato mahācoro khippaṁ pariyāpajjati, na ciraṭṭhitiko hoti.
 

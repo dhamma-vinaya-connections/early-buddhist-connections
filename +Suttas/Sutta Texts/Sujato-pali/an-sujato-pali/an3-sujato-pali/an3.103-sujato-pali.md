@@ -17,7 +17,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, before my awakening — when I was still unawakened but intent on awakening — I thought: ‘What’s the gratification in the world? What’s the drawback? What’s the escape?’
+1“bhikkhus, before my awakening — when I was still unawakened but intent on awakening — I thought: ‘What’s the gratification in the world? What’s the drawback? What’s the escape?’
 
 Then it occurred to me: ‘The pleasure and happiness that arise from the world: this is its gratification.
 

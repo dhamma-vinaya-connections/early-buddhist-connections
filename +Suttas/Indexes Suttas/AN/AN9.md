@@ -12,13 +12,13 @@ contribution:
 >  Beginning with good friendship, the Buddha  teaches nine things that give rise to the qualities that lead to awakening.
 
 > [!example]- 🌐[[AN9.2]] - 📜[Available texts](obsidian://search?query=file:an9.2-) - Nissaya – Support 
->  The things that a mendicant relies on as supports in spiritual practice
+>  The things that a bhikkhu relies on as supports in spiritual practice
 
 > [!example]- 🌐[[AN9.3]] - 📜[Available texts](obsidian://search?query=file:an9.3-) - Sambodhi – Awakening 
 >  Beginning with good friendship, the Buddha  teaches nine things that give rise to the qualities that lead to awakening.
 
 > [!example]- 🌐[[AN9.4]] - 📜[Available texts](obsidian://search?query=file:an9.4-) - Nandaka – With Nandaka 
->  Nandaka is teaching the monks when the Buddha  arrives. Unbeknown to those inside, the Buddha  waits until the talk was finished, then enters. Nandaka is embarrassed at keeping the Buddha  waiting, but the Buddha  praises him and offers a teaching on the four things a mendicant should complete. Nandaka then teaches five benefits of listening to dhamma
+>  Nandaka is teaching the monks when the Buddha  arrives. Unbeknown to those inside, the Buddha  waits until the talk was finished, then enters. Nandaka is embarrassed at keeping the Buddha  waiting, but the Buddha  praises him and offers a teaching on the four things a bhikkhu should complete. Nandaka then teaches five benefits of listening to dhamma
 
 > [!example]- 🌐[[AN9.5]] - 📜[Available texts](obsidian://search?query=file:an9.5-) - Bala – Powers 
 >  A noble disciple who develops four powers overcomes five fears
@@ -81,10 +81,10 @@ contribution:
 >  Nine realms into which sentient beings may be reborn
 
 > [!example]- 🌐[[AN9.25]] - 📜[Available texts](obsidian://search?query=file:an9.25-) - Paññā – Consolidated By Wisdom 
->  Nine reflections by which a mendicant knows their mind has wisdom
+>  Nine reflections by which a bhikkhu knows their mind has wisdom
 
 > [!example]- 🌐[[AN9.26]] - 📜[Available texts](obsidian://search?query=file:an9.26-) - Paññā – Consolidated By Wisdom 
->  Nine reflections by which a mendicant knows their mind has wisdom
+>  Nine reflections by which a bhikkhu knows their mind has wisdom
 
 > [!example]- 🌐[[AN9.27]] - 📜[Available texts](obsidian://search?query=file:an9.27-) - Paṭhamavera – Dangers And Threats 
 >  Anyone  who has eliminated the perils that come with breaking the five precepts, and possesses the four factors of stream-entry is freed from lower rebirths
@@ -123,10 +123,10 @@ contribution:
 >  Two brahmin cosmologists ask the Buddha  to decide between competing claims as to whether the cosmos is infinite. Rejecting metaphysical claims, the Buddha  says that there is no end of the world that can be reached by traveling; but without reaching the end of the world you can’t be free of suffering
 
 > [!example]- 🌐[[AN9.39]] - 📜[Available texts](obsidian://search?query=file:an9.39-) - Devāsurasaṅgāma – War Between The Gods And The Demons 
->  In the wars between gods and demons, they find safety only in their own fortress. Similarly, a mendicant finds safety in absorption
+>  In the wars between gods and demons, they find safety only in their own fortress. Similarly, a bhikkhu finds safety in absorption
 
 > [!example]- 🌐[[AN9.40]] - 📜[Available texts](obsidian://search?query=file:an9.40-) - Naga – Simile Of The Bull Elephant In The Forest 
->  A bull elephant, annoyed by living in the herd, goes off by himself. Similarly, a mendicant feeling crowded in a monastery goes off by themselves and happily meditates in seclusion
+>  A bull elephant, annoyed by living in the herd, goes off by himself. Similarly, a bhikkhu feeling crowded in a monastery goes off by themselves and happily meditates in seclusion
 
 > [!example]- 🌐[[AN9.41]] - 📜[Available texts](obsidian://search?query=file:an9.41-) - Tapussa – Householder Tapussa 
 >  The householder tapussa reflects that it is renunciation that distinguishes lay from monastic. The Buddha  responds by giving a long account of his practice of absorption before awakening

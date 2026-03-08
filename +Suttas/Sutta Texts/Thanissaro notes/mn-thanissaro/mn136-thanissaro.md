@@ -23,7 +23,7 @@ I have heard that on one occasion the Blessed One was staying near Rājagaha at 
 
 “Not long, friend. Three years.”
 
-“Then what now should I say about the elder monks, when a junior monk would suppose that his Teacher is to be defended in this way? Having intentionally done an action with body, with speech, or with mind, what does one experience?”
+“Then what now should I say about the elder bhikkhus, when a junior bhikkhu would suppose that his Teacher is to be defended in this way? Having intentionally done an action with body, with speech, or with mind, what does one experience?”
 
 “Having intentionally done an action with body, with speech, or with mind, one experiences stress.”
 
@@ -41,7 +41,7 @@ When this was said, Ven. Udāyin said to the Blessed One, “But what if Ven. Sa
 
 When this was said, the Blessed One said to Ven. Ānanda, “Look, Ānanda, at how this worthless Udāyin interrupts. I knew just now that he would interrupt in an inappropriate way. From the very beginning, Potaliputta the wanderer was asking about the three kinds of feeling. When this worthless Samiddhi was asked by him in this way, he should have answered, ‘Having intentionally done—with body, with speech, or with mind—an action that is to be felt as pleasure, one experiences pleasure. Having intentionally done—with body, with speech, or with mind—an action that is to be felt as pain, one experiences pain. Having intentionally done—with body, with speech, or with mind—an action that is to be felt as neither-pleasure-nor-pain, one experiences neither-pleasure-nor-pain.’ Answering this way, this worthless Samiddhi would have rightly answered Potaliputta the wanderer. But then who[3](#^mn136note03) are these wanderers of other sects, foolish & inexperienced? And who would understand the Tathāgata’s greater analysis of action—if you were to listen, Ānanda, to the Tathāgata analyzing the greater analysis of action?” ^mn136note03-ref
 
-“This is the time, O Blessed One. This is the time, O One Well-Gone, for the Blessed One to analyze the greater analysis of action. Having heard the Blessed One, the monks will bear it in mind.”
+“This is the time, O Blessed One. This is the time, O One Well-Gone, for the Blessed One to analyze the greater analysis of action. Having heard the Blessed One, the bhikkhus will bear it in mind.”
 
 “In that case, Ānanda, listen and pay close attention. I will speak.”
 

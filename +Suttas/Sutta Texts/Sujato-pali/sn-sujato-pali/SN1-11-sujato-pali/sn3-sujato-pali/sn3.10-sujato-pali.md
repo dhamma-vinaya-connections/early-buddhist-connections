@@ -22,7 +22,7 @@ language: "English - Pali"
 
 1Now at that time a large group of people had been put in shackles by King Pasenadi of Kosala—some in ropes, some in manacles, some in chains.
 
-2Then several mendicants robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms. Then, after the meal, when they returned from alms-round, they went up to the Buddha, bowed, sat down to one side, and told him what was happening.
+2Then several bhikkhus robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms. Then, after the meal, when they returned from alms-round, they went up to the Buddha, bowed, sat down to one side, and told him what was happening.
 
 
 3Then, knowing the meaning of this, on that occasion the Buddha recited these verses:

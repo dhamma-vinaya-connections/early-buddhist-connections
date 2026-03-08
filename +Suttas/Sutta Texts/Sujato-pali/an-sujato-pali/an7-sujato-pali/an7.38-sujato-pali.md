@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with seven qualities will soon realize the four kinds of textual analysis and live having achieved them with their own insight. What seven?
+1“bhikkhus, a bhikkhu with seven qualities will soon realize the four kinds of textual analysis and live having achieved them with their own insight. What seven?
 
-It’s when a mendicant truly understands: ‘This is mental sluggishness’.
+It’s when a bhikkhu truly understands: ‘This is mental sluggishness’.
 
 They truly understand internally constricted mind as ‘internally constricted mind’.
 
@@ -36,7 +36,7 @@ They know thoughts as they arise, as they remain, and as they go away.
 
 The patterns of qualities—suitable or unsuitable, inferior or superior, or those on the side of dark or bright—are properly grasped, attended, borne in mind, and comprehended with wisdom.
 
-A mendicant with these seven qualities will soon realize the four kinds of textual analysis and live having achieved them with their own insight.”
+A bhikkhu with these seven qualities will soon realize the four kinds of textual analysis and live having achieved them with their own insight.”
 
 1"Sattahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva catasso paṭisambhidā sayaṁ abhiññā sacchikatvā upasampajja vihareyya. Katamehi sattahi?
 

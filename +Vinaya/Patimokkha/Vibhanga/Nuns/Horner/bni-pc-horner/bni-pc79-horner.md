@@ -13,13 +13,13 @@ language: "English"
 
 “How can the lady Thullanandā ordain … grief?”
 
-“Is it true, as is said, monks, that the nun Thullanandā ordained … grief?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā ordained … grief?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā *Vin.4.334* ordain … grief? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā *Vin.4.334* ordain … grief? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should ordain a probationer who keeps company with men, who keeps company with youths, who is violent, a dwelling-place of grief, there is an offence of expiation.”
 

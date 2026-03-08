@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a meal-allocator who has four qualities is cast down to hell. What four? They make decisions prejudiced by favoritism, hostility, stupidity, and cowardice. A meal-allocator who has these four qualities is cast down to hell.
+1“bhikkhus, a meal-allocator who has four qualities is cast down to hell. What four? They make decisions prejudiced by favoritism, hostility, stupidity, and cowardice. A meal-allocator who has these four qualities is cast down to hell.
 
 2A meal-allocator who has four qualities is raised up to heaven. What four? They make decisions unprejudiced by favoritism, hostility, stupidity, and cowardice. A meal-allocator who has these four qualities is raised up to heaven.
 

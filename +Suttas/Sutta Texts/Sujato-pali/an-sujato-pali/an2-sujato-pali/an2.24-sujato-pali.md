@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these two misrepresent the Realized One. What two? One who explains a discourse in need of interpretation as a discourse whose meaning is explicit. And one who explains a discourse whose meaning is explicit as a discourse in need of interpretation. These two misrepresent the Realized One.”
+1“bhikkhus, these two misrepresent the Realized One. What two? One who explains a discourse in need of interpretation as a discourse whose meaning is explicit. And one who explains a discourse whose meaning is explicit as a discourse in need of interpretation. These two misrepresent the Realized One.”
 
 1"Dveme, bhikkhave, tathāgataṁ abbhācikkhanti. Katame dve? Yo ca neyyatthaṁ suttantaṁ nītattho suttantoti dīpeti, yo ca nītatthaṁ suttantaṁ neyyattho suttantoti dīpeti. Ime kho, bhikkhave, dve tathāgataṁ abbhācikkhantī"ti.
 

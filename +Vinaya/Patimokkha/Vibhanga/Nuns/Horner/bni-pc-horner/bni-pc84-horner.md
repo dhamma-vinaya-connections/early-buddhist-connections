@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.84.1.1* *BD.3.400* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six nuns used sunshades and sandals. People … spread it about, saying: “How can these nuns use sunshades and sandals, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six nuns use sunshades and sandals?” …
 
-“Is it true, as is said, monks … and sandals?”
+“Is it true, as is said, bhikkhus … and sandals?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can … and sandals? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can … and sandals? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should use a sunshade and sandals, there is an offence of expiation.”
 
@@ -25,7 +25,7 @@ And thus this rule of training for nuns came to be laid down by the lord.
 
 * * *
 
-*Bi-Pc.84.1.2* At that time a certain nun came to be ill; *Vin.4.338* there was no comfort for her without a sunshade and sandals. They told this matter to the lord. He said: “Monks, I allow a sunshade and sandals to a nun who is ill. And thus, monks, let the nuns set forth this rule of training:
+*Bi-Pc.84.1.2* At that time a certain nun came to be ill; *Vin.4.338* there was no comfort for her without a sunshade and sandals. They told this matter to the lord. He said: “bhikkhus, I allow a sunshade and sandals to a nun who is ill. And thus, bhikkhus, let the nuns set forth this rule of training:
 
 “Whatever nun who is not ill should use a sunshade and sandals, there is an offence of expiation.”[^1]
 

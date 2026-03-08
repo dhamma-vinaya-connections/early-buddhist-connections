@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were receiving almsfood contemptuously, as if wanting to throw it away. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were receiving almsfood contemptuously, as if wanting to throw it away. …
 
 #### Final ruling
 
 2“‘I will receive almsfood respectfully,’ this is how you should train.”
 
-3Almsfood is to be received respectfully. If a monk, out of disrespect, receives almsfood contemptuously, as if wanting to throw it away, he commits an offense of wrong conduct.
+3Almsfood is to be received respectfully. If a bhikkhu, out of disrespect, receives almsfood contemptuously, as if wanting to throw it away, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

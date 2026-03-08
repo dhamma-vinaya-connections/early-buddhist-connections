@@ -52,7 +52,7 @@ But idiots still fall for them
 > 
 > Just as a bird strewn with dirt
 Sheds that clingy dust with a shake;
-So too, an energetic, mindful mendicant
+So too, an energetic, mindful bhikkhu
 Sheds that clingy dust with a shake
 > 
 

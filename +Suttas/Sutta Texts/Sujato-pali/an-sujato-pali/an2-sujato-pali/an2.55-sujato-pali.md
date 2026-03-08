@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these two are worthy of a monument. What two? The Realized One, the perfected one, the fully awakened Buddha; and the wheel-turning monarch. These are the two who are worthy of a monument.”
+1“bhikkhus, these two are worthy of a monument. What two? The Realized One, the perfected one, the fully awakened Buddha; and the wheel-turning monarch. These are the two who are worthy of a monument.”
 
 1"Dveme, bhikkhave, thūpārahā. Katame dve? Tathāgato ca arahaṁ sammāsambuddho, rājā ca cakkavattī. Ime kho, bhikkhave, dve thūpārahā"ti.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are five benefits of giving. What five? A giver, a donor is dear and beloved by many people. Good people associate with them. They get a good reputation. They don’t neglect a layperson’s duties. When their body breaks up, after death, they’re reborn in a good place, a heavenly realm. These are the five benefits of giving.
+1“bhikkhus, there are five benefits of giving. What five? A giver, a donor is dear and beloved by many people. Good people associate with them. They get a good reputation. They don’t neglect a layperson’s duties. When their body breaks up, after death, they’re reborn in a good place, a heavenly realm. These are the five benefits of giving.
 
 
 2Giving, one is loved,  

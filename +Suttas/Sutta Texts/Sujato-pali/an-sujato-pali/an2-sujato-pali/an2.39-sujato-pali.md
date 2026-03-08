@@ -23,12 +23,12 @@ language: "English - Pali"
 1“At a time when bandits are strong, kings are weak. Then the king is not at ease when going out or coming back or when touring the provinces. The brahmins and householders, likewise, are not at ease when going out or coming back, or when inspecting their business activities.
 
 
-In the same way, at a time when bad mendicants are strong, good-hearted mendicants are weak. Then the good-hearted mendicants continually adhere to silence in the midst of the Saṅgha, or they stay in the borderlands. This is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans.
+In the same way, at a time when bad bhikkhus are strong, good-hearted bhikkhus are weak. Then the good-hearted bhikkhus continually adhere to silence in the midst of the Saṅgha, or they stay in the borderlands. This is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans.
 
 2At a time when kings are strong, bandits are weak. Then the king is at ease when going out or coming back or when inspecting the provinces. The brahmins and householders, likewise, are at ease when going out or coming back, or when inspecting their business activities.
 
 
-In the same way, at a time when good-hearted mendicants are strong, bad mendicants are weak. Then the bad mendicants continually adhere to silence in the midst of the Saṅgha, or they leave for some place or other. This is for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”
+In the same way, at a time when good-hearted bhikkhus are strong, bad bhikkhus are weak. Then the bad bhikkhus continually adhere to silence in the midst of the Saṅgha, or they leave for some place or other. This is for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”
 
 1"Yasmiṁ, bhikkhave, samaye corā balavanto honti, rājāno tasmiṁ samaye dubbalā honti. Tasmiṁ, bhikkhave, samaye rañño na phāsu hoti atiyātuṁ vā niyyātuṁ vā paccantime vā janapade anusaññātuṁ. Brāhmaṇagahapatikānampi tasmiṁ samaye na phāsu hoti atiyātuṁ vā niyyātuṁ vā bāhirāni vā kammantāni paṭivekkhituṁ.
 

@@ -24,12 +24,12 @@ language: "English - Pali"
 
 “What is the cause, sir, what is the reason why the true teaching does not last long after the final extinguishment of the Realized One?”
 
-“Kimbila, it’s when the monks, nuns, laymen, and laywomen lack respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and each other after the final extinguishment of the Realized One. This is the cause, this is the reason why the true teaching does not last long after the final extinguishment of the Realized One.”
+“Kimbila, it’s when the bhikkhus, nuns, laymen, and laywomen lack respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and each other after the final extinguishment of the Realized One. This is the cause, this is the reason why the true teaching does not last long after the final extinguishment of the Realized One.”
 
 
 2“What is the cause, sir, what is the reason why the true teaching does last long after the final extinguishment of the Realized One?”
 
-“Kimbila, it’s when the monks, nuns, laymen, and laywomen maintain respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and each other after the final extinguishment of the Realized One. This is the cause, this is the reason why the true teaching does last long after the final extinguishment of the Realized One.”
+“Kimbila, it’s when the bhikkhus, nuns, laymen, and laywomen maintain respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and each other after the final extinguishment of the Realized One. This is the cause, this is the reason why the true teaching does last long after the final extinguishment of the Realized One.”
 
 #### Pali
 

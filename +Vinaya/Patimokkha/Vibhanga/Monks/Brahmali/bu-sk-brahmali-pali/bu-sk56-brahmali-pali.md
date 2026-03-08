@@ -16,18 +16,18 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying in the Bhagga country at Susumāragira in the Bhesakaḷā Grove, the monks in the Kokanada stilt house were discarding their bowl-washing water containing rice in inhabited areas. People complained and criticized them:
+1At one time when the Buddha was staying in the Bhagga country at Susumāragira in the Bhesakaḷā Grove, the bhikkhus in the Kokanada stilt house were discarding their bowl-washing water containing rice in inhabited areas. People complained and criticized them:
 
 “How can the Sakyan monastics discard their bowl-washing water containing rice in inhabited areas? They’re just like householders who indulge in worldly pleasures!”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can those monks do this?” …
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can those bhikkhus do this?” …
 
-“Is it true, monks, that they do this?”
+“Is it true, bhikkhus, that they do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How can those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

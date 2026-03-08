@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Sāriputta addressed the mendicants: “Reverends, mendicants!”
+1There Sāriputta addressed the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Sāriputta said this:
 

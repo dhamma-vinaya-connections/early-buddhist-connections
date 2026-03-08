@@ -47,9 +47,9 @@ parallels_partilal: ""
 > The four aspects of textual analysis
 
 > [!info] Key Excerpts 
-> When a mendicant has attained the textual analysis of meaning, text, terminology, and eloquence
+> When a bhikkhu has attained the textual analysis of meaning, text, terminology, and eloquence
 > 
-> And they review the extent of their mind’s freedom. A mendicant who has these five things will soon penetrate the unshakable.”
+> And they review the extent of their mind’s freedom. A bhikkhu who has these five things will soon penetrate the unshakable.”
 > 
 
 

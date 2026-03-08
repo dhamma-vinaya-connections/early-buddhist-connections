@@ -15,13 +15,13 @@ language: "English"
 ## ## Gotamaka-cetiya Sutta
 
 
-On one occasion the Blessed One was staying near Vesāli at Gotamaka Shrine. There he addressed the monks, “Monks!”
+On one occasion the Blessed One was staying near Vesāli at Gotamaka Shrine. There he addressed the bhikkhus, “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said, “Monks, it’s through direct knowledge that I teach the Dhamma, not without direct knowledge. It’s with a cause that I teach the Dhamma, not without a cause. It’s with marvels that I teach the Dhamma, not without marvels.[1](#^[[an3-thanissaro]].126note01) Because I teach the Dhamma through direct knowledge and not without direct knowledge, because I teach the Dhamma with a cause and not without a cause, because I teach the Dhamma with marvels and not without marvels, there is good reason for my instruction, good reason for my admonition. And it is enough for you to be content, enough for you to be gratified, enough for you to take joy, that the Blessed One is rightly self-awakened, the Dhamma is well-taught by the Blessed One, and the Saṅgha has practiced rightly.” ^[[an3-thanissaro]].126note01-ref
+The Blessed One said, “bhikkhus, it’s through direct knowledge that I teach the Dhamma, not without direct knowledge. It’s with a cause that I teach the Dhamma, not without a cause. It’s with marvels that I teach the Dhamma, not without marvels.[1](#^[[an3-thanissaro]].126note01) Because I teach the Dhamma through direct knowledge and not without direct knowledge, because I teach the Dhamma with a cause and not without a cause, because I teach the Dhamma with marvels and not without marvels, there is good reason for my instruction, good reason for my admonition. And it is enough for you to be content, enough for you to be gratified, enough for you to take joy, that the Blessed One is rightly self-awakened, the Dhamma is well-taught by the Blessed One, and the Saṅgha has practiced rightly.” ^[[an3-thanissaro]].126note01-ref
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words. And while this explanation was being given, the ten-thousand-fold cosmos quaked.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words. And while this explanation was being given, the ten-thousand-fold cosmos quaked.
 
 Note
 

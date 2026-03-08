@@ -15,13 +15,13 @@ language: "English"
 ## ## Khama Sutta
 
 
-“Monks, there are these four modes of practice. Which four? Intolerant practice, tolerant practice, self-controlled practice, and even practice.[1](#^[[an4-thanissaro]].164note01) ^[[an4-thanissaro]].164note01-ref
+“bhikkhus, there are these four modes of practice. Which four? Intolerant practice, tolerant practice, self-controlled practice, and even practice.[1](#^[[an4-thanissaro]].164note01) ^[[an4-thanissaro]].164note01-ref
 
 “And which is intolerant practice? There is the case where a certain individual, when insulted, returns the insult; when abused, returns the abuse; when bickered with, bickers in return. This is called intolerant practice.
 
 “And which is tolerant practice? There is the case where a certain individual, when insulted, doesn’t return the insult; when abused, doesn’t return the abuse; when bickered with, doesn’t bicker in return. This is called tolerant practice.
 
-“And which is self-controlled practice? There is the case where a monk, on seeing a form with the eye, doesn’t grasp at any theme or variations by which—if he were to dwell without restraint over the faculty of the eye—evil, unskillful qualities such as greed or distress might assail him. He practices with restraint. He guards the faculty of the eye. He achieves restraint with regard to the faculty of the eye.
+“And which is self-controlled practice? There is the case where a bhikkhu, on seeing a form with the eye, doesn’t grasp at any theme or variations by which—if he were to dwell without restraint over the faculty of the eye—evil, unskillful qualities such as greed or distress might assail him. He practices with restraint. He guards the faculty of the eye. He achieves restraint with regard to the faculty of the eye.
 
 “On hearing a sound with the ear.…
 
@@ -35,7 +35,7 @@ language: "English"
 
 “This is called self-controlled practice.
 
-“And which is even practice? There is the case where a monk doesn’t acquiesce to an arisen thought of sensuality. He abandons it, destroys it, dispels it, wipes it out of existence.
+“And which is even practice? There is the case where a bhikkhu doesn’t acquiesce to an arisen thought of sensuality. He abandons it, destroys it, dispels it, wipes it out of existence.
 
 “He doesn’t acquiesce to an arisen thought of ill will. He abandons it, destroys it, dispels it, wipes it out of existence.
 
@@ -45,7 +45,7 @@ language: "English"
 
 “This is called even practice.
 
-“These, monks, are four modes of practice.”
+“These, bhikkhus, are four modes of practice.”
 
 Note
 

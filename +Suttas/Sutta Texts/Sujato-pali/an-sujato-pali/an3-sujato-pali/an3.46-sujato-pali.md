@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when ethical renunciates are supported by a town or village, the people there make much merit in three ways. What three? By way of body, speech, and mind. When ethical renunciates are supported by a town or village, the people there make much merit in these three ways.”
+1“bhikkhus, when ethical renunciates are supported by a town or village, the people there make much merit in three ways. What three? By way of body, speech, and mind. When ethical renunciates are supported by a town or village, the people there make much merit in these three ways.”
 
 1"Yaṁ, bhikkhave, sīlavanto pabbajitā gāmaṁ vā nigamaṁ vā upanissāya viharanti. Tattha manussā tīhi ṭhānehi bahuṁ puññaṁ pasavanti. Katamehi tīhi? Kāyena, vācāya, manasā. Yaṁ, bhikkhave, sīlavanto pabbajitā gāmaṁ vā nigamaṁ vā upanissāya viharanti. Tattha manussā imehi tīhi ṭhānehi bahuṁ puññaṁ pasavantī"ti.
 

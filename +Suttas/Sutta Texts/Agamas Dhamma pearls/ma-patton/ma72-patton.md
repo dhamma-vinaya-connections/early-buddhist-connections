@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma72note01) One time, the Buddha traveled to Kauśāmbī and stayed at Ghoṣila Park. ^ma72note01-ref
 
-2. At the time, the Kauśāmbī monks were having numerous quarrels with each other. The Bhagavān told the Kauśāmbī monks, “Monks, don’t quarrel with each other. Why is that?
+2. At the time, the Kauśāmbī bhikkhus were having numerous quarrels with each other. The Bhagavān told the Kauśāmbī bhikkhus, “bhikkhus, don’t quarrel with each other. Why is that?
 
 - “If you end disputes with disputes,  
     There won’t ever be an end to them.  
@@ -162,15 +162,15 @@ language: "English"
 
 65. “Thereupon, King Brahmadatta used the royal bath to bathe Prince Dīrghajāti, anointed him with royal incense, and dressed him in royal clothes. He directed that he ride on a golden chariot seat and returned him to his former kingdom with his father’s wife.
 
-#### The Kauśāmbī Monks
+#### The Kauśāmbī bhikkhus
 
-66. “Monks, those kings were warrior kings born from the crown and the lords of great kingdoms. Ruling the world under heaven, their own actions were tolerant, and they praised tolerance. Their own actions were kind, and they praised kindness. Their own actions were merciful, and they praised mercy.
+66. “bhikkhus, those kings were warrior kings born from the crown and the lords of great kingdoms. Ruling the world under heaven, their own actions were tolerant, and they praised tolerance. Their own actions were kind, and they praised kindness. Their own actions were merciful, and they praised mercy.
 
-67. “Monks, you should be likewise. Attaining faith, renouncing home, being homeless, and training on the path, you should act tolerantly and praise tolerance. Your own actions being kind, praise kindness, too. Your own actions being merciful, praise mercy, too.”
+67. “bhikkhus, you should be likewise. Attaining faith, renouncing home, being homeless, and training on the path, you should act tolerantly and praise tolerance. Your own actions being kind, praise kindness, too. Your own actions being merciful, praise mercy, too.”
 
-68. The monks who heard what the Buddha taught had this to say, “The Bhagavān is the Dharma Lord! Now, it would be fitting for him to stay. The other monks instruct us, so how can we not instruct them?”
+68. The bhikkhus who heard what the Buddha taught had this to say, “The Bhagavān is the Dharma Lord! Now, it would be fitting for him to stay. The other bhikkhus instruct us, so how can we not instruct them?”
 
-69. The Bhagavān was not pleased with the Kauśāmbī monks’ behavior, reverence, training, and practice. He then rose from his seat and spoke these verses:
+69. The Bhagavān was not pleased with the Kauśāmbī bhikkhus’ behavior, reverence, training, and practice. He then rose from his seat and spoke these verses:
 
 - “By numerous voices,  
     The most honored assembly is broken;  
@@ -244,7 +244,7 @@ Venerable Bhagu said, “Bhagavān, I don’t sleep day and night, diligently pr
 
 73. After encouraging, rousing, and making him rejoice, the Bhagavān rose from his seat and went to a protected temple grove. Entering that protected temple grove, he went to a tree, spread out his sitting mat under it, and sat down cross-legged.
 
-74. The Bhagavān thought, “I’ve freed myself from the repeated quarreling of those of Kauśāmbī monks who were subduing each other, disliking each other, and angrily disputing with each other. I’m displeased just thinking about that direction, that residence of the Kauśāmbī monks.”
+74. The Bhagavān thought, “I’ve freed myself from the repeated quarreling of those of Kauśāmbī bhikkhus who were subduing each other, disliking each other, and angrily disputing with each other. I’m displeased just thinking about that direction, that residence of the Kauśāmbī bhikkhus.”
 
 75. At that moment, there was a great elephant who was the king of an elephant herd. He parted with the herd and went wandering alone. He also went to that protected temple grove. Entering the protected temple grove, he came upon the worthy’s sal tree and stood near that rare worthy’s sal tree.
 

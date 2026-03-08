@@ -15,29 +15,29 @@ language: "English"
 ## ## Anāgata-bhayāni Sutta
 
 
-“Monks, these five future dangers, unarisen at present, will arise in the future. Be alert to them and, being alert, work to get rid of them. Which five?
+“bhikkhus, these five future dangers, unarisen at present, will arise in the future. Be alert to them and, being alert, work to get rid of them. Which five?
 
-“There will be, in the course of the future, monks desirous of fine robes. They, desirous of fine robes, will neglect the practice of wearing cast-off cloth; will neglect isolated forest & wilderness dwellings; will move to towns, cities, & royal capitals, taking up residence there. For the sake of a robe they will do many kinds of unseemly, inappropriate things.
+“There will be, in the course of the future, bhikkhus desirous of fine robes. They, desirous of fine robes, will neglect the practice of wearing cast-off cloth; will neglect isolated forest & wilderness dwellings; will move to towns, cities, & royal capitals, taking up residence there. For the sake of a robe they will do many kinds of unseemly, inappropriate things.
 
-“This, monks, is the first future danger, unarisen at present, that will arise in the future. Be alert to it and, being alert, work to get rid of it.
+“This, bhikkhus, is the first future danger, unarisen at present, that will arise in the future. Be alert to it and, being alert, work to get rid of it.
 
-“And further, in the course of the future there will be monks desirous of fine food. They, desirous of fine food, will neglect the practice of going for alms; will neglect isolated forest & wilderness dwellings; will move to towns, cities, & royal capitals, taking up residence there and searching out the tip-top tastes with the tip of the tongue. For the sake of food they will do many kinds of unseemly, inappropriate things.
+“And further, in the course of the future there will be bhikkhus desirous of fine food. They, desirous of fine food, will neglect the practice of going for alms; will neglect isolated forest & wilderness dwellings; will move to towns, cities, & royal capitals, taking up residence there and searching out the tip-top tastes with the tip of the tongue. For the sake of food they will do many kinds of unseemly, inappropriate things.
 
-“This, monks, is the second future danger, unarisen at present, that will arise in the future. Be alert to it and, being alert, work to get rid of it.
+“This, bhikkhus, is the second future danger, unarisen at present, that will arise in the future. Be alert to it and, being alert, work to get rid of it.
 
-“And further, in the course of the future there will be monks desirous of fine lodgings. They, desirous of fine lodgings, will neglect the practice of living in the wilds; will neglect isolated forest & wilderness dwellings; will move to towns, cities, & royal capitals, taking up residence there. For the sake of lodgings they will do many kinds of unseemly, inappropriate things.
+“And further, in the course of the future there will be bhikkhus desirous of fine lodgings. They, desirous of fine lodgings, will neglect the practice of living in the wilds; will neglect isolated forest & wilderness dwellings; will move to towns, cities, & royal capitals, taking up residence there. For the sake of lodgings they will do many kinds of unseemly, inappropriate things.
 
-“This, monks, is the third future danger, unarisen at present, that will arise in the future. Be alert to it and, being alert, work to get rid of it.
+“This, bhikkhus, is the third future danger, unarisen at present, that will arise in the future. Be alert to it and, being alert, work to get rid of it.
 
-“And further, in the course of the future there will be monks who will live in close association with nuns, female trainees, & female novices. As they interact with nuns, female trainees, & female novices, they can be expected either to lead the holy life dissatisfied or to fall into one of the defiling offenses, leaving the training, returning to a lower way of life.
+“And further, in the course of the future there will be bhikkhus who will live in close association with nuns, female trainees, & female novices. As they interact with nuns, female trainees, & female novices, they can be expected either to lead the holy life dissatisfied or to fall into one of the defiling offenses, leaving the training, returning to a lower way of life.
 
-“This, monks, is the fourth future danger, unarisen at present, that will arise in the future. Be alert to it and, being alert, work to get rid of it.
+“This, bhikkhus, is the fourth future danger, unarisen at present, that will arise in the future. Be alert to it and, being alert, work to get rid of it.
 
-“And further, in the course of the future there will be monks who will live in close association with monastery attendants & novices. As they interact with monastery attendants & novices, they can be expected to live committed to many kinds of stored-up possessions and to making large boundary posts for fields & crops.
+“And further, in the course of the future there will be bhikkhus who will live in close association with monastery attendants & novices. As they interact with monastery attendants & novices, they can be expected to live committed to many kinds of stored-up possessions and to making large boundary posts for fields & crops.
 
-“This, monks, is the fifth future danger, unarisen at present, that will arise in the future. Be alert to it and, being alert, work to get rid of it.
+“This, bhikkhus, is the fifth future danger, unarisen at present, that will arise in the future. Be alert to it and, being alert, work to get rid of it.
 
-“These, monks, are the five future dangers, unarisen at present, that will arise in the future. Be alert to them and, being alert, work to get rid of them.”
+“These, bhikkhus, are the five future dangers, unarisen at present, that will arise in the future. Be alert to them and, being alert, work to get rid of them.”
 
 See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.10-thanissaro]]; [[sn12-21-thanissaro/sn16-thanissaro/sn16.5-thanissaro]]; [[an3.35-thanissaro]]; [[an4.28-thanissaro]]; [[an7.56-thanissaro]]; [[an8.103-thanissaro]]; [[ud2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag18-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]
 

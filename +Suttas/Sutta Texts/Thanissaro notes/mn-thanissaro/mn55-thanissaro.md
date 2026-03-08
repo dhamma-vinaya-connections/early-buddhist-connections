@@ -23,15 +23,15 @@ I have heard that on one occasion the Blessed One was staying near Rājagaha, in
 
 “I say that there are three instances in which meat may be consumed: when it is not seen, not heard, and not suspected. These are the three instances in which I say that meat may be consumed.
 
-“There is the case where a monk lives in dependence on a certain village or town. He keeps pervading the first direction [the east] with an awareness imbued with goodwill, likewise the second, likewise the third, likewise the fourth. Thus above, below, & all around, everywhere, in its entirety, he keeps pervading the all-encompassing cosmos with an awareness imbued with goodwill—abundant, enlarged, immeasurable, without hostility, without ill will.
+“There is the case where a bhikkhu lives in dependence on a certain village or town. He keeps pervading the first direction [the east] with an awareness imbued with goodwill, likewise the second, likewise the third, likewise the fourth. Thus above, below, & all around, everywhere, in its entirety, he keeps pervading the all-encompassing cosmos with an awareness imbued with goodwill—abundant, enlarged, immeasurable, without hostility, without ill will.
 
 “Then a householder or householder’s son, having gone to him, invites him for the next day’s meal. If he wants to, he acquiesces. With the ending of the night, early in the morning, having adjusted his under robe and carrying his robes & bowl, he goes to the home of the householder or householder’s son. On arrival, he sits down on a seat laid out. The householder or householder’s son serves him with exquisite almsfood. The thought doesn’t occur to him, ‘How good it is that this householder or householder’s son serves me with exquisite almsfood! O, if only this householder or householder’s son would serve me with exquisite almsfood like this in the future!’ That thought doesn’t occur to him. He eats that almsfood unattached to it, uninfatuated, guiltless, seeing the drawbacks [of attachment to it], and discerning the escape from them.
 
-“What do you think, Jīvaka? Does that monk on that occasion intend for his own affliction, does he intend for the affliction of others, or does he intend for the affliction of both?”
+“What do you think, Jīvaka? Does that bhikkhu on that occasion intend for his own affliction, does he intend for the affliction of others, or does he intend for the affliction of both?”
 
 “No, lord.”
 
-“Doesn’t the monk on that occasion eat that food blamelessly?”
+“Doesn’t the bhikkhu on that occasion eat that food blamelessly?”
 
 “Yes, lord. I have heard it said that ‘Brahmā dwells in goodwill.’ Lord, the Blessed One is my visible witness to that, for the Blessed One dwells in goodwill.”
 
@@ -39,15 +39,15 @@ I have heard that on one occasion the Blessed One was staying near Rājagaha, in
 
 “What I said was precisely in reference to that, lord.”
 
-“There is the case, Jīvaka, where a monk lives in dependence on a certain village or town. He keeps pervading the first direction [the east] with an awareness imbued with compassion... empathetic joy... equanimity, likewise the second, likewise the third, likewise the fourth. Thus above, below, & all around, everywhere, in its entirety, he keeps pervading the all-encompassing cosmos with an awareness imbued with equanimity—abundant, enlarged, immeasurable, without hostility, without ill will.
+“There is the case, Jīvaka, where a bhikkhu lives in dependence on a certain village or town. He keeps pervading the first direction [the east] with an awareness imbued with compassion... empathetic joy... equanimity, likewise the second, likewise the third, likewise the fourth. Thus above, below, & all around, everywhere, in its entirety, he keeps pervading the all-encompassing cosmos with an awareness imbued with equanimity—abundant, enlarged, immeasurable, without hostility, without ill will.
 
 “Then a householder or householder’s son, having gone to him, invites him for the next day’s meal. If he wants to, he acquiesces. With the ending of the night, early in the morning, having adjusted his under robe and carrying his robes & bowl, he goes to the home of the householder or householder’s son. On arrival, he sits down on a seat laid out. The householder or householder’s son serves him with exquisite almsfood. The thought doesn’t occur to him, ‘How good it is that this householder or householder’s son serves me with exquisite almsfood! O, if only this householder or householder’s son would serve me with exquisite almsfood like this in the future!’ That thought doesn’t occur to him. He eats that almsfood unattached to it, uninfatuated, guiltless, seeing the drawbacks [of attachment to it], and discerning the escape from them.
 
-“What do you think, Jīvaka? Does that monk on that occasion intend for his own affliction, does he intend for the affliction of others, or does he intend for the affliction of both?”
+“What do you think, Jīvaka? Does that bhikkhu on that occasion intend for his own affliction, does he intend for the affliction of others, or does he intend for the affliction of both?”
 
 “No, lord.”
 
-“Doesn’t the monk on that occasion eat that food blamelessly?”
+“Doesn’t the bhikkhu on that occasion eat that food blamelessly?”
 
 “Yes, lord. I have heard it said that ‘Brahmā dwells in equanimity.’ Lord, the Blessed One is my visible witness to that, for the Blessed One dwells in equanimity.”
 
@@ -69,9 +69,9 @@ I have heard that on one occasion the Blessed One was staying near Rājagaha, in
 
 “Jīvaka, whoever slaughters an animal for the sake of the Tathāgata or a disciple of the Tathāgata produces much demerit in these five instances.”
 
-When this was said, Jīvaka Komārabhacca said to the Blessed One, “It’s amazing, lord. It’s astounding—how allowable is the food the monks eat! How blameless is the food the monks eat!
+When this was said, Jīvaka Komārabhacca said to the Blessed One, “It’s amazing, lord. It’s astounding—how allowable is the food the bhikkhus eat! How blameless is the food the bhikkhus eat!
 
-“Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of monks. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
+“Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
 ### Notes
 

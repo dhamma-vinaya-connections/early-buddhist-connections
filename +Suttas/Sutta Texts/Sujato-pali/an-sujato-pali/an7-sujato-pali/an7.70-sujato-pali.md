@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1Then as Venerable Sāriputta was in private retreat this thought came to his mind: “What should a mendicant honor and respect and rely on, to give up the unskillful and develop the skillful?”
+1Then as Venerable Sāriputta was in private retreat this thought came to his mind: “What should a bhikkhu honor and respect and rely on, to give up the unskillful and develop the skillful?”
 
-Then he thought: “A mendicant should honor and respect and rely on the Teacher … the teaching … the Saṅgha … the training … immersion … diligence … A mendicant should honor and respect and rely on hospitality, to give up the unskillful and develop the skillful.”
+Then he thought: “A bhikkhu should honor and respect and rely on the Teacher … the teaching … the Saṅgha … the training … immersion … diligence … A bhikkhu should honor and respect and rely on hospitality, to give up the unskillful and develop the skillful.”
 
 
 2Then he thought: “These qualities are pure and bright in me. Why don’t I go and tell them to the Buddha? Then these qualities will not only be purified in me, but will be better known as purified. Suppose a man were to acquire a gold ornament, pure and bright. They’d think, ‘My gold ornament is pure and bright. Why don’t I take it to show the smiths? Then it will not only be purified, but will be better known as purified.’ In the same way, these qualities are pure and bright in me. Why don’t I go and tell them to the Buddha? Then these qualities will not only be purified in me, but will be better known as purified.”
@@ -31,51 +31,51 @@ Then he thought: “A mendicant should honor and respect and rely on the Teacher
 3-4Then in the late afternoon, Sāriputta came out of retreat and went to the Buddha. He bowed, sat down to one side, and told the Buddha of his thoughts while on retreat.
 
 
-5“Good, good, Sāriputta! A mendicant should honor and respect and rely on the Teacher, to give up the unskillful and develop the skillful. A mendicant should honor and respect and rely on the teaching … the Saṅgha … the training … immersion … diligence … A mendicant should honor and respect and rely on hospitality, to give up the unskillful and develop the skillful.”
+5“Good, good, Sāriputta! A bhikkhu should honor and respect and rely on the Teacher, to give up the unskillful and develop the skillful. A bhikkhu should honor and respect and rely on the teaching … the Saṅgha … the training … immersion … diligence … A bhikkhu should honor and respect and rely on hospitality, to give up the unskillful and develop the skillful.”
 
 6When he said this, Venerable Sāriputta said to the Buddha:
 
 “Sir, this is how I understand the detailed meaning of the Buddha’s brief statement.
 
-It’s quite impossible for a mendicant who doesn’t respect the Teacher to respect the teaching. A mendicant who disrespects the Teacher disrespects the teaching.
+It’s quite impossible for a bhikkhu who doesn’t respect the Teacher to respect the teaching. A bhikkhu who disrespects the Teacher disrespects the teaching.
 
 
-7It’s quite impossible for a mendicant who doesn’t respect the Teacher and the teaching to respect the Saṅgha. A mendicant who disrespects the Teacher and the teaching disrespects the Saṅgha.
+7It’s quite impossible for a bhikkhu who doesn’t respect the Teacher and the teaching to respect the Saṅgha. A bhikkhu who disrespects the Teacher and the teaching disrespects the Saṅgha.
 
-8It’s quite impossible for a mendicant who doesn’t respect the Teacher, the teaching, and the Saṅgha to respect the training. A mendicant who disrespects the Teacher, the teaching, and the Saṅgha disrespects the training.
+8It’s quite impossible for a bhikkhu who doesn’t respect the Teacher, the teaching, and the Saṅgha to respect the training. A bhikkhu who disrespects the Teacher, the teaching, and the Saṅgha disrespects the training.
 
-9It’s quite impossible for a mendicant who doesn’t respect the Teacher, the teaching, the Saṅgha, and the training to respect immersion. A mendicant who disrespects the Teacher, the teaching, the Saṅgha, and the training disrespects immersion.
+9It’s quite impossible for a bhikkhu who doesn’t respect the Teacher, the teaching, the Saṅgha, and the training to respect immersion. A bhikkhu who disrespects the Teacher, the teaching, the Saṅgha, and the training disrespects immersion.
 
-10It’s quite impossible for a mendicant who doesn’t respect the Teacher, the teaching, the Saṅgha, the training, and immersion to respect diligence. A mendicant who disrespects the Teacher, the teaching, the Saṅgha, the training, and immersion disrespects diligence.
+10It’s quite impossible for a bhikkhu who doesn’t respect the Teacher, the teaching, the Saṅgha, the training, and immersion to respect diligence. A bhikkhu who disrespects the Teacher, the teaching, the Saṅgha, the training, and immersion disrespects diligence.
 
-11It’s quite impossible for a mendicant who doesn’t respect the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence to respect hospitality. A mendicant who disrespects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence disrespects hospitality.
+11It’s quite impossible for a bhikkhu who doesn’t respect the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence to respect hospitality. A bhikkhu who disrespects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence disrespects hospitality.
 
-12It’s quite impossible for a mendicant who does respect the Teacher to disrespect the teaching. …
+12It’s quite impossible for a bhikkhu who does respect the Teacher to disrespect the teaching. …
 
 
-13A mendicant who respects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence respects hospitality.
+13A bhikkhu who respects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence respects hospitality.
 
-14It’s quite possible for a mendicant who respects the Teacher to respect teaching. …
+14It’s quite possible for a bhikkhu who respects the Teacher to respect teaching. …
 
-15A mendicant who respects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence respects hospitality.
+15A bhikkhu who respects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence respects hospitality.
 
 16That’s how I understand the detailed meaning of the Buddha’s brief statement.”
 
 
 17“Good, good, Sāriputta! It’s good that you understand the detailed meaning of what I’ve said in brief like this.
 
-It’s quite impossible for a mendicant who doesn’t respect the Teacher to respect the teaching. …
+It’s quite impossible for a bhikkhu who doesn’t respect the Teacher to respect the teaching. …
 
-18A mendicant who disrespects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence disrespects hospitality.
+18A bhikkhu who disrespects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence disrespects hospitality.
 
-19It’s quite impossible for a mendicant who does respect the Teacher to disrespect the teaching. …
+19It’s quite impossible for a bhikkhu who does respect the Teacher to disrespect the teaching. …
 
 
-20A mendicant who respects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence respects hospitality.
+20A bhikkhu who respects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence respects hospitality.
 
-21It’s quite possible for a mendicant who does respect the Teacher to respect the teaching. …
+21It’s quite possible for a bhikkhu who does respect the Teacher to respect the teaching. …
 
-22A mendicant who respects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence respects hospitality.
+22A bhikkhu who respects the Teacher, the teaching, the Saṅgha, the training, immersion, and diligence respects hospitality.
 
 23This is how to understand the detailed meaning of what I said in brief.”
 

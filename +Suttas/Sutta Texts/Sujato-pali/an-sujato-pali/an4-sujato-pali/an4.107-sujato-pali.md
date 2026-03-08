@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four kinds of mice. What four?
+1“bhikkhus, there are these four kinds of mice. What four?
 
 1. One makes a hole but doesn’t live in it,
 2. one lives in a hole but doesn’t make it,

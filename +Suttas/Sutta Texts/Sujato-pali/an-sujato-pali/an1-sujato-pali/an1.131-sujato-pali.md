@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-131“Mendicants, those mendicants who explain what is the teaching as not the teaching are acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. They make much bad karma and make the true teaching disappear.”
+131“bhikkhus, those bhikkhus who explain what is the teaching as not the teaching are acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. They make much bad karma and make the true teaching disappear.”
 
-132-139“Those mendicants who explain what is not found in the texts on monastic training as found in those texts … what is found in the texts on monastic training as not found in those texts … what was not spoken and stated by the Realized One as spoken and stated by the Realized One … what was spoken and stated by the Realized One as not spoken and stated by the Realized One … what was not practiced by the Realized One as practiced by the Realized One … what was practiced by the Realized One as not practiced by the Realized One … what was not prescribed by the Realized One as prescribed by the Realized One … what was prescribed by the Realized One as not prescribed by the Realized One are acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. They make much bad karma and make the true teaching disappear.”
+132-139“Those bhikkhus who explain what is not found in the texts on monastic training as found in those texts … what is found in the texts on monastic training as not found in those texts … what was not spoken and stated by the Realized One as spoken and stated by the Realized One … what was spoken and stated by the Realized One as not spoken and stated by the Realized One … what was not practiced by the Realized One as practiced by the Realized One … what was practiced by the Realized One as not practiced by the Realized One … what was not prescribed by the Realized One as prescribed by the Realized One … what was prescribed by the Realized One as not prescribed by the Realized One are acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. They make much bad karma and make the true teaching disappear.”
 
 
 ---

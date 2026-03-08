@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three unskillful roots. What three? Greed, hate, and delusion.
+1“bhikkhus, there are these three unskillful roots. What three? Greed, hate, and delusion.
 
 2Greed is a root of the unskillful. When a greedy person chooses to act by way of body, speech, or mind, that too is unskillful. When a greedy person, overcome by greed, causes another to suffer under a false pretext — by execution or imprisonment or confiscation or condemnation or banishment — thinking ‘I’m powerful, I want power’, that too is unskillful. And so these many bad, unskillful things are produced in them born, sourced, originated, and conditioned by greed.
 

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 88
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three inside stains, inside enemies, inside foes, inside murderers, inside adversaries. Which three? Greed is an inside stain, inside enemy, inside foe, inside murderer, inside adversary. Aversion is an inside stain.… Delusion is an inside stain, inside enemy, inside foe, inside murderer, inside adversary. These are the three inside stains, inside enemies, inside foes, inside murderers, inside adversaries.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three inside stains, inside enemies, inside foes, inside murderers, inside adversaries. Which three? Greed is an inside stain, inside enemy, inside foe, inside murderer, inside adversary. Aversion is an inside stain.… Delusion is an inside stain, inside enemy, inside foe, inside murderer, inside adversary. These are the three inside stains, inside enemies, inside foes, inside murderers, inside adversaries.”
 
 Greed causes harm.
 

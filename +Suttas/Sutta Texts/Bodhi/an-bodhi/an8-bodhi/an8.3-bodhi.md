@@ -14,9 +14,9 @@ language: "English"
 
 > **Division:** I. LOVING-KINDNESS
 
-“Bhikkhus, possessing eight qualities, a bhikkhu is displeasing and disagreeable to his fellow monks and is neither respected nor esteemed by them. What eight? Here, (1) a bhikkhu praises those who are displeasing and (2) criticizes those who are pleasing; (3) he is desirous of gains and (4) honor; (5) he is morally shameless and (6) morally reckless; (7) he has evil desires and (8) holds wrong view. Possessing these eight qualities, a bhikkhu is displeasing and disagreeable to his fellow monks and is neither respected nor esteemed by them.
+“Bhikkhus, possessing eight qualities, a bhikkhu is displeasing and disagreeable to his fellow bhikkhus and is neither respected nor esteemed by them. What eight? Here, (1) a bhikkhu praises those who are displeasing and (2) criticizes those who are pleasing; (3) he is desirous of gains and (4) honor; (5) he is morally shameless and (6) morally reckless; (7) he has evil desires and (8) holds wrong view. Possessing these eight qualities, a bhikkhu is displeasing and disagreeable to his fellow bhikkhus and is neither respected nor esteemed by them.
 
-“Bhikkhus, possessing eight qualities, a bhikkhu is pleasing and agreeable to his fellow monks and is respected and esteemed by them. What eight? \[156\] Here, (1) a bhikkhu does not praise those who are displeasing or (2) criticize those who are pleasing; (3) he is not desirous of gains or (4) honor; (5) he has a sense of moral shame and (6) moral dread; (7) he has few desires and (8) holds right view. Possessing these eight qualities, a bhikkhu is pleasing and agreeable to his fellow monks and is respected and esteemed by them.”
+“Bhikkhus, possessing eight qualities, a bhikkhu is pleasing and agreeable to his fellow bhikkhus and is respected and esteemed by them. What eight? \[156\] Here, (1) a bhikkhu does not praise those who are displeasing or (2) criticize those who are pleasing; (3) he is not desirous of gains or (4) honor; (5) he has a sense of moral shame and (6) moral dread; (7) he has few desires and (8) holds right view. Possessing these eight qualities, a bhikkhu is pleasing and agreeable to his fellow bhikkhus and is respected and esteemed by them.”
 
 
 ---

@@ -44,10 +44,10 @@ parallels_partilal: "[[AN5.45]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> When a mendicant meditates using an offering, merit overflows for the donor
+> When a bhikkhu meditates using an offering, merit overflows for the donor
 
 > [!info] Key Excerpts 
-> When a mendicant enters and remains in a limitless immersion of heart while using a robe, food, lodging and medicine the overflowing of merit for the donor is limitless
+> When a bhikkhu enters and remains in a limitless immersion of heart while using a robe, food, lodging and medicine the overflowing of merit for the donor is limitless
 > 
 > They nurture happiness and are conducive to heaven, ripening in happiness and leading to heaven. They lead to what is likable, desirable, agreeable, to welfare and happiness
 > 

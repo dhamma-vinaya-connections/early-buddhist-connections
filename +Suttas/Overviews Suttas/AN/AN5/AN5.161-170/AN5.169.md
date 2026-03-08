@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant who is quick-witted when it comes to skillful principles, who learns well
+> bhikkhu who is quick-witted when it comes to skillful principles, who learns well
 
 > [!info] Key Excerpts 
 > Skilled in the meaning, skilled in the teaching, skilled in terminology, skilled in phrasing, and skilled in sequence.

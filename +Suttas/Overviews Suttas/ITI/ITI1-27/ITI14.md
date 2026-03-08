@@ -53,7 +53,7 @@ parallels_partilal: ""
 that craving brings stress into play– free from craving,
 devoid of clinging,
 mindful,  the monk
-lives the mendicant life.
+lives the bhikkhu life.
 > 
 
 

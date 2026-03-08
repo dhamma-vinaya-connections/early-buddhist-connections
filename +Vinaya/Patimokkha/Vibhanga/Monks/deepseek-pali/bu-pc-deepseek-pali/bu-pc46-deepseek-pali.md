@@ -135,7 +135,7 @@ If, not being invited, he perceives himself as invited, there is an offense of w
 
 302. Anāpatti samaye, santaṃ bhikkhuṃ āpucchā pavisati, asantaṃ bhikkhuṃ anāpucchā pavisati, aññassa gharena maggo hoti, gharūpacārena maggo hoti, antarārāmaṃ gacchati, bhikkhunupassayaṃ gacchati, titthiyaseyyaṃ gacchati, paṭikkamanaṃ gacchati, bhattiyagharaṃ gacchati, āpadāsu, ummattakassa, ādikammikassāti.
 
-302.There is no offense: at the proper time; if one enters after asking a monk who is present; if one enters without asking a monk who is absent; if the path is through another's house; if the path is for access to a dwelling; if one goes to a monastery within the village; if one goes to a nunnery; if one goes to a lodging of sectarians; if one goes to a place of retreat; if one goes to a house of invited meals; in times of danger; in the case of one who is insane; in the case of a beginner.
+302.There is no offense: at the proper time; if one enters after asking a bhikkhu who is present; if one enters without asking a bhikkhu who is absent; if the path is through another's house; if the path is for access to a dwelling; if one goes to a monastery within the village; if one goes to a nunnery; if one goes to a lodging of sectarians; if one goes to a place of retreat; if one goes to a house of invited meals; in times of danger; in the case of one who is insane; in the case of a beginner.
 
 Cārittasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
 

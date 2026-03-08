@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were making large mouthfuls. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were making large mouthfuls. …
 
 #### Final ruling
 
 2“‘I will not make mouthful that are too large,’ this is how you should train.”
 
-3One should not make mouthfuls that are too large. If a monk, out of disrespect, makes a large mouthful, he commits an offense of wrong conduct.
+3One should not make mouthfuls that are too large. If a bhikkhu, out of disrespect, makes a large mouthful, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

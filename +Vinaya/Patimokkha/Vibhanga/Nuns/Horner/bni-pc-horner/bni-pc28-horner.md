@@ -13,13 +13,13 @@ language: "English"
 
 *BD.3.299* “How can the lady Thullanandā give recluses’ robe-material to a householder?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā gave recluses’ robe-material to a householder?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā gave recluses’ robe-material to a householder?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā give recluses’ robe-material to a householder? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā give recluses’ robe-material to a householder? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should give recluses’ robe-material to a householder or to a wanderer or to a female wanderer, there is an offence of expiation.”
 

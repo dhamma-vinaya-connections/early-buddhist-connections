@@ -75,11 +75,11 @@ Taṃ atikkāmayato nissaggiyaṃ hotī [hotīti idaṃ padaṃ sabbapotthakesu 
 
 466. ‘‘Suṇantu me āyasmantā. Idaṃ cīvaraṃ itthannāmassa bhikkhuno nissaggiyaṃ āyasmantānaṃ nissaṭṭhaṃ. Yadāyasmantānaṃ pattakallaṃ, āyasmantā imaṃ cīvaraṃ itthannāmassa bhikkhuno dadeyyu’’nti.
 
-466.“May the venerable ones hear me. This robe, belonging to the monk named so-and-so, has been relinquished to the venerable ones. If it seems fit to the venerable ones, the venerable ones may give this robe to the monk named so-and-so.”
+466.“May the venerable ones hear me. This robe, belonging to the bhikkhu named so-and-so, has been relinquished to the venerable ones. If it seems fit to the venerable ones, the venerable ones may give this robe to the bhikkhu named so-and-so.”
 
 467. Tena bhikkhunā ekaṃ bhikkhuṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo – ‘‘idaṃ me, āvuso, cīvaraṃ dasāhātikkantaṃ nissaggiyaṃ. Imāhaṃ āyasmato nissajjāmī’’ti. Nissajjitvā āpatti desetabbā. Tena bhikkhunā āpatti paṭiggahetabbā. Nissaṭṭhacīvaraṃ dātabbaṃ – ‘‘imaṃ cīvaraṃ āyasmato dammī’’ti.
 
-467.That monk should approach a single monk, arrange his upper robe over one shoulder, squat down, raise his joined hands, and say: “Friend, this robe of mine has been kept beyond the ten-day limit and is subject to forfeiture. I relinquish it to the venerable one.” After relinquishing it, the offense should be confessed. That monk should accept the confession. The relinquished robe should be given: “I give this robe to the venerable one.”
+467.That bhikkhu should approach a single bhikkhu, arrange his upper robe over one shoulder, squat down, raise his joined hands, and say: “Friend, this robe of mine has been kept beyond the ten-day limit and is subject to forfeiture. I relinquish it to the venerable one.” After relinquishing it, the offense should be confessed. That bhikkhu should accept the confession. The relinquished robe should be given: “I give this robe to the venerable one.”
 
 468. Dasāhātikkante atikkantasaññī, nissaggiyaṃ pācittiyaṃ. Dasāhātikkante vematiko, nissaggiyaṃ pācittiyaṃ. Dasāhātikkante anatikkantasaññī, nissaggiyaṃ pācittiyaṃ. Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṃ pācittiyaṃ. Avikappite vikappitasaññī, nissaggiyaṃ pācittiyaṃ. Avissajjite vissajjitasaññī, nissaggiyaṃ pācittiyaṃ. Anaṭṭhe naṭṭhasaññī, nissaggiyaṃ pācittiyaṃ. Avinaṭṭhe vinaṭṭhasaññī, nissaggiyaṃ pācittiyaṃ. Adaḍḍhe daḍḍhasaññī, nissaggiyaṃ pācittiyaṃ. Avilutte viluttasaññī, nissaggiyaṃ pācittiyaṃ.
 
@@ -95,7 +95,7 @@ If he uses a robe requiring relinquishment without relinquishing it, there is an
 
 470. Tena kho pana samayena chabbaggiyā bhikkhū nissaṭṭhacīvaraṃ na denti. Bhagavato etamatthaṃ ārocesuṃ. ‘‘Na, bhikkhave, nissaṭṭhacīvaraṃ na dātabbaṃ. Yo na dadeyya, āpatti dukkaṭassā’’ti.
 
-470.At that time the monks of the group of six did not give away relinquished robes. They informed the Blessed One about this matter. “Monks, relinquished robes should not be withheld. Whoever does not give them away incurs an offense of wrong-doing.”
+470.At that time the bhikkhus of the group of six did not give away relinquished robes. They informed the Blessed One about this matter. “bhikkhus, relinquished robes should not be withheld. Whoever does not give them away incurs an offense of wrong-doing.”
 
 Kathinasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
 

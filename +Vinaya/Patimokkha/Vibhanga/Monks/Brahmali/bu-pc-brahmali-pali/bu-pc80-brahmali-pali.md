@@ -16,12 +16,12 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the Sangha had gathered on some business. The monks from the group of six were busy making robes and so they gave their consent to one among them.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the Sangha had gathered on some business. The bhikkhus from the group of six were busy making robes and so they gave their consent to one among them.
 
 When the Sangha was ready to do the legal procedure for which it had gathered, it put forward a motion. That monk from the group of six thought: “This is just how they do legal procedures against us one by one, but against who will you do this one?” and without giving his consent, he got up from his seat and left.
 
 
-2The monks of few desires complained and criticized him:
+2The bhikkhus of few desires complained and criticized him:
 
 “When the Sangha is in the middle of a discussion, how could that monk get up from his seat and leave without giving his consent?” …
 
@@ -30,7 +30,7 @@ When the Sangha was ready to do the legal procedure for which it had gathered, i
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these six things are unsurpassable. What six? The unsurpassable seeing, listening, acquisition, training, service, and recollection.
+1“bhikkhus, these six things are unsurpassable. What six? The unsurpassable seeing, listening, acquisition, training, service, and recollection.
 
 And what is the unsurpassable seeing? Some people go to see an elephant-treasure, a horse-treasure, a jewel-treasure, or a diverse spectrum of sights; or ascetics and brahmins of wrong view and wrong practice. There is such a seeing, I don’t deny it. That seeing is low, crude, ordinary, ignoble, and pointless. It doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. The unsurpassable seeing is when someone with settled faith and love, sure and devoted, goes to see a Realized One or their disciple. This is in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to end the cycle of suffering, and to realize extinguishment. This is called the unsurpassable seeing. Such is the unsurpassable seeing.
 

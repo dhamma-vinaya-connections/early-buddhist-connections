@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four ways of being inclusive. What four? Giving, kindly words, taking care, and equality.
+1“bhikkhus, there are these four ways of being inclusive. What four? Giving, kindly words, taking care, and equality.
 
 These are the four ways of being inclusive.
 

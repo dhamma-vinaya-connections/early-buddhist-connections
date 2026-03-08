@@ -50,7 +50,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > 4 jhanas, dimension of infinite space, infinite consciousness, nothingness, neither perception nor non-perception, cessation of perception and feeling
 > 
-> While a mendicant is in such a meditation, should perceptions and attentions of lesser states  beset them, that’s an affliction for them
+> While a bhikkhu is in such a meditation, should perceptions and attentions of lesser states  beset them, that’s an affliction for them
 > 
 
 

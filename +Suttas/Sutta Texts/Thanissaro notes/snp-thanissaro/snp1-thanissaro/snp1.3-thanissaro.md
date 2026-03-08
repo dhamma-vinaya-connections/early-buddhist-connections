@@ -18,7 +18,7 @@ _Other versions of this poem exist in Sanskrit: a short Sanskrit version in the 
 
 _Like the Pārānaya Vagga, this poem is given a detailed interpretation in Nd II. Nd II ends its discussion of this sutta by saying that it was spoken by a Private Buddha, i.e., one who gains awakening on his own but is unable to formulate the Dhamma in such a way as to teach others to gain awakening. This assertion, however, is contradicted by the content of some of the verses, such as the one beginning, “Consort with one who is learned, who maintains the Dhamma, a great & quick-witted friend.” Such a friend would not have existed in the time of a Private Buddha._
 
-_There is evidence suggesting that in the centuries after the rule of King Asoka, monastery-dwelling monks began to look askance at forest-dwelling monks, and in some cases even forbade them from entering the precincts around the stupas of their monasteries. Because Nd I and Nd II were most likely composed by monastery-dwelling monks, it might be the case that they tried to blunt the message of this sutta by attributing it to a Private Buddha rather than to our Buddha, the implication being that its advice was not appropriate for monks of their day and age._
+_There is evidence suggesting that in the centuries after the rule of King Asoka, monastery-dwelling bhikkhus began to look askance at forest-dwelling bhikkhus, and in some cases even forbade them from entering the precincts around the stupas of their monasteries. Because Nd I and Nd II were most likely composed by monastery-dwelling bhikkhus, it might be the case that they tried to blunt the message of this sutta by attributing it to a Private Buddha rather than to our Buddha, the implication being that its advice was not appropriate for bhikkhus of their day and age._
 
 Renouncing violence
 
@@ -580,9 +580,9 @@ free          from craving,
 
 devoid     of clinging,
 
-mindful,     the monk
+mindful,     the bhikkhu
 
-lives the mendicant life.
+lives the bhikkhu life.
 
 Nd II illustrates its reference to the path going one way only with this verse from [[snp47.18-thanissaro]] and [[snp47.43-thanissaro]]:
 
@@ -620,9 +620,9 @@ the flood.
 
 11. Reading _gaṇḍo_ with the Thai editions. The other editions have _gaḷo,_ fishhook. See [[an9.15-thanissaro]]. [↩︎](#^snp1-3-11-ref) ^snp1-3-11
 
-12. Nd II explains “not soggy” by quoting Ven. Mahā Moggallāna’s words in [[sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]]. The central part of the passage is this: “And how is one soggy? There is the case where a monk, when seeing a form via the eye, is, in the case of pleasing forms, committed to forms and, in the case of displeasing forms, afflicted by forms. He remains with body-mindfulness not present, and with limited awareness. And he does not discern, as it has come to be, the awareness-release & discernment-release where those evil, unskillful qualities that have arisen cease without trace. [Similarly with the remaining sense media.] … [↩︎](#^snp1-3-12-ref) ^snp1-3-12
+12. Nd II explains “not soggy” by quoting Ven. Mahā Moggallāna’s words in [[sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]]. The central part of the passage is this: “And how is one soggy? There is the case where a bhikkhu, when seeing a form via the eye, is, in the case of pleasing forms, committed to forms and, in the case of displeasing forms, afflicted by forms. He remains with body-mindfulness not present, and with limited awareness. And he does not discern, as it has come to be, the awareness-release & discernment-release where those evil, unskillful qualities that have arisen cease without trace. [Similarly with the remaining sense media.] … [↩︎](#^snp1-3-12-ref) ^snp1-3-12
 
-“And how is one not soggy? There is the case where a monk, when seeing a form via the eye, is not, in the case of pleasing forms, committed to forms nor, in the case of displeasing forms, afflicted by forms. He remains with body-mindfulness present, and with immeasurable awareness. And he discerns, as it has come to be, the awareness-release & discernment-release where those evil, unskillful qualities that have arisen cease without trace. [Similarly with the remaining sense media.]”
+“And how is one not soggy? There is the case where a bhikkhu, when seeing a form via the eye, is not, in the case of pleasing forms, committed to forms nor, in the case of displeasing forms, afflicted by forms. He remains with body-mindfulness present, and with immeasurable awareness. And he discerns, as it has come to be, the awareness-release & discernment-release where those evil, unskillful qualities that have arisen cease without trace. [Similarly with the remaining sense media.]”
 
 See also [[an3.110-thanissaro]].
 

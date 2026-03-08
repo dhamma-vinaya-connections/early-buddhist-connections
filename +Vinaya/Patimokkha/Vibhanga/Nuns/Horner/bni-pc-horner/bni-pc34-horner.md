@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.34.1.1* *BD.3.309* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the nun Thullanandā, when (the woman) who lived with her[^1] was ailing, neither attended to her nor made an effort[^2] to get her attended to. Those who were modest nuns … spread it about, saying: “How can the lady Thullanandā, when (the woman) who lives with her is ailing, neither attend to her nor make an effort to get her attended to?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā … neither attended to her nor … attended to?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā … neither attended to her nor … attended to?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā, when (the woman) who lives with her is ailing, neither attend to her nor make an effort to get her attended to? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā, when (the woman) who lives with her is ailing, neither attend to her nor make an effort to get her attended to? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should neither attend to an ailing (woman) who lives with her nor should make an effort to get her attended to, there is an offence of expiation.”
 

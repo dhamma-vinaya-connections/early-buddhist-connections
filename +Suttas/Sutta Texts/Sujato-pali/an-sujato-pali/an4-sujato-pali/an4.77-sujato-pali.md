@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four things are unthinkable. They should not be thought about, and anyone who tries to think about them will go mad or get frustrated. What four?
+1“bhikkhus, these four things are unthinkable. They should not be thought about, and anyone who tries to think about them will go mad or get frustrated. What four?
 
 
 The scope of the Buddhas …

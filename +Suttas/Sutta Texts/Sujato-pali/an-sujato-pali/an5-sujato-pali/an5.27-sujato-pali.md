@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, develop limitless immersion, alert and mindful. When you develop limitless immersion, alert and mindful, five knowledges arise for you personally. What five?
+1“bhikkhus, develop limitless immersion, alert and mindful. When you develop limitless immersion, alert and mindful, five knowledges arise for you personally. What five?
 
 ‘This immersion is blissful now, and results in bliss in the future.’ …
 

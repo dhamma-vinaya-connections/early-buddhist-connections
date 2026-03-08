@@ -66,13 +66,13 @@ from a lowly lineage:
 
 Have the royal messengers hurry
 
-to see where this monk will go.”
+to see where this bhikkhu will go.”
 
 They—the messengers dispatched—
 
 followed behind him.
 
-“Where will this monk go?
+“Where will this bhikkhu go?
 
 Where will his dwelling place be?”
 
@@ -96,7 +96,7 @@ three messengers sat down,
 
 while one returned to tell the king.
 
-“That monk, your majesty,
+“That bhikkhu, your majesty,
 
 on the flank of Paṇḍava,
 

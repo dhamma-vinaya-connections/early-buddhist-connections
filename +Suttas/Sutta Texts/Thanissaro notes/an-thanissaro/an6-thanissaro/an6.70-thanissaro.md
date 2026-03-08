@@ -15,7 +15,7 @@ language: "English"
 ## ## Samādhi Sutta
 
 
-“Monks, it’s impossible that a monk—with samādhi that is not peaceful, not exquisite, not attained through calming, not immersed in unification—would wield manifold supranormal powers; that having been one he would become many; that having been many he would become one; that he would appear, vanish, go unimpeded through walls, ramparts, & mountains as if through space; that he would dive in & out of the earth as if it were water; that he would walk on water without sinking as if it were dry land; that sitting cross-legged he would fly through the air like a winged bird; that with his hand he would touch & stroke even the sun & moon, so mighty & powerful; that he would influence with his body even as far as the Brahmā worlds.
+“bhikkhus, it’s impossible that a bhikkhu—with samādhi that is not peaceful, not exquisite, not attained through calming, not immersed in unification—would wield manifold supranormal powers; that having been one he would become many; that having been many he would become one; that he would appear, vanish, go unimpeded through walls, ramparts, & mountains as if through space; that he would dive in & out of the earth as if it were water; that he would walk on water without sinking as if it were dry land; that sitting cross-legged he would fly through the air like a winged bird; that with his hand he would touch & stroke even the sun & moon, so mighty & powerful; that he would influence with his body even as far as the Brahmā worlds.
 
 “It’s impossible that he would hear—by means of the divine ear-element, purified & surpassing the human—both kinds of sounds: divine & human, whether near or far.
 

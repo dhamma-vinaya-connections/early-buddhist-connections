@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 45
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, live enjoying aloofness, delighting in aloofness, inwardly committed to awareness-tranquility, not neglecting jhāna, endowed with clear-seeing insight, and frequenting empty buildings. As you live enjoying aloofness, delighting in aloofness, inwardly committed to awareness-tranquility, not neglecting jhāna, endowed with clear-seeing insight, and frequenting empty buildings, then one of two fruits can be expected: either gnosis right in the here-&-now, or–if there be any remnant of clinging-sustenance–non-return.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, live enjoying aloofness, delighting in aloofness, inwardly committed to awareness-tranquility, not neglecting jhāna, endowed with clear-seeing insight, and frequenting empty buildings. As you live enjoying aloofness, delighting in aloofness, inwardly committed to awareness-tranquility, not neglecting jhāna, endowed with clear-seeing insight, and frequenting empty buildings, then one of two fruits can be expected: either gnosis right in the here-&-now, or–if there be any remnant of clinging-sustenance–non-return.”
 
 Those with calm minds–
 

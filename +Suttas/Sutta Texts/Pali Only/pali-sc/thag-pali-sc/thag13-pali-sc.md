@@ -11,7 +11,7 @@ language: "Pali"
 > ◄  [[thag12-pali-sc]] 📜  [[thag14-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 ### Chapter 13: The Group of Thirteen Verses
 
 ##### 13.1 Soṇakoḷivisatheragāthā

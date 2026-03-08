@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant developing mindfulness of breathing who has five things will soon penetrate the unshakable. What five?
+1“bhikkhus, a bhikkhu developing mindfulness of breathing who has five things will soon penetrate the unshakable. What five?
 
-It’s when a mendicant has few requirements and duties, and is easily looked after and contented with life’s necessities.
+It’s when a bhikkhu has few requirements and duties, and is easily looked after and contented with life’s necessities.
 
 They eat little, not devoted to filling their stomach.
 
@@ -34,7 +34,7 @@ They get to take part in talk about self-effacement that helps open the heart, w
 
 They review the extent of their mind’s freedom.
 
-A mendicant developing mindfulness of breathing who has these five things will soon penetrate the unshakable.”
+A bhikkhu developing mindfulness of breathing who has these five things will soon penetrate the unshakable.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu ānāpānassatiṁ bhāvento nacirasseva akuppaṁ paṭivijjhati. Katamehi pañcahi?
 

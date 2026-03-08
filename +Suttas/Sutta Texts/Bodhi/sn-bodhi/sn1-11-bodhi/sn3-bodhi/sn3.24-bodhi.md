@@ -93,7 +93,7 @@ At Sāvatthī. Sitting to one side, King Pasenadi of Kosala said to the Blesse
 >   
 > Satisfies with food and drink  
 >   
-> The mendicants who live on alms.  
+> The bhikkhus who live on alms.  
 >   
 > Rejoicing, he distributes gifts,  
 >   

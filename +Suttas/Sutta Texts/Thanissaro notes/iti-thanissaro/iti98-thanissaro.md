@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 98
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these two kinds of gifts: a gift of material things & a gift of the Dhamma. Of these two kinds of gifts, this is supreme: a gift of the Dhamma. There are these two kinds of sharing: sharing of material things & sharing of the Dhamma. Of these two kinds of sharing, this is supreme: sharing of the Dhamma. There are these two kinds of assistance: assistance with material things & assistance with the Dhamma. Of these two kinds of assistance, this is supreme: assistance with the Dhamma.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these two kinds of gifts: a gift of material things & a gift of the Dhamma. Of these two kinds of gifts, this is supreme: a gift of the Dhamma. There are these two kinds of sharing: sharing of material things & sharing of the Dhamma. Of these two kinds of sharing, this is supreme: sharing of the Dhamma. There are these two kinds of assistance: assistance with material things & assistance with the Dhamma. Of these two kinds of assistance, this is supreme: assistance with the Dhamma.”
 
 The gift he describes
 

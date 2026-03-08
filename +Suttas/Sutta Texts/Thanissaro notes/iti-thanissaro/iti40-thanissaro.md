@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 40
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, ignorance[1](#^iti40note01) precedes the arrival of unskillful qualities; lack of shame & lack of compunction[2](#^iti40note02) follow after. Clear knowing precedes the arrival of skillful qualities; shame & compunction follow after.” ^iti40note01-ref ^iti40note02-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, ignorance[1](#^iti40note01) precedes the arrival of unskillful qualities; lack of shame & lack of compunction[2](#^iti40note02) follow after. Clear knowing precedes the arrival of skillful qualities; shame & compunction follow after.” ^iti40note01-ref ^iti40note02-ref
 
 Any bad destinations
 
@@ -38,7 +38,7 @@ So cleansing away
 
 ignorance, desire, & greed,
 
-a monk giving rise to clear knowing
+a bhikkhu giving rise to clear knowing
 
 would abandon all bad destinations.
 

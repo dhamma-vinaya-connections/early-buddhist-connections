@@ -50,7 +50,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > 4 jhanas and reviewing is properly grasped, attended, borne in mind, and comprehended with wisdom
 > 
-> When the noble right immersion with five factors is cultivated in this way, a mendicant becomes capable of realizing anything that can be realized by insight
+> When the noble right immersion with five factors is cultivated in this way, a bhikkhu becomes capable of realizing anything that can be realized by insight
 > 
 
 > [!info] Similes

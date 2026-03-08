@@ -104,7 +104,7 @@ What do you think, great king? Take an aristocrat who shaves off their hair and 
 “This is another way to understand that this is just propaganda: ‘Only brahmins are the highest caste; other castes are inferior. Only brahmins are the light caste; other castes are dark. Only brahmins are purified, not others. Only brahmins are Brahmā’s rightful sons, born of his mouth, born of Brahmā, created by Brahmā, heirs of Brahmā.’”
 
 
-19When he had spoken, King Avantiputta of Madhurā said to Mahākaccāna: “Excellent, Master Kaccāna! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Kaccāna has made the teaching clear in many ways. I go for refuge to Master Kaccāna, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Kaccāna remember me as a lay follower who has gone for refuge for life.”
+19When he had spoken, King Avantiputta of Madhurā said to Mahākaccāna: “Excellent, Master Kaccāna! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Kaccāna has made the teaching clear in many ways. I go for refuge to Master Kaccāna, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Kaccāna remember me as a lay follower who has gone for refuge for life.”
 
 “Great king, don’t go for refuge to me. You should go for refuge to that same Blessed One to whom I have gone for refuge.”
 

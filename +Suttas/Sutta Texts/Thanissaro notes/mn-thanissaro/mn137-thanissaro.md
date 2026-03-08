@@ -23,13 +23,13 @@ _This discourse counters another misperception as well: that equanimity is the g
 
 * * *
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the monks, “Monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the bhikkhus, “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said: “Monks, I will teach you the analysis of the six sense media. Listen, and pay close attention. I will speak.”
+The Blessed One said: “bhikkhus, I will teach you the analysis of the six sense media. Listen, and pay close attention. I will speak.”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
 The Blessed One said: “The six internal sense-media should be known. The six external sense-media should be known. The six classes of consciousness should be known. The six classes of contact should be known. The eighteen explorations for the intellect should be known. The thirty-six emotions to which beings are attached[1](#^mn137note01) should be known. With regard to them, depending on this, abandon that. There are three establishings of mindfulness that a noble one cultivates, cultivating which he is a teacher fit to instruct a group. Among master trainers, he is said to be the unexcelled trainer of people fit to be tamed. This is the summary of the analysis of the six sense-media. ^mn137note01-ref
 
@@ -113,7 +113,7 @@ The Blessed One said: “The six internal sense-media should be known. The six e
 
 “’Among master trainers, he [the Tathāgata] is said to be the unexcelled trainer of people fit to be tamed’: Thus was it said. And in reference to this was it said.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 ### Notes
 

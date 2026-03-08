@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five perceptions, when developed and cultivated, are very fruitful and beneficial. They culminate in the deathless and end with the deathless. What five? The perceptions of impermanence, not-self, death, repulsiveness of food, and dissatisfaction with the whole world. These five perceptions, when developed and cultivated, are very fruitful and beneficial. They culminate in the deathless and end with the deathless.”
+1“bhikkhus, these five perceptions, when developed and cultivated, are very fruitful and beneficial. They culminate in the deathless and end with the deathless. What five? The perceptions of impermanence, not-self, death, repulsiveness of food, and dissatisfaction with the whole world. These five perceptions, when developed and cultivated, are very fruitful and beneficial. They culminate in the deathless and end with the deathless.”
 
 1"Pañcimā, bhikkhave, saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṁsā amatogadhā amatapariyosānā. Katamā pañca? Aniccasaññā, anattasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā – imā kho, bhikkhave, pañca saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṁsā amatogadhā amatapariyosānā"ti.
 

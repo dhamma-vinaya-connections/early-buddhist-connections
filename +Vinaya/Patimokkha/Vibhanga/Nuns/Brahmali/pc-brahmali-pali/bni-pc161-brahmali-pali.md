@@ -18,60 +18,60 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a monk was bathing in the river Aciravatī, when a brahmin, too, came there to bathe. He deposited a bag with five hundred coins on the ground, bathed, forgot about the bag, and left. The monk thought, “This is the bag belonging to that brahmin; it wouldn’t be nice if it got lost,” and he picked it up.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a bhikkhu was bathing in the river Aciravatī, when a brahmin, too, came there to bathe. He deposited a bag with five hundred coins on the ground, bathed, forgot about the bag, and left. The bhikkhu thought, “This is the bag belonging to that brahmin; it wouldn’t be nice if it got lost,” and he picked it up.
 
-Soon the brahmin remembered. He hurried back and asked that monk, “Sir, did you see my bag?”
+Soon the brahmin remembered. He hurried back and asked that bhikkhu, “Sir, did you see my bag?”
 
 Saying, “I did indeed,” he gave it to him.
 
-The brahmin thought, “How can I avoid giving a reward to this monk?” And he said, “I didn’t have five hundred coins, I had a thousand!” And he seized hold of that monk.
+The brahmin thought, “How can I avoid giving a reward to this bhikkhu?” And he said, “I didn’t have five hundred coins, I had a thousand!” And he seized hold of that bhikkhu.
 
-2After being released, that monk went to the monastery and told the monks what had happened. The monks of few desires complained and criticized him:
+2After being released, that bhikkhu went to the monastery and told the bhikkhus what had happened. The bhikkhus of few desires complained and criticized him:
 
-“How could a monk pick up precious things?” …
+“How could a bhikkhu pick up precious things?” …
 
-“Is it true, monk, that you did this?”
+“Is it true, bhikkhu, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
-3‘If a monk picks up something precious or something regarded as precious, or he has it picked up, he commits an offense entailing confession.’”
+3‘If a bhikkhu picks up something precious or something regarded as precious, or he has it picked up, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
 
 5Soon afterwards they were holding a celebration in Sāvatthī, with people going to the park all dressed up, as did Visākhā Migāramātā. As she was leaving her village, she thought, “What will I do when I get to the park? Why don’t I pay a visit to the Buddha!” She then removed all her ornaments, bound them in a bundle with her upper robe, and gave it to her slave girl, saying, “Listen, look after this bundle.”
 
 Visākhā then went to the Buddha, bowed, and sat down. And the Buddha instructed, inspired, and gladdened her with a teaching, after which she got up from her seat, bowed down, circumambulated him with her right side toward him, and left. And the slave girl left too, forgetting the bundle.
 
-The monks saw it and told the Buddha. “Well then, monks, pick it up and put it aside.” Soon afterwards the Buddha gave a teaching and addressed the monks: “Within a monastery, monks, you should pick up precious things or what’s regarded as precious, or have it picked up, and then put it aside with the thought, ‘Whoever owns it will come and get it.’ And so, monks, this training rule should be recited like this:
+The bhikkhus saw it and told the Buddha. “Well then, bhikkhus, pick it up and put it aside.” Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “Within a monastery, bhikkhus, you should pick up precious things or what’s regarded as precious, or have it picked up, and then put it aside with the thought, ‘Whoever owns it will come and get it.’ And so, bhikkhus, this training rule should be recited like this:
 
 
-6‘If a monk picks up something precious or something regarded as precious, or he has it picked up, except within a monastery, he commits an offense entailing confession.’”
+6‘If a bhikkhu picks up something precious or something regarded as precious, or he has it picked up, except within a monastery, he commits an offense entailing confession.’”
 
-7In this way the Buddha laid down this training rule for the monks.
-
-
-8At that time the householder Anāthapiṇḍika had a whole village working for him in the country of Kāsī, and he had told an apprentice there that if the monks arrived he should make them a meal. Soon afterwards a number of monks were wandering in the country of Kāsī, when they came to that village. When that man saw them coming, he approached them, bowed, and said, “Venerables, please accept a meal from Anāthapiṇḍika tomorrow.” The monks accepted by remaining silent.
-
-The following morning, after having various kinds of fine food prepared, he had the monks informed that it was time for the meal. He removed a ring from his finger and then offered the food to the monks, saying, “Venerables, please leave after you’ve eaten. I have to go to work.” And he left, forgetting his ring.
-
-The monks saw it and said, “If we just go, this ring will be lost,” and so they stayed right there. When that man returned from work, he saw the monks and said to them, “Why are you still here?” And the monks told him what had happened. Those monks then went to Sāvatthī where they told the monks, who in turn told the Buddha.
+7In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-9After giving a teaching, the Buddha addressed the monks:
+8At that time the householder Anāthapiṇḍika had a whole village working for him in the country of Kāsī, and he had told an apprentice there that if the bhikkhus arrived he should make them a meal. Soon afterwards a number of bhikkhus were wandering in the country of Kāsī, when they came to that village. When that man saw them coming, he approached them, bowed, and said, “Venerables, please accept a meal from Anāthapiṇḍika tomorrow.” The bhikkhus accepted by remaining silent.
 
-“Within a monastery, monks, or inside a lodging, you should pick up precious things or what’s regarded as precious, or have it picked up, and then put it aside with the thought: ‘Whoever owns it will come and get it.’ And so, monks, this training rule should be recited like this:
+The following morning, after having various kinds of fine food prepared, he had the bhikkhus informed that it was time for the meal. He removed a ring from his finger and then offered the food to the bhikkhus, saying, “Venerables, please leave after you’ve eaten. I have to go to work.” And he left, forgetting his ring.
+
+The bhikkhus saw it and said, “If we just go, this ring will be lost,” and so they stayed right there. When that man returned from work, he saw the bhikkhus and said to them, “Why are you still here?” And the bhikkhus told him what had happened. Those bhikkhus then went to Sāvatthī where they told the bhikkhus, who in turn told the Buddha.
+
+
+9After giving a teaching, the Buddha addressed the bhikkhus:
+
+“Within a monastery, bhikkhus, or inside a lodging, you should pick up precious things or what’s regarded as precious, or have it picked up, and then put it aside with the thought: ‘Whoever owns it will come and get it.’ And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-10‘If a monk picks up something precious or something regarded as precious, or he has it picked up, except within a monastery or inside a lodging, he commits an offense entailing confession. If he picks up something precious or something regarded as precious, or he has it picked up, within a monastery or inside a lodging, he should put it aside with the thought: “Whoever owns it will come and get it.” This is the proper procedure.’”
+10‘If a bhikkhu picks up something precious or something regarded as precious, or he has it picked up, except within a monastery or inside a lodging, he commits an offense entailing confession. If he picks up something precious or something regarded as precious, or he has it picked up, within a monastery or inside a lodging, he should put it aside with the thought: “Whoever owns it will come and get it.” This is the proper procedure.’”
 
 #### Definitions
 
-11**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+11**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
 12**Something precious:** a pearl, a gem, a beryl, mother-of-pearl, quartz, a coral, silver, gold, a ruby, a cat’s eye.
@@ -88,7 +88,7 @@ The monks saw it and said, “If we just go, this ring will be lost,” and so t
 
 18**Has picked up:** if he gets someone else to take hold of it, he commits an offense entailing confession.
 
-19**If he picks up something precious or something regarded as precious, or he has it picked up, within a monastery or inside a lodging, he should put it aside:** after taking note of its appearance or distinguishing marks, he should put it aside, and then make an announcement: “Whoever has lost anything should come.” If anyone comes, they should be told, “Please describe it.” If they rightly describe its appearance or distinguishing marks, it should be given to them. If they do not, they should be told, “Keep looking.” If that monk is leaving that monastery, he should first place that item into the hands of suitable monks there. If there are no suitable monks, he should place it into the hands of suitable householders there.
+19**If he picks up something precious or something regarded as precious, or he has it picked up, within a monastery or inside a lodging, he should put it aside:** after taking note of its appearance or distinguishing marks, he should put it aside, and then make an announcement: “Whoever has lost anything should come.” If anyone comes, they should be told, “Please describe it.” If they rightly describe its appearance or distinguishing marks, it should be given to them. If they do not, they should be told, “Keep looking.” If that bhikkhu is leaving that monastery, he should first place that item into the hands of suitable bhikkhus there. If there are no suitable bhikkhus, he should place it into the hands of suitable householders there.
 
 20**This is the proper procedure:** this is the right method.
 

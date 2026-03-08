@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized her, “How could Venerable Thullanandā give the full admission to the trainee nun Caṇḍakāḷī, who is socializing with men and boys, and who is temperamental and difficult to live with?” …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

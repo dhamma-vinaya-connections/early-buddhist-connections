@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, if wife and husband want to see each other in both this life and the next, they should be equals in faith, ethical conduct, generosity, and wisdom. …”
+1“bhikkhus, if wife and husband want to see each other in both this life and the next, they should be equals in faith, ethical conduct, generosity, and wisdom. …”
 
 
 2When both are faithful and kind,  

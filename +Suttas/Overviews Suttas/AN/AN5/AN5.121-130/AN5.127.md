@@ -47,7 +47,7 @@ parallels_partilal: ""
 > Ascetics happiness and conditions for solitude
 
 > [!info] Key Excerpts 
-> When a mendicant is content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they live the spiritual life satisfied
+> When a bhikkhu is content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they live the spiritual life satisfied
 > 
 > To live in solitude one has to be content with any requisites and incline to renunciation
 > 

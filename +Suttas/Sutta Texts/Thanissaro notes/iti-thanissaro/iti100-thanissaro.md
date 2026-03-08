@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 100
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “I am a brahman, monks, always responsive to requests, open-handed, bearing my last body, an unsurpassed doctor & surgeon. You are my children, my sons, born from my mouth, born of the Dhamma, created by the Dhamma, heirs to the Dhamma, not heirs in material things.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “I am a brahman, bhikkhus, always responsive to requests, open-handed, bearing my last body, an unsurpassed doctor & surgeon. You are my children, my sons, born from my mouth, born of the Dhamma, created by the Dhamma, heirs to the Dhamma, not heirs in material things.
 
 “There are these two kinds of gifts: a gift of material things & a gift of the Dhamma. Of these two kinds of gifts, this is supreme: a gift of the Dhamma.
 

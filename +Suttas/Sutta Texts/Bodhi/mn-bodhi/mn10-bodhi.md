@@ -18,7 +18,7 @@ The Foundations of Mindfulness
 
 2\. “Bhikkhus, this is the direct path for the purification of beings \[56\], for the surmounting of sorrow and lamentation, for the disappearance of pain and grief, for the attainment of the true way, for the realisation of Nibbāna—namely, the four foundations of mindfulness.
 
-3\. “What are the four? Here, bhikkhus, a bhikkhu abides contemplating the body as a body, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating feelings as feelings, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating mind as mind, ardent, fully aware, and mindful, having put away covetousness and grief for the world. He abides contemplating mind-objects as mind-objects, ardent, fully aware, and mindful, having put away covetousness and grief for the world.
+3\. “What are the four? Here, bhikkhus, a bhikkhu ![[Satipatthanas]]. He ![[Satipatthanas]]. He ![[Satipatthanas]]. He ![[Satipatthanas]].
 
 ## (CONTEMPLATION OF THE BODY)
 
@@ -28,37 +28,37 @@ The Foundations of Mindfulness
 
 ## (INSIGHT)
 
-5\. “In this way he abides contemplating the body as a body internally, or he abides contemplating the body as a body externally, or he abides contemplating the body as a body both internally and externally. Or else he abides contemplating in the body its nature of arising, or he abides contemplating in the body its nature of vanishing, or he abides contemplating in the body its nature of both arising and vanishing. Or else mindfulness that ‘there is a body’ is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating the body as a body.
+5\. “In this way he ![[Satipatthanas]]. That is how a bhikkhu abides contemplating the body as a body.
 
 ## (2\. The Four Postures)
 
 6\. “Again, bhikkhus, when walking, a bhikkhu understands: ‘I am walking’; when standing, he understands: ‘I am standing’; when sitting, \[57\] he understands: ‘I am sitting’; when lying down, he understands: ‘I am lying down’; or he understands accordingly however his body is disposed.
 
-7\. “In this way he abides contemplating the body as a body internally, externally, and both internally and externally…And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+7\. “In this way he ![[Satipatthanas]]. That too is how a bhikkhu abides contemplating the body as a body.
 
 ## (3\. Full Awareness)
 
 8\. “Again, bhikkhus, a bhikkhu is one who acts in full awareness when going forward and returning; who acts in full awareness when looking ahead and looking away; who acts in full awareness when flexing and extending his limbs; who acts in full awareness when wearing his robes and carrying his outer robe and bowl; who acts in full awareness when eating, drinking, consuming food, and tasting; who acts in full awareness when defecating and urinating; who acts in full awareness when walking, standing, sitting, falling asleep, waking up, talking, and keeping silent.
 
-9\. “In this way he abides contemplating the body as a body internally, externally, and both internally and externally… And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+9\. “In this way he ![[Satipatthanas]]. That too is how a bhikkhu abides contemplating the body as a body.
 
 ## (4\. Foulness—The Bodily Parts)
 
 10\. “Again, bhikkhus, a bhikkhu reviews this same body up from the soles of the feet and down from the top of the hair, bounded by skin, as full of many kinds of impurity thus: ‘In this body there are head-hairs, body-hairs, nails, teeth, skin, flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, contents of the stomach, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, spittle, snot, oil of the joints, and urine.’ Just as though there were a bag with an opening at both ends full of many sorts of grain, such as hill rice, red rice, beans, peas, millet, and white rice, and a man with good eyes were to open it and review it thus: ‘This is hill rice, this is red rice, these are beans, these are peas, this is millet, this is white rice’; so too, a bhikkhu reviews this same body…as full of many kinds of impurity thus: ‘In this body there are head-hairs…and urine.’
 
-11\. “In this way he abides contemplating the body as a body internally, externally, and both internally and externally… And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+11\. “In this way he ![[Satipatthanas]]. That too is how a bhikkhu abides contemplating the body as a body.
 
 ## (5\. Elements)
 
 12\. “Again, bhikkhus, a bhikkhu reviews this same body, however it is placed, however disposed, by way of elements thus: ‘In this body there are the earth element, the water element, the fire element, and the air element.’ \[58\] Just as though a skilled butcher or his apprentice had killed a cow and was seated at the crossroads with it cut up into pieces; so too, a bhikkhu reviews this same body…by way of elements thus: ‘In this body there are the earth element, the water element, the fire element, and the air element.’
 
-13\. “In this way he abides contemplating the body as a body internally, externally, and both internally and externally…And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+13\. “In this way he ![[Satipatthanas]]. That too is how a bhikkhu abides contemplating the body as a body.
 
 ## (6–14. The Nine Charnel Ground Contemplations)
 
 14\. “Again, bhikkhus, as though he were to see a corpse thrown aside in a charnel ground, one, two, or three days dead, bloated, livid, and oozing matter, a bhikkhu compares this same body with it thus: ‘This body too is of the same nature, it will be like that, it is not exempt from that fate.’
 
-15\. “In this way he abides contemplating the body as a body internally, externally, and both internally and externally…And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+15\. “In this way he ![[Satipatthanas]]. That too is how a bhikkhu abides contemplating the body as a body.
 
 16\. “Again, as though he were to see a corpse thrown aside in a charnel ground, being devoured by crows, hawks, vultures, dogs, jackals, or various kinds of worms, a bhikkhu compares this same body with it thus: ‘This body too is of the same nature, it will be like that, it is not exempt from that fate.’
 
@@ -72,7 +72,7 @@ The Foundations of Mindfulness
 
 ## (INSIGHT)
 
-31\. “In this way he abides contemplating the body as a body internally, or he abides contemplating the body as a body externally, or he abides contemplating the body as a body both internally and externally. Or else he abides contemplating in the body its nature of arising, or he abides contemplating in the body its nature of vanishing, or he abides contemplating in the body its nature of both arising and vanishing. Or else mindfulness that ‘there is a body’ is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That too is how a bhikkhu abides contemplating the body as a body.
+31\. “In this way he ![[Satipatthanas]]. That too is how a bhikkhu abides contemplating the body as a body.
 
 ## (CONTEMPLATION OF FEELING)
 
@@ -80,7 +80,7 @@ The Foundations of Mindfulness
 
 ## (INSIGHT)
 
-33\. “In this way he abides contemplating feelings as feelings internally, or he abides contemplating feelings as feelings externally, or he abides contemplating feelings as feelings both internally and externally. Or else he abides contemplating in feelings their nature of arising, or he abides contemplating in feelings their nature of vanishing, or he abides contemplating in feelings their nature of both arising and vanishing. Or else mindfulness that ‘there is feeling’ is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating feelings as feelings.
+33\. “In this way he ![[Satipatthanas]]. That is how a bhikkhu abides contemplating feelings as feelings.
 
 ## (CONTEMPLATION OF MIND)
 
@@ -88,7 +88,7 @@ The Foundations of Mindfulness
 
 ## (INSIGHT)
 
-35\. “In this way he abides contemplating mind as mind internally, or he abides contemplating mind as mind externally, or he abides contemplating mind as mind both internally and externally. Or else he abides contemplating in mind its nature of arising, \[60\] or he abides contemplating in mind its nature of vanishing, or he abides contemplating in mind its nature of both arising and vanishing. Or else mindfulness that ‘there is mind’ is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind as mind.
+35\. “In this way he ![[Satipatthanas]]. That is how a bhikkhu abides contemplating mind as mind.
 
 ## (CONTEMPLATION OF MIND-OBJECTS)
 
@@ -100,13 +100,13 @@ The Foundations of Mindfulness
 
 ## (INSIGHT)
 
-37\. “In this way he abides contemplating mind-objects as mind-objects internally, or he abides contemplating mind-objects as mind-objects externally, or he abides contemplating mind-objects as mind-objects both internally and externally. Or else he abides contemplating in mind-objects their nature of arising, or he abides contemplating in mind-objects their nature of vanishing, or he abides contemplating in mind-objects their nature of both arising and vanishing. Or else mindfulness that ‘there are mind-objects’ is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the five hindrances.
+37\. “In this way he ![[Satipatthanas]]. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the five hindrances.
 
 ## (2\. The Five Aggregates)
 
 38\. “Again, bhikkhus, a bhikkhu abides contemplating mind-objects as mind-objects \[61\] in terms of the five aggregates affected by clinging. And how does a bhikkhu abide contemplating mind-objects as mind-objects in terms of the five aggregates affected by clinging? Here a bhikkhu understands: ‘Such is material form, such its origin, such its disappearance; such is feeling, such its origin, such its disappearance; such is perception, such its origin, such its disappearance; such are the formations, such their origin, such their disappearance; such is consciousness, such its origin, such its disappearance.’
 
-39\. “In this way he abides contemplating mind-objects as mind-objects internally, externally, and both internally and externally…And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the five aggregates affected by clinging.
+39\. “In this way he ![[Satipatthanas]]. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the five aggregates affected by clinging.
 
 ## (3\. The Six Bases)
 
@@ -114,7 +114,7 @@ The Foundations of Mindfulness
 
 “He understands the ear, he understands sounds…He understands the nose, he understands odours…He understands the tongue, he understands flavours…He understands the body, he understands tangibles…He understands the mind, he understands mind-objects, and he understands the fetter that arises dependent on both; and he also understands how there comes to be the arising of the unarisen fetter, and how there comes to be the abandoning of the arisen fetter, and how there comes to be the future non-arising of the abandoned fetter.
 
-41\. “In this way he abides contemplating mind-objects as mind-objects internally, externally, and both internally and externally…And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the six internal and external bases.
+41\. “In this way he ![[Satipatthanas]]. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the six internal and external bases.
 
 ## (4\. The Seven Enlightenment Factors)
 
@@ -122,7 +122,7 @@ The Foundations of Mindfulness
 
 “There being the investigation-of-states enlightenment factor in him...There being the energy enlightenment factor in him…There being the rapture enlightenment factor in him…There being the tranquillity enlightenment factor in him…There being the samādhi enlightenment factor in him…There being the equanimity enlightenment factor in him, a bhikkhu understands: ‘There is the equanimity enlightenment factor in me’; or there being no equanimity enlightenment factor in him, he understands: ‘There is no equanimity enlightenment factor in me’; and he also understands how there comes to be the arising of the unarisen equanimity enlightenment factor, and how the arisen equanimity enlightenment factor comes to fulfilment by development.
 
-43\. “In this way he abides contemplating mind-objects as mind-objects internally, externally, and both internally and externally…And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the seven enlightenment factors.
+43\. “In this way he ![[Satipatthanas]]. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the seven enlightenment factors.
 
 ## (5\. The Four Noble Truths)
 
@@ -130,7 +130,7 @@ The Foundations of Mindfulness
 
 ## (INSIGHT)
 
-45\. “In this way he abides contemplating mind-objects as mind-objects internally, or he abides contemplating mind-objects as mind-objects externally, or he abides contemplating mind-objects as mind-objects both internally and externally. Or else he abides contemplating in mind-objects their nature of arising, or he abides contemplating in mind-objects their nature of vanishing, or he abides contemplating in mind-objects their nature of both arising and vanishing. Or else mindfulness that ‘there are mind-objects’ is simply established in him to the extent necessary for bare knowledge and mindfulness. And he abides independent, not clinging to anything in the world. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the Four Noble Truths.
+45\. “In this way he ![[Satipatthanas]]. That is how a bhikkhu abides contemplating mind-objects as mind-objects in terms of the Four Noble Truths.
 
 ## (CONCLUSION)
 

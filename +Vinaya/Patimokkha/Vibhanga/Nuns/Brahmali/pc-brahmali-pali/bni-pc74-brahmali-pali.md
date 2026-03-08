@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized them, “How can nuns who have less than twelve years of seniority give the full admission?” …
 
-“Is it true, monks, that nuns do this?”
+“Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

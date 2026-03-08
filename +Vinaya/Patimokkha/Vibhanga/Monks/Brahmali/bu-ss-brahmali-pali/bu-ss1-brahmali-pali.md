@@ -33,7 +33,7 @@ language: "Pali - English"
 “Yes, I do it too.”
 
 
-3Then Seyyasaka ate, slept, and bathed as much as he liked, and whenever he became discontent and lust overwhelmed him, he masturbated with his hand. After some time Seyyasaka had a good color, a bright face, clear skin, and sharp senses. The monks who were his friends said to him, “Seyyasaka, you used to be thin, haggard, and pale, with veins protruding all over your body. But now you have a good color, a bright face, clear skin, and sharp senses. Have you been taking medicine?”
+3Then Seyyasaka ate, slept, and bathed as much as he liked, and whenever he became discontent and lust overwhelmed him, he masturbated with his hand. After some time Seyyasaka had a good color, a bright face, clear skin, and sharp senses. The bhikkhus who were his friends said to him, “Seyyasaka, you used to be thin, haggard, and pale, with veins protruding all over your body. But now you have a good color, a bright face, clear skin, and sharp senses. Have you been taking medicine?”
 
 “No. I just eat, sleep, and bathe as much as I like, and whenever I become discontent and lust overwhelms me, I masturbate with my hand.”
 
@@ -42,7 +42,7 @@ language: "Pali - English"
 “Yes.”
 
 
-The monks of few desires complained and criticized him, “How can Venerable Seyyasaka masturbate with his hand?”
+The bhikkhus of few desires complained and criticized him, “How can Venerable Seyyasaka masturbate with his hand?”
 
 
 4They rebuked Seyyasaka in many ways and then told the Buddha. The Buddha then had the Sangha gathered and questioned Seyyasaka: “Is it true, Seyyasaka, that you do this?”
@@ -50,13 +50,13 @@ The monks of few desires complained and criticized him, “How can Venerable Sey
 “Yes, Sir.”
 
 
-The Buddha rebuked him, “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you do this? Haven’t I given many teachings for the sake of dispassion, not for the sake of passion; for freedom from bondage, not for the sake of bondage; for the sake of non-grasping, not for the sake of grasping? When I’ve taught like this, how can you choose passion, bondage, and grasping? Haven’t I given many teachings for the fading away of lust, for the clearing away of intoxication, for the removal of thirst, for the uprooting of attachment, for the cutting off of the round of rebirth, for the stopping of craving, for fading away, for ending, for extinguishment? Haven’t I given many teachings for the abandoning of sensual pleasures, for the full understanding of the perceptions of sensual pleasure, for the removal of thirst for sensual pleasure, for the elimination of thoughts of sensual pleasure, for the stilling of the fevers of sensual pleasure? Foolish man, this will affect people’s confidence, and cause some to lose it.” Then, after rebuking Seyyasaka in many ways, the Buddha spoke in dispraise of being difficult to support … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him, “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you do this? Haven’t I given many teachings for the sake of dispassion, not for the sake of passion; for freedom from bondage, not for the sake of bondage; for the sake of non-grasping, not for the sake of grasping? When I’ve taught like this, how can you choose passion, bondage, and grasping? Haven’t I given many teachings for the fading away of lust, for the clearing away of intoxication, for the removal of thirst, for the uprooting of attachment, for the cutting off of the round of rebirth, for the stopping of craving, for fading away, for ending, for extinguishment? Haven’t I given many teachings for the abandoning of sensual pleasures, for the full understanding of the perceptions of sensual pleasure, for the removal of thirst for sensual pleasure, for the elimination of thoughts of sensual pleasure, for the stilling of the fevers of sensual pleasure? Foolish man, this will affect people’s confidence, and cause some to lose it.” Then, after rebuking Seyyasaka in many ways, the Buddha spoke in dispraise of being difficult to support … “And, bhikkhus, this training rule should be recited like this:
 
 5‘Intentional emission of semen is an offense entailing suspension.’”
 
-6In this way the Buddha laid down this training rule for the monks.
+6In this way the Buddha laid down this training rule for the bhikkhus.
 
-7Soon afterwards some monks ate fine foods, fell asleep absentminded and heedless, and emitted semen while dreaming. They became anxious, thinking, “The Buddha has laid down a training rule that intentional emission of semen is an offense entailing suspension. We had an emission while dreaming, which is not without intention. Could it be that we’ve committed an offense entailing suspension?” They told the Buddha. “It’s true, monks, that a dream is not without intention, but it’s negligible. And so, monks, this training rule should be recited like this:
+7Soon afterwards some bhikkhus ate fine foods, fell asleep absentminded and heedless, and emitted semen while dreaming. They became anxious, thinking, “The Buddha has laid down a training rule that intentional emission of semen is an offense entailing suspension. We had an emission while dreaming, which is not without intention. Could it be that we’ve committed an offense entailing suspension?” They told the Buddha. “It’s true, bhikkhus, that a dream is not without intention, but it’s negligible. And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -72,7 +72,7 @@ The Buddha rebuked him, “Foolish man, it’s not suitable, it’s not proper, 
 
 12**Except while dreaming:** apart from that which occurs while dreaming.
 
-13**An offense entailing suspension:** only the Sangha gives probation for that offense, sends back to the beginning, gives the trial period, and rehabilitates—not several monks, not an individual. Therefore it is called “an offense entailing suspension”. This is the name and designation of this class of offense. Therefore, too, it is called “an offense entailing suspension”.
+13**An offense entailing suspension:** only the Sangha gives probation for that offense, sends back to the beginning, gives the trial period, and rehabilitates—not several bhikkhus, not an individual. Therefore it is called “an offense entailing suspension”. This is the name and designation of this class of offense. Therefore, too, it is called “an offense entailing suspension”.
 
 #### Permutations
 

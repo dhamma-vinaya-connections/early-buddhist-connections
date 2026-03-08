@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four powers. What four? The powers of faith, energy, mindfulness, and immersion. These are the four powers.”
+1“bhikkhus, there are these four powers. What four? The powers of faith, energy, mindfulness, and immersion. These are the four powers.”
 
 1"Cattārimāni, bhikkhave, balāni. Katamāni cattāri? Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ – imāni kho, bhikkhave, cattāri balānī"ti.
 

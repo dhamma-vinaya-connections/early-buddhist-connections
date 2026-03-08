@@ -23,35 +23,35 @@ language: "English - Pali"
 > ```
 
 
-Then Venerable Mahākassapa addressed the monks:[^1577] “On one occasion, as I was traveling from Pāvā to Kusināra with a large sangha of five hundred monks, I left the road and sat down at the foot of a tree.
+Then Venerable Mahākassapa addressed the bhikkhus:[^1577] “On one occasion, as I was traveling from Pāvā to Kusināra with a large sangha of five hundred bhikkhus, I left the road and sat down at the foot of a tree.
 
 Just then a follower of the Ājīvakas was traveling toward Pāvā on the same road, holding a coral-tree flower that he had picked up in Kusināra. When I saw him coming, I asked him, ‘Do you know anything about our Teacher?’
 
 ‘I do. Today it’s seven days since the ascetic Gotama attained final extinguishment. That’s why I carry this coral-tree flower.’
 
-Some of the monks there who were not yet free from desire threw up their arms and cried, collapsed on the ground, and rolled back and forth, lamenting, ‘The Buddha, the Happy One, has attained final extinguishment too soon—too soon has the eye of the world been put out!’ But the monks there who were free from desire bore it with mindfulness and full awareness, saying, ‘All phenomena are impermanent. How could it be any different?’
+Some of the bhikkhus there who were not yet free from desire threw up their arms and cried, collapsed on the ground, and rolled back and forth, lamenting, ‘The Buddha, the Happy One, has attained final extinguishment too soon—too soon has the eye of the world been put out!’ But the bhikkhus there who were free from desire bore it with mindfulness and full awareness, saying, ‘All phenomena are impermanent. How could it be any different?’
 
 I said, ‘Please stop grieving, stop lamenting. Didn’t the Buddha warn us that we must be separated from everyone and everything dear and agreeable to us? How could that which is born, become, made up, and of a nature to fall apart, not fall apart? That’s impossible.’
 
-On that occasion a monk called Subhadda, who had gone forth when old, was part of that group. He said to the monks, ‘Please stop grieving, stop lamenting. It’s good that we are free from that great ascetic. We were oppressed, always being told what’s allowable and what’s not. Now we can do what we like and not do what we don’t like.’
+On that occasion a monk called Subhadda, who had gone forth when old, was part of that group. He said to the bhikkhus, ‘Please stop grieving, stop lamenting. It’s good that we are free from that great ascetic. We were oppressed, always being told what’s allowable and what’s not. Now we can do what we like and not do what we don’t like.’
 
 So then, let’s recite the Teaching and the Monastic Law—before what’s contrary to the Teaching shines forth and the Teaching is obstructed; before what’s contrary to the Monastic Law shines forth and the Monastic Law is obstructed; before those who speak contrary to the Teaching become strong and those who speak in accordance with it become weak; before those who speak contrary to the Monastic Law become strong and those who speak in accordance with it become weak.”
 
-“Well then, venerable, please select the monks.” Mahākassapa then selected four hundred and ninety-nine perfected ones. The monks said to him, “There’s Venerable Ānanda who, although still a trainee, is incapable of acting out of desire, ill will, confusion, or fear. He has learned many teachings and much Monastic Law from the Buddha. Please invite him as well.” And he did.
+“Well then, venerable, please select the bhikkhus.” Mahākassapa then selected four hundred and ninety-nine perfected ones. The bhikkhus said to him, “There’s Venerable Ānanda who, although still a trainee, is incapable of acting out of desire, ill will, confusion, or fear. He has learned many teachings and much Monastic Law from the Buddha. Please invite him as well.” And he did.
 
-The senior monks thought, “Where should we recite the Teaching and the Monastic Law?” It occurred to them, “Rājagaha has much almsfood and many dwellings. Let’s spend the rainy season there in order to recite the Teaching and the Monastic Law. No other monks should enter the rainy-season residence at Rājagaha.”
+The senior bhikkhus thought, “Where should we recite the Teaching and the Monastic Law?” It occurred to them, “Rājagaha has much almsfood and many dwellings. Let’s spend the rainy season there in order to recite the Teaching and the Monastic Law. No other bhikkhus should enter the rainy-season residence at Rājagaha.”
 
 And Venerable Mahākassapa informed the Sangha:
 
-“Please, venerables, I ask the Sangha to listen. If the Sangha is ready, it should appoint these five hundred monks to spend the rainy season at Rājagaha in order to recite the Teaching and the Monastic Law. No other monks should enter the rainy-season residence at Rājagaha. This is the motion.
+“Please, venerables, I ask the Sangha to listen. If the Sangha is ready, it should appoint these five hundred bhikkhus to spend the rainy season at Rājagaha in order to recite the Teaching and the Monastic Law. No other bhikkhus should enter the rainy-season residence at Rājagaha. This is the motion.
 
-Please, venerables, I ask the Sangha to listen. The Sangha appoints these five hundred monks to spend the rainy season at Rājagaha in order to recite the Teaching and the Monastic Law. No other monks should spend the rainy-season residence at Rājagaha. Any monk who approves of appointing these five hundred monks to spend the rainy season at Rājagaha in order to recite the Teaching and the Monastic Law, with no other monks spending the rainy-season residence at Rājagaha, should remain silent. Any monk who doesn’t approve should speak up.
+Please, venerables, I ask the Sangha to listen. The Sangha appoints these five hundred bhikkhus to spend the rainy season at Rājagaha in order to recite the Teaching and the Monastic Law. No other bhikkhus should spend the rainy-season residence at Rājagaha. Any monk who approves of appointing these five hundred bhikkhus to spend the rainy season at Rājagaha in order to recite the Teaching and the Monastic Law, with no other bhikkhus spending the rainy-season residence at Rājagaha, should remain silent. Any monk who doesn’t approve should speak up.
 
-The Sangha has appointed these five hundred monks to spend the rainy season at Rājagaha in order to recite the Teaching and the Monastic Law. No other monks should enter the rainy-season residence at Rājagaha. The Sangha approves and is therefore silent. I’ll remember it thus.”
+The Sangha has appointed these five hundred bhikkhus to spend the rainy season at Rājagaha in order to recite the Teaching and the Monastic Law. No other bhikkhus should enter the rainy-season residence at Rājagaha. The Sangha approves and is therefore silent. I’ll remember it thus.”
 
 ### The communal recitation at Rājagaha
 
-The senior monks then went to Rājagaha to recite the Teaching and the Monastic Law. They thought, “The Buddha has praised repairing what’s defective and broken. Well then, let’s spend the first month doing repairs, and then gather for the middle month to recite the Teaching and the Monastic Law.”
+The senior bhikkhus then went to Rājagaha to recite the Teaching and the Monastic Law. They thought, “The Buddha has praised repairing what’s defective and broken. Well then, let’s spend the first month doing repairs, and then gather for the middle month to recite the Teaching and the Monastic Law.”
 
 They then spent the first month doing repairs. Venerable Ānanda thought, “It wouldn’t be proper for me to go to the assembly tomorrow if I’m still a trainee.” After spending most of the night with mindfulness directed to the body, early in the morning he bent over to lie down. In the interval between his feet coming off the ground and his head hitting the pillow, his mind was freed from the corruptions through letting go. And Venerable Ānanda went to the assembly as a perfected one.
 
@@ -97,7 +97,7 @@ Mahākassapa also asked Upāli about the topic of the second offense entailing e
 
 “Who is it about?”
 
-“A number of monks.”
+“A number of bhikkhus.”
 
 “What is it about?”
 
@@ -111,7 +111,7 @@ Mahākassapa also asked Upāli about the topic of the third offense entailing ex
 
 “Who is it about?”
 
-“The monks from the banks of the Vaggumudā.”
+“The bhikkhus from the banks of the Vaggumudā.”
 
 “What is it about?”
 
@@ -161,13 +161,13 @@ In this way he asked about the five collections. Ānanda was able to reply to ea
 > ```
 
 
-Ānanda said to the senior monks, “At the time of his final extinguishment, the Buddha said to me, ‘After my passing away, Ānanda, if the Sangha wishes, it may abolish the minor training rules.’”
+Ānanda said to the senior bhikkhus, “At the time of his final extinguishment, the Buddha said to me, ‘After my passing away, Ānanda, if the Sangha wishes, it may abolish the minor training rules.’”
 
 “But, Ānanda, did you ask the Buddha what the minor training rules are?”
 
 “No, sirs, I didn’t.”
 
-Some senior monks said, “Apart from the four rules entailing expulsion, the rest are the minor training rules.” Others said, “Apart from the four rules entailing expulsion and the thirteen rules entailing suspension, the rest are the minor training rules.” Still others said, “Apart from the four rules entailing expulsion, the thirteen rules entailing suspension, and the two undetermined rules, the rest are the minor training rules.” Still others said, “Apart from the four rules entailing expulsion, the thirteen rules entailing suspension, the two undetermined rules, and the thirty rules entailing relinquishment and confession, the rest are the minor training rules.” Still others said, “Apart from the four rules entailing expulsion, the thirteen rules entailing suspension, the two undetermined rules, the thirty rules entailing relinquishment and confession, and the ninety-two rules entailing confession, the rest are the minor training rules.” Still others said, “Apart from the four rules entailing expulsion, the thirteen rules entailing suspension, the two undetermined rules, the thirty rules entailing relinquishment and confession, the ninety-two rules entailing confession, and the four rules entailing acknowledgment, the rest are the minor training rules.”
+Some senior bhikkhus said, “Apart from the four rules entailing expulsion, the rest are the minor training rules.” Others said, “Apart from the four rules entailing expulsion and the thirteen rules entailing suspension, the rest are the minor training rules.” Still others said, “Apart from the four rules entailing expulsion, the thirteen rules entailing suspension, and the two undetermined rules, the rest are the minor training rules.” Still others said, “Apart from the four rules entailing expulsion, the thirteen rules entailing suspension, the two undetermined rules, and the thirty rules entailing relinquishment and confession, the rest are the minor training rules.” Still others said, “Apart from the four rules entailing expulsion, the thirteen rules entailing suspension, the two undetermined rules, the thirty rules entailing relinquishment and confession, and the ninety-two rules entailing confession, the rest are the minor training rules.” Still others said, “Apart from the four rules entailing expulsion, the thirteen rules entailing suspension, the two undetermined rules, the thirty rules entailing relinquishment and confession, the ninety-two rules entailing confession, and the four rules entailing acknowledgment, the rest are the minor training rules.”
 
 Then Venerable Mahākassapa informed the Sangha:
 
@@ -177,7 +177,7 @@ Please, venerables, I ask the Sangha to listen. We have training rules that rela
 
 The Sangha doesn’t lay down new rules, nor get rid of the existing ones, and it undertakes to practice the training rules as they are. The Sangha approves and is therefore silent. I’ll remember it thus.”
 
-The senior monks then said, “You have committed an act of wrong conduct, Ānanda, in that you didn’t ask the Buddha what the minor training rules are. Please confess that wrong conduct.”
+The senior bhikkhus then said, “You have committed an act of wrong conduct, Ānanda, in that you didn’t ask the Buddha what the minor training rules are. Please confess that wrong conduct.”
 
 “It was because of lack of mindfulness that I didn’t ask. I can’t see that I have committed any wrong conduct, but I’ll confess it out of faith in the venerables.”
 
@@ -197,9 +197,9 @@ The senior monks then said, “You have committed an act of wrong conduct, Ānan
 
 “I made this effort because Mahāpajāpati Gotamī was the Buddha’s aunt who nurtured him, brought him up, and breastfed him when his own mother died. I can’t see that I’ve committed any wrong conduct, but I’ll confess it out of faith in the venerables.”
 
-At that time Venerable Purāṇa was wandering in the Southern Hills with a large sangha of five hundred monks. Soon the senior monks had concluded the communal recitation of the Teaching and the Monastic Law. Then, when Purāṇa had stayed in the Southern Hills for as long as he liked, he went to the Bamboo Grove at Rājagaha. There he went up to the senior monks, exchanged pleasantries with them, and sat down. And they said to him, “Purāṇa, the senior monks have recited the Teaching and the Monastic Law. Please accept that communal recitation.”
+At that time Venerable Purāṇa was wandering in the Southern Hills with a large sangha of five hundred bhikkhus. Soon the senior bhikkhus had concluded the communal recitation of the Teaching and the Monastic Law. Then, when Purāṇa had stayed in the Southern Hills for as long as he liked, he went to the Bamboo Grove at Rājagaha. There he went up to the senior bhikkhus, exchanged pleasantries with them, and sat down. And they said to him, “Purāṇa, the senior bhikkhus have recited the Teaching and the Monastic Law. Please accept that communal recitation.”
 
-“The Teaching and the Monastic Law have been well-recited by the senior monks. Nevertheless, I’ll remember what I myself have received from the Buddha.”
+“The Teaching and the Monastic Law have been well-recited by the senior bhikkhus. Nevertheless, I’ll remember what I myself have received from the Buddha.”
 
 ## 3. \. Discussion of the supreme penalty ^3
 
@@ -211,19 +211,19 @@ At that time Venerable Purāṇa was wandering in the Southern Hills with a larg
 > ```
 
 
-Venerable Ānanda said to the senior monks, “At the time of his final extinguishment, the Buddha said to me, ‘After my passing away, Ānanda, the Sangha should impose the supreme penalty on the monk Channa.’”
+Venerable Ānanda said to the senior bhikkhus, “At the time of his final extinguishment, the Buddha said to me, ‘After my passing away, Ānanda, the Sangha should impose the supreme penalty on the monk Channa.’”
 
 “Did you ask the Buddha what the supreme penalty is?”
 
-“I did, and he replied, ‘Whatever Channa says, the monks shouldn’t correct him, instruct him, or teach him.’”
+“I did, and he replied, ‘Whatever Channa says, the bhikkhus shouldn’t correct him, instruct him, or teach him.’”
 
 “Well then, Ānanda, impose the supreme penalty on Channa.”
 
 “But how should I do it? Channa is temperamental and harsh.”
 
-“Go together with many monks.”
+“Go together with many bhikkhus.”
 
-Saying, “Yes, venerables,” he traveled by boat upstream to Kosambī with a large sangha of five hundred monks. After disembarking, he sat down at the foot of a tree not far from King Udena’s park.
+Saying, “Yes, venerables,” he traveled by boat upstream to Kosambī with a large sangha of five hundred bhikkhus. After disembarking, he sat down at the foot of a tree not far from King Udena’s park.
 
 Just then King Udena was enjoying himself in the park together with his harem. The harem women heard that their teacher, Venerable Ānanda, was seated at the foot of a tree not far from the park. They told the king, adding, “Sir, we would like to see Venerable Ānanda.”
 
@@ -251,7 +251,7 @@ King Udena then went to Ānanda, exchanged pleasantries with him, sat down, and 
 
 “But what will you do with five hundred robes?”
 
-“I’ll share them with those monks whose robes are worn out.”
+“I’ll share them with those bhikkhus whose robes are worn out.”
 
 “And what will you do with the worn out robes?”
 
@@ -283,7 +283,7 @@ King Udena thought, “These Sakyan monastics are clever at putting things to us
 
 “What’s the supreme penalty?”
 
-“Whatever you say to the monks, the monks shouldn’t correct you, instruct you, or teach you.”
+“Whatever you say to the bhikkhus, the bhikkhus shouldn’t correct you, instruct you, or teach you.”
 
 Exclaiming, “I’m ruined!” he fainted right there.
 
@@ -293,7 +293,7 @@ He then went to Ānanda and said, “Venerable Ānanda, please lift the supreme 
 
 “The supreme penalty was lifted the moment you realized perfection.”
 
-At this communal recitation of the Monastic Law there were five hundred monks, neither more nor less.[^1582] This is why this communal recitation is called “The group of five hundred”.
+At this communal recitation of the Monastic Law there were five hundred bhikkhus, neither more nor less.[^1582] This is why this communal recitation is called “The group of five hundred”.
 
 The eleventh chapter on the group of five hundred is finished. In this chapter there are twenty-three topics.
 
@@ -301,7 +301,7 @@ This is the summary:
 
 > “When the Buddha had attained extinguishment,  
 > The senior monk called Kassapa;  
-> Addressed the community of monks,  
+> Addressed the community of bhikkhus,  
 > Guarding the true Teaching.
 > 
 > On the way from Pāvā,  

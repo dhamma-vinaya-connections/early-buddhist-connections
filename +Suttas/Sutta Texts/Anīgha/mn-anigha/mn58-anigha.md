@@ -24,7 +24,7 @@ When you put this dilemma to him, the Buddha will not be able to either spit it 
 
 “Yes, venerable sir,” replied Abhaya. He arose from his seat, bowed, and respectfully circled the Jain Nāṭaputta, keeping him on his right. Then, he went to the Auspicious One, bowed, and sat down to one side.
 
-Then he looked up at the sun and thought, “It is too late to refute the Auspicious One’s doctrine today. I shall refute his doctrine in my own home tomorrow.” He said to the Auspicious One, “Venerable sir, may the Auspicious One kindly accept tomorrow’s meal from me, together with three other monks.” The Auspicious One consented with silence.
+Then he looked up at the sun and thought, “It is too late to refute the Auspicious One’s doctrine today. I shall refute his doctrine in my own home tomorrow.” He said to the Auspicious One, “Venerable sir, may the Auspicious One kindly accept tomorrow’s meal from me, together with three other bhikkhus.” The Auspicious One consented with silence.
 
 Then, knowing that the Auspicious One had consented, Abhaya arose from his seat, bowed, and respectfully circled the Auspicious One, keeping him on his right, before leaving.
 

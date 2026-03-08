@@ -22,7 +22,7 @@ language: "English - Pali"
 
 1At one time Venerable Ānanda was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Then Venerable Ānanda robed up in the morning and, taking his bowl and robe, entered Sāvatthī for alms with Venerable Vaṅgīsa as his second monk.
+Then Venerable Ānanda robed up in the morning and, taking his bowl and robe, entered Sāvatthī for alms with Venerable Vaṅgīsa as his second bhikkhu.
 
 And at that time Venerable Vaṅgīsa became dissatisfied, as lust infected his mind. Then he addressed Ānanda in verse:
 

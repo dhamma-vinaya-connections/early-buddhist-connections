@@ -18,35 +18,35 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a number of monks dressed only in a sarong were making robes in a certain village monastery. Nuns entered that monastery without asking permission and approached those monks. The monks complained and criticized them, “How could nuns enter a monastery without asking permission?” … “Is it true, monks, that nuns did that?”
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a number of bhikkhus dressed only in a sarong were making robes in a certain village monastery. Nuns entered that monastery without asking permission and approached those bhikkhus. The bhikkhus complained and criticized them, “How could nuns enter a monastery without asking permission?” … “Is it true, bhikkhus, that nuns did that?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could nuns do that? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How could nuns do that? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 2‘If a nun enters a monastery without asking permission, she commits an offense entailing confession.’”
 
 3In this way the Buddha laid down this training rule for the nuns.
 
 
-4Soon afterwards those monks left that monastery. But even though the nuns had heard that the monks had left, they did not go there. Soon the monks returned. When the nuns heard that this was the case, they asked permission and then entered that monastery. They approached the monks and bowed down to them. The monks then said to them, “Sisters, why didn’t you sweep the monastery, or put out water for drinking or water for washing?”
+4Soon afterwards those bhikkhus left that monastery. But even though the nuns had heard that the bhikkhus had left, they did not go there. Soon the bhikkhus returned. When the nuns heard that this was the case, they asked permission and then entered that monastery. They approached the bhikkhus and bowed down to them. The bhikkhus then said to them, “Sisters, why didn’t you sweep the monastery, or put out water for drinking or water for washing?”
 
 
 “The Buddha has laid down a training rule that we may not enter a monastery without asking permission. That’s why we didn’t do it.”
 
-They told the Buddha. Soon afterwards the Buddha had the Sangha gathered and addressed the monks: “Monks, when a monk is available, a nun should enter a monastery only after asking permission. And so, monks, the nuns should recite this training rule like this:
+They told the Buddha. Soon afterwards the Buddha had the Sangha gathered and addressed the bhikkhus: “bhikkhus, when a bhikkhu is available, a nun should enter a monastery only after asking permission. And so, bhikkhus, the nuns should recite this training rule like this:
 
 
-5‘If a nun, when a monk is available, enters a monastery without asking permission, she commits an offense entailing confession.’”
+5‘If a nun, when a bhikkhu is available, enters a monastery without asking permission, she commits an offense entailing confession.’”
 
 6In this way the Buddha laid down this training rule for the nuns.
 
-7After leaving that monastery once more, the monks returned yet again. Thinking that the monks were still away, the nuns entered the monastery without asking permission. The nuns became anxious, thinking, “We have entered a monastery without asking permission, even though a monk was available. And the Buddha has laid down a training rule against this. Could it be that we have committed an offense entailing confession?” They told the Buddha. Soon afterwards he gave a teaching and addressed the monks: “And so, monks, the nuns should recite this training rule like this:
+7After leaving that monastery once more, the bhikkhus returned yet again. Thinking that the bhikkhus were still away, the nuns entered the monastery without asking permission. The nuns became anxious, thinking, “We have entered a monastery without asking permission, even though a bhikkhu was available. And the Buddha has laid down a training rule against this. Could it be that we have committed an offense entailing confession?” They told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus: “And so, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
-8‘If a nun, knowing that there are monks in a monastery, enters it without asking permission, she commits an offense entailing confession.’”
+8‘If a nun, knowing that there are bhikkhus in a monastery, enters it without asking permission, she commits an offense entailing confession.’”
 
 #### Definitions
 
@@ -55,20 +55,20 @@ They told the Buddha. Soon afterwards the Buddha had the Sangha gathered and add
 
 10**Knowing:** she knows it by herself or others have told her or they have told her.
 
-11**There are monks in a monastery:** even where monks stay at the foot of a tree.
+11**There are bhikkhus in a monastery:** even where bhikkhus stay at the foot of a tree.
 
 
-12**Enters it without asking permission:** if she crosses the boundary of an enclosed monastery without asking permission of a monk or a novice monk or a monastery worker, she commits an offense entailing confession. If she enters the vicinity of an unenclosed monastery, she commits an offense entailing confession.
+12**Enters it without asking permission:** if she crosses the boundary of an enclosed monastery without asking permission of a bhikkhu or a novice bhikkhu or a monastery worker, she commits an offense entailing confession. If she enters the vicinity of an unenclosed monastery, she commits an offense entailing confession.
 
 #### Permutations
 
-13If there are monks in a monastery, and she perceives that there are, and she enters it without asking permission of an available monk, she commits an offense entailing confession. If there are monks in a monastery, but she is unsure of it, and she enters it without asking permission of an available monk, she commits an offense of wrong conduct. If there are monks in a monastery, but she does not perceive that there are, and she enters it without asking permission of an available monk, there is no offense.
+13If there are bhikkhus in a monastery, and she perceives that there are, and she enters it without asking permission of an available bhikkhu, she commits an offense entailing confession. If there are bhikkhus in a monastery, but she is unsure of it, and she enters it without asking permission of an available bhikkhu, she commits an offense of wrong conduct. If there are bhikkhus in a monastery, but she does not perceive that there are, and she enters it without asking permission of an available bhikkhu, there is no offense.
 
-14If there are no monks in a monastery, but she perceives that there are, she commits an offense of wrong conduct. If there are no monks in a monastery, but she is unsure of it, she commits an offense of wrong conduct. If there are no monks in a monastery, and she does not perceive that there are, there is no offense.
+14If there are no bhikkhus in a monastery, but she perceives that there are, she commits an offense of wrong conduct. If there are no bhikkhus in a monastery, but she is unsure of it, she commits an offense of wrong conduct. If there are no bhikkhus in a monastery, and she does not perceive that there are, there is no offense.
 
 #### Non-offenses
 
-15There is no offense: if she enters after asking permission of an available monk; if, when there is no available monk, she enters without asking permission; if she goes while looking at the head of a nun in front of her; if she is going to where the nuns have gathered; if a path goes through the monastery; if she is sick; if there is an emergency; if she is insane; if she is the first offender.
+15There is no offense: if she enters after asking permission of an available bhikkhu; if, when there is no available bhikkhu, she enters without asking permission; if she goes while looking at the head of a nun in front of her; if she is going to where the nuns have gathered; if a path goes through the monastery; if she is sick; if there is an emergency; if she is insane; if she is the first offender.
 
 The first training rule is finished.
 

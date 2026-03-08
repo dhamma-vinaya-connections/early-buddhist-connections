@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“One person, mendicants, arises in the world for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans.
+1“One person, bhikkhus, arises in the world for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans.
 
 
 What one person?
 
-The Realized One, the perfected one, the fully awakened Buddha. This is the one person, mendicants, who arises in the world for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans.”"
+The Realized One, the perfected one, the fully awakened Buddha. This is the one person, bhikkhus, who arises in the world for the welfare and happiness of the people, out of compassion for the world, for the benefit, welfare, and happiness of gods and humans.”"
 
 1"Ekapuggalo, bhikkhave, loke uppajjamāno uppajjati bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṁ.
 

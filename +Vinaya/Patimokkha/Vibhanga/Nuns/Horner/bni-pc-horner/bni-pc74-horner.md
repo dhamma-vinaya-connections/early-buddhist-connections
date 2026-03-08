@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.74.1.1* *BD.3.384* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns ordained while they were less than twelve years (of standing).[^1] They were ignorant, inexperienced, they did not know what was allowable or what was not allowable; moreover, the women who’ shared their cells were ignorant, inexperienced, they did not know what was allowable or what was not allowable. Those who were modest nuns … spread it about, saying: “How can these nuns ordain while they are less than twelve years (of standing)?” …
 
-“Is it true, as is said, monks, that nuns … less than twelve years (of standing)?”
+“Is it true, as is said, bhikkhus, that nuns … less than twelve years (of standing)?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns … less than twelve years (of standing)? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns … less than twelve years (of standing)? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should ordain while she is less than twelve years (of standing) there is an offence of expiation.”
 

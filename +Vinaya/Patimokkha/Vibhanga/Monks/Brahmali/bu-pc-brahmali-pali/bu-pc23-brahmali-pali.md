@@ -18,28 +18,28 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time when the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu, the monks from the group of six went to the nuns’ dwelling place and instructed the nuns from the group of six.
+1At one time when the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu, the bhikkhus from the group of six went to the nuns’ dwelling place and instructed the nuns from the group of six.
 
 Soon afterwards, other nuns said to the nuns from the group of six, “Come, Venerables, let’s go to the instruction.”
 
-“There’s no need. The monks from the group of six came and instructed us right here.”
+“There’s no need. The bhikkhus from the group of six came and instructed us right here.”
 
 
-The nuns complained and criticized the monks from the group of six, “How could the monks from the group of six go and instruct the nuns at their dwelling place?” Then those nuns told the monks.
+The nuns complained and criticized the bhikkhus from the group of six, “How could the bhikkhus from the group of six go and instruct the nuns at their dwelling place?” Then those nuns told the bhikkhus.
 
-2The monks of few desires complained and criticized those monks, “How could those monks do this?”… “Is it true, monks, that you did this?”
+2The bhikkhus of few desires complained and criticized those bhikkhus, “How could those bhikkhus do this?”… “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 3‘If a monk goes to the nuns’ dwelling place, and then instructs them, he commits an offense entailing confession.’”
 
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5Soon afterwards Mahāpajāpati Gotamī became sick. The senior monks went to see her and said, “We hope you’re bearing up, Gotamī, we hope you’re getting better?”
+5Soon afterwards Mahāpajāpati Gotamī became sick. The senior bhikkhus went to see her and said, “We hope you’re bearing up, Gotamī, we hope you’re getting better?”
 
 “I’m not bearing up, Venerables, and I’m not getting better. Please give me a teaching.”
 
@@ -48,13 +48,13 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 
 Soon afterwards, after robing up in the morning, the Buddha took his bowl and robe and went to Mahāpajāpati Gotamī where he sat down on the prepared seat. He said to her, “I hope you’re bearing up, Gotamī, I hope you’re getting better?”
 
-“Previously, Venerable Sir, the senior monks would come and teach me, and because of that I would be comfortable. But now that this has been prohibited by the Buddha, they don’t teach because they’re afraid of wrongdoing. Because of that I’m not comfortable.”
+“Previously, Venerable Sir, the senior bhikkhus would come and teach me, and because of that I would be comfortable. But now that this has been prohibited by the Buddha, they don’t teach because they’re afraid of wrongdoing. Because of that I’m not comfortable.”
 
-After instructing, inspiring, and gladdening her with a teaching, the Buddha got up from his seat and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+After instructing, inspiring, and gladdening her with a teaching, the Buddha got up from his seat and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to go and instruct a sick nun at her dwelling place.
+“bhikkhus, I allow you to go and instruct a sick nun at her dwelling place.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

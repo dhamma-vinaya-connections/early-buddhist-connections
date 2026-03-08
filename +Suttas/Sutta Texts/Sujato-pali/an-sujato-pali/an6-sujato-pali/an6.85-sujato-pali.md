@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with six qualities can’t realize supreme coolness. What six? It’s when a mendicant doesn’t keep their mind in check when they should. They don’t exert their mind when they should. They don’t encourage the mind when they should. They don’t watch over the mind with equanimity when they should. They have a bad attitude. They delight in identity. A mendicant with these six qualities can’t realize supreme coolness.
+1“bhikkhus, a bhikkhu with six qualities can’t realize supreme coolness. What six? It’s when a bhikkhu doesn’t keep their mind in check when they should. They don’t exert their mind when they should. They don’t encourage the mind when they should. They don’t watch over the mind with equanimity when they should. They have a bad attitude. They delight in identity. A bhikkhu with these six qualities can’t realize supreme coolness.
 
-2A mendicant with six qualities can realize supreme coolness. What six? It’s when a mendicant keeps their mind in check when they should. They exert their mind when they should. They encourage the mind when they should. They watch over the mind with equanimity when they should. They have an excellent attitude. They delight in extinguishment. A mendicant with these six qualities can realize supreme coolness.”
+2A bhikkhu with six qualities can realize supreme coolness. What six? It’s when a bhikkhu keeps their mind in check when they should. They exert their mind when they should. They encourage the mind when they should. They watch over the mind with equanimity when they should. They have an excellent attitude. They delight in extinguishment. A bhikkhu with these six qualities can realize supreme coolness.”
 
 1"Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo anuttaraṁ sītibhāvaṁ sacchikātuṁ. Katamehi chahi? Idha, bhikkhave, bhikkhu yasmiṁ samaye cittaṁ niggahetabbaṁ tasmiṁ samaye cittaṁ na niggaṇhāti, yasmiṁ samaye cittaṁ paggahetabbaṁ tasmiṁ samaye cittaṁ na paggaṇhāti, yasmiṁ samaye cittaṁ sampahaṁsitabbaṁ tasmiṁ samaye cittaṁ na sampahaṁseti, yasmiṁ samaye cittaṁ ajjhupekkhitabbaṁ tasmiṁ samaye cittaṁ na ajjhupekkhati, hīnādhimuttiko ca hoti, sakkāyābhirato ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo anuttaraṁ sītibhāvaṁ sacchikātuṁ.
 

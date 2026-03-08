@@ -29,7 +29,7 @@ The messenger went to Upananda and said, “Venerable, I’ve brought a robe fun
 “Is there anyone who provides services for you?”
 
 
-Just then a lay follower had come to the monastery on some business. Upananda told the messenger, “This lay follower provides services for the monks.”
+Just then a lay follower had come to the monastery on some business. Upananda told the messenger, “This lay follower provides services for the bhikkhus.”
 
 The messenger instructed that lay follower and then returned to Upananda, saying, “I’ve instructed the lay follower you pointed out to me. Please go to him at the right time and he’ll give you robe-cloth.”
 
@@ -48,17 +48,17 @@ Being pressured by Upananda, the lay follower bought him robe-cloth, and as a co
 4When that lay follower told them what had happened, they complained and criticized Upananda, “These Sakyan monastics have great desires. They’re not content. It’s no easy matter to provide them with a service. How could Venerable Upananda not agree when asked by a lay follower to wait for a day?”
 
 
-5The monks heard the complaints of those people, and the monks of few desires complained and criticized him, “How could Venerable Upananda not agree when asked by a lay follower to wait for a day?”
+5The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized him, “How could Venerable Upananda not agree when asked by a lay follower to wait for a day?”
 
 6After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Upananda: “Is it true, Upananda, that you did this?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-7‘If a king, a king’s employee, a brahmin, or a householder sends a robe fund for a monk by messenger, saying, “Buy robe-cloth with this robe fund and give it to monk so-and-so,” and the messenger goes to that monk and says, “Venerable, I have brought a robe fund for you. Please receive it,” then that monk should reply, ‘We don’t receive robe funds, but we do receive allowable robe-cloth at the right time.’ If that messenger says, “Is there anyone who provides services for you?” the monk, if he needs robe-cloth, should point out a monastery worker or a lay follower and say, “He provides services for the monks.” If the messenger instructs that service-provider and then returns to the monk and says, “Venerable, I have instructed the service-provider you pointed out. Please go to him at the right time and he’ll give you robe-cloth,” then, if that monk needs robe-cloth, he should go to that service-provider and prompt him and remind him two or three times, saying, “I need robe-cloth.” If he then gets robe-cloth, all is well. If he does not get it, he should stand in silence for it at most six times. If he then gets robe-cloth, all is well. If he makes any further effort and then gets robe-cloth, he commits an offense entailing relinquishment and confession. If he does not get robe-cloth, he should go to the owners of that robe fund, or send a message, saying, “That monk hasn’t received any benefit from the robe fund you sent for him. Please recover what’s yours, or it might perish.” This is the proper procedure.’”
+7‘If a king, a king’s employee, a brahmin, or a householder sends a robe fund for a monk by messenger, saying, “Buy robe-cloth with this robe fund and give it to monk so-and-so,” and the messenger goes to that monk and says, “Venerable, I have brought a robe fund for you. Please receive it,” then that monk should reply, ‘We don’t receive robe funds, but we do receive allowable robe-cloth at the right time.’ If that messenger says, “Is there anyone who provides services for you?” the monk, if he needs robe-cloth, should point out a monastery worker or a lay follower and say, “He provides services for the bhikkhus.” If the messenger instructs that service-provider and then returns to the monk and says, “Venerable, I have instructed the service-provider you pointed out. Please go to him at the right time and he’ll give you robe-cloth,” then, if that monk needs robe-cloth, he should go to that service-provider and prompt him and remind him two or three times, saying, “I need robe-cloth.” If he then gets robe-cloth, all is well. If he does not get it, he should stand in silence for it at most six times. If he then gets robe-cloth, all is well. If he makes any further effort and then gets robe-cloth, he commits an offense entailing relinquishment and confession. If he does not get robe-cloth, he should go to the owners of that robe fund, or send a message, saying, “That monk hasn’t received any benefit from the robe fund you sent for him. Please recover what’s yours, or it might perish.” This is the proper procedure.’”
 
 #### Definitions
 
@@ -81,7 +81,7 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 16**Give:** donate.
 
 
-17And the messenger goes to that monk and says, “Venerable, I have brought a robe fund for you. Please receive it,” then that monk should reply, “We don’t receive robe funds, but we do receive allowable robe-cloth at the right time.” If that messenger says, “Is there anyone who provides services for you?” the monk, if he needs robe-cloth, should point out a monastery worker or a lay follower and say, “He provides services for the monks”: he should not say, “Give it to him,” “He’ll put it aside,” “He’ll trade it,” “He’ll buy it.”
+17And the messenger goes to that monk and says, “Venerable, I have brought a robe fund for you. Please receive it,” then that monk should reply, “We don’t receive robe funds, but we do receive allowable robe-cloth at the right time.” If that messenger says, “Is there anyone who provides services for you?” the monk, if he needs robe-cloth, should point out a monastery worker or a lay follower and say, “He provides services for the bhikkhus”: he should not say, “Give it to him,” “He’ll put it aside,” “He’ll trade it,” “He’ll buy it.”
 
 18If the messenger instructs that service-provider and then returns to the monk and says, “Venerable, I have instructed the service-provider you pointed out. Please go to him at the right time and he’ll give you robe-cloth,” then, if that monk needs robe-cloth, he should go to that service-provider and prompt him and remind him two or three times, saying, “I need robe-cloth”:
 
@@ -97,7 +97,7 @@ He should not sit down on a seat; he should not receive food; he should not give
 
 If he makes any further effort and then gets robe-cloth: For the effort there is an act of wrong conduct. When he gets the robe-cloth, it becomes subject to relinquishment.
 
-The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. … To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
+The robe-cloth should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. … To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
 
 
 ‘Venerables, this robe-cloth, which I got after prompting more than three times and standing more than six times, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe-cloth back to you.’”

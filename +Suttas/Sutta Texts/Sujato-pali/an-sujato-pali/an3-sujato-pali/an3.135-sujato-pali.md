@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, you should associate with a friend who has three factors. What three? They give what is hard to give, they do what is hard to do, and they bear what is hard to bear. You should associate with a friend who has these three factors.”
+1“bhikkhus, you should associate with a friend who has three factors. What three? They give what is hard to give, they do what is hard to do, and they bear what is hard to bear. You should associate with a friend who has these three factors.”
 
 1"Tīhi, bhikkhave, aṅgehi samannāgato mitto sevitabbo. Katamehi tīhi? () Duddadaṁ dadāti, dukkaraṁ karoti, dukkhamaṁ khamati – imehi kho, bhikkhave, tīhi aṅgehi samannāgato mitto sevitabbo"ti.
 

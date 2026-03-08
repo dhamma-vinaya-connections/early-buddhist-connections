@@ -30,64 +30,64 @@ Then in the late afternoon, Venerable Mahāmoggallāna came out of retreat, went
 Seeing them, Venerable Ānanda went to Venerable Revata, told him what was happening, and invited him also.
 
 
-2Sāriputta saw them coming off in the distance and said to Ānanda: “Come, Venerable Ānanda. Welcome to Ānanda, the Buddha’s attendant, who is so close to the Buddha. Ānanda, the sal forest park at Gosiṅga is lovely, the night is bright, the sal trees are in full blossom, and divine scents seem to float on the air. What kind of mendicant would beautify this park?”
+2Sāriputta saw them coming off in the distance and said to Ānanda: “Come, Venerable Ānanda. Welcome to Ānanda, the Buddha’s attendant, who is so close to the Buddha. Ānanda, the sal forest park at Gosiṅga is lovely, the night is bright, the sal trees are in full blossom, and divine scents seem to float on the air. What kind of bhikkhu would beautify this park?”
 
-“Reverend Sāriputta, it’s a mendicant who is very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically. And they teach the four assemblies in order to uproot the underlying tendencies with well-rounded and systematic words and phrases. That’s the kind of mendicant who would beautify this park.”
+“Reverend Sāriputta, it’s a bhikkhu who is very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically. And they teach the four assemblies in order to uproot the underlying tendencies with well-rounded and systematic words and phrases. That’s the kind of bhikkhu who would beautify this park.”
 
 
 3When he had spoken, Sāriputta said to Revata: “Reverend Revata, Ānanda has answered by speaking from his heart. And now we ask you the same question.”
 
-“Reverend Sāriputta, it’s a mendicant who enjoys retreat and loves retreat. They’re committed to inner serenity of the heart, they don’t neglect jhāna, they’re endowed with discernment, and they frequent empty huts. That’s the kind of mendicant who would beautify this park.”
+“Reverend Sāriputta, it’s a bhikkhu who enjoys retreat and loves retreat. They’re committed to inner serenity of the heart, they don’t neglect jhāna, they’re endowed with discernment, and they frequent empty huts. That’s the kind of bhikkhu who would beautify this park.”
 
 When he had spoken, Sāriputta said to Anuruddha: “Reverend Anuruddha, Revata has answered by speaking from his heart. And now we ask you the same question.”
 
-“Reverend Sāriputta, it’s a mendicant who surveys the entire galaxy with clairvoyance that is purified and surpasses the human, just as a person with good sight could survey a thousand wheel rims from the upper floor of a stilt longhouse. That’s the kind of mendicant who would beautify this park.”
+“Reverend Sāriputta, it’s a bhikkhu who surveys the entire galaxy with clairvoyance that is purified and surpasses the human, just as a person with good sight could survey a thousand wheel rims from the upper floor of a stilt longhouse. That’s the kind of bhikkhu who would beautify this park.”
 
 When he had spoken, Sāriputta said to Mahākassapa: “Reverend Kassapa, Anuruddha has answered by speaking from his heart. And now we ask you the same question.”
 
-“Reverend Sāriputta, it’s a mendicant who lives in the wilderness, eats only alms-food, wears rag robes, and owns just three robes; and they praise these things. They are of few wishes, content, secluded, aloof, and energetic; and they praise these things. They are accomplished in ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom; and they praise these things. That’s the kind of mendicant who would beautify this park.”
+“Reverend Sāriputta, it’s a bhikkhu who lives in the wilderness, eats only alms-food, wears rag robes, and owns just three robes; and they praise these things. They are of few wishes, content, secluded, aloof, and energetic; and they praise these things. They are accomplished in ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom; and they praise these things. That’s the kind of bhikkhu who would beautify this park.”
 
 
 6When he had spoken, Sāriputta said to Mahāmoggallāna: “Reverend Moggallāna, Mahākassapa has answered by speaking from his heart. And now we ask you the same question.”
 
-“Reverend Sāriputta, it’s when two mendicants engage in discussion about the teaching. They question each other and answer each other’s questions without faltering, and their discussion on the teaching flows on. That’s the kind of mendicant who would beautify this park.”
+“Reverend Sāriputta, it’s when two bhikkhus engage in discussion about the teaching. They question each other and answer each other’s questions without faltering, and their discussion on the teaching flows on. That’s the kind of bhikkhu who would beautify this park.”
 
 
-7Then Mahāmoggallāna said to Sāriputta: “Each of us has spoken from our heart. And now we ask you: Sāriputta, the sal forest park at Gosiṅga is lovely, the night is bright, the sal trees are in full blossom, and divine scents seem to float on the air. What kind of mendicant would beautify this park?”
+7Then Mahāmoggallāna said to Sāriputta: “Each of us has spoken from our heart. And now we ask you: Sāriputta, the sal forest park at Gosiṅga is lovely, the night is bright, the sal trees are in full blossom, and divine scents seem to float on the air. What kind of bhikkhu would beautify this park?”
 
-“Reverend Moggallāna, it’s when a mendicant masters their mind and is not mastered by it. In the morning, they abide in whatever meditation or attainment they want. At midday, and in the evening, they abide in whatever meditation or attainment they want. Suppose that a ruler or their minister had a chest full of garments of different colors. In the morning, they’d don whatever pair of garments they wanted. At midday, and in the evening, they’d don whatever pair of garments they wanted.
+“Reverend Moggallāna, it’s when a bhikkhu masters their mind and is not mastered by it. In the morning, they abide in whatever meditation or attainment they want. At midday, and in the evening, they abide in whatever meditation or attainment they want. Suppose that a ruler or their minister had a chest full of garments of different colors. In the morning, they’d don whatever pair of garments they wanted. At midday, and in the evening, they’d don whatever pair of garments they wanted.
 
-In the same way, a mendicant masters their mind and is not mastered by it. In the morning, they abide in whatever meditation or attainment they want. At midday, and in the evening, they abide in whatever meditation or attainment they want. That’s the kind of mendicant who would beautify this park.”
+In the same way, a bhikkhu masters their mind and is not mastered by it. In the morning, they abide in whatever meditation or attainment they want. At midday, and in the evening, they abide in whatever meditation or attainment they want. That’s the kind of bhikkhu who would beautify this park.”
 
 8Then Sāriputta said to those venerables: “Each of us has spoken from the heart. Come, reverends, let’s go to the Buddha, and inform him about this. As he answers, so we’ll remember it.”
 
-“Yes, reverend,” they replied. Then those venerables went to the Buddha, bowed, and sat down to one side. Venerable Sāriputta told the Buddha of how the mendicants had come to see him, and how he had asked Ānanda: “‘Ānanda, the sal forest park at Gosiṅga is lovely, the night is bright, the sal trees are in full blossom, and divine scents seem to float on the air. What kind of mendicant would beautify this park?’ When I had spoken, Ānanda said to me: ‘Reverend Sāriputta, it’s a mendicant who is very learned … That’s the kind of mendicant who would beautify this park.’”
+“Yes, reverend,” they replied. Then those venerables went to the Buddha, bowed, and sat down to one side. Venerable Sāriputta told the Buddha of how the bhikkhus had come to see him, and how he had asked Ānanda: “‘Ānanda, the sal forest park at Gosiṅga is lovely, the night is bright, the sal trees are in full blossom, and divine scents seem to float on the air. What kind of bhikkhu would beautify this park?’ When I had spoken, Ānanda said to me: ‘Reverend Sāriputta, it’s a bhikkhu who is very learned … That’s the kind of bhikkhu who would beautify this park.’”
 
 
 “Good, good, Sāriputta! Ānanda answered in the right way for him. For Ānanda is very learned …”
 
 
-9“Next I asked Revata the same question. He said: ‘It’s a mendicant who enjoys retreat … That’s the kind of mendicant who would beautify this park.’”
+9“Next I asked Revata the same question. He said: ‘It’s a bhikkhu who enjoys retreat … That’s the kind of bhikkhu who would beautify this park.’”
 
 “Good, good, Sāriputta! Revata answered in the right way for him. For Revata enjoys retreat …”
 
 
-10“Next I asked Anuruddha the same question. He said: ‘It’s a mendicant who surveys the entire galaxy with clairvoyance that is purified and surpasses the human … That’s the kind of mendicant who would beautify this park.’”
+10“Next I asked Anuruddha the same question. He said: ‘It’s a bhikkhu who surveys the entire galaxy with clairvoyance that is purified and surpasses the human … That’s the kind of bhikkhu who would beautify this park.’”
 
 “Good, good, Sāriputta! Anuruddha answered in the right way for him. For Anuruddha surveys the entire galaxy with clairvoyance that is purified and surpasses the human.”
 
 
-11“Next I asked Mahākassapa the same question. He said: ‘It’s a mendicant who lives in the wilderness … and is accomplished in the knowledge and vision of freedom; and they praise these things. That’s the kind of mendicant who would beautify this park.’”
+11“Next I asked Mahākassapa the same question. He said: ‘It’s a bhikkhu who lives in the wilderness … and is accomplished in the knowledge and vision of freedom; and they praise these things. That’s the kind of bhikkhu who would beautify this park.’”
 
 “Good, good, Sāriputta! Kassapa answered in the right way for him. For Kassapa lives in the wilderness … and is accomplished in the knowledge and vision of freedom; and he praises these things.”
 
-12“Next I asked Mahāmoggallāna the same question. He said: ‘It’s when two mendicants engage in discussion about the teaching … That’s the kind of mendicant who would beautify this park.’”
+12“Next I asked Mahāmoggallāna the same question. He said: ‘It’s when two bhikkhus engage in discussion about the teaching … That’s the kind of bhikkhu who would beautify this park.’”
 
 
 “Good, good, Sāriputta! Moggallāna answered in the right way for him. For Moggallāna is a Dhamma speaker.”
 
 
-13When he had spoken, Moggallāna said to the Buddha: “Next, I asked Sāriputta: ‘Each of us has spoken from our heart. And now we ask you: Sāriputta, the sal forest park at Gosiṅga is lovely, the night is bright, the sal trees are in full blossom, and divine scents seem to float on the air. What kind of mendicant would beautify this park?’ When I had spoken, Sāriputta said to me: ‘Reverend Moggallāna, it’s when a mendicant masters their mind and is not mastered by it … That’s the kind of mendicant who would beautify this park.’”
+13When he had spoken, Moggallāna said to the Buddha: “Next, I asked Sāriputta: ‘Each of us has spoken from our heart. And now we ask you: Sāriputta, the sal forest park at Gosiṅga is lovely, the night is bright, the sal trees are in full blossom, and divine scents seem to float on the air. What kind of bhikkhu would beautify this park?’ When I had spoken, Sāriputta said to me: ‘Reverend Moggallāna, it’s when a bhikkhu masters their mind and is not mastered by it … That’s the kind of bhikkhu who would beautify this park.’”
 
 “Good, good, Moggallāna! Sāriputta answered in the right way for him. For Sāriputta masters his mind and is not mastered by it …”
 
@@ -96,7 +96,7 @@ In the same way, a mendicant masters their mind and is not mastered by it. In th
 
 “Sir, who has spoken well?”
 
-“You’ve all spoken well in your own way. However, listen to me also as to what kind of mendicant would beautify this sal forest park at Gosiṅga. It’s a mendicant who, after the meal, returns from alms-round, sits down cross-legged with their body straight, and establishes mindfulness right there, thinking: ‘I will not break this sitting posture until my mind is freed from the defilements by not grasping!’ That’s the kind of mendicant who would beautify this park.”
+“You’ve all spoken well in your own way. However, listen to me also as to what kind of bhikkhu would beautify this sal forest park at Gosiṅga. It’s a bhikkhu who, after the meal, returns from alms-round, sits down cross-legged with their body straight, and establishes mindfulness right there, thinking: ‘I will not break this sitting posture until my mind is freed from the defilements by not grasping!’ That’s the kind of bhikkhu who would beautify this park.”
 
 
 That is what the Buddha said. Satisfied, those venerables were happy with what the Buddha said.

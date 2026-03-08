@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, it’s totally impossible for a mendicant who regards any condition as pleasurable to accept views that agree with the teaching. … It’s totally possible for a mendicant who regards all conditions as suffering to accept views that agree with the teaching. …”
+1“bhikkhus, it’s totally impossible for a bhikkhu who regards any condition as pleasurable to accept views that agree with the teaching. … It’s totally possible for a bhikkhu who regards all conditions as suffering to accept views that agree with the teaching. …”
 
 1"So vata, bhikkhave, bhikkhu kañci saṅkhāraṁ sukhato samanupassanto … pe … sabbasaṅkhāre dukkhato samanupassanto … pe … ṭhānametaṁ vijjati".
 

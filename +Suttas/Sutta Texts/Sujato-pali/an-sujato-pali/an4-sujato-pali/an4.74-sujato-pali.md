@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four things are the best. What four? The best ethics, immersion, wisdom, and freedom. These are the four things that are the best.”
+1“bhikkhus, these four things are the best. What four? The best ethics, immersion, wisdom, and freedom. These are the four things that are the best.”
 
 1"Cattārimāni, bhikkhave, aggāni. Katamāni cattāri? Sīlaggaṁ, samādhiggaṁ, paññāggaṁ, vimuttaggaṁ – imāni kho, bhikkhave, cattāri aggānī"ti.
 

@@ -7,49 +7,49 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP2]]
 > ◄  [[bu-np1-horner]] 📜  [[bu-np3-horner]] ►
 
-# Monks’ Forfeiture (_Nissaggiya_) 2
+# bhikkhus’ Forfeiture (_Nissaggiya_) 2
 
-*BD.2.12* *Bu-NP.2.1.1* At one time the enlightened one, the lord, was staying at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. At that time monks, entrusting robes to the hands of (other) monks, set out on a tour of the country with (only) an inner and an upper robe[^1]; these robes, deposited for a long time, became soiled[^2]; the monks dried them in the sun. The venerable Ānanda, as he was engaged in touring the lodgings, saw these monks drying these robes in the sun. Seeing these monks he came up to them, and having come up he said to these monks:
+*BD.2.12* *Bu-NP.2.1.1* At one time the enlightened one, the lord, was staying at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. At that time bhikkhus, entrusting robes to the hands of (other) bhikkhus, set out on a tour of the country with (only) an inner and an upper robe[^1]; these robes, deposited for a long time, became soiled[^2]; the bhikkhus dried them in the sun. The venerable Ānanda, as he was engaged in touring the lodgings, saw these bhikkhus drying these robes in the sun. Seeing these bhikkhus he came up to them, and having come up he said to these bhikkhus:
 
-“Your reverences, whose are these robes that are soiled?” Then these monks told this matter to the venerable Ānanda. The venerable Ānanda looked down upon, criticised, spread it about, saying:
+“Your reverences, whose are these robes that are soiled?” Then these bhikkhus told this matter to the venerable Ānanda. The venerable Ānanda looked down upon, criticised, spread it about, saying:
 
-“How can the monks, entrusting robes to the hands of (other) monks, set out on a tour of the country with (only) an inner and an upper robe?”[^3] Then the venerable Ānanda told this matter to the lord. He said:
+“How can the bhikkhus, entrusting robes to the hands of (other) bhikkhus, set out on a tour of the country with (only) an inner and an upper robe?”[^3] Then the venerable Ānanda told this matter to the lord. He said:
 
-“Is it true, as is said, monks, that monks, entrusting robes to the hands of (other) monks, set out on a tour of the country with (only) an inner and an upper robe?”
+“Is it true, as is said, bhikkhus, that bhikkhus, entrusting robes to the hands of (other) bhikkhus, set out on a tour of the country with (only) an inner and an upper robe?”
 
 *BD.2.13* “It is true, lord,” they said.
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can these foolish men, having entrusted robes to the hands of (other) monks, set out on a tour of the country with (only) an inner and an upper robe? It is not, monks, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How, bhikkhus, can these foolish men, having entrusted robes to the hands of (other) bhikkhus, set out on a tour of the country with (only) an inner and an upper robe? It is not, bhikkhus, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“When the robe-material is settled, when a monk’s _kaṭhina_ (privileges) have been removed, if this monk should be away, separated from his three robes,[^4] even for one night, there is an offence of expiation involving forfeiture.”[^5]
+“When the robe-material is settled, when a bhikkhu’s _kaṭhina_ (privileges) have been removed, if this bhikkhu should be away, separated from his three robes,[^4] even for one night, there is an offence of expiation involving forfeiture.”[^5]
 
-And thus this rule of training for monks came to be laid down by the lord.
+And thus this rule of training for bhikkhus came to be laid down by the lord.
 
 * * *
 
-*Bu-NP.2.2.1* At that time a certain monk became ill in Kosambī. Relations sent a messenger to this monk, saying: “Let the revered sir[^6] come, we will nurse (him).” The *BD.2.14* monks said: “Go, your reverence, relations will nurse you.” He said:
+*Bu-NP.2.2.1* At that time a certain bhikkhu became ill in Kosambī. Relations sent a messenger to this bhikkhu, saying: “Let the revered sir[^6] come, we will nurse (him).” The *BD.2.14* bhikkhus said: “Go, your reverence, relations will nurse you.” He said:
 
 “Your reverences, a rule of training laid down by the lord is that one should not be away, separated from the three robes; but I am ill, I am not able to set out taking the three robes. I *Vin.3.199* will not go.”
 
-They told this matter to the lord. Then the lord, on this occasion, in this connection, having given reasoned talk, addressed the monks, saying:
+They told this matter to the lord. Then the lord, on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying:
 
-“I allow you, monks, to give a monk who is ill the agreement (to be regarded) as not away, separated from the three robes.[^7] And thus, monks, should it be given: That monk who is ill, approaching the Order, arranging his upper robe over one shoulder, honouring the feet of the senior monks, sitting down on his haunches, saluting with joined palms, should speak thus: ‘I, honoured sirs, am ill, I am not able to set out taking the three robes. Thus I, honoured sirs, request the Order for the agreement (to be regarded) as not away, separated from the three robes.’ A second time it should be requested, a third time it should be requested. The Order should be informed by an experienced, competent monk, saying: ‘Honoured sirs, let the Order listen to me. This monk so and so is ill, he is not able to set out taking the three robes. He requests the Order for the agreement (to be regarded) as not away, separated from the three robes. If it seems right to the Order, let the Order give this monk so and so the agreement (to be regarded) as not away, separated from the three robes. This is the motion. Honoured sirs, let the Order listen to *BD.2.15* me … the three robes. The Order gives the monk so and so the agreement (to be regarded) as not away, separated from the three robes. If the giving to the monk so and so of the agreement (to be regarded) as not away, separated from the three robes, is pleasing to the venerable ones, let them be silent; if it is not pleasing, they should speak. Agreement (to be regarded) as not away, separated from the three robes, is given by the Order to the monk so and so, and it is pleasing to the venerable ones; therefore they are silent, so do I understand this.’ And thus, monks, this rule of training should be set forth:
+“I allow you, bhikkhus, to give a bhikkhu who is ill the agreement (to be regarded) as not away, separated from the three robes.[^7] And thus, bhikkhus, should it be given: That bhikkhu who is ill, approaching the Order, arranging his upper robe over one shoulder, honouring the feet of the senior bhikkhus, sitting down on his haunches, saluting with joined palms, should speak thus: ‘I, honoured sirs, am ill, I am not able to set out taking the three robes. Thus I, honoured sirs, request the Order for the agreement (to be regarded) as not away, separated from the three robes.’ A second time it should be requested, a third time it should be requested. The Order should be informed by an experienced, competent bhikkhu, saying: ‘Honoured sirs, let the Order listen to me. This bhikkhu so and so is ill, he is not able to set out taking the three robes. He requests the Order for the agreement (to be regarded) as not away, separated from the three robes. If it seems right to the Order, let the Order give this bhikkhu so and so the agreement (to be regarded) as not away, separated from the three robes. This is the motion. Honoured sirs, let the Order listen to *BD.2.15* me … the three robes. The Order gives the bhikkhu so and so the agreement (to be regarded) as not away, separated from the three robes. If the giving to the bhikkhu so and so of the agreement (to be regarded) as not away, separated from the three robes, is pleasing to the venerable ones, let them be silent; if it is not pleasing, they should speak. Agreement (to be regarded) as not away, separated from the three robes, is given by the Order to the bhikkhu so and so, and it is pleasing to the venerable ones; therefore they are silent, so do I understand this.’ And thus, bhikkhus, this rule of training should be set forth:
 
-“When the robe-material is settled, when a monk’s _kaṭhina_ (privileges) have been removed, if this monk should be away, separated from the three robes, even for one night, except on the agreement of the monks,[^8] there is an offence of expiation involving forfeiture.”
+“When the robe-material is settled, when a bhikkhu’s _kaṭhina_ (privileges) have been removed, if this bhikkhu should be away, separated from the three robes, even for one night, except on the agreement of the bhikkhus,[^8] there is an offence of expiation involving forfeiture.”
 
 * * *
 
-*Bu-NP.2.3.1* When the robe-material is settled means: the robe-material is made up for a monk, or lost or destroyed or burnt, or an expectation of robe-material is disappointed.[^9]
+*Bu-NP.2.3.1* When the robe-material is settled means: the robe-material is made up for a bhikkhu, or lost or destroyed or burnt, or an expectation of robe-material is disappointed.[^9]
 
 When the _kaṭhina_ (privileges) have been removed means: they come to be removed because of a certain one of eight grounds, or they come to be removed before the time by the Order.[^10]
 
-If this monk should be away, separated from the three robes, even for one night means: without the outer cloak, or without the upper robe, or without the inner robe.
+If this bhikkhu should be away, separated from the three robes, even for one night means: without the outer cloak, or without the upper robe, or without the inner robe.
 
-Except on the agreement of the monks means: setting aside the agreement of the monks.
+Except on the agreement of the bhikkhus means: setting aside the agreement of the bhikkhus.
 
-There is an offence involving forfeiture means: it is to be forfeited at sunrise; it should be forfeited to the Order, or to a group, or to an individual. And thus, monks, should it be forfeited … *Vin.3.200* ‘Honoured sirs, these three robes were away, separated from me *BD.2.16* for a night, without the agreement of the monks (and) are to be forfeited. I forfeit them to the Order …’ ‘… should give back … let the venerable ones give back … I will give back this robe to the venerable one.’
+There is an offence involving forfeiture means: it is to be forfeited at sunrise; it should be forfeited to the Order, or to a group, or to an individual. And thus, bhikkhus, should it be forfeited … *Vin.3.200* ‘Honoured sirs, these three robes were away, separated from me *BD.2.16* for a night, without the agreement of the bhikkhus (and) are to be forfeited. I forfeit them to the Order …’ ‘… should give back … let the venerable ones give back … I will give back this robe to the venerable one.’
 
 * * *
 
@@ -121,17 +121,17 @@ A dwelling comes to be for various families, it is enclosed and there are variou
 
 * * *
 
-*Bu-NP.2.3.18* If he thinks that he is away, separated when he is away, separated, except on the agreement of the monks, there is an offence of expiation involving forfeiture. If he is in doubt as to whether he is away, separated, except on the agreement of the monks, there is an offence of expiation involving forfeiture. If he thinks that he is not away, separated, when he is away, separated, except on the agreement of the monks, there is an offence of expiation involving forfeiture. If he thinks that it is taken away[^39] when it is not taken *BD.2.23* away … If he thinks that it is bestowed when it is not bestowed … If he thinks that it is lost when it is not lost … If he thinks that it is destroyed when it is not destroyed … If he thinks that it is burnt when it is not burnt … If he thinks that it is stolen when it is not stolen, except on the agreement of the monks, there is an offence of expiation involving forfeiture. Not forfeiting the robe which had to be forfeited, if he makes use of it, there is an offence of wrong-doing. If he thinks that he is away, separated, when he is not away, separated, there is an offence of wrong-doing. If he is in doubt as to whether he is not away, separated, there is an offence of wrong-doing. If he thinks that he is not away, separated, when he is not away, separated, there is no offence.
+*Bu-NP.2.3.18* If he thinks that he is away, separated when he is away, separated, except on the agreement of the bhikkhus, there is an offence of expiation involving forfeiture. If he is in doubt as to whether he is away, separated, except on the agreement of the bhikkhus, there is an offence of expiation involving forfeiture. If he thinks that he is not away, separated, when he is away, separated, except on the agreement of the bhikkhus, there is an offence of expiation involving forfeiture. If he thinks that it is taken away[^39] when it is not taken *BD.2.23* away … If he thinks that it is bestowed when it is not bestowed … If he thinks that it is lost when it is not lost … If he thinks that it is destroyed when it is not destroyed … If he thinks that it is burnt when it is not burnt … If he thinks that it is stolen when it is not stolen, except on the agreement of the bhikkhus, there is an offence of expiation involving forfeiture. Not forfeiting the robe which had to be forfeited, if he makes use of it, there is an offence of wrong-doing. If he thinks that he is away, separated, when he is not away, separated, there is an offence of wrong-doing. If he is in doubt as to whether he is not away, separated, there is an offence of wrong-doing. If he thinks that he is not away, separated, when he is not away, separated, there is no offence.
 
 * * *
 
-*Bu-NP.2.3.19* There is no offence if before sunrise[^40] it is taken away, bestowed, lost, destroyed, burnt; if they tear it from him; if they take it on trust[^41]; if there is the agreement of the monks,[^42] if he is mad, if he is the first wrong-doer.[^43]
+*Bu-NP.2.3.19* There is no offence if before sunrise[^40] it is taken away, bestowed, lost, destroyed, burnt; if they tear it from him; if they take it on trust[^41]; if there is the agreement of the bhikkhus,[^42] if he is mad, if he is the first wrong-doer.[^43]
 
  
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

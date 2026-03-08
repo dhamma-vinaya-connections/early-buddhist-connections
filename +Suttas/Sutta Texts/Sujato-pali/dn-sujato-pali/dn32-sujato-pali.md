@@ -29,7 +29,7 @@ language: "English - Pali"
 Why is that? Because the Buddha teaches them to refrain from killing living creatures, stealing, lying, sexual misconduct, and drinking alcohol. But mostly they don’t refrain from such things. They don’t like that or approve of it.
 
 
-Sir, there are disciples of the Buddha who frequent remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat. There dwell high spirits who have no confidence in the Buddha’s dispensation. To give them confidence, may the Buddha please learn the Āṭānāṭiya protection for the guarding, protection, safety, and comfort of the monks, nuns, laymen, and laywomen.”
+Sir, there are disciples of the Buddha who frequent remote lodgings in the wilderness and the forest that are quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat. There dwell high spirits who have no confidence in the Buddha’s dispensation. To give them confidence, may the Buddha please learn the Āṭānāṭiya protection for the guarding, protection, safety, and comfort of the bhikkhus, nuns, laymen, and laywomen.”
 
 The Buddha consented in silence.
 
@@ -309,13 +309,13 @@ accomplished in knowledge and conduct!
 We bow to Gotama the awakened!’”
 
 
-55This, dear sir, is the Āṭānāṭiya protection for the guarding, protection, safety, and comfort of the monks, nuns, laymen, and laywomen.
+55This, dear sir, is the Āṭānāṭiya protection for the guarding, protection, safety, and comfort of the bhikkhus, nuns, laymen, and laywomen.
 
-56The monks, nuns, laymen, and laywomen should learn this Āṭānāṭiya protection well and completely memorize it. If anyone who does so is approached while walking, standing, sitting, or lying down by any non-human being with malicious intent — including males, females, boys, girls, ministers, counselors, and servants among the spirits, fairies, goblins, and dragons — that non-human will receive no homage or respect in any village or town. And they will receive no ground or dwelling in my capital of Ālakamandā. Nor will they get to go to the conference of the spirits. In addition, the non-humans would not give or take them in marriage. They’d heap personal abuse on them, drop an empty bowl on their head, and even split their head into seven pieces!
+56The bhikkhus, nuns, laymen, and laywomen should learn this Āṭānāṭiya protection well and completely memorize it. If anyone who does so is approached while walking, standing, sitting, or lying down by any non-human being with malicious intent — including males, females, boys, girls, ministers, counselors, and servants among the spirits, fairies, goblins, and dragons — that non-human will receive no homage or respect in any village or town. And they will receive no ground or dwelling in my capital of Ālakamandā. Nor will they get to go to the conference of the spirits. In addition, the non-humans would not give or take them in marriage. They’d heap personal abuse on them, drop an empty bowl on their head, and even split their head into seven pieces!
 
 57For there are, dear sir, non-humans who are fierce, cruel, and violent. They don’t obey the Great Kings or their men or their men’s men. They’re said to be rebelling against the Great Kings. They’re just like the bandits in the king of Magadha’s realm who don’t obey the king, his men, or his men’s men, and are said to be rebelling against the king.
 
-If any non-human being with malicious intent — including males, females, boys, girls, ministers, counselors, and servants among the spirits, fairies, goblins, and dragons — approaches a monk, nun, layman, or laywoman while walking, standing, sitting, or lying down, one ought to yell, cry, and scream to the spirits, great spirits, generals, great generals: ‘This spirit’s got me! This spirit’s entered me! This spirit’s annoying me! This spirit’s harassing me! This spirit’s hurting me! This spirit’s harming me! This spirit won’t let me go!’
+If any non-human being with malicious intent — including males, females, boys, girls, ministers, counselors, and servants among the spirits, fairies, goblins, and dragons — approaches a bhikkhu, nun, layman, or laywoman while walking, standing, sitting, or lying down, one ought to yell, cry, and scream to the spirits, great spirits, generals, great generals: ‘This spirit’s got me! This spirit’s entered me! This spirit’s annoying me! This spirit’s harassing me! This spirit’s hurting me! This spirit’s harming me! This spirit won’t let me go!’
 
 58To what spirits, great spirits, generals, great generals?
 
@@ -343,7 +343,7 @@ Dadhimukha, Maṇi, Māṇivara, Dīgha,
 together with Serīsaka.’
 
 
-63-64This, dear sir, is the Āṭānāṭiya protection for the guarding, protection, safety, and comfort of the monks, nuns, laymen, and laywomen. Well, now, dear sir, I must go. I have many duties, and much to do.”  
+63-64This, dear sir, is the Āṭānāṭiya protection for the guarding, protection, safety, and comfort of the bhikkhus, nuns, laymen, and laywomen. Well, now, dear sir, I must go. I have many duties, and much to do.”  
   
 “Please, Great Kings, go at your convenience.”
 
@@ -354,12 +354,12 @@ The first recitation section is finished.
 
 #### 2. The Second Recitation Section
 
-66-129Then, when the night had passed, the Buddha told the mendicants all that had happened, repeating all the verses spoken. Then he added:  
+66-129Then, when the night had passed, the Buddha told the bhikkhus all that had happened, repeating all the verses spoken. Then he added:  
   
-“Mendicants, learn the Āṭānāṭiya protection! Memorize the Āṭānāṭiya protection! Remember the Āṭānāṭiya protection! The Āṭānāṭiya protection is beneficial, and is for the guarding, protection, safety, and comfort of the monks, nuns, laymen, and laywomen.”
+“bhikkhus, learn the Āṭānāṭiya protection! Memorize the Āṭānāṭiya protection! Remember the Āṭānāṭiya protection! The Āṭānāṭiya protection is beneficial, and is for the guarding, protection, safety, and comfort of the bhikkhus, nuns, laymen, and laywomen.”
 
 
-130That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+130That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### 1. Paṭhamabhāṇavāra
 

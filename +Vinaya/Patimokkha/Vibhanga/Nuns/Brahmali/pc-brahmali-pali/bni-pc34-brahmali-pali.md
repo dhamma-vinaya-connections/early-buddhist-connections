@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized her, “How could Venerable Thullanandā not nurse a suffering disciple, nor make any effort to have someone else nurse her?” …
 
-“Is it true, monks, that the nun Thullanandā didn’t do this?”
+“Is it true, bhikkhus, that the nun Thullanandā didn’t do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā not do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā not do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

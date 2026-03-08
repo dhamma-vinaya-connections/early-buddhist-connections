@@ -44,7 +44,7 @@ parallels_partilal: "[[EA37.5]], [[DN34]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant is worthy of gifts because of the six higher knowledges
+> A bhikkhu is worthy of gifts because of the six higher knowledges
 
 > [!info] Key Excerpts 
 > kinds of psychic power, clairaudience, understand the minds of other beings, recollect many kinds of past lives, see sentient beings passing away and being reborn, realize the undefiled freedom of heart and freedom by wisdom

@@ -27,11 +27,11 @@ _He put all these questions aside because they interfered with the path of pract
 
 _One of the salient features of dependent co-arising is its lack of outside context. In other words, it avoids any reference to the presence or absence of a self around or a world behind the processes it describes. This allows one to focus directly on the factors of the process as factors, parts of a causal chain. And this, in turn, makes it easier to notice which factors—such as ignorance—cause suffering and should thus be abandoned; which ones—such as attention and intention—can be converted to the path to the end of suffering, and so should be developed before they, too, are abandoned; and which ones—such as clinging and becoming—constitute suffering, and so should be comprehended to the point of disenchantment and dispassion, leading to release._
 
-_This sutta concerns a monk—Sāti, the Fisherman’s Son—who refuses to heed the Buddha’s care in treating all the elements of the process of wandering on from birth to birth as processes. Sāti states that, in his understanding of the Buddha’s teachings, consciousness is the “what” that does the wandering on. His fellow monks and then the Buddha treat him and his erroneous view in a way that parallels the way they treat Ariṭṭha Formerly-of-the-Vulture-Killers in [[mn22-thanissaro]]. First the narrator notes that the view is not merely wrong, but actually evil and pernicious: To adopt it would be to place an obstacle in one’s path. The monks try, unsuccessfully, to dissuade Sāti from his view, after which they report the case to the Buddha. The Buddha calls Sāti into his presence, and after ascertaining that Sāti will not abandon his view even when reprimanded by the Buddha himself, he abandons Sāti as too recalcitrant to teach, and turns to cross-question the monks as to the relevant right view of how consciousness functions in the process leading to repeated birth._
+_This sutta concerns a bhikkhu—Sāti, the Fisherman’s Son—who refuses to heed the Buddha’s care in treating all the elements of the process of wandering on from birth to birth as processes. Sāti states that, in his understanding of the Buddha’s teachings, consciousness is the “what” that does the wandering on. His fellow bhikkhus and then the Buddha treat him and his erroneous view in a way that parallels the way they treat Ariṭṭha Formerly-of-the-Vulture-Killers in [[mn22-thanissaro]]. First the narrator notes that the view is not merely wrong, but actually evil and pernicious: To adopt it would be to place an obstacle in one’s path. The bhikkhus try, unsuccessfully, to dissuade Sāti from his view, after which they report the case to the Buddha. The Buddha calls Sāti into his presence, and after ascertaining that Sāti will not abandon his view even when reprimanded by the Buddha himself, he abandons Sāti as too recalcitrant to teach, and turns to cross-question the bhikkhus as to the relevant right view of how consciousness functions in the process leading to repeated birth._
 
-_The Buddha’s treatment of Sāti might seem harsh, but he is actually acting out of compassion for the monks in the assembly, in case any of them might be swayed by Sāti’s position. Seeing Sāti as a lost cause, the Buddha doesn’t want this lost cause to cause further losses among the other monks. We have to remember that during the Buddha’s lifetime there were no written accounts of his teachings; the monks and nuns all had to rely on their memory of what they had heard directly from him or through word-of-mouth from fellow members of the Saṅgha. Thus the Buddha saw the need to establish orthodoxy whenever a member of the Saṅgha was espousing false interpretations of his teaching._
+_The Buddha’s treatment of Sāti might seem harsh, but he is actually acting out of compassion for the bhikkhus in the assembly, in case any of them might be swayed by Sāti’s position. Seeing Sāti as a lost cause, the Buddha doesn’t want this lost cause to cause further losses among the other bhikkhus. We have to remember that during the Buddha’s lifetime there were no written accounts of his teachings; the bhikkhus and nuns all had to rely on their memory of what they had heard directly from him or through word-of-mouth from fellow members of the Saṅgha. Thus the Buddha saw the need to establish orthodoxy whenever a member of the Saṅgha was espousing false interpretations of his teaching._
 
-_Because Sāti’s evil view deals with issues that are much more complex than those touched on in Ariṭṭha’s, the Buddha’s cross-questioning of the monks here is correspondingly longer and more complex than in [[mn22-thanissaro]]. However, the complexity can be comprehended by keeping in mind that, essentially, the cross-questioning aims at accomplishing two things at once: In providing a correct understanding of consciousness as a conditioned phenomenon, it also shows why the sort of question Sāti was trying to answer is ill-conceived._
+_Because Sāti’s evil view deals with issues that are much more complex than those touched on in Ariṭṭha’s, the Buddha’s cross-questioning of the bhikkhus here is correspondingly longer and more complex than in [[mn22-thanissaro]]. However, the complexity can be comprehended by keeping in mind that, essentially, the cross-questioning aims at accomplishing two things at once: In providing a correct understanding of consciousness as a conditioned phenomenon, it also shows why the sort of question Sāti was trying to answer is ill-conceived._
 
 _The first part of the cross-questioning treats the conditioned nature of consciousness as a process in the context of two frameworks: (1) the standard description of the factors of dependent co-arising, and (2) the four nutriments of consciousness._
 
@@ -45,23 +45,23 @@ _“The coming together, the meeting, the convergence of these three phenomena i
 
 _The discussion then switches to consciousness as dependent on four types of nutriment: physical food, contact, intellectual intention, and consciousness itself. Here the sutta focuses on the need—in practice—to see this dependence as it actually occurs, and on the need to use this view for the proper purpose. As other passages in the Canon point out, the purpose of all Dhamma teachings is to induce the disenchantment/distaste for the nutriment that will allow for release._
 
-_“For a monk practicing the Dhamma in accordance with the Dhamma, this is what accords with the Dhamma: that he keep cultivating disenchantment/distaste with regard to form... feeling... perception... fabrications... consciousness. As he keeps cultivating disenchantment/distaste with regard to form... feeling... perception... fabrications... consciousness, he comprehends form... feeling... perception... fabrications... consciousness. As he comprehends form... feeling... perception... fabrications... consciousness, he is totally released from form... feeling... perception... fabrications... consciousness. He is totally released from sorrows, lamentations, pains, distresses, & despairs. He is totally released, I tell you, from suffering & stress.” —[[sn22-34-thanissaro/sn22-thanissaro/sn22.39-thanissaro]]_
+_“For a bhikkhu practicing the Dhamma in accordance with the Dhamma, this is what accords with the Dhamma: that he keep cultivating disenchantment/distaste with regard to form... feeling... perception... fabrications... consciousness. As he keeps cultivating disenchantment/distaste with regard to form... feeling... perception... fabrications... consciousness, he comprehends form... feeling... perception... fabrications... consciousness. As he comprehends form... feeling... perception... fabrications... consciousness, he is totally released from form... feeling... perception... fabrications... consciousness. He is totally released from sorrows, lamentations, pains, distresses, & despairs. He is totally released, I tell you, from suffering & stress.” —[[sn22-34-thanissaro/sn22-thanissaro/sn22.39-thanissaro]]_
 
 _“Just as the ocean has a single taste—that of salt—in the same way, this Dhamma-Vinaya has a single taste: that of release.” —[[ud5.5-thanissaro]]_
 
-_In other words, the ability of the monks to give, in unison, the right answers to the Buddha’s questions does not fulfill the teaching’s purpose. The right answers are meant to be used as tools to induce a sense of disenchantment/distaste for continued feeding on the processes leading to suffering. This sense of disenchantment/distaste is what leads to release._
+_In other words, the ability of the bhikkhus to give, in unison, the right answers to the Buddha’s questions does not fulfill the teaching’s purpose. The right answers are meant to be used as tools to induce a sense of disenchantment/distaste for continued feeding on the processes leading to suffering. This sense of disenchantment/distaste is what leads to release._
 
-_The reference to the raft analogy here is another point on which this sutta parallels [[mn22-thanissaro]], in which the monks also give correct answers in unison to the Buddha’s questions. Perhaps the reason for why the raft analogy is cited in both suttas is that it was seen as a corrective for the sort of complacency that can come when one can recite with others an orthodox view._
+_The reference to the raft analogy here is another point on which this sutta parallels [[mn22-thanissaro]], in which the bhikkhus also give correct answers in unison to the Buddha’s questions. Perhaps the reason for why the raft analogy is cited in both suttas is that it was seen as a corrective for the sort of complacency that can come when one can recite with others an orthodox view._
 
 _At any rate, the discussion of consciousness in the framework of nutriment is then tied into the discussion of dependent co-arising through the fact that nutriment is dependent on craving. This places nutriment in the position of clinging/sustenance in dependent co-arising—as dependent on craving, and acting as a condition for becoming. This placement is affirmed by passages elsewhere in the Canon that speak of consciousness plus its nutriment as among the sub-factors providing the conditions for further becoming:_
 
 _“Kamma is the field, consciousness the seed, and craving the moisture. The consciousness of living beings hindered by ignorance & fettered by craving is established in/tuned to a lower property... a middling property... a refined property. Thus there is the production of renewed becoming in the future. This is how there is becoming.” —[[an3-thanissaro]]:76_
 
-_“Like the earth property, monks, is how the four standing-spots for consciousness [the properties of form, feeling, perception, and fabrications] should be seen. Like the liquid property is how delight & passion should be seen. Like the five types of propagation [through roots, stems, joints, cuttings, & seeds] is how consciousness together with its nutriment should be seen.” —[[sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]_
+_“Like the earth property, bhikkhus, is how the four standing-spots for consciousness [the properties of form, feeling, perception, and fabrications] should be seen. Like the liquid property is how delight & passion should be seen. Like the five types of propagation [through roots, stems, joints, cuttings, & seeds] is how consciousness together with its nutriment should be seen.” —[[sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]_
 
 _Given that consciousness also functions at a point in dependent co-arising prior to sensory contact—as following on fabrication and preceding name-and-form—it thus plays a role at three stages in the process: as a factor following on fabrication, as a sub-factor of contact, and as a sub-factor of clinging._
 
-_The remainder of the Buddha’s cross-questioning of the monks further explores the framework of dependent co-arising, arriving at the conclusion that a person thus trained in understanding dependent co-arising would no longer be interested in pursuing questions of identity and existence—such as, “Am I?” “Am I not?” “What am I?” “What was I?” “What will I be?” This is because, as [[mn2-thanissaro]] points out, such questions are instances of inappropriate attention; and as [[sn12-21-thanissaro/sn12-thanissaro/sn12.2-thanissaro]] points out, the framework of dependent co-arising classes inappropriate attention under the factor of “name” as a cause of suffering. Thus the discussion arrives at the reasons why the Buddha was so careful to put the sort of question asked and answered by Sāti aside._
+_The remainder of the Buddha’s cross-questioning of the bhikkhus further explores the framework of dependent co-arising, arriving at the conclusion that a person thus trained in understanding dependent co-arising would no longer be interested in pursuing questions of identity and existence—such as, “Am I?” “Am I not?” “What am I?” “What was I?” “What will I be?” This is because, as [[mn2-thanissaro]] points out, such questions are instances of inappropriate attention; and as [[sn12-21-thanissaro/sn12-thanissaro/sn12.2-thanissaro]] points out, the framework of dependent co-arising classes inappropriate attention under the factor of “name” as a cause of suffering. Thus the discussion arrives at the reasons why the Buddha was so careful to put the sort of question asked and answered by Sāti aside._
 
 _The sutta then turns to the path of practice by which an understanding of dependent co-arising can gain the power and focus needed to put an end to suffering. It begins with an account of birth, noting that the birth of a human being requires not only that the parents have intercourse when the mother is in her season, but also that a “gandhabba” is present. Usually in the Canon, the term gandhabba means a being on the lowest level of the celestial devas—devas who are often represented as obsessed with lust. However, the Commentary notes that gandhabba in this context means a being whose kamma enables it to take birth on that occasion, an interpretation supported by a discussion in [[mn93-thanissaro]]._
 
@@ -89,27 +89,27 @@ _“Vaccha, when a being sets this body aside and is not yet reborn in another b
 
 _However, a being—in the Buddha’s sense of the term—not only takes birth after the death of the body, it can also take birth, die, and be reborn many times in the course of a day—as attachment develops for one desire, ends, and then develops for another desire. This is why the processes leading to rebirth after death can be observed and redirected in the present moment during life. This is why the ability to understand and observe the processes of dependent co-arising is so important in putting an end to rebirth on all its many levels._
 
-_To emphasize the desirability of putting an end to rebirth, the sutta moves from the topic of conception to note the pains and anxieties suffered by the mother in carrying the fetus and giving birth. But then what does her child do? He spends his time in trivial pursuits, childish games and then, as he grows older, the quest for sensual pleasures. If the child—now an adult—realizes the limited nature of such an existence, he gains conviction in the need to practice the Dhamma. He becomes a monk, develops virtue and samādhi, and then on the basis of his attainment in samādhi he approaches the senses in a way that overcomes the limitations experienced by one who approaches them simply for the pursuit of sensual pleasure. This, the Buddha says, is a short description of the destruction of craving—and, by implication, of the ending of the consciousness and the birth that depend on craving as a condition._
+_To emphasize the desirability of putting an end to rebirth, the sutta moves from the topic of conception to note the pains and anxieties suffered by the mother in carrying the fetus and giving birth. But then what does her child do? He spends his time in trivial pursuits, childish games and then, as he grows older, the quest for sensual pleasures. If the child—now an adult—realizes the limited nature of such an existence, he gains conviction in the need to practice the Dhamma. He becomes a bhikkhu, develops virtue and samādhi, and then on the basis of his attainment in samādhi he approaches the senses in a way that overcomes the limitations experienced by one who approaches them simply for the pursuit of sensual pleasure. This, the Buddha says, is a short description of the destruction of craving—and, by implication, of the ending of the consciousness and the birth that depend on craving as a condition._
 
-_One of the ironies in the organization of the sutta is that, after a long detailed discussion of discernment, virtue, and samādhi, the description of how these factors actually are brought together to arrive at the end of craving and birth leaves out many important details. For instance, there is no discussion of how, once the monk has attained samādhi, he uses it wisely in such a way that actually puts an end to craving. As the Buddha states in other suttas—such as [[mn29-thanissaro]], [[mn113-thanissaro]], and [[an4.178-thanissaro]]—it is possible to attain strong states of samādhi and use them, not as a basis of release, but as a basis for increased defilement and attachment._
+_One of the ironies in the organization of the sutta is that, after a long detailed discussion of discernment, virtue, and samādhi, the description of how these factors actually are brought together to arrive at the end of craving and birth leaves out many important details. For instance, there is no discussion of how, once the bhikkhu has attained samādhi, he uses it wisely in such a way that actually puts an end to craving. As the Buddha states in other suttas—such as [[mn29-thanissaro]], [[mn113-thanissaro]], and [[an4.178-thanissaro]]—it is possible to attain strong states of samādhi and use them, not as a basis of release, but as a basis for increased defilement and attachment._
 
 _This means that the Buddha is not being coy when he states at the end of this long sutta that his discussion of the destruction of craving is brief. It’s up to the reader to put the elements of triple training together in practice to see how they lead from a limited awareness through a limitless awareness to total release._
 
 * * *
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Now on that occasion this evil viewpoint _[diṭṭhigata]_ had arisen in the monk Sāti the Fisherman’s Son: “As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on (from birth to birth), not another.” A large number of monks heard, “They say that this evil viewpoint has arisen in the monk Sāti the Fisherman’s Son: ‘As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on (from birth to birth), not another.’” So they went to the monk Sāti the Fisherman’s Son and on arrival said to him, “Is it true, friend Sāti, that this evil viewpoint has arisen in you—‘As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on, not another’?”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Now on that occasion this evil viewpoint _[diṭṭhigata]_ had arisen in the bhikkhu Sāti the Fisherman’s Son: “As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on (from birth to birth), not another.” A large number of bhikkhus heard, “They say that this evil viewpoint has arisen in the bhikkhu Sāti the Fisherman’s Son: ‘As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on (from birth to birth), not another.’” So they went to the bhikkhu Sāti the Fisherman’s Son and on arrival said to him, “Is it true, friend Sāti, that this evil viewpoint has arisen in you—‘As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on, not another’?”
 
 “Exactly so, friends. I understand the Dhamma taught by the Blessed One such that it is just this consciousness that runs and wanders on, not another.”
 
-Then those monks, desiring to pry the monk Sāti the Fisherman’s Son away from that evil viewpoint, quizzed him back & forth and rebuked him, saying, “Don’t say that, friend Sāti. Don’t slander the Blessed One, for it is not good to slander the Blessed One. The Blessed One would not say anything like that. In many ways, friend, the Blessed One has said of dependently co-arisen consciousness, ‘Apart from a requisite condition, there is no coming-into-play of consciousness.’” And yet even though he was quizzed back & forth and rebuked by those monks, the monk Sāti the Fisherman’s Son, through stubbornness and attachment to that very same evil viewpoint, continued to insist, “Exactly so, friends. I understand the Dhamma taught by the Blessed One such that it is just this consciousness that runs and wanders on, not another.”
+Then those bhikkhus, desiring to pry the bhikkhu Sāti the Fisherman’s Son away from that evil viewpoint, quizzed him back & forth and rebuked him, saying, “Don’t say that, friend Sāti. Don’t slander the Blessed One, for it is not good to slander the Blessed One. The Blessed One would not say anything like that. In many ways, friend, the Blessed One has said of dependently co-arisen consciousness, ‘Apart from a requisite condition, there is no coming-into-play of consciousness.’” And yet even though he was quizzed back & forth and rebuked by those bhikkhus, the bhikkhu Sāti the Fisherman’s Son, through stubbornness and attachment to that very same evil viewpoint, continued to insist, “Exactly so, friends. I understand the Dhamma taught by the Blessed One such that it is just this consciousness that runs and wanders on, not another.”
 
-So when the monks were unable to pry the monk Sāti the Fisherman’s Son away from that evil viewpoint, they went to the Blessed One and on arrival, having bowed down to him, sat to one side. As they were sitting there, they (told him what had happened).
+So when the bhikkhus were unable to pry the bhikkhu Sāti the Fisherman’s Son away from that evil viewpoint, they went to the Blessed One and on arrival, having bowed down to him, sat to one side. As they were sitting there, they (told him what had happened).
 
-So the Blessed One told a certain monk, “Come, monk. In my name, call the monk Sāti the Fisherman’s Son, saying, ‘The Teacher calls you, friend Sāti.’”
+So the Blessed One told a certain bhikkhu, “Come, bhikkhu. In my name, call the bhikkhu Sāti the Fisherman’s Son, saying, ‘The Teacher calls you, friend Sāti.’”
 
-“As you say, lord,” the monk answered and, having gone to the monk Sāti the Fisherman’s Son, on arrival he said, “The Teacher calls you, friend Sāti.”
+“As you say, lord,” the bhikkhu answered and, having gone to the bhikkhu Sāti the Fisherman’s Son, on arrival he said, “The Teacher calls you, friend Sāti.”
 
-“As you say, friend,” the monk Sāti the Fisherman’s Son replied. Then he went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, the Blessed One said to him, “Is it true, Sāti, that this evil viewpoint has arisen in you—‘As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on, not another’?”
+“As you say, friend,” the bhikkhu Sāti the Fisherman’s Son replied. Then he went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, the Blessed One said to him, “Is it true, Sāti, that this evil viewpoint has arisen in you—‘As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on, not another’?”
 
 “Exactly so, lord. As I understand the Dhamma taught by the Blessed One, it is just this consciousness that runs and wanders on, not another.”
 
@@ -119,37 +119,37 @@ So the Blessed One told a certain monk, “Come, monk. In my name, call the monk
 
 “And to whom, worthless man, do you understand me to have taught the Dhamma like that? Haven’t I, in many ways, said of dependently co-arisen consciousness, ‘Apart from a requisite condition, there is no coming-into-play of consciousness’?[2](#^mn38note02) But you, through your own poor grasp, not only slander us but also dig yourself up (by the root) and produce much demerit for yourself. That will lead to your long-term harm & suffering.” ^mn38note02-ref
 
-Then the Blessed One said to the monks, “What do you think, monks? Is this monk Sāti, the Fisherman’s Son, even warm in this Dhamma & Vinaya?”
+Then the Blessed One said to the bhikkhus, “What do you think, bhikkhus? Is this bhikkhu Sāti, the Fisherman’s Son, even warm in this Dhamma & Vinaya?”
 
 “How could he be, lord? No, lord.”
 
-When this was said, the monk Sāti, the Fisherman’s Son, sat silent, abashed, his shoulders drooping, his head down, brooding, at a loss for words.
+When this was said, the bhikkhu Sāti, the Fisherman’s Son, sat silent, abashed, his shoulders drooping, his head down, brooding, at a loss for words.
 
-Then the Blessed One, seeing that the monk Sāti, the Fisherman’s Son, was sitting silent, abashed, his shoulders drooping, his head down, brooding, at a loss for words, said to him, “Worthless man, you will be recognized for your own evil viewpoint. I will cross-question the monks on this matter.”
+Then the Blessed One, seeing that the bhikkhu Sāti, the Fisherman’s Son, was sitting silent, abashed, his shoulders drooping, his head down, brooding, at a loss for words, said to him, “Worthless man, you will be recognized for your own evil viewpoint. I will cross-question the bhikkhus on this matter.”
 
-Then the Blessed One addressed the monks, “Monks, do you too understand the Dhamma as taught by me in the same way that the monk Sāti, the Fisherman’s Son, does when, through his own poor grasp (of the Dhamma), he not only slanders us but also digs himself up (by the root) and produces much demerit for himself?”
+Then the Blessed One addressed the bhikkhus, “bhikkhus, do you too understand the Dhamma as taught by me in the same way that the bhikkhu Sāti, the Fisherman’s Son, does when, through his own poor grasp (of the Dhamma), he not only slanders us but also digs himself up (by the root) and produces much demerit for himself?”
 
 “No, lord, for in many ways the Blessed One has said of dependently co-arisen consciousness, ‘Apart from a requisite condition, there is no coming-into-play of consciousness.’”
 
-“It’s good, monks, that you understand the Dhamma taught by me in this way, for in many ways I have said of dependently co-arisen consciousness, ‘Apart from a requisite condition, there is no coming-into-play of consciousness.’ But this monk Sāti, the Fisherman’s Son, through his own poor grasp (of the Dhamma), has not only slandered us but has also dug himself up (by the root), producing much demerit for himself. That will lead to this worthless man’s long-term harm & suffering.
+“It’s good, bhikkhus, that you understand the Dhamma taught by me in this way, for in many ways I have said of dependently co-arisen consciousness, ‘Apart from a requisite condition, there is no coming-into-play of consciousness.’ But this bhikkhu Sāti, the Fisherman’s Son, through his own poor grasp (of the Dhamma), has not only slandered us but has also dug himself up (by the root), producing much demerit for himself. That will lead to this worthless man’s long-term harm & suffering.
 
 ## Consciousness Classified by Requisite Condition
 
-“Consciousness, monks, is classified simply by the requisite condition in dependence on which it arises. Consciousness that arises in dependence on the eye & forms is classified simply as eye-consciousness. Consciousness that arises in dependence on the ear & sounds is classified simply as ear-consciousness. Consciousness that arises in dependence on the nose & aromas is classified simply as nose-consciousness. Consciousness that arises in dependence on the tongue & flavors is classified simply as tongue-consciousness. Consciousness that arises in dependence on the body & tactile sensations is classified simply as body-consciousness. Consciousness that arises in dependence on the intellect & ideas is classified simply as intellect-consciousness.
+“Consciousness, bhikkhus, is classified simply by the requisite condition in dependence on which it arises. Consciousness that arises in dependence on the eye & forms is classified simply as eye-consciousness. Consciousness that arises in dependence on the ear & sounds is classified simply as ear-consciousness. Consciousness that arises in dependence on the nose & aromas is classified simply as nose-consciousness. Consciousness that arises in dependence on the tongue & flavors is classified simply as tongue-consciousness. Consciousness that arises in dependence on the body & tactile sensations is classified simply as body-consciousness. Consciousness that arises in dependence on the intellect & ideas is classified simply as intellect-consciousness.
 
 “Just as fire is classified simply by whatever requisite condition in dependence on which it burns—a fire that burns in dependence on wood is classified simply as a wood-fire, a fire that burns in dependence on wood-chips is classified simply as a wood-chip-fire; a fire that burns in dependence on grass is classified simply as a grass-fire; a fire that burns in dependence on cow-dung is classified simply as a cow-dung-fire; a fire that burns in dependence on chaff is classified simply as a chaff-fire; a fire that burns in dependence on rubbish is classified simply as a rubbish-fire—in the same way, consciousness is classified simply by the requisite condition in dependence on which it arises. Consciousness that arises in dependence on the eye & forms is classified simply as eye-consciousness. Consciousness that arises in dependence on the ear & sounds is classified simply as ear-consciousness. Consciousness that arises in dependence on the nose & aromas is classified simply as nose-consciousness. Consciousness that arises in dependence on the tongue & flavors is classified simply as tongue-consciousness. Consciousness that arises in dependence on the body & tactile sensations is classified simply as body-consciousness. Consciousness that arises in dependence on the intellect & ideas is classified simply as intellect-consciousness.
 
 ## On Becoming
 
-“Monks, do you see, ‘This has come to be’?”[3](#^mn38note03) ^mn38note03-ref
+“bhikkhus, do you see, ‘This has come to be’?”[3](#^mn38note03) ^mn38note03-ref
 
 “Yes, lord.”
 
-“Monks, do you see, ‘It comes into play from that nutriment’?”
+“bhikkhus, do you see, ‘It comes into play from that nutriment’?”
 
 “Yes, lord.”
 
-“Monks, do you see, ‘From the cessation of that nutriment, what has come to be is subject to cessation’?”
+“bhikkhus, do you see, ‘From the cessation of that nutriment, what has come to be is subject to cessation’?”
 
 “Yes, lord.”
 
@@ -165,7 +165,7 @@ Then the Blessed One addressed the monks, “Monks, do you too understand the Dh
 
 “Yes, lord.”
 
-“Monks, for one who sees with right discernment, as it has come to be, that ‘This has come to be,’ is that uncertainty abandoned?”
+“bhikkhus, for one who sees with right discernment, as it has come to be, that ‘This has come to be,’ is that uncertainty abandoned?”
 
 “Yes, lord.”
 
@@ -177,7 +177,7 @@ Then the Blessed One addressed the monks, “Monks, do you too understand the Dh
 
 “Yes, lord.”
 
-“Monks, are you thus free from uncertainty here that ‘This has come to be’?”
+“bhikkhus, are you thus free from uncertainty here that ‘This has come to be’?”
 
 “Yes, lord.”
 
@@ -189,7 +189,7 @@ Then the Blessed One addressed the monks, “Monks, do you too understand the Dh
 
 “Yes, lord.”
 
-“Monks, is it well seen (by you) that ‘This has come to be’?”
+“bhikkhus, is it well seen (by you) that ‘This has come to be’?”
 
 “Yes, lord.”
 
@@ -201,7 +201,7 @@ Then the Blessed One addressed the monks, “Monks, do you too understand the Dh
 
 “Yes, lord.”
 
-“Monks, if you were to adhere to this view—so pure, so bright—if you were to cherish it, treasure it, regard it as ‘mine,’ would you understand the Dhamma taught as analogous to a raft,[4](#^mn38note04) for crossing over, not for holding on to?” ^mn38note04-ref
+“bhikkhus, if you were to adhere to this view—so pure, so bright—if you were to cherish it, treasure it, regard it as ‘mine,’ would you understand the Dhamma taught as analogous to a raft,[4](#^mn38note04) for crossing over, not for holding on to?” ^mn38note04-ref
 
 “No, lord.”
 
@@ -211,7 +211,7 @@ Then the Blessed One addressed the monks, “Monks, do you too understand the Dh
 
 ## Nutriment _&_ Dependent Co-arising
 
-“Monks, there are these four nutriments for the maintenance of beings who have come into being or for the support of those in search of a place to be born. Which four? Physical food, gross or refined; contact as the second, intellectual intention the third, and consciousness the fourth.
+“bhikkhus, there are these four nutriments for the maintenance of beings who have come into being or for the support of those in search of a place to be born. Which four? Physical food, gross or refined; contact as the second, intellectual intention the third, and consciousness the fourth.
 
 “Now, these four nutriments have what as their cause, what as their origination, through what are they born, through what are they brought into being? These four nutriments have craving as their cause, craving as their origination, are born from craving, are brought into being from craving.
 
@@ -269,17 +269,17 @@ From becoming as a requisite condition comes birth.
 
 From birth as a requisite condition, then aging-&-death, sorrow, lamentation, pain, distress, & despair come into play. Such is the origination of this entire mass of stress & suffering.
 
-“‘From birth as a requisite condition comes aging-&-death’: Thus was it said. Now, monks, is it the case that from birth as a requisite condition comes aging-&-death, or not, or how is it here?”
+“‘From birth as a requisite condition comes aging-&-death’: Thus was it said. Now, bhikkhus, is it the case that from birth as a requisite condition comes aging-&-death, or not, or how is it here?”
 
 “Lord, from birth as a requisite condition comes aging-&-death. That’s how it is for us here: From birth as a requisite condition comes aging-&-death.”
 
 [Similarly with the remaining requisite conditions down to:]
 
-“‘From ignorance as a requisite condition come fabrications’: Thus was it said. Now, monks, is it the case that from ignorance as a requisite condition come fabrications, or not, or how is it here?”
+“‘From ignorance as a requisite condition come fabrications’: Thus was it said. Now, bhikkhus, is it the case that from ignorance as a requisite condition come fabrications, or not, or how is it here?”
 
 “Lord, from ignorance as a requisite condition come fabrications. That’s how it is for us here: From ignorance as a requisite condition come fabrications.”
 
-“It’s good, monks, that you say that, and I say that,[5](#^mn38note05) too. ^mn38note05-ref
+“It’s good, bhikkhus, that you say that, and I say that,[5](#^mn38note05) too. ^mn38note05-ref
 
 When this is, that is.
 
@@ -333,17 +333,17 @@ From the cessation of becoming comes the cessation of birth.
 
 From the cessation of birth, then aging-&-death, sorrow, lamentation, pain, distress, and despair all cease. Such is the cessation of this entire mass of stress & suffering.
 
-“‘From the cessation of birth comes the cessation of aging-&-death’: Thus was it said. Now, monks, is it the case that from the cessation of birth comes the cessation of aging-&-death, or not, or how is it here?”
+“‘From the cessation of birth comes the cessation of aging-&-death’: Thus was it said. Now, bhikkhus, is it the case that from the cessation of birth comes the cessation of aging-&-death, or not, or how is it here?”
 
 “Lord, from the cessation of birth comes the cessation of aging-&-death. That’s how it is for us here: From the cessation of birth comes the cessation of aging-&-death.”
 
 [Similarly with the remaining requisite conditions down to:]
 
-“‘From the cessation of ignorance comes the cessation of fabrications’: Thus was it said. Now, monks, is it the case that from cessation of ignorance comes the cessation of fabrications, or not, or how is it here?”
+“‘From the cessation of ignorance comes the cessation of fabrications’: Thus was it said. Now, bhikkhus, is it the case that from cessation of ignorance comes the cessation of fabrications, or not, or how is it here?”
 
 “Lord, from the cessation of ignorance comes the cessation of fabrications. That’s how it is for us here: From the cessation of ignorance comes the cessation of fabrications.”
 
-“It’s good, monks, that you say that, and I say that, too.
+“It’s good, bhikkhus, that you say that, and I say that, too.
 
 When this isn’t, that isn’t.
 
@@ -375,7 +375,7 @@ From the cessation of birth, then aging-&-death, sorrow, lamentation, pain, dist
 
 ## Inappropriate Questions Avoided
 
-“Now, monks, knowing thus and seeing thus, would you run after the past, thinking, _‘Were we in the past? Were we not in the past? What were we in the past? How were we in the past? Having been what, what were we in the past’?”_
+“Now, bhikkhus, knowing thus and seeing thus, would you run after the past, thinking, _‘Were we in the past? Were we not in the past? What were we in the past? How were we in the past? Having been what, what were we in the past’?”_
 
 “No, lord.”
 
@@ -407,11 +407,11 @@ From the cessation of birth, then aging-&-death, sorrow, lamentation, pain, dist
 
 “Yes, lord.”
 
-“Good, monks. You have been guided by me in this Dhamma which is to be seen here & now, timeless, inviting verification, pertinent, to be realized by the observant for themselves. For it has been said, ‘This Dhamma is to be seen here & now, timeless, inviting verification, pertinent, to be realized by the observant for themselves,’ and it was in reference to this that it was said.
+“Good, bhikkhus. You have been guided by me in this Dhamma which is to be seen here & now, timeless, inviting verification, pertinent, to be realized by the observant for themselves. For it has been said, ‘This Dhamma is to be seen here & now, timeless, inviting verification, pertinent, to be realized by the observant for themselves,’ and it was in reference to this that it was said.
 
 ## The Birth _&_ Growth of a Being
 
-“Monks, the descent of the embryo occurs with the union of three things. There is the case where there is no union of the mother & father, the mother is not in her season, and a gandhabba[7](#^mn38note07) is not present, nor is there a descent of an embryo. There is the case where there is a union of the mother & father, and the mother is in her season, but a gandhabba is not present, nor is there a descent of an embryo. But when there is a union of the mother & father, the mother is in her season, and a gandhabba is present, then with this union of three things the descent of the embryo occurs. ^mn38note07-ref
+“bhikkhus, the descent of the embryo occurs with the union of three things. There is the case where there is no union of the mother & father, the mother is not in her season, and a gandhabba[7](#^mn38note07) is not present, nor is there a descent of an embryo. There is the case where there is a union of the mother & father, and the mother is in her season, but a gandhabba is not present, nor is there a descent of an embryo. But when there is a union of the mother & father, the mother is in her season, and a gandhabba is present, then with this union of three things the descent of the embryo occurs. ^mn38note07-ref
 
 “Then for nine or ten months the mother shelters the embryo in her womb with great anxiety, as a heavy burden. Then, at the end of nine or ten months, she gives birth with great anxiety, as a heavy burden. Then, when the child is born, she feeds it with her own blood—for mother’s milk is called blood in the discipline of the noble ones.
 
@@ -443,7 +443,7 @@ From the cessation of birth, then aging-&-death, sorrow, lamentation, pain, dist
 
 ## Virtue
 
-“When he has thus gone forth, endowed with the monks’ training & livelihood, then—abandoning the taking of life—he abstains from the taking of life. He dwells with his rod laid down, his knife laid down, scrupulous, merciful, compassionate for the welfare of all living beings.
+“When he has thus gone forth, endowed with the bhikkhus’ training & livelihood, then—abandoning the taking of life—he abstains from the taking of life. He dwells with his rod laid down, his knife laid down, scrupulous, merciful, compassionate for the welfare of all living beings.
 
 “Abandoning the taking of what is not given, he abstains from taking what is not given. He takes only what is given, accepts only what is given, lives not by stealth but by means of a self that has become pure. This, too, is part of his virtue.
 
@@ -517,9 +517,9 @@ From the cessation of birth, then aging-&-death, sorrow, lamentation, pain, dist
 
 “On cognizing an idea with the intellect, he isn’t infatuated with pleasing ideas, and doesn’t get upset over unpleasing ideas. He dwells with body-mindfulness established, with unlimited awareness. He discerns, as it has come to be, the awareness-release & discernment-release where those evil, unskillful qualities cease without remainder. Having thus abandoned predilection & opposition, he doesn’t relish any feeling he feels—pleasure, pain, neither pleasure nor pain—doesn’t welcome it, doesn’t remain fastened to it. As he doesn’t relish that feeling, doesn’t welcome it, & doesn’t remain fastened to it, delight doesn’t arise. From the cessation of his delight comes the cessation of clinging/sustenance. From the cessation of clinging/sustenance comes the cessation of becoming. From the cessation of becoming comes the cessation of birth. From the cessation of birth, then aging-&-death, sorrow, lamentation, pain, distress, & despair all cease. Such is the cessation of this entire mass of stress & suffering.
 
-“Monks, remember this, my brief (account of) release through the destruction of craving; and Sāti, the Fisherman’s Son, as tied up in the great net of craving, the great tangle of craving.”
+“bhikkhus, remember this, my brief (account of) release through the destruction of craving; and Sāti, the Fisherman’s Son, as tied up in the great net of craving, the great tangle of craving.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 ### Notes
 
@@ -539,7 +539,7 @@ To make a literal translation of the passage here in line with the first pattern
 
 To make a literal translation in line with the second pattern would yield: “Worthless man, hasn’t dependently co-arisen consciousness been described by me in many ways (that), ‘Apart from a requisite condition, there is no coming-into-play of consciousness’?”
 
-The translator of MLS renders the sentence both ways. When it earlier appears in the mouths of the monks reprimanding Sāti, she renders it in line with the first pattern: “For, reverend Sāti, in many a figure is conditioned genesis spoken of in connection with consciousness by the Lord, saying: ‘Apart from condition there is no origination of consciousness.’” When the sentence appears in the Buddha’s mouth, she renders it in line with the second pattern: “Foolish man, has not consciousness generated by conditions been spoken of in many a figure by me, saying: Apart from condition there is no origination of consciousness?”
+The translator of MLS renders the sentence both ways. When it earlier appears in the mouths of the bhikkhus reprimanding Sāti, she renders it in line with the first pattern: “For, reverend Sāti, in many a figure is conditioned genesis spoken of in connection with consciousness by the Lord, saying: ‘Apart from condition there is no origination of consciousness.’” When the sentence appears in the Buddha’s mouth, she renders it in line with the second pattern: “Foolish man, has not consciousness generated by conditions been spoken of in many a figure by me, saying: Apart from condition there is no origination of consciousness?”
 
 The translators of MLDB consistently follow the first pattern in rendering this sentence: “Misguided man, have I not stated in many ways consciousness to be dependently arisen since without a condition there is no origination of consciousness?” (It might be noted that this rendering inserts a “since” where there is none in the Pali, and ignores the quotation marks _(ti)_ around the sentence beginning, “Apart from” or “without.” More on this below.)
 

@@ -15,11 +15,11 @@ language: "English"
 ## ## Gayā Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Gayā at Gayā Head. There he addressed the monks, “Monks!”
+I have heard that on one occasion the Blessed One was staying near Gayā at Gayā Head. There he addressed the bhikkhus, “bhikkhus!”
 
-“Yes, lord,” the monks responded to the Blessed One.
+“Yes, lord,” the bhikkhus responded to the Blessed One.
 
-The Blessed One said, “Monks, before my self-awakening, when I was still just an unawakened bodhisatta, I perceived light but did not see forms. The thought occurred to me, ‘If I perceived light and saw forms, then this knowledge-&-vision of mine would be purer.’
+The Blessed One said, “bhikkhus, before my self-awakening, when I was still just an unawakened bodhisatta, I perceived light but did not see forms. The thought occurred to me, ‘If I perceived light and saw forms, then this knowledge-&-vision of mine would be purer.’
 
 “So, at a later time—staying heedful, ardent, & resolute—I perceived light and saw forms, but I did not associate with those devas, didn’t converse with them, or engage them in discussion. The thought occurred to me, ‘If I perceived light and saw forms; and associated with those devas, conversed with them, and engaged them in discussion, then this knowledge-&-vision of mine would be purer.
 
@@ -35,7 +35,7 @@ The Blessed One said, “Monks, before my self-awakening, when I was still just 
 
 “So, at a later time—staying heedful, ardent, & resolute—I perceived light and saw forms; and associated with those devas, conversed with them, and engaged them in discussion; and I also knew of those devas that ‘These devas are from this or that deva host’; and I also knew of those devas that ‘As a result of this kamma, these devas fell away from here and reappeared there’; and I also knew of those devas that ‘As a result of this kamma, these devas are nourished on such food and experience such pleasure & pain’; and I also knew of those devas that ‘As a result of this kamma, these devas have such a lifespan and are of such long standing’; and I also knew of those devas whether I had previously lived together with them or not.
 
-“And, monks, as long as this—my eight-round heightened deva-knowledge-&-vision—was not pure, I did not claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its devas, Māras, & Brahmās, with its people with their contemplatives & brahmans, their royalty & commonfolk. But as soon as this—my eight-round heightened deva-knowledge-&-vision—was truly pure, then I did claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its devas, Māras, & Brahmās, with its people with their contemplatives & brahmans, their royalty & commonfolk. Knowledge & vision arose in me: ‘Unprovoked is my release. This is the last birth. There is now no further becoming.’”
+“And, bhikkhus, as long as this—my eight-round heightened deva-knowledge-&-vision—was not pure, I did not claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its devas, Māras, & Brahmās, with its people with their contemplatives & brahmans, their royalty & commonfolk. But as soon as this—my eight-round heightened deva-knowledge-&-vision—was truly pure, then I did claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its devas, Māras, & Brahmās, with its people with their contemplatives & brahmans, their royalty & commonfolk. Knowledge & vision arose in me: ‘Unprovoked is my release. This is the last birth. There is now no further becoming.’”
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

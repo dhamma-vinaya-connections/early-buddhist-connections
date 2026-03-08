@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you about eight wild colts and eight defects in horses, and about eight wild people and eight defects in people. Listen and pay close attention, I will speak.”
+1“bhikkhus, I will teach you about eight wild colts and eight defects in horses, and about eight wild people and eight defects in people. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
-2“And what, mendicants, are the eight wild colts and eight defects in horses?
+2“And what, bhikkhus, are the eight wild colts and eight defects in horses?
 
 Firstly, when the trainer says ‘giddyup!’ and spurs and goads them on, some wild colts back right up and spin the chariot behind them. Some wild colts are like that. This is the first defect of a horse.
 
@@ -47,21 +47,21 @@ These are the eight wild colts and the eight defects in horses.
 
 10And what are the eight wild people and eight defects in people?
 
-Firstly, the mendicants accuse a mendicant of an offense. But the accused mendicant evades it by saying they don’t remember. I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, back right up and spin the chariot behind them. Some wild people are like that. This is the first defect of a person.
+Firstly, the bhikkhus accuse a bhikkhu of an offense. But the accused bhikkhu evades it by saying they don’t remember. I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, back right up and spin the chariot behind them. Some wild people are like that. This is the first defect of a person.
 
-11Furthermore, the mendicants accuse a mendicant of an offense. But the accused mendicant objects to the accuser: ‘What has an incompetent fool like you got to say? How on earth could you imagine you’ve got something worth saying!’ I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, jump back, wreck the hub, and break the triple rod. Some wild people are like that. This is the second defect of a person.
+11Furthermore, the bhikkhus accuse a bhikkhu of an offense. But the accused bhikkhu objects to the accuser: ‘What has an incompetent fool like you got to say? How on earth could you imagine you’ve got something worth saying!’ I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, jump back, wreck the hub, and break the triple rod. Some wild people are like that. This is the second defect of a person.
 
-12Furthermore, the mendicants accuse a mendicant of an offense. But the accused mendicant retorts to the accuser: ‘Well, you’ve fallen into such-and-such an offense. You should deal with that first.’ I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, shake the cart-pole off their thigh and trample it. Some wild people are like that. This is the third defect of a person.
+12Furthermore, the bhikkhus accuse a bhikkhu of an offense. But the accused bhikkhu retorts to the accuser: ‘Well, you’ve fallen into such-and-such an offense. You should deal with that first.’ I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, shake the cart-pole off their thigh and trample it. Some wild people are like that. This is the third defect of a person.
 
-13Furthermore, the mendicants accuse a mendicant of an offense. But the accused mendicant dodges the issue, distracts the discussion with irrelevant points, and displays annoyance, hate, and bitterness. I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, take a wrong turn, sending the chariot off track. Some wild people are like that. This is the fourth defect of a person.
+13Furthermore, the bhikkhus accuse a bhikkhu of an offense. But the accused bhikkhu dodges the issue, distracts the discussion with irrelevant points, and displays annoyance, hate, and bitterness. I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, take a wrong turn, sending the chariot off track. Some wild people are like that. This is the fourth defect of a person.
 
-14Furthermore, the mendicants accuse a mendicant of an offense. But the accused mendicant gesticulates while speaking in the middle of the Saṅgha. I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, rear up and strike out with their fore-legs. Some wild people are like that. This is the fifth defect of a person.
+14Furthermore, the bhikkhus accuse a bhikkhu of an offense. But the accused bhikkhu gesticulates while speaking in the middle of the Saṅgha. I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, rear up and strike out with their fore-legs. Some wild people are like that. This is the fifth defect of a person.
 
-15Furthermore, the mendicants accuse a mendicant of an offense. But the accused mendicant ignores the Saṅgha and the accusation and, though still guilty of the offense, they go wherever they want. I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, ignore the trainer and the goad, spit out the bit, and go wherever they want. Some wild people are like that. This is the sixth defect of a person.
+15Furthermore, the bhikkhus accuse a bhikkhu of an offense. But the accused bhikkhu ignores the Saṅgha and the accusation and, though still guilty of the offense, they go wherever they want. I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, ignore the trainer and the goad, spit out the bit, and go wherever they want. Some wild people are like that. This is the sixth defect of a person.
 
-16Furthermore, the mendicants accuse a mendicant of an offense. But the accused mendicant neither confesses to the offense nor denies it, but frustrates the Saṅgha by staying silent. I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, don’t step forward or turn back but stand right there still as a post. Some wild people are like that. This is the seventh defect of a person.
+16Furthermore, the bhikkhus accuse a bhikkhu of an offense. But the accused bhikkhu neither confesses to the offense nor denies it, but frustrates the Saṅgha by staying silent. I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, don’t step forward or turn back but stand right there still as a post. Some wild people are like that. This is the seventh defect of a person.
 
-17Furthermore, the mendicants accuse a mendicant of an offense. But the accused mendicant says this: ‘Why are you venerables making so much of an issue over me? Now I’ll reject the training and return to a lesser life.’ When they have rejected the training, they say: ‘Well, venerables, are you happy now?’ I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, tuck in their fore-legs and hind-legs, and sit right down on their four legs. Some wild people are like that. This is the eighth defect of a person.
+17Furthermore, the bhikkhus accuse a bhikkhu of an offense. But the accused bhikkhu says this: ‘Why are you venerables making so much of an issue over me? Now I’ll reject the training and return to a lesser life.’ When they have rejected the training, they say: ‘Well, venerables, are you happy now?’ I say that this person is comparable to the wild colts who, when the trainer says ‘giddyup!’ and spurs and goads them on, tuck in their fore-legs and hind-legs, and sit right down on their four legs. Some wild people are like that. This is the eighth defect of a person.
 
 These are the eight wild people and eight defects in people.”
 

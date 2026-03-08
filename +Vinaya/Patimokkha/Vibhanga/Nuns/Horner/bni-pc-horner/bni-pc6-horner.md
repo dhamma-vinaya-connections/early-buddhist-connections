@@ -9,19 +9,19 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 6
 
-*Bi-Pc.6.1.1* *BD.3.252* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time Ārohanta, a chief minister,[^1] had gone forth among the monks (and) his former wife had gone forth among the nuns. Now at that time that monk participated in a meal in the presence of that nun. Then that nun enticed[^2] that monk, standing near him with drinking water and with a fan as he was eating.[^3] Then that monk upbraided that nun, saying: “Do not, sister, do this, it is not allowable.”
+*Bi-Pc.6.1.1* *BD.3.252* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time Ārohanta, a chief minister,[^1] had gone forth among the bhikkhus (and) his former wife had gone forth among the nuns. Now at that time that monk participated in a meal in the presence of that nun. Then that nun enticed[^2] that monk, standing near him with drinking water and with a fan as he was eating.[^3] Then that monk upbraided that nun, saying: “Do not, sister, do this, it is not allowable.”
 
 “Formerly you did this and that to me, now you do not put up with this much,” and having thrown down the drinking cup on his head, she struck him with the fan. Those who were modest nuns … spread it about, saying:
 
 “How can this nun strike a monk?’ …
 
-“Is it true, as is said, monks, that a nun struck a monk?”
+“Is it true, as is said, bhikkhus, that a nun struck a monk?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can a nun strike a monk? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can a nun strike a monk? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should stand with drinking water or *BD.3.253* with a fan close to a monk while he is eating, there is an offence of expiation.”
 

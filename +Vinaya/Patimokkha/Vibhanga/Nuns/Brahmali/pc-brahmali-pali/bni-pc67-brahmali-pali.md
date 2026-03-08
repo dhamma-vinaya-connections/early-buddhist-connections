@@ -20,14 +20,14 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nuns were giving the full admission to married girls who were more than twelve years old and who had trained in the six rules for two years, but who had not been approved by the Sangha. The nuns said, “Come, trainee nuns, find out about this,” “Give this,” “Bring this,” “There’s need for this,” or “Make this allowable.” But they replied, “Venerables, we’re not trainee nuns. We’re nuns.”
 
-2The nuns of few desires complained and criticized them, “How can nuns give the full admission to married girls who are more than twelve years old and who have trained for two years in the six rules, but who haven’t been approved by the Sangha?” … “Is it true, monks, that nuns do this?”
+2The nuns of few desires complained and criticized them, “How can nuns give the full admission to married girls who are more than twelve years old and who have trained for two years in the six rules, but who haven’t been approved by the Sangha?” … “Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
-“Monks, approval should be given for the full admission of a married girl who is more than twelve years old and who has trained for two years in the six rules.
+“bhikkhus, approval should be given for the full admission of a married girl who is more than twelve years old and who has trained for two years in the six rules.
 
 
 And it should be given like this. After approaching the Sangha of nuns, that married girl who is more than twelve years old should arrange her upper robe over one shoulder and pay respect at the feet of the nuns. She should then squat on her heels, raise her joined palms, and say, ‘Venerables, I, the married girl so-and-so, who is more than twelve years old and who has trained for two years in the six rules under Venerable so-and-so, ask the Sangha for approval to be fully admitted.’ And she should ask a second and a third time.
@@ -41,7 +41,7 @@ A competent and capable nun should then inform the Sangha:
 
 5The Sangha has given approval for the married girl so-and-so, who is more than twelve years old and who has trained for two years in the six rules under Venerable so-and-so, to be fully admitted. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
-6Then, after rebuking those nuns in many ways, the Buddha spoke in dispraise of being difficult to support … “And, monks, the nuns should recite this training rule like this:
+6Then, after rebuking those nuns in many ways, the Buddha spoke in dispraise of being difficult to support … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

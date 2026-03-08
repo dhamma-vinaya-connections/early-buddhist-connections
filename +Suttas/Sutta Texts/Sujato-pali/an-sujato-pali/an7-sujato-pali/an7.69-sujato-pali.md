@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when the leaves on the Shady Orchid Tree belonging to the Gods of the Thirty-Three turn brown, the gods are elated. They think: ‘Now the leaves on the Shady Orchid Tree have turned brown! It won’t be long until they fall.’
+1“bhikkhus, when the leaves on the Shady Orchid Tree belonging to the Gods of the Thirty-Three turn brown, the gods are elated. They think: ‘Now the leaves on the Shady Orchid Tree have turned brown! It won’t be long until they fall.’
 
 2When the leaves have fallen, the gods are elated. They think: ‘Now the leaves on the Shady Orchid Tree have fallen. It won’t be long until its foliage starts to regrow.’
 

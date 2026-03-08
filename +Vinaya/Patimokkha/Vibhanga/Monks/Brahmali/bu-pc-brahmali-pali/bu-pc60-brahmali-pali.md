@@ -16,28 +16,28 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. On one occasion when the monks from the group of seventeen had not put away their requisites, the monks from the group of six hid their bowls and robes. The monks from the group of seventeen said to them:
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. On one occasion when the bhikkhus from the group of seventeen had not put away their requisites, the bhikkhus from the group of six hid their bowls and robes. The bhikkhus from the group of seventeen said to them:
 
 
 “Give us our bowls and robes.”
 
-The monks from the group of six laughed, but the monks from the group of seventeen cried.
+The bhikkhus from the group of six laughed, but the bhikkhus from the group of seventeen cried.
 
-The monks asked them: “Why are you crying?”
+The bhikkhus asked them: “Why are you crying?”
 
-“Because the monks from the group of six have hidden our bowls and robes.”
+“Because the bhikkhus from the group of six have hidden our bowls and robes.”
 
 
-2The monks of few desires complained and criticized them:
+2The bhikkhus of few desires complained and criticized them:
 
-“How could the monks from the group of six hide the bowls and robes of other monks?” …
+“How could the bhikkhus from the group of six hide the bowls and robes of other bhikkhus?” …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

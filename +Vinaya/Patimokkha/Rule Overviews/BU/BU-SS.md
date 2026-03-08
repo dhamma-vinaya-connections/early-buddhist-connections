@@ -2,7 +2,7 @@
 index:
   - Patimokkha
 rule_type: "BU-SS - Sanghadisesa - Suspension"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-SS 
 

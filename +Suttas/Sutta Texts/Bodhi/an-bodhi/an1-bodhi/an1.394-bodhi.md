@@ -18,7 +18,7 @@ language: "English"
 
 “Bhikkhus, if for just the time of a finger snap a bhikkhu develops (395) the second jhāna … (396) the third jhāna … (397) the fourth jhāna … (398) the liberation of the mind by loving-kindness … (399) the liberation of the mind by compassion … \[39\] (400) the liberation of the mind by altruistic joy … (401) the liberation of the mind by equanimity, he is called a bhikkhu who is not devoid of jhāna, who acts upon the teaching of the Teacher, who responds to his advice, and who does not eat the country’s almsfood in vain. How much more, then, those who cultivate it!”### 402-405
 
-“… (402) dwells contemplating the body in the body, ardent, clearly comprehending, mindful, having removed longing and dejection in regard to the world … (403) dwells contemplating feelings in feelings … (404) dwells contemplating mind in mind … (405) dwells contemplating phenomena in phenomena, ardent, clearly comprehending, mindful, having removed longing and dejection in regard to the world …”### 406-409
+“… (402) ![[Satipatthanas]] … (403) ![[Satipatthanas]] …”### 406-409
 
 “… (406) generates desire for the non-arising of unarisen bad unwholesome qualities; makes an effort, arouses energy, applies his mind, and strives … (407) generates desire for the abandoning of arisen bad unwholesome qualities; makes an effort, arouses energy, applies his mind, and strives … (408) generates desire for the arising of unarisen wholesome qualities; makes an effort, arouses energy, applies his mind, and strives … (409) generates desire for the maintenance of arisen wholesome qualities, for their non-decline, increase, expansion, and fulfillment by development; makes an effort, arouses energy, applies his mind, and strives …”### 410-413
 

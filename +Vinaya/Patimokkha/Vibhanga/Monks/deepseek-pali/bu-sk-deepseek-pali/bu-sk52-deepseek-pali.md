@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 626. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū capucapukārakaṃ bhuñjanti…pe….
 
-## 626.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six monks were eating making smacking sounds…and so on.
+## 626.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six bhikkhus were eating making smacking sounds…and so on.
 
 ‘‘Na capucapukārakaṃ bhuñjissāmīti sikkhā karaṇīyā’’ti.
 

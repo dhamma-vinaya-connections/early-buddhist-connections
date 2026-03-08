@@ -7,21 +7,21 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC58]]
 > ◄  [[bu-pc57-horner]] 📜  [[bu-pc59-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 58
+# bhikkhus’ Expiation (_Pācittiya_) 58
 
-*Bu-Pc.58.1.1* *BD.2.406* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time many monks and wanderers were going along the high-road from Sāketa to Sāvatthī. On the way, thieves, having issued forth, robbed them. At Sāvatthī hirelings of the king,[^1] having issued forth, having seized these thieves with the goods, sent a messenger to the monks, saying:
+*Bu-Pc.58.1.1* *BD.2.406* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time many bhikkhus and wanderers were going along the high-road from Sāketa to Sāvatthī. On the way, thieves, having issued forth, robbed them. At Sāvatthī hirelings of the king,[^1] having issued forth, having seized these thieves with the goods, sent a messenger to the bhikkhus, saying:
 
 “Let the revered sirs come; let each, recognising his own robe, take it.”[^2]
 
-The monks did not recognise them. They[^3] looked down upon, criticised, spread it about, saying:
+The bhikkhus did not recognise them. They[^3] looked down upon, criticised, spread it about, saying:
 
 “How can the revered sirs not recognise their own robes?”[^4]
 
-Monks heard these people who … spread it about. Then these monks told this matter to the lord. Then the lord on this occasion, in this connection, having had the Order of monks convened, having given reasoned talk on what is befitting, on what is suitable, addressed the monks, saying:
+bhikkhus heard these people who … spread it about. Then these bhikkhus told this matter to the lord. Then the lord on this occasion, in this connection, having had the Order of bhikkhus convened, having given reasoned talk on what is befitting, on what is suitable, addressed the bhikkhus, saying:
 
-“On account of this, monks, I will lay down a rule of training for monks based on ten grounds: for the excellence of the Order, for the comfort of the Order … for establishing what is verily _dhamma_, for following discipline.[^5] And thus, monks, this rule of training should be set forth:
+“On account of this, bhikkhus, I will lay down a rule of training for bhikkhus based on ten grounds: for the excellence of the Order, for the comfort of the Order … for establishing what is verily _dhamma_, for following discipline.[^5] And thus, bhikkhus, this rule of training should be set forth:
 
-“When a monk obtains a new robe, any one mode of *BD.2.407* disfigurement[^6] of the three modes of disfigurement must be taken[^7]: either dark green or mud(-colour) or black.[^8] If a monk should make use of a new robe without taking[^9] any one mode of disfigurement of the three modes of disfigurement, there is an offence of expiation.[^10]”
+“When a bhikkhu obtains a new robe, any one mode of *BD.2.407* disfigurement[^6] of the three modes of disfigurement must be taken[^7]: either dark green or mud(-colour) or black.[^8] If a bhikkhu should make use of a new robe without taking[^9] any one mode of disfigurement of the three modes of disfigurement, there is an offence of expiation.[^10]”
 
 * * *
 
@@ -37,7 +37,7 @@ Mud(-colour)[^16] means: it is called water.[^17]
 
 Black[^18] means: anything that is of black.[^19]
 
-If a monk … without taking any one mode of disfigurement of the three modes of disfigurement means: *Vin.4.121* if a monk makes use of a new robe without having taken[^20] any one mode of disfigurement of the three modes of disfigurement, even (as little as) with a blade of grass, there is an offence of expiation.
+If a bhikkhu … without taking any one mode of disfigurement of the three modes of disfigurement means: *Vin.4.121* if a bhikkhu makes use of a new robe without having taken[^20] any one mode of disfigurement of the three modes of disfigurement, even (as little as) with a blade of grass, there is an offence of expiation.
 
 * * *
 
@@ -53,7 +53,7 @@ The Eighth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

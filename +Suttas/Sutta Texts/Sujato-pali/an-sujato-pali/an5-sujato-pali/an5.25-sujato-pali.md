@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when right view is supported by five factors it has freedom of heart and freedom by wisdom as its fruit and benefit.
+1“bhikkhus, when right view is supported by five factors it has freedom of heart and freedom by wisdom as its fruit and benefit.
 
 2What five? It’s when right view is supported by ethics, learning, discussion, serenity, and discernment. When right view is supported by these five factors it has freedom of heart and freedom by wisdom as its fruit and benefit.”
 

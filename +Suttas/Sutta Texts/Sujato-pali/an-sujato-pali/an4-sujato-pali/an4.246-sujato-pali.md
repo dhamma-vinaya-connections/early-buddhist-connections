@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four ways of lying down. What four? The ways a corpse, a pleasure seeker, a lion, and a Realized One lie down.
+1“bhikkhus, there are these four ways of lying down. What four? The ways a corpse, a pleasure seeker, a lion, and a Realized One lie down.
 
 And how does a corpse lie down? Corpses usually lie flat on their backs. This is called the way a corpse lies down.
 

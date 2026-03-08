@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nun Thullanandā was personally giving food to actors, dancers, acrobats, magicians, and musicians, saying, “Please praise me in public.” And they did: “Venerable Thullanandā is a learned reciter; she’s confident and skilled at giving teachings. Give to her; work for her!”
 
-2The nuns of few desires complained and criticized her, “How could Venerable Thullanandā personally give food to householders?” … “Is it true, monks, that the nun Thullanandā does this?”
+2The nuns of few desires complained and criticized her, “How could Venerable Thullanandā personally give food to householders?” … “Is it true, bhikkhus, that the nun Thullanandā does this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -37,7 +37,7 @@ The Buddha rebuked her … “How could the nun Thullanandā do this? This will 
 
 5**A householder:** anyone who lives at home.
 
-6**A male wanderer:** any male wanderer apart from Buddhist monks and novice monks.
+6**A male wanderer:** any male wanderer apart from Buddhist bhikkhus and novice bhikkhus.
 
 7**A female wanderer:** any female wanderer apart from Buddhist nuns, trainee nuns, and novice nuns.
 

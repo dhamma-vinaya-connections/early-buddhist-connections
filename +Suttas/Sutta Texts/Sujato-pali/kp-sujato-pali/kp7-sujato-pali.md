@@ -77,7 +77,7 @@ immediately it is of benefit.
 
 12This then is the definition of a relative's duties—  
 and by this great honour has been done to the departed,  
-strength has also been given to the monks,  
+strength has also been given to the bhikkhus,  
 and no little merit has been produced by you!
 
 The Beyond the Walls Discourse is Finished

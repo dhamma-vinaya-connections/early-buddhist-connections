@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 41
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, those beings are truly deprived who are deprived of noble discernment. They live in stress in the present life–troubled, distressed, & feverish–and at the break-up of the body, after death, a bad destination can be expected.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, those beings are truly deprived who are deprived of noble discernment. They live in stress in the present life–troubled, distressed, & feverish–and at the break-up of the body, after death, a bad destination can be expected.
 
 “Those beings are not deprived who are not deprived of noble discernment. They live in ease in the present life–untroubled, undistressed, & not feverish–and at the break-up of the body, after death, a good destination can be expected.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Sāriputta addressed the mendicants:
+1There Sāriputta addressed the bhikkhus:
 
 2“Reverends, you should distinguish two kinds of people: those you should associate with, and those you shouldn’t associate with. You should distinguish two kinds of robes: those you should wear, and those you shouldn’t wear. You should distinguish two kinds of almsfood: that which you should eat, and that which you shouldn’t eat. You should distinguish two kinds of lodging: those you should frequent, and those you shouldn’t frequent. You should distinguish two kinds of market town: those you should frequent, and those you shouldn’t frequent. You should distinguish two kinds of country: those you should frequent, and those you shouldn’t frequent.
 

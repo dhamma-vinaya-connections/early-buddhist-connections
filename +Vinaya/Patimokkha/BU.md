@@ -1,7 +1,7 @@
 ---
 index:
   - Patimokkha
-vin_gender: Monks
+vin_gender: bhikkhus
 contribution:
   - index
 ---

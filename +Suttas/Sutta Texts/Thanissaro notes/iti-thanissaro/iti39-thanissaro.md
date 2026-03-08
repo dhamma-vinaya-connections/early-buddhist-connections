@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 39
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, the Tathāgata–worthy & rightly self-awakened–has two Dhamma discourses given in sequence. Which two? ‘See evil as evil.’ This is the first Dhamma discourse. ‘Having seen evil as evil, become disenchanted there, dispassionate there, released.’ This is the second Dhamma discourse. These are the two Dhamma discourses that the Tathāgata–worthy & rightly self-awakened–has given in sequence.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, the Tathāgata–worthy & rightly self-awakened–has two Dhamma discourses given in sequence. Which two? ‘See evil as evil.’ This is the first Dhamma discourse. ‘Having seen evil as evil, become disenchanted there, dispassionate there, released.’ This is the second Dhamma discourse. These are the two Dhamma discourses that the Tathāgata–worthy & rightly self-awakened–has given in sequence.”
 
 See the two statements,
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two kinds of happiness. What two? Noble happiness and ignoble happiness. These are the two kinds of happiness. The better of these two kinds of happiness is noble happiness.”
+1“There are, bhikkhus, these two kinds of happiness. What two? Noble happiness and ignoble happiness. These are the two kinds of happiness. The better of these two kinds of happiness is noble happiness.”
 
 1 "Dvemāni, bhikkhave, sukhāni. Katamāni dve? Ariyasukhañca anariyasukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ sukhānaṁ yadidaṁ ariyasukhan"ti.
 

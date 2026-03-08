@@ -24,7 +24,7 @@ language: "English - Pali"
 
 So I have heard:
 
-At one time the Buddha was staying near Āḷavī, at the Aggāḷava Tree-shrine. Now at that time it was not long after Venerable Vaṅgīsa’s mentor, the senior monk named Nigrodhakappa, had become extinguished. Then as Vaṅgīsa was in private retreat this thought came to his mind: “Has my mentor become extinguished or not?”
+At one time the Buddha was staying near Āḷavī, at the Aggāḷava Tree-shrine. Now at that time it was not long after Venerable Vaṅgīsa’s mentor, the senior bhikkhu named Nigrodhakappa, had become extinguished. Then as Vaṅgīsa was in private retreat this thought came to his mind: “Has my mentor become extinguished or not?”
 
 Then in the late afternoon, Venerable Vaṅgīsa came out of retreat and went to the Buddha. He bowed, sat down to one side, and said to him: “Just now, sir, as I was in private retreat this thought came to mind. ‘Has my mentor become extinguished or not?’”
 
@@ -36,7 +36,7 @@ Vaṅgīsa
 
 343 “I ask the teacher unrivaled in wisdom,  
 who has cut off all doubts in this very life:  
-a monk has died at Aggāḷava, who was  
+a bhikkhu has died at Aggāḷava, who was  
 well-known, famous, and quenched.
 
 344 Nigrodhakappa was his name;  

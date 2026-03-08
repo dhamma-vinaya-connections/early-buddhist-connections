@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, as long as there’s a body, the intention that gives rise to bodily action causes pleasure and pain to arise in oneself. As long as there’s a voice, the intention that gives rise to verbal action causes pleasure and pain to arise in oneself. As long as there’s a mind, the intention that gives rise to mental action causes pleasure and pain to arise in oneself. But these only apply when conditioned by ignorance.
+1“bhikkhus, as long as there’s a body, the intention that gives rise to bodily action causes pleasure and pain to arise in oneself. As long as there’s a voice, the intention that gives rise to verbal action causes pleasure and pain to arise in oneself. As long as there’s a mind, the intention that gives rise to mental action causes pleasure and pain to arise in oneself. But these only apply when conditioned by ignorance.
 
 
 2-4By oneself one makes the choice that gives rise to bodily, verbal, and mental action, conditioned by which that pleasure and pain arise in oneself. Or else others make the choice … One consciously makes the choice … Or else one unconsciously makes the choice …
@@ -29,7 +29,7 @@ language: "English - Pali"
 5Ignorance is included in all these things. But when ignorance fades away and ceases with nothing left over, there is no body and no voice and no mind, conditioned by which that pleasure and pain arise in oneself. There is no field, no ground, no scope, and no basis, conditioned by which that pleasure and pain arise in oneself.
 
 
-6Mendicants, there are four kinds of reincarnation. What four?
+6bhikkhus, there are four kinds of reincarnation. What four?
 
 1. There is a reincarnation where one’s own intention is effective, not that of others.
 2. There is a reincarnation where the intention of others is effective, not one’s own.

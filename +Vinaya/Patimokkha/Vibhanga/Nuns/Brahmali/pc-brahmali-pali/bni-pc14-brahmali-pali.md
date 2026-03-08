@@ -25,7 +25,7 @@ language: "Pali - English"
 
 “How can Venerable Thullanandā do such things?” …
 
-“Is it true, monks, that the nun Thullanandā does this?”
+“Is it true, bhikkhus, that the nun Thullanandā does this?”
 
 
 “It’s true, Sir.”
@@ -33,7 +33,7 @@ language: "Pali - English"
 The Buddha rebuked her …
 
 
-“How can the nun Thullanandā do such things? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How can the nun Thullanandā do such things? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

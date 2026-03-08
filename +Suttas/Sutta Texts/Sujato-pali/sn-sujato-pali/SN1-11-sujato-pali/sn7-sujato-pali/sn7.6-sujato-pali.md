@@ -33,7 +33,7 @@ who can untangle this tangled mass?”
 
 3“A wise man grounded in ethics,  
 developing the mind and wisdom,  
-a keen and alert mendicant,  
+a keen and alert bhikkhu,  
 can untangle this tangled mass.
 
 4For those who have discarded  

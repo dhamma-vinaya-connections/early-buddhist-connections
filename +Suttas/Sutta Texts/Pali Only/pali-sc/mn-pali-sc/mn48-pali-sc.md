@@ -11,7 +11,7 @@ language: "Pali"
 > ◄  [[mn47-pali-sc]] 📜  [[mn49-pali-sc]] ►
 
 ## Majjhima Nikāya
-## MN48: Kosambiyasutta - The Mendicants of Kosambi
+## MN48: Kosambiyasutta - The bhikkhus of Kosambi
 
 1Evaṁ me sutaṁ — ​ ekaṁ samayaṁ bhagavā kosambiyaṁ viharati ghositārāme.
 

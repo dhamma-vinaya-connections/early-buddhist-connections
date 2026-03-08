@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him:
+1Then a bhikkhu went up to the Buddha, bowed, sat down to one side, and said to him:
 
 “Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.”
 
@@ -28,7 +28,7 @@ language: "English - Pali"
 
 “Sir, may the Buddha teach me the Dhamma in brief! May the Holy One teach me the Dhamma in brief! Hopefully I can understand the meaning of what the Buddha says! Hopefully I can be an heir of the Buddha’s teaching!”
 
-“Well then, mendicant, you should train like this: ‘My mind will be steady and well settled internally. And bad, unskillful qualities that have arisen will not occupy my mind.’ That’s how you should train.
+“Well then, bhikkhu, you should train like this: ‘My mind will be steady and well settled internally. And bad, unskillful qualities that have arisen will not occupy my mind.’ That’s how you should train.
 
 
 2When your mind is steady and well settled internally, and bad, unskillful qualities that have arisen don’t occupy your mind, then you should train like this: ‘I will develop the heart’s release by love. I’ll cultivate it, make it my vehicle and my basis, keep it up, consolidate it, and properly implement it.’ That’s how you should train.
@@ -50,11 +50,11 @@ language: "English - Pali"
 10When this immersion is well developed and cultivated in this way, wherever you walk, you’ll walk comfortably. Wherever you stand, you’ll stand comfortably. Wherever you sit, you’ll sit comfortably. Wherever you lie down, you’ll lie down comfortably.”
 
 
-11When that mendicant had been given this advice by the Buddha, he got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
+11When that bhikkhu had been given this advice by the Buddha, he got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 
-Then that mendicant, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme culmination of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
+Then that bhikkhu, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme culmination of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
 
-He understood: “Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is no return to any state of existence.” And that mendicant became one of the perfected.
+He understood: “Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is no return to any state of existence.” And that bhikkhu became one of the perfected.
 
 #### Pali
 

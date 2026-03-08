@@ -16,7 +16,7 @@ Translated by Charles Patton
 
 ### 13. The Great Method of Origination
 
-1. Thus I have heard: One time, the Buddha was staying in Kuru at Kalmāṣa’s Residence. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying in Kuru at Kalmāṣa’s Residence. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 #### Ānanda’s Question
 
@@ -208,7 +208,7 @@ Translated by Charles Patton
 
 64. “Ānanda, this is the extent of language, the extent of answers, the extent of limits, the extent of explanations, the extent of wise observation, and the extent of sentient beings.
 
-65. “Ānanda, when monks truly and correctly observe this [series of] principles, their minds will be uncontaminated and liberated. Ānanda, these monks should be called ‘those liberated by wisdom.’ Such a liberated monk also knows that the Tathāgata has an end, knows that the Tathāgata doesn’t have an end, knows that the Tathāgata has and doesn’t have an end, and knows that the Tathāgata neither has nor doesn’t have an end. Why?
+65. “Ānanda, when bhikkhus truly and correctly observe this [series of] principles, their minds will be uncontaminated and liberated. Ānanda, these bhikkhus should be called ‘those liberated by wisdom.’ Such a liberated monk also knows that the Tathāgata has an end, knows that the Tathāgata doesn’t have an end, knows that the Tathāgata has and doesn’t have an end, and knows that the Tathāgata neither has nor doesn’t have an end. Why?
 
 66. “Ānanda, this is the extent of language, the extent of answers, the extent of limits, the extent of explanations, the extent of wise observation, and the extent of sentient beings. Thus, having fully known it, a liberated monk whose mind is uncontaminated doesn’t know or see such knowing and seeing [of those four alternatives].
 
@@ -244,7 +244,7 @@ Translated by Charles Patton
 
 78. “Ānanda, this is the extent of language, the extent of answers, the extent of limits, the extent of explanations, the extent of wise observation, and the extent of sentient beings.
 
-79. “Ānanda, when monks truly and correctly observe this [series of] principles, their minds will be uncontaminated and liberated. Ānanda, these monks should be called ‘those liberated by wisdom.’ Such a liberated monk will know the existence of the self, the non-existence of the self, both the existence and non-existence of the self, and neither the existence nor non-existence of the self. Why?
+79. “Ānanda, when bhikkhus truly and correctly observe this [series of] principles, their minds will be uncontaminated and liberated. Ānanda, these bhikkhus should be called ‘those liberated by wisdom.’ Such a liberated monk will know the existence of the self, the non-existence of the self, both the existence and non-existence of the self, and neither the existence nor non-existence of the self. Why?
 
 80. “Ānanda, this is the extent of language, the extent of answers, the extent of limits, the extent of explanations, the extent of wise observation, and the extent of sentient beings. Thus, having fully known it, a liberated monk whose mind is uncontaminated doesn’t know or see such knowing and seeing [of those four alternatives].”
 
@@ -276,7 +276,7 @@ Translated by Charles Patton
 
 90. “Ānanda, there are also eight liberations. What are the eight? Form observed as form is the first liberation. Observing form externally without an internal perception of form is the second liberation. The liberation of purity is the third liberation. Going beyond notions of form, ceasing notions of resistance, not attending to diverse notions, and abiding in the abode of space is the fourth liberation. Going beyond the abode of space and abiding in the abode of consciousness is the fifth liberation. Going beyond the abode of consciousness and abiding in the abode of nothingness is the sixth liberation. Going beyond the abode of nothingness and abiding in the abode of with and without conception is the seventh liberation. The samādhi of complete cessation is the eighth liberation.
 
-91. “Ānanda, monks who traverse these eight liberations forward and backward, entering and exiting them at will, are monks who’ve attained liberation in both ways.”
+91. “Ānanda, bhikkhus who traverse these eight liberations forward and backward, entering and exiting them at will, are bhikkhus who’ve attained liberation in both ways.”
 
 92. When Ānanda heard what the Buddha taught, he rejoiced and approved.
 

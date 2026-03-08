@@ -28,12 +28,12 @@ language: "English - Pali"
 Then, when King Seniya Bimbisāra of Magadha was reflecting in private, he considered this and thought: “Why don’t the venerables, too, gather on the fourteenth, fifteenth, and eighth day of the half-month?”
 
 
-2He then went to the Buddha, bowed, sat down, and told him what he had thought, adding: “It would be good, Venerable Sir, if the venerables, too, gathered on the fourteenth, fifteenth, and eighth day of the half-month.” The Buddha then instructed, inspired, and gladdened him with a teaching. When the Buddha had finished, the King got up from his seat, bowed, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+2He then went to the Buddha, bowed, sat down, and told him what he had thought, adding: “It would be good, Venerable Sir, if the venerables, too, gathered on the fourteenth, fifteenth, and eighth day of the half-month.” The Buddha then instructed, inspired, and gladdened him with a teaching. When the Buddha had finished, the King got up from his seat, bowed, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 
 “You should gather together on the fourteenth, the fifteenth, and the eighth day of the lunar half-month.”
 
-3When the monks heard about the Buddha’s instruction, they started gathering on those days. People came to hear a teaching, but the monks sat in silence. The people complained and criticized them: “How can the Sakyan monastics gather on the fourteenth, fifteenth, and eighth day of the half-month, but then sit in silence like dumb pigs? Shouldn’t they give a teaching when they gather together?” The monks heard the complaints of those people and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+3When the bhikkhus heard about the Buddha’s instruction, they started gathering on those days. People came to hear a teaching, but the bhikkhus sat in silence. The people complained and criticized them: “How can the Sakyan monastics gather on the fourteenth, fifteenth, and eighth day of the half-month, but then sit in silence like dumb pigs? Shouldn’t they give a teaching when they gather together?” The bhikkhus heard the complaints of those people and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “When you gather together on the fourteenth, the fifteenth, and the eighth day of the lunar half-month, you should give a teaching.”
 
@@ -47,9 +47,9 @@ Then, when King Seniya Bimbisāra of Magadha was reflecting in private, he consi
 > ```
 
 
-4While the Buddha was reflecting in private, he thought: “Why don’t I instruct the monks to recite a monastic code, consisting of those training rules that I have laid down for them? That would be their procedure for the observance day.”
+4While the Buddha was reflecting in private, he thought: “Why don’t I instruct the bhikkhus to recite a monastic code, consisting of those training rules that I have laid down for them? That would be their procedure for the observance day.”
 
-In the evening, when the Buddha had come out from seclusion, he gave a teaching and addressed the monks. He told them what he had thought, adding,
+In the evening, when the Buddha had come out from seclusion, he gave a teaching and addressed the bhikkhus. He told them what he had thought, adding,
 
 
 “You should recite the Monastic Code.
@@ -79,7 +79,7 @@ The Monastic Code is what is meant.
 
 Everyone present:
 
-to whatever extent there are senior monks, junior monks, and monks of middle standing in that gathering—these are called “everyone present”.
+to whatever extent there are senior bhikkhus, junior bhikkhus, and bhikkhus of middle standing in that gathering—these are called “everyone present”.
 
 Should listen carefully:
 
@@ -115,7 +115,7 @@ just as one would respond when asked privately, so too, one should know of that 
 
 This kind of gathering:
 
-a gathering of monks is what is meant.
+a gathering of bhikkhus is what is meant.
 
 When the announcement is made three times:
 
@@ -166,19 +166,19 @@ When it’s revealed, he will be at ease:
 at ease for what? He will be at ease for reaching the first absorption, the second absorption, the third absorption, the forth absorption; at ease for reaching the wholesome qualities of absorption, release, stillness, attainment, renunciation, escape, seclusion.
 
 
-7When they heard that the Buddha required the recitation of the Monastic Code, some monks recited it daily. They told the Buddha.
+7When they heard that the Buddha required the recitation of the Monastic Code, some bhikkhus recited it daily. They told the Buddha.
 
 “You should not recite the Monastic Code every day. If you do, you commit an offense of wrong conduct. You should recite the Monastic Code on the observance day.”
 
-8When they heard that the Buddha required the recitation of the Monastic Code on the observance day, some monks recited it three times per half-month: on the fourteenth, fifteenth, and eighth day.
+8When they heard that the Buddha required the recitation of the Monastic Code on the observance day, some bhikkhus recited it three times per half-month: on the fourteenth, fifteenth, and eighth day.
 
 “You should not recite the Monastic Code three times per lunar half-month. If you do, you commit an offense of wrong conduct. You should recite the Monastic Code once every lunar half-month: on the fourteenth or the fifteenth day.”
 
-9On one occasion the monks from the group of six recited the Monastic Code separately, each to his own followers.
+9On one occasion the bhikkhus from the group of six recited the Monastic Code separately, each to his own followers.
 
 “You should not recite the Monastic Code separately, each to your own followers. If you do, you commit an offense of wrong conduct. You should do the observance-day procedure in a complete assembly.”
 
-10When they knew that the Buddha had laid down a rule that the observance-day procedure should be done in a complete assembly, the monks thought: “How far does a complete assembly extend? As far as one monastery or as far as the entire earth?”
+10When they knew that the Buddha had laid down a rule that the observance-day procedure should be done in a complete assembly, the bhikkhus thought: “How far does a complete assembly extend? As far as one monastery or as far as the entire earth?”
 
 “A complete assembly extends as far as one monastery.”
 
@@ -216,7 +216,7 @@ The Buddha instructed, inspired, and gladdened him with a teaching. Then, just a
 > ```
 
 
-12When they knew that the Buddha had laid down a rule that a complete assembly extends as far as one monastery, the monks thought: “How far does a single monastery extend?” They told the Buddha.
+12When they knew that the Buddha had laid down a rule that a complete assembly extends as far as one monastery, the bhikkhus thought: “How far does a single monastery extend?” They told the Buddha.
 
 “I allow you to establish a monastery zone.
 
@@ -230,11 +230,11 @@ And it should be established like this. First you should announce the zone marke
 The Saṅgha has established a monastery zone based on these markers, defining who belongs to the same community and who should do the observance-day ceremony together. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
 
-15When they heard that the Buddha had made an allowance to establish a monastery zone, the monks from the group of six established zones that were too large: 50, 65, and even 80 kilometers across. Monks coming to the observance-day ceremony arrived while the Monastic Code was being recited or just after, and they had to stop overnight while on the way. They told the Buddha.
+15When they heard that the Buddha had made an allowance to establish a monastery zone, the bhikkhus from the group of six established zones that were too large: 50, 65, and even 80 kilometers across. bhikkhus coming to the observance-day ceremony arrived while the Monastic Code was being recited or just after, and they had to stop overnight while on the way. They told the Buddha.
 
 “You should not establish a monastery zone that is too large, whether 50, 65, or 80 kilometers across. If you do, you commit an offense of wrong conduct. You should establish a monastery zone that is 40 kilometers across at the most.”
 
-16At one time the monks from the group of six had established a zone that crossed a river. Monks on their way to the observance-day ceremony were swept away by the current, as were their bowls and robes.
+16At one time the bhikkhus from the group of six had established a zone that crossed a river. bhikkhus on their way to the observance-day ceremony were swept away by the current, as were their bowls and robes.
 
 “You should not establish a monastery zone that crosses a river. If you do, you commit an offense of wrong conduct. I allow you to establish a monastery zone that crosses a river only if there is a permanent bridge or ferry connection.”
 
@@ -248,7 +248,7 @@ The Saṅgha has established a monastery zone based on these markers, defining w
 > ```
 
 
-17At that time the monks recited the Monastic Code in one yard after another without making a prior appointment. Newly arrived monks did not know where the observance-day ceremony was to be held. They told the Buddha.
+17At that time the bhikkhus recited the Monastic Code in one yard after another without making a prior appointment. Newly arrived bhikkhus did not know where the observance-day ceremony was to be held. They told the Buddha.
 
 “You should not recite the Monastic Code in one yard after another without making a prior appointment. If you do, you commit an offense of wrong conduct. I allow you to designate an observance-day hall—whether a dwelling, a stilt house, or a cave—for the observance-day ceremony.
 
@@ -260,7 +260,7 @@ And it should be designated like this. A competent and capable monk should infor
 
 The Saṅgha has designated such-and-such a dwelling as the observance-day hall. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
-20Soon afterwards in a certain monastery, they designated two different observance-day halls. Monks gathered in both places, each group thinking: “The observance-day ceremony will be done here.” They told the Buddha.
+20Soon afterwards in a certain monastery, they designated two different observance-day halls. bhikkhus gathered in both places, each group thinking: “The observance-day ceremony will be done here.” They told the Buddha.
 
 “You should not designate two different observance-day halls within the same monastery. If you do, you commit an offense of wrong conduct. You should abolish one of them and do the observance-day ceremony in one place.
 
@@ -282,7 +282,7 @@ The Saṅgha has abolished such-and-such an observance-day hall. The Saṅgha ap
 > ```
 
 
-23At one time in a certain monastery, they had designated an observance-day hall that was too small. On the observance day a large saṅgha of monks gathered there. Some monks listened to the recitation of the Monastic Code while sitting outside the designated area. Knowing that the Buddha had laid down a rule that the observance-day ceremony should be done after designating an observance-day hall, they wondered: “Have we done the observance-day ceremony or not?” They told the Buddha.
+23At one time in a certain monastery, they had designated an observance-day hall that was too small. On the observance day a large saṅgha of bhikkhus gathered there. Some bhikkhus listened to the recitation of the Monastic Code while sitting outside the designated area. Knowing that the Buddha had laid down a rule that the observance-day ceremony should be done after designating an observance-day hall, they wondered: “Have we done the observance-day ceremony or not?” They told the Buddha.
 
 “Whether you listen to the recitation of the Monastic Code while seated within or outside the designated area, in either case you have done the observance-day ceremony.
 
@@ -296,13 +296,13 @@ And it should be designated like this. First the markers should be announced. Th
 
 The Saṅgha has designated an observance-day forecourt based on these markers. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
-26On one occasion, on the observance day in a certain monastery, the junior monks had gathered first. Thinking: “There’s no point in being here before the senior monks arrive,” they left. As a consequence, the observance-day ceremony was done at the wrong time.
+26On one occasion, on the observance day in a certain monastery, the junior bhikkhus had gathered first. Thinking: “There’s no point in being here before the senior bhikkhus arrive,” they left. As a consequence, the observance-day ceremony was done at the wrong time.
 
-“On the observance day, the senior monks should gather first.”
+“On the observance day, the senior bhikkhus should gather first.”
 
-27At that time at Rājagaha, there was a number of monasteries within the same monastery zone. The monks argued about where the observance-day ceremony should be done.
+27At that time at Rājagaha, there was a number of monasteries within the same monastery zone. The bhikkhus argued about where the observance-day ceremony should be done.
 
-“When there are a number of monasteries within the same zone and the monks are arguing about where the observance-day ceremony should be done, they should all gather in one place and do the observance-day ceremony there. Or they should gather wherever the most senior monk is staying. You should not do the observance-day ceremony with an incomplete Saṅgha. If you do, you commit an offense of wrong conduct.”
+“When there are a number of monasteries within the same zone and the bhikkhus are arguing about where the observance-day ceremony should be done, they should all gather in one place and do the observance-day ceremony there. Or they should gather wherever the most senior monk is staying. You should not do the observance-day ceremony with an incomplete Saṅgha. If you do, you commit an offense of wrong conduct.”
 
 #### 7. The allowance for a may-stay-apart zone ^7
 
@@ -314,7 +314,7 @@ The Saṅgha has designated an observance-day forecourt based on these markers. 
 > ```
 
 
-28On one occasion Venerable Mahākassapa was coming from Andhakavinda to Rājagaha for the observance-day ceremony. As he was crossing a river on the way, he briefly got carried away by the current and his robes got wet. The monks asked him why his robes were wet, and he told them what had happened. They told the Buddha.
+28On one occasion Venerable Mahākassapa was coming from Andhakavinda to Rājagaha for the observance-day ceremony. As he was crossing a river on the way, he briefly got carried away by the current and his robes got wet. The bhikkhus asked him why his robes were wet, and he told them what had happened. They told the Buddha.
 
 
 “When the Saṅgha has established a monastery zone, defining who belongs to the same community and who should do the observance-day ceremony together, the Saṅgha may designate this same zone as a may-stay-apart-from-the-three-robes area.
@@ -329,7 +329,7 @@ And it should be designated like this. A competent and capable monk should infor
 The Saṅgha has designated this monastery zone as a may-stay-apart-from-the-three-robes area. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
 
-31When they heard that the Buddha had allowed the designation of a may-stay-apart-from-the-three-robes area, monks stored their robes in inhabited areas. Their robes were lost, burnt, and eaten by rats. As a consequence, they had shabby robes. Other monks asked them why, and they told them what had happened. They told the Buddha.
+31When they heard that the Buddha had allowed the designation of a may-stay-apart-from-the-three-robes area, bhikkhus stored their robes in inhabited areas. Their robes were lost, burnt, and eaten by rats. As a consequence, they had shabby robes. Other bhikkhus asked them why, and they told them what had happened. They told the Buddha.
 
 “When the Saṅgha has established a monastery zone, defining who belongs to the same community and who should do the observance-day ceremony together, the Saṅgha may designate this same zone as a may-stay-apart-from-the-three-robes area, leaving out inhabited areas and the vicinity of inhabited areas.
 
@@ -352,7 +352,7 @@ The Saṅgha has designated this monastery zone as a may-stay-apart-from-the-thr
 > ```
 
 
-34“Monks, when you’re establishing a monastery zone, the zone that defines who belongs to the same community should be established first. Afterwards you may designate the may-stay-apart-from-the-three-robes area. And when you’re abolishing a monastery zone, the may-stay-apart-from-the-three-robes area should be abolished first. Afterwards you may abolish the zone that defines who belongs to the same community.
+34“bhikkhus, when you’re establishing a monastery zone, the zone that defines who belongs to the same community should be established first. Afterwards you may designate the may-stay-apart-from-the-three-robes area. And when you’re abolishing a monastery zone, the may-stay-apart-from-the-three-robes area should be abolished first. Afterwards you may abolish the zone that defines who belongs to the same community.
 
 And this how a may-stay-apart-from-the-three-robes area should be abolished. A competent and capable monk should inform the Saṅgha:
 
@@ -380,13 +380,13 @@ The Saṅgha has abolished this monastery zone, defining who belongs to the same
 > ```
 
 
-40“There are monks who live supported by inhabited areas where no monastery zone has been established. In these cases, the zone of the inhabited area defines who belongs to the same community and who should do the observance-day ceremony together. If it is an uninhabited area in the wilderness, a distance of 80 meters on all sides defines who belongs to the same community and who should do the observance-day ceremony together. A whole river, a whole ocean, or a whole lake cannot be a monastery zone in its own right. In a river, in the ocean, and in a lake, the zone that defines who belongs to the same community and who should do the observance-day ceremony together is the distance an average man can splash water in all directions.”
+40“There are bhikkhus who live supported by inhabited areas where no monastery zone has been established. In these cases, the zone of the inhabited area defines who belongs to the same community and who should do the observance-day ceremony together. If it is an uninhabited area in the wilderness, a distance of 80 meters on all sides defines who belongs to the same community and who should do the observance-day ceremony together. A whole river, a whole ocean, or a whole lake cannot be a monastery zone in its own right. In a river, in the ocean, and in a lake, the zone that defines who belongs to the same community and who should do the observance-day ceremony together is the distance an average man can splash water in all directions.”
 
-41At one time the monks from the group of six established a monastery zone that overlapped with an existing monastery zone.
+41At one time the bhikkhus from the group of six established a monastery zone that overlapped with an existing monastery zone.
 
 “The establishment of the first zone is a legitimate legal procedure that is irreversible and fit to stand. The establishment of the subsequent zone is an illegitimate legal procedure that is reversible and unfit to stand. You should not establish a monastery zone that overlaps with an existing monastery zone. If you do, you commit an offense of wrong conduct.”
 
-42At one time the monks from the group of six established a monastery zone that enclosed one existing monastery zone within it.
+42At one time the bhikkhus from the group of six established a monastery zone that enclosed one existing monastery zone within it.
 
 “The establishment of the first zone is a legitimate legal procedure that is irreversible and fit to stand. The establishment of the subsequent zone is an illegitimate legal procedure that is reversible and unfit to stand. You should not establish a monastery zone that encloses an existing monastery zone. If you do, you commit an offense of wrong conduct.
 
@@ -402,12 +402,12 @@ When you establish a monastery zone, you should leave a gap to any existing mona
 > ```
 
 
-43The monks thought: “How many observance days are there?” They told the Buddha.
+43The bhikkhus thought: “How many observance days are there?” They told the Buddha.
 
 “There are two observance days: the fourteenth and the fifteenth day of the lunar half-month.”
 
 
-44The monks thought: “How many kinds of observance-day procedure are there?”
+44The bhikkhus thought: “How many kinds of observance-day procedure are there?”
 
 “There are these four kinds:
 
@@ -420,7 +420,7 @@ When you establish a monastery zone, you should leave a gap to any existing mona
 The first, second, and third of these should not be done; I haven’t allowed such procedures. The fourth should be done; I have allowed such a procedure.
 
 
-Therefore, monks, you should train like this: ‘We will do observance-day procedures that are legitimate and have a complete assembly.’”
+Therefore, bhikkhus, you should train like this: ‘We will do observance-day procedures that are legitimate and have a complete assembly.’”
 
 #### 11. The recitation of the Monastic Code in brief, etc. ^11
 
@@ -432,7 +432,7 @@ Therefore, monks, you should train like this: ‘We will do observance-day proce
 > ```
 
 
-45The monks thought: “How many ways are there of reciting the Monastic Code?” They told the Buddha.
+45The bhikkhus thought: “How many ways are there of reciting the Monastic Code?” They told the Buddha.
 
 “There are these five ways of reciting the Monastic Code:
 
@@ -443,19 +443,19 @@ Therefore, monks, you should train like this: ‘We will do observance-day proce
 5. In full is the fifth.”
 
 
-46When they heard that the Buddha had allowed the recitation of the Monastic Code in brief, some monks recited it in brief all the time.
+46When they heard that the Buddha had allowed the recitation of the Monastic Code in brief, some bhikkhus recited it in brief all the time.
 
 “You shouldn’t recite the Monastic Code in brief. If you do, you commit an offense of wrong conduct.”
 
-47At that time, on the observance day in a certain monastery in the Kosalan country, there was a threat from a primitive tribe. The monks were unable to recite the Monastic Code in full.
+47At that time, on the observance day in a certain monastery in the Kosalan country, there was a threat from a primitive tribe. The bhikkhus were unable to recite the Monastic Code in full.
 
 “I allow you to recite the Monastic Code in brief when there are threats.”
 
-48The monks from the group of six recited the Monastic Code in brief even when there were no threats.
+48The bhikkhus from the group of six recited the Monastic Code in brief even when there were no threats.
 
 “You should not recite the Monastic Code in brief when there are no threats. If you do, you commit an offense of wrong conduct. I allow you to recite the Monastic Code in brief when there are any of these threats: a threat from kings, bandits, fire, floods, people, spirits, predatory animals, or snakes, or a threat to life, or a threat to the monastic life.”
 
-49On one occasion the monks from the group of six gave a teaching in the midst of the Saṅgha without being asked.
+49On one occasion the bhikkhus from the group of six gave a teaching in the midst of the Saṅgha without being asked.
 
 “You should not give a teaching in the midst of the Saṅgha without being asked. If you do, you commit an offense of wrong conduct. I allow the most senior monk either to give a teaching himself or to ask someone else.”
 
@@ -469,7 +469,7 @@ Therefore, monks, you should train like this: ‘We will do observance-day proce
 > ```
 
 
-50On one occasion the monks from the group of six questioned others on the Monastic Law in the midst of the Saṅgha without being approved.
+50On one occasion the bhikkhus from the group of six questioned others on the Monastic Law in the midst of the Saṅgha without being approved.
 
 “You should not question others on the Monastic Law in the midst of the Saṅgha without being approved. If you do, you commit an offense of wrong conduct. I allow you to question others on the Monastic Law in the midst of the Saṅgha after being approved.
 
@@ -488,7 +488,7 @@ In this way you are approved through yourself.
 
 In this way you are approved through someone else.”
 
-54Soon good monks asked questions on the Monastic Law in the midst of the Saṅgha after being approved. The monks from the group of six became angry and bitter, and they made threats of violence.
+54Soon good bhikkhus asked questions on the Monastic Law in the midst of the Saṅgha after being approved. The bhikkhus from the group of six became angry and bitter, and they made threats of violence.
 
 “The monk who has been approved should first survey the gathering and evaluate the individuals, and then ask questions on the Monastic Law in the midst of the Saṅgha.”
 
@@ -502,7 +502,7 @@ In this way you are approved through someone else.”
 > ```
 
 
-55On one occasion the monks from the group of six replied to questions on the Monastic Law in the midst of the Saṅgha without being approved.
+55On one occasion the bhikkhus from the group of six replied to questions on the Monastic Law in the midst of the Saṅgha without being approved.
 
 “You should not reply to questions on the Monastic Law in the midst of the Saṅgha without being approved. If you do, you commit an offense of wrong conduct. I allow you to reply to questions on the Monastic Law in the midst of the Saṅgha after being approved.
 
@@ -520,7 +520,7 @@ In this way you are approved through yourself.
 
 In this way you are approved through someone else.”
 
-59Soon good monks replied to questions on the Monastic Law in the midst of the Saṅgha after being approved. The monks from the group of six became angry and bitter, and they made threats of violence.
+59Soon good bhikkhus replied to questions on the Monastic Law in the midst of the Saṅgha after being approved. The bhikkhus from the group of six became angry and bitter, and they made threats of violence.
 
 “The monk who has been approved should first survey the gathering and evaluate the individuals, and then reply to questions on the Monastic Law in the midst of the Saṅgha.”
 
@@ -534,17 +534,17 @@ In this way you are approved through someone else.”
 > ```
 
 
-60At one time the monks from the group of six accused a monk of an offense without first getting his permission to do so.
+60At one time the bhikkhus from the group of six accused a monk of an offense without first getting his permission to do so.
 
 “You should not accuse a monk of an offense without first getting his permission. If you do, you commit an offense of wrong conduct. You should only accuse someone of an offense after getting their permission: ‘I wish to speak to you, Venerable, please give me permission.’”
 
-61Soon, after getting their permission, good monks accused the monks from the group of six of an offense. The monks from the group of six became angry and bitter, and they made threats of violence.
+61Soon, after getting their permission, good bhikkhus accused the bhikkhus from the group of six of an offense. The bhikkhus from the group of six became angry and bitter, and they made threats of violence.
 
 “Even when you have their permission, you should first evaluate the individual and then accuse them of an offense.”
 
-62At this time the monks from the group of six—thinking to act before the good monks asked them for permission, but having no grounds for doing so—got permission from pure monks who had not committed any offenses.
+62At this time the bhikkhus from the group of six—thinking to act before the good bhikkhus asked them for permission, but having no grounds for doing so—got permission from pure bhikkhus who had not committed any offenses.
 
-“When you have no grounds for doing so, you should not get permission from pure monks who haven’t committed any offenses. If you do, you commit an offense of wrong conduct. And you should give permission only after evaluating the individual.”
+“When you have no grounds for doing so, you should not get permission from pure bhikkhus who haven’t committed any offenses. If you do, you commit an offense of wrong conduct. And you should give permission only after evaluating the individual.”
 
 #### 15. Objecting to an illegitimate legal procedure, etc. ^15
 
@@ -556,7 +556,7 @@ In this way you are approved through someone else.”
 > ```
 
 
-63On one occasion the monks from the group of six did an illegitimate legal procedure in the midst of the Saṅgha.
+63On one occasion the bhikkhus from the group of six did an illegitimate legal procedure in the midst of the Saṅgha.
 
 “You should not do illegitimate legal procedures. If you do, you commit an offense of wrong conduct.”
 
@@ -564,16 +564,16 @@ They still did illegitimate procedures.
 
 “You should object when an illegitimate legal procedure is being done.”
 
-64Soon afterwards good monks objected when the monks from the group of six did an illegitimate procedure. The monks from the group of six became angry and bitter, and they made threats of violence.
+64Soon afterwards good bhikkhus objected when the bhikkhus from the group of six did an illegitimate procedure. The bhikkhus from the group of six became angry and bitter, and they made threats of violence.
 
 “I also allow you to state your view.”
 
-They did. Once again the monks from the group of six became angry and bitter, making threats of violence.
+They did. Once again the bhikkhus from the group of six became angry and bitter, making threats of violence.
 
 
 “A group of four or five should object, a group of two or three may state their view, and a single person may make a silent determination: ‘I don’t approve of this.’”
 
-65On one occasion when the monks from the group of six were reciting the Monastic Code in the midst of the Saṅgha, they deliberately made themselves inaudible.
+65On one occasion when the bhikkhus from the group of six were reciting the Monastic Code in the midst of the Saṅgha, they deliberately made themselves inaudible.
 
 “When reciting the Monastic Code, you should not deliberately make yourselves inaudible. If you do, you commit an offense of wrong conduct.”
 
@@ -585,7 +585,7 @@ They did. Once again the monks from the group of six became angry and bitter, ma
 
 “You should not recite the Monastic Code in a gathering that includes lay people. If you do, you commit an offense of wrong conduct.”
 
-68On one occasion the monks from the group of six recited the Monastic Code in the midst of the Saṅgha without being asked.
+68On one occasion the bhikkhus from the group of six recited the Monastic Code in the midst of the Saṅgha without being asked.
 
 “You should not recite the Monastic Code in the midst of the Saṅgha without first being asked to do so. If you do, you commit an offense of wrong conduct. The most senior monk should be in charge of the recitation of the Monastic Code.”
 
@@ -603,24 +603,24 @@ They did. Once again the monks from the group of six became angry and bitter, ma
 
 70When the Buddha had stayed at Rājagaha for as long as he liked, he set out wandering toward Codanāvatthu. When he eventually arrived, he stayed there.
 
-At that time a number of monks were staying in a certain monastery where the most senior monk was ignorant and incompetent. He did not know about the observance-day ceremony or the observance-day procedure, nor about the Monastic Code or its recitation.
+At that time a number of bhikkhus were staying in a certain monastery where the most senior monk was ignorant and incompetent. He did not know about the observance-day ceremony or the observance-day procedure, nor about the Monastic Code or its recitation.
 
-The other monks knew that the Buddha had laid down a rule that the most senior monk should be in charge of the recitation of the Monastic Code, and so they wondered what to do. They told the Buddha.
+The other bhikkhus knew that the Buddha had laid down a rule that the most senior monk should be in charge of the recitation of the Monastic Code, and so they wondered what to do. They told the Buddha.
 
 “In such a case a competent and capable monk there should be in charge of the recitation of the Monastic Code.”
 
 
-71-72On one occasion on the observance day, a number of ignorant and incompetent monks were staying in a certain monastery. They did not know about the observance-day ceremony or the observance-day procedure, nor about the Monastic Code or its recitation. They requested the most senior monk to recite the Monastic Code, but he replied that he was incapable. They made the same request of the second-most and third-most senior monks, and on both occasions received the same reply. They then requested each monk in turn until they reached the most junior monk. And they all gave the same reply.
+71-72On one occasion on the observance day, a number of ignorant and incompetent bhikkhus were staying in a certain monastery. They did not know about the observance-day ceremony or the observance-day procedure, nor about the Monastic Code or its recitation. They requested the most senior monk to recite the Monastic Code, but he replied that he was incapable. They made the same request of the second-most and third-most senior bhikkhus, and on both occasions received the same reply. They then requested each monk in turn until they reached the most junior monk. And they all gave the same reply.
 
 
-“When all the monks in a monastery are ignorant and incompetent, and none of them is able to recite the Monastic Code, they should straightaway send a monk to a neighboring monastery to learn the Monastic Code, either in brief or in full.”
+“When all the bhikkhus in a monastery are ignorant and incompetent, and none of them is able to recite the Monastic Code, they should straightaway send a monk to a neighboring monastery to learn the Monastic Code, either in brief or in full.”
 
 
-73The monks thought: “Who is responsible for sending someone?”
+73The bhikkhus thought: “Who is responsible for sending someone?”
 
 “The most senior monk should tell a junior monk to go.”
 
-Although told by the senior monk, the junior monks did not go.
+Although told by the senior monk, the junior bhikkhus did not go.
 
 
 “If a monk isn’t sick and he’s told by the most senior monk to go, he should go. If he doesn’t, he commits an offense of wrong conduct.”
@@ -637,28 +637,28 @@ Although told by the senior monk, the junior monks did not go.
 
 74When he had stayed at Codanāvatthu for as long as he liked, the Buddha returned to Rājagaha.
 
-75Then, while the monks were walking for almsfood, people asked them which half-month it was. They replied that they did not know. People complained and criticized them: “These Sakyan monastics don’t even know the number of the lunar half-month. So how could they possibly know anything truly useful?” They told the Buddha.
+75Then, while the bhikkhus were walking for almsfood, people asked them which half-month it was. They replied that they did not know. People complained and criticized them: “These Sakyan monastics don’t even know the number of the lunar half-month. So how could they possibly know anything truly useful?” They told the Buddha.
 
 “You should learn the counting of the lunar half-months.”
 
-The monks thought: “Who should learn the counting of the lunar half-months?”
+The bhikkhus thought: “Who should learn the counting of the lunar half-months?”
 
 “You should all learn the counting of the lunar half-months.”
 
-76On another occasion, while the monks were walking for almsfood, people asked them how many monks there were. They replied that they did not know. People complained and criticized them: “These Sakyan monastics don’t even know about one another. So how could they possibly know anything truly useful?”
+76On another occasion, while the bhikkhus were walking for almsfood, people asked them how many bhikkhus there were. They replied that they did not know. People complained and criticized them: “These Sakyan monastics don’t even know about one another. So how could they possibly know anything truly useful?”
 
-“You should count the monks.”
+“You should count the bhikkhus.”
 
-77The monks thought: “When should we count the monks?”
+77The bhikkhus thought: “When should we count the bhikkhus?”
 
-“You should count the monks on the observance day, either by name or by distributing tickets.”
+“You should count the bhikkhus on the observance day, either by name or by distributing tickets.”
 
 
-78On one occasion, monks walked for almsfood in a faraway village, not knowing that it was the observance day. They arrived back while the Monastic Code was being recited or even just after.
+78On one occasion, bhikkhus walked for almsfood in a faraway village, not knowing that it was the observance day. They arrived back while the Monastic Code was being recited or even just after.
 
 “You should announce, ‘Today is the observance day.’”
 
-79The monks thought: “Who should make the announcement?”
+79The bhikkhus thought: “Who should make the announcement?”
 
 “The most senior monk should make the announcement early in the morning.”
 
@@ -682,59 +682,59 @@ The monks thought: “Who should learn the counting of the lunar half-months?”
 > ```
 
 
-82On one occasion in a certain monastery, the observance-day hall was dirty. Newly arrived monks complained: “Why don’t the resident monks sweep the hall?” They told the Buddha.
+82On one occasion in a certain monastery, the observance-day hall was dirty. Newly arrived bhikkhus complained: “Why don’t the resident bhikkhus sweep the hall?” They told the Buddha.
 
 “You should sweep the observance-day hall.”
 
 
-83The monks thought: “Who should sweep it?”
+83The bhikkhus thought: “Who should sweep it?”
 
 “The most senior monk should tell a junior monk.”
 
 
-84Although told by the senior monk, the junior monks did not sweep.
+84Although told by the senior monk, the junior bhikkhus did not sweep.
 
 “If a monk isn’t sick and he’s told by the senior monk to sweep, he should sweep. If he doesn’t, he commits an offense of wrong conduct.”
 
-85On one occasion no seats were prepared in the observance-day hall. The monks sat on the ground. They became dirty, as did their robes.
+85On one occasion no seats were prepared in the observance-day hall. The bhikkhus sat on the ground. They became dirty, as did their robes.
 
 “You should prepare seats in the observance-day hall.”
 
-86The monks thought: “Who should prepare them?”
+86The bhikkhus thought: “Who should prepare them?”
 
 “The most senior monk should tell a junior monk.”
 
 
-87Although told by the senior monk, the junior monks did not prepare them.
+87Although told by the senior monk, the junior bhikkhus did not prepare them.
 
 “If a monk isn’t sick and he’s told by the senior monk to prepare the seats, he should do so. If he doesn’t, he commits an offense of wrong conduct.”
 
 
-88On one occasion there was no lamp in the observance-day hall. Because it was dark, the monks stepped on one another and on one another’s robes.
+88On one occasion there was no lamp in the observance-day hall. Because it was dark, the bhikkhus stepped on one another and on one another’s robes.
 
 “You should light a lamp in the observance-day hall.”
 
 
-89The monks thought: “Who should light it?”
+89The bhikkhus thought: “Who should light it?”
 
 “The most senior monk should tell a junior monk.”
 
 
-90Although told by the senior monk, the junior monks did not light a lamp.
+90Although told by the senior monk, the junior bhikkhus did not light a lamp.
 
 “If a monk isn’t sick and he’s told by the senior monk to light a lamp, he should do so. If he doesn’t, he commits an offense of wrong conduct.”
 
-91On one occasion in a certain monastery, the resident monks didn’t set out water for drinking or water for washing. Newly arrived monks complained and criticized them: “Why don’t the resident monks set out water for drinking and water for washing?”
+91On one occasion in a certain monastery, the resident bhikkhus didn’t set out water for drinking or water for washing. Newly arrived bhikkhus complained and criticized them: “Why don’t the resident bhikkhus set out water for drinking and water for washing?”
 
 
 “You should set out water for drinking and water for washing.”
 
-92The monks thought: “Who should do it?”
+92The bhikkhus thought: “Who should do it?”
 
 “The most senior monk should tell a junior monk.”
 
 
-93Although told by the senior monk, the junior monks did not do it.
+93Although told by the senior monk, the junior bhikkhus did not do it.
 
 “If a monk isn’t sick and he’s told by the senior monk to set them out, he should do so. If he doesn’t, he commits an offense of wrong conduct.”
 
@@ -748,23 +748,23 @@ The monks thought: “Who should learn the counting of the lunar half-months?”
 > ```
 
 
-94On one occasion a number of ignorant and incompetent monks asked permission from their teachers and preceptors to go to a different region. They told the Buddha.
+94On one occasion a number of ignorant and incompetent bhikkhus asked permission from their teachers and preceptors to go to a different region. They told the Buddha.
 
-95“A number of ignorant and incompetent monks might ask their teachers and preceptors for permission to go to a different region. The teachers and preceptors should then ask them where they’re going and who they’re going with. If they’re going with others who are ignorant and incompetent, the teachers and preceptors shouldn’t give them permission. If they do, they commit an offense of wrong conduct.
+95“A number of ignorant and incompetent bhikkhus might ask their teachers and preceptors for permission to go to a different region. The teachers and preceptors should then ask them where they’re going and who they’re going with. If they’re going with others who are ignorant and incompetent, the teachers and preceptors shouldn’t give them permission. If they do, they commit an offense of wrong conduct.
 
 And if the students go without permission from their teachers and preceptors, they commit an offense of wrong conduct.
 
-96A number of ignorant and incompetent monks might be staying in a certain monastery. They don’t know about the observance-day ceremony or the observance-day procedure, nor about the Monastic Code or its recitation. Then a monk arrives who is learned and a master of the tradition; who is an expert on the Teaching, the Monastic Law, and the key terms; who is knowledgeable and competent, has a sense of conscience, and is afraid of wrongdoing and fond of the training.
+96A number of ignorant and incompetent bhikkhus might be staying in a certain monastery. They don’t know about the observance-day ceremony or the observance-day procedure, nor about the Monastic Code or its recitation. Then a monk arrives who is learned and a master of the tradition; who is an expert on the Teaching, the Monastic Law, and the key terms; who is knowledgeable and competent, has a sense of conscience, and is afraid of wrongdoing and fond of the training.
 
-Those monks should treat that learned monk with kindness. They should assist him and support him, and they should attend on him with bath powder, soap, tooth cleaners, and water for rinsing the mouth. If they don’t look after him in this way, they commit an offense of wrong conduct.
+Those bhikkhus should treat that learned monk with kindness. They should assist him and support him, and they should attend on him with bath powder, soap, tooth cleaners, and water for rinsing the mouth. If they don’t look after him in this way, they commit an offense of wrong conduct.
 
-97On the observance day, a number of ignorant and incompetent monks might be staying in a certain monastery. They don’t know about the observance-day ceremony or the observance-day procedure, nor about the Monastic Code or its recitation. They should straightaway send a monk to a neighboring monastery to learn the Monastic Code, either in brief or in full. If he’s able to do this, it’s good.
+97On the observance day, a number of ignorant and incompetent bhikkhus might be staying in a certain monastery. They don’t know about the observance-day ceremony or the observance-day procedure, nor about the Monastic Code or its recitation. They should straightaway send a monk to a neighboring monastery to learn the Monastic Code, either in brief or in full. If he’s able to do this, it’s good.
 
-If he’s not, then those monks should all go to a monastery where the monks know about the observance-day ceremony and the observance-day procedure, and about the Monastic Code and its recitation. If they don’t go, they commit an offense of wrong conduct.
+If he’s not, then those bhikkhus should all go to a monastery where the bhikkhus know about the observance-day ceremony and the observance-day procedure, and about the Monastic Code and its recitation. If they don’t go, they commit an offense of wrong conduct.
 
-98A number of ignorant and incompetent monks might be spending the rainy-season residence in a certain monastery. They don’t know about the observance-day ceremony or the observance-day procedure, nor about the Monastic Code or its recitation. They should straightaway send a monk to a neighboring monastery to learn the Monastic Code, either in brief or in full. If he’s able to do this, it’s good. If he’s not, then a monk should be sent under the seven-day allowance to learn the Monastic Code, either in brief or in full. If he’s able to do this, it’s good.
+98A number of ignorant and incompetent bhikkhus might be spending the rainy-season residence in a certain monastery. They don’t know about the observance-day ceremony or the observance-day procedure, nor about the Monastic Code or its recitation. They should straightaway send a monk to a neighboring monastery to learn the Monastic Code, either in brief or in full. If he’s able to do this, it’s good. If he’s not, then a monk should be sent under the seven-day allowance to learn the Monastic Code, either in brief or in full. If he’s able to do this, it’s good.
 
-If he’s not, then those monks should not spend the rainy-season residence in that monastery. If they do, they commit an offense of wrong conduct.”
+If he’s not, then those bhikkhus should not spend the rainy-season residence in that monastery. If they do, they commit an offense of wrong conduct.”
 
 #### 20. Discussion of the passing on of purity ^20
 
@@ -776,7 +776,7 @@ If he’s not, then those monks should not spend the rainy-season residence in t
 > ```
 
 
-99Then the Buddha addressed the monks: “Gather, monks, for the Saṅgha to do the observance-day ceremony.” A monk said to the Buddha: “Venerable Sir, there’s a sick monk. He hasn’t come.”
+99Then the Buddha addressed the bhikkhus: “Gather, bhikkhus, for the Saṅgha to do the observance-day ceremony.” A monk said to the Buddha: “Venerable Sir, there’s a sick monk. He hasn’t come.”
 
 100“A sick monk should pass on his purity.
 
@@ -812,7 +812,7 @@ But there’s an offense of wrong conduct for the one who is conveying the purit
 > ```
 
 
-106The Buddha addressed the monks: “Gather, monks, for the Saṅgha to do a legal procedure.” A monk said to the Buddha: “Venerable Sir, there’s a sick monk. He hasn’t come.”
+106The Buddha addressed the bhikkhus: “Gather, bhikkhus, for the Saṅgha to do a legal procedure.” A monk said to the Buddha: “Venerable Sir, there’s a sick monk. He hasn’t come.”
 
 107“A sick monk should give his consent.
 
@@ -850,13 +850,13 @@ On the observance day, if the Saṅgha has business to be done, then anyone pass
 
 113On one occasion on the observance day, a certain monk was seized by his relatives.
 
-114“If a monk is seized by his relatives on the observance day, other monks should say to those relatives, ‘Please release this monk for a short time so that he can take part in the observance-day ceremony.’
+114“If a monk is seized by his relatives on the observance day, other bhikkhus should say to those relatives, ‘Please release this monk for a short time so that he can take part in the observance-day ceremony.’
 
 If they’re able to do this, it’s good. If not, they should say to those relatives, ‘Please step aside for a moment while this monk passes on his purity.’ If they’re able to do this, it’s good. If not, they should say to those relatives, ‘Please take this monk outside the monastery zone for a short time while the Saṅgha does the observance-day ceremony.’ If they’re able to do this, it’s good.
 
 If not, you should not do the observance-day ceremony with an incomplete Saṅgha. If you do, you commit an offense of wrong conduct.
 
-115If on the observance day a monk is seized by kings, by bandits, by scoundrels, or by enemies of the monks, other monks should say to those enemies, ‘Please release this monk for a short time, so that he can take part in the observance-day ceremony.’
+115If on the observance day a monk is seized by kings, by bandits, by scoundrels, or by enemies of the bhikkhus, other bhikkhus should say to those enemies, ‘Please release this monk for a short time, so that he can take part in the observance-day ceremony.’
 
 If they’re able to do this, it’s good. If not, they should say to those enemies, ‘Please step aside for a moment while this monk passes on his purity.’ If they’re able to do this, it’s good. If not, they should say to those enemies, ‘Please take this monk outside the monastery zone for a short time while the Saṅgha does the observance-day ceremony.’ If they’re able to do this, it’s good.
 
@@ -872,9 +872,9 @@ If not, you should not do the observance-day ceremony with an incomplete Saṅgh
 > ```
 
 
-116Then the Buddha addressed the monks: “Gather, monks, there’s business for the Saṅgha.” A monk said to the Buddha: “Venerable Sir, there’s a monk called Gagga who is insane. He hasn’t come.”
+116Then the Buddha addressed the bhikkhus: “Gather, bhikkhus, there’s business for the Saṅgha.” A monk said to the Buddha: “Venerable Sir, there’s a monk called Gagga who is insane. He hasn’t come.”
 
-117“Monks, there are two kinds of insane monks: there is the insane monk who sometimes remembers the observance day and sometimes doesn’t, who sometimes remembers the legal procedures of the Saṅgha and sometimes doesn’t, who sometimes goes to the observance-day ceremony and sometimes doesn’t, who sometimes goes to the legal procedures of the Saṅgha and sometimes doesn’t.
+117“bhikkhus, there are two kinds of insane bhikkhus: there is the insane monk who sometimes remembers the observance day and sometimes doesn’t, who sometimes remembers the legal procedures of the Saṅgha and sometimes doesn’t, who sometimes goes to the observance-day ceremony and sometimes doesn’t, who sometimes goes to the legal procedures of the Saṅgha and sometimes doesn’t.
 
 Then there’s the insane monk who never remembers any of this.
 
@@ -899,23 +899,23 @@ And it should be made like this. A competent and capable monk should inform the 
 > ```
 
 
-121At one time on the observance day, there were four monks staying in a certain monastery. They thought: “The Buddha has laid down a rule that the observance-day ceremony should be done. Now there’s four of us. So how should we do the observance-day ceremony?” They told the Buddha.
+121At one time on the observance day, there were four bhikkhus staying in a certain monastery. They thought: “The Buddha has laid down a rule that the observance-day ceremony should be done. Now there’s four of us. So how should we do the observance-day ceremony?” They told the Buddha.
 
 “When there are four of you, you should recite the Monastic Code.”
 
-122At one time on the observance day, there were three monks staying in a certain monastery. They thought: “The Buddha has instructed that the Monastic Code should be recited when there are four monks. But there’s only three of us. So how should we do the observance-day ceremony?”
+122At one time on the observance day, there were three bhikkhus staying in a certain monastery. They thought: “The Buddha has instructed that the Monastic Code should be recited when there are four bhikkhus. But there’s only three of us. So how should we do the observance-day ceremony?”
 
 “When there are three of you, you should do the observance-day ceremony by declaring your purity.
 
-And you should do it like this. A competent and capable monk should inform those monks:
+And you should do it like this. A competent and capable monk should inform those bhikkhus:
 
 123‘Please, Venerables, I ask you to listen. Today is the observance day, the fifteenth. If it seems appropriate to you, we should do the observance-day ceremony by declaring purity to one another.’
 
-124The most senior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other monks: ‘I’m pure. Please remember me as pure.’ And he should repeat this two more times.
+124The most senior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other bhikkhus: ‘I’m pure. Please remember me as pure.’ And he should repeat this two more times.
 
-125Each junior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other monks: ‘I’m pure, Venerable. Please remember me as pure.’ And he should repeat this two more times.”
+125Each junior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other bhikkhus: ‘I’m pure, Venerable. Please remember me as pure.’ And he should repeat this two more times.”
 
-126At one time on the observance day, there were two monks staying in a certain monastery. They thought: “The Buddha has instructed that the Monastic Code should be recited when there are four monks and that the observance-day ceremony should be done by declaring purity when there are three. But there’s only two of us. So how should we do the observance-day ceremony?”
+126At one time on the observance day, there were two bhikkhus staying in a certain monastery. They thought: “The Buddha has instructed that the Monastic Code should be recited when there are four bhikkhus and that the observance-day ceremony should be done by declaring purity when there are three. But there’s only two of us. So how should we do the observance-day ceremony?”
 
 “When there are two of you, you should do the observance-day ceremony by declaring your purity.
 
@@ -925,19 +925,19 @@ The senior monk should put his upper robe over one shoulder, squat on his heels,
 
 127The junior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the senior monk: ‘I’m pure, Venerable. Please remember me as pure.’ And he should repeat this two more times.”
 
-128At one time on the observance day, a monk was staying in a certain monastery by himself. He thought: “The Buddha has instructed that the Monastic Code should be recited when there are four monks and that the observance-day ceremony should be done by declaring purity when there are two or three. But I’m here by myself. So how should I do the observance-day ceremony?”
+128At one time on the observance day, a monk was staying in a certain monastery by himself. He thought: “The Buddha has instructed that the Monastic Code should be recited when there are four bhikkhus and that the observance-day ceremony should be done by declaring purity when there are two or three. But I’m here by myself. So how should I do the observance-day ceremony?”
 
-“On the observance day, a monk might be staying by himself in a certain monastery. He should sweep the place where the monks normally go: whether the assembly hall, under a roof-cover, or at the foot of a tree. He should set out water for drinking and water for washing. He should prepare a seat, light a lamp, and sit down.
+“On the observance day, a monk might be staying by himself in a certain monastery. He should sweep the place where the bhikkhus normally go: whether the assembly hall, under a roof-cover, or at the foot of a tree. He should set out water for drinking and water for washing. He should prepare a seat, light a lamp, and sit down.
 
-If other monks arrive, he should do the observance-day ceremony with them. If not, he should determine: ‘Today is my observance day.’
+If other bhikkhus arrive, he should do the observance-day ceremony with them. If not, he should determine: ‘Today is my observance day.’
 
 If he doesn’t make a determination, he commits an offense of wrong conduct.
 
-129Wherever four monks are staying together, three shouldn’t recite the Monastic Code, while the purity of the fourth is brought. If you do recite the Monastic Code, you commit an offense of wrong conduct.
+129Wherever four bhikkhus are staying together, three shouldn’t recite the Monastic Code, while the purity of the fourth is brought. If you do recite the Monastic Code, you commit an offense of wrong conduct.
 
-Wherever three monks are staying together, two shouldn’t do the observance-day ceremony by declaring purity, while the purity of the third is brought. If you do declare purity, you commit an offense of wrong conduct.
+Wherever three bhikkhus are staying together, two shouldn’t do the observance-day ceremony by declaring purity, while the purity of the third is brought. If you do declare purity, you commit an offense of wrong conduct.
 
-Wherever two monks are staying together, one shouldn’t make a determination, while the purity of the other is brought. If you do make a determination, you commit an offense of wrong conduct.”
+Wherever two bhikkhus are staying together, one shouldn’t make a determination, while the purity of the other is brought. If you do make a determination, you commit an offense of wrong conduct.”
 
 #### 25. The process for making amends for an offense ^25
 
@@ -955,11 +955,11 @@ Wherever two monks are staying together, one shouldn’t make a determination, w
 
 132On the observance day, a monk may be unsure if he’s committed an offense. He should approach a monk, put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say, ‘I’m unsure if I’ve committed such-and-such an offense. I’ll make amends for it when I’m sure.’ He can then take part in the observance-day ceremony and listen to the recitation of the Monastic Code. This is not an obstacle to doing the observance-day ceremony.”
 
-133On one occasion the monks from the group of six confessed shared offenses to one another.
+133On one occasion the bhikkhus from the group of six confessed shared offenses to one another.
 
 “You should not confess shared offenses to one another. If you do, you commit an offense of wrong conduct.”
 
-134On one occasion the monks from the group of six received the confession of shared offenses from one another.
+134On one occasion the bhikkhus from the group of six received the confession of shared offenses from one another.
 
 “You should not receive the confession of shared offenses from one another. If you do, you commit an offense of wrong conduct.”
 
@@ -989,9 +989,9 @@ Wherever two monks are staying together, one shouldn’t make a determination, w
 > ```
 
 
-138At one time on the observance day, the whole saṅgha in a certain monastery had committed the same offense. Those monks thought: “The Buddha has laid down a rule that one shouldn’t confess or receive the confession of shared offenses. Yet here the whole saṅgha has committed the same offense. So what should we do?”
+138At one time on the observance day, the whole saṅgha in a certain monastery had committed the same offense. Those bhikkhus thought: “The Buddha has laid down a rule that one shouldn’t confess or receive the confession of shared offenses. Yet here the whole saṅgha has committed the same offense. So what should we do?”
 
-139“On the observance day, it may happen that the whole saṅgha in a certain monastery has committed the same offense. Those monks should straightaway send a monk to a neighboring monastery: ‘Go and make amends for this offense. When you return, we’ll make amends for it with you.’
+139“On the observance day, it may happen that the whole saṅgha in a certain monastery has committed the same offense. Those bhikkhus should straightaway send a monk to a neighboring monastery: ‘Go and make amends for this offense. When you return, we’ll make amends for it with you.’
 
 If he’s able to do this, it’s good. If he’s not, then a competent and capable monk should inform the Saṅgha:
 
@@ -1004,7 +1004,7 @@ If he’s able to do this, it’s good. If he’s not, then a competent and capa
 142‘Please, Venerables, I ask the Saṅgha to listen. This whole Saṅgha is unsure if it has committed the same offense. When the Saṅgha is sure, it should make amends for this offense.’ Once this has been said, they can do the observance-day ceremony and listen to the recitation of the Monastic Code. This is not an obstacle to doing the observance-day ceremony.
 
 
-143When a saṅgha has entered the rainy-season residence in a certain monastery, it may happen that the whole saṅgha has committed the same offense. Those monks should straightaway send a monk to a neighboring monastery: ‘Go and make amends for this offense. When you return, we’ll make amends for it with you.’
+143When a saṅgha has entered the rainy-season residence in a certain monastery, it may happen that the whole saṅgha has committed the same offense. Those bhikkhus should straightaway send a monk to a neighboring monastery: ‘Go and make amends for this offense. When you return, we’ll make amends for it with you.’
 
 If he’s able to do this, it’s good. If he’s not, they should send a monk under the seven-day allowance: ‘Go and make amends for this offense. When you return, we’ll make amends for it with you.’”
 
@@ -1013,9 +1013,9 @@ If he’s able to do this, it’s good. If he’s not, they should send a monk u
 
 The learned monk replied: “When someone does such-and-such, he’s committed an offense of this name. If you have committed this offense, you should make amends for it.” The other monk said: “It’s not just I alone who have committed this offense, but this whole saṅgha.” The learned monk said: “What does it matter to you whether others have or haven’t committed an offense? Please clear yourself of your own offense.”
 
-Then, because of what the learned monk had said, the other monk made amends for that offense. He then went to the other monks and said: “When someone does such-and-such, he’s committed an offense of this name. This is the offense that you’ve committed. You should make amends for it.” But in spite of what he had said, those monks did not want to make amends for that offense. They told the Buddha.
+Then, because of what the learned monk had said, the other monk made amends for that offense. He then went to the other bhikkhus and said: “When someone does such-and-such, he’s committed an offense of this name. This is the offense that you’ve committed. You should make amends for it.” But in spite of what he had said, those bhikkhus did not want to make amends for that offense. They told the Buddha.
 
-“In a case such as this, if those monks do make amends for that offense because of what that monk has said, then this is good. If they don’t, then that monk doesn’t need not correct them if he doesn’t want to.”
+“In a case such as this, if those bhikkhus do make amends for that offense because of what that monk has said, then this is good. If they don’t, then that monk doesn’t need not correct them if he doesn’t want to.”
 
 
 146The second section for recitation on the grounds for accusations is finished.
@@ -1030,65 +1030,65 @@ Then, because of what the learned monk had said, the other monk made amends for 
 > ```
 
 
-147At one time on the observance day, four or more resident monks had gathered in a monastery. They did not know that there were other resident monks who had not arrived. Perceiving that they were acting according to the Teaching and the Monastic Law, perceiving that the assembly was complete although it was not, they did the observance-day ceremony and recited the Monastic Code. While they were doing it, a greater number of resident monks arrived. They told the Buddha.
+147At one time on the observance day, four or more resident bhikkhus had gathered in a monastery. They did not know that there were other resident bhikkhus who had not arrived. Perceiving that they were acting according to the Teaching and the Monastic Law, perceiving that the assembly was complete although it was not, they did the observance-day ceremony and recited the Monastic Code. While they were doing it, a greater number of resident bhikkhus arrived. They told the Buddha.
 
-148“On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a greater number of resident monks arrive.
+148“On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a greater number of resident bhikkhus arrive.
 
-In such a case those monks should recite the Monastic Code once more. There’s no offense for the reciters.
+In such a case those bhikkhus should recite the Monastic Code once more. There’s no offense for the reciters.
 
-149On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, an equal number of resident monks arrive.
-
-In such a case, what has been recited is valid, and the remainder should be listened to. There’s no offense for the reciters.
-
-150On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a smaller number of resident monks arrive.
+149On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, an equal number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the remainder should be listened to. There’s no offense for the reciters.
 
-151On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, a greater number of resident monks arrive.
+150On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a smaller number of resident bhikkhus arrive.
 
-In such a case, those monks should recite the Monastic Code once more. There’s no offense for the reciters.
+In such a case, what has been recited is valid, and the remainder should be listened to. There’s no offense for the reciters.
 
-152On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, an equal number of resident monks arrive.
+151On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, a greater number of resident bhikkhus arrive.
 
-In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.
+In such a case, those bhikkhus should recite the Monastic Code once more. There’s no offense for the reciters.
 
-153On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, a smaller number of resident monks arrive.
-
-In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.
-
-154On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and none of the gathering has left, a greater number of resident monks arrive.
-
-In such a case, those monks should recite the Monastic Code once more. There’s no offense for the reciters.
-
-155On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and none of the gathering has left, an equal number of resident monks arrive.
+152On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, an equal number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.
 
-156On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and none of the gathering has left, a smaller number of resident monks arrive.
+153On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, a smaller number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.
 
-157On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and only some members of the gathering have left, a greater number of resident monks arrive.
+154On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and none of the gathering has left, a greater number of resident bhikkhus arrive.
 
-In such a case, those monks should recite the Monastic Code once more. There’s no offense for the reciters.
+In such a case, those bhikkhus should recite the Monastic Code once more. There’s no offense for the reciters.
 
-158On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and only some members of the gathering have left, an equal number of resident monks arrive.
-
-In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.
-
-159On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and only some members of the gathering have left, a smaller number of resident monks arrive.
+155On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and none of the gathering has left, an equal number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.
 
-160On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and the entire gathering has left, a greater number of resident monks arrive.
-
-In such a case, those monks should recite the Monastic Code once more. There’s no offense for the reciters.
-
-161On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and the entire gathering has left, an equal number of resident monks arrive.
+156On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and none of the gathering has left, a smaller number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.
 
-162On the observance day, four or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and the entire gathering has left, a smaller number of resident monks arrive.
+157On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and only some members of the gathering have left, a greater number of resident bhikkhus arrive.
+
+In such a case, those bhikkhus should recite the Monastic Code once more. There’s no offense for the reciters.
+
+158On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and only some members of the gathering have left, an equal number of resident bhikkhus arrive.
+
+In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.
+
+159On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and only some members of the gathering have left, a smaller number of resident bhikkhus arrive.
+
+In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.
+
+160On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and the entire gathering has left, a greater number of resident bhikkhus arrive.
+
+In such a case, those bhikkhus should recite the Monastic Code once more. There’s no offense for the reciters.
+
+161On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and the entire gathering has left, an equal number of resident bhikkhus arrive.
+
+In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.
+
+162On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished, and the entire gathering has left, a smaller number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s no offense for the reciters.”
 
@@ -1104,20 +1104,20 @@ In such a case, what has been recited is valid, and the late arrivals should ann
 > ```
 
 
-464“On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a greater number of resident monks arrive.
+464“On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a greater number of resident bhikkhus arrive.
 
-In such a case, those monks should recite the Monastic Code once more. There’s an offense of wrong conduct for the reciters.
+In such a case, those bhikkhus should recite the Monastic Code once more. There’s an offense of wrong conduct for the reciters.
 
-165On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, an equal number of resident monks arrive.
-
-In such a case, what has been recited is valid, and the remainder should be listened to. There’s an offense of wrong conduct for the reciters.
-
-166On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a smaller number of resident monks arrive.
+165On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, an equal number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the remainder should be listened to. There’s an offense of wrong conduct for the reciters.
 
+166On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a smaller number of resident bhikkhus arrive.
 
-167On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident monks arrive … an equal number of resident monks arrive … a smaller number of resident monks arrive.
+In such a case, what has been recited is valid, and the remainder should be listened to. There’s an offense of wrong conduct for the reciters.
+
+
+167On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident bhikkhus arrive … an equal number of resident bhikkhus arrive … a smaller number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s an offense of wrong conduct for the reciters.”
 
@@ -1133,21 +1133,21 @@ In such a case, what has been recited is valid, and the late arrivals should ann
 > ```
 
 
-169“On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘Is it allowable for us to do the observance-day ceremony, or isn’t it?’ Being unsure, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a greater number of resident monks arrive.
+169“On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘Is it allowable for us to do the observance-day ceremony, or isn’t it?’ Being unsure, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a greater number of resident bhikkhus arrive.
 
-In such a case, those monks should recite the Monastic Code once more. There’s an offense of wrong conduct for the reciters.
+In such a case, those bhikkhus should recite the Monastic Code once more. There’s an offense of wrong conduct for the reciters.
 
-170On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘Is it allowable for us to do the observance-day ceremony, or isn’t it?’ Being unsure, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, an equal number of resident monks arrive.
-
-In such a case, what has been recited is valid, and the remainder should be listened to. There’s an offense of wrong conduct for the reciters.
-
-
-171On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘Is it allowable for us to do the observance-day ceremony, or isn’t it?’ Being unsure, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a smaller number of resident monks arrive.
+170On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘Is it allowable for us to do the observance-day ceremony, or isn’t it?’ Being unsure, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, an equal number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the remainder should be listened to. There’s an offense of wrong conduct for the reciters.
 
 
-172On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘Is it allowable for us to do the observance-day ceremony, or isn’t it?’ Being unsure, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident monks arrive … an equal number of resident monks arrive … a smaller number of resident monks arrive.
+171On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘Is it allowable for us to do the observance-day ceremony, or isn’t it?’ Being unsure, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a smaller number of resident bhikkhus arrive.
+
+In such a case, what has been recited is valid, and the remainder should be listened to. There’s an offense of wrong conduct for the reciters.
+
+
+172On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘Is it allowable for us to do the observance-day ceremony, or isn’t it?’ Being unsure, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident bhikkhus arrive … an equal number of resident bhikkhus arrive … a smaller number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s an offense of wrong conduct for the reciters.”
 
@@ -1163,20 +1163,20 @@ In such a case, what has been recited is valid, and the late arrivals should ann
 > ```
 
 
-174“On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘It’s allowable for us to do the observance-day ceremony; it’s not unallowable.’ Being anxious, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a greater number of resident monks arrive.
+174“On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘It’s allowable for us to do the observance-day ceremony; it’s not unallowable.’ Being anxious, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a greater number of resident bhikkhus arrive.
 
-In such a case, those monks should recite the Monastic Code once more. There’s an offense of wrong conduct for the reciters.
+In such a case, those bhikkhus should recite the Monastic Code once more. There’s an offense of wrong conduct for the reciters.
 
-175On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘It’s allowable for us to do the observance-day ceremony; it’s not unallowable.’ Being anxious, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, an equal number of resident monks arrive.
-
-In such a case, what has been recited is valid, and the remainder should be listened to. There’s an offense of wrong conduct for the reciters.
-
-176On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘It’s allowable for us to do the observance-day ceremony; it’s not unallowable.’ Being anxious, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a smaller number of resident monks arrive.
+175On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘It’s allowable for us to do the observance-day ceremony; it’s not unallowable.’ Being anxious, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, an equal number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the remainder should be listened to. There’s an offense of wrong conduct for the reciters.
 
+176On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘It’s allowable for us to do the observance-day ceremony; it’s not unallowable.’ Being anxious, they do the observance-day ceremony and recite the Monastic Code. While they’re doing it, a smaller number of resident bhikkhus arrive.
 
-177On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘It’s allowable for us to do the observance-day ceremony; it’s not unallowable.’ Being anxious, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident monks arrive … an equal number of resident monks arrive … a smaller number of resident monks arrive.
+In such a case, what has been recited is valid, and the remainder should be listened to. There’s an offense of wrong conduct for the reciters.
+
+
+177On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘It’s allowable for us to do the observance-day ceremony; it’s not unallowable.’ Being anxious, they do the observance-day ceremony and recite the Monastic Code. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident bhikkhus arrive … an equal number of resident bhikkhus arrive … a smaller number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. There’s an offense of wrong conduct for the reciters.”
 
@@ -1192,63 +1192,63 @@ In such a case, what has been recited is valid, and the late arrivals should ann
 > ```
 
 
-179“On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. While they’re doing it, a greater number of resident monks arrive.
+179“On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. While they’re doing it, a greater number of resident bhikkhus arrive.
 
-In such a case, those monks should recite the Monastic Code once more. And there’s a serious offense for the reciters.
+In such a case, those bhikkhus should recite the Monastic Code once more. And there’s a serious offense for the reciters.
 
-180On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. While they’re doing it, an equal number of resident monks arrive.
-
-In such a case, what has been recited is valid, and the remainder should be listened to. And there’s a serious offense for the reciters.
-
-181On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. While they’re doing it, a smaller number of resident monks arrive.
+180On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. While they’re doing it, an equal number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the remainder should be listened to. And there’s a serious offense for the reciters.
 
-182On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, a greater number of resident monks arrive.
+181On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. While they’re doing it, a smaller number of resident bhikkhus arrive.
 
-In such a case, those monks should recite the Monastic Code once more. And there’s a serious offense for the reciters.
+In such a case, what has been recited is valid, and the remainder should be listened to. And there’s a serious offense for the reciters.
 
-183On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, an equal number of resident monks arrive.
+182On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, a greater number of resident bhikkhus arrive.
 
-In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.
+In such a case, those bhikkhus should recite the Monastic Code once more. And there’s a serious offense for the reciters.
 
-184On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, a smaller number of resident monks arrive.
-
-In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.
-
-185On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and none of the gathering has left, a greater number of resident monks arrive.
-
-In such a case, those monks should recite the Monastic Code once more. And there’s a serious offense for the reciters.
-
-186On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and none of the gathering has left, an equal number of resident monks arrive.
+183On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, an equal number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.
 
-187On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and none of the gathering has left, a smaller number of resident monks arrive.
+184On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, a smaller number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.
 
-188On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and only some members of the gathering have left, a greater number of resident monks arrive.
+185On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and none of the gathering has left, a greater number of resident bhikkhus arrive.
 
-In such a case, those monks should recite the Monastic Code once more. And there’s a serious offense for the reciters.
+In such a case, those bhikkhus should recite the Monastic Code once more. And there’s a serious offense for the reciters.
 
-189On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and only some members of the gathering have left, an equal number of resident monks arrive.
-
-In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.
-
-190On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and only some members of the gathering have left, a smaller number of resident monks arrive.
+186On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and none of the gathering has left, an equal number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.
 
-191On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and the entire gathering has left, a greater number of resident monks arrive.
-
-In such a case, those monks should recite the Monastic Code once more. And there’s a serious offense for the reciters.
-
-192On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and the entire gathering has left, an equal number of resident monks arrive.
+187On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and none of the gathering has left, a smaller number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.
 
-193On the observance day, four or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and the entire gathering has left, a smaller number of resident monks arrive.
+188On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and only some members of the gathering have left, a greater number of resident bhikkhus arrive.
+
+In such a case, those bhikkhus should recite the Monastic Code once more. And there’s a serious offense for the reciters.
+
+189On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and only some members of the gathering have left, an equal number of resident bhikkhus arrive.
+
+In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.
+
+190On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and only some members of the gathering have left, a smaller number of resident bhikkhus arrive.
+
+In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.
+
+191On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and the entire gathering has left, a greater number of resident bhikkhus arrive.
+
+In such a case, those bhikkhus should recite the Monastic Code once more. And there’s a serious offense for the reciters.
+
+192On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and the entire gathering has left, an equal number of resident bhikkhus arrive.
+
+In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.
+
+193On the observance day, four or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the observance-day ceremony and recite the Monastic Code, aiming at schism. When they’ve just finished, and the entire gathering has left, a smaller number of resident bhikkhus arrive.
 
 In such a case, what has been recited is valid, and the late arrivals should announce their purity in the presence of the others. And there’s a serious offense for the reciters.”
 
@@ -1264,42 +1264,42 @@ In such a case, what has been recited is valid, and the late arrivals should ann
 > ```
 
 
-195“On the observance day, four or more resident monks may have gathered in a monastery. They don’t know that other resident monks are entering the monastery zone. … They don’t know that other resident monks have entered the monastery zone. … They don’t see that other resident monks are entering the monastery zone. … They don’t see that other resident monks have entered the monastery zone. … They don’t hear that other resident monks are entering the monastery zone. … They don’t hear that other resident monks have entered the monastery zone. …”
+195“On the observance day, four or more resident bhikkhus may have gathered in a monastery. They don’t know that other resident bhikkhus are entering the monastery zone. … They don’t know that other resident bhikkhus have entered the monastery zone. … They don’t see that other resident bhikkhus are entering the monastery zone. … They don’t see that other resident bhikkhus have entered the monastery zone. … They don’t hear that other resident bhikkhus are entering the monastery zone. … They don’t hear that other resident bhikkhus have entered the monastery zone. …”
 
 
-196As there are one hundred and seventy-five sets of three for resident monks with resident monks, so there is for newly arrived monks with resident monks, resident monks with newly arrived monks, newly arrived monks with newly arrived monks. Thus by way of succession, there are seven hundred sets of three.
+196As there are one hundred and seventy-five sets of three for resident bhikkhus with resident bhikkhus, so there is for newly arrived bhikkhus with resident bhikkhus, resident bhikkhus with newly arrived bhikkhus, newly arrived bhikkhus with newly arrived bhikkhus. Thus by way of succession, there are seven hundred sets of three.
 
-197“It may be, monks, that for the resident monks it’s the fourteenth day of the lunar half-month, but for the newly arrived monks it’s the fifteenth. Then—
+197“It may be, bhikkhus, that for the resident bhikkhus it’s the fourteenth day of the lunar half-month, but for the newly arrived bhikkhus it’s the fifteenth. Then—
 
-If the number of resident monks is greater, the newly arrived monks should fall in line with the resident monks.
+If the number of resident bhikkhus is greater, the newly arrived bhikkhus should fall in line with the resident bhikkhus.
 
-If the number is the same, the newly arrived monks should fall in line with the resident monks.
+If the number is the same, the newly arrived bhikkhus should fall in line with the resident bhikkhus.
 
-If the number of newly arrived monks is greater, the resident monks should fall in line with the newly arrived monks.
+If the number of newly arrived bhikkhus is greater, the resident bhikkhus should fall in line with the newly arrived bhikkhus.
 
-198It may be that for the resident monks it’s the fifteenth day of the lunar half-month, but for the newly arrived monks it’s the fourteenth. Then—
+198It may be that for the resident bhikkhus it’s the fifteenth day of the lunar half-month, but for the newly arrived bhikkhus it’s the fourteenth. Then—
 
-If the number of resident monks is greater, the newly arrived monks should fall in line with resident monks.
+If the number of resident bhikkhus is greater, the newly arrived bhikkhus should fall in line with resident bhikkhus.
 
-If the number is the same, the newly arrived monks should fall in line with resident monks.
+If the number is the same, the newly arrived bhikkhus should fall in line with resident bhikkhus.
 
-If the number of newly arrived monks is greater, the resident monks should fall in line with the newly arrived monks.
+If the number of newly arrived bhikkhus is greater, the resident bhikkhus should fall in line with the newly arrived bhikkhus.
 
-199It may be that for the resident monks it’s the day after the observance day, but for the newly arrived monks it’s the fifteenth day of the lunar half-month. Then—
+199It may be that for the resident bhikkhus it’s the day after the observance day, but for the newly arrived bhikkhus it’s the fifteenth day of the lunar half-month. Then—
 
-If the number of resident monks is greater, the resident monks may, if they’re willing, do the observance-day ceremony with the newly arrived monks. Otherwise the newly arrived monks should go outside the monastery zone and do the observance-day ceremony there.
+If the number of resident bhikkhus is greater, the resident bhikkhus may, if they’re willing, do the observance-day ceremony with the newly arrived bhikkhus. Otherwise the newly arrived bhikkhus should go outside the monastery zone and do the observance-day ceremony there.
 
-If the number is the same, the resident monks may, if they’re willing, do the observance-day ceremony with the newly arrived monks. Otherwise the newly arrived monks should go outside the monastery zone and do the observance-day ceremony there.
+If the number is the same, the resident bhikkhus may, if they’re willing, do the observance-day ceremony with the newly arrived bhikkhus. Otherwise the newly arrived bhikkhus should go outside the monastery zone and do the observance-day ceremony there.
 
-If the number of newly arrived monks is greater, the resident monks should do the observance-day ceremony with the newly arrived monks, or they should go outside the monastery zone while the newly arrived monks do the observance-day ceremony.
+If the number of newly arrived bhikkhus is greater, the resident bhikkhus should do the observance-day ceremony with the newly arrived bhikkhus, or they should go outside the monastery zone while the newly arrived bhikkhus do the observance-day ceremony.
 
-200It may be that for the resident monks it’s the fifteenth day of the lunar half-month, but for the newly arrived monks it’s the day after the observance day. Then—
+200It may be that for the resident bhikkhus it’s the fifteenth day of the lunar half-month, but for the newly arrived bhikkhus it’s the day after the observance day. Then—
 
-If the number of resident monks is greater, the newly arrived monks should do the observance-day ceremony with the resident monks, or they should go outside the monastery zone while the resident monks do the observance-day ceremony.
+If the number of resident bhikkhus is greater, the newly arrived bhikkhus should do the observance-day ceremony with the resident bhikkhus, or they should go outside the monastery zone while the resident bhikkhus do the observance-day ceremony.
 
-If the number is the same, the newly arrived monks should do the observance-day ceremony with the resident monks, or they should go outside the monastery zone while the resident monks do the observance-day ceremony.
+If the number is the same, the newly arrived bhikkhus should do the observance-day ceremony with the resident bhikkhus, or they should go outside the monastery zone while the resident bhikkhus do the observance-day ceremony.
 
-If the number of newly arrived monks is greater, they may, if they’re willing, do the observance-day ceremony with the resident monks. Otherwise the resident monks should go outside the monastery zone and do the observance-day ceremony there.”
+If the number of newly arrived bhikkhus is greater, they may, if they’re willing, do the observance-day ceremony with the resident bhikkhus. Otherwise the resident bhikkhus should go outside the monastery zone and do the observance-day ceremony there.”
 
 #### 34. The seeing of characteristics, etc. ^34
 
@@ -1311,7 +1311,7 @@ If the number of newly arrived monks is greater, they may, if they’re willing,
 > ```
 
 
-201“It may happen that newly arrived monks see signs and indications of resident monks: beds and benches that are made up, water for drinking and water for washing that are ready for use, yards that are well swept. As a consequence, they’re unsure whether or not there are resident monks there. Then—
+201“It may happen that newly arrived bhikkhus see signs and indications of resident bhikkhus: beds and benches that are made up, water for drinking and water for washing that are ready for use, yards that are well swept. As a consequence, they’re unsure whether or not there are resident bhikkhus there. Then—
 
 
 If they do the observance-day ceremony without investigating, there’s an offense of wrong conduct.
@@ -1325,7 +1325,7 @@ If they investigate, and they see someone, but then do the observance-day ceremo
 
 If they investigate, and they see someone, but think, ‘May they get lost! May they disappear! We are better off without them.’ and then do the observance-day ceremony aiming at schism, there’s a serious offense.
 
-202It may happen that newly arrived monks hear signs and indications of resident monks: the sound of the feet of someone doing walking meditation, the sound of recitation, the sound of coughing, the sound of sneezing. As a consequence, they’re unsure whether or not there are resident monks there. Then—
+202It may happen that newly arrived bhikkhus hear signs and indications of resident bhikkhus: the sound of the feet of someone doing walking meditation, the sound of recitation, the sound of coughing, the sound of sneezing. As a consequence, they’re unsure whether or not there are resident bhikkhus there. Then—
 
 If they do the observance-day ceremony without investigating, there’s an offense of wrong conduct.
 
@@ -1337,7 +1337,7 @@ If they investigate, and they see someone, but then do the observance-day ceremo
 
 If they investigate, and they see someone, but think, ‘May they get lost! May they disappear! We are better off without them,’ and then do the observance-day ceremony aiming at schism, there’s a serious offense.
 
-203It may happen that resident monks see signs and indications of newly arrived monks: an unknown almsbowl, an unknown robe, an unknown sitting mat, water poured on the ground from the washing of feet. As a consequence, they’re unsure whether or not monks have arrived. Then—
+203It may happen that resident bhikkhus see signs and indications of newly arrived bhikkhus: an unknown almsbowl, an unknown robe, an unknown sitting mat, water poured on the ground from the washing of feet. As a consequence, they’re unsure whether or not bhikkhus have arrived. Then—
 
 
 If they do the observance-day ceremony without investigating, there’s an offense of wrong conduct.
@@ -1351,7 +1351,7 @@ If they investigate, and they see someone, but then do the observance-day ceremo
 
 If they investigate, and they see someone, but think, ‘May they get lost! May they disappear! We are better off without them,’ and then do the observance-day ceremony aiming at schism, there’s a serious offense.
 
-204It may happen that resident monks hear signs and indications of newly arrived monks: the sound of the feet of someone arriving, the sound of sandals being knocked together, the sound of coughing, the sound of sneezing. As a consequence, they’re unsure whether or not monks have arrived. Then—
+204It may happen that resident bhikkhus hear signs and indications of newly arrived bhikkhus: the sound of the feet of someone arriving, the sound of sandals being knocked together, the sound of coughing, the sound of sneezing. As a consequence, they’re unsure whether or not bhikkhus have arrived. Then—
 
 
 If they do the observance-day ceremony without investigating, there’s an offense of wrong conduct.
@@ -1374,40 +1374,40 @@ If they investigate, and they see someone, but think, ‘May they get lost! May 
 > ```
 
 
-205“It may happen that newly arrived monks see resident monks who belong to a different Buddhist sect, but they have the view that they belong to the same one. Then—
+205“It may happen that newly arrived bhikkhus see resident bhikkhus who belong to a different Buddhist sect, but they have the view that they belong to the same one. Then—
 
-If they don’t ask the resident monks about it, and then do the observance-day ceremony together, there’s no offense.
+If they don’t ask the resident bhikkhus about it, and then do the observance-day ceremony together, there’s no offense.
 
-If they do ask the resident monks about it, but don’t reach a clear conclusion, and then do the observance-day ceremony together, there’s an offense of wrong conduct.
+If they do ask the resident bhikkhus about it, but don’t reach a clear conclusion, and then do the observance-day ceremony together, there’s an offense of wrong conduct.
 
-If they do ask the resident monks about it, but don’t reach a clear conclusion, and then do the observance-day ceremony separately, there’s no offense.
-
-
-206It may happen that newly arrived monks see resident monks who belong to the same Buddhist sect, but they have the view that they belong to a different one. Then—
-
-If they don’t ask the resident monks about it, and then do the observance-day ceremony together, there’s an offense of wrong conduct.
-
-If they do ask the resident monks about it, and they change their view, but then do the observance-day ceremony separately, there’s an offense of wrong conduct.
-
-If they do ask the resident monks about it, and they change their view, and then do the observance-day ceremony together, there’s no offense.
+If they do ask the resident bhikkhus about it, but don’t reach a clear conclusion, and then do the observance-day ceremony separately, there’s no offense.
 
 
-207It may happen that resident monks see newly arrived monks who belong to a different Buddhist sect, but they have the view that they belong to the same one. Then—
+206It may happen that newly arrived bhikkhus see resident bhikkhus who belong to the same Buddhist sect, but they have the view that they belong to a different one. Then—
 
-If they don’t ask the newly arrived monks about it, and then do the observance-day ceremony together, there’s no offense.
+If they don’t ask the resident bhikkhus about it, and then do the observance-day ceremony together, there’s an offense of wrong conduct.
 
-If they do ask the newly arrived monks about it, but don’t reach a clear conclusion, and then do the observance-day ceremony together, there’s an offense of wrong conduct.
+If they do ask the resident bhikkhus about it, and they change their view, but then do the observance-day ceremony separately, there’s an offense of wrong conduct.
 
-If they do ask the newly arrived monks about it, but don’t reach a clear conclusion, and then do the observance-day ceremony separately, there’s no offense.
+If they do ask the resident bhikkhus about it, and they change their view, and then do the observance-day ceremony together, there’s no offense.
 
 
-208It may happen that resident monks see newly arrived monks who belong to the same Buddhist sect, but they have the view that they belong to a different one. Then—
+207It may happen that resident bhikkhus see newly arrived bhikkhus who belong to a different Buddhist sect, but they have the view that they belong to the same one. Then—
 
-If they don’t ask the newly arrived monks about it, and then do the observance-day ceremony together, there’s an offense of wrong conduct.
+If they don’t ask the newly arrived bhikkhus about it, and then do the observance-day ceremony together, there’s no offense.
 
-If they do ask the newly arrived monks about it, and they change their view, but then do the observance-day ceremony separately, there’s an offense of wrong conduct.
+If they do ask the newly arrived bhikkhus about it, but don’t reach a clear conclusion, and then do the observance-day ceremony together, there’s an offense of wrong conduct.
 
-If they do ask the newly arrived monks about it, and they change their view, and then do the observance-day ceremony together, there’s no offense.”
+If they do ask the newly arrived bhikkhus about it, but don’t reach a clear conclusion, and then do the observance-day ceremony separately, there’s no offense.
+
+
+208It may happen that resident bhikkhus see newly arrived bhikkhus who belong to the same Buddhist sect, but they have the view that they belong to a different one. Then—
+
+If they don’t ask the newly arrived bhikkhus about it, and then do the observance-day ceremony together, there’s an offense of wrong conduct.
+
+If they do ask the newly arrived bhikkhus about it, and they change their view, but then do the observance-day ceremony separately, there’s an offense of wrong conduct.
+
+If they do ask the newly arrived bhikkhus about it, and they change their view, and then do the observance-day ceremony together, there’s no offense.”
 
 #### 36. The section on “you shouldn’t go” ^36
 
@@ -1419,17 +1419,17 @@ If they do ask the newly arrived monks about it, and they change their view, and
 > ```
 
 
-209“On the observance day you shouldn’t go from a monastery with monks to a monastery without monks, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery with monks to a non-monastery without monks, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery with monks to a monastery or a non-monastery without monks, except if you go with a saṅgha or there are dangers.
+209“On the observance day you shouldn’t go from a monastery with bhikkhus to a monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery with bhikkhus to a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery with bhikkhus to a monastery or a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers.
 
-210On the observance day you shouldn’t go from a non-monastery with monks to a monastery without monks, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a non-monastery with monks to a non-monastery without monks, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a non-monastery with monks to a monastery or a non-monastery without monks, except if you go with a saṅgha or there are dangers.
+210On the observance day you shouldn’t go from a non-monastery with bhikkhus to a monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a non-monastery with bhikkhus to a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a non-monastery with bhikkhus to a monastery or a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers.
 
-211On the observance day you shouldn’t go from a monastery or a non-monastery with monks to a monastery without monks, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery or a non-monastery with monks to a non-monastery without monks, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery or a non-monastery with monks to a monastery or a non-monastery without monks, except if you go with a saṅgha or there are dangers.
+211On the observance day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a monastery or a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers.
 
-212On the observance day you shouldn’t go from a monastery with monks to a monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery with monks to a monastery or a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.
+212On the observance day you shouldn’t go from a monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery with bhikkhus to a monastery or a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.
 
-213On the observance day you shouldn’t go from a non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a non-monastery with monks to a monastery or a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.
+213On the observance day you shouldn’t go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a non-monastery with bhikkhus to a monastery or a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.
 
-214On the observance day you shouldn’t go from a monastery or a non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery or a non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery or a non-monastery with monks to a monastery or a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.”
+214On the observance day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the observance day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a monastery or a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.”
 
 #### 37. The section on “you may go” ^37
 
@@ -1441,11 +1441,11 @@ If they do ask the newly arrived monks about it, and they change their view, and
 > ```
 
 
-215“On the observance day you may go from a monastery with monks to a monastery with monks who belong to the same Buddhist sect if you know you’ll get there on the same day. On the observance day you may go from a monastery with monks to a non-monastery with monks … to a monastery or a non-monastery with monks who belong to the same Buddhist sect if you know you’ll get there on the same day.
+215“On the observance day you may go from a monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if you know you’ll get there on the same day. On the observance day you may go from a monastery with bhikkhus to a non-monastery with bhikkhus … to a monastery or a non-monastery with bhikkhus who belong to the same Buddhist sect if you know you’ll get there on the same day.
 
-216On the observance day you may go from a non-monastery with monks to a monastery with monks … to a non-monastery with monks … to a monastery or a non-monastery with monks who belong to the same Buddhist sect if you know you’ll get there on the same day.
+216On the observance day you may go from a non-monastery with bhikkhus to a monastery with bhikkhus … to a non-monastery with bhikkhus … to a monastery or a non-monastery with bhikkhus who belong to the same Buddhist sect if you know you’ll get there on the same day.
 
-217On the observance day you may go from a monastery or a non-monastery with monks to a monastery with monks … to a non-monastery with monks … to a monastery or a non-monastery with monks who belong to the same Buddhist sect if you know you’ll get there on the same day.”
+217On the observance day you may go from a monastery or a non-monastery with bhikkhus to a monastery with bhikkhus … to a non-monastery with bhikkhus … to a monastery or a non-monastery with bhikkhus who belong to the same Buddhist sect if you know you’ll get there on the same day.”
 
 #### 38. The showing of persons to be avoided ^38
 

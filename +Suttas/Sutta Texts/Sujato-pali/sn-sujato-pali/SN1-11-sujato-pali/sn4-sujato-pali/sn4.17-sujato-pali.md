@@ -22,13 +22,13 @@ language: "English - Pali"
 
 1At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof.
 
-Now at that time the Buddha was educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk on the topic of the six fields of contact. And those mendicants were paying heed, paying attention, engaging wholeheartedly, and lending an ear.
+Now at that time the Buddha was educating, encouraging, firing up, and inspiring the bhikkhus with a Dhamma talk on the topic of the six fields of contact. And those bhikkhus were paying heed, paying attention, engaging wholeheartedly, and lending an ear.
 
-2Then Māra thought: “This ascetic Gotama is educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk on the topic of the six fields of contact. And those mendicants are paying heed, paying attention, engaging wholeheartedly, and lending an ear. Why don’t I go and pull the wool over their eyes?”
+2Then Māra thought: “This ascetic Gotama is educating, encouraging, firing up, and inspiring the bhikkhus with a Dhamma talk on the topic of the six fields of contact. And those bhikkhus are paying heed, paying attention, engaging wholeheartedly, and lending an ear. Why don’t I go and pull the wool over their eyes?”
 
-Then Māra the Wicked went up to the Buddha and made a terrifyingly loud noise close by him. It seemed as if the earth were shattering, so that one of the mendicants said to another: “Mendicant, mendicant, it seems like the earth is shattering!”
+Then Māra the Wicked went up to the Buddha and made a terrifyingly loud noise close by him. It seemed as if the earth were shattering, so that one of the bhikkhus said to another: “bhikkhu, bhikkhu, it seems like the earth is shattering!”
 
-When this was said, the Buddha said to that mendicant: “Mendicant, that’s not the earth shattering. That’s Māra the Wicked come to pull the wool over your eyes!”
+When this was said, the Buddha said to that bhikkhu: “bhikkhu, that’s not the earth shattering. That’s Māra the Wicked come to pull the wool over your eyes!”
 
 
 Then the Buddha, knowing that this was Māra the Wicked, addressed him in verse:

@@ -17,12 +17,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“These three things, mendicants, lead to hurting yourself, hurting others, and hurting both. What three? Bad conduct by way of body, speech, and mind.
+1“These three things, bhikkhus, lead to hurting yourself, hurting others, and hurting both. What three? Bad conduct by way of body, speech, and mind.
 
 These are three things that lead to hurting yourself, hurting others, and hurting both.
 
 
-2These three things, mendicants, don’t lead to hurting yourself, hurting others, or hurting both. What three? Good conduct by way of body, speech, and mind.
+2These three things, bhikkhus, don’t lead to hurting yourself, hurting others, or hurting both. What three? Good conduct by way of body, speech, and mind.
 
 These are three things that don’t lead to hurting yourself, hurting others, or hurting both.”
 

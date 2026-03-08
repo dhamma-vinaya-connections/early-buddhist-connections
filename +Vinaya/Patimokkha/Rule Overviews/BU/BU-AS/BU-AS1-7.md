@@ -22,12 +22,12 @@ vin_severity:
   - ""
 vin_sangha_acts:
   - "Motion-3proclamation"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-AS1-7"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-SK75]] 🌐 [[BNI-PJ1]] ►
 
-# Monks - Adhikarana samatha - Settling issues
+# bhikkhus - Adhikarana samatha - Settling issues
 ##  - 
 ## BU-AS1-7 - Adhikarana samatha - Settling issues
 
@@ -52,7 +52,7 @@ vin_gender-corr: "BNI-AS1-7"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-AS1-7 | [[BNI-AS1-7]] | Vin.3.1–3.40 |
 

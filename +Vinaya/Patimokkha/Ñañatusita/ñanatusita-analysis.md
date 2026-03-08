@@ -356,7 +356,7 @@ xi
 ## Preface
 
 This work is a study and word by word translation of the _Bhikkhu-  
-pātimokkha_ , the Code of Discipline of Buddhist monks. It is intended  
+pātimokkha_ , the Code of Discipline of Buddhist bhikkhus. It is intended  
 for bhikkhus, but it could also be of interest of those who are  
 studying Pali or Buddhist monastic law.  
 The main part of the book is the word by word translation of  
@@ -469,7 +469,7 @@ Confession of Priests, Journal of the Royal Asiatic Society, New
 Series VIII_ : 62–130, 1876.  
 Duroiselle, C. _A Practical Grammar of the Pāli Language_ ; Rangoon,
 
-Dutt, S. _Buddhist Monks and Monasteries of India_ ; Delhi, 1988.  
+Dutt, S. _Buddhist bhikkhus and Monasteries of India_ ; Delhi, 1988.  
 Edgerton, F. _Buddhist Hybrid Sanskrit Grammar and Dictionary_ I–II,  
 Edgerton, New Haven, 1953.  
 Emms, C. _Evidence for Two Mūlasarvāstivādin Vinaya Traditions in  
@@ -488,11 +488,11 @@ London, 1990: 21–30.
 —. “Pātimokkha: purgative.” In _Studies in Buddhism and culture in  
 honour of Professor Dr. Egaku Mayeda on his sixty-fifth birthday_.  
 Editorial Committee, eds. Tokyo, 1991: 31–38.  
-Gyatso, Tenzin. _Advice from Buddha Shakyamuni concerning a monk’s  
+Gyatso, Tenzin. _Advice from Buddha Shakyamuni concerning a bhikkhu’s  
 Discipline_. Dharamsala, 1986.  
 Hazra, K. L. _History of Theravāda Buddhism in South-east Asia_ ; Delhi,
 
-Heirman, Ann. “Some remarks on the definition of a Monk and a Nun  
+Heirman, Ann. “Some remarks on the definition of a bhikkhu and a Nun  
 as members of a community and the Definition of **‘** Not to live in  
 Community’”; _Indian Journal of Buddhist Studies_ 7, 1995: 1–22.  
 —. “On Pārājika”; Buddhist Srudies Review, Vol. 16, No. 1, 1999: 51–
@@ -991,14 +991,14 @@ identical with the preceding Colombo Museum manuscript. It is
 found in a plain hardwood cover in the collection of the  
 Watärakapansala in the Malwatta Vihāra complex in Kandy. On the  
 first leaf it says: _Watärakapansala_. There is one leaf at the end which  
-states the ordination of two monks and their _upajjhāyas_ and  
+states the ordination of two bhikkhus and their _upajjhāyas_ and  
 _kammācāriyas_ , one called Pūndulupota Revata with Moratoṭa  
 Dhammakkhandha nāyaka as _upajjhāya_ , the other Waṭaraka Sobhita  
 with Parakumbure Vipassī Anunāyaka as _upajjhāya_. The date of  
 ordination is the Wesak full moon in the year 2338 of the Buddha era  
 (1795 CE). At the end of a Pātimokkha manuscript found in the  
 Sirimalwattapansala in Malwatta and the Potgulvihāra in Mänikhina  
-there is a similar leaf stating the ordination date of a monk and further  
+there is a similar leaf stating the ordination date of a bhikkhu and further  
 details. This suggests that in the Malwatta tradition the Pātimokkha  
 was given as a special gift to newly ordained bhikkhus at their  
 _upasampadā_ ceremonies.  
@@ -1020,7 +1020,7 @@ Sinhalese Manuscripts xxv
 
 it is found attached to a few Khom script Pātimokkha manuscripts  
 found in French collections. It probably is a copy of a Siamese Khom  
-script manuscript brought to Sri Lanka by Siamese monks in the 18th  
+script manuscript brought to Sri Lanka by Siamese bhikkhus in the 18th  
 century century. It contains the same Sekhiya section chapter titles as  
 the Khom script _Bhikkhupātimokkha_ manuscript mentioned in  
 _Catalogue of Cambodian and Burmese Pāli Manuscripts_ [C.E.  
@@ -1240,7 +1240,7 @@ translation more readable.
 
 ### 1. The Pātimokkha and its Meaning
 
-The _Bhikkhupātimokkha_ , or Code of Discipline for Buddhist monks,  
+The _Bhikkhupātimokkha_ , or Code of Discipline for Buddhist bhikkhus,  
 consists of two hundred and twenty training precepts ( _sikkhāpada_ )  
 divided into seven classes or groups: 4 _pārājika_ , 13 _saṅghādisesa_ , 2 _aniy-  
 ata_ , 30 _nissaggiya pācittiya_ , 92 _pācittiya_ , 4 _pāṭidesanīya_ , and 75 _sekhiya_.  
@@ -1478,7 +1478,7 @@ upon the same obscure phrase as von Hinüber does— _osadhīnaṃ
 paṭimokkho—_ but interprets it instead as “getting rid of medicines” in  
 accordance with PED’s “a sort of remedy, purgative” as the meaning  
 of _paṭimokkha_. The phrase, which is found in a list of medical  
-procedures that a monk should not do as a profession, is explained by  
+procedures that a bhikkhu should not do as a profession, is explained by  
 Buddhaghosa as: _khārādīni datvā tadanurūpe khaṇe gate tesaṃ  
 apanayanaṃ_ , which Gombrich (p. 35) translates as: “after one has  
 given alkalines, etc., removing them when the time befitting them has  
@@ -1498,7 +1498,7 @@ confess offenses against the monastic code and so to recover their state
 of innocence before the offense. The Jains expressed this recovery by  
 a metaphor from walking, the Buddhists by a metaphor of purifying  
 or purgation. The _pātimokkha_ , by a medical metaphor, was that  
-ceremony, and the set of rules used in the ceremony, by which monks  
+ceremony, and the set of rules used in the ceremony, by which bhikkhus  
 were purged and purified of their offenses, so that they felt  
 comfortable again.” According to Gombrich (p. 35) _pātimokkha_ is  
 “probably a _vṛddhi taddhita_ form from _pāṭimokkha_ , so ‘to do with  
@@ -1791,7 +1791,7 @@ Mahāsāṃghika and Mahāsāṃghika Lokottaravādin Prātimokṣasūtra
     The account of the first council in the Mahīśāsaka Vinaya (T22n1421_  
     p0191a12–14) has: “Thus the Bhikkhu-vinaya and thus the Bhikkhunī-vinaya are  
     both together called Vinaya-piṭaka.” One recension of the Mahāparinirvāṇasūtra  
-    (T01n0005_p0175c08–9) states that 250 precepts for monks were recited, and 500  
+    (T01n0005_p0175c08–9) states that 250 precepts for bhikkhus were recited, and 500  
     for nuns. The word _vinaya_ itself does not appear.  
     In the Mā and Sv schools the terms _Bhikṣu_ - and _Bhikṣuṇī-vinaya_ are used to  
     denote the overall division into two parts of the texts related to the bhikṣu- and  
@@ -2009,7 +2009,7 @@ unable to recite it, then another competent bhikkhu can be appointed
 by him to recite. If there is no bhikkhu who can recite the  
 Pātimokkha in a residence, then one bhikkhu should be sent  
 elsewhere to master it from a Pātimokkha reciter; Mv II 17,5/Vin 116.  
-This shows that monks used to recite the Pātimokkha together in  
+This shows that bhikkhus used to recite the Pātimokkha together in  
 order to learn it. Nowadays, however, bhikkhus learn the  
 Pātimokkha from textbooks.  
 In Sri Lanka the Pātimokkha is often recited from the textbook,  
@@ -2385,15 +2385,15 @@ remembered discourses and monastic regulations taught by the
 Buddha and taught them to their disciples. This homogenization  
 would certainly have happened to a greater extent at the first council  
 and in subsequent councils when collective recitations, _saṅgīti_ , were  
-held. At a council it would not have been possible for the monks to  
+held. At a council it would not have been possible for the bhikkhus to  
 recite together the Pātimokkha and the rest of the Buddha-vacana in  
 different dialects. A standardized, commonly understood language  
 would also have been necessary for Buddhism to be taught outside of  
 the Middle Country.  
-However, at monastic learning centres where young monks  
-would go to learn the Vinaya and the Dhamma, all monks would  
+However, at monastic learning centres where young bhikkhus  
+would go to learn the Vinaya and the Dhamma, all bhikkhus would  
 have recited in the same dialect as their reciter teachers. It is likely  
-that the reciter and teacher monks would have slightly adapted the  
+that the reciter and teacher bhikkhus would have slightly adapted the  
 inflection and structure of words to ones they used in their own  
 dialects to make them more understandable to their students. For  
 example, all nominative singular endings in - _e_ could have been  
@@ -2502,7 +2502,7 @@ confused, giving rise to the readings _anībhata_ - & _anīhata_ - at Pācit
     transactions were held with the other group that would have required  
     to be done in the same language and wording (see von Hinüber 1989:  
     352, quoted below). Members of one of the schools—most likely  
-    educated monks who were familiar with Sanskrit and were teaching  
+    educated bhikkhus who were familiar with Sanskrit and were teaching  
     and studying at a large monastic learning centre at a large town such as  
     Mathurā or Pāṭaliputra—would have felt that Buddhist Canonical texts  
     were to be converted to Sanskrit to keep up with the times. Other  
@@ -2552,8 +2552,8 @@ monastic learning centres in and around Mathurā and Pāṭaliputra, etc.
 (see Roth 1970: ix–x). These educational centres would have been the  
 main sources for school affiliation and textual tradition and played a  
 cohesive role, just as the Mahāvihāra and Abhayagiri Vihāra  
-monasteries did in Sri Lanka.^50 Learned teacher monks would reside  
-here and monks, mostly young, would come to these monastic  
+monasteries did in Sri Lanka.^50 Learned teacher bhikkhus would reside  
+here and bhikkhus, mostly young, would come to these monastic  
 colleges (called _pariveṇa_ in later Pali texts, and _piriveṇa_ nowadays in  
 Sri Lanka) to learn the texts, doctrinal tenets and vinaya standards of  
 the school—just as they do nowadays when they go to large Buddhist  
@@ -2575,7 +2575,7 @@ regularly by the saṃgha that is the _karmavācanā_. As we learn from
 later legal literature of the Buddhists such as the _Samantapāsādikā_ , it is  
 essential that at least the _upasampadā kammavācā_ is recited with  
 utmost linguistic precision in wording as well as in phonetics. If this is  
-not achieved, the ordination of a monk cannot be considered as valid.  
+not achieved, the ordination of a bhikkhu cannot be considered as valid.  
 Therefore, the acceptance of one linguistic form or other of a  
 _karmavācanā_ almost necessarily leads to a split in the tradition of the  
 ordination, or to the formation of a new Vinaya school in the  
@@ -2601,7 +2601,7 @@ scriptures. This choice could be stuck to once and for all, what the
     education centres left, Buddhist monasticism and along with it Buddhist  
     scriptures disappeared. In contrast, the revival of monastic Buddhism in Sri Lanka  
     in the eighteenth and nineteenth century depended on large monastic learning  
-    centres such as Malwatta Vihāra or the Ambarukkhārāmaya, where monks from  
+    centres such as Malwatta Vihāra or the Ambarukkhārāmaya, where bhikkhus from  
     Thailand and Burma taught. Pali texts that had been lost in Sri Lanka were  
     brought from Thailand and Burma to these monasteries and from there were  
     transmitted to branch monasteries.
@@ -2626,7 +2626,7 @@ _saṅghādisesa_ was reinterpreted and replaced with _saṃghāvaśeṣa_. Te
 such as _pācittiya_ (which might not have been the original form of the  
 word) were sometimes changed to locally used versions of other Bud-  
 dhist schools, such as _pācattikā, pāyantikā, pāyattikā,_ and _pātayantikā_  
-(see von Hinüber 1985: 62–67, Strauch 2008: 26). A monk who sanskri-  
+(see von Hinüber 1985: 62–67, Strauch 2008: 26). A bhikkhu who sanskri-  
 tized a text and wanted to save himself work could have looked at the  
 version of another school that was available to him and adapted his text  
 in accordance with the other text. The wording and sanskritization of  
@@ -2809,7 +2809,7 @@ change is that the Mahavihāra Theravādins who transmitted it were
 relatively isolated on the island of Sri Lanka (cf. von Hinüber 1989:  
 353). In the great monastic study centres in Northern India and  
 Gandhara there would have been much more mingling of members of  
-the various schools. For example, the Mahāsāṃghika monks in  
+the various schools. For example, the Mahāsāṃghika bhikkhus in  
 Bāmiyān could have compared their Prātimokṣa text with the  
 Mūlasarvāstivādin version from a neighbouring monastery and could  
 have “improved” the language of their own text here and there when  
@@ -2821,10 +2821,10 @@ The only major difference between the Pali Pātimokkha editions
 from different Theravāda traditions is in the various introductory  
 sections on the preliminary duties. For example, the Dhammayuttika  
 Nikāya in Thailand adapted the Mahānikāya question-and-answer  
-preliminary duties introduction recited by two monks and changed it  
-into a solo version which one monk recites (see § 4). These sections,  
+preliminary duties introduction recited by two bhikkhus and changed it  
+into a solo version which one bhikkhu recites (see § 4). These sections,  
 however, are not part of the Pātimokkha and they are therefore not  
-fixed by the commentaries, giving monks of different monastic  
+fixed by the commentaries, giving bhikkhus of different monastic  
 lineages the opportunity to change it without the danger of incurring  
 blame for tampering with the canonized words of the Buddha.  
 The Pali Pātimokkha, in terms of language (by having the most  
@@ -2972,15 +2972,15 @@ reciters or editors in the same way as the last chapter of the pācittiya-
     of the chapter. The order of rules in the corresponding chapter of the Msg-L  
     _Prātimokṣasutra_ is Pali Pācittiyas 13–11–12–14, etc. All other schools have the rule  
     corresponding to Pali Pāc 11 at the start of this chapter.
-55. I am using the word “editor” for convenience. It is unlikely that a monk  
+55. I am using the word “editor” for convenience. It is unlikely that a bhikkhu  
     deliberately edited the text in the modern sense of the word, not least because at  
     first there were no written texts for several centuries. However, there are clear  
     indications that during the transmission, whether recited or written, of Pali texts,  
-    monks changed the order of rules, added or changed rule-, introduction- and  
+    bhikkhus changed the order of rules, added or changed rule-, introduction- and  
     conclusion-titles, preferred certain (Sankritised) spellings of words above others,  
     etc. This is a process that continues to take place. At the councils held in Burma  
     and Thailand editing took place. According to accounts, texts were “‘purified”  
-    from corruptions. During the sixth council Sinhalese and Burmese monks had  
+    from corruptions. During the sixth council Sinhalese and Burmese bhikkhus had  
     disagreements about what were appropriate readings and the Burmese took the  
     upper hand.
 
@@ -3378,7 +3378,7 @@ the Pātimokkha recitation. Venerable Sir, let Venerable (Tissa) recite
 the Pātimokkha!”  
 (Reciter:) “Yes friend, I shall recite.”  
 The origin of this request is the Mahāvagga which mentions in  
-an origin-story that monks invited the senior bhikkhu, or another  
+an origin-story that bhikkhus invited the senior bhikkhu, or another  
 bhikkhu, to recite the Pātimokkha by saying: “Let the Venerable Sir  
 recite the Pātimokkha.”^64 There is more on this in the section “‘The  
 Invitation by the Elder” below.  
@@ -3937,8 +3937,8 @@ uposatha_ in the _Parivāra_ (Vin V 123) and the commentaries.
 The Buddha recommended that all bhikkhus learn to count the  
 moon-phase/fort-night ( _sabbeh’eva pakkha-gaṇanaṃ uggahetuṃ_ ) after  
 laypeople criticised the bhikkhus for not knowing it; Mv II 18,1–2/  
-Vin I 117. To avoid monks not knowing that it is the Uposatha, a  
-senior monk should announce it at any time during the day; Mv 19.1.  
+Vin I 117. To avoid bhikkhus not knowing that it is the Uposatha, a  
+senior bhikkhu should announce it at any time during the day; Mv 19.1.  
 The announcement of the Uposatha day ( _ajj’uposatho paṇṇaraso_ )  
 included in the _ñatti_ given in the Nidāna of the Pātimokkha is unusual  
 in that it occurs in no other _saṅghakamma ñatti_. The _ajj’uposatho  
@@ -3947,7 +3947,7 @@ Mahāvagga editions (Mv II 3.3/Vin I 102. Be, Ce, Se), but it is found in
 the _jñapti_ in the Prātimokṣasūtras of other early Buddhist schools; see  
 above § 12. However, it is commented upon in the _Kaṅkhāvitaraṇī_  
 and this suggests that it is a very early tradition. Further, it is found in  
-the _ñatti_ of the _pārisuddhi-uposatha_ for three monks ( _suṇantā me  
+the _ñatti_ of the _pārisuddhi-uposatha_ for three bhikkhus ( _suṇantā me  
 āyasmantā, ajjuposatho paṇṇaraso_ ) at Mv II 26.3/Vin I 124. A footnote  
 in Thai edition of the Mahāvagga (as on BUDSIR) states that all books,  
 except a Sinhalese book, have the _ajj’uposatho paṇṇaraso_ clause in the  
@@ -4244,7 +4244,7 @@ Uposatha or the Pātimokkha, then the Buddha allowed the
 Pātimokkha be taken on by another competent bhikkhu  
 ( _tassādheyyaṃ_ ); Mv II 17,2/Vin I 116.  
 A simple request would to have been made originally, as the Mv  
-mentions that monks invited the senior or another bhikkhu to recite  
+mentions that bhikkhus invited the senior or another bhikkhu to recite  
 the Pātimokkha by saying: “Let the Venerable Sir recite the  
 Pātimokkha.”^103
 
@@ -4417,7 +4417,7 @@ Paṭisambhidāmagga and also in the last portion of the Nikkhepakaṇḍa
 of the Dhammasaṅgaṇi_._^112  
 Along with the Pātimokkha, the old word-commentary would  
 at first have been recited and studied at first as a separate text by  
-monks. When the Canon was compiled, the Pātimokkha, the word-  
+bhikkhus. When the Canon was compiled, the Pātimokkha, the word-  
 by-word commentary, the reciter’s questions, etc., were made to form  
 the Suttavibhaṅga along with origin-stories and further analysis of  
 rules. One reason that the Nidāna—which is the announcement of a  
@@ -4981,8 +4981,8 @@ right” but probably is too formal and “being barred” would be better.
 As the word _pārājika_ occurs together with the adjective _asaṃvāsa_  
 (“not in communion”) in the rules themselves, with _asamaṇa_ : “non-  
 ascetic” in the Padabhājana, with the verb _nāseti,_ “expels,” in the  
-Suttavibhaṅga to indicate the course of action other monks have to take  
-with a monk who fell into a Pārājika offence, and with the similes  
+Suttavibhaṅga to indicate the course of action other bhikkhus have to take  
+with a bhikkhu who fell into a Pārājika offence, and with the similes  
 indicating the non-possibility of being re-connected or living again, a  
 rendering of _pārājika_ that more or less fits all the etymologies and  
 explanations—whether based on _parā_ + ƒ _ji, pāra_ + _jīna_ , _parā_ + ƒ _aj_ , or  
@@ -5261,7 +5261,7 @@ affiliation (see Clarke 2004: 91 fn. 62):
 “Why is it called _saṃghāvaśeṣa_? _Saṃghāvaśeṣa_ : the offender must  
 confess [the offence] in the Saṃgha, he cannot confess to one person;  
 he cannot confess even to two or three persons. Since it is confessed in  
-a [Saṃgha] assembly [of at least four monks], it is called _saṃghāvaśeṣa_.  
+a [Saṃgha] assembly [of at least four bhikkhus], it is called _saṃghāvaśeṣa_.  
 All the bhikkhus who confess the matter should [do so] within the  
 Saṃgha, [and since] the Saṃgha is doing it, it is called _saṃghāvaśeṣa_.  
 Alternatively, it is said, _saṃghāvaśeṣa_ : [since] one has a little remainder  
@@ -5938,7 +5938,7 @@ correct; see IP 11, 216, and 380 and PG § 54.4.
 the contrast between the pure bhikkhu and the impure bhikkhu who  
 conceals his offences by remaining silent; see Pār 1.
 
-**bhikkhu** : bhikkhu, (alms-) monk, religious mendicant, religious  
+**bhikkhu** : bhikkhu, (alms-) bhikkhu, religious bhikkhu, religious  
 beggar; nom. sg. m. Derived from _bhikkhati_ ( _ƒbhikkh + a_ ): begs, asks  
 for. Padabhājana: “[He is] a bhikkhu because he is a beggar; [he is] a  
 bhikkhu because he has come to wander for alms...” : _bhikkhako ti  
@@ -5951,12 +5951,12 @@ admitted by a united community by means of a legal act that has a
 motion and an announcement as the fourth, which is indisputable,  
 worthy of the position, this, in this sense, _bhikkhu_ is intended.”^172  
 _The Oxford Dictionary of World Religions_ (ed. John Bowder:  
-652), entry on (Buddhist) Monasticism: “In its purest form, ‘monk’  
+652), entry on (Buddhist) Monasticism: “In its purest form, ‘bhikkhu’  
 refers to one who has taken the full vows of a bhikkhu ... However,  
 bhikkhus, although celibate, perform ceremonies for the laity in the  
 manner of priests, and indeed the ritual of _upasampadā_ , by which they  
 become bhikkhus is commonly called ‘ordination’ rather than  
-‘profession’ ... It would be better to abandon the English term monk  
+‘profession’ ... It would be better to abandon the English term bhikkhu  
 and use terms such as _bhikkhu_ ...”
 
 **yo pana bhikkhu** : but whichever bhikkhu; see the note on this in Pār 1.
@@ -6349,7 +6349,7 @@ connecting and continuing the text. No need to translate it here.
 **bhikkhu** : a bhikkhu; nom. sg. m.
 
 **yo pana bhikkhu** : if any bhikkhu, whatever bhikkhu, a bhikkhu  
-who, Ñm: any bhikkhu, Nor: if any bhikkhu, Hr: whatever monk;  
+who, Ñm: any bhikkhu, Nor: if any bhikkhu, Hr: whatever bhikkhu;  
 see Nid.  
 Padabhājana: “ _Yo pana_ : who, any/whatever (= _yādisa_ ; see PG §  
 112,3 & PED 553), according to connection, ... birth, ... name, ... clan,
@@ -6379,7 +6379,7 @@ offences by remaining silent is contrasted to the pure bhikkhu.
 During the recitation it is assumed that a bhikkhu is free from  
 offences and does not listen with unconfessed offences; see Vin II 240.  
 The recurring _pana_ is thus, according to von Hinüber, for the sake of  
-referring back to the statement in the Nidāna in which the pure monk  
+referring back to the statement in the Nidāna in which the pure bhikkhu  
 is contrasted with the offender.  
 While comparing the form of the four _akaraṇīyā_ (Vin I 96–97)  
 to the four Pārājikas, von Hinüber notes that the _akaraṇīyā_ -form is _yo  
@@ -6438,7 +6438,7 @@ could also be gen.: “of the bhikkhus.”
 **sikkhāsājīvasamāpanno** : has entered upon the training and  
 livelihood, Ñm: having undertaken the bhikkhus’ training precepts  
 and way of life, Hr: possessed of the training and mode of life for  
-monks; adjective qualifying _bhikkhu_. Bahubbīhi cpd. **= sikkhā** :  
+bhikkhus; adjective qualifying _bhikkhu_. Bahubbīhi cpd. **= sikkhā** :  
 training, training precept; f. fr. _sikkhati_ ( _ƒsikkh + a_ ): one trains  
 oneself. **+ sājīva** : livelihood, living, living together; nt. = pref. _sa_ :  
 with, together + _ājīva_ : livelihood. See MW s.v. _saṃjīva._ **+  
@@ -6455,7 +6455,7 @@ bhikkhus that are reckoned as the higher-virtue, and that in which
 those (bhikkhus) who are living together in these (training, and) due  
 to having the same livelihood are behaving congenially, (i.e.) that  
 livelihood which is reckoned to be the Training precept made known  
-by the Fortunate One. The monk who has entered the training in that
+by the Fortunate One. The bhikkhu who has entered the training in that
 
 
 Párájika 1 23
@@ -6750,7 +6750,7 @@ same applies for the next two rules: Pār 3 and 4.
 
 **adinnaṃ theyyasaṅkhātaṃ ādiyeyya** : should take what is not given  
 in a way that is reckoned as theft, Ñm: with intent to steal take
-what is not given, Hr: whatever monk should by means of theft take
+what is not given, Hr: whatever bhikkhu should by means of theft take
 
 193. _Theyyasaṅkhātan-ti ettha theno ti coro, thenassa bhāvo theyyaṃ.  
     Avaharaṇacittass’etaṃ nāmaṃ. Saṅkhātan-ti atthato ekaṃ; koṭṭhāsass’etaṃ nāmaṃ,  
@@ -8062,7 +8062,7 @@ for himself.” This meaning is also given in MW 135. In the Upaniṣads
 supreme self,” i.e., Brahma. _Attakāmarūpā viharanti_ : “... they dwell as  
 if desiring their selves” is found at M I 205 & III 155. In the Buddha’s  
 time, just as nowadays in India, most people saw religious seekers to  
-be desiring the “Self” and Buddhist monks would have been no  
+be desiring the “Self” and Buddhist bhikkhus would have been no  
 exception.  
 There appears to be a wordplay with _attakāma_ here, i.e., desiring  
 self/sex to himself. Cf. _atthakāma_ : one who desires good. = **atta** :  
@@ -8664,8 +8664,8 @@ kopena tena ca dosena ... appatīto hoti._
 
 **amūlakena** : groundless; adjective agreeing with _dhammena_. = **a** : neg.  
 pref. + **mūla** : root, cause + - **ka** : conn. suf. In this case the accusing  
-monk has not seen, heard or suspected that the monk he wants to get  
-rid of has committed a pārājika. If the other monk has in fact, by  
+bhikkhu has not seen, heard or suspected that the bhikkhu he wants to get  
+rid of has committed a pārājika. If the other bhikkhu has in fact, by  
 chance, committed a pārājika, it would still be called _amūlaka_.
 
 **pārājikena** : involving disqualification; adjective agreeing with  
@@ -8757,7 +8757,7 @@ structure seem to require the meaning of “malice.”
 
 **bhikkhu ca dosaṃ patiṭṭhāti** : and if the bhikkhu stands firm in  
 malice, (or:) and if the bhikkhu confirms the fault, Ñm: and the  
-bhikkhu admits to anger, Hr: if the monk confessed his malice.  
+bhikkhu admits to anger, Hr: if the bhikkhu confessed his malice.  
 The Padabhājana implies that the bhikkhu admits his mistake:  
 “It has been said emptily, falsely, non-factually, not knowingly, by  
 me.” : _tucchakaṃ ... musā ... abhūtaṃ ... ajānantena mayā bhaṇitaṃ_.
@@ -9052,7 +9052,7 @@ In Vin I 318/Mv IX 3,5 three factors or conditions are given for
 a _samaggakamma_ : “united legal action” or _vaggakamma_ “disunited  
 legal action’: How, bhikkhus, is there a united legal action? In a (legal)  
 act of a motion (followed by an announcement) as the second, as far as  
-there are monks who are entitled (to carry it out), they have arrived,  
+there are bhikkhus who are entitled (to carry it out), they have arrived,  
 the consent has been brought of those who are eligible for (giving)  
 consent, through the non-objection of those who are present. ...”^255  
 The factors are: 1. complete attendance, 2. consent (and purity in  
@@ -9310,7 +9310,7 @@ be carried out for the relinquishing of that course ( _vatthu_ ): “Venerable
 Sir, let the community listen to me. This bhikkhu named such is  
 endeavoring for the schism of a united community. He does not  
 relinquish that course. If it is suitable to the community, it should  
-admonish the monk named such for the relinquishment of that course.  
+admonish the bhikkhu named such for the relinquishment of that course.  
 This is the motion.” : _Suṇātu me bhante saṅgho. Ayaṃ itthannāmo  
 bhikkhu samaggassa saṅghassa bhedāya parakkamati. So taṃ vatthuṃ na  
 paṭinissajati. Yadi saṅghassa pattakallaṃ, saṅgho itthannāmaṃ bhikkhuṃ  
@@ -9534,7 +9534,7 @@ pronoun _amha._ + **c’eso** : see above.
 jānāti no bhāsati, amhākam-p’etaṃ khamatī ti** : this bhikkhu speaks  
 out in accordance with our liking and preference, Ñm: he speaks in  
 accordance with our desire and choice, he knows and speaks (for us),  
-and that is our wish, Hr: and this monk, adopting our desire and  
+and that is our wish, Hr: and this bhikkhu, adopting our desire and  
 objective, gives expression to them, he knows that what he says for us  
 also seems good to us.
 
@@ -10247,7 +10247,7 @@ may be a community of bhikkhus, which is a group of twenty [or more
 bhikkhus], there that bhikkhu should be reinstated. If a community of  
 bhikkhus, which is a group of twenty deficient by even one [bhikkhu],  
 should reinstate that bhikkhu [then] that bhikkhu is not reinstated, and  
-those monks are blameworthy. This is the proper procedure here.
+those bhikkhus are blameworthy. This is the proper procedure here.
 
 Concerning that I ask the venerables: [Are you] pure in this?  
 A second time again I ask: [Are you] pure in this?  
@@ -10354,7 +10354,7 @@ Saòghádisesa Conclusion 95
 **uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ** : [by the  
 bhikkhu] moreover, a six night [period] is to be entered upon for the  
 purpose of deference to [other] bhikkhus; a further six days are to be  
-allowed for the monk’s mānatta discipline (Hr); he must undertake in  
+allowed for the bhikkhu’s mānatta discipline (Hr); he must undertake in  
 addition the six-night penance for bhikkhus (Ñm).
 
 The construction with a dative _bhikkhumānattāya_ followed by a  
@@ -10406,7 +10406,7 @@ goes, moves + **mānatta** : deference; see above.
 
 **ciṇṇamānatto bhikkhu** : a bhikkhu (is one by whom) the deference  
 (to bhikkhus) has been performed, Ñm: “When the bhikkhu has  
-completed the penance ...,” Hr: “if, when the monk has performed  
+completed the penance ...,” Hr: “if, when the bhikkhu has performed  
 the mānatta discipline, ....”; Possibly a nominative absolute, the  
 nominative noun and participle being in agreement like the locative  
 and genitive absolute in similar introductory clauses in NP 1–3 and  
@@ -11137,7 +11137,7 @@ comments on _niṭṭhitacīvarasmiṃ_ it implies a dative of advantage:
 _kaṭhina_ for as long as the robe-obstacle is not severed through these  
 reasons.”: _Atthatakaṭhinassa hi bhikkhuno yāva imeh’ākārehi  
 cīvarapā¿ibodho na chijjati tāva kaṭhinānisaṃsaṃ labhati_. Cf.: _tassa  
-bhikkhuno ... kaṭhinuddharo_. : Hr: “That monk’s _kaṭhina_ (privileges)  
+bhikkhuno ... kaṭhinuddharo_. : Hr: “That bhikkhu’s _kaṭhina_ (privileges)  
 are removed because of ... (eight grounds)...”; Vin I 255f.  
 In the Padabhājana it is said that the _kaṭhina_ (-frame-privileges)  
 are withdrawn due to eight grounds, or by a _saṅghakamma_. It does  
@@ -11257,7 +11257,7 @@ cīvaraṃ dasāhaparamaṃ kālaṃ atikkāmayato, etthantare yathā
 atirekacīvaraṃ na hoti, tathā akubbato nissaggiyaṃ pācittiyaṃ_.  
 Thus Sp seem to take _taṃ_ to refer to the robe rather than ten  
 day period. As said above, _atikkāmeti_ is a transitive verb and can take  
-an object, e.g., in Vin III 62 it is used in the context of monk (secretly)  
+an object, e.g., in Vin III 62 it is used in the context of bhikkhu (secretly)  
 taking a gem through (or making a gem pass beyond) a toll-gate. Bhī  
 NP 13 has _taṃ atikkāmentiyā._
 
@@ -11700,8 +11700,8 @@ requests; causative of _vijānāti_ , see Pāc 39. There is no exact equivalen
 
 in English. The word has the meaning of informing/making known  
 as well as suggesting/inmating/requesting, e.g., in the origin story to  
-NP 22 (Vin III 244) an _upāsaka_ suggests to provide bowls to monks,  
-and the monks request too many of them. Cf. Vin III 225; IV 71, 248.
+NP 22 (Vin III 244) an _upāsaka_ suggests to provide bowls to bhikkhus,  
+and the bhikkhus request too many of them. Cf. Vin III 225; IV 71, 248.
 
 **aññatra** : except; indecl. see NP 2.
 
@@ -11790,13 +11790,13 @@ e_ ) taking the instrumental case here: _cīvarehi._
 
 **abhihaṭṭhuṃ pavāreyya** : should invite to take [as much as he likes],  
 having brought (them all) forward should invite, Ñm: should ... invite  
-him to take as many robes as he likes, Hr: asking (a monk) should invite  
+him to take as many robes as he likes, Hr: asking (a bhikkhu) should invite  
 him to take (material for) many robes. An idiom. The Padabhājana  
 explains: “Take as much as you wish,” _yāvatakaṃ icchasi tāvatakaṃ  
-gaṇhāhī ti_. The Padabhājana suggests that the meaning is that the monk  
+gaṇhāhī ti_. The Padabhājana suggests that the meaning is that the bhikkhu  
 is invited to take from the robe. The use of the instrumental _cīvarehi_ is  
 because _pavāreyya_ is always constructed with the instrumental of the  
-thing that one is invited to take; the monk is invited with/for a meal or  
+thing that one is invited to take; the bhikkhu is invited with/for a meal or  
 robes (instrumental) to take. For more on this Pali idiom, see _Vinaya  
 Texts_ II 440 and BD II 51 n.1. MW: “ _Abhihara_ : carrying off,  
 removing...” “ _Abhiharaṇa_ : bringing or conveying near...” Vin IV 82:  
@@ -11904,7 +11904,7 @@ fine, [this is a case] involving expiation with forfeiture.
 
 **uddissa** : for, with reference to, concerning, for the sake of, having  
 pointed out, having dedicated, in the name of, Ñm: specifically for a  
-bhikkhu, Hr: for a monk, Than: for the sake of; indecl., originally the  
+bhikkhu, Hr: for a bhikkhu, Than: for the sake of; indecl., originally the  
 absolutive of _uddisati_ ( _ud + ƒdis + a_ ). The word _uddissa_ is here used  
 as a postposition following an accusative noun; see Syntax § 55.  
 Horner’s rendering has been followed here since it fits all the contexts  
@@ -12024,7 +12024,7 @@ _Maṃ_ is the object of _acchādehi_ at the end of the line; cf. above _itt
 nāmaṃ bhikkhuṃ ... cīvaraṃ acchādessāmī ti._
 
 **āyasmā** : Sir; voc. sg. m. Polite address; see Nid. In this context, i.e., a  
-monk addressing a layperson, perhaps used to flatter the householder.
+bhikkhu addressing a layperson, perhaps used to flatter the householder.
 
 **iminā cīvaracetāpanena** : see above.
 
@@ -13424,7 +13424,7 @@ clause (IP 71).
 
 **pattapariyanto** : the last bowl, final, Ñm: the bowl last rejected by the  
 gathering of bhikkhus, Hr: the last bowl belonging to the company of  
-monks; adj. Bb. cpd. = **patta** + **pariyanta** : last, final, end; adj. cf.  
+bhikkhus; adj. Bb. cpd. = **patta** + **pariyanta** : last, final, end; adj. cf.  
 BMC 234–235, BD II 120 n. 5. The meaning of this idiom is this: The  
 relinquished bowl is first given to the most senior bhikkhu, who if he  
 wishes, can exchange his bowl for it. If he likes it, he passes his bowl  
@@ -13445,7 +13445,7 @@ bed, the last dwelling: that is to be given to him.” : _Yo hoti saṅghassa
 **so** : that (bowl); see above V.l.: _so ca tassa_. The Prātimokṣasūtras have  
 no ca _at all_.
 
-**tassa bhikkhuno** : to that monk; dat. sg. m.
+**tassa bhikkhuno** : to that bhikkhu; dat. sg. m.
 
 **padātabbo** : to be given, to be bestowed on, ... presented to; f.p.p. of  
 _padāti_ ( _pa + ƒdā + a_ ) agreeing with _patto_.
@@ -13969,7 +13969,7 @@ ti attho_. Maybe it means that the odd threads have been plucked out.
 
 **pi** : also; emph. particle.
 
-**āyasmantānaṃ** : sirs; dat. sg. pl. In this context, i.e., a monk speaking  
+**āyasmantānaṃ** : sirs; dat. sg. pl. In this context, i.e., a bhikkhu speaking  
 to laypeople, it appears to be an over polite form. Perhaps it was used  
 in order to flatter; see above NP 10 and Nid.
 
@@ -14614,7 +14614,7 @@ a priest to perform Mass, etc. _The Oxford Dictionary of World
 Religions_ , ed. John Bowder p. 718 states: “... The term ‘ordination’ has  
 then been applied to the formal and ritual admission procedures in  
 other religions, especially of the admission of women and men to the  
-Buddhist saṅgha, whereby they become nuns (bhikṣunī) and monks  
+Buddhist saṅgha, whereby they become nuns (bhikṣunī) and bhikkhus  
 (bhikṣu). Such terms are inevitable in translation, but they are
 
 424. _upasampanno upasampanassa sutvā pesuññaṃ upasaṃharati_.
@@ -15507,7 +15507,7 @@ composed the exact sense of the rule was not understood anymore,
 because there are contradictions between the rule and the origin-  
 story. In the origin-story the bhikkhu, while collecting wood and  
 sticks (for the roof, etc.), spoiled the corn-field of a brahmin.  
-However, in the rule the monk is standing on crops while giving  
+However, in the rule the bhikkhu is standing on crops while giving  
 orders for the construction of the building. (Perhaps it is possible that  
 the original rule expressed that some kind of surrounding-layer is  
 placed on a place with crops.) The import of this rule would be to  
@@ -16436,7 +16436,7 @@ there], should invite [the bhikkhu] to take [as much] baked cakes...),
 or sweets..., Nor: should a family bring and invite with cakes or  
 biscuits a bhikkhu who has arrived, _Vinaya Texts_ : In case people  
 should offer a bhikkhu, who has gone to some house, to take as much  
-as he chose of their sweetmeats and cakes, ..., Hr: If a monk, going up  
+as he chose of their sweetmeats and cakes, ..., Hr: If a bhikkhu, going up  
 to a family, (who) asking should invite him (to take) cakes and barley-  
 gruel..., Than: In case a bhikkhu arriving at a family residence is  
 presented with cakes or cooked grain-meal
@@ -16449,7 +16449,7 @@ and _bhikkhuṃ_ as its patient (i.e., acc. sg. m.).
 The usage of forms of the verb _upagacchati_ taking the accusative  
 _kulaṃ_ and _kulāni_ (see above) suggests that here too _kulaṃ_ could be  
 accusative and that _kulaṃ upagataṃ_ is a qualification of _bhikkhuṃ_ : “a  
-monk who has approached a family.” If this is the case, then both  
+bhikkhu who has approached a family.” If this is the case, then both  
 _bhikkhuṃ_ and _kulaṃ_ are patients in the accusative case. As there is no  
 expressed agent in the nominative case in the sentence, _pavāreyya_  
 takes an unexpressed agent in the nominative that can be any member  
@@ -17118,7 +17118,7 @@ in the Pali, see CSP 143.
 Notwithstanding the origin-story and all the etymologies, it is  
 possible that the word _sabhojane_ originally simply meant “a family  
 having a meal.” Nowadays too it would be considered very bad  
-manners if a monk, hoping to get some food, would intrude by sitting  
+manners if a bhikkhu, hoping to get some food, would intrude by sitting  
 down while a family is having a meal. It is also strange that the act of  
 sitting down is specified because the very action of walking into a  
 bedroom with an amorous couple in it is just as intrusive. If only  
@@ -17665,7 +17665,7 @@ PrMoSa 225. (So Mū; see LC 7.) Ma-L rule 65: _bhīseya;_ Taita 26, BV
     bhikkhu is frightened through a sound, sight etc.; see Padabhājana.  
     _Bhiṃsa_ always occurs as an adj. in _bhiṃsarūpa_ : a frightening  
     appearance (of Māra etc.) According to the Padabhājana there is an  
-    offence regardless of the monk becoming scared or not.
+    offence regardless of the bhikkhu becoming scared or not.
 
 ### Pāc 56: Jotisikkhāpadaṃ ^PC56
 > [!tip] 🌐 Rule Overview [[BU-PC56]]
@@ -17898,7 +17898,7 @@ dubbaṇṇakaraṇaṃ navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ._
 The training precept on stains
 
 
-By a monk with the gain of a new robe a certain stain [from] amongst
+By a bhikkhu with the gain of a new robe a certain stain [from] amongst
 
 538. _bhikkhū ajjhokāse cīvarakammaṃ karontā sarajena vātena okiṇṇā honti, devo  
     ca thokaṃ thokaṃ phusāyati._ Cf. A III 370, Vin I 184. A-a III 392: _Bhusā vātavuṭṭhī  
@@ -18689,7 +18689,7 @@ expiation.
 **jānaṃ** : knowingly; pr.p. of _jānāti_ used as an adverb; see Pār 4.
 
 **tathāvādinā bhikkhunā** : with a bhikkhu who is speaking thus, Ñm:  
-with a bhikkhu who says thus, Hr: with a monk who talks thus.
+with a bhikkhu who says thus, Hr: with a bhikkhu who talks thus.
 
 **tathāvādinā** : who is speaking thus, who is asserting thus, who has  
 such a view; adj. Kdh. used as bahubbīhi cpd. refers back to the  
@@ -19105,7 +19105,7 @@ baṃ paripañhitabbaṃ._^598 _Ayaṃ tattha sāmīci._
 
 595. 1. endeavouring for the non-receiving of bhikkhus, 2. endeavouring for the  
         non-good of bhikkhus, 3. endeavouring for the non-residence of bhikkhus, 4. he  
-        reviles and abuses bhikkhus, 5. he causes a monk to break with [another] monk.
+        reviles and abuses bhikkhus, 5. he causes a bhikkhu to break with [another] bhikkhu.
 596. Mi & Mm Se: _naññaṃ_. G: _na aṃñaṃ_.
 597. Mm & Mi Se, Dm, G, V, W: _byattaṃ_.
 
@@ -19269,8 +19269,8 @@ inferior; adj. + **anukhuddaka** : very small, minute, subtle; adj. = _aṇu_
 _anu_ : very small, minute, subtle + _khuddaka_. There was disagreement  
 already at the first council on the meaning of the small and minute  
 training precepts; see Ñāṇarāma, 1997: 108–128, and BD III 41 n. 1.  
-Some monks took them to be all rules except the _pārājika_ rules, others  
-monks all except the _pārājika_ and _saṅghādisesa_ rules, and so on until the  
+Some bhikkhus took them to be all rules except the _pārājika_ rules, others  
+bhikkhus all except the _pārājika_ and _saṅghādisesa_ rules, and so on until the  
 remainder of rules after the the pāṭidesanīya rules (Vin II 287).  
 The Buddha said that _sekhas_ and _arahants_ can commit offences  
 with regard to the small and minute training precepts, but are of  
@@ -19555,7 +19555,7 @@ Pácittiya 73 257
 
 been that this reading got lost in the Pali Pātimokkha. In any case it  
 could indicate that the instrumental _bhikkhunā_ is an instrumental of  
-accompaniment, i.e., other monks would know about that monk  
+accompaniment, i.e., other bhikkhus would know about that bhikkhu  
 with whom has been seated before.  
 _Pubbaṃ_ here as acc. sg. nt. refers back adverbially to what has  
 happened before, denoting ‘the time when’; see Syntax § 46.
@@ -19569,10 +19569,10 @@ iminā bhikkhunā ... ko pana vādo bhiyyo ti** : [then] if other
 bhikkhus should know [about] that bhikkhu [thus]: “This bhikkhu  
 has sat [in] two or three times previously when the Disciplinary Code  
 was being recited, no need to speak about more [times than that]!,”  
-Ñm: and if other monks should know of that bhikkhu: “This  
+Ñm: and if other bhikkhus should know of that bhikkhu: “This  
 bhikkhu has already sat while the Pātimokkha was recited (at least)  
-two or three times, perhaps oftener,” Hr: “if other monks should  
-know concerning this monk that this monk has sat down two or  
+two or three times, perhaps oftener,” Hr: “if other bhikkhus should  
+know concerning this bhikkhu that this bhikkhu has sat down two or  
 three times before, not to say oftener, while the Pātimokkha was  
 being recited.”
 
@@ -19617,7 +19617,7 @@ for the new quotation: _tassa te._
 
 **tassa** : for that; dat. sg. of dem. pron. _ta(d)_.
 
-**bhikkhuno** : for (that) monk; dat. sg. m.
+**bhikkhuno** : for (that) bhikkhu; dat. sg. m.
 
 **aññāṇakena** : through not-knowing, Hr: on account of ignorance,  
 Ñm: in pleading ignorance; ins. sg. m. Kdh. cpd. Neg. pref. _a- + ñāṇa_ :  
@@ -19955,7 +19955,7 @@ deluding; loc. sg. m. = **mohana** : the act of deluding, deceiving (e.g. S I
 33); action-noun fr. _moheti_ (ƒ _moh + e_ ) + adjectival or pleonastic  
 suffix -( _a)ka_ ; see Pāc 12: _aññavādake_. Although, it seems that this term  
 refers to the act of deluding it might also refer to the delusion of the  
-monk. The term “delusion” is intended to cover both.
+bhikkhu. The term “delusion” is intended to cover both.
 
 ### Pāc 74: Pahārasikkhāpadaṃ ^PC74
 > [!tip] 🌐 Rule Overview [[BU-PC74]]
@@ -20180,7 +20180,7 @@ Instruction of the Teacher.”^633
 can be done by a bhikkhu who is ill, or has another urgent reason,  
 and can’t come to a legal community-transaction. He has to give his  
 consent to the legal action to another bhikkhu, who will announce it  
-to the other monks before the recital of the Pātimokkha, etc. _;_ see BD  
+to the other bhikkhus before the recital of the Pātimokkha, etc. _;_ see BD  
 III 58 n. 3, Vin I 121–122, Introduction § 12, and the origin-stories to  
 Pāc 79–80.
 
@@ -20368,7 +20368,7 @@ rule above.
 **pariṇataṃ** : allocated; p.p. of _pariṇāmeti (pari + ƒnam + e_ ).
 
 **puggalassa** : to a person, individual; dat. sg. m. See Pāc 65. It can be a  
-monk, nun, novice, or layperson.
+bhikkhu, nun, novice, or layperson.
 
 **pariṇāmeyya** : should allocate; 3 sg. opt. of _pariṇāmeti_.
 
@@ -21407,7 +21407,7 @@ the verb _paṭibhāti_ , this is incorrect, as is shown below.
 
 **ekassa pi ce bhikkhuno nappaṭibhāseyya** : And if not even by one  
 bhikkhu (it) should be spoken against, Ñm: if not even one bhikkhu  
-should speak, Hr: if it should not occur to single monk. See A IV 259  
+should speak, Hr: if it should not occur to single bhikkhu. See A IV 259  
 _ettakaṃ pi no nappaṭibhāseyyā ti_ : “this much would not have been said  
 by us...’, Ud 27: _ettakaṃ pi te na paṭibhāseyya_ (v.l.: _nappaṭi_ -).” These  
 other occurances of _paṭibhāsati_ with a genitive enclitic pronoun show  
@@ -22216,7 +22216,7 @@ Thailand this way is generally not done, instead bhikkhus do their
 confession, etc, while sitting with the soles of the toes flat on the  
 ground, the knees on the ground too, the buttocks touching the heels,  
 and, and the torso errect. In _Buddhism Explained_ (Khantipālo 1968:  
-128f.), there is a picture of Thai monks doing confession in the  
+128f.), there is a picture of Thai bhikkhus doing confession in the  
 squatting way.^718  
 One ascetic practice referred to in the Canon, e.g. at M I 78, is  
 the _ukkuṭikappadhāna_ : the _ukkuṭika_ -exertion. Perhaps the ascetics  
@@ -23005,7 +23005,7 @@ The training precept on puffing up the cheeks
 of manner. = **avagaṇḍa** : making a swelling, i.e., puffing up (the  
 cheeks); = pref. _ava-_ : out _+ gaṇḍa_ : a swelling + **kāraka** : doing; ṇamul  
 absolutive in - _akaṃ;_ fr. _karoti._  
-Sp 893: “...: repeatedly making a puffed up cheek like a monkey  
+Sp 893: “...: repeatedly making a puffed up cheek like a bhikkhuey  
 (which stuffs its food into it).” : _makkaṭo viya gaṇḍe katvā katvā._  
 Wrong way: “Who out of disrespect, having made a puffing up  
 on one side or both sides, there is an offence of wrongdoing for him,”  
@@ -23902,7 +23902,7 @@ grant the the removal through the presence [of the bhikkhu],” etc.
 **sammukhāvinayo** : the removal through the presence (of the bhikkhu),  
 Ñm: Removal (of the litigation) by Confrontation, Hr: a verdict in the  
 presence of, BHSGD II 581: procedure in the presence of (an assembly  
-of all the monks in the chapter.); nom. sg. m. Ins. tapp. cpd.
+of all the bhikkhus in the chapter.); nom. sg. m. Ins. tapp. cpd.
 
 Vin II 73: “Bhikkhus, a legal act should not be done not in the presence  
 of the bhikkhus...”: _Na bhikkhave asammukhībhūtānaṃ bhikkhūnaṃ  
@@ -24588,7 +24588,7 @@ there being sunlight now.
     _samādapetvā_ is also taught (as a v.l.) and adds that in the _Mūlasikkhā_ there is the  
     v.l. _niṭṭhāpetvā_. The _Vinayālaṅkāra-ṭīkā_ (Be p.400) reads _sammā niṭṭhāpetvā_. The  
     reading _samādapetvā_ might actually be the correct one since it is the elder who  
-    instigates junior monks to undertake the preliminaries. According to a regulation  
+    instigates junior bhikkhus to undertake the preliminaries. According to a regulation  
     at Mv II 20,6 a junior bhikkhu who, although being requested by a senior  
     bhikkhu to prepare the place, does not carry out the request commits an offence  
     of wrong doing.
@@ -25102,7 +25102,7 @@ Appendix I 353
 
 
 (If junior:) Good, Venerable Sir! / (If Senior:) Good, Friend!  
-(Senior monk:) Having concluded the preparations and  
+(Senior bhikkhu:) Having concluded the preparations and  
 preliminary duties, I make the invitation to recite the Disciplinary  
 Code with the approval of the seated Community.
 

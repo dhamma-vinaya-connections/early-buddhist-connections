@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A monk leaves the Buddha to go into solitude, only to find his mind overcome by unskillful thoughts
+> A bhikkhu leaves the Buddha to go into solitude, only to find his mind overcome by unskillful thoughts
 
 > [!info] Key Excerpts 
 > Good friends, ethics, listen to the Dhamma, energy and wisdom are prerequisites for meditation
@@ -53,7 +53,7 @@ parallels_partilal: ""
 with right thoughts your pasture, 
 and right view at the fore. 
 Having understood rise and fall, 
-a mendicant who has overcome dullness and drowsiness
+a bhikkhu who has overcome dullness and drowsiness
 > 
 
 

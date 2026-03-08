@@ -7,34 +7,34 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC2]]
 > ◄  [[bu-pc1-horner]] 📜  [[bu-pc3-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 2
+# bhikkhus’ Expiation (_Pācittiya_) 2
 
-*Bu-Pc.2.1.1* *BD.2.171* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time, the group of six monks, quarrelling with well behaved monks, insulted the well behaved monks; they jeered at them, they scoffed at them about birth and name and clan and work and craft and disease and distinguishing mark and passion[^1] and attainment[^2] and low mode of address.[^3] Those who were modest monks looked down upon, criticised, spread it about, saying:
+*Bu-Pc.2.1.1* *BD.2.171* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time, the group of six bhikkhus, quarrelling with well behaved bhikkhus, insulted the well behaved bhikkhus; they jeered at them, they scoffed at them about birth and name and clan and work and craft and disease and distinguishing mark and passion[^1] and attainment[^2] and low mode of address.[^3] Those who were modest bhikkhus looked down upon, criticised, spread it about, saying:
 
-“How can this group of six monks, quarrelling with well behaved monks, *Vin.4.5* insult the well behaved monks? How can they jeer at them, scoff at them about birth … low mode of address?” Then these monks told this matter to the lord. He said:
+“How can this group of six bhikkhus, quarrelling with well behaved bhikkhus, *Vin.4.5* insult the well behaved bhikkhus? How can they jeer at them, scoff at them about birth … low mode of address?” Then these bhikkhus told this matter to the lord. He said:
 
-“Is it true, as is said, that you, monks, quarrelling with well behaved monks, insulted the well behaved monks, jeered at them … about low mode of address?”
+“Is it true, as is said, that you, bhikkhus, quarrelling with well behaved bhikkhus, insulted the well behaved bhikkhus, jeered at them … about low mode of address?”
 
 “It is true, lord,” they said.
 
-The enlightened one, the lord, rebuked them, saying: “How can you, foolish men, quarrelling with well behaved monks, insult the well behaved monks, jeer *BD.2.172* at them, scoff at them about … low mode of address? It is not, foolish men, for pleasing those who are not (yet) pleased …” And having rebuked them and given _dhamma_\-talk, he addressed the monks, saying:
+The enlightened one, the lord, rebuked them, saying: “How can you, foolish men, quarrelling with well behaved bhikkhus, insult the well behaved bhikkhus, jeer *BD.2.172* at them, scoff at them about … low mode of address? It is not, foolish men, for pleasing those who are not (yet) pleased …” And having rebuked them and given _dhamma_\-talk, he addressed the bhikkhus, saying:
 
 * * *
 
-*Bu-Pc.2.1.2* “Formerly, monks, at Takkasilā,[^4] Nandivisāla was the name of an ox belonging to a certain brahmin. Then, monks, Nandivisāla, the ox, spoke thus to the brahmin: ‘Brahmin, you go, bet a thousand[^5] with the great merchant,[^6] saying: “My ox will draw a hundred carts tied together.”’ Then, monks, that brahmin made a bet of a thousand with the great merchant, saying: ‘My ox will draw a hundred carts tied together.’ Then, monks, that brahmin having tied together a hundred carts, having yoked Nandivisāla, the ox, spoke thus: ‘Go, hornless one,[^7] let the hornless one pull them along.’[^8] Then, monks, Nandivisāla, the ox, stood just where he was. Then, monks, that brahmin, having suffered the loss[^9] of a thousand, was overcome by grief.[^10] Then, monks, Nandivisāla, the ox, spoke thus to the brahmin: ‘Why are you, brahmin, overcome by grief?’
+*Bu-Pc.2.1.2* “Formerly, bhikkhus, at Takkasilā,[^4] Nandivisāla was the name of an ox belonging to a certain brahmin. Then, bhikkhus, Nandivisāla, the ox, spoke thus to the brahmin: ‘Brahmin, you go, bet a thousand[^5] with the great merchant,[^6] saying: “My ox will draw a hundred carts tied together.”’ Then, bhikkhus, that brahmin made a bet of a thousand with the great merchant, saying: ‘My ox will draw a hundred carts tied together.’ Then, bhikkhus, that brahmin having tied together a hundred carts, having yoked Nandivisāla, the ox, spoke thus: ‘Go, hornless one,[^7] let the hornless one pull them along.’[^8] Then, bhikkhus, Nandivisāla, the ox, stood just where he was. Then, bhikkhus, that brahmin, having suffered the loss[^9] of a thousand, was overcome by grief.[^10] Then, bhikkhus, Nandivisāla, the ox, spoke thus to the brahmin: ‘Why are you, brahmin, overcome by grief?’
 
 ‘Because I, good sir,[^11] suffered the loss of a thousand through you.’
 
 ‘But why do you, brahmin, bring me, who am not hornless, into disgrace with words of deceit?[^12] Brahmin, you go, bet two thousand with the great merchant, saying: “My ox will draw a hundred carts tied together,” but do not bring me, who am not hornless, into disgrace with words of deceit.’
 
-Then, monks, that brahmin bet two thousand with the great merchant, saying: ‘My ox will draw a hundred carts tied together.’ Then, monks, that brahmin having *BD.2.173* tied together a hundred carts, having yoked Nandivisala, the ox, spoke thus: ‘Go, good creature,[^13] let the good creature pull them along.’ Then, monks, Nandivisala, the ox, drew the hundred carts tied together.
+Then, bhikkhus, that brahmin bet two thousand with the great merchant, saying: ‘My ox will draw a hundred carts tied together.’ Then, bhikkhus, that brahmin having *BD.2.173* tied together a hundred carts, having yoked Nandivisala, the ox, spoke thus: ‘Go, good creature,[^13] let the good creature pull them along.’ Then, bhikkhus, Nandivisala, the ox, drew the hundred carts tied together.
 
 > Speak only words of kindness,[^14]  
 > never words unkind.  
 > For him who spoke him fair, he moved  
 > A heavy load, and brought him wealth, for love. *Vin.4.6*
 
-At that time, monks, jeering and scoffing were not liked by me, so however could jeering and scoffing become liked now? It is not, monks, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+At that time, bhikkhus, jeering and scoffing were not liked by me, so however could jeering and scoffing become liked now? It is not, bhikkhus, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
 “In insulting speech[^15] there is an offence of expiation.”
 
@@ -148,7 +148,7 @@ The Second
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

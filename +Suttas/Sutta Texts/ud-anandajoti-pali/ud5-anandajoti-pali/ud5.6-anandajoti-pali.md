@@ -54,7 +54,7 @@ For a second time venerable Mahākaccāyana said this to the lay follower Soṇa
 
 9Then venerable Mahākaccāyana gave the lay follower Soṇa Kuṭikaṇṇa the going forth.
 
-Then at that time there were few monks in the Southern State of Avanti. Then with the passing of three years venerable Mahākaccāyana, having assembled, with difficulty and with trouble, from here and there, a group of ten monks from the Community of monks, gave venerable Soṇa full ordination.
+Then at that time there were few bhikkhus in the Southern State of Avanti. Then with the passing of three years venerable Mahākaccāyana, having assembled, with difficulty and with trouble, from here and there, a group of ten bhikkhus from the Community of bhikkhus, gave venerable Soṇa full ordination.
 
 ---
 
@@ -76,25 +76,25 @@ Then at that time there were few monks in the Southern State of Avanti. Then wit
 
 "My Preceptor, venerable Mahākaccāyana, reverend Sir, worships the Gracious One's feet with his head, and asks if you are free from affliction, free from sickness, in good health, strong, and living comfortably?"
 
-15"Can you bear up, monk? Can you carry on? Did you come along the road without fatigue, and without going short of alms?"
+15"Can you bear up, bhikkhu? Can you carry on? Did you come along the road without fatigue, and without going short of alms?"
 
 "I can bear up, Gracious One, I can carry on, Gracious One, and I did come along the road without fatigue, and without going short of alms."
 
-16Then the Gracious One addressed Venerable Ānanda, saying: "Please prepare a dwelling place, Ānanda, for this visiting monk."
+16Then the Gracious One addressed Venerable Ānanda, saying: "Please prepare a dwelling place, Ānanda, for this visiting bhikkhu."
 
-Then it occurred to venerable Ānanda: "When the Gracious One orders me, saying: ‘Please prepare a dwelling place, Ānanda, for this visiting monk,’ the Gracious One wants to dwell together with that monk in one living quarters. The Gracious One wants to dwell together with venerable Soṇa in one living quarters." And in the living quarters where the Gracious One was living, there he prepared a dwelling place for venerable Soṇa.
+Then it occurred to venerable Ānanda: "When the Gracious One orders me, saying: ‘Please prepare a dwelling place, Ānanda, for this visiting bhikkhu,’ the Gracious One wants to dwell together with that bhikkhu in one living quarters. The Gracious One wants to dwell together with venerable Soṇa in one living quarters." And in the living quarters where the Gracious One was living, there he prepared a dwelling place for venerable Soṇa.
 
 17Then the Gracious One having spent most of the night sitting in the open air, after washing his feet, entered the living quarters. Also venerable Soṇa having spent most of the night sitting in the open air, after washing his feet, entered the living quarters.
 
-Then towards the time of dawn, after rising, the Gracious One requested venerable Soṇa, saying: "May you be inspired to speak about the Dhamma, monk."
+Then towards the time of dawn, after rising, the Gracious One requested venerable Soṇa, saying: "May you be inspired to speak about the Dhamma, bhikkhu."
 
 18"Yes, reverend Sir," said venerable Soṇa, and after replying to the Gracious One, he melodiously recited all sixteen discourses of the Chapter of the Eights.
 
-Then at the end of venerable Soṇa's melodious recitation the Gracious One greatly rejoiced, saying: "Good, good, monk, well learned, monk, well remembered, well born in mind, are the sixteen discourses of the Chapter of the Eights, you are endowed with a good voice, with good enunciation, pure articulation, which makes the meaning clear. How many Rains do you have, monk?"
+Then at the end of venerable Soṇa's melodious recitation the Gracious One greatly rejoiced, saying: "Good, good, bhikkhu, well learned, bhikkhu, well remembered, well born in mind, are the sixteen discourses of the Chapter of the Eights, you are endowed with a good voice, with good enunciation, pure articulation, which makes the meaning clear. How many Rains do you have, bhikkhu?"
 
 "I have one Rains, Gracious One."
 
-"But why, monk, did it take you so long to ordain?"
+"But why, bhikkhu, did it take you so long to ordain?"
 
 ---
 

@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was walking on walking tour amongst the Kosalans, together with a great Community of monks. Then the Gracious One, having gone down from the road, went to the root of a certain tree, and after going, he sat down on the prepared seat.
+1Thus I heard: At one time the Gracious One was walking on walking tour amongst the Kosalans, together with a great Community of bhikkhus. Then the Gracious One, having gone down from the road, went to the root of a certain tree, and after going, he sat down on the prepared seat.
 
 2Then a certain cowherd went to the Gracious One, and after going and worshipping the Gracious One, he sat down on one side. While sitting on one side the Gracious One instructed, roused, enthused, and cheered that cowherd with a Dhamma talk.
 
-3Then that cowherd, having been instructed, roused, enthused, and cheered by the Gracious One with a Dhamma talk, said to the Gracious One: "May the Gracious One consent, reverend Sir, to me offering him a meal on the morrow, together with the Community of monks."
+3Then that cowherd, having been instructed, roused, enthused, and cheered by the Gracious One with a Dhamma talk, said to the Gracious One: "May the Gracious One consent, reverend Sir, to me offering him a meal on the morrow, together with the Community of bhikkhus."
 
 The Gracious One consented by maintaining silence. Then that cowherd, having understood the Gracious One's consent, after rising from his seat, worshipping and circumambulating the Gracious One, went away.
 
@@ -30,17 +30,17 @@ The Gracious One consented by maintaining silence. Then that cowherd, having und
 
 4Then with the passing of that night, that cowherd, in his own residence, having had an abundance of rich milk-rice and fresh ghee made ready, announced the time to the Gracious One, saying: "It is time, reverend Sir, the meal is ready."
 
-5Then the Gracious One, having dressed in the morning time, after picking up his bowl and robe, together with the Community of monks, went to that cowherd's residence, and after going, he sat down on the prepared seat.
+5Then the Gracious One, having dressed in the morning time, after picking up his bowl and robe, together with the Community of bhikkhus, went to that cowherd's residence, and after going, he sat down on the prepared seat.
 
-Then that cowherd with his own hand, served and satisfied the Community of monks with the Buddha at its head with rich milk-rice and fresh ghee.
+Then that cowherd with his own hand, served and satisfied the Community of bhikkhus with the Buddha at its head with rich milk-rice and fresh ghee.
 
 Then that cowherd, when the Gracious One had eaten and washed his hand and bowl, having taken a low seat, sat down on one side. While sat on one side the Gracious One, after instructing, rousing, enthusing, and cheering that cowherd with a Dhamma talk, having risen from the seat, went away.
 
 Then not long after the Gracious One had gone, while between the boundaries of the villages, a certain man deprived that cowherd of life.
 
-6Then many monks went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those monks said this to the Gracious One:
+6Then many bhikkhus went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those bhikkhus said this to the Gracious One:
 
-"Today, reverend Sir, the Community of monks with the Buddha at its head, was served and satisfied by a cowherd with rich milk-rice and fresh ghee, now it seems that cowherd, reverend Sir, while between the boundaries of the villages, was deprived of life by a certain man.
+"Today, reverend Sir, the Community of bhikkhus with the Buddha at its head, was served and satisfied by a cowherd with rich milk-rice and fresh ghee, now it seems that cowherd, reverend Sir, while between the boundaries of the villages, was deprived of life by a certain man.
 
 7Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

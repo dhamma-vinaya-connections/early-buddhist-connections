@@ -20,13 +20,13 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a well-known mendicant who has three qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. What three? They encourage deeds of body and speech, as well as principles, that don’t reinforce good qualities.
+1“bhikkhus, a well-known bhikkhu who has three qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. What three? They encourage deeds of body and speech, as well as principles, that don’t reinforce good qualities.
 
-A well-known mendicant who has these three qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.
+A well-known bhikkhu who has these three qualities is acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.
 
-2A well-known mendicant who has three qualities is acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans. What three? They encourage deeds of body and speech, as well as principles, that reinforce good qualities.
+2A well-known bhikkhu who has three qualities is acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans. What three? They encourage deeds of body and speech, as well as principles, that reinforce good qualities.
 
-A well-known mendicant who has these three qualities is acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”
+A well-known bhikkhu who has these three qualities is acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”
 
 1"Tīhi, bhikkhave, dhammehi samannāgato ñāto bhikkhu bahujanaahitāya paṭipanno hoti bahujanadukkhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. Katamehi tīhi? Ananulomike kāyakamme samādapeti, ananulomike vacīkamme samādapeti, ananulomikesu dhammesu samādapeti.
 

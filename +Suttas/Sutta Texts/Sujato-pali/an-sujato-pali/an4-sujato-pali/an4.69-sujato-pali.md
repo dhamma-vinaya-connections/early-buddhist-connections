@@ -20,16 +20,16 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four efforts. What four? The efforts to restrain, to give up, to develop, and to preserve.
+1“bhikkhus, there are these four efforts. What four? The efforts to restrain, to give up, to develop, and to preserve.
 
 
-And what, mendicants, is the effort to restrain? It’s when you generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities don’t arise. This is called the effort to restrain.
+And what, bhikkhus, is the effort to restrain? It’s when you generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities don’t arise. This is called the effort to restrain.
 
-2And what, mendicants, is the effort to give up? It’s when you generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities are given up. This is called the effort to give up.
+2And what, bhikkhus, is the effort to give up? It’s when you generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities are given up. This is called the effort to give up.
 
-3And what, mendicants, is the effort to develop? It’s when you generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. This is called the effort to develop.
+3And what, bhikkhus, is the effort to develop? It’s when you generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. This is called the effort to develop.
 
-4And what, mendicants, is the effort to preserve? It’s when you generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development. This is called the effort to preserve.
+4And what, bhikkhus, is the effort to preserve? It’s when you generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development. This is called the effort to preserve.
 
 These are the four efforts.
 
@@ -38,7 +38,7 @@ These are the four efforts.
 development and preservation:  
 these are the four efforts  
 taught by the Kinsman of the Sun.  
-Any mendicant who keenly applies these  
+Any bhikkhu who keenly applies these  
 may attain the ending of suffering.”
 
 1"Cattārimāni, bhikkhave, padhānāni. Katamāni cattāri? Saṁvarappadhānaṁ, pahānappadhānaṁ, bhāvanāppadhānaṁ, anurakkhaṇāppadhānaṁ.

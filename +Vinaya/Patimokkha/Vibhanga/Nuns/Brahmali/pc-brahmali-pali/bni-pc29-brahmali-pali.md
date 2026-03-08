@@ -26,12 +26,12 @@ Just then the nuns who had completed the rainy-season residence had gathered to 
 
 2Thullanandā told the nuns what had happened. The nuns of few desires complained and criticized her, “How could Venerable Thullanandā allow the robe season to expire because of an uncertain expectation of robe-cloth?” …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

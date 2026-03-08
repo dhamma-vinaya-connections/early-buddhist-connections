@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, isn’t poverty suffering in the world for a person who enjoys sensual pleasures?”
+1“bhikkhus, isn’t poverty suffering in the world for a person who enjoys sensual pleasures?”
 
 “Yes, sir.”
 
@@ -50,7 +50,7 @@ language: "English - Pali"
 “Yes, sir.”
 
 
-7“So mendicants, poverty, debt, interest, warnings, prosecution, and imprisonment are suffering in the world for those who enjoy sensual pleasures.
+7“So bhikkhus, poverty, debt, interest, warnings, prosecution, and imprisonment are suffering in the world for those who enjoy sensual pleasures.
 
 In the same way, whoever has no faith, conscience, prudence, energy, and wisdom when it comes to skillful qualities is called poor and penniless in the training of the noble one.
 

@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time one of the monks was staying in the land of the Kosalans in a certain forest grove.
+1At one time one of the bhikkhus was staying in the land of the Kosalans in a certain forest grove.
 
-Now at that time that monk had become too closely involved in the affairs of a certain family. The deity haunting that forest had compassion for that monk, wanting what’s best for him. So, wanting to stir him up, they manifested in the appearance of the mistress of that family, approached the monk, and addressed him in verse:
+Now at that time that bhikkhu had become too closely involved in the affairs of a certain family. The deity haunting that forest had compassion for that bhikkhu, wanting what’s best for him. So, wanting to stir him up, they manifested in the appearance of the mistress of that family, approached the bhikkhu, and addressed him in verse:
 
 
 3“On the banks of the rivers and in the guest houses,  

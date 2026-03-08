@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these seven people found in the world are like those in water.
+1“bhikkhus, these seven people found in the world are like those in water.
 
 What seven? One person sinks under once and stays under. One person rises up then sinks under. One person rises up then stays put. One person rises up then sees and discerns. One person rises up then crosses over. One person rises up then finds a footing. One person has risen up, crossed over, and gone beyond, and that brahmin stands on the shore.
 

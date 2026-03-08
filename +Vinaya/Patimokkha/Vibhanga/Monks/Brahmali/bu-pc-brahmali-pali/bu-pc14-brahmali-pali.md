@@ -18,21 +18,21 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery during winter, the monks put furniture outside in order to warm themselves in the sun. But when the time for departure was announced, they departed without putting it away, having it put away, or informing anyone. The furniture was rained on.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery during winter, the bhikkhus put furniture outside in order to warm themselves in the sun. But when the time for departure was announced, they departed without putting it away, having it put away, or informing anyone. The furniture was rained on.
 
-The monks of few desires complained and criticized them, “How could those monks put furniture outside and then depart without putting it away, having it put away, or informing anyone? The furniture was rained on.”
+The bhikkhus of few desires complained and criticized them, “How could those bhikkhus put furniture outside and then depart without putting it away, having it put away, or informing anyone? The furniture was rained on.”
 
-2After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you did this?” … “And, monks, this training rule should be recited like this:
+2After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you did this?” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
 3‘If a monk takes a bed, a bench, a mattress, or a stool belonging to the Sangha and puts it outside or has it put outside, and he then departs without putting it away, having it put away, or informing anyone, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5Soon afterwards, monks who had stayed outside brought the furniture back even though it was not the rainy season. The Buddha saw this. After giving a teaching, he addressed the monks:
+5Soon afterwards, bhikkhus who had stayed outside brought the furniture back even though it was not the rainy season. The Buddha saw this. After giving a teaching, he addressed the bhikkhus:
 
-“Monks, during the eight months outside of the rainy season, I allow you to store furniture under a roof cover or at the foot of a tree or wherever crows or ravens don’t leave droppings.”
+“bhikkhus, during the eight months outside of the rainy season, I allow you to store furniture under a roof cover or at the foot of a tree or wherever crows or ravens don’t leave droppings.”
 
 #### Definitions
 

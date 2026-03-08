@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato.  
 
-1Now at that time several mendicants were staying in the Kosalan lands in a certain forest grove. They were restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties.
+1Now at that time several bhikkhus were staying in the Kosalan lands in a certain forest grove. They were restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties.
 
-The deity haunting that forest had compassion for those mendicants, and wanted what’s best for them. So they approached those mendicants wanting to stir them up, and addressed them in verse:
+The deity haunting that forest had compassion for those bhikkhus, and wanted what’s best for them. So they approached those bhikkhus wanting to stir them up, and addressed them in verse:
 
-2“The mendicants used to live happily,  
+2“The bhikkhus used to live happily,  
 as disciples of Gotama.  
 Desireless they sought alms;  
 desireless they used their lodgings.  
@@ -46,7 +46,7 @@ those who live negligently.
 To those who live diligently  
 I pay homage.”
 
-6Impelled by that deity, those mendicants were struck with a sense of urgency.
+6Impelled by that deity, those bhikkhus were struck with a sense of urgency.
 
 #### Pali
 

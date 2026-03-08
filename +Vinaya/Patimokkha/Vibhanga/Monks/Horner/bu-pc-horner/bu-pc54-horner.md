@@ -7,11 +7,11 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
 > ◄  [[bu-pc53-horner]] 📜  [[bu-pc55-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 54
+# bhikkhus’ Expiation (_Pācittiya_) 54
 
-*Bu-Pc.54.1.1* *BD.2.393* … at Kosambī in Ghosita’s monastery. Now at that time the venerable Channa indulged in bad habits.[^1] The monks said:
+*Bu-Pc.54.1.1* *BD.2.393* … at Kosambī in Ghosita’s monastery. Now at that time the venerable Channa indulged in bad habits.[^1] The bhikkhus said:
 
-“Reverend Channa, do not do that, it is not allowable.” He did the same (things) out of disrespect.[^2] Those who were modest monks … spread it about, saying:
+“Reverend Channa, do not do that, it is not allowable.” He did the same (things) out of disrespect.[^2] Those who were modest bhikkhus … spread it about, saying:
 
 “How can the venerable Channa do a disrespectful thing?” …
 
@@ -21,7 +21,7 @@ language: "English"
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, do a disrespectful thing? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, do a disrespectful thing? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
 “In disrespect there is an offence of expiation.”[^3]
 
@@ -43,7 +43,7 @@ The Fourth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

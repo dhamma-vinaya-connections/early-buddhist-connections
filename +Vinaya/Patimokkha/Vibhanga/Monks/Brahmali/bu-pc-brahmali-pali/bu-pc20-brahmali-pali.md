@@ -16,14 +16,14 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Āḷavī at the Aggāḷava Shrine, the monks there were doing building work. They poured water that they knew contained living beings onto grass and clay, and they had others do the same. The monks of few desires complained and criticized them, “How can the monks at Āḷavī pour water that they know contains living beings onto grass and clay, and have others do the same?”
+1At one time when the Buddha was staying at Āḷavī at the Aggāḷava Shrine, the bhikkhus there were doing building work. They poured water that they knew contained living beings onto grass and clay, and they had others do the same. The bhikkhus of few desires complained and criticized them, “How can the bhikkhus at Āḷavī pour water that they know contains living beings onto grass and clay, and have others do the same?”
 
-After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you do this?”
+After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

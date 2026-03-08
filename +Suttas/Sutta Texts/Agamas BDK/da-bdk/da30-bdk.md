@@ -2000,7 +2000,7 @@ and thus engage in good conduct, they would enjoy happiness in a heaven
 after the end of their life, like the heavenly gods. If I should be born a
 human after my death and come into the presence of the Tathāgata, I would
 shave my hair and beard under the guidance of the right Dharma, don the
-three mendicant robes, renounce domestic life, attain pure faith, and engage
+three bhikkhu robes, renounce domestic life, attain pure faith, and engage
 in the practice of austerity so as to accomplish what must be done [for
 salvation], acquire insight into the nature of things as they really are, and
 realize for myself, in this life, the direct experience that there is no more
@@ -5436,13 +5436,13 @@ a social class of those in servitude ( śūdra ) came into being.
 Śākya clan in society. Originally a kṣatriya, one of them thought to himself,
 “All worldly love and affection in this society is inevitably defiled and
 unclean. Why should I be attached to this kind of relationship? I will
-renounce domestic life, shave my hair and beard, don mendicant robes,
+renounce domestic life, shave my hair and beard, don bhikkhu robes,
 and seek the path of religion. I am a śramaṇa, I am a śramaṇa !” [Now]
 
 among the _brāhmaṇa_ s, _vaiśya_ s, and _śūdra_ s, some thought to themselves,  
 “All worldly love and affection in this society is inevitably defiled and  
 unclean. Why should I be attached to this kind of relationship? I will  
-renounce domestic life, shave my hair and beard, don mendicant robes,  
+renounce domestic life, shave my hair and beard, don bhikkhu robes,  
 and seek the path of religion. I am a _śramaṇa,_ I am a _śramaṇa_ !”  
 If a _kṣatriya_ commits wrongful actions in mind, speech, or conduct,  
 he receives appropriate retribution when his body dissolves and his life  
@@ -5460,7 +5460,7 @@ retribution when his body dissolves and his life comes to an end. Likewise,
 if _brāhmaṇa_ s, _vaiśya_ s, or _śūdra_ s commit both good and bad actions in  
 mind, speech, or conduct they receive appropriate retribution when their  
 bodies dissolve and their lives come to an end.  
-If a _kṣatriya_ shaves his hair and beard, dons the three mendicant robes,  
+If a _kṣatriya_ shaves his hair and beard, dons the three bhikkhu robes,  
 renounces domestic life, and practices the seven auxiliary disciplines in  
 order to seek the path of religion, and if his faith and determination are  
 firm, he should be able to transcend worldly matters, maintain the unsur-  
@@ -5469,7 +5469,7 @@ cause of birth and death has been exhausted; the practice of austerity has
 been accomplished; that which must be done [for religious salvation] has  
 been accomplished; and there is no more birth to suffer ever again. Like-  
 wise, if one from the _brāhmaṇa,vaiśya,_ or _śūdra_ classes shaves his hair  
-and beard, dons the three mendicant robes, renounces domestic life, and  
+and beard, dons the three bhikkhu robes, renounces domestic life, and  
 practices the sevenfold auxiliary disciplines in order to seek the path of  
 religion, and if his faith and determination are firm, he should be able to  
 transcend worldly matters, maintain the unsurpassed practice of austerity,  
@@ -5603,7 +5603,7 @@ in 409.
 _Fochui ban lüeshuo jiaojie jing_ (T. 389), in one fascicle. Translated by Kumārajīva in  
 402–412.  
 _Gaoseng faxian zhuan_ ( _Biography of Faxian_ ) (T. 2085), in one fascicle. English translatiion  
-in Li Rongxi, _The Journey of the Eminent Monk Faxian,_ in _Lives of Great Monks  
+in Li Rongxi, _The Journey of the Eminent Monk Faxian,_ in _Lives of Great bhikkhus  
 and Nuns_ (Berkeley: Numata Center for Buddhist Translation and Research, 2002),  
 pp. 155–214.  
 _Gezhong qinding zhongjing mulu_ ( _Buddhist Canonical Textual Catalogues_ ) compiled  
@@ -6690,7 +6690,7 @@ third, 29, 125, 262, 263
 
 Index
 
-mendicant, three robes of, 47, 68, 78, 90,  
+bhikkhu, three robes of, 47, 68, 78, 90,  
 119, 143, 144, 145, 206, 302, 303  
 _See also_ robe(s); _śramaṇa_ (s)  
 Miaomi, 301  
@@ -6960,7 +6960,7 @@ robe(s), 6, 302, 303
 outer, 32, 72, 121, 123, 142  
 three, ix, 14, 15, 21, 47, 68, 78, 90, 119,  
 143, 144, 145, 206, 303  
-_See also_ mendicant, three robes of  
+_See also_ bhikkhu, three robes of  
 _rūpadhātu. See_ realm(s), of form
 
 #### S
@@ -7671,15 +7671,15 @@ Eng. _The Biographical Scripture of King Aśoka_ (1993)
 
 Ch. Maming pusa zhuan ( 馬鳴菩薩傳 ) 2046  
 Eng. _The Life of Aśvaghoṣa Bodhisattva_  
-(in _Lives of Great Monks and Nuns,_ 2002)
+(in _Lives of Great bhikkhus and Nuns,_ 2002)
 
 Ch. Longshu pusa zhuan ( 龍樹菩薩傳 ) 2047  
 Eng. _The Life of Nāgārjuna Bodhisattva_  
-(in _Lives of Great Monks and Nuns,_ 2002)
+(in _Lives of Great bhikkhus and Nuns,_ 2002)
 
 Ch. Posoupandou fashi zhuan ( 婆藪槃豆法師傳 ) 2049  
 Eng. _Biography of Dharma Master Vasubandhu_  
-(in _Lives of Great Monks and Nuns,_ 2002)
+(in _Lives of Great bhikkhus and Nuns,_ 2002)
 
 Ch. Datang Daciensi Zanzang fashi zhuan ( 大唐大慈恩寺三藏法師傳 ) 2053  
 Eng. _A Biography of the Tripiṭaka Master of the Great Ci’en  
@@ -7689,11 +7689,11 @@ Ch. Gaoseng zhuan ( 高僧傳 ) 2059
 
 Ch. Biqiuni zhuan ( 比丘尼傳 ) 2063  
 Eng. _Biographies of Buddhist Nuns_  
-(in _Lives of Great Monks and Nuns,_ 2002)
+(in _Lives of Great bhikkhus and Nuns,_ 2002)
 
 Ch. Gaoseng Faxian zhuan ( 高僧法顯傳 ) 2085  
 Eng. _The Journey of the Eminent Monk Faxian_  
-(in _Lives of Great Monks and Nuns,_ 2002)
+(in _Lives of Great bhikkhus and Nuns,_ 2002)
 
 Title Taishō No.
 

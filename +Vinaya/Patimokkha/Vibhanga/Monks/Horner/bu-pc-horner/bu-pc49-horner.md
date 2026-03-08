@@ -7,31 +7,31 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
 > ◄  [[bu-pc48-horner]] 📜  [[bu-pc50-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 49
+# bhikkhus’ Expiation (_Pācittiya_) 49
 
-*Bu-Pc.49.1.1* *BD.2.377* *Vin.4.106* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks, having gone to the army as there was business, stayed with the army more than three nights. People … spread it about, saying:
+*Bu-Pc.49.1.1* *BD.2.377* *Vin.4.106* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus, having gone to the army as there was business, stayed with the army more than three nights. People … spread it about, saying:
 
 “How can the recluses, sons of the Sakyans, stay with the army? For us it is not profitable and for us it is ill-gotten; such as we stop[^1] with the army for the sake of livelihood, on account of child and wife.”
 
-Monks heard these people … spread it about. Those who were modest monks … spread it about, saying:
+bhikkhus heard these people … spread it about. Those who were modest bhikkhus … spread it about, saying:
 
-“How can this group of six monks stay with the army for more than three nights?” …
+“How can this group of six bhikkhus stay with the army for more than three nights?” …
 
-“Is it true, as is said, that you, monks, stayed with the army for more than three nights?”
+“Is it true, as is said, that you, bhikkhus, stayed with the army for more than three nights?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, stay with the army for more than three nights? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, stay with the army for more than three nights? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“If there is for a monk some reason for going to an army, that monk may stay with the army for two nights, three nights. Should he stay longer than that, there is an offence of expiation.”
+“If there is for a bhikkhu some reason for going to an army, that bhikkhu may stay with the army for two nights, three nights. Should he stay longer than that, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.49.2.1* If there is for a monk some reason for going to an army means: if there is a reason, if there is business.
+*Bu-Pc.49.2.1* If there is for a bhikkhu some reason for going to an army means: if there is a reason, if there is business.
 
-*BD.2.378* That monk may stay with the army for two nights, three nights means: he may stay two (or) three nights.
+*BD.2.378* That bhikkhu may stay with the army for two nights, three nights means: he may stay two (or) three nights.
 
 Should he stay longer than that means: if he stays with the army until sunset on the fourth day, there is an offence of expiation.
 
@@ -49,7 +49,7 @@ The Ninth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

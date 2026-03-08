@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a donor gives food, they give the recipients four things. What four? Long life, beauty, happiness, and strength … ”
+1“bhikkhus, when a donor gives food, they give the recipients four things. What four? Long life, beauty, happiness, and strength … ”
 
 
 When a noble disciple gives food, they give the recipients these four things.”

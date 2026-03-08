@@ -16,22 +16,22 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying in the hall with the peaked roof in the Great Wood near Vesālī, the monks from the group of six were having blankets made entirely of black wool. People who were walking about the dwellings complained and criticized them:
+1At one time when the Buddha was staying in the hall with the peaked roof in the Great Wood near Vesālī, the bhikkhus from the group of six were having blankets made entirely of black wool. People who were walking about the dwellings complained and criticized them:
 
 “How could the Sakyan monastics have blankets made entirely of black wool? They’re just like householders who indulge in worldly pleasures!”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks:
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus:
 
-“How could the monks from the group of six have blankets made entirely of black wool?”
+“How could the bhikkhus from the group of six have blankets made entirely of black wool?”
 
-3After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks:
+3After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -50,7 +50,7 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 8**Has made:** If he makes the blanket, or has it made, then for the effort there is an act of wrong conduct. When he gets the blanket, it becomes subject to relinquishment.
 
 
-The blanket should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The blanket should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this blanket, which I got made entirely of black wool, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this blanket back to you.’”

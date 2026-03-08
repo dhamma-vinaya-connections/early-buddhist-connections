@@ -7,23 +7,23 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC80]]
 > ◄  [[bu-pc79-horner]] 📜  [[bu-pc81-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 80
+# bhikkhus’ Expiation (_Pācittiya_) 80
 
-*Bu-Pc.80.1.1* *BD.3.61* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the Order came to be convened on some business or other. The group of six monks, making robes, gave (their) consent to one.[^1] Then the Order, thinking, “We will carry out that (formal) act for the sake of which we were convened,” set aside the motion. Then that monk, thinking, “Even thus do they carry out a (formal) act against each one; against whom do you carry out the (formal) act?” not having given the consent, rising up from his seat, departed. Those who were modest monks … spread it about, saying:
+*Bu-Pc.80.1.1* *BD.3.61* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the Order came to be convened on some business or other. The group of six bhikkhus, making robes, gave (their) consent to one.[^1] Then the Order, thinking, “We will carry out that (formal) act for the sake of which we were convened,” set aside the motion. Then that bhikkhu, thinking, “Even thus do they carry out a (formal) act against each one; against whom do you carry out the (formal) act?” not having given the consent, rising up from his seat, departed. Those who were modest bhikkhus … spread it about, saying:
 
-“How can this monk, when the Order is engaged in decisive talk,[^2] *Vin.4.153* not having given the consent, rising up from his seat, depart?” …
+“How can this bhikkhu, when the Order is engaged in decisive talk,[^2] *Vin.4.153* not having given the consent, rising up from his seat, depart?” …
 
-“Is it true, as is said, that you, monk, when the Order was engaged in decisive talk, not having given the consent, rising up from your seat, departed?”
+“Is it true, as is said, that you, bhikkhu, when the Order was engaged in decisive talk, not having given the consent, rising up from your seat, departed?”
 
 “It is true, lord.”
 
-The enlightened one, the lord, rebuked him, saying: “How can you, foolish man, when the Order is engaged in decisive talk, not having given the consent, rising up from your seat, depart? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+The enlightened one, the lord, rebuked him, saying: “How can you, foolish man, when the Order is engaged in decisive talk, not having given the consent, rising up from your seat, depart? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, when the Order is engaged in decisive talk, not having given the consent, rising up from his seat, should depart, there is an offence of expiation.”
+“Whatever bhikkhu, when the Order is engaged in decisive talk, not having given the consent, rising up from his seat, should depart, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.80.2.1* *BD.3.62* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.80.2.1* *BD.3.62* Whatever means: … bhikkhu is to be understood in this case.
 
 When the Order is engaged in decisive talk means: a matter is announced (but) not decided, or a motion is set aside, or a resolution is unfinished.[^3]
 
@@ -43,7 +43,7 @@ The Tenth[^11] *Vin.4.154*
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two assemblies. What two? A shallow assembly and a deep assembly.
+1“There are, bhikkhus, these two assemblies. What two? A shallow assembly and a deep assembly.
 
-And what is a shallow assembly? An assembly where the mendicants are restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties. This is called a shallow assembly.
+And what is a shallow assembly? An assembly where the bhikkhus are restless, insolent, fickle, gossipy, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties. This is called a shallow assembly.
 
-2And what is a deep assembly? An assembly where the mendicants are not restless, insolent, fickle, gossipy, or loose-tongued, but have established mindfulness, situational awareness, immersion, unified minds, and restrained faculties. This is called a deep assembly. These are the two assemblies.
+2And what is a deep assembly? An assembly where the bhikkhus are not restless, insolent, fickle, gossipy, or loose-tongued, but have established mindfulness, situational awareness, immersion, unified minds, and restrained faculties. This is called a deep assembly. These are the two assemblies.
 
 The better of these two assemblies is the deep assembly.”
 

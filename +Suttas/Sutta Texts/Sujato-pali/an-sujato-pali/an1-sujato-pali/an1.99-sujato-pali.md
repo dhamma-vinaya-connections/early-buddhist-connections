@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Taking into account interior factors, mendicants, I do not see a single one that is so very beneficial as diligence. Diligence is very beneficial.”
+1“Taking into account interior factors, bhikkhus, I do not see a single one that is so very beneficial as diligence. Diligence is very beneficial.”
 
 1"Ajjhattikaṁ, bhikkhave, aṅganti karitvā nāññaṁ ekaṅgampi samanupassāmi yaṁ evaṁ mahato atthāya saṁvattati yathayidaṁ, bhikkhave, appamādo. Appamādo, bhikkhave, mahato atthāya saṁvattatī"ti.
 

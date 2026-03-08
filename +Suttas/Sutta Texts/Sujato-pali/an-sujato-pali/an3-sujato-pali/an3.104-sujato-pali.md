@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I went in search of the world’s gratification, and I found it.
+1“bhikkhus, I went in search of the world’s gratification, and I found it.
 
 I’ve seen clearly with wisdom the full extent of gratification in the world.
 

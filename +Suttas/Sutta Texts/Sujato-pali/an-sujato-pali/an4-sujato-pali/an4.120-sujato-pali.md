@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four perils. What four? The perils of fire, water, kings, and bandits. These are the four perils.”
+1“bhikkhus, there are these four perils. What four? The perils of fire, water, kings, and bandits. These are the four perils.”
 
 1"Cattārimāni, bhikkhave, bhayāni. Katamāni cattāri? Aggibhayaṁ, udakabhayaṁ, rājabhayaṁ, corabhayaṁ – imāni kho, bhikkhave, cattāri bhayānī"ti.
 

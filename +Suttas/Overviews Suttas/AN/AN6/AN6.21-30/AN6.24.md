@@ -44,12 +44,12 @@ parallels_partilal: "[[AN6.72]], [[AN7.40]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant with seven qualities masters their mind and is not mastered by it
+> bhikkhu with seven qualities masters their mind and is not mastered by it
 
 > [!info] Key Excerpts 
 > Skilled at, entering, remaining emerging, gladdening the mind for, samadhi, mindfulness meditation subjects for samadhi and projecting the mind purified by it
 > 
-> Mendicant who has these six qualities could shatter himalaya, the king of mountains, let alone this wretched ignorance
+> bhikkhu who has these six qualities could shatter himalaya, the king of mountains, let alone this wretched ignorance
 > 
 
 

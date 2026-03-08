@@ -16,18 +16,18 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six had beds and benches made upholstered with cotton down. When people walking about the dwellings saw this, they complained and criticized those monks:
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six had beds and benches made upholstered with cotton down. When people walking about the dwellings saw this, they complained and criticized those bhikkhus:
 
 “How can the Sakyan monastics have beds and benches made upholstered with cotton down? They’re just like householders who indulge in worldly pleasures!”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How could the monks from the group of six do this?” …
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How could the bhikkhus from the group of six do this?” …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

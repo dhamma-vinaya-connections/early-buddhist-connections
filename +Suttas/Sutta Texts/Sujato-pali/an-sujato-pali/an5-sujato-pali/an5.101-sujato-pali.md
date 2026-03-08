@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five qualities make a trainee assured. What five? It’s when a mendicant is faithful, ethical, learned, energetic, and wise.
+1“bhikkhus, these five qualities make a trainee assured. What five? It’s when a bhikkhu is faithful, ethical, learned, energetic, and wise.
 
 2A person of faith doesn’t have the insecurities of someone who lacks faith. So this quality makes a trainee assured.
 

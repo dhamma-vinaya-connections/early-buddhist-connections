@@ -15,13 +15,13 @@ language: "English"
 ## ## Chachakka Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Monastery. There he addressed the monks: “Monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Monastery. There he addressed the bhikkhus: “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-“Monks, I will teach you the Dhamma admirable in the beginning, admirable in the middle, admirable in the end; I will expound the holy life both in its particulars & in its essence, entirely complete, surpassingly pure—in other words, the six sextets. Listen & pay close attention. I will speak.”
+“bhikkhus, I will teach you the Dhamma admirable in the beginning, admirable in the middle, admirable in the end; I will expound the holy life both in its particulars & in its essence, entirely complete, surpassingly pure—in other words, the six sextets. Listen & pay close attention. I will speak.”
 
-“As you say, lord,” the monks responded to him.
+“As you say, lord,” the bhikkhus responded to him.
 
 The Blessed One said: “The six internal media should be known. The six external media should be known. The six classes of consciousness should be known. The six classes of contact should be known. The six classes of feeling should be known. The six classes of craving should be known.
 
@@ -49,7 +49,7 @@ The Blessed One said: “The six internal media should be known. The six externa
 
 “If anyone were to say, ‘The intellect is the self,’ that wouldn’t be tenable. The arising & falling away of the intellect are discerned. And when its arising & falling away are discerned, it would follow that ‘My self arises & falls away.’ That’s why it wouldn’t be tenable if anyone were to say, ‘The intellect is the self.’ So the intellect is not-self. If anyone were to say, ‘Ideas are the self,’ that wouldn’t be tenable.... Thus the intellect is not-self and ideas are not-self. If anyone were to say, ‘Consciousness at the intellect is the self,’ that wouldn’t be tenable.... Thus the intellect is not-self, ideas are not-self, consciousness at the intellect is not-self. If anyone were to say, ‘Contact at the intellect is the self,’ that wouldn’t be tenable.... Thus the intellect is not-self, ideas are not-self, consciousness at the intellect is not-self, contact at the intellect is not-self. If anyone were to say, ‘Feeling is the self,’ that wouldn’t be tenable.... Thus the intellect is not-self, ideas are not-self, consciousness at the intellect is not-self, contact at the intellect is not-self, feeling is not self. If anyone were to say, ‘Craving is the self,’ that wouldn’t be tenable. The arising & falling away of craving are discerned. And when its arising & falling away are discerned, it would follow that ‘My self arises & falls away.’ That’s why it wouldn’t be tenable if anyone were to say, ‘Craving is the self.’ Thus the intellect is not-self, ideas are not-self, consciousness at the intellect is not-self, contact at the intellect is not-self, feeling is not self, craving is not-self.
 
-“This, monks, is the path of practice leading to self-identification. One assumes about the eye that ‘This is me, this is my self, this is what I am.’ One assumes about forms.... One assumes about consciousness at the eye.... One assumes about contact at the eye.... One assumes about feeling.... One assumes about craving that ‘This is me, this is my self, this is what I am.’
+“This, bhikkhus, is the path of practice leading to self-identification. One assumes about the eye that ‘This is me, this is my self, this is what I am.’ One assumes about forms.... One assumes about consciousness at the eye.... One assumes about contact at the eye.... One assumes about feeling.... One assumes about craving that ‘This is me, this is my self, this is what I am.’
 
 “One assumes about the ear....
 
@@ -109,7 +109,7 @@ The Blessed One said: “The six internal media should be known. The six externa
 
 “He grows disenchanted with the intellect, disenchanted with ideas, disenchanted with consciousness at the intellect, disenchanted with contact at the intellect, disenchanted with feeling, disenchanted with craving. Disenchanted, he becomes dispassionate. Through dispassion, he is released. With release, there is the knowledge, ‘Released.’ He discerns that ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’”
 
-That is what the Blessed One said. Gratified, the monks delighted at his words. And while this explanation was being given, the hearts of sixty monks, through lack of clinging/sustenance, were released from effluents.
+That is what the Blessed One said. Gratified, the bhikkhus delighted at his words. And while this explanation was being given, the hearts of sixty bhikkhus, through lack of clinging/sustenance, were released from effluents.
 
 note
 

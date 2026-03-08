@@ -25,7 +25,7 @@ language: "English - Pali"
 “It’s no trouble, sir. But there’s a renunciate already staying there. If he allows it, sir, you may stay as long as you like.”
 
 
-2Now at that time a gentleman named Pukkusāti had gone forth from the lay life to homelessness out of faith in the Buddha. And it was he who had first taken up residence in the workshop. Then the Buddha approached Venerable Pukkusāti and said: “Mendicant, if it is no trouble, I’d like to spend a single night in the workshop.”
+2Now at that time a gentleman named Pukkusāti had gone forth from the lay life to homelessness out of faith in the Buddha. And it was he who had first taken up residence in the workshop. Then the Buddha approached Venerable Pukkusāti and said: “bhikkhu, if it is no trouble, I’d like to spend a single night in the workshop.”
 
 “The potter’s workshop is spacious, reverend. Please stay as long as you like.”
 
@@ -38,7 +38,7 @@ So the Buddha said to Pukkusāti: “In whose name have you gone forth, reverend
 
 “Reverend, there is the ascetic Gotama — a Sakyan, gone forth from a Sakyan family. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ I’ve gone forth in his name. That Blessed One is my Teacher, and I believe in his teaching.”
 
-“But mendicant, where is the Blessed One at present, the perfected one, the fully awakened Buddha?”
+“But bhikkhu, where is the Blessed One at present, the perfected one, the fully awakened Buddha?”
 
 “In the northern lands there is a city called Sāvatthī. There the Blessed One is now staying, the perfected one, the fully awakened Buddha.”
 
@@ -49,7 +49,7 @@ So the Buddha said to Pukkusāti: “In whose name have you gone forth, reverend
 
 5Then it occurred to the Buddha: “This gentleman has gone forth in my name. Why don’t I teach him the Dhamma?”
 
-So the Buddha said to Pukkusāti: “Mendicant, I shall teach you the Dhamma. Listen and pay close attention, I will speak.”
+So the Buddha said to Pukkusāti: “bhikkhu, I shall teach you the Dhamma. Listen and pay close attention, I will speak.”
 
 “Yes, reverend,” replied Pukkusāti. The Buddha said this:
 
@@ -108,13 +108,13 @@ They understand: ‘Rebirth is ended, the spiritual journey has been completed, 
 
 29Suppose an oil lamp depended on oil and a wick to burn. As the oil and the wick are used up, it would be extinguished due to lack of fuel. In the same way, feeling the end of the body approaching, they understand: ‘I feel the end of the body approaching.’ Feeling the end of life approaching, they understand: ‘I feel the end of life approaching.’ They understand: ‘When my body breaks up and my life has come to an end, everything that’s felt, since I no longer take pleasure in it, will become cool right here.’
 
-Therefore a mendicant thus endowed is endowed with the ultimate foundation of wisdom. For this is the ultimate noble wisdom, namely, the knowledge of the ending of suffering.
+Therefore a bhikkhu thus endowed is endowed with the ultimate foundation of wisdom. For this is the ultimate noble wisdom, namely, the knowledge of the ending of suffering.
 
-30Their freedom, being founded on truth, is unshakable. For that which is false has a deceptive nature, while that which is true has an undeceptive nature — extinguishment. Therefore a mendicant thus endowed is endowed with the ultimate foundation of truth. For this is the ultimate noble truth, namely, that which has an undeceptive nature — extinguishment.
+30Their freedom, being founded on truth, is unshakable. For that which is false has a deceptive nature, while that which is true has an undeceptive nature — extinguishment. Therefore a bhikkhu thus endowed is endowed with the ultimate foundation of truth. For this is the ultimate noble truth, namely, that which has an undeceptive nature — extinguishment.
 
-31In their ignorance, they used to acquire attachments. Those have been cut off at the root, made like a palm stump, obliterated so they are unable to arise in the future. Therefore a mendicant thus endowed is endowed with the ultimate foundation of generosity. For this is the ultimate noble generosity, namely, letting go of all attachments.
+31In their ignorance, they used to acquire attachments. Those have been cut off at the root, made like a palm stump, obliterated so they are unable to arise in the future. Therefore a bhikkhu thus endowed is endowed with the ultimate foundation of generosity. For this is the ultimate noble generosity, namely, letting go of all attachments.
 
-32In their ignorance, they used to be covetous, full of desire and lust. That has been cut off at the root, made like a palm stump, obliterated so it’s unable to arise in the future. In their ignorance, they used to be contemptuous, full of ill will and malevolence. That has been cut off at the root, made like a palm stump, obliterated so it’s unable to arise in the future. In their ignorance, they used to be ignorant, full of delusion. That has been cut off at the root, made like a palm stump, obliterated so it’s unable to arise in the future. Therefore a mendicant thus endowed is endowed with the ultimate foundation of peace. For this is the ultimate noble peace, namely, the pacification of greed, hate, and delusion.
+32In their ignorance, they used to be covetous, full of desire and lust. That has been cut off at the root, made like a palm stump, obliterated so it’s unable to arise in the future. In their ignorance, they used to be contemptuous, full of ill will and malevolence. That has been cut off at the root, made like a palm stump, obliterated so it’s unable to arise in the future. In their ignorance, they used to be ignorant, full of delusion. That has been cut off at the root, made like a palm stump, obliterated so it’s unable to arise in the future. Therefore a bhikkhu thus endowed is endowed with the ultimate foundation of peace. For this is the ultimate noble peace, namely, the pacification of greed, hate, and delusion.
 
 ‘Don’t neglect wisdom, preserve truth, foster generosity, and train only for peace.’ That’s what I said, and this is why I said it.
 
@@ -122,16 +122,16 @@ Therefore a mendicant thus endowed is endowed with the ultimate foundation of wi
 
 These are all forms of identifying: ‘I am’, ‘I am this’, ‘I will be’, ‘I will not be’, ‘I will have form’, ‘I will be formless’, ‘I will be percipient’, ‘I will be non-percipient’, ‘I will be neither percipient nor non-percipient.’ Identification is a disease, a boil, a dart. Having gone beyond all identification, one is called a sage at peace. The sage at peace is not reborn, does not grow old, and does not die. They are not shaken, and do not yearn. For they have nothing which would cause them to be reborn. Not being reborn, how could they grow old? Not growing old, how could they die? Not dying, how could they be shaken? Not shaking, for what could they yearn?
 
-They have four foundations, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace.’ That’s what I said, and this is why I said it. Mendicant, you should remember this brief analysis of the six elements.”
+They have four foundations, standing on which the streams of identification don’t flow. And when the streams of identification don’t flow, they’re called a sage at peace.’ That’s what I said, and this is why I said it. bhikkhu, you should remember this brief analysis of the six elements.”
 
 
 34Then Venerable Pukkusāti thought: “It seems the Teacher has come to me! The Holy One has come to me! The fully awakened Buddha has come to me!” He got up from his seat, arranged his robe over one shoulder, bowed with his head to the Buddha’s feet, and said: “I have made a mistake, sir. It was foolish, stupid, and unskillful of me to presume to address the Buddha as ‘reverend’. Please, sir, accept my mistake for what it is, so I will restrain myself in future.”
 
-“Indeed, mendicant, you made a mistake. It was foolish, stupid, and unskillful of you to act in that way. But since you have recognized your mistake for what it is, and have dealt with it properly, I accept it. For it is growth in the training of the noble one to recognize a mistake for what it is, deal with it properly, and commit to restraint in the future.”
+“Indeed, bhikkhu, you made a mistake. It was foolish, stupid, and unskillful of you to act in that way. But since you have recognized your mistake for what it is, and have dealt with it properly, I accept it. For it is growth in the training of the noble one to recognize a mistake for what it is, deal with it properly, and commit to restraint in the future.”
 
 “Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
 
-“But mendicant, are your bowl and robes complete?”
+“But bhikkhu, are your bowl and robes complete?”
 
 “No, sir, they are not.”
 
@@ -143,11 +143,11 @@ They have four foundations, standing on which the streams of identification don�
 
 36But while he was wandering in search of a bowl and robes, a stray cow took his life.
 
-Then several mendicants went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, the gentleman named Pukkusāti, who was advised in brief by the Buddha, has passed away. Where has he been reborn in his next life?”
+Then several bhikkhus went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, the gentleman named Pukkusāti, who was advised in brief by the Buddha, has passed away. Where has he been reborn in his next life?”
 
-“Mendicants, Pukkusāti was astute. He practiced in line with the teachings, and did not trouble me about the teachings. With the ending of the five lower fetters, he’s been reborn spontaneously and will become extinguished there, not liable to return from that world.”
+“bhikkhus, Pukkusāti was astute. He practiced in line with the teachings, and did not trouble me about the teachings. With the ending of the five lower fetters, he’s been reborn spontaneously and will become extinguished there, not liable to return from that world.”
 
-37That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+37That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

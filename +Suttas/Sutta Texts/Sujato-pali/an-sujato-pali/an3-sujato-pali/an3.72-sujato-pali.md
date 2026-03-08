@@ -46,7 +46,7 @@ What do you think, householder? Is the teaching of those who teach for giving up
 You, sir, teach Dhamma for giving up greed, hate, and delusion. Your teaching is well explained. You, sir, practice for giving up greed, hate, and delusion. You in the world are practicing well. You’ve given up greed, hate, and delusion. You in the world have done well.
 
 
-7Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Venerable Ānanda has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may Venerable Ānanda remember me as a lay follower who has gone for refuge for life.”
+7Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Venerable Ānanda has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Venerable Ānanda remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

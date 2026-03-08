@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.69.1.1* *BD.3.377* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns for two years did not wait upon an ordained woman instructor.[^1] These[^2] were ignorant, inexperienced, they did not know what was allowable or what was not allowable. Those who were modest nuns … spread it about, saying: “How can these nuns for two years not wait upon an ordained woman instructor?” …
 
-“Is it true, as is said, monks, that nuns … woman instructor
+“Is it true, as is said, bhikkhus, that nuns … woman instructor
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns … ordained woman instructor? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training: *Vin.4.326*
+“How, bhikkhus, can nuns … ordained woman instructor? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training: *Vin.4.326*
 
 “Whatever nun for two years should not wait upon an ordained woman instructor, there is an offence of expiation.”
 

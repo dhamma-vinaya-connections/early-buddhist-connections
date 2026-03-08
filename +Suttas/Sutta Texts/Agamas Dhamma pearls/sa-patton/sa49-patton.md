@@ -20,7 +20,7 @@ language: "English"
 2. It was then that the Bhagavān addressed Venerable Ānanda, “Suppose a faithful prominent man or a prominent man’s son were to come and ask you, ‘How shall I know the arising and ceasing of things?’ How would you answer him?”
 3. Ānanda said to the Buddha, “Bhagavān, if some prominent man or a prominent man’s son were to come and ask me that, I would answer, ‘Know that form is something that arises and ceases. Know that feeling … conception … volition … awareness is something that arises and ceases.’ Bhagavān, if a prominent man or a prominent man’s son were to question me thus, I would answer him in this way.”
 4. The Buddha told Ānanda, “Good, good! You should answer him in this way. Why is that? Form is something that arises and ceases. Feeling … conception … volition … awareness is something that arises and ceases. Knowing that form is something that arises and ceases is called knowing form. Knowing that feeling … conception … volition … awareness is something that arises and ceases is called knowing awareness.”
-5. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+5. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

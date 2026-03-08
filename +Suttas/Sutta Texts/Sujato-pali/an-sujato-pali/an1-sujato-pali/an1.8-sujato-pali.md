@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single smell that occupies a woman’s mind like the smell of a man. The smell of a man occupies a woman’s mind.”
+1“bhikkhus, I do not see a single smell that occupies a woman’s mind like the smell of a man. The smell of a man occupies a woman’s mind.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekagandhampi samanupassāmi yaṁ evaṁ itthiyā cittaṁ pariyādāya tiṭṭhati yathayidaṁ, bhikkhave, purisagandho. Purisagandho, bhikkhave, itthiyā cittaṁ pariyādāya tiṭṭhatī"ti.
 

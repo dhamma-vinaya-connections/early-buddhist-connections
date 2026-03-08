@@ -17,18 +17,18 @@ language: "English"
 
 5. Downfall
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “When I continuously examine the things that a person thinks about in their mind, I see: ‘This person will fall to hell<a id="fnref2"></a>[^2] in the time it takes to flex their arm.’ Why is that? Because of their evil thoughts, their mind becomes ill, and they fall down into hell.”
+2. It was then that the Bhagavān addressed the bhikkhus, “When I continuously examine the things that a person thinks about in their mind, I see: ‘This person will fall to hell<a id="fnref2"></a>[^2] in the time it takes to flex their arm.’ Why is that? Because of their evil thoughts, their mind becomes ill, and they fall down into hell.”
 3. The Bhagavān then spoke in verse:
 - “Suppose that a person    
     Harbors hateful notions in their heart.    
-    Now, I’ll tell you monks    
+    Now, I’ll tell you bhikkhus    
     The meaning of this in detail.
 - Supposing their life were to end    
     Right at this moment in time,    
     Then they would be sent to hell    
     Because of their mind’s defiled conduct.
-4. “Therefore, monks, one should control their mind and not do defiled conduct. Thus, monks, you should train yourselves.”
-5. When the monks heard what the Buddha taught, they rejoiced and approved.
+4. “Therefore, bhikkhus, one should control their mind and not do defiled conduct. Thus, bhikkhus, you should train yourselves.”
+5. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are four ways of practice. What four?
+1“bhikkhus, there are four ways of practice. What four?
 
 1. Painful practice with slow insight,
 2. painful practice with swift insight,

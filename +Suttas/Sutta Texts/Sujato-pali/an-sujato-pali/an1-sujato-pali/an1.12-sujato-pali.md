@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to ill will, or, when it has arisen, makes it increase and grow like the feature of harshness. When you attend improperly to the feature of harshness, ill will arises, and once arisen it increases and grows.”>
+1“bhikkhus, I do not see a single thing that gives rise to ill will, or, when it has arisen, makes it increase and grow like the feature of harshness. When you attend improperly to the feature of harshness, ill will arises, and once arisen it increases and grows.”>
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppanno vā byāpādo uppajjati uppanno vā byāpādo bhiyyobhāvāya vepullāya saṁvattati yathayidaṁ, bhikkhave, paṭighanimittaṁ. Paṭighanimittaṁ, bhikkhave, ayoniso manasi karoto anuppanno ceva byāpādo uppajjati uppanno ca byāpādo bhiyyobhāvāya vepullāya saṁvattatī"ti.
 

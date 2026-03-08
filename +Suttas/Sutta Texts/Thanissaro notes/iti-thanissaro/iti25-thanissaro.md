@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 25
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, for the person who transgresses in one thing, I tell you, there is no evil deed that is not to be done. Which one thing? This: telling a deliberate lie.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, for the person who transgresses in one thing, I tell you, there is no evil deed that is not to be done. Which one thing? This: telling a deliberate lie.”
 
 For the person who lies,
 

@@ -140,7 +140,7 @@ Whoever deceives with a lie
 
 a brahman, contemplative,
 
-or other mendicant:
+or other bhikkhu:
 
 He should be known as ‘outcaste.’
 
@@ -258,7 +258,7 @@ By action one is an outcaste.
 
 By action is one a brahman.
 
-When this was said, the brahman Aggika Bhāradvāja said to the Blessed One: “Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has gone for refuge from this day forward, for life.”
+When this was said, the brahman Aggika Bhāradvāja said to the Blessed One: “Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of bhikkhus. May Master Gotama remember me as a lay follower who has gone for refuge from this day forward, for life.”
 
 vv. 116–142
 

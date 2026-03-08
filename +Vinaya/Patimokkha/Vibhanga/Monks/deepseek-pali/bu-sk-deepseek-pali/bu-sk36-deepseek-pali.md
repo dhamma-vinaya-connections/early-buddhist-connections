@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 610. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū thūpakato omadditvā piṇḍapātaṃ bhuñjanti…pe….
 
-## 610.At that time the Blessed One was dwelling at Sāvatthī in Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the group of six monks were eating almsfood having pressed down a mound….
+## 610.At that time the Blessed One was dwelling at Sāvatthī in Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the group of six bhikkhus were eating almsfood having pressed down a mound….
 
 ‘‘Na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā’’ti.
 

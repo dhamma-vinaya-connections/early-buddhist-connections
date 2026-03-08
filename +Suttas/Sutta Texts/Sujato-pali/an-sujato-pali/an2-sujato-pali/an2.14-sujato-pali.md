@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two ways of teaching the Dhamma. What two? In brief and in detail. These are two ways of teaching the Dhamma.”
+1“There are, bhikkhus, these two ways of teaching the Dhamma. What two? In brief and in detail. These are two ways of teaching the Dhamma.”
 
 1"Dvemā, bhikkhave, tathāgatassa dhammadesanā. Katamā dve? Saṅkhittena ca vitthārena ca. Imā kho, bhikkhave, dve tathāgatassa dhammadesanā"ti.
 

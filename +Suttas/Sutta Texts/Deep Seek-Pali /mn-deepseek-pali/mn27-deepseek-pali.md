@@ -176,7 +176,7 @@ Abandoning idle chatter, he abstains from idle talk. He speaks at the right time
 
 Evaṃ vutte, jāṇussoṇi brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama! Seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya – cakkhumanto rūpāni dakkhantīti; evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi, dhammañca, bhikkhusaṅghañca. Upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.
 
-When this was said, the brahmin Jāṇussoṇi said to the Blessed One: "Excellent, Master Gotama, excellent! Just as, Master Gotama, one might set upright what is overturned, reveal what is hidden, show the way to one who is lost, or hold up a lamp in the darkness, so that those with eyes may see forms—in the same way the Dhamma has been made clear by Master Gotama in many ways. I go to Master Gotama for refuge, to the Dhamma, and to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has taken refuge from this day forward, for as long as life lasts."
+When this was said, the brahmin Jāṇussoṇi said to the Blessed One: "Excellent, Master Gotama, excellent! Just as, Master Gotama, one might set upright what is overturned, reveal what is hidden, show the way to one who is lost, or hold up a lamp in the darkness, so that those with eyes may see forms—in the same way the Dhamma has been made clear by Master Gotama in many ways. I go to Master Gotama for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. May Master Gotama remember me as a lay follower who has taken refuge from this day forward, for as long as life lasts."
 
 Cūḷahatthipadopamasuttaṃ niṭṭhitaṃ sattamaṃ.
 

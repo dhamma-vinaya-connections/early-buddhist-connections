@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 629. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū pattanillehakaṃ bhuñjanti…pe….
 
-## 629.At that time the Blessed One was dwelling at Savatthi in Jeta Grove, Anathapindika's Monastery. At that time the group-of-six monks were eating, licking their bowls… and so on.
+## 629.At that time the Blessed One was dwelling at Savatthi in Jeta Grove, Anathapindika's Monastery. At that time the group-of-six bhikkhus were eating, licking their bowls… and so on.
 
 ‘‘Na pattanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā’’ti.
 

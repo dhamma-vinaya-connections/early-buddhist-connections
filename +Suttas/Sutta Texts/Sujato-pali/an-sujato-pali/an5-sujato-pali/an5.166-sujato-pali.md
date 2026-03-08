@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Venerable Sāriputta addressed the mendicants:
+1There Venerable Sāriputta addressed the bhikkhus:
 
-“Reverends, take a mendicant who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling. That is possible. If they don’t reach enlightenment in this very life, then, surpassing the company of gods that consume solid food, they’re reborn in a certain host of mind-made gods. There they might enter into and emerge from the cessation of perception and feeling. That is possible.”
+“Reverends, take a bhikkhu who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling. That is possible. If they don’t reach enlightenment in this very life, then, surpassing the company of gods that consume solid food, they’re reborn in a certain host of mind-made gods. There they might enter into and emerge from the cessation of perception and feeling. That is possible.”
 
 
 2When he said this, Venerable Udāyī said to him: “This is not possible, Reverend Sāriputta, it cannot happen!”
@@ -34,11 +34,11 @@ language: "English - Pali"
 4And for a third time, Udāyī said to him: “This is not possible, Reverend Sāriputta, it cannot happen!”
 
 
-5Then Venerable Sāriputta thought: “Venerable Udāyī disagrees with me three times, and not one mendicant agrees with me. Why don’t I go to see the Buddha?”
+5Then Venerable Sāriputta thought: “Venerable Udāyī disagrees with me three times, and not one bhikkhu agrees with me. Why don’t I go to see the Buddha?”
 
-Then Sāriputta went up to the Buddha, bowed, sat down to one side, and said to the mendicants:
+Then Sāriputta went up to the Buddha, bowed, sat down to one side, and said to the bhikkhus:
 
-“Reverends, take a mendicant who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling. There is such a possibility. If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain host of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling. That is possible.”
+“Reverends, take a bhikkhu who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling. There is such a possibility. If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain host of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling. That is possible.”
 
 
 6When he said this, Udāyī said to him: “This is not possible, Reverend Sāriputta, it cannot happen!”
@@ -49,7 +49,7 @@ Then Sāriputta went up to the Buddha, bowed, sat down to one side, and said to 
 8And for a third time, Udāyī said to him: “This is not possible, Reverend Sāriputta, it cannot happen!”
 
 
-9Then Venerable Sāriputta thought: “Even in front of the Buddha Venerable Udāyī disagrees with me three times, and not one mendicant agrees with me. I’d better stay silent.” Then Sāriputta fell silent.
+9Then Venerable Sāriputta thought: “Even in front of the Buddha Venerable Udāyī disagrees with me three times, and not one bhikkhu agrees with me. I’d better stay silent.” Then Sāriputta fell silent.
 
 
 10Then the Buddha said to Venerable Udāyī: “But Udāyī, do you believe in a mind-made body?”
@@ -60,27 +60,27 @@ Then Sāriputta went up to the Buddha, bowed, sat down to one side, and said to 
 “Udāyī, what has an incompetent fool like you got to say? How on earth could you imagine you’ve got something worth saying!”
 
 
-11Then the Buddha said to Venerable Ānanda: “Ānanda! There’s a senior mendicant being harassed, and you just watch it happening. Don’t you have any compassion for a senior mendicant who is being harassed?”
+11Then the Buddha said to Venerable Ānanda: “Ānanda! There’s a senior bhikkhu being harassed, and you just watch it happening. Don’t you have any compassion for a senior bhikkhu who is being harassed?”
 
 
-12Then the Buddha addressed the mendicants:
+12Then the Buddha addressed the bhikkhus:
 
-“Mendicants, take a mendicant who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling. That is possible. If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain host of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling. That is possible.”
+“bhikkhus, take a bhikkhu who is accomplished in ethics, immersion, and wisdom. They might enter into and emerge from the cessation of perception and feeling. That is possible. If they don’t reach enlightenment in this very life, they’re reborn in the company of a certain host of mind-made gods, who surpass the gods that consume solid food. There they might enter into and emerge from the cessation of perception and feeling. That is possible.”
 
 That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.
 
 
-13Then, not long after the Buddha had left, Venerable Ānanda went to Venerable Upavāṇa and said to him: “Reverend Upavāṇa, they’ve been harassing other senior mendicants, but I didn’t question them. I wouldn’t be surprised if the Buddha makes a statement about this when he comes out of retreat later this afternoon. He might even call upon Venerable Upavāṇa himself. And right now I feel timid.”
+13Then, not long after the Buddha had left, Venerable Ānanda went to Venerable Upavāṇa and said to him: “Reverend Upavāṇa, they’ve been harassing other senior bhikkhus, but I didn’t question them. I wouldn’t be surprised if the Buddha makes a statement about this when he comes out of retreat later this afternoon. He might even call upon Venerable Upavāṇa himself. And right now I feel timid.”
 
 Then in the late afternoon, the Buddha came out of retreat and went to the assembly hall, where he sat on the seat spread out, and said to Upavāṇa,
 
 
-14“Upavāṇa, how many qualities should a senior mendicant have to be dear and beloved to their spiritual companions, respected and admired?”
+14“Upavāṇa, how many qualities should a senior bhikkhu have to be dear and beloved to their spiritual companions, respected and admired?”
 
-“Sir, a senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired. What five?
+“Sir, a senior bhikkhu with five qualities is dear and beloved to their spiritual companions, respected and admired. What five?
 
 
-It’s when a mendicant is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
+It’s when a bhikkhu is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
 They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s totally full and pure. They are very learned in such teachings, remembering them, reciting them, mentally scrutinizing them, and understanding them with right view.
 
@@ -91,10 +91,10 @@ They get the four jhānas — blissful meditations in the present life that belo
 
 They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 
-A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
+A senior bhikkhu with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
 
 
-15“Good, good, Upavāṇa! A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired. If these five qualities are not found in a senior mendicant, why would their spiritual companions honor, respect, revere, or venerate them? Because of their broken teeth, gray hair, and wrinkled skin? But since these five qualities are found in a senior mendicant, their spiritual companions honor, respect, revere, or venerate them.”
+15“Good, good, Upavāṇa! A senior bhikkhu with these five qualities is dear and beloved to their spiritual companions, respected and admired. If these five qualities are not found in a senior bhikkhu, why would their spiritual companions honor, respect, revere, or venerate them? Because of their broken teeth, gray hair, and wrinkled skin? But since these five qualities are found in a senior bhikkhu, their spiritual companions honor, respect, revere, or venerate them.”
 
 #### Pali
 

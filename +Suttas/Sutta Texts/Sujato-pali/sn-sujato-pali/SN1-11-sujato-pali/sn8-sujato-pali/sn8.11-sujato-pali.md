@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato.  
 
-1At one time the Buddha was staying near Campā on the banks of the Gaggarā Lotus Pond, together with a large Saṅgha of around five hundred mendicants, seven hundred male and seven hundred female lay followers, and many thousands of deities. But the Buddha outshone them all in beauty and glory.
+1At one time the Buddha was staying near Campā on the banks of the Gaggarā Lotus Pond, together with a large Saṅgha of around five hundred bhikkhus, seven hundred male and seven hundred female lay followers, and many thousands of deities. But the Buddha outshone them all in beauty and glory.
 
-Then Venerable Vaṅgīsa thought: “The Buddha is staying near Campā on the banks of the Gaggarā Lotus Pond, together with a large Saṅgha of around five hundred mendicants, seven hundred male and seven hundred female lay followers, and many thousands of deities. And he outshines them all in beauty and glory. Why don’t I extoll him in his presence with fitting verses?”
+Then Venerable Vaṅgīsa thought: “The Buddha is staying near Campā on the banks of the Gaggarā Lotus Pond, together with a large Saṅgha of around five hundred bhikkhus, seven hundred male and seven hundred female lay followers, and many thousands of deities. And he outshines them all in beauty and glory. Why don’t I extoll him in his presence with fitting verses?”
 
 2Then Venerable Vaṅgīsa got up from his seat, arranged his robe over one shoulder, raised his joined palms toward the Buddha, and said: “I feel inspired to speak, Blessed One! I feel inspired to speak, Holy One!”
 

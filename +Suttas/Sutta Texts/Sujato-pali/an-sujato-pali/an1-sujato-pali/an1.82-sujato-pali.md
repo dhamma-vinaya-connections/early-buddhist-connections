@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that is so very harmful as negligence. Negligence is very harmful.”
+1“bhikkhus, I do not see a single thing that is so very harmful as negligence. Negligence is very harmful.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ mahato anatthāya saṁvattati yathayidaṁ, bhikkhave, pamādo. Pamādo, bhikkhave, mahato anatthāya saṁvattatī"ti.
 

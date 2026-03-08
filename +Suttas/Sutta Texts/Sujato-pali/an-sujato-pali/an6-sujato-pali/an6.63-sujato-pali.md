@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you a penetrative exposition of the teaching. Listen and pay close attention, I will speak.”
+1“bhikkhus, I will teach you a penetrative exposition of the teaching. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
-2“Mendicants, what is the penetrative exposition of the teaching?
+2“bhikkhus, what is the penetrative exposition of the teaching?
 
 Sensual pleasures should be known. And their source, diversity, result, cessation, and the practice that leads to their cessation should be known.
 

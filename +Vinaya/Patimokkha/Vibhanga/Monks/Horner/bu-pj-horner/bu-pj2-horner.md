@@ -7,21 +7,21 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ2]]
 > ◄  [[bu-pj1-horner]] 📜  [[bu-pj3-horner]] ►
 
-# Monks’ Expulsion (_Pārājika_) 2
+# bhikkhus’ Expulsion (_Pārājika_) 2
 
 ## Origin story
 
 ### First sub-story
 
-*Bu-Pj.2.1.1* *BD.1.64* *Vin.3.41* *MS.191* At one time the Buddha, the Master, was staying at Rājagaha on Mount Vultureʼs Peak. Now at that time a number of monks who were friends made grass huts on the slope of Mount Isigili[^1] and entered the rains there. Among them was Venerable Dhaniya, the potterʼs son. Then, after three months, when the rains (residence) was over, the monks demolished their grass huts, put away the grass and wood and departed to wander around the country. But Venerable Dhaniya spent the rains there, and the winter and the summer. Then, while Venerable Dhaniya was in the village collecting alms, women gathering grass and firewood demolished the grass hut and took away the grass and sticks. A second time Venerable Dhaniya collected grass and sticks and made a grass hut. A second time, while Venerable Dhaniya was in the village collecting alms, women gathering grass and firewood demolished the grass hut and took away the grass and sticks. And the same thing happened a third time. *MS.192* Then Venerable Dhaniya thought: “Three times *BD.1.65* this has happened. But I am well-trained and experienced in my own craft, the potterʼs craft. Perhaps I should knead mud myself and make a hut consisting of nothing but clay?” *MS.193* Then Venerable Dhaniya *Vin.3.42* did just that. He then collected grass, wood and cow-dung and baked his hut. It was a beautiful, lovely and charming little hut, and it was red just like a scarlet rain-mite.[^2] And (when hit) it sounded just like the sound of a bell.
+*Bu-Pj.2.1.1* *BD.1.64* *Vin.3.41* *MS.191* At one time the Buddha, the Master, was staying at Rājagaha on Mount Vultureʼs Peak. Now at that time a number of bhikkhus who were friends made grass huts on the slope of Mount Isigili[^1] and entered the rains there. Among them was Venerable Dhaniya, the potterʼs son. Then, after three months, when the rains (residence) was over, the bhikkhus demolished their grass huts, put away the grass and wood and departed to wander around the country. But Venerable Dhaniya spent the rains there, and the winter and the summer. Then, while Venerable Dhaniya was in the village collecting alms, women gathering grass and firewood demolished the grass hut and took away the grass and sticks. A second time Venerable Dhaniya collected grass and sticks and made a grass hut. A second time, while Venerable Dhaniya was in the village collecting alms, women gathering grass and firewood demolished the grass hut and took away the grass and sticks. And the same thing happened a third time. *MS.192* Then Venerable Dhaniya thought: “Three times *BD.1.65* this has happened. But I am well-trained and experienced in my own craft, the potterʼs craft. Perhaps I should knead mud myself and make a hut consisting of nothing but clay?” *MS.193* Then Venerable Dhaniya *Vin.3.42* did just that. He then collected grass, wood and cow-dung and baked his hut. It was a beautiful, lovely and charming little hut, and it was red just like a scarlet rain-mite.[^2] And (when hit) it sounded just like the sound of a bell.
 
-*Bu-Pj.2.1.2* *MS.194* Then the Master, descending from Mount Vultureʼs Peak with a number of monks, saw the hut. He then addressed the monks:
+*Bu-Pj.2.1.2* *MS.194* Then the Master, descending from Mount Vultureʼs Peak with a number of bhikkhus, saw the hut. He then addressed the bhikkhus:
 
-“Monks, what is this beautiful, lovely and charming thing, which is red like a scarlet rain-mite?” The monks then informed the Master. The Buddha, the Master, was critical, saying:
+“bhikkhus, what is this beautiful, lovely and charming thing, which is red like a scarlet rain-mite?” The bhikkhus then informed the Master. The Buddha, the Master, was critical, saying:
 
-“It is not suitable, monks, for that foolish man, it is not fit, it is not becoming, it is not worthy of a recluse, it is not allowable, it should not be done. For how could that foolish man make a hut out of nothing but clay? Certainly this foolish man can have no consideration, compassion and mercy for living beings.[^3] *BD.1.66* Go, monks, and demolish this hut. Do not let future generations take up the destruction of living beings.[^4] And, monks, a hut consisting of nothing but clay should not be made. If one does, there is an offence of bad conduct.”[^5]
+“It is not suitable, bhikkhus, for that foolish man, it is not fit, it is not becoming, it is not worthy of a recluse, it is not allowable, it should not be done. For how could that foolish man make a hut out of nothing but clay? Certainly this foolish man can have no consideration, compassion and mercy for living beings.[^3] *BD.1.66* Go, bhikkhus, and demolish this hut. Do not let future generations take up the destruction of living beings.[^4] And, bhikkhus, a hut consisting of nothing but clay should not be made. If one does, there is an offence of bad conduct.”[^5]
 
-“Yes, bhante,” the monks replied, and they went to that hut and *BD.1.67* demolished it. Then Venerable Dhaniya said to those monks:
+“Yes, bhante,” the bhikkhus replied, and they went to that hut and *BD.1.67* demolished it. Then Venerable Dhaniya said to those bhikkhus:
 
 “Why, friends, are you demolishing my hut?”
 
@@ -75,7 +75,7 @@ Then the brahmin Vassakāra went to King Seniya Bimbisāra of Magadha and said t
 
 *Bu-Pj.2.1.6* *MS.202* People criticised and denounced him: “These recluses, the sons of the Sakyan, are shameless, immoral, liars. They claim to be followers of _dhamma_, of just conduct, committed to the spiritual life, speakers of truth, virtuous, of good conduct. But there is no recluseship or brahminhood among these—it is lost to them. Where is recluseship and brahminhood among them? They have departed from it. They even deceive the king; what then other people?”
 
-*MS.203* Monks heard the criticism of those people. Those monks who had few desires and a sense of shame, who were contented, scrupulous, and desirous of training, criticised and denounced Venerable Dhaniya: “How could he take wood belonging to the king that had not been given to him?” *MS.204* Then these monks informed the Master. And in this connection the Master convened the Sangha of monks and questoned Venerable Dhaniya:
+*MS.203* bhikkhus heard the criticism of those people. Those bhikkhus who had few desires and a sense of shame, who were contented, scrupulous, and desirous of training, criticised and denounced Venerable Dhaniya: “How could he take wood belonging to the king that had not been given to him?” *MS.204* Then these bhikkhus informed the Master. And in this connection the Master convened the Sangha of bhikkhus and questoned Venerable Dhaniya:
 
 “Is it true, Dhaniya, that you have taken wood belonging to the king that was not given to you?”
 
@@ -83,21 +83,21 @@ Then the brahmin Vassakāra went to King Seniya Bimbisāra of Magadha and said t
 
 *BD.1.71* The Buddha, the Master, rebuked him: “Foolish man, it is not suitable, it is not becoming, it is not proper, it is not worthy of a recluse, it is not allowable, it is not to be done. How could you *Vin.3.45* take wood belonging to the king that has not been given to you? This will not give rise to confidence in those without it,[^14] nor increase the confidence of those who have it, but it will hinder confidence in those without it and it will cause some with confidence to change their minds.”
 
-*MS.205* Now at that time a certain former chief minister of justice who had gone forth among the monks was sitting near the Master. The Master said to him: “For what amount of theft, monk, does King Bimbisāra flog, imprison or banish a thief?”
+*MS.205* Now at that time a certain former chief minister of justice who had gone forth among the bhikkhus was sitting near the Master. The Master said to him: “For what amount of theft, bhikkhu, does King Bimbisāra flog, imprison or banish a thief?”
 
 “For a _pāda_,[^15] Master, for the worth of a _pāda_[^16], or for more than a _pāda_.”
 
-Now at that time in Rājagaha a _pāda_ was worth *BD.1.72* five _māsakas_.[^17] Then the Master, having rebuked Venerable Dhaniya in several ways for being difficult to support … “… And, monks, this training rule should be recited thus:
+Now at that time in Rājagaha a _pāda_ was worth *BD.1.72* five _māsakas_.[^17] Then the Master, having rebuked Venerable Dhaniya in several ways for being difficult to support … “… And, bhikkhus, this training rule should be recited thus:
 
 ### Preliminary ruling
 
-*MS.206* “If a monk takes by way of theft what has not been given to him—the sort of theft for which kings, having caught a thief, would flog, imprison or banish him, saying, ʻYou are a robber, you are foolish, you have gone astray, you are a thiefʼ—he too is expelled and not in communion.”
+*MS.206* “If a bhikkhu takes by way of theft what has not been given to him—the sort of theft for which kings, having caught a thief, would flog, imprison or banish him, saying, ʻYou are a robber, you are foolish, you have gone astray, you are a thiefʼ—he too is expelled and not in communion.”
 
-*MS.207* Thus the Master laid down this training rule for the monks.
+*MS.207* Thus the Master laid down this training rule for the bhikkhus.
 
 ### Second sub-story
 
-*Bu-Pj.2.2* *MS.208* At one time the group of six monks went to the dyersʼ spread (of dyed cloth)*†*, carried off the dyersʼ goods, took it to the monastery and divided it out. Other monks said:
+*Bu-Pj.2.2* *MS.208* At one time the group of six bhikkhus went to the dyersʼ spread (of dyed cloth)*†*, carried off the dyersʼ goods, took it to the monastery and divided it out. Other bhikkhus said:
 
 “Friends, you have great merit, for many robes have accrued to you.”
 
@@ -109,23 +109,23 @@ Now at that time in Rājagaha a _pāda_ was worth *BD.1.72* five _māsakas_.[^17
 
 “But, friends, that is just the same. *BD.1.73* It is not suitable, it is not becoming, it is not proper, it is not worthy of a recluse, it is not allowable, it should not be done. How could you carry off the dyersʼs goods? It will not give rise to confidence in those without it, nor increase the confidence of those who have it, but it will hinder confidence in those without it and it will cause some with confidence to change their minds.”
 
-Then those monks, having rebuked the group of six monks in various ways, *Vin.3.46* informed the Master. *MS.209* And in this connection the Master convened the Sangha and questoned the group of six monks:
+Then those bhikkhus, having rebuked the group of six bhikkhus in various ways, *Vin.3.46* informed the Master. *MS.209* And in this connection the Master convened the Sangha and questoned the group of six bhikkhus:
 
-“Is it true, monks, that you went the dyersʼ spread (of dyed cloth) and carried off the dyersʼ goods?”
+“Is it true, bhikkhus, that you went the dyersʼ spread (of dyed cloth) and carried off the dyersʼ goods?”
 
 “It is true, Master.”
 
-The Buddha, the Master, rebuked them: “it is not suitable, foolish men, it is not becoming, it is not proper, it is not worthy of a recluse, it is not allowable, it should not be done. How could you go to the dyersʼ spread (of dyed cloth) and carry off the dyersʼ goods? It will not give rise to confidence in those without it … to change their minds.” Then the Master, rebuking the group of six monks in various ways, spoke in dispraise of being difficult to support … but he spoke in praise … of the putting forth of energy. Having given a _Dhamma_ talk on what was right and seemly, he addressed the monks … “… And so, monks, this training rule should be recited thus:
+The Buddha, the Master, rebuked them: “it is not suitable, foolish men, it is not becoming, it is not proper, it is not worthy of a recluse, it is not allowable, it should not be done. How could you go to the dyersʼ spread (of dyed cloth) and carry off the dyersʼ goods? It will not give rise to confidence in those without it … to change their minds.” Then the Master, rebuking the group of six bhikkhus in various ways, spoke in dispraise of being difficult to support … but he spoke in praise … of the putting forth of energy. Having given a _Dhamma_ talk on what was right and seemly, he addressed the bhikkhus … “… And so, bhikkhus, this training rule should be recited thus:
 
 ## Final ruling
 
-*MS.210* “If a monk takes by way of theft from a village or from the wilderness what has not been given to him—the sort of theft for which kings, having caught a thief, would flog, imprison or banish him, saying, ʻYou are a robber, you are foolish, you have gone astray, you are a thiefʼ—he too is expelled and not in communion.”
+*MS.210* “If a bhikkhu takes by way of theft from a village or from the wilderness what has not been given to him—the sort of theft for which kings, having caught a thief, would flog, imprison or banish him, saying, ʻYou are a robber, you are foolish, you have gone astray, you are a thiefʼ—he too is expelled and not in communion.”
 
 ## Definitions
 
 *Bu-Pj.2.3* *MS.211* A means: whoever, of such kind …
 
-Monk means: … this sort of monk is meant in this case.
+bhikkhu means: … this sort of bhikkhu is meant in this case.
 
 *BD.1.74* *MS.212* Village means: a village of one hut, a village of two huts, a village of three huts, a village of four huts, an inhabited village, an uninhabited village,[^19] a fenced-in village, a village which is not fenced in, a disorganised village, and even a caravan that is camping for more than four months is called a village. The precincts of the village means: of a fenced-in village, the outward stone-throw of a man of average height standing at the threshold (of the village gate); of a village not fenced in, the outward stone-throw of a man of average height standing within the precincts of a house.[^20]
 
@@ -153,7 +153,7 @@ Monk means: … this sort of monk is meant in this case.
 
 *MS.227* He too means: this is said with reference to the preceding offence entailing expulsion.
 
-*MS.228* Is expelled means: just as a fallen, withered leaf could not[^25] become green again, so a monk who takes by way of theft a _pāda_, the worth of a _pāda_ or more than a _pāda_, which had not been given to him, is not a recluse, not a son of the Sakyan[^26]—he is therefore called one who is expelled.
+*MS.228* Is expelled means: just as a fallen, withered leaf could not[^25] become green again, so a bhikkhu who takes by way of theft a _pāda_, the worth of a _pāda_ or more than a _pāda_, which had not been given to him, is not a recluse, not a son of the Sakyan[^26]—he is therefore called one who is expelled.
 
 *MS.229* Not in communion means: _communion_ means: a common official action, the same recital, the same training—this is called communion. He does not take part in this—he is therefore called not in communion.
 
@@ -273,17 +273,17 @@ If he avoids the customs station, there is an offence of bad conduct.
 
 ### Permutations part 2
 
-*Bu-Pj.2.5.1* *MS.261* If a monk tells a monk, “steal such and such goods,” there is an offence of bad conduct. If he steals them, thinking they are the ones he has been asked to steal, there is an offence entailing expulsion for both. If a monk tells a monk, “steal such and such goods,” but he steals something else, thinking they are the ones he has been asked to steal, there is no offence for the instigator, but there is an offence entailing expulsion for the thief. If a monk tells a monk, “steal such and such goods,” and he steals them, thinking they are something else than what he has been asked to steal, there is an offence entailing expulsion for both. If a monk tells a monk, “steal such and such goods,” but he steals something else than what he has been asked to steal, thinking it is something else, there is no offence for the instigator, but there is an offence entailing expulsion for the thief.*†*
+*Bu-Pj.2.5.1* *MS.261* If a bhikkhu tells a bhikkhu, “steal such and such goods,” there is an offence of bad conduct. If he steals them, thinking they are the ones he has been asked to steal, there is an offence entailing expulsion for both. If a bhikkhu tells a bhikkhu, “steal such and such goods,” but he steals something else, thinking they are the ones he has been asked to steal, there is no offence for the instigator, but there is an offence entailing expulsion for the thief. If a bhikkhu tells a bhikkhu, “steal such and such goods,” and he steals them, thinking they are something else than what he has been asked to steal, there is an offence entailing expulsion for both. If a bhikkhu tells a bhikkhu, “steal such and such goods,” but he steals something else than what he has been asked to steal, thinking it is something else, there is no offence for the instigator, but there is an offence entailing expulsion for the thief.*†*
 
-*Bu-Pj.2.5.2* *MS.265* If a monk tells a monk, “tell such and such to tell such and such to steal such and such goods,” there is an offence of bad conduct. In informing the next person, there is an offence of bad conduct. If the (potential) thief agrees, there is a serious offence for the instigator. If he steals these goods, there is an offence entailing expulsion for all of them.*†*[^99] *MS.266* If a monk tells a monk, “tell *BD.1.90* such and such to tell such and such to steal such and such goods,” there is an offence of bad conduct. If he tells someone else than the one he was told to tell, there is an offence of bad conduct. If the (potential) thief agrees, there is an offence of bad conduct. If he steals these goods, there is no offence for the instigator, but there is an offence entailing expulsion for the conveyor of the message and the thief.
+*Bu-Pj.2.5.2* *MS.265* If a bhikkhu tells a bhikkhu, “tell such and such to tell such and such to steal such and such goods,” there is an offence of bad conduct. In informing the next person, there is an offence of bad conduct. If the (potential) thief agrees, there is a serious offence for the instigator. If he steals these goods, there is an offence entailing expulsion for all of them.*†*[^99] *MS.266* If a bhikkhu tells a bhikkhu, “tell *BD.1.90* such and such to tell such and such to steal such and such goods,” there is an offence of bad conduct. If he tells someone else than the one he was told to tell, there is an offence of bad conduct. If the (potential) thief agrees, there is an offence of bad conduct. If he steals these goods, there is no offence for the instigator, but there is an offence entailing expulsion for the conveyor of the message and the thief.
 
-*Bu-Pj.2.5.3* *MS.267* If a monk tells a monk, *Vin.3.54* “steal such and such goods,” there is an offence of bad conduct. Having gone, he returns, saying, “I am not able to steal those goods,” and if he tells him again, “when you are able, then steal those goods,” there is an offence of bad conduct. If he steals the goods, there is an offence entailing expulsion for both.
+*Bu-Pj.2.5.3* *MS.267* If a bhikkhu tells a bhikkhu, *Vin.3.54* “steal such and such goods,” there is an offence of bad conduct. Having gone, he returns, saying, “I am not able to steal those goods,” and if he tells him again, “when you are able, then steal those goods,” there is an offence of bad conduct. If he steals the goods, there is an offence entailing expulsion for both.
 
-*Bu-Pj.2.5.4* *MS.268* If a monk tells a monk, “steal such and such goods,” there is an offence of bad conduct. If, having told him, he regrets it, but does not say[^100] to him, “do not steal,” and he then steals those goods, there is an offence entailing expulsion for both.
+*Bu-Pj.2.5.4* *MS.268* If a bhikkhu tells a bhikkhu, “steal such and such goods,” there is an offence of bad conduct. If, having told him, he regrets it, but does not say[^100] to him, “do not steal,” and he then steals those goods, there is an offence entailing expulsion for both.
 
-*MS.269* If a monk tells a monk, “steal such and such goods,” there is an offence of bad conduct. If, having told him, he regrets it and says, “do not steal,” but the other says, “I have been told by you,” and he then steals those goods, then there is no offence for the instigator, but an offence entailing expulsion for the thief.
+*MS.269* If a bhikkhu tells a bhikkhu, “steal such and such goods,” there is an offence of bad conduct. If, having told him, he regrets it and says, “do not steal,” but the other says, “I have been told by you,” and he then steals those goods, then there is no offence for the instigator, but an offence entailing expulsion for the thief.
 
-*MS.270* If a monk tells a monk, “steal such and such goods,” there is an offence of bad conduct. If, having told him, he regrets it and says to him, “do not steal,” and he says, “very well,”[^101] and desists, there is no offence for either.
+*MS.270* If a bhikkhu tells a bhikkhu, “steal such and such goods,” there is an offence of bad conduct. If, having told him, he regrets it and says to him, “do not steal,” and he says, “very well,”[^101] and desists, there is no offence for either.
 
 ### Permutations part 3
 
@@ -365,231 +365,231 @@ And Benares, and Kosambī, and Sāgalā with Dalhika.
 
 ### Case details
 
-*Bu-Pj.2.7.1* *MS.292* At one time the group of six monks went to the dyersʼ spread (of dyed cloth) and carried off the dyersʼ goods. They became anxious and thought, “The Master has laid down a training rule. Could it be that we have fallen into an offence entailing expulsion?”[^110] … They informed the Master … “You, monks, have fallen into an offence entailing expulsion.”
+*Bu-Pj.2.7.1* *MS.292* At one time the group of six bhikkhus went to the dyersʼ spread (of dyed cloth) and carried off the dyersʼ goods. They became anxious and thought, “The Master has laid down a training rule. Could it be that we have fallen into an offence entailing expulsion?”[^110] … They informed the Master … “You, bhikkhus, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.2* *MS.293* At one time a certain monk, having gone to the dyersʼ spread (of dyed cloth) and seeing a valuable garment, had the intention to steal it. On account of this he became anxious … “There is no offence, monk, for the arising of a thought.”
+*Bu-Pj.2.7.2* *MS.293* At one time a certain bhikkhu, having gone to the dyersʼ spread (of dyed cloth) and seeing a valuable garment, had the intention to steal it. On account of this he became anxious … “There is no offence, bhikkhu, for the arising of a thought.”
 
 * * *
 
-*MS.294* At one time a certain monk … saw a valuable garment and, intending to steal it, he touched it. On account of this he became anxious … “Monk, there is no offence entailing expulsion, but there is an offence of bad conduct.”
+*MS.294* At one time a certain bhikkhu … saw a valuable garment and, intending to steal it, he touched it. On account of this he became anxious … “bhikkhu, there is no offence entailing expulsion, but there is an offence of bad conduct.”
 
 * * *
 
-*MS.295* At one time a certain monk … saw a valuable garment and, intending to steal it, he made it quiver. On this account he became anxious … “… but there is a serious offence.”
+*MS.295* At one time a certain bhikkhu … saw a valuable garment and, intending to steal it, he made it quiver. On this account he became anxious … “… but there is a serious offence.”
 
 * * *
 
-*MS.296* At one time a certain monk … saw a valuable garment and, intending to steal it, he moved it from its base. On account of this he became anxious … “You, monk, have fallen into an offence entailing expulsion.”
+*MS.296* At one time a certain bhikkhu … saw a valuable garment and, intending to steal it, he moved it from its base. On account of this he became anxious … “You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.3* *MS.297* At one time a certain monk who was an almsgoer *BD.1.95* saw a valuable blanket[^111] and had the intention to steal it … intending to steal it, he touched it … intending to steal it, he made it quiver … intending to steal it, he moved it from its base. On account of this he became anxious … “You, monk, have fallen into an offence entailing expulsion.”
+*Bu-Pj.2.7.3* *MS.297* At one time a certain bhikkhu who was an almsgoer *BD.1.95* saw a valuable blanket[^111] and had the intention to steal it … intending to steal it, he touched it … intending to steal it, he made it quiver … intending to steal it, he moved it from its base. On account of this he became anxious … “You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.4* *MS.298* At one time a certain monk, seeing some goods during the day, took note of them, thinking, “I will steal them at night,” and he stole them, thinking they were the ones he had seen. … but he stole something else, thinking they were the ones he had seen. … and he stole them, thinking they were something else.[^112] … but he stole something else, thinking it was something else. On account of this he became anxious … “… expulsion.”
+*Bu-Pj.2.7.4* *MS.298* At one time a certain bhikkhu, seeing some goods during the day, took note of them, thinking, “I will steal them at night,” and he stole them, thinking they were the ones he had seen. … but he stole something else, thinking they were the ones he had seen. … and he stole them, thinking they were something else.[^112] … but he stole something else, thinking it was something else. On account of this he became anxious … “… expulsion.”
 
 * * *
 
-*Vin.3.57* *MS.299* At one time a certain monk, seeing some goods during the day, took note of them, thinking, “I will steal them at night,” but he stole his own goods, thinking they were something else. On account of this he became anxious … “Monk, there is no offence entailing expulsion, but there is an offence of bad conduct.”
+*Vin.3.57* *MS.299* At one time a certain bhikkhu, seeing some goods during the day, took note of them, thinking, “I will steal them at night,” but he stole his own goods, thinking they were something else. On account of this he became anxious … “bhikkhu, there is no offence entailing expulsion, but there is an offence of bad conduct.”
 
 * * *
 
-*Bu-Pj.2.7.5* *MS.300* At one time a certain monk carrying the goods of another on his head touched the burden intending to steal it … intending to steal it, he made it quiver … intending to steal it, he lowered it onto his shoulder … intending to steal it, he touched the burden on the shoulder … intending to steal it, he made it quiver … intending to steal it, he lowered it onto his hip … intending to steal it, he touched the burden on the hip … intending to steal it, he made it quiver … intending to steal it, he took hold of it with his hands … intending to steal the burden in his hands, he deposited it on the ground … intending to steal it, he took it from the ground. On account of this he became anxious … “You, monk, have fallen into an offence entailing expulsion.”
+*Bu-Pj.2.7.5* *MS.300* At one time a certain bhikkhu carrying the goods of another on his head touched the burden intending to steal it … intending to steal it, he made it quiver … intending to steal it, he lowered it onto his shoulder … intending to steal it, he touched the burden on the shoulder … intending to steal it, he made it quiver … intending to steal it, he lowered it onto his hip … intending to steal it, he touched the burden on the hip … intending to steal it, he made it quiver … intending to steal it, he took hold of it with his hands … intending to steal the burden in his hands, he deposited it on the ground … intending to steal it, he took it from the ground. On account of this he became anxious … “You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.6* *MS.301* At one time a certain monk, having spread out his robe in the open air, entered his dwelling. A second *BD.1.96* monk, thinking, “let not this robe be lost,” put it aside. Having come out of his dwelling, the first monk[^113] asked the monks, “Friends, who has taken my robe?” The second monk[^114] said, “I have taken it.” The first monk seized him and said, “You are no longer a recluse.” The second monk became anxious. He informed the Master. The Master said, “what was your intention?”
+*Bu-Pj.2.7.6* *MS.301* At one time a certain bhikkhu, having spread out his robe in the open air, entered his dwelling. A second *BD.1.96* bhikkhu, thinking, “let not this robe be lost,” put it aside. Having come out of his dwelling, the first bhikkhu[^113] asked the bhikkhus, “Friends, who has taken my robe?” The second bhikkhu[^114] said, “I have taken it.” The first bhikkhu seized him and said, “You are no longer a recluse.” The second bhikkhu became anxious. He informed the Master. The Master said, “what was your intention?”
 
 “Master, it was just a way of speaking.”
 
-“There is no offence, monk, since it was just a way of speaking.”[^115]
+“There is no offence, bhikkhu, since it was just a way of speaking.”[^115]
 
 * * *
 
-*MS.302* At one time a certain monk, putting down his robe on a bench … putting down his sitting cloth on a bench … putting his bowl under a bench, entered his dwelling. A second monk, thinking, “let not this bowl be lost,” put it aside. Having come out, the first monk asked the monks, “Friends, who has taken my bowl?” The second monk said, “I have taken it.” The first monk seized him …“There is no offence, monk, since it was just a way of speaking.”
+*MS.302* At one time a certain bhikkhu, putting down his robe on a bench … putting down his sitting cloth on a bench … putting his bowl under a bench, entered his dwelling. A second bhikkhu, thinking, “let not this bowl be lost,” put it aside. Having come out, the first bhikkhu asked the bhikkhus, “Friends, who has taken my bowl?” The second bhikkhu said, “I have taken it.” The first bhikkhu seized him …“There is no offence, bhikkhu, since it was just a way of speaking.”
 
 * * *
 
-*MS.303* At one time a certain nun, having spread out her robe on a fence, entered her dwelling. A second nun, thinking, “let not this robe be lost,” put it aside. Having come out, the first nun[^116] asked the nuns, “Ladies,[^117] who has taken my robe?” The second nun[^118] said, “I have taken it.” The first nun seized her and said, “You are no longer a recluse.” On account of this the second nun became anxious. She informed the nuns. The nuns informed the monks. The monks informed the Master … “There is no offence, monks, since it was just a way of speaking.”
+*MS.303* At one time a certain nun, having spread out her robe on a fence, entered her dwelling. A second nun, thinking, “let not this robe be lost,” put it aside. Having come out, the first nun[^116] asked the nuns, “Ladies,[^117] who has taken my robe?” The second nun[^118] said, “I have taken it.” The first nun seized her and said, “You are no longer a recluse.” On account of this the second nun became anxious. She informed the nuns. The nuns informed the bhikkhus. The bhikkhus informed the Master … “There is no offence, bhikkhus, since it was just a way of speaking.”
 
 * * *
 
-*Bu-Pj.2.7.7* *Vin.3.58* *MS.304* At that time a certain monk, seeing a robe blown up during a whirlwind, took hold of it, thinking, “I will give it to the owners.” The owners reprimanded the monk, saying, “You are no longer a recluse.” On account of this he became anxious … “What was your intention, monk?”
+*Bu-Pj.2.7.7* *Vin.3.58* *MS.304* At that time a certain bhikkhu, seeing a robe blown up during a whirlwind, took hold of it, thinking, “I will give it to the owners.” The owners reprimanded the bhikkhu, saying, “You are no longer a recluse.” On account of this he became anxious … “What was your intention, bhikkhu?”
 
 *BD.1.97* “I did not intend to steal it, Master.”
 
-“Monk, there is no offence for one who does not intend to steal.”
+“bhikkhu, there is no offence for one who does not intend to steal.”
 
 * * *
 
-*MS.305* At one time a certain monk, intending to steal it, took hold of a turban blown up during a whirlwind, thinking, “lest the owners see it.” The owners reprimanded the monk, saying, “You are no longer a recluse.” He became anxious … “You, monk, have fallen into an offence entailing expulsion.”
+*MS.305* At one time a certain bhikkhu, intending to steal it, took hold of a turban blown up during a whirlwind, thinking, “lest the owners see it.” The owners reprimanded the bhikkhu, saying, “You are no longer a recluse.” He became anxious … “You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.8* *MS.306* At one time a certain monk went to a charnel ground and took the rags from a fresh corpse.*†* But the ghost[^120] was still dwelling in that body.[^121] Then the ghost said to the monk, “Bhante, do not take my robe.” The monk took no notice and went away. Then the body got up[^122] and followed closely behind that monk. The monk entered his dwelling and closed the door, and the body fell down at that very place.[^123] He became anxious … “Monk, there is no offence entailing expulsion. But a monk should not take rags from a fresh corpse.[^124] If one does, there is an offence of bad conduct.”
+*Bu-Pj.2.7.8* *MS.306* At one time a certain bhikkhu went to a charnel ground and took the rags from a fresh corpse.*†* But the ghost[^120] was still dwelling in that body.[^121] Then the ghost said to the bhikkhu, “Bhante, do not take my robe.” The bhikkhu took no notice and went away. Then the body got up[^122] and followed closely behind that bhikkhu. The bhikkhu entered his dwelling and closed the door, and the body fell down at that very place.[^123] He became anxious … “bhikkhu, there is no offence entailing expulsion. But a bhikkhu should not take rags from a fresh corpse.[^124] If one does, there is an offence of bad conduct.”
 
 * * *
 
-*Bu-Pj.2.7.9* *MS.307* At one time, when robes belonging to the Sangha were being distributed, a certain monk, disregarding his _kusa_\-grass ticket*†* and intending to steal, took a robe. He became anxious … “… entailing expulsion.”
+*Bu-Pj.2.7.9* *MS.307* At one time, when robes belonging to the Sangha were being distributed, a certain bhikkhu, disregarding his _kusa_\-grass ticket*†* and intending to steal, took a robe. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.10* *MS.308* At one time when Venerable Ānanda was in a sauna,[^126] thinking that the inner robe of another monk was his own, he put it on. *BD.1.98* That monk said, “Why, friend Ānanda, did you put on my inner robe?”
+*Bu-Pj.2.7.10* *MS.308* At one time when Venerable Ānanda was in a sauna,[^126] thinking that the inner robe of another bhikkhu was his own, he put it on. *BD.1.98* That bhikkhu said, “Why, friend Ānanda, did you put on my inner robe?”
 
 “Friend, I thought it was my own.”
 
-They informed the Master. He said: “There is no offence, monks, for one who perceives it as his own.”
+They informed the Master. He said: “There is no offence, bhikkhus, for one who perceives it as his own.”
 
 * * *
 
-*Bu-Pj.2.7.11* *MS.309* At one time a number of monks, descending from Mount Vultureʼs Peak and seeing the remains of a lionʼs kill, had it cooked and ate it. They became anxious … “Monks, there is no offence when it is the remains of a lionʼs kill.”[^127]
+*Bu-Pj.2.7.11* *MS.309* At one time a number of bhikkhus, descending from Mount Vultureʼs Peak and seeing the remains of a lionʼs kill, had it cooked and ate it. They became anxious … “bhikkhus, there is no offence when it is the remains of a lionʼs kill.”[^127]
 
 * * *
 
-*MS.310* At one time a number of monks, descending from Mount Vultureʼs Peak and seeing the remains of a tigerʼs kill … seeing the remains of a pantherʼs kill … seeing the remains of a hyenaʼs kill … seeing the remains of a wolfʼs kill, had it cooked … “Monks, there is no offence when it is the property of an animal.”
+*MS.310* At one time a number of bhikkhus, descending from Mount Vultureʼs Peak and seeing the remains of a tigerʼs kill … seeing the remains of a pantherʼs kill … seeing the remains of a hyenaʼs kill … seeing the remains of a wolfʼs kill, had it cooked … “bhikkhus, there is no offence when it is the property of an animal.”
 
 * * *
 
-*Bu-Pj.2.7.12* *Vin.3.59* *MS.311* At one time, when rice belonging to the Sangha was being distributed, a certain monk said without grounds,[^128] “give me a portion for another,” and he took it away. He became anxious … “Monk, there is no offence entailing expulsion, but there is an offence entailing confession[^129] for deliberately lying.”[^130]
+*Bu-Pj.2.7.12* *Vin.3.59* *MS.311* At one time, when rice belonging to the Sangha was being distributed, a certain bhikkhu said without grounds,[^128] “give me a portion for another,” and he took it away. He became anxious … “bhikkhu, there is no offence entailing expulsion, but there is an offence entailing confession[^129] for deliberately lying.”[^130]
 
 * * *
 
-*MS.312* At one time, when food belonging to the Sangha was being distributed, a certain monk … when cakes belonging to the Sangha were being distributed, a certain monk … when sugar-cane belonging to the Sangha was being distributed, a certain monk … when certain fruits belonging to the Sangha were being distributed, a certain monk said without grounds, “give me a portion for another,” and he took it away. He *BD.1.99* became anxious … “Monk, there is no offence entailing expulsion, but there is offence entailing confession for deliberately lying.”[^131]
+*MS.312* At one time, when food belonging to the Sangha was being distributed, a certain bhikkhu … when cakes belonging to the Sangha were being distributed, a certain bhikkhu … when sugar-cane belonging to the Sangha was being distributed, a certain bhikkhu … when certain fruits belonging to the Sangha were being distributed, a certain bhikkhu said without grounds, “give me a portion for another,” and he took it away. He *BD.1.99* became anxious … “bhikkhu, there is no offence entailing expulsion, but there is offence entailing confession for deliberately lying.”[^131]
 
 * * *
 
-*Bu-Pj.2.7.13* *MS.313* At one time a certain monk, entering a rice kitchen[^132] during a shortage of food and intending to steal, stole a bowlful of rice. He became anxious … “… expulsion.”
+*Bu-Pj.2.7.13* *MS.313* At one time a certain bhikkhu, entering a rice kitchen[^132] during a shortage of food and intending to steal, stole a bowlful of rice. He became anxious … “… expulsion.”
 
 * * *
 
-*MS.314* At one time a certain monk, entering a slaughterhouse during a shortage of food and intending to steal, stole a bowlful of meat. … “… expulsion.”[^133]
+*MS.314* At one time a certain bhikkhu, entering a slaughterhouse during a shortage of food and intending to steal, stole a bowlful of meat. … “… expulsion.”[^133]
 
 * * *
 
-*MS.315* At one time a certain monk, entering a bakery during a shortage of food and intending to steal, stole a bowlful of baked cakes … intending to steal, stole a bowlful of cakes … intending to steal, stole a bowlful of sweet-meats. He became anxious … “… expulsion.”
+*MS.315* At one time a certain bhikkhu, entering a bakery during a shortage of food and intending to steal, stole a bowlful of baked cakes … intending to steal, stole a bowlful of cakes … intending to steal, stole a bowlful of sweet-meats. He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.14* *MS.316* At one time a certain monk, seeing a requisite during the day, took note of it, thinking, “I will steal it at night.” He took it, thinking it was the one he had seen … He took something else, thinking it was the one he had seen … He took it, thinking it was something else than what he had seen … He took something else, thinking it was something else than what he had seen. He became anxious … “… expulsion.”
+*Bu-Pj.2.7.14* *MS.316* At one time a certain bhikkhu, seeing a requisite during the day, took note of it, thinking, “I will steal it at night.” He took it, thinking it was the one he had seen … He took something else, thinking it was the one he had seen … He took it, thinking it was something else than what he had seen … He took something else, thinking it was something else than what he had seen. He became anxious … “… expulsion.”
 
 * * *
 
-*MS.317* At one time a certain monk, seeing a requisite during the day, took note of it, thinking, “I will steal it at night.” He took his own requisite, thinking it was something else. He became anxious … “Monk, there is no offence entailing expulsion, but there is an offence of bad conduct.”
+*MS.317* At one time a certain bhikkhu, seeing a requisite during the day, took note of it, thinking, “I will steal it at night.” He took his own requisite, thinking it was something else. He became anxious … “bhikkhu, there is no offence entailing expulsion, but there is an offence of bad conduct.”
 
 * * *
 
-*Bu-Pj.2.7.15* *MS.318* At one time a certain monk, seeing a bag on a bench and thinking, “if I take it from here I shall be expelled,” took it by moving *BD.1.100* the bench. He became anxious … “… expulsion.”
+*Bu-Pj.2.7.15* *MS.318* At one time a certain bhikkhu, seeing a bag on a bench and thinking, “if I take it from here I shall be expelled,” took it by moving *BD.1.100* the bench. He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.16* *MS.319* At one time a certain monk, intending to steal, stole a cushion belonging to the Sangha. He became anxious … “… expulsion.”
+*Bu-Pj.2.7.16* *MS.319* At one time a certain bhikkhu, intending to steal, stole a cushion belonging to the Sangha. He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.17* *MS.320* At one time a certain monk, *Vin.3.60* intending to steal, stole a robe from a bamboo robe-rack.[^134] He became anxious … “… expulsion.”
+*Bu-Pj.2.7.17* *MS.320* At one time a certain bhikkhu, *Vin.3.60* intending to steal, stole a robe from a bamboo robe-rack.[^134] He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.18* *MS.321* At one time a certain monk stole a robe in a dwelling, thinking, “if I come out from here I shall be expelled,” and he did not come out from that dwelling. They informed the Master. He said, “Monks, whether that foolish man comes out or not, there is an offence entailing expulsion.”
+*Bu-Pj.2.7.18* *MS.321* At one time a certain bhikkhu stole a robe in a dwelling, thinking, “if I come out from here I shall be expelled,” and he did not come out from that dwelling. They informed the Master. He said, “bhikkhus, whether that foolish man comes out or not, there is an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.19* *MS.322* At one time two monks were friends. One of them went into the village for alms. The second monk, when food belonging to the Sangha was being distributed, took his friendʼs portion. Taking it on trust, he ate it. Finding this out, the first monk[^135] reprimanded him, saying, “You are no longer a recluse.” He became anxious …
+*Bu-Pj.2.7.19* *MS.322* At one time two bhikkhus were friends. One of them went into the village for alms. The second bhikkhu, when food belonging to the Sangha was being distributed, took his friendʼs portion. Taking it on trust, he ate it. Finding this out, the first bhikkhu[^135] reprimanded him, saying, “You are no longer a recluse.” He became anxious …
 
-“Monk, what was your intention?”
+“bhikkhu, what was your intention?”
 
 “I took it on trust, Master.”
 
-“There is no offence, monk, for one who takes on trust.”
+“There is no offence, bhikkhu, for one who takes on trust.”
 
 * * *
 
-*Bu-Pj.2.7.20* *MS.323* At one time a number of monks were making robes. When food belonging to the Sangha was being distributed, having taken their shares,[^136] they put them down.[^137] A certain monk, *BD.1.101* thinking that it was his own, ate another monkʼs portion.[^138] He, finding this out, reprimanded him, saying, “You are no longer a recluse.” He became anxious … “… Monk, what was your intention?”
+*Bu-Pj.2.7.20* *MS.323* At one time a number of bhikkhus were making robes. When food belonging to the Sangha was being distributed, having taken their shares,[^136] they put them down.[^137] A certain bhikkhu, *BD.1.101* thinking that it was his own, ate another bhikkhuʼs portion.[^138] He, finding this out, reprimanded him, saying, “You are no longer a recluse.” He became anxious … “… bhikkhu, what was your intention?”
 
 “I thought it was my own, Master.”
 
-“There is no offence, monk, for one who perceives it as his own.”
+“There is no offence, bhikkhu, for one who perceives it as his own.”
 
 * * *
 
-*MS.324* At one time a number of monks were making robes. When food belonging to the Sangha was being distributed, having brought a certain monkʼs share with the bowl of another monk, it was put down. The monk who was the owner of the bowl ate the food, thinking it was his own. Finding this out, the owner of the food reprimanded him … “There is no offence, monk, for one who perceives it as his own.”
+*MS.324* At one time a number of bhikkhus were making robes. When food belonging to the Sangha was being distributed, having brought a certain bhikkhuʼs share with the bowl of another bhikkhu, it was put down. The bhikkhu who was the owner of the bowl ate the food, thinking it was his own. Finding this out, the owner of the food reprimanded him … “There is no offence, bhikkhu, for one who perceives it as his own.”
 
 * * *
 
-*Bu-Pj.2.7.21* *MS.325* At one time mango thieves cut down some mangoes, collected them in a bundle and left. The owners pursued them. The thieves, seeing the owners, dropped the bundle and ran away. Some monks, perceiving them as discarded, had them offered*†* and ate them. The owners reprimanded these monks, saying, “You are no longer recluses.” They became anxious and informed the Master.
+*Bu-Pj.2.7.21* *MS.325* At one time mango thieves cut down some mangoes, collected them in a bundle and left. The owners pursued them. The thieves, seeing the owners, dropped the bundle and ran away. Some bhikkhus, perceiving them as discarded, had them offered*†* and ate them. The owners reprimanded these bhikkhus, saying, “You are no longer recluses.” They became anxious and informed the Master.
 
-“Monks, what was you intention?”
+“bhikkhus, what was you intention?”
 
 “Master, we perceived them as discarded.”
 
-“Monks, there is no offence for one who perceives them as discarded.”
+“bhikkhus, there is no offence for one who perceives them as discarded.”
 
 * * *
 
-*MS.326* At one time rose-apple thieves … bread-fruit thieves … jack-fruit thieves … palm-fruit thieves … sugar-cane thieves … thieves of _timbarūka_ fruit *Vin.3.61* cut some of them down, collected them in a bundle and left. The owners … “There is no offence, monks, for one who perceives them as discarded.”
+*MS.326* At one time rose-apple thieves … bread-fruit thieves … jack-fruit thieves … palm-fruit thieves … sugar-cane thieves … thieves of _timbarūka_ fruit *Vin.3.61* cut some of them down, collected them in a bundle and left. The owners … “There is no offence, bhikkhus, for one who perceives them as discarded.”
 
 * * *
 
-*Bu-Pj.2.7.22* *MS.327* At one time mango thieves *BD.1.102* cut down some mangoes … left. Some monks, intending to steal them and thinking, “lest the owners see them,” ate them. The owners reprimanded the monks, saying, “You are no longer recluses.” They became anxious … “You, monks, have fallen into an offence entailing expulsion.”
+*Bu-Pj.2.7.22* *MS.327* At one time mango thieves *BD.1.102* cut down some mangoes … left. Some bhikkhus, intending to steal them and thinking, “lest the owners see them,” ate them. The owners reprimanded the bhikkhus, saying, “You are no longer recluses.” They became anxious … “You, bhikkhus, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*MS.328* At one time rose-apple thieves … thieves of _timbarūka_ fruit … left. Some monks, intending to steal them and thinking, “lest the owners see them,” ate them. The owners … “You, monks, have fallen into an offence entailing expulsion.”
+*MS.328* At one time rose-apple thieves … thieves of _timbarūka_ fruit … left. Some bhikkhus, intending to steal them and thinking, “lest the owners see them,” ate them. The owners … “You, bhikkhus, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.23* *MS.329* At one time a certain monk, intending to steal, took a mango belonging to the Sangha … a rose-apple … a bread-fruit … a jack-fruit … a palm-fruit … a sugar-cane … intending to steal, took a _timbarūka_ fruit belonging to the Sangha. He became anxious … “… expulsion.”
+*Bu-Pj.2.7.23* *MS.329* At one time a certain bhikkhu, intending to steal, took a mango belonging to the Sangha … a rose-apple … a bread-fruit … a jack-fruit … a palm-fruit … a sugar-cane … intending to steal, took a _timbarūka_ fruit belonging to the Sangha. He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.24* *MS.330* At one time a certain monk went to a flower-garden and, intending to steal, took a flower worth five _māsakas_ that had already been plucked. He became anxious. … “… expulsion.”
+*Bu-Pj.2.7.24* *MS.330* At one time a certain bhikkhu went to a flower-garden and, intending to steal, took a flower worth five _māsakas_ that had already been plucked. He became anxious. … “… expulsion.”
 
 * * *
 
-*MS.331* At one time a certain monk went to a flower-garden and, intending to steal, picked a flower worth five _māsakas_ and took it away. He became anxious … “… expulsion.”
+*MS.331* At one time a certain bhikkhu went to a flower-garden and, intending to steal, picked a flower worth five _māsakas_ and took it away. He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.25* *MS.332* At one time, as he was going to the village, a certain monk said to another monk, “Friend, I can take a message*†*[^141] to the family that supports you.” He went there and *BD.1.103* brought back a robe that he used it himself. The other monk, finding out about this, reprimanded him, saying, “You are no longer a recluse.” He became anxious … “Monk, there is no offence entailing expulsion. But, monks, you should not say, ‘I can take a message.’ If one does, there is an offence of bad conduct.”
+*Bu-Pj.2.7.25* *MS.332* At one time, as he was going to the village, a certain bhikkhu said to another bhikkhu, “Friend, I can take a message*†*[^141] to the family that supports you.” He went there and *BD.1.103* brought back a robe that he used it himself. The other bhikkhu, finding out about this, reprimanded him, saying, “You are no longer a recluse.” He became anxious … “bhikkhu, there is no offence entailing expulsion. But, bhikkhus, you should not say, ‘I can take a message.’ If one does, there is an offence of bad conduct.”
 
 * * *
 
-*MS.333* At one time a certain monk was going to the village. Another monk said to him, “Friend, please take a message to the family that supports me.” He went there and brought back a pair of robes. He used one himself and gave the other to the other monk. The other monk, finding out about this, reprimanded him, saying, “You are no longer a recluse.” He became anxious … “Monk, there is no offence entailing expulsion. But, monks, you should not say, ‘please take a message.’ If one does, there is an offence of bad conduct.”
+*MS.333* At one time a certain bhikkhu was going to the village. Another bhikkhu said to him, “Friend, please take a message to the family that supports me.” He went there and brought back a pair of robes. He used one himself and gave the other to the other bhikkhu. The other bhikkhu, finding out about this, reprimanded him, saying, “You are no longer a recluse.” He became anxious … “bhikkhu, there is no offence entailing expulsion. But, bhikkhus, you should not say, ‘please take a message.’ If one does, there is an offence of bad conduct.”
 
 * * *
 
-*MS.334* At one time, as he was going to the village, a certain monk *Vin.3.62* said to another monk, “Friend, I can take a message to the family that supports you.” He replied, “please do so.” He went there and brought back an _āḷhaka_ measure[^142] of ghee, a *BD.1.104* _tulā_ measure[^143] of sugar and a _dona_ measure of husked rice, which he ate by himself. The other monk, finding out about this, reprimanded him, saying, “You are no longer a recluse.” He became anxious … “Monk, there is no offence entailing expulsion. But, monks, you should not say, ‘I can take a message;’ nor should you say, ʻplease take a message.’ If one does, there is an offence of bad conduct.”
+*MS.334* At one time, as he was going to the village, a certain bhikkhu *Vin.3.62* said to another bhikkhu, “Friend, I can take a message to the family that supports you.” He replied, “please do so.” He went there and brought back an _āḷhaka_ measure[^142] of ghee, a *BD.1.104* _tulā_ measure[^143] of sugar and a _dona_ measure of husked rice, which he ate by himself. The other bhikkhu, finding out about this, reprimanded him, saying, “You are no longer a recluse.” He became anxious … “bhikkhu, there is no offence entailing expulsion. But, bhikkhus, you should not say, ‘I can take a message;’ nor should you say, ʻplease take a message.’ If one does, there is an offence of bad conduct.”
 
 * * *
 
-*Bu-Pj.2.7.26* *MS.335* At one time a certain man, carrying a valuable jewel, was going along a main road together with a certain monk. Then the man, seeing a customs station, put the jewel into the monkʼs bag without his knowing it. Having gone past the customs station, he retrieved it. The monk was remorseful …
+*Bu-Pj.2.7.26* *MS.335* At one time a certain man, carrying a valuable jewel, was going along a main road together with a certain bhikkhu. Then the man, seeing a customs station, put the jewel into the bhikkhuʼs bag without his knowing it. Having gone past the customs station, he retrieved it. The bhikkhu was remorseful …
 
-“Monk, what was your intention?”
+“bhikkhu, what was your intention?”
 
 “I did not know, Master.”
 
-“There is no offence, monk, for who does not know.”
+“There is no offence, bhikkhu, for who does not know.”
 
 * * *
 
-*MS.336* At one time a certain man, taking a valuable jewel … seeing a customs station, he pretended to be ill and gave his own bag to the monk. When the man had passed the customs station, he said to the monk, “Give me my bag, bhante, I am not ill.”
+*MS.336* At one time a certain man, taking a valuable jewel … seeing a customs station, he pretended to be ill and gave his own bag to the bhikkhu. When the man had passed the customs station, he said to the bhikkhu, “Give me my bag, bhante, I am not ill.”
 
 “Why then, friend, did you say so?”
 
-Then the man informed the monk. He became anxious … “There is no offence, monk, for who does not know.”
+Then the man informed the bhikkhu. He became anxious … “There is no offence, bhikkhu, for who does not know.”
 
 * * *
 
-*MS.337* At one time a certain monk was going along a main *BD.1.105* road together with a caravan. A certain man won that monk over with a gift.[^144] Seeing a customs station, he gave the monk a valuable jewel, saying, “Bhante, please take this jewel past the customs.” So the monk took the jewel past the customs station. He became anxious … “… expulsion.”
+*MS.337* At one time a certain bhikkhu was going along a main *BD.1.105* road together with a caravan. A certain man won that bhikkhu over with a gift.[^144] Seeing a customs station, he gave the bhikkhu a valuable jewel, saying, “Bhante, please take this jewel past the customs.” So the bhikkhu took the jewel past the customs station. He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.27* *MS.338* At one time a certain monk out of compassion released a pig trapped in a snare. He became anxious …
+*Bu-Pj.2.7.27* *MS.338* At one time a certain bhikkhu out of compassion released a pig trapped in a snare. He became anxious …
 
-“What was your intention, monk?”
+“What was your intention, bhikkhu?”
 
 “I was motivated by compassion, Master.”[^145]
 
@@ -597,67 +597,67 @@ Then the man informed the monk. He became anxious … “There is no offence, mo
 
 * * *
 
-*MS.339* At one time a certain monk released a pig trapped in a snare, intending to steal it, thinking, “lest the owners see it.” He became anxious … “… expulsion.”
+*MS.339* At one time a certain bhikkhu released a pig trapped in a snare, intending to steal it, thinking, “lest the owners see it.” He became anxious … “… expulsion.”
 
 * * *
 
-*MS.340* At one time a certain monk out of compassion released a deer trapped in a snare … released a deer trapped in a snare, intending to steal it, thinking, “lest the owners see it.” *Vin.3.63* … out of compassion released fish trapped in a fish-net … released fish trapped in a fish-net, intending to steal them, thinking, “lest the owners see them.” He became anxious … “… expulsion.”
+*MS.340* At one time a certain bhikkhu out of compassion released a deer trapped in a snare … released a deer trapped in a snare, intending to steal it, thinking, “lest the owners see it.” *Vin.3.63* … out of compassion released fish trapped in a fish-net … released fish trapped in a fish-net, intending to steal them, thinking, “lest the owners see them.” He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.28* *MS.341* At one time a certain monk, seeing some goods in a vehicle, thought, “If I take these from here I will be expelled.” So he took them by setting the vehicle in motion. He became anxious … “… expulsion.”
+*Bu-Pj.2.7.28* *MS.341* At one time a certain bhikkhu, seeing some goods in a vehicle, thought, “If I take these from here I will be expelled.” So he took them by setting the vehicle in motion. He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.29* *MS.342* At one time a certain monk, thinking, “I will give it to the owners,” seized a piece of flesh taken up by a hawk. The owners reprimanded that monk, saying, “You are no longer a recluse.” He became anxious … “There is no offence, monk, for one who does not intend to steal.”
+*Bu-Pj.2.7.29* *MS.342* At one time a certain bhikkhu, thinking, “I will give it to the owners,” seized a piece of flesh taken up by a hawk. The owners reprimanded that bhikkhu, saying, “You are no longer a recluse.” He became anxious … “There is no offence, bhikkhu, for one who does not intend to steal.”
 
 * * *
 
-*BD.1.106* *MS.343* At one time a certain monk, intending to steal and thinking, “lest the owners see it,” seized a piece of flesh taken up by a hawk. The owners reprimanded the monk, saying, “You are no longer a recluse.” He became anxious … “… expulsion.”
+*BD.1.106* *MS.343* At one time a certain bhikkhu, intending to steal and thinking, “lest the owners see it,” seized a piece of flesh taken up by a hawk. The owners reprimanded the bhikkhu, saying, “You are no longer a recluse.” He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.30* *MS.344* At one time some men who had put a raft together placed it on the river Aciravatī.[^146] When the bindings were destroyed, they went away, the sticks being spread all over. Some monks, perceiving them as discarded, got them out of the water. The owners reprimanded those monks, saying, “You are no longer recluses.” They became anxious … “Monks, there is no offence for one who perceives them as discarded.”
+*Bu-Pj.2.7.30* *MS.344* At one time some men who had put a raft together placed it on the river Aciravatī.[^146] When the bindings were destroyed, they went away, the sticks being spread all over. Some bhikkhus, perceiving them as discarded, got them out of the water. The owners reprimanded those bhikkhus, saying, “You are no longer recluses.” They became anxious … “bhikkhus, there is no offence for one who perceives them as discarded.”
 
 * * *
 
-*MS.345* At one time some men who had put a raft together placed it on the river Aciravatī. When the bindings were destroyed, they went away, the sticks being spread all over. Some monks, intending to steal and thinking, “lest the owners see it,” got them out of the water. The owners reprimanded the monks, saying, “You are no longer recluses.” They became anxious … “You, monks, have fallen into an offence entailing expulsion.”
+*MS.345* At one time some men who had put a raft together placed it on the river Aciravatī. When the bindings were destroyed, they went away, the sticks being spread all over. Some bhikkhus, intending to steal and thinking, “lest the owners see it,” got them out of the water. The owners reprimanded the bhikkhus, saying, “You are no longer recluses.” They became anxious … “You, bhikkhus, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.31* *MS.346* At one time a certain cowherd, hanging his robe on a tree, went to relieve himself. A certain monk, thinking it was discarded, took it. Then the cowherd reprimanded that monk, saying, “You are no longer a recluse.” He became anxious … “There is no offence, monk, for one who thinks it is discarded.”
+*Bu-Pj.2.7.31* *MS.346* At one time a certain cowherd, hanging his robe on a tree, went to relieve himself. A certain bhikkhu, thinking it was discarded, took it. Then the cowherd reprimanded that bhikkhu, saying, “You are no longer a recluse.” He became anxious … “There is no offence, bhikkhu, for one who thinks it is discarded.”
 
 * * *
 
-*Bu-Pj.2.7.32* *MS.347* At one time, as a certain monk was crossing a river, a robe that had escaped from the hands of dyers, stuck to his foot. The monk took hold of it, thinking, “I will give it to the owners.” The owners *BD.1.107* reprimanded that monk, saying, “You are no longer a recluse.” He became anxious … “There is no offence, monk, for one who does not intend to steal.”
+*Bu-Pj.2.7.32* *MS.347* At one time, as a certain bhikkhu was crossing a river, a robe that had escaped from the hands of dyers, stuck to his foot. The bhikkhu took hold of it, thinking, “I will give it to the owners.” The owners *BD.1.107* reprimanded that bhikkhu, saying, “You are no longer a recluse.” He became anxious … “There is no offence, bhikkhu, for one who does not intend to steal.”
 
 * * *
 
-*MS.348* At one time, as a certain monk was crossing a river, a robe that had escaped from the hands of dyers stuck to his foot *Vin.3.64* . The monk took hold of it, intending to steal and thinking, “lest the owners see it.” The owners reprimanded the monk, saying, “You are no longer a recluse.” He became anxious … “… expulsion.”
+*MS.348* At one time, as a certain bhikkhu was crossing a river, a robe that had escaped from the hands of dyers stuck to his foot *Vin.3.64* . The bhikkhu took hold of it, intending to steal and thinking, “lest the owners see it.” The owners reprimanded the bhikkhu, saying, “You are no longer a recluse.” He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.33* *MS.349* At one time a certain monk, seeing a pot of ghee, ate it little by little. He became anxious … “Monk, there is no offence entailing expulsion, but there is an offence of bad conduct.”
+*Bu-Pj.2.7.33* *MS.349* At one time a certain bhikkhu, seeing a pot of ghee, ate it little by little. He became anxious … “bhikkhu, there is no offence entailing expulsion, but there is an offence of bad conduct.”
 
 * * *
 
-*Bu-Pj.2.7.34* *MS.350* At one time a number of monks, having made an arrangement,[^147] went away, thinking, “we will steal these goods.” One of them stole the goods. The others said, “We are not expelled; the one who took it is expelled.” They informed the Master. He said, “You, monks, have fallen into an offence entailing expulsion.”
+*Bu-Pj.2.7.34* *MS.350* At one time a number of bhikkhus, having made an arrangement,[^147] went away, thinking, “we will steal these goods.” One of them stole the goods. The others said, “We are not expelled; the one who took it is expelled.” They informed the Master. He said, “You, bhikkhus, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*MS.351* At one time a number of monks, having made an arrangement and having stolen some goods, shared them out. When it was being shared out, none of them received a share that amounted to five _māsakas_. They said, “We are not expelled.” They informed the Master. He said, “You, monks, have fallen into an offence entailing expulsion.”
+*MS.351* At one time a number of bhikkhus, having made an arrangement and having stolen some goods, shared them out. When it was being shared out, none of them received a share that amounted to five _māsakas_. They said, “We are not expelled.” They informed the Master. He said, “You, bhikkhus, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.35* *MS.352* At one time, when Sāvatthī was short of food, a certain monk, intending to steal, took a handful of rice belonging to a shopkeeper. He became anxious … “… expulsion.”
+*Bu-Pj.2.7.35* *MS.352* At one time, when Sāvatthī was short of food, a certain bhikkhu, intending to steal, took a handful of rice belonging to a shopkeeper. He became anxious … “… expulsion.”
 
 * * *
 
-*MS.353* At one time, when Sāvatthī was short of food, a certain monk, intending to steal, took a handful of kidney-beans … a handful of beans … a handful of sesamum belonging to a shopkeeper. He became anxious … “… expulsion.”
+*MS.353* At one time, when Sāvatthī was short of food, a certain bhikkhu, intending to steal, took a handful of kidney-beans … a handful of beans … a handful of sesamum belonging to a shopkeeper. He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.36* *BD.1.108* *MS.354* At one time thieves in the Dark Wood near Sāvatthī, having killed a cow, eaten some flesh and put the remainder aside, went away. Some monks, perceiving it as discarded, had it offered and ate it. The thieves reprimanded those monks, saying, “You are no longer recluses.” They became anxious … “There is no offence, monks, for one who perceives it as discarded.”
+*Bu-Pj.2.7.36* *BD.1.108* *MS.354* At one time thieves in the Dark Wood near Sāvatthī, having killed a cow, eaten some flesh and put the remainder aside, went away. Some bhikkhus, perceiving it as discarded, had it offered and ate it. The thieves reprimanded those bhikkhus, saying, “You are no longer recluses.” They became anxious … “There is no offence, bhikkhus, for one who perceives it as discarded.”
 
 * * *
 
@@ -665,73 +665,73 @@ Then the man informed the monk. He became anxious … “There is no offence, mo
 
 * * *
 
-*Bu-Pj.2.7.37* *MS.356* At one time a certain monk went to a meadow and, intending to steal, took some cut grass worth five _māsakas_. He became anxious … “… expulsion.”
+*Bu-Pj.2.7.37* *MS.356* At one time a certain bhikkhu went to a meadow and, intending to steal, took some cut grass worth five _māsakas_. He became anxious … “… expulsion.”
 
 * * *
 
-*MS.357* At one time a certain monk went to a meadow and, intending to steal, cut grass worth five _māsakas_ and took it away. He became anxious … “… expulsion.”
+*MS.357* At one time a certain bhikkhu went to a meadow and, intending to steal, cut grass worth five _māsakas_ and took it away. He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.38* *Vin.3.65* *MS.358* At one time some visiting monks divided up the mangoes belonging to the Sangha and ate them. The resident[^148] monks reprimanded those monks, saying, “You are no longer recluses.” They became anxious. They informed the Master.
+*Bu-Pj.2.7.38* *Vin.3.65* *MS.358* At one time some visiting bhikkhus divided up the mangoes belonging to the Sangha and ate them. The resident[^148] bhikkhus reprimanded those bhikkhus, saying, “You are no longer recluses.” They became anxious. They informed the Master.
 
-“What was your intention, monks?”
+“What was your intention, bhikkhus?”
 
 “We thought they was meant for eating, Master.”
 
-“There is no offence, monks, for one who thinks it is meant for eating.”
+“There is no offence, bhikkhus, for one who thinks it is meant for eating.”
 
 * * *
 
-*MS.359* At one time some visiting monks divided up the rose-apples belonging to the Sangha … the bread-fruit belonging to the Sangha … the jack-fruit … the palm fruits … the sugar-cane … the _timbarūsaka_ fruits belonging to the Sangha and ate them. The resident monks … “There is no offence, monks, for one who thinks it is meant for eating.”
+*MS.359* At one time some visiting bhikkhus divided up the rose-apples belonging to the Sangha … the bread-fruit belonging to the Sangha … the jack-fruit … the palm fruits … the sugar-cane … the _timbarūsaka_ fruits belonging to the Sangha and ate them. The resident bhikkhus … “There is no offence, bhikkhus, for one who thinks it is meant for eating.”
 
 * * *
 
-*Bu-Pj.2.7.39* *MS.360* At one time the keepers of a mango-grove gave a mango *BD.1.109* to some monks. The monks, thinking, “They[^149] have the authority to guard, but not to give,” had scruples and did not accept it. They informed the Master. He said, “There is no offence, monks, when it is a gift from a guardian.”
+*Bu-Pj.2.7.39* *MS.360* At one time the keepers of a mango-grove gave a mango *BD.1.109* to some bhikkhus. The bhikkhus, thinking, “They[^149] have the authority to guard, but not to give,” had scruples and did not accept it. They informed the Master. He said, “There is no offence, bhikkhus, when it is a gift from a guardian.”
 
 * * *
 
-*MS.361* At one time keepers of a rose-apple grove … a _timbarūsaka_ grove gave _timbarūsaka_ fruit to some monks. The monks, thinking, “they have the authority to guard …” … “There is no offence, monks, when it is a gift from a guardian.”
+*MS.361* At one time keepers of a rose-apple grove … a _timbarūsaka_ grove gave _timbarūsaka_ fruit to some bhikkhus. The bhikkhus, thinking, “they have the authority to guard …” … “There is no offence, bhikkhus, when it is a gift from a guardian.”
 
 * * *
 
-*Bu-Pj.2.7.40* *MS.362* At one time a certain monk, having borrowed a piece of wood belonging to the Sangha, used it to shore up the wall of his own dwelling. The monks reprimanded that monk, saying, “You are no longer a recluse.” He became anxious and informed the Master. He said, “monk, what was your intention?”
+*Bu-Pj.2.7.40* *MS.362* At one time a certain bhikkhu, having borrowed a piece of wood belonging to the Sangha, used it to shore up the wall of his own dwelling. The bhikkhus reprimanded that bhikkhu, saying, “You are no longer a recluse.” He became anxious and informed the Master. He said, “bhikkhu, what was your intention?”
 
 “I was borrowing it, Master.”
 
-“There is no offence, monk, when one is borrowing.”[^150]
+“There is no offence, bhikkhu, when one is borrowing.”[^150]
 
 * * *
 
-*Bu-Pj.2.7.41* *MS.363* At one time a certain monk, intending to steal, took water belonging to the Sangha … clay belonging to the Sangha … intending to steal, took a pile of _tiṇa_\-grass belonging to the Sangha. He became anxious … “… expulsion.”
+*Bu-Pj.2.7.41* *MS.363* At one time a certain bhikkhu, intending to steal, took water belonging to the Sangha … clay belonging to the Sangha … intending to steal, took a pile of _tiṇa_\-grass belonging to the Sangha. He became anxious … “… expulsion.”
 
 * * *
 
-*MS.364* At one time a certain monk, intending to steal, set fire to a pile of _tiṇa_\-grass belonging to the Sangha. He became anxious … “There is no offence entailing expulsion, but there is an offence of bad conduct.”*†*
+*MS.364* At one time a certain bhikkhu, intending to steal, set fire to a pile of _tiṇa_\-grass belonging to the Sangha. He became anxious … “There is no offence entailing expulsion, but there is an offence of bad conduct.”*†*
 
 * * *
 
-*Bu-Pj.2.7.42* *MS.365* At one time a certain monk, intending to steal, took a bed belonging to the Sangha. He became anxious … “… expulsion.”
+*Bu-Pj.2.7.42* *MS.365* At one time a certain bhikkhu, intending to steal, took a bed belonging to the Sangha. He became anxious … “… expulsion.”
 
 * * *
 
-*MS.366* At one time a certain monk, intending to steal, took a bench belonging to the Sangha … took a cushion … a pillow … a door … a window[^152] *BD.1.110* … intending to steal, took a rafter[^153] belonging to the Sangha. He became anxious … “… expulsion.”
+*MS.366* At one time a certain bhikkhu, intending to steal, took a bench belonging to the Sangha … took a cushion … a pillow … a door … a window[^152] *BD.1.110* … intending to steal, took a rafter[^153] belonging to the Sangha. He became anxious … “… expulsion.”
 
 * * *
 
-*Bu-Pj.2.7.43* *MS.367* At one time *Vin.3.66* the furnishings and requisites for a dwelling[^154] belonging to a certain lay follower[^155] were used elsewhere by some monks. That lay-follower became vexed, annoyed and angry, and said, “how can those venerables use elsewhere requisites belonging somewhere else?” They informed the Master. “Monks, one should not use elsewhere requisites belonging somewhere else. If one does, there is an offence of bad conduct.”
+*Bu-Pj.2.7.43* *MS.367* At one time *Vin.3.66* the furnishings and requisites for a dwelling[^154] belonging to a certain lay follower[^155] were used elsewhere by some bhikkhus. That lay-follower became vexed, annoyed and angry, and said, “how can those venerables use elsewhere requisites belonging somewhere else?” They informed the Master. “bhikkhus, one should not use elsewhere requisites belonging somewhere else. If one does, there is an offence of bad conduct.”
 
 * * *
 
-*Bu-Pj.2.7.44* *MS.368* At one time some monks, having scruples about taking requisites[^156] to the _uposatha_ hall or to a meeting place, sat down on the ground. Their limbs and robes were covered with dust. They informed the Master.[^157] “Monks, I allow you to borrow.”[^158]
+*Bu-Pj.2.7.44* *MS.368* At one time some bhikkhus, having scruples about taking requisites[^156] to the _uposatha_ hall or to a meeting place, sat down on the ground. Their limbs and robes were covered with dust. They informed the Master.[^157] “bhikkhus, I allow you to borrow.”[^158]
 
 * * *
 
-*Bu-Pj.2.7.45* *MS.369* At one time at Campā[^159] a nun who was a pupil of the nun Thullanandā went to the family who supported the nun Thullanandā and said, “The lady[^160] wants to drink[^161] rice-gruel containing the three pungent *BD.1.111* *MS.369* ingredients.”[^162] When it was ready, she took it away and enjoyed it herself. When the nun Thullananadā found out about this, she reprimanded her, saying, “You are no longer a recluse.” She became anxious. She then informed the nuns, who in turn informed the monks, who then informed the Master. “Monks, there is no offence entailing expulsion, but in a deliberate lie there is an offence entailing confession.”
+*Bu-Pj.2.7.45* *MS.369* At one time at Campā[^159] a nun who was a pupil of the nun Thullanandā went to the family who supported the nun Thullanandā and said, “The lady[^160] wants to drink[^161] rice-gruel containing the three pungent *BD.1.111* *MS.369* ingredients.”[^162] When it was ready, she took it away and enjoyed it herself. When the nun Thullananadā found out about this, she reprimanded her, saying, “You are no longer a recluse.” She became anxious. She then informed the nuns, who in turn informed the bhikkhus, who then informed the Master. “bhikkhus, there is no offence entailing expulsion, but in a deliberate lie there is an offence entailing confession.”
 
 * * *
 
-*MS.370* At one time in Rājagaha a nun who was a pupil of the nun Thullanandā went to the family who supported the nun Thullanandā and said, “The lady[^163] wants to eat a honey-ball.”[^164] When it was ready, she took it away and enjoyed it herself. When the nun Thullanandā found out about this, she … “Monks, there is no offence entailing expulsion, but in a deliberate lie there is an offence entailing confession.”
+*MS.370* At one time in Rājagaha a nun who was a pupil of the nun Thullanandā went to the family who supported the nun Thullanandā and said, “The lady[^163] wants to eat a honey-ball.”[^164] When it was ready, she took it away and enjoyed it herself. When the nun Thullanandā found out about this, she … “bhikkhus, there is no offence entailing expulsion, but in a deliberate lie there is an offence entailing confession.”
 
 * * *
 
@@ -759,19 +759,19 @@ At that time the householderʼs nephew had faith and confidence, and so Venerabl
 
 *Bu-Pj.2.7.47* *MS.372* Now at that time in Benares the family that supported Venerable Pilindavaccha[^167] was oppressed by thieves, and two children were kidnapped. Venerable Pilindavaccha having bought these children back by his psychic power placed them in a large house. People saw those children and said:
 
-*BD.1.113* “This is the majesty of the psychic power of master Pilindavaccha,” and they placed confidence in Venerable Pilindavaccha. The monks became vexed, annoyed and angry, and said, “How can this Venerable Pilindavaccha bring back children who have been kidnapped by thieves?” They informed the Master. He said: “Monks, there is no offence in the area of psychic powers for one who possesses them.”
+*BD.1.113* “This is the majesty of the psychic power of master Pilindavaccha,” and they placed confidence in Venerable Pilindavaccha. The bhikkhus became vexed, annoyed and angry, and said, “How can this Venerable Pilindavaccha bring back children who have been kidnapped by thieves?” They informed the Master. He said: “bhikkhus, there is no offence in the area of psychic powers for one who possesses them.”
 
-*Bu-Pj.2.7.48* *MS.373* At one time the two monks Paṇḍaka and Kapila[^168] were friends. One lived in a village and one at Kosambī. Then, while the first monk was going from the village to Kosambī, as he was crossing a river, a lump of fat that had escaped from the hands of pork-butchers stuck to his foot. He took hold of it, thinking, “I will give it to the owners.” The owners reprimanded him, saying, “You are no longer a recluse.”
+*Bu-Pj.2.7.48* *MS.373* At one time the two bhikkhus Paṇḍaka and Kapila[^168] were friends. One lived in a village and one at Kosambī. Then, while the first bhikkhu was going from the village to Kosambī, as he was crossing a river, a lump of fat that had escaped from the hands of pork-butchers stuck to his foot. He took hold of it, thinking, “I will give it to the owners.” The owners reprimanded him, saying, “You are no longer a recluse.”
 
 Then a woman cowherd who had seen him crossing said, “Come, bhante, have sexual intercourse.” Thinking, “I am no longer a recluse,” he had sexual intercourse with her.
 
-When he arrived in Kosambī, he informed the monks and they informed the Master. He said, “Monks, there is no offence entailing expulsion for stealing,[^169] but there is an offence entailing expulsion for having sexual intercourse.”
+When he arrived in Kosambī, he informed the bhikkhus and they informed the Master. He said, “bhikkhus, there is no offence entailing expulsion for stealing,[^169] but there is an offence entailing expulsion for having sexual intercourse.”
 
 * * *
 
-*Bu-Pj.2.7.49* *MS.374* Now at that time at Sāgalā,[^170] a monk who was the disciple of Venerable Daḷhika, being tormented by *BD.1.114* discontent,[^171] took a turban[^172] from a shopkeeper. He then said to Venerable Daḷhika, “Bhante, I am no longer a recluse, I will leave the Sangha.”[^173]
+*Bu-Pj.2.7.49* *MS.374* Now at that time at Sāgalā,[^170] a bhikkhu who was the disciple of Venerable Daḷhika, being tormented by *BD.1.114* discontent,[^171] took a turban[^172] from a shopkeeper. He then said to Venerable Daḷhika, “Bhante, I am no longer a recluse, I will leave the Sangha.”[^173]
 
-“But what have you done, friend?” He told him. Having had the turban brought, Venerable Daḷhika valued it, and it was not worth five _māsakas_. “Friend, there is no offence entailing expulsion,” and he gave a talk on the _Dhamma_. That monk was delighted.[^174]
+“But what have you done, friend?” He told him. Having had the turban brought, Venerable Daḷhika valued it, and it was not worth five _māsakas_. “Friend, there is no offence entailing expulsion,” and he gave a talk on the _Dhamma_. That bhikkhu was delighted.[^174]
 
 *MS.375* The second offence entailing expulsion is finished.
 
@@ -789,7 +789,7 @@ When he arrived in Kosambī, he informed the monks and they informed the Master.
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

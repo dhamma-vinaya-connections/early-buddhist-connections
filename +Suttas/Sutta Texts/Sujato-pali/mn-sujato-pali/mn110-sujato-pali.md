@@ -20,17 +20,17 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother.
 
-Now, at that time it was the sabbath — the full moon on the fifteenth day — and the Buddha was sitting in the open surrounded by the Saṅgha of monks. Then the Buddha looked around the Saṅgha of monks, who were so very silent. He addressed them: “Mendicants, could a bad person know of a bad person: ‘This fellow is a bad person’?”
+Now, at that time it was the sabbath — the full moon on the fifteenth day — and the Buddha was sitting in the open surrounded by the Saṅgha of bhikkhus. Then the Buddha looked around the Saṅgha of bhikkhus, who were so very silent. He addressed them: “bhikkhus, could a bad person know of a bad person: ‘This fellow is a bad person’?”
 
 “No, sir.”
 
 
-2“Good, mendicants! It’s impossible, it can’t happen, that a bad person could know of a bad person: ‘This fellow is a bad person.’ But could a bad person know of a good person: ‘This fellow is a good person’?”
+2“Good, bhikkhus! It’s impossible, it can’t happen, that a bad person could know of a bad person: ‘This fellow is a bad person.’ But could a bad person know of a good person: ‘This fellow is a good person’?”
 
 “No, sir.”
 
 
-3“Good, mendicants! That too is impossible. A bad person has bad qualities, associates with bad people, and has the intentions, counsel, speech, actions, views, and giving of a bad person.
+3“Good, bhikkhus! That too is impossible. A bad person has bad qualities, associates with bad people, and has the intentions, counsel, speech, actions, views, and giving of a bad person.
 
 And how does a bad person have bad qualities? It’s when a bad person is faithless, shameless, imprudent, uneducated, lazy, unmindful, and witless. That’s how a bad person has bad qualities.
 
@@ -52,16 +52,16 @@ And how does a bad person have bad qualities? It’s when a bad person is faithl
 
 12That bad person — who has such bad qualities, frequents bad people, and has the intentions, counsel, speech, actions, views, and giving of a bad person — when their body breaks up, after death, is reborn in the place where bad people are reborn. And what is the place where bad people are reborn? Hell or the animal realm.
 
-13Mendicants, could a good person know of a good person: ‘This fellow is a good person’?”
+13bhikkhus, could a good person know of a good person: ‘This fellow is a good person’?”
 
 “Yes, sir.”
 
-14“Good, mendicants! It is possible that a good person could know of a good person: ‘This fellow is a good person.’ But could a good person know of a bad person: ‘This fellow is a bad person’?”
+14“Good, bhikkhus! It is possible that a good person could know of a good person: ‘This fellow is a good person.’ But could a good person know of a bad person: ‘This fellow is a bad person’?”
 
 “Yes, sir.”
 
 
-15“Good, mendicants! That too is possible. A good person has good qualities, associates with good people, and has the intentions, counsel, speech, actions, views, and giving of a good person.
+15“Good, bhikkhus! That too is possible. A good person has good qualities, associates with good people, and has the intentions, counsel, speech, actions, views, and giving of a good person.
 
 
 16And how does a good person have good qualities? It’s when a good person is faithful, conscientious, prudent, learned, energetic, mindful, and wise. That’s how a good person has good qualities.
@@ -83,7 +83,7 @@ And how does a bad person have bad qualities? It’s when a bad person is faithl
 24That good person — who has such good qualities, associates with good people, and has the intentions, counsel, speech, actions, views, and giving of a good person — when their body breaks up, after death, is reborn in the place where good people are reborn. And what is the place where good people are reborn? A state of greatness among gods or humans.”
 
 
-25That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+25That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

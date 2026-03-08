@@ -15,9 +15,9 @@ language: "English"
 ## ## Anubuddha Sutta
 
 
-I have heard that on one occasion the Blessed One was staying among the Vajjians at Bhaṇḍa Village. There he addressed the monks, “Monks!”
+I have heard that on one occasion the Blessed One was staying among the Vajjians at Bhaṇḍa Village. There he addressed the bhikkhus, “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
 The Blessed One said: “It’s because of not understanding and not penetrating four things that we have transmigrated & wandered on for such a long, long time, you & I. Which four?
 
@@ -43,7 +43,7 @@ by Gotama of glorious stature.
 
 Having known them directly,
 
-he taught the Dhamma to the monks—
+he taught the Dhamma to the bhikkhus—
 
 he, the Awakened One
 

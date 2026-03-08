@@ -14,23 +14,23 @@ language: "English"
 
 _(This sutta is identical with MN 92. Part of it also appears in .)_
 
-I have heard that on one occasion, while the Blessed One was wandering on a tour among the Aṅguttarāpans with a large Saṅgha of monks, approximately 1,250 monks in all, he arrived at an Aṅguttarāpan town named Āpaṇa. Keṇiya the coiled hair ascetic heard it said, “Gotama the contemplative—a son of the Sakyans, gone forth from the Sakyan clan—on a wandering tour among the Aṅguttarāpans with a large Saṅgha of monks, approximately 1,250 monks in all—has arrived at Āpaṇa. And of that Master Gotama this fine reputation has spread: ‘He is indeed a Blessed One, worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed. He makes known—having realized it through direct knowledge—this world with its devas, Māras, & Brahmās, this generation with its contemplatives & brahmans, its rulers & commonfolk; he explains the Dhamma admirable in the beginning, admirable in the middle, admirable in the end; he expounds the holy life both in its particulars & in its essence, entirely perfect, surpassingly pure. It is good to see such a worthy one.’”
+I have heard that on one occasion, while the Blessed One was wandering on a tour among the Aṅguttarāpans with a large Saṅgha of bhikkhus, approximately 1,250 bhikkhus in all, he arrived at an Aṅguttarāpan town named Āpaṇa. Keṇiya the coiled hair ascetic heard it said, “Gotama the contemplative—a son of the Sakyans, gone forth from the Sakyan clan—on a wandering tour among the Aṅguttarāpans with a large Saṅgha of bhikkhus, approximately 1,250 bhikkhus in all—has arrived at Āpaṇa. And of that Master Gotama this fine reputation has spread: ‘He is indeed a Blessed One, worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed. He makes known—having realized it through direct knowledge—this world with its devas, Māras, & Brahmās, this generation with its contemplatives & brahmans, its rulers & commonfolk; he explains the Dhamma admirable in the beginning, admirable in the middle, admirable in the end; he expounds the holy life both in its particulars & in its essence, entirely perfect, surpassingly pure. It is good to see such a worthy one.’”
 
-So Keṇiya the coiled-hair ascetic went to the Blessed One and, on arrival, exchanged courteous greetings with him. After an exchange of friendly greetings & courtesies, he sat to one side.[1](#^snp3-7-01) As he was sitting there, the Blessed One instructed, urged, roused, & encouraged him with a talk on Dhamma. Then Keṇiya the coiled-hair ascetic—instructed, urged, roused, & encouraged with the Blessed One’s talk on Dhamma—said to him, “Master Gotama, may the Blessed One acquiesce to my meal tomorrow, together with the Saṅgha of monks.” ^snp3-7-01-ref
+So Keṇiya the coiled-hair ascetic went to the Blessed One and, on arrival, exchanged courteous greetings with him. After an exchange of friendly greetings & courtesies, he sat to one side.[1](#^snp3-7-01) As he was sitting there, the Blessed One instructed, urged, roused, & encouraged him with a talk on Dhamma. Then Keṇiya the coiled-hair ascetic—instructed, urged, roused, & encouraged with the Blessed One’s talk on Dhamma—said to him, “Master Gotama, may the Blessed One acquiesce to my meal tomorrow, together with the Saṅgha of bhikkhus.” ^snp3-7-01-ref
 
-When this was said, the Blessed One said to him, “The Saṅgha of monks is large, Keṇiya, approximately 1,250 monks in all, and you are strongly confident in brahmans.”
+When this was said, the Blessed One said to him, “The Saṅgha of bhikkhus is large, Keṇiya, approximately 1,250 bhikkhus in all, and you are strongly confident in brahmans.”
 
-A second time… A third time, Keṇiya the coiled-hair ascetic said to the Blessed One, “Master Gotama, even though the Saṅgha of monks is large, approximately 1,250 monks in all, and I am strongly confident in brahmans, may Master Gotama acquiesce to my meal tomorrow, together with the Saṅgha of monks.”
+A second time… A third time, Keṇiya the coiled-hair ascetic said to the Blessed One, “Master Gotama, even though the Saṅgha of bhikkhus is large, approximately 1,250 bhikkhus in all, and I am strongly confident in brahmans, may Master Gotama acquiesce to my meal tomorrow, together with the Saṅgha of bhikkhus.”
 
 The Blessed One acquiesced with silence.
 
-Then Keṇiya the coiled-hair ascetic, understanding the Blessed One’s acquiescence, got up from his seat and returned to his own ashram. On arrival, he addressed his friends & companions, his relatives & kinsmen: “Listen to me, venerable friends & companions, relatives & kinsmen: I have invited Gotama the contemplative together with a Saṅgha of monks, approximately 1,250 monks in all, for the meal tomorrow. Give me bodily assistance for that.”
+Then Keṇiya the coiled-hair ascetic, understanding the Blessed One’s acquiescence, got up from his seat and returned to his own ashram. On arrival, he addressed his friends & companions, his relatives & kinsmen: “Listen to me, venerable friends & companions, relatives & kinsmen: I have invited Gotama the contemplative together with a Saṅgha of bhikkhus, approximately 1,250 bhikkhus in all, for the meal tomorrow. Give me bodily assistance for that.”
 
 “As you say, master,” his friends & companions, relatives & kinsmen responded to him. Some of them dug out ovens, some split wood, some washed dishes, some set out a water pot, some arranged seats, while Keṇiya the coiled-hair ascetic arranged a pavilion of garlands himself.
 
 Now on that occasion Sela the brahman was staying at Āpaṇa. He was a master of the Three Vedas with their vocabularies, liturgy, phonology, etymology, & histories as a fifth; skilled in philology & grammar, he was fully versed in cosmology and in the marks of a Great Man. He was instructing 300 young brahmans in the (Vedic) mantras. Then, as he—surrounded by 300 young brahmans—was walking and wandering about to exercise his legs, he arrived at the ashram of Keṇiya the coiled-hair ascetic. He saw that some of the people in the ashram were digging out ovens, some were splitting wood… while Keṇiya the coiled-hair ascetic was arranging a pavilion of garlands himself. On seeing this, he said to Keṇiya the coiled-hair ascetic, “Could it be that Keṇiya the coiled-hair ascetic is giving a son or daughter in marriage, or is he setting up a great sacrifice, or is Seniya Bimbisāra, the king of Magadha, invited for tomorrow together with his army?”
 
-“No, Sela, it’s not that I’m giving a son or daughter in marriage, nor that Seniya Bimbisāra, the king of Magadha, is invited for tomorrow together with his army. But I _am_ setting up a great sacrifice. There is Gotama the contemplative—a son of the Sakyans, gone forth from the Sakyan clan—who, on a wandering tour among the Aṅguttarāpans with a large Saṅgha of monks, approximately 1,250 monks in all, has arrived at Āpaṇa. And of that Master Gotama this fine reputation has spread: ‘He is indeed a Blessed One, worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed.’ He has been invited by me for the meal tomorrow, together with the Saṅgha of monks.”
+“No, Sela, it’s not that I’m giving a son or daughter in marriage, nor that Seniya Bimbisāra, the king of Magadha, is invited for tomorrow together with his army. But I _am_ setting up a great sacrifice. There is Gotama the contemplative—a son of the Sakyans, gone forth from the Sakyan clan—who, on a wandering tour among the Aṅguttarāpans with a large Saṅgha of bhikkhus, approximately 1,250 bhikkhus in all, has arrived at Āpaṇa. And of that Master Gotama this fine reputation has spread: ‘He is indeed a Blessed One, worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed.’ He has been invited by me for the meal tomorrow, together with the Saṅgha of bhikkhus.”
 
 “Did you say, ‘Awakened,’ master Keṇiya?”
 
@@ -80,7 +80,7 @@ of a community of contemplatives
 
 you shine like the sun.
 
-A monk with skin resembling gold
+A bhikkhu with skin resembling gold
 
 is admirable to look at,
 
@@ -250,7 +250,7 @@ Then Sela the brahman, together with his following, obtained the Going-forth in 
 
 Then, as the night was ending, Keṇiya the coiled-hair ascetic, having had choice staple & non-staple foods prepared in his own ashram, announced the time to the Blessed One, “It is time, master Gotama. The meal is ready.”
 
-Then, early in the morning, the Blessed One—after adjusting his lower robe and carrying his bowl & outer robe—went together with a Saṅgha of monks to Keṇiya’s ashram. On arrival, he sat down on an arranged seat. Keṇiya the coiled-hair ascetic, with his own hand, served & satisfied the Blessed One & the Saṅgha of monks with choice staple & non-staple foods. Then, when the Blessed One had eaten and had rinsed his bowl & hands, Keṇiya the coiled-hair ascetic took a lower seat and sat to one side. As he was sitting there, the Blessed One expressed approval of him with these verses:
+Then, early in the morning, the Blessed One—after adjusting his lower robe and carrying his bowl & outer robe—went together with a Saṅgha of bhikkhus to Keṇiya’s ashram. On arrival, he sat down on an arranged seat. Keṇiya the coiled-hair ascetic, with his own hand, served & satisfied the Blessed One & the Saṅgha of bhikkhus with choice staple & non-staple foods. Then, when the Blessed One had eaten and had rinsed his bowl & hands, Keṇiya the coiled-hair ascetic took a lower seat and sat to one side. As he was sitting there, the Blessed One expressed approval of him with these verses:
 
 “The fire oblation is the chief of sacrifices,
 
@@ -312,7 +312,7 @@ free of clinging,
 
 your fear & terror abandoned.
 
-These three hundred monks
+These three hundred bhikkhus
 
 stand with hands palm-to-palm
 
@@ -328,7 +328,7 @@ vv. 548–573
 
 ### Notes
 
-1. According to Mv VI.35.3, at this point in the narrative Keṇiya offered a juice drink to the Buddha, who told him also to offer the drink to the Saṅgha. This became the occasion for the allowance for monks to consume juice drinks after noon. [↩︎](#^snp3-7-01-ref) ^snp3-7-01
+1. According to Mv VI.35.3, at this point in the narrative Keṇiya offered a juice drink to the Buddha, who told him also to offer the drink to the Saṅgha. This became the occasion for the allowance for bhikkhus to consume juice drinks after noon. [↩︎](#^snp3-7-01-ref) ^snp3-7-01
 
 2. See [[/snp1.2-thanissaro]]. [↩︎](#^snp3-7-02-ref) ^snp3-7-02
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four ways of purifying a religious donation. What four? There’s a religious donation that’s purified by the giver, not the recipient. There’s a religious donation that’s purified by the recipient, not the giver. There’s a religious donation that’s purified by neither the giver nor the recipient. There’s a religious donation that’s purified by both the giver and the recipient.
+1“bhikkhus, there are these four ways of purifying a religious donation. What four? There’s a religious donation that’s purified by the giver, not the recipient. There’s a religious donation that’s purified by the recipient, not the giver. There’s a religious donation that’s purified by neither the giver nor the recipient. There’s a religious donation that’s purified by both the giver and the recipient.
 
 
 2And how is a religious donation purified by the giver, not the recipient? It’s when the giver is ethical, of good character, but the recipient is unethical, of bad character.

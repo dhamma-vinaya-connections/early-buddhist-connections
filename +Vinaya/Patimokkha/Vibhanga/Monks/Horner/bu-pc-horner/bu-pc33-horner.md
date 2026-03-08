@@ -7,23 +7,23 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
 > ◄  [[bu-pc32-horner]] 📜  [[bu-pc34-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 33
+# bhikkhus’ Expiation (_Pācittiya_) 33
 
 *Bu-Pc.33.1.1* *BD.2.315* … at Vesālī in the Great Grove in the hall of the Gabled Roof. Now at that time in Vesālī a succession of meals of sumptuous foods came to be arranged.[^1] Then it occurred to a certain poor workman: “This[^2] will not be inferior, in that these people duly prepare a meal. What now if I were to prepare a meal?” Then that poor workman approached Kirapatika,[^3] and having approached, he said to Kirapatika:
 
-“I, master,[^4] want *Vin.4.76* to prepare a meal for the Order of monks with the enlightened one at the head. Give me a wage.”
+“I, master,[^4] want *Vin.4.76* to prepare a meal for the Order of bhikkhus with the enlightened one at the head. Give me a wage.”
 
 Now Kirapatika had faith and was virtuous. Then Kirapatika gave more than a wage[^5] to this poor work-man. Then the poor workman went up to the lord, and having gone up, having greeted the lord, he sat down at a respectful distance. As he was sitting down at a respectful distance, the poor workman spoke thus to the lord:
 
-“Lord, may the lord, together with the Order of monks, consent to a meal with me tomorrow.”
+“Lord, may the lord, together with the Order of bhikkhus, consent to a meal with me tomorrow.”
 
-“But, sir, do find out, the Order of monks is large.”
+“But, sir, do find out, the Order of bhikkhus is large.”
 
-“Lord, let the Order of monks be large. Many are the jujube fruits[^6] prepared by me, the things to be *BD.2.316* drunk[^7] will be perfect on account of the juice of the jujube fruits.”[^8]
+“Lord, let the Order of bhikkhus be large. Many are the jujube fruits[^6] prepared by me, the things to be *BD.2.316* drunk[^7] will be perfect on account of the juice of the jujube fruits.”[^8]
 
-The lord consented by becoming silent. Then that poor workman, having obtained the lord’s consent, having risen up from the seat, having greeted the lord, departed, keeping his right side towards him. Monks heard it said:
+The lord consented by becoming silent. Then that poor workman, having obtained the lord’s consent, having risen up from the seat, having greeted the lord, departed, keeping his right side towards him. bhikkhus heard it said:
 
-“The Order of monks, with the enlightened one at the head, is invited for tomorrow by a poor workman. The things to be drunk will be perfect on account of the juice of jujube fruits.” These ate, walking for alms that morning. People heard it said: “The Order of monks, with the enlightened one at the head, is invited by, the poor workman.” These conveyed much solid food and soft food for the poor workman. Then that poor workman, at the end of that night, having had sumptuous solid food and soft food prepared, had the time announced to the lord, saying: “Lord, it is time, the meal is ready.” Then the lord, dressing in the morning, taking his bowl and robe, approached the poor workman’s dwelling, and having approached he sat down on the appointed seat together with the Order of monks. Then that poor workman served the monks in a refectory. The monks spoke thus:
+“The Order of bhikkhus, with the enlightened one at the head, is invited for tomorrow by a poor workman. The things to be drunk will be perfect on account of the juice of jujube fruits.” These ate, walking for alms that morning. People heard it said: “The Order of bhikkhus, with the enlightened one at the head, is invited by, the poor workman.” These conveyed much solid food and soft food for the poor workman. Then that poor workman, at the end of that night, having had sumptuous solid food and soft food prepared, had the time announced to the lord, saying: “Lord, it is time, the meal is ready.” Then the lord, dressing in the morning, taking his bowl and robe, approached the poor workman’s dwelling, and having approached he sat down on the appointed seat together with the Order of bhikkhus. Then that poor workman served the bhikkhus in a refectory. The bhikkhus spoke thus:
 
 “Sir, give a little, give a little, sir.” He said: “Do not you, honoured sirs, accept so very little saying, ‘This is a poor workman.’ Much solid food and soft food was prepared for me. Honoured sirs, accept as much as you please.”
 
@@ -33,43 +33,43 @@ The lord consented by becoming silent. Then that poor workman, having obtained t
 
 “How can the revered sirs, invited by me, eat elsewhere?[^9] Yet am I not competent[^10] to give as much as they please?”
 
-Monks heard this poor workman who … *Vin.4.77* spread it about. Those who were modest monks … spread it about, saying:
+bhikkhus heard this poor workman who … *Vin.4.77* spread it about. Those who were modest bhikkhus … spread it about, saying:
 
-“How can these monks, invited somewhere, eat elsewhere?” …
+“How can these bhikkhus, invited somewhere, eat elsewhere?” …
 
-“Is it true, as is said, monks, that the monks, invited somewhere, ate elsewhere?”
+“Is it true, as is said, bhikkhus, that the bhikkhus, invited somewhere, ate elsewhere?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can these foolish men … eat elsewhere? It is not, monks … And thus, monks, this rule of training should be set forth:
+“How, bhikkhus, can these foolish men … eat elsewhere? It is not, bhikkhus … And thus, bhikkhus, this rule of training should be set forth:
 
 “In an out-of-turn meal,[^11] there is an offence of expiation.”
 
-And thus this rule of training for monks came to be laid down by the lord.
+And thus this rule of training for bhikkhus came to be laid down by the lord.
 
 * * *
 
-*Bu-Pc.33.2.1* *BD.2.318* Now at that time a certain monk became ill. A monk, taking alms-food, went up to that monk, and having gone up he spoke thus to that monk: “Eat, your reverence.”
+*Bu-Pc.33.2.1* *BD.2.318* Now at that time a certain bhikkhu became ill. A bhikkhu, taking alms-food, went up to that bhikkhu, and having gone up he spoke thus to that bhikkhu: “Eat, your reverence.”
 
 “Very well, your reverence, but there is for me the expectation of a meal.”
 
-Alms-food was conveyed to that monk in the evening. That monk did not eat as much as expected. They told this matter to the lord. Then the lord on this occasion, in this connection, having given reasoned talk, addressed the monks, saying:
+Alms-food was conveyed to that bhikkhu in the evening. That bhikkhu did not eat as much as expected. They told this matter to the lord. Then the lord on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying:
 
-“I allow you, monks, when a monk is ill, to eat an out-of-turn meal. And thus, monks, this rule of training should be set forth:
+“I allow you, bhikkhus, when a bhikkhu is ill, to eat an out-of-turn meal. And thus, bhikkhus, this rule of training should be set forth:
 
 “In an out-of-turn meal, except at a right time, there is an offence of expiation. In this case, a right time is a time of illness; this is a right time in this case.”
 
-And thus this rule of training for monks came to be laid down by the lord.
+And thus this rule of training for bhikkhus came to be laid down by the lord.
 
 * * *
 
-*Bu-Pc.33.3.1* At that time people, at the time of giving robes, having had a meal prepared together with the robes, invited monks, saying: “Having offered food, we will present (you) with robes.” The monks, being scrupulous, did not consent, saying: “It is forbidden by the lord to eat an out-of-turn meal.” … See *Bu-Pc.32.3*, *Bu-Pc.32.4* … “… should be set forth:
+*Bu-Pc.33.3.1* At that time people, at the time of giving robes, having had a meal prepared together with the robes, invited bhikkhus, saying: “Having offered food, we will present (you) with robes.” The bhikkhus, being scrupulous, did not consent, saying: “It is forbidden by the lord to eat an out-of-turn meal.” … See *Bu-Pc.32.3*, *Bu-Pc.32.4* … “… should be set forth:
 
 “In an out-of-turn meal, except at a right time, there is an offence of expiation. In this case a right time is a time of illness, a time of giving robes, a time of making robes; this is a right time in this case.”[^12]
 
-And thus this rule of training for monks came to be laid down by the lord.
+And thus this rule of training for bhikkhus came to be laid down by the lord.
 
 * * *
 
@@ -81,9 +81,9 @@ And thus this rule of training for monks came to be laid down by the lord.
 
 “Well now, Ānanda, having assigned it (to another), take (this food).”
 
-Then the, lord, on this occasion, in this connection, having given reasoned talk, addressed the monks, saying:
+Then the, lord, on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying:
 
-“I allow you, monks, having assigned (food to another), to eat an out-of-turn meal. And thus, monks, should it be assigned: ‘I will give the meal that I am expecting to so and so.’”[^14]
+“I allow you, bhikkhus, having assigned (food to another), to eat an out-of-turn meal. And thus, bhikkhus, should it be assigned: ‘I will give the meal that I am expecting to so and so.’”[^14]
 
 * * *
 
@@ -107,7 +107,7 @@ The Third
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

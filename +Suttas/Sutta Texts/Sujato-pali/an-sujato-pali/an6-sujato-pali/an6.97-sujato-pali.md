@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these are the six benefits of realizing the fruit of stream-entry. What six? You’re bound for the true teaching. You’re not liable to decline. You suffer only for a limited period. You have unshared knowledge. You’ve clearly seen causes and the phenomena that arise from causes. These are the six benefits of realizing the fruit of stream-entry.”
+1“bhikkhus, these are the six benefits of realizing the fruit of stream-entry. What six? You’re bound for the true teaching. You’re not liable to decline. You suffer only for a limited period. You have unshared knowledge. You’ve clearly seen causes and the phenomena that arise from causes. These are the six benefits of realizing the fruit of stream-entry.”
 
 1"Chayime, bhikkhave, ānisaṁsā sotāpattiphalasacchikiriyāya. Katame cha? Saddhammaniyato hoti, aparihānadhammo hoti, pariyantakatassa dukkhaṁ hoti, asādhāraṇena ñāṇena samannāgato hoti, hetu cassa sudiṭṭho, hetusamuppannā ca dhammā. Ime kho, bhikkhave, cha ānisaṁsā sotāpattiphalasacchikiriyāyā"ti.
 

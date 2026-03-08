@@ -46,7 +46,7 @@ parallels_partilal: "[[AN4.87]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant with five qualities is an exquisite ascetic of ascetics
+> bhikkhu with five qualities is an exquisite ascetic of ascetics
 
 > [!info] Key Excerpts 
 > Usually uses only what they’ve been invited to accept, is healthy, usually treat them agreeably, gets 4 jhanas and has realize undefiled freedom

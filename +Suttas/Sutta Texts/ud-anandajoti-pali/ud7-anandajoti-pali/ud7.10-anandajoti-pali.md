@@ -20,13 +20,13 @@ language: "English - Pali"
 
 1Thus I heard: At one time the Gracious One was dwelling near Kosambī, in Ghosita's Monastery. Then at that time when King Udena had gone to the pleasure park, the inner quarters of the palace were burnt down, and five hundred women died with Queen Sāmāvatī at their head.
 
-2Then many monks, having dressed in the morning time, after picking up their bowl and robe, entered Kosambī for alms, and after walking for alms in Kosambī, while returning from the alms-round after the meal, went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those monks said this to the Gracious One:
+2Then many bhikkhus, having dressed in the morning time, after picking up their bowl and robe, entered Kosambī for alms, and after walking for alms in Kosambī, while returning from the alms-round after the meal, went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side. While sat on one side those bhikkhus said this to the Gracious One:
 
 "Here, reverend Sir, when King Udena had gone to the pleasure park, the inner quarters of the palace were burnt down, and five hundred women died with Queen Sāmāvatī at their head. What is the destination of the female lay followers, reverend Sir, what is their future state?"
 
 ---
 
-3"There are in this, monks, female lay followers who are stream-enterers, there are once-returners, there are non-returners,—none of those female lay followers died, monks, without having attained some result."
+3"There are in this, bhikkhus, female lay followers who are stream-enterers, there are once-returners, there are non-returners,—none of those female lay followers died, bhikkhus, without having attained some result."
 
 4Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

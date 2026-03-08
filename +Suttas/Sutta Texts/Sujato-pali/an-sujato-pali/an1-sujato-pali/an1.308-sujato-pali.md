@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to unskillful qualities, or makes skillful qualities decline like wrong view. When you have wrong view, unskillful qualities arise and skillful qualities decline.”
+1“bhikkhus, I do not see a single thing that gives rise to unskillful qualities, or makes skillful qualities decline like wrong view. When you have wrong view, unskillful qualities arise and skillful qualities decline.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannā vā kusalā dhammā nuppajjanti uppannā vā kusalā dhammā parihāyanti yathayidaṁ, bhikkhave, micchādiṭṭhi. Micchādiṭṭhikassa, bhikkhave, anuppannā ceva kusalā dhammā nuppajjanti uppannā ca kusalā dhammā parihāyantī"ti.
 

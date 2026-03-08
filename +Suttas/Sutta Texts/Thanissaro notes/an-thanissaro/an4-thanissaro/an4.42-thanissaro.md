@@ -25,7 +25,7 @@ third, the type to be counter-questioned,
 
 & fourth, the one to be put aside.
 
-Any monk who knows which is which,
+Any bhikkhu who knows which is which,
 
 in line with the Dhamma,
 

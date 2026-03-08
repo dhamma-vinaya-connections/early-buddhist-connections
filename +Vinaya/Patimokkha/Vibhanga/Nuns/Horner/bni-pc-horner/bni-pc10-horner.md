@@ -13,7 +13,7 @@ language: "English"
 
 “It is true, lord.”
 
-The enlightened one, the lord, rebuked them, saying: “How, monks, can the group of six nuns go to see … music? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+The enlightened one, the lord, rebuked them, saying: “How, bhikkhus, can the group of six nuns go to see … music? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should go to see dancing or singing or music, there is an offence of expiation.”[^2]
 

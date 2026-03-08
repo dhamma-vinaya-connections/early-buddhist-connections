@@ -18,7 +18,7 @@ language: "English"
 138 (81). Pūraṇa
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at the two-story meeting hall beside Markaṭa Lake of Vaiśālī.
 2. It was then that there was a Licchavi named Mahānāma<a id="fnref1"></a>[^1] who traveled daily to visit the Buddha.
-3. That Licchavi man thought to himself, ‘If I visit the Bhagavān in the morning, the Bhagavān and the monks who are my friends will all be meditating. I’ll go visit the ājīvika heretics at Seven Mango Trees.” He then went to visit Pūraṇa Kāśyapa at his residence.
+3. That Licchavi man thought to himself, ‘If I visit the Bhagavān in the morning, the Bhagavān and the bhikkhus who are my friends will all be meditating. I’ll go visit the ājīvika heretics at Seven Mango Trees.” He then went to visit Pūraṇa Kāśyapa at his residence.
 4. Pūraṇa Kāśyapa was the leader of an assembly of another tradition. He was surrounded front and back by five hundred disciples who were loud and boisterous as they discussed ordinary affairs.
 5. When he saw the Licchavi Mahānāma coming from a distance, Pūraṇa Kāśyapa told his followers to settle down: “Quiet, all of you! This Licchavi Mahānāma is a disciple of the ascetic Gautama. This white-robed disciple of the ascetic Gautama is a high-ranking person in Vaiśālī. He always delights in peace, praises peace, and visits peaceful assemblies; therefore, all of you must be peaceful.”
 6. Mahānāma then paid a visit to Pūraṇa’s assembly, and he exchanged greetings with him. After listening to his troubles, Mahānāma withdrew to sit at one side.

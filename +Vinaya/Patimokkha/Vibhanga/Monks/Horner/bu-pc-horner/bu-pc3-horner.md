@@ -7,23 +7,23 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
 > ◄  [[bu-pc2-horner]] 📜  [[bu-pc4-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 3
+# bhikkhus’ Expiation (_Pācittiya_) 3
 
-*Vin.4.12**BD.2.186* *Bu-Pc.3.1.1* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks brought slander[^1] against monks for quarrelling, for disputing, for engaging in contention[^2]; hearing of this they were proclaimed for that and this dissension; hearing of that they were proclaimed[^3] for this and that dissension, so that quarrels that had not arisen arose, and also quarrels that had arisen rolled on for becoming more, for expansion. Those who were modest monks looked down upon, criticised, spread it about, saying:
+*Vin.4.12**BD.2.186* *Bu-Pc.3.1.1* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus brought slander[^1] against bhikkhus for quarrelling, for disputing, for engaging in contention[^2]; hearing of this they were proclaimed for that and this dissension; hearing of that they were proclaimed[^3] for this and that dissension, so that quarrels that had not arisen arose, and also quarrels that had arisen rolled on for becoming more, for expansion. Those who were modest bhikkhus looked down upon, criticised, spread it about, saying:
 
-“How can this group of six monks bring slander against monks for quarrelling, (so that) hearing of this … they were proclaimed … for expansion.”
+“How can this group of six bhikkhus bring slander against bhikkhus for quarrelling, (so that) hearing of this … they were proclaimed … for expansion.”
 
-Then these monks told this matter to the lord. He said:
+Then these bhikkhus told this matter to the lord. He said:
 
-“Is it true, as is said, that you, monks, brought slander against monks for quarrelling, (so that) hearing of this … they were proclaimed … for expansion?”
+“Is it true, as is said, that you, bhikkhus, brought slander against bhikkhus for quarrelling, (so that) hearing of this … they were proclaimed … for expansion?”
 
 “It is true, lord,” they said.
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, bring slander against monks for quarrelling, (so that) hearing of this … they were proclaimed … for expansion. It is not, foolish men, for pleasing those who are not (yet) pleased, nor for increase in those who are pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, bring slander against bhikkhus for quarrelling, (so that) hearing of this … they were proclaimed … for expansion. It is not, foolish men, for pleasing those who are not (yet) pleased, nor for increase in those who are pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“In slander by monks,[^4] there is an offence of expiation.”
+“In slander by bhikkhus,[^4] there is an offence of expiation.”
 
 * * *
 
@@ -63,7 +63,7 @@ The Third
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

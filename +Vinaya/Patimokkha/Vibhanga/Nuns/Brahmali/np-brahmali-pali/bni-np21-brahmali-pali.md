@@ -32,14 +32,14 @@ The following morning their son got up early and cried, “Give me meat!” The 
 
 After giving a _kahāpaṇa_ to Upananda, that man complained and criticized him, “The Sakyan monastics accept money just as we do.”
 
-The monks heard the complaints of that man, and the monks of few desires complained and criticized him, “How could Venerable Upananda receive money?”
+The bhikkhus heard the complaints of that man, and the bhikkhus of few desires complained and criticized him, “How could Venerable Upananda receive money?”
 
 
 4After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Upananda: “Is it true, Upananda, that you did this?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -61,7 +61,7 @@ The Buddha rebuked him … “Foolish man, how could you do this? This will affe
 11**Consents to … being deposited for him:** if someone says, “This is for you,” and he consents to it being deposited for him, it becomes subject to relinquishment.
 
 
-It should be relinquished in the midst of the Sangha. “And, monks, it should be relinquished like this. After approaching the Sangha, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, raise his joined palms, and say:
+It should be relinquished in the midst of the Sangha. “And, bhikkhus, it should be relinquished like this. After approaching the Sangha, that monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior bhikkhus. He should then squat on his heels, raise his joined palms, and say:
 
 ‘Venerables, I have received money. It is to be relinquished. I relinquish it to the Sangha.’”
 
@@ -73,7 +73,7 @@ If this is what happens, all is well. If not, he should be told, “Discard it.�
 
 If he discards it, all is well. If he does not, a monk who has five qualities should be appointed as the money discarder: one who is not biased by desire, ill will, confusion, or fear, and who knows what has and has not been discarded.
 
-“And, monks, this is how he should be appointed. First the monk should be asked and then a competent and capable monk should inform the Sangha:
+“And, bhikkhus, this is how he should be appointed. First the monk should be asked and then a competent and capable monk should inform the Sangha:
 
 12‘Please, Venerables, I ask the Sangha to listen. If it seems appropriate to the Sangha, it should appoint monk so-and-so as the money discarder. This is the motion.
 

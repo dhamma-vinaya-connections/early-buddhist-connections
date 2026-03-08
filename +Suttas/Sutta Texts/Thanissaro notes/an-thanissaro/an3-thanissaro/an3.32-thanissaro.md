@@ -15,13 +15,13 @@ language: "English"
 ## ## Ānanda Sutta
 
 
-Then Ven. Ānanda went to the Blessed One and, on arrival, bowed down to him and sat to one side. As he was sitting there, he said to the Blessed One, “Lord, could it be that a monk would have a samādhi-attainment of such a sort that, with regard to this conscious body, he would have no I-making or mine-making conceit-obsession, that with regard to all external themes [topics of samādhi] he would have no I-making or mine-making conceit-obsession, and that he would enter & remain in the awareness-release & discernment-release in which there is no I-making or mine-making conceit-obsession for one entering & remaining in it?”
+Then Ven. Ānanda went to the Blessed One and, on arrival, bowed down to him and sat to one side. As he was sitting there, he said to the Blessed One, “Lord, could it be that a bhikkhu would have a samādhi-attainment of such a sort that, with regard to this conscious body, he would have no I-making or mine-making conceit-obsession, that with regard to all external themes [topics of samādhi] he would have no I-making or mine-making conceit-obsession, and that he would enter & remain in the awareness-release & discernment-release in which there is no I-making or mine-making conceit-obsession for one entering & remaining in it?”
 
-“It could be, Ānanda, that a monk would have a samādhi-attainment of a such a sort.…”
+“It could be, Ānanda, that a bhikkhu would have a samādhi-attainment of a such a sort.…”
 
-“But how, lord, could a monk have a samādhi-attainment of such a sort…?”
+“But how, lord, could a bhikkhu have a samādhi-attainment of such a sort…?”
 
-“There is the case, Ānanda, where a monk is percipient in this way: ‘This is peace, this is exquisite—the pacification of all fabrications; the relinquishing of all acquisitions; the ending of craving; dispassion; cessation; unbinding.’ This is how a monk would have a samādhi-attainment of a such a sort that, with regard to this conscious body, he would have no I-making or mine-making conceit-obsession, that with regard to all external themes [topics of samādhi] he would have no I-making or mine-making conceit-obsession, and that he would enter & remain in the awareness-release & discernment-release in which there is no I-making or mine-making conceit-obsession for one entering & remaining in it.
+“There is the case, Ānanda, where a bhikkhu is percipient in this way: ‘This is peace, this is exquisite—the pacification of all fabrications; the relinquishing of all acquisitions; the ending of craving; dispassion; cessation; unbinding.’ This is how a bhikkhu would have a samādhi-attainment of a such a sort that, with regard to this conscious body, he would have no I-making or mine-making conceit-obsession, that with regard to all external themes [topics of samādhi] he would have no I-making or mine-making conceit-obsession, and that he would enter & remain in the awareness-release & discernment-release in which there is no I-making or mine-making conceit-obsession for one entering & remaining in it.
 
 “And it was in reference to this that I said, in Puṇṇaka’s Questions in the Pārāyana [[sn5.3-thanissaro]]]:
 

@@ -20,21 +20,21 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. There the Buddha addressed the mendicants:
+1At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. There the Buddha addressed the bhikkhus:
 
-“Mendicants, you should remember the householder Ugga of Vesālī as someone who has eight amazing and incredible qualities.”
+“bhikkhus, you should remember the householder Ugga of Vesālī as someone who has eight amazing and incredible qualities.”
 
 That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.
 
 
-2Then a certain mendicant robed up in the morning and, taking his bowl and robe, went to the home of the householder Ugga of Vesālī, where he sat on the seat spread out. Then Ugga of Vesālī went up to that mendicant, bowed, and sat down to one side. The mendicant said to him:
+2Then a certain bhikkhu robed up in the morning and, taking his bowl and robe, went to the home of the householder Ugga of Vesālī, where he sat on the seat spread out. Then Ugga of Vesālī went up to that bhikkhu, bowed, and sat down to one side. The bhikkhu said to him:
 
 
 3“Householder, the Buddha declared that you have eight amazing and incredible qualities. What are the eight qualities that he spoke of?”
 
 “Sir, I don’t know what eight amazing and incredible qualities the Buddha was referring to. But these eight amazing and incredible qualities are found in me. Listen and pay close attention, I will speak.”
 
-“Yes, householder,” replied the mendicant. Ugga of Vesālī said this:
+“Yes, householder,” replied the bhikkhu. Ugga of Vesālī said this:
 
 “Sir, when I first saw the Buddha off in the distance, my heart was inspired as soon as I saw him. This is the first incredible and amazing quality found in me.
 
@@ -44,7 +44,7 @@ That is what the Buddha said. When he had spoken, the Holy One got up from his s
 
 6And though my family has wealth, it’s shared without reserve with ethical people of good character. This is the fourth incredible and amazing quality found in me.
 
-7When I pay homage to a mendicant, I do so carefully, not carelessly. This is the fifth incredible and amazing quality found in me.
+7When I pay homage to a bhikkhu, I do so carefully, not carelessly. This is the fifth incredible and amazing quality found in me.
 
 8If that venerable teaches me the Dhamma, I listen carefully, not carelessly. But if they don’t teach me the Dhamma, I teach them. This is the sixth incredible and amazing quality found in me.
 
@@ -54,9 +54,9 @@ That is what the Buddha said. When he had spoken, the Holy One got up from his s
 
 11These eight amazing and incredible qualities are found in me. But I don’t know what eight amazing and incredible qualities the Buddha was referring to.”
 
-12Then that mendicant, after taking alms-food in Ugga of Vesālī’s home, got up from his seat and left. Then after the meal, on his return from alms-round, he went to the Buddha, bowed, and sat down to one side. He informed the Buddha of all he had discussed with the householder Ugga of Vesālī. The Buddha said:
+12Then that bhikkhu, after taking alms-food in Ugga of Vesālī’s home, got up from his seat and left. Then after the meal, on his return from alms-round, he went to the Buddha, bowed, and sat down to one side. He informed the Buddha of all he had discussed with the householder Ugga of Vesālī. The Buddha said:
 
-13“Good, good, mendicant! When I declared that the householder Ugga of Vesālī was someone who has eight amazing and incredible qualities, I was referring to the same eight qualities that he rightly explained to you. You should remember the householder Ugga of Vesālī as someone who has these eight amazing and incredible qualities.”
+13“Good, good, bhikkhu! When I declared that the householder Ugga of Vesālī was someone who has eight amazing and incredible qualities, I was referring to the same eight qualities that he rightly explained to you. You should remember the householder Ugga of Vesālī as someone who has these eight amazing and incredible qualities.”
 
 #### Pali
 

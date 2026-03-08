@@ -43,7 +43,7 @@ language: "Pali"
 
 301Those disciples of Gotama ever awaken happily whose minds by day and night delight in the practice of meditation.
 
-302Difficult is life as a monk; difficult is it to delight therein. Also difficult and sorrowful is the household life. Suffering comes from association with unequals; suffering comes from wandering in samsara. Therefore, be not an aimless wanderer, be not a pursuer of suffering.
+302Difficult is life as a bhikkhu; difficult is it to delight therein. Also difficult and sorrowful is the household life. Suffering comes from association with unequals; suffering comes from wandering in samsara. Therefore, be not an aimless wanderer, be not a pursuer of suffering.
 
 303He who is full of faith and virtue, and possesses good repute and wealth—he is respected everywhere, in whatever land he travels.
 

@@ -51,7 +51,7 @@ And then, not long after Ānanda had left, Māra the Wicked said to the Buddha:
 
 6“Sir, may the Blessed One now become fully extinguished! May the Holy One now become fully extinguished! Now is the time for the Buddha to become fully extinguished.
 
-Sir, you once made this statement: ‘Wicked One, I will not become fully extinguished until I have monk disciples who are competent, educated, assured, learned, have memorized the teachings, and practice in line with the teachings; not until they practice appropriately, living in line with the teaching; not until they’ve learned their tradition, and explain, teach, assert, establish, open, analyze, and make it clear; not until they can legitimately and completely refute the doctrines of others that come up, and teach with a demonstrable basis.’ Today you do have such monk disciples.
+Sir, you once made this statement: ‘Wicked One, I will not become fully extinguished until I have bhikkhu disciples who are competent, educated, assured, learned, have memorized the teachings, and practice in line with the teachings; not until they practice appropriately, living in line with the teaching; not until they’ve learned their tradition, and explain, teach, assert, establish, open, analyze, and make it clear; not until they can legitimately and completely refute the doctrines of others that come up, and teach with a demonstrable basis.’ Today you do have such bhikkhu disciples.
 
 
 7May the Blessed One now become fully extinguished! May the Holy One now become fully extinguished! Now is the time for the Buddha to become fully extinguished.

@@ -18,25 +18,25 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, I shall teach you the analysis of a recitation passage. Listen and pay close attention, I will speak.”
+“bhikkhus, I shall teach you the analysis of a recitation passage. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
-2“A mendicant should examine in any such a way that their consciousness is neither scattered and diffused externally nor stuck internally, and they are not anxious because of grasping. When this is the case and they are no longer anxious, there is for them no coming to be of the origin of suffering — of rebirth, old age, and death in the future.”
+2“A bhikkhu should examine in any such a way that their consciousness is neither scattered and diffused externally nor stuck internally, and they are not anxious because of grasping. When this is the case and they are no longer anxious, there is for them no coming to be of the origin of suffering — of rebirth, old age, and death in the future.”
 
 That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.
 
 
-3Soon after the Buddha left, those mendicants considered: “The Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail. Who can explain in detail the meaning of this brief passage for recitation given by the Buddha?”
+3Soon after the Buddha left, those bhikkhus considered: “The Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail. Who can explain in detail the meaning of this brief passage for recitation given by the Buddha?”
 
-Then those mendicants thought: “This Venerable Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions. He is capable of explaining in detail the meaning of this brief passage for recitation given by the Buddha. Let’s go to him, and ask him about this matter.”
+Then those bhikkhus thought: “This Venerable Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions. He is capable of explaining in detail the meaning of this brief passage for recitation given by the Buddha. Let’s go to him, and ask him about this matter.”
 
 
-4-5Then those mendicants went to Mahākaccāna, and exchanged greetings with him. When the greetings and polite conversation were over, they sat down to one side. They told him what had happened, and said, “May Venerable Mahākaccāna please explain this.”
+4-5Then those bhikkhus went to Mahākaccāna, and exchanged greetings with him. When the greetings and polite conversation were over, they sat down to one side. They told him what had happened, and said, “May Venerable Mahākaccāna please explain this.”
 
 
 6“Reverends, suppose there was a person in need of heartwood. And while wandering in search of heartwood he’d come across a large tree standing with heartwood. But he’d pass over the roots and trunk, imagining that the heartwood should be sought in the branches and leaves. Such is the consequence for the venerables. Though you were face to face with the Buddha, you passed him by, imagining that you should ask me about this matter. For he is the Buddha, who knows and sees. He is vision, he is knowledge, he is the truth, he is supreme. He is the teacher, the proclaimer, the elucidator of meaning, the bestower of the deathless, the lord of truth, the Realized One. That was the time to approach the Buddha and ask about this matter. You should have remembered it in line with the Buddha’s answer.”
@@ -47,26 +47,26 @@ Then those mendicants thought: “This Venerable Mahākaccāna is praised by the
 
 “Yes, reverend,” they replied. Venerable Mahākaccāna said this:
 
-7“Reverends, the Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail: ‘A mendicant should examine in any such a way that their consciousness is neither scattered and diffused externally nor stuck internally, and they are not anxious because of grasping. When this is the case and they are no longer anxious, there is for them no coming to be of the origin of suffering — of rebirth, old age, and death in the future.’ And this is how I understand the detailed meaning of this passage for recitation.
+7“Reverends, the Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail: ‘A bhikkhu should examine in any such a way that their consciousness is neither scattered and diffused externally nor stuck internally, and they are not anxious because of grasping. When this is the case and they are no longer anxious, there is for them no coming to be of the origin of suffering — of rebirth, old age, and death in the future.’ And this is how I understand the detailed meaning of this passage for recitation.
 
-8And how is consciousness scattered and diffused externally? Take a mendicant who sees a sight with their eyes. Their consciousness follows after the features of that sight, tied, attached, and fettered to gratification in its features. So their consciousness is said to be scattered and diffused externally.
+8And how is consciousness scattered and diffused externally? Take a bhikkhu who sees a sight with their eyes. Their consciousness follows after the features of that sight, tied, attached, and fettered to gratification in its features. So their consciousness is said to be scattered and diffused externally.
 
 When they hear a sound with their ears … When they smell an odor with their nose … When they taste a flavor with their tongue … When they feel a touch with their body … When they know a thought with their mind, their consciousness follows after the features of that thought, tied, attached, and fettered to gratification in its features. So their consciousness is said to be scattered and diffused externally. That’s how consciousness is scattered and diffused externally.
 
-9And how is consciousness not scattered and diffused externally? Take a mendicant who sees a sight with their eyes. Their consciousness doesn’t follow after the features of that sight, and is not tied, attached, and fettered to gratification in its features. So their consciousness is said to be not scattered and diffused externally.
+9And how is consciousness not scattered and diffused externally? Take a bhikkhu who sees a sight with their eyes. Their consciousness doesn’t follow after the features of that sight, and is not tied, attached, and fettered to gratification in its features. So their consciousness is said to be not scattered and diffused externally.
 
 When they hear a sound with their ears … When they smell an odor with their nose … When they taste a flavor with their tongue … When they feel a touch with their body … When they know a thought with their mind, their consciousness doesn’t follow after the features of that thought, and is not tied, attached, and fettered to gratification in its features. So their consciousness is said to be not scattered and diffused externally. That’s how consciousness is not scattered and diffused externally.
 
-10And how is their consciousness stuck internally? Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. Their consciousness follows after that rapture and bliss born of seclusion, tied, attached, and fettered to gratification in that rapture and bliss born of seclusion. So their mind is said to be stuck internally.
+10And how is their consciousness stuck internally? Take a bhikkhu who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. Their consciousness follows after that rapture and bliss born of seclusion, tied, attached, and fettered to gratification in that rapture and bliss born of seclusion. So their mind is said to be stuck internally.
 
-11Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. Their consciousness follows after that rapture and bliss born of immersion, tied, attached, and fettered to gratification in that rapture and bliss born of immersion. So their mind is said to be stuck internally.
+11Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. Their consciousness follows after that rapture and bliss born of immersion, tied, attached, and fettered to gratification in that rapture and bliss born of immersion. So their mind is said to be stuck internally.
 
-12Furthermore, with the fading away of rapture, a mendicant enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ Their consciousness follows after that equanimity, tied, attached, and fettered to gratification in that equanimous bliss. So their mind is said to be stuck internally.
+12Furthermore, with the fading away of rapture, a bhikkhu enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ Their consciousness follows after that equanimity, tied, attached, and fettered to gratification in that equanimous bliss. So their mind is said to be stuck internally.
 
-13Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. Their consciousness follows after that neutral feeling, tied, attached, and fettered to gratification in that neutral feeling. So their mind is said to be stuck internally. That’s how their consciousness is stuck internally.
+13Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a bhikkhu enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. Their consciousness follows after that neutral feeling, tied, attached, and fettered to gratification in that neutral feeling. So their mind is said to be stuck internally. That’s how their consciousness is stuck internally.
 
 
-14And how is their consciousness not stuck internally? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. Their consciousness doesn’t follow after that rapture and bliss born of seclusion, and is not tied, attached, and fettered to gratification in that rapture and bliss born of seclusion. So their mind is said to be not stuck internally.
+14And how is their consciousness not stuck internally? It’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. Their consciousness doesn’t follow after that rapture and bliss born of seclusion, and is not tied, attached, and fettered to gratification in that rapture and bliss born of seclusion. So their mind is said to be not stuck internally.
 
 
 15Furthermore, they enter the second jhāna … Their consciousness doesn’t follow after that rapture and bliss born of immersion …
@@ -84,18 +84,18 @@ When they hear a sound with their ears … When they smell an odor with their no
 They don’t regard feeling … perception … choices … consciousness as self, self as having consciousness, consciousness in self, or self in consciousness. When that consciousness of theirs decays and perishes, consciousness doesn’t latch on to the perishing of consciousness. Anxieties — born of latching on to the perishing of consciousness and originating in accordance with natural principles — don’t occupy their mind. So they don’t become frightened, worried, concerned, or anxious because of grasping. That’s how they are not anxious because of grasping.
 
 
-20The Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail: ‘A mendicant should examine in any such a way that their consciousness is neither scattered and diffused externally nor stuck internally, and they are not anxious because of grasping. When this is the case and they are no longer anxious, there is for them no coming to be of the origin of suffering — of rebirth, old age, and death in the future.’ And this is how I understand the detailed meaning of this passage for recitation. If you wish, you may go to the Buddha and ask him about this. You should remember it in line with the Buddha’s answer.”
+20The Buddha gave this brief passage for recitation, then entered his dwelling without explaining the meaning in detail: ‘A bhikkhu should examine in any such a way that their consciousness is neither scattered and diffused externally nor stuck internally, and they are not anxious because of grasping. When this is the case and they are no longer anxious, there is for them no coming to be of the origin of suffering — of rebirth, old age, and death in the future.’ And this is how I understand the detailed meaning of this passage for recitation. If you wish, you may go to the Buddha and ask him about this. You should remember it in line with the Buddha’s answer.”
 
 
-21-23“Yes, reverend,” said those mendicants, approving and agreeing with what Mahākaccāna said. Then they rose from their seats and went to the Buddha, bowed, sat down to one side, and told him what had happened, saying:
+21-23“Yes, reverend,” said those bhikkhus, approving and agreeing with what Mahākaccāna said. Then they rose from their seats and went to the Buddha, bowed, sat down to one side, and told him what had happened, saying:
 
 
 24“Mahākaccāna clearly explained the meaning to us in this manner, with these words and phrases.”
 
-25“Mahākaccāna is astute, mendicants, he has great wisdom. If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna. That is what it means, and that’s how you should remember it.”
+25“Mahākaccāna is astute, bhikkhus, he has great wisdom. If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna. That is what it means, and that’s how you should remember it.”
 
 
-26That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+26That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

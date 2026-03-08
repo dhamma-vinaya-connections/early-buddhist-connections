@@ -22,7 +22,7 @@ Then, arranging his robe over one shoulder and placing his hands palm-to-palm ov
 
 who has cut off uncertainty in the here-&-now:
 
-A monk has died at the Aggāḷava shrine—
+A bhikkhu has died at the Aggāḷava shrine—
 
 well-known, prestigious, with mind fully unbound.
 
@@ -180,7 +180,7 @@ vv. 343–358
 
 ### Notes
 
-1. Cited in AN 1:148 (1:212) as foremost among the monks in having extemporaneous inspiration. His verses are collected in SN 8 and in Thag 21. He appears in Sn both here and at [[/snp3.3-thanissaro]]. [↩︎](#^snp2-12-01-ref) ^snp2-12-01
+1. Cited in AN 1:148 (1:212) as foremost among the bhikkhus in having extemporaneous inspiration. His verses are collected in SN 8 and in Thag 21. He appears in Sn both here and at [[/snp3.3-thanissaro]]. [↩︎](#^snp2-12-01-ref) ^snp2-12-01
 
 2. From Vedic times it was customary to believe that divine beings had total vision of reality because they could see with all parts of their bodies—thus they were “all-around eyes.” At the same time, there was a belief that it was auspicious to gaze into a divine being’s eye, which meant that worshippers were content to see any part of the divine being’s body. Both of these beliefs carried over into Buddhist devotional practice. For more on this point, see [[dn16-thanissaro]], note 44. See also, Jan Gonda, _Eye and Gaze in the Veda._ [↩︎](#^snp2-12-02-ref) ^snp2-12-02
 

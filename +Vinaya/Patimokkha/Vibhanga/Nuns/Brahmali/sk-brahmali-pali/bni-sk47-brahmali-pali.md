@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six ate shaking their hands. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six ate shaking their hands. …
 
 #### Final ruling
 
 2“‘I will not eat shaking my hand,’ this is how you should train.”
 
-3One should not eat shaking one’s hand. If a monk, out of disrespect, eats shaking his hand, he commits an offense of wrong conduct.
+3One should not eat shaking one’s hand. If a bhikkhu, out of disrespect, eats shaking his hand, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

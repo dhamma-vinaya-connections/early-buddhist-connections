@@ -15,7 +15,7 @@ language: "English"
 ## ## Samādhi Sutta
 
 
-“Monks, these four types of individuals are to be found existing in world. Which four?
+“bhikkhus, these four types of individuals are to be found existing in world. Which four?
 
 “There is the case of the individual who has attained internal tranquility of awareness, but not insight into phenomena through heightened discernment. Then there is the case of the individual who has attained insight into phenomena through heightened discernment, but not internal tranquility of awareness. Then there is the case of the individual who has attained neither internal tranquility of awareness nor insight into phenomena through heightened discernment. And then there is the case of the individual who has attained both internal tranquility of awareness & insight into phenomena through heightened discernment.
 

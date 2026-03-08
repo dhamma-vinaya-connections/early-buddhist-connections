@@ -48,7 +48,7 @@ That one, indeed, the peaceful sage declares to be an ideal wayfarer.
 
 Idamavoca bhagavā; idaṃ vatvāna sugato uṭṭhāyāsanā vihāraṃ pāvisi. Atha kho tesaṃ bhikkhūnaṃ, acirapakkantassa bhagavato, etadahosi – ‘‘idaṃ kho no, āvuso, bhagavā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho –
 
-The Blessed One said this. Having said this, the Well-Gone One rose from his seat and entered his dwelling. Then, not long after the Blessed One had left, those monks considered: "Friends, the Blessed One stated this summary teaching, and without analyzing the meaning in detail, rose from his seat and entered his dwelling.
+The Blessed One said this. Having said this, the Well-Gone One rose from his seat and entered his dwelling. Then, not long after the Blessed One had left, those bhikkhus considered: "Friends, the Blessed One stated this summary teaching, and without analyzing the meaning in detail, rose from his seat and entered his dwelling.
 
 ‘‘Atītaṃ nānvāgameyya, nappaṭikaṅkhe anāgataṃ;Yadatītaṃ pahīnaṃ taṃ, appattañca anāgataṃ.
 
@@ -72,11 +72,11 @@ That one, indeed, the peaceful sage declares to be an ideal wayfarer.
 
 Atha kho tesaṃ bhikkhūnaṃ etadahosi – ‘‘ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabrahmacārīnaṃ; pahoti cāyasmā mahākaccāno imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ. Yaṃnūna mayaṃ yenāyasmā mahākaccāno tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṃ mahākaccānaṃ etamatthaṃ paṭipuccheyyāmā’’ti.
 
-Then those monks thought: “This Venerable Mahākaccāna is both praised and esteemed by the Teacher and by his wise fellow practitioners. And Venerable Mahākaccāna is capable of explaining in detail the meaning of this brief statement, stated by the Blessed One, which has not been analyzed in detail. Why don't we go to Venerable Mahākaccāna and ask him about this matter?”
+Then those bhikkhus thought: “This Venerable Mahākaccāna is both praised and esteemed by the Teacher and by his wise fellow practitioners. And Venerable Mahākaccāna is capable of explaining in detail the meaning of this brief statement, stated by the Blessed One, which has not been analyzed in detail. Why don't we go to Venerable Mahākaccāna and ask him about this matter?”
 
 281. Atha kho te bhikkhū yenāyasmā mahākaccāno tenupasaṅkamiṃsu; upasaṅkamitvā āyasmatā mahākaccānena saddhiṃ sammodiṃsu. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū āyasmantaṃ mahākaccānaṃ etadavocuṃ – ‘‘idaṃ kho no, āvuso kaccāna, bhagavā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho –
 
-281.Then those monks approached Venerable Mahākaccāna; having approached, they exchanged courteous greetings with Venerable Mahākaccāna. After exchanging friendly and polite conversation, they sat down to one side. Seated to one side, those monks said to Venerable Mahākaccāna: "Friend Kaccāna, the Blessed One recited a brief statement, without analyzing the meaning in detail, and then rose from his seat and entered his dwelling.
+281.Then those bhikkhus approached Venerable Mahākaccāna; having approached, they exchanged courteous greetings with Venerable Mahākaccāna. After exchanging friendly and polite conversation, they sat down to one side. Seated to one side, those bhikkhus said to Venerable Mahākaccāna: "Friend Kaccāna, the Blessed One recited a brief statement, without analyzing the meaning in detail, and then rose from his seat and entered his dwelling.
 
 ‘‘Atītaṃ nānvāgameyya…pe…Taṃ ve bhaddekarattoti, santo ācikkhate munī’’ti.
 
@@ -104,7 +104,7 @@ Then those monks thought: “This Venerable Mahākaccāna is both praised and es
 
 ‘‘Tena hāvuso, suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evamāvuso’’ti kho te bhikkhū āyasmato mahākaccānassa paccassosuṃ. Āyasmā mahākaccāno etadavoca –
 
-“Then, friends, listen and apply your mind well. I will speak.” “Yes, friends,” those monks responded to the Venerable Mahākaccāna. The Venerable Mahākaccāna said this:
+“Then, friends, listen and apply your mind well. I will speak.” “Yes, friends,” those bhikkhus responded to the Venerable Mahākaccāna. The Venerable Mahākaccāna said this:
 
 ‘‘Yaṃ kho no, āvuso, bhagavā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho –
 
@@ -156,7 +156,7 @@ Imassa kho ahaṃ, āvuso, bhagavatā saṃkhittena uddesassa uddiṭṭhassa vi
 
 Atha kho te bhikkhū āyasmato mahākaccānassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ – ‘‘yaṃ kho no, bhante, bhagavā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho –
 
-Then those monks, having delighted in and approved of the Venerable Mahākaccāna’s words, rose from their seats and went to the Blessed One. Having approached, they paid homage to the Blessed One and sat down to one side. Sitting to one side, those monks said to the Blessed One: “Venerable sir, the Blessed One, having stated a brief statement without expounding the meaning in detail, rose from his seat and entered his dwelling—
+Then those bhikkhus, having delighted in and approved of the Venerable Mahākaccāna’s words, rose from their seats and went to the Blessed One. Having approached, they paid homage to the Blessed One and sat down to one side. Sitting to one side, those bhikkhus said to the Blessed One: “Venerable sir, the Blessed One, having stated a brief statement without expounding the meaning in detail, rose from his seat and entered his dwelling—
 
 ‘‘Atītaṃ nānvāgameyya…pe…Taṃ ve bhaddekarattoti, santo ācikkhate munī’’ti.
 

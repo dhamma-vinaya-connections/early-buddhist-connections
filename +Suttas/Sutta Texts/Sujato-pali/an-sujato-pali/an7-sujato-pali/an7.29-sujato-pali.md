@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“These seven things lead to the decline of a lay follower. What seven? They stop seeing the mendicants. They neglect listening to the true teaching. They don’t train in higher ethical conduct. They’re very suspicious about mendicants, whether senior, junior, or middle. They listen to the teaching with a hostile, fault-finding mind. They seek outside of the Buddhist community for those worthy of religious donations. And they serve them first. These seven things lead to the decline of a lay follower.
+1“These seven things lead to the decline of a lay follower. What seven? They stop seeing the bhikkhus. They neglect listening to the true teaching. They don’t train in higher ethical conduct. They’re very suspicious about bhikkhus, whether senior, junior, or middle. They listen to the teaching with a hostile, fault-finding mind. They seek outside of the Buddhist community for those worthy of religious donations. And they serve them first. These seven things lead to the decline of a lay follower.
 
-2These seven things don’t lead to the decline of a lay follower. What seven? They don’t stop seeing the mendicants. They don’t neglect listening to the true teaching. They train in higher ethical conduct. They’re very confident about mendicants, whether senior, junior, or middle. They don’t listen to the teaching with a hostile, fault-finding mind. They don’t seek outside of the Buddhist community for those worthy of religious donations. And they serve the Buddhist community first. These seven things don’t lead to the decline of a lay follower.”
+2These seven things don’t lead to the decline of a lay follower. What seven? They don’t stop seeing the bhikkhus. They don’t neglect listening to the true teaching. They train in higher ethical conduct. They’re very confident about bhikkhus, whether senior, junior, or middle. They don’t listen to the teaching with a hostile, fault-finding mind. They don’t seek outside of the Buddhist community for those worthy of religious donations. And they serve the Buddhist community first. These seven things don’t lead to the decline of a lay follower.”
 
 That is what the Buddha said. Then the Holy One, the Teacher, went on to say:
 
@@ -32,7 +32,7 @@ those who have developed themselves
 and listening to the teaching of the noble ones.  
 They don’t train in higher ethical conduct,
 
-4and their suspicion about mendicants  
+4and their suspicion about bhikkhus  
 just grows and grows.  
 They want to listen to the true teaching  
 with a fault-finding mind.
@@ -52,7 +52,7 @@ those who have developed themselves
 and listening to the teaching of the noble ones.  
 They train in higher ethical conduct,
 
-8and their confidence in mendicants  
+8and their confidence in bhikkhus  
 just grows and grows.  
 They want to listen to the true teaching  
 without a fault-finding mind.

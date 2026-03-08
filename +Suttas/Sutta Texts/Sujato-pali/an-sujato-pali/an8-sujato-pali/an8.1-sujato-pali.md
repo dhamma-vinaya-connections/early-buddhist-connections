@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Mendicants, you can expect eight benefits when the heart’s release by love has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented. What eight? You sleep well. You wake happily. You don’t see bad dreams. Humans love you. Non-humans love you. Deities protect you. You can’t be harmed by fire, poison, or blade. If you don’t reach any higher, you’ll be reborn in a Brahmā realm. You can expect these eight benefits when the heart’s release by love has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented.
+2“bhikkhus, you can expect eight benefits when the heart’s release by love has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented. What eight? You sleep well. You wake happily. You don’t see bad dreams. Humans love you. Non-humans love you. Deities protect you. You can’t be harmed by fire, poison, or blade. If you don’t reach any higher, you’ll be reborn in a Brahmā realm. You can expect these eight benefits when the heart’s release by love has been cultivated, developed, and practiced, made a vehicle and a basis, kept up, consolidated, and properly implemented.
 
 
 3A mindful one who develops  

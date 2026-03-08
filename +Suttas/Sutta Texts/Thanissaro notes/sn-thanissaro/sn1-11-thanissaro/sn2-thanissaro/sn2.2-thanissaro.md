@@ -17,7 +17,7 @@ language: "English"
 
 Near Sāvatthi in the monastery… Standing to one side, Kassapa the deva’s son recited this verse in the Blessed One’s presence:
 
-“A monk should have jhāna,
+“A bhikkhu should have jhāna,
 
 be released in mind,
 

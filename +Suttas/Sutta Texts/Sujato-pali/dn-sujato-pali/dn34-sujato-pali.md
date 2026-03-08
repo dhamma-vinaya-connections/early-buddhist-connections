@@ -17,7 +17,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Campā on the banks of the Gaggarā Lotus Pond together with a large Saṅgha of five hundred mendicants. There Sāriputta addressed the mendicants: “Reverends, mendicants!”
+1So I have heard. At one time the Buddha was staying near Campā on the banks of the Gaggarā Lotus Pond together with a large Saṅgha of five hundred bhikkhus. There Sāriputta addressed the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Sāriputta said this:
 
@@ -116,7 +116,7 @@ the release from all ties.
 40What four things are helpful? Four situations: living in a suitable region, relying on good people, being rightly resolved in oneself, and past merit.
 
 
-41What four things should be developed? The four kinds of mindfulness meditation. A mendicant meditates by observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world.
+41What four things should be developed? The four kinds of mindfulness meditation. A bhikkhu ![[Satipatthanas]]. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world.
 
 42What four things should be completely understood? Four foods: solid food, whether coarse or fine; contact is the second, mental intention the third, and consciousness the fourth.
 
@@ -140,7 +140,7 @@ the release from all ties.
 
 51Five things are helpful, etc.
 
-52What five things are helpful? Five factors that support meditation. A mendicant has faith in the Realized One’s awakening: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ They are rarely ill or unwell. Their stomach digests well, being neither too hot nor too cold, but just right, and fit for meditation. They’re not devious or deceitful. They reveal themselves honestly to the Teacher or sensible spiritual companions. They live with energy roused up for giving up unskillful qualities and embracing skillful qualities. They’re strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. They’re wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering.
+52What five things are helpful? Five factors that support meditation. A bhikkhu has faith in the Realized One’s awakening: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ They are rarely ill or unwell. Their stomach digests well, being neither too hot nor too cold, but just right, and fit for meditation. They’re not devious or deceitful. They reveal themselves honestly to the Teacher or sensible spiritual companions. They live with energy roused up for giving up unskillful qualities and embracing skillful qualities. They’re strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. They’re wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering.
 
 
 53What five things should be developed? Right immersion with five factors: pervaded with rapture, pervaded with pleasure, pervaded with mind, pervaded with light, and the foundation for reviewing.
@@ -150,20 +150,20 @@ the release from all ties.
 55What five things should be given up? Five hindrances: sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt.
 
 
-56What five things make things worse? Five kinds of emotional barrenness. Firstly, a mendicant has doubts about the Teacher. They’re uncertain, undecided, and lacking confidence. This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the first kind of emotional barrenness. Furthermore, a mendicant has doubts about the teaching … the Saṅgha … the training … A mendicant is angry and upset with their spiritual companions, resentful and closed off. This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the fifth kind of emotional barrenness.
+56What five things make things worse? Five kinds of emotional barrenness. Firstly, a bhikkhu has doubts about the Teacher. They’re uncertain, undecided, and lacking confidence. This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the first kind of emotional barrenness. Furthermore, a bhikkhu has doubts about the teaching … the Saṅgha … the training … A bhikkhu is angry and upset with their spiritual companions, resentful and closed off. This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the fifth kind of emotional barrenness.
 
 57What five things lead to distinction? Five faculties: faith, energy, mindfulness, immersion, and wisdom.
 
 
-58What five things are hard to comprehend? Five elements of escape. A mendicant focuses on sensual pleasures, but their mind isn’t eager, confident, settled, and decided about them. But when they focus on renunciation, their mind is eager, confident, settled, and decided about it. Their mind is in a good state, well developed, well risen, well freed, and well detached from sensual pleasures. They’re freed from the distressing and feverish defilements that arise because of sensual pleasures, so they don’t experience that kind of feeling. This is how the escape from sensual pleasures is explained.
+58What five things are hard to comprehend? Five elements of escape. A bhikkhu focuses on sensual pleasures, but their mind isn’t eager, confident, settled, and decided about them. But when they focus on renunciation, their mind is eager, confident, settled, and decided about it. Their mind is in a good state, well developed, well risen, well freed, and well detached from sensual pleasures. They’re freed from the distressing and feverish defilements that arise because of sensual pleasures, so they don’t experience that kind of feeling. This is how the escape from sensual pleasures is explained.
 
-59Take another case where a mendicant focuses on ill will, but their mind isn’t eager … But when they focus on good will, their mind is eager … Their mind is in a good state … well detached from ill will. They’re freed from the distressing and feverish defilements that arise because of ill will, so they don’t experience that kind of feeling. This is how the escape from ill will is explained.
+59Take another case where a bhikkhu focuses on ill will, but their mind isn’t eager … But when they focus on good will, their mind is eager … Their mind is in a good state … well detached from ill will. They’re freed from the distressing and feverish defilements that arise because of ill will, so they don’t experience that kind of feeling. This is how the escape from ill will is explained.
 
-60Take another case where a mendicant focuses on harming, but their mind isn’t eager … But when they focus on compassion, their mind is eager … Their mind is in a good state … well detached from harming. They’re freed from the distressing and feverish defilements that arise because of harming, so they don’t experience that kind of feeling. This is how the escape from harming is explained.
+60Take another case where a bhikkhu focuses on harming, but their mind isn’t eager … But when they focus on compassion, their mind is eager … Their mind is in a good state … well detached from harming. They’re freed from the distressing and feverish defilements that arise because of harming, so they don’t experience that kind of feeling. This is how the escape from harming is explained.
 
-61Take another case where a mendicant focuses on form, but their mind isn’t eager … But when they focus on the formless, their mind is eager … Their mind is in a good state … well detached from forms. They’re freed from the distressing and feverish defilements that arise because of form, so they don’t experience that kind of feeling. This is how the escape from forms is explained.
+61Take another case where a bhikkhu focuses on form, but their mind isn’t eager … But when they focus on the formless, their mind is eager … Their mind is in a good state … well detached from forms. They’re freed from the distressing and feverish defilements that arise because of form, so they don’t experience that kind of feeling. This is how the escape from forms is explained.
 
-62Take a case where a mendicant focuses on identity, but their mind isn’t eager, confident, settled, and decided about it. But when they focus on the ending of identity, their mind is eager, confident, settled, and decided about it. Their mind is in a good state, well developed, well risen, well freed, and well detached from identity. They’re freed from the distressing and feverish defilements that arise because of identity, so they don’t experience that kind of feeling. This is how the escape from identity is explained.
+62Take a case where a bhikkhu focuses on identity, but their mind isn’t eager, confident, settled, and decided about it. But when they focus on the ending of identity, their mind is eager, confident, settled, and decided about it. Their mind is in a good state, well developed, well risen, well freed, and well detached from identity. They’re freed from the distressing and feverish defilements that arise because of identity, so they don’t experience that kind of feeling. This is how the escape from identity is explained.
 
 
 63What five things should be produced? Right immersion with five knowledges. The following knowledges arise for you personally:
@@ -179,15 +179,15 @@ the release from all ties.
 
 ‘I mindfully enter into and emerge from this immersion.’
 
-64What five things should be directly known? Five opportunities for freedom. Firstly, the Teacher or a respected spiritual companion teaches Dhamma to a mendicant. That mendicant feels inspired by the meaning and the teaching in that Dhamma, no matter how the Teacher or a respected spiritual companion teaches it. Feeling inspired, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. This is the first opportunity for freedom.
+64What five things should be directly known? Five opportunities for freedom. Firstly, the Teacher or a respected spiritual companion teaches Dhamma to a bhikkhu. That bhikkhu feels inspired by the meaning and the teaching in that Dhamma, no matter how the Teacher or a respected spiritual companion teaches it. Feeling inspired, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. This is the first opportunity for freedom.
 
-65Furthermore, it may be that neither the Teacher nor a respected spiritual companion teaches Dhamma to a mendicant. But the mendicant teaches Dhamma in detail to others as they learned and memorized it. That mendicant feels inspired by the meaning and the teaching in that Dhamma, no matter how they teach it in detail to others as they learned and memorized it. Feeling inspired, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. This is the second opportunity for freedom.
+65Furthermore, it may be that neither the Teacher nor a respected spiritual companion teaches Dhamma to a bhikkhu. But the bhikkhu teaches Dhamma in detail to others as they learned and memorized it. That bhikkhu feels inspired by the meaning and the teaching in that Dhamma, no matter how they teach it in detail to others as they learned and memorized it. Feeling inspired, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. This is the second opportunity for freedom.
 
-66Furthermore, it may be that neither the Teacher nor … the mendicant teaches Dhamma. But the mendicant recites the teaching in detail as they learned and memorized it. That mendicant feels inspired by the meaning and the teaching in that Dhamma, no matter how they recite it in detail as they learned and memorized it. Feeling inspired, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. This is the third opportunity for freedom.
+66Furthermore, it may be that neither the Teacher nor … the bhikkhu teaches Dhamma. But the bhikkhu recites the teaching in detail as they learned and memorized it. That bhikkhu feels inspired by the meaning and the teaching in that Dhamma, no matter how they recite it in detail as they learned and memorized it. Feeling inspired, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. This is the third opportunity for freedom.
 
-67Furthermore, it may be that neither the Teacher nor … the mendicant teaches Dhamma … nor does the mendicant recite the teaching. But the mendicant thinks about and considers the teaching in their heart, examining it with the mind as they learned and memorized it. That mendicant feels inspired by the meaning and the teaching in that Dhamma, no matter how they think about and consider it in their heart, examining it with the mind as they learned and memorized it. Feeling inspired, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. This is the fourth opportunity for freedom.
+67Furthermore, it may be that neither the Teacher nor … the bhikkhu teaches Dhamma … nor does the bhikkhu recite the teaching. But the bhikkhu thinks about and considers the teaching in their heart, examining it with the mind as they learned and memorized it. That bhikkhu feels inspired by the meaning and the teaching in that Dhamma, no matter how they think about and consider it in their heart, examining it with the mind as they learned and memorized it. Feeling inspired, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. This is the fourth opportunity for freedom.
 
-68Furthermore, it may be that neither the Teacher nor … the mendicant teaches Dhamma … nor does the mendicant recite the teaching … or think about it. But a meditation subject as a foundation of immersion is properly grasped, attended, borne in mind, and comprehended with wisdom. That mendicant feels inspired by the meaning and the teaching in that Dhamma, no matter how a meditation subject as a foundation of immersion is properly grasped, attended, borne in mind, and comprehended with wisdom. Feeling inspired, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. This is the fifth opportunity for freedom.
+68Furthermore, it may be that neither the Teacher nor … the bhikkhu teaches Dhamma … nor does the bhikkhu recite the teaching … or think about it. But a meditation subject as a foundation of immersion is properly grasped, attended, borne in mind, and comprehended with wisdom. That bhikkhu feels inspired by the meaning and the teaching in that Dhamma, no matter how a meditation subject as a foundation of immersion is properly grasped, attended, borne in mind, and comprehended with wisdom. Feeling inspired, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, one feels bliss. And when blissful, the mind becomes immersed. This is the fifth opportunity for freedom.
 
 69What five things should be realized? Five spectrums of the teaching: ethics, immersion, wisdom, freedom, and knowledge and vision of freedom.
 
@@ -197,18 +197,18 @@ the release from all ties.
 
 71Six things are helpful, etc.
 
-72What six things are helpful? Six warm-hearted qualities. Firstly, a mendicant consistently treats their spiritual companions with bodily kindness, both in public and in private. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
+72What six things are helpful? Six warm-hearted qualities. Firstly, a bhikkhu consistently treats their spiritual companions with bodily kindness, both in public and in private. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
 
 
-73Furthermore, a mendicant consistently treats their spiritual companions with verbal kindness.
+73Furthermore, a bhikkhu consistently treats their spiritual companions with verbal kindness.
 
-74Furthermore, a mendicant consistently treats their spiritual companions with mental kindness.
+74Furthermore, a bhikkhu consistently treats their spiritual companions with mental kindness.
 
-75Furthermore, a mendicant shares without reservation any material possessions they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions.
+75Furthermore, a bhikkhu shares without reservation any material possessions they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions.
 
-76Furthermore, a mendicant lives according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion.
+76Furthermore, a bhikkhu lives according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion.
 
-77Furthermore, a mendicant lives according to the view shared with their spiritual companions, both in public and in private. That view is noble and emancipating, and leads one who practices it to the complete ending of suffering. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
+77Furthermore, a bhikkhu lives according to the view shared with their spiritual companions, both in public and in private. That view is noble and emancipating, and leads one who practices it to the complete ending of suffering. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
 
 78What six things should be developed? Six recollections: the recollection of the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities.
 
@@ -216,27 +216,27 @@ the release from all ties.
 
 80What six things should be given up? Six classes of craving: craving for sights, sounds, smells, tastes, touches, and thoughts.
 
-81What six things make things worse? Six kinds of disrespect. A mendicant lacks respect and reverence for the Teacher, the teaching, and the Saṅgha, the training, diligence, and hospitality.
+81What six things make things worse? Six kinds of disrespect. A bhikkhu lacks respect and reverence for the Teacher, the teaching, and the Saṅgha, the training, diligence, and hospitality.
 
-82What six things lead to distinction? Six kinds of respect. A mendicant has respect and reverence for the Teacher, the teaching, and the Saṅgha, the training, diligence, and hospitality.
+82What six things lead to distinction? Six kinds of respect. A bhikkhu has respect and reverence for the Teacher, the teaching, and the Saṅgha, the training, diligence, and hospitality.
 
-83What six things are hard to comprehend? Six elements of escape. Take a mendicant who says: ‘I’ve developed the heart’s release by love. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. Yet somehow ill will still occupies my mind.’ They should be told, ‘Not so, venerable! Don’t say that. Don’t misrepresent the Buddha, for misrepresentation of the Buddha is not good. And the Buddha would not say that. It’s impossible, reverend, it cannot happen that the heart’s release by love has been developed and properly implemented, yet somehow ill will still occupies the mind. For it is the heart’s release by love that is the escape from ill will.’
+83What six things are hard to comprehend? Six elements of escape. Take a bhikkhu who says: ‘I’ve developed the heart’s release by love. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. Yet somehow ill will still occupies my mind.’ They should be told, ‘Not so, venerable! Don’t say that. Don’t misrepresent the Buddha, for misrepresentation of the Buddha is not good. And the Buddha would not say that. It’s impossible, reverend, it cannot happen that the heart’s release by love has been developed and properly implemented, yet somehow ill will still occupies the mind. For it is the heart’s release by love that is the escape from ill will.’
 
-84Take another mendicant who says: ‘I’ve developed the heart’s release by compassion. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. Yet somehow the thought of harming still occupies my mind.’ They should be told, ‘Not so, venerable! … For it is the heart’s release by compassion that is the escape from thoughts of harming.’
+84Take another bhikkhu who says: ‘I’ve developed the heart’s release by compassion. I’ve cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it. Yet somehow the thought of harming still occupies my mind.’ They should be told, ‘Not so, venerable! … For it is the heart’s release by compassion that is the escape from thoughts of harming.’
 
-85Take another mendicant who says: ‘I’ve developed the heart’s release by rejoicing. … Yet somehow negativity still occupies my mind.’ They should be told, ‘Not so, venerable! … For it is the heart’s release by rejoicing that is the escape from negativity.’
+85Take another bhikkhu who says: ‘I’ve developed the heart’s release by rejoicing. … Yet somehow negativity still occupies my mind.’ They should be told, ‘Not so, venerable! … For it is the heart’s release by rejoicing that is the escape from negativity.’
 
-86Take another mendicant who says: ‘I’ve developed the heart’s release by equanimity. … Yet somehow desire still occupies my mind.’ They should be told, ‘Not so, venerable! … For it is the heart’s release by equanimity that is the escape from desire.’
+86Take another bhikkhu who says: ‘I’ve developed the heart’s release by equanimity. … Yet somehow desire still occupies my mind.’ They should be told, ‘Not so, venerable! … For it is the heart’s release by equanimity that is the escape from desire.’
 
-87Take another mendicant who says: ‘I’ve developed the signless heart’s release. … Yet somehow my consciousness still follows after signs.’ They should be told, ‘Not so, venerable! … For it is the signless release of the heart that is the escape from all signs.’
+87Take another bhikkhu who says: ‘I’ve developed the signless heart’s release. … Yet somehow my consciousness still follows after signs.’ They should be told, ‘Not so, venerable! … For it is the signless release of the heart that is the escape from all signs.’
 
-88Take another mendicant who says: ‘I’m rid of the conceit “I am”. And I don’t regard anything as “I am this”. Yet somehow the dart of doubt and indecision still occupies my mind.’ They should be told, ‘Not so, venerable! Don’t say that. Don’t misrepresent the Buddha, for misrepresentation of the Buddha is not good. And the Buddha would not say that. It’s impossible, reverend, it cannot happen that the conceit “I am” has been done away with, and nothing is regarded as “I am this”, yet somehow the dart of doubt and indecision still occupy the mind. For it is the uprooting of the conceit “I am” that is the escape from the dart of doubt and indecision.’
+88Take another bhikkhu who says: ‘I’m rid of the conceit “I am”. And I don’t regard anything as “I am this”. Yet somehow the dart of doubt and indecision still occupies my mind.’ They should be told, ‘Not so, venerable! Don’t say that. Don’t misrepresent the Buddha, for misrepresentation of the Buddha is not good. And the Buddha would not say that. It’s impossible, reverend, it cannot happen that the conceit “I am” has been done away with, and nothing is regarded as “I am this”, yet somehow the dart of doubt and indecision still occupy the mind. For it is the uprooting of the conceit “I am” that is the escape from the dart of doubt and indecision.’
 
-89What six things should be produced? Six consistent responses. A mendicant, seeing a sight with their eyes, is neither happy nor sad. They remain equanimous, mindful and aware. Hearing a sound with their ears … Smelling an odor with their nose … Tasting a flavor with their tongue … Feeling a touch with their body … Knowing a thought with their mind, they’re neither happy nor sad. They remain equanimous, mindful and aware.
+89What six things should be produced? Six consistent responses. A bhikkhu, seeing a sight with their eyes, is neither happy nor sad. They remain equanimous, mindful and aware. Hearing a sound with their ears … Smelling an odor with their nose … Tasting a flavor with their tongue … Feeling a touch with their body … Knowing a thought with their mind, they’re neither happy nor sad. They remain equanimous, mindful and aware.
 
 90What six things should be directly known? Six unsurpassable things: the unsurpassable seeing, listening, acquisition, training, service, and recollection.
 
-91What six things should be realized? Six direct knowledges. A mendicant wields the many kinds of psychic power:
+91What six things should be realized? Six direct knowledges. A bhikkhu wields the many kinds of psychic power:
 
 multiplying themselves and becoming one again; appearing and disappearing; going unimpeded through a wall, a rampart, or a mountain as if through space; diving in and out of the earth as if it were water; walking on water as if it were earth; flying cross-legged through the sky like a bird; touching and stroking with the hand the sun and moon, so mighty and powerful; controlling the body as far as the Brahmā realm.
 
@@ -281,32 +281,32 @@ multiplying themselves and becoming one again; appearing and disappearing; going
 108What seven things should be given up? Seven underlying tendencies: sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance.
 
 
-109What seven things make things worse? Seven bad qualities: a mendicant is faithless, shameless, imprudent, uneducated, lazy, unmindful, and witless.
+109What seven things make things worse? Seven bad qualities: a bhikkhu is faithless, shameless, imprudent, uneducated, lazy, unmindful, and witless.
 
-110What seven things lead to distinction? Seven good qualities: a mendicant is faithful, conscientious, prudent, learned, energetic, mindful, and wise.
+110What seven things lead to distinction? Seven good qualities: a bhikkhu is faithful, conscientious, prudent, learned, energetic, mindful, and wise.
 
 
-111What seven things are hard to comprehend? Seven aspects of the teachings of the good persons: a mendicant knows the teachings, knows the meaning, knows themselves, knows moderation, knows the right time, knows assemblies, and knows people.
+111What seven things are hard to comprehend? Seven aspects of the teachings of the good persons: a bhikkhu knows the teachings, knows the meaning, knows themselves, knows moderation, knows the right time, knows assemblies, and knows people.
 
 112What seven things should be produced? Seven perceptions: the perception of impermanence, the perception of not-self, the perception of ugliness, the perception of drawbacks, the perception of giving up, the perception of fading away, and the perception of cessation.
 
-113What seven things should be directly known? Seven qualifications for graduation. A mendicant has a keen enthusiasm to undertake the training … to examine the teachings … to get rid of desires … for retreat … to rouse up energy … for mindfulness and alertness … to penetrate theoretically. And they don’t lose these desires in the future.
+113What seven things should be directly known? Seven qualifications for graduation. A bhikkhu has a keen enthusiasm to undertake the training … to examine the teachings … to get rid of desires … for retreat … to rouse up energy … for mindfulness and alertness … to penetrate theoretically. And they don’t lose these desires in the future.
 
 
-114What seven things should be realized? Seven powers of one who has ended the defilements. Firstly, a mendicant with defilements ended has clearly seen with right wisdom all conditions as truly impermanent. This is a power that a mendicant who has ended the defilements relies on to claim: ‘My defilements have ended.’
+114What seven things should be realized? Seven powers of one who has ended the defilements. Firstly, a bhikkhu with defilements ended has clearly seen with right wisdom all conditions as truly impermanent. This is a power that a bhikkhu who has ended the defilements relies on to claim: ‘My defilements have ended.’
 
-115Furthermore, a mendicant with defilements ended has clearly seen with right wisdom that sensual pleasures are truly like a pit of glowing coals. …
+115Furthermore, a bhikkhu with defilements ended has clearly seen with right wisdom that sensual pleasures are truly like a pit of glowing coals. …
 
-116Furthermore, the mind of a mendicant with defilements ended slants, slopes, and inclines to seclusion. They’re withdrawn, loving renunciation, and they’ve totally done with defiling influences. …
+116Furthermore, the mind of a bhikkhu with defilements ended slants, slopes, and inclines to seclusion. They’re withdrawn, loving renunciation, and they’ve totally done with defiling influences. …
 
-117Furthermore, a mendicant with defilements ended has well developed the four kinds of mindfulness meditation. …
+117Furthermore, a bhikkhu with defilements ended has well developed the four kinds of mindfulness meditation. …
 
-118Furthermore, a mendicant with defilements ended has well developed the five faculties. …
+118Furthermore, a bhikkhu with defilements ended has well developed the five faculties. …
 
-119Furthermore, a mendicant with defilements ended has well developed the seven awakening factors. …
+119Furthermore, a bhikkhu with defilements ended has well developed the seven awakening factors. …
 
 
-120Furthermore, a mendicant with defilements ended has well developed the noble eightfold path. … This is a power that a mendicant who has ended the defilements relies on to claim: ‘My defilements have ended.’
+120Furthermore, a bhikkhu with defilements ended has well developed the noble eightfold path. … This is a power that a bhikkhu who has ended the defilements relies on to claim: ‘My defilements have ended.’
 
 
 121So these seventy things that are true, real, and accurate, not unreal, not otherwise were rightly awakened to by the Realized One.
@@ -317,22 +317,22 @@ The first recitation section is finished.
 
 122Eight things are helpful, etc.
 
-123What eight things are helpful? There are eight causes and reasons that lead to acquiring the wisdom fundamental to the spiritual life, and to its increase, growth, development, and fulfillment once it has been acquired. What eight? It’s when a mendicant lives relying on the Teacher or a spiritual companion in a teacher’s role. And they set up a keen sense of conscience and prudence for them, with warmth and respect. This is the first cause.
+123What eight things are helpful? There are eight causes and reasons that lead to acquiring the wisdom fundamental to the spiritual life, and to its increase, growth, development, and fulfillment once it has been acquired. What eight? It’s when a bhikkhu lives relying on the Teacher or a spiritual companion in a teacher’s role. And they set up a keen sense of conscience and prudence for them, with warmth and respect. This is the first cause.
 
-124When a mendicant lives relying on the Teacher or a spiritual companion in a teacher’s role — with a keen sense of conscience and prudence for them, with warmth and respect — from time to time they go and ask them questions: ‘Why, sir, does it say this? What does that mean?’ Those venerables clarify what is unclear, reveal what is obscure, and dispel doubt regarding the many doubtful matters. This is the second cause.
+124When a bhikkhu lives relying on the Teacher or a spiritual companion in a teacher’s role — with a keen sense of conscience and prudence for them, with warmth and respect — from time to time they go and ask them questions: ‘Why, sir, does it say this? What does that mean?’ Those venerables clarify what is unclear, reveal what is obscure, and dispel doubt regarding the many doubtful matters. This is the second cause.
 
 125After hearing that teaching they perfect withdrawal of both body and mind. This is the third cause.
 
-126Furthermore, a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is the fourth cause.
+126Furthermore, a bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is the fourth cause.
 
-127Furthermore, a mendicant is very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically. This is the fifth cause.
+127Furthermore, a bhikkhu is very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically. This is the fifth cause.
 
-128Furthermore, a mendicant lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. This is the sixth cause.
+128Furthermore, a bhikkhu lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They are strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. This is the sixth cause.
 
-129Furthermore, a mendicant is mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago. This is the seventh cause.
+129Furthermore, a bhikkhu is mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago. This is the seventh cause.
 
 
-130Furthermore, a mendicant meditates observing rise and fall in the five grasping aggregates. ‘Such is form, such is the origin of form, such is the ending of form. Such is feeling, such is the origin of feeling, such is the ending of feeling. Such is perception, such is the origin of perception, such is the ending of perception. Such are choices, such is the origin of choices, such is the ending of choices. Such is consciousness, such is the origin of consciousness, such is the ending of consciousness.’ This is the eighth cause.
+130Furthermore, a bhikkhu meditates observing rise and fall in the five grasping aggregates. ‘Such is form, such is the origin of form, such is the ending of form. Such is feeling, such is the origin of feeling, such is the ending of feeling. Such is perception, such is the origin of perception, such is the ending of perception. Such are choices, such is the origin of choices, such is the ending of choices. Such is consciousness, such is the origin of consciousness, such is the ending of consciousness.’ This is the eighth cause.
 
 131What eight things should be developed? The noble eightfold path, that is: right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.
 
@@ -340,37 +340,37 @@ The first recitation section is finished.
 
 133What eight things should be given up? Eight wrong ways: wrong view, wrong thought, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong immersion.
 
-134What eight things make things worse? Eight grounds for laziness. Firstly, a mendicant has some work to do. They think: ‘I have some work to do. But while doing it my body will get tired. I’d better have a lie down.’ They lie down, and don’t rouse energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is the first ground for laziness.
+134What eight things make things worse? Eight grounds for laziness. Firstly, a bhikkhu has some work to do. They think: ‘I have some work to do. But while doing it my body will get tired. I’d better have a lie down.’ They lie down, and don’t rouse energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is the first ground for laziness.
 
-135Furthermore, a mendicant has done some work. They think: ‘I’ve done some work. But while working my body got tired. I’d better have a lie down.’ They lie down, and don’t rouse energy... This is the second ground for laziness.
+135Furthermore, a bhikkhu has done some work. They think: ‘I’ve done some work. But while working my body got tired. I’d better have a lie down.’ They lie down, and don’t rouse energy... This is the second ground for laziness.
 
-136Furthermore, a mendicant has to go on a journey. They think: ‘I have to go on a journey. But while walking my body will get tired. I’d better have a lie down.’ They lie down, and don’t rouse energy... This is the third ground for laziness.
+136Furthermore, a bhikkhu has to go on a journey. They think: ‘I have to go on a journey. But while walking my body will get tired. I’d better have a lie down.’ They lie down, and don’t rouse energy... This is the third ground for laziness.
 
-137Furthermore, a mendicant has gone on a journey. They think: ‘I’ve gone on a journey. But while walking my body got tired. I’d better have a lie down.’ They lie down, and don’t rouse energy... This is the fourth ground for laziness.
+137Furthermore, a bhikkhu has gone on a journey. They think: ‘I’ve gone on a journey. But while walking my body got tired. I’d better have a lie down.’ They lie down, and don’t rouse energy... This is the fourth ground for laziness.
 
-138Furthermore, a mendicant has wandered for alms, but they didn’t get to fill up on as much food as they like, coarse or fine. They think: ‘I’ve wandered for alms, but I didn’t get to fill up on as much food as I like, coarse or fine. My body is tired and unfit for work. I’d better have a lie down.’... This is the fifth ground for laziness.
+138Furthermore, a bhikkhu has wandered for alms, but they didn’t get to fill up on as much food as they like, coarse or fine. They think: ‘I’ve wandered for alms, but I didn’t get to fill up on as much food as I like, coarse or fine. My body is tired and unfit for work. I’d better have a lie down.’... This is the fifth ground for laziness.
 
-139Furthermore, a mendicant has wandered for alms, and they got to fill up on as much food as they like, coarse or fine. They think: ‘I’ve wandered for alms, and I got to fill up on as much food as I like, coarse or fine. My body is heavy, unfit for work, like I’ve just eaten a load of beans. I’d better have a lie down.’... They lie down, and don’t rouse energy... This is the sixth ground for laziness.
+139Furthermore, a bhikkhu has wandered for alms, and they got to fill up on as much food as they like, coarse or fine. They think: ‘I’ve wandered for alms, and I got to fill up on as much food as I like, coarse or fine. My body is heavy, unfit for work, like I’ve just eaten a load of beans. I’d better have a lie down.’... They lie down, and don’t rouse energy... This is the sixth ground for laziness.
 
-140Furthermore, a mendicant feels a little sick. They think: ‘I feel a little sick. Lying down would be good for me. I’d better have a lie down.’ They lie down, and don’t rouse energy... This is the seventh ground for laziness.
+140Furthermore, a bhikkhu feels a little sick. They think: ‘I feel a little sick. Lying down would be good for me. I’d better have a lie down.’ They lie down, and don’t rouse energy... This is the seventh ground for laziness.
 
-141Furthermore, a mendicant has recently recovered from illness. They think: ‘I’ve recently recovered from illness. My body is weak and unfit for work. I’d better have a lie down.’ They lie down, and don’t rouse energy... This is the eighth ground for laziness.
+141Furthermore, a bhikkhu has recently recovered from illness. They think: ‘I’ve recently recovered from illness. My body is weak and unfit for work. I’d better have a lie down.’ They lie down, and don’t rouse energy... This is the eighth ground for laziness.
 
-142What eight things lead to distinction? Eight grounds for arousing energy. Firstly, a mendicant has some work to do. They think: ‘I have some work to do. While working it’s not easy to focus on the instructions of the Buddhas. I’d better preemptively rouse up energy for attaining the unattained, achieving the unachieved, and realizing the unrealized.’ They rouse energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is the first ground for arousing energy.
+142What eight things lead to distinction? Eight grounds for arousing energy. Firstly, a bhikkhu has some work to do. They think: ‘I have some work to do. While working it’s not easy to focus on the instructions of the Buddhas. I’d better preemptively rouse up energy for attaining the unattained, achieving the unachieved, and realizing the unrealized.’ They rouse energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is the first ground for arousing energy.
 
-143Furthermore, a mendicant has done some work. They think: ‘I’ve done some work. While I was working I wasn’t able to focus on the instructions of the Buddhas. I’d better preemptively rouse up energy.’... This is the second ground for arousing energy.
+143Furthermore, a bhikkhu has done some work. They think: ‘I’ve done some work. While I was working I wasn’t able to focus on the instructions of the Buddhas. I’d better preemptively rouse up energy.’... This is the second ground for arousing energy.
 
-144Furthermore, a mendicant has to go on a journey. They think: ‘I have to go on a journey. While walking it’s not easy to focus on the instructions of the Buddhas. I’d better preemptively rouse up energy.’... This is the third ground for arousing energy.
+144Furthermore, a bhikkhu has to go on a journey. They think: ‘I have to go on a journey. While walking it’s not easy to focus on the instructions of the Buddhas. I’d better preemptively rouse up energy.’... This is the third ground for arousing energy.
 
-145Furthermore, a mendicant has gone on a journey. They think: ‘I’ve gone on a journey. While I was walking I wasn’t able to focus on the instructions of the Buddhas. I’d better preemptively rouse up energy.’... This is the fourth ground for arousing energy.
+145Furthermore, a bhikkhu has gone on a journey. They think: ‘I’ve gone on a journey. While I was walking I wasn’t able to focus on the instructions of the Buddhas. I’d better preemptively rouse up energy.’... This is the fourth ground for arousing energy.
 
-146Furthermore, a mendicant has wandered for alms, but they didn’t get to fill up on as much food as they like, coarse or fine. They think: ‘I’ve wandered for alms, but I didn’t get to fill up on as much food as I like, coarse or fine. My body is light and fit for work. I’d better preemptively rouse up energy.’... This is the fifth ground for arousing energy.
+146Furthermore, a bhikkhu has wandered for alms, but they didn’t get to fill up on as much food as they like, coarse or fine. They think: ‘I’ve wandered for alms, but I didn’t get to fill up on as much food as I like, coarse or fine. My body is light and fit for work. I’d better preemptively rouse up energy.’... This is the fifth ground for arousing energy.
 
-147Furthermore, a mendicant has wandered for alms, and they got to fill up on as much food as they like, coarse or fine. They think: ‘I’ve wandered for alms, and I got to fill up on as much food as I like, coarse or fine. My body is strong and fit for work. I’d better preemptively rouse up energy.’... This is the sixth ground for arousing energy.
+147Furthermore, a bhikkhu has wandered for alms, and they got to fill up on as much food as they like, coarse or fine. They think: ‘I’ve wandered for alms, and I got to fill up on as much food as I like, coarse or fine. My body is strong and fit for work. I’d better preemptively rouse up energy.’... This is the sixth ground for arousing energy.
 
-148Furthermore, a mendicant feels a little sick. They think: ‘I feel a little sick. It’s possible this illness will worsen. I’d better preemptively rouse up energy.’... This is the seventh ground for arousing energy.
+148Furthermore, a bhikkhu feels a little sick. They think: ‘I feel a little sick. It’s possible this illness will worsen. I’d better preemptively rouse up energy.’... This is the seventh ground for arousing energy.
 
-149Furthermore, a mendicant has recently recovered from illness. They think: ‘I’ve recently recovered from illness. It’s possible the illness will come back. I’d better preemptively rouse up energy for attaining the unattained, achieving the unachieved, and realizing the unrealized.’ They rouse energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is the eighth ground for arousing energy.
+149Furthermore, a bhikkhu has recently recovered from illness. They think: ‘I’ve recently recovered from illness. It’s possible the illness will come back. I’d better preemptively rouse up energy for attaining the unattained, achieving the unachieved, and realizing the unrealized.’ They rouse energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is the eighth ground for arousing energy.
 
 
 150What eight things are hard to comprehend? Eight lost opportunities for spiritual practice. Firstly, a Realized One has arisen in the world. He teaches the Dhamma leading to peace, extinguishment, awakening, as proclaimed by the Holy One. But a person has been reborn in hell. This is the first lost opportunity for spiritual practice.
@@ -382,7 +382,7 @@ The first recitation section is finished.
 
 153Furthermore, a Realized One has arisen in the world. But person has been reborn in one of the long-lived orders of gods. This is the fourth lost opportunity for spiritual practice.
 
-154Furthermore, a Realized One has arisen in the world. But a person has been reborn in the borderlands, among barbarian tribes, where monks, nuns, laymen, and laywomen do not go. This is the fifth lost opportunity for spiritual practice.
+154Furthermore, a Realized One has arisen in the world. But a person has been reborn in the borderlands, among barbarian tribes, where bhikkhus, nuns, laymen, and laywomen do not go. This is the fifth lost opportunity for spiritual practice.
 
 155Furthermore, a Realized One has arisen in the world. And a person is reborn in a central country. But they have wrong view and distorted perspective: ‘There’s no meaning in giving, sacrifice, or offerings. There’s no fruit or result of good and bad deeds. There’s no afterlife. There are no duties to mother and father. No beings are reborn spontaneously. And there’s no ascetic or brahmin who is well attained and practiced, and who describes the afterlife after realizing it with their own insight.’ This is the sixth lost opportunity for spiritual practice.
 
@@ -468,7 +468,7 @@ The first recitation section is finished.
 
 192What nine things should be produced? Nine perceptions: the perceptions of ugliness, death, repulsiveness in food, dissatisfaction with the whole world, impermanence, suffering in impermanence, not-self in suffering, giving up, and fading away.
 
-193What nine things should be directly known? Nine progressive meditations. A mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. Going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, they enter and remain in the dimension of infinite space. Going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, they enter and remain in the dimension of infinite consciousness. Going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, they enter and remain in the dimension of nothingness. Going totally beyond the dimension of nothingness, they enter and remain in the dimension of neither perception nor non-perception. Going totally beyond the dimension of neither perception nor non-perception, they enter and remain in the cessation of perception and feeling.
+193What nine things should be directly known? Nine progressive meditations. A bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. Going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, they enter and remain in the dimension of infinite space. Going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, they enter and remain in the dimension of infinite consciousness. Going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, they enter and remain in the dimension of nothingness. Going totally beyond the dimension of nothingness, they enter and remain in the dimension of neither perception nor non-perception. Going totally beyond the dimension of neither perception nor non-perception, they enter and remain in the cessation of perception and feeling.
 
 194What nine things should be realized? Nine progressive cessations. For someone who has attained the first jhāna, sensual perceptions have ceased. For someone who has attained the second jhāna, the placing of the mind and keeping it connected have ceased. For someone who has attained the third jhāna, rapture has ceased. For someone who has attained the fourth jhāna, breathing has ceased. For someone who has attained the dimension of infinite space, the perception of form has ceased. For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space has ceased. For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness has ceased. For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness has ceased. For someone who has attained the cessation of perception and feeling, perception and feeling have ceased.
 
@@ -479,26 +479,26 @@ The first recitation section is finished.
 196Ten things are helpful, ten things should be developed, ten things should be completely understood, ten things should be given up, ten things make things worse, ten things lead to distinction, ten things are hard to comprehend, ten things should be produced, ten things should be directly known, ten things should be realized.
 
 
-197What ten things are helpful? Ten qualities that serve as protector. First, a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is a quality that serves as protector.
+197What ten things are helpful? Ten qualities that serve as protector. First, a bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is a quality that serves as protector.
 
-198Furthermore, a mendicant is learned. This too is a quality that serves as protector.
+198Furthermore, a bhikkhu is learned. This too is a quality that serves as protector.
 
-199Furthermore, a mendicant has good friends, companions, and associates. This too is a quality that serves as protector.
+199Furthermore, a bhikkhu has good friends, companions, and associates. This too is a quality that serves as protector.
 
-200Furthermore, a mendicant is easy to admonish, having qualities that make them easy to admonish. They’re patient, and take instruction respectfully. This too is a quality that serves as protector.
+200Furthermore, a bhikkhu is easy to admonish, having qualities that make them easy to admonish. They’re patient, and take instruction respectfully. This too is a quality that serves as protector.
 
-201Furthermore, a mendicant is deft and tireless in a diverse spectrum of duties for their spiritual companions, understanding how to go about things in order to complete and organize the work. This too is a quality that serves as protector.
+201Furthermore, a bhikkhu is deft and tireless in a diverse spectrum of duties for their spiritual companions, understanding how to go about things in order to complete and organize the work. This too is a quality that serves as protector.
 
-202Furthermore, a mendicant loves the teachings and is a delight to converse with, being full of joy in the teaching and training. This too is a quality that serves as protector.
+202Furthermore, a bhikkhu loves the teachings and is a delight to converse with, being full of joy in the teaching and training. This too is a quality that serves as protector.
 
 
-203Furthermore, a mendicant is content with any kind of robes, alms-food, lodgings, and medicines and supplies for the sick. This too is a quality that serves as protector.
+203Furthermore, a bhikkhu is content with any kind of robes, alms-food, lodgings, and medicines and supplies for the sick. This too is a quality that serves as protector.
 
-204Furthermore, a mendicant is energetic. This too is a quality that serves as protector.
+204Furthermore, a bhikkhu is energetic. This too is a quality that serves as protector.
 
-205Furthermore, a mendicant is mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago. This too is a quality that serves as protector.
+205Furthermore, a bhikkhu is mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago. This too is a quality that serves as protector.
 
-206Furthermore, a mendicant is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. This too is a quality that serves as protector.
+206Furthermore, a bhikkhu is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. This too is a quality that serves as protector.
 
 207What ten things should be developed? Ten universal dimensions of meditation. Someone perceives the meditation on universal earth above, below, across, non-dual and limitless. They perceive the meditation on universal water … the meditation on universal fire … the meditation on universal air … the meditation on universal blue … the meditation on universal yellow … the meditation on universal red … the meditation on universal white … the meditation on universal space … They perceive the meditation on universal consciousness above, below, across, non-dual and limitless.
 
@@ -511,27 +511,27 @@ The first recitation section is finished.
 
 211What ten things lead to distinction? Ten ways of doing skillful deeds: refraining from killing living creatures, stealing, and sexual misconduct; avoiding speech that’s false, divisive, harsh, or nonsensical; contentment, good will, and right view.
 
-212What ten things are hard to comprehend? Ten noble abodes. A mendicant has given up five factors, possesses six factors, has a single guard, has four supports, has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has unsullied intentions, has stilled the physical process, and is well freed in mind and well freed by wisdom.
+212What ten things are hard to comprehend? Ten noble abodes. A bhikkhu has given up five factors, possesses six factors, has a single guard, has four supports, has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has unsullied intentions, has stilled the physical process, and is well freed in mind and well freed by wisdom.
 
-213And how has a mendicant given up five factors? It’s when a mendicant has given up sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt. That’s how a mendicant has given up five factors.
+213And how has a bhikkhu given up five factors? It’s when a bhikkhu has given up sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt. That’s how a bhikkhu has given up five factors.
 
-214And how does a mendicant possess six factors? A mendicant, seeing a sight with their eyes, is neither happy nor sad. They remain equanimous, mindful and aware. Hearing a sound with their ears … Smelling an odor with their nose … Tasting a flavor with their tongue … Feeling a touch with their body … Knowing a thought with their mind, they’re neither happy nor sad. They remain equanimous, mindful and aware. That’s how a mendicant possesses six factors.
+214And how does a bhikkhu possess six factors? A bhikkhu, seeing a sight with their eyes, is neither happy nor sad. They remain equanimous, mindful and aware. Hearing a sound with their ears … Smelling an odor with their nose … Tasting a flavor with their tongue … Feeling a touch with their body … Knowing a thought with their mind, they’re neither happy nor sad. They remain equanimous, mindful and aware. That’s how a bhikkhu possesses six factors.
 
-215And how does a mendicant have a single guard? It’s when a mendicant’s heart is guarded by mindfulness. That’s how a mendicant has a single guard.
+215And how does a bhikkhu have a single guard? It’s when a bhikkhu’s heart is guarded by mindfulness. That’s how a bhikkhu has a single guard.
 
-216And how does a mendicant have four supports? After reflection, a mendicant uses some things, endures some things, avoids some things, and gets rid of some things. That’s how a mendicant has four supports.
+216And how does a bhikkhu have four supports? After reflection, a bhikkhu uses some things, endures some things, avoids some things, and gets rid of some things. That’s how a bhikkhu has four supports.
 
-217And how has a mendicant eliminated idiosyncratic interpretations of the truth? Different ascetics and brahmins have different idiosyncratic interpretations of the truth. A mendicant has dispelled, eliminated, thrown out, rejected, let go of, given up, and relinquished all these. That’s how a mendicant has eliminated idiosyncratic interpretations of the truth.
+217And how has a bhikkhu eliminated idiosyncratic interpretations of the truth? Different ascetics and brahmins have different idiosyncratic interpretations of the truth. A bhikkhu has dispelled, eliminated, thrown out, rejected, let go of, given up, and relinquished all these. That’s how a bhikkhu has eliminated idiosyncratic interpretations of the truth.
 
-218And how has a mendicant totally given up searching? It’s when they’ve given up searching for sensual pleasures, for continued existence, and for a spiritual path. That’s how a mendicant has totally given up searching.
+218And how has a bhikkhu totally given up searching? It’s when they’ve given up searching for sensual pleasures, for continued existence, and for a spiritual path. That’s how a bhikkhu has totally given up searching.
 
-219And how does a mendicant have unsullied intentions? It’s when they’ve given up sensual, malicious, and cruel intentions. That’s how a mendicant has unsullied intentions.
+219And how does a bhikkhu have unsullied intentions? It’s when they’ve given up sensual, malicious, and cruel intentions. That’s how a bhikkhu has unsullied intentions.
 
-220And how has a mendicant stilled the physical process? Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. That’s how a mendicant has stilled the physical process.
+220And how has a bhikkhu stilled the physical process? Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. That’s how a bhikkhu has stilled the physical process.
 
-221And how is a mendicant well freed in mind? It’s when a mendicant’s mind is freed from greed, hate, and delusion. That’s how a mendicant is well freed in mind.
+221And how is a bhikkhu well freed in mind? It’s when a bhikkhu’s mind is freed from greed, hate, and delusion. That’s how a bhikkhu is well freed in mind.
 
-222And how is a mendicant well freed by wisdom? It’s when a mendicant understands: ‘I’ve given up greed, hate, and delusion, cut them off at the root, made them like a palm stump, obliterated them, so they’re unable to arise in the future.’ That’s how a mendicant’s mind is well freed by wisdom.
+222And how is a bhikkhu well freed by wisdom? It’s when a bhikkhu understands: ‘I’ve given up greed, hate, and delusion, cut them off at the root, made them like a palm stump, obliterated them, so they’re unable to arise in the future.’ That’s how a bhikkhu’s mind is well freed by wisdom.
 
 223What ten things should be produced? Ten perceptions: the perceptions of ugliness, death, repulsiveness in food, dissatisfaction with the whole world, impermanence, suffering in impermanence, not-self in suffering, giving up, fading away, and cessation.
 
@@ -543,7 +543,7 @@ The first recitation section is finished.
 226So these hundred things that are true, real, and accurate, not unreal, not otherwise were rightly awakened to by the Realized One.”
 
 
-This is what Venerable Sāriputta said. Satisfied, the mendicants were happy with what Sāriputta said.
+This is what Venerable Sāriputta said. Satisfied, the bhikkhus were happy with what Sāriputta said.
 
 The Long Discourses are completed.
 

@@ -20,17 +20,17 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, even a wheel-turning monarch, a just and principled king, does not wield power without having their own king.”
+1“bhikkhus, even a wheel-turning monarch, a just and principled king, does not wield power without having their own king.”
 
-When he said this, one of the mendicants asked the Buddha: “But who is the king of the wheel-turning monarch, the just and principled king?”
+When he said this, one of the bhikkhus asked the Buddha: “But who is the king of the wheel-turning monarch, the just and principled king?”
 
 
-“It is principle, monk,” said the Buddha. “Monk, a wheel-turning monarch provides just protection and security for his court, relying only on principle — honoring, respecting, and venerating principle, having principle as his flag, banner, and authority.
+“It is principle, bhikkhu,” said the Buddha. “bhikkhu, a wheel-turning monarch provides just protection and security for his court, relying only on principle — honoring, respecting, and venerating principle, having principle as his flag, banner, and authority.
 
 2He provides just protection and security for his aristocrats, vassals, troops, brahmins and householders, people of town and country, ascetics and brahmins, beasts and birds. When he has done this, he wields power only in a principled manner. And this power cannot be undermined by any human enemy.
 
 
-3In the same way, monk, a Realized One, a perfected one, a fully awakened Buddha, a just and principled king, provides just protection and security regarding bodily actions, relying only on principle — honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ‘This kind of bodily action should be cultivated. This kind of bodily action should not be cultivated.’
+3In the same way, bhikkhu, a Realized One, a perfected one, a fully awakened Buddha, a just and principled king, provides just protection and security regarding bodily actions, relying only on principle — honoring, respecting, and venerating principle, having principle as his flag, banner, and authority. ‘This kind of bodily action should be cultivated. This kind of bodily action should not be cultivated.’
 
 4Furthermore, a Realized One … provides just protection and security regarding verbal actions, saying: ‘This kind of verbal action should be cultivated. This kind of verbal action should not be cultivated.’ … And regarding mental actions: ‘This kind of mental action should be cultivated. This kind of mental action should not be cultivated.’
 

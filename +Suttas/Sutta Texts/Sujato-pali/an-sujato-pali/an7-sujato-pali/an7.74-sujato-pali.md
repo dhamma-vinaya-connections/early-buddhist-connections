@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Once upon a time, mendicants, there was a Teacher called Araka. He was a religious founder and was free of sensual desire. He had many hundreds of disciples, and he taught them like this: ‘Brahmins, life as a human is short, brief, and fleeting, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death.
+1“Once upon a time, bhikkhus, there was a Teacher called Araka. He was a religious founder and was free of sensual desire. He had many hundreds of disciples, and he taught them like this: ‘Brahmins, life as a human is short, brief, and fleeting, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death.
 
 2It’s like a drop of dew on a grass tip. When the sun comes up it quickly evaporates and doesn’t last long. In the same way, life as a human is like a dew-drop. It’s brief and fleeting, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death.
 
@@ -38,7 +38,7 @@ language: "English - Pali"
 
 8It’s like a cow being led to the slaughter. With every step she comes closer to the slaughter, closer to death. In the same way, life as a human is like a cow being slaughtered. It’s brief and fleeting, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death.’
 
-9Now, mendicants, at that time human beings had a life span of 60, 000 years. Girls could be married at 500 years of age. And human beings only had six afflictions: cold, heat, hunger, thirst, and the need to defecate and urinate. But even though humans were so long-lived with so few afflictions, Araka still taught in this way: ‘Life as a human is short, brief, and fleeting, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death.’
+9Now, bhikkhus, at that time human beings had a life span of 60, 000 years. Girls could be married at 500 years of age. And human beings only had six afflictions: cold, heat, hunger, thirst, and the need to defecate and urinate. But even though humans were so long-lived with so few afflictions, Araka still taught in this way: ‘Life as a human is short, brief, and fleeting, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death.’
 
 10These days it’d be right to say: ‘Life as a human is short, brief, and fleeting, full of pain and misery. Think about this and wake up! Do what’s good and live the spiritual life, for no-one born can escape death.’ For these days a long life is a hundred years or a little more. Living for a hundred years, there are just three hundred seasons, a hundred each of the winter, summer, and rains. Living for three hundred seasons, there are just twelve hundred months, four hundred in each of the winter, summer, and rains.
 
@@ -53,9 +53,9 @@ Living for 2, 400 fortnights, there are just 36, 000 days, 12, 000 in each of th
 11Things that prevent you from eating include anger, pain, sickness, sabbath, or being unable to get food.
 
 
-So mendicants, for a human being with a hundred years life span I have counted the life span, the limit of the life span, the seasons, the years, the months, the fortnights, the nights, the days, the meals, and the things that prevent them from eating.
+So bhikkhus, for a human being with a hundred years life span I have counted the life span, the limit of the life span, the seasons, the years, the months, the fortnights, the nights, the days, the meals, and the things that prevent them from eating.
 
-Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice jhāna, mendicants! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
+Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice jhāna, bhikkhus! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
 
 
 1"Bhūtapubbaṁ, bhikkhave, arako nāma satthā ahosi titthakaro kāmesu vītarāgo. Arakassa kho pana, bhikkhave, satthuno anekāni sāvakasatāni ahesuṁ. Arako satthā sāvakānaṁ evaṁ dhammaṁ deseti:  ‘appakaṁ, brāhmaṇa, jīvitaṁ manussānaṁ parittaṁ lahukaṁ bahudukkhaṁ bahupāyāsaṁ mantāyaṁ boddhabbaṁ, kattabbaṁ kusalaṁ, caritabbaṁ brahmacariyaṁ, natthi jātassa amaraṇaṁ.

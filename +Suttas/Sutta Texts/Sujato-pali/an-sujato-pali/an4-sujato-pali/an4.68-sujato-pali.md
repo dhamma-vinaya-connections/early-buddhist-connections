@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain, not long after Devadatta had left. There the Buddha spoke to the mendicants about Devadatta:
+1At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain, not long after Devadatta had left. There the Buddha spoke to the bhikkhus about Devadatta:
 
 “Possessions, honor, and popularity came to Devadatta for his own ruin and downfall.
 

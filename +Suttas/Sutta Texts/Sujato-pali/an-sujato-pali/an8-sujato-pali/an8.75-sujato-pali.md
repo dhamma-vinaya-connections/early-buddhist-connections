@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these eight accomplishments. What eight? Accomplishment in initiative, protection, good friendship, and balanced finances. And accomplishment in faith, ethics, generosity, and wisdom. These are the eight accomplishments.
+1“bhikkhus, there are these eight accomplishments. What eight? Accomplishment in initiative, protection, good friendship, and balanced finances. And accomplishment in faith, ethics, generosity, and wisdom. These are the eight accomplishments.
 
 2They’re enterprising in the workplace,  
 diligent in managing things,  

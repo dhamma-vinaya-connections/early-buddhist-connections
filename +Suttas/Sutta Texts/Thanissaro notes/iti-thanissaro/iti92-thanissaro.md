@@ -12,9 +12,9 @@ language: "English"
 
 # Itivuttaka 92
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, even if a monk, taking hold of my outer robe, were to follow right behind me, placing his feet in my footsteps, yet if he were to be greedy for sensuality, strong in his passions, malevolent in mind, corrupt in his resolves, his mindfulness muddled, unalert, uncentered, his mind scattered, & his faculties uncontrolled, then he would be far from me, and I from him. Why is that? Because he does not see the Dhamma. Not seeing the Dhamma, he does not see me.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, even if a bhikkhu, taking hold of my outer robe, were to follow right behind me, placing his feet in my footsteps, yet if he were to be greedy for sensuality, strong in his passions, malevolent in mind, corrupt in his resolves, his mindfulness muddled, unalert, uncentered, his mind scattered, & his faculties uncontrolled, then he would be far from me, and I from him. Why is that? Because he does not see the Dhamma. Not seeing the Dhamma, he does not see me.
 
-“But even if a monk were to live one hundred leagues away, yet if he were to have no greed for sensuality, were not strong in his passions, not malevolent in mind, uncorrupt in his resolves, his mindfulness established, alert, centered, his mind at singleness, & his faculties well-restrained, then he would be near to me, and I to him. Why is that? Because he sees the Dhamma. Seeing the Dhamma, he sees me.”
+“But even if a bhikkhu were to live one hundred leagues away, yet if he were to have no greed for sensuality, were not strong in his passions, not malevolent in mind, uncorrupt in his resolves, his mindfulness established, alert, centered, his mind at singleness, & his faculties well-restrained, then he would be near to me, and I to him. Why is that? Because he sees the Dhamma. Seeing the Dhamma, he sees me.”
 
 Though following right behind,
 

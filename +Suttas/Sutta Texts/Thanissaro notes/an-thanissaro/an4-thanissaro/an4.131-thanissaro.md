@@ -15,7 +15,7 @@ language: "English"
 ## ## Saṁyojana Sutta
 
 
-“Monks, there are these four types of individuals to be found existing in the world. Which four?
+“bhikkhus, there are these four types of individuals to be found existing in the world. Which four?
 
 “There is the case where, in a certain individual, the lower fetters are unabandoned, the fetters for gaining a spontaneous reappearance are unabandoned, the fetters for gaining a becoming are unabandoned.
 

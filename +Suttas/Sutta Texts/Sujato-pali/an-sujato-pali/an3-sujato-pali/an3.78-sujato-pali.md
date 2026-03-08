@@ -37,7 +37,7 @@ That’s what Ānanda said, and the teacher approved.
 
 3Then Ānanda, knowing that the teacher approved, got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 
-Then, not long after Ānanda had left, the Buddha addressed the mendicants: “Mendicants, Ānanda is a trainee, but it’s not easy to find his equal in wisdom.”
+Then, not long after Ānanda had left, the Buddha addressed the bhikkhus: “bhikkhus, Ānanda is a trainee, but it’s not easy to find his equal in wisdom.”
 
 #### Pali
 

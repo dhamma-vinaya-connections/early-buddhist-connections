@@ -47,7 +47,7 @@ parallels_partilal: ""
 > Who make much merit and make the true teaching continue
 
 > [!info] Key Excerpts 
-> When a mendicant explains what is the teaching as the teaching, and vice versa; what is the training as the training, and vice versa; what was spoken, practiced and prescribed by the realized one as spoken, practiced and prescribed  by the realized one and vice versa
+> When a bhikkhu explains what is the teaching as the teaching, and vice versa; what is the training as the training, and vice versa; what was spoken, practiced and prescribed by the realized one as spoken, practiced and prescribed  by the realized one and vice versa
 > 
 > Those are acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans
 > 

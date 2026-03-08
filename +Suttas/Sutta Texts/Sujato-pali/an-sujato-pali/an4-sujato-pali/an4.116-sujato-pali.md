@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, you should be diligent in four situations. What four?
+1“bhikkhus, you should be diligent in four situations. What four?
 
 Give up bad conduct by way of body, speech, and mind; and develop good conduct by way of body, speech, and mind. Don’t neglect these things. Give up wrong view; and develop right view. Don’t neglect this.
 
 
-2A mendicant who has done these things does not fear death in lives to come.”
+2A bhikkhu who has done these things does not fear death in lives to come.”
 
 1"Catūhi, bhikkhave, ṭhānehi appamādo karaṇīyo. Katamehi catūhi?
 

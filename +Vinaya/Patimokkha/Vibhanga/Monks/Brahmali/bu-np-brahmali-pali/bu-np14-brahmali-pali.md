@@ -16,33 +16,33 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time monks were having blankets made every year. They kept on begging and asking, “Please give wool! We need wool!” People complained and criticized them, “How can the Sakyan monastics have blankets made every year, begging and asking, ‘Please give wool! We need wool!’? We only make blankets for ourselves every five or six years, even though our children defecate and urinate on them and they are eaten by rats.”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time bhikkhus were having blankets made every year. They kept on begging and asking, “Please give wool! We need wool!” People complained and criticized them, “How can the Sakyan monastics have blankets made every year, begging and asking, ‘Please give wool! We need wool!’? We only make blankets for ourselves every five or six years, even though our children defecate and urinate on them and they are eaten by rats.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can those monks do this?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can those bhikkhus do this?”
 
-3After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that there are monks who do this?”
+3After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that there are bhikkhus who do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them, “How can those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them, “How can those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 4‘If a monk has had a new blanket made, he should keep it for six years. Whether that blanket has been given away or not, if he has another new blanket made in less than six years, he commits an offense entailing relinquishment and confession.’”
 
-5In this way the Buddha laid down this training rule for the monks.
+5In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-6At one time a certain monk at Kosambī was sick. His relatives sent him a message, saying, “Come, Venerable, we’ll nurse you.” The monks urged him to go, but he said, “The Buddha has laid down a training rule that a monk who has had a new blanket made must keep it for six years. Now because I’m sick, I’m unable to travel with my blanket. And because I’m not comfortable without it, I can’t go.”
+6At one time a certain monk at Kosambī was sick. His relatives sent him a message, saying, “Come, Venerable, we’ll nurse you.” The bhikkhus urged him to go, but he said, “The Buddha has laid down a training rule that a monk who has had a new blanket made must keep it for six years. Now because I’m sick, I’m unable to travel with my blanket. And because I’m not comfortable without it, I can’t go.”
 
 They told the Buddha.
 
 
-7Soon afterwards he gave a teaching and addressed the monks:
+7Soon afterwards he gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to give a blanket permission to a sick monk.
+“bhikkhus, I allow you to give a blanket permission to a sick monk.
 
 
-And it should be given like this. After approaching the Sangha, the sick monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, raise his joined palms, and say, ‘Venerables, I’m sick. I’m unable to travel with my blanket. I ask the Sangha for a blanket permission.’ And he should ask a second and a third time. A competent and capable monk should then inform the Sangha:
+And it should be given like this. After approaching the Sangha, the sick monk should arrange his upper robe over one shoulder and pay respect at the feet of the senior bhikkhus. He should then squat on his heels, raise his joined palms, and say, ‘Venerables, I’m sick. I’m unable to travel with my blanket. I ask the Sangha for a blanket permission.’ And he should ask a second and a third time. A competent and capable monk should then inform the Sangha:
 
 8‘Please, Venerables, I ask the Sangha to listen. The monk so-and-so is sick. He’s unable to travel with his blanket. He’s asking the Sangha for a blanket permission. If it seems appropriate to the Sangha, the Sangha should give a blanket permission to monk so-and-so. This is the motion.
 
@@ -50,11 +50,11 @@ And it should be given like this. After approaching the Sangha, the sick monk sh
 
 10The Sangha has given a blanket permission to monk so-and-so. The Sangha approves and is therefore silent. I’ll remember it thus.’
 
-11And so, monks, this training rule should be recited like this:
+11And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-12‘If a monk has had a new blanket made, he should keep it for six years. Whether that blanket has been given away or not, if he has another new blanket made in less than six years, except if the monks have agreed, he commits an offense entailing relinquishment and confession.’”
+12‘If a monk has had a new blanket made, he should keep it for six years. Whether that blanket has been given away or not, if he has another new blanket made in less than six years, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession.’”
 
 #### Definitions
 
@@ -73,13 +73,13 @@ And it should be given like this. After approaching the Sangha, the sick monk sh
 
 19**Not:** it has not been given to anyone.
 
-20**Except if the monks have agreed:** If he makes another new blanket, or has one made, unless the monks have agreed, then for the effort there is an act of wrong conduct. When he gets the blanket, it becomes subject to relinquishment.
+20**Except if the bhikkhus have agreed:** If he makes another new blanket, or has one made, unless the bhikkhus have agreed, then for the effort there is an act of wrong conduct. When he gets the blanket, it becomes subject to relinquishment.
 
 
-The blanket should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The blanket should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
-‘Venerables, this blanket, which I got made after less than six years without the agreement of the monks, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this blanket back to you.’”
+‘Venerables, this blanket, which I got made after less than six years without the agreement of the bhikkhus, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this blanket back to you.’”
 
 #### Permutations
 
@@ -87,7 +87,7 @@ The blanket should be relinquished to a saṅgha, a group, or an individual. “
 
 #### Non-offenses
 
-22There is no offense: if he makes one after six years; if he makes one after more than six years; if he makes one, or has one made, for the sake of another; if he gets what was made by another and then uses it; if he makes a canopy, a floor cover, a cloth screen, a mattress, or a pillow; if he has the permission of the monks; if he is insane; if he is the first offender.
+22There is no offense: if he makes one after six years; if he makes one after more than six years; if he makes one, or has one made, for the sake of another; if he gets what was made by another and then uses it; if he makes a canopy, a floor cover, a cloth screen, a mattress, or a pillow; if he has the permission of the bhikkhus; if he is insane; if he is the first offender.
 
 23The training rule on six years, the fourth, is finished.
 

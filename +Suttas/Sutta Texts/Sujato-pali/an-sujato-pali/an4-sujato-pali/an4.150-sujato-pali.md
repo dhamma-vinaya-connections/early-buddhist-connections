@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four essentials. What four? Ethics, immersion, wisdom, and freedom are essentials. These are the four essentials.”
+1“bhikkhus, there are these four essentials. What four? Ethics, immersion, wisdom, and freedom are essentials. These are the four essentials.”
 
 1"Cattārome, bhikkhave, sārā. Katame cattāro? Sīlasāro, samādhisāro, paññāsāro, vimuttisāro – ime kho, bhikkhave, cattāro sārā"ti.
 

@@ -26,7 +26,7 @@ language: "English - Pali"
 
 ---
 
-4"For the monk whose peaceful mind is full of peace,  
+4"For the bhikkhu whose peaceful mind is full of peace,  
 for the one who has cut off what leads to rebirth,  
 Having totally destroyed the round of births,  
 he is free from the bonds of Māra."

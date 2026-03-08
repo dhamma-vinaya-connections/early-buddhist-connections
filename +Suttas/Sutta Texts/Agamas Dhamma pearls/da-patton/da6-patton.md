@@ -16,9 +16,9 @@ Translated by Charles Patton
 
 ### 6. The Noble Wheel-Turning King’s Cultivation
 
-1. Thus I have heard: One time, the Buddha was traveling among the people of [Magadha]. Accompanied by a great assembly of 1,250 monks, he eventually arrived in [Mātulā].
+1. Thus I have heard: One time, the Buddha was traveling among the people of [Magadha]. Accompanied by a great assembly of 1,250 bhikkhus, he eventually arrived in [Mātulā].
 
-2. It was then that the Bhagavān addressed the monks, “You must light yourself and burn the Dharma. Don’t burn something else. You must take refuge in yourself and take refuge in the Dharma. Don’t take refuge in something else. How must a monk light himself, burn the Dharma, and not burn something else? How must he take refuge in himself, take refuge in the Dharma, and not take refuge in something else?
+2. It was then that the Bhagavān addressed the bhikkhus, “You must light yourself and burn the Dharma. Don’t burn something else. You must take refuge in yourself and take refuge in the Dharma. Don’t take refuge in something else. How must a monk light himself, burn the Dharma, and not burn something else? How must he take refuge in himself, take refuge in the Dharma, and not take refuge in something else?
 
 3. “Here, a monk observes the internal body as body diligently and without negligence. His attention to it isn’t lost, and he removes worldly craving and sorrow. He observes the external body as body … observes internal and external body as body diligently and without negligence. His attention to it isn’t lost, and he removes worldly craving and sorrow. He likewise observes feeling, mind, and principles.
 
@@ -58,7 +58,7 @@ Translated by Charles Patton
 
 #### How the Correct Teaching Is Lost
 
-20. The Buddha told the monks, “The noble wheel-turning king accepted his father’s instruction and cultivated it as he’d explained. On the fifteenth-day full moon, he bathed in incense water and ascended the high hall while surrounded by his concubines, and the wheel treasure spontaneously appeared before him. The wheel had a thousand spokes and possessed a radiant color. It was made by a heavenly craftsman and wasn’t something that belongs to this world. It was made of pure gold and had a diameter of forty feet.
+20. The Buddha told the bhikkhus, “The noble wheel-turning king accepted his father’s instruction and cultivated it as he’d explained. On the fifteenth-day full moon, he bathed in incense water and ascended the high hall while surrounded by his concubines, and the wheel treasure spontaneously appeared before him. The wheel had a thousand spokes and possessed a radiant color. It was made by a heavenly craftsman and wasn’t something that belongs to this world. It was made of pure gold and had a diameter of forty feet.
 
 21. “The wheel-turning king then thought to himself, ‘I’ve heard from elders in the past that if a water-anointed warrior king bathes in incense water and ascends the treasure hall on the fifteenth-day full moon while surrounded by his concubines, then the golden wheel will suddenly appear before him. The wheel will have a thousand spokes and possess a radiant color. It’ll be made by a heavenly craftsman and won’t be something that belongs to this world. It’ll be made of pure gold and have a diameter of forty feet. He will then be called a noble wheel-turning king. Now, this appears to be the wheel, but perhaps this isn’t it? Now, I’d should like to test this wheel treasure.’
 
@@ -194,7 +194,7 @@ Translated by Charles Patton
 
 #### The Parable of the Noble King
 
-79. The Buddha told the monks, “You must diligently cultivate good conduct. By cultivating good conduct, your lifespan will be lengthened, your appearance will improve, and your well-being and happiness, wealth and prosperity, and power will be perfected, just like the kings who follow the noble wheel-turning king’s ancient teaching. Their lifespans lengthened, their appearances improved, and they perfected their well-being and happiness, wealth and prosperity, and power. A monk is likewise. He must cultivate good conduct for his lifespan to lengthen, his appearance to improve, and to perfect his well-being and happiness, wealth and prosperity, and power.
+79. The Buddha told the bhikkhus, “You must diligently cultivate good conduct. By cultivating good conduct, your lifespan will be lengthened, your appearance will improve, and your well-being and happiness, wealth and prosperity, and power will be perfected, just like the kings who follow the noble wheel-turning king’s ancient teaching. Their lifespans lengthened, their appearances improved, and they perfected their well-being and happiness, wealth and prosperity, and power. A monk is likewise. He must cultivate good conduct for his lifespan to lengthen, his appearance to improve, and to perfect his well-being and happiness, wealth and prosperity, and power.
 
 80. “How is a monk’s lifespan lengthened? Thus, a monk cultivates the samādhi of desire [for good conduct] diligently and not negligently. He accomplishes the practice of cessation [of unskillful qualities] by cultivating the miraculous abilities. He cultivates the samādhi of effort … samādhi of mind … samādhi of contemplation diligently and not negligently. He accomplishes the practice of cessation by cultivating the spiritual abilities. This lengthens his lifespan.
 
@@ -206,9 +206,9 @@ Translated by Charles Patton
 
 84. “How does a monk perfect his power? Here, a monk truly knows the noble truth of suffering … formation … cessation … and truly knows the noble truth of the path. This is the monk’s perfection of his power.”
 
-85. The Buddha told the monks, “Now, I’ve surveyed all those who possess power, and none surpass the power of Māra. Still, the power of a monk who ends the contaminants can defeat him.”
+85. The Buddha told the bhikkhus, “Now, I’ve surveyed all those who possess power, and none surpass the power of Māra. Still, the power of a monk who ends the contaminants can defeat him.”
 
-86. The monks who heard what the Buddha taught rejoiced and approved.
+86. The bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

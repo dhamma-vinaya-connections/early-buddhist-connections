@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a royal bull elephant with five factors is not worthy of a king, not fit to serve a king, and is not considered a factor of kingship. What five? It’s when a royal bull elephant can’t endure sights, sounds, smells, tastes, and touches.
+1“bhikkhus, a royal bull elephant with five factors is not worthy of a king, not fit to serve a king, and is not considered a factor of kingship. What five? It’s when a royal bull elephant can’t endure sights, sounds, smells, tastes, and touches.
 
 2And how is it that a royal bull elephant can’t endure sights? It’s when a royal bull elephant gone to battle falters and founders at the sight of a division of elephants, of cavalry, of chariots, or of infantry. It doesn’t stay firm, and fails to plunge into battle. That’s how a royal bull elephant can’t endure sights.
 
@@ -34,19 +34,19 @@ language: "English - Pali"
 
 7A royal bull elephant with these five factors is not worthy of a king, not fit to serve a king, and is not considered a factor of kingship.
 
-8In the same way, a mendicant with five qualities is not worthy of offerings dedicated to the gods, not worthy of hospitality, not worthy of a religious donation, not worthy of veneration with joined palms, and is not the supreme field of merit for the world. What five? It’s when a mendicant can’t endure sights, sounds, smells, tastes, and touches.
+8In the same way, a bhikkhu with five qualities is not worthy of offerings dedicated to the gods, not worthy of hospitality, not worthy of a religious donation, not worthy of veneration with joined palms, and is not the supreme field of merit for the world. What five? It’s when a bhikkhu can’t endure sights, sounds, smells, tastes, and touches.
 
-9And how is it that a mendicant can’t endure sights? It’s when a mendicant, seeing a sight with their eyes, is aroused by a desirable sight, so is not able to still the mind. That’s how a mendicant can’t endure sights.
+9And how is it that a bhikkhu can’t endure sights? It’s when a bhikkhu, seeing a sight with their eyes, is aroused by a desirable sight, so is not able to still the mind. That’s how a bhikkhu can’t endure sights.
 
-10And how is it that a mendicant can’t endure sounds? It’s when a mendicant, hearing a sound with their ears, is aroused by a desirable sound, so is not able to still the mind. That’s how a mendicant can’t endure sounds.
+10And how is it that a bhikkhu can’t endure sounds? It’s when a bhikkhu, hearing a sound with their ears, is aroused by a desirable sound, so is not able to still the mind. That’s how a bhikkhu can’t endure sounds.
 
-11And how is it that a mendicant can’t endure smells? It’s when a mendicant, smelling an odor with their nose, is aroused by a desirable smell, so is not able to still the mind. That’s how a mendicant can’t endure smells.
+11And how is it that a bhikkhu can’t endure smells? It’s when a bhikkhu, smelling an odor with their nose, is aroused by a desirable smell, so is not able to still the mind. That’s how a bhikkhu can’t endure smells.
 
-12And how is it that a mendicant can’t endure tastes? It’s when a mendicant, tasting a flavor with their tongue, is aroused by desirable tastes, so is not able to still the mind. That’s how a mendicant can’t endure tastes.
+12And how is it that a bhikkhu can’t endure tastes? It’s when a bhikkhu, tasting a flavor with their tongue, is aroused by desirable tastes, so is not able to still the mind. That’s how a bhikkhu can’t endure tastes.
 
-13And how is it that a mendicant can’t endure touches? It’s when a mendicant, feeling a touch with their body, is aroused by a desirable touch, so is not able to still the mind. That’s how a mendicant can’t endure touches.
+13And how is it that a bhikkhu can’t endure touches? It’s when a bhikkhu, feeling a touch with their body, is aroused by a desirable touch, so is not able to still the mind. That’s how a bhikkhu can’t endure touches.
 
-14A mendicant with these five qualities is not worthy of offerings dedicated to the gods, not worthy of hospitality, not worthy of a religious donation, not worthy of veneration with joined palms, and is not the supreme field of merit for the world.
+14A bhikkhu with these five qualities is not worthy of offerings dedicated to the gods, not worthy of hospitality, not worthy of a religious donation, not worthy of veneration with joined palms, and is not the supreme field of merit for the world.
 
 15A royal bull elephant with five factors is worthy of a king, fit to serve a king, and is considered a factor of kingship. What five? It’s when a royal bull elephant can endure sights, sounds, smells, tastes, and touches.
 
@@ -62,19 +62,19 @@ language: "English - Pali"
 
 21A royal bull elephant with these five factors is worthy of a king, fit to serve a king, and is considered a factor of kingship.
 
-22In the same way, a mendicant with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What five? It’s when a mendicant can endure sights, sounds, smells, tastes, and touches.
+22In the same way, a bhikkhu with five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What five? It’s when a bhikkhu can endure sights, sounds, smells, tastes, and touches.
 
-23And how is it that a mendicant can endure sights? It’s when a mendicant, seeing a sight with their eyes, is not aroused by a desirable sight, so is able to still the mind. That’s how a mendicant can endure sights.
+23And how is it that a bhikkhu can endure sights? It’s when a bhikkhu, seeing a sight with their eyes, is not aroused by a desirable sight, so is able to still the mind. That’s how a bhikkhu can endure sights.
 
-24And how is it that a mendicant can endure sounds? It’s when a mendicant, hearing a sound with their ears, is not aroused by desirable sounds, so is able to still the mind. That’s how a mendicant can endure sounds.
+24And how is it that a bhikkhu can endure sounds? It’s when a bhikkhu, hearing a sound with their ears, is not aroused by desirable sounds, so is able to still the mind. That’s how a bhikkhu can endure sounds.
 
-25And how is it that a mendicant can endure smells? It’s when a mendicant, smelling an odor with their nose, is not aroused by a desirable smell, so is able to still the mind. That’s how a mendicant can endure smells.
+25And how is it that a bhikkhu can endure smells? It’s when a bhikkhu, smelling an odor with their nose, is not aroused by a desirable smell, so is able to still the mind. That’s how a bhikkhu can endure smells.
 
-26And how is it that a mendicant can endure tastes? It’s when a mendicant, tasting a flavor with their tongue, is not aroused by desirable tastes, so is able to still the mind. That’s how a mendicant can endure tastes.
+26And how is it that a bhikkhu can endure tastes? It’s when a bhikkhu, tasting a flavor with their tongue, is not aroused by desirable tastes, so is able to still the mind. That’s how a bhikkhu can endure tastes.
 
-27And how is it that a mendicant can endure touches? It’s when a mendicant, feeling a touch with their body, is not aroused by a desirable touch, so is able to still the mind. That’s how a mendicant can endure touches.
+27And how is it that a bhikkhu can endure touches? It’s when a bhikkhu, feeling a touch with their body, is not aroused by a desirable touch, so is able to still the mind. That’s how a bhikkhu can endure touches.
 
-28A mendicant with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
+28A bhikkhu with these five qualities is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
 
 1"Pañcahi, bhikkhave, aṅgehi samannāgato rañño nāgo na rājāraho hoti na rājabhoggo, na rañño aṅgaṁtveva saṅkhaṁ gacchati. Katamehi pañcahi? Idha, bhikkhave, rañño nāgo akkhamo hoti rūpānaṁ, akkhamo saddānaṁ, akkhamo gandhānaṁ, akkhamo rasānaṁ, akkhamo phoṭṭhabbānaṁ.
 

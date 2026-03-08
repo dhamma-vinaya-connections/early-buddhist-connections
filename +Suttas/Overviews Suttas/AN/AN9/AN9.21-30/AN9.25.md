@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Nine reflections by which a mendicant knows their mind has wisdom
+> Nine reflections by which a bhikkhu knows their mind has wisdom
 
 > [!info] Key Excerpts 
 > When they know: ‘my mind is without and not liable to become greed, hate and delusion, not liable to return to rebirth in the sensual, luminous nor formless realms

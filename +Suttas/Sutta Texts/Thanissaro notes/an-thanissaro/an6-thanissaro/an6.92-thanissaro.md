@@ -15,7 +15,7 @@ language: "English"
 ## ## Ṭhāna Sutta
 
 
-“Monks, these six are impossible cases. Which six?
+“bhikkhus, these six are impossible cases. Which six?
 
 “It’s impossible for a person consummate in view[1](#^[[an6-thanissaro]].92note01) to live without respect or deference for the Teacher. It’s impossible for a person consummate in view to live without respect or deference for the Dhamma. It’s impossible for a person consummate in view to live without respect or deference for the Saṅgha. It’s impossible for a person consummate in view to live without respect or deference for the Training [heightened virtue, heightened samādhi, heightened discernment]. It’s impossible for a person consummate in view to return to that which should not be gone to.[2](#^[[an6-thanissaro]].92note02) It’s impossible for a person consummate in view to produce an eighth state of becoming.[3](#^[[an6-thanissaro]].92note03) ^[[an6-thanissaro]].92note01-ref ^[[an6-thanissaro]].92note02-ref ^[[an6-thanissaro]].92note03-ref
 

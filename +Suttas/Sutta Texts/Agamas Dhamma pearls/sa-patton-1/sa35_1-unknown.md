@@ -19,15 +19,15 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “Because of what’s existence, what’s cause, adherence to what, and viewing what as self are sentient beings covered by ignorance, take craving as their leader, rush down the long road, turn on the wheel of birth-and-death, circulate in birth-and-death, and don’t know an ultimate end?”
+2. It was then that the Bhagavān addressed the bhikkhus, “Because of what’s existence, what’s cause, adherence to what, and viewing what as self are sentient beings covered by ignorance, take craving as their leader, rush down the long road, turn on the wheel of birth-and-death, circulate in birth-and-death, and don’t know an ultimate end?”
 
-The monks said to the Buddha, “The Bhagavān is the Dharma root, the Dharma eye, and the Dharma refuge! Please have pity and explain this subject in detail! After hearing it, we monks will accept and approve of that explanation.”
+The bhikkhus said to the Buddha, “The Bhagavān is the Dharma root, the Dharma eye, and the Dharma refuge! Please have pity and explain this subject in detail! After hearing it, we bhikkhus will accept and approve of that explanation.”
 
-3. The Buddha told the monks, “Listen closely, and consider it well! I will explain this for you.
+3. The Buddha told the bhikkhus, “Listen closely, and consider it well! I will explain this for you.
 
-“Monks, it’s because of form’s existence, form being something caused, adherence to form, and viewing form as self that sentient beings are covered by ignorance, take craving as their leader, rush down the long road, turn on the wheel of birth-and-death, circulate in birth-and-death[, and don’t know an ultimate end]. _Feeling, conception, volition, and consciousness are likewise._
+“bhikkhus, it’s because of form’s existence, form being something caused, adherence to form, and viewing form as self that sentient beings are covered by ignorance, take craving as their leader, rush down the long road, turn on the wheel of birth-and-death, circulate in birth-and-death[, and don’t know an ultimate end]. _Feeling, conception, volition, and consciousness are likewise._
 
-4. “Monks, is form permanent, or is it impermanent?”
+4. “bhikkhus, is form permanent, or is it impermanent?”
 
 “Impermanent, Bhagavān.”
 
@@ -35,11 +35,11 @@ The monks said to the Buddha, “The Bhagavān is the Dharma root, the Dharma ey
 
 “It’s painful, Bhagavān.”
 
-6. “So it is, monks. If something is impermanent, it’s painful. Because of this pain’s existence, it being something caused, adherence to it, and viewing it as self, sentient beings are covered by ignorance, take craving as their leader, rush down the long road, turn on the wheel of birth-and-death, circulate in birth-and-death[, and don’t know its ultimate end].
+6. “So it is, bhikkhus. If something is impermanent, it’s painful. Because of this pain’s existence, it being something caused, adherence to it, and viewing it as self, sentient beings are covered by ignorance, take craving as their leader, rush down the long road, turn on the wheel of birth-and-death, circulate in birth-and-death[, and don’t know its ultimate end].
 
 _Feeling, conception, volition, and consciousness are likewise._
 
-7. “Therefore, monks, all forms that exist, whether past, future, or present, internal or external, coarse or fine, beautiful or ugly, or distant or near are not self, not different than self, nor are either present in the other. This is called correct wisdom. _Feeling, conception, volition, and consciousness are likewise._
+7. “Therefore, bhikkhus, all forms that exist, whether past, future, or present, internal or external, coarse or fine, beautiful or ugly, or distant or near are not self, not different than self, nor are either present in the other. This is called correct wisdom. _Feeling, conception, volition, and consciousness are likewise._
 
 8. “Thus, all that’s seen, heard, realized, recognized, sought, attained, remembered, considered, or examined<a id="fnref2"></a>[^2] is not self, not different than self, nor are either present in the other. This is called correct wisdom.
 
@@ -49,9 +49,9 @@ _Feeling, conception, volition, and consciousness are likewise._
 
 11. “Suppose that a well-versed noble disciple observes these six abodes of views as not self and not belonging to self. Someone who observes them in this way ends suspicions about the Buddha and ends suspicions about the Dharma and Saṅgha.
 
-12. “Monks, this is called a well-versed noble disciple who is no longer capable of doing physical, verbal, or mental deeds that lead to the three bad destinies. Even if he’s negligent, this noble disciple is certainly headed for complete awakening. With seven rebirths in heaven or among humans, they’ll reach the limit of suffering.”
+12. “bhikkhus, this is called a well-versed noble disciple who is no longer capable of doing physical, verbal, or mental deeds that lead to the three bad destinies. Even if he’s negligent, this noble disciple is certainly headed for complete awakening. With seven rebirths in heaven or among humans, they’ll reach the limit of suffering.”
 
-13. After the Buddha spoke this sūtra, the monks who heard what the Buddha taught rejoiced and approved.
+13. After the Buddha spoke this sūtra, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

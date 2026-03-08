@@ -24,7 +24,7 @@ language: "English - Pali"
 
 ‘‘Idha pana, brāhmaṇa, bhikkhu vivicceva kāmehi…pe… catutthaṃ jhānaṃ upasampajja viharati.
 
-“Here, brahmin, a mendicant, quite secluded from sensual pleasures... enters and dwells in the fourth jhāna.
+“Here, brahmin, a bhikkhu, quite secluded from sensual pleasures... enters and dwells in the fourth jhāna.
 
 ‘‘So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhininnāmeti. So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ – ekampi jātiṃ dvepi jātiyo…pe… iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati. Ayamassa paṭhamā vijjā adhigatā hoti; avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno yathā taṃ appamattassa ātāpino pahitattassa viharato.
 

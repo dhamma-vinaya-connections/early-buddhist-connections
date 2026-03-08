@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that, when it is developed like this, is as workable as the mind. A developed mind is workable.”
+1“bhikkhus, I do not see a single thing that, when it is developed like this, is as workable as the mind. A developed mind is workable.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ bhāvitaṁ kammaniyaṁ hoti yathayidaṁ, bhikkhave, cittaṁ. Cittaṁ, bhikkhave, bhāvitaṁ kammaniyaṁ hotī"ti.
 

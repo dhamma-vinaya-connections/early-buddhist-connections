@@ -44,10 +44,10 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> in a disciplinary issue, if both the offending mendicant and the accusing mendicant carefully check themselves, you can expect that issue won’t lead to lasting acrimony and enmity
+> in a disciplinary issue, if both the offending bhikkhu and the accusing bhikkhu carefully check themselves, you can expect that issue won’t lead to lasting acrimony and enmity
 
 > [!info] Key Excerpts 
-> Both the offending mendicant and the accusing mendicant carefully check themselve
+> Both the offending bhikkhu and the accusing bhikkhu carefully check themselve
 > 
 > Since I did commit that offense, they did see me.When They saw me, they were upset, and they voiced their unhappiness to me
 > 

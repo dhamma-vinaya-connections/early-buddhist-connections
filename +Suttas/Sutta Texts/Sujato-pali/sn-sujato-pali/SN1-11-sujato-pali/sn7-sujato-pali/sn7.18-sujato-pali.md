@@ -32,7 +32,7 @@ He went up to the Buddha and addressed him in verse:
 2“Deep in the jungle so full of terrors,  
 you’ve plunged into the empty, desolate wilderness.  
 Still, steady, and graceful:  
-how beautifully you meditate, mendicant!
+how beautifully you meditate, bhikkhu!
 
 3Where there is no song or music,  
 a lonely sage resorts to the wilderness.  

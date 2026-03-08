@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these six roots of quarrels. What six?
+1“bhikkhus, there are these six roots of quarrels. What six?
 
-Firstly, a mendicant is irritable and hostile. Such a mendicant lacks respect and reverence for the Teacher, the teaching, and the Saṅgha, and they don’t fulfill the training. They create a dispute in the Saṅgha, which is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. If you see such a root of quarrels in yourselves or others, you should try to give up this bad thing. If you don’t see it, you should practice so that it doesn’t come up in the future. That’s how to give up this bad root of quarrels, so it doesn’t come up in the future.
+Firstly, a bhikkhu is irritable and hostile. Such a bhikkhu lacks respect and reverence for the Teacher, the teaching, and the Saṅgha, and they don’t fulfill the training. They create a dispute in the Saṅgha, which is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. If you see such a root of quarrels in yourselves or others, you should try to give up this bad thing. If you don’t see it, you should practice so that it doesn’t come up in the future. That’s how to give up this bad root of quarrels, so it doesn’t come up in the future.
 
-2Furthermore, a mendicant is offensive and contemptuous … They’re jealous and stingy … devious and deceitful … with wicked desires and wrong view … They’re attached to their own views, holding them tight, and refusing to let go. Such a mendicant lacks respect and reverence for the Teacher, the teaching, and the Saṅgha, and they don’t fulfill the training. They create a dispute in the Saṅgha, which is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. If you see such a root of quarrels in yourselves or others, you should try to give up this bad thing. If you don’t see it, you should practice so that it doesn’t come up in the future. That’s how to give up this bad root of quarrels, so it doesn’t come up in the future.
+2Furthermore, a bhikkhu is offensive and contemptuous … They’re jealous and stingy … devious and deceitful … with wicked desires and wrong view … They’re attached to their own views, holding them tight, and refusing to let go. Such a bhikkhu lacks respect and reverence for the Teacher, the teaching, and the Saṅgha, and they don’t fulfill the training. They create a dispute in the Saṅgha, which is for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans. If you see such a root of quarrels in yourselves or others, you should try to give up this bad thing. If you don’t see it, you should practice so that it doesn’t come up in the future. That’s how to give up this bad root of quarrels, so it doesn’t come up in the future.
 
 These are the six roots of quarrels.”
 

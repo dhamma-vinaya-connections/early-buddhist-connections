@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, two nuns were lying down on the same sheet and under the same cover. When people walking about the dwellings saw this, they complained and criticized them, “How can two nuns lie down on the same sheet and under the same cover? They’re just like householders who indulge in worldly pleasures!”
 
-2The nuns heard the complaints of those people, and the nuns of few desires complained and criticized them, “How can nuns do this?” … “Is it true, monks, that nuns do this?”
+2The nuns heard the complaints of those people, and the nuns of few desires complained and criticized them, “How can nuns do this?” … “Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

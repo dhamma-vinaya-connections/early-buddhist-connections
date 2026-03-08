@@ -33,7 +33,7 @@ contribution:
 >  The Buddha differentiates between peaceful meditation and spiritual practices that encompass the whole of life. He lists forty-four aspects, which he explains as “effacement”, the wearing away of conceit.
 
 > [!example]- 🌐[[MN9]] - 📜[Available texts](obsidian://search?query=file:mn9-) - Sammaditthi Sutta – Right View 
->  How the four noble truths, dependent co-arising, and the knowledge that ends mental fermentation all build upon the basic dichotomy between skillful and unskillful action. Venerable Sāriputta gives a detailed explanation of right view, the first factor of the noble eightfold path. At the prompting of the other mendicants, he approaches the topic from a wide range of perspectives.
+>  How the four noble truths, dependent co-arising, and the knowledge that ends mental fermentation all build upon the basic dichotomy between skillful and unskillful action. Venerable Sāriputta gives a detailed explanation of right view, the first factor of the noble eightfold path. At the prompting of the other bhikkhus, he approaches the topic from a wide range of perspectives.
 
 > [!example]- 🌐[[MN10]] - 📜[Available texts](obsidian://search?query=file:mn10-) - Mahāsatipaṭṭhāna Sutta – Mindfulness Meditation 
 >  Here the Buddha details the seventh factor of the noble eightfold path, mindfulness meditation. This collects many of the meditation teachings found throughout the canon, especially the foundational practices focusing on the body, and is regarded as one of the most important meditation discourses
@@ -75,7 +75,7 @@ contribution:
 >  One of the monks denies that prohibited conduct is really a problem. The monks and then the Buddha subject him to an impressive dressing down. The Buddha compares someone who understands only the letter of the teachings to someone who grabs a snake by the tail, and also invokes the famous simile of the raft Using two famous similes, the Buddha shows how the development of right view calls for the skillful application both of grasping and of letting-go. The sutta includes one of the canon's most important expositions on the topic of not-self.
 
 > [!example]- 🌐[[MN23]] - 📜[Available texts](obsidian://search?query=file:mn23-) - Vammika Sutta – Ant-Hill 
->  In a curious discourse laden with evocative imagery, a deity presents a riddle to a mendicant, who seeks an answer from the Buddha
+>  In a curious discourse laden with evocative imagery, a deity presents a riddle to a bhikkhu, who seeks an answer from the Buddha
 
 > [!example]- 🌐[[MN24]] - 📜[Available texts](obsidian://search?query=file:mn24-) - Rathavinīta Sutta – Prepared Chariots 
 >  Venerable Sāriputta seeks a dialog with an esteemed monk, venerable puṇṇa mantāniputta, and they discuss the stages of purification Using the simile of a set of relay chariots, ven. Punna mantaniputta explains the relationship of the factors of the path to the goal of the holy life
@@ -93,19 +93,19 @@ contribution:
 >  Sāriputta gives an elaborate demonstration of how, just as any footprint can fit inside an elephant’s, all the Buddha ’s teaching can fit inside the four noble truths. This offers an overall template for organizing the Buddha ’s teachings An explanation of the four noble truths, focusing on the aggregate of physical form and showing (1) how all the aggregates are interrelated and (2) how all four noble truths, together with the principle of dependent co-arising, are related to the aggregate
 
 > [!example]- 🌐[[MN29]] - 📜[Available texts](obsidian://search?query=file:mn29-) - Mahāsāropama Sutta – Longer Simile of the Heartwood 
->  Following the incident with Devadatta, the Buddha cautions the mendicants against becoming complacent with superficial benefits of spiritual life and points to liberation as the true heart of the teaching
+>  Following the incident with Devadatta, the Buddha cautions the bhikkhus against becoming complacent with superficial benefits of spiritual life and points to liberation as the true heart of the teaching
 
 > [!example]- 🌐[[MN30]] - 📜[Available texts](obsidian://search?query=file:mn30-) - Cūḷasāropama Sutta – Shorter Simile of the Heartwood 
->  Similar to the previous. After the incident with Devadatta, the Buddha cautions the mendicants against becoming complacent and points to liberation as the true heart of the teaching The Buddha compares the rewards of the practice to different parts of a large tree, with total release the most valuable part of the tree: the heartwood
+>  Similar to the previous. After the incident with Devadatta, the Buddha cautions the bhikkhus against becoming complacent and points to liberation as the true heart of the teaching The Buddha compares the rewards of the practice to different parts of a large tree, with total release the most valuable part of the tree: the heartwood
 ### MN31-40 - Mahāyamakavagga - Greater Chapter on Pairs
 > [!example]- 🌐[[MN31]] - 📜[Available texts](obsidian://search?query=file:mn31-) - Cūḷagosiṅga Sutta – Shorter Discourse at Gosiṅga 
->  The Buddha comes across three mendicants practicing diligently and harmoniously, and asks them how they do it. Reluctant to disclose their higher attainments, they explain how they deal with the practical affairs of living together. But when pressed by the Buddha , they reveal their meditation attainments.
+>  The Buddha comes across three bhikkhus practicing diligently and harmoniously, and asks them how they do it. Reluctant to disclose their higher attainments, they explain how they deal with the practical affairs of living together. But when pressed by the Buddha , they reveal their meditation attainments.
 
 > [!example]- 🌐[[MN32]] - 📜[Available texts](obsidian://search?query=file:mn32-) - Mahāgosiṅga Sutta – Discourse at Gosiṅga Longer 
->  Several senior mendicants, reveling in the beauty of the night, discuss what kind of practitioner would adorn the park. They take their answers to the Buddha , who praises their answers, but gives his own twist
+>  Several senior bhikkhus, reveling in the beauty of the night, discuss what kind of practitioner would adorn the park. They take their answers to the Buddha , who praises their answers, but gives his own twist
 
 > [!example]- 🌐[[MN33]] - 📜[Available texts](obsidian://search?query=file:mn33-) - Mahāgopālaka Sutta – Longer Discourse on the Cowherd 
->  For eleven reasons a cowherd is not able to properly look after a herd. The Buddha compares this to the spiritual growth of a mendicant
+>  For eleven reasons a cowherd is not able to properly look after a herd. The Buddha compares this to the spiritual growth of a bhikkhu
 
 > [!example]- 🌐[[MN34]] - 📜[Available texts](obsidian://search?query=file:mn34-) - Cūḷagopālaka Sutta – Shorter Discourse on the Cowherd 
 >  Drawing parallels with a cowherd guiding his herd across a dangerous river, the Buddha presents the various kinds of enlightened disciples who cross the stream of transmigration
@@ -123,7 +123,7 @@ contribution:
 >  To counter the wrong view that a self-identical consciousness transmigrates from one life to the next, the Buddha teaches dependent origination, showing that consciousness invariably arises dependent on conditions. A long discourse in which the Buddha discusses how to understand the role of consciousness — as a process — in the process of birth in a way that actually can lead to the end of birth
 
 > [!example]- 🌐[[MN39]] - 📜[Available texts](obsidian://search?query=file:mn39-) - Mahāassapura Sutta – Discourse at Assapura Longer 
->  The Buddha encourages the mendicants to live up to their name, by actually practicing in a way that meets or exceeds the expectations people have for renunciants The Buddha outlines the full course of training by which a meditator may earn the right to call him- or herself a true contemplative.
+>  The Buddha encourages the bhikkhus to live up to their name, by actually practicing in a way that meets or exceeds the expectations people have for renunciants The Buddha outlines the full course of training by which a meditator may earn the right to call him- or herself a true contemplative.
 
 > [!example]- 🌐[[MN40]] - 📜[Available texts](obsidian://search?query=file:mn40-) - Cūḷaassapura Sutta – Discourse at Assapura Shorter 
 >  The labels of being a spiritual practitioner don’t just come from external trappings, but from sincere inner change.
@@ -213,10 +213,10 @@ contribution:
 >  Those who practice do so not because they are failures, but because they aspire to higher freedom. When he speaks of the attainments of disciples, the Buddha does so in order to inspire
 
 > [!example]- 🌐[[MN69]] - 📜[Available texts](obsidian://search?query=file:mn69-) - Goliyāni Sutta – With Gulissāni 
->  A monk comes down to the community from the wilderness, but doesn’t behave properly. Venerable Sāriputta explains how a mendicant should behave, whether in forest or town
+>  A monk comes down to the community from the wilderness, but doesn’t behave properly. Venerable Sāriputta explains how a bhikkhu should behave, whether in forest or town
 
 > [!example]- 🌐[[MN70]] - 📜[Available texts](obsidian://search?query=file:mn70-) - Kīṭāgiri Sutta – At Kīṭāgiri 
->  A third discourse that presents the health benefits of eating in one part of the day, and the reluctance of some mendicants to follow this. A discourse on the importance of conviction in the buddhist path. Not only is conviction a prerequisite for listening to the Buddha 's teachings with respect, but — as is shown by the unusual discussion here categorizing the types of noble disciples — it can underlie the practice all the way to the deathless.
+>  A third discourse that presents the health benefits of eating in one part of the day, and the reluctance of some bhikkhus to follow this. A discourse on the importance of conviction in the buddhist path. Not only is conviction a prerequisite for listening to the Buddha 's teachings with respect, but — as is shown by the unusual discussion here categorizing the types of noble disciples — it can underlie the practice all the way to the deathless.
 ### MN71-80 - Paribbājakavagga - Ascetics
 > [!example]- 🌐[[MN71]] - 📜[Available texts](obsidian://search?query=file:mn71-) - Tevijjavaccha Sutta – Vacchagotta on the Three Knowledges 
 >  The Buddha denies being omniscient, and sets forth the three higher knowledges that form the core of his awakened insight
@@ -333,7 +333,7 @@ contribution:
 >  Amid rising military tensions after the Buddha ’s death, venerable Ānanda is questioned about how the saṅgha planned to continue in their teacher’s absence. As the Buddha refused to appoint a successor, the teaching and practice that he laid down become the teacher, and the saṅgha resolves issues by consensus Ven. Ananda explains how the Sangha maintains its unity and internal discipline after the passing away of the Buddha [bb]. Interestingly, this sutta also shows that early buddhist practice had no room for many practices that developed in later buddhist traditions, such as appointed lineage holders, elected ecclesiastical heads, or the use of mental defilements as a basis for concentration practice
 
 > [!example]- 🌐[[MN109]] - 📜[Available texts](obsidian://search?query=file:mn109-) - Mahāpuṇṇama Sutta – Longer Discourse on the Full-Moon Night 
->  On a lovely full moon night, one of the mendicants presents the Buddha with a series of questions that go to the heart of the teaching. But when he hears of the doctrine of not-self, another mendicant is unable to grasp the meaning A thorough discussion of issues related to the five aggregates. Toward the end of the discussion, a monk thinks that he has found a loophole in the teaching. The way the Buddha handles this incident shows the proper use of the teachings on the aggregates: not as a metaphysical theory, but as a tool for questioning clinging and so gaining release
+>  On a lovely full moon night, one of the bhikkhus presents the Buddha with a series of questions that go to the heart of the teaching. But when he hears of the doctrine of not-self, another bhikkhu is unable to grasp the meaning A thorough discussion of issues related to the five aggregates. Toward the end of the discussion, a monk thinks that he has found a loophole in the teaching. The way the Buddha handles this incident shows the proper use of the teachings on the aggregates: not as a metaphysical theory, but as a tool for questioning clinging and so gaining release
 
 > [!example]- 🌐[[MN110]] - 📜[Available texts](obsidian://search?query=file:mn110-) - Cūḷapuṇṇama Sutta – Shorter Discourse on the Full-Moon Night 
 >  A good person is able to understand a bad person, but not vice versa
@@ -360,7 +360,7 @@ contribution:
 >  A discourse on the prerequisites of right samādhi that emphasizes the interrelationship and mutual support of all the factors of the eightfold path On the nature of noble right concentration, and its interdependence with all the factors of the noble eightfold path
 
 > [!example]- 🌐[[MN118]] - 📜[Available texts](obsidian://search?query=file:mn118-) - Ānāpānassati Sutta – Mindfulness of Breathing 
->  Surrounded by many well-practiced mendicants, the Buddha teaches mindfulness of breathing in detail, showing how they relate to the four kinds of mindfulness meditation One of the most important texts for beginning and veteran meditators alike, this sutta is the Buddha 's roadmap to the entire course of meditation practice, using the vehicle of breath meditation. The simple practice of mindfulness of breathing leads the practitioner gradually through 16 successive phases of development, culminating in full awakening
+>  Surrounded by many well-practiced bhikkhus, the Buddha teaches mindfulness of breathing in detail, showing how they relate to the four kinds of mindfulness meditation One of the most important texts for beginning and veteran meditators alike, this sutta is the Buddha 's roadmap to the entire course of meditation practice, using the vehicle of breath meditation. The simple practice of mindfulness of breathing leads the practitioner gradually through 16 successive phases of development, culminating in full awakening
 
 > [!example]- 🌐[[MN119]] - 📜[Available texts](obsidian://search?query=file:mn119-) - Kāyagatāsati Sutta – Mindfulness of the Body 
 >  This focuses on the first aspect of mindfulness meditation, the observation of the body. This set of practices, simple as they seem, have far-reaching benefits. This sutta serves as a companion to the Ānāpānasati sutta, and explains the importance of establishing a broad awareness of the body in meditation to develop jhana
@@ -372,13 +372,13 @@ contribution:
 >  The Buddha describes his own practice of the meditation on emptiness. The Buddha instructs ven. Ananda on the practice that leads to the "entry into emptiness," the doorway to liberation
 
 > [!example]- 🌐[[MN122]] - 📜[Available texts](obsidian://search?query=file:mn122-) - Mahāsuññata Sutta – Longer Discourse on Emptiness 
->  A group of mendicants have taken to socializing too much, so the Buddha teaches on the importance of seclusion in order to enter fully into emptiness Issues include the need for seclusion as a conducive setting for the practice, types of conversation and thinking that are beneficial and harmful for the practice, the dangers of being distracted by visitors, and the proper attitude to have toward one's teacher The Buddha instructs Ananda on several practical aspects of the meditative dwelling in emptiness, a mode of awareness that can ultimately bring the meditator to the threshold of awakening
+>  A group of bhikkhus have taken to socializing too much, so the Buddha teaches on the importance of seclusion in order to enter fully into emptiness Issues include the need for seclusion as a conducive setting for the practice, types of conversation and thinking that are beneficial and harmful for the practice, the dangers of being distracted by visitors, and the proper attitude to have toward one's teacher The Buddha instructs Ananda on several practical aspects of the meditative dwelling in emptiness, a mode of awareness that can ultimately bring the meditator to the threshold of awakening
 
 > [!example]- 🌐[[MN123]] - 📜[Available texts](obsidian://search?query=file:mn123-) - Acchariyaabbhuta Sutta – Incredible and Amazing 
 >  Venerable Ananda is invited by the Buddha to speak on the Buddha ’s amazing qualities, and proceeds to list a series of apparently miraculous events accompanying his birth. The Buddha caps it off by explaining what he thinks is really amazing about himself
 
 > [!example]- 🌐[[MN124]] - 📜[Available texts](obsidian://search?query=file:mn124-) - Bākula Sutta – With Bakkula 
->  Venerable Bakkula, regarded as the healthiest of the mendicants, explains to an old friend his strict and austere practice. The unusual form of this discourse suggests it was added to the canon some time after the Buddha ’s death
+>  Venerable Bakkula, regarded as the healthiest of the bhikkhus, explains to an old friend his strict and austere practice. The unusual form of this discourse suggests it was added to the canon some time after the Buddha ’s death
 
 > [!example]- 🌐[[MN125]] - 📜[Available texts](obsidian://search?query=file:mn125-) - Dantabhūmi Sutta  – Level of the Tamed 
 >  By analogy with the taming of an elephant, the Buddha explains how he tames his disciples.
@@ -390,7 +390,7 @@ contribution:
 >  A lay person becomes confused when encouraged to develop the “limitless” and “expansive” liberations, and asks venerable anuruddha to explain whether they are the same or different
 
 > [!example]- 🌐[[MN128]] - 📜[Available texts](obsidian://search?query=file:mn128-) - Upakkilesa Sutta – Corruptions 
->  A second discourse set at the quarrel of kosambi, this depicts the Buddha , having failed to achieve reconciliation between the disputing mendicants, leaving the monastery. He spends time in the wilderness before encountering an inspiring community of practicing monks. There he discusses in detail obstacles to meditation that he encountered before awakening
+>  A second discourse set at the quarrel of kosambi, this depicts the Buddha , having failed to achieve reconciliation between the disputing bhikkhus, leaving the monastery. He spends time in the wilderness before encountering an inspiring community of practicing monks. There he discusses in detail obstacles to meditation that he encountered before awakening
 
 > [!example]- 🌐[[MN129]] - 📜[Available texts](obsidian://search?query=file:mn129-) - Bālapaṇḍita Sutta – Foolish and the Astute 
 >  A fool suffers both in this life and the next, while the astute benefits in both respects
@@ -420,7 +420,7 @@ contribution:
 >  A detailed analysis of the six senses and the relation to emotional and cognitive processes A discussion of the emotions: where they come from, how they function in the path of practice, and how they manifest in an awakened person who is fit to teach others
 
 > [!example]- 🌐[[MN138]] - 📜[Available texts](obsidian://search?query=file:mn138-) - Uddesavibhaṅga Sutta – Analysis of a Recitation Passage 
->  The Buddha gives a brief and enigmatic statement on the ways consciousness may become attached. Venerable mahākaccāna is invited by the mendicants to draw out the implications
+>  The Buddha gives a brief and enigmatic statement on the ways consciousness may become attached. Venerable mahākaccāna is invited by the bhikkhus to draw out the implications
 
 > [!example]- 🌐[[MN139]] - 📜[Available texts](obsidian://search?query=file:mn139-) - Araṇavibhaṅga Sutta – Analysis of Non-Conflict 
 >  Achieving peace is no simple matter. The Buddha explains how to avoid conflict through contentment, right speech, understanding pleasure, and not insisting on local conventions
@@ -459,7 +459,7 @@ contribution:
 >  In discussion with a group of householders, the Buddha helps them to distinguish those spiritual practitioners who are truly worthy of respect
 
 > [!example]- 🌐[[MN151]] - 📜[Available texts](obsidian://search?query=file:mn151-) - Piṇḍapātapārisuddhi Sutta – Purification of Alms 
->  The Buddha notices venerable Sāriputta’s glowing complexion, which is the result of his deep meditation. He then presents a series of reflections by which a mendicant can be sure that they are worthy of their alms-food
+>  The Buddha notices venerable Sāriputta’s glowing complexion, which is the result of his deep meditation. He then presents a series of reflections by which a bhikkhu can be sure that they are worthy of their alms-food
 
 > [!example]- 🌐[[MN152]] - 📜[Available texts](obsidian://search?query=file:mn152-) - Indriyabhāvanā Sutta – Development of the Faculties 
 >  A brahmin teacher advocates that purification of the senses consists in simply avoiding seeing and hearing things. The Buddha explains that it is not about avoiding sense experience, but understanding it and learning to not be affected by sense experience

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 84
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, these three persons, appearing in the world, appear for the benefit of many, the happiness of many, in sympathy for the world–for the welfare, the benefit, the happiness of beings human & divine. Which three?
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, these three persons, appearing in the world, appear for the benefit of many, the happiness of many, in sympathy for the world–for the welfare, the benefit, the happiness of beings human & divine. Which three?
 
 “There is the case where a Tathāgata appears in the world, worthy & rightly self-awakened, consummate in clear knowing & conduct, well-gone, an expert with regard to the cosmos, unsurpassed trainer of tamable people, teacher of beings human & divine, awakened, blessed. He teaches the Dhamma admirable in its beginning, admirable in its middle, admirable in its end. He proclaims the holy life both in its particulars & in its essence, entirely perfect, surpassingly pure. This is the first person who, appearing in the world, appears for the benefit of many, the happiness of many, in sympathy for the world–for the welfare, the benefit, the happiness of beings human & divine.
 

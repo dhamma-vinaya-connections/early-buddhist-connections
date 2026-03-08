@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.18.1.1* *BD.3.277* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the nun who was the pupil of Bhaddā Kāpilānī[^1] attended on Bhaddā Kāpilānī respectfully. Bhaddā Kāpilānī spoke thus to the nuns: “Ladies, this nun attends on me respectfully, I will give her this robe.” Then that nun, because of a misapprehension,[^2] because of a misunderstanding,[^3] saying: “Ladies, they say that I do not attend respectfully upon the lady, they do not say that she will give me a robe,” made (someone) look down upon another. Those who were modest nuns … spread it about, saying: “How can this nun because of a misapprehension, because of a misunderstanding, make (someone) look down upon another?” …
 
-“Is it true, as is said, monks, that a nun … made (someone) look down upon another?”
+“Is it true, as is said, bhikkhus, that a nun … made (someone) look down upon another?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can a nun, because of a misapprehension, because of a misunderstanding, make (someone) look down upon another? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can a nun, because of a misapprehension, because of a misunderstanding, make (someone) look down upon another? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, because of a misapprehension, because of a misunderstanding, should make (someone) look down upon another, there is an offence of expiation.”
 

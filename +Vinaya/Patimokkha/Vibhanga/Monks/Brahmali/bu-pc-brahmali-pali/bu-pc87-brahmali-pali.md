@@ -16,12 +16,12 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, Venerable Upananda the Sakyan was sleeping on a high bed. On one occasion, as the Buddha and a number of monks were walking about the dwellings, they came to Upananda’s dwelling. Upananda saw the Buddha coming and said to him, “Venerable Sir, please come and see my bed.”
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, Venerable Upananda the Sakyan was sleeping on a high bed. On one occasion, as the Buddha and a number of bhikkhus were walking about the dwellings, they came to Upananda’s dwelling. Upananda saw the Buddha coming and said to him, “Venerable Sir, please come and see my bed.”
 
 
-The Buddha turned around on the spot and addressed the monks: “A fool, monks, can be recognized by his sleeping place.”
+The Buddha turned around on the spot and addressed the bhikkhus: “A fool, bhikkhus, can be recognized by his sleeping place.”
 
-After rebuking Upananda in many ways, the Buddha spoke in dispraise of being difficult to support … the Buddha said, “And, monks, this training rule should be recited like this:
+After rebuking Upananda in many ways, the Buddha spoke in dispraise of being difficult to support … the Buddha said, “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

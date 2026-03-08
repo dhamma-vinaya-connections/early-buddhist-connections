@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are three accomplishments. What three? Accomplishment in faith, ethics, and wisdom. These are the three accomplishments.”
+1“bhikkhus, there are three accomplishments. What three? Accomplishment in faith, ethics, and wisdom. These are the three accomplishments.”
 
 1"Tisso imā, bhikkhave, sampadā. Katamā tisso? Saddhāsampadā, sīlasampadā, paññāsampadā – imā kho, bhikkhave, tisso sampadā"ti.
 

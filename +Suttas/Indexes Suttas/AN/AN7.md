@@ -9,10 +9,10 @@ contribution:
 
 ### AN7 - Dhanvagga - Wealth
 > [!example]- 🌐[[AN7.1]] - 📜[Available texts](obsidian://search?query=file:an7.1-) - Paṭhamapiya – Pleasing 
->  Seven qualities that make a mendicant either agreeable or disagreeable to their fellow monastics
+>  Seven qualities that make a bhikkhu either agreeable or disagreeable to their fellow monastics
 
 > [!example]- 🌐[[AN7.2]] - 📜[Available texts](obsidian://search?query=file:an7.2-) - Paṭhamapiya – Pleasing 
->  Seven qualities that make a mendicant either agreeable or disagreeable to their fellow monastics
+>  Seven qualities that make a bhikkhu either agreeable or disagreeable to their fellow monastics
 
 > [!example]- 🌐[[AN7.3]] - 📜[Available texts](obsidian://search?query=file:an7.3-) - Vitthatabala – Powers In Detail 
 >  Powers of faith, energy, conscience, prudence, mindfulness, samādhi, and wisdom
@@ -69,7 +69,7 @@ contribution:
 >  Seven persons who are worthy of gifts and veneration.
 
 > [!example]- 🌐[[AN7.20]] - 📜[Available texts](obsidian://search?query=file:an7.20-) - Niddasavatthu – Graduation Qualifications 
->  A mendicant with seven qualities is qualified to graduate
+>  A bhikkhu with seven qualities is qualified to graduate
 
 > [!example]- 🌐[[AN7.21]] - 📜[Available texts](obsidian://search?query=file:an7.21-) - Sārandada – At Sārandada 
 >  The Buddha  teaches the seven principles of non-decline to the licchavis at the sārandada shrine near vesālī
@@ -80,23 +80,23 @@ contribution:
 > [!example]- 🌐[[AN7.22]] - 📜[Available texts](obsidian://search?query=file:an7.22-) - Sārandada – At Sārandada 
 >  The Buddha  teaches the seven principles of non-decline to the licchavis at the sārandada shrine near vesālī
 
-> [!example]- 🌐[[AN7.23]] - 📜[Available texts](obsidian://search?query=file:an7.23-) - Bhikkhu-Aparihaniya – Non-Decline For Mendicants 
->  The Buddha  teaches the seven principles of non-decline to the mendicants
+> [!example]- 🌐[[AN7.23]] - 📜[Available texts](obsidian://search?query=file:an7.23-) - Bhikkhu-Aparihaniya – Non-Decline For bhikkhus 
+>  The Buddha  teaches the seven principles of non-decline to the bhikkhus
 
-> [!example]- 🌐[[AN7.24]] - 📜[Available texts](obsidian://search?query=file:an7.24-) - Paṭhamaparihāni – Non-Decline For A Mendicant Trainee 
->  Seven qualities leading to the decline of a mendicant who is a trainee
+> [!example]- 🌐[[AN7.24]] - 📜[Available texts](obsidian://search?query=file:an7.24-) - Paṭhamaparihāni – Non-Decline For A bhikkhu Trainee 
+>  Seven qualities leading to the decline of a bhikkhu who is a trainee
 
-> [!example]- 🌐[[AN7.25]] - 📜[Available texts](obsidian://search?query=file:an7.25-) - Bhikkhu-Aparihaniya – Non-Decline For Mendicants 
->  The Buddha  teaches the seven principles of non-decline to the mendicants
+> [!example]- 🌐[[AN7.25]] - 📜[Available texts](obsidian://search?query=file:an7.25-) - Bhikkhu-Aparihaniya – Non-Decline For bhikkhus 
+>  The Buddha  teaches the seven principles of non-decline to the bhikkhus
 
-> [!example]- 🌐[[AN7.26]] - 📜[Available texts](obsidian://search?query=file:an7.26-) - Bhikkhu-Aparihaniya – Non-Decline For Mendicants 
->  The Buddha  teaches the seven principles of non-decline to the mendicants
+> [!example]- 🌐[[AN7.26]] - 📜[Available texts](obsidian://search?query=file:an7.26-) - Bhikkhu-Aparihaniya – Non-Decline For bhikkhus 
+>  The Buddha  teaches the seven principles of non-decline to the bhikkhus
 
 > [!example]- 🌐[[AN7.27]] - 📜[Available texts](obsidian://search?query=file:an7.27-) - Saññā – Perceptions 
->  The Buddha  teaches seven principles of non-decline to the mendicants
+>  The Buddha  teaches seven principles of non-decline to the bhikkhus
 
-> [!example]- 🌐[[AN7.28]] - 📜[Available texts](obsidian://search?query=file:an7.28-) - Paṭhamaparihāni – Non-Decline For A Mendicant Trainee 
->  Seven qualities leading to the decline of a mendicant who is a trainee
+> [!example]- 🌐[[AN7.28]] - 📜[Available texts](obsidian://search?query=file:an7.28-) - Paṭhamaparihāni – Non-Decline For A bhikkhu Trainee 
+>  Seven qualities leading to the decline of a bhikkhu who is a trainee
 
 > [!example]- 🌐[[AN7.29]] - 📜[Available texts](obsidian://search?query=file:an7.29-) - Dutiyaparihāni – Non-Decline For Lay Follower 
 >  The Buddha  teaches seven principles of non-decline for lay followers
@@ -108,16 +108,16 @@ contribution:
 >  The Buddha  teaches seven principles of non-decline for lay followers
 
 > [!example]- 🌐[[AN7.32]] - 📜[Available texts](obsidian://search?query=file:an7.32-) - Appamādagārava – Diligence Respect 
->  A god speaks of the the seven principles of non-decline to the Buddha , who repeats it to the mendicants
+>  A god speaks of the the seven principles of non-decline to the Buddha , who repeats it to the bhikkhus
 
 > [!example]- 🌐[[AN7.33]] - 📜[Available texts](obsidian://search?query=file:an7.33-) - Appamādagārava – Diligence Respect 
->  A god speaks of the the seven principles of non-decline to the Buddha , who repeats it to the mendicants
+>  A god speaks of the the seven principles of non-decline to the Buddha , who repeats it to the bhikkhus
 
 > [!example]- 🌐[[AN7.34]] - 📜[Available texts](obsidian://search?query=file:an7.34-) - Appamādagārava – Diligence Respect 
->  A god speaks of the the seven principles of non-decline to the Buddha , who repeats it to the mendicants
+>  A god speaks of the the seven principles of non-decline to the Buddha , who repeats it to the bhikkhus
 
 > [!example]- 🌐[[AN7.35]] - 📜[Available texts](obsidian://search?query=file:an7.35-) - Appamādagārava – Diligence Respect 
->  A god speaks of the the seven principles of non-decline to the Buddha , who repeats it to the mendicants
+>  A god speaks of the the seven principles of non-decline to the Buddha , who repeats it to the bhikkhus
 
 > [!example]- 🌐[[AN7.36]] - 📜[Available texts](obsidian://search?query=file:an7.36-) - Mitta – Friend 
 >  When a friend has seven factors, one should associate with them
@@ -126,10 +126,10 @@ contribution:
 >  When a friend has seven factors, one should associate with them
 
 > [!example]- 🌐[[AN7.38]] - 📜[Available texts](obsidian://search?query=file:an7.38-) - Paṭisambhidā – Textual Analysis 
->  With seven qualities, a mendicant will soon realize the four kinds of textual analysis
+>  With seven qualities, a bhikkhu will soon realize the four kinds of textual analysis
 
 > [!example]- 🌐[[AN7.39]] - 📜[Available texts](obsidian://search?query=file:an7.39-) - Paṭisambhidā – Textual Analysis 
->  With seven qualities, a mendicant will soon realize the four kinds of textual analysis
+>  With seven qualities, a bhikkhu will soon realize the four kinds of textual analysis
 
 > [!example]- 🌐[[AN7.40]] - 📜[Available texts](obsidian://search?query=file:an7.40-) - Vasa – Mind Mastery 
 >  Seven qualities leading to mastery of meditation
@@ -138,10 +138,10 @@ contribution:
 >  Seven qualities leading to mastery of meditation
 
 > [!example]- 🌐[[AN7.42]] - 📜[Available texts](obsidian://search?query=file:an7.42-) - Niddasa – Graduation 
->  Sāriputta visits a sectarian hermitage and hears them saying that someone who lives the spiritual life for twelve years is fit to graduate. The Buddha  rejects this, saying that a mendicant is qualified to graduate not merely by completing a certain number of years, but because of their spiritual qualities.
+>  Sāriputta visits a sectarian hermitage and hears them saying that someone who lives the spiritual life for twelve years is fit to graduate. The Buddha  rejects this, saying that a bhikkhu is qualified to graduate not merely by completing a certain number of years, but because of their spiritual qualities.
 
 > [!example]- 🌐[[AN7.43]] - 📜[Available texts](obsidian://search?query=file:an7.43-) - Niddasa – Graduation 
->  Sāriputta visits a sectarian hermitage and hears them saying that someone who lives the spiritual life for twelve years is fit to graduate. The Buddha  rejects this, saying that a mendicant is qualified to graduate not merely by completing a certain number of years, but because of their spiritual qualities.
+>  Sāriputta visits a sectarian hermitage and hears them saying that someone who lives the spiritual life for twelve years is fit to graduate. The Buddha  rejects this, saying that a bhikkhu is qualified to graduate not merely by completing a certain number of years, but because of their spiritual qualities.
 
 > [!example]- 🌐[[AN7.44]] - 📜[Available texts](obsidian://search?query=file:an7.44-) - Sattaviññāṇaṭṭhiti – Consciousness Planes 
 >  Seven planes of consciousness in which beings may be reborn
@@ -216,13 +216,13 @@ contribution:
 >  When a king’s fortress is well supplied with seven things and has four kinds of food supplies it is impregnable. Similarly, a noble disciple with seven qualities and the four absorptions is impregnable
 
 > [!example]- 🌐[[AN7.68]] - 📜[Available texts](obsidian://search?query=file:an7.68-) - Dhammaññū – Knows The Teachings 
->  A mendicant who has seven qualities is worthy, with a special emphasis on listening to and learning the teaching
+>  A bhikkhu who has seven qualities is worthy, with a special emphasis on listening to and learning the teaching
 
 > [!example]- 🌐[[AN7.69]] - 📜[Available texts](obsidian://search?query=file:an7.69-) - Pāricchattaka – Orchid Tree 
 >  The blossoming of the shady orchid tree delights the gods of the thirty-three, and in the same way, the renunciation of a buddhist ascetic is delightful
 
 > [!example]- 🌐[[AN7.70]] - 📜[Available texts](obsidian://search?query=file:an7.70-) - Sakkacca – Honor 
->  Sāriputta reflects on what a mendicant should revere in order to develop the wholesome. He reports to the Buddha  that these things are indeed found in himself
+>  Sāriputta reflects on what a bhikkhu should revere in order to develop the wholesome. He reports to the Buddha  that these things are indeed found in himself
 
 > [!example]- 🌐[[AN7.71]] - 📜[Available texts](obsidian://search?query=file:an7.71-) - Bhāvanā – Development Commitment 
 >  Liberation doesn’t happen because you wish for it, but because you develop the path
@@ -269,28 +269,28 @@ contribution:
 > [!example]- 🌐[[AN7.84]] - 📜[Available texts](obsidian://search?query=file:an7.84-) - Adhikaraṇasamatha – Disciplinary Issues Settlement 
 >  Seven principles for settling issues and disputes that have arisen in the community
 
-> [!example]- 🌐[[AN7.85]] - 📜[Available texts](obsidian://search?query=file:an7.85-) - Bhikkhu – Mendicant 
+> [!example]- 🌐[[AN7.85]] - 📜[Available texts](obsidian://search?query=file:an7.85-) - Bhikkhu – bhikkhu 
 >  It’s by being far from seven things that you become a perfected one
 
-> [!example]- 🌐[[AN7.86]] - 📜[Available texts](obsidian://search?query=file:an7.86-) - Bhikkhu – Mendicant 
+> [!example]- 🌐[[AN7.86]] - 📜[Available texts](obsidian://search?query=file:an7.86-) - Bhikkhu – bhikkhu 
 >  It’s by being far from seven things that you become a perfected one
 
-> [!example]- 🌐[[AN7.87]] - 📜[Available texts](obsidian://search?query=file:an7.87-) - Bhikkhu – Mendicant 
+> [!example]- 🌐[[AN7.87]] - 📜[Available texts](obsidian://search?query=file:an7.87-) - Bhikkhu – bhikkhu 
 >  It’s by being far from seven things that you become a perfected one
 
-> [!example]- 🌐[[AN7.88]] - 📜[Available texts](obsidian://search?query=file:an7.88-) - Bhikkhu – Mendicant 
+> [!example]- 🌐[[AN7.88]] - 📜[Available texts](obsidian://search?query=file:an7.88-) - Bhikkhu – bhikkhu 
 >  It’s by being far from seven things that you become a perfected one
 
-> [!example]- 🌐[[AN7.89]] - 📜[Available texts](obsidian://search?query=file:an7.89-) - Bhikkhu – Mendicant 
+> [!example]- 🌐[[AN7.89]] - 📜[Available texts](obsidian://search?query=file:an7.89-) - Bhikkhu – bhikkhu 
 >  It’s by being far from seven things that you become a perfected one
 
-> [!example]- 🌐[[AN7.90]] - 📜[Available texts](obsidian://search?query=file:an7.90-) - Bhikkhu – Mendicant 
+> [!example]- 🌐[[AN7.90]] - 📜[Available texts](obsidian://search?query=file:an7.90-) - Bhikkhu – bhikkhu 
 >  It’s by being far from seven things that you become a perfected one
 
-> [!example]- 🌐[[AN7.91]] - 📜[Available texts](obsidian://search?query=file:an7.91-) - Bhikkhu – Mendicant 
+> [!example]- 🌐[[AN7.91]] - 📜[Available texts](obsidian://search?query=file:an7.91-) - Bhikkhu – bhikkhu 
 >  It’s by being far from seven things that you become a perfected one
 
-> [!example]- 🌐[[AN7.92]] - 📜[Available texts](obsidian://search?query=file:an7.92-) - Bhikkhu – Mendicant 
+> [!example]- 🌐[[AN7.92]] - 📜[Available texts](obsidian://search?query=file:an7.92-) - Bhikkhu – bhikkhu 
 >  It’s by being far from seven things that you become a perfected one
 
 > [!example]- 🌐[[AN7.93]] - 📜[Available texts](obsidian://search?query=file:an7.93-) - Saddhamma – Good Qualities 

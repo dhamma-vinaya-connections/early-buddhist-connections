@@ -23,7 +23,7 @@ language: "English"
 
 3. The Buddha told Ānanda, “The religious practice is entirely, fully, and purely good friends. What is the reason for that? It was because of good friends that I led sentient beings to cultivate right view by relying on seclusion, having no desire, cessation, and being oriented toward renunciation … to cultivate right _samādhi_ by relying on seclusion, having no desire, cessation, and an orientation towards renunciation.”
 
-4. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+4. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

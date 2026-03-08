@@ -29,13 +29,13 @@ Then in the late afternoon, Venerable Puṇṇa came out of retreat and went to 
 “Yes, sir,” replied Puṇṇa. The Buddha said this:
 
 
-2“Puṇṇa, there are sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. If a mendicant approves, welcomes, and keeps clinging to them, this gives rise to relishing. Relishing is the origin of suffering, I say.
+2“Puṇṇa, there are sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. If a bhikkhu approves, welcomes, and keeps clinging to them, this gives rise to relishing. Relishing is the origin of suffering, I say.
 
-3There are sounds known by the ear … smells known by the nose … tastes known by the tongue … touches known by the body … thoughts known by the mind that are likable, desirable, agreeable, pleasant, sensual, and arousing. If a mendicant approves, welcomes, and keeps clinging to them, this gives rise to relishing. Relishing is the origin of suffering, I say.
+3There are sounds known by the ear … smells known by the nose … tastes known by the tongue … touches known by the body … thoughts known by the mind that are likable, desirable, agreeable, pleasant, sensual, and arousing. If a bhikkhu approves, welcomes, and keeps clinging to them, this gives rise to relishing. Relishing is the origin of suffering, I say.
 
-4There are sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. If a mendicant doesn’t approve, welcome, and keep clinging to them, relishing ceases. When relishing ceases, suffering ceases, I say.
+4There are sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. If a bhikkhu doesn’t approve, welcome, and keep clinging to them, relishing ceases. When relishing ceases, suffering ceases, I say.
 
-5There are sounds known by the ear … smells known by the nose … tastes known by the tongue … touches known by the body … thoughts known by the mind that are likable, desirable, agreeable, pleasant, sensual, and arousing. If a mendicant doesn’t approve, welcome, and keep clinging to them, relishing ceases. When relishing ceases, suffering ceases, I say.
+5There are sounds known by the ear … smells known by the nose … tastes known by the tongue … touches known by the body … thoughts known by the mind that are likable, desirable, agreeable, pleasant, sensual, and arousing. If a bhikkhu doesn’t approve, welcome, and keep clinging to them, relishing ceases. When relishing ceases, suffering ceases, I say.
 
 
 6Puṇṇa, now that I’ve given you this brief advice, what country will you live in?”
@@ -72,12 +72,12 @@ Then in the late afternoon, Venerable Puṇṇa came out of retreat and went to 
 
 13And then Puṇṇa welcomed and agreed with the Buddha’s words. He got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right. Then he set his lodgings in order and, taking his bowl and robe, set out for Sunāparanta. Traveling stage by stage, he arrived at Sunāparanta, and stayed there. Within that rainy season he confirmed around five hundred male and five hundred female lay followers. And within that same rainy season he realized the three knowledges. Some time later he became fully extinguished.
 
-14Then several mendicants went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, the gentleman named Puṇṇa, who was advised in brief by the Buddha, has passed away. Where has he been reborn in his next life?”
+14Then several bhikkhus went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, the gentleman named Puṇṇa, who was advised in brief by the Buddha, has passed away. Where has he been reborn in his next life?”
 
-“Mendicants, Puṇṇa was astute. He practiced in line with the teachings, and did not trouble me about the teachings. Puṇṇa has become completely extinguished.”
+“bhikkhus, Puṇṇa was astute. He practiced in line with the teachings, and did not trouble me about the teachings. Puṇṇa has become completely extinguished.”
 
 
-15That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+15That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Two people, mendicants, arise in the world who are incredible human beings. What two? The Realized One, the perfected one, the fully awakened Buddha; and the wheel-turning monarch. These are the two people who arise in the world who are incredible human beings.”
+1“Two people, bhikkhus, arise in the world who are incredible human beings. What two? The Realized One, the perfected one, the fully awakened Buddha; and the wheel-turning monarch. These are the two people who arise in the world who are incredible human beings.”
 
 1"Dveme, bhikkhave, puggalā loke uppajjamānā uppajjanti acchariyamanussā. Katame dve? Tathāgato ca arahaṁ sammāsambuddho, rājā ca cakkavattī. Ime kho, bhikkhave, dve puggalā loke uppajjamānā uppajjanti acchariyamanussā"ti.
 

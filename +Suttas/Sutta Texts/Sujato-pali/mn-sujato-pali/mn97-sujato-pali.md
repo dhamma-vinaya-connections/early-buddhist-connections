@@ -20,11 +20,11 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground.
 
-Now at that time Venerable Sāriputta was wandering in the Southern Hills together with a large Saṅgha of mendicants. Then a certain mendicant who had completed the rainy season residence in Rājagaha went to the Southern Hills, where he approached Venerable Sāriputta, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side. Sāriputta said to him: “Reverend, I hope the Buddha is healthy and well?”
+Now at that time Venerable Sāriputta was wandering in the Southern Hills together with a large Saṅgha of bhikkhus. Then a certain bhikkhu who had completed the rainy season residence in Rājagaha went to the Southern Hills, where he approached Venerable Sāriputta, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side. Sāriputta said to him: “Reverend, I hope the Buddha is healthy and well?”
 
 “He is, reverend.”
 
-“And I hope that the mendicant Saṅgha is healthy and well.”
+“And I hope that the bhikkhu Saṅgha is healthy and well.”
 
 
 “It is.”
@@ -148,9 +148,9 @@ Some time later Dhanañjāni became sick, suffering, gravely ill. Then he addres
 “Yes, sir,” replied Dhanañjāni. Venerable Sāriputta said this:
 
 
-“And what is a path to companionship with Brahmā? Firstly, a mendicant meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. This is a path to companionship with Brahmā.
+“And what is a path to companionship with Brahmā? Firstly, a bhikkhu meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. This is a path to companionship with Brahmā.
 
-27Furthermore, a mendicant meditates spreading a heart full of compassion …
+27Furthermore, a bhikkhu meditates spreading a heart full of compassion …
 
 They meditate spreading a heart full of rejoicing …
 
@@ -162,7 +162,7 @@ They meditate spreading a heart full of equanimity to one direction, and to the 
 Then Sāriputta, after establishing Dhanañjāni in the inferior Brahmā realm, got up from his seat and left while there was still more left to do. Not long after Sāriputta had departed, Dhanañjāni passed away and was reborn in the Brahmā realm.
 
 
-28Then the Buddha said to the mendicants: “Mendicants, Sāriputta, after establishing Dhanañjāni in the inferior Brahmā realm, got up from his seat and left while there was still more left to do.”
+28Then the Buddha said to the bhikkhus: “bhikkhus, Sāriputta, after establishing Dhanañjāni in the inferior Brahmā realm, got up from his seat and left while there was still more left to do.”
 
 Then Sāriputta went to the Buddha, bowed, sat down to one side, and said: “Sir, the brahmin Dhanañjāni is sick, suffering, gravely ill. He bows with his head to your feet.”
 

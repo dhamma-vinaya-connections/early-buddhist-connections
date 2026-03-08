@@ -148,7 +148,7 @@ For another sense in which the Buddha has seen the root, see [[mn1-thanissaro]].
 
 5. AN 3:32 and [[an4.41-thanissaro]] contain discussions of the last verse in this poem. [↩︎](#^snp5-3-05-ref) ^snp5-3-05
 
-In AN 3:32, Ven. Ānanda asks the Buddha, “Could it be that a monk could attain a samādhi of such a sort such that, with regard to this conscious body, he would have no ‘I’-making or ‘mine’-making or obsession with conceit, such that with regard to all external themes [topics of samādhi] he would have no ‘I’-making or ‘mine’-making or obsession with conceit, and that he would enter & remain in the awareness-release & discernment-release in which there is no ‘I’-making or ‘mine’-making or obsession with conceit?”
+In AN 3:32, Ven. Ānanda asks the Buddha, “Could it be that a bhikkhu could attain a samādhi of such a sort such that, with regard to this conscious body, he would have no ‘I’-making or ‘mine’-making or obsession with conceit, such that with regard to all external themes [topics of samādhi] he would have no ‘I’-making or ‘mine’-making or obsession with conceit, and that he would enter & remain in the awareness-release & discernment-release in which there is no ‘I’-making or ‘mine’-making or obsession with conceit?”
 
 The Buddha answers that it is possible, and that such a samādhi can be attained when one is percipient in this way: “This is peace, this is exquisite—the pacification of all fabrications; the relinquishing of all acquisitions; the ending of craving; dispassion; cessation; unbinding.” He then adds that it was in connection to this state of mind that he uttered the last verse in this poem.
 

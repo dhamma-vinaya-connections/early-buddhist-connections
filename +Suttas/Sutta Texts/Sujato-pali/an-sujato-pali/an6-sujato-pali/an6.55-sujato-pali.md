@@ -65,9 +65,9 @@ He understood: “Rebirth is ended; the spiritual journey has been completed; wh
 
 9Then, when Soṇa had attained perfection, he thought: “Why don’t I go to the Buddha and declare my enlightenment in his presence?” Then Soṇa went up to the Buddha, bowed, sat down to one side, and said to him:
 
-10“Sir, a mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — is dedicated to six things. They are dedicated to renunciation, seclusion, kindness, the ending of craving, the ending of grasping, and mental clarity.
+10“Sir, a bhikkhu who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — is dedicated to six things. They are dedicated to renunciation, seclusion, kindness, the ending of craving, the ending of grasping, and mental clarity.
 
-11It may be, sir, that one of the venerables here thinks: ‘Maybe this venerable is dedicated to renunciation solely out of mere faith.’ But it should not be seen like this. A mendicant with defilements ended does not see in themselves anything more to do, or anything that needs improvement. They’re dedicated to renunciation because they’re free of greed, hate, and delusion with the end of greed, hate, and delusion.
+11It may be, sir, that one of the venerables here thinks: ‘Maybe this venerable is dedicated to renunciation solely out of mere faith.’ But it should not be seen like this. A bhikkhu with defilements ended does not see in themselves anything more to do, or anything that needs improvement. They’re dedicated to renunciation because they’re free of greed, hate, and delusion with the end of greed, hate, and delusion.
 
 12It may be, sir, that one of the venerables here thinks: ‘Maybe this venerable is dedicated to seclusion because they enjoy possessions, honor, and popularity.’ But it should not be seen like this. …
 
@@ -82,12 +82,12 @@ He understood: “Rebirth is ended; the spiritual journey has been completed; wh
 16They’re dedicated to clarity of mind because they’re free of greed, hate, and delusion with the end of greed, hate, and delusion.
 
 
-17When a mendicant’s mind is rightly freed like this, even if compelling sights come into the range of vision they don’t overcome their mind. The mind remains unaffected. It is steady, imperturbable, observing disappearance. Even if compelling sounds … smells … tastes … touches … and thoughts come into the range of the mind they don’t overcome the mind. The mind remains unaffected. It is steady, imperturbable, observing disappearance.
+17When a bhikkhu’s mind is rightly freed like this, even if compelling sights come into the range of vision they don’t overcome their mind. The mind remains unaffected. It is steady, imperturbable, observing disappearance. Even if compelling sounds … smells … tastes … touches … and thoughts come into the range of the mind they don’t overcome the mind. The mind remains unaffected. It is steady, imperturbable, observing disappearance.
 
 
 Suppose there was a mountain that was one solid mass of rock, without cracks or holes. Even if violent storms were to blow up out of the east, the west, the north, and the south, they couldn’t make it shake or rock or tremble.
 
-In the same way, when a mendicant’s mind is rightly freed like this, even if compelling sights come into the range of vision they don’t overcome their mind. … The mind remains unaffected. It is steady, imperturbable, observing disappearance.
+In the same way, when a bhikkhu’s mind is rightly freed like this, even if compelling sights come into the range of vision they don’t overcome their mind. … The mind remains unaffected. It is steady, imperturbable, observing disappearance.
 
 
 18When you’re dedicated to renunciation  
@@ -101,7 +101,7 @@ and you’ve seen the arising of the senses,
 your mind is rightly freed.
 
 20For that one, rightly freed,  
-a mendicant with peaceful mind,  
+a bhikkhu with peaceful mind,  
 there’s nothing to be improved,  
 and nothing more to do.
 

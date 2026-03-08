@@ -44,7 +44,7 @@ parallels_partilal: "[[PE1]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant who has seven qualities is worthy, with a special emphasis on listening to and learning the teaching
+> A bhikkhu who has seven qualities is worthy, with a special emphasis on listening to and learning the teaching
 
 > [!info] Key Excerpts 
 > Knows the teachings, knows the meaning, has self-knowledge, knows restraint, knows the right time, knows assemblies, and knows people high and low

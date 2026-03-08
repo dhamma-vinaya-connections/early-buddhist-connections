@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 6: Groups of Six Verses
 
@@ -144,7 +144,7 @@ you rightly discern the Dhamma.
 
 399When a person lives heedlessly,  
 craving grows in them like a camel’s foot creeper.  
-They jump from life to life, like a monkey  
+They jump from life to life, like a bhikkhuey  
 greedy for fruit in a forest grove.
 
 400Whoever is beaten by this wretched craving,  
@@ -296,7 +296,7 @@ I was stiff with pride, lacking regard for others.
 426When I saw the foremost leader,  
 the most excellent of charioteers,  
 shining like the sun,  
-at the fore of the mendicant Saṅgha,
+at the fore of the bhikkhu Saṅgha,
 
 427I discarded conceit and vanity,  
 and, with a clear and confident heart,  
@@ -345,7 +345,7 @@ that novice Sumana has the wish:
 435"Struck by a wind ailment,  
 While staying in a forest grove;  
 You’ve gone into a tough place for gathering alms:  
-How will you get by, monk?"
+How will you get by, bhikkhu?"
 
 436“Pervading this bag of bones  
 with abundant rapture and happiness,  
@@ -447,7 +447,7 @@ but still it is cherished!
 
 454Like a lurking deer by a trick,  
 like a fish by a hook,  
-like a monkey by tar—  
+like a bhikkhuey by tar—  
 they trap an ordinary person.
 
 455Sights, sounds, tastes, smells,  

@@ -74,7 +74,7 @@ Meditate on impermanence. For when you meditate on impermanence any conceit ‘I
 13Develop mindfulness of breathing. When mindfulness of breathing is developed and cultivated it’s very fruitful and beneficial. And how is mindfulness of breathing developed and cultivated to be very fruitful and beneficial?
 
 
-It’s when a mendicant — gone to a wilderness, or to the root of a tree, or to an empty hut — sits down cross-legged, with their body straight, and establishes mindfulness right there. Just mindful, they breath in. Mindful, they breath out.
+It’s when a bhikkhu — gone to a wilderness, or to the root of a tree, or to an empty hut — sits down cross-legged, with their body straight, and establishes mindfulness right there. Just mindful, they breath in. Mindful, they breath out.
 
 14When breathing in heavily they know: ‘I’m breathing in heavily.’ When breathing out heavily they know: ‘I’m breathing out heavily.’ When breathing in lightly they know: ‘I’m breathing in lightly.’ When breathing out lightly they know: ‘I’m breathing out lightly.’ They practice breathing in experiencing the whole body. They practice breathing out experiencing the whole body. They practice breathing in stilling the body’s motion. They practice breathing out stilling the body’s motion.
 

@@ -15,7 +15,7 @@ language: "English"
 ## ## Vipallāsa Sutta
 
 
-“Monks, there are these four perversions of perception, perversions of mind, perversions of view. Which four? ‘Constant’ with regard to the inconstant is a perversion of perception, a perversion of mind, a perversion of view. ‘Pleasant’ with regard to the stressful.… ‘Self’ with regard to not-self.… ‘Attractive’ with regard to the unattractive is a perversion of perception, a perversion of mind, a perversion of view. These are the four perversions of perception, perversions of mind, perversions of view.
+“bhikkhus, there are these four perversions of perception, perversions of mind, perversions of view. Which four? ‘Constant’ with regard to the inconstant is a perversion of perception, a perversion of mind, a perversion of view. ‘Pleasant’ with regard to the stressful.… ‘Self’ with regard to not-self.… ‘Attractive’ with regard to the unattractive is a perversion of perception, a perversion of mind, a perversion of view. These are the four perversions of perception, perversions of mind, perversions of view.
 
 “There are these four non-perversions of perception, non-perversions of mind, non-perversions of view. Which four? ‘Inconstant’ with regard to the inconstant is a non-perversion of perception, a non-perversion of mind, a non-perversion of view. ‘Stressful’ with regard to the stressful.… ‘Not-self’ with regard to not-self.… ‘Unattractive’ with regard to the unattractive is a non-perversion of perception, a non-perversion of mind, a non-perversion of view. These are the four non-perversions of perception, non-perversions of mind, non-perversions of view.”
 

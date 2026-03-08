@@ -45,7 +45,7 @@ language: "English"
 
 14. “Ānanda, these are the mutual advantages going from one thing to another and the mutual causes going from one thing to another. In this way, the precepts lead to what’s supreme, which is to cross over from this shore to the other shore.”
 
-15. This is what the Buddha said. Venerable Ānanda and the monks who heard what the Buddha taught rejoiced and approved.
+15. This is what the Buddha said. Venerable Ānanda and the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

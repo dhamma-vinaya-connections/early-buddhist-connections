@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 10: Groups of Ten Verses
 
@@ -82,7 +82,7 @@ to be dwelling alone in a forest grove.
 
 538Come now, I’ll go alone  
 to the wilderness praised by the Buddha.  
-It’s pleasant for a mendicant  
+It’s pleasant for a bhikkhu  
 to be dwelling alone and resolute.
 
 539Alone and self-disciplined,  
@@ -286,7 +286,7 @@ will be fully quenched.
 ##### Vangantaputtaupasena
 
 577In order to go on retreat,  
-a monk should stay in lodgings  
+a bhikkhu should stay in lodgings  
 that are secluded and quiet,  
 frequented by beasts of prey.
 
@@ -296,7 +296,7 @@ and making an outer robe from them,
 one should wear that coarse robe.
 
 579Humbling their heart,  
-a mendicant should walk for alms  
+a bhikkhu should walk for alms  
 from family to family indiscriminately,  
 with sense doors guarded, well-restrained.
 
@@ -330,7 +330,7 @@ and always devoted to meditation,
 a wise person would not be too sure of themselves,  
 until they have attained the end of suffering.
 
-586For a mendicant who meditates in this way,  
+586For a bhikkhu who meditates in this way,  
 longing for purification,  
 all their defilements wither away,  
 and they realize quenching.

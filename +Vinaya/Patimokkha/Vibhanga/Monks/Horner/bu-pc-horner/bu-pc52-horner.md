@@ -7,19 +7,19 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC52]]
 > ◄  [[bu-pc51-horner]] 📜  [[bu-pc53-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 52
+# bhikkhus’ Expiation (_Pācittiya_) 52
 
-*Bu-Pc.52.1.1* *BD.2.387* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks made one of the group of seventeen monks laugh by tickling him with the fingers. This monk, faint and unable to get his breath, died.[^1] Those who were modest monks … spread it about, saying:
+*Bu-Pc.52.1.1* *BD.2.387* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus made one of the group of seventeen bhikkhus laugh by tickling him with the fingers. This bhikkhu, faint and unable to get his breath, died.[^1] Those who were modest bhikkhus … spread it about, saying:
 
-“How can the group of six monks *Vin.4.111* make a monk laugh by tickling him with the fingers?” …
+“How can the group of six bhikkhus *Vin.4.111* make a bhikkhu laugh by tickling him with the fingers?” …
 
-“Is it true, as is said, that you, monks … with the fingers?”
+“Is it true, as is said, that you, bhikkhus … with the fingers?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men … with the fingers? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men … with the fingers? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
 “In tickling with the fingers there is an offence of expiation.”
 
@@ -41,7 +41,7 @@ The Second
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

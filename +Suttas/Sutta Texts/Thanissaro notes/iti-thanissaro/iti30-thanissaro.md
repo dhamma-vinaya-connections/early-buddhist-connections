@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 30
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these two things that cause remorse. Which two? There is the case of the person who has not done what is admirable, has not done what is skillful, has not given protection to those in fear, and instead has done what is evil, savage, & cruel. Thinking, ‘I have not done what is admirable,’ he feels remorse. Thinking, ‘I have done what is evil,’ he feels remorse. These are the two things that cause remorse.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these two things that cause remorse. Which two? There is the case of the person who has not done what is admirable, has not done what is skillful, has not given protection to those in fear, and instead has done what is evil, savage, & cruel. Thinking, ‘I have not done what is admirable,’ he feels remorse. Thinking, ‘I have done what is evil,’ he feels remorse. These are the two things that cause remorse.”
 
 Having engaged
 

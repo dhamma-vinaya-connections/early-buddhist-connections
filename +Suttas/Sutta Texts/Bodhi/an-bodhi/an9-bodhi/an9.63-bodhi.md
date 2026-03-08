@@ -14,7 +14,7 @@ language: "English"
 
 > **Division:** II. ESTABLISHMENTS OF MINDFULNESS
 
-“Bhikkhus, there are these five setbacks in the training. What five? (1) The destruction of life, (2) taking what is not given, (3) sexual misconduct, (4) false speech, and (5) \[indulging in\] liquor, wine, and intoxicants, the basis for heedlessness. These are the five setbacks in the training. The four establishments of mindfulness are to be developed for abandoning these five setbacks in the training. What four? Here, (6) a bhikkhu dwells contemplating the body in the body, ardent, clearly comprehending, mindful, having removed longing and dejection in regard to the world. (7) He dwells contemplating feelings in feelings … (8) … mind in mind … (9) … phenomena in phenomena, ardent, clearly comprehending, mindful, having removed longing and dejection in regard to the world. These four establishments of mindfulness are to be developed for abandoning these five setbacks in the training.”
+“Bhikkhus, there are these five setbacks in the training. What five? (1) The destruction of life, (2) taking what is not given, (3) sexual misconduct, (4) false speech, and (5) \[indulging in\] liquor, wine, and intoxicants, the basis for heedlessness. These are the five setbacks in the training. The four establishments of mindfulness are to be developed for abandoning these five setbacks in the training. What four? Here, (6) a bhikkhu ![[Satipatthanas]]. (7) He ![[Satipatthanas]]. These four establishments of mindfulness are to be developed for abandoning these five setbacks in the training.”
 
 
 ---

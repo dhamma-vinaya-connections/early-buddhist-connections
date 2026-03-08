@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four attachments. What four? The attachment to sensual pleasures, future lives, views, and ignorance.
+1“bhikkhus, there are these four attachments. What four? The attachment to sensual pleasures, future lives, views, and ignorance.
 
 
 And what is the attachment to sensual pleasures? It’s when you don’t truly understand sensual pleasures’ origin, ending, gratification, drawback, and escape. So greed, relishing, affection, infatuation, thirst, passion, attachment, and craving for sensual pleasures linger on inside. This is called the attachment to sensual pleasures. Such is the attachment to sensual pleasures.

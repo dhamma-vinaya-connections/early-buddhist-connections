@@ -18,18 +18,18 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were scaring the monks from the group of seventeen. They cried.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were scaring the bhikkhus from the group of seventeen. They cried.
 
 
-Other monks asked them why, and they told them.
+Other bhikkhus asked them why, and they told them.
 
 
-2The monks of few desires complained and criticized them, “How can the monks from the group of six scare other monks?” … “Is it true, monks, that you do this?”
+2The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six scare other bhikkhus?” … “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

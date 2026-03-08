@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those who don’t enjoy mindfulness of the body don’t enjoy the deathless. Those who enjoy mindfulness of the body enjoy the deathless.”
+1“bhikkhus, those who don’t enjoy mindfulness of the body don’t enjoy the deathless. Those who enjoy mindfulness of the body enjoy the deathless.”
 
 1"Amataṁ te, bhikkhave, na paribhuñjanti ye kāyagatāsatiṁ na paribhuñjanti. Amataṁ te, bhikkhave, paribhuñjanti ye kāyagatāsatiṁ paribhuñjantī"ti.
 

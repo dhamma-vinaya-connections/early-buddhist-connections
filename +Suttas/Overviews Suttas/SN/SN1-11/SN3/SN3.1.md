@@ -47,7 +47,7 @@ parallels_partilal: "[[SA-2.53]], [[SA1226]]"
 > King pasenadi meets the Buddha  for the first time. He wonders how the Buddha  can claim to be awakened when he is still so young. The Buddha  teaches him four things that should not be looked down on for their youth
 
 > [!info] Key Excerpts 
-> Aristocrat, a snake, a fire, and a mendicant. These four things should not be looked down on or disparaged because they are young
+> Aristocrat, a snake, a fire, and a bhikkhu. These four things should not be looked down on or disparaged because they are young
 > 
 > That’s why an astute person,
 Seeing what’s good for themselves,

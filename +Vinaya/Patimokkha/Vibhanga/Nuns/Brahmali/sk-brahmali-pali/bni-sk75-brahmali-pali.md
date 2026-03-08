@@ -16,30 +16,30 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were defecating, urinating, and spitting in water. People complained and criticized them, “How can the Sakyan monastics defecate, urinate, and spit in water? They’re just like householders who indulge in worldly pleasures!”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were defecating, urinating, and spitting in water. People complained and criticized them, “How can the Sakyan monastics defecate, urinate, and spit in water? They’re just like householders who indulge in worldly pleasures!”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can the monks from the group of six do this?” …
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can the bhikkhus from the group of six do this?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 3‘“I will not defecate, urinate, or spit in water,” this is how you should train.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5Soon afterwards, being afraid of wrongdoing, sick monks did not defecate, urinate, or spit in water. They told the Buddha. Soon afterwards he gave a teaching and addressed the monks: “Monks, I allow a sick monk to defecate, urinate, or spit in water.
+5Soon afterwards, being afraid of wrongdoing, sick bhikkhus did not defecate, urinate, or spit in water. They told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus: “bhikkhus, I allow a sick bhikkhu to defecate, urinate, or spit in water.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
 6‘“When not sick, I will not defecate, urinate, or spit in water,” this is how you should train.’”
 
-7If one is not sick, one should not defecate, urinate, or spit in water. If, out of disrespect, a monk who is not sick defecates, urinates, or spits in water, he commits an offense of wrong conduct.
+7If one is not sick, one should not defecate, urinate, or spit in water. If, out of disrespect, a bhikkhu who is not sick defecates, urinates, or spits in water, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

@@ -12,13 +12,13 @@ language: "English"
 
 # Itivuttaka 38
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, two trains of thought often occur to the Tathāgata, worthy & rightly self-awakened: the thought of safety & that of seclusion.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, two trains of thought often occur to the Tathāgata, worthy & rightly self-awakened: the thought of safety & that of seclusion.
 
 “The Tathāgata enjoys non-ill will, delights in non-ill will. To him–enjoying non-ill will, delighting in non-ill will–this thought often occurs: ‘By this activity I harm no one at all, whether weak or firm.’
 
 “The Tathāgata enjoys seclusion, delights in seclusion. To him–enjoying seclusion, delighting in seclusion–this thought often occurs: ‘Whatever is unskillful is abandoned.’
 
-“Thus, monks, you too should live enjoying non-ill will, delighting in non-ill will. To you–enjoying non-ill will, delighting in non-ill will–this thought will often occur: ‘By this activity we harm no one at all, whether weak or firm.’
+“Thus, bhikkhus, you too should live enjoying non-ill will, delighting in non-ill will. To you–enjoying non-ill will, delighting in non-ill will–this thought will often occur: ‘By this activity we harm no one at all, whether weak or firm.’
 
 “You too should live enjoying seclusion, delighting in seclusion. To you–enjoying seclusion, delighting in seclusion–this thought will often occur: ‘What is unskillful? What is not yet abandoned? What are we abandoning?’”
 

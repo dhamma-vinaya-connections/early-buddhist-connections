@@ -18,45 +18,45 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time the Buddha was staying in the hall with the peaked roof in the Great Wood near Vesālī. At that time the Buddha spoke to the monks in many ways about unattractiveness—he spoke in praise of unattractiveness, of developing the mind in unattractiveness, and of the attainment of unattractiveness.
+1At one time the Buddha was staying in the hall with the peaked roof in the Great Wood near Vesālī. At that time the Buddha spoke to the bhikkhus in many ways about unattractiveness—he spoke in praise of unattractiveness, of developing the mind in unattractiveness, and of the attainment of unattractiveness.
 
 
-2The Buddha then addressed the monks: “Monks, I wish to go into solitary retreat for half a month. No one should visit me except the one who brings me almsfood.”
+2The Buddha then addressed the bhikkhus: “bhikkhus, I wish to go into solitary retreat for half a month. No one should visit me except the one who brings me almsfood.”
 
 “Yes, Venerable Sir.”
 
 
-3Soon afterwards the monks reflected that the Buddha had praised unattractiveness in many ways, and they devoted themselves to developing the mind in unattractiveness in its many different facets. As a consequence, they became troubled by their own bodies, ashamed of and disgusted with them. Just as a young woman or man—someone fond of adornments, with freshly washed hair—would be ashamed, humiliated, and disgusted if the carcass of a snake, dog, or man was hung around her neck, just so those monks were troubled by their own bodies. They took their own lives, took the lives of one another, and they went to Migalaṇḍika, the monastic lookalike, and said, “Please kill us. You will get our bowl and robes.” And hired for a bowl and robes, Migalaṇḍika killed a number of monks. He then took his blood-stained knife to the river Vaggumudā.
+3Soon afterwards the bhikkhus reflected that the Buddha had praised unattractiveness in many ways, and they devoted themselves to developing the mind in unattractiveness in its many different facets. As a consequence, they became troubled by their own bodies, ashamed of and disgusted with them. Just as a young woman or man—someone fond of adornments, with freshly washed hair—would be ashamed, humiliated, and disgusted if the carcass of a snake, dog, or man was hung around her neck, just so those bhikkhus were troubled by their own bodies. They took their own lives, took the lives of one another, and they went to Migalaṇḍika, the monastic lookalike, and said, “Please kill us. You will get our bowl and robes.” And hired for a bowl and robes, Migalaṇḍika killed a number of bhikkhus. He then took his blood-stained knife to the river Vaggumudā.
 
-4While washing it, he became anxious and remorseful, thinking, “What the heck have I done? I’ve made so much demerit by killing good monks.”
+4While washing it, he became anxious and remorseful, thinking, “What the heck have I done? I’ve made so much demerit by killing good bhikkhus.”
 
 Then a god from the realm of the Lord of Death, coming across the water, said to Migalaṇḍika, “Well done, superior man, you’re truly fortunate. You’ve made much merit by helping across those who hadn’t yet crossed.”
 
-5Migalaṇḍika thought, “So it seems that I’m fortunate, that I’ve made much merit!” He then went from dwelling to dwelling, from yard to yard, and said, “Who hasn’t crossed yet? Who can I help across?” The monks who still had worldly attachments became fearful and terrified, with goosebumps all over. Only those who were free from worldly attachments were unaffected.
+5Migalaṇḍika thought, “So it seems that I’m fortunate, that I’ve made much merit!” He then went from dwelling to dwelling, from yard to yard, and said, “Who hasn’t crossed yet? Who can I help across?” The bhikkhus who still had worldly attachments became fearful and terrified, with goosebumps all over. Only those who were free from worldly attachments were unaffected.
 
 
-6Then, on a single day, Migalaṇḍika killed one monk, two monks, three, four, five, ten, twenty, thirty, forty, fifty, even sixty monks.
+6Then, on a single day, Migalaṇḍika killed one bhikkhu, two bhikkhus, three, four, five, ten, twenty, thirty, forty, fifty, even sixty bhikkhus.
 
 
-7At the end of that half-month, when the Buddha came out of seclusion, he said to Venerable Ānanda, “Ānanda, why is the Sangha of monks so reduced?”
+7At the end of that half-month, when the Buddha came out of seclusion, he said to Venerable Ānanda, “Ānanda, why is the Sangha of bhikkhus so reduced?”
 
 
-Ānanda told him what had happened, adding, “Please give another instruction, Venerable Sir, for the Sangha of monks to become established in perfect insight.”
+Ānanda told him what had happened, adding, “Please give another instruction, Venerable Sir, for the Sangha of bhikkhus to become established in perfect insight.”
 
 
-“Well then, Ānanda, bring together in the assembly hall all the monks who live supported by Vesālī.”
+“Well then, Ānanda, bring together in the assembly hall all the bhikkhus who live supported by Vesālī.”
 
-“Yes.” When he had done so, he went to the Buddha and said, “Sir, the Sangha of monks is gathered. Please do as you think appropriate.”
+“Yes.” When he had done so, he went to the Buddha and said, “Sir, the Sangha of bhikkhus is gathered. Please do as you think appropriate.”
 
 
-8The Buddha then went to the assembly hall, sat down on the prepared seat, and addressed the monks:
+8The Buddha then went to the assembly hall, sat down on the prepared seat, and addressed the bhikkhus:
 
-9“Monks, when stillness by mindfulness of breathing is developed and cultivated, it is peaceful and sublime, and a satisfying state of bliss. And it removes bad and unwholesome qualities on the spot, whenever they arise. Just as a great, unseasonal storm in the last month of the hot season removes the dust and dirt from the air, just so, when stillness by mindfulness of breathing is developed and cultivated, it is peaceful and sublime, and it removes bad and unwholesome qualities on the spot, whenever they arise.
+9“bhikkhus, when stillness by mindfulness of breathing is developed and cultivated, it is peaceful and sublime, and a satisfying state of bliss. And it removes bad and unwholesome qualities on the spot, whenever they arise. Just as a great, unseasonal storm in the last month of the hot season removes the dust and dirt from the air, just so, when stillness by mindfulness of breathing is developed and cultivated, it is peaceful and sublime, and it removes bad and unwholesome qualities on the spot, whenever they arise.
 
 
 10And how is stillness by mindfulness of breathing developed and cultivated in this way?
 
-A monk sits down in the wilderness, at the foot of a tree, or in an empty hut. He crosses his legs, straightens his body, and sets up mindfulness in front of him. Simply mindful, he breathes in; mindful, he breathes out.
+A bhikkhu sits down in the wilderness, at the foot of a tree, or in an empty hut. He crosses his legs, straightens his body, and sets up mindfulness in front of him. Simply mindful, he breathes in; mindful, he breathes out.
 
 
 11When he breathes in long, he knows it; and when he breathes out long, he knows that.
@@ -98,25 +98,25 @@ When breathing in, he trains in contemplating ending; when breathing out, he tra
 When breathing in, he trains in contemplating relinquishment; when breathing out, he trains in contemplating relinquishment.
 
 
-14Monks, when stillness by mindfulness of breathing is developed and cultivated like this, it is peaceful and sublime, and a satisfying state of bliss. And it removes bad and unwholesome qualities on the spot, whenever they arise.”
+14bhikkhus, when stillness by mindfulness of breathing is developed and cultivated like this, it is peaceful and sublime, and a satisfying state of bliss. And it removes bad and unwholesome qualities on the spot, whenever they arise.”
 
 
-15The Buddha then had the Sangha gathered and questioned the monks:
+15The Buddha then had the Sangha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that there are monks who have taken their own lives, who have killed one another, and who have said to Migalaṇḍika, ‘Please kill us. You will get our bowl and robes’?”
+“Is it true, bhikkhus, that there are bhikkhus who have taken their own lives, who have killed one another, and who have said to Migalaṇḍika, ‘Please kill us. You will get our bowl and robes’?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them, “Monks, it’s not suitable for these monks, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it should not be done. How could those monks do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them, “bhikkhus, it’s not suitable for these bhikkhus, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it should not be done. How could those bhikkhus do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
-16‘If a monk intentionally kills a human being or seeks an instrument of death for them, he too is expelled and excluded from the community.’”
+16‘If a bhikkhu intentionally kills a human being or seeks an instrument of death for them, he too is expelled and excluded from the community.’”
 
-17In this way the Buddha laid down this training rule for the monks.
+17In this way the Buddha laid down this training rule for the bhikkhus.
 
 #### Second sub-story
 
-18At one time a certain lay follower was sick. He had a beautiful and pleasant wife, who the monks from the group of six had fallen in love with. They said to each other, “If this lay follower recovers, we won’t get her. Come, let’s praise death to him.”
+18At one time a certain lay follower was sick. He had a beautiful and pleasant wife, who the bhikkhus from the group of six had fallen in love with. They said to each other, “If this lay follower recovers, we won’t get her. Come, let’s praise death to him.”
 
 They then went to that lay follower and said, “You’ve done what’s good and wholesome; you’ve made a shelter against fear. You haven’t done anything bad; you haven’t been greedy or immoral. So why carry on with this miserable and difficult life? Death is better for you. When you’ve passed away, you’ll be reborn in a happy place, in heaven. There you’ll be able to enjoy the pleasures of heaven.”
 
@@ -125,32 +125,32 @@ They then went to that lay follower and said, “You’ve done what’s good and
 From then on he ate various kinds of detrimental food and drank detrimental drinks, and as a consequence, he became very ill and died.
 
 
-But his wife complained and criticized those monks, “These Sakyan monastics are shameless and immoral liars. They claim to have integrity, to be celibate and of good conduct, to be truthful, moral, and good. But they don’t have the good character of a monastic or brahmin. They’ve lost the plot! They praised death to my husband, and as a result my husband is dead.”
+But his wife complained and criticized those bhikkhus, “These Sakyan monastics are shameless and immoral liars. They claim to have integrity, to be celibate and of good conduct, to be truthful, moral, and good. But they don’t have the good character of a monastic or brahmin. They’ve lost the plot! They praised death to my husband, and as a result my husband is dead.”
 
 
 And other people complained and criticized them in the same way.
 
 
-20The monks heard the criticism of those people. Those monks who had few desires and a sense of conscience, who were contented, afraid of wrongdoing, and fond of the training, complained and criticized those monks, “How could they praise death to that lay follower?”
+20The bhikkhus heard the criticism of those people. Those bhikkhus who had few desires and a sense of conscience, who were contented, afraid of wrongdoing, and fond of the training, complained and criticized those bhikkhus, “How could they praise death to that lay follower?”
 
-21After rebuking those monks in many ways, they told the Buddha …
+21After rebuking those bhikkhus in many ways, they told the Buddha …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them, “Foolish men, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it should not be done. How could you do this? This will affect people’s confidence …” … “And so, monks, this training rule should be recited like this:
+The Buddha rebuked them, “Foolish men, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it should not be done. How could you do this? This will affect people’s confidence …” … “And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-22‘If a monk intentionally kills a human being or seeks an instrument of death for him or praises death or incites someone to die, saying, “My friend, what’s the point of this miserable and difficult life? Death is better for you than life!”—thinking and intending thus, if he praises death in many ways or incites someone to die—he too is expelled and excluded from the community.’”
+22‘If a bhikkhu intentionally kills a human being or seeks an instrument of death for him or praises death or incites someone to die, saying, “My friend, what’s the point of this miserable and difficult life? Death is better for you than life!”—thinking and intending thus, if he praises death in many ways or incites someone to die—he too is expelled and excluded from the community.’”
 
 #### Definitions
 
 23**A:** whoever …
 
-**Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+**bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 24**Intentionally:** knowing, perceiving, having intended, having decided, he transgresses.
 
@@ -182,7 +182,7 @@ The Buddha rebuked them, “Foolish men, it’s not suitable, it’s not proper,
 
 38**He too:** this is said with reference to the preceding offenses entailing expulsion.
 
-39**Is expelled:** just as an ordinary stone that has broken in half cannot be put back together again, so too is a monk who has intentionally killed a human being not an ascetic, not a Sakyan monastic. Therefore it is said, “he is expelled.”
+39**Is expelled:** just as an ordinary stone that has broken in half cannot be put back together again, so too is a bhikkhu who has intentionally killed a human being not an ascetic, not a Sakyan monastic. Therefore it is said, “he is expelled.”
 
 40**Excluded from the community:** Community: joint legal procedures, a joint recitation, the same training—this is called “community”. He does not take part in this—therefore it is called “excluded from the community”.
 
@@ -205,28 +205,28 @@ A pit, a piece of furniture, placing near, tonic, arranging a sight, arranging a
 
 43**Having made a determination:** having made a determination, he tells someone: “Hit thus, strike thus, kill thus.”
 
-44If a monk tells a second monk, “Kill so-and-so,” he commits an offense of wrong conduct. If the second monk kills that person, thinking it is the one he was told to kill, there is an offense entailing expulsion for both.
+44If a bhikkhu tells a second bhikkhu, “Kill so-and-so,” he commits an offense of wrong conduct. If the second bhikkhu kills that person, thinking it is the one he was told to kill, there is an offense entailing expulsion for both.
 
-45If a monk tells a second monk, “Kill so-and-so,” he commits an offense of wrong conduct. If the second monk kills another person, thinking it is the one he was told to kill, there is no offense for the instigator, but there is an offense entailing expulsion for the murderer.
+45If a bhikkhu tells a second bhikkhu, “Kill so-and-so,” he commits an offense of wrong conduct. If the second bhikkhu kills another person, thinking it is the one he was told to kill, there is no offense for the instigator, but there is an offense entailing expulsion for the murderer.
 
-46If a monk tells a second monk, “Kill so-and-so,” he commits an offense of wrong conduct. If the second monk kills that person, thinking it is someone other than the one he was told to kill, there is an offense entailing expulsion for both.
+46If a bhikkhu tells a second bhikkhu, “Kill so-and-so,” he commits an offense of wrong conduct. If the second bhikkhu kills that person, thinking it is someone other than the one he was told to kill, there is an offense entailing expulsion for both.
 
-47If a monk tells a second monk, “Kill so-and-so,” he commits an offense of wrong conduct. If the second monk kills another person, thinking it is someone other than the one he was told to kill, there is no offense for the instigator, but there is an offense entailing expulsion for the murderer.
+47If a bhikkhu tells a second bhikkhu, “Kill so-and-so,” he commits an offense of wrong conduct. If the second bhikkhu kills another person, thinking it is someone other than the one he was told to kill, there is no offense for the instigator, but there is an offense entailing expulsion for the murderer.
 
 By a series of messengers:  
-48If a monk tells a second monk, “Tell so-and-so to tell so-and-so to kill so-and-so,” he commits an offense of wrong conduct. In telling the next person, there is an offense of wrong conduct. If the potential murderer agrees, there is a serious offense for the instigator. If he kills that person, there is an offense entailing expulsion for all of them.
+48If a bhikkhu tells a second bhikkhu, “Tell so-and-so to tell so-and-so to kill so-and-so,” he commits an offense of wrong conduct. In telling the next person, there is an offense of wrong conduct. If the potential murderer agrees, there is a serious offense for the instigator. If he kills that person, there is an offense entailing expulsion for all of them.
 
 By a messenger who does not follow instructions:  
-49If a monk tells a second monk, “Tell so-and-so to tell so-and-so to kill so-and-so,” he commits an offense of wrong conduct. If the other monk tells another person than the one he was told to tell, he commits an offense of wrong conduct. If the potential murderer agrees, there is an offense of wrong conduct. If he kills that person, there is no offense for the instigator, but there is an offense entailing expulsion for the messenger and for the murderer.
+49If a bhikkhu tells a second bhikkhu, “Tell so-and-so to tell so-and-so to kill so-and-so,” he commits an offense of wrong conduct. If the other bhikkhu tells another person than the one he was told to tell, he commits an offense of wrong conduct. If the potential murderer agrees, there is an offense of wrong conduct. If he kills that person, there is no offense for the instigator, but there is an offense entailing expulsion for the messenger and for the murderer.
 
 By a messenger gone and returned again:  
-50If a monk tells a second monk, “Kill so-and-so,” he commits an offense of wrong conduct. He goes, but returns, saying, “I wasn’t able to kill them.” If the first monk tells him again, “When you’re able, then kill them,” he commits an offense of wrong conduct. If the second monk kills that person, there is an offense entailing expulsion for both.
+50If a bhikkhu tells a second bhikkhu, “Kill so-and-so,” he commits an offense of wrong conduct. He goes, but returns, saying, “I wasn’t able to kill them.” If the first bhikkhu tells him again, “When you’re able, then kill them,” he commits an offense of wrong conduct. If the second bhikkhu kills that person, there is an offense entailing expulsion for both.
 
-51If a monk tells a second monk, “Kill so-and-so,” he commits an offense of wrong conduct. He then regrets it, but does not say, “Don’t kill them.” If the second monk then kills that person, there is an offense entailing expulsion for both.
+51If a bhikkhu tells a second bhikkhu, “Kill so-and-so,” he commits an offense of wrong conduct. He then regrets it, but does not say, “Don’t kill them.” If the second bhikkhu then kills that person, there is an offense entailing expulsion for both.
 
-52If a monk tells a second monk, “Kill so-and-so,” he commits an offense of wrong conduct. He then regrets and says, “Don’t kill them.” If the second monk replies, “I’ve been told by you to do so,” and then kills that person, there is no offense for the instigator, but there is an offense entailing expulsion for the murderer.
+52If a bhikkhu tells a second bhikkhu, “Kill so-and-so,” he commits an offense of wrong conduct. He then regrets and says, “Don’t kill them.” If the second bhikkhu replies, “I’ve been told by you to do so,” and then kills that person, there is no offense for the instigator, but there is an offense entailing expulsion for the murderer.
 
-53If a monk tells a second monk, “Kill so-and-so,” he commits an offense of wrong conduct. He then regrets it and says, “Don’t kill them.” If the second monk replies, “Fine,” and desists, there is no offense for either.
+53If a bhikkhu tells a second bhikkhu, “Kill so-and-so,” he commits an offense of wrong conduct. He then regrets it and says, “Don’t kill them.” If the second bhikkhu replies, “Fine,” and desists, there is no offense for either.
 
 
 54**Not in private, but perceiving it as private:** if he says aloud, “I wish so-and-so was killed,” he commits an offense of wrong conduct.
@@ -237,45 +237,45 @@ By a messenger gone and returned again:
 
 **In private, and perceiving it as private:** if he says aloud, “I wish so-and-so was killed,” he commits an offense of wrong conduct.
 
-55**He praises by means of the body:** if a monk makes a gesture with the body, indicating, “Whoever dies thus, receives wealth,” or, “Whoever dies thus, becomes famous,” or, “Whoever dies thus, goes to heaven,” he commits an offense of wrong conduct. If, because of that praise, the target person thinks, “I shall die,” and they do something painful, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+55**He praises by means of the body:** if a bhikkhu makes a gesture with the body, indicating, “Whoever dies thus, receives wealth,” or, “Whoever dies thus, becomes famous,” or, “Whoever dies thus, goes to heaven,” he commits an offense of wrong conduct. If, because of that praise, the target person thinks, “I shall die,” and they do something painful, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-56**He praises by means of speech:** if a monk says, “Whoever dies thus, receives wealth,” or, “Whoever dies thus, becomes famous,” or, “Whoever dies thus, goes to heaven,” he commits an offense of wrong conduct. If, because of that praise, the target person thinks, “I shall die,” and they do something painful, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+56**He praises by means of speech:** if a bhikkhu says, “Whoever dies thus, receives wealth,” or, “Whoever dies thus, becomes famous,” or, “Whoever dies thus, goes to heaven,” he commits an offense of wrong conduct. If, because of that praise, the target person thinks, “I shall die,” and they do something painful, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-57**He praises by means of the body and speech:** if a monk makes a gesture with the body and says, “Whoever dies thus, receives wealth,” or, “Whoever dies thus, becomes famous,” or, “Whoever dies thus, goes to heaven,” he commits an offense of wrong conduct. If, because of that praise, the target person thinks, “I shall die,” and they do something painful, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+57**He praises by means of the body and speech:** if a bhikkhu makes a gesture with the body and says, “Whoever dies thus, receives wealth,” or, “Whoever dies thus, becomes famous,” or, “Whoever dies thus, goes to heaven,” he commits an offense of wrong conduct. If, because of that praise, the target person thinks, “I shall die,” and they do something painful, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-58**He praises by means of a messenger:** if a monk gives instructions to a messenger, saying, “Whoever dies thus, receives wealth,” or, “Whoever dies thus, becomes famous,” or, “Whoever dies thus, goes to heaven,” he commits an offense of wrong conduct. If, after hearing the messenger’s instruction, the target person thinks, “I shall die,” and they do something painful, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+58**He praises by means of a messenger:** if a bhikkhu gives instructions to a messenger, saying, “Whoever dies thus, receives wealth,” or, “Whoever dies thus, becomes famous,” or, “Whoever dies thus, goes to heaven,” he commits an offense of wrong conduct. If, after hearing the messenger’s instruction, the target person thinks, “I shall die,” and they do something painful, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-59**He praises by means of writing:** if a monk writes, “Whoever dies thus, receives wealth,” or, “Whoever dies thus, becomes famous,” or, “Whoever dies thus, goes to heaven,” he commits an offense of wrong conduct for each character he writes. If, after seeing the writing, the target person thinks, “I shall die,” and they do something painful, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+59**He praises by means of writing:** if a bhikkhu writes, “Whoever dies thus, receives wealth,” or, “Whoever dies thus, becomes famous,” or, “Whoever dies thus, goes to heaven,” he commits an offense of wrong conduct for each character he writes. If, after seeing the writing, the target person thinks, “I shall die,” and they do something painful, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-60**A pit:** if a monk digs a pit for a human being, thinking, “Falling into it, they will die,” he commits an offense of wrong conduct. If a person falls into it and experiences pain, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+60**A pit:** if a bhikkhu digs a pit for a human being, thinking, “Falling into it, they will die,” he commits an offense of wrong conduct. If a person falls into it and experiences pain, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-If a monk digs a non-specific pit, thinking, “Whatever falls into it, will die,” he commits an offense of wrong conduct. If a person falls into it, the monk commits an offense of wrong conduct. If they experience pain after falling in, the monk commits a serious offense. If they die, the monk commits an offense entailing expulsion. If a spirit, ghost, or animal in human form falls into it, the monk commits an offense of wrong conduct. If it experiences pain after falling in, the monk commits an offense of wrong conduct. If it dies, the monk commits a serious offense. If an animal falls into it, the monk commits an offense of wrong conduct. If it experiences pain after falling in, the monk commits an offense of wrong conduct. If it dies, the monk commits an offense entailing confession.
+If a bhikkhu digs a non-specific pit, thinking, “Whatever falls into it, will die,” he commits an offense of wrong conduct. If a person falls into it, the bhikkhu commits an offense of wrong conduct. If they experience pain after falling in, the bhikkhu commits a serious offense. If they die, the bhikkhu commits an offense entailing expulsion. If a spirit, ghost, or animal in human form falls into it, the bhikkhu commits an offense of wrong conduct. If it experiences pain after falling in, the bhikkhu commits an offense of wrong conduct. If it dies, the bhikkhu commits a serious offense. If an animal falls into it, the bhikkhu commits an offense of wrong conduct. If it experiences pain after falling in, the bhikkhu commits an offense of wrong conduct. If it dies, the bhikkhu commits an offense entailing confession.
 
-61**A piece of furniture:** if a monk places a dagger in a piece of furniture, smears the furniture with poison, or makes it weak, or if he places it near a lake, a pit, or a cliff, thinking, “Falling down, they’ll die,” he commits an offense of wrong conduct. If the target person experiences pain because of the dagger, the poison, or the fall, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+61**A piece of furniture:** if a bhikkhu places a dagger in a piece of furniture, smears the furniture with poison, or makes it weak, or if he places it near a lake, a pit, or a cliff, thinking, “Falling down, they’ll die,” he commits an offense of wrong conduct. If the target person experiences pain because of the dagger, the poison, or the fall, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-62**Placing near:** if a monk places a knife, a dagger, an arrow, a club, a rock, a sword, poison, or a rope near a person, thinking, “Using this, they’ll die,” he commits an offense of wrong conduct. If the target person thinks, “Using that, I shall die,” and he does something painful, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+62**Placing near:** if a bhikkhu places a knife, a dagger, an arrow, a club, a rock, a sword, poison, or a rope near a person, thinking, “Using this, they’ll die,” he commits an offense of wrong conduct. If the target person thinks, “Using that, I shall die,” and he does something painful, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-63**Tonics:** if a monk gives a person ghee, butter, oil, honey, or syrup, thinking, “After tasting this, they’ll die,” he commits an offense of wrong conduct. If the target person tastes it and experiences pain, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+63**Tonics:** if a bhikkhu gives a person ghee, butter, oil, honey, or syrup, thinking, “After tasting this, they’ll die,” he commits an offense of wrong conduct. If the target person tastes it and experiences pain, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-64**Arranging a sight:** if a monk arranges a dreadful and terrifying sight, thinking, “Seeing this and becoming terrified, they’ll die,” he commits an offense of wrong conduct. If the target person sees it and becomes terrified, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion. If a monk arranges a lovely sight, thinking, “Seeing this and then being unable to get hold of it, they’ll wither and die,” he commits an offense of wrong conduct. If the target person sees it and then withers because of not getting hold of it, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+64**Arranging a sight:** if a bhikkhu arranges a dreadful and terrifying sight, thinking, “Seeing this and becoming terrified, they’ll die,” he commits an offense of wrong conduct. If the target person sees it and becomes terrified, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion. If a bhikkhu arranges a lovely sight, thinking, “Seeing this and then being unable to get hold of it, they’ll wither and die,” he commits an offense of wrong conduct. If the target person sees it and then withers because of not getting hold of it, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-65**Arranging a sound:** if a monk arranges a dreadful and terrifying sound, thinking, “Hearing this and becoming terrified, they’ll die,” he commits an offense of wrong conduct. If the target person hears it and becomes terrified, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion. If a monk arranges a lovely and heart-stirring sound, thinking, “Hearing this and then being unable to get hold of it, they’ll wither and die,” he commits an offense of wrong conduct. If the target person hears it and then withers because of not getting hold of it, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+65**Arranging a sound:** if a bhikkhu arranges a dreadful and terrifying sound, thinking, “Hearing this and becoming terrified, they’ll die,” he commits an offense of wrong conduct. If the target person hears it and becomes terrified, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion. If a bhikkhu arranges a lovely and heart-stirring sound, thinking, “Hearing this and then being unable to get hold of it, they’ll wither and die,” he commits an offense of wrong conduct. If the target person hears it and then withers because of not getting hold of it, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-66**Arranging a smell:** if a monk arranges a disgusting and repulsive smell, thinking, “Smelling this, they’ll die from disgust and repulsion,” he commits an offense of wrong conduct. If the target person smells it and experiences suffering because of disgust and revulsion, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion. If a monk arranges a fragrant scent, thinking, “Smelling this and then being unable to get hold of it, they’ll wither and die,” he commits an offense of wrong conduct. If the target person smells it and then withers because of not getting hold of it, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+66**Arranging a smell:** if a bhikkhu arranges a disgusting and repulsive smell, thinking, “Smelling this, they’ll die from disgust and repulsion,” he commits an offense of wrong conduct. If the target person smells it and experiences suffering because of disgust and revulsion, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion. If a bhikkhu arranges a fragrant scent, thinking, “Smelling this and then being unable to get hold of it, they’ll wither and die,” he commits an offense of wrong conduct. If the target person smells it and then withers because of not getting hold of it, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-67**Arranging a taste:** if a monk arranges a disgusting and repulsive flavor, thinking, “Tasting this, they’ll die from disgust and repulsion,” he commits an offense of wrong conduct. If the target person tastes it and experiences suffering because of disgust and repulsion, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion. If a monk arranges a delicious flavor, thinking, “Tasting this and then being unable to get hold of it, they’ll wither and die,” he commits an offense of wrong conduct. If the target person tastes it and then withers because of not getting hold of it, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+67**Arranging a taste:** if a bhikkhu arranges a disgusting and repulsive flavor, thinking, “Tasting this, they’ll die from disgust and repulsion,” he commits an offense of wrong conduct. If the target person tastes it and experiences suffering because of disgust and repulsion, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion. If a bhikkhu arranges a delicious flavor, thinking, “Tasting this and then being unable to get hold of it, they’ll wither and die,” he commits an offense of wrong conduct. If the target person tastes it and then withers because of not getting hold of it, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-68**Arranging a touch:** if a monk arranges a painful and harsh physical contact, thinking, “Touched by this, they’ll die,” he commits an offense of wrong conduct. If the target person makes contact with it and experiences pain, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion. If a monk arranges a pleasant and soft physical contact, thinking, “Touched by this and then being unable to get hold of it, they’ll wither and die,” he commits an offense of wrong conduct. If the target person is touched by it and then withers because of not getting hold of it, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+68**Arranging a touch:** if a bhikkhu arranges a painful and harsh physical contact, thinking, “Touched by this, they’ll die,” he commits an offense of wrong conduct. If the target person makes contact with it and experiences pain, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion. If a bhikkhu arranges a pleasant and soft physical contact, thinking, “Touched by this and then being unable to get hold of it, they’ll wither and die,” he commits an offense of wrong conduct. If the target person is touched by it and then withers because of not getting hold of it, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-69**Arranging a mental quality:** if a monk talks about hell to someone bound for hell, thinking, “Hearing this and becoming terrified, they’ll die,” he commits an offense of wrong conduct. If the target person hears it and becomes terrified, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion. If a monk talks about heaven to someone of good behavior, thinking, “Hearing this and being keen on it, they’ll die,” he commits an offense of wrong conduct. If the target person hears it, becomes keen on it, and thinks, “I shall die,” and they do something painful, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+69**Arranging a mental quality:** if a bhikkhu talks about hell to someone bound for hell, thinking, “Hearing this and becoming terrified, they’ll die,” he commits an offense of wrong conduct. If the target person hears it and becomes terrified, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion. If a bhikkhu talks about heaven to someone of good behavior, thinking, “Hearing this and being keen on it, they’ll die,” he commits an offense of wrong conduct. If the target person hears it, becomes keen on it, and thinks, “I shall die,” and they do something painful, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-70**Information:** if, being asked, a monk says, “Die like this. Anyone who does receives wealth,” or, “Die like this. Anyone who does becomes famous,” or, “Die like this. Anyone who does goes to heaven,” he commits an offense of wrong conduct. If, because of that information, the target person thinks, “I shall die,” and they do something painful, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+70**Information:** if, being asked, a bhikkhu says, “Die like this. Anyone who does receives wealth,” or, “Die like this. Anyone who does becomes famous,” or, “Die like this. Anyone who does goes to heaven,” he commits an offense of wrong conduct. If, because of that information, the target person thinks, “I shall die,” and they do something painful, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-71**Instruction:** if, without being asked, a monk says, “Die like this. Anyone who does receives wealth,” or, “Die like this. Anyone who does becomes famous,” or, “Die like this. Anyone who does goes to heaven,” he commits an offense of wrong conduct. If, because of that instruction, the target person thinks, “I shall die,” and they do something painful, the monk commits a serious offense. If the person dies, the monk commits an offense entailing expulsion.
+71**Instruction:** if, without being asked, a bhikkhu says, “Die like this. Anyone who does receives wealth,” or, “Die like this. Anyone who does becomes famous,” or, “Die like this. Anyone who does goes to heaven,” he commits an offense of wrong conduct. If, because of that instruction, the target person thinks, “I shall die,” and they do something painful, the bhikkhu commits a serious offense. If the person dies, the bhikkhu commits an offense entailing expulsion.
 
-72**Acting by arrangement:** if a monk makes an arrangement for before the meal or for after the meal, for the night or for the day, telling another person, “Kill that person according to this arrangement,” he commits an offense of wrong conduct. If the other person kills that person according to that arrangement, there is an offense entailing expulsion for both. If he kills him before or after the time of the arrangement, there is no offense for the instigator, but there is an offense entailing expulsion for the murderer.
+72**Acting by arrangement:** if a bhikkhu makes an arrangement for before the meal or for after the meal, for the night or for the day, telling another person, “Kill that person according to this arrangement,” he commits an offense of wrong conduct. If the other person kills that person according to that arrangement, there is an offense entailing expulsion for both. If he kills him before or after the time of the arrangement, there is no offense for the instigator, but there is an offense entailing expulsion for the murderer.
 
-73**Making a sign:** a monk makes a sign. If he says to another person, “When I wink, at that sign kill that person,” “When I raise an eyebrow, at that sign kill that person,” or, “When I nod, at that sign kill that person,” he commits an offense of wrong conduct. If, at that sign, the other person kills that person, there is an offense entailing expulsion for both. If he kills him before or after the sign, there is no offense for the instigator, but there is an offense entailing expulsion for the murderer.
+73**Making a sign:** a bhikkhu makes a sign. If he says to another person, “When I wink, at that sign kill that person,” “When I raise an eyebrow, at that sign kill that person,” or, “When I nod, at that sign kill that person,” he commits an offense of wrong conduct. If, at that sign, the other person kills that person, there is an offense entailing expulsion for both. If he kills him before or after the sign, there is no offense for the instigator, but there is an offense entailing expulsion for the murderer.
 
 #### Non-offenses
 
@@ -317,191 +317,191 @@ Buttermilk, and salty purgative.”
 
 #### Case studies
 
-82On one occasion a certain monk was sick. Out of compassion, the monks praised death to him. He died. They became anxious and said, “The Buddha has laid down a training rule. Could it be that we’ve committed an offense entailing expulsion?” They told the Buddha. “You’ve committed an offense entailing expulsion.”
+82On one occasion a certain bhikkhu was sick. Out of compassion, the bhikkhus praised death to him. He died. They became anxious and said, “The Buddha has laid down a training rule. Could it be that we’ve committed an offense entailing expulsion?” They told the Buddha. “You’ve committed an offense entailing expulsion.”
 
-83On one occasion an alms-collecting monk sat down on a bench, crushing a boy who was concealed by an old cloth. The boy died. The monk became anxious and thought, “The Buddha has laid down a training rule. Could it be that I’ve committed an offense entailing expulsion?” He told the Buddha.
+83On one occasion an alms-collecting bhikkhu sat down on a bench, crushing a boy who was concealed by an old cloth. The boy died. The bhikkhu became anxious and thought, “The Buddha has laid down a training rule. Could it be that I’ve committed an offense entailing expulsion?” He told the Buddha.
 
 “There’s no offense entailing expulsion. But you shouldn’t sit down on a seat without checking it. If you do, you commit an offense of wrong conduct.”
 
-84On one occasion a monk was preparing a seat in a dining hall in an inhabited area. When he took hold of a pestle high up, a second pestle fell down, hitting a boy, who died. The monk became anxious … “What were you thinking?”
+84On one occasion a bhikkhu was preparing a seat in a dining hall in an inhabited area. When he took hold of a pestle high up, a second pestle fell down, hitting a boy, who died. The bhikkhu became anxious … “What were you thinking?”
 
 “I didn’t intend it, Sir.”
 
 
 “There’s no offense when it’s unintentional.”
 
-85On one occasion a monk was preparing a seat in a dining hall in an inhabited area when he forcefully kicked the implements belonging to a mortar. They crushed a boy, who died. He became anxious … “There’s no offense when it’s unintentional.”
+85On one occasion a bhikkhu was preparing a seat in a dining hall in an inhabited area when he forcefully kicked the implements belonging to a mortar. They crushed a boy, who died. He became anxious … “There’s no offense when it’s unintentional.”
 
-86At one time a father and son had gone forth with the monks. When the time was announced for a certain event, the son said to his father, “Go, Sir, the Sangha is waiting for you,” and seizing him by the back, he pushed him. The father fell and died. The son became anxious … “What were you thinking?”
+86At one time a father and son had gone forth with the bhikkhus. When the time was announced for a certain event, the son said to his father, “Go, Sir, the Sangha is waiting for you,” and seizing him by the back, he pushed him. The father fell and died. The son became anxious … “What were you thinking?”
 
 “I didn’t mean to kill him, Sir.”
 
 
 “There’s no offense for one who isn’t aiming at death.”
 
-87At one time a father and son had gone forth with the monks. When the time was announced for a certain event, the son said to his father, “Go, Sir, the Sangha is waiting for you,” and seizing him by the back, he pushed him, aiming to kill him. The father fell and died. The son became anxious … “You have committed an offense entailing expulsion.”
+87At one time a father and son had gone forth with the bhikkhus. When the time was announced for a certain event, the son said to his father, “Go, Sir, the Sangha is waiting for you,” and seizing him by the back, he pushed him, aiming to kill him. The father fell and died. The son became anxious … “You have committed an offense entailing expulsion.”
 
-88At one time a father and son had gone forth with the monks. When the time was announced for a certain event, the son said to his father, “Go, Sir, the Sangha is waiting for you,” and seizing him by the back, he pushed him, aiming to kill him. The father fell, but did not die. The son became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+88At one time a father and son had gone forth with the bhikkhus. When the time was announced for a certain event, the son said to his father, “Go, Sir, the Sangha is waiting for you,” and seizing him by the back, he pushed him, aiming to kill him. The father fell, but did not die. The son became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-89On one occasion a monk got meat stuck in his throat while eating. A second monk hit him on the neck. The meat was expelled together with blood, and the monk died. The second monk became anxious … “There’s no offense for one who isn’t aiming at death.”
+89On one occasion a bhikkhu got meat stuck in his throat while eating. A second bhikkhu hit him on the neck. The meat was expelled together with blood, and the bhikkhu died. The second bhikkhu became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-90On one occasion a monk got meat stuck in his throat while eating. Another monk hit him on the neck, aiming to kill him. The meat was expelled together with blood, and the monk died. The second monk became anxious … “You have committed an offense entailing expulsion.”
+90On one occasion a bhikkhu got meat stuck in his throat while eating. Another bhikkhu hit him on the neck, aiming to kill him. The meat was expelled together with blood, and the bhikkhu died. The second bhikkhu became anxious … “You have committed an offense entailing expulsion.”
 
-91On one occasion a monk got meat stuck in his throat while eating. Another monk hit him on the neck, aiming to kill him. The meat was expelled together with blood, but the monk did not die. He became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+91On one occasion a bhikkhu got meat stuck in his throat while eating. Another bhikkhu hit him on the neck, aiming to kill him. The meat was expelled together with blood, but the bhikkhu did not die. He became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-92On one occasion an alms-collecting monk received poisoned almsfood. He brought it back and gave the first portion to other monks. They died. He became anxious … “What were you thinking, monk?”
+92On one occasion an alms-collecting bhikkhu received poisoned almsfood. He brought it back and gave the first portion to other bhikkhus. They died. He became anxious … “What were you thinking, bhikkhu?”
 
 “I didn’t know, Sir.”
 
 
 “There’s no offense for one who doesn’t know.”
 
-93On one occasion a monk gave poison to a second monk with the purpose of investigating it. That monk died. The first monk became anxious … “What were you thinking, monk?”
+93On one occasion a bhikkhu gave poison to a second bhikkhu with the purpose of investigating it. That bhikkhu died. The first bhikkhu became anxious … “What were you thinking, bhikkhu?”
 
 “My purpose was to investigate it, Sir.”
 
 “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-94On one occasion the monks of Āḷavī were preparing a site for a dwelling when a monk lifted up a stone to another monk above him. As the second monk did not grasp it properly, it fell on the head of the monk below, who died. The second monk became anxious … “There’s no offense when it’s unintentional.”
+94On one occasion the bhikkhus of Āḷavī were preparing a site for a dwelling when a bhikkhu lifted up a stone to another bhikkhu above him. As the second bhikkhu did not grasp it properly, it fell on the head of the bhikkhu below, who died. The second bhikkhu became anxious … “There’s no offense when it’s unintentional.”
 
-95On one occasion the monks of Āḷavī were preparing a site for a dwelling when a monk lifted up a stone to another monk above him. The second monk dropped the stone on his head, aiming to kill him. He died. … He did not die. The second monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+95On one occasion the bhikkhus of Āḷavī were preparing a site for a dwelling when a bhikkhu lifted up a stone to another bhikkhu above him. The second bhikkhu dropped the stone on his head, aiming to kill him. He died. … He did not die. The second bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-96On one occasion the monks of Āḷavī were building a wall for a dwelling when a monk lifted up a brick to another monk above him. As the second monk did not grasp it properly, it fell on the head of the monk below, who died. The second monk became anxious … “There’s no offense when it’s unintentional.”
+96On one occasion the bhikkhus of Āḷavī were building a wall for a dwelling when a bhikkhu lifted up a brick to another bhikkhu above him. As the second bhikkhu did not grasp it properly, it fell on the head of the bhikkhu below, who died. The second bhikkhu became anxious … “There’s no offense when it’s unintentional.”
 
-97On one occasion the monks of Āḷavī were building a wall for a dwelling when a monk lifted up a brick to another monk above him. The second monk dropped the brick on his head, aiming to kill him. He died. … He did not die. The second monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+97On one occasion the bhikkhus of Āḷavī were building a wall for a dwelling when a bhikkhu lifted up a brick to another bhikkhu above him. The second bhikkhu dropped the brick on his head, aiming to kill him. He died. … He did not die. The second bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-98On one occasion the monks of Āḷavī were doing building work when a monk lifted up a machete to another monk above him. As the second monk did not grasp it properly, it fell on the head of the monk below, who died. The second monk became anxious … “There’s no offense when it’s unintentional.”
+98On one occasion the bhikkhus of Āḷavī were doing building work when a bhikkhu lifted up a machete to another bhikkhu above him. As the second bhikkhu did not grasp it properly, it fell on the head of the bhikkhu below, who died. The second bhikkhu became anxious … “There’s no offense when it’s unintentional.”
 
-99On one occasion the monks of Āḷavī were doing building work when a monk lifted up a machete to another monk above him. The second monk dropped the machete on his head, aiming to kill him. He died. … He did not die. The second monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+99On one occasion the bhikkhus of Āḷavī were doing building work when a bhikkhu lifted up a machete to another bhikkhu above him. The second bhikkhu dropped the machete on his head, aiming to kill him. He died. … He did not die. The second bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-100On one occasion the monks of Āḷavī were doing building work when a monk lifted up a rafter to another monk above him. As the second monk did not grasp it properly, it fell on the head of the monk below, who died. The second monk became anxious … “There’s no offense when it’s unintentional.”
+100On one occasion the bhikkhus of Āḷavī were doing building work when a bhikkhu lifted up a rafter to another bhikkhu above him. As the second bhikkhu did not grasp it properly, it fell on the head of the bhikkhu below, who died. The second bhikkhu became anxious … “There’s no offense when it’s unintentional.”
 
-101On one occasion the monks of Āḷavī were doing building work when a monk lifted up a rafter to another monk above him. The second monk dropped the rafter on his head, aiming to kill him. He died. … He did not die. The second monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+101On one occasion the bhikkhus of Āḷavī were doing building work when a bhikkhu lifted up a rafter to another bhikkhu above him. The second bhikkhu dropped the rafter on his head, aiming to kill him. He died. … He did not die. The second bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-102On one occasion the monks of Āḷavī were putting together an elevated platform while doing building work. A monk said to another monk, “Put it together while standing here.” He did, and he fell down and died. The first monk became anxious … “What were you thinking, monk?”
+102On one occasion the bhikkhus of Āḷavī were putting together an elevated platform while doing building work. A bhikkhu said to another bhikkhu, “Put it together while standing here.” He did, and he fell down and died. The first bhikkhu became anxious … “What were you thinking, bhikkhu?”
 
 “I didn’t mean to kill him, Sir.”
 
 “There’s no offense for one who isn’t aiming at death.”
 
-103On one occasion the monks of Āḷavī were putting together an elevated platform while doing building work. A monk said to another monk, “Put it together while standing here,” aiming to kill him. He did, and he fell down and died. … he fell down, but did not die. The first monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+103On one occasion the bhikkhus of Āḷavī were putting together an elevated platform while doing building work. A bhikkhu said to another bhikkhu, “Put it together while standing here,” aiming to kill him. He did, and he fell down and died. … he fell down, but did not die. The first bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-104On one occasion a monk was coming down after roofing a dwelling. A second monk said to him, “Come down here.” He did, and he fell down and died. The second monk became anxious … “There’s no offense for one who isn’t aiming at death.”
+104On one occasion a bhikkhu was coming down after roofing a dwelling. A second bhikkhu said to him, “Come down here.” He did, and he fell down and died. The second bhikkhu became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-105On one occasion a monk was coming down after roofing a dwelling. A second monk said to him, “Come down here,” aiming to kill him. He did, and he fell down and died. … he fell down, but did not die. The first monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+105On one occasion a bhikkhu was coming down after roofing a dwelling. A second bhikkhu said to him, “Come down here,” aiming to kill him. He did, and he fell down and died. … he fell down, but did not die. The first bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-106On one occasion a monk who was plagued by lust climbed the Vulture Peak, jumped off the cliff, and hit a basket-maker. The basket-maker died, and the monk became anxious … “There’s no offense entailing expulsion. But, monks, you shouldn’t jump off anything. If you do, you commit an offense of wrong conduct.”
+106On one occasion a bhikkhu who was plagued by lust climbed the Vulture Peak, jumped off the cliff, and hit a basket-maker. The basket-maker died, and the bhikkhu became anxious … “There’s no offense entailing expulsion. But, bhikkhus, you shouldn’t jump off anything. If you do, you commit an offense of wrong conduct.”
 
-107On one occasion the monks from the group of six climbed the Vulture Peak and threw down a stone for fun. It hit a cowherd, who died. They became anxious … “There’s no offense entailing expulsion. But, monks, you shouldn’t throw down stones for fun. If you do, you commit an offense of wrong conduct.”
+107On one occasion the bhikkhus from the group of six climbed the Vulture Peak and threw down a stone for fun. It hit a cowherd, who died. They became anxious … “There’s no offense entailing expulsion. But, bhikkhus, you shouldn’t throw down stones for fun. If you do, you commit an offense of wrong conduct.”
 
-108On one occasion a certain monk was sick. The monks made him sweat by heating him. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
+108On one occasion a certain bhikkhu was sick. The bhikkhus made him sweat by heating him. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-109On one occasion a certain monk was sick. The monks made him sweat by heating him, aiming to kill him. He died. … He did not die. The monks became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+109On one occasion a certain bhikkhu was sick. The bhikkhus made him sweat by heating him, aiming to kill him. He died. … He did not die. The bhikkhus became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-110On one occasion a monk had a severe headache. The monks gave him medical treatment through the nose. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
+110On one occasion a bhikkhu had a severe headache. The bhikkhus gave him medical treatment through the nose. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-111On one occasion a certain monk had a severe headache. The monks gave him medical treatment through the nose, aiming to kill him. He died. … He did not die. The monks became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+111On one occasion a certain bhikkhu had a severe headache. The bhikkhus gave him medical treatment through the nose, aiming to kill him. He died. … He did not die. The bhikkhus became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-112On one occasion a certain monk was sick. The monks massaged him. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
+112On one occasion a certain bhikkhu was sick. The bhikkhus massaged him. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-113On one occasion a certain monk was sick. The monks massaged him, aiming to kill him. He died. … He did not die. The monks became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+113On one occasion a certain bhikkhu was sick. The bhikkhus massaged him, aiming to kill him. He died. … He did not die. The bhikkhus became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-114On one occasion a certain monk was sick. The monks bathed him. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
+114On one occasion a certain bhikkhu was sick. The bhikkhus bathed him. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-115On one occasion a certain monk was sick. The monks bathed him, aiming to kill him. He died. … He did not die. The monks became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+115On one occasion a certain bhikkhu was sick. The bhikkhus bathed him, aiming to kill him. He died. … He did not die. The bhikkhus became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-116On one occasion a certain monk was sick. The monks rubbed him with oil. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
+116On one occasion a certain bhikkhu was sick. The bhikkhus rubbed him with oil. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-117On one occasion a certain monk was sick. The monks rubbed him with oil, aiming to kill him. He died. … He did not die. The monks became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+117On one occasion a certain bhikkhu was sick. The bhikkhus rubbed him with oil, aiming to kill him. He died. … He did not die. The bhikkhus became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-118On one occasion a certain monk was sick. The monks made him get up. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
+118On one occasion a certain bhikkhu was sick. The bhikkhus made him get up. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-119On one occasion a certain monk was sick. The monks made him get up, aiming to kill him. He died. … He did not die. The monks became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+119On one occasion a certain bhikkhu was sick. The bhikkhus made him get up, aiming to kill him. He died. … He did not die. The bhikkhus became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-120On one occasion a certain monk was sick. The monks made him lie down. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
+120On one occasion a certain bhikkhu was sick. The bhikkhus made him lie down. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-121On one occasion a certain monk was sick. The monks made him lie down, aiming to kill him. He died. … He did not die. The monks became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+121On one occasion a certain bhikkhu was sick. The bhikkhus made him lie down, aiming to kill him. He died. … He did not die. The bhikkhus became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-122On one occasion a certain monk was sick. The monks gave him food. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
+122On one occasion a certain bhikkhu was sick. The bhikkhus gave him food. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-123On one occasion a certain monk was sick. The monks gave him food, aiming to kill him. He died. … He did not die. The monks became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+123On one occasion a certain bhikkhu was sick. The bhikkhus gave him food, aiming to kill him. He died. … He did not die. The bhikkhus became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-124On one occasion a certain monk was sick. The monks gave him a drink. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
+124On one occasion a certain bhikkhu was sick. The bhikkhus gave him a drink. He died. They became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-125On one occasion a certain monk was sick. The monks gave him a drink, aiming to kill him. He died. … He did not die. The monks became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+125On one occasion a certain bhikkhu was sick. The bhikkhus gave him a drink, aiming to kill him. He died. … He did not die. The bhikkhus became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-126At one time a woman whose husband was living away from home became pregnant by a lover. She said to a monk who associated with her family, “Venerable, please help me have an abortion.” “Alright,” he said, and he helped her have an abortion. The child died. The monk became anxious … “You have committed an offense entailing expulsion.”
+126At one time a woman whose husband was living away from home became pregnant by a lover. She said to a bhikkhu who associated with her family, “Venerable, please help me have an abortion.” “Alright,” he said, and he helped her have an abortion. The child died. The bhikkhu became anxious … “You have committed an offense entailing expulsion.”
 
-127At one time a certain man had two wives, one barren and one fertile. The barren one said to a monk who associated with her family, “If the other wife gives birth to a son, Venerable, she’ll become the head wife. Please make her have an abortion.” “Alright,” he said, and he did so. The child died, but the mother did not die. The monk became anxious … “You have committed an offense entailing expulsion.”
+127At one time a certain man had two wives, one barren and one fertile. The barren one said to a bhikkhu who associated with her family, “If the other wife gives birth to a son, Venerable, she’ll become the head wife. Please make her have an abortion.” “Alright,” he said, and he did so. The child died, but the mother did not die. The bhikkhu became anxious … “You have committed an offense entailing expulsion.”
 
-128At one time a certain man had two wives, one barren and one fertile. The barren one said to a monk who associated with her family, “If the other wife gives birth to a son, Venerable, she’ll become the head wife. Please make her have an abortion.” “Alright,” he said, and he did so. The mother died, but the child did not die. The monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+128At one time a certain man had two wives, one barren and one fertile. The barren one said to a bhikkhu who associated with her family, “If the other wife gives birth to a son, Venerable, she’ll become the head wife. Please make her have an abortion.” “Alright,” he said, and he did so. The mother died, but the child did not die. The bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-129At one time a certain man had two wives, one barren and one fertile. The barren one said to a monk who associated with her family, “If the other wife gives birth to a son, Venerable, she’ll become the head wife. Please make her have an abortion.” “Alright,” he said, and he did so. Both died. … Neither died. The monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+129At one time a certain man had two wives, one barren and one fertile. The barren one said to a bhikkhu who associated with her family, “If the other wife gives birth to a son, Venerable, she’ll become the head wife. Please make her have an abortion.” “Alright,” he said, and he did so. Both died. … Neither died. The bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-130On one occasion a woman who was pregnant said to a monk who associated with her family, “Venerable, please help me have an abortion.” “Well then, crush it,” he said. She crushed it and had an abortion. The monk became anxious … “You have committed an offense entailing expulsion.”
+130On one occasion a woman who was pregnant said to a bhikkhu who associated with her family, “Venerable, please help me have an abortion.” “Well then, crush it,” he said. She crushed it and had an abortion. The bhikkhu became anxious … “You have committed an offense entailing expulsion.”
 
-131On one occasion a woman who was pregnant said to a monk who associated with her family, “Venerable, please help me have an abortion.” “Well then, heat yourself,” he said. She heated herself and had an abortion. The monk became anxious … “You have committed an offense entailing expulsion.”
+131On one occasion a woman who was pregnant said to a bhikkhu who associated with her family, “Venerable, please help me have an abortion.” “Well then, heat yourself,” he said. She heated herself and had an abortion. The bhikkhu became anxious … “You have committed an offense entailing expulsion.”
 
-132On one occasion a barren woman said to a monk who associated with her family, “Please find some medicine, Venerable, to help me become pregnant.” “Alright,” he said, and he gave her some medicine. She died. He became anxious … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.”
+132On one occasion a barren woman said to a bhikkhu who associated with her family, “Please find some medicine, Venerable, to help me become pregnant.” “Alright,” he said, and he gave her some medicine. She died. He became anxious … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.”
 
-133On one occasion a fertile woman said to a monk who associated with her family, “Please find some medicine, Venerable, to help me not become pregnant.” “Alright,” he said, and he gave her some medicine. She died. He became anxious … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.”
+133On one occasion a fertile woman said to a bhikkhu who associated with her family, “Please find some medicine, Venerable, to help me not become pregnant.” “Alright,” he said, and he gave her some medicine. She died. He became anxious … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.”
 
-134On one occasion the monks from the group of six tickled a monk from the group of seventeen to make him laugh. Being unable to catch his breath, he died. They became anxious … “There’s no offense entailing expulsion.”
+134On one occasion the bhikkhus from the group of six tickled a bhikkhu from the group of seventeen to make him laugh. Being unable to catch his breath, he died. They became anxious … “There’s no offense entailing expulsion.”
 
-135On one occasion the monks from the group of seventeen overpowered a monk from the group of six, intending to do a legal procedure against him. He died. They became anxious … “There’s no offense entailing expulsion.”
+135On one occasion the bhikkhus from the group of seventeen overpowered a bhikkhu from the group of six, intending to do a legal procedure against him. He died. They became anxious … “There’s no offense entailing expulsion.”
 
-136On one occasion an exorcist monk killed a spirit. He became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+136On one occasion an exorcist bhikkhu killed a spirit. He became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-137On one occasion a monk sent a second monk to a dwelling inhabited by predatory spirits. The spirits killed him. The first monk became anxious … “There’s no offense for one who isn’t aiming at death.”
+137On one occasion a bhikkhu sent a second bhikkhu to a dwelling inhabited by predatory spirits. The spirits killed him. The first bhikkhu became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-138On one occasion a monk sent a second monk to a dwelling inhabited by predatory spirits, aiming to kill him. The spirits killed him. … The spirits did not kill him. The first monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+138On one occasion a bhikkhu sent a second bhikkhu to a dwelling inhabited by predatory spirits, aiming to kill him. The spirits killed him. … The spirits did not kill him. The first bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-139On one occasion a monk sent a second monk to a wilderness inhabited by predatory animals. The predatory animals killed him. The first monk became anxious … “There’s no offense for one who isn’t aiming at death.”
+139On one occasion a bhikkhu sent a second bhikkhu to a wilderness inhabited by predatory animals. The predatory animals killed him. The first bhikkhu became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-140On one occasion a monk sent a second monk to a wilderness inhabited by predatory animals, aiming to kill him. The predatory animals killed him. … The predatory animals did not kill him. The first monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+140On one occasion a bhikkhu sent a second bhikkhu to a wilderness inhabited by predatory animals, aiming to kill him. The predatory animals killed him. … The predatory animals did not kill him. The first bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-141On one occasion a monk sent a second monk to a wilderness inhabited by criminals. The criminals killed him. The first monk became anxious … “There’s no offense for one who isn’t aiming at death.”
+141On one occasion a bhikkhu sent a second bhikkhu to a wilderness inhabited by criminals. The criminals killed him. The first bhikkhu became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-142On one occasion a monk sent a second monk to a wilderness inhabited by criminals, aiming to kill him. The criminals killed him. … The criminals did not kill him. The first monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+142On one occasion a bhikkhu sent a second bhikkhu to a wilderness inhabited by criminals, aiming to kill him. The criminals killed him. … The criminals did not kill him. The first bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-143On one occasion a monk killed a person, thinking it was them … killed another person, thinking it was them … killed a person, thinking they were another … killed another person, thinking they were another. That monk became anxious … “You have committed an offense entailing expulsion.”
+143On one occasion a bhikkhu killed a person, thinking it was them … killed another person, thinking it was them … killed a person, thinking they were another … killed another person, thinking they were another. That bhikkhu became anxious … “You have committed an offense entailing expulsion.”
 
-144At one time a monk was possessed by a spirit. Another monk gave him a blow. He died. The other monk became anxious … “There’s no offense for one who isn’t aiming at death.”
+144At one time a bhikkhu was possessed by a spirit. Another bhikkhu gave him a blow. He died. The other bhikkhu became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-145At one time a monk was possessed by a spirit. A second monk gave him a blow, aiming to kill him. He died. … He did not die. The second monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+145At one time a bhikkhu was possessed by a spirit. A second bhikkhu gave him a blow, aiming to kill him. He died. … He did not die. The second bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-146On one occasion a monk gave a talk about heaven to a man of good behavior. He became keen on it and died. The monk became anxious … “There’s no offense for one who isn’t aiming at death.”
+146On one occasion a bhikkhu gave a talk about heaven to a man of good behavior. He became keen on it and died. The bhikkhu became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-147On one occasion a monk gave a talk about heaven to a man of good behavior, aiming to kill him. He became keen on it and died. … He became keen on it, but did not die. The monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+147On one occasion a bhikkhu gave a talk about heaven to a man of good behavior, aiming to kill him. He became keen on it and died. … He became keen on it, but did not die. The bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-148On one occasion a monk gave a talk about hell to a man bound for hell. He became terrified and died. The monk became anxious … “There’s no offense for one who isn’t aiming at death.”
+148On one occasion a bhikkhu gave a talk about hell to a man bound for hell. He became terrified and died. The bhikkhu became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-149On one occasion a monk gave a talk about hell to a man bound for hell, aiming to kill him. He became terrified and died. … He became terrified, but did not die. The monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+149On one occasion a bhikkhu gave a talk about hell to a man bound for hell, aiming to kill him. He became terrified and died. … He became terrified, but did not die. The bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-150On one occasion the monks of Āḷavī were felling a tree while doing building work. A monk said to a second monk, “Fell it while standing here.” He did. The tree fell on him, and he died. The first monk became anxious … “There’s no offense for one who isn’t aiming at death.”
+150On one occasion the bhikkhus of Āḷavī were felling a tree while doing building work. A bhikkhu said to a second bhikkhu, “Fell it while standing here.” He did. The tree fell on him, and he died. The first bhikkhu became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-151On one occasion the monks of Āḷavī were felling a tree while doing building work. A monk said to a second monk, “Fell it while standing here,” aiming to kill him. He did. The tree fell on him, and he died. … The tree fell on him, but he did not die. The first monk became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+151On one occasion the bhikkhus of Āḷavī were felling a tree while doing building work. A bhikkhu said to a second bhikkhu, “Fell it while standing here,” aiming to kill him. He did. The tree fell on him, and he died. … The tree fell on him, but he did not die. The first bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-152On one occasion the monks from the group of six set fire to a forest grove. People were burned and died. The monks became anxious … “There’s no offense for one who isn’t aiming at death.”
+152On one occasion the bhikkhus from the group of six set fire to a forest grove. People were burned and died. The bhikkhus became anxious … “There’s no offense for one who isn’t aiming at death.”
 
-153On one occasion the monks from the group of six set fire to a forest grove, aiming to cause death. People were burned and died. … People were burned, but did not die. The monks became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
+153On one occasion the bhikkhus from the group of six set fire to a forest grove, aiming to cause death. People were burned and died. … People were burned, but did not die. The bhikkhus became anxious … “There’s no offense entailing expulsion, but there’s a serious offense.”
 
-154On one occasion a monk went to a place of execution and said to the executioner:
+154On one occasion a bhikkhu went to a place of execution and said to the executioner:
 
 “Don’t torture him. Kill him with a single blow.”
 
-“Alright, Sir,” he said, and he killed him with a single blow. The monk became anxious … “You have committed an offense entailing expulsion.”
+“Alright, Sir,” he said, and he killed him with a single blow. The bhikkhu became anxious … “You have committed an offense entailing expulsion.”
 
-155On one occasion a monk went to a place of execution and said to the executioner, “Don’t torture him. Kill him with a single blow.” Saying, “No, I can’t,” he executed him. The monk became anxious … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.”
+155On one occasion a bhikkhu went to a place of execution and said to the executioner, “Don’t torture him. Kill him with a single blow.” Saying, “No, I can’t,” he executed him. The bhikkhu became anxious … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.”
 
-156On one occasion a man whose hands and feet had been cut off was at his relatives’ house, surrounded by his relations. A monk said to those people, “Do you want to euthanize him?”
+156On one occasion a man whose hands and feet had been cut off was at his relatives’ house, surrounded by his relations. A bhikkhu said to those people, “Do you want to euthanize him?”
 
 “Yes, Sir.”
 
 “Then give him buttermilk.”
 
 
-They gave him buttermilk and he died. The monk became anxious … “You have committed an offense entailing expulsion.”
+They gave him buttermilk and he died. The bhikkhu became anxious … “You have committed an offense entailing expulsion.”
 
 157On one occasion a man whose hands and feet had been cut off was at home, surrounded by his relations. A nun said to those people, “Do you want to euthanize him?”
 
@@ -509,7 +509,7 @@ They gave him buttermilk and he died. The monk became anxious … “You have co
 
 “Then give him salty purgative.”
 
-They gave him salty purgative and he died. The nun became anxious … She then told the nuns, who in turn told the monks, who then told the Buddha. “Monks, that nun has committed an offense entailing expulsion.”
+They gave him salty purgative and he died. The nun became anxious … She then told the nuns, who in turn told the bhikkhus, who then told the Buddha. “bhikkhus, that nun has committed an offense entailing expulsion.”
 
 158The third offense entailing expulsion is finished.
 

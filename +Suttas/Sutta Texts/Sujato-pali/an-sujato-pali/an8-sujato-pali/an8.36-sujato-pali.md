@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three grounds for making merit. What three? Giving, ethical conduct, and meditation are all grounds for making merit.
+1“bhikkhus, there are these three grounds for making merit. What three? Giving, ethical conduct, and meditation are all grounds for making merit.
 
 2First, someone has practiced a little giving and ethical conduct as grounds for making merit, but they haven’t got as far as meditation as a ground for making merit. When their body breaks up, after death, they’re reborn among disadvantaged humans.
 

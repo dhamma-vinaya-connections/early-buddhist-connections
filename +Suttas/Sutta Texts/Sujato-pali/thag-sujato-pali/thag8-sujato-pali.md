@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 8: Groups of Eight Verses
 
@@ -66,27 +66,27 @@ lie as still as a corpse.
 
 502Free of anger and acrimony,  
 free of deceit, and rid of slander;  
-that’s how such a mendicant  
+that’s how such a bhikkhu  
 doesn’t grieve after passing away.
 
 503Free of anger and acrimony,  
 free of deceit, and rid of slander;  
-that’s how a mendicant with sense doors always guarded  
+that’s how a bhikkhu with sense doors always guarded  
 doesn’t grieve after passing away.
 
 504Free of anger and acrimony,  
 free of deceit, and rid of slander;  
-that’s how a mendicant of good morals  
+that’s how a bhikkhu of good morals  
 doesn’t grieve after passing away.
 
 505Free of anger and acrimony,  
 free of deceit, and rid of slander;  
-that’s how a mendicant with good friends  
+that’s how a bhikkhu with good friends  
 doesn’t grieve after passing away.
 
 506Free of anger and acrimony,  
 free of deceit, and rid of slander;  
-that’s how a mendicant of good wisdom,  
+that’s how a bhikkhu of good wisdom,  
 doesn’t grieve after passing away.
 
 507Whoever has faith in the Realized One,  

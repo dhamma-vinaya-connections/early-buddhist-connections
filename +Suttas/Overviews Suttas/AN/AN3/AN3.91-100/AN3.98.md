@@ -46,7 +46,7 @@ parallels_partilal: "[[SA-2.146]], [[SA920]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant is beautiful, strong, and fast like a thoroughbred horse
+> A bhikkhu is beautiful, strong, and fast like a thoroughbred horse
 
 > [!info] Key Excerpts 
 > Bhikkhu is beautiful because is ethical, strong for energetic and fast for his wisdom

@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pd.1.1.1* *BD.3.419* At that time the enlightened one, the lord, was staying at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six nuns, having had ghee[^1] asked for, partook of it. People … spread it about, saying: “How can these nuns, having had ghee asked for, partake of it? Who does not like well cooked things? Who does not like sweet things?”[^2] Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six nuns, having had ghee asked for, partake of it?” …
 
-“Is it true, as is said, monks, that the group of six nuns, having had ghee asked for, partook of it?”
+“Is it true, as is said, bhikkhus, that the group of six nuns, having had ghee asked for, partook of it?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the group of six nuns …? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the group of six nuns …? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, having had ghee asked for, should partake of it, it should be confessed by that nun, saying: ‘I have fallen, ladies, into a blameworthy matter, un-becoming, which ought to be confessed; I confess it.’”
 
@@ -29,7 +29,7 @@ And thus this rule of training for nuns came to be laid down by the lord.
 
 “Formerly, ladies, we, having had ghee asked for, partook of it, thus there came to be comfort for us. But now it is forbidden by the lord and, being scrupulous, we do not have it asked for, thus there does not come to be comfort for us.” They told this matter to the lord. He said:
 
-“I allow, monks, an ill nun, having had ghee asked for, *Vin.4.347* to partake of it. And thus, monks, let the nuns set forth this rule of training:
+“I allow, bhikkhus, an ill nun, having had ghee asked for, *Vin.4.347* to partake of it. And thus, bhikkhus, let the nuns set forth this rule of training:
 
 “Whatever nun who is not ill, having had ghee asked for, should partake of it, it should be confessed by that nun, saying: ‘I have fallen, ladies, into a blameworthy matter, unbecoming, which ought to be confessed; I confess it.’”
 

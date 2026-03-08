@@ -16,20 +16,20 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery, the nun Thullanandā was taking sides with the monk Ariṭṭha, an ex-vulture-killer, who had been ejected by a unanimous Sangha.
+1At one time when the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery, the nun Thullanandā was taking sides with the bhikkhu Ariṭṭha, an ex-vulture-killer, who had been ejected by a unanimous Sangha.
 
-2The nuns of few desires complained and criticized her, “How can Venerable Thullanandā take sides with the monk Ariṭṭha who has been ejected by a unanimous Sangha?” … “Is it true, monks, that the nun Thullanandā is doing this?”
+2The nuns of few desires complained and criticized her, “How can Venerable Thullanandā take sides with the bhikkhu Ariṭṭha who has been ejected by a unanimous Sangha?” … “Is it true, bhikkhus, that the nun Thullanandā is doing this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“How can the nun Thullanandā take sides with the monk Ariṭṭha who has been ejected by a unanimous Sangha? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How can the nun Thullanandā take sides with the bhikkhu Ariṭṭha who has been ejected by a unanimous Sangha? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
-3‘If a nun takes sides with a monk who has been ejected by a unanimous Sangha—in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction—and who is disrespectful, who has not made amends, and who has not made friends, the nuns should correct her like this: “Venerable, this monk has been ejected by a unanimous Sangha in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction. He’s disrespectful, hasn’t made amends, and hasn’t made friends. Venerable, don’t take sides with this monk.” If that nun continues as before, the nuns should press her up to three times to make her stop. If she then stops, all is well. If she does not stop, she too is expelled and excluded from the community. The training rule on taking sides with one who has been ejected.’”
+3‘If a nun takes sides with a bhikkhu who has been ejected by a unanimous Sangha—in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction—and who is disrespectful, who has not made amends, and who has not made friends, the nuns should correct her like this: “Venerable, this bhikkhu has been ejected by a unanimous Sangha in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction. He’s disrespectful, hasn’t made amends, and hasn’t made friends. Venerable, don’t take sides with this bhikkhu.” If that nun continues as before, the nuns should press her up to three times to make her stop. If she then stops, all is well. If she does not stop, she too is expelled and excluded from the community. The training rule on taking sides with one who has been ejected.’”
 
 #### Definitions
 
@@ -44,35 +44,35 @@ The Buddha rebuked her …
 
 8**In accordance with the Teacher’s instruction:** in accordance with the Victor’s instruction, in accordance with the Buddha’s instruction.
 
-9**Who is disrespectful:** he does not heed the Sangha, groups of monks, individual monks, or legal procedures.
+9**Who is disrespectful:** he does not heed the Sangha, groups of bhikkhus, individual bhikkhus, or legal procedures.
 
 10**Who has not made amends:** he has been ejected and not reinstated.
 
 
-11**Who has not made friends:** monks belonging to the same Buddhist sect is what is meant by “friends”. He is not together with them—therefore it is called “who has not made friends”.
+11**Who has not made friends:** bhikkhus belonging to the same Buddhist sect is what is meant by “friends”. He is not together with them—therefore it is called “who has not made friends”.
 
 12**Takes sides with:** she has the same view, the same belief, the same persuasion as he does.
 
 13**Her:** that nun who supports one who has been ejected.
 
 
-14**The nuns:** Other nuns who see it or hear about it. They should correct her like this: “Venerable, this monk has been ejected by a unanimous Sangha in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction. He’s disrespectful, hasn’t made amends, and hasn’t made friends. Venerable, don’t take sides with this monk.” And they should correct her a second and a third time.
+14**The nuns:** Other nuns who see it or hear about it. They should correct her like this: “Venerable, this bhikkhu has been ejected by a unanimous Sangha in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction. He’s disrespectful, hasn’t made amends, and hasn’t made friends. Venerable, don’t take sides with this bhikkhu.” And they should correct her a second and a third time.
 
 
 If she stops, all is well. If she does not stop, she commits an offense of wrong conduct. If those who heard about it do not say anything, they commit an offense of wrong conduct.
 
 That nun, even if she has to be pulled into the midst of the Sangha, should be corrected like this:
 
-“Venerable, this monk has been ejected by a unanimous Sangha in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction. He’s disrespectful, hasn’t made amends, and hasn’t made friends. Venerable, don’t take sides with this monk.” They should correct her a second and a third time.
+“Venerable, this bhikkhu has been ejected by a unanimous Sangha in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction. He’s disrespectful, hasn’t made amends, and hasn’t made friends. Venerable, don’t take sides with this bhikkhu.” They should correct her a second and a third time.
 
 
 If she stops, all is well. If she does not stop, she commits an offense of wrong conduct.
 
-“And, monks, she should be pressed like this. A competent and capable nun should inform the Sangha:
+“And, bhikkhus, she should be pressed like this. A competent and capable nun should inform the Sangha:
 
-15‘Please, Venerables, I ask the Sangha to listen. The nun so-and-so is taking sides with a monk who has been ejected by a unanimous Sangha—in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction—and who is disrespectful, who has not made amends, and who has not made friends. And she keeps on doing it. If it seems appropriate to the Sangha, the Sangha should press her to make her stop. This is the motion.
+15‘Please, Venerables, I ask the Sangha to listen. The nun so-and-so is taking sides with a bhikkhu who has been ejected by a unanimous Sangha—in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction—and who is disrespectful, who has not made amends, and who has not made friends. And she keeps on doing it. If it seems appropriate to the Sangha, the Sangha should press her to make her stop. This is the motion.
 
-16Please, Venerables, I ask the Sangha to listen. The nun so-and-so is taking sides with a monk who has been ejected by a unanimous Sangha—in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction—and who is disrespectful, who has not made amends, and who has not made friends. And she keeps on doing it. The Sangha presses her to make her stop. Any nun who approves of pressing her to make her stop should remain silent. Any nun who doesn’t approve should speak up.
+16Please, Venerables, I ask the Sangha to listen. The nun so-and-so is taking sides with a bhikkhu who has been ejected by a unanimous Sangha—in accordance with the Teaching, the Monastic Law, and the Teacher’s instruction—and who is disrespectful, who has not made amends, and who has not made friends. And she keeps on doing it. The Sangha presses her to make her stop. Any nun who approves of pressing her to make her stop should remain silent. Any nun who doesn’t approve should speak up.
 
 17For the second time I speak on this matter … For the third time I speak on this matter …
 

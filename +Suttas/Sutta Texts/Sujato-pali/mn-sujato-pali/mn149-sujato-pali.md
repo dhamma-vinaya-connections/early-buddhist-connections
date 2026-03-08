@@ -18,16 +18,16 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, I shall teach you the great discourse on the six sense fields. Listen and pay close attention, I will speak.”
+“bhikkhus, I shall teach you the great discourse on the six sense fields. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, when you don’t truly know and see the eye, sights, eye consciousness, eye contact, and what is felt as pleasant, painful, or neutral that arises conditioned by eye contact, you’re aroused by desire for these things.
+2“bhikkhus, when you don’t truly know and see the eye, sights, eye consciousness, eye contact, and what is felt as pleasant, painful, or neutral that arises conditioned by eye contact, you’re aroused by desire for these things.
 
 3Someone who lives aroused like this — fettered, confused, concentrating on gratification — accumulates the five grasping aggregates for themselves in the future. And their craving — which leads to future rebirth, mixed up with relishing and greed, looking for enjoyment in various different realms — grows. Their physical and mental stress, torment, and fever grow. And they experience physical and mental suffering.
 
@@ -63,7 +63,7 @@ language: "English - Pali"
 These are the things that should be realized by direct knowledge.”
 
 
-24That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+24That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

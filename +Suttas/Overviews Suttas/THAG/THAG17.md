@@ -58,7 +58,7 @@ as per their conduct and mindfulness,
 diligent
 as per their intentions and meditation,
 happy inside, serene, solitary, contented:
-that is what they call a mendicant
+that is what they call a bhikkhu
 
 > [!info] Key Excerpts 
 > Calm and free of despair,

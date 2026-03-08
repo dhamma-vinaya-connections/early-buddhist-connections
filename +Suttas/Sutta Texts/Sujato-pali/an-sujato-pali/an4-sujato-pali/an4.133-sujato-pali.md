@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four people are found in the world. What four? One who understands immediately, one who understands after detailed explanation, one who needs personal training, and one who merely learns by rote. These are the four people found in the world.”
+1“bhikkhus, these four people are found in the world. What four? One who understands immediately, one who understands after detailed explanation, one who needs personal training, and one who merely learns by rote. These are the four people found in the world.”
 
 1"Cattārome, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. Katame cattāro? Ugghaṭitaññū, vipañcitaññū, neyyo, padaparamo – ime kho, bhikkhave, cattāro puggalā santo saṁvijjamānā lokasmin"ti.
 

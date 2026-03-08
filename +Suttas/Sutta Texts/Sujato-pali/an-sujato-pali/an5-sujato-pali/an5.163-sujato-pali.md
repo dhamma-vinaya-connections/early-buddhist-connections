@@ -20,14 +20,14 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Venerable Sāriputta addressed the mendicants: “Reverends, mendicants!”
+1There Venerable Sāriputta addressed the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Sāriputta said this:
 
 
-2“A mendicant with five qualities is fit to hold a discussion with their spiritual companions. What five?
+2“A bhikkhu with five qualities is fit to hold a discussion with their spiritual companions. What five?
 
-A mendicant is personally accomplished in ethics, and answers questions that come up when discussing accomplishment in ethics.
+A bhikkhu is personally accomplished in ethics, and answers questions that come up when discussing accomplishment in ethics.
 
 
 They’re personally accomplished in immersion, …
@@ -39,7 +39,7 @@ They’re personally accomplished in freedom, …
 
 They’re personally accomplished in the knowledge and vision of freedom, and they answer questions that come up when discussing accomplishment in the knowledge and vision of freedom.
 
-A mendicant with these five qualities is fit to hold a discussion with their spiritual companions.”
+A bhikkhu with these five qualities is fit to hold a discussion with their spiritual companions.”
 
 #### Pali
 

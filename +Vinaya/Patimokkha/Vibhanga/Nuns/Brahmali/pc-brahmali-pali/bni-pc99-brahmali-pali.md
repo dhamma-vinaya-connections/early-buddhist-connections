@@ -18,21 +18,21 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were engaged in malicious talebearing between monks who were arguing. After hearing something on one side they reported it to the other side, and vice versa, in order to create division between them. In this way they started new quarrels and made existing quarrels worse.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were engaged in malicious talebearing between bhikkhus who were arguing. After hearing something on one side they reported it to the other side, and vice versa, in order to create division between them. In this way they started new quarrels and made existing quarrels worse.
 
 
-The monks of few desires complained and criticized them, “How can the monks from the group of six engage in malicious talebearing between monks who are arguing? How can they report to one side what they have heard on the other side, and vice versa, in order to create division, and in this way start new quarrels and make existing quarrels worse?”
+The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six engage in malicious talebearing between bhikkhus who are arguing? How can they report to one side what they have heard on the other side, and vice versa, in order to create division, and in this way start new quarrels and make existing quarrels worse?”
 
-2After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned those monks: “Is it true, monks, that you do this?”
+2After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned those bhikkhus: “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk engages in malicious talebearing between monks, he commits an offense entailing confession.’”
+3‘If a bhikkhu engages in malicious talebearing between bhikkhus, he commits an offense entailing confession.’”
 
 #### Definitions
 

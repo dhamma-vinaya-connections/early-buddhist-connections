@@ -15,7 +15,7 @@ language: "English"
 ## ## Pāpaṇika Sutta
 
 
-“Monks, a shopkeeper endowed with three factors will, in no long time, achieve greatness & abundance in terms of wealth. Which three? There is the case where a shopkeeper has a good eye, is astute, & is consummate in his backing.
+“bhikkhus, a shopkeeper endowed with three factors will, in no long time, achieve greatness & abundance in terms of wealth. Which three? There is the case where a shopkeeper has a good eye, is astute, & is consummate in his backing.
 
 “And how does a shopkeeper have a good eye? There is the case where a shopkeeper knows of an item: ‘This item can be bought at this price and sold at this price; the cost will be this much, and the profit this much.’ This is how a shopkeeper has a good eye.
 
@@ -25,15 +25,15 @@ language: "English"
 
 “A shopkeeper endowed with these three factors will, in no long time, achieve greatness & abundance in terms of wealth.
 
-“Monks, a monk endowed with three factors will, in no long time, achieve greatness & abundance in terms of skillful qualities. Which three? There is the case where a monk has a good eye, is astute, & is consummate in his backing.
+“bhikkhus, a bhikkhu endowed with three factors will, in no long time, achieve greatness & abundance in terms of skillful qualities. Which three? There is the case where a bhikkhu has a good eye, is astute, & is consummate in his backing.
 
-“And how does a monk have a good eye? There is the case where a monk discerns, as it has come to be, that ‘This is stress’… ‘This is the origination of stress’… ‘This is the cessation of stress’… ‘This is the path of practice leading to the cessation of stress.’ This is how a monk has a good eye.
+“And how does a bhikkhu have a good eye? There is the case where a bhikkhu discerns, as it has come to be, that ‘This is stress’… ‘This is the origination of stress’… ‘This is the cessation of stress’… ‘This is the path of practice leading to the cessation of stress.’ This is how a bhikkhu has a good eye.
 
-“And how is a monk astute? There is the case where a monk keeps his persistence aroused for abandoning unskillful qualities and taking on skillful qualities. He is steadfast, solid in his effort, not shirking his duties with regard to skillful qualities. This is how a monk is astute.
+“And how is a bhikkhu astute? There is the case where a bhikkhu keeps his persistence aroused for abandoning unskillful qualities and taking on skillful qualities. He is steadfast, solid in his effort, not shirking his duties with regard to skillful qualities. This is how a bhikkhu is astute.
 
-“And how is a monk consummate in his backing? There is the case where a monk—approaching at regular intervals those monks who are learned, to whom the tradition has come down, who have memorized the suttas, memorized the Vinaya, memorized the mātikas [lists of Dhamma topics]—asks & questions them, ‘How is this, venerable sirs? What is the meaning of this?’ Those venerable ones make open what isn’t open, make plain what isn’t plain, dispel doubt on various doubtful points. This is how a monk is consummate in his backing.
+“And how is a bhikkhu consummate in his backing? There is the case where a bhikkhu—approaching at regular intervals those bhikkhus who are learned, to whom the tradition has come down, who have memorized the suttas, memorized the Vinaya, memorized the mātikas [lists of Dhamma topics]—asks & questions them, ‘How is this, venerable sirs? What is the meaning of this?’ Those venerable ones make open what isn’t open, make plain what isn’t plain, dispel doubt on various doubtful points. This is how a bhikkhu is consummate in his backing.
 
-“Monks, a monk endowed with these three factors will, in no long time, achieve greatness & abundance in terms of skillful qualities.”
+“bhikkhus, a bhikkhu endowed with these three factors will, in no long time, achieve greatness & abundance in terms of skillful qualities.”
 
 See also: [[dn26-thanissaro]]; [[an2.46-thanissaro]]; [[an7.6-thanissaro]]
 

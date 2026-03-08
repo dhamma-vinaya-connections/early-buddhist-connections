@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that, when it is developed and cultivated, brings such happiness as the mind. A developed and cultivated mind brings happiness.”
+1“bhikkhus, I do not see a single thing that, when it is developed and cultivated, brings such happiness as the mind. A developed and cultivated mind brings happiness.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ bhāvitaṁ bahulīkataṁ sukhādhivahaṁ hoti yathayidaṁ, bhikkhave, cittaṁ. Cittaṁ, bhikkhave, bhāvitaṁ bahulīkataṁ sukhādhivahaṁ hotī"ti.
 

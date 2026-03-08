@@ -21,9 +21,9 @@ On one occasion Ven. Mahā Kaccāna was staying near Madhura in the Gundā Fores
 
 “But if one is a youngster, youthful—a black-haired young person endowed with the blessings of youth in the first stage of life—yet does not partake of sensuality, does not live in the midst of sensuality, does not burn with sensual fever, is not chewed up by sensual thoughts, and is not eager in the search for sensuality, then one is reckoned as a wise elder.”
 
-When this was said, Kaṇḍarāyana the brahman rose up from his seat, arranged his cloak over one shoulder, and bowed down at the feet of the monks who were youngsters, (saying,) “You, sirs, are the venerable ones, standing on the level of those who are venerable. We are the youngsters, standing on the level of those who are youngsters.
+When this was said, Kaṇḍarāyana the brahman rose up from his seat, arranged his cloak over one shoulder, and bowed down at the feet of the bhikkhus who were youngsters, (saying,) “You, sirs, are the venerable ones, standing on the level of those who are venerable. We are the youngsters, standing on the level of those who are youngsters.
 
-“Magnificent, Master Kaccāna! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Kaccāna—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Kaccāna remember me as a lay follower who has gone for refuge from this day forward, for life.”
+“Magnificent, Master Kaccāna! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Kaccāna—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of bhikkhus. May Master Kaccāna remember me as a lay follower who has gone for refuge from this day forward, for life.”
 
 See also: [[sn3.1-thanissaro]]; [[dhp260-thanissaro]]
 

@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“In a disciplinary issue, when the tale-bearing on both sides—with contempt for each other’s views, resentful, bitter, and exasperated—is not settled internally, you can expect that this disciplinary issue will be long, fractious, and troublesome, and the mendicants won’t live comfortably.
+1“In a disciplinary issue, when the tale-bearing on both sides—with contempt for each other’s views, resentful, bitter, and exasperated—is not settled internally, you can expect that this disciplinary issue will be long, fractious, and troublesome, and the bhikkhus won’t live comfortably.
 
-2In a disciplinary issue, when the tale-bearing on both sides—with contempt for each other’s views, resentful, bitter, and exasperated—is well settled internally, you can expect that this disciplinary issue won’t lead to lasting acrimony and enmity, and the mendicants will live comfortably.”
+2In a disciplinary issue, when the tale-bearing on both sides—with contempt for each other’s views, resentful, bitter, and exasperated—is well settled internally, you can expect that this disciplinary issue won’t lead to lasting acrimony and enmity, and the bhikkhus will live comfortably.”
 
 1"Yasmiṁ, bhikkhave, adhikaraṇe ubhato vacīsaṁsāro diṭṭhipaḷāso cetaso āghāto appaccayo anabhiraddhi ajjhattaṁ avūpasantaṁ hoti, tasmetaṁ, bhikkhave, adhikaraṇe pāṭikaṅkhaṁ:  ‘dīghattāya kharattāya vāḷattāya saṁvattissati, bhikkhū ca na phāsuṁ viharissanti’.
 

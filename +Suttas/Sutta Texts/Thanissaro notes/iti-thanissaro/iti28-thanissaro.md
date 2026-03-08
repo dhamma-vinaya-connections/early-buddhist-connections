@@ -12,13 +12,13 @@ language: "English"
 
 # Itivuttaka 28
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Endowed with two things, monks, a monk lives in stress in the present life–troubled, distressed, & feverish–and at the break-up of the body, after death, a bad destination can be expected. Which two? A lack of guarding of the doors of the sense faculties, and knowing no moderation in food. Endowed with these two things, a monk lives in stress in the present life–troubled, distressed, & feverish–and at the break-up of the body, after death, a bad destination can be expected.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Endowed with two things, bhikkhus, a bhikkhu lives in stress in the present life–troubled, distressed, & feverish–and at the break-up of the body, after death, a bad destination can be expected. Which two? A lack of guarding of the doors of the sense faculties, and knowing no moderation in food. Endowed with these two things, a bhikkhu lives in stress in the present life–troubled, distressed, & feverish–and at the break-up of the body, after death, a bad destination can be expected.”
 
 Eye & ear & nose,
 
 tongue, body & mind:
 
-when a monk leaves these doors unguarded
+when a bhikkhu leaves these doors unguarded
 
 –knowing no moderation in food,
 

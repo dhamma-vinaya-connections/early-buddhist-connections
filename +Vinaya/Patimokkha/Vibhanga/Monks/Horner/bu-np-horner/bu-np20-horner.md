@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP20]]
 > ◄  [[bu-np19-horner]] 📜  [[bu-np21-horner]] ►
 
-# Monks’ Forfeiture (_Nissaggiya_) 20
+# bhikkhus’ Forfeiture (_Nissaggiya_) 20
 
 *BD.2.109* *Bu-NP.20.1.1* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at the time the venerable Upananda, the son of the Sakyans, came to be skilled[^1] in robe-making. He, making an outer cloak of cloth rags,[^2] making it well-dyed, well-worked, clothed himself in it. Then a certain wandering student,[^3] having clothed himself in a costly cloth,[^4] approached the venerable Upananda, the son of the Sakyans, and having approached the venerable Upananda, the son of the Sakyans, he said: *Vin.3.241*
 
@@ -31,7 +31,7 @@ Then that wandering student, thinking: “What the wandering students said is tr
 
 Then that wandering student … spread it about, saying: “Even householders give back to a householder if he regrets[^8]; but why will one who has gone forth not give back to one who has gone forth?”
 
-Monks heard that wandering student who … spread it about. Those who were modest monks … spread it about, saying: “How can the venerable Upananda, the son of the Sakyans, engage in bartering[^9] together with a wandering student?” Then these monks told this matter to the lord. He said:
+bhikkhus heard that wandering student who … spread it about. Those who were modest bhikkhus … spread it about, saying: “How can the venerable Upananda, the son of the Sakyans, engage in bartering[^9] together with a wandering student?” Then these bhikkhus told this matter to the lord. He said:
 
 “Is it true, as is said, that you, Upananda, engaged in bartering together with a wandering student?”
 
@@ -39,17 +39,17 @@ Monks heard that wandering student who … spread it about. Those who were modes
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, engage in bartering together with a wandering student? It is not, foolish man, for pleasing those who are not (yet) pleased … *BD.2.111* And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, engage in bartering together with a wandering student? It is not, foolish man, for pleasing those who are not (yet) pleased … *BD.2.111* And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should engage in various kinds of bartering, there is an offence of expiation involving forfeiture.”[^10]
+“Whatever bhikkhu should engage in various kinds of bartering, there is an offence of expiation involving forfeiture.”[^10]
 
 * * *
 
-*Bu-NP.20.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-NP.20.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Various means: the requisites of robes, alms-food, lodgings, medicine for the sick, and even a lump of chunam and a toothpick and unwoven thread.[^11]
 
-Should engage in … bartering means: if he transgresses,[^12] saying: ‘Give this for that, take this for that, barter this for that, get this in exchange for that,’[^13] there is an offence of wrong-doing. Inasmuch as it is bartered—one’s own goods gone to the hands of another, another’s goods gone to one’s own hands—it is to be forfeited. It should be forfeited … *Vin.3.242* to an individual. And thus, monks, should it be forfeited: ‘I, honoured sirs, engaged in various kinds of bartering; this is to be forfeited by me. I forfeit it to the Order.’ … ‘… the Order should give back … let the venerable ones give back … I will give back (these goods) to the venerable one.’
+Should engage in … bartering means: if he transgresses,[^12] saying: ‘Give this for that, take this for that, barter this for that, get this in exchange for that,’[^13] there is an offence of wrong-doing. Inasmuch as it is bartered—one’s own goods gone to the hands of another, another’s goods gone to one’s own hands—it is to be forfeited. It should be forfeited … *Vin.3.242* to an individual. And thus, bhikkhus, should it be forfeited: ‘I, honoured sirs, engaged in various kinds of bartering; this is to be forfeited by me. I forfeit it to the Order.’ … ‘… the Order should give back … let the venerable ones give back … I will give back (these goods) to the venerable one.’
 
 If he thinks that it is bartering when it is bartering, there is an offence of expiation involving forfeiture.[^14] If he is in doubt as to whether it is bartering, there is an offence of expiation involving forfeiture. If he thinks that it is not bartering when it is bartering, there is an offence of expiation involving forfeiture. If he thinks that it is bartering when it is not bartering, there *BD.2.112* is an offence of wrong-doing. If he is in doubt as to whether it is not bartering, there is an offence of wrong-doing. If he thinks that it is not bartering when it is not bartering, there is no offence.
 
@@ -68,7 +68,7 @@ And two on (sheep’s) wool, on taking, both the various kinds.[^16]
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

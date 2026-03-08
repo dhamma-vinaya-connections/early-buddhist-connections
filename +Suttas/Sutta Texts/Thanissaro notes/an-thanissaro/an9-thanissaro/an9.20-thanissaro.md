@@ -39,9 +39,9 @@ On one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, A
 
 “If one were to feed one Tathāgata—a worthy one, rightly self-awakened—that would be more fruitful than… if one were to feed 100 Private Buddhas.
 
-“If one were to feed a Saṅgha of monks headed by the Buddha, that would be more fruitful than… if one were to feed a Tathāgata—a worthy one, rightly self-awakened.
+“If one were to feed a Saṅgha of bhikkhus headed by the Buddha, that would be more fruitful than… if one were to feed a Tathāgata—a worthy one, rightly self-awakened.
 
-“If one were to have a dwelling built and dedicated to the Community of the four directions, that would be more fruitful than… if one were to feed a Saṅgha of monks headed by the Buddha.
+“If one were to have a dwelling built and dedicated to the Community of the four directions, that would be more fruitful than… if one were to feed a Saṅgha of bhikkhus headed by the Buddha.
 
 “If one with a confident mind were to go to the Buddha, Dhamma, & Saṅgha for refuge, that would be more fruitful than… if one were to have a dwelling built and dedicated to the Community of the four directions.
 
@@ -49,7 +49,7 @@ On one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, A
 
 “If one were to develop even just one whiff of a heart of goodwill, that would be more fruitful than… if one with a confident mind were to undertake the training rules.…
 
-“If one were to develop even for just a finger-snap the perception of inconstancy, that would be more fruitful than the gift, the great gift, that Velāma the brahman gave, and if one were to feed one person… 100 people consummate in view, and if one were to feed one once-returner… 100 once-returners, and if one were to feed one non-returner… 100 non-returners, and if one were to feed one arahant… 100 arahants, and if one were to feed one Private Buddha… 100 Private Buddhas, and if one were to feed a Tathāgata—a worthy one, rightly self-awakened—and if one were to feed a Saṅgha of monks headed by the Buddha, and if one were to have a dwelling built and dedicated to the Community of the four directions, and if one with a confident mind were to go to the Buddha, Dhamma, & Saṅgha for refuge, and if one with a confident mind were to undertake the training rules—refraining from taking life, refraining from taking what is not given, refraining from sexual misconduct, refraining from lying, refraining from distilled & fermented drinks that cause heedlessness—and if one were to develop even just one whiff of a heart of goodwill.”
+“If one were to develop even for just a finger-snap the perception of inconstancy, that would be more fruitful than the gift, the great gift, that Velāma the brahman gave, and if one were to feed one person… 100 people consummate in view, and if one were to feed one once-returner… 100 once-returners, and if one were to feed one non-returner… 100 non-returners, and if one were to feed one arahant… 100 arahants, and if one were to feed one Private Buddha… 100 Private Buddhas, and if one were to feed a Tathāgata—a worthy one, rightly self-awakened—and if one were to feed a Saṅgha of bhikkhus headed by the Buddha, and if one were to have a dwelling built and dedicated to the Community of the four directions, and if one with a confident mind were to go to the Buddha, Dhamma, & Saṅgha for refuge, and if one with a confident mind were to undertake the training rules—refraining from taking life, refraining from taking what is not given, refraining from sexual misconduct, refraining from lying, refraining from distilled & fermented drinks that cause heedlessness—and if one were to develop even just one whiff of a heart of goodwill.”
 
 ### Notes
 

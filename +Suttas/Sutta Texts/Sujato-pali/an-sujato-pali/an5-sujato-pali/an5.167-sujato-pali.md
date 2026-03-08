@@ -20,24 +20,24 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Sāriputta addressed the mendicants:
+1There Sāriputta addressed the bhikkhus:
 
-“Reverends, a mendicant who wants to accuse another should first establish five things in themselves.
+“Reverends, a bhikkhu who wants to accuse another should first establish five things in themselves.
 
-2What five? I will speak at the right time, not at the wrong time. I will speak truthfully, not falsely. I will speak gently, not harshly. I will speak beneficially, not harmfully. I will speak lovingly, not from secret hate. A mendicant who wants to accuse another should first establish these five things in themselves.
+2What five? I will speak at the right time, not at the wrong time. I will speak truthfully, not falsely. I will speak gently, not harshly. I will speak beneficially, not harmfully. I will speak lovingly, not from secret hate. A bhikkhu who wants to accuse another should first establish these five things in themselves.
 
 3Take a case where I see a certain person being accused at the wrong time, not being disturbed at the right time. They’re accused falsely, not disturbed truthfully. They’re accused harshly, not disturbed gently. They’re accused harmfully, not disturbed beneficially. They’re accused with secret hate, not disturbed lovingly.
 
-4The mendicant who is accused improperly should be reassured in five ways. ‘Venerable, you were accused at the wrong time, not at the right time. There’s no need for you to feel remorse. You were accused falsely, not truthfully. … You were accused harshly, not gently. … You were accused harmfully, not beneficially. … You were accused with secret hate, not lovingly. There’s no need for you to feel remorse.’ A mendicant who is accused improperly should be reassured in these five ways.
+4The bhikkhu who is accused improperly should be reassured in five ways. ‘Venerable, you were accused at the wrong time, not at the right time. There’s no need for you to feel remorse. You were accused falsely, not truthfully. … You were accused harshly, not gently. … You were accused harmfully, not beneficially. … You were accused with secret hate, not lovingly. There’s no need for you to feel remorse.’ A bhikkhu who is accused improperly should be reassured in these five ways.
 
-5The mendicant who makes improper accusations should be chastened in five ways. ‘Reverend, you made an accusation at the wrong time, not at the right time. There’s a reason for you to feel remorse. You made an accusation falsely, not truthfully. … You made an accusation harshly, not gently. … You made an accusation harmfully, not beneficially. … You made an accusation with secret hate, not lovingly. There’s a reason for you to feel remorse.’ The mendicant who makes improper accusations should be chastened in these five ways. Why is that? So that another mendicant wouldn’t think to make a false accusation.
+5The bhikkhu who makes improper accusations should be chastened in five ways. ‘Reverend, you made an accusation at the wrong time, not at the right time. There’s a reason for you to feel remorse. You made an accusation falsely, not truthfully. … You made an accusation harshly, not gently. … You made an accusation harmfully, not beneficially. … You made an accusation with secret hate, not lovingly. There’s a reason for you to feel remorse.’ The bhikkhu who makes improper accusations should be chastened in these five ways. Why is that? So that another bhikkhu wouldn’t think to make a false accusation.
 
 
 6Take a case where I see a certain person being accused at the right time, not being disturbed at the wrong time. They’re accused truthfully, not disturbed falsely. They’re accused gently, not disturbed harshly. They’re accused beneficially, not disturbed harmfully. They’re accused lovingly, not disturbed with secret hate.
 
-7The mendicant who is accused properly should be chastened in five ways. ‘Venerable, you were accused at the right time, not at the wrong time. There’s a reason for you to feel remorse. You were accused truthfully, not falsely. … You were accused gently, not harshly. … You were accused beneficially, not harmfully. … You were accused lovingly, not with secret hate. There’s a reason for you to feel remorse.’ The mendicant who is accused properly should be chastened in these five ways.
+7The bhikkhu who is accused properly should be chastened in five ways. ‘Venerable, you were accused at the right time, not at the wrong time. There’s a reason for you to feel remorse. You were accused truthfully, not falsely. … You were accused gently, not harshly. … You were accused beneficially, not harmfully. … You were accused lovingly, not with secret hate. There’s a reason for you to feel remorse.’ The bhikkhu who is accused properly should be chastened in these five ways.
 
-8The mendicant who makes proper accusations should be reassured in five ways. ‘Reverend, you made an accusation at the right time, not at the wrong time. There’s no need for you to feel remorse. You made an accusation truthfully, not falsely. … You made an accusation gently, not harshly. … You made an accusation beneficially, not harmfully. … You made an accusation lovingly, not with secret hate. There’s no need for you to feel remorse.’ The mendicant who makes proper accusations should be reassured in these five ways. Why is that? So that another mendicant would think to make a true accusation.
+8The bhikkhu who makes proper accusations should be reassured in five ways. ‘Reverend, you made an accusation at the right time, not at the wrong time. There’s no need for you to feel remorse. You made an accusation truthfully, not falsely. … You made an accusation gently, not harshly. … You made an accusation beneficially, not harmfully. … You made an accusation lovingly, not with secret hate. There’s no need for you to feel remorse.’ The bhikkhu who makes proper accusations should be reassured in these five ways. Why is that? So that another bhikkhu would think to make a true accusation.
 
 
 9A person who is accused should ground themselves in two things: truth and an even temper. Even if others accuse me — at the right time or the wrong time, truthfully or falsely, gently or harshly, lovingly or with secret hate — I will still ground myself in two things: truth and an even temper.

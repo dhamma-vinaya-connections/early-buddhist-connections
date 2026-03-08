@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to unskillful qualities, or makes skillful qualities decline like pursuing bad habits and not good habits. When you pursue bad habits and not good habits, unskillful qualities arise and skillful qualities decline.”
+1“bhikkhus, I do not see a single thing that gives rise to unskillful qualities, or makes skillful qualities decline like pursuing bad habits and not good habits. When you pursue bad habits and not good habits, unskillful qualities arise and skillful qualities decline.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannā vā akusalā dhammā uppajjanti uppannā vā kusalā dhammā parihāyanti yathayidaṁ, bhikkhave, anuyogo akusalānaṁ dhammānaṁ, ananuyogo kusalānaṁ dhammānaṁ. Anuyogā, bhikkhave, akusalānaṁ dhammānaṁ, ananuyogā kusalānaṁ dhammānaṁ anuppannā ceva akusalā dhammā uppajjanti uppannā ca kusalā dhammā parihāyantī"ti.
 

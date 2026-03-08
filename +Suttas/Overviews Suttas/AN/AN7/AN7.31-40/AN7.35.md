@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A god speaks of the the seven principles of non-decline to the Buddha , who repeats it to the mendicants
+> A god speaks of the the seven principles of non-decline to the Buddha , who repeats it to the bhikkhus
 
 > [!info] Key Excerpts 
 > Respect for the teacher, for the teaching, for the saṅgha, for the training, for immersion, for diligence, and for hospitality, conscience, and for prudence, being easy to admonish, and good friendship
 > 
-> They personally have these qualities, and praise them. And They encourage other mendicants who lack of them to develop them
+> They personally have these qualities, and praise them. And They encourage other bhikkhus who lack of them to develop them
 > 
 
 

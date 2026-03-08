@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with six qualities soon acquires great and abundant good qualities. What six? It’s when a mendicant is full of light, full of practice, full of inspiration, and full of eagerness. They don’t slack off when it comes to developing skillful qualities. They reach further. A mendicant who has these six qualities soon acquires great and abundant good qualities.”
+1“bhikkhus, a bhikkhu with six qualities soon acquires great and abundant good qualities. What six? It’s when a bhikkhu is full of light, full of practice, full of inspiration, and full of eagerness. They don’t slack off when it comes to developing skillful qualities. They reach further. A bhikkhu who has these six qualities soon acquires great and abundant good qualities.”
 
 1"Chahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva mahantattaṁ vepullattaṁ pāpuṇāti dhammesu. Katamehi chahi? Idha, bhikkhave, bhikkhu ālokabahulo ca hoti yogabahulo ca vedabahulo ca asantuṭṭhibahulo ca anikkhittadhuro ca kusalesu dhammesu uttari ca patāreti. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu nacirasseva mahantattaṁ vepullattaṁ pāpuṇāti dhammesū"ti.
 

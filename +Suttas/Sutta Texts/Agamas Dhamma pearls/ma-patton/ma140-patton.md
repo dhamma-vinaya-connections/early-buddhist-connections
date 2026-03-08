@@ -17,9 +17,9 @@ language: "English"
 
 140. The Extreme
 1. Thus I have heard:[1](#^ma140note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove.
-2. It was then that the Bhagavān addressed the monks, “Among the ways of living, the practice of soliciting alms is the extreme of lowliness.[2](#^ma140note02) The world shuns it so much, calling it the practice of shaving one’s head and holding out a bowl. There’s a reason that those clansmen have taken it up. Why is that? ‘Because I’m tired of birth, old age, illness, death, grief, lamentation, sorrow, pain, and trouble, or simply being subject to the extreme of this whole mass of suffering.’ Didn’t all of you leave home to train on the path with such a thought?”
-The monks said, “Yes.”
-3. The Bhagavān also told the monks, “Foolish are the people who leave home to train on the path with this thought but whose practice then is seriously affected by attachments and longing. Their minds are wrapped in filth, being spiteful, unfaithful, slothful, forgetful, and lacking right _samādhi_. They have poor wisdom, deranged thoughts, and disturbed faculties. They observe the precepts and are quite calm, but they don’t train as an ascetic and don’t develop that practice.
+2. It was then that the Bhagavān addressed the bhikkhus, “Among the ways of living, the practice of soliciting alms is the extreme of lowliness.[2](#^ma140note02) The world shuns it so much, calling it the practice of shaving one’s head and holding out a bowl. There’s a reason that those clansmen have taken it up. Why is that? ‘Because I’m tired of birth, old age, illness, death, grief, lamentation, sorrow, pain, and trouble, or simply being subject to the extreme of this whole mass of suffering.’ Didn’t all of you leave home to train on the path with such a thought?”
+The bhikkhus said, “Yes.”
+3. The Bhagavān also told the bhikkhus, “Foolish are the people who leave home to train on the path with this thought but whose practice then is seriously affected by attachments and longing. Their minds are wrapped in filth, being spiteful, unfaithful, slothful, forgetful, and lacking right _samādhi_. They have poor wisdom, deranged thoughts, and disturbed faculties. They observe the precepts and are quite calm, but they don’t train as an ascetic and don’t develop that practice.
 4. “They are like someone who washes off ink stains with ink, removes blood with blood, removes dirt with dirt, or removes feces with feces.[3](#^ma140note03) They only increase their defilement. They enter gloom from gloom or darkness from darkness. I say those foolish people who observe the ascetic precepts are likewise. That is, their practice is seriously affected by attachments and longing. Their minds are wrapped in filth, being spiteful, unfaithful, slothful, forgetful, and lacking right _samādhi_. They have poor wisdom, deranged thoughts, and disturbed faculties. They observe the precepts and are quite calm, but they don’t train as an ascetic and don’t develop that practice.
 5. “They are like the leftover wood from a cremation in a remote place.[4](#^ma140note04) The ashes from that fire are not any use in a remote place or in a village. I say those foolish people who observe the ascetic precepts are likewise. That is, their practice is seriously affected by attachments and longing. Their minds are wrapped in filth, being spiteful, unfaithful, slothful, forgetful, and lacking right _samādhi_. They have poor wisdom, deranged thoughts, and disturbed faculties. They observe the precepts and are quite calm, but they don’t train as an ascetic and don’t develop that practice.”
 6. Thereupon, the Bhagavān spoke these verses:
@@ -33,7 +33,7 @@ The monks said, “Yes.”
     Someone attached to desire is likewise    
     Like leftover ashes from a fire    
     That’s forgotten by both extremes.”
-7. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved. ^ma140note01-ref ^ma140note02-ref ^ma140note03-ref ^ma140note04-ref
+7. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved. ^ma140note01-ref ^ma140note02-ref ^ma140note03-ref ^ma140note04-ref
 
 ---
 

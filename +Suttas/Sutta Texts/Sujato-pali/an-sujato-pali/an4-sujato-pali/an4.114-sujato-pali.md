@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a royal bull elephant with four factors is worthy of a king, fit to serve a king, and is considered a factor of kingship. What four? A royal bull elephant listens, destroys, endures, and goes fast.
+1“bhikkhus, a royal bull elephant with four factors is worthy of a king, fit to serve a king, and is considered a factor of kingship. What four? A royal bull elephant listens, destroys, endures, and goes fast.
 
 2And how does a royal bull elephant listen? It’s when a royal bull elephant pays heed, pays attention, engages wholeheartedly, and lends an ear to whatever task the elephant trainer has it do, whether or not it has done it before. That’s how a royal bull elephant listens.
 
@@ -31,17 +31,17 @@ language: "English - Pali"
 5And how does a royal bull elephant go fast? It’s when a royal bull elephant swiftly goes in whatever direction the elephant trainer sends it, whether or not it has been there before. That’s how a royal bull elephant goes fast. A royal bull elephant with four factors is worthy of a king, fit to serve a king, and is considered a factor of kingship.
 
 
-6In the same way, a mendicant with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What four? A mendicant listens, destroys, endures, and goes fast.
+6In the same way, a bhikkhu with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What four? A bhikkhu listens, destroys, endures, and goes fast.
 
-7And how does a mendicant listen? It’s when a mendicant pays heed, pays attention, engages wholeheartedly, and lends an ear when the teaching and training proclaimed by a Realized One is being taught. That’s how a mendicant listens.
+7And how does a bhikkhu listen? It’s when a bhikkhu pays heed, pays attention, engages wholeheartedly, and lends an ear when the teaching and training proclaimed by a Realized One is being taught. That’s how a bhikkhu listens.
 
-8And how does a mendicant destroy? It’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel thought. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them. That’s how a mendicant destroys.
+8And how does a bhikkhu destroy? It’s when a bhikkhu doesn’t tolerate a sensual, malicious, or cruel thought. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them. That’s how a bhikkhu destroys.
 
-9And how does a mendicant endure? It’s when a mendicant endures cold, heat, hunger, and thirst; the touch of flies, mosquitoes, wind, sun, and reptiles; rude and unwelcome criticism; and they put up with physical pain — sharp, severe, acute, unpleasant, disagreeable, and life-threatening. That’s how a mendicant endures.
+9And how does a bhikkhu endure? It’s when a bhikkhu endures cold, heat, hunger, and thirst; the touch of flies, mosquitoes, wind, sun, and reptiles; rude and unwelcome criticism; and they put up with physical pain — sharp, severe, acute, unpleasant, disagreeable, and life-threatening. That’s how a bhikkhu endures.
 
-10And how does a mendicant go fast? It’s when a mendicant swiftly goes in the direction they’ve never gone before in all this long time; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. That’s how a mendicant goes fast.
+10And how does a bhikkhu go fast? It’s when a bhikkhu swiftly goes in the direction they’ve never gone before in all this long time; that is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment. That’s how a bhikkhu goes fast.
 
-A mendicant with these four factors … is the supreme field of merit for the world.”
+A bhikkhu with these four factors … is the supreme field of merit for the world.”
 
 1"Catūhi, bhikkhave, aṅgehi samannāgato rañño nāgo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṁ gacchati. Katamehi catūhi? Idha, bhikkhave, rañño nāgo sotā ca hoti, hantā ca, khantā ca, gantā ca.
 

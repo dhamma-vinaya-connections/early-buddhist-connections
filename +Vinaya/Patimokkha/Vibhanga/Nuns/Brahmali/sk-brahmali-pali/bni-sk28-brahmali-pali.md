@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were receiving almsfood while looking here and there, and they did not know whether people were still giving or whether they had received too much. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were receiving almsfood while looking here and there, and they did not know whether people were still giving or whether they had received too much. …
 
 #### Final ruling
 
 2“‘I will receive almsfood with attention on the almsbowl,’ this is how you should train.”
 
-3Almsfood is to be received with attention on the bowl. If a monk, out of disrespect, receives almsfood while looking here and there, he commits an offense of wrong conduct.
+3Almsfood is to be received with attention on the bowl. If a bhikkhu, out of disrespect, receives almsfood while looking here and there, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Āḷavī, at the Aggāḷava Tree-shrine. There the Buddha addressed the mendicants:
+1At one time the Buddha was staying near Āḷavī, at the Aggāḷava Tree-shrine. There the Buddha addressed the bhikkhus:
 
-“Mendicants, you should remember the householder Hatthaka of Āḷavī as someone who has seven amazing and incredible qualities. What seven?
+“bhikkhus, you should remember the householder Hatthaka of Āḷavī as someone who has seven amazing and incredible qualities. What seven?
 
 
 He’s faithful, ethical, conscientious, prudent, learned, generous, and wise. You should remember the householder Hatthaka of Āḷavī as someone who has these seven amazing and incredible qualities.”
@@ -31,7 +31,7 @@ He’s faithful, ethical, conscientious, prudent, learned, generous, and wise. Y
 That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.
 
 
-2Then a certain mendicant robed up in the morning and, taking his bowl and robe, went to the home of the householder Hatthaka of Āḷavī, where he sat on the seat spread out. Then Hatthaka went up to that mendicant, bowed, and sat down to one side. The mendicant said to Hatthaka:
+2Then a certain bhikkhu robed up in the morning and, taking his bowl and robe, went to the home of the householder Hatthaka of Āḷavī, where he sat on the seat spread out. Then Hatthaka went up to that bhikkhu, bowed, and sat down to one side. The bhikkhu said to Hatthaka:
 
 
 3“Householder, the Buddha declared that you have seven amazing and incredible qualities. What seven? He said that you’re faithful, ethical, conscientious, prudent, learned, generous, and wise. The Buddha declared that you have these seven amazing and incredible qualities.”
@@ -43,10 +43,10 @@ That is what the Buddha said. When he had spoken, the Holy One got up from his s
 “That’s good, sir.”
 
 
-4-6Then that mendicant, after taking alms-food in Hatthaka of Āḷavī’s home, got up from his seat and left. Then after the meal, on his return from alms-round, he went to the Buddha, bowed, sat down to one side, and told him of what he had discussed with the householder Hatthaka. The Buddha said:
+4-6Then that bhikkhu, after taking alms-food in Hatthaka of Āḷavī’s home, got up from his seat and left. Then after the meal, on his return from alms-round, he went to the Buddha, bowed, sat down to one side, and told him of what he had discussed with the householder Hatthaka. The Buddha said:
 
 
-7“Good, good, mendicant! That gentleman has few wishes. He doesn’t want his own good qualities to be made known to others. Well then, mendicant, you should remember the householder Hatthaka of Āḷavī as someone who has this eighth amazing and incredible quality, that is, fewness of wishes.”
+7“Good, good, bhikkhu! That gentleman has few wishes. He doesn’t want his own good qualities to be made known to others. Well then, bhikkhu, you should remember the householder Hatthaka of Āḷavī as someone who has this eighth amazing and incredible quality, that is, fewness of wishes.”
 
 #### Pali
 

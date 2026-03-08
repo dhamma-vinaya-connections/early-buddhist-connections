@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, you don’t become unskillful as long as faith is established in skillful qualities. But when faith vanishes and faithlessness takes over, you become unskillful.
+1“bhikkhus, you don’t become unskillful as long as faith is established in skillful qualities. But when faith vanishes and faithlessness takes over, you become unskillful.
 
 
 2-4You don’t become unskillful as long as conscience … prudence … energy … wisdom is established in skillful qualities.

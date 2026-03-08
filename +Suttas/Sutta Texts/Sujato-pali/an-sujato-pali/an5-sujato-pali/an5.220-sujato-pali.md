@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks of Madhurā. What five? The ground is uneven and dusty, the dogs are fierce, the native spirits are vicious, and it’s hard to get almsfood. These are the five drawbacks of Madhurā.”
+1“bhikkhus, there are these five drawbacks of Madhurā. What five? The ground is uneven and dusty, the dogs are fierce, the native spirits are vicious, and it’s hard to get almsfood. These are the five drawbacks of Madhurā.”
 
 1"Pañcime, bhikkhave, ādīnavā madhurāyaṁ. Katame pañca? Visamā, bahurajā, caṇḍasunakhā, vāḷayakkhā, dullabhapiṇḍā. Ime kho, bhikkhave, pañca ādīnavā madhurāyan"ti.
 

@@ -18,21 +18,21 @@ language: "Pali"
 #### B. Sujato
 
 
-1“When a mendicant is perfected, proficient,  
+1“When a bhikkhu is perfected, proficient,  
 with defilements ended, bearing the final body:  
 would they say, ‘I speak’,  
 or even ‘they speak to me’?”
 
-2“When a mendicant is perfected, proficient,  
+2“When a bhikkhu is perfected, proficient,  
 with defilements ended, bearing the final body:  
 they would say, ‘I speak’,  
 and also ‘they speak to me’.  
 Skillful, understanding the world’s conventions,  
 they’d use these terms as no more than expressions.”
 
-3“When a mendicant is perfected, proficient,  
+3“When a bhikkhu is perfected, proficient,  
 with defilements ended, bearing the final body:  
-is such a mendicant drawing close to conceit  
+is such a bhikkhu drawing close to conceit  
 if they’d say, ‘I speak’,  
 or even ‘they speak to me’?”
 

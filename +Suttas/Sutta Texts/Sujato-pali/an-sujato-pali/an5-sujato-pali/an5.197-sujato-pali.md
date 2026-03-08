@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five obstacles to rain, which the forecasters don’t know, and which their vision does not traverse. What five?
+1“bhikkhus, there are these five obstacles to rain, which the forecasters don’t know, and which their vision does not traverse. What five?
 
 In the upper atmosphere the fire element flares up, which disperses the clouds. This is the first obstacle to rain, which the forecasters don’t know, and which their vision does not traverse.
 

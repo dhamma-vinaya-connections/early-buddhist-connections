@@ -138,7 +138,7 @@ Pokkharasāti enjoys himself with these five kinds of sensual stimulation, tied,
 “But it isn’t possible, except by psychic power. Rapture that depends on the five kinds of sensual stimulation is like a fire that depends on grass and logs as fuel. Rapture that’s apart from sensual pleasures and unskillful qualities is like a fire that doesn’t depend on grass and logs as fuel.
 
 
-26And what is rapture that’s apart from sensual pleasures and unskillful qualities? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is rapture that’s apart from sensual pleasures and unskillful qualities.
+26And what is rapture that’s apart from sensual pleasures and unskillful qualities? It’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is rapture that’s apart from sensual pleasures and unskillful qualities.
 
 Furthermore, as the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This too is rapture that’s apart from sensual pleasures and unskillful qualities.
 
@@ -164,9 +164,9 @@ Of the five things that the brahmins prescribe for making merit and succeeding i
 
 30“I say that the five things prescribed by the brahmins for making merit are prerequisites of the mind for developing a mind free of enmity and ill will.
 
-Take a mendicant who speaks the truth. Thinking, ‘I’m truthful,’ they find joy in the meaning and the teaching, and find joy connected with the teaching. And I say that joy connected with the skillful is a prerequisite of the mind for developing a mind free of enmity and ill will.
+Take a bhikkhu who speaks the truth. Thinking, ‘I’m truthful,’ they find joy in the meaning and the teaching, and find joy connected with the teaching. And I say that joy connected with the skillful is a prerequisite of the mind for developing a mind free of enmity and ill will.
 
-Take a mendicant who practices austerities … is celibate … does lots of recitation … and is very generous. Thinking, ‘I’m very generous,’ they find joy in the meaning and the teaching, and find joy connected with the teaching. And I say that joy connected with the skillful is a prerequisite of the mind for developing a mind free of enmity and ill will. I say that these five things prescribed by the brahmins for making merit are prerequisites of the mind for developing a mind free of enmity and ill will.”
+Take a bhikkhu who practices austerities … is celibate … does lots of recitation … and is very generous. Thinking, ‘I’m very generous,’ they find joy in the meaning and the teaching, and find joy connected with the teaching. And I say that joy connected with the skillful is a prerequisite of the mind for developing a mind free of enmity and ill will. I say that these five things prescribed by the brahmins for making merit are prerequisites of the mind for developing a mind free of enmity and ill will.”
 
 
 31When he had spoken, Subha said to him: “Master Gotama, I have heard that the ascetic Gotama knows a path to companionship with Brahmā.”
@@ -194,17 +194,17 @@ Take a mendicant who practices austerities … is celibate … does lots of reci
 “Yes, sir,” replied Subha. The Buddha said this:
 
 
-40“And what is a path to companionship with Brahmā? Firstly, a mendicant meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. When the heart’s release by love has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. Suppose there was a powerful horn blower. They’d easily make themselves heard in the four directions. In the same way, when the heart’s release by love has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. This is a path to companionship with Brahmā.
+40“And what is a path to companionship with Brahmā? Firstly, a bhikkhu meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. When the heart’s release by love has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. Suppose there was a powerful horn blower. They’d easily make themselves heard in the four directions. In the same way, when the heart’s release by love has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. This is a path to companionship with Brahmā.
 
 
-41Furthermore, a mendicant meditates spreading a heart full of compassion …
+41Furthermore, a bhikkhu meditates spreading a heart full of compassion …
 
 They meditate spreading a heart full of rejoicing …
 
 They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will. When the heart’s release by equanimity has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. Suppose there was a powerful horn blower. They’d easily make themselves heard in the four directions. In the same way, when the heart’s release by equanimity has been developed and cultivated like this, any limited deeds they’ve done don’t remain or persist there. This too is a path to companionship with Brahmā.”
 
 
-42When he had spoken, Subha said to him: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life. Well, now, Master Gotama, I must go. I have many duties, and much to do.”
+42When he had spoken, Subha said to him: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life. Well, now, Master Gotama, I must go. I have many duties, and much to do.”
 
 “Please, student, go at your convenience.” And then Subha approved and agreed with what the Buddha said.
 

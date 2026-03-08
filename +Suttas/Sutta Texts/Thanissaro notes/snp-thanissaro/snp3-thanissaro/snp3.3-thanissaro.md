@@ -14,11 +14,11 @@ language: "English"
 
 _(This sutta is identical with [[snp8.5-thanissaro]].)_
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the monks, “Monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the bhikkhus, “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said: “Monks, speech endowed with four characteristics is well-spoken, not poorly spoken—faultless & not to be faulted by the observant. Which four? There is the case where a monk says only what is well-spoken, not what is poorly spoken; only what is just, not what is unjust; only what is endearing, not what is unendearing; only what is true, not what is false. Speech endowed with these four characteristics is well-spoken, not poorly spoken—faultless & not to be faulted by the observant.”
+The Blessed One said: “bhikkhus, speech endowed with four characteristics is well-spoken, not poorly spoken—faultless & not to be faulted by the observant. Which four? There is the case where a bhikkhu says only what is well-spoken, not what is poorly spoken; only what is just, not what is unjust; only what is endearing, not what is unendearing; only what is true, not what is false. Speech endowed with these four characteristics is well-spoken, not poorly spoken—faultless & not to be faulted by the observant.”
 
 That is what the Blessed One said. Having said this, the One Well-Gone, the Teacher, said further:
 

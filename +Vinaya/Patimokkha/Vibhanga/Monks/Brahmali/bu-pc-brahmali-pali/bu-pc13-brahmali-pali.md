@@ -18,28 +18,28 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time Venerable Dabba the Mallian was assigning the dwellings and designating the meals, and the monks Mettiya and Bhūmajaka were newly ordained. They had little merit, getting inferior dwellings and meals. They then complained about Dabba to other monks, “Dabba the Mallian assigns dwellings and designates meals based on favoritism.”
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time Venerable Dabba the Mallian was assigning the dwellings and designating the meals, and the bhikkhus Mettiya and Bhūmajaka were newly ordained. They had little merit, getting inferior dwellings and meals. They then complained about Dabba to other bhikkhus, “Dabba the Mallian assigns dwellings and designates meals based on favoritism.”
 
-2The monks of few desires complained and criticized them, “How can the monks Mettiya and Bhūmajaka complain about Venerable Dabba to other monks?”… “Is it true, monks, that you do this?”
+2The bhikkhus of few desires complained and criticized them, “How can the bhikkhus Mettiya and Bhūmajaka complain about Venerable Dabba to other bhikkhus?”… “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 3‘If a monk complains, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5Knowing that the Buddha had prohibited complaining, the monks Mettiya and Bhūmajaka thought of other ways of getting the monks to hear about their grievances. They then criticized Dabba the Mallian in the vicinity of other monks, “Dabba assigns dwellings and designates meals based on favoritism.”
+5Knowing that the Buddha had prohibited complaining, the bhikkhus Mettiya and Bhūmajaka thought of other ways of getting the bhikkhus to hear about their grievances. They then criticized Dabba the Mallian in the vicinity of other bhikkhus, “Dabba assigns dwellings and designates meals based on favoritism.”
 
-The monks of few desires complained and criticized them, “How can the monks Mettiya and Bhūmajaka criticize Venerable Dabba?”… “Is it true, monks, that you do this?”
+The bhikkhus of few desires complained and criticized them, “How can the bhikkhus Mettiya and Bhūmajaka criticize Venerable Dabba?”… “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And so, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

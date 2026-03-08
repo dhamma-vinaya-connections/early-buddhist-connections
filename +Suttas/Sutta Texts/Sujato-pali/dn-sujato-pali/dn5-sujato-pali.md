@@ -19,7 +19,7 @@ language: "English - Pali"
 
 #### 1. The Brahmins and Householders of Khāṇumata
 
-1So I have heard. At one time the Buddha was wandering in the land of the Magadhans together with a large Saṅgha of around five hundred mendicants when he arrived at a village of the Magadhan brahmins named Khāṇumata. There he stayed nearby at Ambalaṭṭhikā.
+1So I have heard. At one time the Buddha was wandering in the land of the Magadhans together with a large Saṅgha of around five hundred bhikkhus when he arrived at a village of the Magadhan brahmins named Khāṇumata. There he stayed nearby at Ambalaṭṭhikā.
 
 Now at that time the brahmin Kūṭadanta was living in Khāṇumata. It was a crown property given by King Seniya Bimbisāra of Magadha, teeming with living creatures, full of hay, wood, water, and grain, a royal endowment of the highest quality. Now at that time Kūṭadanta had prepared a great sacrifice. Bulls, bullocks, heifers, goats and rams — seven hundred of each — had been led to the post for the sacrifice.
 
@@ -337,13 +337,13 @@ This is the cause, brahmin, this is the reason why those regular gifts as ongoin
 “But is there any other sacrifice that has fewer requirements and undertakings, yet is more fruitful and beneficial?”
 
 
-96“There is, brahmin. It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. … They enter and remain in the first jhāna … This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. …
+96“There is, brahmin. It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a bhikkhu is accomplished in ethics. … They enter and remain in the first jhāna … This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. …
 
 97They enter and remain in the second jhāna … third jhāna … fourth jhāna. This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. … They extend and project the mind toward knowledge and vision … This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. They understand: ‘… there is no return to any state of existence.’ This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. And, brahmin, there is no other accomplishment of sacrifice which is better and finer than this.”
 
 #### 6. Kūṭadanta Declares Himself a Lay Follower
 
-98When he had spoken, Kūṭadanta said to the Buddha: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the Teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.
+98When he had spoken, Kūṭadanta said to the Buddha: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the Teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.
 
 And these bulls, bullocks, heifers, goats, and rams — seven hundred of each — I release them, I grant them life! Let them eat green grass and drink cool water, and may a cool breeze blow upon them!”
 
@@ -351,14 +351,14 @@ And these bulls, bullocks, heifers, goats, and rams — seven hundred of each �
 
 99Then the Buddha taught Kūṭadanta step by step, with a talk on giving, ethical conduct, and heaven. He explained the drawbacks of sensual pleasures, so sordid and corrupt, and the benefit of renunciation. And when he knew that Kūṭadanta’s mind was ready, pliable, rid of hindrances, joyful, and confident he explained the special teaching of the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth rid of stains would properly absorb dye, in that very seat the stainless, immaculate vision of the Dhamma arose in the brahmin Kūṭadanta: “Everything that has a beginning has an end.”
 
-100Then Kūṭadanta saw, attained, understood, and fathomed the Dhamma. He went beyond doubt, got rid of indecision, and became self-assured and independent of others regarding the Teacher’s instructions. He said to the Buddha: “Would Master Gotama together with the mendicant Saṅgha please accept tomorrow’s meal from me?” The Buddha consented in silence.
+100Then Kūṭadanta saw, attained, understood, and fathomed the Dhamma. He went beyond doubt, got rid of indecision, and became self-assured and independent of others regarding the Teacher’s instructions. He said to the Buddha: “Would Master Gotama together with the bhikkhu Saṅgha please accept tomorrow’s meal from me?” The Buddha consented in silence.
 
 101Then, knowing that the Buddha had consented, Kūṭadanta got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving. And when the night had passed Kūṭadanta had a variety of delicious foods prepared in his own home. Then he had the Buddha informed of the time, saying: “It’s time, Master Gotama, the meal is ready.”
 
-102Then the Buddha put on his outer robe in the morning and, taking his bowl and robe, went to the home of Kūṭadanta together with the mendicant Saṅgha, where he sat on the seat spread out.
+102Then the Buddha put on his outer robe in the morning and, taking his bowl and robe, went to the home of Kūṭadanta together with the bhikkhu Saṅgha, where he sat on the seat spread out.
 
 
-103Then Kūṭadanta served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with a variety of delicious foods. When the Buddha had eaten and washed his hand and bowl, Kūṭadanta took a low seat and sat to one side. Then the Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk, after which he got up from his seat and left.
+103Then Kūṭadanta served and satisfied the bhikkhu Saṅgha headed by the Buddha with his own hands with a variety of delicious foods. When the Buddha had eaten and washed his hand and bowl, Kūṭadanta took a low seat and sat to one side. Then the Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk, after which he got up from his seat and left.
 
 #### 1. Khāṇumatakabrāhmaṇagahapatikā
 

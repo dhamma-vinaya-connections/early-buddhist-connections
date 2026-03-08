@@ -28,12 +28,12 @@ That brahmin then washed his hair, went to the king’s residence, and he got hi
 
 2But that lay follower returned to the nuns’ dwelling place, told them what had happened, and then scolded them. The nuns of few desires complained and criticized them, “How can nuns dispose of feces over a wall?” …
 
-“Is it true, monks, that nuns do this?”
+“Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them, “How can nuns dispose of feces over a wall? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them, “How can nuns dispose of feces over a wall? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

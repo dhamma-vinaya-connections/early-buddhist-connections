@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 618. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū bhuñjamānā sabbaṃ hatthaṃ mukhe pakkhipanti…pe….
 
-## 618.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six monks, while eating, put their entire hand into their mouths…and so on.
+## 618.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six bhikkhus, while eating, put their entire hand into their mouths…and so on.
 
 ‘‘Na bhuñjamāno sabbaṃ hatthaṃ mukhe pakkhipissāmīti sikkhākaraṇīyā’’ti.
 

@@ -49,7 +49,7 @@ parallels_partilal: "[[AN4.13]], [[SA875]], [[SA876]], [[AN4.275]]"
 > [!info] Key Excerpts 
 > Efforts to restrain, to give up, to develop, and to preserve.
 > 
-> Any mendicant who keenly applies these 
+> Any bhikkhu who keenly applies these 
 May attain the ending of suffering
 > 
 

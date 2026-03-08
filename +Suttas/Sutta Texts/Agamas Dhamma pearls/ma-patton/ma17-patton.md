@@ -61,9 +61,9 @@ Gāminī answered, “No, Bhagavān.”
 
 15. “Gāminī, someone who killed beings parts with killing and stops killing. That’s the garden terrace path, the ascending path, and the path to a good place. Gāminī, someone who took what’s not given … committed sexual misconduct … spoke falsely … had wrong view and parts with … wrong view and attains right view. That’s the garden terrace path, the ascending path, and the path to a good place.
 
-16. “Again, Gāminī, there’s this garden terrace path, this ascending path, and this path to a good place. Gāminī, what is the garden terrace path, the ascending path, and the path to a good place? It refers to the noble eightfold path, which is right view … right samādhi. These are the eight. Gāminī, this is called the garden terrace path, the ascending path, and the path to a good place.”
+16. “Again, Gāminī, there’s this garden terrace path, this ascending path, and this path to a good place. Gāminī, what is the garden terrace path, the ascending path, and the path to a good place? It refers to the ![[Noble Path]]. These are the eight. Gāminī, this is called the garden terrace path, the ascending path, and the path to a good place.”
 
-17. This is what the Buddha said. Gāminī and the monks who heard what the Buddha taught rejoiced and approved.
+17. This is what the Buddha said. Gāminī and the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

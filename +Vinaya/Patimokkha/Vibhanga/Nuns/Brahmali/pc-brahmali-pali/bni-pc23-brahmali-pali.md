@@ -30,12 +30,12 @@ Then that nun unstitched the robe and gave it to Thullanandā. Yet although Thul
 
 2That nun then told the nuns what had happened. The nuns of few desires complained and criticized Thullanandā, “How could Venerable Thullanandā have a nun’s robe unstitched, and then neither sew it herself nor make any effort to have someone else do it?” …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā act like this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā act like this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

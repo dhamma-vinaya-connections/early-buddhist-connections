@@ -15,9 +15,9 @@ language: "English"
 
 Devas Come to See the Buddha
 
-\[253\] 1. THUS HAVE I HEARD. Once the Lord was staying among the Sakyans in the Great Forest at Kapilavatthu, with a large company of some five hundred monks, all Arahants. And devas from ten world-systems frequently came there to visit the Lord and his order of monks.
+\[253\] 1. THUS HAVE I HEARD. Once the Lord was staying among the Sakyans in the Great Forest at Kapilavatthu, with a large company of some five hundred bhikkhus, all Arahants. And devas from ten world-systems frequently came there to visit the Lord and his order of bhikkhus.
 
-2\. And it occurred to four devas of the Pure Abodes: ‘The Blessed Lord is staying at Kapilavatthu, with a large company of some five hundred monks, all Arahants. What if we were to approach him, and each recite a verse?’
+2\. And it occurred to four devas of the Pure Abodes: ‘The Blessed Lord is staying at Kapilavatthu, with a large company of some five hundred bhikkhus, all Arahants. What if we were to approach him, and each recite a verse?’
 
 3\. Then those devas, as swiftly as a strong man might stretch his flexed arm, or flex it again, \[254\] vanished from the Pure Abodes and appeared before the Lord. Then they saluted him and stood to one side, and one of them recited this verse:
 
@@ -27,7 +27,7 @@ Devas Come to See the Buddha
 
 Another said:
 
-> ‘The monks with collected minds are straight:  
+> ‘The bhikkhus with collected minds are straight:  
 > They guard their senses as the driver does his reins.’
 
 Another said:
@@ -42,9 +42,9 @@ And another said:
 > 
 > Having left the body he’ll join the deva hosts.’
 
-4\. Then the Lord said to his monks: ‘Monks, it has often happened that the devas from ten world-systems have come to see the Tathāgata and his order of monks. So it has been with the supreme Buddhas of the past, and so it will be with those of the future, as it is with me now. I will detail for you the names of the groups of devas, announce them and teach them to you. Pay close attention, and I will speak.’
+4\. Then the Lord said to his bhikkhus: ‘bhikkhus, it has often happened that the devas from ten world-systems have come to see the Tathāgata and his order of bhikkhus. So it has been with the supreme Buddhas of the past, and so it will be with those of the future, as it is with me now. I will detail for you the names of the groups of devas, announce them and teach them to you. Pay close attention, and I will speak.’
 
-‘Yes, Lord’, said the monks, and the Lord said:
+‘Yes, Lord’, said the bhikkhus, and the Lord said:
 
 > 5\. ‘I’ll tell you them in verse: to which realm each  
 > belongs.  
@@ -58,8 +58,8 @@ And another said:
 > In Kapilavatthu’s wood the Lord perceived  
 > Five hundred of his Arahants and more,  
 > Lovers of his word. To them he said:  
-> ‘Monks, observe the deva-host approach!’  
-> And the monks strove eagerly to see.
+> ‘bhikkhus, observe the deva-host approach!’  
+> And the bhikkhus strove eagerly to see.
 > 
 >   
 > 
@@ -74,7 +74,7 @@ And another said:
 > 
 > And to the lovers of his word the Lord,  
 > Turning said: ‘The deva-hosts approach.  
-> Look and seek to know them, monks, in turn,  
+> Look and seek to know them, bhikkhus, in turn,  
 > As I declare their names to you in verse!’
 > 
 >   
@@ -82,14 +82,14 @@ And another said:
 > 7\. ‘Seven thousand yakkhas of Kapila’s realm,  
 > Well-endowed with power and mighty skills,  
 > Fair to see, with splendid train have come  
-> Rejoicing to this wood to see such monks.
+> Rejoicing to this wood to see such bhikkhus.
 > 
 >   
 > 
 > And six thousand yakkhas from Himālaya,  
 > Of varied hue, and well-endowed with powers,  
 > Fair to see, with splendid train have come  
-> Rejoicing to this wood to see such monks.
+> Rejoicing to this wood to see such bhikkhus.
 > 
 >   
 > 
@@ -152,7 +152,7 @@ And another said:
 > Rājā, Janesabha, Pañcasikha,  
 > Timbarū with Suriyavaccasā  
 > His daughter — these, and more, rejoicing came  
-> To that wood to see the Buddha’s monks.
+> To that wood to see the Buddha’s bhikkhus.
 > 
 >   
 > 
@@ -194,7 +194,7 @@ And another said:
 > And compassion, with a splendid train,  
 > These ten, with tenfold varied hosts,  
 > Endowed with mighty powers, and fair to see,  
-> Rejoicing came to see the Buddha’s monks.
+> Rejoicing came to see the Buddha’s bhikkhus.
 > 
 >   
 > 
@@ -279,8 +279,8 @@ And another said:
 > And then — shrank back, enraged, but powerless!
 > 
 > 22\. And He-Who-Knows-by-Insight saw all this  
-> And grasped its meaning. To his monks he said:  
-> ‘The hosts of Mara come, monks — pay good heed!’  
+> And grasped its meaning. To his bhikkhus he said:  
+> ‘The hosts of Mara come, bhikkhus — pay good heed!’  
 > They heard the Buddha’s words, and stayed alert.
 > 
 > And Mara’s hosts drew back from those on whom  

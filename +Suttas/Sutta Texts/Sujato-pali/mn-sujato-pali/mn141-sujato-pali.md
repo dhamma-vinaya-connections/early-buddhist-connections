@@ -18,7 +18,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Benares, in the deer park at Isipatana. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Benares, in the deer park at Isipatana. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
@@ -30,12 +30,12 @@ The noble truths of suffering, the origin of suffering, the cessation of sufferi
 
 Near Benares, in the deer park at Isipatana, the Realized One, the perfected one, the fully awakened Buddha rolled forth the supreme Wheel of Dhamma. And that wheel cannot be rolled back by any ascetic or brahmin or god or Māra or Brahmā or by anyone in the world. It is the teaching, advocating, establishing, clarifying, analyzing, and revealing of the four noble truths.
 
-3Mendicants, you should cultivate friendship with Sāriputta and Moggallāna. You should associate with Sāriputta and Moggallāna. They’re astute, and they support their spiritual companions. Sāriputta is just like the mother who gives birth, while Moggallāna is like the one who raises the child. Sāriputta guides people to the fruit of stream-entry, Moggallāna to the highest goal. Sāriputta is able to teach, assert, establish, clarify, analyze, and reveal the four noble truths.”
+3bhikkhus, you should cultivate friendship with Sāriputta and Moggallāna. You should associate with Sāriputta and Moggallāna. They’re astute, and they support their spiritual companions. Sāriputta is just like the mother who gives birth, while Moggallāna is like the one who raises the child. Sāriputta guides people to the fruit of stream-entry, Moggallāna to the highest goal. Sāriputta is able to teach, assert, establish, clarify, analyze, and reveal the four noble truths.”
 
 That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.
 
 
-4Then soon after the Buddha left, Venerable Sāriputta said to the mendicants: “Reverends, mendicants!”
+4Then soon after the Buddha left, Venerable Sāriputta said to the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Sāriputta said this:
 
@@ -85,12 +85,12 @@ The noble truths of suffering, the origin of suffering, the cessation of sufferi
 
 24And what is right livelihood? It’s when a noble disciple gives up wrong livelihood and earns a living by right livelihood. This is called right livelihood.
 
-25And what is right effort? It’s when a mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities that have arisen are given up. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are completed by development. This is called right effort.
+25And what is right effort? It’s when a bhikkhu generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities that have arisen are given up. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are completed by development. This is called right effort.
 
 
-26And what is right mindfulness? It’s when a mendicant meditates by observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. This is called right mindfulness.
+26And what is right mindfulness? It’s when a bhikkhu ![[Satipatthanas]]. They meditate observing an aspect of feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world. This is called right mindfulness.
 
-27And what is right immersion? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. And with the fading away of rapture, they enter and remain in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. This is called right immersion.
+27And what is right immersion? It’s when a bhikkhu, ![[Jhanas]], mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. This is called right immersion.
 
 This is called the noble truth of the practice that leads to the cessation of suffering.
 
@@ -98,7 +98,7 @@ This is called the noble truth of the practice that leads to the cessation of su
 28Near Benares, in the deer park at Isipatana, the Realized One, the perfected one, the fully awakened Buddha rolled forth the supreme Wheel of Dhamma. And that wheel cannot be rolled back by any ascetic or brahmin or god or Māra or Brahmā or by anyone in the world. It is the teaching, advocating, establishing, clarifying, analyzing, and revealing of the four noble truths.”
 
 
-29That’s what Venerable Sāriputta said. Satisfied, the mendicants were happy with what Sāriputta said.
+29That’s what Venerable Sāriputta said. Satisfied, the bhikkhus were happy with what Sāriputta said.
 
 #### Pali
 

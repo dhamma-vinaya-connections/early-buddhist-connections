@@ -16,26 +16,26 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Kosambī in Ghosita’s Monastery. At that time a brahmin had prepared a milk drink for the Sangha. The monks slurped while drinking the milk. A monk who was previously an entertainer made a joke of it, saying, “It’s as if the whole saṅgha is cooled.”
+1At one time the Buddha was staying at Kosambī in Ghosita’s Monastery. At that time a brahmin had prepared a milk drink for the Sangha. The bhikkhus slurped while drinking the milk. A bhikkhu who was previously an entertainer made a joke of it, saying, “It’s as if the whole saṅgha is cooled.”
 
-2The monks of few desires complained and criticized him, “How could a monk joke about the Sangha?” …
+2The bhikkhus of few desires complained and criticized him, “How could a bhikkhu joke about the Sangha?” …
 
-“Is it true, monk, that you did this?”
+“Is it true, bhikkhu, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
-“Monks, you should not joke about the Buddha, the Teaching, or the Sangha. If you do, you commit an offense of wrong conduct.”
+“bhikkhus, you should not joke about the Buddha, the Teaching, or the Sangha. If you do, you commit an offense of wrong conduct.”
 
-After rebuking that monk in many ways, the Buddha spoke in dispraise of being difficult to support … the Buddha said, “And, monks, this training rule should be recited like this:
+After rebuking that bhikkhu in many ways, the Buddha spoke in dispraise of being difficult to support … the Buddha said, “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
 3‘“I will not slurp while eating,” this is how you should train.’”
 
-4One should not slurp while eating. If a monk, out of disrespect, slurps while eating, he commits an offense of wrong conduct.
+4One should not slurp while eating. If a bhikkhu, out of disrespect, slurps while eating, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

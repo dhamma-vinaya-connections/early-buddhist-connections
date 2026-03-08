@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 17: Groups of Thirty Verses
 
@@ -109,7 +109,7 @@ of those of other religions.
 
 966Then they’ll have no respect  
 for the ocher robe.  
-The mendicants will not reflect  
+The bhikkhus will not reflect  
 on the nature of the ocher robe.
 
 967This awful lack of reflection  
@@ -147,13 +147,13 @@ who has no ethics at all,
 is worthy of a white robe—  
 what use is an ocher robe for them?
 
-974In the future, monks and nuns  
+974In the future, bhikkhus and nuns  
 with corrupt hearts, lacking regard for others,  
 will disparage those  
 with hearts of loving-kindness.
 
 975Though trained in wearing the robe  
-by senior monks,  
+by senior bhikkhus,  
 the unintelligent will not listen,  
 wild, doing what they like.
 
@@ -164,7 +164,7 @@ like a wild colt with its charioteer.
 
 977Even so, in the future,  
 this will be the practice  
-of monks and nuns  
+of bhikkhus and nuns  
 when the latter days have come.
 
 978Before this frightening future arrives,  
@@ -187,28 +187,28 @@ realizing the state free of death.”
 981“One who’s mindful as per their conduct and mindfulness,  
 diligent as per their intentions and meditation,  
 happy inside, serene, solitary, contented:  
-that is what they call a mendicant.
+that is what they call a bhikkhu.
 
 982When eating fresh or dried food,  
 one shouldn’t be overly replete.  
-A mendicant should wander mindfully,  
+A bhikkhu should wander mindfully,  
 with empty stomach, taking limited food.
 
 983Four or five mouthfuls before you’re full,  
 drink some water;  
-this is enough for a resolute mendicant  
+this is enough for a resolute bhikkhu  
 to live in comfort.
 
 984If they cover themselves with a robe  
 that’s allowable and fit for purpose;  
-this is enough for a resolute mendicant  
+this is enough for a resolute bhikkhu  
 to live in comfort.
 
 ---
 
 985When sitting cross-legged,  
 the rain doesn’t fall on the knees;  
-this is enough for a resolute mendicant  
+this is enough for a resolute bhikkhu  
 to live in comfort.”
 
 986“When you’ve seen happiness as suffering,  
@@ -284,7 +284,7 @@ did I have any wish.”
 
 997“His only shelter is the foot of a tree;  
 shaven, wrapped in his outer robe,  
-the senior monk foremost in wisdom,  
+the senior bhikkhu foremost in wisdom,  
 Upatissa himself practices jhāna.
 
 998When in a meditation free of placing the mind,  
@@ -297,7 +297,7 @@ with noble silence.
 999As a rocky mountain  
 is unwavering and well grounded,  
 so when delusion ends,  
-a monk, like a mountain, doesn’t tremble.”
+a bhikkhu, like a mountain, doesn’t tremble.”
 
 1000“To the man who has not a blemish,  
 who is always seeking purity,  
@@ -355,7 +355,7 @@ while some who were bad become good.”
 1009“Sensual desire, ill will,  
 dullness and drowsiness,  
 restlessness, and doubt:  
-these are the five mental stains for a monk.”
+these are the five mental stains for a bhikkhu.”
 
 1010“Whether they’re honored  
 or not honored, or both,  
@@ -372,7 +372,7 @@ the mountains and the wind—
 no simile can do justice  
 to the Teacher’s magnificent liberation.”
 
-1013“The senior monk who keeps the wheel rolling,  
+1013“The senior bhikkhu who keeps the wheel rolling,  
 he is very wise and serene.  
 Like earth, like water, like fire,  
 he is neither attracted nor repelled.
@@ -455,7 +455,7 @@ Stands on the path
 Leading to _nibbāna_.
 
 1027I learned 82, 000 from the Buddha,  
-And 2, 000 from the monks;  
+And 2, 000 from the bhikkhus;  
 These 84, 000  
 Are the teachings I have memorized.
 
@@ -491,7 +491,7 @@ You should associate with the sort of person
 Who is learned, and has memorized the Dhamma,  
 A wise disciple of the Buddha.
 
-1034A monk who is learned, and has memorized the Dhamma,  
+1034A bhikkhu who is learned, and has memorized the Dhamma,  
 A keeper of the great sage’s treasury,  
 Is a visionary for the entire world,  
 Venerable, and learned.
@@ -583,7 +583,7 @@ When all was black, he dispelled the dark.
 
 1052He is the sage who remembered the teachings,  
 And mastered their sequence, holding them firm.  
-The senior monk who memorized the Dhamma,  
+The senior bhikkhu who memorized the Dhamma,  
 Ānanda was a mine of gems."
 
 1053"I’ve attended on the teacher  

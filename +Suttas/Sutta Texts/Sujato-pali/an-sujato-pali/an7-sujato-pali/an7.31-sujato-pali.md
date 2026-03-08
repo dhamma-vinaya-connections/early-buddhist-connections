@@ -20,16 +20,16 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these seven downfalls for a lay follower … There are these seven successes for a lay follower. What seven?
+1“bhikkhus, there are these seven downfalls for a lay follower … There are these seven successes for a lay follower. What seven?
 
 
-They don’t stop seeing the mendicants.
+They don’t stop seeing the bhikkhus.
 
 They don’t neglect listening to the true teaching.
 
 They train in higher ethical conduct.
 
-They’re very confident about mendicants, whether senior, junior, or middle.
+They’re very confident about bhikkhus, whether senior, junior, or middle.
 
 They don’t listen to the teaching with a hostile, fault-finding mind.
 

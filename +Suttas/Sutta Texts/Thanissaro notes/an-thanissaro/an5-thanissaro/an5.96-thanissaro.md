@@ -15,7 +15,7 @@ language: "English"
 ## ## Sutadhara Sutta
 
 
-“Endowed with five qualities, a monk pursuing mindfulness of breathing will in no long time penetrate the Unprovoked (release).[1](#^[[an5-thanissaro]].96note01) Which five? ^[[an5-thanissaro]].96note01-ref
+“Endowed with five qualities, a bhikkhu pursuing mindfulness of breathing will in no long time penetrate the Unprovoked (release).[1](#^[[an5-thanissaro]].96note01) Which five? ^[[an5-thanissaro]].96note01-ref
 
 “He is a person who imposes only a little (on others): one of few duties & projects, easy to support, easily contented with the requisites of life.
 
@@ -27,7 +27,7 @@ language: "English"
 
 “He reflects on the mind as it is released.[2](#^[[an5-thanissaro]].96note02) ^[[an5-thanissaro]].96note02-ref
 
-“Endowed with these five qualities, a monk pursuing mindfulness of breathing will in no long time penetrate the Unprovoked.”
+“Endowed with these five qualities, a bhikkhu pursuing mindfulness of breathing will in no long time penetrate the Unprovoked.”
 
 Note
 
@@ -43,7 +43,7 @@ Note
 
 A similar theory attributes the irruption of mental states to the provocation of the properties of sensuality, form, or formlessness.
 
-“In dependence on the property of sensuality there occurs the perception of sensuality. In dependence on the perception of sensuality there occurs the resolve for sensuality… the desire for sensuality… the fever for sensuality… the quest for sensuality. Searching for sensuality, monks, an uninstructed, run-of-the-mill person conducts himself wrongly through three means: through body, through speech, & through mind.” _—[[sn14-thanissaro]]:12_
+“In dependence on the property of sensuality there occurs the perception of sensuality. In dependence on the perception of sensuality there occurs the resolve for sensuality… the desire for sensuality… the fever for sensuality… the quest for sensuality. Searching for sensuality, bhikkhus, an uninstructed, run-of-the-mill person conducts himself wrongly through three means: through body, through speech, & through mind.” _—[[sn14-thanissaro]]:12_
 
 Even unbinding is described as a property ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti44-thanissaro]]). However, there is a crucial difference in how unbinding is attained, in that the unbinding property is not provoked. Any events that depend on the provocation of a property are inherently unstable and inconstant, subject to change when the provocation ends. But because true release is not caused by the provocation of anything, it is not subject to change.
 

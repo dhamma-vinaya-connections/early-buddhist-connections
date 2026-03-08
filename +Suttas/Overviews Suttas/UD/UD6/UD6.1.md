@@ -47,7 +47,7 @@ parallels_partilal: "[[DN16]], [[AN8.70]], [[SN51.10]], [[AN8.68-70]], [[DA2]], 
 > Whoever has developed and cultivated the four bases of psychic power—made them a vehicle and a basis, kept them up, consolidated them, and properly implemented them—may, if they wish, live for the proper lifespan or what’s left of it.
 
 > [!info] Key Excerpts 
-> I shall not become fully extinguished until I have monk disciples who are competent, educated, assured, learned, have memorized the teachings, and practice in line with the teachings.
+> I shall not become fully extinguished until I have bhikkhu disciples who are competent, educated, assured, learned, have memorized the teachings, and practice in line with the teachings.
 > 
 > Comparing the incomparable with the creation of prolonged life,26 
 the sage surrendered the life force.27 

@@ -16,17 +16,17 @@ language: "English"
 
 “Bhikkhus, there are these six principles of cordiality. What six?
 
-(1) “Here, a bhikkhu maintains bodily acts of loving-kindness toward his fellow monks both openly and privately. This is a principle of cordiality.
+(1) “Here, a bhikkhu maintains bodily acts of loving-kindness toward his fellow bhikkhus both openly and privately. This is a principle of cordiality.
 
-(2) “Again, a bhikkhu maintains verbal acts of loving-kindness toward his fellow monks both openly and privately. This, too, is a principle of cordiality.
+(2) “Again, a bhikkhu maintains verbal acts of loving-kindness toward his fellow bhikkhus both openly and privately. This, too, is a principle of cordiality.
 
-(3) “Again, a bhikkhu maintains mental acts of loving-kindness toward his fellow monks both openly and privately. This, too, is a principle of cordiality. \[289\]
+(3) “Again, a bhikkhu maintains mental acts of loving-kindness toward his fellow bhikkhus both openly and privately. This, too, is a principle of cordiality. \[289\]
 
-(4) “Again, a bhikkhu shares without reservation any righteous gains that have been righteously obtained, including even the contents of his alms bowl, and uses such things in common with his virtuous fellow monks. This, too, is a principle of cordiality.
+(4) “Again, a bhikkhu shares without reservation any righteous gains that have been righteously obtained, including even the contents of his alms bowl, and uses such things in common with his virtuous fellow bhikkhus. This, too, is a principle of cordiality.
 
-(5) “Again, a bhikkhu dwells both openly and privately possessing in common with his fellow monks virtuous behavior that is unbroken, flawless, unblemished, unblotched, freeing, praised by the wise, ungrasped, leading to samādhi. This, too, is a principle of cordiality.
+(5) “Again, a bhikkhu dwells both openly and privately possessing in common with his fellow bhikkhus virtuous behavior that is unbroken, flawless, unblemished, unblotched, freeing, praised by the wise, ungrasped, leading to samādhi. This, too, is a principle of cordiality.
 
-(6) “Again, a bhikkhu dwells both openly and privately possessing in common with his fellow monks a view that is noble and emancipating, which leads out, for one who acts upon it, to the complete destruction of suffering. This, too, is a principle of cordiality.
+(6) “Again, a bhikkhu dwells both openly and privately possessing in common with his fellow bhikkhus a view that is noble and emancipating, which leads out, for one who acts upon it, to the complete destruction of suffering. This, too, is a principle of cordiality.
 
 “These, bhikkhus, are the six principles of cordiality.”
 

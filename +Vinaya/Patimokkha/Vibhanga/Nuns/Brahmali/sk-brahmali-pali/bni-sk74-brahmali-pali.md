@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were defecating, urinating, and spitting on cultivated plants. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were defecating, urinating, and spitting on cultivated plants. …
 
 #### Final ruling
 
 2“‘When not sick, I will not defecate, urinate, or spit on cultivated plants,’ this is how you should train.”
 
-3If one is not sick, one should not defecate, urinate, or spit on cultivated plants. If, out of disrespect, a monk who is not sick defecates, urinates, or spits on cultivated plants, he commits an offense of wrong conduct.
+3If one is not sick, one should not defecate, urinate, or spit on cultivated plants. If, out of disrespect, a bhikkhu who is not sick defecates, urinates, or spits on cultivated plants, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

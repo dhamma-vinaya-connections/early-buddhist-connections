@@ -126,7 +126,7 @@ consciousness should not take a stance
 
 in becoming.[4](#^snp5-4-04) ^snp5-4-04-ref
 
-The monk who dwells thus
+The bhikkhu who dwells thus
 
 —mindful, heedful—
 

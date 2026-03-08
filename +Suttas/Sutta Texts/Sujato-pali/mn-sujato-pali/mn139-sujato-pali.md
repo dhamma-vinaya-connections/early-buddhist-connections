@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, I shall teach you the analysis of non-conflict. Listen and pay close attention, I will speak.”
+“bhikkhus, I shall teach you the analysis of non-conflict. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
@@ -75,7 +75,7 @@ That’s how there is neither flattering nor rebuking, and just teaching Dhamma.
 
 There are these five kinds of sensual stimulation. What five? Sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. Sounds known by the ear … Smells known by the nose … Tastes known by the tongue … Touches known by the body that are likable, desirable, agreeable, pleasant, sensual, and arousing. These are the five kinds of sensual stimulation. The pleasure and happiness that arise from these five kinds of sensual stimulation is called sensual pleasure — a filthy, common, ignoble pleasure. Such pleasure should not be cultivated or developed, but should be feared, I say.
 
-Now, take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna … third jhāna … fourth jhāna. This is called the pleasure of renunciation, the pleasure of seclusion, the pleasure of peace, the pleasure of awakening. Such pleasure should be cultivated and developed, and should not be feared, I say.
+Now, take a bhikkhu who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna … third jhāna … fourth jhāna. This is called the pleasure of renunciation, the pleasure of seclusion, the pleasure of peace, the pleasure of awakening. Such pleasure should be cultivated and developed, and should not be feared, I say.
 
 ‘Know how to assess different kinds of pleasure. Knowing this, pursue inner bliss.’ That’s what I said, and this is why I said it.
 
@@ -107,7 +107,7 @@ And how do you insist on local terminology and override normal usage? It’s whe
 ‘Don’t insist on local terminology and don’t override normal usage.’ That’s what I said, and this is why I said it.
 
 
-22Now, mendicants, pleasure linked to sensuality is low, crude, ordinary, ignoble, and pointless. Indulging in such happiness is a principle beset by pain, harm, stress, and fever, and it is the wrong way. That’s why this is a principle beset by conflict.
+22Now, bhikkhus, pleasure linked to sensuality is low, crude, ordinary, ignoble, and pointless. Indulging in such happiness is a principle beset by pain, harm, stress, and fever, and it is the wrong way. That’s why this is a principle beset by conflict.
 
 Breaking off such indulgence is a principle free of pain, harm, stress, and fever, and it is the right way. That’s why this is a principle free of conflict.
 
@@ -148,10 +148,10 @@ Not insisting on local terminology and not overriding normal usage is a principl
 
 31So you should train like this: ‘We shall know the principles beset by conflict and the principles free of conflict. Knowing this, we will practice the way free of conflict.’
 
-And, mendicants, Subhūti, the gentleman, practices the way of non-conflict.”
+And, bhikkhus, Subhūti, the gentleman, practices the way of non-conflict.”
 
 
-32That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+32That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

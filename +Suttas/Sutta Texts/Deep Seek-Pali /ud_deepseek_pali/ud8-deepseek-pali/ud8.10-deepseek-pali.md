@@ -16,11 +16,11 @@ language: "English - Pali"
 
 80. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –
 
-80.Thus have I heard. At one time the Blessed One was dwelling at Savatthi in Jeta's Grove, Anathapindika's monastery. There the Blessed One addressed the monks: "Monks!" "Venerable sir," those monks replied to the Blessed One. The Blessed One said this:
+80.Thus have I heard. At one time the Blessed One was dwelling at Savatthi in Jeta's Grove, Anathapindika's monastery. There the Blessed One addressed the bhikkhus: "bhikkhus!" "Venerable sir," those bhikkhus replied to the Blessed One. The Blessed One said this:
 
 ‘‘Dabbassa, bhikkhave, mallaputtassa vehāsaṃ abbhuggantvā ākāse antalikkhe pallaṅkena nisīditvā tejodhātuṃ samāpajjitvā vuṭṭhahitvā parinibbutassa sarīrassa jhāyamānassa ḍayhamānassa neva chārikā paññāyittha na masi. Seyyathāpi nāma sappissa vā telassa vā jhāyamānassa ḍayhamānassa neva chārikā paññāyati na masi; evameva kho, bhikkhave, dabbassa mallaputtassa vehāsaṃ abbhuggantvā ākāse antalikkhe pallaṅkena nisīditvā tejodhātuṃ samāpajjitvā vuṭṭhahitvā parinibbutassa sarīrassa jhāyamānassa ḍayhamānassa neva chārikā paññāyittha na masī’’ti.
 
-"Monks, when Dabba the Mallian rose into the air, sat cross-legged in the sky, entered the fire element, and emerged from it, his body, as it burned and blazed after his complete extinction, left behind no ashes or soot. Just as when ghee or oil burns and blazes, no ashes or soot are discerned, in the same way, monks, when Dabba the Mallian rose into the air, sat cross-legged in the sky, entered the fire element, and emerged from it, his body, as it burned and blazed after his complete extinction, left behind no ashes or soot."
+"bhikkhus, when Dabba the Mallian rose into the air, sat cross-legged in the sky, entered the fire element, and emerged from it, his body, as it burned and blazed after his complete extinction, left behind no ashes or soot. Just as when ghee or oil burns and blazes, no ashes or soot are discerned, in the same way, bhikkhus, when Dabba the Mallian rose into the air, sat cross-legged in the sky, entered the fire element, and emerged from it, his body, as it burned and blazed after his complete extinction, left behind no ashes or soot."
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

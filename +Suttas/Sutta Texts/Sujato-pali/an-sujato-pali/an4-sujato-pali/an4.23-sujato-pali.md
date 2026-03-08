@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the world has been understood by a Realized One; and he is detached from the world. The origin of the world has been understood by a Realized One; and he has given up the origin of the world. The cessation of the world has been understood by a Realized One; and he has realized the cessation of the world. The practice that leads to the cessation of the world has been understood by a Realized One; and he has developed the practice that leads to the cessation of the world.
+1“bhikkhus, the world has been understood by a Realized One; and he is detached from the world. The origin of the world has been understood by a Realized One; and he has given up the origin of the world. The cessation of the world has been understood by a Realized One; and he has realized the cessation of the world. The practice that leads to the cessation of the world has been understood by a Realized One; and he has developed the practice that leads to the cessation of the world.
 
 2In this world — with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, its gods and humans — whatever is seen, heard, thought, known, sought, and explored by the mind, all that has been understood by a Realized One. That’s why he’s called the ‘Realized One’.
 

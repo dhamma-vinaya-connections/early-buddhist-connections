@@ -18,12 +18,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“‘Only here is there a true ascetic, here a second ascetic, here a third ascetic, and here a fourth ascetic. Other sects are empty of ascetics.’ This, mendicants, is how you should rightly roar your lion’s roar.
+2“‘Only here is there a true ascetic, here a second ascetic, here a third ascetic, and here a fourth ascetic. Other sects are empty of ascetics.’ This, bhikkhus, is how you should rightly roar your lion’s roar.
 
 3It’s possible that wanderers who follow other paths might say: ‘But what is the source of the venerables’ self-confidence and forcefulness that they say this?’ You should say to them: ‘There are four things explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha. Seeing these things in ourselves we say that:
 
@@ -51,7 +51,7 @@ language: "English - Pali"
 13‘But is that goal for those who enjoy proliferation or for those who enjoy non-proliferation?’ Answering rightly, the wanderers would say: ‘It’s for those who enjoy non-proliferation, not for those who enjoy proliferation.’
 
 
-14Mendicants, there are these two views: views favoring continued existence and views favoring ending existence. Any ascetics or brahmins who cling, hold, and attach to a view favoring continued existence will oppose a view favoring ending existence. Any ascetics or brahmins who cling, hold, and attach to a view favoring ending existence will oppose a view favoring continued existence.
+14bhikkhus, there are these two views: views favoring continued existence and views favoring ending existence. Any ascetics or brahmins who cling, hold, and attach to a view favoring continued existence will oppose a view favoring ending existence. Any ascetics or brahmins who cling, hold, and attach to a view favoring ending existence will oppose a view favoring continued existence.
 
 There are some ascetics and brahmins who don’t truly understand these two views’ origin, ending, gratification, drawback, and escape. They’re greedy, hateful, delusional, craving, grasping, and ignorant. They favor and oppose, and they enjoy proliferation. They’re not freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They’re not freed from suffering, I say.
 
@@ -74,11 +74,11 @@ In such a teaching and training, confidence in the Teacher is said to be ideal. 
 
 20What is the source, origin, birthplace, and root of these four kinds of grasping? Craving. And what is the source, origin, birthplace, and root of craving? Feeling. And what is the source of feeling? Contact. And what is the source of contact? The six sense fields. And what is the source of the six sense fields? Name and form. And what is the source of name and form? Consciousness. And what is the source of consciousness? Choices. And what is the source of choices? Ignorance.
 
-When that mendicant has given up ignorance and given rise to knowledge, they don’t grasp at sensual pleasures, views, precepts and observances, or theories of a self. Not grasping, they’re not anxious. Not being anxious, they personally become extinguished.
+When that bhikkhu has given up ignorance and given rise to knowledge, they don’t grasp at sensual pleasures, views, precepts and observances, or theories of a self. Not grasping, they’re not anxious. Not being anxious, they personally become extinguished.
 
 21They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’”
 
-22That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+22That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

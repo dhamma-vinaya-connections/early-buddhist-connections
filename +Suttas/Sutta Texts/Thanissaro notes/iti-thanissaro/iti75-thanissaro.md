@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 75
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, these three types of persons can be found existing in the world. Which three? One like a cloud without rain, one who rains locally, and one who rains everywhere.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, these three types of persons can be found existing in the world. Which three? One like a cloud without rain, one who rains locally, and one who rains everywhere.
 
 “And how is a person like a cloud without rain? There is the case where a person is not a giver of food, drink, clothing, vehicles, garlands, scents, ointments, beds, dwellings, or lights to anyone at all: to contemplatives or brahmans, to any of the miserable, the homeless, or beggars. This is how a person is like a cloud without rain.
 

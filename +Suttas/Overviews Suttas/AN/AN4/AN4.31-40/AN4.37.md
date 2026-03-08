@@ -44,12 +44,12 @@ parallels_partilal: "[[AN6.32]], [[DHP\|DHP32]], [[AN6.33]], [[AN7.32]], [[AN7.3
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant who has morality, guards the sense doors, eats in moderation, and is committed to wakefulness can’t decline
+> A bhikkhu who has morality, guards the sense doors, eats in moderation, and is committed to wakefulness can’t decline
 
 > [!info] Key Excerpts 
 > Accomplished in ethics, guards the sense doors, eats in moderation, and is dedicated to wakefulness.
 > 
-> Mendicant who has these four qualities can’t decline, and has drawn near to extinguishment
+> bhikkhu who has these four qualities can’t decline, and has drawn near to extinguishment
 > 
 
 

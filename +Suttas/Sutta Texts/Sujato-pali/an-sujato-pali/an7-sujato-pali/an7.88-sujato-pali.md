@@ -2,7 +2,7 @@
 sutta_code: "AN7.88"
 sutta_title:
   - "Bhikkhu "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, it’s because of scouring off seven things that you become a scholar …”
+1“bhikkhus, it’s because of scouring off seven things that you become a scholar …”
 
 1" …  Nissutattā sottiyo hoti … pe … .
 

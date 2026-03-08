@@ -42,10 +42,10 @@ contribution:
 >  Immorality, envy, and meanness determine rebirth.
 
 > [!example]- 🌐[[AN3.11]] - 📜[Available texts](obsidian://search?query=file:an3.11-) - Ñāta – Well Known 
->  What well-known mendicants should encourage
+>  What well-known bhikkhus should encourage
 
 > [!example]- 🌐[[AN3.12]] - 📜[Available texts](obsidian://search?query=file:an3.12-) - Sāraṇīya – Commemoration 
->  Places that should be commemorated by kings and mendicants
+>  Places that should be commemorated by kings and bhikkhus
 
 > [!example]- 🌐[[AN3.13]] - 📜[Available texts](obsidian://search?query=file:an3.13-) - Āsaṃsa – Hopes 
 >  People who are hopeless, hopeful, and have done away with hope
@@ -66,10 +66,10 @@ contribution:
 >  Hurting yourself and others
 
 > [!example]- 🌐[[AN3.19]] - 📜[Available texts](obsidian://search?query=file:an3.19-) - Paṭhamapāpaṇika – Shopkeeper 
->  Shopkeepers and mendicants both have to work hard, be clever, responsible, and well supported.
+>  Shopkeepers and bhikkhus both have to work hard, be clever, responsible, and well supported.
 
 > [!example]- 🌐[[AN3.20]] - 📜[Available texts](obsidian://search?query=file:an3.20-) - Paṭhamapāpaṇika – Shopkeeper 
->  Shopkeepers and mendicants both have to work hard, be clever, responsible, and well supported.
+>  Shopkeepers and bhikkhus both have to work hard, be clever, responsible, and well supported.
 
 > [!example]- 🌐[[AN3.21]] - 📜[Available texts](obsidian://search?query=file:an3.21-) - Samiddha – With Saviṭṭha 
 >  Of various individuals on the path, which is best
@@ -162,7 +162,7 @@ contribution:
 >  Being keen in three ways
 
 > [!example]- 🌐[[AN3.50]] - 📜[Available texts](obsidian://search?query=file:an3.50-) - Mahācora – Thief Master 
->  Why a bad mendicant is like a thief
+>  Why a bad bhikkhu is like a thief
 
 > [!example]- 🌐[[AN3.51]] - 📜[Available texts](obsidian://search?query=file:an3.51-) - Dvebrāhmaṇa – Two Brahmins 
 >  You can begin to practice even late in life: advice to elderly brahmins
@@ -198,7 +198,7 @@ contribution:
 >  A master of vedic knowledge in the brahmanical system and in the Buddha ’s
 
 > [!example]- 🌐[[AN3.60]] - 📜[Available texts](obsidian://search?query=file:an3.60-) - Saṅgārava – With Saṅgārava 
->  A brahmin argues that a sacrifice is less selfish than the mendicant’s life. And the king’s men are deploring the decline in psychic abilities among the saṅgha.
+>  A brahmin argues that a sacrifice is less selfish than the bhikkhu’s life. And the king’s men are deploring the decline in psychic abilities among the saṅgha.
 
 > [!example]- 🌐[[AN3.61]] - 📜[Available texts](obsidian://search?query=file:an3.61-) - Titthāyatana – Sectarian Tenets 
 >  The Buddha  explains how three common views about pain and pleasure can, if followed to their logical conclusion, lead to a life of inaction. He then shows how pain and pleasure actually do come about and how they can be transcended.
@@ -306,19 +306,19 @@ contribution:
 >  Assemblies that are the best, or divided, or harmonious. A harmonious assembly lead the mind to happiness and stillness
 
 > [!example]- 🌐[[AN3.96]] - 📜[Available texts](obsidian://search?query=file:an3.96-) - Ājānīya – Thoroughbred 
->  A mendicant is beautiful, strong, and fast like a thoroughbred horse
+>  A bhikkhu is beautiful, strong, and fast like a thoroughbred horse
 
 > [!example]- 🌐[[AN3.96]] - 📜[Available texts](obsidian://search?query=file:an3.96-) - Ājānīya – Thoroughbred 
->  A mendicant is beautiful, strong, and fast like a thoroughbred horse
+>  A bhikkhu is beautiful, strong, and fast like a thoroughbred horse
 
 > [!example]- 🌐[[AN3.97]] - 📜[Available texts](obsidian://search?query=file:an3.97-) - Ājānīya – Thoroughbred 
->  A mendicant is beautiful, strong, and fast like a thoroughbred horse
+>  A bhikkhu is beautiful, strong, and fast like a thoroughbred horse
 
 > [!example]- 🌐[[AN3.98]] - 📜[Available texts](obsidian://search?query=file:an3.98-) - Ājānīya – Thoroughbred 
->  A mendicant is beautiful, strong, and fast like a thoroughbred horse
+>  A bhikkhu is beautiful, strong, and fast like a thoroughbred horse
 
 > [!example]- 🌐[[AN3.99]] - 📜[Available texts](obsidian://search?query=file:an3.99-) - Potthaka – Jute 
->  A bad mendicant is ugly and rough like jute canvas
+>  A bad bhikkhu is ugly and rough like jute canvas
 
 > [!example]- 🌐[[AN3.100]] - 📜[Available texts](obsidian://search?query=file:an3.100-) - Loṇakapalla – Lump Of Salt 
 >  If deeds were experienced exactly as performed, there could be no spiritual practice
@@ -390,10 +390,10 @@ contribution:
 >  Purity of body, speech, and mind, with understanding the five hindrances
 
 > [!example]- 🌐[[AN3.123]] - 📜[Available texts](obsidian://search?query=file:an3.123-) - Kusināra – At Kusināra 
->  What a mendicant thinks about the food they’re offered
+>  What a bhikkhu thinks about the food they’re offered
 
 > [!example]- 🌐[[AN3.124]] - 📜[Available texts](obsidian://search?query=file:an3.124-) - Bhaṇḍana – Arguments 
->  When mendicants fight, the Buddha  doesn’t like it.
+>  When bhikkhus fight, the Buddha  doesn’t like it.
 
 > [!example]- 🌐[[AN3.125]] - 📜[Available texts](obsidian://search?query=file:an3.125-) - Gotamakacetiya – Gotamaka Shrine 
 >  The Buddha  teaches a simple but powerful message: his teaching is from personal experience, and it works.
@@ -420,7 +420,7 @@ contribution:
 >  Why hold on to your anger? Beware you don't let it get carved deep into your psyche, like an inscription in solid rock
 
 > [!example]- 🌐[[AN3.133]] - 📜[Available texts](obsidian://search?query=file:an3.133-) - Yodhājīva – Warrior 
->  Three ways a mendicant is like a king’s warrior
+>  Three ways a bhikkhu is like a king’s warrior
 
 > [!example]- 🌐[[AN3.134]] - 📜[Available texts](obsidian://search?query=file:an3.134-) - Parisā – Assemblies 
 >  Types of assembly and good friends

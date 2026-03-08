@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five benefits of porridge. What five? It wards off hunger, quenches thirst, settles the wind, cleans the bladder, and helps digestion. These are the five benefits of porridge.”
+1“bhikkhus, there are these five benefits of porridge. What five? It wards off hunger, quenches thirst, settles the wind, cleans the bladder, and helps digestion. These are the five benefits of porridge.”
 
 1"Pañcime, bhikkhave, ānisaṁsā yāguyā. Katame pañca? Khuddaṁ paṭihanati, pipāsaṁ paṭivineti, vātaṁ anulometi, vatthiṁ sodheti, āmāvasesaṁ pāceti. Ime kho, bhikkhave, pañca ānisaṁsā yāguyā"ti.
 

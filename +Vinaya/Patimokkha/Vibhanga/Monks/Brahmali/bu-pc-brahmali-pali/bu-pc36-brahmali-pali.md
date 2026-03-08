@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time two monks were traveling through the Kosalan country on their way to Sāvatthī. One monk misbehaved and the other said to him, “Don’t do that! It’s not allowable.” Because of that the first monk became resentful. They then carried on to Sāvatthī.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time two bhikkhus were traveling through the Kosalan country on their way to Sāvatthī. One monk misbehaved and the other said to him, “Don’t do that! It’s not allowable.” Because of that the first monk became resentful. They then carried on to Sāvatthī.
 
 Soon afterwards an association in Sāvatthī was offering a meal to the Sangha. When the second monk had finished his meal and refused an invitation to eat more, the resentful monk brought back some almsfood from his own family. He then said to the other, “Please eat!”
 
@@ -32,12 +32,12 @@ And because he was pressured, he ate the almsfood. The resentful monk then said 
 “Shouldn’t you have asked?”
 
 
-2The second monk told the monks what had happened, and the monks of few desires complained and criticized the other, “How could a monk invite another monk to eat food that’s not left over, when the other has finished his meal and refused an invitation to eat more ?” … “Is it true, monk, that you did this?”
+2The second monk told the bhikkhus what had happened, and the bhikkhus of few desires complained and criticized the other, “How could a monk invite another monk to eat food that’s not left over, when the other has finished his meal and refused an invitation to eat more ?” … “Is it true, monk, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

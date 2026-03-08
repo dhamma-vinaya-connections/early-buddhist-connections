@@ -509,7 +509,7 @@ upon their lives:
 The life of a householder is not easy, it is [like being bound in] a rack  
 of chains. Even as I wish to pursue the path of austerity, I cannot be  
 free [as long as I am bound to a householder’s life]. I should now shave  
-my hair and beard, don the three robes of a mendicant, and renounce  
+my hair and beard, don the three robes of a bhikkhu, and renounce  
 domestic life for religious practice.  
 Later, such a person may abandon his household and wealth, dissociate  
 himself from his family and relations, shave his hair and beard, and don  

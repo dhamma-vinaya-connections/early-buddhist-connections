@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are two kinds of illness. What two? Mental and physical. Some sentient beings are seen who can claim to be free of physical illness for a year, or two, or three years … even up to a hundred years or more. But it’s very hard to find any sentient beings in the world who can claim to be free of mental illness even for a moment, apart from those who have ended the defilements.
+1“bhikkhus, there are two kinds of illness. What two? Mental and physical. Some sentient beings are seen who can claim to be free of physical illness for a year, or two, or three years … even up to a hundred years or more. But it’s very hard to find any sentient beings in the world who can claim to be free of mental illness even for a moment, apart from those who have ended the defilements.
 
 
 2There are four kinds of illness for those gone forth. What four?
 
-To start with, a mendicant has many wishes, is frustrated, and is not content with any kind of robes, alms-food, lodgings, and medicines and supplies for the sick.
+To start with, a bhikkhu has many wishes, is frustrated, and is not content with any kind of robes, alms-food, lodgings, and medicines and supplies for the sick.
 
 Because of this, they focus their corrupt wishes on being looked up to, and on getting material possessions, honor, and popularity.
 

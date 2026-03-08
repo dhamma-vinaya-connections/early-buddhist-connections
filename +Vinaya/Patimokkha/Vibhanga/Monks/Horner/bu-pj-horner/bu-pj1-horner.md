@@ -7,15 +7,15 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ1]]
 > ◄   📜  [[bu-pj2-horner]] ►
 
-# Monks’ Expulsion (_Pārājika_) 1
+# bhikkhus’ Expulsion (_Pārājika_) 1
 
 Homage to the Master, the _Arahant_, the truly Awakened One
 
 ## The origin of the Vinaya
 
-*BD.1.1* *Bu-Pj.1.1.1* *Vin.3.1* *MS.2* At one time the[^1] Buddha, the Master, was staying at Verañjā[^2] near Naḷeruʼs Nimba tree[^3] with a great Sangha of five hundred monks. Now a brahmin[^4] of Verañjā was told:
+*BD.1.1* *Bu-Pj.1.1.1* *Vin.3.1* *MS.2* At one time the[^1] Buddha, the Master, was staying at Verañjā[^2] near Naḷeruʼs Nimba tree[^3] with a great Sangha of five hundred bhikkhus. Now a brahmin[^4] of Verañjā was told:
 
-“Sir[^5], the recluse[^6] Gotama, the Sakyan,*†* having gone forth from the Sakyan clan, is staying at Verañjā near Naleruʼs Nimba tree with a great Sangha of five hundred monks. That Master Gotama has acquired a good reputaton,[^8] thus:
+“Sir[^5], the recluse[^6] Gotama, the Sakyan,*†* having gone forth from the Sakyan clan, is staying at Verañjā near Naleruʼs Nimba tree with a great Sangha of five hundred bhikkhus. That Master Gotama has acquired a good reputaton,[^8] thus:
 
 ʻHe is indeed a Master, an _arahant_, fully awakened, accomplished in true knowledge and conduct, fortunate, knower of the worlds, unrivalled trainer of tamable people, teacher of gods and humans, the Awakened *BD.1.2* One, the Master. Having realised with his own direct knowledge this world with its gods, its lords of death and its supreme beings, this population with its recluses and brahmins, its gods and humans, he makes it known to others. He teaches a _Dhamma_ that is good in the beginning, good in the middle and good in the end, with the right meaning and phrasing; he reveals a perfectly complete and pure spiritual life.ʼ Good indeed it is to see such _arahants_.”[^9]
 
@@ -73,13 +73,13 @@ Homage to the Master, the _Arahant_, the truly Awakened One
 
 *Bu-Pj.1.1.9* *MS.18* When this had been said, the brahmin of Verañjā said to the Master:
 
-“Good Gotama is the eldest; good Gotama is the best. Wonderful, good Gotama, wonderful. As one might set upright what had been overturned, or reveal what had been hidden, or show the way to one who was lost, or bring a lamp into the darkness so that those with eyes might see forms—even so has the good *BD.1.11* Gotama made the _Dhamma_ clear in many ways. To good[^54] Gotama I go for refuge, and to the _Dhamma_ and to the Sangha of monks. May the good Gotama accept me as a lay follower who from today has gone for refuge for life.[^55] May the good Gotama consent to spend the rains at Verañjā together with the Sangha of monks.” The Master consented by silence. Then the brahmin of Verañjā, understanding that the Master had consented, rose from his seat, paid homage to him and departed, keeping his right side towards him.
+“Good Gotama is the eldest; good Gotama is the best. Wonderful, good Gotama, wonderful. As one might set upright what had been overturned, or reveal what had been hidden, or show the way to one who was lost, or bring a lamp into the darkness so that those with eyes might see forms—even so has the good *BD.1.11* Gotama made the _Dhamma_ clear in many ways. To good[^54] Gotama I go for refuge, and to the _Dhamma_ and to the Sangha of bhikkhus. May the good Gotama accept me as a lay follower who from today has gone for refuge for life.[^55] May the good Gotama consent to spend the rains at Verañjā together with the Sangha of bhikkhus.” The Master consented by silence. Then the brahmin of Verañjā, understanding that the Master had consented, rose from his seat, paid homage to him and departed, keeping his right side towards him.
 
 * * *
 
-*Bu-Pj.1.2.1* *MS.19* At that time Verañjā[^56] was short of food[^57] and stricken by hunger, with crops blighted and turned to straw. It was not easy to keep oneself going[^58] by collecting alms. Just then some horse-dealers from Uttarāpathaka[^59] entered *BD.1.12* the rains residence at Verañjā with five hundred horses. In the horse-pen[^60] they prepared _pattha_ measure after _pattha_ measure of steamed grain [^61] for the monks. The monks, having dressed in the morning, took their bowls and robes and entered Verañjā for alms. Being unable to obtain anything, they went to the horse-pen. Having brought the _pattha_ measures of steamed grain back to the monastery, they pounded them and ate them. Venerable Ānanda, having crushed a _pattha_ measure of the steamed grain on a stone, took it to the Master, and the Master ate it.
+*Bu-Pj.1.2.1* *MS.19* At that time Verañjā[^56] was short of food[^57] and stricken by hunger, with crops blighted and turned to straw. It was not easy to keep oneself going[^58] by collecting alms. Just then some horse-dealers from Uttarāpathaka[^59] entered *BD.1.12* the rains residence at Verañjā with five hundred horses. In the horse-pen[^60] they prepared _pattha_ measure after _pattha_ measure of steamed grain [^61] for the bhikkhus. The bhikkhus, having dressed in the morning, took their bowls and robes and entered Verañjā for alms. Being unable to obtain anything, they went to the horse-pen. Having brought the _pattha_ measures of steamed grain back to the monastery, they pounded them and ate them. Venerable Ānanda, having crushed a _pattha_ measure of the steamed grain on a stone, took it to the Master, and the Master ate it.
 
-*MS.20* Now the Master had heard the sound of the mortar. Tathāgatas sometimes ask knowing,[^62] and knowing sometimes do not ask; they ask knowing the right time to ask, and they do not ask knowing the right time when not to ask. Tathāgatas *BD.1.13* ask when it is beneficial,[^63] not when it is unbeneficial; in regard to what is unbeneficial, the Tathāgatas have destroyed the bridge.*†*[^65] The Buddhas, the Masters, question the monks for two reasons: “We shall teach the _Dhamma_ or lay down a training rule for the disciples.”
+*MS.20* Now the Master had heard the sound of the mortar. Tathāgatas sometimes ask knowing,[^62] and knowing sometimes do not ask; they ask knowing the right time to ask, and they do not ask knowing the right time when not to ask. Tathāgatas *BD.1.13* ask when it is beneficial,[^63] not when it is unbeneficial; in regard to what is unbeneficial, the Tathāgatas have destroyed the bridge.*†*[^65] The Buddhas, the Masters, question the bhikkhus for two reasons: “We shall teach the _Dhamma_ or lay down a training rule for the disciples.”
 
 *MS.21* Then the Master addressed Venerable Ānanda: “Ānanda, what is this sound of a mortar?”
 
@@ -89,7 +89,7 @@ Then Venerable Ānanda informed the Master. *Vin.3.7*
 
 *Bu-Pj.1.2.2* *MS.22* Then Venerable Mahāmoggallāna[^70] approached the Master, paid homage to him and sat down to one side. He then said to him:
 
-“At present, Master, Verañjā is short of food *BD.1.14* and stricken by hunger, with crops blighted and turned to straw. It is not easy to keep oneself going by collecting alms. Master, the under-surface of this great earth is abounding with food,*†* and its taste is just like pure honey.[^72] It would be good, Master, if I inverted the earth,[^73] so that the monks might enjoy the nutritive essence of the water-plants.”
+“At present, Master, Verañjā is short of food *BD.1.14* and stricken by hunger, with crops blighted and turned to straw. It is not easy to keep oneself going by collecting alms. Master, the under-surface of this great earth is abounding with food,*†* and its taste is just like pure honey.[^72] It would be good, Master, if I inverted the earth,[^73] so that the bhikkhus might enjoy the nutritive essence of the water-plants.”
 
 “But what will you do with those creatures, Moggallāna, who are supported by the earth?”
 
@@ -97,7 +97,7 @@ Then Venerable Ānanda informed the Master. *Vin.3.7*
 
 “Enough, Moggallāna, please do not invert the earth, or beings may become deranged.”[^74]
 
-“It would be good, Master, if the whole Sangha of monks could go to Uttarakuru[^75] for alms.”
+“It would be good, Master, if the whole Sangha of bhikkhus could go to Uttarakuru[^75] for alms.”
 
 “Enough, Moggallāna, do not pursue this idea.”
 
@@ -113,7 +113,7 @@ Then Venerable Ānanda informed the Master. *Vin.3.7*
 
 “Sāriputta, Master Vipassī, Master Sikhī and Master Vessabhū were disinclined to teach the _Dhamma_ in detail to their disciples. They had few discourses[^79] in prose and in prose and verse, few expositions, verses, inspired utterances,[^80] quotations, birth stories, amazing accounts and analyses*†*[^82]; and training rules were not laid down and a Pātimokkha was not recited. After the disappearance of those Buddhas, those Masters, after the disappearance[^83] of the disciples enlightened under those Buddhas,[^84] those who were the last disciples—of various *BD.1.16* names, clans,[^85] and social strata,[^86] who had gone forth from various families—caused that spiritual life rapidly to disappear. It is just like various flowers, lying on a flat piece of wood[^87] without being tied together by a thread, are scattered about, whirled about and destroyed by the wind. Why is that? Because they are not held together by a thread. Even so, at the disappearance of those Buddhas, those Masters, at the disappearance of the disciples enlightened under those Buddhas, those who were the last disciples—of various names, clans and social strata, who had gone forth from various families—caused that spiritual life rapidly to disappear. *MS.27* Instead those Masters were untiring in exhorting their disciples, after reading their minds with their own.[^88]
 
-Formerly, Sāriputta, while staying in a certain frightening jungle thicket, Master Vessabhū, the _arahant_, the fully Awakened One, exhorted and admonished a Sangha of a thousand monks, reading their minds with his own, saying: ʻThink like this,[^89] not like this;[^90] pay attention like this,[^91] not like this;[^92] forsake this;[^93] having attained this,[^94] abide in it.ʼ Then, when those thousand monks had been exhorted and admonished by Master Vessabhū, the _arahant_, the fully Awakened One, their minds were freed from the corruptions without grasping.[^95] But if anyone not devoid of desire should enter that frightening jungle- *BD.1.17* thicket, usually their hair would stand on end. This is the reason why the spiritual life established by Master Vipassī, Master Sikhī and Master Vesabhū did not last long.”
+Formerly, Sāriputta, while staying in a certain frightening jungle thicket, Master Vessabhū, the _arahant_, the fully Awakened One, exhorted and admonished a Sangha of a thousand bhikkhus, reading their minds with his own, saying: ʻThink like this,[^89] not like this;[^90] pay attention like this,[^91] not like this;[^92] forsake this;[^93] having attained this,[^94] abide in it.ʼ Then, when those thousand bhikkhus had been exhorted and admonished by Master Vessabhū, the _arahant_, the fully Awakened One, their minds were freed from the corruptions without grasping.[^95] But if anyone not devoid of desire should enter that frightening jungle- *BD.1.17* thicket, usually their hair would stand on end. This is the reason why the spiritual life established by Master Vipassī, Master Sikhī and Master Vesabhū did not last long.”
 
 *Bu-Pj.1.3.3* *MS.28* “But what, Master, is the reason why the spiritual life established by Master Kakusandha, Master Konāgamana and Master Kassapa lasted long?”
 
@@ -123,7 +123,7 @@ Formerly, Sāriputta, while staying in a certain frightening jungle thicket, Mas
 
 “This is the right time, Master,[^96] to lay down training rules and recite a Pātimokkha, so that this spiritual life may persist and last for a long time.”
 
-“Hold on, Sāriputta, the Tathāgata will know the right time for that. The teacher does not lay down training rules for his disciples and recite a Pātimokkha until the causes of corruption appear in the Sangha.[^97] And they do not appear until the Sangha has attained long standing,[^98] *BD.1.19* great size[^99][^100][^101] or great learning.[^102] But when this happens, then the Teacher lays down training rules for his disciples *Vin.3.10* and recites a Pātimokkha in order to ward off those causes of corruptions. Sāriputta, the Sangha of monks is devoid of immorality,[^103] devoid of danger, stainless, purified, established in the essence.[^104] The most backward[^105] of these five hundred monks is a stream-enterer, not liable to be reborn in any state of misery, assured, bound for awakening.[^106]
+“Hold on, Sāriputta, the Tathāgata will know the right time for that. The teacher does not lay down training rules for his disciples and recite a Pātimokkha until the causes of corruption appear in the Sangha.[^97] And they do not appear until the Sangha has attained long standing,[^98] *BD.1.19* great size[^99][^100][^101] or great learning.[^102] But when this happens, then the Teacher lays down training rules for his disciples *Vin.3.10* and recites a Pātimokkha in order to ward off those causes of corruptions. Sāriputta, the Sangha of bhikkhus is devoid of immorality,[^103] devoid of danger, stainless, purified, established in the essence.[^104] The most backward[^105] of these five hundred bhikkhus is a stream-enterer, not liable to be reborn in any state of misery, assured, bound for awakening.[^106]
 
 * * *
 
@@ -135,13 +135,13 @@ Formerly, Sāriputta, while staying in a certain frightening jungle thicket, Mas
 
 *Vin.3.11* “Brahmin, having stayed for the rainy season according to your invitation, we are taking leave of you. We wish to depart for a tour of the country.”
 
-“It is true, good Gotama, that you have stayed for the rainy season according to my invitation, but a gift has not been given. That is not good, nor is it because we did not want to give. It happened because household life is busy and there is much to do. May the good Gotama consent to a meal tomorrow together with the Sangha of monks.”
+“It is true, good Gotama, that you have stayed for the rainy season according to my invitation, but a gift has not been given. That is not good, nor is it because we did not want to give. It happened because household life is busy and there is much to do. May the good Gotama consent to a meal tomorrow together with the Sangha of bhikkhus.”
 
 The Master consented by keeping silence. Then the Master, having taught, roused, gladdened and delighted the brahmin of Verañjā with a talk on the _Dhamma_, rose from his seat and went away. *MS.37* Then, when the night was over, the brahmin of Verañjā prepared various kinds of delicious food[^108] in his own home, and then informed the Master:
 
 “It is time, good Gotama, the meal is ready.”
 
-*MS.38* Then the Master, having dressed in the morning, took his bowl and robe and, together with the Sangha of monks, he went to the dwelling of the brahmin of Verañjā and *BD.1.21* sat down on the prepared seat. Then, with his own hands, the brahmin of Verañjā served various kinds of delicious food to the Sangha of monks with the Buddha at its head. When they were satisfied and the Master had eaten and finished his meal, he gave the Master a set of three robes and a pair of robes to each monk.[^109] The Master instructed, roused, gladdened and delighted the brahmin of Verañjā with talk on the _Dhamma_, and then rose from his seat and departed.
+*MS.38* Then the Master, having dressed in the morning, took his bowl and robe and, together with the Sangha of bhikkhus, he went to the dwelling of the brahmin of Verañjā and *BD.1.21* sat down on the prepared seat. Then, with his own hands, the brahmin of Verañjā served various kinds of delicious food to the Sangha of bhikkhus with the Buddha at its head. When they were satisfied and the Master had eaten and finished his meal, he gave the Master a set of three robes and a pair of robes to each bhikkhu.[^109] The Master instructed, roused, gladdened and delighted the brahmin of Verañjā with talk on the _Dhamma_, and then rose from his seat and departed.
 
 *MS.39* The Master, having remained at Verañjā for as long as he liked, went to Payāgapatiṭṭhāna via Soreyya,[^110] Saṅkassa[^111] and Kaṇṇakujja.[^112] There he crossed the river Ganges and proceeded to Benares. Having remained at Benares for as long as he liked, he set out for Vesālī on tour. Wandering on tour by stages, he arrived at Vesālī.[^113] There he stayed in the Great Wood, in the hall with the peaked roof.
 
@@ -199,9 +199,9 @@ Then the friends of Sudinna approached him and said: “Get up, Sudinna, your pa
 
 *BD.1.26* Then Sudinna received the going forth in the presence of the Master, and he received the full ordination. And not long afterwards Venerable Sudinna practised these kinds of ascetic practises:[^122] living in the wilderness, going on alms-round, wearing rags, going on continuous alms-round; and he dwelt depending on a certain village of the Vajjians.
 
-*Bu-Pj.1.5.5* *MS.52* At that time the Vajjians[^123] were short of food[^124] and stricken by hunger, with crops blighted and turned to straw, and it was not easy to keep oneself going by collecting alms. Now Venerable Sudinna thought to himself: “At present the Vajjians are short of food and stricken by hunger, with crops blighted and turned to straw, and it is not easy to keep oneself going by collecting alms. But I have many relations in Vesālī who are rich, have great wealth and property, much gold and silver,[^125] many resources and requisites, much wealth in grain.[^126] Perhaps I should live in dependence on my relatives? Because of me my relations will be able to make offerings and make merit, the monks will obtain requisites and I will not go short of almsfood.”
+*Bu-Pj.1.5.5* *MS.52* At that time the Vajjians[^123] were short of food[^124] and stricken by hunger, with crops blighted and turned to straw, and it was not easy to keep oneself going by collecting alms. Now Venerable Sudinna thought to himself: “At present the Vajjians are short of food and stricken by hunger, with crops blighted and turned to straw, and it is not easy to keep oneself going by collecting alms. But I have many relations in Vesālī who are rich, have great wealth and property, much gold and silver,[^125] many resources and requisites, much wealth in grain.[^126] Perhaps I should live in dependence on my relatives? Because of me my relations will be able to make offerings and make merit, the bhikkhus will obtain requisites and I will not go short of almsfood.”
 
-*MS.53* Then Venerable Sudinna, having put his lodging in order, took his bowl and robe and set out for Vesālī, where he arrived by travelling in stages. There the Venerable Sudinna stayed in the hall with the peaked roof in the Great Wood. The relations of Venerable Sudinna heard that he *BD.1.27* had arrived in Vesālī and they brought him sixty offerings of barley as a gift of food.[^127] Then Venerable Sudinna, having given these sixty offerings of barley to the monks, dressed in the morning, took his bowl and robe and entered the village of Kalandaka for alms. As he was going about Kalandaka on a continuous alms-tour, he came to his own fatherʼs house.
+*MS.53* Then Venerable Sudinna, having put his lodging in order, took his bowl and robe and set out for Vesālī, where he arrived by travelling in stages. There the Venerable Sudinna stayed in the hall with the peaked roof in the Great Wood. The relations of Venerable Sudinna heard that he *BD.1.27* had arrived in Vesālī and they brought him sixty offerings of barley as a gift of food.[^127] Then Venerable Sudinna, having given these sixty offerings of barley to the bhikkhus, dressed in the morning, took his bowl and robe and entered the village of Kalandaka for alms. As he was going about Kalandaka on a continuous alms-tour, he came to his own fatherʼs house.
 
 *Bu-Pj.1.5.6* *MS.54* At that time the female slave of Venerable Sudinnaʼs relations wanted to throw away the previous eveningʼs porridge. But Venerable Sudinna said to her:
 
@@ -295,23 +295,23 @@ Then, when Venerable Sudinna had finished his meal, his mother said to him:
 
 “It is possible for me to do this, mother,” he said. He then took his former wife by the arm, plunged into the Great Wood and—there being no training rule and he seeing no danger—had sexual intercourse with his former wife three times. As a result she conceived.
 
-*MS.63* The earth-gods cried out: “Good sirs, the Sangha of monks has been healthy[^138] and free from danger. But Sudinna the Kalandaka has produced a tumour, has produced danger.”
+*MS.63* The earth-gods cried out: “Good sirs, the Sangha of bhikkhus has been healthy[^138] and free from danger. But Sudinna the Kalandaka has produced a tumour, has produced danger.”
 
 The gods belonging to the heaven of the four great kings hearing the cry of the earth-gods in turn cried out … the Tāvatiṁsa gods … the Yāma gods … the Tusita gods … the gods who delight in creation … *Vin.3.19* the gods who control the creation of others … the gods belonging to the retinue of the supreme beings in turn cried out:
 
-“Good sirs, the Sangha of monks has been healthy and free from danger. But Sudinna the Kalandaka has produced a tumour, has produced danger.” Thus in that moment, in that instance, the report spread as far as the Brahmā-world.[^139]
+“Good sirs, the Sangha of bhikkhus has been healthy and free from danger. But Sudinna the Kalandaka has produced a tumour, has produced danger.” Thus in that moment, in that instance, the report spread as far as the Brahmā-world.[^139]
 
 *MS.64* Then the pregnancy of Venerable Sudinnaʼs wife developed and she eventually gave birth to a son. Now the friends of Venerable Sudinna called this boy Bījaka*†*; they called Venerable Sudinnaʼs former wife Bījakaʼs mother; they called Venerable *BD.1.34* Sudinna Bījakaʼs father. After some time they both[^141] went forth from home into homelessness, and they realised _arahantship_.
 
 *Bu-Pj.1.5.10* *MS.65* But Venerable Sudinna was anxious and remorseful, and he thought: “Indeed, itʼs a loss for me, itʼs no gain; indeed, itʼs badly gained by me, not well-gained: having gone forth in such a well-proclaimed _Dhamma_ and training, I was not able for life to practice the perfectly complete and pure spiritual life.” And because of his anxiety and remorse, he became thin, haggard and pale, his veins protruding all over his limbs; he became sad, of sluggish mind, miserable, depressed, remorseful, weighed down with grief.[^142]
 
-*MS.66* Then the monks who were Venerable Sudinnaʼs friends said to him: “Formerly, friend Sudinna, you were handsome, your features rounded, your face a good colour, your skin clear. But now you are thin, haggard and pale, your veins protruding all over your limbs; and you are sad, of sluggish mind, miserable, depressed, remorseful, weighed down with grief. Could it be, friend Sudinna, that you lead the spiritual life dissatisfied?”[^143]
+*MS.66* Then the bhikkhus who were Venerable Sudinnaʼs friends said to him: “Formerly, friend Sudinna, you were handsome, your features rounded, your face a good colour, your skin clear. But now you are thin, haggard and pale, your veins protruding all over your limbs; and you are sad, of sluggish mind, miserable, depressed, remorseful, weighed down with grief. Could it be, friend Sudinna, that you lead the spiritual life dissatisfied?”[^143]
 
 *MS.67* “I do not, friends, lead the spiritual life dissatisfied. I have done an bad deed. I have had sexual intercourse with my former wife. That is why I am anxious … I was not able for life to practice the perfectly complete and pure spiritual life.”
 
 *MS.68* “Friend Sudinna, no wonder you are anxious,[^144] no wonder you feel remorse, in that, having gone forth in such a well-proclaimed _Dhamma_ and training, you were not able for life to practice the perfectly complete and pure spiritual life. *BD.1.35* Is not, friend, the _Dhamma_ taught by the Master in various ways for the sake of dispassion, not for the sake of passion; for the sake of freedom from bondage, not for the sake of bondage; for the sake of non-grasping, not for the sake of grasping? When the _Dhamma_ is taught by the Master for the sake of dispassion, how can you be intent upon passion? When the _Dhamma_ is taught by the Master for the sake of freedom from bondage, *Vin.3.20* how can you be intent upon bondage? When the _Dhamma_ is taught by the Master for the sake of non-grasping, how can you be intent upon grasping? Friend, has not the _Dhamma_ been taught in many ways by the Master for the waning of passion, for the subduing of intoxication, for the restraint of desire, for the abolition of clinging, for the annihilation of the round of existence,[^145] for the destruction of craving, for fading away, for cessation, for extinguishment?[^146] Has not the abandoning of sense pleasures been declared in many ways by the Master, the full understanding of the perception of sense pleasures, the abolishing of thirst for sense pleasures, the elimination of thoughts of sense pleasures, the stilling of the fever of sense pleasures? It will not, friend, give rise to confidence in those without it, nor increase the confidence of those who have it, but it will hinder confidence in those without it and it will cause some with confidence to change their minds.”
 
-*Bu-Pj.1.5.11* *MS.69* Having rebuked Venerable Sudinna in various way, those monks told this matter to the Master. And in this connection the Master convened the Sangha of monks and questioned Venerable Sudinna:
+*Bu-Pj.1.5.11* *MS.69* Having rebuked Venerable Sudinna in various way, those bhikkhus told this matter to the Master. And in this connection the Master convened the Sangha of bhikkhus and questioned Venerable Sudinna:
 
 *BD.1.36* “Is it true, Sudinna, that you had sexual intercourse with your former wife?”
 
@@ -319,47 +319,47 @@ The gods belonging to the heaven of the four great kings hearing the cry of the 
 
 *MS.70* The Buddha, the Master, rebuked him: “Foolish man, it is not suitable it is not becoming, it is not proper, it is unworthy of a recluse, it is not allowable, it is not to be done. How could you go forth in such a well-proclaimed _Dhamma_ and training and not be able for life to practice the perfectly complete and pure spiritual life? Have I not taught the _Dhamma_ in many ways for the sake of dispassion … When the _Dhamma_ has been taught by me for the sake of dispassion, how can you be intent upon passion? … Have I not in many ways declared the abandoning of sense pleasures … the stilling of the fever of sense pleasures? It would be better, foolish man, for your male organ to enter the mouth of a terrible and poisonous snake than to enter a woman. It would be better for your male organ to enter the mouth of a black snake than to enter a woman. It would be better for your male organ to enter a charcoal pit, burning, ablaze, afire, than to enter a woman. Why is that? Because for that reason you might die or experience deadly suffering, but you would not on that account, at the breaking up of the body after death, be reborn in the plane of misery, a bad destination, the abyss, hell. But for this reason, at the breaking up of the body after death, you might be reborn in the plane of misery, *Vin.3.21* a bad destination, the abyss, hell.[^147] Foolish man, you have practised what is contrary to the true _Dhamma_,[^148] the common *BD.1.37* practice, the low practice,[^149] the coarse practice, that which ends with a wash,[^150] that which is done in private, that which is done wherever there are couples. You are the forerunner, the first performer of many unwholesome things. It will not give rise to confidence in those without it, nor increase the confidence of those who have it, but it will hinder confidence in those without it and it will cause some with confidence to change their minds.”
 
-*MS.71* Then the Master, having rebuked Venerable Sudinna in various ways, spoke in dispraise of being difficult to support and maintain, in dispraise of great desires, lack of contentment, socialising[^151] and laziness, but he spoke in praise in various ways of being easy to support and maintain, of desiring little, contentment, self-effacement,[^152] ascetic practices, serenity, decrease of defilements,[^153] and of the putting forth of energy.[^154] Having given a _Dhamma_ talk on what was right and seemly, he addressed the monks:
+*MS.71* Then the Master, having rebuked Venerable Sudinna in various ways, spoke in dispraise of being difficult to support and maintain, in dispraise of great desires, lack of contentment, socialising[^151] and laziness, but he spoke in praise in various ways of being easy to support and maintain, of desiring little, contentment, self-effacement,[^152] ascetic practices, serenity, decrease of defilements,[^153] and of the putting forth of energy.[^154] Having given a _Dhamma_ talk on what was right and seemly, he addressed the bhikkhus:
 
-“On account of this,[^155] monks, I will lay down a training rule for the monks for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of recalcitrant people, for the ease *BD.1.38* of well-behaved monks, for the restraint of corruptions that pertain to the present life and for warding off corruptions that pertain to future lives, to give rise to confidence in those without it and to increase the confidence of those who have it, for the continuation of the true Dhamma[^156] and for supporting the training.[^157] And, monks, this training rule should be recited thus:
+“On account of this,[^155] bhikkhus, I will lay down a training rule for the bhikkhus for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of recalcitrant people, for the ease *BD.1.38* of well-behaved bhikkhus, for the restraint of corruptions that pertain to the present life and for warding off corruptions that pertain to future lives, to give rise to confidence in those without it and to increase the confidence of those who have it, for the continuation of the true Dhamma[^156] and for supporting the training.[^157] And, bhikkhus, this training rule should be recited thus:
 
 ### First preliminary ruling
 
-*MS.72* If a monk has sexual intercourse, he is expelled[^158] and not in communion.”
+*MS.72* If a bhikkhu has sexual intercourse, he is expelled[^158] and not in communion.”
 
-*MS.73* Thus the Master laid down this training rule for the monks.
+*MS.73* Thus the Master laid down this training rule for the bhikkhus.
 
 *MS.74* The section on Sudinna is finished.
 
 ### Second sub-story
 
-*MS.75* At one time a certain monk in the Great Wood near Vesālī won over a female monkey with food and had sexual intercourse with her. Then, in the morning, he dressed, took his bowl and robe and entered Vesālī for alms. Now at that time a number of monks who were engaged in touring the lodgings came to this monkʼs dwelling. The female monkey, seeing those monks coming, went up to them and shook her buttocks in front of them, wagged her tail, presented her buttocks and made a gesture. *Vin.3.22* Then the *BD.1.39* monks thought: “Undoubtedly this monk is having sexual intercourse with this monkey,” and they hid to one side. Then, when that monk had gone for alms in Vesālī and had returned with his almsfood, he ate one part himself and gave the rest to the female monkey. Having eaten the food, the monkey presented her buttocks to the monk. He then had sexual intercourse with her.
+*MS.75* At one time a certain bhikkhu in the Great Wood near Vesālī won over a female bhikkhuey with food and had sexual intercourse with her. Then, in the morning, he dressed, took his bowl and robe and entered Vesālī for alms. Now at that time a number of bhikkhus who were engaged in touring the lodgings came to this bhikkhuʼs dwelling. The female bhikkhuey, seeing those bhikkhus coming, went up to them and shook her buttocks in front of them, wagged her tail, presented her buttocks and made a gesture. *Vin.3.22* Then the *BD.1.39* bhikkhus thought: “Undoubtedly this bhikkhu is having sexual intercourse with this bhikkhuey,” and they hid to one side. Then, when that bhikkhu had gone for alms in Vesālī and had returned with his almsfood, he ate one part himself and gave the rest to the female bhikkhuey. Having eaten the food, the bhikkhuey presented her buttocks to the bhikkhu. He then had sexual intercourse with her.
 
-*MS.77* Then those monks said to that monk: “Friend, hasnʼt a training rule been laid down by the Master? Why then do you have sexual intercourse with a monkey?”
+*MS.77* Then those bhikkhus said to that bhikkhu: “Friend, hasnʼt a training rule been laid down by the Master? Why then do you have sexual intercourse with a bhikkhuey?”
 
 “It is true, friends, that a training rule has been laid down by the Master, but it refers to human women, not to animals.”
 
 “But, friend, that is just the same. It is not suitable, it is not becoming, it is not proper, it is not worthy of a recluse, it is not allowable, it ought not to be done. How could you go forth in this well-proclaimed _Dhamma_ and training and not be able for life to practice the perfectly complete and pure spiritual life? Has not the _Dhamma_ been taught in various ways by the Master for the sake of dispassion and not for the sake of passion[^159] … for the stilling of the fever of sense pleasures? Friend, it will not give rise to confidence in those without it … and it will cause some with confidence to change their minds.”
 
-Having rebuked that monk in various ways, they told this matter to the Master. *MS.78* The Master then had the Sangha of monks convened, and questioned that monk:
+Having rebuked that bhikkhu in various ways, they told this matter to the Master. *MS.78* The Master then had the Sangha of bhikkhus convened, and questioned that bhikkhu:
 
-“Is it true, monk, that you had sexual intercourse with a monkey?”
+“Is it true, bhikkhu, that you had sexual intercourse with a bhikkhuey?”
 
 “It is true, Master.”
 
-Then the Master rebuked him, saying: \= *Bu-Pj.1.5.11* above. _Instead of_ of a woman, _read_ of a monkey “… Foolish *BD.1.40* man, it will not give rise to confidence in those without it … And so, monks, this training rule should be recited thus:
+Then the Master rebuked him, saying: \= *Bu-Pj.1.5.11* above. _Instead of_ of a woman, _read_ of a bhikkhuey “… Foolish *BD.1.40* man, it will not give rise to confidence in those without it … And so, bhikkhus, this training rule should be recited thus:
 
 ### Second preliminary ruling
 
-*MS.79* “If a monk has sexual intercourse, even with an animal,[^160] he is expelled and not in communion.”
+*MS.79* “If a bhikkhu has sexual intercourse, even with an animal,[^160] he is expelled and not in communion.”
 
-*MS.80* Thus the Master laid down this training rule for the monks.
+*MS.80* Thus the Master laid down this training rule for the bhikkhus.
 
-*MS.81* The story of the female monkey is finished.
+*MS.81* The story of the female bhikkhuey is finished.
 
 ### Third sub-story
 
-*Bu-Pj.1.7.1* *Vin.3.23* *MS.82* At that time a number of Vajjian monks from Vesālī ate, slept and bathed as much as they liked. Doing so and not paying proper attention, they had sexual intercourse, without first renouncing the training[^161] and disclosing their weakness. After some time they were affected by loss of relatives, by loss of property and by illness. They then approached Venerable Ānanda and said:
+*Bu-Pj.1.7.1* *Vin.3.23* *MS.82* At that time a number of Vajjian bhikkhus from Vesālī ate, slept and bathed as much as they liked. Doing so and not paying proper attention, they had sexual intercourse, without first renouncing the training[^161] and disclosing their weakness. After some time they were affected by loss of relatives, by loss of property and by illness. They then approached Venerable Ānanda and said:
 
 “Bhante Ānanda, we do not blame the Buddha, the _Dhamma_ or the Sangha; we *BD.1.41* only blame ourselves. We were unfortunate, we had little merit: having gone forth in such a well-proclaimed _Dhamma_ and training, we were unable for life to practice the perfectly complete and pure spiritual life. If, bhante Ānanda, we were now to obtain the going forth and the full ordination in the presence of the Master, we would have clarity about wholesome qualities and be devoted day after day to developing the aids to awakening.[^162] Bhante Ānanda, please inform the Master of this matter.”
 
@@ -367,19 +367,19 @@ Then the Master rebuked him, saying: \= *Bu-Pj.1.5.11* above. _Instead of_ of a 
 
 *MS.83* “It is impossible, Ānanda, it cannot happen,[^163] that the Tathāgata should abolish a training rule that entails expulsion because of the Vajjians.”
 
-*MS.84* The Master then gave a _Dhamma_ talk and addressed the monks: “Monks, if a monk, without first renouncing the training and disclosing his weakness, has sexual intercourse, he may not receive the full ordination. But, monks, if someone has sexual intercourse after first renouncing the training and disclosing his weakness, he may receive the full ordination.
+*MS.84* The Master then gave a _Dhamma_ talk and addressed the bhikkhus: “bhikkhus, if a bhikkhu, without first renouncing the training and disclosing his weakness, has sexual intercourse, he may not receive the full ordination. But, bhikkhus, if someone has sexual intercourse after first renouncing the training and disclosing his weakness, he may receive the full ordination.
 
-“And so, monks, this training rule should be recited thus:
+“And so, bhikkhus, this training rule should be recited thus:
 
 ## Final ruling
 
-*MS.85* “If a monk, having entered upon the monksʼ training and way *BD.1.42* of life, without first renouncing the training and disclosing his weakness, has sexual intercourse, even with an animal, he is expelled and not in communion.”
+*MS.85* “If a bhikkhu, having entered upon the bhikkhusʼ training and way *BD.1.42* of life, without first renouncing the training and disclosing his weakness, has sexual intercourse, even with an animal, he is expelled and not in communion.”
 
 ## Definitions
 
-*Bu-Pj.1.8.1* *MS.86* A means: whoever, of such a kind, of such activity, of such social standing, of such name, *Vin.3.24* of such family, of such conduct, of such behaviour, of such association,[^164] who is an elder,[^165] one who is new or one of middle standing:—this is called a monk.
+*Bu-Pj.1.8.1* *MS.86* A means: whoever, of such a kind, of such activity, of such social standing, of such name, *Vin.3.24* of such family, of such conduct, of such behaviour, of such association,[^164] who is an elder,[^165] one who is new or one of middle standing:—this is called a bhikkhu.
 
-*MS.87* Monk means: he is a monk because he lives on alms; a monk because he has gone over to living on alms; a monk because he is one who wears the patchwork cloth; a monk by convention; a monk on account of his acknowledgement; a “come, monk” monk; a monk because he was ordained by going to the three refuges; a good monk; a monk of substance; a trainee monk; a monk beyond training; a monk who is ordained by a complete Sangha through a procedure[^166] of one motion and three announcements,[^167] which is unchallengeable and fit to stand. The monk who is ordained by a complete Sangha through a procedure of one motion and three announcements, which is unchallengeable and fit to stand,[^168] this sort of monk is meant in this case.
+*MS.87* bhikkhu means: he is a bhikkhu because he lives on alms; a bhikkhu because he has gone over to living on alms; a bhikkhu because he is one who wears the patchwork cloth; a bhikkhu by convention; a bhikkhu on account of his acknowledgement; a “come, bhikkhu” bhikkhu; a bhikkhu because he was ordained by going to the three refuges; a good bhikkhu; a bhikkhu of substance; a trainee bhikkhu; a bhikkhu beyond training; a bhikkhu who is ordained by a complete Sangha through a procedure[^166] of one motion and three announcements,[^167] which is unchallengeable and fit to stand. The bhikkhu who is ordained by a complete Sangha through a procedure of one motion and three announcements, which is unchallengeable and fit to stand,[^168] this sort of bhikkhu is meant in this case.
 
 *MS.88* Training means: the three trainings are—training in the higher morality, training in the higher mind, *BD.1.43* training in the higher wisdom. The training in the higher morality is the training meant in this case.
 
@@ -387,37 +387,37 @@ Then the Master rebuked him, saying: \= *Bu-Pj.1.5.11* above. _Instead of_ of a 
 
 *Bu-Pj.1.8.2* *MS.90* Without first renouncing the training and disclosing his weakness means:
 
-There is, monks, a disclosure of weakness without the training being renounced; and there is, monks, a disclosure of weakness together with the training being renounced.
+There is, bhikkhus, a disclosure of weakness without the training being renounced; and there is, bhikkhus, a disclosure of weakness together with the training being renounced.
 
-*MS.91* “And how, monks, is there a disclosure of weakness without the training being renounced? Here, monks, a monk who is discontent, dissatisfied, desirous of abandoning the state of a recluse, disgusted, troubled and repelled[^169] by monkhood, longing to be a householder, longing to be a lay-follower, longing to be a monastery attendant, longing to be a novice, longing to belong to another sect, longing to be a disciple of another sect, longing not to be a recluse, longing not to be a son of the Sakyan—he says and declares: ʻPerhaps I should renounce the Buddha?ʼ In this was, monks, there is a disclosure of weakness without the training being renounced.
+*MS.91* “And how, bhikkhus, is there a disclosure of weakness without the training being renounced? Here, bhikkhus, a bhikkhu who is discontent, dissatisfied, desirous of abandoning the state of a recluse, disgusted, troubled and repelled[^169] by bhikkhuhood, longing to be a householder, longing to be a lay-follower, longing to be a monastery attendant, longing to be a novice, longing to belong to another sect, longing to be a disciple of another sect, longing not to be a recluse, longing not to be a son of the Sakyan—he says and declares: ʻPerhaps I should renounce the Buddha?ʼ In this was, bhikkhus, there is a disclosure of weakness without the training being renounced.
 
-*MS.92* Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻPerhaps I should renounce the Dhamma?ʼ … the Sangha … the training … the discipline … the Pātimokkha … the recital … *Vin.3.25* my preceptor … my teacher … being a disciple … being a pupil … our common preceptor … our common teacher … he says and declares: ʻPerhaps *BD.1.44* I should renounce my fellow monks?ʼ … he says and declares: ʻPerhaps I should be a householder?ʼ … ʻPerhaps I should be a lay-follower?ʼ … ʻPerhaps I should be a monastery attendant?ʼ … ʻPerhaps I should be a novice?ʼ … ʻPerhaps I should be an adherent of another sect?ʼ … ʻPerhaps I should be a disciple of another sect?ʼ … ʻPerhaps I should not be a recluse?ʼ … ʻPerhaps I should not be a son of the Sakyan?ʼ In this way, monks, there is a disclosure of weakness without the training being renounced.
+*MS.92* Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻPerhaps I should renounce the Dhamma?ʼ … the Sangha … the training … the discipline … the Pātimokkha … the recital … *Vin.3.25* my preceptor … my teacher … being a disciple … being a pupil … our common preceptor … our common teacher … he says and declares: ʻPerhaps *BD.1.44* I should renounce my fellow bhikkhus?ʼ … he says and declares: ʻPerhaps I should be a householder?ʼ … ʻPerhaps I should be a lay-follower?ʼ … ʻPerhaps I should be a monastery attendant?ʼ … ʻPerhaps I should be a novice?ʼ … ʻPerhaps I should be an adherent of another sect?ʼ … ʻPerhaps I should be a disciple of another sect?ʼ … ʻPerhaps I should not be a recluse?ʼ … ʻPerhaps I should not be a son of the Sakyan?ʼ In this way, bhikkhus, there is a disclosure of weakness without the training being renounced.
 
-*MS.93* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻBut if I renounced the Buddhaʼ … he says and declares: ʻBut if I were not a son of the Sakyanʼ … he says and declares: ʻPerhaps I should renounce the Buddha?ʼ … he says and declares: ʻPerhaps I should not be a son of the Sakyan?ʼ … he says and declares: ʻWell then, I should renounce the Buddhaʼ … he says and declares: ʻWell then, I should not be a son of the Sakyanʼ … he says and declares: ʻI think I should renounce the Buddhaʼ … he says and declares: ʻI think I should not be a son of the Sakyan.ʼ In this way, monks, there is a disclosure of weakness without the training being renounced.
+*MS.93* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻBut if I renounced the Buddhaʼ … he says and declares: ʻBut if I were not a son of the Sakyanʼ … he says and declares: ʻPerhaps I should renounce the Buddha?ʼ … he says and declares: ʻPerhaps I should not be a son of the Sakyan?ʼ … he says and declares: ʻWell then, I should renounce the Buddhaʼ … he says and declares: ʻWell then, I should not be a son of the Sakyanʼ … he says and declares: ʻI think I should renounce the Buddhaʼ … he says and declares: ʻI think I should not be a son of the Sakyan.ʼ In this way, bhikkhus, there is a disclosure of weakness without the training being renounced.
 
-*MS.94* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻI remember my motherʼ … ʻI remember my fatherʼ … ʻI remember my brotherʼ … ʻI remember my sisterʼ … ʻI remember my sonʼ … ʻI remember my daughterʼ … ʻI remember my wifeʼ … ʻI remember my relationsʼ … ʻI remember my friendsʼ … ʻI remember my villageʼ … ʻI remember my townʼ … ʻI remember my fieldsʼ … ʻI remember my landʼ … ʻI remember my gold coinsʼ … ʻI remember my goldʼ … ʻI remember my professionʼ … he says and declares: ʻI remember my former laughter, chatter and amusement.ʼ In this way, monks, *Vin.3.26* there is a disclosure of weakness without the training being renounced.
+*MS.94* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻI remember my motherʼ … ʻI remember my fatherʼ … ʻI remember my brotherʼ … ʻI remember my sisterʼ … ʻI remember my sonʼ … ʻI remember my daughterʼ … ʻI remember my wifeʼ … ʻI remember my relationsʼ … ʻI remember my friendsʼ … ʻI remember my villageʼ … ʻI remember my townʼ … ʻI remember my fieldsʼ … ʻI remember my landʼ … ʻI remember my gold coinsʼ … ʻI remember my goldʼ … ʻI remember my professionʼ … he says and declares: ʻI remember my former laughter, chatter and amusement.ʼ In this way, bhikkhus, *Vin.3.26* there is a disclosure of weakness without the training being renounced.
 
-*MS.95* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻI have a mother, she ought to be supported by meʼ … ʻI have *BD.1.45* a father, he ought to be supported by meʼ … ʻI have a brother … ʻI have a sister … ʻI have a son … ʻI have a daughter … ʻI have a wife … ʻI have relations … he says and declares: ʻI have friends, they ought to be supported by me.ʼ In this way, monks, there is a disclosure of weakness without the training being renounced.
+*MS.95* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻI have a mother, she ought to be supported by meʼ … ʻI have *BD.1.45* a father, he ought to be supported by meʼ … ʻI have a brother … ʻI have a sister … ʻI have a son … ʻI have a daughter … ʻI have a wife … ʻI have relations … he says and declares: ʻI have friends, they ought to be supported by me.ʼ In this way, bhikkhus, there is a disclosure of weakness without the training being renounced.
 
-*MS.96* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻI have a mother, she will support meʼ … ʻI have a father, he will support meʼ … as above … ʻI have friends, they will support meʼ … ʻI have a village, I will live by means of itʼ … ʻI have a town, I will live by means of itʼ … fields … land … gold coins … gold … he says and declares: ʻI have a profession, I will live by means of it.ʼ In this way, monks, there is a disclosure of weakness without the training being renounced.
+*MS.96* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻI have a mother, she will support meʼ … ʻI have a father, he will support meʼ … as above … ʻI have friends, they will support meʼ … ʻI have a village, I will live by means of itʼ … ʻI have a town, I will live by means of itʼ … fields … land … gold coins … gold … he says and declares: ʻI have a profession, I will live by means of it.ʼ In this way, bhikkhus, there is a disclosure of weakness without the training being renounced.
 
-*MS.97* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻThis is difficult to doʼ … ʻthis is not easy to doʼ … ʻthis is difficultʼ … ʻthis is not easyʼ … ʻI cannot endureʼ … ʻI am unableʼ … ʻI do not enjoy myselfʼ … ʻI take no delight.ʼ[^170] In this way, monks, there is a disclosure of weakness without the training being renounced.
+*MS.97* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻThis is difficult to doʼ … ʻthis is not easy to doʼ … ʻthis is difficultʼ … ʻthis is not easyʼ … ʻI cannot endureʼ … ʻI am unableʼ … ʻI do not enjoy myselfʼ … ʻI take no delight.ʼ[^170] In this way, bhikkhus, there is a disclosure of weakness without the training being renounced.
 
-*Bu-Pj.1.8.3* *MS.98* “And how, monks, is there a disclosure of weakness together with the training being renounced? Here, monks, a monk who is discontent, dissatisfied … longing not to be a son of the Sakyan, says and declares: ʻI renounce the Buddha.ʼ In this way, monks, there is a disclosure of weakness together with the training being renounced.
+*Bu-Pj.1.8.3* *MS.98* “And how, bhikkhus, is there a disclosure of weakness together with the training being renounced? Here, bhikkhus, a bhikkhu who is discontent, dissatisfied … longing not to be a son of the Sakyan, says and declares: ʻI renounce the Buddha.ʼ In this way, bhikkhus, there is a disclosure of weakness together with the training being renounced.
 
-*MS.99* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻI renounce the Dhammaʼ … *Vin.3.27* ʻI renounce the Sanghaʼ … the training … the discipline … the Pātimokkha … the recital … my preceptor … my teacher … being a disciple … being a pupil … our common preceptor *BD.1.46* … our common teacher … he says and declares: ʻI renounce my fellow monksʼ … he says and declares: ʻConsider me a householderʼ … ʻConsider me a lay-followerʼ … a monastery attendant … a novice … an adherent of another sect … a disciple of another sect … not a recluse … ʻConsider me not a son of the Sakyan.ʼ In this way too, monks, there is a disclosure of weakness together with the training being renounced.
+*MS.99* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻI renounce the Dhammaʼ … *Vin.3.27* ʻI renounce the Sanghaʼ … the training … the discipline … the Pātimokkha … the recital … my preceptor … my teacher … being a disciple … being a pupil … our common preceptor *BD.1.46* … our common teacher … he says and declares: ʻI renounce my fellow bhikkhusʼ … he says and declares: ʻConsider me a householderʼ … ʻConsider me a lay-followerʼ … a monastery attendant … a novice … an adherent of another sect … a disciple of another sect … not a recluse … ʻConsider me not a son of the Sakyan.ʼ In this way too, bhikkhus, there is a disclosure of weakness together with the training being renounced.
 
-*MS.100* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻI have no need of the Buddhaʼ … ʻI have no need of my fellow monks.ʼ In this way too, monks …
+*MS.100* “Then further, discontent, dissatisfied … longing not to be a son of the Sakyan, he says and declares: ʻI have no need of the Buddhaʼ … ʻI have no need of my fellow bhikkhus.ʼ In this way too, bhikkhus …
 
-“Then further … he says and declares: ʻNo more of the Buddha for meʼ … ʻNo more of my fellow monks for me.ʼ In this way too, monks …
+“Then further … he says and declares: ʻNo more of the Buddha for meʼ … ʻNo more of my fellow bhikkhus for me.ʼ In this way too, bhikkhus …
 
-“Then further … he says and declares: ʻThe Buddha is no of use to meʼ … ʻMy fellow monks are of no use to me.ʼ In this way too, monks …
+“Then further … he says and declares: ʻThe Buddha is no of use to meʼ … ʻMy fellow bhikkhus are of no use to me.ʼ In this way too, bhikkhus …
 
-“Then further … he says and declares: ʻI am well freed from the Buddha.ʼ … I am well freed from my fellow monks.ʼ In this way too, monks … being renounced.
+“Then further … he says and declares: ʻI am well freed from the Buddha.ʼ … I am well freed from my fellow bhikkhus.ʼ In this way too, bhikkhus … being renounced.
 
-*MS.101* “Or whatever other synonyms there are for the Buddha, for the _Dhamma_, for the Sangha, for the training … for oneʼs fellow monks, for householders … or for not being a son of the Sakyan; he speaks and declares by way of these indications, by way of these marks, by way of these signs. In this way, monks, there is a disclosure of weakness together with the training being renounced.
+*MS.101* “Or whatever other synonyms there are for the Buddha, for the _Dhamma_, for the Sangha, for the training … for oneʼs fellow bhikkhus, for householders … or for not being a son of the Sakyan; he speaks and declares by way of these indications, by way of these marks, by way of these signs. In this way, bhikkhus, there is a disclosure of weakness together with the training being renounced.
 
-*Bu-Pj.1.8.4* *MS.102* “And how, monks, is the training not renounced? Here, monks, if one renounces the training by way of these indications, by way of these marks, by way of these signs, but one is insane, then the training is not renounced. If one renounces the training in the presence of one who is insane, the training is not renounced. If one who is deranged renounces *BD.1.47* the training … if one renounces the training in the presence of one who is deranged … if one is overwhelmed by pain … if one renounces the training in the presence of one who is overwhelmed by pain … if one renounces the training in the presence of gods[^171] … if one renounces the training in the presence of an animal, the training is not renounced. If an Indian[^172] renounces the training in the presence of a foreigner[^173] and he does not understand, the training is not renounced. If a foreigner renounces the training in the presence of an Indian … if an Indian renounces the training in the presence of an Indian … if a foreigner renounces *Vin.3.28* the training in the presence of a foreigner and he does not understand, the training is not renounced. If he renounces the training as a joke … he renounces the training by speaking too fast … if he announces what he does not wish to announce … if he does not announce what he wishes to announce … if he announces to one who does not understand … if he does not announce to one who understands … or if he does not make a full announcement, the training is not renounced. In this way, monks, the training is not renounced.”
+*Bu-Pj.1.8.4* *MS.102* “And how, bhikkhus, is the training not renounced? Here, bhikkhus, if one renounces the training by way of these indications, by way of these marks, by way of these signs, but one is insane, then the training is not renounced. If one renounces the training in the presence of one who is insane, the training is not renounced. If one who is deranged renounces *BD.1.47* the training … if one renounces the training in the presence of one who is deranged … if one is overwhelmed by pain … if one renounces the training in the presence of one who is overwhelmed by pain … if one renounces the training in the presence of gods[^171] … if one renounces the training in the presence of an animal, the training is not renounced. If an Indian[^172] renounces the training in the presence of a foreigner[^173] and he does not understand, the training is not renounced. If a foreigner renounces the training in the presence of an Indian … if an Indian renounces the training in the presence of an Indian … if a foreigner renounces *Vin.3.28* the training in the presence of a foreigner and he does not understand, the training is not renounced. If he renounces the training as a joke … he renounces the training by speaking too fast … if he announces what he does not wish to announce … if he does not announce what he wishes to announce … if he announces to one who does not understand … if he does not announce to one who understands … or if he does not make a full announcement, the training is not renounced. In this way, bhikkhus, the training is not renounced.”
 
 *Bu-Pj.1.8.5* *MS.103* Sexual intercourse means: what is contrary to the true _Dhamma_, the common practice, the low practice, the coarse practice, that which ends with a wash, that which is done in private, that which is done wherever there are couples: this is called sexual intercourse.
 
@@ -425,7 +425,7 @@ There is, monks, a disclosure of weakness without the training being renounced; 
 
 *MS.105* Even with an animal means: even having sexual intercourse with a female animal,[^174] he is *BD.1.48* not a recluse, not a son of the Sakyan; how much less so with a woman: therefore it is called even with an animal.
 
-*MS.106* He is expelled means: as a man with his head cut off is incapable[^175] of living by (re-establishing) that bodily connection, so is a monk who has had sexual intercourse not a recluse, not a son of the Sakyan[^176]: therefore it is said that he is expelled.
+*MS.106* He is expelled means: as a man with his head cut off is incapable[^175] of living by (re-establishing) that bodily connection, so is a bhikkhu who has had sexual intercourse not a recluse, not a son of the Sakyan[^176]: therefore it is said that he is expelled.
 
 *MS.107* Not in communion means: communion[^177] means: a common official action, the same recital, the same training—this is called communion. He does not take part in this—he is therefore called not in communion.
 
@@ -445,31 +445,31 @@ There is, monks, a disclosure of weakness without the training being renounced; 
 
 ##### Voluntary sexual intercourse
 
-*Bu-Pj.1.9.2* *Vin.3.29* *MS.110* For a monk who, having the intention of association, lets his penis enter a human female through the anus … through the vagina … through the mouth, there is an offence entailing expulsion. *BD.1.49* For a monk who … lets his male organ enter a non-human female … a female animal … a human hermaphrodite … a non-human hermaphrodite … an animal hermaphrodite through the anus … through the vagina … through the mouth, there is an offence entailing expulsion. For a monk who, having the intention of association, lets his penis enter a human _paṇḍaka_ … a non-human _paṇḍaka_ … an animal _paṇḍaka_ … a human male … a non-human male … a male animal through the anus … through the mouth, there is an offence entailing expulsion.
+*Bu-Pj.1.9.2* *Vin.3.29* *MS.110* For a bhikkhu who, having the intention of association, lets his penis enter a human female through the anus … through the vagina … through the mouth, there is an offence entailing expulsion. *BD.1.49* For a bhikkhu who … lets his male organ enter a non-human female … a female animal … a human hermaphrodite … a non-human hermaphrodite … an animal hermaphrodite through the anus … through the vagina … through the mouth, there is an offence entailing expulsion. For a bhikkhu who, having the intention of association, lets his penis enter a human _paṇḍaka_ … a non-human _paṇḍaka_ … an animal _paṇḍaka_ … a human male … a non-human male … a male animal through the anus … through the mouth, there is an offence entailing expulsion.
 
 ##### Forced sexual intercourse
 
-*Bu-Pj.1.9.3* *MS.111* Opponents who are monks, having brought a human female into a monkʼs presence, insert his penis into her anus, her vagina or her mouth. If he agrees to the entry, if he agrees to having entered, if he agrees to remaining, if he agrees to the taking out,*†* there is an offence entailing expulsion. Opponents who are monks … if he does not agree to the entry, but agrees to having entered, to remaining, to the taking out, there is an offence entailing expulsion.
+*Bu-Pj.1.9.3* *MS.111* Opponents who are bhikkhus, having brought a human female into a bhikkhuʼs presence, insert his penis into her anus, her vagina or her mouth. If he agrees to the entry, if he agrees to having entered, if he agrees to remaining, if he agrees to the taking out,*†* there is an offence entailing expulsion. Opponents who are bhikkhus … if he does not agree to the entry, but agrees to having entered, to remaining, to the taking out, there is an offence entailing expulsion.
 
-Opponents who are monks … if he does not agree to the entry nor to having entered, but to remaining and to the taking out … entailing expulsion. Opponents who are monks … if he does not agree to the entry nor to having entered nor to remaining, but to the taking out … entailing expulsion. Opponents who are monks … if he does not agree to the entry nor to having entered nor to remaining nor to the taking out, there is no offence.
+Opponents who are bhikkhus … if he does not agree to the entry nor to having entered, but to remaining and to the taking out … entailing expulsion. Opponents who are bhikkhus … if he does not agree to the entry nor to having entered nor to remaining, but to the taking out … entailing expulsion. Opponents who are bhikkhus … if he does not agree to the entry nor to having entered nor to remaining nor to the taking out, there is no offence.
 
-*MS.113* Opponents who are monks, having brought a human female who is awake … asleep … intoxicated … mad … drunk … dead but undecomposed … dead and mostly undecomposed … there is an offence entailing expulsion. Having brought one who is dead and mostly decomposed into the monk’s presence, they insert his penis into the anus … the vagina … the mouth. If he *Vin.3.30* agrees to the entry, to having entered, to remaining, to the taking out, there is a serious offence … if he does not agree, there is no offence.
+*MS.113* Opponents who are bhikkhus, having brought a human female who is awake … asleep … intoxicated … mad … drunk … dead but undecomposed … dead and mostly undecomposed … there is an offence entailing expulsion. Having brought one who is dead and mostly decomposed into the bhikkhu’s presence, they insert his penis into the anus … the vagina … the mouth. If he *Vin.3.30* agrees to the entry, to having entered, to remaining, to the taking out, there is a serious offence … if he does not agree, there is no offence.
 
 *MS.114* All this is repeated for a non-human female and a female animal; a human, a non-human and an animal hermaphrodite; a human, a non-human and an animal _paṇḍaka_; a human male, a non-human male and a male animal; except that for the three categories of _paṇḍakas_ and the three categories of males only two orifices apply, the anus and the mouth.
 
-*Bu-Pj.1.9.4* *MS.120* Opponents who are monks, having brought a human female *Vin.3.31* into a monkʼs presence, insert his penis into her anus … her vagina … her mouth, the female being covered, the monk uncovered … the female uncovered, *BD.1.50* the monk covered … the female covered, the monk covered … the female uncovered, the monk uncovered. If he agrees to the entry, to having entered, to remaining, to the taking out, there is an offence entailing expulsion. … If not, there is no offence. Opponents who are monks … a human female who is awake … asleep … dead but mostly undecomposed … entailing expulsion. Having brought one who is dead, but mostly decomposed into a monkʼs presence, they insert his penis into the anus … the vagina … the mouth, the female being covered, the monk uncovered … both being uncovered. If he agrees to the entry … to the taking out, there is a serious offence. … If not, there is no offence.
+*Bu-Pj.1.9.4* *MS.120* Opponents who are bhikkhus, having brought a human female *Vin.3.31* into a bhikkhuʼs presence, insert his penis into her anus … her vagina … her mouth, the female being covered, the bhikkhu uncovered … the female uncovered, *BD.1.50* the bhikkhu covered … the female covered, the bhikkhu covered … the female uncovered, the bhikkhu uncovered. If he agrees to the entry, to having entered, to remaining, to the taking out, there is an offence entailing expulsion. … If not, there is no offence. Opponents who are bhikkhus … a human female who is awake … asleep … dead but mostly undecomposed … entailing expulsion. Having brought one who is dead, but mostly decomposed into a bhikkhuʼs presence, they insert his penis into the anus … the vagina … the mouth, the female being covered, the bhikkhu uncovered … both being uncovered. If he agrees to the entry … to the taking out, there is a serious offence. … If not, there is no offence.
 
 *MS.122* All this is repeated for a non-human female and a female animal; a human, a non-human and an animal hermaphrodite; a human, a non-human and an animal _paṇḍaka_; a human male, a non-human male and a male animal; *Vin.3.32* except that for the three categories of _paṇḍakas_ and the three categories of males only two orifices apply, the anus and the mouth.
 
-*Bu-Pj.1.9.5–6* *MS.126* *Vin.3.32–33*, §§ 5, 6 are repetitions of §§ 3, 4 but reading “opponents who are monks, having brought a monk into the presence of a human female *Vin.3.33* …”
+*Bu-Pj.1.9.5–6* *MS.126* *Vin.3.32–33*, §§ 5, 6 are repetitions of §§ 3, 4 but reading “opponents who are bhikkhus, having brought a bhikkhu into the presence of a human female *Vin.3.33* …”
 
-*Bu-Pj.1.9.7* *MS.134* As the sections on “opponents who are monks” have been explained in detailed, so should the following categories be explained: opponents who are kings, opponents who are thieves, opponents who are scoundrels, “lotus-scent” opponents.[^181]
+*Bu-Pj.1.9.7* *MS.134* As the sections on “opponents who are bhikkhus” have been explained in detailed, so should the following categories be explained: opponents who are kings, opponents who are thieves, opponents who are scoundrels, “lotus-scent” opponents.[^181]
 
 ### Permutations part 2
 
 *MS.136* He enters an orifice through an orifice,*†* there is an offence entailing expulsion. He enters a non-orifice through an orifice … entailing expulsion. He enters an orifice through a non-orifice … entailing expulsion. He enters a non-orifice through a non-orifice, there is a serious offence.
 
-*MS.137* A monk molests a sleeping monk: if he wakes up and consents, both should be expelled; if he wakes up but does not consent, the molester *BD.1.51* should be expelled. A monk molests a sleeping novice: if he wakes up and consents, both should be expelled;[^183] if he wakes up but does not consent, the molester should be expelled. A novice molests a sleeping monk: if he wakes up and consents, both should be expelled; if he wakes up but does not consent, the molester should be expelled. A novice molests a sleeping novice: if he wakes up and consents, both should be expelled; if he wakes up but does not consent, the molester should be expelled.
+*MS.137* A bhikkhu molests a sleeping bhikkhu: if he wakes up and consents, both should be expelled; if he wakes up but does not consent, the molester *BD.1.51* should be expelled. A bhikkhu molests a sleeping novice: if he wakes up and consents, both should be expelled;[^183] if he wakes up but does not consent, the molester should be expelled. A novice molests a sleeping bhikkhu: if he wakes up and consents, both should be expelled; if he wakes up but does not consent, the molester should be expelled. A novice molests a sleeping novice: if he wakes up and consents, both should be expelled; if he wakes up but does not consent, the molester should be expelled.
 
 ## Non-offence clause
 
@@ -481,7 +481,7 @@ Opponents who are monks … if he does not agree to the entry nor to having ente
 
 ##### Mnemonic list
 
-*MS.140* The female monkey, and the Vajjians,  
+*MS.140* The female bhikkhuey, and the Vajjians,  
   
 householder and a naked one, adherents of other sects,  
   
@@ -509,167 +509,167 @@ one who had gone forth when old, a deer.
 
 ### Case details
 
-*Bu-Pj.1.10.1* *MS.145* At one time a certain monk had sexual intercourse with a female monkey. He became anxious, thinking: “The Master has laid down a training rule. Perhaps I have committed an offence entailing expulsion.”[^185] They informed the Master … “You, monk, have fallen into an offence entailing expulsion.”
+*Bu-Pj.1.10.1* *MS.145* At one time a certain bhikkhu had sexual intercourse with a female bhikkhuey. He became anxious, thinking: “The Master has laid down a training rule. Perhaps I have committed an offence entailing expulsion.”[^185] They informed the Master … “You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.1.10.2* *MS.146* At one time a number of Vajjian monks from Vesālī had sexual intercourse, without first renouncing the training and disclosing their weakness. They became anxious, thinking: “The Master has laid down a training rule. Perhaps we have committed an offence entailing expulsion.” They informed the Master … “You, monks, have fallen into an offence entailing expulsion.”
+*Bu-Pj.1.10.2* *MS.146* At one time a number of Vajjian bhikkhus from Vesālī had sexual intercourse, without first renouncing the training and disclosing their weakness. They became anxious, thinking: “The Master has laid down a training rule. Perhaps we have committed an offence entailing expulsion.” They informed the Master … “You, bhikkhus, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.1.10.3* *MS.147* At one time a certain monk, thinking he would avoid an offence, had sexual intercourse while looking like a layman. He became anxious … “… entailing expulsion.”
+*Bu-Pj.1.10.3* *MS.147* At one time a certain bhikkhu, thinking he would avoid an offence, had sexual intercourse while looking like a layman. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*MS.148* At one time a certain monk, thinking he would avoid an offence, had sexual intercourse while naked. He became anxious … “… entailing expulsion.”
+*MS.148* At one time a certain bhikkhu, thinking he would avoid an offence, had sexual intercourse while naked. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*MS.149* At one time a certain monk, thinking he would avoid an offence, had sexual intercourse while dressed in a _kusa_\-grass garment[^186] *BD.1.53* … while dressed in a bark garment[^187] … while dressed in a garment of wood shavings … while dressed in a hair blanket[^188] … while dressed in a horse-hair blanket … while dressed in a garment of owlsʼ wing … while dressed in a garment of antelope hide[^189] … He became anxious … entailing expulsion.”
+*MS.149* At one time a certain bhikkhu, thinking he would avoid an offence, had sexual intercourse while dressed in a _kusa_\-grass garment[^186] *BD.1.53* … while dressed in a bark garment[^187] … while dressed in a garment of wood shavings … while dressed in a hair blanket[^188] … while dressed in a horse-hair blanket … while dressed in a garment of owlsʼ wing … while dressed in a garment of antelope hide[^189] … He became anxious … entailing expulsion.”
 
 * * *
 
-*Bu-Pj.1.10.4* *MS.150* Now at one time a certain monk who was an alms-goer saw a little girl lying on a bench. Being lustful, he inserted his thumb into her vagina. She died. He became anxious …” … Monk, there is no offence entailing expulsion, but there is an offence entailing suspension.”[^190] *Vin.3.35*
+*Bu-Pj.1.10.4* *MS.150* Now at one time a certain bhikkhu who was an alms-goer saw a little girl lying on a bench. Being lustful, he inserted his thumb into her vagina. She died. He became anxious …” … bhikkhu, there is no offence entailing expulsion, but there is an offence entailing suspension.”[^190] *Vin.3.35*
 
 * * *
 
-*Bu-Pj.1.10.5* *MS.151* Now at one time a certain brahmin youth was in love with the nun Uppalavaṇṇā.[^191] Then, when the nun Uppalavaṇṇā had entered the village for alms, he *BD.1.54* entered her hut and hid himself. The nun Uppalavaṇṇā, after her meal, when she had returned from almsround, washed her feet, entered her hut and sat down on the bed. Then that brahmin youth took hold of the nun Uppalavaṇṇā and raped her. The nun Uppalavaṇṇā informed the nuns. The nuns informed the monks,[^192] who in turn informed the Master. “There is no offence, monks, for one who does not consent.”
+*Bu-Pj.1.10.5* *MS.151* Now at one time a certain brahmin youth was in love with the nun Uppalavaṇṇā.[^191] Then, when the nun Uppalavaṇṇā had entered the village for alms, he *BD.1.54* entered her hut and hid himself. The nun Uppalavaṇṇā, after her meal, when she had returned from almsround, washed her feet, entered her hut and sat down on the bed. Then that brahmin youth took hold of the nun Uppalavaṇṇā and raped her. The nun Uppalavaṇṇā informed the nuns. The nuns informed the bhikkhus,[^192] who in turn informed the Master. “There is no offence, bhikkhus, for one who does not consent.”
 
 * * *
 
-*Bu-Pj.1.10.6* *MS.152* Now at one time the characteristics of a woman[^193] appeared on a certain monk. They informed the Master. He said: “Monks, I allow that very discipleship, that very ordination,[^194] those years as a monk, to be transferred to the nuns. Those offences that the monks have in common with the nuns are to be dealt with in the presence of the nuns. For those offences that the monks do not have in common with the nuns, there is no offence.”
+*Bu-Pj.1.10.6* *MS.152* Now at one time the characteristics of a woman[^193] appeared on a certain bhikkhu. They informed the Master. He said: “bhikkhus, I allow that very discipleship, that very ordination,[^194] those years as a bhikkhu, to be transferred to the nuns. Those offences that the bhikkhus have in common with the nuns are to be dealt with in the presence of the nuns. For those offences that the bhikkhus do not have in common with the nuns, there is no offence.”
 
 * * *
 
-*MS.153* At one time the characteristics of a man appeared on a certain nun. They informed the Master. He said: “Monks, I allow that very discipleship, that very ordination, those years as a nun, to be transferred to the monks. Those offences that the nuns have in common with the monks are to be dealt with in the presence of the monks. For those offences that the nuns do not have in common with the monks, there is no offence.”
+*MS.153* At one time the characteristics of a man appeared on a certain nun. They informed the Master. He said: “bhikkhus, I allow that very discipleship, that very ordination, those years as a nun, to be transferred to the bhikkhus. Those offences that the nuns have in common with the bhikkhus are to be dealt with in the presence of the bhikkhus. For those offences that the nuns do not have in common with the bhikkhus, there is no offence.”
 
 * * *
 
-*Bu-Pj.1.10.7* *BD.1.55* *MS.154* At one time a certain monk, thinking he would avoid an offence, had sexual intercourse with his mother … his daughter … his sister. He became anxious … He informed the Master. “You, monk, have fallen into an offence entailing expulsion.”
+*Bu-Pj.1.10.7* *BD.1.55* *MS.154* At one time a certain bhikkhu, thinking he would avoid an offence, had sexual intercourse with his mother … his daughter … his sister. He became anxious … He informed the Master. “You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*MS.155* At one time a certain monk had sexual intercourse with his former wife. He became anxious … “… entailing expulsion.”
+*MS.155* At one time a certain bhikkhu had sexual intercourse with his former wife. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*Bu-Pj.1.10.8* *MS.156* At one time a certain monk had a supple back.[^195] Tormented by discontent, he took his penis into his own mouth. He became anxious … “… entailing expulsion.”
+*Bu-Pj.1.10.8* *MS.156* At one time a certain bhikkhu had a supple back.[^195] Tormented by discontent, he took his penis into his own mouth. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*MS.157* At one time a certain monk had a long penis. Tormented by discontent,[^196] he inserted his penis into his own anus. He became anxious … “… entailing expulsion.” *Vin.3.36*
+*MS.157* At one time a certain bhikkhu had a long penis. Tormented by discontent,[^196] he inserted his penis into his own anus. He became anxious … “… entailing expulsion.” *Vin.3.36*
 
 * * *
 
-*Bu-Pj.1.10.9* *MS.158* At one time a certain monk saw a dead body, and on the body was a sore next to the genitals. Thinking he would avoid an offence, he inserted his penis in the genital and it came out through the sore. He became anxious … “… entailing expulsion.”
+*Bu-Pj.1.10.9* *MS.158* At one time a certain bhikkhu saw a dead body, and on the body was a sore next to the genitals. Thinking he would avoid an offence, he inserted his penis in the genital and it came out through the sore. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*MS.159* At one time a certain monk saw a dead body, and on the body was a sore next to the genitals. Thinking he would avoid an offence, he inserted his penis in the sore and it came out through the genitals. He became anxious … “… entailing expulsion.”
+*MS.159* At one time a certain bhikkhu saw a dead body, and on the body was a sore next to the genitals. Thinking he would avoid an offence, he inserted his penis in the sore and it came out through the genitals. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*Bu-Pj.1.10.10* *MS.160* At one time a certain lustful monk contacted the genitals of a picture[^197] with his penis. He became anxious … “… Monk, there is no offence entailing expulsion; there is an offence of bad conduct.”
+*Bu-Pj.1.10.10* *MS.160* At one time a certain lustful bhikkhu contacted the genitals of a picture[^197] with his penis. He became anxious … “… bhikkhu, there is no offence entailing expulsion; there is an offence of bad conduct.”
 
 * * *
 
-*MS.161* At one time a certain lustful monk contacted the genitals of a wooden doll[^198] with his penis. He became anxious … “… bad conduct.”
+*MS.161* At one time a certain lustful bhikkhu contacted the genitals of a wooden doll[^198] with his penis. He became anxious … “… bad conduct.”
 
 * * *
 
-*Bu-Pj.1.10.11* *BD.1.56* *MS.162* At one time a monk called Sundara, who had gone forth from Rājagaha, was walking along a carriage-road. A certain woman said: “Wait a moment, honoured sir, I will pay homage to you.” As she was paying homage she held up his lower robe and took his penis into her mouth. He became anxious … “… Monk, did you consent?”
+*Bu-Pj.1.10.11* *BD.1.56* *MS.162* At one time a bhikkhu called Sundara, who had gone forth from Rājagaha, was walking along a carriage-road. A certain woman said: “Wait a moment, honoured sir, I will pay homage to you.” As she was paying homage she held up his lower robe and took his penis into her mouth. He became anxious … “… bhikkhu, did you consent?”
 
 “I did not consent, Master.”[^199]
 
-“There is no offence, monk, for one who does not consent.”
+“There is no offence, bhikkhu, for one who does not consent.”
 
 * * *
 
-*Bu-Pj.1.10.12* *MS.163* Now at one time a certain woman, seeing a monk, said: “Come, honoured sir, have sexual intercourse.”
+*Bu-Pj.1.10.12* *MS.163* Now at one time a certain woman, seeing a bhikkhu, said: “Come, honoured sir, have sexual intercourse.”
 
 “Enough, sister, it is not allowable.”
 
-“Come, honoured sir, I will make the effort, not you. In this way there will be no offence for you.” The monk acted accordingly. He became anxious … “… entailing expulsion.”
+“Come, honoured sir, I will make the effort, not you. In this way there will be no offence for you.” The bhikkhu acted accordingly. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*MS.164* At one time a certain woman, seeing a monk, said: “Come, honoured sir, have sexual intercourse.”
+*MS.164* At one time a certain woman, seeing a bhikkhu, said: “Come, honoured sir, have sexual intercourse.”
 
 “Enough, sister, it is not allowable.”
 
-“Come, honoured sir, you make the effort, not I. In this way there will be no offence for you.” The monk acted accordingly. He became anxious … “… entailing expulsion.”
+“Come, honoured sir, you make the effort, not I. In this way there will be no offence for you.” The bhikkhu acted accordingly. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*MS.165* At one time a certain woman, seeing a monk, said: “Come, honoured sir …” “… it is not allowable.”
+*MS.165* At one time a certain woman, seeing a bhikkhu, said: “Come, honoured sir …” “… it is not allowable.”
 
-“Come, honoured sir, rub inside but discharge outside … rub outside but discharge inside. Thus there will be no offence for you.” The monk acted accordingly. He became anxious … “… entailing expulsion.”
-
-* * *
-
-*Bu-Pj.1.10.13* *MS.166* Now at one time a certain monk went to a charnel ground and saw an undecomposed body. He had sexual *BD.1.57* intercourse with it. *Vin.3.37* He became anxious … “… entailing expulsion.”
+“Come, honoured sir, rub inside but discharge outside … rub outside but discharge inside. Thus there will be no offence for you.” The bhikkhu acted accordingly. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*MS.167* At one time a certain monk went to a charnel ground and saw a mostly undecomposed body … “… entailing expulsion.”
+*Bu-Pj.1.10.13* *MS.166* Now at one time a certain bhikkhu went to a charnel ground and saw an undecomposed body. He had sexual *BD.1.57* intercourse with it. *Vin.3.37* He became anxious … “… entailing expulsion.”
 
 * * *
 
-*MS.168* At one time a certain monk went to a charnel ground and saw a mostly decomposed body … “… Monk, there is no offence entailing expulsion; there is a serious offence.”
+*MS.167* At one time a certain bhikkhu went to a charnel ground and saw a mostly undecomposed body … “… entailing expulsion.”
 
 * * *
 
-*MS.169* At one time a certain monk went to a charnel ground and saw a decapitated head. He inserted his penis into the wide open mouth, touching it with the penis. He became anxious … “… You, monk, have fallen into an offence entailing expulsion.”
+*MS.168* At one time a certain bhikkhu went to a charnel ground and saw a mostly decomposed body … “… bhikkhu, there is no offence entailing expulsion; there is a serious offence.”
 
 * * *
 
-*MS.170* At one time a certain monk went to a charnel ground and saw a decapitated head. He inserted his penis into the wide open mouth, without touching it with the penis. He became anxious … “Monk, there is no offence entailing expulsion; there is an offence of bad conduct.”
+*MS.169* At one time a certain bhikkhu went to a charnel ground and saw a decapitated head. He inserted his penis into the wide open mouth, touching it with the penis. He became anxious … “… You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*MS.171* At one time a certain monk was in love with a certain woman. She died and her bones were thrown away and scattered in the charnel-ground. Then the monk went to the charnel ground, collected the bones and brought his penis into the (area of the) genitals. He became anxious … “… Monk, there is no offence entailing expulsion; there is an offence of bad conduct.”
+*MS.170* At one time a certain bhikkhu went to a charnel ground and saw a decapitated head. He inserted his penis into the wide open mouth, without touching it with the penis. He became anxious … “bhikkhu, there is no offence entailing expulsion; there is an offence of bad conduct.”
 
 * * *
 
-*Bu-Pj.1.10.14* *MS.172* At one time a certain monk had sexual intercourse with a female dragon[^200] … with a female spirit[^201] … with a female ghost[^202] … with *BD.1.58* a _paṇḍaka_. He became anxious … “… entailing expulsion.”
+*MS.171* At one time a certain bhikkhu was in love with a certain woman. She died and her bones were thrown away and scattered in the charnel-ground. Then the bhikkhu went to the charnel ground, collected the bones and brought his penis into the (area of the) genitals. He became anxious … “… bhikkhu, there is no offence entailing expulsion; there is an offence of bad conduct.”
 
 * * *
 
-*Bu-Pj.1.10.15* *MS.173* At one time a certain monkʼs faculties were impaired.[^203] Thinking he would avoid an offence because he felt neither pleasure nor pain, he had sexual intercourse. They informed the Master. “Monks, whether that foolish man felt anything or did not feel anything,[^204] there is an offence entailing expulsion.”
+*Bu-Pj.1.10.14* *MS.172* At one time a certain bhikkhu had sexual intercourse with a female dragon[^200] … with a female spirit[^201] … with a female ghost[^202] … with *BD.1.58* a _paṇḍaka_. He became anxious … “… entailing expulsion.”
 
 * * *
 
-*Bu-Pj.1.10.16* *MS.174* At one time a certain monk, intending to have sexual intercourse with a woman, felt remorse at the mere touch … “Monk, there is no offence entailing expulsion, but there is an offence entailing suspension.”
+*Bu-Pj.1.10.15* *MS.173* At one time a certain bhikkhuʼs faculties were impaired.[^203] Thinking he would avoid an offence because he felt neither pleasure nor pain, he had sexual intercourse. They informed the Master. “bhikkhus, whether that foolish man felt anything or did not feel anything,[^204] there is an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.1.10.17* *MS.175* At one time a certain monk was lying down in the Jātiyā Grove at Bhaddiya,[^205] having gone there to spend the day. And he had an erection because of wind. A certain woman saw him and sat down on his penis; and having taken her pleasure, she departed. The monks, seeing the moisture,[^206] informed the Master. *Vin.3.38* “Monks, an erection occurs for five reasons: because of lust, because of excrement, because of urine, because of wind, because of being bitten by caterpillars. It is impossible, monks, it cannot be, that that monk had an erection because of lust. That monk is an _arahant_. There is no offence for that monk.”
+*Bu-Pj.1.10.16* *MS.174* At one time a certain bhikkhu, intending to have sexual intercourse with a woman, felt remorse at the mere touch … “bhikkhu, there is no offence entailing expulsion, but there is an offence entailing suspension.”
 
 * * *
 
-*Bu-Pj.1.10.18* *MS.176* At one time a certain monk was lying down in the Dark Wood at Sāvatthī, having gone there to spend the day. A certain woman cowherd saw him and sat down on his penis. The monk consented to the entry, to having entered, to remaining and to the taking out. He became anxious … “You, monk, have fallen into an offence entailing expulsion.”
+*Bu-Pj.1.10.17* *MS.175* At one time a certain bhikkhu was lying down in the Jātiyā Grove at Bhaddiya,[^205] having gone there to spend the day. And he had an erection because of wind. A certain woman saw him and sat down on his penis; and having taken her pleasure, she departed. The bhikkhus, seeing the moisture,[^206] informed the Master. *Vin.3.38* “bhikkhus, an erection occurs for five reasons: because of lust, because of excrement, because of urine, because of wind, because of being bitten by caterpillars. It is impossible, bhikkhus, it cannot be, that that bhikkhu had an erection because of lust. That bhikkhu is an _arahant_. There is no offence for that bhikkhu.”
 
 * * *
 
-*MS.177* At one time a certain monk was lying down in the Dark Wood at Sāvatthī … A certain woman goatherd saw him … A certain woman gathering fire-wood saw him … A certain *BD.1.59* woman gathering cow-dung saw him and down on his penis … “… entailing expulsion.”
+*Bu-Pj.1.10.18* *MS.176* At one time a certain bhikkhu was lying down in the Dark Wood at Sāvatthī, having gone there to spend the day. A certain woman cowherd saw him and sat down on his penis. The bhikkhu consented to the entry, to having entered, to remaining and to the taking out. He became anxious … “You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.1.10.19* *MS.178* Now at one time a certain monk was lying down in the Great Wood at Vesālī, having gone there to spend the day. A certain woman saw him and sat down on his penis; and having taken her pleasure, she stood laughing nearby. The monk woke up and said: “Have you done this?”
+*MS.177* At one time a certain bhikkhu was lying down in the Dark Wood at Sāvatthī … A certain woman goatherd saw him … A certain woman gathering fire-wood saw him … A certain *BD.1.59* woman gathering cow-dung saw him and down on his penis … “… entailing expulsion.”
+
+* * *
+
+*Bu-Pj.1.10.19* *MS.178* Now at one time a certain bhikkhu was lying down in the Great Wood at Vesālī, having gone there to spend the day. A certain woman saw him and sat down on his penis; and having taken her pleasure, she stood laughing nearby. The bhikkhu woke up and said: “Have you done this?”
 
 “Yes, I did it.” He became anxious …
 
-“Monk, did you consent?”
+“bhikkhu, did you consent?”
 
 “I didnʼt even know, Master.”
 
-“Monk, there is no offence for one who doesnʼt know.”
+“bhikkhu, there is no offence for one who doesnʼt know.”
 
 * * *
 
-*Bu-Pj.1.10.20* *MS.179* At one time a certain monk, having gone to the Great Wood at Vesālī to spend the day, was lying down and resting his head against a tree. A certain woman saw him and sat down on his penis. The monk got up hastily. He became anxious …
+*Bu-Pj.1.10.20* *MS.179* At one time a certain bhikkhu, having gone to the Great Wood at Vesālī to spend the day, was lying down and resting his head against a tree. A certain woman saw him and sat down on his penis. The bhikkhu got up hastily. He became anxious …
 
-“Monk, did you consent?”
+“bhikkhu, did you consent?”
 
 “I did not consent, Master.”
 
@@ -677,9 +677,9 @@ one who had gone forth when old, a deer.
 
 * * *
 
-*MS.180* At one time a certain monk, having gone to the Great Wood at Vesālī to spend the day, was lying down and resting his head against a tree. A certain woman saw him and sat down on his penis. The monk kicked her off.[^207] He became anxious …
+*MS.180* At one time a certain bhikkhu, having gone to the Great Wood at Vesālī to spend the day, was lying down and resting his head against a tree. A certain woman saw him and sat down on his penis. The bhikkhu kicked her off.[^207] He became anxious …
 
-“Monk, did you consent?”
+“bhikkhu, did you consent?”
 
 “I did not consent, Master.”
 
@@ -687,49 +687,49 @@ one who had gone forth when old, a deer.
 
 * * *
 
-*Bu-Pj.1.10.21* *BD.1.60* *MS.181* At one time a certain monk had gone to spend the day in the hall with the peaked roof in the Great Wood at Vesālī. He opened the door and lay down. And he had an erection because of wind. Now at that time a number of women, bringing scents *Vin.3.39* and garlands, came to the monastery to look at the monastic dwellings. Then those women saw that monk and they sat down on his penis. Having taken their pleasure, they said, “what a bull of a man,”[^208] and they placed their scents and garlands and departed. The monks, seeing the moisture, informed the Master. “Monks, an erection occurs for five reasons: … as in *Bu-Pj.1.10.17* … There is no offence for that monk. I advise you, monks, when you are in seclusion during the day, to close the door.”
+*Bu-Pj.1.10.21* *BD.1.60* *MS.181* At one time a certain bhikkhu had gone to spend the day in the hall with the peaked roof in the Great Wood at Vesālī. He opened the door and lay down. And he had an erection because of wind. Now at that time a number of women, bringing scents *Vin.3.39* and garlands, came to the monastery to look at the monastic dwellings. Then those women saw that bhikkhu and they sat down on his penis. Having taken their pleasure, they said, “what a bull of a man,”[^208] and they placed their scents and garlands and departed. The bhikkhus, seeing the moisture, informed the Master. “bhikkhus, an erection occurs for five reasons: … as in *Bu-Pj.1.10.17* … There is no offence for that bhikkhu. I advise you, bhikkhus, when you are in seclusion during the day, to close the door.”
 
 * * *
 
-*Bu-Pj.1.10.22* *MS.182* At one time a certain monk of Bharukaccha[^209] dreamt that he had sexual intercourse with his former wife. He thought he was no longer a monk and that he would have to disrobe.[^210] While on his way to Bharukaccha, he saw the Venerable Upāli[^211] and informed him *BD.1.61* of what had happened. Venerable Upāli said: “There is no offence, friend, since it was in a dream.”
+*Bu-Pj.1.10.22* *MS.182* At one time a certain bhikkhu of Bharukaccha[^209] dreamt that he had sexual intercourse with his former wife. He thought he was no longer a bhikkhu and that he would have to disrobe.[^210] While on his way to Bharukaccha, he saw the Venerable Upāli[^211] and informed him *BD.1.61* of what had happened. Venerable Upāli said: “There is no offence, friend, since it was in a dream.”
 
 * * *
 
-*Bu-Pj.1.10.23* *MS.183* At one time in Rājagaha there was a female lay-follower called Supabbā[^212] who had mistaken*†* faith. She held the view that any woman who gives sexual intercourse gives the highest gift. Seeing a monk, she said: “Come, bhante, have sexual intercourse.”
+*Bu-Pj.1.10.23* *MS.183* At one time in Rājagaha there was a female lay-follower called Supabbā[^212] who had mistaken*†* faith. She held the view that any woman who gives sexual intercourse gives the highest gift. Seeing a bhikkhu, she said: “Come, bhante, have sexual intercourse.”
 
 “Enough, sister, it is not allowable.”
 
-“Come, bhante, rub between the thighs, thus there will be no offence for you … Come, bhante, rub against the navel … the stomach … the waist … the throat … the ear … the coil of hair … the spaces between the fingers … Come, bhante, having made an effort with my hand, I will make you discharge, thus there will be no offence for you.” The monk acted accordingly. He became anxious. “Monk, there is no offence entailing expulsion, but there is an offence entailing suspension.”
+“Come, bhante, rub between the thighs, thus there will be no offence for you … Come, bhante, rub against the navel … the stomach … the waist … the throat … the ear … the coil of hair … the spaces between the fingers … Come, bhante, having made an effort with my hand, I will make you discharge, thus there will be no offence for you.” The bhikkhu acted accordingly. He became anxious. “bhikkhu, there is no offence entailing expulsion, but there is an offence entailing suspension.”
 
 * * *
 
-*Bu-Pj.1.10.24* *MS.184* At one time in Sāvatthī there was a female lay-disciple called Saddhā who had mistaken faith. She held the view that any woman who gives sexual intercourse gives the highest gift. Seeing a monk, she said: “Come, bhante, have sexual intercourse.”
+*Bu-Pj.1.10.24* *MS.184* At one time in Sāvatthī there was a female lay-disciple called Saddhā who had mistaken faith. She held the view that any woman who gives sexual intercourse gives the highest gift. Seeing a bhikkhu, she said: “Come, bhante, have sexual intercourse.”
 
 “Enough, sister, it is not allowable.”
 
-“Come, bhante, rub between the thighs … Come, bhante, having made an effort with my hand, I will make you discharge, thus there will be no offence for you.” The monk acted accordingly. He became anxious … “Monk, there is no offence entailing expulsion, but there is an offence entailing suspension.”
+“Come, bhante, rub between the thighs … Come, bhante, having made an effort with my hand, I will make you discharge, thus there will be no offence for you.” The bhikkhu acted accordingly. He became anxious … “bhikkhu, there is no offence entailing expulsion, but there is an offence entailing suspension.”
 
 * * *
 
-*Bu-Pj.1.10.25* *MS.185* At one time in Vesālī some Licchavi youths took hold of a monk and made him commit misconduct with a *BD.1.62* nun. *Vin.3.40* Both agreed: both should be expelled.[^214] Neither agreed: no offence for either.
+*Bu-Pj.1.10.25* *MS.185* At one time in Vesālī some Licchavi youths took hold of a bhikkhu and made him commit misconduct with a *BD.1.62* nun. *Vin.3.40* Both agreed: both should be expelled.[^214] Neither agreed: no offence for either.
 
 * * *
 
-At one time in Vesālī some Licchavi youths took hold of a monk and made him commit misconduct with a probationary nun … with a novice nun. Both agreed: both should be expelled. Neither agreed: no offence for either.
+At one time in Vesālī some Licchavi youths took hold of a bhikkhu and made him commit misconduct with a probationary nun … with a novice nun. Both agreed: both should be expelled. Neither agreed: no offence for either.
 
 * * *
 
-*MS.186* At one time in Vesālī some Licchavi youths took hold of a monk and made him commit misconduct with a prostitute[^215] … with a _paṇḍaka_ … with a woman householder. The monk agreed: he should be expelled. The monk did not agree: there is no offence for him.
+*MS.186* At one time in Vesālī some Licchavi youths took hold of a bhikkhu and made him commit misconduct with a prostitute[^215] … with a _paṇḍaka_ … with a woman householder. The bhikkhu agreed: he should be expelled. The bhikkhu did not agree: there is no offence for him.
 
 * * *
 
-*MS.187* At one time in Vesālī some Licchavi youths took hold of some monks and made them commit misconduct with one another. Both agreed: both should be expelled. Neither agreed: no offence for either.
+*MS.187* At one time in Vesālī some Licchavi youths took hold of some bhikkhus and made them commit misconduct with one another. Both agreed: both should be expelled. Neither agreed: no offence for either.
 
 * * *
 
-*Bu-Pj.1.10.26* *MS.188* At one time a certain monk who had gone forth in his old age went to see his former wife. She said, “Come, bhante, leave the Sangha,”[^216] and she took hold of him. The monk, stepping backwards, fell down on his back.[^217] She, having pulled up his robe,[^218] sat down on his penis. He became anxious … They informed the Master. He said:
+*Bu-Pj.1.10.26* *MS.188* At one time a certain bhikkhu who had gone forth in his old age went to see his former wife. She said, “Come, bhante, leave the Sangha,”[^216] and she took hold of him. The bhikkhu, stepping backwards, fell down on his back.[^217] She, having pulled up his robe,[^218] sat down on his penis. He became anxious … They informed the Master. He said:
 
-“Monk, did you consent?”
+“bhikkhu, did you consent?”
 
 “I did not consent, Master.”
 
@@ -737,7 +737,7 @@ At one time in Vesālī some Licchavi youths took hold of a monk and made him co
 
 * * *
 
-*Bu-Pj.1.10.27* *MS.189* At one time a certain monk dwelt in the jungle. A young deer went to his place of urination, drank the urine and took his penis in its mouth. The monk consented. *BD.1.63* He became anxious … He informed the Master. He said: “You, monk, have fallen into an offence entailing expulsion.”
+*Bu-Pj.1.10.27* *MS.189* At one time a certain bhikkhu dwelt in the jungle. A young deer went to his place of urination, drank the urine and took his penis in its mouth. The bhikkhu consented. *BD.1.63* He became anxious … He informed the Master. He said: “You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
@@ -759,7 +759,7 @@ At one time in Vesālī some Licchavi youths took hold of a monk and made him co
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

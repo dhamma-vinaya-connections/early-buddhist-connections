@@ -44,7 +44,7 @@ parallels_partilal: "[[SA-2.316]], [[SA1317]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> The deity Kassapa speaks of how a mendicant should be a meditator, peaceful and free
+> The deity Kassapa speaks of how a bhikkhu should be a meditator, peaceful and free
 
 > [!info] Key Excerpts 
 > In sitting alone in hidden places,

@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC7]]
 > ◄  [[bu-pc6-horner]] 📜  [[bu-pc8-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 7
+# bhikkhus’ Expiation (_Pācittiya_) 7
 
 *Bu-Pc.7.1.1* *BD.2.203* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Udāyin frequented families, and he approached many families. Then the venerable Udāyin, dressing in the morning, taking his bowl and robe, went up to a certain family. Now at that time the house-wife[^1] was sitting at the entrance-door,[^2] and the daughter-in-law of the house[^3] was sitting at the door of the living-room.[^4] Then the venerable Udāyin went up to the house-wife, and having gone up he gave _dhamma_ privately[^5] to the house-wife. Then the daughter-in-law of the house thought thus:
 
@@ -29,11 +29,11 @@ Then the venerable Udāyin, having given _dhamma_ privately to the daughter-in-l
 
 “How can master Udāyin teach _dhamma_ privately? Should not _dhamma_ be given clearly[^8] and openly?”
 
-Monks heard these women who looked down upon, criticised, spread it about. Those who were modest monks looked down upon, criticised, spread it about, saying:
+bhikkhus heard these women who looked down upon, criticised, spread it about. Those who were modest bhikkhus looked down upon, criticised, spread it about, saying:
 
 “How can the venerable Udāyin teach _dhamma_ to women?”[^9]
 
-Then these monks told this matter to the lord …
+Then these bhikkhus told this matter to the lord …
 
 “Is it true, as is said, that you, Udāyin, taught _dhamma_ to women?”
 
@@ -41,15 +41,15 @@ Then these monks told this matter to the lord …
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, teach _dhamma_ to women? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, teach _dhamma_ to women? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should teach _dhamma_ to women, there is an offence of expiation.”
+“Whatever bhikkhu should teach _dhamma_ to women, there is an offence of expiation.”
 
-And thus this rule of training for monks came to be laid down by the lord.
+And thus this rule of training for bhikkhus came to be laid down by the lord.
 
 * * *
 
-*Bu-Pc.7.2.1* Now -at that time female lay-followers, seeing monks, spoke thus:
+*Bu-Pc.7.2.1* Now -at that time female lay-followers, seeing bhikkhus, spoke thus:
 
 “Please, masters, teach _dhamma_.”
 
@@ -61,35 +61,35 @@ And thus this rule of training for monks came to be laid down by the lord.
 
 “How can these masters, being asked by us, not teach _dhamma_?”
 
-Monks heard these female lay-followers who looked down upon, criticised, spread it about. Then these monks told this matter to the lord. Then the lord, on this occasion, in this connection, having given reasoned talk, addressed the monks, saying:
+bhikkhus heard these female lay-followers who looked down upon, criticised, spread it about. Then these bhikkhus told this matter to the lord. Then the lord, on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying:
 
-“Monks, I allow you to teach _dhamma_ to women in five or six sentences. And thus, monks, this rule of training should be set forth:
+“bhikkhus, I allow you to teach _dhamma_ to women in five or six sentences. And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should teach _dhamma_ to women in more than five or six sentences, there is an offence of expiation.” *Vin.4.22*
+“Whatever bhikkhu should teach _dhamma_ to women in more than five or six sentences, there is an offence of expiation.” *Vin.4.22*
 
-And thus this rule of training for monks came to be laid down by the lord.
+And thus this rule of training for bhikkhus came to be laid down by the lord.
 
 * * *
 
-*Bu-Pc.7.3.1* Now at that time the group of six monks thought: “It is allowed by the lord to teach _dhamma_ to women in five or six sentences”; and these, making an unlearned man[^11] sit down near by, taught _dhamma_ to women in more than five or six sentences. Those who were modest monks looked down upon, criticised, spread it about, saying:
+*Bu-Pc.7.3.1* Now at that time the group of six bhikkhus thought: “It is allowed by the lord to teach _dhamma_ to women in five or six sentences”; and these, making an unlearned man[^11] sit down near by, taught _dhamma_ to women in more than five or six sentences. Those who were modest bhikkhus looked down upon, criticised, spread it about, saying:
 
-“How can the group of six monks, making an unlearned man sit down near by, teach _dhamma_ to women in more than five or six sentences?”
+“How can the group of six bhikkhus, making an unlearned man sit down near by, teach _dhamma_ to women in more than five or six sentences?”
 
-Then these monks told this matter to the lord …
+Then these bhikkhus told this matter to the lord …
 
-“Is it true, as is said, that you, monks … to women?”
+“Is it true, as is said, that you, bhikkhus … to women?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men … to women? It is not, foolish men, for pleasing those who are not (yet) *BD.2.206* pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men … to women? It is not, foolish men, for pleasing those who are not (yet) *BD.2.206* pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should teach _dhamma_ to women in more than five or six sentences, except a learned man[^12] (be present), there is offence of expiation.”
+“Whatever bhikkhu should teach _dhamma_ to women in more than five or six sentences, except a learned man[^12] (be present), there is offence of expiation.”
 
 * * *
 
-*Bu-Pc.7.4.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.7.4.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Woman means: a human woman, not a female _yakkha_, not a female departed one, not a female animal, one who is learned, competent to know good speech and bad speech, what is lewd and what is not lewd.[^13]
 
@@ -117,7 +117,7 @@ The Seventh
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

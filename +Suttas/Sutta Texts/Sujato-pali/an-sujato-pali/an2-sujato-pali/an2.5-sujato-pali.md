@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I have learned these two things for myself— to never be content with skillful qualities, and to never stop trying.
+1“bhikkhus, I have learned these two things for myself— to never be content with skillful qualities, and to never stop trying.
 
 I never stopped trying, thinking: ‘Gladly, let only skin, sinews, and bones remain! Let the flesh and blood waste away in my body! I will not stop trying until I have achieved what is possible by manly strength, energy, and vigor.’
 

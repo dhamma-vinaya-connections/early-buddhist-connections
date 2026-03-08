@@ -21,15 +21,15 @@ language: "English - Pali"
 1So I have heard. At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof.
 
 
-Now at that time several mendicants had declared their enlightenment in the Buddha’s presence:
+Now at that time several bhikkhus had declared their enlightenment in the Buddha’s presence:
 
 “We understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’”
 
-2Sunakkhatta the Licchavi heard about this. He went to the Buddha, bowed, sat down to one side, and said to him: “Sir, I have heard that several mendicants have declared their enlightenment in the Buddha’s presence. I trust they did so rightly — or are there some who declared enlightenment out of overestimation?”
+2Sunakkhatta the Licchavi heard about this. He went to the Buddha, bowed, sat down to one side, and said to him: “Sir, I have heard that several bhikkhus have declared their enlightenment in the Buddha’s presence. I trust they did so rightly — or are there some who declared enlightenment out of overestimation?”
 
-3“Some of them did so rightly, Sunakkhatta, while others did so out of overestimation. Now, when mendicants declare enlightenment rightly, that’s how it is for them. But when mendicants declare enlightenment out of overestimation, the Realized One thinks: ‘I should teach them the Dhamma.’ If the Realized One thinks he should teach them the Dhamma, but then certain foolish men, having carefully planned a question, approach the Realized One and ask it, then the Realized One changes his mind.”
+3“Some of them did so rightly, Sunakkhatta, while others did so out of overestimation. Now, when bhikkhus declare enlightenment rightly, that’s how it is for them. But when bhikkhus declare enlightenment out of overestimation, the Realized One thinks: ‘I should teach them the Dhamma.’ If the Realized One thinks he should teach them the Dhamma, but then certain foolish men, having carefully planned a question, approach the Realized One and ask it, then the Realized One changes his mind.”
 
-“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha teach the Dhamma. The mendicants will listen and remember it.”
+“Now is the time, Blessed One! Now is the time, Holy One! Let the Buddha teach the Dhamma. The bhikkhus will listen and remember it.”
 
 “Well then, Sunakkhatta, listen and pay close attention, I will speak.”
 
@@ -72,43 +72,43 @@ Suppose someone had eaten some delectable food and thrown it up. What do you thi
 Suppose there was a palm tree with its crown cut off. It’s incapable of further growth. In the same way, an individual rightly intent on extinguishment has cut off the connection with the dimension of neither perception nor non-perception at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. You should know of them: ‘That individual is rightly intent on extinguishment, for they’re detached from things connected with the dimension of neither perception nor non-perception.’
 
 
-10It’s possible that a certain mendicant might think: ‘The Ascetic has said that craving is a dart; and that the poison of ignorance is inflicted by desire and ill will. I have given up the dart of craving and expelled the poison of ignorance; I am rightly intent on extinguishment.’ Having such conceit, though it’s not based in fact, they would engage in things unconducive to extinguishment: unsuitable sights, sounds, smells, tastes, touches, and thoughts. Doing so, lust infects their mind, resulting in death or deadly pain.
+10It’s possible that a certain bhikkhu might think: ‘The Ascetic has said that craving is a dart; and that the poison of ignorance is inflicted by desire and ill will. I have given up the dart of craving and expelled the poison of ignorance; I am rightly intent on extinguishment.’ Having such conceit, though it’s not based in fact, they would engage in things unconducive to extinguishment: unsuitable sights, sounds, smells, tastes, touches, and thoughts. Doing so, lust infects their mind, resulting in death or deadly pain.
 
 11Suppose a man was struck by an arrow thickly smeared with poison. Their friends and colleagues, relatives and kin would get a field surgeon to treat them. The surgeon would cut open the wound with a scalpel, probe for the arrow, extract it, and expel the poison, leaving some residue behind. Thinking that no residue remained, the surgeon would say: ‘My good man, the dart has been extracted and the poison expelled without residue. It’s not capable of harming you. Eat only suitable food. Don’t eat unsuitable food, or else the wound may get infected. Regularly wash the wound and anoint the opening, or else it’ll get covered with pus and blood. Don’t walk too much in the wind and sun, or else dust and dirt will infect the wound. Take care of the wound, my good sir, heal it.’
 
 They’d think: ‘The dart has been extracted and the poison expelled without residue. It’s not capable of harming me.’ They’d eat unsuitable food, and the wound would get infected. And they wouldn’t regularly wash and anoint the opening, so it would get covered in pus and blood. And they’d walk too much in the wind and sun, so dust and dirt infected the wound. And they wouldn’t take care of the wound or heal it. Then both because they did what was unsuitable, and because of the residue of unclean poison, the wound would spread, resulting in death or deadly pain.
 
-12In the same way, it’s possible that a certain mendicant might think: ‘The Ascetic has said that craving is a dart; and that the poison of ignorance is inflicted by desire and ill will. I have given up the dart of craving and expelled the poison of ignorance; I am rightly intent on extinguishment.’ Having such conceit, though it’s not based in fact, they would engage in things unconducive to extinguishment: unsuitable sights, sounds, smells, tastes, touches, and thoughts. Doing so, lust infects their mind, resulting in death or deadly pain.
+12In the same way, it’s possible that a certain bhikkhu might think: ‘The Ascetic has said that craving is a dart; and that the poison of ignorance is inflicted by desire and ill will. I have given up the dart of craving and expelled the poison of ignorance; I am rightly intent on extinguishment.’ Having such conceit, though it’s not based in fact, they would engage in things unconducive to extinguishment: unsuitable sights, sounds, smells, tastes, touches, and thoughts. Doing so, lust infects their mind, resulting in death or deadly pain.
 
 
 For it is death in the training of the noble one to reject the training and return to a lesser life. And it is deadly pain to commit one of the corrupt offenses.
 
-13It’s possible that a certain mendicant might think: ‘The Ascetic has said that craving is a dart; and that the poison of ignorance is inflicted by desire and ill will. I have given up the dart of craving and expelled the poison of ignorance; I am rightly intent on extinguishment.’ Being rightly intent on extinguishment, they wouldn’t engage in things unconducive to extinguishment: unsuitable sights, sounds, smells, tastes, touches, and thoughts. Doing so, lust wouldn’t infect their mind, so no death or deadly pain would result.
+13It’s possible that a certain bhikkhu might think: ‘The Ascetic has said that craving is a dart; and that the poison of ignorance is inflicted by desire and ill will. I have given up the dart of craving and expelled the poison of ignorance; I am rightly intent on extinguishment.’ Being rightly intent on extinguishment, they wouldn’t engage in things unconducive to extinguishment: unsuitable sights, sounds, smells, tastes, touches, and thoughts. Doing so, lust wouldn’t infect their mind, so no death or deadly pain would result.
 
 14Suppose a man was struck by an arrow thickly smeared with poison. Their friends and colleagues, relatives and kin would get a field surgeon to treat them. The surgeon would cut open the wound with a scalpel, probe for the arrow, extract it, and expel the poison, leaving no residue behind. Knowing that no residue remained, the surgeon would say: ‘My good man, the dart has been extracted and the poison expelled without residue. It’s not capable of harming you. Eat only suitable food. Don’t eat unsuitable food, or else the wound may get infected. Regularly wash the wound and anoint the opening, or else it’ll get covered with pus and blood. Don’t walk too much in the wind and sun, or else dust and dirt will infect the wound. Take care of the wound, my good sir, heal it.’
 
 They’d think: ‘The dart has been extracted and the poison expelled without residue. It’s not capable of harming me.’ They’d eat suitable food, and the wound wouldn’t get infected. And they’d regularly wash and anoint the opening, so it wouldn’t get covered in pus and blood. And they wouldn’t walk too much in the wind and sun, so dust and dirt wouldn’t infect the wound. And they’d take care of the wound and heal it. Then both because they did what was suitable, and the unclean poison had left no residue, the wound would heal, and no death or deadly pain would result.
 
-15In the same way, it’s possible that a certain mendicant might think: ‘The Ascetic has said that craving is a dart; and that the poison of ignorance is inflicted by desire and ill will. I have given up the dart of craving and expelled the poison of ignorance; I am rightly intent on extinguishment.’ Being rightly intent on extinguishment, they wouldn’t engage in things unconducive to extinguishment: unsuitable sights, sounds, smells, tastes, touches, and thoughts. Doing so, lust wouldn’t infect their mind, so no death or deadly pain would result.
+15In the same way, it’s possible that a certain bhikkhu might think: ‘The Ascetic has said that craving is a dart; and that the poison of ignorance is inflicted by desire and ill will. I have given up the dart of craving and expelled the poison of ignorance; I am rightly intent on extinguishment.’ Being rightly intent on extinguishment, they wouldn’t engage in things unconducive to extinguishment: unsuitable sights, sounds, smells, tastes, touches, and thoughts. Doing so, lust wouldn’t infect their mind, so no death or deadly pain would result.
 
 
 16I’ve made up this simile to make a point. And this is the point: ‘Wound’ is a term for the six interior sense fields. ‘Poison’ is a term for ignorance. ‘Dart’ is a term for craving. ‘Probing’ is a term for mindfulness. ‘Scalpel’ is a term for noble wisdom. ‘Field surgeon’ is a term for the Realized One, the perfected one, the fully awakened Buddha.
 
 
-17Truly, Sunakkhatta, that mendicant practices restraint regarding the six fields of contact. Understanding that attachment is the root of suffering, they are freed with the ending of attachments. It’s not possible that they would apply their body or interest their mind in any attachment.
+17Truly, Sunakkhatta, that bhikkhu practices restraint regarding the six fields of contact. Understanding that attachment is the root of suffering, they are freed with the ending of attachments. It’s not possible that they would apply their body or interest their mind in any attachment.
 
 Suppose there was a bronze cup of beverage that had a nice color, aroma, and flavor. But it was mixed with poison. Then a person would come along who wants to live and doesn’t want to die, who wants to be happy and recoils from pain. What do you think, Sunakkhatta? Would that person drink that beverage knowing that it would result in death or deadly suffering?”
 
 “No, sir.”
 
-“In the same way, Sunakkhatta, that mendicant practices restraint regarding the six fields of contact. Understanding that attachment is the root of suffering, they are freed with the ending of attachments. It’s not possible that they would apply their body or interest their mind in any attachment.
+“In the same way, Sunakkhatta, that bhikkhu practices restraint regarding the six fields of contact. Understanding that attachment is the root of suffering, they are freed with the ending of attachments. It’s not possible that they would apply their body or interest their mind in any attachment.
 
 18Suppose there was a lethal viper. Then a person would come along who wants to live and doesn’t want to die, who wants to be happy and recoils from pain. What do you think, Sunakkhatta? Would that person give that lethal viper their hand or finger knowing that it would result in death or deadly suffering?”
 
 
 “No, sir.”
 
-“In the same way, Sunakkhatta, that mendicant practices restraint regarding the six fields of contact. Understanding that attachment is the root of suffering, they are freed with the ending of attachments. It’s not possible that they would apply their body or interest their mind in any attachment.”
+“In the same way, Sunakkhatta, that bhikkhu practices restraint regarding the six fields of contact. Understanding that attachment is the root of suffering, they are freed with the ending of attachments. It’s not possible that they would apply their body or interest their mind in any attachment.”
 
 19That is what the Buddha said. Satisfied, Sunakkhatta of the Licchavi clan was happy with what the Buddha said.
 

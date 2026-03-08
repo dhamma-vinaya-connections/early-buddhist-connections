@@ -35,7 +35,7 @@ and thus be purified in it.
 
 4Sāriputta has true wisdom,  
 ethics, and also peace.  
-Any mendicant who has crossed over  
+Any bhikkhu who has crossed over  
 can at best equal him.”
 
 1"Idañhi taṁ jetavanaṁ,  

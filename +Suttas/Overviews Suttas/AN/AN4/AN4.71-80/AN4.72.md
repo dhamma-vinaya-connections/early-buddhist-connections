@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> When a mendicant has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements
+> When a bhikkhu has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements
 
 > [!info] Key Excerpts 
 > Unfailing practices: morality, learning, energy, and wisdom.

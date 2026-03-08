@@ -44,7 +44,7 @@ language: "English"
 
 “These are the three perils that separate mother and son. \[180\]
 
-“There is a path, bhikkhus, there is a way that leads to the abandoning and overcoming of these three perils when mother and son reconnect and of these three perils that separate mother and son. And what is the path and way? It is just this noble eightfold path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi. This is the path and way that leads to the abandoning and overcoming of these three perils when mother and son reconnect and of these three perils that separate mother and son.”
+“There is a path, bhikkhus, there is a way that leads to the abandoning and overcoming of these three perils when mother and son reconnect and of these three perils that separate mother and son. And what is the path and way? It is just this ![[Noble Path]]. This is the path and way that leads to the abandoning and overcoming of these three perils when mother and son reconnect and of these three perils that separate mother and son.”
 
 
 ---

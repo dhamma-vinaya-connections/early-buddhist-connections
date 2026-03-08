@@ -20,19 +20,19 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying in the land of the Vajjis at the village of Hatthi. There the Buddha addressed the mendicants: “Mendicants, you should remember the householder Ugga of Hatthi as someone who has eight amazing and incredible qualities.”
+1At one time the Buddha was staying in the land of the Vajjis at the village of Hatthi. There the Buddha addressed the bhikkhus: “bhikkhus, you should remember the householder Ugga of Hatthi as someone who has eight amazing and incredible qualities.”
 
 That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.
 
 
-2Then a certain mendicant robed up in the morning and, taking his bowl and robe, went to the home of the householder Ugga of Hatthi, where he sat on the seat spread out. Then Ugga of Hatthi went up to that mendicant, bowed, and sat down to one side. The mendicant said to him:
+2Then a certain bhikkhu robed up in the morning and, taking his bowl and robe, went to the home of the householder Ugga of Hatthi, where he sat on the seat spread out. Then Ugga of Hatthi went up to that bhikkhu, bowed, and sat down to one side. The bhikkhu said to him:
 
 “Householder, the Buddha declared that you have eight amazing and incredible qualities. What are the eight qualities that he spoke of?”
 
 
 3“Sir, I don’t know what eight amazing and incredible qualities the Buddha was referring to. But these eight amazing and incredible qualities are found in me. Listen and pay close attention, I will speak.”
 
-“Yes, householder,” replied the mendicant. Ugga of Hatthi said this:
+“Yes, householder,” replied the bhikkhu. Ugga of Hatthi said this:
 
 “Sir, when I first saw the Buddha off in the distance I was partying in the Dragon’s Park. My heart was inspired as soon as I saw him, and I sobered up. This is the first incredible and amazing quality found in me.
 
@@ -42,9 +42,9 @@ That is what the Buddha said. When he had spoken, the Holy One got up from his s
 
 6And though my family has wealth, it’s shared without reserve with ethical people of good character. This is the fourth incredible and amazing quality found in me.
 
-7When I pay homage to a mendicant, I do so carefully, not carelessly. If that venerable teaches me the Dhamma, I listen carefully, not carelessly. But if they don’t teach me the Dhamma, I teach them. This is the fifth incredible and amazing quality found in me.
+7When I pay homage to a bhikkhu, I do so carefully, not carelessly. If that venerable teaches me the Dhamma, I listen carefully, not carelessly. But if they don’t teach me the Dhamma, I teach them. This is the fifth incredible and amazing quality found in me.
 
-8It’s not unusual for deities to come to me when the Saṅgha has been invited and announce: ‘Householder, that mendicant is freed both ways. That one is freed by wisdom. That one is a personal witness. That one is attained to view. That one is freed by faith. That one is a follower of the teachings. That one is a follower by faith. That one is ethical, of good character. That one is unethical, of bad character.’ But while I’m serving the Saṅgha I don’t recall thinking: ‘Let me give this one just a little, and that one a lot.’ Rather, I give impartially. This is the sixth incredible and amazing quality found in me.
+8It’s not unusual for deities to come to me when the Saṅgha has been invited and announce: ‘Householder, that bhikkhu is freed both ways. That one is freed by wisdom. That one is a personal witness. That one is attained to view. That one is freed by faith. That one is a follower of the teachings. That one is a follower by faith. That one is ethical, of good character. That one is unethical, of bad character.’ But while I’m serving the Saṅgha I don’t recall thinking: ‘Let me give this one just a little, and that one a lot.’ Rather, I give impartially. This is the sixth incredible and amazing quality found in me.
 
 9It’s not unusual for deities to come to me and announce: ‘Householder, the Buddha’s teaching is well explained!’ When they say this I say to them: ‘The Buddha’s teaching is well explained, regardless of whether or not you deities say so!’ But I don’t recall getting too excited by the fact that the deities come to me, and I have a conversation with them. This is the seventh incredible and amazing quality found in me.
 
@@ -52,9 +52,9 @@ That is what the Buddha said. When he had spoken, the Holy One got up from his s
 
 11These eight amazing and incredible qualities are found in me. But I don’t know what eight amazing and incredible qualities the Buddha was referring to.”
 
-12Then that mendicant, after taking alms-food in Ugga of Hatthi’s home, got up from his seat and left. Then after the meal, on his return from alms-round, he went to the Buddha, bowed, and sat down to one side. He informed the Buddha of all he had discussed with the householder Ugga of the village of Hatthi. The Buddha said:
+12Then that bhikkhu, after taking alms-food in Ugga of Hatthi’s home, got up from his seat and left. Then after the meal, on his return from alms-round, he went to the Buddha, bowed, and sat down to one side. He informed the Buddha of all he had discussed with the householder Ugga of the village of Hatthi. The Buddha said:
 
-13“Good, good, mendicant! When I declared that the householder Ugga of the village of Hatthi was someone who has eight amazing and incredible qualities, I was referring to the same eight qualities that he rightly explained to you. You should remember the householder Ugga of Hatthi as someone who has these eight amazing and incredible qualities.”
+13“Good, good, bhikkhu! When I declared that the householder Ugga of the village of Hatthi was someone who has eight amazing and incredible qualities, I was referring to the same eight qualities that he rightly explained to you. You should remember the householder Ugga of Hatthi as someone who has these eight amazing and incredible qualities.”
 
 #### Pali
 

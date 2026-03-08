@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“My lifestyle was delicate, mendicants, most delicate, extremely delicate.
+1“My lifestyle was delicate, bhikkhus, most delicate, extremely delicate.
 
 In my father’s house, lotus ponds were made just for me. In some, blue water lilies blossomed, while in others, there were pink or white lotuses, just for my benefit. I only used sandalwood from Kāsī, and my turbans, jackets, sarongs, and upper robes also came from Kāsī. And a white parasol was held over me night and day, with the thought: ‘Don’t let cold, heat, grass, dust, or damp bother him.’
 
@@ -42,7 +42,7 @@ Intoxicated with the vanity of youth, an uneducated ordinary person does bad thi
 Intoxicated with the vanity of health … Intoxicated with the vanity of life, an uneducated ordinary person does bad things by way of body, speech, and mind. When their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell.
 
 
-7Intoxicated with the vanity of youth, health, or life, a mendicant rejects the training and returns to a lesser life.
+7Intoxicated with the vanity of youth, health, or life, a bhikkhu rejects the training and returns to a lesser life.
 
 
 8For others, sickness is natural,  

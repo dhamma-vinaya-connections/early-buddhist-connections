@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Mahāmoggallāna is visited by a Brahmā god who had formerly been a mendicant, and they discuss which of the gods are stream-enterers
+> Mahāmoggallāna is visited by a Brahmā god who had formerly been a bhikkhu, and they discuss which of the gods are stream-enterers
 
 > [!info] Key Excerpts 
 > Have experiential confidence in the Buddha , the teaching, and the saṅgha, and have the ethics

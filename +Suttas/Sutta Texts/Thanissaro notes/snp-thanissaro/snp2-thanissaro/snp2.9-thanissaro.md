@@ -134,7 +134,7 @@ vv. 324–330
 
 1. According to SnA, one’s superiors include those who have more wisdom than oneself, more skill in samādhi and other aspects of the path than oneself, and those senior to oneself. [↩︎](#^snp2-9-01-ref) ^snp2-9-01
 
-2. SnA says that the right time to see a teacher is when one is overcome with passion, aversion, and delusion, and cannot find a way out on one’s own. This echoes a passage in AN 6:26, in which Ven. Mahā Kaccāna says that the right time to visit a “monk worthy of esteem” is when one needs help in overcoming any of the five hindrances or when one doesn’t yet have an appropriate theme to focus on to put an end to the mind’s effluents. [↩︎](#^snp2-9-02-ref) ^snp2-9-02
+2. SnA says that the right time to see a teacher is when one is overcome with passion, aversion, and delusion, and cannot find a way out on one’s own. This echoes a passage in AN 6:26, in which Ven. Mahā Kaccāna says that the right time to visit a “bhikkhu worthy of esteem” is when one needs help in overcoming any of the five hindrances or when one doesn’t yet have an appropriate theme to focus on to put an end to the mind’s effluents. [↩︎](#^snp2-9-02-ref) ^snp2-9-02
 
 3. SnA equates “words destructive of the Dhamma” with “animal talk.” See the discussion under Pācittiya 85 in _The Buddhist Monastic Code._ [↩︎](#^snp2-9-03-ref) ^snp2-9-03
 

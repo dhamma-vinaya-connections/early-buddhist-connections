@@ -34,7 +34,7 @@ having known their good qualities,
 
 venerates the homeless renouncers,
 
-the mendicants who lead the spiritual life.
+the bhikkhus who lead the spiritual life.
 
 Beneficial to the king and the devas,
 

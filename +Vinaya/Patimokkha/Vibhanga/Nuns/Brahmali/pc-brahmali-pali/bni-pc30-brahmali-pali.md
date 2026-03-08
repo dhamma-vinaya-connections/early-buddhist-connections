@@ -20,16 +20,16 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time a lay follower had built a dwelling for the Sangha. He wanted to give out-of-season robe-cloth to both Sanghas at the presentation ceremony for that dwelling, but both Sanghas had already performed the robe-making ceremony. That lay follower then went to the Sangha and asked it to make an end of the robe season.
 
-They told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+They told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to end the robe season.
+“bhikkhus, I allow you to end the robe season.
 
-And it should be done like this. A competent and capable monk should inform the Sangha:
+And it should be done like this. A competent and capable bhikkhu should inform the Sangha:
 
 
 2‘Please, Venerables, I ask the Sangha to listen. If it seems appropriate to the Sangha, the Sangha should end the robe season. This is the motion.
 
-3Please, Venerables, I ask the Sangha to listen. The Sangha ends the robe season. Any monk who approves of ending the robe season should remain silent. Any monk who doesn’t approve should speak up.
+3Please, Venerables, I ask the Sangha to listen. The Sangha ends the robe season. Any bhikkhu who approves of ending the robe season should remain silent. Any bhikkhu who doesn’t approve should speak up.
 
 
 4The Sangha has made an end of the robe season. The Sangha approves and is therefore silent. I’ll remember it thus.’”
@@ -38,12 +38,12 @@ And it should be done like this. A competent and capable monk should inform the 
 
 6The nuns heard the complaints of that lay follower. The nuns of few desires complained and criticized her, “How could Venerable Thullanandā block a legitimate ending of the robe season?” …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

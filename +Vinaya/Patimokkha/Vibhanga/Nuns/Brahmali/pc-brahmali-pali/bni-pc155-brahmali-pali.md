@@ -18,34 +18,34 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six intentionally made the monks from the group of seventeen anxious. They said:
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six intentionally made the bhikkhus from the group of seventeen anxious. They said:
 
 “The Buddha has laid down a rule that a person who is less than twenty years old shouldn’t be given the full ordination. And you were less than twenty when you got the full ordination. Could it be that you’re not fully ordained?” They cried.
 
 
-Other monks asked them why, and they said:
+Other bhikkhus asked them why, and they said:
 
-“The monks from the group of six intentionally make us anxious.”
+“The bhikkhus from the group of six intentionally make us anxious.”
 
-2The monks of few desires complained and criticized them, “How can the monks from the group of six do this?” …
+2The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six do this?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk intentionally makes a monk anxious, thinking, “In this way he will be ill at ease at least for a moment,” and he does so only for this reason and no other, he commits an offense entailing confession.’”
+3‘If a bhikkhu intentionally makes a bhikkhu anxious, thinking, “In this way he will be ill at ease at least for a moment,” and he does so only for this reason and no other, he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
-5**A monk:** another monk.
+5**A bhikkhu:** another bhikkhu.
 
 6**Intentionally:** knowing, perceiving, having intended, having decided, he transgresses.
 

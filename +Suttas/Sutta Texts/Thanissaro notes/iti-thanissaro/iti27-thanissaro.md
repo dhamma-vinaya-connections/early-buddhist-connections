@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 27
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, all the grounds for making merit leading to spontaneously arising [in heaven] do not equal one-sixteenth of the awareness-release through good will. Good will–surpassing them–shines, blazes, & dazzles.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, all the grounds for making merit leading to spontaneously arising [in heaven] do not equal one-sixteenth of the awareness-release through good will. Good will–surpassing them–shines, blazes, & dazzles.
 
 “Just as the radiance of all the stars does not equal one-sixteenth of the radiance of the moon, as the moon–surpassing them–shines, blazes, & dazzles, even so, all the grounds for making merit leading to spontaneously arising [in heaven] do not equal one-sixteenth of the awareness-release through good will. Good will–surpassing them–shines, blazes, & dazzles.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to wrong view, and once arisen, makes it grow like improper attention. When you attend improperly, wrong view arises, and once arisen it grows.”
+1“bhikkhus, I do not see a single thing that gives rise to wrong view, and once arisen, makes it grow like improper attention. When you attend improperly, wrong view arises, and once arisen it grows.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannā vā micchādiṭṭhi uppajjati uppannā vā micchādiṭṭhi pavaḍḍhati yathayidaṁ, bhikkhave, ayonisomanasikāro. Ayoniso, bhikkhave, manasi karoto anuppannā ceva micchādiṭṭhi uppajjati uppannā ca micchādiṭṭhi pavaḍḍhatī"ti.
 

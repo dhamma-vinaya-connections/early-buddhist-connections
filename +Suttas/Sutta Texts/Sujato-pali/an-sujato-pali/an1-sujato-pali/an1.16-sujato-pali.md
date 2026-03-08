@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that prevents sensual desire from arising, or, when it has arisen, abandons it like the feature of ugliness. When you attend properly to the feature of ugliness, sensual desire does not arise, or, if it has already arisen, it’s given up.”
+1“bhikkhus, I do not see a single thing that prevents sensual desire from arising, or, when it has arisen, abandons it like the feature of ugliness. When you attend properly to the feature of ugliness, sensual desire does not arise, or, if it has already arisen, it’s given up.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando nuppajjati uppanno vā kāmacchando pahīyati yathayidaṁ, bhikkhave, asubhanimittaṁ. Asubhanimittaṁ, bhikkhave, yoniso manasi karoto anuppanno ceva kāmacchando nuppajjati uppanno ca kāmacchando pahīyatī"ti.
 

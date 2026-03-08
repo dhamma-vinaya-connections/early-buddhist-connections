@@ -14,9 +14,9 @@ language: "English"
 
 > **Division:** I. WEALTH
 
-“Bhikkhus, possessing seven qualities, a bhikkhu is displeasing and disagreeable to his fellow monks and is neither respected nor esteemed by them. What seven? Here, (1) a bhikkhu is desirous of gains, (2) honor, and (3) reputation; (4) he is morally shameless and (5) morally reckless; (6) he is envious and (7) miserly. Possessing these seven qualities, a bhikkhu is displeasing and disagreeable to his fellow monks and is neither respected nor esteemed by them.
+“Bhikkhus, possessing seven qualities, a bhikkhu is displeasing and disagreeable to his fellow bhikkhus and is neither respected nor esteemed by them. What seven? Here, (1) a bhikkhu is desirous of gains, (2) honor, and (3) reputation; (4) he is morally shameless and (5) morally reckless; (6) he is envious and (7) miserly. Possessing these seven qualities, a bhikkhu is displeasing and disagreeable to his fellow bhikkhus and is neither respected nor esteemed by them.
 
-“Bhikkhus, possessing seven qualities, a bhikkhu is pleasing and agreeable to his fellow monks and is respected and esteemed by them. What seven? Here, (1) a bhikkhu is not desirous of gains, (2) honor, (3) and reputation; (4) he has a sense of moral shame and (5) moral dread; (6) he is not envious and (7) is not miserly. Possessing these seven qualities, a bhikkhu is pleasing and agreeable to his fellow monks and is respected and esteemed by them.” \[3\]
+“Bhikkhus, possessing seven qualities, a bhikkhu is pleasing and agreeable to his fellow bhikkhus and is respected and esteemed by them. What seven? Here, (1) a bhikkhu is not desirous of gains, (2) honor, (3) and reputation; (4) he has a sense of moral shame and (5) moral dread; (6) he is not envious and (7) is not miserly. Possessing these seven qualities, a bhikkhu is pleasing and agreeable to his fellow bhikkhus and is respected and esteemed by them.” \[3\]
 
 
 ---

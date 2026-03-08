@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“On the eighth day of the fortnight, mendicants, the ministers and counselors of the Four Great Kings wander about the world, thinking: ‘Hopefully most humans are paying due respect to their parents, ascetics and brahmins, honoring the elders in their families, observing the sabbath, staying awake, and making merit.’
+1“On the eighth day of the fortnight, bhikkhus, the ministers and counselors of the Four Great Kings wander about the world, thinking: ‘Hopefully most humans are paying due respect to their parents, ascetics and brahmins, honoring the elders in their families, observing the sabbath, staying awake, and making merit.’
 
 And on the fourteenth day of the fortnight, the sons of the Four Great Kings wander about the world, thinking: ‘Hopefully most humans are paying due respect to their parents … and making merit.’
 
@@ -43,7 +43,7 @@ as well as on the fortnightly special displays.’
 
 6But that verse was poorly sung by Sakka, lord of gods, not well sung; poorly spoken, not well spoken. Why is that? Sakka, lord of gods, is not free of greed, hate, and delusion.
 
-7But for a mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — it is appropriate to say:
+7But for a bhikkhu who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — it is appropriate to say:
 
 8‘Whoever wants to be like me  
 would observe the sabbath,  
@@ -52,7 +52,7 @@ on the fourteenth and the fifteenth days,
 and the eighth day of the fortnight,  
 as well as on the fortnightly special displays.’
 
-9Why is that? Because that mendicant is free of greed, hate, and delusion.”
+9Why is that? Because that bhikkhu is free of greed, hate, and delusion.”
 
 1"Aṭṭhamiyaṁ, bhikkhave, pakkhassa catunnaṁ mahārājānaṁ amaccā pārisajjā imaṁ lokaṁ anuvicaranti:  ‘kacci bahū manussā manussesu matteyyā petteyyā sāmaññā brahmaññā kule jeṭṭhāpacāyino uposathaṁ upavasanti paṭijāgaronti puññāni karontī’ti.
 

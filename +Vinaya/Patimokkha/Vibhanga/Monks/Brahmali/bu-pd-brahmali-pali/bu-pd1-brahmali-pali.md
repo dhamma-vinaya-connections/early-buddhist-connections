@@ -34,11 +34,11 @@ The merchant asked her for forgiveness: “Forgive me, Venerable, since you fell
 
 “But why are you so weak?”
 
-The nun told him what had happened. He then brought her to his house and gave her a meal. Afterwards he complained and criticized the monks:
+The nun told him what had happened. He then brought her to his house and gave her a meal. Afterwards he complained and criticized the bhikkhus:
 
 “How can the venerables receive food directly from a nun? It’s difficult for women to get material support.”
 
-3The monks heard the complaints of that merchant, and the monks of few desires complained and criticized that monk:
+3The bhikkhus heard the complaints of that merchant, and the bhikkhus of few desires complained and criticized that monk:
 
 “How could a monk receive food directly from a nun?” …
 
@@ -51,7 +51,7 @@ The nun told him what had happened. He then brought her to his house and gave he
 
 “No, Sir.”
 
-“Foolish man, a man and a woman who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. So how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“Foolish man, a man and a woman who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. So how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

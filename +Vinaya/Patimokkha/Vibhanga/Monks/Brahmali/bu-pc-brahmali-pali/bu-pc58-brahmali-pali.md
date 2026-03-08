@@ -16,19 +16,19 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a number of monks and wanderers were robbed while traveling from Sāketa to Sāvatthī. The King’s men set out from Sāvatthī and caught the thieves and their loot. They then sent a message to the monks:
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a number of bhikkhus and wanderers were robbed while traveling from Sāketa to Sāvatthī. The King’s men set out from Sāvatthī and caught the thieves and their loot. They then sent a message to the bhikkhus:
 
 “Venerables, please come and pick out your own robes.”
 
-But the monks did not recognize them. The people complained and criticized them:
+But the bhikkhus did not recognize them. The people complained and criticized them:
 
 “How can they not recognize their own robes?”
 
 
-2The monks heard the complaints of those people, and they told the Buddha. He had the Sangha gathered, gave a teaching on what is right and proper, and then addressed the monks:
+2The bhikkhus heard the complaints of those people, and they told the Buddha. He had the Sangha gathered, gave a teaching on what is right and proper, and then addressed the bhikkhus:
 
 
-“Well then, monks, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of well-behaved monks, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training. And, monks, this training rule should be recited like this:
+“Well then, bhikkhus, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of well-behaved bhikkhus, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training. And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

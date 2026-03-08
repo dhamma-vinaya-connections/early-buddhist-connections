@@ -15,7 +15,7 @@ language: "Pali - English"
 
 357. Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena bhikkhū tapode nahāyanti. Tena kho pana samayena [atha kho (sī. syā.)] rājā māgadho seniyo bimbisāro ‘‘sīsaṃ nahāyissāmī’’ti tapodaṃ gantvā – ‘‘yāvāyyā nahāyantī’’ti ekamantaṃ paṭimānesi. Bhikkhū yāva samandhakārā nahāyiṃsu. Atha kho rājā māgadho seniyo bimbisāro vikāle sīsaṃ nahāyitvā, nagaradvāre thakite bahinagare vasitvā, kālasseva asambhinnena vilepanena yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho rājānaṃ māgadhaṃ seniyaṃ bimbisāraṃ bhagavā etadavoca – ‘‘kissa tvaṃ, mahārāja, kālasseva āgato asambhinnena vilepanenā’’ti? Atha kho rājā māgadho seniyo bimbisāro bhagavato etamatthaṃ ārocesi. Atha kho bhagavā rājānaṃ māgadhaṃ seniyaṃ bimbisāraṃ dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṃsesi. Atha kho rājā māgadho seniyo bimbisāro bhagavatā dhammiyā kathāya sandassito samādapito samuttejito sampahaṃsito uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi. Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṅghaṃ sannipātāpetvā bhikkhū paṭipucchi – ‘‘saccaṃ kira, bhikkhave, bhikkhū rājānampi passitvā na mattaṃ jānitvā nahāyantī’’ti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma te, bhikkhave, moghapurisā rājānampi passitvā na mattaṃ jānitvā nahāyissanti! Netaṃ, bhikkhave, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-357.At that time the Buddha, the Blessed One, was staying at Rājagaha in the Bamboo Grove, the Squirrels’ Feeding Ground. Now at that time, monks were bathing in the Tapodā. And at that time, King Seniya Bimbisāra of Magadha, thinking, “I will wash my head,” went to the Tapodā and, seeing the monks, stood to one side, thinking, “Let the venerables finish bathing.” The monks bathed until it was completely dark. Then King Seniya Bimbisāra of Magadha, having washed his head late in the evening, found the city gate closed and stayed outside the city, and at dawn, with his ointment still undiminished, approached the Blessed One. Having approached, he paid homage to the Blessed One and sat down to one side. The Blessed One said to King Seniya Bimbisāra of Magadha as he was sitting to one side, “Why have you come so early, great king, with your ointment still undiminished?” Then King Seniya Bimbisāra of Magadha told the Blessed One what had happened. Then the Blessed One instructed, encouraged, inspired, and gladdened King Seniya Bimbisāra of Magadha with a Dhamma talk. Then King Seniya Bimbisāra of Magadha, having been instructed, encouraged, inspired, and gladdened by the Blessed One with a Dhamma talk, rose from his seat, paid homage to the Blessed One, circumambulated him, and departed. Then the Blessed One, on this occasion, having gathered the Sangha of monks, questioned the monks, “Is it true, monks, that monks, even when seeing the king, do not know moderation in bathing?” “It is true, Blessed One.” The Buddha, the Blessed One, rebuked them… “How, monks, can these foolish men, even when seeing the king, not know moderation in bathing? This will not give rise to confidence in those who lack it… And so, monks, this training rule should be recited thus:
+357.At that time the Buddha, the Blessed One, was staying at Rājagaha in the Bamboo Grove, the Squirrels’ Feeding Ground. Now at that time, bhikkhus were bathing in the Tapodā. And at that time, King Seniya Bimbisāra of Magadha, thinking, “I will wash my head,” went to the Tapodā and, seeing the bhikkhus, stood to one side, thinking, “Let the venerables finish bathing.” The bhikkhus bathed until it was completely dark. Then King Seniya Bimbisāra of Magadha, having washed his head late in the evening, found the city gate closed and stayed outside the city, and at dawn, with his ointment still undiminished, approached the Blessed One. Having approached, he paid homage to the Blessed One and sat down to one side. The Blessed One said to King Seniya Bimbisāra of Magadha as he was sitting to one side, “Why have you come so early, great king, with your ointment still undiminished?” Then King Seniya Bimbisāra of Magadha told the Blessed One what had happened. Then the Blessed One instructed, encouraged, inspired, and gladdened King Seniya Bimbisāra of Magadha with a Dhamma talk. Then King Seniya Bimbisāra of Magadha, having been instructed, encouraged, inspired, and gladdened by the Blessed One with a Dhamma talk, rose from his seat, paid homage to the Blessed One, circumambulated him, and departed. Then the Blessed One, on this occasion, having gathered the Sangha of bhikkhus, questioned the bhikkhus, “Is it true, bhikkhus, that bhikkhus, even when seeing the king, do not know moderation in bathing?” “It is true, Blessed One.” The Buddha, the Blessed One, rebuked them… “How, bhikkhus, can these foolish men, even when seeing the king, not know moderation in bathing? This will not give rise to confidence in those who lack it… And so, bhikkhus, this training rule should be recited thus:
 
 ‘‘Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya, pācittiya’’nti.
 
@@ -23,11 +23,11 @@ language: "Pali - English"
 
 Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti.
 
-Thus was this training rule laid down for the monks by the Blessed One.
+Thus was this training rule laid down for the bhikkhus by the Blessed One.
 
 358. Tena kho pana samayena bhikkhū uṇhasamaye pariḷāhasamaye kukkuccāyantā na nahāyanti, sedagatena gattena sayanti. Cīvarampi senāsanampi dussati. Bhagavato etamatthaṃ ārocesuṃ…pe… anujānāmi, bhikkhave, uṇhasamaye pariḷāhasamaye orenaddhamāsaṃ nahāyituṃ. Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-358.At that time, monks, during the hot season, the time of oppressive heat, being scrupulous, did not bathe. They slept with sweat-covered bodies. Their robes and lodgings became soiled. They reported this matter to the Blessed One… “I allow, monks, to bathe at intervals of less than half a month during the hot season, the time of oppressive heat. And thus, monks, you should recite this training rule:
+358.At that time, bhikkhus, during the hot season, the time of oppressive heat, being scrupulous, did not bathe. They slept with sweat-covered bodies. Their robes and lodgings became soiled. They reported this matter to the Blessed One… “I allow, bhikkhus, to bathe at intervals of less than half a month during the hot season, the time of oppressive heat. And thus, bhikkhus, you should recite this training rule:
 
 ‘‘Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Diyaḍḍho māso seso gimhānanti [gimhānaṃ (itipi)] vassānassa paṭhamo māso iccete aḍḍhateyyamāsā uṇhasamayo pariḷāhasamayo – ayaṃ tattha samayo’’ti.
 
@@ -35,11 +35,11 @@ Thus was this training rule laid down for the monks by the Blessed One.
 
 Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti.
 
-Thus was this training rule laid down for the monks by the Blessed One.
+Thus was this training rule laid down for the bhikkhus by the Blessed One.
 
 359. Tena kho pana samayena bhikkhū gilānā honti. Gilānapucchakā bhikkhū gilāne bhikkhū etadavocuṃ – ‘‘kaccāvuso, khamanīyaṃ, kacci yāpanīya’’nti? ‘‘Pubbe mayaṃ, āvuso, orenaddhamāsaṃ nahāyāma, tena no phāsu hoti; idāni pana ‘‘bhagavatā paṭikkhitta’’nti kukkuccāyantā na nahāyāma, tena no na phāsu hotī’’ti. Bhagavato etamatthaṃ ārocesuṃ…pe… anujānāmi, bhikkhave, gilānena bhikkhunā orenaddhamāsaṃ nahāyituṃ. Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-359.At that time, monks were sick. Monks who inquired after the sick said to the sick monks: “I hope you are bearing up, friends, I hope you are getting better?” “Previously, friends, we bathed at intervals of less than half a month, and that was comfortable for us. But now, thinking, ‘It has been prohibited by the Blessed One,’ being scrupulous, we do not bathe, and that is uncomfortable for us.” They reported this matter to the Blessed One… I allow, monks, a sick monk to bathe at intervals of less than half a month. And thus, monks, this training rule should be recited:
+359.At that time, bhikkhus were sick. bhikkhus who inquired after the sick said to the sick bhikkhus: “I hope you are bearing up, friends, I hope you are getting better?” “Previously, friends, we bathed at intervals of less than half a month, and that was comfortable for us. But now, thinking, ‘It has been prohibited by the Blessed One,’ being scrupulous, we do not bathe, and that is uncomfortable for us.” They reported this matter to the Blessed One… I allow, bhikkhus, a sick bhikkhu to bathe at intervals of less than half a month. And thus, bhikkhus, this training rule should be recited:
 
 ‘‘Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Diyaḍḍho māso seso gimhānanti [gimhānaṃ (itipi)] vassānassa paṭhamo māso iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo – ayaṃ tattha samayo’’ti.
 
@@ -47,11 +47,11 @@ Thus was this training rule laid down for the monks by the Blessed One.
 
 Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti.
 
-Thus was this training rule laid down for the monks by the Blessed One.
+Thus was this training rule laid down for the bhikkhus by the Blessed One.
 
 360. Tena kho pana samayena bhikkhū navakammaṃ katvā kukkuccāyantā na nahāyanti. Te sedagatena gattena sayanti. Cīvarampi senāsanampi dussati. Bhagavato etamatthaṃ ārocesuṃ…pe… anujānāmi, bhikkhave, kammasamaye orenaddhamāsaṃ nahāyituṃ. Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-360.At that time monks, having done construction work, were scrupulous and did not bathe. They slept with sweat-covered bodies. Their robes and bedding became soiled. They reported this matter to the Blessed One... “I allow, monks, to bathe at intervals of less than half a month during the time of construction work.” And thus, monks, you should recite this training rule:
+360.At that time bhikkhus, having done construction work, were scrupulous and did not bathe. They slept with sweat-covered bodies. Their robes and bedding became soiled. They reported this matter to the Blessed One... “I allow, bhikkhus, to bathe at intervals of less than half a month during the time of construction work.” And thus, bhikkhus, you should recite this training rule:
 
 ‘‘Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Diyaḍḍho māso seso gimhānanti vassānassa paṭhamo māso iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo – ayaṃ tattha samayo’’ti.
 
@@ -59,11 +59,11 @@ Thus was this training rule laid down for the monks by the Blessed One.
 
 Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti.
 
-Thus was this training rule laid down for the monks by the Blessed One.
+Thus was this training rule laid down for the bhikkhus by the Blessed One.
 
 361. Tena kho pana samayena bhikkhū addhānaṃ gantvā kukkuccāyantā na nahāyanti. Te sedagatena gattena sayanti. Cīvarampi senāsanampi dussati. Bhagavato etamatthaṃ ārocesuṃ…pe… anujānāmi, bhikkhave, addhānagamanasamaye orenaddhamāsaṃ nahāyituṃ. Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-361.At that time monks, having gone on a journey, were scrupulous and did not bathe. They slept with sweat-covered bodies. Their robes and lodgings became soiled. They reported this matter to the Blessed One… “I allow you, monks, to bathe at intervals of less than half a month during a time of traveling.” And thus, monks, you should recite this training rule:
+361.At that time bhikkhus, having gone on a journey, were scrupulous and did not bathe. They slept with sweat-covered bodies. Their robes and lodgings became soiled. They reported this matter to the Blessed One… “I allow you, bhikkhus, to bathe at intervals of less than half a month during a time of traveling.” And thus, bhikkhus, you should recite this training rule:
 
 ‘‘Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Diyaḍḍho māso seso gimhānanti vassānassa paṭhamo māso iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo – ayaṃ tattha samayo’’ti.
 
@@ -71,7 +71,7 @@ Thus was this training rule laid down for the monks by the Blessed One.
 
 Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti.
 
-Thus was this training rule laid down for the monks by the Blessed One.
+Thus was this training rule laid down for the bhikkhus by the Blessed One.
 
 362. Tena kho pana samayena sambahulā bhikkhū ajjhokāse cīvarakammaṃ karontā sarajena vātena okiṇṇā honti. Devo ca thokaṃ thokaṃ phusāyati. Bhikkhū kukkuccāyantā na nahāyanti, kilinnena gattena sayanti. Cīvarampi senāsanampi dussati. Bhagavato etamatthaṃ ārocesuṃ…pe… anujānāmi, bhikkhave, vātavuṭṭhisamaye orenaddhamāsaṃ nahāyituṃ. Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
@@ -115,7 +115,7 @@ Addhānagamanasamayo nāma ‘‘addhayojanaṃ gacchissāmī’’ti nahāyitab
 
 Vātavuṭṭhisamayo nāma bhikkhū sarajena vātena okiṇṇā honti, dve vā tīṇi vā udakaphusitāni kāye patitāni honti. ‘‘Vātavuṭṭhisamayo’’ti nahāyitabbaṃ.
 
-‘The time of wind and rain’ means when monks are afflicted with dust by a dusty wind, or when two or three drops of water have fallen on their bodies. One should bathe at ‘the time of wind and rain.’
+‘The time of wind and rain’ means when bhikkhus are afflicted with dust by a dusty wind, or when two or three drops of water have fallen on their bodies. One should bathe at ‘the time of wind and rain.’
 
 365. Ūnakaddhamāse ūnakasaññī, aññatra samayā, nahāyati, āpatti pācittiyassa. Ūnakaddhamāse vematiko, aññatra samayā, nahāyati, āpatti pācittiyassa. Ūnakaddhamāse atirekasaññī, aññatra samayā, nahāyati, āpatti pācittiyassa.
 

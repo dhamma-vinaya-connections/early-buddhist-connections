@@ -2,7 +2,7 @@
 index:
   - Patimokkha
 rule_type: "BU-NP - Nissaggiya Pacittiya - Relinquish with confession"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-NP 
 
@@ -140,13 +140,13 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu ūnapañcabandhanena pattena aññaṁ navaṁ pattaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ. Tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo. Yo ca tassā bhikkhuparisāya pattapariyanto so tassa bhikkhuno padātabbo— ‘ayaṁ te, bhikkhu, patto yāva bhedanāya dhāretabbo’ti. Ayaṁ tattha sāmīcī | If a monk exchanges an almsbowl with fewer than five mends for a new almsbowl, he commits an offense entailing relinquishment and confession. That monk should relinquish that almsbowl to a gathering of monks. He should then be given the last almsbowl belonging to that gathering: “Monk, this bowl is yours. Keep it until it breaks.” This is the proper procedure |
+| Yo pana bhikkhu ūnapañcabandhanena pattena aññaṁ navaṁ pattaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ. Tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo. Yo ca tassā bhikkhuparisāya pattapariyanto so tassa bhikkhuno padātabbo— ‘ayaṁ te, bhikkhu, patto yāva bhedanāya dhāretabbo’ti. Ayaṁ tattha sāmīcī | If a monk exchanges an almsbowl with fewer than five mends for a new almsbowl, he commits an offense entailing relinquishment and confession. That monk should relinquish that almsbowl to a gathering of bhikkhus. He should then be given the last almsbowl belonging to that gathering: “Monk, this bowl is yours. Keep it until it breaks.” This is the proper procedure |
 
 > [!example]- 🌐[[BU-NP23]] - 📜[Available texts](obsidian://search?query=file:bu-np23-) - Bhesajja - Tonics Five
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ – sappi navanītaṃ telaṃ madhu phāṇitaṃ, tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ | After being received, the tonics allowable for sick monks—that is, ghee, butter, oil, honey, and syrup— should be used from storage for at most seven days. If one uses them longer than that, one commits an offense entailing relinquishment and confession |
+| Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ – sappi navanītaṃ telaṃ madhu phāṇitaṃ, tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ | After being received, the tonics allowable for sick bhikkhus—that is, ghee, butter, oil, honey, and syrup— should be used from storage for at most seven days. If one uses them longer than that, one commits an offense entailing relinquishment and confession |
 
 > [!example]- 🌐[[BU-NP24]] - 📜[Available texts](obsidian://search?query=file:bu-np24-) - Vassikasāṭika - Robes Rainy Season
 >  
@@ -182,7 +182,7 @@ See also [[bmc1]] and  [[bmc1-concise]]
 >  
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Upavassaṁ kho pana kattikapuṇṇamaṁ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno tiṇṇaṁ cīvarānaṁ aññataraṁ cīvaraṁ antaraghare nikkhipeyya, siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāya. Chārattaparamaṁ tena bhikkhunā tena cīvarena vippavasitabbaṁ. Tato ce uttari vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṁ pācittiyan | There are wilderness dwellings that are considered risky and dangerous. After observing the Kattika full moon that ends the rainy season, a monk who is staying in such a dwelling may, if he so desires, store one of his three robes in an inhabited area so long as he has a reason for staying apart from that robe. He should stay apart from that robe for six days at the most. If he stays apart from it longer than that, except if the monks have agreed, he commits an offense entailing relinquishment and confession |
+| Upavassaṁ kho pana kattikapuṇṇamaṁ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno tiṇṇaṁ cīvarānaṁ aññataraṁ cīvaraṁ antaraghare nikkhipeyya, siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāya. Chārattaparamaṁ tena bhikkhunā tena cīvarena vippavasitabbaṁ. Tato ce uttari vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṁ pācittiyan | There are wilderness dwellings that are considered risky and dangerous. After observing the Kattika full moon that ends the rainy season, a monk who is staying in such a dwelling may, if he so desires, store one of his three robes in an inhabited area so long as he has a reason for staying apart from that robe. He should stay apart from that robe for six days at the most. If he stays apart from it longer than that, except if the bhikkhus have agreed, he commits an offense entailing relinquishment and confession |
 
 > [!example]- 🌐[[BU-NP30]] - 📜[Available texts](obsidian://search?query=file:bu-np30-) - Pariṇata - Offerings Intended for the Sangha
 >  

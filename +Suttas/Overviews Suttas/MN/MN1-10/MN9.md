@@ -53,7 +53,7 @@ parallels_partilal: "[[AN9.13]], [[MA29]], [[SA344]], [[DN22]], [[MN10]]"
 
 > [!info] Summary
 > How the four noble truths, dependent co-arising, and the knowledge that ends mental fermentation all build upon the basic dichotomy between skillful and unskillful action.
-Venerable Sāriputta gives a detailed explanation of right view, the first factor of the noble eightfold path. At the prompting of the other mendicants, he approaches the topic from a wide range of perspectives.
+Venerable Sāriputta gives a detailed explanation of right view, the first factor of the noble eightfold path. At the prompting of the other bhikkhus, he approaches the topic from a wide range of perspectives.
 
 > [!info] Key Excerpts 
 > Skillful & unskillful qualities and their roots

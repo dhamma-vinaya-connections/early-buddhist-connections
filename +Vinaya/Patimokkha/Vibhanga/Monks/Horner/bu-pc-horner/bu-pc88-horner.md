@@ -7,25 +7,25 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
 > ◄  [[bu-pc87-horner]] 📜  [[bu-pc89-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 88
+# bhikkhus’ Expiation (_Pācittiya_) 88
 
-*Bu-Pc.88.1.1* *BD.3.92* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks had a couch and a chair made covered with[^1] cotton.[^2] People, having seen (this) as they were touring the dwelling-places, looked down upon, criticised, spread it about, saying:
+*Bu-Pc.88.1.1* *BD.3.92* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus had a couch and a chair made covered with[^1] cotton.[^2] People, having seen (this) as they were touring the dwelling-places, looked down upon, criticised, spread it about, saying:
 
-“How can the recluses, sons of the Sakyans, have a couch and a chair made covered with cotton, like householders who enjoy pleasures of the senses?” Monks heard these people who … spread it about. Those who were modest monks … spread it about, saying:
+“How can the recluses, sons of the Sakyans, have a couch and a chair made covered with cotton, like householders who enjoy pleasures of the senses?” bhikkhus heard these people who … spread it about. Those who were modest bhikkhus … spread it about, saying:
 
-“How can this group of six monks have a couch and a chair made covered with cotton?” …
+“How can this group of six bhikkhus have a couch and a chair made covered with cotton?” …
 
-“Is it true, as is said, that you, monks, had … covered with cotton?” “It is true, lord.”
+“Is it true, as is said, that you, bhikkhus, had … covered with cotton?” “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, have a couch and a chair made covered with cotton? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, have a couch and a chair made covered with cotton? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should have a couch or a chair made covered with cotton, there is an offence of expiation involving tearing off.”[^3]
+“Whatever bhikkhu should have a couch or a chair made covered with cotton, there is an offence of expiation involving tearing off.”[^3]
 
 * * *
 
-*Bu-Pc.88.2.1* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.88.2.1* Whatever means: … bhikkhu is to be understood in this case.
 
 Couch[^4] means: there are four (kinds of) couch …
 
@@ -47,7 +47,7 @@ The Sixth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

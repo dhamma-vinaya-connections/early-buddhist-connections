@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhikkhu Sujato  
 
-1“Mendicants, there are three practices. What three? The addicted practice, the scorching practice, and the middle practice.
+1“bhikkhus, there are three practices. What three? The addicted practice, the scorching practice, and the middle practice.
 
 And what’s the addicted practice? It’s when someone has this doctrine and view: ‘There’s nothing wrong with sensual pleasures’; so they throw themselves into sensual pleasures. This is called the addicted practice.
 
@@ -30,21 +30,21 @@ They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum fro
 
 They wear robes of sunn hemp, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls’ wings. They tear out their hair and beard, committed to this practice. They constantly stand, refusing seats. They squat, committed to persisting in the squatting position. They lie on a mat of thorns, making a mat of thorns their bed. They pursue the practice of immersion in water three times a day, including the evening. And so they live pursuing these various ways of mortifying and tormenting the body. This is called the scorching practice.
 
-And what’s the middle practice? It’s when a mendicant meditates by observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings … They meditate observing an aspect of the mind … They meditate observing an aspect of principles — keen, aware, and mindful, rid of desire and aversion for the world. This is called the middle practice.
+And what’s the middle practice? It’s when a bhikkhu ![[Satipatthanas]]. They meditate observing an aspect of feelings … They meditate observing an aspect of the mind … They meditate observing an aspect of principles — keen, aware, and mindful, rid of desire and aversion for the world. This is called the middle practice.
 
 
 These are the three practices.
 
-Mendicants, there are three practices. What three? The addicted practice, the scorching practice, the middle practice.
+bhikkhus, there are three practices. What three? The addicted practice, the scorching practice, the middle practice.
 
 And what’s the addicted practice? … This is called the addicted practice.
 
 And what is the scorching practice? … This is called the scorching practice.
 
 
-And what’s the middle practice? It’s when a mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities that have arisen are given up. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are completed by development. …
+And what’s the middle practice? It’s when a bhikkhu generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities that have arisen are given up. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are completed by development. …
 
-They develop the basis of psychic power that has immersion due to enthusiasm, and active effort. They develop the basis of psychic power that has immersion due to energy, and active effort. They develop the basis of psychic power that has immersion due to mental development, and active effort. They develop the basis of psychic power that has immersion due to inquiry, and active effort. …
+They develop the ![[Iddhipadas]] that has immersion due to energy, and active effort. They develop the ![[Iddhipadas]] that has immersion due to inquiry, and active effort. …
 
 
 They develop the faculty of faith … energy … mindfulness … immersion … wisdom …

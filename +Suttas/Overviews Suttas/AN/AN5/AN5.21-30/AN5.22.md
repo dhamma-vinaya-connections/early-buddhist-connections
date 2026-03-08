@@ -51,7 +51,7 @@ parallels_partilal: "[[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[M
 > [!info] Key Excerpts 
 > Respect, fulfill the practice of a trainee, the entire spectrum of ethics, entire spectrum of immersion, the entire spectrum of wisdom
 > 
-> It is possible for a respectful and reverent mendicant with compatible lifestyle to fulfill the practice dealing with supplementary regulations regarding their spiritual companions
+> It is possible for a respectful and reverent bhikkhu with compatible lifestyle to fulfill the practice dealing with supplementary regulations regarding their spiritual companions
 > 
 
 

@@ -44,7 +44,7 @@ parallels_partilal: "[[ITI110]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant gets rid of unwholesome states right away, in whatever posture they happen to be in
+> A bhikkhu gets rid of unwholesome states right away, in whatever posture they happen to be in
 
 > [!info] Key Excerpts 
 > Don’t tolerate any sensual, malicious, or cruel though or any hindrances in any of the 4 posture

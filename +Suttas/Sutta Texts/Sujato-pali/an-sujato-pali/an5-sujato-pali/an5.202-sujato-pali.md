@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five benefits of listening to the teaching. What five? You learn new things, clarify what you’ve learned, get over uncertainty, correct your views, and inspire confidence in your mind. These are the five benefits of listening to the teaching.”
+1“bhikkhus, there are these five benefits of listening to the teaching. What five? You learn new things, clarify what you’ve learned, get over uncertainty, correct your views, and inspire confidence in your mind. These are the five benefits of listening to the teaching.”
 
 1"Pañcime, bhikkhave, ānisaṁsā dhammassavane. Katame pañca? Assutaṁ suṇāti, sutaṁ pariyodāpeti, kaṅkhaṁ vitarati, diṭṭhiṁ ujuṁ karoti, cittamassa pasīdati. Ime kho, bhikkhave, pañca ānisaṁsā dhammassavane"ti.
 

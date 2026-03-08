@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four ways of answering questions. What four? There is a question that should be answered definitively. There is a question that should be answered analytically. There is a question that should be answered with a counter-question. There is a question that should be set aside.
+1“bhikkhus, there are these four ways of answering questions. What four? There is a question that should be answered definitively. There is a question that should be answered analytically. There is a question that should be answered with a counter-question. There is a question that should be set aside.
 
 These are the four ways of answering questions.
 
@@ -29,7 +29,7 @@ another analytically,
 a third with a counter-question,  
 while a fourth is set aside.
 
-3A mendicant who knows each of these,  
+3A bhikkhu who knows each of these,  
 in line with good principles,  
 is said to be skilled  
 in the four kinds of questions.

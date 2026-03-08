@@ -7,25 +7,25 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC16]]
 > ◄  [[bu-pc15-horner]] 📜  [[bu-pc17-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 16
+# bhikkhus’ Expiation (_Pācittiya_) 16
 
-*Bu-Pc.16.1.1* *BD.2.247* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks took possession of the best sleeping-places.[^1] The monks who were elders turned them away. Then it occurred to the group of six monks:
+*Bu-Pc.16.1.1* *BD.2.247* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus took possession of the best sleeping-places.[^1] The bhikkhus who were elders turned them away. Then it occurred to the group of six bhikkhus:
 
-“What now if we, by some stratagem, should spend the rainy season[^2] in this very place?” Then the group of six monks, encroaching upon[^3] (the space intended for) monks who were elders, lay down in the sleeping-places, saying:
+“What now if we, by some stratagem, should spend the rainy season[^2] in this very place?” Then the group of six bhikkhus, encroaching upon[^3] (the space intended for) bhikkhus who were elders, lay down in the sleeping-places, saying:
 
-“He for whom it becomes too crowded may depart.” Those who were modest monks … spread it about, saying:
+“He for whom it becomes too crowded may depart.” Those who were modest bhikkhus … spread it about, saying:
 
-“How can the group of six monks lie down in sleeping-places, encroaching upon (the space intended for) monks who are elders?” Then these monks told this matter to the lord. *Vin.4.43* …
+“How can the group of six bhikkhus lie down in sleeping-places, encroaching upon (the space intended for) bhikkhus who are elders?” Then these bhikkhus told this matter to the lord. *Vin.4.43* …
 
-“Is it true, as is said, that you, monks, lay down in sleeping-places … for monks who are elders?”
+“Is it true, as is said, that you, bhikkhus, lay down in sleeping-places … for bhikkhus who are elders?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, lie down in sleeping-places, encroaching upon (the space intended for) monks, who are elders? It is not, foolish men, for pleasing *BD.2.248* those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, lie down in sleeping-places, encroaching upon (the space intended for) bhikkhus, who are elders? It is not, foolish men, for pleasing *BD.2.248* those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should lie down in a sleeping-place in a dwelling belonging to the Order, knowing that he is encroaching upon (the space intended for) a monk arrived first, saying, ‘He for whom it becomes too crowded may depart,’ doing it for just this object, not for another,[^4] there is an offence of expiation.”
+“Whatever bhikkhu should lie down in a sleeping-place in a dwelling belonging to the Order, knowing that he is encroaching upon (the space intended for) a bhikkhu arrived first, saying, ‘He for whom it becomes too crowded may depart,’ doing it for just this object, not for another,[^4] there is an offence of expiation.”
 
 * * *
 
@@ -55,7 +55,7 @@ The Sixth *Vin.4.44*
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

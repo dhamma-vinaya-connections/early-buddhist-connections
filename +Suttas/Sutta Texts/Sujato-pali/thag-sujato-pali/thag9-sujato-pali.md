@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 9: The Group of Nine Verses
 
@@ -42,7 +42,7 @@ there is no greater pleasure than this.
 
 522When the thunder-cloud rumbles in the sky,  
 while the rain pours on the path of birds all around,  
-and a monk has gone to a mountain cave, practicing jhāna:  
+and a bhikkhu has gone to a mountain cave, practicing jhāna:  
 there is no greater pleasure than this.
 
 523When sitting on a riverbank covered in flowers,  
@@ -52,7 +52,7 @@ there is no greater pleasure than this.
 
 524When it is midnight in a lonely forest,  
 and the lions roar as the heavens pour,  
-and a monk has gone to a mountain cave, practicing jhāna:  
+and a bhikkhu has gone to a mountain cave, practicing jhāna:  
 there is no greater pleasure than this.
 
 525When one’s own thoughts have been cut off,  

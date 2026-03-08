@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with five qualities is fit to hold a discussion with their spiritual companions. What five?
+1“bhikkhus, a bhikkhu with five qualities is fit to hold a discussion with their spiritual companions. What five?
 
-A mendicant is personally accomplished in ethics, and answers questions that come up when discussing accomplishment in ethics.
+A bhikkhu is personally accomplished in ethics, and answers questions that come up when discussing accomplishment in ethics.
 
 They’re personally accomplished in immersion, and they answer questions that come up when discussing accomplishment in immersion.
 
@@ -32,7 +32,7 @@ They’re personally accomplished in freedom, and they answer questions that com
 
 They’re personally accomplished in the knowledge and vision of freedom, and they answer questions that come up when discussing accomplishment in the knowledge and vision of freedom.
 
-A mendicant with these five qualities is fit to hold a discussion with their spiritual companions.”
+A bhikkhu with these five qualities is fit to hold a discussion with their spiritual companions.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu alaṁsākaccho sabrahmacārīnaṁ. Katamehi pañcahi?
 

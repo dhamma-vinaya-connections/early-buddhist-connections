@@ -22,7 +22,7 @@ language: "English - Pali"
 
 1At one time the Buddha was staying between a pair of sal trees in the sal forest of the Mallas at Upavattana near Kusinārā at the time of his final extinguishment.
 
-Then the Buddha said to the mendicants: “Come now, mendicants, I say to you all: ‘Conditions fall apart. Persist with diligence.’”
+Then the Buddha said to the bhikkhus: “Come now, bhikkhus, I say to you all: ‘Conditions fall apart. Persist with diligence.’”
 
 These were the Realized One’s last words.
 

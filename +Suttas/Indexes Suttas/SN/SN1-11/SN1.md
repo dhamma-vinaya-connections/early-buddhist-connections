@@ -110,11 +110,11 @@ contribution:
 
 
 > [!example]- 🌐[[SN1.21]] - 📜[Available texts](obsidian://search?query=file:sn1.21-) - Sattisutta – A Sword
-> Mendicant should live as if their head was on fire.
+> bhikkhu should live as if their head was on fire.
 
 
 > [!example]- 🌐[[SN1.22]] - 📜[Available texts](obsidian://search?query=file:sn1.22-) - Phusatisutta – It Touches
-> Mendicant should live as if their head was on fire.
+> bhikkhu should live as if their head was on fire.
 
 
 > [!example]- 🌐[[SN1.23]] - 📜[Available texts](obsidian://search?query=file:sn1.23-) - Jaṭāsutta – Tangle

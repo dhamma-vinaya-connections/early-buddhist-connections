@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the eight worldly conditions revolve around the world, and the world revolves around the eight worldly conditions. What eight? Gain and loss, fame and disgrace, praise and blame, pleasure and pain. These eight worldly conditions revolve around the world, and the world revolves around these eight worldly conditions.
+1“bhikkhus, the eight worldly conditions revolve around the world, and the world revolves around the eight worldly conditions. What eight? Gain and loss, fame and disgrace, praise and blame, pleasure and pain. These eight worldly conditions revolve around the world, and the world revolves around these eight worldly conditions.
 
 
 2Gain and loss, fame and disgrace,  

@@ -50,7 +50,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Monks staying in this saṅgha who have attained to the gods, Brahma, imperturbable and nobility
 > 
-> This assembly has no nonsense, mendicants, it’s free of nonsense. It consists purely of the essential core
+> This assembly has no nonsense, bhikkhus, it’s free of nonsense. It consists purely of the essential core
 > 
 
 

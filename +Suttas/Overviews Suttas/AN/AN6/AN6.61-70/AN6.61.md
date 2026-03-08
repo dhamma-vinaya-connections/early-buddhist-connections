@@ -44,7 +44,7 @@ parallels_partilal: "[[SA1164]], [[SNP5.3]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Several senior mendicants discuss the “questions of metteyya” from the pārāyana (snp 5.3). Each propose an interpretation, and they then ask the Buddha . He praises each reading, but gives his own intended meaning
+> Several senior bhikkhus discuss the “questions of metteyya” from the pārāyana (snp 5.3). Each propose an interpretation, and they then ask the Buddha . He praises each reading, but gives his own intended meaning
 
 > [!info] Key Excerpts 
 > Contact, time, feelings,  name form & consciousness,  internal external & consciousness,  identity, are interpretations for ‘the sage has known both ends, 
@@ -52,7 +52,7 @@ And is not stuck in the middle. 
 He is a great man, I declare, 
 He has escaped the seamstress here.’
 > 
-> Contact, mendicants, is one end. The origin of contact is the second end. The cessation of contact is the middle. And craving is the seamstress, for craving weaves one to rebirth in this or that state of existence. That’s How a mendicant directly knows what should be directly known and completely understands what should be completely understood
+> Contact, bhikkhus, is one end. The origin of contact is the second end. The cessation of contact is the middle. And craving is the seamstress, for craving weaves one to rebirth in this or that state of existence. That’s How a bhikkhu directly knows what should be directly known and completely understands what should be completely understood
 > 
 
 

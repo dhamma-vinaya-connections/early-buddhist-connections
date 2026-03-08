@@ -26,12 +26,12 @@ Standing to one side, that deity recited this verse in the Buddha’s presence:
 
 2“Cut how many? Drop how many?  
 How many more should be developed?  
-How many kinds of clinging must a mendicant get over  
+How many kinds of clinging must a bhikkhu get over  
 before you call them a flood-crosser?”
 
 3“Five to cut, five to drop,  
 and five more to develop.  
-A mendicant must get over five kinds of clinging  
+A bhikkhu must get over five kinds of clinging  
 before you call them a flood-crosser.”
 
 #### Pali

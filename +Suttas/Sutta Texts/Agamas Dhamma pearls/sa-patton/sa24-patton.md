@@ -18,7 +18,7 @@ language: "English"
 30 (24). Rāhula’s Question (2)
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at the Squirrels’ Bamboo Grove of Rājagṛha.
 2. It was then that the Bhagavān addressed Rāhula, “How does a monk know and how does he see this body of awareness and all the signs of the external world such that he has no binding attachments to views of self and what belongs to self or to the tendency of self pride?”
-Rāhula said to the Buddha, “The Bhagavān is the Dharma lord, guide, and refuge.<a id="fnref2"></a>[^2] It would be good, Bhagavān, if you would give a detailed discourse on this subject for the monks! After they hear it, the monks will accept and approve of it.”
+Rāhula said to the Buddha, “The Bhagavān is the Dharma lord, guide, and refuge.<a id="fnref2"></a>[^2] It would be good, Bhagavān, if you would give a detailed discourse on this subject for the bhikkhus! After they hear it, the bhikkhus will accept and approve of it.”
 3. The Buddha told Rāhula, “Listen closely! Listen closely, and consider it well. I will explain it for you.
 Rāhula said to the Buddha, “Very well, I’ll accept the teaching.”
 4. The Buddha told Rāhula, “You should observe that whatever forms there are, whether they are past, future, or present, internal or external, crude or fine, beautiful or ugly, distant or near, they are all not self, not different than self, and neither are present in the other. They are truly observed with equitable wisdom in this way.

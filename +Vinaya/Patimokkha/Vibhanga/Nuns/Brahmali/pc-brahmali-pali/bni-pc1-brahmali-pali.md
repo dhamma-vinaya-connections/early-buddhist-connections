@@ -30,21 +30,21 @@ The nun Thullanandā went to the field, and not having any sense of moderation s
 
 3The nuns heard the complaints of that field-keeper, and the nuns of few desires complained and criticized her, “How could Venerable Thullanandā not have any sense of moderation and take a large amount of garlic?” …
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her, “How could the nun Thullanandā not have any sense of moderation and take a large amount of garlic? This will affect people’s confidence …” … and after giving a teaching he addressed the monks:
+The Buddha rebuked her, “How could the nun Thullanandā not have any sense of moderation and take a large amount of garlic? This will affect people’s confidence …” … and after giving a teaching he addressed the bhikkhus:
 
-4“Once upon a time, monks, Thullanandā was the wife of a brahmin. They had three daughters, Nandā, Nandavatī, and Sundarīnandā. When that brahmin eventually died, he was reborn as a goose, whose feathers were all made of gold. And he gave his former family members one feather at the time. Thullanandā considered this. She then grabbed hold of that king of geese and plucked him. But when his feathers regrew they were white. At that time too, monks, Thullanandā lost her gold because she was too greedy. Now she will lose her garlic.”
+4“Once upon a time, bhikkhus, Thullanandā was the wife of a brahmin. They had three daughters, Nandā, Nandavatī, and Sundarīnandā. When that brahmin eventually died, he was reborn as a goose, whose feathers were all made of gold. And he gave his former family members one feather at the time. Thullanandā considered this. She then grabbed hold of that king of geese and plucked him. But when his feathers regrew they were white. At that time too, bhikkhus, Thullanandā lost her gold because she was too greedy. Now she will lose her garlic.”
 
 5“One should be content with what one gets,  
 Because excessive greed is bad.  
 After grabbing hold of the king of geese,  
 The gold came to an end.”
 
-6Then, after rebuking the nun Thullanandā in many ways, the Buddha spoke in dispraise of being difficult to support … “And, monks, the nuns should recite this training rule like this:
+6Then, after rebuking the nun Thullanandā in many ways, the Buddha spoke in dispraise of being difficult to support … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

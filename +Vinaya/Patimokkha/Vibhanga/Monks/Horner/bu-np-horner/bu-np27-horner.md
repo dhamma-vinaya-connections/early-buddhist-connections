@@ -7,13 +7,13 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP27]]
 > ◄  [[bu-np26-horner]] 📜  [[bu-np28-horner]] ►
 
-# Monks’ Forfeiture (_Nissaggiya_) 27
+# bhikkhus’ Forfeiture (_Nissaggiya_) 27
 
 *Bu-NP.27.1.1* *BD.2.145* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. At that time a certain man, going off on a journey,[^1] said to his wife:
 
 “Weighing[^2] yarn, give it to a certain weaver; getting him to weave robe-material, take care of it; when I come back I will present[^3] master Upananda[^4] with robe-material.”
 
-A certain monk, as he was going for alms, heard this man as he was speaking thus. Then this monk approached the venerable Upananda, the son of the Sakyans, and having approached he spoke thus to the venerable Upananda, the son of the Sakyans:
+A certain bhikkhu, as he was going for alms, heard this man as he was speaking thus. Then this bhikkhu approached the venerable Upananda, the son of the Sakyans, and having approached he spoke thus to the venerable Upananda, the son of the Sakyans:
 
 “You, reverend Upananda, are of great merit,[^5] for at a certain place a certain man, going off on a journey, said to his wife: ‘Weighing yarn … I will present master Upananda with robe-material.’”
 
@@ -39,7 +39,7 @@ Then that woman gave a second time[^13] just as much yarn as she had given at fi
 
 “These recluses, sons of the Sakyans, have great desires, they are not contented; it is not easy to present them with robe-material. How can master Upananda, before being invited by me, going up to a householder’s weavers, put forward a consideration with regard to robe-material?”[^14]
 
-Monks heard that man who … spread it about. Those who were modest monks … spread it about, saying: “How can the venerable Upananda, the son of the Sakyans, before being invited, going up to a householder’s weavers, put forward a consideration with regard to robe-material?” Then these monks told this matter to the lord.
+bhikkhus heard that man who … spread it about. Those who were modest bhikkhus … spread it about, saying: “How can the venerable Upananda, the son of the Sakyans, before being invited, going up to a householder’s weavers, put forward a consideration with regard to robe-material?” Then these bhikkhus told this matter to the lord.
 
 “Is it true, as is said, that you, Upananda, before being invited, going up to a householder’s weavers, put forward a consideration with regard to robe-material?”
 
@@ -49,13 +49,13 @@ Monks heard that man who … spread it about. Those who were modest monks … sp
 
 “He is not a relation, lord.”
 
-“Foolish man, one who is not a relation does not know what is suitable or what is unsuitable, or what is right or what is wrong for one who is not a relation. Thus will you, foolish man, before being invited, *Vin.3.259* *BD.2.148* going up to a householder’s weavers, put forward a consideration with regard to robe-material. It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“Foolish man, one who is not a relation does not know what is suitable or what is unsuitable, or what is right or what is wrong for one who is not a relation. Thus will you, foolish man, before being invited, *Vin.3.259* *BD.2.148* going up to a householder’s weavers, put forward a consideration with regard to robe-material. It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“A man or a woman householder who is not a relation may cause robe-material to be woven by weavers for a monk. Then if that monk, before being invited, going up to the weavers, should put forward a consideration with regard to the robe-material, saying: ‘Now sirs, this robe-material is being specially woven for me. Make it long and wide and rough, and make it evenly woven and well woven and well scraped and well combed. If you do so we could give the venerable ones[^15] something or other in addition.’[^16] And if the monk, speaking thus, should give something or other in addition, even as little as the contents of a begging-bowl,[^17] there is an offence of expiation involving forfeiture.”
+“A man or a woman householder who is not a relation may cause robe-material to be woven by weavers for a bhikkhu. Then if that bhikkhu, before being invited, going up to the weavers, should put forward a consideration with regard to the robe-material, saying: ‘Now sirs, this robe-material is being specially woven for me. Make it long and wide and rough, and make it evenly woven and well woven and well scraped and well combed. If you do so we could give the venerable ones[^15] something or other in addition.’[^16] And if the bhikkhu, speaking thus, should give something or other in addition, even as little as the contents of a begging-bowl,[^17] there is an offence of expiation involving forfeiture.”
 
 * * *
 
-*Bu-NP.27.2.1* For a monk[^18] means: for the good of a monk, making a monk an object, being desirous of presenting to a monk.
+*Bu-NP.27.2.1* For a bhikkhu[^18] means: for the good of a bhikkhu, making a bhikkhu an object, being desirous of presenting to a bhikkhu.
 
 A man who is not a relation means: one who is not related on the mother’s side or on the father’s side back through seven generations.
 
@@ -69,7 +69,7 @@ Robe-material means: any one robe-material of the six (kinds of) robe-material i
 
 *BD.2.149* May cause to be woven means: causes to be woven.
 
-If that monk means: the particular monk for whom the robe-material is being woven.
+If that bhikkhu means: the particular bhikkhu for whom the robe-material is being woven.
 
 Before being invited means: before it was said (to him): ‘What kind of robe-material do you want, honoured sir? What kind of robe-material shall I have woven for you?’
 
@@ -77,9 +77,9 @@ Going up to the weavers means: going to the house, approaching (them) anywhere.
 
 Should put forward a consideration with regard to the robe-material means: he says: ‘Now sirs, this robe-material is being specially woven for me. Make it long and wide and rough, and make it evenly woven and well woven and well scraped and well combed. If you do so we could give the venerable ones something or other in addition.’
 
-And if the monk, speaking thus, should give something or other in addition, even as little as the contents of a begging-bowl means: the contents of a begging-bowl are called conjey and rice[^21] and *Vin.3.260* solid food and a lump of chunam[^22] and a tooth-pick and unwoven thread, and he even speaks _dhamma_.[^23]
+And if the bhikkhu, speaking thus, should give something or other in addition, even as little as the contents of a begging-bowl means: the contents of a begging-bowl are called conjey and rice[^21] and *Vin.3.260* solid food and a lump of chunam[^22] and a tooth-pick and unwoven thread, and he even speaks _dhamma_.[^23]
 
-If according to what he says, he makes it long or wide or rough, there is an offence of wrong-doing in the action. It is to be forfeited on acquisition. It should be forfeited to … an individual. And thus, monks, should it be forfeited: ‘Honoured sirs, before I was invited (to take) this robe-material, approaching the weavers of a householder who is not a relation, I put forward a consideration with regard to the robe-material; it is to be forfeited. I forfeit it to the Order.’ … ‘… the Order should give back … let the venerable ones give back … I will give back this robe to the venerable one.’
+If according to what he says, he makes it long or wide or rough, there is an offence of wrong-doing in the action. It is to be forfeited on acquisition. It should be forfeited to … an individual. And thus, bhikkhus, should it be forfeited: ‘Honoured sirs, before I was invited (to take) this robe-material, approaching the weavers of a householder who is not a relation, I put forward a consideration with regard to the robe-material; it is to be forfeited. I forfeit it to the Order.’ … ‘… the Order should give back … let the venerable ones give back … I will give back this robe to the venerable one.’
 
 *BD.2.150* If, before being invited, going up to the weavers of a householder, thinking that he is not a relation when he is not a relation, he puts forward a consideration with regard to robe-material, there is an offence of expiation involving forfeiture. If, being in doubt as to whether he is not a relation, before being invited, going up to the weavers of a householder, he puts forward a consideration with regard to robe-material, there is an offence of expiation involving forfeiture. If, before being invited, going up to the weavers of a householder, thinking that he is a relation when he is not a relation, he puts forward a consideration with regard to robe-material, there is an offence of expiation involving forfeiture. If he thinks that he is not a relation when he is a relation, there is an offence of wrong-doing. If he is in doubt as to whether he is a relation, there is an offence of wrong-doing. If he thinks that he is a relation when he is a relation, there is no offence.
 
@@ -89,7 +89,7 @@ There is no offence if it belongs to relations; if they are invited; if it is fo
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

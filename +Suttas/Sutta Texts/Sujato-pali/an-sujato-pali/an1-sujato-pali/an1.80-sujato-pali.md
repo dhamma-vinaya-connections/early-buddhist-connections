@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Loss of fame, mendicants, is a small thing. Wisdom is the worst thing to lose.”
+1“Loss of fame, bhikkhus, is a small thing. Wisdom is the worst thing to lose.”
 
 1"Appamattikā esā, bhikkhave, parihāni yadidaṁ yasoparihāni. Etaṁ patikiṭṭhaṁ, bhikkhave, parihānīnaṁ yadidaṁ paññāparihānī"ti.
 

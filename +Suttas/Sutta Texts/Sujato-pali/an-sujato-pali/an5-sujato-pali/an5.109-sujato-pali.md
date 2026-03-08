@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with five qualities has all four directions covered. What five?
+1“bhikkhus, a bhikkhu with five qualities has all four directions covered. What five?
 
-It’s when mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
+It’s when bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
 They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically.
 
@@ -32,7 +32,7 @@ They get the four jhānas — blissful meditations in the present life that belo
 
 They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 
-A mendicant with these five qualities has all four directions covered.”
+A bhikkhu with these five qualities has all four directions covered.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu cātuddiso hoti. Katamehi pañcahi?
 

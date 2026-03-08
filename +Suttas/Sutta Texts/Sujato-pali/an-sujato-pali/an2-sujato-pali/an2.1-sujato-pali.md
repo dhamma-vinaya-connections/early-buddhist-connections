@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“There are, mendicants, these two faults. What two? The fault apparent in the present life, and the fault to do with lives to come.
+2“There are, bhikkhus, these two faults. What two? The fault apparent in the present life, and the fault to do with lives to come.
 
 What is the fault apparent in the present life? It’s when someone sees that kings have arrested a bandit, a criminal, and subjected them to various punishments — whipping, caning, and clubbing; cutting off hands or feet, or both; cutting off ears or nose, or both; the ‘porridge pot’, the ‘shell-shave’, the ‘demon’s mouth’, the ‘garland of fire’, the ‘burning hand’, the ‘grass blades’, the ‘bark dress’, the ‘antelope’, the ‘meat hook’, the ‘coins’, the ‘acid pickle’, the ‘twisting bar’, the ‘straw mat’; being splashed with hot oil, being fed to the dogs, being impaled alive, and being beheaded.
 

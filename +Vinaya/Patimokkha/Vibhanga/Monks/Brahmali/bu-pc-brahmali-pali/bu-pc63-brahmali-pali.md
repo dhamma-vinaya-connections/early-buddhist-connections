@@ -16,17 +16,17 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were reopening a legal issue that they knew had been legitimately settled, saying, “The legal procedure hasn’t been done;” “It’s been done badly;” “It should be done again;” “It’s not been settled;” “It’s been badly settled;” “It should be settled again.”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were reopening a legal issue that they knew had been legitimately settled, saying, “The legal procedure hasn’t been done;” “It’s been done badly;” “It should be done again;” “It’s not been settled;” “It’s been badly settled;” “It should be settled again.”
 
 
-2The monks of few desires complained and criticized them, “How can the monks from the group of six reopen a legal issue that they know has been legitimately settled?” …
+2The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six reopen a legal issue that they know has been legitimately settled?” …
 
-“Is it true, monks, that you’re doing this?”
+“Is it true, bhikkhus, that you’re doing this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

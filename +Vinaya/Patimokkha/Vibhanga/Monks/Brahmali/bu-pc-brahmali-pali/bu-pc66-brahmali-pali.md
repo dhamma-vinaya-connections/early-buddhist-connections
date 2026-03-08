@@ -25,14 +25,14 @@ The customs officers heard about that group of travelers. They then blocked the 
 “Venerable, why are you knowingly traveling with a group of thieves?” And they detained him.
 
 
-2After being released, that monk went to Sāvatthī, where he told the monks what had happened. The monks of few desires complained and criticized him, “How could a monk knowingly travel by arrangement with a group of thieves?” …
+2After being released, that monk went to Sāvatthī, where he told the bhikkhus what had happened. The bhikkhus of few desires complained and criticized him, “How could a monk knowingly travel by arrangement with a group of thieves?” …
 
 “Is it true, monk, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

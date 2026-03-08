@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these six things can’t be done. What six? A person accomplished in view can’t take conditions to be permanent, happiness, or self. They can’t do deeds with fixed result in the next life. They can’t fall back on purification through noisy, superstitious rites. They can’t seek outside of the Buddhist community for those worthy of religious donations. These are the six things that can’t be done.”
+1“bhikkhus, these six things can’t be done. What six? A person accomplished in view can’t take conditions to be permanent, happiness, or self. They can’t do deeds with fixed result in the next life. They can’t fall back on purification through noisy, superstitious rites. They can’t seek outside of the Buddhist community for those worthy of religious donations. These are the six things that can’t be done.”
 
 1"Chayimāni, bhikkhave, abhabbaṭṭhānāni. Katamāni cha? Abhabbo diṭṭhisampanno puggalo kañci saṅkhāraṁ niccato upagantuṁ, abhabbo diṭṭhisampanno puggalo kañci saṅkhāraṁ sukhato upagantuṁ, abhabbo diṭṭhisampanno puggalo kañci dhammaṁ attato upagantuṁ, abhabbo diṭṭhisampanno puggalo ānantariyaṁ kammaṁ kātuṁ, abhabbo diṭṭhisampanno puggalo kotūhalamaṅgalena suddhiṁ paccāgantuṁ, abhabbo diṭṭhisampanno puggalo ito bahiddhā dakkhiṇeyyaṁ gavesituṁ. Imāni kho, bhikkhave, cha abhabbaṭṭhānānī"ti.
 

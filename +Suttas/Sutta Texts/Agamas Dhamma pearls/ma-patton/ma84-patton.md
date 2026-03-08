@@ -33,9 +33,9 @@ language: "English"
 
 8. Once the Bhagavān had taught Dharma for that crowd of Licchavis and encouraged, roused, and made them rejoice, they rose from their seats, bowed their heads at the Buddha’s feet, circled him three times, and departed.
 
-9. Not long after those Licchavis had departed, the Bhagavān asked the monks, “Where did the elder and senior great disciples go?”
+9. Not long after those Licchavis had departed, the Bhagavān asked the bhikkhus, “Where did the elder and senior great disciples go?”
 
-10. The monks said, “Bhagavān, the elder and senior great disciples heard those Licchavis use great spiritual abilities and the authority of the king to make an announcement: ‘Let’s leave Vaiśālī and go to the Buddha to offer support and pay homage to him.’ They thought, ‘Sound is the thorn for meditation. The Bhagavān also says that sound is the thorn for meditation. We ought to go to the Gośṛṅga Sal Grove and stay where there aren’t any disturbances. We’ll be secluded and alone there, staying in a quiet abode in a peaceful place, sitting in repose, and reflecting.’ Bhagavān, the elder and senior great disciples went there together.”
+10. The bhikkhus said, “Bhagavān, the elder and senior great disciples heard those Licchavis use great spiritual abilities and the authority of the king to make an announcement: ‘Let’s leave Vaiśālī and go to the Buddha to offer support and pay homage to him.’ They thought, ‘Sound is the thorn for meditation. The Bhagavān also says that sound is the thorn for meditation. We ought to go to the Gośṛṅga Sal Grove and stay where there aren’t any disturbances. We’ll be secluded and alone there, staying in a quiet abode in a peaceful place, sitting in repose, and reflecting.’ Bhagavān, the elder and senior great disciples went there together.”
 
 11. The Bhagavān sighed in admiration upon hearing this and said, “Good, good! Those elder and senior great disciples should say, ‘Sound is the thorn for meditation. The Bhagavān also says that sound is the thorn for meditation.’ Why is that?[5](#^ma84note05) ^ma84note05-ref
 
@@ -47,7 +47,7 @@ language: "English"
 
 15. “There are another three thorns: The thorn of desire, thorn of anger, and thorn of delusion. These three thorns have been eliminated by an arhat who has ended the contaminants. They’ve been recognized and their roots completely pulled out. They’ve been destroyed, never to grow again. This is the arhat’s lack of thorns, the arhat’s freedom from thorns, and the arhat’s lack of thorns and freedom from thorns.”
 
-16. This is what the Buddha said. Those monks who heard what the Buddha had taught rejoiced and approved.
+16. This is what the Buddha said. Those bhikkhus who heard what the Buddha had taught rejoiced and approved.
 
 ---
 

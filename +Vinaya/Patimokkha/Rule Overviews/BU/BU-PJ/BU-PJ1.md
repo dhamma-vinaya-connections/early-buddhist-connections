@@ -22,12 +22,12 @@ vin_severity:
   - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PJ1"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄   🌐 [[BU-PJ2]] ►
 
-# Monks - Parajika - Expulsion
+# bhikkhus - Parajika - Expulsion
 ##  - 
 ## BU-PJ1 - Methunadhamma - Sexual Intercourse
 
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-PJ1"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PJ1 | [[BNI-PJ1]] | Vin.3.1–3.40 |
 

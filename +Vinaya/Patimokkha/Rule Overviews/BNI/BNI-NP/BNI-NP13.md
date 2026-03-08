@@ -74,7 +74,7 @@ vin_gender-corr: "BU-NP1"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-NP13 | [[BU-NP1]] | Vin.4.243-4.257 |
 

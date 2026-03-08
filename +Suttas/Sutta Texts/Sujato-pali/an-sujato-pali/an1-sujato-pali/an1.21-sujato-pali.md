@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that, when it’s not developed like this, is as useless as the mind. An undeveloped mind is useless.”
+1“bhikkhus, I do not see a single thing that, when it’s not developed like this, is as useless as the mind. An undeveloped mind is useless.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ abhāvitaṁ akammaniyaṁ hoti yathayidaṁ, bhikkhave, cittaṁ. Cittaṁ, bhikkhave, abhāvitaṁ akammaniyaṁ hotī"ti.
 

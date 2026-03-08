@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five fatal wounds lead to a place of loss, to hell. What five? Murdering your mother or father or a perfected one; maliciously shedding the blood of a Realized One; and causing a schism in the Saṅgha. These five fatal wounds lead to a place of loss, to hell.”
+1“bhikkhus, these five fatal wounds lead to a place of loss, to hell. What five? Murdering your mother or father or a perfected one; maliciously shedding the blood of a Realized One; and causing a schism in the Saṅgha. These five fatal wounds lead to a place of loss, to hell.”
 
 1"Pañcime, bhikkhave, āpāyikā nerayikā parikuppā atekicchā. Katame pañca? Mātā jīvitā voropitā hoti, pitā jīvitā voropito hoti, arahaṁ jīvitā voropito hoti, tathāgatassa duṭṭhena cittena lohitaṁ uppāditaṁ hoti, saṅgho bhinno hoti. Ime kho, bhikkhave, pañca āpāyikā nerayikā parikuppā atekicchā"ti.
 

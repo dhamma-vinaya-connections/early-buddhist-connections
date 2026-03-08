@@ -47,7 +47,7 @@ parallels_partilal: ""
 > Who make much bad karma and make the true teaching disappear
 
 > [!info] Key Excerpts 
-> When a mendicant explains what is not the teaching as the teaching, and vice versa; what is not the training as the training, and vice versa; what was not spoken, practiced and prescribed by the realized one as spoken, practiced and prescribed  by the realized one and vice versa
+> When a bhikkhu explains what is not the teaching as the teaching, and vice versa; what is not the training as the training, and vice versa; what was not spoken, practiced and prescribed by the realized one as spoken, practiced and prescribed  by the realized one and vice versa
 > 
 > Those are acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans
 > 

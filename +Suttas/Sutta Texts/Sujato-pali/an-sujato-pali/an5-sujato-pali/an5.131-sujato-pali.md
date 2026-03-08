@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, possessing five factors a wheel-turning monarch wields power only in a principled manner. And this power cannot be undermined by any human enemy.
+1“bhikkhus, possessing five factors a wheel-turning monarch wields power only in a principled manner. And this power cannot be undermined by any human enemy.
 
 2What five? A wheel-turning monarch knows what is right, knows principle, knows moderation, knows the right time, and knows the assembly. A wheel-turning monarch who possesses these five factors wields power only in a principled manner. And this power cannot be undermined by any human enemy.
 

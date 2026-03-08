@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I declare these four kinds of deeds, having realized them with my own insight. What four?
+1“bhikkhus, I declare these four kinds of deeds, having realized them with my own insight. What four?
 
 1. There are dark deeds with dark results;
 2. bright deeds with bright results;

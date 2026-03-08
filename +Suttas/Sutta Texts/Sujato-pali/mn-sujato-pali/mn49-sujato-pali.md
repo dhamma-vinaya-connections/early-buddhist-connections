@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“At one time, mendicants, I was staying near Ukkaṭṭhā, in the Subhaga Forest at the root of a magnificent _sal_tree. Now at that time Baka the Brahmā had the following harmful misconception: ‘This is permanent, this is everlasting, this is eternal, this is whole, this is imperishable. For this is where there’s no being born, growing old, dying, passing away, or being reborn. And there’s no other escape beyond this.’
+2“At one time, bhikkhus, I was staying near Ukkaṭṭhā, in the Subhaga Forest at the root of a magnificent _sal_tree. Now at that time Baka the Brahmā had the following harmful misconception: ‘This is permanent, this is everlasting, this is eternal, this is whole, this is imperishable. For this is where there’s no being born, growing old, dying, passing away, or being reborn. And there’s no other escape beyond this.’
 
 Then I knew what Baka the Brahmā was thinking. As easily as a strong person would extend or contract their arm, I vanished from the Subhaga Forest and reappeared in that Brahmā realm.
 
@@ -30,20 +30,20 @@ Baka saw me coming off in the distance and said, ‘Come, good sir! Welcome, goo
 
 3When he had spoken, I said to him: ‘Alas, Baka the Brahmā is lost in ignorance! Alas, Baka the Brahmā is lost in ignorance! Because what is actually impermanent, not lasting, transient, incomplete, and perishable, he says is permanent, everlasting, eternal, complete, and imperishable. And where there is being born, growing old, dying, passing away, and being reborn, he says that there’s no being born, growing old, dying, passing away, or being reborn. And although there is another escape beyond this, he says that there’s no other escape beyond this.’
 
-4Then Māra the Wicked took possession of a member of Brahmā’s retinue and said this to me, ‘Mendicant, mendicant! Don’t attack this one! Don’t attack this one! For this is Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born.
+4Then Māra the Wicked took possession of a member of Brahmā’s retinue and said this to me, ‘bhikkhu, bhikkhu! Don’t attack this one! Don’t attack this one! For this is Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, the Begetter, the Controller, the Father of those who have been born and those yet to be born.
 
-There have been ascetics and brahmins before you, mendicant, who criticized and loathed earth, water, air, fire, creatures, gods, the Creator, and Brahmā. When their bodies broke up and their breath was cut off they were reborn in a lower realm.
+There have been ascetics and brahmins before you, bhikkhu, who criticized and loathed earth, water, air, fire, creatures, gods, the Creator, and Brahmā. When their bodies broke up and their breath was cut off they were reborn in a lower realm.
 
-There have been ascetics and brahmins before you, mendicant, who praised and approved earth, water, air, fire, creatures, gods, the Creator, and Brahmā. When their bodies broke up and their breath was cut off they were reborn in a higher realm.
+There have been ascetics and brahmins before you, bhikkhu, who praised and approved earth, water, air, fire, creatures, gods, the Creator, and Brahmā. When their bodies broke up and their breath was cut off they were reborn in a higher realm.
 
-So, mendicant, I tell you this: please, good sir, do exactly what Brahmā says. Don’t go beyond the word of Brahmā. If you do, then the consequence for you will be like that of a person who, when Lady Luck approaches, wards her off with a staff, or someone who shoves away the ground as they fall down the chasm into hell. Please, dear sir, do exactly what Brahmā says. Don’t go beyond the word of Brahmā. Do you not see the assembly of Brahmā gathered here?’
+So, bhikkhu, I tell you this: please, good sir, do exactly what Brahmā says. Don’t go beyond the word of Brahmā. If you do, then the consequence for you will be like that of a person who, when Lady Luck approaches, wards her off with a staff, or someone who shoves away the ground as they fall down the chasm into hell. Please, dear sir, do exactly what Brahmā says. Don’t go beyond the word of Brahmā. Do you not see the assembly of Brahmā gathered here?’
 
 
 And that is how Māra the Wicked presented the assembly of Brahmā to me as an example.
 
 5When he had spoken, I said to Māra, ‘I know you, Wicked One. Do not think: “He does not know me.” You are Māra the Wicked. And Brahmā, Brahmā’s assembly, and Brahmā’s retinue have all fallen into your hands; they’re under your sway. And you think: “Maybe this one, too, has fallen into my hands; maybe he’s under my sway!” But I haven’t fallen into your hands; I’m not under your sway.’
 
-6When I had spoken, Baka the Brahmā said to me, ‘But, good sir, what I say is permanent, everlasting, eternal, complete, and imperishable is in fact permanent, everlasting, eternal, complete, and imperishable. And where I say there’s no being born, growing old, dying, passing away, or being reborn there is in fact no being born, growing old, dying, passing away, or being reborn. And when I say there’s no other escape beyond this there is in fact no other escape beyond this. There have been ascetics and brahmins in the world before you, mendicant, whose self-mortification lasted as long as your entire life. When there was another escape beyond this they knew it, and when there was no other escape beyond this, they knew it. So, mendicant, I tell you this: you will never find another escape beyond this, and you will eventually get weary and frustrated. If you attach to earth, you will lie close to me, in my domain, vulnerable and expendable. If you attach to water … fire … air … creatures … gods … the Creator … Brahmā, you will lie close to me, in my domain, vulnerable and expendable.’
+6When I had spoken, Baka the Brahmā said to me, ‘But, good sir, what I say is permanent, everlasting, eternal, complete, and imperishable is in fact permanent, everlasting, eternal, complete, and imperishable. And where I say there’s no being born, growing old, dying, passing away, or being reborn there is in fact no being born, growing old, dying, passing away, or being reborn. And when I say there’s no other escape beyond this there is in fact no other escape beyond this. There have been ascetics and brahmins in the world before you, bhikkhu, whose self-mortification lasted as long as your entire life. When there was another escape beyond this they knew it, and when there was no other escape beyond this, they knew it. So, bhikkhu, I tell you this: you will never find another escape beyond this, and you will eventually get weary and frustrated. If you attach to earth, you will lie close to me, in my domain, vulnerable and expendable. If you attach to water … fire … air … creatures … gods … the Creator … Brahmā, you will lie close to me, in my domain, vulnerable and expendable.’
 
 7‘Brahmā, I too know that if I attach to earth, I will lie close to you, in your domain, vulnerable and expendable. If I attach to water … fire … air … creatures … gods … the Creator … Brahmā, I will lie close to you, in your domain, vulnerable and expendable. And in addition, Brahmā, I understand your range and your light: “That’s how powerful is Baka the Brahmā, how illustrious and mighty.”’
 
@@ -101,11 +101,11 @@ and didn’t grasp at relishing.’
 
 19Then Māra the Wicked took possession of a member of Brahmā’s retinue and said this to me, ‘If such is your understanding, good sir, do not present it to your disciples or those gone forth! Do not teach this Dhamma to your disciples or those gone forth! Do not wish this for your disciples or those gone forth!
 
-There have been ascetics and brahmins before you, mendicant, who claimed to be perfected ones, fully awakened Buddhas. They presented, taught, and wished this for their disciples and those gone forth. When their bodies broke up and their breath was cut off they were reborn in a lower realm.
+There have been ascetics and brahmins before you, bhikkhu, who claimed to be perfected ones, fully awakened Buddhas. They presented, taught, and wished this for their disciples and those gone forth. When their bodies broke up and their breath was cut off they were reborn in a lower realm.
 
-But there have also been other ascetics and brahmins before you, mendicant, who claimed to be perfected ones, fully awakened Buddhas. They did not present, teach, or wish this for their disciples and those gone forth. When their bodies broke up and their breath was cut off they were reborn in a higher realm.
+But there have also been other ascetics and brahmins before you, bhikkhu, who claimed to be perfected ones, fully awakened Buddhas. They did not present, teach, or wish this for their disciples and those gone forth. When their bodies broke up and their breath was cut off they were reborn in a higher realm.
 
-So, mendicant, I tell you this: please, good sir, remain passive, dwelling in blissful meditation in the present life, for this is better left unsaid. Good sir, do not instruct others.’
+So, bhikkhu, I tell you this: please, good sir, remain passive, dwelling in blissful meditation in the present life, for this is better left unsaid. Good sir, do not instruct others.’
 
 
 20When he had spoken, I said to Māra, ‘I know you, Wicked One. Do not think: “He doesn’t know me.” You are Māra the Wicked. You don’t speak to me like this out of compassion, but with no compassion. For you think: “Those who the ascetic Gotama teaches will go beyond my reach.”

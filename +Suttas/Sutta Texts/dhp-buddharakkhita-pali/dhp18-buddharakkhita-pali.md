@@ -33,7 +33,7 @@ language: "Pali"
 
 242Unchastity is the taint in a woman; niggardliness is the taint in a giver. Taints, indeed, are all evil things, both in this world and the next.
 
-243A worse taint than these is ignorance, the worst of all taints. Destroy this one taint and become taintless, O monks!
+243A worse taint than these is ignorance, the worst of all taints. Destroy this one taint and become taintless, O bhikkhus!
 
 244Easy is life for the shameless one who is impudent as a crow, is backbiting and forward, arrogant and corrupt.
 

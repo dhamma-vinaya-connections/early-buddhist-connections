@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“These two things, mendicants, are dark. What two? Lack of conscience and prudence. These are the two things that are dark.”"
+1“These two things, bhikkhus, are dark. What two? Lack of conscience and prudence. These are the two things that are dark.”"
 
 1"Dveme, bhikkhave, dhammā kaṇhā. Katame dve? Ahirikañca anottappañca. Ime kho, bhikkhave, dve dhammā kaṇhā"ti.
 

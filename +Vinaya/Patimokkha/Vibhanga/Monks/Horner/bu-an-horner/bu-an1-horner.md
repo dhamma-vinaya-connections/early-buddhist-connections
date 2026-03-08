@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
 > ◄  [[BU-SS13]] 📜  [[bu-an2-horner]] ►
 
-# Monks’ Undetermined (_Aniyata_) 1
+# bhikkhus’ Undetermined (_Aniyata_) 1
 
 *BD.1.330* *Bu-An.1.1.1* At one time the enlightened one, the lord, was staying at Sāvatthī in Anāthapiṇḍika’s park in the Jeta Grove. At that time the venerable Udāyin was dependent on families in Sāvatthī and approached many families. Now at that time the young girl of a family who was supporting the venerable Udāyin had been given (in marriage) to a boy of a certain family. Then the venerable Udāyin, getting up early and taking his bowl and robe; approached that family, and having approached them he asked the people:
 
@@ -25,29 +25,29 @@ Now at that time Visākhā, Migāra’s mother, had many children and many grand
 
 “This is not proper, honoured sir, it is not suitable that the master should sit together with women-folk, a man and a woman, in a secret place on a secluded, convenient seat. *Vin.3.188* Although, honoured sir, the master has no desire for that thing,[^8] unbelieving people are difficult to convince.”[^9]
 
-But the venerable Udāyin took no heed after he had been spoken to thus by Visākhā. Then Visākhā, when she had departed, told this matter to the monks. Those who were modest monks became annoyed, vexed, angry and said:
+But the venerable Udāyin took no heed after he had been spoken to thus by Visākhā. Then Visākhā, when she had departed, told this matter to the bhikkhus. Those who were modest bhikkhus became annoyed, vexed, angry and said:
 
-“How can the venerable Udāyin sit together with womenfolk, a man and a woman, in a secret place on a secluded, convenient seat?” And these monks told this matter to the lord. He said:
+“How can the venerable Udāyin sit together with womenfolk, a man and a woman, in a secret place on a secluded, convenient seat?” And these bhikkhus told this matter to the lord. He said:
 
 “Is it true, as is said, Udāyin, that you sat together with womenfolk, a man and a woman, in a secret place on a secluded, convenient seat?”
 
 “It is true, lord,” he said.
 
-The enlightened one, the lord, rebuked him, saying: “How can you, foolish man, sit together with womenfolk, a man with a woman, in a secret place on a secluded, convenient seat? It is not, foolish man, for the benefit of unbelievers … And thus, monks, this course of training should be set forth:
+The enlightened one, the lord, rebuked him, saying: “How can you, foolish man, sit together with womenfolk, a man with a woman, in a secret place on a secluded, convenient seat? It is not, foolish man, for the benefit of unbelievers … And thus, bhikkhus, this course of training should be set forth:
 
-“Whatever monk should sit down together with a *BD.1.332* woman, the one with the other, in a secret place on a secluded, convenient seat, and if a trustworthy[^10] woman lay-follower seeing him should speak concerning a certain one of three matters: either one involving defeat,[^11] or one entailing a formal meeting of the Order,[^12] or one involving expiation,[^13] and the monk himself acknowledging that he was sitting down, should be dealt with according to a certain one of three matters: as to whether it is one involving defeat, or as to whether it is one entailing a formal meeting of the Order, or as to whether it is one involving expiation. Or that monk should be dealt with according to what that trustworthy woman lay-follower should say. This is an undetermined matter.”[^14]
+“Whatever bhikkhu should sit down together with a *BD.1.332* woman, the one with the other, in a secret place on a secluded, convenient seat, and if a trustworthy[^10] woman lay-follower seeing him should speak concerning a certain one of three matters: either one involving defeat,[^11] or one entailing a formal meeting of the Order,[^12] or one involving expiation,[^13] and the bhikkhu himself acknowledging that he was sitting down, should be dealt with according to a certain one of three matters: as to whether it is one involving defeat, or as to whether it is one entailing a formal meeting of the Order, or as to whether it is one involving expiation. Or that bhikkhu should be dealt with according to what that trustworthy woman lay-follower should say. This is an undetermined matter.”[^14]
 
 * * *
 
 *Bu-An.1.2.1* Whatever means: he who …
 
-Monk means: this is how monk is to be understood in this sense.
+bhikkhu means: this is how bhikkhu is to be understood in this sense.
 
 Woman means: a human woman, not a female _yakkha_, not a female departed one, not a female animal, even a girl born on this very day, much more an older one.[^15]
 
 Together with means: together.[^16]
 
-A man with a woman[^17] means: there is a monk and also a woman.
+A man with a woman[^17] means: there is a bhikkhu and also a woman.
 
 A secret place means: secret from the eye, secret from the ear. Secret from the eye means: if covering the eye or raising the eyebrow or raising the head he is unable to see. Secret from the ear means: he is unable to hear ordinary speech.
 
@@ -55,7 +55,7 @@ A secluded seat means: it is secluded by a wall built of wattle and daub, or by 
 
 *BD.1.333* Convenient means: it is possible to indulge in sexual intercourse.
 
-Should sit down means: when the woman is sitting the monk is sitting or lying close to her; when the monk is sitting the woman is sitting or lying close to him; both are sitting, or both are lying.
+Should sit down means: when the woman is sitting the bhikkhu is sitting or lying close to her; when the bhikkhu is sitting the woman is sitting or lying close to him; both are sitting, or both are lying.
 
 Trustworthy means: (a woman who) has attained the fruit,[^19] one who possesses complete understanding,[^20] one who has learned the teaching.
 
@@ -65,7 +65,7 @@ Seeing means: seeing.[^21]
 
 * * *
 
-*Bu-An.1.2.2* Should speak concerning a certain one of three matters: either one involving defeat, or one entailing a formal meeting of the Order, or one involving expiation, and the monk himself acknowledging that he was sitting down, should be dealt with according to a certain one of three matters: as to whether it is one involving defeat, or as to whether it is one entailing a formal meeting of the Order, or as to whether it is one involving expiation. Or that monk should be dealt with according to what that trustworthy woman lay-follower should say.
+*Bu-An.1.2.2* Should speak concerning a certain one of three matters: either one involving defeat, or one entailing a formal meeting of the Order, or one involving expiation, and the bhikkhu himself acknowledging that he was sitting down, should be dealt with according to a certain one of three matters: as to whether it is one involving defeat, or as to whether it is one entailing a formal meeting of the Order, or as to whether it is one involving expiation. Or that bhikkhu should be dealt with according to what that trustworthy woman lay-follower should say.
 
 If she should say this: “The master was seen by me sitting and indulging in sexual intercourse with a woman,” and if he acknowledges this, he should be dealt with for an offence.
 
@@ -103,7 +103,7 @@ Told is the First Undetermined Offence
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

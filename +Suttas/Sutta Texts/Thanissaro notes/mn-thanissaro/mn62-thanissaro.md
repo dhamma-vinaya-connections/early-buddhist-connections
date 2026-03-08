@@ -65,7 +65,7 @@ Then Ven. Rāhula, emerging from his seclusion in the evening, went to the Bless
 
 “And how, Rāhula, is mindfulness of in-&-out breathing developed & pursued so as to be of great fruit, of great benefit?
 
-“There is the case where a monk, having gone to the wilderness, to the shade of a tree, or to an empty building, sits down folding his legs crosswise, holding his body erect, and establishing mindfulness to the fore.[3](#^mn62note03) Always mindful, he breathes in; mindful he breathes out. ^mn62note03-ref
+“There is the case where a bhikkhu, having gone to the wilderness, to the shade of a tree, or to an empty building, sits down folding his legs crosswise, holding his body erect, and establishing mindfulness to the fore.[3](#^mn62note03) Always mindful, he breathes in; mindful he breathes out. ^mn62note03-ref
 
 “[1] Breathing in long, he discerns, ‘I am breathing in long’; or breathing out long, he discerns, ‘I am breathing out long.’ [2] Or breathing in short, he discerns, ‘I am breathing in short’; or breathing out short, he discerns, ‘I am breathing out short.’ [3] He trains himself, ‘I will breathe in sensitive to the entire body.’ He trains himself, ‘I will breathe out sensitive to the entire body.’ [4] He trains himself, ‘I will breathe in calming bodily fabrication.’ He trains himself, ‘I will breathe out calming bodily fabrication.’
 

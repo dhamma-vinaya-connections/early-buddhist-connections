@@ -110,7 +110,7 @@ Hearing this, Venerable Śāriputra praised him, “Good! Good, Venerable Mahāk
 
 ^ma29note01
 1. For the source text, cf. [T26.1.461b22-4b16]. Its direct parallel is [MN 9], and similar texts include [[Clean Files 3/bodhi/AN_flat/AN9/AN9.13]] and [SĀ 344]. There is also a Sanskrit parallel titled the Dṛṣṭisampannasūtra (cf. [SF 172]).  
-    In MN 9, this discourse is a lecture given by Sāriputta to an assembly of monks, but otherwise the content is very similar. 
+    In MN 9, this discourse is a lecture given by Sāriputta to an assembly of bhikkhus, but otherwise the content is very similar. 
 
 [↩︎](#^ma29note01-ref)
 

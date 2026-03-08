@@ -29,7 +29,7 @@ Morality, samādhi, Wisdom
 
 ‘Well, Reverend Ananda, what is the division of Ariyan morality which the Reverend Gotama praised ... ?’
 
-1.7 — 29. ‘Young sir, a Tathāgata arises in the world, an Arahant, fully-enlightened Buddha, endowed with wisdom and conduct, Well-Farer, Knower of the worlds, incomparable Trainer of men to be tamed, Teacher of gods and humans, enlightened and blessed. He, having realised it by his own super-knowledge, proclaims this world with its devas, māras and Brahmās, its princes and people. He preaches the Dhamma which is lovely in its beginning, lovely in its middle, lovely in its ending, in the spirit and in the letter, and displays the fully-perfected and purified holy life. A disciple goes forth and practises the moralities, etc. (Sutta 2, verses 41 — 63). Thus a monk is perfected in morality.
+1.7 — 29. ‘Young sir, a Tathāgata arises in the world, an Arahant, fully-enlightened Buddha, endowed with wisdom and conduct, Well-Farer, Knower of the worlds, incomparable Trainer of men to be tamed, Teacher of gods and humans, enlightened and blessed. He, having realised it by his own super-knowledge, proclaims this world with its devas, māras and Brahmās, its princes and people. He preaches the Dhamma which is lovely in its beginning, lovely in its middle, lovely in its ending, in the spirit and in the letter, and displays the fully-perfected and purified holy life. A disciple goes forth and practises the moralities, etc. (Sutta 2, verses 41 — 63). Thus a bhikkhu is perfected in morality.
 
 1.30. ‘That is the division of Ariyan morality which the Lord praised... But something more remains to be done.’ ‘It is wonderful, Reverend Ananda, it is marvellous! This division of Ariyan morality is perfectly fulfilled, not left incomplete. And I do not see this division of Ariyan morality \[207\] fulfilled thus anywhere among the ascetics and Brahmins of other schools. And if any of them were to have found this perfection in themselves, they would have been so delighted that they would have said: “We’ve done enough! The goal of our asceticism has been reached! There’s nothing more to be done!” And yet the Reverend Ananda declares that there is more to be done!’
 
@@ -41,7 +41,7 @@ Morality, samādhi, Wisdom
 
 2.1. ‘Reverend Ananda, what is the division of Ariyan samādhi which the Reverend Gotama praised... ?’
 
-2.2 — 18. ‘And how is a monk guardian of the sense-doors? He guards the sense-doors and attains the four jhānas (Sutta 2, verses 64 — 82). This comes to him through samādhi. \[208\]
+2.2 — 18. ‘And how is a bhikkhu guardian of the sense-doors? He guards the sense-doors and attains the four jhānas (Sutta 2, verses 64 — 82). This comes to him through samādhi. \[208\]
 
 2.19. ‘That is the division of Ariyan samādhi which the Lord praised ... But something more remains to be done.’ ‘It is wonderful, Reverend Ananda, it is marvellous! This division of Ariyan samādhi is perfectly fulfilled, not left incomplete. And I do not see this division of Ariyan samādhi fulfilled thus anywhere among the ascetics and Brahmins of other schools. And if any of them were to have found this perfection in themselves, they would have been so delighted that they would have said: “We’ve done enough! The goal of our asceticism has been reached! There’s nothing more to be done!” And yet the Reverend Ananda declares that there is more to be done!’
 

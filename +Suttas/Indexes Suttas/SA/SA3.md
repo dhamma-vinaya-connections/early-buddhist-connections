@@ -36,7 +36,7 @@ contribution:
 >  The Buddha  describes four factors to which the mind habitually clings. Those who succeed in abandoning passion for these "nutriments" can realize the cessation of birth, aging, and death
 
 > [!example]- 🌐[[SA292]] - 📜[Available texts](obsidian://search?query=file:sa292-) - SA 3.10 – Thinking and Examining 
->  A mendicant should thoroughly investigate the causes of suffering in accordance with dependent origination. If someone who still has ignorance makes a choice, their consciousness fares on to a suitable state of existence. But one who has eradicated ignorance is detached and is not reborn anywhere.
+>  A bhikkhu should thoroughly investigate the causes of suffering in accordance with dependent origination. If someone who still has ignorance makes a choice, their consciousness fares on to a suitable state of existence. But one who has eradicated ignorance is detached and is not reborn anywhere.
 
 > [!example]- 🌐[[SA293]] - 📜[Available texts](obsidian://search?query=file:sa293-) - SA 3.11 – Beyond Doubt 
 >  We bounce from one birth to the next, as a thrown stick bounces along the ground
@@ -51,7 +51,7 @@ contribution:
 >  The Buddha  explains that when dependent co-arising is clearly seen and understood, wrong views and confusion disappear.
 
 > [!example]- 🌐[[SA297]] - 📜[Available texts](obsidian://search?query=file:sa297-) - SA 3.15 – The Great Discourse on the Emptiness of Dharmas 
->  A mendicant asks who possesses old and death, and the other factors. The Buddha  says the question is improper, as it assumes a self as agent. Rather, dependent origination is the teaching “by the middle”, explaining phenomena according to natural conditions
+>  A bhikkhu asks who possesses old and death, and the other factors. The Buddha  says the question is improper, as it assumes a self as agent. Rather, dependent origination is the teaching “by the middle”, explaining phenomena according to natural conditions
 
 > [!example]- 🌐[[SA299]] - 📜[Available texts](obsidian://search?query=file:sa299-) - SA 3.17 – The Dharma of Conditioned Arising 
 >  

@@ -96,25 +96,25 @@ contribution:
 >  They come under the power of the King of Death.
 
 > [!example]- 🌐[[UD2.9]] - 📜[Available texts](obsidian://search?query=file:ud2.9-) - Visakha Sutta – Visākhā 
->  A former king, now monk, exclaims over the bliss of solitude
+>  A former king, now bhikkhu, exclaims over the bliss of solitude
 
 > [!example]- 🌐[[UD2.10]] - 📜[Available texts](obsidian://search?query=file:ud2.10-) - Bhadiya Kaligodha Sutta – Bhaddiya 
->  A former king, now monk, exclaims over the bliss of solitude
+>  A former king, now bhikkhu, exclaims over the bliss of solitude
 ### UD3 - Nandavagga - With Nanda
 > [!example]- 🌐[[UD3.1]] - 📜[Available texts](obsidian://search?query=file:ud3.1-) - Kamma Sutta – Former Action/Action 
->  A mendicant who has left all deeds behind, 
+>  A bhikkhu who has left all deeds behind, 
 >  shaking off the dust of past deeds, 
 >  unselfish, steady, poised, 
 >  has no need to complain.”
 
 > [!example]- 🌐[[UD3.2]] - 📜[Available texts](obsidian://search?query=file:ud3.2-) - Nanda Sutta – Nanda 
->  A mendicant who has left all deeds behind, 
+>  A bhikkhu who has left all deeds behind, 
 >  shaking off the dust of past deeds, 
 >  unselfish, steady, poised, 
 >  has no need to complain.”
 
 > [!example]- 🌐[[UD3.3]] - 📜[Available texts](obsidian://search?query=file:ud3.3-) - Yasoja Sutta – Yasoja 
->  A mendicant who has left all deeds behind, 
+>  A bhikkhu who has left all deeds behind, 
 >  shaking off the dust of past deeds, 
 >  unselfish, steady, poised, 
 >  has no need to complain.”
@@ -123,34 +123,34 @@ contribution:
 >  As a rocky mountain 
 >  is unwavering and well grounded, 
 >  so when delusion ends, 
->  a monk, like a mountain, doesn’t tremble
+>  a bhikkhu, like a mountain, doesn’t tremble
 
 > [!example]- 🌐[[UD3.5]] - 📜[Available texts](obsidian://search?query=file:ud3.5-) - Kolita Sutta – Mahā Moggallāna 
 >  As a rocky mountain 
 >  is unwavering and well grounded, 
 >  so when delusion ends, 
->  a monk, like a mountain, doesn’t tremble
+>  a bhikkhu, like a mountain, doesn’t tremble
 
 > [!example]- 🌐[[UD3.6]] - 📜[Available texts](obsidian://search?query=file:ud3.6-) - Pilindivaccha Sutta – Pilinda 
 >  As a rocky mountain 
 >  is unwavering and well grounded, 
 >  so when delusion ends, 
->  a monk, like a mountain, doesn’t tremble
+>  a bhikkhu, like a mountain, doesn’t tremble
 
 > [!example]- 🌐[[UD3.7]] - 📜[Available texts](obsidian://search?query=file:ud3.7-) - Kassapa Sutta – Kassapa 
->  A mendicant who relies on alms, 
+>  A bhikkhu who relies on alms, 
 >  self-supported, providing for no other; 
 >  the poised one is envied by even the gods, 
 >  calm and ever mindful.
 
 > [!example]- 🌐[[UD3.8]] - 📜[Available texts](obsidian://search?query=file:ud3.8-) - Pindapatika Sutta – Alms 
->  A mendicant who relies on alms, 
+>  A bhikkhu who relies on alms, 
 >  self-supported, providing for no other; 
 >  the poised one is envied by even the gods, 
 >  calm and ever mindful.
 
 > [!example]- 🌐[[UD3.9]] - 📜[Available texts](obsidian://search?query=file:ud3.9-) - Sippa Sutta – Crafts 
->  A mendicant who relies on alms, 
+>  A bhikkhu who relies on alms, 
 >  self-supported, providing for no other; 
 >  the poised one is envied by even the gods, 
 >  calm and ever mindful.
@@ -162,10 +162,10 @@ contribution:
 >  it turns out to be something else
 ### UD4 - Meghiyavagga - With Meghiya
 > [!example]- 🌐[[UD4.1]] - 📜[Available texts](obsidian://search?query=file:ud4.1-) - Meghiya Sutta – Meghiya 
->  A monk leaves the Buddha to go into solitude, only to find his mind overcome by unskillful thoughts
+>  A bhikkhu leaves the Buddha to go into solitude, only to find his mind overcome by unskillful thoughts
 
 > [!example]- 🌐[[UD4.2]] - 📜[Available texts](obsidian://search?query=file:ud4.2-) - Uddhata Sutta – High Strung 
->  A monk leaves the Buddha to go into solitude, only to find his mind overcome by unskillful thoughts
+>  A bhikkhu leaves the Buddha to go into solitude, only to find his mind overcome by unskillful thoughts
 
 > [!example]- 🌐[[UD4.3]] - 📜[Available texts](obsidian://search?query=file:ud4.3-) - Gopala Sutta – The Cowherd 
 >  A developed mind is not affect even by hard blows
@@ -219,7 +219,7 @@ contribution:
 >  would shun bad deeds.
 
 > [!example]- 🌐[[UD5.5]] - 📜[Available texts](obsidian://search?query=file:ud5.5-) - Uposatha Sutta – The Observance Day/Uposatha 
->  Ven. Mahā Moggallāna expels a sham monk from a meeting of the Sangha
+>  Ven. Mahā Moggallāna expels a sham bhikkhu from a meeting of the Sangha
 
 > [!example]- 🌐[[UD5.6]] - 📜[Available texts](obsidian://search?query=file:ud5.6-) - Sona Sutta – Soṇa 
 >  Seeing the danger of the world, 

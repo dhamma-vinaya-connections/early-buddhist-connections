@@ -26,7 +26,7 @@ Now at that time the householder Anāthapiṇḍika was sick, suffering, gravely
 2“Yes, sir,” that man replied. He did as Anāthapiṇḍika asked. Sāriputta consented in silence.
 
 
-3Then Venerable Sāriputta put on his outer robe in the morning and, taking his bowl and robe, went with Venerable Ānanda as his second monk to Anāthapiṇḍika’s home. He sat down on the seat spread out, and said to Anāthapiṇḍika: “Householder, I hope you’re keeping well; I hope you’re alright. And I hope the pain is fading, not growing, that its fading is evident, not its growing.”
+3Then Venerable Sāriputta put on his outer robe in the morning and, taking his bowl and robe, went with Venerable Ānanda as his second bhikkhu to Anāthapiṇḍika’s home. He sat down on the seat spread out, and said to Anāthapiṇḍika: “Householder, I hope you’re keeping well; I hope you’re alright. And I hope the pain is fading, not growing, that its fading is evident, not its growing.”
 
 4“I’m not keeping well, Master Sāriputta, I’m not alright. The pain is terrible and growing, not fading, its growing, not its fading, is evident. The winds piercing my head are so severe, it feels like a strong man drilling into my head with a sharp point. The pain in my head is so severe, it feels like a strong man tightening a tough leather strap around my head. The winds piercing my belly are so severe, it feels like a deft butcher or their apprentice is slicing my belly open with a meat cleaver. The burning in my body is so severe, it feels like two strong men grabbing a weaker man by the arms to burn and scorch him on a pit of glowing coals. That’s how severe the burning is in my body. I’m not keeping well, Master Sāriputta, I’m not alright. The pain is terrible and growing, not fading, its growing, not its fading, is evident.”
 
@@ -66,7 +66,7 @@ You should train like this: ‘I shall not grasp the other world, and there shal
 
 14When he said this, Anāthapiṇḍika cried and burst out in tears. Venerable Ānanda said to him: “Are you failing, householder? Are you fading, householder?”
 
-“No, sir. But for a long time I have paid homage to the Buddha and the esteemed mendicants. Yet I have never before heard such a Dhamma talk.”
+“No, sir. But for a long time I have paid homage to the Buddha and the esteemed bhikkhus. Yet I have never before heard such a Dhamma talk.”
 
 “Householder, it does not occur to us to teach such a Dhamma talk to white-clothed laypeople. Rather, we teach like this to those gone forth.”
 
@@ -94,14 +94,14 @@ and thus be purified in it.
 
 19Sāriputta has true wisdom,  
 ethics, and also peace.  
-Any mendicant who has crossed over  
+Any bhikkhu who has crossed over  
 can at best equal him.”
 
 
 20This is what the god Anāthapiṇḍika said, and the teacher approved. Then the god Anāthapiṇḍika, knowing that the teacher approved, bowed and respectfully circled the Buddha, keeping him on his right, before vanishing right there.
 
 
-21-26Then, when the night had passed, the Buddha told the mendicants all that had happened.
+21-26Then, when the night had passed, the Buddha told the bhikkhus all that had happened.
 
 
 27When he had spoken, Venerable Ānanda said to the Buddha:

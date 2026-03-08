@@ -18,34 +18,34 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six traveled by arrangement with nuns. People complained and criticized them, “Just as we walk about with our wives, so these Sakyan monastics walk about by arrangement with nuns.”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six traveled by arrangement with nuns. People complained and criticized them, “Just as we walk about with our wives, so these Sakyan monastics walk about by arrangement with nuns.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can the monks from the group of six travel by arrangement with the nuns?” … “Is it true, monks, that you do this?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can the bhikkhus from the group of six travel by arrangement with the nuns?” … “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 3‘If a monk travels by arrangement with a nun, even just to the next village, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5Soon afterwards a number of monks and nuns were traveling from Sāketa to Sāvatthī. The nuns said to the monks, “Let’s go together.”
+5Soon afterwards a number of bhikkhus and nuns were traveling from Sāketa to Sāvatthī. The nuns said to the bhikkhus, “Let’s go together.”
 
 “Sisters, it’s not allowable for us to travel by arrangement with nuns. Either you go first, or we will.”
 
 “You have the higher status, Venerables. Please go first.”
 
-But because the nuns went behind, they were robbed and raped by bandits. When they arrived at Sāvatthī, they told the nuns there what had happened. The nuns then told the monks, who in turn told the Buddha.
+But because the nuns went behind, they were robbed and raped by bandits. When they arrived at Sāvatthī, they told the nuns there what had happened. The nuns then told the bhikkhus, who in turn told the Buddha.
 
 
-6Soon afterwards the Buddha gave a teaching and addressed the monks:
+6Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to travel by arrangement with a nun if it’s a risky and dangerous road that should be traveled with a group.
+“bhikkhus, I allow you to travel by arrangement with a nun if it’s a risky and dangerous road that should be traveled with a group.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

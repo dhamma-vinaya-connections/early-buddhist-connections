@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Respect for the teacher, for the teaching, for the saṅgha, for the training; being easy to admonish, and good friendship
 > 
-> Personally respects the teacher and praises such respect. And They encourage other mendicants who lack such respect to respect the teacher. And They praise other mendicants who respect the teacher at the right time, truthfully and substantively
+> Personally respects the teacher and praises such respect. And They encourage other bhikkhus who lack such respect to respect the teacher. And They praise other bhikkhus who respect the teacher at the right time, truthfully and substantively
 > 
 
 

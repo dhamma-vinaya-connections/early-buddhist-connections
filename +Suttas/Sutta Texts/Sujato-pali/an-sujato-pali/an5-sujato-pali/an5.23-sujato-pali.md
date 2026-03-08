@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five corruptions of gold. When gold is corrupted by these it’s not pliable, workable, or radiant, but is brittle and not completely ready for working. What five? Iron, copper, tin, lead, and silver. When gold is corrupted by these five corruptions it’s not pliable, workable, or radiant, but is brittle and not completely ready for working.
+1“bhikkhus, there are these five corruptions of gold. When gold is corrupted by these it’s not pliable, workable, or radiant, but is brittle and not completely ready for working. What five? Iron, copper, tin, lead, and silver. When gold is corrupted by these five corruptions it’s not pliable, workable, or radiant, but is brittle and not completely ready for working.
 
 But when gold is free of these five corruptions it becomes pliable, workable, and radiant, not brittle, and ready to be worked. Then the goldsmith can successfully create any kind of ornament they want, whether a ring, earrings, a necklace, or a golden garland.
 

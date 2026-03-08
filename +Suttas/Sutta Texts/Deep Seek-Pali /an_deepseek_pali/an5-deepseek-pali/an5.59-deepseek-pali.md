@@ -12,7 +12,7 @@ language: "English - Pali"
 
 # AN 5.59 Paṭhamavuḍḍhapabbajitasuttaṃ
 
-## AN 5.59 The Discourse on the First Old Mendicant
+## AN 5.59 The Discourse on the First Old bhikkhu
 
 59. ‘‘Pañcahi, bhikkhave, dhammehi samannāgato dullabho vuḍḍhapabbajito. Katamehi pañcahi? Dullabho, bhikkhave, vuḍḍhapabbajito nipuṇo, dullabho ākappasampanno, dullabho bahussuto, dullabho dhammakathiko, dullabho vinayadharo. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato dullabho vuḍḍhapabbajito’’ti. Navamaṃ.
 

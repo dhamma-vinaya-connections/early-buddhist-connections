@@ -99,7 +99,7 @@ is no contemplative.
 
 He who mistreats another,
 
-no monk.
+no bhikkhu.
 
 Not disparaging, not injuring,
 

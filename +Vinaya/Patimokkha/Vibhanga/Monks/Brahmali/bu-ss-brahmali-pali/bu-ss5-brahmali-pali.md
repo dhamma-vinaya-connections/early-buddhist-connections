@@ -79,7 +79,7 @@ He replied, “When I first went, they just dismissed me. Go yourself; I’m not
 12But those women who were happy with their in-laws wished him well, saying, “May Venerable Udāyī be happy and well, just as we are happy and well because of our good mothers-in-law, fathers-in-law, and husbands.”
 
 
-13The monks heard that some women were criticizing him whereas others were wishing him well. And the monks of few desires complained and criticized him, “How could Venerable Udāyī act as a matchmaker?”
+13The bhikkhus heard that some women were criticizing him whereas others were wishing him well. And the bhikkhus of few desires complained and criticized him, “How could Venerable Udāyī act as a matchmaker?”
 
 14They told the Buddha. The Buddha had the Sangha gathered and questioned Udāyī:
 
@@ -89,12 +89,12 @@ He replied, “When I first went, they just dismissed me. Go yourself; I’m not
 “It’s true, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 15‘If a monk acts as a matchmaker, conveying a man’s intention to a woman or a woman’s intention to a man, for marriage or for an affair, he commits an offense entailing suspension.’”
 
-16In this way the Buddha laid down this training rule for the monks.
+16In this way the Buddha laid down this training rule for the bhikkhus.
 
 17Soon afterwards a number of scoundrels who were enjoying themselves in a park sent a messenger to a sex worker, saying, “Please come, let’s enjoy ourselves in the park.”
 
@@ -121,7 +121,7 @@ She told him why.
 Then that lay follower complained and criticized him, “How could Venerable Udāyī act as a matchmaker for a brief affair?”
 
 
-21The monks heard it, and the monks of few desires complained and criticized him, “How could Venerable Udāyī act as a matchmaker for a brief affair?”
+21The bhikkhus heard it, and the bhikkhus of few desires complained and criticized him, “How could Venerable Udāyī act as a matchmaker for a brief affair?”
 
 22They rebuked Udāyī in many ways and then told the Buddha. Soon afterwards he had the Sangha gathered and questioned Udāyī:
 
@@ -130,7 +130,7 @@ Then that lay follower complained and criticized him, “How could Venerable Ud�
 “It’s true, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And so, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -542,13 +542,13 @@ The whole successive permutation series is finished.
 178If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension. If he accepts the mission, and finds out the response, but does not report back, he commits a serious offense. If he accepts the mission, but does not find out the response, yet reports back, he commits a serious offense. If he accepts the mission, but neither finds out the response, nor reports back, he commits an offense of wrong conduct. If he does not accept the mission, yet finds out the response and reports back, he commits a serious offense. If he does not accept the mission, yet finds out the response, but does not report back, he commits an offense of wrong conduct. If he neither accepts the mission, nor finds out the response, yet reports back, he commits an offense of wrong conduct. If he does not accept the mission, nor finds out the response, nor reports back, there is no offense.
 
 
-179A man tells a number of monks, “Venerables, find out about such-and-such a woman.” If they all accept the mission, all find out the response, and all report back, they all commit an offense entailing suspension.
+179A man tells a number of bhikkhus, “Venerables, find out about such-and-such a woman.” If they all accept the mission, all find out the response, and all report back, they all commit an offense entailing suspension.
 
-180A man tells a number of monks, “Venerables, find out about such-and-such a woman.” If they all accept the mission, all find out the response, but only one reports back, they all commit an offense entailing suspension.
+180A man tells a number of bhikkhus, “Venerables, find out about such-and-such a woman.” If they all accept the mission, all find out the response, but only one reports back, they all commit an offense entailing suspension.
 
-181A man tells a number of monks, “Venerables, find out about such-and-such a woman.” If they all accept the mission, but only one finds out the response, yet all report back, they all commit an offense entailing suspension.
+181A man tells a number of bhikkhus, “Venerables, find out about such-and-such a woman.” If they all accept the mission, but only one finds out the response, yet all report back, they all commit an offense entailing suspension.
 
-182A man tells a number of monks, “Venerables, find out about such-and-such a woman.” If they all accept the mission, but only one finds out the response, and only one reports back, they all commit an offense entailing suspension.
+182A man tells a number of bhikkhus, “Venerables, find out about such-and-such a woman.” If they all accept the mission, but only one finds out the response, and only one reports back, they all commit an offense entailing suspension.
 
 183A man tells a monk, “Sir, find out about such-and-such a woman.” If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension.
 

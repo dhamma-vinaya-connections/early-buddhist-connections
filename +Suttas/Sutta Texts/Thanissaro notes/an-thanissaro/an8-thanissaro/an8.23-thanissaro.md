@@ -19,11 +19,11 @@ _On the surface, the qualities the Buddha attributes to Hatthaka in this sutta d
 
 * * *
 
-On one occasion the Blessed One was staying near Āḷavī at the Aggāḷava Shrine. There he addressed the monks: “Monks, remember Hatthaka of Āḷavī as being endowed with seven amazing, astounding qualities. Which seven? Monks, Hatthaka of Āḷavī is endowed with conviction. He is virtuous. He has a sense of shame. He has a sense of compunction. He is learned. He is generous. He is discerning. Remember Hatthaka of Āḷavī as being endowed with these seven amazing, astounding qualities.”
+On one occasion the Blessed One was staying near Āḷavī at the Aggāḷava Shrine. There he addressed the bhikkhus: “bhikkhus, remember Hatthaka of Āḷavī as being endowed with seven amazing, astounding qualities. Which seven? bhikkhus, Hatthaka of Āḷavī is endowed with conviction. He is virtuous. He has a sense of shame. He has a sense of compunction. He is learned. He is generous. He is discerning. Remember Hatthaka of Āḷavī as being endowed with these seven amazing, astounding qualities.”
 
 That is what the Blessed One said. Having said it, the One Well-Gone, getting up from his seat, went into his dwelling.
 
-Then early in the morning a certain monk, having adjusted his lower robe and carrying his bowl & outer robe, went to Hatthaka of Āḷavī’s home. On arrival, he sat down on a seat made ready. Then Hatthaka of Āḷavī approached the monk and, having bowed down to him, sat to one side. As he was sitting there the monk said to him, “Friend, the Blessed One has described you as being endowed with seven amazing, astounding qualities. Which seven? ‘Hatthaka of Āḷavī is endowed with conviction. He is virtuous. He has a sense of shame. He has a sense of compunction. He is learned. He is generous. He is discerning.’ Friend, the Blessed One has described you as being endowed with these seven amazing, astounding qualities.”
+Then early in the morning a certain bhikkhu, having adjusted his lower robe and carrying his bowl & outer robe, went to Hatthaka of Āḷavī’s home. On arrival, he sat down on a seat made ready. Then Hatthaka of Āḷavī approached the bhikkhu and, having bowed down to him, sat to one side. As he was sitting there the bhikkhu said to him, “Friend, the Blessed One has described you as being endowed with seven amazing, astounding qualities. Which seven? ‘Hatthaka of Āḷavī is endowed with conviction. He is virtuous. He has a sense of shame. He has a sense of compunction. He is learned. He is generous. He is discerning.’ Friend, the Blessed One has described you as being endowed with these seven amazing, astounding qualities.”
 
 “I hope, sir, that there were no white-clad householders there.”
 
@@ -31,9 +31,9 @@ Then early in the morning a certain monk, having adjusted his lower robe and car
 
 “It’s good, sir, that there were no white-clad householders there.”
 
-Then the monk, having received alms at Hatthaka of Āḷavī’s home, departed. After his meal, returning from his alms round, he went to the Blessed One. On arrival, having bowed down to the Blessed One, he sat to one side. As he was sitting there, he [told the Blessed One what had happened].
+Then the bhikkhu, having received alms at Hatthaka of Āḷavī’s home, departed. After his meal, returning from his alms round, he went to the Blessed One. On arrival, having bowed down to the Blessed One, he sat to one side. As he was sitting there, he [told the Blessed One what had happened].
 
-[The Blessed One replied:] “It’s good, monk, it’s very good that the clansman is modest and does not want others to know of the skillful qualities present in him. In that case, monk, remember Hatthaka of Āḷavī as being endowed with this eighth amazing, astounding quality: modesty.”
+[The Blessed One replied:] “It’s good, bhikkhu, it’s very good that the clansman is modest and does not want others to know of the skillful qualities present in him. In that case, bhikkhu, remember Hatthaka of Āḷavī as being endowed with this eighth amazing, astounding quality: modesty.”
 
 See also: [[an3.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.30-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.53-thanissaro]]
 

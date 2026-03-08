@@ -194,7 +194,7 @@ It ravages his bright fortune
 
 He would want unwarranted status,
 
-preeminence among monks,
+preeminence among bhikkhus,
 
 authority
 
@@ -231,7 +231,7 @@ the way to Unbinding,
 
 another.
 
-Realizing this, the monk,
+Realizing this, the bhikkhu,
 
 a disciple to the Awakened One,
 

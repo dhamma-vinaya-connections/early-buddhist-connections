@@ -66,7 +66,7 @@ It then occurred to him: “Let me go to the Blessed One.” Then the Venerable 
 
 “Yes, Bhante.”
 
-“If, with a mind of hatred, one had insulted and reviled these six teachers together with their communities of disciples, one would have generated much demerit. But if, with a mind of hatred, one reviles and insults a single person accomplished in view, one generates even more demerit. For what reason? I say, Brahmin Dhammika, there is no injury against outsiders like that against \[your\] fellow monks. Therefore, Brahmin Dhammika, you should train yourself thus: ‘We will not let hatred arise in our minds toward our fellow monks.’ Thus, Brahmin Dhammika, should you train yourself.” \[373\]
+“If, with a mind of hatred, one had insulted and reviled these six teachers together with their communities of disciples, one would have generated much demerit. But if, with a mind of hatred, one reviles and insults a single person accomplished in view, one generates even more demerit. For what reason? I say, Brahmin Dhammika, there is no injury against outsiders like that against \[your\] fellow bhikkhus. Therefore, Brahmin Dhammika, you should train yourself thus: ‘We will not let hatred arise in our minds toward our fellow bhikkhus.’ Thus, Brahmin Dhammika, should you train yourself.” \[373\]
 
 Sunetta, Mūgapakkha,
 

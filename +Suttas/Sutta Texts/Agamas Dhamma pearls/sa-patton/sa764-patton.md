@@ -19,11 +19,11 @@ language: "English"
 
 1. Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “Now, I will explain the cultivation of the noble eightfold path. Listen closely and consider it well.
+2. It was then that the Bhagavān addressed the bhikkhus, “Now, I will explain the cultivation of the noble eightfold path. Listen closely and consider it well.
 
-3. “What is the cultivation of the noble eightfold path? Here, a monk cultivates right view, relying on seclusion, the lack of desire, cessation, and an orientation towards renunciation … cultivates right intention … right speech … right action … right livelihood … right method … right mindfulness … right samādhi, relying on seclusion, the lack of desire, cessation, and an orientation towards renunciation. This is called cultivating the noble eightfold path.”
+3. “What is the cultivation of the ![[Noble Path]], relying on seclusion, the lack of desire, cessation, and an orientation towards renunciation. This is called cultivating the noble eightfold path.”
 
-4. After the Buddha spoke this sūtra, the monks who heard what the Buddha taught rejoiced and approved.
+4. After the Buddha spoke this sūtra, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

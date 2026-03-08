@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four kinds of confidence are the best. What four?
+1“bhikkhus, these four kinds of confidence are the best. What four?
 
 The Realized One, the perfected one, the fully awakened Buddha, is said to be the best of all sentient beings — be they footless, with two feet, four feet, or many feet; with form or formless; with perception or without perception or with neither perception nor non-perception. Those who have confidence in the Buddha have confidence in the best. Having confidence in the best, the result is the best.
 

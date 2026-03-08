@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five people are found in the world. What five?
+1“bhikkhus, these five people are found in the world. What five?
 
 One person violates and regrets it. And they don’t truly understand the freedom of heart and freedom by wisdom where those arisen bad, unskillful qualities cease without anything left over.
 
@@ -42,7 +42,7 @@ One person neither violates nor regrets. And they do understand where those aris
 
 9Take the case of the person who neither violates nor regrets. But they don’t understand… They should be told: ‘Venerable, the defilements born of violation are not found in you, and the defilements born of regret don’t grow. You would do well to develop the mind and wisdom. In this way you’ll become just like the fifth person.’
 
-10And so, mendicants, when these four people are advised and instructed by comparison with the fifth person, they gradually attain the ending of defilements.”
+10And so, bhikkhus, when these four people are advised and instructed by comparison with the fifth person, they gradually attain the ending of defilements.”
 
 1"Pañcime, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. Katame pañca?
 

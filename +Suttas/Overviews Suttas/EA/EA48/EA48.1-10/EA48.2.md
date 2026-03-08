@@ -49,7 +49,7 @@ parallels_partilal: "[[PLI-TV-KD19]], [[EA48.2]], [[MA37]], [[AN8.19]], [[UD5.5]
 > [!info] Key Excerpts 
 > Enlightenment comes from gradual training, discipline, saṅgha reject a person who is unethical, lose their former names and caste, nibbana never empties or fills u,   has one taste, the taste of freedom, has the awakening factors, awakened beings live in it
 > 
-> Seeing eight incredible and amazing things, mendicants, the mendicants love this teaching and training
+> Seeing eight incredible and amazing things, bhikkhus, the bhikkhus love this teaching and training
 > 
 
 > [!info] Similes

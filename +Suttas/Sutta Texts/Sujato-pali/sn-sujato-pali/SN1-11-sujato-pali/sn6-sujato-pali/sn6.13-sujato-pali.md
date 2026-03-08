@@ -40,7 +40,7 @@ free of fear, freed in the fearless.
 4Where dreadful serpents slither,  
 where the lightning flashes and the sky thunders  
 in the dark of the night;  
-there meditates a mendicant, free of goosebumps.
+there meditates a bhikkhu, free of goosebumps.
 
 5For this has in fact been seen by me,  
 it isn’t just what the testament says.  

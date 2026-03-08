@@ -15,7 +15,7 @@ language: "English"
 ## ## Nanda Sutta
 
 
-“Monks, speaking rightly of Nanda, one could say, ‘He is a son of a good family.’ Speaking rightly of Nanda, one could say, ‘He is strong.’ Speaking rightly of Nanda, one could say, ‘He is handsome.’ Speaking rightly of Nanda, one could say, ‘He is fiercely passionate.’ If Nanda did not guard the doors of his senses, did not know moderation in eating, was not devoted to wakefulness, and was not endowed with mindfulness & alertness, how would he be able to follow the holy life, perfect & pure?
+“bhikkhus, speaking rightly of Nanda, one could say, ‘He is a son of a good family.’ Speaking rightly of Nanda, one could say, ‘He is strong.’ Speaking rightly of Nanda, one could say, ‘He is handsome.’ Speaking rightly of Nanda, one could say, ‘He is fiercely passionate.’ If Nanda did not guard the doors of his senses, did not know moderation in eating, was not devoted to wakefulness, and was not endowed with mindfulness & alertness, how would he be able to follow the holy life, perfect & pure?
 
 “This is Nanda’s guarding of the doors of his senses: If he should look to the east, he looks focusing his entire awareness, (thinking,) ‘As I am looking thus to the east, greed & distress, evil unskillful qualities, will not flow out.’ That’s how he is alert there. If he should look to the west… the north… the south… above… below… to the intermediate directions, he looks focusing his entire awareness, (thinking,) ‘As I am looking thus to the intermediate directions, greed & distress, evil unskillful qualities, will not flow out.’ That’s how he is alert there. This is Nanda’s guarding of the doors of his senses.
 
@@ -25,7 +25,7 @@ language: "English"
 
 “This is Nanda’s being in mindfulness & alertness: There is the case where feelings are known to Nanda as they arise, known as they persist, known as they subside. Perceptions are known as they arise, known as they persist, known as they subside. Thoughts are known as they arise, known as they persist, known as they subside. This is Nanda’s being in mindfulness & alertness.
 
-“Monks, if Nanda did not guard the doors of his senses, did not know moderation in eating, was not devoted to wakefulness, and was not endowed with mindfulness & alertness, how would he be able to follow the holy life, perfect & pure?”
+“bhikkhus, if Nanda did not guard the doors of his senses, did not know moderation in eating, was not devoted to wakefulness, and was not endowed with mindfulness & alertness, how would he be able to follow the holy life, perfect & pure?”
 
 See also: [[sn47.35-thanissaro]]; [[an4.37-thanissaro]]; [[ud3.2-thanissaro]]
 

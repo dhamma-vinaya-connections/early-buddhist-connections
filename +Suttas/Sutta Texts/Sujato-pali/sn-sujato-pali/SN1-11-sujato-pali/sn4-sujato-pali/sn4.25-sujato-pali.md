@@ -77,7 +77,7 @@ and no-one gets too close to me.”
 
 15Then Māra’s daughter Delight addressed the Buddha in verse:
 
-16“How does a mendicant who has crossed five floods  
+16“How does a bhikkhu who has crossed five floods  
 usually meditate here while crossing the sixth?  
 How do they usually practice jhāna so that sensual perceptions  
 are kept out and don’t get hold of them?”
@@ -87,7 +87,7 @@ without making plans, mindful, homeless;
 understanding the teaching, they practice jhāna without placing the mind;  
 they’re not shaking or drifting or rigid.
 
-18That’s how a mendicant who has crossed five floods  
+18That’s how a bhikkhu who has crossed five floods  
 usually meditates here while crossing the sixth.  
 That’s how they usually practice jhāna so that sensual perceptions  
 are kept out and don’t get hold of them.”

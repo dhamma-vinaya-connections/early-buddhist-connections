@@ -16,40 +16,40 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six ate rice and bean curry that they had requested themselves. People complained and criticized them, “How can the Sakyan monastics eat rice and bean curry that they have requested themselves? Who doesn’t like nice food? Who doesn’t prefer tasty food?”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six ate rice and bean curry that they had requested themselves. People complained and criticized them, “How can the Sakyan monastics eat rice and bean curry that they have requested themselves? Who doesn’t like nice food? Who doesn’t prefer tasty food?”
 
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks:
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus:
 
-“How can the monks from the group of six do this?” …
+“How can the bhikkhus from the group of six do this?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 3‘“I will not request bean curry or rice for myself and then eat it,” this is how you should train.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5Soon afterwards a number of monks were sick. The monks who were looking after them asked, “I hope you’re bearing up? I hope you’re getting better?”
+5Soon afterwards a number of bhikkhus were sick. The bhikkhus who were looking after them asked, “I hope you’re bearing up? I hope you’re getting better?”
 
 “Previously we ate rice and bean curry that we had requested ourselves, and then we were comfortable. But now that the Buddha has prohibited this, we don’t ask because we’re afraid of wrongdoing. And because of that we’re not comfortable.”
 
-They told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+They told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow a sick monk to eat rice and bean curry that he has requested for himself.
+“bhikkhus, I allow a sick bhikkhu to eat rice and bean curry that he has requested for himself.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
 6‘“When not sick, I will not request bean curry or rice for myself and then eat it,” this is how you should train.’”
 
-7When one is not sick, one should not request bean curry or rice for oneself and then eat it. If a monk who is not sick, out of disrespect, eats bean curry or rice that he has requested for himself, he commits an offense of wrong conduct.
+7When one is not sick, one should not request bean curry or rice for oneself and then eat it. If a bhikkhu who is not sick, out of disrespect, eats bean curry or rice that he has requested for himself, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

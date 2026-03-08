@@ -58,7 +58,7 @@ Now at that time the brahmin Kāraṇapālī was working for the Licchavis. He s
 11Homage to that Blessed One, the perfected one, the fully awakened Buddha!
 
 
-12Excellent, Master Piṅgiyānī! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Piṅgiyānī has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Piṅgiyānī remember me as a lay follower who has gone for refuge for life.”
+12Excellent, Master Piṅgiyānī! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Piṅgiyānī has made the teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Piṅgiyānī remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

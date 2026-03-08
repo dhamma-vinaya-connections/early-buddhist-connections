@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two kinds of happiness. What two? Physical happiness and mental happiness. These are the two kinds of happiness. The better of these two kinds of happiness is mental happiness.”
+1“There are, bhikkhus, these two kinds of happiness. What two? Physical happiness and mental happiness. These are the two kinds of happiness. The better of these two kinds of happiness is mental happiness.”
 
 1"Dvemāni, bhikkhave, sukhāni. Katamāni dve? Kāyikañca sukhaṁ cetasikañca sukhaṁ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ sukhānaṁ yadidaṁ cetasikaṁ sukhan"ti.
 

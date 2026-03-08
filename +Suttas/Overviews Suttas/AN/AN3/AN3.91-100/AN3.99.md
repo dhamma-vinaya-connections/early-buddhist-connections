@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A bad mendicant is ugly and rough like jute canvas
+> A bad bhikkhu is ugly and rough like jute canvas
 
 > [!info] Key Excerpts 
 > Junior, middle and ugly bhikkhus are ugly because of their bad conduct and character

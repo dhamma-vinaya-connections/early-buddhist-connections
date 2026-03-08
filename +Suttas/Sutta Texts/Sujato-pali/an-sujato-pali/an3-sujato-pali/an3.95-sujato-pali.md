@@ -20,19 +20,19 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these are the three assemblies. What three? An assembly of the best, a divided assembly, and a harmonious assembly.
+1“bhikkhus, these are the three assemblies. What three? An assembly of the best, a divided assembly, and a harmonious assembly.
 
-2And what is an assembly of the best? An assembly where the senior mendicants are not indulgent or slack, nor are they backsliders. Instead, they take the lead in seclusion, rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. And those who come afterwards follow their example. They too are not indulgent or slack, nor are they backsliders. Instead, they take the lead in seclusion, rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is called an assembly of the best.
+2And what is an assembly of the best? An assembly where the senior bhikkhus are not indulgent or slack, nor are they backsliders. Instead, they take the lead in seclusion, rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. And those who come afterwards follow their example. They too are not indulgent or slack, nor are they backsliders. Instead, they take the lead in seclusion, rousing energy for attaining the unattained, achieving the unachieved, and realizing the unrealized. This is called an assembly of the best.
 
-3And what is a divided assembly? An assembly where the mendicants argue, quarrel, and fight, continually wounding each other with barbed words. This is called a divided assembly.
+3And what is a divided assembly? An assembly where the bhikkhus argue, quarrel, and fight, continually wounding each other with barbed words. This is called a divided assembly.
 
-4And what is a harmonious assembly? An assembly where the mendicants live in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes. This is called a harmonious assembly.
+4And what is a harmonious assembly? An assembly where the bhikkhus live in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes. This is called a harmonious assembly.
 
-5When the mendicants live in harmony like this, they make much merit. At that time the mendicants live in a holy dwelling, that is, the heart’s release by rejoicing. When they’re joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when they’re blissful, the mind becomes immersed in samādhi.
+5When the bhikkhus live in harmony like this, they make much merit. At that time the bhikkhus live in a holy dwelling, that is, the heart’s release by rejoicing. When they’re joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when they’re blissful, the mind becomes immersed in samādhi.
 
 6It’s like when it rains heavily on a mountain top, and the water flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill up the pools. The pools fill up the lakes, the lakes fill up the streams, and the streams fill up the rivers. And as the rivers become full, they fill up the ocean.
 
-7In the same way, when the mendicants are in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes, they make much merit. At that time the mendicants live in a holy dwelling, that is, the heart’s release by rejoicing. When they’re joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when they’re blissful, the mind becomes immersed in samādhi.
+7In the same way, when the bhikkhus are in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes, they make much merit. At that time the bhikkhus live in a holy dwelling, that is, the heart’s release by rejoicing. When they’re joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when they’re blissful, the mind becomes immersed in samādhi.
 
 These are the three assemblies.”
 

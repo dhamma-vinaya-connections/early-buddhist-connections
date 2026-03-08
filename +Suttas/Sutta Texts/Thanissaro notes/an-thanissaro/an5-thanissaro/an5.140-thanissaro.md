@@ -29,13 +29,13 @@ language: "English"
 
 “Endowed with these five qualities, a king’s elephant is worthy of a king, is a king’s asset, counts as a very limb of his king.
 
-“In the same way, a monk endowed with five qualities is deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, an unexcelled field of merit for the world. Which five? There is the case where a monk is a listener, a destroyer, a protector, an endurer, and a goer.
+“In the same way, a bhikkhu endowed with five qualities is deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, an unexcelled field of merit for the world. Which five? There is the case where a bhikkhu is a listener, a destroyer, a protector, an endurer, and a goer.
 
-“And how is a monk a listener? There is the case where, when the Dhamma & Vinaya declared by the Tathāgata is being taught, a monk pays attention, applies his whole mind, and lends ear to the Dhamma. This is how a monk is a listener.
+“And how is a bhikkhu a listener? There is the case where, when the Dhamma & Vinaya declared by the Tathāgata is being taught, a bhikkhu pays attention, applies his whole mind, and lends ear to the Dhamma. This is how a bhikkhu is a listener.
 
-“And how is a monk a destroyer? There is the case where a monk does not tolerate an arisen thought of sensuality. He abandons it, destroys it, dispels it, & wipes it out of existence. He does not tolerate an arisen thought of ill will… an arisen thought of harmfulness… He does not tolerate arisen evil, unskillful qualities. He abandons them, destroys them, dispels them, & wipes them out of existence. This is how a monk is a destroyer.
+“And how is a bhikkhu a destroyer? There is the case where a bhikkhu does not tolerate an arisen thought of sensuality. He abandons it, destroys it, dispels it, & wipes it out of existence. He does not tolerate an arisen thought of ill will… an arisen thought of harmfulness… He does not tolerate arisen evil, unskillful qualities. He abandons them, destroys them, dispels them, & wipes them out of existence. This is how a bhikkhu is a destroyer.
 
-“And how is a monk a protector? There is the case where a monk, on seeing a form with the eye, does not grasp at any theme or particulars by which—if he were to dwell without restraint over the faculty of the eye—evil, unskillful qualities such as greed or distress might assail him. He practices with restraint. He guards the faculty of the eye. He achieves restraint with regard to the faculty of the eye.
+“And how is a bhikkhu a protector? There is the case where a bhikkhu, on seeing a form with the eye, does not grasp at any theme or particulars by which—if he were to dwell without restraint over the faculty of the eye—evil, unskillful qualities such as greed or distress might assail him. He practices with restraint. He guards the faculty of the eye. He achieves restraint with regard to the faculty of the eye.
 
 “On hearing a sound with the ear.…
 
@@ -47,13 +47,13 @@ language: "English"
 
 “On cognizing an idea with the intellect, he does not grasp at any theme or particulars by which—if he were to dwell without restraint over the faculty of the intellect—evil, unskillful qualities such as greed or distress might assail him. He practices with restraint. He guards the faculty of the intellect. He achieves restraint with regard to the faculty of the intellect.
 
-“This is how a monk is a protector.
+“This is how a bhikkhu is a protector.
 
-“And how is a monk an endurer? There is the case where a monk is resilient to cold, heat, hunger, & thirst; the touch of flies, mosquitoes, wind, sun, & reptiles; ill-spoken, unwelcome words & bodily feelings that, when they arise, are painful, racking, sharp, piercing, disagreeable, displeasing, & menacing to life. This is how a monk is an endurer.
+“And how is a bhikkhu an endurer? There is the case where a bhikkhu is resilient to cold, heat, hunger, & thirst; the touch of flies, mosquitoes, wind, sun, & reptiles; ill-spoken, unwelcome words & bodily feelings that, when they arise, are painful, racking, sharp, piercing, disagreeable, displeasing, & menacing to life. This is how a bhikkhu is an endurer.
 
-“And how is a monk a goer? There is the case where a monk goes right away to that direction to which he has never been before in the course of this long stretch of time—in other words, to the pacification of all fabrications, the relinquishing of all acquisitions, the ending of craving, dispassion, cessation, unbinding. This is how a monk is a goer.
+“And how is a bhikkhu a goer? There is the case where a bhikkhu goes right away to that direction to which he has never been before in the course of this long stretch of time—in other words, to the pacification of all fabrications, the relinquishing of all acquisitions, the ending of craving, dispassion, cessation, unbinding. This is how a bhikkhu is a goer.
 
-“Endowed with these five qualities a monk is deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, an unexcelled field of merit for the world.”
+“Endowed with these five qualities a bhikkhu is deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, an unexcelled field of merit for the world.”
 
 See also: [[mn61-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.75-thanissaro]]; [[an8.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag18-thanissaro]]
 

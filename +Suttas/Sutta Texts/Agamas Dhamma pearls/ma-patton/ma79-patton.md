@@ -147,7 +147,7 @@ Venerable Aniruddha replied, “Good man, Kātyāyana, you can say that the rela
 
 49. It was then that Ṛṣidatta knew that the Venerable’s discourse was finished, so he rose from his seat and fetched the wash water. He personally served them with a variety of pure and delicious dishes, and they ate until they were full. When the meal was done, he picked up the dishes and washed them. Then he got a small seat and sat separately to listen to Dharma. After Ṛṣidatta was seated, Venerable Aniruddha taught Dharma for him, encouraging, rousing, and making him rejoice with measureless methods to teach him Dharma. Having encouraged, roused, and made him rejoice, Aniruddha rose from his seat and departed.
 
-50. Venerable Aniruddha spoke thus. The wealthy man Ṛṣidatta and the monks who heard what Venerable Aniruddha taught rejoiced and approved.
+50. Venerable Aniruddha spoke thus. The wealthy man Ṛṣidatta and the bhikkhus who heard what Venerable Aniruddha taught rejoiced and approved.
 
 ---
 

@@ -19,9 +19,9 @@ language: "English"
 
 1. Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “I will explain the noble end of contaminants. What is the noble end of contaminants? It means the adept’s accomplishment of right view … the adept’s accomplishment of right samādhi. This is called the noble end of contaminants.”
+2. It was then that the Bhagavān addressed the bhikkhus, “I will explain the noble end of contaminants. What is the noble end of contaminants? It means the adept’s accomplishment of right view … the adept’s accomplishment of right samādhi. This is called the noble end of contaminants.”
 
-3. After the Buddha spoke this sūtra, the monks who heard what the Buddha taught rejoiced and approved.
+3. After the Buddha spoke this sūtra, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

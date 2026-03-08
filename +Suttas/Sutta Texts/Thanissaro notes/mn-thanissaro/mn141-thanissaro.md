@@ -15,19 +15,19 @@ language: "English"
 ## ## Sacca-vibhaṅga Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Bārāṇasī in the Deer Park at Isipatana. There he addressed the monks: “Monks!”
+I have heard that on one occasion the Blessed One was staying near Bārāṇasī in the Deer Park at Isipatana. There he addressed the bhikkhus: “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said, “Monks, near Bārāṇasī, in the Deer Park at Isipatana, the Tathāgata—worthy & rightly self-awakened—set in motion the unexcelled Wheel of Dhamma that cannot be stopped by contemplative or brahman, deva, Māra, or Brahmā or anyone at all in the cosmos: in other words, the declaration, teaching, description, setting-forth, revelation, explanation, and making-plain of the four noble truths. Of which four? The declaration, teaching, description, setting-forth, revelation, explanation, and making-plain of the noble truth of stress. The declaration, teaching, description, setting forth, revelation, explanation, and making-plain of the noble truth of the origination of stress... the noble truth of the cessation of stress... the noble truth of the path of practice leading to the cessation of stress. Near Bārāṇasī, in the Deer Park at Isipatana, the Tathāgata—worthy & rightly self-awakened—set in motion the unexcelled Wheel of Dhamma that cannot be stopped by contemplative or brahman, deva, Māra, or Brahmā or anyone at all in the cosmos: in other words, the declaration, teaching, description, setting-forth, revelation, explanation, and making-plain of these four noble truths.
+The Blessed One said, “bhikkhus, near Bārāṇasī, in the Deer Park at Isipatana, the Tathāgata—worthy & rightly self-awakened—set in motion the unexcelled Wheel of Dhamma that cannot be stopped by contemplative or brahman, deva, Māra, or Brahmā or anyone at all in the cosmos: in other words, the declaration, teaching, description, setting-forth, revelation, explanation, and making-plain of the four noble truths. Of which four? The declaration, teaching, description, setting-forth, revelation, explanation, and making-plain of the noble truth of stress. The declaration, teaching, description, setting forth, revelation, explanation, and making-plain of the noble truth of the origination of stress... the noble truth of the cessation of stress... the noble truth of the path of practice leading to the cessation of stress. Near Bārāṇasī, in the Deer Park at Isipatana, the Tathāgata—worthy & rightly self-awakened—set in motion the unexcelled Wheel of Dhamma that cannot be stopped by contemplative or brahman, deva, Māra, or Brahmā or anyone at all in the cosmos: in other words, the declaration, teaching, description, setting-forth, revelation, explanation, and making-plain of these four noble truths.
 
-“Monks, associate with Sāriputta & Moggallāna. Consort with Sāriputta & Moggallāna. Sāriputta & Moggallāna are wise & sympathetic toward the monks who are their companions in the holy life. Like the mother giving birth: That’s Sāriputta. Like the nurse raising a child after it’s born: That’s Moggallāna. Sāriputta trains (others) to the fruit of stream-entry; Moggallāna, to the highest goal.[1](#^mn141note01) Sāriputta is capable of declaring, teaching, describing, setting forth, revealing, explaining, and making plain the four noble truths in detail.” ^mn141note01-ref
+“bhikkhus, associate with Sāriputta & Moggallāna. Consort with Sāriputta & Moggallāna. Sāriputta & Moggallāna are wise & sympathetic toward the bhikkhus who are their companions in the holy life. Like the mother giving birth: That’s Sāriputta. Like the nurse raising a child after it’s born: That’s Moggallāna. Sāriputta trains (others) to the fruit of stream-entry; Moggallāna, to the highest goal.[1](#^mn141note01) Sāriputta is capable of declaring, teaching, describing, setting forth, revealing, explaining, and making plain the four noble truths in detail.” ^mn141note01-ref
 
 That is what the Blessed One said. Having said it, he—the One Well-Gone—rose from his seat and entered his dwelling.
 
-Then Ven. Sāriputta, not long after the Blessed One had left, addressed the monks, “Friends!”
+Then Ven. Sāriputta, not long after the Blessed One had left, addressed the bhikkhus, “Friends!”
 
-“Yes, friend,” the monks responded to him.
+“Yes, friend,” the bhikkhus responded to him.
 
 Ven. Sāriputta said, “Friends, near Bārāṇasī, in the Deer Park at Isipatana, the Tathāgata—worthy & rightly self-awakened—set in motion the unexcelled Wheel of Dhamma that cannot be stopped by contemplative or brahman, deva, Māra, or Brahmā or anyone at all in the cosmos: in other words, the declaration, teaching, description, setting-forth, revelation, explanation, and making-plain of the four noble truths. Of which four? The declaration, teaching, description, setting-forth, revelation, explanation, and making-plain of the noble truth of stress... the noble truth of the origination of stress... the noble truth of the cessation of stress... the noble truth of the path of practice leading to the cessation of stress. Near Bārāṇasī, in the Deer Park at Isipatana, the Tathāgata—the worthy & rightly self-awakened—set in motion the unexcelled Wheel of Dhamma that cannot be stopped by contemplative or brahman, deva, Māra, or Brahmā or anyone at all in the cosmos: in other words, the declaration, teaching, description, setting-forth, revelation, explanation, and making-plain of these four noble truths.
 
@@ -63,7 +63,7 @@ Ven. Sāriputta said, “Friends, near Bārāṇasī, in the Deer Park at Isipat
 
 “This is called the noble truth of the cessation of stress.
 
-“And what, friends, is the noble truth of the path of practice leading to the cessation of stress? Just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“And what, friends, is the noble truth of the path of practice leading to the cessation of stress? Just this very ![[Noble Path]].
 
 “And what is right view? Knowledge in terms of stress, knowledge in terms of the origination of stress, knowledge in terms of the cessation of stress, knowledge in terms of the way of practice leading to the cessation of stress: This is called right view.
 
@@ -75,17 +75,17 @@ Ven. Sāriputta said, “Friends, near Bārāṇasī, in the Deer Park at Isipat
 
 “And what is right livelihood? There is the case where a disciple of the noble ones, having abandoned dishonest livelihood, keeps his life going with right livelihood: This is called right livelihood.
 
-“And what is right effort? There is the case where a monk generates desire, endeavors, arouses persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen... for the sake of the abandoning of evil, unskillful qualities that have arisen... for the sake of the arising of skillful qualities that have not yet arisen... (and) for the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This is called right effort.
+“And what is right effort? There is the case where a bhikkhu generates desire, endeavors, arouses persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen... for the sake of the abandoning of evil, unskillful qualities that have arisen... for the sake of the arising of skillful qualities that have not yet arisen... (and) for the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This is called right effort.
 
-“And what is right mindfulness? There is the case where a monk remains focused on the body in & of itself—ardent, alert, & mindful—putting aside greed & distress with reference to the world. He remains focused on feelings in & of themselves... the mind in & of itself... mental qualities in & of themselves—ardent, alert, & mindful—putting aside greed & distress with reference to the world. This is called right mindfulness.
+“And what is right mindfulness? There is the case where a bhikkhu ![[Satipatthanas]]. He ![[Satipatthanas]]. This is called right mindfulness.
 
-“And what is right samādhi? There is the case where a monk—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. With the fading of rapture he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ With the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—he enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. This is called right samādhi.
+“And what is right samādhi? There is the case where a bhikkhu—![[Jhanas]] & mindfulness, neither pleasure nor pain. This is called right samādhi.
 
 “This is called the noble truth of the path of practice leading to the cessation of stress.
 
 “Friends, near Bārāṇasī, in the Deer Park at Isipatana, the Tathāgata—the worthy & rightly self-awakened—set in motion the unexcelled Wheel of Dhamma that cannot be stopped by contemplative or brahman, deva, Māra, or Brahmā or anyone at all in the cosmos: in other words, the declaration, teaching, description, setting-forth, revelation, explanation, and making-plain of these four noble truths.”
 
-That is what Ven. Sāriputta said. Gratified, the monks delighted in Ven. Sāriputta’s words.
+That is what Ven. Sāriputta said. Gratified, the bhikkhus delighted in Ven. Sāriputta’s words.
 
 ### Notes
 

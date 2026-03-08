@@ -20,23 +20,23 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. What six?
+1“bhikkhus, these six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. What six?
 
-Firstly, a mendicant consistently treats their spiritual companions with bodily kindness, both in public and in private. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
-
-
-2Furthermore, a mendicant consistently treats their spiritual companions with verbal kindness …
+Firstly, a bhikkhu consistently treats their spiritual companions with bodily kindness, both in public and in private. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
 
 
-3Furthermore, a mendicant consistently treats their spiritual companions with mental kindness …
+2Furthermore, a bhikkhu consistently treats their spiritual companions with verbal kindness …
 
 
-4Furthermore, a mendicant shares without reservation any material possessions they have gained by legitimate means …
-
-5Furthermore, a mendicant lives according to the precepts shared with their spiritual companions …
+3Furthermore, a bhikkhu consistently treats their spiritual companions with mental kindness …
 
 
-6Furthermore, a mendicant lives according to the view shared with their spiritual companions, both in public and in private. That view is noble and emancipating, and leads one who practices it to the complete ending of suffering. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
+4Furthermore, a bhikkhu shares without reservation any material possessions they have gained by legitimate means …
+
+5Furthermore, a bhikkhu lives according to the precepts shared with their spiritual companions …
+
+
+6Furthermore, a bhikkhu lives according to the view shared with their spiritual companions, both in public and in private. That view is noble and emancipating, and leads one who practices it to the complete ending of suffering. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
 
 
 7These six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.”

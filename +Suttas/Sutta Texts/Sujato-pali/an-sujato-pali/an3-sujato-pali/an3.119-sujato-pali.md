@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are three failures. What three? Failure in action, livelihood, and view.
+1“bhikkhus, there are three failures. What three? Failure in action, livelihood, and view.
 
 And what is failure in action? It’s when someone kills living creatures, steals, commits sexual misconduct, and uses speech that’s false, divisive, harsh, or nonsensical. This is called ‘failure in action’.
 

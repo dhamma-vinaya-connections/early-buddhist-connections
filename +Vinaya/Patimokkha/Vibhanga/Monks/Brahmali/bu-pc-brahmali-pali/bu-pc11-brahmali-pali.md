@@ -16,18 +16,18 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Āḷavī at the Aggāḷava Shrine, the monks there were doing building work. They were cutting down trees and having them cut down. Then, when a certain monk was cutting down a tree, the deity that lived in it said to him, “Venerable, don’t cut down our dwelling because you want to build a dwelling for yourself.” Not taking any heed, he just cut it down, and he hurt the arm of that deity’s child. The deity thought, “Why don’t I just kill this monk?” But then it reconsidered, “It wouldn’t be right to just kill this monk. Let me instead tell the Buddha about this matter.” And it approached the Buddha and told him what had happened.
+1At one time when the Buddha was staying at Āḷavī at the Aggāḷava Shrine, the bhikkhus there were doing building work. They were cutting down trees and having them cut down. Then, when a certain monk was cutting down a tree, the deity that lived in it said to him, “Venerable, don’t cut down our dwelling because you want to build a dwelling for yourself.” Not taking any heed, he just cut it down, and he hurt the arm of that deity’s child. The deity thought, “Why don’t I just kill this monk?” But then it reconsidered, “It wouldn’t be right to just kill this monk. Let me instead tell the Buddha about this matter.” And it approached the Buddha and told him what had happened.
 
 “Well done, deity! It’s good that you didn’t kill that monk. If you had killed that monk, you would have made much demerit. The tree over there is empty. Take that as your dwelling.”
 
-People complained and criticized the monks, “How can the Sakyan monastics cut down trees and have them cut down? They are hurting life with one sense.”
+People complained and criticized the bhikkhus, “How can the Sakyan monastics cut down trees and have them cut down? They are hurting life with one sense.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can those monks at Āḷavī cut down trees and have them cut down?”… “Is it true, monks, that you do this?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can those bhikkhus at Āḷavī cut down trees and have them cut down?”… “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? People regard trees as conscious. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? People regard trees as conscious. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

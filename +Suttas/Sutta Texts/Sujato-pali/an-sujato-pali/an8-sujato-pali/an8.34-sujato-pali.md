@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a field has eight factors a seed sown in it is not very fruitful or rewarding or productive. What eight factors does it have?
+1“bhikkhus, when a field has eight factors a seed sown in it is not very fruitful or rewarding or productive. What eight factors does it have?
 
 It’s when a field has mounds and ditches. It has stones and gravel. It’s salty. It doesn’t have deep furrows. And it’s not equipped with water inlets, water outlets, irrigation channels, and boundaries. When a field has these eight factors a seed sown in it is not fruitful or rewarding or productive.
 

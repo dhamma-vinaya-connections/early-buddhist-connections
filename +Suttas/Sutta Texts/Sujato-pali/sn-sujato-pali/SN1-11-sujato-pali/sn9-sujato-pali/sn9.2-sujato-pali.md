@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove.
+1At one time one of the bhikkhus was staying in the land of the Kosalans in a certain forest grove.
 
-Now at that time that mendicant fell asleep during the day’s meditation. The deity haunting that forest had compassion for that mendicant, and wanted what’s best for them. So they approached that mendicant wanting to stir them up, and addressed them in verse:
+Now at that time that bhikkhu fell asleep during the day’s meditation. The deity haunting that forest had compassion for that bhikkhu, and wanted what’s best for them. So they approached that bhikkhu wanting to stir them up, and addressed them in verse:
 
-2“Get up, mendicant! Why lie down?  
+2“Get up, bhikkhu! Why lie down?  
 What’s the point in your sleeping?  
 What slumber can there be for those afflicted,  
 injured, pierced by an arrow?

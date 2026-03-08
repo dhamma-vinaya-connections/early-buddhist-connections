@@ -16,9 +16,9 @@ Translated by Charles Patton
 
 ### Introduction
 
-Thus I have heard: One time, the Buddha was at the Flowering Grove Hut in Jeta’s Grove of Śrāvastī. He was accompanied by a large assembly of 1,250 monks.
+Thus I have heard: One time, the Buddha was at the Flowering Grove Hut in Jeta’s Grove of Śrāvastī. He was accompanied by a large assembly of 1,250 bhikkhus.
 
-It was then that the monks gathered in the Flowering Grove Hall after soliciting alms. They engaged in a discussion with each other: “Venerable monks, only the unsurpassed sage is so extraordinary! His miraculous powers are far-reaching, and his authority is tremendous. He has come to know the countless buddhas of the past who have entered nirvāṇa, broken the bonds, and eliminated idle speculation.”
+It was then that the bhikkhus gathered in the Flowering Grove Hall after soliciting alms. They engaged in a discussion with each other: “Venerable bhikkhus, only the unsurpassed sage is so extraordinary! His miraculous powers are far-reaching, and his authority is tremendous. He has come to know the countless buddhas of the past who have entered nirvāṇa, broken the bonds, and eliminated idle speculation.”
 
 “He also knows how many eons ago those buddhas lived as well as their names, surnames, the clans to which they were born, the meals they had, the length of their lives, and what suffering and happiness they experienced.”
 
@@ -26,15 +26,15 @@ It was then that the monks gathered in the Flowering Grove Hall after soliciting
 
 “What do you think, gentlemen? Does the Tathāgata know this by discerning well the nature of things, or does he know these things because the gods come and tell him about them?”
 
-The Bhagavān was in a quiet place at the time and clearly overheard the monks having that discussion with his heavenly ear. He rose from his seat, went to the Flowering Grove Hall, prepared a seat, and sat down.
+The Bhagavān was in a quiet place at the time and clearly overheard the bhikkhus having that discussion with his heavenly ear. He rose from his seat, went to the Flowering Grove Hall, prepared a seat, and sat down.
 
-He knew the answer, but the Bhagavān still asked them, “Monks, what have you been discussing after gathering here?” The monks then related to him what it had been.
+He knew the answer, but the Bhagavān still asked them, “bhikkhus, what have you been discussing after gathering here?” The bhikkhus then related to him what it had been.
 
-The Bhagavān told the monks, “Good, good! With correct faith, you’ve left home to cultivate the path, and you practice as you should. All of you have two types of conduct: The first is noble discussion of the teaching, and the second is noble silence. This discussion of yours is as it should be: ‘The Tathāgata’s miraculous powers [are far-reaching,] and his authority are tremendous. He fully knows the events of countless eons in the past. He knows it because he understands well the nature of things and because the gods come and tell him.’”
+The Bhagavān told the bhikkhus, “Good, good! With correct faith, you’ve left home to cultivate the path, and you practice as you should. All of you have two types of conduct: The first is noble discussion of the teaching, and the second is noble silence. This discussion of yours is as it should be: ‘The Tathāgata’s miraculous powers [are far-reaching,] and his authority are tremendous. He fully knows the events of countless eons in the past. He knows it because he understands well the nature of things and because the gods come and tell him.’”
 
 The Buddha then spoke in verse:
 
-> “Monks gathered in the Dharma hall  
+> “bhikkhus gathered in the Dharma hall  
 > And held a noble discussion;  
 > In a quiet place, the Tathāgata  
 > Heard it all with his heavenly ear.
@@ -61,13 +61,13 @@ The Buddha then spoke in verse:
 
 ### The Seven Buddhas
 
-He again asked the monks, “Would you like to hear about the circumstances of past buddhas that the Tathāgata knows with the knowledge of past lives? I’ll tell you about them.”
+He again asked the bhikkhus, “Would you like to hear about the circumstances of past buddhas that the Tathāgata knows with the knowledge of past lives? I’ll tell you about them.”
 
-The monks said, “Bhagavān, now would be a good time for it.” “We’d be glad to hear it.” “Excellent, Bhagavān!” “If there’s time for a discourse, we’ll approve of it.”
+The bhikkhus said, “Bhagavān, now would be a good time for it.” “We’d be glad to hear it.” “Excellent, Bhagavān!” “If there’s time for a discourse, we’ll approve of it.”
 
-The Buddha told the monks, “Listen closely! Listen closely, and consider it well. I’ll discern and explain it for you.” The monks then accepted the teaching and listened.
+The Buddha told the bhikkhus, “Listen closely! Listen closely, and consider it well. I’ll discern and explain it for you.” The bhikkhus then accepted the teaching and listened.
 
-The Buddha told the monks, “Ninety-one eons ago, there was a buddha named Vipaśyin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, thirty-one eons ago, there was a buddha named Śikhin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, thirty-one eons ago, there was another buddha named Viśvabhū who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, during this present eon of fortune, there was a buddha named Krakucchanda, another who was named Kanakamuni, and another who was named Kāśyapa. Now, I’ve also achieved the supreme and complete awakening during this present eon of fortune.”
+The Buddha told the bhikkhus, “Ninety-one eons ago, there was a buddha named Vipaśyin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, bhikkhus, thirty-one eons ago, there was a buddha named Śikhin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, bhikkhus, thirty-one eons ago, there was another buddha named Viśvabhū who was the Tathāgata, the Arhat, that arose in the world. Furthermore, bhikkhus, during this present eon of fortune, there was a buddha named Krakucchanda, another who was named Kanakamuni, and another who was named Kāśyapa. Now, I’ve also achieved the supreme and complete awakening during this present eon of fortune.”
 
 The Buddha then spoke in verse:
 
@@ -369,15 +369,15 @@ The Buddha then spoke in verse:
 
 ### Bodhisattva Vipaśyin
 
-The Bhagavān then told the monks, “Now, I’d like to give a talk on the events of past buddhas using the knowledge of past lives. Would you like to hear it?”
+The Bhagavān then told the bhikkhus, “Now, I’d like to give a talk on the events of past buddhas using the knowledge of past lives. Would you like to hear it?”
 
-The monks replied, “Now is the right time. We’d be glad to hear it!”
+The bhikkhus replied, “Now is the right time. We’d be glad to hear it!”
 
-The Buddha told the monks, “Listen closely! Listen closely, and consider it well. I will give you a discerning explanation.
+The Buddha told the bhikkhus, “Listen closely! Listen closely, and consider it well. I will give you a discerning explanation.
 
 ### His Descent from the Tuṣita Heaven
 
-“Monks, you should know the way it always is with buddhas. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin entered her right side while properly mindful and undisturbed.
+“bhikkhus, you should know the way it always is with buddhas. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin entered her right side while properly mindful and undisturbed.
 
 “At that moment, there was an earthquake, and a great radiance illuminated the whole world. The sun and moon couldn’t compare to its brilliance. Sentient beings that were in complete darkness saw each other and recognized where they were. When this light illuminated Māra’s palace and the gods, Śakra, Brahmā, ascetics, priests, and other sentient beings, they were all outshined by its brilliance. The radiance of those gods naturally disappeared.”
 
@@ -395,7 +395,7 @@ The Buddha then spoke in verse:
 
 ### The Four Heavenly Guards
 
-“Monks, you should know the way it always is with buddhas. While he was in his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. Four gods armed with spears stood guard over his mother so that no human nor non-human could do her harm. This is the way it always is [with buddhas].”
+“bhikkhus, you should know the way it always is with buddhas. While he was in his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. Four gods armed with spears stood guard over his mother so that no human nor non-human could do her harm. This is the way it always is [with buddhas].”
 
 The Buddha then spoke in verse:
 
@@ -416,9 +416,9 @@ The Buddha then spoke in verse:
 
 ### His Mother Beheld Him in Her Womb
 
-He also told the monks, “This is the way it always is with buddhas. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother’s body was at ease, she didn’t have any kind of illness, and her wisdom improved.
+He also told the bhikkhus, “This is the way it always is with buddhas. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother’s body was at ease, she didn’t have any kind of illness, and her wisdom improved.
 
-“His mother looked into her womb and saw the Bodhisattva’s body with fully formed faculties. He was the color of purple gold and had no blemishes. She was like a man with eyesight looking at a pure beryl that’s transparent and lacks any obstructions to his vision. Monks, this is the way it always is with buddhas.”
+“His mother looked into her womb and saw the Bodhisattva’s body with fully formed faculties. He was the color of purple gold and had no blemishes. She was like a man with eyesight looking at a pure beryl that’s transparent and lacks any obstructions to his vision. bhikkhus, this is the way it always is with buddhas.”
 
 The Bhagavān then spoke in verse:
 
@@ -434,7 +434,7 @@ The Bhagavān then spoke in verse:
 
 ### His Mother Had No Desire
 
-The Buddha told the monks, “[This is the way it always is with buddhas.] When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother’s heart was pure, without any notions of desire. Nor was she burned by the fire of lust. This is the way it always is with buddhas.”
+The Buddha told the bhikkhus, “[This is the way it always is with buddhas.] When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother’s heart was pure, without any notions of desire. Nor was she burned by the fire of lust. This is the way it always is with buddhas.”
 
 The Bhagavān then spoke in verse:
 
@@ -450,7 +450,7 @@ The Bhagavān then spoke in verse:
 
 ### His Mother Upheld the Five Precepts
 
-The Buddha told the monks, “This is the way it always is with buddhas. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother upheld the five precepts, purified the religious practice, and was devoted and loving. Having accomplished these virtues, she was happy and confident. When her body broke up and her life ended, she was born in the Trāyastriṃśa Heaven. This is the way it always is [with buddhas].”
+The Buddha told the bhikkhus, “This is the way it always is with buddhas. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother upheld the five precepts, purified the religious practice, and was devoted and loving. Having accomplished these virtues, she was happy and confident. When her body broke up and her life ended, she was born in the Trāyastriṃśa Heaven. This is the way it always is [with buddhas].”
 
 The Bhagavān then spoke in verse:
 
@@ -461,7 +461,7 @@ The Bhagavān then spoke in verse:
 
 ### The Bodhisattva’s Birth
 
-The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side. There was an earthquake, and a radiance illuminated [the whole world], just as it did when he first entered her womb. There was no place of darkness that wasn’t illuminated. This is the way it always is [with buddhas].”
+The Buddha told the bhikkhus, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side. There was an earthquake, and a radiance illuminated [the whole world], just as it did when he first entered her womb. There was no place of darkness that wasn’t illuminated. This is the way it always is [with buddhas].”
 
 The Bhagavān then spoke in verse:
 
@@ -477,7 +477,7 @@ The Bhagavān then spoke in verse:
 
 ### His Mother Gave Birth while Standing
 
-The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. The Bodhisattva’s mother held onto a tree limb, neither sitting nor lying down. Four gods stood in front his mother and presented fragrant water. They said, ‘Oh, heavenly mother! Now you’ve given birth to a holy son. Don’t feel anguish over it!’ This is the way it always is [with buddhas].”
+The Buddha told the bhikkhus, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. The Bodhisattva’s mother held onto a tree limb, neither sitting nor lying down. Four gods stood in front his mother and presented fragrant water. They said, ‘Oh, heavenly mother! Now you’ve given birth to a holy son. Don’t feel anguish over it!’ This is the way it always is [with buddhas].”
 
 The Bhagavān then spoke in verse:
 
@@ -488,7 +488,7 @@ The Bhagavān then spoke in verse:
 
 ### The Bodhisattva Was Born Clean
 
-The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. His body was clean and not sullied by filth. It was like a man with eyesight putting a pure, bright jewel on white silk. Neither of them dirties the other because they are both pure. The Bodhisattva emerged from the womb in the same way. This is the way it always is [with buddhas].”
+The Buddha told the bhikkhus, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. His body was clean and not sullied by filth. It was like a man with eyesight putting a pure, bright jewel on white silk. Neither of them dirties the other because they are both pure. The Bodhisattva emerged from the womb in the same way. This is the way it always is [with buddhas].”
 
 The Bhagavān then spoke in verse:
 
@@ -499,7 +499,7 @@ The Bhagavān then spoke in verse:
 
 ### The Bodhisattva Walked Seven Paces at Birth
 
-The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Upon emerging from her right side, he fell to the ground and walked seven paces without anyone helping him. He looked all around in the four directions, raised his hand, and said, ‘Only I am exalted by both Heaven and Earth, for I will save sentient beings from birth, old age, illness, and death.’ This is the way it always is [with buddhas].”
+The Buddha told the bhikkhus, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Upon emerging from her right side, he fell to the ground and walked seven paces without anyone helping him. He looked all around in the four directions, raised his hand, and said, ‘Only I am exalted by both Heaven and Earth, for I will save sentient beings from birth, old age, illness, and death.’ This is the way it always is [with buddhas].”
 
 The Bhagavān then spoke in verse:
 
@@ -525,7 +525,7 @@ The Bhagavān then spoke in verse:
 
 ### He Was Bathed in Warm and Cool Water
 
-The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Two streams of water sprang forth, one warm and one cool, which were provided for bathing him. This is the way it always is [with buddhas].”
+The Buddha told the bhikkhus, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Two streams of water sprang forth, one warm and one cool, which were provided for bathing him. This is the way it always is [with buddhas].”
 
 The Bhagavān then spoke in verse:
 
@@ -691,7 +691,7 @@ The Buddha then spoke in verse:
 
 ### The Bodhisattva’s Early Life
 
-The Buddha told the monks, “When he was born, Bodhisattva Vipaśyin was sheltered from cold, heat, wind, rain, and dust by gods in the sky, who held white parasols and jeweled fans for him.”
+The Buddha told the bhikkhus, “When he was born, Bodhisattva Vipaśyin was sheltered from cold, heat, wind, rain, and dust by gods in the sky, who held white parasols and jeweled fans for him.”
 
 The Buddha then spoke in verse:
 
@@ -900,7 +900,7 @@ The Buddha then spoke in verse:
 
 “Thereupon, the driver drove the prince’s precious chariot and clothes back to his father, the King. Afterward, the prince cut off his hair and beard, put on the three Dharma robes, and left home to cultivate the path.”
 
-The Buddha told the monks, “When he saw the elderly man and the sick man, the prince recognized the suffering of the world. When he saw the dead man, his feelings of attraction to the world ceased. Then, he saw the ascetic and the vastness of the great awakening. When he dismounted from his precious chariot, he walked away from bondage, step by step. This was how he genuinely left home; this was his genuine renunciation.
+The Buddha told the bhikkhus, “When he saw the elderly man and the sick man, the prince recognized the suffering of the world. When he saw the dead man, his feelings of attraction to the world ceased. Then, he saw the ascetic and the vastness of the great awakening. When he dismounted from his precious chariot, he walked away from bondage, step by step. This was how he genuinely left home; this was his genuine renunciation.
 
 “The people of the country heard that the prince had cut off his hair and beard, put on Dharma robes, carried a bowl, and left home to cultivate the path. They said to each other, ‘This path must be genuine for the prince to give up his position as the country’s heir. That’s a serious thing to discard!’ Thereupon, 84,000 people in the country went to the prince wanting to become his disciples and leave home to cultivate the path.”
 
@@ -1224,7 +1224,7 @@ The Buddha then spoke in verse:
 
 “At that point, the King’s son Tiṣya and the prime minister’s son Khaṇḍa saw the Dharma and obtained its fruit truly and without pretense, and they became confident. They then said to Buddha Vipaśyin, ‘We’d like to cultivate the pure religious practice in the Tathāgata’s teaching!’
 
-“The Buddha said, ‘Welcome, monks! My Dharma is pure and free. Cultivating it will bring an end to suffering.’
+“The Buddha said, ‘Welcome, bhikkhus! My Dharma is pure and free. Cultivating it will bring an end to suffering.’
 
 “Those two men then were given the full precepts. They hadn’t had those precepts long before the Tathāgata taught them three subjects: First was miraculous abilities, second was observing others’ minds, and third was admonishment. They then attained the freedom of the uncontaminated heart, and unshakable knowledge arose in them.
 
@@ -1236,7 +1236,7 @@ The Buddha then spoke in verse:
 
 “Those 84,000 people then became free of dust and defilement right there on their seats, and their vision of the Dharma was purified. They were like a white cloth ready to accept a dye. They saw the Dharma and obtained its fruit truly and without pretense, and they became confident. They said to the Buddha, ‘We’d like to cultivate the pure religious practice in the Tathāgata’s teaching!’
 
-“The Buddha said, ‘Welcome, monks! My Dharma is pure and free. Cultivating it will bring an end to suffering.’
+“The Buddha said, ‘Welcome, bhikkhus! My Dharma is pure and free. Cultivating it will bring an end to suffering.’
 
 “Those 84,000 people then were given the full precepts. They hadn’t had those precepts long before the Tathāgata taught them three subjects: First was miraculous abilities, second was observing others’ minds, and third was admonishment. They then attained the freedom of the uncontaminated heart, and unshakable knowledge arose in them.
 
@@ -1249,17 +1249,17 @@ The Buddha then spoke in verse:
 > Those people were likewise;  
 > They went quickly to the Tathāgata.
 
-“The Buddha taught the Dharma in the same way. Then, there were 168,000 people in Bandhuvatī who formed a great assembly of monks. The monks Tiṣya and Khaṇḍa rose up into the sky over that great assembly, and fire and water issued from their bodies. They performed such miracles and then taught the subtle Dharma for the assembly.
+“The Buddha taught the Dharma in the same way. Then, there were 168,000 people in Bandhuvatī who formed a great assembly of bhikkhus. The bhikkhus Tiṣya and Khaṇḍa rose up into the sky over that great assembly, and fire and water issued from their bodies. They performed such miracles and then taught the subtle Dharma for the assembly.
 
-“The Tathāgata then thought to himself, ‘Now, there’s a great assembly of 168,000 monks in this city. They ought to travel from place to place in pairs for six years. When they return to the city, I’ll teach them the full precepts.’
+“The Tathāgata then thought to himself, ‘Now, there’s a great assembly of 168,000 bhikkhus in this city. They ought to travel from place to place in pairs for six years. When they return to the city, I’ll teach them the full precepts.’
 
-“The Śuddhāvāsa gods then knew what the Tathāgata was thinking. In the time it takes a strong man to flex his arm, they disappeared from their heaven and instantly reappeared in front of the Bhagavān. They bowed their heads at his feet and withdrew to stand to one side. That instant, they said to the Buddha, ‘So it is, Bhagavān! There’s a great assembly of monks in this city. They ought to travel from place to place in pairs for six years. When they return to the city, teach them the full precepts. We will keep them safe and prevent anyone from taking advantage of them.’
+“The Śuddhāvāsa gods then knew what the Tathāgata was thinking. In the time it takes a strong man to flex his arm, they disappeared from their heaven and instantly reappeared in front of the Bhagavān. They bowed their heads at his feet and withdrew to stand to one side. That instant, they said to the Buddha, ‘So it is, Bhagavān! There’s a great assembly of bhikkhus in this city. They ought to travel from place to place in pairs for six years. When they return to the city, teach them the full precepts. We will keep them safe and prevent anyone from taking advantage of them.’
 
 “When he heard what the gods said, the Tathāgata silently accepted it.
 
-“The Śuddhāvāsa gods saw the Buddha silently give his consent. They bowed at the Buddha’s feet and instantly disappeared, returning to their heaven above. Not long after they left, the Buddha told the monks, ‘Now, there’s a great assembly of monks in the city. You ought to each go out traveling and teaching. After six years, return and gather for the teaching of the precepts.’
+“The Śuddhāvāsa gods saw the Buddha silently give his consent. They bowed at the Buddha’s feet and instantly disappeared, returning to their heaven above. Not long after they left, the Buddha told the bhikkhus, ‘Now, there’s a great assembly of bhikkhus in the city. You ought to each go out traveling and teaching. After six years, return and gather for the teaching of the precepts.’
 
-“After accepting the Buddha’s teaching, the monks then took their robes and bowls, bowed to the Buddha, and departed.”
+“After accepting the Buddha’s teaching, the bhikkhus then took their robes and bowls, bowed to the Buddha, and departed.”
 
 The Buddha then spoke in verse:
 
@@ -1268,11 +1268,11 @@ The Buddha then spoke in verse:
 > Majestic like _garuḍa_ birds,  
 > They took off like cranes from a lake.
 
-“A year later, the Śuddhāvāsa gods told the monks, ‘Since you’ve been traveling a year has passed. Five years remain. Remember, after six years have passed, you are to return to the city for the teaching of the precepts.’
+“A year later, the Śuddhāvāsa gods told the bhikkhus, ‘Since you’ve been traveling a year has passed. Five years remain. Remember, after six years have passed, you are to return to the city for the teaching of the precepts.’
 
 “In this way, the sixth year arrived, and the gods again told them, ‘A full six years have passed. You should return for the teaching of the precepts.’
 
-After hearing what the gods said, the monks gathered up their robes and bowls and returned to Bandhuvatī. They went to Buddha Vipaśyin in the deer preserve, bowed their heads at his feet, and withdrew to sit to one side.”
+After hearing what the gods said, the bhikkhus gathered up their robes and bowls and returned to Bandhuvatī. They went to Buddha Vipaśyin in the deer preserve, bowed their heads at his feet, and withdrew to sit to one side.”
 
 The Buddha then spoke in verse:
 
@@ -1307,9 +1307,9 @@ The Buddha then spoke in verse:
 
 “After reciting these verses, they instantly disappeared.”
 
-The Bhagavān then told the monks, “I thought to myself, ‘Once, I was on Mount Gṛdhrakūṭa at Rājagṛha, and this thought occurred to me, “I’ve been born everywhere but the Śuddhāvāsa Heaven. If I were born in that heaven, I wouldn’t return to this world.”’
+The Bhagavān then told the bhikkhus, “I thought to myself, ‘Once, I was on Mount Gṛdhrakūṭa at Rājagṛha, and this thought occurred to me, “I’ve been born everywhere but the Śuddhāvāsa Heaven. If I were born in that heaven, I wouldn’t return to this world.”’
 
-“Monks, I’ve also had this thought: ‘I want to go up to the Avṛha Heaven above.’ In the time it takes for a strong man to flex his arm, I then disappeared here and appeared in that heaven.
+“bhikkhus, I’ve also had this thought: ‘I want to go up to the Avṛha Heaven above.’ In the time it takes for a strong man to flex his arm, I then disappeared here and appeared in that heaven.
 
 “When they saw me arrive, the gods there bowed their heads and stood to one side. They said to me, ‘We were disciples of Tathāgata Vipaśyin. We were reborn here because that Buddha’s instruction. We recite the history of that buddha as well as that of Buddha Śikhin, Buddha Viśvabhū, Buddha Krakucchanda, Buddha Kanakamuni, Buddha Kāśyapa, and Buddha Śākyamuni. They were our teachers. We were reborn here because of their training.’
 
@@ -1397,7 +1397,7 @@ The Buddha then spoke in verse:
 > The profound teachings they saw and knew,  
 > And their achievement of unsurpassed awakening.
 
-> Dwelling in quietude, their monks  
+> Dwelling in quietude, their bhikkhus  
 > Were freed from dust and defilement.  
 > Earnest and not neglectful,  
 > They broke the bonds of existence.’
@@ -1407,7 +1407,7 @@ The Buddha then spoke in verse:
 > The Tathāgata of the Śākyas  
 > Has expounded them.”
 
-After he had taught this Sūtra of the Great Legend, the monks who heard what the Buddha taught rejoiced and approved.
+After he had taught this Sūtra of the Great Legend, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 
 ---

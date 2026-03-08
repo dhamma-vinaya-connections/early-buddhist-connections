@@ -28,14 +28,14 @@ Those lay followers then complained and criticized her:
 “How could Venerable Thullanandā determine out-of-season robe-cloth as ‘in-season’, and then distribute it?”
 
 
-2The nuns heard the complaints of those lay followers, and the nuns of few desires complained and criticized her, “How could Venerable Thullanandā do this?” Those nuns then told the monks, who in turn told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that the nun Thullanandā did this?”
+2The nuns heard the complaints of those lay followers, and the nuns of few desires complained and criticized her, “How could Venerable Thullanandā do this?” Those nuns then told the bhikkhus, who in turn told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How could the nun Thullanandā do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -52,7 +52,7 @@ The Buddha rebuked her …
 6If she distributes it after determining the out-of-season robe-cloth as “in-season”, then for the effort there is an act of wrong conduct. When she gets it, it becomes subject to relinquishment. The robe-cloth is to be relinquished to a saṅgha, a group, or an individual nun.
 
 
-“And, monks, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1]], with appropriate substitutions.
+“And, bhikkhus, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1]], with appropriate substitutions.
 
 
 … ‘Venerables, this out-of-season robe-cloth, which I distributed after determining it as “in-season”, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe-cloth back to you.’”

@@ -16,16 +16,16 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, I will teach you the explanation of the restraint of all defilements. Listen and pay close attention, I will speak.”
+“bhikkhus, I will teach you the explanation of the restraint of all defilements. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, I say that the ending of defilements is for one who knows and sees, not for one who does not know or see. For one who knows and sees what? Proper attention and improper attention. When you pay improper attention, defilements arise, and once arisen they grow. When you pay proper attention, defilements don’t arise, and those that have already arisen are given up.
+2“bhikkhus, I say that the ending of defilements is for one who knows and sees, not for one who does not know or see. For one who knows and sees what? Proper attention and improper attention. When you pay improper attention, defilements arise, and once arisen they grow. When you pay proper attention, defilements don’t arise, and those that have already arisen are given up.
 
 3Some defilements should be given up by seeing, some by restraint, some by using, some by enduring, some by avoiding, some by dispelling, and some by developing.
 
@@ -55,13 +55,13 @@ language: "English - Pali"
 
 #### 2. Defilements Given Up by Restraint
 
-15And what are the defilements that should be given up by restraint? Take a mendicant who, reflecting properly, lives restraining the faculty of the eye. For the distressing and feverish defilements that might arise in someone who lives without restraint of the eye faculty do not arise when there is such restraint. Reflecting properly, they live restraining the faculty of the ear … the nose … the tongue … the body … the mind. For the distressing and feverish defilements that might arise in someone who lives without restraint of the mind faculty do not arise when there is such restraint.
+15And what are the defilements that should be given up by restraint? Take a bhikkhu who, reflecting properly, lives restraining the faculty of the eye. For the distressing and feverish defilements that might arise in someone who lives without restraint of the eye faculty do not arise when there is such restraint. Reflecting properly, they live restraining the faculty of the ear … the nose … the tongue … the body … the mind. For the distressing and feverish defilements that might arise in someone who lives without restraint of the mind faculty do not arise when there is such restraint.
 
 16For the distressing and feverish defilements that might arise in someone who lives without restraint do not arise when there is such restraint. These are called the defilements that should be given up by restraint.
 
 #### 3. Defilements Given Up by Using
 
-17And what are the defilements that should be given up by using? Take a mendicant who, reflecting properly, makes use of robes: ‘Only for the sake of warding off cold and heat; for warding off the touch of flies, mosquitoes, wind, sun, and reptiles; and for covering up the private parts.’
+17And what are the defilements that should be given up by using? Take a bhikkhu who, reflecting properly, makes use of robes: ‘Only for the sake of warding off cold and heat; for warding off the touch of flies, mosquitoes, wind, sun, and reptiles; and for covering up the private parts.’
 
 18Reflecting properly, they make use of almsfood: ‘Not for fun, indulgence, adornment, or decoration, but only to sustain this body, to avoid harm, and to support spiritual practice. In this way, I shall put an end to old discomfort and not give rise to new discomfort, and I will live blamelessly and at ease.’
 
@@ -73,33 +73,33 @@ language: "English - Pali"
 
 #### 4. Defilements Given Up by Enduring
 
-22And what are the defilements that should be given up by enduring? Take a mendicant who, reflecting properly, endures cold, heat, hunger, and thirst. They endure the touch of flies, mosquitoes, wind, sun, and reptiles. They endure rude and unwelcome criticism. And they put up with physical pain — sharp, severe, acute, unpleasant, disagreeable, and life-threatening.
+22And what are the defilements that should be given up by enduring? Take a bhikkhu who, reflecting properly, endures cold, heat, hunger, and thirst. They endure the touch of flies, mosquitoes, wind, sun, and reptiles. They endure rude and unwelcome criticism. And they put up with physical pain — sharp, severe, acute, unpleasant, disagreeable, and life-threatening.
 
 23For the distressing and feverish defilements that might arise in someone who lives without enduring these things do not arise when they are endured. These are called the defilements that should be given up by enduring.
 
 #### 5. Defilements Given Up by Avoiding
 
-24And what are the defilements that should be given up by avoiding? Take a mendicant who, reflecting properly, avoids a wild elephant, a wild horse, a wild ox, a wild dog, a snake, a stump, thorny ground, a pit, a cliff, a swamp, and a sewer. Reflecting properly, they avoid sitting on inappropriate seats, walking in inappropriate neighborhoods, and mixing with bad friends — whatever sensible spiritual companions would believe to be a bad setting.
+24And what are the defilements that should be given up by avoiding? Take a bhikkhu who, reflecting properly, avoids a wild elephant, a wild horse, a wild ox, a wild dog, a snake, a stump, thorny ground, a pit, a cliff, a swamp, and a sewer. Reflecting properly, they avoid sitting on inappropriate seats, walking in inappropriate neighborhoods, and mixing with bad friends — whatever sensible spiritual companions would believe to be a bad setting.
 
 25For the distressing and feverish defilements that might arise in someone who lives without avoiding these things do not arise when they are avoided. These are called the defilements that should be given up by avoiding.
 
 #### 6. Defilements Given Up by Dispelling
 
-26And what are the defilements that should be given up by dispelling? Take a mendicant who, reflecting properly, doesn’t tolerate a sensual, malicious, or cruel thought that has arisen, but gives it up, gets rid of it, eliminates it, and obliterates it. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them.
+26And what are the defilements that should be given up by dispelling? Take a bhikkhu who, reflecting properly, doesn’t tolerate a sensual, malicious, or cruel thought that has arisen, but gives it up, gets rid of it, eliminates it, and obliterates it. They don’t tolerate any bad, unskillful qualities that have arisen, but give them up, get rid of them, eliminate them, and obliterate them.
 
 27For the distressing and feverish defilements that might arise in someone who lives without dispelling these things do not arise when they are dispelled. These are called the defilements that should be given up by dispelling.
 
 #### 7. Defilements Given Up by Developing
 
-28And what are the defilements that should be given up by developing? It’s when a mendicant, reflecting properly, develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go.
+28And what are the defilements that should be given up by developing? It’s when a bhikkhu, reflecting properly, develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go.
 
 
 29For the distressing and feverish defilements that might arise in someone who lives without developing these things do not arise when they are developed. These are called the defilements that should be given up by developing.
 
-30Now, take a mendicant who, by seeing, has given up the defilements that should be given up by seeing. By restraint, they’ve given up the defilements that should be given up by restraint. By using, they’ve given up the defilements that should be given up by using. By enduring, they’ve given up the defilements that should be given up by enduring. By avoiding, they’ve given up the defilements that should be given up by avoiding. By dispelling, they’ve given up the defilements that should be given up by dispelling. By developing, they’ve given up the defilements that should be given up by developing. They’re called a mendicant who lives having restrained all defilements, who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
+30Now, take a bhikkhu who, by seeing, has given up the defilements that should be given up by seeing. By restraint, they’ve given up the defilements that should be given up by restraint. By using, they’ve given up the defilements that should be given up by using. By enduring, they’ve given up the defilements that should be given up by enduring. By avoiding, they’ve given up the defilements that should be given up by avoiding. By dispelling, they’ve given up the defilements that should be given up by dispelling. By developing, they’ve given up the defilements that should be given up by developing. They’re called a bhikkhu who lives having restrained all defilements, who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
 
 
-31That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+31That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

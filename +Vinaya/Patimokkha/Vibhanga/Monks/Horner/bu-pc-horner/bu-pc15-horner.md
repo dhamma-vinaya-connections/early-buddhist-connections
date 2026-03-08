@@ -7,25 +7,25 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
 > ◄  [[bu-pc14-horner]] 📜  [[bu-pc16-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 15
+# bhikkhus’ Expiation (_Pācittiya_) 15
 
-*Bu-Pc.15.1.1* *BD.2.243* *Vin.4.41* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of seventeen monks were companions. Staying, they just stayed together, setting forth, they just set forth together. These, spreading[^1] a sleeping-place in a certain dwelling belonging to the Order, setting forth, neither removed it nor had it removed, (but) set forth without having asked (for permission). The lodging became eaten by white ants. Those who were modest monks … spread it about, saying:
+*Bu-Pc.15.1.1* *BD.2.243* *Vin.4.41* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of seventeen bhikkhus were companions. Staying, they just stayed together, setting forth, they just set forth together. These, spreading[^1] a sleeping-place in a certain dwelling belonging to the Order, setting forth, neither removed it nor had it removed, (but) set forth without having asked (for permission). The lodging became eaten by white ants. Those who were modest bhikkhus … spread it about, saying:
 
-“How can this group of seventeen monks, spreading a sleeping-place in a dwelling belonging to the Order, setting forth, neither remove it nor have it removed, (but) set forth without having asked (for permission, so that) the lodging is eaten by white ants?” Then these monks told this matter to the lord … He said:
+“How can this group of seventeen bhikkhus, spreading a sleeping-place in a dwelling belonging to the Order, setting forth, neither remove it nor have it removed, (but) set forth without having asked (for permission, so that) the lodging is eaten by white ants?” Then these bhikkhus told this matter to the lord … He said:
 
-“Is it true, as is said, monks, that the group of seventeen monks … belonging to the Order, setting forth neither removed it … eaten by white ants?”
+“Is it true, as is said, bhikkhus, that the group of seventeen bhikkhus … belonging to the Order, setting forth neither removed it … eaten by white ants?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can these foolish men … eaten by white ants? It is not, monks, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How, bhikkhus, can these foolish men … eaten by white ants? It is not, bhikkhus, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, spreading a sleeping-place or having it spread in a dwelling belonging to the Order, setting forth, should neither remove it nor have it removed, or should go away without asking (for permission), there is an offence of expiation.”
+“Whatever bhikkhu, spreading a sleeping-place or having it spread in a dwelling belonging to the Order, setting forth, should neither remove it nor have it removed, or should go away without asking (for permission), there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.15.2.1* *BD.2.244* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.15.2.1* *BD.2.244* Whatever means: … is bhikkhu to be understood in this case.
 
 Belonging to the Order means: it comes to be given to the Order, handed over to it.[^2]
 
@@ -39,7 +39,7 @@ Setting forth, should neither remove it means: should not himself remove it.[^12
 
 Nor have it removed means: should not make another remove it.[^13]
 
-Or should go away without asking (for permission) means: not asking a monk or a novice or *Vin.4.42* a monastery-attendant (for permission), if he goes further than the fence of a fenced-in monastery, there is an offence of expiation; if he goes further than the precincts[^14] of a monastery not fenced-in, there is an offence of expiation.
+Or should go away without asking (for permission) means: not asking a bhikkhu or a novice or *Vin.4.42* a monastery-attendant (for permission), if he goes further than the fence of a fenced-in monastery, there is an offence of expiation; if he goes further than the precincts[^14] of a monastery not fenced-in, there is an offence of expiation.
 
 * * *
 
@@ -57,7 +57,7 @@ The Fifth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

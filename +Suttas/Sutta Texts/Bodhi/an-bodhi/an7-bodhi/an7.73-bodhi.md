@@ -22,7 +22,7 @@ language: "English"
 
 “Yes, Bhante.”
 
-“If, with a mind of hatred, one had insulted and reviled these six teachers together with their communities of disciples, one would have generated much demerit. But if, with a mind of hatred, one reviles and abuses a single person accomplished in view, one generates even more demerit. For what reason? I say, bhikkhus, there is no injury against outsiders like that against \[your\] fellow monks. Therefore, bhikkhus, you should train yourselves thus: ‘We will not let hatred toward our fellow monks arise in our minds.’ Thus, bhikkhus, should you train yourselves.”
+“If, with a mind of hatred, one had insulted and reviled these six teachers together with their communities of disciples, one would have generated much demerit. But if, with a mind of hatred, one reviles and abuses a single person accomplished in view, one generates even more demerit. For what reason? I say, bhikkhus, there is no injury against outsiders like that against \[your\] fellow bhikkhus. Therefore, bhikkhus, you should train yourselves thus: ‘We will not let hatred toward our fellow bhikkhus arise in our minds.’ Thus, bhikkhus, should you train yourselves.”
 
 
 ---

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that, when it is tamed, is so very beneficial as the mind. A tamed mind is very beneficial.”
+1“bhikkhus, I do not see a single thing that, when it is tamed, is so very beneficial as the mind. A tamed mind is very beneficial.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ dantaṁ mahato atthāya saṁvattati yathayidaṁ, bhikkhave, cittaṁ. Cittaṁ, bhikkhave, dantaṁ mahato atthāya saṁvattatī"ti.
 

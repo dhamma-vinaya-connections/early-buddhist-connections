@@ -30,7 +30,7 @@ Then the Blessed One addressed a certain bhikkhu: “Go, bhikkhu, in my name cal
 
 Now on that occasion the Venerable Mahāmoggallāna and the Venerable Ānanda took a key and wandered from dwelling to dwelling, \[calling out\]: “Come forth, venerables! Come forth, venerables! Now the Venerable Sāriputta will roar his lion’s roar in the presence of the Blessed One!”
 
-Then the Venerable Sāriputta approached the Blessed One, paid homage to him, and sat down to one side. The Blessed One said to him: “Sāriputta, one of your fellow monks has made a complaint about you, \[saying\]: ‘Bhante, the Venerable Sāriputta struck me and then set out on tour without apologizing.’”
+Then the Venerable Sāriputta approached the Blessed One, paid homage to him, and sat down to one side. The Blessed One said to him: “Sāriputta, one of your fellow bhikkhus has made a complaint about you, \[saying\]: ‘Bhante, the Venerable Sāriputta struck me and then set out on tour without apologizing.’”
 
 (1) “Bhante, one who has not established mindfulness directed to the body in regard to his own body might strike a fellow monk and then set out on tour without apologizing. Just as they throw pure and impure things on the earth—feces, urine, spittle, pus, and blood—yet the earth is not repelled, humiliated, or disgusted because of this; so \[375\] too, Bhante, I dwell with a mind like the earth, vast, exalted, and measureless, without enmity and ill will.
 

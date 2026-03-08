@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those who haven’t completely understood mindfulness of the body haven’t completely understood the deathless. Those who have completely understood mindfulness of the body have completely understood the deathless.”
+1“bhikkhus, those who haven’t completely understood mindfulness of the body haven’t completely understood the deathless. Those who have completely understood mindfulness of the body have completely understood the deathless.”
 
 1"Amataṁ tesaṁ, bhikkhave, apariññātaṁ yesaṁ kāyagatāsati apariññātā. Amataṁ tesaṁ, bhikkhave, pariññātaṁ yesaṁ kāyagatāsati pariññātā"ti.
 

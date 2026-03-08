@@ -16,63 +16,63 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six entered the village at the wrong time, sat down in the public meeting hall, and talked about all sorts of pointless things: about kings, gangsters, and officials; about armies, dangers, and battles; about food, drink, clothes, and beds; about garlands and perfumes; about relatives, vehicles, villages, towns, and countries; about women and heroes; gossip; about the departed; about various trivialities; about the world and the sea; about the various kinds of existence.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six entered the village at the wrong time, sat down in the public meeting hall, and talked about all sorts of pointless things: about kings, gangsters, and officials; about armies, dangers, and battles; about food, drink, clothes, and beds; about garlands and perfumes; about relatives, vehicles, villages, towns, and countries; about women and heroes; gossip; about the departed; about various trivialities; about the world and the sea; about the various kinds of existence.
 
 People complained and criticized them:
 
 “How can the Sakyan monastics enter the village at the wrong time, sit down in the public meeting hall, and talk about such pointless things? They’re just like householders who indulge in worldly pleasures!”
 
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can the monks from the group of six do this?” …
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can the bhikkhus from the group of six do this?” …
 
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 3‘If a monk enters an inhabited area at the wrong time, he commits an offense entailing confession.’”
 
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5Soon afterwards a number of monks were walking through the Kosalan country on their way to Sāvatthī, when one evening they came to a certain village. People saw them and said, “Venerables, please enter the village.” But knowing that entering a village at the wrong time had been prohibited by the Buddha and being afraid of wrongdoing, they declined. And so thieves robbed them.
+5Soon afterwards a number of bhikkhus were walking through the Kosalan country on their way to Sāvatthī, when one evening they came to a certain village. People saw them and said, “Venerables, please enter the village.” But knowing that entering a village at the wrong time had been prohibited by the Buddha and being afraid of wrongdoing, they declined. And so thieves robbed them.
 
-They then went to Sāvatthī and told the monks what had happened, who in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+They then went to Sāvatthī and told the bhikkhus what had happened, who in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to enter an inhabited area at the wrong time after informing someone.
+“bhikkhus, I allow you to enter an inhabited area at the wrong time after informing someone.
 
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 
 6‘If a monk, without informing anyone, enters an inhabited area at the wrong time, he commits an offense entailing confession.’”
 
 
-7In this way the Buddha laid down this training rule for the monks.
+7In this way the Buddha laid down this training rule for the bhikkhus.
 
 8Soon afterwards a monk was walking through the Kosalan country on his way to Sāvatthī, when one evening he came to a certain village. People saw him and said, “Venerable, please enter the village.” But knowing that entering a village at the wrong time without informing anyone had been prohibited by the Buddha and being afraid of wrongdoing, he declined. And so thieves robbed him.
 
-He then went to Sāvatthī and told the monks what had happened, who in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+He then went to Sāvatthī and told the bhikkhus what had happened, who in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to enter an inhabited area at the wrong time after informing an available monk.
+“bhikkhus, I allow you to enter an inhabited area at the wrong time after informing an available monk.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 
 9‘If a monk, when a monk is available, enters an inhabited area at the wrong time without informing him, he commits an offense entailing confession.’”
 
-10In this way the Buddha laid down this training rule for the monks.
+10In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-11Soon afterwards a monk was bitten by a snake. Another monk went to the village to get fire. He then remembered that the Buddha has prohibited entering a village at the wrong time without informing an available monk. And being afraid of wrongdoing, he did not enter. They told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+11Soon afterwards a monk was bitten by a snake. Another monk went to the village to get fire. He then remembered that the Buddha has prohibited entering a village at the wrong time without informing an available monk. And being afraid of wrongdoing, he did not enter. They told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to enter an inhabited area at the wrong time without informing an available monk if there is some appropriate urgent business.
+“bhikkhus, I allow you to enter an inhabited area at the wrong time without informing an available monk if there is some appropriate urgent business.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

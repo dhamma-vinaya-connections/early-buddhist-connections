@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that is so very blameworthy as wrong view. Wrong view is the most blameworthy thing of all.”
+1“bhikkhus, I do not see a single thing that is so very blameworthy as wrong view. Wrong view is the most blameworthy thing of all.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ mahāsāvajjaṁ yathayidaṁ, bhikkhave, micchādiṭṭhi. Micchādiṭṭhiparamāni, bhikkhave, mahāsāvajjānī"ti.
 

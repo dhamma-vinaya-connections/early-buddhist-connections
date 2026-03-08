@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 22. Śroṇatāṇḍya
 
-1. Thus I have heard: One time, the Buddha was staying in Aṅga accompanied by a great assembly of 1,250 monks. They traveled among the people, stopping to stay at the city of Campā by the side of Gargā Pond.
+1. Thus I have heard: One time, the Buddha was staying in Aṅga accompanied by a great assembly of 1,250 bhikkhus. They traveled among the people, stopping to stay at the city of Campā by the side of Gargā Pond.
 
 2. At the time, there was a priest named Śroṇatāṇḍya who was residing in Campā, a city that was populous, thriving, and bountiful. King Prasenajit had bestowed the city to the priest Śroṇatāṇḍya as his priestly due.
 

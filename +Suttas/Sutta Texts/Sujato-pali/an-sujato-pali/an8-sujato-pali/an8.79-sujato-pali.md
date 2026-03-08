@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“These eight things lead to the decline of a mendicant trainee. What eight? They relish work, talk, sleep, and company. They don’t guard the sense doors and they eat too much. They relish closeness and proliferation. These eight things lead to the decline of a mendicant trainee.
+1“These eight things lead to the decline of a bhikkhu trainee. What eight? They relish work, talk, sleep, and company. They don’t guard the sense doors and they eat too much. They relish closeness and proliferation. These eight things lead to the decline of a bhikkhu trainee.
 
-2These eight things don’t lead to the decline of a mendicant trainee. What eight? They don’t relish work, talk, and sleep. They guard the sense doors, and they don’t eat too much. They don’t relish closeness and proliferation. These eight things don’t lead to the decline of a mendicant trainee.”
+2These eight things don’t lead to the decline of a bhikkhu trainee. What eight? They don’t relish work, talk, and sleep. They guard the sense doors, and they don’t eat too much. They don’t relish closeness and proliferation. These eight things don’t lead to the decline of a bhikkhu trainee.”
 
 1"Aṭṭhime, bhikkhave, dhammā sekhassa bhikkhuno parihānāya saṁvattanti. Katame aṭṭha? Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā, saṁsaggārāmatā, papañcārāmatā – ime kho, bhikkhave, aṭṭha dhammā sekhassa bhikkhuno parihānāya saṁvattanti.
 

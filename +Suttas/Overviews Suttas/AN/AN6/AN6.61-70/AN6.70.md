@@ -47,7 +47,7 @@ parallels_partilal: ""
 > Without samādhi or immersion it is impossible to realize the higher truths of the path
 
 > [!info] Key Excerpts 
-> It’s totally impossible that a mendicant without samadhi  that is peaceful, refined, tranquil, and unified to achieve
+> It’s totally impossible that a bhikkhu without samadhi  that is peaceful, refined, tranquil, and unified to achieve
 > 
 > Psychic power: multiplying themselves, going unimpeded through a wall, diving in and out of the earth, walking on water, flying cross-legged, touching with the hand the sun and moon, going as far as the Brahmā realm and telepathy
 > 

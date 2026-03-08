@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Venerable Sāriputta addressed the mendicants: “Reverends, mendicants!”
+1There Venerable Sāriputta addressed the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Sāriputta said this:
 
 
-2“Reverends, a mendicant should use these five methods to completely get rid of resentment when it has arisen toward anyone. What five?
+2“Reverends, a bhikkhu should use these five methods to completely get rid of resentment when it has arisen toward anyone. What five?
 
 In the case of a person whose behavior by way of body is impure, but whose behavior by way of speech is pure, you should get rid of resentment for that kind of person.
 
@@ -37,7 +37,7 @@ In the case of a person whose behavior by way of body and speech is impure, and 
 
 In the case of a person whose behavior by way of body and speech is pure, and who gets an openness and clarity of heart from time to time, you should get rid of resentment for that kind of person.
 
-3How should you get rid of resentment for a person whose behavior by way of body is impure, but whose behavior by way of speech is pure? Suppose a mendicant wearing rag robes sees a rag by the side of the road. They’d hold it down with the left foot, spread it out with the right foot, tear out what was intact, and take it away with them. In the same way, at that time you should ignore that person’s impure behavior by way of body and focus on their pure behavior by way of speech. That’s how to get rid of resentment for that person.
+3How should you get rid of resentment for a person whose behavior by way of body is impure, but whose behavior by way of speech is pure? Suppose a bhikkhu wearing rag robes sees a rag by the side of the road. They’d hold it down with the left foot, spread it out with the right foot, tear out what was intact, and take it away with them. In the same way, at that time you should ignore that person’s impure behavior by way of body and focus on their pure behavior by way of speech. That’s how to get rid of resentment for that person.
 
 4How should you get rid of resentment for a person whose behavior by way of speech is impure, but whose behavior by way of body is pure? Suppose there was a lotus pond covered with moss and aquatic plants. Then along comes a person struggling in the oppressive heat, weary, thirsty, and parched. They’d plunge into the lotus pond, sweep apart the moss and aquatic plants, drink from their cupped hands, and be on their way. In the same way, at that time you should ignore that person’s impure behavior by way of speech and focus on their pure behavior by way of body. That’s how to get rid of resentment for that person.
 
@@ -50,7 +50,7 @@ In the case of a person whose behavior by way of body and speech is pure, and wh
 8In the same way, at that time you should focus on that person’s pure behavior by way of body and speech, and on the fact that they get an openness and clarity of heart from time to time. That’s how to get rid of resentment for that person. Relying on a person who is impressive all around, the mind becomes confident.
 
 
-9A mendicant should use these five methods to completely get rid of resentment when it has arisen toward anyone.”
+9A bhikkhu should use these five methods to completely get rid of resentment when it has arisen toward anyone.”
 
 #### Pali
 

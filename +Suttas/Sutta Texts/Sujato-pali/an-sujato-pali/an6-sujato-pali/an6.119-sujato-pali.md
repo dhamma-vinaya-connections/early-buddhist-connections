@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, having six qualities the householder Tapussa is certain about the Realized One, sees the deathless, and lives having realized the deathless. What six? Experiential confidence in the Buddha, the teaching, and the Saṅgha, and noble ethics, knowledge, and freedom. Having these six qualities the householder Tapussa is certain about the Realized One, sees the deathless, and lives having realized the deathless.”
+1“bhikkhus, having six qualities the householder Tapussa is certain about the Realized One, sees the deathless, and lives having realized the deathless. What six? Experiential confidence in the Buddha, the teaching, and the Saṅgha, and noble ethics, knowledge, and freedom. Having these six qualities the householder Tapussa is certain about the Realized One, sees the deathless, and lives having realized the deathless.”
 
 1"Chahi, bhikkhave, dhammehi samannāgato tapusso gahapati tathāgate niṭṭhaṅgato amataddaso amataṁ sacchikatvā iriyati. Katamehi chahi? Buddhe aveccappasādena, dhamme aveccappasādena, saṅghe aveccappasādena, ariyena sīlena, ariyena ñāṇena, ariyāya vimuttiyā. Imehi kho, bhikkhave, chahi dhammehi samannāgato tapusso gahapati tathāgate niṭṭhaṅgato amataddaso amataṁ sacchikatvā iriyatī"ti.
 

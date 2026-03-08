@@ -15,7 +15,7 @@ language: "English"
 ## ## Pabbata Sutta
 
 
-“Monks, the great Sal trees that live in dependence on the Himalayas, the king of mountains, prosper in terms of three kinds of prosperity. Which three? They prosper in terms of branches, leaves, & foliage. They prosper in terms of bark & shoots. They prosper in terms of softwood and heartwood. The great Sal trees that grow in dependence on the Himalayas, the king of mountains, prosper in terms of these three kinds of prosperity.
+“bhikkhus, the great Sal trees that live in dependence on the Himalayas, the king of mountains, prosper in terms of three kinds of prosperity. Which three? They prosper in terms of branches, leaves, & foliage. They prosper in terms of bark & shoots. They prosper in terms of softwood and heartwood. The great Sal trees that grow in dependence on the Himalayas, the king of mountains, prosper in terms of these three kinds of prosperity.
 
 “In the same way, the descendants who live in dependence on a clansman of conviction prosper in terms of three kinds of prosperity. Which three? They prosper in terms of conviction. They prosper in terms of virtue. They prosper in terms of discernment. The descendants who live in dependence on a clansman of conviction prosper in terms of these three kinds of prosperity.
 

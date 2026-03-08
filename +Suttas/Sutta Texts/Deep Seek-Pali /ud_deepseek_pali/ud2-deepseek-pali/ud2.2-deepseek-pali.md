@@ -16,11 +16,11 @@ language: "English - Pali"
 
 12. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sambahulānaṃ bhikkhūnaṃ pacchābhattaṃ piṇḍapātapaṭikkantānaṃ upaṭṭhānasālāyaṃ sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi – ‘‘ko nu kho, āvuso, imesaṃ dvinnaṃ rājūnaṃ mahaddhanataro vā mahābhogataro vā mahākosataro vā mahāvijitataro vā mahāvāhanataro vā mahabbalataro vā mahiddhikataro vā mahānubhāvataro vā rājā vā māgadho seniyo bimbisāro, rājā vā pasenadi kosalo’’ti? Ayañcarahi tesaṃ bhikkhūnaṃ antarākathā hoti vippakatā.
 
-12. Thus have I heard—at one time the Blessed One was dwelling at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s park. At that time, several monks, having returned from their alms-round after their meal, were assembled and sitting together in the service hall when this discussion arose among them: "Which of these two kings, friends, is wealthier, with greater possessions, with greater treasures, with greater territory, with greater vehicles, with greater strength, more powerful, or more majestic—King Seniya Bimbisāra of Magadha or King Pasenadi of Kosala?" This was their interrupted discussion.
+12. Thus have I heard—at one time the Blessed One was dwelling at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s park. At that time, several bhikkhus, having returned from their alms-round after their meal, were assembled and sitting together in the service hall when this discussion arose among them: "Which of these two kings, friends, is wealthier, with greater possessions, with greater treasures, with greater territory, with greater vehicles, with greater strength, more powerful, or more majestic—King Seniya Bimbisāra of Magadha or King Pasenadi of Kosala?" This was their interrupted discussion.
 
 Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yenupaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho bhagavā bhikkhū āmantesi – ‘‘kāya nuttha, bhikkhave, etarahi kathāya sannisinnā sannipatitā, kā ca pana vo antarākathā vippakatā’’ti?
 
-Then the Blessed One, in the evening, rising from seclusion, approached the service hall. Having approached, he sat down on the prepared seat. Having sat down, the Blessed One addressed the monks: "Monks, with what discussion are you now assembled and sitting together? And what was the discussion that was interrupted?"
+Then the Blessed One, in the evening, rising from seclusion, approached the service hall. Having approached, he sat down on the prepared seat. Having sat down, the Blessed One addressed the bhikkhus: "bhikkhus, with what discussion are you now assembled and sitting together? And what was the discussion that was interrupted?"
 
 ‘‘Idha, bhante, amhākaṃ pacchābhattaṃ piṇḍapātapaṭikkantānaṃ upaṭṭhānasālāyaṃ sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi – ‘ko nu kho, āvuso, imesaṃ dvinnaṃ rājūnaṃ mahaddhanataro vā mahābhogataro vā mahākosataro vā mahāvijitataro vā mahāvāhanataro vā mahabbalataro vā mahiddhikataro vā mahānubhāvataro vā rājā vā māgadho seniyo bimbisāro, rājā vā pasenadi kosalo’ti? Ayaṃ kho no, bhante, antarākathā vippakatā, atha bhagavā anuppatto’’ti.
 
@@ -28,7 +28,7 @@ Then the Blessed One, in the evening, rising from seclusion, approached the serv
 
 ‘‘Na khvetaṃ, bhikkhave, tumhākaṃ patirūpaṃ kulaputtānaṃ saddhā agārasmā anagāriyaṃ pabbajitānaṃ yaṃ tumhe evarūpiṃ kathaṃ katheyyātha. Sannipatitānaṃ vo, bhikkhave, dvayaṃ karaṇīyaṃ – dhammī vā kathā ariyo vā tuṇhībhāvo’’ti.
 
-"Monks, this is unsuitable for you, sons of good families who have gone forth in faith from the household life into homelessness, that you should engage in such talk. When you have gathered, monks, there are two things to do: either Dhamma talk or noble silence."
+"bhikkhus, this is unsuitable for you, sons of good families who have gone forth in faith from the household life into homelessness, that you should engage in such talk. When you have gathered, bhikkhus, there are two things to do: either Dhamma talk or noble silence."
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

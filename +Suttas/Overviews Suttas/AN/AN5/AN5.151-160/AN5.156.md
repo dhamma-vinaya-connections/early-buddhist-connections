@@ -47,9 +47,9 @@ parallels_partilal: "[[AN4.160]]"
 > Things lead to the decline and disappearance of the true teaching.
 
 > [!info] Key Excerpts 
-> Mendicants don’t carefully listen to the teachings, memorize them, and remember them, examine their meaning and practice accordingly, are hard to admonish and senior mendicants are indulgent and slack
+> bhikkhus don’t carefully listen to the teachings, memorize them, and remember them, examine their meaning and practice accordingly, are hard to admonish and senior bhikkhus are indulgent and slack
 > 
-> Mendicants don’t explain the teaching in detail to others, don’t recite them, they learned incorrectly, with misplaced words and phrases and there’s a schism in the saṅgha
+> bhikkhus don’t explain the teaching in detail to others, don’t recite them, they learned incorrectly, with misplaced words and phrases and there’s a schism in the saṅgha
 > 
 
 

@@ -222,7 +222,7 @@ Noble Truths: the truth of suffering, the truth of the cause of suffering,
 the truth of the cessation of suffering, and the truth of the path of ces-  
 sation of suffering.  
 (24) Again there is another fourfold doctrine that explains four results  
-of the mendicant life: the result of the saintly state of stream-enterer
+of the bhikkhu life: the result of the saintly state of stream-enterer
 
 (32) Again there is another fourfold doctrine that explains four kinds  
 of discernment: one discerns what he can or should accept, how he can  

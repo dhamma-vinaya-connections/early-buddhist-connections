@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that, when it’s not developed and cultivated, brings such suffering as the mind. An undeveloped and uncultivated mind brings suffering.”
+1“bhikkhus, I do not see a single thing that, when it’s not developed and cultivated, brings such suffering as the mind. An undeveloped and uncultivated mind brings suffering.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yaṁ evaṁ abhāvitaṁ abahulīkataṁ dukkhādhivahaṁ hoti yathayidaṁ, bhikkhave, cittaṁ. Cittaṁ, bhikkhave, abhāvitaṁ abahulīkataṁ dukkhādhivahaṁ hotī"ti.
 

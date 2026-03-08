@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 31
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these two things that cause no remorse. Which two? There is the case of the person who has done what is admirable, has done what is skillful, has given protection to those in fear, and has done nothing that is evil, savage, or cruel. Thinking, ‘I have done what is admirable,’ he feels no remorse. Thinking, ‘I have not done what is evil,’ he feels no remorse. These are the two things that cause no remorse.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these two things that cause no remorse. Which two? There is the case of the person who has done what is admirable, has done what is skillful, has given protection to those in fear, and has done nothing that is evil, savage, or cruel. Thinking, ‘I have done what is admirable,’ he feels no remorse. Thinking, ‘I have not done what is evil,’ he feels no remorse. These are the two things that cause no remorse.”
 
 Having abandoned
 

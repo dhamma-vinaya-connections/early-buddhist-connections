@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. There the Buddha addressed the monks: “Monks, I wish to do a solitary retreat for three months. No one should visit me except the one who brings me almsfood.”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. There the Buddha addressed the bhikkhus: “bhikkhus, I wish to do a solitary retreat for three months. No one should visit me except the one who brings me almsfood.”
 
 “Yes, Venerable Sir,” they replied, and no one visited him except the one who brought him almsfood.
 
 Soon afterwards the Sangha at Sāvatthī made the following agreement: “The Buddha wishes to be on solitary retreat for three months. No one should visit him except the one who brings him almsfood. Anyone who does must confess an offense entailing confession.”
 
-2Just then Venerable Upasena of Vaṅganta and his followers went to the Buddha, bowed, and sat down. Since it is the custom for Buddhas to greet newly arrived monks, the Buddha said this to Upasena, “I hope you’re keeping well, Upasena, I hope you’re getting by? I hope you’re not tired from traveling?”
+2Just then Venerable Upasena of Vaṅganta and his followers went to the Buddha, bowed, and sat down. Since it is the custom for Buddhas to greet newly arrived bhikkhus, the Buddha said this to Upasena, “I hope you’re keeping well, Upasena, I hope you’re getting by? I hope you’re not tired from traveling?”
 
 “We’re keeping well, Sir, we’re getting by. We’re not tired from traveling.”
 
@@ -51,28 +51,28 @@ And the Buddha said to Upasena, “Upasena, your followers are inspiring. How do
 
 “Good, Upasena. One should not lay down new rules, nor should one get rid of the existing ones. One should practice and undertake the training rules as they are.
 
-And, Upasena, I allow those monks who stay in the wilderness, who eat only almsfood, and who wear rag-robes to visit me whenever they please.”
+And, Upasena, I allow those bhikkhus who stay in the wilderness, who eat only almsfood, and who wear rag-robes to visit me whenever they please.”
 
 
-5Just then a number of monks were standing outside the gateway, thinking, “We’ll make Venerable Upasena confess an offense entailing confession.”
+5Just then a number of bhikkhus were standing outside the gateway, thinking, “We’ll make Venerable Upasena confess an offense entailing confession.”
 
 Upasena and his followers got up from their seats, bowed down, circumambulated the Buddha with their right sides toward him, and left.
 
 And they said to Upasena, “Upasena, do you know the agreement of the Sangha at Sāvatthī?”
 
-“The Buddha asked me the same question, and I replied that I didn’t. He then told me what it was, and I said, ‘Venerable Sir, let the Sangha at Sāvatthī be known for this agreement. We, however, don’t lay down new rules, nor do we get rid of the existing ones. We practice and undertake the training rules as they are.’ Also, the Buddha has allowed those monks who stay in the wilderness, who eat only almsfood, and who wear rag-robes to visit him whenever they please.”
+“The Buddha asked me the same question, and I replied that I didn’t. He then told me what it was, and I said, ‘Venerable Sir, let the Sangha at Sāvatthī be known for this agreement. We, however, don’t lay down new rules, nor do we get rid of the existing ones. We practice and undertake the training rules as they are.’ Also, the Buddha has allowed those bhikkhus who stay in the wilderness, who eat only almsfood, and who wear rag-robes to visit him whenever they please.”
 
 
-6Those monks thought, “It’s true what Venerable Upasena says.”
+6Those bhikkhus thought, “It’s true what Venerable Upasena says.”
 
 
-The monks heard that the Buddha had allowed those monks who stay in the wilderness, who eat only almsfood, and who wear rag-robes to visit him whenever they please. Longing to see the Buddha, they discarded their blankets and undertook the practice of staying in the wilderness, of eating only almsfood, and of wearing rag-robes.
+The bhikkhus heard that the Buddha had allowed those bhikkhus who stay in the wilderness, who eat only almsfood, and who wear rag-robes to visit him whenever they please. Longing to see the Buddha, they discarded their blankets and undertook the practice of staying in the wilderness, of eating only almsfood, and of wearing rag-robes.
 
 
-Soon afterwards, when the Buddha and a number of monks were walking about the dwellings, he saw discarded blankets here and there. He asked the monks, “Who owns these discarded blankets?”
+Soon afterwards, when the Buddha and a number of bhikkhus were walking about the dwellings, he saw discarded blankets here and there. He asked the bhikkhus, “Who owns these discarded blankets?”
 
 
-7The monks told him. Soon afterwards he gave a teaching and addressed the monks: “Well then, monks, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of well-behaved monks, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training. And, monks, this training rule should be recited like this:
+7The bhikkhus told him. Soon afterwards he gave a teaching and addressed the bhikkhus: “Well then, bhikkhus, I will lay down a training rule for the following ten reasons: for the well-being of the Sangha, for the comfort of the Sangha, for the restraint of bad people, for the ease of well-behaved bhikkhus, for the restraint of corruptions relating to the present life, for the restraint of corruptions relating to future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the longevity of the true Teaching, and for supporting the training. And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -94,7 +94,7 @@ Soon afterwards, when the Buddha and a number of monks were walking about the dw
 14**Without incorporating a piece of one standard handspan from the border of an old blanket:** If he makes a new sitting-blanket, or has one made, without incorporating a piece of one standard handspan from the border of an old blanket, then for the effort there is an act of wrong conduct. When he gets the sitting-blanket, it becomes subject to relinquishment.
 
 
-The sitting-blanket should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The sitting-blanket should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this sitting-blanket, which I got made without incorporating a piece of one standard handspan from the border of an old blanket, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this sitting-blanket back to you.’”

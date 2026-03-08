@@ -20,7 +20,7 @@ language: "English - Pali"
 
 Atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ piṇḍāya pāvisiṃsu. Rājagahe piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ –
 
-Then, several monks, having dressed in the morning and taken their bowls and robes, entered Rājagaha for alms. Having wandered for alms in Rājagaha and after the meal, returning from their alms round, they approached the Blessed One. Having approached, they paid homage to the Blessed One and sat down to one side. Sitting to one side, those monks said to the Blessed One:
+Then, several bhikkhus, having dressed in the morning and taken their bowls and robes, entered Rājagaha for alms. Having wandered for alms in Rājagaha and after the meal, returning from their alms round, they approached the Blessed One. Having approached, they paid homage to the Blessed One and sat down to one side. Sitting to one side, those bhikkhus said to the Blessed One:
 
 ‘‘Idha, bhante, rājagahe dve pūgā aññatarissā gaṇikāya sārattā paṭibaddhacittā; bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ pāṇīhipi upakkamanti, leḍḍūhipi upakkamanti, daṇḍehipi upakkamanti, satthehipi upakkamanti. Te tattha maraṇampi nigacchanti maraṇamattampi dukkha’’nti.
 

@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nuns from the group of six were teaching pointless knowledge. People complained and criticized them, “How can the nuns teach pointless knowledge? They’re just like householders who indulge in worldly pleasures!”
 
-2The nuns heard the complaints of those people, and the nuns of few desires complained and criticized them, “How can the nuns from the group of six do this?” … “Is it true, monks, those nuns do this?”
+2The nuns heard the complaints of those people, and the nuns of few desires complained and criticized them, “How can the nuns from the group of six do this?” … “Is it true, bhikkhus, those nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

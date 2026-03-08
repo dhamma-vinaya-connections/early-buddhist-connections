@@ -15,7 +15,7 @@ language: "Pali - English"
 
 340. Tena samayena buddho bhagavā kosambiyaṃ viharati ghositārāme. Tena kho pana samayena āyasmā channo anācāraṃ ācarati. Bhikkhū evamāhaṃsu – ‘‘māvuso channa, evarūpaṃ akāsi. Netaṃ kappatī’’ti. So anādariyaṃ paṭicca karotiyeva. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma āyasmā channo anādariyaṃ karissatī’’ti…pe… saccaṃ kira tvaṃ, channa, anādariyaṃ karosīti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tvaṃ, moghapurisa, anādariyaṃ karissasi! Netaṃ, moghapurisa, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-340.At that time the Blessed One was dwelling at Kosambi, in Ghosita’s Park. At that time, Venerable Channa was behaving improperly. The monks said to him, “Friend Channa, do not act in this way. This is not allowable.” But, with disrespect, he continued to do so. Those monks who were of few wishes… they complained and criticized him: “How could Venerable Channa act disrespectfully?”… “Is it true, Channa, that you act disrespectfully?” “It is true, Blessed One.” The Blessed One rebuked him… “How could you, foolish man, act disrespectfully? This is not for the confidence of those without it…” “And thus, monks, this training rule should be recited:
+340.At that time the Blessed One was dwelling at Kosambi, in Ghosita’s Park. At that time, Venerable Channa was behaving improperly. The bhikkhus said to him, “Friend Channa, do not act in this way. This is not allowable.” But, with disrespect, he continued to do so. Those bhikkhus who were of few wishes… they complained and criticized him: “How could Venerable Channa act disrespectfully?”… “Is it true, Channa, that you act disrespectfully?” “It is true, Blessed One.” The Blessed One rebuked him… “How could you, foolish man, act disrespectfully? This is not for the confidence of those without it…” “And thus, bhikkhus, this training rule should be recited:
 
 341. ‘‘Anādariye pācittiya’’nti.
 
@@ -27,11 +27,11 @@ language: "Pali - English"
 
 Puggalānādariyaṃ nāma upasampannena paññattena vuccamāno – ‘‘ayaṃ ukkhittako vā vambhito vā garahito vā, imassa vacanaṃ akataṃ bhavissatī’’ti anādariyaṃ karoti, āpatti pācittiyassa.
 
-Disrespect for persons means that when a fully ordained monk who has been designated is speaking, if he thinks, “This one has been suspended, or scorned, or censured. His words will be ignored,” and he acts disrespectfully, there is an offense entailing confession.
+Disrespect for persons means that when a fully ordained bhikkhu who has been designated is speaking, if he thinks, “This one has been suspended, or scorned, or censured. His words will be ignored,” and he acts disrespectfully, there is an offense entailing confession.
 
 Dhammānādariyaṃ nāma upasampannena paññattena vuccamāno ‘‘kathāyaṃ nasseyya vā vinasseyya vā antaradhāyeyya vā’’, taṃ vā na sikkhitukāmo anādariyaṃ karoti, āpatti pācittiyassa.
 
-Disrespect for the Dhamma means that when being spoken to by a fully ordained monk concerning what has been laid down, if he thinks, “May this Dhamma, this tradition, be lost or destroyed or disappear,” or he does not wish to learn it, and he acts disrespectfully, there is an offense entailing confession.
+Disrespect for the Dhamma means that when being spoken to by a fully ordained bhikkhu concerning what has been laid down, if he thinks, “May this Dhamma, this tradition, be lost or destroyed or disappear,” or he does not wish to learn it, and he acts disrespectfully, there is an offense entailing confession.
 
 343. Upasampanne upasampannasaññī anādariyaṃ karoti, āpatti pācittiyassa. Upasampanne vematiko anādariyaṃ karoti, āpatti pācittiyassa. Upasampanne anupasampannasaññī anādariyaṃ karoti, āpatti pācittiyassa.
 

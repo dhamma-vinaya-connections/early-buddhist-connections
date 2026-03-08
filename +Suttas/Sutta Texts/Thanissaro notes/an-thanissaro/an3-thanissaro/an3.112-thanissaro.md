@@ -15,7 +15,7 @@ language: "English"
 ## ## Nidāna Sutta
 
 
-“Monks, there are three causes for the origination of action. Which three? Greed is a cause for the origination of action. Aversion is a cause for the origination of action. Delusion is a cause for the origination of action.
+“bhikkhus, there are three causes for the origination of action. Which three? Greed is a cause for the origination of action. Aversion is a cause for the origination of action. Delusion is a cause for the origination of action.
 
 “Any action fashioned by greed, born of greed, caused by greed, originated through greed is unskillful, it’s blameworthy, it ripens in pain, it leads to the origination of (further) action, it doesn’t lead to the cessation of action.
 
@@ -23,7 +23,7 @@ language: "English"
 
 “Any action fashioned by delusion, born of delusion, caused by delusion, originated through delusion is unskillful, it’s blameworthy, it ripens in pain, it leads to the origination of (further) action, it doesn’t lead to the cessation of action.
 
-“These, monks, are three causes for the origination of action.
+“These, bhikkhus, are three causes for the origination of action.
 
 “There are three (other) causes for the origination of action.
 
@@ -35,7 +35,7 @@ Which three? Non-greed is a cause for the origination of action. Non-aversion is
 
 “Any action fashioned by non-delusion, born of non-delusion, caused by non-delusion, originated through non-delusion is skillful, it’s blameless, it ripens in pleasure, it leads to the cessation of action, it doesn’t lead to the origination of action.
 
-“These, monks, are three causes for the origination of action.”
+“These, bhikkhus, are three causes for the origination of action.”
 
 See also: [[an4.237-thanissaro]]
 

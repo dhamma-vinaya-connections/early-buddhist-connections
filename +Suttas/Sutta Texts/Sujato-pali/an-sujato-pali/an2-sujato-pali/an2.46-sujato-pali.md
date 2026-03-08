@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two assemblies. What two? An assembly of the dregs and an assembly of the cream.
+1“There are, bhikkhus, these two assemblies. What two? An assembly of the dregs and an assembly of the cream.
 
-And what is an assembly of the dregs? An assembly where the mendicants make decisions prejudiced by favoritism, hostility, stupidity, and cowardice. This is called an assembly of the dregs.
+And what is an assembly of the dregs? An assembly where the bhikkhus make decisions prejudiced by favoritism, hostility, stupidity, and cowardice. This is called an assembly of the dregs.
 
-2And what is an assembly of the cream? An assembly where the mendicants make decisions unprejudiced by favoritism, hostility, stupidity, and cowardice. This is called an assembly of the cream.
+2And what is an assembly of the cream? An assembly where the bhikkhus make decisions unprejudiced by favoritism, hostility, stupidity, and cowardice. This is called an assembly of the cream.
 
 These are the two assemblies. The better of these two assemblies is the assembly of the cream.”
 

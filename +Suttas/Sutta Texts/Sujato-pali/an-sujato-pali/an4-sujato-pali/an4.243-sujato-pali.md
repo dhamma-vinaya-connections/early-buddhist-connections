@@ -30,17 +30,17 @@ language: "English - Pali"
 2“But Ānanda, since when has Anuruddha been involved in disciplinary issues in the midst of the Saṅgha? Shouldn’t you, together with Sāriputta and Moggallāna, settle all disciplinary issues that come up?
 
 
-3A bad monk sees four reasons to relish schism in the Saṅgha. What four?
+3A bad bhikkhu sees four reasons to relish schism in the Saṅgha. What four?
 
-Take an unethical monk, of bad qualities, filthy, with suspicious behavior, underhand, no true ascetic or spiritual practitioner — though claiming to be one — rotten inside, corrupt, and depraved. He thinks: ‘Suppose the monks know that I’m a bad monk … If they’re in harmony, they’ll expel me, but if they’re divided they won’t.’ A bad monk sees this as the first reason to relish schism in the Saṅgha.
+Take an unethical bhikkhu, of bad qualities, filthy, with suspicious behavior, underhand, no true ascetic or spiritual practitioner — though claiming to be one — rotten inside, corrupt, and depraved. He thinks: ‘Suppose the bhikkhus know that I’m a bad bhikkhu … If they’re in harmony, they’ll expel me, but if they’re divided they won’t.’ A bad bhikkhu sees this as the first reason to relish schism in the Saṅgha.
 
-4Furthermore, a bad monk has wrong view, he’s attached to an extremist view. He thinks: ‘Suppose the monks know that I have wrong view … If they’re in harmony they’ll expel me, but if they’re divided they won’t.’ A bad monk sees this as the second reason to relish schism in the Saṅgha.
+4Furthermore, a bad bhikkhu has wrong view, he’s attached to an extremist view. He thinks: ‘Suppose the bhikkhus know that I have wrong view … If they’re in harmony they’ll expel me, but if they’re divided they won’t.’ A bad bhikkhu sees this as the second reason to relish schism in the Saṅgha.
 
-5Furthermore, a bad monk has wrong livelihood and earns a living by wrong livelihood. He thinks: ‘Suppose the monks know that I have wrong livelihood … If they’re in harmony they’ll expel me, but if they’re divided they won’t.’ A bad monk sees this as the third reason to relish schism in the Saṅgha.
+5Furthermore, a bad bhikkhu has wrong livelihood and earns a living by wrong livelihood. He thinks: ‘Suppose the bhikkhus know that I have wrong livelihood … If they’re in harmony they’ll expel me, but if they’re divided they won’t.’ A bad bhikkhu sees this as the third reason to relish schism in the Saṅgha.
 
-6Furthermore, a bad monk desires material possessions, honor, and admiration. He thinks: ‘Suppose the monks know that I desire material possessions, honor, and admiration. If they’re in harmony they won’t honor, respect, revere, or venerate me, but if they’re divided they will.’ A bad monk sees this as the fourth reason to relish schism in the Saṅgha.
+6Furthermore, a bad bhikkhu desires material possessions, honor, and admiration. He thinks: ‘Suppose the bhikkhus know that I desire material possessions, honor, and admiration. If they’re in harmony they won’t honor, respect, revere, or venerate me, but if they’re divided they will.’ A bad bhikkhu sees this as the fourth reason to relish schism in the Saṅgha.
 
-A bad monk sees these four reasons to relish schism in the Saṅgha.”
+A bad bhikkhu sees these four reasons to relish schism in the Saṅgha.”
 
 #### Pali
 

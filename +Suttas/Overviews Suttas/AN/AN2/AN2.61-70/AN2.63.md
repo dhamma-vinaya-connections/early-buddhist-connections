@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicants won’t live comfortably.
+> bhikkhus won’t live comfortably.
 
 > [!info] Key Excerpts 
 > When the tale-bearing on both sides—with contempt for each other’s views, resentful, bitter, and exasperated

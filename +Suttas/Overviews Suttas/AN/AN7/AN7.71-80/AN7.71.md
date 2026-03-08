@@ -49,7 +49,7 @@ parallels_partilal: "[[SN22.101]], [[SA263]]"
 > [!info] Key Excerpts 
 > The four kinds of mindfulness meditation, the four right efforts, the four bases of psychic power, the five faculties, the five powers, the seven awakening factors, and the noble eightfold path
 > 
-> When a mendicant is committed to development, they might not wish: ‘if only my mind was freed from the defilements by not grasping!’ Even So, their mind is freed from defilements by not grasping
+> When a bhikkhu is committed to development, they might not wish: ‘if only my mind was freed from the defilements by not grasping!’ Even So, their mind is freed from defilements by not grasping
 > 
 
 > [!info] Similes

@@ -16,27 +16,27 @@ Translated by Charles Patton
 
 ### 10. Going Up to Ten
 
-1. Thus I have heard: One time, the Buddha traveled to Aṅga accompanied by a great assembly of 1,250 monks. They went to the city of Campā and stayed near Lake Gargarā.
+1. Thus I have heard: One time, the Buddha traveled to Aṅga accompanied by a great assembly of 1,250 bhikkhus. They went to the city of Campā and stayed near Lake Gargarā.
 
-2. On the fifteenth-day full moon, the Bhagavān sat in an open area with a great assembly surrounding him. After teaching the Dharma all night, he addressed Śāriputra, “The monks have gathered today from the four directions. They’ve all diligently shaken off their sleepiness and want to listen to a Dharma teaching, but I’m suffering from back pain. I’m going to take a break. You can teach the Dharma for the monks now.”
+2. On the fifteenth-day full moon, the Bhagavān sat in an open area with a great assembly surrounding him. After teaching the Dharma all night, he addressed Śāriputra, “The bhikkhus have gathered today from the four directions. They’ve all diligently shaken off their sleepiness and want to listen to a Dharma teaching, but I’m suffering from back pain. I’m going to take a break. You can teach the Dharma for the bhikkhus now.”
 
 3. Śāriputra accepted the Buddha’s instruction. The Bhagavān then folded his outer robe four times and laid on his right side like a lion with his feet together.
 
-4. The senior Śāriputra then addressed the monks, “I will teach the Dharma now. Its words are true in the beginning, middle, and end, its content and meaning are complete, and it purifies the religious life. All of you, listen closely, and consider it well. I will teach it for you.”
+4. The senior Śāriputra then addressed the bhikkhus, “I will teach the Dharma now. Its words are true in the beginning, middle, and end, its content and meaning are complete, and it purifies the religious life. All of you, listen closely, and consider it well. I will teach it for you.”
 
-The monks accepted his instructions and listened.
+The bhikkhus accepted his instructions and listened.
 
-5. Śāriputra told the monks, “There are teachings that go up to ten which remove the manifold bonds, reach _nirvāṇa_, and completely end suffering. They also perfect 550 things. Now, I will discern them. All of you, listen well!
+5. Śāriputra told the bhikkhus, “There are teachings that go up to ten which remove the manifold bonds, reach _nirvāṇa_, and completely end suffering. They also perfect 550 things. Now, I will discern them. All of you, listen well!
 
 #### The Ones
 
-6. “Monks, there’s one thing to be achieved, one thing to be cultivated, one thing to be recognized, one thing to be ceased, one thing that retreats, one thing that advances, one thing that’s difficult to understand, one thing to produce, one thing to know, and one thing to be realized.
+6. “bhikkhus, there’s one thing to be achieved, one thing to be cultivated, one thing to be recognized, one thing to be ceased, one thing that retreats, one thing that advances, one thing that’s difficult to understand, one thing to produce, one thing to know, and one thing to be realized.
 
 7. “What’s one thing to be achieved? Not being careless about good qualities. What’s one thing to be cultivated? Constant mindfulness of oneself. What’s one thing to be recognized? Contaminated contact. What’s one thing to be ceased? The conceit of self. What’s one thing that retreats? Not contemplating the foul discharges. What’s one thing that advances? Contemplation of the foul discharges. What’s one thing that’s difficult to understand? Uninterrupted _samādhi_. What’s one thing to produce? Liberation from being contaminated. What’s one thing to know? Sentient beings look to food for their subsistence. What’s one thing to be realized? The freedom of an unobstructed mind.
 
 #### The Twos
 
-8. “Monks, there are two things to be achieved, two things to be cultivated, two things to be recognized, two things to be ceased, two things that retreat, two things that advance, two things that are difficult to understand, two things to produce, two things to know, and two things to be realized.
+8. “bhikkhus, there are two things to be achieved, two things to be cultivated, two things to be recognized, two things to be ceased, two things that retreat, two things that advance, two things that are difficult to understand, two things to produce, two things to know, and two things to be realized.
 
 9. “What are two things to be achieved? Knowing conscience and modesty. What are two things to be cultivated? Calm and contemplation. What are two things to be recognized? Name and form. What are two things to be ceased? Ignorance and craving. What are two things that retreat? Violating precepts and breaking with [right] view. What are two things that advance? Being complete in precepts and complete in view. What are two things that are difficult to understand? The causes and conditions for sentient beings to be defiled and the causes and conditions for sentient beings to be purified. What are two things to produce? Knowledge of ending [the contaminants] and knowledge of no birth. What are two things to know? What’s possible and what’s impossible. What are two things to be realized? Insight and liberation.
 
@@ -64,7 +64,7 @@ The monks accepted his instructions and listened.
 
 20. “What are three things to be realized? The three insights: the knowledge of past lives, the knowledge of the heavenly eye, and the knowledge that the contaminants are ended.
 
-21. “Monks, these thirty things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
+21. “bhikkhus, these thirty things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
 
 #### The Fours
 
@@ -90,7 +90,7 @@ The monks accepted his instructions and listened.
 
 32. “What are four things to be realized? The four fruits of the ascetic: The fruit of stream entry, fruit of once-returning, fruit of non-returning, and fruit of the arhat.
 
-33. “Monks, these forty things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
+33. “bhikkhus, these forty things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
 
 #### The Fives
 
@@ -148,13 +148,13 @@ The monks accepted his instructions and listened.
 
 59. “What are six things to produce? The six equanimities: Here, a monk sees forms without sorrow or joy and abides detached with focused attention. Hearing sounds … smelling odors … tasting flavors … cognizing notions, he’s neither joyous nor sorrowful and abides detached with focused attention.
 
-60. “What are six things to know? The six spheres of escape: [1] Suppose a monk says, ‘I’d cultivate kindness, but then I become angry.’ The other monks say, ‘Don’t say that! Don’t misrepresent the Tathāgata. The Tathāgata doesn’t say, “I’d like to cultivate the liberation of kindness, but then notions of anger arise.” That’s impossible. The Buddha says, “Once anger is gone, then one becomes kind afterward.”’
+60. “What are six things to know? The six spheres of escape: [1] Suppose a monk says, ‘I’d cultivate kindness, but then I become angry.’ The other bhikkhus say, ‘Don’t say that! Don’t misrepresent the Tathāgata. The Tathāgata doesn’t say, “I’d like to cultivate the liberation of kindness, but then notions of anger arise.” That’s impossible. The Buddha says, “Once anger is gone, then one becomes kind afterward.”’
 
 61. “Suppose a monk says, [2] ‘I’d practice the liberation of compassion, but then I have hateful thoughts.’… [3] ‘practice the liberation of joy, but then I have sorrowful thoughts.’ … [4] ‘practice the liberation of equanimity, but then I have thoughts of like or dislike.’ … [5] ‘cultivate the practice of non-self, but then I have suspicious thoughts’ … [6] ‘cultivate the practice without conception, but then I have many distracting notions.’ _Those cases are likewise._
 
 62. “What are six things to be realized? The six spiritual penetrations: Realization of miraculous abilities, realization of the heavenly ear, realization of knowing others’ minds, realization of perceiving past lives, realization of the heavenly eye, and realization of perceiving the end of the contaminants.
 
-63. “These sixty things, monks, are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
+63. “These sixty things, bhikkhus, are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
 
 #### The Sevens
 
@@ -180,7 +180,7 @@ The monks accepted his instructions and listened.
 
 74. “What are seven things to be realized? The seven powers of ending the contaminants: Here, a monk who has ended the contaminants [1] really knows and sees all kinds of suffering and their formation, cessation, enjoyment, defect, and escape. [2] He observes desire to be like a fire pit or a sword. He knows desire and sees desire. He isn’t greedy for desires, and his mind doesn’t dwell on desire. [3] Again, skillfully examining it, having really known and really seen it, worldly lust and bad and unskillful things don’t arise and defile him. [4] He cultivates the four abodes of mindfulness, often cultivating and practicing them … [5] the five faculties and five powers … [6] the seven awakenings … [7] the noble eightfold path, often cultivating and practicing it.
 
-75. “Monks, these seventy things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
+75. “bhikkhus, these seventy things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
 
 #### The Eights
 
@@ -272,7 +272,7 @@ The monks accepted his instructions and listened.
 
 119. “What are eight things to be realized? The eight liberations: Form observed to be form is the first liberation. Observing external form without an internal perception of form is the second liberation. The liberation of purity is the third liberation. Going beyond notions of form, ceasing notions of anger, and abiding in the abode of space is the fourth liberation. Going beyond the abode of space and abiding in the abode of awareness is the fifth liberation. Going beyond the abode of awareness and abiding in the abode of nothingness is the sixth liberation. Going beyond the abode of nothingness and abiding in the abode with and without conception is the seventh liberation. Going beyond the abode with and without conception and abiding in the cessation of concepts and perceptions is the eighth liberation.
 
-120. “Monks, these eighty things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
+120. “bhikkhus, these eighty things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
 
 #### The Nines
 
@@ -312,7 +312,7 @@ The monks accepted his instructions and listened.
 
 138. “What are nine things to be realized? The nine kinds of cessation: When the first dhyāna is entered, the thorn of sound is ceased. When the second dhyāna is entered, the thorns of perception and examination are ceased. When the third dhyāna is entered, the thorn of joy is ceased. When the fourth dhyāna is entered, the thorn of breathing is ceased. When the abode of space is entered, the thorn of perceiving form is ceased. When the abode of awareness is entered, the thorn of perceiving space is ceased. When the abode of nothingness is entered, the thorn of perceiving awareness is ceased. When the abode with and without conception is entered, the thorn of perceiving nothingness is ceased. When the _samādhi_ of complete cessation is entered, the thorns of conception and feeling are ceased.
 
-139. “Monks, these ninety things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
+139. “bhikkhus, these ninety things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.
 
 #### The Tens
 
@@ -338,9 +338,9 @@ The monks accepted his instructions and listened.
 
 150. “What are ten things to be realized? The ten ways of an adept: right view, right intention, right speech, right action, right livelihood, right method, right mindfulness, right _samādhi_, right liberation, and right knowledge.
 
-151. “Monks, these hundred things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.”
+151. “bhikkhus, these hundred things are true and not false. They’ve been known by the Tathāgata who teaches the Dharma equally.”
 
-152. The Buddha then approved of what Śāriputra said. When the monks heard what Śāriputra taught, they rejoiced and approved.
+152. The Buddha then approved of what Śāriputra said. When the bhikkhus heard what Śāriputra taught, they rejoiced and approved.
 
 ---
 

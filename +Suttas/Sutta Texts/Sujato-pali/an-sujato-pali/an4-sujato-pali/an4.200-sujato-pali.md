@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four things are born of love and hate. What four?
+1“bhikkhus, these four things are born of love and hate. What four?
 
 1. Love is born of love,
 2. hate is born of love,
@@ -38,36 +38,36 @@ language: "English - Pali"
 These are the four things that are born of love and hate.
 
 
-6A time comes when a mendicant … enters and remains in the first jhāna. At that time they have no love born of love, hate born of love, love born of hate, or hate born of hate.
+6A time comes when a bhikkhu … enters and remains in the first jhāna. At that time they have no love born of love, hate born of love, love born of hate, or hate born of hate.
 
 
-7A time comes when a mendicant … enters and remains in the second jhāna … third jhāna … fourth jhāna. At that time they have no love born of love, hate born of love, love born of hate, or hate born of hate.
+7A time comes when a bhikkhu … enters and remains in the second jhāna … third jhāna … fourth jhāna. At that time they have no love born of love, hate born of love, love born of hate, or hate born of hate.
 
-8A time comes when a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. At that time any love born of love, hate born of love, love born of hate, or hate born of hate is given up, cut off at the root, made like a palm stump, obliterated, and unable to arise in the future.
+8A time comes when a bhikkhu realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. At that time any love born of love, hate born of love, love born of hate, or hate born of hate is given up, cut off at the root, made like a palm stump, obliterated, and unable to arise in the future.
 
-This is called a mendicant who doesn’t draw close or push back or fume or ignite or burn up.
-
-
-9And how does a mendicant draw close? It’s when a mendicant regards form as self, self as having form, form in self, or self in form. They regard feeling as self, self as having feeling, feeling in self, or self in feeling. They regard perception as self, self as having perception, perception in self, or self in perception. They regard choices as self, self as having choices, choices in self, or self in choices. They regard consciousness as self, self as having consciousness, consciousness in self, or self in consciousness. That’s how a mendicant draws close.
-
-10And how does a mendicant not draw close? It’s when a mendicant doesn’t regard form as self, self as having form, form in self, or self in form. They don’t regard feeling as self, self as having feeling, feeling in self, or self in feeling. They don’t regard perception as self, self as having perception, perception in self, or self in perception. They don’t regard choices as self, self as having choices, choices in self, or self in choices. They don’t regard consciousness as self, self as having consciousness, consciousness in self, or self in consciousness. That’s how a mendicant doesn’t draw close.
-
-11And how does a mendicant push back? It’s when someone abuses, annoys, or argues with a mendicant, and the mendicant abuses, annoys, or argues back at them. That’s how a mendicant pushes back.
-
-12And how does a mendicant not push back? It’s when someone abuses, annoys, or argues with a mendicant, and the mendicant doesn’t abuse, annoy, or argue back at them. That’s how a mendicant doesn’t push back.
-
-13And how does a mendicant fume? When there is the concept ‘I am’, there are the concepts ‘I am such’, ‘I am thus’, ‘I am otherwise’; ‘I am fleeting’, ‘I am lasting’; ‘mine’, ‘such is mine’, ‘thus is mine’, ‘otherwise is mine’; ‘also mine’, ‘such is also mine’, ‘thus is also mine’, ‘otherwise is also mine’; ‘I will be’, ‘I will be such’, ‘I will be thus’, ‘I will be otherwise’. That’s how a mendicant fumes.
-
-14And how does a mendicant not fume? When there is no concept ‘I am’, there are no concepts ‘I am such’, ‘I am thus’, ‘I am otherwise’; ‘I am fleeting’, ‘I am lasting’; ‘mine’, ‘such is mine’, ‘thus is mine’, ‘otherwise is mine’; ‘also mine’, ‘such is also mine’, ‘thus is also mine’, ‘otherwise is also mine’; ‘I will be’, ‘I will be such’, ‘I will be thus’, ‘I will be otherwise’. That’s how a mendicant doesn’t fume.
-
-15And how is a mendicant ignited? When there is the concept ‘I am because of this’, there are the concepts ‘I am such because of this’, ‘I am thus because of this’, ‘I am otherwise because of this’; ‘I am fleeting because of this’, ‘I am lasting because of this’; ‘mine because of this’, ‘such is mine because of this’, ‘thus is mine because of this’, ‘otherwise is mine because of this’; ‘also mine because of this’, ‘such is also mine because of this’, ‘thus is also mine because of this’, ‘otherwise is also mine because of this’; ‘I will be because of this’, ‘I will be such because of this’, ‘I will be thus because of this’, ‘I will be otherwise because of this’. That’s how a mendicant is ignited.
-
-16And how is a mendicant not ignited? When there is no concept ‘I am because of this’, there are no concepts ‘I am such because of this’, ‘I am thus because of this’, ‘I am otherwise because of this’; ‘I am fleeting because of this’, ‘I am lasting because of this’; ‘mine because of this’, ‘such is mine because of this’, ‘thus is mine because of this’, ‘otherwise is mine because of this’; ‘also mine because of this’, ‘such is also mine because of this’, ‘thus is also mine because of this’, ‘otherwise is also mine because of this’; ‘I will be because of this’, ‘I will be such because of this’, ‘I will be thus because of this’, ‘I will be otherwise because of this’. That’s how a mendicant is not ignited.
-
-17And how does a mendicant burn up? It’s when a mendicant hasn’t given up the conceit ‘I am’, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a mendicant is burned up.
+This is called a bhikkhu who doesn’t draw close or push back or fume or ignite or burn up.
 
 
-18And how does a mendicant not burn up? It’s when a mendicant has given up the conceit ‘I am’, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a mendicant is not burned up.”
+9And how does a bhikkhu draw close? It’s when a bhikkhu regards form as self, self as having form, form in self, or self in form. They regard feeling as self, self as having feeling, feeling in self, or self in feeling. They regard perception as self, self as having perception, perception in self, or self in perception. They regard choices as self, self as having choices, choices in self, or self in choices. They regard consciousness as self, self as having consciousness, consciousness in self, or self in consciousness. That’s how a bhikkhu draws close.
+
+10And how does a bhikkhu not draw close? It’s when a bhikkhu doesn’t regard form as self, self as having form, form in self, or self in form. They don’t regard feeling as self, self as having feeling, feeling in self, or self in feeling. They don’t regard perception as self, self as having perception, perception in self, or self in perception. They don’t regard choices as self, self as having choices, choices in self, or self in choices. They don’t regard consciousness as self, self as having consciousness, consciousness in self, or self in consciousness. That’s how a bhikkhu doesn’t draw close.
+
+11And how does a bhikkhu push back? It’s when someone abuses, annoys, or argues with a bhikkhu, and the bhikkhu abuses, annoys, or argues back at them. That’s how a bhikkhu pushes back.
+
+12And how does a bhikkhu not push back? It’s when someone abuses, annoys, or argues with a bhikkhu, and the bhikkhu doesn’t abuse, annoy, or argue back at them. That’s how a bhikkhu doesn’t push back.
+
+13And how does a bhikkhu fume? When there is the concept ‘I am’, there are the concepts ‘I am such’, ‘I am thus’, ‘I am otherwise’; ‘I am fleeting’, ‘I am lasting’; ‘mine’, ‘such is mine’, ‘thus is mine’, ‘otherwise is mine’; ‘also mine’, ‘such is also mine’, ‘thus is also mine’, ‘otherwise is also mine’; ‘I will be’, ‘I will be such’, ‘I will be thus’, ‘I will be otherwise’. That’s how a bhikkhu fumes.
+
+14And how does a bhikkhu not fume? When there is no concept ‘I am’, there are no concepts ‘I am such’, ‘I am thus’, ‘I am otherwise’; ‘I am fleeting’, ‘I am lasting’; ‘mine’, ‘such is mine’, ‘thus is mine’, ‘otherwise is mine’; ‘also mine’, ‘such is also mine’, ‘thus is also mine’, ‘otherwise is also mine’; ‘I will be’, ‘I will be such’, ‘I will be thus’, ‘I will be otherwise’. That’s how a bhikkhu doesn’t fume.
+
+15And how is a bhikkhu ignited? When there is the concept ‘I am because of this’, there are the concepts ‘I am such because of this’, ‘I am thus because of this’, ‘I am otherwise because of this’; ‘I am fleeting because of this’, ‘I am lasting because of this’; ‘mine because of this’, ‘such is mine because of this’, ‘thus is mine because of this’, ‘otherwise is mine because of this’; ‘also mine because of this’, ‘such is also mine because of this’, ‘thus is also mine because of this’, ‘otherwise is also mine because of this’; ‘I will be because of this’, ‘I will be such because of this’, ‘I will be thus because of this’, ‘I will be otherwise because of this’. That’s how a bhikkhu is ignited.
+
+16And how is a bhikkhu not ignited? When there is no concept ‘I am because of this’, there are no concepts ‘I am such because of this’, ‘I am thus because of this’, ‘I am otherwise because of this’; ‘I am fleeting because of this’, ‘I am lasting because of this’; ‘mine because of this’, ‘such is mine because of this’, ‘thus is mine because of this’, ‘otherwise is mine because of this’; ‘also mine because of this’, ‘such is also mine because of this’, ‘thus is also mine because of this’, ‘otherwise is also mine because of this’; ‘I will be because of this’, ‘I will be such because of this’, ‘I will be thus because of this’, ‘I will be otherwise because of this’. That’s how a bhikkhu is not ignited.
+
+17And how does a bhikkhu burn up? It’s when a bhikkhu hasn’t given up the conceit ‘I am’, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a bhikkhu is burned up.
+
+
+18And how does a bhikkhu not burn up? It’s when a bhikkhu has given up the conceit ‘I am’, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a bhikkhu is not burned up.”
 
 1"Cattārimāni, bhikkhave, pemāni jāyanti. Katamāni cattāri? Pemā pemaṁ jāyati, pemā doso jāyati, dosā pemaṁ jāyati, dosā doso jāyati.
 

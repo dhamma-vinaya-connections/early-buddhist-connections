@@ -44,10 +44,10 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant with five qualities is overcome by timidity and qualities hard to get rid of
+> A bhikkhu with five qualities is overcome by timidity and qualities hard to get rid of
 
 > [!info] Key Excerpts 
-> When a mendicant is faithless, unethical, with little learning, lazy, and witless.
+> When a bhikkhu is faithless, unethical, with little learning, lazy, and witless.
 > 
 > Greed, hate, delusion, the feeling of being inspired to speak out, and thoughts of traveling. These five things are hard to get rid of once they’ve arisen
 > 

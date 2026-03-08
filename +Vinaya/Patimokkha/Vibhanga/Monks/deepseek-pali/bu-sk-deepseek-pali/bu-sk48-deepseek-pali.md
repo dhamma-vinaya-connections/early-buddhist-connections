@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 622. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū avagaṇḍakārakaṃ bhuñjanti…pe….
 
-## 622.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six monks were eating with bulging cheeks…and so on.
+## 622.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six bhikkhus were eating with bulging cheeks…and so on.
 
 ‘‘Na avagaṇḍakārakaṃ bhuñjissāmīti sikkhā karaṇīyā’’ti.
 

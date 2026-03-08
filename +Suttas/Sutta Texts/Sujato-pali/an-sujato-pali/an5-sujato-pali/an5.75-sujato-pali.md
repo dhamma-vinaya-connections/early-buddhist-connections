@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five warriors are found in the world. What five?
+1“bhikkhus, these five warriors are found in the world. What five?
 
 Firstly, one warrior falters and founders at the mere sight of a cloud of dust. He doesn’t stay firm, and fails to plunge into battle. Some warriors are like that. This is the first warrior found in the world.
 
@@ -35,25 +35,25 @@ Firstly, one warrior falters and founders at the mere sight of a cloud of dust. 
 These are the five warriors found in the world.
 
 
-6In the same way, these five people similar to warriors are found among the monks. What five?
+6In the same way, these five people similar to warriors are found among the bhikkhus. What five?
 
-Firstly, one monk falters and founders at the mere sight of a cloud of dust. He doesn’t stay firm, and fails to keep up the spiritual life. Declaring his inability to continue training, he rejects it and returns to a lesser life. What is his ‘cloud of dust’? It’s when a monk hears: ‘In such and such a village or town there’s a women or a girl who is attractive, good-looking, lovely, of surpassing beauty.’ Hearing this, he falters and founders. He doesn’t stay firm, and fails to keep up the spiritual life. Declaring his inability to continue training, he rejects it and returns to a lesser life. This is his ‘cloud of dust’.
+Firstly, one bhikkhu falters and founders at the mere sight of a cloud of dust. He doesn’t stay firm, and fails to keep up the spiritual life. Declaring his inability to continue training, he rejects it and returns to a lesser life. What is his ‘cloud of dust’? It’s when a bhikkhu hears: ‘In such and such a village or town there’s a women or a girl who is attractive, good-looking, lovely, of surpassing beauty.’ Hearing this, he falters and founders. He doesn’t stay firm, and fails to keep up the spiritual life. Declaring his inability to continue training, he rejects it and returns to a lesser life. This is his ‘cloud of dust’.
 
-7I say that this person is like the warrior who falters and founders at the mere sight of a cloud of dust. Some people are like that. This is the first person similar to a warrior found among the monks.
+7I say that this person is like the warrior who falters and founders at the mere sight of a cloud of dust. Some people are like that. This is the first person similar to a warrior found among the bhikkhus.
 
-8Furthermore, one monk can prevail over a cloud of dust, but at the mere sight of a banner’s crest he falters and founders. He doesn’t stay firm, and fails to keep up the spiritual life. Declaring his inability to continue training, he rejects it and returns to a lesser life. What is his ‘banner’s crest’? It’s when a monk doesn’t hear: ‘In such and such a village or town there’s a women or a girl who is attractive, good-looking, lovely, of surpassing beauty.’ But he sees for himself a women or a girl who is attractive, good-looking, lovely, of surpassing beauty. Seeing her, he falters and founders. He doesn’t stay firm, and fails to keep up the spiritual life. Declaring his inability to continue training, he rejects it and returns to a lesser life. This is his ‘banner’s crest’.
+8Furthermore, one bhikkhu can prevail over a cloud of dust, but at the mere sight of a banner’s crest he falters and founders. He doesn’t stay firm, and fails to keep up the spiritual life. Declaring his inability to continue training, he rejects it and returns to a lesser life. What is his ‘banner’s crest’? It’s when a bhikkhu doesn’t hear: ‘In such and such a village or town there’s a women or a girl who is attractive, good-looking, lovely, of surpassing beauty.’ But he sees for himself a women or a girl who is attractive, good-looking, lovely, of surpassing beauty. Seeing her, he falters and founders. He doesn’t stay firm, and fails to keep up the spiritual life. Declaring his inability to continue training, he rejects it and returns to a lesser life. This is his ‘banner’s crest’.
 
-9I say that this person is like the warrior who can prevail over a cloud of dust, but he falters and founders at the mere sight of a banner’s crest. Some people are like that. This is the second person similar to a warrior found among the monks.
+9I say that this person is like the warrior who can prevail over a cloud of dust, but he falters and founders at the mere sight of a banner’s crest. Some people are like that. This is the second person similar to a warrior found among the bhikkhus.
 
-10Furthermore, one monk can prevail over a cloud of dust and a banner’s crest, but he falters and founders at the mere sound of turmoil. He doesn’t stay firm, and fails to enter the battle. Declaring his inability to continue training, he rejects it and returns to a lesser life. What is his ‘turmoil’? It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut, when a female comes up to him. She smiles, chats, laughs, and flirts with him. He falters and founders. He doesn’t stay firm, and fails to keep up the spiritual life. Declaring his inability to continue training, he rejects it and returns to a lesser life. This is his ‘turmoil’.
+10Furthermore, one bhikkhu can prevail over a cloud of dust and a banner’s crest, but he falters and founders at the mere sound of turmoil. He doesn’t stay firm, and fails to enter the battle. Declaring his inability to continue training, he rejects it and returns to a lesser life. What is his ‘turmoil’? It’s when a bhikkhu has gone to a wilderness, or to the root of a tree, or to an empty hut, when a female comes up to him. She smiles, chats, laughs, and flirts with him. He falters and founders. He doesn’t stay firm, and fails to keep up the spiritual life. Declaring his inability to continue training, he rejects it and returns to a lesser life. This is his ‘turmoil’.
 
-11I say that this person is like the warrior who can prevail over a cloud of dust and a banner’s crest, but he falters and founders at the mere sound of turmoil. Some people are like that. This is the third person similar to a warrior found among the monks.
+11I say that this person is like the warrior who can prevail over a cloud of dust and a banner’s crest, but he falters and founders at the mere sound of turmoil. Some people are like that. This is the third person similar to a warrior found among the bhikkhus.
 
-12Furthermore, one monk can prevail over a cloud of dust and a banner’s crest and turmoil, but he’s killed or injured when blows are struck. What is his ‘blows are struck’? It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut, when a female comes up to him. She sits right by him, lies down, or embraces him. Without rejecting the training and declaring his inability to continue, he has sex. This is his ‘blows are struck’.
+12Furthermore, one bhikkhu can prevail over a cloud of dust and a banner’s crest and turmoil, but he’s killed or injured when blows are struck. What is his ‘blows are struck’? It’s when a bhikkhu has gone to a wilderness, or to the root of a tree, or to an empty hut, when a female comes up to him. She sits right by him, lies down, or embraces him. Without rejecting the training and declaring his inability to continue, he has sex. This is his ‘blows are struck’.
 
-13I say that this person is like the warrior who can prevail over a cloud of dust and a banner’s crest and turmoil, but is killed or injured when blows are struck. Some people are like that. This is the fourth person similar to a warrior found among the monks.
+13I say that this person is like the warrior who can prevail over a cloud of dust and a banner’s crest and turmoil, but is killed or injured when blows are struck. Some people are like that. This is the fourth person similar to a warrior found among the bhikkhus.
 
-14Furthermore, one monk can prevail over a cloud of dust and a banner’s crest and turmoil, and being struck. He wins victory in battle, establishing himself as foremost in battle. What is his ‘victory in battle’? It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut, when a female comes up to him. She sits right by him, lies down, or embraces him. But he disentangles and frees himself, and goes wherever he wants. He frequents a secluded lodging — a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw.
+14Furthermore, one bhikkhu can prevail over a cloud of dust and a banner’s crest and turmoil, and being struck. He wins victory in battle, establishing himself as foremost in battle. What is his ‘victory in battle’? It’s when a bhikkhu has gone to a wilderness, or to the root of a tree, or to an empty hut, when a female comes up to him. She sits right by him, lies down, or embraces him. But he disentangles and frees himself, and goes wherever he wants. He frequents a secluded lodging — a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw.
 
 15Gone to a wilderness, or to the root of a tree, or to an empty hut, he sits down cross-legged, with his body straight, and establishes his mindfulness right there. Giving up desire for the world, he meditates with a heart rid of desire, cleansing the mind of desire. Giving up ill will and malevolence, he meditates with a mind rid of ill will, full of compassion for all living beings, cleansing the mind of ill will. Giving up dullness and drowsiness, he meditates with a mind rid of dullness and drowsiness, perceiving light, mindful and aware, cleansing the mind of dullness and drowsiness. Giving up restlessness and remorse, he meditates without restlessness, his mind peaceful inside, cleansing the mind of restlessness and remorse. Giving up doubt, he meditates having gone beyond doubt, not undecided about skillful qualities, cleansing the mind of doubt.
 
@@ -64,9 +64,9 @@ He gives up these five hindrances, corruptions of the heart that weaken wisdom. 
 He understands: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’ This is his ‘victory in battle’.
 
 
-17I say that this person is like the warrior who can prevail over a cloud of dust and a banner’s crest and turmoil and being struck. He wins victory in battle, establishing himself as foremost in battle. Some people are like that. This is the fifth person similar to a warrior found among the monks.
+17I say that this person is like the warrior who can prevail over a cloud of dust and a banner’s crest and turmoil and being struck. He wins victory in battle, establishing himself as foremost in battle. Some people are like that. This is the fifth person similar to a warrior found among the bhikkhus.
 
-These five people similar to warriors are found among the monks.”
+These five people similar to warriors are found among the bhikkhus.”
 
 1"Pañcime, bhikkhave, yodhājīvā santo saṁvijjamānā lokasmiṁ. Katame pañca?
 

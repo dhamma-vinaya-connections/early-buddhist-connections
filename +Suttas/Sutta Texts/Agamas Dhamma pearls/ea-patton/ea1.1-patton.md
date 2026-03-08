@@ -38,7 +38,7 @@ The Origin of the Āgamas
     There is a wise man in this assembly:    
     Ānanda is sagely, measureless in learning!”<a id="fnref4"></a>[^4]
 - Then, he struck the bell to summon the four assemblies    
-    And the numberless assembly of monks.    
+    And the numberless assembly of bhikkhus.    
     They had all attained the _arhat_’s liberation    
     And become fields of merit freed from bondage.<a id="fnref5"></a>[^5]
 - Because Kāśyapa pitied the world,    
@@ -197,7 +197,7 @@ The Origin of the Āgamas
     The Buddha was at Śrāvastī with the disciples.    
     At Jeta’s Grove, they cultivated good deeds,    
     In the park donated by wealthy Anāthapiṇḍada.
-- While there, the Buddha addressed the monks:    
+- While there, the Buddha addressed the bhikkhus:    
     ‘One should cultivate one thing; Focus their mind,    
     And attend to one thing carefully.    
     What is that one thing? Recollecting the Buddha.’<a id="fnref17"></a>[^17]
@@ -219,7 +219,7 @@ The Origin of the Āgamas
     Therefore, it’s called the Ekottarika Āgama.
 - Now, this incremental teaching is hard to comprehend,    
     Hard to retain and realize, and isn’t clear.    
-    Monks praise their own virtuous deeds,    
+    bhikkhus praise their own virtuous deeds,    
     But now we should praise the Sage who’s supreme.
 - He was like a potter making a vessel,    
     Fashioning it as he likes without hesitation.    
@@ -271,9 +271,9 @@ The Ekottarika Āgama Contains All Buddha Teachings
 11. Ānanda replied, “Kāśyapa, it contains the meaning of the four Āgamas. The complete and perfect teaching of Buddhas is in this single verse, as well as the teachings of solitary buddhas and disciples. Why is that? ‘Don’t do anything evil’ is the rule of all the precepts. Clean conduct is to ‘put what’s good into practice.’ The purification of mind is ‘to purify one’s own mind.’ To remove what’s wrong and mistaken is ‘the teaching of the Buddhas.’ It departs from deluded ideas.
 12. “How can it be, Kāśyapa, that someone pure in precepts would have a mind that isn’t pure? When someone’s mind is pure, they aren’t mistaken. Their deluded ideas cease because they make no mistake. They then can achieve the fruit of the thirty-seven factors of the path. How could it not be with the teachings that they achieve the fruit of the path?”
 Why Uttara Was Entrusted with the Ekottarika
-13. Kāśyapa asked, “Ānanda, why did you entrust the Ekottarika Āgama with Uttara? Didn’t you entrust all the teachings with the rest of the monks?”
+13. Kāśyapa asked, “Ānanda, why did you entrust the Ekottarika Āgama with Uttara? Didn’t you entrust all the teachings with the rest of the bhikkhus?”
 14. Ānanda replied, “The Ekottarika Āgama is all the teachings. The teachings and the Ekottarika Āgama are one, not two.”
-15. Kāśyapa asked, “But why did you entrust this Ekottarika Āgama with Uttara and not the rest of the monks?”
+15. Kāśyapa asked, “But why did you entrust this Ekottarika Āgama with Uttara and not the rest of the bhikkhus?”
 16. Ānanda replied, “Kāśyapa, you should know that ninety-one eons ago Vipaśyin the Tathāgata, Arhat, and Completely Awakened One appeared in the world. This monk Uttara was named *Ekottara then. That Buddha entrusted this Ekottarika teaching to him, tasking him with chanting, reciting, and reading it. After that time thirty-one eons ago, the next Buddha was named Śikhin the Tathāgata, Arhat, and Completely Awakened One. This monk Uttara was named *Mukhottara then. That Tathāgata Śikhin again entrusted this teaching to him, tasking him with chanting, reciting, and reading it. During that time thirty-one eons ago, Viśvabhū the Tathāgata, Arhat, and Completely Awakened One also appeared in the world. This monk Uttara was named Nagottara then.<a id="fnref22"></a>[^22] He was again entrusted with this teaching and tasked with chanting, reciting, and reading it.
 17. “Kāśyapa, you should know that during this fortunate eon there was Krakucchanda the Tathāgata, Arhat, and Completely Awakened One who appeared in the world. This monk Uttara was named *Vidyūttara then. He was again entrusted with this teaching and tasked with chanting, reciting, and reading it. Next, another Buddha during this fortunate eon named Kanakamuni the Tathāgata, Arhat, and Completely Awakened One appeared in the world. This monk Uttara was named Devottara then. He was again entrusted with this teaching and tasked with chanting, reciting, and reading it. Another Buddha during this fortunate eon named Kāśyapa the Tathāgata, Arhat, and Completely Awakened One appeared in the world. This monk Uttara was named Brahmottara then.<a id="fnref23"></a>[^23] Again, he was entrusted with this teaching and tasked with chanting, reciting, and reading it.
 18. “Kāśyapa, you should know that Śākyamuni is now the Tathāgata, Arhat, and Completely Awakened One who has appeared in the world, and this monk is now named Uttara. Although the Buddha Śākyamuni has _parinirvāṇa_-ed, the monk Ānanda is still in the world. The Bhagavān had entrusted me with all his teachings, and now I’ve also entrusted it with Uttara. Why is that? I examined him as a vessel and investigated his past. Afterward, I entrusted the teachings to him. And why?
@@ -378,7 +378,7 @@ Why Uttara Was Entrusted with the Ekottarika
     
     _liberation._ Lit. “liberation of mind” (C. 心解脫).
     
-    _freed from bondage._ I’ve simplified this line for brevity. Lit. “Become fields of merit by freeing themselves from the place of bonds and attachments.” Presumably, these last two lines refer only to the monks and nuns and not all four assemblies. [↩︎](#fnref5)
+    _freed from bondage._ I’ve simplified this line for brevity. Lit. “Become fields of merit by freeing themselves from the place of bonds and attachments.” Presumably, these last two lines refer only to the bhikkhus and nuns and not all four assemblies. [↩︎](#fnref5)
 
 [^6]: _for three_ asaṃkhya _eons._ C.三阿僧祇. This is an reference to the concept of a long _bodhisattva_ career that spans three “innumerable eons” (S. _asaṃkhya kalpa_) of past lives. Thus, we see here the influence of _jātaka_ literature, wherein this concept was first developed. [↩︎](#fnref6)
 
@@ -436,7 +436,7 @@ Why Uttara Was Entrusted with the Ekottarika
 
 [^28]: _enjoyed_. C. 食. Lit. “eaten” or “fed on” (食). [↩︎](#fnref28)
 
-[^29]: _Dīrghāyu._ C. 長壽. Translated lit. as “Long Life Span.” There’s another mythical King Dīrghāyu who played a prominent role in a story told to the Kauśāmbī monks in [MĀ 72](../../madhyama/MA_072.html).
+[^29]: _Dīrghāyu._ C. 長壽. Translated lit. as “Long Life Span.” There’s another mythical King Dīrghāyu who played a prominent role in a story told to the Kauśāmbī bhikkhus in [MĀ 72](../../madhyama/MA_072.html).
     
     _three muddy roads._ C. 三塗. This was an alternate translation of S. _trividhā durgatiḥ_, also translated as the “three unfortunate destinations” (i.e., rebirth among animals, hungry ghosts, and in hell). It was more commonly translated to C. as 三惡趣 (“three bad destinations”).
     

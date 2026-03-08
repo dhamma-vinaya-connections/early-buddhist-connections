@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 85
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Remain focused, monks, on foulness in the body. Have mindfulness of in-&-out breathing well-established to the fore within you. Remain focused on the inconstancy of all fabrications. For one who remains focused on the foulness of the body, the obsession with passion for the property of beauty is abandoned. For one who has mindfulness of in-&-out breathing well-established to the fore within oneself, annoying external thoughts & inclinations don’t exist. For one who remains focused on the inconstancy of all fabrications, ignorance is abandoned, clear knowing arises.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Remain focused, bhikkhus, on foulness in the body. Have mindfulness of in-&-out breathing well-established to the fore within you. Remain focused on the inconstancy of all fabrications. For one who remains focused on the foulness of the body, the obsession with passion for the property of beauty is abandoned. For one who has mindfulness of in-&-out breathing well-established to the fore within oneself, annoying external thoughts & inclinations don’t exist. For one who remains focused on the inconstancy of all fabrications, ignorance is abandoned, clear knowing arises.”
 
 Focusing on foulness
 
@@ -30,7 +30,7 @@ the pacification of all fabrications
 
 always:
 
-he is a monk
+he is a bhikkhu
 
 who’s seen rightly.
 

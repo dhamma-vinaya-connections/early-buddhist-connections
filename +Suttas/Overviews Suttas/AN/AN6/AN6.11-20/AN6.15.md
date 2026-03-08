@@ -44,13 +44,13 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant who lives well and doesn’t waste time dies without regret
+> A bhikkhu who lives well and doesn’t waste time dies without regret
 
 > [!info] Key Excerpts 
-> Mendicant who relishes work, talk, sleep, company, closeness, and proliferation
+> bhikkhu who relishes work, talk, sleep, company, closeness, and proliferation
 > 
 > This is called 
-A mendicant who enjoys identity, who hasn’t given up identity to rightly make an end of suffering
+A bhikkhu who enjoys identity, who hasn’t given up identity to rightly make an end of suffering
 > 
 
 

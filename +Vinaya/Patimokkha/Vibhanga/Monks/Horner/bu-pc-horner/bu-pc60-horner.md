@@ -7,37 +7,37 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC60]]
 > ◄  [[bu-pc59-horner]] 📜  [[bu-pc61-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 60
+# bhikkhus’ Expiation (_Pācittiya_) 60
 
-*Bu-Pc.60.1.1* *BD.2.414* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of seventeen monks did not store their requisites. The group of six monks hid a bowl and a robe belonging to the group of seventeen monks. The group of seventeen monks spoke thus to the group of six monks:
+*Bu-Pc.60.1.1* *BD.2.414* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of seventeen bhikkhus did not store their requisites. The group of six bhikkhus hid a bowl and a robe belonging to the group of seventeen bhikkhus. The group of seventeen bhikkhus spoke thus to the group of six bhikkhus:
 
 “Your reverences, give back *Vin.4.123* the bowl and the robe to us.”
 
-The group of six monks laughed; these cried out. Monks spoke thus:
+The group of six bhikkhus laughed; these cried out. bhikkhus spoke thus:
 
 “Why do you, your reverences, cry out?”
 
-“Your reverences, this group of six monks are hiding a bowl and a robe belonging to us.”
+“Your reverences, this group of six bhikkhus are hiding a bowl and a robe belonging to us.”
 
-Those who were modest monks … spread it about, saying:
+Those who were modest bhikkhus … spread it about, saying:
 
-“How can the group of six monks hide a bowl and a robe belonging to monks?” …
+“How can the group of six bhikkhus hide a bowl and a robe belonging to bhikkhus?” …
 
-“Is it true, as is said, that you, monks, are hiding a bowl and a robe belonging to monks?”
+“Is it true, as is said, that you, bhikkhus, are hiding a bowl and a robe belonging to bhikkhus?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, hide a bowl and a robe belonging to monks? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, hide a bowl and a robe belonging to bhikkhus? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should hide or should cause to hide a monk’s bowl or robe or (piece of cloth) to sit upon[^1] or needle-case or girdle, even in fun, there is an offence of expiation.”
+“Whatever bhikkhu should hide or should cause to hide a bhikkhu’s bowl or robe or (piece of cloth) to sit upon[^1] or needle-case or girdle, even in fun, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.60.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.60.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
-*BD.2.415* A monk’s means: another monk’s.
+*BD.2.415* A bhikkhu’s means: another bhikkhu’s.
 
 Bowl means: there are two (kinds of) bowls, an iron bowl and a clay bowl.[^2]
 

@@ -2,7 +2,7 @@
 sutta_code: "AN7.86"
 sutta_title:
   - "Bhikkhu "
-  - "Mendicant"
+  - "bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -16,7 +16,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, it’s because of quelling seven things that you become an ascetic …”
+1“bhikkhus, it’s because of quelling seven things that you become an ascetic …”
 
 1"Sattannaṁ, bhikkhave, dhammānaṁ samitattā samaṇo hoti … pe … .
 

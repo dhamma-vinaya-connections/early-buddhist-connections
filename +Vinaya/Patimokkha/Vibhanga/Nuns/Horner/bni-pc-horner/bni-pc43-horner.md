@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.43.1.1* *BD.3.328* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six nuns spun yarn. *Vin.4.300* People, engaged in touring the dwelling place, having seen (them) … spread it about, saying: “How can these nuns spin yarn, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six nuns spin yarn?” …
 
-“Is it true, as is said, monks, that the group of six nuns spin yarn?”
+“Is it true, as is said, bhikkhus, that the group of six nuns spin yarn?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the group of six nuns spin yarn? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the group of six nuns spin yarn? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should spin yarn, there is an offence of expiation.”
 

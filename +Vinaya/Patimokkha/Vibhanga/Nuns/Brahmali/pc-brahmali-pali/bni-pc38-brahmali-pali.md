@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nuns went wandering without a group of travelers where it was considered risky and dangerous outside their own country. Scoundrels raped them.
 
-2The nuns of few desires complained and criticized them, “How can nuns go wandering without a group of travelers where it’s considered risky and dangerous outside their own country?” … “Is it true, monks, that nuns do this?”
+2The nuns of few desires complained and criticized them, “How can nuns go wandering without a group of travelers where it’s considered risky and dangerous outside their own country?” … “Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

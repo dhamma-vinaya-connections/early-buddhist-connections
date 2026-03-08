@@ -15,22 +15,22 @@ At that time the enlightened one, the lord, was staying at Sāvatthī in the Jet
 
 “How can the lady Thullanandā, not knowing moderation, have much garlic taken away?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā, not knowing moderation, had much garlic taken away?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā, not knowing moderation, had much garlic taken away?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā, not knowing moderation, have much garlic taken away? It is not, monks, for pleasing those who are not (yet) pleased …” and having given reasoned talk, he addressed the monks, saying:
+“How, bhikkhus, can the nun Thullanandā, not knowing moderation, have much garlic taken away? It is not, bhikkhus, for pleasing those who are not (yet) pleased …” and having given reasoned talk, he addressed the bhikkhus, saying:
 
-“Formerly, monks, the nun Thullanandā was the wife of a certain brahmin *Vin.4.259* and there were three daughters, Nandā, Nandavatī, Sundarīnandā.[^5] Then, monks, that brahmin, having passed away, was born in the womb of a certain goose[^6] and his feathers were made all of gold. He gave a feather one by one to these. Then, monks, the nun Thullanandā, saying: ‘This goose is giving us a feather one by one,’ having taken hold of that king of the geese, plucked him. His feathers, on growing again, turned out white. So at that time, monks, the nun Thullanandā lost the gold through too much greed; now she will lose the garlic.”
+“Formerly, bhikkhus, the nun Thullanandā was the wife of a certain brahmin *Vin.4.259* and there were three daughters, Nandā, Nandavatī, Sundarīnandā.[^5] Then, bhikkhus, that brahmin, having passed away, was born in the womb of a certain goose[^6] and his feathers were made all of gold. He gave a feather one by one to these. Then, bhikkhus, the nun Thullanandā, saying: ‘This goose is giving us a feather one by one,’ having taken hold of that king of the geese, plucked him. His feathers, on growing again, turned out white. So at that time, bhikkhus, the nun Thullanandā lost the gold through too much greed; now she will lose the garlic.”
 
 > “One should be pleased with what is received,  
 > for too much greed is bad.  
 > By taking hold of the king of the geese,  
 > one may lose the gold.”
 
-Then the lord having in many a figure rebuked the nun Thullanandā for her difficulty in maintaining herself …” … And thus, monks, the nuns should set forth this rule of training:
+Then the lord having in many a figure rebuked the nun Thullanandā for her difficulty in maintaining herself …” … And thus, bhikkhus, the nuns should set forth this rule of training:
 
 *BD.3.245* “Whatever nun should eat garlic, there is an offence of expiation.”[^7]
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks in bad mental conduct … benefits in good mental conduct …”
+1“bhikkhus, there are these five drawbacks in bad mental conduct … benefits in good mental conduct …”
 
 1"Pañcime, bhikkhave, ādīnavā manoduccarite … pe … ānisaṁsā manosucarite. Katame pañca? Attāpi attānaṁ na upavadati; anuvicca viññū pasaṁsanti; kalyāṇo kittisaddo abbhuggacchati; asammūḷho kālaṁ karoti; kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. Ime kho, bhikkhave, pañca ānisaṁsā manosucarite"ti.
 

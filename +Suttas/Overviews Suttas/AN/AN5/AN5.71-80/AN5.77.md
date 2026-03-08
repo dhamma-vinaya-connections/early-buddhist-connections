@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Might get bitten bypoisonous creatures, attacked by beast, by bandits, fall down or get sick, vicious non-human beings (spirits). They might take my
 > 
-> Seeing these five future perils is quite enough for a wilderness mendicant to meditate diligently, keenly, and resolutely for attaining the unattained, achieving the unachieved, and realizing the unrealized.
+> Seeing these five future perils is quite enough for a wilderness bhikkhu to meditate diligently, keenly, and resolutely for attaining the unattained, achieving the unachieved, and realizing the unrealized.
 > 
 
 

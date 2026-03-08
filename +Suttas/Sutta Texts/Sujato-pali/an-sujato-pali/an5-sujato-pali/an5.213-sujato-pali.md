@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks for an unethical person because of their failure in ethics. What five?
+1“bhikkhus, there are these five drawbacks for an unethical person because of their failure in ethics. What five?
 
 Firstly, an unethical person loses substantial wealth on account of negligence. This is the first drawback.
 

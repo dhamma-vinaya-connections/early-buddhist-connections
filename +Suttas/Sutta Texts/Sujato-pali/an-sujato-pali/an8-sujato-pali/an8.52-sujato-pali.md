@@ -18,12 +18,12 @@ language: "English - Pali"
 
 1At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and said to the Buddha:
 
-“Sir, how many qualities should a monk have to be agreed on as an adviser for nuns?”
+“Sir, how many qualities should a bhikkhu have to be agreed on as an adviser for nuns?”
 
 
-2“Ānanda, a monk with eight qualities may be agreed on as an adviser for nuns. What eight?
+2“Ānanda, a bhikkhu with eight qualities may be agreed on as an adviser for nuns. What eight?
 
-Firstly, a monk is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
+Firstly, a bhikkhu is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
 They’re learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s totally full and pure. They are very learned in such teachings, remembering them, reciting them, mentally scrutinizing them, and understanding them with right view.
 
@@ -39,7 +39,7 @@ They have never previously sexually harassed any woman wearing the ocher robe wh
 
 They have been ordained for twenty years or more.
 
-A monk with these eight qualities may be agreed on as an adviser for nuns.”
+A bhikkhu with these eight qualities may be agreed on as an adviser for nuns.”
 
 #### Pali
 

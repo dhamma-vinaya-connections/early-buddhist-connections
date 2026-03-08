@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these three sectarian tenets — as pursued, pressed, and grilled by the astute — when taken to their conclusion, end with inaction. What three?
+1“bhikkhus, these three sectarian tenets — as pursued, pressed, and grilled by the astute — when taken to their conclusion, end with inaction. What three?
 
 There are some ascetics and brahmins who have this doctrine and view: ‘Everything this individual experiences — pleasurable, painful, or neutral — is because of past deeds.’
 

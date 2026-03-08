@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four things should be realized. What four?
+1“bhikkhus, these four things should be realized. What four?
 
 There are things to be realized directly. There are things to be realized with mindfulness. There are things to be realized with vision. There are things to be realized with wisdom.
 

@@ -64,7 +64,7 @@ Seclusion and attendance, Kassapa of the Gotra and many others, Ānanda and Anur
 
 Vajjiputto ca vesālī, sajjhāyena ayoniso;Majjhanhikālamhi pākatindriya, padumapupphena cuddasa bhaveti.
 
-The Vajjian monks of Vesālī, through unwise recitation; At midday, with uncontrolled faculties; And the lotus flower—these are the fourteen.
+The Vajjian bhikkhus of Vesālī, through unwise recitation; At midday, with uncontrolled faculties; And the lotus flower—these are the fourteen.
 
 
 ---

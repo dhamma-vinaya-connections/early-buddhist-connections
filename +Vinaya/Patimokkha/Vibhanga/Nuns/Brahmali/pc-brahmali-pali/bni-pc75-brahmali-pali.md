@@ -20,14 +20,14 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time nuns who had twelve years of seniority were giving the full admission without being approved by the Sangha. They were ignorant and incompetent, and they did not know what was allowable and what was not. And their students too were ignorant and incompetent, and they too did not know what was allowable and what was not.
 
-2The nuns of few desires complained and criticized them, “How can nuns who have twelve years of seniority give the full admission without being approved by the Sangha?” … “Is it true, monks, that nuns do this?”
+2The nuns of few desires complained and criticized them, “How can nuns who have twelve years of seniority give the full admission without being approved by the Sangha?” … “Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
-“Monks, approval is required for a nun who has twelve years of seniority to give the full admission.
+“bhikkhus, approval is required for a nun who has twelve years of seniority to give the full admission.
 
 
 And the approval is to be given like this. After approaching the Sangha of nuns, that nun who has twelve years of seniority should arrange her upper robe over one shoulder and pay respect at the feet of the senior nuns. She should then squat on her heels, raise her joined palms, and say,
@@ -54,7 +54,7 @@ And it is to be given like this. A competent and capable nun should inform the S
 
 5The Sangha has given approval to nun so-and-so, who has twelve years of seniority, to give the full admission. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
-6Then, after rebuking those nuns in many ways, the Buddha spoke in dispraise of being difficult to support … “And, monks, the nuns should recite this training rule like this:
+6Then, after rebuking those nuns in many ways, the Buddha spoke in dispraise of being difficult to support … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

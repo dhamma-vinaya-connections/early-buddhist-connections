@@ -18,14 +18,14 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nun Thullanandā was using a robe she had received after trading with another nun. But the other nun folded up the robe she had received and put it aside. Thullanandā then said to her, “Venerable, where’s that robe that I traded with you?” She brought out the robe and showed it to her, and Thullanandā said, “Here’s your robe and give me that robe of mine. That which is yours is yours and that which is mine is mine. Give me that and take back what’s yours.” And she just took it.
 
-2That nun then told the nuns what had happened. The nuns of few desires complained and criticized her, “How could Venerable Thullanandā trade a robe with a nun and then take it back?” Those nuns then told the monks, who in turn told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks:
+2That nun then told the nuns what had happened. The nuns of few desires complained and criticized her, “How could Venerable Thullanandā trade a robe with a nun and then take it back?” Those nuns then told the bhikkhus, who in turn told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the nun Thullanandā did this?”
+“Is it true, bhikkhus, that the nun Thullanandā did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā trade a robe with a nun and then take it back? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā trade a robe with a nun and then take it back? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -49,7 +49,7 @@ The Buddha rebuked her … “How could the nun Thullanandā trade a robe with a
 
 The robe-cloth is to be relinquished to a saṅgha, a group, or an individual nun.
 
-“And, monks, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1, paragraph 9]] with appropriate substitutions.
+“And, bhikkhus, it’s to be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pācittiya 1, paragraph 9]] with appropriate substitutions.
 
 … ‘Venerables, this robe-cloth, which I took back after trading it with a nun, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe-cloth back to you.’”
 

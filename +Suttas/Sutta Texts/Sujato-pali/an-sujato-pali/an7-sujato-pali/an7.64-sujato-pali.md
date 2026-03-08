@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these seven things that please and assist an enemy happen to an irritable woman or man. What seven?
+1“bhikkhus, these seven things that please and assist an enemy happen to an irritable woman or man. What seven?
 
 Firstly, an enemy wishes for an enemy: ‘If only they’d become ugly!’ Why is that? Because an enemy doesn’t like to have a beautiful enemy. An irritable person, overcome and overwhelmed by anger, is ugly, even though they’re nicely bathed and anointed, with hair and beard dressed, and wearing white clothes. This is the first thing that pleases and assists an enemy which happens to an irritable woman or man.
 

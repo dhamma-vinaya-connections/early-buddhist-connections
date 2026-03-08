@@ -18,32 +18,32 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were boarding boats by arrangement with nuns. People complained and criticized them, “Just as we enjoy ourselves on boats with our wives, so these Sakyan monastics make arrangements with the nuns and then enjoy themselves on boats.”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were boarding boats by arrangement with nuns. People complained and criticized them, “Just as we enjoy ourselves on boats with our wives, so these Sakyan monastics make arrangements with the nuns and then enjoy themselves on boats.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can the monks from the group of six board boats by arrangement with nuns?” … “Is it true, monks, that you do this?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can the bhikkhus from the group of six board boats by arrangement with nuns?” … “Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 3‘If a monk boards a boat by arrangement with a nun, either to go upstream or downstream, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5Soon afterwards a number of monks and nuns were traveling from Sāketa to Sāvatthī. On the way they needed to cross a river. The nuns said to the monks, “Let’s cross together.”
+5Soon afterwards a number of bhikkhus and nuns were traveling from Sāketa to Sāvatthī. On the way they needed to cross a river. The nuns said to the bhikkhus, “Let’s cross together.”
 
 “Sisters, it’s not allowable for us to board a boat by arrangement with a nun. Either you cross first, or we will.”
 
 “You have the higher status, Venerables. Please go first.”
 
-But because the nuns crossed afterwards, they were robbed and raped by bandits. When they arrived at Sāvatthī they told the nuns there what had happened. The nuns then told the monks, who in turn told the Buddha.
+But because the nuns crossed afterwards, they were robbed and raped by bandits. When they arrived at Sāvatthī they told the nuns there what had happened. The nuns then told the bhikkhus, who in turn told the Buddha.
 
-6Soon afterwards the Buddha gave a teaching and addressed the monks:
+6Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to board a boat by arrangement with a nun if it’s for the purpose of crossing.
+“bhikkhus, I allow you to board a boat by arrangement with a nun if it’s for the purpose of crossing.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

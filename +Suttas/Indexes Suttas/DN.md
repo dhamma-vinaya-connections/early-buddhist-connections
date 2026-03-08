@@ -113,10 +113,10 @@ contribution:
 >  The householder's code of discipline, as described by the Buddha  to the layman sigala. This sutta offers valuable practical advice for householders on how to conduct themselves skillfully in their relationships with parents, spouses, children, pupils, teachers, employers, employees, friends, and spiritual mentors so as to bring happiness to all concerned.
 
 > [!example]- 🌐[[DN32]] - 📜[Available texts](obsidian://search?query=file:dn32-) - Āṭānāṭiya Sutta – Āṭānāṭiya Protection 
->  Mighty spirits hold a congregation, and warn the Buddha  that, since not all spirits are friendly, the mendicants should learn verses of protection
+>  Mighty spirits hold a congregation, and warn the Buddha  that, since not all spirits are friendly, the bhikkhus should learn verses of protection
 
 > [!example]- 🌐[[DN33]] - 📜[Available texts](obsidian://search?query=file:dn33-) - Saṅgīti Sutta – Reciting in Concert 
->  The Buddha  encourages venerable Sāriputta to teach the mendicants, and he offers an extended listing of buddhist doctrines arranged in numerical sequence.
+>  The Buddha  encourages venerable Sāriputta to teach the bhikkhus, and he offers an extended listing of buddhist doctrines arranged in numerical sequence.
 
 > [!example]- 🌐[[DN34]] - 📜[Available texts](obsidian://search?query=file:dn34-) - Dasuttara Sutta – Up to Ten 
 >  Sariputta summaries key teachings in a more organized manner. These two discourses anticipate some of the methods of the abhidhamma

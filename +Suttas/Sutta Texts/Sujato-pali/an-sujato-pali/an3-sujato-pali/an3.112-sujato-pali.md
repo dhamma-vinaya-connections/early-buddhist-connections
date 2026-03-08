@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1-3“Mendicants, there are these three sources that give rise to deeds. What three? Desire comes up for things that stimulate desire and greed in the past, future, or present.
+1-3“bhikkhus, there are these three sources that give rise to deeds. What three? Desire comes up for things that stimulate desire and greed in the past, future, or present.
 
 
 And how does desire come up for things that stimulate desire and greed in the past, future, or present? In your heart you think about and consider things that stimulate desire and greed in the past, future, or present. When you do this, desire comes up, and you get attached to those things. This lust in the heart is what I call a fetter. That’s how desire comes up for things that stimulate desire and greed in the past, future, or present.

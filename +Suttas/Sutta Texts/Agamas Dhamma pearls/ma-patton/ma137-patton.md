@@ -17,7 +17,7 @@ language: "English"
 
 137. The World
 1. Thus I have heard:[1](#^ma137note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove.
-2. It was then that the Bhagavān addressed the monks, “The Tathāgata himself has discovered the world and teaches it for others. The Tathāgata knows the world. The Tathāgata himself has discovered the formation of the world and teaches it for others. The Tathāgata has ended the formation of the world. The Tathāgata himself has discovered the cessation of the world and teaches it for others. The Tathāgata has realized the cessation of the world. The Tathāgata himself has discovered the way of the world and teaches it for others. The Tathāgata has cultivated the way of the world.[2](#^ma137note02) Whatever there is that’s entirely correct, the Tathāgata has known, seen, realized, and obtained it all. Why is that?
+2. It was then that the Bhagavān addressed the bhikkhus, “The Tathāgata himself has discovered the world and teaches it for others. The Tathāgata knows the world. The Tathāgata himself has discovered the formation of the world and teaches it for others. The Tathāgata has ended the formation of the world. The Tathāgata himself has discovered the cessation of the world and teaches it for others. The Tathāgata has realized the cessation of the world. The Tathāgata himself has discovered the way of the world and teaches it for others. The Tathāgata has cultivated the way of the world.[2](#^ma137note02) Whatever there is that’s entirely correct, the Tathāgata has known, seen, realized, and obtained it all. Why is that?
 3. “During the time between the night that he realized the unsurpassed, correct, and complete awakening until the day that he will choose to completely cease in the realm of remainderless _nirvāṇa_, the Tathāgata has spoken words and given responses that are all the truth. They aren’t false, don’t depart from what is, and aren’t mistaken. They’re true, they bear out, and they’re genuine. If anyone is described as a lion, they are being described like the Tathāgata. Why is that?
 4. “The lectures that the Tathāgata gives to the assembly are called a lion’s roar. Of the whole world with its gods, Māra, and Brahmā, ascetics and priests from humans to the heavens, the Tathāgata is the one who is sacred.[3](#^ma137note03) The Tathāgata is cooled. He has no affliction and no fever. He is genuine and not false.”[4](#^ma137note04)
 5. Thereupon, the Bhagavān spoke these verses:
@@ -47,7 +47,7 @@ language: "English"
     Without me, they would’ve missed their chance.    
     Those who missed it are aggrieved,    
     When they fall down into hell.”
-6. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved. ^ma137note01-ref ^ma137note02-ref ^ma137note03-ref ^ma137note04-ref ^ma137note05-ref ^ma137note06-ref ^ma137note07-ref ^ma137note08-ref
+6. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved. ^ma137note01-ref ^ma137note02-ref ^ma137note03-ref ^ma137note04-ref ^ma137note05-ref ^ma137note06-ref ^ma137note07-ref ^ma137note08-ref
 
 ---
 

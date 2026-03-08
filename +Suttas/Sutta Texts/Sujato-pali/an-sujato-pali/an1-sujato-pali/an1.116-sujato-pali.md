@@ -20,13 +20,13 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-116“Mendicants, I do not see a single thing that leads to the decline and disappearance of the true teaching like laziness. Laziness leads to the decline and disappearance of the true teaching.”
+116“bhikkhus, I do not see a single thing that leads to the decline and disappearance of the true teaching like laziness. Laziness leads to the decline and disappearance of the true teaching.”
 
-117“Mendicants, I do not see a single thing that leads to the continuation, persistence, and enduring of the true teaching like arousing energy. Arousing energy leads to the continuation, persistence, and enduring of the true teaching.”
+117“bhikkhus, I do not see a single thing that leads to the continuation, persistence, and enduring of the true teaching like arousing energy. Arousing energy leads to the continuation, persistence, and enduring of the true teaching.”
 
-118-128“Mendicants, I do not see a single thing that leads to the decline and disappearance of the true teaching like having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness … bad friends … good friends … pursuing bad habits and not good habits. Pursuing bad habits and not good habits leads to the decline and disappearance of the true teaching.”
+118-128“bhikkhus, I do not see a single thing that leads to the decline and disappearance of the true teaching like having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness … bad friends … good friends … pursuing bad habits and not good habits. Pursuing bad habits and not good habits leads to the decline and disappearance of the true teaching.”
 
-129“Mendicants, I do not see a single thing that leads to the continuation, persistence, and enduring of the true teaching like pursuing good habits and not bad habits. Pursuing good habits and not bad habits leads to the continuation, persistence, and enduring of the true teaching”
+129“bhikkhus, I do not see a single thing that leads to the continuation, persistence, and enduring of the true teaching like pursuing good habits and not bad habits. Pursuing good habits and not bad habits leads to the continuation, persistence, and enduring of the true teaching”
 
 
 ---

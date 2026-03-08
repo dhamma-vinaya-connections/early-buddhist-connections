@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“One thing, mendicants, when developed and cultivated, leads solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. What one thing? Recollection of the Buddha. This one thing, when developed and cultivated, leads solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment.”
+1“One thing, bhikkhus, when developed and cultivated, leads solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. What one thing? Recollection of the Buddha. This one thing, when developed and cultivated, leads solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment.”
 
 1"Ekadhammo, bhikkhave, bhāvito bahulīkato ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. Katamo ekadhammo? Buddhānussati. Ayaṁ kho, bhikkhave, ekadhammo bhāvito bahulīkato ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattatī"ti.
 

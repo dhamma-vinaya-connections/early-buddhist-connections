@@ -28,12 +28,12 @@ Now at that time two renunciates— the wanderer Muṇḍiya and Jāliya the pup
 
 “Yes, reverend,” they replied. The Buddha said this:
 
-“Take the case when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. …
+“Take the case when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a bhikkhu is accomplished in ethics. …
 
 
 3They enter and remain in the first jhāna …
 
-When a mendicant knows and sees like this, would it be appropriate to say of them: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’?”
+When a bhikkhu knows and sees like this, would it be appropriate to say of them: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’?”
 
 
 “It would, reverend.”
@@ -42,14 +42,14 @@ When a mendicant knows and sees like this, would it be appropriate to say of the
 “But reverends, I know and see like this. Nevertheless, I do not say: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’. … They enter and remain in the second jhāna … third jhāna … fourth jhāna.
 
 
-When a mendicant knows and sees like this, would it be appropriate to say of them: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’?”
+When a bhikkhu knows and sees like this, would it be appropriate to say of them: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’?”
 
 “It would, reverend.”
 
 
 “But reverends, I know and see like this. Nevertheless, I do not say: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’. …
 
-They extend and project the mind toward knowledge and vision … When a mendicant knows and sees like this, would it be appropriate to say of them: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’?”
+They extend and project the mind toward knowledge and vision … When a bhikkhu knows and sees like this, would it be appropriate to say of them: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’?”
 
 
 “It would, reverend.”
@@ -57,7 +57,7 @@ They extend and project the mind toward knowledge and vision … When a mendican
 “But reverends, I know and see like this. Nevertheless, I do not say: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’. …
 
 
-4They understand: ‘… there is no return to any state of existence.’ When a mendicant knows and sees like this, would it be appropriate to say of them: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’?”
+4They understand: ‘… there is no return to any state of existence.’ When a bhikkhu knows and sees like this, would it be appropriate to say of them: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’?”
 
 
 “It would not, reverend.”

@@ -2,7 +2,7 @@
 sutta_code: "AN5.233"
 sutta_title:
   - "Āvāsika "
-  - "Resident Mendicant"
+  - "Resident bhikkhu"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---

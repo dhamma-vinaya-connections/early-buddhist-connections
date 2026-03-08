@@ -47,9 +47,9 @@ parallels_partilal: "[[SA830-831]], [[AN3.84]], [[SA829]], [[SN54.10]], [[SA813]
 > A monk is critical of the Buddha , but later feels remorse.
 
 > [!info] Key Excerpts 
-> The Buddha  praises bhikkhus that want to train, encourage other mendicants and praise at the right time those mendicants who do want to train whether senior, middle or junior
+> The Buddha  praises bhikkhus that want to train, encourage other bhikkhus and praise at the right time those bhikkhus who do want to train whether senior, middle or junior
 > 
-> Because, hearing that I praised that mendicant, other mendicants might want to keep company with them. Then they might follow their example
+> Because, hearing that I praised that bhikkhu, other bhikkhus might want to keep company with them. Then they might follow their example
 > 
 
 

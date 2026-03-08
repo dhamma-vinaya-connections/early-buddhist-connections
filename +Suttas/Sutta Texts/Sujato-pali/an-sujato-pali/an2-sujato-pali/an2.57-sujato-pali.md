@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“These two, mendicants, are not startled by a crack of thunder. What two? A mendicant who has ended defilements; and a thoroughbred elephant. These are the two who are not startled by a crack of thunder.”
+1“These two, bhikkhus, are not startled by a crack of thunder. What two? A bhikkhu who has ended defilements; and a thoroughbred elephant. These are the two who are not startled by a crack of thunder.”
 
 1"Dveme, bhikkhave, asaniyā phalantiyā na santasanti. Katame dve? Bhikkhu ca khīṇāsavo, hatthājānīyo ca. Ime kho, bhikkhave, dve asaniyā phalantiyā na santasantī"ti.
 

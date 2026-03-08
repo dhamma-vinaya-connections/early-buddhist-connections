@@ -20,18 +20,18 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four fears. What four? The fears of guilt, shame, punishment, and going to a bad place.
+1“bhikkhus, there are these four fears. What four? The fears of guilt, shame, punishment, and going to a bad place.
 
-2And what, mendicants, is the fear of guilt? It’s when someone reflects: ‘If I were to do bad things by way of body, speech, and mind, wouldn’t I blame myself for my conduct?’ Being afraid of guilt, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. This is called the fear of guilt.
+2And what, bhikkhus, is the fear of guilt? It’s when someone reflects: ‘If I were to do bad things by way of body, speech, and mind, wouldn’t I blame myself for my conduct?’ Being afraid of guilt, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. This is called the fear of guilt.
 
-3And what, mendicants, is the fear of shame? It’s when someone reflects: ‘If I were to do bad things by way of body, speech, and mind, wouldn’t others blame me for my conduct?’ Being afraid of shame, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. This is called the fear of shame.
+3And what, bhikkhus, is the fear of shame? It’s when someone reflects: ‘If I were to do bad things by way of body, speech, and mind, wouldn’t others blame me for my conduct?’ Being afraid of shame, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. This is called the fear of shame.
 
 
-4And what, mendicants, is the fear of punishment? It’s when someone sees that the kings have arrested a bandit, a criminal, and subjected them to various punishments — whipping, caning, and clubbing; cutting off hands or feet, or both; cutting off ears or nose, or both; the ‘porridge pot’, the ‘shell-shave’, the ‘demon’s mouth’, the ‘garland of fire’, the ‘burning hand’, the ‘grass blades’, the ‘bark dress’, the ‘antelope’, the ‘meat hook’, the ‘coins’, the ‘acid pickle’, the ‘twisting bar’, the ‘straw mat’; being splashed with hot oil, being fed to the dogs, being impaled alive, and being beheaded.
+4And what, bhikkhus, is the fear of punishment? It’s when someone sees that the kings have arrested a bandit, a criminal, and subjected them to various punishments — whipping, caning, and clubbing; cutting off hands or feet, or both; cutting off ears or nose, or both; the ‘porridge pot’, the ‘shell-shave’, the ‘demon’s mouth’, the ‘garland of fire’, the ‘burning hand’, the ‘grass blades’, the ‘bark dress’, the ‘antelope’, the ‘meat hook’, the ‘coins’, the ‘acid pickle’, the ‘twisting bar’, the ‘straw mat’; being splashed with hot oil, being fed to the dogs, being impaled alive, and being beheaded.
 
 5They think: ‘If I were to do the same kind of bad deed, the kings would punish me in the same way.’ … Being afraid of punishment, they don’t steal the belongings of others. They give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. This is called the fear of punishment.
 
-6And what, mendicants, is the fear of rebirth in a bad place? It’s when someone reflects: ‘Bad conduct of body, speech, or mind has a bad result in the next life. If I were to do such bad things, when my body breaks up, after death, I’d be reborn in a place of loss, a bad place, the underworld, hell.’ Being afraid of rebirth in a bad place, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. This is called the fear of rebirth in a bad place.
+6And what, bhikkhus, is the fear of rebirth in a bad place? It’s when someone reflects: ‘Bad conduct of body, speech, or mind has a bad result in the next life. If I were to do such bad things, when my body breaks up, after death, I’d be reborn in a place of loss, a bad place, the underworld, hell.’ Being afraid of rebirth in a bad place, they give up bad conduct by way of body, speech, and mind, and develop good conduct by way of body, speech, and mind, keeping themselves pure. This is called the fear of rebirth in a bad place.
 
 These are the four fears.”
 

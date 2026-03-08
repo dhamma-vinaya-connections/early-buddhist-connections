@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“When one thing, mendicants, is developed and cultivated the body and mind become tranquil, thinking and considering settle down, and all of the qualities that play a part in realization are fully developed. What one thing? Mindfulness of the body. When this one thing is developed and cultivated, the body and mind become tranquil, thinking and considering settle down, and all of the qualities that play a part in realization are fully developed.”
+1“When one thing, bhikkhus, is developed and cultivated the body and mind become tranquil, thinking and considering settle down, and all of the qualities that play a part in realization are fully developed. What one thing? Mindfulness of the body. When this one thing is developed and cultivated, the body and mind become tranquil, thinking and considering settle down, and all of the qualities that play a part in realization are fully developed.”
 
 1"Ekadhamme, bhikkhave, bhāvite bahulīkate kāyopi passambhati, cittampi passambhati, vitakkavicārāpi vūpasammanti, kevalāpi vijjābhāgiyā dhammā bhāvanāpāripūriṁ gacchanti. Katamasmiṁ ekadhamme? Kāyagatāya satiyā. Imasmiṁ kho, bhikkhave, ekadhamme bhāvite bahulīkate kāyopi passambhati, cittampi passambhati, vitakkavicārāpi vūpasammanti, kevalāpi vijjābhāgiyā dhammā bhāvanāpāripūriṁ gacchantī"ti.
 

@@ -115,7 +115,7 @@ During that very rainy season Venerable Bhaddiya realized the three insights, Ve
 8When Bhaddiya was in the wilderness, at the foot of a tree, or in an empty dwelling, he frequently uttered a heartfelt exclamation: “Oh, what happiness! Oh, what happiness!”
 
 
-A number of monks went to the Buddha, bowed, sat down, and told him what was happening, adding: “No doubt Bhaddiya is dissatisfied with the spiritual life. It’s because he’s recalling his former happiness as a king that he is saying this.”
+A number of bhikkhus went to the Buddha, bowed, sat down, and told him what was happening, adding: “No doubt Bhaddiya is dissatisfied with the spiritual life. It’s because he’s recalling his former happiness as a king that he is saying this.”
 
 
 9The Buddha addressed a certain monk: “Go, monk, and in my name say to Bhaddiya, ‘Bhaddiya, the Teacher is calling you.’”
@@ -156,7 +156,7 @@ Then, while reflecting in private, Devadatta thought: “Who might I inspire to 
 
 “If you are Venerable Devadatta, then please appear in your own form.” Devadatta abandoned the form of a boy and then stood in front of Ajātasattu, wearing his robes and carrying his bowl.
 
-By means of this wonder Devadatta was able to inspire Ajātasattu to have confidence in him. Ajātasattu then attended on him morning and evening, with five hundred carriages and a meal offering of five hundred dishes of food. Overcome by gain, honor, and fame, Devadatta started desiring to lead the Saṅgha of monks. But with the appearance of that thought, his supernormal powers disappeared.
+By means of this wonder Devadatta was able to inspire Ajātasattu to have confidence in him. Ajātasattu then attended on him morning and evening, with five hundred carriages and a meal offering of five hundred dishes of food. Overcome by gain, honor, and fame, Devadatta started desiring to lead the Saṅgha of bhikkhus. But with the appearance of that thought, his supernormal powers disappeared.
 
 
 13At that time Kakudha the Koḷiyan, the attendant to Venerable Mahāmoggallāna, had recently died and been reborn in a mind-made body. He had acquired a body two or three times the size of the fields of a Magadhan village. Yet he harmed neither himself nor others with that body.
@@ -190,11 +190,11 @@ One kind of teacher is impure in behavior, while claiming it is pure. His discip
 
 21But in my case, Moggallāna, I claim my behavior is pure because it is. My disciples don’t conceal my behavior and I don’t expect them to do so. I claim my livelihood is pure … I claim my teachings are pure … I claim my explanations are pure … I claim my knowledge and vision are pure because they are. My disciples don’t conceal my knowledge and vision and I don’t expect them to do so.”
 
-22When the Buddha had stayed at Kosambī for as long as he liked, he set out wandering toward Rājagaha. When he eventually arrived, he stayed in the Bamboo Grove, the squirrel sanctuary. Then a number of monks went to the Buddha, bowed, sat down, and said:
+22When the Buddha had stayed at Kosambī for as long as he liked, he set out wandering toward Rājagaha. When he eventually arrived, he stayed in the Bamboo Grove, the squirrel sanctuary. Then a number of bhikkhus went to the Buddha, bowed, sat down, and said:
 
 “Venerable Sir, Prince Ajātasattu attends on Devadatta morning and evening, with five hundred carriages and a meal offering of five hundred dishes of food.”
 
-“Don’t envy Devadatta, monks, his gain, honor, and fame. So long as Prince Ajātasattu treats him like this, Devadatta can be expected to decline in good qualities.
+“Don’t envy Devadatta, bhikkhus, his gain, honor, and fame. So long as Prince Ajātasattu treats him like this, Devadatta can be expected to decline in good qualities.
 
 23Just as a fierce dog would get even more fierce if you break a gall bladder on its nose, so too, so long as Prince Ajātasattu treats him like this, Devadatta can be expected to decline in good qualities.
 
@@ -228,9 +228,9 @@ As the fetus destroys the mule.”
 
 #### 2.1 The legal procedure of announcement
 
-31Soon afterwards the Buddha was seated giving a teaching surrounded by a large gathering of people, including the King. Then Devadatta got up from his seat, put his upper robe over one shoulder, raised his joined palms, and said: “Venerable Sir, you’re now old and close to the end of your life. You should live free from bother and enjoy the happiness of the present life. Hand the Saṅgha of monks over to me. Let me lead the Saṅgha.”
+31Soon afterwards the Buddha was seated giving a teaching surrounded by a large gathering of people, including the King. Then Devadatta got up from his seat, put his upper robe over one shoulder, raised his joined palms, and said: “Venerable Sir, you’re now old and close to the end of your life. You should live free from bother and enjoy the happiness of the present life. Hand the Saṅgha of bhikkhus over to me. Let me lead the Saṅgha.”
 
-“Let it be, Devadatta, don’t think of leading the Saṅgha of monks.”
+“Let it be, Devadatta, don’t think of leading the Saṅgha of bhikkhus.”
 
 
 32A second time Devadatta said the same thing and got the same reply. He then said it a third time, and the Buddha replied:
@@ -243,7 +243,7 @@ Devadatta thought: “The Buddha disparages me in front of a gathering that incl
 This was the first time Devadatta had ill will toward the Buddha.
 
 
-34Soon afterwards the Buddha addressed the monks:
+34Soon afterwards the Buddha addressed the bhikkhus:
 
 “Well then, the Saṅgha should do a legal procedure to make an announcement about Devadatta in Rājagaha like this: ‘Devadatta’s character has changed. Whatever Devadatta now does by body or speech has nothing to do with the Buddha, the Teaching, or the Saṅgha, but only with Devadatta.’ And it should be done in this way. A competent and capable monk should inform the Saṅgha:
 
@@ -274,7 +274,7 @@ The Saṅgha has done a legal procedure to make an announcement about Devadatta 
 “Yes, Sir.”
 
 
-39And the Buddha addressed the monks:
+39And the Buddha addressed the bhikkhus:
 
 “Well then, the Saṅgha should appoint Sāriputta to make that announcement about Devadatta in Rājagaha. And he should be appointed like this. First Sāriputta should be asked, and then a competent and capable monk should inform the Saṅgha:
 
@@ -291,7 +291,7 @@ The Saṅgha has appointed Venerable Sāriputta to make an announcement about De
 
 42“Devadatta’s character has changed. Whatever Devadatta now does by body or speech has nothing to do with the Buddha, the Teaching, or the Saṅgha, but only with Devadatta.” The Saṅgha approves and is therefore silent. I’ll remember it thus.’”
 
-43When he had been appointed, Sāriputta entered Rājagaha accompanied by a number of monks. He then made that announcement about Devadatta:
+43When he had been appointed, Sāriputta entered Rājagaha accompanied by a number of bhikkhus. He then made that announcement about Devadatta:
 
 “Devadatta’s character has changed. Whatever Devadatta now does by body or speech has nothing to do with the Buddha, the Teaching, or the Saṅgha, but only with Devadatta.” The foolish people there, those with little faith and confidence, said: “These Sakyan monastics are envious of Devadatta’s gain and honor.” But the wise ones, those with faith and confidence, said: “This must be a serious matter, seeing as the Buddha has had an announcement made about Devadatta in Rājagaha.”
 
@@ -309,7 +309,7 @@ The Saṅgha has appointed Venerable Sāriputta to make an announcement about De
 “Venerable Devadatta.”
 
 
-Some officials opined: “The Prince should be executed, as well as Devadatta and all the monks.” Others opined: “The monks should not be executed; they haven’t done anything wrong. The Prince should be executed, as well as Devadatta.” Others again opined: “Neither the Prince nor Devadatta nor the monks should be executed. The King should be informed, and we should do as he says.”
+Some officials opined: “The Prince should be executed, as well as Devadatta and all the bhikkhus.” Others opined: “The bhikkhus should not be executed; they haven’t done anything wrong. The Prince should be executed, as well as Devadatta.” Others again opined: “Neither the Prince nor Devadatta nor the bhikkhus should be executed. The King should be informed, and we should do as he says.”
 
 
 46Taking Ajātasattu with them, they went to King Seniya Bimbisāra of Magadha and informed him of what had happened. The King said: “What do you all think?” And they told him their views.
@@ -348,7 +348,7 @@ He then placed his sword and shield to one side, put down his bow and arrows, an
 
 He had seen the Truth, had reached, understood, and penetrated it. He had gone beyond doubt and uncertainty, had attained to confidence, and had become independent of others in the Teacher’s instruction. And he said to the Buddha:
 
-“Wonderful, Sir, wonderful! Just as one might set upright what had been overturned, or reveal what was hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what’s there just so has the Buddha made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of monks. Please accept me as a lay follower who has gone for refuge for life.”
+“Wonderful, Sir, wonderful! Just as one might set upright what had been overturned, or reveal what was hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what’s there just so has the Buddha made the Teaching clear in many ways. I go for refuge to the Buddha, the Teaching, and the Saṅgha of bhikkhus. Please accept me as a lay follower who has gone for refuge for life.”
 
 
 The Buddha then said to him: “Don’t go back along this path, go along that one.” And he sent him down a different path.
@@ -366,25 +366,25 @@ The Buddha then said to them: “Don’t go back along this path, go along that 
 
 #### 2.4 The act of causing the Buddha to bleed
 
-53Soon afterwards the Buddha was doing walking meditation in the shade of the Vulture Peak. Devadatta climbed the peak and threw down a large stone, thinking: “With this I’ll kill the ascetic Gotama.” But the stone got stuck in the junction of two outcrops. A chip flew off, hitting the Buddha’s foot and causing it to bleed. The Buddha looked up and said to Devadatta: “Foolish man, you have made much demerit. With an evil mind intent on murder you have made the Buddha bleed.” Soon afterwards the Buddha addressed the monks:
+53Soon afterwards the Buddha was doing walking meditation in the shade of the Vulture Peak. Devadatta climbed the peak and threw down a large stone, thinking: “With this I’ll kill the ascetic Gotama.” But the stone got stuck in the junction of two outcrops. A chip flew off, hitting the Buddha’s foot and causing it to bleed. The Buddha looked up and said to Devadatta: “Foolish man, you have made much demerit. With an evil mind intent on murder you have made the Buddha bleed.” Soon afterwards the Buddha addressed the bhikkhus:
 
 “With an evil mind intent on murder Devadatta has made the Buddha bleed. This is his first action with consequences in his very next life.”
 
 
-54When the monks heard that Devadatta was trying to murder the Buddha, they walked back and forth on all sides of the Buddha’s dwelling, trying to protect the Buddha by reciting loudly. The Buddha heard that loud sound of recitation. He asked Ānanda what it was and Ānanda told him.
+54When the bhikkhus heard that Devadatta was trying to murder the Buddha, they walked back and forth on all sides of the Buddha’s dwelling, trying to protect the Buddha by reciting loudly. The Buddha heard that loud sound of recitation. He asked Ānanda what it was and Ānanda told him.
 
 
-The Buddha said: “Well then, Ānanda, tell those monks in my name that the Teacher is calling them.”  
+The Buddha said: “Well then, Ānanda, tell those bhikkhus in my name that the Teacher is calling them.”  
   
-Saying: “Yes, Sir,” he did just that. The monks consented. They then went to the Buddha, bowed, and sat down.  
+Saying: “Yes, Sir,” he did just that. The bhikkhus consented. They then went to the Buddha, bowed, and sat down.  
   
 The Buddha said to them:
 
 
-55-56“It’s impossible, monks, for anyone to kill me through an act of violence. The Buddha will not attain final extinguishment through an act of violence.
+55-56“It’s impossible, bhikkhus, for anyone to kill me through an act of violence. The Buddha will not attain final extinguishment through an act of violence.
 
 
-“Monks, there are five kinds of teachers in the world.
+“bhikkhus, there are five kinds of teachers in the world.
 
 One kind of teacher is impure in behavior, while claiming it is pure.
 
@@ -396,7 +396,7 @@ Another kind of teacher is impure in livelihood … gives impure teachings … g
 
 58But in my case, I claim my behavior is pure because it is. My disciples don’t conceal my behavior and I don’t expect them to do so. I claim my livelihood is pure … I claim my teachings are pure … I claim my explanations are pure … I claim my knowledge and vision are pure because they are. My disciples don’t conceal my knowledge and vision and I don’t expect them to do so.
 
-It’s impossible for anyone to kill me through an act of violence. The Buddha will not attain final extinguishment through an act of violence. Go to your dwellings, monks. I don’t need any protection.”
+It’s impossible for anyone to kill me through an act of violence. The Buddha will not attain final extinguishment through an act of violence. Go to your dwellings, bhikkhus. I don’t need any protection.”
 
 #### 2.5 The letting loose of Nāḷāgiri
 
@@ -404,14 +404,14 @@ It’s impossible for anyone to kill me through an act of violence. The Buddha w
 
 “Yes, Sir.”
 
-One morning soon afterwards, the Buddha robed up, took his bowl and robe, and entered Rājagaha for alms together with a number of monks. And the Buddha walked down that very street. When the elephant keepers saw the Buddha coming, they released Nāḷāgiri down the same street. Nāḷāgiri saw the Buddha coming. He blew his trunk, and with ears and tail bristling, he charged toward the Buddha. When the monks saw Nāḷāgiri coming, they said to the Buddha:
+One morning soon afterwards, the Buddha robed up, took his bowl and robe, and entered Rājagaha for alms together with a number of bhikkhus. And the Buddha walked down that very street. When the elephant keepers saw the Buddha coming, they released Nāḷāgiri down the same street. Nāḷāgiri saw the Buddha coming. He blew his trunk, and with ears and tail bristling, he charged toward the Buddha. When the bhikkhus saw Nāḷāgiri coming, they said to the Buddha:
 
 “This elephant coming down the street is Nāḷāgiri, a violent killer of humans. Please retreat, Sir.”
 
 “Come, don’t be afraid. It’s impossible for anyone to kill the Buddha through an act of violence. The Buddha will not attain final extinguishment through an act of violence.”
 
 
-60A second time and a third time those monks said the same thing to the Buddha, each time getting the same reply.
+60A second time and a third time those bhikkhus said the same thing to the Buddha, each time getting the same reply.
 
 
 61On that occasion people had ascended their stilt houses and even their roofs. The foolish people with little faith and confidence said: “The elephant will hurt the handsome great ascetic.” But the wise people with faith and confidence said: “Soon the great man and the great elephant will meet in battle.”
@@ -445,14 +445,14 @@ The great sage tamed the elephant.”
 
 “How can the Sakyan monastics eat at invitations after repeatedly asking? Who doesn’t like nice food? Who doesn’t prefer tasty food?”
 
-The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks: “How can Devadatta and his followers eat at invitations after repeatedly asking?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned Devadatta:
+The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus: “How can Devadatta and his followers eat at invitations after repeatedly asking?” They told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned Devadatta:
 
 “Is it true, Devadatta, that you do this?”
 
-“It’s true, Sir.” … After rebuking him … the Buddha gave a teaching and addressed the monks:
+“It’s true, Sir.” … After rebuking him … the Buddha gave a teaching and addressed the bhikkhus:
 
 
-“Well then, for monks eating among families I’ll lay down a rule against eating in groups of more than three, for these three reasons: for the restraint of bad people; for the ease of good monks, stopping those with bad desires from creating a faction and then splitting the Saṅgha; and out of compassion for families. Anyone eating in a group is to be dealt with according to the rule.”
+“Well then, for bhikkhus eating among families I’ll lay down a rule against eating in groups of more than three, for these three reasons: for the restraint of bad people; for the ease of good bhikkhus, stopping those with bad desires from creating a faction and then splitting the Saṅgha; and out of compassion for families. Anyone eating in a group is to be dealt with according to the rule.”
 
 
 68Soon afterwards Devadatta went to see Kokālika, Kaṭamodakatissaka, Khaṇḍadeviyā-putta, and Samuddadatta, and he said to them: “Let’s cause a schism in the Saṅgha of the ascetic Gotama. Let’s break its authority.”
@@ -465,7 +465,7 @@ Kokālika said to Devadatta:
 “Well, let’s go to the ascetic Gotama and request five things: ‘In many ways, Sir, you praise fewness of wishes, contentment, self-effacement, ascetic practices, being inspiring, the reduction in things, and being energetic. And there are five things that lead to just that.
 
 
-It would be good, Sir, if the monks stayed in the wilderness for life, and whoever stays near an inhabited area would commit an offense;
+It would be good, Sir, if the bhikkhus stayed in the wilderness for life, and whoever stays near an inhabited area would commit an offense;
 
 If they ate only almsfood for life, and whoever accepts an invitational meal would commit an offense;
 
@@ -494,7 +494,7 @@ Devadatta thought: “The Buddha doesn’t allow the five points,” and he was 
 71The foolish people there with little faith and confidence said: “These Sakyan monastics are practicing asceticism, and they live for the purpose of self-effacement. But the ascetic Gotama is extravagant and has chosen to live a life of indulgence.” But the wise people who had faith and confidence complained and criticized Devadatta: “How can Devadatta pursue schism in the Saṅgha of the Buddha? How can he break its authority?”
 
 
-72The monks heard the criticism of those people, and the monks of few desires complained and criticized him in the same way.
+72The bhikkhus heard the criticism of those people, and the bhikkhus of few desires complained and criticized him in the same way.
 
 
 73They then told the Buddha. Soon afterwards he had the Saṅgha gathered and questioned Devadatta:
@@ -505,7 +505,7 @@ Devadatta thought: “The Buddha doesn’t allow the five points,” and he was 
 
 “Let it be, Devadatta, don’t cause a schism in the Saṅgha. Schism in the Saṅgha is a serious matter. Whoever causes a schism in a united Saṅgha, does a bad act with effect for an eon; he is boiled in hell for an eon. But whoever unites a divided Saṅgha, generates the supreme merit; he rejoices in heaven for an eon. So let it be, Devadatta, don’t cause a schism in the Saṅgha. Schism in the Saṅgha is a serious matter.”
 
-74Soon afterwards, after robing up in the morning, Venerable Ānanda took his bowl and robe and entered Rājagaha for alms. When Devadatta saw him, he approached him, and said: “From today on, Ānanda, I’ll do the observance-day ceremony and the legal procedures of the Saṅgha separate from the Buddha and the Saṅgha of monks.”
+74Soon afterwards, after robing up in the morning, Venerable Ānanda took his bowl and robe and entered Rājagaha for alms. When Devadatta saw him, he approached him, and said: “From today on, Ānanda, I’ll do the observance-day ceremony and the legal procedures of the Saṅgha separate from the Buddha and the Saṅgha of bhikkhus.”
 
 
 75When Ānanda had walked for alms, after his meal and after returning from alms round, he went to the Buddha, bowed, sat down, and told him what had happened, adding:
@@ -535,7 +535,7 @@ For the noble ones doing evil is hard.”
 78On the observance day soon afterwards, Devadatta got up from his seat and distributed ballots, saying: “We have gone to the ascetic Gotama and asked for five things: ‘In many ways, Sir, you praise fewness of wishes, contentment, the erasing of defilements, ascetic practices, being inspiring, the reduction in things, and being energetic. And there are five things that lead to just that.
 
 
-It would be good, Sir, if the monks stayed in the wilderness for life, and whoever stays near an inhabited area would commit an offense;
+It would be good, Sir, if the bhikkhus stayed in the wilderness for life, and whoever stays near an inhabited area would commit an offense;
 
 If they were alms-collectors for life, and whoever accepts an invitation would commit an offense;
 
@@ -549,13 +549,13 @@ If they didn’t eat fish or meat for life, and whoever does would commit an off
 The ascetic Gotama doesn’t agree to them, but we practice in accordance with them. Any monk who approves of these five things should vote in favor.”
 
 
-79On that occasion five hundred Vajjian monks from Vesālī, newly ordained and ignorant, were present. Thinking: “This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction,” they voted in favor.
+79On that occasion five hundred Vajjian bhikkhus from Vesālī, newly ordained and ignorant, were present. Thinking: “This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction,” they voted in favor.
 
-Then, after causing a schism in the Saṅgha, Devadatta left for Gayāsīsa together with five hundred monks.
+Then, after causing a schism in the Saṅgha, Devadatta left for Gayāsīsa together with five hundred bhikkhus.
 
-Soon afterwards Sāriputta and Moggallāna went to the Buddha, bowed, sat down, and said: “Venerable Sir, Devadatta has split the Saṅgha and left for Gayāsīsa together with five hundred monks.”
+Soon afterwards Sāriputta and Moggallāna went to the Buddha, bowed, sat down, and said: “Venerable Sir, Devadatta has split the Saṅgha and left for Gayāsīsa together with five hundred bhikkhus.”
 
-“You have compassion for those five hundred newly ordained monks, don’t you? Go then, Sāriputta and Moggallāna, before they are affected by misfortune and disaster.”
+“You have compassion for those five hundred newly ordained bhikkhus, don’t you? Go then, Sāriputta and Moggallāna, before they are affected by misfortune and disaster.”
 
 Saying: “Yes,” Sāriputta and Moggallāna got up from their seats, bowed down, circumambulated the Buddha with their right side toward him, and went to Gayāsīsa.
 
@@ -563,10 +563,10 @@ Saying: “Yes,” Sāriputta and Moggallāna got up from their seats, bowed dow
 
 He replied: “Even Sāriputta and Moggallāna, the Buddha’s chief disciples, are going to Devadatta because they approve of his teaching.”
 
-“It’s impossible for Sāriputta and Moggallāna to approve of Devadatta’s teaching. Instead, they’ve gone to win those monks over.”
+“It’s impossible for Sāriputta and Moggallāna to approve of Devadatta’s teaching. Instead, they’ve gone to win those bhikkhus over.”
 
 
-81On that occasion Devadatta was seated giving a teaching surrounded by a great gathering. When Devadatta saw Sāriputta and Moggallāna coming, he said to the monks: “See how well-taught my teaching is, in that even Sāriputta and Moggallāna, the ascetic Gotama’s chief disciples, are coming here because they approve of my teaching.”
+81On that occasion Devadatta was seated giving a teaching surrounded by a great gathering. When Devadatta saw Sāriputta and Moggallāna coming, he said to the bhikkhus: “See how well-taught my teaching is, in that even Sāriputta and Moggallāna, the ascetic Gotama’s chief disciples, are coming here because they approve of my teaching.”
 
 But Kokālika said,
 
@@ -577,7 +577,7 @@ But Kokālika said,
 
 82Devadatta invited Venerable Sāriputta to sit on a seat half the height of his own. Saying:
 
-“There’s no need,” Sāriputta took another seat and sat down to one side, as did Mahāmoggallāna. After spending most of the night instructing, inspiring, and gladdening the monks with a teaching, Devadatta invited Sāriputta, saying “The Saṅgha of monks is without dullness and drowsiness. Give a teaching, Sāriputta. My back is aching and I’ll stretch it.”
+“There’s no need,” Sāriputta took another seat and sat down to one side, as did Mahāmoggallāna. After spending most of the night instructing, inspiring, and gladdening the bhikkhus with a teaching, Devadatta invited Sāriputta, saying “The Saṅgha of bhikkhus is without dullness and drowsiness. Give a teaching, Sāriputta. My back is aching and I’ll stretch it.”
 
 
 “Yes.”
@@ -585,22 +585,22 @@ But Kokālika said,
 
 Devadatta then folded his upper robe in four and lay down on his right side. Because he was tired, absentminded, and heedless, he fell asleep in an instant.
 
-83Venerable Sāriputta then used the wonder of mind reading to instruct them, and Venerable Mahāmoggallāna used the wonder of supernormal powers to the same effect. While those monks were being instructed like this, they experienced the stainless vision of the Truth: “Anything that has a beginning has an end.”
+83Venerable Sāriputta then used the wonder of mind reading to instruct them, and Venerable Mahāmoggallāna used the wonder of supernormal powers to the same effect. While those bhikkhus were being instructed like this, they experienced the stainless vision of the Truth: “Anything that has a beginning has an end.”
 
-84And Sāriputta addressed those monks: “Let’s go to the Buddha. Whoever approves of the teaching of the Buddha should come along.” Sāriputta and Moggallāna then went to the Bamboo Grove accompanied by those five hundred monks.
+84And Sāriputta addressed those bhikkhus: “Let’s go to the Buddha. Whoever approves of the teaching of the Buddha should come along.” Sāriputta and Moggallāna then went to the Bamboo Grove accompanied by those five hundred bhikkhus.
 
-In the meantime Kokālika woke up Devadatta, saying: “Get up, Devadatta, your monks are being led away by Sāriputta and Moggallāna. Didn’t I tell you not to trust Sāriputta and Moggallāna? Didn’t I say that they have bad desires, that they are in the grip of bad desires?” And Devadatta vomited hot blood right there.
-
-
-85But Sāriputta and Moggallāna went to the Buddha, bowed, sat down, and said: “Venerable Sir, it would be good if we could reordain the monks who sided with the schism.”
-
-“Let it be, Sāriputta, don’t think of reordaining the monks who sided with the schism. Instead, have them confess a serious offense. And Devadatta, how did he treat you?”
+In the meantime Kokālika woke up Devadatta, saying: “Get up, Devadatta, your bhikkhus are being led away by Sāriputta and Moggallāna. Didn’t I tell you not to trust Sāriputta and Moggallāna? Didn’t I say that they have bad desires, that they are in the grip of bad desires?” And Devadatta vomited hot blood right there.
 
 
-“Just as you, Sir, spend most of the night instructing, inspiring, and gladdening the monks with a teaching, and then invite me, saying, ‘The Saṅgha of monks is without dullness and drowsiness. Give a teaching, Sāriputta. My back is aching and I’ll stretch it,’ that’s how Devadatta treated us.”
+85But Sāriputta and Moggallāna went to the Buddha, bowed, sat down, and said: “Venerable Sir, it would be good if we could reordain the bhikkhus who sided with the schism.”
+
+“Let it be, Sāriputta, don’t think of reordaining the bhikkhus who sided with the schism. Instead, have them confess a serious offense. And Devadatta, how did he treat you?”
 
 
-86And the Buddha addressed the monks:
+“Just as you, Sir, spend most of the night instructing, inspiring, and gladdening the bhikkhus with a teaching, and then invite me, saying, ‘The Saṅgha of bhikkhus is without dullness and drowsiness. Give a teaching, Sāriputta. My back is aching and I’ll stretch it,’ that’s how Devadatta treated us.”
+
+
+86And the Buddha addressed the bhikkhus:
 
 “Once upon a time there was a great lake in a wilderness area with elephants living nearby. They plunged into the lake, pulled up lotus roots and tubers with their trunks, gave them a good rinse to remove the mud, and then chewed and swallowed them. That gave them beauty and strength. And they didn’t die or experience death-like suffering because of that.
 
@@ -639,7 +639,7 @@ Because Devadatta is overcome by and immersed in gain, lack of gain, fame, lack 
 
 For what reason should a monk overcome these things?
 
-If he doesn’t overcome whatever gain he’s affected by, corruptions, distress, and fevers may arise. But if he overcomes whatever gain he’s affected by, he won’t have those corruptions, distress, and fevers. If he doesn’t overcome whatever lack of gain he’s affected by, whatever fame he’s affected by, whatever lack of fame he’s affected by, whatever honor he’s affected by, whatever lack of honor he’s affected by, whatever bad desires he’s affected by, or whatever bad friends he’s affected by, corruptions, distress, and fevers may arise. But if he overcomes whatever bad friends he’s affected by, he won’t have those corruptions, distress, and fevers. Therefore, monks, you should overcome whatever gain you’re affected by, whatever lack of gain you’re affected by, whatever fame you’re affected by, whatever lack of fame you’re affected by, whatever honor you’re affected by, whatever lack of honor you’re affected by, whatever bad desires you’re affected by, and whatever bad friends you’re affected by. It’s in this way you should train yourselves.
+If he doesn’t overcome whatever gain he’s affected by, corruptions, distress, and fevers may arise. But if he overcomes whatever gain he’s affected by, he won’t have those corruptions, distress, and fevers. If he doesn’t overcome whatever lack of gain he’s affected by, whatever fame he’s affected by, whatever lack of fame he’s affected by, whatever honor he’s affected by, whatever lack of honor he’s affected by, whatever bad desires he’s affected by, or whatever bad friends he’s affected by, corruptions, distress, and fevers may arise. But if he overcomes whatever bad friends he’s affected by, he won’t have those corruptions, distress, and fevers. Therefore, bhikkhus, you should overcome whatever gain you’re affected by, whatever lack of gain you’re affected by, whatever fame you’re affected by, whatever lack of fame you’re affected by, whatever honor you’re affected by, whatever lack of honor you’re affected by, whatever bad desires you’re affected by, and whatever bad friends you’re affected by. It’s in this way you should train yourselves.
 
 94Because he is overcome by and immersed in three bad qualities, Devadatta is irredeemably destined to an eon in hell. What three? Bad desires; bad friends; after minor success, he stopped short of the goal.
 
@@ -686,18 +686,18 @@ Achieves the end of suffering.’”
 103“If, Upāli, there is one monk on one side and two on the other, and a fourth makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is a fracture in the Saṅgha, but not schism in the Saṅgha.
 
 
-If there are two monks on one side and two on the other, and a fifth makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is a fracture in the Saṅgha, but not schism in the Saṅgha.
+If there are two bhikkhus on one side and two on the other, and a fifth makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is a fracture in the Saṅgha, but not schism in the Saṅgha.
 
-If there are two monks on one side and three on the other, and a sixth makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is a fracture in the Saṅgha, but not schism in the Saṅgha.
+If there are two bhikkhus on one side and three on the other, and a sixth makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is a fracture in the Saṅgha, but not schism in the Saṅgha.
 
-If there are three monks on one side and three on the other, and a seventh makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is a fracture in the Saṅgha, but not schism in the Saṅgha.
+If there are three bhikkhus on one side and three on the other, and a seventh makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is a fracture in the Saṅgha, but not schism in the Saṅgha.
 
-If there are three monks on one side and four on the other, and an eighth makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is a fracture in the Saṅgha, but not schism in the Saṅgha.
+If there are three bhikkhus on one side and four on the other, and an eighth makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is a fracture in the Saṅgha, but not schism in the Saṅgha.
 
-But if there are four monks on one side and four on the other, and a ninth makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is both a fracture in the Saṅgha and also a schism in the Saṅgha.
+But if there are four bhikkhus on one side and four on the other, and a ninth makes the proclamation and distributes ballots, saying, ‘This is the Teaching, this is the Monastic Law, this is the Teacher’s instruction; take this, approve of this,’ then this is both a fracture in the Saṅgha and also a schism in the Saṅgha.
 
 
-And if there are nine or more monks, then this is both a fracture in the Saṅgha and also a schism in the Saṅgha.
+And if there are nine or more bhikkhus, then this is both a fracture in the Saṅgha and also a schism in the Saṅgha.
 
 A nun cannot cause a schism in the Saṅgha, even if she makes an effort to cause a schism. A trainee nun, a novice monk, a novice nun, a male lay follower, or a female lay follower cannot cause a schism in the Saṅgha, even if she makes an effort to cause a schism.
 
@@ -706,7 +706,7 @@ Only a monk of regular standing, one who belongs to the same Buddhist sect and i
 
 104“Venerable Sir, we speak of ‘schism in the Saṅgha’. But how is there schism in the Saṅgha?”
 
-105“Take the case when monks proclaim what’s contrary to the Teaching as being in accordance with it.
+105“Take the case when bhikkhus proclaim what’s contrary to the Teaching as being in accordance with it.
 
 
 106They proclaim what’s in accordance with the Teaching as contrary to it.
@@ -752,7 +752,7 @@ Only a monk of regular standing, one who belongs to the same Buddhist sect and i
 124“Venerable Sir, we speak of ‘unity in the Saṅgha’. But how is there unity in the Saṅgha?”
 
 
-125“Take the case when monks proclaim what’s contrary to the Teaching as such.
+125“Take the case when bhikkhus proclaim what’s contrary to the Teaching as such.
 
 126They proclaim what’s in accordance with the Teaching as such.
 

@@ -14,9 +14,9 @@ language: "English"
 
 > **Division:** IV. ELDERS
 
-“Bhikkhus, possessing five qualities, an elder bhikkhu is displeasing and disagreeable to his fellow monks and is neither respected nor esteemed by them. What five? He is not devoid of lust; he is not devoid of hatred; he is not devoid of delusion; he is denigrating; and he is insolent. Possessing these five qualities … nor esteemed by them.
+“Bhikkhus, possessing five qualities, an elder bhikkhu is displeasing and disagreeable to his fellow bhikkhus and is neither respected nor esteemed by them. What five? He is not devoid of lust; he is not devoid of hatred; he is not devoid of delusion; he is denigrating; and he is insolent. Possessing these five qualities … nor esteemed by them.
 
-“Bhikkhus, possessing five \[other\] qualities an elder bhikkhu is pleasing and agreeable to his fellow monks and is respected and esteemed by them. What five? He is devoid of lust; he is devoid of hatred; he is devoid of delusion; he is not denigrating; and he is not insolent. Possessing these five qualities … and esteemed by them.”
+“Bhikkhus, possessing five \[other\] qualities an elder bhikkhu is pleasing and agreeable to his fellow bhikkhus and is respected and esteemed by them. What five? He is devoid of lust; he is devoid of hatred; he is devoid of delusion; he is not denigrating; and he is not insolent. Possessing these five qualities … and esteemed by them.”
 
 
 ---

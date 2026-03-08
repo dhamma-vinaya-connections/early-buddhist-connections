@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Anger and hostility … offensiveness and contempt … jealousy and stinginess … deceit and deviousness … lack of conscience and prudence
 > 
-> These two things lead to the decline of a mendicant trainee and lead to be reborn in a place of loss
+> These two things lead to the decline of a bhikkhu trainee and lead to be reborn in a place of loss
 > 
 
 

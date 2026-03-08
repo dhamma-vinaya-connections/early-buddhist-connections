@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him:
+1Then a bhikkhu went up to the Buddha, bowed, sat down to one side, and said to him:
 
 
 2“Sir, they speak of this person called ‘a trainee’. How is a trainee defined?”
 
-“They train, mendicant, that’s why they’re called ‘a trainee’. What is their training? They train in the higher ethics, the higher mind, and the higher wisdom. They train, that’s why they’re called ‘a trainee’.
+“They train, bhikkhu, that’s why they’re called ‘a trainee’. What is their training? They train in the higher ethics, the higher mind, and the higher wisdom. They train, that’s why they’re called ‘a trainee’.
 
 
 3As a trainee trains,  

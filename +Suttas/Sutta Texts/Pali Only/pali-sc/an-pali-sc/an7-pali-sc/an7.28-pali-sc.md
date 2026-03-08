@@ -2,7 +2,7 @@
 sutta_code: "AN7.28"
 sutta_title:
   - "Paṭhamaparihāni "
-  - "Non-Decline For A Mendicant Trainee"
+  - "Non-Decline For A bhikkhu Trainee"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---
@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 7: The Book of the Sevens
-### AN 7.28: Paṭhamaparihānisutta — Non-decline for a Mendicant Trainee
+### AN 7.28: Paṭhamaparihānisutta — Non-decline for a bhikkhu Trainee
 
 1Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: 
 

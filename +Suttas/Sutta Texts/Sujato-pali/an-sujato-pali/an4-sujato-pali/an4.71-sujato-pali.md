@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a mendicant has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements. What four?
+1“bhikkhus, when a bhikkhu has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements. What four?
 
-It’s when a mendicant is ethical, learned, energetic, and wise. When a mendicant has these four things their practice is guaranteed, and they have laid the groundwork for ending the defilements.”
+It’s when a bhikkhu is ethical, learned, energetic, and wise. When a bhikkhu has these four things their practice is guaranteed, and they have laid the groundwork for ending the defilements.”
 
 1"Catūhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāya. Katamehi catūhi?
 

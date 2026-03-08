@@ -20,10 +20,10 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant who has three qualities has reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal. They are the best among gods and humans. What three? Right view, right knowledge, and right freedom.
+1“bhikkhus, a bhikkhu who has three qualities has reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal. They are the best among gods and humans. What three? Right view, right knowledge, and right freedom.
 
 
-A mendicant with these three qualities has reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal. They are the best among gods and humans.”
+A bhikkhu with these three qualities has reached the ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal. They are the best among gods and humans.”
 
 1"Tīhi, bhikkhave, dhammehi samannāgato bhikkhu accantaniṭṭho hoti accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho devamanussānaṁ. Katamehi tīhi? Sammādiṭṭhiyā, sammāñāṇena, sammāvimuttiyā – 
 

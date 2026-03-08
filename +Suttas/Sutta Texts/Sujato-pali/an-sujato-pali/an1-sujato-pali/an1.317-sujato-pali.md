@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“One person, mendicants, arises in the world for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans. What one person? Someone with right view, whose perspective is undistorted. They draw many people away from false teachings and establish them in the true teaching. This is one person who arises in the world for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”
+1“One person, bhikkhus, arises in the world for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans. What one person? Someone with right view, whose perspective is undistorted. They draw many people away from false teachings and establish them in the true teaching. This is one person who arises in the world for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans.”
 
 1"Ekapuggalo, bhikkhave, loke uppajjamāno uppajjati bahujanahitāya bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṁ. Katamo ekapuggalo? Sammādiṭṭhiko hoti aviparītadassano. So bahujanaṁ asaddhammā vuṭṭhāpetvā saddhamme patiṭṭhāpeti. Ayaṁ kho, bhikkhave, ekapuggalo loke uppajjamāno uppajjati bahujanahitāya bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānan"ti.
 

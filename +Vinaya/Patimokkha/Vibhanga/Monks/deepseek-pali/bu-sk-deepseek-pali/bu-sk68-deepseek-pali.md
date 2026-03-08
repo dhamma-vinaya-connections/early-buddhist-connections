@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 642. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū pallatthikāya nisinnassa dhammaṃ desenti…pe….
 
-## 642.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Monastery. Now at that time the group of six monks were teaching the Dhamma to one sitting cross-legged [...].
+## 642.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Monastery. Now at that time the group of six bhikkhus were teaching the Dhamma to one sitting cross-legged [...].
 
 ‘‘Na pallatthikāya nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā’’ti.
 

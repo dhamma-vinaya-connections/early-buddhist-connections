@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 619. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū sakabaḷena mukhena byāharanti…pe….
 
-## 619.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six monks spoke with their mouths full…and so on.
+## 619.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six bhikkhus spoke with their mouths full…and so on.
 
 ‘‘Na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā’’ti.
 

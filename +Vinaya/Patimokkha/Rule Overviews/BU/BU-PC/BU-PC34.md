@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC119"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC33]] 🌐 [[BU-PC35]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 4 Bhojana-Vaggo - 4 Food
 ## BU-PC34 - Dvittipattapūrapaṭiggahaṇa - Accepting Two or Three Bowls Full
 
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC119"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhuṃ paneva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā. tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci | If a monk goes to a family and is invited to take pastries or baked goods, he may accept two or three bowlfuls if he wishes. If he accepts more than that, he commits an offense entailing confession. If he accepts two or three bowlfuls, he should take it away and share it with the monks. This is the proper procedure |
+| Bhikkhuṃ paneva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā. tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci | If a monk goes to a family and is invited to take pastries or baked goods, he may accept two or three bowlfuls if he wishes. If he accepts more than that, he commits an offense entailing confession. If he accepts two or three bowlfuls, he should take it away and share it with the bhikkhus. This is the proper procedure |
 
 
 > [!Info] Analisis of the rule
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-PC119"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC34 | [[BNI-PC119]] | Vin.3.1–3.40 |
 

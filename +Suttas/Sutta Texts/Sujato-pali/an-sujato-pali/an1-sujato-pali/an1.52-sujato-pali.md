@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“This mind, mendicants, is radiant. And it is freed from passing corruptions. An educated noble disciple truly understands this. So I say that the educated noble disciple has development of the mind.”
+1“This mind, bhikkhus, is radiant. And it is freed from passing corruptions. An educated noble disciple truly understands this. So I say that the educated noble disciple has development of the mind.”
 
 1"Pabhassaramidaṁ, bhikkhave, cittaṁ. Tañca kho āgantukehi upakkilesehi vippamuttaṁ. Taṁ sutavā ariyasāvako yathābhūtaṁ pajānāti. Tasmā ‘sutavato ariyasāvakassa cittabhāvanā atthī’ti vadāmī"ti.
 

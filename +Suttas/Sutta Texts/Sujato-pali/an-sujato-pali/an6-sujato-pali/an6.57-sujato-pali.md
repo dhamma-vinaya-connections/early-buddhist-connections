@@ -27,7 +27,7 @@ language: "English - Pali"
 
 2The black class of rebirth consists of slaughterers of sheep, pigs, poultry, or deer, hunters or fishers, bandits, executioners, butchers of cattle, jailers, and any others with a cruel livelihood.
 
-3The blue class of rebirth consists of mendicants who live on thorns, and any others who teach the efficacy of deeds and action.
+3The blue class of rebirth consists of bhikkhus who live on thorns, and any others who teach the efficacy of deeds and action.
 
 4The red class of rebirth consists of the Jain ascetics who wear one cloth.
 

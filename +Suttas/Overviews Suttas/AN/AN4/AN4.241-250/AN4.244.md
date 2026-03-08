@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant fears offenses just as someone would fear punishment
+> A bhikkhu fears offenses just as someone would fear punishment
 
 > [!info] Key Excerpts 
 > Set perception of peril regarding expulsion, suspension, confession or acknowledgable offenses

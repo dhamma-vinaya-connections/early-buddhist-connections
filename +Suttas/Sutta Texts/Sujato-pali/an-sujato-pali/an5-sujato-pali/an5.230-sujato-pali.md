@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks of a black snake. What five? It’s irritable, hostile, venomous, fork-tongued, and treacherous. These are the five dangers of a black snake.
+1“bhikkhus, there are these five drawbacks of a black snake. What five? It’s irritable, hostile, venomous, fork-tongued, and treacherous. These are the five dangers of a black snake.
 
 2In the same way there are five drawbacks of a female. What five? She’s irritable, hostile, venomous, fork-tongued, and treacherous. This is a female’s venom: usually she’s very lustful.
 

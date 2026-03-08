@@ -20,7 +20,7 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Then the Buddha robed up in the morning and, taking his bowl and robe, entered Sāvatthī for alms. Then several mendicants went up to Venerable Ānanda and said to him: “Reverend, it’s been a long time since we’ve heard a Dhamma talk from the Buddha. It would be good if we got to hear a Dhamma talk from the Buddha.”
+Then the Buddha robed up in the morning and, taking his bowl and robe, entered Sāvatthī for alms. Then several bhikkhus went up to Venerable Ānanda and said to him: “Reverend, it’s been a long time since we’ve heard a Dhamma talk from the Buddha. It would be good if we got to hear a Dhamma talk from the Buddha.”
 
 “Well then, reverends, go to the brahmin Rammaka’s hermitage. Hopefully you’ll get to hear a Dhamma talk from the Buddha.”
 
@@ -35,14 +35,14 @@ Then the Buddha robed up in the morning and, taking his bowl and robe, entered S
 
 3So the Buddha went with Ānanda to the eastern gate to bathe. When he had bathed and emerged from the water he stood in one robe drying himself. Then Ānanda said to the Buddha: “Sir, the hermitage of the brahmin Rammaka is nearby. It’s so delightful, so lovely. Please visit it out of compassion.” The Buddha consented in silence.
 
-4He went to the brahmin Rammaka’s hermitage. Now at that time several mendicants were sitting together in the hermitage talking about the teaching. The Buddha stood outside the door waiting for the talk to end. When he knew the talk had ended he cleared his throat and knocked with the latch. The mendicants opened the door for the Buddha, and he entered the hermitage, where he sat on the seat spread out and addressed the mendicants: “Mendicants, what were you sitting talking about just now? What conversation was unfinished?”
+4He went to the brahmin Rammaka’s hermitage. Now at that time several bhikkhus were sitting together in the hermitage talking about the teaching. The Buddha stood outside the door waiting for the talk to end. When he knew the talk had ended he cleared his throat and knocked with the latch. The bhikkhus opened the door for the Buddha, and he entered the hermitage, where he sat on the seat spread out and addressed the bhikkhus: “bhikkhus, what were you sitting talking about just now? What conversation was unfinished?”
 
 “Sir, our unfinished discussion on the teaching was about the Buddha himself when the Buddha arrived.”
 
-5“Good, mendicants! It’s appropriate for gentlemen like you, who have gone forth in faith from the lay life to homelessness, to sit together and talk about the teaching. When you’re sitting together you should do one of two things: discuss the teachings or keep noble silence.
+5“Good, bhikkhus! It’s appropriate for gentlemen like you, who have gone forth in faith from the lay life to homelessness, to sit together and talk about the teaching. When you’re sitting together you should do one of two things: discuss the teachings or keep noble silence.
 
 
-6Mendicants, there are these two searches: the noble search and the ignoble search.
+6bhikkhus, there are these two searches: the noble search and the ignoble search.
 
 7And what is the ignoble search? It’s when someone who is themselves liable to be reborn seeks what is also liable to be reborn. Themselves liable to grow old, fall sick, die, sorrow, and become corrupted, they seek what is also liable to these things.
 
@@ -61,7 +61,7 @@ Then the Buddha robed up in the morning and, taking his bowl and robe, entered S
 14And what is the noble search? It’s when someone who is themselves liable to be reborn, understanding the drawbacks in being liable to be reborn, seeks the unborn supreme sanctuary, extinguishment. Themselves liable to grow old, fall sick, die, sorrow, and become corrupted, understanding the drawbacks in these things, they seek the unaging, unailing, undying, sorrowless, uncorrupted supreme sanctuary, extinguishment. This is the noble search.
 
 
-15Mendicants, before my awakening — when I was still unawakened but intent on awakening — I too, being liable to be reborn, sought what is also liable to be reborn. Myself liable to grow old, fall sick, die, sorrow, and become corrupted, I sought what is also liable to these things. Then it occurred to me: ‘Why do I, being liable to be reborn, grow old, fall sick, sorrow, die, and become corrupted, seek things that have the same nature? Why don’t I seek the unborn, unaging, unailing, undying, sorrowless, uncorrupted supreme sanctuary, extinguishment?’
+15bhikkhus, before my awakening — when I was still unawakened but intent on awakening — I too, being liable to be reborn, sought what is also liable to be reborn. Myself liable to grow old, fall sick, die, sorrow, and become corrupted, I sought what is also liable to these things. Then it occurred to me: ‘Why do I, being liable to be reborn, grow old, fall sick, sorrow, die, and become corrupted, seek things that have the same nature? Why don’t I seek the unborn, unaging, unailing, undying, sorrowless, uncorrupted supreme sanctuary, extinguishment?’
 
 
 16Some time later, while still black-haired, blessed with youth, in the prime of life — though my mother and father wished otherwise, weeping with tearful faces — I shaved off my hair and beard, dressed in ocher robes, and went forth from the lay life to homelessness.
@@ -214,9 +214,9 @@ And knowledge and vision arose in me, ‘Uddaka, son of Rāma, passed away just 
 
 46Then I thought, ‘Who should I teach first of all? Who will quickly understand this teaching?’
 
-Then it occurred to me, ‘The group of five mendicants were very helpful to me. They looked after me during my time of resolute striving. Why don’t I teach them first of all?’
+Then it occurred to me, ‘The group of five bhikkhus were very helpful to me. They looked after me during my time of resolute striving. Why don’t I teach them first of all?’
 
-Then I thought, ‘Where are the group of five mendicants staying these days?’ With clairvoyance that is purified and superhuman I saw that the group of five mendicants were staying near Benares, in the deer park at Isipatana.
+Then I thought, ‘Where are the group of five bhikkhus staying these days?’ With clairvoyance that is purified and superhuman I saw that the group of five bhikkhus were staying near Benares, in the deer park at Isipatana.
 
 
 47So, when I had stayed in Uruvelā as long as I wished, I set out for Benares.
@@ -255,14 +255,14 @@ that’s why I’m a victor.’
 
 54When I had spoken, Upaka said: ‘If you say so, reverend.’ Shaking his head, he took a wrong turn and left.
 
-55Traveling stage by stage, I arrived at Benares, and went to see the group of five mendicants in the deer park at Isipatana. The group of five mendicants saw me coming off in the distance and stopped each other, saying, ‘Here comes the ascetic Gotama. He’s so indulgent; he strayed from the struggle and returned to indulgence. We shouldn’t bow to him or rise for him or receive his bowl and robe. But we can set out a seat; he can sit if he likes.’ Yet as I drew closer, the group of five mendicants were unable to stop themselves as they had agreed. Some came out to greet me and receive my bowl and robe, some spread out a seat, while others set out water for washing my feet. But they still addressed me by name and as ‘reverend’.
+55Traveling stage by stage, I arrived at Benares, and went to see the group of five bhikkhus in the deer park at Isipatana. The group of five bhikkhus saw me coming off in the distance and stopped each other, saying, ‘Here comes the ascetic Gotama. He’s so indulgent; he strayed from the struggle and returned to indulgence. We shouldn’t bow to him or rise for him or receive his bowl and robe. But we can set out a seat; he can sit if he likes.’ Yet as I drew closer, the group of five bhikkhus were unable to stop themselves as they had agreed. Some came out to greet me and receive my bowl and robe, some spread out a seat, while others set out water for washing my feet. But they still addressed me by name and as ‘reverend’.
 
 
-56So I said to them, ‘Mendicants, don’t address me by name and as ‘reverend’. The Realized One is perfected, a fully awakened Buddha. Listen up, mendicants: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
+56So I said to them, ‘bhikkhus, don’t address me by name and as ‘reverend’. The Realized One is perfected, a fully awakened Buddha. Listen up, bhikkhus: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
 
 But they said to me, ‘Reverend Gotama, even by that conduct, that practice, that grueling work you did not achieve any superhuman distinction in knowledge and vision worthy of the noble ones. How could you have achieved such a state now that you’ve become indulgent, strayed from the struggle and returned to indulgence?’
 
-So I said to them, ‘The Realized One has not become indulgent, strayed from the struggle and returned to indulgence. The Realized One is perfected, a fully awakened Buddha. Listen up, mendicants: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life.’
+So I said to them, ‘The Realized One has not become indulgent, strayed from the struggle and returned to indulgence. The Realized One is perfected, a fully awakened Buddha. Listen up, bhikkhus: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life.’
 
 
 57But for a second time they said to me, ‘Reverend Gotama … you’ve returned to indulgence.’
@@ -272,19 +272,19 @@ So for a second time I said to them, ‘The Realized One has not become indulgen
 
 58But for a third time they said to me, ‘Reverend Gotama, even by that conduct, that practice, that grueling work you did not achieve any superhuman distinction in knowledge and vision worthy of the noble ones. How could you have achieved such a state now that you’ve become indulgent, strayed from the struggle and returned to indulgence?’
 
-59So I said to them, ‘Mendicants, have you ever known me to speak like this before?’
+59So I said to them, ‘bhikkhus, have you ever known me to speak like this before?’
 
 ‘No sir, we have not.’
 
 
-‘The Realized One is perfected, a fully awakened Buddha. Listen up, mendicants: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
+‘The Realized One is perfected, a fully awakened Buddha. Listen up, bhikkhus: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
 
-60I was able to persuade the group of five mendicants. Then sometimes I advised two mendicants, while the other three went for alms. Then those three would feed all six of us with what they brought back. Sometimes I advised three mendicants, while the other two went for alms. Then those two would feed all six of us with what they brought back.
+60I was able to persuade the group of five bhikkhus. Then sometimes I advised two bhikkhus, while the other three went for alms. Then those three would feed all six of us with what they brought back. Sometimes I advised three bhikkhus, while the other two went for alms. Then those two would feed all six of us with what they brought back.
 
-61As the group of five mendicants were being advised and instructed by me like this, being themselves liable to be reborn, understanding the drawbacks in being liable to be reborn, they sought the unborn supreme sanctuary, extinguishment — and they found it. Being themselves liable to grow old, fall sick, die, sorrow, and become corrupted, understanding the drawbacks in these things, they sought the unaging, unailing, undying, sorrowless, uncorrupted supreme sanctuary, extinguishment — and they found it. Knowledge and vision arose in them: ‘Our freedom is unshakable; this is our last rebirth; now there are no more future lives.’
+61As the group of five bhikkhus were being advised and instructed by me like this, being themselves liable to be reborn, understanding the drawbacks in being liable to be reborn, they sought the unborn supreme sanctuary, extinguishment — and they found it. Being themselves liable to grow old, fall sick, die, sorrow, and become corrupted, understanding the drawbacks in these things, they sought the unaging, unailing, undying, sorrowless, uncorrupted supreme sanctuary, extinguishment — and they found it. Knowledge and vision arose in them: ‘Our freedom is unshakable; this is our last rebirth; now there are no more future lives.’
 
 
-62Mendicants, there are these five kinds of sensual stimulation. What five? Sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. Sounds known by the ear … Smells known by the nose … Tastes known by the tongue … Touches known by the body that are likable, desirable, agreeable, pleasant, sensual, and arousing. These are the five kinds of sensual stimulation.
+62bhikkhus, there are these five kinds of sensual stimulation. What five? Sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. Sounds known by the ear … Smells known by the nose … Tastes known by the tongue … Touches known by the body that are likable, desirable, agreeable, pleasant, sensual, and arousing. These are the five kinds of sensual stimulation.
 
 There are ascetics and brahmins who enjoy these five kinds of sensual stimulation tied, infatuated, attached, blind to the drawbacks, and not understanding the escape. You should understand that they have met with calamity and disaster, and are vulnerable to the Wicked One.
 
@@ -300,25 +300,25 @@ In the same way, there are ascetics and brahmins who enjoy these five kinds of s
 
 65Suppose there was a wild deer wandering in the forest that walked, stood, sat, and laid down in confidence. Why is that? Because it’s out of the hunter’s raṅge.
 
-In the same way, a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see.
+In the same way, a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is called a bhikkhu who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see.
 
-66Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is called a mendicant who has blinded Māra …
+66Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is called a bhikkhu who has blinded Māra …
 
-67Furthermore, with the fading away of rapture, a mendicant enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is called a mendicant who has blinded Māra …
+67Furthermore, with the fading away of rapture, a bhikkhu enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is called a bhikkhu who has blinded Māra …
 
-68Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. This is called a mendicant who has blinded Māra …
+68Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a bhikkhu enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. This is called a bhikkhu who has blinded Māra …
 
-69Furthermore, a mendicant, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. This is called a mendicant who has blinded Māra …
+69Furthermore, a bhikkhu, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. This is called a bhikkhu who has blinded Māra …
 
-70Furthermore, a mendicant, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness. This is called a mendicant who has blinded Māra …
+70Furthermore, a bhikkhu, going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, enters and remains in the dimension of infinite consciousness. This is called a bhikkhu who has blinded Māra …
 
-71Furthermore, a mendicant, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. This is called a mendicant who has blinded Māra …
+71Furthermore, a bhikkhu, going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, enters and remains in the dimension of nothingness. This is called a bhikkhu who has blinded Māra …
 
-72Furthermore, a mendicant, going totally beyond the dimension of nothingness, enters and remains in the dimension of neither perception nor non-perception. This is called a mendicant who has blinded Māra …
+72Furthermore, a bhikkhu, going totally beyond the dimension of nothingness, enters and remains in the dimension of neither perception nor non-perception. This is called a bhikkhu who has blinded Māra …
 
-73Furthermore, a mendicant, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end. This is called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see. They’ve crossed over clinging to the world. And they walk, stand, sit, and lie down in confidence. Why is that? Because they’re out of the Wicked One’s raṅge.”
+73Furthermore, a bhikkhu, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end. This is called a bhikkhu who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see. They’ve crossed over clinging to the world. And they walk, stand, sit, and lie down in confidence. Why is that? Because they’re out of the Wicked One’s raṅge.”
 
-74That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+74That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

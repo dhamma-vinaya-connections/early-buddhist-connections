@@ -18,24 +18,24 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, an association had prepared a meal together with robe-cloth for the Sangha, intending to offer the robe-cloth after giving the meal.
 
-But the monks from the group of six went to that association and said, “Please give this robe-cloth to us.”
+But the bhikkhus from the group of six went to that association and said, “Please give this robe-cloth to us.”
 
 “Venerables, we can’t do that. We’ve prepared our annual alms-offering together with robe-cloth for the Sangha.”
 
-“The Sangha has many donors and supporters. But since we’re staying here, we look to you for support. If you don’t give to us, who will? So give us the robe-cloth.” Being pressured by the monks from the group of six, that association gave the prepared robe-cloth to them and served the food to the Sangha.
+“The Sangha has many donors and supporters. But since we’re staying here, we look to you for support. If you don’t give to us, who will? So give us the robe-cloth.” Being pressured by the bhikkhus from the group of six, that association gave the prepared robe-cloth to them and served the food to the Sangha.
 
-The monks who knew that a meal together with robe-cloth had been prepared for the Sangha, but who did not know that the robe-cloth had been given to the monks from the group of six, said, “Please offer the robe-cloth.”
+The bhikkhus who knew that a meal together with robe-cloth had been prepared for the Sangha, but who did not know that the robe-cloth had been given to the bhikkhus from the group of six, said, “Please offer the robe-cloth.”
 
-“There isn’t any. The monks from the group of six have diverted to themselves the robe-cloth we had prepared.”
+“There isn’t any. The bhikkhus from the group of six have diverted to themselves the robe-cloth we had prepared.”
 
-The monks of few desires complained and criticized those monks, “How could the monks from the group of six divert to themselves things they knew were intended for the Sangha?”
+The bhikkhus of few desires complained and criticized those bhikkhus, “How could the bhikkhus from the group of six divert to themselves things they knew were intended for the Sangha?”
 
-2After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you did this?”
+2After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -57,7 +57,7 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 
 9If he diverts it to himself, then for the effort there is an act of wrong conduct. When he gets it, it becomes subject to relinquishment.
 
-It should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
+It should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bi-vb-np1#relinquishing|Nissaggiya Pacittiya 1, paragraph 8]] with appropriate substitutions.
 
 
 ‘Venerables, this thing, which I diverted to myself knowing that it was intended for the Sangha, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this back to you.’”

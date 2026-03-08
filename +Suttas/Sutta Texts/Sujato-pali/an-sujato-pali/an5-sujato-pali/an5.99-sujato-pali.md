@@ -20,12 +20,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, towards evening the lion, king of beasts, emerges from his den, yawns, looks all around the four directions, and roars his lion’s roar three times. Then he sets out on the hunt.
+1“bhikkhus, towards evening the lion, king of beasts, emerges from his den, yawns, looks all around the four directions, and roars his lion’s roar three times. Then he sets out on the hunt.
 
 If he strikes an elephant, he does it carefully, not carelessly. If he strikes a buffalo … a cow … a leopard … or any smaller creatures — even a hare or a cat — he does it carefully, not carelessly. Why is that? Thinking: ‘May I not lose my way.’
 
 
-2‘Lion’ is a term for the Realized One, the perfected one, the fully awakened Buddha. When the Realized One teaches Dhamma to an assembly, this is his lion’s roar. When the Realized One teaches the monks … nuns … laymen … laywomen … or ordinary people — even food-carriers and hunters — he teaches them carefully, not carelessly. Why is that? Because the Realized One has respect and reverence for the teaching.”
+2‘Lion’ is a term for the Realized One, the perfected one, the fully awakened Buddha. When the Realized One teaches Dhamma to an assembly, this is his lion’s roar. When the Realized One teaches the bhikkhus … nuns … laymen … laywomen … or ordinary people — even food-carriers and hunters — he teaches them carefully, not carelessly. Why is that? Because the Realized One has respect and reverence for the teaching.”
 
 1"Sīho, bhikkhave, migarājā sāyanhasamayaṁ āsayā nikkhamati; āsayā nikkhamitvā vijambhati; vijambhitvā samantā catuddisaṁ anuviloketi; samantā catuddisaṁ anuviloketvā tikkhattuṁ sīhanādaṁ nadati; tikkhattuṁ sīhanādaṁ naditvā gocarāya pakkamati.
 

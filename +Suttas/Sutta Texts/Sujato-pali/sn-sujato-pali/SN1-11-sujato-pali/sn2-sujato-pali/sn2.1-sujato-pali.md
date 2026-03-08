@@ -22,7 +22,7 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Then, late at night, the glorious god Kassapa, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and said to him: “The Buddha has revealed the mendicant, but not his instructions to a mendicant.”
+Then, late at night, the glorious god Kassapa, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and said to him: “The Buddha has revealed the bhikkhu, but not his instructions to a bhikkhu.”
 
 
 “Well then, Kassapa, clarify this matter yourself.”

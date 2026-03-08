@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were moving about while squatting on their heels in inhabited areas. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were moving about while squatting on their heels in inhabited areas. …
 
 #### Final ruling
 
 2“‘I will not move about while squatting on my heels in inhabited areas,’ this is how you should train.”
 
-3One should not move about while squatting on one’s heels in an inhabited area. If a monk, out of disrespect, moves about while squatting on his heels in an inhabited area, he commits an offense of wrong conduct.
+3One should not move about while squatting on one’s heels in an inhabited area. If a bhikkhu, out of disrespect, moves about while squatting on his heels in an inhabited area, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

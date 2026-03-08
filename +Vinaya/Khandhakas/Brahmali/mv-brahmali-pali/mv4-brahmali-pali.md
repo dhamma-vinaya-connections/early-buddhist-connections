@@ -22,7 +22,7 @@ language: "English - Pali"
 > "VIN-MV4.1" file:bmc2 -queryblock
 > ```
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time in a certain monastery in the Kosalan country a number of monks who were friends had entered rainy-season residence together. They thought: “How can we have a comfortable rains, live in peace and harmony, and get almsfood without trouble?”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time in a certain monastery in the Kosalan country a number of bhikkhus who were friends had entered rainy-season residence together. They thought: “How can we have a comfortable rains, live in peace and harmony, and get almsfood without trouble?”
 
 Then it occurred to them: “Let’s not talk to one another. Whoever returns first from alms round in the village should prepare the seats, and set out a foot stool, a foot scraper, and water for washing the feet. He should wash the bowl for leftovers and put it out, and set out water for drinking and water for washing.
 
@@ -34,29 +34,29 @@ Whoever sees that the pot for drinking water, the pot for washing water, or the 
 2And they did just that.
 
 
-3Now it was the custom for monks who had completed the rainy-season residence to go and see the Buddha. And so, when the three months were over and they had completed the rains residence, they put their dwellings in order, took their bowls and robes, and set out for Sāvatthī. When they eventually arrived, they went to the Jeta Grove, Anāthapiṇḍika’s Monastery. There they approached the Buddha, bowed, and sat down.
+3Now it was the custom for bhikkhus who had completed the rainy-season residence to go and see the Buddha. And so, when the three months were over and they had completed the rains residence, they put their dwellings in order, took their bowls and robes, and set out for Sāvatthī. When they eventually arrived, they went to the Jeta Grove, Anāthapiṇḍika’s Monastery. There they approached the Buddha, bowed, and sat down.
 
-Since it is the custom for Buddhas to greet newly arrived monks, the Buddha said to them: “I hope you’re keeping well, monks, I hope you’re getting by. I hope you had a comfortable and harmonious rains, and got almsfood without trouble.”
+Since it is the custom for Buddhas to greet newly arrived bhikkhus, the Buddha said to them: “I hope you’re keeping well, bhikkhus, I hope you’re getting by. I hope you had a comfortable and harmonious rains, and got almsfood without trouble.”
 
 “We’re keeping well, Venerable Sir, we’re getting by. We had a comfortable and harmonious rains, and got almsfood without trouble.”
 
 
-When Buddhas know what is going on, sometimes they ask and sometimes not. They know the right time to ask and when not to ask. Buddhas ask when it is beneficial, otherwise not, for Buddhas are incapable of doing what is unbeneficial. Buddhas question the monks for two reasons: to give a teaching or to lay down a training rule.
+When Buddhas know what is going on, sometimes they ask and sometimes not. They know the right time to ask and when not to ask. Buddhas ask when it is beneficial, otherwise not, for Buddhas are incapable of doing what is unbeneficial. Buddhas question the bhikkhus for two reasons: to give a teaching or to lay down a training rule.
 
-So the Buddha said to those monks: “In what way, monks, did you have a harmonious and comfortable rains? And how did you get almsfood without trouble?”
+So the Buddha said to those bhikkhus: “In what way, bhikkhus, did you have a harmonious and comfortable rains? And how did you get almsfood without trouble?”
 
 
-4When they had told him, the Buddha addressed the monks:
+4When they had told him, the Buddha addressed the bhikkhus:
 
 
 5“While being uncomfortable, these foolish men claim they were living in comfort. While living together like animals, they claim they were living in comfort. While living together like sheep, they claim they were living in comfort. While living together like enemies, they claim they were living in comfort.
 
-How could these foolish men take a vow of silence, like the monastics of other religions? This will affect people’s confidence …” After rebuking them and giving a teaching, he addressed the monks:
+How could these foolish men take a vow of silence, like the monastics of other religions? This will affect people’s confidence …” After rebuking them and giving a teaching, he addressed the bhikkhus:
 
 
 “You should not take a vow of silence, like the monastics of other religions. If you do, you commit an offense of wrong conduct.
 
-When you have completed the rainy-season residence, you should invite the monks to correct you in regard to three things: what has been seen, heard, and suspected.
+When you have completed the rainy-season residence, you should invite the bhikkhus to correct you in regard to three things: what has been seen, heard, and suspected.
 
 
 This will help you live with one another in the proper way, help you clear yourself of offenses, and help you prioritize the training.
@@ -76,16 +76,16 @@ And you should do the invitation ceremony like this. A competent and capable mon
 ‘I invite the Saṅgha to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends. For the second time I invite the Saṅgha to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends. For the third time I invite the Saṅgha to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends.’”
 
 
-9Soon afterwards the monks from the group of six remained seated while the senior monks were inviting correction, squatting on their heels. The monks of few desires complained and criticized them: “How can the monks from the group of six act like this?” They told the Buddha. …
+9Soon afterwards the bhikkhus from the group of six remained seated while the senior bhikkhus were inviting correction, squatting on their heels. The bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six act like this?” They told the Buddha. …
 
-“Is it true, monks, that the monks from the group of six were acting like this?”
+“Is it true, bhikkhus, that the bhikkhus from the group of six were acting like this?”
 
 “It’s true, Sir.” The Buddha rebuked them …
 
-“How can those foolish men act like this?” This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+“How can those foolish men act like this?” This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
-“You should not remain seated while the senior monks are inviting correction, squatting on their heels. If you do, you commit an offense of wrong conduct.
+“You should not remain seated while the senior bhikkhus are inviting correction, squatting on their heels. If you do, you commit an offense of wrong conduct.
 
 Everyone should squat on their heels during the invitation ceremony.”
 
@@ -104,11 +104,11 @@ Everyone should squat on their heels during the invitation ceremony.”
 > ```
 
 
-11The monks thought: “How many invitation days are there?”
+11The bhikkhus thought: “How many invitation days are there?”
 
 “There are two invitation days: the fourteenth and the fifteenth day of the lunar half-month.”
 
-12The monks thought: “How many kinds of invitation procedure are there?”
+12The bhikkhus thought: “How many kinds of invitation procedure are there?”
 
 
 “There are four kinds:
@@ -118,7 +118,7 @@ Everyone should squat on their heels during the invitation ceremony.”
 - The invitation procedure that is legitimate but has an incomplete assembly.
 - The invitation procedure that is legitimate and has a complete assembly.
 
-The first, second, and third of these should not be done; I haven’t allowed such procedures. The fourth should be done; I have allowed such a procedure. Therefore, monks, you should train like this: ‘We will do invitation procedures that are legitimate and have a complete assembly.’”
+The first, second, and third of these should not be done; I haven’t allowed such procedures. The fourth should be done; I have allowed such a procedure. Therefore, bhikkhus, you should train like this: ‘We will do invitation procedures that are legitimate and have a complete assembly.’”
 
 #### 3. The allowance to pass on the invitation ^3
 
@@ -130,7 +130,7 @@ The first, second, and third of these should not be done; I haven’t allowed su
 > ```
 
 
-13The Buddha addressed the monks: “Gather, monks, for the Saṅgha to do the invitation ceremony.” A monk said to the Buddha: “There’s a sick monk, Venerable Sir. He hasn’t come.”
+13The Buddha addressed the bhikkhus: “Gather, bhikkhus, for the Saṅgha to do the invitation ceremony.” A monk said to the Buddha: “There’s a sick monk, Venerable Sir. He hasn’t come.”
 
 “I allow a sick monk to pass on his invitation.
 
@@ -172,11 +172,11 @@ On the invitation day, if the Saṅgha has business to be done, then anyone pass
 
 19At one time on the invitation day a certain monk was seized by his relatives. They told the Buddha.
 
-“If a monk is seized by his relatives on the invitation day, other monks should say to those relatives, ‘Please release this monk for a short time so that he can take part in the invitation ceremony.’ If they’re able to do this, it’s good. If not, they should say to those relatives, ‘Please step aside for a moment while this monk passes on his invitation.’ If they’re able to do this, it’s good. If not, they should say to those relatives, ‘Please take this monk outside the monastery zone for a short time while the Saṅgha does the invitation ceremony.’ If they’re able to do this, it’s good.
+“If a monk is seized by his relatives on the invitation day, other bhikkhus should say to those relatives, ‘Please release this monk for a short time so that he can take part in the invitation ceremony.’ If they’re able to do this, it’s good. If not, they should say to those relatives, ‘Please step aside for a moment while this monk passes on his invitation.’ If they’re able to do this, it’s good. If not, they should say to those relatives, ‘Please take this monk outside the monastery zone for a short time while the Saṅgha does the invitation ceremony.’ If they’re able to do this, it’s good.
 
 If not, you should not do the invitation ceremony with an incomplete Saṅgha. If you do, you commit an offense of wrong conduct.
 
-20If on the invitation day a monk is seized by kings, by bandits, by scoundrels, or by enemies of the monks, other monks should say to those enemies, ‘Please release this monk for a short time, so that he can take part in the invitation ceremony.’ If they’re able to do this, it’s good. If not, they should say to those enemies, ‘Please step aside for a moment while this monk passes on his invitation.’ If they’re able to do this, it’s good. If not, they should say to those enemies, ‘Please take this monk outside the monastery zone for a short time while the Saṅgha does the invitation ceremony.’ If they’re able to do this, it’s good.
+20If on the invitation day a monk is seized by kings, by bandits, by scoundrels, or by enemies of the bhikkhus, other bhikkhus should say to those enemies, ‘Please release this monk for a short time, so that he can take part in the invitation ceremony.’ If they’re able to do this, it’s good. If not, they should say to those enemies, ‘Please step aside for a moment while this monk passes on his invitation.’ If they’re able to do this, it’s good. If not, they should say to those enemies, ‘Please take this monk outside the monastery zone for a short time while the Saṅgha does the invitation ceremony.’ If they’re able to do this, it’s good.
 
 If not, you should not do the invitation ceremony with an incomplete Saṅgha. If you do, you commit an offense of wrong conduct.”
 
@@ -190,47 +190,47 @@ If not, you should not do the invitation ceremony with an incomplete Saṅgha. I
 > ```
 
 
-21At one time on the invitation day, there were five monks staying in a certain monastery. They thought: “The Buddha has laid down a rule that the invitation ceremony should be done with a saṅgha. Now there’s five of us. So how should we do the invitation ceremony?” They told the Buddha.
+21At one time on the invitation day, there were five bhikkhus staying in a certain monastery. They thought: “The Buddha has laid down a rule that the invitation ceremony should be done with a saṅgha. Now there’s five of us. So how should we do the invitation ceremony?” They told the Buddha.
 
 
 “When there are five of you, you should do the invitation ceremony in the Saṅgha.”
 
-22At one time on the invitation day, there were four monks staying in a certain monastery. They thought: “The Buddha has instructed that the invitation ceremony should be done in the Saṅgha when there are five monks. But there’s only four of us. So how should we do the invitation ceremony?”
+22At one time on the invitation day, there were four bhikkhus staying in a certain monastery. They thought: “The Buddha has instructed that the invitation ceremony should be done in the Saṅgha when there are five bhikkhus. But there’s only four of us. So how should we do the invitation ceremony?”
 
 “When there are four of you, you should do the invitation ceremony with one another.
 
-And you should do it like this. A competent and capable monk should inform those monks:
+And you should do it like this. A competent and capable monk should inform those bhikkhus:
 
 
 23‘Please, Venerables, I ask you to listen. Today is the invitation ceremony. If it seems appropriate to you, we should do the invitation ceremony with one another.’
 
-24The most senior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other monks:
+24The most senior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other bhikkhus:
 
 ‘I invite you to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends. For the second time … For the third time, I invite you to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends.’
 
 
-25Each junior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other monks:
+25Each junior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other bhikkhus:
 
 ‘I invite you to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends. For the second time … For the third time I invite you to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends.’”
 
 
-26At one time on the invitation day, there were three monks staying in a certain monastery. They thought: “The Buddha has instructed that the invitation ceremony should be done in the Saṅgha when there are five monks and with one another when there are four. But there’s only three of us. So how should we do the invitation ceremony?”
+26At one time on the invitation day, there were three bhikkhus staying in a certain monastery. They thought: “The Buddha has instructed that the invitation ceremony should be done in the Saṅgha when there are five bhikkhus and with one another when there are four. But there’s only three of us. So how should we do the invitation ceremony?”
 
 “When there are three of you, you should do the invitation ceremony with one another.
 
-And you should do it like this. A competent and capable monk should inform those monks:
+And you should do it like this. A competent and capable monk should inform those bhikkhus:
 
 27‘Please, Venerables, I ask you to listen. Today is the invitation ceremony. If it seems appropriate to you, we should do the invitation ceremony with one another.’
 
-28The most senior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other monks:
+28The most senior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other bhikkhus:
 
 ‘I invite you to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends. For the second time … For the third time, I invite you correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends.’
 
-29Each junior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other monks:
+29Each junior monk should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say to the other bhikkhus:
 
 ‘I invite you to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends. For the second time … For the third time I invite you to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerables, out of compassion. If I see a fault, I will make amends.’”
 
-30At one time on the invitation day, there were two monks staying in a certain monastery. They thought: “The Buddha has instructed that the invitation ceremony should be done in the Saṅgha when there are five monks and with one another when there are three or four. But there’s only two of us. So how should we do the invitation ceremony?”
+30At one time on the invitation day, there were two bhikkhus staying in a certain monastery. They thought: “The Buddha has instructed that the invitation ceremony should be done in the Saṅgha when there are five bhikkhus and with one another when there are three or four. But there’s only two of us. So how should we do the invitation ceremony?”
 
 “When there are two of you, you should do the invitation ceremony with each other.
 
@@ -242,22 +242,22 @@ And you should do it like this. The senior monk should put his upper robe over o
 
 ‘I invite you to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerable, out of compassion. If I see a fault, I will make amends. For the second time … For the third time I invite you to correct me concerning what you have seen, heard, or suspect. Please correct me, Venerable, out of compassion. If I see a fault, I will make amends.’”
 
-At one time on the invitation day, a monk was staying in a certain monastery by himself. He thought: “The Buddha has instructed that the invitation ceremony should be done in the Saṅgha when there are five monks and with one another when there are two, three, or four. But I’m here by myself. So how should I do the invitation ceremony?”
+At one time on the invitation day, a monk was staying in a certain monastery by himself. He thought: “The Buddha has instructed that the invitation ceremony should be done in the Saṅgha when there are five bhikkhus and with one another when there are two, three, or four. But I’m here by myself. So how should I do the invitation ceremony?”
 
-33“On the invitation day, a monk may be staying by himself in a certain monastery. He should sweep the place where the monks normally go: whether the assembly hall, under a roof-cover, or at the foot of a tree. He should set out water for drinking and water for washing. He should prepare a seat, light a lamp, and sit down.
+33“On the invitation day, a monk may be staying by himself in a certain monastery. He should sweep the place where the bhikkhus normally go: whether the assembly hall, under a roof-cover, or at the foot of a tree. He should set out water for drinking and water for washing. He should prepare a seat, light a lamp, and sit down.
 
-If other monks arrive, he should do the invitation ceremony with them. If not, he should determine: ‘Today is my invitation ceremony.’
+If other bhikkhus arrive, he should do the invitation ceremony with them. If not, he should determine: ‘Today is my invitation ceremony.’
 
 If he doesn’t make a determination, he commits an offense of wrong conduct.
 
 
-34Wherever five monks are staying together, four shouldn’t do the invitation ceremony in the Saṅgha, while the invitation of the fifth is brought. If you do the invitation in the Saṅgha, you commit an offense of wrong conduct.
+34Wherever five bhikkhus are staying together, four shouldn’t do the invitation ceremony in the Saṅgha, while the invitation of the fifth is brought. If you do the invitation in the Saṅgha, you commit an offense of wrong conduct.
 
-Wherever four monks are staying together, three shouldn’t do the invitation ceremony with one another, while the invitation of the fourth is brought. If you do the invitation in this way, you commit an offense of wrong conduct.
+Wherever four bhikkhus are staying together, three shouldn’t do the invitation ceremony with one another, while the invitation of the fourth is brought. If you do the invitation in this way, you commit an offense of wrong conduct.
 
-Wherever three monks are staying together, two shouldn’t do the invitation ceremony with each other, while the invitation of the third is brought. If you do the invitation in this way, you commit an offense of wrong conduct.
+Wherever three bhikkhus are staying together, two shouldn’t do the invitation ceremony with each other, while the invitation of the third is brought. If you do the invitation in this way, you commit an offense of wrong conduct.
 
-Wherever two monks are staying together, one shouldn’t make a determination, while the invitation of the other is brought.
+Wherever two bhikkhus are staying together, one shouldn’t make a determination, while the invitation of the other is brought.
 
 If you do make a determination, you commit an offense of wrong conduct.”
 
@@ -303,9 +303,9 @@ If you do make a determination, you commit an offense of wrong conduct.”
 > ```
 
 
-41At one time on the invitation day, the whole saṅgha in a certain monastery had committed the same offense. The monks thought: “The Buddha has laid down a rule that one shouldn’t confess or receive the confession of shared offenses. Yet here the whole saṅgha has committed the same offense. So what should we do?”
+41At one time on the invitation day, the whole saṅgha in a certain monastery had committed the same offense. The bhikkhus thought: “The Buddha has laid down a rule that one shouldn’t confess or receive the confession of shared offenses. Yet here the whole saṅgha has committed the same offense. So what should we do?”
 
-42“On the invitation day, the whole saṅgha in a certain monastery may have committed the same offense. Those monks should straightaway send a monk to a neighboring monastery: ‘Go and make amends for this offense. When you return, we’ll make amends for it with you.’
+42“On the invitation day, the whole saṅgha in a certain monastery may have committed the same offense. Those bhikkhus should straightaway send a monk to a neighboring monastery: ‘Go and make amends for this offense. When you return, we’ll make amends for it with you.’
 
 If he’s able to do this, it’s good. If he’s not, then a competent and capable monk should inform the Saṅgha:
 
@@ -329,68 +329,68 @@ If he’s able to do this, it’s good. If he’s not, then a competent and capa
 > ```
 
 
-47At one time on the invitation day, five or more resident monks had gathered in a monastery. They did not know that there were other resident monks who had not arrived. Perceiving that they were acting according to the Teaching and the Monastic Law, perceiving that the assembly was complete although it was not, they did the invitation ceremony. While they were doing it, a greater number of resident monks arrived. They told the Buddha.
+47At one time on the invitation day, five or more resident bhikkhus had gathered in a monastery. They did not know that there were other resident bhikkhus who had not arrived. Perceiving that they were acting according to the Teaching and the Monastic Law, perceiving that the assembly was complete although it was not, they did the invitation ceremony. While they were doing it, a greater number of resident bhikkhus arrived. They told the Buddha.
 
-48“On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. While they’re doing it, a greater number of resident monks arrive.
+48“On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. While they’re doing it, a greater number of resident bhikkhus arrive.
 
-In such a case, those monks should do the invitation ceremony once more. There’s no offense for those who already have invited.
+In such a case, those bhikkhus should do the invitation ceremony once more. There’s no offense for those who already have invited.
 
 
-49On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. While they’re doing it, an equal number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, but the others should invite. There’s no offense for those who already have invited.
-
-50On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. While they’re doing it, a smaller number of resident monks.
+49On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. While they’re doing it, an equal number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, but the others should invite. There’s no offense for those who already have invited.
 
-51On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, a greater number of resident monks arrive.
+50On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. While they’re doing it, a smaller number of resident bhikkhus.
 
-In such a case those monks should do the invitation ceremony once more. There’s no offense for those who already have invited.
+In such a case the invitations of those who already have invited are valid, but the others should invite. There’s no offense for those who already have invited.
+
+51On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, a greater number of resident bhikkhus arrive.
+
+In such a case those bhikkhus should do the invitation ceremony once more. There’s no offense for those who already have invited.
 
 
-52On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, an equal number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.
-
-53On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, a smaller number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.
-
-54On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and none of the gathering has left, a greater number of resident monks arrive.
-
-In such a case those monks should do the invitation ceremony once more. There’s no offense for those who already have invited.
-
-55On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and none of the gathering has left, an equal number of resident monks arrive.
+52On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, an equal number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.
 
-56On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and none of the gathering has left, a smaller number of resident monks arrive.
+53On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, a smaller number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.
 
-57On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and only some members of the gathering have left, a greater number of resident monks arrive.
+54On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and none of the gathering has left, a greater number of resident bhikkhus arrive.
 
-In such a case those monks should do the invitation ceremony once more. There’s no offense for those who already have invited.
+In such a case those bhikkhus should do the invitation ceremony once more. There’s no offense for those who already have invited.
 
-58On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and only some members of the gathering have left, an equal number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.
-
-59On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and only some members of the gathering have left, a smaller number of resident monks arrive.
+55On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and none of the gathering has left, an equal number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.
 
-60On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and the entire gathering has left, a greater number of resident monks arrive.
+56On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and none of the gathering has left, a smaller number of resident bhikkhus arrive.
 
-In such a case those monks should do the invitation ceremony once more. There’s no offense for those who already have invited.
+In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.
 
-61On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and the entire gathering has left, an equal number of resident monks arrive.
+57On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and only some members of the gathering have left, a greater number of resident bhikkhus arrive.
+
+In such a case those bhikkhus should do the invitation ceremony once more. There’s no offense for those who already have invited.
+
+58On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and only some members of the gathering have left, an equal number of resident bhikkhus arrive.
+
+In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.
+
+59On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and only some members of the gathering have left, a smaller number of resident bhikkhus arrive.
+
+In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.
+
+60On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and the entire gathering has left, a greater number of resident bhikkhus arrive.
+
+In such a case those bhikkhus should do the invitation ceremony once more. There’s no offense for those who already have invited.
+
+61On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and the entire gathering has left, an equal number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.
 
 
-62On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and the entire gathering has left, a smaller number of resident monks arrive.
+62On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, perceiving that the assembly is complete although it’s not, they do the invitation ceremony. When they’ve just finished, and the entire gathering has left, a smaller number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s no offense for those who already have invited.”
 
@@ -406,21 +406,21 @@ In such a case the invitations of those who already have invited are valid, and 
 > ```
 
 
-64“On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the invitation ceremony. While they’re doing it, a greater number of resident monks arrive.
+64“On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the invitation ceremony. While they’re doing it, a greater number of resident bhikkhus arrive.
 
-In such a case those monks should do the invitation ceremony once more. There’s an offense of wrong conduct for those who already have invited.
+In such a case those bhikkhus should do the invitation ceremony once more. There’s an offense of wrong conduct for those who already have invited.
 
-65On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the invitation ceremony. While they’re doing it, an equal number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, but the others should invite. There’s an offense of wrong conduct for those who already have invited.
-
-
-66On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the invitation ceremony. While they’re doing it, a smaller number of resident monks arrive.
+65On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the invitation ceremony. While they’re doing it, an equal number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, but the others should invite. There’s an offense of wrong conduct for those who already have invited.
 
 
-67On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the invitation ceremony. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident monks arrive … an equal number of resident monks arrive … a smaller number of resident monks arrive.
+66On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the invitation ceremony. While they’re doing it, a smaller number of resident bhikkhus arrive.
+
+In such a case the invitations of those who already have invited are valid, but the others should invite. There’s an offense of wrong conduct for those who already have invited.
+
+
+67On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. Perceiving that they’re acting according to the Teaching and the Monastic Law, yet correctly perceiving the assembly as incomplete, they do the invitation ceremony. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident bhikkhus arrive … an equal number of resident bhikkhus arrive … a smaller number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s an offense of wrong conduct for those who already have invited.”
 
@@ -436,22 +436,22 @@ In such a case the invitations of those who already have invited are valid, and 
 > ```
 
 
-69“On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘Is it allowable for us to do the invitation ceremony, or isn’t it?’ Being unsure, they do the invitation ceremony. While they’re doing it, a greater number of resident monks arrive.
+69“On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘Is it allowable for us to do the invitation ceremony, or isn’t it?’ Being unsure, they do the invitation ceremony. While they’re doing it, a greater number of resident bhikkhus arrive.
 
-In such a case those monks should do the invitation ceremony once more. There’s an offense of wrong conduct for those who already have invited.
-
-
-70On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘Is it allowable for us to do the invitation ceremony, or isn’t it?’ Being unsure, they do the invitation ceremony. While they’re doing it, an equal number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, but the others should invite. There’s an offense of wrong conduct for those who already have invited.
+In such a case those bhikkhus should do the invitation ceremony once more. There’s an offense of wrong conduct for those who already have invited.
 
 
-71On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘Is it allowable for us to do the invitation ceremony, or isn’t it?’ Being unsure, they do the invitation ceremony. While they’re doing it, a smaller number of resident monks arrive.
+70On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘Is it allowable for us to do the invitation ceremony, or isn’t it?’ Being unsure, they do the invitation ceremony. While they’re doing it, an equal number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, but the others should invite. There’s an offense of wrong conduct for those who already have invited.
 
 
-72On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘Is it allowable for us to do the invitation ceremony, or isn’t it?’ Being unsure, they do the invitation ceremony. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident monks arrive … an equal number of resident monks arrive … a smaller number of resident monks arrive.
+71On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘Is it allowable for us to do the invitation ceremony, or isn’t it?’ Being unsure, they do the invitation ceremony. While they’re doing it, a smaller number of resident bhikkhus arrive.
+
+In such a case the invitations of those who already have invited are valid, but the others should invite. There’s an offense of wrong conduct for those who already have invited.
+
+
+72On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘Is it allowable for us to do the invitation ceremony, or isn’t it?’ Being unsure, they do the invitation ceremony. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident bhikkhus arrive … an equal number of resident bhikkhus arrive … a smaller number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s an offense of wrong conduct for those who already have invited.”
 
@@ -467,21 +467,21 @@ In such a case the invitations of those who already have invited are valid, and 
 > ```
 
 
-74“On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘It’s allowable for us to do the invitation ceremony. It’s not unallowable.’ Being anxious, they do the invitation ceremony. While they’re doing it, a greater number of resident monks arrive.
+74“On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘It’s allowable for us to do the invitation ceremony. It’s not unallowable.’ Being anxious, they do the invitation ceremony. While they’re doing it, a greater number of resident bhikkhus arrive.
 
-In such a case those monks should do the invitation ceremony once more. There’s an offense of wrong conduct for those who already have invited.
+In such a case those bhikkhus should do the invitation ceremony once more. There’s an offense of wrong conduct for those who already have invited.
 
-75On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘It’s allowable for us to do the invitation ceremony. It’s not unallowable.’ Being anxious, they do the invitation ceremony. While they’re doing it, an equal number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, but the others should invite. There’s an offense of wrong conduct for those who already have invited.
-
-
-76On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘It’s allowable for us to do the invitation ceremony. It’s not unallowable.’ Being anxious, they do the invitation ceremony. While they’re doing it, a smaller number of resident monks arrive.
+75On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘It’s allowable for us to do the invitation ceremony. It’s not unallowable.’ Being anxious, they do the invitation ceremony. While they’re doing it, an equal number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, but the others should invite. There’s an offense of wrong conduct for those who already have invited.
 
 
-77On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘It’s allowable for us to do the invitation ceremony. It’s not unallowable.’ Being anxious, they do the invitation ceremony. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident monks arrive … an equal number of resident monks arrive … a smaller number of resident monks arrive.
+76On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘It’s allowable for us to do the invitation ceremony. It’s not unallowable.’ Being anxious, they do the invitation ceremony. While they’re doing it, a smaller number of resident bhikkhus arrive.
+
+In such a case the invitations of those who already have invited are valid, but the others should invite. There’s an offense of wrong conduct for those who already have invited.
+
+
+77On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘It’s allowable for us to do the invitation ceremony. It’s not unallowable.’ Being anxious, they do the invitation ceremony. When they’ve just finished … When they’ve just finished, and none of the gathering has left … When they’ve just finished, and only some members of the gathering have left … When they’ve just finished, and the entire gathering has left, a greater number of resident bhikkhus arrive … an equal number of resident bhikkhus arrive … a smaller number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. There’s an offense of wrong conduct for those who already have invited.”
 
@@ -497,66 +497,66 @@ In such a case the invitations of those who already have invited are valid, and 
 > ```
 
 
-79“On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. While they’re doing it, a greater number of resident monks arrive.
+79“On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. While they’re doing it, a greater number of resident bhikkhus arrive.
 
-In such a case those monks should do the invitation ceremony once more. And there’s a serious offense for those who already have invited.
+In such a case those bhikkhus should do the invitation ceremony once more. And there’s a serious offense for those who already have invited.
 
-80On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. While they’re doing it, an equal number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, but the others should invite. And there’s a serious offense for those who already have invited.
-
-81On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. While they’re doing it, a smaller number of resident monks arrive.
+80On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. While they’re doing it, an equal number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, but the others should invite. And there’s a serious offense for those who already have invited.
 
-82On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, a greater number of resident monks arrive.
+81On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. While they’re doing it, a smaller number of resident bhikkhus arrive.
 
-In such a case those monks should do the invitation ceremony once more. And there’s a serious offense for those who already have invited.
+In such a case the invitations of those who already have invited are valid, but the others should invite. And there’s a serious offense for those who already have invited.
+
+82On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, a greater number of resident bhikkhus arrive.
+
+In such a case those bhikkhus should do the invitation ceremony once more. And there’s a serious offense for those who already have invited.
 
 
-83On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, an equal number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
-
-84On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, a smaller number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
-
-85On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and none of the gathering has left, a greater number of resident monks arrive.
-
-In such a case those monks should do the invitation ceremony once more. And there’s a serious offense for those who already have invited.
-
-86On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and none of the gathering has left, an equal number of resident monks arrive.
+83On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, an equal number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
 
-
-87On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and none of the gathering has left, a smaller number of resident monks arrive.
-
-In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
-
-88On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and only some members of the gathering have left, a greater number of resident monks arrive.
-
-In such a case those monks should do the invitation ceremony once more. And there’s a serious offense for those who already have invited.
-
-89On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and only some members of the gathering have left, an equal number of resident monks arrive.
+84On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, a smaller number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
 
-90On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and only some members of the gathering have left, a smaller number of resident monks arrive.
+85On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and none of the gathering has left, a greater number of resident bhikkhus arrive.
 
-In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
+In such a case those bhikkhus should do the invitation ceremony once more. And there’s a serious offense for those who already have invited.
 
-91On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and the entire gathering has left, a greater number of resident monks arrive.
-
-In such a case those monks should do the invitation ceremony once more. And there’s a serious offense for those who already have invited.
-
-92On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and the entire gathering has left, an equal number of resident monks arrive.
+86On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and none of the gathering has left, an equal number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
 
 
-93On the invitation day, five or more resident monks may have gathered in a monastery. They know there are other resident monks who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and the entire gathering has left, a smaller number of resident monks arrive.
+87On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and none of the gathering has left, a smaller number of resident bhikkhus arrive.
+
+In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
+
+88On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and only some members of the gathering have left, a greater number of resident bhikkhus arrive.
+
+In such a case those bhikkhus should do the invitation ceremony once more. And there’s a serious offense for those who already have invited.
+
+89On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and only some members of the gathering have left, an equal number of resident bhikkhus arrive.
+
+In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
+
+90On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and only some members of the gathering have left, a smaller number of resident bhikkhus arrive.
+
+In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
+
+91On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and the entire gathering has left, a greater number of resident bhikkhus arrive.
+
+In such a case those bhikkhus should do the invitation ceremony once more. And there’s a serious offense for those who already have invited.
+
+92On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and the entire gathering has left, an equal number of resident bhikkhus arrive.
+
+In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.
+
+
+93On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They know there are other resident bhikkhus who haven’t arrived. They think, ‘May they get lost! May they disappear! We are better off without them.’ They then do the invitation ceremony, aiming at schism. When they’ve just finished, and the entire gathering has left, a smaller number of resident bhikkhus arrive.
 
 In such a case the invitations of those who already have invited are valid, and the late arrivals should invite in the presence of the others. And there’s a serious offense for those who already have invited.”
 
@@ -573,9 +573,9 @@ The group of seventy-five is finished.
 > ```
 
 
-95“On the invitation day, five or more resident monks may have gathered in a monastery. They don’t know that other resident monks are entering the monastery zone. … They don’t know that other resident monks have entered the monastery zone. … They don’t see that other resident monks are entering the monastery zone. … They don’t see that other resident monks have entered the monastery zone. … They don’t hear that other resident monks are entering the monastery zone. … They don’t hear that other resident monks have entered the monastery zone. …”
+95“On the invitation day, five or more resident bhikkhus may have gathered in a monastery. They don’t know that other resident bhikkhus are entering the monastery zone. … They don’t know that other resident bhikkhus have entered the monastery zone. … They don’t see that other resident bhikkhus are entering the monastery zone. … They don’t see that other resident bhikkhus have entered the monastery zone. … They don’t hear that other resident bhikkhus are entering the monastery zone. … They don’t hear that other resident bhikkhus have entered the monastery zone. …”
 
-96As there are one hundred and seventy-five sets of three for resident monks with resident monks, so there is for newly arrived monks with resident monks, resident monks with newly arrived monks, newly arrived monks with newly arrived monks. Thus by way of succession, there are seven hundred sets of three.
+96As there are one hundred and seventy-five sets of three for resident bhikkhus with resident bhikkhus, so there is for newly arrived bhikkhus with resident bhikkhus, resident bhikkhus with newly arrived bhikkhus, newly arrived bhikkhus with newly arrived bhikkhus. Thus by way of succession, there are seven hundred sets of three.
 
 #### 15. Different days ^15
 
@@ -587,38 +587,38 @@ The group of seventy-five is finished.
 > ```
 
 
-97“It may be, monks, that for the resident monks it’s the fourteenth day of the lunar half-month, but for the newly arrived monks it’s the fifteenth. Then—
+97“It may be, bhikkhus, that for the resident bhikkhus it’s the fourteenth day of the lunar half-month, but for the newly arrived bhikkhus it’s the fifteenth. Then—
 
-If the number of resident monks is greater, the newly arrived monks should fall in line with the resident monks.
+If the number of resident bhikkhus is greater, the newly arrived bhikkhus should fall in line with the resident bhikkhus.
 
-If the number is the same, the newly arrived monks should fall in line with the resident monks.
+If the number is the same, the newly arrived bhikkhus should fall in line with the resident bhikkhus.
 
-If the number of newly arrived monks is greater, the resident monks should fall in line with the newly arrived monks.
+If the number of newly arrived bhikkhus is greater, the resident bhikkhus should fall in line with the newly arrived bhikkhus.
 
-98It may be that for the resident monks it’s the fifteenth day of the lunar half-month, but for the newly arrived monks it’s the fourteenth. Then—
+98It may be that for the resident bhikkhus it’s the fifteenth day of the lunar half-month, but for the newly arrived bhikkhus it’s the fourteenth. Then—
 
-If the number of resident monks is greater, the newly arrived monks should fall in line with the resident monks.
+If the number of resident bhikkhus is greater, the newly arrived bhikkhus should fall in line with the resident bhikkhus.
 
-If the number is the same, the newly arrived monks should fall in line with the resident monks.
+If the number is the same, the newly arrived bhikkhus should fall in line with the resident bhikkhus.
 
-If the number of newly arrived monks is greater, the resident monks should fall in line with the newly arrived monks.
+If the number of newly arrived bhikkhus is greater, the resident bhikkhus should fall in line with the newly arrived bhikkhus.
 
-99It may be that for the resident monks it’s the day after the invitation day, but for the newly arrived monks it’s the fifteenth day of the lunar half-month. Then—
+99It may be that for the resident bhikkhus it’s the day after the invitation day, but for the newly arrived bhikkhus it’s the fifteenth day of the lunar half-month. Then—
 
-If the number of resident monks is greater, the resident monks may, if they’re willing, do the invitation ceremony with the newly arrived monks. Otherwise the newly arrived monks should go outside the monastery zone and do the invitation ceremony there.
+If the number of resident bhikkhus is greater, the resident bhikkhus may, if they’re willing, do the invitation ceremony with the newly arrived bhikkhus. Otherwise the newly arrived bhikkhus should go outside the monastery zone and do the invitation ceremony there.
 
-If the number is the same, the resident monks may, if they’re willing, do the invitation ceremony with the newly arrived monks. Otherwise the newly arrived monks should go outside the monastery zone and do the invitation ceremony there.
+If the number is the same, the resident bhikkhus may, if they’re willing, do the invitation ceremony with the newly arrived bhikkhus. Otherwise the newly arrived bhikkhus should go outside the monastery zone and do the invitation ceremony there.
 
-If the number of newly arrived monks is greater, the resident monks should do the invitation ceremony with the newly arrived monks, or they should go outside the monastery zone while the newly arrived monks do the invitation ceremony.
+If the number of newly arrived bhikkhus is greater, the resident bhikkhus should do the invitation ceremony with the newly arrived bhikkhus, or they should go outside the monastery zone while the newly arrived bhikkhus do the invitation ceremony.
 
 
-100It may be that for the resident monks it’s the fifteenth day of the lunar half-month, but for the newly arrived monks it’s the day after the invitation day. Then—
+100It may be that for the resident bhikkhus it’s the fifteenth day of the lunar half-month, but for the newly arrived bhikkhus it’s the day after the invitation day. Then—
 
-If the number of resident monks is greater, the newly arrived monks should do the invitation ceremony with the resident monks, or they should go outside the monastery zone while the resident monks do the invitation ceremony.
+If the number of resident bhikkhus is greater, the newly arrived bhikkhus should do the invitation ceremony with the resident bhikkhus, or they should go outside the monastery zone while the resident bhikkhus do the invitation ceremony.
 
-If the number is the same, the newly arrived monks should do the invitation ceremony with the resident monks, or they should go outside the monastery zone while the resident monks do the invitation ceremony.
+If the number is the same, the newly arrived bhikkhus should do the invitation ceremony with the resident bhikkhus, or they should go outside the monastery zone while the resident bhikkhus do the invitation ceremony.
 
-If the number of newly arrived monks is greater, they may, if they’re willing, do the invitation ceremony with the resident monks. Otherwise the resident monks should go outside the monastery zone and do the invitation ceremony there.”
+If the number of newly arrived bhikkhus is greater, they may, if they’re willing, do the invitation ceremony with the resident bhikkhus. Otherwise the resident bhikkhus should go outside the monastery zone and do the invitation ceremony there.”
 
 #### 16. The seeing of characteristics, etc. ^16
 
@@ -630,7 +630,7 @@ If the number of newly arrived monks is greater, they may, if they’re willing,
 > ```
 
 
-101“It may happen that newly arrived monks see signs and indications of resident monks: beds and benches that are made up, water for drinking and water for washing that are ready for use, yards that are well swept. As a consequence, they’re unsure whether or not there are resident monks there. Then—
+101“It may happen that newly arrived bhikkhus see signs and indications of resident bhikkhus: beds and benches that are made up, water for drinking and water for washing that are ready for use, yards that are well swept. As a consequence, they’re unsure whether or not there are resident bhikkhus there. Then—
 
 
 If they do the invitation ceremony without investigating, there’s an offense of wrong conduct.
@@ -644,7 +644,7 @@ If they investigate, and they see someone, but then do the invitation ceremony s
 If they investigate, and they see someone, but think, ‘May they get lost! May they disappear! We are better off without them,’ and then do the invitation ceremony aiming at schism, there’s a serious offense.
 
 
-102It may happen that newly arrived monks hear signs and indications of resident monks: the sound of the feet of someone doing walking meditation, the sound of recitation, the sound of coughing, the sound of sneezing. As a consequence, they’re unsure whether or not there are resident monks there. Then—
+102It may happen that newly arrived bhikkhus hear signs and indications of resident bhikkhus: the sound of the feet of someone doing walking meditation, the sound of recitation, the sound of coughing, the sound of sneezing. As a consequence, they’re unsure whether or not there are resident bhikkhus there. Then—
 
 
 If they do the invitation ceremony without investigating, there’s an offense of wrong conduct.
@@ -658,7 +658,7 @@ If they investigate, and they see someone, but then do the invitation ceremony s
 
 If they investigate, and they see someone, but think, ‘May they get lost! May they disappear! We are better off without them,’ and then do the invitation ceremony aiming at schism, there’s a serious offense.
 
-103It may happen that resident monks see signs and indications of newly arrived monks: an unknown almsbowl, an unknown robe, an unknown sitting mat, water poured on the ground from the washing of feet. As a consequence, they’re unsure whether or not monks have arrived. Then—
+103It may happen that resident bhikkhus see signs and indications of newly arrived bhikkhus: an unknown almsbowl, an unknown robe, an unknown sitting mat, water poured on the ground from the washing of feet. As a consequence, they’re unsure whether or not bhikkhus have arrived. Then—
 
 
 If they do the invitation ceremony without investigating, there’s an offense of wrong conduct.
@@ -672,7 +672,7 @@ If they investigate, and they see someone, but then do the invitation ceremony s
 If they investigate, and they see someone, but think, ‘May they get lost! May they disappear! We are better off without them,’ and then do the invitation ceremony aiming at schism, there’s a serious offense.
 
 
-104It may happen that resident monks hear signs and indications of newly arrived monks: the sound of the feet of someone arriving, the sound of sandals being knocked together, the sound of coughing, the sound of sneezing. As a consequence, they’re unsure whether or not monks have arrived. Then—
+104It may happen that resident bhikkhus hear signs and indications of newly arrived bhikkhus: the sound of the feet of someone arriving, the sound of sandals being knocked together, the sound of coughing, the sound of sneezing. As a consequence, they’re unsure whether or not bhikkhus have arrived. Then—
 
 
 If they do the invitation ceremony without investigating, there’s an offense of wrong conduct.
@@ -695,42 +695,42 @@ If they investigate, and they see someone, but think, ‘May they get lost! May 
 > ```
 
 
-105“It may happen that newly arrived monks see resident monks who belong to a different Buddhist sect, but they have the view that they belong to the same one. Then—
+105“It may happen that newly arrived bhikkhus see resident bhikkhus who belong to a different Buddhist sect, but they have the view that they belong to the same one. Then—
 
-If they don’t ask the resident monks about it, and then do the invitation ceremony together, there’s no offense.
+If they don’t ask the resident bhikkhus about it, and then do the invitation ceremony together, there’s no offense.
 
-If they do ask the resident monks about it, but don’t reach a clear conclusion, and then do the invitation ceremony together, there’s an offense of wrong conduct.
-
-
-If they do ask the resident monks about it, but don’t reach a clear conclusion, and then do the invitation ceremony separately, there’s no offense.
+If they do ask the resident bhikkhus about it, but don’t reach a clear conclusion, and then do the invitation ceremony together, there’s an offense of wrong conduct.
 
 
-106It may happen that newly arrived monks see resident monks who belong to the same Buddhist sect, but they have the view that they belong to a different one. Then—
-
-If they don’t ask the resident monks about it, and then do the invitation ceremony together, there’s an offense of wrong conduct.
-
-If they do ask the resident monks about it, and they change their view, but then do the invitation ceremony separately, there’s an offense of wrong conduct.
-
-If they do ask the resident monks about it, and they change their view, and then do the invitation ceremony together, there’s no offense.
+If they do ask the resident bhikkhus about it, but don’t reach a clear conclusion, and then do the invitation ceremony separately, there’s no offense.
 
 
-107It may happen that resident monks see newly arrived monks who belong to a different Buddhist sect, but they have the view that they belong to the same one. Then—
+106It may happen that newly arrived bhikkhus see resident bhikkhus who belong to the same Buddhist sect, but they have the view that they belong to a different one. Then—
 
-If they don’t ask the newly arrived monks about it, and then do the invitation ceremony together, there’s no offense.
+If they don’t ask the resident bhikkhus about it, and then do the invitation ceremony together, there’s an offense of wrong conduct.
 
-If they do ask the newly arrived monks about it, but don’t reach a clear conclusion, and then do the invitation ceremony together, there’s an offense of wrong conduct.
+If they do ask the resident bhikkhus about it, and they change their view, but then do the invitation ceremony separately, there’s an offense of wrong conduct.
+
+If they do ask the resident bhikkhus about it, and they change their view, and then do the invitation ceremony together, there’s no offense.
 
 
-If they do ask the newly arrived monks about it, but don’t reach a clear conclusion, and then do the invitation ceremony separately, there’s no offense.
+107It may happen that resident bhikkhus see newly arrived bhikkhus who belong to a different Buddhist sect, but they have the view that they belong to the same one. Then—
+
+If they don’t ask the newly arrived bhikkhus about it, and then do the invitation ceremony together, there’s no offense.
+
+If they do ask the newly arrived bhikkhus about it, but don’t reach a clear conclusion, and then do the invitation ceremony together, there’s an offense of wrong conduct.
 
 
-108It may happen that resident monks see newly arrived monks who belong to the same Buddhist sect, but they have the view that they belong to a different one. Then—
+If they do ask the newly arrived bhikkhus about it, but don’t reach a clear conclusion, and then do the invitation ceremony separately, there’s no offense.
 
-If they don’t ask the newly arrived monks about it, and then do the invitation ceremony together, there’s an offense of wrong conduct.
 
-If they do ask the newly arrived monks about it, and they change their view, but then do the invitation ceremony separately, there’s an offense of wrong conduct.
+108It may happen that resident bhikkhus see newly arrived bhikkhus who belong to the same Buddhist sect, but they have the view that they belong to a different one. Then—
 
-If they do ask the newly arrived monks about it, and they change their view, and then do the invitation ceremony together, there’s no offense.”
+If they don’t ask the newly arrived bhikkhus about it, and then do the invitation ceremony together, there’s an offense of wrong conduct.
+
+If they do ask the newly arrived bhikkhus about it, and they change their view, but then do the invitation ceremony separately, there’s an offense of wrong conduct.
+
+If they do ask the newly arrived bhikkhus about it, and they change their view, and then do the invitation ceremony together, there’s no offense.”
 
 #### 18. The section on “you shouldn’t go” ^18
 
@@ -742,17 +742,17 @@ If they do ask the newly arrived monks about it, and they change their view, and
 > ```
 
 
-109“On the invitation day you shouldn’t go from a monastery with monks to a monastery without monks, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery with monks to a non-monastery without monks, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery with monks to a monastery or a non-monastery without monks, except if you go with a saṅgha or there are dangers.
+109“On the invitation day you shouldn’t go from a monastery with bhikkhus to a monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery with bhikkhus to a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery with bhikkhus to a monastery or a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers.
 
-110On the invitation day you shouldn’t go from a non-monastery with monks to a monastery without monks, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a non-monastery with monks to a non-monastery without monks, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a non-monastery with monks to a monastery or a non-monastery without monks, except if you go with a saṅgha or there are dangers.
+110On the invitation day you shouldn’t go from a non-monastery with bhikkhus to a monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a non-monastery with bhikkhus to a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a non-monastery with bhikkhus to a monastery or a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers.
 
-111On the invitation day you shouldn’t go from a monastery or a non-monastery with monks to a monastery without monks, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery or a non-monastery with monks to a non-monastery without monks, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery or a non-monastery with monks to a monastery or a non-monastery without monks, except if you go with a saṅgha or there are dangers.
+111On the invitation day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a monastery or a non-monastery without bhikkhus, except if you go with a saṅgha or there are dangers.
 
-112“On the invitation day you shouldn’t go from a monastery with monks to a monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery with monks to a monastery or a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.
+112“On the invitation day you shouldn’t go from a monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery with bhikkhus to a monastery or a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.
 
-113On the invitation day you shouldn’t go from a non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a non-monastery with monks to a monastery or a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.
+113On the invitation day you shouldn’t go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a non-monastery with bhikkhus to a monastery or a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.
 
-114On the invitation day you shouldn’t go from a monastery or a non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery or a non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery or a non-monastery with monks to a monastery or a non-monastery with monks who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.”
+114On the invitation day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers. On the invitation day you shouldn’t go from a monastery or a non-monastery with bhikkhus to a monastery or a non-monastery with bhikkhus who belong to a different Buddhist sect, except if you go with a saṅgha or there are dangers.”
 
 #### 19. The section on “you may go” ^19
 
@@ -764,11 +764,11 @@ If they do ask the newly arrived monks about it, and they change their view, and
 > ```
 
 
-115“On the invitation day you may go from a monastery with monks to a monastery with monks who belong to the same Buddhist sect, if you know you’ll get there on the same day. On the invitation day you may go from a monastery with monks to a non-monastery with monks … to a monastery or a non-monastery with monks who belong to the same Buddhist sect, if you know you’ll get there on the same day.
+115“On the invitation day you may go from a monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect, if you know you’ll get there on the same day. On the invitation day you may go from a monastery with bhikkhus to a non-monastery with bhikkhus … to a monastery or a non-monastery with bhikkhus who belong to the same Buddhist sect, if you know you’ll get there on the same day.
 
-116On the invitation day you may go from a non-monastery with monks to a monastery with monks … to a non-monastery with monks … to a monastery or a non-monastery with monks who belong to the same Buddhist sect, if you know you’ll get there on the same day.
+116On the invitation day you may go from a non-monastery with bhikkhus to a monastery with bhikkhus … to a non-monastery with bhikkhus … to a monastery or a non-monastery with bhikkhus who belong to the same Buddhist sect, if you know you’ll get there on the same day.
 
-117On the invitation day you may go from a monastery or a non-monastery with monks to a monastery with monks … to a non-monastery with monks … to a monastery or a non-monastery with monks who belong to the same Buddhist sect, if you know you’ll get there on the same day.”
+117On the invitation day you may go from a monastery or a non-monastery with bhikkhus to a monastery with bhikkhus … to a non-monastery with bhikkhus … to a monastery or a non-monastery with bhikkhus who belong to the same Buddhist sect, if you know you’ll get there on the same day.”
 
 #### 20. The showing of persons to be avoided ^20
 
@@ -802,33 +802,33 @@ You shouldn’t do the invitation ceremony on a non-invitation day, except to un
 > ```
 
 
-123At one time on the invitation day in a certain monastery in the Kosalan country, there was a threat from primitive tribes. The monks were unable to do the invitation ceremony by means of three statements.
+123At one time on the invitation day in a certain monastery in the Kosalan country, there was a threat from primitive tribes. The bhikkhus were unable to do the invitation ceremony by means of three statements.
 
 “I allow you to do the invitation ceremony by means of two statements.”
 
-124The threat from primitive tribes increased. The monks were unable to do the invitation ceremony by means of two statements.
+124The threat from primitive tribes increased. The bhikkhus were unable to do the invitation ceremony by means of two statements.
 
 “I allow you to do the invitation ceremony by means of one statement.”
 
-125The threat from primitive tribes increased further. The monks were unable to do the invitation ceremony by means of one statement.
+125The threat from primitive tribes increased further. The bhikkhus were unable to do the invitation ceremony by means of one statement.
 
 “I allow you to do the invitation ceremony in groups according to year of seniority.”
 
 
-126-127On one occasion on the invitation day in a certain monastery, most of the night had been spent with people making offerings. The monks considered this and thought: “If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before dawn. What should we do?”
+126-127On one occasion on the invitation day in a certain monastery, most of the night had been spent with people making offerings. The bhikkhus considered this and thought: “If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before dawn. What should we do?”
 
 “In such a case a competent and capable monk should inform the Saṅgha:
 
 
 128‘Please, Venerables, I ask the Saṅgha to listen. Most of the night has been spent with people making offerings. If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before dawn. If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of two statements.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of one statement.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony in groups according to year of seniority.’
 
-129It may happen on the invitation day that most of the night in a monastery is spent with monks giving teachings, with experts on the discourses reciting discourses, with experts on the Monastic Law discussing the Monastic Law, with expounders of the Teaching discussing the Teaching, or with the monks arguing. If the monks consider this and think, ‘If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before dawn,’ then a competent and capable monk should inform the Saṅgha:
+129It may happen on the invitation day that most of the night in a monastery is spent with bhikkhus giving teachings, with experts on the discourses reciting discourses, with experts on the Monastic Law discussing the Monastic Law, with expounders of the Teaching discussing the Teaching, or with the bhikkhus arguing. If the bhikkhus consider this and think, ‘If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before dawn,’ then a competent and capable monk should inform the Saṅgha:
 
 
-130‘Please, Venerables, I ask the Saṅgha to listen. Most of the night has been spent with the monks arguing. If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before dawn. If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of two statements.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of one statement.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony in groups according to year of seniority.’”
+130‘Please, Venerables, I ask the Saṅgha to listen. Most of the night has been spent with the bhikkhus arguing. If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before dawn. If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of two statements.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of one statement.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony in groups according to year of seniority.’”
 
 
-131At one time on the invitation day in a certain monastery in the Kosalan country, a large saṅgha of monks had gathered. Just then a storm was approaching, but they only had a small sheltered area. The monks considered this and thought: “If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before it starts raining. What should we do?”
+131At one time on the invitation day in a certain monastery in the Kosalan country, a large saṅgha of bhikkhus had gathered. Just then a storm was approaching, but they only had a small sheltered area. The bhikkhus considered this and thought: “If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before it starts raining. What should we do?”
 
 132They told the Buddha.
 
@@ -836,10 +836,10 @@ You shouldn’t do the invitation ceremony on a non-invitation day, except to un
 “In such a case a competent and capable monk should inform the Saṅgha:
 
 
-133‘Please, Venerables, I ask the Saṅgha to listen. This large Saṅgha of monks has gathered. A storm is approaching, but we only have a small sheltered area. If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before it starts raining. If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of two statements.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of one statement.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony in groups according to year of seniority.’
+133‘Please, Venerables, I ask the Saṅgha to listen. This large Saṅgha of bhikkhus has gathered. A storm is approaching, but we only have a small sheltered area. If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before it starts raining. If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of two statements.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of one statement.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony in groups according to year of seniority.’
 
 
-134It may happen on the invitation day in a certain monastery that there is a threat from kings, from bandits, from fire, from water, from humans, from spirits, from predatory animals, or from creeping animals; or there is a threat to life or a threat to the monastic life. If the monks consider this nd think, ‘This is a threat to the monastic life. If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before the threat manifests,’ then a competent and capable monk should inform the Saṅgha:
+134It may happen on the invitation day in a certain monastery that there is a threat from kings, from bandits, from fire, from water, from humans, from spirits, from predatory animals, or from creeping animals; or there is a threat to life or a threat to the monastic life. If the bhikkhus consider this nd think, ‘This is a threat to the monastic life. If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before the threat manifests,’ then a competent and capable monk should inform the Saṅgha:
 
 135‘Please, Venerables, I ask the Saṅgha to listen. This is a threat to the monastic life. If the Saṅgha does the invitation ceremony by means of three statements, we won’t finish before the threat manifests. If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of two statements.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony by means of one statement.’ Or, ‘If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony in groups according to year of seniority.’”
 
@@ -853,33 +853,33 @@ You shouldn’t do the invitation ceremony on a non-invitation day, except to un
 > ```
 
 
-136At that time the monks from the group of six invited correction while having uncleared offenses.
+136At that time the bhikkhus from the group of six invited correction while having uncleared offenses.
 
 “You should not invite correction if you have uncleared offenses. If you do, you commit an offense of wrong conduct. If anyone invites correction with an uncleared offense, you should get their permission and then accuse them of an offense.”
 
-137Soon afterwards, when asked for permission, the monks from the group of six refused to give it.
+137Soon afterwards, when asked for permission, the bhikkhus from the group of six refused to give it.
 
 “If anyone doesn’t give their permission, you should cancel their invitation. And it should be canceled like this. On the invitation day, whether the fourteenth or the fifteenth, in the midst of the Saṅgha and in the presence of that person, you should announce:
 
 ‘Please, Venerables, I ask the Saṅgha to listen. Such-and-such a person has uncleared offenses. I cancel their invitation. The invitation ceremony should not be done in their presence.’ Their invitation has then been canceled.”
 
-138On one occasion the monks from the group of six—hinking to act before the good monks canceled their invitation, but having no reason for doing so—canceled the invitation of pure monks who had not committed any offenses. They also canceled the invitation of those who already had invited.
+138On one occasion the bhikkhus from the group of six—hinking to act before the good bhikkhus canceled their invitation, but having no reason for doing so—canceled the invitation of pure bhikkhus who had not committed any offenses. They also canceled the invitation of those who already had invited.
 
-“When there is no reason for doing so, you should not cancel the invitation of pure monks who haven’t committed any offenses. If you do, you commit an offense of wrong conduct. And you should not cancel the invitation of those who already have invited. If you do, you commit an offense of wrong conduct.
+“When there is no reason for doing so, you should not cancel the invitation of pure bhikkhus who haven’t committed any offenses. If you do, you commit an offense of wrong conduct. And you should not cancel the invitation of those who already have invited. If you do, you commit an offense of wrong conduct.
 
 139And this is how the invitation is canceled and how it isn’t canceled. If the invitation is canceled after a three-statement invitation has been spoken and concluded, then it’s not canceled. If the invitation is canceled after a two-statement invitation … after a one-statement invitation … after an invitation done in groups according to the year of seniority has been spoken and concluded, then it’s not canceled.
 
 140If the invitation is canceled when a three-statement invitation hasn’t yet been concluded, then it’s canceled. If the invitation is canceled when a two-statement invitation … when a one-statement invitation … when an invitation done in groups according to the year of seniority hasn’t yet been concluded, then it’s canceled.
 
-141“It may happen on the invitation day that a monk cancels a second monk’s invitation. If other monks know about the first monk: ‘This venerable is impure in bodily conduct, verbal conduct, and livelihood; he’s ignorant and incompetent, incapable of answering properly when questioned,’ then they should press him by saying, ‘Enough. No more arguing and disputing,’ and the Saṅgha should then do the invitation ceremony.
+141“It may happen on the invitation day that a monk cancels a second monk’s invitation. If other bhikkhus know about the first monk: ‘This venerable is impure in bodily conduct, verbal conduct, and livelihood; he’s ignorant and incompetent, incapable of answering properly when questioned,’ then they should press him by saying, ‘Enough. No more arguing and disputing,’ and the Saṅgha should then do the invitation ceremony.
 
-142It may happen on the invitation day that a monk cancels a second monk’s invitation. If other monks know about the first monk: ‘This venerable is pure in bodily conduct, but impure in verbal conduct and livelihood; he’s ignorant and incompetent, incapable of answering properly when questioned,’ then they should press him by saying, ‘Enough. No more arguing and disputing,’ and the Saṅgha should then do the invitation ceremony.
+142It may happen on the invitation day that a monk cancels a second monk’s invitation. If other bhikkhus know about the first monk: ‘This venerable is pure in bodily conduct, but impure in verbal conduct and livelihood; he’s ignorant and incompetent, incapable of answering properly when questioned,’ then they should press him by saying, ‘Enough. No more arguing and disputing,’ and the Saṅgha should then do the invitation ceremony.
 
-143It may happen on the invitation day that a monk cancels a second monk’s invitation. If other monks know about the first monk: ‘This venerable is pure in bodily conduct and verbal conduct, but impure in livelihood; he’s ignorant and incompetent, incapable of answering properly when questioned,’ then they should press him by saying, ‘Enough. No more arguing and disputing,’ and the Saṅgha should then do the invitation ceremony.
+143It may happen on the invitation day that a monk cancels a second monk’s invitation. If other bhikkhus know about the first monk: ‘This venerable is pure in bodily conduct and verbal conduct, but impure in livelihood; he’s ignorant and incompetent, incapable of answering properly when questioned,’ then they should press him by saying, ‘Enough. No more arguing and disputing,’ and the Saṅgha should then do the invitation ceremony.
 
-144It may happen on the invitation day that a monk cancels a second monk’s invitation. If other monks know about the first monk: ‘This venerable is pure in bodily conduct, verbal conduct, and livelihood; but he’s ignorant and incompetent, incapable of answering properly when questioned,’ then they should press him by saying, ‘Enough. No more arguing and disputing,’ and the Saṅgha should then do the invitation ceremony.
+144It may happen on the invitation day that a monk cancels a second monk’s invitation. If other bhikkhus know about the first monk: ‘This venerable is pure in bodily conduct, verbal conduct, and livelihood; but he’s ignorant and incompetent, incapable of answering properly when questioned,’ then they should press him by saying, ‘Enough. No more arguing and disputing,’ and the Saṅgha should then do the invitation ceremony.
 
-145“It may happen on the invitation day that a monk cancels a second monk’s invitation. If other monks know about the first monk: ‘This venerable is pure in bodily conduct, verbal conduct, and livelihood; he’s knowledgeable and competent, capable of answering properly when questioned,’ then they should say to him, ‘Are you canceling this monk’s invitation because he’s failed in morality, in conduct, or in view?’
+145“It may happen on the invitation day that a monk cancels a second monk’s invitation. If other bhikkhus know about the first monk: ‘This venerable is pure in bodily conduct, verbal conduct, and livelihood; he’s knowledgeable and competent, capable of answering properly when questioned,’ then they should say to him, ‘Are you canceling this monk’s invitation because he’s failed in morality, in conduct, or in view?’
 
 If he says, ‘I’m canceling it because he’s failed in morality’, ‘I’m canceling it because he’s failed in conduct’, or ‘I’m canceling it because he’s failed in view,’ he should be asked, ‘Do you know what failure in morality is?’ ‘Do you know what failure in conduct is?’ or ‘Do you know what failure in view is?’
 
@@ -907,19 +907,19 @@ If the accused monk admits to having committed an offense entailing expulsion, h
 > ```
 
 
-146“On the invitation day, a monk may have committed a serious offense. Some monks regard it as a serious offense, but others as an offense entailing suspension. The monks who regard it as a serious offense should take that monk aside and deal with him according to the rule. They should then approach the Saṅgha and say:
+146“On the invitation day, a monk may have committed a serious offense. Some bhikkhus regard it as a serious offense, but others as an offense entailing suspension. The bhikkhus who regard it as a serious offense should take that monk aside and deal with him according to the rule. They should then approach the Saṅgha and say:
 
 ‘This monk has made amends for the offense he’s committed. If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony.’
 
-147On the invitation day, a monk may have committed a serious offense. Some monks regard it as a serious offense, but others as an offense entailing confession. … Some monks regard it as a serious offense, but others as an offense entailing acknowledgment. … Some monks regard it as a serious offense, but others as an offense of wrong conduct. … Some monks regard it as a serious offense, but others as an offense of wrong speech. The monks who regard it as a serious offense should take that monk aside and deal with him according to the rule. They should then approach the Saṅgha and say:
+147On the invitation day, a monk may have committed a serious offense. Some bhikkhus regard it as a serious offense, but others as an offense entailing confession. … Some bhikkhus regard it as a serious offense, but others as an offense entailing acknowledgment. … Some bhikkhus regard it as a serious offense, but others as an offense of wrong conduct. … Some bhikkhus regard it as a serious offense, but others as an offense of wrong speech. The bhikkhus who regard it as a serious offense should take that monk aside and deal with him according to the rule. They should then approach the Saṅgha and say:
 
 ‘This monk has made amends for the offense he’s committed. If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony.’
 
-148On the invitation day, a monk may have committed an offense entailing confession. … an offense entailing acknowledgment. … an offense of wrong conduct. … an offense of wrong speech. Some monks regard it as an offense of wrong speech, but others as an offense entailing suspension. The monks who regard it as an offense of wrong speech should take that monk aside and deal with him according to the rule. They should then approach the Saṅgha and say:
+148On the invitation day, a monk may have committed an offense entailing confession. … an offense entailing acknowledgment. … an offense of wrong conduct. … an offense of wrong speech. Some bhikkhus regard it as an offense of wrong speech, but others as an offense entailing suspension. The bhikkhus who regard it as an offense of wrong speech should take that monk aside and deal with him according to the rule. They should then approach the Saṅgha and say:
 
 ‘This monk has made amends for the offense he’s committed. If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony.’
 
-149On the invitation day, a monk may have committed an offense of wrong speech. Some monks regard it as an offense of wrong speech, but others as a serious offense. … Some monks regard it as an offense of wrong speech, but others as an offense entailing confession. … Some monks regard it as an offense of wrong speech, but others as an offense entailing acknowledgment. … Some monks regard it as an offense of wrong speech, but others as an offense of wrong conduct. The monks who regard it as an offense of wrong speech should take that monk aside and deal with him according to the rule. They should then approach the Saṅgha and say:
+149On the invitation day, a monk may have committed an offense of wrong speech. Some bhikkhus regard it as an offense of wrong speech, but others as a serious offense. … Some bhikkhus regard it as an offense of wrong speech, but others as an offense entailing confession. … Some bhikkhus regard it as an offense of wrong speech, but others as an offense entailing acknowledgment. … Some bhikkhus regard it as an offense of wrong speech, but others as an offense of wrong conduct. The bhikkhus who regard it as an offense of wrong speech should take that monk aside and deal with him according to the rule. They should then approach the Saṅgha and say:
 
 ‘This monk has made amends for the offense he’s committed. If it seems appropriate to the Saṅgha, the Saṅgha should do the invitation ceremony.’”
 
@@ -937,7 +937,7 @@ If the accused monk admits to having committed an offense entailing expulsion, h
 
 ‘Please, Venerables, I ask the Saṅgha to listen. I know about an offense, but not who the offender is. If it seems appropriate to the Saṅgha, it should set aside the offense and then do the invitation ceremony.’
 
-They should say to him, ‘The Buddha has laid down a rule that the invitation ceremony is for monks who are pure. If you know the offense, but not the offender, then say now who it is that you suspect.’
+They should say to him, ‘The Buddha has laid down a rule that the invitation ceremony is for bhikkhus who are pure. If you know the offense, but not the offender, then say now who it is that you suspect.’
 
 
 151It may happen on the invitation day that a monk announces in the midst of the Saṅgha:
@@ -950,7 +950,7 @@ They should say to him, ‘The Buddha has laid down a rule that the invitation c
 
 ‘Please, Venerables, I ask the Saṅgha to listen. I know of an offender and his offense. If it seems appropriate to the Saṅgha, it should set aside the offense and then do the invitation ceremony without the offender.’
 
-They should say to him, ‘The Buddha has laid down a rule that the invitation ceremony should be done in a complete assembly by monks who are pure. If you know an offender and his offense, then say now what they are.’
+They should say to him, ‘The Buddha has laid down a rule that the invitation ceremony should be done in a complete assembly by bhikkhus who are pure. If you know an offender and his offense, then say now what they are.’
 
 153If the offense is known about before the invitation ceremony, but the offender only afterwards, the offender should be corrected. If the offender is known about before the invitation ceremony, but the offense only afterwards, the offender should be corrected. If both the offense and the offender are known about before the invitation ceremony, and someone reopens the case after the invitation ceremony has been done, he commits an offense entailing confession for the reopening.”
 
@@ -964,30 +964,30 @@ They should say to him, ‘The Buddha has laid down a rule that the invitation c
 > ```
 
 
-154At one time in a certain monastery in the Kosalan country, a number of monks who were friends had entered the rainy-season residence together. Other monks who were quarrelsome, argumentative, and creators of legal issues in the Saṅgha had entered the rains residence nearby. They said to one another: “At the invitation ceremony, when those monks have completed the rains residence, we’ll cancel their invitation.” The monks who were friends heard about this and wondered what to do. They told the Buddha.
+154At one time in a certain monastery in the Kosalan country, a number of bhikkhus who were friends had entered the rainy-season residence together. Other bhikkhus who were quarrelsome, argumentative, and creators of legal issues in the Saṅgha had entered the rains residence nearby. They said to one another: “At the invitation ceremony, when those bhikkhus have completed the rains residence, we’ll cancel their invitation.” The bhikkhus who were friends heard about this and wondered what to do. They told the Buddha.
 
 
-155“In such a case I allow those monks to do two or three observance-day ceremonies on the fourteenth day, with the aim of having their invitation ceremony before the other monks.
+155“In such a case I allow those bhikkhus to do two or three observance-day ceremonies on the fourteenth day, with the aim of having their invitation ceremony before the other bhikkhus.
 
-If those quarrelsome and argumentative monks are on their way to the other monastery, the resident monks should gather quickly and do the invitation ceremony. When it has been done, they should say to the other monks, ‘Venerables, we have completed the invitation ceremony. Please do as you see fit.’
+If those quarrelsome and argumentative bhikkhus are on their way to the other monastery, the resident bhikkhus should gather quickly and do the invitation ceremony. When it has been done, they should say to the other bhikkhus, ‘Venerables, we have completed the invitation ceremony. Please do as you see fit.’
 
-If those quarrelsome and argumentative monks arrive without prior notice, the resident monks should prepare seats and set out a foot stool, a foot scraper, and water for washing the feet. They should then go out to meet those monks, receive their bowls and robes, and ask if they want water to drink. Then, having distracted them, they should go outside the monastery zone and do the invitation ceremony there. When it has been done, they should say to the other monks, ‘Venerables, we have completed the invitation ceremony. Please do as you see fit.’
-
-
-If they’re able to do this, it’s good. If not, then a resident monk who is competent and capable should inform the resident monks:
-
-156‘Please, Venerables, I ask the resident monks to listen. If it seems appropriate to you, we’ll now do the observance-day ceremony and recite the Monastic Code, and we’ll do the invitation ceremony at the next new moon.’
-
-If the quarrelsome and argumentative monks say, ‘It would be good if you did the invitation ceremony with us now,’ they should be told, ‘You have no authority over our invitation ceremony. We won’t do the procedure for the time being.’
-
-If the quarrelsome and argumentative monks stay on until the new moon, then a resident monk who is competent and capable should inform the resident monks:
+If those quarrelsome and argumentative bhikkhus arrive without prior notice, the resident bhikkhus should prepare seats and set out a foot stool, a foot scraper, and water for washing the feet. They should then go out to meet those bhikkhus, receive their bowls and robes, and ask if they want water to drink. Then, having distracted them, they should go outside the monastery zone and do the invitation ceremony there. When it has been done, they should say to the other bhikkhus, ‘Venerables, we have completed the invitation ceremony. Please do as you see fit.’
 
 
-157‘Please, Venerables, I ask the resident monks to listen. If it seems appropriate to you, we’ll now do the observance-day ceremony and recite the Monastic Code, and we’ll do the invitation ceremony at the next full moon.’
+If they’re able to do this, it’s good. If not, then a resident monk who is competent and capable should inform the resident bhikkhus:
 
-If the quarrelsome and argumentative monks say, ‘It would be good if you did the invitation ceremony with us now,’ they should be told, ‘You have no authority over our invitation ceremony. We won’t do the procedure for the time being.’
+156‘Please, Venerables, I ask the resident bhikkhus to listen. If it seems appropriate to you, we’ll now do the observance-day ceremony and recite the Monastic Code, and we’ll do the invitation ceremony at the next new moon.’
 
-If the quarrelsome and argumentative monks stay on until the next full moon, then all the monks have no choice but to do the invitation ceremony on the day of Komudī, the fourth full moon of the rainy season.
+If the quarrelsome and argumentative bhikkhus say, ‘It would be good if you did the invitation ceremony with us now,’ they should be told, ‘You have no authority over our invitation ceremony. We won’t do the procedure for the time being.’
+
+If the quarrelsome and argumentative bhikkhus stay on until the new moon, then a resident monk who is competent and capable should inform the resident bhikkhus:
+
+
+157‘Please, Venerables, I ask the resident bhikkhus to listen. If it seems appropriate to you, we’ll now do the observance-day ceremony and recite the Monastic Code, and we’ll do the invitation ceremony at the next full moon.’
+
+If the quarrelsome and argumentative bhikkhus say, ‘It would be good if you did the invitation ceremony with us now,’ they should be told, ‘You have no authority over our invitation ceremony. We won’t do the procedure for the time being.’
+
+If the quarrelsome and argumentative bhikkhus stay on until the next full moon, then all the bhikkhus have no choice but to do the invitation ceremony on the day of Komudī, the fourth full moon of the rainy season.
 
 
 158“If, while you’re doing the invitation ceremony, a sick monk cancels the invitation of a healthy monk, you should tell him, ‘You’re sick. The Buddha has said that a sick monk can’t endure being questioned. Please wait until you’re healthy. If you then wish, you may accuse him.’ If, in spite of this, he still accuses the other, he commits an offense entailing confession for disrespect.
@@ -1008,28 +1008,28 @@ If, while you’re doing the invitation ceremony, a healthy monk cancels the inv
 > ```
 
 
-159-160On one occasion in a certain monastery in the Kosalan country, a number of monks who were friends had entered the rainy-season residence together. While living together in peace and harmony, they were experiencing deep meditation. They considered this and thought: “If we do the invitation ceremony now, the monks might set out wandering. We’ll then lose this deep meditation. So what should we do?” They told the Buddha.
+159-160On one occasion in a certain monastery in the Kosalan country, a number of bhikkhus who were friends had entered the rainy-season residence together. While living together in peace and harmony, they were experiencing deep meditation. They considered this and thought: “If we do the invitation ceremony now, the bhikkhus might set out wandering. We’ll then lose this deep meditation. So what should we do?” They told the Buddha.
 
-“In such a case I allow those monks to make an agreement about the invitation ceremony.
+“In such a case I allow those bhikkhus to make an agreement about the invitation ceremony.
 
 And it should be made like this. Everyone should gather in one place. A competent and capable monk should then inform the Saṅgha:
 
 
-161‘Please, Venerables, I ask the Saṅgha to listen. While living together in peace and harmony, we’re experiencing deep meditation. If we do the invitation ceremony now, the monks might set out wandering. We’ll then lose this deep meditation. If it seems appropriate to the Saṅgha, the Saṅgha should make an agreement about the invitation ceremony: we’ll now do the observance-day ceremony and recite the Monastic Code, and we’ll do the invitation ceremony on the day of Komudī, the fourth full moon of the rainy season. This is the motion.
+161‘Please, Venerables, I ask the Saṅgha to listen. While living together in peace and harmony, we’re experiencing deep meditation. If we do the invitation ceremony now, the bhikkhus might set out wandering. We’ll then lose this deep meditation. If it seems appropriate to the Saṅgha, the Saṅgha should make an agreement about the invitation ceremony: we’ll now do the observance-day ceremony and recite the Monastic Code, and we’ll do the invitation ceremony on the day of Komudī, the fourth full moon of the rainy season. This is the motion.
 
-162Please, Venerables, I ask the Saṅgha to listen. While living together in peace and harmony, we have experienced deep meditation. If we do the invitation ceremony now, the monks might set out wandering. We’ll then lose this deep meditation. The Saṅgha makes an agreement about the invitation ceremony: we’ll now do the observance-day ceremony and recite the Monastic Code, and we’ll do the invitation ceremony on the day of Komudī, the fourth full moon of the rainy season. Any monk who approves of making this agreement about the invitation ceremony—that we’ll now do the observance-day ceremony and recite the Monastic Code and that we’ll do the invitation ceremony on the day of Komudī, the fourth full moon of the rainy season—should remain silent. Any monk who doesn’t approve should speak up.
+162Please, Venerables, I ask the Saṅgha to listen. While living together in peace and harmony, we have experienced deep meditation. If we do the invitation ceremony now, the bhikkhus might set out wandering. We’ll then lose this deep meditation. The Saṅgha makes an agreement about the invitation ceremony: we’ll now do the observance-day ceremony and recite the Monastic Code, and we’ll do the invitation ceremony on the day of Komudī, the fourth full moon of the rainy season. Any monk who approves of making this agreement about the invitation ceremony—that we’ll now do the observance-day ceremony and recite the Monastic Code and that we’ll do the invitation ceremony on the day of Komudī, the fourth full moon of the rainy season—should remain silent. Any monk who doesn’t approve should speak up.
 
 163The Saṅgha has made an agreement about the invitation ceremony: we’ll now do the observance-day ceremony and recite the Monastic Code, and we’ll do the invitation ceremony on the day of Komudī, the fourth full moon of the rainy season. The Saṅgha approves and is therefore silent. I will remember it thus.’
 
-164If, when those monks have made an agreement about the invitation ceremony, a monk says, ‘I wish to go wandering in the country; I have business there,’ they should tell him, ‘That’s fine, but you have to do the invitation first.’
+164If, when those bhikkhus have made an agreement about the invitation ceremony, a monk says, ‘I wish to go wandering in the country; I have business there,’ they should tell him, ‘That’s fine, but you have to do the invitation first.’
 
 If, while that monk is doing the invitation, he cancels the invitation of another monk, the other monk should tell him, ‘You have no authority over my invitation until I invite.’
 
-If, while that monk is doing the invitation, another monk cancels his invitation, the monks should question and examine both and deal with them according to the rule.
+If, while that monk is doing the invitation, another monk cancels his invitation, the bhikkhus should question and examine both and deal with them according to the rule.
 
-If that monk finishes his business in the country and returns to that monastery before the full-moon day of Komudī. If, while the monks are doing the invitation ceremony, a monk cancels the invitation of the monk who has returned, the monk who has returned should tell him, ‘You have no authority over my invitation; I’ve already done it.’
+If that monk finishes his business in the country and returns to that monastery before the full-moon day of Komudī. If, while the bhikkhus are doing the invitation ceremony, a monk cancels the invitation of the monk who has returned, the monk who has returned should tell him, ‘You have no authority over my invitation; I’ve already done it.’
 
-If, while the monks are doing the invitation ceremony, the monk who has returned cancels the invitation of another monk, the monks should question and examine both and deal with them according to the rule. The Saṅgha should then continue the invitation ceremony.”
+If, while the bhikkhus are doing the invitation ceremony, the monk who has returned cancels the invitation of another monk, the bhikkhus should question and examine both and deal with them according to the rule. The Saṅgha should then continue the invitation ceremony.”
 
 
 165The fourth chapter on the invitation ceremony is finished.
@@ -1044,7 +1044,7 @@ One another in the proper way.
 168Inviting, and in the seat,  
 Legal procedure, sick, relatives;  
 King, and bandits, and scoundrels,  
-So enemies of monks.
+So enemies of bhikkhus.
 
 169Five, four, three, two, one,  
 Committed, unsure, he remembered;  

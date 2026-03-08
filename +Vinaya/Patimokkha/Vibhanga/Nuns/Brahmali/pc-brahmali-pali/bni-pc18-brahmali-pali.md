@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized her, “How could a nun complain about someone else because of misunderstanding and a lack of proper reflection?” …
 
-“Is it true, monks, that a nun did this?”
+“Is it true, bhikkhus, that a nun did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could a nun act in this way? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could a nun act in this way? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

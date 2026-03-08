@@ -20,19 +20,19 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-100“Taking into account interior factors, mendicants, I do not see a single one that is so very harmful as laziness. Laziness is very harmful.”
+100“Taking into account interior factors, bhikkhus, I do not see a single one that is so very harmful as laziness. Laziness is very harmful.”
 
-101“Taking into account interior factors, mendicants, I do not see a single one that is so very beneficial as arousing energy. Arousing energy is very beneficial.”
+101“Taking into account interior factors, bhikkhus, I do not see a single one that is so very beneficial as arousing energy. Arousing energy is very beneficial.”
 
-102-109“Taking into account interior factors, mendicants, I do not see a single one that is so very harmful as having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness …”
+102-109“Taking into account interior factors, bhikkhus, I do not see a single one that is so very harmful as having many wishes … having few wishes … lack of contentment … contentment … improper attention … proper attention … lack of situational awareness … situational awareness …”
 
-110“Taking into account exterior factors, mendicants, I do not see a single one that is so very harmful as bad friends. Bad friends are very harmful.”
+110“Taking into account exterior factors, bhikkhus, I do not see a single one that is so very harmful as bad friends. Bad friends are very harmful.”
 
-111“Taking into account exterior factors, mendicants, I do not see a single one that is so very beneficial as good friends. Good friends are very beneficial.”
+111“Taking into account exterior factors, bhikkhus, I do not see a single one that is so very beneficial as good friends. Good friends are very beneficial.”
 
-112“Taking into account interior factors, mendicants, I do not see a single one that is so very harmful as pursuing bad habits and not good habits. Pursuing bad habits and not good habits is very harmful.”
+112“Taking into account interior factors, bhikkhus, I do not see a single one that is so very harmful as pursuing bad habits and not good habits. Pursuing bad habits and not good habits is very harmful.”
 
-113“Taking into account interior factors, mendicants, I do not see a single one that is so very beneficial as pursuing good habits and not bad habits. Pursuing good habits and not bad habits is very beneficial.”
+113“Taking into account interior factors, bhikkhus, I do not see a single one that is so very beneficial as pursuing good habits and not bad habits. Pursuing good habits and not bad habits is very beneficial.”
 
 
 ---

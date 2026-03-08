@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the observance of the sabbath with its eight factors is very fruitful and beneficial and splendid and bountiful. And how should it be observed?
+1“bhikkhus, the observance of the sabbath with its eight factors is very fruitful and beneficial and splendid and bountiful. And how should it be observed?
 
 It’s when a noble disciple reflects: ‘As long as they live, the perfected ones give up killing living creatures, renouncing the rod and the sword. They are scrupulous and kind, and live full of compassion for all living beings. I, too, for this day and night will give up killing living creatures, renouncing the rod and the sword. I’ll be scrupulous and kind, and live full of compassion for all living beings. I will observe the sabbath by doing as the perfected ones do in this respect.’ This is its first factor. …
 

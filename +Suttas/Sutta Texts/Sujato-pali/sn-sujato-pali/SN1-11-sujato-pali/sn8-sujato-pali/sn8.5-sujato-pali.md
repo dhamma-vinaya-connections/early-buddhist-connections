@@ -22,11 +22,11 @@ language: "English - Pali"
 
 1At Sāvatthī.
 
-There the Buddha addressed the mendicants: “Mendicants!”
+There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Mendicants, speech that has four factors is well spoken, not poorly spoken. It’s blameless and is not criticized by sensible people. What four? It’s when a mendicant speaks well, not poorly; they speak on the teaching, not against the teaching; they speak pleasantly, not unpleasantly; and they speak truthfully, not falsely. Speech with these four factors is well spoken, not poorly spoken. It’s blameless and is not criticized by sensible people.”
+2“bhikkhus, speech that has four factors is well spoken, not poorly spoken. It’s blameless and is not criticized by sensible people. What four? It’s when a bhikkhu speaks well, not poorly; they speak on the teaching, not against the teaching; they speak pleasantly, not unpleasantly; and they speak truthfully, not falsely. Speech with these four factors is well spoken, not poorly spoken. It’s blameless and is not criticized by sensible people.”
 
 That is what the Buddha said. Then the Holy One, the Teacher, went on to say:
 

@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> What well-known mendicants should encourage
+> What well-known bhikkhus should encourage
 
 > [!info] Key Excerpts 
 > Encourage deeds of body and speech, and mind that reinforce good qualities.
 > 
-> A well-known mendicant who has three qualities is acting for the welfare and happiness of the people
+> A well-known bhikkhu who has three qualities is acting for the welfare and happiness of the people
 > 
 
 

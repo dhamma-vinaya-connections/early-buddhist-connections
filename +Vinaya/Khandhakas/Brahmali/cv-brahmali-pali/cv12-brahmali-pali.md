@@ -22,50 +22,50 @@ language: "English - Pali"
 > "VIN-CV12.1" file:bmc2 -queryblock
 > ```
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time monks on probation consented to regular monks bowing down to them, standing up for them, raising their joined palms to them, doing acts of respect toward them, offering them a seat, offering them a bed, offering them water for washing their feet and a foot stool, offering them a foot scraper, receiving their bowl and robe, and massaging their backs when bathing. The monks of few desires complained and criticized them: “How can monks on probation consent to these things?” They told the Buddha.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time bhikkhus on probation consented to regular bhikkhus bowing down to them, standing up for them, raising their joined palms to them, doing acts of respect toward them, offering them a seat, offering them a bed, offering them water for washing their feet and a foot stool, offering them a foot scraper, receiving their bowl and robe, and massaging their backs when bathing. The bhikkhus of few desires complained and criticized them: “How can bhikkhus on probation consent to these things?” They told the Buddha.
 
-2Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+2Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the monks on probation are consenting to these things?”
+“Is it true, bhikkhus, that the bhikkhus on probation are consenting to these things?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them … “It’s not suitable … How can monks on probation consent to these things? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “It’s not suitable … How can bhikkhus on probation consent to these things? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
 “A monk on probation shouldn’t consent to:
 
 
-Regular monks bowing down to him;
+Regular bhikkhus bowing down to him;
 
-Regular monks standing up for him;
-
-
-Regular monks raising their joined palms to him;
-
-Regular monks doing acts of respect toward him;
-
-Regular monks offering him a seat;
-
-Regular monks offering him a bed;
-
-Regular monks offering him water for washing his feet and a foot stool;
+Regular bhikkhus standing up for him;
 
 
-Regular monks offering him a foot scraper;
+Regular bhikkhus raising their joined palms to him;
 
-Regular monks receiving his bowl and robe;
+Regular bhikkhus doing acts of respect toward him;
 
-Regular monks massaging his back when he’s bathing.
+Regular bhikkhus offering him a seat;
+
+Regular bhikkhus offering him a bed;
+
+Regular bhikkhus offering him water for washing his feet and a foot stool;
+
+
+Regular bhikkhus offering him a foot scraper;
+
+Regular bhikkhus receiving his bowl and robe;
+
+Regular bhikkhus massaging his back when he’s bathing.
 
 
 If he consents to any of these, he commits an offense of wrong conduct.
 
 
-3Monks on probation should do the following with one another according to seniority: bow down, stand up, raise their joined palms, do acts of respect, offer a seat, offer a bed, offer water for washing the feet and a foot stool, offer a foot scraper, receive bowl and robe, and massage one another’s backs when bathing.
+3bhikkhus on probation should do the following with one another according to seniority: bow down, stand up, raise their joined palms, do acts of respect, offer a seat, offer a bed, offer water for washing the feet and a foot stool, offer a foot scraper, receive bowl and robe, and massage one another’s backs when bathing.
 
-4Monks on probation should do five things with regular monks according to seniority: the observance-day ceremony, the invitation ceremony, distributing rainy-season robes, meal invitations, and meals.
+4bhikkhus on probation should do five things with regular bhikkhus according to seniority: the observance-day ceremony, the invitation ceremony, distributing rainy-season robes, meal invitations, and meals.
 
 
 5And now I will lay down the proper conduct for a monk on probation.
@@ -109,7 +109,7 @@ He shouldn’t accuse a regular monk of an offense.
 
 He shouldn’t remind a regular monk of an offense.
 
-He shouldn’t associate inappropriately with other monks.
+He shouldn’t associate inappropriately with other bhikkhus.
 
 
 7He shouldn’t walk in front of a regular monk.
@@ -141,63 +141,63 @@ He should inform about his status on the observance day.
 He should inform about his status on the invitation day. If he’s sick, he should inform about his status by messenger.
 
 
-10He shouldn’t go from a monastery with monks to one without monks, except together with a regular monk or if there are dangers.
+10He shouldn’t go from a monastery with bhikkhus to one without bhikkhus, except together with a regular monk or if there are dangers.
 
-11He shouldn’t go from a monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
+11He shouldn’t go from a monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
-
-
-12He shouldn’t go from a non-monastery with monks to a monastery without monks, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a non-monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a non-monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
 
-13He shouldn’t go from a monastery or non-monastery with monks to a monastery without monks, except together with a regular monk or if there are dangers.
+12He shouldn’t go from a non-monastery with bhikkhus to a monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
-
-14He shouldn’t go from a monastery with monks to one with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-15He shouldn’t go from a non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a non-monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
 
-16He shouldn’t go from a monastery or non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+13He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
+
+14He shouldn’t go from a monastery with bhikkhus to one with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+15He shouldn’t go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
 
-17He may go from a monastery with monks to one with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+16He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-18He may go from a monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He may go from a monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-19He may go from a non-monastery with monks to a monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-20He may go from a non-monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+17He may go from a monastery with bhikkhus to one with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a non-monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+18He may go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-21He may go from a monastery or non-monastery with monks to a monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-22He may go from a monastery or non-monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+19He may go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-23He may go from a monastery or non-monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+20He may go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+He may go from a non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+21He may go from a monastery or non-monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+22He may go from a monastery or non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+23He may go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
 
 He shouldn’t, in a monastery, stay in the same room as a regular monk.
@@ -268,15 +268,15 @@ or as the twentieth member of a group, he rehabilitates, it’s invalid and not 
 
 30Soon afterwards Venerable Upāli went to the Buddha, bowed, sat down, and said: “How many things are there, Venerable Sir, that stop a monk on probation from counting a particular day toward his probationary period?”
 
-“There are three such things, Upāli: he stays in the same room as a regular monk; he stays apart from other monks; he doesn’t inform other monks of his status.”
+“There are three such things, Upāli: he stays in the same room as a regular monk; he stays apart from other bhikkhus; he doesn’t inform other bhikkhus of his status.”
 
-31On one occasion a large saṅgha of monks had gathered at Sāvatthī. The monks on probation were unable to fulfill their probationary duties. They told the Buddha.
+31On one occasion a large saṅgha of bhikkhus had gathered at Sāvatthī. The bhikkhus on probation were unable to fulfill their probationary duties. They told the Buddha.
 
 “I allow you to set aside the probation.
 
 And it should be done like this. The monk on probation should approach a monk, put his upper robe over one shoulder, squat on his heels, raise his joined palms, and say, ‘I set aside the probation,’ or ‘I set aside the proper conduct.’”
 
-32Soon afterwards the monks at Sāvatthī left for various destinations. The monks on probation were once again able to fulfill their probationary duties. They told the Buddha.
+32Soon afterwards the bhikkhus at Sāvatthī left for various destinations. The bhikkhus on probation were once again able to fulfill their probationary duties. They told the Buddha.
 
 “I allow you to take up the probation.
 
@@ -294,48 +294,48 @@ And it should be done like this. The monk on probation should approach a monk, p
 > ```
 
 
-34At this time monks deserving to be sent back to the beginning consented to regular monks bowing down to them, standing up for them, raising their joined palms to them, doing acts of respect toward them, offering them a seat, offering them a bed, offering them water for washing their feet and a foot stool, offering them a foot scraper, receiving their bowl and robe, and massaging their backs when bathing. The monks of few desires complained and criticized them: “How can monks deserving to be sent back to the beginning consent to these things?” The monks told the Buddha.
+34At this time bhikkhus deserving to be sent back to the beginning consented to regular bhikkhus bowing down to them, standing up for them, raising their joined palms to them, doing acts of respect toward them, offering them a seat, offering them a bed, offering them water for washing their feet and a foot stool, offering them a foot scraper, receiving their bowl and robe, and massaging their backs when bathing. The bhikkhus of few desires complained and criticized them: “How can bhikkhus deserving to be sent back to the beginning consent to these things?” The bhikkhus told the Buddha.
 
 
-35Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+35Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that monks deserving to be sent back to the beginning consent to these things?”
+“Is it true, bhikkhus, that bhikkhus deserving to be sent back to the beginning consent to these things?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them … “It’s not suitable … How can monks deserving to be sent back to the beginning consent to these things? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “It’s not suitable … How can bhikkhus deserving to be sent back to the beginning consent to these things? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
 A monk deserving to be sent back to the beginning shouldn’t consent to:
 
-Regular monks bowing down to him;
+Regular bhikkhus bowing down to him;
 
-Regular monks standing up for him;
+Regular bhikkhus standing up for him;
 
-Regular monks raising their joined palms to him;
+Regular bhikkhus raising their joined palms to him;
 
-Regular monks doing acts of respect toward him;
+Regular bhikkhus doing acts of respect toward him;
 
-Regular monks offering him a seat;
+Regular bhikkhus offering him a seat;
 
-Regular monks offering him a bed;
+Regular bhikkhus offering him a bed;
 
-Regular monks offering him water for washing his feet and a foot stool;
+Regular bhikkhus offering him water for washing his feet and a foot stool;
 
-Regular monks offering him a foot scraper;
+Regular bhikkhus offering him a foot scraper;
 
-Regular monks receiving his bowl and robe;
+Regular bhikkhus receiving his bowl and robe;
 
-Regular monks massaging his back when he’s bathing.
+Regular bhikkhus massaging his back when he’s bathing.
 
 If he consents to any of these, he commits an offense of wrong conduct.
 
 
-Monks deserving to be sent back to the beginning should do the following to one another according to seniority: bow down, raise their joined palms, do acts of respect, offer a seat, offer a bed, offer water for washing the feet and a foot stool, offer a foot scraper, receive bowl and robe, and massage one another’s backs when bathing.
+bhikkhus deserving to be sent back to the beginning should do the following to one another according to seniority: bow down, raise their joined palms, do acts of respect, offer a seat, offer a bed, offer water for washing the feet and a foot stool, offer a foot scraper, receive bowl and robe, and massage one another’s backs when bathing.
 
 
-Monks deserving to be sent back to the beginning should do five things with regular monks according to seniority: the observance-day ceremony, the invitation ceremony, distributing rainy-season robes, meal invitations, and meals.
+bhikkhus deserving to be sent back to the beginning should do five things with regular bhikkhus according to seniority: the observance-day ceremony, the invitation ceremony, distributing rainy-season robes, meal invitations, and meals.
 
 
 And now I will lay down the proper conduct for a monk deserving to be sent back to the beginning. This is the proper conduct:
@@ -371,7 +371,7 @@ He shouldn’t accuse a regular monk of an offense.
 
 He shouldn’t remind a regular monk of an offense.
 
-He shouldn’t associate inappropriately with other monks.
+He shouldn’t associate inappropriately with other bhikkhus.
 
 He shouldn’t walk in front of a regular monk.
 
@@ -389,60 +389,60 @@ He shouldn’t undertake the practice of eating only almsfood.
 
 He shouldn’t have someone bring back almsfood for him because he doesn’t want others to know about his status.
 
-He shouldn’t go from a monastery with monks to one without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to one without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to one with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to one with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
 
-48He may go from a monastery with monks to one with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+48He may go from a monastery with bhikkhus to one with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a non-monastery with monks to a monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a non-monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a non-monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a monastery or non-monastery with monks to a monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a monastery or non-monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a monastery or non-monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a monastery or non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a monastery or non-monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
 
 51He shouldn’t, in a monastery, stay in the same room as a regular monk.
@@ -515,46 +515,46 @@ The proper conduct for those deserving to be sent back to the beginning is finis
 > ```
 
 
-55At this time monks deserving the trial period consented to regular monks bowing down to them, standing up for them, raising their joined palms to them, doing acts of respect toward them, offering them a seat, offering them a bed, offering them water for washing their feet and a foot stool, offering them a foot scraper, receiving their bowl and robe, and massaging their backs when bathing. The monks of few desires complained and criticized them: “How can monks deserving the trial period consent to these things?”
+55At this time bhikkhus deserving the trial period consented to regular bhikkhus bowing down to them, standing up for them, raising their joined palms to them, doing acts of respect toward them, offering them a seat, offering them a bed, offering them water for washing their feet and a foot stool, offering them a foot scraper, receiving their bowl and robe, and massaging their backs when bathing. The bhikkhus of few desires complained and criticized them: “How can bhikkhus deserving the trial period consent to these things?”
 
-The monks told the Buddha.
+The bhikkhus told the Buddha.
 
-Soon afterwards he had the Saṅgha of monks gathered and questioned them: “Is it true, monks, that monks deserving the trial period consent to these things?”
+Soon afterwards he had the Saṅgha of bhikkhus gathered and questioned them: “Is it true, bhikkhus, that bhikkhus deserving the trial period consent to these things?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them … “It’s not suitable … How can monks deserving the trial period consent to these things? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “It’s not suitable … How can bhikkhus deserving the trial period consent to these things? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 “A monk deserving the trial period shouldn’t consent to:
 
-He monks bowing down to him;
+He bhikkhus bowing down to him;
 
-He monks standing up for him;
+He bhikkhus standing up for him;
 
-He monks raising their joined palms to him;
+He bhikkhus raising their joined palms to him;
 
-He monks doing acts of respect for him;
+He bhikkhus doing acts of respect for him;
 
-He monks offering him a seat;
+He bhikkhus offering him a seat;
 
-He monks offering him a bed;
+He bhikkhus offering him a bed;
 
-He monks offering him water for washing his feet and a foot-stool;
+He bhikkhus offering him water for washing his feet and a foot-stool;
 
-He monks offering him a foot-scraper;
+He bhikkhus offering him a foot-scraper;
 
-He monks receiving his bowl and robe;
+He bhikkhus receiving his bowl and robe;
 
-He monks massaging his back when he’s bathing.
+He bhikkhus massaging his back when he’s bathing.
 
 
 If he consents to any of these, he commits an offense of wrong conduct.
 
 
-Monks deserving the trial period should do the following to one another according to seniority: bow down, raise their joined palms, do acts of respect, offer a seat, offer a bed, offer water for washing the feet and a foot stool, offer a foot scraper, receive bowl and robe, and massage one another’s backs when bathing.
+bhikkhus deserving the trial period should do the following to one another according to seniority: bow down, raise their joined palms, do acts of respect, offer a seat, offer a bed, offer water for washing the feet and a foot stool, offer a foot scraper, receive bowl and robe, and massage one another’s backs when bathing.
 
-Monks deserving the trial period should do five things with regular monks according to seniority: the observance-day ceremony, the invitation ceremony, distributing rainy-season robes, meal invitations, and meals.
+bhikkhus deserving the trial period should do five things with regular bhikkhus according to seniority: the observance-day ceremony, the invitation ceremony, distributing rainy-season robes, meal invitations, and meals.
 
 
 And now I will lay down the proper conduct for a monk deserving the trial period.
@@ -593,7 +593,7 @@ He shouldn’t accuse a regular monk of an offense.
 
 He shouldn’t remind a regular monk of an offense.
 
-He shouldn’t associate inappropriately with other monks.
+He shouldn’t associate inappropriately with other bhikkhus.
 
 He shouldn’t walk in front of a regular monk.
 
@@ -611,62 +611,62 @@ He shouldn’t undertake the practice of eating only almsfood.
 
 He shouldn’t have someone bring back almsfood for him because he doesn’t want others to know about his status.
 
-He shouldn’t go from a monastery with monks to one without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to one without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to one with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to one with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery or non-monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-
-68He may go from a monastery with monks to one with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
-
-He may go from a monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
-
-He may go from a monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
 
 
-69He may go from a non-monastery with monks to a monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+68He may go from a monastery with bhikkhus to one with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a non-monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a non-monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
 
-70He may go from a monastery or non-monastery with monks to a monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+69He may go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a monastery or non-monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-He may go from a monastery or non-monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He may go from a non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+
+70He may go from a monastery or non-monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+He may go from a monastery or non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+He may go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
 
 He shouldn’t, in a monastery, stay in the same room as a regular monk.
@@ -733,50 +733,50 @@ The proper conduct for those deserving the trial period is finished.
 > ```
 
 
-75At this time monks undertaking the trial period consented to regular monks bowing down to them, standing up for them, raising their joined palms to them, doing acts of respect toward them, offering them a seat, offering them a bed, offering them water for washing their feet and a foot stool, offering them a foot scraper, receiving their bowl and robe, and massaging their backs when bathing. The monks of few desires complained and criticized them: “How can monks undertaking the trial period consent to these things?” The monks told the Buddha.
+75At this time bhikkhus undertaking the trial period consented to regular bhikkhus bowing down to them, standing up for them, raising their joined palms to them, doing acts of respect toward them, offering them a seat, offering them a bed, offering them water for washing their feet and a foot stool, offering them a foot scraper, receiving their bowl and robe, and massaging their backs when bathing. The bhikkhus of few desires complained and criticized them: “How can bhikkhus undertaking the trial period consent to these things?” The bhikkhus told the Buddha.
 
 
-76Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+76Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that monks undertaking the trial period consent to these things?”
+“Is it true, bhikkhus, that bhikkhus undertaking the trial period consent to these things?”
 
 “It’s true, Sir.”
 
 
 The Buddha rebuked them …
 
-“It’s not suitable … How can monks undertaking the trial period consent to these things? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+“It’s not suitable … How can bhikkhus undertaking the trial period consent to these things? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
 77“A monk undertaking the trial period shouldn’t consent to:
 
-Regular monks bowing down to him;
+Regular bhikkhus bowing down to him;
 
-Regular monks standing up for him;
+Regular bhikkhus standing up for him;
 
-Regular monks raising their joined palms to him;
+Regular bhikkhus raising their joined palms to him;
 
-Regular monks doing acts of respect toward him;
+Regular bhikkhus doing acts of respect toward him;
 
-Regular monks offering him a seat;
+Regular bhikkhus offering him a seat;
 
-Regular monks offering him a bed;
+Regular bhikkhus offering him a bed;
 
-Regular monks offering him water for washing his feet and a foot stool;
+Regular bhikkhus offering him water for washing his feet and a foot stool;
 
-Regular monks offering him a foot scraper;
+Regular bhikkhus offering him a foot scraper;
 
-Regular monks receiving his bowl and robe;
+Regular bhikkhus receiving his bowl and robe;
 
-Regular monks massaging his back when he’s bathing.
+Regular bhikkhus massaging his back when he’s bathing.
 
 
 If he consents to any of these, he commits an offense of wrong conduct.
 
-Monks undertaking the trial period should do the following to one another according to seniority: bow down, raise their joined palms, do acts of respect, offer a seat, offer a bed, offer water for washing the feet and a foot stool, offer a foot scraper, receive bowl and robe, and massage one another’s backs when bathing.
+bhikkhus undertaking the trial period should do the following to one another according to seniority: bow down, raise their joined palms, do acts of respect, offer a seat, offer a bed, offer water for washing the feet and a foot stool, offer a foot scraper, receive bowl and robe, and massage one another’s backs when bathing.
 
 
-Monks undertaking the trial period should do five things with regular monks according to seniority: the observance-day ceremony, the invitation ceremony, distributing rainy-season robes, meal invitations, and meals.
+bhikkhus undertaking the trial period should do five things with regular bhikkhus according to seniority: the observance-day ceremony, the invitation ceremony, distributing rainy-season robes, meal invitations, and meals.
 
 
 78And now I will lay down the proper conduct for a monk undertaking the trial period.
@@ -814,7 +814,7 @@ He shouldn’t accuse a regular monk of an offense.
 
 He shouldn’t remind a regular monk of an offense.
 
-He shouldn’t associate inappropriately with other monks.
+He shouldn’t associate inappropriately with other bhikkhus.
 
 
 80He shouldn’t walk in front of a regular monk.
@@ -838,28 +838,28 @@ He shouldn’t have someone bring back almsfood for him because he doesn’t wan
 82He should inform about his status when he’s newly arrived in a monastery. He should inform new arrivals of his status. He should inform about his status on the observance day. He should inform about his status on the invitation day. He should inform about his status on a daily basis. If he’s sick, he should inform about his status by messenger.
 
 
-83He shouldn’t go from a monastery with monks to one without monks, except together with a saṅgha or if there are dangers.
+83He shouldn’t go from a monastery with bhikkhus to one without bhikkhus, except together with a saṅgha or if there are dangers.
 
-84He shouldn’t go from a monastery with monks to a non-monastery without monks, except together with a saṅgha or if there are dangers.
+84He shouldn’t go from a monastery with bhikkhus to a non-monastery without bhikkhus, except together with a saṅgha or if there are dangers.
 
-85He shouldn’t go from a monastery with monks to a monastery or non-monastery without monks, except together with a saṅgha or if there are dangers.
+85He shouldn’t go from a monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a saṅgha or if there are dangers.
 
 
-86He shouldn’t go from a non-monastery with monks to a monastery without monks, except together with a saṅgha or if there are dangers. He shouldn’t go from a non-monastery with monks to a non-monastery without monks, except together with a saṅgha or if there are dangers. He shouldn’t go from a non-monastery with monks to a monastery or non-monastery without monks, except together with a saṅgha or if there are dangers.
+86He shouldn’t go from a non-monastery with bhikkhus to a monastery without bhikkhus, except together with a saṅgha or if there are dangers. He shouldn’t go from a non-monastery with bhikkhus to a non-monastery without bhikkhus, except together with a saṅgha or if there are dangers. He shouldn’t go from a non-monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a saṅgha or if there are dangers.
 
-87He shouldn’t go from a monastery or non-monastery with monks to a monastery without monks, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery or non-monastery with monks to a non-monastery without monks, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery or non-monastery with monks to a monastery or non-monastery without monks, except together with a saṅgha or if there are dangers.
+87He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery without bhikkhus, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery or non-monastery with bhikkhus to a non-monastery without bhikkhus, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a saṅgha or if there are dangers.
 
-88He shouldn’t go from a monastery with monks to one with monks who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers.
+88He shouldn’t go from a monastery with bhikkhus to one with bhikkhus who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers.
 
-89He shouldn’t go from a non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a non-monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers.
+89He shouldn’t go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers.
 
-90He shouldn’t go from a monastery or non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery or non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery or non-monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers.
+90He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery or non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers. He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a saṅgha or if there are dangers.
 
-91He may go from a monastery with monks to one with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+91He may go from a monastery with bhikkhus to one with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-92He may go from a non-monastery with monks to a monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a non-monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a non-monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+92He may go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
-93He may go from a monastery or non-monastery with monks to a monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a monastery or non-monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a monastery or non-monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+93He may go from a monastery or non-monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a monastery or non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day. He may go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
 
 94He shouldn’t, in a monastery, stay in the same room as a regular monk.
@@ -916,10 +916,10 @@ He shouldn’t do walking meditation on a walking path when a monk deserving reh
 
 97Soon afterwards Venerable Upāli went to the Buddha, bowed, sat down, and said: “How many things are there, Venerable Sir, that stop a monk undertaking the trial period from counting a particular day toward his trial period?”
 
-“There are four such things, Upāli: he stays in the same room as a regular monk; he stays apart from other monks; he doesn’t inform other monks of his status; he travels without a group.”
+“There are four such things, Upāli: he stays in the same room as a regular monk; he stays apart from other bhikkhus; he doesn’t inform other bhikkhus of his status; he travels without a group.”
 
 
-98On one occasion a large saṅgha of monks had gathered at Sāvatthī. The monks undertaking the trial period were unable to fulfill their duties. They told the Buddha.
+98On one occasion a large saṅgha of bhikkhus had gathered at Sāvatthī. The bhikkhus undertaking the trial period were unable to fulfill their duties. They told the Buddha.
 
 “I allow you to set aside the trial period.
 
@@ -928,7 +928,7 @@ And it should be done like this. The monk undertaking the trial period should ap
 or ‘I set aside the proper conduct.’”
 
 
-99Soon afterwards the monks at Sāvatthī left for various destinations. The monks undertaking the trial period were again able to fulfill their duties. They told the Buddha.
+99Soon afterwards the bhikkhus at Sāvatthī left for various destinations. The bhikkhus undertaking the trial period were again able to fulfill their duties. They told the Buddha.
 
 “I allow you to take up the trial period.
 
@@ -946,48 +946,48 @@ And it should be done like this. The monk undertaking the trial period should ap
 > ```
 
 
-101At this time monks deserving rehabilitation consented to regular monks bowing down to them, standing up for them, raising their joined palms to them, doing acts of respect for them, offering them a seat, offering them a bed, offering them water for washing their feet and a foot stool, offering them a foot scraper, receiving their bowl and robe, and massaging their backs when bathing. The monks of few desires complained and criticized them: “How can monks deserving rehabilitation consent to these things?” The monks told the Buddha.
+101At this time bhikkhus deserving rehabilitation consented to regular bhikkhus bowing down to them, standing up for them, raising their joined palms to them, doing acts of respect for them, offering them a seat, offering them a bed, offering them water for washing their feet and a foot stool, offering them a foot scraper, receiving their bowl and robe, and massaging their backs when bathing. The bhikkhus of few desires complained and criticized them: “How can bhikkhus deserving rehabilitation consent to these things?” The bhikkhus told the Buddha.
 
 
-102Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+102Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that monks deserving rehabilitation consent to these things?”
+“Is it true, bhikkhus, that bhikkhus deserving rehabilitation consent to these things?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them … “It’s not suitable … How can monks deserving rehabilitation consent to these things? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “It’s not suitable … How can bhikkhus deserving rehabilitation consent to these things? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
 A monk deserving rehabilitation shouldn’t consent to:
 
-Regular monks bowing down to him;
+Regular bhikkhus bowing down to him;
 
-Regular monks standing up for him;
+Regular bhikkhus standing up for him;
 
-Regular monks putting the palms of their hands together for him;
+Regular bhikkhus putting the palms of their hands together for him;
 
-Regular monks doing acts of respect for him;
+Regular bhikkhus doing acts of respect for him;
 
-Regular monks offering him a seat;
+Regular bhikkhus offering him a seat;
 
-Regular monks offering him a bed;
+Regular bhikkhus offering him a bed;
 
-Regular monks offering him water for washing his feet and a foot-stool;
+Regular bhikkhus offering him water for washing his feet and a foot-stool;
 
-Regular monks offering him a foot-scraper;
+Regular bhikkhus offering him a foot-scraper;
 
-Regular monks receiving his bowl and robe;
+Regular bhikkhus receiving his bowl and robe;
 
-Regular monks massaging his back when he’s bathing.
+Regular bhikkhus massaging his back when he’s bathing.
 
 
 If he consents to any of these, he commits an offense of wrong conduct.
 
 
-Monks deserving rehabilitation should do the following to one another according to seniority: bow down, raise their joined palms, do acts of respect, offer a seat, offer a bed, offer water for washing the feet and a foot stool, offer a foot scraper, receive bowl and robe, and massage one another’s backs when bathing.
+bhikkhus deserving rehabilitation should do the following to one another according to seniority: bow down, raise their joined palms, do acts of respect, offer a seat, offer a bed, offer water for washing the feet and a foot stool, offer a foot scraper, receive bowl and robe, and massage one another’s backs when bathing.
 
-Monks deserving rehabilitation should do five things with regular monks according to seniority: the observance-day ceremony, the invitation ceremony, distributing rainy-season robes, meal invitations, and meals.
+bhikkhus deserving rehabilitation should do five things with regular bhikkhus according to seniority: the observance-day ceremony, the invitation ceremony, distributing rainy-season robes, meal invitations, and meals.
 
 
 And now I will lay down the proper conduct for a monk deserving rehabilitation.
@@ -1026,7 +1026,7 @@ He shouldn’t accuse a regular monk of an offense.
 He shouldn’t remind a regular monk of an offense.
 
 
-105He shouldn’t associate inappropriately with other monks.
+105He shouldn’t associate inappropriately with other bhikkhus.
 
 He shouldn’t walk in front of a regular monk.
 
@@ -1045,61 +1045,61 @@ He shouldn’t undertake the practice of eating only almsfood.
 He shouldn’t have someone bring back almsfood for him because he doesn’t want others to know about his status.
 
 
-107He shouldn’t go from a monastery with monks to one without monks, except together with a regular monk or if there are dangers.
+107He shouldn’t go from a monastery with bhikkhus to one without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
+He shouldn’t go from a non-monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He shouldn’t go from a non-monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
-
-
-108He shouldn’t go from a monastery or non-monastery with monks to a monastery without monks, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a monastery or non-monastery with monks to a non-monastery without monks, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a monastery or non-monastery with monks to a monastery or non-monastery without monks, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a monastery with monks to one with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a non-monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a monastery or non-monastery with monks to a monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a monastery or non-monastery with monks to a non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He shouldn’t go from a monastery or non-monastery with monks to a monastery or non-monastery with monks who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
-
-He may go from a monastery with monks to one with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
-
-He may go from a monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
-
-He may go from a monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
-
-He may go from a non-monastery with monks to a monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
-
-He may go from a non-monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
-
-He may go from a non-monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He shouldn’t go from a non-monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
 
-109He may go from a monastery or non-monastery with monks to a monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+108He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He may go from a monastery or non-monastery with monks to a non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
 
-He may go from a monastery or non-monastery with monks to a monastery or non-monastery with monks who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery without bhikkhus, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a monastery with bhikkhus to one with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He shouldn’t go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to a different Buddhist sect, except together with a regular monk or if there are dangers.
+
+He may go from a monastery with bhikkhus to one with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+He may go from a monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+He may go from a monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+He may go from a non-monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+He may go from a non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+He may go from a non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+
+109He may go from a monastery or non-monastery with bhikkhus to a monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+He may go from a monastery or non-monastery with bhikkhus to a non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
+
+He may go from a monastery or non-monastery with bhikkhus to a monastery or non-monastery with bhikkhus who belong to the same Buddhist sect if he knows he’ll be able to arrive on the same day.
 
 
 110He shouldn’t, in a monastery, stay in the same room as a regular monk.
@@ -1165,7 +1165,7 @@ In this chapter there are five topics.
 This is the summary:
 
 115“Those on probation consented to  
-The regular monks  
+The regular bhikkhus  
 Bowing down to them, standing up,  
 And raising their joint palms, acting respectfully.
 
@@ -1187,7 +1187,7 @@ And just so attending on.
 119Wilderness, alms, bringing back,  
 About new arrivals, on the observance day;  
 On the invitation day, by messenger,  
-And he may go to a place with monks.
+And he may go to a place with bhikkhus.
 
 120And in the same room, getting up,  
 And just so he should invite;  

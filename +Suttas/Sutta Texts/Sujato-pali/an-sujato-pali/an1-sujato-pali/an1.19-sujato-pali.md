@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that prevents restlessness and remorse from arising, or, when they have arisen, gives them up like peace of mind. When your mind is peaceful, restlessness and remorse do not arise, or, if they’ve already arisen, they’re given up.”
+1“bhikkhus, I do not see a single thing that prevents restlessness and remorse from arising, or, when they have arisen, gives them up like peace of mind. When your mind is peaceful, restlessness and remorse do not arise, or, if they’ve already arisen, they’re given up.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannaṁ vā uddhaccakukkuccaṁ nuppajjati uppannaṁ vā uddhaccakukkuccaṁ pahīyati yathayidaṁ, bhikkhave, cetaso vūpasamo. Vūpasantacittassa, bhikkhave, anuppannañceva uddhaccakukkuccaṁ nuppajjati uppannañca uddhaccakukkuccaṁ pahīyatī"ti.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are three failures. What three? Failure in ethics, mind, and view.
+1“bhikkhus, there are three failures. What three? Failure in ethics, mind, and view.
 
 2And what is failure in ethics? It’s when someone kills living creatures, steals, commits sexual misconduct, and uses speech that’s false, divisive, harsh, or nonsensical. This is called ‘failure in ethics’.
 

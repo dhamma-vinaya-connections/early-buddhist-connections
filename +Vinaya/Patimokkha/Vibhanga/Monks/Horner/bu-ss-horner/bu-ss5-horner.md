@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
 > ◄  [[bu-ss4-horner]] 📜  [[bu-ss6-horner]] ►
 
-# Monks’ Formal Meeting (_Saṅghādisesa_) 5
+# bhikkhus’ Formal Meeting (_Saṅghādisesa_) 5
 
 *Vin.3.135**BD.1.229* *Bu-Ss.5.1.1* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s park. At that time the venerable Udāyin was dependent on families at Sāvatthī, and he approached many families. When he saw a youth not (yet) a husband, or a young girl without a husband, he spoke in praise of the girl in the presence of the youth’s parents, saying: “The young girl of that family is beautiful, good to look upon, lovely, she is learned, accomplished, wise, clever, energetic. This young girl is suitable for that youth.”
 
@@ -73,15 +73,15 @@ But those women who were happy with their mothers-in-law, with their fathers-in-
 
 * * *
 
-*Bu-Ss.5.1.5* The monks heard some women denouncing, some women praying. Then those who were modest monks became annoyed, vexed, angry and said: “How can the venerable Udāyin act as a go-between?”[^15] Then these monks told this matter to the lord. Then the lord on this occasion, for this reason, having had the company of monks convened, questioned the venerable Udāyin, saying:
+*Bu-Ss.5.1.5* The bhikkhus heard some women denouncing, some women praying. Then those who were modest bhikkhus became annoyed, vexed, angry and said: “How can the venerable Udāyin act as a go-between?”[^15] Then these bhikkhus told this matter to the lord. Then the lord on this occasion, for this reason, having had the company of bhikkhus convened, questioned the venerable Udāyin, saying:
 
 *BD.1.234* “Is it true, as is said, Udāyin, that you acted as a go-between?”
 
 “It is true, lord,” he said.
 
-Then the enlightened one, the lord, rebuked him, saying: “How could you, foolish man, act as a go-between? That is not, foolish man, for the benefit of unbelievers … Thus, monks, this course of training should be set forth: *Vin.3.138*
+Then the enlightened one, the lord, rebuked him, saying: “How could you, foolish man, act as a go-between? That is not, foolish man, for the benefit of unbelievers … Thus, bhikkhus, this course of training should be set forth: *Vin.3.138*
 
-“Whatever monk should act as a go-between for a woman with a man in mind or for a man with a woman in mind, whether as a wife or as a mistress, that is an offence entailing a formal meeting of the Order.”
+“Whatever bhikkhu should act as a go-between for a woman with a man in mind or for a man with a woman in mind, whether as a wife or as a mistress, that is an offence entailing a formal meeting of the Order.”
 
 * * *
 
@@ -109,21 +109,21 @@ Then these men of abandoned life, taking this harlot, went to the pleasure grove
 
 * * *
 
-*Bu-Ss.5.2.2* Then that lay-follower became annoyed, vexed, angry, saying: “How can master Udāyin act as a go-between for a temporary wife?”[^18] The monks heard that lay-follower who was annoyed, vexed, angry. Those who were modest monks became annoyed, vexed, angry, saying: “How can the venerable Udāyin act as a go-between for a temporary wife?” Then these monks *Vin.3.139* told this matter to the lord.
+*Bu-Ss.5.2.2* Then that lay-follower became annoyed, vexed, angry, saying: “How can master Udāyin act as a go-between for a temporary wife?”[^18] The bhikkhus heard that lay-follower who was annoyed, vexed, angry. Those who were modest bhikkhus became annoyed, vexed, angry, saying: “How can the venerable Udāyin act as a go-between for a temporary wife?” Then these bhikkhus *Vin.3.139* told this matter to the lord.
 
 “Is it true, as they say, Udāyin, that you acted as a go-between for a temporary wife?”
 
 “It is true, lord,” he said.
 
-The enlightened one, the lord, rebuked him, saying: “How can you, foolish man, act as a go-between for a temporary wife? It is not, foolish man, for the benefit of unbelievers … Thus, monks, this course of training should be set forth:
+The enlightened one, the lord, rebuked him, saying: “How can you, foolish man, act as a go-between for a temporary wife? It is not, foolish man, for the benefit of unbelievers … Thus, bhikkhus, this course of training should be set forth:
 
-“Whatever monk should act as a go-between for a woman with a man in mind, or for a man with a woman *BD.1.236* in mind whether as a wife or as a mistress or even as a temporary wife, there is an offence entailing a formal meeting of the Order.”
+“Whatever bhikkhu should act as a go-between for a woman with a man in mind, or for a man with a woman *BD.1.236* in mind whether as a wife or as a mistress or even as a temporary wife, there is an offence entailing a formal meeting of the Order.”
 
 * * *
 
 *Bu-Ss.5.3.1* Whatever means: he who …
 
-Monk means: … thus monk is to be understood in this meaning.
+bhikkhu means: … thus bhikkhu is to be understood in this meaning.
 
 Should act as a go-between means: either sent by a woman he goes into a man’s presence, or sent by a man he goes into a woman’s presence.
 
@@ -191,13 +191,13 @@ A temporary wife means: a wife for a moment.
 
 * * *
 
-*Bu-Ss.5.4.4* A man sends a monk saying: “Go, honoured sir, to such a one protected by the mother, and explain: ‘He *BD.1.239* says become the wife of such a one bought for money.’”If he accepts, examines and brings back, it is an offence entailing a formal meeting of the Order.
+*Bu-Ss.5.4.4* A man sends a bhikkhu saying: “Go, honoured sir, to such a one protected by the mother, and explain: ‘He *BD.1.239* says become the wife of such a one bought for money.’”If he accepts, examines and brings back, it is an offence entailing a formal meeting of the Order.
 
 A man … protected by the father, explain: … protected by a stick, explain … a formal meeting of the Order.
 
 The steps in the composition
 
-A man sends a monk saying: “Go, sir, to such and such a one protected by the mother, protected by the father and say: ‘He says, become the wife of so-and-so bought with money.’” If he accepts … formal meeting of the Order.
+A man sends a bhikkhu saying: “Go, sir, to such and such a one protected by the mother, protected by the father and say: ‘He says, become the wife of so-and-so bought with money.’” If he accepts … formal meeting of the Order.
 
 A man … protected by the mother and protected by the parents … protected by the mother and protected by a stick … formal meeting of the Order.
 
@@ -213,21 +213,21 @@ Told is that beginning with one
 
 That beginning with two and that beginning with three up to that beginning with nine should be done in the same way. This is that beginning with ten:
 
-A man sends a monk saying: “Go, sir, to such a one protected by the mother and protected by the father … and protected by a stick, and explain: ‘He says, become …’” … a formal meeting of the Order.
+A man sends a bhikkhu saying: “Go, sir, to such a one protected by the mother and protected by the father … and protected by a stick, and explain: ‘He says, become …’” … a formal meeting of the Order.
 
 Told is the series about women bought with money
 
 * * *
 
-*Bu-Ss.5.4.5* A man sends a monk, saying: “Go, honoured sir, to such a one protected by the mother, and explain: ‘He says, become the wife kept for passion of such a man … the kept woman … the temporary wife.’”If he accepts … a formal meeting of the Order.
+*Bu-Ss.5.4.5* A man sends a bhikkhu, saying: “Go, honoured sir, to such a one protected by the mother, and explain: ‘He says, become the wife kept for passion of such a man … the kept woman … the temporary wife.’”If he accepts … a formal meeting of the Order.
 
-A man sends a monk, saying: “Go, honoured sir, to such a *BD.1.240* woman *Vin.3.141* protected by the mother and protected by the father … and protected by a stick, and explain: ‘… a temporary wife.’” If he accepts … formal meeting of the Order.
+A man sends a bhikkhu, saying: “Go, honoured sir, to such a *BD.1.240* woman *Vin.3.141* protected by the mother and protected by the father … and protected by a stick, and explain: ‘… a temporary wife.’” If he accepts … formal meeting of the Order.
 
 Told is the series on the woman who is a temporary wife
 
 * * *
 
-*Bu-Ss.5.4.6* A man sends a monk saying: “Go, honoured sir, explain to so-and-so protected by the mother: ‘He says, become the wife bought by money of such and such a man,’” If he accepts, examines her, brings back, it is an offence entailing a formal meeting of the Order.
+*Bu-Ss.5.4.6* A man sends a bhikkhu saying: “Go, honoured sir, explain to so-and-so protected by the mother: ‘He says, become the wife bought by money of such and such a man,’” If he accepts, examines her, brings back, it is an offence entailing a formal meeting of the Order.
 
 A man … ‘the wife kept for passion’ … ‘the kept woman’ … ‘the temporary wife’ … formal meeting of the Order.
 
@@ -235,11 +235,11 @@ The steps of composition
 
 This is that beginning with ten:
 
-A man sends a monk, saying: “Go, honoured sir, explain to so-and-so protected by a stick: ‘He says, become the wife of so-and-so, bought by money, and kept for passion and … and the temporary wife’” … formal meeting of the Order.
+A man sends a bhikkhu, saying: “Go, honoured sir, explain to so-and-so protected by a stick: ‘He says, become the wife of so-and-so, bought by money, and kept for passion and … and the temporary wife’” … formal meeting of the Order.
 
 * * *
 
-*Bu-Ss.5.4.7* A man sends a monk saying: “Go, honoured sir, explain to so-and-so protected by the mother: ‘It is said, become the wife bought by money of so-and-so.’” … a formal meeting of the Order.
+*Bu-Ss.5.4.7* A man sends a bhikkhu saying: “Go, honoured sir, explain to so-and-so protected by the mother: ‘It is said, become the wife bought by money of so-and-so.’” … a formal meeting of the Order.
 
 A man … “to so-and-so protected by the mother and protected by the father, explain: ‘It is said, become the wives and so-and-so, bought by money and kept for passion, and …’” … a formal meeting of the Order.
 
@@ -247,39 +247,39 @@ A man … “to so-and-so protected by the mother and protected by the father an
 
 Increase from both (ends) is to be made thus:
 
-A man sends a monk saying: “Go, honoured sir, to so-and-so protected by the mother and protected by the father and … and protected by a stick and explain: ‘He says, become the wives of so-and-so, bought by money, and kept for passion … and temporary wives.’” … a formal meeting of the Order.
+A man sends a bhikkhu saying: “Go, honoured sir, to so-and-so protected by the mother and protected by the father and … and protected by a stick and explain: ‘He says, become the wives of so-and-so, bought by money, and kept for passion … and temporary wives.’” … a formal meeting of the Order.
 
 Told is the increase from both (ends)
 
 * * *
 
-*Bu-Ss.5.4.8* *BD.1.241* The mother of a man sent a monk … the father of a man sent a monk … the parents of a man sent a monk … the brother of a man sent a monk … the sister of a man sent a monk … the relations of a man sent a monk … the clansmen of a man sent *Vin.3.142* a monk … the co-religionists of a man sent a monk.
+*Bu-Ss.5.4.8* *BD.1.241* The mother of a man sent a bhikkhu … the father of a man sent a bhikkhu … the parents of a man sent a bhikkhu … the brother of a man sent a bhikkhu … the sister of a man sent a bhikkhu … the relations of a man sent a bhikkhu … the clansmen of a man sent *Vin.3.142* a bhikkhu … the co-religionists of a man sent a bhikkhu.
 
 * * *
 
-*Bu-Ss.5.4.9* The mother of (a girl) protected by the mother sent a monk, saying: “Go, honoured sir, explain to so-and-so: ‘Let her be the wife, bought by money, of so-and-so …’” … formal meeting of the Order.
+*Bu-Ss.5.4.9* The mother of (a girl) protected by the mother sent a bhikkhu, saying: “Go, honoured sir, explain to so-and-so: ‘Let her be the wife, bought by money, of so-and-so …’” … formal meeting of the Order.
 
-The mother of (a girl) protected by the mother sent a monk, saying: “Go, honoured sir … be the wife kept for passion … the temporary wife …” … a formal meeting of the Order.
+The mother of (a girl) protected by the mother sent a bhikkhu, saying: “Go, honoured sir … be the wife kept for passion … the temporary wife …” … a formal meeting of the Order.
 
 The steps in the composition
 
 This is that beginning with ten:
 
-The mother of (a girl) protected by the mother sent a monk, saying: “Go, honoured sir, explain to so-and-so: ‘Let her be the wife of so-and-so bought by money and the wife kept for passion and … and the temporary wife …’” … a formal meeting of the Order.
+The mother of (a girl) protected by the mother sent a bhikkhu, saying: “Go, honoured sir, explain to so-and-so: ‘Let her be the wife of so-and-so bought by money and the wife kept for passion and … and the temporary wife …’” … a formal meeting of the Order.
 
 * * *
 
-*Bu-Ss.5.4.10* The father of (a girl) protected by the father sent a monk … the parents of (a girl) protected by the parents sent a monk … the brother of (a girl) protected by the brother sent a monk … the sister of (a girl) protected by the sister sent a monk … the relations of (a girl) protected by the relations sent a monk … the co-religionists of (a girl) protected by _dhamma_ sent a monk … one who was appropriated with protection sent a monk … one who has put a stick, for protection with a stick, sent a monk, saying: “Go, honoured sir, explain to so-and-so: ‘Be the wife of so-and-so bought with money … be the wife of so-and-so bought with money and the wife kept for passion … and the temporary wife.’” … a formal meeting of the Order.
+*Bu-Ss.5.4.10* The father of (a girl) protected by the father sent a bhikkhu … the parents of (a girl) protected by the parents sent a bhikkhu … the brother of (a girl) protected by the brother sent a bhikkhu … the sister of (a girl) protected by the sister sent a bhikkhu … the relations of (a girl) protected by the relations sent a bhikkhu … the co-religionists of (a girl) protected by _dhamma_ sent a bhikkhu … one who was appropriated with protection sent a bhikkhu … one who has put a stick, for protection with a stick, sent a bhikkhu, saying: “Go, honoured sir, explain to so-and-so: ‘Be the wife of so-and-so bought with money … be the wife of so-and-so bought with money and the wife kept for passion … and the temporary wife.’” … a formal meeting of the Order.
 
 * * *
 
-*Bu-Ss.5.4.11* One protected by the mother sent a monk, saying: “Go, honoured sir, explain to so-and-so: ‘I am the wife bought by money for so-and-so …’” … a formal meeting of the Order.
+*Bu-Ss.5.4.11* One protected by the mother sent a bhikkhu, saying: “Go, honoured sir, explain to so-and-so: ‘I am the wife bought by money for so-and-so …’” … a formal meeting of the Order.
 
 One protected by the mother … ‘the wife kept for passion … the temporary wife’ … formal meeting of the Order.
 
 The steps of composition
 
-If one protected by a stick sends a monk, saying: “Go, sir, explain to so-and-so: ‘I am the wife for so-and-so, bought with *BD.1.242* money … another wife kept for passion and and the temporary wife.’” If he accepts, examines, and brings back, it is an offence entailing a formal meeting of the Order.
+If one protected by a stick sends a bhikkhu, saying: “Go, sir, explain to so-and-so: ‘I am the wife for so-and-so, bought with *BD.1.242* money … another wife kept for passion and and the temporary wife.’” If he accepts, examines, and brings back, it is an offence entailing a formal meeting of the Order.
 
 Told is the whole abbreviated series
 
@@ -289,7 +289,7 @@ Told is the whole abbreviated series
 
 * * *
 
-*Bu-Ss.5.4.13* If a man enjoins many monks, saying: “Go, honoured sirs, examine such and such a woman,” and if they all accept, all examine and all bring back, it is an offence entailing a formal meeting of the Order for them all.
+*Bu-Ss.5.4.13* If a man enjoins many bhikkhus, saying: “Go, honoured sirs, examine such and such a woman,” and if they all accept, all examine and all bring back, it is an offence entailing a formal meeting of the Order for them all.
 
 If a man … “… examine such and such a woman,” and if they all accept, all examine, but if one makes them bring back, it is an offence entailing a formal meeting of the Order for them all.
 
@@ -299,13 +299,13 @@ If a man … “… examine such and such woman,” if all accept, but if one ma
 
 * * *
 
-*Bu-Ss.5.4.14* A man enjoins a monk: “Go, honoured sir, examine such and such a woman.” If he accepts, examines her and brings back, it is an offence entailing a formal meeting of the Order.
+*Bu-Ss.5.4.14* A man enjoins a bhikkhu: “Go, honoured sir, examine such and such a woman.” If he accepts, examines her and brings back, it is an offence entailing a formal meeting of the Order.
 
-A man enjoins a monk: “Go, honoured sir, examine such and such a woman.” If he accepts, examines her but makes a novice *BD.1.243* bring back, it is an offence entailing a formal meeting of the Order.
+A man enjoins a bhikkhu: “Go, honoured sir, examine such and such a woman.” If he accepts, examines her but makes a novice *BD.1.243* bring back, it is an offence entailing a formal meeting of the Order.
 
-A man enjoins a monk: “… such and such a woman.” If he accepts, makes a novice examine, but himself brings back, it is an offence entailing a formal meeting of the Order.
+A man enjoins a bhikkhu: “… such and such a woman.” If he accepts, makes a novice examine, but himself brings back, it is an offence entailing a formal meeting of the Order.
 
-A man enjoins a monk: “… such and such a woman.” If he accepts, makes a novice examine her, and the novice having examined, brings back alone,[^38] there is a grave offence for both.[^39]
+A man enjoins a bhikkhu: “… such and such a woman.” If he accepts, makes a novice examine her, and the novice having examined, brings back alone,[^38] there is a grave offence for both.[^39]
 
 * * *
 
@@ -322,29 +322,29 @@ unsexed woman, a female eunuch,
 She was reconciled after having quarrelled,  
 and did go-between for a eunuch.
 
-*BD.1.244* At one time a certain man *Vin.3.144* enjoined a certain monk: “Go, honoured sir, examine such and such a woman.” As he was going, he asked some people: “Where is so-and-so?”
+*BD.1.244* At one time a certain man *Vin.3.144* enjoined a certain bhikkhu: “Go, honoured sir, examine such and such a woman.” As he was going, he asked some people: “Where is so-and-so?”
 
-“She is asleep, honoured sir,” they said. He was remorseful, and said: “What now if I have fallen into an offence requiring a formal meeting of the Order.” He told this matter to the lord. He said: “Monk, this is not an offence requiring a formal meeting of the Order; it is an offence of wrong-doing.”
-
-* * *
-
-*Bu-Ss.5.5.2* At one time a certain man enjoined a certain monk, saying: “Go, honoured sir, examine such and such a woman.” As he was going he asked some people: “Where is so-and-so?” “She is dead, honoured sir,” they said … “She has gone out, honoured sir,” they said … “That is an unsexed woman, honoured sir.” … “That is a female eunuch,[^43] honoured sir,” they said. He was remorseful …“offence of wrong-doing.”
+“She is asleep, honoured sir,” they said. He was remorseful, and said: “What now if I have fallen into an offence requiring a formal meeting of the Order.” He told this matter to the lord. He said: “bhikkhu, this is not an offence requiring a formal meeting of the Order; it is an offence of wrong-doing.”
 
 * * *
 
-*Bu-Ss.5.5.3* At one time a certain woman, having quarrelled with her husband, went to her mother’s house. A monk, dependent on (her) family, effected a reconciliation. He was remorseful …
+*Bu-Ss.5.5.2* At one time a certain man enjoined a certain bhikkhu, saying: “Go, honoured sir, examine such and such a woman.” As he was going he asked some people: “Where is so-and-so?” “She is dead, honoured sir,” they said … “She has gone out, honoured sir,” they said … “That is an unsexed woman, honoured sir.” … “That is a female eunuch,[^43] honoured sir,” they said. He was remorseful …“offence of wrong-doing.”
 
-“Monk, is she not one to be told ‘enough’?”[^44]
+* * *
+
+*Bu-Ss.5.5.3* At one time a certain woman, having quarrelled with her husband, went to her mother’s house. A bhikkhu, dependent on (her) family, effected a reconciliation. He was remorseful …
+
+“bhikkhu, is she not one to be told ‘enough’?”[^44]
 
 “She is not one to be told ‘enough,’ lord.”
 
-“It is not an offence, monk, as she is not one to be told ‘enough’.”
+“It is not an offence, bhikkhu, as she is not one to be told ‘enough’.”
 
 * * *
 
-*Bu-Ss.5.5.4* *BD.1.245* At one time a certain monk acted as a go-between for a eunuch. He was remorseful. “What now if I have fallen into an offence requiring a formal meeting of the Order?” He told this matter to the lord.
+*Bu-Ss.5.5.4* *BD.1.245* At one time a certain bhikkhu acted as a go-between for a eunuch. He was remorseful. “What now if I have fallen into an offence requiring a formal meeting of the Order?” He told this matter to the lord.
 
-“Monk, it is not an offence requiring a formal meeting of the Order; it is a grave offence.”
+“bhikkhu, it is not an offence requiring a formal meeting of the Order; it is a grave offence.”
 
 Told is the Fifth Offence entailing a Formal Meeting of the Order
 
@@ -352,7 +352,7 @@ Told is the Fifth Offence entailing a Formal Meeting of the Order
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

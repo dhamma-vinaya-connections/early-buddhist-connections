@@ -15,15 +15,15 @@ language: "English"
 ## ## Moneyya Sutta
 
 
-“Monks, there are these three forms of sagacity. Which three? Bodily sagacity, verbal sagacity, & mental sagacity.
+“bhikkhus, there are these three forms of sagacity. Which three? Bodily sagacity, verbal sagacity, & mental sagacity.
 
-“And what is bodily sagacity? There is the case where a monk abstains from taking life, abstains from theft, abstains from uncelibacy. This is called bodily sagacity.
+“And what is bodily sagacity? There is the case where a bhikkhu abstains from taking life, abstains from theft, abstains from uncelibacy. This is called bodily sagacity.
 
-“And what is verbal sagacity? There is the case where a monk abstains from telling lies, abstains from divisive speech, abstains from harsh speech, abstains from idle chatter. This is called verbal sagacity.
+“And what is verbal sagacity? There is the case where a bhikkhu abstains from telling lies, abstains from divisive speech, abstains from harsh speech, abstains from idle chatter. This is called verbal sagacity.
 
-“And what is mental sagacity? There is the case where a monk who—with the ending of effluents—enters & remains in the effluent-free awareness-release & discernment-release, having directly known & realized it for himself right in the here & now. This is called mental sagacity.
+“And what is mental sagacity? There is the case where a bhikkhu who—with the ending of effluents—enters & remains in the effluent-free awareness-release & discernment-release, having directly known & realized it for himself right in the here & now. This is called mental sagacity.
 
-“These, monks, are the three forms of sagacity.”
+“These, bhikkhus, are the three forms of sagacity.”
 
 A sage in body, a sage in speech,
 

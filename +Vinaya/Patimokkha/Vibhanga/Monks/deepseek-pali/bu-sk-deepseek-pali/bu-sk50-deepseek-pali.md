@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 624. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū sitthāvakārakaṃ bhuñjanti…pe….
 
-## 624.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six monks were eating scattering grains of rice…and so on.
+## 624.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six bhikkhus were eating scattering grains of rice…and so on.
 
 ‘‘Na sitthāvakārakaṃ bhuñjissāmīti sikkhā karaṇīyā’’ti.
 

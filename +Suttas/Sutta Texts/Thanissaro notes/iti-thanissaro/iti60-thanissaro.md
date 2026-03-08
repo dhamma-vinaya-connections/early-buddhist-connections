@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 60
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three grounds for meritorious activity. Which three? The ground for meritorious activity made of generosity, the ground for meritorious activity made of virtue, and the ground for meritorious activity made of development [meditation]. These are the three grounds for meritorious activity.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three grounds for meritorious activity. Which three? The ground for meritorious activity made of generosity, the ground for meritorious activity made of virtue, and the ground for meritorious activity made of development [meditation]. These are the three grounds for meritorious activity.”
 
 Train in acts of merit
 

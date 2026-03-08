@@ -23,14 +23,14 @@ language: "Pali - English"
 
 “How could Venerable Thullanandā, after being pressed by the Sangha, say this to the nuns?” … :
 
-“Is it true, monks, that after being pressed by the Sangha, the nun Thullanandā said this to the nuns?”
+“Is it true, bhikkhus, that after being pressed by the Sangha, the nun Thullanandā said this to the nuns?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“How could the nun Thullanandā, after being pressed by the Sangha, say this to the nuns? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How could the nun Thullanandā, after being pressed by the Sangha, say this to the nuns? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -77,7 +77,7 @@ That nun, even if she has to be pulled into the Sangha, should be corrected like
 
 They should correct her a second and a third time. If she stops, all is well. If she does not stop, she commits an offense of wrong conduct.
 
-Should press her: “And, monks, she should be pressed like this. A competent and capable nun should inform the Sangha:
+Should press her: “And, bhikkhus, she should be pressed like this. A competent and capable nun should inform the Sangha:
 
 15‘Please, Venerables, I ask the Sangha to listen. The nun so-and-so, after being pressed by the Sangha, says this to the nuns, “Venerables, you should socialize. Don’t live separately. There are other nuns in the Sangha who have such behavior, reputation, and notoriety, and who harass the Sangha of nuns and hide each other’s offenses. The Sangha says nothing to them. It’s because of disrespect, contempt, impatience, and slander, and because you are weak that the Sangha says to you, ‘Sisters, you socialize, behave badly, have a bad reputation, are notorious, harass the Sangha of nuns, and hide each other’s offenses. Be secluded, Venerables. The Sangha praises seclusion for the Sisters.’” And she keeps on saying it. If it seems appropriate to the Sangha, the Sangha should press her to make her stop. This is the motion.
 

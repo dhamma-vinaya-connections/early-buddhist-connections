@@ -40,7 +40,7 @@ The Buddha then instructed, inspired, and gladdened King Pasenadi with a teachin
 3Soon afterwards King Pasenadi was up in his magnificent stilt house, when he saw that lay follower walking along the street, holding a sunshade. He summoned him and said: “You are a learned Buddhist, a master of the tradition. Please teach my harem.”
 
 
-“Whatever I know, sir, I know because of the monks. They should teach the harem.”
+“Whatever I know, sir, I know because of the bhikkhus. They should teach the harem.”
 
 Knowing that the lay follower was right, the King went to the Buddha, bowed, sat down, and said:
 
@@ -57,7 +57,7 @@ Soon afterwards, the Buddha said to Venerable Ānanda, “Well then, Ānanda, te
 Then, after robing up one the morning, Ānanda took his bowl and robe and went to King Pasenadi’s house.
 
 
-4On that occasion the King was in bed with Queen Mallikā. The Queen saw Ānanda coming and she quickly got up, but her burnished golden dressing gown fell off. Ānanda turned around right there and returned to the monastery. And he told the monks what had happened. The monks of few desires complained and criticized him:
+4On that occasion the King was in bed with Queen Mallikā. The Queen saw Ānanda coming and she quickly got up, but her burnished golden dressing gown fell off. Ānanda turned around right there and returned to the monastery. And he told the bhikkhus what had happened. The bhikkhus of few desires complained and criticized him:
 
 “How could Venerable Ānanda enter the royal compound without first being announced?” …
 
@@ -66,10 +66,10 @@ Then, after robing up one the morning, Ānanda took his bowl and robe and went t
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Ānanda, how could you do this? This will affect people’s confidence …” … Having rebuked him … the Buddha gave a teaching and addressed the monks:
+The Buddha rebuked him … “Ānanda, how could you do this? This will affect people’s confidence …” … Having rebuked him … the Buddha gave a teaching and addressed the bhikkhus:
 
 
-5“Monks, there are these ten dangers in entering a royal compound. What ten?
+5“bhikkhus, there are these ten dangers in entering a royal compound. What ten?
 
 It may be that a monk enters where the king is sitting with his queen. The queen smiles when she sees the monk or the monk smiles when he sees the queen. The king thinks, ‘Surely they’ve done it, or they’re going to.’
 
@@ -92,9 +92,9 @@ It may be that a monk enters where the king is sitting with his queen. The queen
 14Again, a royal compound is crowded with elephants, horses, and chariots, as well as enticing sights, sounds, smells, tastes, and tangibles that are not suitable for a monk.
 
 
-Monks, these are the ten dangers in entering a royal compound.”
+bhikkhus, these are the ten dangers in entering a royal compound.”
 
-Then, after rebuking Ānanda in many ways, the Buddha spoke in dispraise of being difficult to support … the Buddha said, “And, monks, this training rule should be recited like this:
+Then, after rebuking Ānanda in many ways, the Buddha spoke in dispraise of being difficult to support … the Buddha said, “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when you have wrong view, you can expect one of two destinies: hell or the animal realm.”
+1“bhikkhus, when you have wrong view, you can expect one of two destinies: hell or the animal realm.”
 
 1"Micchādiṭṭhikassa, bhikkhave, dvinnaṁ gatīnaṁ aññatarā gati pāṭikaṅkhā – nirayo vā tiracchānayoni vā"ti.
 

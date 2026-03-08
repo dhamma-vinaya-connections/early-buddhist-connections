@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were receiving almsfood while looking here and there, and they did not know whether people were still giving or whether they had received too much. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were receiving almsfood while looking here and there, and they did not know whether people were still giving or whether they had received too much. …
 
 #### Final ruling
 

@@ -7,25 +7,25 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
 > ◄  [[bu-pc61-horner]] 📜  [[bu-pc63-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 62
+# bhikkhus’ Expiation (_Pācittiya_) 62
 
-*Bu-Pc.62.1.1* *BD.3.3* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six monks knowingly made use of[^1] water that contained living things. Those who were modest monks … spread it about, saying:
+*Bu-Pc.62.1.1* *BD.3.3* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six bhikkhus knowingly made use of[^1] water that contained living things. Those who were modest bhikkhus … spread it about, saying:
 
-“How can this group of six monks knowingly make use of water that contains living things?” …
+“How can this group of six bhikkhus knowingly make use of water that contains living things?” …
 
-“Is it true, as is said, that you, monks, knowingly made use of water that contained living things?”
+“Is it true, as is said, that you, bhikkhus, knowingly made use of water that contained living things?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, knowingly make use of water that contains living things? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, knowingly make use of water that contains living things? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should knowingly make use of water that contains living things, there is an offence of expiation.”
+“Whatever bhikkhu should knowingly make use of water that contains living things, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.62.2.1* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.62.2.1* Whatever means: … bhikkhu is to be understood in this case.
 
 He knows means: he knows by himself or others tell him.[^2]
 
@@ -45,7 +45,7 @@ The Second *Vin.4.126*
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

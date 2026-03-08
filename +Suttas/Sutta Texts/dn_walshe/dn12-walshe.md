@@ -15,23 +15,23 @@ language: "English"
 
 Good and Bad Teachers
 
-\[224\] 1. THUS HAVE I HEARD. Once the Lord was touring Kosala with a large company of some five hundred monks, and, coming to Sālavatikā, he stayed there. And at that time the Brahmin Lohicca was living at Sālavatikā, a populous place, full of grass, timber, water and corn, which had been given to him by King Pasenadi of Kosala as a royal gift and with royal powers.
+\[224\] 1. THUS HAVE I HEARD. Once the Lord was touring Kosala with a large company of some five hundred bhikkhus, and, coming to Sālavatikā, he stayed there. And at that time the Brahmin Lohicca was living at Sālavatikā, a populous place, full of grass, timber, water and corn, which had been given to him by King Pasenadi of Kosala as a royal gift and with royal powers.
 
 2\. Just then this evil line of reasoning occurred to Lohicca: ‘Suppose an ascetic or Brahmin were to discover some good doctrine? having done so, he ought not to declare it to anyone else; for what can one man do for another? It is just as if a man, having cut through an old fetter, were to make a new one. I declare that such a thing is an evil deed rooted in attachment, for what can one man do for another?’
 
 3\. Then Lohicca heard it said that the ascetic Gotama had arrived at Salavatika, and that concerning the Blessed Lord Gotama a good report had been spread about... (as Sutta 4, verse 2). \[225\] ‘And indeed it is good to see such Arahants.’
 
-4\. And Lohicca said to Bhesika the barber: ‘Friend Bhesika, go to the ascetic Gotama, ask in my name after his health and then say: “May the Reverend Gotama consent to take tomorrow’s meal, with his order of monks, from the Brahmin Lohicca!’”
+4\. And Lohicca said to Bhesika the barber: ‘Friend Bhesika, go to the ascetic Gotama, ask in my name after his health and then say: “May the Reverend Gotama consent to take tomorrow’s meal, with his order of bhikkhus, from the Brahmin Lohicca!’”
 
 5\. ‘Very good, sir’, said Bhesika, and carried out the errand. The Lord signified his acceptance by silence.
 
 6\. Then Bhesika, understanding the Lord’s acceptance, rose from his seat and passed by with his right side to the Lord. He returned to Lohicca and told him \[226\] of the Lord’s acceptance.
 
-7\. And Lohicca, as the night was ending, had choice hard and soft foods prepared at his own home. Then he sent Bhesika to tell the Lord that the meal was ready. And the Lord, having risen early and taken his robe and bowl, went with his order of monks to Sālavatikā.
+7\. And Lohicca, as the night was ending, had choice hard and soft foods prepared at his own home. Then he sent Bhesika to tell the Lord that the meal was ready. And the Lord, having risen early and taken his robe and bowl, went with his order of bhikkhus to Sālavatikā.
 
 8\. And Bhesika the barber followed the Lord close at hand. And he said: ‘Lord, this evil thought has occurred to the Brahmin Lohicca...Truly, Lord, this is what the Brahmin Lohicca has been thinking.’ ‘It may well be so, Bhesika, it may well be so.’
 
-9\. So the Lord came to Lohicca’s dwelling, and sat down on \[227\] the prepared seat. Lohicca personally served the Buddha and his order of monks with choice hard and soft food till they were contented and satisfied. When the Lord had taken his hand from the bowl, Lohicca took a low stool and sat down to one side. Then the Lord said to him: ‘Lohicca, is it true that an evil line of reasoning has occurred to you ... (as verse 2)?’ ‘Yes, Reverend Gotama.’
+9\. So the Lord came to Lohicca’s dwelling, and sat down on \[227\] the prepared seat. Lohicca personally served the Buddha and his order of bhikkhus with choice hard and soft food till they were contented and satisfied. When the Lord had taken his hand from the bowl, Lohicca took a low stool and sat down to one side. Then the Lord said to him: ‘Lohicca, is it true that an evil line of reasoning has occurred to you ... (as verse 2)?’ ‘Yes, Reverend Gotama.’
 
 10\. ‘What do you think, Lohicca? Don’t you reside at Sālavatikā? ’ ‘Yes, Reverend Gotama.’ ‘Well now, if anyone should say: “The Brahmin Lohicca resides at Sālavatikā, and he should enjoy the entire fruits and revenues of Sālavatikā, not giving anything away to others” — would not anyone who spoke like that be a source of danger to your tenants?’ ‘He would be a source of danger, Reverend Gotama.’
 

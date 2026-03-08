@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the nuns gave the full admission to a woman who was breastfeeding. When she walked for alms, people said, “Give almsfood to the Venerable. She has a companion.” People complained and criticized them, “How can the nuns give the full admission to a woman who is breastfeeding?”
 
-2The nuns heard the complaints of those people and the nuns of few desires complained and criticized them, “How could nuns do this?” … “Is it true, monks, that nuns did this?”
+2The nuns heard the complaints of those people and the nuns of few desires complained and criticized them, “How could nuns do this?” … “Is it true, bhikkhus, that nuns did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How could nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

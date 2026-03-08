@@ -34,15 +34,15 @@ language: "English - Pali"
 
 (157)“There are these two ways of serving guests. What two? Serving guests with material things and serving guests with the teaching. These are the two ways of serving guests. The better of these two ways of serving guests is to serve them with the teaching.”
 
-(158)“There are, mendicants, these two successes. What two? Success in material things and success in the teaching. These are the two successes. The better of these two successes is success in the teaching.”.
+(158)“There are, bhikkhus, these two successes. What two? Success in material things and success in the teaching. These are the two successes. The better of these two successes is success in the teaching.”.
 
-(159)“There are, mendicants, these two kinds of growth. What two? Growth in material things and growth in the teaching. These are the two kinds of growth. The better of these two kinds of growth is growth in the teaching.”
+(159)“There are, bhikkhus, these two kinds of growth. What two? Growth in material things and growth in the teaching. These are the two kinds of growth. The better of these two kinds of growth is growth in the teaching.”
 
 (160)“There are these two treasures. What two? The treasure of material things and the treasure of the teaching. These are the two treasures. The better of these two treasures is the treasure of the teaching.”
 
 (161)“There are these two kinds of accumulation. What two? Accumulation of material things and accumulation of the teaching. These are the two kinds of accumulation. The better of these two kinds of accumulation is the accumulation of the teaching.”
 
-(162)“There are, mendicants, these two kinds of increase. What two? Increase in material things and increase in the teaching. These are the two kinds of increase. The better of these two kinds of increase is increase in the teaching.”
+(162)“There are, bhikkhus, these two kinds of increase. What two? Increase in material things and increase in the teaching. These are the two kinds of increase. The better of these two kinds of increase is increase in the teaching.”
 
 (151) “Dveme, bhikkhave, santhārā. Katame dve? Āmisasanthāro ca dhammasanthāro ca. Ime kho, bhikkhave, dve santhārā. Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ santhārānaṁ yadidaṁ dhammasanthāro”ti.
 

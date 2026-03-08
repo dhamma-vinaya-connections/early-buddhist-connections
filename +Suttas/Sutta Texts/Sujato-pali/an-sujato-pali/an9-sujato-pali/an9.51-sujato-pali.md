@@ -22,9 +22,9 @@ language: "English - Pali"
 
 1“Reverend, they speak of ‘extinguishment in the present life’. In what way did the Buddha speak of extinguishment in the present life?”
 
-2“First, take a mendicant who, quite secluded from sensual pleasures … enters and remains in the first jhāna. To this extent the Buddha spoke of extinguishment in the present life in a qualified sense. …
+2“First, take a bhikkhu who, quite secluded from sensual pleasures … enters and remains in the first jhāna. To this extent the Buddha spoke of extinguishment in the present life in a qualified sense. …
 
-3Furthermore, take a mendicant who, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end. To this extent the Buddha spoke of extinguishment in the present life in a definitive sense.”
+3Furthermore, take a bhikkhu who, going totally beyond the dimension of neither perception nor non-perception, enters and remains in the cessation of perception and feeling. And, having seen with wisdom, their defilements come to an end. To this extent the Buddha spoke of extinguishment in the present life in a definitive sense.”
 
 1"‘Diṭṭhadhammanibbānaṁ diṭṭhadhammanibbānan’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso, diṭṭhadhammanibbānaṁ vuttaṁ bhagavatā"ti?
 

@@ -7,25 +7,25 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP3]]
 > ◄  [[bu-np2-horner]] 📜  [[bu-np4-horner]] ►
 
-# Monks’ Forfeiture (_Nissaggiya_) 3
+# bhikkhus’ Forfeiture (_Nissaggiya_) 3
 
-*Bu-NP.3.1.1* *BD.2.24* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. At that time a robe[^1] accrued to[^2] a certain monk not at the right time.[^3] The robe, as they made it, did not suffice for him. Then *Vin.3.203* that monk, pulling out that robe, smoothed it again and again.[^4] The lord, as he was engaged in touring the lodgings, saw this monk pulling out this robe and smoothing it again and again, and seeing him he approached this monk, and having approached he said to this monk:
+*Bu-NP.3.1.1* *BD.2.24* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. At that time a robe[^1] accrued to[^2] a certain bhikkhu not at the right time.[^3] The robe, as they made it, did not suffice for him. Then *Vin.3.203* that bhikkhu, pulling out that robe, smoothed it again and again.[^4] The lord, as he was engaged in touring the lodgings, saw this bhikkhu pulling out this robe and smoothing it again and again, and seeing him he approached this bhikkhu, and having approached he said to this bhikkhu:
 
-“Why, monk, do you, pulling out this robe, smooth it again and again?”
+“Why, bhikkhu, do you, pulling out this robe, smooth it again and again?”
 
 “Lord, this robe which accrued to me not at the right time, as they made it does not suffice for me, therefore do I, pulling out this robe, smooth it again and again.”
 
-“But, monk, is there for you an expectation of a robe?”[^5]
+“But, bhikkhu, is there for you an expectation of a robe?”[^5]
 
 “There is, lord,” he said.
 
-Then the lord on this occasion, in this connection, having given reasoned talk, addressed the monks, saying:
+Then the lord on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying:
 
-“Monks, I allow you, having accepted a robe not at the right time, to lay it aside in the expectation of a robe.”[^6]
+“bhikkhus, I allow you, having accepted a robe not at the right time, to lay it aside in the expectation of a robe.”[^6]
 
 * * *
 
-*Bu-NP.3.1.2* *BD.2.25* Then monks said: “It is allowed by the lord, if a robe has been accepted not at the right time, to lay it aside in the expectation of a robe.” These, accepting robes not at the right time, laid them aside for more than a month. These robes, tied up in bundles, remained on a bamboo for hanging up robes.[^7] Then the venerable Ānanda, as he was engaged in touring the lodgings, saw these robes tied up in bundles that remained on the bamboo for hanging up robes. Seeing them, he addressed the monks thus:
+*Bu-NP.3.1.2* *BD.2.25* Then bhikkhus said: “It is allowed by the lord, if a robe has been accepted not at the right time, to lay it aside in the expectation of a robe.” These, accepting robes not at the right time, laid them aside for more than a month. These robes, tied up in bundles, remained on a bamboo for hanging up robes.[^7] Then the venerable Ānanda, as he was engaged in touring the lodgings, saw these robes tied up in bundles that remained on the bamboo for hanging up robes. Seeing them, he addressed the bhikkhus thus:
 
 “Your reverences, whose are these robes, tied up in bundles, that remain on the bamboo for hanging up robes?”
 
@@ -35,17 +35,17 @@ Then the lord on this occasion, in this connection, having given reasoned talk, 
 
 “For more than a month, your reverence,” they said. Then the venerable Ānanda looked down upon, criticised, spread it about, saying:
 
-“How can these monks, having accepted robe-material not at the right time, lay it aside for more than a month?”
+“How can these bhikkhus, having accepted robe-material not at the right time, lay it aside for more than a month?”
 
 Then the venerable Ānanda told this matter to the lord. He said:
 
-“Is it true, as is said, monks, that monks having accepted robe-material not at the right time, laid it aside for more than a month?” “It is true, lord,” they said.
+“Is it true, as is said, bhikkhus, that bhikkhus having accepted robe-material not at the right time, laid it aside for more than a month?” “It is true, lord,” they said.
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can these foolish men, having accepted robe-material not at the right time, lay it aside for more than a month? It is not, monks, for pleasing those who are not (yet) pleased … And thus also, monks, this rule of training should be set forth:
+“How, bhikkhus, can these foolish men, having accepted robe-material not at the right time, lay it aside for more than a month? It is not, bhikkhus, for pleasing those who are not (yet) pleased … And thus also, bhikkhus, this rule of training should be set forth:
 
-“When the robe-material is settled, when a monk’s *BD.2.26* _kaṭhina_ (privileges) have been removed, if robe-material should accrue to the monk not at the right time, it may be accepted by that monk if he so wish. Having accepted it, it should be made up quickly. But if it is not sufficient for him, that robe-material may be laid aside by that monk for a month at most, should he have any expectation that the deficiency may be supplied.[^8] If he should lay it aside for longer than that, even with the expectation (of the deficiency being supplied), there is an offence of expiation involving forfeiture.” *Vin.3.204*
+“When the robe-material is settled, when a bhikkhu’s *BD.2.26* _kaṭhina_ (privileges) have been removed, if robe-material should accrue to the bhikkhu not at the right time, it may be accepted by that bhikkhu if he so wish. Having accepted it, it should be made up quickly. But if it is not sufficient for him, that robe-material may be laid aside by that bhikkhu for a month at most, should he have any expectation that the deficiency may be supplied.[^8] If he should lay it aside for longer than that, even with the expectation (of the deficiency being supplied), there is an offence of expiation involving forfeiture.” *Vin.3.204*
 
 * * *
 
@@ -61,7 +61,7 @@ Having accepted it, it should be made up quickly means: it should be made up wit
 
 But if it is not sufficient for him means: if it is not enough to be worn.
 
-That robe-material may be laid aside by that monk for a month at most[^13] means: it may be laid aside for a month at the maximum.[^14]
+That robe-material may be laid aside by that bhikkhu for a month at most[^13] means: it may be laid aside for a month at the maximum.[^14]
 
 That the deficiency may be supplied means: for the sake of supplying the deficiency.
 
@@ -69,7 +69,7 @@ Any expectation means: there is expectation from the Order or from a group or fr
 
 * * *
 
-*Bu-NP.3.2.2* If he should lay it aside for longer than that, even with the expectation (of the deficiency being supplied) means: if a robe that was expected accrues on the very day that the first robe[^16] accrues, he should have it made up within ten days. … If a robe that was expected accrues two days … three days … four days … five days … six days … seven days … eight days … nine days … ten days after the first robe accrues, he should have it made up within ten days. If a robe that was expected accrues eleven days … twelve days … thirteen days … fourteen days … fifteen days … sixteen days … seventeen days … eighteen *BD.2.28* days … nineteen days … twenty days after the first robe accrues, he should have it made up within ten days … twenty-one days after the first robe accrues, he should have it made up within nine days … twenty-two … twenty-three … twenty-four … twenty-five … twenty-six days after the first robe accrues, he should have it made up within four days. If a robe that was expected accrues twenty-seven … twenty-eight … twenty-nine days … he should have it made up within one day. If a robe that was expected accrues thirty days after the first robe accrues, on that same day it should be allotted, assigned, bestowed. But should it not be allotted or assigned or bestowed, it is to be forfeited on the thirty-first day at sunrise; *Vin.3.205* it should be forfeited to the Order, or to a group, or to an individual. And thus, monks, should it be forfeited: … ‘This robe, honoured sirs, (given) not at the right time, is to be forfeited by me, the month having elapsed. I forfeit it to the Order.’ … ‘The Order should give back … let the venerable ones give back … I will give back this robe to the venerable one.’
+*Bu-NP.3.2.2* If he should lay it aside for longer than that, even with the expectation (of the deficiency being supplied) means: if a robe that was expected accrues on the very day that the first robe[^16] accrues, he should have it made up within ten days. … If a robe that was expected accrues two days … three days … four days … five days … six days … seven days … eight days … nine days … ten days after the first robe accrues, he should have it made up within ten days. If a robe that was expected accrues eleven days … twelve days … thirteen days … fourteen days … fifteen days … sixteen days … seventeen days … eighteen *BD.2.28* days … nineteen days … twenty days after the first robe accrues, he should have it made up within ten days … twenty-one days after the first robe accrues, he should have it made up within nine days … twenty-two … twenty-three … twenty-four … twenty-five … twenty-six days after the first robe accrues, he should have it made up within four days. If a robe that was expected accrues twenty-seven … twenty-eight … twenty-nine days … he should have it made up within one day. If a robe that was expected accrues thirty days after the first robe accrues, on that same day it should be allotted, assigned, bestowed. But should it not be allotted or assigned or bestowed, it is to be forfeited on the thirty-first day at sunrise; *Vin.3.205* it should be forfeited to the Order, or to a group, or to an individual. And thus, bhikkhus, should it be forfeited: … ‘This robe, honoured sirs, (given) not at the right time, is to be forfeited by me, the month having elapsed. I forfeit it to the Order.’ … ‘The Order should give back … let the venerable ones give back … I will give back this robe to the venerable one.’
 
 * * *
 
@@ -83,7 +83,7 @@ Any expectation means: there is expectation from the Order or from a group or fr
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

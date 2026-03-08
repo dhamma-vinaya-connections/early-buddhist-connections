@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to skillful qualities, or makes unskillful qualities decline like good friends. When you have good friends, skillful qualities arise and unskillful qualities decline.”
+1“bhikkhus, I do not see a single thing that gives rise to skillful qualities, or makes unskillful qualities decline like good friends. When you have good friends, skillful qualities arise and unskillful qualities decline.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannā vā kusalā dhammā uppajjanti uppannā vā akusalā dhammā parihāyanti yathayidaṁ, bhikkhave, kalyāṇamittatā. Kalyāṇamittassa, bhikkhave, anuppannā ceva kusalā dhammā uppajjanti uppannā ca akusalā dhammā parihāyantī"ti.
 

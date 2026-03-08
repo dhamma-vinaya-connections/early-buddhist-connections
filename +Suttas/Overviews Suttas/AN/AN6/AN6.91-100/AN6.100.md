@@ -44,10 +44,10 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant on the path cannot see any condition as permanent, pleasant nor self
+> A bhikkhu on the path cannot see any condition as permanent, pleasant nor self
 
 > [!info] Key Excerpts 
-> It’s totally impossible for a mendicant who regards any condition as permanent, pleasant or self or nibbana as suffering to accept views that agree with the teaching.
+> It’s totally impossible for a bhikkhu who regards any condition as permanent, pleasant or self or nibbana as suffering to accept views that agree with the teaching.
 > 
 > Without accepting views that agree with the teaching, it’s impossible to enter the sure path with regards to skillful qualities. Without entering the sure path, it’s impossible to realize the fruit of stream-entry, once-return, non-return, or perfection
 > 

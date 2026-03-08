@@ -16,18 +16,18 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were sitting on low seats while giving teachings to people sitting on high seats.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were sitting on low seats while giving teachings to people sitting on high seats.
 
-2The monks of few desires complained and criticized them, “How can the monks from the group of six sit on low seats while giving teachings to people sitting on high seats?” …
+2The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six sit on low seats while giving teachings to people sitting on high seats?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
-3“Once upon a time in Bārāṇasī, monks, there was a low-caste man whose wife became pregnant. She said to him, ‘I’m pregnant. I crave mangoes.’
+3“Once upon a time in Bārāṇasī, bhikkhus, there was a low-caste man whose wife became pregnant. She said to him, ‘I’m pregnant. I crave mangoes.’
 
 ‘But there are no mangoes. It’s the wrong season.’
 
@@ -66,7 +66,7 @@ Other beings will do the cooking;
 Don’t go against the Teaching,  
 Because you’ll break like a jar.’
 
-8Even at that time, monks, I was displeased by someone teaching the Vedas while sitting on a low seat to someone sitting on a high seat. How, then, could it not be displeasing now? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+8Even at that time, bhikkhus, I was displeased by someone teaching the Vedas while sitting on a low seat to someone sitting on a high seat. How, then, could it not be displeasing now? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

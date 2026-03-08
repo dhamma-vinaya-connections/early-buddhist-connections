@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those who have neglected mindfulness of the body have neglected the deathless. Those who have not neglected mindfulness of the body have not neglected the deathless.”
+1“bhikkhus, those who have neglected mindfulness of the body have neglected the deathless. Those who have not neglected mindfulness of the body have not neglected the deathless.”
 
 1"Amataṁ te, bhikkhave, pamādiṁsu ye kāyagatāsatiṁ pamādiṁsu. Amataṁ te, bhikkhave, na pamādiṁsu ye kāyagatāsatiṁ na pamādiṁsu".
 

@@ -19,23 +19,23 @@ I have heard that on one occasion the Blessed One was staying near Rājagaha at 
 
 Then a certain devatā, in the far extreme of the night, her extreme radiance lighting up the entire Tapodā Hot Springs, went to Ven. Samiddhi and, on arrival, stood to one side.
 
-As she was standing there, she said to him, “Monk, have you memorized the summary & analysis of the auspicious day?”
+As she was standing there, she said to him, “bhikkhu, have you memorized the summary & analysis of the auspicious day?”
 
 “No, friend, I haven’t memorized the summary & analysis of the auspicious day. Have _you_ memorized the summary & analysis of the auspicious day?”
 
-“No, monk, I, too, haven’t memorized the summary & analysis of the auspicious day. Have you memorized the verses of the auspicious day?
+“No, bhikkhu, I, too, haven’t memorized the summary & analysis of the auspicious day. Have you memorized the verses of the auspicious day?
 
 “No, friend, I haven’t memorized the verses of the auspicious day. Have you memorized the verses of the auspicious day?”
 
-“No, monk, I, too, haven’t memorized the verses of the auspicious day.
+“No, bhikkhu, I, too, haven’t memorized the verses of the auspicious day.
 
-“Learn the summary & analysis of the auspicious day, monk. Master the summary & analysis of the auspicious day, monk. Remember the summary & analysis of the auspicious day, monk. Connected with the goal are the summary & analysis of the auspicious day, monk, and basic to the holy life.”
+“Learn the summary & analysis of the auspicious day, bhikkhu. Master the summary & analysis of the auspicious day, bhikkhu. Remember the summary & analysis of the auspicious day, bhikkhu. Connected with the goal are the summary & analysis of the auspicious day, bhikkhu, and basic to the holy life.”
 
 That is what the devatā said. Having said it, she vanished right there.
 
 Then, when night had ended, Ven. Samiddhi went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, he [told the Blessed One what had happened, adding:] “It would be good, lord, if you would teach me the summary & analysis of the auspicious day.”
 
-“In that case, monk, listen well & pay close attention. I will speak.”
+“In that case, bhikkhu, listen well & pay close attention. I will speak.”
 
 “As you say, lord,” Ven. Samiddhi responded to the Blessed One.
 
@@ -69,7 +69,7 @@ has truly had an auspicious day:
 
 That is what the Blessed One said. Having said it, the One Well-Gone got up from his seat and went into his dwelling.
 
-Then, not long after the Blessed One had left, this thought occurred to the monks: “This brief statement the Blessed One made, after which he went into his dwelling without analyzing the detailed meaning—
+Then, not long after the Blessed One had left, this thought occurred to the bhikkhus: “This brief statement the Blessed One made, after which he went into his dwelling without analyzing the detailed meaning—
 
 ‘You shouldn’t chase after the past
 or place expectations on the future.
@@ -99,7 +99,7 @@ has truly had an auspicious day:
 
 “Now who might analyze the unanalyzed detailed meaning of this brief statement?” Then the thought occurred to them, “Ven. Mahā Kaccāna is praised by the Teacher and esteemed by his observant companions in the holy life. He is capable of analyzing the unanalyzed detailed meaning of this brief statement. Suppose we were to go to him and, on arrival, cross-question him about this matter.”
 
-So the monks went to Ven. Mahā Kaccāna and, on arrival exchanged courteous greetings with him. After an exchange of friendly greetings & courtesies, they sat to one side. As they were sitting there, they [told him what had happened, and added,] “Analyze the meaning, Ven. Mahā Kaccāna!”
+So the bhikkhus went to Ven. Mahā Kaccāna and, on arrival exchanged courteous greetings with him. After an exchange of friendly greetings & courtesies, they sat to one side. As they were sitting there, they [told him what had happened, and added,] “Analyze the meaning, Ven. Mahā Kaccāna!”
 
 [He replied:] “Friends, it’s as if a man needing heartwood, looking for heartwood, wandering in search of heartwood—passing over the root & trunk of a standing tree possessing heartwood—were to imagine that heartwood should be sought among its branches & leaves. So it is with you, who—having bypassed the Blessed One when you were face to face with him, the Teacher—imagine that I should be asked about this matter. For knowing, the Blessed One knows; seeing, he sees. He is the Eye, he is Knowledge, he is Dhamma, he is Brahmā. He is the speaker, the proclaimer, the elucidator of meaning, the giver of the Deathless, the lord of the Dhamma, the Tathāgata. That was the time when you should have questioned him about this matter. However he answered, that was how you should have remembered it.”
 
@@ -107,7 +107,7 @@ So the monks went to Ven. Mahā Kaccāna and, on arrival exchanged courteous gre
 
 “In that case, my friends, listen & pay close attention. I will speak.”
 
-“As you say, friend,” the monks responded to him.
+“As you say, friend,” the bhikkhus responded to him.
 
 Ven. Mahā Kaccāna said this: “Concerning the brief statement the Blessed One made, after which he entered his dwelling without analyzing the detailed meaning—
 
@@ -201,11 +201,11 @@ has truly had an auspicious day:
 
 this is how I understand the detailed meaning. Now, friends, if you wish, having gone to the Blessed One, question him about this matter. However he answers is how you should remember it.”
 
-Then the monks, delighting in & approving of Ven. Mahā Kaccāna’s words, rose from their seats and went to the Blessed One. On arrival, having bowed down to him, they sat to one side. As they were sitting there, they [told him what had happened after he had gone into his dwelling, and ended by saying,] “Then Ven. Mahā Kaccāna analyzed the meaning using these words, these statements, these phrases.”
+Then the bhikkhus, delighting in & approving of Ven. Mahā Kaccāna’s words, rose from their seats and went to the Blessed One. On arrival, having bowed down to him, they sat to one side. As they were sitting there, they [told him what had happened after he had gone into his dwelling, and ended by saying,] “Then Ven. Mahā Kaccāna analyzed the meaning using these words, these statements, these phrases.”
 
-“Mahā Kaccāna is wise, monks. He is a person of great discernment. If you had asked me about this matter, I too would have answered in the same way he did. That is its meaning, and that is how you should remember it.”
+“Mahā Kaccāna is wise, bhikkhus. He is a person of great discernment. If you had asked me about this matter, I too would have answered in the same way he did. That is its meaning, and that is how you should remember it.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 Note
 

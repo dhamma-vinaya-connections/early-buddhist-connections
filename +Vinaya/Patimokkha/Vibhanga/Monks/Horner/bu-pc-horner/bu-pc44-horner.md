@@ -7,13 +7,13 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC44]]
 > ◄  [[bu-pc43-horner]] 📜  [[bu-pc45-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 44
+# bhikkhus’ Expiation (_Pācittiya_) 44
 
 *Bu-Pc.44.1.1* *BD.2.357* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, having gone to the house of a friend, sat down in a private place on a secluded seat together with his wife. *Vin.4.96* Then that man looked down upon, criticised, spread it about, saying:
 
 “How can master Upananda sit down in a private place on a secluded seat together with my wife?”
 
-Monks heard that man who … spread it about. Those who were modest monks … spread it about, saying:
+bhikkhus heard that man who … spread it about. Those who were modest bhikkhus … spread it about, saying:
 
 “How can the venerable Upananda, the son of the Sakyans, sit down in a private place on a secluded seat together with a woman?” …
 
@@ -23,13 +23,13 @@ Monks heard that man who … spread it about. Those who were modest monks … sp
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, sit down … with a woman? Foolish man, it is not for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, sit down … with a woman? Foolish man, it is not for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should sit down in a private place on a secluded seat together with a woman, there is an offence of expiation.”[^1]
+“Whatever bhikkhu should sit down in a private place on a secluded seat together with a woman, there is an offence of expiation.”[^1]
 
 * * *
 
-*Bu-Pc.44.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.44.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 Woman[^2] means: a human woman, not a female *BD.2.358* _yakkha_, not a female departed one, not a female animal, even a girl born this very day, much more an older one.
 
@@ -39,7 +39,7 @@ A private place means: private from the eye, private from the ear. Private from 
 
 A secluded seat means: it is secluded by a wall built of wattle and daub or by a door or by a screen or by a screen-wall or by a tree or by a pillar or by a sack or by anything whatever.
 
-Should sit down means: if a woman is sitting and a monk comes to be sitting or lying down close (to her), there is an offence of expiation; if a monk is sitting and a woman comes to be sitting or lying down close (to him), there is an offence of expiation. Or if both are sitting or if both are lying down, there is an offence of expiation.
+Should sit down means: if a woman is sitting and a bhikkhu comes to be sitting or lying down close (to her), there is an offence of expiation; if a bhikkhu is sitting and a woman comes to be sitting or lying down close (to him), there is an offence of expiation. Or if both are sitting or if both are lying down, there is an offence of expiation.
 
 * * *
 
@@ -55,7 +55,7 @@ The Fourth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

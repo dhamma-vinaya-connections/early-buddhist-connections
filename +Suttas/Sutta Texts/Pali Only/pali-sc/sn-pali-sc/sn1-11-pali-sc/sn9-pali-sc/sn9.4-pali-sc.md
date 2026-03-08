@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Saṁyutta Nikāya — The Linked Discourses
 ## 9. Vanasaṁyutta: In the Woods
-### I. In The Woods — SN9.4: Several Mendicants Set Out Wandering
+### I. In The Woods — SN9.4: Several bhikkhus Set Out Wandering
 
 1Ekaṁ samayaṁ sambahulā bhikkhū kosalesu vihāranti aññatarasmiṁ vanasaṇḍe.
 

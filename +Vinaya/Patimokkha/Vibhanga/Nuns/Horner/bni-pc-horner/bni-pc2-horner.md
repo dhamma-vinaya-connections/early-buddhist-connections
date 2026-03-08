@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.2.1.1* *BD.3.247* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six nuns, haying let the hair of the body grow, bathed naked together with prostitutes at the same ford of the river Aciravatī.[^1] *Vin.4.260* The prostitutes … spread it about, saying: “How can these nuns let the hair of the body grow, like women householders who enjoy pleasures of the senses?” Nuns heard these prostitutes who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six nuns let the hair of the body grow?” …
 
-“Is it true, as is said, monks, that the group of six nuns let the hair of the body grow?”
+“Is it true, as is said, bhikkhus, that the group of six nuns let the hair of the body grow?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them saying:
 
-“How, monks, can the group of six nuns let the hair of the body grow? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the group of six nuns let the hair of the body grow? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should let the hair of the body grow, there is an offence of expiation.”
 

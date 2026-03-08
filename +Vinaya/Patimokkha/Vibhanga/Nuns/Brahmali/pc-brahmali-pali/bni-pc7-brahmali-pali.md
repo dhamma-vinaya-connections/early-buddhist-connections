@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1-2At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, it was the harvest season. At that time the nuns had asked for raw grain, which they then carried to town. At the town gate they were detained and told: “Venerables, give a share.” After being released they went to the nuns’ dwelling place and told the nuns what had happened. The nuns of few desires complained and criticized them, “How could nuns ask for raw grain?” …
 
-“Is it true, monks, that nuns did this?”
+“Is it true, bhikkhus, that nuns did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them, “How could nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them, “How could nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks for someone who likes long and aimless wandering. What five? You don’t achieve the unachieved. What you have achieved falls away. You lose confidence in some things you’ve achieved. You contract a severe illness. You don’t have any friends. These are the five drawbacks for someone who likes long and aimless wandering.
+1“bhikkhus, there are these five drawbacks for someone who likes long and aimless wandering. What five? You don’t achieve the unachieved. What you have achieved falls away. You lose confidence in some things you’ve achieved. You contract a severe illness. You don’t have any friends. These are the five drawbacks for someone who likes long and aimless wandering.
 
 2There are these five benefits of a reasonable amount of wandering. What five? You achieve the unachieved. What you have achieved doesn’t fall away. You’re confident in some things you’ve achieved. You don’t contract severe illness. You have friends. These are the five benefits of a reasonable amount of wandering.”
 

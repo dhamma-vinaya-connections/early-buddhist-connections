@@ -12,13 +12,13 @@ language: "English"
 
 # Itivuttaka 16
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, with regard to internal factors, I don’t envision any other single factor like appropriate attention[1](#^iti16note01) as doing so much for a monk in training,[2](#^iti16note02) who has not attained the heart’s aspiration but remains intent on the unsurpassed safety from bondage.[3](#^iti16note03) A monk who attends appropriately abandons what is unskillful and develops what is skillful. ^iti16note01-ref ^iti16note02-ref ^iti16note03-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, with regard to internal factors, I don’t envision any other single factor like appropriate attention[1](#^iti16note01) as doing so much for a bhikkhu in training,[2](#^iti16note02) who has not attained the heart’s aspiration but remains intent on the unsurpassed safety from bondage.[3](#^iti16note03) A bhikkhu who attends appropriately abandons what is unskillful and develops what is skillful. ^iti16note01-ref ^iti16note02-ref ^iti16note03-ref
 
 Appropriate attention
 
 as a quality
 
-of a monk in training:
+of a bhikkhu in training:
 
 nothing else
 
@@ -26,7 +26,7 @@ does so much
 
 for attaining the superlative goal.
 
-A monk, striving appropriately,
+A bhikkhu, striving appropriately,
 
 attains the ending of stress.
 

@@ -1,6 +1,6 @@
 ---
 vin_code: "BNI-PC56"
-vin_title: "Abhikkhukāvāsa - Staying Apart From Monks"
+vin_title: "Abhikkhukāvāsa - Staying Apart From bhikkhus"
 sutta-version: "Horner"
 language: "English"
 ---
@@ -11,17 +11,17 @@ language: "English"
 
 *Bi-Pc.56.1.1* *BD.3.352* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time several nuns, having spent the rains in a village residence, went to Sāvatthī. Nuns spoke thus to these nuns: “Where did the ladies spend the rains? We hope that the exhortation was effective?”[^1]
 
-“There were no monks there, ladies; how could the exhortation be effective?” Those who were modest nuns … spread it about, saying:
+“There were no bhikkhus there, ladies; how could the exhortation be effective?” Those who were modest nuns … spread it about, saying:
 
 “How can these nuns spend the rains in a residence where there is no monk?” …
 
-“Is it true, as is said, monks, that the nuns … where there was no monk?”
+“Is it true, as is said, bhikkhus, that the nuns … where there was no monk?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nuns … where there is no monk? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nuns … where there is no monk? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should spend the rains in a residence where there is no monk, there is an offence of expiation.”[^2]
 
@@ -33,7 +33,7 @@ A residence where there is no monk means: it is not possible to go for exhortati
 
 * * *
 
-*Bi-Pc.56.2.2* There is no offence if monks, having entered on the rains-settlement, come to have gone away or left the Order or done their time or gone over to (another) side; if there are accidents; if she is mad, if she is the first wrong-doer.[^5]
+*Bi-Pc.56.2.2* There is no offence if bhikkhus, having entered on the rains-settlement, come to have gone away or left the Order or done their time or gone over to (another) side; if there are accidents; if she is mad, if she is the first wrong-doer.[^5]
 
  
 

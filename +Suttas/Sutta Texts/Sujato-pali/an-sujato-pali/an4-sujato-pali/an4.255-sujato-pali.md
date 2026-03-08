@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four ignoble searches. What four?
+1“bhikkhus, there are these four ignoble searches. What four?
 
 Someone liable to grow old searches only for what grows old. Someone liable to sickness searches only for what gets sick. Someone liable to death searches only for what dies. Someone whose nature is defiled searches only for what is defiled. These are the four ignoble searches.
 

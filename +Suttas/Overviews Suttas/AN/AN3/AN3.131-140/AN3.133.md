@@ -44,7 +44,7 @@ parallels_partilal: "[[AN4.181]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Three ways a mendicant is like a king’s warrior
+> Three ways a bhikkhu is like a king’s warrior
 
 > [!info] Key Excerpts 
 > Worthy bhikkhus are long-distance shooter, a marksman, and one who shatters large objects.

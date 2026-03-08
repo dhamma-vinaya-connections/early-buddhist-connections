@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.45.1.1* *BD.3.330* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time a certain nun, having approached the nun Thullanandā, spoke thus: “Do come, lady, and settle this legal question.” The nun Thullanandā, having answered, “Very good,” neither settled it nor made an effort to get it settled.[^1] Then that nun told this matter to the nuns. Those who were modest nuns … spread it about, saying: “How can the lady Thullanandā, being spoken to by a nun, saying: ‘Do come, lady, and settle this legal question,’ and having answered, ‘Very good,’ neither settle it nor make an effort to get it settled?” …
 
-“Is it true, as is said, monks, that the nun Thullanandā … to get it settled?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā … to get it settled?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā … nor make an effort to get it settled? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā … nor make an effort to get it settled? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, being spoken to by a nun, saying: ‘Do come, lady, and settle this legal question,’ and having answered: ‘Very good,’ (yet) if she is not afterwards prevented, should neither settle it nor should make an effort to get it settled, there is an offence of expiation.”
 

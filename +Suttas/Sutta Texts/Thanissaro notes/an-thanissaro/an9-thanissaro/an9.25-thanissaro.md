@@ -15,7 +15,7 @@ language: "English"
 ## ## Paññā Sutta
 
 
-“Monks, when a monk’s mind is well shored-up by discernment, it is suitable for him to say, ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’ And how is a monk’s mind well shored-up by discernment?
+“bhikkhus, when a bhikkhu’s mind is well shored-up by discernment, it is suitable for him to say, ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’ And how is a bhikkhu’s mind well shored-up by discernment?
 
 “‘My mind is devoid of passion’: His mind is well shored-up by discernment.
 
@@ -35,7 +35,7 @@ language: "English"
 
 “‘My mind isn’t subject to returning for the sake of passion for the formless’: His mind is well shored-up by discernment.
 
-“Monks, when a monk’s mind is well shored-up by discernment, it is suitable for him to say, ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’”
+“bhikkhus, when a bhikkhu’s mind is well shored-up by discernment, it is suitable for him to say, ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’”
 
 Note
 

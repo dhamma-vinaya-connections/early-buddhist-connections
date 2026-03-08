@@ -16,7 +16,7 @@ language: "English - Pali"
 
 28. ‘‘Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa bhāvanaṃ desessāmi. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –
 
-28."Mendicants, I will teach you the cultivation of noble, five-factored right samādhi. Listen, pay close attention; I will speak." "Yes, venerable sir," those monks replied to the Blessed One. The Blessed One said this:
+28."bhikkhus, I will teach you the cultivation of noble, five-factored right samādhi. Listen, pay close attention; I will speak." "Yes, venerable sir," those monks replied to the Blessed One. The Blessed One said this:
 
 ‘‘Katamā ca, bhikkhave, ariyassa pañcaṅgikassa sammāsamādhissa bhāvanā? Idha, bhikkhave, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati; nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti. Seyyathāpi, bhikkhave, dakkho nhāpako [nahāpako (sī. pī.)] vā nhāpakantevāsī vā kaṃsathāle nhānīyacuṇṇāni [nahānīyacuṇṇāni (sī. pī.)] ākiritvā udakena paripphosakaṃ paripphosakaṃ sanneyya. Sāyaṃ nhānīyapiṇḍi [sāssa nahānīyapiṇḍī (sī. syā. kaṃ.)] snehānugatā snehaparetā santarabāhirā phuṭā snehena, na ca paggharinī. Evamevaṃ kho, bhikkhave, bhikkhu imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati; nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti. Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṃ paṭhamā bhāvanā.
 

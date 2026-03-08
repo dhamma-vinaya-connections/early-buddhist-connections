@@ -12,13 +12,13 @@ language: "English"
 
 # Itivuttaka 29
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Endowed with two things, monks, a monk lives in ease in the present life–untroubled, undistressed, & unfeverish–and at the break-up of the body, after death, a good destination can be expected. Which two? A guarding of the doors of the sense faculties, and knowing moderation in food. Endowed with these two things, a monk lives in ease in the present life–untroubled, undistressed, & unfeverish–and at the break-up of the body, after death, a good destination can be expected.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Endowed with two things, bhikkhus, a bhikkhu lives in ease in the present life–untroubled, undistressed, & unfeverish–and at the break-up of the body, after death, a good destination can be expected. Which two? A guarding of the doors of the sense faculties, and knowing moderation in food. Endowed with these two things, a bhikkhu lives in ease in the present life–untroubled, undistressed, & unfeverish–and at the break-up of the body, after death, a good destination can be expected.”
 
 Eye & ear & nose,
 
 tongue, body, & mind:
 
-when a monk has these doors well guarded
+when a bhikkhu has these doors well guarded
 
 –knowing moderation in food,
 

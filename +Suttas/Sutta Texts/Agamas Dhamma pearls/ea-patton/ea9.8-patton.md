@@ -17,14 +17,14 @@ language: "English"
 
 8. A Woman’s Perception
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “I don’t see a single thing in this assembly so supreme and sublime that prevents the benighted worldly person from reaching eternal peace and chains them in a prison where they have no freedom. That is, when a woman sees a man’s form, she becomes attached to the perceptions it produces. A woman’s mind craves and esteems it so much that it prevents her from reaching eternal peace and chains her in a prison where she has no freedom. Her mind won’t abandon it, and then she goes round and round being reborn. In this world and the next, she circulates among the five destinies for numerous eons.”
+2. It was then that the Bhagavān addressed the bhikkhus, “I don’t see a single thing in this assembly so supreme and sublime that prevents the benighted worldly person from reaching eternal peace and chains them in a prison where they have no freedom. That is, when a woman sees a man’s form, she becomes attached to the perceptions it produces. A woman’s mind craves and esteems it so much that it prevents her from reaching eternal peace and chains her in a prison where she has no freedom. Her mind won’t abandon it, and then she goes round and round being reborn. In this world and the next, she circulates among the five destinies for numerous eons.”
 3. The Bhagavān then spoke in verse:
 - “When mistaken perceptions arise,    
     They generate thoughts of love and craving.    
     Abandon thinking that’s addictive,    
     Then these defilements won’t exist.
-4. “Therefore, monks, one should abandon forms. Don’t become attached to the perceptions they produce. Thus, monks, you should train yourselves.”
-5. When the monks heard what the Buddha taught, they rejoiced and approved.
+4. “Therefore, bhikkhus, one should abandon forms. Don’t become attached to the perceptions they produce. Thus, bhikkhus, you should train yourselves.”
+5. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

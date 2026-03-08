@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 19: The Group of Fifty Verses
 
@@ -148,7 +148,7 @@ I went forth, longing for the deathless state.
 
 1114The methodical teacher, supreme among people,  
 Great physician, charioteer of tractable people, said,  
-"The mind sways like a monkey,  
+"The mind sways like a bhikkhuey,  
 So it’s very hard to control if you are not free of lust."
 
 ---

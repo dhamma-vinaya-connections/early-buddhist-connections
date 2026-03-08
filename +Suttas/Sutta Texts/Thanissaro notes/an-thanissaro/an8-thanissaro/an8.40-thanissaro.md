@@ -15,7 +15,7 @@ language: "English"
 ## ## Vipāka Sutta
 
 
-“Monks, the taking of life—when indulged in, developed, & pursued—is something that leads to hell, leads to rebirth as a common animal, leads to the realm of the hungry ghosts. The slightest of all the results coming from the taking of life is that, when one becomes a human being, it leads to a short life span.
+“bhikkhus, the taking of life—when indulged in, developed, & pursued—is something that leads to hell, leads to rebirth as a common animal, leads to the realm of the hungry ghosts. The slightest of all the results coming from the taking of life is that, when one becomes a human being, it leads to a short life span.
 
 “Stealing—when indulged in, developed, & pursued—is something that leads to hell, leads to rebirth as a common animal, leads to the realm of the hungry ghosts. The slightest of all the results coming from stealing is that, when one becomes a human being, it leads to the loss of one’s wealth.
 

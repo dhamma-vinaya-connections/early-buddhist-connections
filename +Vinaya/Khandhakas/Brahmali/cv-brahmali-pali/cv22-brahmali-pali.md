@@ -13,19 +13,19 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhikkhu Brahmali    [suttacentral.net/kn22](https://suttacentral.net/pli-tv-kd22/en/brahmali?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)
 
-One hundred years after the Buddha had attained final extinguishment, the Vajjian monks of Vesālī proclaimed ten practices as allowable: the salt-in-horn practice; the two-fingerbreadths practice; the next-village practice; the many-monasteries practice; the consent practice; customary practices; the unchurned practice; palm-juice drinking; sitting mats without borders; and gold, silver, and money.[^1583]
+One hundred years after the Buddha had attained final extinguishment, the Vajjian bhikkhus of Vesālī proclaimed ten practices as allowable: the salt-in-horn practice; the two-fingerbreadths practice; the next-village practice; the many-monasteries practice; the consent practice; customary practices; the unchurned practice; palm-juice drinking; sitting mats without borders; and gold, silver, and money.[^1583]
 
 At that time Venerable Yasa of Kākaṇḍa was wandering in the Vajjian country, when he arrived at Vesālī. There he stayed in the hall with the peaked roof in the Great Wood.
 
-Soon afterwards, on the observance day, the Vajjian monks of Vesālī filled a bronze bowl with water and placed it in the midst of the Sangha of monks. Whenever a lay follower of Vesālī came, they said, “Please give a _kahāpaṇa_ coin to the Sangha, or half a _kahāpaṇa_, or a _pāda_, or a _māsaka_. The Sangha needs requisites.”
+Soon afterwards, on the observance day, the Vajjian bhikkhus of Vesālī filled a bronze bowl with water and placed it in the midst of the Sangha of bhikkhus. Whenever a lay follower of Vesālī came, they said, “Please give a _kahāpaṇa_ coin to the Sangha, or half a _kahāpaṇa_, or a _pāda_, or a _māsaka_. The Sangha needs requisites.”
 
 But Yasa said to the lay followers, “Don’t give a _kahāpaṇa_ to the Sangha, or half a _kahāpaṇa_, or a _pāda_, or a _māsaka_. Gold, silver, and money aren’t allowable for the Sakyan monastics. They neither accept nor receive gold, silver, or money. The Sakyan monastics have given up gems and gold, and live without gold, silver, and money.” But although Yasa said this, the lay followers continued to give money to the Sangha.
 
-The next morning the Vajjian monks distributed the money evenly.[^1584] And they said to Yasa, “Here’s your share, Yasa.”
+The next morning the Vajjian bhikkhus distributed the money evenly.[^1584] And they said to Yasa, “Here’s your share, Yasa.”
 
 “There’s no share for me. I don’t accept money.”
 
-The Vajjian monks said to one another, “Yasa is abusing and reviling the lay followers who have faith and confidence. He’s destroying their confidence. Let’s do a legal procedure of reconciliation against him.” And they did just that.
+The Vajjian bhikkhus said to one another, “Yasa is abusing and reviling the lay followers who have faith and confidence. He’s destroying their confidence. Let’s do a legal procedure of reconciliation against him.” And they did just that.
 
 Yasa said to them, “The Buddha has laid down that a monk who has had a legal procedure of reconciliation done against him should be given a monk as a companion messenger. Please give me a companion.” They then appointed a monk and gave him to Yasa as a companion messenger.
 
@@ -33,7 +33,7 @@ Yasa entered Vesālī with his companion and said to the lay followers, “It se
 
 ## Why monastics should not accept gold, silver, or money
 
-On one occasion the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery.[^1585] There he addressed the monks:
+On one occasion the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery.[^1585] There he addressed the bhikkhus:
 
 ‘There are these four defilements of the sun and the moon that stop them from shining and radiating: clouds; snow; smoke and dust; and an eclipse by Rāhu, the ruler of the antigods.[^1586]
 
@@ -82,27 +82,27 @@ On another occasion at Rājagaha the Buddha prohibited gold, silver, and money a
 
 And the lay followers of Vesālī said to Yasa, “Venerable, you’re the only Sakyan monastic; none of these others is. Please stay at Vesālī. We’ll do our best to provide you with robe-cloth, almsfood, a dwelling, and medicinal supplies.” Having persuaded the lay followers of Vesālī, Yasa returned to the monastery together with his companion messenger.
 
-Soon afterwards the Vajjian monks asked the monk who had been the companion messenger, “Did Yasa ask forgiveness of the lay followers?”
+Soon afterwards the Vajjian bhikkhus asked the monk who had been the companion messenger, “Did Yasa ask forgiveness of the lay followers?”
 
 “The lay followers have acted badly toward us. They now regard Yasa as the only Sakyan monastic, but none of us.”[^1588]
 
-The Vajjian monks said, “Yasa has informed the householders without our approval. Let’s do a legal procedure of ejection against him.” But when they gathered together to do the procedure against him, Yasa rose up into the air and landed at Kosambī.
+The Vajjian bhikkhus said, “Yasa has informed the householders without our approval. Let’s do a legal procedure of ejection against him.” But when they gathered together to do the procedure against him, Yasa rose up into the air and landed at Kosambī.
 
 ## Yasa gathers supporters
 
-Yasa then sent a message to the monks at Pāvā and to the monks in Avantī in the southern region: “Please come, venerables. Let’s take on this legal issue—before what’s contrary to the Teaching shines forth and the Teaching is obstructed; before what’s contrary to the Monastic Law shines forth and the Monastic Law is obstructed; before those who speak contrary to the Teaching become strong and those who speak in accordance with it become weak; before those who speak contrary to the Monastic Law become strong and those who speak in accordance with it become weak.”
+Yasa then sent a message to the bhikkhus at Pāvā and to the bhikkhus in Avantī in the southern region: “Please come, venerables. Let’s take on this legal issue—before what’s contrary to the Teaching shines forth and the Teaching is obstructed; before what’s contrary to the Monastic Law shines forth and the Monastic Law is obstructed; before those who speak contrary to the Teaching become strong and those who speak in accordance with it become weak; before those who speak contrary to the Monastic Law become strong and those who speak in accordance with it become weak.”
 
-Yasa then traveled to Venerable Sambhūta Sāṇavāsī who was staying on the Ahogaṅga mountain. He bowed, sat down, and said, “Sir, the Vajjian monks of Vesālī proclaim these ten practices as allowable: the salt-in-horn practice; the two-fingerbreadths practice; the next-village practice; the many-monasteries practice; the consent practice; customary practices; the unchurned practice; palm-juice drinking; sitting mats without borders; and gold, silver, and money. Let’s take on this legal issue—before what’s contrary to the Teaching shines forth and the Teaching is obstructed; before what’s contrary to the Monastic Law shines forth and the Monastic Law is obstructed; before those who speak contrary to the Teaching become strong and those who speak in accordance with it become weak; before those who speak contrary to the Monastic Law become strong and those who speak in accordance with it become weak.”
+Yasa then traveled to Venerable Sambhūta Sāṇavāsī who was staying on the Ahogaṅga mountain. He bowed, sat down, and said, “Sir, the Vajjian bhikkhus of Vesālī proclaim these ten practices as allowable: the salt-in-horn practice; the two-fingerbreadths practice; the next-village practice; the many-monasteries practice; the consent practice; customary practices; the unchurned practice; palm-juice drinking; sitting mats without borders; and gold, silver, and money. Let’s take on this legal issue—before what’s contrary to the Teaching shines forth and the Teaching is obstructed; before what’s contrary to the Monastic Law shines forth and the Monastic Law is obstructed; before those who speak contrary to the Teaching become strong and those who speak in accordance with it become weak; before those who speak contrary to the Monastic Law become strong and those who speak in accordance with it become weak.”
 
 “Yes.”
 
-Soon afterwards, sixty monks from Pāvā—all of them wilderness dwellers, almsfood-only eaters, rag-robe wearers, three-robe owners, and perfected—gathered on mount Ahogaṅga. And eighty-eight monks from Avantī in the southern region—some of them wilderness dwellers, some almsfood-only eaters, some rag-robe wearers, some three-robe owners, but all perfected—also gathered on mount Ahogaṅga. Then, as the senior monks were consulting one another, it occurred to them, “This legal issue is going to be contentious and difficult. How can we get supporters to strengthen our side?”
+Soon afterwards, sixty bhikkhus from Pāvā—all of them wilderness dwellers, almsfood-only eaters, rag-robe wearers, three-robe owners, and perfected—gathered on mount Ahogaṅga. And eighty-eight bhikkhus from Avantī in the southern region—some of them wilderness dwellers, some almsfood-only eaters, some rag-robe wearers, some three-robe owners, but all perfected—also gathered on mount Ahogaṅga. Then, as the senior bhikkhus were consulting one another, it occurred to them, “This legal issue is going to be contentious and difficult. How can we get supporters to strengthen our side?”
 
-At this time Venerable Revata was staying at Soreyya. He was learned and a master of the tradition; he was an expert on the Teaching, the Monastic Law, and the Key Terms; he was knowledgeable and competent, had a sense of conscience, and was afraid of wrongdoing and fond of the training. The senior monks considered this and said, “If we get Revata to support us, we’ll be stronger.”
+At this time Venerable Revata was staying at Soreyya. He was learned and a master of the tradition; he was an expert on the Teaching, the Monastic Law, and the Key Terms; he was knowledgeable and competent, had a sense of conscience, and was afraid of wrongdoing and fond of the training. The senior bhikkhus considered this and said, “If we get Revata to support us, we’ll be stronger.”
 
-When Revata heard this conversation between the senior monks by means of clairaudience, he thought, “This legal issue is going to be contentious and difficult. It wouldn’t be appropriate for me to stay away from it. But now these monks are coming, and I won’t be at ease when they crowd me in. Let me leave before they arrive.” And he went from Soreyya to Saṅkassa.
+When Revata heard this conversation between the senior bhikkhus by means of clairaudience, he thought, “This legal issue is going to be contentious and difficult. It wouldn’t be appropriate for me to stay away from it. But now these bhikkhus are coming, and I won’t be at ease when they crowd me in. Let me leave before they arrive.” And he went from Soreyya to Saṅkassa.
 
-When the senior monks came to Soreyya and asked where Revata was. They were told that he had gone to Saṅkassa. Revata then went from Saṅkassa to Kaṇṇakujja. When the senior monks came to Saṅkassa and asked where Revata was, they were told he had gone to Kaṇṇakujja. Revata then went from Kaṇṇakujja to Udumbara. When the senior monks came to Kaṇṇakujja and asked where Revata was, they were told he had gone to Udumbara. Revata then went from Udumbara to Aggaḷapura. When the senior monks came to Udumbara and asked where Revata was, they were told he had gone to Aggaḷapura. Revata then went from Aggaḷapura to Sahajāti. When the senior monks came to Aggaḷapura and asked where Revata was, they were told he had gone to Sahajāti. Finally the senior monks caught up with Revata at Sahajāti.
+When the senior bhikkhus came to Soreyya and asked where Revata was. They were told that he had gone to Saṅkassa. Revata then went from Saṅkassa to Kaṇṇakujja. When the senior bhikkhus came to Saṅkassa and asked where Revata was, they were told he had gone to Kaṇṇakujja. Revata then went from Kaṇṇakujja to Udumbara. When the senior bhikkhus came to Kaṇṇakujja and asked where Revata was, they were told he had gone to Udumbara. Revata then went from Udumbara to Aggaḷapura. When the senior bhikkhus came to Udumbara and asked where Revata was, they were told he had gone to Aggaḷapura. Revata then went from Aggaḷapura to Sahajāti. When the senior bhikkhus came to Aggaḷapura and asked where Revata was, they were told he had gone to Sahajāti. Finally the senior bhikkhus caught up with Revata at Sahajāti.
 
 ## The ten practices explained
 
@@ -124,7 +124,7 @@ Soon afterwards, when the chanting was finished, Yasa went up to Revata, bowed, 
 
 “Is the many-monasteries practice allowable?”—“What’s the many-monasteries practice?”—“When there are a number of monasteries within the same monastery zone, is it allowable for them to do the observance-day ceremony separately?”—“No.”
 
-“Is the consent practice allowable?”—“What’s the consent practice?”—“Is it allowable to do a legal procedure with an incomplete Sangha, with the intention of getting consent from the absent monks afterwards?”—“No.”
+“Is the consent practice allowable?”—“What’s the consent practice?”—“Is it allowable to do a legal procedure with an incomplete Sangha, with the intention of getting consent from the absent bhikkhus afterwards?”—“No.”
 
 “Are customary practices allowable?”—“What are customary practices?”—“Is it allowable to follow the practices of one’s preceptors or teachers?”—“Sometimes it is, sometimes it isn’t.”
 
@@ -136,7 +136,7 @@ Soon afterwards, when the chanting was finished, Yasa went up to Revata, bowed, 
 
 “Is gold, silver, or money allowable?”—“No.”
 
-“The Vajjian monks of Vesālī proclaim these ten practices. Venerable, let’s take on this legal issue—before what’s contrary to the Teaching shines forth and the Teaching is obstructed; before what’s contrary to the Monastic Law shines forth and the Monastic Law is obstructed; before those who speak contrary to the Teaching become strong and those who speak in accordance with it become weak; before those who speak contrary to the Monastic Law become strong and those who speak in accordance with it become weak.”
+“The Vajjian bhikkhus of Vesālī proclaim these ten practices. Venerable, let’s take on this legal issue—before what’s contrary to the Teaching shines forth and the Teaching is obstructed; before what’s contrary to the Monastic Law shines forth and the Monastic Law is obstructed; before those who speak contrary to the Teaching become strong and those who speak in accordance with it become weak; before those who speak contrary to the Monastic Law become strong and those who speak in accordance with it become weak.”
 
 Saying, “Yes,” he consented to Yasa’s request.
 
@@ -144,23 +144,23 @@ The first section for recitation is finished.
 
 ## Both sides gathering supporters
 
-The Vajjian monks of Vesālī heard: “It seems Yasa wants to take on this legal issue and is looking for supporters. And it seems he is gaining support.” They said, “This legal issue is going to be contentious and difficult. How can we get supporters to strengthen our side?”
+The Vajjian bhikkhus of Vesālī heard: “It seems Yasa wants to take on this legal issue and is looking for supporters. And it seems he is gaining support.” They said, “This legal issue is going to be contentious and difficult. How can we get supporters to strengthen our side?”
 
 It occurred to them, “Venerable Revata is learned and a master of the tradition; he’s an expert on the Teaching, the Monastic Law, and the Key Terms; he’s knowledgeable and competent, has a sense of conscience, and is afraid of wrongdoing and fond of the training. If we get Revata to support us, we’ll be stronger.”
 
 They prepared many monastic requisites: a bowl, a robe, a sitting mat, a needle case, a belt, a water filter, and a water strainer. Taking those requisites, they traveled by boat upstream to Sahajāti. After disembarking, they had a meal at the foot of a tree.
 
-At this time, Venerable Sāḷha was reflecting in private: “Who speak in accordance with the Teaching—the monks from the east or the monks from Pāvā?” Reflecting on the Teaching and the Monastic Law, it occurred to him, “The monks from the east speak contrary to the Teaching, but the monks from Pāvā don’t.”
+At this time, Venerable Sāḷha was reflecting in private: “Who speak in accordance with the Teaching—the bhikkhus from the east or the bhikkhus from Pāvā?” Reflecting on the Teaching and the Monastic Law, it occurred to him, “The bhikkhus from the east speak contrary to the Teaching, but the bhikkhus from Pāvā don’t.”
 
-Just then a god from the pure abodes read Sāḷha’s mind. Then, just as a strong man might bend or stretch his arm, he disappeared from pure abodes and appeared in front of Sāḷha. And he said to Sāḷha, “You’re right, Venerable Sāḷha. The monks from the east speak contrary to the Teaching, but the monks from Pāvā don’t. So then, take a stand in accordance with the Teaching.”
+Just then a god from the pure abodes read Sāḷha’s mind. Then, just as a strong man might bend or stretch his arm, he disappeared from pure abodes and appeared in front of Sāḷha. And he said to Sāḷha, “You’re right, Venerable Sāḷha. The bhikkhus from the east speak contrary to the Teaching, but the bhikkhus from Pāvā don’t. So then, take a stand in accordance with the Teaching.”
 
 “I’ve always taken a stand in accordance with the Teaching. But I won’t reveal my view in case I’m appointed to deal with this legal issue.”
 
-The Vajjian monks then went to Revata and said, “Venerable, please accept these monastic requisites.”
+The Vajjian bhikkhus then went to Revata and said, “Venerable, please accept these monastic requisites.”
 
 Not wanting to accept them, he replied, “There’s no need. My bowl and robes are complete.”
 
-At this time a monk called Uttara, who had twenty years of seniority, was Revata’s attendant. The Vajjian monks then went to him and said, “Please accept these monastic requisites.”
+At this time a monk called Uttara, who had twenty years of seniority, was Revata’s attendant. The Vajjian bhikkhus then went to him and said, “Please accept these monastic requisites.”
 
 Not wanting to accept them, he replied, “There’s no need. My bowl and robes are complete.”
 
@@ -168,7 +168,7 @@ Not wanting to accept them, he replied, “There’s no need. My bowl and robes 
 
 Because he was pressured, Uttara received a robe. And he said, “Please say what you want.”
 
-“Please say this to the elder, ‘Sir, please say this in the midst of the Sangha: “Buddhas appear in the eastern countries. The monks from the east speak in accordance with the Teaching, not so the monks from Pāvā.”’”
+“Please say this to the elder, ‘Sir, please say this in the midst of the Sangha: “Buddhas appear in the eastern countries. The bhikkhus from the east speak in accordance with the Teaching, not so the bhikkhus from Pāvā.”’”
 
 “Alright.”
 
@@ -176,7 +176,7 @@ He then went to Revata and told him what he had been asked to say.
 
 Revata replied, “You’re urging me to act contrary to the Teaching,” and he dismissed Uttara.
 
-Soon afterwards the Vajjian monks asked Uttara, “What did he say?”
+Soon afterwards the Vajjian bhikkhus asked Uttara, “What did he say?”
 
 “We’ve acted badly. Saying, ‘You’re urging me to act contrary to the Teaching’, the elder dismissed me.”
 
@@ -186,9 +186,9 @@ Soon afterwards the Vajjian monks asked Uttara, “What did he say?”
 
 The Sangha then gathered to make a decision on that legal issue. Revata informed the Sangha:
 
-“Please, I ask the Sangha to listen. If we were to resolve this legal issue here, it might be that the monks who started the ten practices would reopen it.[^1591] If the Sangha is ready, the Sangha should resolve this legal issue in the place where it arose.”
+“Please, I ask the Sangha to listen. If we were to resolve this legal issue here, it might be that the bhikkhus who started the ten practices would reopen it.[^1591] If the Sangha is ready, the Sangha should resolve this legal issue in the place where it arose.”
 
-The senior monks then went to Vesālī to make a decision on that legal issue.
+The senior bhikkhus then went to Vesālī to make a decision on that legal issue.
 
 At that time there was a monk called Sabbakāmī who had been ordained for one hundred and twenty years and was the most senior monk in the world. He had been a student of Venerable Ānanda and was now staying at Vesālī.
 
@@ -212,13 +212,13 @@ Getting up early in the morning, Sabbakāmī said to Revata, “What’s your ma
 
 “In the past, too, when I was a householder, I habitually practiced emptiness, and now it’s my main meditation. Besides, I attained perfection long ago.”
 
-At that moment the conversation between the senior monks was interrupted because Sambhūta Sāṇavāsī arrived. Sambhūta Sāṇavāsī went up to Sabbakāmī, bowed, sat down, and said, “Sir, the Vajjian monks of Vesālī proclaim ten practices as allowable: the salt-in-horn practice; the two-fingerbreadths practice; the next-village practice; the many-monasteries practice; the consent practice; customary practices; the unchurned practice; palm-juice drinking; sitting mats without borders; and gold, silver, and money. Now, you’ve learned much at the feet of your preceptor, both of the Teaching and the Monastic Law. When you reflect on the Teaching and the Monastic Law, who speak in accordance with the Teaching—the monks from the east or the monks from Pāvā?”
+At that moment the conversation between the senior bhikkhus was interrupted because Sambhūta Sāṇavāsī arrived. Sambhūta Sāṇavāsī went up to Sabbakāmī, bowed, sat down, and said, “Sir, the Vajjian bhikkhus of Vesālī proclaim ten practices as allowable: the salt-in-horn practice; the two-fingerbreadths practice; the next-village practice; the many-monasteries practice; the consent practice; customary practices; the unchurned practice; palm-juice drinking; sitting mats without borders; and gold, silver, and money. Now, you’ve learned much at the feet of your preceptor, both of the Teaching and the Monastic Law. When you reflect on the Teaching and the Monastic Law, who speak in accordance with the Teaching—the bhikkhus from the east or the bhikkhus from Pāvā?”
 
-“You too have learned much at the feet of your preceptor, both of the Teaching and the Monastic Law. When you reflect on the Teaching and the Monastic Law, who speak in accordance with the Teaching—the monks from the east or the monks from Pāvā?”
+“You too have learned much at the feet of your preceptor, both of the Teaching and the Monastic Law. When you reflect on the Teaching and the Monastic Law, who speak in accordance with the Teaching—the bhikkhus from the east or the bhikkhus from Pāvā?”
 
-“When I reflect like this, it occurs to me that the monks from the east speak contrary to the Teaching, but the monks from Pāvā don’t. But I won’t reveal my view in case I’m appointed to deal with this legal issue.”
+“When I reflect like this, it occurs to me that the bhikkhus from the east speak contrary to the Teaching, but the bhikkhus from Pāvā don’t. But I won’t reveal my view in case I’m appointed to deal with this legal issue.”
 
-“And when I reflect like this, it occurs to me too that the monks from the east speak contrary to the Teaching, but the monks from Pāvā don’t. And I too won’t reveal my view in case I’m appointed to deal with this legal issue.”
+“And when I reflect like this, it occurs to me too that the bhikkhus from the east speak contrary to the Teaching, but the bhikkhus from Pāvā don’t. And I too won’t reveal my view in case I’m appointed to deal with this legal issue.”
 
 ## Choosing a committee
 
@@ -226,17 +226,17 @@ The Sangha then gathered to make a decision on that legal issue. While they were
 
 “Please, venerables, I ask the Sangha to listen. While we were discussing this legal issue, there was endless talk but not a single statement that could be understood.[^1593] If the Sangha is ready, it should resolve this legal issue by means of a committee.”
 
-The Sangha then selected four monks from the east—Venerable Sabbakāmī, Venerable Sāḷha, Venerable Khujjasobhita, and Venerable Vāsabhagāmika—and four monks from Pāvā—Venerable Revata, Venerable Sambhūta Sāṇavāsī, Venerable Yasa of Kākaṇḍa, and Venerable Sumana. Revata then informed the Sangha:
+The Sangha then selected four bhikkhus from the east—Venerable Sabbakāmī, Venerable Sāḷha, Venerable Khujjasobhita, and Venerable Vāsabhagāmika—and four bhikkhus from Pāvā—Venerable Revata, Venerable Sambhūta Sāṇavāsī, Venerable Yasa of Kākaṇḍa, and Venerable Sumana. Revata then informed the Sangha:
 
-“Please, venerables, I ask the Sangha to listen. While we were discussing this legal issue, there was endless talk but not a single statement that could be understood. If the Sangha is ready, it should appoint four monks from the east and four from Pāvā to resolve this legal issue by means of a committee. This is the motion.
+“Please, venerables, I ask the Sangha to listen. While we were discussing this legal issue, there was endless talk but not a single statement that could be understood. If the Sangha is ready, it should appoint four bhikkhus from the east and four from Pāvā to resolve this legal issue by means of a committee. This is the motion.
 
-Please, venerables, I ask the Sangha to listen. While we were discussing this legal issue, there was endless talk but not a single statement that could be understood. The Sangha appoints four monks from the east and four from Pāvā to resolve this legal issue by means of a committee. Any monk who approves of appointing four monks from the east and four from Pāvā to resolve this legal issue by means of a committee should remain silent. Any monk who doesn’t approve should speak up.
+Please, venerables, I ask the Sangha to listen. While we were discussing this legal issue, there was endless talk but not a single statement that could be understood. The Sangha appoints four bhikkhus from the east and four from Pāvā to resolve this legal issue by means of a committee. Any monk who approves of appointing four bhikkhus from the east and four from Pāvā to resolve this legal issue by means of a committee should remain silent. Any monk who doesn’t approve should speak up.
 
-The Sangha has appointed four monks from the east and four from Pāvā to resolve this legal issue by means of a committee. The Sangha approves and is therefore silent. I’ll remember it thus.”
+The Sangha has appointed four bhikkhus from the east and four from Pāvā to resolve this legal issue by means of a committee. The Sangha approves and is therefore silent. I’ll remember it thus.”
 
-At that time there was a monk called Ajita who had ten years of seniority and was the Sangha’s reciter of the Monastic Code. The Sangha appointed him to assign seats to the senior monks.
+At that time there was a monk called Ajita who had ten years of seniority and was the Sangha’s reciter of the Monastic Code. The Sangha appointed him to assign seats to the senior bhikkhus.
 
-The senior monks said, “Where should we resolve this legal issue?” It occurred to them, “There’s the Vālika Monastery, which is delightful, quiet, and free from chatter. Let’s resolve this legal issue there.” And so they went to the Vālika Monastery.
+The senior bhikkhus said, “Where should we resolve this legal issue?” It occurred to them, “There’s the Vālika Monastery, which is delightful, quiet, and free from chatter. Let’s resolve this legal issue there.” And so they went to the Vālika Monastery.
 
 ## The committee decides on the ten practices
 
@@ -278,7 +278,7 @@ Revata said to Sabbakāmī, “Sir, is the salt-in-horn practice allowable?”
 
 “Please, venerables, I ask the Sangha to listen. The Sangha has decided on the fourth practice. This practice is contrary to the Teaching, contrary to the Monastic Law, and a departure from the Teacher’s instruction. I make a note of this fourth decision.”
 
-“Is the consent practice allowable?”—“What’s the consent practice?”—“Is it allowable to do a legal procedure with an incomplete Sangha, with the intention of getting consent from the absent monks afterwards?”—“No.”—“Where was it prohibited?”—“In the section on Those from Campā, in the Monastic Law.”—“What was committed?”—“An act of wrong conduct for going beyond the Monastic Law.”
+“Is the consent practice allowable?”—“What’s the consent practice?”—“Is it allowable to do a legal procedure with an incomplete Sangha, with the intention of getting consent from the absent bhikkhus afterwards?”—“No.”—“Where was it prohibited?”—“In the section on Those from Campā, in the Monastic Law.”—“What was committed?”—“An act of wrong conduct for going beyond the Monastic Law.”
 
 “Please, venerables, I ask the Sangha to listen. The Sangha has decided on the fifth practice. This practice is contrary to the Teaching, contrary to the Monastic Law, and a departure from the Teacher’s instruction. I make a note of this fifth decision.”
 
@@ -304,11 +304,11 @@ Revata said to Sabbakāmī, “Sir, is the salt-in-horn practice allowable?”
 
 Please, venerables, I ask the Sangha to listen. The Sangha has decided on the ten practices. These ten practices are contrary to the Teaching, contrary to the Monastic Law, and a departure from the Teacher’s instruction.”
 
-“The legal issue has been resolved and properly disposed of. Nevertheless, for the purpose of convincing the other monks, you should ask me about these ten practices also in the midst of the Sangha.”
+“The legal issue has been resolved and properly disposed of. Nevertheless, for the purpose of convincing the other bhikkhus, you should ask me about these ten practices also in the midst of the Sangha.”
 
 Revata then asked Sabbakāmī about the ten practices in the midst of the Sangha. And Sabbakāmī was able to reply to each and every question.
 
-At this communal recitation of the Monastic Law there were seven hundred monks, neither more nor less. This is why this communal recitation is called “The group of seven hundred”.
+At this communal recitation of the Monastic Law there were seven hundred bhikkhus, neither more nor less. This is why this communal recitation is called “The group of seven hundred”.
 
 The twelfth chapter on the group of seven hundred is finished. In this chapter there are twenty-five topics.
 

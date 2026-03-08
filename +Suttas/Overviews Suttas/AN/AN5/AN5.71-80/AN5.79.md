@@ -47,7 +47,7 @@ parallels_partilal: ""
 > When the teachers and leaders of the saṅgha are not well practiced, their weakness will be passed down the generations. Thus from corrupt Dhamma comes corrupt discipline; from corrupt discipline, corrupt dhamma.
 
 > [!info] Key Excerpts 
-> Mendicants who have not developed their physical endurance, ethics, mind, and wisdom. They Will ordain and be preceptor of others, they’ll fall into dark ideas without realizing it, won’t pay attention to discourses spoken by the realized one, and  senior mendicants will be indulgent and slack
+> bhikkhus who have not developed their physical endurance, ethics, mind, and wisdom. They Will ordain and be preceptor of others, they’ll fall into dark ideas without realizing it, won’t pay attention to discourses spoken by the realized one, and  senior bhikkhus will be indulgent and slack
 > 
 > These are the five future perils that have not currently arisen, but will arise in the future. You Should look out for them, and try to give them up
 > 

@@ -15,7 +15,7 @@ language: "English"
 ## ## Andhakavinda Sutta
 
 
-On one occasion the Blessed One was staying among the Magadhans at Andhakavinda. Then Ven. Ānanda went to him and, having bowed down to him, sat to one side. As he was sitting there, the Blessed One said to him, “Ānanda, the new monks—those who have not long gone forth, who are newcomers in this Dhamma & Vinaya—should be encouraged, exhorted, and established in these five things. Which five?
+On one occasion the Blessed One was staying among the Magadhans at Andhakavinda. Then Ven. Ānanda went to him and, having bowed down to him, sat to one side. As he was sitting there, the Blessed One said to him, “Ānanda, the new bhikkhus—those who have not long gone forth, who are newcomers in this Dhamma & Vinaya—should be encouraged, exhorted, and established in these five things. Which five?
 
 “‘Come, friends, be virtuous. Dwell restrained in accordance with the Pāṭimokkha, consummate in your behavior & sphere of activity. Train yourselves, having undertaken the training rules, seeing danger in the slightest faults.’ Thus they should be encouraged, exhorted, & established in restraint in accordance with the Pāṭimokkha.
 
@@ -27,7 +27,7 @@ On one occasion the Blessed One was staying among the Magadhans at Andhakavinda.
 
 “Come, friends, develop right view. Be endowed with right vision.’ Thus they should be encouraged, exhorted, & established in right vision.
 
-“New monks—those who have not long gone forth, who are newcomers in this Dhamma & Vinaya—should be encouraged, exhorted, and established in these five things.”
+“New bhikkhus—those who have not long gone forth, who are newcomers in this Dhamma & Vinaya—should be encouraged, exhorted, and established in these five things.”
 
 See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.20-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.127-thanissaro]]; [[an4.245-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.73-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.80-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.140-thanissaro]]; [[an7.63-thanissaro]]; [[an8.103-thanissaro]]; [[an10.48-thanissaro]]; [[an10.69-thanissaro]]; [[/snp4.14-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag18-thanissaro]]
 

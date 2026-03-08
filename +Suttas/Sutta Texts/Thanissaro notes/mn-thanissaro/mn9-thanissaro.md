@@ -49,17 +49,17 @@ _Ven. Sāriputta offers further explanations of right view in two other suttas i
 
 * * *
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then Ven. Sāriputta addressed the monks, “Friend monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then Ven. Sāriputta addressed the bhikkhus, “Friend bhikkhus!”
 
-“Yes, friend,” the monks responded to him.
+“Yes, friend,” the bhikkhus responded to him.
 
 Ven. Sāriputta said, “’Right view, right view’ it is said.[1](#^mn9note01) To what extent is a disciple of the noble ones a person of right view, one whose view is made straight, who is endowed with verified confidence in the Dhamma, and who has arrived at this true Dhamma?” ^mn9note01-ref
 
-“We would come from a long distance, friend, to learn the meaning of these words in Ven. Sāriputta’s presence. It would be good if Ven. Sāriputta himself would enlighten us as to their meaning. Having listened to him, the monks will bear it in mind.”
+“We would come from a long distance, friend, to learn the meaning of these words in Ven. Sāriputta’s presence. It would be good if Ven. Sāriputta himself would enlighten us as to their meaning. Having listened to him, the bhikkhus will bear it in mind.”
 
 “Then in that case, friends, listen & pay close attention. I will speak.”
 
-“As you say, friend,” the monks responded to him.
+“As you say, friend,” the bhikkhus responded to him.
 
 ## Skillful _&_ Unskillful
 
@@ -77,19 +77,19 @@ Ven. Sāriputta said, “When a disciple of the noble ones discerns what is unsk
 
 ## Nutriment
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns nutriment, the origination of nutriment, the cessation of nutriment, and the way of practice leading to the cessation of nutriment, then he is a person of right view... who has arrived at this true Dhamma.
 
 “And what is nutriment? What is the origination of nutriment? What is the cessation of nutriment? What is the way of practice leading to the cessation of nutriment?
 
-“There are these four nutriments for the maintenance of beings who have come into being or for the support of those in search of a place to be born. Which four? Physical food, gross or refined; contact as the second, intellectual intention the third, and consciousness the fourth. From the origination of craving comes the origination of nutriment. From the cessation of craving comes the cessation of nutriment. And the way of practice leading to the cessation of nutriment is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“There are these four nutriments for the maintenance of beings who have come into being or for the support of those in search of a place to be born. Which four? Physical food, gross or refined; contact as the second, intellectual intention the third, and consciousness the fourth. From the origination of craving comes the origination of nutriment. From the cessation of craving comes the cessation of nutriment. And the way of practice leading to the cessation of nutriment is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns nutriment, the origination of nutriment, the cessation of nutriment, and the way of practice leading to the cessation of nutriment in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Stress
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns stress, the origination of stress, the cessation of stress, and the way of practice leading to the cessation of stress, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -99,13 +99,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “And what is the cessation of stress? The remainderless fading & cessation, renunciation, relinquishment, release, & letting go of that very craving. This is called the cessation of stress.
 
-“And what is the way of practice leading to the cessation of stress? Just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi. This is called the way of practice leading to the cessation of stress.
+“And what is the way of practice leading to the cessation of stress? Just this very ![[Noble Path]]. This is called the way of practice leading to the cessation of stress.
 
 “Now, when a disciple of the noble ones discerns stress, the origination of stress, the cessation of stress, and the way of practice leading to the cessation of stress in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Aging _&_ Death
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns aging & death, the origination of aging & death, the cessation of aging & death, and the way of practice leading to the cessation of aging & death, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -113,13 +113,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “Whatever aging, decrepitude, brokenness, graying, wrinkling, decline of life-force, weakening of the faculties of the various beings in this or that group of beings, that is called aging. Whatever deceasing, passing away, breaking up, disappearance, dying, death, completion of time, break up of the aggregates, casting off of the body, interruption in the life faculty of the various beings in this or that group of beings, that is called death. This aging & this death are called aging & death.
 
-From the origination of birth comes the origination of aging & death. From the cessation of birth comes the cessation of aging & death. And the way of practice leading to the cessation of aging & death is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+From the origination of birth comes the origination of aging & death. From the cessation of birth comes the cessation of aging & death. And the way of practice leading to the cessation of aging & death is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns aging & death, the origination of aging & death, the cessation of aging & death, and the way of practice leading to the cessation of aging & death in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Birth
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns birth, the origination of birth, the cessation of birth, and the way of practice leading to the cessation of birth, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -127,13 +127,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 ”Whatever birth, taking birth, descent, coming-to-be, coming-forth, appearance of aggregates, & acquisition of (sense) spheres of the various beings in this or that group of beings, that is called birth.
 
-“From the origination of becoming comes the origination of birth. From the cessation of becoming comes the cessation of birth. And the way of practice leading to the cessation of birth is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of becoming comes the origination of birth. From the cessation of becoming comes the cessation of birth. And the way of practice leading to the cessation of birth is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns birth, the origination of birth, the cessation of birth, and the way of practice leading to the cessation of birth in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Becoming
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns becoming, the origination of becoming, the cessation of becoming, and the way of practice leading to the cessation of becoming, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -141,13 +141,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “There are these three becomings: sensual becoming, form becoming, & formless becoming. This is called becoming.
 
-“From the origination of clinging comes the origination of becoming. From the cessation of clinging comes the cessation of becoming. And the way of practice leading to the cessation of becoming is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of clinging comes the origination of becoming. From the cessation of clinging comes the cessation of becoming. And the way of practice leading to the cessation of becoming is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns becoming, the origination of becoming, the cessation of becoming, and the way of practice leading to the cessation of becoming in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Clinging
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns clinging, the origination of clinging, the cessation of clinging, and the way of practice leading to the cessation of clinging, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -155,13 +155,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “There are these four clingings: sensuality clinging, view clinging, habit & practice clinging, and doctrine of self clinging. This is called clinging.
 
-“From the origination of craving comes the origination of clinging. From the cessation of craving comes the cessation of clinging. And the way of practice leading to the cessation of clinging is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of craving comes the origination of clinging. From the cessation of craving comes the cessation of clinging. And the way of practice leading to the cessation of clinging is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns clinging, the origination of clinging, the cessation of clinging, and the way of practice leading to the cessation of clinging in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Craving
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns craving, the origination of craving, the cessation of craving, and the way of practice leading to the cessation of craving, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -169,13 +169,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “There are these six cravings: craving for forms, craving for sounds, craving for smells, craving for tastes, craving for tactile sensations, craving for ideas. This is called craving.
 
-“From the origination of feeling comes the origination of craving. From the cessation of feeling comes the cessation of craving. And the way of practice leading to the cessation of craving is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of feeling comes the origination of craving. From the cessation of feeling comes the cessation of craving. And the way of practice leading to the cessation of craving is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns craving, the origination of craving, the cessation of craving, and the way of practice leading to the cessation of craving in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Feeling
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns feeling, the origination of feeling, the cessation of feeling, and the way of practice leading to the cessation of feeling, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -183,13 +183,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “There are these six feelings: feeling born from eye-contact, feeling born from ear-contact, feeling born from nose-contact, feeling born from tongue-contact, feeling born from body-contact, feeling born from intellect-contact. This is called feeling.
 
-“From the origination of contact comes the origination of feeling. From the cessation of contact comes the cessation of feeling. And the way of practice leading to the cessation of feeling is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of contact comes the origination of feeling. From the cessation of contact comes the cessation of feeling. And the way of practice leading to the cessation of feeling is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns feeling, the origination of feeling, the cessation of feeling, and the way of practice leading to the cessation of feeling in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Contact
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns contact, the origination of contact, the cessation of contact, and the way of practice leading to the cessation of contact, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -197,13 +197,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “There are these six classes of contact: eye-contact, ear-contact, nose-contact, tongue-contact, body-contact, intellect-contact: This is called contact.
 
-“From the origination of the six sense media comes the origination of contact. From the cessation of the six sense media comes the cessation of contact. And the way of practice leading to the cessation of contact is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of the six sense media comes the origination of contact. From the cessation of the six sense media comes the cessation of contact. And the way of practice leading to the cessation of contact is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns contact, the origination of contact, the cessation of contact, and the way of practice leading to the cessation of contact in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Six Sense Media
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns the six sense media, the origination of the six sense media, the cessation of the six sense media, and the way of practice leading to the cessation of the six sense media, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -211,13 +211,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “There are these six sense media: the eye-medium, the ear-medium, the nose-medium, the tongue-medium, the body-medium, the intellect-medium: These are called the six sense media.
 
-“From the origination of name-&-form comes the origination of the six sense media. From the cessation of name-&-form comes the cessation of the six sense media. And the way of practice leading to the cessation of the six sense media is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of name-&-form comes the origination of the six sense media. From the cessation of name-&-form comes the cessation of the six sense media. And the way of practice leading to the cessation of the six sense media is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns the six sense media, the origination of the six sense media, the cessation of the six sense media, and the way of practice leading to the cessation of the six sense media in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Name-_&_-Form
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns name-&-form, the origination of name-&-form, the cessation of name-&-form, and the way of practice leading to the cessation of name-&-form, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -225,13 +225,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “Feeling, perception, intention, contact, & attention: This is called name. The four great elements, and the form dependent on the four great elements: This is called form. This name & this form are called name-&-form.
 
-“From the origination of consciousness comes the origination of name-&-form. From the cessation of consciousness comes the cessation of name-&-form. And the way of practice leading to the cessation of name-&-form is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of consciousness comes the origination of name-&-form. From the cessation of consciousness comes the cessation of name-&-form. And the way of practice leading to the cessation of name-&-form is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns name-&-form, the origination of name-&-form, the cessation of name-&-form, and the way of practice leading to the cessation of name-&-form in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Consciousness
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns consciousness, the origination of consciousness, the cessation of consciousness, and the way of practice leading to the cessation of consciousness, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -239,13 +239,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “There are these six classes of consciousness: eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness, intellect-consciousness. This is called consciousness.
 
-“From the origination of fabrication comes the origination of consciousness. From the cessation of fabrication comes the cessation of consciousness. And the way of practice leading to the cessation of consciousness is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of fabrication comes the origination of consciousness. From the cessation of fabrication comes the cessation of consciousness. And the way of practice leading to the cessation of consciousness is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns consciousness, the origination of consciousness, the cessation of consciousness, and the way of practice leading to the cessation of consciousness in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Fabrication
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns fabrication, the origination of fabrication, the cessation of fabrication, and the way of practice leading to the cessation of fabrication, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -253,13 +253,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “There are these three fabrications: bodily fabrication, verbal fabrication, mental fabrication. These are called fabrication.
 
-“From the origination of ignorance comes the origination of fabrication. From the cessation of ignorance comes the cessation of fabrication. And the way of practice leading to the cessation of fabrication is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of ignorance comes the origination of fabrication. From the cessation of ignorance comes the cessation of fabrication. And the way of practice leading to the cessation of fabrication is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns fabrication, the origination of fabrication, the cessation of fabrication, and the way of practice leading to the cessation of fabrication in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Ignorance
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns ignorance, the origination of ignorance, the cessation of ignorance, and the way of practice leading to the cessation of ignorance, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -267,13 +267,13 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “Any lack of knowledge with reference to stress, any lack of knowledge with reference to the origination of stress, any lack of knowledge with reference to the cessation of stress, any lack of knowledge with reference to the way of practice leading to the cessation of stress: This is called ignorance.
 
-“From the origination of effluents comes the origination of ignorance. From the cessation of effluents comes the cessation of ignorance. And the way of practice leading to the cessation of ignorance is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of effluents comes the origination of ignorance. From the cessation of effluents comes the cessation of ignorance. And the way of practice leading to the cessation of ignorance is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns ignorance, the origination of ignorance, the cessation of ignorance, and the way of practice leading to the cessation of ignorance in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma.”
 
 ## Effluents
 
-Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the monks asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
+Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta’s words, the bhikkhus asked him a further question: “Would there be another line of reasoning by which a disciple of the noble ones is a person of right view... who has arrived at this true Dhamma?”
 
 “There would. When a disciple of the noble ones discerns effluents, the origination of effluents, the cessation of effluents, and the way of practice leading to the cessation of effluents, then he is a person of right view... who has arrived at this true Dhamma.
 
@@ -281,11 +281,11 @@ Saying “Good, friend,” having delighted in and approved of Ven. Sāriputta�
 
 “There are these three effluents: the effluent of sensuality, the effluent of becoming, the effluent of ignorance. These are called effluents.
 
-“From the origination of ignorance comes the origination of effluents. From the cessation of ignorance comes the cessation of effluents. And the way of practice leading to the cessation of effluents is just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
+“From the origination of ignorance comes the origination of effluents. From the cessation of ignorance comes the cessation of effluents. And the way of practice leading to the cessation of effluents is just this very ![[Noble Path]].
 
 “Now, when a disciple of the noble ones discerns effluents, the origination of effluents, the cessation of effluents, and the way of practice leading to the cessation of effluents in this way, when—having entirely abandoned passion-obsession, having abolished aversion-obsession, having uprooted the view-&-conceit obsession ‘I am’; having abandoned ignorance & given rise to clear knowing—he has put an end to suffering & stress right in the here & now, it is to this extent, too, that a disciple of the noble ones is a person of right view, one whose view is made straight, who is endowed with verified confidence in the Dhamma, and who has arrived at this true Dhamma.”
 
-That is what Ven. Sāriputta said. Gratified, the monks delighted in Ven. Sāriputta’s words.
+That is what Ven. Sāriputta said. Gratified, the bhikkhus delighted in Ven. Sāriputta’s words.
 
 ### Notes
 

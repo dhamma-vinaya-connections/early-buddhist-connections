@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six put their whole hand in their mouths while eating. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six put their whole hand in their mouths while eating. …
 
 #### Final ruling
 
 2“‘I will not put my whole hand in my mouth while eating,’ this is how you should train.”
 
-3One should not put one’s whole hand in one’s mouth while eating. If a monk, out of disrespect, puts his whole hand in his mouth while eating, he commits an offense of wrong conduct.
+3One should not put one’s whole hand in one’s mouth while eating. If a bhikkhu, out of disrespect, puts his whole hand in his mouth while eating, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

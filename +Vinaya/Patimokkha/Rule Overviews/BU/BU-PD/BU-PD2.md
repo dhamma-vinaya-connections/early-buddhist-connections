@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: ""
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PD1]] 🌐 [[BU-PD3]] ►
 
-# Monks - Patidesaniya - Acknowledgement
+# bhikkhus - Patidesaniya - Acknowledgement
 ##  - 
 ## BU-PD2 - Dutiyapāṭidesanīya - Letting a Nun Order Food
 
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhū paneva kulesu nimantitā bhuñjanti, tatra ce sā bhikkhunī vosāsamānarūpā ṭhitā hoti \"idha sūpaṃ detha, idha odanaṃ dethā\"ti. tehi bhikkhūhi sā bhikkhunī apasādetabbā \"apasakka tāva bhagini, yāva bhikkhū bhuñjantī\"ti. ekassapi ce bhikkhuno na paṭibhāseyya taṃ bhikkhuniṃ apasādetuṃ \"apasakka tāva bhagini, yāva bhikkhū bhuñjantī\"ti, paṭidesetabbaṃ tehi bhikkhūhi \"gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā\"ti | When monks eat by invitation to families, if a nun is there giving directions, saying, “Give bean curry here; give rice there,” then those monks should stop her: “Stop, Sister, while the monks are eating.” If not even a single monk addresses that nun in this way to stop her, they must acknowledge it: “We have done a blameworthy and unsuitable thing which is to be acknowledged. We acknowledge it |
+| Bhikkhū paneva kulesu nimantitā bhuñjanti, tatra ce sā bhikkhunī vosāsamānarūpā ṭhitā hoti \"idha sūpaṃ detha, idha odanaṃ dethā\"ti. tehi bhikkhūhi sā bhikkhunī apasādetabbā \"apasakka tāva bhagini, yāva bhikkhū bhuñjantī\"ti. ekassapi ce bhikkhuno na paṭibhāseyya taṃ bhikkhuniṃ apasādetuṃ \"apasakka tāva bhagini, yāva bhikkhū bhuñjantī\"ti, paṭidesetabbaṃ tehi bhikkhūhi \"gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā\"ti | When bhikkhus eat by invitation to families, if a nun is there giving directions, saying, “Give bean curry here; give rice there,” then those bhikkhus should stop her: “Stop, Sister, while the bhikkhus are eating.” If not even a single monk addresses that nun in this way to stop her, they must acknowledge it: “We have done a blameworthy and unsuitable thing which is to be acknowledged. We acknowledge it |
 
 
 > [!Info] Analisis of the rule
@@ -68,7 +68,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PD2 |  | Vin.3.1–3.40 |
 

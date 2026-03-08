@@ -18,55 +18,55 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 2“Whatever dangers there are, all come from the foolish, not from the astute. Whatever perils there are, all come from the foolish, not from the astute. Whatever hazards there are, all come from the foolish, not from the astute. It’s like a fire that spreads from a hut made of reeds or grass, and burns down even a bungalow, plastered inside and out, draft-free, with latches fastened and windows shuttered. In the same way, whatever dangers there are, all come from the foolish, not from the astute. Whatever perils there are, all come from the foolish, not from the astute. Whatever hazards there are, all come from the foolish, not from the astute. So, the fool is dangerous, but the astute person is safe. The fool is perilous, but the astute person is not. The fool is hazardous, but the astute person is not. There’s no danger, peril, or hazard that comes from the astute. So you should train like this: ‘We shall be astute, we shall be inquirers.’”
 
-3When he said this, Venerable Ānanda said to the Buddha: “Sir, how is a mendicant qualified to be called ‘astute, an inquirer’?”
+3When he said this, Venerable Ānanda said to the Buddha: “Sir, how is a bhikkhu qualified to be called ‘astute, an inquirer’?”
 
-“Ānanda, it’s when a mendicant is skilled in the elements, in the sense fields, in dependent origination, and in the possible and the impossible. That’s how a mendicant is qualified to be called ‘astute, an inquirer’.”
-
-
-4“But sir, how is a mendicant qualified to be called ‘skilled in the elements’?”
-
-“There are, Ānanda, these eighteen elements: the elements of the eye, sights, and eye consciousness; the ear, sounds, and ear consciousness; the nose, smells, and nose consciousness; the tongue, tastes, and tongue consciousness; the body, touches, and body consciousness; the mind, thoughts, and mind consciousness. When a mendicant knows and sees these eighteen elements, they’re qualified to be called ‘skilled in the elements’.”
-
-5“But sir, could there be another way in which a mendicant is qualified to be called ‘skilled in the elements’?”
-
-“There could, Ānanda. There are these six elements: the elements of earth, water, fire, air, space, and consciousness. When a mendicant knows and sees these six elements, they’re qualified to be called ‘skilled in the elements’.”
-
-6“But sir, could there be another way in which a mendicant is qualified to be called ‘skilled in the elements’?”
-
-“There could, Ānanda. There are these six elements: the elements of pleasure, pain, happiness, sadness, equanimity, and ignorance. When a mendicant knows and sees these six elements, they’re qualified to be called ‘skilled in the elements’.”
-
-7“But sir, could there be another way in which a mendicant is qualified to be called ‘skilled in the elements’?”
-
-“There could, Ānanda. There are these six elements: the elements of sensuality and renunciation, malice and good will, and cruelty and harmlessness. When a mendicant knows and sees these six elements, they’re qualified to be called ‘skilled in the elements’.”
-
-8“But sir, could there be another way in which a mendicant is qualified to be called ‘skilled in the elements’?”
-
-“There could, Ānanda. There are these three elements: the elements of the sensual realm, the realm of luminous form, and the formless realm. When a mendicant knows and sees these three elements, they’re qualified to be called ‘skilled in the elements’.”
-
-9“But sir, could there be another way in which a mendicant is qualified to be called ‘skilled in the elements’?”
-
-“There could, Ānanda. There are these two elements: the conditioned element and the unconditioned element. When a mendicant knows and sees these two elements, they’re qualified to be called ‘skilled in the elements’.”
-
-10“But sir, how is a mendicant qualified to be called ‘skilled in the sense fields’?”
-
-“There are these six interior and exterior sense fields: the eye and sights, the ear and sounds, the nose and smells, the tongue and tastes, the body and touches, and the mind and thoughts. When a mendicant knows and sees these six interior and exterior sense fields, they’re qualified to be called ‘skilled in the sense fields’.”
-
-11“But sir, how is a mendicant qualified to be called ‘skilled in dependent origination’?”
-
-“It’s when a mendicant understands: ‘When this exists, that is; due to the arising of this, that arises. When this doesn’t exist, that is not; due to the cessation of this, that ceases. That is: ignorance is a condition for choices. Choices are conditions for consciousness. Consciousness is a condition for name and form. Name and form are conditions for the six sense fields. The six sense fields are conditions for contact. Contact is a condition for feeling. Feeling is a condition for craving. Craving is a condition for grasping. Grasping is a condition for continued existence. Continued existence is a condition for rebirth. Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be. That is how this entire mass of suffering originates.
-
-When ignorance fades away and ceases with nothing left over, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. When contact ceases, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. That is how this entire mass of suffering ceases.’ That’s how a mendicant is qualified to be called ‘skilled in dependent origination’.”
+“Ānanda, it’s when a bhikkhu is skilled in the elements, in the sense fields, in dependent origination, and in the possible and the impossible. That’s how a bhikkhu is qualified to be called ‘astute, an inquirer’.”
 
 
-12“But sir, how is a mendicant qualified to be called ‘skilled in the possible and impossible’?”
+4“But sir, how is a bhikkhu qualified to be called ‘skilled in the elements’?”
 
-“It’s when a mendicant understands: ‘It’s impossible for a person accomplished in view to take any condition as permanent. That is not possible. But it’s possible for an ordinary person to take some condition as permanent. That is possible.’ They understand: ‘It’s impossible for a person accomplished in view to take any condition as pleasant. But it’s possible for an ordinary person to take some condition as pleasant.’ They understand: ‘It’s impossible for a person accomplished in view to take anything as self. But it’s possible for an ordinary person to take something as self.’
+“There are, Ānanda, these eighteen elements: the elements of the eye, sights, and eye consciousness; the ear, sounds, and ear consciousness; the nose, smells, and nose consciousness; the tongue, tastes, and tongue consciousness; the body, touches, and body consciousness; the mind, thoughts, and mind consciousness. When a bhikkhu knows and sees these eighteen elements, they’re qualified to be called ‘skilled in the elements’.”
+
+5“But sir, could there be another way in which a bhikkhu is qualified to be called ‘skilled in the elements’?”
+
+“There could, Ānanda. There are these six elements: the elements of earth, water, fire, air, space, and consciousness. When a bhikkhu knows and sees these six elements, they’re qualified to be called ‘skilled in the elements’.”
+
+6“But sir, could there be another way in which a bhikkhu is qualified to be called ‘skilled in the elements’?”
+
+“There could, Ānanda. There are these six elements: the elements of pleasure, pain, happiness, sadness, equanimity, and ignorance. When a bhikkhu knows and sees these six elements, they’re qualified to be called ‘skilled in the elements’.”
+
+7“But sir, could there be another way in which a bhikkhu is qualified to be called ‘skilled in the elements’?”
+
+“There could, Ānanda. There are these six elements: the elements of sensuality and renunciation, malice and good will, and cruelty and harmlessness. When a bhikkhu knows and sees these six elements, they’re qualified to be called ‘skilled in the elements’.”
+
+8“But sir, could there be another way in which a bhikkhu is qualified to be called ‘skilled in the elements’?”
+
+“There could, Ānanda. There are these three elements: the elements of the sensual realm, the realm of luminous form, and the formless realm. When a bhikkhu knows and sees these three elements, they’re qualified to be called ‘skilled in the elements’.”
+
+9“But sir, could there be another way in which a bhikkhu is qualified to be called ‘skilled in the elements’?”
+
+“There could, Ānanda. There are these two elements: the conditioned element and the unconditioned element. When a bhikkhu knows and sees these two elements, they’re qualified to be called ‘skilled in the elements’.”
+
+10“But sir, how is a bhikkhu qualified to be called ‘skilled in the sense fields’?”
+
+“There are these six interior and exterior sense fields: the eye and sights, the ear and sounds, the nose and smells, the tongue and tastes, the body and touches, and the mind and thoughts. When a bhikkhu knows and sees these six interior and exterior sense fields, they’re qualified to be called ‘skilled in the sense fields’.”
+
+11“But sir, how is a bhikkhu qualified to be called ‘skilled in dependent origination’?”
+
+“It’s when a bhikkhu understands: ‘When this exists, that is; due to the arising of this, that arises. When this doesn’t exist, that is not; due to the cessation of this, that ceases. That is: ignorance is a condition for choices. Choices are conditions for consciousness. Consciousness is a condition for name and form. Name and form are conditions for the six sense fields. The six sense fields are conditions for contact. Contact is a condition for feeling. Feeling is a condition for craving. Craving is a condition for grasping. Grasping is a condition for continued existence. Continued existence is a condition for rebirth. Rebirth is a condition for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be. That is how this entire mass of suffering originates.
+
+When ignorance fades away and ceases with nothing left over, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. When contact ceases, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. That is how this entire mass of suffering ceases.’ That’s how a bhikkhu is qualified to be called ‘skilled in dependent origination’.”
+
+
+12“But sir, how is a bhikkhu qualified to be called ‘skilled in the possible and impossible’?”
+
+“It’s when a bhikkhu understands: ‘It’s impossible for a person accomplished in view to take any condition as permanent. That is not possible. But it’s possible for an ordinary person to take some condition as permanent. That is possible.’ They understand: ‘It’s impossible for a person accomplished in view to take any condition as pleasant. But it’s possible for an ordinary person to take some condition as pleasant.’ They understand: ‘It’s impossible for a person accomplished in view to take anything as self. But it’s possible for an ordinary person to take something as self.’
 
 13They understand: ‘It’s impossible for a person accomplished in view to murder their mother. But it’s possible for an ordinary person to murder their mother.’ They understand: ‘It’s impossible for a person accomplished in view to murder their father … or murder a perfected one. But it’s possible for an ordinary person to murder their father … or a perfected one.’ They understand: ‘It’s impossible for a person accomplished in view to injure a Realized One with malicious intent. But it’s possible for an ordinary person to injure a Realized One with malicious intent.’ They understand: ‘It’s impossible for a person accomplished in view to cause a schism in the Saṅgha. But it’s possible for an ordinary person to cause a schism in the Saṅgha.’ They understand: ‘It’s impossible for a person accomplished in view to acknowledge another teacher. But it’s possible for an ordinary person to acknowledge another teacher.’
 
@@ -84,7 +84,7 @@ They understand: ‘It’s impossible for an unlikable, undesirable, disagreeabl
   
 They understand: ‘It’s impossible that someone who has engaged in good conduct of body, speech, and mind could, for that reason alone, when their body breaks up, after death, be reborn in a place of loss, the underworld, a lower realm, hell. But it is possible that someone who has engaged in good conduct of body, speech, and mind could, for that reason alone, when their body breaks up, after death, be reborn in a good place, a heavenly realm.’  
   
-That’s how a mendicant is qualified to be called ‘skilled in the possible and impossible’.”
+That’s how a bhikkhu is qualified to be called ‘skilled in the possible and impossible’.”
 
 
 18When he said this, Venerable Ānanda said to the Buddha: “It’s incredible, sir, it’s amazing! What is the name of this exposition of the teaching?”

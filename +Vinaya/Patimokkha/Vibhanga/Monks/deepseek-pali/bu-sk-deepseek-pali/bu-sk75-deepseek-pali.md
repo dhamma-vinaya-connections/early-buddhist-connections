@@ -11,7 +11,7 @@ language: "Pali - English"
 
 649. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū pacchato gacchantā purato gacchantassa dhammaṃ desenti…pe….
 
- 649.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six monks, while walking behind, were teaching the Dhamma to one walking in front….
+ 649.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six bhikkhus, while walking behind, were teaching the Dhamma to one walking in front….
 
 ‘‘Na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā’’ti.
 
@@ -33,7 +33,7 @@ The eleventh training rule is concluded.
 
 650. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū uppathena gacchantā pathena gacchantassa dhammaṃ desenti…pe….
 
- 650.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six monks, while walking off the path, were teaching the Dhamma to one walking on the path….
+ 650.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six bhikkhus, while walking off the path, were teaching the Dhamma to one walking on the path….
 
 ‘‘Na uppathena gacchanto pathena gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā’’ti.
 
@@ -55,7 +55,7 @@ The twelfth training rule is concluded.
 
 651. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū ṭhitā uccārampi passāvampi karonti…pe….
 
-651.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six monks were defecating and urinating while standing….
+651.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six bhikkhus were defecating and urinating while standing….
 
 ‘‘Na ṭhito agilāno uccāraṃ vā passāvaṃ vā karissāmīti sikkhā karaṇīyā’’ti.
 
@@ -76,7 +76,7 @@ The thirteenth training rule is concluded.
 ## other
 652. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū harite uccārampi passāvampi kheḷampi karonti…pe….
 
-652.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six monks were defecating, urinating, and spitting on green growth….
+652.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six bhikkhus were defecating, urinating, and spitting on green growth….
 
 ‘‘Na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā’’ti.
 
@@ -98,7 +98,7 @@ The fourteenth training rule is concluded.
 ## other
 653. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū udake uccārampi passāvampi kheḷampi karonti. Manussā ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma samaṇā sakyaputtiyā udake uccārampi passāvampi kheḷampi karissanti, seyyathāpi gihī kāmabhogino’’ti! Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma chabbaggiyā bhikkhū udake uccārampi passāvampi kheḷampi karissantī’’ti…pe… saccaṃ kira tumhe, bhikkhave, udake uccārampi passāvampi kheḷampi karothāti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tumhe, moghapurisā, udake uccārampi passāvampi kheḷampi karissatha! Netaṃ, moghapurisā, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-653.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six monks were defecating, urinating, and spitting in water. People complained, criticized, and grumbled: “How can these Sakyan ascetics defecate, urinate, and spit in water, just like householders who indulge in sensual pleasures?” The monks heard these people complaining, criticizing, and grumbling. Those monks who were modest… they too complained, criticized, and grumbled: “How can the group-of-six monks defecate, urinate, and spit in water?”… “Is it true, monks, that you do this?” “It is true, Blessed One.” The Blessed One rebuked them… “Foolish men, how can you defecate, urinate, and spit in water! This will not lead to confidence in those without it… And thus, monks, you should recite this training rule:
+653.At that time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Now at that time the group-of-six bhikkhus were defecating, urinating, and spitting in water. People complained, criticized, and grumbled: “How can these Sakyan ascetics defecate, urinate, and spit in water, just like householders who indulge in sensual pleasures?” The bhikkhus heard these people complaining, criticizing, and grumbling. Those bhikkhus who were modest… they too complained, criticized, and grumbled: “How can the group-of-six bhikkhus defecate, urinate, and spit in water?”… “Is it true, bhikkhus, that you do this?” “It is true, Blessed One.” The Blessed One rebuked them… “Foolish men, how can you defecate, urinate, and spit in water! This will not lead to confidence in those without it… And thus, bhikkhus, you should recite this training rule:
 
 ‘‘Na udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā’’ti.
 

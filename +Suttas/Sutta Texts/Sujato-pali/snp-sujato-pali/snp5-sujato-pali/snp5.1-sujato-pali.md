@@ -239,8 +239,8 @@ like a heat-struck person to shade,
 they quickly climbed the mountain.
 
 39 At that time the Buddha  
-at the fore of the mendicant Saṅgha,  
-was teaching the mendicants the Dhamma,  
+at the fore of the bhikkhu Saṅgha,  
+was teaching the bhikkhus the Dhamma,  
 like a lion roaring in the jungle.
 
 ---

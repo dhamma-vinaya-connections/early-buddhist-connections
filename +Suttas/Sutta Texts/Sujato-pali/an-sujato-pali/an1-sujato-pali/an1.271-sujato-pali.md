@@ -20,17 +20,17 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-271“It is impossible, mendicants, it cannot happen for a person accomplished in view to murder their mother. But it is possible for an ordinary person to murder their mother.”
+271“It is impossible, bhikkhus, it cannot happen for a person accomplished in view to murder their mother. But it is possible for an ordinary person to murder their mother.”
 
-272“It is impossible, mendicants, it cannot happen for a person accomplished in view to murder their father. But it is possible for an ordinary person to murder their father.”
+272“It is impossible, bhikkhus, it cannot happen for a person accomplished in view to murder their father. But it is possible for an ordinary person to murder their father.”
 
-273“It is impossible, mendicants, it cannot happen for a person accomplished in view to murder a perfected one. But it is possible for an ordinary person to murder a perfected one.”
+273“It is impossible, bhikkhus, it cannot happen for a person accomplished in view to murder a perfected one. But it is possible for an ordinary person to murder a perfected one.”
 
-274“It is impossible, mendicants, it cannot happen for a person accomplished in view to injure a Realized One with malicious intent. But it is possible for an ordinary person to injure a Realized One with malicious intent.”
+274“It is impossible, bhikkhus, it cannot happen for a person accomplished in view to injure a Realized One with malicious intent. But it is possible for an ordinary person to injure a Realized One with malicious intent.”
 
-275“It is impossible, mendicants, it cannot happen for a person accomplished in view to cause a schism in the Saṅgha. But it is possible for an ordinary person to cause a schism in the Saṅgha.”
+275“It is impossible, bhikkhus, it cannot happen for a person accomplished in view to cause a schism in the Saṅgha. But it is possible for an ordinary person to cause a schism in the Saṅgha.”
 
-276“It is impossible, mendicants, it cannot happen for a person accomplished in view to acknowledge another teacher. But it is possible for an ordinary person to acknowledge another teacher.”
+276“It is impossible, bhikkhus, it cannot happen for a person accomplished in view to acknowledge another teacher. But it is possible for an ordinary person to acknowledge another teacher.”
 
 
 ---

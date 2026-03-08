@@ -16,30 +16,30 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a government official who was about to set out on a journey sent a message to the monks, saying, “Come, Venerables, I wish to give robe-cloth to those who have completed the rainy-season residence.”
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a government official who was about to set out on a journey sent a message to the bhikkhus, saying, “Come, Venerables, I wish to give robe-cloth to those who have completed the rainy-season residence.”
 
-The monks thought, “The Buddha has allowed such robes only for those who have completed the rains residence,” and being afraid of wrongdoing they did not go. That government official complained and criticized them, “How could they not come when I send a message? I’m about to set out with the army. It’s hard to know whether I’ll live or die.”
+The bhikkhus thought, “The Buddha has allowed such robes only for those who have completed the rains residence,” and being afraid of wrongdoing they did not go. That government official complained and criticized them, “How could they not come when I send a message? I’m about to set out with the army. It’s hard to know whether I’ll live or die.”
 
 
-2The monks heard the complaints of that government official, and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, I allow you to receive a haste-cloth, and then store it.”
+2The bhikkhus heard the complaints of that government official, and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “bhikkhus, I allow you to receive a haste-cloth, and then store it.”
 
-3When they heard about this, monks received haste-cloths and stored them beyond the robe season, keeping them in bundles on a bamboo robe rack.
+3When they heard about this, bhikkhus received haste-cloths and stored them beyond the robe season, keeping them in bundles on a bamboo robe rack.
 
-While walking about the dwellings, Venerable Ānanda saw that cloth, and he asked the monks, “Whose cloth is this?”
+While walking about the dwellings, Venerable Ānanda saw that cloth, and he asked the bhikkhus, “Whose cloth is this?”
 
 “It’s our haste-cloth.”
 
 “But how long have you stored it?”
 
 
-They told him. Ānanda then complained and criticized them, “How could these monks receive haste-cloth and then store it beyond the robe season?”
+They told him. Ānanda then complained and criticized them, “How could these bhikkhus receive haste-cloth and then store it beyond the robe season?”
 
-4After rebuking those monks in many ways, Ānanda told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that there are monks who do this?”
+4After rebuking those bhikkhus in many ways, Ānanda told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that there are bhikkhus who do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Monks, how could those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “bhikkhus, how could those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -51,7 +51,7 @@ The Buddha rebuked them … “Monks, how could those foolish men do this? This 
 
 7**The Kattika full moon that ends the first rainy-season residence:** the Kattika full moon of the invitation ceremony is what is meant.
 
-8**Haste-cloth:** when someone intends to set out with the army, when someone intends to set out on a journey, when someone is sick, when someone is pregnant, when someone without faith acquires faith, when someone without confidence acquires confidence—if that person sends a message to the monks, saying, “Come, Venerables, I wish to give a robe to those who have completed the rainy-season residence,” this is called “haste-cloth”.
+8**Haste-cloth:** when someone intends to set out with the army, when someone intends to set out on a journey, when someone is sick, when someone is pregnant, when someone without faith acquires faith, when someone without confidence acquires confidence—if that person sends a message to the bhikkhus, saying, “Come, Venerables, I wish to give a robe to those who have completed the rainy-season residence,” this is called “haste-cloth”.
 
 9**He may receive it if he regards it as urgent. He may then store it until the end of the robe season:** establishing the perception of it as a haste-cloth, he may store it.
 
@@ -61,7 +61,7 @@ The Buddha rebuked them … “Monks, how could those foolish men do this? This 
 11**If he stores it beyond that:** for one who has not participated in the robe-making ceremony, if he stores it beyond the last day of the rainy season, he commits an offense entailing relinquishment and confession. For one who has participated in the robe-making ceremony, if he stores it beyond the day on which the robe season ends, the cloth becomes subject to relinquishment.
 
 
-The cloth should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[Vinaya/Patimokkha/Vibhanga/Bhikkhus/bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The cloth should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[Vinaya/Patimokkha/Vibhanga/Bhikkhus/bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this haste-cloth, which I have stored beyond the robe season, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this cloth back to you.’”

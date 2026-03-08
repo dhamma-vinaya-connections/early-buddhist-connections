@@ -47,9 +47,9 @@ parallels_partilal: ""
 > Dangers of misperceptions of offenses
 
 > [!info] Key Excerpts 
-> Mendicant explains what is not an offense as an offense and vice versa; a light offense as a serious offens and vice versa; an offense committed with corrupt intention as an offense not and vice versa;  an offense requiring rehabilitation as not and vice versa; an offense with redress as not and vice versa
+> bhikkhu explains what is not an offense as an offense and vice versa; a light offense as a serious offens and vice versa; an offense committed with corrupt intention as an offense not and vice versa;  an offense requiring rehabilitation as not and vice versa; an offense with redress as not and vice versa
 > 
-> Are acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.Those Mendicants make much bad karma and make the true teaching disappear
+> Are acting for the hurt and unhappiness of the people, for the harm, hurt, and suffering of gods and humans.Those bhikkhus make much bad karma and make the true teaching disappear
 > 
 
 

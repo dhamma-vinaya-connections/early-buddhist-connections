@@ -49,7 +49,7 @@ parallels_partilal: "[[SA879]], [[AN4.36]], [[SA-2.267]], [[SA101]], [[SN35.120]
 > [!info] Key Excerpts 
 > Prevent, to give up, to develop, and to preserve.
 > 
-> Any mendicant who keenly applies these 
+> Any bhikkhu who keenly applies these 
 May attain the ending of suffering
 > 
 

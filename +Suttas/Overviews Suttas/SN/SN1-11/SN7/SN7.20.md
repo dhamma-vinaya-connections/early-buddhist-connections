@@ -3,7 +3,7 @@ sutta_code: "SN7.20"
 sutta_pts: ""
 sutta_title:
   - "Bhikkhakasutta "
-  - "Mendicant"
+  - "bhikkhu"
 nikaya:
   - "SN "
   - "Saṃyutta Nikāya"
@@ -40,7 +40,7 @@ parallels_partilal: "[[SA-2.263]], [[SA97]], [[DHP\|DHP266]], [[DHP\|DHP267]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.19]]  🌐 [[SN7.21]] ►
 
-# SN7.20 - Bhikkhakasutta - Mendicant
+# SN7.20 - Bhikkhakasutta - bhikkhu
 ## 🌐 Overview
 
 > [!info] Summary

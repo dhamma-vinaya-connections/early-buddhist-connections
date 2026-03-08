@@ -26,11 +26,11 @@ and five above all developed.
 
 Having gone past five bonds,[2](#^thag13note02) ^thag13note02-ref
 
-a monk is said to be
+a bhikkhu is said to be
 
 one who’s crossed over.
 
-For a monk who is insolent, heedless,
+For a bhikkhu who is insolent, heedless,
 
 wishing for what’s outside,
 
@@ -100,7 +100,7 @@ seeing the arising of the sense media,
 
 the mind is rightly released.
 
-For that monk, rightly released,
+For that bhikkhu, rightly released,
 
 his heart at peace.
 

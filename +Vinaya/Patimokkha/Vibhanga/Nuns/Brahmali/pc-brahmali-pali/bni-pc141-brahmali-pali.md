@@ -18,39 +18,39 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. On one occasion when the monks from the group of seventeen had not put away their requisites, the monks from the group of six hid their bowls and robes. The monks from the group of seventeen said to them:
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. On one occasion when the bhikkhus from the group of seventeen had not put away their requisites, the bhikkhus from the group of six hid their bowls and robes. The bhikkhus from the group of seventeen said to them:
 
 
 “Give us our bowls and robes.”
 
-The monks from the group of six laughed, but the monks from the group of seventeen cried.
+The bhikkhus from the group of six laughed, but the bhikkhus from the group of seventeen cried.
 
-The monks asked them: “Why are you crying?”
+The bhikkhus asked them: “Why are you crying?”
 
-“Because the monks from the group of six have hidden our bowls and robes.”
+“Because the bhikkhus from the group of six have hidden our bowls and robes.”
 
 
-2The monks of few desires complained and criticized them:
+2The bhikkhus of few desires complained and criticized them:
 
-“How could the monks from the group of six hide the bowls and robes of other monks?” …
+“How could the bhikkhus from the group of six hide the bowls and robes of other bhikkhus?” …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk hides a monk’s bowl, robe, sitting mat, needle case, or belt, or he has it hidden, even just for a laugh, he commits an offense entailing confession.’”
+3‘If a bhikkhu hides a bhikkhu’s bowl, robe, sitting mat, needle case, or belt, or he has it hidden, even just for a laugh, he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
-5**A monk’s:** another monk’s.
+5**A bhikkhu’s:** another bhikkhu’s.
 
 6**Bowl:** There are two kinds of bowls: iron bowls and ceramic bowls.
 
@@ -71,7 +71,7 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 
 #### Permutations
 
-14If the other monk is fully ordained, and he perceives him as such, and he hides his bowl or robe or sitting mat or needle case or belt, or he has it hidden, even just for a laugh, he commits an offense entailing confession. If the other monk is fully ordained, but he is unsure of it, and he hides his bowl or robe or sitting mat or needle case or belt, or he has it hidden, even just for a laugh, he commits an offense entailing confession. If the other monk is fully ordained, but he does not perceive him as such, and he hides his bowl or robe or sitting mat or needle case or belt, or he has it hidden, even just for a laugh, he commits an offense entailing confession.
+14If the other bhikkhu is fully ordained, and he perceives him as such, and he hides his bowl or robe or sitting mat or needle case or belt, or he has it hidden, even just for a laugh, he commits an offense entailing confession. If the other bhikkhu is fully ordained, but he is unsure of it, and he hides his bowl or robe or sitting mat or needle case or belt, or he has it hidden, even just for a laugh, he commits an offense entailing confession. If the other bhikkhu is fully ordained, but he does not perceive him as such, and he hides his bowl or robe or sitting mat or needle case or belt, or he has it hidden, even just for a laugh, he commits an offense entailing confession.
 
 15If he hides another requisite, or he has it hidden, even just for a laugh, he commits an offense of wrong conduct. If he hides the bowl or robe or other requisite of someone who is not fully ordained, or he has it hidden, even just for a laugh, he commits an offense of wrong conduct.
 

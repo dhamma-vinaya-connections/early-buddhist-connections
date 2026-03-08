@@ -51,7 +51,7 @@ parallels_partilal: "[[AN5.65]], [[AN5.163]], [[AN5.164]]"
 > [!info] Key Excerpts 
 > Personally accomplished in ethics, samadhi, wisdom, freedom, and knowledge and vision of freedom
 > 
-> Mendicant with five qualities is fit to discuss the Dhamma and share their life with their spiritual companions
+> bhikkhu with five qualities is fit to discuss the Dhamma and share their life with their spiritual companions
 > 
 
 

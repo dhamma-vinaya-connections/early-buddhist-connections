@@ -23,7 +23,7 @@ Kokālika said to Devadatta, “The ascetic Gotama is powerful and mighty. How c
 “Well, let’s go to the ascetic Gotama and request five things: ‘In many ways, Venerable Sir, you praise fewness of wishes, contentment, self-effacement, ascetic practices, being inspiring, the reduction in things, and being energetic. And there are five things that lead to just that: It would be good, Sir,
 
 
-If the monks stayed in the wilderness for life, and whoever stayed near an inhabited area would commit an offense
+If the bhikkhus stayed in the wilderness for life, and whoever stayed near an inhabited area would commit an offense
 
 If they ate only almsfood for life, and whoever accepted an invitational meal would commit an offense
 
@@ -48,18 +48,18 @@ Devadatta thought, “The Buddha doesn’t allow the five points.” Glad and el
 
 4The foolish people with little faith and confidence said, “These Sakyan monastics are practicing asceticism and living with the aim of self-effacement. But the ascetic Gotama is extravagant and has chosen a life of indulgence.” But the wise people who had faith and confidence complained and criticized Devadatta, “How can Devadatta pursue schism in the Sangha of the Buddha? How can he break its authority?”
 
-5The monks heard the criticism of those people, and the monks of few desires complained and criticized him in the same way.
+5The bhikkhus heard the criticism of those people, and the bhikkhus of few desires complained and criticized him in the same way.
 
 6After rebuking Devadatta in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Devadatta: “Is it true, Devadatta, that you are doing this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-7‘If a monk pursues schism in a united Sangha or persists in taking up a legal issue conducive to schism, the monks should correct him like this, “Venerable, don’t pursue schism in the united Sangha or persist in taking up a legal issue conducive to schism. Stay with the Sangha, for a united Sangha—in concord, in harmony, having a joint recitation—is at ease.” If that monk continues as before, the monks should press him up to three times to make him stop. If he then stops, all is well. If he does not stop, he commits an offense entailing suspension.’”
+7‘If a monk pursues schism in a united Sangha or persists in taking up a legal issue conducive to schism, the bhikkhus should correct him like this, “Venerable, don’t pursue schism in the united Sangha or persist in taking up a legal issue conducive to schism. Stay with the Sangha, for a united Sangha—in concord, in harmony, having a joint recitation—is at ease.” If that monk continues as before, the bhikkhus should press him up to three times to make him stop. If he then stops, all is well. If he does not stop, he commits an offense entailing suspension.’”
 
 #### Definitions
 
@@ -81,7 +81,7 @@ The Buddha rebuked him … “Foolish man, how can you do this? This will affect
 
 15**Him:** the monk who is pursuing schism in the Sangha.
 
-16**The monks:** other monks.
+16**The bhikkhus:** other bhikkhus.
 
 
 17Those who see it or hear it. They should correct him like this:
@@ -101,7 +101,7 @@ They should correct him a second and a third time. If he stops, all is well. If 
 
 Should press him:
 
-“And, monks, he should be pressed like this. A competent and capable monk should inform the Sangha:
+“And, bhikkhus, he should be pressed like this. A competent and capable monk should inform the Sangha:
 
 
 18‘Please, Venerables, I ask the Sangha to listen. The monk so-and-so is pursuing schism in the united Sangha. And he keeps on doing it. If it seems appropriate to the Sangha, the Sangha should press him to make him stop. This is the motion.

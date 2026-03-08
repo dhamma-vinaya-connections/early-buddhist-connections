@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the spiritual life is lived to give up and cut out these seven underlying tendencies. What seven? The underlying tendencies of sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance. The spiritual life is lived to give up and cut out these seven underlying tendencies.
+1“bhikkhus, the spiritual life is lived to give up and cut out these seven underlying tendencies. What seven? The underlying tendencies of sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance. The spiritual life is lived to give up and cut out these seven underlying tendencies.
 
-2When a mendicant has given up the underlying tendencies of sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance—cut them off at the root, made them like a palm stump, obliterated them, so they are unable to arise in the future— they’re called a mendicant who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
+2When a bhikkhu has given up the underlying tendencies of sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance—cut them off at the root, made them like a palm stump, obliterated them, so they are unable to arise in the future— they’re called a bhikkhu who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
 
 1"Sattannaṁ, bhikkhave, anusayānaṁ pahānāya samucchedāya brahmacariyaṁ vussati. Katamesaṁ sattannaṁ? Kāmarāgānusayassa pahānāya samucchedāya brahmacariyaṁ vussati, paṭighānusayassa … pe … diṭṭhānusayassa … vicikicchānusayassa … mānānusayassa … bhavarāgānusayassa … avijjānusayassa pahānāya samucchedāya brahmacariyaṁ vussati. Imesaṁ kho, bhikkhave, sattannaṁ anusayānaṁ pahānāya samucchedāya brahmacariyaṁ vussati.
 

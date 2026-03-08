@@ -18,21 +18,21 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was walking on walking tour amongst the Mallas with a great Community of monks, and arrived at Pāva. There the Gracious One dwelt near Pāva, in Cunda the smith's mango wood.
+1Thus I heard: At one time the Gracious One was walking on walking tour amongst the Mallas with a great Community of bhikkhus, and arrived at Pāva. There the Gracious One dwelt near Pāva, in Cunda the smith's mango wood.
 
-2Cunda the smith heard: "The Gracious One, it seems, is walking on walking tour amongst the Mallas with a great Community of monks, and has arrived at Pāva, and is dwelling near Pāva, in my mango wood."
+2Cunda the smith heard: "The Gracious One, it seems, is walking on walking tour amongst the Mallas with a great Community of bhikkhus, and has arrived at Pāva, and is dwelling near Pāva, in my mango wood."
 
 Then Cunda the smith went to the Gracious One, and after going and worshipping the Gracious One, he sat down on one side. While Cunda the smith sat on one side the Gracious One instructed, roused, enthused, and cheered him with a Dhamma talk.
 
-Then Cunda the smith, having been instructed, roused, enthused, and cheered by the Gracious One with a Dhamma talk, said to the Gracious One: "May the Gracious One consent, reverend Sir, to me offering him a meal on the morrow, together with the Community of monks." The Gracious One consented by maintaining silence.
+Then Cunda the smith, having been instructed, roused, enthused, and cheered by the Gracious One with a Dhamma talk, said to the Gracious One: "May the Gracious One consent, reverend Sir, to me offering him a meal on the morrow, together with the Community of bhikkhus." The Gracious One consented by maintaining silence.
 
 3Then Cunda the smith, having understood the Gracious One's consent, after rising from his seat, worshipping and circumambulating the Gracious One, went away.
 
 Then with the passing of that night, Cunda the smith, in his own residence, having had excellent comestibles and edibles made ready, and an abundance of tender pork, had the time accounced to the Gracious One, saying: "It is time, reverend Sir, the meal is ready."
 
-4Then the Gracious One, having dressed in the morning time, after picking up his bowl and robe, together with the Community of monks, went to Cunda the smith's residence, and after going, he sat down on the prepared seat. Having sat down the Gracious One addressed Cunda the smith, saying: "Serve me with the tender pork you have prepared, Cunda, but serve the Community of monks with the other comestibles and edibles which have been prepared.
+4Then the Gracious One, having dressed in the morning time, after picking up his bowl and robe, together with the Community of bhikkhus, went to Cunda the smith's residence, and after going, he sat down on the prepared seat. Having sat down the Gracious One addressed Cunda the smith, saying: "Serve me with the tender pork you have prepared, Cunda, but serve the Community of bhikkhus with the other comestibles and edibles which have been prepared.
 
-"Yes, reverend Sir", said Cunda the smith, and after replying to the Gracious One, he served the Gracious One with the tender pork that had been prepared, but served the Community of monks with the other comestibles and edibles which had been prepared.
+"Yes, reverend Sir", said Cunda the smith, and after replying to the Gracious One, he served the Gracious One with the tender pork that had been prepared, but served the Community of bhikkhus with the other comestibles and edibles which had been prepared.
 
 5Then the Gracious One addressed Cunda the smith, saying: "Throw that left over tender pork into a pit, Cunda, for I do not see, Cunda, in the world with its devas, Māra, and Brahmā, in this generation with its ascetics and brāhmaṇas, princes and men, one who, having eaten it, could completely digest it, except for a Realised One."
 
@@ -77,7 +77,7 @@ For a third time the Gracious One addressed venerable Ānanda, saying: "Come now
 
 After taking a bowl of drinking water he went to the Gracious One, and after going, he said this to the Gracious One: "It is wonderful, reverend Sir, it is marvellous, reverend Sir, the Realised One's great power and great majesty, in that that little river that is flowing, which has been churned by wheels, and is stirred up and disturbed, as I was going, flowed transparent, clear, and undisturbed. Please drink the drinking water, Gracious One! Please drink the drinking water, Fortunate One!" Then the Gracious One drank the drinking water.
 
-14Then the Gracious One with a great Community of monks went to the river Kukutthā, and after going, and entering into the river Kukutthā, bathing, and drinking, and coming back out, went to the mango wood, and after going, he addressed venerable Cundaka, saying: "Come now, Cundaka, prepare the outer robe folded in four for me, I am weary, Cundaka, and will lie down."
+14Then the Gracious One with a great Community of bhikkhus went to the river Kukutthā, and after going, and entering into the river Kukutthā, bathing, and drinking, and coming back out, went to the mango wood, and after going, he addressed venerable Cundaka, saying: "Come now, Cundaka, prepare the outer robe folded in four for me, I am weary, Cundaka, and will lie down."
 
 15"Yes, reverend Sir", said venerable Cundaka, and after replying to the Gracious One, he prepared the outer robe folded in four. Then the Gracious One lay down on his right side in the lion's posture, after placing one foot on the top of the other, mindfully, with full awareness, having applied his mind to the thought of rising. And venerable Cundaka sat down right there in front of the Gracious One.
 
@@ -87,11 +87,11 @@ The Teacher, very weary, entered the river,
 the Realised One, who is unmatched here in the world.
 
 17After washing and drinking, the Teacher came out,  
-And in the middle of the group of monks, at the front,  
+And in the middle of the group of bhikkhus, at the front,  
 The Teacher, the Gracious One, having taught the Dhamma here,  
 The Great Sage went to the mango wood.
 
-18He addressed the monk called Cundaka, saying:  
+18He addressed the bhikkhu called Cundaka, saying:  
 "Spread out the lying robe folded in four for me,"  
 Cunda, urged by the One with Developed Mind,  
 Very quickly spread the robe folded in four.  

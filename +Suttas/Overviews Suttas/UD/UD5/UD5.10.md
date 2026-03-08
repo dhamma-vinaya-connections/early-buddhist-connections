@@ -58,7 +58,7 @@ keenly practicing the spiritual life
 > With steady body,
 steady awareness,
 –whether standing, sitting, or lying down–
-a monk determined on mindfulness
+a bhikkhu determined on mindfulness
 gains one distinction
 after another.
 Having gained one distinction

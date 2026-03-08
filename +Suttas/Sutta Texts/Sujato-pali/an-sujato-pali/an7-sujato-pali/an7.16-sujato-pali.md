@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these seven people are worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and are the supreme field of merit for the world. What seven?
+1“bhikkhus, these seven people are worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and are the supreme field of merit for the world. What seven?
 
 First, take a person who meditates observing impermanence in all conditions. They perceive impermanence and experience impermanence. Constantly, continually, and without stopping, they apply the mind and fathom with wisdom. They’ve realized the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements. This is the first person.
 

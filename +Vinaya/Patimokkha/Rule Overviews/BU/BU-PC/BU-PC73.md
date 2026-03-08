@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - "Motion-1proclamation"
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC151"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC72]] 🌐 [[BU-PC74]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 8 Saha-Dhammika-Vaggo - 8 Legitimate Correction
 ## BU-PC73 - Mohana - Deception
 
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC151"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya \"idāneva kho ahaṃ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī\"ti. tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo \"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamānena sādhukaṃ aṭṭhiṃ katvā manasi karosī\"ti, idaṃ tasmiṃ mohanake pācittiyaṃ | During the half-monthly recitation of the Monastic Code, a monk might say, “Just now did I find out that this rule too has come down in the Monastic Code, is included in the Monastic Code, and comes up for recitation every half-month.” If other monks know that that monk has previously sat through at least two or three recitations of the Monastic Code, then that monk is not let off because of ignorance, and he is to be dealt with according to the rule. Further, he should be charged with deception: “It’s a loss for you that you don’t pay proper attention during the recitation of the Monastic Code.” And for the act of deception, he commits an offense entailing confession |
+| Yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya \"idāneva kho ahaṃ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī\"ti. tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo \"tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamānena sādhukaṃ aṭṭhiṃ katvā manasi karosī\"ti, idaṃ tasmiṃ mohanake pācittiyaṃ | During the half-monthly recitation of the Monastic Code, a monk might say, “Just now did I find out that this rule too has come down in the Monastic Code, is included in the Monastic Code, and comes up for recitation every half-month.” If other bhikkhus know that that monk has previously sat through at least two or three recitations of the Monastic Code, then that monk is not let off because of ignorance, and he is to be dealt with according to the rule. Further, he should be charged with deception: “It’s a loss for you that you don’t pay proper attention during the recitation of the Monastic Code.” And for the act of deception, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-PC151"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC73 | [[BNI-PC151]] | Vin.3.1–3.40 |
 

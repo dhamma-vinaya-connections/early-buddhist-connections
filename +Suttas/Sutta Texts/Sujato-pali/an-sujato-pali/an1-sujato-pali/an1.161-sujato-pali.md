@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-161“Mendicants, those mendicants who explain an offense as an offense are acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans. They make much merit and make the true teaching continue.”
+161“bhikkhus, those bhikkhus who explain an offense as an offense are acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of gods and humans. They make much merit and make the true teaching continue.”
 
-162-169“Those mendicants who explain a light offense as a light offense … a serious offense as a serious offense … an offense committed with corrupt intention as an offense committed with corrupt intention … an offense not committed with corrupt intention as an offense not committed with corrupt intention … an offense requiring rehabilitation as an offense requiring rehabilitation … an offense not requiring rehabilitation as an offense not requiring rehabilitation … an offense with redress as an offense with redress … an offense without redress as an offense without redress are acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of the people, of gods and humans. They make much merit and make the true teaching continue.”
+162-169“Those bhikkhus who explain a light offense as a light offense … a serious offense as a serious offense … an offense committed with corrupt intention as an offense committed with corrupt intention … an offense not committed with corrupt intention as an offense not committed with corrupt intention … an offense requiring rehabilitation as an offense requiring rehabilitation … an offense not requiring rehabilitation as an offense not requiring rehabilitation … an offense with redress as an offense with redress … an offense without redress as an offense without redress are acting for the welfare and happiness of the people, for the benefit, welfare, and happiness of the people, of gods and humans. They make much merit and make the true teaching continue.”
 
 
 ---

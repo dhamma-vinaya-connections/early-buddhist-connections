@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS10]]
 > ◄  [[bu-ss9-horner]] 📜  [[bu-ss11-horner]] ►
 
-# Monks’ Formal Meeting (_Saṅghādisesa_) 10
+# bhikkhus’ Formal Meeting (_Saṅghādisesa_) 10
 
 *BD.1.296* *Bu-Ss.10.1.1* *Vin.3.171* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding place. And then Devadatta[^1] came up to Kokālika,[^2] and to Kaṭamorakatissaka, and to the son of the lady Khaṇḍā, and to Samuddadatta, and having come up he said to Kokālika, Kaṭamorakatissaka, and the son of the lady Khaṇḍā, and to Samuddadatta: “Now we, your reverences, will make a schism in the Order of the recluse Gotama, a breaking of the concord.”[^3]
 
@@ -15,7 +15,7 @@ When he had spoken thus Kokālika said to Devadatta: “Your reverence, the recl
 
 “Now we, your reverence, having approached the recluse Gotama, will beg for five items: ‘Lord, the lord in many ways speaks in praise of desiring little, of being contented, of expunging (evil), of being punctilious, of what is gracious, of decrease (of the obstructions), of putting forth energy.[^4] Lord, these five items are conducive in many ways to desiring little, to contentment, to expunging (evil), to being punctilious, to what is gracious, *BD.1.297* to decrease (of the obstruction), to putting forth energy.
 
-1.  It were good, lord, if the monks for as long as life lasted, should be forest-dwellers; whoever should betake himself to the neighbourhood of a village, sin[^5] would besmirch[^6] him.
+1.  It were good, lord, if the bhikkhus for as long as life lasted, should be forest-dwellers; whoever should betake himself to the neighbourhood of a village, sin[^5] would besmirch[^6] him.
 2.  For as long as life lasts let them be beggars for alms;[^7] whoever should accept an invitation, sin would besmirch him.
 3.  For as long as life lasts let them be wearers of robes taken from the dust-heap; whoever should accept a robe given by a householder, sin would besmirch him.[^8]
 4.  For as long as life lasts let them live at the foot of a tree;[^9] whoever should go under cover, sin would besmirch him.
@@ -39,21 +39,21 @@ Then Devadatta thinking: “The lord does not allow these five items,” was joy
 
 Then those who were faithful, virtuous, clever, enlightened people became vexed, annoyed, angry and said: “How can this Devadatta go forward with a schism in the Order of the lord, with a breaking of the concord?”
 
-Then the monks heard these people who were vexed, annoyed, angry. Those who were modest monks were … angry, and said: “How can this Devadatta go forward with a schism, with a breaking of the concord?” Then these monks told this matter to the lord.
+Then the bhikkhus heard these people who were vexed, annoyed, angry. Those who were modest bhikkhus were … angry, and said: “How can this Devadatta go forward with a schism, with a breaking of the concord?” Then these bhikkhus told this matter to the lord.
 
 He said: “Is it true, as is said, Devadatta, that you went forward with a schism in the Order, with a breaking of the concord?”
 
 “It is true, lord,” he said.
 
-The enlightened one, the lord, rebuked him, saying: “How can you, foolish man, go forward with a schism in the Order, with a breaking of the concord? It is not, foolish man, for the benefit of unbelievers … Thus, monks, this course of training should be set forth:
+The enlightened one, the lord, rebuked him, saying: “How can you, foolish man, go forward with a schism in the Order, with a breaking of the concord? It is not, foolish man, for the benefit of unbelievers … Thus, bhikkhus, this course of training should be set forth:
 
-“Whatever monk should go forward with a schism of the Order which is harmonious, or should persist in taking up some legal question leading to a dissension: that monk should be spoken to thus by the monks: ‘Do not, venerable one, go forward with a schism of the Order which is harmonious, or persist in taking up some legal question leading to a dissension. Let the venerable *BD.1.300* one be associated with the Order; for the Order is harmonious, on friendly terms, not quarrelsome, it dwells comfortably under a single rule.’[^16] And if that monk, after he has been spoken to thus by the monks, *Vin.3.173* should persist, that monk should be admonished up to three times by the monks together concerning his giving up such a course. Should he give it up after being admonished up to three times, this is good. Should he not give it up, there is an offence entailing a formal meeting of the Order.”
+“Whatever bhikkhu should go forward with a schism of the Order which is harmonious, or should persist in taking up some legal question leading to a dissension: that bhikkhu should be spoken to thus by the bhikkhus: ‘Do not, venerable one, go forward with a schism of the Order which is harmonious, or persist in taking up some legal question leading to a dissension. Let the venerable *BD.1.300* one be associated with the Order; for the Order is harmonious, on friendly terms, not quarrelsome, it dwells comfortably under a single rule.’[^16] And if that bhikkhu, after he has been spoken to thus by the bhikkhus, *Vin.3.173* should persist, that bhikkhu should be admonished up to three times by the bhikkhus together concerning his giving up such a course. Should he give it up after being admonished up to three times, this is good. Should he not give it up, there is an offence entailing a formal meeting of the Order.”
 
 * * *
 
 *Bu-Ss.10.2.1* Whatever means: he who …
 
-Monk means: … in this meaning is monk to be understood.
+bhikkhu means: … in this meaning is bhikkhu to be understood.
 
 Harmonious means: an Order belonging to the same community[^17] is established within the same boundary.[^18]
 
@@ -67,11 +67,11 @@ Leading to means: kindling.
 
 *BD.1.301* Should persist means: should not give up.
 
-That monk means: that schismatic monk.
+That bhikkhu means: that schismatic bhikkhu.
 
-By the monks means: by other monks, whoever see, whoever hear; these should say: “Do not, venerable one, go forward with a schism of the Order which is harmonious, nor persist in taking up a legal question leading to a dissension. Let the venerable one be associated with the Order. The Order, harmonious, on friendly terms, not quarrelsome, dwells comfortably under a single rule.” A second time they should say … A third time they should say … If he gives it up, this is good. If he does not give it up, it is an offence of wrong-doing. If having heard, they do not speak, there is an offence of wrong-doing. That monk, having been pulled to the middle of the Order, they are to say: “Do not, venerable one, go forward with a schism of the Order, which is harmonious, nor persist in taking up a legal question leading to a dissension. Let the venerable one be associated with the Order. The Order, harmonious … comfortably under a single rule.” A second time they should say … A third time they should say … If he gives it up, that is good. If he does not give it up, there is an offence of wrong-doing.
+By the bhikkhus means: by other bhikkhus, whoever see, whoever hear; these should say: “Do not, venerable one, go forward with a schism of the Order which is harmonious, nor persist in taking up a legal question leading to a dissension. Let the venerable one be associated with the Order. The Order, harmonious, on friendly terms, not quarrelsome, dwells comfortably under a single rule.” A second time they should say … A third time they should say … If he gives it up, this is good. If he does not give it up, it is an offence of wrong-doing. If having heard, they do not speak, there is an offence of wrong-doing. That bhikkhu, having been pulled to the middle of the Order, they are to say: “Do not, venerable one, go forward with a schism of the Order, which is harmonious, nor persist in taking up a legal question leading to a dissension. Let the venerable one be associated with the Order. The Order, harmonious … comfortably under a single rule.” A second time they should say … A third time they should say … If he gives it up, that is good. If he does not give it up, there is an offence of wrong-doing.
 
-That monk should be admonished. Thus, monks, should he be admonished: the Order should be informed by an experienced, competent monk: “Honoured sirs, let the Order listen to me. This monk, so and so, proceeds with a schism of the Order which is harmonious. He does not give up this course. If it is the right time for the Order, let the Order admonish this monk, so and so, so that he may give up his course. This is the motion. Honoured sirs, let the Order hear me. This monk, so and so … does not give up his course. The Order *Vin.3.174* together admonishes the monk, so and so, that he may give up his course. If it seems good to the venerable ones, together admonishing this monk, so and so, that he should give up his course, be silent; if it does not seem good, then you should speak. A second time I speak this matter … A third time *BD.1.302* I speak this matter … then you should speak. It has been said by the Order that the monk, so and so, should give up his course. It seems good to the Order … Thus do I understand.”
+That bhikkhu should be admonished. Thus, bhikkhus, should he be admonished: the Order should be informed by an experienced, competent bhikkhu: “Honoured sirs, let the Order listen to me. This bhikkhu, so and so, proceeds with a schism of the Order which is harmonious. He does not give up this course. If it is the right time for the Order, let the Order admonish this bhikkhu, so and so, so that he may give up his course. This is the motion. Honoured sirs, let the Order hear me. This bhikkhu, so and so … does not give up his course. The Order *Vin.3.174* together admonishes the bhikkhu, so and so, that he may give up his course. If it seems good to the venerable ones, together admonishing this bhikkhu, so and so, that he should give up his course, be silent; if it does not seem good, then you should speak. A second time I speak this matter … A third time *BD.1.302* I speak this matter … then you should speak. It has been said by the Order that the bhikkhu, so and so, should give up his course. It seems good to the Order … Thus do I understand.”
 
 According to the motion there is an offence of wrong-doing; according to the two resolutions[^20] there are grave offences;[^21] according to the end of a resolution there is an offence entailing a formal meeting of the Order. If he is committing an offence entailing a formal meeting of the Order, the offence of wrong-doing according to the motion and the grave offences according to the two resolutions, subside.[^22]
 
@@ -91,7 +91,7 @@ Told is the Tenth Offence entailing a Formal Meeting of the Order: that of a sch
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

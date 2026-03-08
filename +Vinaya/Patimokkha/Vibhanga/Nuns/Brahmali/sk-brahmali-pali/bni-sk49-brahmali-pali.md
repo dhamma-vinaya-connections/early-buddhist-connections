@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six ate sticking out their tongues. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six ate sticking out their tongues. …
 
 #### Final ruling
 
 2“‘I will not eat sticking out my tongue,’ this is how you should train.”
 
-3One should not eat sticking out one’s tongue. If a monk, out of disrespect, eats sticking out his tongue, he commits an offense of wrong conduct.
+3One should not eat sticking out one’s tongue. If a bhikkhu, out of disrespect, eats sticking out his tongue, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

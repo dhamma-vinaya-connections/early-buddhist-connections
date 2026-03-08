@@ -18,24 +18,24 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the nuns asked questions of a monk who had not given them permission. The monks complained and criticized them, “How can nuns ask questions of a monk who hasn’t given them permission?” …
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the nuns asked questions of a bhikkhu who had not given them permission. The bhikkhus complained and criticized them, “How can nuns ask questions of a bhikkhu who hasn’t given them permission?” …
 
-“Is it true, monks, that nuns do this?”
+“Is it true, bhikkhus, that nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can nuns do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
-2‘If a nun asks a question of a monk who has not given her permission, she commits an offense entailing confession.’”
+2‘If a nun asks a question of a bhikkhu who has not given her permission, she commits an offense entailing confession.’”
 
 #### Definitions
 
 3**A:** whoever … **Nun:** … The nun who has been given the full ordination in unanimity by both Sanghas through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of nun is meant in this case.
 
-4**Who has not given her permission:** without asking permission. **A monk:** one who is fully ordained. **Asks a question:** if she gets permission to ask about the discourses, but she asks about the Monastic Law or philosophy, she commits an offense entailing confession. If she gets permission to ask about the Monastic Law, but she asks about the discourses or philosophy, she commits an offense entailing confession. If she gets permission to ask about philosophy, but she asks about the discourses or the Monastic Law, she commits an offense entailing confession.
+4**Who has not given her permission:** without asking permission. **A bhikkhu:** one who is fully ordained. **Asks a question:** if she gets permission to ask about the discourses, but she asks about the Monastic Law or philosophy, she commits an offense entailing confession. If she gets permission to ask about the Monastic Law, but she asks about the discourses or philosophy, she commits an offense entailing confession. If she gets permission to ask about philosophy, but she asks about the discourses or the Monastic Law, she commits an offense entailing confession.
 
 #### Permutations
 

@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 634. Tena kho pana samayena bhikkhū chattapāṇissa gilānassa dhammaṃ desetuṃ kukkuccāyanti. Manussā ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma samaṇā sakyaputtiyā chattapāṇissa gilānassa dhammaṃ na desessantī’’ti! Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ. Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ. Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi – ‘‘anujānāmi, bhikkhave, chattapāṇissa gilānassa dhammaṃ desetuṃ. Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-## 634.At that time, monks were hesitant to teach the Dhamma to a sick person holding a parasol. People criticized and complained: “How can these Sakyan ascetics not teach the Dhamma to a sick person holding a parasol?” The monks heard these criticisms and reported the matter to the Blessed One. Then, on this occasion, in this connection, the Blessed One gave a Dhamma talk and addressed the monks: “Monks, I allow you to teach the Dhamma to a sick person holding a parasol. And so, monks, you should recite this training rule:
+## 634.At that time, bhikkhus were hesitant to teach the Dhamma to a sick person holding a parasol. People criticized and complained: “How can these Sakyan ascetics not teach the Dhamma to a sick person holding a parasol?” The bhikkhus heard these criticisms and reported the matter to the Blessed One. Then, on this occasion, in this connection, the Blessed One gave a Dhamma talk and addressed the bhikkhus: “bhikkhus, I allow you to teach the Dhamma to a sick person holding a parasol. And so, bhikkhus, you should recite this training rule:
 
 ‘‘Na chattapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā’’ti.
 

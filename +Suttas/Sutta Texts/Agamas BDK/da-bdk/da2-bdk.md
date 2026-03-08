@@ -1713,7 +1713,7 @@ veneration at the same time. At that moment both of the Buddha’s feet suddenly
 disappeared. Thereupon, Mahākāśyapa circumambulated the funeral pyre  
 three times and uttered the following verses:
 
-The highest among the ascetic mendicants ( _śramaṇa_ s),  
+The highest among the ascetic bhikkhus ( _śramaṇa_ s),  
 Turning wrong to right,  
 He who introduced the way to total quiescence,  
 Toward he whose trace is like the deep water,  

@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Things that are to be fully known, given up, developed, and realized through insight
 > 
-> For the sake of robes, alms-food, lodgings, or rebirth in this or that state. These are the four things that give rise to craving in a mendicant
+> For the sake of robes, alms-food, lodgings, or rebirth in this or that state. These are the four things that give rise to craving in a bhikkhu
 > 
 
 

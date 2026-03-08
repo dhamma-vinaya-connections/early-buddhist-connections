@@ -30,7 +30,7 @@ Then the Buddha robed up in the morning and, taking his bowl and robe, entered U
 2The householder Tapussa went up to Venerable Ānanda, bowed, sat down to one side, and said to him:
 
 
-3“Sir, Ānanda, we are laypeople who enjoy sensual pleasures. We like sensual pleasures, we love them and take joy in them. But renunciation seems like an abyss. I have heard that in this teaching and training there are very young mendicants whose minds are eager for renunciation; they’re confident, settled, and decided about it. They see it as peaceful. Renunciation is the dividing line between the multitude and the mendicants in this teaching and training.”
+3“Sir, Ānanda, we are laypeople who enjoy sensual pleasures. We like sensual pleasures, we love them and take joy in them. But renunciation seems like an abyss. I have heard that in this teaching and training there are very young bhikkhus whose minds are eager for renunciation; they’re confident, settled, and decided about it. They see it as peaceful. Renunciation is the dividing line between the multitude and the bhikkhus in this teaching and training.”
 
 4“Householder, we should see the Buddha about this matter. Come, let’s go to the Buddha and inform him about this. As he answers, so we’ll remember it.”
 

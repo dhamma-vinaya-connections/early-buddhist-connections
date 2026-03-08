@@ -12,21 +12,21 @@ language: "English"
 
 ### 125. The Discourse on Poverty
 
-Thus have I heard. At one time the Buddha was staying at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s Park. At that time the World-honored One addressed the monks, “For a worldly person who has sensual desires, is poverty a great suffering?” The monks answered, “Yes, World-honored One, it is.” The World-honored One further asked the monks: If a person who has sensual desires is poor, he may raise a loan from another family’s wealth. Is raising a loan from another family’s wealth a great suffering in the world? The monks answered, “Yes, World-honored One, it is.” The World-honored One further asked the monks: If a person who has sensual desires raises a loan and is unable to repay it on time, the interest increases day by day. Is the increasing interest a great suffering in the world? The monks answered, “Yes, World-honored One, it is.”
+Thus have I heard. At one time the Buddha was staying at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s Park. At that time the World-honored One addressed the bhikkhus, “For a worldly person who has sensual desires, is poverty a great suffering?” The bhikkhus answered, “Yes, World-honored One, it is.” The World-honored One further asked the bhikkhus: If a person who has sensual desires is poor, he may raise a loan from another family’s wealth. Is raising a loan from another family’s wealth a great suffering in the world? The bhikkhus answered, “Yes, World-honored One, it is.” The World-honored One further asked the bhikkhus: If a person who has sensual desires raises a loan and is unable to repay it on time, the interest increases day by day. Is the increasing interest a great suffering in the world? The bhikkhus answered, “Yes, World-honored One, it is.”
 
-The World-honored One further asked the monks:
+The World-honored One further asked the bhikkhus:
 
 If a person who has sensual desires is unable to pay the increasing interest the creditor asks for repayment [of the debt]. Is being asked by a creditor [for repayment of a debt] a great suffering in the world?
 
-The monks answered, “Yes, World-honored One, it is.” The World-honored One further asked the monks:
+The bhikkhus answered, “Yes, World-honored One, it is.” The World-honored One further asked the bhikkhus:
 
 If a person who has sensual desires is asked by the creditor [for repayment of a debt] and is unable to repay it, the creditor pursues him and asks again and again [for repayment]. Is being pursued by a creditor and asked again and again [for repayment] a great suffering in the world?
 
-The monks answered, “Yes, World-honored One, it is.” The World-honored One further asked the monks:
+The bhikkhus answered, “Yes, World-honored One, it is.” The World-honored One further asked the bhikkhus:
 
 For a person who has sensual desires, if the creditor pursues him and asks again and again [for repayment], and because of being unable to repay [the loan] he is arrested and bound by the creditor. Is being arrested and bound by a creditor a great suffering in the world?
 
-The monks answered, “Yes, World-honored One, it is.” [The World-honored One said:]
+The bhikkhus answered, “Yes, World-honored One, it is.” [The World-honored One said:]
 
 This means that for a person who has sensual desires, poverty is a great suffering in the world; for a person who has sensual desires, raising a loan is a great suffering in the world; for a person who has sensual desires, the increasing interest from raising a loan is a great suffering in the world; for a person who has sensual desires, being asked by a creditor [for repayment of a loan] is a great suffering in the world; for a person who has sensual desires, being pursued by a creditor and asked again and again [for repay- ment] is a great suffering in the world; for a person who has sensual desires, being arrested and bound by a creditor is a great suffering in the world. In the same way, if someone in this noble Dharma has no faith in [the value of] wholesome states, does not keep the precepts, is not learned, is not generous, and lacks wisdom regarding wholesome states, then for that reason he is poor and powerless, even if he possesses great amounts of
 
@@ -50,7 +50,7 @@ With body and speech he performs such deeds, And also with the thoughts in his m
 
 [Committing] evil actions and lacking wisdom, Having done much that is unwholesome, Accordingly, when his life comes to its end, He will certainly go to the bondage of hell.
 
-This bondage is the most profound suffering. A “hero,” [however,] is free from it. One who obtains wealth in accordance with the Dharma Will not incur debt but will be at peace. Giving brings happiness; It is profitable in both respects [in present and future lives]. In this way householders Increase their merit through giving. It is the same in the noble Dharma; For one who has good and sincere faith And is equipped with a sense of shame and guilt Who will certainly be without stinginess or greed. Having abandoned the five hindrances, He always delights in practicing diligently. Attaining the concentrative jhānas, He is filled with lasting peace and happiness.^396 Having attained an unworldly happiness, Purified as if bathed with water, His imperturbable mind is liberated, And all bonds of existence are eradicated. Nirvana is freedom from ailment; It is called the unsurpassable lamp.^397 Freedom from grief, freedom from dust, and peace: This is called “the imperturbable.” Thus spoke the Buddha. Having heard what the Buddha said, the monks were delighted and received it respectfully.
+This bondage is the most profound suffering. A “hero,” [however,] is free from it. One who obtains wealth in accordance with the Dharma Will not incur debt but will be at peace. Giving brings happiness; It is profitable in both respects [in present and future lives]. In this way householders Increase their merit through giving. It is the same in the noble Dharma; For one who has good and sincere faith And is equipped with a sense of shame and guilt Who will certainly be without stinginess or greed. Having abandoned the five hindrances, He always delights in practicing diligently. Attaining the concentrative jhānas, He is filled with lasting peace and happiness.^396 Having attained an unworldly happiness, Purified as if bathed with water, His imperturbable mind is liberated, And all bonds of existence are eradicated. Nirvana is freedom from ailment; It is called the unsurpassable lamp.^397 Freedom from grief, freedom from dust, and peace: This is called “the imperturbable.” Thus spoke the Buddha. Having heard what the Buddha said, the bhikkhus were delighted and received it respectfully.
 
 
 ---

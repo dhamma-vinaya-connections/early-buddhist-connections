@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you a bad person and a worse person, a good person and a better person.
+1“bhikkhus, I will teach you a bad person and a worse person, a good person and a better person.
 
 2And what is a bad person? It’s someone who has wrong view, wrong thought, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong immersion. This is called a bad person.
 

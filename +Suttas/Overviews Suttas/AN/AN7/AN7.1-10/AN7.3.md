@@ -49,7 +49,7 @@ parallels_partilal: "[[SA688]], [[SA689]], [[SA690]]"
 > [!info] Key Excerpts 
 > Powers of faith, energy, conscience, prudence, mindfulness, samādhi, and wisdom
 > 
-> Empowered by these, an astute mendicant lives happily
+> Empowered by these, an astute bhikkhu lives happily
 > 
 
 

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 61
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three eyes. Which three? The eye of flesh, the divine eye,[1](#^iti61note01) & the eye of discernment. These are the three eyes.” ^iti61note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three eyes. Which three? The eye of flesh, the divine eye,[1](#^iti61note01) & the eye of discernment. These are the three eyes.” ^iti61note01-ref
 
 The eye of flesh,
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Growth of fame, mendicants, is a small thing. Wisdom is the best thing to grow. So you should train like this: ‘We will grow in wisdom.’ That’s how you should train.”
+1“Growth of fame, bhikkhus, is a small thing. Wisdom is the best thing to grow. So you should train like this: ‘We will grow in wisdom.’ That’s how you should train.”
 
 1"Appamattikā esā, bhikkhave, vuddhi yadidaṁ yasovuddhi. Etadaggaṁ, bhikkhave, vuddhīnaṁ yadidaṁ paññāvuddhi. Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘paññāvuddhiyā vaddhissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban"ti.
 

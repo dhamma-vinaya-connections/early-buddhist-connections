@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Even if a mendicant is a trainee, they won’t progress if they don’t focus on practice
+> Even if a bhikkhu is a trainee, they won’t progress if they don’t focus on practice
 
 > [!info] Key Excerpts 
 > Don’t relish work, talk, sleep, and company. And they review the extent of their mind’s freedom

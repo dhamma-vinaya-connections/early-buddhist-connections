@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: ""
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC32]] 🌐 [[BU-PC34]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 4 Bhojana-Vaggo - 4 Food
 ## BU-PC33 - Paramparabhojana - Eating Successive Meals
 
@@ -54,7 +54,7 @@ vin_gender-corr: ""
 > > [!info]- Useful Notes
 > > > From various authors
 > > 
-> > “I allow you, monks, having assigned (food to another), to eat an out-of-turn meal. If eat before non staple food, one should not take so much as to spoil one’s appetite for the meal. where there are fewer bhikkhus than there are donors. One bhikkhu would be allowed to accept more than one meal so that no family’s meal would go without a recipient
+> > “I allow you, bhikkhus, having assigned (food to another), to eat an out-of-turn meal. If eat before non staple food, one should not take so much as to spoil one’s appetite for the meal. where there are fewer bhikkhus than there are donors. One bhikkhu would be allowed to accept more than one meal so that no family’s meal would go without a recipient
 > 
 > > [!info]-  Formulas 
 > > >If applicable from BMC1 Appendices  [[bmc1#^ch13]]
@@ -74,7 +74,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC33 |  | Vin.3.1–3.40 |
 

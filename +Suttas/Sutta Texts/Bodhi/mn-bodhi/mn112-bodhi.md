@@ -70,7 +70,7 @@ language: "English"
 
 13–17. “‘Having thus gone forth and possessing the bhikkhus’ training and way of life...(as Sutta 51, [[Raw files/Wisdom publications/02 - MAJJHIMA NIKAYA - The Middle Length Discourses of the Buddha_Bhikkhu Bodhi/Part Two - The Middle Fifty Discourses/Chapter 1 - The Division on Householders/51 - Kandaraka Sutta|§§14–19]]) \[34, 35\]…I purified my mind from doubt. \[36\]
 
-18\. “‘Having thus abandoned these five hindrances, imperfections of the mind that weaken wisdom, quite secluded from sensual pleasures, secluded from unwholesome states, I entered upon and abided in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. With the stilling of applied and sustained thought, I entered upon and abided in the second jhāna…With the fading away as well of rapture…I entered upon and abided in the third jhāna…With the abandoning of pleasure and pain…I entered upon and abided in the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity.
+18\. “‘Having thus abandoned these five hindrances, imperfections of the mind that weaken wisdom, ![[Jhanas]].
 
 19\. “‘When my collected mind was thus purified, bright, unblemished, rid of imperfections, malleable, wieldy, steady, and attained to imperturbability, I directed it to knowledge of the destruction of the taints. I directly knew as it actually is: “This is suffering”…“This is the origin of suffering”…“This is the cessation of suffering”…“This is the way leading to the cessation of suffering.” I directly knew as it actually is: “These are the taints”…“This is the origin of the taints”…“This is the cessation of the taints”…“This is the way leading to the cessation of the taints.”
 

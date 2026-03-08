@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.87.1.1* *BD.3.406* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the group of six nuns wore women’s ornaments. People … spread it about, saying: “How can these nuns wear women’s ornaments, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can this group of six nuns wear women’s ornaments?” …
 
-“Is it true, as is said, monks, that … women’s ornaments?”
+“Is it true, as is said, bhikkhus, that … women’s ornaments?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can … women’s ornaments? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can … women’s ornaments? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should wear women’s ornaments, there is an offence of expiation.”
 

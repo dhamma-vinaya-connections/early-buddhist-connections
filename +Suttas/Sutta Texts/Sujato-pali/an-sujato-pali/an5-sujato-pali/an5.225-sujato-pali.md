@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks of visiting families. What five? You fall into an offense for wandering without leave. You fall into an offense for sitting in a private place with someone of the opposite sex. You fall into an offense for sitting in a hidden place with someone of the opposite sex. You fall into an offense for teaching more than five or six sentences to someone of the opposite sex. You have a lot of sensual thoughts. These are the five drawbacks of visiting families.”
+1“bhikkhus, there are these five drawbacks of visiting families. What five? You fall into an offense for wandering without leave. You fall into an offense for sitting in a private place with someone of the opposite sex. You fall into an offense for sitting in a hidden place with someone of the opposite sex. You fall into an offense for teaching more than five or six sentences to someone of the opposite sex. You have a lot of sensual thoughts. These are the five drawbacks of visiting families.”
 
 1"Pañcime, bhikkhave, ādīnavā kulūpake. Katame pañca? Anāmantacāre āpajjati, raho nisajjāya āpajjati, paṭicchanne āsane āpajjati, mātugāmassa uttari chappañcavācāhi dhammaṁ desento āpajjati, kāmasaṅkappabahulo viharati. Ime kho, bhikkhave, pañca ādīnavā kulūpake"ti.
 

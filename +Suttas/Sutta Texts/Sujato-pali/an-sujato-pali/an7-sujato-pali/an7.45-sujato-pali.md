@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these seven prerequisites for immersion. What seven? Right view, right thought, right speech, right action, right livelihood, right effort, and right mindfulness. Unification of mind with these seven factors as prerequisites is called noble right immersion ‘with its vital conditions’ and ‘with its prerequisites’.”
+1“bhikkhus, there are these seven prerequisites for immersion. What seven? Right view, right thought, right speech, right action, right livelihood, right effort, and right mindfulness. Unification of mind with these seven factors as prerequisites is called noble right immersion ‘with its vital conditions’ and ‘with its prerequisites’.”
 
 1"Sattime, bhikkhave, samādhiparikkhārā. Katame satta? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati. Yā kho, bhikkhave, imehi sattahaṅgehi cittassekaggatā parikkhatā, ayaṁ vuccati, bhikkhave, ariyo sammāsamādhi saupaniso itipi saparikkhāro itipī"ti.
 

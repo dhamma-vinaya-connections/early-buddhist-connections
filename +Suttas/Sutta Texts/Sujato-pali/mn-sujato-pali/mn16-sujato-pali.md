@@ -18,17 +18,17 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, when a mendicant has not given up five kinds of emotional barrenness and cut off five emotional shackles, it’s not possible for them to achieve growth, improvement, or maturity in this teaching and training.
+2“bhikkhus, when a bhikkhu has not given up five kinds of emotional barrenness and cut off five emotional shackles, it’s not possible for them to achieve growth, improvement, or maturity in this teaching and training.
 
-3What are the five kinds of emotional barrenness they haven’t given up? Firstly, a mendicant has doubts about the Teacher. They’re uncertain, undecided, and lacking confidence. This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the first kind of emotional barrenness they haven’t given up.
+3What are the five kinds of emotional barrenness they haven’t given up? Firstly, a bhikkhu has doubts about the Teacher. They’re uncertain, undecided, and lacking confidence. This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the first kind of emotional barrenness they haven’t given up.
 
 
-4Furthermore, a mendicant has doubts about the teaching … This is the second kind of emotional barrenness.
+4Furthermore, a bhikkhu has doubts about the teaching … This is the second kind of emotional barrenness.
 
 
 5They have doubts about the Saṅgha … This is the third kind of emotional barrenness.
@@ -36,15 +36,15 @@ language: "English - Pali"
 6They have doubts about the training … This is the fourth kind of emotional barrenness.
 
 
-7Furthermore, a mendicant is angry and upset with their spiritual companions, resentful and closed off. This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the fifth kind of emotional barrenness they haven’t given up. These are the five kinds of emotional barrenness they haven’t given up.
+7Furthermore, a bhikkhu is angry and upset with their spiritual companions, resentful and closed off. This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the fifth kind of emotional barrenness they haven’t given up. These are the five kinds of emotional barrenness they haven’t given up.
 
 
-8What are the five emotional shackles they haven’t cut off? Firstly, a mendicant isn’t free of greed, desire, fondness, thirst, passion, and craving for sensual pleasures. This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the first emotional shackle they haven’t cut off.
+8What are the five emotional shackles they haven’t cut off? Firstly, a bhikkhu isn’t free of greed, desire, fondness, thirst, passion, and craving for sensual pleasures. This being so, their mind doesn’t incline toward keenness, commitment, persistence, and striving. This is the first emotional shackle they haven’t cut off.
 
 
-9Furthermore, a mendicant isn’t free of greed for the body … This is the second emotional shackle.
+9Furthermore, a bhikkhu isn’t free of greed for the body … This is the second emotional shackle.
 
-10Furthermore, a mendicant isn’t free of greed for form … This is the third emotional shackle.
+10Furthermore, a bhikkhu isn’t free of greed for form … This is the third emotional shackle.
 
 
 11They eat as much as they like until their belly is full, then indulge in the pleasures of sleeping, lying down, and drowsing … This is the fourth emotional shackle.
@@ -55,14 +55,14 @@ language: "English - Pali"
 These are the five emotional shackles they haven’t cut off.
 
 
-13When a mendicant has not given up these five kinds of emotional barrenness and cut off these five emotional shackles, it’s not possible for them to achieve growth, improvement, or maturity in this teaching and training.
+13When a bhikkhu has not given up these five kinds of emotional barrenness and cut off these five emotional shackles, it’s not possible for them to achieve growth, improvement, or maturity in this teaching and training.
 
-14When a mendicant has given up these five kinds of emotional barrenness and cut off these five emotional shackles, it is possible for them to achieve growth, improvement, and maturity in this teaching and training.
+14When a bhikkhu has given up these five kinds of emotional barrenness and cut off these five emotional shackles, it is possible for them to achieve growth, improvement, and maturity in this teaching and training.
 
 
-15What are the five kinds of emotional barrenness they’ve given up? Firstly, a mendicant has no doubts about the Teacher. They’re not uncertain, undecided, or lacking confidence. This being so, their mind inclines toward keenness, commitment, persistence, and striving. This is the first kind of emotional barrenness they’ve given up.
+15What are the five kinds of emotional barrenness they’ve given up? Firstly, a bhikkhu has no doubts about the Teacher. They’re not uncertain, undecided, or lacking confidence. This being so, their mind inclines toward keenness, commitment, persistence, and striving. This is the first kind of emotional barrenness they’ve given up.
 
-16Furthermore, a mendicant has no doubts about the teaching …
+16Furthermore, a bhikkhu has no doubts about the teaching …
 
 
 17They have no doubts about the Saṅgha …
@@ -75,10 +75,10 @@ These are the five emotional shackles they haven’t cut off.
 These are the five kinds of emotional barrenness they’ve given up.
 
 
-20What are the five emotional shackles they’ve cut off? Firstly, a mendicant is rid of greed, desire, fondness, thirst, passion, and craving for sensual pleasures. This being so, their mind inclines toward keenness, commitment, persistence, and striving. This is the first emotional shackle they’ve cut off.
+20What are the five emotional shackles they’ve cut off? Firstly, a bhikkhu is rid of greed, desire, fondness, thirst, passion, and craving for sensual pleasures. This being so, their mind inclines toward keenness, commitment, persistence, and striving. This is the first emotional shackle they’ve cut off.
 
 
-21Furthermore, a mendicant is rid of greed for the body …  
+21Furthermore, a bhikkhu is rid of greed for the body …  
   
 They’re rid of greed for form …  
   
@@ -90,19 +90,19 @@ They don’t eat as much as they like until their belly is full, then indulge in
 These are the five emotional shackles they’ve cut off.
 
 
-23When a mendicant has given up these five kinds of emotional barrenness and cut off these five emotional shackles, it is possible for them to achieve growth, improvement, or maturity in this teaching and training.
+23When a bhikkhu has given up these five kinds of emotional barrenness and cut off these five emotional shackles, it is possible for them to achieve growth, improvement, or maturity in this teaching and training.
 
-24They develop the basis of psychic power that has immersion due to enthusiasm, and active effort … the basis of psychic power that has immersion due to energy, and active effort … the basis of psychic power that has immersion due to mental development, and active effort … the basis of psychic power that has immersion due to inquiry, and active effort. And the fifth is sheer vigor. A mendicant who possesses these fifteen factors, including vigor, is capable of breaking out, becoming awakened, and reaching the supreme sanctuary.
+24They develop the ![[Iddhipadas]] that has immersion due to energy, and active effort … the ![[Iddhipadas]] that has immersion due to inquiry, and active effort. And the fifth is sheer vigor. A bhikkhu who possesses these fifteen factors, including vigor, is capable of breaking out, becoming awakened, and reaching the supreme sanctuary.
 
 
 Suppose there was a chicken with eight or ten or twelve eggs. And she properly sat on them to keep them warm and incubated.
 
 Even if that chicken doesn’t wish: ‘If only my chicks could break out of the eggshell with their claws and beak and hatch safely!’ Still they can break out and hatch safely.
 
-In the same way, a mendicant who possesses these fifteen factors, including vigor, is capable of breaking out, becoming awakened, and reaching the supreme sanctuary.”
+In the same way, a bhikkhu who possesses these fifteen factors, including vigor, is capable of breaking out, becoming awakened, and reaching the supreme sanctuary.”
 
 
-That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

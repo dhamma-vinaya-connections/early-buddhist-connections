@@ -18,17 +18,17 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Campā on the banks of the Gaggarā Lotus Pond together with a large Saṅgha of mendicants.
+1So I have heard. At one time the Buddha was staying near Campā on the banks of the Gaggarā Lotus Pond together with a large Saṅgha of bhikkhus.
 
-Then Pessa the elephant driver’s son and Kandaraka the wanderer went to see the Buddha. When they had approached, Pessa bowed and sat down to one side. But the wanderer Kandaraka exchanged greetings with the Buddha and stood to one side. He looked around the mendicant Saṅgha, who were so very silent, and said to the Buddha:
+Then Pessa the elephant driver’s son and Kandaraka the wanderer went to see the Buddha. When they had approached, Pessa bowed and sat down to one side. But the wanderer Kandaraka exchanged greetings with the Buddha and stood to one side. He looked around the bhikkhu Saṅgha, who were so very silent, and said to the Buddha:
 
-“It’s incredible, Master Gotama, it’s amazing! How the mendicant Saṅgha has been led to practice properly by Master Gotama! All the perfected ones, the fully awakened Buddhas in the past or the future who lead the mendicant Saṅgha to practice properly will at best do so like Master Gotama does in the present.”
+“It’s incredible, Master Gotama, it’s amazing! How the bhikkhu Saṅgha has been led to practice properly by Master Gotama! All the perfected ones, the fully awakened Buddhas in the past or the future who lead the bhikkhu Saṅgha to practice properly will at best do so like Master Gotama does in the present.”
 
-2“That’s so true, Kandaraka! That’s so true! All the perfected ones, the fully awakened Buddhas in the past or the future who lead the mendicant Saṅgha to practice properly will at best do so like I do in the present.
+2“That’s so true, Kandaraka! That’s so true! All the perfected ones, the fully awakened Buddhas in the past or the future who lead the bhikkhu Saṅgha to practice properly will at best do so like I do in the present.
 
-For in this mendicant Saṅgha there are perfected mendicants, who have ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment. And in this mendicant Saṅgha there are trainee mendicants who are consistently ethical, living consistently, alert, living alertly. They meditate with their minds firmly established in the four kinds of mindfulness meditation. What four?
+For in this bhikkhu Saṅgha there are perfected bhikkhus, who have ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their own goal, utterly ended the fetters of rebirth, and are rightly freed through enlightenment. And in this bhikkhu Saṅgha there are trainee bhikkhus who are consistently ethical, living consistently, alert, living alertly. They meditate with their minds firmly established in the four kinds of mindfulness meditation. What four?
 
-3It’s when a mendicant meditates by observing an aspect of the body — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of the mind — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of principles — keen, aware, and mindful, rid of desire and aversion for the world.”
+3It’s when a bhikkhu ![[Satipatthanas]]. They meditate observing an aspect of feelings — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of the mind — keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of principles — keen, aware, and mindful, rid of desire and aversion for the world.”
 
 
 4When he had spoken, Pessa said to the Buddha:
@@ -64,11 +64,11 @@ Which one of these four people do you like the sound of?”
 
 And then Pessa the elephant driver’s son approved and agreed with what the Buddha said. He got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 
-8Then, not long after he had left, the Buddha addressed the mendicants: “Mendicants, Pessa the elephant driver’s son is astute. He has great wisdom. If he had sat here a little longer so that I could have analyzed these four people in detail, he would have greatly benefited. Still, even with this much he has already greatly benefited.”
+8Then, not long after he had left, the Buddha addressed the bhikkhus: “bhikkhus, Pessa the elephant driver’s son is astute. He has great wisdom. If he had sat here a little longer so that I could have analyzed these four people in detail, he would have greatly benefited. Still, even with this much he has already greatly benefited.”
 
-“Now is the time, Blessed One! Now is the time, Holy One! May the Buddha analyze these four people in detail. The mendicants will listen and remember it.”
+“Now is the time, Blessed One! Now is the time, Holy One! May the Buddha analyze these four people in detail. The bhikkhus will listen and remember it.”
 
-“Well then, mendicants, listen and pay close attention, I will speak.”
+“Well then, bhikkhus, listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
@@ -91,7 +91,7 @@ It’s when a Realized One arises in the world, perfected, a fully awakened Budd
 A householder hears that teaching, or a householder’s child, or someone reborn in some clan. They gain faith in the Realized One, and reflect: ‘Living in a house is cramped and dirty, but the life of one gone forth is wide open. It’s not easy for someone living at home to lead the spiritual life utterly full and pure, like a polished shell. Why don’t I shave off my hair and beard, dress in ocher robes, and go forth from the lay life to homelessness?’ After some time they give up a large or small fortune, and a large or small family circle. They shave off hair and beard, dress in ocher robes, and go forth from the lay life to homelessness.
 
 
-15Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings.
+15Once they’ve gone forth, they take up the training and livelihood of the bhikkhus. They give up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings.
 
 They give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving.
 
@@ -101,7 +101,7 @@ They give up lying. They speak the truth and stick to the truth. They’re hones
 
 They avoid injuring plants and seeds. They eat in one part of the day, abstaining from eating at night and food at the wrong time. They avoid dancing, singing, music, and seeing shows. They avoid beautifying and adorning themselves with garlands, perfumes, and makeup. They avoid high and luxurious beds. They avoid receiving gold and money, raw grains, raw meat, women and girls, male and female bondservants, goats and sheep, chickens and pigs, elephants, cows, horses, and mares, and fields and land. They avoid running errands and messages; buying and selling; falsifying weights, metals, or measures; bribery, fraud, cheating, and duplicity; mutilation, murder, abduction, banditry, plunder, and violence.
 
-16They’re content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden. In the same way, a mendicant is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves.
+16They’re content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden. In the same way, a bhikkhu is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves.
 
 
 17When they see a sight with their eyes, they don’t get caught up in the features and details. If the faculty of sight were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint. When they hear a sound with their ears … When they smell an odor with their nose … When they taste a flavor with their tongue … When they feel a touch with their body … When they know a thought with their mind, they don’t get caught up in the features and details. If the faculty of mind were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of mind, and achieving its restraint. When they have this noble sense restraint, they experience an unsullied bliss inside themselves.
@@ -137,7 +137,7 @@ This is called a person who neither mortifies themselves or others, being commit
 They live without wishes in the present life, extinguished, cooled, experiencing bliss, having become holy in themselves.”
 
 
-24That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+24That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

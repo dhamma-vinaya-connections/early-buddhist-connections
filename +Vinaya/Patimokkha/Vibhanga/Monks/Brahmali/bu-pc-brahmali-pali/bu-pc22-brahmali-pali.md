@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the senior monks were taking turns instructing the nuns. Then, on one occasion, it was Venerable Cūḷapanthaka’s turn. The nuns said, “Today the instruction won’t be effective. Venerable Cūḷapanthaka will just be repeating the same thing over and over.”
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the senior bhikkhus were taking turns instructing the nuns. Then, on one occasion, it was Venerable Cūḷapanthaka’s turn. The nuns said, “Today the instruction won’t be effective. Venerable Cūḷapanthaka will just be repeating the same thing over and over.”
 
 Soon afterwards those nuns went to Cūḷapanthaka, bowed, and sat down. Cūḷapanthaka then said to them, “Are you all here, Sisters?”
 
@@ -38,14 +38,14 @@ The peaceful one, who is always mindful.”
 
 3And the nuns said, “Didn’t we say that the instruction wouldn’t be effective, that Venerable Cūḷapanthaka would just be repeating the same thing over and over?” Cūḷapanthaka overheard that conversation between the nuns. He then rose up into the air, walked back and forth in space, and he stood, sat down, and lay down there. He emitted smoke and fire, and he disappeared, all the while uttering the same heartfelt exclamation and many other sayings by the Buddha. The nuns said, “It’s astonishing and amazing! No previous instruction has been as effective as this one from Venerable Cūḷapanthaka!” And Cūḷapanthaka kept on instructing those nuns until the dark of night and then dismissed them, saying, “Go, Sisters.”
 
-4But because the gates to town were closed, those nuns spent the night outside and only entered early in the morning. People complained and criticized them, “These nuns aren’t celibate. They spend the night in the monastery with the monks and only now do they enter town.”
+4But because the gates to town were closed, those nuns spent the night outside and only entered early in the morning. People complained and criticized them, “These nuns aren’t celibate. They spend the night in the monastery with the bhikkhus and only now do they enter town.”
 
-5The monks heard the complaints of those people, and the monks of few desires complained and criticized Cūḷapanthaka, “How could Venerable Cūḷapanthaka instruct the nuns after the sun has set?”… “Is it true, Cūḷapanthaka, that you did this?”
+5The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized Cūḷapanthaka, “How could Venerable Cūḷapanthaka instruct the nuns after the sun has set?”… “Is it true, Cūḷapanthaka, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Cūḷapanthaka, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Cūḷapanthaka, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

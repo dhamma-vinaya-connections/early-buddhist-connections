@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three things. What three? Being hard to admonish, bad friendship, and a distracted mind. These are the three things. To give up these three things you should develop three things. What three? You should develop being easy to admonish to give up being hard to admonish, good friendship to give up bad friendship, and mindfulness of breathing to give up a distracted mind. These are the three things you should develop to give up those three things.”
+1“bhikkhus, there are these three things. What three? Being hard to admonish, bad friendship, and a distracted mind. These are the three things. To give up these three things you should develop three things. What three? You should develop being easy to admonish to give up being hard to admonish, good friendship to give up bad friendship, and mindfulness of breathing to give up a distracted mind. These are the three things you should develop to give up those three things.”
 
 1"Tayome, bhikkhave, dhammā. Katame tayo? Dovacassatā, pāpamittatā, cetaso vikkhepo. Ime kho, bhikkhave, tayo dhammā. Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Dovacassatāya pahānāya sovacassatā bhāvetabbā, pāpamittatāya pahānāya kalyāṇamittatā bhāvetabbā, cetaso vikkhepassa pahānāya ānāpānassati bhāvetabbā. Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya ime tayo dhammā bhāvetabbā"ti.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four kinds of overflowing merit, overflowing goodness. They nurture happiness and are conducive to heaven, ripening in happiness and leading to heaven. They lead to what is likable, desirable, agreeable, to welfare and happiness. What four?
+1“bhikkhus, there are these four kinds of overflowing merit, overflowing goodness. They nurture happiness and are conducive to heaven, ripening in happiness and leading to heaven. They lead to what is likable, desirable, agreeable, to welfare and happiness. What four?
 
 
 It’s when a noble disciple has experiential confidence in the Buddha: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ This is the first kind of overflowing merit …

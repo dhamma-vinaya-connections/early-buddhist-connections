@@ -14,15 +14,15 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### IX. Senior Mendicants — AN 5.82: Free of Greed
+### IX. Senior bhikkhus — AN 5.82: Free of Greed
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a senior mendicant with five qualities is unlikable and unlovable to their spiritual companions, not respected or admired. What five? They’re not free of greed, hate, and delusion; they are offensive and contemptuous. A senior mendicant with these five qualities is unlikable and unlovable to their spiritual companions, not respected or admired.
+1“bhikkhus, a senior bhikkhu with five qualities is unlikable and unlovable to their spiritual companions, not respected or admired. What five? They’re not free of greed, hate, and delusion; they are offensive and contemptuous. A senior bhikkhu with these five qualities is unlikable and unlovable to their spiritual companions, not respected or admired.
 
-2A senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired. What five? They’re free of greed, hate, and delusion; they’re not offensive and contemptuous. A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
+2A senior bhikkhu with five qualities is dear and beloved to their spiritual companions, respected and admired. What five? They’re free of greed, hate, and delusion; they’re not offensive and contemptuous. A senior bhikkhu with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṁ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca. Katamehi pañcahi? Avītarāgo hoti, avītadoso hoti, avītamoho hoti, makkhī ca, paḷāsī ca – imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṁ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I will teach you about nine things rooted in craving.
+1“bhikkhus, I will teach you about nine things rooted in craving.
 
 And what are the nine things rooted in craving? Craving is a cause for seeking. Seeking is a cause for gaining material possessions. Gaining material possessions is a cause for assessing. Assessing is a cause for desire and lust. Desire and lust is a cause for attachment. Attachment is a cause for possessiveness. Possessiveness is a cause for stinginess. Stinginess is a cause for safeguarding. Owing to safeguarding, many bad, unskillful things come to be: taking up the rod and the sword, quarrels, arguments, and fights, accusations, divisive speech, and lies. These are the nine things rooted in craving.”
 

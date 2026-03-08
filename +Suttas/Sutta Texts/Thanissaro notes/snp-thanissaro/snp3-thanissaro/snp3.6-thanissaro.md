@@ -54,7 +54,7 @@ Then the thought occurred to Sabhiya the wanderer, “Isn’t it amazing? Isn’
 
 “Having attained what
 
-is one said to be a monk?
+is one said to be a bhikkhu?
 
 In what way is one composed?
 
@@ -78,7 +78,7 @@ having fulfilled [the task],
 
 further-becoming ended:
 
-He is a monk.[2](#^snp3-6-02) ^snp3-6-02-ref
+He is a bhikkhu.[2](#^snp3-6-02) ^snp3-6-02-ref
 
 Everywhere equanimous, mindful,
 
@@ -506,11 +506,11 @@ Sabhiya venerates them,
 
 the feet of the Teacher.[25](#^snp3-6-25) ^snp3-6-25-ref
 
-Then Sabhiya the wanderer, bending his head to the Blessed One’s feet, said, “Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to set out a lamp in the darkness so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, & to the Saṅgha of monks. Let me obtain the Going-forth in the Blessed One’s presence, let me obtain Acceptance.”
+Then Sabhiya the wanderer, bending his head to the Blessed One’s feet, said, “Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to set out a lamp in the darkness so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, & to the Saṅgha of bhikkhus. Let me obtain the Going-forth in the Blessed One’s presence, let me obtain Acceptance.”
 
-“Anyone, Sabhiya, who has previously belonged to another sect and who desires the Going-forth & Acceptance into this Dhamma & Vinaya, must first undergo probation for four months. If, at the end of four months, the monks feel so moved, they give him the Going-forth & accept him into the monk’s state. But I know distinctions among individuals in this matter.”
+“Anyone, Sabhiya, who has previously belonged to another sect and who desires the Going-forth & Acceptance into this Dhamma & Vinaya, must first undergo probation for four months. If, at the end of four months, the bhikkhus feel so moved, they give him the Going-forth & accept him into the bhikkhu’s state. But I know distinctions among individuals in this matter.”
 
-“Lord, if that is so, I am willing to undergo probation for four years. If, at the end of four years, the monks feel so moved, let them give me the Going-forth & accept me into the monk’s state.”
+“Lord, if that is so, I am willing to undergo probation for four years. If, at the end of four years, the bhikkhus feel so moved, let them give me the Going-forth & accept me into the bhikkhu’s state.”
 
 Then Sabhiya the wanderer obtained the Going-forth in the Blessed One’s presence, he obtained Acceptance. And not long after his Acceptance—dwelling alone, secluded, heedful, ardent, & resolute—he in no long time reached & remained in the supreme goal of the holy life, for which clansmen rightly go forth from home into homelessness, knowing & realizing it for himself in the here-&-now. He knew: “Birth is ended, the holy life fulfilled, the task done. There is nothing further for the sake of this world.” And so Ven. Sabhiya became another one of the arahants.
 
@@ -520,7 +520,7 @@ vv. 510–547
 
 1. Reading _Daharo’pi c’esa samaṇo Gotamo mahiddhiko hoti mahānbhavo,_ with the Burmese edition. [↩︎](#^snp3-6-01-ref) ^snp3-6-01
 
-2. Many of the Buddha’s answers to Sabhiya’s questions involve verbal effects such as alliteration and rhyme. This verse contains a play on words, relating _bhikkhu_ (monk) to _bhavaṁ_ (becoming) and _khīṇa-_ (ended). [↩︎](#^snp3-6-02-ref) ^snp3-6-02
+2. Many of the Buddha’s answers to Sabhiya’s questions involve verbal effects such as alliteration and rhyme. This verse contains a play on words, relating _bhikkhu_ (bhikkhu) to _bhavaṁ_ (becoming) and _khīṇa-_ (ended). [↩︎](#^snp3-6-02-ref) ^snp3-6-02
 
 3. _Ussada:_ According to SnA, this means such forms of defilement as passion, aversion, delusion, pride, and conceit. See [[/snp4.14-thanissaro]]. [↩︎](#^snp3-6-03-ref) ^snp3-6-03
 

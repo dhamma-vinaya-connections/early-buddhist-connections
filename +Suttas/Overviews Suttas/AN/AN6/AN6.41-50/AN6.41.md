@@ -44,12 +44,12 @@ parallels_partilal: "[[SA494]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Even a simple block of wood can be perceived in different ways by a mendicant with advanced meditation
+> Even a simple block of wood can be perceived in different ways by a bhikkhu with advanced meditation
 
 > [!info] Key Excerpts 
 > If he wanted to, a monk with psychic power, having attained mastery of his mind, could will that wood pile to be nothing but earth... water... fire... wind... beautiful... unattractive
 > 
-> Because the properties and element exists in the tree trunk. Relying on that a mendicant with psychic powers could determine it to be nothing but any elements
+> Because the properties and element exists in the tree trunk. Relying on that a bhikkhu with psychic powers could determine it to be nothing but any elements
 > 
 
 

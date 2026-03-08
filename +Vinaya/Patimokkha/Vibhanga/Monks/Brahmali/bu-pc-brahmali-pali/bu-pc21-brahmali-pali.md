@@ -18,26 +18,26 @@ language: "Pali - English"
 
 #### First sub-story
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the senior monks who were instructing the nuns received robe-cloth, almsfood, dwellings, and medicinal supplies. When the monks from the group of six found out about this, they thought, “Well then, let’s instruct the nuns.” They then went to the nuns and said, “Come to us, Sisters, and we too will instruct you.”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the senior bhikkhus who were instructing the nuns received robe-cloth, almsfood, dwellings, and medicinal supplies. When the bhikkhus from the group of six found out about this, they thought, “Well then, let’s instruct the nuns.” They then went to the nuns and said, “Come to us, Sisters, and we too will instruct you.”
 
-2Soon afterwards those nuns went to the monks from the group of six, bowed, and sat down. But after giving just a short teaching, those monks spent the day on pointless talk. They then dismissed the nuns, saying, “Go, Sisters.”
+2Soon afterwards those nuns went to the bhikkhus from the group of six, bowed, and sat down. But after giving just a short teaching, those bhikkhus spent the day on pointless talk. They then dismissed the nuns, saying, “Go, Sisters.”
 
 The nuns went to the Buddha and bowed, and the Buddha said to them, “Nuns, I hope the instruction was effective?”
 
-“Venerable Sir, how could the instruction be effective? After giving just a short teaching, the monks from the group of six spent the day on pointless talk, and then dismissed us.”
+“Venerable Sir, how could the instruction be effective? After giving just a short teaching, the bhikkhus from the group of six spent the day on pointless talk, and then dismissed us.”
 
 
 The Buddha instructed, inspired, and gladdened those nuns with a teaching. The nuns bowed, circumambulated the Buddha with their right sides toward him, and left.
 
 
-3Soon afterwards the Buddha had the Sangha gathered and questioned the monks from the group of six: “Is it true, monks, that you acted like this?”
+3Soon afterwards the Buddha had the Sangha gathered and questioned the bhikkhus from the group of six: “Is it true, bhikkhus, that you acted like this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you act like this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “Foolish men, how could you act like this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
-“Monks, you should appoint an instructor of the nuns. And this is how he should be appointed. First a monk should be asked and then a competent and capable monk should inform the Sangha:
+“bhikkhus, you should appoint an instructor of the nuns. And this is how he should be appointed. First a monk should be asked and then a competent and capable monk should inform the Sangha:
 
 
 4‘Please, Venerables, I ask the Sangha to listen. If it seems appropriate to the Sangha, it should appoint monk so-and-so as an instructor of the nuns. This is the motion.
@@ -48,26 +48,26 @@ The Buddha rebuked them … “Foolish men, how could you act like this? This wi
 
 7The Sangha has appointed monk so-and-so as an instructor of the nuns. The Sangha approves and is therefore silent. I’ll remember it thus.’”
 
-8Then, after rebuking the monks from the group of six in many ways, the Buddha spoke in dispraise of being difficult to support … “And, monks, this training rule should be recited like this:
+8Then, after rebuking the bhikkhus from the group of six in many ways, the Buddha spoke in dispraise of being difficult to support … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
 9‘If a monk who has not been appointed instructs the nuns, he commits an offense entailing confession.’”
 
-10In this way the Buddha laid down this training rule for the monks.
+10In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-11After being appointed to do so, the senior monks who instructed the nuns still received robe-cloth, almsfood, dwellings, and medicinal supplies. When they found out about this, the monks from the group of six said: “Well then, let’s go outside the monastery zone, appoint each other as instructors of the nuns, and then instruct them.” After doing just that, they again went to the nuns and said, “Sisters, we too have been appointed. Come to us, and we will instruct you.”
+11After being appointed to do so, the senior bhikkhus who instructed the nuns still received robe-cloth, almsfood, dwellings, and medicinal supplies. When they found out about this, the bhikkhus from the group of six said: “Well then, let’s go outside the monastery zone, appoint each other as instructors of the nuns, and then instruct them.” After doing just that, they again went to the nuns and said, “Sisters, we too have been appointed. Come to us, and we will instruct you.”
 
 
-12-13Once again the nuns went to the monks from the group of six and everything unfolded as before. The Buddha then had the Sangha gathered and questioned the monks from the group of six: “Is it true, monks, that you acted like this?”
+12-13Once again the nuns went to the bhikkhus from the group of six and everything unfolded as before. The Buddha then had the Sangha gathered and questioned the bhikkhus from the group of six: “Is it true, bhikkhus, that you acted like this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you act like this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “Foolish men, how could you act like this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
-“Monks, you may appoint a monk who possesses eight qualities as an instructor of the nuns:
+“bhikkhus, you may appoint a monk who possesses eight qualities as an instructor of the nuns:
 
 
 He is virtuous and restrained by the Monastic Code. His conduct is good, he associates with the right people, and he sees danger in minor faults. He undertakes and trains in the training rules.
@@ -88,7 +88,7 @@ He has never committed a heavy offense against a Buddhist nun.
 He has been fully ordained for at least twenty years.
 
 
-Monks, you may appoint a monk who possesses these eight qualities as an instructor of the nuns.”
+bhikkhus, you may appoint a monk who possesses these eight qualities as an instructor of the nuns.”
 
 #### Definitions
 
@@ -117,9 +117,9 @@ If they say, “We’re not,” he should recite the important principles:
 
 “A nun who has been fully ordained for a hundred years should bow down to a monk who was given the full ordination on that very day, and she should stand up for him, raise her joined palms to him, and do acts of respect toward him. This principle is to be honored and respected all one’s life, and is not to be breached.
 
-A nun should not spend the rainy-season residence in a monastery without monks. This principle too is to be honored and respected all one’s life, and is not to be breached.
+A nun should not spend the rainy-season residence in a monastery without bhikkhus. This principle too is to be honored and respected all one’s life, and is not to be breached.
 
-Every half-month a nun should seek two things from the Sangha of monks: asking it about the observance day and going to it for the instruction. This principle too is to be honored and respected all one’s life, and is not to be breached.
+Every half-month a nun should seek two things from the Sangha of bhikkhus: asking it about the observance day and going to it for the instruction. This principle too is to be honored and respected all one’s life, and is not to be breached.
 
 A nun who has completed the rainy-season residence should invite correction from both Sanghas in regard to three things: what has been seen, heard, and suspected. This principle too is to be honored and respected all one’s life, and is not to be breached.
 
@@ -129,7 +129,7 @@ A trainee nun who has trained in the six rules for two years may seek for full o
 
 A nun may not in any way abuse or revile a monk. This principle too is to be honored and respected all one’s life, and is not to be breached.
 
-From today onwards, nuns may not correct monks, but monks may correct nuns. This principle too is to be honored and respected all one’s life, and is not to be breached.”
+From today onwards, nuns may not correct bhikkhus, but bhikkhus may correct nuns. This principle too is to be honored and respected all one’s life, and is not to be breached.”
 
 
 19If they say, “We’re all here, Venerable,” and he instructs them with another teaching, then he commits an offense of wrong conduct. If they say, “We’re not all here, Venerable,” and he instructs them in the eight important principles, then he commits an offense of wrong conduct. If he does not give the instruction, but he gives them another teaching, then he commits an offense of wrong conduct.

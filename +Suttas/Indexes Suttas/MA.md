@@ -9,7 +9,7 @@ contribution:
 
 ### MA1-10 -  - MA 1 Sets of Seven
 > [!example]- 🌐[[MA1]] - 📜[Available texts](obsidian://search?query=file:ma1-) - 牛犁破群那 – Moliya Phagguṇa 
->  A mendicant who has seven qualities is worthy, with a special emphasis on listening to and learning the teaching
+>  A bhikkhu who has seven qualities is worthy, with a special emphasis on listening to and learning the teaching
 
 > [!example]- 🌐[[MA2]] - 📜[Available texts](obsidian://search?query=file:ma2-) - 水淨梵志 – Brahmin [Practitioner of] 
 Purification by Bathing 
@@ -78,10 +78,10 @@ Purification by Bathing
 >  Sariputta explains the  difference between a person fettered internally and one fettered externally
 
 > [!example]- 🌐[[MA22]] - 📜[Available texts](obsidian://search?query=file:ma22-) - Sappurisa Sutta – Good Person 
->  Qualities should a senior mendicant have to be dear and beloved to their spiritual companions
+>  Qualities should a senior bhikkhu have to be dear and beloved to their spiritual companions
 ### MA21-30 -  - MA 3 Sāriputta
 > [!example]- 🌐[[MA23]] - 📜[Available texts](obsidian://search?query=file:ma23-) - Mahācattārīsaka Sutta – Great Forty 
->  A mendicant named kaḷāra the khattiya informs Sāriputta that the mendicant moḷiyaphagguna had disrobed. Overinterpreting Sāriputta’s reply, kaḷāra reports to the Buddha  that Sāriputta had claimed to have ended all defilements. The Buddha  calls Sāriputta to clarify his statements, and Sāriputta explains in terms of dependent origination
+>  A bhikkhu named kaḷāra the khattiya informs Sāriputta that the bhikkhu moḷiyaphagguna had disrobed. Overinterpreting Sāriputta’s reply, kaḷāra reports to the Buddha  that Sāriputta had claimed to have ended all defilements. The Buddha  calls Sāriputta to clarify his statements, and Sāriputta explains in terms of dependent origination
 
 > [!example]- 🌐[[MA24]] - 📜[Available texts](obsidian://search?query=file:ma24-) - Ānāpānassati Sutta – Mindfulness of Breathing 
 >  After the rains season, Sāriputta takes leave of the Buddha . Another monk falsely accuses Sāriputta of hitting him before leaving. The Buddha  calls Sāriputta to answer the accusation. Before the saṅgha, Sāriputta denies it, uttering a powerful statement of spiritual prowess.
@@ -90,7 +90,7 @@ Purification by Bathing
 >  Five skillful ways of dealing with people who annoy you and remove feelings of hatred toward others.
 
 > [!example]- 🌐[[MA26]] - 📜[Available texts](obsidian://search?query=file:ma26-) - Mahāsīhanāda Sutta – Longer Discourse on the Lion’s Roar 
->  A monk comes down to the community from the wilderness, but doesn’t behave properly. Venerable Sāriputta explains how a mendicant should behave, whether in forest or town
+>  A monk comes down to the community from the wilderness, but doesn’t behave properly. Venerable Sāriputta explains how a bhikkhu should behave, whether in forest or town
 
 > [!example]- 🌐[[MA27]] - 📜[Available texts](obsidian://search?query=file:ma27-) - Saṅkhārupapatti Sutta – Rebirth by Choice 
 >  A corrupt tax-collector is redeemed by his encounter with venerable Sāriputta
@@ -117,7 +117,7 @@ Purification by Bathing
 >  Story of how Ananda became the attendant his many qualities  
 
 > [!example]- 🌐[[MA34]] - 📜[Available texts](obsidian://search?query=file:ma34-) - 薄拘羅 – With Bakkula 
->  Venerable Bakkula, regarded as the healthiest of the mendicants, explains to an old friend his strict and austere practice. The unusual form of this discourse suggests it was added to the canon some time after the Buddha ’s death
+>  Venerable Bakkula, regarded as the healthiest of the bhikkhus, explains to an old friend his strict and austere practice. The unusual form of this discourse suggests it was added to the canon some time after the Buddha ’s death
 
 > [!example]- 🌐[[MA35]] - 📜[Available texts](obsidian://search?query=file:ma35-) - 阿修羅 – To the Asura 
 >  An Asura king visits the Buddha, the discuss the 8 good qualities of the ocean and their similarities with the good qualities of the Dhamma 
@@ -206,7 +206,7 @@ Purification by Bathing
 >  Story of a wheel turning monarch that fulfill all his wishes but not got quenched 
 ### MA61-70 -  - MA 6 Kings 
 > [!example]- 🌐[[MA61]] - 📜[Available texts](obsidian://search?query=file:ma61-) - 牛糞喻 – Cow Dung Parable 
->  A mendicant asks whether anything in the aggregates has even the tiniest bit of stability or permanence. The Buddha  answers using the simile of a little cow dung under his fingernail
+>  A bhikkhu asks whether anything in the aggregates has even the tiniest bit of stability or permanence. The Buddha  answers using the simile of a little cow dung under his fingernail
 
 > [!example]- 🌐[[MA62]] - 📜[Available texts](obsidian://search?query=file:ma62-) - 頻鞞娑邏王迎佛 – King Bimbisāra
 Meeting the Buddha 
@@ -241,7 +241,7 @@ Meeting the Buddha
 >  This is a long and entertaining debate between a monk and a skeptic, who went to elaborate and bizarre lengths to prove that there is no such thing as an afterlife. The discourse contains a colorful series of parables and examples
 
 > [!example]- 🌐[[MA72]] - 📜[Available texts](obsidian://search?query=file:ma72-) - 長壽王本起 – History of King Long Life Span 
->  A second discourse set at the quarrel of kosambi, this depicts the Buddha , having failed to achieve reconciliation between the disputing mendicants, leaving the monastery. He spends time in the wilderness before encountering an inspiring community of practicing monks. There he discusses in detail obstacles to meditation that he encountered before awakening
+>  A second discourse set at the quarrel of kosambi, this depicts the Buddha , having failed to achieve reconciliation between the disputing bhikkhus, leaving the monastery. He spends time in the wilderness before encountering an inspiring community of practicing monks. There he discusses in detail obstacles to meditation that he encountered before awakening
 
 > [!example]- 🌐[[MA73]] - 📜[Available texts](obsidian://search?query=file:ma73-) - Dhammadāyāda Sutta – Heirs in the Teaching 
 >  At gayā, the Buddha  describes his meditation before awakening. He was able to see lights and forms, converse with gods, and understand the deeds that made them gods
@@ -320,7 +320,7 @@ Purification by Bathing
 >  The Buddha  teaches that, if you can’t read anyone else’s mind, read your own by regular self-reflection
 
 > [!example]- 🌐[[MA96]] - 📜[Available texts](obsidian://search?query=file:ma96-) - 無 – Absence 
->  Sāriputta explains what the Buddha  meant by a mendicant who is in decline
+>  Sāriputta explains what the Buddha  meant by a bhikkhu who is in decline
 
 > [!example]- 🌐[[MA97]] - 📜[Available texts](obsidian://search?query=file:ma97-) - Sekha Sutta – A Trainee 
 >  Rejecting venerable Ānanda’s claim to easily understand dependent origination, the Buddha  presents a complex and demanding analysis, revealing hidden nuances and implications of this central teaching
@@ -468,11 +468,11 @@ Purification by Bathing
 
 > [!example]- 🌐[[MA142]] - 📜[Available texts](obsidian://search?query=file:ma142-) - 雨勢 – To Vassakāra 
 >  The Buddha  teaches the seven principles of non-decline to the licchavis at the sārandada shrine near vesālī
->  The Buddha  teaches the seven principles of non-decline to the mendicants
->  Seven qualities leading to the decline of a mendicant who is a trainee
+>  The Buddha  teaches the seven principles of non-decline to the bhikkhus
+>  Seven qualities leading to the decline of a bhikkhu who is a trainee
 
 > [!example]- 🌐[[MA143]] - 📜[Available texts](obsidian://search?query=file:ma143-) - 傷歌邏 – With Saṅgārava 
->  A brahmin argues that a sacrifice is less selfish than the mendicant’s life. And the king’s men are deploring the decline in psychic abilities among the saṅgha.
+>  A brahmin argues that a sacrifice is less selfish than the bhikkhu’s life. And the king’s men are deploring the decline in psychic abilities among the saṅgha.
 
 > [!example]- 🌐[[MA144]] - 📜[Available texts](obsidian://search?query=file:ma144-) - 算數目揵連 – With Moggallāna the Accountant 
 >  The Buddha  compares the training of an accountant with the step by step spiritual path of his followers. But even with such a well explained path, the Buddha  can only show the way, and it is up to us to walk it.
@@ -541,7 +541,7 @@ Moggallāna
 >  A discussion of the emotions: where they come from, how they function in the path of practice, and how they manifest in an awakened person who is fit to teach others
 
 > [!example]- 🌐[[MA164]] - 📜[Available texts](obsidian://search?query=file:ma164-) - 分別觀法 – Analytical Contemplation of Dharmas 
->  The Buddha  gives a brief and enigmatic statement on the ways consciousness may become attached. Venerable mahākaccāna is invited by the mendicants to draw out the implications
+>  The Buddha  gives a brief and enigmatic statement on the ways consciousness may become attached. Venerable mahākaccāna is invited by the bhikkhus to draw out the implications
 
 > [!example]- 🌐[[MA165]] - 📜[Available texts](obsidian://search?query=file:ma165-) - 溫泉林天 – Deva at the Hot Spring Grove 
 >  The verses about being present (MA 165) are explained in 6 senses context  by venerable Mahakaccāna
@@ -596,7 +596,7 @@ Moggallāna
 >  Beginning by praising a wise person, the Buddha  goes on to explain that one becomes wise by inquiring into the elements, sense fields, dependent origination, and what is possible and impossible
 
 > [!example]- 🌐[[MA182]] - 📜[Available texts](obsidian://search?query=file:ma182-) - 馬邑 – Discourse at Assapura 1 
->  The Buddha  encourages the mendicants to live up to their name, by actually practicing in a way that meets or exceeds the expectations people have for renunciants
+>  The Buddha  encourages the bhikkhus to live up to their name, by actually practicing in a way that meets or exceeds the expectations people have for renunciants
 >  The Buddha  outlines the full course of training by which a meditator may earn the right to call him- or herself a true contemplative.
 >  The labels of being a spiritual practitioner don’t just come from external trappings, but from sincere inner change.
 
@@ -604,10 +604,10 @@ Moggallāna
 >  The labels of being a spiritual practitioner don’t just come from external trappings, but from sincere inner change.
 
 > [!example]- 🌐[[MA184]] - 📜[Available texts](obsidian://search?query=file:ma184-) - 梵天請佛 – Brahmā’s Invitation to the Buddha 
->  Several senior mendicants, reveling in the beauty of the night, discuss what kind of practitioner would adorn the park. They take their answers to the Buddha , who praises their answers, but gives his own twist
+>  Several senior bhikkhus, reveling in the beauty of the night, discuss what kind of practitioner would adorn the park. They take their answers to the Buddha , who praises their answers, but gives his own twist
 
 > [!example]- 🌐[[MA185]] - 📜[Available texts](obsidian://search?query=file:ma185-) - 有勝天 – Existence of Higher Devas 
->  The Buddha  comes across three mendicants practicing diligently and harmoniously, and asks them how they do it. Reluctant to disclose their higher attainments, they explain how they deal with the practical affairs of living together. But when pressed by the Buddha , they reveal their meditation attainments.
+>  The Buddha  comes across three bhikkhus practicing diligently and harmoniously, and asks them how they do it. Reluctant to disclose their higher attainments, they explain how they deal with the practical affairs of living together. But when pressed by the Buddha , they reveal their meditation attainments.
 
 > [!example]- 🌐[[MA186]] - 📜[Available texts](obsidian://search?query=file:ma186-) - 求解 – Investigating 
 >  While some spiritual teachers prefer to remain in obscurity, the Buddha  not only encouraged his followers to closely investigate him, but gave them a detailed and demanding method to do so
@@ -616,7 +616,7 @@ Moggallāna
 >  If someone claims to be awakened, their claim should be interrogated with a detailed series of detailed questions. Only if they can answer them clearly should the claim be accepted
 
 > [!example]- 🌐[[MA188]] - 📜[Available texts](obsidian://search?query=file:ma188-) - 阿夷那 – Ajita 
->  One should understand what is the teaching and what is contrary to the teaching. After hearing this in brief from the Buddha, the mendicants seek a detailed answer from Ānanda
+>  One should understand what is the teaching and what is contrary to the teaching. After hearing this in brief from the Buddha, the bhikkhus seek a detailed answer from Ānanda
 
 > [!example]- 🌐[[MA189]] - 📜[Available texts](obsidian://search?query=file:ma189-) - 勝道 – Noble Path 
 >  A discourse on the prerequisites of right samādhi that emphasizes the interrelationship and mutual support of all the factors of the eightfold path
@@ -626,7 +626,7 @@ Moggallāna
 >  The Buddha  describes his own practice of the meditation on emptiness. The Buddha  instructs ven. Ananda on the practice that leads to the "entry into emptiness," the doorway to liberation
 ### MA191-200 -  - MA 15 Pairs
 > [!example]- 🌐[[MA191]] - 📜[Available texts](obsidian://search?query=file:ma191-) - 真人 – True Person  
->  A group of mendicants have taken to socializing too much, so the Buddha  teaches on the importance of seclusion in order to enter fully into emptiness
+>  A group of bhikkhus have taken to socializing too much, so the Buddha  teaches on the importance of seclusion in order to enter fully into emptiness
 >  Issues include the need for seclusion as a conducive setting for the practice, types of conversation and thinking that are beneficial and harmful for the practice, the dangers of being distracted by visitors, and the proper attitude to have toward one's teacher
 >  The Buddha  instructs Ananda on several practical aspects of the meditative dwelling in emptiness, a mode of awareness that can ultimately bring the meditator to the threshold of awakening
 
@@ -642,7 +642,7 @@ Moggallāna
 >  A monk refuses to follow the rule forbidding eating after noon, but is filled with remorse and forgiven
 
 > [!example]- 🌐[[MA195]] - 📜[Available texts](obsidian://search?query=file:ma195-) - 阿濕貝 – To Assaji 
->  A third discourse that presents the health benefits of eating in one part of the day, and the reluctance of some mendicants to follow this.
+>  A third discourse that presents the health benefits of eating in one part of the day, and the reluctance of some bhikkhus to follow this.
 >  A discourse on the importance of conviction in the buddhist path. Not only is conviction a prerequisite for listening to the Buddha 's teachings with respect, but — as is shown by the unusual discussion here categorizing the types of noble disciples — it can underlie the practice all the way to the deathless.
 
 > [!example]- 🌐[[MA196]] - 📜[Available texts](obsidian://search?query=file:ma196-) - 七車 – Seven Chariots 

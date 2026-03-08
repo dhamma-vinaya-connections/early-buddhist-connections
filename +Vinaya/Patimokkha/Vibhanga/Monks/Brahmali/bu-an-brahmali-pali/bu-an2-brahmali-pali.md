@@ -18,14 +18,14 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At this time Venerable Udāyī heard that the Buddha had prohibited sitting alone with a woman on a private and concealed seat suitable for action, and so instead he sat alone in private with the same girl. When they were able, they just chatted; otherwise he gave her a teaching.
 
-A second time Visākhā had been invited to that family. When she arrived, she saw Udāyī sitting alone in private with the same girl, and she said to Udāyī, “Venerable, it’s not appropriate for you to sit alone with a woman on a private seat. You may not be aiming at that act, but it’s hard to convince people with little confidence.” But Udāyī did not listen. After leaving, Visākhā told the monks what had happened. The monks of few desires complained and criticized him, “How could Venerable Udāyī sit alone with a woman on a private seat?”
+A second time Visākhā had been invited to that family. When she arrived, she saw Udāyī sitting alone in private with the same girl, and she said to Udāyī, “Venerable, it’s not appropriate for you to sit alone with a woman on a private seat. You may not be aiming at that act, but it’s hard to convince people with little confidence.” But Udāyī did not listen. After leaving, Visākhā told the bhikkhus what had happened. The bhikkhus of few desires complained and criticized him, “How could Venerable Udāyī sit alone with a woman on a private seat?”
 
 2After rebuking Udāyī in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Udāyī: “Is it true, Udāyī, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

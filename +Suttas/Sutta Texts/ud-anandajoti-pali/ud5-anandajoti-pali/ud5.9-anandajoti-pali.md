@@ -18,7 +18,7 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was walking on walking tour amongst the Kosalans, together with a great Community of monks. Then at that time a great many young brāhmaṇas were passing by not far from the Gracious One in a mocking manner. The Gracious One saw those many young brāhmaṇas passing by not far away in a mocking manner.
+1Thus I heard: At one time the Gracious One was walking on walking tour amongst the Kosalans, together with a great Community of bhikkhus. Then at that time a great many young brāhmaṇas were passing by not far from the Gracious One in a mocking manner. The Gracious One saw those many young brāhmaṇas passing by not far away in a mocking manner.
 
 2Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

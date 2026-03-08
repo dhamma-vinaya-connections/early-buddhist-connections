@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five drawbacks for a mendicant who visits families for too long, mixing closely with them. What five? You often see members of the opposite sex. Seeing them, you become close. Being so close, you become intimate. Being intimate, lust overcomes you. When your mind is swamped by lust, you can expect that you will live the spiritual life dissatisfied, or commit one of the corrupt offenses, or reject the training and return to a lesser life. These are the five drawbacks for a mendicant who visits families for too long, mixing closely with them.”
+1“bhikkhus, there are these five drawbacks for a bhikkhu who visits families for too long, mixing closely with them. What five? You often see members of the opposite sex. Seeing them, you become close. Being so close, you become intimate. Being intimate, lust overcomes you. When your mind is swamped by lust, you can expect that you will live the spiritual life dissatisfied, or commit one of the corrupt offenses, or reject the training and return to a lesser life. These are the five drawbacks for a bhikkhu who visits families for too long, mixing closely with them.”
 
 1"Pañcime, bhikkhave, ādīnavā kulūpakassa bhikkhuno ativelaṁ kulesu saṁsaṭṭhassa viharato. Katame pañca? Mātugāmassa abhiṇhadassanaṁ, dassane sati saṁsaggo, saṁsagge sati vissāso, vissāse sati otāro, otiṇṇacittassetaṁ pāṭikaṅkhaṁ:  ‘anabhirato vā brahmacariyaṁ carissati aññataraṁ vā saṅkiliṭṭhaṁ āpattiṁ āpajjissati sikkhaṁ vā paccakkhāya hīnāyāvattissati’. Ime kho, bhikkhave, pañca ādīnavā kulūpakassa bhikkhuno ativelaṁ kulesu saṁsaṭṭhassa viharato"ti.
 

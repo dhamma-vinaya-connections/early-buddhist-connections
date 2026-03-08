@@ -15,7 +15,7 @@ language: "English"
 
 The Way to Brahma
 
-\[235\] 1. THUS HAVE I HEARD. Once the Lord was touring Kosala with a large company of some five hundred monks. He came to a Kosalan Brahmin village called Manasakata, and stayed to the north of the village in a mango-grove on the bank of the River Aciravati.
+\[235\] 1. THUS HAVE I HEARD. Once the Lord was touring Kosala with a large company of some five hundred bhikkhus. He came to a Kosalan Brahmin village called Manasakata, and stayed to the north of the village in a mango-grove on the bank of the River Aciravati.
 
 2\. And at that time many very well-known and prosperous Brahmins were staying at Manasakata, including Canki, Tārukkha, Pokkharasati, Jāṇussoni, and Todeyya.
 
@@ -131,11 +131,11 @@ The Way to Brahma
 
 79\. ‘Just as if a mighty trumpeter were with little difficulty to make a proclamation to the four quarters, so by this meditation, Vāsettha, by this liberation of the heart through compassion,... through sympathetic joy,... through equanimity, he leaves nothing untouched, nothing unaffected in the sensuous sphere. This, Vāsettha, is the way to union with Brahma.
 
-80\. ‘What do you think, Vasettha? Is a monk dwelling thus encumbered with wives and wealth or unencumbered?’ ‘Unencumbered, Reverend Gotama. He is without hate..., without ill-will..., pure and disciplined, Reverend Gotama.’ \[252\]
+80\. ‘What do you think, Vasettha? Is a bhikkhu dwelling thus encumbered with wives and wealth or unencumbered?’ ‘Unencumbered, Reverend Gotama. He is without hate..., without ill-will..., pure and disciplined, Reverend Gotama.’ \[252\]
 
-81\. ‘Then, Vasettha, the monk is unencumbered, and Brahma is unencumbered. Has that unencumbered monk anything in common with the unencumbered Brahma?’ ‘Yes indeed, Reverend Gotama.’
+81\. ‘Then, Vasettha, the bhikkhu is unencumbered, and Brahma is unencumbered. Has that unencumbered bhikkhu anything in common with the unencumbered Brahma?’ ‘Yes indeed, Reverend Gotama.’
 
-‘That is right, Vāsettha. Then that an unencumbered monk, after death, at the breaking-up of the body, should attain to union with the unencumbered Brahmā — that is possible. Likewise a monk without hate..., without ill-will..., pure..., disciplined... Then that a disciplined monk, after death, at the breaking-up of the body, should attain to union with Brahmā — that is possible.’
+‘That is right, Vāsettha. Then that an unencumbered bhikkhu, after death, at the breaking-up of the body, should attain to union with the unencumbered Brahmā — that is possible. Likewise a bhikkhu without hate..., without ill-will..., pure..., disciplined... Then that a disciplined bhikkhu, after death, at the breaking-up of the body, should attain to union with Brahmā — that is possible.’
 
 82\. At this the young Brahmins Vāsettha and Bhāradvāja said to the Lord: ‘Excellent, Reverend Gotama, excellent! It is as if someone were to set up what had been knocked down, or to point out the way to one who had got lost, or to bring an oil-lamp into a dark place, so that those with eyes could see what was there. Just so the Reverend Gotama has expounded the Dhamma in various ways.’
 

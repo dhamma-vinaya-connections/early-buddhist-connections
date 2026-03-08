@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six gave teachings to people who were lying down. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six gave teachings to people who were lying down. …
 
 #### Final ruling
 
 2“‘I will not give a teaching to anyone lying down who is not sick,’ this is how you should train.”
 
-3One should not give a teaching to anyone lying down who is not sick. If a monk, out of disrespect, gives a teaching to someone who is lying down and who is not sick, even if they are just lying on the ground, he commits an offense of wrong conduct.
+3One should not give a teaching to anyone lying down who is not sick. If a bhikkhu, out of disrespect, gives a teaching to someone who is lying down and who is not sick, even if they are just lying on the ground, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

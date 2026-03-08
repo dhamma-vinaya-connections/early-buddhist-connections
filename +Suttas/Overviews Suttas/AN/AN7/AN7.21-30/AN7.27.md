@@ -44,7 +44,7 @@ parallels_partilal: "[[DN16]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> The Buddha  teaches seven principles of non-decline to the mendicants
+> The Buddha  teaches seven principles of non-decline to the bhikkhus
 
 > [!info] Key Excerpts 
 > Perception of impermanence …

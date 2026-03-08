@@ -17,10 +17,10 @@ language: "English"
 
 1-4 (188). Impermanent, Painful, Empty, and Not Self
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “You should correctly observe the eye to be [1] impermanent … [2] painful … [3] empty … [4] not self. Observing it in this way is called right view. Because it’s correctly observed, disillusionment arises. Because disillusionment arises, one becomes free of delight and greed. I say one’s mind is correctly liberated because they are free of delight and greed.
-3. “_Thus with the ear … nose … tongue … body … mind … one becomes free of delight and greed._ Monks, I say one’s mind is correctly liberated because they are free of delight and greed.
+2. It was then that the Bhagavān addressed the bhikkhus, “You should correctly observe the eye to be [1] impermanent … [2] painful … [3] empty … [4] not self. Observing it in this way is called right view. Because it’s correctly observed, disillusionment arises. Because disillusionment arises, one becomes free of delight and greed. I say one’s mind is correctly liberated because they are free of delight and greed.
+3. “_Thus with the ear … nose … tongue … body … mind … one becomes free of delight and greed._ bhikkhus, I say one’s mind is correctly liberated because they are free of delight and greed.
 4. “Someone who’s mind is correctly liberated can declare about themselves: ‘My births have been ended, the religious practice has been established, and the task has been accomplished. I myself know that I won’t be subject to a later existence.’”
-5. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+5. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 6. _Like “impermanence,” “pain,” “emptiness,” and “not self” are taught in the same way._
 
 ---

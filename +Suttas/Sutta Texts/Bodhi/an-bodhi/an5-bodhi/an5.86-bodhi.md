@@ -14,7 +14,7 @@ language: "English"
 
 > **Division:** IV. ELDERS
 
-“Bhikkhus, possessing five qualities, an elder bhikkhu is pleasing and agreeable to his fellow monks and is respected and esteemed by them. What five? He has attained the analytical knowledge of meaning, the analytical knowledge of the Dhamma, the analytical knowledge of language, the analytical knowledge of discernment, and he is skillful and diligent in attending to the diverse chores that are to be done for his fellow monks; he possesses sound judgment about them in order to carry out and arrange them properly. Possessing these five qualities … and esteemed by them.”
+“Bhikkhus, possessing five qualities, an elder bhikkhu is pleasing and agreeable to his fellow bhikkhus and is respected and esteemed by them. What five? He has attained the analytical knowledge of meaning, the analytical knowledge of the Dhamma, the analytical knowledge of language, the analytical knowledge of discernment, and he is skillful and diligent in attending to the diverse chores that are to be done for his fellow bhikkhus; he possesses sound judgment about them in order to carry out and arrange them properly. Possessing these five qualities … and esteemed by them.”
 
 
 ---

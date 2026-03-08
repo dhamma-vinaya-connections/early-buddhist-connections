@@ -1,6 +1,6 @@
 ---
 vin_code: "BNI-PC6"
-vin_title: "Upatiṭṭhana - Attending a Monk"
+vin_title: "Upatiṭṭhana - Attending a bhikkhu"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
@@ -18,32 +18,32 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a government official called Ārohanta became a monk and his ex-wife a nun. On one occasion that monk was having his meal in the presence of that nun. While he was eating, she attended on him with drinking water and a fan, and she flirted with him. But he dismissed her, saying, “Don’t do that; it’s not allowable.”
+1At one time the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a government official called Ārohanta became a bhikkhu and his ex-wife a nun. On one occasion that bhikkhu was having his meal in the presence of that nun. While he was eating, she attended on him with drinking water and a fan, and she flirted with him. But he dismissed her, saying, “Don’t do that; it’s not allowable.”
 
 “Before you did such and such to me, but now you can’t even take this much.” And she dropped the water vessel on its head and struck him with the fan.
 
 
 2The nuns of few desires complained and criticized her:
 
-“How could a nun hit a monk?” …
+“How could a nun hit a bhikkhu?” …
 
-“Is it true, monks, that a nun did this?”
+“Is it true, bhikkhus, that a nun did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her, “How could a nun hit a monk? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her, “How could a nun hit a bhikkhu? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
-3‘If, when a monk is eating, a nun attends on him with drinking water or a fan, she commits an offense entailing confession.’”
+3‘If, when a bhikkhu is eating, a nun attends on him with drinking water or a fan, she commits an offense entailing confession.’”
 
 #### Definitions
 
 4**A:** whoever … **Nun:** … The nun who has been given the full ordination in unanimity by both Sanghas through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of nun is meant in this case.
 
 
-5**A monk:** fully ordained.
+5**A bhikkhu:** fully ordained.
 
 6**Is eating:** is eating any of the five cooked foods.
 

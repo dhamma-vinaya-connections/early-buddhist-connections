@@ -31,7 +31,7 @@ language: "English - Pali"
 
 5The interior air element and the exterior air element are just the air element. This should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’ When you truly see with right understanding, you reject the air element, detaching the mind from the air element.
 
-6When a mendicant sees these four elements as neither self nor belonging to self, they’re called a mendicant who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
+6When a bhikkhu sees these four elements as neither self nor belonging to self, they’re called a bhikkhu who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
 
 #### Pali
 

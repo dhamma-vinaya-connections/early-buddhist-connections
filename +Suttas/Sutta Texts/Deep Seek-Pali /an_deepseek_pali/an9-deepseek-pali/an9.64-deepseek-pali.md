@@ -20,7 +20,7 @@ language: "English - Pali"
 
 ‘‘Imesaṃ kho, bhikkhave, pañcannaṃ nīvaraṇānaṃ pahānāya cattāro satipaṭṭhānā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; vedanāsu…pe… citte…pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. Imesaṃ kho, bhikkhave, pañcannaṃ nīvaraṇānaṃ pahānāya ime cattāro satipaṭṭhānā bhāvetabbā’’ti. Dutiyaṃ.
 
-"Bhikkhus, for the abandoning of these five hindrances, the four establishments of mindfulness are to be developed. What four? Here, bhikkhus, a bhikkhu dwells contemplating the body in the body … feelings in feelings … mind in mind … phenomena in phenomena, ardent, clearly comprehending, and mindful, having removed covetousness and displeasure in regard to the world. For the abandoning of these five hindrances, these four establishments of mindfulness are to be developed." Second.
+"Bhikkhus, for the abandoning of these five hindrances, the four establishments of mindfulness are to be developed. What four? Here, bhikkhus, a bhikkhu ![[Satipatthanas]]. For the abandoning of these five hindrances, these four establishments of mindfulness are to be developed." Second.
 
 
 ---

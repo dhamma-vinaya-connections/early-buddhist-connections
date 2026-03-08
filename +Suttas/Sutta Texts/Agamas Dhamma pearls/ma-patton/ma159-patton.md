@@ -55,7 +55,7 @@ The Bhagavān replied, “The basis of Mahābrahmā is patience and gentleness.�
 The Bhagavān replied, “The basis of patience and gentleness is _nirvāṇa_.”[5](#^ma159note05)
 20. The priest again asked, “Gautama, what is the basis of _nirvāṇa_?”
 The Bhagavān replied, “Priest, you want the basis of something that’s endless. Now, you could put limitless questions to me about it, but _nirvāṇa_ has no basis.[6](#^ma159note06) It’s only _nirvāṇa_ that completely extinguishes [a person].[7](#^ma159note07) _Nirvāṇa_ is the highest. Priest, the religious life is practiced under me for this goal.”
-21. The priest again asked, “I know, Bhagavān! I understand, Sugata! Bhagavān, I now devote myself to the Buddha, the Dharma, and the Saṅgha of monks. Please, Bhagavān, accept me as a layman. Starting today, I will devote myself to them for the rest of my life.”
+21. The priest again asked, “I know, Bhagavān! I understand, Sugata! Bhagavān, I now devote myself to the Buddha, the Dharma, and the Saṅgha of bhikkhus. Please, Bhagavān, accept me as a layman. Starting today, I will devote myself to them for the rest of my life.”
 22. This is what the Buddha said. When the priest Agrahana heard what the Buddha taught, he rejoiced and approved. ^ma159note01-ref ^ma159note02-ref ^ma159note03-ref ^ma159note04-ref ^ma159note05-ref ^ma159note06-ref ^ma159note07-ref
 
 ---

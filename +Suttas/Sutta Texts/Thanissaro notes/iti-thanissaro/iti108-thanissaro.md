@@ -12,9 +12,9 @@ language: "English"
 
 # Itivuttaka 108
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, any monks who are deceitful, stubborn, talkers, frauds, arrogant, & uncentered are not followers of mine. They have turned away from this Dhamma-&-Vinaya. They attain, in terms of this Dhamma-&-Vinaya, no growth, increase, or abundance.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, any bhikkhus who are deceitful, stubborn, talkers, frauds, arrogant, & uncentered are not followers of mine. They have turned away from this Dhamma-&-Vinaya. They attain, in terms of this Dhamma-&-Vinaya, no growth, increase, or abundance.
 
-“But any monks who are not deceitful, not talkers, who are enlightened, pliant, & well-centered: they are followers of mine. They have not turned away from this Dhamma-&-Vinaya. They attain, in terms of this Dhamma-&-Vinaya, growth, increase, & abundance.
+“But any bhikkhus who are not deceitful, not talkers, who are enlightened, pliant, & well-centered: they are followers of mine. They have not turned away from this Dhamma-&-Vinaya. They attain, in terms of this Dhamma-&-Vinaya, growth, increase, & abundance.
 
 Deceitful, stubborn, talkers, frauds,
 

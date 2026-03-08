@@ -32,7 +32,7 @@ whose fault of omens is completely abandoned:
 
 He would wander rightly in the world.
 
-A monk should subdue passion
+A bhikkhu should subdue passion
 
 for sensualities human
 
@@ -48,7 +48,7 @@ Putting behind him
 
 divisive tale-bearing,
 
-a monk should abandon anger & meanness.
+a bhikkhu should abandon anger & meanness.
 
 With favoring & opposing
 
@@ -80,7 +80,7 @@ Aspiring to unbinding,
 
 he would wander rightly in the world.
 
-A monk who’d not gloat, “He venerates me,”
+A bhikkhu who’d not gloat, “He venerates me,”
 
 or brood when insulted,
 
@@ -98,7 +98,7 @@ he would wander rightly in the world.
 
 Having found what’s appropriate for himself,
 
-the monk wouldn’t harm anyone in the world,
+the bhikkhu wouldn’t harm anyone in the world,
 
 Having found the Dhamma as it actually is,
 
@@ -170,7 +170,7 @@ He would wander rightly in the world.”
 
 “Yes, Blessed One, that’s just how it is.
 
-Any monk dwelling thus,
+Any bhikkhu dwelling thus,
 
 tamed, gone totally beyond
 
@@ -186,7 +186,7 @@ vv. 359–375
 
 1. SnA maintains that this sutta took place on the same day as the Mahāsamaya Sutta (The Great Meeting, [[dn20-thanissaro]]). [↩︎](#^snp2-13-01-ref) ^snp2-13-01
 
-2. [[dn2-thanissaro]] lists various forms of fortune telling dealing with omens, meteors, dreams, and marks as types of wrong livelihood for a monk. [↩︎](#^snp2-13-02-ref) ^snp2-13-02
+2. [[dn2-thanissaro]] lists various forms of fortune telling dealing with omens, meteors, dreams, and marks as types of wrong livelihood for a bhikkhu. [↩︎](#^snp2-13-02-ref) ^snp2-13-02
 
 3. See [[ud5.5-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]: [↩︎](#^snp2-13-03-ref) ^snp2-13-03
 

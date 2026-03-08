@@ -16,11 +16,11 @@ language: "English - Pali"
 
 38. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhagavā sakkato hoti garukato mānito pūjito apacito lābhī cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārānaṃ. Bhikkhusaṅghopi sakkato hoti garukato mānito pūjito apacito lābhī cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārānaṃ. Aññatitthiyā pana paribbājakā asakkatā honti agarukatā amānitā apūjitā anapacitā na lābhino cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārānaṃ.
 
-38.Thus have I heard. At one time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. At that time the Blessed One was honored, respected, esteemed, venerated, revered, and received robes, alms-food, lodgings, and medicinal requisites. The community of monks was also honored, respected, esteemed, venerated, revered, and received robes, alms-food, lodgings, and medicinal requisites. But the wandering ascetics of other sects were not honored, not respected, not esteemed, not venerated, not revered, and did not receive robes, alms-food, lodgings, or medicinal requisites.
+38.Thus have I heard. At one time the Blessed One was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. At that time the Blessed One was honored, respected, esteemed, venerated, revered, and received robes, alms-food, lodgings, and medicinal requisites. The community of bhikkhus was also honored, respected, esteemed, venerated, revered, and received robes, alms-food, lodgings, and medicinal requisites. But the wandering ascetics of other sects were not honored, not respected, not esteemed, not venerated, not revered, and did not receive robes, alms-food, lodgings, or medicinal requisites.
 
 Atha kho te aññatitthiyā paribbājakā bhagavato sakkāraṃ asahamānā bhikkhusaṅghassa ca yena sundarī paribbājikā tenupasaṅkamiṃsu; upasaṅkamitvā sundariṃ paribbājikaṃ etadavocuṃ – ‘‘ussahasi tvaṃ, bhagini, ñātīnaṃ atthaṃ kātu’’nti? ‘‘Kyāhaṃ, ayyā, karomi? Kiṃ mayā na sakkā [kiṃ mayā sakkā (syā. pī.)] kātuṃ? Jīvitampi me pariccattaṃ ñātīnaṃ atthāyā’’ti.
 
-Then those wanderers of other sects, unable to endure the honor shown to the Blessed One and the community of monks, approached the female wanderer Sundarī. Having approached, they said to the female wanderer Sundarī: “Sister, are you able to act for the benefit of your relatives?” “What can I do, venerable sirs? What is there that I cannot do? I would even sacrifice my life for the benefit of my relatives.”
+Then those wanderers of other sects, unable to endure the honor shown to the Blessed One and the community of bhikkhus, approached the female wanderer Sundarī. Having approached, they said to the female wanderer Sundarī: “Sister, are you able to act for the benefit of your relatives?” “What can I do, venerable sirs? What is there that I cannot do? I would even sacrifice my life for the benefit of my relatives.”
 
 ‘‘Tena hi, bhagini, abhikkhaṇaṃ jetavanaṃ gacchāhī’’ti. ‘‘Evaṃ, ayyā’’ti kho sundarī paribbājikā tesaṃ aññatitthiyānaṃ paribbājakānaṃ paṭissutvā abhikkhaṇaṃ jetavanaṃ agamāsi.
 
@@ -40,7 +40,7 @@ Then those wanderers of other sects, having searched Jetavana, dug her up from t
 
 Tena kho pana samayena sāvatthiyaṃ manussā bhikkhū disvā asabbhāhi pharusāhi vācāhi akkosanti paribhāsanti rosanti vihesanti –
 
-At that time, the people of Sāvatthī, upon seeing the monks, abused, reviled, insulted, and harassed them with rude and harsh words:
+At that time, the people of Sāvatthī, upon seeing the bhikkhus, abused, reviled, insulted, and harassed them with rude and harsh words:
 
 ‘‘Alajjino ime samaṇā sakyaputtiyā dussīlā pāpadhammā musāvādino abrahmacārino. Ime hi nāma dhammacārino samacārino brahmacārino saccavādino sīlavanto kalyāṇadhammā paṭijānissanti! Natthi imesaṃ sāmaññaṃ, natthi imesaṃ brahmaññaṃ. Naṭṭhaṃ imesaṃ sāmaññaṃ, naṭṭhaṃ imesaṃ brahmaññaṃ. Kuto imesaṃ sāmaññaṃ, kuto imesaṃ brahmaññaṃ? Apagatā ime sāmaññā, apagatā ime brahmaññā. Kathañhi nāma puriso purisakiccaṃ karitvā itthiṃ jīvitā voropessatī’’ti!
 
@@ -48,15 +48,15 @@ At that time, the people of Sāvatthī, upon seeing the monks, abused, reviled, 
 
 Atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisiṃsu. Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ –
 
-Then, several monks, having dressed in the morning and taking their bowls and robes, entered Sāvatthī for alms. Having wandered for alms in Sāvatthī and returning from their alms round after the meal, they approached the Blessed One. Having approached, they paid homage to the Blessed One and sat down to one side. Sitting to one side, those monks said to the Blessed One:
+Then, several bhikkhus, having dressed in the morning and taking their bowls and robes, entered Sāvatthī for alms. Having wandered for alms in Sāvatthī and returning from their alms round after the meal, they approached the Blessed One. Having approached, they paid homage to the Blessed One and sat down to one side. Sitting to one side, those bhikkhus said to the Blessed One:
 
 ‘‘Etarahi, bhante, sāvatthiyaṃ manussā bhikkhū disvā asabbhāhi pharusāhi vācāhi akkosanti paribhāsanti rosanti vihesanti – ‘alajjino ime samaṇā sakyaputtiyā dussīlā pāpadhammā musāvādino abrahmacārino. Ime hi nāma dhammacārino samacārino brahmacārino saccavādino sīlavanto kalyāṇadhammā paṭijānissanti. Natthi imesaṃ sāmaññaṃ, natthi imesaṃ brahmaññaṃ. Naṭṭhaṃ imesaṃ sāmaññaṃ, naṭṭhaṃ imesaṃ brahmaññaṃ. Kuto imesaṃ sāmaññaṃ, kuto imesaṃ brahmaññaṃ? Apagatā ime sāmaññā, apagatā ime brahmaññā. Kathañhi nāma puriso purisakiccaṃ karitvā itthiṃ jīvitā voropessatī’’’ti!
 
-“Venerable sir, nowadays in Sāvatthī, when people see monks, they abuse, revile, insult, and harass them with rude and harsh words: ‘These shameless ascetics, sons of the Sakyans, are immoral, of wicked character, liars, unchaste. They claim to be practicing the Dhamma, behaving righteously, practicing the holy life, speaking the truth, virtuous, and of good character. They have no asceticism, no Brahman-life. Lost is their asceticism, lost is their Brahman-life. Where is asceticism in them? Where is Brahman-life in them? Gone are they from asceticism, gone are they from Brahman-life. How indeed could a man, having done a man’s deed, deprive a woman of life?’”
+“Venerable sir, nowadays in Sāvatthī, when people see bhikkhus, they abuse, revile, insult, and harass them with rude and harsh words: ‘These shameless ascetics, sons of the Sakyans, are immoral, of wicked character, liars, unchaste. They claim to be practicing the Dhamma, behaving righteously, practicing the holy life, speaking the truth, virtuous, and of good character. They have no asceticism, no Brahman-life. Lost is their asceticism, lost is their Brahman-life. Where is asceticism in them? Where is Brahman-life in them? Gone are they from asceticism, gone are they from Brahman-life. How indeed could a man, having done a man’s deed, deprive a woman of life?’”
 
 ‘‘Neso, bhikkhave, saddo ciraṃ bhavissati sattāhameva bhavissati. Sattāhassa accayena antaradhāyissati. Tena hi, bhikkhave, ye manussā bhikkhū disvā asabbhāhi pharusāhi vācāhi akkosanti paribhāsanti rosanti vihesanti, te tumhe imāya gāthāya paṭicodetha –
 
-“Monks, that noise will not last long. It will last only seven days. After seven days, it will disappear. Therefore, monks, when people see you and abuse, revile, insult, and harass you with harsh and rude words, you should rebuke them with this verse:
+“bhikkhus, that noise will not last long. It will last only seven days. After seven days, it will disappear. Therefore, bhikkhus, when people see you and abuse, revile, insult, and harass you with harsh and rude words, you should rebuke them with this verse:
 
 ‘‘‘Abhūtavādī nirayaṃ upeti,Yo vāpi [yo cāpi (sī. pī. ka.)] katvā na karomi cāha;Ubhopi te pecca samā bhavanti,Nihīnakammā manujā paratthā’’’ti.
 
@@ -64,7 +64,7 @@ Then, several monks, having dressed in the morning and taking their bowls and ro
 
 Atha kho te bhikkhū bhagavato santike imaṃ gāthaṃ pariyāpuṇitvā ye manussā bhikkhū disvā asabbhāhi pharusāhi vācāhi akkosanti paribhāsanti rosanti vihesanti te imāya gāthāya paṭicodenti –
 
-Then those monks, having learned this verse in the presence of the Blessed One, would rebuke with this verse those people who, seeing the monks, abused, reviled, insulted, and harassed them with rude and harsh words:
+Then those bhikkhus, having learned this verse in the presence of the Blessed One, would rebuke with this verse those people who, seeing the bhikkhus, abused, reviled, insulted, and harassed them with rude and harsh words:
 
 ‘‘Abhūtavādī nirayaṃ upeti,Yo vāpi katvā na karomicāha;Ubhopi te pecca samā bhavanti,Nihīnakammā manujā paratthā’’ti.
 

@@ -20,14 +20,14 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, a mendicant with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What six?
+2“bhikkhus, a bhikkhu with six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What six?
 
-It’s a mendicant who, when they see a sight with their eyes, is neither happy nor sad. They remain equanimous, mindful and aware.
+It’s a bhikkhu who, when they see a sight with their eyes, is neither happy nor sad. They remain equanimous, mindful and aware.
 
 
 When they hear a sound with their ears …
@@ -40,9 +40,9 @@ When they feel a touch with their body …
 
 When they know a thought with their mind, they’re neither happy nor sad. They remain equanimous, mindful and aware.
 
-A mendicant with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
+A bhikkhu with these six factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world.”
 
-3That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+3That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a mendicant has six things they’re full of joy and happiness in the present life, and they have laid the groundwork for ending the defilements. What six? It’s when a mendicant enjoys the teaching, meditation, giving up, seclusion, kindness, and non-proliferation. When a mendicant has these six things they’re full of joy and happiness in the present life, and they have laid the groundwork for ending the defilements.”
+1“bhikkhus, when a bhikkhu has six things they’re full of joy and happiness in the present life, and they have laid the groundwork for ending the defilements. What six? It’s when a bhikkhu enjoys the teaching, meditation, giving up, seclusion, kindness, and non-proliferation. When a bhikkhu has these six things they’re full of joy and happiness in the present life, and they have laid the groundwork for ending the defilements.”
 
 1"Chahi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṁ khayāya. Katamehi chahi? Idha, bhikkhave, bhikkhu dhammārāmo hoti, bhāvanārāmo hoti, pahānārāmo hoti, pavivekārāmo hoti, abyāpajjhārāmo hoti, nippapañcārāmo hoti. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṁ khayāyā"ti.
 

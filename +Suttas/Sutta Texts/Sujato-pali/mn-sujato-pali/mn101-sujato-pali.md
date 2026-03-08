@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying in the land of the Sakyans, near the Sakyan town named Devadaha. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying in the land of the Sakyans, near the Sakyan town named Devadaha. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, there are some ascetics and brahmins who have this doctrine and view: ‘Everything this individual experiences — pleasurable, painful, or neutral — is because of past deeds. So, due to eliminating past deeds by mortification, and not doing any new deeds, there’s nothing to come up in the future. With nothing to come up in the future, deeds end. With the ending of deeds, suffering ends. With the ending of suffering, feeling ends. And with the ending of feeling, all suffering will have been worn away.’ Such is the doctrine of the Jain ascetics.
+“bhikkhus, there are some ascetics and brahmins who have this doctrine and view: ‘Everything this individual experiences — pleasurable, painful, or neutral — is because of past deeds. So, due to eliminating past deeds by mortification, and not doing any new deeds, there’s nothing to come up in the future. With nothing to come up in the future, deeds end. With the ending of deeds, suffering ends. With the ending of suffering, feeling ends. And with the ending of feeling, all suffering will have been worn away.’ Such is the doctrine of the Jain ascetics.
 
 
 2I’ve gone up to the Jain ascetics who say this and said, ‘Is it really true that this is the venerables’ view?’ They admitted that it is.
@@ -150,30 +150,30 @@ If sentient beings experience pleasure and pain because of exertion in the prese
 The Jain ascetics who say this deserve rebuke and criticism on these ten legitimate grounds. That’s how exertion and striving is fruitless.
 
 
-33And how is exertion and striving fruitful? It’s when a mendicant doesn’t bring suffering upon themselves; and they don’t give up legitimate pleasure, but they’re not besotted with that pleasure. They understand: ‘When I actively strive I become dispassionate towards this source of suffering. But when I develop equanimity I become dispassionate towards this other source of suffering.’ So they either actively strive or develop equanimity as appropriate. Through active striving they become dispassionate towards that specific source of suffering, and so that suffering is worn away. Through developing equanimity they become dispassionate towards that other source of suffering, and so that suffering is worn away.
+33And how is exertion and striving fruitful? It’s when a bhikkhu doesn’t bring suffering upon themselves; and they don’t give up legitimate pleasure, but they’re not besotted with that pleasure. They understand: ‘When I actively strive I become dispassionate towards this source of suffering. But when I develop equanimity I become dispassionate towards this other source of suffering.’ So they either actively strive or develop equanimity as appropriate. Through active striving they become dispassionate towards that specific source of suffering, and so that suffering is worn away. Through developing equanimity they become dispassionate towards that other source of suffering, and so that suffering is worn away.
 
 
 34Suppose a man is in love with a woman, full of intense desire and lust. Then he sees her standing together with another man, chatting, giggling, and laughing.
 
-What do you think, mendicants? Would that give rise to sorrow, lamentation, pain, sadness, and distress for him?”
+What do you think, bhikkhus? Would that give rise to sorrow, lamentation, pain, sadness, and distress for him?”
 
 “Yes, sir. Why is that? Because that man is in love that woman, full of intense desire and lust.”
 
 “Then that man might think: ‘I’m in love with that woman, full of intense desire and lust. When I saw her standing together with another man, chatting, giggling, and laughing, it gave rise to sorrow, lamentation, pain, sadness, and distress for me. Why don’t I give up that desire and lust for that woman?’ So that’s what he did. Some time later he sees her again standing together with another man, chatting, giggling, and laughing.
 
 
-What do you think, mendicants? Would that give rise to sorrow, lamentation, pain, sadness, and distress for him?”
+What do you think, bhikkhus? Would that give rise to sorrow, lamentation, pain, sadness, and distress for him?”
 
 “No, sir. Why is that? Because he no longer desires that woman.”
 
 
-35“In the same way, a mendicant doesn’t bring suffering upon themselves; and they don’t give up legitimate pleasure, but they’re not besotted with that pleasure. They understand: ‘When I actively strive I become dispassionate towards this source of suffering. But when I develop equanimity I become dispassionate towards this other source of suffering.’ So they either actively strive or develop equanimity as appropriate. Through active striving they become dispassionate towards that specific source of suffering, and so that suffering is worn away. Through developing equanimity they become dispassionate towards that other source of suffering, and so that suffering is worn away. That’s how exertion and striving is fruitful.
+35“In the same way, a bhikkhu doesn’t bring suffering upon themselves; and they don’t give up legitimate pleasure, but they’re not besotted with that pleasure. They understand: ‘When I actively strive I become dispassionate towards this source of suffering. But when I develop equanimity I become dispassionate towards this other source of suffering.’ So they either actively strive or develop equanimity as appropriate. Through active striving they become dispassionate towards that specific source of suffering, and so that suffering is worn away. Through developing equanimity they become dispassionate towards that other source of suffering, and so that suffering is worn away. That’s how exertion and striving is fruitful.
 
-36Furthermore, a mendicant reflects: ‘When I live as I please, unskillful qualities grow and skillful qualities decline. But when I strive painfully, unskillful qualities decline and skillful qualities grow. Why don’t I strive painfully?’ So that’s what they do, and as they do so unskillful qualities decline and skillful qualities grow. After some time, they no longer strive painfully. Why is that? Because they have accomplished the goal for which they strived painfully.
+36Furthermore, a bhikkhu reflects: ‘When I live as I please, unskillful qualities grow and skillful qualities decline. But when I strive painfully, unskillful qualities decline and skillful qualities grow. Why don’t I strive painfully?’ So that’s what they do, and as they do so unskillful qualities decline and skillful qualities grow. After some time, they no longer strive painfully. Why is that? Because they have accomplished the goal for which they strived painfully.
 
 37Suppose an arrowsmith was heating an arrow shaft between two firebrands, making it straight and fit for use. After it’s been made straight and fit for use, they’d no longer heat it to make it straight and fit for use. Why is that? Because they have accomplished the goal for which they heated it.
 
-In the same way, a mendicant reflects: ‘When I live as I please, unskillful qualities grow and skillful qualities decline. But when I strive painfully, unskillful qualities decline and skillful qualities grow. Why don’t I strive painfully?’ … After some time, they no longer strive painfully. That too is how exertion and striving is fruitful.
+In the same way, a bhikkhu reflects: ‘When I live as I please, unskillful qualities grow and skillful qualities decline. But when I strive painfully, unskillful qualities decline and skillful qualities grow. Why don’t I strive painfully?’ … After some time, they no longer strive painfully. That too is how exertion and striving is fruitful.
 
 
 38Furthermore, a Realized One arises in the world, perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed. He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure.
@@ -181,13 +181,13 @@ In the same way, a mendicant reflects: ‘When I live as I please, unskillful qu
 A householder hears that teaching, or a householder’s child, or someone reborn in some clan. They gain faith in the Realized One, and reflect: ‘Living in a house is cramped and dirty, but the life of one gone forth is wide open. It’s not easy for someone living at home to lead the spiritual life utterly full and pure, like a polished shell. Why don’t I shave off my hair and beard, dress in ocher robes, and go forth from the lay life to homelessness?’ After some time they give up a large or small fortune, and a large or small family circle. They shave off hair and beard, dress in ocher robes, and go forth from the lay life to homelessness.
 
 
-39Once they’ve gone forth, they take up the training and livelihood of the mendicants. They give up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. They give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. They give up unchastity. They are celibate, set apart, avoiding the common practice of sex.
+39Once they’ve gone forth, they take up the training and livelihood of the bhikkhus. They give up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. They give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. They give up unchastity. They are celibate, set apart, avoiding the common practice of sex.
 
 They give up lying. They speak the truth and stick to the truth. They’re honest and trustworthy, and don’t trick the world with their words. They give up divisive speech. They don’t repeat in one place what they heard in another so as to divide people against each other. Instead, they reconcile those who are divided, supporting unity, delighting in harmony, loving harmony, speaking words that promote harmony. They give up harsh speech. They speak in a way that’s mellow, pleasing to the ear, lovely, going to the heart, polite, likable and agreeable to the people. They give up talking nonsense. Their words are timely, true, and meaningful, in line with the teaching and training. They say things at the right time which are valuable, reasonable, succinct, and beneficial.
 
 They avoid injuring plants and seeds. They eat in one part of the day, abstaining from eating at night and food at the wrong time. They avoid dancing, singing, music, and seeing shows. They avoid beautifying and adorning themselves with garlands, perfumes, and makeup. They avoid high and luxurious beds. They avoid receiving gold and money, raw grains, raw meat, women and girls, male and female bondservants, goats and sheep, chickens and pigs, elephants, cows, horses, and mares, and fields and land. They avoid running errands and messages; buying and selling; falsifying weights, metals, or measures; bribery, fraud, cheating, and duplicity; mutilation, murder, abduction, banditry, plunder, and violence.
 
-40They’re content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden. In the same way, a mendicant is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves.
+40They’re content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden. In the same way, a bhikkhu is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves.
 
 
 41When they see a sight with their eyes, they don’t get caught up in the features and details. If the faculty of sight were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint. When they hear a sound with their ears … When they smell an odor with their nose … When they taste a flavor with their tongue … When they feel a touch with their body … When they know a thought with their mind, they don’t get caught up in the features and details. If the faculty of mind were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of mind, and achieving its restraint. When they have this noble sense restraint, they experience an unsullied bliss inside themselves.
@@ -203,7 +203,7 @@ Giving up desire for the world, they meditate with a heart rid of desire, cleans
 
 45Furthermore, as the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. That too is how exertion and striving is fruitful.
 
-46Furthermore, with the fading away of rapture, a mendicant enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ That too is how exertion and striving is fruitful.
+46Furthermore, with the fading away of rapture, a bhikkhu enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ That too is how exertion and striving is fruitful.
 
 47Furthermore, giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. That too is how exertion and striving is fruitful.
 
@@ -239,7 +239,7 @@ If sentient beings experience pleasure and pain because of exertion in the prese
 Saying this, the Realized One deserves praise on these ten legitimate grounds.”
 
 
-53That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+53That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

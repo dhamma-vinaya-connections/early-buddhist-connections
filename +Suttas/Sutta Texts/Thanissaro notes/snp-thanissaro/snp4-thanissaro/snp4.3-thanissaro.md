@@ -54,7 +54,7 @@ he who speaks of himself
 
 of his own accord.
 
-But a monk at peace,
+But a bhikkhu at peace,
 
 fully unbound in himself,
 

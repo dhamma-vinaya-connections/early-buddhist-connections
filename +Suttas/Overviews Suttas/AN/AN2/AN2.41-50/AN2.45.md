@@ -47,9 +47,9 @@ parallels_partilal: ""
 > Divided and harmonious assemblies. and noble vs ignoble
 
 > [!info] Key Excerpts 
-> Harmonious assembly where the mendicants live in harmony, appreciating each other, without quarreling, and regarding each other with kindly eyes vs divided is opposite
+> Harmonious assembly where the bhikkhus live in harmony, appreciating each other, without quarreling, and regarding each other with kindly eyes vs divided is opposite
 > 
-> Noble assembly where the mendicants truly understand: ‘this is suffering’ … ‘this is the origin of suffering’ … ‘this is the cessation of suffering’ … ‘this is the practice that leads to the cessation of suffering’. Ignoble they don't know
+> Noble assembly where the bhikkhus truly understand: ‘this is suffering’ … ‘this is the origin of suffering’ … ‘this is the cessation of suffering’ … ‘this is the practice that leads to the cessation of suffering’. Ignoble they don't know
 > 
 
 

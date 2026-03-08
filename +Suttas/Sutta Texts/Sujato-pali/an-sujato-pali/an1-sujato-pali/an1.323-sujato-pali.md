@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, in a well explained teaching and training, the recipient should know moderation, not the donor. Why is that? Because the teaching is well explained.”
+1“bhikkhus, in a well explained teaching and training, the recipient should know moderation, not the donor. Why is that? Because the teaching is well explained.”
 
 1"Svākkhāte, bhikkhave, dhammavinaye paṭiggāhakena mattā jānitabbā, no dāyakena. Taṁ kissa hetu? Svākkhātattā, bhikkhave, dhammassā"ti.
 

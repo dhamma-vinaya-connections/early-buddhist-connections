@@ -15,7 +15,7 @@ language: "English"
 ## ## Udakupama Sutta
 
 
-“Monks, seven types of individuals are to be found existing in the world. Which seven?
+“bhikkhus, seven types of individuals are to be found existing in the world. Which seven?
 
 “There is the case where an individual sinks down once and stays sunk. There is the case where an individual, on coming to the surface, sinks down again. There is the case where an individual, on coming to the surface, stays there. There is the case where an individual, on coming to the surface, opens his eyes & looks around. There is the case where an individual, on coming to the surface, heads across. There is the case where an individual, on coming to the surface, gains a foothold. Then there is the case where an individual, on coming to the surface, crosses over, reaches the far shore, stands on high ground, a brahman.
 

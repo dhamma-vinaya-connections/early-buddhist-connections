@@ -15,9 +15,9 @@ language: "English"
 ## ## Saññoga Sutta
 
 
-“Monks, I will teach you a Dhamma discourse on bondage & lack of bondage. Listen & pay close attention. I will speak.”
+“bhikkhus, I will teach you a Dhamma discourse on bondage & lack of bondage. Listen & pay close attention. I will speak.”
 
-“Yes, lord,” the monks responded to the Blessed One.
+“Yes, lord,” the bhikkhus responded to the Blessed One.
 
 The Blessed One said: “A woman attends inwardly to her feminine faculties, her feminine gestures, her feminine manners, feminine poise, feminine desires, feminine voice, feminine charms. She is excited by that, delighted by that. Being excited & delighted by that, she attends outwardly to masculine faculties, masculine gestures, masculine manners, masculine poise, masculine desires, masculine voices, masculine charms. She is excited by that, delighted by that. Being excited & delighted by that, she wants to be bonded to what is outside her, wants whatever pleasure & happiness that arise based on that bond. Delighting, caught up in her femininity, a woman goes into bondage with reference to men. This is how a woman does not transcend her femininity.
 

@@ -18,21 +18,21 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying in the land of the Aṅgas, near the Aṅgan town named Assapura. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying in the land of the Aṅgas, near the Aṅgan town named Assapura. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, people label you as ascetics. And when they ask you what you are, you claim to be ascetics.
+2“bhikkhus, people label you as ascetics. And when they ask you what you are, you claim to be ascetics.
 
 Given this label and this claim, you should train like this: ‘We will practice in the way that is proper for an ascetic. That way our label will be accurate and our claim correct. Any robes, alms-food, lodgings, and medicines and supplies for the sick that we use will be very fruitful and beneficial for the donor. And our going forth will not be wasted, but will be fruitful and fertile.’
 
 
-3And how does a mendicant not practice in the way that is proper for an ascetic?
+3And how does a bhikkhu not practice in the way that is proper for an ascetic?
 
-There are some mendicants who have not given up covetousness, ill will, irritability, hostility, offensiveness, contempt, jealousy, stinginess, deviousness, deceit, bad desires, and wrong view. These stains, defects, and dregs of an ascetic are grounds for rebirth in places of loss, and are experienced in bad places. As long as they have not given these up, they do not practice in the way that is proper for an ascetic, I say.
+There are some bhikkhus who have not given up covetousness, ill will, irritability, hostility, offensiveness, contempt, jealousy, stinginess, deviousness, deceit, bad desires, and wrong view. These stains, defects, and dregs of an ascetic are grounds for rebirth in places of loss, and are experienced in bad places. As long as they have not given these up, they do not practice in the way that is proper for an ascetic, I say.
 
-I say that such a mendicant’s going forth may be compared to the kind of weapon called ‘death-dealer’ — double-edged, hardened, and keen — covered and wrapped in the outer robe.
+I say that such a bhikkhu’s going forth may be compared to the kind of weapon called ‘death-dealer’ — double-edged, hardened, and keen — covered and wrapped in the outer robe.
 
 
 4I say that you don’t deserve the label ‘outer robe wearer’ just because you wear an outer robe. You don’t deserve the label ‘naked ascetic’ just because you go naked. You don’t deserve the label ‘dust and dirt wearer’ just because you’re caked in dust and dirt. You don’t deserve the label ‘water immerser’ just because you immerse yourself in water. You don’t deserve the label ‘tree root dweller’ just because you stay at the root of a tree. You don’t deserve the label ‘open air dweller’ just because you stay in the open air. You don’t deserve the label ‘stander’ just because you continually stand. You don’t deserve the label ‘interval eater’ just because you eat food at set intervals. You don’t deserve the label ‘reciter’ just because you recite scriptures. You don’t deserve the label ‘matted-hair ascetic’ just because you have matted hair.
@@ -42,9 +42,9 @@ I say that such a mendicant’s going forth may be compared to the kind of weapo
 6Imagine that just by going naked … wearing dust and dirt … immersing in water … staying at the root of a tree … staying in the open air … standing continually … eating at set intervals … reciting scriptures … having matted hair someone with covetousness, ill will, irritability, hostility, offensiveness, contempt, jealousy, stinginess, deviousness, deceit, bad desires, and wrong view could give up these things. If that were the case, your friends and colleagues, relatives and kin would make you a matted-hair ascetic as soon as you were born. They’d encourage you: ‘Please, my dear, become a matted-hair ascetic! By doing so you will give up covetousness, ill will, irritability, hostility, offensiveness, contempt, jealousy, stinginess, deviousness, deceit, bad desires, and wrong view.’ But sometimes I see someone with these bad qualities who is a matted-hair ascetic. That’s why I say that you don’t deserve the label ‘matted-hair ascetic’ just because you have matted hair.
 
 
-7And how does a mendicant practice in the way that is proper for an ascetic?
+7And how does a bhikkhu practice in the way that is proper for an ascetic?
 
-There are some mendicants who have given up covetousness, ill will, irritability, hostility, offensiveness, contempt, jealousy, stinginess, deviousness, deceit, bad desires, and wrong view. These stains, defects, and dregs of an ascetic are grounds for rebirth in places of loss, and are experienced in bad places. When they have given these up, they are practicing in the way that is proper for an ascetic, I say.
+There are some bhikkhus who have given up covetousness, ill will, irritability, hostility, offensiveness, contempt, jealousy, stinginess, deviousness, deceit, bad desires, and wrong view. These stains, defects, and dregs of an ascetic are grounds for rebirth in places of loss, and are experienced in bad places. When they have given these up, they are practicing in the way that is proper for an ascetic, I say.
 
 They see themselves purified from all these bad, unskillful qualities. Seeing this, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed in samādhi.
 
@@ -65,7 +65,7 @@ In the same way, suppose someone has gone forth from the lay life to homelessnes
 9And suppose someone has gone forth from the lay life to homelessness — whether from a family of aristocrats, brahmins, merchants, or workers — and they realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. They’re an ascetic because of the ending of defilements.”
 
 
-10That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+10That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

@@ -34,7 +34,7 @@ Then when Bāhiya of the Bark Robe had gone into hiding, into seclusion, this re
 
 ---
 
-4Then Bāhiya of the Bark Robe being greatly moved by that devatā, immediately went away from Suppāraka, and staying for only one night in every place, went to Sāvatthī, Jeta's Wood, and to Anāthapiṇḍika's monastery. Then at that time many monks were walking in meditation in the open air. Then Bāhiya of the Bark Robe went to those monks, and after going, he said this to those monks:  
+4Then Bāhiya of the Bark Robe being greatly moved by that devatā, immediately went away from Suppāraka, and staying for only one night in every place, went to Sāvatthī, Jeta's Wood, and to Anāthapiṇḍika's monastery. Then at that time many bhikkhus were walking in meditation in the open air. Then Bāhiya of the Bark Robe went to those bhikkhus, and after going, he said this to those bhikkhus:  
   
 " Where, reverend Sirs, is the Gracious One living at present, the Worthy One, the Perfect Sambuddha? We have a desire to see the Gracious One, the Worthy One, the Perfect Sambuddha."  
   
@@ -64,15 +64,15 @@ For a second time the Gracious One said this to Bāhiya of the Bark Robe: "It is
   
 Then not long after the Gracious One had gone a cow with a young calf, having attacked Bāhiya of the Bark Robe, deprived him of life.
 
-11Then the Gracious One after walking for alms in Sāvatthī, while returning from the alms-round after the meal, after going out from the city with many monks, saw that Bāhiya of the Bark Robe had died. After seeing him, he addressed the monks, saying:  
+11Then the Gracious One after walking for alms in Sāvatthī, while returning from the alms-round after the meal, after going out from the city with many bhikkhus, saw that Bāhiya of the Bark Robe had died. After seeing him, he addressed the bhikkhus, saying:  
   
-" Monks, take up Bāhiya of the Bark Robe's body, and after putting it on a bier, carrying it away, and burning it, make a memorial mound for him, your fellow in the spiritual life, monks, has died."
+" bhikkhus, take up Bāhiya of the Bark Robe's body, and after putting it on a bier, carrying it away, and burning it, make a memorial mound for him, your fellow in the spiritual life, bhikkhus, has died."
 
-12"Yes, reverend Sir," said those monks, and after replying to the Gracious One, putting Bāhiya of the Bark Robe's body on a bier, carrying it away, burning it, and making a memorial mound for him, they went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side.  
+12"Yes, reverend Sir," said those bhikkhus, and after replying to the Gracious One, putting Bāhiya of the Bark Robe's body on a bier, carrying it away, burning it, and making a memorial mound for him, they went to the Gracious One, and after going and worshipping the Gracious One, they sat down on one side.  
   
-While sat on one side those monks said this to the Gracious One: "Burnt, reverend Sir, is Bāhiya of the Bark Robe's body, and the memorial mound for him has been made. What is his destination? What is his future state?"  
+While sat on one side those bhikkhus said this to the Gracious One: "Burnt, reverend Sir, is Bāhiya of the Bark Robe's body, and the memorial mound for him has been made. What is his destination? What is his future state?"  
   
-" A wise man, monks, was Bāhiya of the Bark Robe, who practiced Dhamma in accordance with the Dhamma, and did not trouble me on account of the Dhamma. Completely emancipated, monks, is Bāhiya of the Bark Robe."
+" A wise man, bhikkhus, was Bāhiya of the Bark Robe, who practiced Dhamma in accordance with the Dhamma, and did not trouble me on account of the Dhamma. Completely emancipated, bhikkhus, is Bāhiya of the Bark Robe."
 
 ---
 

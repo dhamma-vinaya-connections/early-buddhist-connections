@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 18: The Group of Forty Verses
 
@@ -116,10 +116,10 @@ These rocky crags delight me!
 1069It’s enough for me,  
 Desiring to practice _jhāna_, resolute and mindful.  
 It’s enough for me,  
-A resolute monk, desiring the goal.
+A resolute bhikkhu, desiring the goal.
 
 1070It’s enough for me,  
-A resolute monk, desiring ease,  
+A resolute bhikkhu, desiring ease,  
 It’s enough for me,  
 Desiring to practice, resolute and poised.
 
@@ -134,7 +134,7 @@ Full of flocks of many different birds,
 These rocky crags delight me!
 
 1073The water is clear and the gorges are wide,  
-Monkeys and deer are all around;  
+bhikkhueys and deer are all around;  
 Festooned with dewy moss,  
 These rocky crags delight me!
 
@@ -183,9 +183,9 @@ Are always rightly established,
 Thrive in the spiritual life,  
 For them, there is no rebirth in any state of existence.
 
-1083If a monk who is haughty and fickle,  
+1083If a bhikkhu who is haughty and fickle,  
 Wears rags from the rubbish-heap,  
-Like a monkey in a lion skin,  
+Like a bhikkhuey in a lion skin,  
 That doesn’t make him impressive.
 
 1084But if they are humble and stable,  

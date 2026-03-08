@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four lights. What four? The lights of the moon, sun, fire, and wisdom. These are the four lights. The best of these four lights is the light of wisdom.”
+1“bhikkhus, there are these four lights. What four? The lights of the moon, sun, fire, and wisdom. These are the four lights. The best of these four lights is the light of wisdom.”
 
 1"Cattārome, bhikkhave, ālokā. Katame cattāro? Candāloko, sūriyāloko, aggāloko, paññāloko – ime kho, bhikkhave, cattāro ālokā. Etadaggaṁ, bhikkhave, imesaṁ catunnaṁ ālokānaṁ yadidaṁ paññāloko"ti.
 

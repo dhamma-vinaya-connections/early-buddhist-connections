@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a noble disciple has quelled five dangers and threats, and has the four factors of stream-entry, they may, if they wish, declare of themselves: ‘I’ve finished with rebirth in hell, the animal realm, and the ghost realm. I’ve finished with all places of loss, bad places, the underworld. I am a stream-enterer! I’m not liable to be reborn in the underworld, and am bound for awakening.’
+1“bhikkhus, when a noble disciple has quelled five dangers and threats, and has the four factors of stream-entry, they may, if they wish, declare of themselves: ‘I’ve finished with rebirth in hell, the animal realm, and the ghost realm. I’ve finished with all places of loss, bad places, the underworld. I am a stream-enterer! I’m not liable to be reborn in the underworld, and am bound for awakening.’
 
 2What are the five dangers and threats they have quelled? Anyone who kills living creatures creates dangers and threats both in the present life and in lives to come, and experiences mental pain and sadness. Anyone who refrains from killing living creatures creates no dangers and threats either in the present life or in lives to come, and doesn’t experience mental pain and sadness. So that danger and threat is quelled for anyone who refrains from killing living creatures.
 

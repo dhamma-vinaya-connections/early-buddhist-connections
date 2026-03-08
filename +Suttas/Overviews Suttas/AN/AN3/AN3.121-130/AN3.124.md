@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> When mendicants fight, the Buddha  doesn’t like it.
+> When bhikkhus fight, the Buddha  doesn’t like it.
 
 > [!info] Key Excerpts 
 > Cultivating sensual, malicious, and cruel thoughts lead to quarreling and fighting
 > 
-> I’m not even comfortable thinking about a place where mendicants argue
+> I’m not even comfortable thinking about a place where bhikkhus argue
 > 
 
 

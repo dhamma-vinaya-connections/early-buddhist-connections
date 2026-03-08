@@ -44,10 +44,10 @@ parallels_partilal: "[[EA44.5]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant with eight qualities is worthy of being sent on a mission
+> A bhikkhu with eight qualities is worthy of being sent on a mission
 
 > [!info] Key Excerpts 
-> Mendicant who learns and educates others. They memorize and help others remember. They understand and help others understand. They’re skilled at knowing what’s is relevant . And they don’t cause quarrels
+> bhikkhu who learns and educates others. They memorize and help others remember. They understand and help others understand. They’re skilled at knowing what’s is relevant . And they don’t cause quarrels
 > 
 > They don’t tremble when arriving 
 At an assembly of fierce debaters. 

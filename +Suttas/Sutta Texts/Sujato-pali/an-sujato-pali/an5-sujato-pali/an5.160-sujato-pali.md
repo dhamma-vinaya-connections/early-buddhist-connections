@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five things are hard to get rid of once they’ve arisen. What five? Greed, hate, delusion, the feeling of being inspired to speak out, and thoughts of traveling. These five things are hard to get rid of once they’ve arisen.”
+1“bhikkhus, these five things are hard to get rid of once they’ve arisen. What five? Greed, hate, delusion, the feeling of being inspired to speak out, and thoughts of traveling. These five things are hard to get rid of once they’ve arisen.”
 
 1"Pañcime, bhikkhave, uppannā duppaṭivinodayā. Katame pañca? Uppanno rāgo duppaṭivinodayo, uppanno doso duppaṭivinodayo, uppanno moho duppaṭivinodayo, uppannaṁ paṭibhānaṁ duppaṭivinodayaṁ, uppannaṁ gamikacittaṁ duppaṭivinodayaṁ. Ime kho, bhikkhave, pañca uppannā duppaṭivinodayā"ti.
 

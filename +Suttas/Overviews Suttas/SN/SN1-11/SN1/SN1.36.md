@@ -49,7 +49,7 @@ parallels_partilal: "[[SA-2.284]], [[SA1286]], [[DHP\|DHP221]], [[SN1.34]], [[DH
 > [!info] Key Excerpts 
 > “fools and unintelligent people Devote themselves to negligence. But the intelligent protect diligence As their best treasure
 > 
-> “the mendicants there have immersion, They’ve straightened out their own minds. Like a charioteer who has taken the reins, The astute ones protect their senses
+> “the bhikkhus there have immersion, They’ve straightened out their own minds. Like a charioteer who has taken the reins, The astute ones protect their senses
 > 
 
 

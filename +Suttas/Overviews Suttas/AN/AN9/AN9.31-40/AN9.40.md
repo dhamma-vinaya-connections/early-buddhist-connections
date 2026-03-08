@@ -45,7 +45,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> A bull elephant, annoyed by living in the herd, goes off by himself. Similarly, a mendicant feeling crowded in a monastery goes off by themselves and happily meditates in seclusion
+> A bull elephant, annoyed by living in the herd, goes off by himself. Similarly, a bhikkhu feeling crowded in a monastery goes off by themselves and happily meditates in seclusion
 
 > [!info] Key Excerpts 
 > Give up these five hindrances, corruptions of the heart that weaken wisdom. Then In 4 jhanas, 4 formless jhanas,  cessation of perceptions and feelings are basis for ending the defilements.

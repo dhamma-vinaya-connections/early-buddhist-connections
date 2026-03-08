@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with five qualities is practicing for the welfare of others, but not their own. What five? It’s when a mendicant is not personally accomplished in ethics, immersion, wisdom, freedom, or the knowledge and vision of freedom. But they encourage others in these qualities. A mendicant with these five qualities is practicing for the welfare of others, but not their own.”
+1“bhikkhus, a bhikkhu with five qualities is practicing for the welfare of others, but not their own. What five? It’s when a bhikkhu is not personally accomplished in ethics, immersion, wisdom, freedom, or the knowledge and vision of freedom. But they encourage others in these qualities. A bhikkhu with these five qualities is practicing for the welfare of others, but not their own.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu parahitāya paṭipanno hoti, no attahitāya. Katamehi pañcahi? Idha, bhikkhave, bhikkhu attanā na sīlasampanno hoti, paraṁ sīlasampadāya samādapeti; attanā na samādhisampanno hoti, paraṁ samādhisampadāya samādapeti; attanā na paññāsampanno hoti, paraṁ paññāsampadāya samādapeti; attanā na vimuttisampanno hoti, paraṁ vimuttisampadāya samādapeti; attanā na vimuttiñāṇadassanasampanno hoti, paraṁ vimuttiñāṇadassanasampadāya samādapeti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu parahitāya paṭipanno hoti, no attahitāyā"ti.
 

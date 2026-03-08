@@ -15,13 +15,13 @@ language: "English"
 ## ## Bhaddekaratta Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the monks: “Monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the bhikkhus: “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said: “Monks, I will teach you the summary & exposition of one who has had an auspicious day. Listen & pay close attention. I will speak.”
+The Blessed One said: “bhikkhus, I will teach you the summary & exposition of one who has had an auspicious day. Listen & pay close attention. I will speak.”
 
-“As you say, lord,” the monks responded to him.
+“As you say, lord,” the bhikkhus responded to him.
 
 The Blessed One said:
 
@@ -71,7 +71,7 @@ has truly had an auspicious day:[1](#^mn131note01) ^mn131note01-ref
 
 So says the Peaceful Sage.
 
-“And how, monks, does one chase after the past? One gets carried away with the delight of ‘In the past I had such a form [body]’ ... ‘In the past I had such a feeling’ ... ‘In the past I had such a perception’ ... ‘In the past I had such a fabrication’ ... ‘In the past I had such a consciousness.’ This is called chasing after the past.
+“And how, bhikkhus, does one chase after the past? One gets carried away with the delight of ‘In the past I had such a form [body]’ ... ‘In the past I had such a feeling’ ... ‘In the past I had such a perception’ ... ‘In the past I had such a fabrication’ ... ‘In the past I had such a consciousness.’ This is called chasing after the past.
 
 “And how does one not chase after the past? One does not get carried away with the delight of ‘In the past I had such a form’ ... ‘In the past I had such a feeling’ ... ‘In the past I had such a perception’ ... ‘In the past I had such a fabrication’ ... ‘In the past I had such a consciousness.’ This is called not chasing after the past.
 
@@ -145,9 +145,9 @@ has truly had an auspicious day:[1](#^mn131note01) ^mn131note01-ref
 
 So says the Peaceful Sage.
 
-“‘Monks, I will teach you the summary & exposition of one who has had an auspicious day’: Thus it was said, and in reference to this was it said.”
+“‘bhikkhus, I will teach you the summary & exposition of one who has had an auspicious day’: Thus it was said, and in reference to this was it said.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 Note
 

@@ -25,11 +25,11 @@ language: "English - Pali"
 
 2“Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.”
 
-“Well now, Māluṅkyaputta, what are we to say to the young monks, when even an old man like you, elderly and senior, asks the Realized One for brief advice?”
+“Well now, Māluṅkyaputta, what are we to say to the young bhikkhus, when even an old man like you, elderly and senior, asks the Realized One for brief advice?”
 
 “Sir, may the Buddha teach me the Dhamma in brief! May the Holy One teach me the Dhamma in brief! Hopefully I can understand the meaning of what the Buddha says! Hopefully I can be an heir of the Buddha’s teaching!”
 
-3“Māluṅkyaputta, there are four things that give rise to craving in a mendicant. What four? For the sake of robes, alms-food, lodgings, or rebirth in this or that state. These are the four things that give rise to craving in a mendicant. That craving is given up by a mendicant, cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. Then they’re called a mendicant who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
+3“Māluṅkyaputta, there are four things that give rise to craving in a bhikkhu. What four? For the sake of robes, alms-food, lodgings, or rebirth in this or that state. These are the four things that give rise to craving in a bhikkhu. That craving is given up by a bhikkhu, cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. Then they’re called a bhikkhu who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
 
 
 4When Māluṅkyaputta had been given this advice by the Buddha, he got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.

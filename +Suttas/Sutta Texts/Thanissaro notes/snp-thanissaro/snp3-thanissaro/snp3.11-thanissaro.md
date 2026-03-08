@@ -424,7 +424,7 @@ This [unbinding] isn’t sensed only once.[3](#^snp3-11-03) ^snp3-11-03-ref
 
 In one who has no attachment—
 
-the monk who has cut the stream,[4](#^snp3-11-04) ^snp3-11-04-ref
+the bhikkhu who has cut the stream,[4](#^snp3-11-04) ^snp3-11-04-ref
 
 abandoning what is
 
@@ -528,7 +528,7 @@ vv. 679–723
 
 1. Reading _Sakkañca_ with the Thai edition. [↩︎](#^snp3-11-01-ref) ^snp3-11-01
 
-2. For an instance of a woman who tried to seduce a monk, see the origin story to Pācittiya 5 in _The Buddhist Monastic Code,_ volume 1. For an instance of a man who tried to seduce a nun, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig14-thanissaro]]. [↩︎](#^snp3-11-02-ref) ^snp3-11-02
+2. For an instance of a woman who tried to seduce a bhikkhu, see the origin story to Pācittiya 5 in _The Buddhist Monastic Code,_ volume 1. For an instance of a man who tried to seduce a nun, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig14-thanissaro]]. [↩︎](#^snp3-11-02-ref) ^snp3-11-02
 
 3. According to SnA, the high and low practices taught by the Buddha are, respectively, the practice-mode of pleasant practice and quick intuition, and the practice-mode of painful practice and slow intuition (see [[an4.162-thanissaro]]). These modes of practice don’t go twice to the further shore in the sense that each of the four paths—to stream-entry, once-returning, non-returning, and arahantship—abandons whatever defilements it is capable of abandoning once and for all. There is no need to repeat that particular path. Unbinding is not attained only once in the sense that it is touched as the result of each of the four paths. [↩︎](#^snp3-11-03-ref) ^snp3-11-03
 

@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma98note01) One time, the Buddha traveled to Kuru and stayed at the Kuru town of Kalmāṣadamya. ^ma98note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “There’s one path that purifies sentient beings. It frees them from sorrow and fear, ceases suffering and vexation, ends lamentation, and attains the right Dharma. It’s called the four abodes of mindfulness.
+2. It was then that the Bhagavān addressed the bhikkhus, “There’s one path that purifies sentient beings. It frees them from sorrow and fear, ceases suffering and vexation, ends lamentation, and attains the right Dharma. It’s called the four abodes of mindfulness.
 
 3. “If there were Tathāgatas, Arhats, and Completely Awakened Ones in the past, they all ended the five hindrances that defile the mind and weaken wisdom, established their minds in the four abodes of mindfulness, and cultivated the seven factors of awakening. They then attained the awakening that is the unsurpassed, correct, and complete awakening. If there will be Tathāgatas, Arhats, and Completely Awakened Ones in the future, they all will end the five hindrances that defile the mind and weaken wisdom, establish their minds in the four abodes of mindfulness, and cultivate the seven factors of awakening. They then will attain the awakening that is the unsurpassed, correct, and complete awakening. I’m now the Tathāgata, Arhat, and Completely Awakened One in the present. I’ve also ended the five hindrances that defile the mind and weaken wisdom, established my mind in the four abodes of mindfulness, and cultivated the seven factors of awakening. I then attained the awakening that is the unsurpassed, correct, and complete awakening.
 
@@ -97,19 +97,19 @@ language: "English"
 
 39. “Furthermore, a monk observes the body as body. That monk as before sees bones at a charnel ground as white as seashells, blue like a pigeon, or red like smeared blood. They are decayed, broken, and reduced to dust. He compares himself to what he’s seen: ‘Now, this body of mine will be likewise. Both have this principle; I’ll never escape this.’
 
-40. “A monk observes the internal body as body and observes the external body as body in this way. He establishes mindfulness of body with knowing, seeing, insight, and comprehension. This is called a monk observing body as body. If monks and nuns thus observe the body as body little by little, this is called the mindful abode of observing the body as body.
+40. “A monk observes the internal body as body and observes the external body as body in this way. He establishes mindfulness of body with knowing, seeing, insight, and comprehension. This is called a monk observing body as body. If bhikkhus and nuns thus observe the body as body little by little, this is called the mindful abode of observing the body as body.
 
 #### Mindfulness of Feelings
 
 41. “What is the mindful abode of observing feelings as feelings? When a monk feels a pleasant feeling, then he knows, ‘I’m feeling a pleasant feeling.’ When he feels a painful feeling, then he knows, ‘I’m feeling a painful feeling.’ When he feels a feeling that’s neither pleasant nor painful, then he knows, ‘I’m feeling a feeling that’s neither pleasant nor painful.’ He experiences a pleasant body … a painful body … a body that’s neither pleasant nor painful … a pleasant mind … a painful mind … a mind that’s neither pleasant nor painful … pleasant food … painful food … food that’s neither pleasant nor painful … pleasant lack of food … painful lack of food … lack of food that’s neither pleasant nor painful … pleasant desires … painful desires … desires that are neither pleasant nor painful. When he experiences a pleasant lack of desire … a painful lack of desire … a lack of desire that’s neither pleasant nor painful, then he knows, ‘I’m experiencing a lack of desire that’s neither pleasant nor painful.’
 
-42. “A monk observes internal feelings as feelings and observes external feelings as feelings in this way. He establishes mindfulness of feeling with knowing, seeing, insight, and comprehension. This is called a monk observing feelings as feelings. If monks and nuns thus observe feelings as feelings little by little, this is called the mindful abode of observing feelings as feelings.
+42. “A monk observes internal feelings as feelings and observes external feelings as feelings in this way. He establishes mindfulness of feeling with knowing, seeing, insight, and comprehension. This is called a monk observing feelings as feelings. If bhikkhus and nuns thus observe feelings as feelings little by little, this is called the mindful abode of observing feelings as feelings.
 
 #### Mindfulness of Mind
 
 43. “What is the mindful abode of observing mind as mind? A monk who has a mind with desire truly knows, ‘I have a mind with desire’ … a mind lacking desire truly knows, ‘I have a mind lacking desire’ … with anger … lacking anger … with delusion … lacking delusion … with defilement … lacking defilement … with unity … with distraction … with lower … with higher … with little … with greatness … that’s cultivated … that’s not cultivated … that’s collected … that’s not collected … has a mind that’s not liberated truly knows, ‘I have a mind that’s not liberated’ … has a mind that’s liberated truly knows, ‘I have a mind that’s liberated.’
 
-44. “A monk observes internal mind as mind and observes external mind as mind in this way. He establishes mindfulness of mind with knowing, seeing, insight, and comprehension. This is called a monk observing mind as mind. If monks and nuns thus observe the mind as mind little by little, this is called the mindful abode of observing the mind as mind.
+44. “A monk observes internal mind as mind and observes external mind as mind in this way. He establishes mindfulness of mind with knowing, seeing, insight, and comprehension. This is called a monk observing mind as mind. If bhikkhus and nuns thus observe the mind as mind little by little, this is called the mindful abode of observing the mind as mind.
 
 #### Mindfulness of Principles
 
@@ -123,19 +123,19 @@ language: "English"
 
 49. “Furthermore, a monk observes principles as principles. A monk really has the internal awakening factor of mindfulness and truly knows, ‘I have the awakening factor of mindfulness’ … really doesn’t have the awakening factor of mindfulness and truly knows, ‘I don’t have the awakening factor of mindfulness.’ If the awakening factor of mindfulness that has yet to arise does arise, he truly knows it. If the awakening factor of mindfulness that has arisen then remains, isn’t lost, and doesn’t fade or retreat, and he develops, cultivates, and increases it, then he truly knows it. Thus … discriminating qualities … effort … joy … calm … _samādhi_ … really has the internal awakening factor of equanimity and truly knows, ‘I have the awakening factor of equanimity’ … really doesn’t have the internal awakening factor of equanimity and truly knows, ‘I don’t have the awakening factor of equanimity.’ If the awakening factor of equanimity that has yet to arise does arise, he truly knows it. If the awakening factor of equanimity that has arisen then remains, isn’t lost, and doesn’t fade or retreat, and he develops, cultivates, and increases it, then he truly knows it.
 
-50. “A monk observes internal principles as principles and observes external principles as principles in this way. He establishes mindfulness of principles with knowing, seeing, insight, and comprehension. This is called a monk who observes principles as principles, which are the seven factors of awakening. If monks and nuns thus observe principles as principles little by little, this is called the mindful abode of observing principles as principles.
+50. “A monk observes internal principles as principles and observes external principles as principles in this way. He establishes mindfulness of principles with knowing, seeing, insight, and comprehension. This is called a monk who observes principles as principles, which are the seven factors of awakening. If bhikkhus and nuns thus observe principles as principles little by little, this is called the mindful abode of observing principles as principles.
 
 #### Conclusion
 
-51. “If monks and nuns establish their minds with the correct abiding in the four abodes of mindfulness for seven years, they surely will attain two fruits. Either they will attain the ultimate knowledge in the present life, or they will have some remainder and become non-returners if they stop at seven years or six, five, four, three, two, or one year.
+51. “If bhikkhus and nuns establish their minds with the correct abiding in the four abodes of mindfulness for seven years, they surely will attain two fruits. Either they will attain the ultimate knowledge in the present life, or they will have some remainder and become non-returners if they stop at seven years or six, five, four, three, two, or one year.
 
-52. “If monks and nuns establish their minds with the correct abiding in the four abodes of mindfulness for seven months, they surely will attain two fruits. Either they will attain the ultimate knowledge in the present life, or they’ll have some remainder and become non-returners if they stop at seven months or six, five, four, three, two, or one month.
+52. “If bhikkhus and nuns establish their minds with the correct abiding in the four abodes of mindfulness for seven months, they surely will attain two fruits. Either they will attain the ultimate knowledge in the present life, or they’ll have some remainder and become non-returners if they stop at seven months or six, five, four, three, two, or one month.
 
-53. “If monks and nuns establish their minds with the correct abiding in the four abodes of mindfulness for seven days and nights, they surely will attain two fruits. Either they will attain the ultimate knowledge in the present life, or they’ll have some remainder and become non-returners if they stop at seven days and nights or six, five, four, three, two, or one day and night.
+53. “If bhikkhus and nuns establish their minds with the correct abiding in the four abodes of mindfulness for seven days and nights, they surely will attain two fruits. Either they will attain the ultimate knowledge in the present life, or they’ll have some remainder and become non-returners if they stop at seven days and nights or six, five, four, three, two, or one day and night.
 
-54. “If monks and nuns establish their minds with the correct abiding in the four abodes of mindfulness for the slightest moment and do so in the morning, they’ll surely ascend and advance by sunset. Doing so at sunset, they’ll surely ascend and advance in the morning.”
+54. “If bhikkhus and nuns establish their minds with the correct abiding in the four abodes of mindfulness for the slightest moment and do so in the morning, they’ll surely ascend and advance by sunset. Doing so at sunset, they’ll surely ascend and advance in the morning.”
 
-55. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+55. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

@@ -19,19 +19,19 @@ language: "Pali - English"
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time Venerable Belaṭṭhasīsa, Venerable Ānanda’s preceptor, was staying in the wilderness. After walking for alms, he brought plain boiled rice back to the monastery where he dried and stored it. Whenever he got hungry, he moistened and ate it. As a result, he only went the village for alms after a long time.
 
 
-The monks asked him, “Why do you only go for alms after such a long time?” And he told them.
+The bhikkhus asked him, “Why do you only go for alms after such a long time?” And he told them.
 
 “But do you eat food that you’ve stored?”
 
 “Yes.”
 
 
-2The monks of few desires complained and criticized him, “How can Venerable Belaṭṭhasīsa eat food that he has stored?” … “Is it true, Belaṭṭhasīsa, that you do this?”
+2The bhikkhus of few desires complained and criticized him, “How can Venerable Belaṭṭhasīsa eat food that he has stored?” … “Is it true, Belaṭṭhasīsa, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Belaṭṭhasīsa, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Belaṭṭhasīsa, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

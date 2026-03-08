@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-NP30"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP29]] 🌐 [[BU-PC1]] ►
 
-# Monks - Nissaggiya Pacittiya - Relinquish with confession
+# bhikkhus - Nissaggiya Pacittiya - Relinquish with confession
 ## Pattavagga - Bowl
 ## BU-NP30 - Pariṇata - Offerings Intended for the Sangha
 
@@ -54,7 +54,7 @@ vin_gender-corr: "BNI-NP30"
 > > [!info]- Useful Notes
 > > > From various authors
 > > 
-> > Would then seem appropriate, although this is not stated in the Vinaya, that the offending monk should then present that gift to the Sangha where it was originally intended. the point of this rule that monks have no business telling donors where to give their gifts. any donor lay, fellow bhikkhus and relatives. The fact that a gift is allocated for a Community overrides all other considerations, even when one is ill. perceiving an item as not allocated does not give carte blanche to divert it as one likes
+> > Would then seem appropriate, although this is not stated in the Vinaya, that the offending monk should then present that gift to the Sangha where it was originally intended. the point of this rule that bhikkhus have no business telling donors where to give their gifts. any donor lay, fellow bhikkhus and relatives. The fact that a gift is allocated for a Community overrides all other considerations, even when one is ill. perceiving an item as not allocated does not give carte blanche to divert it as one likes
 > 
 > > [!info]-  Formulas 
 > > >If applicable from BMC1 Appendices  [[bmc1#^ch13]]
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-NP30"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-NP30 | [[BNI-NP30]] | Vin.3.1–3.40 |
 

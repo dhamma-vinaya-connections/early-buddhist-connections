@@ -44,12 +44,12 @@ parallels_partilal: "[[AN10.8]], [[AN9.4]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Beginning with faith, a mendicant completes all good qualities that fulfill liberation
+> Beginning with faith, a bhikkhu completes all good qualities that fulfill liberation
 
 > [!info] Key Excerpts 
 > Faithful, ethical, and learned, a Dhamma speaker, one who frequents assemblies, one who teaches Dhamma to the assembly with assurance, one who gets the four absorptions when they want, and one who lives having realized the ending of defilements
 > 
-> A mendicant who has these eight qualities is inspiring all around, and is complete in every respect.”
+> A bhikkhu who has these eight qualities is inspiring all around, and is complete in every respect.”
 > 
 
 

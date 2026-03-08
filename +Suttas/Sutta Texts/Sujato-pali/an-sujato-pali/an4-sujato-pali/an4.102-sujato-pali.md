@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four kinds of clouds. What four?
+1“bhikkhus, there are these four kinds of clouds. What four?
 
 1. One thunders but doesn’t rain,
 2. one rains but doesn’t thunder,

@@ -19,7 +19,7 @@ language: "English - Pali"
 
 #### 1. The Brahmins and Householders of Campā
 
-1So I have heard. At one time the Buddha was wandering in the land of the Aṅgas together with a large Saṅgha of around five hundred mendicants when he arrived at Campā, where he stayed by the banks of the Gaggarā Lotus Pond.
+1So I have heard. At one time the Buddha was wandering in the land of the Aṅgas together with a large Saṅgha of around five hundred bhikkhus when he arrived at Campā, where he stayed by the banks of the Gaggarā Lotus Pond.
 
 Now at that time the brahmin Soṇadaṇḍa was living in Campā. It was a crown property given by King Seniya Bimbisāra of Magadha, teeming with living creatures, full of hay, wood, water, and grain, a royal endowment of the highest quality.
 
@@ -214,15 +214,15 @@ So he said to Soṇadaṇḍa: “Brahmin, how many factors must a brahmin posse
 
 “Yes sir,” Soṇadaṇḍa replied. The Buddha said this:
 
-“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. This, brahmin, is that ethical conduct. … They enter and remain in the first jhāna … second jhāna … third jhāna … fourth jhāna … They extend and project the mind toward knowledge and vision … This pertains to their wisdom. … They understand: ‘… there is no return to any state of existence.’ This pertains to their wisdom. This, brahmin, is that wisdom.”
+“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a bhikkhu is accomplished in ethics. This, brahmin, is that ethical conduct. … They enter and remain in the first jhāna … second jhāna … third jhāna … fourth jhāna … They extend and project the mind toward knowledge and vision … This pertains to their wisdom. … They understand: ‘… there is no return to any state of existence.’ This pertains to their wisdom. This, brahmin, is that wisdom.”
 
 #### 7. Soṇadaṇḍa Declares Himself a Lay Follower
 
-63When he had spoken, Soṇadaṇḍa said to the Buddha: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the Teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life. Would you and the Order of monks please accept a meal from me tomorrow?” The Buddha consented in silence.
+63When he had spoken, Soṇadaṇḍa said to the Buddha: “Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, Master Gotama has made the Teaching clear in many ways. I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life. Would you and the Order of bhikkhus please accept a meal from me tomorrow?” The Buddha consented in silence.
 
 64Then, knowing that the Buddha had consented, Soṇadaṇḍa got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving. And when the night had passed Soṇadaṇḍa had a variety of delicious foods prepared in his own home. Then he had the Buddha informed of the time, saying: “It’s time, Master Gotama, the meal is ready.”
 
-Then the Buddha robed up in the morning and, taking his bowl and robe, went to the home of Soṇadaṇḍa together with the mendicant Saṅgha, where he sat on the seat spread out. Then Soṇadaṇḍa served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with a variety of delicious foods.
+Then the Buddha robed up in the morning and, taking his bowl and robe, went to the home of Soṇadaṇḍa together with the bhikkhu Saṅgha, where he sat on the seat spread out. Then Soṇadaṇḍa served and satisfied the bhikkhu Saṅgha headed by the Buddha with his own hands with a variety of delicious foods.
 
 65When the Buddha had eaten and washed his hand and bowl, Soṇadaṇḍa took a low seat and sat to one side. Seated to one side he said to the Buddha:
 

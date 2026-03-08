@@ -20,16 +20,16 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, if wanderers who follow other paths were to ask: ‘Reverends, all things have what as their root? What produces them? What is their origin? What is their meeting place? What is their chief? What is their ruler? What is their overseer? What is their core?’ How would you answer them?”
+1“bhikkhus, if wanderers who follow other paths were to ask: ‘Reverends, all things have what as their root? What produces them? What is their origin? What is their meeting place? What is their chief? What is their ruler? What is their overseer? What is their core?’ How would you answer them?”
 
-“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The mendicants will listen and remember it.”
+“Our teachings are rooted in the Buddha. He is our guide and our refuge. Sir, may the Buddha himself please clarify the meaning of this. The bhikkhus will listen and remember it.”
 
 
-2“Well then, mendicants, I will teach it. Listen and pay close attention, I will speak.”
+2“Well then, bhikkhus, I will teach it. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
-“Mendicants, if wanderers who follow other paths were to ask: ‘Reverends, all things have what as their root? What produces them? What is their origin? What is their meeting place? What is their chief? What is their ruler? What is their overseer? What is their core?’ You should answer them:
+“bhikkhus, if wanderers who follow other paths were to ask: ‘Reverends, all things have what as their root? What produces them? What is their origin? What is their meeting place? What is their chief? What is their ruler? What is their overseer? What is their core?’ You should answer them:
 
 ‘Reverends, all things are rooted in desire. Attention produces them. Contact is their origin. Feeling is their meeting place. Immersion is their chief. Mindfulness is their ruler. Wisdom is their overseer. Freedom is their core.’
 

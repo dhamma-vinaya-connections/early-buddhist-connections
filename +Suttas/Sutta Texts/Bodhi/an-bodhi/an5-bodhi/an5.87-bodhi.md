@@ -14,7 +14,7 @@ language: "English"
 
 > **Division:** IV. ELDERS
 
-“Bhikkhus, possessing five qualities, an elder bhikkhu is pleasing and agreeable to his fellow monks and is respected and esteemed by them. What five?
+“Bhikkhus, possessing five qualities, an elder bhikkhu is pleasing and agreeable to his fellow bhikkhus and is respected and esteemed by them. What five?
 
 (1) “He is virtuous; he dwells restrained by the Pātimokkha, possessed of good conduct and resort, seeing danger in minute faults. Having undertaken the training rules, he trains in them.
 
@@ -26,7 +26,7 @@ language: "English"
 
 (5) “With the destruction of the taints, he has realized for himself with direct knowledge, in this very life, the taintless liberation of mind, liberation by wisdom, and having entered upon it, he dwells in it.
 
-“Possessing these five qualities, bhikkhus, an elder bhikkhu is pleasing and agreeable to his fellow monks and is respected and esteemed by them.”
+“Possessing these five qualities, bhikkhus, an elder bhikkhu is pleasing and agreeable to his fellow bhikkhus and is respected and esteemed by them.”
 
 
 ---

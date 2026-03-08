@@ -22,9 +22,9 @@ language: "English - Pali"
 
 Now at that time the wanderer Sandaka was residing at the cave of the wavy leaf fig tree together with a large assembly of around five hundred wanderers.
 
-Then in the late afternoon, Venerable Ānanda came out of retreat and addressed the mendicants: “Come, reverends, let’s go to the Devakata Pool to see the cave.”
+Then in the late afternoon, Venerable Ānanda came out of retreat and addressed the bhikkhus: “Come, reverends, let’s go to the Devakata Pool to see the cave.”
 
-“Yes, reverend,” they replied. Then Ānanda together with several mendicants went to the Devakata Pool.
+“Yes, reverend,” they replied. Then Ānanda together with several bhikkhus went to the Devakata Pool.
 
 2Now at that time, Sandaka and the large assembly of wanderers were sitting together making an uproar, a dreadful racket. They engaged in all kinds of unworthy talk, such as talk about kings, bandits, and ministers; talk about armies, threats, and wars; talk about food, drink, clothes, and beds; talk about garlands and fragrances; talk about family, vehicles, villages, towns, cities, and countries; talk about women and heroes; street talk and well talk; talk about the departed; motley talk; tales of land and sea; and talk about being reborn in this or that state of existence.
 
@@ -122,7 +122,7 @@ This is the fourth kind of unreliable spiritual life.
 22“Sandaka, it’s when a Realized One arises in the world, perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed. … He gives up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, he enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. A sensible person would, to the best of their ability live the spiritual life under a teacher who achieves such a high distinction, and, once practicing it, they would complete the procedure of the skillful teaching.
 
 
-23Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant … enters and remains in the second jhāna … third jhāna … fourth jhāna. A sensible person would, to the best of their ability live the spiritual life under a teacher who achieves such a high distinction, and, once practicing it, they would complete the procedure of the skillful teaching.
+23Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu … enters and remains in the second jhāna … third jhāna … fourth jhāna. A sensible person would, to the best of their ability live the spiritual life under a teacher who achieves such a high distinction, and, once practicing it, they would complete the procedure of the skillful teaching.
 
 24When their mind has become immersed in samādhi like this — purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable — they extend it toward recollection of past lives. They recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. … They recollect their many kinds of past lives, with features and details. A sensible person would, to the best of their ability live the spiritual life under a teacher who achieves such a high distinction, and, once practicing it, they would complete the procedure of the skillful teaching.
 
@@ -137,19 +137,19 @@ Knowing and seeing like this, their mind is freed from the defilements of sensua
 They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’ A sensible person would, to the best of their ability live the spiritual life under a teacher who achieves such a high distinction, and, once practicing it, they would complete the procedure of the skillful teaching.”
 
 
-29“But Master Ānanda, when a mendicant is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — could they still enjoy sensual pleasures?”
+29“But Master Ānanda, when a bhikkhu is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — could they still enjoy sensual pleasures?”
 
-“Sandaka, a mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — can’t transgress in five respects. A mendicant with defilements ended can’t deliberately take the life of a living creature, take something with the intention to steal, have sex, tell a deliberate lie, or store up goods for their own enjoyment like they did as a lay person. A mendicant who is perfected can’t transgress in these five respects.”
+“Sandaka, a bhikkhu who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — can’t transgress in five respects. A bhikkhu with defilements ended can’t deliberately take the life of a living creature, take something with the intention to steal, have sex, tell a deliberate lie, or store up goods for their own enjoyment like they did as a lay person. A bhikkhu who is perfected can’t transgress in these five respects.”
 
 
-30“But Master Ānanda, when a mendicant is perfected, would the knowledge and vision that their defilements are ended be constantly and continually present to them, while walking, standing, sleeping, and waking?”
+30“But Master Ānanda, when a bhikkhu is perfected, would the knowledge and vision that their defilements are ended be constantly and continually present to them, while walking, standing, sleeping, and waking?”
 
 “Well then, Sandaka, I shall give you a simile. For by means of a simile some sensible people understand the meaning of what is said. Suppose there was a person whose hands and feet had been amputated. Would they be aware that their hands and feet had been amputated constantly and continually, while walking, standing, sleeping, and waking? Or would they be aware of it only when they checked it?”
 
 “They wouldn’t be aware of it constantly, only when they checked it.”
 
 
-“In the same way, when a mendicant is perfected, the knowledge and vision that their defilements are ended is not constantly and continually present to them, while walking, standing, sleeping, and waking. Rather, they are aware of it only when they checked it.”
+“In the same way, when a bhikkhu is perfected, the knowledge and vision that their defilements are ended is not constantly and continually present to them, while walking, standing, sleeping, and waking. Rather, they are aware of it only when they checked it.”
 
 
 31“But Reverend Ānanda, how many emancipators are there in this teaching and training?”

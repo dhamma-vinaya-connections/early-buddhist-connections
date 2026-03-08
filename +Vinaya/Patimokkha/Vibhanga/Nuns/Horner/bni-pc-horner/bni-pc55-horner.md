@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.55.1.1* *BD.3.350* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time a certain nun, walking for alms along a certain road in Sāvatthī, approached a certain family; having approached, she sat down on an appointed seat. Then these people, having offered food to this nun, spoke thus: “Lady, other nuns may also come.” Then this nun, thinking: “How may these nuns not come?” having approached the nuns, spoke thus: “Ladies, in such and such a place there are fierce dogs, a wild bull, the place is a swamp, do not go there.” But a certain nun, walking for alms along that road, approached that family; having approached, she sat down on an appointed seat. Then these people, having offered food to that nun, spoke thus: “Why do not the other nuns come, lady?” Then this nun told this matter to those people. The people … spread it about, saying: “How can that nun be grudging as to families?”[^1] …
 
-“Is it true, as is said, monks, that a nun was grudging as to families?”
+“Is it true, as is said, bhikkhus, that a nun was grudging as to families?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can a nun be grudging as to families? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can a nun be grudging as to families? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should be one who is grudging as to families, there is an offence of expiation.”
 

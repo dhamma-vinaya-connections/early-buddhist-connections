@@ -47,7 +47,7 @@ parallels_partilal: ""
 > What qualifies you as a senior
 
 > [!info] Key Excerpts 
-> Mendicant is ethical, very learned, get the four jhanas, and  has no defilements
+> bhikkhu is ethical, very learned, get the four jhanas, and  has no defilements
 > 
 > The creature with a restless mind 
 Speaks a lot of nonsense. 

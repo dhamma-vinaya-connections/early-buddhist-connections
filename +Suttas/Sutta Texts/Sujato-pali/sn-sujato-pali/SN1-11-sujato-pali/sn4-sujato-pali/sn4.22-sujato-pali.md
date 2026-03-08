@@ -46,7 +46,7 @@ my mind is serene in immersion.
 Make whatever illusions you want,  
 it won’t bother me.”
 
-5Then Māra the Wicked, thinking: “The mendicant Samiddhi knows me!” miserable and sad, vanished right there.
+5Then Māra the Wicked, thinking: “The bhikkhu Samiddhi knows me!” miserable and sad, vanished right there.
 
 #### Pali
 

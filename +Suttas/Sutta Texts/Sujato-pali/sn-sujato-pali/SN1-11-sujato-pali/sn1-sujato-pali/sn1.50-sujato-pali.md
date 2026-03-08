@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Seven mendicants reborn in Aviha  
+1“Seven bhikkhus reborn in Aviha  
 have been freed.  
 With the complete ending of greed and hate,  
 they’ve crossed over clinging to the world.”
@@ -68,7 +68,7 @@ We lived in the same village;
 in the past I was your friend.
 
 10I am the one who understands  
-that these seven mendicants have been freed.  
+that these seven bhikkhus have been freed.  
 With the complete ending of greed and hate,  
 they’ve crossed over clinging to the world.”
 

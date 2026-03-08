@@ -44,7 +44,7 @@ parallels_partilal: "[[MA143]], [[DN11]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A brahmin argues that a sacrifice is less selfish than the mendicant’s life. And the king’s men are deploring the decline in psychic abilities among the saṅgha.
+> A brahmin argues that a sacrifice is less selfish than the bhikkhu’s life. And the king’s men are deploring the decline in psychic abilities among the saṅgha.
 
 > [!info] Key Excerpts 
 > Demonstration of psychic power, a demonstration of revealing, and a demonstration of instruction.

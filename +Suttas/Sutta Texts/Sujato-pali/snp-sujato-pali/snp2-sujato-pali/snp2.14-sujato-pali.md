@@ -68,7 +68,7 @@ that is well proclaimed by you, Blessed One.
 It’s all we long to hear. So when asked,  
 O Best of Buddhas, tell us!
 
-384 All these mendicants have gathered,  
+384 All these bhikkhus have gathered,  
 and the layfolk too are here to listen.  
 Let them hear the teaching the immaculate one discovered,  
 like gods listening to the fine words of Vāsava.”
@@ -77,12 +77,12 @@ like gods listening to the fine words of Vāsava.”
 
 Buddha
 
-385 “Listen to me, mendicants, I will educate you  
+385 “Listen to me, bhikkhus, I will educate you  
 in the cleansing teaching; all bear it in mind.  
 An intelligent person, seeing the meaning,  
 would adopt the deportment proper to a renunciate.
 
-386 No way would a mendicant go out at the wrong time;  
+386 No way would a bhikkhu go out at the wrong time;  
 at the right time, they’d walk the village for alms.  
 For chains bind one who wanders at the wrong time,  
 which is why the Buddhas avoid it.
@@ -93,12 +93,12 @@ dispel desire for such things,
 and enter for the morning meal at the right time.
 
 388 After receiving alms for the day,  
-on returning a mendicant would sit in private alone.  
+on returning a bhikkhu would sit in private alone.  
 Inwardly reflective, they’d curb their mind  
 from outside things, keeping themselves collected.
 
 389 Should they converse with a disciple,  
-with anyone else, or with a mendicant,  
+with anyone else, or with a bhikkhu,  
 they’d bring up only the sublime teaching,  
 not dividing or blaming.
 
@@ -114,7 +114,7 @@ a disciple of splendid wisdom would use these after appraisal.
 
 392 That’s why, when it comes to alms and lodgings,  
 and water for rinsing the dust from the cloak,  
-a mendicant is unsullied in the midst of these things,  
+a bhikkhu is unsullied in the midst of these things,  
 like a droplet on a lotus-leaf.
 
 ---
@@ -122,7 +122,7 @@ like a droplet on a lotus-leaf.
 393 Now I shall tell you the householder’s duty,  
 doing which one becomes a good disciple.  
 For one burdened with possessions does not get to realize  
-the whole of the mendicant’s practice.
+the whole of the bhikkhu’s practice.
 
 394 They’d not kill any creature, nor have them killed,  
 nor grant permission for others to kill.  
@@ -174,7 +174,7 @@ as well as on the fortnightly special displays,
 403 on the morning after the sabbath  
 a clever person, rejoicing with confident heart,  
 would distribute food and drink  
-to the mendicant Saṅgha as is fitting.
+to the bhikkhu Saṅgha as is fitting.
 
 404 One should rightfully support one’s parents,  
 and undertake a legitimate business.  

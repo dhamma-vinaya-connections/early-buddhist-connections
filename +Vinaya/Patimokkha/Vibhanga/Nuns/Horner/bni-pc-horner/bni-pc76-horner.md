@@ -13,11 +13,11 @@ language: "English"
 
 “How can the lady Caṇḍakālī, on being told, ‘You have ordained sufficiently, lady, for the time being,’ and having answered, ‘Very good,’ afterwards engage in criticism?” …
 
-“Is it true, as is said, monks, that the nun Caṇḍakālī … afterwards engaged in criticism[^4]?”
+“Is it true, as is said, bhikkhus, that the nun Caṇḍakālī … afterwards engaged in criticism[^4]?”
 
 “It is true, lord.”
 
-The enlightened one, the lord, rebuked them, saying: “How, monks, can the nun Caṇḍakālī … afterwards engage in criticism? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+The enlightened one, the lord, rebuked them, saying: “How, bhikkhus, can the nun Caṇḍakālī … afterwards engage in criticism? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, on being told, ‘You have ordained *BD.3.388* sufficiently, lady, for the time being,’ and having answered, ‘very good,’ should afterwards engage in criticism, there is an offence of expiation.”
 

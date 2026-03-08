@@ -14,15 +14,15 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### IX. Senior Mendicants — AN 5.84: Faithless
+### IX. Senior bhikkhus — AN 5.84: Faithless
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a senior mendicant with five qualities is unlikable and unlovable to their spiritual companions, not respected or admired. What five? They’re faithless, shameless, imprudent, lazy, and witless. A senior mendicant with these five qualities is unlikable and unlovable to their spiritual companions, not respected or admired.
+1“bhikkhus, a senior bhikkhu with five qualities is unlikable and unlovable to their spiritual companions, not respected or admired. What five? They’re faithless, shameless, imprudent, lazy, and witless. A senior bhikkhu with these five qualities is unlikable and unlovable to their spiritual companions, not respected or admired.
 
-2A senior mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired. What five? They’re faithful, conscientious, prudent, energetic, and wise. A senior mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
+2A senior bhikkhu with five qualities is dear and beloved to their spiritual companions, respected and admired. What five? They’re faithful, conscientious, prudent, energetic, and wise. A senior bhikkhu with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṁ appiyo ca hoti, amanāpo ca agaru ca abhāvanīyo ca. Katamehi pañcahi? Assaddho hoti, ahiriko hoti, anottappī hoti, kusīto hoti, duppañño hoti – imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṁ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.
 

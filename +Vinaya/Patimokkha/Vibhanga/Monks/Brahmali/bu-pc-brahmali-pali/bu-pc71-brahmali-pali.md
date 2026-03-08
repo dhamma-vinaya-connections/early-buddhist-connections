@@ -16,10 +16,10 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, Venerable Channa was misbehaving. The monks told him, “Don’t do that, Channa, it’s not allowable,” and he would reply, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law.”
+1At one time when the Buddha was staying at Kosambī in Ghosita’s Monastery, Venerable Channa was misbehaving. The bhikkhus told him, “Don’t do that, Channa, it’s not allowable,” and he would reply, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law.”
 
 
-2The monks of few desires complained and criticized him, “How could Venerable Channa say this when legitimately corrected by the monks?” …
+2The bhikkhus of few desires complained and criticized him, “How could Venerable Channa say this when legitimately corrected by the bhikkhus?” …
 
 
 “Is it true, Channa, that you said this?”
@@ -27,18 +27,18 @@ language: "Pali - English"
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you say this when legitimately corrected by the monks? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you say this when legitimately corrected by the bhikkhus? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk, when legitimately corrected by the monks, says, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law,” he commits an offense entailing confession. A monk who is training should understand, should question, should enquire. This is the proper procedure.’”
+3‘If a monk, when legitimately corrected by the bhikkhus, says, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law,” he commits an offense entailing confession. A monk who is training should understand, should question, should enquire. This is the proper procedure.’”
 
 #### Definitions
 
 4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
 
 
-5**By the monks:** by other monks.
+5**By the bhikkhus:** by other bhikkhus.
 
 
 6**Legitimately:** the training rules laid down by the Buddha—this is called “legitimately”. When corrected in regard to this, he says, “I won’t practice this training rule until I’ve questioned a monk who’s an expert on the Monastic Law.” If he says, “I’ll question one who’s wise,” “I’ll question one who’s competent,” “I’ll question one who’s intelligent,” “I’ll question one who’s learned,” “I’ll question an expounder of the Teaching,” he commits an offense entailing confession.

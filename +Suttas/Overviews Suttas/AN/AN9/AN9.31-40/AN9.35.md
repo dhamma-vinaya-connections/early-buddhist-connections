@@ -51,7 +51,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Cultivate, develop, and make much of  4 jhanas, 4 formless jhanas,  cessation of perceptions and feelings  ensuring that it’s properly stabilized
 > 
-> When a mendicant enters and emerges from all these attainments, their mind becomes pliable and workable. their immersion becomes limitless and well developed.They Become capable of realizing anything that can be realized by insight to which they extend the mind
+> When a bhikkhu enters and emerges from all these attainments, their mind becomes pliable and workable. their immersion becomes limitless and well developed.They Become capable of realizing anything that can be realized by insight to which they extend the mind
 > 
 
 > [!info] Similes

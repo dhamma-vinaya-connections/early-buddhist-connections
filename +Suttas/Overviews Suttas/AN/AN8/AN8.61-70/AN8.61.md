@@ -44,7 +44,7 @@ parallels_partilal: "[[AN8.77]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> The Buddha  describes eight cases where a mendicant has a desire for material things. Sometimes they fall under the sway of that desire, but sometimes they rise above it.
+> The Buddha  describes eight cases where a bhikkhu has a desire for material things. Sometimes they fall under the sway of that desire, but sometimes they rise above it.
 
 > [!info] Key Excerpts 
 > Bhikkhus desire things ones make effort & some don't, some lament if don't get them & some don't, some become indulgent when get them & some don't

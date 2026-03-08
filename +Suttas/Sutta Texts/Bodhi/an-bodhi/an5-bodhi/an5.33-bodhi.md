@@ -16,7 +16,7 @@ language: "English"
 
 On one occasion the Blessed One was dwelling at Bhaddiya in the Jātiyā Grove. Then Uggaha, Meṇḍaka’s grandson, approached the Blessed One, paid homage to him, sat down to one side, and said to the Blessed One:
 
-“Bhante, let the Blessed One together with three other monks consent to accept tomorrow’s \[37\] meal from me.”
+“Bhante, let the Blessed One together with three other bhikkhus consent to accept tomorrow’s \[37\] meal from me.”
 
 The Blessed One consented by silence. Then Uggaha, having understood that the Blessed One had consented, rose from his seat, paid homage to the Blessed One, circumambulated him keeping the right side toward him, and departed.
 

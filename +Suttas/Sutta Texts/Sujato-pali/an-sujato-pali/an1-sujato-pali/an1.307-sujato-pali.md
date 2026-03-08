@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that gives rise to skillful qualities, or, when they have arisen, makes them increase and grow like right view. When you have right view, unarisen skillful qualities arise and unskillful qualities decline.”
+1“bhikkhus, I do not see a single thing that gives rise to skillful qualities, or, when they have arisen, makes them increase and grow like right view. When you have right view, unarisen skillful qualities arise and unskillful qualities decline.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannā vā kusalā dhammā uppajjanti uppannā vā kusalā dhammā bhiyyobhāvāya vepullāya saṁvattanti yathayidaṁ, bhikkhave, sammādiṭṭhi. Sammādiṭṭhikassa, bhikkhave, anuppannā ceva kusalā dhammā uppajjanti uppannā ca kusalā dhammā bhiyyobhāvāya vepullāya saṁvattantī"ti.
 

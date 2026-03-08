@@ -15,10 +15,10 @@ contribution:
 >  The eight causes for the arising of wisdom
 
 > [!example]- 🌐[[AN8.3]] - 📜[Available texts](obsidian://search?query=file:an8.3-) - Paṭhamaappiya – Disliked 
->  Due to eight qualities, a mendicant is displeasing to their fellow monastics, but with the opposite qualities is pleasing
+>  Due to eight qualities, a bhikkhu is displeasing to their fellow monastics, but with the opposite qualities is pleasing
 
 > [!example]- 🌐[[AN8.4]] - 📜[Available texts](obsidian://search?query=file:an8.4-) - Paṭhamaappiya – Disliked 
->  Due to eight qualities, a mendicant is displeasing to their fellow monastics, but with the opposite qualities is pleasing
+>  Due to eight qualities, a bhikkhu is displeasing to their fellow monastics, but with the opposite qualities is pleasing
 
 > [!example]- 🌐[[AN8.5]] - 📜[Available texts](obsidian://search?query=file:an8.5-) - Dutiyalokadhamma – Worldly Conditions 
 >  The eight worldly conditions in detail: pain and loss, fame and disgrace, praise and blame, pleasure and pain.
@@ -45,22 +45,22 @@ contribution:
 >  The brahmin verañja rebukes the Buddha  for his lack of respect for senior brahmins. He levels a series of criticisms, each of which the Buddha  deflects by redefining terms. The Buddha  affirms that his claim to superiority is because he was the first to achieve awakening
 
 > [!example]- 🌐[[AN8.13]] - 📜[Available texts](obsidian://search?query=file:an8.13-) - Assājānīya – Thoroughbred 
->  With eight qualities a royal thoroughbred is worthy of a king. Likewise, with eight qualities a mendicant is worthy
+>  With eight qualities a royal thoroughbred is worthy of a king. Likewise, with eight qualities a bhikkhu is worthy
 
 > [!example]- 🌐[[AN8.14]] - 📜[Available texts](obsidian://search?query=file:an8.14-) - Assakhaḷuṅka – Unruly 
->  Eight flaws in wild horses, similar to eight flaws in mendicants
+>  Eight flaws in wild horses, similar to eight flaws in bhikkhus
 
 > [!example]- 🌐[[AN8.15]] - 📜[Available texts](obsidian://search?query=file:an8.15-) - Mala – Stains 
 >  Eight different kinds of stain
 
 > [!example]- 🌐[[AN8.16]] - 📜[Available texts](obsidian://search?query=file:an8.16-) - Uposatha – Sabbath 
->  A mendicant with eight qualities is worthy of being sent on a mission
+>  A bhikkhu with eight qualities is worthy of being sent on a mission
 
 > [!example]- 🌐[[AN8.17]] - 📜[Available texts](obsidian://search?query=file:an8.17-) - Dūteyya – Missionary 
->  A mendicant with eight qualities is worthy of being sent on a mission
+>  A bhikkhu with eight qualities is worthy of being sent on a mission
 
 > [!example]- 🌐[[AN8.18]] - 📜[Available texts](obsidian://search?query=file:an8.18-) - Dūteyya – Missionary 
->  A mendicant with eight qualities is worthy of being sent on a mission
+>  A bhikkhu with eight qualities is worthy of being sent on a mission
 
 > [!example]- 🌐[[AN8.19]] - 📜[Available texts](obsidian://search?query=file:an8.19-) - Uposatha – Sabbath 
 >  On a full-moon night, the Buddha  was to recite the code of conduct for the monks. However, he remained silent until dawn, due to the presence of a corrupt monk
@@ -180,10 +180,10 @@ contribution:
 >  The Buddha  explains how addiction to sensual pleasures is perilous
 
 > [!example]- 🌐[[AN8.57]] - 📜[Available texts](obsidian://search?query=file:an8.57-) - Āhuneyya – Worthy Of Offerings To The Gods 
->  With eight qualities, a mendicant is worthy
+>  With eight qualities, a bhikkhu is worthy
 
 > [!example]- 🌐[[AN8.58]] - 📜[Available texts](obsidian://search?query=file:an8.58-) - Āhuneyya – Worthy Of Offerings To The Gods 
->  With eight qualities, a mendicant is worthy
+>  With eight qualities, a bhikkhu is worthy
 
 > [!example]- 🌐[[AN8.59]] - 📜[Available texts](obsidian://search?query=file:an8.59-) - Atthapuggala – Individuals Eight 
 >  Eight kinds of person are worthy
@@ -195,7 +195,7 @@ contribution:
 >  Eight kinds of person are worthy
 
 > [!example]- 🌐[[AN8.61]] - 📜[Available texts](obsidian://search?query=file:an8.61-) - Icchā – Desire 
->  The Buddha  describes eight cases where a mendicant has a desire for material things. Sometimes they fall under the sway of that desire, but sometimes they rise above it.
+>  The Buddha  describes eight cases where a bhikkhu has a desire for material things. Sometimes they fall under the sway of that desire, but sometimes they rise above it.
 
 > [!example]- 🌐[[AN8.62]] - 📜[Available texts](obsidian://search?query=file:an8.62-) - Alaṃ – Good Enough 
 >  Eight sets of qualities pertain to benefiting oneself and other.  having all is good for both
@@ -228,16 +228,16 @@ contribution:
 >  When the Buddha  gives up his life-force, an earthquake is felt. The Buddha  explains to Ānanda the eight causes of earthquakes
 
 > [!example]- 🌐[[AN8.71]] - 📜[Available texts](obsidian://search?query=file:an8.71-) - Saddhā – Inspiring All Around 
->  Beginning with faith, a mendicant completes all good qualities that fulfill liberation
+>  Beginning with faith, a bhikkhu completes all good qualities that fulfill liberation
 
 > [!example]- 🌐[[AN8.72]] - 📜[Available texts](obsidian://search?query=file:an8.72-) - Saddhā – Inspiring All Around 
->  Beginning with faith, a mendicant completes all good qualities that fulfill liberation
+>  Beginning with faith, a bhikkhu completes all good qualities that fulfill liberation
 
 > [!example]- 🌐[[AN8.73]] - 📜[Available texts](obsidian://search?query=file:an8.73-) - Maraṇassati – Mindfulness Of Death 1st 
->  Various mendicants practice mindfulness of death, but do so inadequately. The Buddha  explains how to do so with proper urgency
+>  Various bhikkhus practice mindfulness of death, but do so inadequately. The Buddha  explains how to do so with proper urgency
 
 > [!example]- 🌐[[AN8.74]] - 📜[Available texts](obsidian://search?query=file:an8.74-) - Maraṇassati – Mindfulness Of Death 2nd 
->  A mendicant should reflect each night on the dangers that lie around them, and practice mindfulness of death with urgency to give up the unwholesome
+>  A bhikkhu should reflect each night on the dangers that lie around them, and practice mindfulness of death with urgency to give up the unwholesome
 
 > [!example]- 🌐[[AN8.75]] - 📜[Available texts](obsidian://search?query=file:an8.75-) - Sampadā – Accomplishments 
 >  Eight accomplishments, both worldly and spiritual, in detail
@@ -279,13 +279,13 @@ contribution:
 >  Eight reasons the saṅgha may overturn the bowl against a lay follower
 
 > [!example]- 🌐[[AN8.88]] - 📜[Available texts](obsidian://search?query=file:an8.88-) - Appasādapavedanīya – Proclamation Of No Confidence 
->  Eight reasons the lay followers may declare no confidence or confidence regarding a mendicant
+>  Eight reasons the lay followers may declare no confidence or confidence regarding a bhikkhu
 
 > [!example]- 🌐[[AN8.89]] - 📜[Available texts](obsidian://search?query=file:an8.89-) - Appasādapavedanīya – Proclamation Of No Confidence 
->  Eight reasons the lay followers may declare no confidence or confidence regarding a mendicant
+>  Eight reasons the lay followers may declare no confidence or confidence regarding a bhikkhu
 
 > [!example]- 🌐[[AN8.90]] - 📜[Available texts](obsidian://search?query=file:an8.90-) - Sammāvattana – Behavior In A Case Of Aggravated Misconduct 
->  Eight things a mendicant charged with aggravated misconduct must observe
+>  Eight things a bhikkhu charged with aggravated misconduct must observe
 
 > [!example]- 🌐[[AN8.91-117]] - 📜[Available texts](obsidian://search?query=file:an8.91-117-) - Sāmañña – Similarity 
 >  Female lay followers names sc1pts-vp-pli4.348

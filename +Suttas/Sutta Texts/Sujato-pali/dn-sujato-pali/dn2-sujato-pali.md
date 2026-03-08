@@ -20,7 +20,7 @@ language: "English - Pali"
 
 #### 1. A Discussion With the King’s Ministers
 
-1So I have heard. At one time the Buddha was staying near Rājagaha in the Mango Grove of Jīvaka Komārabhacca, together with a large Saṅgha of 1, 250 mendicants.
+1So I have heard. At one time the Buddha was staying near Rājagaha in the Mango Grove of Jīvaka Komārabhacca, together with a large Saṅgha of 1, 250 bhikkhus.
 
 Now, at that time it was the sabbath — the Komudi full moon on the fifteenth day of the fourth month — and King Ajātasattu Vedehiputta of Magadha was sitting upstairs in the stilt longhouse surrounded by his ministers.
 
@@ -44,7 +44,7 @@ Then Ajātasattu was inspired to exclaim:
 
 8Now at that time Jīvaka Komārabhacca was sitting silently not far from the king. Then the king said to him: “But my dear Jīvaka, why are you silent?”
 
-“Sire, the Blessed One, the perfected one, the fully awakened Buddha is staying in my mango grove together with a large Saṅgha of 1, 250 mendicants. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ Let Your Majesty pay homage to him. Hopefully in so doing your mind will find peace.”
+“Sire, the Blessed One, the perfected one, the fully awakened Buddha is staying in my mango grove together with a large Saṅgha of 1, 250 bhikkhus. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ Let Your Majesty pay homage to him. Hopefully in so doing your mind will find peace.”
 
 
 9“Well then, my dear Jīvaka, have the elephants readied.”
@@ -53,7 +53,7 @@ Then Ajātasattu was inspired to exclaim:
 
 10Then King Ajātasattu had women mounted on each of the five hundred female elephants, while he mounted his bull elephant. With attendants carrying torches, he set out in full royal pomp from Rājagaha to Jīvaka’s mango grove.
 
-11But as he drew near the mango grove, the king became frightened, scared, his hair standing on end. He said to Jīvaka: “My dear Jīvaka, I hope you’re not deceiving me! I hope you’re not betraying me! I hope you’re not turning me over to my enemies! For how on earth can there be no sound of coughing or clearing throats or any noise in such a large Saṅgha of 1, 250 mendicants?”
+11But as he drew near the mango grove, the king became frightened, scared, his hair standing on end. He said to Jīvaka: “My dear Jīvaka, I hope you’re not deceiving me! I hope you’re not betraying me! I hope you’re not turning me over to my enemies! For how on earth can there be no sound of coughing or clearing throats or any noise in such a large Saṅgha of 1, 250 bhikkhus?”
 
 12“Do not fear, great king, do not fear! I am not deceiving you, or betraying you, or turning you over to your enemies. Go forward, great king, go forward! Those are lamps shining in the pavilion.”
 
@@ -61,13 +61,13 @@ Then Ajātasattu was inspired to exclaim:
 
 13Then King Ajātasattu rode on the elephant as far as the terrain allowed, then descended and approached the pavilion door on foot, where he asked Jīvaka: “But my dear Jīvaka, where is the Buddha?”
 
-“That is the Buddha, great king, that is the Buddha! He’s sitting against the central column facing east, in front of the Saṅgha of mendicants.”
+“That is the Buddha, great king, that is the Buddha! He’s sitting against the central column facing east, in front of the Saṅgha of bhikkhus.”
 
-14Then the king went up to the Buddha and stood to one side. He looked around the Saṅgha of monks, who were so very silent, like a still, clear lake, and was inspired to exclaim: “May my son, Prince Udāyibhadda, be blessed with such peace as the Saṅgha of mendicants now enjoys!”
+14Then the king went up to the Buddha and stood to one side. He looked around the Saṅgha of bhikkhus, who were so very silent, like a still, clear lake, and was inspired to exclaim: “May my son, Prince Udāyibhadda, be blessed with such peace as the Saṅgha of bhikkhus now enjoys!”
 
 “Has your mind gone to one you love, great king?”
 
-“I love my son, sir, Prince Udāyibhadda. May he be blessed with such peace as the Saṅgha of mendicants now enjoys!”
+“I love my son, sir, Prince Udāyibhadda. May he be blessed with such peace as the Saṅgha of bhikkhus now enjoys!”
 
 15Then the king bowed to the Buddha, raised his joined palms toward the Saṅgha, and sat down to one side. He said to the Buddha: “Sir, I’d like to ask you about a certain point, if you’d take the time to answer.”
 
@@ -207,7 +207,7 @@ What do you think, great king? Suppose you had a person who was a farmer, a hous
 
 #### 4.3.1.1. The Shorter Section on Ethics
 
-50And how, great king, is a mendicant accomplished in ethics? It’s when a mendicant gives up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. This pertains to their ethics.
+50And how, great king, is a bhikkhu accomplished in ethics? It’s when a bhikkhu gives up killing living creatures, renouncing the rod and the sword. They’re scrupulous and kind, living full of compassion for all living beings. This pertains to their ethics.
 
 51They give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. This pertains to their ethics.
 
@@ -267,7 +267,7 @@ The middle section on ethics is finished.
 
 74There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by unworthy branches of knowledge, by wrong livelihood. This includes rites for propitiation, for granting wishes, for ghosts, for the earth, for rain, for property settlement, and for preparing and consecrating house sites, and rites involving rinsing and bathing, and oblations. It also includes administering emetics, purgatives, expectorants, and phlegmagogues; administering ear-oils, eye restoratives, nasal medicine, ointments, and counter-ointments; surgery with needle and scalpel, treating children, prescribing root medicines, and binding on herbs. They refrain from such unworthy branches of knowledge, such wrong livelihood. This pertains to their ethics.
 
-75A mendicant thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. It’s like a king who has defeated his enemies. He sees no danger from his foes in any quarter. In the same way, a mendicant thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves. That’s how a mendicant is accomplished in ethics.
+75A bhikkhu thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. It’s like a king who has defeated his enemies. He sees no danger from his foes in any quarter. In the same way, a bhikkhu thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves. That’s how a bhikkhu is accomplished in ethics.
 
 The longer section on ethics is finished.
 
@@ -275,15 +275,15 @@ The longer section on ethics is finished.
 
 #### 4.3.2.1. Sense Restraint
 
-76And how does a mendicant guard the sense doors? When a noble disciple sees a sight with their eyes, they don’t get caught up in the features and details. If the faculty of sight were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint. When they hear a sound with their ears … When they smell an odor with their nose … When they taste a flavor with their tongue … When they feel a touch with their body … When they know a thought with their mind, they don’t get caught up in the features and details. If the faculty of mind were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of mind, and achieving its restraint. When they have this noble sense restraint, they experience an unsullied bliss inside themselves. That’s how a mendicant guards the sense doors.
+76And how does a bhikkhu guard the sense doors? When a noble disciple sees a sight with their eyes, they don’t get caught up in the features and details. If the faculty of sight were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint. When they hear a sound with their ears … When they smell an odor with their nose … When they taste a flavor with their tongue … When they feel a touch with their body … When they know a thought with their mind, they don’t get caught up in the features and details. If the faculty of mind were left unrestrained, bad unskillful qualities of desire and aversion would become overwhelming. For this reason, they practice restraint, protecting the faculty of mind, and achieving its restraint. When they have this noble sense restraint, they experience an unsullied bliss inside themselves. That’s how a bhikkhu guards the sense doors.
 
 #### 4.3.2.2. Mindfulness and Situational Awareness
 
-77And how does a mendicant have mindfulness and situational awareness? It’s when a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent. That’s how a mendicant has mindfulness and situational awareness.
+77And how does a bhikkhu have mindfulness and situational awareness? It’s when a bhikkhu acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent. That’s how a bhikkhu has mindfulness and situational awareness.
 
 #### 4.3.2.3. Contentment
 
-78And how is a mendicant content? It’s when a mendicant is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden. In the same way, a mendicant is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. That’s how a mendicant is content.
+78And how is a bhikkhu content? It’s when a bhikkhu is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. They’re like a bird: wherever it flies, wings are its only burden. In the same way, a bhikkhu is content with robes to look after the body and alms-food to look after the belly. Wherever they go, they set out taking only these things. That’s how a bhikkhu is content.
 
 #### 4.3.2.4. Giving Up the Hindrances
 
@@ -302,9 +302,9 @@ The longer section on ethics is finished.
 
 85Suppose there was a person with wealth and property who was traveling along a desert road, which was perilous, with nothing to eat. But after some time they crossed over the desert safely, reaching the neighborhood of a village, a sanctuary free of peril. Thinking about this, they’d be filled with joy and happiness.
 
-86In the same way, as long as these five hindrances are not given up inside themselves, a mendicant regards them thus as a debt, a disease, a prison, slavery, and a desert crossing.
+86In the same way, as long as these five hindrances are not given up inside themselves, a bhikkhu regards them thus as a debt, a disease, a prison, slavery, and a desert crossing.
 
-87But when these five hindrances are given up inside themselves, a mendicant regards this as freedom from debt, good health, release from prison, emancipation, and sanctuary.
+87But when these five hindrances are given up inside themselves, a bhikkhu regards this as freedom from debt, good health, release from prison, emancipation, and sanctuary.
 
 
 88Seeing that the hindrances have been given up in them, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed.
@@ -313,25 +313,25 @@ The longer section on ethics is finished.
 
 89Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion.
 
-90It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out. In the same way, a mendicant drenches, steeps, fills, and spreads their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. This, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones.
+90It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out. In the same way, a bhikkhu drenches, steeps, fills, and spreads their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. This, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones.
 
 #### 4.3.2.6. Second jhāna
 
-91Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without applying the mind and keeping it connected. In the same way, a mendicant drenches, steeps, fills, and spreads their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion.
+91Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without applying the mind and keeping it connected. In the same way, a bhikkhu drenches, steeps, fills, and spreads their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion.
 
 92It’s like a deep lake fed by spring water. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. But the stream of cool water welling up in the lake drenches, steeps, fills, and spreads throughout the lake. There’s no part of the lake that’s not spread through with cool water.
 
-In the same way, a mendicant drenches, steeps, fills, and spreads their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones.
+In the same way, a bhikkhu drenches, steeps, fills, and spreads their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones.
 
 #### 4.3.2.7. Third jhāna
 
-93Furthermore, with the fading away of rapture, a mendicant enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ They drench, steep, fill, and spread their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture.
+93Furthermore, with the fading away of rapture, a bhikkhu enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ They drench, steep, fill, and spread their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture.
 
-94It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. From the tip to the root they’re drenched, steeped, filled, and soaked with cool water. There’s no part of them that’s not soaked with cool water. In the same way, a mendicant drenches, steeps, fills, and spreads their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones.
+94It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. From the tip to the root they’re drenched, steeped, filled, and soaked with cool water. There’s no part of them that’s not soaked with cool water. In the same way, a bhikkhu drenches, steeps, fills, and spreads their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones.
 
 #### 4.3.2.8. Fourth jhāna
 
-95Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness.
+95Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a bhikkhu enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness.
 
 96It’s like someone sitting wrapped from head to foot with white cloth. There’s no part of the body that’s not spread over with white cloth. In the same way, they sit spreading their body through with pure bright mind. There’s no part of the body that’s not spread with pure bright mind. This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones.
 
@@ -407,7 +407,7 @@ In the same way, when their mind has become immersed in samādhi like this — p
 
 #### 5. Ajātasattu Declares Himself a Lay Follower
 
-113When the Buddha had spoken, King Ajātasattu said to him: “Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.
+113When the Buddha had spoken, King Ajātasattu said to him: “Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.
 
 I have made a mistake, sir. It was foolish, stupid, and unskillful of me to take the life of my father, a just and principled king, for the sake of authority. Please, sir, accept my mistake for what it is, so I will restrain myself in future.”
 
@@ -422,9 +422,9 @@ But since you have recognized your mistake for what it is, and have dealt with i
 
 Then the king, having approved and agreed with what the Buddha said, got up from his seat, bowed, and respectfully circled him, keeping him on his right, before leaving.
 
-116Soon after the king had left, the Buddha addressed the mendicants: “The king is broken, mendicants, he is ruined. If he had not taken the life of his father, a just and principled king, the stainless, immaculate vision of the Dhamma would have arisen in him in that very seat.”
+116Soon after the king had left, the Buddha addressed the bhikkhus: “The king is broken, bhikkhus, he is ruined. If he had not taken the life of his father, a just and principled king, the stainless, immaculate vision of the Dhamma would have arisen in him in that very seat.”
 
-117That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+117That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### 1. Rājāmaccakathā
 

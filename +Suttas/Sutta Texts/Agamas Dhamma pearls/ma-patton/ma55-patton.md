@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard: One time, the Buddha traveled to Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove.
 
-2. It was then that the Bhagavān addressed the monks, “Nirvāṇa has its cultivation; it’s not without cultivation. What cultivates nirvāṇa?”
+2. It was then that the Bhagavān addressed the bhikkhus, “Nirvāṇa has its cultivation; it’s not without cultivation. What cultivates nirvāṇa?”
 
 They answered, “Liberation is its cultivation.”
 
@@ -135,7 +135,7 @@ They answered, “Liberation is its cultivation.”
 
 31. “By cultivating suffering, there is faith. Cultivating faith, there is right thinking. Cultivating right thinking, there is right mindfulness and right knowledge. Cultivating right mindfulness and right knowledge, there is guarding one’s faculties. Cultivating guarding one’s faculties … guarding the precepts … having no regrets … gladness … joy … calmness … happiness … samādhi … true seeing and true knowing … disillusionment … lack of desire … liberation. Cultivating liberation, there is nirvāṇa.”
 
-32. This is what the Buddha said. The monks who heard what the Buddha taught rejoiced and approved.
+32. This is what the Buddha said. The bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

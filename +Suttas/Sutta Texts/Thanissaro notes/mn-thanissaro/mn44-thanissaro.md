@@ -37,7 +37,7 @@ Saying, “Yes, lady,” Visākha the lay follower delighted & rejoiced in what 
 
 “‘The way of practice leading to the cessation of self-identification, the way of practice leading to the cessation of self-identification,’ it is said, lady. Which way of practice leading to the cessation of self-identification is described by the Blessed One?”
 
-“Precisely this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi: This, friend Visākha, is the way of practice leading to the cessation of self-identification described by the Blessed One.”
+“Precisely this ![[Noble Path]]: This, friend Visākha, is the way of practice leading to the cessation of self-identification described by the Blessed One.”
 
 “Is it the case, lady, that clinging is the same thing as the five clinging-aggregates or is it something separate?”
 
@@ -71,7 +71,7 @@ Saying, “Yes, lady,” Visākha the lay follower delighted & rejoiced in what 
 
 “Now, again, lady, what is the noble eightfold path?”
 
-“This is the noble eightfold path, friend Visākha: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.”
+“This is the ![[Noble Path]].”
 
 “Is the noble eightfold path fabricated or unfabricated?”
 
@@ -79,7 +79,7 @@ Saying, “Yes, lady,” Visākha the lay follower delighted & rejoiced in what 
 
 “And are the three aggregates [of virtue, samādhi, & discernment] included under the noble eightfold path, lady, or is the noble eightfold path included under the three aggregates?”
 
-“The three aggregates are not included under the noble eightfold path, friend Visākha, but the noble eightfold path is included under the three aggregates. Right speech, right action, & right livelihood come under the aggregate of virtue. Right effort, right mindfulness, & right samādhi come under the aggregate of samādhi. Right view & right resolve come under the aggregate of discernment.”
+“The three aggregates are not included under the ![[Noble Path]] come under the aggregate of samādhi. Right view & right resolve come under the aggregate of discernment.”
 
 “Now what is samādhi, lady, what qualities are its themes, what qualities are its requisites, and what is its development?”
 
@@ -101,27 +101,27 @@ Saying, “Yes, lady,” Visākha the lay follower delighted & rejoiced in what 
 
 “Now, lady, how does the attainment of the cessation of perception & feeling come about?”
 
-“The thought does not occur to a monk as he is attaining the cessation of perception & feeling that ‘I am about to attain the cessation of perception & feeling’ or that ‘I am attaining the cessation of perception & feeling’ or that ‘I have attained the cessation of perception & feeling.’ Instead, the way his mind has previously been developed leads him to that state.”
+“The thought does not occur to a bhikkhu as he is attaining the cessation of perception & feeling that ‘I am about to attain the cessation of perception & feeling’ or that ‘I am attaining the cessation of perception & feeling’ or that ‘I have attained the cessation of perception & feeling.’ Instead, the way his mind has previously been developed leads him to that state.”
 
-“But when a monk is attaining the cessation of perception & feeling, which things cease first: bodily fabrications, verbal fabrications, or mental fabrications?”
+“But when a bhikkhu is attaining the cessation of perception & feeling, which things cease first: bodily fabrications, verbal fabrications, or mental fabrications?”
 
-“When a monk is attaining the cessation of perception & feeling, friend Visākha, verbal fabrications cease first, then bodily fabrications, then mental fabrications.”[1](#^mn44note01) ^mn44note01-ref
+“When a bhikkhu is attaining the cessation of perception & feeling, friend Visākha, verbal fabrications cease first, then bodily fabrications, then mental fabrications.”[1](#^mn44note01) ^mn44note01-ref
 
 “Now, lady, how does emergence from the cessation of perception & feeling come about?”
 
-“The thought does not occur to a monk as he is emerging from the cessation of perception & feeling that ‘I am about to emerge from the cessation of perception & feeling’ or that ‘I am emerging from the cessation of perception & feeling’ or that ‘I have emerged from the cessation of perception & feeling.’ Instead, the way his mind has previously been developed leads him to that state.”
+“The thought does not occur to a bhikkhu as he is emerging from the cessation of perception & feeling that ‘I am about to emerge from the cessation of perception & feeling’ or that ‘I am emerging from the cessation of perception & feeling’ or that ‘I have emerged from the cessation of perception & feeling.’ Instead, the way his mind has previously been developed leads him to that state.”
 
-“But when a monk is emerging from the cessation of perception & feeling, which things arise first: bodily fabrications, verbal fabrications, or mental fabrications?”
+“But when a bhikkhu is emerging from the cessation of perception & feeling, which things arise first: bodily fabrications, verbal fabrications, or mental fabrications?”
 
-“When a monk is emerging from the cessation of perception & feeling, friend Visākha, mental fabrications arise first, then bodily fabrications, then verbal fabrications.”
+“When a bhikkhu is emerging from the cessation of perception & feeling, friend Visākha, mental fabrications arise first, then bodily fabrications, then verbal fabrications.”
 
-“When a monk has emerged from the cessation of perception & feeling, lady, how many contacts make contact?”
+“When a bhikkhu has emerged from the cessation of perception & feeling, lady, how many contacts make contact?”
 
-“When a monk has emerged from the cessation of perception & feeling, friend Visākha, three contacts make contact: contact with emptiness, contact with the theme-less, & contact with the undirected.”[2](#^mn44note02) ^mn44note02-ref
+“When a bhikkhu has emerged from the cessation of perception & feeling, friend Visākha, three contacts make contact: contact with emptiness, contact with the theme-less, & contact with the undirected.”[2](#^mn44note02) ^mn44note02-ref
 
-“When a monk has emerged from the cessation of perception & feeling, lady, to what does his mind lean, to what does it tend, to what does it incline?”
+“When a bhikkhu has emerged from the cessation of perception & feeling, lady, to what does his mind lean, to what does it tend, to what does it incline?”
 
-“When a monk has emerged from the cessation of perception & feeling, friend Visākha, his mind leans to seclusion, tends to seclusion, inclines to seclusion.”[3](#^mn44note03) ^mn44note03-ref
+“When a bhikkhu has emerged from the cessation of perception & feeling, friend Visākha, his mind leans to seclusion, tends to seclusion, inclines to seclusion.”[3](#^mn44note03) ^mn44note03-ref
 
 ## Feeling
 
@@ -151,7 +151,7 @@ Saying, “Yes, lady,” Visākha the lay follower delighted & rejoiced in what 
 
 “Is passion-obsession to be abandoned with regard to all pleasant feeling? Is resistance-obsession to be abandoned with regard to all painful feeling? Is ignorance-obsession to be abandoned with regard to all neither-pleasant-nor-painful feeling?”
 
-“No .... There is the case where a monk—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. With that he abandons passion. No passion-obsession gets obsessed there.[4](#^mn44note04) There is the case where a monk considers, ‘O when will I enter & remain in the dimension that those who are noble now enter & remain in?’ And as he thus nurses this yearning for the unexcelled liberations, there arises within him sorrow based on that yearning. With that he abandons resistance. No resistance-obsession gets obsessed there.[5](#^mn44note05) There is the case where a monk, with the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. With that he abandons ignorance. No ignorance-obsession gets obsessed there.”[6](#^mn44note06) ^mn44note04-ref ^mn44note05-ref ^mn44note06-ref
+“No .... There is the case where a bhikkhu—![[Jhanas]] & mindfulness, neither pleasure nor pain. With that he abandons ignorance. No ignorance-obsession gets obsessed there.”[6](#^mn44note06) ^mn44note04-ref ^mn44note05-ref ^mn44note06-ref
 
 “Now what, lady, lies on the other side of pleasant feeling?”
 

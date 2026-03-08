@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “Cultivate the mindfulness of breathing. If a monk cultivates mindfulness of breathing and does so often, he’ll be calmed in body and mind. With perception and examination, tranquility, and consistency, he’ll cultivate and fulfill the conceptions of insight.
+2. It was then that the Bhagavān addressed the bhikkhus, “Cultivate the mindfulness of breathing. If a monk cultivates mindfulness of breathing and does so often, he’ll be calmed in body and mind. With perception and examination, tranquility, and consistency, he’ll cultivate and fulfill the conceptions of insight.
 
 3. “How does he attain calmness of body and mind and fulfill tranquility, purity, and the conceptions of insight with perception and examination after often cultivating mindfulness of breathing?
 
@@ -37,7 +37,7 @@ language: "English"
 
 10. “This is called cultivating the mindfulness of breathing. The body is calmed, and the mind is calmed. Tranquility, purity, and the conceptions of insight are cultivated and fulfilled with perception and examination.”
 
-11. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+11. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

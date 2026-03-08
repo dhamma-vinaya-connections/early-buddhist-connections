@@ -210,21 +210,21 @@ Then the Buddha informed Upāli of all they had discussed.
 
 “Sir, I was already delighted and satisfied by the Buddha’s very first simile. Nevertheless, I wanted to hear the Buddha’s various solutions to the problem, so I thought I’d oppose you in this way.
 
-Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
+Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
 
 
 66“Householder, you should act after careful consideration. It’s good for well-known people such as yourself to act after careful consideration.”
 
 “Now I’m even more delighted and satisfied with the Buddha, since he tells me to act after careful consideration. For if the followers of other paths were to gain me as a disciple, they’d carry a banner all over Nāḷandā, saying: ‘The householder Upāli has become our disciple!’ And yet the Buddha says: ‘Householder, you should act after careful consideration. It’s good for well-known people such as yourself to act after careful consideration.’
 
-For a second time, I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
+For a second time, I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
 
 
 67“For a long time now, householder, your family has been a well-spring of support for the Jain ascetics. You should consider giving to them when they come.”
 
 “Now I’m even more delighted and satisfied with the Buddha, since he tells me to consider giving to the Jain ascetics when they come. I have heard, sir, that the ascetic Gotama says this: ‘Gifts should only be given to me, not to others. Gifts should only be given to my disciples, not to the disciples of others. Only what is given to me is very fruitful, not what is given to others. Only what is given to my disciples is very fruitful, not what is given to the disciples of others.’ Yet the Buddha encourages me to give to the Jain ascetics. Well, sir, we’ll know the proper time for that.
 
-For a third time, I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
+For a third time, I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
 
 Then the Buddha taught the householder Upāli step by step, with a talk on giving, ethical conduct, and heaven. He explained the drawbacks of sensual pleasures, so sordid and corrupt, and the benefit of renunciation. And when he knew that Upāli’s mind was ready, pliable, rid of hindrances, joyful, and confident he explained the special teaching of the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth rid of stains would properly absorb dye, in that very seat the stainless, immaculate vision of the Dhamma arose in Upāli: “Everything that has a beginning has an end.” Then Upāli saw, attained, understood, and fathomed the Dhamma. He went beyond doubt, got rid of indecision, and became self-assured and independent of others regarding the Teacher’s instructions.
 
@@ -233,7 +233,7 @@ He said to the Buddha: “Well, now, sir, I must go. I have many duties, and muc
 “Please, householder, go at your convenience.”
 
 
-69And then the householder Upāli approved and agreed with what the Buddha said. He got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right. Then he went back to his own home, where he addressed the gatekeeper: “My good gatekeeper, from this day forth close the gate to Jain monks and nuns, and open it for the Buddha’s monks, nuns, laymen, and laywomen. If any Jain ascetics come, say this to them: ‘Wait, sir, do not enter. From now on the householder Upāli has become a disciple of the ascetic Gotama. His gate is closed to Jain monks and nuns, and opened for the Buddha’s monks, nuns, laymen, and laywomen. If you require alms-food, wait here, they will bring it to you.’”
+69And then the householder Upāli approved and agreed with what the Buddha said. He got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right. Then he went back to his own home, where he addressed the gatekeeper: “My good gatekeeper, from this day forth close the gate to Jain bhikkhus and nuns, and open it for the Buddha’s bhikkhus, nuns, laymen, and laywomen. If any Jain ascetics come, say this to them: ‘Wait, sir, do not enter. From now on the householder Upāli has become a disciple of the ascetic Gotama. His gate is closed to Jain bhikkhus and nuns, and opened for the Buddha’s bhikkhus, nuns, laymen, and laywomen. If you require alms-food, wait here, they will bring it to you.’”
 
 “Yes, sir,” replied the gatekeeper.
 
@@ -253,7 +253,7 @@ For a second time … and a third time, Dīgha Tapassī said to Nigaṇṭha Nā
 “Go, Tapassī, and find out whether or not Upāli has become Gotama’s disciple.”
 
 
-71Then Dīgha Tapassī went to Upāli’s home. The gatekeeper saw him coming off in the distance and said to him: “Wait, sir, do not enter. From now on the householder Upāli has become a disciple of the ascetic Gotama. His gate is closed to Jain monks and nuns, and opened for the Buddha’s monks, nuns, laymen, and laywomen. If you require alms-food, wait here, they will bring it to you.”
+71Then Dīgha Tapassī went to Upāli’s home. The gatekeeper saw him coming off in the distance and said to him: “Wait, sir, do not enter. From now on the householder Upāli has become a disciple of the ascetic Gotama. His gate is closed to Jain bhikkhus and nuns, and opened for the Buddha’s bhikkhus, nuns, laymen, and laywomen. If you require alms-food, wait here, they will bring it to you.”
 
 Saying: “No, mister, I do not require alms-food,” he turned back and went to Nigaṇṭha Nātaputta and said to him: “Sir, it’s really true that Upāli has become Gotama’s disciple. Sir, I couldn’t get you to accept that it wasn’t a good idea for the householder Upāli to rebut the ascetic Gotama’s doctrine. For the ascetic Gotama is a magician. He knows a conversion magic, and uses it to convert the disciples of those who follow other paths. The householder Upāli has been converted by the ascetic Gotama’s conversion magic!”
 
@@ -268,7 +268,7 @@ For a second time … and a third time, Dīgha Tapassī told Nigaṇṭha Nātap
 Well, Tapassī, I’d better go and find out for myself whether or not Upāli has become Gotama’s disciple.”
 
 
-72Then Nigaṇṭha Nātaputta went to Upāli’s home together with a large following of Jain ascetics. The gatekeeper saw him coming off in the distance and said to him: ‘Wait, sir, do not enter. From now on the householder Upāli has become a disciple of the ascetic Gotama. His gate is closed to Jain monks and nuns, and opened for the Buddha’s monks, nuns, laymen, and laywomen. If you require alms-food, wait here, they will bring it to you.”
+72Then Nigaṇṭha Nātaputta went to Upāli’s home together with a large following of Jain ascetics. The gatekeeper saw him coming off in the distance and said to him: ‘Wait, sir, do not enter. From now on the householder Upāli has become a disciple of the ascetic Gotama. His gate is closed to Jain bhikkhus and nuns, and opened for the Buddha’s bhikkhus, nuns, laymen, and laywomen. If you require alms-food, wait here, they will bring it to you.”
 
 “Well then, my good gatekeeper, go to Upāli and say: ‘Sir, Nigaṇṭha Nātaputta is waiting outside the gates together with a large following of Jain ascetics. He wishes to see you.’”
 
@@ -292,20 +292,20 @@ When he said this, Nigaṇṭha Nātaputta said to him: “You’re mad, househo
 
 74“Sir, this conversion magic is excellent. This conversion magic is lovely! If my loved ones — relatives and kin — were to be converted by this, it would be for their lasting welfare and happiness. If all the aristocrats, brahmins, merchants, and workers were to be converted by this, it would be for their lasting welfare and happiness. If the whole world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — were to be converted by this, it would be for their lasting welfare and happiness. Well then, sir, I shall give you a simile. For by means of a simile some sensible people understand the meaning of what is said.
 
-75Once upon a time there was an old brahmin, elderly and senior. His wife was a young brahmin lady who was pregnant and approaching the time for giving birth. Then she said to the brahmin, ‘Go, brahmin, buy a baby monkey from the market and bring it back so it can be a playmate for my child.’
+75Once upon a time there was an old brahmin, elderly and senior. His wife was a young brahmin lady who was pregnant and approaching the time for giving birth. Then she said to the brahmin, ‘Go, brahmin, buy a baby bhikkhuey from the market and bring it back so it can be a playmate for my child.’
 
-When she said this, the brahmin said to her, ‘Wait, my dear, until you give birth. If your child is a boy, I’ll buy you a male monkey, but if it’s a girl, I’ll buy a female monkey.’
+When she said this, the brahmin said to her, ‘Wait, my dear, until you give birth. If your child is a boy, I’ll buy you a male bhikkhuey, but if it’s a girl, I’ll buy a female bhikkhuey.’
 
-For a second time, and a third time she said to the brahmin, ‘Go, brahmin, buy a baby monkey from the market and bring it back so it can be a playmate for my child.’
+For a second time, and a third time she said to the brahmin, ‘Go, brahmin, buy a baby bhikkhuey from the market and bring it back so it can be a playmate for my child.’
 
 
-76Then that brahmin, because of his love for the brahmin lady, bought a male baby monkey at the market, brought it to her, and said, ‘I’ve bought this male baby monkey for you so it can be a playmate for your child.’
+76Then that brahmin, because of his love for the brahmin lady, bought a male baby bhikkhuey at the market, brought it to her, and said, ‘I’ve bought this male baby bhikkhuey for you so it can be a playmate for your child.’
 
-When he said this, she said to him: ‘Go, brahmin, take this monkey to Rattapāṇi the dyer and say: “Mister Rattapāṇi, I wish to have this monkey dyed the color of yellow greasepaint, pounded and re-pounded, and pressed on both sides.”’
+When he said this, she said to him: ‘Go, brahmin, take this bhikkhuey to Rattapāṇi the dyer and say: “Mister Rattapāṇi, I wish to have this bhikkhuey dyed the color of yellow greasepaint, pounded and re-pounded, and pressed on both sides.”’
 
-77Then that brahmin, because of his love for the brahmin lady, took the monkey to Rattapāṇi the dyer and said, ‘Mister Rattapāṇi, I wish to have this monkey dyed the color of yellow greasepaint, pounded and re-pounded, and pressed on both sides.’
+77Then that brahmin, because of his love for the brahmin lady, took the bhikkhuey to Rattapāṇi the dyer and said, ‘Mister Rattapāṇi, I wish to have this bhikkhuey dyed the color of yellow greasepaint, pounded and re-pounded, and pressed on both sides.’
 
-When he said this, Rattapāṇi said to him: ‘Sir, this monkey can withstand a dying, but not a pounding or a pressing.’
+When he said this, Rattapāṇi said to him: ‘Sir, this bhikkhuey can withstand a dying, but not a pounding or a pressing.’
 
 In the same way, the doctrine of the foolish Jains looks fine initially — for fools, not for the astute — but can’t withstand being scrutinized or pressed.
 

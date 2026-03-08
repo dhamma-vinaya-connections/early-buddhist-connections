@@ -17,7 +17,7 @@ language: "English"
 
 ## Introduction
 
-_According to the Commentary, the events reported in this discourse follow on the events of a discourse in the Final Fifty of the Majjhima Nikāya, by which it obviously means [[mn128-thanissaro]].]([[mn128-thanissaro]].html) There is a fair amount of overlap between this discourse and that, but as the Commentary notes, in that discourse the three monks mentioned here were still run-of-the-mill people, trying to find their way. After putting into practice the Buddha’s teaching given in that discourse, they all became arahants, a fact that is reported and celebrated here._
+_According to the Commentary, the events reported in this discourse follow on the events of a discourse in the Final Fifty of the Majjhima Nikāya, by which it obviously means [[mn128-thanissaro]].]([[mn128-thanissaro]].html) There is a fair amount of overlap between this discourse and that, but as the Commentary notes, in that discourse the three bhikkhus mentioned here were still run-of-the-mill people, trying to find their way. After putting into practice the Buddha’s teaching given in that discourse, they all became arahants, a fact that is reported and celebrated here._
 
 * * *
 

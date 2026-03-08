@@ -22,9 +22,9 @@ language: "English - Pali"
 
 1At Sāvatthī.
 
-Now at that time the mendicant Kokālika was sick, suffering, gravely ill.
+Now at that time the bhikkhu Kokālika was sick, suffering, gravely ill.
 
-Then, late at night, the beautiful independent brahmā Tudu, lighting up the entire Jeta’s Grove, went up to the mendicant Kokālika, and standing in the air he said to him: “Kokālika, have confidence in Sāriputta and Moggallāna, they’re good monks.”
+Then, late at night, the beautiful independent brahmā Tudu, lighting up the entire Jeta’s Grove, went up to the bhikkhu Kokālika, and standing in the air he said to him: “Kokālika, have confidence in Sāriputta and Moggallāna, they’re good bhikkhus.”
 
 
 “Who are you, reverend?”

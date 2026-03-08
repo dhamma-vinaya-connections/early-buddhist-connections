@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.82.1.1* *BD.3.398* … At Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time nuns ordained every year; there were not sufficient dwellings. People … spread it about saying: “How can these nuns ordain every year? There are not sufficient dwellings.” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can these nuns ordain every year?” …
 
-“Is it true, as it is said, monks, that nuns ordain every year?”
+“Is it true, as it is said, bhikkhus, that nuns ordain every year?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns ordain every year? It is not, monks, for pleasing those who are not (yet) pleased … this rule of raining:
+“How, bhikkhus, can nuns ordain every year? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of raining:
 
 “Whatever nun should ordain every year, there is an offence of expiation.”[^1]
 

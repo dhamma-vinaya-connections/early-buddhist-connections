@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are four ways of living together. What four?
+1“bhikkhus, there are four ways of living together. What four?
 
 1. A male zombie living with a female zombie;
 2. a male zombie living with a goddess;

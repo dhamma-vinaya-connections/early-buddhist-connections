@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are five times that are not good for meditation. What five?
+1“bhikkhus, there are five times that are not good for meditation. What five?
 
-Firstly, a mendicant is old, overcome with old age. This is the first time that’s not good for meditation.
+Firstly, a bhikkhu is old, overcome with old age. This is the first time that’s not good for meditation.
 
-2Furthermore, a mendicant is sick, overcome by sickness. This is the second time that’s not good for meditation.
+2Furthermore, a bhikkhu is sick, overcome by sickness. This is the second time that’s not good for meditation.
 
 
 3Furthermore, there’s a famine, a bad harvest, so it’s hard to get alms-food, and not easy to keep going by collecting alms. This is the third time that’s not good for meditation.
@@ -41,7 +41,7 @@ These are the five times that are not good for meditation.
 
 6There are five times that are good for meditation. What five?
 
-Firstly, a mendicant is a youth, young, black-haired, blessed with youth, in the prime of life. This is the first time that’s good for meditation.
+Firstly, a bhikkhu is a youth, young, black-haired, blessed with youth, in the prime of life. This is the first time that’s good for meditation.
 
 7Furthermore, they are rarely ill or unwell. Their stomach digests well, being neither too hot nor too cold, but just right, and fit for meditation. This is the second time that’s good for meditation.
 

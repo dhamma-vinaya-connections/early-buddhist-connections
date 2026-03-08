@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six did not cover their bodies while sitting in inhabited areas. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six did not cover their bodies while sitting in inhabited areas. …
 
 #### Final ruling
 
 2“‘I will be well-covered while sitting in inhabited areas,’ this is how you should train.”
 
-3One should be well-covered while sitting in an inhabited area. If a monk, out of disrespect, does not cover his body while sitting in an inhabited area, he commits an offense of wrong conduct.
+3One should be well-covered while sitting in an inhabited area. If a bhikkhu, out of disrespect, does not cover his body while sitting in an inhabited area, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

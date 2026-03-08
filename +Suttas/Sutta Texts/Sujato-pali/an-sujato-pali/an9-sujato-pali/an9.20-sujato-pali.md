@@ -51,9 +51,9 @@ It would be more fruitful to feed one Buddha awakened for themselves than a hund
 
 It would be more fruitful to feed one Realized One, a perfected one, a fully awakened Buddha than a hundred Buddhas awakened for themselves.
 
-It would be more fruitful to feed the mendicant Saṅgha headed by the Buddha than to feed one Realized One, a perfected one, a fully awakened Buddha.
+It would be more fruitful to feed the bhikkhu Saṅgha headed by the Buddha than to feed one Realized One, a perfected one, a fully awakened Buddha.
 
-It would be more fruitful to build a dwelling especially for the Saṅgha of the four quarters than to feed the mendicant Saṅgha headed by the Buddha.
+It would be more fruitful to build a dwelling especially for the Saṅgha of the four quarters than to feed the bhikkhu Saṅgha headed by the Buddha.
 
 It would be more fruitful to go for refuge to the Buddha, the teaching, and the Saṅgha with a confident heart than to build a dwelling for the Saṅgha of the four quarters.
 

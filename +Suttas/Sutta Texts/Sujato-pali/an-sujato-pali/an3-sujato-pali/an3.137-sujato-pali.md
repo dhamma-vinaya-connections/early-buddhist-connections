@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a hair blanket is said to be the worst kind of woven cloth. It’s cold in the cold, hot in the heat, ugly, smelly, and unpleasant to touch. In the same way, the teaching of Makkhali is said to be the worst of all the doctrines of the various ascetics and brahmins.
+1“bhikkhus, a hair blanket is said to be the worst kind of woven cloth. It’s cold in the cold, hot in the heat, ugly, smelly, and unpleasant to touch. In the same way, the teaching of Makkhali is said to be the worst of all the doctrines of the various ascetics and brahmins.
 
 Makkhali, that silly man, has this doctrine and view: ‘There is no power in deeds, action, or energy.’
 

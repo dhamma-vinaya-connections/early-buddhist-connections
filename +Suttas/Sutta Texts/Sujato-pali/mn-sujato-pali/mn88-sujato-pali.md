@@ -117,7 +117,7 @@ So the king sat down on the seat spread out, and said: “Sir, might the Buddha 
 
 “Enough, great king. My three robes are complete.”
 
-30“Sir, we have both seen this river Aciravatī when it has rained heavily in the mountains, and the river overflows both its banks. In the same way, Venerable Ānanda can make a set of three robes for himself from this imported cloak. And you can share your old robes with your fellow monks. In this way my religious donation will come to overflow, it seems to me. Please accept the imported cloth.”
+30“Sir, we have both seen this river Aciravatī when it has rained heavily in the mountains, and the river overflows both its banks. In the same way, Venerable Ānanda can make a set of three robes for himself from this imported cloak. And you can share your old robes with your fellow bhikkhus. In this way my religious donation will come to overflow, it seems to me. Please accept the imported cloth.”
 
 
 So Ānanda accepted it.
@@ -131,12 +131,12 @@ Then King Pasenadi approved and agreed with what Ānanda said. He got up from hi
 32Soon after he left, Ānanda went to the Buddha, bowed, sat down to one side, and told him what had happened. He presented the cloth to the Buddha.
 
 
-Then the Buddha said to the mendicants,
+Then the Buddha said to the bhikkhus,
 
-“Mendicants, King Pasenadi is lucky, so very lucky, to get to see Ānanda and pay homage to him.”
+“bhikkhus, King Pasenadi is lucky, so very lucky, to get to see Ānanda and pay homage to him.”
 
 
-33That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+33That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

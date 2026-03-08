@@ -36,7 +36,7 @@ He then followed after them, caught that monk, and gave him a beating. The monk 
 “This monk didn’t make me go; I was the one who went with him. He’s innocent. Go and ask his forgiveness.” And he did so.
 
 
-2That monk then went to Sāvatthī where he told the monks what had happened. The monks of few desires complained and criticized him:
+2That monk then went to Sāvatthī where he told the bhikkhus what had happened. The bhikkhus of few desires complained and criticized him:
 
 “How could a monk travel by arrangement with a woman?” …
 
@@ -45,7 +45,7 @@ He then followed after them, caught that monk, and gave him a beating. The monk 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

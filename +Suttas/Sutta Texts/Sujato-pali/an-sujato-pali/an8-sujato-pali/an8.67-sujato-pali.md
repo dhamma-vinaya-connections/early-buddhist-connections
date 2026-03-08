@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these eight ignoble expressions. What eight? Saying you’ve seen, heard, thought, or known something, but you haven’t. And saying you haven’t seen, heard, thought, or known something, and you have. These are the eight ignoble expressions.”
+1“bhikkhus, there are these eight ignoble expressions. What eight? Saying you’ve seen, heard, thought, or known something, but you haven’t. And saying you haven’t seen, heard, thought, or known something, and you have. These are the eight ignoble expressions.”
 
 1"Aṭṭhime, bhikkhave, anariyavohārā. Katame aṭṭha? Adiṭṭhe diṭṭhavāditā, asute sutavāditā, amute mutavāditā, aviññāte viññātavāditā, diṭṭhe adiṭṭhavāditā, sute asutavāditā, mute amutavāditā, viññāte aviññātavāditā. Ime kho, bhikkhave, aṭṭha anariyavohārā"ti.
 

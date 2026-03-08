@@ -45,12 +45,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> In the wars between gods and demons, they find safety only in their own fortress. Similarly, a mendicant finds safety in absorption
+> In the wars between gods and demons, they find safety only in their own fortress. Similarly, a bhikkhu finds safety in absorption
 
 > [!info] Key Excerpts 
 > One is in a secure location and Māra can’t do anything to ithem in 4 jhanas, 4 formless jhanas,  cessation of perceptions and feelings are basis for ending the defilements.
 > 
-> At such a time they are called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the wicked one cannot see. And they’ve crossed over clinging to the world.”
+> At such a time they are called a bhikkhu who has blinded Māra, put out his eyes without a trace, and gone where the wicked one cannot see. And they’ve crossed over clinging to the world.”
 > 
 
 > [!info] Similes

@@ -18,15 +18,15 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. There it was that the Gracious One addressed the monks, saying:
+1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. There it was that the Gracious One addressed the bhikkhus, saying:
 
 ---
 
-"Monks!"
+"bhikkhus!"
 
-"Reverend Sir!" those monks replied to the Gracious One. And the Gracious One said this:
+"Reverend Sir!" those bhikkhus replied to the Gracious One. And the Gracious One said this:
 
-2"While venerable Dabba Mallaputta, monks — after going up into the sky, and sitting in cross-legged posture in the air, in the firmament, entering the fire-element, and emerging — was attaining Complete Emancipation, his body burning and being consumed, there was no charcoal and no ash evident. Just as while ghee or oil is burning and being consumed there is no charcoal and no ash evident, so also while venerable Dabba Mallaputta — after going up into the sky, and sitting in cross-legged posture in the air, in the firmament, entering the fire-element, and emerging — was attaining Complete Emancipation, his body burning and being consumed, there was no charcoal and no ash evident."
+2"While venerable Dabba Mallaputta, bhikkhus — after going up into the sky, and sitting in cross-legged posture in the air, in the firmament, entering the fire-element, and emerging — was attaining Complete Emancipation, his body burning and being consumed, there was no charcoal and no ash evident. Just as while ghee or oil is burning and being consumed there is no charcoal and no ash evident, so also while venerable Dabba Mallaputta — after going up into the sky, and sitting in cross-legged posture in the air, in the firmament, entering the fire-element, and emerging — was attaining Complete Emancipation, his body burning and being consumed, there was no charcoal and no ash evident."
 
 3Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

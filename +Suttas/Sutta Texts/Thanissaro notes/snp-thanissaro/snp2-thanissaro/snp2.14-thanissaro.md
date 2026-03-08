@@ -90,7 +90,7 @@ We all want to hear it.
 
 Tell it to us, Excellent Awakened, when asked.
 
-All these monks are sitting together—
+All these bhikkhus are sitting together—
 
 and the lay followers, right there—to hear.
 
@@ -102,7 +102,7 @@ as the devas listen to Vasavant’s[6](#^snp2-14-06) well-spoken word.” ^snp2-
 
 The Buddha:
 
-“Listen to me, monks. I will let you hear
+“Listen to me, bhikkhus. I will let you hear
 
 the Dhamma of polishing away. Live by it,[7](#^snp2-14-07) all of you. ^snp2-14-07-ref
 
@@ -110,7 +110,7 @@ May those who are thoughtful, seeing the purpose,
 
 partake of the duties proper for one gone forth.
 
-A monk should surely not wander
+A bhikkhu should surely not wander
 
 at the wrong time.
 
@@ -138,7 +138,7 @@ one should, at the right time, enter for alms.
 
 Having received alms in proper season,
 
-a monk, returning alone, should sit down in solitude.
+a bhikkhu, returning alone, should sit down in solitude.
 
 Pondering what’s inside, his mind-state collected,
 
@@ -146,7 +146,7 @@ he should not let his heart wander outside.
 
 If he should converse with a disciple,
 
-a monk, or anyone else,
+a bhikkhu, or anyone else,
 
 he should utter the exquisite Dhamma,
 
@@ -168,7 +168,7 @@ should resort to almsfood, a dwelling, a place to sit & lie down,
 
 and water for washing dust from his robe.
 
-So a monk should stay unsmeared by these things—
+So a bhikkhu should stay unsmeared by these things—
 
 almsfood, a dwelling, a place to sit & lie down,
 
@@ -182,7 +182,7 @@ I will tell you how-acting
 
 one becomes a good disciple,
 
-since the entire monk-practice
+since the entire bhikkhu-practice
 
 can’t be managed by those wealthy in property.
 
@@ -278,7 +278,7 @@ confident, rejoicing,
 
 should share food & drink, as is proper,
 
-with the Saṅgha of monks.
+with the Saṅgha of bhikkhus.
 
 One should righteously support mother & father,
 

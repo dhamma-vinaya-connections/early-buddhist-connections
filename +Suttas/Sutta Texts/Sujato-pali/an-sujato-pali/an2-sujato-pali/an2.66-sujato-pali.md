@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two kinds of happiness. What two? The happiness of attachments, and the happiness of no attachments. These are the two kinds of happiness. The better of these two kinds of happiness is the happiness of no attachments.”
+1“There are, bhikkhus, these two kinds of happiness. What two? The happiness of attachments, and the happiness of no attachments. These are the two kinds of happiness. The better of these two kinds of happiness is the happiness of no attachments.”
 
 1 "Dvemāni, bhikkhave, sukhāni. Katamāni dve? Upadhisukhañca nirupadhisukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ sukhānaṁ yadidaṁ nirupadhisukhan"ti.
 

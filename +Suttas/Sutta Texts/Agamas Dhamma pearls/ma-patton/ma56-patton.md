@@ -38,7 +38,7 @@ The Bhagavān told him, “Meghiya, if you want to pursue the end to your afflic
 18. “Meghiya, if a monk is himself a good friend, in the company of good friends, and in harmony with good friends, you should know that he’ll surely cultivate wisdom and observe the law of arising and passing away. Attaining such knowledge, which is a noble and wise insight, he’ll discern and clearly understand the correct way to end suffering.
 19. “Meghiya, if a monk is himself a good friend, in the company of good friends, and in harmony with good friends, you should know that he’ll surely contemplate the foul discharges to end desire. He’ll cultivate kindness to end anger. He’ll be mindful of breathing in and out to end confused thoughts. He’ll cultivate the notion of impermanence to end self-pride.
 20. “Meghiya, if a monk gets the notion of impermanence, he’ll surely get the notion of selflessness. Meghiya, if a monk gets the notion of selflessness, then he’ll end all self-pride. Right here in the present, he’ll attain his rest, cessation, ending, the unconditioned, and _nirvāṇa_.”
-21. The Buddha thus spoke. When Venerable Meghiya and the monks heard what the Buddha taught, they rejoiced and approved. ^ma56note01-ref ^ma56note02-ref ^ma56note03-ref ^ma56note04-ref ^ma56note05-ref ^ma56note06-ref ^ma56note07-ref ^ma56note08-ref ^ma56note09-ref
+21. The Buddha thus spoke. When Venerable Meghiya and the bhikkhus heard what the Buddha taught, they rejoiced and approved. ^ma56note01-ref ^ma56note02-ref ^ma56note03-ref ^ma56note04-ref ^ma56note05-ref ^ma56note06-ref ^ma56note07-ref ^ma56note08-ref ^ma56note09-ref
 
 ---
 

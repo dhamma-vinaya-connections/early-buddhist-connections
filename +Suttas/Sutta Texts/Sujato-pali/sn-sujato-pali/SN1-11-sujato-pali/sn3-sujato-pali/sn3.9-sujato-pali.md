@@ -24,7 +24,7 @@ language: "English - Pali"
 
 Now at that time a big sacrifice had been set up for King Pasenadi of Kosala. Five hundred chief bulls, five hundred bullocks, five hundred heifers, five hundred goats, and five hundred rams had been led to the pillar for the sacrifice. His bondservants, employees, and workers did their jobs under threat of punishment and danger, weeping with tearful faces.
 
-2Then several mendicants robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms. Then, after the meal, when they returned from alms-round, they went up to the Buddha, bowed, sat down to one side, and told him what was happening.
+2Then several bhikkhus robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms. Then, after the meal, when they returned from alms-round, they went up to the Buddha, bowed, sat down to one side, and told him what was happening.
 
 
 3Then, knowing the meaning of this, on that occasion the Buddha recited these verses:

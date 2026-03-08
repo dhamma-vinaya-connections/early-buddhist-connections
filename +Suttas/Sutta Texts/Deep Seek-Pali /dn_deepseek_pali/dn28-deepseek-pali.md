@@ -260,7 +260,7 @@ Furthermore, venerable sir, here a certain ascetic or brahmin, through ardor… 
 
 163. Atha kho bhagavā āyasmantaṃ sāriputtaṃ āmantesi – ‘‘tasmā tiha tvaṃ, sāriputta, imaṃ dhammapariyāyaṃ abhikkhaṇaṃ bhāseyyāsi bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ. Yesampi hi, sāriputta, moghapurisānaṃ bhavissati tathāgate kaṅkhā vā vimati vā, tesamimaṃ dhammapariyāyaṃ sutvā tathāgate kaṅkhā vā vimati vā, sā pahīyissatī’’ti. Iti hidaṃ āyasmā sāriputto bhagavato sammukhā sampasādaṃ pavedesi. Tasmā imassa veyyākaraṇassa sampasādanīyaṃ tveva adhivacananti.
 
-163.Then the Blessed One addressed Venerable Sāriputta: "Therefore, Sāriputta, you should frequently recite this discourse on the Dhamma to the monks, nuns, male lay followers, and female lay followers. For even if any foolish persons have doubt or uncertainty about the Tathāgata, when they hear this discourse on the Dhamma, their doubt or uncertainty about the Tathāgata will be abandoned." Thus Venerable Sāriputta declared his satisfaction in the presence of the Blessed One. Therefore, this exposition should be called "The Inspiring Confidence."
+163.Then the Blessed One addressed Venerable Sāriputta: "Therefore, Sāriputta, you should frequently recite this discourse on the Dhamma to the bhikkhus, nuns, male lay followers, and female lay followers. For even if any foolish persons have doubt or uncertainty about the Tathāgata, when they hear this discourse on the Dhamma, their doubt or uncertainty about the Tathāgata will be abandoned." Thus Venerable Sāriputta declared his satisfaction in the presence of the Blessed One. Therefore, this exposition should be called "The Inspiring Confidence."
 
 Sampasādanīyasuttaṃ niṭṭhitaṃ pañcamaṃ.
 

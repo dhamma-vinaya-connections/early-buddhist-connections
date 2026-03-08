@@ -69,7 +69,7 @@ by jackals, wolves, and worms.
 It’s devoured by crows and vultures,  
 and any other creatures there.
 
-202 A wise mendicant here,  
+202 A wise bhikkhu here,  
 having heard the Buddha’s words,  
 fully understands it,  
 for they see it as it is.
@@ -81,7 +81,7 @@ as that is, so is this.”
 They’d reject desire for the body  
 inside and out.
 
-204 That wise mendicant here  
+204 That wise bhikkhu here  
 rid of desire and lust,  
 has found the deathless peace,  
 extinguishment, the imperishable state.

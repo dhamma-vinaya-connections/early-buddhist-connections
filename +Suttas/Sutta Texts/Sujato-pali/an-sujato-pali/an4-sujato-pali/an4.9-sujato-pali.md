@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are four things that give rise to craving in a mendicant. What four?
+1“bhikkhus, there are four things that give rise to craving in a bhikkhu. What four?
 
 For the sake of robes, alms-food, lodgings, or rebirth in this or that state.
 
-These are the four things that give rise to craving in a mendicant.
+These are the four things that give rise to craving in a bhikkhu.
 
 
 2Craving is a person’s partner  
@@ -35,7 +35,7 @@ but don’t get past transmigration.
 3Knowing this drawback—  
 that craving is the cause of suffering—  
 rid of craving, by not grasping,  
-a mendicant would go forth mindfully.”
+a bhikkhu would go forth mindfully.”
 
 1"Cattārome, bhikkhave, taṇhuppādā yattha bhikkhuno taṇhā uppajjamānā uppajjati. Katame cattāro?
 

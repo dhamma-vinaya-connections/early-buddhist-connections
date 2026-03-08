@@ -23,7 +23,7 @@ language: "English - Pali"
 
 Now at that time the wanderer Nigrodha was residing in the lady Udumbarikā’s monastery for wanderers, together with a large assembly of three thousand wanderers. Then the householder Sandhana left Rājagaha in the middle of the day to see the Buddha.
 
-Then it occurred to him: “It’s the wrong time to see the Buddha, as he’s in retreat. And it’s the wrong time to see the esteemed mendicants, as they’re in retreat. Why don’t I visit the wanderer Nigrodha at the lady Udumbarikā’s monastery for wanderers?” So he went to the monastery of the wanderers.
+Then it occurred to him: “It’s the wrong time to see the Buddha, as he’s in retreat. And it’s the wrong time to see the esteemed bhikkhus, as they’re in retreat. Why don’t I visit the wanderer Nigrodha at the lady Udumbarikā’s monastery for wanderers?” So he went to the monastery of the wanderers.
 
 2Now at that time, Nigrodha was sitting together with a large assembly of wanderers making an uproar, a dreadful racket. They engaged in all kinds of unworthy talk, such as talk about kings, bandits, and ministers; talk about armies, threats, and wars; talk about food, drink, clothes, and beds; talk about garlands and fragrances; talk about family, vehicles, villages, towns, cities, and countries; talk about women and heroes; street talk and well talk; talk about the departed; motley talk; tales of land and sea; and talk about being reborn in this or that state of existence.
 

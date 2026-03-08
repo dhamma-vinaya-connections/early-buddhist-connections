@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five losses. What five? Loss of relatives, wealth, health, ethics, and view. It is not because of loss of relatives, wealth, or health that sentient beings, when their body breaks up, after death, are reborn in a place of loss, a bad place, the underworld, hell. It is because of loss of ethics or view that sentient beings, when their body breaks up, after death, are reborn in a place of loss, a bad place, the underworld, hell. These are the five losses.
+1“bhikkhus, there are these five losses. What five? Loss of relatives, wealth, health, ethics, and view. It is not because of loss of relatives, wealth, or health that sentient beings, when their body breaks up, after death, are reborn in a place of loss, a bad place, the underworld, hell. It is because of loss of ethics or view that sentient beings, when their body breaks up, after death, are reborn in a place of loss, a bad place, the underworld, hell. These are the five losses.
 
 2There are these five endowments. What five? Endowment with relatives, wealth, health, ethics, and view. It is not because of endowment with relatives, wealth, or health that sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm. It is because of endowment with ethics or view that sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm. These are the five endowments.”
 

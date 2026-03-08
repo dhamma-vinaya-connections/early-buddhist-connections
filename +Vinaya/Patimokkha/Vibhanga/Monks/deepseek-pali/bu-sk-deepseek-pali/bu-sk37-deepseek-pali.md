@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 611. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū sūpampi byañjanampi odanena paṭicchādenti bhiyyokamyataṃ upādāya…pe….
 
-## 611.At that time the Blessed One was dwelling at Sāvatthī in Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the group of six monks would conceal soup or curry with rice out of a desire for more….
+## 611.At that time the Blessed One was dwelling at Sāvatthī in Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the group of six bhikkhus would conceal soup or curry with rice out of a desire for more….
 
 ‘‘Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyāti sikkhā karaṇīyā’’ti.
 

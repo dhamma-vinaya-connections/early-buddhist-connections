@@ -7,13 +7,13 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ4]]
 > ◄  [[bu-pj3-horner]] 📜  [[BU-SS1]] ►
 
-# Monks’ Expulsion (_Pārājika_) 4
+# bhikkhus’ Expulsion (_Pārājika_) 4
 
 ## Origin story
 
 ### First sub-story
 
-*BD.1.151* *Bu-Pj.4.1.1* *Vin.3.87* *MS.534* At one time[^1] the Buddha, the Master, was staying near Vesālī in the hall with the peaked roof in the Great Wood. At that time a number of monks who were friends had entered the rains on the banks of the river Vaggumudā.[^2] Just then Vajjī was short of food[^3] and stricken by hunger, with crops blighted and turned to straw, and it was not easy to keep oneself going by collecting alms. Then those monks thought this:
+*BD.1.151* *Bu-Pj.4.1.1* *Vin.3.87* *MS.534* At one time[^1] the Buddha, the Master, was staying near Vesālī in the hall with the peaked roof in the Great Wood. At that time a number of bhikkhus who were friends had entered the rains on the banks of the river Vaggumudā.[^2] Just then Vajjī was short of food[^3] and stricken by hunger, with crops blighted and turned to straw, and it was not easy to keep oneself going by collecting alms. Then those bhikkhus thought this:
 
 “At present Vajjī is short of food and stricken by hunger, with crops blighted and turned to straw, and it is not easy to keep oneself going by collecting alms. By what means might we, united and in harmony, have a comfortable rains and get almsfood without problems?”
 
@@ -21,21 +21,21 @@ language: "English"
 
 *MS.536* Some said, “Friends, there is no need to undertake work for the householders. Let us instead act as messengers for them,[^4] *BD.1.152* and they will give something in return. In this way, being united and in harmony, we will spend the rains in comfort and have no problems getting almsfood.”
 
-*MS.537* Some said, “Friends, there is no need to undertake work for the householders, nor to act as messengers for them. Let us instead praise one anotherʼs super-human achievements[^5] to the householders: ʻSuch a monk obtains the first _jhāna_, such a monk the second _jhāna_, such a monk the third, such a monk the fourth; such a monk is stream-enterer, such a monk a once-returner, such a non-returner, such an _arahant_; such a monk has the three true knowledges,[^6] and such the six direct knowledges.ʼ[^7] Then they will give to us. In this way, being united *Vin.3.88* and in harmony, we will spend the rains in comfort and have no problems getting almsfood. Indeed, friends, this is the better way, that we praise one anotherʼs super-human achievements to the householders.”
+*MS.537* Some said, “Friends, there is no need to undertake work for the householders, nor to act as messengers for them. Let us instead praise one anotherʼs super-human achievements[^5] to the householders: ʻSuch a bhikkhu obtains the first _jhāna_, such a bhikkhu the second _jhāna_, such a bhikkhu the third, such a bhikkhu the fourth; such a bhikkhu is stream-enterer, such a bhikkhu a once-returner, such a non-returner, such an _arahant_; such a bhikkhu has the three true knowledges,[^6] and such the six direct knowledges.ʼ[^7] Then they will give to us. In this way, being united *Vin.3.88* and in harmony, we will spend the rains in comfort and have no problems getting almsfood. Indeed, friends, this is the better way, that we praise one anotherʼs super-human achievements to the householders.”
 
-*MS.538* Then those monks praised one anotherʼs super-human achievements to the householders: “Such a monk obtains the first _jhāna_ … such a monk has the six direct knowledges.” And those people thought: “It is a gain for us, it is well-gained, that such monks have come to us for the rains. Such monks as these, who are virtuous *BD.1.153* and of good character, have never before entered the rains with us.” Then they gave such food and drink to those monks that they did not even eat and drink themselves, or give to their parents, to their wives and children, to their slaves, servants and workers, to their friends and companions, or to their relatives. In this way those monks were handsome, with rounded features, bright faces and clear skin.[^8]
+*MS.538* Then those bhikkhus praised one anotherʼs super-human achievements to the householders: “Such a bhikkhu obtains the first _jhāna_ … such a bhikkhu has the six direct knowledges.” And those people thought: “It is a gain for us, it is well-gained, that such bhikkhus have come to us for the rains. Such bhikkhus as these, who are virtuous *BD.1.153* and of good character, have never before entered the rains with us.” Then they gave such food and drink to those bhikkhus that they did not even eat and drink themselves, or give to their parents, to their wives and children, to their slaves, servants and workers, to their friends and companions, or to their relatives. In this way those bhikkhus were handsome, with rounded features, bright faces and clear skin.[^8]
 
-*Bu-Pj.4.1.2* *MS.539* Now it was the custom[^9] for monks who had finished keeping the rains to go and see the Master. So when the rains was finished and the three months had elapsed, those monks put their lodging in order,[^10] took their bowls and robes and departed for Vesālī. Walking by stages, they arrived at Vesālī and went to the hall with the peaked roof in the Great Wood. There they approached the Master, paid homage to him and sat down to one side.
+*Bu-Pj.4.1.2* *MS.539* Now it was the custom[^9] for bhikkhus who had finished keeping the rains to go and see the Master. So when the rains was finished and the three months had elapsed, those bhikkhus put their lodging in order,[^10] took their bowls and robes and departed for Vesālī. Walking by stages, they arrived at Vesālī and went to the hall with the peaked roof in the Great Wood. There they approached the Master, paid homage to him and sat down to one side.
 
-*MS.540* At that time the monks who had spent the rains in that region were thin, *BD.1.154* haggard[^11] and pale,[^12] their veins protruding all over their limbs.[^13] But the monks from the banks of the Vaggumudā were handsome, with rounded features, bright faces and clear skin. It is the custom for Buddhas, for Masters, to exchange friendly greetings with incoming monks.[^14] And so the Master said to them:
+*MS.540* At that time the bhikkhus who had spent the rains in that region were thin, *BD.1.154* haggard[^11] and pale,[^12] their veins protruding all over their limbs.[^13] But the bhikkhus from the banks of the Vaggumudā were handsome, with rounded features, bright faces and clear skin. It is the custom for Buddhas, for Masters, to exchange friendly greetings with incoming bhikkhus.[^14] And so the Master said to them:
 
-“I hope you are keeping well,[^15] monks, I hope you are comfortable; I hope you spent the rains at ease, in concord and harmony, without dispute, and that you had no trouble getting almsfood?”
+“I hope you are keeping well,[^15] bhikkhus, I hope you are comfortable; I hope you spent the rains at ease, in concord and harmony, without dispute, and that you had no trouble getting almsfood?”
 
 “We are keeping well, Master,[^16] we are comfortable; we spent the rains at ease, in concord and harmony, without dispute, and we had no trouble getting alsmfood.”
 
-Tathāgatas sometimes ask knowing, *Vin.3.89* and knowing sometimes do not ask … Buddhas, Masters, question the monks for two reasons, thinking, “we shall teach the _Dhamma_ or lay down a training rule for the disciples.”[^17] Then the Master said to those monks:
+Tathāgatas sometimes ask knowing, *Vin.3.89* and knowing sometimes do not ask … Buddhas, Masters, question the bhikkhus for two reasons, thinking, “we shall teach the _Dhamma_ or lay down a training rule for the disciples.”[^17] Then the Master said to those bhikkhus:
 
-*MS.541* “In what way, monks, did you spent the rains at ease, without having any trouble getting almsfood?” Then those monks informed the Master.
+*MS.541* “In what way, bhikkhus, did you spent the rains at ease, without having any trouble getting almsfood?” Then those bhikkhus informed the Master.
 
 “But had you really obtained those super-human achievements?”[^18]
 
@@ -43,17 +43,17 @@ Tathāgatas sometimes ask knowing, *Vin.3.89* and knowing sometimes do not ask �
 
 The Buddha, the Master, rebuked them:
 
-“It is unsuitable, foolish men, it is not becoming, *BD.1.155* it is not proper, it is not fitting for a recluse, it is unallowable, it is not to be done. How could you for the sake of your stomachs praise one anotherʼs super-human achievements to householders? It would be better for your bellies to be cut open with a sharp butcherʼs knife than for you to praise one anotherʼs super-human achievements to householders. Why is that? For _that_ reason, foolish men, you may incur death or death-like suffering, but not on that account would you at the breaking up of the body after death be reborn in the plane of misery, a bad destination, the abyss, hell.[^19] But for _this_ reason you might. This is not for the benefit of non-believers …” and having thus rebuked them and given a talk on the _Dhamma_, he addressed the monks:
+“It is unsuitable, foolish men, it is not becoming, *BD.1.155* it is not proper, it is not fitting for a recluse, it is unallowable, it is not to be done. How could you for the sake of your stomachs praise one anotherʼs super-human achievements to householders? It would be better for your bellies to be cut open with a sharp butcherʼs knife than for you to praise one anotherʼs super-human achievements to householders. Why is that? For _that_ reason, foolish men, you may incur death or death-like suffering, but not on that account would you at the breaking up of the body after death be reborn in the plane of misery, a bad destination, the abyss, hell.[^19] But for _this_ reason you might. This is not for the benefit of non-believers …” and having thus rebuked them and given a talk on the _Dhamma_, he addressed the bhikkhus:
 
-*Bu-Pj.4.1.3* *MS.542* “Monks, there are these five great gangsters to be found in the world.[^20] What five? A[^21] certain great gangster thinks like this: ʻWhen indeed will I, with a following of a hundred or a thousand men, wander among villages, towns and the seats of kings, killing and making others kill, destroying and making others destroy, tormenting and making others torment;ʼ and after some time he does just that. Just so, monks, a certain bad monk thinks like this: ʻWhen indeed will I, with a following of a hundred or a thousand people, go on tour among villages, towns and the seats of kings, being honoured, respected, revered and worshipped by both householders and those *BD.1.156* gone forth, and obtain robes, almsfood, lodgings and medicines;ʼ and after some time he does *Vin.3.90* just that. This is the first great gangster found existing in the world.
+*Bu-Pj.4.1.3* *MS.542* “bhikkhus, there are these five great gangsters to be found in the world.[^20] What five? A[^21] certain great gangster thinks like this: ʻWhen indeed will I, with a following of a hundred or a thousand men, wander among villages, towns and the seats of kings, killing and making others kill, destroying and making others destroy, tormenting and making others torment;ʼ and after some time he does just that. Just so, bhikkhus, a certain bad bhikkhu thinks like this: ʻWhen indeed will I, with a following of a hundred or a thousand people, go on tour among villages, towns and the seats of kings, being honoured, respected, revered and worshipped by both householders and those *BD.1.156* gone forth, and obtain robes, almsfood, lodgings and medicines;ʼ and after some time he does *Vin.3.90* just that. This is the first great gangster found existing in the world.
 
-*MS.543* Again, a certain bad monk learns the _Dhamma_ and training proclaimed by the Tathāgata and takes it as his own. This is the second great gangster found existing in the world.
+*MS.543* Again, a certain bad bhikkhu learns the _Dhamma_ and training proclaimed by the Tathāgata and takes it as his own. This is the second great gangster found existing in the world.
 
-*MS.544* Again, a certain bad monk groundlessly accuses someone who lives the spiritual life in purity of not being celibate.[^22] This is the third great gangster found existing in the world.
+*MS.544* Again, a certain bad bhikkhu groundlessly accuses someone who lives the spiritual life in purity of not being celibate.[^22] This is the third great gangster found existing in the world.
 
-*MS.545* Again, a certain bad monk takes valuable goods and requisites belonging to the Sangha—a monastery, the land of a monastery, a dwelling, the land for a dwelling, a bed, a bench, a cushion, a pillow, a brass vessel, a brass jar, a brass pot, a brass receptacle, an adze, a hatchet, an axe, a spade, a chisel, a creeper, bamboo, _muñja_\-grass, _babbaja_\-grass, _tiṇa_\-grass, clay, wooden articles, earthenware articles[^23]—and uses these to win over and create a following among householders. This is the fourth great gangster found existing in the world.
+*MS.545* Again, a certain bad bhikkhu takes valuable goods and requisites belonging to the Sangha—a monastery, the land of a monastery, a dwelling, the land for a dwelling, a bed, a bench, a cushion, a pillow, a brass vessel, a brass jar, a brass pot, a brass receptacle, an adze, a hatchet, an axe, a spade, a chisel, a creeper, bamboo, _muñja_\-grass, _babbaja_\-grass, _tiṇa_\-grass, clay, wooden articles, earthenware articles[^23]—and uses these to win over and create a following among householders. This is the fourth great gangster found existing in the world.
 
-*BD.1.157* *MS.546* But in this world with its gods, its lords of death and its supreme beings, among this population with its recluses and brahmins, its gods and humans, this the greatest gangster: he who untruthfully[^24] and groundlessly[^25] boasts about a super-human achievement. Why is that? Monks, you have eaten the countryʼs almsfood by theft.”
+*BD.1.157* *MS.546* But in this world with its gods, its lords of death and its supreme beings, among this population with its recluses and brahmins, its gods and humans, this the greatest gangster: he who untruthfully[^24] and groundlessly[^25] boasts about a super-human achievement. Why is that? bhikkhus, you have eaten the countryʼs almsfood by theft.”
 
 > *MS.547* Whoever should declare himself to be other than he truly is,  
 >   
@@ -67,29 +67,29 @@ The Buddha, the Master, rebuked them:
 >   
 > Than for the immoral and uncontrolled to eat the countryʼs alms.
 
-*MS.550* Then the Master, having rebuked the monks from the banks of the Yaggumudā in various ways for being difficult to maintain, difficult to support … “… And, monks, this training rule should be recited thus:
+*MS.550* Then the Master, having rebuked the bhikkhus from the banks of the Yaggumudā in various ways for being difficult to maintain, difficult to support … “… And, bhikkhus, this training rule should be recited thus:
 
 ### Preliminary ruling
 
-*MS.551* If a monk falsely claims for himself a super-human achievement, knowledge *BD.1.158* and vision[^27] worthy of the noble ones, saying: “this I know, this I see”, but after some time—whether examined or not, but having committed the offence[^28] and desiring purification—should say, ʻfriends, not knowing I said that I know, *Vin.3.91* not seeing that I see; what I said was empty and false,ʼ he too is expelled and not in communion.”
+*MS.551* If a bhikkhu falsely claims for himself a super-human achievement, knowledge *BD.1.158* and vision[^27] worthy of the noble ones, saying: “this I know, this I see”, but after some time—whether examined or not, but having committed the offence[^28] and desiring purification—should say, ʻfriends, not knowing I said that I know, *Vin.3.91* not seeing that I see; what I said was empty and false,ʼ he too is expelled and not in communion.”
 
-*MS.552* Thus the Master laid down this training rule for the monks.
+*MS.552* Thus the Master laid down this training rule for the bhikkhus.
 
 ### Second sub-story
 
-*Bu-Pj.4.2.1* *MS.553* At one time a number of monks, thinking they had seen what they had not, attained what they had not, achieved what they had not, realised what they had not, declared final knowledge[^29] based on overestimation.[^30] After some time their minds inclined[^31] to sense desire, anger and confusion. They became anxious, thinking, “The Master has laid down a training rule; yet we … declared final knowledge based on overestimation. Could it be that we have fallen into an offence entailing expulsion? They informed Venerable Ānanda, who informed the Master. He said: “Ānanda, these monks declared final knowledge *BD.1.159* based on overestimation, thinking they had seen what they had not … but this is negligible.[^32]
+*Bu-Pj.4.2.1* *MS.553* At one time a number of bhikkhus, thinking they had seen what they had not, attained what they had not, achieved what they had not, realised what they had not, declared final knowledge[^29] based on overestimation.[^30] After some time their minds inclined[^31] to sense desire, anger and confusion. They became anxious, thinking, “The Master has laid down a training rule; yet we … declared final knowledge based on overestimation. Could it be that we have fallen into an offence entailing expulsion? They informed Venerable Ānanda, who informed the Master. He said: “Ānanda, these bhikkhus declared final knowledge *BD.1.159* based on overestimation, thinking they had seen what they had not … but this is negligible.[^32]
 
-*MS.554* And so, monks, this training rule should be recited thus:
+*MS.554* And so, bhikkhus, this training rule should be recited thus:
 
 ## Final ruling
 
-*MS.555* If a monk falsely claims for himself a super-human achievement, knowledge and insight worthy of the noble ones, saying: “This I know, this I see,” but after some time—whether examined or not, but having committed the offence and desiring purification—should say, ʻfriends, not knowing I said that I know, not seeing that I see; what I said was empty and false,ʼ except if it is through overestimation, he too is expelled and not in communion.”
+*MS.555* If a bhikkhu falsely claims for himself a super-human achievement, knowledge and insight worthy of the noble ones, saying: “This I know, this I see,” but after some time—whether examined or not, but having committed the offence and desiring purification—should say, ʻfriends, not knowing I said that I know, not seeing that I see; what I said was empty and false,ʼ except if it is through overestimation, he too is expelled and not in communion.”
 
 ## Definitions
 
 *MS.556* *Bu-Pj.4.3.1* A means: whoever, of such kind …
 
-Monk means: … this sort of monk is meant in this case.
+bhikkhu means: … this sort of bhikkhu is meant in this case.
 
 *MS.557* Falsely means: although a certain wholesome quality is non-existent, not factual, not to be found in himself, and he does not see it or know it, he says, “I have this wholesome quality.”
 
@@ -123,7 +123,7 @@ Insight means: knowledge and insight are equivalent.[^34]
 
 *MS.571* He too means: this is said with reference to the preceding offences entailing expulsion.
 
-*MS.572* Is expelled means: just as a palm tree with the crown cut off is incapable[^37] of further growth, *BD.1.161* just so a monk with bad desires, who is habitually desirous, having claimed a non-existent, non-factual super-human achievement, is not a recluse, not a son of the Sakyan[^38]—he is therefore called one who is expelled.
+*MS.572* Is expelled means: just as a palm tree with the crown cut off is incapable[^37] of further growth, *BD.1.161* just so a bhikkhu with bad desires, who is habitually desirous, having claimed a non-existent, non-factual super-human achievement, is not a recluse, not a son of the Sakyan[^38]—he is therefore called one who is expelled.
 
 *MS.573* Not in communion means: communion means: a common official action, the same recital, the same training—this is called communion. He does not take part in this—he is therefore called not in communion.
 
@@ -263,7 +263,7 @@ For one who deliberately lies, saying, “I attained the four focuses of mindful
 
 ##### Gross hinting
 
-*Bu-Pj.4.6.1* *BD.1.170* *Vin.3.99* *MS.693* For one who deliberately lies, saying, “he who lived in your dwelling attained the first _jhāna_ … is attaining … has attained … obtains the first _jhāna_ … masters the first _jhāna_ … has realised the first _jhāna_,” when the listener understands there is a serious offence when three conditions are fulfilled; when the listener does not understand there is an offence of bad conduct when three conditions are fulfilled … when seven conditions are fulfilled: before he has lied … in misrepresenting his sentiment (of what is true) … For one who deliberately lies, saying, “he who lived in your dwelling attained the second _jhāna_ … the third _jhāna_ … the fourth _jhāna_ … the emptiness emancipation … _arahantship_ … is attaining _arahantship_ … has realised _arahantship_” … bad conduct when three conditions are fulfilled … For one who deliberately lies, saying, “he who lived in your dwelling, that monk has given up sense desire … has given up anger … has given up confusion, renounced it, let it go, abandoned it, relinquished it, forsaken it, thrown it aside; that monk has a mind free from sense desire … free from anger … free from confusion” … bad conduct when three conditions are fulfilled … For one who deliberately lies, saying, “he who lives in your dwelling attained the first _jhāna_ in an empty dwelling … the second _jhāna_ … the third _jhāna_ … the fourth _jhāna_ … is attaining … has attained … obtains the fourth _jhāna_ in an empty dwelling … masters … has realised the fourth _jhāna_ in an empty dwelling” … bad conduct when three conditions are fulfilled … when seven conditions are fulfilled: before he has lied … in misrepresenting his sentiment (of what is true).
+*Bu-Pj.4.6.1* *BD.1.170* *Vin.3.99* *MS.693* For one who deliberately lies, saying, “he who lived in your dwelling attained the first _jhāna_ … is attaining … has attained … obtains the first _jhāna_ … masters the first _jhāna_ … has realised the first _jhāna_,” when the listener understands there is a serious offence when three conditions are fulfilled; when the listener does not understand there is an offence of bad conduct when three conditions are fulfilled … when seven conditions are fulfilled: before he has lied … in misrepresenting his sentiment (of what is true) … For one who deliberately lies, saying, “he who lived in your dwelling attained the second _jhāna_ … the third _jhāna_ … the fourth _jhāna_ … the emptiness emancipation … _arahantship_ … is attaining _arahantship_ … has realised _arahantship_” … bad conduct when three conditions are fulfilled … For one who deliberately lies, saying, “he who lived in your dwelling, that bhikkhu has given up sense desire … has given up anger … has given up confusion, renounced it, let it go, abandoned it, relinquished it, forsaken it, thrown it aside; that bhikkhu has a mind free from sense desire … free from anger … free from confusion” … bad conduct when three conditions are fulfilled … For one who deliberately lies, saying, “he who lives in your dwelling attained the first _jhāna_ in an empty dwelling … the second _jhāna_ … the third _jhāna_ … the fourth _jhāna_ … is attaining … has attained … obtains the fourth _jhāna_ in an empty dwelling … masters … has realised the fourth _jhāna_ in an empty dwelling” … bad conduct when three conditions are fulfilled … when seven conditions are fulfilled: before he has lied … in misrepresenting his sentiment (of what is true).
 
 *MS.699* The remainder should be expanded in the same way.
 
@@ -303,77 +303,77 @@ An adulterer is submerged in a pit, the eater of dung was a wicked brahmin, /
   
 The sweltering woman scattered coals on a co-wife, the beheaded one was an executioner, /  
   
-*MS.711* A monk, a nun, a probationary nun, a novice monk, a novice nun,  
+*MS.711* A bhikkhu, a nun, a probationary nun, a novice bhikkhu, a novice nun,  
   
 These having gone forth in the training of Kassapa did bad deeds just then,[^53] /  
   
 *MS.712* The Tapodā in Rājagaha, a fight, and on the plunging of elephants,  
   
-The monk Sobhita, _arahant_, can recall five hundred eons.
+The bhikkhu Sobhita, _arahant_, can recall five hundred eons.
 
 ### Case details, part 1
 
-*BD.1.173* *MS.713* At one time a certain monk declared final knowledge[^54] because of overestimation. He became anxious, thinking, “The Master has laid down a training rule. Could it be that I have committed an offence entailing expulsion?” He informed the Master …
+*BD.1.173* *MS.713* At one time a certain bhikkhu declared final knowledge[^54] because of overestimation. He became anxious, thinking, “The Master has laid down a training rule. Could it be that I have committed an offence entailing expulsion?” He informed the Master …
 
-“There is no offence, monk, when it is due to overestimation.”
-
-* * *
-
-*Bu-Pj.4.8.2* *MS.714* At one time a certain monk *Vin.3.101* lived in the wilderness because he wanted[^55] people to esteem him.[^56] People esteemed him. He became anxious …
-
-“Monk, there is no offence entailing expulsion. But, monks, one should not live in the wilderness because of a wish.[^57] If one does, there is an offence of bad conduct.”
+“There is no offence, bhikkhu, when it is due to overestimation.”
 
 * * *
 
-*MS.715* At one time a certain monk was going for alms because he wanted people to esteem him. People esteemed him. He became anxious …
+*Bu-Pj.4.8.2* *MS.714* At one time a certain bhikkhu *Vin.3.101* lived in the wilderness because he wanted[^55] people to esteem him.[^56] People esteemed him. He became anxious …
 
-“Monk, there is no offence entailing expulsion. But, monks, one should not go for alms because of a wish. If one does, there is an offence of bad conduct.”
+“bhikkhu, there is no offence entailing expulsion. But, bhikkhus, one should not live in the wilderness because of a wish.[^57] If one does, there is an offence of bad conduct.”
 
 * * *
 
-*Bu-Pj.4.8.3* *MS.716* At one time a certain monk said to another monk, “Friend, those who are pupils of our preceptor are all _arahants_.” He became anxious … He informed the Master.
+*MS.715* At one time a certain bhikkhu was going for alms because he wanted people to esteem him. People esteemed him. He became anxious …
 
-“What was your intention, monk?”
+“bhikkhu, there is no offence entailing expulsion. But, bhikkhus, one should not go for alms because of a wish. If one does, there is an offence of bad conduct.”
+
+* * *
+
+*Bu-Pj.4.8.3* *MS.716* At one time a certain bhikkhu said to another bhikkhu, “Friend, those who are pupils of our preceptor are all _arahants_.” He became anxious … He informed the Master.
+
+“What was your intention, bhikkhu?”
 
 “I wanted to make a claim, Master.”
 
-“Monk, there is no offence entailing expulsion, but there is a serious offence.”
+“bhikkhu, there is no offence entailing expulsion, but there is a serious offence.”
 
 * * *
 
-*BD.1.174* *MS.717* At one time a certain monk said to another monk, “Friend, those who are the students of our preceptor are all of great psychic potency, of great power.” He became anxious …
+*BD.1.174* *MS.717* At one time a certain bhikkhu said to another bhikkhu, “Friend, those who are the students of our preceptor are all of great psychic potency, of great power.” He became anxious …
 
 “… but there is a serious offence.”
 
 * * *
 
-*Bu-Pj.4.8.4* *MS.718* At one time a certain monk walked up and down because he wanted people to esteem him … stood because he wanted people to esteem him … sat because he wanted people to esteem him … laid down because he wanted people to esteem him. People esteemed him. He became anxious … He informed the Master …
+*Bu-Pj.4.8.4* *MS.718* At one time a certain bhikkhu walked up and down because he wanted people to esteem him … stood because he wanted people to esteem him … sat because he wanted people to esteem him … laid down because he wanted people to esteem him. People esteemed him. He became anxious … He informed the Master …
 
-“Monk, there is no offence entailing expulsion. But, monks, one should not walk up and down … stand … sit … lie down because of a wish. If one does, there is an offence of bad conduct.”
-
-* * *
-
-*Bu-Pj.4.8.5* *MS.719* At one time a certain monk claimed a super-human achievement to another monk: “Friend, I have abandoned the fetters.” He became anxious … He informed the Master …
-
-“You, monk, have fallen into an offence entailing expulsion.”
+“bhikkhu, there is no offence entailing expulsion. But, bhikkhus, one should not walk up and down … stand … sit … lie down because of a wish. If one does, there is an offence of bad conduct.”
 
 * * *
 
-*Bu-Pj.4.8.6* *MS.720* At one time a certain monk claimed a super-human achievement in private.[^58] Another monk, knowing the mind of that monk, rebuked him: “Donʼt speak like that, friend, you havenʼt got it.” He became anxious … He informed the Master …
+*Bu-Pj.4.8.5* *MS.719* At one time a certain bhikkhu claimed a super-human achievement to another bhikkhu: “Friend, I have abandoned the fetters.” He became anxious … He informed the Master …
 
-“Monk, there is no offence entailing expulsion, but there is an offence of bad conduct.”
-
-* * *
-
-*MS.721* At one time *Vin.3.102* a certain monk claimed a super-human achievement in private. A god rebuked *BD.1.175* him: “Bhante,[^59] donʼt speak like that, you havenʼt got it.” He became anxious … He informed the Master …
-
-“Monk, there is no offence entailing expulsion, but there is an offence of bad conduct.”
+“You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.4.8.7* *MS.722* At one time a certain monk said to a certain lay-follower: “Friend, whatever monk lives in your dwelling is an _arahant_.” Now _he_ lived in that dwelling.[^60] He became anxious …
+*Bu-Pj.4.8.6* *MS.720* At one time a certain bhikkhu claimed a super-human achievement in private.[^58] Another bhikkhu, knowing the mind of that bhikkhu, rebuked him: “Donʼt speak like that, friend, you havenʼt got it.” He became anxious … He informed the Master …
 
-“What was your intention, monk?”
+“bhikkhu, there is no offence entailing expulsion, but there is an offence of bad conduct.”
+
+* * *
+
+*MS.721* At one time *Vin.3.102* a certain bhikkhu claimed a super-human achievement in private. A god rebuked *BD.1.175* him: “Bhante,[^59] donʼt speak like that, you havenʼt got it.” He became anxious … He informed the Master …
+
+“bhikkhu, there is no offence entailing expulsion, but there is an offence of bad conduct.”
+
+* * *
+
+*Bu-Pj.4.8.7* *MS.722* At one time a certain bhikkhu said to a certain lay-follower: “Friend, whatever bhikkhu lives in your dwelling is an _arahant_.” Now _he_ lived in that dwelling.[^60] He became anxious …
+
+“What was your intention, bhikkhu?”
 
 “I wanted to make a claim, Master.”
 
@@ -381,19 +381,19 @@ The monk Sobhita, _arahant_, can recall five hundred eons.
 
 * * *
 
-*MS.723* At one time a certain monk said to a certain lay-follower: “Friend, the one you attend on with the requisites of robes, alms-food, lodgings and medicines for the sick, he is an _arahant_.” Now he was the one who was attended on with those requisites. He became anxious …
+*MS.723* At one time a certain bhikkhu said to a certain lay-follower: “Friend, the one you attend on with the requisites of robes, alms-food, lodgings and medicines for the sick, he is an _arahant_.” Now he was the one who was attended on with those requisites. He became anxious …
 
 “ … but there is a serious offence.”
 
 * * *
 
-*Bu-Pj.4.8.8* At one time a certain monk was ill. The monks said to him: “Venerable Sir, do you have any super-human achievement?”
+*Bu-Pj.4.8.8* At one time a certain bhikkhu was ill. The bhikkhus said to him: “Venerable Sir, do you have any super-human achievement?”
 
 “Friends, it is not difficult to attain.”
 
 He became anxious and thought, “Those who are true disciples of the Master may speak thus, but I am not such a disciple.[^61] Could it be that I have committed an offence entailing expulsion?” He informed the Master.
 
-“What was your intention, monk?”
+“What was your intention, bhikkhu?”
 
 “I did not intend to make a claim, Master.”
 
@@ -401,11 +401,11 @@ He became anxious and thought, “Those who are true disciples of the Master may
 
 * * *
 
-*MS.724* At one time a certain monk was ill. The monks said to him: “Venerable Sir, do you have any super-human achievement?”
+*MS.724* At one time a certain bhikkhu was ill. The bhikkhus said to him: “Venerable Sir, do you have any super-human achievement?”
 
 “Friends, it is not difficult to declare final knowledge.” He became anxious … He informed the Master.
 
-“What was your intention, monk?”
+“What was your intention, bhikkhu?”
 
 “I did not intend to make a claim, Master.”[^63]
 
@@ -413,7 +413,7 @@ He became anxious and thought, “Those who are true disciples of the Master may
 
 * * *
 
-*Bu-Pj.4.8.9* *MS.725* At one time a certain monk was ill. The monks said to him: “Venerable Sir, do you have any super-human achievement?”
+*Bu-Pj.4.8.9* *MS.725* At one time a certain bhikkhu was ill. The bhikkhus said to him: “Venerable Sir, do you have any super-human achievement?”
 
 “Friends, an achievement is to reached by one who is energetic.” He became anxious … He informed the Master …
 
@@ -421,7 +421,7 @@ He became anxious and thought, “Those who are true disciples of the Master may
 
 * * *
 
-*MS.726* At one time a certain monk was ill. The monks said to him, “Friend, do not be afraid.”
+*MS.726* At one time a certain bhikkhu was ill. The bhikkhus said to him, “Friend, do not be afraid.”
 
 “Friends, I am not afraid of death.” He became anxious …
 
@@ -429,7 +429,7 @@ He became anxious and thought, “Those who are true disciples of the Master may
 
 * * *
 
-*MS.727* At one time *Vin.3.103* a certain monk was ill. The monks said to him: “Friend, do not be afraid.”
+*MS.727* At one time *Vin.3.103* a certain bhikkhu was ill. The bhikkhus said to him: “Friend, do not be afraid.”
 
 *BD.1.177* “Friends, one who is remorseful[^64] might be afraid.” He became anxious …
 
@@ -437,7 +437,7 @@ He became anxious and thought, “Those who are true disciples of the Master may
 
 * * *
 
-*MS.728* At one time a certain monk was ill. The monks said to him: “Venerable Sir, do you have any super-human achievement?”
+*MS.728* At one time a certain bhikkhu was ill. The bhikkhus said to him: “Venerable Sir, do you have any super-human achievement?”
 
 “Friends, an achievement is to be reached by one who is rightly intent.”[^65] He became anxious …
 
@@ -445,7 +445,7 @@ He became anxious and thought, “Those who are true disciples of the Master may
 
 * * *
 
-*MS.729* At one time a certain monk was ill …
+*MS.729* At one time a certain bhikkhu was ill …
 
 “Friends, an achievement is to be reached by one who is energetic.”[^66] He became anxious …
 
@@ -453,7 +453,7 @@ He became anxious and thought, “Those who are true disciples of the Master may
 
 * * *
 
-*MS.730* At one time a certain monk was ill …
+*MS.730* At one time a certain bhikkhu was ill …
 
 “Friends, an achievement is to be reached by one who is intent on exertion.”[^67] He became anxious …
 
@@ -461,7 +461,7 @@ He became anxious and thought, “Those who are true disciples of the Master may
 
 * * *
 
-*Bu-Pj.4.8.10* *MS.731* At one time a certain monk was ill. The monks said to him:
+*Bu-Pj.4.8.10* *MS.731* At one time a certain bhikkhu was ill. The bhikkhus said to him:
 
 “We hope, friend, that you are bearing up, we hope that you are comfortable?”
 
@@ -471,11 +471,11 @@ He became anxious and thought, “Those who are true disciples of the Master may
 
 * * *
 
-*MS.732* At one time a certain monk was ill …
+*MS.732* At one time a certain bhikkhu was ill …
 
 “Friends, it is not possible for an ordinary person to endure this.”[^68] He became anxious …
 
-“Monk, what was your intention?”
+“bhikkhu, what was your intention?”
 
 “I intended to make a claim, Master.”
 
@@ -483,63 +483,63 @@ He became anxious and thought, “Those who are true disciples of the Master may
 
 * * *
 
-*Bu-Pj.4.8.11* *MS.733* At one time a certain brahmin invited the monks: “Let the good sirs, the _arahants_, come.”[^69]
+*Bu-Pj.4.8.11* *MS.733* At one time a certain brahmin invited the bhikkhus: “Let the good sirs, the _arahants_, come.”[^69]
 
 They became anxious and said: “But we are not _arahants_, and yet this brahmin addresses us as if we were. What should we do?” They informed the Master.
 
-“Monks, there is no offence in regard to what is spoken in faith.”
+“bhikkhus, there is no offence in regard to what is spoken in faith.”
 
 * * *
 
-*BD.1.179* *MS.734* At one time a certain brahmin invited the monks: “Let the good sirs, the _arahants_, be seated … Let the good sirs, the _arahants_, eat … Let the good sirs, the _arahants_, be satisfied … Let the good sirs, the _arahants_, go” …
+*BD.1.179* *MS.734* At one time a certain brahmin invited the bhikkhus: “Let the good sirs, the _arahants_, be seated … Let the good sirs, the _arahants_, eat … Let the good sirs, the _arahants_, be satisfied … Let the good sirs, the _arahants_, go” …
 
 They became anxious and said …
 
-“Monks, there is no offence in regard to what is spoken in faith.”[^70]
+“bhikkhus, there is no offence in regard to what is spoken in faith.”[^70]
 
 * * *
 
-*Bu-Pj.4.8.12* *MS.735* At one time a certain monk claimed a super-human achievement to another monk: “Friend, I have abandoned the corruptions.” He became anxious …
+*Bu-Pj.4.8.12* *MS.735* At one time a certain bhikkhu claimed a super-human achievement to another bhikkhu: “Friend, I have abandoned the corruptions.” He became anxious …
 
-“You, monk, have fallen into an offence entailing expulsion.”
-
-* * *
-
-*MS.736* At *Vin.3.104* one time a certain monk … “Friend, I have these qualities.” He became anxious …
-
-“You, monk, have committed an offence entailing expulsion.”
+“You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 * * *
 
-*MS.737* At one time a certain monk … “Friend, I conform to these qualities.” He became anxious …
+*MS.736* At *Vin.3.104* one time a certain bhikkhu … “Friend, I have these qualities.” He became anxious …
 
-“You, monk, have committed an offence entailing expulsion.”
+“You, bhikkhu, have committed an offence entailing expulsion.”
 
 * * *
 
-*Bu-Pj.4.8.13* *MS.738* At one time the relations of a certain monk said to him: “Come, bhante, live in a house.”
+*MS.737* At one time a certain bhikkhu … “Friend, I conform to these qualities.” He became anxious …
+
+“You, bhikkhu, have committed an offence entailing expulsion.”
+
+* * *
+
+*Bu-Pj.4.8.13* *MS.738* At one time the relations of a certain bhikkhu said to him: “Come, bhante, live in a house.”
 
 “Friends, one like me is incapable of living in a house.” He became anxious …
 
-“There is no offence, monk, for one who does not intend to make a claim.”
+“There is no offence, bhikkhu, for one who does not intend to make a claim.”
 
 * * *
 
-*MS.739* At one time the relations of a certain monk said to him: “Come, bhante, enjoy the pleasures of the senses.”
+*MS.739* At one time the relations of a certain bhikkhu said to him: “Come, bhante, enjoy the pleasures of the senses.”
 
 “Friends, the pleasures of the senses have been rejected by me.”[^71] He became anxious …
 
-*BD.1.180* “There is no offence, monk, for one who does not intend to make a claim.”
+*BD.1.180* “There is no offence, bhikkhu, for one who does not intend to make a claim.”
 
 * * *
 
-*MS.740* At one time the relations of a certain monk said to him: “Come, bhante, enjoy yourself.”[^72]
+*MS.740* At one time the relations of a certain bhikkhu said to him: “Come, bhante, enjoy yourself.”[^72]
 
 “Friends, I am enjoying myself with the highest enjoyment.”[^73]
 
 He became anxious, thinking: “Those who are true disciple of the Master may speak thus, but I am not such a disciple.[^74] Could it be that I have committed an offence entailing expulsion?” He informed the Master.
 
-“Monk, what was your intention?”
+“bhikkhu, what was your intention?”
 
 “I did not intend to make a claim, Master.”
 
@@ -547,11 +547,11 @@ He became anxious, thinking: “Those who are true disciple of the Master may sp
 
 * * *
 
-*Bu-Pj.4.8.14* *MS.741* At one time a number of monks entered the rains in a certain monastery, making this agreement: “Whoever sets out from this monastery first, we will know as an _arahant_.”
+*Bu-Pj.4.8.14* *MS.741* At one time a number of bhikkhus entered the rains in a certain monastery, making this agreement: “Whoever sets out from this monastery first, we will know as an _arahant_.”
 
-A certain monk thought, “let them know me as an _arahant_,” and he set out first from that monastery. He became anxious. He informed the Master …
+A certain bhikkhu thought, “let them know me as an _arahant_,” and he set out first from that monastery. He became anxious. He informed the Master …
 
-“You, monk, have fallen into an offence entailing expulsion.”
+“You, bhikkhu, have fallen into an offence entailing expulsion.”
 
 ### Case details, part 2
 
@@ -569,157 +569,157 @@ A certain monk thought, “let them know me as an _arahant_,” and he set out f
 
 “As I was coming down from *BD.1.182* Mount Vultureʼs Peak, I saw a skeleton flying through the air,[^77] and vultures, crows and hawks[^78] were in close pursuit, striking it[^79] between the ribs,[^80] while it uttered cries of distress. Then, friend, I thought how amazing and astounding it is that such a being should exist, such a spirit, such a state of existence.”[^81]
 
-The monks criticized and denounced him: “Venerable Mahāmoggallāna is claiming a super-human achievement.”[^82]
+The bhikkhus criticized and denounced him: “Venerable Mahāmoggallāna is claiming a super-human achievement.”[^82]
 
-*MS.745* Then the Master addressed the monks:
+*MS.745* Then the Master addressed the bhikkhus:
 
-Monks, there are disciples who possess vision and knowledge,[^83] such that they can see, know and witness such a thing. Previously I too have seen that being, but I didnʼt speak about it. If I had, others would not have believed me and that would have been for their harm and suffering for long time. *BD.1.183* That being, monks, was a cattle butcher[^84] in this very Rājagaha. As a result of his deeds he was tormented[^85] in hell for many years, for many hundreds of years, for many thousands of years, for many hundreds of thousands of years. And now, because of the remaining result of his actions, he is experiencing such a state of existence. Moggallāna spoke truly. There is no offence for Moggallāna.”[^86]
+bhikkhus, there are disciples who possess vision and knowledge,[^83] such that they can see, know and witness such a thing. Previously I too have seen that being, but I didnʼt speak about it. If I had, others would not have believed me and that would have been for their harm and suffering for long time. *BD.1.183* That being, bhikkhus, was a cattle butcher[^84] in this very Rājagaha. As a result of his deeds he was tormented[^85] in hell for many years, for many hundreds of years, for many thousands of years, for many hundreds of thousands of years. And now, because of the remaining result of his actions, he is experiencing such a state of existence. Moggallāna spoke truly. There is no offence for Moggallāna.”[^86]
 
 * * *
 
 *Bu-Pj.4.9.3* *MS.746* “As I was coming down from Mount Vultureʼs Peak, I saw a lump of flesh flying through the air, and vultures, crows and hawks were in close pursuit, tearing at it and pulling it to pieces, while it uttered cries of distress.” *Vin.3.106* …
 
-“Monks, that being was a cattle-butcher in this very Rājagaha. …”
+“bhikkhus, that being was a cattle-butcher in this very Rājagaha. …”
 
 * * *
 
 *MS.747* “As I was coming down from Mount Vultureʼs Peak, I saw a morsel of flesh flying through the air, and vultures, crows and *BD.1.184* hawks were in close pursuit, tearing at it and pulling it to pieces,[^87] while it uttered cries of distress.” …
 
-“Monks, that being was a poultry butcher[^88] in this very Rājagaha. …”
+“bhikkhus, that being was a poultry butcher[^88] in this very Rājagaha. …”
 
 * * *
 
 *MS.748* “As I was coming down from Mount Vultureʼs Peak, I saw a flayed man flying through the air, and vultures, crows and hawks were in close pursuit, tearing at him and pulling him to pieces, while he uttered cries of distress.” …
 
-“Monks, that being was a sheep-butcher[^89] in this very Rājagaha. …”
+“bhikkhus, that being was a sheep-butcher[^89] in this very Rājagaha. …”
 
 * * *
 
 *MS.749* “As I was coming down from Mount Vultureʼs Peak, I saw a man who had body hairs of swords flying through the air. Again and again those sword went in and out of his body, while he uttered cries of distress.” …
 
-“Monks, that being was a butcher of pigs[^90] in this very Rājagaha. …”
+“bhikkhus, that being was a butcher of pigs[^90] in this very Rājagaha. …”
 
 * * *
 
 *MS.750* “As I was coming down … I saw a man with body hairs of knives flying through the air. Again and again those knives went in and out of his body, while he uttered cries of distress.” …
 
-“Monks, that being was a deer-hunter[^91] in this very Rājagaha. …”
+“bhikkhus, that being was a deer-hunter[^91] in this very Rājagaha. …”
 
 * * *
 
 *MS.751* “As I was coming down … I saw a man with body hairs of arrows flying through the air. Again and again those arrows …
 
-“Monks, that being was a torturer[^92] in this very Rājagaha. …”
+“bhikkhus, that being was a torturer[^92] in this very Rājagaha. …”
 
 * * *
 
 *BD.1.185* *MS.752* As I was coming down … I saw a man with body hair of needles flying through the air. Again and again those needles …
 
-“Monks, that being was a horse trainer[^93] in this very Rājagaha. …”
+“bhikkhus, that being was a horse trainer[^93] in this very Rājagaha. …”
 
 * * *
 
 *MS.753* “As I was coming down … I saw a man with body hairs of needles flying through the air. Those needles pierced his head and came out through his mouth, entered his mouth and came out through his breast, entered his breast and came out through his stomach, entered his stomach and came out through his thighs, entered his thighs and came out through his calves, entered his calves and came out through his feet, while he uttered cries of distress.” …
 
-“Monks, that being was a slanderer in this very Rājagaha. …”
+“bhikkhus, that being was a slanderer in this very Rājagaha. …”
 
 * * *
 
 *MS.754* “As I was coming down … I saw a man who had testicles like pots[^94] flying through the air. When he walked, he had to lift his testicles on to his shoulder, when he sat down he sat on top of his testicles. Vultures, crows and hawks were in close pursuit, tearing at him and pulling him to pieces, while he uttered cries of distress.” …
 
-“Monks, that being was a corrupt magistrate in this very Rājagaha. …”
+“bhikkhus, that being was a corrupt magistrate in this very Rājagaha. …”
 
 * * *
 
 *MS.755* “As I was coming down … I saw a man, head and all, submerged in a dung-pit …” *BD.1.186*
 
-“Monks, that being was an adulterer in this very Rājagaha. …”
+“bhikkhus, that being was an adulterer in this very Rājagaha. …”
 
 * * *
 
 *MS.756* “As I was coming down *Vin.3.107* … I saw a man, head and all, submerged in a dung-pit and eating dung with both hands …”
 
-“Monks, that being was a wicked brahmin in this very Rājagaha. At the time of Kassapa, the fully Awakened One, he invited the Sangha of monks to a meal. He filled a trough with dung, announced the time and said: ʻSirs, eat as much as you like and take the rest away with you.ʼ …
+“bhikkhus, that being was a wicked brahmin in this very Rājagaha. At the time of Kassapa, the fully Awakened One, he invited the Sangha of bhikkhus to a meal. He filled a trough with dung, announced the time and said: ʻSirs, eat as much as you like and take the rest away with you.ʼ …
 
 * * *
 
 *MS.757* “As I was coming down … I saw a flayed woman flying through the air. Vultures … were pulling her to pieces, while she uttered cries of distress …”
 
-“Monks, this woman was an adulteress[^95] in this very Rājagaha. …”
+“bhikkhus, this woman was an adulteress[^95] in this very Rājagaha. …”
 
 * * *
 
 *MS.758* “As I was coming down … I saw a foul-smelling and ugly woman flying through the air. Vultures … were pulling her to pieces …”
 
-“Monks, that woman was a fortune-teller[^96] in this very Rājagaha. …”
+“bhikkhus, that woman was a fortune-teller[^96] in this very Rājagaha. …”
 
 * * *
 
 *MS.759* “As I was coming down … I saw a woman who was roasting, sweltering and sooty[^97] flying through the air … while she uttered cries of distress.” …
 
-“Monks, this woman was the chief queen of the King of Kālinga. Being the jealous sort, she threw out her rival[^98] and scattered a brazier of burning coals over her. …”
+“bhikkhus, this woman was the chief queen of the King of Kālinga. Being the jealous sort, she threw out her rival[^98] and scattered a brazier of burning coals over her. …”
 
 * * *
 
 *BD.1.187* *MS.760* “As I was coming down … I saw the headless trunk of a body flying through the air. Its eyes and mouth were on its chest. Vultures … were pulling it to pieces while it uttered cries of distress.” …
 
-“Monks, that being was an executioner called Hārika[^99] in this very Rājagaha. …”
+“bhikkhus, that being was an executioner called Hārika[^99] in this very Rājagaha. …”
 
 * * *
 
-*MS.761* “As I was coming down … I saw a monk flying through the air. His outer robe was ablaze and burning,[^100] his bowl was ablaze and burning, his waistband was ablaze and burning, his body was ablaze and burning, and he was uttering cries of distress.” …
+*MS.761* “As I was coming down … I saw a bhikkhu flying through the air. His outer robe was ablaze and burning,[^100] his bowl was ablaze and burning, his waistband was ablaze and burning, his body was ablaze and burning, and he was uttering cries of distress.” …
 
-“Monks, during the time of the Buddha Kassapaʼs dispensation, that monk was a bad monk.”[^101]
-
-* * *
-
-*MS.762* “As I was coming down … I saw a nun … I saw a probationary nun … a novice monk … a novice nun[^102] flying through the air. Her outer robe was ablaze and burning, her bowl was ablaze and burning, her waistband was ablaze and burning, her body was ablaze and burning, and she was uttering cries of distress. Then, friend, I thought how amazing and astounding it is that such a being should exist, such a spirit, such a state of existence.”
-
-The monks criticised and denounced him: “Venerable Moggallāna is claiming a super-human achievement.”[^103]
-
-*MS.763* Then the Master addressed the monks:
-
-“Monks, there are disciples who possess *BD.1.188* vision and knowledge *Vin.3.108* such that they can see, know and witness such a thing. Previously, monks, I too have seen this novice nun, but I did not speak about it. If I had, others would not have believed me and that would have been for their harm and suffering for long time. During the time of Buddha Kassapaʼs dispensation, that novice nun was a bad novice nun. As a result of her deeds, she was tormented in hell for many years, for many hundreds of years, for many thousands of years, for many hundreds of thousands of years. And now, because of the remaining result of her actions, she is experiencing such a state of existence. Moggallāna spoke truly. There is no offence for Moggallāna.”
+“bhikkhus, during the time of the Buddha Kassapaʼs dispensation, that bhikkhu was a bad bhikkhu.”[^101]
 
 * * *
 
-*Bu-Pj.4.9.4* Then Venerable Mahāmoggallāna addressed the monks:
+*MS.762* “As I was coming down … I saw a nun … I saw a probationary nun … a novice bhikkhu … a novice nun[^102] flying through the air. Her outer robe was ablaze and burning, her bowl was ablaze and burning, her waistband was ablaze and burning, her body was ablaze and burning, and she was uttering cries of distress. Then, friend, I thought how amazing and astounding it is that such a being should exist, such a spirit, such a state of existence.”
+
+The bhikkhus criticised and denounced him: “Venerable Moggallāna is claiming a super-human achievement.”[^103]
+
+*MS.763* Then the Master addressed the bhikkhus:
+
+“bhikkhus, there are disciples who possess *BD.1.188* vision and knowledge *Vin.3.108* such that they can see, know and witness such a thing. Previously, bhikkhus, I too have seen this novice nun, but I did not speak about it. If I had, others would not have believed me and that would have been for their harm and suffering for long time. During the time of Buddha Kassapaʼs dispensation, that novice nun was a bad novice nun. As a result of her deeds, she was tormented in hell for many years, for many hundreds of years, for many thousands of years, for many hundreds of thousands of years. And now, because of the remaining result of her actions, she is experiencing such a state of existence. Moggallāna spoke truly. There is no offence for Moggallāna.”
+
+* * *
+
+*Bu-Pj.4.9.4* Then Venerable Mahāmoggallāna addressed the bhikkhus:
 
 *MS.764* “Friends, this stream the Tapodā flows from a lake with beautiful water—cool, sweat and pure—with lovely and charming fords, with an abundance of fishes and turtles, and with blooming lotuses the size of wheels. And yet the Tapodā is hot.”
 
-The monks criticised and denounced him: “How can the Venerable Mahāmoggallāna say, ʻFriends, this stream the Tapodā flows from a lake of beautiful water … And yet this Tapodā is hot.ʼ Venerable Mahāmoggallāna is claiming a super-human achievement.” And they informed the Master.
+The bhikkhus criticised and denounced him: “How can the Venerable Mahāmoggallāna say, ʻFriends, this stream the Tapodā flows from a lake of beautiful water … And yet this Tapodā is hot.ʼ Venerable Mahāmoggallāna is claiming a super-human achievement.” And they informed the Master.
 
-“Monks, the Tapodā flows from a lake of beautiful water … with blooming lotuses the size of wheels. But the Tapodā runs between the two great hells,[^104] that is why it is *BD.1.189* hot. Moggallāna spoke truly. There is no offence for Moggallāna.”
+“bhikkhus, the Tapodā flows from a lake of beautiful water … with blooming lotuses the size of wheels. But the Tapodā runs between the two great hells,[^104] that is why it is *BD.1.189* hot. Moggallāna spoke truly. There is no offence for Moggallāna.”
 
 * * *
 
 *Bu-Pj.4.9.5* *MS.765* At one time King Seniya Bimbisāra of Magadha was defeated in battle with the Licchavis. Then the king collected his armies and beat the Licchavis. Delight about the battle spread about: “The Licchavis were defeated by the king!”
 
-Then the Venerable Mahāmoggallāna addressed the monks: “Friends, the king was defeated by the Licchavis.”
+Then the Venerable Mahāmoggallāna addressed the bhikkhus: “Friends, the king was defeated by the Licchavis.”
 
-The monks criticised and denounced him: “How can Venerable Moggallāna say, ʻFriends, the king was defeated by the Licchavis,ʼ when delight about the battle is spreading about thus: ʻThe Licchavis were defeated by the king!ʼ The Venerable Mahāmoggallāna is claiming a super-human achievement.” They informed the Master.
+The bhikkhus criticised and denounced him: “How can Venerable Moggallāna say, ʻFriends, the king was defeated by the Licchavis,ʼ when delight about the battle is spreading about thus: ʻThe Licchavis were defeated by the king!ʼ The Venerable Mahāmoggallāna is claiming a super-human achievement.” They informed the Master.
 
-“Monks, first the king was defeated by the Licchavis *Vin.3.109* and then, after he had collected his army, the king beat the Licchavis. Moggallāna spoke truly. There is no offence for Moggallāna.”
-
-* * *
-
-*Bu-Pj.4.9.6* *MS.766* Then the Venerable Mahāmoggallāna addressed the monks: “Friends, after attaining an imperturbable _samādhi_ on the banks of the river Sappinikā,[^105] I heard the noise of elephants plunging in, emerging and trumpeting.”[^106]
-
-The monks criticised and denounced him: “How can Venerable Mahāmoggallāna say *BD.1.190* such a thing. He is claiming a super-human achievement.” They informed the Master.
-
-“Monks, there is such a _samādhi_, but it is not wholly purified.[^107] Moggallāna spoke truly. There is no offence for Moggallāna.”
+“bhikkhus, first the king was defeated by the Licchavis *Vin.3.109* and then, after he had collected his army, the king beat the Licchavis. Moggallāna spoke truly. There is no offence for Moggallāna.”
 
 * * *
 
-*Bu-Pj.4.9.7* *MS.767* Then the Venerable Sobhita[^108] addressed the monks: “Friends, I can recall five hundred eons.”
+*Bu-Pj.4.9.6* *MS.766* Then the Venerable Mahāmoggallāna addressed the bhikkhus: “Friends, after attaining an imperturbable _samādhi_ on the banks of the river Sappinikā,[^105] I heard the noise of elephants plunging in, emerging and trumpeting.”[^106]
 
-The monks criticised and denounced him: “How can Venerable Sobhita say, ʻI can recall five hundred eonsʼ? He is claiming a super-human achievement.” They informed the Master.
+The bhikkhus criticised and denounced him: “How can Venerable Mahāmoggallāna say *BD.1.190* such a thing. He is claiming a super-human achievement.” They informed the Master.
 
-“Monks, Sobhita has this ability, and that was just one birth. Sobhita spoke truly. There is no offence for Sobhita.”
+“bhikkhus, there is such a _samādhi_, but it is not wholly purified.[^107] Moggallāna spoke truly. There is no offence for Moggallāna.”
+
+* * *
+
+*Bu-Pj.4.9.7* *MS.767* Then the Venerable Sobhita[^108] addressed the bhikkhus: “Friends, I can recall five hundred eons.”
+
+The bhikkhus criticised and denounced him: “How can Venerable Sobhita say, ʻI can recall five hundred eonsʼ? He is claiming a super-human achievement.” They informed the Master.
+
+“bhikkhus, Sobhita has this ability, and that was just one birth. Sobhita spoke truly. There is no offence for Sobhita.”
 
 *MS.768* The fourth offence entailing expulsion is finished.
 
-*MS.769* Venerables, the four rules entailing expulsion have been recited. If a monk commits any one of them, he is no longer in communion with the monks. As before,[^109] so after, he is expelled and not *BD.1.191* in communion. In regard to this I ask the Venerable ones: are you pure in this? A second time I ask: are you pure in this? A third time I ask: are you pure in this? The Venerable ones are pure in this and therefore silent. I will remember it thus.
+*MS.769* Venerables, the four rules entailing expulsion have been recited. If a bhikkhu commits any one of them, he is no longer in communion with the bhikkhus. As before,[^109] so after, he is expelled and not *BD.1.191* in communion. In regard to this I ask the Venerable ones: are you pure in this? A second time I ask: are you pure in this? A third time I ask: are you pure in this? The Venerable ones are pure in this and therefore silent. I will remember it thus.
 
 *MS.772* Sexual intercourse, stealing, person, super,  
   
@@ -743,7 +743,7 @@ the four offences entailing expulsion, the foundation is cut[^110] without a dou
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

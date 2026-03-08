@@ -15,19 +15,19 @@ language: "Pali - English"
 
 274. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto bhātuno saddhivihārikaṃ bhikkhuṃ etadavoca – ‘‘ehāvuso, gāmaṃ piṇḍāya pavisissāmā’’ti. Tassa adāpetvā uyyojesi – ‘‘gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī’’ti. Atha kho so bhikkhu upakaṭṭhe kāle nāsakkhi piṇḍāya carituṃ, paṭikkamanepi bhattavissaggaṃ na sambhāvesi, chinnabhatto ahosi. Atha kho so bhikkhu ārāmaṃ gantvā bhikkhūnaṃ etamatthaṃ ārocesi. Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti – ‘‘kathañhi nāma āyasmā upanando sakyaputto bhikkhuṃ – ‘ehāvuso, gāmaṃ piṇḍāya pavisissāmā’ti tassa adāpetvā uyyojessatī’’ti …pe… saccaṃ kira tvaṃ, upananda, bhikkhuṃ – ‘‘ehāvuso, gāmaṃ piṇḍāya pavisissāmā’’ti tassa adāpetvā uyyojesīti? ‘‘Saccaṃ, bhagavā’’ti. Vigarahi buddho bhagavā…pe… kathañhi nāma tvaṃ, moghapurisa, bhikkhuṃ – ‘‘ehāvuso, gāmaṃ piṇḍāya pavisissāmā’’ti tassa adāpetvā uyyojessasi! Netaṃ, moghapurisa, appasannānaṃ vā pasādāya…pe… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha –
 
-274.At that time the Blessed One was dwelling at Sāvatthī in Jeta Grove, Anāthapiṇḍika’s Monastery. Now at that time the Venerable Upananda the Sakyan said to a monk, his brother’s fellow resident: “Come, friend, let us enter the village for alms.” Without causing him to obtain alms, he dismissed him, saying: “Go, friend, conversation or sitting together with you is not pleasant for me; conversation or sitting alone is pleasant for me.” Then that monk, near mealtime, was unable to go for alms, and at the dining hall he did not obtain a meal; he missed his meal. Then that monk, having gone to the monastery, informed the monks about this matter. Those monks who were modest… they complained and criticized, saying: “How could the Venerable Upananda the Sakyan, having said to a monk, ‘Come, friend, let us enter the village for alms,’ dismiss him without causing him to obtain alms?” … “Is it true, Upananda, that you dismissed a monk after saying, ‘Come, friend, let us enter the village for alms,’ without causing him to obtain alms?” “It is true, Blessed One.” The Blessed One rebuked him… “How could you, foolish man, dismiss a monk after saying, ‘Come, friend, let us enter the village for alms,’ without causing him to obtain alms? This will not lead to faith in those who are without it… And thus, monks, this training rule should be recited:
+274.At that time the Blessed One was dwelling at Sāvatthī in Jeta Grove, Anāthapiṇḍika’s Monastery. Now at that time the Venerable Upananda the Sakyan said to a bhikkhu, his brother’s fellow resident: “Come, friend, let us enter the village for alms.” Without causing him to obtain alms, he dismissed him, saying: “Go, friend, conversation or sitting together with you is not pleasant for me; conversation or sitting alone is pleasant for me.” Then that bhikkhu, near mealtime, was unable to go for alms, and at the dining hall he did not obtain a meal; he missed his meal. Then that bhikkhu, having gone to the monastery, informed the bhikkhus about this matter. Those bhikkhus who were modest… they complained and criticized, saying: “How could the Venerable Upananda the Sakyan, having said to a bhikkhu, ‘Come, friend, let us enter the village for alms,’ dismiss him without causing him to obtain alms?” … “Is it true, Upananda, that you dismissed a bhikkhu after saying, ‘Come, friend, let us enter the village for alms,’ without causing him to obtain alms?” “It is true, Blessed One.” The Blessed One rebuked him… “How could you, foolish man, dismiss a bhikkhu after saying, ‘Come, friend, let us enter the village for alms,’ without causing him to obtain alms? This will not lead to faith in those who are without it… And thus, bhikkhus, this training rule should be recited:
 
 275. ‘‘Yo pana bhikkhu bhikkhuṃ – ‘‘ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā’ti tassa dāpetvā vā adāpetvā vā uyyojeyya – ‘gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī’ti, etadeva paccayaṃ karitvā anaññaṃ, pācittiya’’nti.
 
-275.“If a monk should say to another monk, ‘Come, friend, let us enter a village or a market town for alms,’ and then, whether he has caused him to obtain alms or not, dismisses him, saying, ‘Go, friend, I find no ease in speaking or sitting with you; I find ease in speaking or sitting alone,’ doing so for this reason alone and for no other reason, there is an offense entailing confession.”
+275.“If a bhikkhu should say to another bhikkhu, ‘Come, friend, let us enter a village or a market town for alms,’ and then, whether he has caused him to obtain alms or not, dismisses him, saying, ‘Go, friend, I find no ease in speaking or sitting with you; I find ease in speaking or sitting alone,’ doing so for this reason alone and for no other reason, there is an offense entailing confession.”
 
 276. Yo panāti yo, yādiso…pe… bhikkhūti…pe… ayaṃ imasmiṃ atthe adhippeto bhikkhūti.
 
-276.“Whoever” means whoever, of whatever sort… “Monk”… in this connection, a monk is intended.
+276.“Whoever” means whoever, of whatever sort… “bhikkhu”… in this connection, a bhikkhu is intended.
 
 Bhikkhunti aññaṃ bhikkhuṃ.
 
-“Monk” means another monk.
+“bhikkhu” means another bhikkhu.
 
 Ehāvuso, gāmaṃ vā nigamaṃ vāti gāmopi nigamopi nagarampi, gāmo ceva nigamo ca.
 
@@ -43,7 +43,7 @@ Adāpetvāti na kiñci dāpetvā.
 
 Uyyojeyyāti mātugāmena saddhiṃ hasitukāmo kīḷitukāmo raho nisīditukāmo anācāraṃ ācaritukāmo evaṃ vadeti – ‘‘gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī’’ti uyyojeti, āpatti dukkaṭassa. Dassanūpacāraṃ vā savanūpacāraṃ vā vijahantassa āpatti dukkaṭassa. Vijahite, āpatti pācittiyassa.
 
-“He dismisses” means desiring to laugh, play, sit in private, or behave improperly with a woman, he says, “Go, friend, it is not comfortable for me to talk or sit with you; it is comfortable for me to talk or sit alone”—he dismisses him, there is an offense of wrong conduct. If he dismisses him while the other monk is abandoning the range of sight or the range of hearing, there is an offense of wrong conduct. When the other monk has abandoned (the range), there is an offense entailing confession.
+“He dismisses” means desiring to laugh, play, sit in private, or behave improperly with a woman, he says, “Go, friend, it is not comfortable for me to talk or sit with you; it is comfortable for me to talk or sit alone”—he dismisses him, there is an offense of wrong conduct. If he dismisses him while the other bhikkhu is abandoning the range of sight or the range of hearing, there is an offense of wrong conduct. When the other bhikkhu has abandoned (the range), there is an offense entailing confession.
 
 Etadeva paccayaṃ karitvā anaññanti na añño koci paccayo hoti uyyojetuṃ.
 
@@ -51,7 +51,7 @@ Etadeva paccayaṃ karitvā anaññanti na añño koci paccayo hoti uyyojetuṃ.
 
 277. Upasampanne upasampannasaññī uyyojeti, āpatti pācittiyassa. Upasampanne vematiko uyyojeti, āpatti pācittiyassa. Upasampanne anupasampannasaññī uyyojeti, āpatti pācittiyassa.
 
-277.If he dismisses a fully ordained monk, perceiving him to be fully ordained, there is an offense entailing confession. If he dismisses a fully ordained monk, being in doubt about him, there is an offense entailing confession. If he dismisses a fully ordained monk, perceiving him to be not fully ordained, there is an offense entailing confession.
+277.If he dismisses a fully ordained bhikkhu, perceiving him to be fully ordained, there is an offense entailing confession. If he dismisses a fully ordained bhikkhu, being in doubt about him, there is an offense entailing confession. If he dismisses a fully ordained bhikkhu, perceiving him to be not fully ordained, there is an offense entailing confession.
 
 Kalisāsanaṃ āropeti, āpatti dukkaṭassa. Anupasampannaṃ uyyojeti, āpatti dukkaṭassa. Kalisāsanaṃ āropeti, āpatti dukkaṭassa. Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko, āpatti dukkaṭassa. Anupasampanne anupasampannasaññī, āpatti dukkaṭassa.
 

@@ -36,7 +36,7 @@ Soon afterwards another monk also committed an offense of intentional emission o
 
 “Yes.”
 
-3That monk then told other monks. The monks of few desires complained and criticized him:
+3That monk then told other bhikkhus. The bhikkhus of few desires complained and criticized him:
 
 “How could a monk knowingly conceal a monk’s grave offense?” …
 
@@ -45,7 +45,7 @@ Soon afterwards another monk also committed an offense of intentional emission o
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -76,7 +76,7 @@ If it is a minor offense, but he is unsure of it, he commits an offense of wrong
 
 #### Non-offenses
 
-11There is no offense: if he does not tell because he thinks there will be quarrels or disputes in the Sangha; if he does not tell because he thinks there will be a fracture or schism in the Sangha; if he does not tell because he thinks the person he is telling about is cruel and harsh and that he might become a threat to life or to the monastic life; if he does not tell because he does not see any suitable monks; if he does not tell, but not because he wants to conceal; if he does not tell because he thinks the other person will be known through his own actions; if he is insane; if he is the first offender.
+11There is no offense: if he does not tell because he thinks there will be quarrels or disputes in the Sangha; if he does not tell because he thinks there will be a fracture or schism in the Sangha; if he does not tell because he thinks the person he is telling about is cruel and harsh and that he might become a threat to life or to the monastic life; if he does not tell because he does not see any suitable bhikkhus; if he does not tell, but not because he wants to conceal; if he does not tell because he thinks the other person will be known through his own actions; if he is insane; if he is the first offender.
 
 12The training rule on what is grave, the fourth, is finished.
 

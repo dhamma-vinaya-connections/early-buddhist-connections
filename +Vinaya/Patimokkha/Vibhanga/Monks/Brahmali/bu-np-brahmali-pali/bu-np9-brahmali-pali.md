@@ -32,7 +32,7 @@ An alms-collecting monk heard that conversation. He then went to Upananda the Sa
 
 Those men complained and criticized him, “These Sakyan monastics have great desires. They’re not content. It’s no easy matter to give them robe-cloth. How could Venerable Upananda come to us and say what kind of robe-cloth he wants without first being invited by us to do so?”
 
-3The monks heard the complaints of those men, and the monks of few desires complained and criticized him, “How could Venerable Upananda go to householders and say what kind of robe-cloth he wants without first being invited to do so?”
+3The bhikkhus heard the complaints of those men, and the bhikkhus of few desires complained and criticized him, “How could Venerable Upananda go to householders and say what kind of robe-cloth he wants without first being invited to do so?”
 
 4After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Upananda: “Is it true, Upananda, that you did this?”
 
@@ -43,7 +43,7 @@ Those men complained and criticized him, “These Sakyan monastics have great de
 “No.”
 
 
-“Foolish man, people who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“Foolish man, people who are unrelated don’t know what’s appropriate and inappropriate, what’s good and bad, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -99,7 +99,7 @@ Those men complained and criticized him, “These Sakyan monastics have great de
 
 The robe-cloth should be relinquished to a saṅgha, a group, or an individual.
 
-“And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+“And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this robe-cloth, which I received after going to unrelated householders and saying what kind of robe-cloth I wanted without first being invited, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe-cloth back to you.’”

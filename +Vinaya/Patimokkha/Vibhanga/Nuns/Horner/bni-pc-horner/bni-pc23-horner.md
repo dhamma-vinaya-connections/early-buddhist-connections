@@ -17,13 +17,13 @@ language: "English"
 
 Then that nun, having unsewn that robe, gave it to the nun Thullanandā. The nun Thullanandā, thinking: “I will sew it, I will sew it,” neither sewed it nor made an effort[^1] to get it sewn. Then that nun told this matter to the nuns. Those who were modest nuns … spread it about, saying: “How can the lady Thullanandā, having had a nun’s robe unsewn, neither sew it nor make an effort to get it sewn?” …
 
-“Is it true, as is said, monks, that the Thullanandā, having had a nun’s robe unsewn, neither sewed it nor made an effort to get it sewn?”
+“Is it true, as is said, bhikkhus, that the Thullanandā, having had a nun’s robe unsewn, neither sewed it nor made an effort to get it sewn?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā … nor make an effort to get it sewn? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā … nor make an effort to get it sewn? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, having unsewn or having made (another) unsew a nun’s robe, if she is not afterwards prevented should neither sew it nor should make an effort to get it sewn, except on the fourth and fifth days, there is an offence of expiation.”
 

@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Faithful, ethical, learned, secluded, energetic, mindful, and wise
 > 
-> Mendicant with seven qualities soon realizes the supreme culmination of the spiritual path in this very life
+> bhikkhu with seven qualities soon realizes the supreme culmination of the spiritual path in this very life
 > 
 
 

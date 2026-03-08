@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when a mendicant has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements. What four? Thoughts of renunciation, good will, and harmlessness; and right view. When a mendicant has these four things their practice is guaranteed, and they have laid the groundwork for ending the defilements.”
+1“bhikkhus, when a bhikkhu has four things their practice is guaranteed, and they have laid the groundwork for ending the defilements. What four? Thoughts of renunciation, good will, and harmlessness; and right view. When a bhikkhu has these four things their practice is guaranteed, and they have laid the groundwork for ending the defilements.”
 
 1"Catūhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāya. Katamehi catūhi? Nekkhammavitakkena, abyāpādavitakkena, avihiṁsāvitakkena, sammādiṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu apaṇṇakappaṭipadaṁ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṁ khayāyā"ti.
 

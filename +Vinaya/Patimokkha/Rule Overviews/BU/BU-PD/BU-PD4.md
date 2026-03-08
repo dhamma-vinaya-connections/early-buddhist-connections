@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: ""
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PD3]] 🌐 [[BNI-SK1]] ►
 
-# Monks - Patidesaniya - Acknowledgement
+# bhikkhus - Patidesaniya - Acknowledgement
 ##  - 
 ## BU-PD4 - Catutthapāṭidesanīya - Receiving Food in a Dangerous Region
 
@@ -68,7 +68,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PD4 |  | Vin.3.1–3.40 |
 

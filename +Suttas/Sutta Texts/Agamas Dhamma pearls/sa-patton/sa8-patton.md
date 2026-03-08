@@ -17,9 +17,9 @@ language: "English"
 
 11-14 (8). The Past Is Impermanent, Painful, Empty, and Not Self
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “Past and future form are [11] impermanent … [12] painful … [13] empty … [14] not self, so why wouldn’t that be for present form? Noble disciples who observe them in this way don’t look back to past form or wish for future form. Regarding present form, they become disillusioned, free of desire, and headed straight to its cessation.<a id="fnref2"></a>[^2]
+2. It was then that the Bhagavān addressed the bhikkhus, “Past and future form are [11] impermanent … [12] painful … [13] empty … [14] not self, so why wouldn’t that be for present form? Noble disciples who observe them in this way don’t look back to past form or wish for future form. Regarding present form, they become disillusioned, free of desire, and headed straight to its cessation.<a id="fnref2"></a>[^2]
 3. “Thus, past and future feeling … conception … volition … awareness are impermanent … painful … empty … not self, so why wouldn’t that be for present awareness? Noble disciples who observe them in this way don’t look back to past awareness or wish for future awareness. Regarding present awareness, they become disillusioned, free of desire, and headed straight to its cessation.”
-4. When the monks heard what the Buddha taught, they rejoiced and approved.
+4. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

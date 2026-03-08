@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 16. Sujāta
 
-1. Thus I have heard: One time, the Buddha was staying on Mount Gṛdhrakūṭa of Rājagṛha. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha was staying on Mount Gṛdhrakūṭa of Rājagṛha. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 2. It was then that the Bhagavān put on his robe and took his bowl into the city to solicit alms. At the time, there was a prominent man’s son named Sujāta in Rājagṛha. Early in the morning, he left the city to go for a walk in a park. He bathed first, wetting his entire body. He then bowed in all directions around him: To the east, west, south, north, above, and below.
 

@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized them, “How can those nuns receive the full admission and then not follow their mentor for two years?” …
 
-“Is it true, monks, that nuns don’t do this?”
+“Is it true, bhikkhus, that nuns don’t do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can nuns not do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can nuns not do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

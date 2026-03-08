@@ -7,27 +7,27 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC74]]
 > ◄  [[bu-pc73-horner]] 📜  [[bu-pc75-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 74
+# bhikkhus’ Expiation (_Pācittiya_) 74
 
-*Bu-Pc.74.1.1* *BD.3.47* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that *Vin.4.146* time the group of six monks, angry, displeased, gave the group of seventeen monks[^1] a blow; these cried out. Monks spoke thus: “Why do you, your reverences, cry out?”
+*Bu-Pc.74.1.1* *BD.3.47* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that *Vin.4.146* time the group of six bhikkhus, angry, displeased, gave the group of seventeen bhikkhus[^1] a blow; these cried out. bhikkhus spoke thus: “Why do you, your reverences, cry out?”
 
-“Your reverences, this group of six monks, angry, displeased, gave us a blow.” Those who were modest monks … spread it about, saying: “How can this group of six monks, angry, displeased, give monks a blow?” …
+“Your reverences, this group of six bhikkhus, angry, displeased, gave us a blow.” Those who were modest bhikkhus … spread it about, saying: “How can this group of six bhikkhus, angry, displeased, give bhikkhus a blow?” …
 
-“Is it true, as is said, that you, monks, angry, displeased, gave monks a blow?”
+“Is it true, as is said, that you, bhikkhus, angry, displeased, gave bhikkhus a blow?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, angry, displeased, give monks a blow? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, angry, displeased, give bhikkhus a blow? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, angry, displeased, should give a monk a blow, there is an offence of expiation.”
+“Whatever bhikkhu, angry, displeased, should give a bhikkhu a blow, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.74.2.1* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.74.2.1* Whatever means: … bhikkhu is to be understood in this case.
 
-A monk means: another monk.
+A bhikkhu means: another bhikkhu.
 
 Angry, displeased means: dissatisfied, the mind worsened, stubborn.[^2]
 
@@ -47,7 +47,7 @@ The Fourth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

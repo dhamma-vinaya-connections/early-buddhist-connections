@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five powers. What five? The powers of faith, energy, mindfulness, immersion, and wisdom.
+1“bhikkhus, there are these five powers. What five? The powers of faith, energy, mindfulness, immersion, and wisdom.
 
 And where should the power of faith be seen? In the four factors of stream-entry.
 

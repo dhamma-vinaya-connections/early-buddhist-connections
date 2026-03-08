@@ -15,15 +15,15 @@ language: "English"
 ## ## Kāḷaka Sutta
 
 
-On one occasion the Blessed One was staying near Sāketa in Kāḷaka’s park. There he addressed the monks: “Monks!”
+On one occasion the Blessed One was staying near Sāketa in Kāḷaka’s park. There he addressed the bhikkhus: “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said: “Monks, whatever in this world with its devas, Māras & Brahmās, in this generation with its contemplatives & brahmans, its rulers & commonfolk, is seen, heard, sensed, cognized, attained, sought after, pondered by the intellect: That do I know. Whatever in this world with its devas, Māras & Brahmās, in this generation with its contemplatives & brahmans, its rulers & commonfolk, is seen, heard, sensed, cognized, attained, sought after, pondered by the intellect: That I directly know. That has been realized by the Tathāgata, but in the Tathāgata[1](#^[[an4-thanissaro]].24note01) it has not been established. ^[[an4-thanissaro]].24note01-ref
+The Blessed One said: “bhikkhus, whatever in this world with its devas, Māras & Brahmās, in this generation with its contemplatives & brahmans, its rulers & commonfolk, is seen, heard, sensed, cognized, attained, sought after, pondered by the intellect: That do I know. Whatever in this world with its devas, Māras & Brahmās, in this generation with its contemplatives & brahmans, its rulers & commonfolk, is seen, heard, sensed, cognized, attained, sought after, pondered by the intellect: That I directly know. That has been realized by the Tathāgata, but in the Tathāgata[1](#^[[an4-thanissaro]].24note01) it has not been established. ^[[an4-thanissaro]].24note01-ref
 
 “If I were to say, ‘I don’t know whatever in this world… is seen, heard, sensed, cognized… pondered by the intellect,’ that would be a falsehood in me. If I were to say, ‘I both know and don’t know whatever in this world… is seen, heard, sensed, cognized… pondered by the intellect,’ that would be just the same. If I were to say, ‘I neither know nor don’t know whatever in this world… is seen, heard, sensed, cognized… pondered by the intellect,’ that would be a fault in me.
 
-“Thus, monks, the Tathāgata, when seeing what is to be seen, doesn’t suppose an (object as) seen. He doesn’t suppose an unseen. He doesn’t suppose an (object) to-be-seen. He doesn’t suppose a seer.
+“Thus, bhikkhus, the Tathāgata, when seeing what is to be seen, doesn’t suppose an (object as) seen. He doesn’t suppose an unseen. He doesn’t suppose an (object) to-be-seen. He doesn’t suppose a seer.
 
 “When hearing.…
 
@@ -31,7 +31,7 @@ The Blessed One said: “Monks, whatever in this world with its devas, Māras & 
 
 “When cognizing what is to be cognized, he doesn’t suppose an (object as) cognized. He doesn’t suppose an uncognized. He doesn’t suppose an (object) to-be-cognized. He doesn’t suppose a cognizer.
 
-Thus, monks, the Tathāgata—being the same with regard to all phenomena that can be seen, heard, sensed, & cognized—is ‘Such.’[2](#^[[an4-thanissaro]].24note02) And I tell you: There is no other ‘Such’ higher or more sublime. ^[[an4-thanissaro]].24note02-ref
+Thus, bhikkhus, the Tathāgata—being the same with regard to all phenomena that can be seen, heard, sensed, & cognized—is ‘Such.’[2](#^[[an4-thanissaro]].24note02) And I tell you: There is no other ‘Such’ higher or more sublime. ^[[an4-thanissaro]].24note02-ref
 
 “Whatever is seen or heard or sensed
 

@@ -11,13 +11,13 @@ language: "English"
 
 *Bi-Pc.31.1.1* *BD.3.304* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time two nuns shared[^1] one couch.[^2] People, engaged in touring the dwelling-place, having seen (them) … spread it about, saying: “How can two nuns share one couch, like women householders who enjoy pleasures of the senses?” Nuns heard these people who … spread it about. Those who were modest nuns … spread it about, saying: “How can two nuns share one couch?” …
 
-“Is it true, as is said, monks, that two nuns shared one couch?”
+“Is it true, as is said, bhikkhus, that two nuns shared one couch?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can two nuns share one couch? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training: *Vin.4.289*
+“How, bhikkhus, can two nuns share one couch? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training: *Vin.4.289*
 
 “Whatever two nuns should share one couch, there is an offence of expiation.”
 

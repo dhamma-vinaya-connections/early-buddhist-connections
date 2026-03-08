@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1If a mendicant meditates by observing an aspect of the body … feelings … mind … principles — keen, aware, and mindful, rid of desire and aversion for the world, even for the time of a finger snap …
+1If a bhikkhu ![[Satipatthanas]], even for the time of a finger snap …
 
 #### Pali
 

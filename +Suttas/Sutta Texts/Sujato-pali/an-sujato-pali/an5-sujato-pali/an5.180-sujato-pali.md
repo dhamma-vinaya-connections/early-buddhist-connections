@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants. While traveling along a road the Buddha saw a large sal grove in a certain spot. He left the road, went to the sal grove, and plunged deep into it. And at a certain spot he smiled.
+1At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of bhikkhus. While traveling along a road the Buddha saw a large sal grove in a certain spot. He left the road, went to the sal grove, and plunged deep into it. And at a certain spot he smiled.
 
 
 2Then Venerable Ānanda thought: “What is the cause, what is the reason why the Buddha smiled? Realized Ones do not smile for no reason.”
@@ -55,9 +55,9 @@ Then Gavesī thought: ‘These five hundred lay followers … are celibate, set 
 Then Gavesī thought: ‘These five hundred lay followers … eat in one part of the day, abstaining from eating at night, and food at the wrong time. We’re the same, I’m in no way better. So let me do better.’
 
 
-7Then the lay follower Gavesī went up to the blessed one Kassapa, the perfected one, the fully awakened Buddha and said to him: ‘Sir, may I receive the going forth, the ordination in the Buddha’s presence?’ And he received the going forth, the ordination in the Buddha’s presence. Not long after his ordination, the mendicant Gavesī, living alone, withdrawn, diligent, keen, and resolute, realized the supreme culmination of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
+7Then the lay follower Gavesī went up to the blessed one Kassapa, the perfected one, the fully awakened Buddha and said to him: ‘Sir, may I receive the going forth, the ordination in the Buddha’s presence?’ And he received the going forth, the ordination in the Buddha’s presence. Not long after his ordination, the bhikkhu Gavesī, living alone, withdrawn, diligent, keen, and resolute, realized the supreme culmination of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
 
-He understood: ‘Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is no return to any state of existence.’ And the mendicant Gavesī became one of the perfected.
+He understood: ‘Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is no return to any state of existence.’ And the bhikkhu Gavesī became one of the perfected.
 
 
 8Then those five hundred lay followers thought: ‘Venerable Gavesī is our helper, leader, and adviser, He has shaved off his hair and beard, dressed in ocher robes, and gone forth from the lay life to homelessness. Why don’t we do the same?’
@@ -65,12 +65,12 @@ He understood: ‘Rebirth is ended; the spiritual journey has been completed; wh
 Then those five hundred lay followers went up to the blessed one Kassapa, the perfected one, the fully awakened Buddha and said to him: ‘Sir, may we receive the going forth and ordination in the Buddha’s presence?’ And they did receive the going forth and ordination in the Buddha’s presence.
 
 
-9Then the mendicant Gavesī thought: ‘I get the supreme bliss of freedom whenever I want, without trouble or difficulty. Oh, may these five hundred mendicants do the same!’ Then those five hundred mendicants, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme culmination of the spiritual path in this very life. They lived having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
+9Then the bhikkhu Gavesī thought: ‘I get the supreme bliss of freedom whenever I want, without trouble or difficulty. Oh, may these five hundred bhikkhus do the same!’ Then those five hundred bhikkhus, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme culmination of the spiritual path in this very life. They lived having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
 
 They understood: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’
 
 
-10And so, Ānanda, those five hundred mendicants headed by Gavesī, trying to go higher and higher, better and better, realized the supreme bliss of freedom. So you should train like this: ‘Trying to go higher and higher, better and better, we will realize the supreme bliss of freedom.’ That’s how you should train.”
+10And so, Ānanda, those five hundred bhikkhus headed by Gavesī, trying to go higher and higher, better and better, realized the supreme bliss of freedom. So you should train like this: ‘Trying to go higher and higher, better and better, we will realize the supreme bliss of freedom.’ That’s how you should train.”
 
 #### Pali
 

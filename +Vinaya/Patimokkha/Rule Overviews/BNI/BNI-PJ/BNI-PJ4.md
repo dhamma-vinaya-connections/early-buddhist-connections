@@ -68,7 +68,7 @@ vin_gender-corr: "BU-PJ4"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BNI-PJ4 | [[BU-PJ4]] | Vin.4.211-4.222 |
 

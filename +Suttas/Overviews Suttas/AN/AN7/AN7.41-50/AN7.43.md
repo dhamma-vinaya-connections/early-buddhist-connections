@@ -44,10 +44,10 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Sāriputta visits a sectarian hermitage and hears them saying that someone who lives the spiritual life for twelve years is fit to graduate. The Buddha  rejects this, saying that a mendicant is qualified to graduate not merely by completing a certain number of years, but because of their spiritual qualities.
+> Sāriputta visits a sectarian hermitage and hears them saying that someone who lives the spiritual life for twelve years is fit to graduate. The Buddha  rejects this, saying that a bhikkhu is qualified to graduate not merely by completing a certain number of years, but because of their spiritual qualities.
 
 > [!info] Key Excerpts 
-> Mendicant has a keen enthusiasm to undertake the training … to examine the teachings … to get rid of desires … for retreat … to rouse up energy … for mindfulness and alertness … to penetrate theoretically. And they don’t lose these desires in the future
+> bhikkhu has a keen enthusiasm to undertake the training … to examine the teachings … to get rid of desires … for retreat … to rouse up energy … for mindfulness and alertness … to penetrate theoretically. And they don’t lose these desires in the future
 > 
 > 7.43: is when someone is faithful, conscientious, prudent, learned, energetic, mindful, and wise
 > 

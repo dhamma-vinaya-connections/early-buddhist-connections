@@ -32,9 +32,9 @@ Then Kesi the horse trainer approached the Blessed One, paid homage to him, and 
 
 “But, Bhante, it isn’t allowable for the Blessed One to destroy life. Yet he says, ‘Then I kill him.’”
 
-“It is true, Kesi, that it isn’t allowable for the Tathāgata to destroy life. However, when a person to be tamed won’t submit to discipline by the gentle method, the stern method, or the method that is both gentle and stern, then the Tathāgata thinks he should not be spoken to and instructed, and his wise fellow monks, too, think he should not be spoken to and instructed. For this, Kesi, is ‘killing’ in the Noble One’s discipline: the Tathāgata thinks one should not be spoken to and instructed, and one’s wise fellow monks, too, think one should not be spoken to and instructed.”
+“It is true, Kesi, that it isn’t allowable for the Tathāgata to destroy life. However, when a person to be tamed won’t submit to discipline by the gentle method, the stern method, or the method that is both gentle and stern, then the Tathāgata thinks he should not be spoken to and instructed, and his wise fellow bhikkhus, too, think he should not be spoken to and instructed. For this, Kesi, is ‘killing’ in the Noble One’s discipline: the Tathāgata thinks one should not be spoken to and instructed, and one’s wise fellow bhikkhus, too, think one should not be spoken to and instructed.”
 
-“He is indeed well slain, Bhante, when the Tathāgata thinks he should not be spoken to and instructed, and his wise fellow monks, too, think he should not be spoken to and instructed.
+“He is indeed well slain, Bhante, when the Tathāgata thinks he should not be spoken to and instructed, and his wise fellow bhikkhus, too, think he should not be spoken to and instructed.
 
 “Excellent, Bhante! Excellent, Bhante! The Blessed One has made the Dhamma clear in many ways, as though he were turning upright what had been overthrown, revealing what was hidden, showing the way to one who was lost, or holding up a lamp in the darkness so those with good eyesight can see forms. I now go for refuge to the Blessed One, to the Dhamma, and to the Saṅgha of bhikkhus. Let the Blessed One consider me a lay follower who from today has gone for refuge for life.”
 

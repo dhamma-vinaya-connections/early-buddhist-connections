@@ -22,7 +22,7 @@ language: "English - Pali"
 
 390-393. Kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharati…pe… citte cittānupassī viharati…pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ.
 
-He dwells contemplating the body as body, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in regard to the world. He dwells contemplating feelings as feelings, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in regard to the world. He dwells contemplating the mind as mind, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in regard to the world. He dwells contemplating phenomena as phenomena, ardent, clearly comprehending, mindful, having removed covetousness and displeasure in regard to the world.
+He ![[Satipatthanas]]. He ![[Satipatthanas]]. He ![[Satipatthanas]]. He ![[Satipatthanas]].
 
 394-397. Anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ [viriyaṃ (sī. syā. kaṃ. pī.)] ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati.
 

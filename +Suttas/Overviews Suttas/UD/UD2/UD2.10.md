@@ -44,7 +44,7 @@ parallels_partilal: "[[PLI-TV-KD17]], [[SNP1.1]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A former king, now monk, exclaims over the bliss of solitude
+> A former king, now bhikkhu, exclaims over the bliss of solitude
 
 > [!info] Key Excerpts 
 > “All that is in another's power is painful,

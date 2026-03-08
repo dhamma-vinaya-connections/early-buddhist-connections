@@ -23,31 +23,31 @@ language: "English"
 
 2. It was then that Venerable Aniruddha was also in the country of Śrāvastī staying on Salaḷa Peak.[2](#^ma80note02) After the night passed and the sun rose, Venerable Aniruddha put on his robe and took his bowl into Śrāvastī to solicit alms. Venerable Ānanda also put on his robe and took his bowl into Śrāvastī after the night passed and the sun rose. ^ma80note02-ref
 
-3. Venerable Aniruddha saw Venerable Ānanda going to solicit alms. Seeing him, he said, “Good man, Ānanda, you should know that my three robes are in tatters. Good man, would it be possible for the monks to make robes for me?” Venerable Ānanda silently accepted that request from Venerable Aniruddha.
+3. Venerable Aniruddha saw Venerable Ānanda going to solicit alms. Seeing him, he said, “Good man, Ānanda, you should know that my three robes are in tatters. Good man, would it be possible for the bhikkhus to make robes for me?” Venerable Ānanda silently accepted that request from Venerable Aniruddha.
 
-4. After he had solicited alms, Venerable Ānanda finished his meal and after noontime gathered up his robe and bowl. He washed his hands and feet, put his sitting mat over his shoulder, and went from room to room with the door key in hand. When he saw the monks, he said, “Venerables, go now to Salaḷa Peak to make robes for Venerable Aniruddha.”
+4. After he had solicited alms, Venerable Ānanda finished his meal and after noontime gathered up his robe and bowl. He washed his hands and feet, put his sitting mat over his shoulder, and went from room to room with the door key in hand. When he saw the bhikkhus, he said, “Venerables, go now to Salaḷa Peak to make robes for Venerable Aniruddha.”
 
-The monks then heard what Venerable Ānanda said and went to Salaḷa Peak to make robes for Venerable Aniruddha.
+The bhikkhus then heard what Venerable Ānanda said and went to Salaḷa Peak to make robes for Venerable Aniruddha.
 
 5. The Bhagavān saw Venerable Ānanda carrying the door key in hand and going from room to room. Seeing him, he asked, “Ānanda, what are doing carrying the door key in hand and going from room to room?”
 
-Venerable Ānanda said, “Bhagavān, I’m sending monks to go make robes for Venerable Aniruddha.”
+Venerable Ānanda said, “Bhagavān, I’m sending bhikkhus to go make robes for Venerable Aniruddha.”
 
 6. The Bhagavān told him, “Ānanda, why didn’t you ask the Tathāgata to make robes for the monk Aniruddha?”
 
 Venerable Ānanda then saluted the Buddha with his palms together and said, “May it please the Bhagavān to go to Salaḷa Peak and make robes for Venerable Aniruddha.” The Bhagavān silently accepted this from Venerable Ānanda.
 
-7. The Bhagavān then led Venerable Ānanda to Salaḷa Peak, went before the assembled monks, and then prepared a seat and sat down. At that point, there were 800 monks sitting together with the Bhagavān on Salaḷa Peak to make robes for Venerable Aniruddha.
+7. The Bhagavān then led Venerable Ānanda to Salaḷa Peak, went before the assembled bhikkhus, and then prepared a seat and sat down. At that point, there were 800 bhikkhus sitting together with the Bhagavān on Salaḷa Peak to make robes for Venerable Aniruddha.
 
 8. Just then, Venerable Mahāmaudgalyāyana was in that group, and the Bhagavān addressed him, “Maudgalyāyana, I can spread out Aniruddha’s robes to cut. You cut the pieces, put them together, and sew them.”
 
-9. Venerable Mahāmaudgalyāyana rose from his seat, adjusted his robe to bare his shoulder, and saluted the Buddha with his palms together. He said, “May it please the Bhagavān that he spread out the good man Aniruddha’s robes to cut, and the monks will together cut the pieces, put them together, and sew them.”
+9. Venerable Mahāmaudgalyāyana rose from his seat, adjusted his robe to bare his shoulder, and saluted the Buddha with his palms together. He said, “May it please the Bhagavān that he spread out the good man Aniruddha’s robes to cut, and the bhikkhus will together cut the pieces, put them together, and sew them.”
 
-10. The Bhagavān then spread out Venerable Aniruddha’s robes to cut, and the monks together cut the pieces, put them together, and sewed them. They finished making the three robes for Aniruddha that day.
+10. The Bhagavān then spread out Venerable Aniruddha’s robes to cut, and the bhikkhus together cut the pieces, put them together, and sewed them. They finished making the three robes for Aniruddha that day.
 
 #### Aniruddha Teaches the Principle of the Rough Cloth
 
-11. When the Bhagavān knew Venerable Aniruddha’s three robes had been made, he told him, “Aniruddha, you ought to teach the principle of the rough cloth for the monks. My back hurts right now, so I’d like a little rest.”
+11. When the Bhagavān knew Venerable Aniruddha’s three robes had been made, he told him, “Aniruddha, you ought to teach the principle of the rough cloth for the bhikkhus. My back hurts right now, so I’d like a little rest.”
 
 Venerable Aniruddha said, “Very well, Bhagavān!”
 
@@ -55,7 +55,7 @@ Venerable Aniruddha said, “Very well, Bhagavān!”
 
 #### Going Forth
 
-13. Venerable Aniruddha then addressed the monks, “Good men, before I had left home to train on the path, I had grown tired of birth, old age, illness, death, lamentation, heartache, sorrow, and grief. I wanted to put an end to this great mass of suffering.
+13. Venerable Aniruddha then addressed the bhikkhus, “Good men, before I had left home to train on the path, I had grown tired of birth, old age, illness, death, lamentation, heartache, sorrow, and grief. I wanted to put an end to this great mass of suffering.
 
 14. “Good men, once I was tired of that, I contemplated, ‘A home becomes cramped, a place of dust and toil; leaving home and training on the path reveals a clear expanse. Now, I’m confined at home, and I’m confining. I’m not able to fully live and cultivate the religious life. Wouldn’t it be better to discard this small or large amount of wealth and these few or many friends and family? I’ll shave off my hair and beard, put on the reddish-brown robes, become a believer, and leave home to train on the path in homelessness.’
 
@@ -169,19 +169,19 @@ Venerable Aniruddha said, “Very well, Bhagavān!”
 
 65. “Good men, if anyone doubts that I’ve realized the supernormal abilities and penetrating knowledges, they should question me, and I will answer them. Good men, if anyone doubts that I’ve realized the penetrating knowledge of the divine ear, they should question me, and I will answer them. Good men, if anyone doubts that I’ve realized the penetrating knowledge of other minds, they should question me, and I will answer them. Good men, if anyone doubts that I’ve realized the penetrating knowledge of past lives, they should question me, and I will answer them. Good men, if anyone doubts that I’ve realized the penetrating knowledge of birth-and-death, they should question me, and I will answer them. Good men, if anyone doubts that I’ve realized the penetrating knowledge of the end of the contaminants, they should question me, and I will answer them.”
 
-66. Venerable Ānanda then said, “Venerable Aniruddha, now here on Salaḷa Peak 800 monks and the Bhagavān have gathered to make robes for Venerable Aniruddha. If anyone doubts that Venerable Aniruddha has realized the supernormal abilities and penetrating knowledges, they should question him, and Venerable Aniruddha will answer them. If anyone doubts that Venerable Aniruddha has realized the penetrating knowledge of the divine ear, they should question him, and Venerable Aniruddha will answer them. If anyone doubts that Venerable Aniruddha has realized the penetrating knowledge of other minds, they should question him, and Venerable Aniruddha will answer them. If anyone doubts that Venerable Aniruddha has realized the penetrating knowledge of past lives, they should question him, and Venerable Aniruddha will answer them. If anyone doubts that Venerable Aniruddha has realized the penetrating knowledge of birth-and-death, they should question him, and Venerable Aniruddha will answer them. If anyone doubts that Venerable Aniruddha has realized the penetrating knowledge of the end of the contaminants, they should question him, and Venerable Aniruddha will answer them.
+66. Venerable Ānanda then said, “Venerable Aniruddha, now here on Salaḷa Peak 800 bhikkhus and the Bhagavān have gathered to make robes for Venerable Aniruddha. If anyone doubts that Venerable Aniruddha has realized the supernormal abilities and penetrating knowledges, they should question him, and Venerable Aniruddha will answer them. If anyone doubts that Venerable Aniruddha has realized the penetrating knowledge of the divine ear, they should question him, and Venerable Aniruddha will answer them. If anyone doubts that Venerable Aniruddha has realized the penetrating knowledge of other minds, they should question him, and Venerable Aniruddha will answer them. If anyone doubts that Venerable Aniruddha has realized the penetrating knowledge of past lives, they should question him, and Venerable Aniruddha will answer them. If anyone doubts that Venerable Aniruddha has realized the penetrating knowledge of birth-and-death, they should question him, and Venerable Aniruddha will answer them. If anyone doubts that Venerable Aniruddha has realized the penetrating knowledge of the end of the contaminants, they should question him, and Venerable Aniruddha will answer them.
 
 67. “Only we have been long familiar with Venerable Aniruddha’s mind, just as Venerable Aniruddha possesses great supernormal abilities, great majesty, great fortune, and great might.”
 
 #### Conclusion
 
-68. The Bhagavān then recovered from his ailment and became well again. He got up and sat crossed-legged. After sitting crossed-legged, the Bhagavān praised Venerable Aniruddha, “Good, Aniruddha, good! It’s outstanding, Aniruddha, how you’ve taught the principle of the rough cloth for the monks. Aniruddha, you’ve again taught the principle of the rough cloth for the monks. Aniruddha, many times have you taught the principle of the rough cloth for the monks.”
+68. The Bhagavān then recovered from his ailment and became well again. He got up and sat crossed-legged. After sitting crossed-legged, the Bhagavān praised Venerable Aniruddha, “Good, Aniruddha, good! It’s outstanding, Aniruddha, how you’ve taught the principle of the rough cloth for the bhikkhus. Aniruddha, you’ve again taught the principle of the rough cloth for the bhikkhus. Aniruddha, many times have you taught the principle of the rough cloth for the bhikkhus.”
 
-69. The Bhagavān then addressed the monks, “Monks, you all have received the principle of the rough cloth. Recite often the principle of the rough cloth, and well retain the principle of the rough cloth. What’s the reason for that? The principle of the rough cloth and the Dharma are associated. It’s the root of the religious life; it leads to penetration, to awakening, and to nirvāṇa. If a clansmen shaves off his hair and beard, puts on the reddish-brown robes, becomes a believer, and leaves home to train on the path in homelessness, then he ought to bring to mind and accept the principle of the rough cloth and accept and retain well the principle of the rough cloth. What’s the reason for that?
+69. The Bhagavān then addressed the bhikkhus, “bhikkhus, you all have received the principle of the rough cloth. Recite often the principle of the rough cloth, and well retain the principle of the rough cloth. What’s the reason for that? The principle of the rough cloth and the Dharma are associated. It’s the root of the religious life; it leads to penetration, to awakening, and to nirvāṇa. If a clansmen shaves off his hair and beard, puts on the reddish-brown robes, becomes a believer, and leaves home to train on the path in homelessness, then he ought to bring to mind and accept the principle of the rough cloth and accept and retain well the principle of the rough cloth. What’s the reason for that?
 
-70. “I do not see a time in the past when monks made such robes as they have for the monk Aniruddha. I do not see future or present monks making such robes as they have for the monk Aniruddha. What’s the reason for that? Here on this Salaḷa Peak, 800 monks have gathered with the Bhagavān to make robes for the monk Aniruddha. Such a monk as Aniruddha possesses great supernormal abilities, great majesty, great fortune, and great might.”
+70. “I do not see a time in the past when bhikkhus made such robes as they have for the monk Aniruddha. I do not see future or present bhikkhus making such robes as they have for the monk Aniruddha. What’s the reason for that? Here on this Salaḷa Peak, 800 bhikkhus have gathered with the Bhagavān to make robes for the monk Aniruddha. Such a monk as Aniruddha possesses great supernormal abilities, great majesty, great fortune, and great might.”
 
-71. This is what the Buddha said. Venerable Aniruddha and the monks who heard what the Buddha taught rejoiced and approved.
+71. This is what the Buddha said. Venerable Aniruddha and the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

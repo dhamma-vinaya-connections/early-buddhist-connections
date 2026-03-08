@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six wore their upper robes hanging down in front and behind. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six wore their upper robes hanging down in front and behind. …
 
 #### Final ruling
 
 2“‘I will wear my upper robe evenly all around,’ this is how you should train.”
 
-3One should wear one’s upper robe evenly all around, making both corners even. If a monk, out of disrespect, wears his upper robe hanging down in front or behind, he commits an offense of wrong conduct.
+3One should wear one’s upper robe evenly all around, making both corners even. If a bhikkhu, out of disrespect, wears his upper robe hanging down in front or behind, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 5
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Abandon one quality, monks, and I guarantee you non-return. Which one quality? Abandon contempt as the one quality, and I guarantee you non-return.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Abandon one quality, bhikkhus, and I guarantee you non-return. Which one quality? Abandon contempt as the one quality, and I guarantee you non-return.”
 
 The contempt with which
 

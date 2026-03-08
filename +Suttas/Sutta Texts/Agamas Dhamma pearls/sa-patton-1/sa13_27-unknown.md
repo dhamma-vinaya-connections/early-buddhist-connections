@@ -35,7 +35,7 @@ language: "English"
     They are the ones who can cross over  
     That difficult ford of birth-and-death.”
 
-5. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+5. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

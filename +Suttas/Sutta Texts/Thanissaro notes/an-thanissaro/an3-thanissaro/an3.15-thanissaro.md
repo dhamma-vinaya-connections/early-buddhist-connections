@@ -15,11 +15,11 @@ language: "English"
 ## ## Pacetana Sutta
 
 
-On one occasion the Blessed One was staying near Vārāṇasī in the Deer Park at Isipatana. There he addressed the monks: “Monks!”
+On one occasion the Blessed One was staying near Vārāṇasī in the Deer Park at Isipatana. There he addressed the bhikkhus: “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said: “Once, monks, there was a king named Pacetana. One day King Pacetana said to his chariot maker, ‘My good chariot maker, in six months time from now a battle will take place. Can you make me a new pair of chariot wheels?’
+The Blessed One said: “Once, bhikkhus, there was a king named Pacetana. One day King Pacetana said to his chariot maker, ‘My good chariot maker, in six months time from now a battle will take place. Can you make me a new pair of chariot wheels?’
 
 “‘Yes, your majesty, I can,’ the chariot maker replied to the king.
 
@@ -41,9 +41,9 @@ Then, after finishing the second wheel in six days, the chariot maker took the p
 
 “‘Your majesty, as for the wheel that took six days to finish, its rim is crooked, with faults & flaws. Its spokes are crooked, with faults & flaws. Its hub is crooked, with faults & flaws. Because its rim… spokes… (&) hub are crooked, with faults & flaws, when set rolling it goes as far as its momentum carries it and then, twirling around and around, falls to the ground. But as for the wheel that took six months minus six days to finish, its rim is not crooked, with no faults or flaws. Its spokes are not crooked, with no faults or flaws. Its hub is not crooked, with no faults or flaws. Because its rim… spokes… (&) hub are not crooked, with no faults or flaws, when set rolling it goes as far as its momentum carries it and then stands still as if fixed on an axle.’
 
-“Now, monks, the thought may occur to you that the chariot maker on that occasion was someone else, but it shouldn’t be seen in that way. I myself was the chariot maker on that occasion. I was skilled in dealing with the crookedness, the faults, the flaws of wood. Now I am a worthy one, rightly self-awakened, skilled in dealing with the crookedness, faults, & flaws of bodily action; skilled in dealing with the crookedness, faults, & flaws of verbal action; skilled in dealing with the crookedness, faults, & flaws of mental action.
+“Now, bhikkhus, the thought may occur to you that the chariot maker on that occasion was someone else, but it shouldn’t be seen in that way. I myself was the chariot maker on that occasion. I was skilled in dealing with the crookedness, the faults, the flaws of wood. Now I am a worthy one, rightly self-awakened, skilled in dealing with the crookedness, faults, & flaws of bodily action; skilled in dealing with the crookedness, faults, & flaws of verbal action; skilled in dealing with the crookedness, faults, & flaws of mental action.
 
-“Any monk or nun in whom the crookedness, faults, & flaws of bodily action are not abandoned; the crookedness, faults, & flaws of verbal action are not abandoned; the crookedness, faults, & flaws of mental action are not abandoned has fallen away from this Dhamma & Vinaya, just like the wheel that took six days to finish. But any monk or nun in whom the crookedness, faults, & flaws of bodily action are abandoned; the crookedness, faults, & flaws of verbal action are abandoned; the crookedness, faults, & flaws of mental action are abandoned stands firm in this Dhamma & Vinaya, just like the wheel that took six months minus six days to finish.
+“Any bhikkhu or nun in whom the crookedness, faults, & flaws of bodily action are not abandoned; the crookedness, faults, & flaws of verbal action are not abandoned; the crookedness, faults, & flaws of mental action are not abandoned has fallen away from this Dhamma & Vinaya, just like the wheel that took six days to finish. But any bhikkhu or nun in whom the crookedness, faults, & flaws of bodily action are abandoned; the crookedness, faults, & flaws of verbal action are abandoned; the crookedness, faults, & flaws of mental action are abandoned stands firm in this Dhamma & Vinaya, just like the wheel that took six months minus six days to finish.
 
 “Thus you should train yourselves: ‘We will abandon crookedness, faults, & flaws in bodily action. We will abandon crookedness, faults, & flaws in verbal action. We will abandon crookedness, faults, & flaws in mental action.’ That’s how you should train yourselves.”
 

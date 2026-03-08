@@ -3,7 +3,7 @@ sutta_code: "AN7.92"
 sutta_pts: "A iv 145"
 sutta_title:
   - "Bhikkhu "
-  - "Mendicant"
+  - "bhikkhu"
 nikaya:
   - "AN "
   - "Aṅguttara Nikāya"
@@ -40,7 +40,7 @@ parallels_partilal: ""
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.91]]  🌐 [[AN7.93]] ►
 
-# AN7.92 - Bhikkhu - Mendicant
+# AN7.92 - Bhikkhu - bhikkhu
 ## 🌐 Overview
 
 > [!info] Summary

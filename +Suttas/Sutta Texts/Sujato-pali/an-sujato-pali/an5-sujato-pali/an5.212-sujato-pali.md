@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant who starts arguments, quarrels, fights, debates, and disciplinary issues in the Saṅgha can expect five drawbacks. What five? They don’t achieve the unachieved. What they have achieved falls away. They get a bad reputation. They feel lost when they die. And when their body breaks up, after death, they are reborn in a place of loss, a bad place, the underworld, hell. A mendicant who starts arguments, quarrels, fights, debates, and disciplinary issues in the Saṅgha can expect these five drawbacks.”
+1“bhikkhus, a bhikkhu who starts arguments, quarrels, fights, debates, and disciplinary issues in the Saṅgha can expect five drawbacks. What five? They don’t achieve the unachieved. What they have achieved falls away. They get a bad reputation. They feel lost when they die. And when their body breaks up, after death, they are reborn in a place of loss, a bad place, the underworld, hell. A bhikkhu who starts arguments, quarrels, fights, debates, and disciplinary issues in the Saṅgha can expect these five drawbacks.”
 
 1"Yo so, bhikkhave, bhikkhu bhaṇḍanakārako kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako, tassa pañca ādīnavā pāṭikaṅkhā. Katame pañca? Anadhigataṁ nādhigacchati, adhigatā parihāyati, pāpako kittisaddo abbhuggacchati, sammūḷho kālaṁ karoti, kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. Yo so, bhikkhave, bhikkhu bhaṇḍanakārako kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako, tassa ime pañca ādīnavā pāṭikaṅkhā"ti.
 

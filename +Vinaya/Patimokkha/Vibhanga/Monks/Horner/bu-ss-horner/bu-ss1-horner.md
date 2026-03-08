@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
 > ◄  [[BU-PJ4]] 📜  [[bu-ss2-horner]] ►
 
-# Monks’ Formal Meeting (_Saṅghādisesa_) 1
+# bhikkhus’ Formal Meeting (_Saṅghādisesa_) 1
 
 *BD.1.192* *Bu-Ss.1.1.1* At one time the enlightened one, the lord, was staying at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s park. Now at that time the venerable Seyyasaka[^1] led the Brahma-life, dissatisfied.[^2] Because of this he was thin, wretched, his colour bad, yellowish, the veins showing all over his body.[^3] The venerable Udāyin saw the venerable Seyyasaka thin, wretched, his colour bad, yellowish, his veins showing all over his body. Seeing him thus, he said to the venerable Seyyasaka: “Reverend Seyyasaka, why are you thin, wretched … the veins showing all over your body? Perhaps it is that you, reverend Seyyasaka, lead the Brahma-life, dissatisfied?”
 
@@ -19,7 +19,7 @@ language: "English"
 
 “Yes, your reverence, I do this.”
 
-Then the venerable Seyyasaka ate as much as he liked, slept as much as he liked, bathed as much as he liked; but having eaten as much as he liked, slept as much as he liked, bathed as much as he liked, dissatisfaction arose, and passion assailed his heart, so he emitted semen using his hand. Then in a short time the venerable Seyyasaka was nice-looking with rounded features, of a bright complexion and a clear skin. So the monks who were the friends of the venerable Seyyasaka spoke thus to the venerable Seyyasaka:
+Then the venerable Seyyasaka ate as much as he liked, slept as much as he liked, bathed as much as he liked; but having eaten as much as he liked, slept as much as he liked, bathed as much as he liked, dissatisfaction arose, and passion assailed his heart, so he emitted semen using his hand. Then in a short time the venerable Seyyasaka was nice-looking with rounded features, of a bright complexion and a clear skin. So the bhikkhus who were the friends of the venerable Seyyasaka spoke thus to the venerable Seyyasaka:
 
 “Formerly, reverend Seyyasaka, you were thin, wretched, of a bad colour, yellowish, with the veins showing all over your body. But now, at present, you are nice-looking with rounded features, *Vin.3.111* of a bright complexion and a clear skin. Why now, do you take medicine,[^7] reverend Seyyasaka?”
 
@@ -31,11 +31,11 @@ Then the venerable Seyyasaka ate as much as he liked, slept as much as he liked,
 
 “Yes, your reverences,” he said.
 
-Those who were modest monks became annoyed, vexed and angry, saying:
+Those who were modest bhikkhus became annoyed, vexed and angry, saying:
 
 *BD.1.194* “How can the venerable Seyyasaka emit semen in this way?”
 
-Then these monks, having rebuked the venerable Seyyasaka in various ways, told this matter to the lord. Then the lord on this occasion, in this connection, having had the order of monks convened, asked the venerable Seyyasaka:
+Then these bhikkhus, having rebuked the venerable Seyyasaka in various ways, told this matter to the lord. Then the lord on this occasion, in this connection, having had the order of bhikkhus convened, asked the venerable Seyyasaka:
 
 “Is it true, as is said, that you, Seyyasaka, using your hand, emit semen?”
 
@@ -45,17 +45,17 @@ The enlightened one, the lord, rebuked him, saying: “It is not fit, foolish ma
 
 Then the lord having rebuked the venerable Seyyasaka *Vin.3.112* in various ways on account of his difficulty in maintaining his state … said:
 
-“… Thus, monks, this course of training should be set forth:
+“… Thus, bhikkhus, this course of training should be set forth:
 
 Intentional emission of semen is a matter entailing a formal meeting of the Order.”[^11]
 
-Thus this course of training for monks was made known to the lord.
+Thus this course of training for bhikkhus was made known to the lord.
 
 * * *
 
-*Bu-Ss.1.2.1* Now at that time, monks, having eaten abundant food, went to sleep, thoughtless and careless. While they were sleeping, thoughtless and careless, one of them emitted semen as the result of a dream. These were remorseful and said[^12]: “The course of training made *BD.1.196* known by the lord says that intentional emission of semen is a matter requiring a formal meeting of the Order; and because of a dream one of us (did this). Now is this intention permitted? What now if we have fallen into an offence requiring a formal meeting of the Order?” They told this matter to the lord. He said:
+*Bu-Ss.1.2.1* Now at that time, bhikkhus, having eaten abundant food, went to sleep, thoughtless and careless. While they were sleeping, thoughtless and careless, one of them emitted semen as the result of a dream. These were remorseful and said[^12]: “The course of training made *BD.1.196* known by the lord says that intentional emission of semen is a matter requiring a formal meeting of the Order; and because of a dream one of us (did this). Now is this intention permitted? What now if we have fallen into an offence requiring a formal meeting of the Order?” They told this matter to the lord. He said:
 
-“Monks, this was the intention, but it does not apply.[^13] monks, this course of training should be set forth:
+“bhikkhus, this was the intention, but it does not apply.[^13] bhikkhus, this course of training should be set forth:
 
 Intentional emission of semen except during a dream is an offence requiring a formal meeting of the Order.”
 
@@ -88,7 +88,7 @@ In the air, firmness, he meditated on, an aperture, he hit with a stick, /
 In the stream, muddy water, running, a twist of flowers, a lotus,  
 Sand, mud, water, lying down, and with the thumbs.
 
-At one time while a certain monk was dreaming he emitted semen. He was remorseful and said: “What now if I have fallen into an offence entailing a formal meeting of the Order?” That monk told this matter to the lord. He said: “There is no offence for the monk because he was dreaming.”
+At one time while a certain bhikkhu was dreaming he emitted semen. He was remorseful and said: “What now if I have fallen into an offence entailing a formal meeting of the Order?” That bhikkhu told this matter to the lord. He said: “There is no offence for the bhikkhu because he was dreaming.”
 
 * * *
 
@@ -100,7 +100,7 @@ Told is the First Offence entailing a formal Meeting of the Order
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

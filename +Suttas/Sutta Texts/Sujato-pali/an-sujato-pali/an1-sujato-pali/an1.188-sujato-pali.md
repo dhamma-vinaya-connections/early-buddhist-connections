@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1The foremost of my monk disciples in seniority is Aññākoṇḍañña.
+1The foremost of my bhikkhu disciples in seniority is Aññākoṇḍañña.
 
 2 … with great wisdom is Sāriputta.
 

@@ -7,9 +7,9 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
 > ◄  [[bu-pc35-horner]] 📜  [[bu-pc37-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 36
+# bhikkhus’ Expiation (_Pācittiya_) 36
 
-*Bu-Pc.36.1.1* *BD.2.332* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time two monks were travelling to Sāvatthī along a high-road in the Kosalan districts. One monk indulged in bad habits; the second monk said to this monk: “Your reverence, do not do that, it is not allowable.” He grumbled at him.[^1] Then these monks arrived at Sāvatthī. Now at that time food for the Order was (prepared) by a certain guild[^2] in Sāvatthī. The second monk, having eaten, came to be satisfied. The monk who grumbled,[^3] having gone to his relations, taking alms-food, approached that monk, and having approached he said to that monk:
+*Bu-Pc.36.1.1* *BD.2.332* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time two bhikkhus were travelling to Sāvatthī along a high-road in the Kosalan districts. One bhikkhu indulged in bad habits; the second bhikkhu said to this bhikkhu: “Your reverence, do not do that, it is not allowable.” He grumbled at him.[^1] Then these bhikkhus arrived at Sāvatthī. Now at that time food for the Order was (prepared) by a certain guild[^2] in Sāvatthī. The second bhikkhu, having eaten, came to be satisfied. The bhikkhu who grumbled,[^3] having gone to his relations, taking alms-food, approached that bhikkhu, and having approached he said to that bhikkhu:
 
 “Do eat, your reverence.”
 
@@ -17,7 +17,7 @@ language: "English"
 
 “Your reverence, the alms-food is delicious, do eat.”
 
-Then this monk, being pressed by that monk, ate that alms-food. The monk who grumbled *Vin.4.84* said to that monk:
+Then this bhikkhu, being pressed by that bhikkhu, ate that alms-food. The bhikkhu who grumbled *Vin.4.84* said to that bhikkhu:
 
 Your reverence, you think that I should be advised (by you), when you, having eaten, being satisfied, eat soft food that is not left over?”
 
@@ -25,25 +25,25 @@ Your reverence, you think that I should be advised (by you), when you, having ea
 
 “Your reverence, should it not be inquired into?”
 
-Then that monk told this matter to the monks. Those who were modest monks … spread it about, saying:
+Then that bhikkhu told this matter to the bhikkhus. Those who were modest bhikkhus … spread it about, saying:
 
-“How can a monk, asking a monk who has eaten, who is satisfied, invite him (to take) soft food that is not left over?”
+“How can a bhikkhu, asking a bhikkhu who has eaten, who is satisfied, invite him (to take) soft food that is not left over?”
 
-*BD.2.333* “Is it true, as is said, that you, monk, asking a monk … soft food that is not left over?”
+*BD.2.333* “Is it true, as is said, that you, bhikkhu, asking a bhikkhu … soft food that is not left over?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked him, saying:
 
-“How can you, foolish man, asking a monk who has eaten, who is satisfied, invite him (to take) soft food that is not left over? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish man, asking a bhikkhu who has eaten, who is satisfied, invite him (to take) soft food that is not left over? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, asking[^4] a monk who has eaten, who is satisfied, should invite him (to take) solid food or soft food that is not left over, saying: ‘Now, monk, eat or partake of,’[^5] knowing,[^6] desiring to find fault with,[^7] in the eating there is an offence of expiation.”
+“Whatever bhikkhu, asking[^4] a bhikkhu who has eaten, who is satisfied, should invite him (to take) solid food or soft food that is not left over, saying: ‘Now, bhikkhu, eat or partake of,’[^5] knowing,[^6] desiring to find fault with,[^7] in the eating there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.36.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.36.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
-Monk means: another monk.
+bhikkhu means: another bhikkhu.
 
 Having eaten means: … see *Bu-Pc.35.3* … this means _what is not left over_.
 
@@ -61,7 +61,7 @@ Desiring to find fault with means: if he asks (him), saying: ‘I will reprove h
 
 * * *
 
-*Bu-Pc.36.2.3* There is no offence[^13] if, having caused it to be made left over, he gives it; if, having caused it to be made left over, he gives it, saying, “Eat”; if he gives it, saying: “Go away, conveying it for the sake of another”; if he gives the remainder of an ill (monk’s meal); if, when there is a reason, he gives (food to be eaten) during a watch of the night, during seven days, during life, saying, “Make use of it”; if he is mad, if he is the first wrong-doer.
+*Bu-Pc.36.2.3* There is no offence[^13] if, having caused it to be made left over, he gives it; if, having caused it to be made left over, he gives it, saying, “Eat”; if he gives it, saying: “Go away, conveying it for the sake of another”; if he gives the remainder of an ill (bhikkhu’s meal); if, when there is a reason, he gives (food to be eaten) during a watch of the night, during seven days, during life, saying, “Make use of it”; if he is mad, if he is the first wrong-doer.
 
 The Sixth
 
@@ -69,7 +69,7 @@ The Sixth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -17,14 +17,14 @@ language: "English"
 
 2. The Laywoman (2)
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “There’s a devoted laywoman who has an only daughter. How should she instruct her to be accomplished?”
-The monks then said, “Bhagavān, we don’t understand the meaning of this. The Bhagavān is the source of the teachings. The Tathāgata’s words are never unacceptable. Please, Bhagavān, give the monks a discourse about this profound principle. Having heard it, we’ll approve of it.”
-3. The Bhagavān then told the monks, “Listen closely! Listen closely, and consider it well. I will discern the meaning of this for you.”
-The monks replied, “Yes, Bhagavān.” The monks then accepted the teaching from the Buddha.
+2. It was then that the Bhagavān addressed the bhikkhus, “There’s a devoted laywoman who has an only daughter. How should she instruct her to be accomplished?”
+The bhikkhus then said, “Bhagavān, we don’t understand the meaning of this. The Bhagavān is the source of the teachings. The Tathāgata’s words are never unacceptable. Please, Bhagavān, give the bhikkhus a discourse about this profound principle. Having heard it, we’ll approve of it.”
+3. The Bhagavān then told the bhikkhus, “Listen closely! Listen closely, and consider it well. I will discern the meaning of this for you.”
+The bhikkhus replied, “Yes, Bhagavān.” The bhikkhus then accepted the teaching from the Buddha.
 4. The Bhagavān told them, “There is a devoted laywoman who instructs her daughter, ‘While you’re living at home, you should be like the laywomen Kubjottarā or Nanda’s mother. Why is that? They are your standard; they are your measure. The Bhagavān accepted the realization of these disciples, the laywomen Kubjottarā and Nanda’s mother.’<a id="fnref2"></a>[^2] If her daughter decides to cut off her hair, put on the three Dharma robes, leave home, and train on the path, she should be like the nuns Kṣemā and Utpalavarṇā.<a id="fnref3"></a>[^3] Why is that? Then, the nuns Kṣemā and Utpalavarṇā would be her standard; they would be her measure.
-5. “Love training in the correct Dharma, don’t do wrong deeds, and don’t be roused by what’s not Dharma. If you produce defiled ideas here, then you’ll fall into the three bad destinies. When you’re mindful and focused, you’ll attain what you haven’t attained, acquire what you haven’t acquired, and realize in the present what you have yet to realize. Why is that? Monks, the honor of a faithful gift that can’t actually be digested will prevent a person from attaining awakening.
-6. “Therefore, monks, don’t allow defiled ideas to arise. If they’ve already arisen, you must cease them. Thus, monks, you should train yourselves.”
-7. When the monks heard what the Buddha taught, they rejoiced and approved.
+5. “Love training in the correct Dharma, don’t do wrong deeds, and don’t be roused by what’s not Dharma. If you produce defiled ideas here, then you’ll fall into the three bad destinies. When you’re mindful and focused, you’ll attain what you haven’t attained, acquire what you haven’t acquired, and realize in the present what you have yet to realize. Why is that? bhikkhus, the honor of a faithful gift that can’t actually be digested will prevent a person from attaining awakening.
+6. “Therefore, bhikkhus, don’t allow defiled ideas to arise. If they’ve already arisen, you must cease them. Thus, bhikkhus, you should train yourselves.”
+7. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

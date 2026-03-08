@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 639. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū upāhanāruḷhassa dhammaṃ desenti…pe….
 
-## 639.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Monastery. Now at that time the group of six monks were teaching the Dhamma to one wearing shoes [...].
+## 639.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Monastery. Now at that time the group of six bhikkhus were teaching the Dhamma to one wearing shoes [...].
 
 ‘‘Na upāhanāruḷhassa agilānassa dhammaṃ desessāmīti sikkhākaraṇīyā’’ti.
 

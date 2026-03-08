@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Buddha addressed the monks, “On the eighth day of the month, the four god kings send an official to assess the world. They examine the world’s people: ‘Are they kind and pious to their parents, respectful to their elders, serve ascetics and priests, and cultivate good things? Or, do they practice what’s bad and therefore ought to cultivate good things, eliminate the many evils, restrict their senses, and guard the precepts?’
+2. It was then that the Buddha addressed the bhikkhus, “On the eighth day of the month, the four god kings send an official to assess the world. They examine the world’s people: ‘Are they kind and pious to their parents, respectful to their elders, serve ascetics and priests, and cultivate good things? Or, do they practice what’s bad and therefore ought to cultivate good things, eliminate the many evils, restrict their senses, and guard the precepts?’
 
 3. “On the fourteenth day of the month, the four god kings send a prince to assess the world …
 
@@ -40,7 +40,7 @@ language: "English"
     These people will obtain birth in heaven  
     With virtues like myself.’”
 
-9. The Buddha addressed the monks, “What Lord Śakra said is not called well spoken. Why is that? If an arhat ends the contaminants and accomplishes the task, they should say these verses:
+9. The Buddha addressed the bhikkhus, “What Lord Śakra said is not called well spoken. Why is that? If an arhat ends the contaminants and accomplishes the task, they should say these verses:
 
 - “‘On the eighth and fourteenth days of the month  
     As well as the fifteenth day of the month  
@@ -51,7 +51,7 @@ language: "English"
 
 10. “The Buddha and the arhat should speak these verses, which are famous and true words called ‘well spoken.’”
 
-11. After he said this, the monks who heard what the Buddha taught rejoiced and approved.
+11. After he said this, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

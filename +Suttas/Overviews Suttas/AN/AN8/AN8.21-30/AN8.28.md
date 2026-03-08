@@ -51,7 +51,7 @@ parallels_partilal: "[[AN10.90]], [[SN50.1-12]], [[SA694-698]]"
 > [!info] Key Excerpts 
 > Wisdom to see all conditions as truly impermanent, sensual pleasures are truly like a pit of glowing coals, inclines to seclusion, well developed the four kinds of mindfulness meditation, the four bases of psychic power …the five faculties … the seven awakening factors … the noble eightfold path
 > 
-> A mendicant who has ended the defilements has these eight powers that qualify them to claim: ‘my defilements have ended
+> A bhikkhu who has ended the defilements has these eight powers that qualify them to claim: ‘my defilements have ended
 > 
 
 

@@ -49,7 +49,7 @@ parallels_partilal: "[[AN9.16]]"
 > [!info] Key Excerpts 
 > Meditates observing the ugliness of the body,  repulsiveness of food, dissatisfaction with the whole world, observes the impermanence of all conditions, and perception of their own death. mindfulness inside themselves in order to understand the arising and passing away of phenomena,
 > 
-> If a weak and sick mendicant does not neglect these five things, it can be expected that they will soon realize the undefiled freedom
+> If a weak and sick bhikkhu does not neglect these five things, it can be expected that they will soon realize the undefiled freedom
 > 
 
 

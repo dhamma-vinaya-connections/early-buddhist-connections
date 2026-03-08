@@ -15,7 +15,7 @@ language: "English"
 ## ## Arahanta Sutta
 
 
-“An arahant monk,
+“An arahant bhikkhu,
 
 one who is done,
 
@@ -25,7 +25,7 @@ Would he say, ‘I speak’?
 
 Would he say, ‘They speak to me’?”
 
-“An arahant monk,
+“An arahant bhikkhu,
 
 one who is done,
 
@@ -45,7 +45,7 @@ he uses expressions
 
 just as expressions.”
 
-“An arahant monk,
+“An arahant bhikkhu,
 
 one who is done,
 

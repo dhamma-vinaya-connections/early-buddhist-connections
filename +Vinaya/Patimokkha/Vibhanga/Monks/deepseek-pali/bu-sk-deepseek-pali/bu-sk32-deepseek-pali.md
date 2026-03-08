@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 606. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū asakkaccaṃ piṇḍapātaṃ bhuñjanti abhuñjitukāmā viya…pe….
 
-## 606.At that time the Blessed One was dwelling at Sāvatthī in Jeta Grove, Anāthapiṇḍika’s Monastery. Now at that time the group of six monks were eating almsfood disrespectfully, as if not wanting to eat….
+## 606.At that time the Blessed One was dwelling at Sāvatthī in Jeta Grove, Anāthapiṇḍika’s Monastery. Now at that time the group of six bhikkhus were eating almsfood disrespectfully, as if not wanting to eat….
 
 ‘‘Sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā’’ti.
 

@@ -58,11 +58,11 @@ not in heaven nor in any abode.”
 are those who revere that supreme person,  
 who lives for the good of mankind, also worthy of praise?”
 
-8“The mendicants who revere one freed in this way,”  
+8“The bhikkhus who revere one freed in this way,”  
 said the Buddha,  
 “are also worthy of praise, Mogharāja.  
 But having understood the teaching and given up doubt,  
-those mendicants can get over clinging.”
+those bhikkhus can get over clinging.”
 
 #### Pali
 

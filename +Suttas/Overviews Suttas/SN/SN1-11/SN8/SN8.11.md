@@ -50,7 +50,7 @@ parallels_partilal: "[[SA-2.224]], [[SA1208]]"
 > They listen to the immaculate dhamma
 Taught by the fully awakened Buddha ;
 The Buddha  is so brilliant,
-At the fore of the mendicant saṅgha
+At the fore of the bhikkhu saṅgha
 > 
 > When the Dhamma has been so well taught,
 How could those who know it be negligent?

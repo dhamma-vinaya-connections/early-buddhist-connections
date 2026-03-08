@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these seven underlying tendencies. What seven? The underlying tendencies of sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance. These are the seven underlying tendencies.”
+1“bhikkhus, there are these seven underlying tendencies. What seven? The underlying tendencies of sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance. These are the seven underlying tendencies.”
 
 1"Sattime, bhikkhave, anusayā. Katame satta? Kāmarāgānusayo, paṭighānusayo, diṭṭhānusayo, vicikicchānusayo, mānānusayo, bhavarāgānusayo, avijjānusayo. Ime kho, bhikkhave, satta anusayā"ti.
 

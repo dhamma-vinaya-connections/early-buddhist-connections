@@ -53,16 +53,16 @@ is not very fruitful.”
 
 7That’s what the god Tāyana said. Then he bowed and respectfully circled the Buddha, keeping him on his right side, before vanishing right there.
 
-8Then, when the night had passed, the Buddha told the mendicants all that had happened.
+8Then, when the night had passed, the Buddha told the bhikkhus all that had happened.
 
 
-“Mendicants, tonight, the glorious god Tāyana, formerly a religious founder, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and recited these verses in my presence.”
+“bhikkhus, tonight, the glorious god Tāyana, formerly a religious founder, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and recited these verses in my presence.”
 
 
 The Buddha repeated the verses in full, adding:
 
 
-14“That’s what the god Tāyana said. Then he bowed and respectfully circled me, keeping me on his right side, before vanishing right there. Mendicants, learn the verses of Tāyana! Memorize the verses of Tāyana! Remember the verses of Tāyana! These verses are beneficial and relate to the fundamentals of the spiritual life.”
+14“That’s what the god Tāyana said. Then he bowed and respectfully circled me, keeping me on his right side, before vanishing right there. bhikkhus, learn the verses of Tāyana! Memorize the verses of Tāyana! Remember the verses of Tāyana! These verses are beneficial and relate to the fundamentals of the spiritual life.”
 
 #### Pali
 

@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six spoke with food in their mouths. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six spoke with food in their mouths. …
 
 #### Final ruling
 
 2“‘I will not speak with food in my mouth,’ this is how you should train.”
 
-3One should not speak with food in one’s mouth. If a monk, out of disrespect, speaks with food in his mouth, he commits an offense of wrong conduct.
+3One should not speak with food in one’s mouth. If a bhikkhu, out of disrespect, speaks with food in his mouth, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

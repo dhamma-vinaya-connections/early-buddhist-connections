@@ -15,25 +15,25 @@ language: "English"
 ## ## Sovacassatā Sutta
 
 
-“Last night, monks, a certain devatā in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta’s Grove, came to me and, on arrival, bowed down to me and stood to one side. As she was standing there, she said to me, ‘These seven qualities, lord, lead to a monk’s non-decline. Which seven? Respect for the teacher, respect for the Dhamma, respect for the Saṅgha, respect for training, respect for samādhi, compliance, having admirable friends. These seven qualities, lord, lead to a monk’s non-decline.’
+“Last night, bhikkhus, a certain devatā in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta’s Grove, came to me and, on arrival, bowed down to me and stood to one side. As she was standing there, she said to me, ‘These seven qualities, lord, lead to a bhikkhu’s non-decline. Which seven? Respect for the teacher, respect for the Dhamma, respect for the Saṅgha, respect for training, respect for samādhi, compliance, having admirable friends. These seven qualities, lord, lead to a bhikkhu’s non-decline.’
 
 “That is what that devatā said. Having said it, she bowed down to me, circled me three times, and then disappeared right there.”
 
 When this was said, Ven. Sāriputta said to the Blessed One, “This, lord, is how I understand the detailed meaning of the Blessed One’s brief statement.
 
-“There is the case where a monk himself has respect for the Teacher. He speaks in praise of having respect for the Teacher. With regard to those other monks who don’t have respect for the Teacher, he gets them to undertake respect for the Teacher. As for those other monks who do have respect for the Teacher, he at the proper times speaks in praise of them—truly, accurately.
+“There is the case where a bhikkhu himself has respect for the Teacher. He speaks in praise of having respect for the Teacher. With regard to those other bhikkhus who don’t have respect for the Teacher, he gets them to undertake respect for the Teacher. As for those other bhikkhus who do have respect for the Teacher, he at the proper times speaks in praise of them—truly, accurately.
 
-“There is the case where a monk himself has respect for the Dhamma.…
+“There is the case where a bhikkhu himself has respect for the Dhamma.…
 
-“There is the case where a monk himself has respect for the Saṅgha.…
+“There is the case where a bhikkhu himself has respect for the Saṅgha.…
 
-“There is the case where a monk himself has respect for training.…
+“There is the case where a bhikkhu himself has respect for training.…
 
-“There is the case where a monk himself has respect for samādhi.…
+“There is the case where a bhikkhu himself has respect for samādhi.…
 
-“There is the case where a monk himself is compliant.…
+“There is the case where a bhikkhu himself is compliant.…
 
-“There is the case where a monk himself has admirable friends. He speaks in praise of having admirable friends. With regard to those other monks who don’t have admirable friends, he gets them to undertake admirable friendship. As for those other monks who do have admirable friends, he at the proper times speaks in praise of them—truly, accurately.
+“There is the case where a bhikkhu himself has admirable friends. He speaks in praise of having admirable friends. With regard to those other bhikkhus who don’t have admirable friends, he gets them to undertake admirable friendship. As for those other bhikkhus who do have admirable friends, he at the proper times speaks in praise of them—truly, accurately.
 
 “This, lord, is how I understand the detailed meaning of the Blessed One’s brief statement.”
 

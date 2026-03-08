@@ -15,7 +15,7 @@ language: "English"
 ## ## Ānisaṁsa Sutta
 
 
-“Monks, there are these six rewards in realizing the fruit of stream-entry. Which six? One is certain of the true Dhamma. One is not subject to falling back. There is no suffering over what has had a limit placed on it.[1](#^[[an6-thanissaro]].97note01) One is endowed with uncommon knowledge.[2](#^[[an6-thanissaro]].97note02) One rightly sees cause, along with causally-originated phenomena. ^[[an6-thanissaro]].97note01-ref ^[[an6-thanissaro]].97note02-ref
+“bhikkhus, there are these six rewards in realizing the fruit of stream-entry. Which six? One is certain of the true Dhamma. One is not subject to falling back. There is no suffering over what has had a limit placed on it.[1](#^[[an6-thanissaro]].97note01) One is endowed with uncommon knowledge.[2](#^[[an6-thanissaro]].97note02) One rightly sees cause, along with causally-originated phenomena. ^[[an6-thanissaro]].97note01-ref ^[[an6-thanissaro]].97note02-ref
 
 “These are the six rewards in realizing the fruit of Stream-entry.”
 

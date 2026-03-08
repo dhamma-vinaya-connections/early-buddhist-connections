@@ -18,19 +18,19 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time a number of nuns who had completed the rainy-season residence in a village monastery went to Sāvatthī. The nuns there asked them, “Venerables, where did you spend the rains residence? Where did you invite the Sangha of monks for correction?”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time a number of nuns who had completed the rainy-season residence in a village monastery went to Sāvatthī. The nuns there asked them, “Venerables, where did you spend the rains residence? Where did you invite the Sangha of bhikkhus for correction?”
 
-“We didn’t invite the Sangha of monks for correction.”
+“We didn’t invite the Sangha of bhikkhus for correction.”
 
 
-2The nuns of few desires complained and criticized them, “How could nuns who have completed the rains residence not invite the Sangha of monks for correction?” …
+2The nuns of few desires complained and criticized them, “How could nuns who have completed the rains residence not invite the Sangha of bhikkhus for correction?” …
 
-“Is it true, monks, that nuns didn’t do this?”
+“Is it true, bhikkhus, that nuns didn’t do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could nuns not do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How could nuns not do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

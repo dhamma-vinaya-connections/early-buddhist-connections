@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: ""
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC23]] 🌐 [[BU-PC25]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 3 Bhikkhunovāda-Vaggo - 3 Instruction
 ## BU-PC24 - Āmisa - Teaching Nuns for Profit
 
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu evaṃ vadeyya \"āmisahetu therā bhikkhū bhikkhuniyo ovadantī\"ti, pācittiyaṃ | If a monk says that the senior monks are instructing the nuns for the sake of worldly gain, he commits an offense entailing confession |
+| Yo pana bhikkhu evaṃ vadeyya \"āmisahetu therā bhikkhū bhikkhuniyo ovadantī\"ti, pācittiyaṃ | If a monk says that the senior bhikkhus are instructing the nuns for the sake of worldly gain, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule
@@ -63,7 +63,7 @@ vin_gender-corr: ""
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC24 |  | Vin.3.1–3.40 |
 

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 74
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three types of sons & daughters existing in the world. Which three? One of heightened birth, one of similar birth, one of lowered birth.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three types of sons & daughters existing in the world. Which three? One of heightened birth, one of similar birth, one of lowered birth.
 
 “And how is a son or daughter of heightened birth? There is the case where a son or daughter’s parents have not gone to the Buddha for refuge, have not gone to the Dhamma for refuge, have not gone to the Saṅgha for refuge. They do not abstain from taking life, from stealing, from sexual misconduct, from false speech, from fermented & distilled liquors that cause heedlessness. They are unprincipled & evil by nature. However, their son or daughter has gone to the Buddha for refuge, has gone to the Dhamma for refuge, has gone to the Saṅgha for refuge. He/she abstains from taking life, from stealing, from sexual misconduct, from false speech, from fermented & distilled liquors that cause heedlessness. He/she is principled & admirable by nature. This is called a son or daughter of heightened birth.
 

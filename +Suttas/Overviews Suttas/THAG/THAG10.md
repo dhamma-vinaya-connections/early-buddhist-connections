@@ -46,7 +46,7 @@ parallels_partilal: ""
 > [!info] Summary
 > Come now, I’ll go alone
 to the wilderness praised by the Buddha.
-It’s pleasant for a mendicant
+It’s pleasant for a bhikkhu
 to be dwelling alone and resolute.
 
 > [!info] Key Excerpts 

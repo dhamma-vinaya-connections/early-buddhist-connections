@@ -20,16 +20,16 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu, Mahāpajāpati Gotamī went to him and bowed. Standing downwind from him, she said, “Venerable Sir, women smell.”
 
-“Well then, the nuns should clean themselves with water.” And the Buddha instructed, inspired, and gladdened her with a teaching, after which she bowed down, circumambulated him with her right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks: “Monks, I allow the nuns to clean themselves with water.”
+“Well then, the nuns should clean themselves with water.” And the Buddha instructed, inspired, and gladdened her with a teaching, after which she bowed down, circumambulated him with her right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus: “bhikkhus, I allow the nuns to clean themselves with water.”
 
 Being aware that the Buddha had allowed cleaning with water, a nun did it too deeply, causing a sore in her vagina.
 
-2She told the nuns what had happened. The nuns of few desires complained and criticized her, “How could a nun clean herself too deeply with water?” … “Is it true, monks, that a nun did this?”
+2She told the nuns what had happened. The nuns of few desires complained and criticized her, “How could a nun clean herself too deeply with water?” … “Is it true, bhikkhus, that a nun did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her, “How could a nun clean herself too deeply with water? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her, “How could a nun clean herself too deeply with water? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

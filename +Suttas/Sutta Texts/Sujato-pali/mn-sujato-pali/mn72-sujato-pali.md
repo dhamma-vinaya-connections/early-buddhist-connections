@@ -74,7 +74,7 @@ Then the wanderer Vacchagotta went up to the Buddha and exchanged greetings with
 “The Realized One has done away with convictions. For the Realized One has seen: ‘Such is form, such is the origin of form, such is the ending of form. Such is feeling, such is the origin of feeling, such is the ending of feeling. Such is perception, such is the origin of perception, such is the ending of perception. Such are choices, such is the origin of choices, such is the ending of choices. Such is consciousness, such is the origin of consciousness, such is the ending of consciousness.’ That’s why the Realized One is freed with the ending, fading away, cessation, giving up, and letting go of all identifying, all worries, and all ego, possessiveness, or underlying tendency to conceit, I say.”
 
 
-17“But Master Gotama, when a mendicant’s mind is freed like this, where are they reborn?”
+17“But Master Gotama, when a bhikkhu’s mind is freed like this, where are they reborn?”
 
 
 “‘They’re reborn’ doesn’t apply, Vaccha.”

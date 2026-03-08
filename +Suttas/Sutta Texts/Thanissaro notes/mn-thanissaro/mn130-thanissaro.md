@@ -15,11 +15,11 @@ language: "English"
 ## ## Devadūta Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the monks, “Monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the bhikkhus, “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said, “Monks, it’s as if there were two households with doors, and a man of good eyesight, standing there between them, would see people entering & leaving a house, wandering out & about. In the same way, I—by means of the divine eye, purified & surpassing the human—see beings passing away & re-appearing, and I discern how they are inferior & superior, beautiful & ugly, fortunate & unfortunate in accordance with their actions: ‘O, how these beings—who were endowed with good conduct of body, speech, & mind, who did not revile noble ones, who held right views and undertook actions under the influence of right views—with the break-up of the body, after death, have re-appeared in a good destination, a heavenly world. Or how these beings—who were endowed with bad conduct of body, speech & mind, who reviled noble ones, held wrong views and undertook actions under the influence of wrong views—with the break-up of the body, after death, have re-appeared in the realm of the hungry ghosts. Or how these beings—who were endowed with bad conduct of body, speech & mind, who reviled noble ones, held wrong views and undertook actions under the influence of wrong views—with the break-up of the body, after death, have re-appeared in the animal womb. Or how these beings—who were endowed with bad conduct of body, speech & mind, who reviled noble ones, held wrong views and undertook actions under the influence of wrong views—with the break-up of the body, after death, have re-appeared in a plane of deprivation, a bad destination, a lower realm, hell.’
+The Blessed One said, “bhikkhus, it’s as if there were two households with doors, and a man of good eyesight, standing there between them, would see people entering & leaving a house, wandering out & about. In the same way, I—by means of the divine eye, purified & surpassing the human—see beings passing away & re-appearing, and I discern how they are inferior & superior, beautiful & ugly, fortunate & unfortunate in accordance with their actions: ‘O, how these beings—who were endowed with good conduct of body, speech, & mind, who did not revile noble ones, who held right views and undertook actions under the influence of right views—with the break-up of the body, after death, have re-appeared in a good destination, a heavenly world. Or how these beings—who were endowed with bad conduct of body, speech & mind, who reviled noble ones, held wrong views and undertook actions under the influence of wrong views—with the break-up of the body, after death, have re-appeared in the realm of the hungry ghosts. Or how these beings—who were endowed with bad conduct of body, speech & mind, who reviled noble ones, held wrong views and undertook actions under the influence of wrong views—with the break-up of the body, after death, have re-appeared in the animal womb. Or how these beings—who were endowed with bad conduct of body, speech & mind, who reviled noble ones, held wrong views and undertook actions under the influence of wrong views—with the break-up of the body, after death, have re-appeared in a plane of deprivation, a bad destination, a lower realm, hell.’
 
 “Then the hell-wardens, seizing (such a being) by the arms, present him to King Yama: ‘This is a man, your majesty, with no respect for mother, no respect for father,[1](#^mn130note01) no reverence for contemplatives, no reverence for brahmans, no honor for the leaders of his clan. Let your majesty decree his punishment.’ ^mn130note01-ref
 
@@ -99,7 +99,7 @@ Then King Yama says, ‘My good man, through heedlessness you did not do what is
 
 “Then the hell-wardens lay him down and slice him with axes. Then they hold him feet up & head down and slice him with adzes. Then they harness him to a chariot and drive him back & forth over ground that is burning, blazing, & glowing. Then they make him climb up & down a vast mountain of embers that is burning, blazing, & glowing. Then they hold him feet up & head down and plunge him into a red-hot copper cauldron that is burning, blazing, & glowing. There he boils with bubbles foaming. And as he is boiling there with bubbles foaming, he goes now up, he goes now down, he goes now around. There he feels painful, racking, piercing feelings, yet he does not die as long as his evil kamma is not exhausted.[4](#^mn130note04) ^mn130note04-ref
 
-“Then the hell-wardens throw him into the Great Hell. And as to the Great Hell, monks:
+“Then the hell-wardens throw him into the Great Hell. And as to the Great Hell, bhikkhus:
 
 It’s four-cornered & has four gates
 
@@ -137,9 +137,9 @@ It stands always, spreading 100 leagues all around.
 
 “Then the hell-wardens throw him back into the Great Hell once more.[6](#^mn130note06) ^mn130note06-ref
 
-“Once, monks, the thought occurred to King Yama: ‘Those who did evil actions in the world are tortured in these many ways. O that I might gain the human state! And that a Tathāgata—worthy & rightly self-awakened—might arise in the world! And that I might attend to that Tathāgata! And that he might teach me the Dhamma! And that I might understand his Dhamma!’
+“Once, bhikkhus, the thought occurred to King Yama: ‘Those who did evil actions in the world are tortured in these many ways. O that I might gain the human state! And that a Tathāgata—worthy & rightly self-awakened—might arise in the world! And that I might attend to that Tathāgata! And that he might teach me the Dhamma! And that I might understand his Dhamma!’
 
-“I tell you this, monks, not from having heard it from another contemplative or brahman. On the contrary, I tell you this just as I have known for myself, seen for myself, understood for myself.”
+“I tell you this, bhikkhus, not from having heard it from another contemplative or brahman. On the contrary, I tell you this just as I have known for myself, seen for myself, understood for myself.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 

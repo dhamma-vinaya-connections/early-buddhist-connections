@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 68
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, anyone whose passion is unabandoned, whose aversion is unabandoned, whose delusion is unabandoned is said to have gone over to Māra’s camp, has come under Māra’s power. The Evil One can do with that person as he likes. But anyone whose passion is abandoned, whose aversion is abandoned, whose delusion is abandoned is said not to have gone over to Māra’s camp, has thrown off Māra’s power. With that person, the Evil One cannot do as he likes.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, anyone whose passion is unabandoned, whose aversion is unabandoned, whose delusion is unabandoned is said to have gone over to Māra’s camp, has come under Māra’s power. The Evil One can do with that person as he likes. But anyone whose passion is abandoned, whose aversion is abandoned, whose delusion is abandoned is said not to have gone over to Māra’s camp, has thrown off Māra’s power. With that person, the Evil One cannot do as he likes.”
 
 Anyone
 

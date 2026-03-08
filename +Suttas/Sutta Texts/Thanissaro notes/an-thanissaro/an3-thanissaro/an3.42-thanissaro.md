@@ -15,7 +15,7 @@ language: "English"
 ## ## Ṭhāna Sutta
 
 
-“In these three instances, monks, one can be recognized as a person of conviction & confidence. Which three? One wants to see virtuous people. One wants to hear the True Dhamma. One’s awareness cleansed of the stain of stinginess, one lives at home, freely generous, openhanded, delighting in being magnanimous, responsive to requests, delighting in the distribution of alms. In these three instances, monks, one can be recognized as a person of conviction & confidence.”
+“In these three instances, bhikkhus, one can be recognized as a person of conviction & confidence. Which three? One wants to see virtuous people. One wants to hear the True Dhamma. One’s awareness cleansed of the stain of stinginess, one lives at home, freely generous, openhanded, delighting in being magnanimous, responsive to requests, delighting in the distribution of alms. In these three instances, bhikkhus, one can be recognized as a person of conviction & confidence.”
 
 One who wants to see virtuous ones,
 

@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the nuns from the group of six were bathing with scents and oil-seed flour. People complained and criticized them, “How can nuns bathe with scents and oil-seed flour? They’re just like householders who indulge in worldly pleasures!”
 
-2The nuns heard the complaints of those people. The nuns of few desires complained and criticized them, “How can the nuns from the group of six bathe with scents and oil-seed flour?” … “Is it true, monks, that those nuns do this?”
+2The nuns heard the complaints of those people. The nuns of few desires complained and criticized them, “How can the nuns from the group of six bathe with scents and oil-seed flour?” … “Is it true, bhikkhus, that those nuns do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns from the group of six do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

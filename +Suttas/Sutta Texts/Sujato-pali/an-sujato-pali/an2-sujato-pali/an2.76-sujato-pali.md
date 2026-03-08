@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these two kinds of happiness. What two? Happiness that relies on form and happiness that relies on the formless. These are the two kinds of happiness. The better of these two kinds of happiness is happiness that relies on the formless.”
+1“There are, bhikkhus, these two kinds of happiness. What two? Happiness that relies on form and happiness that relies on the formless. These are the two kinds of happiness. The better of these two kinds of happiness is happiness that relies on the formless.”
 
 1"Dvemāni, bhikkhave, sukhāni. Katamāni dve? Rūpārammaṇañca sukhaṁ arūpārammaṇañca sukhaṁ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ sukhānaṁ yadidaṁ arūpārammaṇaṁ sukhan"ti.
 

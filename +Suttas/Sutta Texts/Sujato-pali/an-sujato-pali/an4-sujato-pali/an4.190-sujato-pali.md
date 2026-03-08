@@ -22,23 +22,23 @@ language: "English - Pali"
 
 1At one time the Buddha was staying near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother.
 
-Now, at that time it was the sabbath, and the Buddha was sitting surrounded by the Saṅgha of monks. Then the Buddha looked around the Saṅgha of monks, who were so very silent. He addressed them:
+Now, at that time it was the sabbath, and the Buddha was sitting surrounded by the Saṅgha of bhikkhus. Then the Buddha looked around the Saṅgha of bhikkhus, who were so very silent. He addressed them:
 
-2“This assembly has no nonsense, mendicants, it’s free of nonsense. It consists purely of the essential core. Such is this Saṅgha of monks, such is this assembly! An assembly such as this is rarely seen in the world. An assembly such as this is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and is the supreme field of merit for the world. Even a small gift to an assembly such as this is plentiful, while giving more is even more plentiful. An assembly such as this is worth traveling many leagues to see, even if you have to carry your own provisions in a shoulder bag.
-
-
-3There are monks staying in this Saṅgha who have attained to the gods. There are monks staying in this Saṅgha who have attained to Brahmā. There are monks staying in this Saṅgha who have attained to the imperturbable. There are monks staying in this Saṅgha who have attained to nobility.
-
-4And how has a monk attained to the gods? It’s when a monk, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna … third jhāna … fourth jhāna … That’s how a monk has attained to the gods.
-
-5And how has a monk attained to Brahmā? Firstly, a monk meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. Furthermore, a monk meditates spreading a heart full of compassion … rejoicing … equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will. That’s how a monk has attained to Brahmā.
-
-6And how has a monk attained to the imperturbable? It’s when a monk — going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity — aware that ‘space is infinite’, enters and remains in the dimension of infinite space. Going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, he enters and remains in the dimension of infinite consciousness. Going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, he enters and remains in the dimension of nothingness. Going totally beyond the dimension of nothingness, he enters and remains in the dimension of neither perception nor non-perception. That’s how a monk has attained to the imperturbable.
+2“This assembly has no nonsense, bhikkhus, it’s free of nonsense. It consists purely of the essential core. Such is this Saṅgha of bhikkhus, such is this assembly! An assembly such as this is rarely seen in the world. An assembly such as this is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with joined palms, and is the supreme field of merit for the world. Even a small gift to an assembly such as this is plentiful, while giving more is even more plentiful. An assembly such as this is worth traveling many leagues to see, even if you have to carry your own provisions in a shoulder bag.
 
 
-7And how has a monk attained to nobility? It’s when they truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’.
+3There are bhikkhus staying in this Saṅgha who have attained to the gods. There are bhikkhus staying in this Saṅgha who have attained to Brahmā. There are bhikkhus staying in this Saṅgha who have attained to the imperturbable. There are bhikkhus staying in this Saṅgha who have attained to nobility.
 
-That’s how a monk has attained to nobility.”
+4And how has a bhikkhu attained to the gods? It’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna … third jhāna … fourth jhāna … That’s how a bhikkhu has attained to the gods.
+
+5And how has a bhikkhu attained to Brahmā? Firstly, a bhikkhu meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. Furthermore, a bhikkhu meditates spreading a heart full of compassion … rejoicing … equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will. That’s how a bhikkhu has attained to Brahmā.
+
+6And how has a bhikkhu attained to the imperturbable? It’s when a bhikkhu — going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity — aware that ‘space is infinite’, enters and remains in the dimension of infinite space. Going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, he enters and remains in the dimension of infinite consciousness. Going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, he enters and remains in the dimension of nothingness. Going totally beyond the dimension of nothingness, he enters and remains in the dimension of neither perception nor non-perception. That’s how a bhikkhu has attained to the imperturbable.
+
+
+7And how has a bhikkhu attained to nobility? It’s when they truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’.
+
+That’s how a bhikkhu has attained to nobility.”
 
 #### Pali
 

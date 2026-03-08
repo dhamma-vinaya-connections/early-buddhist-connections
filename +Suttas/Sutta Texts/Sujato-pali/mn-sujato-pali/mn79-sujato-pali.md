@@ -161,7 +161,7 @@ This is the grounded path for realizing a world of perfect happiness.”
 
 35“Well sir, what is that grounded path for realizing a world of perfect happiness?”
 
-“It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna. With the fading away of rapture, they enter and remain in the third jhāna. This is the grounded path for realizing a world of perfect happiness.”
+“It’s when a bhikkhu, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna. With the fading away of rapture, they enter and remain in the third jhāna. This is the grounded path for realizing a world of perfect happiness.”
 
 36“Sir, that’s not the grounded path for realizing a world of perfect happiness. At that point a perfectly happy world has already been realized.”
 
@@ -175,23 +175,23 @@ This is the grounded path for realizing a world of perfect happiness.”
 “Well sir, at what point is a perfectly happy world realized?”
 
 
-“It’s when, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna. There are deities who have been reborn in a perfectly happy world. That mendicant associates with them, converses, and engages in discussion. It’s at this point that a perfectly happy world has been realized.”
+“It’s when, giving up pleasure and pain, and ending former happiness and sadness, a bhikkhu enters and remains in the fourth jhāna. There are deities who have been reborn in a perfectly happy world. That bhikkhu associates with them, converses, and engages in discussion. It’s at this point that a perfectly happy world has been realized.”
 
 
-39“Surely the mendicants must live the spiritual life under the Buddha for the sake of realizing this perfectly happy world?”
+39“Surely the bhikkhus must live the spiritual life under the Buddha for the sake of realizing this perfectly happy world?”
 
-“No, Udāyī, the mendicants don’t live the spiritual life under me for the sake of realizing this perfectly happy world.
+“No, Udāyī, the bhikkhus don’t live the spiritual life under me for the sake of realizing this perfectly happy world.
 
-There are other things that are finer, for the sake of which the mendicants live the spiritual life under me.”
+There are other things that are finer, for the sake of which the bhikkhus live the spiritual life under me.”
 
 40“But what are those finer things?”
 
 
 “It’s when a Realized One arises in the world, perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed. …
 
-They give up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna. This is one of the finer things for the sake of which the mendicants live the spiritual life under me.
+They give up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna. This is one of the finer things for the sake of which the bhikkhus live the spiritual life under me.
 
-41Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna … third jhāna … fourth jhāna. This too is one of the finer things.
+41Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna … third jhāna … fourth jhāna. This too is one of the finer things.
 
 42When their mind has become immersed in samādhi like this — purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable — they extend it toward recollection of past lives. They recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. They recollect their many kinds of past lives, with features and details. This too is one of the finer things.
 
@@ -202,10 +202,10 @@ They give up these five hindrances, corruptions of the heart that weaken wisdom.
 
 Knowing and seeing like this, their mind is freed from the defilements of sensuality, desire to be reborn, and ignorance. When they’re freed, they know they’re freed.
 
-They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’ This too is one of the finer things. These are the finer things for the sake of which the mendicants live the spiritual life under me.”
+They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’ This too is one of the finer things. These are the finer things for the sake of which the bhikkhus live the spiritual life under me.”
 
 
-45When he had spoken, Sakuludāyī said to the Buddha: “Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
+45When he had spoken, Sakuludāyī said to the Buddha: “Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
 
 
 46When he said this, Sakuludāyī’s assembly said to him: “Master Udāyī, don’t live the spiritual life under the ascetic Gotama. You have been a teacher; don’t live as a student. The consequence for you will be as if a water jar were to become a water jug. Master Udāyī, don’t live the spiritual life under the ascetic Gotama. You have been a teacher; don’t live as a student.” And that’s how the wanderer Sakuludāyī’s own assembly prevented him from living the spiritual life under the Buddha.

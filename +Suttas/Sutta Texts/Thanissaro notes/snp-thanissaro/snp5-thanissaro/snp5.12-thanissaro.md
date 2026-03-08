@@ -48,7 +48,7 @@ it’s through that
 
 that Māra pursues them.
 
-So a monk, mindful,
+So a bhikkhu, mindful,
 
 seeing these people
 

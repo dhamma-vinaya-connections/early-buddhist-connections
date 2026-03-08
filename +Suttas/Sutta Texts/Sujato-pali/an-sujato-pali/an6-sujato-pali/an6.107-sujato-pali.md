@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three things. What three? Greed, hate, and delusion. These are the three things. To give up these three things you should develop three things. What three? You should develop the perception of ugliness to give up greed, love to give up hate, and wisdom to give up delusion. These are the three things you should develop to give up those three things.”
+1“bhikkhus, there are these three things. What three? Greed, hate, and delusion. These are the three things. To give up these three things you should develop three things. What three? You should develop the perception of ugliness to give up greed, love to give up hate, and wisdom to give up delusion. These are the three things you should develop to give up those three things.”
 
 1"Tayome, bhikkhave, dhammā. Katame tayo? Rāgo, doso, moho. Ime kho, bhikkhave, tayo dhammā. Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Rāgassa pahānāya asubhā bhāvetabbā, dosassa pahānāya mettā bhāvetabbā, mohassa pahānāya paññā bhāvetabbā. Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya ime tayo dhammā bhāvetabbā"ti.
 

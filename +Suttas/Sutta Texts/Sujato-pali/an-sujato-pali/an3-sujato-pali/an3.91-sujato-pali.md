@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants. He arrived at a town of the Kosalans named Paṅkadhā, and stayed there.
+1At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of bhikkhus. He arrived at a town of the Kosalans named Paṅkadhā, and stayed there.
 
-Now, at that time a monk called Kassapagotta was resident at Paṅkadhā. There the Buddha educated, encouraged, fired up, and inspired the mendicants with a Dhamma talk about the training rules. Kassapagotta became quite impatient and bitter, thinking: “This ascetic is much too strict.”
+Now, at that time a bhikkhu called Kassapagotta was resident at Paṅkadhā. There the Buddha educated, encouraged, fired up, and inspired the bhikkhus with a Dhamma talk about the training rules. Kassapagotta became quite impatient and bitter, thinking: “This ascetic is much too strict.”
 
 When the Buddha had stayed in Paṅkadhā as long as he wished, he set out for Rājagaha. Traveling stage by stage, he arrived at Rājagaha, and stayed there.
 
@@ -32,19 +32,19 @@ When the Buddha had stayed in Paṅkadhā as long as he wished, he set out for R
 Then Kassapagotta set his lodgings in order and, taking his bowl and robe, set out for Rājagaha. Eventually he came to Rājagaha and the Vulture’s Peak. He went up to the Buddha, bowed, sat down to one side, and told him what had happened, saying:
 
 
-3“I have made a mistake, sir. It was foolish, stupid, and unskillful of me to become impatient and bitter when the Buddha was educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk about the training rules, and to think, ‘This ascetic is much too strict.’ Please, sir, accept my mistake for what it is, so I will restrain myself in future.”
+3“I have made a mistake, sir. It was foolish, stupid, and unskillful of me to become impatient and bitter when the Buddha was educating, encouraging, firing up, and inspiring the bhikkhus with a Dhamma talk about the training rules, and to think, ‘This ascetic is much too strict.’ Please, sir, accept my mistake for what it is, so I will restrain myself in future.”
 
 
 4“Indeed, Kassapa, you made a mistake. But since you have recognized your mistake for what it is, and have dealt with it properly, I accept it. For it is growth in the training of the noble one to recognize a mistake for what it is, deal with it properly, and commit to restraint in the future.
 
-5Kassapa, take the case of a senior mendicant who doesn’t want to train and doesn’t praise taking up the training. They don’t encourage other mendicants who don’t want to train to take up the training. And they don’t truthfully and substantively praise at the right time those mendicants who do want to train. I don’t praise that kind of senior mendicant. Why is that? Because, hearing that I praised that mendicant, other mendicants might want to keep company with them. Then they might follow their example, which would be for their lasting harm and suffering. That’s why I don’t praise that kind of senior mendicant.
+5Kassapa, take the case of a senior bhikkhu who doesn’t want to train and doesn’t praise taking up the training. They don’t encourage other bhikkhus who don’t want to train to take up the training. And they don’t truthfully and substantively praise at the right time those bhikkhus who do want to train. I don’t praise that kind of senior bhikkhu. Why is that? Because, hearing that I praised that bhikkhu, other bhikkhus might want to keep company with them. Then they might follow their example, which would be for their lasting harm and suffering. That’s why I don’t praise that kind of senior bhikkhu.
 
-6Take the case of a middle mendicant who doesn’t want to train … Take the case of a junior mendicant who doesn’t want to train … That’s why I don’t praise that kind of junior mendicant.
+6Take the case of a middle bhikkhu who doesn’t want to train … Take the case of a junior bhikkhu who doesn’t want to train … That’s why I don’t praise that kind of junior bhikkhu.
 
 
-7Kassapa, take the case of a senior mendicant who does want to train and praises taking up the training. They encourage other mendicants who don’t want to train to take up the training. And they truthfully and substantively praise at the right time those mendicants who do want to train. I praise that kind of senior mendicant. Why is that? Because, hearing that I praised that mendicant, other mendicants might want to keep company with them. Then they might follow their example, which would be for their lasting welfare and happiness. That’s why I praise that kind of senior mendicant.
+7Kassapa, take the case of a senior bhikkhu who does want to train and praises taking up the training. They encourage other bhikkhus who don’t want to train to take up the training. And they truthfully and substantively praise at the right time those bhikkhus who do want to train. I praise that kind of senior bhikkhu. Why is that? Because, hearing that I praised that bhikkhu, other bhikkhus might want to keep company with them. Then they might follow their example, which would be for their lasting welfare and happiness. That’s why I praise that kind of senior bhikkhu.
 
-8Take the case of a middle mendicant who wants to train … Take the case of a junior mendicant who wants to train … That’s why I praise that kind of junior mendicant.”
+8Take the case of a middle bhikkhu who wants to train … Take the case of a junior bhikkhu who wants to train … That’s why I praise that kind of junior bhikkhu.”
 
 #### Pali
 

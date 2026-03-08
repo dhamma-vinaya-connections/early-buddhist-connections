@@ -24,19 +24,19 @@ language: "English - Pali"
 
 Now at that time Venerable Khema and Venerable Sumana were staying near Sāvatthī in the Dark Forest. Then they went up to the Buddha, bowed, and sat down to one side. Venerable Khema said to the Buddha:
 
-2“Sir, a mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — does not think: ‘There is someone better than me, or equal to me, or worse than me.’”
+2“Sir, a bhikkhu who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — does not think: ‘There is someone better than me, or equal to me, or worse than me.’”
 
 That is what Khema said, and the teacher approved. Then Khema, knowing that the teacher approved, got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 
 
 3And then, not long after Khema had left, Sumana said to the Buddha:
 
-“Sir, a mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — does not think: ‘There is someone better than me, or equal to me, or worse than me.’”
+“Sir, a bhikkhu who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — does not think: ‘There is someone better than me, or equal to me, or worse than me.’”
 
 That is what Sumana said, and the teacher approved. Then Sumana, knowing that the teacher approved, got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 
 
-4And then, soon after Khema and Sumana had left, the Buddha addressed the mendicants: “Mendicants, this is how gentlemen declare enlightenment. The goal is spoken of, but the self is not involved. But it seems that there are some foolish people here who declare enlightenment as a joke. Later they will fall into anguish.
+4And then, soon after Khema and Sumana had left, the Buddha addressed the bhikkhus: “bhikkhus, this is how gentlemen declare enlightenment. The goal is spoken of, but the self is not involved. But it seems that there are some foolish people here who declare enlightenment as a joke. Later they will fall into anguish.
 
 
 5They don’t rank themselves  

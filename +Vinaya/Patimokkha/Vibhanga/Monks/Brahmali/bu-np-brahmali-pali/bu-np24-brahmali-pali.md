@@ -16,16 +16,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the Buddha had allowed the rainy-season robe for the monks. Knowing that this was the case, the monks from the group of six went looking for cloth for their rainy-season robes in advance. And after sewing them in advance, they wore them. Then, because their rainy-season robes were worn out, they bathed naked in the rain.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the Buddha had allowed the rainy-season robe for the bhikkhus. Knowing that this was the case, the bhikkhus from the group of six went looking for cloth for their rainy-season robes in advance. And after sewing them in advance, they wore them. Then, because their rainy-season robes were worn out, they bathed naked in the rain.
 
-The monks of few desires complained and criticized them, “How could the monks from the group of six go looking for cloth for their rainy-season robes in advance, sew them in advance, and then wear them, and then, because their rainy-season robes are worn out, bathe naked in the rain?”
+The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six go looking for cloth for their rainy-season robes in advance, sew them in advance, and then wear them, and then, because their rainy-season robes are worn out, bathe naked in the rain?”
 
-2After rebuking the monks from the group of six in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that you did this?”
+2After rebuking the bhikkhus from the group of six in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -42,7 +42,7 @@ The Buddha rebuked them … “Foolish men, how could you do this? This will aff
 
 7**When there is more than a half-month left:** if he wears it after sewing it when there is more than a half-month left of the hot season, it becomes subject to relinquishment.
 
-The rainy-season robe should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The rainy-season robe should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this cloth for the rainy-season robe, which I went looking for when there was more than a month left of the hot season or which I wore after sewing it when there was more than a half-month left of the hot season, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this cloth for the rainy-season robe back to you.’”

@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks … _like [SĀ 13.74](SA13_74.html) with this difference:_ “What’s right view? There are two kinds of right view: Right view that’s worldly, conventional, contaminated, acquired, and which leads to a good destiny, and right view that’s noble, transcendent, uncontaminated, unacquired, and which correctly ends suffering and leads to the limit of suffering.
+2. It was then that the Bhagavān addressed the bhikkhus … _like [SĀ 13.74](SA13_74.html) with this difference:_ “What’s right view? There are two kinds of right view: Right view that’s worldly, conventional, contaminated, acquired, and which leads to a good destiny, and right view that’s noble, transcendent, uncontaminated, unacquired, and which correctly ends suffering and leads to the limit of suffering.
 
 3. “What is right view that’s worldly, conventional, contaminated, acquired, and which leads to a good destiny? If someone’s view is that there’s generosity, there’s the teaching … knowing there are arhats in the world … ‘won’t subject to a later existence.’ This is called the worldly right view that’s worldly, conventional, contaminated, acquired, and leads to a good destiny.
 
@@ -67,7 +67,7 @@ language: "English"
 
 25. “What’s right _samādhi_ that’s noble, transcendent, uncontaminated, unacquired, and which correctly ends suffering and leads to the limit of suffering? It’s the noble disciple’s reflection on suffering as suffering … it’s formation … it’s cessation … their reflection on the path as path. When associated with uncontaminated reflection, it’s abiding unconfused, undistracted, collected, tranquil, in _samādhi_, and single-minded. This is called right _samādhi_ that’s noble, transcendent, uncontaminated, unacquired, and which correctly ends suffering and leads to the limit of suffering.”
 
-26. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+26. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

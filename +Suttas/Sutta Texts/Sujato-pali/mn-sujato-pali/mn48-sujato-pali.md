@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Majjhima Nikāya
 
-### MN48: Kosambiyasutta - The Mendicants of Kosambi
+### MN48: Kosambiyasutta - The bhikkhus of Kosambi
 #### B. Sujato
 
 
@@ -20,24 +20,24 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Kosambi, in Ghosita’s Monastery.
 
-Now at that time the mendicants of Kosambi were arguing, quarreling, and fighting, continually wounding each other with barbed words. They couldn’t persuade each other or be persuaded, nor could they convince each other or be convinced.
+Now at that time the bhikkhus of Kosambi were arguing, quarreling, and fighting, continually wounding each other with barbed words. They couldn’t persuade each other or be persuaded, nor could they convince each other or be convinced.
 
-Then a mendicant went up to the Buddha, bowed, sat down to one side, and told him what was happening.
+Then a bhikkhu went up to the Buddha, bowed, sat down to one side, and told him what was happening.
 
 
-So the Buddha said to a certain monk: “Please, monk, in my name tell those mendicants that the teacher summons them.
+So the Buddha said to a certain bhikkhu: “Please, bhikkhu, in my name tell those bhikkhus that the teacher summons them.
 
-“Yes, sir,” that monk replied. He went to those monks and said: “Venerables, the teacher summons you.”
+“Yes, sir,” that bhikkhu replied. He went to those bhikkhus and said: “Venerables, the teacher summons you.”
 
-“Yes, reverend,” those monks replied. They went to the Buddha, bowed, and sat down to one side. The Buddha said to them,
+“Yes, reverend,” those bhikkhus replied. They went to the Buddha, bowed, and sat down to one side. The Buddha said to them,
 
-“Is it really true, mendicants, that you have been arguing, quarreling, and fighting, continually wounding each other with barbed words? And that you can’t persuade each other or be persuaded, nor can you convince each other or be convinced?”
+“Is it really true, bhikkhus, that you have been arguing, quarreling, and fighting, continually wounding each other with barbed words? And that you can’t persuade each other or be persuaded, nor can you convince each other or be convinced?”
 
 
 “Yes, sir,” they said.
 
 
-“What do you think, mendicants? When you’re arguing, quarreling, and fighting, continually wounding each other with barbed words, are you treating your spiritual companions with kindness by way of body, speech, and mind, both in public and in private?”
+“What do you think, bhikkhus? When you’re arguing, quarreling, and fighting, continually wounding each other with barbed words, are you treating your spiritual companions with kindness by way of body, speech, and mind, both in public and in private?”
 
 “No, sir.”
 
@@ -45,23 +45,23 @@ So the Buddha said to a certain monk: “Please, monk, in my name tell those men
 “So it seems that when you’re arguing you are not treating each other with kindness. So what exactly do you know and see, you foolish men, that you behave in such a way? This will be for your lasting harm and suffering.”
 
 
-3Then the Buddha said to the mendicants:
+3Then the Buddha said to the bhikkhus:
 
-“Mendicants, these six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. What six?
+“bhikkhus, these six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling. What six?
 
-Firstly, a mendicant consistently treats their spiritual companions with bodily kindness, both in public and in private. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
-
-
-4Furthermore, a mendicant consistently treats their spiritual companions with verbal kindness …
-
-5Furthermore, a mendicant consistently treats their spiritual companions with mental kindness …
-
-6Furthermore, a mendicant shares without reservation any material possessions they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions …
-
-7Furthermore, a mendicant lives according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion. …
+Firstly, a bhikkhu consistently treats their spiritual companions with bodily kindness, both in public and in private. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
 
 
-8Furthermore, a mendicant lives according to the view shared with their spiritual companions, both in public and in private. That view is noble and emancipating, and leads one who practices it to the complete ending of suffering. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
+4Furthermore, a bhikkhu consistently treats their spiritual companions with verbal kindness …
+
+5Furthermore, a bhikkhu consistently treats their spiritual companions with mental kindness …
+
+6Furthermore, a bhikkhu shares without reservation any material possessions they have gained by legitimate means, even the food placed in the alms-bowl, using them in common with their ethical spiritual companions …
+
+7Furthermore, a bhikkhu lives according to the precepts shared with their spiritual companions, both in public and in private. Those precepts are unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion. …
+
+
+8Furthermore, a bhikkhu lives according to the view shared with their spiritual companions, both in public and in private. That view is noble and emancipating, and leads one who practices it to the complete ending of suffering. This warm-hearted quality makes for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
 
 
 9These six warm-hearted qualities make for fondness and respect, conducing to inclusion, harmony, and unity, without quarreling.
@@ -71,7 +71,7 @@ Of these six warm-hearted qualities, the chief is the view that is noble and ema
 
 10And how does the view that is noble and emancipating lead one who practices it to the complete ending of suffering?
 
-It’s when a mendicant has gone to a wilderness, or to the root of a tree, or to an empty hut, and reflects like this, ‘Is there anything that I’m overcome with internally and haven’t given up, because of which I might not accurately know and see?’ If a mendicant is overcome with sensual desire, it’s their mind that’s overcome. If a mendicant is overcome with ill will, dullness and drowsiness, restlessness and remorse, doubt, pursuing speculation about this world, pursuing speculation about the next world, or arguing, quarreling, and fighting, continually wounding others with barbed words, it’s their mind that’s overcome.
+It’s when a bhikkhu has gone to a wilderness, or to the root of a tree, or to an empty hut, and reflects like this, ‘Is there anything that I’m overcome with internally and haven’t given up, because of which I might not accurately know and see?’ If a bhikkhu is overcome with sensual desire, it’s their mind that’s overcome. If a bhikkhu is overcome with ill will, dullness and drowsiness, restlessness and remorse, doubt, pursuing speculation about this world, pursuing speculation about the next world, or arguing, quarreling, and fighting, continually wounding others with barbed words, it’s their mind that’s overcome.
 
 
 They understand, ‘There is nothing that I’m overcome with internally and haven’t given up, because of which I might not accurately know and see. My mind is properly disposed for awakening to the truths.’ This is the first knowledge they have achieved that is noble and transcendent, and is not shared with ordinary people.
@@ -85,28 +85,28 @@ They understand, ‘When I develop, cultivate, and make much of this view, I per
 
 They understand, ‘There are no ascetics or brahmins outside of the Buddhist community who have the same kind of view that I have.’ This is their third knowledge …
 
-13Furthermore, a noble disciple reflects, ‘Do I have the same nature as a person accomplished in view?’ And what, mendicants, is the nature of a person accomplished in view? This is the nature of a person accomplished in view. Though they may fall into a kind of offense for which rehabilitation has been laid down, they quickly disclose, clarify, and reveal it to the Teacher or a sensible spiritual companion. And having revealed it they restrain themselves in the future. Suppose there was a little baby boy. If he puts his hand or foot on a burning coal, he quickly pulls it back. In the same way, this is the nature of a person accomplished in view. Though they may still fall into a kind of offense for which rehabilitation has been laid down, they quickly reveal it to the Teacher or a sensible spiritual companion. And having revealed it they restrain themselves in the future.
+13Furthermore, a noble disciple reflects, ‘Do I have the same nature as a person accomplished in view?’ And what, bhikkhus, is the nature of a person accomplished in view? This is the nature of a person accomplished in view. Though they may fall into a kind of offense for which rehabilitation has been laid down, they quickly disclose, clarify, and reveal it to the Teacher or a sensible spiritual companion. And having revealed it they restrain themselves in the future. Suppose there was a little baby boy. If he puts his hand or foot on a burning coal, he quickly pulls it back. In the same way, this is the nature of a person accomplished in view. Though they may still fall into a kind of offense for which rehabilitation has been laid down, they quickly reveal it to the Teacher or a sensible spiritual companion. And having revealed it they restrain themselves in the future.
 
 
 They understand, ‘I have the same nature as a person accomplished in view.’ This is their fourth knowledge …
 
-14Furthermore, a noble disciple reflects, ‘Do I have the same nature as a person accomplished in view?’ And what, mendicants, is the nature of a person accomplished in view? This is the nature of a person accomplished in view. Though they might manage a diverse spectrum of duties for their spiritual companions, they still feel a keen regard for the training in higher ethics, higher mind, and higher wisdom. Suppose there was a cow with a baby calf. She keeps the calf close as she grazes. In the same way, this is the nature of a person accomplished in view. Though they might manage a diverse spectrum of duties for their spiritual companions, they still feel a keen regard for the training in higher ethics, higher mind, and higher wisdom.
+14Furthermore, a noble disciple reflects, ‘Do I have the same nature as a person accomplished in view?’ And what, bhikkhus, is the nature of a person accomplished in view? This is the nature of a person accomplished in view. Though they might manage a diverse spectrum of duties for their spiritual companions, they still feel a keen regard for the training in higher ethics, higher mind, and higher wisdom. Suppose there was a cow with a baby calf. She keeps the calf close as she grazes. In the same way, this is the nature of a person accomplished in view. Though they might manage a diverse spectrum of duties for their spiritual companions, they still feel a keen regard for the training in higher ethics, higher mind, and higher wisdom.
 
 
 They understand, ‘I have the same nature as a person accomplished in view.’ This is their fifth knowledge …
 
-15Furthermore, a noble disciple reflects, ‘Do I have the same strength as a person accomplished in view?’ And what, mendicants, is the strength of a person accomplished in view? The strength of a person accomplished in view is that, when the teaching and training proclaimed by the Realized One are being taught, they pay heed, pay attention, engage wholeheartedly, and lend an ear.
+15Furthermore, a noble disciple reflects, ‘Do I have the same strength as a person accomplished in view?’ And what, bhikkhus, is the strength of a person accomplished in view? The strength of a person accomplished in view is that, when the teaching and training proclaimed by the Realized One are being taught, they pay heed, pay attention, engage wholeheartedly, and lend an ear.
 
 They understand, ‘I have the same strength as a person accomplished in view.’ This is their sixth knowledge …
 
 
-16Furthermore, a noble disciple reflects, ‘Do I have the same strength as a person accomplished in view?’ And what, mendicants, is the strength of a person accomplished in view? The strength of a person accomplished in view is that, when the teaching and training proclaimed by the Realized One are being taught, they find joy in the meaning and the teaching, and find joy connected with the teaching.
+16Furthermore, a noble disciple reflects, ‘Do I have the same strength as a person accomplished in view?’ And what, bhikkhus, is the strength of a person accomplished in view? The strength of a person accomplished in view is that, when the teaching and training proclaimed by the Realized One are being taught, they find joy in the meaning and the teaching, and find joy connected with the teaching.
 
 They understand, ‘I have the same strength as a person accomplished in view.’ This is the seventh knowledge they have achieved that is noble and transcendent, and is not shared with ordinary people.
 
 17When a noble disciple has these seven factors, they have properly investigated their own nature with respect to the realization of the fruit of stream-entry. A noble disciple with these seven factors has the fruit of stream-entry.”
 
-18That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+18That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

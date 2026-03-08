@@ -37,7 +37,7 @@ language: "Pali"
 
 282Wisdom springs from meditation; without meditation wisdom wanes. Having known these two paths of progress and decline, let a man so conduct himself that his wisdom may increase.
 
-283Cut down the forest (lust), but not the tree; from the forest springs fear. Having cut down the forest and the underbrush (desire), be passionless, O monks!
+283Cut down the forest (lust), but not the tree; from the forest springs fear. Having cut down the forest and the underbrush (desire), be passionless, O bhikkhus!
 
 284For so long as the underbrush of desire, even the most subtle, of a man towards a woman is not cut down, his mind is in bondage, like the sucking calf to its mother.
 

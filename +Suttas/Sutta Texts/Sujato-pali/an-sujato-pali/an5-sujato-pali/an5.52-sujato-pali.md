@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, rightly speaking, you’d call the five hindrances a ‘heap of the unskillful’. For these five hindrances are entirely a heap of the unskillful. What five? The hindrances of sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt. Rightly speaking, you’d call these five hindrances a ‘heap of the unskillful’. For these five hindrances are entirely a heap of the unskillful.”
+1“bhikkhus, rightly speaking, you’d call the five hindrances a ‘heap of the unskillful’. For these five hindrances are entirely a heap of the unskillful. What five? The hindrances of sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt. Rightly speaking, you’d call these five hindrances a ‘heap of the unskillful’. For these five hindrances are entirely a heap of the unskillful.”
 
 1"Akusalarāsīti, bhikkhave, vadamāno pañca nīvaraṇe sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, akusalarāsi yadidaṁ pañca nīvaraṇā. Katame pañca? Kāmacchandanīvaraṇaṁ, byāpādanīvaraṇaṁ, thinamiddhanīvaraṇaṁ, uddhaccakukkuccanīvaraṇaṁ, vicikicchānīvaraṇaṁ. Akusalarāsīti, bhikkhave, vadamāno ime pañca nīvaraṇe sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, akusalarāsi yadidaṁ pañca nīvaraṇā"ti.
 

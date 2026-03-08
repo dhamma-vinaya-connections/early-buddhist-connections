@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 23. Kūṭatāṇḍya
 
-1. Thus I have heard: One time, the Buddha was in the country of Kośala accompanied by a great assembly of 1,250 monks. Touring among the people, they arrived north of the priest town of [Khānumata] in Kośala and stopped to stay in a rosewood grove.
+1. Thus I have heard: One time, the Buddha was in the country of Kośala accompanied by a great assembly of 1,250 bhikkhus. Touring among the people, they arrived north of the priest town of [Khānumata] in Kośala and stopped to stay in a rosewood grove.
 
 #### The Priest Kūṭatāṇḍya
 
@@ -329,7 +329,7 @@ The Buddha said, “Suppose a Tathāgata, Arhat, and Completely Awakened One app
 
 137. The priest then saw that the Buddha had silently accepted his request. He got up, bowed to the Buddha, and circled him three times before leaving. He went home and prepared a variety of delicious foods.
 
-138. The next day, the Bhagavān put on his robe and took his bowl. Accompanied by a great assembly of 1,250 monks, he went to the priest’s home where they prepared seats and sat down. The priest then personally served them food, offering it to the Buddha and Saṅgha. When they were finished eating, they left with their bowls. When they were done washing them, the Buddha composed verses for the priest:
+138. The next day, the Bhagavān put on his robe and took his bowl. Accompanied by a great assembly of 1,250 bhikkhus, he went to the priest’s home where they prepared seats and sat down. The priest then personally served them food, offering it to the Buddha and Saṅgha. When they were finished eating, they left with their bowls. When they were done washing them, the Buddha composed verses for the priest:
 
 - “Fire is the best of sacrifices; 
  Poetry is the best for chanting; 
@@ -356,13 +356,13 @@ The Buddha said, “Suppose a Tathāgata, Arhat, and Completely Awakened One app
 
 142. It wasn’t long after the Buddha departed that Kūṭatāṇḍya became ill, and his life ended.
 
-143. A group of monks heard that Kūṭatāṇḍya had supported the Buddha for seven days and then fell ill and died not long afterward. They thought to themselves, “That man’s life has ended, but where did he go?”
+143. A group of bhikkhus heard that Kūṭatāṇḍya had supported the Buddha for seven days and then fell ill and died not long afterward. They thought to themselves, “That man’s life has ended, but where did he go?”
 
-144. Those monks went to the Buddha, bowed their heads at his feet, and sat to one side. They asked, “Now that Kūṭatāṇḍya’s life has ended, where will he be born?”
+144. Those bhikkhus went to the Buddha, bowed their heads at his feet, and sat to one side. They asked, “Now that Kūṭatāṇḍya’s life has ended, where will he be born?”
 
-145. The Buddha told the monks, “That man purely cultivated the religious practice and accomplished one state after the next, and he wasn’t disturbed by anything in the teaching. Because he ended the five lower fetters, his _parinirvāṇa_ was in the present. He didn’t return to this world.”
+145. The Buddha told the bhikkhus, “That man purely cultivated the religious practice and accomplished one state after the next, and he wasn’t disturbed by anything in the teaching. Because he ended the five lower fetters, his _parinirvāṇa_ was in the present. He didn’t return to this world.”
 
-146. When the monks heard what the Buddha taught, they rejoiced and approved.
+146. When the bhikkhus heard what the Buddha taught, they rejoiced and approved.
 
 ---
 

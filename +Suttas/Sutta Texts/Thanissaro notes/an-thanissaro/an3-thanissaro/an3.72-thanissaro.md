@@ -53,7 +53,7 @@ On one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, A
 
 “And what is that path, my friend, what is that way to the abandoning of that passion, aversion, & delusion?”
 
-“Just this noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi. This is the path, my friend, this is the way to the abandoning of that passion, aversion, & delusion.”
+“Just this ![[Noble Path]]. This is the path, my friend, this is the way to the abandoning of that passion, aversion, & delusion.”
 
 “It is an auspicious path, my friend, it is an auspicious way to the abandoning of that passion, aversion, & delusion—enough, friend Ānanda, for the sake of heedfulness.”
 

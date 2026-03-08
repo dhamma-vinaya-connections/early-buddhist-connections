@@ -44,12 +44,12 @@ parallels_partilal: "[[PLI-TV-KD14]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Eight things a mendicant charged with aggravated misconduct must observe
+> Eight things a bhikkhu charged with aggravated misconduct must observe
 
 > [!info] Key Excerpts 
 > They must not perform an ordination, give dependence, or be attended by a novice. They must not consent to being appointed as adviser for nuns, not consent to any saṅgha appointment. They must not be put in an isolated place. They must not give rehabilitation in any offense similar to that which they transgressed
 > 
-> Mendicant who has been convicted of aggravated misconduct must behave themselves properly in these eight respects
+> bhikkhu who has been convicted of aggravated misconduct must behave themselves properly in these eight respects
 > 
 
 

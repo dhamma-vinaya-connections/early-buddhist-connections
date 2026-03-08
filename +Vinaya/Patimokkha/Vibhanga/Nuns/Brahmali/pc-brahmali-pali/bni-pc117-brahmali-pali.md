@@ -22,33 +22,33 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a certain association was preparing an alms-meal at a public guesthouse not far from Sāvatthī.
 
-Then, after robing up in the morning, the monks from the group of six took their bowls and robes and entered Sāvatthī for alms. Not getting anything, they went to that public guesthouse. Because it was a long time since they had been there, people served them respectfully.
+Then, after robing up in the morning, the bhikkhus from the group of six took their bowls and robes and entered Sāvatthī for alms. Not getting anything, they went to that public guesthouse. Because it was a long time since they had been there, people served them respectfully.
 
-A second and a third day those monks did the same thing. Then they thought, “What’s the point of returning to the monastery? Tomorrow we’ll just have to come back here.” So they stayed on and on right there, eating alms at the guesthouse, while the monastics of other religions left. People complained and criticized them, “How can the Sakyan monastics stay on and on, eating alms at the guesthouse? We don’t prepare the alms-food just for them; we prepare it for everyone.”
+A second and a third day those bhikkhus did the same thing. Then they thought, “What’s the point of returning to the monastery? Tomorrow we’ll just have to come back here.” So they stayed on and on right there, eating alms at the guesthouse, while the monastics of other religions left. People complained and criticized them, “How can the Sakyan monastics stay on and on, eating alms at the guesthouse? We don’t prepare the alms-food just for them; we prepare it for everyone.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How could the monks from the group of six stay on and on, eating alms at a public guesthouse?” … “Is it true, monks, that you did this?”
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How could the bhikkhus from the group of six stay on and on, eating alms at a public guesthouse?” … “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 3‘If a monk eats more than one alms-meal at a public guesthouse, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
 
 5Soon afterwards Venerable Sāriputta was traveling through the Kosalan country on his way to Sāvatthī when he came to a public guesthouse. Because it was a long time since he had been there, people served him respectfully. After he had eaten, Sāriputta became severely ill, and he was unable to leave that guesthouse.
 
 On the second day, too, those people said to him, “Please eat, Venerable.” But since he knew that the Buddha had prohibited eating alms at a public guesthouse after staying on and on, and because he was afraid of wrongdoing, he did not accept. As a consequence, he missed his meal.
 
-When he arrived at Sāvatthī, he told the monks what had happened, and they in turn told the Buddha.
+When he arrived at Sāvatthī, he told the bhikkhus what had happened, and they in turn told the Buddha.
 
-6Soon afterwards the Buddha gave a teaching and addressed the monks:
+6Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow a sick monk to stay on at a public guesthouse and eat alms there.
+“bhikkhus, I allow a sick monk to stay on at a public guesthouse and eat alms there.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

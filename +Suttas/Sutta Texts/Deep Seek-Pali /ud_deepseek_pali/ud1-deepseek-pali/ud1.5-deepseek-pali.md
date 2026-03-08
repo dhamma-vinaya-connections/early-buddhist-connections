@@ -20,7 +20,7 @@ language: "English - Pali"
 
 Addasā kho bhagavā te āyasmante dūratova āgacchante; disvāna bhikkhū āmantesi – ‘‘ete, bhikkhave, brāhmaṇā āgacchanti; ete, bhikkhave, brāhmaṇā āgacchantī’’ti. Evaṃ vutte, aññataro brāhmaṇajātiko bhikkhu bhagavantaṃ etadavoca – ‘‘kittāvatā nu kho, bhante, brāhmaṇo hoti, katame ca pana brāhmaṇakaraṇā dhammā’’ti?
 
-The Blessed One saw those venerable ones approaching from afar. Having seen them, he addressed the monks: "These, monks, are brahmins coming; these, monks, are brahmins coming." When this was said, a certain monk of brahmin descent said to the Blessed One: "To what extent, venerable sir, is one a brahmin? And what are the qualities that make one a brahmin?"
+The Blessed One saw those venerable ones approaching from afar. Having seen them, he addressed the bhikkhus: "These, bhikkhus, are brahmins coming; these, bhikkhus, are brahmins coming." When this was said, a certain monk of brahmin descent said to the Blessed One: "To what extent, venerable sir, is one a brahmin? And what are the qualities that make one a brahmin?"
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

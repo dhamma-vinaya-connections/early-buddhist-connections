@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 24
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, if a single person were to wander & transmigrate on for an eon, he/she would leave behind a chain of bones, a pile of bones, a heap of bones, as large as this Mount Vepulla, if there were someone to collect them and the collection were not destroyed.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, if a single person were to wander & transmigrate on for an eon, he/she would leave behind a chain of bones, a pile of bones, a heap of bones, as large as this Mount Vepulla, if there were someone to collect them and the collection were not destroyed.”
 
 The accumulation
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that prevents dullness and drowsiness from arising, or, when they have arisen, gives them up like the elements of initiative, persistence, and vigor. When you’re energetic, dullness and drowsiness do not arise, or, if they’ve already arisen, they’re given up.”
+1“bhikkhus, I do not see a single thing that prevents dullness and drowsiness from arising, or, when they have arisen, gives them up like the elements of initiative, persistence, and vigor. When you’re energetic, dullness and drowsiness do not arise, or, if they’ve already arisen, they’re given up.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppannaṁ vā thinamiddhaṁ nuppajjati uppannaṁ vā thinamiddhaṁ pahīyati yathayidaṁ, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Āraddhavīriyassa, bhikkhave, anuppannañceva thinamiddhaṁ nuppajjati uppannañca thinamiddhaṁ pahīyatī"ti.
 

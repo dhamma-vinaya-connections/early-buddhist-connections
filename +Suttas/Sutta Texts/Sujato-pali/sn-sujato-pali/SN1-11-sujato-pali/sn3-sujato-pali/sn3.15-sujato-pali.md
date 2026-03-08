@@ -28,7 +28,7 @@ language: "English - Pali"
 And that’s what he did.
 
 
-3-6Then several mendicants … told the Buddha what had happened.
+3-6Then several bhikkhus … told the Buddha what had happened.
 
 
 6Then, knowing the meaning of this, on that occasion the Buddha recited these verses:

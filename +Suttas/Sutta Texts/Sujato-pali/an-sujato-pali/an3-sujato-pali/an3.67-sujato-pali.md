@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“There are, mendicants, these three topics of discussion. What three? You might discuss the past: ‘That is how it was in the past.’ You might discuss the future: ‘That is how it will be in the future.’ Or you might discuss the present: ‘This is how it is at present.’
+1“There are, bhikkhus, these three topics of discussion. What three? You might discuss the past: ‘That is how it was in the past.’ You might discuss the future: ‘That is how it will be in the future.’ Or you might discuss the present: ‘This is how it is at present.’
 
 2You can know whether or not a person is competent to hold a discussion by seeing how they take part in a discussion. When a person is asked a question, if it needs to be answered with a generalization and they don’t answer it generally; or if it needs analysis and they answer without analyzing it; or if it needs a counter-question and they answer without a counter-question; or if it should be set aside and they don’t set it aside, then that person is not competent to hold a discussion.
 

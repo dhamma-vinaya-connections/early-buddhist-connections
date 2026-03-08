@@ -50,7 +50,7 @@ parallels_partilal: "[[AN10.21]], [[EA46.4]], [[SA684]], [[SA701]], [[MN12]], [[
 > The realized one has true knowledge of the possible as possible and the impossible as impossible, the result of deeds, knowledge of corruption, cleansing, and emergence regarding the absorptions, liberations, immersions, and attainments, recollection of past lifes, of passing away and rebirth of beings and the ending of defilements
 > 
 > True knowledge of the ending of defilements is for those with immersion, not for those without immersion.
-And so, mendicants, immersion is the path. No immersion is the wrong path.”
+And so, bhikkhus, immersion is the path. No immersion is the wrong path.”
 > 
 
 

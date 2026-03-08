@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized her, “How could Venerable Thullanandā give the full admission to a disciple, and then neither send her away nor have her sent away? If this nun had gone away, her husband would not have gotten hold of her.” …
 
-“Is it true, monks, that the nun Thullanandā didn’t do this?”
+“Is it true, bhikkhus, that the nun Thullanandā didn’t do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Thullanandā not do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Thullanandā not do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

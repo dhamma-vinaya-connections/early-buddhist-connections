@@ -34,7 +34,7 @@ Then Venerable Vaṅgīsa thought: “This Venerable Koṇḍañña Who Understo
 Then Vaṅgīsa extolled Koṇḍañña in the Buddha’s presence with fitting verses:
 
 
-3“The senior monk who was awakened right after the Buddha,  
+3“The senior bhikkhu who was awakened right after the Buddha,  
 Koṇḍañña, is keenly energetic.  
 He regularly gains blissful meditative states,  
 and the three kinds of seclusion.

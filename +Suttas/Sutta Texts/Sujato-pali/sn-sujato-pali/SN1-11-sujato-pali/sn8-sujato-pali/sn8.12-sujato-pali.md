@@ -36,7 +36,7 @@ I went forth to homelessness.
 
 4It was truly for the benefit of many  
 that the sage achieved awakening —  
-for the monks and for the nuns  
+for the bhikkhus and for the nuns  
 who see that they’ve reached certainty.
 
 5It was so welcome for me  

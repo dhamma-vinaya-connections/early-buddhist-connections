@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 637. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū āvudhapāṇissa dhammaṃ desenti…pe….
 
-## 637.At that time the Blessed One, the Buddha, was dwelling at Savatthi, in Jeta Grove, Anathapindika's Monastery. At that time the group-of-six monks were teaching the Dhamma to one holding a weapon…
+## 637.At that time the Blessed One, the Buddha, was dwelling at Savatthi, in Jeta Grove, Anathapindika's Monastery. At that time the group-of-six bhikkhus were teaching the Dhamma to one holding a weapon…
 
 ‘‘Na āvudhapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā’’ti.
 

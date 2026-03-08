@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 52
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three feelings. Which three? A feeling of pleasure, a feeling of pain, a feeling of neither pleasure nor pain. These are the three feelings.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three feelings. Which three? A feeling of pleasure, a feeling of pain, a feeling of neither pleasure nor pain. These are the three feelings.”
 
 Centered,
 
@@ -32,7 +32,7 @@ where they cease,
 
 & the path to their ending.
 
-With the ending of feelings, a monk
+With the ending of feelings, a bhikkhu
 
 free from hunger
 

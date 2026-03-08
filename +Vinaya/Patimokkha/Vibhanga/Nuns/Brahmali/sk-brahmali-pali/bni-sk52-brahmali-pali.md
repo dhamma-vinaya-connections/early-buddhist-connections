@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were licking their hands while eating. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were licking their hands while eating. …
 
 #### Final ruling
 
 2“‘I will not lick my hands while eating,’ this is how you should train.”
 
-3One should not lick one’s hands while eating. If a monk, out of disrespect, licks his hands while eating, he commits an offense of wrong conduct.
+3One should not lick one’s hands while eating. If a bhikkhu, out of disrespect, licks his hands while eating, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

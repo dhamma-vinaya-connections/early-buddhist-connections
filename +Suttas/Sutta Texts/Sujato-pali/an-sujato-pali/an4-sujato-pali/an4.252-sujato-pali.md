@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four ignoble expressions. What four?
+1“bhikkhus, there are these four ignoble expressions. What four?
 
 Saying you haven’t seen, heard, thought, or known something, and you have. These are the four ignoble expressions.”
 

@@ -18,33 +18,33 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the Buddha gave many talks about the Monastic Law, spoke in praise of the Monastic Law and of learning the Monastic Law, and repeatedly praised Venerable Upāli. When the monks heard this, they thought, “Well then, let’s learn the Monastic Law from Venerable Upāli.” And many monks, both senior and junior, as well as those of middle standing, learned the Monastic Law from Upāli.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the Buddha gave many talks about the Monastic Law, spoke in praise of the Monastic Law and of learning the Monastic Law, and repeatedly praised Venerable Upāli. When the bhikkhus heard this, they thought, “Well then, let’s learn the Monastic Law from Venerable Upāli.” And many bhikkhus, both senior and junior, as well as those of middle standing, learned the Monastic Law from Upāli.
 
-2The monks from the group of six considered this and thought, “If these monks become well-versed in the Monastic Law, they’ll boss us around as they like. So let’s disparage the Monastic Law.”
+2The bhikkhus from the group of six considered this and thought, “If these bhikkhus become well-versed in the Monastic Law, they’ll boss us around as they like. So let’s disparage the Monastic Law.”
 
-They went to the other monks and said, “What’s the point of reciting these minor training rules, when they just lead to anxiety, oppression, and annoyance?”
+They went to the other bhikkhus and said, “What’s the point of reciting these minor training rules, when they just lead to anxiety, oppression, and annoyance?”
 
-3The monks of few desires complained and criticized them, “How can the monks from the group of six disparage the Monastic Law?” …
+3The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six disparage the Monastic Law?” …
 
-“Is it true, monks, that you do this?”
+“Is it true, bhikkhus, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-4‘When the Monastic Code is being recited, if a monk says, “What’s the point of reciting these minor training rules, when they just lead to anxiety, oppression, and annoyance?” then in disparaging the training rules, he commits an offense entailing confession.’”
+4‘When the Monastic Code is being recited, if a bhikkhu says, “What’s the point of reciting these minor training rules, when they just lead to anxiety, oppression, and annoyance?” then in disparaging the training rules, he commits an offense entailing confession.’”
 
 #### Definitions
 
-5**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+5**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 6**When the Monastic Code is being recited:** when reciting it, when having it recited, or when practicing it.
 
 
-7**Says:** “What’s the point of reciting these minor training rules, when they just lead to anxiety, oppression, and annoyance?” If he disparages the Monastic Law to one who is fully ordained, saying, “Those who learn this will be anxious,” “They will feel oppressed,” “They will be annoyed;” “Those who don’t learn this won’t be anxious,” “They won’t feel oppressed,” “They won’t be annoyed;” “It’s better left unrecited,” “It’s better left unlearned,” “It’s better left unstudied,” “It’s better left unmastered;” “May the Monastic Law disappear, or may these monks remain ignorant,” then he commits an offense entailing confession.
+7**Says:** “What’s the point of reciting these minor training rules, when they just lead to anxiety, oppression, and annoyance?” If he disparages the Monastic Law to one who is fully ordained, saying, “Those who learn this will be anxious,” “They will feel oppressed,” “They will be annoyed;” “Those who don’t learn this won’t be anxious,” “They won’t feel oppressed,” “They won’t be annoyed;” “It’s better left unrecited,” “It’s better left unlearned,” “It’s better left unstudied,” “It’s better left unmastered;” “May the Monastic Law disappear, or may these bhikkhus remain ignorant,” then he commits an offense entailing confession.
 
 #### Permutations
 

@@ -151,7 +151,7 @@ Then the Blessed One—seeing that the brahman student Assalāyana was sitting s
 
 “Now, Assalāyana, when those seven brahman seers couldn’t defend their own birth-statement when interrogated, pressed, & rebuked by the seer Devala the Dark, how can you now defend your own birth-statement when interrogated, pressed, & rebuked by me—you, their lineage holder, but not (the equal of) Puṇṇa, their ladle holder?”
 
-When this was said, the brahman student Assalāyana said to the Blessed One: “Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, and to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
+When this was said, the brahman student Assalāyana said to the Blessed One: “Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. May Master Gotama remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
 ### Notes
 

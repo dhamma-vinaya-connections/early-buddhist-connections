@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-NP25"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP22]] 🌐 [[BU-NP24]] ►
 
-# Monks - Nissaggiya Pacittiya - Relinquish with confession
+# bhikkhus - Nissaggiya Pacittiya - Relinquish with confession
 ## Pattavagga - Bowl
 ## BU-NP23 - Bhesajja - Tonics Five
 
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-NP25"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ – sappi navanītaṃ telaṃ madhu phāṇitaṃ, tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ | After being received, the tonics allowable for sick monks—that is, ghee, butter, oil, honey, and syrup— should be used from storage for at most seven days. If one uses them longer than that, one commits an offense entailing relinquishment and confession |
+| Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ – sappi navanītaṃ telaṃ madhu phāṇitaṃ, tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ | After being received, the tonics allowable for sick bhikkhus—that is, ghee, butter, oil, honey, and syrup— should be used from storage for at most seven days. If one uses them longer than that, one commits an offense entailing relinquishment and confession |
 
 
 > [!Info] Analisis of the rule
@@ -74,7 +74,7 @@ vin_gender-corr: "BNI-NP25"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-NP23 | [[BNI-NP25]] | Vin.3.1–3.40 |
 

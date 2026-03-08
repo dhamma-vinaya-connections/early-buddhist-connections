@@ -66,7 +66,7 @@ consider one who heals both
 oneself and the other  
 to be a fool.”
 
-8When he had spoken, Bhāradvāja the Rude said to the Buddha: “Excellent, Master Gotama! … I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
+8When he had spoken, Bhāradvāja the Rude said to the Buddha: “Excellent, Master Gotama! … I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
 
 9And the brahmin Bhāradvāja the Rude received the going forth, the ordination in the Buddha’s presence. Not long after his ordination, Venerable Bhāradvāja the Rude, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme end of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
 

@@ -18,12 +18,12 @@ content, centered, alone:
 
 he’s what they call
 
-a monk.
+a bhikkhu.
 
 ### Verse 362
 
 362
-A monk restrained in his speaking,
+A bhikkhu restrained in his speaking,
 
 giving counsel unruffled,
 
@@ -38,7 +38,7 @@ Dhamma his dwelling,
 
 Dhamma his delight,
 
-a monk pondering Dhamma,
+a bhikkhu pondering Dhamma,
 
 calling Dhamma to mind,
 
@@ -55,7 +55,7 @@ don’t treat your own with scorn,
 
 don’t go coveting those of others.
 
-A monk who covets those of others
+A bhikkhu who covets those of others
 
 attains
 
@@ -86,12 +86,12 @@ for what’s not:
 
 he’s deservedly called
 
-a monk.
+a bhikkhu.
 
 ### Verse 367
 
 367
-Dwelling in goodwill, a monk
+Dwelling in goodwill, a bhikkhu
 
 with faith in the Awakened One’s teaching,
 
@@ -104,7 +104,7 @@ stilling-of-fabrications ease.
 ### Verse 368
 
 368
-Monk, bail out this boat.
+bhikkhu, bail out this boat.
 
 It will take you lightly when bailed.
 
@@ -121,14 +121,14 @@ let go of five,
 
 & develop five above all.
 
-A monk gone past five attachments
+A bhikkhu gone past five attachments
 
 is said to have crossed the flood.
 
 ### Verse 370
 
 370
-Practice jhana, monk,
+Practice jhana, bhikkhu,
 
 and don’t be heedless.
 
@@ -172,7 +172,7 @@ of Unbinding.
 ### Verse 372
 
 372
-A monk with his mind at peace,
+A bhikkhu with his mind at peace,
 
 going into an empty dwelling,
 
@@ -201,7 +201,7 @@ the Deathless.
 373-374
 Here the first things
 
-for a discerning monk
+for a discerning bhikkhu
 
 are
 
@@ -230,7 +230,7 @@ to suffering & stress.
 375-376
 Shed passion
 
-& aversion, monks–
+& aversion, bhikkhus–
 
 as a jasmine would,
 
@@ -247,7 +247,7 @@ well-centered & calm,
 
 having disgorged the baits of the world,
 
-a monk is called
+a bhikkhu is called
 
 thoroughly
 
@@ -262,7 +262,7 @@ should reprove yourself,
 
 should examine yourself.
 
-As a self-guarded monk
+As a self-guarded bhikkhu
 
 with guarded self,
 
@@ -288,7 +288,7 @@ as a trader, a fine steed.
 ### Verse 380
 
 380
-A monk with a manifold joy,
+A bhikkhu with a manifold joy,
 
 with faith in the Awakened One’s teaching,
 

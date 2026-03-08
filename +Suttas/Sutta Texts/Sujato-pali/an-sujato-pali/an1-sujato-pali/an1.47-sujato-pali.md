@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Just as, mendicants, the _papra_ is said to be the best kind of tree in terms of its pliability and workability, so too, I do not see a single thing that’s as pliable and workable as the mind, when it is developed and cultivated. A mind that is developed and cultivated is pliable and workable.”
+1“Just as, bhikkhus, the _papra_ is said to be the best kind of tree in terms of its pliability and workability, so too, I do not see a single thing that’s as pliable and workable as the mind, when it is developed and cultivated. A mind that is developed and cultivated is pliable and workable.”
 
 1"Seyyathāpi, bhikkhave, yāni kānici rukkhajātānaṁ phandano tesaṁ aggamakkhāyati yadidaṁ mudutāya ceva kammaññatāya ca. Evamevaṁ kho ahaṁ, bhikkhave, nāññaṁ ekadhammampi samanupassāmi yaṁ evaṁ bhāvitaṁ bahulīkataṁ mudu ca hoti kammaññañca yathayidaṁ cittaṁ. Cittaṁ, bhikkhave, bhāvitaṁ bahulīkataṁ mudu ca hoti kammaññañca hotī"ti.
 

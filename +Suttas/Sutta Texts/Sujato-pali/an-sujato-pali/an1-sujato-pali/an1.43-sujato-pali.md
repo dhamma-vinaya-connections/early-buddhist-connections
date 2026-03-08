@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, when I’ve comprehended the mind of a person whose mind is corrupted, I understand: ‘If this person were to die right now, they would be cast down to hell.’ Why is that? Because their mind is corrupted. Depravity of mind is the reason why some sentient beings, when their body breaks up, after death, are reborn in a place of loss, a bad place, the underworld, hell.”
+1“bhikkhus, when I’ve comprehended the mind of a person whose mind is corrupted, I understand: ‘If this person were to die right now, they would be cast down to hell.’ Why is that? Because their mind is corrupted. Depravity of mind is the reason why some sentient beings, when their body breaks up, after death, are reborn in a place of loss, a bad place, the underworld, hell.”
 
 1"Idhāhaṁ, bhikkhave, ekaccaṁ puggalaṁ paduṭṭhacittaṁ evaṁ cetasā ceto paricca pajānāmi:  ‘imamhi ce ayaṁ samaye puggalo kālaṁ kareyya, yathābhataṁ nikkhitto evaṁ niraye’. Taṁ kissa hetu? Cittaṁ hissa, bhikkhave, paduṭṭhaṁ. Cetopadosahetu pana, bhikkhave, evamidhekacce sattā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjantī"ti.
 

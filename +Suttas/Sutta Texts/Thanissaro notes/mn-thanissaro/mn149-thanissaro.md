@@ -15,13 +15,13 @@ language: "English"
 ## ## Mahā Saḷāyatanika Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Monastery. There he addressed the monks: “Monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Monastery. There he addressed the bhikkhus: “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-“Monks, I will teach you the great six sense-media (discourse). Listen & pay close attention. I will speak.”
+“bhikkhus, I will teach you the great six sense-media (discourse). Listen & pay close attention. I will speak.”
 
-“As you say, lord,” the monks responded to him.
+“As you say, lord,” the bhikkhus responded to him.
 
 The Blessed One said: “Not knowing, not seeing the eye as it has come to be; not knowing, not seeing forms... consciousness at the eye... contact at the eye as they have come to be; not knowing, not seeing whatever arises conditioned through contact at the eye—experienced as pleasure, pain, or neither-pleasure-nor-pain—as it has come to be, one is infatuated with the eye... forms... consciousness at the eye... contact at the eye... whatever arises conditioned by contact at the eye and is experienced as pleasure, pain, or neither-pleasure-nor-pain.
 
@@ -73,7 +73,7 @@ The Blessed One said: “Not knowing, not seeing the eye as it has come to be; n
 
 “And which qualities are to be realized through direct knowledge? Clear knowing & release: these are the qualities that are to be realized through direct knowledge.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 ### Notes
 

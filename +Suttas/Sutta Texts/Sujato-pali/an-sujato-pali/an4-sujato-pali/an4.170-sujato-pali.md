@@ -20,26 +20,26 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time Venerable Ānanda was staying near Kosambi, in Ghosita’s Monastery. There Ānanda addressed the mendicants: “Reverends, mendicants!”
+1So I have heard. At one time Venerable Ānanda was staying near Kosambi, in Ghosita’s Monastery. There Ānanda addressed the bhikkhus: “Reverends, bhikkhus!”
 
 
 “Reverend,” they replied. Ānanda said this:
 
-2“Reverends, all of the monks and nuns who declare in my presence that they have attained perfection, did so by one or other of four paths.
+2“Reverends, all of the bhikkhus and nuns who declare in my presence that they have attained perfection, did so by one or other of four paths.
 
 
 3What four?
 
-Take a mendicant who develops serenity before discernment. As they do so, the path is born in them. They cultivate, develop, and make much of it. By doing so, they give up the fetters and eliminate the underlying tendencies.
+Take a bhikkhu who develops serenity before discernment. As they do so, the path is born in them. They cultivate, develop, and make much of it. By doing so, they give up the fetters and eliminate the underlying tendencies.
 
-4Another mendicant develops discernment before serenity. As they do so, the path is born in them. They cultivate, develop, and make much of it. By doing so, they give up the fetters and eliminate the underlying tendencies.
+4Another bhikkhu develops discernment before serenity. As they do so, the path is born in them. They cultivate, develop, and make much of it. By doing so, they give up the fetters and eliminate the underlying tendencies.
 
-5Another mendicant develops serenity and discernment in conjunction. As they do so, the path is born in them. They cultivate, develop, and make much of it. By doing so, they give up the fetters and eliminate the underlying tendencies.
+5Another bhikkhu develops serenity and discernment in conjunction. As they do so, the path is born in them. They cultivate, develop, and make much of it. By doing so, they give up the fetters and eliminate the underlying tendencies.
 
-6Another mendicant’s mind is seized by restlessness to realize the teaching. But there comes a time when their mind is stilled internally; it settles, unifies, and becomes immersed in samādhi. The path is born in them. They cultivate, develop, and make much of it. By doing so, they give up the fetters and eliminate the underlying tendencies.
+6Another bhikkhu’s mind is seized by restlessness to realize the teaching. But there comes a time when their mind is stilled internally; it settles, unifies, and becomes immersed in samādhi. The path is born in them. They cultivate, develop, and make much of it. By doing so, they give up the fetters and eliminate the underlying tendencies.
 
 
-7All of the monks and nuns who declare in my presence that they have attained perfection, did so by one or other of these four paths.”
+7All of the bhikkhus and nuns who declare in my presence that they have attained perfection, did so by one or other of these four paths.”
 
 #### Pali
 

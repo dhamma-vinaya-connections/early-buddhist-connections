@@ -15,19 +15,19 @@ language: "English"
 
 What the Teaching Is Not
 
-\[1\] 1.1. THUS HAVE I HEARD. Once the Lord was travelling along the main road between Rājagaha and Nāḷandā with a large company of some five hundred monks. And the wanderer Suppiya was also travelling on that road with his pupil the youth Brahmadatta. And Suppiya  was finding fault in all sorts of ways with the Buddha, the Dhamma and the Sangha, whereas his pupil Brahmadatta was speaking in various ways in their praise. And so these two, teacher and pupil, directly opposing each other’s arguments, followed close behind the Lord and his order of monks.
+\[1\] 1.1. THUS HAVE I HEARD. Once the Lord was travelling along the main road between Rājagaha and Nāḷandā with a large company of some five hundred bhikkhus. And the wanderer Suppiya was also travelling on that road with his pupil the youth Brahmadatta. And Suppiya  was finding fault in all sorts of ways with the Buddha, the Dhamma and the Sangha, whereas his pupil Brahmadatta was speaking in various ways in their praise. And so these two, teacher and pupil, directly opposing each other’s arguments, followed close behind the Lord and his order of bhikkhus.
 
-1.2. Then the Lord stopped for one night with his monks at the royal park of Ambalaṭṭhikā. And Suppiya too stopped there for the night with his pupil Brahmadatta. And Suppiya went on abusing the Buddha, the Dhamma and the Sangha, while his \[2\] pupil Brahmadatta defended them. And thus disputing, they followed close behind the Buddha and his order of monks.
+1.2. Then the Lord stopped for one night with his bhikkhus at the royal park of Ambalaṭṭhikā. And Suppiya too stopped there for the night with his pupil Brahmadatta. And Suppiya went on abusing the Buddha, the Dhamma and the Sangha, while his \[2\] pupil Brahmadatta defended them. And thus disputing, they followed close behind the Buddha and his order of bhikkhus.
 
-1.3. Now in the early morning a number of monks, having got up, gathered together and sat in the Round Pavilion, and this was the trend of their talk: ‘It is wonderful, friends, it is marvellous how the Blessed Lord, the Arahant, the fully-enlightened Buddha knows, sees and clearly distinguishes the different inclinations of beings! For here is the wanderer Suppiya finding fault in all sorts of ways with the Buddha, the Dhamma and the Sangha, while his pupil Brahmadatta in various ways defends them. And, still disputing, they follow closely behind the Blessed Lord and his order of monks.’
+1.3. Now in the early morning a number of bhikkhus, having got up, gathered together and sat in the Round Pavilion, and this was the trend of their talk: ‘It is wonderful, friends, it is marvellous how the Blessed Lord, the Arahant, the fully-enlightened Buddha knows, sees and clearly distinguishes the different inclinations of beings! For here is the wanderer Suppiya finding fault in all sorts of ways with the Buddha, the Dhamma and the Sangha, while his pupil Brahmadatta in various ways defends them. And, still disputing, they follow closely behind the Blessed Lord and his order of bhikkhus.’
 
-1.4. Then the Lord, being aware of what those monks were saying, went to the Round Pavilion and sat down on the prepared seat. Then he said: ‘Monks, what was the subject of your conversation just now? What talk have I interrupted?’ And they told him.
+1.4. Then the Lord, being aware of what those bhikkhus were saying, went to the Round Pavilion and sat down on the prepared seat. Then he said: ‘bhikkhus, what was the subject of your conversation just now? What talk have I interrupted?’ And they told him.
 
-1.5. ‘Monks, if anyone should speak in disparagement of me, of the Dhamma or of the Sangha, \[3\] you should not be angry, resentful or upset on that account. If you were to be angry or displeased at such disparagement, that would only be a hindrance to you. For if others disparage me, the Dhamma or the Sangha, and you are angry or displeased, can you recognise whether what they say is right or not?’ ‘No, Lord.’ ‘If others disparage me, the Dhamma or the Sangha, then you must explain what is incorrect as being incorrect, saying: “That is incorrect, that is false, that is not our way, that is not found among us.”
+1.5. ‘bhikkhus, if anyone should speak in disparagement of me, of the Dhamma or of the Sangha, \[3\] you should not be angry, resentful or upset on that account. If you were to be angry or displeased at such disparagement, that would only be a hindrance to you. For if others disparage me, the Dhamma or the Sangha, and you are angry or displeased, can you recognise whether what they say is right or not?’ ‘No, Lord.’ ‘If others disparage me, the Dhamma or the Sangha, then you must explain what is incorrect as being incorrect, saying: “That is incorrect, that is false, that is not our way, that is not found among us.”
 
-1.6. ‘But, monks, if others should speak in praise of me, of the Dhamma or of the Sangha, you should not on that account be pleased, happy or elated. If you were to be pleased, happy or elated at such praise, that would only be a hindrance to you. If others praise me, the Dhamma or the Sangha, you should acknowledge the truth of what is true, saying: “That is correct, that is right, that is our way, that is found among us.”
+1.6. ‘But, bhikkhus, if others should speak in praise of me, of the Dhamma or of the Sangha, you should not on that account be pleased, happy or elated. If you were to be pleased, happy or elated at such praise, that would only be a hindrance to you. If others praise me, the Dhamma or the Sangha, you should acknowledge the truth of what is true, saying: “That is correct, that is right, that is our way, that is found among us.”
 
-1.7. ‘It is, monks, for elementary, inferior matters of moral practice that the worldling would praise the Tathāgata. And what are these elementary, inferior matters for which the worldling would praise him?’
+1.7. ‘It is, bhikkhus, for elementary, inferior matters of moral practice that the worldling would praise the Tathāgata. And what are these elementary, inferior matters for which the worldling would praise him?’
 
 
 ## Short Section on Morality
@@ -76,53 +76,53 @@ What the Teaching Is Not
 
 1.26. “‘Whereas some ascetics and Brahmins make their living by such base arts as arranging the giving and taking in marriage, engagements and divorces; \[declaring the time for\] saving and spending, bringing good or bad luck, procuring abortions, using spells to bind the tongue, binding the jaw, making the hands jerk, causing deafness, getting answers with a mirror, a girl-medium, a deva; worshipping the sun or Great Brahma, breathing fire, invoking the goddess of luck, the ascetic Gotama refrains from such base arts and wrong means of livelihood.
 
-1.27. “‘Whereas some ascetics and Brahmins, feeding on the food of the faithful, make their living by such base arts, such wrong means of livelihood as appeasing the devas and redeeming vows to them, making earth-house spells, causing virility or impotence, preparing and consecrating building-sites, giving ritual rinsings and bathings, making sacrifices, giving emetics, purges, expectorants and phlegmagogues, giving ear-, eye-, nose-medicine, ointments and counter-ointments, eye-surgery, surgery, pediatry, using balms to counter the side-effects of previous remedies, the ascetic Gotama refrains from such base arts and wrong means of livelihood.” It is, monks, for such elementary, inferior matters of moral practice that the worldling would praise the Tathagata.
+1.27. “‘Whereas some ascetics and Brahmins, feeding on the food of the faithful, make their living by such base arts, such wrong means of livelihood as appeasing the devas and redeeming vows to them, making earth-house spells, causing virility or impotence, preparing and consecrating building-sites, giving ritual rinsings and bathings, making sacrifices, giving emetics, purges, expectorants and phlegmagogues, giving ear-, eye-, nose-medicine, ointments and counter-ointments, eye-surgery, surgery, pediatry, using balms to counter the side-effects of previous remedies, the ascetic Gotama refrains from such base arts and wrong means of livelihood.” It is, bhikkhus, for such elementary, inferior matters of moral practice that the worldling would praise the Tathagata.
 
-\[12\] 1.28.‘There are, monks, other matters, profound, hard to see, hard to understand, peaceful, excellent, beyond mere thought, subtle, to be experienced by the wise, which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathagata would rightly speak. And what are these matters?’
+\[12\] 1.28.‘There are, bhikkhus, other matters, profound, hard to see, hard to understand, peaceful, excellent, beyond mere thought, subtle, to be experienced by the wise, which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathagata would rightly speak. And what are these matters?’
 
 
 ## The Sixty-Two Kinds of Wrong Views
 
-1.29. ‘There are, monks, some ascetics and Brahmins who are speculators about the past, having fixed views about the past, and who put forward \[13\] various speculative theories about the past, in eighteen different ways. On what basis, on what grounds do they do so?
+1.29. ‘There are, bhikkhus, some ascetics and Brahmins who are speculators about the past, having fixed views about the past, and who put forward \[13\] various speculative theories about the past, in eighteen different ways. On what basis, on what grounds do they do so?
 
 1.30. ‘There are some ascetics and Brahmins who are Eternalists, who proclaim the eternity of the self and the world in four ways. On what grounds?
 
-1.31. \[Wrong view 1\] ‘Here, monks, a certain ascetic or Brahmin has by means of effort, exertion, application, earnestness and right attention attained to such a state of mental samādhi that he thereby recalls past existences - one birth, two births, three, four, five, ten births, a hundred, a thousand, a hundred thousand births, several hundred, several thousand, several hundred thousand births. “There my name was so-and-so, my clan was so-and-so, my caste was so-and-so, my food was such-and-such, I experienced such-and-such pleasant and painful conditions, I lived for so long. Having passed away from there, I arose there. There my name was so-and-so ... And having passed away from there, I arose here.” Thus he remembers various past \[14\], lives, their conditions and details. And he says: “The self and the world are eternal, barren like a mountain-peak, set firmly as a post. These beings rush round, circulate, pass away and re-arise, but this remains eternally. Why so? I have by means of effort, exertion, attained to such a state of mental samādhi that I have thereby recalled various past existences ... That is how I know the self and the world are eternal...” That is the first way in which some ascetics and Brahmins proclaim the eternity of the self and the world.
+1.31. \[Wrong view 1\] ‘Here, bhikkhus, a certain ascetic or Brahmin has by means of effort, exertion, application, earnestness and right attention attained to such a state of mental samādhi that he thereby recalls past existences - one birth, two births, three, four, five, ten births, a hundred, a thousand, a hundred thousand births, several hundred, several thousand, several hundred thousand births. “There my name was so-and-so, my clan was so-and-so, my caste was so-and-so, my food was such-and-such, I experienced such-and-such pleasant and painful conditions, I lived for so long. Having passed away from there, I arose there. There my name was so-and-so ... And having passed away from there, I arose here.” Thus he remembers various past \[14\], lives, their conditions and details. And he says: “The self and the world are eternal, barren like a mountain-peak, set firmly as a post. These beings rush round, circulate, pass away and re-arise, but this remains eternally. Why so? I have by means of effort, exertion, attained to such a state of mental samādhi that I have thereby recalled various past existences ... That is how I know the self and the world are eternal...” That is the first way in which some ascetics and Brahmins proclaim the eternity of the self and the world.
 
-1.32. \[Wrong view 2\] ‘And what is the second way? Here, monks, a certain ascetic or Brahmin has by means of effort, exertion... attained to such a state of mental samādhi that he thereby recalls one period of contraction and expansion,  two such periods, three, four, five, ten periods of contraction and expansion... “There my name was so-and-so...” \[15\] That is the second way in which some ascetics and Brahmins proclaim the eternity of the self and the world.
+1.32. \[Wrong view 2\] ‘And what is the second way? Here, bhikkhus, a certain ascetic or Brahmin has by means of effort, exertion... attained to such a state of mental samādhi that he thereby recalls one period of contraction and expansion,  two such periods, three, four, five, ten periods of contraction and expansion... “There my name was so-and-so...” \[15\] That is the second way in which some ascetics and Brahmins proclaim the eternity of the self and the world.
 
-1.33. \[Wrong view 3\] ‘And what is the third way? Here, monks, a certain ascetic or Brahmin has by means of effort... attained to such a state of mental samādhi that he recalls ten, twenty, thirty, forty periods of contraction and expansion. “There my name was so-and-so...” \[16\] That is the third way in which some ascetics and Brahmins proclaim the eternity of the self and the world.
+1.33. \[Wrong view 3\] ‘And what is the third way? Here, bhikkhus, a certain ascetic or Brahmin has by means of effort... attained to such a state of mental samādhi that he recalls ten, twenty, thirty, forty periods of contraction and expansion. “There my name was so-and-so...” \[16\] That is the third way in which some ascetics and Brahmins proclaim the eternity of the self and the world.
 
 1.34. \[Wrong view 4\] ‘And what is the fourth way? Here a certain ascetic or Brahmin is a logician, a reasoner. Hammering it out by reason, following his own line of thought, he argues: “The self and the world are eternal, barren like a mountain-peak, set firmly as a post. These beings rush round, circulate, pass away and re-arise, but this remains for ever.” That is the fourth way in which some ascetics and Brahmins proclaim the eternity of the self and the world.
 
 1.35. ‘These are the four ways in which these ascetics and Brahmins are Etemalists, and proclaim the eternity of the self and the world on four grounds. And whatever ascetics or Brahmins are Eternalists and proclaim the eternity of the self and the world, they do so on one or other of these four grounds. There is no other way.
 
-1.36. ‘This, monks, the Tathāgata understands: These viewpoints thus grasped and adhered to will lead to such-and-such destinations in another world. This the Tathāgata knows, and more, but he is not \[17\] attached to that knowledge. And being thus unattached he has experienced for himself perfect peace, and having truly understood the arising and passing away of feelings, their attraction and peril and the deliverance from them, the Tathāgata is liberated without remainder.
+1.36. ‘This, bhikkhus, the Tathāgata understands: These viewpoints thus grasped and adhered to will lead to such-and-such destinations in another world. This the Tathāgata knows, and more, but he is not \[17\] attached to that knowledge. And being thus unattached he has experienced for himself perfect peace, and having truly understood the arising and passing away of feelings, their attraction and peril and the deliverance from them, the Tathāgata is liberated without remainder.
 
-1.37. ‘There are, monks, other matters, profound, hard to see, hard to understand, peaceful, excellent, beyond mere thought, subtle, to be experienced by the wise, which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak. And what are these matters?’
+1.37. ‘There are, bhikkhus, other matters, profound, hard to see, hard to understand, peaceful, excellent, beyond mere thought, subtle, to be experienced by the wise, which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak. And what are these matters?’
 
 
 ## End of first recitation-section
 
-2.1. ‘There are, monks, some ascetics and Brahmins who are partly Etemalists and partly Non-Eternalists, who proclaim the partial eternity and the partial non-eternity of the self and the world in four ways. On what grounds?
+2.1. ‘There are, bhikkhus, some ascetics and Brahmins who are partly Etemalists and partly Non-Eternalists, who proclaim the partial eternity and the partial non-eternity of the self and the world in four ways. On what grounds?
 
-2.2. ‘There comes a time, monks, sooner or later after a long period, when this world contracts. At a time of contraction, beings are mostly reborn in the Abhassara Brahmā world. And there they dwell, mind-made, feeding on delight, self-luminous, moving through the air, glorious — and they stay like that for a very long time.
+2.2. ‘There comes a time, bhikkhus, sooner or later after a long period, when this world contracts. At a time of contraction, beings are mostly reborn in the Abhassara Brahmā world. And there they dwell, mind-made, feeding on delight, self-luminous, moving through the air, glorious — and they stay like that for a very long time.
 
 2.3. \[Wrong view 5\] ‘But the time comes, sooner or later after a long period, when this world begins to expand. In this expanding world an empty palace of Brahmā appears. And then one being, from exhaustion of his life-span or of his merits, falls from the Abhassara world and arises in the empty Brahmā-palace. And there he dwells, mind-made, feeding on delight, self-luminous, moving through the air, glorious — and he stays like that for a very long time.
 
 2.4. ‘Then in this being who has been alone for so long there arises unrest, discontent and worry, and he thinks: “Oh, if only some other beings would come here!” And other beings, \[18\] from exhaustion of their life-span or of their merits, fall from the Abhassara world and arise in the Brahmāpalace as companions for this being. And there they dwell, mind-made, ... and they stay like that for a very long time.
 
-2.5. ‘And then, monks, that being who first arose there thinks: “I am Brahma, the Great Brahma, the Conqueror, the Unconquered, the All-Seeing, the All-Powerful, the Lord, the Maker and Creator, Ruler, Appointer and Orderer, Father of All That Have Been and Shall Be. These beings were created by me. How so? Because I first had this thought: ‘Oh, if only some other beings would come here!’ That was my wish, and then these beings came into this existence!” But those beings who arose subsequently think: “This, friends, is Brahma, Great Brahma, the Conqueror, the Unconquered, the All-Seeing, the All-Powerful, the Lord, the Maker and Creator, Ruler, Appointer and Orderer, Father of All That Have Been and Shall Be. How so? We have seen that he was here first, and that we arose after him.”
+2.5. ‘And then, bhikkhus, that being who first arose there thinks: “I am Brahma, the Great Brahma, the Conqueror, the Unconquered, the All-Seeing, the All-Powerful, the Lord, the Maker and Creator, Ruler, Appointer and Orderer, Father of All That Have Been and Shall Be. These beings were created by me. How so? Because I first had this thought: ‘Oh, if only some other beings would come here!’ That was my wish, and then these beings came into this existence!” But those beings who arose subsequently think: “This, friends, is Brahma, Great Brahma, the Conqueror, the Unconquered, the All-Seeing, the All-Powerful, the Lord, the Maker and Creator, Ruler, Appointer and Orderer, Father of All That Have Been and Shall Be. How so? We have seen that he was here first, and that we arose after him.”
 
 2.6. ‘And this being that arose first is longer-lived, more beautiful and more powerful than they are. And it may happen that some being falls from that realm and arises in this world. Having arisen in this world, he goes forth from the household life into homelessness. Having gone forth, he by means of effort, exertion, application, earnestness and right attention attains to such a degree of mental samādhi that he thereby recalls his last existence, but recalls none before that. And he thinks: “That Brahmā,...he made us, and he is permanent, stable, eternal, not subject to change, the same for ever and ever. But we who were \[19\] created by that Brahma, we are impermanent, unstable, short-lived, fated to fall away, and we have come to this world.” This is the first case whereby some ascetics and Brahmins are partly Eternalists and partly Non-Eternalists.
 
-2.7. \[Wrong view 6\] ‘And what is the second way? There are, monks, certain devas called Corrupted by Pleasure. They spend an excessive amount of time addicted to merriment, play and enjoyment, so that their mindfulness is dissipated, and by the dissipation of mindfulness those beings fall from that state.
+2.7. \[Wrong view 6\] ‘And what is the second way? There are, bhikkhus, certain devas called Corrupted by Pleasure. They spend an excessive amount of time addicted to merriment, play and enjoyment, so that their mindfulness is dissipated, and by the dissipation of mindfulness those beings fall from that state.
 
 2.8. ‘And it can happen that a being, having fallen from that state, arises in this world. Having arisen in this world, he goes forth from the household life into homelessness. Having gone forth, he by means of effort, exertion, ... recalls his last existence, but recalls none before that.
 
 2.9. ‘He thinks: “Those reverend devas who are not corrupted by pleasure do not spend an excessive amount of time addicted to merriment, play and enjoyment. Thus their mindfulness is not dissipated, and so they do not fall from that state. They are permanent, stable, eternal, not subject to change, the same for ever and \[20\] ever. But we, who are corrupted by pleasure, spent an excessive amount of time addicted to merriment, play and enjoyment. Thus we, by the dissipation of mindfulness, have fallen from that state, we are impermanent, unstable, short-lived, fated to fall away, and we have come to this world.” This is the second case.
 
-2.10. \[Wrong view 7\] ‘And what is the third way? There are, monks, certain devas called Corrupted in Mind. They spend an excessive amount of time regarding each other with envy. By this means their minds are corrupted. On account of their corrupted minds they become weary in body and mind. And they fall from that place.
+2.10. \[Wrong view 7\] ‘And what is the third way? There are, bhikkhus, certain devas called Corrupted in Mind. They spend an excessive amount of time regarding each other with envy. By this means their minds are corrupted. On account of their corrupted minds they become weary in body and mind. And they fall from that place.
 
 2.11. ‘And it can happen that a being, having fallen from that state, arises in this world. He ... recalls his last existence, but recalls none before that.
 
@@ -132,11 +132,11 @@ What the Teaching Is Not
 
 2.14. ‘These are the four ways in which these ascetics and Brahmins are partly Eternalists and partly Non-Eternalists ... Whatever ascetics and Brahmins ... proclaim the partial eternity and the partial non-eternity of the self and the world, they do so on one or other of these four grounds. There is no other way.
 
-2.15. ‘This, monks, the Tathāgata understands: These \[22\] viewpoints thus grasped and adhered to will lead to such-and-such destinations in another world. This the Tathāgata knows, and more, but he is not attached to that knowledge. And being thus unattached he has experienced for himself perfect peace, and having truly understood the arising and passing away of feelings, their attraction and peril and the deliverance from them, the Tathāgata is liberated without remainder.
+2.15. ‘This, bhikkhus, the Tathāgata understands: These \[22\] viewpoints thus grasped and adhered to will lead to such-and-such destinations in another world. This the Tathāgata knows, and more, but he is not attached to that knowledge. And being thus unattached he has experienced for himself perfect peace, and having truly understood the arising and passing away of feelings, their attraction and peril and the deliverance from them, the Tathāgata is liberated without remainder.
 
-‘These, monks, are those other matters, profound, hard to see, hard to understand, peaceful, excellent, beyond mere thought, subtle, to be experienced by the wise, which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.
+‘These, bhikkhus, are those other matters, profound, hard to see, hard to understand, peaceful, excellent, beyond mere thought, subtle, to be experienced by the wise, which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.
 
-2.16. ‘There are, monks, some ascetics and Brahmins who are Finitists and Infinitists, and who proclaim the finitude and infinitude of the world on four grounds. What are they?
+2.16. ‘There are, bhikkhus, some ascetics and Brahmins who are Finitists and Infinitists, and who proclaim the finitude and infinitude of the world on four grounds. What are they?
 
 2.17. \[Wrong view 9\] ‘Here a certain ascetic or Brahmin has by means of effort...attained to such a state of samādhi that he dwells perceiving the world as finite. He thinks: “This world is finite and bounded by a circle. How so? Because I have... attained to such a state of samādhi that I dwell perceiving the world as finite. Therefore I know that this world is finite and bounded by a circle.” This is the first case.
 
@@ -148,11 +148,11 @@ What the Teaching Is Not
 
 2.21. ‘These are the four ways in which these ascetics and Brahmins are Finitists and Infinitists, and proclaim the finitude and infinitude of the world on four grounds. There is no other way.
 
-2.22. ‘This, monks, the Tathāgata understands: These viewpoints thus grasped and adhered to will lead to such-and-such destinations in another world... (as verse 15).
+2.22. ‘This, bhikkhus, the Tathāgata understands: These viewpoints thus grasped and adhered to will lead to such-and-such destinations in another world... (as verse 15).
 
-‘These, monks, are those other matters, profound, hard to see, hard to understand, peaceful, excellent, beyond mere thought, subtle, to be experienced by the wise, which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.
+‘These, bhikkhus, are those other matters, profound, hard to see, hard to understand, peaceful, excellent, beyond mere thought, subtle, to be experienced by the wise, which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.
 
-2.23. ‘There are, monks, some ascetics and Brahmins who are Eel-Wrigglers. When asked about this or that matter, they resort to evasive statements, and they wriggle like eels on four grounds. What are they?
+2.23. ‘There are, bhikkhus, some ascetics and Brahmins who are Eel-Wrigglers. When asked about this or that matter, they resort to evasive statements, and they wriggle like eels on four grounds. What are they?
 
 2.24. \[Wrong view 13\] ‘In this case there is an ascetic or Brahmin who does not in truth know whether a thing is good or bad. He thinks: “I do not in truth know whether this is good \[25\] or whether it is bad. Not knowing which is right, I might declare: ‘That is good’, or ‘That is bad’, and that might be a lie, and that would distress me. And if I were distressed, that would be a hindrance to me.” Thus fearing to lie, abhorring to lie, he does not declare a thing to be good or bad, but when asked about this or that matter, he resorts to evasive statements and wriggles like an eel: “I don’t say this, I don’t say that. I don’t say it is otherwise. I don’t say it is not. I don’t not say it is not.” This is the first case.
 
@@ -164,48 +164,48 @@ What the Teaching Is Not
 
 2.28. ‘These are the four ways \[28\] in which those ascetics and Brahmins who are Eel-Wrigglers resort to evasive statements ... There is no other way.
 
-2.29. ‘This, monks, the Tathāgata understands: These viewpoints thus grasped and adhered to will lead to such-and-such destinations in another world... (as verse 15).
+2.29. ‘This, bhikkhus, the Tathāgata understands: These viewpoints thus grasped and adhered to will lead to such-and-such destinations in another world... (as verse 15).
 
-‘These, monks, are those other matters, profound, hard to see... which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.
+‘These, bhikkhus, are those other matters, profound, hard to see... which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.
 
-2.30. ‘There are, monks, some ascetics and Brahmins who are Chance-Originationists, and who proclaim the chance origin of the self and the world on two grounds. What are they?
+2.30. ‘There are, bhikkhus, some ascetics and Brahmins who are Chance-Originationists, and who proclaim the chance origin of the self and the world on two grounds. What are they?
 
-2.31. \[Wrong view 17\] ‘There are, monks, certain devas called Unconscious. As soon as a perception arises in them, those devas fall from that realm. And it may happen that a being falls from that realm and arises in this world. He...recalls his last existence, but none \[29\] before that. He thinks: “The self and the world have arisen by chance. How so? Before this I did not exist. Now from not-being I have been brought to being.” This is the first case.
+2.31. \[Wrong view 17\] ‘There are, bhikkhus, certain devas called Unconscious. As soon as a perception arises in them, those devas fall from that realm. And it may happen that a being falls from that realm and arises in this world. He...recalls his last existence, but none \[29\] before that. He thinks: “The self and the world have arisen by chance. How so? Before this I did not exist. Now from not-being I have been brought to being.” This is the first case.
 
 2.32. \[Wrong view 18\] ‘What is the second case? Here, an ascetic or Brahmin is a logician, a reasoner. He hammers out his own opinion and declares: “The self and the world have arisen by chance.” This is the second case.
 
 2.33. ‘These are the two ways in which those ascetics and Brahmins who are Chance-Originists proclaim the chance origin of the self and the world. There is no other way.
 
-2.34. ‘This, monks, the Tathagata understands...
+2.34. ‘This, bhikkhus, the Tathagata understands...
 
-‘These, monks, are those other matters, profound, hard to see,...which the Tathagata, having realised them by his own super-knowledge, proclaims, and about which those who \[30\] would truthfully praise the Tathagata would rightly speak.
+‘These, bhikkhus, are those other matters, profound, hard to see,...which the Tathagata, having realised them by his own super-knowledge, proclaims, and about which those who \[30\] would truthfully praise the Tathagata would rightly speak.
 
-2.35. ‘And these, monks, are the eighteen ways in which these ascetics and Brahmins are speculators about the past... There is no other way.
+2.35. ‘And these, bhikkhus, are the eighteen ways in which these ascetics and Brahmins are speculators about the past... There is no other way.
 
-2.36. ‘This, monks, the Tathagata understands...
+2.36. ‘This, bhikkhus, the Tathagata understands...
 
-2.37. ‘There are, monks, some ascetics and Brahmins who are speculators about the future, having fixed views about the future, and who put forward various speculative theories about the future in forty-four different ways. On what basis, on what grounds do they do so?
+2.37. ‘There are, bhikkhus, some ascetics and Brahmins who are speculators about the future, having fixed views about the future, and who put forward various speculative theories about the future in forty-four different ways. On what basis, on what grounds do they do so?
 
-2.38. ‘There are, monks, some ascetics and Brahmins who \[31\] proclaim a doctrine of Conscious Post-Mortem Survival, and do so in sixteen different ways. On what basis?
+2.38. ‘There are, bhikkhus, some ascetics and Brahmins who \[31\] proclaim a doctrine of Conscious Post-Mortem Survival, and do so in sixteen different ways. On what basis?
 
 \[Wrong views 19-34\] ‘They declare that the self after death is healthy and conscious and (1) material, (2) immaterial, (3) both material and immaterial, (4) neither material nor immaterial, (5) finite, (6) infinite, (7) both, (8) neither, (9) of uniform perception, (10) of varied perception, (11) of limited perception, (12) of unlimited perception, (13) wholly happy, (14) wholly miserable, (15) both, (16) neither.
 
 2.39. ‘These are the sixteen ways in which these ascetics and Brahmins proclaim a doctrine of conscious post-mortem survival. There is no other way.
 
-2.40. ‘This, monks, the Tathagata understands...
+2.40. ‘This, bhikkhus, the Tathagata understands...
 
-‘These, monks, are those other matters, profound, hard to see,...which the Tathāgata, having realised them by his own super-knowledge, \[32\] proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.’
+‘These, bhikkhus, are those other matters, profound, hard to see,...which the Tathāgata, having realised them by his own super-knowledge, \[32\] proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.’
 
 
 ## End of Second Recitation-Section
 
-3.1. ‘There are, monks, some ascetics and Brahmins who proclaim a doctrine of Unconscious Post-Mortem Survival, and they do so in eight ways. On what basis?
+3.1. ‘There are, bhikkhus, some ascetics and Brahmins who proclaim a doctrine of Unconscious Post-Mortem Survival, and they do so in eight ways. On what basis?
 
 3.2. \[Wrong views 35-42\] ‘They declare that the self after death is healthy and unconscious and (1) material, (2) immaterial, (3) both, (4) neither, (5) finite, (6) infinite, (7) both, (8) neither.
 
 3.3. ‘These are the eight ways in which these ascetics and Brahmins proclaim a doctrine of Unconscious Post-Mortem Survival. There is no other way.
 
-3.4. ‘This, monks, the Tathāgata understands ... These, monks, are those other matters, profound, hard to see,... which the Tathāgata, having realised them by his own super-knowledge, proclaims, \[33\] and about which those who would truthfully praise the Tathāgata would rightly speak.
+3.4. ‘This, bhikkhus, the Tathāgata understands ... These, bhikkhus, are those other matters, profound, hard to see,... which the Tathāgata, having realised them by his own super-knowledge, proclaims, \[33\] and about which those who would truthfully praise the Tathāgata would rightly speak.
 
 3.5. ‘There are some ascetics and Brahmins who declare a doctrine of Neither-Conscious-nor-Unconscious Post-Mortem Survival, and they do so in eight ways. On what basis?
 
@@ -213,9 +213,9 @@ What the Teaching Is Not
 
 3.7. ‘These are the eight ways in which these ascetics and Brahmins proclaim a doctrine of Neither-Conscious-Nor-UnConscious Post-Mortem Survival. There is no other way.
 
-3.8. ‘This, monks, the Tathāgata understands ... These, monks, are those other matters, profound, hard to see,... which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak. \[34\]
+3.8. ‘This, bhikkhus, the Tathāgata understands ... These, bhikkhus, are those other matters, profound, hard to see,... which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak. \[34\]
 
-3.9. ‘There are, monks, some ascetics and Brahmins who are Annihilationists, who proclaim the annihilation, destruction and non-existence of beings, and they do so in seven ways. On what basis?
+3.9. ‘There are, bhikkhus, some ascetics and Brahmins who are Annihilationists, who proclaim the annihilation, destruction and non-existence of beings, and they do so in seven ways. On what basis?
 
 3.10. \[Wrong view 51\] ‘Here a certain ascetic or Brahmin declares and holds the view: “Since this self is material, composed of the four great elements, the product of mother and father, at the breaking-up of the body it is annihilated and perishes, and does not exist after death. This is the way in which this self is annihilated.” That is how some proclaim the annihilation, destruction and non-existence of beings.
 
@@ -233,9 +233,9 @@ What the Teaching Is Not
 
 3.17. ‘These are the seven ways in which these ascetics and Brahmins proclaim a doctrine of annihilation, destruction and non-existence of beings... \[36\] There is no other way.
 
-3.18. ‘This, monks, the Tathāgata understands...These, monks, are those other matters, profound, hard to see,... which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.
+3.18. ‘This, bhikkhus, the Tathāgata understands...These, bhikkhus, are those other matters, profound, hard to see,... which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.
 
-3.19. ‘There are, monks, some ascetics and Brahmins who are proclaimers of Nibbāna Here and Now, and who proclaim Nibbāna here and now for an existent being in five ways. On what grounds?
+3.19. ‘There are, bhikkhus, some ascetics and Brahmins who are proclaimers of Nibbāna Here and Now, and who proclaim Nibbāna here and now for an existent being in five ways. On what grounds?
 
 3.20. \[Wrong view 58\] ‘Here a certain ascetic or Brahmin declares and holds the view: “In as far as this self, being furnished and endowed with the fivefold sense-pleasures, indulges in them, then that is when the self realises the highest Nibbāna here and now.” So some proclaim it.
 
@@ -249,22 +249,22 @@ What the Teaching Is Not
 
 3.25. ‘These are the five ways in which these ascetics and Brahmins proclaim a doctrine of Nibbāna here and now. There is no other way.
 
-3.26. ‘This, monks, the Tathāgata understands...
+3.26. ‘This, bhikkhus, the Tathāgata understands...
 
 3.27. ‘These are the forty-four ways in which those ascetics and Brahmins who are speculators about the future, having fixed ideas about the future, put forward various speculative views about the future. There is no other way.
 
-3.28. ‘This, monks, the Tathāgata understands... \[39\]
+3.28. ‘This, bhikkhus, the Tathāgata understands... \[39\]
 
 3.29. ‘These are the sixty-two ways in which those ascetics and Brahmins who are speculators about the past, the future, or both, put forward views about these. There is no other way.
 
-3.30. ‘This, monks, the Tathāgata understands: These viewpoints thus grasped and adhered to will lead to such-and-such destinations in another world. This the Tathāgata knows, and more, but he is not attached to that knowledge. And being thus unattached he has experienced for himself perfect peace, and having truly understood the arising and passing away of feelings, their attraction and peril and the deliverance from them, the Tathāgata is liberated without remainder.
+3.30. ‘This, bhikkhus, the Tathāgata understands: These viewpoints thus grasped and adhered to will lead to such-and-such destinations in another world. This the Tathāgata knows, and more, but he is not attached to that knowledge. And being thus unattached he has experienced for himself perfect peace, and having truly understood the arising and passing away of feelings, their attraction and peril and the deliverance from them, the Tathāgata is liberated without remainder.
 
-3.31. ‘These, monks, are those other matters, profound, hard to see, hard to understand, peaceful, excellent, beyond mere thought, subtle, to be experienced by the wise, which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.’
+3.31. ‘These, bhikkhus, are those other matters, profound, hard to see, hard to understand, peaceful, excellent, beyond mere thought, subtle, to be experienced by the wise, which the Tathāgata, having realised them by his own super-knowledge, proclaims, and about which those who would truthfully praise the Tathāgata would rightly speak.’
 
 
 ## Conclusion
 
-3.32. \[Wrong views 1-4\] ‘Thus, monks, when those ascetics and Brahmins who are Eternalists proclaim the eternity of the self and the world in four \[40\] ways, that is merely the feeling of those who do not know and see, the worry and vacillation of those immersed in craving.
+3.32. \[Wrong views 1-4\] ‘Thus, bhikkhus, when those ascetics and Brahmins who are Eternalists proclaim the eternity of the self and the world in four \[40\] ways, that is merely the feeling of those who do not know and see, the worry and vacillation of those immersed in craving.
 
 3.33. \[Wrong views 5 — 8\] ‘When those who are partly Eternalists and partly Non-Eternalists proclaim the partial eternity and the partial non-eternity of the self and the world in four ways, that is merely the feeling of those who do not know and see...
 
@@ -320,11 +320,11 @@ What the Teaching Is Not
 
 3.71. ‘With regard to all of these..., \[45\] they experience these feelings by repeated contact through the six sense-bases;  feeling conditions craving; craving conditions clinging; clinging conditions becoming; becoming conditions birth; birth conditions ageing and death, sorrow, lamentation, sadness and distress.
 
-‘When, monks, a monk understands as they really are the arising and passing away of the six bases of contact, their attraction and peril, and the deliverance from them, he knows that which goes beyond all these views.
+‘When, bhikkhus, a bhikkhu understands as they really are the arising and passing away of the six bases of contact, their attraction and peril, and the deliverance from them, he knows that which goes beyond all these views.
 
 3.72. ‘Whatever ascetics and Brahmins who are speculators about the past or the future or both, having fixed views on the matter and put forth speculative views about it, these are all trapped in the net with its sixty-two divisions, and wherever they emerge and try to get out, they are caught and held in this net. Just as a skilled fisherman or his apprentice might cover a small piece of water with a fine-meshed net, thinking: “Whatever larger creatures there may be in this water, they are all trapped in the net, \[46\] caught, and held in the net”, so it is with all these: they are trapped and caught in this net.
 
-3.73. ‘Monks, the body of the Tathāgata stands with the link that bound it to becoming cut. As long as the body subsists, devas and humans will see him. But at the breaking-up of the body and the exhaustion of the life-span, devas and humans will see him no more. Monks, just as when the stalk of a bunch of mangoes has been cut, all the mangoes on it go with it, just so the Tathāgata’s link with becoming has been cut. As long as the body subsists, devas and humans will see him. But at the breaking-up of the body and the exhaustion of the life-span, devas and humans will see him no more.’
+3.73. ‘bhikkhus, the body of the Tathāgata stands with the link that bound it to becoming cut. As long as the body subsists, devas and humans will see him. But at the breaking-up of the body and the exhaustion of the life-span, devas and humans will see him no more. bhikkhus, just as when the stalk of a bunch of mangoes has been cut, all the mangoes on it go with it, just so the Tathāgata’s link with becoming has been cut. As long as the body subsists, devas and humans will see him. But at the breaking-up of the body and the exhaustion of the life-span, devas and humans will see him no more.’
 
 3.74. At these words the Venerable Ananda said to the Lord: ‘It is marvellous, Lord, it is wonderful. What is the name of this exposition of Dhamma?’
 
@@ -332,7 +332,7 @@ What the Teaching Is Not
 
 
 
-Thus the Lord spoke, and the monks rejoiced and were delighted at his words. And as this exposition was being proclaimed, the ten-thousand world-system shook.
+Thus the Lord spoke, and the bhikkhus rejoiced and were delighted at his words. And as this exposition was being proclaimed, the ten-thousand world-system shook.
 
 ![005](Raw%20files/Wisdom%20publications/DN%20Walshe/images/00005.jpg)
 

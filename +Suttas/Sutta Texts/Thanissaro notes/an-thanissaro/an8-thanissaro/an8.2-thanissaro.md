@@ -15,9 +15,9 @@ language: "English"
 ## ## Paññā Sutta
 
 
-“Monks, these eight causes, these eight requisite conditions lead to the acquiring of the as-yet-unacquired discernment that is basic to the holy life, and to the increase, plenitude, development, & culmination of that which has already been acquired. Which eight?
+“bhikkhus, these eight causes, these eight requisite conditions lead to the acquiring of the as-yet-unacquired discernment that is basic to the holy life, and to the increase, plenitude, development, & culmination of that which has already been acquired. Which eight?
 
-“There is the case where a monk lives in apprenticeship to the Teacher or to a respectable companion in the holy life in whom he has established a strong sense of shame & compunction, love, & respect. This, monks, is the first cause, the first requisite condition that leads to the acquiring of the as-yet-unacquired discernment that is basic to the holy life, and to the increase, plenitude, development, & culmination of that which has already been acquired.
+“There is the case where a bhikkhu lives in apprenticeship to the Teacher or to a respectable companion in the holy life in whom he has established a strong sense of shame & compunction, love, & respect. This, bhikkhus, is the first cause, the first requisite condition that leads to the acquiring of the as-yet-unacquired discernment that is basic to the holy life, and to the increase, plenitude, development, & culmination of that which has already been acquired.
 
 “As he lives in apprenticeship under the Teacher or under a respectable companion in the holy life in whom he has established a strong sense of shame & compunction, love, & respect, he approaches him at the appropriate times to quiz & cross-question him: ‘What, venerable sir, is the meaning of this statement?’ He [the Teacher or the respectable companion in the holy life] reveals what is hidden, makes plain what is obscure, and dispels perplexity in many kinds of perplexing things. This is the second cause, the second requisite condition.…
 
@@ -31,7 +31,7 @@ language: "English"
 
 “When he is in the midst of the Saṅgha he doesn’t talk on & on about a variety of things. Either he speaks Dhamma himself or he invites another to do so, and he feels no disdain for noble silence.[1](#^[[an8-thanissaro]].2note01) This is the seventh cause, the seventh requisite condition.… ^[[an8-thanissaro]].2note01-ref
 
-“He remains focused on arising & passing away with regard to the five aggregates: ‘Such is form, such its origination, such its disappearance. Such is feeling… Such is perception… Such are fabrications… Such is consciousness, such its origination, such its disappearance.’ This, monks, is the eighth cause, the eighth requisite condition that leads to the acquiring of the as-yet-unacquired discernment that is basic to the holy life, and to the increase, plenitude, development, & culmination of that which has already been acquired.
+“He remains focused on arising & passing away with regard to the five aggregates: ‘Such is form, such its origination, such its disappearance. Such is feeling… Such is perception… Such are fabrications… Such is consciousness, such its origination, such its disappearance.’ This, bhikkhus, is the eighth cause, the eighth requisite condition that leads to the acquiring of the as-yet-unacquired discernment that is basic to the holy life, and to the increase, plenitude, development, & culmination of that which has already been acquired.
 
 “When this is the case, his companions in the holy life hold him in esteem: ‘This venerable one lives in apprenticeship to the Teacher or to a respectable companion in the holy life in whom he has established a strong sense of shame & compunction, love, & respect. Surely, knowing, he knows; seeing, he sees.’ This is a factor leading to endearment, to respect, to development, to consonance, to unification (of mind).
 
@@ -49,7 +49,7 @@ language: "English"
 
 “(They say:) ‘He remains focused on arising & passing away with regard to the five aggregates: ‘Such is form, such its origination, such its disappearance. Such is feeling… Such is perception… Such are fabrications… Such is consciousness, such its origination, such its disappearance.’ Surely, knowing, he knows; seeing, he sees.’ This, too, is a factor leading to endearment, to respect, to development, to consonance, to unification (of mind).
 
-“These, monks, are the eight causes, the eight requisite conditions that lead to the acquiring of the as-yet-unacquired discernment that is basic to the holy life, and to the increase, plenitude, development, & culmination of that which has already been acquired.”
+“These, bhikkhus, are the eight causes, the eight requisite conditions that lead to the acquiring of the as-yet-unacquired discernment that is basic to the holy life, and to the increase, plenitude, development, & culmination of that which has already been acquired.”
 
 Note
 

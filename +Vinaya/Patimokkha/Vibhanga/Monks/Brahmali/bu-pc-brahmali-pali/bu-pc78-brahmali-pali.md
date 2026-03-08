@@ -16,32 +16,32 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six were arguing with the good monks. The good monks said, “These monks from the group of six are shameless; it’s not possible to argue with them.”
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six were arguing with the good bhikkhus. The good bhikkhus said, “These bhikkhus from the group of six are shameless; it’s not possible to argue with them.”
 
-And the monks from the group of six said, “Why are you slandering us by calling us shameless?”
+And the bhikkhus from the group of six said, “Why are you slandering us by calling us shameless?”
 
 “How did you know?”
 
 “We were eavesdropping on you.”
 
 
-2The monks of few desires complained and criticized them, “How could the monks from the group of six eavesdrop on monks they are arguing and disputing with?” … “Is it true, monks, that you did this?”
+2The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six eavesdrop on bhikkhus they are arguing and disputing with?” … “Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk eavesdrops on monks who are arguing and disputing, thinking, “I’ll hear what they say,” and he does so only for this reason and no other, he commits an offense entailing confession.’”
+3‘If a monk eavesdrops on bhikkhus who are arguing and disputing, thinking, “I’ll hear what they say,” and he does so only for this reason and no other, he commits an offense entailing confession.’”
 
 #### Definitions
 
 4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
 
 
-5**On monks:** on other monks.
+5**On bhikkhus:** on other bhikkhus.
 
 6**Who are arguing and disputing:** who are engaged in a legal issue.
 

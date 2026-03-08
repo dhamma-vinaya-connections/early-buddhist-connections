@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1Mendicants, there are these four things. What four?
+1bhikkhus, there are these four things. What four?
 
 There are things that should be completely understood by direct knowledge. There are things that should be given up by direct knowledge. There are things that should be developed by direct knowledge. There are things that should be realized by direct knowledge.
 

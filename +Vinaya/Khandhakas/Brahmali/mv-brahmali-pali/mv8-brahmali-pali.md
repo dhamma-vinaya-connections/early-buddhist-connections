@@ -202,7 +202,7 @@ Jīvaka then cured King Bimbisāra’s hemorrhoids with one application of ointm
 
 “There’s no need. Please just remember my act of service.”
 
-“Well then, Jīvaka, please attend on me, the harem, and the Saṅgha of monks headed by the Buddha.”
+“Well then, Jīvaka, please attend on me, the harem, and the Saṅgha of bhikkhus headed by the Buddha.”
 
 
 “Yes, sir.”
@@ -416,17 +416,17 @@ Jīvaka told him what he had thought outside the gateway, adding: “Please bath
 
 “Well then, say what it is.”
 
-“The Buddha and the Saṅgha of monks are rag-robe wearers. But I’ve received these two valuable cloths from King Pajjota that are extremely exquisite and fine—they are one in a million. Please accept them, and please allow the Saṅgha of monks to use robe-cloth given by householders.”
+“The Buddha and the Saṅgha of bhikkhus are rag-robe wearers. But I’ve received these two valuable cloths from King Pajjota that are extremely exquisite and fine—they are one in a million. Please accept them, and please allow the Saṅgha of bhikkhus to use robe-cloth given by householders.”
 
 The Buddha received the two valuable cloths. He then instructed, inspired, and gladdened Jīvaka with a teaching, after which Jīvaka got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left.
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 
-“Monks, I allow you to use robe-cloth given by householders. Anyone who wishes may wear rag-robes and anyone who wishes may accept robe-cloth from householders. But I praise contentment with one or the other.”
+“bhikkhus, I allow you to use robe-cloth given by householders. Anyone who wishes may wear rag-robes and anyone who wishes may accept robe-cloth from householders. But I praise contentment with one or the other.”
 
 
-31The people of Rājagaha heard that the Buddha had allowed the monks to use robe-cloth given by householders. They were excited and joyful, thinking: “Now we’ll give gifts and make merit.” In just a single day many thousands of robes were given at Rājagaha.
+31The people of Rājagaha heard that the Buddha had allowed the bhikkhus to use robe-cloth given by householders. They were excited and joyful, thinking: “Now we’ll give gifts and make merit.” In just a single day many thousands of robes were given at Rājagaha.
 
 32The same thing happened in the country.
 
@@ -456,15 +456,15 @@ Soon afterwards the Buddha gave a teaching and addressed the monks:
 > ```
 
 
-37On one occasion the King of Kāsī sent a valuable, woolen Kāsī-cloth to Jīvaka. Jīvaka took the cloth and went to the Buddha. He bowed, sat down, and told him what had happened, adding: “Sir, please accept this woolen cloth for my long-lasting benefit and happiness.” The Buddha received the woolen cloth. He then instructed, inspired, and gladdened Jīvaka with a teaching, after which Jīvaka got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+37On one occasion the King of Kāsī sent a valuable, woolen Kāsī-cloth to Jīvaka. Jīvaka took the cloth and went to the Buddha. He bowed, sat down, and told him what had happened, adding: “Sir, please accept this woolen cloth for my long-lasting benefit and happiness.” The Buddha received the woolen cloth. He then instructed, inspired, and gladdened Jīvaka with a teaching, after which Jīvaka got up from his seat, bowed down, circumambulated the Buddha with his right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow wool.”
 
-38At that time various kinds of robe-cloth were offered to the Saṅgha. The monks thought: “What kinds of robe-cloth has the Buddha allowed and what not?” They told the Buddha.
+38At that time various kinds of robe-cloth were offered to the Saṅgha. The bhikkhus thought: “What kinds of robe-cloth has the Buddha allowed and what not?” They told the Buddha.
 
 “I allow six kinds of robe-cloth: linen, cotton, silk, wool, sunn hemp, and hemp.”
 
-39Soon afterwards the monks thought: “The Buddha has only allowed one kind of robe, not two,” and being afraid of wrongdoing, they did not accept rags after receiving robe-cloth from householders.
+39Soon afterwards the bhikkhus thought: “The Buddha has only allowed one kind of robe, not two,” and being afraid of wrongdoing, they did not accept rags after receiving robe-cloth from householders.
 
 “I allow you to accept rags after receiving robe-cloth from a householder. But I praise contentment with both.”
 
@@ -478,31 +478,31 @@ Soon afterwards the Buddha gave a teaching and addressed the monks:
 > ```
 
 
-40On one occasion when a number of monks were traveling through the Kosalan country, some of them entered a charnel ground to look for rags, while the others walked on. The former monks got hold of rags, and the others said: “Please give us a share.”
+40On one occasion when a number of bhikkhus were traveling through the Kosalan country, some of them entered a charnel ground to look for rags, while the others walked on. The former bhikkhus got hold of rags, and the others said: “Please give us a share.”
 
 “But why didn’t you wait, then? We won’t give you a share.” They told the Buddha.
 
 “If you’re unwilling, you don’t have to give a share to those who don’t wait.”
 
-41On another occasion when a number of monks were traveling through the Kosalan country, some of them entered a charnel ground to look for rags, while the others waited. The former monks got hold of rags, and the others said: “Please give us a share.”
+41On another occasion when a number of bhikkhus were traveling through the Kosalan country, some of them entered a charnel ground to look for rags, while the others waited. The former bhikkhus got hold of rags, and the others said: “Please give us a share.”
 
 “But why didn’t you come with us, then? We won’t give you a share.”
 
 “Even if you’re unwilling, you should give a share to those who wait.”
 
-42On yet another occasion when a number of monks were traveling through the Kosalan country, some of them entered a charnel ground to look for rags first, while the other monks entered afterwards. Those who entered first got hold of rags, but not those who entered afterwards. The latter monks said: “Please give us a share.”
+42On yet another occasion when a number of bhikkhus were traveling through the Kosalan country, some of them entered a charnel ground to look for rags first, while the other bhikkhus entered afterwards. Those who entered first got hold of rags, but not those who entered afterwards. The latter bhikkhus said: “Please give us a share.”
 
 “But why did you come in afterwards, then? We won’t give you a share.”
 
 “If you’re unwilling, you don’t have to give a share to those who enter afterwards.”
 
-43On yet another occasion when a number of monks were traveling through the Kosalan country, they all entered a charnel ground together to look for rags. Some of them got hold of rags, while others did not. The latter monks said: “Please give us a share.”
+43On yet another occasion when a number of bhikkhus were traveling through the Kosalan country, they all entered a charnel ground together to look for rags. Some of them got hold of rags, while others did not. The latter bhikkhus said: “Please give us a share.”
 
 “But why didn’t you get any? We won’t give you a share.”
 
 “Even if you’re unwilling, you should give a share to those who enter together with you.”
 
-44On yet another occasion when a number of monks were traveling through the Kosalan country, they entered a charnel ground together to look for rags after making an agreement to share. Some of them got hold of rags, while others did not. The latter monks said: “Please give us a share.”
+44On yet another occasion when a number of bhikkhus were traveling through the Kosalan country, they entered a charnel ground together to look for rags after making an agreement to share. Some of them got hold of rags, while others did not. The latter bhikkhus said: “Please give us a share.”
 
 “But why didn’t you get any? We won’t give you a share.”
 
@@ -579,7 +579,7 @@ And this is how he should be appointed. First a monk should be asked, and then a
 
 60The Saṅgha has appointed monk so-and-so as the storeman. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
-61Soon afterwards the monks from the group of six dismissed the storeman.
+61Soon afterwards the bhikkhus from the group of six dismissed the storeman.
 
 “You should not dismiss the storeman. If you do, you commit an offense of wrong conduct.”
 
@@ -601,12 +601,12 @@ And this is how he should be appointed. First a monk should be asked, and then a
 
 66The Saṅgha has appointed monk so-and-so as the distributor of robe-cloth. The Saṅgha approves and is therefore silent. I will remember it thus.’”
 
-67The monks who were the distributors of robe-cloth thought: “How should we divide the robe-cloth?”
+67The bhikkhus who were the distributors of robe-cloth thought: “How should we divide the robe-cloth?”
 
-“You should first sort the cloth, then estimate its value, followed by grouping it according to value, counting the monks, gathering the monks into groups, and finally fixing the shares of robe-cloth.”
+“You should first sort the cloth, then estimate its value, followed by grouping it according to value, counting the bhikkhus, gathering the bhikkhus into groups, and finally fixing the shares of robe-cloth.”
 
 
-68The monks who were distributors of robe-cloth thought: “What share of the robe-cloth should we give to the novices?”
+68The bhikkhus who were distributors of robe-cloth thought: “What share of the robe-cloth should we give to the novices?”
 
 “I allow you to give half a share to the novices.”
 
@@ -620,7 +620,7 @@ And this is how he should be appointed. First a monk should be asked, and then a
 “I allow you to give an extra share to anyone who gives something in return.”
 
 
-71The distributors of robe-cloth thought: “How should we give out the shares of robe-cloth? According to the order in which the monks have arrived or according to seniority?”
+71The distributors of robe-cloth thought: “How should we give out the shares of robe-cloth? According to the order in which the bhikkhus have arrived or according to seniority?”
 
 “You should satisfy those in need and then give out the remainder by drawing lots.”
 
@@ -634,12 +634,12 @@ And this is how he should be appointed. First a monk should be asked, and then a
 > ```
 
 
-72At that time the monks dyed the robes even with dung and beige clay. The robes were discolored.
+72At that time the bhikkhus dyed the robes even with dung and beige clay. The robes were discolored.
 
 “I allow you to use six kinds of dye: dye from roots, dye from wood, dye from bark, dye from leaves, dye from flowers, and dye from fruit.”
 
 
-73The monks dyed the robes in cold water. The robes were smelly.
+73The bhikkhus dyed the robes in cold water. The robes were smelly.
 
 “I allow a dye-pot to boil the dye.”
 
@@ -647,23 +647,23 @@ The dye boiled over.
 
 “I allow you to attach a collar.”
 
-74The monks did not know whether the dye was ready or not.
+74The bhikkhus did not know whether the dye was ready or not.
 
 “You should put a drop in water or on the back of your nail.”
 
-75To empty the pot, the monks tilted it. The pot broke.
+75To empty the pot, the bhikkhus tilted it. The pot broke.
 
 “I allow a dye-ladle, with or without a handle.”
 
-76The monks did not have a vessel for the dye.
+76The bhikkhus did not have a vessel for the dye.
 
 “I allow a basin for dye, a water pot for dye.”
 
-77The monks were kneading the robes in basins and bowls. The robes tore.
+77The bhikkhus were kneading the robes in basins and bowls. The robes tore.
 
 “I allow a dyeing trough.”
 
-78The monks spread the robes on the ground. The robes became dirty.
+78The bhikkhus spread the robes on the ground. The robes became dirty.
 
 “I allow a straw mat.”
 
@@ -697,7 +697,7 @@ The dye boiled over.
 “You should beat them with your hands.”
 
 
-85At that time the monks wore robes consisting of a single piece of cloth, the color of ivory. People complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
+85At that time the bhikkhus wore robes consisting of a single piece of cloth, the color of ivory. People complained and criticized them: “They are just like householders who indulge in worldly pleasures!” They told the Buddha.
 
 “You should not wear robes consisting of a single piece of cloth. If you do, you commit an offense of wrong conduct.”
 
@@ -717,15 +717,15 @@ The dye boiled over.
 
 “Yes, Sir.”
 
-“Are you able to make this kind of robe for the monks?”
+“Are you able to make this kind of robe for the bhikkhus?”
 
 “I am.”
 
-After staying in the southern hills for as long as he liked, the Buddha returned to Rājagaha. Ānanda then made robes for a number of monks. He went to the Buddha and said:
+After staying in the southern hills for as long as he liked, the Buddha returned to Rājagaha. Ānanda then made robes for a number of bhikkhus. He went to the Buddha and said:
 
 “Venerable Sir, please have a look at the robes I’ve made.”
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “Ānanda is clever. He understands the detailed meaning of what I’ve spoken in brief. He can make long strips, short strips, large panels, medium-sized panels, middle sections, intermediate sections, a neckpiece, a calf-piece, and outer sections. In this way the robe will be made of pieces, making it worthless, appropriate for monastics, and undesirable for one’s enemies.
 
@@ -741,14 +741,14 @@ Your outer robe should be made of pieces and so should your upper robe and saron
 > ```
 
 
-87After staying at Rājagaha for as long as he liked, the Buddha set out wandering toward Vesālī. On the road between Rājagaha and Vesālī the Buddha saw a number of monks walking along, loaded up with robes on their heads, shoulders, and hips. He thought: “These foolish men have turned to an abundance in robes too readily. Let me set a limit on robes for the monks.”
+87After staying at Rājagaha for as long as he liked, the Buddha set out wandering toward Vesālī. On the road between Rājagaha and Vesālī the Buddha saw a number of bhikkhus walking along, loaded up with robes on their heads, shoulders, and hips. He thought: “These foolish men have turned to an abundance in robes too readily. Let me set a limit on robes for the bhikkhus.”
 
 Wandering on, the Buddha eventually arrived at Vesālī, where he stayed at the Gotamaka Shrine. At that time it was midwinter, when the days are cold and the snow is falling. The Buddha sat outside at night without being cold, wearing only one robe. Becoming cold at the end of the first part of the night, he put on a second robe. Becoming cold once again at the end of the middle part of the night, he put on a third robe. At the end of the last part of the night, when the sky was flaring up at dawn, he became cold once more. Putting on a fourth robe, he was fine.
 
-He thought: “Even those on this spiritual path who come from good families, who are sensitive to the cold and fear the cold, are able to get by with three robes. Let me set a limit on robes for the monks. Let me allow them three robes.”
+He thought: “Even those on this spiritual path who come from good families, who are sensitive to the cold and fear the cold, are able to get by with three robes. Let me set a limit on robes for the bhikkhus. Let me allow them three robes.”
 
 
-88Soon afterwards the Buddha gave a teaching and addressed the monks. He told them what had happened and what he had thought, adding:
+88Soon afterwards the Buddha gave a teaching and addressed the bhikkhus. He told them what had happened and what he had thought, adding:
 
 
 “I allow you three robes: a double-layered outer robe, a single-layered upper robe, and a single-layered sarong.”
@@ -763,7 +763,7 @@ He thought: “Even those on this spiritual path who come from good families, wh
 > ```
 
 
-89When they heard that the Buddha had allowed three robes, the monks from the group of six went to the village in one set of three, stayed in the monastery in another set, and went bathing in yet another set. The monks of few desires complained and criticized them: “How can the monks from the group of six keep extra robes?” They told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+89When they heard that the Buddha had allowed three robes, the bhikkhus from the group of six went to the village in one set of three, stayed in the monastery in another set, and went bathing in yet another set. The bhikkhus of few desires complained and criticized them: “How can the bhikkhus from the group of six keep extra robes?” They told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t keep extra robes. If you do, you should be dealt with according to the rule.”
 
@@ -775,12 +775,12 @@ He thought: “Even those on this spiritual path who come from good families, wh
 
 “Nine or ten days.”
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “You should keep an extra robe for ten days at the most.”
 
 
-91Soon the monks were given extra robes. Not knowing what to do with them, they told the Buddha.
+91Soon the bhikkhus were given extra robes. Not knowing what to do with them, they told the Buddha.
 
 “I allow you to assign an extra robe to another.”
 
@@ -798,7 +798,7 @@ Just then the Buddha was walking about the dwellings, and he saw that monk patch
 
 “Well done. It’s good that you are patching your robe.”
 
-93Soon afterwards the Buddha gave a teaching and addressed the monks:
+93Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “When the cloth is new or nearly new, I allow a double-layered outer robe, a single-layered upper robe, and a single-layered sarong. When the cloth is worn, I allow an outer robe of four layers, a double-layered upper robe, and a double-layered sarong. With rags, you may have as much as you like. With scraps of cloth from a shop, you should search for them. And I allow patches, mending, hems, strips of cloth for marking, and strengthening.”
 
@@ -814,15 +814,15 @@ Just then the Buddha was walking about the dwellings, and he saw that monk patch
 
 94After staying at Benares for as long as he liked, the Buddha set out wandering toward Sāvatthī. When he eventually arrived, he stayed in the Jeta Grove, Anāthapiṇḍika’s Monastery.
 
-Soon afterwards Visākhā Migāramātā went to the Buddha, bowed, and sat down. When the Buddha had instructed, inspired, and gladdened her with a teaching, Visākhā said: “Please accept tomorrow’s meal from me together with the Saṅgha of monks.”
+Soon afterwards Visākhā Migāramātā went to the Buddha, bowed, and sat down. When the Buddha had instructed, inspired, and gladdened her with a teaching, Visākhā said: “Please accept tomorrow’s meal from me together with the Saṅgha of bhikkhus.”
 
 
 The Buddha consented by remaining silent. Knowing that the Buddha had consented, Visākhā got up from her seat, bowed down, circumambulated him with her right side toward him, and left.
 
 
-95The following morning it was pouring down from a great storm extending over the four continents. The Buddha said to the monks:
+95The following morning it was pouring down from a great storm extending over the four continents. The Buddha said to the bhikkhus:
 
-“It rains on the four continents just as it rains here in the Jeta Grove. Bathe in the rain, monks. This is the last great storm of this kind.”
+“It rains on the four continents just as it rains here in the Jeta Grove. Bathe in the rain, bhikkhus. This is the last great storm of this kind.”
 
 Saying: “Yes, Sir,” they took off their robes and bathed in the rain.
 
@@ -831,18 +831,18 @@ Saying: “Yes, Sir,” they took off their robes and bathed in the rain.
 
 “Go to the monastery and tell the Buddha that the meal is ready.”
 
-Saying: “Yes, Madam,” she went to the monastery and saw the monks bathing naked in the rain. She thought: “There are no monks in the monastery, just Ājīvaka ascetics bathing in the rain.” She returned and told Visākhā what had happened. Being wise and discerning, Visākhā thought: “No doubt the venerables are bathing naked in the rain. It’s only because of her ignorance that she thinks as she does.” So she sent the slave back to the monastery with the same instructions.
+Saying: “Yes, Madam,” she went to the monastery and saw the bhikkhus bathing naked in the rain. She thought: “There are no bhikkhus in the monastery, just Ājīvaka ascetics bathing in the rain.” She returned and told Visākhā what had happened. Being wise and discerning, Visākhā thought: “No doubt the venerables are bathing naked in the rain. It’s only because of her ignorance that she thinks as she does.” So she sent the slave back to the monastery with the same instructions.
 
-97When the monks had cooled their bodies and felt invigorated, they took their robes and entered their dwellings. When the slave arrived, she didn’t see any monks. She thought: “There are no monks in the monastery. It’s empty.” She returned and told Visākhā what had happened. Once again Visākhā realized what was going on, and she told the slave to go to the monastery one more time.
+97When the bhikkhus had cooled their bodies and felt invigorated, they took their robes and entered their dwellings. When the slave arrived, she didn’t see any bhikkhus. She thought: “There are no bhikkhus in the monastery. It’s empty.” She returned and told Visākhā what had happened. Once again Visākhā realized what was going on, and she told the slave to go to the monastery one more time.
 
 
-98When the message had been delivered, the Buddha said to the monks: “Get your bowls and robes. It’s time for the meal.”
+98When the message had been delivered, the Buddha said to the bhikkhus: “Get your bowls and robes. It’s time for the meal.”
 
 “Yes, Sir.”
 
-The Buddha robed up and took his bowl and robe. Then, just as a strong man might bend or stretch his arm, the Buddha disappeared from the Jeta Grove and appeared at Visākhā’s gateway. He sat down on the prepared seat together with the Saṅgha of monks.
+The Buddha robed up and took his bowl and robe. Then, just as a strong man might bend or stretch his arm, the Buddha disappeared from the Jeta Grove and appeared at Visākhā’s gateway. He sat down on the prepared seat together with the Saṅgha of bhikkhus.
 
-Visākhā thought: “The power and might of the Buddha are truly amazing. The water is flowing knee-deep, even waist-deep, yet not a single monk has wet feet or wet robes.” Delighted and joyful, she personally served various kinds of fine food to the Saṅgha of monks headed by the Buddha. When the Buddha had finished his meal, she sat down to one side and said:
+Visākhā thought: “The power and might of the Buddha are truly amazing. The water is flowing knee-deep, even waist-deep, yet not a single monk has wet feet or wet robes.” Delighted and joyful, she personally served various kinds of fine food to the Saṅgha of bhikkhus headed by the Buddha. When the Buddha had finished his meal, she sat down to one side and said:
 
 
 “Venerable Sir, I wish to ask for eight favors.”
@@ -863,15 +863,15 @@ Visākhā thought: “The power and might of the Buddha are truly amazing. The w
 99Visākhā then told the Buddha what had happened to her slave, adding: “Nakedness is gross, disgusting, and repulsive. This is why I wish to give rainy-season robes to the Saṅgha for as long as I live.
 
 
-100Also, not knowing the streets or where to go, newly arrived monks will get exhausted while walking for alms. But if they eat a meal from me, they will get to know the streets and where to go for alms, and they will avoid getting exhausted. This is why I wish to give meals to the newly arrived monks for as long as I live.
+100Also, not knowing the streets or where to go, newly arrived bhikkhus will get exhausted while walking for alms. But if they eat a meal from me, they will get to know the streets and where to go for alms, and they will avoid getting exhausted. This is why I wish to give meals to the newly arrived bhikkhus for as long as I live.
 
-101Also, in trying to get a meal, departing monks may bother the Teacher, or they may arrive late at their destination. Or, if they fail to get a meal, they’ll be weak while traveling. But if they eat a meal from me, they won’t bother the Teacher, they’ll arrive at their destination at an appropriate time, and they won’t be weak while traveling. This is why I wish to give meals to the departing monks for as long as I live.
+101Also, in trying to get a meal, departing bhikkhus may bother the Teacher, or they may arrive late at their destination. Or, if they fail to get a meal, they’ll be weak while traveling. But if they eat a meal from me, they won’t bother the Teacher, they’ll arrive at their destination at an appropriate time, and they won’t be weak while traveling. This is why I wish to give meals to the departing bhikkhus for as long as I live.
 
-102Also, if sick monks don’t get suitable food, their illness might get worse, or they might die. But if they eat a meal from me, their illness won’t get worse, and they won’t die. This is why I wish to give meals to the sick monks for as long as I live.
+102Also, if sick bhikkhus don’t get suitable food, their illness might get worse, or they might die. But if they eat a meal from me, their illness won’t get worse, and they won’t die. This is why I wish to give meals to the sick bhikkhus for as long as I live.
 
-103Also, if the monks who nurse the sick have to get their own meals, they won’t be able to bring back meals for the sick until after midday, and then the sick won’t be able to eat. But if they eat a meal from me, they’ll be able to bring back meals for the sick in good time, and the sick will be able to eat. This is why I wish to give meals to those monks who nurse the sick for as long as I live.
+103Also, if the bhikkhus who nurse the sick have to get their own meals, they won’t be able to bring back meals for the sick until after midday, and then the sick won’t be able to eat. But if they eat a meal from me, they’ll be able to bring back meals for the sick in good time, and the sick will be able to eat. This is why I wish to give meals to those bhikkhus who nurse the sick for as long as I live.
 
-104Also, if the sick monks don’t get suitable medicines, their illness might get worse or they might die. But if they get medicine from me, their illness won’t get worse, and they won’t die. This is why I wish to give medicine to the Saṅgha for as long as I live.
+104Also, if the sick bhikkhus don’t get suitable medicines, their illness might get worse or they might die. But if they get medicine from me, their illness won’t get worse, and they won’t die. This is why I wish to give medicine to the Saṅgha for as long as I live.
 
 105Also, while staying at Andhakavinda, the Buddha allowed rice porridge, seeing ten benefits in it. This is why I wish to give a regular supply of rice porridge to the Saṅgha for as long as I live.
 
@@ -880,9 +880,9 @@ Visākhā thought: “The power and might of the Buddha are truly amazing. The w
 
 107“But, Visākhā, what benefit do you see that you ask me for these eight favors?”
 
-“Well, it will happen that monks who have completed the rainy-season residence in the various regions will come to Sāvatthī to visit the Buddha. If a monk has died, they’ll ask you about his destination, and you’ll tell them whether he’s reached the fruit of stream-entry, the fruit of once-returning, the fruit of non-returning, or perfection. I’ll then ask those monks whether that dead monk had previously visited Sāvatthī.
+“Well, it will happen that bhikkhus who have completed the rainy-season residence in the various regions will come to Sāvatthī to visit the Buddha. If a monk has died, they’ll ask you about his destination, and you’ll tell them whether he’s reached the fruit of stream-entry, the fruit of once-returning, the fruit of non-returning, or perfection. I’ll then ask those bhikkhus whether that dead monk had previously visited Sāvatthī.
 
-If they say he had, I may conclude, ‘No doubt that Venerable will have enjoyed a rainy-season robe supplied by me. Or he will have enjoyed a meal for newly arrived monks, a meal for departing monks, a meal for sick monks, a meal for those nursing the sick, medicines, or a regular supply of rice porridge—all given by me.’ When I recall that, I’ll be glad. The gladness will give rise to joy, and the mental joy will make me tranquil. When I’m tranquil, I’ll feel bliss. And when I’m blissful, my mind will be stilled. In this way I’ll develop the spiritual faculties, the spiritual powers, and the factors of awakening. It’s because of this benefit that I ask for these eight favors.”
+If they say he had, I may conclude, ‘No doubt that Venerable will have enjoyed a rainy-season robe supplied by me. Or he will have enjoyed a meal for newly arrived bhikkhus, a meal for departing bhikkhus, a meal for sick bhikkhus, a meal for those nursing the sick, medicines, or a regular supply of rice porridge—all given by me.’ When I recall that, I’ll be glad. The gladness will give rise to joy, and the mental joy will make me tranquil. When I’m tranquil, I’ll feel bliss. And when I’m blissful, my mind will be stilled. In this way I’ll develop the spiritual faculties, the spiritual powers, and the factors of awakening. It’s because of this benefit that I ask for these eight favors.”
 
 “Well said, Visākhā. It’s good that you ask me for these eight favors for the sake of this benefit. I grant you these eight favors.” The Buddha then expressed his appreciation to Visākhā with these verses:
 
@@ -900,7 +900,7 @@ She rejoices in heaven for a long time.”
 
 110When the Buddha had expressed his appreciation, he got up from his seat and left.
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 
 “I allow a rainy-season robe, meals for newly arrived monastics, meals for departing monastics, meals for the sick, meals for those nursing the sick, medicine for the sick, a regular supply of rice porridge, and bathing robes for the Saṅgha of nuns.”
@@ -917,7 +917,7 @@ Soon afterwards the Buddha gave a teaching and addressed the monks:
 > ```
 
 
-112At one time the monks ate fine food, and then went to sleep absentminded and heedless. They emitted semen while dreaming, soiling the furniture.
+112At one time the bhikkhus ate fine food, and then went to sleep absentminded and heedless. They emitted semen while dreaming, soiling the furniture.
 
 Soon afterwards the Buddha was walking about the dwellings with Venerable Ānanda as his attendant. Noticing that soiled furniture, he asked Ānanda what had happened. Ānanda told him, and the Buddha said:
 
@@ -925,7 +925,7 @@ Soon afterwards the Buddha was walking about the dwellings with Venerable Ānand
 “That’s how it is, Ānanda. For those who go to sleep absentminded and heedless, semen is emitted while dreaming. But for those who fall asleep mindful and heedful, this doesn’t happen, nor does it for ordinary people who are free from sensual desire. And, Ānanda, it’s impossible for a perfected one to emit semen.”
 
 
-113Soon afterwards the Buddha gave a teaching and addressed the monks, telling them what had happened. He then said:
+113Soon afterwards the Buddha gave a teaching and addressed the bhikkhus, telling them what had happened. He then said:
 
 
 114“There are these five disadvantages in going to sleep absentminded and heedless: you don’t sleep well; you wake up feeling miserable; you have nightmares; the gods don’t guard you; and you emit semen.
@@ -933,19 +933,19 @@ Soon afterwards the Buddha was walking about the dwellings with Venerable Ānand
 
 115And there are these five benefits in going to sleep mindful and heedful: you sleep well; you wake up feeling good; you don’t have nightmares; the gods guard you; and you don’t emit semen.
 
-116And, monks, I allow a sitting mat to protect the body, the robes, and the furniture.”
+116And, bhikkhus, I allow a sitting mat to protect the body, the robes, and the furniture.”
 
 117But the sitting mat was too small. It did not protect the entire piece of furniture.
 
 “I allow you to make a sheet as large as you like.”
 
 
-118On one occasion Venerable Ānanda’s preceptor, Venerable Belaṭṭhasīsa, had carbuncles, with pus causing his robes to stick to his body. To detach them, the monks kept on moistening his robes with water. As the Buddha was walking about the dwellings, he noticed the monks doing this. He went up to them and said:
+118On one occasion Venerable Ānanda’s preceptor, Venerable Belaṭṭhasīsa, had carbuncles, with pus causing his robes to stick to his body. To detach them, the bhikkhus kept on moistening his robes with water. As the Buddha was walking about the dwellings, he noticed the bhikkhus doing this. He went up to them and said:
 
 
 “What illness does this monk have?”
 
-“He has carbuncles, Sir. That’s why we’re doing this.” Soon afterwards the Buddha gave a teaching and addressed the monks:
+“He has carbuncles, Sir. That’s why we’re doing this.” Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “For anyone who has an itch, a boil, a running sore, or a carbuncle, I allow an itch-covering cloth.”
 
@@ -954,7 +954,7 @@ Soon afterwards the Buddha was walking about the dwellings with Venerable Ānand
 “Venerable Sir, please accept this washcloth for my long-lasting benefit and happiness.”
 
 
-The Buddha accepted it and then instructed, inspired, and gladdened her with a teaching. She got up from her seat, bowed down, circumambulated him with her right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the monks:
+The Buddha accepted it and then instructed, inspired, and gladdened her with a teaching. She got up from her seat, bowed down, circumambulated him with her right side toward him, and left. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
 “I allow washcloths.”
 
@@ -963,7 +963,7 @@ The Buddha accepted it and then instructed, inspired, and gladdened her with a t
 
 “I allow you to take things on trust from someone who has five qualities: they’re a friend, they’re a close companion, they’ve spoken about it, they’re alive, and you know they’ll be pleased if you take it.”
 
-121At that time the monks had enough robes, but they needed water filters and bags.
+121At that time the bhikkhus had enough robes, but they needed water filters and bags.
 
 “I allow cloth for requisites.”
 
@@ -977,12 +977,12 @@ The Buddha accepted it and then instructed, inspired, and gladdened her with a t
 > ```
 
 
-122Soon afterwards the monks thought: “These things that have been allowed by the Buddha—the three robes, the rainy-season robe, the sitting mat, the sheet, the itch-covering cloth, the washcloth, and the cloth for requisites—are they all to be determined or to be assigned to another?” They told the Buddha.
+122Soon afterwards the bhikkhus thought: “These things that have been allowed by the Buddha—the three robes, the rainy-season robe, the sitting mat, the sheet, the itch-covering cloth, the washcloth, and the cloth for requisites—are they all to be determined or to be assigned to another?” They told the Buddha.
 
 “You should determine the three robes, not assign them to another; you should determine the rainy-season robe for the four months of the rainy season, and apart from that assign it to another; you should determine the sitting mat, not assign it to another; you should determine a sheet, not assign it to another; you should determine an itch-covering cloth for as long as you’re sick, and apart from that assign it to another; you should determine a washcloth, not assign it to another; you should determine a cloth for requisites, not assign it to another.”
 
 
-123The monks thought: “What’s the size of the smallest robe-cloth that can be assigned to another?”
+123The bhikkhus thought: “What’s the size of the smallest robe-cloth that can be assigned to another?”
 
 “The smallest robe-cloth you should assign to another is one that’s eight standard fingerbreadths long and four wide.”
 
@@ -1019,18 +1019,18 @@ The cloth frayed.
 
 129On one occasion a monk who had been given much robe-cloth wanted to give it to his mother and father.
 
-“If you’re giving to your mother and father, what can I say? I allow you to give to your mother and father. But, monks, a gift of faith should not be ruined. If you do, you commit an offense of wrong conduct.”
+“If you’re giving to your mother and father, what can I say? I allow you to give to your mother and father. But, bhikkhus, a gift of faith should not be ruined. If you do, you commit an offense of wrong conduct.”
 
 
 130On one occasion a monk left one of his robes in the Blind Men’s Grove and then entered the village for alms in just his sarong and upper robe. Thieves stole that robe, and as a result he became poorly dressed.
 
-When other monks asked him why, he told them what had happened.
+When other bhikkhus asked him why, he told them what had happened.
 
 
 “You should not enter a village in just your sarong and upper robe. If you do, you commit an offense of wrong conduct.”
 
 
-131Soon afterwards Venerable Ānanda, being absentminded, entered a village in just his sarong and upper robe. The monks said to him:
+131Soon afterwards Venerable Ānanda, being absentminded, entered a village in just his sarong and upper robe. The bhikkhus said to him:
 
 “Hasn’t the Buddha laid down a rule against entering the village in just a sarong and an upper robe?”
 
@@ -1057,19 +1057,19 @@ There are five reasons for leaving behind the rainy-season robe: you’re sick; 
 
 It may be that a monk spends the rainy season by himself, yet people give him robe-cloth, intending it for the Saṅgha. That robe-cloth is his until the end of the robe season.”
 
-136At one time a certain monk was living by himself outside the rainy season. People gave him robe-cloth, intending it for the Saṅgha. He thought: “The Buddha has laid down that a saṅgha consists of a group of at least four, but I’m here by myself. Now these people have given robe-cloth, intending it for the Saṅgha. Let me take it to Sāvatthī.” He then took that robe-cloth to Sāvatthī and told the monks, who in turn told the Buddha. He said: “You should share it out to the present Saṅgha.
+136At one time a certain monk was living by himself outside the rainy season. People gave him robe-cloth, intending it for the Saṅgha. He thought: “The Buddha has laid down that a saṅgha consists of a group of at least four, but I’m here by myself. Now these people have given robe-cloth, intending it for the Saṅgha. Let me take it to Sāvatthī.” He then took that robe-cloth to Sāvatthī and told the bhikkhus, who in turn told the Buddha. He said: “You should share it out to the present Saṅgha.
 
 It may be that a monk is living by himself outside the rainy season, yet people give him robe-cloth, intending it for the Saṅgha. I allow that monk to determine that robe-cloth as his. But if another monk arrives before he has determined that robe-cloth, then he should be given an equal share. If yet another monk arrives before they’ve shared out that robe-cloth by drawing lots, he too should be given an equal share. If still another monk arrives, but after they’ve shared out that robe-cloth by drawing lots, they don’t need to give him a share if they’re unwilling.”
 
-137On one occasion, after completing the rainy-season residence at Sāvatthī, two senior monks who were brothers, Venerable Isidāsa and Venerable Isibhaṭa, went to a certain village monastery. Because it was long since they had been there, people gave meals together with robe-cloth.
+137On one occasion, after completing the rainy-season residence at Sāvatthī, two senior bhikkhus who were brothers, Venerable Isidāsa and Venerable Isibhaṭa, went to a certain village monastery. Because it was long since they had been there, people gave meals together with robe-cloth.
 
-The resident monks asked them: “Venerables, this robe-cloth belonging to the Saṅgha was given because of you. Will you accept a share?”
+The resident bhikkhus asked them: “Venerables, this robe-cloth belonging to the Saṅgha was given because of you. Will you accept a share?”
 
 They replied: “As we understand the teaching of the Buddha, this robe-cloth is just for you until the end of the robe season.”
 
-138At that time there were three monks who were spending the rains residence at Rājagaha. People gave them robe-cloth, intending it for the Saṅgha. The monks considered: “The Buddha has laid down that a saṅgha consists of a group of at least four, but we’re just three. Now these people have given robe-cloth, intending it for the Saṅgha. What should we do?”
+138At that time there were three bhikkhus who were spending the rains residence at Rājagaha. People gave them robe-cloth, intending it for the Saṅgha. The bhikkhus considered: “The Buddha has laid down that a saṅgha consists of a group of at least four, but we’re just three. Now these people have given robe-cloth, intending it for the Saṅgha. What should we do?”
 
-On that occasion there were a number of senior monks—Venerable Nilavāsī, Venerable Sāṇavāsī, Venerable Gotaka, Venerable Bhagu, and Venerable Phaḷikasantāna—staying at Pāṭaliputta in the Kukkuṭa Monastery. The monks from Rājagaha went to Pāṭaliputta to ask them. They replied: “As we understand the teaching of the Buddha, that robe-cloth is just for you until the end of the robe season.”
+On that occasion there were a number of senior bhikkhus—Venerable Nilavāsī, Venerable Sāṇavāsī, Venerable Gotaka, Venerable Bhagu, and Venerable Phaḷikasantāna—staying at Pāṭaliputta in the Kukkuṭa Monastery. The bhikkhus from Rājagaha went to Pāṭaliputta to ask them. They replied: “As we understand the teaching of the Buddha, that robe-cloth is just for you until the end of the robe season.”
 
 #### 22. Upananda the Sakyan ^22
 
@@ -1081,21 +1081,21 @@ On that occasion there were a number of senior monks—Venerable Nilavāsī, Ven
 > ```
 
 
-139At one time, after completing the rainy-season residence at Sāvatthī, Venerable Upananda the Sakyan went to a certain village monastery. Just then the monks there had gathered to share out the robe-cloth. They said to Upananda: “We’re sharing out the Saṅgha’s robe-cloth. Would you like a share?”
+139At one time, after completing the rainy-season residence at Sāvatthī, Venerable Upananda the Sakyan went to a certain village monastery. Just then the bhikkhus there had gathered to share out the robe-cloth. They said to Upananda: “We’re sharing out the Saṅgha’s robe-cloth. Would you like a share?”
 
 “Yes, I would.”
 
-He then took that share of robe-cloth and went to another monastery. There, too, the monks had gathered to share out the robe-cloth. They said to Upananda: “We’re sharing out the Saṅgha’s robe-cloth. Would you like a share?”
+He then took that share of robe-cloth and went to another monastery. There, too, the bhikkhus had gathered to share out the robe-cloth. They said to Upananda: “We’re sharing out the Saṅgha’s robe-cloth. Would you like a share?”
 
 “Yes, I would.”
 
-He then took that share, too, and went to yet another monastery. There, too, the monks had gathered to share out the robe-cloth. They said to Upananda: “We’re sharing out the Saṅgha’s robe-cloth. Would you like a share?”
+He then took that share, too, and went to yet another monastery. There, too, the bhikkhus had gathered to share out the robe-cloth. They said to Upananda: “We’re sharing out the Saṅgha’s robe-cloth. Would you like a share?”
 
 “Yes, I would.”
 
 He then took that share too, made a large bundle of robe-cloth, and returned to Sāvatthī.
 
-140The monks said to him: “You have much merit, Upananda, seeing as you’ve been given so much robe-cloth.”
+140The bhikkhus said to him: “You have much merit, Upananda, seeing as you’ve been given so much robe-cloth.”
 
 
 “This has nothing to do with merit.” And he told them how he had obtained so much robe-cloth.
@@ -1106,20 +1106,20 @@ He then took that share too, made a large bundle of robe-cloth, and returned to 
 “Yes.”
 
 
-141The monks of few desires complained and criticized Upananda: “How could Venerable Upananda spend the rains residence in one place and then accept a share of the robe-cloth from somewhere else?” They told the Buddha. …
+141The bhikkhus of few desires complained and criticized Upananda: “How could Venerable Upananda spend the rains residence in one place and then accept a share of the robe-cloth from somewhere else?” They told the Buddha. …
 
 “Is it true, Upananda, that you did this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked him … “Foolish man, how could you spend the rains residence in one place and then accept a share of the robe-cloth from somewhere else? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him … “Foolish man, how could you spend the rains residence in one place and then accept a share of the robe-cloth from somewhere else? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 
 “You shouldn’t spend the rainy-season residence in one place and then accept a share of the robe-cloth from somewhere else. If you do, you commit an offense of wrong conduct.”
 
 
-142At one time Venerable Upananda spent the rains residence in two separate monasteries, thinking: “In this way I’ll get much robe-cloth.” The monks thought: “What share of the robe-cloth should be given to Venerable Upananda?” They told the Buddha. “Give the foolish man one person’s share.
+142At one time Venerable Upananda spent the rains residence in two separate monasteries, thinking: “In this way I’ll get much robe-cloth.” The bhikkhus thought: “What share of the robe-cloth should be given to Venerable Upananda?” They told the Buddha. “Give the foolish man one person’s share.
 
 It may be that a monk spends the rains residence in two monasteries with the intention of getting much robe-cloth. If he spends half the time in each monastery, he should be given half a share of the robe-cloth in each. Otherwise he should be given his share of the robe-cloth in the monastery where he spends the most time.”
 
@@ -1144,7 +1144,7 @@ It may be that a monk spends the rains residence in two monasteries with the int
 
 “No.”
 
-“Why don’t the monks nurse you?”
+“Why don’t the bhikkhus nurse you?”
 
 “Because I don’t do anything for them.”
 
@@ -1154,7 +1154,7 @@ The Buddha said to Ānanda: “Go and get some water, Ānanda. Let’s give him 
 Saying: “Yes, Sir,” he did just that. And so the Buddha poured the water, while Ānanda cleaned him up. Then, the Buddha lifting him by the head and Ānanda by the feet, they lay him on a bed.
 
 
-144Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+144Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
 
 “Is there a sick monk in that dwelling?”
@@ -1176,7 +1176,7 @@ Saying: “Yes, Sir,” he did just that. And so the Buddha poured the water, wh
 “Because he doesn’t do anything for us.”
 
 
-145“Monks, you have no mother or father to nurse you. If you don’t nurse one another, who will? Whoever would nurse me should nurse one who is sick.
+145“bhikkhus, you have no mother or father to nurse you. If you don’t nurse one another, who will? Whoever would nurse me should nurse one who is sick.
 
 If you have a preceptor, he should nurse you for life; he shouldn’t go anywhere until you’ve recovered. If you have a teacher, he should nurse you for life; he shouldn’t go anywhere until you’ve recovered. If you have a student, he should nurse you for life; he shouldn’t go anywhere until you’ve recovered. If you have a pupil, he should nurse you for life; he shouldn’t go anywhere until you’ve recovered. If you have a co-student, he should nurse you for life; he shouldn’t go anywhere until you’ve recovered. If you have a co-pupil, he should nurse you for life; he shouldn’t go anywhere until you’ve recovered. If you have none of these, the Saṅgha should nurse you. If you don’t nurse one who is sick, you commit an offense of wrong conduct.
 
@@ -1198,7 +1198,7 @@ If you have a preceptor, he should nurse you for life; he shouldn’t go anywher
 > ```
 
 
-150On one occasion two monks were traveling through the Kosalan country, when they arrived at a monastery with a sick monk. They thought: “The Buddha has praised nursing the sick, so let’s nurse this monk.” But while they were nursing him, he died. They then took his bowl and robes and went to Sāvatthī, where they told the Buddha what had happened.
+150On one occasion two bhikkhus were traveling through the Kosalan country, when they arrived at a monastery with a sick monk. They thought: “The Buddha has praised nursing the sick, so let’s nurse this monk.” But while they were nursing him, he died. They then took his bowl and robes and went to Sāvatthī, where they told the Buddha what had happened.
 
 
 “When a monk dies, the Saṅgha becomes the owner of his bowl and robes.
@@ -1247,9 +1247,9 @@ And they should be given like this. The monk nurse should approach the Saṅgha 
 > ```
 
 
-160On one occasion a naked monk went to the Buddha and said: “In many ways, Sir, you praise fewness of wishes, contentment, self-effacement, ascetic practices, being inspiring, reduction in things, and being energetic. Being naked leads to all those things. It would be good if you allowed nakedness for the monks.”
+160On one occasion a naked monk went to the Buddha and said: “In many ways, Sir, you praise fewness of wishes, contentment, self-effacement, ascetic practices, being inspiring, reduction in things, and being energetic. Being naked leads to all those things. It would be good if you allowed nakedness for the bhikkhus.”
 
-The Buddha rebuked him: “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you undertake the practice of nakedness, as do the monastics of other religions? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him: “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you undertake the practice of nakedness, as do the monastics of other religions? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t undertake the practice of nakedness, as do the monastics of other religions. If you do, you commit a serious offense.”
 
@@ -1263,15 +1263,15 @@ The Buddha rebuked him: “Foolish man, it’s not suitable, it’s not proper, 
 > ```
 
 
-161On one occasion a monk dressed in a sarong made of grass … a sarong made of bark … a sarong made of bits of wood … a sarong made of human hair … a sarong made of horse-hair … a sarong made of owls’ wings … a sarong made of antelope hide, went to the Buddha, and said: “In many ways, Sir, you praise fewness of wishes, contentment, self-effacement, ascetic practices, being inspiring, reduction in things, and being energetic. A robe made of antelope hide leads to all those things. It would be good if you allowed robes of antelope hide for the monks.”
+161On one occasion a monk dressed in a sarong made of grass … a sarong made of bark … a sarong made of bits of wood … a sarong made of human hair … a sarong made of horse-hair … a sarong made of owls’ wings … a sarong made of antelope hide, went to the Buddha, and said: “In many ways, Sir, you praise fewness of wishes, contentment, self-effacement, ascetic practices, being inspiring, reduction in things, and being energetic. A robe made of antelope hide leads to all those things. It would be good if you allowed robes of antelope hide for the bhikkhus.”
 
-The Buddha rebuked him: “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you wear a robe made of antelope hide, that sign of monastics of other religions? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him: “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you wear a robe made of antelope hide, that sign of monastics of other religions? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t wear a robe made of antelope hide, that sign of monastics of other religions. If you do, you commit a serious offense.”
 
-162On one occasion a monk dressed in a sarong made of stalks of crown flower … in a sarong made of jute, went to the Buddha, and said: “In many ways, Sir, you praise fewness of wishes, contentment, self-effacement, ascetic practices, being inspiring, reduction in things, and being energetic. A jute robe leads to all those things. It would be good if you allowed jute robes for the monks.”
+162On one occasion a monk dressed in a sarong made of stalks of crown flower … in a sarong made of jute, went to the Buddha, and said: “In many ways, Sir, you praise fewness of wishes, contentment, self-effacement, ascetic practices, being inspiring, reduction in things, and being energetic. A jute robe leads to all those things. It would be good if you allowed jute robes for the bhikkhus.”
 
-The Buddha rebuked him: “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you dress in a sarong made of jute? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him: “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you dress in a sarong made of jute? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 “You shouldn’t dress in a sarong made of jute. If you do, you commit an offense of wrong conduct.”
 
@@ -1285,7 +1285,7 @@ The Buddha rebuked him: “Foolish man, it’s not suitable, it’s not proper, 
 > ```
 
 
-163At that time the monks from the group of six wore entirely blue robes, entirely yellow robes, entirely red robes, entirely magenta robes, entirely black robes, entirely orange robes, and entirely beige robes; and robes with borders made from a single piece of cloth, robes with long borders, robes with floral borders, robes with borders decorated with snakes’ hoods, close-fitting jackets, robes made of Lodh tree bark, and turbans. People complained and criticized them: “How can the Sakyan monastics wear turbans? They are just like householders who indulge in worldly pleasures!”
+163At that time the bhikkhus from the group of six wore entirely blue robes, entirely yellow robes, entirely red robes, entirely magenta robes, entirely black robes, entirely orange robes, and entirely beige robes; and robes with borders made from a single piece of cloth, robes with long borders, robes with floral borders, robes with borders decorated with snakes’ hoods, close-fitting jackets, robes made of Lodh tree bark, and turbans. People complained and criticized them: “How can the Sakyan monastics wear turbans? They are just like householders who indulge in worldly pleasures!”
 
 “You shouldn’t wear entirely blue robes, entirely yellow robes, entirely red robes, entirely magenta robes, entirely black robes, entirely orange robes, entirely beige robes, robes with borders made from a single piece of cloth, robes with long borders, robes with floral borders, robes with borders decorated with snakes’ hoods, close-fitting jackets, robes made of Lodh tree bark, or turbans. If you do, you commit an offense of wrong conduct.”
 
@@ -1299,7 +1299,7 @@ The Buddha rebuked him: “Foolish man, it’s not suitable, it’s not proper, 
 > ```
 
 
-164At that time, the monks who had completed the rainy-season residence left before the robe-cloth was offered. They disrobed, died, admitted to being novice monks, admitted to having renounced the training, admitted to having committed the worst kind of offense, admitted to being insane, admitted to being deranged, admitted to being overwhelmed by pain, admitted to having been ejected for not recognizing an offense, admitted to having been ejected for not making amends for an offense, admitted to having been ejected for not giving up a bad view, admitted to being _paṇḍakas_, admitted to be living in the community by theft, admitted to having previously left to join the monastics of another religion, admitted to being animals, admitted to being matricides, admitted to being patricides, admitted to being murderers of a perfected one, admitted to having raped a nun, admitted to having caused a schism in the Saṅgha, admitted to having caused the Buddha to bleed, or admitted to being a hermaphrodite before the robe-cloth was offered. They told the Buddha.
+164At that time, the bhikkhus who had completed the rainy-season residence left before the robe-cloth was offered. They disrobed, died, admitted to being novice bhikkhus, admitted to having renounced the training, admitted to having committed the worst kind of offense, admitted to being insane, admitted to being deranged, admitted to being overwhelmed by pain, admitted to having been ejected for not recognizing an offense, admitted to having been ejected for not making amends for an offense, admitted to having been ejected for not giving up a bad view, admitted to being _paṇḍakas_, admitted to be living in the community by theft, admitted to having previously left to join the monastics of another religion, admitted to being animals, admitted to being matricides, admitted to being patricides, admitted to being murderers of a perfected one, admitted to having raped a nun, admitted to having caused a schism in the Saṅgha, admitted to having caused the Buddha to bleed, or admitted to being a hermaphrodite before the robe-cloth was offered. They told the Buddha.
 
 165“It may be that a monk who’s completed the rains residence leaves before the robe-cloth is offered. If there’s anyone suitable to receive it, it should be given.
 
@@ -1327,15 +1327,15 @@ The Buddha rebuked him: “Foolish man, it’s not suitable, it’s not proper, 
 > ```
 
 
-173“It may be that the Saṅgha splits before robe-cloth is offered to those monks who have completed the rains residence. If people then give water to one faction and robe-cloth to the other, saying, ‘We give to the Saṅgha,’ it’s all for the Saṅgha.
+173“It may be that the Saṅgha splits before robe-cloth is offered to those bhikkhus who have completed the rains residence. If people then give water to one faction and robe-cloth to the other, saying, ‘We give to the Saṅgha,’ it’s all for the Saṅgha.
 
-174It may be that the Saṅgha splits before robe-cloth is offered to those monks who have completed the rains residence. If people then give water and robe-cloth to the same faction, saying, ‘We give to the Saṅgha,’ it’s all for the Saṅgha.
+174It may be that the Saṅgha splits before robe-cloth is offered to those bhikkhus who have completed the rains residence. If people then give water and robe-cloth to the same faction, saying, ‘We give to the Saṅgha,’ it’s all for the Saṅgha.
 
-175It may be that the Saṅgha splits before robe-cloth is offered to those monks who have completed the rains residence. If people then give water to one faction and robe-cloth to the other, saying, ‘We give to the faction,’ it’s all for the faction.
+175It may be that the Saṅgha splits before robe-cloth is offered to those bhikkhus who have completed the rains residence. If people then give water to one faction and robe-cloth to the other, saying, ‘We give to the faction,’ it’s all for the faction.
 
-176It may be that the Saṅgha splits before robe-cloth is offered to those monks who have completed the rains residence. If people then give water and robe-cloth to the same faction, saying, ‘We give to the faction,’ it’s all for the faction.
+176It may be that the Saṅgha splits before robe-cloth is offered to those bhikkhus who have completed the rains residence. If people then give water and robe-cloth to the same faction, saying, ‘We give to the faction,’ it’s all for the faction.
 
-177It may be that the Saṅgha splits before the robe-cloth is shared out but after it was offered to those monks who have completed the rains residence. The robe-cloth is then to be shared out equally to everyone.”
+177It may be that the Saṅgha splits before the robe-cloth is shared out but after it was offered to those bhikkhus who have completed the rains residence. The robe-cloth is then to be shared out equally to everyone.”
 
 #### 30. Discussion of what is properly and improperly taken ^30
 
@@ -1390,10 +1390,10 @@ They told the Buddha.
 > ```
 
 
-189“Monks, there are these eight key phrases for the giving of robe-cloth: someone gives within a monastery zone; someone gives to a recipient who has made an agreement; someone gives where alms are prepared; someone gives to the Saṅgha; someone gives to both Saṅghas; someone gives to a saṅgha that has completed the rainy-season residence; someone gives according to a specification; someone gives to an individual.
+189“bhikkhus, there are these eight key phrases for the giving of robe-cloth: someone gives within a monastery zone; someone gives to a recipient who has made an agreement; someone gives where alms are prepared; someone gives to the Saṅgha; someone gives to both Saṅghas; someone gives to a saṅgha that has completed the rainy-season residence; someone gives according to a specification; someone gives to an individual.
 
 
-190Someone gives within a monastery zone: it should be shared out to all the monks within that zone.
+190Someone gives within a monastery zone: it should be shared out to all the bhikkhus within that zone.
 
 Someone gives to a recipient who has made an agreement: when a number of monasteries have the same gains, then when it’s given in one monastery, it’s given to all.
 
@@ -1401,9 +1401,9 @@ Someone gives where alms are prepared: someone gives where the Saṅgha is regul
 
 Someone gives to the Saṅgha: it’s to be shared out to the present Saṅgha.
 
-Someone gives to both Saṅghas: even when there are many monks and just a single nun, she should be given half; even when there are many nuns and just a single monk, he should be given half.
+Someone gives to both Saṅghas: even when there are many bhikkhus and just a single nun, she should be given half; even when there are many nuns and just a single monk, he should be given half.
 
-Someone gives to a saṅgha that has completed the rainy-season residence: it’s to be shared out to the monks who have completed the rains residence in that monastery.
+Someone gives to a saṅgha that has completed the rainy-season residence: it’s to be shared out to the bhikkhus who have completed the rains residence in that monastery.
 
 Someone gives according to a specification: relating to rice porridge, a meal, fresh food, robe-cloth, a dwelling, or medicine.
 

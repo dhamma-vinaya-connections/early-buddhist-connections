@@ -12,7 +12,7 @@ language: "English - Pali"
 
 ## Khuddaka Nikāya - The Minor Texts
 
-## Theragatha - The Verses of the Senior Monks
+## Theragatha - The Verses of the Senior bhikkhus
 
 ### Chapter 14: Groups of Fourteen Verses
 
@@ -53,7 +53,7 @@ with noble silence.
 651As a rocky mountain  
 is unwavering and well grounded,  
 so when delusion ends,  
-a monk, like a mountain, doesn’t tremble.
+a bhikkhu, like a mountain, doesn’t tremble.
 
 652To the man who has not a blemish  
 who is always seeking purity,  

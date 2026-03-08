@@ -36,7 +36,7 @@ language: "English - Pali"
 
 ‘‘Ayameva kho, āvuso visākha, ariyo aṭṭhaṅgiko maggo sakkāyanirodhagāminī paṭipadā vuttā bhagavatā, seyyathidaṃ – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhī’’ti.
 
-“It is just this Noble Eightfold Path, friend Visākha, that has been declared by the Blessed One as the path leading to the cessation of identity. That is: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi.”
+“It is just this ![[Noble Path]].”
 
 ‘‘Taññeva nu kho, ayye, upādānaṃ te [teva (sī.)] pañcupādānakkhandhā udāhu aññatra pañcahupādānakkhandhehi upādāna’’nti? ‘‘Na kho, āvuso visākha, taññeva upādānaṃ te pañcupādānakkhandhā, nāpi aññatra pañcahupādānakkhandhehi upādānaṃ. Yo kho, āvuso visākha, pañcasu upādānakkhandhesu chandarāgo taṃ tattha upādāna’’nti.
 
@@ -60,7 +60,7 @@ language: "English - Pali"
 
 ‘‘Ayameva kho, āvuso visākha, ariyo aṭṭhaṅgiko maggo, seyyathidaṃ – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhī’’ti. ‘‘Ariyo panāyye, aṭṭhaṅgiko maggo saṅkhato udāhu asaṅkhato’’ti?
 
-“It is just this Noble Eightfold Path, friend Visākha, that is: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi.” “But, venerable lady, is the Noble Eightfold Path conditioned or unconditioned?”
+“It is just this ![[Noble Path]].” “But, venerable lady, is the Noble Eightfold Path conditioned or unconditioned?”
 
 ‘‘Ariyo kho, āvuso visākha, aṭṭhaṅgiko maggo saṅkhato’’ti.
 
@@ -72,7 +72,7 @@ language: "English - Pali"
 
 ‘‘Na kho, āvuso visākha, ariyena aṭṭhaṅgikena maggena tayo khandhā saṅgahitā; tīhi ca kho, āvuso visākha, khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito. Yā cāvuso visākha, sammāvācā yo ca sammākammanto yo ca sammāājīvo ime dhammā sīlakkhandhe saṅgahitā. Yo ca sammāvāyāmo yā ca sammāsati yo ca sammāsamādhi ime dhammā samādhikkhandhe saṅgahitā. Yā ca sammādiṭṭhi yo ca sammāsaṅkappo, ime dhammā paññākkhandhe saṅgahitā’’ti.
 
-“Friend Visākha, the three aggregates are not encompassed by the Noble Eightfold Path; rather, friend Visākha, the Noble Eightfold Path is encompassed by the three aggregates. Whatever is right speech, right action, and right livelihood—these qualities are included in the aggregate of virtue. Whatever is right effort, right mindfulness, and right samādhi—these qualities are included in the aggregate of samādhi. Whatever is right view and right intention—these qualities are included in the aggregate of wisdom.”
+“Friend Visākha, the three aggregates are not encompassed by the ![[Noble Path]]—these qualities are included in the aggregate of samādhi. Whatever is right view and right intention—these qualities are included in the aggregate of wisdom.”
 
 ‘‘Katamo panāyye, samādhi, katame dhammā samādhinimittā, katame dhammā samādhiparikkhārā, katamā samādhibhāvanā’’ti?
 
@@ -192,7 +192,7 @@ Venerable lady, is the underlying tendency to lust to be abandoned for all pleas
 
 ‘‘Na kho, āvuso visākha, sabbāya sukhāya vedanāya rāgānusayo pahātabbo, na sabbāya dukkhāya vedanāya paṭighānusayo pahātabbo, na sabbāya adukkhamasukhāya vedanāya avijjānusayo pahātabbo. Idhāvuso visākha, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. Rāgaṃ tena pajahati, na tattha rāgānusayo anuseti. Idhāvuso visākha, bhikkhu iti paṭisañcikkhati – ‘kudāssu nāmāhaṃ tadāyatanaṃ upasampajja viharissāmi yadariyā etarahi āyatanaṃ upasampajja viharantī’ti? Iti anuttaresu vimokkhesu pihaṃ upaṭṭhāpayato uppajjati pihāppaccayā domanassaṃ. Paṭighaṃ tena pajahati, na tattha paṭighānusayo anuseti. Idhāvuso visākha, bhikkhu sukhassa ca pahānā, dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā, adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. Avijjaṃ tena pajahati, na tattha avijjānusayo anusetī’’ti.
 
-It is not, friend Visākha, that the underlying tendency to lust should be abandoned for all pleasant feeling, the underlying tendency to aversion should not be abandoned for all painful feeling, or the underlying tendency to ignorance should not be abandoned for all neither-painful-nor-pleasant feeling. Here, friend Visākha, a bhikkhu, quite secluded from sensual pleasures, secluded from unwholesome states, enters and dwells in the first jhāna, which is accompanied by thought and examination and has joy and happiness born of seclusion. He abandons lust by that, and the underlying tendency to lust does not lie dormant therein. Here, friend Visākha, a bhikkhu reflects thus: ‘When shall I enter and dwell in that sphere that the noble ones now enter and dwell in?’ As he establishes longing for the unsurpassed liberations, sorrow arises in him because of longing. He abandons aversion by that, and the underlying tendency to aversion does not lie dormant therein. Here, friend Visākha, a bhikkhu, with the abandoning of pleasure and with the abandoning of pain, and with the previous disappearance of joy and grief, enters and dwells in the fourth jhāna, which is neither painful nor pleasant and has purity of mindfulness due to equanimity. He abandons ignorance by that, and the underlying tendency to ignorance does not lie dormant therein.
+It is not, friend Visākha, that the underlying tendency to lust should be abandoned for all pleasant feeling, the underlying tendency to aversion should not be abandoned for all painful feeling, or the underlying tendency to ignorance should not be abandoned for all neither-painful-nor-pleasant feeling. Here, friend Visākha, a bhikkhu, ![[Jhanas]]. He abandons ignorance by that, and the underlying tendency to ignorance does not lie dormant therein.
 
 466. ‘‘Sukhāya panāyye, vedanāya kiṃ paṭibhāgo’’ti?
 

@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Neither a king nor a mendicant gets anything accomplished if they just sleep all the time
+> Neither a king nor a bhikkhu gets anything accomplished if they just sleep all the time
 
 > [!info] Key Excerpts 
 > We will guard our sense doors, eat in moderation, be dedicated to wakefulness, discern skillful qualities, and pursue the development of the qualities that lead to awakening in the evening and toward dawn

@@ -20,23 +20,23 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato.  
 
-1At one time a certain Vajjian mendicant was staying near Vesālī in a certain forest grove.
+1At one time a certain Vajjian bhikkhu was staying near Vesālī in a certain forest grove.
 
-Now at that time the Vajjis were holding an all-night event in Vesālī. Then that mendicant, groaning at the noise of musical instruments being beaten and played, on that occasion recited this verse:
+Now at that time the Vajjis were holding an all-night event in Vesālī. Then that bhikkhu, groaning at the noise of musical instruments being beaten and played, on that occasion recited this verse:
 
 2“We dwell alone in the wilderness,  
 like a cast-off log in the forest.  
 On a night like this,  
 who’s worse off than me?”
 
-3The deity haunting that forest had compassion for that mendicant, and wanted what’s best for them. So they approached that mendicant wanting to stir them up, and addressed them in verse:
+3The deity haunting that forest had compassion for that bhikkhu, and wanted what’s best for them. So they approached that bhikkhu wanting to stir them up, and addressed them in verse:
 
 4“You dwell alone in the wilderness,  
 like a cast-off log in the forest.  
 Lots of people are jealous of you,  
 like beings in hell of those going to heaven.”
 
-5Impelled by that deity, that mendicant was struck with a sense of urgency.
+5Impelled by that deity, that bhikkhu was struck with a sense of urgency.
 
 #### Pali
 

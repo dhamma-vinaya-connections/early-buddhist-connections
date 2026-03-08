@@ -15,15 +15,15 @@ language: "English"
 ## ## Mahā Cattārīsaka Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the monks: “Monks!”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There he addressed the bhikkhus: “bhikkhus!”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said, “Monks, I will teach you noble right samādhi with its supports & requisite conditions. Listen, and pay close attention. I will speak.”
+The Blessed One said, “bhikkhus, I will teach you noble right samādhi with its supports & requisite conditions. Listen, and pay close attention. I will speak.”
 
-“Yes, lord,” the monks responded to him.
+“Yes, lord,” the bhikkhus responded to him.
 
-The Blessed One said: “Now what, monks, is noble right samādhi with its supports & requisite conditions? Any singleness of mind equipped with these seven factors—right view, right resolve, right speech, right action, right livelihood, right effort, & right mindfulness—is called noble right samādhi with its supports & requisite conditions.[1](#^mn117note01) ^mn117note01-ref
+The Blessed One said: “Now what, bhikkhus, is noble right samādhi with its supports & requisite conditions? Any singleness of mind equipped with these seven factors—right view, right resolve, right speech, right action, right livelihood, right effort, & right mindfulness—is called noble right samādhi with its supports & requisite conditions.[1](#^mn117note01) ^mn117note01-ref
 
 “[1] Of those, right view is the forerunner. And how is right view the forerunner? One discerns wrong view as wrong view, and right view as right view. This is one’s right view. And what is wrong view? ‘There is nothing given, nothing offered, nothing sacrificed. There is no fruit or result of good or bad actions. There is no this world, no next world, no mother, no father, no spontaneously reborn beings; no contemplatives or brahmans who, faring rightly & practicing rightly, proclaim this world & the next after having directly known & realized it for themselves.’ This is wrong view.
 
@@ -79,7 +79,7 @@ The Blessed One said: “Now what, monks, is noble right samādhi with its suppo
 
 “Of those, right view is the forerunner. And how is right view the forerunner? In one of right view, wrong view is abolished. The many evil, unskillful qualities that come into play with wrong view as their condition are also abolished, while the many skillful qualities that have right view as their condition go to the culmination of their development. In one of right resolve, wrong resolve is abolished.... In one of right speech, wrong speech is abolished.... In one of right action, wrong action is abolished.... In one of right livelihood, wrong livelihood is abolished.... In one of right effort, wrong effort is abolished.... In one of right mindfulness, wrong mindfulness is abolished.... In one of right samādhi, wrong samādhi is abolished.... In one of right knowledge, wrong knowledge is abolished.... In one of right release, wrong release is abolished. The many evil, unskillful qualities that come into play with wrong release as their condition are also abolished, while the many skillful qualities that have right release as their condition go to the culmination of their development.
 
-“Thus, monks, there are twenty factors siding with skillfulness, and twenty with unskillfulness.
+“Thus, bhikkhus, there are twenty factors siding with skillfulness, and twenty with unskillfulness.
 
 “This Dhamma discourse on the Great Forty has been set rolling and cannot be stopped by any contemplative or brahman or deva or Māra or Brahmā or anyone at all in the world.
 
@@ -87,11 +87,11 @@ The Blessed One said: “Now what, monks, is noble right samādhi with its suppo
 
 “Even Vassa & Bhañña—those teachers from Ukkala who were proponents of no-causality, no-action, & no-existence—would not think that this Dhamma discourse on the Great Forty should be censured & rejected. Why is that? For fear of criticism, opposition, & reproach.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words.
 
 ### Notes
 
-1. It has been argued that this definition of right samādhi differs from the standard definition that equates right samādhi with the four jhānas. This argument, however, misses two points. The first is that this definition differs in no way from the opening part of the definition of the first jhāna: “There is the case where a monk—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna.” The “unskillful qualities” in this passage are identified by [[sn45.22-thanissaro]] as “wrong view, wrong resolve, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong samādhi.” And of course, sensuality is renounced through mundane right resolve. In fact, [[mn78-thanissaro]] indicates a direct connection between right resolve and jhāna, stating that the first jhāna is where all unskillful resolves cease without trace. This means that any samādhi truly endowed with right resolve would have to be at least the first jhāna. [↩︎](#^mn117note01-ref) ^mn117note01
+1. It has been argued that this definition of right samādhi differs from the standard definition that equates right samādhi with the four jhānas. This argument, however, misses two points. The first is that this definition differs in no way from the opening part of the definition of the first jhāna: “There is the case where a bhikkhu—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna.” The “unskillful qualities” in this passage are identified by [[sn45.22-thanissaro]] as “wrong view, wrong resolve, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong samādhi.” And of course, sensuality is renounced through mundane right resolve. In fact, [[mn78-thanissaro]] indicates a direct connection between right resolve and jhāna, stating that the first jhāna is where all unskillful resolves cease without trace. This means that any samādhi truly endowed with right resolve would have to be at least the first jhāna. [↩︎](#^mn117note01-ref) ^mn117note01
 
 The second point is that this sutta defines noble right resolve as the resolves present in the first jhāna. See note 5, below.
 
@@ -107,7 +107,7 @@ So there is nothing to indicate that this definition of right samādhi refers to
 
 6. [[sn45.8-thanissaro]] defines right action as abstaining from killing, abstaining from taking what is not given, & abstaining from uncelibacy. [↩︎](#^mn117note06-ref) ^mn117note06
 
-7. This definition appears to refer to wrong livelihood for monks and nuns. [↩︎](#^mn117note07-ref) ^mn117note07
+7. This definition appears to refer to wrong livelihood for bhikkhus and nuns. [↩︎](#^mn117note07-ref) ^mn117note07
 
 8. [[sn48.46-thanissaro]] equates noble release with the faculty of samādhi (see also [[sn48.10-thanissaro]]). [↩︎](#^mn117note08-ref) ^mn117note08
 

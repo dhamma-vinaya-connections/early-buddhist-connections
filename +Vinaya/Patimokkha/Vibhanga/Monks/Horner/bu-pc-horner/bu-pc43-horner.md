@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC43]]
 > ◄  [[bu-pc42-horner]] 📜  [[bu-pc44-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 43
+# bhikkhus’ Expiation (_Pācittiya_) 43
 
 *Bu-Pc.43.1.1* *BD.2.354* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. Now at that time the venerable Upananda, the son of the Sakyans, going to a friend’s house, sat down[^1] in a sleeping-room[^2] together with his wife. Then that man approached the venerable Upananda, the son of the Sakyans, and having approached, having greeted the venerable Upananda, the son of the Sakyans, he sat down at a respectful distance. As he was sitting down at a respectful distance, that man spoke thus to his wife:
 
@@ -27,11 +27,11 @@ A second time that man … A third time that man spoke thus to the venerable Upa
 
 *BD.2.355* A third time did that woman say to the venerable Upananda, the son of the Sakyans:
 
-“Sit down, honoured sir, do not go away.” Then that man, going out, made monks look down upon[^4] (Upananda), saying:
+“Sit down, honoured sir, do not go away.” Then that man, going out, made bhikkhus look down upon[^4] (Upananda), saying:
 
 “Honoured sirs, this master Upananda is sitting in the sleeping-room together with my wife; he, being dismissed by me, does not wish to go. We are very busy, there is much to be done.”
 
-Those who were modest monks … spread it about, saying:
+Those who were modest bhikkhus … spread it about, saying:
 
 “How can the venerable Upananda, the son of the Sakyans, intruding upon[^5] a family with food,[^6] *Vin.4.95* sit down?” …
 
@@ -39,13 +39,13 @@ Those who were modest monks … spread it about, saying:
 
 “It is true, lord.”
 
-The enlightened one, the lord, rebuked him, saying: “How can you, foolish man, intruding … sit down? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+The enlightened one, the lord, rebuked him, saying: “How can you, foolish man, intruding … sit down? It is not, foolish man, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk, intruding upon a family with food, should sit down, there is an offence of expiation.”
+“Whatever bhikkhu, intruding upon a family with food, should sit down, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.43.2.1* *BD.2.356* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.43.2.1* *BD.2.356* Whatever means: … is bhikkhu to be understood in this case.
 
 Family with food means: there is a woman and also a man, and both the woman and the man are not gone out, both are not without passion.
 
@@ -59,7 +59,7 @@ Should sit down means: if he sits down in a large house, having left (the space 
 
 * * *
 
-*Bu-Pc.43.2.3* There is no offence if he sits down in a large house, not having left (the space of) a reach of the hand from door-posts and lintel; if he sits down in a small house, not having gone beyond the beam; if there comes to be a second monk; if both have gone out[^11]; if both are with-out passion; if it is not in a sleeping-room; if he is mad, if he is the first wrong-doer.
+*Bu-Pc.43.2.3* There is no offence if he sits down in a large house, not having left (the space of) a reach of the hand from door-posts and lintel; if he sits down in a small house, not having gone beyond the beam; if there comes to be a second bhikkhu; if both have gone out[^11]; if both are with-out passion; if it is not in a sleeping-room; if he is mad, if he is the first wrong-doer.
 
 The Third
 
@@ -67,7 +67,7 @@ The Third
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

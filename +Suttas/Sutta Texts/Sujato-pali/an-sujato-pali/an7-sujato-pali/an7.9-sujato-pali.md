@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, the spiritual life is lived to give up and cut out these seven fetters. What seven? The fetters of attraction, repulsion, views, doubt, conceit, desire to be reborn, and ignorance.
+1“bhikkhus, the spiritual life is lived to give up and cut out these seven fetters. What seven? The fetters of attraction, repulsion, views, doubt, conceit, desire to be reborn, and ignorance.
 
-The spiritual life is lived to give up and cut out these seven fetters. When a mendicant has given up the fetters of attraction, repulsion, views, doubt, conceit, desire to be reborn, and ignorance — cut them off at the root, made them like a palm stump, obliterated them, so they are unable to arise in the future — they’re called a mendicant who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
+The spiritual life is lived to give up and cut out these seven fetters. When a bhikkhu has given up the fetters of attraction, repulsion, views, doubt, conceit, desire to be reborn, and ignorance — cut them off at the root, made them like a palm stump, obliterated them, so they are unable to arise in the future — they’re called a bhikkhu who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.”
 
 1"Sattannaṁ, bhikkhave, saṁyojanānaṁ pahānāya samucchedāya brahmacariyaṁ vussati. Katamesaṁ sattannaṁ? Anunayasaṁyojanassa pahānāya samucchedāya brahmacariyaṁ vussati, paṭighasaṁyojanassa … pe … diṭṭhisaṁyojanassa … vicikicchāsaṁyojanassa … mānasaṁyojanassa … bhavarāgasaṁyojanassa … avijjāsaṁyojanassa pahānāya samucchedāya brahmacariyaṁ vussati.
 

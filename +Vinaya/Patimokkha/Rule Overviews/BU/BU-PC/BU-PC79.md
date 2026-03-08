@@ -22,12 +22,12 @@ vin_severity:
   - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
-vin_gender: "Monks"
+vin_gender: "bhikkhus"
 vin_gender-corr: "BNI-PC157"
 ---
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC78]] 🌐 [[BU-PC80]] ►
 
-# Monks - Pacittiya - Confession
+# bhikkhus - Pacittiya - Confession
 ## 8 Saha-Dhammika-Vaggo - 8 Legitimate Correction
 ## BU-PC79 - Kammapaṭibāhana - Obstructive Legal Procedure
 
@@ -68,7 +68,7 @@ vin_gender-corr: "BNI-PC157"
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
-> | Monks      | Nuns            | PTS ref |
+> | bhikkhus      | Nuns            | PTS ref |
 > | ---------- | --------------- | ------- |
 > | BU-PC79 | [[BNI-PC157]] | Vin.3.1–3.40 |
 

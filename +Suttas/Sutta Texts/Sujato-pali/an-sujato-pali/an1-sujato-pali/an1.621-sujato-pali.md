@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those who have forgotten mindfulness of the body have forgotten the deathless. Those who haven’t forgotten mindfulness of the body haven’t forgotten the deathless.”
+1“bhikkhus, those who have forgotten mindfulness of the body have forgotten the deathless. Those who haven’t forgotten mindfulness of the body haven’t forgotten the deathless.”
 
 1"Amataṁ tesaṁ, bhikkhave, pamuṭṭhaṁ yesaṁ kāyagatāsati pamuṭṭhā. Amataṁ tesaṁ, bhikkhave, appamuṭṭhaṁ yesaṁ kāyagatāsati appamuṭṭhā"ti.
 

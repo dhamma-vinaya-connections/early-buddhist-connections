@@ -16,7 +16,7 @@ language: "English - Pali"
 
 49. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā kosalesu cārikaṃ carati mahatā bhikkhusaṅghena saddhiṃ. Tena kho pana samayena sambahulā māṇavakā bhagavato avidūre sadhāyamānarūpā [saddāyamānarūpā (syā. pī. aṭṭhakathāyaṃ pāṭhantaraṃ), pathāyamānarūpā (ka.), vadhāyamānarūpā (ka. sī., ka. aṭṭha.), saddhāyamānarūpā (?), saddhudhātuyā sadhudhātuyā vā siddhamidanti veditabbaṃ] atikkamanti. Addasā kho bhagavā sambahule māṇavake avidūre sadhāyamānarūpe atikkante.
 
-49.Thus have I heard: At one time the Blessed One was traveling through the Kosala country with a large company of monks. At that time, a number of young brahmins were passing not far from the Blessed One, appearing to be arguing. The Blessed One saw those young brahmins passing nearby, appearing to be arguing.
+49.Thus have I heard: At one time the Blessed One was traveling through the Kosala country with a large company of bhikkhus. At that time, a number of young brahmins were passing not far from the Blessed One, appearing to be arguing. The Blessed One saw those young brahmins passing nearby, appearing to be arguing.
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

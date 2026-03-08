@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single other person who rightly keeps rolling the supreme Wheel of Dhamma that was rolled forth by the Realized One like Sāriputta. Sāriputta rightly keeps rolling the supreme Wheel of Dhamma that was rolled forth by the Realized One.”
+1“bhikkhus, I do not see a single other person who rightly keeps rolling the supreme Wheel of Dhamma that was rolled forth by the Realized One like Sāriputta. Sāriputta rightly keeps rolling the supreme Wheel of Dhamma that was rolled forth by the Realized One.”
 
 _i. First Subchapter_
 

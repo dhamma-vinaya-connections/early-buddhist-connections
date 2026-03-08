@@ -17,7 +17,7 @@ Translated by Charles Patton
 
 ### 26. Knowledge of the Three Vedas
 
-1. Thus I have heard: One time, the Buddha was travelling among the people of Kośala accompanied by a great assembly of 1,250 monks. He went to the Kośala priest village of Icchānaṅgala and stopped to rest in a citron grove.
+1. Thus I have heard: One time, the Buddha was travelling among the people of Kośala accompanied by a great assembly of 1,250 bhikkhus. He went to the Kośala priest village of Icchānaṅgala and stopped to rest in a citron grove.
 
 2. A priest named Puṣkarasārin and another named [Tārukkha] had gone to the village of Icchānaṅgala for some minor reason.
 

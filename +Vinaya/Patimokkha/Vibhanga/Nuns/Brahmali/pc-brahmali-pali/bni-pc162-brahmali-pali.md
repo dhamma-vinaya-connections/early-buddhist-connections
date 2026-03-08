@@ -18,24 +18,24 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu. At that time an ivory-worker had invited the monks who needed needle cases to ask for one. And the monks asked for many needle cases. Those who had small needle cases asked for large ones, and those who had large needle cases asked for small ones. The ivory-worker was so busy making needle cases for the monks that he was unable to make goods for sale. He could not make a living for himself, and his wives and children suffered. People complained and criticized them, “How can the Sakyan monastics not have any sense of moderation and ask for many needle cases? This ivory-worker is so busy making needle cases for them that he’s unable to make goods for sale. He can’t make a living for himself, and his wives and children are suffering.”
+1At one time the Buddha was staying in the Sakyan country in the Banyan Tree Monastery at Kapilavatthu. At that time an ivory-worker had invited the bhikkhus who needed needle cases to ask for one. And the bhikkhus asked for many needle cases. Those who had small needle cases asked for large ones, and those who had large needle cases asked for small ones. The ivory-worker was so busy making needle cases for the bhikkhus that he was unable to make goods for sale. He could not make a living for himself, and his wives and children suffered. People complained and criticized them, “How can the Sakyan monastics not have any sense of moderation and ask for many needle cases? This ivory-worker is so busy making needle cases for them that he’s unable to make goods for sale. He can’t make a living for himself, and his wives and children are suffering.”
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized those monks, “How can those monks not have a sense of moderation and ask for many needle cases?” …
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized those bhikkhus, “How can those bhikkhus not have a sense of moderation and ask for many needle cases?” …
 
-“Is it true, monks, that there are monks who do this?”
+“Is it true, bhikkhus, that there are bhikkhus who do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How can those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk has a needle case made from bone, ivory, or horn, it is to be destroyed, and he commits an offense entailing confession.’”
+3‘If a bhikkhu has a needle case made from bone, ivory, or horn, it is to be destroyed, and he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
 5**Bone:** any kind of bone.

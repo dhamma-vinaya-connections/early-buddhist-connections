@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the Buddha had allowed bathing robes for the nuns. Knowing this, the nuns from the group of six wore bathing robes of inappropriate size. As they were walking about, they were dragging them along, both in front and behind.
 
-2The nuns of few desires complained and criticized them, “How can the nuns from the group of six wear such bathing robes?” … “Is it true, monks, that the nuns from the group of six do this?”
+2The nuns of few desires complained and criticized them, “How can the nuns from the group of six wear such bathing robes?” … “Is it true, bhikkhus, that the nuns from the group of six do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How can the nuns from the group of six wear such bathing robes? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them … “How can the nuns from the group of six wear such bathing robes? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

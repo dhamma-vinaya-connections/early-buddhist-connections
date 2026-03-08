@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these seven kinds of wealth. What seven? The wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom. These are the seven kinds of wealth.
+1“bhikkhus, there are these seven kinds of wealth. What seven? The wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom. These are the seven kinds of wealth.
 
 
 2Faith and ethical conduct are kinds of wealth,  

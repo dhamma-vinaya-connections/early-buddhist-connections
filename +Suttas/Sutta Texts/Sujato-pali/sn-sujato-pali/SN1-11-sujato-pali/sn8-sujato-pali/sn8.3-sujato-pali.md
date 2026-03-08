@@ -22,9 +22,9 @@ language: "English - Pali"
 
 1At one time Venerable Vaṅgīsa was staying near Āḷavī, at the Aggāḷava Tree-shrine, together with his mentor, Venerable Nigrodhakappa.
 
-Now at that time Venerable Vaṅgīsa looked down on other good-hearted mendicants because of his own poetic virtuosity.
+Now at that time Venerable Vaṅgīsa looked down on other good-hearted bhikkhus because of his own poetic virtuosity.
 
-Then he thought: “It’s my loss, my misfortune, that I look down on other good-hearted mendicants because of my own poetic virtuosity.”
+Then he thought: “It’s my loss, my misfortune, that I look down on other good-hearted bhikkhus because of my own poetic virtuosity.”
 
 Then, on the occasion of arousing remorse in himself, he recited these verses:
 
@@ -39,7 +39,7 @@ people fall into hell.
 When people slain by conceit are reborn in hell,  
 they grieve for a long time.
 
-4But a mendicant who practices rightly,  
+4But a bhikkhu who practices rightly,  
 owning the path, never grieves.  
 They enjoy happiness and a good reputation,  
 and they rightly call him a ‘Seer of Truth’.

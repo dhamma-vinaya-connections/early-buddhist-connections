@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these three things. What three? The elements of sensuality, malice, and cruelty. These are the three things. To give up these three things you should develop three things. What three? You should develop the element of renunciation to give up the element of sensuality, the element of good will to give up the element of malice, and the element of harmlessness to give up the element of cruelty. These are the three things you should develop to give up those three things.”
+1“bhikkhus, there are these three things. What three? The elements of sensuality, malice, and cruelty. These are the three things. To give up these three things you should develop three things. What three? You should develop the element of renunciation to give up the element of sensuality, the element of good will to give up the element of malice, and the element of harmlessness to give up the element of cruelty. These are the three things you should develop to give up those three things.”
 
 1"Tayome, bhikkhave, dhammā. Katame tayo? Kāmadhātu, byāpādadhātu, vihiṁsādhātu. Ime kho, bhikkhave, tayo dhammā. Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Kāmadhātuyā pahānāya nekkhammadhātu bhāvetabbā, byāpādadhātuyā pahānāya abyāpādadhātu bhāvetabbā, vihiṁsādhātuyā pahānāya avihiṁsādhātu bhāvetabbā. Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya ime tayo dhammā bhāvetabbā"ti.
 

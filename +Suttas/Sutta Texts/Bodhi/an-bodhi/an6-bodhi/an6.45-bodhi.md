@@ -48,7 +48,7 @@ language: "English"
 
 “To conceal his verbal misconduct … To conceal his mental misconduct, he nurtures an evil desire. He wishes: ‘Let no one know me’; he intends \[with the aim\]: ‘Let no one know me’; he utters statements \[with the aim\]: ‘Let no one know me’; he makes bodily endeavors \[with the aim\]: ‘Let no one know me.’ This, I say, is the interest he must pay.
 
-(4) “Well-behaved fellow monks speak thus about him: ‘This venerable one acts in such a way, behaves in such a way.’ This, I say, is his being reproved.
+(4) “Well-behaved fellow bhikkhus speak thus about him: ‘This venerable one acts in such a way, behaves in such a way.’ This, I say, is his being reproved.
 
 (5) “When he has gone to the forest, to the foot of a tree, or to an empty dwelling, bad unwholesome thoughts accompanied by remorse assail him. This, I say, is his prosecution.
 

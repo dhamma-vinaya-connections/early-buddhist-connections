@@ -13,13 +13,13 @@ language: "English"
 
 “How can the lady Thullanandā put an obstacle in the way of a group’s receiving robes?”[^3] …
 
-“Is it true, as is said, monks, that the nun Thullanandā put an obstacle in the way of a group’s receiving robes?”
+“Is it true, as is said, bhikkhus, that the nun Thullanandā put an obstacle in the way of a group’s receiving robes?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can the nun Thullanandā put an obstacle in the way of a group’s receiving robes? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can the nun Thullanandā put an obstacle in the way of a group’s receiving robes? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun should put an obstacle in the way of a group’s receiving robes there is an offence of expiation.
 

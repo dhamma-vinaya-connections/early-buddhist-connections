@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
 > ◄  [[bu-pc40-horner]] 📜  [[bu-pc42-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 41
+# bhikkhus’ Expiation (_Pācittiya_) 41
 
 *Bu-Pc.41.1.1* *BD.2.347* … at Vesālī in the Great Grove in the Hall of the Gabled Pillars. Now at that time there came to be abundant[^1] solid food for the Order. Then the venerable Ānanda told this matter to the lord. He said:
 
@@ -27,7 +27,7 @@ Saying, “The lover is not a lover,” they quarrelled.
 
 * * *
 
-*Bu-Pc.41.1.2* Then a certain Naked Ascetic went to a distribution of food. A certain monk, mixing cooked rice with a quantity of ghee, gave a large alms-meal to that Naked *BD.2.348* Ascetic. Then the Naked Ascetic, taking that alms-meal, went away. A certain Naked Ascetic said to that Naked Ascetic:
+*Bu-Pc.41.1.2* Then a certain Naked Ascetic went to a distribution of food. A certain bhikkhu, mixing cooked rice with a quantity of ghee, gave a large alms-meal to that Naked *BD.2.348* Ascetic. Then the Naked Ascetic, taking that alms-meal, went away. A certain Naked Ascetic said to that Naked Ascetic:
 
 “Where, your reverence, was an alms-meal obtained by you?”
 
@@ -37,19 +37,19 @@ Lay followers heard this talk of those Naked Ascetics. Then these lay followers 
 
 “Lord, these adherents of other sects desire blame for the enlightened one, they desire blame for _dhamma_, they desire blame for the Order. It were well, lord, that the masters did not give to the adherents of other sects with their (own) hand(s).”
 
-Then the lord gladdened … delighted these lay followers with _dhamma_\-talk. Then these lay followers, having been gladdened … delighted by the lord with _dhamma_\-talk, rising from (their) seats, having greeted the lord, departed, keeping their right sides towards him. Then the lord, on this occasion, having given reasoned talk, addressed the monks, saying:
+Then the lord gladdened … delighted these lay followers with _dhamma_\-talk. Then these lay followers, having been gladdened … delighted by the lord with _dhamma_\-talk, rising from (their) seats, having greeted the lord, departed, keeping their right sides towards him. Then the lord, on this occasion, having given reasoned talk, addressed the bhikkhus, saying:
 
-“On account of this, monks, I will lay down a rule of training for monks, founded on ten reasons: for the excellence of the Order, *Vin.4.92* for the comfort of the Order … for establishing what is _dhamma_ indeed, for following the rules of restraint.[^6] And thus, monks, this rule of training should be set forth:
+“On account of this, bhikkhus, I will lay down a rule of training for bhikkhus, founded on ten reasons: for the excellence of the Order, *Vin.4.92* for the comfort of the Order … for establishing what is _dhamma_ indeed, for following the rules of restraint.[^6] And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should give with his own hand solid food or soft food to a naked ascetic[^7] or to a wanderer or to a female wanderer, there is an offence of expiation.”
+“Whatever bhikkhu should give with his own hand solid food or soft food to a naked ascetic[^7] or to a wanderer or to a female wanderer, there is an offence of expiation.”
 
 * * *
 
-*Bu-Pc.41.2.1* *BD.2.349* Whatever means: … is monk to be understood in this case.
+*Bu-Pc.41.2.1* *BD.2.349* Whatever means: … is bhikkhu to be understood in this case.
 
 Naked ascetic[^8] means: whoever being naked has reached (the stage of) a wanderer.[^9]
 
-Wanderer means: setting aside monk and novice, whoever has reached (the stage of) a wanderer.[^10]
+Wanderer means: setting aside bhikkhu and novice, whoever has reached (the stage of) a wanderer.[^10]
 
 Female wanderer means: setting aside nun and female probationer and female novice, whoever has reached (the stage of) a female wanderer.[^11]
 
@@ -73,7 +73,7 @@ The First
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

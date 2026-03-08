@@ -16,21 +16,21 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time Venerable Udāyī was skilled in archery. And because he disliked crows, he shot them. He cut off their heads and then set them out in a row impaled on stakes. The monks asked him:
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time Venerable Udāyī was skilled in archery. And because he disliked crows, he shot them. He cut off their heads and then set them out in a row impaled on stakes. The bhikkhus asked him:
 
 “Who killed these crows?”
 
 “I did. I don’t like crows.”
 
 
-2The monks of few desires complained and criticized him: “How can Venerable Udāyī intentionally kill living beings?” …
+2The bhikkhus of few desires complained and criticized him: “How can Venerable Udāyī intentionally kill living beings?” …
 
 “Is it true, Udāyī, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

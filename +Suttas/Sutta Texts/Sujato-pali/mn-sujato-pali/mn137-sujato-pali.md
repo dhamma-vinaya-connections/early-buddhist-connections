@@ -18,7 +18,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 
 “Venerable sir,” they replied.
@@ -26,7 +26,7 @@ language: "English - Pali"
 The Buddha said this:
 
 
-“Mendicants, I shall teach you the analysis of the six sense fields. Listen and pay close attention, I will speak.”
+“bhikkhus, I shall teach you the analysis of the six sense fields. Listen and pay close attention, I will speak.”
 
 “Yes, sir,” they replied.
 
@@ -139,7 +139,7 @@ This is the eighth direction. Driven by the Realized One, the perfected one, the
 ‘Of all meditation teachers, it is he that is called the supreme guide for those who wish to train.’ That’s what I said, and this is why I said it.”
 
 
-26That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+26That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

@@ -78,11 +78,11 @@ These are the four kinds of deeds that I declare, having realized them with my o
 
 11When he had spoken, Puṇṇa Koliyaputta the observer of cow behavior said to the Buddha:
 
-“Excellent, sir! Excellent! … From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.” And Seniya the naked dog ascetic said to the Buddha: “Excellent, sir! Excellent! … I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
+“Excellent, sir! Excellent! … From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.” And Seniya the naked dog ascetic said to the Buddha: “Excellent, sir! Excellent! … I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. Sir, may I receive the going forth, the ordination in the Buddha’s presence?”
 
-“Seniya, if someone formerly ordained in another sect wishes to take the going forth, the ordination in this teaching and training, they must spend four months on probation. When four months have passed, if the mendicants are satisfied, they’ll give the going forth, the ordination into monkhood. However, I have recognized individual differences in this matter.”
+“Seniya, if someone formerly ordained in another sect wishes to take the going forth, the ordination in this teaching and training, they must spend four months on probation. When four months have passed, if the bhikkhus are satisfied, they’ll give the going forth, the ordination into bhikkhuhood. However, I have recognized individual differences in this matter.”
 
-12“Sir, if four months probation are required in such a case, I’ll spend four years on probation. When four years have passed, if the mendicants are satisfied, let them give me the going forth, the ordination into monkhood.”
+12“Sir, if four months probation are required in such a case, I’ll spend four years on probation. When four years have passed, if the bhikkhus are satisfied, let them give me the going forth, the ordination into bhikkhuhood.”
 
 13And the naked dog ascetic Seniya received the going forth, the ordination in the Buddha’s presence. Not long after his ordination, Venerable Seniya, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme end of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
 

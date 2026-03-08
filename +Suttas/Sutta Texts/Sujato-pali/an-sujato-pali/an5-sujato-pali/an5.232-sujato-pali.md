@@ -2,7 +2,7 @@
 sutta_code: "AN5.232"
 sutta_title:
   - "Āvāsika "
-  - "Resident Mendicant"
+  - "Resident bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -14,13 +14,13 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### XXIV. A Resident Mendicant — AN 5.232: Liked
+### XXIV. A Resident bhikkhu — AN 5.232: Liked
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a resident mendicant with five qualities is dear and beloved to their spiritual companions, respected and admired. What five?
+1“bhikkhus, a resident bhikkhu with five qualities is dear and beloved to their spiritual companions, respected and admired. What five?
 
 They’re ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
@@ -32,7 +32,7 @@ They get the four jhānas — blissful meditations in the present life that belo
 
 They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 
-A resident mendicant with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
+A resident bhikkhu with these five qualities is dear and beloved to their spiritual companions, respected and admired.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu sabrahmacārīnaṁ piyo ca hoti manāpo ca garu ca bhāvanīyo ca. Katamehi pañcahi?
 

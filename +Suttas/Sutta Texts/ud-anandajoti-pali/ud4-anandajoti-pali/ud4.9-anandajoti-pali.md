@@ -27,7 +27,7 @@ language: "English - Pali"
 3"He whom life does not torment, who does not grieve at the end in death,  
 If that firm one is one who has seen the state of peace, in the midst of grief he does not grieve.
 
-4"For the monk who has cut off the craving for continuity, whose mind is at peace,  
+4"For the bhikkhu who has cut off the craving for continuity, whose mind is at peace,  
 Having totally destroyed the round of births, for him there is no continuation in existence."
 
 1Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Atha kho āyasmato upasenassa vaṅgantaputtassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi: 

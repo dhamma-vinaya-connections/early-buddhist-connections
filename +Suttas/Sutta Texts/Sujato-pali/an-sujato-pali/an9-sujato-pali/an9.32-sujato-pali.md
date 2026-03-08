@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these nine progressive meditations. What nine? The first jhāna, the second jhāna, the third jhāna, the fourth jhāna, the dimension of infinite space, the dimension of infinite consciousness, the dimension of nothingness, the dimension of neither perception nor non-perception, and the cessation of perception and feeling. These are the nine progressive meditations.”
+1“bhikkhus, there are these nine progressive meditations. What nine? The first jhāna, the second jhāna, the third jhāna, the fourth jhāna, the dimension of infinite space, the dimension of infinite consciousness, the dimension of nothingness, the dimension of neither perception nor non-perception, and the cessation of perception and feeling. These are the nine progressive meditations.”
 
 1"Navayime, bhikkhave, anupubbavihārā. Katame nava? Paṭhamaṁ jhānaṁ, dutiyaṁ jhānaṁ, tatiyaṁ jhānaṁ, catutthaṁ jhānaṁ, ākāsānañcāyatanaṁ, viññāṇañcāyatanaṁ, ākiñcaññāyatanaṁ, nevasaññānāsaññāyatanaṁ, saññāvedayitanirodho – ime kho, bhikkhave, nava anupubbavihārā"ti.
 

@@ -16,7 +16,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were receiving almsfood with large amounts of bean curry. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were receiving almsfood with large amounts of bean curry. …
 
 #### Final ruling
 
@@ -26,7 +26,7 @@ language: "Pali - English"
 
 3**Bean curry:** there are two kinds of bean curry, to be taken with the hand: mung-bean curry and black-gram curry.
 
-Almsfood should be received with the right proportion of bean curry. If a monk, out of disrespect, receives much bean curry, he commits an offense of wrong conduct.
+Almsfood should be received with the right proportion of bean curry. If a bhikkhu, out of disrespect, receives much bean curry, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

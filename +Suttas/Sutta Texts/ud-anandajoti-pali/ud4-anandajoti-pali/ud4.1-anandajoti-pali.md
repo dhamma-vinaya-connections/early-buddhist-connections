@@ -36,11 +36,11 @@ Having seen it, this occured to him: "This is surely a pleasing and delightful m
 
 "Having seen it, this occured to me: ‘This is surely a pleasing and delightful mango grove. For a son of a good family who needs to strive this is surely enough for striving. If the Gracious One would allow me, I could come to this mango grove for striving.’ If the Gracious One would allow me, reverend Sir, I could go to that mango grove for striving."
 
-5When that was said, the Gracious One said this to venerable Meghiya: "You should wait for as long as I am alone, Meghiya, until some other monk arrives."
+5When that was said, the Gracious One said this to venerable Meghiya: "You should wait for as long as I am alone, Meghiya, until some other bhikkhu arrives."
 
 For a second time venerable Meghiya said this to the Gracious One: "There is nothing further for the Gracious One to do, reverend Sir, there is nothing to add to what has been done. But for me, reverend Sir, there is something further to do, there is something to add to what has been done. If the Gracious One would allow me, reverend Sir, I could go to that mango grove for striving."
 
-6For a second time the Gracious One said this to venerable Meghiya: "You should wait for as long as I am alone, Meghiya, until some other monk arrives."
+6For a second time the Gracious One said this to venerable Meghiya: "You should wait for as long as I am alone, Meghiya, until some other bhikkhu arrives."
 
 7For a third time venerable Meghiya said this to the Gracious One: "There is nothing further for the Gracious One to do, reverend Sir, there is nothing to add to what has been done. But for me, reverend Sir, there is something further to do, there is something to add to what has been done. If the Gracious One would allow me, reverend Sir, I could go to that mango grove for striving."
 
@@ -62,29 +62,29 @@ Then to venerable Meghiya, as he was dwelling in that mango grove, for the most 
 
 11"For he whose freedom of mind is not fully mature, Meghiya, there are five things that lead to maturity. What five?
 
-12"Here, Meghiya, a monk has a good friend, a good companion, a good comrade. For he whose freedom of mind is not fully mature, Meghiya, this is the first thing that leads to maturity.
+12"Here, Meghiya, a bhikkhu has a good friend, a good companion, a good comrade. For he whose freedom of mind is not fully mature, Meghiya, this is the first thing that leads to maturity.
 
-13"Furthermore, Meghiya, a monk is virtuous, he lives restrained with the Pāṭimokkha restraint, and is endowed with suitable conduct and resort, seeing danger in the slightest faults, he trains in the training rules he has undertaken. For he whose freedom of mind is not fully mature, Meghiya, this is the second thing that leads to maturity.
+13"Furthermore, Meghiya, a bhikkhu is virtuous, he lives restrained with the Pāṭimokkha restraint, and is endowed with suitable conduct and resort, seeing danger in the slightest faults, he trains in the training rules he has undertaken. For he whose freedom of mind is not fully mature, Meghiya, this is the second thing that leads to maturity.
 
-14"Furthermore, Meghiya, a monk has talk about what is very austere, that is suitable for opening up the mind, and that leads to absolute disenchantment, dispassion, cessation, peace, deep knowledge, complete Awakening and Emancipation, such as: talk on wanting little, talk on being satisfied, talk on complete seclusion, talk on disassociation, talk on arousing energy, talk on virtue, talk on samādhi, talk on wisdom, talk on freedom, talk on knowing and seeing freedom. Such talk as this he gains as he desires, he gains without difficulty, gains without trouble. For he whose freedom of mind is not fully mature, Meghiya, this is the third thing that leads to maturity.
+14"Furthermore, Meghiya, a bhikkhu has talk about what is very austere, that is suitable for opening up the mind, and that leads to absolute disenchantment, dispassion, cessation, peace, deep knowledge, complete Awakening and Emancipation, such as: talk on wanting little, talk on being satisfied, talk on complete seclusion, talk on disassociation, talk on arousing energy, talk on virtue, talk on samādhi, talk on wisdom, talk on freedom, talk on knowing and seeing freedom. Such talk as this he gains as he desires, he gains without difficulty, gains without trouble. For he whose freedom of mind is not fully mature, Meghiya, this is the third thing that leads to maturity.
 
-15"Furthermore, Meghiya, a monk dwells with energy aroused for the giving up of unwholesome things, for the taking up of wholesome things, steadfast, of firm endeavour, one who has not thrown off the burden in regard to wholesome things. For he whose freedom of mind is not fully mature, Meghiya, this is the fourth thing that leads to maturity.
+15"Furthermore, Meghiya, a bhikkhu dwells with energy aroused for the giving up of unwholesome things, for the taking up of wholesome things, steadfast, of firm endeavour, one who has not thrown off the burden in regard to wholesome things. For he whose freedom of mind is not fully mature, Meghiya, this is the fourth thing that leads to maturity.
 
-16"Furthermore, Meghiya, a monk is wise, he is endowed with wisdom that leads to seeing rise and disappearance, with noble penetration, that leads to the complete destruction of suffering. For he whose freedom of mind is not fully mature, Meghiya, this is the fifth thing that leads to maturity.
+16"Furthermore, Meghiya, a bhikkhu is wise, he is endowed with wisdom that leads to seeing rise and disappearance, with noble penetration, that leads to the complete destruction of suffering. For he whose freedom of mind is not fully mature, Meghiya, this is the fifth thing that leads to maturity.
 
 "For he whose freedom of mind is not fully mature, Meghiya, these five things leads to maturity.
 
-17"It can be expected, Meghiya, that for a monk who has a good friend, a good companion, a good comrade, that he will be virtuous, that he will live restrained with the Pāṭimokkha restraint, and will be endowed with suitable conduct and resort, seeing danger in the slightest fault, and will train in the training rules he has undertaken.
+17"It can be expected, Meghiya, that for a bhikkhu who has a good friend, a good companion, a good comrade, that he will be virtuous, that he will live restrained with the Pāṭimokkha restraint, and will be endowed with suitable conduct and resort, seeing danger in the slightest fault, and will train in the training rules he has undertaken.
 
-18"It can be expected, Meghiya, that for a monk who has a good friend, a good companion, a good comrade, that he will have talk that is very austere, that is suitable for opening up the mind, and that leads to absolute disenchantment, dispassion, cessation, peace, deep knowledge, complete Awakening and Emancipation, such as: talk on wanting little, talk on being satisfied, talk on complete seclusion, talk on disassociation, talk on stirring up energy, talk on virtue, talk on samādhi, talk on wisdom, talk on freedom, talk on knowing and seeing freedom. Such talk as this he gains as he desires, he gains without difficulty, gains without trouble.
+18"It can be expected, Meghiya, that for a bhikkhu who has a good friend, a good companion, a good comrade, that he will have talk that is very austere, that is suitable for opening up the mind, and that leads to absolute disenchantment, dispassion, cessation, peace, deep knowledge, complete Awakening and Emancipation, such as: talk on wanting little, talk on being satisfied, talk on complete seclusion, talk on disassociation, talk on stirring up energy, talk on virtue, talk on samādhi, talk on wisdom, talk on freedom, talk on knowing and seeing freedom. Such talk as this he gains as he desires, he gains without difficulty, gains without trouble.
 
-19"It can be expected, Meghiya, that for a monk who has a good friend, a good companion, a good comrade, that he will be a monk with energy aroused for the giving up of unwholesome things, for the taking up of wholesome things, steadfast, of firm endeavour, one who has not thrown off the burden in regard to wholesome things.
+19"It can be expected, Meghiya, that for a bhikkhu who has a good friend, a good companion, a good comrade, that he will be a bhikkhu with energy aroused for the giving up of unwholesome things, for the taking up of wholesome things, steadfast, of firm endeavour, one who has not thrown off the burden in regard to wholesome things.
 
-20"It can be expected, Meghiya, that for a monk who has a good friend, a good companion, a good comrade, that he will be wise, endowed with wisdom that leads to seeing rise and disappearance, with noble penetration, that leads to the complete destruction of suffering.
+20"It can be expected, Meghiya, that for a bhikkhu who has a good friend, a good companion, a good comrade, that he will be wise, endowed with wisdom that leads to seeing rise and disappearance, with noble penetration, that leads to the complete destruction of suffering.
 
 ---
 
-21"Then, Meghiya, with a monk who is established in these five things, four further things ought be be developed:
+21"Then, Meghiya, with a bhikkhu who is established in these five things, four further things ought be be developed:
 
 "The meditation on the unattractive should be developed for the giving up of passion, friendliness meditation should be developed for the giving up of ill-will, mindfulness of breathing should be developed for the cutting off of thoughts, the perception of impermanence should be developed for the complete uprooting of the conceit ‘I am’. To one who has the perception of impermanence, Meghiya, the perception of non-self is established, one who perceives non-self reaches the complete uprooting of the conceit ‘I am’, in this very life reaches Emancipation."
 

@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 107
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, brahmans & householders are very helpful to you, as they provide you with the requisites of robes, alms food, lodgings, & medical requisites for the sick. And you, monks, are very helpful to brahmans & householders, as you teach them the Dhamma admirable in the beginning, admirable in the middle, admirable in the end; as you expound the holy life both in its particulars & in its essence, entirely complete, surpassingly pure. In this way the holy life is lived in mutual dependence, for the purpose of crossing over the flood, for making a right end to stress.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, brahmans & householders are very helpful to you, as they provide you with the requisites of robes, alms food, lodgings, & medical requisites for the sick. And you, bhikkhus, are very helpful to brahmans & householders, as you teach them the Dhamma admirable in the beginning, admirable in the middle, admirable in the end; as you expound the holy life both in its particulars & in its essence, entirely complete, surpassingly pure. In this way the holy life is lived in mutual dependence, for the purpose of crossing over the flood, for making a right end to stress.”
 
 Householders & the homeless
 

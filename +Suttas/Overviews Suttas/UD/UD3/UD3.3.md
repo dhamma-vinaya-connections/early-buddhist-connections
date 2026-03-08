@@ -44,18 +44,18 @@ parallels_partilal: "[[MN67]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant who has left all deeds behind, 
+> A bhikkhu who has left all deeds behind, 
 shaking off the dust of past deeds, 
 unselfish, steady, poised, 
 has no need to complain.”
 
 > [!info] Key Excerpts 
-> “For the monk who has given up all deeds,
+> “For the bhikkhu who has given up all deeds,
 For he who is throwing off the dust of what was done before,
 For he who is unselfish, stable, such-like,
 There is no need to speak to people.”
 > 
-> A mendicant who has beaten the thorn of sensuality—
+> A bhikkhu who has beaten the thorn of sensuality—
 and abuse, killing, and caging—
 steady as a mountain, imperturbable, 
 trembles not at pleasure and pain.

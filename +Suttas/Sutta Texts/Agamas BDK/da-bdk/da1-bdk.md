@@ -18,7 +18,7 @@ language: "English"
 
 Thus have I heard. At one time, the Buddha was staying in the country of  
 Śrāvastī in the Kareri-kuṭikā quarter of Jetavana Monastery, accompanied  
-by one thousand two hundred and fifty _bhikṣu_ s (disciples, monks).  
+by one thousand two hundred and fifty _bhikṣu_ s (disciples, bhikkhus).  
 At that time, after the morning almsround was completed, some _bhikṣu_ s  
 gathered at the hall adjacent to the Kareri-kuṭikā, and each engaged in dis-  
 cussion with others, saying:
@@ -139,7 +139,7 @@ Here the Buddha continued in verse:
 
 Here the Buddha continued in verse:
 
-a wandering mendicant ( _śramaṇa_ ) on the roadway. He wore a _bhikṣu_ ’s  
+a wandering bhikkhu ( _śramaṇa_ ) on the roadway. He wore a _bhikṣu_ ’s  
 _saṃghāṭī_ robe and with his almsbowl in hand walked with his eyes  
 cast down on the road.  
 The prince at once asked the attendant: “What is this man?” He  
@@ -150,7 +150,7 @@ replied:
 The prince said:
 
 At once he instructed the attendant, “Turn the chariot around and stop  
-next to that man.” Thereupon he questioned the wandering mendicant,  
+next to that man.” Thereupon he questioned the wandering bhikkhu,  
 “Having shaven your hair and beard, donned a _saṃghāṭī_ robe, and car-  
 rying an almsbowl in your hand, what do you seek?” The _śramaṇa_  
 replied:

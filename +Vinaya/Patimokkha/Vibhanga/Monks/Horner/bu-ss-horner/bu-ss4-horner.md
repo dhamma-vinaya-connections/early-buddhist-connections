@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
 > ◄  [[bu-ss3-horner]] 📜  [[bu-ss5-horner]] ►
 
-# Monks’ Formal Meeting (_Saṅghādisesa_) 4
+# bhikkhus’ Formal Meeting (_Saṅghādisesa_) 4
 
 *BD.1.222* *Bu-Ss.4.1.1* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s park. At that time the venerable Udāyin was dependent on families, and approached many families. Now at that time there was a certain woman who was a widow, beautiful, good to look upon, lovely. Then the venerable Udāyin, rising early and taking his robe and bowl, came up to this woman’s dwelling *Vin.3.132* and having come up he sat down on the appointed seat. Then this woman approached the venerable Udāyin, and having approached she greeted the venerable Udāyin and sat down to one side. As she was sitting to one side the venerable Udāyin rejoiced, pleased, gladdened, delighted this woman with talk on _dhamma_. Then this woman having been … delighted with talk on _dhamma_ by the venerable Udāyin, said to the venerable Udāyin:
 
@@ -35,11 +35,11 @@ Other women became annoyed, vexed, angry and said: “These recluses, sons of th
 
 * * *
 
-*Bu-Ss.4.1.2* The monks heard these women who were annoyed, vexed and angry. Those who were modest monks became annoyed, vexed, angry and said:
+*Bu-Ss.4.1.2* The bhikkhus heard these women who were annoyed, vexed and angry. Those who were modest bhikkhus became annoyed, vexed, angry and said:
 
 *BD.1.224* “How can this venerable Udāyin speak in praise of ministering to sense-pleasures for self[^8] in the presence of women-folk?”
 
-Then these monks told this matter to the lord. Then the lord for this reason, on this occasion, having had the Order of monks convened, *Vin.3.133* questioned the venerable Udāyin, saying:
+Then these bhikkhus told this matter to the lord. Then the lord for this reason, on this occasion, having had the Order of bhikkhus convened, *Vin.3.133* questioned the venerable Udāyin, saying:
 
 “Is it true as is said that you, Udāyin, spoke in praise of ministering to sense-pleasures for self in the presence of women-folk?”
 
@@ -47,9 +47,9 @@ Then these monks told this matter to the lord. Then the lord for this reason, on
 
 The enlightened one, the lord, rebuked him saying:
 
-“It is not right, foolish man, it is not becoming, it is not suitable, it is not worthy of a recluse, it is out of place, it is not to be done. How can you, foolish man, speak in praise of ministering to sense-pleasures for self in the presence of women-folk? Foolish man, is not _dhamma_ preached by me in various ways for the stilling of passion … the allaying of the flames of sense-pleasures declared? It is not, foolish man, for the benefit of unbelievers …Thus, monks, this course of training should be set forth:
+“It is not right, foolish man, it is not becoming, it is not suitable, it is not worthy of a recluse, it is out of place, it is not to be done. How can you, foolish man, speak in praise of ministering to sense-pleasures for self in the presence of women-folk? Foolish man, is not _dhamma_ preached by me in various ways for the stilling of passion … the allaying of the flames of sense-pleasures declared? It is not, foolish man, for the benefit of unbelievers …Thus, bhikkhus, this course of training should be set forth:
 
-“Whatever monk, affected by desire,[^9] with perverted heart,[^10] should speak in praise of ministering to sense-pleasures for self in the presence of women-folk, saying: ‘Sister, this is the highest kind of ministration: that a woman[^11] should minister to one like me, virtuous, of *BD.1.225* good conduct, leading the Brahma-life, in this fashion’[^12]—meaning with what is connected with sexual intercourse—that is an offence entailing a formal meeting of the Order.”
+“Whatever bhikkhu, affected by desire,[^9] with perverted heart,[^10] should speak in praise of ministering to sense-pleasures for self in the presence of women-folk, saying: ‘Sister, this is the highest kind of ministration: that a woman[^11] should minister to one like me, virtuous, of *BD.1.225* good conduct, leading the Brahma-life, in this fashion’[^12]—meaning with what is connected with sexual intercourse—that is an offence entailing a formal meeting of the Order.”
 
 * * *
 
@@ -81,7 +81,7 @@ A formal meeting of the Order means: … because of this it is called a formal m
 
 * * *
 
-*Bu-Ss.4.3.1* If there is a woman, if he is infatuated thinking her to be a woman, and if the monk speaks in praise, in the woman’s presence, of ministering to sense-pleasures for self, it is an offence entailing a formal meeting of the Order.
+*Bu-Ss.4.3.1* If there is a woman, if he is infatuated thinking her to be a woman, and if the bhikkhu speaks in praise, in the woman’s presence, of ministering to sense-pleasures for self, it is an offence entailing a formal meeting of the Order.
 
 If there are two women, if … thinking they are two women … there are two offences … a formal meeting of the Order.
 
@@ -97,7 +97,7 @@ How can I be charming?
 What may I give? With what shall I support (you)?  
 How can I go to a good bourn?
 
-At one time a certain barren woman said to a monk dependent on (her) family: “How could I, honoured sir, bear (a child)?”
+At one time a certain barren woman said to a bhikkhu dependent on (her) family: “How could I, honoured sir, bear (a child)?”
 
 *BD.1.227* “For this, sister, give the highest gift.”
 
@@ -109,19 +109,19 @@ He was remorseful … “… a formal meeting of the Order.”
 
 * * *
 
-*Bu-Ss.4.4.2* At one time a certain fertile woman said to a monk dependent on (her) family: “How could I, honoured sir, get a son?”
+*Bu-Ss.4.4.2* At one time a certain fertile woman said to a bhikkhu dependent on (her) family: “How could I, honoured sir, get a son?”
 
 “For this, sister, give the highest gift … “… a formal meeting of the Order.”
 
 * * *
 
-*Bu-Ss.4.4.3* At one time a certain woman said to a monk dependent on (her) family: “How could I, honoured sir, be dear to (my) husband?” … “How could I, honoured sir, be charming?”
+*Bu-Ss.4.4.3* At one time a certain woman said to a bhikkhu dependent on (her) family: “How could I, honoured sir, be dear to (my) husband?” … “How could I, honoured sir, be charming?”
 
 “For this, sister, give the highest gift ”… “… a formal meeting of the Order.”
 
 * * *
 
-*Bu-Ss.4.4.4* At one time a certain woman said to a monk dependent on (her) family:
+*Bu-Ss.4.4.4* At one time a certain woman said to a bhikkhu dependent on (her) family:
 
 “What, honoured sir, may I give to the master?”
 
@@ -133,7 +133,7 @@ He was remorseful … “… a formal meeting of the Order.”
 
 * * *
 
-*Bu-Ss.4.4.5* At one time a certain woman said to a monk dependent on (her) family:
+*Bu-Ss.4.4.5* At one time a certain woman said to a bhikkhu dependent on (her) family:
 
 “With what can I, honoured sir, support the master?”
 
@@ -143,7 +143,7 @@ He was remorseful … “… a formal meeting of the Order.”
 
 * * *
 
-*Bu-Ss.4.4.6* At one time a certain woman said to a monk dependent on (her) family:
+*Bu-Ss.4.4.6* At one time a certain woman said to a bhikkhu dependent on (her) family:
 
 *BD.1.228* “How can I go to a good bourn, honoured sir?”
 
@@ -157,7 +157,7 @@ Told is the Fourth offence entailing a Formal Meeting of the Order
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

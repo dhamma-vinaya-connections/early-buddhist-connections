@@ -27,7 +27,7 @@ language: "Pali"
 
 183To avoid all evil, to cultivate good, and to cleanse one's mind — this is the teaching of the Buddhas.
 
-184Enduring patience is the highest austerity. "Nibbāna is supreme," say the Buddhas. He is not a true monk who harms another, nor a true renunciate who oppresses others.
+184Enduring patience is the highest austerity. "Nibbāna is supreme," say the Buddhas. He is not a true bhikkhu who harms another, nor a true renunciate who oppresses others.
 
 185Not despising, not harming, restraint according to the code of monastic discipline, moderation in food, dwelling in solitude, devotion to meditation — this is the teaching of the Buddhas.
 

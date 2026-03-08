@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1If they develop the basis of psychic power that has immersion due to enthusiasm, and active effort … the basis of psychic power that has immersion due to energy, and active effort … the basis of psychic power that has immersion due to mental development, and active effort … the basis of psychic power that has immersion due to inquiry, and active effort, even for the time of a finger snap …
+1If they develop the ![[Iddhipadas]] that has immersion due to energy, and active effort … the ![[Iddhipadas]] that has immersion due to inquiry, and active effort, even for the time of a finger snap …
 
 #### Pali
 

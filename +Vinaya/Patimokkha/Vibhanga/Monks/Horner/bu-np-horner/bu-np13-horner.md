@@ -7,21 +7,21 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP13]]
 > ◄  [[bu-np12-horner]] 📜  [[bu-np14-horner]] ►
 
-# Monks’ Forfeiture (_Nissaggiya_) 13
+# bhikkhus’ Forfeiture (_Nissaggiya_) 13
 
-*Bu-NP.13.1.1* *BD.2.76* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. At that time the group of six monks said: “It is forbidden by the lord to have a rug made of pure black sheep’s wool.”[^1] And these, taking only a little white for the seam,[^2] all the same[^3] had a rug made of pure black sheep’s wool. Those who were modest monks … spread it about, saying:
+*Bu-NP.13.1.1* *BD.2.76* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery. At that time the group of six bhikkhus said: “It is forbidden by the lord to have a rug made of pure black sheep’s wool.”[^1] And these, taking only a little white for the seam,[^2] all the same[^3] had a rug made of pure black sheep’s wool. Those who were modest bhikkhus … spread it about, saying:
 
-“How can this group of six monks, taking only a little white for the seam, all the same have a rug made of pure black sheep’s wool?” Then these monks told this matter to the lord. He said:
+“How can this group of six bhikkhus, taking only a little white for the seam, all the same have a rug made of pure black sheep’s wool?” Then these bhikkhus told this matter to the lord. He said:
 
-“Is it true, as is said, that you, monks, taking only a little white for the seam, all the same had a rug made of pure black sheep’s wool?”
+“Is it true, as is said, that you, bhikkhus, taking only a little white for the seam, all the same had a rug made of pure black sheep’s wool?”
 
 “It is true, lord,” they said.
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, taking … pure black sheep’s wool? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, taking … pure black sheep’s wool? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“When a new rug is being made for a monk, two portions of pure black sheep’s wool may be taken, the third of white, the fourth of reddish brown colours.[^4] *BD.2.77* If a monk should cause a new rug to be made not taking two portions of pure black sheep’s wool, the third of white, the fourth of reddish brown colours, there is an offence of expiation involving forfeiture.”
+“When a new rug is being made for a bhikkhu, two portions of pure black sheep’s wool may be taken, the third of white, the fourth of reddish brown colours.[^4] *BD.2.77* If a bhikkhu should cause a new rug to be made not taking two portions of pure black sheep’s wool, the third of white, the fourth of reddish brown colours, there is an offence of expiation involving forfeiture.”
 
 * * *
 
@@ -37,7 +37,7 @@ The third of white means: a _tulā_ weight of white.
 
 The fourth of reddish brown colours means: a _tulā_ weight of reddish brown colours. *Vin.3.227*
 
-If a monk … not taking two portions of pure black sheep’s wool, the third of white, the fourth of reddish brown colours means: if he makes or causes a new rug to be made not taking a _tulā_, weight of white, a _tulā_, weight of reddish brown colours, there is an offence of wrong-doing in the action; it should be forfeited on acquisition. It should be forfeited to … an individual. And thus, monks, should it be forfeited: ‘Honoured sirs, this rug which I caused to be made not taking a _tulā_ weight of white, a _tulā_ weight of reddish brown colours, is to be forfeited. I forfeit it to the Order.’ … ‘… the Order should give back … let them give back … I will give back this rug to the venerable one.’
+If a bhikkhu … not taking two portions of pure black sheep’s wool, the third of white, the fourth of reddish brown colours means: if he makes or causes a new rug to be made not taking a _tulā_, weight of white, a _tulā_, weight of reddish brown colours, there is an offence of wrong-doing in the action; it should be forfeited on acquisition. It should be forfeited to … an individual. And thus, bhikkhus, should it be forfeited: ‘Honoured sirs, this rug which I caused to be made not taking a _tulā_ weight of white, a _tulā_ weight of reddish brown colours, is to be forfeited. I forfeit it to the Order.’ … ‘… the Order should give back … let them give back … I will give back this rug to the venerable one.’
 
 If what was incompletely executed by himself, he has finished by himself … See *Bu-NP.11.2.2* … he makes use of it, there is an offence of wrong-doing.
 
@@ -47,7 +47,7 @@ There is no offence if he makes it taking a _tulā_ weight of white, a _tulā_ w
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

@@ -19,13 +19,13 @@ language: "English"
 
 1. Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “Because of what’s existence, what’s cause, being bound by what, adherence to what, and viewing what as self causes the arising of grief, sorrow, pain, and trouble that have yet to arise and increases the grief, sorrow, pain, and trouble that have already arisen?”
+2. It was then that the Bhagavān addressed the bhikkhus, “Because of what’s existence, what’s cause, being bound by what, adherence to what, and viewing what as self causes the arising of grief, sorrow, pain, and trouble that have yet to arise and increases the grief, sorrow, pain, and trouble that have already arisen?”
 
-3. The monks said to the Buddha, “The Bhagavān is the Dharma root, the Dharma eye, and the Dharma refuge! Please explain this in detail! After hearing it, we monks will accept and approve of it.”
+3. The bhikkhus said to the Buddha, “The Bhagavān is the Dharma root, the Dharma eye, and the Dharma refuge! Please explain this in detail! After hearing it, we bhikkhus will accept and approve of it.”
 
-4. The Buddha addressed the monks, “It’s because of form’s existence, form being something caused, being bound by form, adherence to form, and viewing form as self. This causes the arising of grief, sorrow, pain, and trouble that have yet to arise and increases the grief, sorrow, pain, and trouble that have already arisen. _Feeling, conception, volition, and consciousness are likewise_.
+4. The Buddha addressed the bhikkhus, “It’s because of form’s existence, form being something caused, being bound by form, adherence to form, and viewing form as self. This causes the arising of grief, sorrow, pain, and trouble that have yet to arise and increases the grief, sorrow, pain, and trouble that have already arisen. _Feeling, conception, volition, and consciousness are likewise_.
 
-5. “Monks, what do you think? Is form permanent, or is it impermanent?”
+5. “bhikkhus, what do you think? Is form permanent, or is it impermanent?”
 
 “Impermanent, Bhagavān!”
 
@@ -33,9 +33,9 @@ language: "English"
 
 “It’s painful, Bhagavān!”
 
-7. “So it is, monks. If something is impermanent, it’s painful. It’s because of this pain’s existence, it being something caused, being bound by it, adherence to it, and viewing it as self. This causes the arising of grief, sorrow, pain, and trouble that have yet to arise and increases the grief, sorrow, pain, and trouble that have already arisen. _Feeling, conception, volition, and consciousness are likewise_.
+7. “So it is, bhikkhus. If something is impermanent, it’s painful. It’s because of this pain’s existence, it being something caused, being bound by it, adherence to it, and viewing it as self. This causes the arising of grief, sorrow, pain, and trouble that have yet to arise and increases the grief, sorrow, pain, and trouble that have already arisen. _Feeling, conception, volition, and consciousness are likewise_.
 
-8. “Therefore, monks, all forms that exist, whether past, future, or present, internal or external, coarse or fine, beautiful or ugly, and distant or near are not self, not different than self, nor are either present in the other. This is called correct wisdom. _Feeling, conception, volition, and consciousness are likewise_.
+8. “Therefore, bhikkhus, all forms that exist, whether past, future, or present, internal or external, coarse or fine, beautiful or ugly, and distant or near are not self, not different than self, nor are either present in the other. This is called correct wisdom. _Feeling, conception, volition, and consciousness are likewise_.
 
 9. “Again, all that’s seen, heard, realized, recognized, sought, attained, remembered, considered, or examined is not self, not different than self, nor are either present in the other. This is called correct wisdom.
 
@@ -45,9 +45,9 @@ language: "English"
 
 12. “Suppose a well-versed noble disciple observes these six abodes of views as not self and not belonging to self. Such observation ends suspicions about the Buddha and ends suspicions about the Dharma and Saṅgha.
 
-13. Monks, this is called a well-versed noble disciple who is no longer capable of doing physical, verbal, or mental actions that lead to the three bad destinies. Even if they are negligent, this noble disciple is certainly headed for complete awakening. With seven rebirths in heaven or among humans, they’ll reach the limit of suffering.”
+13. bhikkhus, this is called a well-versed noble disciple who is no longer capable of doing physical, verbal, or mental actions that lead to the three bad destinies. Even if they are negligent, this noble disciple is certainly headed for complete awakening. With seven rebirths in heaven or among humans, they’ll reach the limit of suffering.”
 
-13. After the Buddha spoke this sūtra, the monks who heard what he taught rejoiced and approved.
+13. After the Buddha spoke this sūtra, the bhikkhus who heard what he taught rejoiced and approved.
 
 ---
 

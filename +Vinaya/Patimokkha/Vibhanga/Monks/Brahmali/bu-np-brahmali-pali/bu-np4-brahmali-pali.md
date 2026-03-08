@@ -32,7 +32,7 @@ She then took some of the semen in her mouth and inserted some into her vagina. 
 She said, “Venerables, I do abstain from sex,” and she told them what had happened.
 
 
-The nuns complained and criticized Udāyī, “How could Venerable Udāyī get a nun to wash a used robe?” They then told the monks. The monks of few desires complained and criticized him, “How could Venerable Udāyī get a nun to wash a used robe?”
+The nuns complained and criticized Udāyī, “How could Venerable Udāyī get a nun to wash a used robe?” They then told the bhikkhus. The bhikkhus of few desires complained and criticized him, “How could Venerable Udāyī get a nun to wash a used robe?”
 
 3After rebuking him in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned Udāyī: “Is it true, Udāyī, that you did this?”
 
@@ -42,7 +42,7 @@ The nuns complained and criticized Udāyī, “How could Venerable Udāyī get a
 
 “No.”
 
-“Foolish man, a man and a woman who are unrelated don’t know what’s appropriate and inappropriate, what’s inspiring and uninspiring, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“Foolish man, a man and a woman who are unrelated don’t know what’s appropriate and inappropriate, what’s inspiring and uninspiring, in dealing with each other. And still you did this. This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
@@ -61,7 +61,7 @@ The nuns complained and criticized Udāyī, “How could Venerable Udāyī get a
 9If he tells her to wash it, he commits an offense of wrong conduct. When it has been washed, it becomes subject to relinquishment. If he tells her to dye it, he commits an offense of wrong conduct. When it has been dyed, it becomes subject to relinquishment. If he tells her to beat it, he commits an offense of wrong conduct. When she has struck it once with her hand or with an implement, it becomes subject to relinquishment.
 
 
-The robe should be relinquished to a saṅgha, a group, or an individual. “And, monks, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
+The robe should be relinquished to a saṅgha, a group, or an individual. “And, bhikkhus, it should be relinquished like this. To be expanded as in [[bu-np1#p17|Nissaggiya Pācittiya 1 verse 17]] with appropriate substitutions.
 
 
 ‘Venerables, this used robe, which I got an unrelated nun to wash, is to be relinquished. I relinquish it to the Sangha.’ … the Sangha should give … you should give … ‘I give this robe back to you.’”

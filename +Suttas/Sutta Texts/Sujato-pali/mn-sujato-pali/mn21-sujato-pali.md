@@ -20,20 +20,20 @@ language: "English - Pali"
 
 1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.
 
-Now at that time, Venerable Phagguna of the Top-Knot was mixing too closely together with the nuns. So much so that if any mendicant criticized those nuns in his presence, Phagguna of the Top-Knot got angry and upset, and even instigated disciplinary proceedings. And if any mendicant criticized Phagguna of the Top-Knot in their presence, those nuns got angry and upset, and even instigated disciplinary proceedings. That’s how much Phagguna of the Top-Knot was mixing too closely together with the nuns.
+Now at that time, Venerable Phagguna of the Top-Knot was mixing too closely together with the nuns. So much so that if any bhikkhu criticized those nuns in his presence, Phagguna of the Top-Knot got angry and upset, and even instigated disciplinary proceedings. And if any bhikkhu criticized Phagguna of the Top-Knot in their presence, those nuns got angry and upset, and even instigated disciplinary proceedings. That’s how much Phagguna of the Top-Knot was mixing too closely together with the nuns.
 
 
-2Then a mendicant went up to the Buddha, bowed, sat down to one side, and told him what was going on.
+2Then a bhikkhu went up to the Buddha, bowed, sat down to one side, and told him what was going on.
 
 
-3So the Buddha said to a certain monk: “Please, monk, in my name tell the mendicant Phagguna of the Top-Knot that the teacher summons him.”
+3So the Buddha said to a certain bhikkhu: “Please, bhikkhu, in my name tell the bhikkhu Phagguna of the Top-Knot that the teacher summons him.”
 
-“Yes, sir,” that monk replied. He went to Phagguna of the Top-Knot and said to him: “Reverend Phagguna, the teacher summons you.”
+“Yes, sir,” that bhikkhu replied. He went to Phagguna of the Top-Knot and said to him: “Reverend Phagguna, the teacher summons you.”
 
 “Yes, reverend,” Phagguna replied. He went to the Buddha, bowed, and sat down to one side. The Buddha said to him:
 
 
-4“Is it really true, Phagguna, that you’ve been mixing overly closely together with the nuns? So much so that if any mendicant criticizes those nuns in your presence, you get angry and upset, and even instigate disciplinary proceedings? And if any mendicant criticizes you in those nuns’ presence, they get angry and upset, and even instigate disciplinary proceedings? Is that how much you’re mixing overly closely together with the nuns?”
+4“Is it really true, Phagguna, that you’ve been mixing overly closely together with the nuns? So much so that if any bhikkhu criticizes those nuns in your presence, you get angry and upset, and even instigate disciplinary proceedings? And if any bhikkhu criticizes you in those nuns’ presence, they get angry and upset, and even instigate disciplinary proceedings? Is that how much you’re mixing overly closely together with the nuns?”
 
 “Yes, sir.”
 
@@ -49,21 +49,21 @@ Now at that time, Venerable Phagguna of the Top-Knot was mixing too closely toge
 
 8So Phagguṇa, even if someone strikes you with fists, stones, rods, and swords, you should give up any desires or thoughts of the lay life. If that happens, you should train like this: ‘My mind will be unaffected. I will blurt out no bad words. I will remain full of compassion, with a heart of love and no secret hate.’ That’s how you should train.”
 
-9Then the Buddha said to the mendicants:
+9Then the Buddha said to the bhikkhus:
 
-“Mendicants, I used to be satisfied with the mendicants. Once, I addressed them: ‘I eat my food in one sitting per day. Doing so, I find that I’m healthy and well, nimble, strong, and living comfortably. You too should eat your food in one sitting per day. Doing so, you’ll find that you’re healthy and well, nimble, strong, and living comfortably.’ I didn’t have to keep on instructing those mendicants; I just had to prompt their mindfulness.
+“bhikkhus, I used to be satisfied with the bhikkhus. Once, I addressed them: ‘I eat my food in one sitting per day. Doing so, I find that I’m healthy and well, nimble, strong, and living comfortably. You too should eat your food in one sitting per day. Doing so, you’ll find that you’re healthy and well, nimble, strong, and living comfortably.’ I didn’t have to keep on instructing those bhikkhus; I just had to prompt their mindfulness.
 
 
 10Suppose a chariot stood harnessed to thoroughbreds at a level crossroads, with a goad ready. Then a deft horse trainer, a master charioteer, might mount the chariot, taking the reins in his right hand and goad in the left. He’d drive out and back wherever he wishes, whenever he wishes.
 
-In the same way, I didn’t have to keep on instructing those mendicants; I just had to prompt their mindfulness. So, mendicants, give up what’s unskillful and devote yourselves to skillful qualities. In this way you’ll achieve growth, improvement, and maturity in this teaching and training.
+In the same way, I didn’t have to keep on instructing those bhikkhus; I just had to prompt their mindfulness. So, bhikkhus, give up what’s unskillful and devote yourselves to skillful qualities. In this way you’ll achieve growth, improvement, and maturity in this teaching and training.
 
 11Suppose that not far from a town or village there was a large grove of sal trees that was choked with castor-oil weeds. Then along comes a person who wants to help protect and nurture that grove. They’d cut down the crooked sal saplings that were robbing the sap, and throw them out. They’d clean up the interior of the grove, and properly care for the straight, well-formed sal saplings. In this way, in due course, that sal grove would grow, increase, and mature.
 
-In the same way, mendicants, give up what’s unskillful and devote yourselves to skillful qualities. In this way you’ll achieve growth, improvement, and maturity in this teaching and training.
+In the same way, bhikkhus, give up what’s unskillful and devote yourselves to skillful qualities. In this way you’ll achieve growth, improvement, and maturity in this teaching and training.
 
 
-12Once upon a time, mendicants, right here in Sāvatthī there was a housewife named Vedehikā. She had this good reputation: ‘The housewife Vedehikā is sweet, even-tempered, and calm.’ Now, Vedehikā had a bonded maid named Kāḷī who was skilled, tireless, and well-organized in her work.
+12Once upon a time, bhikkhus, right here in Sāvatthī there was a housewife named Vedehikā. She had this good reputation: ‘The housewife Vedehikā is sweet, even-tempered, and calm.’ Now, Vedehikā had a bonded maid named Kāḷī who was skilled, tireless, and well-organized in her work.
 
 13Then Kāḷī thought, ‘My mistress has a good reputation as being sweet, even-tempered, and calm. But does she actually have anger in her and just not show it? Or does she have no anger? Or is it just because my work is well-organized that she doesn’t show anger, even though she still has it inside? Why don’t I test my mistress?’
 
@@ -113,14 +113,14 @@ Then Kāḷī, with blood pouring from her cracked skull, denounced her mistress
 
 16Then after some time the housewife Vedehikā got this bad reputation: ‘The housewife Vedehikā is fierce, ill-tempered, and not calm at all.’
 
-17In the same way, a mendicant may be the sweetest of the sweet, the most even-tempered of the even-tempered, the calmest of the calm, so long as they don’t encounter any disagreeable criticism. But it’s when they encounter disagreeable criticism that you’ll know whether they’re really sweet, even-tempered, and calm. I don’t say that a mendicant is easy to admonish if they make themselves easy to admonish only for the sake of robes, alms-food, lodgings, and medicines and supplies for the sick. Why is that? Because when they don’t get robes, alms-food, lodgings, and medicines and supplies for the sick, they’re no longer easy to admonish. But when a mendicant is easy to admonish purely because they honor, respect, revere, worship, and venerate the teaching, then I say that they’re easy to admonish. So, mendicants, you should train yourselves: ‘We will be easy to admonish purely because we honor, respect, revere, worship, and venerate the teaching.’ That’s how you should train.
+17In the same way, a bhikkhu may be the sweetest of the sweet, the most even-tempered of the even-tempered, the calmest of the calm, so long as they don’t encounter any disagreeable criticism. But it’s when they encounter disagreeable criticism that you’ll know whether they’re really sweet, even-tempered, and calm. I don’t say that a bhikkhu is easy to admonish if they make themselves easy to admonish only for the sake of robes, alms-food, lodgings, and medicines and supplies for the sick. Why is that? Because when they don’t get robes, alms-food, lodgings, and medicines and supplies for the sick, they’re no longer easy to admonish. But when a bhikkhu is easy to admonish purely because they honor, respect, revere, worship, and venerate the teaching, then I say that they’re easy to admonish. So, bhikkhus, you should train yourselves: ‘We will be easy to admonish purely because we honor, respect, revere, worship, and venerate the teaching.’ That’s how you should train.
 
-18Mendicants, there are these five ways in which others might criticize you. Their speech may be timely or untimely, true or false, gentle or harsh, beneficial or harmful, from a heart of love or from secret hate. When others criticize you, they may do so in any of these ways. If that happens, you should train like this: ‘Our minds will remain unaffected. We will blurt out no bad words. We will remain full of compassion, with a heart of love and no secret hate. We will meditate spreading a heart of love to that person. And with them as a basis, we will meditate spreading a heart full of love to everyone in the world — abundant, expansive, limitless, free of enmity and ill will.’ That’s how you should train.
+18bhikkhus, there are these five ways in which others might criticize you. Their speech may be timely or untimely, true or false, gentle or harsh, beneficial or harmful, from a heart of love or from secret hate. When others criticize you, they may do so in any of these ways. If that happens, you should train like this: ‘Our minds will remain unaffected. We will blurt out no bad words. We will remain full of compassion, with a heart of love and no secret hate. We will meditate spreading a heart of love to that person. And with them as a basis, we will meditate spreading a heart full of love to everyone in the world — abundant, expansive, limitless, free of enmity and ill will.’ That’s how you should train.
 
 
 19Suppose a person was to come along carrying a spade and basket and say, ‘I shall make this great earth be without earth!’ And they’d dig all over, scatter all over, spit all over, and urinate all over, saying, ‘Be without earth! Be without earth!’
 
-What do you think, mendicants? Could that person make this great earth be without earth?”
+What do you think, bhikkhus? Could that person make this great earth be without earth?”
 
 
 “No, sir. Why is that? Because this great earth is deep and limitless. It’s not easy to make it be without earth. That person will eventually get weary and frustrated.”
@@ -130,7 +130,7 @@ What do you think, mendicants? Could that person make this great earth be withou
 
 20Suppose a person was to come along with dye such as red lac, turmeric, indigo, or rose madder, and say, ‘I shall draw pictures on the sky, making pictures appear there.’
 
-What do you think, mendicants? Could that person draw pictures on the sky?”
+What do you think, bhikkhus? Could that person draw pictures on the sky?”
 
 “No, sir. Why is that? Because the sky is formless and invisible. It’s not easy to draw pictures there. That person will eventually get weary and frustrated.”
 
@@ -140,7 +140,7 @@ What do you think, mendicants? Could that person draw pictures on the sky?”
 
 22Suppose a person was to come along carrying a blazing grass torch, and say, ‘I shall burn and scorch the river Ganges with this blazing grass torch.’
 
-What do you think, mendicants? Could that person burn and scorch the river Ganges with a blazing grass torch?”
+What do you think, bhikkhus? Could that person burn and scorch the river Ganges with a blazing grass torch?”
 
 
 “No, sir. Why is that? Because the river Ganges is deep and limitless. It’s not easy to burn and scorch it with a blazing grass torch. That person will eventually get weary and frustrated.”
@@ -150,7 +150,7 @@ What do you think, mendicants? Could that person burn and scorch the river Gange
 
 23Suppose there was a catskin bag that was rubbed, well-rubbed, very well-rubbed, soft, silky, rid of rustling and crackling. Then a person comes along carrying a stick or a stone, and says, ‘I shall make this soft catskin bag rustle and crackle with this stick or stone.’
 
-What do you think, mendicants? Could that person make that soft catskin bag rustle and crackle with that stick or stone?”
+What do you think, bhikkhus? Could that person make that soft catskin bag rustle and crackle with that stick or stone?”
 
 “No, sir. Why is that? Because that catskin bag is rubbed, well-rubbed, very well-rubbed, soft, silky, rid of rustling and crackling. It’s not easy to make it rustle or crackle with a stick or stone. That person will eventually get weary and frustrated.”
 
@@ -163,10 +163,10 @@ What do you think, mendicants? Could that person make that soft catskin bag rust
 
 “No, sir.”
 
-“So, mendicants, you should frequently reflect on this advice, the simile of the saw. This will be for your lasting welfare and happiness.”
+“So, bhikkhus, you should frequently reflect on this advice, the simile of the saw. This will be for your lasting welfare and happiness.”
 
 
-26That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+26That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

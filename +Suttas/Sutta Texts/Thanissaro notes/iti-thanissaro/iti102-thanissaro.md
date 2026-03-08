@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 102
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, for one knowing & seeing, I tell you, there is the ending of effluents, not for one not knowing & seeing. For one knowing what & seeing what is there the ending of effluents? For one knowing & seeing, ‘This is stress,’ there is the ending of effluents. For one knowing & seeing, ‘This is the origination of stress,’ there is the ending of effluents. For one knowing & seeing, ‘This is the cessation of stress,’ there is the ending of effluents. For one knowing & seeing, ‘This is the path of practice leading to the cessation of stress,’ there is the ending of effluents. For one knowing in this way and seeing in this way is there the ending of effluents.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, for one knowing & seeing, I tell you, there is the ending of effluents, not for one not knowing & seeing. For one knowing what & seeing what is there the ending of effluents? For one knowing & seeing, ‘This is stress,’ there is the ending of effluents. For one knowing & seeing, ‘This is the origination of stress,’ there is the ending of effluents. For one knowing & seeing, ‘This is the cessation of stress,’ there is the ending of effluents. For one knowing & seeing, ‘This is the path of practice leading to the cessation of stress,’ there is the ending of effluents. For one knowing in this way and seeing in this way is there the ending of effluents.”
 
 For a learner in training
 

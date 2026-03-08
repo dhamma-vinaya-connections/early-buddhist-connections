@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single thing that leads to the decline and disappearance of the true teaching like negligence. Negligence leads to the decline and disappearance of the true teaching.”
+1“bhikkhus, I do not see a single thing that leads to the decline and disappearance of the true teaching like negligence. Negligence leads to the decline and disappearance of the true teaching.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yo evaṁ saddhammassa sammosāya antaradhānāya saṁvattati yathayidaṁ, bhikkhave, pamādo. Pamādo, bhikkhave, saddhammassa sammosāya antaradhānāya saṁvattatī"ti.
 

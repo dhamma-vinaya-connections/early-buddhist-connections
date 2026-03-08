@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a fine royal thoroughbred with four factors is worthy of a king, fit to serve a king, and considered a factor of kingship. What four? Integrity, speed, patience, and sweetness. A fine royal thoroughbred with these four factors is worthy of a king. …
+1“bhikkhus, a fine royal thoroughbred with four factors is worthy of a king, fit to serve a king, and considered a factor of kingship. What four? Integrity, speed, patience, and sweetness. A fine royal thoroughbred with these four factors is worthy of a king. …
 
-2In the same way, a mendicant with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What four? Integrity, speed, patience, and sweetness. A mendicant with these four factors … is the supreme field of merit for the world.”
+2In the same way, a bhikkhu with four factors is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of veneration with joined palms, and is the supreme field of merit for the world. What four? Integrity, speed, patience, and sweetness. A bhikkhu with these four factors … is the supreme field of merit for the world.”
 
 1"Catūhi, bhikkhave, aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṁ gacchati. Katamehi catūhi? Ajjavena, javena, khantiyā, soraccena – imehi kho, bhikkhave, catūhi aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti, rājabhoggo, rañño aṅganteva saṅkhaṁ gacchati.
 

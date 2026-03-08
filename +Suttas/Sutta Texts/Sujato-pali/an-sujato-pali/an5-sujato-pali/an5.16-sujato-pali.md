@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these five powers. What five? The powers of faith, energy, mindfulness, immersion, and wisdom. These are the five powers. Of these five powers, the power of wisdom is the chief. It holds and binds everything together. It’s like a bungalow. The roof-peak is the chief point, which holds and binds everything together. In the same way, of these five powers, the power of wisdom is the chief. It holds and binds everything together.”
+1“bhikkhus, there are these five powers. What five? The powers of faith, energy, mindfulness, immersion, and wisdom. These are the five powers. Of these five powers, the power of wisdom is the chief. It holds and binds everything together. It’s like a bungalow. The roof-peak is the chief point, which holds and binds everything together. In the same way, of these five powers, the power of wisdom is the chief. It holds and binds everything together.”
 
 1"Pañcimāni, bhikkhave, balāni. Katamāni pañca? Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ – imāni kho, bhikkhave, pañca balāni. Imesaṁ kho, bhikkhave, pañcannaṁ balānaṁ etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghātaniyaṁ, yadidaṁ paññābalaṁ. Seyyathāpi, bhikkhave, kūṭāgārassa etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghātaniyaṁ, yadidaṁ kūṭaṁ. Evamevaṁ kho, bhikkhave, imesaṁ pañcannaṁ balānaṁ etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghātaniyaṁ, yadidaṁ paññābalan"ti.
 

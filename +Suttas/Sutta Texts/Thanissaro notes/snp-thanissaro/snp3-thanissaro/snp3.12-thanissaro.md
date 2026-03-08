@@ -12,7 +12,7 @@ language: "English"
 
 # 3:12  The Contemplation of Dualities
 
-I have heard that on one occasion the Blessed One was staying near Sāvatthī in the Eastern Monastery, the palace of Migāra’s mother. Now on that occasion—the uposatha day of the fifteenth, a perfect full-moon night—the Blessed One was sitting in the open air surrounded by the Saṅgha of monks. Surveying the silent Saṅgha of monks, he addressed them: “Monks, if there are any who ask, ‘Your listening to teachings that are skillful, noble, leading onward, going to self-awakening is a prerequisite for what?’ they should be told, ‘For the sake of knowing qualities of dualities as they actually are.’ Which duality are you speaking about? ‘This is stress. This is the origination of stress’: This is one contemplation. ‘This is the cessation of stress. This is the path of practice leading to the cessation of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+I have heard that on one occasion the Blessed One was staying near Sāvatthī in the Eastern Monastery, the palace of Migāra’s mother. Now on that occasion—the uposatha day of the fifteenth, a perfect full-moon night—the Blessed One was sitting in the open air surrounded by the Saṅgha of bhikkhus. Surveying the silent Saṅgha of bhikkhus, he addressed them: “bhikkhus, if there are any who ask, ‘Your listening to teachings that are skillful, noble, leading onward, going to self-awakening is a prerequisite for what?’ they should be told, ‘For the sake of knowing qualities of dualities as they actually are.’ Which duality are you speaking about? ‘This is stress. This is the origination of stress’: This is one contemplation. ‘This is the cessation of stress. This is the path of practice leading to the cessation of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -68,7 +68,7 @@ they aren’t headed
 
 to birth & aging.[1](#^snp3-12-01) ^snp3-12-01-ref
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from acquisition[2](#^snp3-12-02) as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very acquisition, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.” ^snp3-12-02-ref
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from acquisition[2](#^snp3-12-02) as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very acquisition, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.” ^snp3-12-02-ref
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -96,7 +96,7 @@ as you stay focused on
 
 the birth & origin of stress.”
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from ignorance as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very ignorance, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from ignorance as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very ignorance, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -120,7 +120,7 @@ While beings immersed in clear knowing
 
 don’t go to further becoming.
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from fabrication as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very fabrication, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from fabrication as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very fabrication, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -168,7 +168,7 @@ conquering the fetter of Māra—
 
 go to no further becoming.
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from consciousness as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very consciousness, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from consciousness as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very consciousness, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -194,13 +194,13 @@ as a requisite
 
 condition—
 
-with the stilling of consciousness, the monk
+with the stilling of consciousness, the bhikkhu
 
 free from hunger
 
 is totally unbound.
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from contact as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very contact, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from contact as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very contact, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -224,7 +224,7 @@ free from hunger,
 
 are totally unbound.
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from feeling as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very feeling, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from feeling as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very feeling, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -262,7 +262,7 @@ there is no stress
 
 coming into play.
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from craving as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very craving, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from craving as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very craving, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -286,11 +286,11 @@ free     from craving,
 
 devoid     of clinging,
 
-mindful,     the monk
+mindful,     the bhikkhu
 
-lives the mendicant life.”[3](#^snp3-12-03) ^snp3-12-03-ref
+lives the bhikkhu life.”[3](#^snp3-12-03) ^snp3-12-03-ref
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from clinging as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very clinging, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from clinging as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very clinging, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -322,7 +322,7 @@ the ending of birth,
 
 go to no further becoming.
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from arousal[4](#^snp3-12-04) as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very arousal, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.” ^snp3-12-04-ref
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from arousal[4](#^snp3-12-04) as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very arousal, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.” ^snp3-12-04-ref
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -352,7 +352,7 @@ with the relinquishing
 
 of all arousal,
 
-a monk released in non-arousal,
+a bhikkhu released in non-arousal,
 
 his craving for becoming     crushed,
 
@@ -362,7 +362,7 @@ his wandering-on in birth totally ended:
 
 He has no further becoming.
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from nutriment[5](#^snp3-12-05) as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very nutriment, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.” ^snp3-12-05-ref
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from nutriment[5](#^snp3-12-05) as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of that very nutriment, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.” ^snp3-12-05-ref
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -410,7 +410,7 @@ goes beyond judgment,
 
 beyond classification.[7](#^snp3-12-07) ^snp3-12-07-ref
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from what is perturbed as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of what is perturbed, there is no coming into play of stress’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever stress comes into play is all from what is perturbed as a requisite condition’: This is one contemplation. ‘From the remainderless fading & cessation of what is perturbed, there is no coming into play of stress’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -436,7 +436,7 @@ as a requisite
 
 condition—
 
-the monk thus renouncing perturbance,
+the bhikkhu thus renouncing perturbance,
 
 putting a stop to fabrications,
 
@@ -446,9 +446,9 @@ from clinging,
 
 mindful he lives
 
-the mendicant life.
+the bhikkhu life.
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘For one who is dependent, there is wavering’: This is one contemplation. ‘One who is independent doesn’t waver’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘For one who is dependent, there is wavering’: This is one contemplation. ‘One who is independent doesn’t waver’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -482,11 +482,11 @@ dependent,
 
 free from clinging,
 
-mindful the monk
+mindful the bhikkhu
 
-lives the mendicant life.[8](#^snp3-12-08) ^snp3-12-08-ref
+lives the bhikkhu life.[8](#^snp3-12-08) ^snp3-12-08-ref
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Formless phenomena are more peaceful than forms’: This is one contemplation. ‘Cessation is more peaceful than formless phenomena’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Formless phenomena are more peaceful than forms’: This is one contemplation. ‘Cessation is more peaceful than formless phenomena’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -506,7 +506,7 @@ those released in cessation
 
 are people who’ve left death          behind.[9](#^snp3-12-09) ^snp3-12-09-ref
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever is considered as “This is true” by the world with its devas, Māras, & Brahmās, by this generation with its contemplatives & brahmans, its royalty & commonfolk, is rightly seen as it has come to be with right discernment by the noble ones as “This is false”’: This is one contemplation. ‘Whatever is considered as “This is false” by the world with its devas, Māras, & Brahmās, by this generation with its contemplatives & brahmans, its royalty & commonfolk, is rightly seen as it has come to be with right discernment by the noble ones as “This is true”’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever is considered as “This is true” by the world with its devas, Māras, & Brahmās, by this generation with its contemplatives & brahmans, its royalty & commonfolk, is rightly seen as it has come to be with right discernment by the noble ones as “This is false”’: This is one contemplation. ‘Whatever is considered as “This is false” by the world with its devas, Māras, & Brahmās, by this generation with its contemplatives & brahmans, its royalty & commonfolk, is rightly seen as it has come to be with right discernment by the noble ones as “This is true”’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -544,7 +544,7 @@ hunger-free,
 
 are totally unbound.
 
-“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever is considered as “This is bliss” by the world with its devas, Māras, & Brahmās, by this generation with its contemplatives & brahmans, its royalty & commonfolk, is rightly seen as it has come to be with right discernment by the noble ones as “This is stressful”’: This is one contemplation. ‘Whatever is considered as “This is stressful” by the world with its devas, Māras, & Brahmās, by this generation with its contemplatives & brahmans, its royalty & commonfolk, is rightly seen as it has come to be with right discernment by the noble ones as “This is bliss”’: This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
+“Now, if there are any who ask, ‘Would there be the right contemplation of dualities in yet another way?’ they should be told, ‘There would.’ How would that be? ‘Whatever is considered as “This is bliss” by the world with its devas, Māras, & Brahmās, by this generation with its contemplatives & brahmans, its royalty & commonfolk, is rightly seen as it has come to be with right discernment by the noble ones as “This is stressful”’: This is one contemplation. ‘Whatever is considered as “This is stressful” by the world with its devas, Māras, & Brahmās, by this generation with its contemplatives & brahmans, its royalty & commonfolk, is rightly seen as it has come to be with right discernment by the noble ones as “This is bliss”’: This is a second contemplation. For a bhikkhu rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.”
 
 That is what the Blessed One said. Having said that, the One Well-Gone, the Teacher, said further:
 
@@ -648,7 +648,7 @@ they totally unbind,
 
 effluent-free.”
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words. And while this explanation was being given, the minds of 60 monks, through lack of clinging, were released from effluents.
+That is what the Blessed One said. Gratified, the bhikkhus delighted in the Blessed One’s words. And while this explanation was being given, the minds of 60 bhikkhus, through lack of clinging, were released from effluents.
 
 vv. 724–765
 
@@ -674,7 +674,7 @@ vv. 724–765
 
 10. See [[mn113-thanissaro]], note 3. [↩︎](#^snp3-12-10-ref) ^snp3-12-10
 
-11. “His release, being founded on truth, does not fluctuate, for whatever is deceptive is false; unbinding—the undeceptive—is true. Thus a monk so endowed is endowed with the highest determination for truth, for this—unbinding, the undeceptive—is the highest noble truth.” — [[mn140-thanissaro]] [↩︎](#^snp3-12-11-ref) ^snp3-12-11
+11. “His release, being founded on truth, does not fluctuate, for whatever is deceptive is false; unbinding—the undeceptive—is true. Thus a bhikkhu so endowed is endowed with the highest determination for truth, for this—unbinding, the undeceptive—is the highest noble truth.” — [[mn140-thanissaro]] [↩︎](#^snp3-12-11-ref) ^snp3-12-11
 
 12. On Māra’s sway, see [[sn4.19-thanissaro]], [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]], [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]], and [[sn35-44-thanissaro/sn35-thanissaro/sn35.199-thanissaro]]. [↩︎](#^snp3-12-12-ref) ^snp3-12-12
 

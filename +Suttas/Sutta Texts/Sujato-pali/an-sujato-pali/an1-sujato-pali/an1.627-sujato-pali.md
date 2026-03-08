@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, those who haven’t realized mindfulness of the body haven’t realized the deathless. Those who have realized mindfulness of the body have realized the deathless.”
+1“bhikkhus, those who haven’t realized mindfulness of the body haven’t realized the deathless. Those who have realized mindfulness of the body have realized the deathless.”
 
 The thousand discourses of the Ones are completed.
 
-That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 The Book of the Ones is finished.
 

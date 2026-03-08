@@ -28,7 +28,7 @@ They live in a state of contention, quarrel, and dispute, piercing each other wi
 
 Atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisiṃsu. Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ –
 
-Then, in the morning, a number of monks, having dressed, took their bowls and robes, and entered Sāvatthī for alms. Having wandered for alms in Sāvatthī and returning after their meal, they approached the Blessed One. Having approached, they paid homage to the Blessed One and sat down to one side. Sitting to one side, those monks said to the Blessed One:
+Then, in the morning, a number of bhikkhus, having dressed, took their bowls and robes, and entered Sāvatthī for alms. Having wandered for alms in Sāvatthī and returning after their meal, they approached the Blessed One. Having approached, they paid homage to the Blessed One and sat down to one side. Sitting to one side, those bhikkhus said to the Blessed One:
 
 ‘‘Idha, bhante, sambahulā nānātitthiyasamaṇabrāhmaṇaparibbājakā sāvatthiyaṃ paṭivasanti nānādiṭṭhikā nānākhantikā nānārucikā nānādiṭṭhinissayanissitā.
 
@@ -40,7 +40,7 @@ There are some ascetics and brahmins who have this doctrine, this view: ‘The s
 
 ‘‘Aññatitthiyā, bhikkhave, paribbājakā andhā acakkhukā; atthaṃ na jānanti anatthaṃ na jānanti, dhammaṃ na jānanti adhammaṃ na jānanti. Te atthaṃ ajānantā anatthaṃ ajānantā, dhammaṃ ajānantā adhammaṃ ajānantā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti – ‘ediso dhammo, nediso dhammo; nediso dhammo, ediso dhammo’’’ti.
 
-Monks, those wanderers of other sects are blind and sightless. They do not know the meaning, they do not know the meaningless; they do not know the Dhamma, they do not know the non-Dhamma. Not knowing the meaning, not knowing the meaningless, not knowing the Dhamma, not knowing the non-Dhamma, they live in a state of contention, quarrel, and dispute, piercing each other with verbal barbs: ‘The Dhamma is like this, the Dhamma is not like that; the Dhamma is not like that, the Dhamma is like this.’
+bhikkhus, those wanderers of other sects are blind and sightless. They do not know the meaning, they do not know the meaningless; they do not know the Dhamma, they do not know the non-Dhamma. Not knowing the meaning, not knowing the meaningless, not knowing the Dhamma, not knowing the non-Dhamma, they live in a state of contention, quarrel, and dispute, piercing each other with verbal barbs: ‘The Dhamma is like this, the Dhamma is not like that; the Dhamma is not like that, the Dhamma is like this.’
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

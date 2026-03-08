@@ -31,7 +31,7 @@ Then it occurred to him: “It’s too early to wander for alms in Rājagaha. Wh
 
 Ānanda sat down on the seat spread out, while Moggallāna took a low seat and sat to one side. Then he said to Ānanda:
 
-“Master Ānanda, is there even a single mendicant who has all the same qualities in each and every way as possessed by Master Gotama, the perfected one, the fully awakened Buddha?”
+“Master Ānanda, is there even a single bhikkhu who has all the same qualities in each and every way as possessed by Master Gotama, the perfected one, the fully awakened Buddha?”
 
 “No, brahmin, there is not. For the Blessed One gave rise to the unarisen path, gave birth to the unborn path, explained the unexplained path. He was the knower of the path, the discoverer of the path, the expert on the path. And now the disciples live following the path; they acquire it later.”
 
@@ -43,11 +43,11 @@ But this conversation between Ānanda and Moggallāna the Guardian was left unfi
 So Ānanda told him of the conversation that they were having when Vassakāra arrived. Vassakāra said:
 
 
-4“Master Ānanda, is there even a single mendicant who was appointed by Master Gotama, saying: ‘This one will be your refuge when I have passed away,’ to whom you now turn?”
+4“Master Ānanda, is there even a single bhikkhu who was appointed by Master Gotama, saying: ‘This one will be your refuge when I have passed away,’ to whom you now turn?”
 
 “No, there is not.”
 
-“But is there even a single mendicant who has been elected to such a position by the Saṅgha and appointed by several senior mendicants?”
+“But is there even a single bhikkhu who has been elected to such a position by the Saṅgha and appointed by several senior bhikkhus?”
 
 “No, there is not.”
 
@@ -57,23 +57,23 @@ So Ānanda told him of the conversation that they were having when Vassakāra ar
 “We don’t lack a refuge, brahmin, we have a refuge. The teaching is our refuge.”
 
 
-5“But Master Ānanda, when asked whether there was even a single mendicant — either appointed by the Buddha, or elected by the Saṅgha and appointed by several senior mendicants — who serves as your refuge after the Buddha passed away, to whom you now turn, you replied: ‘No, there is not.’ But you say that the reason for your harmony is that you have the teaching as a refuge. How should I see the meaning of this statement?”
+5“But Master Ānanda, when asked whether there was even a single bhikkhu — either appointed by the Buddha, or elected by the Saṅgha and appointed by several senior bhikkhus — who serves as your refuge after the Buddha passed away, to whom you now turn, you replied: ‘No, there is not.’ But you say that the reason for your harmony is that you have the teaching as a refuge. How should I see the meaning of this statement?”
 
 
-6“The Blessed One, who knows and sees, the perfected one, the fully awakened Buddha laid down training rules and recited the monastic code for the mendicants. On the day of the sabbath all of us who live in dependence on one village district gather together as one. We invite one who has freshly rehearsed the code to recite it. If anyone remembers an offense or transgression while they’re reciting, we make them act in line with the teachings and in line with the instructions. It’s not the venerables that make us act, it’s the teaching that makes us act.”
+6“The Blessed One, who knows and sees, the perfected one, the fully awakened Buddha laid down training rules and recited the monastic code for the bhikkhus. On the day of the sabbath all of us who live in dependence on one village district gather together as one. We invite one who has freshly rehearsed the code to recite it. If anyone remembers an offense or transgression while they’re reciting, we make them act in line with the teachings and in line with the instructions. It’s not the venerables that make us act, it’s the teaching that makes us act.”
 
 
-7“Master Ānanda, is there even a single mendicant who you honor, respect, revere, venerate, and rely on?”
+7“Master Ānanda, is there even a single bhikkhu who you honor, respect, revere, venerate, and rely on?”
 
 “There is, brahmin.”
 
 
-8“But Master Ānanda, when asked whether there was even a single mendicant — either appointed by the Buddha, or elected by the Saṅgha and appointed by several senior mendicants — who serves as your refuge after the Buddha passed away, to whom you now turn, you replied: ‘No, there is not.’ But when asked whether there is even a single mendicant who you honor, respect, revere, venerate, and rely on, you replied: ‘There is.’ How should I see the meaning of this statement?”
+8“But Master Ānanda, when asked whether there was even a single bhikkhu — either appointed by the Buddha, or elected by the Saṅgha and appointed by several senior bhikkhus — who serves as your refuge after the Buddha passed away, to whom you now turn, you replied: ‘No, there is not.’ But when asked whether there is even a single bhikkhu who you honor, respect, revere, venerate, and rely on, you replied: ‘There is.’ How should I see the meaning of this statement?”
 
 
 9“There are ten inspiring things explained by the Blessed One, who knows and sees, the perfected one, the fully awakened Buddha. We honor anyone in whom these things are found. What ten?
 
-10It’s when a mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
+10It’s when a bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
 
 11They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically.
@@ -122,7 +122,7 @@ So Ānanda told him of the conversation that they were having when Vassakāra ar
 25“No, brahmin, the Buddha did not praise all kinds of meditation, nor did he dispraise all kinds of meditation. And what kind of meditation did he not praise? It’s when someone’s heart is overcome and mired in sensual desire, and they don’t truly understand the escape from sensual desire that has arisen. Harboring sensual desire within they meditate and concentrate and contemplate and ruminate. Their heart is overcome and mired in ill will … dullness and drowsiness … restlessness and remorse … doubt, and they don’t truly know and see the escape from doubt that has arisen. Harboring doubt within they meditate and concentrate and contemplate and ruminate. The Buddha didn’t praise this kind of meditation.
 
 
-26And what kind of meditation did he praise? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. And with the fading away of rapture, they enter and remain in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. The Buddha praised this kind of meditation.”
+26And what kind of meditation did he praise? It’s when a bhikkhu, ![[Jhanas]], mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. The Buddha praised this kind of meditation.”
 
 
 27“Well, Master Ānanda, it seems that Master Gotama criticized the kind of meditation that deserves criticism and praised that deserving of praise. Well, now, Master Ānanda, I must go. I have many duties, and much to do.”
@@ -135,7 +135,7 @@ Then Vassakāra the brahmin, having approved and agreed with what Venerable Āna
 
 28Soon after he had left, Moggallāna the Guardian said to Ānanda: “Master Ānanda, you still haven’t answered my question.”
 
-“But brahmin, didn’t I say: ‘There is no single mendicant who has all the same qualities in each and every way as possessed by Master Gotama, the perfected one, the fully awakened Buddha. For the Blessed One gave rise to the unarisen path, gave birth to the unborn path, explained the unexplained path. He was the knower of the path, the discoverer of the path, the expert on the path. And now the disciples live following the path; they acquire it later.’”
+“But brahmin, didn’t I say: ‘There is no single bhikkhu who has all the same qualities in each and every way as possessed by Master Gotama, the perfected one, the fully awakened Buddha. For the Blessed One gave rise to the unarisen path, gave birth to the unborn path, explained the unexplained path. He was the knower of the path, the discoverer of the path, the expert on the path. And now the disciples live following the path; they acquire it later.’”
 
 #### Pali
 

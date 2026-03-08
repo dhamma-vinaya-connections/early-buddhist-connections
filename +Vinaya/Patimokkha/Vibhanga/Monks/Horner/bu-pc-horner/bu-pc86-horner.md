@@ -7,21 +7,21 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC86]]
 > ◄  [[bu-pc85-horner]] 📜  [[bu-pc87-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 86
+# bhikkhus’ Expiation (_Pācittiya_) 86
 
-*Bu-Pc.86.1.1* *BD.3.87* … among the Sakyans at Kapilavatthu in the Banyan monastery. Now at that time monks were invited by a certain ivory-worker, saying: “If the masters want a needle case,[^1] I (can supply them) with a needle-case.”[^2] Then the monks asked for many needle-cases; they asked for large needle-cases for those who had small needle-cases, they asked for small needle-cases for those who had large needle-cases. Then that ivory-worker, making many needle-cases for the monks, was not able to make other goods for sale, and he did not keep himself going and his wife and children suffered. People … spread it about, saying: “How can these recluses, sons of the Sakyans, not knowing moderation,[^3] ask for many needle-cases? This (man), making many needle-cases for these (monks), is not able to make other goods for sale … and his wife and children suffer.” Monks heard these people who … spread it about. Those who were modest monks … spread it about, saying: “How can these monks, not knowing moderation, ask for many needle-cases? …
+*Bu-Pc.86.1.1* *BD.3.87* … among the Sakyans at Kapilavatthu in the Banyan monastery. Now at that time bhikkhus were invited by a certain ivory-worker, saying: “If the masters want a needle case,[^1] I (can supply them) with a needle-case.”[^2] Then the bhikkhus asked for many needle-cases; they asked for large needle-cases for those who had small needle-cases, they asked for small needle-cases for those who had large needle-cases. Then that ivory-worker, making many needle-cases for the bhikkhus, was not able to make other goods for sale, and he did not keep himself going and his wife and children suffered. People … spread it about, saying: “How can these recluses, sons of the Sakyans, not knowing moderation,[^3] ask for many needle-cases? This (man), making many needle-cases for these (bhikkhus), is not able to make other goods for sale … and his wife and children suffer.” bhikkhus heard these people who … spread it about. Those who were modest bhikkhus … spread it about, saying: “How can these bhikkhus, not knowing moderation, ask for many needle-cases? …
 
-“Is it true, as is said, monks, that monks, not knowing moderation, asked for many needle-cases?” “It is true, lord.”
+“Is it true, as is said, bhikkhus, that bhikkhus, not knowing moderation, asked for many needle-cases?” “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, monks, not knowing moderation, ask for many needle-cases? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, bhikkhus, not knowing moderation, ask for many needle-cases? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-*BD.3.88* “Whatever monk should have a needle-case made that is made of bone or made of ivory or made of horn, there is an offence of expiation involving breaking up.”[^4]
+*BD.3.88* “Whatever bhikkhu should have a needle-case made that is made of bone or made of ivory or made of horn, there is an offence of expiation involving breaking up.”[^4]
 
 * * *
 
-*Bu-Pc.86.2.1* Whatever means: … monk is to be understood in this case.
+*Bu-Pc.86.2.1* Whatever means: … bhikkhu is to be understood in this case.
 
 Bone means: whatever is bone.
 
@@ -43,7 +43,7 @@ The Fourth
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

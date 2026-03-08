@@ -18,13 +18,13 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time, amongst many monks, after returning from the alms-round after the meal, assembling together, and sitting in the Round Hall, this conversation arose:
+1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time, amongst many bhikkhus, after returning from the alms-round after the meal, assembling together, and sitting in the Round Hall, this conversation arose:
 
 "Now who, venerable friends, knows a craft? Who has trained in what craft? Which craft is the greatest of the crafts?"
 
-2Then some said this: "Elephant-craft is the greatest of the crafts," some said this: "Horse-craft is the greatest of the crafts," some said this: "Chariot-craft is the greatest of the crafts," some said this: "Bow-craft is the greatest of the crafts," some said this: "Sword-craft is the greatest of the crafts," some said this: "Finger-calculation-craft is the greatest of the crafts," some said this: "Abacus-craft is the greatest of the crafts," some said this: "Accountancy-craft is the greatest of the crafts," some said this: "Writing-craft is the greatest of the crafts," some said this: "Poetry-craft is the greatest of the crafts," some said this: "Natural philosophy-craft is the greatest of the crafts," some said this: "Political science-craft is the greatest of the crafts." Now this conversation that arose amongst those monks was left unfinished.
+2Then some said this: "Elephant-craft is the greatest of the crafts," some said this: "Horse-craft is the greatest of the crafts," some said this: "Chariot-craft is the greatest of the crafts," some said this: "Bow-craft is the greatest of the crafts," some said this: "Sword-craft is the greatest of the crafts," some said this: "Finger-calculation-craft is the greatest of the crafts," some said this: "Abacus-craft is the greatest of the crafts," some said this: "Accountancy-craft is the greatest of the crafts," some said this: "Writing-craft is the greatest of the crafts," some said this: "Poetry-craft is the greatest of the crafts," some said this: "Natural philosophy-craft is the greatest of the crafts," some said this: "Political science-craft is the greatest of the crafts." Now this conversation that arose amongst those bhikkhus was left unfinished.
 
-3Then the Gracious One, having risen from seclusion in the evening time, went to the Round Hall, and after going, he sat down on the prepared seat. Having sat down the Gracious One addressed the monks, saying: "What is the talk about, monks, amongst those who have assembled at present, and what is the conversation amongst you that was left unfinished?"
+3Then the Gracious One, having risen from seclusion in the evening time, went to the Round Hall, and after going, he sat down on the prepared seat. Having sat down the Gracious One addressed the bhikkhus, saying: "What is the talk about, bhikkhus, amongst those who have assembled at present, and what is the conversation amongst you that was left unfinished?"
 
 4"Here, reverend Sir, after returning from the alms-round after the meal, assembling together, and sitting in the Round Hall, this conversation arose:
 
@@ -32,14 +32,14 @@ language: "English - Pali"
 
 5Then some said this: "Elephant-craft is the greatest of the crafts," some said this: "Horse-craft is the greatest of the crafts," some said this: "Chariot-craft is the greatest of the crafts," some said this: "Bow-craft is the greatest of the crafts," some said this: "Sword-craft is the greatest of the crafts," some said this: "Finger-calculation-craft is the greatest of the crafts," some said this: "Abacus-craft is the greatest of the crafts," some said this: "Accountancy-craft is the greatest of the crafts," some said this: "Writing-craft is the greatest of the crafts," some said this: "Poetry-craft is the greatest of the crafts," some said this: "Natural philosophy-craft is the greatest of the crafts," some said this: "Political science-craft is the greatest of the crafts." This is the conversation, reverend Sir, that we left unfinished, then the Gracious One arrived."
 
-6"This is certainly not suitable, monks, for you sons of good family who through faith have gone forth from the home to homelessness, that you should talk such talk. When you have assembled together, monks, there are two things that you ought to do: talk about the Dhamma, or maintain noble silence."
+6"This is certainly not suitable, bhikkhus, for you sons of good family who through faith have gone forth from the home to homelessness, that you should talk such talk. When you have assembled together, bhikkhus, there are two things that you ought to do: talk about the Dhamma, or maintain noble silence."
 
 7Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 
 8"One who lives without craft, light, desiring others’ welfare,  
 With restrained faculties, completely free in every way,  
 Who wanders homeless, unselfish, not yearning,  
-Having given up conceit, solitary — he is a monk."
+Having given up conceit, solitary — he is a bhikkhu."
 
 1Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sambahulānaṁ bhikkhūnaṁ pacchābhattaṁ piṇḍapātapaṭikkantānaṁ maṇḍalamāḷe sannisinnānaṁ sannipatitānaṁ ayamantarākathā udapādi: 
 

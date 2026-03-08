@@ -3,14 +3,14 @@ sutta_code: "AN5.239"
 sutta_pts: "A iii 266"
 sutta_title:
   - "Anukampa "
-  - "Compassionate Mendicant"
+  - "Compassionate bhikkhu"
 nikaya:
   - "AN "
   - "Aṅguttara Nikāya"
 sutta_chapter:
   - "AN5"
   - "Āvāsikvagga"
-  - "Resident mendicant"
+  - "Resident bhikkhu"
   - ""
 sutta_theme:
   - "Spirituality"
@@ -40,11 +40,11 @@ parallels_partilal: ""
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.238]]  🌐 [[AN5.240]] ►
 
-# AN5.239 - Anukampa - Compassionate Mendicant
+# AN5.239 - Anukampa - Compassionate bhikkhu
 ## 🌐 Overview
 
 > [!info] Summary
-> Mendicant with five qualities shows compassion to the lay people
+> bhikkhu with five qualities shows compassion to the lay people
 
 > [!info] Key Excerpts 
 > Encourage them in higher ethics. visit them when they are sick, inspire with a Dhamma talk, and to make merits with incoming bhikkhus,

@@ -22,7 +22,7 @@ language: "English - Pali"
 
 Now at that time a new stilt longhouse named Pink Lotus had recently been constructed for Prince Bodhi. It had not yet been occupied by an ascetic or brahmin or any person at all.
 
-Then Prince Bodhi addressed the brahmin student Sañjikāputta: “Please, dear Sañjikāputta, go to the Buddha, and in my name bow with your head to his feet. Ask him if he is healthy and well, nimble, strong, and living comfortably. And then ask him whether he might accept tomorrow’s meal from me together with the mendicant Saṅgha.”
+Then Prince Bodhi addressed the brahmin student Sañjikāputta: “Please, dear Sañjikāputta, go to the Buddha, and in my name bow with your head to his feet. Ask him if he is healthy and well, nimble, strong, and living comfortably. And then ask him whether he might accept tomorrow’s meal from me together with the bhikkhu Saṅgha.”
 
 
 “Yes, sir,” Sañjikāputta replied. He did as Prince Bodhi asked, and the Buddha consented in silence.
@@ -46,9 +46,9 @@ For a second time … and a third time, Prince Bodhi said to him: “Sir, let th
 
 5Then the Buddha glanced at Venerable Ānanda. So Ānanda said to Prince Bodhi: “Fold up the cloth, Prince. The Buddha will not step upon white cloth. The Realized One has compassion for future generations.”
 
-So Prince Bodhi had the cloth folded up and the seats spread out upstairs in the longhouse. Then the Buddha ascended the longhouse and sat on the seats spread out together with the Saṅgha of mendicants.
+So Prince Bodhi had the cloth folded up and the seats spread out upstairs in the longhouse. Then the Buddha ascended the longhouse and sat on the seats spread out together with the Saṅgha of bhikkhus.
 
-Then Prince Bodhi served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with a variety of delicious foods. When the Buddha had eaten and washed his hand and bowl, Prince Bodhi took a low seat, sat to one side, and said to him: “Sir, this is what I think: ‘Pleasure is not gained through pleasure; pleasure is gained through pain.’”
+Then Prince Bodhi served and satisfied the bhikkhu Saṅgha headed by the Buddha with his own hands with a variety of delicious foods. When the Buddha had eaten and washed his hand and bowl, Prince Bodhi took a low seat, sat to one side, and said to him: “Sir, this is what I think: ‘Pleasure is not gained through pleasure; pleasure is gained through pain.’”
 
 6“Prince, before my awakening — when I was still unawakened but intent on awakening — I too thought: ‘Pleasure is not gained through pleasure; pleasure is gained through pain.’
 
@@ -165,7 +165,7 @@ Then it occurred to me, ‘Why am I afraid of that pleasure, for it has nothing 
 
 Then it occurred to me, ‘I’m not afraid of that pleasure, for it has nothing to do with sensual pleasures or unskillful qualities.’
 
-32Then it occurred to me, ‘I can’t achieve that pleasure with a body so excessively emaciated. Why don’t I eat some solid food, some rice and porridge?’ So I ate some solid food. Now at that time the five mendicants were attending on me, thinking, ‘The ascetic Gotama will tell us of any truth that he realizes.’ But when I ate some solid food, they left disappointed in me, saying, ‘The ascetic Gotama has become indulgent; he has strayed from the struggle and returned to indulgence.’
+32Then it occurred to me, ‘I can’t achieve that pleasure with a body so excessively emaciated. Why don’t I eat some solid food, some rice and porridge?’ So I ate some solid food. Now at that time the five bhikkhus were attending on me, thinking, ‘The ascetic Gotama will tell us of any truth that he realizes.’ But when I ate some solid food, they left disappointed in me, saying, ‘The ascetic Gotama has become indulgent; he has strayed from the struggle and returned to indulgence.’
 
 33After eating solid food and gathering my strength, quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first jhāna … second jhāna … third jhāna … fourth jhāna. When my mind had immersed in samādhi like this — purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable — I extended it toward recollection of past lives. I recollected many past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. And so I recollected my many kinds of past lives, with features and details.
 
@@ -246,7 +246,7 @@ And knowledge and vision arose in me, ‘Āḷāra Kālāma passed away seven da
 
 And knowledge and vision arose in me, ‘Uddaka, son of Rāma, passed away just last night.’ Then it occurred to me, ‘This is a great loss for Uddaka. If he had heard the teaching, he would have understood it quickly.’
 
-49Then it occurred to me, ‘Who should I teach first of all? Who will quickly understand the teaching?’ Then it occurred to me, ‘The group of five mendicants were very helpful to me. They looked after me during my time of resolute striving. Why don’t I teach them first of all?’ Then it occurred to me, ‘Where are the group of five mendicants staying these days?’ With clairvoyance that is purified and superhuman I saw that the group of five mendicants were staying near Benares, in the deer park at Isipatana.
+49Then it occurred to me, ‘Who should I teach first of all? Who will quickly understand the teaching?’ Then it occurred to me, ‘The group of five bhikkhus were very helpful to me. They looked after me during my time of resolute striving. Why don’t I teach them first of all?’ Then it occurred to me, ‘Where are the group of five bhikkhus staying these days?’ With clairvoyance that is purified and superhuman I saw that the group of five bhikkhus were staying near Benares, in the deer park at Isipatana.
 
 So, when I had stayed in Uruvelā as long as I wished, I set out for Benares.
 
@@ -287,15 +287,15 @@ that’s why I’m a victor.’
 
 57When I had spoken, Upaka said: ‘If you say so, reverend.’ Shaking his head, he took a wrong turn and left.
 
-58Traveling stage by stage, I arrived at Benares, and went to see the group of five mendicants in the deer park at Isipatana. The group of five mendicants saw me coming off in the distance and stopped each other, saying, ‘Here comes the ascetic Gotama. He’s so indulgent; he strayed from the struggle and returned to indulgence. We shouldn’t bow to him or rise for him or receive his bowl and robe. But we can set out a seat; he can sit if he likes.’
+58Traveling stage by stage, I arrived at Benares, and went to see the group of five bhikkhus in the deer park at Isipatana. The group of five bhikkhus saw me coming off in the distance and stopped each other, saying, ‘Here comes the ascetic Gotama. He’s so indulgent; he strayed from the struggle and returned to indulgence. We shouldn’t bow to him or rise for him or receive his bowl and robe. But we can set out a seat; he can sit if he likes.’
 
-Yet as I drew closer, the group of five mendicants were unable to stop themselves as they had agreed. Some came out to greet me and receive my bowl and robe, some spread out a seat, while others set out water for washing my feet. But they still addressed me by name and as ‘reverend’.
+Yet as I drew closer, the group of five bhikkhus were unable to stop themselves as they had agreed. Some came out to greet me and receive my bowl and robe, some spread out a seat, while others set out water for washing my feet. But they still addressed me by name and as ‘reverend’.
 
-So I said to them, ‘Mendicants, don’t address me by name and as “reverend”. The Realized One is Perfected, a fully awakened Buddha. Listen up, mendicants: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
+So I said to them, ‘bhikkhus, don’t address me by name and as “reverend”. The Realized One is Perfected, a fully awakened Buddha. Listen up, bhikkhus: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
 
 But they said to me, ‘Reverend Gotama, even by that conduct, that practice, that grueling work you did not achieve any superhuman distinction in knowledge and vision worthy of the noble ones. How could you have achieved such a state now that you’ve become indulgent, strayed from the struggle and fallen into indulgence?’
 
-So I said to them, ‘The Realized One has not become indulgent, strayed from the struggle and fallen into indulgence. The Realized One is Perfected, a fully awakened Buddha. Listen up, mendicants: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
+So I said to them, ‘The Realized One has not become indulgent, strayed from the struggle and fallen into indulgence. The Realized One is Perfected, a fully awakened Buddha. Listen up, bhikkhus: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
 
 
 59But for a second time they said to me, ‘Reverend Gotama … you’ve fallen into indulgence.’
@@ -306,19 +306,19 @@ So for a second time I said to them, ‘The Realized One has not become indulgen
 60But for a third time they said to me, ‘Reverend Gotama … you’ve fallen into indulgence.’
 
 
-61So I said to them, ‘Mendicants, have you ever known me to speak like this before?’
+61So I said to them, ‘bhikkhus, have you ever known me to speak like this before?’
 
 
 ‘No, sir.’
 
-‘The Realized One is Perfected, a fully awakened Buddha. Listen up, mendicants: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
+‘The Realized One is Perfected, a fully awakened Buddha. Listen up, bhikkhus: I have achieved the Deathless! I shall instruct you, I will teach you the Dhamma. By practicing as instructed you will soon realize the supreme end of the spiritual path in this very life. You will live having achieved with your own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.’
 
 
-62I was able to persuade the group of five mendicants. Then sometimes I advised two mendicants, while the other three went for alms. Then those three would feed all six of us with what they brought back. Sometimes I advised three mendicants, while the other two went for alms. Then those two would feed all six of us with what they brought back.
+62I was able to persuade the group of five bhikkhus. Then sometimes I advised two bhikkhus, while the other three went for alms. Then those three would feed all six of us with what they brought back. Sometimes I advised three bhikkhus, while the other two went for alms. Then those two would feed all six of us with what they brought back.
 
-63As the group of five mendicants were being advised and instructed by me like this, they soon realized the supreme end of the spiritual path in this very life. They lived having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.”
+63As the group of five bhikkhus were being advised and instructed by me like this, they soon realized the supreme end of the spiritual path in this very life. They lived having achieved with their own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.”
 
-64When he had spoken, Prince Bodhi said to the Buddha: “Sir, when a mendicant has the Realized One as trainer, how long would it take for them to realize the supreme end of the spiritual path in this very life?”
+64When he had spoken, Prince Bodhi said to the Buddha: “Sir, when a bhikkhu has the Realized One as trainer, how long would it take for them to realize the supreme end of the spiritual path in this very life?”
 
 
 65“Well then, prince, I’ll ask you about this in return, and you can answer as you like. What do you think, prince? Are you skilled in the art of wielding a hooked goad while riding an elephant?”
@@ -348,24 +348,24 @@ They live with energy roused up for giving up unskillful qualities and embracing
 They’re wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. These are the five factors that support meditation.
 
 
-69When a mendicant with these five factors that support meditation has the Realized One as trainer, they could realize the supreme end of the spiritual path in seven years.
+69When a bhikkhu with these five factors that support meditation has the Realized One as trainer, they could realize the supreme end of the spiritual path in seven years.
 
-Let alone seven years, they could realize the supreme end of the spiritual path in six years, or as little as one year. Let alone one year, when a mendicant with these five factors that support meditation has the Realized One as trainer, they could realize the supreme end of the spiritual path in seven months, or as little as one day.
+Let alone seven years, they could realize the supreme end of the spiritual path in six years, or as little as one year. Let alone one year, when a bhikkhu with these five factors that support meditation has the Realized One as trainer, they could realize the supreme end of the spiritual path in seven months, or as little as one day.
 
 
-Let alone one day, when a mendicant with these five factors that support meditation has the Realized One as trainer, they could be instructed in the evening and achieve distinction in the morning, or be instructed in the morning and achieve distinction in the evening.”
+Let alone one day, when a bhikkhu with these five factors that support meditation has the Realized One as trainer, they could be instructed in the evening and achieve distinction in the morning, or be instructed in the morning and achieve distinction in the evening.”
 
 
 When he had spoken, Prince Bodhi said to the Buddha: “Oh, the Buddha! Oh, the teaching! Oh, how well explained is the teaching! For someone could be instructed in the evening and achieve distinction in the morning, or be instructed in the morning and achieve distinction in the evening.”
 
 
-70When he said this, Sañjikāputta said to Prince Bodhi: “Though Master Bodhi speaks like this, you don’t go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha.”
+70When he said this, Sañjikāputta said to Prince Bodhi: “Though Master Bodhi speaks like this, you don’t go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha.”
 
-“Don’t say that, dear Sañjikāputta, don’t say that! I have heard and learned this in the presence of the lady, my mother. This one time the Buddha was staying near Kosambi, in Ghosita’s Monastery. Then my pregnant mother went up to the Buddha, bowed, sat down to one side, and said to him: ‘Sir, the prince or princess in my womb goes for refuge to the Buddha, the teaching, and the mendicant Saṅgha. From this day forth, may the Buddha remember them as a lay follower who has gone for refuge for life.’
+“Don’t say that, dear Sañjikāputta, don’t say that! I have heard and learned this in the presence of the lady, my mother. This one time the Buddha was staying near Kosambi, in Ghosita’s Monastery. Then my pregnant mother went up to the Buddha, bowed, sat down to one side, and said to him: ‘Sir, the prince or princess in my womb goes for refuge to the Buddha, the teaching, and the bhikkhu Saṅgha. From this day forth, may the Buddha remember them as a lay follower who has gone for refuge for life.’
 
-Another time the Buddha was staying here in the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā’s Wood. Then my nurse, carrying me on her hip, went to the Buddha, bowed, stood to one side, and said to him: ‘Sir, this Prince Bodhi goes for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember him as a lay follower who has gone for refuge for life.’
+Another time the Buddha was staying here in the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā’s Wood. Then my nurse, carrying me on her hip, went to the Buddha, bowed, stood to one side, and said to him: ‘Sir, this Prince Bodhi goes for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember him as a lay follower who has gone for refuge for life.’
 
-Now for a third time I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
+Now for a third time I go for refuge to the Buddha, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life.”
 
 #### Pali
 

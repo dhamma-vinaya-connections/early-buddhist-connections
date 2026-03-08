@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“It is impossible, mendicants, it cannot happen for a person accomplished in view to take any condition as pleasant. But it is possible for an ordinary person to take some condition as pleasant.”
+1“It is impossible, bhikkhus, it cannot happen for a person accomplished in view to take any condition as pleasant. But it is possible for an ordinary person to take some condition as pleasant.”
 
 1"Aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ diṭṭhisampanno puggalo kañci saṅkhāraṁ sukhato upagaccheyya. Netaṁ ṭhānaṁ vijjati. Ṭhānañca kho etaṁ, bhikkhave, vijjati yaṁ puthujjano kañci saṅkhāraṁ sukhato upagaccheyya. Ṭhānametaṁ vijjatī"ti.
 

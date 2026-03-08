@@ -23,7 +23,7 @@ language: "Pali - English"
 “How can this monk take the offerings to our ancestors and use them? This monk is big and strong. One might even suspect him of eating human flesh!”
 
 
-2The monks heard the complaints of those people, and the monks of few desires complained and criticized him:
+2The bhikkhus heard the complaints of those people, and the bhikkhus of few desires complained and criticized him:
 
 “How can this monk eat food that hasn’t been given?” …
 
@@ -32,18 +32,18 @@ language: "Pali - English"
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 3‘If a monk eats food that has not been given, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
-5Soon afterwards the monks did not use water or tooth cleaners because they were afraid of wrongdoing. They told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+5Soon afterwards the bhikkhus did not use water or tooth cleaners because they were afraid of wrongdoing. They told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow you to use water and tooth cleaners after taking them yourselves.
+“bhikkhus, I allow you to use water and tooth cleaners after taking them yourselves.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

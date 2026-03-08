@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, having seven qualities, Sāriputta realized the four kinds of textual analysis and lives having achieved them with his own insight. What seven?
+1“bhikkhus, having seven qualities, Sāriputta realized the four kinds of textual analysis and lives having achieved them with his own insight. What seven?
 
 It’s when Sāriputta truly understood: ‘This is mental sluggishness’.
 

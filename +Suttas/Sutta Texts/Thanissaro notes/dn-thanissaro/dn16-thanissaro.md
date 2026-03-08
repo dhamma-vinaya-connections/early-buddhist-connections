@@ -58,11 +58,11 @@ _Toward this end, the sutta narrates many of the Buddha’s own instructions for
 
 _For individuals, the Buddha stresses the need to take the Dhamma as their refuge by internalizing the Dhamma in such a way—through the four establishings of mindfulness—that they can take refuge in themselves. He also supplies a “Dhamma-mirror” so that they can judge the extent to which they have succeeded in providing themselves with this refuge._
 
-_The pursuit of the common and the individual good overlap in that when individual monks practice rightly, the world will not be empty of arahants._
+_The pursuit of the common and the individual good overlap in that when individual bhikkhus practice rightly, the world will not be empty of arahants._
 
-_One of the instructive ironies of the sutta is the way in which its two main concerns come into conflict toward the end: Kings and brahmans become so intent on gaining possession of the Buddha’s relics that they forget his teachings and almost come to war. We know from Buddhist history that devotional Buddhism has threatened the practice in other ways as well. Time and again, monks in charge of devotional centers have made life difficult for monks in the forest; forest monasteries have, with the passage of generations, devolved into devotional centers. To resolve this conflict, the sutta recommends a compromise position, shown most clearly in the Buddha’s response to the worship given by the devas on his last night: On the one hand, he honors their desire to gaze on him by telling his attendant monk to get out of the way; on the other, he tells Ānanda that the most genuine form of worship is to practice the Dhamma in accordance with the Dhamma. In this way, he makes room for external expressions of devotion, at the same time subordinating them to the practice of the Dhamma for the purpose of full liberation._
+_One of the instructive ironies of the sutta is the way in which its two main concerns come into conflict toward the end: Kings and brahmans become so intent on gaining possession of the Buddha’s relics that they forget his teachings and almost come to war. We know from Buddhist history that devotional Buddhism has threatened the practice in other ways as well. Time and again, bhikkhus in charge of devotional centers have made life difficult for bhikkhus in the forest; forest monasteries have, with the passage of generations, devolved into devotional centers. To resolve this conflict, the sutta recommends a compromise position, shown most clearly in the Buddha’s response to the worship given by the devas on his last night: On the one hand, he honors their desire to gaze on him by telling his attendant bhikkhu to get out of the way; on the other, he tells Ānanda that the most genuine form of worship is to practice the Dhamma in accordance with the Dhamma. In this way, he makes room for external expressions of devotion, at the same time subordinating them to the practice of the Dhamma for the purpose of full liberation._
 
-_Ven. Mahā Kassapa, who appears at the end of the sutta, provides the ideal monastic figure to embody its dual ideals. Known both for his fierce devotion to the Buddha and for his strict practice, he shows that these two ideals need not be in conflict. The concluding part of the narrative also hints at the role he later played in shouldering the Buddha’s concern for the survival of the Dhamma and Vinaya that were to be the Saṅgha’s teacher in the Buddha’s place. Cv.XI tells us that the remarks made by the elderly monk after the Buddha’s passing and recorded here—that the Saṅgha is well rid of the Buddha and his harassment over what should and shouldn’t be done—were Mahā Kassapa’s inspiration for calling the First Council to standardize the Dhamma and Vinaya. As he realized from those remarks, the threats to the survival of the Buddha’s good traditions came not only from outside the Saṅgha but also—and more seriously—from within. In this way he shows the lengths to which members of the Saṅgha should be prepared to go in furthering the sutta’s two main ideals._
+_Ven. Mahā Kassapa, who appears at the end of the sutta, provides the ideal monastic figure to embody its dual ideals. Known both for his fierce devotion to the Buddha and for his strict practice, he shows that these two ideals need not be in conflict. The concluding part of the narrative also hints at the role he later played in shouldering the Buddha’s concern for the survival of the Dhamma and Vinaya that were to be the Saṅgha’s teacher in the Buddha’s place. Cv.XI tells us that the remarks made by the elderly bhikkhu after the Buddha’s passing and recorded here—that the Saṅgha is well rid of the Buddha and his harassment over what should and shouldn’t be done—were Mahā Kassapa’s inspiration for calling the First Council to standardize the Dhamma and Vinaya. As he realized from those remarks, the threats to the survival of the Buddha’s good traditions came not only from outside the Saṅgha but also—and more seriously—from within. In this way he shows the lengths to which members of the Saṅgha should be prepared to go in furthering the sutta’s two main ideals._
 
 _As for the ideal lay embodiment of both ideals, that is provided by Doṇa the brahman, who divides the Buddha’s relics in a fair and peaceful manner among their many claimants. In this way, he shows Buddhist lay people that they, too, can play a role in carrying on the good traditions established by the Buddha. Just as the sutta begins with the Buddha averting a war, Doṇa the brahman succeeds in averting a war at the end._
 
@@ -126,115 +126,115 @@ When this was said, Vassakāra the brahman, the chief minister of Magadha, said 
 
 Then Vassakāra the brahman, the chief minister of Magadha, delighting in and approving of the Blessed One’s words, got up from his seat and left.
 
-Not long after his departure, the Blessed One addressed Ven. Ānanda: “Go, Ānanda. Have all the monks living in dependence on Rājagaha gather at the assembly hall.”
+Not long after his departure, the Blessed One addressed Ven. Ānanda: “Go, Ānanda. Have all the bhikkhus living in dependence on Rājagaha gather at the assembly hall.”
 
-Responding, “As you say, lord,” to the Blessed One, Ven. Ānanda—having had all the monks living in dependence on Rājagaha gather at the assembly hall—approached the Blessed One. On arrival, having bowed down to him, he stood to one side. As he was standing there, he said to the Blessed One, “The Saṅgha of monks has gathered, lord. May the Blessed One do what he thinks it is now time to do.”
+Responding, “As you say, lord,” to the Blessed One, Ven. Ānanda—having had all the bhikkhus living in dependence on Rājagaha gather at the assembly hall—approached the Blessed One. On arrival, having bowed down to him, he stood to one side. As he was standing there, he said to the Blessed One, “The Saṅgha of bhikkhus has gathered, lord. May the Blessed One do what he thinks it is now time to do.”
 
-Then the Blessed One, getting up from his seat, went to the assembly hall and, on arrival, sat down on the seat laid out. Having sat down, he addressed the monks:
+Then the Blessed One, getting up from his seat, went to the assembly hall and, on arrival, sat down on the seat laid out. Having sat down, he addressed the bhikkhus:
 
-“Monks, I will teach you the seven conditions that lead to no decline. Listen & pay close attention. I will speak.”
+“bhikkhus, I will teach you the seven conditions that lead to no decline. Listen & pay close attention. I will speak.”
 
-“As you say, lord,” the monks responded to the Blessed One.
-
-The Blessed One said:
-
-“Monks, as long as the monks meet often, meet a great deal, their growth can be expected, not their decline.
-
-“As long as the monks meet in harmony, adjourn from their meetings in harmony, and conduct Saṅgha business in harmony, their growth can be expected, not their decline.
-
-“As long as the monks neither decree what has been undecreed nor repeal what has been decreed, but conduct themselves, having undertaken the training rules as they have been decreed, their growth can be expected, not their decline.
-
-“As long as the monks honor, respect, venerate, and do homage to the elder monks—those with seniority who have long been ordained, the fathers of the Saṅgha, leaders of the Saṅgha—regarding them as worth listening to, their growth can be expected, not their decline.
-
-“As long as the monks do not come under the sway of any arisen craving that leads to further-becoming, their growth can be expected, not their decline.
-
-“As long as the monks see their own benefit in wilderness dwellings, their growth can be expected, not their decline.
-
-“And as long as the monks each keep firmly in mind: ‘If there are any well-behaved companions in the holy life who have yet to come, may they come; and may the well-behaved companions in the holy life who have come live in comfort,’ their growth can be expected, not their decline.
-
-“As long as these seven conditions endure among the monks, and as long as the monks remain steadfast in these seven conditions, the monks’ growth can be expected, not their decline.”[4](#^dn16note04) ^dn16note04-ref
-
-“Monks, I will teach you seven further conditions that lead to no decline. Listen & pay close attention. I will speak.”
-
-“As you say, lord,” the monks responded to the Blessed One.
+“As you say, lord,” the bhikkhus responded to the Blessed One.
 
 The Blessed One said:
 
-“Monks, as long as the monks are not infatuated with (construction) work, do not delight in construction work, and are not committed to infatuation with construction work, the monks’ growth can be expected, not their decline.
+“bhikkhus, as long as the bhikkhus meet often, meet a great deal, their growth can be expected, not their decline.
 
-“As long as the monks are not infatuated with gossip...
+“As long as the bhikkhus meet in harmony, adjourn from their meetings in harmony, and conduct Saṅgha business in harmony, their growth can be expected, not their decline.
 
-“As long as the monks are not infatuated with sleeping...
+“As long as the bhikkhus neither decree what has been undecreed nor repeal what has been decreed, but conduct themselves, having undertaken the training rules as they have been decreed, their growth can be expected, not their decline.
 
-“As long as the monks are not infatuated with entanglement...
+“As long as the bhikkhus honor, respect, venerate, and do homage to the elder bhikkhus—those with seniority who have long been ordained, the fathers of the Saṅgha, leaders of the Saṅgha—regarding them as worth listening to, their growth can be expected, not their decline.
 
-“As long as the monks are not infatuated with evil ambition and have not come under the sway of evil ambitions, the monks’ growth can be expected, not their decline.
+“As long as the bhikkhus do not come under the sway of any arisen craving that leads to further-becoming, their growth can be expected, not their decline.
 
-“As long as the monks do not have evil friends, evil companions, and evil comrades, the monks’ growth can be expected, not their decline.
+“As long as the bhikkhus see their own benefit in wilderness dwellings, their growth can be expected, not their decline.
 
-“And as long as the monks do not stop half-way with lower distinctions & achievements, the monks’ growth can be expected, not their decline.[5](#^dn16note05) ^dn16note05-ref
+“And as long as the bhikkhus each keep firmly in mind: ‘If there are any well-behaved companions in the holy life who have yet to come, may they come; and may the well-behaved companions in the holy life who have come live in comfort,’ their growth can be expected, not their decline.
 
-“As long as these seven conditions endure among the monks, and as long as the monks remain steadfast in these seven conditions, the monks’ growth can be expected, not their decline.”
+“As long as these seven conditions endure among the bhikkhus, and as long as the bhikkhus remain steadfast in these seven conditions, the bhikkhus’ growth can be expected, not their decline.”[4](#^dn16note04) ^dn16note04-ref
 
-“Monks, I will teach you seven further conditions that lead to no decline. Listen & pay close attention. I will speak.”
+“bhikkhus, I will teach you seven further conditions that lead to no decline. Listen & pay close attention. I will speak.”
 
-“As you say, lord,” the monks responded to the Blessed One.
-
-The Blessed One said: “Monks, as long as the monks have conviction... shame... compunction... learning... aroused persistence... established mindfulness... discernment, the monks’ growth can be expected, not their decline.[6](#^dn16note06) ^dn16note06-ref
-
-“As long as these seven conditions endure among the monks, and as long as the monks remain steadfast in these seven conditions, the monks’ growth can be expected, not their decline.”
-
-“Monks, I will teach you seven further conditions that lead to no decline. Listen & pay close attention. I will speak.”
-
-“As you say, lord,” the monks responded to the Blessed One.
+“As you say, lord,” the bhikkhus responded to the Blessed One.
 
 The Blessed One said:
 
-“Monks, as long as the monks develop mindfulness as a factor for awakening... analysis of qualities as a factor for awakening... persistence as a factor for awakening... rapture as a factor for awakening... calm as a factor for awakening... samādhi as a factor for awakening... equanimity as a factor for awakening, the monks’ growth can be expected, not their decline.[7](#^dn16note07) ^dn16note07-ref
+“bhikkhus, as long as the bhikkhus are not infatuated with (construction) work, do not delight in construction work, and are not committed to infatuation with construction work, the bhikkhus’ growth can be expected, not their decline.
 
-“As long as these seven conditions endure among the monks, and as long as the monks remain steadfast in these seven conditions, the monks’ growth can be expected, not their decline.”
+“As long as the bhikkhus are not infatuated with gossip...
 
-“Monks, I will teach you seven further conditions that lead to no decline. Listen & pay close attention. I will speak.”
+“As long as the bhikkhus are not infatuated with sleeping...
 
-“As you say, lord,” the monks responded to the Blessed One.
+“As long as the bhikkhus are not infatuated with entanglement...
 
-The Blessed One said: “Monks, as long as the monks develop the perception of inconstancy... the perception of not-self... the perception of unattractiveness... the perception of drawbacks... the perception of abandoning... the perception of dispassion... the perception of cessation, the monks’ growth can be expected, not their decline.[8](#^dn16note08) ^dn16note08-ref
+“As long as the bhikkhus are not infatuated with evil ambition and have not come under the sway of evil ambitions, the bhikkhus’ growth can be expected, not their decline.
 
-“As long as these seven conditions endure among the monks, and as long as the monks remain steadfast in these seven conditions, the monks’ growth can be expected, not their decline.”
+“As long as the bhikkhus do not have evil friends, evil companions, and evil comrades, the bhikkhus’ growth can be expected, not their decline.
 
-“Monks, I will teach you six further[9](#^dn16note09) conditions that lead to no decline. Listen & pay close attention. I will speak.” ^dn16note09-ref
+“And as long as the bhikkhus do not stop half-way with lower distinctions & achievements, the bhikkhus’ growth can be expected, not their decline.[5](#^dn16note05) ^dn16note05-ref
 
-“As you say, lord,” the monks responded to the Blessed One.
+“As long as these seven conditions endure among the bhikkhus, and as long as the bhikkhus remain steadfast in these seven conditions, the bhikkhus’ growth can be expected, not their decline.”
+
+“bhikkhus, I will teach you seven further conditions that lead to no decline. Listen & pay close attention. I will speak.”
+
+“As you say, lord,” the bhikkhus responded to the Blessed One.
+
+The Blessed One said: “bhikkhus, as long as the bhikkhus have conviction... shame... compunction... learning... aroused persistence... established mindfulness... discernment, the bhikkhus’ growth can be expected, not their decline.[6](#^dn16note06) ^dn16note06-ref
+
+“As long as these seven conditions endure among the bhikkhus, and as long as the bhikkhus remain steadfast in these seven conditions, the bhikkhus’ growth can be expected, not their decline.”
+
+“bhikkhus, I will teach you seven further conditions that lead to no decline. Listen & pay close attention. I will speak.”
+
+“As you say, lord,” the bhikkhus responded to the Blessed One.
 
 The Blessed One said:
 
-“As long as the monks are set on bodily acts of good will with regard to their companions in the holy life, to their faces & behind their backs, the monks’ growth can be expected, not their decline.
+“bhikkhus, as long as the bhikkhus develop mindfulness as a factor for awakening... analysis of qualities as a factor for awakening... persistence as a factor for awakening... rapture as a factor for awakening... calm as a factor for awakening... samādhi as a factor for awakening... equanimity as a factor for awakening, the bhikkhus’ growth can be expected, not their decline.[7](#^dn16note07) ^dn16note07-ref
 
-“As long as the monks are set on verbal acts of good will with regard to their companions in the holy life, to their faces & behind their backs...
+“As long as these seven conditions endure among the bhikkhus, and as long as the bhikkhus remain steadfast in these seven conditions, the bhikkhus’ growth can be expected, not their decline.”
 
-“As long as the monks are set on mental acts of good will with regard to their companions in the holy life, to their faces & behind their backs...
+“bhikkhus, I will teach you seven further conditions that lead to no decline. Listen & pay close attention. I will speak.”
 
-“As long as the monks, whatever righteous gains they may obtain in a righteous way—even if only the alms in their bowls—do not consume them alone, but consume them after sharing them in common with their virtuous companions in the holy life...
+“As you say, lord,” the bhikkhus responded to the Blessed One.
 
-“As long as the monks—with reference to the virtues that are untorn, unbroken, unspotted, unsplattered, liberating, praised by the observant, ungrasped at, leading to samādhi—dwell with their virtue in tune with that of their companions in the holy life, to their faces & behind their backs...
+The Blessed One said: “bhikkhus, as long as the bhikkhus develop the perception of inconstancy... the perception of not-self... the perception of unattractiveness... the perception of drawbacks... the perception of abandoning... the perception of dispassion... the perception of cessation, the bhikkhus’ growth can be expected, not their decline.[8](#^dn16note08) ^dn16note08-ref
 
-“And as long as the monks—with reference to the view that is noble, leading outward, that leads those who act in accordance with it to the right ending of suffering & stress—dwell with their view in tune with those of their companions in the holy life, to their faces & behind their backs, the monks’ growth can be expected, not their decline.
+“As long as these seven conditions endure among the bhikkhus, and as long as the bhikkhus remain steadfast in these seven conditions, the bhikkhus’ growth can be expected, not their decline.”
 
-“As long as these six conditions endure among the monks, and as long as the monks remain steadfast in these six conditions, the monks’ growth can be expected, not their decline.”[10](#^dn16note10) ^dn16note10-ref
+“bhikkhus, I will teach you six further[9](#^dn16note09) conditions that lead to no decline. Listen & pay close attention. I will speak.” ^dn16note09-ref
 
-While staying there near Rājagaha on Vulture Peak Mountain, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+“As you say, lord,” the bhikkhus responded to the Blessed One.
+
+The Blessed One said:
+
+“As long as the bhikkhus are set on bodily acts of good will with regard to their companions in the holy life, to their faces & behind their backs, the bhikkhus’ growth can be expected, not their decline.
+
+“As long as the bhikkhus are set on verbal acts of good will with regard to their companions in the holy life, to their faces & behind their backs...
+
+“As long as the bhikkhus are set on mental acts of good will with regard to their companions in the holy life, to their faces & behind their backs...
+
+“As long as the bhikkhus, whatever righteous gains they may obtain in a righteous way—even if only the alms in their bowls—do not consume them alone, but consume them after sharing them in common with their virtuous companions in the holy life...
+
+“As long as the bhikkhus—with reference to the virtues that are untorn, unbroken, unspotted, unsplattered, liberating, praised by the observant, ungrasped at, leading to samādhi—dwell with their virtue in tune with that of their companions in the holy life, to their faces & behind their backs...
+
+“And as long as the bhikkhus—with reference to the view that is noble, leading outward, that leads those who act in accordance with it to the right ending of suffering & stress—dwell with their view in tune with those of their companions in the holy life, to their faces & behind their backs, the bhikkhus’ growth can be expected, not their decline.
+
+“As long as these six conditions endure among the bhikkhus, and as long as the bhikkhus remain steadfast in these six conditions, the bhikkhus’ growth can be expected, not their decline.”[10](#^dn16note10) ^dn16note10-ref
+
+While staying there near Rājagaha on Vulture Peak Mountain, the Blessed One often gave this Dhamma talk to the bhikkhus: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Rājagaha as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Ambalaṭṭhikā.”[11](#^dn16note11) ^dn16note11-ref
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Ambalaṭṭhikā. There he stayed near Ambalaṭṭhikā at the Royal Cottage. While staying there near Ambalaṭṭhikā at the Royal Cottage, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+Then the Blessed One, together with a large Saṅgha of bhikkhus, went to Ambalaṭṭhikā. There he stayed near Ambalaṭṭhikā at the Royal Cottage. While staying there near Ambalaṭṭhikā at the Royal Cottage, the Blessed One often gave this Dhamma talk to the bhikkhus: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Ambalaṭṭhikā as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Nāḷandā.”
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Nāḷandā. There he stayed near Nāḷandā at the Pāvādika mango grove.
+Then the Blessed One, together with a large Saṅgha of bhikkhus, went to Nāḷandā. There he stayed near Nāḷandā at the Pāvādika mango grove.
 
 Then Ven. Sāriputta went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, Ven. Sāriputta said to the Blessed One, “Lord, I have confidence in the Blessed One that there neither has been nor will be nor is currently found a contemplative or brahman whose direct knowledge of self-awakening is greater than that of the Blessed One!”
 
@@ -256,17 +256,17 @@ Then Ven. Sāriputta went to the Blessed One and, on arrival, having bowed down 
 
 “In the same way, I have known the consistency of the Dhamma: ‘All those who were worthy ones, the rightly self-awakened ones in the past awoke to the unexcelled right self-awakening after having abandoned the five hindrances—those defilements of awareness that weaken discernment—having well-established their minds in the four establishings of mindfulness and having developed, as they have come to be, the seven factors for awakening. All those who will be worthy ones, the rightly self-awakened ones in the future will awaken to the unexcelled right self-awakening after having abandoned the five hindrances—those defilements of awareness that weaken discernment—having well-established their minds in the four establishings of mindfulness and having developed, as they have come to be, the seven factors for awakening. The Blessed One who is now the worthy one, the rightly self-awakened one has awakened to the unexcelled right self-awakening after having abandoned the five hindrances—those defilements of awareness that weaken discernment—having well-established his mind in the four establishings of mindfulness and having developed, as they have come to be, the seven factors for awakening.”
 
-While staying there near Nāḷandā at the Pāvādika mango grove, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Nāḷandā at the Pāvādika mango grove, the Blessed One often gave this Dhamma talk to the bhikkhus: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Nāḷandā as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Pāṭali Village.”
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Pāṭali Village.[13](#^dn16note13) The lay followers of Pāṭali Village heard, “The Blessed One, they say, has reached Pāṭali Village.” So they went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As they were sitting there, they said to him, “Lord, may the Blessed One acquiesce to (the use of) the rest-house hall.” ^dn16note13-ref
+Then the Blessed One, together with a large Saṅgha of bhikkhus, went to Pāṭali Village.[13](#^dn16note13) The lay followers of Pāṭali Village heard, “The Blessed One, they say, has reached Pāṭali Village.” So they went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As they were sitting there, they said to him, “Lord, may the Blessed One acquiesce to (the use of) the rest-house hall.” ^dn16note13-ref
 
 The Blessed One acquiesced with silence. Sensing his acquiescence, the lay followers of Pāṭali Village got up from their seats and, bowing down to him and circumambulating him, went to the rest-house hall. On arrival, they spread it all over with felt rugs, arranged seats, set out a water vessel, and raised an oil lamp. Then they went to the Blessed One and, on arrival, having bowed down to him, stood to one side. As they were standing there, they said to him, “Lord, the rest-house hall has been covered all over with felt rugs, seats have been arranged, a water vessel has been set out, and an oil lamp raised. May the Blessed One do what he thinks it is now time to do.”
 
-So the Blessed One, in the evening,[14](#^dn16note14) after adjusting his lower robe and taking his bowl & outer robe, went together with the Saṅgha of monks to the rest-house hall. On arrival he washed his feet, entered the hall, and sat with his back to the central post, facing east. The Saṅgha of monks washed their feet, entered the hall, and sat with their backs to the western wall, facing east, ranged around the Blessed One. ^dn16note14-ref
+So the Blessed One, in the evening,[14](#^dn16note14) after adjusting his lower robe and taking his bowl & outer robe, went together with the Saṅgha of bhikkhus to the rest-house hall. On arrival he washed his feet, entered the hall, and sat with his back to the central post, facing east. The Saṅgha of bhikkhus washed their feet, entered the hall, and sat with their backs to the western wall, facing east, ranged around the Blessed One. ^dn16note14-ref
 
 The lay followers of Pāṭali Village washed their feet, entered the hall, and sat with their backs to the eastern wall, facing west, ranged around the Blessed One.
 
@@ -316,11 +316,11 @@ Then, getting up in the last watch of the night, the Blessed One addressed Ven. 
 
 “Ānanda, as far as the sphere of the Ariyans extends, as far as merchants’ roads extend, this will be the supreme city: Pāṭaliputta,[15](#^dn16note15) where the seedpods of the Pāṭali plant break open. There will be three dangers for Pāṭaliputta: from fire, from water, or from the breaking of alliances.” ^dn16note15-ref
 
-Then Sunidha & Vassakāra, the chief ministers of Magadha, went to the Blessed One and, on arrival, exchanged courteous greetings with him. After an exchange of friendly greetings & courtesies, they stood to one side. As they were standing there, they said to him, “May Master Gotama acquiesce to our meal today, together with the Saṅgha of monks.” The Blessed One acquiesced with silence.
+Then Sunidha & Vassakāra, the chief ministers of Magadha, went to the Blessed One and, on arrival, exchanged courteous greetings with him. After an exchange of friendly greetings & courtesies, they stood to one side. As they were standing there, they said to him, “May Master Gotama acquiesce to our meal today, together with the Saṅgha of bhikkhus.” The Blessed One acquiesced with silence.
 
 Then Sunidha & Vassakāra, the chief ministers of Magadha, understanding the Blessed One’s acquiescence, went to their rest-house. On arrival, after having exquisite staple & non-staple food prepared in their rest-house, they announced the time to the Blessed One: “It’s time, Master Gotama. The meal is ready.”
 
-Then the Blessed One, early in the morning, adjusted his lower robe and—taking his bowl & outer robe—went together with the Saṅgha of monks to the rest-house of Sunidha & Vassakāra, the chief ministers of Magadha. On arrival, he sat down on the seat laid out. Sunidha & Vassakāra, with their own hands, served & satisfied the Saṅgha of monks, with the Buddha at its head, with exquisite staple & non-staple food. Then, when the Blessed One had finished his meal and had rinsed his bowl & hands, Sunidha & Vassakāra, taking a low seat, sat to one side. As they were sitting there, the Blessed One gave his approval with these verses:
+Then the Blessed One, early in the morning, adjusted his lower robe and—taking his bowl & outer robe—went together with the Saṅgha of bhikkhus to the rest-house of Sunidha & Vassakāra, the chief ministers of Magadha. On arrival, he sat down on the seat laid out. Sunidha & Vassakāra, with their own hands, served & satisfied the Saṅgha of bhikkhus, with the Buddha at its head, with exquisite staple & non-staple food. Then, when the Blessed One had finished his meal and had rinsed his bowl & hands, Sunidha & Vassakāra, taking a low seat, sat to one side. As they were sitting there, the Blessed One gave his approval with these verses:
 
 In whatever place
 
@@ -352,7 +352,7 @@ always meets with auspicious things.
 
 Then the Blessed One, having given his approval to Sunidha & Vassakāra with these verses, got up from his seat and left. And on that occasion, Sunidha & Vassakāra followed right after the Blessed One, (thinking,) “By whichever gate Gotama the contemplative departs today, that will be called the Gotama Gate. And by whichever ford he crosses over the Ganges River, that will be called the Gotama Ford.”
 
-So the gate by which the Blessed One departed was called the Gotama Gate. Then he went to the Ganges River. Now on that occasion the Ganges River was full up to the banks, so that a crow could drink from it. Some people were searching for boats; some were searching for floats; some were binding rafts in hopes of going from this shore to the other. So the Blessed One—just as a strong man might extend his flexed arm or flex his extended arm—disappeared from the near bank of the Ganges River and reappeared on the far bank together with the Saṅgha of monks. He saw that some people were searching for boats; some were searching for floats; some were binding rafts in hopes of going from this shore to the other.
+So the gate by which the Blessed One departed was called the Gotama Gate. Then he went to the Ganges River. Now on that occasion the Ganges River was full up to the banks, so that a crow could drink from it. Some people were searching for boats; some were searching for floats; some were binding rafts in hopes of going from this shore to the other. So the Blessed One—just as a strong man might extend his flexed arm or flex his extended arm—disappeared from the near bank of the Ganges River and reappeared on the far bank together with the Saṅgha of bhikkhus. He saw that some people were searching for boats; some were searching for floats; some were binding rafts in hopes of going from this shore to the other.
 
 Then, on realizing the significance of that, the Blessed One on that occasion exclaimed:
 
@@ -374,9 +374,9 @@ Then the Blessed One said to Ven. Ānanda, “Come, Ānanda, we will head for Ko
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Koṭi Village. There he stayed near Koṭi Village.
+Then the Blessed One, together with a large Saṅgha of bhikkhus, went to Koṭi Village. There he stayed near Koṭi Village.
 
-And there he addressed the monks: “It’s through not awakening to or penetrating four noble truths, monks, that we have transmigrated and wandered on for such a long time, you & I. Which four?
+And there he addressed the bhikkhus: “It’s through not awakening to or penetrating four noble truths, bhikkhus, that we have transmigrated and wandered on for such a long time, you & I. Which four?
 
 “It’s through not awakening to or penetrating the noble truth of stress that we have transmigrated and wandered on for such a long time, you & I. It’s through not awakening to or penetrating the noble truth of the origination of stress... It’s through not awakening to or penetrating the noble truth of the cessation of stress... It’s through not awakening to or penetrating the noble truth of the path of practice leading to cessation of stress that we have transmigrated and wandered on for such a long time, you & I.
 
@@ -400,17 +400,17 @@ crushed is the root of suffering & stress.
 
 There is now no further-becoming.
 
-While staying there near Koṭi Village, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Koṭi Village, the Blessed One often gave this Dhamma talk to the bhikkhus: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Koṭi Village as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Nādikā.”
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Nādikā. There he stayed near Nādikā at the Brick Hall.
+Then the Blessed One, together with a large Saṅgha of bhikkhus, went to Nādikā. There he stayed near Nādikā at the Brick Hall.
 
-Then Ven. Ānanda went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, Ven. Ānanda said to the Blessed One, “Lord, the monk named Sāḷha has died in Nādikā. What is his destination, what his future state? The nun named Nandā has died in Nādikā. What is her destination, what her future state? The male lay-follower named Sudatta has died in Nādikā. What is his destination, what his future state? The female lay-follower named Sujātā has died in Nādikā. What is her destination, what her future state? The male lay-follower named Kakudha... Kāraḷimbha... Nikaṭa... Kaṭissaha... Tuṭṭha... Santuṭṭha... Bhaṭa... Subhaṭa has died in Nādikā. What is his destination, what his future state?”
+Then Ven. Ānanda went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, Ven. Ānanda said to the Blessed One, “Lord, the bhikkhu named Sāḷha has died in Nādikā. What is his destination, what his future state? The nun named Nandā has died in Nādikā. What is her destination, what her future state? The male lay-follower named Sudatta has died in Nādikā. What is his destination, what his future state? The female lay-follower named Sujātā has died in Nādikā. What is her destination, what her future state? The male lay-follower named Kakudha... Kāraḷimbha... Nikaṭa... Kaṭissaha... Tuṭṭha... Santuṭṭha... Bhaṭa... Subhaṭa has died in Nādikā. What is his destination, what his future state?”
 
-“Ānanda, the monk Sāḷha, with the ending of effluents, dwelt in the effluent-free awareness-release and discernment-release, having directly known and realized them for himself right in the here-and-now. The nun Nandā, with the ending of the five lower fetters,[16](#^dn16note16) has spontaneously arisen (in the Pure Abodes,) there to be totally unbound, destined never again to return from that world. Sudatta the male lay-follower, with the ending of [the first] three fetters, and with the attenuation of passion, aversion, & delusion, is a once-returner, who—on returning only once more to this world—will put an end to stress. Sujātā the female lay-follower, with the ending of [the first] three fetters, is a stream-winner, never again destined for states of destitution, certain, headed for self-awakening. Kakudha the male lay-follower... Kāraḷimbha... Nikaṭa... Kaṭissaha... Tuṭṭha... Santuṭṭha... Bhaṭa... Subhaṭa the male lay-follower, with the ending of the five lower fetters, have spontaneously arisen (in the Pure Abodes,) there to be totally unbound, destined never again to return from that world. ^dn16note16-ref
+“Ānanda, the bhikkhu Sāḷha, with the ending of effluents, dwelt in the effluent-free awareness-release and discernment-release, having directly known and realized them for himself right in the here-and-now. The nun Nandā, with the ending of the five lower fetters,[16](#^dn16note16) has spontaneously arisen (in the Pure Abodes,) there to be totally unbound, destined never again to return from that world. Sudatta the male lay-follower, with the ending of [the first] three fetters, and with the attenuation of passion, aversion, & delusion, is a once-returner, who—on returning only once more to this world—will put an end to stress. Sujātā the female lay-follower, with the ending of [the first] three fetters, is a stream-winner, never again destined for states of destitution, certain, headed for self-awakening. Kakudha the male lay-follower... Kāraḷimbha... Nikaṭa... Kaṭissaha... Tuṭṭha... Santuṭṭha... Bhaṭa... Subhaṭa the male lay-follower, with the ending of the five lower fetters, have spontaneously arisen (in the Pure Abodes,) there to be totally unbound, destined never again to return from that world. ^dn16note16-ref
 
 “Ānanda, more than 50 lay-followers who have died in Nādikā, with the ending of the five lower fetters, have spontaneously arisen (in the Pure Abodes,) there to be totally unbound, destined never again to return from that world. 96 lay-followers who have died in Nādikā, with the ending of [the first] three fetters, and with the attenuation of passion, aversion, & delusion, are once-returners, who—on returning only once more to this world—will put an end to stress. 510 lay-followers who have died in Nādikā, with the ending of [the first] three fetters, are stream-winners, never again destined for states of destitution, certain, headed for self-awakening.
 
@@ -430,21 +430,21 @@ Then Ven. Ānanda went to the Blessed One and, on arrival, having bowed down to 
 
 “This, Ānanda, is the Dhamma-mirror Dhamma-discourse, endowed with which a disciple of the noble ones, if he/she so desires, may predict for him or herself: ‘Hell is ended for me; animal wombs are ended; the state of the hungry ghosts is ended; planes of deprivation, the bad destinations, the lower realms are ended! I am a stream-winner, never again destined for the lower realms, certain, headed for self-awakening!’”[18](#^dn16note18) ^dn16note18-ref
 
-While staying there near Nādikā in the Brick House, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Nādikā in the Brick House, the Blessed One often gave this Dhamma talk to the bhikkhus: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Nādikā as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Vesālī.”
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Vesālī. There he stayed near Vesālī in Ambapālī’s grove.
+Then the Blessed One, together with a large Saṅgha of bhikkhus, went to Vesālī. There he stayed near Vesālī in Ambapālī’s grove.
 
-And there he addressed the monks: “Stay mindful, monks, and alert. This is our instruction to you all. And how is a monk mindful? There is the case where a monk remains focused on the body in & of itself—ardent, alert, & mindful—subduing greed & distress with reference to the world. He remains focused on feelings... mind... mental qualities in & of themselves—ardent, alert, & mindful—subduing greed & distress with reference to the world. This is how a monk is mindful.
+And there he addressed the bhikkhus: “Stay mindful, bhikkhus, and alert. This is our instruction to you all. And how is a bhikkhu mindful? There is the case where a bhikkhu ![[Satipatthanas]]. He ![[Satipatthanas]]. This is how a bhikkhu is mindful.
 
-“And how is a monk alert? When going forward & returning, he makes himself alert; when looking toward & looking away... when bending & extending his limbs... when carrying his outer cloak, his upper robe, & his bowl... when eating, drinking, chewing, & savoring... when urinating & defecating... when walking, standing, sitting, falling asleep, waking up, talking, & remaining silent, he makes himself alert. This is how a monk is alert.
+“And how is a bhikkhu alert? When going forward & returning, he makes himself alert; when looking toward & looking away... when bending & extending his limbs... when carrying his outer cloak, his upper robe, & his bowl... when eating, drinking, chewing, & savoring... when urinating & defecating... when walking, standing, sitting, falling asleep, waking up, talking, & remaining silent, he makes himself alert. This is how a bhikkhu is alert.
 
-“Stay mindful, monks, and alert. This is our instruction to you all.”
+“Stay mindful, bhikkhus, and alert. This is our instruction to you all.”
 
-Then Ambapālī the courtesan[19](#^dn16note19) heard, “The Blessed One, they say, has arrived at Vesālī and is staying near Vesālī in my mango _[amba]_ grove!” Then, having auspicious vehicles yoked, she got into an auspicious vehicle, left Vesālī with the auspicious vehicles and drove toward her own garden [the grove]. Going in her vehicle as far as there was ground for a vehicle, getting down from her vehicle, she approached the Blessed One on foot. On arrival, having bowed down to him, she sat to one side. As she was sitting there, the Blessed One instructed, urged, roused, & encouraged her with a talk on Dhamma. Then Ambapālī the courtesan—instructed, urged, roused, & encouraged with the Blessed One’s talk on Dhamma—said to him, “Lord, may the Blessed One acquiesce to my meal tomorrow, together with the Saṅgha of monks.” The Blessed One acquiesced with silence. ^dn16note19-ref
+Then Ambapālī the courtesan[19](#^dn16note19) heard, “The Blessed One, they say, has arrived at Vesālī and is staying near Vesālī in my mango _[amba]_ grove!” Then, having auspicious vehicles yoked, she got into an auspicious vehicle, left Vesālī with the auspicious vehicles and drove toward her own garden [the grove]. Going in her vehicle as far as there was ground for a vehicle, getting down from her vehicle, she approached the Blessed One on foot. On arrival, having bowed down to him, she sat to one side. As she was sitting there, the Blessed One instructed, urged, roused, & encouraged her with a talk on Dhamma. Then Ambapālī the courtesan—instructed, urged, roused, & encouraged with the Blessed One’s talk on Dhamma—said to him, “Lord, may the Blessed One acquiesce to my meal tomorrow, together with the Saṅgha of bhikkhus.” The Blessed One acquiesced with silence. ^dn16note19-ref
 
 Then Ambapālī the courtesan, understanding the Blessed One’s acquiescence, got up from her seat and, bowing down to him and circumambulating him, left.
 
@@ -452,7 +452,7 @@ Then the Licchavis of Vesālī heard, “The Blessed One, they say, has arrived 
 
 Then Ambapālī the courtesan, driving axle to axle, wheel to wheel, yoke to yoke, brought those young Licchavis to a halt. So those Licchavis said to her, “Hey, Ambapālī, what are you doing—driving axle to axle, wheel to wheel, yoke to yoke—bringing the young Licchavis to a halt?”
 
-“Because, young masters, I have invited the Blessed One, together with the Saṅgha of monks, for tomorrow’s meal!”
+“Because, young masters, I have invited the Blessed One, together with the Saṅgha of bhikkhus, for tomorrow’s meal!”
 
 “Give us that meal, Ambapālī, for 100,000!”
 
@@ -460,9 +460,9 @@ Then Ambapālī the courtesan, driving axle to axle, wheel to wheel, yoke to yok
 
 Then the Licchavis snapped their fingers: “How we’ve been defeated by Little Ambapālī! How we’ve been cheated by Little Ambapālī!”[20](#^dn16note20) ^dn16note20-ref
 
-Then the Licchavis set out for Ambapālī’s grove. The Blessed One saw them coming from afar and, on seeing them, he said to the monks, “Those monks who have never before seen the Devas of the Thirty-three, look at the assembly of Licchavis! Gaze at the assembly of Licchavis! Regard the assembly of Licchavis as like the assembly of the Thirty-three!”
+Then the Licchavis set out for Ambapālī’s grove. The Blessed One saw them coming from afar and, on seeing them, he said to the bhikkhus, “Those bhikkhus who have never before seen the Devas of the Thirty-three, look at the assembly of Licchavis! Gaze at the assembly of Licchavis! Regard the assembly of Licchavis as like the assembly of the Thirty-three!”
 
-Then the Licchavis, going in their vehicles as far as there was ground for vehicles, got down from their vehicles and approached the Blessed One on foot. On arrival, having bowed down to him, they sat to one side. As they were sitting there, the Blessed One instructed, urged, roused, & encouraged them with a talk on Dhamma. Then the Licchavis—instructed, urged, roused, and encouraged with the Blessed One’s talk on Dhamma—said to him, “Lord, may the Blessed One acquiesce to our meal tomorrow, together with the Saṅgha of monks.”
+Then the Licchavis, going in their vehicles as far as there was ground for vehicles, got down from their vehicles and approached the Blessed One on foot. On arrival, having bowed down to him, they sat to one side. As they were sitting there, the Blessed One instructed, urged, roused, & encouraged them with a talk on Dhamma. Then the Licchavis—instructed, urged, roused, and encouraged with the Blessed One’s talk on Dhamma—said to him, “Lord, may the Blessed One acquiesce to our meal tomorrow, together with the Saṅgha of bhikkhus.”
 
 “Licchavis, I have already acquiesced to Ambapālī the courtesan’s meal tomorrow.”
 
@@ -472,31 +472,31 @@ Then the Licchavis, delighting in and approving of the Blessed One’s words, go
 
 Then Ambapālī the courtesan, at the end of the night—after having exquisite staple & non-staple food prepared in her own garden—announced the time to the Blessed One: “It’s time, lord. The meal is ready.”
 
-Then the Blessed One, early in the morning, adjusted his lower robe and—taking his bowl & outer robe—went together with the Saṅgha of monks to Ambapālī the courtesan’s meal offering. On arrival, he sat down on the seat laid out. Ambapālī the courtesan, with her own hands, served & satisfied the Saṅgha of monks, with the Buddha at its head, with exquisite staple & non-staple food. Then, when the Blessed One had finished his meal and had rinsed his bowl & hands, Ambapālī the courtesan, taking a low seat, sat to one side. As she was sitting there, she said to the Blessed One, “Lord, I give this garden to the Saṅgha of monks with the Buddha at its head.”
+Then the Blessed One, early in the morning, adjusted his lower robe and—taking his bowl & outer robe—went together with the Saṅgha of bhikkhus to Ambapālī the courtesan’s meal offering. On arrival, he sat down on the seat laid out. Ambapālī the courtesan, with her own hands, served & satisfied the Saṅgha of bhikkhus, with the Buddha at its head, with exquisite staple & non-staple food. Then, when the Blessed One had finished his meal and had rinsed his bowl & hands, Ambapālī the courtesan, taking a low seat, sat to one side. As she was sitting there, she said to the Blessed One, “Lord, I give this garden to the Saṅgha of bhikkhus with the Buddha at its head.”
 
 The the Blessed One accepted the garden. Then—having instructed, urged, roused, & encouraged Ambapālī the courtesan with a talk on Dhamma—got up from his seat and left.
 
-While staying there near Vesālī in Ambapālī’s grove, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Vesālī in Ambapālī’s grove, the Blessed One often gave this Dhamma talk to the bhikkhus: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed in Ambapālī’s grove as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Veḷuva Village.”
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Veḷuva Village. There he stayed near Veḷuva Village.
+Then the Blessed One, together with a large Saṅgha of bhikkhus, went to Veḷuva Village. There he stayed near Veḷuva Village.
 
-And there he addressed the monks: “Come, monks, enter the Rains retreat around Vesālī with your friends, acquaintances, & eating companions. As for me, I will enter the Rains retreat right here near Veḷuva Village.
+And there he addressed the bhikkhus: “Come, bhikkhus, enter the Rains retreat around Vesālī with your friends, acquaintances, & eating companions. As for me, I will enter the Rains retreat right here near Veḷuva Village.
 
-Responding, “As you say, lord,” to the Blessed One, the monks entered the Rains retreat around Vesālī with their friends, acquaintances, & eating companions. The Blessed One entered the Rains retreat right there near Veḷuva Village.
+Responding, “As you say, lord,” to the Blessed One, the bhikkhus entered the Rains retreat around Vesālī with their friends, acquaintances, & eating companions. The Blessed One entered the Rains retreat right there near Veḷuva Village.
 
-Then in the Blessed One, when he had entered the Rains retreat, there arose a severe disease with intense pains & deadly. But the Blessed One endured it—mindful, alert, & not struck down by it. The thought occurred to him, “It would not be proper for me to totally unbind without having addressed my attendants or taken leave of the Saṅgha of monks. Why don’t I, bending back this disease with persistence, keep determining the fabrications of life?” So the Blessed One, bending back the disease with persistence, kept determining the fabrications of life. And his disease calmed down.
+Then in the Blessed One, when he had entered the Rains retreat, there arose a severe disease with intense pains & deadly. But the Blessed One endured it—mindful, alert, & not struck down by it. The thought occurred to him, “It would not be proper for me to totally unbind without having addressed my attendants or taken leave of the Saṅgha of bhikkhus. Why don’t I, bending back this disease with persistence, keep determining the fabrications of life?” So the Blessed One, bending back the disease with persistence, kept determining the fabrications of life. And his disease calmed down.
 
-Then the Blessed One—having recovered from being ill, not long recovered from the illness—went out of the dwelling and sat down on a seat laid out behind the dwelling. Then Ven. Ānanda went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, he said to the Blessed One, “What a happy sight to see the Blessed One’s comfort! What a happy sight to see the Blessed One’s being at ease! Because of the Blessed One’s illness my own body felt as if it were drugged. I lost my bearings. Things were unclear to me. Yet I still took a measure of reassurance in the thought that the Blessed One would not totally unbind as long as he hadn’t given at least some pronouncement concerning the Saṅgha of monks.”
+Then the Blessed One—having recovered from being ill, not long recovered from the illness—went out of the dwelling and sat down on a seat laid out behind the dwelling. Then Ven. Ānanda went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, he said to the Blessed One, “What a happy sight to see the Blessed One’s comfort! What a happy sight to see the Blessed One’s being at ease! Because of the Blessed One’s illness my own body felt as if it were drugged. I lost my bearings. Things were unclear to me. Yet I still took a measure of reassurance in the thought that the Blessed One would not totally unbind as long as he hadn’t given at least some pronouncement concerning the Saṅgha of bhikkhus.”
 
-“What more does the Saṅgha of monks want from me, Ānanda? I have taught the Dhamma without making an inside or outside (version).[21](#^dn16note21) The Tathāgata has no closed fist with regard to teachings.[22](#^dn16note22) To whomever the thought occurs, ‘I will govern the Saṅgha of monks,’ or ‘The Saṅgha of monks looks to me,’ he should give some pronouncement concerning the Saṅgha of monks. But the thought doesn’t occur to the Tathāgata that ‘I will govern the Saṅgha of monks,’ or ‘The Saṅgha of monks looks to me.’ So why should he give some pronouncement concerning the Saṅgha of monks? ^dn16note21-ref ^dn16note22-ref
+“What more does the Saṅgha of bhikkhus want from me, Ānanda? I have taught the Dhamma without making an inside or outside (version).[21](#^dn16note21) The Tathāgata has no closed fist with regard to teachings.[22](#^dn16note22) To whomever the thought occurs, ‘I will govern the Saṅgha of bhikkhus,’ or ‘The Saṅgha of bhikkhus looks to me,’ he should give some pronouncement concerning the Saṅgha of bhikkhus. But the thought doesn’t occur to the Tathāgata that ‘I will govern the Saṅgha of bhikkhus,’ or ‘The Saṅgha of bhikkhus looks to me.’ So why should he give some pronouncement concerning the Saṅgha of bhikkhus? ^dn16note21-ref ^dn16note22-ref
 
 “I am now aged, Ānanda: old, elderly, advanced in years, having come to the last stage of life, 80 years old. Just as an old cart is kept going with the help of bamboo strips, the Tathāgata’s body is kept going with the help of bamboo strips, as it were. When the Tathāgata—not attending to any theme at all, and with the cessation of certain feelings—enters & remains in the theme-less samādhi of awareness, that is when his body is more at ease.
 
-“So, Ānanda, you should all live with yourselves as your island, yourselves as your refuge, with no other as your refuge; with the Dhamma as your island, the Dhamma as your refuge, with no other as your refuge. And how does a monk live with himself as his island, himself as his refuge, with no other as his refuge; with the Dhamma as his island, the Dhamma as his refuge, with no other as his refuge? There is the case where a monk remains focused on the body in & of itself—ardent, alert, & mindful—subduing greed & distress with reference to the world. He remains focused on feelings in & of themselves... mind in & of itself... mental qualities in & of themselves—ardent, alert, & mindful—subduing greed & distress with reference to the world. This is how a monk lives with himself as his island, himself as his refuge, with no other as his refuge; with the Dhamma as his island, the Dhamma as his refuge, with no other as his refuge. For those who, now or when I am gone, live with themselves as their island, themselves as their refuge, with no other as their refuge; with the Dhamma as their island, the Dhamma as their refuge, not with another as their refuge, will be my foremost monks: those who are desirous of training.”
+“So, Ānanda, you should all live with yourselves as your island, yourselves as your refuge, with no other as your refuge; with the Dhamma as your island, the Dhamma as your refuge, with no other as your refuge. And how does a bhikkhu live with himself as his island, himself as his refuge, with no other as his refuge; with the Dhamma as his island, the Dhamma as his refuge, with no other as his refuge? There is the case where a bhikkhu ![[Satipatthanas]]. He ![[Satipatthanas]]. This is how a bhikkhu lives with himself as his island, himself as his refuge, with no other as his refuge; with the Dhamma as his island, the Dhamma as his refuge, with no other as his refuge. For those who, now or when I am gone, live with themselves as their island, themselves as their refuge, with no other as their refuge; with the Dhamma as their island, the Dhamma as their refuge, not with another as their refuge, will be my foremost bhikkhus: those who are desirous of training.”
 
 #### [ III ]
 
@@ -520,9 +520,9 @@ Then the Blessed One addressed Ven. Ānanda, “Go, Ānanda. Do what you think i
 
 Responding, “As you say, lord,” to the Blessed One, Ven. Ānanda got up from his seat and, bowing down to him and circumambulating him, went to sit under a tree not far from the Blessed One.
 
-Then, not long after Ven. Ānanda had left, Māra the Evil One went to the Blessed One and, on arrival, stood to one side. As he was standing there, he said to the Blessed One, “May the Blessed One totally unbind now, lord. May the One Well-Gone totally unbind now, lord. Now is the time for the Blessed One’s total unbinding, lord. After all, these words were said by the Blessed One: ‘Evil One, I will not totally unbind as long as my monk disciples are not yet experienced, trained, attained to confidence, learned, maintaining the Dhamma, practicing the Dhamma in line with the Dhamma, practicing masterfully, living in line with the Dhamma; declaring the Dhamma—after having learned it from their own teachers—teaching it, describing it, setting it forth, revealing it, explaining it, making it plain; well-refuting, in line with the Dhamma, any opposing teachings that have arisen; teaching the Dhamma with its marvels.’[26](#^dn16note26) ^dn16note26-ref
+Then, not long after Ven. Ānanda had left, Māra the Evil One went to the Blessed One and, on arrival, stood to one side. As he was standing there, he said to the Blessed One, “May the Blessed One totally unbind now, lord. May the One Well-Gone totally unbind now, lord. Now is the time for the Blessed One’s total unbinding, lord. After all, these words were said by the Blessed One: ‘Evil One, I will not totally unbind as long as my bhikkhu disciples are not yet experienced, trained, attained to confidence, learned, maintaining the Dhamma, practicing the Dhamma in line with the Dhamma, practicing masterfully, living in line with the Dhamma; declaring the Dhamma—after having learned it from their own teachers—teaching it, describing it, setting it forth, revealing it, explaining it, making it plain; well-refuting, in line with the Dhamma, any opposing teachings that have arisen; teaching the Dhamma with its marvels.’[26](#^dn16note26) ^dn16note26-ref
 
-“But now, lord, the Blessed One’s monk disciples are experienced, trained, attained to confidence, learned, maintaining the Dhamma, practicing the Dhamma in line with the Dhamma, practicing masterfully, living in line with the Dhamma; declaring the Dhamma—after having learned it from their own teachers—teaching it, describing it, setting it forth, revealing it, explaining it, making it plain; well-refuting, in line with the Dhamma, any opposing teachings that have arisen; teaching the Dhamma with its marvels.
+“But now, lord, the Blessed One’s bhikkhu disciples are experienced, trained, attained to confidence, learned, maintaining the Dhamma, practicing the Dhamma in line with the Dhamma, practicing masterfully, living in line with the Dhamma; declaring the Dhamma—after having learned it from their own teachers—teaching it, describing it, setting it forth, revealing it, explaining it, making it plain; well-refuting, in line with the Dhamma, any opposing teachings that have arisen; teaching the Dhamma with its marvels.
 
 “May the Blessed One totally unbind now, lord. May the One Well-Gone totally unbind now, lord. Now is the time for the Blessed One’s total unbinding, lord. After all, these words were said by the Blessed One: ‘Evil One, I will not totally unbind as long as my nun disciples... my male lay-follower disciples... my female lay-follower disciples are not yet experienced, trained, attained to maturity, learned, maintaining the Dhamma, practicing the Dhamma in line with the Dhamma, practicing masterfully, living in line with the Dhamma; declaring the Dhamma—after having learned it from their own teachers—teaching it, describing it, setting it forth, revealing it, explaining it, making it plain; well-refuting, in line with the Dhamma, any opposing teachings that have arisen; teaching the Dhamma with its marvels.’
 
@@ -630,13 +630,13 @@ So Ven. Ānanda went to the Blessed One and, on arrival, having bowed down to hi
 
 “One time, Ānanda, I was staying in Uruvelā on the bank of the Nerañjarā River at the Goat-herd Banyan, newly awakened. Then Māra, the Evil One, approached me and, on arrival, stood to one side. As he was standing there, he said to me, ‘May the Blessed One totally unbind now, lord. May the One Well-Gone totally unbind now, lord. Now is the time for the Blessed One’s total unbinding, lord.’
 
-“When this was said, I said to Māra, the Evil One, ‘Evil One, I will not totally unbind as long as my monk disciples are not yet experienced, trained, attained to confidence, learned, maintaining the Dhamma, practicing the Dhamma in line with the Dhamma, practicing masterfully, living in line with the Dhamma; declaring the Dhamma—after having learned it from their own teachers—teaching it, describing it, setting it forth, revealing it, explaining it, making it plain; well-refuting, in line with the Dhamma, any opposing teachings that have arisen; teaching the Dhamma with its marvels.’
+“When this was said, I said to Māra, the Evil One, ‘Evil One, I will not totally unbind as long as my bhikkhu disciples are not yet experienced, trained, attained to confidence, learned, maintaining the Dhamma, practicing the Dhamma in line with the Dhamma, practicing masterfully, living in line with the Dhamma; declaring the Dhamma—after having learned it from their own teachers—teaching it, describing it, setting it forth, revealing it, explaining it, making it plain; well-refuting, in line with the Dhamma, any opposing teachings that have arisen; teaching the Dhamma with its marvels.’
 
 “‘Evil One, I will not totally unbind as long as my nun disciples... my male lay-follower disciples... my female lay-follower disciples are not yet experienced, trained, attained to maturity, learned, maintaining the Dhamma, practicing the Dhamma in line with the Dhamma, practicing masterfully, living in line with the Dhamma; declaring the Dhamma—after having learned it from their own teachers—teaching it, describing it, setting it forth, revealing it, explaining it, making it plain; well-refuting, in line with the Dhamma, any opposing teachings that have arisen; teaching the Dhamma with its marvels.
 
 “‘Evil One, I will not totally unbind as long as this holy life of mine is not powerful, prosperous, widely-spread, disseminated among many people, well-expounded as far as there are human beings & devas.’
 
-“And just now, Ānanda, (here) at the Pāvāla Shrine, Māra the Evil One approached me and, on arrival, stood to one side. As he was standing here, he said to me, ‘May the Blessed One totally unbind now, lord. May the One Well-Gone totally unbind now, lord. Now is the time for the Blessed One’s total unbinding, lord. After all, these words were said by the Blessed One: “Evil One, I will not totally unbind as long as my monk disciples are not yet experienced, as long as my nun disciples... my male lay-follower disciples... my female lay-follower disciples are not yet experienced... as long as this holy life of mine is not powerful, prosperous, widely-spread, disseminated among many people, well-expounded as far as there are human beings & devas.” But now, lord, the Blessed One’s holy life is powerful, prosperous, widely-spread, disseminated among many people, well-expounded as far as there are human beings & devas.
+“And just now, Ānanda, (here) at the Pāvāla Shrine, Māra the Evil One approached me and, on arrival, stood to one side. As he was standing here, he said to me, ‘May the Blessed One totally unbind now, lord. May the One Well-Gone totally unbind now, lord. Now is the time for the Blessed One’s total unbinding, lord. After all, these words were said by the Blessed One: “Evil One, I will not totally unbind as long as my bhikkhu disciples are not yet experienced, as long as my nun disciples... my male lay-follower disciples... my female lay-follower disciples are not yet experienced... as long as this holy life of mine is not powerful, prosperous, widely-spread, disseminated among many people, well-expounded as far as there are human beings & devas.” But now, lord, the Blessed One’s holy life is powerful, prosperous, widely-spread, disseminated among many people, well-expounded as far as there are human beings & devas.
 
 “‘May the Blessed One totally unbind now, lord. May the One Well-Gone totally unbind now, lord. Now is the time for the Blessed One’s total unbinding, lord.’
 
@@ -678,13 +678,13 @@ A second time... A third time, Ven. Ānanda said to the Blessed One, “Lord, ma
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One together with Ven. Ānanda went to the Great Forest and to the Gabled Hall. On arrival, the Blessed One said to Ven. Ānanda, “Go, Ānanda. Have all the monks living in dependence on Vesālī gather at the assembly hall.”
+Then the Blessed One together with Ven. Ānanda went to the Great Forest and to the Gabled Hall. On arrival, the Blessed One said to Ven. Ānanda, “Go, Ānanda. Have all the bhikkhus living in dependence on Vesālī gather at the assembly hall.”
 
-Responding, “As you say, lord,” to the Blessed One, Ven. Ānanda—having had all the monks living in dependence on Vesālī gather at the assembly hall—approached the Blessed One. On arrival, having bowed down to him, he stood to one side. As he was standing there, he said to the Blessed One, “The Saṅgha of monks has gathered, lord. May the Blessed One do what he thinks it is now time to do.”
+Responding, “As you say, lord,” to the Blessed One, Ven. Ānanda—having had all the bhikkhus living in dependence on Vesālī gather at the assembly hall—approached the Blessed One. On arrival, having bowed down to him, he stood to one side. As he was standing there, he said to the Blessed One, “The Saṅgha of bhikkhus has gathered, lord. May the Blessed One do what he thinks it is now time to do.”
 
-Then the Blessed One went to the assembly hall and, on arrival, sat down on the seat laid out. Having sat down, he addressed the monks: “Monks, the qualities I have taught, having known them directly: You should grasp them thoroughly, cultivate them, develop them, & pursue them so that this holy life may long endure & remain steadfast for the benefit, welfare, & happiness of the multitude, out of sympathy for the world, for the benefit, welfare, & happiness of human beings & devas. And which are the qualities I have taught... for the benefit, welfare, & happiness of human beings & devas? The four establishings of mindfulness, the four right exertions, the four bases of power, the five faculties, the five strengths, the seven factors for awakening, the noble eightfold path.[33](#^dn16note33) These are the qualities I have taught, having known them directly, that you should grasp thoroughly, cultivate, develop, & pursue so that this holy life may long endure & remain steadfast for the benefit, welfare, & happiness of the multitude, out of sympathy for the world, for the benefit, welfare, & happiness of human beings & devas.” ^dn16note33-ref
+Then the Blessed One went to the assembly hall and, on arrival, sat down on the seat laid out. Having sat down, he addressed the bhikkhus: “bhikkhus, the qualities I have taught, having known them directly: You should grasp them thoroughly, cultivate them, develop them, & pursue them so that this holy life may long endure & remain steadfast for the benefit, welfare, & happiness of the multitude, out of sympathy for the world, for the benefit, welfare, & happiness of human beings & devas. And which are the qualities I have taught... for the benefit, welfare, & happiness of human beings & devas? The four establishings of mindfulness, the four right exertions, the four bases of power, the five faculties, the five strengths, the seven factors for awakening, the noble eightfold path.[33](#^dn16note33) These are the qualities I have taught, having known them directly, that you should grasp thoroughly, cultivate, develop, & pursue so that this holy life may long endure & remain steadfast for the benefit, welfare, & happiness of the multitude, out of sympathy for the world, for the benefit, welfare, & happiness of human beings & devas.” ^dn16note33-ref
 
-Then the Blessed One addressed the monks, ‘I exhort you, monks: All fabrications are subject to decay. Reach consummation through heedfulness.[34](#^dn16note34) It won’t be long until the Tathāgata’s total unbinding. In three months’ time from now, the Tathāgata will totally unbind.” ^dn16note34-ref
+Then the Blessed One addressed the bhikkhus, ‘I exhort you, bhikkhus: All fabrications are subject to decay. Reach consummation through heedfulness.[34](#^dn16note34) It won’t be long until the Tathāgata’s total unbinding. In three months’ time from now, the Tathāgata will totally unbind.” ^dn16note34-ref
 
 That is what the Blessed One said. Having said that, the One Well-Gone said further:
 
@@ -720,7 +720,7 @@ having made my refuge
 
 for myself.
 
-Be heedful, monks,
+Be heedful, bhikkhus,
 
 mindful, virtuous.
 
@@ -748,9 +748,9 @@ Then the Blessed One, early in the morning, adjusted his lower robe and—taking
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Bhaṇḍa Village. There the Blessed One stayed near Bhaṇḍa Village.
+Then the Blessed One, together with a large Saṅgha of bhikkhus, went to Bhaṇḍa Village. There the Blessed One stayed near Bhaṇḍa Village.
 
-And there he addressed the monks, “It’s through not awakening to or penetrating four qualities, monks, that we have transmigrated and wandered on for such a long time, you & I. Which four?
+And there he addressed the bhikkhus, “It’s through not awakening to or penetrating four qualities, bhikkhus, that we have transmigrated and wandered on for such a long time, you & I. Which four?
 
 “It’s through not awakening to or penetrating noble virtue that we have transmigrated and wandered on for such a long time, you & I. It’s through not awakening to or penetrating noble samādhi... It’s through not awakening to or penetrating noble discernment... It’s through not awakening to or penetrating noble release that we have transmigrated and wandered on for such a long time, you & I.
 
@@ -766,7 +766,7 @@ These qualities have been awakened to
 
 by Gotama, the prestigious.
 
-Directly knowing this, he shows it to the monks—
+Directly knowing this, he shows it to the bhikkhus—
 
 the awakened one,
 
@@ -776,47 +776,47 @@ the one with eyes,
 
 totally unbound.
 
-While staying there at Bhaṇḍa Village, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there at Bhaṇḍa Village, the Blessed One often gave this Dhamma talk to the bhikkhus: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Bhaṇḍa Village as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Hatthi Village, Amba Village, Jambu Village, to Bhoganagara.”
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Bhoganagara. There the Blessed One stayed near Bhoganagara at the Ānanda shrine.
+Then the Blessed One, together with a large Saṅgha of bhikkhus, went to Bhoganagara. There the Blessed One stayed near Bhoganagara at the Ānanda shrine.
 
-There the Blessed One addressed the monks, “Monks, I will teach you four great standards. Listen and pay careful attention.”
+There the Blessed One addressed the bhikkhus, “bhikkhus, I will teach you four great standards. Listen and pay careful attention.”
 
-“As you say, lord,” the monks responded to him.
+“As you say, lord,” the bhikkhus responded to him.
 
-The Blessed One said, “There is the case where a monk says this: ‘Face-to-face with the Blessed One have I heard this, face-to-face have I received this: This is the Dhamma, this is the Vinaya, this is the Teacher’s instruction.’ His statement is neither to be approved nor scorned. Without approval or scorn, take careful note of his words and make them stand against the suttas and tally them against the Vinaya. If, on making them stand against the suttas and tallying them against the Vinaya, you find that they don’t stand with the suttas or tally with the Vinaya, you may conclude: ‘This is not the word of the Blessed One; this monk has misunderstood it’—and you should reject it. But if, on making them stand against the suttas and tallying them against the Vinaya, you find that they stand with the suttas and tally with the Vinaya, you may conclude: ‘This is the word of the Blessed One; this monk has understood it rightly.’
+The Blessed One said, “There is the case where a bhikkhu says this: ‘Face-to-face with the Blessed One have I heard this, face-to-face have I received this: This is the Dhamma, this is the Vinaya, this is the Teacher’s instruction.’ His statement is neither to be approved nor scorned. Without approval or scorn, take careful note of his words and make them stand against the suttas and tally them against the Vinaya. If, on making them stand against the suttas and tallying them against the Vinaya, you find that they don’t stand with the suttas or tally with the Vinaya, you may conclude: ‘This is not the word of the Blessed One; this bhikkhu has misunderstood it’—and you should reject it. But if, on making them stand against the suttas and tallying them against the Vinaya, you find that they stand with the suttas and tally with the Vinaya, you may conclude: ‘This is the word of the Blessed One; this bhikkhu has understood it rightly.’
 
-“Then there is the case where a monk says this: ‘In a monastery over there dwells a Saṅgha with well-known leading elders. Face-to-face with that Saṅgha I have heard this, face-to-face have I received this: This is the Dhamma, this is the Vinaya, this is the Teacher’s instruction.’ ...
+“Then there is the case where a bhikkhu says this: ‘In a monastery over there dwells a Saṅgha with well-known leading elders. Face-to-face with that Saṅgha I have heard this, face-to-face have I received this: This is the Dhamma, this is the Vinaya, this is the Teacher’s instruction.’ ...
 
-“Then there is the case where a monk says this: ‘In a monastery over there dwell many learned elder monks, well-versed in the tradition, who have memorized the Dhamma, the Vinaya, and the Mātikā.[35](#^dn16note35) Face-to-face with those elders I have heard this, face-to-face have I received this: This is the Dhamma, this is the Vinaya, this is the Teacher’s instruction.’ ... ^dn16note35-ref
+“Then there is the case where a bhikkhu says this: ‘In a monastery over there dwell many learned elder bhikkhus, well-versed in the tradition, who have memorized the Dhamma, the Vinaya, and the Mātikā.[35](#^dn16note35) Face-to-face with those elders I have heard this, face-to-face have I received this: This is the Dhamma, this is the Vinaya, this is the Teacher’s instruction.’ ... ^dn16note35-ref
 
-“Then there is the case where a monk says this: ‘In a monastery over there dwells a learned elder monk, well-versed in the tradition, who has memorized the Dhamma, the Vinaya, and the Mātikā. Face-to-face with that elder I have heard this, face-to-face have I received this: This is the Dhamma, this is the Vinaya, this is the Teacher’s instruction.’ His statement is neither to be approved nor scorned. Without approval or scorn, take careful note of his words and make them stand against the suttas and tally them against the Vinaya. If, on making them stand against the suttas and tallying them against the Vinaya, you find that they don’t stand with the suttas or tally with the Vinaya, you may conclude: ‘This is not the word of the Blessed One; this monk has misunderstood it’—and you should reject it. But if, on making them stand against the suttas and tallying them against the Vinaya, you find that they stand with the suttas and tally with the Vinaya, you may conclude: ‘This is the word of the Blessed One; this monk has understood it rightly.’
+“Then there is the case where a bhikkhu says this: ‘In a monastery over there dwells a learned elder bhikkhu, well-versed in the tradition, who has memorized the Dhamma, the Vinaya, and the Mātikā. Face-to-face with that elder I have heard this, face-to-face have I received this: This is the Dhamma, this is the Vinaya, this is the Teacher’s instruction.’ His statement is neither to be approved nor scorned. Without approval or scorn, take careful note of his words and make them stand against the suttas and tally them against the Vinaya. If, on making them stand against the suttas and tallying them against the Vinaya, you find that they don’t stand with the suttas or tally with the Vinaya, you may conclude: ‘This is not the word of the Blessed One; this bhikkhu has misunderstood it’—and you should reject it. But if, on making them stand against the suttas and tallying them against the Vinaya, you find that they stand with the suttas and tally with the Vinaya, you may conclude: ‘This is the word of the Blessed One; this bhikkhu has understood it rightly.’
 
-“Monks, remember these four great standards.”
+“bhikkhus, remember these four great standards.”
 
-While staying there near Bhoganagara at the Ānanda shrine, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Bhoganagara at the Ānanda shrine, the Blessed One often gave this Dhamma talk to the bhikkhus: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Bhoganagara at the Ānanda shrine as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Pāvā.”
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Pāvā. There the Blessed One stayed near Pāvā in the mango grove of Cunda the silversmith.
+Then the Blessed One, together with a large Saṅgha of bhikkhus, went to Pāvā. There the Blessed One stayed near Pāvā in the mango grove of Cunda the silversmith.
 
 Cunda the silversmith heard, “The Blessed One, they say, on reaching Pāvā, is staying near Pāvā in my mango grove.”
 
-So Cunda went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, the Blessed One instructed, urged, roused, & encouraged him with Dhamma talk. Then Cunda—instructed, urged, roused, & encouraged by the Blessed One’s Dhamma talk—said to him, “Lord, may the Blessed One acquiesce to my meal tomorrow, together with the Saṅgha of monks.”
+So Cunda went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, the Blessed One instructed, urged, roused, & encouraged him with Dhamma talk. Then Cunda—instructed, urged, roused, & encouraged by the Blessed One’s Dhamma talk—said to him, “Lord, may the Blessed One acquiesce to my meal tomorrow, together with the Saṅgha of bhikkhus.”
 
 The Blessed One acquiesced with silence.
 
 Then Cunda, understanding the Blessed One’s acquiescence, got up from his seat and, bowing down to him and circumambulating him, left. Then, at the end of the night, after having exquisite staple & non-staple food—including a large amount of pig-delicacy[36](#^dn16note36)—prepared in his own home, he announced the time to the Blessed One: “It’s time, lord. The meal is ready.” ^dn16note36-ref
 
-Then the Blessed One, early in the morning, adjusted his lower robe and—taking his bowl & outer robe—went together with the Saṅgha of monks to Cunda’s home. On arrival, he sat down on the seat laid out. Seated, he said to Cunda, “Cunda, serve me with the pig-delicacy you have had prepared, and the Saṅgha of monks with the other staple & non-staple food you have had prepared.”
+Then the Blessed One, early in the morning, adjusted his lower robe and—taking his bowl & outer robe—went together with the Saṅgha of bhikkhus to Cunda’s home. On arrival, he sat down on the seat laid out. Seated, he said to Cunda, “Cunda, serve me with the pig-delicacy you have had prepared, and the Saṅgha of bhikkhus with the other staple & non-staple food you have had prepared.”
 
-Responding, “As you say, lord,” to the Blessed One, Cunda served the Blessed One with the pig-delicacy he had had prepared, and the Saṅgha of monks with the other staple & non-staple food he had had prepared. Then the Blessed One said to him, “Cunda, bury the remaining pig-delicacy in a pit. I don’t see anyone in the world together with its devas, Māras, &Brahmās, in this generation with its contemplatives &brahmans, its rulers &commonfolk, in whom, when it was ingested, it would go to a healthy change, aside from the Tathāgata.”
+Responding, “As you say, lord,” to the Blessed One, Cunda served the Blessed One with the pig-delicacy he had had prepared, and the Saṅgha of bhikkhus with the other staple & non-staple food he had had prepared. Then the Blessed One said to him, “Cunda, bury the remaining pig-delicacy in a pit. I don’t see anyone in the world together with its devas, Māras, &Brahmās, in this generation with its contemplatives &brahmans, its rulers &commonfolk, in whom, when it was ingested, it would go to a healthy change, aside from the Tathāgata.”
 
 Responding, “As you say, lord,” to the Blessed One, Cunda buried the remaining pig-delicacy in a pit, went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, the Blessed One—after instructing, urging, rousing, & encouraging him with Dhamma talk—got up from his seat and left.
 
@@ -900,7 +900,7 @@ Now on that occasion Pukkusa Mallaputta, a disciple of Āḷāra Kālāma was tr
 
 “Then the thought occurred to that man, ‘How amazing! How astounding: the peaceful abiding by which those gone forth abide—in that, when the rain-deva was raining, the rain-deva was pouring, lightning-streaks were shooting out, and a thunderbolt split (the air), he would neither see them nor hear a sound!’ Having proclaimed immense conviction in me, he circumambulated me and then left.”
 
-When this was said, Pukkusa Mallaputta said to the Blessed One, “The conviction I had in Āḷāra Kālāma I winnow before a high wind or wash away in the swift current of a river. Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of monks. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
+When this was said, Pukkusa Mallaputta said to the Blessed One, “The conviction I had in Āḷāra Kālāma I winnow before a high wind or wash away in the swift current of a river. Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
 Then Pukkusa Mallaputta addressed a certain man, “Come now, I say. Fetch me a pair of gold-colored robes, ready to wear.”
 
@@ -930,7 +930,7 @@ the Teacher of golden complexion
 
 shone brightly.
 
-Then the Blessed One, together with the large Saṅgha of monks, went to the Kakudha River and, after arriving at the Kakudha River, going down, bathing, drinking, & coming back out, went to a mango grove. On arrival, the Blessed One said to Ven. Cundaka, “Cundaka, please arrange my outer robe folded in four. I am tired. I will lie down.”
+Then the Blessed One, together with the large Saṅgha of bhikkhus, went to the Kakudha River and, after arriving at the Kakudha River, going down, bathing, drinking, & coming back out, went to a mango grove. On arrival, the Blessed One said to Ven. Cundaka, “Cundaka, please arrange my outer robe folded in four. I am tired. I will lie down.”
 
 Responding, “As you say, lord,” to the Blessed One, Ven. Cundaka arranged the outer robe folded in four. The Blessed One, lying on his right side, took up the lion’s posture, placing one foot on top of the other—mindful, alert, and attending to the perception of getting up. Ven. Cundaka sat in front of him.
 
@@ -948,7 +948,7 @@ went down, bathed, drank, & came out.
 
 Honored, surrounded,
 
-in the midst of the group of monks,
+in the midst of the group of bhikkhus,
 
 the Blessed One, Teacher,
 
@@ -958,7 +958,7 @@ the great seer,
 
 went to the mango grove.
 
-He addressed the monk named Cundaka,
+He addressed the bhikkhu named Cundaka,
 
 “Spread it out, folded in four
 
@@ -1006,27 +1006,27 @@ Then the Blessed One said to Ven. Ānanda: “Come, Ānanda, we will head for th
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One with a large Saṅgha of monks went to the far shore of the Hiraññavati River, to Upavattana, the Mallans’ Sal Forest near Kusinārā. On arrival, he said to Ven. Ānanda, “Ānanda, please prepare a bed for me between the twin Sal trees, with its head to the north. I am tired and will lie down.”
+Then the Blessed One with a large Saṅgha of bhikkhus went to the far shore of the Hiraññavati River, to Upavattana, the Mallans’ Sal Forest near Kusinārā. On arrival, he said to Ven. Ānanda, “Ānanda, please prepare a bed for me between the twin Sal trees, with its head to the north. I am tired and will lie down.”
 
 Responding, “As you say, lord,” to the Blessed One, Ven. Ānanda prepared a bed between the twin Sal trees, with its head to the north. Then the Blessed One lay down on his right side in the lion’s sleeping posture, with one foot on top of the other, mindful & alert.[42](#^dn16note42) ^dn16note42-ref
 
 Now on that occasion the twin Sal trees were in full bloom, even though it was not the time for flowering. They showered, strewed, & sprinkled on the Tathāgata’s body in homage to him. Heavenly coral-tree blossoms fell from the sky, showering, strewing, & sprinkling the Tathāgata’s body in homage to him. Heavenly sandalwood powder fell from the sky, showering, strewing, & sprinkling the Tathāgata’s body in homage to him. Heavenly music was playing in the sky, in homage to the Tathāgata. Heavenly songs were sung in the sky, in homage to the Tathāgata.
 
-Then the Blessed One said to Ven. Ānanda, “Ānanda, the twin Sal trees are in full bloom, even though it’s not the flowering season. They shower, strew, & sprinkle on the Tathāgata’s body in homage to him. Heavenly coral-tree blossoms are falling from the sky.... Heavenly sandalwood powder is falling from the sky.... Heavenly music is playing in the sky.... Heavenly songs are sung in the sky, in homage to the Tathāgata. But it is not to this extent that a Tathāgata is worshipped, honored, respected, venerated, or paid homage to. Rather, the monk, nun, male lay follower, or female lay follower who keeps practicing the Dhamma in accordance with the Dhamma, who keeps practicing masterfully, who lives in accordance with the Dhamma: That is the person who worships, honors, respects, venerates, & pays homage to the Tathāgata with the highest homage. So you should train yourselves: ‘We will keep practicing the Dhamma in accordance with the Dhamma, we will keep practicing masterfully, we will live in accordance with the Dhamma.’[43](#^dn16note43) That’s how you should train yourselves.” ^dn16note43-ref
+Then the Blessed One said to Ven. Ānanda, “Ānanda, the twin Sal trees are in full bloom, even though it’s not the flowering season. They shower, strew, & sprinkle on the Tathāgata’s body in homage to him. Heavenly coral-tree blossoms are falling from the sky.... Heavenly sandalwood powder is falling from the sky.... Heavenly music is playing in the sky.... Heavenly songs are sung in the sky, in homage to the Tathāgata. But it is not to this extent that a Tathāgata is worshipped, honored, respected, venerated, or paid homage to. Rather, the bhikkhu, nun, male lay follower, or female lay follower who keeps practicing the Dhamma in accordance with the Dhamma, who keeps practicing masterfully, who lives in accordance with the Dhamma: That is the person who worships, honors, respects, venerates, & pays homage to the Tathāgata with the highest homage. So you should train yourselves: ‘We will keep practicing the Dhamma in accordance with the Dhamma, we will keep practicing masterfully, we will live in accordance with the Dhamma.’[43](#^dn16note43) That’s how you should train yourselves.” ^dn16note43-ref
 
-Now on that occasion Ven. Upavāṇa was standing in front of the Blessed One, fanning him. Then the Blessed One dismissed him, saying, “Go away, monk. Don’t stand in front of me.” Then the thought occurred to Ven. Ānanda, “For a long time, now, this Ven. Upavāṇa has been an attendant to the Blessed One, staying near him and traveling with him. But now, in his final hour, he dismisses him, saying, ‘Go away, monk. Don’t stand in front of me.’ Now what is the reason, what is the cause, why the Blessed One dismisses him, saying, ‘Go away, monk. Don’t stand in front of me’?”
+Now on that occasion Ven. Upavāṇa was standing in front of the Blessed One, fanning him. Then the Blessed One dismissed him, saying, “Go away, bhikkhu. Don’t stand in front of me.” Then the thought occurred to Ven. Ānanda, “For a long time, now, this Ven. Upavāṇa has been an attendant to the Blessed One, staying near him and traveling with him. But now, in his final hour, he dismisses him, saying, ‘Go away, bhikkhu. Don’t stand in front of me.’ Now what is the reason, what is the cause, why the Blessed One dismisses him, saying, ‘Go away, bhikkhu. Don’t stand in front of me’?”
 
-Then Ven. Ānanda said to the Blessed One, “For a long time, now, this Ven. Upavāṇa has been an attendant to the Blessed One, staying near him and traveling with him. But now, in his final hour, he dismisses him, saying, ‘Go away, monk. Don’t stand in front of me.’ Now what is the reason, what is the cause, why the Blessed One dismisses him, saying, ‘Go away, monk. Don’t stand in front of me’?”
+Then Ven. Ānanda said to the Blessed One, “For a long time, now, this Ven. Upavāṇa has been an attendant to the Blessed One, staying near him and traveling with him. But now, in his final hour, he dismisses him, saying, ‘Go away, bhikkhu. Don’t stand in front of me.’ Now what is the reason, what is the cause, why the Blessed One dismisses him, saying, ‘Go away, bhikkhu. Don’t stand in front of me’?”
 
-“Ānanda, most of the devatās from ten world-systems have gathered in order to see the Tathāgata. For twelve leagues all around Upavattana, the Mallans’ Sal Forest near Kusinārā, there is not the space even of the tip of a horse-tail hair that is not occupied by eminent devatās. The devatās, Ānanda, are complaining, ‘We have come a long distance to see the Tathāgata.[44](#^dn16note44) Only once in a long, long time does a Tathāgata—worthy & rightly self-awakened—arise in the world. Tonight, in the last watch of the night, the total unbinding of the Tathāgata will occur. And this eminent monk is standing in front of the Blessed One, blocking the way. We aren’t getting to see the Blessed One in his final hour.’” ^dn16note44-ref
+“Ānanda, most of the devatās from ten world-systems have gathered in order to see the Tathāgata. For twelve leagues all around Upavattana, the Mallans’ Sal Forest near Kusinārā, there is not the space even of the tip of a horse-tail hair that is not occupied by eminent devatās. The devatās, Ānanda, are complaining, ‘We have come a long distance to see the Tathāgata.[44](#^dn16note44) Only once in a long, long time does a Tathāgata—worthy & rightly self-awakened—arise in the world. Tonight, in the last watch of the night, the total unbinding of the Tathāgata will occur. And this eminent bhikkhu is standing in front of the Blessed One, blocking the way. We aren’t getting to see the Blessed One in his final hour.’” ^dn16note44-ref
 
 “But, lord, what is the state of the devatās the Blessed One is paying attention to?”
 
 “Ānanda, there are devatās who perceive space to be earth. Tearing at their hair, they are weeping. Uplifting their arms, they are weeping. As if their feet were cut out from under them,[45](#^dn16note45) they fall down and roll back & forth, crying, ‘All too soon, the Blessed One will totally unbind! All too soon, the One Well-Gone will totally unbind! All too soon, the One with Eyes [alternate reading: the Eye] will disappear from the world!’ Then there are devatās who perceive earth to be earth. Tearing at their hair, they are weeping. Uplifting their arms, they are weeping. As if their feet were cut out from under them, they fall down and roll back & forth, crying, ‘All too soon, the Blessed One will totally unbind! All too soon, the One Well-Gone will totally unbind! All too soon, the One with Eyes will disappear from the world!’ But those devatās who are free from passion acquiesce, mindful & alert: ‘Inconstant are fabrications. What else is there to expect?’” ^dn16note45-ref
 
-“In the past, lord, the monks in all directions, after ending the Rains retreat, came to see the Tathāgata. Thus we got to see & attend to the monks who inspire the heart. But now, after the Blessed One is gone, we won’t get to see or attend to the monks who inspire the heart.”
+“In the past, lord, the bhikkhus in all directions, after ending the Rains retreat, came to see the Tathāgata. Thus we got to see & attend to the bhikkhus who inspire the heart. But now, after the Blessed One is gone, we won’t get to see or attend to the bhikkhus who inspire the heart.”
 
-“Ānanda, there are these four places that merit being seen by a clansman with conviction, that merit his feelings of urgency & dismay _[saṁvega]._ Which four? ‘Here the Tathāgata was born’ is a place that merits being seen by a clansman with conviction, that merits his feelings of urgency & dismay. ‘Here the Tathāgata awakened to the unexcelled right self-awakening’.... ‘Here the Tathāgata set rolling the unexcelled wheel of Dhamma’.... ‘Here the Tathāgata totally unbound in the property of unbinding with no fuel remaining’ is a place that merits being seen by a clansman with conviction, that merits his feelings of urgency & dismay. These are the four places that merit being seen by a clansman with conviction, that merit his feelings of urgency & dismay. They will come out of conviction, Ānanda—monks, nuns, male lay followers, & female lay followers—to the spots where ‘Here the Tathāgata was born,’ ‘Here the Tathāgata awakened to the unexcelled right self-awakening,’ ‘Here the Tathāgata set rolling the unexcelled wheel of Dhamma,’ ‘Here the Tathāgata totally unbound in the property of unbinding with no fuel remaining.’ And anyone who dies while making a pilgrimage to these shrines with a bright, confident mind will—on the break-up of the body, after death—reappear in a good destination, a heavenly world.”
+“Ānanda, there are these four places that merit being seen by a clansman with conviction, that merit his feelings of urgency & dismay _[saṁvega]._ Which four? ‘Here the Tathāgata was born’ is a place that merits being seen by a clansman with conviction, that merits his feelings of urgency & dismay. ‘Here the Tathāgata awakened to the unexcelled right self-awakening’.... ‘Here the Tathāgata set rolling the unexcelled wheel of Dhamma’.... ‘Here the Tathāgata totally unbound in the property of unbinding with no fuel remaining’ is a place that merits being seen by a clansman with conviction, that merits his feelings of urgency & dismay. These are the four places that merit being seen by a clansman with conviction, that merit his feelings of urgency & dismay. They will come out of conviction, Ānanda—bhikkhus, nuns, male lay followers, & female lay followers—to the spots where ‘Here the Tathāgata was born,’ ‘Here the Tathāgata awakened to the unexcelled right self-awakening,’ ‘Here the Tathāgata set rolling the unexcelled wheel of Dhamma,’ ‘Here the Tathāgata totally unbound in the property of unbinding with no fuel remaining.’ And anyone who dies while making a pilgrimage to these shrines with a bright, confident mind will—on the break-up of the body, after death—reappear in a good destination, a heavenly world.”
 
 “Lord, what course should we follow with regard to womenfolk?”
 
@@ -1066,21 +1066,21 @@ Then Ven. Ānanda said to the Blessed One, “For a long time, now, this Ven. Up
 
 Then Ven. Ānanda, going into a (nearby) building, stood leaning against the door jamb, weeping: “Here I am, still in training, with work left to do, and the total unbinding of my teacher is about to occur—the teacher who has had such sympathy for me!”
 
-Then the Blessed One said to the monks, “Monks, where is Ānanda?”
+Then the Blessed One said to the bhikkhus, “bhikkhus, where is Ānanda?”
 
 “Lord, Ven. Ānanda, having gone into that building, stands leaning against the door jamb, weeping: ‘Here I am, still in training, with work left to do, and the total unbinding of my teacher is about to occur—the teacher who has had such sympathy for me!’”
 
-Then the Blessed One told a certain monk, “Come, monk. In my name, call Ānanda, saying, ‘The Teacher calls you, my friend.’”
+Then the Blessed One told a certain bhikkhu, “Come, bhikkhu. In my name, call Ānanda, saying, ‘The Teacher calls you, my friend.’”
 
-Responding, “As you say, lord,” to the Blessed One, the monk went to Ven. Ānanda and on arrival said, “The Teacher calls you, my friend.”
+Responding, “As you say, lord,” to the Blessed One, the bhikkhu went to Ven. Ānanda and on arrival said, “The Teacher calls you, my friend.”
 
-Responding, “As you say, my friend,” to the monk, Ven. Ānanda went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, the Blessed One said to him, “Enough, Ānanda. Don’t grieve. Don’t lament. Haven’t I already taught you the state of growing different with regard to all things dear & appealing, the state of becoming separate, the state of becoming otherwise? What else is there to expect? It’s impossible that one could forbid anything born, existent, fabricated, & subject to disintegration from disintegrating.
+Responding, “As you say, my friend,” to the bhikkhu, Ven. Ānanda went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, the Blessed One said to him, “Enough, Ānanda. Don’t grieve. Don’t lament. Haven’t I already taught you the state of growing different with regard to all things dear & appealing, the state of becoming separate, the state of becoming otherwise? What else is there to expect? It’s impossible that one could forbid anything born, existent, fabricated, & subject to disintegration from disintegrating.
 
 “For a long time, Ānanda, you have waited on the Tathāgata with bodily acts of good will—helpful, happy, whole-hearted, without limit; with verbal acts of good will... with mental acts of good will—helpful, happy, whole-hearted, without limit. You are one who has made merit. Commit yourself to exertion, and soon you will be without effluents.”
 
-Then the Blessed One addressed the monks, “Monks, those Blessed Ones who, in the past, were worthy ones, rightly self-awakened, had foremost attendants, just as I have had Ānanda. Those Blessed Ones who, in the future, will be worthy ones, rightly self-awakened, will have foremost attendants, just as I have had Ānanda. Ānanda is wise. He knows, ‘This is the time to approach to see the Tathāgata. This is the time for monks, this the time for nuns, this the time for male lay-followers, this the time for female lay-followers, this the time for kings & their ministers, this the time for sectarians, this the time for the followers of sectarians.
+Then the Blessed One addressed the bhikkhus, “bhikkhus, those Blessed Ones who, in the past, were worthy ones, rightly self-awakened, had foremost attendants, just as I have had Ānanda. Those Blessed Ones who, in the future, will be worthy ones, rightly self-awakened, will have foremost attendants, just as I have had Ānanda. Ānanda is wise. He knows, ‘This is the time to approach to see the Tathāgata. This is the time for bhikkhus, this the time for nuns, this the time for male lay-followers, this the time for female lay-followers, this the time for kings & their ministers, this the time for sectarians, this the time for the followers of sectarians.
 
-“There are these four amazing & astounding qualities in Ānanda. If a group of monks approaches to see Ānanda, they are gratified at the sight of him. If he speaks Dhamma to them, they are gratified with what he says. Before they are sated, he falls silent. If a group of nuns approaches to see Ānanda... If a group of male lay followers approaches to see Ānanda... If a group of female lay followers approaches to see Ānanda, they are gratified at the sight of him. If he speaks Dhamma to them, they are gratified with what he says. Before they are sated, he falls silent. These are the four amazing & astounding qualities in Ānanda. There are these four amazing & astounding qualities in a wheel-turning monarch. If a group of noble warriors approaches to see him... If a group of brahmans approaches to see him... If a group of householders approaches to see him... If a group of contemplatives approaches to see him, they are gratified at the sight of him. If he speaks to them, they are gratified with what he says. Before they are sated, he falls silent. In the same way, monks, there are these four amazing & astounding qualities in Ānanda. If a group of monks... a group of nuns... a group of male lay followers... a group of female lay followers approaches to see Ānanda, they are gratified at the sight of him. If he speaks Dhamma to them, they are gratified with what he says. Before they are sated, he falls silent. These are the four amazing & astounding qualities in Ānanda.”
+“There are these four amazing & astounding qualities in Ānanda. If a group of bhikkhus approaches to see Ānanda, they are gratified at the sight of him. If he speaks Dhamma to them, they are gratified with what he says. Before they are sated, he falls silent. If a group of nuns approaches to see Ānanda... If a group of male lay followers approaches to see Ānanda... If a group of female lay followers approaches to see Ānanda, they are gratified at the sight of him. If he speaks Dhamma to them, they are gratified with what he says. Before they are sated, he falls silent. These are the four amazing & astounding qualities in Ānanda. There are these four amazing & astounding qualities in a wheel-turning monarch. If a group of noble warriors approaches to see him... If a group of brahmans approaches to see him... If a group of householders approaches to see him... If a group of contemplatives approaches to see him, they are gratified at the sight of him. If he speaks to them, they are gratified with what he says. Before they are sated, he falls silent. In the same way, bhikkhus, there are these four amazing & astounding qualities in Ānanda. If a group of bhikkhus... a group of nuns... a group of male lay followers... a group of female lay followers approaches to see Ānanda, they are gratified at the sight of him. If he speaks Dhamma to them, they are gratified with what he says. Before they are sated, he falls silent. These are the four amazing & astounding qualities in Ānanda.”
 
 When this was said, Ven. Ānanda said to the Blessed One, “Lord, may the Blessed One not totally unbind in this little town, this dusty town, this branch township. There are other great cities: Campā, Rājagaha, Sāvatthī, Sāketa, Kosambī, Bārāṇasī. May the Blessed One totally unbind there. In those cities there are many wealthy noble warriors, brahmans, & householders who have high confidence in the Tathāgata. They will conduct the Tathāgata’s funeral.”
 
@@ -1114,7 +1114,7 @@ Then Subhadda went to the Blessed One and exchanged courteous greetings with him
 
 “As you say, lord,” Subhadda responded to the Blessed One.
 
-The Blessed One said, “In any doctrine & discipline where the noble eightfold path is not ascertained, no contemplative of the first... second... third... fourth order [stream-winner, once-returner, non-returner, or arahant] is ascertained. But in any doctrine & discipline where the noble eightfold path _is_ ascertained, contemplatives of the first... second... third... fourth order _are_ ascertained. The noble eightfold path is ascertained in this doctrine & discipline, and right here there are contemplatives of the first... second... third... fourth order. Other teachings are empty of knowledgeable contemplatives. And if the monks dwell rightly, this world will not be empty of arahants.
+The Blessed One said, “In any doctrine & discipline where the noble eightfold path is not ascertained, no contemplative of the first... second... third... fourth order [stream-winner, once-returner, non-returner, or arahant] is ascertained. But in any doctrine & discipline where the noble eightfold path _is_ ascertained, contemplatives of the first... second... third... fourth order _are_ ascertained. The noble eightfold path is ascertained in this doctrine & discipline, and right here there are contemplatives of the first... second... third... fourth order. Other teachings are empty of knowledgeable contemplatives. And if the bhikkhus dwell rightly, this world will not be empty of arahants.
 
 At age twenty-nine I went forth, Subhadda,
 
@@ -1130,13 +1130,13 @@ of methodical Dhamma,
 
 there is no contemplative.
 
-There is no contemplative of the second order; there is no contemplative of the third order; there is no contemplative of the fourth order. Other teachings are empty of knowledgeable contemplatives. And if the monks dwell rightly, this world will not be empty of arahants.”
+There is no contemplative of the second order; there is no contemplative of the third order; there is no contemplative of the fourth order. Other teachings are empty of knowledgeable contemplatives. And if the bhikkhus dwell rightly, this world will not be empty of arahants.”
 
-Then Subhadda the wanderer said, “Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to set out a lamp in the darkness so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of monks. Let me obtain the going forth in the Blessed One’s presence, let me obtain the acceptance.”
+Then Subhadda the wanderer said, “Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to set out a lamp in the darkness so that those with eyes could see forms, in the same way has the Blessed One—through many lines of reasoning—made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the Saṅgha of bhikkhus. Let me obtain the going forth in the Blessed One’s presence, let me obtain the acceptance.”
 
-“Anyone, Subhadda, who has previously belonged to another sect and who desires the going forth & acceptance into this Dhamma & Vinaya, must first undergo probation for four months. If, at the end of four months, the monks feel so moved, they give him the going forth & accept him into the monk’s state. But I know distinctions among individuals in this matter.”
+“Anyone, Subhadda, who has previously belonged to another sect and who desires the going forth & acceptance into this Dhamma & Vinaya, must first undergo probation for four months. If, at the end of four months, the bhikkhus feel so moved, they give him the going forth & accept him into the bhikkhu’s state. But I know distinctions among individuals in this matter.”
 
-“Lord, if that is so, I am willing to undergo probation for four years. If, at the end of four years, the monks feel so moved, let them give me the going forth & accept me into the monk’s state.”
+“Lord, if that is so, I am willing to undergo probation for four years. If, at the end of four years, the bhikkhus feel so moved, let them give me the going forth & accept me into the bhikkhu’s state.”
 
 Then the Blessed One said to Ven. Ānanda, “Very well then, Ānanda, give Subhadda the going forth.”
 
@@ -1150,37 +1150,37 @@ Then Subhadda the wanderer obtained the going forth in the Blessed One’s prese
 
 Then the Blessed One said to Ven. Ānanda, “Now, if the thought occurs to any of you—‘The teaching has lost its arbitrator; we are without a Teacher’—do not view it in that way. Whatever Dhamma & Vinaya I have pointed out & formulated for you, that will be your Teacher after my passing.
 
-“At present, the monks address one another as ‘friend,’ but after my passing they are not to address one another that way. The more senior monks are to address the newer monks by their name or clan or as ‘friend.’ The newer monks are to address the more senior monks as ‘venerable’ or ‘sir.’
+“At present, the bhikkhus address one another as ‘friend,’ but after my passing they are not to address one another that way. The more senior bhikkhus are to address the newer bhikkhus by their name or clan or as ‘friend.’ The newer bhikkhus are to address the more senior bhikkhus as ‘venerable’ or ‘sir.’
 
 “After my passing, the Saṅgha—if it wants—may rescind the lesser & minor training rules.[48](#^dn16note48) ^dn16note48-ref
 
-“After my passing, the monk Channa should be given the brahma-penalty.”
+“After my passing, the bhikkhu Channa should be given the brahma-penalty.”
 
 “What, lord, is the brahma-penalty?”
 
-“Channa may say what he wants, Ānanda, but he is not to be spoken to, instructed, or admonished by the monks.”[49](#^dn16note49) ^dn16note49-ref
+“Channa may say what he wants, Ānanda, but he is not to be spoken to, instructed, or admonished by the bhikkhus.”[49](#^dn16note49) ^dn16note49-ref
 
-Then the Blessed One addressed the monks, “If even a single monk has any doubt or perplexity concerning the Buddha, Dhamma, or Saṅgha, the path or the practice, ask. Don’t later regret that ‘The Teacher was face-to-face with us, but we didn’t bring ourselves to ask a counter-question in his presence.’”
+Then the Blessed One addressed the bhikkhus, “If even a single bhikkhu has any doubt or perplexity concerning the Buddha, Dhamma, or Saṅgha, the path or the practice, ask. Don’t later regret that ‘The Teacher was face-to-face with us, but we didn’t bring ourselves to ask a counter-question in his presence.’”
 
-When this was said, the monks were silent.
+When this was said, the bhikkhus were silent.
 
-A second time, the Blessed One said, “If even one of the monks has any doubt or perplexity concerning the Buddha, Dhamma, or Saṅgha, the path or the practice, ask. Don’t later regret that ‘The Teacher was face-to-face with us, but we didn’t bring ourselves to ask a counter-question in his presence.’”
+A second time, the Blessed One said, “If even one of the bhikkhus has any doubt or perplexity concerning the Buddha, Dhamma, or Saṅgha, the path or the practice, ask. Don’t later regret that ‘The Teacher was face-to-face with us, but we didn’t bring ourselves to ask a counter-question in his presence.’”
 
-A second time, the monks were silent.
+A second time, the bhikkhus were silent.
 
-A third time, the Blessed One said, “If even one of the monks has any doubt or perplexity concerning the Buddha, Dhamma, or Saṅgha, the path or the practice, ask. Don’t later regret that ‘The Teacher was face-to-face with us, but we didn’t bring ourselves to ask a counter-question in his presence.’”
+A third time, the Blessed One said, “If even one of the bhikkhus has any doubt or perplexity concerning the Buddha, Dhamma, or Saṅgha, the path or the practice, ask. Don’t later regret that ‘The Teacher was face-to-face with us, but we didn’t bring ourselves to ask a counter-question in his presence.’”
 
-A third time, the monks were silent.
+A third time, the bhikkhus were silent.
 
-Then the Blessed One addressed the monks, “Now, if it’s simply out of respect for the Teacher that you don’t ask, let a companion inform a companion.”
+Then the Blessed One addressed the bhikkhus, “Now, if it’s simply out of respect for the Teacher that you don’t ask, let a companion inform a companion.”
 
-When this was said, the monks were silent.
+When this was said, the bhikkhus were silent.
 
-Then Ven. Ānanda said to the Blessed One, “It’s amazing, lord. It’s astounding. I have confidence in this Saṅgha of monks that there is not even a single monk in this Saṅgha of monks who has any doubt or perplexity concerning the Buddha, Dhamma, or Saṅgha, the path or the practice.”
+Then Ven. Ānanda said to the Blessed One, “It’s amazing, lord. It’s astounding. I have confidence in this Saṅgha of bhikkhus that there is not even a single bhikkhu in this Saṅgha of bhikkhus who has any doubt or perplexity concerning the Buddha, Dhamma, or Saṅgha, the path or the practice.”
 
-“You, Ānanda, speak out of confidence, while there is knowledge in the Tathāgata that there is not even a single monk in this Saṅgha of monks who has any doubt or perplexity concerning the Buddha, Dhamma, or Saṅgha, the path or the practice. Of these 500 monks, the most backward is a stream-winner, never again destined for the lower realms, certain, headed for self-awakening.”
+“You, Ānanda, speak out of confidence, while there is knowledge in the Tathāgata that there is not even a single bhikkhu in this Saṅgha of bhikkhus who has any doubt or perplexity concerning the Buddha, Dhamma, or Saṅgha, the path or the practice. Of these 500 bhikkhus, the most backward is a stream-winner, never again destined for the lower realms, certain, headed for self-awakening.”
 
-Then the Blessed One addressed the monks, “Now, then, monks, I exhort you: All fabrications are subject to ending & decay. Reach consummation through heedfulness.” That was the Tathāgata’s last statement.
+Then the Blessed One addressed the bhikkhus, “Now, then, bhikkhus, I exhort you: All fabrications are subject to ending & decay. Reach consummation through heedfulness.” That was the Tathāgata’s last statement.
 
 Then the Blessed One entered the first jhāna. Emerging from that he entered the second jhāna. Emerging from that, he entered the third... the fourth jhāna... the dimension of the infinitude of space... the dimension of the infinitude of consciousness... the dimension of nothingness... the dimension of neither perception nor non-perception. Emerging from that, he entered the cessation of perception & feeling.
 
@@ -1256,9 +1256,9 @@ the Rightly Self-Awakened One
 
 totally unbound.
 
-When the Blessed One totally unbound, simultaneously with the total unbinding, some of the monks present who were not without passion wept, uplifting their arms. As if their feet were cut out from under them, they fell down and rolled back & forth, crying, “All too soon has the Blessed One totally unbound! All too soon has the One Well-Gone totally unbound! All too soon has the One with Eyes disappeared from the world!” But those monks who were free from passion acquiesced, mindful & alert: “Inconstant are fabrications. What else is there to expect?”
+When the Blessed One totally unbound, simultaneously with the total unbinding, some of the bhikkhus present who were not without passion wept, uplifting their arms. As if their feet were cut out from under them, they fell down and rolled back & forth, crying, “All too soon has the Blessed One totally unbound! All too soon has the One Well-Gone totally unbound! All too soon has the One with Eyes disappeared from the world!” But those bhikkhus who were free from passion acquiesced, mindful & alert: “Inconstant are fabrications. What else is there to expect?”
 
-Then Ven. Anuruddha addressed the monks, “Enough, friends. Don’t grieve. Don’t lament. Hasn’t the Blessed One already taught the state of growing different with regard to all things dear & appealing, the state of becoming separate, the state of becoming otherwise? What else is there to expect?[52](#^dn16note52) It’s impossible that one could forbid anything born, existent, fabricated, & subject to disintegration from disintegrating. The devatās, friends, are complaining.” ^dn16note52-ref
+Then Ven. Anuruddha addressed the bhikkhus, “Enough, friends. Don’t grieve. Don’t lament. Hasn’t the Blessed One already taught the state of growing different with regard to all things dear & appealing, the state of becoming separate, the state of becoming otherwise? What else is there to expect?[52](#^dn16note52) It’s impossible that one could forbid anything born, existent, fabricated, & subject to disintegration from disintegrating. The devatās, friends, are complaining.” ^dn16note52-ref
 
 [Ven. Ānanda:] “But, Ven. Anuruddha, what is the state of the devatās you are paying attention to?”
 
@@ -1300,15 +1300,15 @@ So the Kusinārā Mallans ordered their men, “In that case, I say, gather the 
 
 Then they wrapped the Blessed One’s body in new linen cloth. Having wrapped it in new linen cloth, they wrapped it in teased cotton-wool. Having wrapped it in teased cotton-wool, they wrapped it in new linen cloth. Having done this five hundred times, they placed the body in an iron oil-vat, covered it with an iron lid, made a pyre composed totally of perfumed substances, and set the body on the pyre.
 
-Now on that occasion Ven. Mahā Kassapa was traveling on the highway from Pāvā to Kusinārā with a large Saṅgha of monks, approximately 500 monks in all. Leaving the road, he sat down at the root of a tree. Meanwhile, a certain Ājīvakan ascetic, carrying a coral-tree flower from Kusinārā, was traveling on the highway to Pāvā. Ven. Mahā Kassapa saw the Ājīvakan ascetic coming from afar, and on seeing him said to him, “Do you know our teacher, friend?”
+Now on that occasion Ven. Mahā Kassapa was traveling on the highway from Pāvā to Kusinārā with a large Saṅgha of bhikkhus, approximately 500 bhikkhus in all. Leaving the road, he sat down at the root of a tree. Meanwhile, a certain Ājīvakan ascetic, carrying a coral-tree flower from Kusinārā, was traveling on the highway to Pāvā. Ven. Mahā Kassapa saw the Ājīvakan ascetic coming from afar, and on seeing him said to him, “Do you know our teacher, friend?”
 
 “Yes, friend, I know him. Seven days ago Gotama the contemplative totally unbound. That’s how I got this coral-tree flower.”
 
-With that, some of the monks present who were not without passion wept, uplifting their arms. As if their feet were cut out from under them, they fell down and rolled back & forth, crying, “All too soon has the Blessed One totally unbound! All too soon has the One Well-Gone totally unbound! All too soon has the One with Eyes disappeared from the world!” But those monks who were free from passion acquiesced, mindful & alert: “Inconstant are fabrications. What else is there to expect?”
+With that, some of the bhikkhus present who were not without passion wept, uplifting their arms. As if their feet were cut out from under them, they fell down and rolled back & forth, crying, “All too soon has the Blessed One totally unbound! All too soon has the One Well-Gone totally unbound! All too soon has the One with Eyes disappeared from the world!” But those bhikkhus who were free from passion acquiesced, mindful & alert: “Inconstant are fabrications. What else is there to expect?”
 
-Now at that time a monk named Subhadda,[54](#^dn16note54) who had gone forth when old, was sitting among the group. He said to the monks, “Enough, friends. Don’t grieve. Don’t lament. We’re well rid of the Great Contemplative. We’ve been harassed by (his saying,) ‘This is allowable. This is not allowable.’ But now we will do what we want to do, and not do what we don’t want to do.”[55](#^dn16note55) ^dn16note54-ref ^dn16note55-ref
+Now at that time a bhikkhu named Subhadda,[54](#^dn16note54) who had gone forth when old, was sitting among the group. He said to the bhikkhus, “Enough, friends. Don’t grieve. Don’t lament. We’re well rid of the Great Contemplative. We’ve been harassed by (his saying,) ‘This is allowable. This is not allowable.’ But now we will do what we want to do, and not do what we don’t want to do.”[55](#^dn16note55) ^dn16note54-ref ^dn16note55-ref
 
-Then Ven. Mahā Kassapa addressed the monks, “Enough, friends. Don’t grieve. Don’t lament. Hasn’t the Blessed One already taught the state of growing different with regard to all things dear & appealing, the state of becoming separate, the state of becoming otherwise? What else is there to expect? It’s impossible that one could forbid anything born, existent, fabricated, & subject to disintegration from disintegrating.”
+Then Ven. Mahā Kassapa addressed the bhikkhus, “Enough, friends. Don’t grieve. Don’t lament. Hasn’t the Blessed One already taught the state of growing different with regard to all things dear & appealing, the state of becoming separate, the state of becoming otherwise? What else is there to expect? It’s impossible that one could forbid anything born, existent, fabricated, & subject to disintegration from disintegrating.”
 
 Then four leading Mallans, having bathed their heads and wearing new linen cloth, thinking, “We’ll ignite the Blessed One’s pyre,” were unable to ignite it. So the Kusinārā Mallans asked Ven. Anuruddha, “What is the reason, Ven. Anuruddha, what is the cause, why these four leading Mallans, having bathed their heads and wearing new linen cloth, thinking, ‘We’ll ignite the Blessed One’s pyre,’ are unable to ignite it?”
 
@@ -1316,11 +1316,11 @@ Then four leading Mallans, having bathed their heads and wearing new linen cloth
 
 “But what, Ven. Anuruddha, is the devas’ intention?”
 
-“The devas’ intention, Vāsiṭṭhas, is, ‘This Ven. Mahā Kassapa is traveling on the highway from Pāvā to Kusinārā with a large Saṅgha of monks, approximately 500 monks in all. The Blessed One’s pyre will not catch fire until Ven. Mahā Kassapa has worshipped the Blessed One’s feet with his bathed head.’”
+“The devas’ intention, Vāsiṭṭhas, is, ‘This Ven. Mahā Kassapa is traveling on the highway from Pāvā to Kusinārā with a large Saṅgha of bhikkhus, approximately 500 bhikkhus in all. The Blessed One’s pyre will not catch fire until Ven. Mahā Kassapa has worshipped the Blessed One’s feet with his bathed head.’”
 
 “Then let it be, venerable sir, in line with the devas’ intention.”
 
-So Ven. Mahā Kassapa went to the Blessed One’s pyre at Makuṭa-bandhana, the Mallans’ memorial near Kusinārā. On arrival, arranging his robe over one shoulder, he placed his hands palm-to-palm over his heart, circumambulated the pyre three times, uncovered the Blessed One’s feet,[56](#^dn16note56) and worshipped them with his head. And the 500 monks, arranging their robes over one shoulder, placed their hands palm-to-palm over their hearts, circumambulated the pyre three times, and worshipped the Blessed One’s feet with their heads. As soon as it had been worshipped by Ven. Mahā Kassapa and the 500 monks, the Blessed One’s pyre caught fire of its own accord. In the burning of the Blessed One’s body, no cinder or ash of the outer skin, inner skin, flesh, tendons, or oil of the joints could be discerned. Only the bone-relics[57](#^dn16note57) remained. Just as in the burning of ghee or oil, no cinder or ash can be discerned; in the same way, in the burning of the Blessed One’s body, no cinder or ash of the outer skin, inner skin, flesh, tendons, or oil of the joints could be discerned. Only the bone-relics remained. And of the five hundred twin-wrappings, only two were burnt: the innermost & the outermost. ^dn16note56-ref ^dn16note57-ref
+So Ven. Mahā Kassapa went to the Blessed One’s pyre at Makuṭa-bandhana, the Mallans’ memorial near Kusinārā. On arrival, arranging his robe over one shoulder, he placed his hands palm-to-palm over his heart, circumambulated the pyre three times, uncovered the Blessed One’s feet,[56](#^dn16note56) and worshipped them with his head. And the 500 bhikkhus, arranging their robes over one shoulder, placed their hands palm-to-palm over their hearts, circumambulated the pyre three times, and worshipped the Blessed One’s feet with their heads. As soon as it had been worshipped by Ven. Mahā Kassapa and the 500 bhikkhus, the Blessed One’s pyre caught fire of its own accord. In the burning of the Blessed One’s body, no cinder or ash of the outer skin, inner skin, flesh, tendons, or oil of the joints could be discerned. Only the bone-relics[57](#^dn16note57) remained. Just as in the burning of ghee or oil, no cinder or ash can be discerned; in the same way, in the burning of the Blessed One’s body, no cinder or ash of the outer skin, inner skin, flesh, tendons, or oil of the joints could be discerned. Only the bone-relics remained. And of the five hundred twin-wrappings, only two were burnt: the innermost & the outermost. ^dn16note56-ref ^dn16note57-ref
 
 When the Blessed One’s body was consumed, a cascade of water falling from the sky extinguished _[nibbāpesi]_ the Blessed One’s pyre. Water shooting up from a Sal tree as well extinguished the Blessed One’s pyre. The Kusinārā Mallans, with all kinds of scented water, extinguished the Blessed One’s pyre. Then for seven days the Kusinārā Mallans kept the bone-relics in their reception hall—setting them round with a lattice of spears surrounded by ramparts of bows—worshipping, honoring, respecting, & venerating them with dances, songs, music, garlands, & scents.
 
@@ -1506,7 +1506,7 @@ Archaeological evidence from what may have been part of Asoka’s palace in Pā�
 
 24. “And what is the base of power? Whatever path, whatever practice, leads to the attainment of power, the winning of power: That is called the base of power. [↩︎](#^dn16note24-ref) ^dn16note24
 
-“And what is the development of the base of power? There is the case where a monk develops the base of power endowed with samādhi founded on _desire_ & the fabrications of exertion. He develops the base of power endowed with samādhi founded on _persistence_... samādhi founded on _intent_... samādhi founded on _discrimination_ & the fabrications of exertion. This is called the development of the base of power.” — _[[snp51.26-thanissaro]]_
+“And what is the development of the base of power? There is the case where a bhikkhu develops the base of power endowed with samādhi founded on _desire_ & the fabrications of exertion. He develops the base of power endowed with samādhi founded on _persistence_... samādhi founded on _intent_... samādhi founded on _discrimination_ & the fabrications of exertion. This is called the development of the base of power.” — _[[snp51.26-thanissaro]]_
 
 25. An eon, in the Buddhist cosmology, is an immensely long stretch of time. According to the Commentary here, it can also mean the full lifespan of a human being in that particular period of the eon (Buddhist cosmology allows for a huge fluctuation in human lifespans over the course of an eon). The Commentary adopts this second meaning in this passage, and so takes the Buddha’s statement here as meaning that a person who has developed the bases of power could live for a full lifespan or for a little bit more. In this case, the Pali for the last part of this compound, _kappāvasesaṁ,_ would mean, “an eon plus a remainder.” [↩︎](#^dn16note25-ref) ^dn16note25
 
@@ -1544,15 +1544,15 @@ These lists of eight factors are not randomly chosen. They all highlight the gra
 
 40. Āḷāra Kālāma was the teacher from whom the Buddha, before his awakening, learned how to attain the dimension of nothingness, one of the formless attainments. See [[mn26-thanissaro]]. The Vibhaṅga to Pārājika 4 indicates that the purity of one’s mastery of any of these formless attainments can be measured by the extent to which one does not hear sounds while in that attainment. The same passage also indicates that if one _does_ hear sounds, that does not mean that one has not achieved that attainment, simply that one’s mastery of the attainment is not entirely pure. It further indicates that “purity” here does not mean purity from defilements. After all, in the Vibhaṅga to Pārājika 4, Ven. Mahā Moggallāna’s attainment of the formless states is said to be impure, and yet he is an arahant. “Purity” refers instead to the strength of one’s samādhi. [↩︎](#^dn16note40-ref) ^dn16note40
 
-41. _Āyasmant:_ This is a term of respect usually reserved for senior monks. The Buddha’s using it here was probably meant to emphasize the point that Cunda’s gift of the Buddha’s last meal should be treated as a very honorable thing. [↩︎](#^dn16note41-ref) ^dn16note41
+41. _Āyasmant:_ This is a term of respect usually reserved for senior bhikkhus. The Buddha’s using it here was probably meant to emphasize the point that Cunda’s gift of the Buddha’s last meal should be treated as a very honorable thing. [↩︎](#^dn16note41-ref) ^dn16note41
 
 42. Up to this point in the sutta, the standard phrase describing the Buddha’s act of lying down to rest ends with the phrase, “having made a mental note to get up.” Here, however, the Buddha is lying down for the last time and will pass away in this posture, so he makes no mental note to get up. [↩︎](#^dn16note42-ref) ^dn16note42
 
-43. [[sn12-21-thanissaro/sn12-thanissaro/sn12.67-thanissaro]] states: “If a monk practices for the sake of disenchantment, dispassion, & cessation with regard to aging-&-death... birth... becoming... clinging/sustenance... craving... feeling... contact... the six sense media... name-&-form... consciousness... fabrications... ignorance, he deserves to be called a monk who practices the Dhamma in accordance with the Dhamma.” [[sn22-34-thanissaro/sn22-thanissaro/sn22.39-thanissaro]] states: “For a monk practicing the Dhamma in accordance with the Dhamma, what accords with the Dhamma is this: that he keep cultivating disenchantment with regard to form, that he keep cultivating disenchantment with regard to feeling, that he keep cultivating disenchantment with regard to perception, that he keep cultivating disenchantment with regard to fabrications, that he keep cultivating disenchantment with regard to consciousness.” [[sn22-34-thanissaro/sn22-thanissaro/sn22.40-thanissaro]] add that this is to be done by remaining focused on stress, inconstancy, and not-self with regard to the five aggregates. [↩︎](#^dn16note43-ref) ^dn16note43
+43. [[sn12-21-thanissaro/sn12-thanissaro/sn12.67-thanissaro]] states: “If a bhikkhu practices for the sake of disenchantment, dispassion, & cessation with regard to aging-&-death... birth... becoming... clinging/sustenance... craving... feeling... contact... the six sense media... name-&-form... consciousness... fabrications... ignorance, he deserves to be called a bhikkhu who practices the Dhamma in accordance with the Dhamma.” [[sn22-34-thanissaro/sn22-thanissaro/sn22.39-thanissaro]] states: “For a bhikkhu practicing the Dhamma in accordance with the Dhamma, what accords with the Dhamma is this: that he keep cultivating disenchantment with regard to form, that he keep cultivating disenchantment with regard to feeling, that he keep cultivating disenchantment with regard to perception, that he keep cultivating disenchantment with regard to fabrications, that he keep cultivating disenchantment with regard to consciousness.” [[sn22-34-thanissaro/sn22-thanissaro/sn22.40-thanissaro]] add that this is to be done by remaining focused on stress, inconstancy, and not-self with regard to the five aggregates. [↩︎](#^dn16note43-ref) ^dn16note43
 
 44. From Vedic times, it has been considered auspicious in India to gaze on a holy person or heavenly being, and to be gazed on by such a being as well. Here the fact that heavenly beings themselves want to gaze on the Buddha indicates the high regard they have for him (this is also the motive for their Great Meeting in [[dn20-thanissaro]]); the phrase later in this paragraph, “the One with Eyes,” indicates that they also regarded his gaze as highly auspicious for them. Later passages in this discourse indicate that human beings have similar feelings about the auspiciousness of the Buddha’s gaze and the Buddha as an object of one’s own gaze. A great deal of the later history of Buddhism in India—including devotional practice, Buddhology, meditation practice, and even the architecture of monasteries—grew out of the continuing desire to have a vision of the Buddha and to be gazed on by the Buddha, even after his Parinibbāna. [↩︎](#^dn16note44-ref) ^dn16note44
 
-It is sometimes assumed, based on a passage in [[snp22.87-thanissaro]], that the Pali Canon is uniformly negative toward this aspect of Buddhist tradition. There, Ven. Vakkali, who is ill, states that “For a long time have I wanted to come & see the Blessed One, but I haven’t had the bodily strength to do so,” and the Buddha comforts him, “Enough, Vakkali. Why do you want to see this filthy body? Whoever sees the Dhamma sees me; whoever sees me sees the Dhamma.” It should be noted, however, that the Buddha’s treatment of this topic is sensitive to the context. In [[snp22.87-thanissaro]], he is talking to a monk who (1) is too sick to come see the Buddha on his own strength; and (2) is on the verge of arahantship. Here in [[dn16-thanissaro]], however, the Buddha dismisses Ven. Upavāṇa so as to honor the desire of the devas who want to see him in his last hour; and he sends Ven. Ānanda into Kusinārā to inform the lay people there so that they too will be able to see him in his last hour. His motive here may be similar to that given for encouraging the building of a burial mound dedicated to him: seeing him will help human & heavenly beings brighten their minds, and that will be for their long-term welfare & happiness. Thus the attitudes expressed on this topic in the Pali Canon, when taken in their entirety, are more complex than is generally recognized.
+It is sometimes assumed, based on a passage in [[snp22.87-thanissaro]], that the Pali Canon is uniformly negative toward this aspect of Buddhist tradition. There, Ven. Vakkali, who is ill, states that “For a long time have I wanted to come & see the Blessed One, but I haven’t had the bodily strength to do so,” and the Buddha comforts him, “Enough, Vakkali. Why do you want to see this filthy body? Whoever sees the Dhamma sees me; whoever sees me sees the Dhamma.” It should be noted, however, that the Buddha’s treatment of this topic is sensitive to the context. In [[snp22.87-thanissaro]], he is talking to a bhikkhu who (1) is too sick to come see the Buddha on his own strength; and (2) is on the verge of arahantship. Here in [[dn16-thanissaro]], however, the Buddha dismisses Ven. Upavāṇa so as to honor the desire of the devas who want to see him in his last hour; and he sends Ven. Ānanda into Kusinārā to inform the lay people there so that they too will be able to see him in his last hour. His motive here may be similar to that given for encouraging the building of a burial mound dedicated to him: seeing him will help human & heavenly beings brighten their minds, and that will be for their long-term welfare & happiness. Thus the attitudes expressed on this topic in the Pali Canon, when taken in their entirety, are more complex than is generally recognized.
 
 45. Reading _chinna-pada_ with the Thai edition. [↩︎](#^dn16note45-ref) ^dn16note45
 
@@ -1560,9 +1560,9 @@ It is sometimes assumed, based on a passage in [[snp22.87-thanissaro]], that the
 
 47. The commentary notes that Subhadda makes this statement based on non-Buddhist practices he knew from his previous sectarian affiliation. [↩︎](#^dn16note47-ref) ^dn16note47
 
-48. The Cullavagga (XI.9) tells of how the monks at the First Council could not agree on which rules should be classed as lesser & minor. Ven. Ānanda himself confessed that he neglected to ask the Buddha on this point. One of the monks made a motion that—because many of the rules affect the laity, and the laity would look down on the monks for rescinding them after the Buddha’s death—none of the rules should be rescinded. This motion was adopted by the Council. [↩︎](#^dn16note48-ref) ^dn16note48
+48. The Cullavagga (XI.9) tells of how the bhikkhus at the First Council could not agree on which rules should be classed as lesser & minor. Ven. Ānanda himself confessed that he neglected to ask the Buddha on this point. One of the bhikkhus made a motion that—because many of the rules affect the laity, and the laity would look down on the bhikkhus for rescinding them after the Buddha’s death—none of the rules should be rescinded. This motion was adopted by the Council. [↩︎](#^dn16note48-ref) ^dn16note48
 
-49. A monk named Channa is depicted at several spots in the Vinaya as despising all other monks on the grounds that “The Buddha is mine, the Dhamma is mine, it was by my young master that the Dhamma was realized.” (Saṅghādisesa 12) This would fit in with the post-canonical tradition identifying Channa as the horseman who accompanied the young Prince Siddhartha on the night of the latter’s Great Renunciation. Two rules in the Vinaya—Saṅghādisesa 12 & Pācittiya 12—depict him as devious & impossible to admonish. Cv.XI reports events after the Parinibbāna, telling of how news of the brahma-penalty shocked Channa to his senses. As a result, he changed his ways and eventually became an arahant. As Ven. Ānanda then explains in that passage, the brahma-penalty was automatically lifted at the moment of Ven. Channa’s final attainment. [[sn22-34-thanissaro/sn22-thanissaro/sn22.90-thanissaro]] tells a different version of how Ven. Channa changed his attitude and broke through to the Dhamma. [↩︎](#^dn16note49-ref) ^dn16note49
+49. A bhikkhu named Channa is depicted at several spots in the Vinaya as despising all other bhikkhus on the grounds that “The Buddha is mine, the Dhamma is mine, it was by my young master that the Dhamma was realized.” (Saṅghādisesa 12) This would fit in with the post-canonical tradition identifying Channa as the horseman who accompanied the young Prince Siddhartha on the night of the latter’s Great Renunciation. Two rules in the Vinaya—Saṅghādisesa 12 & Pācittiya 12—depict him as devious & impossible to admonish. Cv.XI reports events after the Parinibbāna, telling of how news of the brahma-penalty shocked Channa to his senses. As a result, he changed his ways and eventually became an arahant. As Ven. Ānanda then explains in that passage, the brahma-penalty was automatically lifted at the moment of Ven. Channa’s final attainment. [[sn22-34-thanissaro/sn22-thanissaro/sn22.90-thanissaro]] tells a different version of how Ven. Channa changed his attitude and broke through to the Dhamma. [↩︎](#^dn16note49-ref) ^dn16note49
 
 50. Ven. Ānanda, assuming that the Buddha has passed away, addresses Ven. Anuruddha—his senior—as “venerable sir,” in line with the Buddha’s instructions. [↩︎](#^dn16note50-ref) ^dn16note50
 
@@ -1580,7 +1580,7 @@ It is sometimes assumed, based on a passage in [[snp22.87-thanissaro]], that the
 
 57. Up to this point in the narrative, the Buddha’s body is called a _sarīra_ (singular). Here the noun becomes plural—with the meaning of “relics”—and remains plural for the remainder of the narrative. [↩︎](#^dn16note57-ref) ^dn16note57
 
-58. According to the Commentary, this closing poem was added to the sutta by elder monks in Sri Lanka. The Thai, Sri Lankan, and Burmese editions end the sutta with a further, fairly anticlimactic, verse that appears to be an even later composition: [↩︎](#^dn16note58-ref) ^dn16note58
+58. According to the Commentary, this closing poem was added to the sutta by elder bhikkhus in Sri Lanka. The Thai, Sri Lankan, and Burmese editions end the sutta with a further, fairly anticlimactic, verse that appears to be an even later composition: [↩︎](#^dn16note58-ref) ^dn16note58
 
 Altogether forty teeth,
 

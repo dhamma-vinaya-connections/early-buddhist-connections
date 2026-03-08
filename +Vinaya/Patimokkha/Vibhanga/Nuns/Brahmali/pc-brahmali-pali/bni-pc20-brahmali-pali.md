@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in the Anāthapiṇḍika’s Monastery, the nun Caṇḍakāḷī quarreled with the nuns and then cried after repeatedly beating herself. The nuns of few desires complained and criticized her, “How could Venerable Caṇḍakāḷī cry after repeatedly beating herself?” …
 
-“Is it true, monks, that the nun Caṇḍakāḷī did this?”
+“Is it true, bhikkhus, that the nun Caṇḍakāḷī did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could the nun Caṇḍakāḷī act like this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could the nun Caṇḍakāḷī act like this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

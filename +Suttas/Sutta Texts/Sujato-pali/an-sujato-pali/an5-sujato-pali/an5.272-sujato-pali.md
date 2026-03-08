@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a person with five qualities should not be appointed as meal assigner. What five? They make decisions prejudiced by favoritism, hostility, stupidity, and cowardice. And they don’t know if a meal has been assigned or not. A person with these five qualities should not be appointed as meal assigner.
+1“bhikkhus, a person with five qualities should not be appointed as meal assigner. What five? They make decisions prejudiced by favoritism, hostility, stupidity, and cowardice. And they don’t know if a meal has been assigned or not. A person with these five qualities should not be appointed as meal assigner.
 
 2A person with five qualities should be appointed as meal assigner. What five? They don’t make decisions prejudiced by favoritism, hostility, stupidity, and cowardice. And they know if a meal has been assigned or not. A person with these five qualities should be appointed as meal assigner.
 

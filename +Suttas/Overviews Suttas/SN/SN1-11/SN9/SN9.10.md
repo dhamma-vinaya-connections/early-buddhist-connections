@@ -44,7 +44,7 @@ parallels_partilal: "[[SA-2.357]], [[SA1337]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> When a mendicant gives up their habit of reciting the texts, a deity questions them. But it seems they have now found peace
+> When a bhikkhu gives up their habit of reciting the texts, a deity questions them. But it seems they have now found peace
 
 > [!info] Key Excerpts 
 > When you hear the teaching confidence grows;

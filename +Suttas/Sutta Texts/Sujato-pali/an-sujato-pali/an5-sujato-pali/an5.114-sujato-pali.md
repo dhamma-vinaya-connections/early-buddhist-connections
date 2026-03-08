@@ -22,7 +22,7 @@ language: "English - Pali"
 
 1At one time the Buddha was staying in the land of the Magadhans at Andhakavinda. Then Venerable Ānanda went up to the Buddha, bowed, and sat down to one side. The Buddha said to him:
 
-2“Ānanda, those mendicants who are junior, recently gone forth, newly come to this teaching and training should be encouraged, supported, and established in five things. What five?
+2“Ānanda, those bhikkhus who are junior, recently gone forth, newly come to this teaching and training should be encouraged, supported, and established in five things. What five?
 
 They should be encouraged, supported, and established in restraint in the monastic code: ‘Reverends, please be ethical. Live restrained in the code of conduct, conducting yourselves well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken.’
 
@@ -35,7 +35,7 @@ They should be encouraged, supported, and established in restraint in the monast
 
 6They should be encouraged, supported, and established in right perspective: ‘Reverends, please hold right view and have right perspective.’
 
-Those mendicants who are junior, recently gone forth, newly come to this teaching and training should be encouraged, supported, and established in these five things.”
+Those bhikkhus who are junior, recently gone forth, newly come to this teaching and training should be encouraged, supported, and established in these five things.”
 
 #### Pali
 

@@ -7,37 +7,37 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP30]]
 > ◄  [[bu-np29-horner]] 📜  [[BU-PC1]] ►
 
-# Monks’ Forfeiture (_Nissaggiya_) 30
+# bhikkhus’ Forfeiture (_Nissaggiya_) 30
 
-*Bu-NP.30.1.1* *BD.2.160* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery.[^1] Now at that time at Sāvatthī robes and food were prepared for[^2] the Order by a certain guild,[^3] saying: “Having offered them food,[^4] we will present them with robe-material.” Then the group of six monks approached that guild, and having approached they said to that guild: “Sirs, give these robes to us.”
+*Bu-NP.30.1.1* *BD.2.160* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery.[^1] Now at that time at Sāvatthī robes and food were prepared for[^2] the Order by a certain guild,[^3] saying: “Having offered them food,[^4] we will present them with robe-material.” Then the group of six bhikkhus approached that guild, and having approached they said to that guild: “Sirs, give these robes to us.”
 
 “Honoured sirs, we will not give; alms-food with robes are got ready by us every year for the Order.”
 
 “Sirs, many are the Order’s benefactors, many are the Order’s devotees.[^5] We are here, depending on you, looking to you, but if you will not give to us, then who is there[^6] who will give to us? Sirs, give these robes to us.”
 
-Then that guild, being pressed by the group of six monks, giving the group of six monks as much robe-material as was prepared, served the Order with a meal. Those monks who knew that robe-material and a meal were prepared for the Order, and did not know that (it) was given to the group of six monks, spoke thus:
+Then that guild, being pressed by the group of six bhikkhus, giving the group of six bhikkhus as much robe-material as was prepared, served the Order with a meal. Those bhikkhus who knew that robe-material and a meal were prepared for the Order, and did not know that (it) was given to the group of six bhikkhus, spoke thus:
 
 “Sirs, dedicate[^7] robe-material to the Order.”
 
-*BD.2.161* “Honoured sirs, there is none; the masters, the group of six monks, appropriated[^8] to themselves as much robe-material as was prepared.”
+*BD.2.161* “Honoured sirs, there is none; the masters, the group of six bhikkhus, appropriated[^8] to themselves as much robe-material as was prepared.”
 
-Those who were modest monks … spread it about, saying:
+Those who were modest bhikkhus … spread it about, saying:
 
-“How can the group of six monks knowingly[^9] appropriate to themselves an apportioned[^10] benefit belonging to the Order?” Then these monks told this matter to the lord. He said:
+“How can the group of six bhikkhus knowingly[^9] appropriate to themselves an apportioned[^10] benefit belonging to the Order?” Then these bhikkhus told this matter to the lord. He said:
 
-“Is it true, as is said, that you, monks, knowingly appropriated to yourselves an apportioned benefit belonging to the Order?”
+“Is it true, as is said, that you, bhikkhus, knowingly appropriated to yourselves an apportioned benefit belonging to the Order?”
 
 “It is true, lord,” they said.
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How can you, foolish men, knowingly appropriate to yourselves an apportioned benefit belonging to the Order? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, knowingly appropriate to yourselves an apportioned benefit belonging to the Order? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
-“Whatever monk should knowingly appropriate to himself an apportioned benefit belonging to the Order, there is an offence of expiation involving forfeiture.”
+“Whatever bhikkhu should knowingly appropriate to himself an apportioned benefit belonging to the Order, there is an offence of expiation involving forfeiture.”
 
 * * *
 
-*Bu-NP.30.2.1* Whatever means: … is monk to be understood in this case.
+*Bu-NP.30.2.1* Whatever means: … is bhikkhu to be understood in this case.
 
 He knows[^11] means: either he knows by himself or others tell him or (someone) tells (him). *Vin.3.266*
 
@@ -47,7 +47,7 @@ A benefit means: the requisites of robes, alms-food, lodgings, medicine for the 
 
 *BD.2.162* Apportioned means: it has been expressly said,[^14] “we will give, we will make.”
 
-If he appropriates to himself, in the action there is an offence of wrong-doing; it is to be forfeited on acquisition. It should be forfeited to … an individual. And thus, monks, should it be forfeited: ‘Honoured sirs, this apportioned benefit belonging to the Order, knowingly appropriated by me to myself, is to be forfeited. I forfeit it to the Order.’ … ‘… the Order should give back … let the venerable ones give back … I will give back this benefit to the venerable one.’
+If he appropriates to himself, in the action there is an offence of wrong-doing; it is to be forfeited on acquisition. It should be forfeited to … an individual. And thus, bhikkhus, should it be forfeited: ‘Honoured sirs, this apportioned benefit belonging to the Order, knowingly appropriated by me to myself, is to be forfeited. I forfeit it to the Order.’ … ‘… the Order should give back … let the venerable ones give back … I will give back this benefit to the venerable one.’
 
 If he thinks that it was apportioned when it was apportioned (and) appropriates it to himself, there is an offence of expiation involving forfeiture. If he is in doubt as to whether it was apportioned (and) appropriates it to himself, there is an offence of expiation involving forfeiture. If he thinks that it was not apportioned when it was apportioned (and) appropriates it to himself, there is an offence of expiation involving forfeiture. If he appropriates what was apportioned to the Order for another (part of the) Order[^15] or for a shrine, there is an offence of wrong-doing. If he appropriates what was apportioned to a shrine for another shrine or for an Order or for an individual, there is an offence of wrong-doing. If he appropriates what was apportioned to an individual for another individual or for an Order or for a shrine, there is an offence of wrong-doing. If he thinks that it was apportioned when it was not apportioned, there is an offence of wrong-doing. If he is in doubt as to whether it was not apportioned, there is an offence of wrong-doing. If he thinks that it was not apportioned when it was not apportioned, there is no offence.
 
@@ -71,7 +71,7 @@ Told are the Offences of Expiation involving Forfeiture[^19] *Vin.3.267*
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

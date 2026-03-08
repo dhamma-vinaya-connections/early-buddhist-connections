@@ -18,27 +18,27 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the monks from the group of six groundlessly charged a monk with an offense entailing suspension.
+1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, the bhikkhus from the group of six groundlessly charged a bhikkhu with an offense entailing suspension.
 
-2The monks of few desires complained and criticized them, “How could the monks from the group of six do this?” …
+2The bhikkhus of few desires complained and criticized them, “How could the bhikkhus from the group of six do this?” …
 
-“Is it true, monks, that you did this?”
+“Is it true, bhikkhus, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk groundlessly charges a monk with an offense entailing suspension, he commits an offense entailing confession.’”
+3‘If a bhikkhu groundlessly charges a bhikkhu with an offense entailing suspension, he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
-5**A monk:** another monk.
+5**A bhikkhu:** another bhikkhu.
 
 6**Groundless:** not seen, not heard, not suspected.
 

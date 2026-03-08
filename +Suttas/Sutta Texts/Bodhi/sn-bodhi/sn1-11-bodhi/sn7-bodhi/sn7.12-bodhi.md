@@ -27,7 +27,7 @@ At Sāvatthī. Then, in the morning, the Blessed One dressed and, taking bowl an
 > >   
 > >   
 > 
-> 670 “Again and again, the mendicants beg;  
+> 670 “Again and again, the bhikkhus beg;  
 >   
 > Again and again, the donors give;  
 >   

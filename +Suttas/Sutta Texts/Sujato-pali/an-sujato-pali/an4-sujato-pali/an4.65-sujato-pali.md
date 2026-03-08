@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four people are found in the world. What four? There are those whose estimation of and confidence in others is based on appearance, on eloquence, on mortification, and on principle.
+1“bhikkhus, these four people are found in the world. What four? There are those whose estimation of and confidence in others is based on appearance, on eloquence, on mortification, and on principle.
 
 These are the four people found in the world.
 

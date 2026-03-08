@@ -2,7 +2,7 @@
 sutta_code: "AN5.286"
 sutta_title:
   - "Bhikkhu "
-  - "Monk"
+  - "bhikkhu"
 sutta-version: "Ven. Sujato"
 language: "English - Pali"
 ---
@@ -14,15 +14,15 @@ language: "English - Pali"
 
 ## 5: The Book of the Fives
 
-### XXVIII. Abbreviated Texts on Training Rules — AN 5.286: A Monk
+### XXVIII. Abbreviated Texts on Training Rules — AN 5.286: A bhikkhu
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a monk with five qualities is cast down to hell. What five? He kills living creatures, steals, has sex, lies, and uses alcoholic drinks that cause negligence. A monk with these five qualities is cast down to hell.
+1“bhikkhus, a bhikkhu with five qualities is cast down to hell. What five? He kills living creatures, steals, has sex, lies, and uses alcoholic drinks that cause negligence. A bhikkhu with these five qualities is cast down to hell.
 
-2A monk with five qualities is raised up to heaven. What five? He doesn’t kill living creatures, steal, have sex, lie, or use alcoholic drinks that cause negligence. A monk with these five qualities is raised up to heaven.”
+2A bhikkhu with five qualities is raised up to heaven. What five? He doesn’t kill living creatures, steal, have sex, lie, or use alcoholic drinks that cause negligence. A bhikkhu with these five qualities is raised up to heaven.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu yathābhataṁ nikkhitto evaṁ niraye. Katamehi pañcahi? Pāṇātipātī hoti, adinnādāyī hoti, abrahmacārī hoti, musāvādī hoti, surāmerayamajjapamādaṭṭhāyī hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu yathābhataṁ nikkhitto evaṁ niraye.
 

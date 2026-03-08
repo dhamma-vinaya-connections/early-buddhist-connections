@@ -33,21 +33,21 @@ After staying at Bhaddavatikā for as long as he liked, the Buddha set out wande
 
 “Venerable, what can we prepare for you that’s delicious but hard to get?”
 
-The monks from the group of six replied:
+The bhikkhus from the group of six replied:
 
-“There’s a delicious liquor called Kāpotikā, which is hard for the monks to get. Prepare that.”
+“There’s a delicious liquor called Kāpotikā, which is hard for the bhikkhus to get. Prepare that.”
 
 And the lay followers prepared Kāpotikā in house after house. Then, when they saw that Sāgata had entered the town for alms, they said to him:
 
 “Drink, Venerable, drink the Kāpotikā liquor.” Sāgata drank that liquor in house after house, and as he was leaving town, he collapsed at the town gate.
 
-4Just then the Buddha, together with a number of monks, was also leaving town, and he saw Sāgata at the town gate. He said:
+4Just then the Buddha, together with a number of bhikkhus, was also leaving town, and he saw Sāgata at the town gate. He said:
 
-“Monks, pick up Sāgata.”
+“bhikkhus, pick up Sāgata.”
 
 Saying, “Yes, Sir,” they led him to the monastery, where they put him down with his head toward the Buddha. But Sāgata turned around, pointing his feet toward the Buddha. The Buddha said:
 
-“Previously, monks, wasn’t Sāgata respectful and deferential toward me?”
+“Previously, bhikkhus, wasn’t Sāgata respectful and deferential toward me?”
 
 “Yes.”
 
@@ -67,12 +67,12 @@ Saying, “Yes, Sir,” they led him to the monastery, where they put him down w
 “Certainly not.”
 
 
-“So, monks, should one drink that which makes one senseless?”
+“So, bhikkhus, should one drink that which makes one senseless?”
 
 “Certainly not, Sir.”
 
 
-“It’s not suitable, monks, it’s not proper for Sāgata, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could Sāgata drink alcoholic drinks? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+“It’s not suitable, bhikkhus, it’s not proper for Sāgata, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could Sāgata drink alcoholic drinks? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

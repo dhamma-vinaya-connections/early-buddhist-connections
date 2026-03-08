@@ -23,7 +23,7 @@ Now on that occasion Princess Sumanā_—_with an entourage of 500 ladies-in-wai
 
 “There would, Sumanā,” said the Blessed One. “The one who was a giver of alms, on becoming a human being, would surpass the non-giver of alms in five areas: in human life span, human beauty, human pleasure, human status, & human sovereignty. The one who was a giver of alms, on becoming a human being, would surpass the non-giver of alms in these five areas.”
 
-“And if they were to go forth from home into the homeless life [of a monk]: Having gone forth, would there be any distinction, any difference between the two?”
+“And if they were to go forth from home into the homeless life [of a bhikkhu]: Having gone forth, would there be any distinction, any difference between the two?”
 
 “There would, Sumanā,” said the Blessed One. “The one who was a giver of alms, on going forth, would surpass the non-giver of alms in five areas: He would often be asked to make use of robes and rarely not be asked. He would often be asked to take food… to make use of shelter… to make use of medicine and rarely not be asked. He would live with companions in the holy life who would often treat him with pleasing actions and rarely with unpleasing ones, who would treat him with pleasing words… pleasing thoughts… who would present him with pleasing gifts, and rarely with unpleasing ones. The one who was a giver of alms, on going forth, would surpass the non-giver of alms in these five areas”
 

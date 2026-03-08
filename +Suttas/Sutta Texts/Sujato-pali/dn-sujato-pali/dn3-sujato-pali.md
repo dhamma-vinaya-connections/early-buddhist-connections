@@ -17,7 +17,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of around five hundred mendicants when he arrived at a village of the Kosalan brahmins named Icchānaṅgala. He stayed in a forest near Icchānaṅgala.
+1So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of around five hundred bhikkhus when he arrived at a village of the Kosalan brahmins named Icchānaṅgala. He stayed in a forest near Icchānaṅgala.
 
 #### 1. The Section on Pokkharasāti
 
@@ -43,9 +43,9 @@ Pokkharasāti heard:
 7“Yes, sir,” replied Ambaṭṭha. He got up from his seat, bowed, and respectfully circled Pokkharasāti, keeping him to his right. He mounted a mare-drawn chariot and, together with several students, set out for the forest near Icchānaṅgala. He went by carriage as far as the terrain allowed, then descended and entered the monastery on foot.
 
 
-At that time several mendicants were walking meditation in the open air. Then the student Ambaṭṭha went up to those mendicants and said: “Gentlemen, where is Master Gotama at present? For we have come here to see him.”
+At that time several bhikkhus were walking meditation in the open air. Then the student Ambaṭṭha went up to those bhikkhus and said: “Gentlemen, where is Master Gotama at present? For we have come here to see him.”
 
-8Then those mendicants thought: “This Ambaṭṭha is from a well-known family, and he is the pupil of the well-known brahmin Pokkharasāti. The Buddha won’t mind having a discussion together with such gentlemen.”
+8Then those bhikkhus thought: “This Ambaṭṭha is from a well-known family, and he is the pupil of the well-known brahmin Pokkharasāti. The Buddha won’t mind having a discussion together with such gentlemen.”
 
 They said to Ambaṭṭha: “Ambaṭṭha, that’s his dwelling, with the door closed. Approach it quietly, without hurrying; go onto the porch, clear your throat, and knock with the latch. The Buddha will open the door.”
 
@@ -290,7 +290,7 @@ is best of gods and humans.”
 
 40Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna … This pertains to their conduct.
 
-41Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna … This pertains to their conduct.
+41Furthermore, as the placing of the mind and keeping it connected are stilled, a bhikkhu enters and remains in the second jhāna … This pertains to their conduct.
 
 42Furthermore, with the fading away of rapture, they enter and remain in the third jhāna … This pertains to their conduct.
 
@@ -299,7 +299,7 @@ is best of gods and humans.”
 
 44When their mind has become immersed in samādhi like this — purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable — they extend it and project it toward knowledge and vision. This pertains to their knowledge. … They understand: ‘There is no return to any state of existence.’ This pertains to their knowledge. This is that knowledge.
 
-45This mendicant is said to be ‘accomplished in knowledge’, and also ‘accomplished in conduct’, and also ‘accomplished in knowledge and conduct’. And, Ambaṭṭha, there is no accomplishment in knowledge and conduct that is better or finer than this.
+45This bhikkhu is said to be ‘accomplished in knowledge’, and also ‘accomplished in conduct’, and also ‘accomplished in knowledge and conduct’. And, Ambaṭṭha, there is no accomplishment in knowledge and conduct that is better or finer than this.
 
 #### 5. Four Drains
 
@@ -454,9 +454,9 @@ Then Pokkharasāti said to the Buddha: “Ambaṭṭha is a fool, Master Gotama.
 
 74Pokkharasāti thought: “The ascetic Gotama possesses the thirty-two marks completely, lacking none.”
 
-He said to the Buddha: “Would Master Gotama together with the mendicant Saṅgha please accept today’s meal from me?” The Buddha consented in silence.
+He said to the Buddha: “Would Master Gotama together with the bhikkhu Saṅgha please accept today’s meal from me?” The Buddha consented in silence.
 
-75Then, knowing that the Buddha had consented, Pokkharasāti announced the time to him: “It’s time, Master Gotama, the meal is ready.” Then the Buddha put on his outer robe in the morning and, taking his bowl and robe, went to the home of Pokkharasāti together with the mendicant Saṅgha, where he sat on the seat spread out. Then Pokkharasāti served and satisfied the Buddha with his own hands with a variety of delicious foods, while his students served the Saṅgha. When the Buddha had eaten and washed his hand and bowl, Pokkharasāti took a low seat and sat to one side.
+75Then, knowing that the Buddha had consented, Pokkharasāti announced the time to him: “It’s time, Master Gotama, the meal is ready.” Then the Buddha put on his outer robe in the morning and, taking his bowl and robe, went to the home of Pokkharasāti together with the bhikkhu Saṅgha, where he sat on the seat spread out. Then Pokkharasāti served and satisfied the Buddha with his own hands with a variety of delicious foods, while his students served the Saṅgha. When the Buddha had eaten and washed his hand and bowl, Pokkharasāti took a low seat and sat to one side.
 
 76Then the Buddha taught him step by step, with a talk on giving, ethical conduct, and heaven. He explained the drawbacks of sensual pleasures, so sordid and corrupt, and the benefit of renunciation. And when the Buddha knew that Pokkharasāti’s mind was ready, pliable, rid of hindrances, joyful, and confident he explained the special teaching of the Buddhas: suffering, its origin, its cessation, and the path. Just as a clean cloth rid of stains would properly absorb dye, in that very seat the stainless, immaculate vision of the Dhamma arose in the brahmin Pokkharasāti: “Everything that has a beginning has an end.”
 
@@ -464,7 +464,7 @@ He said to the Buddha: “Would Master Gotama together with the mendicant Saṅg
 
 77Then Pokkharasāti saw, attained, understood, and fathomed the Dhamma. He went beyond doubt, got rid of indecision, and became self-assured and independent of others regarding the Teacher’s instructions. He said to the Buddha,
 
-“Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, just so has Master Gotama made the Teaching clear in many ways. Together with my children, wives, retinue, and ministers, I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.
+“Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, just so has Master Gotama made the Teaching clear in many ways. Together with my children, wives, retinue, and ministers, I go for refuge to Master Gotama, to the teaching, and to the bhikkhu Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life.
 
 Just as Master Gotama visits other devoted families in Ukkaṭṭhā, may he visit mine. The brahmin boys and girls there will bow to you, rise in your presence, give you a seat and water, and gain confidence in their hearts. That will be for their lasting welfare and happiness.”
 

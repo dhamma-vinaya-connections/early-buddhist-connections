@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Venerable Sāriputta addressed the mendicants: …
+1There Venerable Sāriputta addressed the bhikkhus: …
 
 “Whoever asks a question of another, does so for one or other of these five reasons. What five? Someone asks a question of another from stupidity and folly. Or they ask from wicked desires, being naturally full of desires. Or they ask in order to disparage. Or they ask wanting to understand. Or they ask with the thought, ‘If they correctly answer the question I ask it’s good. If not, I’ll correctly answer it for them.’ Whoever asks a question of another, does so for one or other of these five reasons. As for myself, I ask with the thought, ‘If they correctly answer the question I ask it’s good. If not, I’ll correctly answer it for them.’”
 

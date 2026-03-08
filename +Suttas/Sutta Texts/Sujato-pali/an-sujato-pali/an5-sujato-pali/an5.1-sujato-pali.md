@@ -20,16 +20,16 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
 
-2“Mendicants, there are these five powers of a trainee. What five? The powers of faith, conscience, prudence, energy, and wisdom. These are the five powers of a trainee.
+2“bhikkhus, there are these five powers of a trainee. What five? The powers of faith, conscience, prudence, energy, and wisdom. These are the five powers of a trainee.
 
 3So you should train like this: ‘We will have the trainee’s powers of faith, conscience, prudence, energy, and wisdom.’ That’s how you should train.”
 
-That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

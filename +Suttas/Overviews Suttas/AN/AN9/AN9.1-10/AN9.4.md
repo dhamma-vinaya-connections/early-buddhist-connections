@@ -44,7 +44,7 @@ parallels_partilal: "[[AN8.71]], [[AN10.8]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Nandaka is teaching the monks when the Buddha  arrives. Unbeknown to those inside, the Buddha  waits until the talk was finished, then enters. Nandaka is embarrassed at keeping the Buddha  waiting, but the Buddha  praises him and offers a teaching on the four things a mendicant should complete. Nandaka then teaches five benefits of listening to dhamma
+> Nandaka is teaching the monks when the Buddha  arrives. Unbeknown to those inside, the Buddha  waits until the talk was finished, then enters. Nandaka is embarrassed at keeping the Buddha  waiting, but the Buddha  praises him and offers a teaching on the four things a bhikkhu should complete. Nandaka then teaches five benefits of listening to dhamma
 
 > [!info] Key Excerpts 
 > Faithful and ethical and gets internal serenity of heart and gets the higher wisdom. five benefits of listening to the teachings approved by the teacher, feel inspired by the meaning, see the meaning of a deep saying, spiritual companions esteem, rouse energy for attaining the unattained

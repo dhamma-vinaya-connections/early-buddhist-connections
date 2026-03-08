@@ -20,12 +20,12 @@ language: "Pali - English"
 
 1At one time when the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery, a male relative of a nun who was a pupil of Bhaddā Kāpilānī went from his own village to Sāvatthī on some business. Then, knowing that the Buddha had prohibited standing or talking alone with a man in a concealed place, she instead stood and talked alone with that man out in the open.
 
-2The nuns of few desires complained and criticized her, “How could a nun do such a thing?” … “Is it true, monks, that a nun did this?”
+2The nuns of few desires complained and criticized her, “How could a nun do such a thing?” … “Is it true, bhikkhus, that a nun did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could a nun do such a thing? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could a nun do such a thing? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

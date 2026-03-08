@@ -44,7 +44,7 @@ parallels_partilal: "[[AN5.47]], [[SN11.14]], [[SN55.26]], [[THAG8]].2, [[PE3]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> When a mendicant has confidence and morality, merit overflows for the donor
+> When a bhikkhu has confidence and morality, merit overflows for the donor
 
 > [!info] Key Excerpts 
 > Noble disciple has experiential confidence in the Buddha , dhamma, Sangha and ethics

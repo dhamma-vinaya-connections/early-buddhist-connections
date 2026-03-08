@@ -38,7 +38,7 @@ contribution:
 
 
 > [!example]- 🌐[[SN8.3]] - 📜[Available texts](obsidian://search?query=file:sn8.3-) - Pesalasutta – Well Behaved
-> As a renowned poet, vaṅgīsa looked down on less skilled mendicants. Ashamed of his conceit, he exhorted himself in verse to be humble and at peace.
+> As a renowned poet, vaṅgīsa looked down on less skilled bhikkhus. Ashamed of his conceit, he exhorted himself in verse to be humble and at peace.
 
 
 > [!example]- 🌐[[SN8.4]] - 📜[Available texts](obsidian://search?query=file:sn8.4-) - Ānandasutta – Ānanda

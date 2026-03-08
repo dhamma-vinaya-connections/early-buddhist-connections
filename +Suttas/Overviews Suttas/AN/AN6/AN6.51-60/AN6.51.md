@@ -44,12 +44,12 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Venerables Ānanda and Sāriputta discuss how a mendicants gets to further their learning and understanding
+> Venerables Ānanda and Sāriputta discuss how a bhikkhus gets to further their learning and understanding
 
 > [!info] Key Excerpts 
 > They learned and memorized it, they teach others in detail, make them recite in detail, practice reciting in detail, and think about and consider the teaching in their heart and ask questions to senior monks
 > 
-> This is how a mendicant gets to hear a teaching they haven’t heard before. It’s how they remember those teachings they have heard. It’s how they keep rehearsing the teachings they’ve already got to know. And it’s how they come to understand what they haven’t understood before
+> This is how a bhikkhu gets to hear a teaching they haven’t heard before. It’s how they remember those teachings they have heard. It’s how they keep rehearsing the teachings they’ve already got to know. And it’s how they come to understand what they haven’t understood before
 > 
 
 

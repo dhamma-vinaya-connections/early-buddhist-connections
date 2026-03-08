@@ -252,7 +252,7 @@ as explained by the Ascetic.
 They do not go to the far shore twice,  
 nor having gone once do they fall away.
 
-715 When a mendicant has no creeping,  
+715 When a bhikkhu has no creeping,  
 and has cut the stream of craving,  
 and given up all the various duties,  
 no fever is found in them.

@@ -18,19 +18,19 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time Venerable Mahāmoggallāna was staying in the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā’s Wood. There Venerable Mahāmoggallāna addressed the mendicants: “Reverends, mendicants!”
+1So I have heard. At one time Venerable Mahāmoggallāna was staying in the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā’s Wood. There Venerable Mahāmoggallāna addressed the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Venerable Mahāmoggallāna said this:
 
-2“Suppose a mendicant invites other mendicants to admonish them. But they’re hard to admonish, having qualities that make them hard to admonish. They're impatient, and don't take instruction respectfully. So their spiritual companions don’t think it’s worth advising and instructing them, and that person doesn’t gain their trust.
+2“Suppose a bhikkhu invites other bhikkhus to admonish them. But they’re hard to admonish, having qualities that make them hard to admonish. They're impatient, and don't take instruction respectfully. So their spiritual companions don’t think it’s worth advising and instructing them, and that person doesn’t gain their trust.
 
 
 3And what are the qualities that make them hard to admonish?
 
-Firstly, a mendicant has wicked desires, having fallen under the sway of wicked desires. This is a quality that makes them difficult to admonish.
+Firstly, a bhikkhu has wicked desires, having fallen under the sway of wicked desires. This is a quality that makes them difficult to admonish.
 
 
-4Furthermore, a mendicant glorifies themselves and puts others down. …
+4Furthermore, a bhikkhu glorifies themselves and puts others down. …
 
 
 5They’re irritable, overcome by anger …
@@ -64,41 +64,41 @@ Firstly, a mendicant has wicked desires, having fallen under the sway of wicked 
 17They’re obstinate and vain …
 
 
-18Furthermore, a mendicant is attached to their own views, holding them tight, and refusing to let go. This too is a quality that makes them difficult to admonish.
+18Furthermore, a bhikkhu is attached to their own views, holding them tight, and refusing to let go. This too is a quality that makes them difficult to admonish.
 
 
 19These are the qualities that make them hard to admonish.
 
-20Suppose a mendicant doesn’t invite other mendicants to admonish them. But they’re easy to admonish, having qualities that make them easy to admonish. They're accepting, and take instruction respectfully. So their spiritual companions think it’s worth advising and instructing them, and that person gains their trust.
+20Suppose a bhikkhu doesn’t invite other bhikkhus to admonish them. But they’re easy to admonish, having qualities that make them easy to admonish. They're accepting, and take instruction respectfully. So their spiritual companions think it’s worth advising and instructing them, and that person gains their trust.
 
 
-21And what are the qualities that make them easy to admonish? Firstly, a mendicant doesn’t have wicked desires …
+21And what are the qualities that make them easy to admonish? Firstly, a bhikkhu doesn’t have wicked desires …
 
 
-22-36Furthermore, a mendicant isn’t attached to their own views, not holding them tight, but letting them go easily.
+22-36Furthermore, a bhikkhu isn’t attached to their own views, not holding them tight, but letting them go easily.
 
 
 37These are the qualities that make them easy to admonish.
 
-38-68In such a case, a mendicant should measure themselves against another like this.
+38-68In such a case, a bhikkhu should measure themselves against another like this.
 
 
-‘This person has wicked desires, having fallen under the sway of wicked desires. And I don’t like or approve of this person. And if I were to fall under the sway of wicked desires, others wouldn’t like or approve of me.’ A mendicant who knows this should give rise to the thought: ‘I will not fall under the sway of wicked desires.’ …  
+‘This person has wicked desires, having fallen under the sway of wicked desires. And I don’t like or approve of this person. And if I were to fall under the sway of wicked desires, others wouldn’t like or approve of me.’ A bhikkhu who knows this should give rise to the thought: ‘I will not fall under the sway of wicked desires.’ …  
   
-‘This person is attached to their own views, holding them tight and refusing to let go. And I don’t like or approve of this person. And if I were to be attached to my own views, holding them tight and refusing to let go, others wouldn’t like or approve of me.’ A mendicant who knows this should give rise to the thought: ‘I will not be attached to my own views, holding them tight, but will let them go easily.’  
+‘This person is attached to their own views, holding them tight and refusing to let go. And I don’t like or approve of this person. And if I were to be attached to my own views, holding them tight and refusing to let go, others wouldn’t like or approve of me.’ A bhikkhu who knows this should give rise to the thought: ‘I will not be attached to my own views, holding them tight, but will let them go easily.’  
   
-In such a case, a mendicant should check themselves like this: ‘Do I have wicked desires? Have I fallen under the sway of wicked desires?’ Suppose that, upon checking, a mendicant knows that they have fallen under the sway of wicked desires. Then they should make an effort to give up those bad, unskillful qualities. But suppose that, upon checking, a mendicant knows that they haven’t fallen under the sway of wicked desires. Then they should meditate with rapture and joy, training day and night in skillful qualities. …
+In such a case, a bhikkhu should check themselves like this: ‘Do I have wicked desires? Have I fallen under the sway of wicked desires?’ Suppose that, upon checking, a bhikkhu knows that they have fallen under the sway of wicked desires. Then they should make an effort to give up those bad, unskillful qualities. But suppose that, upon checking, a bhikkhu knows that they haven’t fallen under the sway of wicked desires. Then they should meditate with rapture and joy, training day and night in skillful qualities. …
 
 
-69Suppose that, upon checking, a mendicant knows that they are attached to their own views, holding them tight, and refusing to let go. Then they should make an effort to give up those bad, unskillful qualities. Suppose that, upon checking, a mendicant knows that they’re not attached to their own views, holding them tight, but let them go easily. Then they should meditate with rapture and joy, training day and night in skillful qualities.
+69Suppose that, upon checking, a bhikkhu knows that they are attached to their own views, holding them tight, and refusing to let go. Then they should make an effort to give up those bad, unskillful qualities. Suppose that, upon checking, a bhikkhu knows that they’re not attached to their own views, holding them tight, but let them go easily. Then they should meditate with rapture and joy, training day and night in skillful qualities.
 
-70Suppose that, upon checking, a mendicant sees that they haven’t given up all these bad, unskillful qualities. Then they should make an effort to give them all up. But suppose that, upon checking, a mendicant sees that they have given up all these bad, unskillful qualities. Then they should meditate with rapture and joy, training day and night in skillful qualities.
+70Suppose that, upon checking, a bhikkhu sees that they haven’t given up all these bad, unskillful qualities. Then they should make an effort to give them all up. But suppose that, upon checking, a bhikkhu sees that they have given up all these bad, unskillful qualities. Then they should meditate with rapture and joy, training day and night in skillful qualities.
 
 71Suppose there was a woman or man who was young, youthful, and fond of adornments, and they check their own reflection in a clean bright mirror or a clear bowl of water. If they see any dirt or blemish there, they’d try to remove it. But if they don’t see any dirt or blemish there, they’re happy, thinking: ‘How fortunate that I’m clean!’
 
-In the same way, suppose that, upon checking, a mendicant sees that they haven’t given up all these bad, unskillful qualities. Then they should make an effort to give them all up. But suppose that, upon checking, a mendicant sees that they have given up all these bad, unskillful qualities. Then they should meditate with rapture and joy, training day and night in skillful qualities.”
+In the same way, suppose that, upon checking, a bhikkhu sees that they haven’t given up all these bad, unskillful qualities. Then they should make an effort to give them all up. But suppose that, upon checking, a bhikkhu sees that they have given up all these bad, unskillful qualities. Then they should meditate with rapture and joy, training day and night in skillful qualities.”
 
-72This is what Venerable Mahāmoggallāna said. Satisfied, the mendicants were happy with what Venerable Mahāmoggallāna said.
+72This is what Venerable Mahāmoggallāna said. Satisfied, the bhikkhus were happy with what Venerable Mahāmoggallāna said.
 
 #### Pali
 

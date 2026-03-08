@@ -17,7 +17,7 @@ language: "English"
 
 41. The Prominent Man Hastaka (2)
 1. Thus I have heard:[1](#^ma41note01) One time, the Buddha traveled to Āṭavikā and stayed at Agrāṭavika Grove.[2](#^ma41note02)
-2. It was then that the Bhagavān addressed the monks, “The prominent man Hastaka[3](#^ma41note03) possesses eight unprecedented qualities. What are the eight? The prominent man Hastaka has few desires, and he is faithful, modest, conscientious, diligent, mindful, settled, and wise.
+2. It was then that the Bhagavān addressed the bhikkhus, “The prominent man Hastaka[3](#^ma41note03) possesses eight unprecedented qualities. What are the eight? The prominent man Hastaka has few desires, and he is faithful, modest, conscientious, diligent, mindful, settled, and wise.
 3. “Why do I say, ‘The prominent man Hastaka has few desires’? Hastaka himself has few desires, but he doesn’t want others to know, ‘I have few desires.’ … faithful … modest … conscientious … diligent … mindful … settled … wise … Hastaka himself has wisdom, but he doesn’t want others to know, ‘I have wisdom.’ This is why I say, ‘The prominent man Hastaka has few desires.’
 4. “Why do I say, ‘The prominent man Hastaka is faithful’? Hastaka has obtained a firmness of faith. He is deeply attached to the Tathāgata, has established the faculty of faith, and will never follow ascetics and priests of other religions, gods like Māra and Brahmā, or any other worldly person. This is why I say, ‘The prominent man Hastaka is faithful.’
 5. “Why do I say, ‘The prominent man Hastaka is modest’? Hastaka always conducts himself with modesty. He is ashamed and feels shame about bad and unskillful things, defilements, and afflictions that bring bad results and create the roots of birth and death. This is why I say, ‘The prominent man Hastaka is modest.’
@@ -26,7 +26,7 @@ language: "English"
 8. “Why do I say, ‘The prominent man Hastaka is mindful’? Hastaka observes internal body as body, observes internal feelings … mind … principles as principles. This is why I say, ‘The prominent man Hastaka is mindful.’
 9. “Why do I say, ‘The prominent man Hastaka is settled’? Hastaka is secluded from desires and secluded from bad and unskillful things … he accomplishes and dwells in the fourth meditation. This is why I say, ‘The prominent man Hastaka is settled.’
 10. “Why do I say, ‘The prominent man Hastaka is wise’? Hastaka cultivates wisdom. He observes the principle of arising and decline and acquires knowledge that accords with it. He masters the noble wisdom, discerns it, and comprehends it. He uses it to correctly end suffering. This is why I say, ‘The prominent man Hastaka is wise.’ This is why I say, ‘The prominent man Hastaka has eight unprecedented qualities.’”
-11. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved. ^ma41note01-ref ^ma41note02-ref ^ma41note03-ref
+11. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved. ^ma41note01-ref ^ma41note02-ref ^ma41note03-ref
 
 
 

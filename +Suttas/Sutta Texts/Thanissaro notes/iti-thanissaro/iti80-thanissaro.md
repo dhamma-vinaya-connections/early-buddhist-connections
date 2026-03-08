@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 80
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, there are these three kinds of unskillful thinking. Which three? Thinking concerned with not wanting to be despised;[1](#^iti80note01) thinking concerned with gains, offerings, & tribute; thinking concerned with an empathy for others.[2](#^iti80note02) There are three kinds of unskillful thinking.” ^iti80note01-ref ^iti80note02-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, there are these three kinds of unskillful thinking. Which three? Thinking concerned with not wanting to be despised;[1](#^iti80note01) thinking concerned with gains, offerings, & tribute; thinking concerned with an empathy for others.[2](#^iti80note02) There are three kinds of unskillful thinking.” ^iti80note01-ref ^iti80note02-ref
 
 Fettered
 
@@ -38,7 +38,7 @@ intimates:
 
 he’s capable
 
-–a monk like this–
+–a bhikkhu like this–
 
 of touching superlative
 
@@ -48,7 +48,7 @@ self-awakening.
 
 1. See [[an3.102-thanissaro]]. [↩︎](#^iti80note01-ref) ^iti80note01
 
-2. According to the Commentary, this refers to a monk’s tendency to be overly intimate with lay people, overly susceptible to the rises and falls in their fortunes, “happy when they are happy, sad when they are sad, busying himself with their affairs.” [↩︎](#^iti80note02-ref) ^iti80note02
+2. According to the Commentary, this refers to a bhikkhu’s tendency to be overly intimate with lay people, overly susceptible to the rises and falls in their fortunes, “happy when they are happy, sad when they are sad, busying himself with their affairs.” [↩︎](#^iti80note02-ref) ^iti80note02
 
 See also: [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“It is impossible, mendicants, it cannot happen for a person accomplished in view to take anything as self. But it is possible for an ordinary person to take something as self.”
+1“It is impossible, bhikkhus, it cannot happen for a person accomplished in view to take anything as self. But it is possible for an ordinary person to take something as self.”
 
 1"Aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ diṭṭhisampanno puggalo kañci dhammaṁ attato upagaccheyya. Netaṁ ṭhānaṁ vijjati. Ṭhānañca kho etaṁ, bhikkhave, vijjati yaṁ puthujjano kañci dhammaṁ attato upagaccheyya. Ṭhānametaṁ vijjatī"ti.
 

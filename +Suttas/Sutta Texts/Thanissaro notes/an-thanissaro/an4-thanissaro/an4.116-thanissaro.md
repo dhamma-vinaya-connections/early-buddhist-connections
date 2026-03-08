@@ -15,9 +15,9 @@ language: "English"
 ## ## Appamāda Sutta
 
 
-“Monks, there are four instances where heedfulness should be exercised. Which four? Abandon bodily misconduct, develop good bodily conduct: Don’t be heedless there. Abandon verbal misconduct, develop good verbal conduct: Don’t be heedless there. Abandon mental misconduct, develop good mental conduct: Don’t be heedless there. Abandon wrong view, develop right view: Don’t be heedless there.[1](#^[[an4-thanissaro]].116note01) ^[[an4-thanissaro]].116note01-ref
+“bhikkhus, there are four instances where heedfulness should be exercised. Which four? Abandon bodily misconduct, develop good bodily conduct: Don’t be heedless there. Abandon verbal misconduct, develop good verbal conduct: Don’t be heedless there. Abandon mental misconduct, develop good mental conduct: Don’t be heedless there. Abandon wrong view, develop right view: Don’t be heedless there.[1](#^[[an4-thanissaro]].116note01) ^[[an4-thanissaro]].116note01-ref
 
-“When, in a monk, bodily misconduct is abandoned, good bodily conduct is developed; verbal misconduct is abandoned, good verbal conduct is developed; mental misconduct is abandoned, good mental conduct is developed; wrong view is abandoned, right view is developed, then he has no fear of death as it relates to the next life.”[2](#^[[an4-thanissaro]].116note02) ^[[an4-thanissaro]].116note02-ref
+“When, in a bhikkhu, bodily misconduct is abandoned, good bodily conduct is developed; verbal misconduct is abandoned, good verbal conduct is developed; mental misconduct is abandoned, good mental conduct is developed; wrong view is abandoned, right view is developed, then he has no fear of death as it relates to the next life.”[2](#^[[an4-thanissaro]].116note02) ^[[an4-thanissaro]].116note02-ref
 
 ### Notes
 

@@ -15,15 +15,15 @@ language: "English"
 ## ## Nāgita Sutta
 
 
-I have heard that on one occasion the Blessed One, on a wandering tour among the Kosalans with a large Saṅgha of monks, arrived at a Kosalan brahman village named Icchānaṅgala. There he stayed in the Icchānaṅgala forest grove.
+I have heard that on one occasion the Blessed One, on a wandering tour among the Kosalans with a large Saṅgha of bhikkhus, arrived at a Kosalan brahman village named Icchānaṅgala. There he stayed in the Icchānaṅgala forest grove.
 
-The brahman householders of Icchānaṅgala heard it said, “Gotama the contemplative—the son of the Sakyans, having gone forth from the Sakyan clan—on a wandering tour among the Kosalans with a large Saṅgha of monks—has arrived at Icchānaṅgala and is staying in the Icchānaṅgala forest grove. And of that Master Gotama this fine reputation has spread: ‘He is indeed a Blessed One, worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed. He makes known—having realized it through direct knowledge—this world with its devas, Māras, & Brahmās, this generation with its contemplatives & brahmans, its royalty & commonfolk; he explains the Dhamma admirable in the beginning, admirable in the middle, admirable in the end; he expounds the holy life both in its particulars & in its essence, entirely perfect, surpassingly pure. It is good to see such a worthy one.’”
+The brahman householders of Icchānaṅgala heard it said, “Gotama the contemplative—the son of the Sakyans, having gone forth from the Sakyan clan—on a wandering tour among the Kosalans with a large Saṅgha of bhikkhus—has arrived at Icchānaṅgala and is staying in the Icchānaṅgala forest grove. And of that Master Gotama this fine reputation has spread: ‘He is indeed a Blessed One, worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed. He makes known—having realized it through direct knowledge—this world with its devas, Māras, & Brahmās, this generation with its contemplatives & brahmans, its royalty & commonfolk; he explains the Dhamma admirable in the beginning, admirable in the middle, admirable in the end; he expounds the holy life both in its particulars & in its essence, entirely perfect, surpassingly pure. It is good to see such a worthy one.’”
 
 So the brahman householders of Icchānaṅgala, when the night was gone, taking many staple & non-staple foods, went to the gate house of the Icchānaṅgala forest grove. On arrival they stood there making a loud racket, a great racket.
 
 Now at that time Ven. Nāgita was the Blessed One’s attendant. So the Blessed One addressed Ven. Nāgita: “Nāgita, what is that loud racket, that great racket, like fishermen with a catch of fish?”
 
-“Lord, those are the brahman householders of Icchānaṅgala standing at the gate house to the Icchānaṅgala forest grove, having brought many staple & non-staple foods for the sake of the Blessed One & the Saṅgha of monks.”
+“Lord, those are the brahman householders of Icchānaṅgala standing at the gate house to the Icchānaṅgala forest grove, having brought many staple & non-staple foods for the sake of the Blessed One & the Saṅgha of bhikkhus.”
 
 “May I have nothing to do with honor, Nāgita, and honor nothing to do with me. Whoever cannot obtain at will—without difficulty, without trouble—as I do, the pleasure of renunciation, the pleasure of seclusion, the pleasure of peace, the pleasure of self-awakening, let him consent to this slimy-excrement-pleasure, this torpor-pleasure, this pleasure of gains, offerings, & fame.”
 
@@ -31,17 +31,17 @@ Now at that time Ven. Nāgita was the Blessed One’s attendant. So the Blessed 
 
 “May I have nothing to do with honor, Nāgita, and honor nothing to do with me. Whoever cannot obtain at will—without difficulty, without trouble—as I do, the pleasure of renunciation, the pleasure of seclusion, the pleasure of peace, the pleasure of self-awakening, let him consent to this slimy-excrement-pleasure, this torpor-pleasure, this pleasure of gains, offerings, & fame.
 
-“Nāgita, there is the case where I see a monk sitting in samādhi in a village dwelling. The thought occurs to me, ‘Soon a monastery attendant will disturb this venerable one in some way, or a novice will, and rouse him from his samādhi.’ And so I am not pleased with that monk’s village-dwelling.
+“Nāgita, there is the case where I see a bhikkhu sitting in samādhi in a village dwelling. The thought occurs to me, ‘Soon a monastery attendant will disturb this venerable one in some way, or a novice will, and rouse him from his samādhi.’ And so I am not pleased with that bhikkhu’s village-dwelling.
 
-“But then there is the case where I see a monk sitting, nodding, in the wilderness. The thought occurs to me, ‘Soon this venerable one will dispel his drowsiness & fatigue and attend to the wilderness-perception,[1](#^[[an6-thanissaro]].42note01) (his mind) unified.’ And so I am pleased with that monk’s wilderness-dwelling. ^[[an6-thanissaro]].42note01-ref
+“But then there is the case where I see a bhikkhu sitting, nodding, in the wilderness. The thought occurs to me, ‘Soon this venerable one will dispel his drowsiness & fatigue and attend to the wilderness-perception,[1](#^[[an6-thanissaro]].42note01) (his mind) unified.’ And so I am pleased with that bhikkhu’s wilderness-dwelling. ^[[an6-thanissaro]].42note01-ref
 
-“Then there is the case where I see a wilderness monk sitting uncollected in the wilderness. The thought occurs to me, ‘Soon this venerable one will center his uncollected mind, or protect his collected mind.’ And so I am pleased with that monk’s wilderness-dwelling.
+“Then there is the case where I see a wilderness bhikkhu sitting uncollected in the wilderness. The thought occurs to me, ‘Soon this venerable one will center his uncollected mind, or protect his collected mind.’ And so I am pleased with that bhikkhu’s wilderness-dwelling.
 
-“Then there is the case where I see a wilderness monk sitting in samādhi in the wilderness. The thought occurs to me, ‘Soon this venerable one will release his unreleased mind, or protect his released mind.’ And so I am pleased with that monk’s wilderness-dwelling.[2](#^[[an6-thanissaro]].42note02) ^[[an6-thanissaro]].42note02-ref
+“Then there is the case where I see a wilderness bhikkhu sitting in samādhi in the wilderness. The thought occurs to me, ‘Soon this venerable one will release his unreleased mind, or protect his released mind.’ And so I am pleased with that bhikkhu’s wilderness-dwelling.[2](#^[[an6-thanissaro]].42note02) ^[[an6-thanissaro]].42note02-ref
 
-“Then there is the case where I see a village-dwelling monk who receives robes, alms food, shelter, & medicinal requisites for curing the sick. Receiving, as he likes, those gains, offerings, & fame, he neglects seclusion, he neglects isolated forest & wilderness dwellings. He makes his living by visiting villages, towns, & cities. And so I am not pleased with that monk’s village-dwelling.
+“Then there is the case where I see a village-dwelling bhikkhu who receives robes, alms food, shelter, & medicinal requisites for curing the sick. Receiving, as he likes, those gains, offerings, & fame, he neglects seclusion, he neglects isolated forest & wilderness dwellings. He makes his living by visiting villages, towns, & cities. And so I am not pleased with that bhikkhu’s village-dwelling.
 
-“Then there is the case where I see a wilderness monk who receives robes, alms food, shelter, & medicinal requisites for curing the sick. Fending off those gains, offerings, & fame, he doesn’t neglect seclusion, doesn’t neglect isolated forest & wilderness dwellings. And so I am pleased with that monk’s wilderness-dwelling.
+“Then there is the case where I see a wilderness bhikkhu who receives robes, alms food, shelter, & medicinal requisites for curing the sick. Fending off those gains, offerings, & fame, he doesn’t neglect seclusion, doesn’t neglect isolated forest & wilderness dwellings. And so I am pleased with that bhikkhu’s wilderness-dwelling.
 
 “But when I am traveling along a road and see no one in front or behind me, at that time I have my ease, even when urinating & defecating.”
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, females die without getting enough of two things. What two? Sexual intercourse and giving birth. Females die without getting enough of these two things.”
+1“bhikkhus, females die without getting enough of two things. What two? Sexual intercourse and giving birth. Females die without getting enough of these two things.”
 
 1"Dvinnaṁ dhammānaṁ, bhikkhave, atitto appaṭivāno mātugāmo kālaṁ karoti. Katamesaṁ dvinnaṁ? Methunasamāpattiyā ca vijāyanassa ca. Imesaṁ kho, bhikkhave, dvinnaṁ dhammānaṁ atitto appaṭivāno mātugāmo kālaṁ karotī"ti.
 

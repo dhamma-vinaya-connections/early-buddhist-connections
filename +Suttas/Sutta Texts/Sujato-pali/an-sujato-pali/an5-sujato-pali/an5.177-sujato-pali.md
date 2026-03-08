@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a lay follower should not engage in these five trades. What five? Trade in weapons, living creatures, meat, intoxicants, and poisons. A lay follower should not engage in these five trades.”
+1“bhikkhus, a lay follower should not engage in these five trades. What five? Trade in weapons, living creatures, meat, intoxicants, and poisons. A lay follower should not engage in these five trades.”
 
 1"Pañcimā, bhikkhave, vaṇijjā upāsakena akaraṇīyā. Katamā pañca? Satthavaṇijjā, sattavaṇijjā, maṁsavaṇijjā, majjavaṇijjā, visavaṇijjā – imā kho, bhikkhave, pañca vaṇijjā upāsakena akaraṇīyā"ti.
 

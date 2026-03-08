@@ -2,7 +2,7 @@
 sutta_code: "AN7.25"
 sutta_title:
   - "Bhikkhu-Aparihaniya "
-  - "Non-Decline For Mendicants"
+  - "Non-Decline For bhikkhus"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---
@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 7: The Book of the Sevens
-### AN 7.25: Tatiyasattakasutta — Non-Decline for Mendicants (3rd)
+### AN 7.25: Tatiyasattakasutta — Non-Decline for bhikkhus (3rd)
 
 1"Satta vo, bhikkhave, aparihāniye dhamme desessāmi. Taṁ suṇātha, sādhukaṁ manasi karotha … pe … katame ca, bhikkhave, satta aparihāniyā dhammā?
 

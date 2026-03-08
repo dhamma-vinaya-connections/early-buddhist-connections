@@ -24,12 +24,12 @@ language: "English - Pali"
 
 2“Like they’re struck by a sword,  
 like their head was on fire,  
-a mendicant should go forth mindfully,  
+a bhikkhu should go forth mindfully,  
 to give up sensual desire.”
 
 3“Like they’re struck by a sword,  
 like their head was on fire,  
-a mendicant should go forth mindfully,  
+a bhikkhu should go forth mindfully,  
 to give up identity view.”
 
 #### Pali

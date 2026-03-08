@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with five qualities is fit to share their life with their spiritual companions. What five?
+1“bhikkhus, a bhikkhu with five qualities is fit to share their life with their spiritual companions. What five?
 
-A mendicant is personally accomplished in ethics, and answers questions posed when discussing accomplishment in ethics.
+A bhikkhu is personally accomplished in ethics, and answers questions posed when discussing accomplishment in ethics.
 
 They’re personally accomplished in immersion, and they answer questions posed when discussing accomplishment in immersion.
 
@@ -32,7 +32,7 @@ They’re personally accomplished in freedom, and they answer questions posed wh
 
 They’re personally accomplished in the knowledge and vision of freedom, and they answer questions posed when discussing accomplishment in the knowledge and vision of freedom.
 
-A mendicant with these five qualities is fit to share their life with their spiritual companions.”
+A bhikkhu with these five qualities is fit to share their life with their spiritual companions.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu alaṁsājīvo sabrahmacārīnaṁ. Katamehi pañcahi?
 

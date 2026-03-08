@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 76
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Aspiring to these three forms of bliss, monks, a wise person should guard his virtue. Which three? [Thinking,] ‘May praise come to me,’ a wise person should guard his virtue. [Thinking,] ‘May wealth come to me,’ a wise person should guard his virtue. [Thinking,] ‘At the break-up of the body, after death, may I reappear in a good destination, a heavenly world,’ a wise person should guard his virtue. Aspiring to these three forms of bliss, a wise person should guard his virtue.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Aspiring to these three forms of bliss, bhikkhus, a wise person should guard his virtue. Which three? [Thinking,] ‘May praise come to me,’ a wise person should guard his virtue. [Thinking,] ‘May wealth come to me,’ a wise person should guard his virtue. [Thinking,] ‘At the break-up of the body, after death, may I reappear in a good destination, a heavenly world,’ a wise person should guard his virtue. Aspiring to these three forms of bliss, a wise person should guard his virtue.”
 
 Intelligent,
 

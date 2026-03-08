@@ -17,7 +17,7 @@ language: "English"
 
 153 (41). Five Turns
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
-2. It was then that the Bhagavān addressed the monks, “There are five acquired aggregates: the acquired aggregate of form … feeling … conception … volition … the acquired aggregate of awareness. I truly know these five acquired aggregates in five ways: I truly know form … form’s formation … form’s enjoyment … form’s trouble … truly know form’s escape. Thus, I truly know feeling … conception … volition … awareness … awareness’ formation … awareness’ enjoyment … awareness’ trouble … truly know awareness’ escape.
+2. It was then that the Bhagavān addressed the bhikkhus, “There are five acquired aggregates: the acquired aggregate of form … feeling … conception … volition … the acquired aggregate of awareness. I truly know these five acquired aggregates in five ways: I truly know form … form’s formation … form’s enjoyment … form’s trouble … truly know form’s escape. Thus, I truly know feeling … conception … volition … awareness … awareness’ formation … awareness’ enjoyment … awareness’ trouble … truly know awareness’ escape.
 Form
 3. “How is form truly known? All the forms that exist are all four basic elements and forms made of the four basic elements are called form. Form is thus truly known.
 4. “How is form’s formation truly known? Delight and craving for form are called form’s formation. Form’s formation is thus truly known.
@@ -48,9 +48,9 @@ Awareness
 25. “How is awareness’ enjoyment truly known? Delight and pleasure that arise dependent on awareness are called awareness’ enjoyment. Awareness’ enjoyment is thus truly known.
 26. “How is awareness’ trouble truly known? When awareness is impermanent, painful, and liable to change, this is called awareness’ trouble. Awareness’ trouble is thus truly known.
 27. “How is awareness’ escape truly known? When desire for awareness is controlled, stopped, and transcended, this is called awareness’ escape. Awareness’ escape is thus truly known.
-28. “Monks, if an ascetic or priest knows and sees form in this way and thus knows and sees the way to part with desire, this is called the correct heading. If someone is correctly headed, I say that they have entered. _Feeling, conception, volition, and awareness are likewise._
+28. “bhikkhus, if an ascetic or priest knows and sees form in this way and thus knows and sees the way to part with desire, this is called the correct heading. If someone is correctly headed, I say that they have entered. _Feeling, conception, volition, and awareness are likewise._
 29. “If an ascetic or priest truly knows and sees form, then disillusionment with form arises. Parting with desire for it, they don’t produce the contaminants, and the mind becomes liberated. If someone’s mind becomes liberated, then it becomes consistent. It being consistent, the religious life is established. Someone established in the religious life is free of another’s control. This is called the end of suffering. _Feeling, conception, volition, and awareness is likewise._”<a id="fnref2"></a>[^2]
-30. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+30. After the Buddha spoke this _sūtra_, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

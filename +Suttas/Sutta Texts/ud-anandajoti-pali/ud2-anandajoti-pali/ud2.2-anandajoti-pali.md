@@ -18,23 +18,23 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time, amongst many monks, after returning from the alms-round after the meal, assembling together, and sitting in the attendance hall, this conversation arose:
+1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time, amongst many bhikkhus, after returning from the alms-round after the meal, assembling together, and sitting in the attendance hall, this conversation arose:
 
 "Now, venerable friends, which of these two kings has the greater wealth, the greater riches, the greater treasury, the greater realm, the greater vehicles, the greater strength, the greater power, the greater majesty — the Magadhan King Seniya Bimbisāra, or the Kosalan King Pasenadi?"
 
-Now this conversation amongst those monks was left unfinished.
+Now this conversation amongst those bhikkhus was left unfinished.
 
 ---
 
-2Then the Gracious One, having risen from seclusion in the evening time, went to the assembly hall, and after going, he sat down on the prepared seat. Having sat down the Gracious One addressed the monks, saying:
+2Then the Gracious One, having risen from seclusion in the evening time, went to the assembly hall, and after going, he sat down on the prepared seat. Having sat down the Gracious One addressed the bhikkhus, saying:
 
-"What is the talk about, monks, amongst those who have assembled together and are sitting here at present, and what is the conversation that you left unfinished?"
+"What is the talk about, bhikkhus, amongst those who have assembled together and are sitting here at present, and what is the conversation that you left unfinished?"
 
 3"Here, reverend Sir, after returning from the alms-round after the meal, assembling together, and sitting in the attendance hall, this conversation arose:
 
 "Now, venerable friends, which of these two kings has the greater wealth, the greater riches, the greater treasury, the greater realm, the greater vehicles, the greater strength, the greater power, the greater majesty — the Magadhan King Seniya Bimbisāra, or the Kosalan King Pasenadi?" This is the conversation, reverend Sir, that we left unfinished, then the Gracious One arrived."
 
-4"This is certainly not suitable, monks, for you sons of good family who through faith have gone forth from the home to homelessness, that you should talk such talk. When you have assembled together, monks, there are two things that you ought to do: talk about the Dhamma, or maintain noble silence."
+4"This is certainly not suitable, bhikkhus, for you sons of good family who through faith have gone forth from the home to homelessness, that you should talk such talk. When you have assembled together, bhikkhus, there are two things that you ought to do: talk about the Dhamma, or maintain noble silence."
 
 5Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

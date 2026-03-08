@@ -24,12 +24,12 @@ Another nun, too, went to that family while walking for almsfood along that stre
 
 2And she told them what had happened. People complained and criticized her: “How can a nun keep a family for herself?” …
 
-“Is it true, monks, that a nun acted like this?”
+“Is it true, bhikkhus, that a nun acted like this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How could a nun act like this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How could a nun act like this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

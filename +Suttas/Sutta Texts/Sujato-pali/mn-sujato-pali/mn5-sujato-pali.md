@@ -16,12 +16,12 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There Sāriputta addressed the mendicants: “Reverends, mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There Sāriputta addressed the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Sāriputta said this:
 
 
-2“Mendicants, these four people are found in the world. What four? One person with a blemish doesn’t truly understand: ‘There is a blemish in me.’ But another person with a blemish does truly understand: ‘There is a blemish in me.’
+2“bhikkhus, these four people are found in the world. What four? One person with a blemish doesn’t truly understand: ‘There is a blemish in me.’ But another person with a blemish does truly understand: ‘There is a blemish in me.’
 
 One person without a blemish doesn’t truly understand: ‘There is no blemish in me.’ But another person without a blemish does truly understand: ‘There is no blemish in me.’
 
@@ -67,55 +67,55 @@ In this case, of the two persons with a blemish, the one who doesn’t understan
 
 “Reverend, ‘blemish’ is a term for the spheres of bad, unskillful wishes.
 
-11It’s possible that some mendicant might wish: ‘If I commit an offense, I hope the mendicants don’t find out!’ But it’s possible that the mendicants do find out that that mendicant has committed an offense. Thinking, ‘The mendicants have found out about my offense,’ they get angry and bitter. And that anger and that bitterness are both blemishes.
+11It’s possible that some bhikkhu might wish: ‘If I commit an offense, I hope the bhikkhus don’t find out!’ But it’s possible that the bhikkhus do find out that that bhikkhu has committed an offense. Thinking, ‘The bhikkhus have found out about my offense,’ they get angry and bitter. And that anger and that bitterness are both blemishes.
 
-12It’s possible that some mendicant might wish: ‘If I commit an offense, I hope the mendicants accuse me in private, not in the middle of the Saṅgha.’ But it’s possible that the mendicants do accuse that mendicant in the middle of the Saṅgha …
+12It’s possible that some bhikkhu might wish: ‘If I commit an offense, I hope the bhikkhus accuse me in private, not in the middle of the Saṅgha.’ But it’s possible that the bhikkhus do accuse that bhikkhu in the middle of the Saṅgha …
 
-13It’s possible that some mendicant might wish: ‘If I commit an offense, I hope I’m accused by an equal, not by someone who is not an equal.’ But it’s possible that someone who is not an equal accuses that mendicant …
-
-
-14It’s possible that some mendicant might wish: ‘Oh, I hope the Teacher will teach the mendicants by repeatedly questioning me alone, not some other mendicant.’ But it’s possible that the Teacher will teach the mendicants by repeatedly questioning some other mendicant …
+13It’s possible that some bhikkhu might wish: ‘If I commit an offense, I hope I’m accused by an equal, not by someone who is not an equal.’ But it’s possible that someone who is not an equal accuses that bhikkhu …
 
 
-15It’s possible that some mendicant might wish: ‘Oh, I hope the mendicants will enter the village for the meal putting me at the very front, not some other mendicant.’ But it’s possible that the mendicants will enter the village for the meal putting some other mendicant at the very front …
+14It’s possible that some bhikkhu might wish: ‘Oh, I hope the Teacher will teach the bhikkhus by repeatedly questioning me alone, not some other bhikkhu.’ But it’s possible that the Teacher will teach the bhikkhus by repeatedly questioning some other bhikkhu …
 
 
-16It’s possible that some mendicant might wish: ‘Oh, I hope that I alone get the best seat, the best drink, and the best alms-food in the refectory, not some other mendicant.’ But it’s possible that some other mendicant gets the best seat, the best drink, and the best alms-food in the refectory …
+15It’s possible that some bhikkhu might wish: ‘Oh, I hope the bhikkhus will enter the village for the meal putting me at the very front, not some other bhikkhu.’ But it’s possible that the bhikkhus will enter the village for the meal putting some other bhikkhu at the very front …
 
 
-17It’s possible that some mendicant might wish: ‘I hope that I alone give the verses of gratitude after eating in the refectory, not some other mendicant.’ But it’s possible that some other mendicant gives the verses of gratitude after eating in the refectory …
+16It’s possible that some bhikkhu might wish: ‘Oh, I hope that I alone get the best seat, the best drink, and the best alms-food in the refectory, not some other bhikkhu.’ But it’s possible that some other bhikkhu gets the best seat, the best drink, and the best alms-food in the refectory …
 
 
-19It’s possible that some mendicant might wish: ‘Oh, I hope that I might teach the Dhamma to the monks, nuns, laymen, and laywomen in the monastery, not some other mendicant.’
-
-But it’s possible that some other mendicant teaches the Dhamma …
+17It’s possible that some bhikkhu might wish: ‘I hope that I alone give the verses of gratitude after eating in the refectory, not some other bhikkhu.’ But it’s possible that some other bhikkhu gives the verses of gratitude after eating in the refectory …
 
 
-20It’s possible that some mendicant might wish: ‘Oh, I hope that the monks, nuns, laymen, and laywomen will honor, respect, revere, and venerate me alone, not some other mendicant.’
+19It’s possible that some bhikkhu might wish: ‘Oh, I hope that I might teach the Dhamma to the bhikkhus, nuns, laymen, and laywomen in the monastery, not some other bhikkhu.’
 
-21But it’s possible that some other mendicant is honored, respected, revered, and venerated …
+But it’s possible that some other bhikkhu teaches the Dhamma …
 
 
-22It’s possible that some mendicant might wish: ‘I hope I get the nicest robes, alms-food, lodgings, and medicines and supplies for the sick, not some other mendicant.’ But it’s possible that some other mendicant gets the nicest robes, alms-food, lodgings, and medicines and supplies for the sick …
+20It’s possible that some bhikkhu might wish: ‘Oh, I hope that the bhikkhus, nuns, laymen, and laywomen will honor, respect, revere, and venerate me alone, not some other bhikkhu.’
 
-23Thinking, ‘Some other mendicant has got the nicest robes, alms-food, lodgings, and medicines and supplies for the sick’, they get angry and bitter. And that anger and that bitterness are both blemishes.
+21But it’s possible that some other bhikkhu is honored, respected, revered, and venerated …
+
+
+22It’s possible that some bhikkhu might wish: ‘I hope I get the nicest robes, alms-food, lodgings, and medicines and supplies for the sick, not some other bhikkhu.’ But it’s possible that some other bhikkhu gets the nicest robes, alms-food, lodgings, and medicines and supplies for the sick …
+
+23Thinking, ‘Some other bhikkhu has got the nicest robes, alms-food, lodgings, and medicines and supplies for the sick’, they get angry and bitter. And that anger and that bitterness are both blemishes.
 
 
 24‘Blemish’ is a term for these spheres of bad, unskillful wishes.
 
 
-25Suppose these spheres of bad, unskillful wishes are seen and heard to be not given up by a mendicant. Even though they dwell in the wilderness, in remote lodgings, eat only alms-food, wander indiscriminately for alms-food, wear rag robes, and wear shabby robes, their spiritual companions don’t honor, respect, revere, and venerate them. Why is that? It’s because these spheres of bad, unskillful wishes are seen and heard to be not given up by that venerable.
+25Suppose these spheres of bad, unskillful wishes are seen and heard to be not given up by a bhikkhu. Even though they dwell in the wilderness, in remote lodgings, eat only alms-food, wander indiscriminately for alms-food, wear rag robes, and wear shabby robes, their spiritual companions don’t honor, respect, revere, and venerate them. Why is that? It’s because these spheres of bad, unskillful wishes are seen and heard to be not given up by that venerable.
 
 Suppose a bronze dish was brought from a shop or smithy clean and bright. Then the owners were to prepare it with the carcass of a snake, a dog, or a human, cover it with a bronze lid, and parade it through the market-place. When people saw it they’d say: ‘My good man, what is it that you’re carrying like a precious treasure?’ So they’d open up the lid for people to look inside. But as soon as they saw it they were filled with loathing, revulsion, and disgust. Not even those who were hungry wanted to eat it, let alone those who had eaten.
 
-In the same way, when these spheres of bad, unskillful wishes are seen and heard to be not given up by a mendicant … their spiritual companions don’t honor, respect, revere, and venerate them. Why is that? It’s because these spheres of bad, unskillful wishes are seen and heard to be not given up by that venerable.
+In the same way, when these spheres of bad, unskillful wishes are seen and heard to be not given up by a bhikkhu … their spiritual companions don’t honor, respect, revere, and venerate them. Why is that? It’s because these spheres of bad, unskillful wishes are seen and heard to be not given up by that venerable.
 
 
-26Suppose these spheres of bad, unskillful wishes are seen and heard to be given up by a mendicant. Even though they dwell in the neighborhood of a village, accept invitations to a meal, and wear robes offered by householders, their spiritual companions honor, respect, revere, and venerate them. Why is that? It’s because these spheres of bad, unskillful wishes are seen and heard to be given up by that venerable.
+26Suppose these spheres of bad, unskillful wishes are seen and heard to be given up by a bhikkhu. Even though they dwell in the neighborhood of a village, accept invitations to a meal, and wear robes offered by householders, their spiritual companions honor, respect, revere, and venerate them. Why is that? It’s because these spheres of bad, unskillful wishes are seen and heard to be given up by that venerable.
 
 Suppose a bronze dish was brought from a shop or smithy clean and bright. Then the owners were to prepare it with boiled fine rice with the dark grains picked out and served with many soups and sauces, cover it with a bronze lid, and parade it through the market-place. When people saw it they’d say: ‘My good man, what is it that you’re carrying like a precious treasure?’ So they’d open up the lid for people to look inside. And as soon as they saw it they were filled with liking, attraction, and relish. Even those who had eaten wanted to eat it, let alone those who were hungry.
 
-In the same way, when these spheres of bad, unskillful wishes are seen and heard to be given up by a mendicant … their spiritual companions honor, respect, revere, and venerate them. Why is that? It’s because these spheres of bad, unskillful wishes are seen and heard to be given up by that venerable.”
+In the same way, when these spheres of bad, unskillful wishes are seen and heard to be given up by a bhikkhu … their spiritual companions honor, respect, revere, and venerate them. Why is that? It’s because these spheres of bad, unskillful wishes are seen and heard to be given up by that venerable.”
 
 
 27When he said this, Venerable Mahāmoggallāna said to him: “Reverend Sāriputta, a simile springs to mind.”

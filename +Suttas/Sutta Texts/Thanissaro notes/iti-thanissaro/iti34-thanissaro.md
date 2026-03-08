@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 34
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Monks, a person without ardency, without compunction, is incapable of self-awakening, incapable of Unbinding, incapable of attaining the unsurpassed safety from bondage. A person ardent & compunctious is capable of self-awakening, capable of Unbinding, capable of attaining the unsurpassed safety from bondage.”
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “bhikkhus, a person without ardency, without compunction, is incapable of self-awakening, incapable of Unbinding, incapable of attaining the unsurpassed safety from bondage. A person ardent & compunctious is capable of self-awakening, capable of Unbinding, capable of attaining the unsurpassed safety from bondage.”
 
 With no ardency, no
 
@@ -26,7 +26,7 @@ shameless, without respect:
 
 he’s incapable,
 
-a monk like this,
+a bhikkhu like this,
 
 of touching superlative
 

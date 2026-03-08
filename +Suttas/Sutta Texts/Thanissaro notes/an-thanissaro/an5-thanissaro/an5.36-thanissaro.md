@@ -15,7 +15,7 @@ language: "English"
 ## ## Kāladāna Sutta
 
 
-_The verse from this discourse is often chanted by monks as a blessing at meals or other offerings._
+_The verse from this discourse is often chanted by bhikkhus as a blessing at meals or other offerings._
 
 * * *
 

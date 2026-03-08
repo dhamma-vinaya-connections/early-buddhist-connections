@@ -21,9 +21,9 @@ language: "English"
 
 “These are the three urgent duties of a farming householder. Now, that farming householder does not have the power or might (to say:) ‘May my crops spring up today, may the grains appear tomorrow, and may they ripen the next day.’ But when the time has come, the farming householder’s crops spring up, the grains appear, and they ripen.
 
-“In the same way, there are these three urgent duties of a monk. Which three? The undertaking of the training in heightened virtue, the undertaking of the training in heightened mind, the undertaking of the training in heightened discernment. These are the three urgent duties of a monk. Now, that monk does not have the power or might (to say:) ‘May my mind be released from effluents through lack of clinging/sustenance today or tomorrow or the next day.’ But when the time has come, his mind is released from effluents through lack of clinging/sustenance.
+“In the same way, there are these three urgent duties of a bhikkhu. Which three? The undertaking of the training in heightened virtue, the undertaking of the training in heightened mind, the undertaking of the training in heightened discernment. These are the three urgent duties of a bhikkhu. Now, that bhikkhu does not have the power or might (to say:) ‘May my mind be released from effluents through lack of clinging/sustenance today or tomorrow or the next day.’ But when the time has come, his mind is released from effluents through lack of clinging/sustenance.
 
-“Thus, monks, you should train yourselves: ‘Strong will be our desire for the undertaking of the training in heightened virtue. Strong will be our desire for the undertaking of the training in heightened mind. Strong will be our desire for the undertaking of the training in heightened discernment.’ That’s how you should train yourselves.”
+“Thus, bhikkhus, you should train yourselves: ‘Strong will be our desire for the undertaking of the training in heightened virtue. Strong will be our desire for the undertaking of the training in heightened mind. Strong will be our desire for the undertaking of the training in heightened discernment.’ That’s how you should train yourselves.”
 
 See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]
 

@@ -135,7 +135,7 @@ that conviction, looks to the substance of his life and thinks, “I should not
 remain a householder. If I continue in domestic life, I will always have
 to deny my convictions and will never take up the practice of pure and
 genuine austerity—no, I would rather shave my head, moustache, and
-beard, put on the three robes of a mendicant, and leave the householder’s
+beard, put on the three robes of a bhikkhu, and leave the householder’s
 life to follow the discipline of the path. I will strive to attain all the mer-
 itorious virtues, even up to realizing the three supernormal powers, so
 that the state of darkness and ignorance can be annihilated to produce the

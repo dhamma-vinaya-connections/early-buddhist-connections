@@ -16,12 +16,12 @@ language: "English - Pali"
 
 ## Sujato 
 
-1So I have heard. At one time the Buddha was staying near Ukkaṭṭhā, in the Subhaga Forest at the root of a magnificent sal tree. There the Buddha addressed the mendicants, “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Ukkaṭṭhā, in the Subhaga Forest at the root of a magnificent sal tree. There the Buddha addressed the bhikkhus, “bhikkhus!”
 
 
 “Venerable sir,” they replied. The Buddha said this:
 
-“Mendicants, I will teach you the explanation of the root of all things. Listen and apply your minds well, I will speak.”
+“bhikkhus, I will teach you the explanation of the root of all things. Listen and apply your minds well, I will speak.”
 
 “Yes, sir,” they replied. The Buddha said this:
 
@@ -80,31 +80,31 @@ language: "English - Pali"
 
 
 
-26A mendicant who is a trainee, who hasn’t achieved their heart’s desire, but lives aspiring to the supreme sanctuary from the yoke, directly knows earth as earth. Having directly known earth as earth, let them not conceive it to be earth, let them not conceive it in earth, let them not conceive it as earth, let them not conceive that ‘earth is mine’, let them not take pleasure in earth. Why is that? So that they may completely understand it, I say.
+26A bhikkhu who is a trainee, who hasn’t achieved their heart’s desire, but lives aspiring to the supreme sanctuary from the yoke, directly knows earth as earth. Having directly known earth as earth, let them not conceive it to be earth, let them not conceive it in earth, let them not conceive it as earth, let them not conceive that ‘earth is mine’, let them not take pleasure in earth. Why is that? So that they may completely understand it, I say.
 
 27They directly know water … fire … air … creatures … gods … the Progenitor … Brahmā … those of streaming radiance … those replete with glory … those of abundant fruit … the Vanquisher … the dimension of infinite space … the dimension of infinite consciousness … the dimension of nothingness … the dimension of neither perception nor non-perception … the seen … the heard … the thought … the known … oneness … diversity … all … They directly know extinguishment as extinguishment. Having directly known extinguishment as extinguishment, let them not conceive it to be extinguishment, let them not conceive it in extinguishment, let them not conceive it as extinguishment, let them not conceive that ‘extinguishment is mine’, let them not take pleasure in extinguishment. Why is that? So that they may completely understand it, I say.
 
 
 
-28A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that ‘earth is mine’, they do not take pleasure in earth. Why is that? Because they have completely understood it, I say.
+28A bhikkhu who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that ‘earth is mine’, they do not take pleasure in earth. Why is that? Because they have completely understood it, I say.
 
 29They directly know water … fire … air … creatures … gods … the Progenitor … Brahmā … those of streaming radiance … those replete with glory … those of abundant fruit … the Vanquisher … the dimension of infinite space … the dimension of infinite consciousness … the dimension of nothingness … the dimension of neither perception nor non-perception … the seen … the heard … the thought … the known … oneness … diversity … all … They directly know extinguishment as extinguishment. Having directly known extinguishment as extinguishment, they do not conceive it to be extinguishment, they do not conceive it in extinguishment, they do not conceive it as extinguishment, they do not conceive that ‘extinguishment is mine’, they do not take pleasure in extinguishment. Why is that? Because they have completely understood it, I say.
 
 
 
-30A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that ‘earth is mine’, they do not take pleasure in earth. Why is that? Because they’re free of greed due to the ending of greed.
+30A bhikkhu who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that ‘earth is mine’, they do not take pleasure in earth. Why is that? Because they’re free of greed due to the ending of greed.
 
 31They directly know water … fire … air … creatures … gods … the Progenitor … Brahmā … those of streaming radiance … those replete with glory … those of abundant fruit … the Vanquisher … the dimension of infinite space … the dimension of infinite consciousness … the dimension of nothingness … the dimension of neither perception nor non-perception … the seen … the heard … the thought … the known … oneness … diversity … all … They directly know extinguishment as extinguishment. Having directly known extinguishment as extinguishment, they do not conceive it to be extinguishment, they do not conceive it in extinguishment, they do not conceive it as extinguishment, they do not conceive that ‘extinguishment is mine’, they do not take pleasure in extinguishment. Why is that? Because they’re free of greed due to the ending of greed.
 
 
 
-32A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that ‘earth is mine’, they do not take pleasure in earth. Why is that? Because they’re free of hate due to the ending of hate.
+32A bhikkhu who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that ‘earth is mine’, they do not take pleasure in earth. Why is that? Because they’re free of hate due to the ending of hate.
 
 33They directly know water … fire … air … creatures … gods … the Progenitor … Brahmā … those of streaming radiance … those replete with glory … those of abundant fruit … the Vanquisher … the dimension of infinite space … the dimension of infinite consciousness … the dimension of nothingness … the dimension of neither perception nor non-perception … the seen … the heard … the thought … the known … oneness … diversity … all … They directly know extinguishment as extinguishment. Having directly known extinguishment as extinguishment, they do not conceive it to be extinguishment, they do not conceive it in extinguishment, they do not conceive it as extinguishment, they do not conceive that ‘extinguishment is mine’, they do not take pleasure in extinguishment. Why is that? Because they’re free of hate due to the ending of hate.
 
 
 
-34A mendicant who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that ‘earth is mine’, they do not take pleasure in earth. Why is that? Because they’re free of delusion due to the ending of delusion.
+34A bhikkhu who is perfected—with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment—directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that ‘earth is mine’, they do not take pleasure in earth. Why is that? Because they’re free of delusion due to the ending of delusion.
 
 35They directly know water … fire … air … creatures … gods … the Progenitor … Brahmā … those of streaming radiance … those replete with glory … those of abundant fruit … the Vanquisher … the dimension of infinite space … the dimension of infinite consciousness … the dimension of nothingness … the dimension of neither perception nor non-perception … the seen … the heard … the thought … the known … oneness … diversity … all … They directly know extinguishment as extinguishment. Having directly known extinguishment as extinguishment, they do not conceive it to be extinguishment, they do not conceive it in extinguishment, they do not conceive it as extinguishment, they do not conceive that ‘extinguishment is mine’, they do not take pleasure in extinguishment. Why is that? Because they’re free of delusion due to the ending of delusion.
 
@@ -122,7 +122,7 @@ language: "English - Pali"
 
 
 
-40That is what the Buddha said. But the mendicants took no pleasure in what the Buddha said.
+40That is what the Buddha said. But the bhikkhus took no pleasure in what the Buddha said.
 
 ## Pali
 #### Pali

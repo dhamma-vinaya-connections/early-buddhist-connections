@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are certain topics that are inappropriate to talk about, taking into consideration which specific one of five people you are talking to. What five?
+1“bhikkhus, there are certain topics that are inappropriate to talk about, taking into consideration which specific one of five people you are talking to. What five?
 
 It’s inappropriate to talk to an unfaithful person about faith. It’s inappropriate to talk to an unethical person about ethics. It’s inappropriate to talk to an unlearned person about learning. It’s inappropriate to talk to a stingy person about generosity. It’s inappropriate to talk to a witless person about wisdom.
 

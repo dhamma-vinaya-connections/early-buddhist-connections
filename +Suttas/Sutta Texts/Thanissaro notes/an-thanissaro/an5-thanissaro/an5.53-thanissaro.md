@@ -17,7 +17,7 @@ language: "English"
 
 “These are the five factors for exertion. Which five?
 
-“There is the case where a monk has conviction, is convinced of the Tathāgata’s awakening: ‘Indeed, the Blessed One is worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed.’
+“There is the case where a bhikkhu has conviction, is convinced of the Tathāgata’s awakening: ‘Indeed, the Blessed One is worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed.’
 
 “He is free from illness & discomfort, endowed with good digestion—not too cold, not too hot, of moderate strength—fit for exertion.
 

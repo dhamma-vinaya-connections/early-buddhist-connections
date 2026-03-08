@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, tonight a deity … said to me: ‘Sir, these seven things don’t lead to the decline of a mendicant trainee. What seven? Respect for the Teacher, for the teaching, for the Saṅgha, for the training, for immersion; being easy to admonish, and good friendship. These seven things don’t lead to the decline of a mendicant trainee.’
+1“bhikkhus, tonight a deity … said to me: ‘Sir, these seven things don’t lead to the decline of a bhikkhu trainee. What seven? Respect for the Teacher, for the teaching, for the Saṅgha, for the training, for immersion; being easy to admonish, and good friendship. These seven things don’t lead to the decline of a bhikkhu trainee.’
 
 That is what that deity said. Then he bowed and respectfully circled me, keeping me on his right side, before vanishing right there.”
 
@@ -29,7 +29,7 @@ That is what that deity said. Then he bowed and respectfully circled me, keeping
 
 “Sir, this is how I understand the detailed meaning of the Buddha’s brief statement.
 
-It’s when a mendicant personally respects the Teacher and praises such respect. And they encourage other mendicants who lack such respect to respect the Teacher. And they praise other mendicants who respect the Teacher at the right time, truthfully and substantively.
+It’s when a bhikkhu personally respects the Teacher and praises such respect. And they encourage other bhikkhus who lack such respect to respect the Teacher. And they praise other bhikkhus who respect the Teacher at the right time, truthfully and substantively.
 
 They personally respect the teaching …
 
@@ -41,14 +41,14 @@ They personally respect immersion …
 
 They are personally easy to admonish …
 
-They personally have good friends, and praise such friendship. And they encourage other mendicants who lack good friends to develop good friendship. And they praise other mendicants who have good friends at the right time, truthfully and substantively.
+They personally have good friends, and praise such friendship. And they encourage other bhikkhus who lack good friends to develop good friendship. And they praise other bhikkhus who have good friends at the right time, truthfully and substantively.
 
 That’s how I understand the detailed meaning of the Buddha’s brief statement.”
 
 
 3“Good, good, Sāriputta! It’s good that you understand the detailed meaning of what I’ve said in brief like this.
 
-It’s when a mendicant personally respects the Teacher … And they encourage other mendicants who lack such respect to respect the Teacher. And they praise other mendicants who respect the Teacher at the right time, truthfully and substantively.
+It’s when a bhikkhu personally respects the Teacher … And they encourage other bhikkhus who lack such respect to respect the Teacher. And they praise other bhikkhus who respect the Teacher at the right time, truthfully and substantively.
 
 They personally respect the teaching …
 
@@ -60,7 +60,7 @@ They personally respect immersion …
 
 They are personally easy to admonish …
 
-They personally have good friends, and praise such friendship. And they encourage other mendicants who lack good friends to develop good friendship. And they praise other mendicants who have good friends at the right time, truthfully and substantively.
+They personally have good friends, and praise such friendship. And they encourage other bhikkhus who lack good friends to develop good friendship. And they praise other bhikkhus who have good friends at the right time, truthfully and substantively.
 
 This is how to understand the detailed meaning of what I said in brief.”
 

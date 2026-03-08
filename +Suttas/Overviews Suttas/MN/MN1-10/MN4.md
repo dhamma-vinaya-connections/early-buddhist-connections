@@ -52,7 +52,7 @@ parallels_partilal: "[[EA31.1]], [[MN100]], [[MN26]], [[MN36]], [[MN85]], [[MN20
 The Buddha  explains the difficulties of living in the wilderness, and how they are overcome by purity of conduct and meditation. He recounts some of the fears and obstacles he faced during his own practice
 
 > [!info] Key Excerpts 
-> Remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion and hard to find joy in it. Staying Alone, the forests seem to rob the mind of a mendicant who isn’t immersed in samādhi. I get rid of that fear and dread just as it comes, while remaining just as I am
+> Remote lodgings in the wilderness and the forest are challenging. It’s hard to maintain seclusion and hard to find joy in it. Staying Alone, the forests seem to rob the mind of a bhikkhu who isn’t immersed in samādhi. I get rid of that fear and dread just as it comes, while remaining just as I am
 My energy was roused up and unflagging, my mindfulness was established and lucid, my body was tranquil and undisturbed, and my mind was immersed in samādhi 4 jhanas  and 3 knowledge
 > 
 > Those ascetics and brahmins summon unskillful fear and dread because of these defects in their conduct and livelihood; full of desire for sensual pleasures, with acute lust; full of ill will, with hateful intention; overcome with dullness and drowsines;  are restless, with no peace of mind; doubting and uncertain; who glorify themselves and put others down; are cowardly and craven; enjoy possessions, honor, and popularity; lazy and lack energy; in their mindfulness & unalert; lack immersion, with straying mind and are witless and stupid

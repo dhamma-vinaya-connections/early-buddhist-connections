@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:[1](#^ma11note01) One time, the Buddha traveled to the country of Śrāvastī and stayed at Anāthapiṇḍada’s Park in Jeta’s Grove. ^ma11note01-ref
 
-2. It was then that the Bhagavān addressed the monks, “According to the deeds that they perform, a person receives their rewards. Thus, not practicing the religious life, they don’t attain the end of suffering. Suppose someone says, ‘According to the deeds that they perform, a person receives their rewards.’ Thus, cultivating the religious life, they attain the end of suffering.
+2. It was then that the Bhagavān addressed the bhikkhus, “According to the deeds that they perform, a person receives their rewards. Thus, not practicing the religious life, they don’t attain the end of suffering. Suppose someone says, ‘According to the deeds that they perform, a person receives their rewards.’ Thus, cultivating the religious life, they attain the end of suffering.
 
 #### The Parable of the Salt Rocks
 
@@ -27,7 +27,7 @@ language: "English"
 
 4. “It’s like a person who tosses a couple salt rocks into a little water wanting to make the water too salty to drink. What do you think? Can those salt rocks make the water too salty to drink?”
 
-5. The monks answered, “Yes, Bhagavān. Why is that? Those salt rocks are larger, and the water is smaller, so they can make the water too salty to drink.”
+5. The bhikkhus answered, “Yes, Bhagavān. Why is that? Those salt rocks are larger, and the water is smaller, so they can make the water too salty to drink.”
 
 6. “So it is with someone who performs a deed that’s not good and will surely receive a painful result, the reward of hell. How does a person perform a deed that’s not good and will surely receive a painful result, the reward of hell? It means that this person hasn’t cultivated themselves. They haven’t cultivated the precepts, haven’t cultivated their mind, and haven’t cultivated wisdom. Their life span will be very short. This is called a person who performs a deed that’s not good and will surely receive a painful result, the reward of hell.
 
@@ -35,7 +35,7 @@ language: "English"
 
 8. “It’s like a person who tosses a couple salt rocks into the Gaṅgā River wanting to make the water too salty to drink. What do you think? Can those salt rocks make the Gaṅgā River too salty to drink?”
 
-9. The monks answered, “No, Bhagavān. Why is that? The Gaṅgā River is larger, and a couple salt rocks are smaller, so they cannot make it too salty to drink.”
+9. The bhikkhus answered, “No, Bhagavān. Why is that? The Gaṅgā River is larger, and a couple salt rocks are smaller, so they cannot make it too salty to drink.”
 
 10. “Thus is someone who performs a deed that’s not good and will surely receive a painful result, a reward in the present life. How does a person perform a deed that’s not good and will surely receive a painful result, a reward in the present life? It means that this person has cultivated themselves. They have cultivated the precepts, cultivated their mind, and cultivated wisdom. Their life span will be very long. This is called a person who performs a deed that’s not good and will surely receive a painful result, a reward in the present life.
 
@@ -67,7 +67,7 @@ language: "English"
 
 22. “Thus is someone who performs a deed that’s not good and will surely receive a painful result, a reward in the present life. How does a person perform a deed that’s not good and will surely receive a painful result, a reward in the present life? It means that this person has cultivated themselves. They have cultivated the precepts, cultivated their mind, and cultivated wisdom. Their life span will be very long. This is called a person who performs a deed that’s not good and will surely receive a painful result, a reward in the present life. In the present life, if he receives the rewards of good and bad deeds, they will be slight.”
 
-23. This is what the Buddha said. Those monks who heard what the Buddha taught rejoiced and approved.
+23. This is what the Buddha said. Those bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

@@ -82,7 +82,7 @@ is unmoving,
 
 firmly established,
 
-so a monk,
+so a bhikkhu,
 
 with the ending of delusion,
 

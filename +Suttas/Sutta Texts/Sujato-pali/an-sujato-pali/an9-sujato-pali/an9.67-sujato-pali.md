@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are five lower fetters. What five? Identity view, doubt, misapprehension of precepts and observances, sensual desire, and ill will. These are the five lower fetters.
+1“bhikkhus, there are five lower fetters. What five? Identity view, doubt, misapprehension of precepts and observances, sensual desire, and ill will. These are the five lower fetters.
 
 2To give up these five lower fetters you should develop the four kinds of mindfulness meditation. …”
 

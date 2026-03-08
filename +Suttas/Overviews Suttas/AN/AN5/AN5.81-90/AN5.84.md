@@ -44,7 +44,7 @@ parallels_partilal: ""
 ## 🌐 Overview
 
 > [!info] Summary
-> Senior mendicants who are manipulative and opportunistic are disliked
+> Senior bhikkhus who are manipulative and opportunistic are disliked
 
 > [!info] Key Excerpts 
 > They use deceit, flattery, hinting, and belittling, and they use material possessions to pursue other material possessions

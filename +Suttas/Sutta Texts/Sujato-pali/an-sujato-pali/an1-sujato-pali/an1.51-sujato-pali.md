@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“This mind, mendicants, is radiant. But it is corrupted by passing corruptions. An uneducated ordinary person does not truly understand this. So I say that the uneducated ordinary person has no development of the mind.”
+1“This mind, bhikkhus, is radiant. But it is corrupted by passing corruptions. An uneducated ordinary person does not truly understand this. So I say that the uneducated ordinary person has no development of the mind.”
 
 1"Pabhassaramidaṁ, bhikkhave, cittaṁ. Tañca kho āgantukehi upakkilesehi upakkiliṭṭhaṁ. Taṁ assutavā puthujjano yathābhūtaṁ nappajānāti. Tasmā ‘assutavato puthujjanassa cittabhāvanā natthī’ti vadāmī"ti.
 

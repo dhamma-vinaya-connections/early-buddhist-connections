@@ -18,35 +18,35 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time Venerable Upananda the Sakyan had assigned the ownership of a robe to a monk who was his brother’s student. He then used that robe without that monk having relinquished it. That monk told the monks:
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time Venerable Upananda the Sakyan had assigned the ownership of a robe to a bhikkhu who was his brother’s student. He then used that robe without that bhikkhu having relinquished it. That bhikkhu told the bhikkhus:
 
 “Venerable Upananada is using a robe that he has assigned to me, even though I haven’t relinquished it.”
 
-2The monks of few desires complained and criticized Upananda, “How could Venerable Upananda use a robe he has assigned to a monk, without that monk first relinquishing it?” …
+2The bhikkhus of few desires complained and criticized Upananda, “How could Venerable Upananda use a robe he has assigned to a bhikkhu, without that bhikkhu first relinquishing it?” …
 
 “Is it true, Upananda, that you did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how could you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk himself assigns the ownership of a robe to a monk, to a nun, to a trainee nun, to a novice monk, or to a novice nun, and he then uses it without the other first relinquishing it, he commits an offense entailing confession.’”
+3‘If a bhikkhu himself assigns the ownership of a robe to a bhikkhu, to a nun, to a trainee nun, to a novice bhikkhu, or to a novice nun, and he then uses it without the other first relinquishing it, he commits an offense entailing confession.’”
 
 #### Definitions
 
-4**A:** whoever … **Monk:** … The monk who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of monk is meant in this case.
+4**A:** whoever … **bhikkhu:** … The bhikkhu who has been given the full ordination by a unanimous Sangha through a legal procedure consisting of one motion and three announcements that is irreversible and fit to stand—this sort of bhikkhu is meant in this case.
 
 
-5**To a monk:** to another monk.
+5**To a bhikkhu:** to another bhikkhu.
 
 6**A nun:** she has been given the full ordination by both Sanghas.
 
 7**A trainee nun:** one training for two years in the six rules.
 
-8**A novice monk:** a male training in the ten training rules.
+8**A novice bhikkhu:** a male training in the ten training rules.
 
 9**A novice nun:** a female training in the ten training rules.
 

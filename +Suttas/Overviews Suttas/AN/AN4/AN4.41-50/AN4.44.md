@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > Valuing anger, or denigration, or material possessions, or honor, or valuing the true teaching.
 > 
-> A mendicant who values anger and denigration, 
+> A bhikkhu who values anger and denigration, 
 Possessions and honor, 
 Doesn’t grow in the true teaching, 
 Like a rotten seed in a good field

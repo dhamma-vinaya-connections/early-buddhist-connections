@@ -22,17 +22,17 @@ language: "English - Pali"
 
 1At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain.
 
-Now at that time Venerable Dhammika was a resident in all seven monasteries of his native land. There he abused visiting mendicants; he insulted, harmed, attacked, and harassed them. The visiting mendicants who were treated in this way did not stay. They left, abandoning the monastery.
+Now at that time Venerable Dhammika was a resident in all seven monasteries of his native land. There he abused visiting bhikkhus; he insulted, harmed, attacked, and harassed them. The visiting bhikkhus who were treated in this way did not stay. They left, abandoning the monastery.
 
 
-2Then the local lay followers thought to themselves: “We have supplied the mendicant Saṅgha with robes, alms-food, lodgings, and medicines and supplies for the sick. But the visiting mendicants don’t stay. They leave, abandoning the monastery. What is the cause, what is the reason for this?”
+2Then the local lay followers thought to themselves: “We have supplied the bhikkhu Saṅgha with robes, alms-food, lodgings, and medicines and supplies for the sick. But the visiting bhikkhus don’t stay. They leave, abandoning the monastery. What is the cause, what is the reason for this?”
 
-Then the local lay followers thought to themselves: “This Venerable Dhammika abuses visiting mendicants; he insults, harms, attacks, and harasses them. The visiting mendicants who were treated in this way do not stay. They leave, abandoning the monastery. Why don’t we banish Venerable Dhammika?”
+Then the local lay followers thought to themselves: “This Venerable Dhammika abuses visiting bhikkhus; he insults, harms, attacks, and harasses them. The visiting bhikkhus who were treated in this way do not stay. They leave, abandoning the monastery. Why don’t we banish Venerable Dhammika?”
 
 
 3Then the local lay followers went up to Venerable Dhammika and said to him: “Sir, please leave this monastery. You’ve stayed here long enough.”
 
-Then Venerable Dhammika left and went to another monastery. There he abused visiting mendicants; he insulted, harmed, attacked, and harassed them. The visiting mendicants who were treated in this way did not stay. They left, abandoning the monastery.
+Then Venerable Dhammika left and went to another monastery. There he abused visiting bhikkhus; he insulted, harmed, attacked, and harassed them. The visiting bhikkhus who were treated in this way did not stay. They left, abandoning the monastery.
 
 
 4-5Then the local lay followers thought to themselves: …  
@@ -40,7 +40,7 @@ Then Venerable Dhammika left and went to another monastery. There he abused visi
 They said to Venerable Dhammika: “Sir, please leave this monastery. You’ve stayed here long enough.”
 
 
-Then Venerable Dhammika left and went to another monastery. There he abused visiting mendicants; he insulted, harmed, attacked, and harassed them. The visiting mendicants who were treated in this way did not stay. They left, abandoning the monastery.
+Then Venerable Dhammika left and went to another monastery. There he abused visiting bhikkhus; he insulted, harmed, attacked, and harassed them. The visiting bhikkhus who were treated in this way did not stay. They left, abandoning the monastery.
 
 
 6Then the local lay followers thought to themselves: “Why don’t we banish Venerable Dhammika from all seven monasteries in our native land?”  
@@ -147,7 +147,7 @@ makes much bad karma.
 26But the man who insults  
 with hateful intent  
 a single person accomplished in view,  
-a mendicant disciple of the Buddha,  
+a bhikkhu disciple of the Buddha,  
 makes even more bad karma.  
 
 27You shouldn’t attack a holy person,  
@@ -160,7 +160,7 @@ and their faculties are still immature:
 faith, mindfulness, and energy,  
 serenity and discernment.
 
-29If you attack such a mendicant,  
+29If you attack such a bhikkhu,  
 you first hurt yourself.  
 Having hurt yourself,  
 you harm the other.

@@ -18,7 +18,7 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time a family that was supporting Venerable Upananda the Sakyan had invited him to a meal, and they had invited other monks too. But since Upananda was visiting other families before that meal, the other monks said to that family:
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time a family that was supporting Venerable Upananda the Sakyan had invited him to a meal, and they had invited other bhikkhus too. But since Upananda was visiting other families before that meal, the other bhikkhus said to that family:
 
 “Please give the meal.”
 
@@ -26,13 +26,13 @@ language: "Pali - English"
 “Please wait, Sirs, until Venerable Upananda arrives.”
 
 
-A second time … A third time those monks said:
+A second time … A third time those bhikkhus said:
 
 “Please give the meal before it is too late.”
 
 “But we prepared the meal because of Venerable Upananda. Please wait until he arrives.”
 
-2Then, after visiting those families, Upananda arrived late, and those monks did not eat as much as they had intended. The monks of few desires complained and criticized Upananda:
+2Then, after visiting those families, Upananda arrived late, and those bhikkhus did not eat as much as they had intended. The bhikkhus of few desires complained and criticized Upananda:
 
 “How can Venerable Upananda visit families first when invited to a meal?” …
 
@@ -41,12 +41,12 @@ A second time … A third time those monks said:
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 
 3‘If a monk who has been invited to a meal visits families beforehand, he commits an offense entailing confession.’”
 
-4In this way the Buddha laid down this training rule for the monks.
+4In this way the Buddha laid down this training rule for the bhikkhus.
 
 5Soon afterwards a family that was supporting Upananda sent fresh food to the Sangha. They instructed that the food should be shown to Upananda and then given to the Sangha.
 
@@ -55,53 +55,53 @@ But on that occasion Upananda had gone to the village for alms. When those peopl
 
 They said, “Venerables, after showing it to Venerable Upananda, this fresh food is to be given to the Sangha.”
 
-The monks told the Buddha, who then gave a teaching and addressed the monks:
+The bhikkhus told the Buddha, who then gave a teaching and addressed the bhikkhus:
 
-“Well then, monks, receive it and put it aside until Upananda returns.”
+“Well then, bhikkhus, receive it and put it aside until Upananda returns.”
 
 
 6When he heard that the Buddha had prohibited visiting families before the meal, Upananda visited them after the meal instead. As a consequence, he returned late to the monastery, and the food had to be returned to the donors.
 
-The monks of few desires complained and criticized Upananda: “How can Venerable Upananda visit families after the meal?” …
+The bhikkhus of few desires complained and criticized Upananda: “How can Venerable Upananda visit families after the meal?” …
 
 “Is it true, Upananda, that you do this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … And so, monks, this training rule should be recited like this:
+The Buddha rebuked him … “Foolish man, how can you do this? This will affect people’s confidence …” … And so, bhikkhus, this training rule should be recited like this:
 
 7‘If a monk who has been invited to a meal visits families beforehand or afterwards, he commits an offense entailing confession.’”
 
-8In this way the Buddha laid down this training rule for the monks.
+8In this way the Buddha laid down this training rule for the bhikkhus.
 
-9Soon afterwards it was the robe-giving season. But being afraid of wrongdoing, the monks did not visit families. As a result, they only got a small amount of robe-cloth. They told the Buddha. …
+9Soon afterwards it was the robe-giving season. But being afraid of wrongdoing, the bhikkhus did not visit families. As a result, they only got a small amount of robe-cloth. They told the Buddha. …
 
-“Monks, I allow you to visit families during the robe-giving season.
+“bhikkhus, I allow you to visit families during the robe-giving season.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 10‘If a monk who has been invited to a meal visits families beforehand or afterwards, except on an appropriate occasion, he commits an offense entailing confession. This is the appropriate occasion: it is the robe-giving season.’”
 
-11In this way the Buddha laid down this training rule for the monks.
+11In this way the Buddha laid down this training rule for the bhikkhus.
 
-12Soon afterwards the monks were making robes, and they needed a needle, thread, and scissors. But being afraid of wrongdoing, they did not visit families. They told the Buddha. …
+12Soon afterwards the bhikkhus were making robes, and they needed a needle, thread, and scissors. But being afraid of wrongdoing, they did not visit families. They told the Buddha. …
 
-“Monks, I allow you to visit families at a time of making robes.
+“bhikkhus, I allow you to visit families at a time of making robes.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 
 13‘If a monk who has been invited to a meal visits families beforehand or afterwards, except on an appropriate occasion, he commits an offense entailing confession. These are the appropriate occasions: it is the robe-giving season; it is a time of making robes.’”
 
-14In this way the Buddha laid down this training rule for the monks.
+14In this way the Buddha laid down this training rule for the bhikkhus.
 
 
-15Soon afterwards there were sick monks who needed medicines. But being afraid of wrongdoing, the monks did not visit families. They told the Buddha. …
+15Soon afterwards there were sick bhikkhus who needed medicines. But being afraid of wrongdoing, the bhikkhus did not visit families. They told the Buddha. …
 
-“Monks, I allow you to visit families after informing an available monk.
+“bhikkhus, I allow you to visit families after informing an available monk.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

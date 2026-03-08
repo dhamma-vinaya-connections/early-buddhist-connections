@@ -15,11 +15,11 @@ language: "English"
 ## ## Upakkilesa Sutta
 
 
-“Monks, there are these five defilements of gold, defiled with which gold is neither pliant nor malleable nor luminous, but brittle & not rightly fit for work. Which five?
+“bhikkhus, there are these five defilements of gold, defiled with which gold is neither pliant nor malleable nor luminous, but brittle & not rightly fit for work. Which five?
 
 “Iron, copper, tin, lead, & silver: These are the five defilements of gold, corrupted with which gold is neither pliant nor malleable nor luminous, but brittle & not rightly fit for work. But when gold is freed from these five defilements, it is pliant, malleable, & luminous. It is not brittle and is rightly fit for work. Then whatever sort of ornament one has in mind—whether a belt, an earring, a necklace, or a gold chain—it would serve one’s purpose.
 
-“In the same way, monks, there are these five defilements of the mind, defiled with which the mind is neither pliant nor malleable nor luminous, but brittle & not rightly collected for the ending of the effluents. Which five?
+“In the same way, bhikkhus, there are these five defilements of the mind, defiled with which the mind is neither pliant nor malleable nor luminous, but brittle & not rightly collected for the ending of the effluents. Which five?
 
 “Sensual desire, ill will, sloth & drowsiness, restlessness & anxiety, and uncertainty: These are the five defilements of the mind, defiled with which the mind is neither pliant nor malleable nor luminous, but brittle & not rightly collected for the ending of the effluents. But when the mind is freed from these five defilements, it is pliant, malleable, & luminous. It is not brittle and is rightly collected for the ending of the effluents. Then whichever of the qualities to be known & realized that one turns one’s mind to know & realize, one can witness them right there whenever there is an opening.
 

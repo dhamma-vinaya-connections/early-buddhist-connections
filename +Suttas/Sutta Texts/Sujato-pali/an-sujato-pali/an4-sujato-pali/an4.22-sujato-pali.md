@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, this one time, when I was first awakened, I was staying near Uruvelā at the goatherd’s banyan tree on the bank of the Nerañjarā River. Then several old brahmins — elderly and senior, who were advanced in years and had reached the final stage of life — came up to me, and exchanged greetings with me.
+1“bhikkhus, this one time, when I was first awakened, I was staying near Uruvelā at the goatherd’s banyan tree on the bank of the Nerañjarā River. Then several old brahmins — elderly and senior, who were advanced in years and had reached the final stage of life — came up to me, and exchanged greetings with me.
 
 When the greetings and polite conversation were over, they sat down to one side, and said to me:
 
@@ -30,14 +30,14 @@ When the greetings and polite conversation were over, they sat down to one side,
 
 2Then it occurred to me, ‘These venerables don’t know what a senior is, or what qualities make you a senior.’
 
-Mendicants, suppose you’re eighty, ninety, or a hundred years old. But your speech is untimely, false, meaningless, and against the teaching or training. You say things at the wrong time which are worthless, unreasonable, rambling, and unbeneficial. Then you’ll be considered a ‘childish senior’.
+bhikkhus, suppose you’re eighty, ninety, or a hundred years old. But your speech is untimely, false, meaningless, and against the teaching or training. You say things at the wrong time which are worthless, unreasonable, rambling, and unbeneficial. Then you’ll be considered a ‘childish senior’.
 
 3Now suppose you’re a youth, young, black-haired, blessed with youth, in the prime of life. But your speech is timely, true, meaningful, and in line with the teaching and training. You say things at the right time which are valuable, reasonable, succinct, and beneficial. Then you’ll be considered an ‘astute senior’.
 
 
 4There are these four qualities that make a senior. What four?
 
-A mendicant is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
+A bhikkhu is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken.
 
 They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically.
 
@@ -68,7 +68,7 @@ and have completed the spiritual journey.
 
 8That’s who I call a senior,  
 who has no defilements.  
-With the ending of defilements, a mendicant  
+With the ending of defilements, a bhikkhu  
 is declared a ‘senior’.”
 
 1"Ekamidāhaṁ, bhikkhave, samayaṁ uruvelāyaṁ viharāmi najjā nerañjarāya tīre ajapālanigrodhe paṭhamābhisambuddho. Atha kho, bhikkhave, sambahulā brāhmaṇā jiṇṇā vuddhā mahallakā addhagatā vayoanuppattā yenāhaṁ tenupasaṅkamiṁsu; upasaṅkamitvā mayā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu.

@@ -46,11 +46,11 @@ contribution:
 
 
 > [!example]- 🌐[[SN4.5]] - 📜[Available texts](obsidian://search?query=file:sn4.5-) - Dutiyamārapāsasutta – Māra's Snare (2)
-> When the Buddha  explains to the mendicants how he has realized freedom, and so have his mendicant followers, Māra claims he is still trapped.
+> When the Buddha  explains to the bhikkhus how he has realized freedom, and so have his bhikkhu followers, Māra claims he is still trapped.
 
 
 > [!example]- 🌐[[SN4.6]] - 📜[Available texts](obsidian://search?query=file:sn4.6-) - Sappasutta – Serpent
-> When the Buddha  explains to the mendicants how he has realized freedom, and so have his mendicant followers, Māra claims he is still trapped.
+> When the Buddha  explains to the bhikkhus how he has realized freedom, and so have his bhikkhu followers, Māra claims he is still trapped.
 
 
 > [!example]- 🌐[[SN4.7]] - 📜[Available texts](obsidian://search?query=file:sn4.7-) - Supatisutta – Sleep
@@ -90,11 +90,11 @@ contribution:
 
 
 > [!example]- 🌐[[SN4.16]] - 📜[Available texts](obsidian://search?query=file:sn4.16-) - Pattasutta – Almsbowls
-> While the mendicants are listening to the teachings, Māra takes the form of an ox and looks as if he will break their almsbowls and Māra makes an awful roar to distract them.and Māra takes the form of a farmer looking for lost oxen and addresses the Buddha .
+> While the bhikkhus are listening to the teachings, Māra takes the form of an ox and looks as if he will break their almsbowls and Māra makes an awful roar to distract them.and Māra takes the form of a farmer looking for lost oxen and addresses the Buddha .
 
 
 > [!example]- 🌐[[SN4.17]] - 📜[Available texts](obsidian://search?query=file:sn4.17-) - Chaphassāyatanasutta – Six Bases for Contact
-> While the mendicants are listening to the teachings, Māra takes the form of an ox and looks as if he will break their almsbowls and Māra makes an awful roar to distract them.and Māra takes the form of a farmer looking for lost oxen and addresses the Buddha .
+> While the bhikkhus are listening to the teachings, Māra takes the form of an ox and looks as if he will break their almsbowls and Māra makes an awful roar to distract them.and Māra takes the form of a farmer looking for lost oxen and addresses the Buddha .
 
 
 > [!example]- 🌐[[SN4.18]] - 📜[Available texts](obsidian://search?query=file:sn4.18-) - Piṇḍasutta – Alms
@@ -102,7 +102,7 @@ contribution:
 
 
 > [!example]- 🌐[[SN4.19]] - 📜[Available texts](obsidian://search?query=file:sn4.19-) - Kassakasutta – Farmer
-> While the mendicants are listening to the teachings, Māra takes the form of an ox and looks as if he will break their almsbowls and Māra makes an awful roar to distract them.and Māra takes the form of a farmer looking for lost oxen and addresses the Buddha .
+> While the bhikkhus are listening to the teachings, Māra takes the form of an ox and looks as if he will break their almsbowls and Māra makes an awful roar to distract them.and Māra takes the form of a farmer looking for lost oxen and addresses the Buddha .
 
 
 > [!example]- 🌐[[SN4.20]] - 📜[Available texts](obsidian://search?query=file:sn4.20-) - Rajjasutta – Rulership
@@ -110,11 +110,11 @@ contribution:
 
 
 > [!example]- 🌐[[SN4.21]] - 📜[Available texts](obsidian://search?query=file:sn4.21-) - Sambahulasutta – A Number
-> Māra approaches some young mendicants as an old brahmin, and tries to tempt them with talk of the pleasures of youth
+> Māra approaches some young bhikkhus as an old brahmin, and tries to tempt them with talk of the pleasures of youth
 
 
 > [!example]- 🌐[[SN4.22]] - 📜[Available texts](obsidian://search?query=file:sn4.22-) - Samiddhisutta – Samiddhi
-> Māra approaches some young mendicants as an old brahmin, and tries to tempt them with talk of the pleasures of youth
+> Māra approaches some young bhikkhus as an old brahmin, and tries to tempt them with talk of the pleasures of youth
 
 
 > [!example]- 🌐[[SN4.23]] - 📜[Available texts](obsidian://search?query=file:sn4.23-) - Godhikasutta – Godhika

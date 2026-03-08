@@ -7,35 +7,35 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
 > ◄  [[bu-pc12-horner]] 📜  [[bu-pc14-horner]] ►
 
-# Monks’ Expiation (_Pācittiya_) 13
+# bhikkhus’ Expiation (_Pācittiya_) 13
 
-*Bu-Pc.13.1.1* *BD.2.235* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding-place. Now at that time the venerable Dabba, the Mallian, assigned lodgings to the Order and distributed meals.[^1] Now at that time monks who were followers of Mettiya and Bhummajaka were newly ordained as well as of little merit; *Vin.4.38* they obtained whatever inferior lodgings belonged to the Order and inferior meals.[^2] These made monks look down upon[^3] the venerable Dabba, the Mallian, saying:
+*Bu-Pc.13.1.1* *BD.2.235* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding-place. Now at that time the venerable Dabba, the Mallian, assigned lodgings to the Order and distributed meals.[^1] Now at that time bhikkhus who were followers of Mettiya and Bhummajaka were newly ordained as well as of little merit; *Vin.4.38* they obtained whatever inferior lodgings belonged to the Order and inferior meals.[^2] These made bhikkhus look down upon[^3] the venerable Dabba, the Mallian, saying:
 
 “Dabba, the Mallian, assigns lodgings through favouritism[^4] and distributes meals through favouritism.”
 
-Those who were modest monks … spread it about, saying:
+Those who were modest bhikkhus … spread it about, saying:
 
-“How can monks who are followers of Mettiya and Bhummajaka make monks look down upon the venerable Dabba, the Mallian?” …
+“How can bhikkhus who are followers of Mettiya and Bhummajaka make bhikkhus look down upon the venerable Dabba, the Mallian?” …
 
-“Is it true, as is said, that you, monks, made monks look down upon Dabba, the Mallian?”
+“Is it true, as is said, that you, bhikkhus, made bhikkhus look down upon Dabba, the Mallian?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them saying:
 
-“How can you, foolish men, make monks look down upon Dabba, the Mallian? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:
+“How can you, foolish men, make bhikkhus look down upon Dabba, the Mallian? It is not, foolish men, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:
 
 “In making (someone) look down upon,[^5] there is an offence of expiation.”
 
-And thus this rule of training for monks came to be laid down by the lord.
+And thus this rule of training for bhikkhus came to be laid down by the lord.
 
 * * *
 
-*Bu-Pc.13.2.1* *BD.2.236* Now at that time monks who were followers of Mettiya and Bhummajaka thought: “Making (someone) look down upon is forbidden by the lord, (but) this much shall the monks hear,” and in the neighbourhood of monks, they criticised[^6] the venerable Dabba, the Mallian, saying:
+*Bu-Pc.13.2.1* *BD.2.236* Now at that time bhikkhus who were followers of Mettiya and Bhummajaka thought: “Making (someone) look down upon is forbidden by the lord, (but) this much shall the bhikkhus hear,” and in the neighbourhood of bhikkhus, they criticised[^6] the venerable Dabba, the Mallian, saying:
 
 “Dabba, the Mallian, assigns lodgings through favouritism and distributes meals through favouritism.”
 
-Those who were modest monks … as in *Bu-Pc.13.2.1* _instead of_ “make monks look down upon” _read_ “criticise” … “… And thus, monks, this rule of training should be set forth:
+Those who were modest bhikkhus … as in *Bu-Pc.13.2.1* _instead of_ “make bhikkhus look down upon” _read_ “criticise” … “… And thus, bhikkhus, this rule of training should be set forth:
 
 “In making (someone) look down upon, in criticising,[^7] there is an offence of expiation.”
 
@@ -57,7 +57,7 @@ The Third
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

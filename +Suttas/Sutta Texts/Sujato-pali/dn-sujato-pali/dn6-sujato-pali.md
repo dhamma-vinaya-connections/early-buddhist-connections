@@ -64,40 +64,40 @@ Then the brahmin emissaries went up to the Buddha, and exchanged greetings with 
 
 “What is the cause, sir, what is the reason why Sunakkhatta cannot hear them, even though they really do exist?”
 
-9“Mahāli, take a mendicant who has developed one-sided immersion to the eastern quarter so as to see heavenly sights but not to hear heavenly sounds. When they have developed immersion for that purpose, they see heavenly sights but don’t hear heavenly sounds. Why is that? Because that is how it is for a mendicant who develops immersion in that way.
+9“Mahāli, take a bhikkhu who has developed one-sided immersion to the eastern quarter so as to see heavenly sights but not to hear heavenly sounds. When they have developed immersion for that purpose, they see heavenly sights but don’t hear heavenly sounds. Why is that? Because that is how it is for a bhikkhu who develops immersion in that way.
 
-10Furthermore, take a mendicant who has developed one-sided immersion to the southern quarter … western quarter … northern quarter … above, below, across … That is how it is for a mendicant who develops immersion in that way.
-
-
-11Take a mendicant who has developed one-sided immersion to the eastern quarter so as to hear heavenly sounds but not to see heavenly sights. When they have developed immersion for that purpose, they hear heavenly sounds but don’t see heavenly sights. Why is that? Because that is how it is for a mendicant who develops immersion in that way.
+10Furthermore, take a bhikkhu who has developed one-sided immersion to the southern quarter … western quarter … northern quarter … above, below, across … That is how it is for a bhikkhu who develops immersion in that way.
 
 
-12Furthermore, take a mendicant who has developed one-sided immersion to the southern quarter … western quarter … northern quarter … above, below, across … That is how it is for a mendicant who develops immersion in that way.
-
-13Take a mendicant who has developed two-sided immersion to the eastern quarter so as to both hear heavenly sounds and see heavenly sights. When they have developed immersion for that purpose, they both see heavenly sights and hear heavenly sounds. Why is that? Because that is how it is for a mendicant who develops immersion in that way.
-
-14Furthermore, take a mendicant who has developed two-sided immersion to the southern quarter … western quarter … northern quarter … above, below, across … That is how it is for a mendicant who develops immersion in that way. This is the cause, Mahāli, this is the reason why Sunakkhatta cannot hear heavenly sounds that are pleasant, sensual, and arousing, even though they really do exist.”
+11Take a bhikkhu who has developed one-sided immersion to the eastern quarter so as to hear heavenly sounds but not to see heavenly sights. When they have developed immersion for that purpose, they hear heavenly sounds but don’t see heavenly sights. Why is that? Because that is how it is for a bhikkhu who develops immersion in that way.
 
 
-15“Surely the mendicants must live the spiritual life under the Buddha for the sake of realizing such a development of immersion?”
+12Furthermore, take a bhikkhu who has developed one-sided immersion to the southern quarter … western quarter … northern quarter … above, below, across … That is how it is for a bhikkhu who develops immersion in that way.
 
-“No, Mahāli, the mendicants don’t live the spiritual life under me for the sake of realizing such a development of immersion. There are other things that are finer, for the sake of which the mendicants live the spiritual life under me.”
+13Take a bhikkhu who has developed two-sided immersion to the eastern quarter so as to both hear heavenly sounds and see heavenly sights. When they have developed immersion for that purpose, they both see heavenly sights and hear heavenly sounds. Why is that? Because that is how it is for a bhikkhu who develops immersion in that way.
+
+14Furthermore, take a bhikkhu who has developed two-sided immersion to the southern quarter … western quarter … northern quarter … above, below, across … That is how it is for a bhikkhu who develops immersion in that way. This is the cause, Mahāli, this is the reason why Sunakkhatta cannot hear heavenly sounds that are pleasant, sensual, and arousing, even though they really do exist.”
+
+
+15“Surely the bhikkhus must live the spiritual life under the Buddha for the sake of realizing such a development of immersion?”
+
+“No, Mahāli, the bhikkhus don’t live the spiritual life under me for the sake of realizing such a development of immersion. There are other things that are finer, for the sake of which the bhikkhus live the spiritual life under me.”
 
 #### 2.2. The Four Noble Fruits
 
 16“But sir, what are those finer things?”
 
-“Firstly, Mahāli, with the ending of three fetters a mendicant is a stream-enterer, not liable to be reborn in the underworld, bound for awakening. This is one of the finer things for the sake of which the mendicants live the spiritual life under me.
+“Firstly, Mahāli, with the ending of three fetters a bhikkhu is a stream-enterer, not liable to be reborn in the underworld, bound for awakening. This is one of the finer things for the sake of which the bhikkhus live the spiritual life under me.
 
 
-17Furthermore, a mendicant — with the ending of three fetters, and the weakening of greed, hate, and delusion — is a once-returner. They come back to this world once only, then make an end of suffering. This too is one of the finer things.
+17Furthermore, a bhikkhu — with the ending of three fetters, and the weakening of greed, hate, and delusion — is a once-returner. They come back to this world once only, then make an end of suffering. This too is one of the finer things.
 
 
-18Furthermore, with the ending of the five lower fetters, a mendicant is reborn spontaneously and will become extinguished there, not liable to return from that world. This too is one of the finer things.
+18Furthermore, with the ending of the five lower fetters, a bhikkhu is reborn spontaneously and will become extinguished there, not liable to return from that world. This too is one of the finer things.
 
-19Furthermore, a mendicant has realized the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements. This too is one of the finer things.
+19Furthermore, a bhikkhu has realized the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements. This too is one of the finer things.
 
-These are the finer things, for the sake of which the mendicants live the spiritual life under me.”
+These are the finer things, for the sake of which the bhikkhus live the spiritual life under me.”
 
 #### 2.3. The Noble Eightfold Path
 
@@ -119,21 +119,21 @@ These are the finer things, for the sake of which the mendicants live the spirit
 
 ‘Yes, reverend,’ they replied.
 
-I said this: ‘Take the case when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. …
+I said this: ‘Take the case when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a bhikkhu is accomplished in ethics. …
 
-24They enter and remain in the first jhāna. When a mendicant knows and sees like this, would it be appropriate to say of them: “The soul and the body are the same thing” or “The soul and the body are different things”?’
-
-‘It would, reverend.’
-
-‘But reverends, I know and see like this. Nevertheless, I do not say: “The soul and the body are the same thing” or “The soul and the body are different things”. …
-
-They enter and remain in the second jhāna … third jhāna … fourth jhāna. When a mendicant knows and sees like this, would it be appropriate to say of them: “The soul and the body are the same thing” or “The soul and the body are different things”?’
+24They enter and remain in the first jhāna. When a bhikkhu knows and sees like this, would it be appropriate to say of them: “The soul and the body are the same thing” or “The soul and the body are different things”?’
 
 ‘It would, reverend.’
 
 ‘But reverends, I know and see like this. Nevertheless, I do not say: “The soul and the body are the same thing” or “The soul and the body are different things”. …
 
-They extend and project the mind toward knowledge and vision … When a mendicant knows and sees like this, would it be appropriate to say of them: “The soul and the body are the same thing” or “The soul and the body are different things”?’
+They enter and remain in the second jhāna … third jhāna … fourth jhāna. When a bhikkhu knows and sees like this, would it be appropriate to say of them: “The soul and the body are the same thing” or “The soul and the body are different things”?’
+
+‘It would, reverend.’
+
+‘But reverends, I know and see like this. Nevertheless, I do not say: “The soul and the body are the same thing” or “The soul and the body are different things”. …
+
+They extend and project the mind toward knowledge and vision … When a bhikkhu knows and sees like this, would it be appropriate to say of them: “The soul and the body are the same thing” or “The soul and the body are different things”?’
 
 ‘It would, reverend.’
 
@@ -142,7 +142,7 @@ They extend and project the mind toward knowledge and vision … When a mendican
 
 25They understand: “… there is no return to any state of existence.”
 
-When a mendicant knows and sees like this, would it be appropriate to say of them: “The soul and the body are the same thing” or “The soul and the body are different things”?’
+When a bhikkhu knows and sees like this, would it be appropriate to say of them: “The soul and the body are the same thing” or “The soul and the body are different things”?’
 
 ‘It would not, reverend.’
 

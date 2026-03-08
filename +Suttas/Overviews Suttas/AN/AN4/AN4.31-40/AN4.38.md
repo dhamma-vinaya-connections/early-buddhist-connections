@@ -44,10 +44,10 @@ parallels_partilal: "[[ITI55]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> A mendicant has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has tranquilized bodily activity, and is said to be ‘withdrawn
+> A bhikkhu has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has tranquilized bodily activity, and is said to be ‘withdrawn
 
 > [!info] Key Excerpts 
-> A mendicant has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has tranquilized bodily activity, and is said to be ‘withdrawn
+> A bhikkhu has eliminated idiosyncratic interpretations of the truth, has totally given up searching, has tranquilized bodily activity, and is said to be ‘withdrawn
 > 
 > For one detached from all lusts, 
 Freed by the ending of craving, 

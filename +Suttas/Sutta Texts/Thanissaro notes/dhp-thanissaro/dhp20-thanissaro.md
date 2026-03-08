@@ -149,7 +149,7 @@ come danger & fear.
 
 Having cut down this forest
 
-& its underbrush, monks,
+& its underbrush, bhikkhus,
 
 be deforested.
 

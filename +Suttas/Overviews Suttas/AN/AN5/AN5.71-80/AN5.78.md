@@ -49,7 +49,7 @@ parallels_partilal: ""
 > [!info] Key Excerpts 
 > When getting old, getting sick, time of famine, war and invasions, and time of schism in the saṅgha it’s not easy to focus on the instructions of the Buddha s
 > 
-> Seeing these five future perils is quite enough for a wilderness mendicant to meditate diligently, keenly, and resolutely for attaining the unattained, achieving the unachieved, and realizing the unrealized.
+> Seeing these five future perils is quite enough for a wilderness bhikkhu to meditate diligently, keenly, and resolutely for attaining the unattained, achieving the unachieved, and realizing the unrealized.
 > 
 
 

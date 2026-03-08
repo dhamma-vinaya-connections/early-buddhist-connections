@@ -14,15 +14,15 @@ language: "English - Pali"
 
 ## 9. Vanasaṁyutta: In the Woods
 
-### I. In The Woods — SN9.4: Several Mendicants Set Out Wandering
+### I. In The Woods — SN9.4: Several bhikkhus Set Out Wandering
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato.  
 
-1At one time several mendicants were staying in the land of the Kosalans in a certain forest grove.
+1At one time several bhikkhus were staying in the land of the Kosalans in a certain forest grove.
 
-Then after completing the three months of the rainy season residence, those mendicants set out wandering. Not seeing those mendicants, the deity haunting that forest cried. And on that occasion they recited this verse:
+Then after completing the three months of the rainy season residence, those bhikkhus set out wandering. Not seeing those bhikkhus, the deity haunting that forest cried. And on that occasion they recited this verse:
 
 2“Seeing so many vacated seats today,  
 it seems to me that they must have become dissatisfied.  
@@ -34,7 +34,7 @@ Where have these disciples of Gotama gone?”
 4“They’ve gone to Magadha, they’ve gone to Kosala,  
 and some are in the Vajjian lands.  
 Like deer that wander free of ties,  
-the mendicants live with no abode.”
+the bhikkhus live with no abode.”
 
 #### Pali
 

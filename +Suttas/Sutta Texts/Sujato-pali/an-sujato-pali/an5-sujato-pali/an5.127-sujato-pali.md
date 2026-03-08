@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, a mendicant with five qualities is not fit to live apart from a Saṅgha community. What five? It’s when a mendicant is not content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they have a lot of sensual thoughts. A mendicant with these five qualities is not fit to live apart from a Saṅgha community.
+1“bhikkhus, a bhikkhu with five qualities is not fit to live apart from a Saṅgha community. What five? It’s when a bhikkhu is not content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they have a lot of sensual thoughts. A bhikkhu with these five qualities is not fit to live apart from a Saṅgha community.
 
-2A mendicant with five qualities is fit to live apart from a Saṅgha community. What five? It’s when a mendicant is content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they think a lot about renunciation. A mendicant with these five qualities is fit to live apart from a Saṅgha community.”
+2A bhikkhu with five qualities is fit to live apart from a Saṅgha community. What five? It’s when a bhikkhu is content with any kind of robe, alms-food, lodging, and medicines and supplies for the sick. And they think a lot about renunciation. A bhikkhu with these five qualities is fit to live apart from a Saṅgha community.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu nālaṁ saṅghamhā vapakāsituṁ. Katamehi pañcahi? Idha, bhikkhave, bhikkhu asantuṭṭho hoti itarītarena cīvarena, asantuṭṭho hoti itarītarena piṇḍapātena, asantuṭṭho hoti itarītarena senāsanena, asantuṭṭho hoti itarītarena gilānappaccayabhesajjaparikkhārena, kāmasaṅkappabahulo ca viharati. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu nālaṁ saṅghamhā vapakāsituṁ.
 

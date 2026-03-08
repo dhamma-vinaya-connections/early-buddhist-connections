@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are five destinations. What five? Hell, the animal realm, the ghost realm, humanity, and the gods. These are the five destinations.
+1“bhikkhus, there are five destinations. What five? Hell, the animal realm, the ghost realm, humanity, and the gods. These are the five destinations.
 
 2To give up these five destinations you should develop the four kinds of mindfulness meditation. …”
 

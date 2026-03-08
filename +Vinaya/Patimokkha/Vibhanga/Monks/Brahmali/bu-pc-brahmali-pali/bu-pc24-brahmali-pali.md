@@ -16,18 +16,18 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the senior monks who were instructing the nuns received robe-cloth, almsfood, dwellings, and medicinal supplies. And the monks from the group of six said this about them, “The senior monks aren’t instructing the nuns as a service, but for the sake of worldly gain.”
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the senior bhikkhus who were instructing the nuns received robe-cloth, almsfood, dwellings, and medicinal supplies. And the bhikkhus from the group of six said this about them, “The senior bhikkhus aren’t instructing the nuns as a service, but for the sake of worldly gain.”
 
-2The monks of few desires complained and criticized them, “How can the monks from the group of six say that the senior monks aren’t instructing the nuns to render a service, but for the sake of worldly gain?” … “Is it true, monks, that you say this?”
+2The bhikkhus of few desires complained and criticized them, “How can the bhikkhus from the group of six say that the senior bhikkhus aren’t instructing the nuns to render a service, but for the sake of worldly gain?” … “Is it true, bhikkhus, that you say this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “Foolish men, how can you say this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “Foolish men, how can you say this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 
-3‘If a monk says that the senior monks are instructing the nuns for the sake of worldly gain, he commits an offense entailing confession.’”
+3‘If a monk says that the senior bhikkhus are instructing the nuns for the sake of worldly gain, he commits an offense entailing confession.’”
 
 #### Definitions
 

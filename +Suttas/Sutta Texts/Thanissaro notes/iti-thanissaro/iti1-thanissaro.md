@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 1
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Abandon one quality, monks, and I guarantee you non-return. Which one quality? Abandon greed as the one quality, and I guarantee you non-return.”[1](#^iti1note01) _This is the meaning of what the Blessed One said. So with regard to this it was said:_[2](#^iti1note02) ^iti1note01-ref ^iti1note02-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Abandon one quality, bhikkhus, and I guarantee you non-return. Which one quality? Abandon greed as the one quality, and I guarantee you non-return.”[1](#^iti1note01) _This is the meaning of what the Blessed One said. So with regard to this it was said:_[2](#^iti1note02) ^iti1note01-ref ^iti1note02-ref
 
 The greed with which
 

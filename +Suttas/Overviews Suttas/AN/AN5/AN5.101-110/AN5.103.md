@@ -44,10 +44,10 @@ parallels_partilal: "[[AN3.50]], [[PLI-TV-BU-VB-PJ4]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Bad mendicant has five factors, they keep themselves broken and damaged
+> Bad bhikkhu has five factors, they keep themselves broken and damaged
 
 > [!info] Key Excerpts 
-> Bad mendicant relies on rough ground, on thick cover, and on powerful individuals; they pay bribes, and they act alone.
+> Bad bhikkhu relies on rough ground, on thick cover, and on powerful individuals; they pay bribes, and they act alone.
 > 
 > They deserve to be blamed and criticized by sensible people, and they make much bad karma.
 > 

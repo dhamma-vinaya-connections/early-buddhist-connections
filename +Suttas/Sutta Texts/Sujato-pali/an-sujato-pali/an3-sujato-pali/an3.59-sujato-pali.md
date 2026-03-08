@@ -40,7 +40,7 @@ language: "English - Pali"
 “Yes sir,” Jāṇussoṇi replied. The Buddha said this:
 
 
-3“Brahmin, it’s when a mendicant, quite secluded from sensual pleasures … enters and remains in the fourth jhāna.
+3“Brahmin, it’s when a bhikkhu, quite secluded from sensual pleasures … enters and remains in the fourth jhāna.
 
 4When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they extend it toward recollection of past lives. They recollect many kinds of past lives, with features and details. This is the first knowledge that they attain. Ignorance is destroyed and knowledge has arisen; darkness is destroyed and light has arisen, as happens for a meditator who is diligent, keen, and resolute.
 

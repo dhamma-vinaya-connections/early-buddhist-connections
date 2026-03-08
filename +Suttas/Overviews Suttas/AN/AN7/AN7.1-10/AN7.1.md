@@ -44,12 +44,12 @@ parallels_partilal: "[[AN8.3]]"
 ## 🌐 Overview
 
 > [!info] Summary
-> Seven qualities that make a mendicant either agreeable or disagreeable to their fellow monastics
+> Seven qualities that make a bhikkhu either agreeable or disagreeable to their fellow monastics
 
 > [!info] Key Excerpts 
 > Doesn’t desire material possessions, not jealous or stingy;, honor, and to be looked up to. They have conscience and prudence. They have few desires and right view
 > 
-> Mendicant with these seven qualities is liked and approved by their spiritual companions, respected and admired
+> bhikkhu with these seven qualities is liked and approved by their spiritual companions, respected and admired
 > 
 
 

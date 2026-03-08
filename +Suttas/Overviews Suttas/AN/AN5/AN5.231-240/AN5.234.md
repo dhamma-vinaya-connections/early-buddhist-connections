@@ -3,14 +3,14 @@ sutta_code: "AN5.234"
 sutta_pts: "A iii 263"
 sutta_title:
   - "Āvāsika "
-  - "Resident Mendicant"
+  - "Resident bhikkhu"
 nikaya:
   - "AN "
   - "Aṅguttara Nikāya"
 sutta_chapter:
   - "AN5"
   - "Āvāsikvagga"
-  - "Resident mendicant"
+  - "Resident bhikkhu"
   - ""
 sutta_theme:
   - "Discipline"
@@ -40,11 +40,11 @@ parallels_partilal: ""
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.233]]  🌐 [[AN5.235]] ►
 
-# AN5.234 - Āvāsika - Resident Mendicant
+# AN5.234 - Āvāsika - Resident bhikkhu
 ## 🌐 Overview
 
 > [!info] Summary
-> Resident mendicant with these five qualities is admirable and beautifies the monastery
+> Resident bhikkhu with these five qualities is admirable and beautifies the monastery
 
 > [!info] Key Excerpts 
 > Well-presented, learned, ethical, self effacement, good speaker and wise, repair what is decayed and damaged

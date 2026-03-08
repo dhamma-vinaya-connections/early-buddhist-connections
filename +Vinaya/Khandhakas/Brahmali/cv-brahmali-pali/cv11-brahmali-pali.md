@@ -24,15 +24,15 @@ language: "English - Pali"
 
 1Homage to the Buddha, the Perfected One, the fully Awakened One
 
-2At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks Paṇḍuka and Lohitaka were quarrelsome, argumentative, and creators of legal issues in the Saṅgha. They went to other monks who were also quarrelsome, argumentative, and creators of legal issues in the Saṅgha, and said to them: “Don’t let him beat you. Argue back forcefully. You’re wiser, more competent, more learned, and more capable than he. Don’t be afraid of him. We’ll take your side.” Because of that, new quarrels started and existing quarrels became worse.
+2At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus Paṇḍuka and Lohitaka were quarrelsome, argumentative, and creators of legal issues in the Saṅgha. They went to other bhikkhus who were also quarrelsome, argumentative, and creators of legal issues in the Saṅgha, and said to them: “Don’t let him beat you. Argue back forcefully. You’re wiser, more competent, more learned, and more capable than he. Don’t be afraid of him. We’ll take your side.” Because of that, new quarrels started and existing quarrels became worse.
 
 
-The monks of few desires complained and criticized them: “How can the monks Paṇḍuka and Lohitaka act like this?”
+The bhikkhus of few desires complained and criticized them: “How can the bhikkhus Paṇḍuka and Lohitaka act like this?”
 
 
-3They told the Buddha. Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+3They told the Buddha. Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the monks Paṇḍuka and Lohitaka are acting like this?”
+“Is it true, bhikkhus, that the bhikkhus Paṇḍuka and Lohitaka are acting like this?”
 
 
 “It’s true, Sir.”
@@ -40,33 +40,33 @@ The monks of few desires complained and criticized them: “How can the monks Pa
 The Buddha rebuked them: “It’s not suitable for those foolish men, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can they act like this, causing that new quarrels to start and existing quarrels to become worse? This will affect people’s confidence, and cause some to lose it.”
 
 
-4The Buddha then spoke in many ways in dispraise of being difficult to support and maintain, in dispraise of great desires, discontent, socializing, and laziness; but he spoke in many ways in praise of being easy to support and maintain, of fewness of wishes, contentment, self-effacement, ascetic practices, serenity, reduction in things, and being energetic. After giving a teaching on what is right and proper, he addressed the monks:
+4The Buddha then spoke in many ways in dispraise of being difficult to support and maintain, in dispraise of great desires, discontent, socializing, and laziness; but he spoke in many ways in praise of being easy to support and maintain, of fewness of wishes, contentment, self-effacement, ascetic practices, serenity, reduction in things, and being energetic. After giving a teaching on what is right and proper, he addressed the bhikkhus:
 
 
-5“Well then, monks, the Saṅgha should do a legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. And this is how it should be done.
+5“Well then, bhikkhus, the Saṅgha should do a legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. And this is how it should be done.
 
-First you should accuse the monks Paṇḍuka and Lohitaka. They should then be reminded of what they’ve done, before they’re charged with an offense. A competent and capable monk should then inform the Saṅgha:
-
-
-6‘Please, Venerables, I ask the Saṅgha to listen. These monks Paṇḍuka and Lohitaka are quarrelsome, argumentative, and creators of legal issues in the Saṅgha. They go to other monks who are also quarrelsome, argumentative, and creators of legal issues in the Saṅgha, and they say to them:
-
-“Don’t let him beat you. Argue back forcefully. You’re wiser, more competent, more learned, and more capable than he. Don’t be afraid of him. We’ll take your side.” Because of this, new quarrels start and existing quarrels become worse. If it seems appropriate to the Saṅgha, the Saṅgha should do a legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. This is the motion.
-
-Please, Venerables, I ask the Saṅgha to listen. These monks Paṇḍuka and Lohitaka are quarrelsome, argumentative, and creators of legal issues in the Saṅgha. They go to other monks who are also quarrelsome, argumentative, and creators of legal issues in the Saṅgha, and they say to them:
-
-7“Don’t let him beat you. Argue back forcefully. You’re wiser, more competent, more learned, and more capable than he. Don’t be afraid of him. We’ll take your side.” Because of this, new quarrels start and existing quarrels become worse. The Saṅgha does a legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
-
-For the second time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. These monks Paṇḍuka and Lohitaka are quarrelsome, argumentative, and creators of legal issues in the Saṅgha. They go to other monks who are also quarrelsome, argumentative, and creators of legal issues in the Saṅgha, and they say to them:
-
-8“Don’t let him beat you. Argue back forcefully. You’re wiser, more competent, more learned, and more capable than he. Don’t be afraid of him. We’ll take your side.” Because of this, new quarrels start and existing quarrels become worse. The Saṅgha does a legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+First you should accuse the bhikkhus Paṇḍuka and Lohitaka. They should then be reminded of what they’ve done, before they’re charged with an offense. A competent and capable monk should then inform the Saṅgha:
 
 
-For the third time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. These monks Paṇḍuka and Lohitaka are quarrelsome, argumentative, and creators of legal issues in the Saṅgha. They go to other monks who are also quarrelsome, argumentative, and creators of legal issues in the Saṅgha, and they say to them:
+6‘Please, Venerables, I ask the Saṅgha to listen. These bhikkhus Paṇḍuka and Lohitaka are quarrelsome, argumentative, and creators of legal issues in the Saṅgha. They go to other bhikkhus who are also quarrelsome, argumentative, and creators of legal issues in the Saṅgha, and they say to them:
 
-“Don’t let him beat you. Argue back forcefully. You’re wiser, more competent, more learned, and more capable than he. Don’t be afraid of him. We’ll take your side.” Because of this, new quarrels start and existing quarrels become worse. The Saṅgha does a legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+“Don’t let him beat you. Argue back forcefully. You’re wiser, more competent, more learned, and more capable than he. Don’t be afraid of him. We’ll take your side.” Because of this, new quarrels start and existing quarrels become worse. If it seems appropriate to the Saṅgha, the Saṅgha should do a legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. This is the motion.
+
+Please, Venerables, I ask the Saṅgha to listen. These bhikkhus Paṇḍuka and Lohitaka are quarrelsome, argumentative, and creators of legal issues in the Saṅgha. They go to other bhikkhus who are also quarrelsome, argumentative, and creators of legal issues in the Saṅgha, and they say to them:
+
+7“Don’t let him beat you. Argue back forcefully. You’re wiser, more competent, more learned, and more capable than he. Don’t be afraid of him. We’ll take your side.” Because of this, new quarrels start and existing quarrels become worse. The Saṅgha does a legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+
+For the second time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. These bhikkhus Paṇḍuka and Lohitaka are quarrelsome, argumentative, and creators of legal issues in the Saṅgha. They go to other bhikkhus who are also quarrelsome, argumentative, and creators of legal issues in the Saṅgha, and they say to them:
+
+8“Don’t let him beat you. Argue back forcefully. You’re wiser, more competent, more learned, and more capable than he. Don’t be afraid of him. We’ll take your side.” Because of this, new quarrels start and existing quarrels become worse. The Saṅgha does a legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
 
 
-9The Saṅgha has done a legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. The Saṅgha approves and is therefore silent. I’ll remember it thus.’”
+For the third time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. These bhikkhus Paṇḍuka and Lohitaka are quarrelsome, argumentative, and creators of legal issues in the Saṅgha. They go to other bhikkhus who are also quarrelsome, argumentative, and creators of legal issues in the Saṅgha, and they say to them:
+
+“Don’t let him beat you. Argue back forcefully. You’re wiser, more competent, more learned, and more capable than he. Don’t be afraid of him. We’ll take your side.” Because of this, new quarrels start and existing quarrels become worse. The Saṅgha does a legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+
+
+9The Saṅgha has done a legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. The Saṅgha approves and is therefore silent. I’ll remember it thus.’”
 
 #### 1.1 The group of twelve on illegitimate legal procedures
 
@@ -132,11 +132,11 @@ For the third time I speak on this matter. Please, Venerables, I ask the Saṅgh
 
 38When a monk has another three qualities, the Saṅgha may, if it wishes, do a procedure of condemnation against him: he disparages the Buddha; he disparages the Teaching; he disparages the Saṅgha.
 
-39“The Saṅgha may, if it wishes, do a procedure of condemnation against three kinds of monks: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
+39“The Saṅgha may, if it wishes, do a procedure of condemnation against three kinds of bhikkhus: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
 
-40The Saṅgha may, if it wishes, do a procedure of condemnation against another three kinds of monks: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
+40The Saṅgha may, if it wishes, do a procedure of condemnation against another three kinds of bhikkhus: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
 
-41The Saṅgha may, if it wishes, do a procedure of condemnation against another three kinds of monks: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
+41The Saṅgha may, if it wishes, do a procedure of condemnation against another three kinds of bhikkhus: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
 
 42The group of six on wishing is finished.
 
@@ -161,23 +161,23 @@ For the third time I speak on this matter. Please, Venerables, I ask the Saṅgh
 15. He shouldn’t get permission from a regular monk to correct him.
 16. He shouldn’t accuse a regular monk of an offense.
 17. He shouldn’t remind a regular monk of an offense.
-18. He shouldn’t associate inappropriately with other monks.”
+18. He shouldn’t associate inappropriately with other bhikkhus.”
 
 
 44The eighteen kinds of conduct in regard to the legal procedure of condemnation are finished.
 
 #### 1.5 The group of eighteen on not to be lifted
 
-45When the Saṅgha had done a legal procedure of condemnation against the monks Paṇḍuka and Lohitaka, they conducted themselves properly and suitably, and deserved to be released. They then went to the monks and told them about this, adding: “What should we do now?” The monks told the Buddha …
+45When the Saṅgha had done a legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka, they conducted themselves properly and suitably, and deserved to be released. They then went to the bhikkhus and told them about this, adding: “What should we do now?” The bhikkhus told the Buddha …
 
-“Well then, lift that legal procedure of condemnation against the monks Paṇḍuka and Lohitaka.
+“Well then, lift that legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka.
 
 
 46When a monk has five qualities, a legal procedure of condemnation against him shouldn’t be lifted: he gives the full ordination; he gives formal support; he has a novice monk attend on him; he accepts being appointed as an instructor of the nuns; he instructs the nuns, whether appointed or not.
 
 47When a monk has another five qualities, a procedure of condemnation against him shouldn’t be lifted: he commits the same offense for which the Saṅgha did the procedure of condemnation against him; he commits an offense similar to the one for which the Saṅgha did the procedure of condemnation against him; he commits an offense worse than the one for which the Saṅgha did the procedure of condemnation against him; he criticizes the procedure; he criticizes those who did the procedure.
 
-48When a monk has eight qualities, a procedure of condemnation against him shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other monks.”
+48When a monk has eight qualities, a procedure of condemnation against him shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other bhikkhus.”
 
 49The group of eighteen on not to be lifted is finished.
 
@@ -187,23 +187,23 @@ For the third time I speak on this matter. Please, Venerables, I ask the Saṅgh
 
 51When a monk has another five qualities, a procedure of condemnation against him should be lifted: he doesn’t commit the same offense for which the Saṅgha did the procedure of condemnation against him; he doesn’t commit an offense similar to the one for which the Saṅgha did the procedure of condemnation against him; he doesn’t commit an offense worse than the one for which the Saṅgha did the procedure of condemnation against him; he doesn’t criticize the procedure; he doesn’t criticize those who did the procedure.
 
-52When a monk has eight qualities, a procedure of condemnation against him should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other monks.”
+52When a monk has eight qualities, a procedure of condemnation against him should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other bhikkhus.”
 
 53The group of eighteen on to be lifted is finished.
 
-54“And this is how it should be lifted. After approaching the Saṅgha, the monks Paṇḍuka and Lohitaka should put their upper robes over one shoulder, pay respect at the feet of the senior monks, squat on their heels, raise their joined palms, and say:
+54“And this is how it should be lifted. After approaching the Saṅgha, the bhikkhus Paṇḍuka and Lohitaka should put their upper robes over one shoulder, pay respect at the feet of the senior bhikkhus, squat on their heels, raise their joined palms, and say:
 
 ‘Venerables, the Saṅgha has done a legal procedure of condemnation against us. We’re now conducting ourselves properly and suitably, and deserve to be released. We ask for that legal procedure to be lifted.’ And they should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
-55‘Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of condemnation against these monks Paṇḍuka and Lohitaka. They’re now conducting themselves properly and suitably, and deserve to be released. They’re asking for that legal procedure to be lifted. If it seems appropriate to the Saṅgha, the Saṅgha should lift that legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. This is the motion.
+55‘Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of condemnation against these bhikkhus Paṇḍuka and Lohitaka. They’re now conducting themselves properly and suitably, and deserve to be released. They’re asking for that legal procedure to be lifted. If it seems appropriate to the Saṅgha, the Saṅgha should lift that legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. This is the motion.
 
-56Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of condemnation against these monks Paṇḍuka and Lohitaka. They’re now conducting themselves properly and suitably, and deserve to be released. They’re asking for that legal procedure to be lifted. The Saṅgha lifts that legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. Any monk who approves of lifting that legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+56Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of condemnation against these bhikkhus Paṇḍuka and Lohitaka. They’re now conducting themselves properly and suitably, and deserve to be released. They’re asking for that legal procedure to be lifted. The Saṅgha lifts that legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. Any monk who approves of lifting that legal procedure should remain silent. Any monk who doesn’t approve should speak up.
 
-57For the second time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of condemnation against these monks Paṇḍuka and Lohitaka. They’re now conducting themselves properly and suitably, and deserve to be released. They’re asking for that legal procedure to be lifted. The Saṅgha lifts that legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. Any monk who approves of lifting that legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+57For the second time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of condemnation against these bhikkhus Paṇḍuka and Lohitaka. They’re now conducting themselves properly and suitably, and deserve to be released. They’re asking for that legal procedure to be lifted. The Saṅgha lifts that legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. Any monk who approves of lifting that legal procedure should remain silent. Any monk who doesn’t approve should speak up.
 
-58For the third time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of condemnation against these monks Paṇḍuka and Lohitaka. They’re now conducting themselves properly and suitably, and deserve to be released. They’re asking for that legal procedure to be lifted. The Saṅgha lifts that legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. Any monk who approves of lifting that legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+58For the third time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of condemnation against these bhikkhus Paṇḍuka and Lohitaka. They’re now conducting themselves properly and suitably, and deserve to be released. They’re asking for that legal procedure to be lifted. The Saṅgha lifts that legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. Any monk who approves of lifting that legal procedure should remain silent. Any monk who doesn’t approve should speak up.
 
-59The Saṅgha has lifted that legal procedure of condemnation against the monks Paṇḍuka and Lohitaka. The Saṅgha approves and is therefore silent. I’ll remember it thus.’”
+59The Saṅgha has lifted that legal procedure of condemnation against the bhikkhus Paṇḍuka and Lohitaka. The Saṅgha approves and is therefore silent. I’ll remember it thus.’”
 
 60The first section on the legal procedure of condemnation is finished.
 
@@ -217,15 +217,15 @@ For the third time I speak on this matter. Please, Venerables, I ask the Saṅgh
 > ```
 
 
-61At that time Venerable Seyyasaka was ignorant and incompetent, often committing offenses, and lacking in boundaries. And he was constantly and improperly socializing with householders. In addition, the monks regularly gave him probation, sent him back to the beginning, gave him trial periods, and rehabilitated him.
+61At that time Venerable Seyyasaka was ignorant and incompetent, often committing offenses, and lacking in boundaries. And he was constantly and improperly socializing with householders. In addition, the bhikkhus regularly gave him probation, sent him back to the beginning, gave him trial periods, and rehabilitated him.
 
 
-The monks of few desires complained and criticized him: “How can Venerable Seyyasaka go on like this?” They told the Buddha.
+The bhikkhus of few desires complained and criticized him: “How can Venerable Seyyasaka go on like this?” They told the Buddha.
 
 
-62Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+62Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the monk Seyyasaka goes on like this?”
+“Is it true, bhikkhus, that the monk Seyyasaka goes on like this?”
 
 
 “It’s true, Sir.”
@@ -233,7 +233,7 @@ The monks of few desires complained and criticized him: “How can Venerable Sey
 The Buddha rebuked him:
 
 
-“It’s not suitable for that foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can he be ignorant and incompetent, often committing offenses, and lacking in boundaries? How can he constantly and improperly socialize with householders? And how can it be that the monks regularly give him probation, send him back to the beginning, give him trial periods, and rehabilitate him? This will affect people’s confidence …” After rebuking him … the Buddha gave a teaching and addressed the monks:
+“It’s not suitable for that foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can he be ignorant and incompetent, often committing offenses, and lacking in boundaries? How can he constantly and improperly socialize with householders? And how can it be that the bhikkhus regularly give him probation, send him back to the beginning, give him trial periods, and rehabilitate him? This will affect people’s confidence …” After rebuking him … the Buddha gave a teaching and addressed the bhikkhus:
 
 “Well then, the Saṅgha should do a legal procedure of demotion against the monk Seyyasaka, instructing him to live with formal support.
 
@@ -241,11 +241,11 @@ The Buddha rebuked him:
 And this is how it should be done. First you should accuse the monk Seyyasaka. He should then be reminded of what he has done, before he’s charged with an offense. A competent and capable monk should then inform the Saṅgha:
 
 
-63‘Please, Venerables, I ask the Saṅgha to listen. This monk Seyyasaka is ignorant and incompetent, often committing offenses, and lacking in boundaries. He’s constantly and improperly socializing with householders. In addition, the monks regularly give him probation, send him back to the beginning, give him the trial period, and rehabilitate him. If it seems appropriate to the Saṅgha, the Saṅgha should do a legal procedure of demotion against the monk Seyyasaka, instructing him to live with formal support. This is the motion.
+63‘Please, Venerables, I ask the Saṅgha to listen. This monk Seyyasaka is ignorant and incompetent, often committing offenses, and lacking in boundaries. He’s constantly and improperly socializing with householders. In addition, the bhikkhus regularly give him probation, send him back to the beginning, give him the trial period, and rehabilitate him. If it seems appropriate to the Saṅgha, the Saṅgha should do a legal procedure of demotion against the monk Seyyasaka, instructing him to live with formal support. This is the motion.
 
-64Please, Venerables, I ask the Saṅgha to listen. This monk Seyyasaka is ignorant and incompetent, often committing offenses, and lacking in boundaries. He’s constantly and improperly socializing with householders. In addition, the monks regularly give him probation, send him back to the beginning, give him the trial period, and rehabilitate him. The Saṅgha does a legal procedure of demotion against the monk Seyyasaka, instructing him to live with formal support. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+64Please, Venerables, I ask the Saṅgha to listen. This monk Seyyasaka is ignorant and incompetent, often committing offenses, and lacking in boundaries. He’s constantly and improperly socializing with householders. In addition, the bhikkhus regularly give him probation, send him back to the beginning, give him the trial period, and rehabilitate him. The Saṅgha does a legal procedure of demotion against the monk Seyyasaka, instructing him to live with formal support. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
 
-65For the second time I speak on this matter. … For the third time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. This monk Seyyasaka is ignorant and incompetent, often committing offenses, and lacking in boundaries. He’s constantly and improperly socializing with householders. In addition, the monks regularly give him probation, send him back to the beginning, give him the trial period, and rehabilitate him. The Saṅgha does a legal procedure of demotion against the monk Seyyasaka, instructing him to live with formal support. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+65For the second time I speak on this matter. … For the third time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. This monk Seyyasaka is ignorant and incompetent, often committing offenses, and lacking in boundaries. He’s constantly and improperly socializing with householders. In addition, the bhikkhus regularly give him probation, send him back to the beginning, give him the trial period, and rehabilitate him. The Saṅgha does a legal procedure of demotion against the monk Seyyasaka, instructing him to live with formal support. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
 
 66The Saṅgha has done a legal procedure of demotion against the monk Seyyasaka, instructing him to live with formal support. The Saṅgha approves and is therefore silent. I’ll remember it thus.’”
 
@@ -319,11 +319,11 @@ And this is how it should be done. First you should accuse the monk Seyyasaka. H
 
 95When a monk has another three qualities, the Saṅgha may, if it wishes, do a procedure of demotion against him: he disparages the Buddha; he disparages the Teaching; he disparages the Saṅgha.
 
-96“The Saṅgha may, if it wishes, do a procedure of demotion against three kinds of monks: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
+96“The Saṅgha may, if it wishes, do a procedure of demotion against three kinds of bhikkhus: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
 
-97The Saṅgha may, if it wishes, do a procedure of demotion against another three kinds of monks: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
+97The Saṅgha may, if it wishes, do a procedure of demotion against another three kinds of bhikkhus: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
 
-98The Saṅgha may, if it wishes, do a procedure of demotion against another three kinds of monks: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
+98The Saṅgha may, if it wishes, do a procedure of demotion against another three kinds of bhikkhus: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
 
 99The group of six on wishing is finished.
 
@@ -348,11 +348,11 @@ And this is how it should be done. First you should accuse the monk Seyyasaka. H
 15. He shouldn’t get permission from a regular monk to correct him.
 16. He shouldn’t accuse a regular monk of an offense.
 17. He shouldn’t remind a regular monk of an offense.
-18. He shouldn’t associate inappropriately with other monks.”
+18. He shouldn’t associate inappropriately with other bhikkhus.”
 
 101The eighteen kinds of conduct in regard to the legal procedure of demotion are finished.
 
-102Soon the Saṅgha did a legal procedure of demotion against the monk Seyyasaka, instructing him to live with formal support. Then, by associating with good friends, by having them recite, and by questioning them, he became learned and a master of the tradition; he became an expert on the Teaching, the Monastic Law, and the Key Terms; he became knowledgeable and competent, had a sense of conscience, and was afraid of wrongdoing and fond of the training. And he conducted himself properly and suitably, and deserved to be released. He then went to the monks and told them about this, adding: “What should I do now?” The monks told the Buddha. He had the monks gathered and said:
+102Soon the Saṅgha did a legal procedure of demotion against the monk Seyyasaka, instructing him to live with formal support. Then, by associating with good friends, by having them recite, and by questioning them, he became learned and a master of the tradition; he became an expert on the Teaching, the Monastic Law, and the Key Terms; he became knowledgeable and competent, had a sense of conscience, and was afraid of wrongdoing and fond of the training. And he conducted himself properly and suitably, and deserved to be released. He then went to the bhikkhus and told them about this, adding: “What should I do now?” The bhikkhus told the Buddha. He had the bhikkhus gathered and said:
 
 
 “Well then, lift that legal procedure of demotion against the monk Seyyasaka.”
@@ -363,7 +363,7 @@ And this is how it should be done. First you should accuse the monk Seyyasaka. H
 
 104When a monk has another five qualities, a procedure of demotion against him shouldn’t be lifted: he commits the same offense for which the Saṅgha did the procedure of demotion against him; he commits an offense similar to the one for which the Saṅgha did the procedure of demotion against him; he commits an offense worse than the one for which the Saṅgha did the procedure of demotion against him; he criticizes the procedure; he criticizes those who did the procedure.
 
-105When a monk has eight qualities, a legal procedure of demotion against him shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other monks.”
+105When a monk has eight qualities, a legal procedure of demotion against him shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other bhikkhus.”
 
 106The group of eighteen on not to be lifted is finished.
 
@@ -373,11 +373,11 @@ And this is how it should be done. First you should accuse the monk Seyyasaka. H
 
 108When a monk has another five qualities, a procedure of demotion against him should be lifted: he doesn’t commit the same offense for which the Saṅgha did the procedure of demotion against him; he doesn’t commit an offense similar to the one for which the Saṅgha did the procedure of demotion against him; he doesn’t commit an offense worse than the one for which the Saṅgha did the procedure of demotion against him; he doesn’t criticize the procedure; he doesn’t criticize those who did the procedure.
 
-109When a monk has eight qualities, a procedure of demotion against him should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other monks.”
+109When a monk has eight qualities, a procedure of demotion against him should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other bhikkhus.”
 
 110The group of eighteen on to be lifted is finished.
 
-111“And this is how it should be lifted. After approaching the Saṅgha, the monk Seyyasaka should put his upper robes over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of demotion against me. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
+111“And this is how it should be lifted. After approaching the Saṅgha, the monk Seyyasaka should put his upper robes over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of demotion against me. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
 112‘Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of demotion against the monk Seyyasaka. He’s now conducting himself properly and suitably, and deserves to be released. He’s asking for that legal procedure to be lifted. If it seems appropriate to the Saṅgha, the Saṅgha should lift that legal procedure of demotion against the monk Seyyasaka. This is the motion.
 
@@ -402,7 +402,7 @@ And this is how it should be done. First you should accuse the monk Seyyasaka. H
 > ```
 
 
-118At one time the bad and shameless monks Assaji and Punabbasuka were staying at Kīṭāgiri. They were misbehaving in many ways.
+118At one time the bad and shameless bhikkhus Assaji and Punabbasuka were staying at Kīṭāgiri. They were misbehaving in many ways.
 
 They planted flowering trees, watered and plucked them, and then tied the flowers together. They made the flowers into garlands, garlands with stalks on one side and garlands with stalks on both sides. They made flower arrangements, wreaths, ornaments for the head, ornaments for the ears, and ornaments for the chest. And they had others do the same. They then took these things, or sent them, to the women, the daughters, the girls, the daughters-in-law, and the female slaves of respectable families.
 
@@ -431,12 +431,12 @@ He took that monk to his house and gave him a meal. He then said: “Where are y
 “I’m going to Sāvatthī to see the Buddha.”
 
 
-“Well then, would you please pay respect at the feet of the Buddha in my name and say, ‘Venerable Sir, the monastery at Kīṭāgiri has been corrupted. The bad and shameless monks Assaji and Punabbasuka are staying there. And they’re misbehaving in many ways. They plant flowering trees, water them …
+“Well then, would you please pay respect at the feet of the Buddha in my name and say, ‘Venerable Sir, the monastery at Kīṭāgiri has been corrupted. The bad and shameless bhikkhus Assaji and Punabbasuka are staying there. And they’re misbehaving in many ways. They plant flowering trees, water them …
 
-And they misbehave in a variety of ways. Those who previously had faith and confidence have now lost it, and there’s no longer any support for the Saṅgha. The good monks have left and the bad monks are staying on. Sir, please send monks to stay at the monastery in Kīṭāgiri.’”
+And they misbehave in a variety of ways. Those who previously had faith and confidence have now lost it, and there’s no longer any support for the Saṅgha. The good bhikkhus have left and the bad bhikkhus are staying on. Sir, please send bhikkhus to stay at the monastery in Kīṭāgiri.’”
 
 
-The monk consented, got up, and set out for Sāvatthī. When he eventually arrived, he went to the Buddha in Anāthapiṇḍika’s Monastery. He bowed to the Buddha and sat down. Since it is the custom for Buddhas to greet newly arrived monks, the Buddha said to him:
+The monk consented, got up, and set out for Sāvatthī. When he eventually arrived, he went to the Buddha in Anāthapiṇḍika’s Monastery. He bowed to the Buddha and sat down. Since it is the custom for Buddhas to greet newly arrived bhikkhus, the Buddha said to him:
 
 “I hope you are keeping well, monk, I hope you’re getting by. I hope you’re not tired from traveling. And where have you come from?”
 
@@ -444,9 +444,9 @@ The monk consented, got up, and set out for Sāvatthī. When he eventually arriv
 “I’m keeping well, Venerable Sir, I’m getting by. I’m not tired from traveling.” He then told the Buddha all that had happened at Kīṭāgiri, adding: “That’s where I’ve come from, Sir.”
 
 
-123Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+123Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the bad and shameless monks Assaji and Punabbasuka are staying at Kīṭāgiri and misbehaving in this way? And is it true that those people who previously had faith and confidence have now lost it, that there’s no longer any support for the Saṅgha, and that the good monks have left and the bad monks are staying on?”
+“Is it true, bhikkhus, that the bad and shameless bhikkhus Assaji and Punabbasuka are staying at Kīṭāgiri and misbehaving in this way? And is it true that those people who previously had faith and confidence have now lost it, that there’s no longer any support for the Saṅgha, and that the good bhikkhus have left and the bad bhikkhus are staying on?”
 
 “It’s true, Sir.”
 
@@ -454,26 +454,26 @@ The monk consented, got up, and set out for Sāvatthī. When he eventually arriv
 The Buddha rebuked them: “It’s not suitable … How can those foolish men misbehave in this way? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed Sāriputta and Moggallāna:
 
 
-“Go to Kīṭāgiri and do a legal procedure of banishing the monks Assaji and Punabbasuka. They’re your students.”
+“Go to Kīṭāgiri and do a legal procedure of banishing the bhikkhus Assaji and Punabbasuka. They’re your students.”
 
-124“Sir, how can we do a procedure of banishing these monks from Kīṭāgiri? They’re temperamental and harsh.”
+124“Sir, how can we do a procedure of banishing these bhikkhus from Kīṭāgiri? They’re temperamental and harsh.”
 
-“Well then, take many monks.”
+“Well then, take many bhikkhus.”
 
 
 “Alright.”
 
 
-“And this is how it should be done. First you should accuse the monks Assaji and Punabbasuka. They should then be reminded of what they’ve done, before they’re charged with an offense. A competent and capable monk should then inform the Saṅgha:
+“And this is how it should be done. First you should accuse the bhikkhus Assaji and Punabbasuka. They should then be reminded of what they’ve done, before they’re charged with an offense. A competent and capable monk should then inform the Saṅgha:
 
-125‘Please, Venerables, I ask the Saṅgha to listen. These monks, Assaji and Punabbasuka, are corrupters of families and badly behaved. Their bad behavior is seen and heard about, and the families corrupted by them are seen and heard about. If it seems appropriate to the Saṅgha, the Saṅgha should do a legal procedure of banishing them, prohibiting the monks Assaji and Punabbasuka from staying at Kīṭāgiri. This is the motion.
+125‘Please, Venerables, I ask the Saṅgha to listen. These bhikkhus, Assaji and Punabbasuka, are corrupters of families and badly behaved. Their bad behavior is seen and heard about, and the families corrupted by them are seen and heard about. If it seems appropriate to the Saṅgha, the Saṅgha should do a legal procedure of banishing them, prohibiting the bhikkhus Assaji and Punabbasuka from staying at Kīṭāgiri. This is the motion.
 
-126Please, Venerables, I ask the Saṅgha to listen. These monks, Assaji and Punabbasuka, are corrupters of families and badly behaved. Their bad behavior is seen and heard about, and the families corrupted by them are seen and heard about. The Saṅgha does a legal procedure of banishing them, prohibiting the monks Assaji and Punabbasuka from staying at Kīṭāgiri. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+126Please, Venerables, I ask the Saṅgha to listen. These bhikkhus, Assaji and Punabbasuka, are corrupters of families and badly behaved. Their bad behavior is seen and heard about, and the families corrupted by them are seen and heard about. The Saṅgha does a legal procedure of banishing them, prohibiting the bhikkhus Assaji and Punabbasuka from staying at Kīṭāgiri. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
 
 
-127For the second time I speak on this matter … For the third time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. These monks, Assaji and Punabbasuka, are corrupters of families and badly behaved. Their bad behavior is seen and heard about, and the families corrupted by them are seen and heard about. The Saṅgha does a legal procedure of banishing them, prohibiting the monks Assaji and Punabbasuka from staying at Kīṭāgiri. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
+127For the second time I speak on this matter … For the third time I speak on this matter. Please, Venerables, I ask the Saṅgha to listen. These bhikkhus, Assaji and Punabbasuka, are corrupters of families and badly behaved. Their bad behavior is seen and heard about, and the families corrupted by them are seen and heard about. The Saṅgha does a legal procedure of banishing them, prohibiting the bhikkhus Assaji and Punabbasuka from staying at Kīṭāgiri. Any monk who approves of doing this legal procedure should remain silent. Any monk who doesn’t approve should speak up.
 
-128The Saṅgha has done the legal procedure of banishing the monks Assaji and Punabbasuka, prohibiting them from staying at Kīṭāgiri. The Saṅgha approves and is therefore silent. I’ll remember it thus.’”
+128The Saṅgha has done the legal procedure of banishing the bhikkhus Assaji and Punabbasuka, prohibiting them from staying at Kīṭāgiri. The Saṅgha approves and is therefore silent. I’ll remember it thus.’”
 
 #### 3.1 The group of twelve on illegitimate legal procedures
 
@@ -551,19 +551,19 @@ When a procedure of banishment has another three qualities, it’s also legitima
 
 141When a monk has another three qualities, the Saṅgha may, if it wishes, do a procedure of banishing him: he has wrong livelihood by body; he has wrong livelihood by speech; he has wrong livelihood by body and speech.
 
-142“The Saṅgha may, if it wishes, do a procedure of banishment against three kinds of monks: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
+142“The Saṅgha may, if it wishes, do a procedure of banishment against three kinds of bhikkhus: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
 
-143The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of monks: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
+143The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of bhikkhus: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
 
-144The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of monks: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.
+144The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of bhikkhus: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.
 
-145“The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of monks: those who are frivolous in bodily conduct; those who are frivolous in verbal conduct; those who are frivolous in bodily and verbal conduct.
+145“The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of bhikkhus: those who are frivolous in bodily conduct; those who are frivolous in verbal conduct; those who are frivolous in bodily and verbal conduct.
 
-146The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of monks: those who are improperly behaved by body; those who are improperly behaved by speech; those who are improperly behaved by body and speech.
+146The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of bhikkhus: those who are improperly behaved by body; those who are improperly behaved by speech; those who are improperly behaved by body and speech.
 
-147The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of monks: those whose bodily conduct is harmful; those whose verbal conduct is harmful; those whose bodily and verbal conduct are harmful.
+147The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of bhikkhus: those whose bodily conduct is harmful; those whose verbal conduct is harmful; those whose bodily and verbal conduct are harmful.
 
-148The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of monks: those who have wrong livelihood by body; those who have wrong livelihood by speech; those who have wrong livelihood by body and speech.”
+148The Saṅgha may, if it wishes, do a procedure of banishment against another three kinds of bhikkhus: those who have wrong livelihood by body; those who have wrong livelihood by speech; those who have wrong livelihood by body and speech.”
 
 149The group of fourteen on wishing is finished.
 
@@ -588,23 +588,23 @@ When a procedure of banishment has another three qualities, it’s also legitima
 15. He shouldn’t get permission from a regular monk to correct him.
 16. He shouldn’t accuse a regular monk of an offense.
 17. He shouldn’t remind a regular monk of an offense.
-18. He shouldn’t associate inappropriately with other monks.”
+18. He shouldn’t associate inappropriately with other bhikkhus.”
 
 
 151The eighteen kinds of conduct in regard to the legal procedure of banishment are finished.
 
 
-152Soon afterwards a saṅgha of monks, headed by Sāriputta and Moggallāna, went to Kīṭāgiri and did the legal procedure of banishing the monks Assaji and Punabbasuka, prohibiting them from staying at Kīṭāgiri. Even so, they did not conduct themselves properly or suitably so as to deserve to be released, nor did they ask the monks for forgiveness. Instead they abused and reviled them, and they slandered them as acting from desire, ill will, confusion, and fear. And they left and they disrobed. The monks of few desires complained and criticized them: “How can these monks act like this when the Saṅgha has done a legal procedure of banishing them?”
+152Soon afterwards a saṅgha of bhikkhus, headed by Sāriputta and Moggallāna, went to Kīṭāgiri and did the legal procedure of banishing the bhikkhus Assaji and Punabbasuka, prohibiting them from staying at Kīṭāgiri. Even so, they did not conduct themselves properly or suitably so as to deserve to be released, nor did they ask the bhikkhus for forgiveness. Instead they abused and reviled them, and they slandered them as acting from desire, ill will, confusion, and fear. And they left and they disrobed. The bhikkhus of few desires complained and criticized them: “How can these bhikkhus act like this when the Saṅgha has done a legal procedure of banishing them?”
 
 They told the Buddha.
 
 
-153Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks: “Is it true, monks, that the monks Assaji and Punabbasuka are acting like this?”
+153Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that the bhikkhus Assaji and Punabbasuka are acting like this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked them … “It’s not suitable … How can those foolish men act like this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the monks:
+The Buddha rebuked them … “It’s not suitable … How can those foolish men act like this? This will affect people’s confidence …” After rebuking them … he gave a teaching and addressed the bhikkhus:
 
 
 “Well then, don’t lift that legal procedure of banishment.”
@@ -615,7 +615,7 @@ The Buddha rebuked them … “It’s not suitable … How can those foolish men
 
 155When a monk has another five qualities, a procedure of banishing him shouldn’t be lifted: he commits the same offense for which the Saṅgha did the procedure of banishing him; he commits an offense similar to the one for which the Saṅgha did the procedure of banishing him; he commits an offense worse than the one for which the Saṅgha did the procedure of banishing him; he criticizes the procedure; he criticizes those who did the procedure.
 
-156When a monk has eight qualities, a procedure of banishing him shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other monks.”
+156When a monk has eight qualities, a procedure of banishing him shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other bhikkhus.”
 
 157The group of eighteen on not to be lifted is finished.
 
@@ -625,11 +625,11 @@ The Buddha rebuked them … “It’s not suitable … How can those foolish men
 
 159When a monk has another five qualities, a procedure of banishing him should be lifted: he doesn’t commit the same offense for which the Saṅgha did the procedure of banishing him; he doesn’t commit an offense similar to the one for which the Saṅgha did the procedure of banishing him; he doesn’t commit an offense worse than the one for which the Saṅgha did the procedure of banishing him; he doesn’t criticize the procedure; he doesn’t criticize those who did the procedure.
 
-160When a monk has eight qualities, a procedure of banishing him should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other monks.”
+160When a monk has eight qualities, a procedure of banishing him should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other bhikkhus.”
 
 161The group of eighteen on to be lifted is finished.
 
-162“And this is how it should be lifted. After approaching the Saṅgha, the monk who’s had a legal procedure of banishment done against himself should put his upper robes over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of banishing me. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
+162“And this is how it should be lifted. After approaching the Saṅgha, the monk who’s had a legal procedure of banishment done against himself should put his upper robes over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of banishing me. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
 163‘Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of banishing monk so-and-so. He’s now conducting himself properly and suitably, and deserves to be released. He’s asking for that legal procedure to be lifted. If it seems appropriate to the Saṅgha, the Saṅgha should lift that legal procedure of banishing him. This is the motion.
 
@@ -651,9 +651,9 @@ The Buddha rebuked them … “It’s not suitable … How can those foolish men
 > ```
 
 
-168At one time Venerable Sudhamma was the staying at the householder Citta’s monastery at Macchikāsaṇḍa. He was in charge of the building work and received a regular supply of food. Whenever Citta wanted to invite the Saṅgha, a group of monks, or an individual monk, he would not do so without getting permission from Sudhamma.
+168At one time Venerable Sudhamma was the staying at the householder Citta’s monastery at Macchikāsaṇḍa. He was in charge of the building work and received a regular supply of food. Whenever Citta wanted to invite the Saṅgha, a group of bhikkhus, or an individual monk, he would not do so without getting permission from Sudhamma.
 
-169On one occasion a number of senior monks—Venerable Sāriputta, Venerable Mahāmoggallāna, Venerable Mahākaccāna, Venerable Mahākoṭṭhika, Venerable Mahākappina, Venerable Mahācunda, Venerable Anuruddha, Venerable Revata, Venerable Upāli, Venerable Ānanda, Venerable Rāhula—were wandering in Kāsī, when they arrived at Macchikāsaṇḍa.
+169On one occasion a number of senior bhikkhus—Venerable Sāriputta, Venerable Mahāmoggallāna, Venerable Mahākaccāna, Venerable Mahākoṭṭhika, Venerable Mahākappina, Venerable Mahācunda, Venerable Anuruddha, Venerable Revata, Venerable Upāli, Venerable Ānanda, Venerable Rāhula—were wandering in Kāsī, when they arrived at Macchikāsaṇḍa.
 
 
 170When Citta heard that they had arrived, he went to them, bowed, and sat down. After Sāriputta had instructed, inspired, and gladdened Citta with a teaching,
@@ -663,10 +663,10 @@ The Buddha rebuked them … “It’s not suitable … How can those foolish men
 
 172When he knew that they had accepted, Citta got up from his seat, bowed down, circumambulated them with his right side toward them, and went to Sudhamma. He bowed to him and said:
 
-“Venerable, please accept tomorrow’s meal from me together with the senior monks.”
+“Venerable, please accept tomorrow’s meal from me together with the senior bhikkhus.”
 
 
-Sudhamma thought: “Previously when Citta wanted to invite the Saṅgha, a group of monks, or an individual monk, he wouldn’t do so without getting my permission. But now he has. He’s been corrupted, this Citta. He’s uninterested and has no affection for me.” He said to Citta:
+Sudhamma thought: “Previously when Citta wanted to invite the Saṅgha, a group of bhikkhus, or an individual monk, he wouldn’t do so without getting my permission. But now he has. He’s been corrupted, this Citta. He’s uninterested and has no affection for me.” He said to Citta:
 
 “There’s no need. I won’t accept.”
 
@@ -677,7 +677,7 @@ Citta asked him a second and a third time, but got the same reply.
 He thought: “What difference does it make to me whether Sudhamma accepts or not?” He then bowed, circumambulated Sudhamma with his right side toward him, and left.
 
 
-173The following morning Citta prepared various kinds of fine food for the senior monks. Sudhamma thought: “Why don’t I go and see what Citta has prepared for the senior monks?” He then robed up, took his bowl and robe, and went to Citta’s house, where he sat down on the prepared seat. Citta approached Sudhamma, bowed, and sat down. And Sudhamma said to him:
+173The following morning Citta prepared various kinds of fine food for the senior bhikkhus. Sudhamma thought: “Why don’t I go and see what Citta has prepared for the senior bhikkhus?” He then robed up, took his bowl and robe, and went to Citta’s house, where he sat down on the prepared seat. Citta approached Sudhamma, bowed, and sat down. And Sudhamma said to him:
 
 “You have prepared many kinds of food. But there’s one that’s missing: sesame cookies.”
 
@@ -697,7 +697,7 @@ Sudhamma repeated what he had said a second time and Citta responded as before. 
 
 174Sudhamma put his dwelling in order, took his bowl and robe, and left for Sāvatthī. When he eventually arrived, he went to the Buddha in Anāthapiṇḍika’s Monastery. He bowed to the Buddha, sat down, and told him about the conversation he had had with Citta.
 
-175The Buddha rebuked him: “It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you demean and insult Citta, who has faith and confidence, who’s a donor, benefactor, and supporter of the Saṅgha? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+175The Buddha rebuked him: “It’s not suitable, foolish man, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How can you demean and insult Citta, who has faith and confidence, who’s a donor, benefactor, and supporter of the Saṅgha? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 
 “Well then, do a legal procedure of reconciliation against the monk Sudhamma, instructing him to ask Citta for forgiveness. And it should be done like this. First you should accuse the monk Sudhamma. He should then be reminded of what he has done, before he’s charged with an offense. A competent and capable monk should then inform the Saṅgha:
@@ -776,9 +776,9 @@ When a procedure of reconciliation has another three qualities, it’s also legi
 
 187When a monk has another five qualities, the Saṅgha may, if it wishes, do a procedure of reconciliation against him: he disparages the Buddha to householders; he disparages the Teaching to householders; he disparages the Saṅgha to householders; he demeans and insults householders; he doesn’t fulfill legitimate promises to householders.
 
-188“The Saṅgha may, if it wishes, do a procedure of reconciliation against five kinds of monks: those who are trying to stop householders from acquiring material gain; those who are trying to harm householders; those who are trying to get householders to lose their place of residence; those who abuse and revile householders; those who cause division between householders.
+188“The Saṅgha may, if it wishes, do a procedure of reconciliation against five kinds of bhikkhus: those who are trying to stop householders from acquiring material gain; those who are trying to harm householders; those who are trying to get householders to lose their place of residence; those who abuse and revile householders; those who cause division between householders.
 
-189The Saṅgha may, if it wishes, do a procedure of reconciliation against another five kinds of monks: those who disparage the Buddha to householders; those who disparage the Teaching to householders; those who disparage the Saṅgha to householders; those who demean and insult householders; those who don’t fulfill legitimate promises to householders.”
+189The Saṅgha may, if it wishes, do a procedure of reconciliation against another five kinds of bhikkhus: those who disparage the Buddha to householders; those who disparage the Teaching to householders; those who disparage the Saṅgha to householders; those who demean and insult householders; those who don’t fulfill legitimate promises to householders.”
 
 190The group of four on wishing is finished.
 
@@ -803,12 +803,12 @@ When a procedure of reconciliation has another three qualities, it’s also legi
 15. He shouldn’t get permission from a regular monk to correct him.
 16. He shouldn’t accuse a regular monk of an offense.
 17. He shouldn’t remind a regular monk of an offense.
-18. He shouldn’t associate inappropriately with other monks.”
+18. He shouldn’t associate inappropriately with other bhikkhus.”
 
 
 192The eighteen kinds of conduct in regard to the legal procedure of reconciliation are finished.
 
-193Soon afterwards the Saṅgha did a legal procedure of reconciliation against the monk Sudhamma, instructing him to ask Citta for forgiveness. He went to Macchikāsaṇḍa, but feeling humiliated, he was unable to ask Citta for forgiveness. He returned to Sāvatthī. The monks asked him if he had asked Citta for forgiveness, and he told them what had happened. The monks told the Buddha. He had the monks gathered and said:
+193Soon afterwards the Saṅgha did a legal procedure of reconciliation against the monk Sudhamma, instructing him to ask Citta for forgiveness. He went to Macchikāsaṇḍa, but feeling humiliated, he was unable to ask Citta for forgiveness. He returned to Sāvatthī. The bhikkhus asked him if he had asked Citta for forgiveness, and he told them what had happened. The bhikkhus told the Buddha. He had the bhikkhus gathered and said:
 
 “Well then, the Saṅgha should give a companion messenger to Sudhamma to ask Citta for forgiveness. And this is how the messenger should be given. First you should ask a monk, and then a competent and capable monk should inform the Saṅgha:
 
@@ -820,7 +820,7 @@ When a procedure of reconciliation has another three qualities, it’s also legi
 
 197“Sudhamma should now go to Macchikāsaṇḍa with that monk as a companion messenger to ask Citta for forgiveness, saying, ‘Please forgive me, householder; I wish to reconcile with you.’ If he forgives, all is well. If not, the companion messenger should say, ‘Please forgive this monk, householder; he wishes to reconcile with you.’ If he forgives, all is well. If not, the companion messenger should say, ‘Please forgive this monk, householder; I wish to reconcile with you.’ If he forgives, all is well. If not, the companion messenger should say, ‘Please forgive this monk, householder; I ask in the name of the Saṅgha.’ If he forgives, all is well. If not, then within sight and hearing of Citta, the monk Sudhamma should put his upper robe over one shoulder, squat on his heels, raise his joined palms, and confess that offense.”
 
-198Soon afterwards Sudhamma went to Macchikāsaṇḍa with a monk as a companion messenger, and he asked Citta for forgiveness. And he conducted himself properly and suitably, and deserved to be released. He then went to the monks and told them about this, adding: “What should I do now?” The monks told the Buddha. He had the monks gathered and said:
+198Soon afterwards Sudhamma went to Macchikāsaṇḍa with a monk as a companion messenger, and he asked Citta for forgiveness. And he conducted himself properly and suitably, and deserved to be released. He then went to the bhikkhus and told them about this, adding: “What should I do now?” The bhikkhus told the Buddha. He had the bhikkhus gathered and said:
 
 “Well then, lift that legal procedure of reconciliation against Sudhamma.”
 
@@ -830,7 +830,7 @@ When a procedure of reconciliation has another three qualities, it’s also legi
 
 200When a monk has another five qualities, a procedure of reconciliation against him shouldn’t be lifted: he commits the same offense for which the Saṅgha did the procedure of reconciliation against him; he commits an offense similar to the one for which the Saṅgha did the procedure of reconciliation against him; he commits an offense worse than the one for which the Saṅgha did the procedure of reconciliation against him; he criticizes the procedure; he criticizes those who did the procedure.
 
-201When a monk has eight qualities, a procedure of reconciliation against him shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other monks.”
+201When a monk has eight qualities, a procedure of reconciliation against him shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other bhikkhus.”
 
 202The group of eighteen on not to be lifted is finished.
 
@@ -840,11 +840,11 @@ When a procedure of reconciliation has another three qualities, it’s also legi
 
 204When a monk has another five qualities, a procedure of reconciliation against him should be lifted: he doesn’t commit the same offense for which the Saṅgha did the procedure of reconciliation against him; he doesn’t commit an offense similar to the one for which the Saṅgha did the procedure of reconciliation against him; he doesn’t commit an offense worse than the one for which the Saṅgha did the procedure of reconciliation against him; he doesn’t criticize the procedure; he doesn’t criticize those who did the procedure.
 
-205When a monk has eight qualities, a procedure of reconciliation against him should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other monks.”
+205When a monk has eight qualities, a procedure of reconciliation against him should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other bhikkhus.”
 
 206The group of eighteen on to be lifted is finished.
 
-207“And this is how it should be lifted. The monk Sudhamma should approach the Saṅgha, put his upper robes over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of reconciliation against me. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
+207“And this is how it should be lifted. The monk Sudhamma should approach the Saṅgha, put his upper robes over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of reconciliation against me. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
 208‘Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of reconciliation against the monk Sudhamma. He’s now conducting himself properly and suitably, and deserves to be released. He’s asking for that legal procedure to be lifted. If it seems appropriate to the Saṅgha, the Saṅgha should lift that legal procedure of reconciliation against him. This is the motion.
 
@@ -866,10 +866,10 @@ When a procedure of reconciliation has another three qualities, it’s also legi
 > ```
 
 
-213At one time the Buddha was staying at Kosambī in Ghosita’s Monastery. At that time Venerable Channa had committed an offense, but refused to recognize it. The monks of few desires complained and criticized him: “How can Venerable Channa commit an offense, but then refuse to recognize it?” They told the Buddha.
+213At one time the Buddha was staying at Kosambī in Ghosita’s Monastery. At that time Venerable Channa had committed an offense, but refused to recognize it. The bhikkhus of few desires complained and criticized him: “How can Venerable Channa commit an offense, but then refuse to recognize it?” They told the Buddha.
 
 
-214Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks: “Is it true, monks, that Channa is acting like this?”
+214Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that Channa is acting like this?”
 
 “It’s true, Sir.”
 
@@ -877,7 +877,7 @@ When a procedure of reconciliation has another three qualities, it’s also legi
 The Buddha rebuked him:
 
 
-“It’s not suitable … How can Channa commit an offense, but then refuse to recognize it? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+“It’s not suitable … How can Channa commit an offense, but then refuse to recognize it? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 “Well then, the Saṅgha should do a legal procedure of ejecting the monk Channa for not recognizing an offense, prohibiting him from living with the Saṅgha.
 
@@ -891,7 +891,7 @@ And this is how it should be done. First you should accuse the monk Channa. He s
 
 218The Saṅgha has done the legal procedure of ejecting Channa for not recognizing an offense, prohibiting him from living with the Saṅgha. The Saṅgha approves and is therefore silent. I’ll remember it thus.’
 
-219Monks, you should proclaim from monastery to monastery that the Saṅgha has done a legal procedure of ejecting Channa for not recognizing an offense, prohibiting him from living with the Saṅgha.”
+219bhikkhus, you should proclaim from monastery to monastery that the Saṅgha has done a legal procedure of ejecting Channa for not recognizing an offense, prohibiting him from living with the Saṅgha.”
 
 #### 5.1 The group of twelve on illegitimate legal procedures
 
@@ -961,11 +961,11 @@ When a procedure of ejection for not recognizing an offense has another three qu
 
 228When a monk has another three qualities, the Saṅgha may, if it wishes, do a procedure of ejecting him for not recognizing an offense: he disparages the Buddha; he disparages the Teaching; he disparages the Saṅgha.
 
-229“The Saṅgha may, if it wishes, do a procedure of ejection for not recognizing an offense against three kinds of monks: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
+229“The Saṅgha may, if it wishes, do a procedure of ejection for not recognizing an offense against three kinds of bhikkhus: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
 
-230The Saṅgha may, if it wishes, do a procedure of ejection for not recognizing an offense against another three kinds of monks: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
+230The Saṅgha may, if it wishes, do a procedure of ejection for not recognizing an offense against another three kinds of bhikkhus: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
 
-231The Saṅgha may, if it wishes, do a procedure of ejection for not recognizing an offense against another three kinds of monks: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
+231The Saṅgha may, if it wishes, do a procedure of ejection for not recognizing an offense against another three kinds of bhikkhus: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
 
 232The group of six on wishing in regard to a procedure of ejection for not recognizing an offense is finished.
 
@@ -997,12 +997,12 @@ When a procedure of ejection for not recognizing an offense has another three qu
 22. He shouldn’t charge a regular monk with failure in conduct.
 23. He shouldn’t charge a regular monk with failure in view.
 24. He shouldn’t charge a regular monk with failure in livelihood.
-25. He shouldn’t cause division between monks.
+25. He shouldn’t cause division between bhikkhus.
 26. He shouldn’t wear lay clothes.
 27. He shouldn’t wear the robes of the monastics of other religions.
 28. He shouldn’t associate with the monastics of other religions.
-29. He should associate with monks.
-30. He should train in the monks’ training.
+29. He should associate with bhikkhus.
+30. He should train in the bhikkhus’ training.
 31. He shouldn’t stay in the same room in a monastery as a regular monk.
 32. He shouldn’t stay in the same room in a non-monastery as a regular monk.
 33. He shouldn’t stay in the same room in a monastery or a non-monastery as a regular monk.
@@ -1015,13 +1015,13 @@ When a procedure of ejection for not recognizing an offense has another three qu
 40. He shouldn’t get permission from a regular monk to correct him.
 41. He shouldn’t accuse a regular monk of an offense.
 42. He shouldn’t remind a regular monk of an offense.
-43. He shouldn’t associate inappropriately with other monks.”
+43. He shouldn’t associate inappropriately with other bhikkhus.”
 
 234The forty-three kinds of conduct in regard to the legal procedure of ejection for not recognizing an offense are finished.
 
-235Soon afterwards the Saṅgha did a legal procedure of ejecting the monk Channa for not recognizing an offense, prohibiting him from living with the Saṅgha. He then left that monastery and went to another one. The monks there did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and went to yet another one. There too the monks did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and went to yet another one. There too the monks did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and returned to Kosambī.
+235Soon afterwards the Saṅgha did a legal procedure of ejecting the monk Channa for not recognizing an offense, prohibiting him from living with the Saṅgha. He then left that monastery and went to another one. The bhikkhus there did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and went to yet another one. There too the bhikkhus did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and went to yet another one. There too the bhikkhus did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and returned to Kosambī.
 
-He then conducted himself properly and suitably, and deserved to be released. He went to the monks and told them about this, adding: “What should I do now?” The monks told the Buddha. He had the monks gathered and said: “Well then, lift that legal procedure of ejecting the monk Channa for not recognizing an offense.”
+He then conducted himself properly and suitably, and deserved to be released. He went to the bhikkhus and told them about this, adding: “What should I do now?” The bhikkhus told the Buddha. He had the bhikkhus gathered and said: “Well then, lift that legal procedure of ejecting the monk Channa for not recognizing an offense.”
 
 #### 5.5 The group of forty-three on not to be lifted
 
@@ -1033,13 +1033,13 @@ He then conducted himself properly and suitably, and deserved to be released. He
 
 239When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense shouldn’t be lifted: he consents to a regular monk offering him a bed; he consents to a regular monk offering him water for washing his feet and a foot stool; he consents to a regular monk offering him a foot scraper; he consents to a regular monk receiving his bowl and robe; he consents to a regular monk massaging his back when bathing.
 
-240When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense shouldn’t be lifted: he charges a regular monk with failure in morality; he charges a regular monk with failure in conduct; he charges a regular monk with failure in view; he charges a regular monk with failure in livelihood; he causes division between monks.
+240When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense shouldn’t be lifted: he charges a regular monk with failure in morality; he charges a regular monk with failure in conduct; he charges a regular monk with failure in view; he charges a regular monk with failure in livelihood; he causes division between bhikkhus.
 
-241When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense shouldn’t be lifted: he wears lay clothes; he wears the robes of the monastics of other religions; he associates with the monastics of other religions; he doesn’t associate with monks; he doesn’t train in the monks’ training.
+241When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense shouldn’t be lifted: he wears lay clothes; he wears the robes of the monastics of other religions; he associates with the monastics of other religions; he doesn’t associate with bhikkhus; he doesn’t train in the bhikkhus’ training.
 
 242When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense shouldn’t be lifted: he stays in the same room in a monastery as a regular monk; he stays in the same room in a non-monastery as a regular monk; he stays in the same room in a monastery or a non-monastery as a regular monk; he doesn’t get up from his seat when he sees a regular monk; he dismisses a regular monk, whether indoors or outdoors.
 
-243When a monk has eight qualities, a procedure of ejecting him for not recognizing an offense shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other monks.”
+243When a monk has eight qualities, a procedure of ejecting him for not recognizing an offense shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other bhikkhus.”
 
 244The group of forty-three on not to be lifted in regard to the legal procedure of ejection for not recognizing an offense is finished.
 
@@ -1053,17 +1053,17 @@ He then conducted himself properly and suitably, and deserved to be released. He
 
 248When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense should be lifted: he doesn’t consent to a regular monk offering him a bed; he doesn’t consent to a regular monk offering him water for washing his feet and a foot stool; he doesn’t consent to a regular monk offering him a foot scraper; he doesn’t consent to a regular monk receiving his bowl and robe; he doesn’t consent to a regular monk massaging his back when bathing.
 
-249When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense should be lifted: he doesn’t charge a regular monk with failure in morality; he doesn’t charge a regular monk with failure in conduct; he doesn’t charge a regular monk with failure in view; he doesn’t charge a regular monk with failure in livelihood; he doesn’t cause division between monks.
+249When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense should be lifted: he doesn’t charge a regular monk with failure in morality; he doesn’t charge a regular monk with failure in conduct; he doesn’t charge a regular monk with failure in view; he doesn’t charge a regular monk with failure in livelihood; he doesn’t cause division between bhikkhus.
 
-250When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense should be lifted: he doesn’t wear lay clothes; he doesn’t wear the robes of the monastics of other religions; he doesn’t associate with the monastics of other religions; he associates with monks; he trains in the monks’ training.
+250When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense should be lifted: he doesn’t wear lay clothes; he doesn’t wear the robes of the monastics of other religions; he doesn’t associate with the monastics of other religions; he associates with bhikkhus; he trains in the bhikkhus’ training.
 
 251When a monk has another five qualities, a procedure of ejecting him for not recognizing an offense should be lifted: he doesn’t stay in the same room in a monastery as a regular monk; he doesn’t stay in the same room in a non-monastery as a regular monk; he doesn’t stay in the same room in a monastery or a non-monastery as a regular monk; he gets up from his seat when he sees a regular monk; he doesn’t dismiss a regular monk, whether indoors or outdoors.
 
-252When a monk has eight qualities, a procedure of ejecting him for not recognizing an offense should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other monks.”
+252When a monk has eight qualities, a procedure of ejecting him for not recognizing an offense should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other bhikkhus.”
 
 253The group of forty-three on to be lifted in regard to the legal procedure of ejection for not recognizing an offense is finished.
 
-254“And this is how it should be lifted. The monk Channa should approach the Saṅgha, put his upper robes over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of ejecting me for not recognizing an offense. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
+254“And this is how it should be lifted. The monk Channa should approach the Saṅgha, put his upper robes over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of ejecting me for not recognizing an offense. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
 255‘Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of ejecting the monk Channa for not recognizing an offense. He’s now conducting himself properly and suitably, and deserves to be released. He’s asking for that legal procedure to be lifted. If it seems appropriate to the Saṅgha, the Saṅgha should lift that legal procedure of ejecting him for not recognizing an offense. This is the motion.
 
@@ -1085,15 +1085,15 @@ He then conducted himself properly and suitably, and deserved to be released. He
 > ```
 
 
-260At one time the Buddha was staying at Kosambī in Ghosita’s Monastery. At this time Venerable Channa had committed an offense, but refused to make amends for it. The monks of few desires complained and criticized him: “How can Venerable Channa commit an offense, but refuse to make amends for it?” They told the Buddha.
+260At one time the Buddha was staying at Kosambī in Ghosita’s Monastery. At this time Venerable Channa had committed an offense, but refused to make amends for it. The bhikkhus of few desires complained and criticized him: “How can Venerable Channa commit an offense, but refuse to make amends for it?” They told the Buddha.
 
 
-261Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks: “Is it true, monks, that Channa is acting like this?”
+261Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that Channa is acting like this?”
 
 “It’s true, Sir.”
 
 
-The Buddha rebuked him: “It’s not suitable … How can Channa commit an offense, but refuse to make amends for it? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him: “It’s not suitable … How can Channa commit an offense, but refuse to make amends for it? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 “Well then, the Saṅgha should do a legal procedure of ejecting the monk Channa for not making amends for an offense, prohibiting him from living with the Saṅgha. And this is how it should be done. First you should accuse the monk Channa. He should then be reminded of what he has done, before he’s charged with an offense. A competent and capable monk should then inform the Saṅgha:
 
@@ -1106,7 +1106,7 @@ The Buddha rebuked him: “It’s not suitable … How can Channa commit an offe
 
 265The Saṅgha has done the legal procedure of ejecting Channa for not making amends for an offense, prohibiting him from living with the Saṅgha. The Saṅgha approves and is therefore silent. I’ll remember it thus.’
 
-266Monks, you should proclaim from monastery to monastery that the Saṅgha has done a legal procedure of ejecting Channa for not making amends for an offense, prohibiting him from living with the Saṅgha.”
+266bhikkhus, you should proclaim from monastery to monastery that the Saṅgha has done a legal procedure of ejecting Channa for not making amends for an offense, prohibiting him from living with the Saṅgha.”
 
 #### 6.1 The group of twelve on illegitimate legal procedures
 
@@ -1175,11 +1175,11 @@ When a procedure of ejection for not making amends for an offense has another th
 
 275When a monk has another three qualities, the Saṅgha may, if it wishes, do a procedure of ejecting him for not making amends for an offense: he disparages the Buddha; he disparages the Teaching; he disparages the Saṅgha.
 
-276“The Saṅgha may, if it wishes, do a procedure of ejection for not making amends for an offense against three kinds of monks: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
+276“The Saṅgha may, if it wishes, do a procedure of ejection for not making amends for an offense against three kinds of bhikkhus: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
 
-277The Saṅgha may, if it wishes, do a procedure of ejection for not making amends for an offense against another three kinds of monks: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
+277The Saṅgha may, if it wishes, do a procedure of ejection for not making amends for an offense against another three kinds of bhikkhus: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
 
-278The Saṅgha may, if it wishes, do a procedure of ejection for not making amends for an offense against another three kinds of monks: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
+278The Saṅgha may, if it wishes, do a procedure of ejection for not making amends for an offense against another three kinds of bhikkhus: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
 
 279The group of six on wishing in regard to the legal procedure of ejection for not making amends for an offense is finished.
 
@@ -1211,12 +1211,12 @@ When a procedure of ejection for not making amends for an offense has another th
 22. He shouldn’t charge a regular monk with failure in conduct.
 23. He shouldn’t charge a regular monk with failure in view.
 24. He shouldn’t charge a regular monk with failure in livelihood.
-25. He shouldn’t cause division between monks.
+25. He shouldn’t cause division between bhikkhus.
 26. He shouldn’t wear lay clothes.
 27. He shouldn’t wear the robes of the monastics of other religions.
 28. He shouldn’t associate with the monastics of other religions.
-29. He should associate with monks.
-30. He should train in the monks’ training.
+29. He should associate with bhikkhus.
+30. He should train in the bhikkhus’ training.
 31. He shouldn’t stay in the same room in a monastery as a regular monk.
 32. He shouldn’t stay in the same room in a non-monastery as a regular monk.
 33. He shouldn’t stay in the same room in a monastery or a non-monastery as a regular monk.
@@ -1229,14 +1229,14 @@ When a procedure of ejection for not making amends for an offense has another th
 40. He shouldn’t get permission from a regular monk to correct him.
 41. He shouldn’t accuse a regular monk of an offense.
 42. He shouldn’t remind a regular monk of an offense.
-43. He shouldn’t associate inappropriately with other monks.”
+43. He shouldn’t associate inappropriately with other bhikkhus.”
 
 
 281The forty-three kinds of conduct in regard to the legal procedure of ejection for not making amends for an offense are finished.
 
-282Soon afterwards the Saṅgha did a legal procedure of ejecting the monk Channa for not making amends for an offense, prohibiting him from living with the Saṅgha. He then left that monastery and went to another one. The monks there did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and went to yet another one. There too the monks did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and went to yet another one. There too the monks did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and returned to Kosambī.
+282Soon afterwards the Saṅgha did a legal procedure of ejecting the monk Channa for not making amends for an offense, prohibiting him from living with the Saṅgha. He then left that monastery and went to another one. The bhikkhus there did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and went to yet another one. There too the bhikkhus did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and went to yet another one. There too the bhikkhus did not bow down to him, stand up for him, raise their joined palms to him, or do acts of respect toward him. They did not honor, respect, or esteem him. Because of this, he left that monastery too and returned to Kosambī.
 
-He then conducted himself properly and suitably, and deserved to be released. He went to the monks and told them about this, adding: “What should I do now?” The monks told the Buddha. …
+He then conducted himself properly and suitably, and deserved to be released. He went to the bhikkhus and told them about this, adding: “What should I do now?” The bhikkhus told the Buddha. …
 
 “Well then, lift that legal procedure of ejecting the monk Channa for not making amends for an offense.
 
@@ -1244,9 +1244,9 @@ He then conducted himself properly and suitably, and deserved to be released. He
 
 283“When a monk has five qualities, a legal procedure of ejecting him for not making amends for an offense shouldn’t be lifted: he gives the full ordination; he gives formal support; he has a novice monk attend on him; he accepts being appointed as an instructor of the nuns; he instructs the nuns, whether appointed or not.
 
-284When a monk has another five qualities, a procedure of ejecting him for not making amends for an offense shouldn’t be lifted: he commits the same offense for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he commits an offense similar to the one for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he commits an offense worse than the one for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he criticizes the procedure; he criticizes those who did the procedure. … he consents to a regular monk bowing down to him; he consents to a regular monk standing up for him; he consents to a regular monk raising his joined palms to him; he consents to a regular monk doing acts of respect toward him; he consents to a regular monk offering him a seat. … he consents to a regular monk offering him a bed; he consents to a regular monk offering him water for washing his feet and a foot stool; he consents to a regular monk offering him a foot scraper; he consents to a regular monk receiving his bowl and robe; he consents to a regular monk massaging his back when bathing. … he charges a regular monk with failure in morality; he charges a regular monk with failure in conduct; he charges a regular monk with failure in view; he charges a regular monk with failure in livelihood; he causes division between monks. … he wears lay clothes; he wears the robes of the monastics of other religions; he associates with the monastics of other religions; he doesn’t associate with monks; he doesn’t train in the monks’ training. … he stays in the same room in a monastery as a regular monk; he stays in the same room in a non-monastery as a regular monk; he stays in the same room in a monastery or a non-monastery as a regular monk; he doesn’t get up from his seat when he sees a regular monk; he dismisses a regular monk, whether indoors or outdoors.
+284When a monk has another five qualities, a procedure of ejecting him for not making amends for an offense shouldn’t be lifted: he commits the same offense for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he commits an offense similar to the one for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he commits an offense worse than the one for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he criticizes the procedure; he criticizes those who did the procedure. … he consents to a regular monk bowing down to him; he consents to a regular monk standing up for him; he consents to a regular monk raising his joined palms to him; he consents to a regular monk doing acts of respect toward him; he consents to a regular monk offering him a seat. … he consents to a regular monk offering him a bed; he consents to a regular monk offering him water for washing his feet and a foot stool; he consents to a regular monk offering him a foot scraper; he consents to a regular monk receiving his bowl and robe; he consents to a regular monk massaging his back when bathing. … he charges a regular monk with failure in morality; he charges a regular monk with failure in conduct; he charges a regular monk with failure in view; he charges a regular monk with failure in livelihood; he causes division between bhikkhus. … he wears lay clothes; he wears the robes of the monastics of other religions; he associates with the monastics of other religions; he doesn’t associate with bhikkhus; he doesn’t train in the bhikkhus’ training. … he stays in the same room in a monastery as a regular monk; he stays in the same room in a non-monastery as a regular monk; he stays in the same room in a monastery or a non-monastery as a regular monk; he doesn’t get up from his seat when he sees a regular monk; he dismisses a regular monk, whether indoors or outdoors.
 
-285When a monk has eight qualities, a procedure of ejecting him for not making amends for an offense shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other monks.”
+285When a monk has eight qualities, a procedure of ejecting him for not making amends for an offense shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other bhikkhus.”
 
 286The group of forty-three on not to be lifted in regard to the legal procedure of ejection for not making amends for an offense is finished.
 
@@ -1254,14 +1254,14 @@ He then conducted himself properly and suitably, and deserved to be released. He
 
 287“When a monk has five qualities, a legal procedure of ejecting him for not making amends for an offense should be lifted: he doesn’t give the full ordination; he doesn’t give formal support; he doesn’t have a novice monk attend on him; he doesn’t accept being appointed as an instructor of the nuns; he doesn’t instruct the nuns, whether appointed or not.
 
-288When a monk has another five qualities, a procedure of ejecting him for not making amends for an offense should be lifted: he doesn’t commit the same offense for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he doesn’t commit an offense similar to the one for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he doesn’t commit an offense worse than the one for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he doesn’t criticize the procedure; he doesn’t criticize those who did the procedure. … he doesn’t consent to a regular monk bowing down to him; he doesn’t consent to a regular monk standing up for him; he doesn’t consent to a regular monk raising his joined palms to him; he doesn’t consent to a regular monk doing acts of respect toward him; he doesn’t consent to a regular monk offering him a seat. … he doesn’t consent to a regular monk offering him a bed; he doesn’t consent to a regular monk offering him water for washing his feet and a foot stool; he doesn’t consent to a regular monk offering him a foot scraper; he doesn’t consent to a regular monk receiving his bowl and robe; he doesn’t consent to a regular monk massaging his back when bathing. … he doesn’t charge a regular monk with failure in morality; he doesn’t charge a regular monk with failure in conduct; he doesn’t charge a regular monk with failure in view; he doesn’t charge a regular monk with failure in livelihood; he doesn’t cause division between monks. … he doesn’t wear lay clothes; he doesn’t wear the robes of the monastics of other religions; he doesn’t associate with the monastics of other religions; he associates with monks; he trains in the monks’ training. … he doesn’t stay in the same room in a monastery as a regular monk; he doesn’t stay in the same room in a non-monastery as a regular monk; he doesn’t stay in the same room in a monastery or a non-monastery as a regular monk; he gets up from his seat when he sees a regular monk; he doesn’t dismiss a regular monk, whether indoors or outdoors.
+288When a monk has another five qualities, a procedure of ejecting him for not making amends for an offense should be lifted: he doesn’t commit the same offense for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he doesn’t commit an offense similar to the one for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he doesn’t commit an offense worse than the one for which the Saṅgha did the procedure of ejecting him for not making amends for an offense; he doesn’t criticize the procedure; he doesn’t criticize those who did the procedure. … he doesn’t consent to a regular monk bowing down to him; he doesn’t consent to a regular monk standing up for him; he doesn’t consent to a regular monk raising his joined palms to him; he doesn’t consent to a regular monk doing acts of respect toward him; he doesn’t consent to a regular monk offering him a seat. … he doesn’t consent to a regular monk offering him a bed; he doesn’t consent to a regular monk offering him water for washing his feet and a foot stool; he doesn’t consent to a regular monk offering him a foot scraper; he doesn’t consent to a regular monk receiving his bowl and robe; he doesn’t consent to a regular monk massaging his back when bathing. … he doesn’t charge a regular monk with failure in morality; he doesn’t charge a regular monk with failure in conduct; he doesn’t charge a regular monk with failure in view; he doesn’t charge a regular monk with failure in livelihood; he doesn’t cause division between bhikkhus. … he doesn’t wear lay clothes; he doesn’t wear the robes of the monastics of other religions; he doesn’t associate with the monastics of other religions; he associates with bhikkhus; he trains in the bhikkhus’ training. … he doesn’t stay in the same room in a monastery as a regular monk; he doesn’t stay in the same room in a non-monastery as a regular monk; he doesn’t stay in the same room in a monastery or a non-monastery as a regular monk; he gets up from his seat when he sees a regular monk; he doesn’t dismiss a regular monk, whether indoors or outdoors.
 
 
-289When a monk has eight qualities, a procedure of ejecting him for not making amends for an offense should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other monks.”
+289When a monk has eight qualities, a procedure of ejecting him for not making amends for an offense should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other bhikkhus.”
 
 290The group of forty-three on to be lifted in regard to the legal procedure of ejection for not making amends for an offense is finished.
 
-291“And this is how it should be lifted. The monk Channa should approach the Saṅgha, put his upper robes over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of ejecting me for not making amends for an offense. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
+291“And this is how it should be lifted. The monk Channa should approach the Saṅgha, put his upper robes over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of ejecting me for not making amends for an offense. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
 292‘Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of ejecting the monk Channa for not making amends for an offense. He’s now conducting himself properly and suitably, and deserves to be released. He’s asking for that legal procedure to be lifted. If it seems appropriate to the Saṅgha, the Saṅgha should lift that legal procedure of ejecting him for not making amends for an offense. This is the motion.
 
@@ -1288,7 +1288,7 @@ He then conducted himself properly and suitably, and deserved to be released. He
 “As I understand the Teaching of the Buddha, the things he calls obstructive are not able to obstruct one who indulges in them.”
 
 
-A number of monks heard that Ariṭṭha had that view.
+A number of bhikkhus heard that Ariṭṭha had that view.
 
 
 298They went to him and asked:
@@ -1301,7 +1301,7 @@ A number of monks heard that Ariṭṭha had that view.
 299“No, Ariṭṭha, don’t misrepresent the Buddha, for it’s not good to misrepresent him. The Buddha would never say such a thing. The Buddha has given many discourses about the obstructive things being obstructive and how they obstruct one who indulges in them. The Buddha has said that there’s little enjoyment in worldly pleasures, but much suffering and much trouble, and that the danger in them is greater. The Buddha has said that worldly pleasures are similar to a skeleton, similar to a piece of meat, similar to a grass torch, similar to a pit of coals, similar to a dream, similar to borrowed goods, similar to fruits on a tree, similar to a knife and chopping block, similar to swords and stakes, and similar to a snake’s head. They’re much suffering and much trouble, and the danger in them is greater.”
 
 
-300But even though the monks corrected Ariṭṭha in this way, he stubbornly held on to that bad and erroneous view, and continued to insist on it. And since they were unable to make him give up that view, they went to the Buddha and told him what had happened.
+300But even though the bhikkhus corrected Ariṭṭha in this way, he stubbornly held on to that bad and erroneous view, and continued to insist on it. And since they were unable to make him give up that view, they went to the Buddha and told him what had happened.
 
 
 301Soon afterwards the Buddha had the Saṅgha gathered and questioned Ariṭṭha:
@@ -1311,7 +1311,7 @@ A number of monks heard that Ariṭṭha had that view.
 “Yes indeed, Sir.”
 
 
-302“Foolish man, who do you think I’ve taught like this? Haven’t I given many discourses about the obstructive things being obstructive and how they obstruct one who indulges in them? I’ve said that there’s little enjoyment in worldly pleasures, but much suffering and much trouble, and that the danger in them is greater. I’ve said that worldly pleasures are similar to a skeleton, similar to a piece of meat, similar to a grass torch, similar to a pit of coals, similar to a dream, similar to borrowed goods, similar to fruits on a tree, similar to a knife and chopping block, similar to swords and stakes, and similar to a snake’s head. They’re much suffering and much trouble, and the danger in them is greater. And yet by misunderstanding, you have misrepresented me, hurt yourself, and made much demerit. This will be for your long-lasting harm and suffering. And this will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+302“Foolish man, who do you think I’ve taught like this? Haven’t I given many discourses about the obstructive things being obstructive and how they obstruct one who indulges in them? I’ve said that there’s little enjoyment in worldly pleasures, but much suffering and much trouble, and that the danger in them is greater. I’ve said that worldly pleasures are similar to a skeleton, similar to a piece of meat, similar to a grass torch, similar to a pit of coals, similar to a dream, similar to borrowed goods, similar to fruits on a tree, similar to a knife and chopping block, similar to swords and stakes, and similar to a snake’s head. They’re much suffering and much trouble, and the danger in them is greater. And yet by misunderstanding, you have misrepresented me, hurt yourself, and made much demerit. This will be for your long-lasting harm and suffering. And this will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 “Well then, the Saṅgha should do a legal procedure of ejecting Ariṭṭha for not giving up a bad view, prohibiting him from living with the Saṅgha. And this is how it should be done. First you should accuse the monk Ariṭṭha. He should then be reminded of what he has done, before he’s charged with an offense. A competent and capable monk should then inform the Saṅgha:
 
@@ -1323,7 +1323,7 @@ A number of monks heard that Ariṭṭha had that view.
 
 306The Saṅgha has done the legal procedure of ejecting Ariṭṭha for not giving up a bad view, prohibiting him from living with the Saṅgha. The Saṅgha approves and is therefore silent. I’ll remember it thus.’
 
-307Monks, you should proclaim from monastery to monastery that the Saṅgha has done a legal procedure of ejecting Ariṭṭha for not giving up a bad view, prohibiting him from living with the Saṅgha.”
+307bhikkhus, you should proclaim from monastery to monastery that the Saṅgha has done a legal procedure of ejecting Ariṭṭha for not giving up a bad view, prohibiting him from living with the Saṅgha.”
 
 #### 7.1 The group of twelve on illegitimate legal procedures
 
@@ -1393,11 +1393,11 @@ When a procedure of ejection for not giving up a bad view has another three qual
 
 316When a monk has another three qualities, the Saṅgha may, if it wishes, do a procedure of ejecting him for not giving up a bad view: he disparages the Buddha; he disparages the Teaching; he disparages the Saṅgha.
 
-317“The Saṅgha may, if it wishes, do a procedure of ejection for not giving up a bad view against three kinds of monks: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
+317“The Saṅgha may, if it wishes, do a procedure of ejection for not giving up a bad view against three kinds of bhikkhus: those who are quarrelsome, argumentative, and creators of legal issues in the Saṅgha; those who are ignorant and incompetent, often committing offenses, lacking in boundaries; those who are constantly and improperly socializing with householders.
 
-318The Saṅgha may, if it wishes, do a procedure of ejection for not giving up a bad view against another three kinds of monks: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
+318The Saṅgha may, if it wishes, do a procedure of ejection for not giving up a bad view against another three kinds of bhikkhus: those who’ve failed in the higher morality; those who’ve failed in conduct; those who’ve failed in view.
 
-319The Saṅgha may, if it wishes, do a procedure of ejection for not giving up a bad view against another three kinds of monks: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
+319The Saṅgha may, if it wishes, do a procedure of ejection for not giving up a bad view against another three kinds of bhikkhus: those who disparage the Buddha; those who disparage the Teaching; those who disparage the Saṅgha.”
 
 320The group of six on wishing in regard to the legal procedure of ejection for not giving up a bad view is finished.
 
@@ -1429,12 +1429,12 @@ When a procedure of ejection for not giving up a bad view has another three qual
 22. He shouldn’t charge a regular monk with failure in conduct.
 23. He shouldn’t charge a regular monk with failure in view.
 24. He shouldn’t charge a regular monk with failure in livelihood.
-25. He shouldn’t cause splits between monks.
+25. He shouldn’t cause splits between bhikkhus.
 26. He shouldn’t wear lay clothes.
 27. He shouldn’t wear the robes of the monastics of other sects.
 28. He shouldn’t associate with the monastics of other sects.
-29. He should associate with monks.
-30. He should train in the monks’ training.
+29. He should associate with bhikkhus.
+30. He should train in the bhikkhus’ training.
 31. He shouldn’t stay in the same room in a monastery as a regular monk.
 32. He shouldn’t stay in the same room in a non-monastery as a regular monk.
 33. He shouldn’t stay in the same room in a monastery or a non-monastery as a regular monk.
@@ -1447,21 +1447,21 @@ When a procedure of ejection for not giving up a bad view has another three qual
 40. He shouldn’t get permission from a regular monk to correct him.
 41. He shouldn’t accuse a regular monk of an offense.
 42. He shouldn’t remind a regular monk of an offense.
-43. He shouldn’t associate inappropriately with other monks.”
+43. He shouldn’t associate inappropriately with other bhikkhus.”
 
 322The forty-three kinds of conduct in regard to the legal procedure of ejection for not giving up a bad view are finished.
 
 
-323Soon afterwards the Saṅgha did a legal procedure of ejecting Ariṭṭha for not giving up a bad view, prohibiting him from living with the Saṅgha. He then disrobed. The monks of few desires complained and criticized him: “How could the monk Ariṭṭha disrobe after the Saṅgha had done a legal procedure of ejecting him for not giving up a bad view?” The monks told the Buddha.
+323Soon afterwards the Saṅgha did a legal procedure of ejecting Ariṭṭha for not giving up a bad view, prohibiting him from living with the Saṅgha. He then disrobed. The bhikkhus of few desires complained and criticized him: “How could the monk Ariṭṭha disrobe after the Saṅgha had done a legal procedure of ejecting him for not giving up a bad view?” The bhikkhus told the Buddha.
 
 
-324Soon afterwards the Buddha had the Saṅgha gathered and questioned the monks:
+324Soon afterwards the Buddha had the Saṅgha gathered and questioned the bhikkhus:
 
-“Is it true, monks, that the monk Ariṭṭha disrobed after the Saṅgha had done a procedure of ejecting him for not giving up a bad view?”
+“Is it true, bhikkhus, that the monk Ariṭṭha disrobed after the Saṅgha had done a procedure of ejecting him for not giving up a bad view?”
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “It’s not suitable … How can that foolish person disrobe after the Saṅgha has done a procedure of ejecting him for not giving up a bad view? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him … “It’s not suitable … How can that foolish person disrobe after the Saṅgha has done a procedure of ejecting him for not giving up a bad view? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 “Well then, the Saṅgha should lift that legal procedure of ejection for not giving up a bad view.
 
@@ -1470,10 +1470,10 @@ The Buddha rebuked him … “It’s not suitable … How can that foolish perso
 325“When a monk has five qualities, a legal procedure of ejecting him for not giving up a bad view shouldn’t be lifted: he gives the full ordination; he gives formal support; he has a novice monk attend on him; he accepts being appointed as an instructor of the nuns; he instructs the nuns, whether appointed or not.
 
 
-326When a monk has another five qualities, a procedure of ejecting him for not giving up a bad view shouldn’t be lifted: he commits the same offense for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he commits an offense similar to the one for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he commits an offense worse than the one for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he criticizes the procedure; he criticizes those who did the procedure. … he consents to a regular monk bowing down to him; he consents to a regular monk standing up for him; he consents to a regular monk raising his joined palms to him; he consents to a regular monk doing appropriate duties for him; he consents to a regular monk offering him a seat. … he consents to a regular monk offering him a bed; he consents to a regular monk offering him water for washing his feet and a foot stool; he consents to a regular monk offering him a foot scraper; he consents to a regular monk receiving his bowl and robe; he consents to a regular monk massaging his back when bathing. … he charges a regular monk with failure in morality; he charges a regular monk with failure in conduct; he charges a regular monk with failure in view; he charges a regular monk with failure in livelihood; he causes splits between monks. … he wears lay clothes; he wears the robes of the monastics of other religions; he associates with the monastics of other religions; he doesn’t associate with monks; he doesn’t train in the monks’ training. … he stays in the same room in a monastery as a regular monk; he stays in the same room in a non-monastery as a regular monk; he stays in the same room in a monastery or a non-monastery as a regular monk; he doesn’t get up from his seat when he sees a regular monk; he dismisses a regular monk, whether indoors or outdoors.
+326When a monk has another five qualities, a procedure of ejecting him for not giving up a bad view shouldn’t be lifted: he commits the same offense for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he commits an offense similar to the one for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he commits an offense worse than the one for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he criticizes the procedure; he criticizes those who did the procedure. … he consents to a regular monk bowing down to him; he consents to a regular monk standing up for him; he consents to a regular monk raising his joined palms to him; he consents to a regular monk doing appropriate duties for him; he consents to a regular monk offering him a seat. … he consents to a regular monk offering him a bed; he consents to a regular monk offering him water for washing his feet and a foot stool; he consents to a regular monk offering him a foot scraper; he consents to a regular monk receiving his bowl and robe; he consents to a regular monk massaging his back when bathing. … he charges a regular monk with failure in morality; he charges a regular monk with failure in conduct; he charges a regular monk with failure in view; he charges a regular monk with failure in livelihood; he causes splits between bhikkhus. … he wears lay clothes; he wears the robes of the monastics of other religions; he associates with the monastics of other religions; he doesn’t associate with bhikkhus; he doesn’t train in the bhikkhus’ training. … he stays in the same room in a monastery as a regular monk; he stays in the same room in a non-monastery as a regular monk; he stays in the same room in a monastery or a non-monastery as a regular monk; he doesn’t get up from his seat when he sees a regular monk; he dismisses a regular monk, whether indoors or outdoors.
 
 
-327When a monk has eight qualities, a procedure of ejecting him for not giving up a bad view shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other monks.”
+327When a monk has eight qualities, a procedure of ejecting him for not giving up a bad view shouldn’t be lifted: he cancels the observance-day ceremony of a regular monk; he cancels the invitation ceremony of a regular monk; he directs a regular monk; he gives instructions to a regular monk; he gets permission from a regular monk to correct him; he accuses a regular monk of an offense; he reminds a regular monk of an offense; he associates inappropriately with other bhikkhus.”
 
 328The group of forty-three on not to be lifted in regard to the legal procedure of ejection for not giving up a bad view is finished.
 
@@ -1482,15 +1482,15 @@ The Buddha rebuked him … “It’s not suitable … How can that foolish perso
 329“When a monk has five qualities, a legal procedure of ejecting him for not giving up a bad view should be lifted: he doesn’t give the full ordination; he doesn’t give formal support; he doesn’t have a novice monk attend on him; he doesn’t accept being appointed as an instructor of the nuns; he doesn’t instruct the nuns, whether appointed or not.
 
 
-330When a monk has another five qualities, a procedure of ejecting him for not giving up a bad view should be lifted: he doesn’t commit the same offense as the offense for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he doesn’t commit an offense similar to the one for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he doesn’t commit an offense worse than the one for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he doesn’t criticize the procedure; he doesn’t criticize those who did the procedure. … he doesn’t consent to a regular monk bowing down to him; he doesn’t consent to a regular monk standing up for him; he doesn’t consent to a regular monk raising his joined palms to him; he doesn’t consent to a regular monk doing appropriate duties for him; he doesn’t consent to a regular monk offering him a seat. … he doesn’t consent to a regular monk offering him a bed; he doesn’t consent to a regular monk offering him water for washing his feet and a foot stool; he doesn’t consent to a regular monk offering him a foot scraper; he doesn’t consent to a regular monk receiving his bowl and robe; he doesn’t consent to a regular monk massaging his back when bathing. … he doesn’t charge a regular monk with failure in morality; he doesn’t charge a regular monk with failure in conduct; he doesn’t charge a regular monk with failure in view; he doesn’t charge a regular monk with failure in livelihood; he doesn’t cause splits between monks. … he doesn’t wear lay clothes; he doesn’t wear the robes of the monastics of other religions; he doesn’t associate with the monastics of other religions; he associates with monks; he trains in the monks’ training. … he doesn’t stay in the same room in a monastery as a regular monk; he doesn’t stay in the same room in a non-monastery as a regular monk; he doesn’t stay in the same room in a monastery or a non-monastery as a regular monk; he gets up from his seat when he sees a regular monk; he doesn’t dismiss a regular monk, whether indoors or outdoors.
+330When a monk has another five qualities, a procedure of ejecting him for not giving up a bad view should be lifted: he doesn’t commit the same offense as the offense for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he doesn’t commit an offense similar to the one for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he doesn’t commit an offense worse than the one for which the Saṅgha did the procedure of ejecting him for not giving up a bad view; he doesn’t criticize the procedure; he doesn’t criticize those who did the procedure. … he doesn’t consent to a regular monk bowing down to him; he doesn’t consent to a regular monk standing up for him; he doesn’t consent to a regular monk raising his joined palms to him; he doesn’t consent to a regular monk doing appropriate duties for him; he doesn’t consent to a regular monk offering him a seat. … he doesn’t consent to a regular monk offering him a bed; he doesn’t consent to a regular monk offering him water for washing his feet and a foot stool; he doesn’t consent to a regular monk offering him a foot scraper; he doesn’t consent to a regular monk receiving his bowl and robe; he doesn’t consent to a regular monk massaging his back when bathing. … he doesn’t charge a regular monk with failure in morality; he doesn’t charge a regular monk with failure in conduct; he doesn’t charge a regular monk with failure in view; he doesn’t charge a regular monk with failure in livelihood; he doesn’t cause splits between bhikkhus. … he doesn’t wear lay clothes; he doesn’t wear the robes of the monastics of other religions; he doesn’t associate with the monastics of other religions; he associates with bhikkhus; he trains in the bhikkhus’ training. … he doesn’t stay in the same room in a monastery as a regular monk; he doesn’t stay in the same room in a non-monastery as a regular monk; he doesn’t stay in the same room in a monastery or a non-monastery as a regular monk; he gets up from his seat when he sees a regular monk; he doesn’t dismiss a regular monk, whether indoors or outdoors.
 
 
-331When a monk has eight qualities, a procedure of ejecting him for not giving up a bad view should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other monks.”
+331When a monk has eight qualities, a procedure of ejecting him for not giving up a bad view should be lifted: he doesn’t cancel the observance-day ceremony of a regular monk; he doesn’t cancel the invitation ceremony of a regular monk; he doesn’t direct a regular monk; he doesn’t give instructions to a regular monk; he doesn’t get permission from a regular monk to correct him; he doesn’t accuse a regular monk of an offense; he doesn’t remind a regular monk of an offense; he doesn’t associate inappropriately with other bhikkhus.”
 
 332The group of forty-three on to be lifted in regard to the legal procedure of ejection for not giving up a bad view is finished.
 
 
-333“And, monks, this is how it should be lifted. The monk who’s been ejected by the Saṅgha for not giving up a bad view should approach the Saṅgha, put his upper robes over one shoulder, pay respect at the feet of the senior monks, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of ejecting me for not giving up a bad view. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
+333“And, bhikkhus, this is how it should be lifted. The monk who’s been ejected by the Saṅgha for not giving up a bad view should approach the Saṅgha, put his upper robes over one shoulder, pay respect at the feet of the senior bhikkhus, squat on his heels, raise his joined palms, and say, ‘Venerables, the Saṅgha has done a legal procedure of ejecting me for not giving up a bad view. I’m now conducting myself properly and suitably, and deserve to be released. I ask for that legal procedure to be lifted.’ And he should ask a second and a third time. A competent and capable monk should then inform the Saṅgha:
 
 334‘Please, Venerables, I ask the Saṅgha to listen. The Saṅgha has done a legal procedure of ejecting monk so-and-so for not giving up a bad view. He’s now conducting himself properly and suitably, and deserves to be released. He’s asking for that legal procedure to be lifted. If it seems appropriate to the Saṅgha, the Saṅgha should lift that legal procedure of ejecting him for not giving up a bad view. This is the motion.
 
@@ -1507,14 +1507,14 @@ The first chapter on legal procedures is finished. In this chapter there are sev
 339This is the summary:
 
 
-340“The monks Paṇḍu and Lohitaka,  
+340“The bhikkhus Paṇḍu and Lohitaka,  
 Themselves quarrelsome;  
 They went to those of the same kind,  
 And encouraged quarrels.
 
 341They gave rise to new ones,  
 And worsened the existing ones;  
-The good monks of few desires,  
+The good bhikkhus of few desires,  
 Criticised. The One who Shows,
 
 342The Buddha, standing in the True Dhamma,  
@@ -1564,7 +1564,7 @@ The Saṅgha might do condemnation.
 
 351And the Buddha, the Teaching, the Saṅgha,  
 Whoever dispraises them;  
-And against three kinds of monks,  
+And against three kinds of bhikkhus,  
 The Saṅgha might carry out condemnation:
 
 352The quarrelsome,  
@@ -1619,7 +1619,7 @@ And socializing, Seyyaso.
 
 362The procedure of demotion was ordered,  
 By the Fully Awakened One, the Great Sage;  
-Two monks at Kīṭāgiri,  
+Two bhikkhus at Kīṭāgiri,  
 Assaji and Punabbasuka.
 
 363And many kinds of misconduct,  

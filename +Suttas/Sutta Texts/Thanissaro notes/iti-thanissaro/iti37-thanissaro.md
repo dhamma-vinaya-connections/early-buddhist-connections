@@ -12,7 +12,7 @@ language: "English"
 
 # Itivuttaka 37
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Endowed with two things, monks, a monk lives full of ease in the here-&-now and is appropriately aroused for the ending of the effluents. Which two? A sense of urgency toward things that should inspire urgency[1](#^iti37note01) and, feeling urgency, appropriate exertion. Endowed with these two things, a monk lives full of ease in the here-&-now and is appropriately aroused for the ending of the effluents.” ^iti37note01-ref
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “Endowed with two things, bhikkhus, a bhikkhu lives full of ease in the here-&-now and is appropriately aroused for the ending of the effluents. Which two? A sense of urgency toward things that should inspire urgency[1](#^iti37note01) and, feeling urgency, appropriate exertion. Endowed with these two things, a bhikkhu lives full of ease in the here-&-now and is appropriately aroused for the ending of the effluents.” ^iti37note01-ref
 
 Feeling urgency right here
 
@@ -22,7 +22,7 @@ the wise,
 
 masterful,
 
-ardent monk
+ardent bhikkhu
 
 should investigate
 

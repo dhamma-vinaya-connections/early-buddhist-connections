@@ -66,20 +66,20 @@ contribution:
 
 
 > [!example]- 🌐[[SN9.10]] - 📜[Available texts](obsidian://search?query=file:sn9.10-) - Sajjhāyasutta – Reciting
-> When a mendicant gives up their habit of reciting the texts, a deity questions them. But it seems they have now found peace
+> When a bhikkhu gives up their habit of reciting the texts, a deity questions them. But it seems they have now found peace
 
 
 > [!example]- 🌐[[SN9.11]] - 📜[Available texts](obsidian://search?query=file:sn9.11-) - Akusalavitakkasutta – Unwholesome Thoughts
-> A mendicant plagued by bad thoughts is encouraged by a deity
+> A bhikkhu plagued by bad thoughts is encouraged by a deity
 
 
 > [!example]- 🌐[[SN9.12]] - 📜[Available texts](obsidian://search?query=file:sn9.12-) - Majjhanhikasutta – Noon
-> A mendicant plagued by bad thoughts is encouraged by a deity
+> A bhikkhu plagued by bad thoughts is encouraged by a deity
 
 
 > [!example]- 🌐[[SN9.13]] - 📜[Available texts](obsidian://search?query=file:sn9.13-) - Pākatindriyasutta – Loose in Sense Faculties
-> A group of mendicants in the forest had fallen into bad ways, becoming conceited and confused. A deity came to admonish them, making clear that they were only speaking of the badly behaved, not all mendicants
+> A group of bhikkhus in the forest had fallen into bad ways, becoming conceited and confused. A deity came to admonish them, making clear that they were only speaking of the badly behaved, not all bhikkhus
 
 
 > [!example]- 🌐[[SN9.14]] - 📜[Available texts](obsidian://search?query=file:sn9.14-) - Gandhatthenasutta – The Thief of Scent
-> A group of mendicants in the forest had fallen into bad ways, becoming conceited and confused. A deity came to admonish them, making clear that they were only speaking of the badly behaved, not all mendicants
+> A group of bhikkhus in the forest had fallen into bad ways, becoming conceited and confused. A deity came to admonish them, making clear that they were only speaking of the badly behaved, not all bhikkhus

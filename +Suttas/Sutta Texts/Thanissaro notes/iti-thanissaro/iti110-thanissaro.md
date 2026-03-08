@@ -12,21 +12,21 @@ language: "English"
 
 # Itivuttaka 110
 
-_This was said by the Blessed One, said by the Arahant, so I have heard:_ “If, while he is walking, monks, there arises in a monk a thought of sensuality, a thought of ill-will, or a thought of harmfulness, and he does not quickly abandon, dispel, demolish, or wipe that thought out of existence, then a monk walking with such a lack of ardency & compunction is called continually & continuously lethargic & low in his persistence.
+_This was said by the Blessed One, said by the Arahant, so I have heard:_ “If, while he is walking, bhikkhus, there arises in a bhikkhu a thought of sensuality, a thought of ill-will, or a thought of harmfulness, and he does not quickly abandon, dispel, demolish, or wipe that thought out of existence, then a bhikkhu walking with such a lack of ardency & compunction is called continually & continuously lethargic & low in his persistence.
 
 “If, while he is standing.…
 
 “If, while he is sitting.…
 
-“If, while he is lying down, there arises in a monk a thought of sensuality, a thought of ill-will, or a thought of harmfulness, and he does not quickly abandon, dispel, demolish, or wipe that thought out of existence, then a monk lying down with such a lack of ardency & compunction is called continually & continuously lethargic & low in his persistence.
+“If, while he is lying down, there arises in a bhikkhu a thought of sensuality, a thought of ill-will, or a thought of harmfulness, and he does not quickly abandon, dispel, demolish, or wipe that thought out of existence, then a bhikkhu lying down with such a lack of ardency & compunction is called continually & continuously lethargic & low in his persistence.
 
-“But if, while he is walking, there arises in a monk a thought of sensuality, a thought of ill-will, or a thought of harmfulness, and he quickly abandons, dispels, demolishes, & wipes that thought out of existence, then a monk walking with such ardency & compunction is called continually & continuously resolute, one with persistence aroused.
+“But if, while he is walking, there arises in a bhikkhu a thought of sensuality, a thought of ill-will, or a thought of harmfulness, and he quickly abandons, dispels, demolishes, & wipes that thought out of existence, then a bhikkhu walking with such ardency & compunction is called continually & continuously resolute, one with persistence aroused.
 
 “If, while he is standing.…
 
 “If, while he is sitting.…
 
-“If, while he is lying down, there arises in a monk a thought of sensuality, a thought of ill-will, or a thought of harmfulness, and he quickly abandons, dispels, demolishes, & wipes that thought out of existence, then a monk lying down with such ardency & compunction is called continually & continuously resolute, one with persistence aroused.”
+“If, while he is lying down, there arises in a bhikkhu a thought of sensuality, a thought of ill-will, or a thought of harmfulness, and he quickly abandons, dispels, demolishes, & wipes that thought out of existence, then a bhikkhu lying down with such ardency & compunction is called continually & continuously resolute, one with persistence aroused.”
 
 Whether walking, standing,
 
@@ -44,7 +44,7 @@ with delusory things.
 
 He’s incapable,
 
-a monk like this,
+a bhikkhu like this,
 
 of touching superlative
 
@@ -62,7 +62,7 @@ delighting in the stilling of thought:
 
 he’s capable,
 
-a monk like this,
+a bhikkhu like this,
 
 of touching superlative
 

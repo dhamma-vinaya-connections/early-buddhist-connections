@@ -2,7 +2,7 @@
 sutta_code: "AN5.235"
 sutta_title:
   - "Anukampa "
-  - "Compassionate Mendicant"
+  - "Compassionate bhikkhu"
 sutta-version: "SC - Sutta Central"
 language: "Pali"
 ---
@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 5: The Book of the Fives
-### AN 5.235: Anukampasutta — A Compassionate Mendicant
+### AN 5.235: Anukampasutta — A Compassionate bhikkhu
 
 1"Pañcahi, bhikkhave, dhammehi samannāgato āvāsiko bhikkhu gihīnaṁ anukampati. Katamehi pañcahi? Adhisīle samādapeti; dhammadassane niveseti; gilānake upasaṅkamitvā satiṁ uppādeti:  ‘arahaggataṁ āyasmanto satiṁ upaṭṭhāpethā’ti; mahā kho pana bhikkhusaṅgho abhikkanto nānāverajjakā bhikkhū gihīnaṁ upasaṅkamitvā āroceti:  ‘mahā kho, āvuso, bhikkhusaṅgho abhikkanto nānāverajjakā bhikkhū, karotha puññāni, samayo puññāni kātun’ti; yaṁ kho panassa bhojanaṁ denti lūkhaṁ vā paṇītaṁ vā taṁ attanā paribhuñjati, saddhādeyyaṁ na vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato āvāsiko bhikkhu gihīnaṁ anukampatī"ti.
 

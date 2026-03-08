@@ -18,14 +18,14 @@ language: "Pali - English"
 
 1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the nun Caṇḍakāḷī was angry that she had lost in connection with a legal issue, saying, “The nuns are acting out of favoritism, ill will, confusion, and fear.”
 
-2The nuns of few desires complained and criticized her, “How can Venerable Caṇḍakāḷī say such things just because she’s angry that she has lost in connection with a legal issue?” “Is it true, monks, that the nun Caṇḍakāḷī says this because she’s angry?”
+2The nuns of few desires complained and criticized her, “How can Venerable Caṇḍakāḷī say such things just because she’s angry that she has lost in connection with a legal issue?” “Is it true, bhikkhus, that the nun Caṇḍakāḷī says this because she’s angry?”
 
 
 “It’s true, Sir.”
 
 The Buddha rebuked her …
 
-“How can the nun Caṇḍakāḷī say such things just because she’s angry that she has lost in connection with a legal issue? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+“How can the nun Caṇḍakāḷī say such things just because she’s angry that she has lost in connection with a legal issue? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -64,7 +64,7 @@ That nun, even if she has to be pulled into the Sangha, should be corrected like
 
 They should correct her a second and a third time. If she stops, all is well. If she does not stop, she commits an offense of wrong conduct.
 
-Should press her. “And, monks, she should be pressed like this. A competent and capable nun should inform the Sangha:
+Should press her. “And, bhikkhus, she should be pressed like this. A competent and capable nun should inform the Sangha:
 
 ‘Please, Venerables, I ask the Sangha to listen. The nun so-and-so, because she’s angry that she has lost in connection with a legal issue, says this:
 

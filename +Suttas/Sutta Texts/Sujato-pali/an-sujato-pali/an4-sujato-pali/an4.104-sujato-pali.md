@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, there are these four lakes. What four?
+1“bhikkhus, there are these four lakes. What four?
 
 1. One is shallow but appears deep,
 2. one is deep but appears shallow,

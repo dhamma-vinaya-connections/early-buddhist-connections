@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2The nuns of few desires complained and criticized her, “How can Venerable Caṇḍakāḷī socialize with householders and their offspring?” …
 
-“Is it true, monks, that the nun Caṇḍakāḷī does this?”
+“Is it true, bhikkhus, that the nun Caṇḍakāḷī does this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked her … “How can the nun Caṇḍakāḷī do this? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked her … “How can the nun Caṇḍakāḷī do this? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 
@@ -58,7 +58,7 @@ That nun, even if she has to be pulled into the Sangha, should be corrected like
 
 They should correct her a second and a third time. If she stops, all is well. If she does not stop, she commits an offense of wrong conduct.
 
-“And, monks, she should be pressed like this. A competent and capable nun should inform the Sangha:
+“And, bhikkhus, she should be pressed like this. A competent and capable nun should inform the Sangha:
 
 10‘Please, Venerables, I ask the Sangha to listen. The nun so-and-so is socializing with householders and their offspring. And she keeps on doing it. If it seems appropriate to the Sangha, the Sangha should press her to make her stop. This is the motion.
 

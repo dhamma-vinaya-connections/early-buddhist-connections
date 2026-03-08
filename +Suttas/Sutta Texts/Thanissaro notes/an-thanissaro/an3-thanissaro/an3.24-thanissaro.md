@@ -15,7 +15,7 @@ language: "English"
 ## ## Bahukāra Sutta
 
 
-“Monks, these three persons are one’s great benefactors. Which three?
+“bhikkhus, these three persons are one’s great benefactors. Which three?
 
 “The person through whom one has gone to the Buddha for refuge, has gone to the Dhamma for refuge, has gone to the Saṅgha for refuge: This is one’s great benefactor.
 
@@ -23,7 +23,7 @@ language: "English"
 
 “Further, the person through whom one—with the ending of effluents—enters & remains in the effluent-free awareness-release & discernment-release, having directly known & realized it for himself right in the here & now: This is one’s great benefactor.
 
-“These three persons, monks, are one’s great benefactors. And I tell you: One has no other benefactor greater than these three. And I tell you, too, that it’s not easy for one to repay these three benefactors by bowing down, by rising up in greeting, by raising one’s hands palm-to-palm in front of the heart, by performing services in line with seniority, or by presenting them with robes, almsfood, lodging, or medicinal requisites used for curing the sick.”
+“These three persons, bhikkhus, are one’s great benefactors. And I tell you: One has no other benefactor greater than these three. And I tell you, too, that it’s not easy for one to repay these three benefactors by bowing down, by rising up in greeting, by raising one’s hands palm-to-palm in front of the heart, by performing services in line with seniority, or by presenting them with robes, almsfood, lodging, or medicinal requisites used for curing the sick.”
 
 See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.59-thanissaro]]; [[sn56.11-thanissaro]]; [[an2.31-thanissaro]]; [[an3.115-thanissaro]]
 

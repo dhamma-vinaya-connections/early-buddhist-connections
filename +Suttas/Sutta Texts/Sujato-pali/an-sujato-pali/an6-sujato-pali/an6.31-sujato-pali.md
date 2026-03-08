@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“These six things lead to the decline of a mendicant trainee. What six? They relish work, talk, sleep, and company. They don’t guard the sense doors, and they eat too much. These six things lead to the decline of a mendicant trainee.
+1“These six things lead to the decline of a bhikkhu trainee. What six? They relish work, talk, sleep, and company. They don’t guard the sense doors, and they eat too much. These six things lead to the decline of a bhikkhu trainee.
 
-2These six things don’t lead to the decline of a mendicant trainee. What six? They don’t relish work, talk, sleep, and company. They guard the sense doors, and they don’t eat too much. These six things don’t lead to the decline of a mendicant trainee.”
+2These six things don’t lead to the decline of a bhikkhu trainee. What six? They don’t relish work, talk, sleep, and company. They guard the sense doors, and they don’t eat too much. These six things don’t lead to the decline of a bhikkhu trainee.”
 
 1"Chayime, bhikkhave, dhammā sekhassa bhikkhuno parihānāya saṁvattanti. Katame cha? Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā – ime kho, bhikkhave, cha dhammā sekhassa bhikkhuno parihānāya saṁvattanti.
 

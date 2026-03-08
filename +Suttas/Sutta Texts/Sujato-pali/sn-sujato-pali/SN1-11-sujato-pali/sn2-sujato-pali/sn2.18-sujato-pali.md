@@ -38,7 +38,7 @@ Then, late at night, the glorious god Kakudha, lighting up the entire Añjana Wo
 “Yes, sir.”
 
 
-2“I hope you’re untroubled, mendicant,  
+2“I hope you’re untroubled, bhikkhu,  
 I hope that delight isn’t found in you.  
 I hope that discontent doesn’t  
 overwhelm you as you sit alone.”
@@ -48,7 +48,7 @@ and no delight is found in me.
 And also discontent doesn’t  
 overwhelm me as I sit alone.”
 
-4“How are you untroubled, mendicant?  
+4“How are you untroubled, bhikkhu?  
 How is delight not found in you?  
 How does discontent not  
 overwhelm you as you sit alone?”
@@ -56,11 +56,11 @@ overwhelm you as you sit alone?”
 5“Delight is born from misery,  
 misery is born from delight;  
 sir, you should know me as  
-a mendicant free of delight and misery.”
+a bhikkhu free of delight and misery.”
 
 6“After a long time I see  
 a brahmin extinguished.  
-A mendicant free of delight and misery,  
+A bhikkhu free of delight and misery,  
 he has crossed over clinging to the world.”
 
 #### Pali

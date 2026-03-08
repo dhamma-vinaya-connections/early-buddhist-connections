@@ -16,16 +16,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of seventeen were friends. The lived together, and when going somewhere they would leave together. On one occasion they put out bedding in a dwelling belonging to the Sangha, but then departed without putting it away, having it put away, or informing anyone. The furniture was eaten by termites.
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of seventeen were friends. The lived together, and when going somewhere they would leave together. On one occasion they put out bedding in a dwelling belonging to the Sangha, but then departed without putting it away, having it put away, or informing anyone. The furniture was eaten by termites.
 
-The monks of few desires complained and criticized them, “How could those monks from the group of seventeen put out bedding in a dwelling belonging to the Sangha, and then depart without putting it away, getting it put away, or informing anyone? The furniture was eaten by termites.”
+The bhikkhus of few desires complained and criticized them, “How could those bhikkhus from the group of seventeen put out bedding in a dwelling belonging to the Sangha, and then depart without putting it away, getting it put away, or informing anyone? The furniture was eaten by termites.”
 
-2After rebuking those monks in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the monks: “Is it true, monks, that those monks did this?”
+2After rebuking those bhikkhus in many ways, they told the Buddha. Soon afterwards he had the Sangha gathered and questioned the bhikkhus: “Is it true, bhikkhus, that those bhikkhus did this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them … “How could those foolish men do this? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked them … “How could those foolish men do this? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

@@ -16,7 +16,7 @@ Translated by Charles Patton
 
 ### 4. Janavṛṣabha
 
-1. Thus I have heard: One time, the Buddha traveled to Giñjaka’s Residence of Nādikā. He was accompanied by a great assembly of 1,250 monks.
+1. Thus I have heard: One time, the Buddha traveled to Giñjaka’s Residence of Nādikā. He was accompanied by a great assembly of 1,250 bhikkhus.
 
 #### Ānanda’s Request
 
@@ -186,7 +186,7 @@ After he had requested this of the Bhagavān on behalf of the people of Magadha,
 
 47. “‘“They are like someone who abandons crude food for food with a hundred flavors. They’re satisfied after eating it, but they again seek something greater. The practitioner is like this who parts with unskillful teachings. They attain a joyous heart and happiness. In that happiness, they again feel great joy. This is the third pathway opened by the Tathāgata.”’”
 
-48. Brahmā Kumāra then went up to the Trāyastriṃśa Heaven to teach this correct Dharma. The god king Vaiśravaṇa and his followers also taught this correct Dharma. The spirit Janavṛṣabha also taught this correct Dharma before the Buddha. The Bhagavān also taught this correct Dharma for Ānanda. Ānanda also taught this correct Dharma for the monks, nuns, laymen, and laywomen.
+48. Brahmā Kumāra then went up to the Trāyastriṃśa Heaven to teach this correct Dharma. The god king Vaiśravaṇa and his followers also taught this correct Dharma. The spirit Janavṛṣabha also taught this correct Dharma before the Buddha. The Bhagavān also taught this correct Dharma for Ānanda. Ānanda also taught this correct Dharma for the bhikkhus, nuns, laymen, and laywomen.
 
 49. When Ānanda heard what the Buddha taught, he rejoiced and approved.
 

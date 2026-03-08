@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato.  
 
-1At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove. The deity haunting that forest approached that mendicant and recited this verse in their presence:
+1At one time one of the bhikkhus was staying in the land of the Kosalans in a certain forest grove. The deity haunting that forest approached that bhikkhu and recited this verse in their presence:
 
 2“In the still of high noon,  
 when the birds have settled down,  

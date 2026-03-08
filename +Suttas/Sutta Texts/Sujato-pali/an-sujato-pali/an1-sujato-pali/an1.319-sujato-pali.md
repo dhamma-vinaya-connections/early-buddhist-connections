@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, I do not see a single other person who acts for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans like that silly man, Makkhali. Just as a trap set at the mouth of a river would bring harm, suffering, calamity, and disaster for many fish, so too that silly man, Makkhali, is a trap for humans, it seems to me. He has arisen in the world for the harm, suffering, calamity, and disaster of many beings.”
+1“bhikkhus, I do not see a single other person who acts for the hurt and unhappiness of the people, for the harm, hurt, and suffering of many people, of gods and humans like that silly man, Makkhali. Just as a trap set at the mouth of a river would bring harm, suffering, calamity, and disaster for many fish, so too that silly man, Makkhali, is a trap for humans, it seems to me. He has arisen in the world for the harm, suffering, calamity, and disaster of many beings.”
 
 1"Nāhaṁ, bhikkhave, aññaṁ ekapuggalampi samanupassāmi yo evaṁ bahujanaahitāya paṭipanno bahujanaasukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ yathayidaṁ, bhikkhave, makkhali moghapuriso. Seyyathāpi, bhikkhave, nadīmukhe khippaṁ uḍḍeyya bahūnaṁ macchānaṁ ahitāya dukkhāya anayāya byasanāya; evamevaṁ kho, bhikkhave, makkhali moghapuriso manussakhippaṁ maññe loke uppanno bahūnaṁ sattānaṁ ahitāya dukkhāya anayāya byasanāyā"ti.
 

@@ -11,7 +11,7 @@ language: "Pali - English"
 
 ## 625. Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū jivhānicchārakaṃ bhuñjanti…pe….
 
-## 625.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six monks were eating while sticking out their tongues…and so on.
+## 625.At that time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park. Now at that time the group of six bhikkhus were eating while sticking out their tongues…and so on.
 
 ‘‘Na jivhānicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā’’ti.
 

@@ -20,11 +20,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery, together with a large Saṅgha of 1, 250 mendicants.
+1At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery, together with a large Saṅgha of 1, 250 bhikkhus.
 
-Now at that time the Buddha was educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk about extinguishment. And those mendicants were paying heed, paying attention, engaging wholeheartedly, and lending an ear.
+Now at that time the Buddha was educating, encouraging, firing up, and inspiring the bhikkhus with a Dhamma talk about extinguishment. And those bhikkhus were paying heed, paying attention, engaging wholeheartedly, and lending an ear.
 
-Then Venerable Vaṅgīsa thought: “The Buddha is educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk about extinguishment. And those mendicants are paying heed, paying attention, engaging wholeheartedly, and lending an ear. Why don’t I extoll him in his presence with fitting verses?”
+Then Venerable Vaṅgīsa thought: “The Buddha is educating, encouraging, firing up, and inspiring the bhikkhus with a Dhamma talk about extinguishment. And those bhikkhus are paying heed, paying attention, engaging wholeheartedly, and lending an ear. Why don’t I extoll him in his presence with fitting verses?”
 
 2Then Venerable Vaṅgīsa got up from his seat, arranged his robe over one shoulder, raised his joined palms toward the Buddha, and said: “I feel inspired to speak, Blessed One! I feel inspired to speak, Holy One!”
 
@@ -32,7 +32,7 @@ Then Venerable Vaṅgīsa thought: “The Buddha is educating, encouraging, firi
 
 Then Vaṅgīsa extolled the Buddha in his presence with fitting verses:
 
-3“Over a thousand mendicants  
+3“Over a thousand bhikkhus  
 revere the Holy One  
 as he teaches the immaculate Dhamma,  
 extinguishment, fearing nothing from any quarter.
@@ -40,7 +40,7 @@ extinguishment, fearing nothing from any quarter.
 4They listen to the immaculate Dhamma  
 taught by the fully awakened Buddha;  
 the Buddha is so brilliant,  
-at the fore of the mendicant Saṅgha,
+at the fore of the bhikkhu Saṅgha,
 
 5Blessed One, your name is ‘Giant’,  
 seventh of the sages.  

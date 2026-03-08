@@ -44,7 +44,7 @@ At Sāvatthī. Then King Pasenadi of Kosala approached the Blessed One, paid h
 >   
 > 420 Who abuses and reviles ascetics,  
 >   
-> Brahmins, and other mendicants;  
+> Brahmins, and other bhikkhus;  
 >   
 > A nihilist, a scoffer, who hinders  
 >   
@@ -73,7 +73,7 @@ At Sāvatthī. Then King Pasenadi of Kosala approached the Blessed One, paid h
 >   
 > 423 Who rises up and venerates ascetics,  
 >   
-> Brahmins, and other mendicants;  
+> Brahmins, and other bhikkhus;  
 >   
 > One who trains in righteous conduct,  
 >   
@@ -102,7 +102,7 @@ At Sāvatthī. Then King Pasenadi of Kosala approached the Blessed One, paid h
 >   
 > 426 Who abuses and reviles ascetics,  
 >   
-> Brahmins, and other mendicants;  
+> Brahmins, and other bhikkhus;  
 >   
 > A nihilist, a scoffer, who hinders  
 >   
@@ -131,7 +131,7 @@ At Sāvatthī. Then King Pasenadi of Kosala approached the Blessed One, paid h
 >   
 > 429 Who rises up and venerates ascetics,  
 >   
-> Brahmins, and other mendicants;  
+> Brahmins, and other bhikkhus;  
 >   
 > One who trains in righteous conduct,  
 >   

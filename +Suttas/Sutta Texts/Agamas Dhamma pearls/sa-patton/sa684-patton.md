@@ -19,11 +19,11 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
 
-2. It was then that the Bhagavān addressed the monks, “Suppose a monk grows tired of form and parts with desire for it. It ceases completely, doesn’t arise, and he’s liberated from it. This is called the unsurpassed, correct, and complete awakening. _Feeling, conception, volition, and consciousness are likewise._ Suppose, again, a monk grows tired of form and parts with desire for it. It doesn’t arise, and he’s liberated from it. This is called an arhat liberated by wisdom. _Feeling, conception, volition, and consciousness are likewise._ Monks, what are the various differences between the Tathāgata, Arhat, and Completely Awakened One and an arhat who’s liberated by wisdom?”
+2. It was then that the Bhagavān addressed the bhikkhus, “Suppose a monk grows tired of form and parts with desire for it. It ceases completely, doesn’t arise, and he’s liberated from it. This is called the unsurpassed, correct, and complete awakening. _Feeling, conception, volition, and consciousness are likewise._ Suppose, again, a monk grows tired of form and parts with desire for it. It doesn’t arise, and he’s liberated from it. This is called an arhat liberated by wisdom. _Feeling, conception, volition, and consciousness are likewise._ bhikkhus, what are the various differences between the Tathāgata, Arhat, and Completely Awakened One and an arhat who’s liberated by wisdom?”
 
-3. The monks said to the Buddha, “The Bhagavān is the Dharma root, the Dharma eye, and the Dharma support! Please let him explain it. Once they hear it, the monks will accept and approve of it.”
+3. The bhikkhus said to the Buddha, “The Bhagavān is the Dharma root, the Dharma eye, and the Dharma support! Please let him explain it. Once they hear it, the bhikkhus will accept and approve of it.”
 
-4. The Buddha told the monks, “Listen closely, and consider it well. I’ll explain this for you. Before the teaching had yet to be heard, the Tathāgata, Arhat, and Completely Awakened One realized and knew it himself. Knowing it himself in the present life, he attained complete awakening. He was able at a future time to explain the correct teaching that awakened his disciples, namely the four abodes of mindfulness, four right efforts, four mental abilities, five faculties, five powers, seven factors of awakening, and the eightfold path. This is called the Tathāgata, Arhat, and Completely Awakened One.
+4. The Buddha told the bhikkhus, “Listen closely, and consider it well. I’ll explain this for you. Before the teaching had yet to be heard, the Tathāgata, Arhat, and Completely Awakened One realized and knew it himself. Knowing it himself in the present life, he attained complete awakening. He was able at a future time to explain the correct teaching that awakened his disciples, namely the four abodes of mindfulness, four right efforts, four mental abilities, five faculties, five powers, seven factors of awakening, and the eightfold path. This is called the Tathāgata, Arhat, and Completely Awakened One.
 
 5. “He attained the teaching that had yet to be attained, managed the religious practice that had yet to be managed, and well knew the path that he knows well as the leader of this assembly. Afterward, his disciples succeeded in following the teaching and the path. They are delighted and appreciate the great teacher’s instruction, teaching, and skill in the correct Dharma. These are called the various differences between the Tathāgata, Arhat, and Completely Awakened One and the arhat who’s liberated by wisdom.
 
@@ -51,7 +51,7 @@ language: "English"
 
 17. “These ten powers are only accomplished by the Tathāgata. These are called the many differences between the Tathāgata and the disciples.”
 
-18. After the Buddha spoke this sūtra, the monks who heard what the Buddha taught rejoiced and approved.
+18. After the Buddha spoke this sūtra, the bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 ---
 

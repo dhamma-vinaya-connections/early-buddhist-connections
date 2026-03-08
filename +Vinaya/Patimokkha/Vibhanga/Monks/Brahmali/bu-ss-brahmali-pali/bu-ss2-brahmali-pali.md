@@ -31,7 +31,7 @@ And he expressed his delight, “These Sakyan monastics who live in the wilderne
 
 The brahmin then complained and criticized him, “These Sakyan monastics are shameless and immoral liars. They claim to have integrity, to be celibate and of good conduct, to be truthful, moral, and good. But they don’t have the good character of a monastic or a brahmin. They’ve lost the plot! How could the ascetic Udāyī touch my wife all over? It’s not possible to go to a monastery or a monk’s dwelling with a wife from a respectable family, or with a daughter, a girl, a daughter-in-law, or a female slave from a respectable family. If you do, the Sakyan monastics might molest them.”
 
-4The monks heard the criticism of that brahmin. The monks of few desires complained and criticized Udāyī, “How could Venerable Udāyī make physical contact with a woman?”
+4The bhikkhus heard the criticism of that brahmin. The bhikkhus of few desires complained and criticized Udāyī, “How could Venerable Udāyī make physical contact with a woman?”
 
 5They told the Buddha. He then had the Sangha gathered and questioned Udāyī:
 
@@ -40,7 +40,7 @@ The brahmin then complained and criticized him, “These Sakyan monastics are sh
 “It’s true, Sir.”
 
 
-The Buddha rebuked him, “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you do this? Haven’t I given many teachings for the sake of dispassion, not for the sake of passion … the stilling of the fevers of sensual pleasure? This will affect people’s confidence …” … “And, monks, this training rule should be recited like this:
+The Buddha rebuked him, “Foolish man, it’s not suitable, it’s not proper, it’s not worthy of a monastic, it’s not allowable, it’s not to be done. How could you do this? Haven’t I given many teachings for the sake of dispassion, not for the sake of passion … the stilling of the fevers of sensual pleasure? This will affect people’s confidence …” … “And, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

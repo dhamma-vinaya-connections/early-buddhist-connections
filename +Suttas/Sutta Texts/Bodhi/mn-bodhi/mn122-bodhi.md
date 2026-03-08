@@ -34,7 +34,7 @@ Now on that occasion the venerable Ānanda, along with many bhikkhus, was busy 
 
 7\. “Therefore, Ānanda, if a bhikkhu should wish: ‘May I enter upon and abide in voidness internally,’ he should steady his mind internally, quiet it, bring it to singleness, and concentrate it. And how does he steady his mind internally, quiet it, bring it to singleness, and concentrate it?
 
-8\. “Here, Ānanda, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna…the second jhāna…the third jhāna…the fourth jhāna, which has neither-pain-nor-pleasure and purity of mindfulness due to equanimity. That is how a bhikkhu steadies his mind internally, quiets it, brings it to singleness, and concentrates it. \[112\]
+8\. “Here, Ānanda, ![[Jhanas]]. That is how a bhikkhu steadies his mind internally, quiets it, brings it to singleness, and concentrates it. \[112\]
 
 9\. “Then he gives attention to voidness internally. While he is giving attention to voidness internally, his mind does not enter into voidness internally or acquire confidence, steadiness, and decision. When that is so, he understands thus: ‘While I am giving attention to voidness internally, my mind does not enter into voidness internally or acquire confidence, steadiness, and decision.’ In this way he has full awareness of that.
 

@@ -52,25 +52,25 @@ Then the Buddha educated, encouraged, fired up, and inspired Venerable Phagguṇ
 
 Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, soon after the Buddha left, Venerable Phagguṇa died. At the time of his death, his faculties were bright and clear.”
 
-8“And why shouldn’t his faculties be bright and clear? The mendicant Phagguṇa’s mind was not freed from the five lower fetters.
+8“And why shouldn’t his faculties be bright and clear? The bhikkhu Phagguṇa’s mind was not freed from the five lower fetters.
 
 But when he heard that teaching his mind was freed from them.
 
 
 9Ānanda, there are these six benefits to hearing the teaching at the right time and examining the meaning at the right time. What six?
 
-Firstly, take the case of a mendicant whose mind is not freed from the five lower fetters. At the time of death they get to see the Realized One. The Realized One teaches them Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. When they hear that teaching their mind is freed from the five lower fetters. This is the first benefit of listening to the teaching.
+Firstly, take the case of a bhikkhu whose mind is not freed from the five lower fetters. At the time of death they get to see the Realized One. The Realized One teaches them Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. When they hear that teaching their mind is freed from the five lower fetters. This is the first benefit of listening to the teaching.
 
-10Next, take the case of another mendicant whose mind is not freed from the five lower fetters. At the time of death they don’t get to see the Realized One, but they get to see a Realized One’s disciple. The Realized One’s disciple teaches them Dhamma … When they hear that teaching their mind is freed from the five lower fetters. This is the second benefit of listening to the teaching.
+10Next, take the case of another bhikkhu whose mind is not freed from the five lower fetters. At the time of death they don’t get to see the Realized One, but they get to see a Realized One’s disciple. The Realized One’s disciple teaches them Dhamma … When they hear that teaching their mind is freed from the five lower fetters. This is the second benefit of listening to the teaching.
 
-11Next, take the case of another mendicant whose mind is not freed from the five lower fetters. At the time of death they don’t get to see the Realized One, or to see a Realized One’s disciple. But they think about and consider the teaching in their heart, examining it with the mind as they learned and memorized it. As they do so their mind is freed from the five lower fetters. This is the third benefit of listening to the teaching.
+11Next, take the case of another bhikkhu whose mind is not freed from the five lower fetters. At the time of death they don’t get to see the Realized One, or to see a Realized One’s disciple. But they think about and consider the teaching in their heart, examining it with the mind as they learned and memorized it. As they do so their mind is freed from the five lower fetters. This is the third benefit of listening to the teaching.
 
-12Next, take the case of a mendicant whose mind is freed from the five lower fetters, but not with the supreme ending of attachments. At the time of death they get to see the Realized One. The Realized One teaches them Dhamma … When they hear that teaching their mind is freed with the supreme ending of attachments. This is the fourth benefit of listening to the teaching.
+12Next, take the case of a bhikkhu whose mind is freed from the five lower fetters, but not with the supreme ending of attachments. At the time of death they get to see the Realized One. The Realized One teaches them Dhamma … When they hear that teaching their mind is freed with the supreme ending of attachments. This is the fourth benefit of listening to the teaching.
 
-13Next, take the case of another mendicant whose mind is freed from the five lower fetters, but not with the supreme ending of attachments. At the time of death they don’t get to see the Realized One, but they get to see a Realized One’s disciple. The Realized One’s disciple teaches them Dhamma … When they hear that teaching their mind is freed with the supreme ending of attachments. This is the fifth benefit of listening to the teaching.
+13Next, take the case of another bhikkhu whose mind is freed from the five lower fetters, but not with the supreme ending of attachments. At the time of death they don’t get to see the Realized One, but they get to see a Realized One’s disciple. The Realized One’s disciple teaches them Dhamma … When they hear that teaching their mind is freed with the supreme ending of attachments. This is the fifth benefit of listening to the teaching.
 
 
-14Next, take the case of another mendicant whose mind is freed from the five lower fetters, but not with the supreme ending of attachments. At the time of death they don’t get to see the Realized One, or to see a Realized One’s disciple. But they think about and consider the teaching in their heart, examining it with the mind as they learned and memorized it. As they do so their mind is freed with the supreme ending of attachments. This is the sixth benefit of listening to the teaching.
+14Next, take the case of another bhikkhu whose mind is freed from the five lower fetters, but not with the supreme ending of attachments. At the time of death they don’t get to see the Realized One, or to see a Realized One’s disciple. But they think about and consider the teaching in their heart, examining it with the mind as they learned and memorized it. As they do so their mind is freed with the supreme ending of attachments. This is the sixth benefit of listening to the teaching.
 
 15These are the six benefits to hearing the teaching at the right time and examining the meaning at the right time.”
 

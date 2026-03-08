@@ -51,7 +51,7 @@ parallels_partilal: "[[SA827]]"
 > [!info] Key Excerpts 
 > Have keen enthusiasm for undertaking the training in the higher ethics, the higher mind, and the higher wisdom
 > 
-> Duties of a farmer are like those of a mendicant.
+> Duties of a farmer are like those of a bhikkhu.
 > 
 
 > [!info] Similes

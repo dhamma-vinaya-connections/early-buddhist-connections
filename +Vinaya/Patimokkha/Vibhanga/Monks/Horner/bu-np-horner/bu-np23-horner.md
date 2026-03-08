@@ -7,7 +7,7 @@ language: "English"
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
 > ◄  [[bu-np22-horner]] 📜  [[bu-np24-horner]] ►
 
-# Monks’ Forfeiture (_Nissaggiya_) 23
+# bhikkhus’ Forfeiture (_Nissaggiya_) 23
 
 *Bu-NP.23.1.1* *BD.2.126* … at Sāvatthī in the Jeta Grove in Anāthapiṇḍika’s monastery.[^1] Now at that time the venerable Pilindavaccha,[^2] desiring to make a cave,[^3] had a (mountain) slope cleared near Rājagaha. Then King Seniya Bimbisāra of Magadha approached the venerable Pilindavaccha, and having approached and greeted the venerable Pilindavaccha, he sat down at a respectful distance. As he was sitting down at a respectful distance, King Seniya Bimbisāra of Magadha spoke thus to the venerable Pilindavaccha:
 
@@ -27,7 +27,7 @@ Then the venerable Pilindavaccha taught, roused and gladdened King Seniya Bimbis
 
 Then the venerable Pilindavaccha sent a messenger to the lord, to say: “Lord, King Seniya Bimbisāra of Magadha desires to present an attendant for a monastery. *BD.2.127* Now, lord, what line of conduct is to be followed?”
 
-Then the lord, on this occasion, in this connection, having given reasoned talk, addressed the monks, saying: “Monks, I allow an attendant for a monastery.”
+Then the lord, on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying: “bhikkhus, I allow an attendant for a monastery.”
 
 Then a second time did King *Vin.3.249* Seniya Bimbisāra of Magadha approach the venerable Pilindavaccha, and having approached and greeted the venerable Pilindavaccha, he sat down at a respectful distance. As he was sitting down at a respectful distance, King Seniya Bimbisāra of Magadha spoke thus to the venerable Pilindavaccha:
 
@@ -73,29 +73,29 @@ Then King Seniya Bimbisāra of Magadha had that monastery attendant’s family i
 
 Then the venerable Pilindavaccha exercised volitional force,[^14] and said: “The palace[^15] of King Seniya Bimbisāra of Magadha is golden,” and it became made all of gold.[^16] He said: “Now, Sire, from where have you got so much gold?”
 
-Saying, “I understand, honoured sir, this is the master’s majesty of psychic potency,” he set free the monastery attendant’s family. People, delighted, full of satisfaction because they heard that a state of further-men, a wonder of psychic potency had been shown by master Pilindavaccha to the king and his retinue, presented the five kinds of medicine to the venerable Pilindavaccha, that is to say ghee, fresh butter, oil, honey, molasses. Now the venerable Pilindavaccha was customarily a receiver,[^17] so when he received the five kinds of medicine he gave them away among his company. And his company came to live in abundance; whatever they received, filling pots and pitchers, they put them away, and filling water-strainers and bags, they hung them up[^18] in the windows. These (pots, etc.) were leaking,[^19] and the dwelling-places became beset and *BD.2.131* overrun[^20] by rats. *Vin.3.251* People seeing (this) as they were engaged in touring the dwelling-places, looked down upon, criticised, spread it about, saying: “These recluses, sons of the Sakyans, are storing up goods indoors,[^21] like King Seniya Bimbisāra of Magadha.” Monks heard these people who … spread it about. Those who were modest monks … spread it about, saying: “How can monks strive after abundance such as this?” Then these monks told this matter to the lord. He said:
+Saying, “I understand, honoured sir, this is the master’s majesty of psychic potency,” he set free the monastery attendant’s family. People, delighted, full of satisfaction because they heard that a state of further-men, a wonder of psychic potency had been shown by master Pilindavaccha to the king and his retinue, presented the five kinds of medicine to the venerable Pilindavaccha, that is to say ghee, fresh butter, oil, honey, molasses. Now the venerable Pilindavaccha was customarily a receiver,[^17] so when he received the five kinds of medicine he gave them away among his company. And his company came to live in abundance; whatever they received, filling pots and pitchers, they put them away, and filling water-strainers and bags, they hung them up[^18] in the windows. These (pots, etc.) were leaking,[^19] and the dwelling-places became beset and *BD.2.131* overrun[^20] by rats. *Vin.3.251* People seeing (this) as they were engaged in touring the dwelling-places, looked down upon, criticised, spread it about, saying: “These recluses, sons of the Sakyans, are storing up goods indoors,[^21] like King Seniya Bimbisāra of Magadha.” bhikkhus heard these people who … spread it about. Those who were modest bhikkhus … spread it about, saying: “How can bhikkhus strive after abundance such as this?” Then these bhikkhus told this matter to the lord. He said:
 
-“Is it true, as is said, monks, that monks strive after abundance such as this?”
+“Is it true, as is said, bhikkhus, that bhikkhus strive after abundance such as this?”
 
 “It is true, lord,” they said.
 
 The enlightened one, the lord, rebuked them, saying:
 
-“Monks, how can these foolish men strive after abundance such as this? It is not, monks, for pleasing those who are not (yet) pleased … And thus, monks, this rule of training should be set forth:[^22]
+“bhikkhus, how can these foolish men strive after abundance such as this? It is not, bhikkhus, for pleasing those who are not (yet) pleased … And thus, bhikkhus, this rule of training should be set forth:[^22]
 
-“Those medicines which may be partaken of[^23] by ill monks, that is to say, ghee, fresh butter, oil, honey, molasses: accepting these, they may be used as a store for at most seven days. For him who exceeds that (period), there is an offence of expiation involving forfeiture.”[^24]
+“Those medicines which may be partaken of[^23] by ill bhikkhus, that is to say, ghee, fresh butter, oil, honey, molasses: accepting these, they may be used as a store for at most seven days. For him who exceeds that (period), there is an offence of expiation involving forfeiture.”[^24]
 
 * * *
 
-*Bu-NP.23.2.1* Those medicines which are partaken of by ill monks means: _ghee_[^25] is called ghee from cows or ghee from *BD.2.132*she-goats or ghee from buffaloes; ghee from those whose meat is suitable. Fresh butter means: fresh butter from just these. Oil means: sesamum oil, oil of mustard seeds, oil containing honey,[^26] oil of the castor-oil plant, oil from tallow.[^27] Honey means: honey of bees.[^28] Molasses means: what is produced from sugar-cane.
+*Bu-NP.23.2.1* Those medicines which are partaken of by ill bhikkhus means: _ghee_[^25] is called ghee from cows or ghee from *BD.2.132*she-goats or ghee from buffaloes; ghee from those whose meat is suitable. Fresh butter means: fresh butter from just these. Oil means: sesamum oil, oil of mustard seeds, oil containing honey,[^26] oil of the castor-oil plant, oil from tallow.[^27] Honey means: honey of bees.[^28] Molasses means: what is produced from sugar-cane.
 
 Accepting these, they may be used as a store for at most seven days means: they may be used for seven days at the maximum.
 
-For him who exceeds that (period) there is an offence involving forfeiture means: it is to be forfeited on the eighth day at sunrise. It should be forfeited to … an individual. And thus, monks, should it be forfeited: ‘Honoured sirs, seven days having elapsed, this medicine of mine is to be forfeited. I forfeit it to the Order.’ … ‘… the Order should give back … let the venerable ones give back … May I give back this medicine to the venerable one?’
+For him who exceeds that (period) there is an offence involving forfeiture means: it is to be forfeited on the eighth day at sunrise. It should be forfeited to … an individual. And thus, bhikkhus, should it be forfeited: ‘Honoured sirs, seven days having elapsed, this medicine of mine is to be forfeited. I forfeit it to the Order.’ … ‘… the Order should give back … let the venerable ones give back … May I give back this medicine to the venerable one?’
 
 If he thinks that seven days have elapsed when they have elapsed, there is an offence of expiation involving forfeiture. If he is in doubt as to whether the seven days have elapsed, there is an offence of expiation involving forfeiture. If he thinks that the seven days have elapsed when they have not elapsed, there is an offence of expiation involving forfeiture. If he thinks that it is allotted[^29] when it is not allotted, there is an offence of expiation involving forfeiture. If he thinks that it is bestowed when it is not bestowed … If he thinks that it is lost when it is not lost … If he thinks that it is destroyed when it is not destroyed … *Vin.3.252* If he thinks that it is burnt when it is not burnt, there is an offence of expiation involving forfeiture. If *BD.2.133* he thinks that it is stolen when it is not stolen, there is an offence of expiation involving forfeiture.
 
-Acquiring something that has been forfeited,[^30] it must not be made use of for bodily enjoyment,[^31] it must not be consumed, it may be done into[^32] a lamp or black colour,[^33] it may be made use of by another monk for bodily enjoyment, it must not be consumed (by him). If he thinks that the seven days have not elapsed when they have elapsed, there is an offence of wrong-doing. If he is in doubt as to whether the seven days have not elapsed, there is an offence of wrong-doing. If he thinks that the seven days have not elapsed when they have not elapsed, there is no offence.
+Acquiring something that has been forfeited,[^30] it must not be made use of for bodily enjoyment,[^31] it must not be consumed, it may be done into[^32] a lamp or black colour,[^33] it may be made use of by another bhikkhu for bodily enjoyment, it must not be consumed (by him). If he thinks that the seven days have not elapsed when they have elapsed, there is an offence of wrong-doing. If he is in doubt as to whether the seven days have not elapsed, there is an offence of wrong-doing. If he thinks that the seven days have not elapsed when they have not elapsed, there is no offence.
 
 There is no offence if within seven days it is allotted, bestowed, lost, destroyed, burnt; if they tear it from them; if they take it on trust; if it is sacrificed, renounced, given up[^34] to one who is not ordained; if one devoid of longing,[^35] giving (and) acquiring, makes use of it; if he is mad, if he is the first wrong-doer.
 
@@ -103,7 +103,7 @@ There is no offence if within seven days it is allotted, bestowed, lost, destroy
 
 Theravāda Vinayapiṭaka
 
-Monks’ rules and their analysis
+bhikkhus’ rules and their analysis
 
 
 ---

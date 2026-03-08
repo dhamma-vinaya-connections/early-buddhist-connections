@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Once upon a time, mendicants, Sakka, lord of gods, guiding the gods of the Thirty-Three, recited this verse:
+1“Once upon a time, bhikkhus, Sakka, lord of gods, guiding the gods of the Thirty-Three, recited this verse:
 
 2‘Whoever wants to be like me  
 would observe the sabbath  
@@ -31,7 +31,7 @@ as well as on the fortnightly special displays.’
 
 3But that verse was poorly sung by Sakka, lord of gods, not well sung; poorly spoken, not well spoken. Why is that? Because Sakka, lord of gods, is not exempt from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. He is not exempt from suffering, I say.
 
-4But for a mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — it is appropriate to say:
+4But for a bhikkhu who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their own true goal, utterly ended the fetters of rebirth, and is rightly freed through enlightenment — it is appropriate to say:
 
 5‘Whoever wants to be like me  
 would observe the sabbath,  
@@ -40,7 +40,7 @@ on the fourteenth and the fifteenth days,
 and the eighth day of the fortnight,  
 as well as on the fortnightly special displays.’
 
-6Why is that? Because that mendicant is exempt from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. He is exempt from suffering, I say.”
+6Why is that? Because that bhikkhu is exempt from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. He is exempt from suffering, I say.”
 
 1"Bhūtapubbaṁ, bhikkhave, sakko devānamindo deve tāvatiṁse anunayamāno tāyaṁ velāyaṁ imaṁ gāthaṁ abhāsi: 
 

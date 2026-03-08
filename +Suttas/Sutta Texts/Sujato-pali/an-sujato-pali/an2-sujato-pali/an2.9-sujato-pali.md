@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“These two bright things, mendicants, protect the world. What two? Conscience and prudence. If these two bright things did not protect the world, there would be no recognition of the status of mother, aunts, or wives and partners of teachers and respected people. The world would become promiscuous, like goats and sheep, chickens and pigs, and dogs and jackals. But because the two bright things protect the world, there is recognition of the status of mother, aunts, and wives and partners of teachers and respected people.”
+1“These two bright things, bhikkhus, protect the world. What two? Conscience and prudence. If these two bright things did not protect the world, there would be no recognition of the status of mother, aunts, or wives and partners of teachers and respected people. The world would become promiscuous, like goats and sheep, chickens and pigs, and dogs and jackals. But because the two bright things protect the world, there is recognition of the status of mother, aunts, and wives and partners of teachers and respected people.”
 
 1"Dveme, bhikkhave, dhammā sukkā lokaṁ pālenti. Katame dve? Hirī ca ottappañca. Ime kho, bhikkhave, dve sukkā dhammā lokaṁ na pāleyyuṁ, nayidha paññāyetha mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṁ dārāti vā. Sambhedaṁ loko agamissa, yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā. Yasmā ca kho, bhikkhave, ime dve sukkā dhammā lokaṁ pālenti tasmā paññāyati mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṁ dārāti vā"ti.
 

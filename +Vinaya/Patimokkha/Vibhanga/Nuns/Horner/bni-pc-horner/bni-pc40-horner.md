@@ -9,9 +9,9 @@ language: "English"
 
 # Nuns’ Expiation (_Pācittiya_) 40
 
-*Bi-Pc.40.1.1* *BD.3.322* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding place. Now at that time nuns, as before,[^1] spent the rains in Rājagaha, the cold weather there, the hot weather there. People … spread it about, saying: “The (four) quarters are blocked,[^2] confused with nuns; because of them the (four) quarters are not seen.”[^3] Nuns heard these people who … spread it about. Then these nuns told this matter to the monks. The monks told this matter to the lord. Then the lord, on this occasion, in this connection, having given reasoned talk, addressed the monks, saying:
+*Bi-Pc.40.1.1* *BD.3.322* … at Rājagaha in the Bamboo Grove at the squirrels’ feeding place. Now at that time nuns, as before,[^1] spent the rains in Rājagaha, the cold weather there, the hot weather there. People … spread it about, saying: “The (four) quarters are blocked,[^2] confused with nuns; because of them the (four) quarters are not seen.”[^3] Nuns heard these people who … spread it about. Then these nuns told this matter to the bhikkhus. The bhikkhus told this matter to the lord. Then the lord, on this occasion, in this connection, having given reasoned talk, addressed the bhikkhus, saying:
 
-“Because of this, monks, I will lay down a rule of training founded on ten reasons: for the excellence of the Order[^4] … And thus, monks, let the nuns set forth this rule of training:
+“Because of this, bhikkhus, I will lay down a rule of training founded on ten reasons: for the excellence of the Order[^4] … And thus, bhikkhus, let the nuns set forth this rule of training:
 
 “Whatever nun, having kept the rains, should not set out on almstour, even for (a distance of) five or six _yojanas_, there is an offence of expiation.”
 

@@ -16,16 +16,16 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time in Sāvatthī there was a family where both the husband and the wife had confidence. They were growing in faith, but declining in wealth. Whatever food they had in the morning, they gave to the monks. Sometimes they went without food. People complained and criticized the monks:
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time in Sāvatthī there was a family where both the husband and the wife had confidence. They were growing in faith, but declining in wealth. Whatever food they had in the morning, they gave to the bhikkhus. Sometimes they went without food. People complained and criticized the bhikkhus:
 
 “How can the Sakyan monastics not have a sense of moderation in receiving offerings? After giving to them, these people sometimes go without.”
 
-2The monks heard the complaints of those people and they told the Buddha.
+2The bhikkhus heard the complaints of those people and they told the Buddha.
 
 
-Soon afterwards the Buddha gave a teaching and addressed the monks:
+Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, if a family’s faith is growing, but its wealth is declining, I allow you to designate it as ‘in training’, through a legal procedure consisting of one motion and one announcement.
+“bhikkhus, if a family’s faith is growing, but its wealth is declining, I allow you to designate it as ‘in training’, through a legal procedure consisting of one motion and one announcement.
 
 And the designation should be given like this. A competent and capable monk should inform the Sangha:
 
@@ -36,32 +36,32 @@ And the designation should be given like this. A competent and capable monk shou
 
 5The Sangha has designated such-and-such a family as “in training”. The Sangha approves and is therefore silent. I’ll remember it thus.’
 
-6“And, monks, this training rule should be recited like this:
+6“And, bhikkhus, this training rule should be recited like this:
 
 7‘There are families that are designated as “in training”. If a monk eats fresh or cooked food after personally receiving it from such a family, he must acknowledge it: “I have done a blameworthy and unsuitable thing that is to be acknowledged. I acknowledge it.”’”
 
-8In this way the Buddha laid down this training rule for the monks.
+8In this way the Buddha laid down this training rule for the bhikkhus.
 
-9Soon afterwards there was a celebration in Sāvatthī and people invited the monks for a meal. And so did the family that had been designated as in training. But knowing that the Buddha had prohibited eating fresh or cooked food after personally receiving it from such a family, and being afraid of wrongdoing, the monks did not accept. That family complained and criticized them, “What is it with us that they don’t receive from us?”
+9Soon afterwards there was a celebration in Sāvatthī and people invited the bhikkhus for a meal. And so did the family that had been designated as in training. But knowing that the Buddha had prohibited eating fresh or cooked food after personally receiving it from such a family, and being afraid of wrongdoing, the bhikkhus did not accept. That family complained and criticized them, “What is it with us that they don’t receive from us?”
 
-10The monks heard the complaints of those people and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+10The bhikkhus heard the complaints of those people and they told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, if you have been invited, I allow you to eat fresh or cooked food after personally receiving it from a family designated as in training.
+“bhikkhus, if you have been invited, I allow you to eat fresh or cooked food after personally receiving it from a family designated as in training.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 
 11‘There are families that are designated as “in training”. If a monk, without first being invited, eats fresh or cooked food after personally receiving it from such a family, he must acknowledge it: “I have done a blameworthy and unsuitable thing that is to be acknowledged. I acknowledge it.”’”
 
-12In this way the Buddha laid down this training rule for the monks.
+12In this way the Buddha laid down this training rule for the bhikkhus.
 
 13Soon afterwards a certain monk was associating with that family. One morning he robed up, took his bowl and robe, went to them, and sat down on the prepared seat. Just then that monk was sick, and so they invited him to eat. But knowing that the Buddha had prohibited an uninvited monk from eating fresh or cooked food after personally receiving it from such a family, and being afraid of wrongdoing, he did not accept. And being unable to walk for alms, he missed his meal.
 
-14He then returned to the monastery and told the monks what had happened, who in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the monks:
+14He then returned to the monastery and told the bhikkhus what had happened, who in turn told the Buddha. Soon afterwards the Buddha gave a teaching and addressed the bhikkhus:
 
-“Monks, I allow a sick monk to eat fresh or cooked food after personally receiving it from a family designated as in training.
+“bhikkhus, I allow a sick monk to eat fresh or cooked food after personally receiving it from a family designated as in training.
 
-And so, monks, this training rule should be recited like this:
+And so, bhikkhus, this training rule should be recited like this:
 
 #### Final ruling
 

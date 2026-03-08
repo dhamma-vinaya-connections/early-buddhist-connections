@@ -20,18 +20,18 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1There Sāriputta addressed the mendicants: “Reverends, mendicants!”
+1There Sāriputta addressed the bhikkhus: “Reverends, bhikkhus!”
 
 “Reverend,” they replied. Sāriputta said this:
 
 
-2“A mendicant lives life so as to not have a good death. And how do they live life so as to not have a good death?
+2“A bhikkhu lives life so as to not have a good death. And how do they live life so as to not have a good death?
 
-3Take a mendicant who relishes work, talk, sleep, company, closeness, and proliferation. They love these things and like to relish them. A mendicant who lives life like this does not have a good death. This is called a mendicant who enjoys identity, who hasn’t given up identity to rightly make an end of suffering.
+3Take a bhikkhu who relishes work, talk, sleep, company, closeness, and proliferation. They love these things and like to relish them. A bhikkhu who lives life like this does not have a good death. This is called a bhikkhu who enjoys identity, who hasn’t given up identity to rightly make an end of suffering.
 
-4A mendicant lives life so as to have a good death. And how do they live life so as to have a good death?
+4A bhikkhu lives life so as to have a good death. And how do they live life so as to have a good death?
 
-5Take a mendicant who doesn’t relish work, talk, sleep, company, closeness, and proliferation. They don’t love these things or like to relish them. A mendicant who lives life like this has a good death. This is called a mendicant who delights in extinguishment, who has given up identity to rightly make an end of suffering.
+5Take a bhikkhu who doesn’t relish work, talk, sleep, company, closeness, and proliferation. They don’t love these things or like to relish them. A bhikkhu who lives life like this has a good death. This is called a bhikkhu who delights in extinguishment, who has given up identity to rightly make an end of suffering.
 
 
 6A beast who likes to proliferate,  

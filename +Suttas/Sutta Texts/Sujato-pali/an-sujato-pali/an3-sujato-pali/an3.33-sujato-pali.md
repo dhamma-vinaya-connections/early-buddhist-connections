@@ -29,7 +29,7 @@ language: "English - Pali"
 
 2“So, Sāriputta, you should train like this: ‘There’ll be no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to conceit for all external stimuli; and we’ll live having achieved the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more.’ That’s how you should train.
 
-3When a mendicant has no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to conceit for all external stimuli; and they live having attained the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more — they’re called a mendicant who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.
+3When a bhikkhu has no ego, possessiveness, or underlying tendency to conceit for this conscious body; and no ego, possessiveness, or underlying tendency to conceit for all external stimuli; and they live having attained the freedom of heart and freedom by wisdom where ego, possessiveness, and underlying tendency to conceit are no more — they’re called a bhikkhu who has cut off craving, untied the fetters, and by rightly comprehending conceit has made an end of suffering.
 
 
 And Sāriputta, this is what I was referring to in ‘The Way to the Beyond’, in ‘The Questions of Udaya’ when I said:

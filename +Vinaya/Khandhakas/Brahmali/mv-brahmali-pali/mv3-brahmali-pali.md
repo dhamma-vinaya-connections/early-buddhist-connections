@@ -23,20 +23,20 @@ language: "English - Pali"
 > ```
 
 
-1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time the Buddha had not yet laid down the rainy-season residence for the monks. And so the monks were wandering about in the winter, in the summer, and also during the rainy season.
+1At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary. At that time the Buddha had not yet laid down the rainy-season residence for the bhikkhus. And so the bhikkhus were wandering about in the winter, in the summer, and also during the rainy season.
 
 People complained and criticized them: “How can the Sakyan monastics go wandering in the winter, in the summer, and even during the rainy season? They’re trampling down the green grass, oppressing one-sensed life, and destroying many small creatures. Even the monastics of other religions, with their flawed teachings, settle down for the rainy-season. Even birds make a nest in the top of a tree and settle down for the rainy-season. But not so the Sakyan monastics.”
 
-2The monks heard the complaints of those people and told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+2The bhikkhus heard the complaints of those people and told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
 “You should enter the rainy-season residence.”
 
 
-The monks thought: “When should we enter the rains residence?” They told the Buddha.
+The bhikkhus thought: “When should we enter the rains residence?” They told the Buddha.
 
 “You should enter the rainy-season residence during the rainy season.”
 
-3The monks thought: “How many entries to the rains residence are there?”
+3The bhikkhus thought: “How many entries to the rains residence are there?”
 
 “There are two entries to the rainy-season residence: the first and the second. The first should be entered on the day after the full moon of July and the second one month after the same full moon.”
 
@@ -50,24 +50,24 @@ The monks thought: “When should we enter the rains residence?” They told the
 > ```
 
 
-4Soon afterwards the monks from the group of six entered the rains residence and then went wandering during the rainy season. People complained and criticized them just as they had before.
+4Soon afterwards the bhikkhus from the group of six entered the rains residence and then went wandering during the rainy season. People complained and criticized them just as they had before.
 
 
-5The monks heard the complaints of those people and the monks of few desires complained and criticized them: “How could the monks from the group of six enter the rains residence and then go wandering during the rainy season?” And they told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+5The bhikkhus heard the complaints of those people and the bhikkhus of few desires complained and criticized them: “How could the bhikkhus from the group of six enter the rains residence and then go wandering during the rainy season?” And they told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
 “After entering the rainy-season residence, you should stay put for the first or the second three-month period before you go wandering. If you go wandering during the rainy-season residence period, you commit an offense of wrong conduct.”
 
 
-6The monks from the group of six did not want to enter the rains residence.
+6The bhikkhus from the group of six did not want to enter the rains residence.
 
 “You should enter the rainy-season residence. If you don’t, you commit an offense of wrong conduct.”
 
 
-7On the day of the entry to the rains residence, the monks from the group of six deliberately bypassed a monastery because they did not want to enter the rains residence.
+7On the day of the entry to the rains residence, the bhikkhus from the group of six deliberately bypassed a monastery because they did not want to enter the rains residence.
 
 “On the day of the entry to the rainy-season residence, you shouldn’t deliberately bypass a monastery because you don’t want to enter the rainy-season residence. If you do, you commit an offense of wrong conduct.”
 
-8At one time King Seniya Bimbisāra of Magadha wanted to postpone the rains residence. He sent a message to the monks: “Would the venerables please enter the rains residence at the next full moon?” They told the Buddha.
+8At one time King Seniya Bimbisāra of Magadha wanted to postpone the rains residence. He sent a message to the bhikkhus: “Would the venerables please enter the rains residence at the next full moon?” They told the Buddha.
 
 “You should comply with the wishes of kings.”
 
@@ -83,37 +83,37 @@ The monks thought: “When should we enter the rains residence?” They told the
 
 9When the Buddha had stayed at Rājagaha for as long as he liked, he set out wandering toward Sāvatthī. When he eventually arrived, he stayed in the Jeta Grove, Anāthapiṇḍika’s Monastery.
 
-At that time the lay follower Udena had had a dwelling built for the Saṅgha in the Kosalan country. He sent a message to the monks: “Please come, Venerables, I wish to make an offering, hear the Teaching, and see the monks.”
+At that time the lay follower Udena had had a dwelling built for the Saṅgha in the Kosalan country. He sent a message to the bhikkhus: “Please come, Venerables, I wish to make an offering, hear the Teaching, and see the bhikkhus.”
 
-The monks replied: “The Buddha has laid down a rule that a monk who’s entered the rains residence shouldn’t go wandering until after the rains. Please wait, Udena. Once we’ve completed the rains residence, we’ll come. But if the matter is urgent, then give the dwelling in the presence of the local monks.”
+The bhikkhus replied: “The Buddha has laid down a rule that a monk who’s entered the rains residence shouldn’t go wandering until after the rains. Please wait, Udena. Once we’ve completed the rains residence, we’ll come. But if the matter is urgent, then give the dwelling in the presence of the local bhikkhus.”
 
 Udena complained and criticized them: “How can the venerables not come when I’ve sent them a message? I’m a donor and I provide services. I’m a supporter of the Saṅgha!”
 
 
-10The monks heard his complaints and they told the Buddha. Soon afterwards he gave a teaching and addressed the monks:
+10The bhikkhus heard his complaints and they told the Buddha. Soon afterwards he gave a teaching and addressed the bhikkhus:
 
 “If any of seven kinds of persons—a monk, a nun, a trainee nun, a novice monk, a novice nun, a male lay follower, or a female lay follower—asks you to come, I allow you to go for seven days, but only if you’re asked. And you should return within seven days.
 
 
-11It may happen, monks, that a male lay follower has had a dwelling built for the Saṅgha and sends a message to the monks: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the monks.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
+11It may happen, bhikkhus, that a male lay follower has had a dwelling built for the Saṅgha and sends a message to the bhikkhus: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the bhikkhus.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
 
-12It may happen that a male lay follower has had a stilt house built for the Saṅgha, has had a cave built, a yard, a gateway, an assembly hall, a water-boiling shed, a food-storage hut, a restroom, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a sauna, a sauna shed, a pond, a roof-cover, a monastery, or has had a site for a monastery prepared for the Saṅgha, and then sends a message to the monks: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the monks.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
+12It may happen that a male lay follower has had a stilt house built for the Saṅgha, has had a cave built, a yard, a gateway, an assembly hall, a water-boiling shed, a food-storage hut, a restroom, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a sauna, a sauna shed, a pond, a roof-cover, a monastery, or has had a site for a monastery prepared for the Saṅgha, and then sends a message to the bhikkhus: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the bhikkhus.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
 
-13It may happen that a male lay follower has had a dwelling built for a number of monks … has had a dwelling built for a single monk, has had a stilt house built, a cave, a yard, a gateway, an assembly hall, a water-boiling shed, a food-storage hut, a restroom, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a sauna, a sauna shed, a pond, a roof-cover, a monastery, or has had a site for a monastery prepared, and then sends a message to the monks: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the monks.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
+13It may happen that a male lay follower has had a dwelling built for a number of bhikkhus … has had a dwelling built for a single monk, has had a stilt house built, a cave, a yard, a gateway, an assembly hall, a water-boiling shed, a food-storage hut, a restroom, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a sauna, a sauna shed, a pond, a roof-cover, a monastery, or has had a site for a monastery prepared, and then sends a message to the bhikkhus: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the bhikkhus.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
 
-14It may happen that a male lay follower has had a dwelling built for the Saṅgha of nuns, for a number of nuns, for a single nun, for a number of trainee nuns, for a single trainee nun, for a number of novice monks, for a single novice monk, for a number of novice nuns, or has had a dwelling built for a single novice nun … or has had a stilt house built, a cave, a yard, a gateway, an assembly hall, a water-boiling shed, a food-storage hut, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a pond, a roof-cover, a monastery, or has had a site for a monastery prepared, and then sends a message to the monks: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the monks.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
+14It may happen that a male lay follower has had a dwelling built for the Saṅgha of nuns, for a number of nuns, for a single nun, for a number of trainee nuns, for a single trainee nun, for a number of novice bhikkhus, for a single novice monk, for a number of novice nuns, or has had a dwelling built for a single novice nun … or has had a stilt house built, a cave, a yard, a gateway, an assembly hall, a water-boiling shed, a food-storage hut, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a pond, a roof-cover, a monastery, or has had a site for a monastery prepared, and then sends a message to the bhikkhus: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the bhikkhus.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
 
-15It may happen that a male lay follower has had a house built for himself, has had a bedroom, a storehouse, a watchtower, a stall, a shop, a stilt house, a cave, a yard, a gateway, an assembly hall, a water-boiling shed, a kitchen, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a pond, a roof-cover, a park, or has had a site for a park prepared for himself; or his son is getting married, or his daughter is getting married, or he is sick, or he knows a discourse. If he then sends a message to the monks: ‘Please come, Venerables, and learn this discourse before it gets lost,’ or he has some duty or business and sends a message to the monks: ‘Please come, I wish to make an offering, hear the Teaching, and see the monks,’ you should go for seven days, but only if you’re asked. And you should return within seven days.
+15It may happen that a male lay follower has had a house built for himself, has had a bedroom, a storehouse, a watchtower, a stall, a shop, a stilt house, a cave, a yard, a gateway, an assembly hall, a water-boiling shed, a kitchen, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a pond, a roof-cover, a park, or has had a site for a park prepared for himself; or his son is getting married, or his daughter is getting married, or he is sick, or he knows a discourse. If he then sends a message to the bhikkhus: ‘Please come, Venerables, and learn this discourse before it gets lost,’ or he has some duty or business and sends a message to the bhikkhus: ‘Please come, I wish to make an offering, hear the Teaching, and see the bhikkhus,’ you should go for seven days, but only if you’re asked. And you should return within seven days.
 
-16“It may happen that a female lay follower has had a dwelling built for the Saṅgha and sends a message to the monks: ‘Please come, I wish to make an offering, hear the Teaching, and see the monks.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
+16“It may happen that a female lay follower has had a dwelling built for the Saṅgha and sends a message to the bhikkhus: ‘Please come, I wish to make an offering, hear the Teaching, and see the bhikkhus.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
 
-17It may happen that a female lay follower has had a stilt house built for the Saṅgha, has had a cave built, a yard, a gateway, an assembly hall, a water-boiling shed, a food-storage hut, a restroom, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a sauna, a sauna shed, a pond, a roof-cover, a monastery, or has had a site for a monastery prepared for the Saṅgha and sends a message to the monks: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the monks.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
+17It may happen that a female lay follower has had a stilt house built for the Saṅgha, has had a cave built, a yard, a gateway, an assembly hall, a water-boiling shed, a food-storage hut, a restroom, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a sauna, a sauna shed, a pond, a roof-cover, a monastery, or has had a site for a monastery prepared for the Saṅgha and sends a message to the bhikkhus: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the bhikkhus.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
 
-18It may happen that a female lay follower has had a dwelling built for a number of monks, for a single monk, for the Saṅgha of nuns, for a number of nuns, for a single nun, for a number of trainee nuns, for a single trainee nun, for a number of novice monks, for a single novice monk, for a number of novice nuns, or for a single novice nun …
+18It may happen that a female lay follower has had a dwelling built for a number of bhikkhus, for a single monk, for the Saṅgha of nuns, for a number of nuns, for a single nun, for a number of trainee nuns, for a single trainee nun, for a number of novice bhikkhus, for a single novice monk, for a number of novice nuns, or for a single novice nun …
 
-19It may happen that a female lay follower has had a house built for herself, has had a bedroom, a storehouse, a watchtower, a stall, a shop, a stilt house, a cave, a yard, a gateway, an assembly hall, a water-boiling shed, a kitchen, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a pond, a roof-cover, a park, or has had a site for a park prepared for herself; or her son is getting married, or her daughter is getting married, or she is sick, or she knows a discourse. If she then sends a message to the monks: ‘Please come, Venerables, and learn this discourse before it disappears,’ or she has some duty or business and sends a message to the monks: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the monks,’ you should go for seven days, but only if you’re asked. And you should return within seven days.
+19It may happen that a female lay follower has had a house built for herself, has had a bedroom, a storehouse, a watchtower, a stall, a shop, a stilt house, a cave, a yard, a gateway, an assembly hall, a water-boiling shed, a kitchen, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a pond, a roof-cover, a park, or has had a site for a park prepared for herself; or her son is getting married, or her daughter is getting married, or she is sick, or she knows a discourse. If she then sends a message to the bhikkhus: ‘Please come, Venerables, and learn this discourse before it disappears,’ or she has some duty or business and sends a message to the bhikkhus: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the bhikkhus,’ you should go for seven days, but only if you’re asked. And you should return within seven days.
 
-20It may happen that a monk, a nun, a trainee nun, a novice monk, or a novice nun has had a dwelling built for the Saṅgha … for a number of monks, for a single monk, for the Saṅgha of nuns, for a number of nuns, for a single nun, for a number of trainee nuns, for a single trainee nun, for a number of novice monks, for a single novice monk, for a number of novice nuns, or for a single novice nun … or she’s had a dwelling built for herself, has had a stilt house built, a cave, a yard, a gateway, an assembly hall, a water-boiling shed, a food-storage hut, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a pond, a roof-cover, a monastery, or has had a site for a monastery prepared for herself. If she then sends a message to the monks: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the monks,’ you should go for seven days, but only if you’re asked. And you should return within seven days.”
+20It may happen that a monk, a nun, a trainee nun, a novice monk, or a novice nun has had a dwelling built for the Saṅgha … for a number of bhikkhus, for a single monk, for the Saṅgha of nuns, for a number of nuns, for a single nun, for a number of trainee nuns, for a single trainee nun, for a number of novice bhikkhus, for a single novice monk, for a number of novice nuns, or for a single novice nun … or she’s had a dwelling built for herself, has had a stilt house built, a cave, a yard, a gateway, an assembly hall, a water-boiling shed, a food-storage hut, a walking-meditation path, an indoor walking-meditation path, a well, a well house, a pond, a roof-cover, a monastery, or has had a site for a monastery prepared for herself. If she then sends a message to the bhikkhus: ‘Please come, Venerables, I wish to make an offering, hear the Teaching, and see the bhikkhus,’ you should go for seven days, but only if you’re asked. And you should return within seven days.”
 
 #### 4. The allowance to go to any of five kinds of persons even if not asked ^4
 
@@ -125,68 +125,68 @@ Udena complained and criticized them: “How can the venerables not come when I�
 > ```
 
 
-21On one occasion a certain monk was sick. He sent a message to the monks: “Please come, Venerables, I’m sick.” They told the Buddha.
+21On one occasion a certain monk was sick. He sent a message to the bhikkhus: “Please come, Venerables, I’m sick.” They told the Buddha.
 
 “Even if you’re not asked, let alone if you are, I allow you to go for seven days to any of five kinds of persons—a monk, a nun, a trainee nun, a novice monk, or a novice nun. But you should return within seven days.
 
-22“It may be that a sick monk sends a message to the monks: ‘Please come, Venerables, I’m sick.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll look for food for the sick,’ ‘I’ll look for food for the nurses,’ ‘I’ll look for medicine,’ ‘I’ll enquire about his sickness,’ or ‘I’ll nurse him.’ But you should return within seven days.
+22“It may be that a sick monk sends a message to the bhikkhus: ‘Please come, Venerables, I’m sick.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll look for food for the sick,’ ‘I’ll look for food for the nurses,’ ‘I’ll look for medicine,’ ‘I’ll enquire about his sickness,’ or ‘I’ll nurse him.’ But you should return within seven days.
 
-23It may be that a monk who is discontent with the spiritual life sends a message to the monks: ‘Please come, Venerables, I’m discontent with the spiritual life.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll allay his discontent,’ ‘I’ll find someone to allay his discontent’, or ‘I’ll give him a teaching.’ But you should return within seven days.
+23It may be that a monk who is discontent with the spiritual life sends a message to the bhikkhus: ‘Please come, Venerables, I’m discontent with the spiritual life.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll allay his discontent,’ ‘I’ll find someone to allay his discontent’, or ‘I’ll give him a teaching.’ But you should return within seven days.
 
-24It may be that an anxious monk sends a message to the monks: ‘Please come, Venerables, I’m anxious.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll dispel his anxiety,’ ‘I’ll find someone to dispel his anxiety,’ or ‘I’ll give him a teaching.’ But you should return within seven days.
+24It may be that an anxious monk sends a message to the bhikkhus: ‘Please come, Venerables, I’m anxious.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll dispel his anxiety,’ ‘I’ll find someone to dispel his anxiety,’ or ‘I’ll give him a teaching.’ But you should return within seven days.
 
-25It may be that a monk who has wrong view sends a message to the monks: ‘Please come, Venerables, I have wrong view.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make him give up that wrong view,’ ‘I’ll get someone to make him give up that wrong view,’ or ‘I’ll give him a teaching.’ But you should return within seven days.
+25It may be that a monk who has wrong view sends a message to the bhikkhus: ‘Please come, Venerables, I have wrong view.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make him give up that wrong view,’ ‘I’ll get someone to make him give up that wrong view,’ or ‘I’ll give him a teaching.’ But you should return within seven days.
 
-26It may be that a monk who has committed a heavy offense for which he deserves to be given probation sends a message to the monks: ‘Please come, Venerables, I’ve committed a heavy offense for which I deserve to be given probation.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get him given probation,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
+26It may be that a monk who has committed a heavy offense for which he deserves to be given probation sends a message to the bhikkhus: ‘Please come, Venerables, I’ve committed a heavy offense for which I deserve to be given probation.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get him given probation,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
 
-27It may be that a monk who deserves to be sent back to the beginning sends a message to the monks: ‘Please come, Venerables, I deserve to be sent back to the beginning.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get him sent back to the beginning,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
+27It may be that a monk who deserves to be sent back to the beginning sends a message to the bhikkhus: ‘Please come, Venerables, I deserve to be sent back to the beginning.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get him sent back to the beginning,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
 
-28It may be that a monk who deserves the trial period sends a message to the monks: ‘Please come, Venerables, I deserve to be given the trial period.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get him given the trial period,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
+28It may be that a monk who deserves the trial period sends a message to the bhikkhus: ‘Please come, Venerables, I deserve to be given the trial period.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get him given the trial period,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
 
-29It may be that a monk who deserves rehabilitation sends a message to the monks: ‘Please come, Venerables, I deserve rehabilitation.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get him rehabilitated,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
+29It may be that a monk who deserves rehabilitation sends a message to the bhikkhus: ‘Please come, Venerables, I deserve rehabilitation.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get him rehabilitated,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
 
-30It may be that the Saṅgha wants to do a legal procedure against a monk—whether a procedure of condemnation, demotion, banishment, reconciliation, or ejection. He sends a message to the monks: ‘Please come, Venerables, the Saṅgha wants to do a legal procedure against me.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘How may the Saṅgha not do the procedure?’ or ‘How may the Saṅgha make it lighter?’ But you should return within seven days.
+30It may be that the Saṅgha wants to do a legal procedure against a monk—whether a procedure of condemnation, demotion, banishment, reconciliation, or ejection. He sends a message to the bhikkhus: ‘Please come, Venerables, the Saṅgha wants to do a legal procedure against me.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘How may the Saṅgha not do the procedure?’ or ‘How may the Saṅgha make it lighter?’ But you should return within seven days.
 
-31Or it may be that the Saṅgha has done a legal procedure against him—whether a procedure of condemnation, demotion, banishment, reconciliation, or ejection. He sends a message to the monks: ‘Please come, Venerables, the Saṅgha has done a legal procedure against me.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘How can I help him behave properly and suitably so as to deserve to be released?’ or ‘What can I do so that the Saṅgha lifts that procedure?’ But you should return within seven days.”
-
-
-32“It may be, monks, that a sick nun sends a message to the monks: ‘Please come, Venerables, I’m sick.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll look for food for the sick,’ ‘I’ll look for food for the nurses,’ ‘I’ll look for medicine,’ ‘I’ll enquire about her sickness,’ or ‘I’ll nurse her.’ But you should return within seven days.
-
-33It may be that a nun who is discontent with the spiritual life sends a message to the monks: ‘Please come, Venerables, I’m discontent with the spiritual life.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll allay her discontent,’ ‘I’ll find someone to allay her discontent’, or ‘I’ll give her a teaching.’ But you should return within seven days.
-
-34It may be that an anxious nun sends a message to the monks: ‘Please come, Venerables, I’m anxious.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll dispel her anxiety,’ ‘I’ll find someone to dispel her anxiety,’ or ‘I’ll give her a teaching.’ But you should return within seven days.
-
-35It may be that a nun who has wrong view sends a message to the monks: ‘Please come, Venerables, I have wrong view.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make her give up that wrong view,’ ‘I’ll get someone to make her give up that wrong view,’ or ‘I’ll give her a teaching.’ But you should return within seven days.
+31Or it may be that the Saṅgha has done a legal procedure against him—whether a procedure of condemnation, demotion, banishment, reconciliation, or ejection. He sends a message to the bhikkhus: ‘Please come, Venerables, the Saṅgha has done a legal procedure against me.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘How can I help him behave properly and suitably so as to deserve to be released?’ or ‘What can I do so that the Saṅgha lifts that procedure?’ But you should return within seven days.”
 
 
-36It may be that a nun who has committed a heavy offense for which she deserves the trial period sends a message to the monks: ‘Please come, Venerables, I deserve to be given the trial period.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get her given the trial period.’ But you should return within seven days.
+32“It may be, bhikkhus, that a sick nun sends a message to the bhikkhus: ‘Please come, Venerables, I’m sick.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll look for food for the sick,’ ‘I’ll look for food for the nurses,’ ‘I’ll look for medicine,’ ‘I’ll enquire about her sickness,’ or ‘I’ll nurse her.’ But you should return within seven days.
 
-37It may be that a nun who deserves to be sent back to the beginning sends a message to the monks: ‘Please come, Venerables, I deserve to be sent back to the beginning.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get her sent back to the beginning.’ But you should return within seven days.
+33It may be that a nun who is discontent with the spiritual life sends a message to the bhikkhus: ‘Please come, Venerables, I’m discontent with the spiritual life.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll allay her discontent,’ ‘I’ll find someone to allay her discontent’, or ‘I’ll give her a teaching.’ But you should return within seven days.
 
-38It may be that a nun who deserves rehabilitation sends a message to the monks: ‘Please come, Venerables, I deserve rehabilitation.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get her rehabilitated.’ But you should return within seven days.
+34It may be that an anxious nun sends a message to the bhikkhus: ‘Please come, Venerables, I’m anxious.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll dispel her anxiety,’ ‘I’ll find someone to dispel her anxiety,’ or ‘I’ll give her a teaching.’ But you should return within seven days.
 
-39It may be that the Saṅgha wants to do a legal procedure against a nun— whether a procedure of condemnation, demotion, banishment, reconciliation, or ejection. She sends a message to the monks: ‘Please come, Venerables, the Saṅgha wants to do a legal procedure against me.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘How may the Saṅgha not do the procedure?’ or ‘How may the Saṅgha make it lighter?’ But you should return within seven days.
-
-40Or it may be that the Saṅgha has done a legal procedure against her— whether a procedure of condemnation, demotion, banishment, reconciliation, or ejection. She sends a message to the monks: ‘Please come, Venerables, the Saṅgha has done a legal procedure against me.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘How can I help her behave properly and suitably so as to deserve to be released?’ or ‘What can I do so that the Saṅgha lifts that procedure?’ But you should return within seven days.”
-
-41“It may be, monks, that a sick trainee nun sends a message to the monks: ‘Please come, Venerables, I’m sick.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll look for food for the sick,’ ‘I’ll look for food for the nurses,’ ‘I’ll look for medicine,’ ‘I’ll enquire about her sickness,’ or ‘I’ll nurse her.’ But you should return within seven days.
-
-42It may be that a trainee nun who is discontent with the spiritual life, who is anxious, who has wrong view, or who has failed in the training sends a message to the monks: ‘Please come, Venerables, I’ve failed in the training.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get her to undertake the training.’ But you should return within seven days.
-
-43It may be that a trainee nun who desires the full ordination sends a message to the monks: ‘Please come, Venerables, I desire the full ordination.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get her the full ordination,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
-
-44It may be that a sick novice monk sends a message to the monks: ‘Please come, Venerables, I’m sick.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll look for food for the sick,’ ‘I’ll look for food for the nurses,’ ‘I’ll look for medicine,’ ‘I’ll enquire about his sickness,’ or ‘I’ll nurse him.’ But you should return within seven days.
+35It may be that a nun who has wrong view sends a message to the bhikkhus: ‘Please come, Venerables, I have wrong view.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make her give up that wrong view,’ ‘I’ll get someone to make her give up that wrong view,’ or ‘I’ll give her a teaching.’ But you should return within seven days.
 
 
-45It may be that a novice monk who is discontent with the spiritual life, who is anxious, who has wrong view, or who wants to ask about his age sends a message to the monks: ‘Please come, Venerables, I want to ask about my age.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll ask him,’ or ‘I’ll inform him.’ But you should return within seven days.
+36It may be that a nun who has committed a heavy offense for which she deserves the trial period sends a message to the bhikkhus: ‘Please come, Venerables, I deserve to be given the trial period.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get her given the trial period.’ But you should return within seven days.
 
-46It may be that a novice monk who desires the full ordination sends a message to the monks: ‘Please come, Venerables, I desire the full ordination.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get him the full ordination,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
+37It may be that a nun who deserves to be sent back to the beginning sends a message to the bhikkhus: ‘Please come, Venerables, I deserve to be sent back to the beginning.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get her sent back to the beginning.’ But you should return within seven days.
 
-47It may be that a sick novice nun sends a message to the monks: ‘Please come, Venerables, I’m sick.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll look for food for the sick,’ ‘I’ll look for food for the nurses,’ ‘I’ll look for medicine,’ ‘I’ll enquire about her sickness,’ or ‘I’ll nurse her.’ But you should return within seven days.
+38It may be that a nun who deserves rehabilitation sends a message to the bhikkhus: ‘Please come, Venerables, I deserve rehabilitation.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get her rehabilitated.’ But you should return within seven days.
 
-48It may be that a novice nun who is discontent with the spiritual life, who is anxious, who has wrong view, or who wants to ask about her age sends a message to the monks: ‘Please come, Venerables, I want to ask about my age.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll ask her,’ or ‘I’ll inform her.’ But you should return within seven days.
+39It may be that the Saṅgha wants to do a legal procedure against a nun— whether a procedure of condemnation, demotion, banishment, reconciliation, or ejection. She sends a message to the bhikkhus: ‘Please come, Venerables, the Saṅgha wants to do a legal procedure against me.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘How may the Saṅgha not do the procedure?’ or ‘How may the Saṅgha make it lighter?’ But you should return within seven days.
 
-49It may be that a novice nun who desires to undertake the training of a trainee nun sends a message to the monks: ‘Please come, Venerables, I desire to undertake the training.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort for her to undertake the training of a trainee nun.’ But you should return within seven days.”
+40Or it may be that the Saṅgha has done a legal procedure against her— whether a procedure of condemnation, demotion, banishment, reconciliation, or ejection. She sends a message to the bhikkhus: ‘Please come, Venerables, the Saṅgha has done a legal procedure against me.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘How can I help her behave properly and suitably so as to deserve to be released?’ or ‘What can I do so that the Saṅgha lifts that procedure?’ But you should return within seven days.”
+
+41“It may be, bhikkhus, that a sick trainee nun sends a message to the bhikkhus: ‘Please come, Venerables, I’m sick.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll look for food for the sick,’ ‘I’ll look for food for the nurses,’ ‘I’ll look for medicine,’ ‘I’ll enquire about her sickness,’ or ‘I’ll nurse her.’ But you should return within seven days.
+
+42It may be that a trainee nun who is discontent with the spiritual life, who is anxious, who has wrong view, or who has failed in the training sends a message to the bhikkhus: ‘Please come, Venerables, I’ve failed in the training.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get her to undertake the training.’ But you should return within seven days.
+
+43It may be that a trainee nun who desires the full ordination sends a message to the bhikkhus: ‘Please come, Venerables, I desire the full ordination.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get her the full ordination,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
+
+44It may be that a sick novice monk sends a message to the bhikkhus: ‘Please come, Venerables, I’m sick.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll look for food for the sick,’ ‘I’ll look for food for the nurses,’ ‘I’ll look for medicine,’ ‘I’ll enquire about his sickness,’ or ‘I’ll nurse him.’ But you should return within seven days.
+
+
+45It may be that a novice monk who is discontent with the spiritual life, who is anxious, who has wrong view, or who wants to ask about his age sends a message to the bhikkhus: ‘Please come, Venerables, I want to ask about my age.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll ask him,’ or ‘I’ll inform him.’ But you should return within seven days.
+
+46It may be that a novice monk who desires the full ordination sends a message to the bhikkhus: ‘Please come, Venerables, I desire the full ordination.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort to get him the full ordination,’ ‘I’ll do the proclamation,’ or ‘I’ll complete the quorum.’ But you should return within seven days.
+
+47It may be that a sick novice nun sends a message to the bhikkhus: ‘Please come, Venerables, I’m sick.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll look for food for the sick,’ ‘I’ll look for food for the nurses,’ ‘I’ll look for medicine,’ ‘I’ll enquire about her sickness,’ or ‘I’ll nurse her.’ But you should return within seven days.
+
+48It may be that a novice nun who is discontent with the spiritual life, who is anxious, who has wrong view, or who wants to ask about her age sends a message to the bhikkhus: ‘Please come, Venerables, I want to ask about my age.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll ask her,’ or ‘I’ll inform her.’ But you should return within seven days.
+
+49It may be that a novice nun who desires to undertake the training of a trainee nun sends a message to the bhikkhus: ‘Please come, Venerables, I desire to undertake the training.’ Then, even if you’re not asked, let alone if you are, you should go for seven days, thinking, ‘I’ll make an effort for her to undertake the training of a trainee nun.’ But you should return within seven days.”
 
 #### 5. The allowance to go to any of seven kinds of persons even if not asked ^5
 
@@ -223,9 +223,9 @@ Udena complained and criticized them: “How can the venerables not come when I�
 
 55It may be that a monk’s relative is sick and sends him a message: ‘Please come, Venerable, I’m sick.’ You should go for seven days, but only if you’re asked. And you should return within seven days.
 
-56It may be that one who is staying with the monks is sick and sends them a message: ‘Please come, Venerables, I’m sick.’ You should go for seven days, but only if you’re asked. And you should return within seven days.”
+56It may be that one who is staying with the bhikkhus is sick and sends them a message: ‘Please come, Venerables, I’m sick.’ You should go for seven days, but only if you’re asked. And you should return within seven days.”
 
-57At one time one of the Saṅgha’s dwellings was falling apart. At that time the timber belonging to a certain lay follower had been cut up in the wilderness. He sent a message to the monks: “Venerables, if you retrieve that timber, I’ll give it to you.” They told the Buddha.
+57At one time one of the Saṅgha’s dwellings was falling apart. At that time the timber belonging to a certain lay follower had been cut up in the wilderness. He sent a message to the bhikkhus: “Venerables, if you retrieve that timber, I’ll give it to you.” They told the Buddha.
 
 “I allow you to go on business for the Saṅgha. But you should return within seven days.”
 
@@ -241,27 +241,27 @@ Udena complained and criticized them: “How can the venerables not come when I�
 > ```
 
 
-59At one time in a certain monastery in the Kosalan country, monks who had entered the rains residence were harassed by predatory animals that attacked and grabbed hold of them. They told the Buddha.
+59At one time in a certain monastery in the Kosalan country, bhikkhus who had entered the rains residence were harassed by predatory animals that attacked and grabbed hold of them. They told the Buddha.
 
-60“It may happen that monks who have entered the rains residence are harassed by predatory animals that attack and grab hold of them. When there’s such a danger, you should leave. There’s no offense for breaking the rains residence.
+60“It may happen that bhikkhus who have entered the rains residence are harassed by predatory animals that attack and grab hold of them. When there’s such a danger, you should leave. There’s no offense for breaking the rains residence.
 
-61It may happen that monks who have entered the rains residence are harassed by creeping animals that attack and bite them. When there’s such a danger, you should leave. There’s no offense for breaking the rains residence.
+61It may happen that bhikkhus who have entered the rains residence are harassed by creeping animals that attack and bite them. When there’s such a danger, you should leave. There’s no offense for breaking the rains residence.
 
-62It may happen that monks who have entered the rains residence are harassed by criminals who steal from them and beat them up. When there’s such a danger, you should leave. There’s no offense for breaking the rains residence.
+62It may happen that bhikkhus who have entered the rains residence are harassed by criminals who steal from them and beat them up. When there’s such a danger, you should leave. There’s no offense for breaking the rains residence.
 
-63It may happen that monks who have entered the rains residence are harassed by demons who take possession of them and kill them. When there’s such a danger, you should leave. There’s no offense for breaking the rains residence.
-
-
-64It may happen that the village where monks have entered the rains residence burns down. As a consequence, they have trouble getting almsfood. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
-
-65It may happen that the dwellings where monks have entered the rains residence burn down. As a consequence, they have trouble getting dwellings. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
+63It may happen that bhikkhus who have entered the rains residence are harassed by demons who take possession of them and kill them. When there’s such a danger, you should leave. There’s no offense for breaking the rains residence.
 
 
-66It may happen that the village where the monks have entered the rains residence is swept away by water. As a consequence, they have trouble getting almsfood. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
+64It may happen that the village where bhikkhus have entered the rains residence burns down. As a consequence, they have trouble getting almsfood. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
 
-67It may happen that the dwellings where the monks have entered the rains residence are swept away by water. As a consequence, they have trouble getting dwellings. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.”
+65It may happen that the dwellings where bhikkhus have entered the rains residence burn down. As a consequence, they have trouble getting dwellings. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
 
-At one time in a certain monastery, the village where the monks had entered the rains residence relocated because of criminals.
+
+66It may happen that the village where the bhikkhus have entered the rains residence is swept away by water. As a consequence, they have trouble getting almsfood. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
+
+67It may happen that the dwellings where the bhikkhus have entered the rains residence are swept away by water. As a consequence, they have trouble getting dwellings. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.”
+
+At one time in a certain monastery, the village where the bhikkhus had entered the rains residence relocated because of criminals.
 
 “I allow you to move to where the village is.”
 
@@ -275,16 +275,16 @@ At one time in a certain monastery, the village where the monks had entered the 
 
 “I allow you to move to where those who have faith and confidence are.”
 
-71At one time in a certain monastery in the Kosalan country, the monks who had entered the rains residence did not get enough food, whether coarse or fine.
+71At one time in a certain monastery in the Kosalan country, the bhikkhus who had entered the rains residence did not get enough food, whether coarse or fine.
 
-72“It may happen that monks who have entered the rains residence don’t get enough food, whether coarse or fine. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
+72“It may happen that bhikkhus who have entered the rains residence don’t get enough food, whether coarse or fine. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
 
 
-73It may happen that monks who have entered the rains residence get enough food, whether coarse or fine, but the food isn’t suitable for them. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
+73It may happen that bhikkhus who have entered the rains residence get enough food, whether coarse or fine, but the food isn’t suitable for them. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
 
-74It may happen that monks who have entered the rains residence get enough suitable food, whether coarse or fine, but they don’t get suitable medicines. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
+74It may happen that bhikkhus who have entered the rains residence get enough suitable food, whether coarse or fine, but they don’t get suitable medicines. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
 
-75It may happen that monks who have entered the rains residence get enough suitable food, whether coarse or fine, as well as suitable medicines, but they don’t get a suitable attendant. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
+75It may happen that bhikkhus who have entered the rains residence get enough suitable food, whether coarse or fine, as well as suitable medicines, but they don’t get a suitable attendant. When there’s such an obstacle, you should leave. There’s no offense for breaking the rains residence.
 
 76It may happen that a monk who has entered the rains residence is invited by a woman: ‘Come, Venerable, I’ll give you money’, ‘I’ll give you gold’, ‘I’ll give you a field’, ‘I’ll give you land’, ‘I’ll give you an ox’, ‘I’ll give you a cow’, ‘I’ll give you a slave’, ‘I’ll give you my daughter as wife’, ‘I’ll be your wife’, ‘I’ll bring you another wife.’ If that monk thinks, ‘The Buddha has said that the mind is volatile. This could be an obstacle to my monastic life,’ he should leave. There’s no offense for breaking the rains residence.
 
@@ -302,17 +302,17 @@ At one time in a certain monastery, the village where the monks had entered the 
 > ```
 
 
-79“It may happen that a monk who has entered the rains residence sees a number of monks who are pursuing schism in the Saṅgha. If he thinks, ‘The Buddha has said that schism in the Saṅgha is a serious matter. I don’t want the Saṅgha to be divided in my presence,’ he should leave. There’s no offense for breaking the rains residence.
+79“It may happen that a monk who has entered the rains residence sees a number of bhikkhus who are pursuing schism in the Saṅgha. If he thinks, ‘The Buddha has said that schism in the Saṅgha is a serious matter. I don’t want the Saṅgha to be divided in my presence,’ he should leave. There’s no offense for breaking the rains residence.
 
-80It may happen that a monk who has entered the rains residence hears that a number of monks in such-and-such a monastery are pursuing schism in the Saṅgha. If he thinks, ‘The Buddha has said that schism in the Saṅgha is a serious matter. I don’t want the Saṅgha to be divided in my presence,’ he should leave. There’s no offense for breaking the rains residence.
+80It may happen that a monk who has entered the rains residence hears that a number of bhikkhus in such-and-such a monastery are pursuing schism in the Saṅgha. If he thinks, ‘The Buddha has said that schism in the Saṅgha is a serious matter. I don’t want the Saṅgha to be divided in my presence,’ he should leave. There’s no offense for breaking the rains residence.
 
-81It may happen that a monk who has entered the rains residence hears that a number of monks in such-and-such a monastery are pursuing schism in the Saṅgha. If he thinks, ‘Those monks are my friends. I must tell them that the Buddha has said that schism in the Saṅgha is a serious matter, and I must ask them not to consent to it. They will act on what I say. They will listen and pay careful attention,’ then he should leave. There’s no offense for breaking the rains residence.
+81It may happen that a monk who has entered the rains residence hears that a number of bhikkhus in such-and-such a monastery are pursuing schism in the Saṅgha. If he thinks, ‘Those bhikkhus are my friends. I must tell them that the Buddha has said that schism in the Saṅgha is a serious matter, and I must ask them not to consent to it. They will act on what I say. They will listen and pay careful attention,’ then he should leave. There’s no offense for breaking the rains residence.
 
-82It may happen that a monk who has entered the rains residence hears that a number of monks in such-and-such a monastery are pursuing schism in the Saṅgha. If he thinks, ‘Those monks are not my friends, but we have friends in common. If I speak to my friends, they will tell those monks that the Buddha has said that schism in the Saṅgha is a serious matter, and they will ask them not to consent to it. Those monks will act on what my friends say. They will listen and pay careful attention,’ then he should leave. There’s no offense for breaking the rains residence.
+82It may happen that a monk who has entered the rains residence hears that a number of bhikkhus in such-and-such a monastery are pursuing schism in the Saṅgha. If he thinks, ‘Those bhikkhus are not my friends, but we have friends in common. If I speak to my friends, they will tell those bhikkhus that the Buddha has said that schism in the Saṅgha is a serious matter, and they will ask them not to consent to it. Those bhikkhus will act on what my friends say. They will listen and pay careful attention,’ then he should leave. There’s no offense for breaking the rains residence.
 
-83It may happen that a monk who has entered the rains residence hears that a number of monks in such-and-such a monastery have caused a schism in the Saṅgha. If he thinks, ‘Those monks are my friends. I must tell them that the Buddha has said that schism in the Saṅgha is a serious matter, and I must ask them not to consent to it. They will act on what I say. They will listen and pay careful attention,’ then he should leave. There’s no offense for breaking the rains residence.
+83It may happen that a monk who has entered the rains residence hears that a number of bhikkhus in such-and-such a monastery have caused a schism in the Saṅgha. If he thinks, ‘Those bhikkhus are my friends. I must tell them that the Buddha has said that schism in the Saṅgha is a serious matter, and I must ask them not to consent to it. They will act on what I say. They will listen and pay careful attention,’ then he should leave. There’s no offense for breaking the rains residence.
 
-84It may happen that a monk who has entered the rains residence hears that a number of monks in such-and-such a monastery have caused a schism in the Saṅgha. If he thinks, ‘Those monks are not my friends, but we have friends in common. If I speak to my friends, they will tell those monks that the Buddha has said that schism in the Saṅgha is a serious matter, and they will ask them not to consent to it. Those monks will act on what my friends say. They will listen and pay careful attention,’ then he should leave. There’s no offense for breaking the rains residence.”
+84It may happen that a monk who has entered the rains residence hears that a number of bhikkhus in such-and-such a monastery have caused a schism in the Saṅgha. If he thinks, ‘Those bhikkhus are not my friends, but we have friends in common. If I speak to my friends, they will tell those bhikkhus that the Buddha has said that schism in the Saṅgha is a serious matter, and they will ask them not to consent to it. Those bhikkhus will act on what my friends say. They will listen and pay careful attention,’ then he should leave. There’s no offense for breaking the rains residence.”
 
 85“It may happen that a monk who has entered the rains residence hears that a number of nuns in such-and-such a monastery are pursuing schism in the Saṅgha. If he thinks, ‘Those nuns are my friends. I must tell them that the Buddha has said that schism in the Saṅgha is a serious matter, and I must ask them not to consent to it. They will act on what I say. They will listen and pay careful attention,’ then he should leave. There’s no offense for breaking the rains residence.
 
@@ -358,31 +358,31 @@ The cowherd’s dwelling was moved.
 > ```
 
 
-92At one time monks entered the rains residence in the hollow of a tree. People complained and criticized them: “They’re just like goblins.”
+92At one time bhikkhus entered the rains residence in the hollow of a tree. People complained and criticized them: “They’re just like goblins.”
 
 “You shouldn’t enter the rains residence in the hollow of a tree. If you do, you commit an offense of wrong conduct.”
 
-93At one time monks entered the rains residence in the fork of a tree. People complained and criticized them: “They’re just like deer hunters.”
+93At one time bhikkhus entered the rains residence in the fork of a tree. People complained and criticized them: “They’re just like deer hunters.”
 
 “You shouldn’t enter the rains residence in the fork of a tree. If you do, you commit an offense of wrong conduct.”
 
-94At one time monks entered the rains residence out in the open. When it was raining, they ran for cover under trees and eaves.
+94At one time bhikkhus entered the rains residence out in the open. When it was raining, they ran for cover under trees and eaves.
 
 “You shouldn’t enter the rains residence out in the open. If you do, you commit an offense of wrong conduct.”
 
-95At one time monks entered the rains residence without a dwelling. They suffered in the cold and the heat.
+95At one time bhikkhus entered the rains residence without a dwelling. They suffered in the cold and the heat.
 
 “You shouldn’t enter the rains residence without a dwelling. If you do, you commit an offense of wrong conduct.”
 
-96At one time monks entered the rains residence in a charnel house. People complained and criticized them: “They’re just like undertakers.”
+96At one time bhikkhus entered the rains residence in a charnel house. People complained and criticized them: “They’re just like undertakers.”
 
 “You shouldn’t enter the rains residence in a charnel house. If you do, you commit an offense of wrong conduct.”
 
-97At one time monks entered the rains residence under a sunshade. People complained and criticized them: “They’re just like cowherds.”
+97At one time bhikkhus entered the rains residence under a sunshade. People complained and criticized them: “They’re just like cowherds.”
 
 “You shouldn’t enter the rains residence under a sunshade. If you do, you commit an offense of wrong conduct.”
 
-98At one time monks entered the rains residence in a large earthenware pot. People complained and criticized them: “They’re just like the monastics of other religions.”
+98At one time bhikkhus entered the rains residence in a large earthenware pot. People complained and criticized them: “They’re just like the monastics of other religions.”
 
 “You shouldn’t enter the rains residence in a large earthenware pot. If you do, you commit an offense of wrong conduct.”
 
@@ -396,11 +396,11 @@ The cowherd’s dwelling was moved.
 > ```
 
 
-99At one time the Saṅgha at Sāvatthī had made an agreement that they would not give the going forth during the rains residence. Then, one of Visākhā’s grandsons went to the monks and asked for the going forth. The monks told him about their agreement, adding: “Please wait while the monks observe the rains residence. Once we’ve completed the rains residence, we’ll give you the going forth.”
+99At one time the Saṅgha at Sāvatthī had made an agreement that they would not give the going forth during the rains residence. Then, one of Visākhā’s grandsons went to the bhikkhus and asked for the going forth. The bhikkhus told him about their agreement, adding: “Please wait while the bhikkhus observe the rains residence. Once we’ve completed the rains residence, we’ll give you the going forth.”
 
-100When they had completed the rains residence, the monks told Visākhā’s grandson that they would give him the going forth. He replied: “If I had been given the going forth, Venerables, I would have enjoyed it. But now I won’t do it.” Visākhā complained and criticized those monks: “How could the venerables make an agreement that they wouldn’t give the going forth during the rains residence? Is there a time when the Teaching shouldn’t be practiced?”
+100When they had completed the rains residence, the bhikkhus told Visākhā’s grandson that they would give him the going forth. He replied: “If I had been given the going forth, Venerables, I would have enjoyed it. But now I won’t do it.” Visākhā complained and criticized those bhikkhus: “How could the venerables make an agreement that they wouldn’t give the going forth during the rains residence? Is there a time when the Teaching shouldn’t be practiced?”
 
-The monks heard Visākhā’s complaints and told the Buddha.
+The bhikkhus heard Visākhā’s complaints and told the Buddha.
 
 “You shouldn’t make an agreement that you won’t give the going forth during the rains residence. If you do, you commit an offense of wrong conduct.”
 
@@ -419,14 +419,14 @@ The monks heard Visākhā’s complaints and told the Buddha.
 King Pasenadi complained and criticized him: “How could Upananda agree to spend the rains residence in my monastery, but then break his word? Hasn’t the Buddha in many ways criticized lying and praised truthfulness?”
 
 
-102The monks heard the King’s complaints, and the monks of few desires complained and criticized Upananda: “How could Upananda act like this?” And they told the Buddha.
+102The bhikkhus heard the King’s complaints, and the bhikkhus of few desires complained and criticized Upananda: “How could Upananda act like this?” And they told the Buddha.
 
 Soon afterwards the Buddha had the Saṅgha gathered and questioned Upananda: “Is it true that you acted like this?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked him … “Foolish man, how could you agree to spend the rains residence at the invitation of King Pasenadi, but then break your word? Haven’t I criticized lying in many ways and praised truthfulness? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the monks:
+The Buddha rebuked him … “Foolish man, how could you agree to spend the rains residence at the invitation of King Pasenadi, but then break your word? Haven’t I criticized lying in many ways and praised truthfulness? This will affect people’s confidence …” After rebuking him … he gave a teaching and addressed the bhikkhus:
 
 103“It may happen that a monk agrees to spend the first rains residence in a particular monastery. While on his way to that monastery, he sees two monasteries with much robe-cloth. He thinks, ‘Why don’t I spend the rains residence in these two monasteries? That way I’ll get much robe-cloth.’ And he does spend the rains residence in those two monasteries.
 
@@ -537,7 +537,7 @@ To postpone, lay follower.
 
 126Sick, and mother, father,  
 And brother, then a relative;  
-One staying with the monks, dwelling,  
+One staying with the bhikkhus, dwelling,  
 And also predatory, creeping animals.
 
 127And criminals, and demons,  

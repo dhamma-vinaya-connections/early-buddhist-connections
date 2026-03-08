@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these four are worthy of a monument. What four? A Realized One, a perfected one, a fully awakened Buddha; a Buddha awakened for themselves; a disciple of a Realized One; and a wheel-turning monarch. These four are worthy of a monument.”
+1“bhikkhus, these four are worthy of a monument. What four? A Realized One, a perfected one, a fully awakened Buddha; a Buddha awakened for themselves; a disciple of a Realized One; and a wheel-turning monarch. These four are worthy of a monument.”
 
 1"Cattārome, bhikkhave, thūpārahā. Katame cattāro? Tathāgato arahaṁ sammāsambuddho thūpāraho, paccekabuddho thūpāraho, tathāgatasāvako thūpāraho, rājā cakkavattī thūpāraho – ime kho, bhikkhave, cattāro thūpārahā"ti.
 

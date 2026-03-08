@@ -67,7 +67,7 @@ The four noble fruits
 > One sided & two sided samadhi, clairvoyance, clairaudience
 1 ending of three fetters, 2 weakening of greed, hate, and delusion, 3 ending of the five lower fetters, 4 realize the undefiled freedom of heart and freedom by wisdom
 Gradual training abbreviated
-With the ending of three fetters a mendicant is a stream-enterer, with the ending of three fetters, and the weakening of greed, hate, and delusion—is a once-returner, with the ending of the five lower fetters, a mendicant is reborn spontaneously and will become extinguished there, not liable to return from that world, a mendicant has realized the undefiled freedom of heart and freedom by wisdom in this very life
+With the ending of three fetters a bhikkhu is a stream-enterer, with the ending of three fetters, and the weakening of greed, hate, and delusion—is a once-returner, with the ending of the five lower fetters, a bhikkhu is reborn spontaneously and will become extinguished there, not liable to return from that world, a bhikkhu has realized the undefiled freedom of heart and freedom by wisdom in this very life
 > 
 
 

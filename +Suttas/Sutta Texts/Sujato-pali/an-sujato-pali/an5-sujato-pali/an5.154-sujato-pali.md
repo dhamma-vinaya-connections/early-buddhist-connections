@@ -20,9 +20,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, these five things lead to the decline and disappearance of the true teaching. What five? It’s when mendicants don’t carefully listen to the teachings, memorize them, and remember them. They don’t carefully examine the meaning of teachings that they remember. And they don’t carefully practice in line with the meaning and the teaching they’ve understood. These five things lead to the decline and disappearance of the true teaching.
+1“bhikkhus, these five things lead to the decline and disappearance of the true teaching. What five? It’s when bhikkhus don’t carefully listen to the teachings, memorize them, and remember them. They don’t carefully examine the meaning of teachings that they remember. And they don’t carefully practice in line with the meaning and the teaching they’ve understood. These five things lead to the decline and disappearance of the true teaching.
 
-2These five things lead to the continuation, persistence, and enduring of the true teaching. What five? It’s when mendicants carefully listen to the teachings, memorize them, and remember them. They carefully examine the meaning of teachings that they remember. And they carefully practice in line with the meaning and the teaching they’ve understood. These five things lead to the continuation, persistence, and enduring of the true teaching.”
+2These five things lead to the continuation, persistence, and enduring of the true teaching. What five? It’s when bhikkhus carefully listen to the teachings, memorize them, and remember them. They carefully examine the meaning of teachings that they remember. And they carefully practice in line with the meaning and the teaching they’ve understood. These five things lead to the continuation, persistence, and enduring of the true teaching.”
 
 1"Pañcime, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṁvattanti. Katame pañca? Idha, bhikkhave, bhikkhū na sakkaccaṁ dhammaṁ suṇanti, na sakkaccaṁ dhammaṁ pariyāpuṇanti, na sakkaccaṁ dhammaṁ dhārenti, na sakkaccaṁ dhātānaṁ dhammānaṁ atthaṁ upaparikkhanti, na sakkaccaṁ atthamaññāya dhammamaññāya dhammānudhammaṁ paṭipajjanti. Ime kho, bhikkhave, pañca dhammā saddhammassa sammosāya antaradhānāya saṁvattanti.
 

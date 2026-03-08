@@ -15,13 +15,13 @@ Translated by Charles Patton
 
 ## Three Categories
 
-Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. He was accompanied by a large group of 1,250 monks.
+Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. He was accompanied by a large group of 1,250 bhikkhus.
 
-It was then that the Bhagavān addressed the monks, “I will give all of you a discourse on the sublime teaching, the content and expression of which is pure and perfects the religious life. It’s the teaching in three categories. All of you, listen closely and consider it. I will teach this for you.”
+It was then that the Bhagavān addressed the bhikkhus, “I will give all of you a discourse on the sublime teaching, the content and expression of which is pure and perfects the religious life. It’s the teaching in three categories. All of you, listen closely and consider it. I will teach this for you.”
 
-The monks then accepted the teaching and listened.
+The bhikkhus then accepted the teaching and listened.
 
-The Buddha addressed the monks, “These three categories are one thing that leads to bad destinies, one thing that leads to good destinies, and one thing that leads to Nirvāṇa.
+The Buddha addressed the bhikkhus, “These three categories are one thing that leads to bad destinies, one thing that leads to good destinies, and one thing that leads to Nirvāṇa.
 
 “What’s one thing that leads to bad destinies? It’s the absence of kindness that harbors harmful thoughts. This is one thing that leads to bad destinies.
 
@@ -83,7 +83,7 @@ The Buddha addressed the monks, “These three categories are one thing that lea
 
 “What are eight things that lead to good destinies? They are the mundane right practices: right view, right intent, right speech, right action, right livelihood, right method, right mindfulness, and right samādhi.
 
-“What are eight things that lead to Nirvāṇa? They are the noble eightfold path: right view, right intent, right speech, right action, right livelihood, right method, right mindfulness, and right samādhi.
+“What are eight things that lead to Nirvāṇa? They are the ![[Noble Path]].
 
 “Again, there are nine things that lead to bad destinies, nine things that lead to good destinies, and nine things that lead to Nirvāṇa.
 
@@ -101,9 +101,9 @@ The Buddha addressed the monks, “These three categories are one thing that lea
 
 “What are ten things that lead to Nirvāṇa? They are the ten straight paths: right view, right intent, right speech, right action, right livelihood, right method, right mindfulness, right samādhi, right liberation, and right knowledge.
 
-“Monks, thus are the ten things that make arriving at Nirvāṇa possible. This is called the sublime and correct teaching in three categories. I’m the Tathāgata; I’ve provided all that I should for you. Taking pity on you, I’ve lectured on the sutras and the path. You should also take pity on yourselves and go to a quiet place under a tree or in an empty dwelling to contemplate. Don’t be negligent. Nothing’s gained by not exerting yourselves today and regretting it later.”
+“bhikkhus, thus are the ten things that make arriving at Nirvāṇa possible. This is called the sublime and correct teaching in three categories. I’m the Tathāgata; I’ve provided all that I should for you. Taking pity on you, I’ve lectured on the sutras and the path. You should also take pity on yourselves and go to a quiet place under a tree or in an empty dwelling to contemplate. Don’t be negligent. Nothing’s gained by not exerting yourselves today and regretting it later.”
 
-The monks who heard what the Buddha taught rejoiced and approved.
+The bhikkhus who heard what the Buddha taught rejoiced and approved.
 
 
 ---

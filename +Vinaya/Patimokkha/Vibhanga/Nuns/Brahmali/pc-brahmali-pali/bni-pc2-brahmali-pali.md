@@ -22,12 +22,12 @@ language: "Pali - English"
 
 2The nuns heard the complaints of those sex workers, and the nuns of few desires complained and criticized them, “How can the nuns from the group of six remove the hair from their private parts?” …
 
-“Is it true, monks, that those nuns do that?”
+“Is it true, bhikkhus, that those nuns do that?”
 
 
 “It’s true, Sir.”
 
-The Buddha rebuked them, “How can the nuns from the group do that? This will affect people’s confidence …” … “And, monks, the nuns should recite this training rule like this:
+The Buddha rebuked them, “How can the nuns from the group do that? This will affect people’s confidence …” … “And, bhikkhus, the nuns should recite this training rule like this:
 
 #### Final ruling
 

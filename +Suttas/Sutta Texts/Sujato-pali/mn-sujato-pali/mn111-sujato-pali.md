@@ -18,11 +18,11 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants: “Mendicants!”
+1So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the bhikkhus: “bhikkhus!”
 
 “Venerable sir,” they replied. The Buddha said this:
 
-2“Sāriputta is astute, mendicants. He has great wisdom, widespread wisdom, laughing wisdom, swift wisdom, sharp wisdom, and penetrating wisdom. For a fortnight he practiced discernment of phenomena one by one. And this is how he did it.
+2“Sāriputta is astute, bhikkhus. He has great wisdom, widespread wisdom, laughing wisdom, swift wisdom, sharp wisdom, and penetrating wisdom. For a fortnight he practiced discernment of phenomena one by one. And this is how he did it.
 
 
 3Quite secluded from sensual pleasures, secluded from unskillful qualities, he entered and remained in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering.
@@ -71,7 +71,7 @@ And if there’s anyone of whom it may be rightly said that they’re the Buddha
 Sāriputta rightly keeps rolling the supreme Wheel of Dhamma that was rolled forth by the Realized One.”
 
 
-13That is what the Buddha said. Satisfied, the mendicants were happy with what the Buddha said.
+13That is what the Buddha said. Satisfied, the bhikkhus were happy with what the Buddha said.
 
 #### Pali
 

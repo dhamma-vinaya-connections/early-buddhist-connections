@@ -24,25 +24,25 @@ language: "English - Pali"
 
 So I have heard:
 
-At one time the Buddha was wandering in the land of the Northern Āpaṇas together with a large Saṅgha of 1,250 mendicants when he arrived at a town of the Northern Āpaṇas named Āpaṇa.
+At one time the Buddha was wandering in the land of the Northern Āpaṇas together with a large Saṅgha of 1,250 bhikkhus when he arrived at a town of the Northern Āpaṇas named Āpaṇa.
 
-The matted-hair ascetic Keṇiya heard: “It seems the ascetic Gotama—a Sakyan, gone forth from a Sakyan family—has arrived at Āpaṇa, together with a large Saṅgha of 1,250 mendicants. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.”
+The matted-hair ascetic Keṇiya heard: “It seems the ascetic Gotama—a Sakyan, gone forth from a Sakyan family—has arrived at Āpaṇa, together with a large Saṅgha of 1,250 bhikkhus. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.”
 
-So Keṇiya approached the Buddha and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side. The Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk. Then he said to the Buddha: “Would Master Gotama together with the mendicant Saṅgha please accept tomorrow’s meal from me?”
+So Keṇiya approached the Buddha and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side. The Buddha educated, encouraged, fired up, and inspired him with a Dhamma talk. Then he said to the Buddha: “Would Master Gotama together with the bhikkhu Saṅgha please accept tomorrow’s meal from me?”
 
-When he said this, the Buddha said to him: “The Saṅgha is large, Keṇiya; there are 1,250 mendicants. And you are devoted to the brahmins.”
-
----
-
-For a second time, Keṇiya asked the Buddha to accept a meal offering. “Never mind that the Saṅgha is large, with 1,250 mendicants, and that I am devoted to the brahmins. Would Master Gotama together with the mendicant Saṅgha please accept tomorrow’s meal from me?” And for a second time, the Buddha gave the same reply.
+When he said this, the Buddha said to him: “The Saṅgha is large, Keṇiya; there are 1,250 bhikkhus. And you are devoted to the brahmins.”
 
 ---
 
-For a third time, Keṇiya asked the Buddha to accept a meal offering. “Never mind that the Saṅgha is large, with 1,250 mendicants, and that I am devoted to the brahmins. Would Master Gotama together with the mendicant Saṅgha please accept tomorrow’s meal from me?” The Buddha consented in silence.
+For a second time, Keṇiya asked the Buddha to accept a meal offering. “Never mind that the Saṅgha is large, with 1,250 bhikkhus, and that I am devoted to the brahmins. Would Master Gotama together with the bhikkhu Saṅgha please accept tomorrow’s meal from me?” And for a second time, the Buddha gave the same reply.
 
 ---
 
-Then, knowing that the Buddha had consented, Keṇiya got up from his seat and went to his own hermitage. There he addressed his friends and colleagues, relatives and family members: “My friends and colleagues, relatives and family members: please listen! The ascetic Gotama together with the mendicant Saṅgha has been invited by me for tomorrow’s meal. Please help me with the preparations.”
+For a third time, Keṇiya asked the Buddha to accept a meal offering. “Never mind that the Saṅgha is large, with 1,250 bhikkhus, and that I am devoted to the brahmins. Would Master Gotama together with the bhikkhu Saṅgha please accept tomorrow’s meal from me?” The Buddha consented in silence.
+
+---
+
+Then, knowing that the Buddha had consented, Keṇiya got up from his seat and went to his own hermitage. There he addressed his friends and colleagues, relatives and family members: “My friends and colleagues, relatives and family members: please listen! The ascetic Gotama together with the bhikkhu Saṅgha has been invited by me for tomorrow’s meal. Please help me with the preparations.”
 
 “Yes, sir,” they replied. Some dug ovens, some chopped wood, some washed dishes, some set out a water jar, and some spread out seats. Meanwhile, Keṇiya set up the pavilion himself.
 
@@ -50,7 +50,7 @@ Now at that time the brahmin Sela was residing in Āpaṇa. He had mastered the 
 
 And at that time Keṇiya was devoted to Sela. Then Sela, while going for a walk escorted by the three hundred students, approached Keṇiya’s hermitage. He saw the preparations going on, and said to Keṇiya: “Keṇiya, is your son or daughter being married? Or are you setting up a big sacrifice? Or has King Seniya Bimbisāra of Magadha been invited for tomorrow’s meal?”
 
-“There is no marriage, Sela, and the king is not coming. Rather, I am setting up a big sacrifice. The ascetic Gotama has arrived at Āpaṇa, together with a large Saṅgha of 1,250 mendicants. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has been invited by me for tomorrow’s meal together with the mendicant Saṅgha.”
+“There is no marriage, Sela, and the king is not coming. Rather, I am setting up a big sacrifice. The ascetic Gotama has arrived at Āpaṇa, together with a large Saṅgha of 1,250 bhikkhus. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ He has been invited by me for tomorrow’s meal together with the bhikkhu Saṅgha.”
 
 “Mister Keṇiya, did you say ‘the awakened one’?”
 
@@ -93,7 +93,7 @@ you’re formidable, upright, majestic.
 In the midst of the Saṅgha of ascetics,  
 you shine like the sun.
 
-551 You’re a mendicant fine to see,  
+551 You’re a bhikkhu fine to see,  
 with skin of golden sheen.  
 But with such excellent appearance,  
 what do you want with the ascetic life?
@@ -206,9 +206,9 @@ said the Buddha,
 Here the going forth isn’t in vain  
 for one who trains with diligence.”
 
-And the brahmin Sela together with his assembly received the going forth, the ordination in the Buddha’s presence. And when the night had passed Keṇiya had a variety of delicious foods prepared in his own home. Then he had the Buddha informed of the time, saying: “It’s time, Master Gotama, the meal is ready.” Then the Buddha robed up in the morning and, taking his bowl and robe, went to Keṇiya’s hermitage, where he sat on the seat spread out, together with the Saṅgha of mendicants.
+And the brahmin Sela together with his assembly received the going forth, the ordination in the Buddha’s presence. And when the night had passed Keṇiya had a variety of delicious foods prepared in his own home. Then he had the Buddha informed of the time, saying: “It’s time, Master Gotama, the meal is ready.” Then the Buddha robed up in the morning and, taking his bowl and robe, went to Keṇiya’s hermitage, where he sat on the seat spread out, together with the Saṅgha of bhikkhus.
 
-Then Keṇiya served and satisfied the mendicant Saṅgha headed by the Buddha with his own hands with a variety of delicious foods. When the Buddha had eaten and washed his hand and bowl, Keṇiya took a low seat and sat to one side. The Buddha expressed his appreciation with these verses:
+Then Keṇiya served and satisfied the bhikkhu Saṅgha headed by the Buddha with his own hands with a variety of delicious foods. When the Buddha had eaten and washed his hand and bowl, Keṇiya took a low seat and sat to one side. The Buddha expressed his appreciation with these verses:
 
 ---
 
@@ -251,7 +251,7 @@ your defilements are shattered;
 you are a lion, free of grasping,  
 with fear and dread given up.
 
-573 These three hundred mendicants  
+573 These three hundred bhikkhus  
 stand with joined palms raised.  
 Stretch out your feet, great hero:  
 let these giants bow to the Teacher.”

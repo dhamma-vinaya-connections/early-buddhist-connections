@@ -15,13 +15,13 @@ language: "English"
 
 Saying: “Throw out these shaven-headed strumpets,”[^2] he threw them out from the house. Then these nuns, having arrived in Sāvatthī, told this matter to the nuns. Those who were modest nuns … spread it about, saying: “How can these nuns, having approached families at the wrong time, having spread a sleeping-place without asking the owner (for permission), sit down on it[^3] and lie down on it?” …
 
-“Is it true, as is said, monks, that nuns … lay down on it?”
+“Is it true, as is said, bhikkhus, that nuns … lay down on it?”
 
 “It is true, lord.”
 
 The enlightened one, the lord, rebuked them, saying:
 
-“How, monks, can nuns, having approached families … lie down on it? It is not, monks, for pleasing those who are not (yet) pleased … this rule of training:
+“How, bhikkhus, can nuns, having approached families … lie down on it? It is not, bhikkhus, for pleasing those who are not (yet) pleased … this rule of training:
 
 “Whatever nun, having approached families at the wrong time, having spread or having caused a sleeping- *BD.3.276* place to be spread without asking the owner (for permission), should sit down on it or should lie down on it, there is an offence of expiation.”
 

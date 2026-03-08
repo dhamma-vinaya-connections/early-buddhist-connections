@@ -16,13 +16,13 @@ language: "Pali - English"
 
 #### Origin
 
-1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the monks from the group of six were looking at the bowls of others finding fault. …
+1At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery. At that time the bhikkhus from the group of six were looking at the bowls of others finding fault. …
 
 #### Final ruling
 
 2“‘I will not look at another’s almsbowl finding fault,’ this is how you should train.”
 
-3One should not look at the bowl of another finding fault. If a monk, out of disrespect, looks at the bowl of another finding fault, he commits an offense of wrong conduct.
+3One should not look at the bowl of another finding fault. If a bhikkhu, out of disrespect, looks at the bowl of another finding fault, he commits an offense of wrong conduct.
 
 #### Non-offenses
 

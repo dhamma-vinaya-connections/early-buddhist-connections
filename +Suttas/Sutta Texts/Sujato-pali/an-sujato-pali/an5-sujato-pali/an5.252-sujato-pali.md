@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, dependence should be given by a mendicant with five qualities. What five? It’s a mendicant who has the entire spectrum of an adept’s ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. Dependence should be given by a mendicant with these five qualities.”
+1“bhikkhus, dependence should be given by a bhikkhu with five qualities. What five? It’s a bhikkhu who has the entire spectrum of an adept’s ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom. Dependence should be given by a bhikkhu with these five qualities.”
 
 1"Pañcahi, bhikkhave, dhammehi samannāgatena bhikkhunā nissayo dātabbo. Katamehi pañcahi? Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti … pe … asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti. Imehi … pe … nissayo dātabbo"ti.
 

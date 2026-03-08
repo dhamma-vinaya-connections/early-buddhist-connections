@@ -1108,10 +1108,10 @@ tags:
 - Other notes:
 	- sense doors, guarding (indriyesu guttadvāra)
 		- like dressing wounds: [[MN33]], [[AN11.17]]
-		- mendicant with cannot decline: [[AN4.37]]
+		- bhikkhu with cannot decline: [[AN4.37]]
 		- needed for mindfulness of body: [[AN6.117]], [[AN6.118]]
 		- needed to reach superhuman states: [[AN6.77]]
-		- not guarding leading to mendicant’s decline: [[AN8.79]]
+		- not guarding leading to bhikkhu’s decline: [[AN8.79]]
 		- wilderness monks should: [[MN69]]
 
 ---

@@ -15,7 +15,7 @@ contribution:
 >  The conditions under which the true teaching lasts long or does not last long after the Buddha ’s passing. The Buddha  says it depends on whether the four kinds of mindfulness meditation are practiced
 
 > [!example]- 🌐[[SA607]] - 📜[Available texts](obsidian://search?query=file:sa607-) - SA 7.3 – ? 
->  The Buddha  teaches the mendicants about the four kinds of mindfulness meditation and the practice of situational awareness.
+>  The Buddha  teaches the bhikkhus about the four kinds of mindfulness meditation and the practice of situational awareness.
 
 > [!example]- 🌐[[SA608]] - 📜[Available texts](obsidian://search?query=file:sa608-) - SA 7.4 – ? 
 >  The full knowledge of mindfulness meditation was not learned before the Buddha  and they lead to peace, to abandon desire, to  realize the deathless.
@@ -30,7 +30,7 @@ contribution:
 >  Success in meditation depends upon laying skillful foundations, well grounded on good bodily, verbal, and mental conduct.
 
 > [!example]- 🌐[[SA612]] - 📜[Available texts](obsidian://search?query=file:sa612-) - SA 7.10-11 – The Archer 
->  The Buddha ’s teaching rests on his possession of ten powers and four grounds for self-confidence. When hearing such an open teaching, a mendicant puts forth great effort, considering the good for both themselves and for others
+>  The Buddha ’s teaching rests on his possession of ten powers and four grounds for self-confidence. When hearing such an open teaching, a bhikkhu puts forth great effort, considering the good for both themselves and for others
 
 > [!example]- 🌐[[SA613]] - 📜[Available texts](obsidian://search?query=file:sa613-) - SA 7.12-16 – ? 
 >  
@@ -42,10 +42,10 @@ contribution:
 >  How to respond skillfully to distracted states of mind that interfere with concentration.
 
 > [!example]- 🌐[[SA616]] - 📜[Available texts](obsidian://search?query=file:sa616-) - SA 7.19 – ? 
->  The parable of the cook. They present different kinds of dishes to the king, and observe which the king likes. In the same way, a mendicant observes why their meditation succeeds or fails. When the four kinds of mindfulness meditation succeeds it leads to giving up hindrances and entering immersion.
+>  The parable of the cook. They present different kinds of dishes to the king, and observe which the king likes. In the same way, a bhikkhu observes why their meditation succeeds or fails. When the four kinds of mindfulness meditation succeeds it leads to giving up hindrances and entering immersion.
 
 > [!example]- 🌐[[SA617]] - 📜[Available texts](obsidian://search?query=file:sa617-) - SA 7.20 – ? 
->  The parable of the quail and the hawk. When the quail ventured outside her ancestral territory, she became vulnerable. And what is a mendicant’s ancestral territory? The four kinds of mindfulness meditation
+>  The parable of the quail and the hawk. When the quail ventured outside her ancestral territory, she became vulnerable. And what is a bhikkhu’s ancestral territory? The four kinds of mindfulness meditation
 
 > [!example]- 🌐[[SA618]] - 📜[Available texts](obsidian://search?query=file:sa618-) - SA 7.21 – ? 
 >  
@@ -57,10 +57,10 @@ contribution:
 >  Keep your mind in its proper territory — the four frames of reference — lest you lose it altogether, like this pitiful monkey stuck in a tar trap.
 
 > [!example]- 🌐[[SA621]] - 📜[Available texts](obsidian://search?query=file:sa621-) - SA 7.24 – The Young Monks 
->  Newly ordained mendicants should practice the four kinds of mindfulness meditation; trainees are practicing them, and perfected ones have perfected the practice.
+>  Newly ordained bhikkhus should practice the four kinds of mindfulness meditation; trainees are practicing them, and perfected ones have perfected the practice.
 
 > [!example]- 🌐[[SA622]] - 📜[Available texts](obsidian://search?query=file:sa622-) - SA 7.25 – ? 
->  The Buddha  teaches the mendicants about the four kinds of mindfulness meditation and the practice of situational awareness.
+>  The Buddha  teaches the bhikkhus about the four kinds of mindfulness meditation and the practice of situational awareness.
 
 > [!example]- 🌐[[SA623]] - 📜[Available texts](obsidian://search?query=file:sa623-) - SA 7.26 – The World Beauty 
 >  A parable that sets up an impossible challenge: to walk between a popular performer and the crowd jostling to see her, carrying a bowl of oil filled to the brim, while a man with a drawn sword waits to chop off your head if you spill a drop. That’s mindfulness
